@@ -3,46 +3,68 @@
 ### PleasureDome Collection ###
 ###############################
 
+PD_LINE_REG="Datfile.*:.*\(https://.*.zip\)"
 MD_LINK_REG="^.*\[\(.*\)\].*(\(https:.*.zip\)).*$"
-PD_LINE_REG="Datfile:.*\(https://.*.zip\)"
+MD_LINK_SED_REPL="name=\"\1\";file=\"\2\""
+PD_DIR="$ROOT/PleasureDome"
 
 echo "*** building PleasureDome collection ***"
-mkdir -p "$ROOT/PleasureDome"
+mkdir -p "$PD_DIR"
+
+pd_fetch() {
+	echo "** fetching $1 **"
+	PD_REF_ROOT="${PD_DIR}/$1"
+	PD_REF_INDEX="$2"
+	
+	mkdir -p "$PD_REF_ROOT"
+	pushd "$PD_REF_ROOT" >/dev/null
+	
+	rm -rf "$PD_REF_ROOT"/*
+	
+	for i in $(curl -s -L "${PD_REF_INDEX}" | grep "${PD_LINE_REG}" | sed -n "s/${MD_LINK_REG}/${MD_LINK_SED_REPL}/p")
+	do
+		# analyse entry
+		eval $i
+		fname="$(basename $file)"
+		dot_green
+		echo -n " \"$name\""
+		DONE
+		
+		# get file
+		encoded=$(echo "$file" | sed 's/ /%20/g')
+		curl -s -L "$encoded" -o "$fname"
+		
+		# unzip content
+		entry=$(zipinfo -1 "$fname" | head -n 1)
+		if [ "${fname%.*}" = "${entry%.*}" ]; then
+			unar -q "$fname"
+		else
+			ffname="${fname%.*}"
+			if [ "${ffname%.*}" = "${entry%.*}" ]; then
+				unar -q "$fname"
+			else
+				unar -q -d "$fname"
+			fi
+		fi
+		
+		# remove zip
+		rm "$fname"
+	done
+	popd >/dev/null
+}
+
+
 
 ## Latest Mame
-# todo
+pd_fetch "MAME" "https://raw.githubusercontent.com/pleasuredome/pleasuredome/gh-pages/mame/index.md"
 
 ## Reference Sets
-PD_REF_INDEX="https://raw.githubusercontent.com/pleasuredome/pleasuredome/gh-pages/mame-reference-sets/index.md"
-PD_REF_ROOT="$ROOT/PleasureDome/Mame Reference Set"
-
-echo "** fetching mame reference sets **"
-mkdir -p "$PD_REF_ROOT"
-pushd "$PD_REF_ROOT" >/dev/null
-
-rm -rf "$PD_REF_ROOT"/*
-
-for i in $(curl -s -L "$(PD_REF_INDEX)" | grep "$(PD_LINE_REG)" | sed -n "s/$(MD_LINK_REG)/name=\"\1\";file=\"\2\"/p")
-do
-	# analyse entry
-	eval $i
-	fname="$(basename $file)"
-	echo "- found \"$name\""
-	
-	# get file
-	encoded=$(echo "$file" | sed 's/ /%20/g')
-	curl -s -L "$encoded" -o "$fname"
-	
-	# unzip content
-	unar -q "$fname"
-	
-	# remove zip
-	rm "$fname"
-done
-popd >/dev/null
+pd_fetch "MAME Reference Sets" "https://raw.githubusercontent.com/pleasuredome/pleasuredome/gh-pages/mame-reference-sets/index.md"
 
 ## HBMame
-# todo
+pd_fetch "HBMAME" "https://raw.githubusercontent.com/pleasuredome/pleasuredome/gh-pages/hbmame/index.md"
 
 ## Fruit Machines
-# todo
+pd_fetch "Fruit Machines" "https://raw.githubusercontent.com/pleasuredome/pleasuredome/gh-pages/fruitmachines/index.md"
+
+
