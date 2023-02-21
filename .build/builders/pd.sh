@@ -8,11 +8,11 @@ MD_LINK_REG="^.*\[\(.*\)\].*(\(https:.*.zip\)).*$"
 MD_LINK_SED_REPL="name=\"\1\";file=\"\2\""
 PD_DIR="$ROOT/PleasureDome"
 
-echo "*** building PleasureDome collection ***"
+white "\n*** Building PleasureDome collection ***\n"
 mkdir -p "$PD_DIR"
 
 pd_fetch() {
-	echo "** fetching $1 **"
+	bold_yellow "\n** Fetching $1 **\n"
 	PD_REF_ROOT="${PD_DIR}/$1"
 	PD_REF_INDEX="$2"
 	
@@ -66,5 +66,4 @@ pd_fetch "HBMAME" "https://raw.githubusercontent.com/pleasuredome/pleasuredome/g
 
 ## Fruit Machines
 pd_fetch "Fruit Machines" "https://raw.githubusercontent.com/pleasuredome/pleasuredome/gh-pages/fruitmachines/index.md"
-
 
