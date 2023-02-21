@@ -26,3 +26,9 @@ IFS=$'\n'
 for f in *.sh; do . "$f"; done
 popd >/dev/null
 
+## 4 : build indexes
+white "\n*** build indexes ***"
+index_scan "$DIR/root"
+DONE
+
+
