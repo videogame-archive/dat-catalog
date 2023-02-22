@@ -27,7 +27,7 @@ for f in *.sh; do . "$f"; done
 popd >/dev/null
 
 ## 4 : build indexes
-white "\n*** build indexes ***"
+white "\n*** Building indexes ***"
 index_scan "$DIR/root"
 DONE
 
