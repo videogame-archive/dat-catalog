@@ -5,15 +5,27 @@ index_header() {
 }
 
 index_scan() {
-	if [[ -f "$1" ]]; then
-		echo -n "FILE,\"$1\",,," >> .index.csv
-		echo $(cksum "$1" | cut -d ' ' -f 1-2 --output-delimiter=',') >> .index.csv
+	baseurl="https://github.com/open-retrogaming-archive/dat-catalog/raw/main/root"
+	root="$1"
+	current="$(pwd)"
+	relative=${current#"$root"}
+	if [ -z "$2" ]; then
+		path="$1";
+		local currenturl="${baseurl}"
 	else
-		echo "DIR,\"$1\",,,," >> .index.csv
-		pushd "$1" >/dev/null
+		path="$2";
+		local currenturl="${3}/$(rawurlencode $2)"
+	fi
+	
+	if [[ -f "$path" ]]; then
+		echo -n "FILE,\"$path\",\"$currenturl\",," >> .index.csv
+		echo $(cksum "$path" | cut -d ' ' -f 1-2 --output-delimiter=',') >> .index.csv
+	else
+		echo "DIR,\"$path\",,,," >> .index.csv
+		pushd "$path" >/dev/null
 		index_header
 		for e in $(ls -1); do
-			index_scan "$e"
+			index_scan "$root" "$e" "$currenturl"
 		done
 		popd >/dev/null
 	fi
