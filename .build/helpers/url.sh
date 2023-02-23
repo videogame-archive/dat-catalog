@@ -1,6 +1,6 @@
 #!/bin/bash
 
- rawurlencode() {
+rawurlencode() {
     local string="${1}"
     local strlen=${#string}
     local encoded=""
