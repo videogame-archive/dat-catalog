@@ -19,37 +19,53 @@ pd_fetch() {
 	mkdir -p "$PD_REF_ROOT"
 	pushd "$PD_REF_ROOT" >/dev/null
 	
-	rm -rf "$PD_REF_ROOT"/*
+	if [ "$(get_current_date)" -gt "$(get_modified_date)" ]
+	then
+		files=$(curl -s -L "${PD_REF_INDEX}" | grep "${PD_LINE_REG}" | sed -n "s/${MD_LINK_REG}/${MD_LINK_SED_REPL}/p")
+		if [ $? -eq 0 ]
+		then
+			rm -rf "$PD_REF_ROOT"/*
+			for i in $files
+			do
+				# analyse entry
+				eval $i
+				fname="$(basename $file)"
+				dot_green
+				echo -n " \"$name\""
+				
+				# get file
+				encoded=$(echo "$file" | sed 's/ /%20/g')
+				curl -s -L "$encoded" -o "$fname"
+				
+				# unzip content
+				entry=$(zipinfo -1 "$fname" | head -n 1)
+				if [ "${fname%.*}" = "${entry%.*}" ]; then
+					unar -q "$fname"
+				else
+					ffname="${fname%.*}"
+					if [ "${ffname%.*}" = "${entry%.*}" ]; then
+						unar -q "$fname"
+					else
+						unar -q -d "$fname"
+					fi
+				fi
+				
+				# remove zip
+				rm "$fname"
 	
-	for i in $(curl -s -L "${PD_REF_INDEX}" | grep "${PD_LINE_REG}" | sed -n "s/${MD_LINK_REG}/${MD_LINK_SED_REPL}/p")
-	do
-		# analyse entry
-		eval $i
-		fname="$(basename $file)"
-		dot_green
-		echo -n " \"$name\""
-		DONE
-		
-		# get file
-		encoded=$(echo "$file" | sed 's/ /%20/g')
-		curl -s -L "$encoded" -o "$fname"
-		
-		# unzip content
-		entry=$(zipinfo -1 "$fname" | head -n 1)
-		if [ "${fname%.*}" = "${entry%.*}" ]; then
-			unar -q "$fname"
+				DONE
+			done
+			write_modified
 		else
-			ffname="${fname%.*}"
-			if [ "${ffname%.*}" = "${entry%.*}" ]; then
-				unar -q "$fname"
-			else
-				unar -q -d "$fname"
-			fi
+			dot_red
+			echo -n " Could not fetch $1"
+			BAD
 		fi
-		
-		# remove zip
-		rm "$fname"
-	done
+	else
+		dot_yellow
+		echo -n " Already downloaded $1 today"
+		MISS
+	fi
 	popd >/dev/null
 }
 
