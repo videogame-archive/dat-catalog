@@ -1,4 +1,11 @@
-import java.io.*;
+package com.gitub.openretrogamingarchive;
+
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVPrinter;
+
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
@@ -13,7 +20,7 @@ public class RedumpUpdater {
 
     private static final String ROOT_REDUMP_DIR = "Redump";
 
-    public static void main(String[] args) throws IOException {
+    public static void updateRedump() throws IOException {
         List<RedumpSystem> systems = getRedumpSystems();
         for (RedumpSystem system:systems) {
             saveSystemDat(Path.of(ROOT_LATEST_DIR, ROOT_REDUMP_DIR), system);
@@ -157,25 +164,25 @@ public class RedumpUpdater {
     // CSV Generation Helper methods
     //
 
-    private static final String CSV_HEADERS = "\"type\", \"name\", \"download url\"";
-    private static final String LF = "\n";
-    private enum Type { FILE, FOLDER };
+    private enum Headers { Type, Name, URL };
+    private enum Type { FILE, DIRECTORY };
 
-    private static String escape(String string) {
-        return "\"" + string + "\"";
-    }
     private static void saveSystemsIndex(Path redump, List<RedumpSystem> redumpSystems) throws IOException {
         StringBuilder rootIndex = new StringBuilder();
-        rootIndex.append(CSV_HEADERS).append(LF);
+        CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(Headers.class);
+        CSVPrinter csvPrinter = new CSVPrinter(rootIndex, csvFormat);
         for (RedumpSystem redumpSystem:redumpSystems) {
             if (redumpSystem.getDatDownloadURL() != null) {
-                rootIndex.append(escape(Type.FOLDER.name())).append(",").append(escape(redumpSystem.getName())).append(",").append(LF);
+                String[] values = new String[] { Type.DIRECTORY.name(), redumpSystem.getName() };
+                csvPrinter.printRecord(values);
             }
 
             if (redumpSystem.getBiosDatDownloadURL() != null) {
-                rootIndex.append(escape(Type.FOLDER.name())).append(",").append(escape(redumpSystem.getName() + " - BIOS Images")).append(",").append(LF);
+                String[] values = new String[] { Type.DIRECTORY.name(), redumpSystem.getName() + " - BIOS Images"};
+                csvPrinter.printRecord(values);
             }
         }
+        csvPrinter.close();
         Path redumpIndex = redump.resolve("index.csv");
         Files.write(redumpIndex, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
     }
@@ -185,11 +192,11 @@ public class RedumpUpdater {
         String redumpSystemDirName = redumpSystemDir.getName(redumpSystemDir.getNameCount() - 1).toString();
         String redumpSystemDatName = redumpSystemDat.getName(redumpSystemDat.getNameCount() - 1).toString();
         StringBuilder indexContent = new StringBuilder();
-        indexContent.append(CSV_HEADERS).append(LF);
-        indexContent.append(escape(Type.FILE.name())).append(",");
-        indexContent.append(escape(redumpSystemDatName)).append(",");
-        indexContent.append(escape(DOWNLOAD_URL_TEMPLATE + redumpSystemDirName + "/" + redumpSystemDatName));
-        indexContent.append(LF);
+        CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(Headers.class);
+        CSVPrinter csvPrinter = new CSVPrinter(indexContent, csvFormat);
+        String[] record = {Type.FILE.name(), redumpSystemDatName, DOWNLOAD_URL_TEMPLATE + redumpSystemDirName + "/" + redumpSystemDatName};
+        csvPrinter.printRecord(record);
+        csvPrinter.close();
         Path redumpIndex = redumpSystemDir.resolve("index.csv");
         Files.write(redumpIndex, indexContent.toString().getBytes(StandardCharsets.UTF_8));
     }
