@@ -18,10 +18,14 @@ index_scan() {
 	fi
 	
 	if [[ -f "$path" ]]; then
-		echo -n "FILE,\"$path\",\"$currenturl\",," >> .index.csv
-		echo $(cksum "$path" | cut -d ' ' -f 1-2 --output-delimiter=',') >> .index.csv
+		if [ -f .index.csv ]; then 
+			echo -n "FILE,\"$path\",\"$currenturl\",," >> .index.csv
+			echo $(cksum "$path" | cut -d ' ' -f 1-2 --output-delimiter=',') >> .index.csv
+		fi
 	else
-		echo "DIR,\"$path\",,,," >> .index.csv
+		if [ -f .index.csv ]; then
+			echo "DIR,\"$path\",,,," >> .index.csv
+		fi
 		pushd "$path" >/dev/null
 		index_header
 		for e in $(ls -1); do
