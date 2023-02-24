@@ -16,7 +16,7 @@ import java.util.List;
 
 public class RedumpUpdater {
 
-    private static final String ROOT_LATEST_DIR = "latest";
+    private static final String ROOT_LATEST_DIR = "../latest";
 
     private static final String ROOT_REDUMP_DIR = "Redump";
 
@@ -31,11 +31,13 @@ public class RedumpUpdater {
     public static class RedumpSystem {
         private final String name;
         private final String datDownloadURL;
+        private final String subChannelsSBIDatDownloadURL;
         private final String biosDatDownloadURL;
 
-        public RedumpSystem(String name, String datDownloadURL, String biosDatDownloadURL) {
+        public RedumpSystem(String name, String datDownloadURL, String subChannelsSBIDatDownloadURL, String biosDatDownloadURL) {
             this.name = name;
             this.datDownloadURL = datDownloadURL;
+            this.subChannelsSBIDatDownloadURL = subChannelsSBIDatDownloadURL;
             this.biosDatDownloadURL = biosDatDownloadURL;
         }
 
@@ -45,6 +47,10 @@ public class RedumpUpdater {
 
         public String getDatDownloadURL() {
             return datDownloadURL;
+        }
+
+        public String getSubChannelsSBIDatDownloadURL() {
+            return subChannelsSBIDatDownloadURL;
         }
 
         public String getBiosDatDownloadURL() {
@@ -66,8 +72,9 @@ public class RedumpUpdater {
             List<String> systemInfo = scrap(system, "<td>", "</td>");
             String name = systemInfo.get(0);
             String dat = scrapOne(systemInfo.get(2), "<a href=\"", "\">");
+            String subDat = scrapOne(systemInfo.get(3), "<a href=\"", "\">");
             String biosDat = scrapOne(systemInfo.get(5), "<a href=\"", "\">");
-            redumpSystems.add(new RedumpSystem(name, dat, biosDat));
+            redumpSystems.add(new RedumpSystem(name, dat, subDat, biosDat));
         }
         return redumpSystems;
     }
@@ -86,13 +93,22 @@ public class RedumpUpdater {
             saveDatIndex(redumpSystemDir, redumpSystemDat);
         }
 
+        if (redumpSystem.getSubChannelsSBIDatDownloadURL() != null) {
+            Path redumpSystemDir = redump.resolve(redumpSystem.getName() + " - SBI Subchannels");
+            if (!Files.exists(redumpSystemDir)) {
+                Files.createDirectory(redumpSystemDir);
+            }
+            Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir);
+            saveDatIndex(redumpSystemDir, redumpSystemDat);
+        }
+
         if (redumpSystem.getBiosDatDownloadURL() != null) {
             Path redumpSystemDir = redump.resolve(redumpSystem.getName() + " - BIOS Images");
             if (!Files.exists(redumpSystemDir)) {
                 Files.createDirectory(redumpSystemDir);
             }
-            Path redumpBiosDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir);
-            saveDatIndex(redumpSystemDir, redumpBiosDat);
+            Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir);
+            saveDatIndex(redumpSystemDir, redumpSystemDat);
         }
     }
 
