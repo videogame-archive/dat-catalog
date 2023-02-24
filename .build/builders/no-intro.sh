@@ -23,7 +23,7 @@ pushd "$NI_DIR" >/dev/null
 if [ "$(get_current_date)" -gt "$(get_modified_date)" ]
 then
 	dot_green
-	echo -n " unzipping global archive..."
+	echo -n " Fetching global archive..."
 	location=$(curl -s -i -H "Content-Type: application/x-www-form-urlencoded" -d "${NI_FORM}" -c "${NI_COOKIE}" "${NI_URL}${NI_PAGE}" | grep -oP 'location: \K.*' | tr -d '[:space:]')
 	curl -s -S -H "Content-Type: application/x-www-form-urlencoded" -d "lazy_mode=Download" -b "${NI_COOKIE}" -o "${NI_ARCHIVE}" "${NI_URL}${location}"
 	rm "${NI_COOKIE}"
@@ -35,7 +35,7 @@ then
 		if [ $? -eq 0 ];
 		then
 			dot_green
-			echo -n " unzipping global archive..."
+			echo -n " Unzipping global archive..."
 			rm -rf ./*
 			unzip -q "${NI_ARCHIVE}"
 			rm *.txt
@@ -55,5 +55,41 @@ else
 	echo -n " Already downloaded today"
 	MISS
 fi
+
+dot_green
+echo -n " Rebuilding latest dirs/links..."
+for dir in *
+do
+	pushd "$dir" >/dev/null
+	rm -rf "latest"
+	for entry in *.dat
+	do
+		name=
+		brand=
+		model=
+		eval $(echo "$entry" | sed -n "s/^\(.*\) - \([^-]*\) - \(.*\) (.*).dat$/name=\"\1\";brand=\"\2\";model=\"\3\"/p")
+		if [ -z "$name" ]; then
+			eval $(echo "$entry" | sed -n "s/^\(.*\) - \(.*\) (.*).dat$/brand=\"\1\";model=\"\2\"/p")
+		fi
+		if [ "$dir" = "$brand" ]; then
+			mkdir -p "latest"
+			pushd "latest" >/dev/null
+			ln -s "../$(basename "$entry")" "${model}.dat"
+			popd >/dev/null
+		elif [ -z "$name" -o "$dir" = "$name" ]; then
+			mkdir -p "latest/${brand}"
+			pushd "latest/${brand}" >/dev/null
+			ln -s "../../$(basename "$entry")" "${model}.dat"
+			popd >/dev/null
+		else
+			mkdir -p "latest/${name}/${brand}"
+			pushd "latest/${name}/${brand}" >/dev/null
+			ln -s "../../../$(basename "$entry")" "${model}.dat"
+			popd >/dev/null
+		fi
+	done
+	popd >/dev/null
+done
+DONE
 
 popd >/dev/null
