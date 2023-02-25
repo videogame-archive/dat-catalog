@@ -7,15 +7,21 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.github.openretrogamingarchive.Util.*;
+import static com.github.openretrogamingarchive.Util.Type;
+import static com.github.openretrogamingarchive.Util.downloadBytes;
+import static com.github.openretrogamingarchive.Util.downloadToFile;
+import static com.github.openretrogamingarchive.Util.saveCSV;
+import static com.github.openretrogamingarchive.Util.saveDatCSV;
+import static com.github.openretrogamingarchive.Util.scrap;
+import static com.github.openretrogamingarchive.Util.scrapOne;
 
 public class RedumpUpdater {
 
-    private static final String ROOT_REDUMP_DIR = "Redump";
+    private static final String ROOT_DIR = "Redump";
 
     public static void updateRedump(String pathToRoot) throws IOException {
         List<RedumpSystem> systems = getRedumpSystems();
-        saveSystemDats(Path.of(pathToRoot, ROOT_REDUMP_DIR), systems);
+        saveSystemDats(Path.of(pathToRoot, ROOT_DIR), systems);
     }
 
     public static class RedumpSystem {
@@ -48,21 +54,21 @@ public class RedumpUpdater {
         }
     }
 
-    public static final String REDUMP_DOMAIN = "http://redump.org";
-    public static final String REDUMP_DOWNLOADS_URL = REDUMP_DOMAIN + "/downloads/";
+    public static final String DOMAIN = "http://redump.org";
+    public static final String DOWNLOADS_URL = DOMAIN + "/downloads/";
     private static List<RedumpSystem> getRedumpSystems() throws IOException {
-        String publicRedumpDownloadsPage = new String(downloadBytes(REDUMP_DOWNLOADS_URL), StandardCharsets.UTF_8);
-        String systemsTable = Util.scrap(publicRedumpDownloadsPage, "<table class=\"statistics\" cellspacing=\"0\">", "</table>").get(0);
-        List<String> systems = Util.scrap(systemsTable, "<tr>", "</tr>");
+        String publicRedumpDownloadsPage = new String(downloadBytes(DOWNLOADS_URL), StandardCharsets.UTF_8);
+        String systemsTable = scrap(publicRedumpDownloadsPage, "<table class=\"statistics\" cellspacing=\"0\">", "</table>").get(0);
+        List<String> systems = scrap(systemsTable, "<tr>", "</tr>");
         systems.remove(0);
 
         List<RedumpSystem> redumpSystems = new ArrayList<>(systems.size());
         for (String system:systems) {
-            List<String> systemInfo = Util.scrap(system, "<td>", "</td>");
+            List<String> systemInfo = scrap(system, "<td>", "</td>");
             String name = systemInfo.get(0);
-            String dat = Util.scrapOne(systemInfo.get(2), "<a href=\"", "\">");
-            String subDat = Util.scrapOne(systemInfo.get(3), "<a href=\"", "\">");
-            String biosDat = Util.scrapOne(systemInfo.get(5), "<a href=\"", "\">");
+            String dat = scrapOne(systemInfo.get(2), "<a href=\"", "\">");
+            String subDat = scrapOne(systemInfo.get(3), "<a href=\"", "\">");
+            String biosDat = scrapOne(systemInfo.get(5), "<a href=\"", "\">");
             redumpSystems.add(new RedumpSystem(name, dat, subDat, biosDat));
         }
         return redumpSystems;
@@ -83,7 +89,7 @@ public class RedumpUpdater {
                 if (!Files.exists(redumpSystemDir)) {
                     Files.createDirectory(redumpSystemDir);
                 }
-                Path redumpSystemDat = downloadToFile(REDUMP_DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir, true);
+                Path redumpSystemDat = downloadToFile(DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir, true);
                 // Dat Index
                 saveDatCSV(redumpSystemDir, redumpSystemDat);
                 // Main Index
@@ -95,7 +101,7 @@ public class RedumpUpdater {
                 if (!Files.exists(redumpSystemDir)) {
                     Files.createDirectory(redumpSystemDir);
                 }
-                Path redumpSystemDat = downloadToFile(REDUMP_DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir, false);
+                Path redumpSystemDat = downloadToFile(DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir, false);
                 // Dat Index
                 saveDatCSV(redumpSystemDir, redumpSystemDat);
                 // Main Index
@@ -107,7 +113,7 @@ public class RedumpUpdater {
                 if (!Files.exists(redumpSystemDir)) {
                     Files.createDirectory(redumpSystemDir);
                 }
-                Path redumpSystemDat = downloadToFile(REDUMP_DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir, true);
+                Path redumpSystemDat = downloadToFile(DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir, true);
                 // Dat Index
                 saveDatCSV(redumpSystemDir, redumpSystemDat);
                 // Main Index
