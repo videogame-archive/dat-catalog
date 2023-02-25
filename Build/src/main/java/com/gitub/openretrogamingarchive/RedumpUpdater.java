@@ -192,18 +192,18 @@ public class RedumpUpdater {
         String fileName = scrapOne(contentDisposition, "\"","\"");
 
         if (unZip && fileName.endsWith(".zip")) {
-            return unZip(parent, content);
+            return unZipFirstFile(parent, content);
         } else {
             Path file = parent.resolve(fileName);
             return Files.write(file, content);
         }
     }
 
-    private static Path unZip(Path parent, byte[] bytes) throws IOException {
+    private static Path unZipFirstFile(Path parent, byte[] bytes) throws IOException {
         ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes));
         ZipEntry zipEntry = zis.getNextEntry();
         String fileName = zipEntry.getName();
-        byte[] content = zis.readAllBytes();
+        byte[] content = zis.readNBytes(fileName.length());
         Path file = parent.resolve(fileName);
         zis.closeEntry();
         zis.close();
