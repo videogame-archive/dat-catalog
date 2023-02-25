@@ -3,6 +3,7 @@ package com.gitub.openretrogamingarchive;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
 
+import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -13,6 +14,9 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.zip.InflaterInputStream;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 public class RedumpUpdater {
 
@@ -58,8 +62,7 @@ public class RedumpUpdater {
     public static final String REDUMP_DOMAIN = "http://redump.org";
     public static final String REDUMP_DOWNLOADS_URL = REDUMP_DOMAIN + "/downloads/";
     private static List<RedumpSystem> getRedumpSystems() throws IOException {
-
-        String publicRedumpDownloadsPage = new String(downloadIndex(REDUMP_DOWNLOADS_URL), StandardCharsets.UTF_8);
+        String publicRedumpDownloadsPage = new String(downloadBytes(REDUMP_DOWNLOADS_URL), StandardCharsets.UTF_8);
         String systemsTable = scrap(publicRedumpDownloadsPage, "<table class=\"statistics\" cellspacing=\"0\">", "</table>").get(0);
         List<String> systems = scrap(systemsTable, "<tr>", "</tr>");
         systems.remove(0);
@@ -91,9 +94,9 @@ public class RedumpUpdater {
                 if (!Files.exists(redumpSystemDir)) {
                     Files.createDirectory(redumpSystemDir);
                 }
-                Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir);
+                Path redumpSystemDat = downloadToFile(REDUMP_DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir, true);
                 // Dat Index
-                saveDatIndex(redumpSystemDir, redumpSystemDat);
+                saveDatCSV(redumpSystemDir, redumpSystemDat);
                 // Main Index
                 mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName()});
             }
@@ -103,9 +106,9 @@ public class RedumpUpdater {
                 if (!Files.exists(redumpSystemDir)) {
                     Files.createDirectory(redumpSystemDir);
                 }
-                Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir);
+                Path redumpSystemDat = downloadToFile(REDUMP_DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir, false);
                 // Dat Index
-                saveDatIndex(redumpSystemDir, redumpSystemDat);
+                saveDatCSV(redumpSystemDir, redumpSystemDat);
                 // Main Index
                 mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName() + " - SBI Subchannels"});
             }
@@ -115,14 +118,14 @@ public class RedumpUpdater {
                 if (!Files.exists(redumpSystemDir)) {
                     Files.createDirectory(redumpSystemDir);
                 }
-                Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir);
+                Path redumpSystemDat = downloadToFile(REDUMP_DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir, true);
                 // Dat Index
-                saveDatIndex(redumpSystemDir, redumpSystemDat);
+                saveDatCSV(redumpSystemDir, redumpSystemDat);
                 // Main Index
                 mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName() + " - BIOS Images"});
             }
         }
-        saveSystemsIndex(redumpRoot, mainIndexDirs);
+        saveCSV(redumpRoot, mainIndexDirs);
     }
 
     //
@@ -157,7 +160,7 @@ public class RedumpUpdater {
     // Download Helper Methods
     //
 
-    private static byte[] downloadIndex(String url) throws IOException {
+    private static byte[] downloadBytes(String url) throws IOException {
         URL URL = new URL(url);
         HttpURLConnection conn = (HttpURLConnection) URL.openConnection();
         conn.setRequestMethod("GET");
@@ -172,7 +175,7 @@ public class RedumpUpdater {
         return outStream.toByteArray();
     }
 
-    private static Path downloadDat(String url, Path parent) throws IOException {
+    private static Path downloadToFile(String url, Path parent, boolean unZip) throws IOException {
         URL URL = new URL(url);
         HttpURLConnection conn = (HttpURLConnection) URL.openConnection();
         conn.setRequestMethod("GET");
@@ -184,10 +187,28 @@ public class RedumpUpdater {
             outStream.write(bytes, 0, read);
         }
         outStream.close();
+        byte[] content = outStream.toByteArray();
+
         String contentDisposition = conn.getHeaderField("Content-Disposition");
         String fileName = scrapOne(contentDisposition, "\"","\"");
+
+        if (unZip && fileName.endsWith(".zip")) {
+            return unZip(parent, content);
+        } else {
+            Path file = parent.resolve(fileName);
+            return Files.write(file, content);
+        }
+    }
+
+    private static Path unZip(Path parent, byte[] bytes) throws IOException {
+        ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes));
+        ZipEntry zipEntry = zis.getNextEntry();
+        String fileName = zipEntry.getName();
+        byte[] content = zis.readAllBytes();
         Path file = parent.resolve(fileName);
-        return Files.write(file, outStream.toByteArray());
+        zis.closeEntry();
+        zis.close();
+        return Files.write(file, content);
     }
 
     //
@@ -197,29 +218,23 @@ public class RedumpUpdater {
     private enum Headers { Type, Name, URL };
     private enum Type { FILE, DIRECTORY };
 
-    private static void saveSystemsIndex(Path redumpRoot, List<String[]> mainIndexDirs) throws IOException {
+    private static void saveCSV(Path redumpRoot, List<String[]> csvRows) throws IOException {
         StringBuilder rootIndex = new StringBuilder();
         CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(Headers.class);
         CSVPrinter csvPrinter = new CSVPrinter(rootIndex, csvFormat);
-
-        csvPrinter.printRecords(mainIndexDirs);
-
+        csvPrinter.printRecords(csvRows);
         csvPrinter.close();
         Path redumpIndex = redumpRoot.resolve("index.csv");
         Files.write(redumpIndex, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
     }
 
     public static final String DOWNLOAD_URL_TEMPLATE = "https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/latest/Redump/";
-    private static void saveDatIndex(Path redumpSystemDir, Path redumpSystemDat) throws IOException {
+    private static void saveDatCSV(Path redumpSystemDir, Path redumpSystemDat) throws IOException {
         String redumpSystemDirName = redumpSystemDir.getName(redumpSystemDir.getNameCount() - 1).toString();
         String redumpSystemDatName = redumpSystemDat.getName(redumpSystemDat.getNameCount() - 1).toString();
-        StringBuilder indexContent = new StringBuilder();
-        CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(Headers.class);
-        CSVPrinter csvPrinter = new CSVPrinter(indexContent, csvFormat);
         String[] record = {Type.FILE.name(), redumpSystemDatName, DOWNLOAD_URL_TEMPLATE + redumpSystemDirName + "/" + redumpSystemDatName};
-        csvPrinter.printRecord(record);
-        csvPrinter.close();
-        Path redumpIndex = redumpSystemDir.resolve("index.csv");
-        Files.write(redumpIndex, indexContent.toString().getBytes(StandardCharsets.UTF_8));
+        List<String[]> records = new ArrayList<>();
+        records.add(record);
+        saveCSV(redumpSystemDir, records);
     }
 }
