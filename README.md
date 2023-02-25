@@ -17,7 +17,7 @@ latest : contains the latest snapshot of dats.
 
 Each project directory structure depends on the organization of the project.
 
-Leaf nodes contain the dats, dats are stored in a directory with the dat name without any kind of qualifiers as they will be found in 
+Leaf nodes contain the dats, dats are stored in a directory with the dat name without any kind of qualifiers as they will be found in collections.
 
 For example:
 ```
