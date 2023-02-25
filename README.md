@@ -5,7 +5,8 @@ This repository contains a snapshot of publicly available DAT files to be mainly
 
 ## Directory 
 ```
-latest : contains the latest snapshot of dats
+build : java project used to build the latest root directory.
+latest : contains the latest snapshot of dats.
     |- No-Intro
     |- Pleasuredome
     |- Redump
