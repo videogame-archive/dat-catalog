@@ -214,7 +214,7 @@ public class RedumpUpdater {
     // CSV Generation Helper methods
     //
 
-    private enum Headers { Type, Name, URL };
+    private enum Headers { Type, Name };
     private enum Type { FILE, DIRECTORY };
 
     private static void saveCSV(Path redumpRoot, List<String[]> csvRows) throws IOException {
@@ -227,11 +227,9 @@ public class RedumpUpdater {
         Files.write(redumpIndex, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
     }
 
-    public static final String DOWNLOAD_URL_TEMPLATE = "https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/latest/Redump/";
     private static void saveDatCSV(Path redumpSystemDir, Path redumpSystemDat) throws IOException {
-        String redumpSystemDirName = redumpSystemDir.getName(redumpSystemDir.getNameCount() - 1).toString();
         String redumpSystemDatName = redumpSystemDat.getName(redumpSystemDat.getNameCount() - 1).toString();
-        String[] record = {Type.FILE.name(), redumpSystemDatName, DOWNLOAD_URL_TEMPLATE + redumpSystemDirName + "/" + redumpSystemDatName};
+        String[] record = {Type.FILE.name(), redumpSystemDatName };
         List<String[]> records = new ArrayList<>();
         records.add(record);
         saveCSV(redumpSystemDir, records);
