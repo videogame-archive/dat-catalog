@@ -203,7 +203,7 @@ public class RedumpUpdater {
         ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes));
         ZipEntry zipEntry = zis.getNextEntry();
         String fileName = zipEntry.getName();
-        byte[] content = zis.readNBytes(fileName.length());
+        byte[] content = zis.readNBytes(((Long) zipEntry.getSize()).intValue());
         Path file = parent.resolve(fileName);
         zis.closeEntry();
         zis.close();
