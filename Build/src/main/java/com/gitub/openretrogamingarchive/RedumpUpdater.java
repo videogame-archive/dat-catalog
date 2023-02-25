@@ -22,10 +22,7 @@ public class RedumpUpdater {
 
     public static void updateRedump() throws IOException {
         List<RedumpSystem> systems = getRedumpSystems();
-        for (RedumpSystem system:systems) {
-            saveSystemDat(Path.of(ROOT_LATEST_DIR, ROOT_REDUMP_DIR), system);
-        }
-        saveSystemsIndex(Path.of(ROOT_LATEST_DIR, ROOT_REDUMP_DIR), systems);
+        saveSystemDats(Path.of(ROOT_LATEST_DIR, ROOT_REDUMP_DIR), systems);
     }
 
     public static class RedumpSystem {
@@ -79,42 +76,59 @@ public class RedumpUpdater {
         return redumpSystems;
     }
 
-    private static void saveSystemDat(Path redump, RedumpSystem redumpSystem) throws IOException {
-        if (!Files.exists(redump)) {
-            Files.createDirectories(redump);
+    private static void saveSystemDats(Path redumpRoot, List<RedumpSystem> redumpSystems) throws IOException {
+        // Main index
+        List<String[]> mainIndexDirs = new ArrayList<>();
+
+        //
+        if (!Files.exists(redumpRoot)) {
+            Files.createDirectories(redumpRoot);
         }
 
-        if (redumpSystem.getDatDownloadURL() != null) {
-            Path redumpSystemDir = redump.resolve(redumpSystem.getName());
-            if (!Files.exists(redumpSystemDir)) {
-                Files.createDirectory(redumpSystemDir);
+        for (RedumpSystem redumpSystem: redumpSystems) {
+            if (redumpSystem.getDatDownloadURL() != null) {
+                Path redumpSystemDir = redumpRoot.resolve(redumpSystem.getName());
+                if (!Files.exists(redumpSystemDir)) {
+                    Files.createDirectory(redumpSystemDir);
+                }
+                Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir);
+                // Dat Index
+                saveDatIndex(redumpSystemDir, redumpSystemDat);
+                // Main Index
+                mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName()});
             }
-            Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir);
-            saveDatIndex(redumpSystemDir, redumpSystemDat);
-        }
 
-        if (redumpSystem.getSubChannelsSBIDatDownloadURL() != null) {
-            Path redumpSystemDir = redump.resolve(redumpSystem.getName() + " - SBI Subchannels");
-            if (!Files.exists(redumpSystemDir)) {
-                Files.createDirectory(redumpSystemDir);
+            if (redumpSystem.getSubChannelsSBIDatDownloadURL() != null) {
+                Path redumpSystemDir = redumpRoot.resolve(redumpSystem.getName() + " - SBI Subchannels");
+                if (!Files.exists(redumpSystemDir)) {
+                    Files.createDirectory(redumpSystemDir);
+                }
+                Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir);
+                // Dat Index
+                saveDatIndex(redumpSystemDir, redumpSystemDat);
+                // Main Index
+                mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName() + " - SBI Subchannels"});
             }
-            Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir);
-            saveDatIndex(redumpSystemDir, redumpSystemDat);
-        }
 
-        if (redumpSystem.getBiosDatDownloadURL() != null) {
-            Path redumpSystemDir = redump.resolve(redumpSystem.getName() + " - BIOS Images");
-            if (!Files.exists(redumpSystemDir)) {
-                Files.createDirectory(redumpSystemDir);
+            if (redumpSystem.getBiosDatDownloadURL() != null) {
+                Path redumpSystemDir = redumpRoot.resolve(redumpSystem.getName() + " - BIOS Images");
+                if (!Files.exists(redumpSystemDir)) {
+                    Files.createDirectory(redumpSystemDir);
+                }
+                Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir);
+                // Dat Index
+                saveDatIndex(redumpSystemDir, redumpSystemDat);
+                // Main Index
+                mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName() + " - BIOS Images"});
             }
-            Path redumpSystemDat = downloadDat(REDUMP_DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir);
-            saveDatIndex(redumpSystemDir, redumpSystemDat);
         }
+        saveSystemsIndex(redumpRoot, mainIndexDirs);
     }
 
     //
     // Text Processing Helper Methods
     //
+
     public static String scrapOne(String text, String start, String end) {
         List<String> results = scrap(text, start, end);
         if (results.size() == 1) {
@@ -183,27 +197,19 @@ public class RedumpUpdater {
     private enum Headers { Type, Name, URL };
     private enum Type { FILE, DIRECTORY };
 
-    private static void saveSystemsIndex(Path redump, List<RedumpSystem> redumpSystems) throws IOException {
+    private static void saveSystemsIndex(Path redumpRoot, List<String[]> mainIndexDirs) throws IOException {
         StringBuilder rootIndex = new StringBuilder();
         CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(Headers.class);
         CSVPrinter csvPrinter = new CSVPrinter(rootIndex, csvFormat);
-        for (RedumpSystem redumpSystem:redumpSystems) {
-            if (redumpSystem.getDatDownloadURL() != null) {
-                String[] values = new String[] { Type.DIRECTORY.name(), redumpSystem.getName() };
-                csvPrinter.printRecord(values);
-            }
 
-            if (redumpSystem.getBiosDatDownloadURL() != null) {
-                String[] values = new String[] { Type.DIRECTORY.name(), redumpSystem.getName() + " - BIOS Images"};
-                csvPrinter.printRecord(values);
-            }
-        }
+        csvPrinter.printRecords(mainIndexDirs);
+
         csvPrinter.close();
-        Path redumpIndex = redump.resolve("index.csv");
+        Path redumpIndex = redumpRoot.resolve("index.csv");
         Files.write(redumpIndex, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
     }
 
-    public static final String DOWNLOAD_URL_TEMPLATE = "https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/Redump/";
+    public static final String DOWNLOAD_URL_TEMPLATE = "https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/latest/Redump/";
     private static void saveDatIndex(Path redumpSystemDir, Path redumpSystemDat) throws IOException {
         String redumpSystemDirName = redumpSystemDir.getName(redumpSystemDir.getNameCount() - 1).toString();
         String redumpSystemDatName = redumpSystemDat.getName(redumpSystemDat.getNameCount() - 1).toString();
