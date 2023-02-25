@@ -3,6 +3,8 @@
 ## Objective
 This repository contains a snapshot of publicly available DAT files to be mainly used on rom managers.
 
+The idea behind this structure is that it can be replicated to keep local collections and rom managers can provide reports and fixes based on dats found on each directory without requiring manual configurations.
+
 ## Directory 
 ```
 build : java project used to build the latest root directory.
