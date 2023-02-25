@@ -101,8 +101,6 @@ public class Util {
         return Files.write(file, content);
     }
 
-
-
     //
     // CSV Generation Helper methods
     //
