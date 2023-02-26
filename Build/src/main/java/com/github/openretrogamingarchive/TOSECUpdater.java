@@ -7,6 +7,7 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.Map;
 
+import static com.github.openretrogamingarchive.Main.BASIC_DIR;
 import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR;
 import static com.github.openretrogamingarchive.Util.downloadBytes;
@@ -29,9 +30,9 @@ public class TOSECUpdater {
     }
 
     private static void unpackTOSECModule(Map<String, byte[]> files, String moduleName) throws IOException {
-        // # Normalized
         String script_move = new String(files.get("Scripts/move/" + moduleName + "_move.bat"), StandardCharsets.UTF_8);
         for (String move:script_move.split("\r\n")) {
+            // # Normalized
             List<String> originToDestination = scrap(move, "\"", "\"");
             String fileName = originToDestination.get(0);
             String normalizedOrigin = fileName.substring(0, fileName.indexOf(" (TOSEC-v"));
@@ -40,11 +41,23 @@ public class TOSECUpdater {
             if (!Files.exists(normalizedDestinationPath)) {
                 Files.createDirectories(normalizedDestinationPath);
             }
-            byte[] dat = files.get(moduleName + "/" + fileName);
-            Files.write(normalizedDestinationPath.resolve(Path.of(fileName)), dat);
-        }
+            byte[] datBytes = files.get(moduleName + "/" + fileName);
+            Path normalizedDatPath = normalizedDestinationPath.resolve(Path.of(fileName));
+            Files.write(normalizedDatPath, datBytes);
 
-        // # Basic
+            // # Basic
+            String basicDestination = ROOT_LATEST_DIR + "/" + BASIC_DIR + "/" + moduleName + "/" + originToDestination.get(1).replace('\\', '/');
+            Path basicDestinationPath = Path.of(basicDestination);
+            if (!Files.exists(basicDestinationPath)) {
+                Files.createDirectories(basicDestinationPath);
+            }
+            Path basicDestinationDatPath = basicDestinationPath.resolve(Path.of(normalizedOrigin + ".dat"));
+
+            String relativeNormalizedDestination =  "../../../../../" + NORMALIZED_DIR + "/" + moduleName + "/" + originToDestination.get(1).replace('\\', '/') + "/" + normalizedOrigin;
+            Path relativeNormalizedDestinationPath = Path.of(relativeNormalizedDestination);
+            Path relativeDatPath = relativeNormalizedDestinationPath.resolve(Path.of(fileName));
+            Files.createSymbolicLink(basicDestinationDatPath, relativeDatPath);
+        }
     }
 
     private static byte[] getLastReleaseZip() throws IOException {
