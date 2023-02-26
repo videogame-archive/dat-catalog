@@ -8,13 +8,13 @@ The idea behind this structure is that it can be replicated to keep local collec
 ## Directory 
 ```
 build : java project used to build the latest root directory.
-latest : contains the latest snapshot of dats.
-    |- No-Intro
-    |- Pleasuredome
-    |- Redump
-    |- TOSEC
-    |- TOSEC-ISO
-    |- TOSEC-PIX
+root/normalized : contains the latest snapshot of dats.
+        |- No-Intro
+        |- Pleasuredome
+        |- Redump
+        |- TOSEC
+        |- TOSEC-ISO
+        |- TOSEC-PIX
 ```
 
 Each project directory structure depends on the organization of the project.
@@ -23,7 +23,7 @@ Leaf nodes contain the dats, dats are stored in a directory with the dat name wi
 
 For example:
 ```
-latest :
+normalized :
     |- Redump
         |- Sega Dreamcast
             |-Sega - Dreamcast - Datfile (1455) (2023-02-21 15-32-49).dat
