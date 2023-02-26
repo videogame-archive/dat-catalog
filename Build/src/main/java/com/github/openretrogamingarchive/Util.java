@@ -128,15 +128,12 @@ public class Util {
         CSVPrinter csvPrinter = new CSVPrinter(rootIndex, csvFormat);
         csvPrinter.printRecords(csvRows);
         csvPrinter.close();
-        Path redumpIndex = parent.resolve("index.csv");
-        Files.write(redumpIndex, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
+        Path index = parent.resolve("index.csv");
+        Files.write(index, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
     }
 
-    public static void saveDatCSV(Path parent, Path dat) throws IOException {
-        String[] record = {Type.FILE.name(), getName(dat) };
-        List<String[]> records = new ArrayList<>();
-        records.add(record);
-        saveCSV(parent, records);
+    public static String[] row(Path file) throws IOException {
+        return new String[]{(Files.isDirectory(file)?Util.Type.DIRECTORY.name():Util.Type.FILE.name()), Util.getName(file)};
     }
 
     public static String getName(Path path) {

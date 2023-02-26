@@ -13,11 +13,11 @@ import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR;
 import static com.github.openretrogamingarchive.Util.downloadBytes;
 import static com.github.openretrogamingarchive.Util.scrap;
 
-public class TOSECUpdater {
+public class TOSEC {
 
     public static final String DOMAIN = "https://www.tosecdev.org";
     private static final String DOWNLOADS_URL = DOMAIN + "/downloads";
-    public static void updateTOSEC() throws IOException {
+    public static void update() throws IOException {
         byte[] lastReleaseZip = getLastReleaseZip();
         Map<String, byte[]> files = Util.unZipInMemory(lastReleaseZip);
 

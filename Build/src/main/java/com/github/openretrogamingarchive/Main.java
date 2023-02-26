@@ -1,7 +1,15 @@
 package com.github.openretrogamingarchive;
 
 import java.io.IOException;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import static com.github.openretrogamingarchive.Util.row;
 
 public class Main {
 
@@ -14,7 +22,28 @@ public class Main {
     public static final String BASIC_DIR = "basic";
 
     public static void main(String[] args) throws IOException {
-        RedumpUpdater.updateRedump();
-        TOSECUpdater.updateTOSEC();
+        Redump.update();
+        TOSEC.update();
+        updateIndexes();
     }
+
+    private static void updateIndexes() throws IOException {
+        Deque<Path> dirsToMakeIndexesFor = new LinkedList<>();
+        dirsToMakeIndexesFor.add(ROOT_LATEST_DIR_PATH);
+
+        while (!dirsToMakeIndexesFor.isEmpty()) {
+            Path current = dirsToMakeIndexesFor.removeFirst();
+            List<String[]> currentIndex = new ArrayList<>();
+            List<Path> filesInDir = Files.list(current).collect(Collectors.toList());
+            for (Path fileInDir:filesInDir) {
+                if (Files.isDirectory(fileInDir)) {
+                    dirsToMakeIndexesFor.add(fileInDir);
+                }
+                currentIndex.add(row(fileInDir));
+            }
+            Util.saveCSV(current, currentIndex);
+        }
+
+    }
+
 }
