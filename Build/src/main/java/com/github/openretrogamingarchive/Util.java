@@ -52,7 +52,25 @@ public class Util {
     // Download Helper Methods
     //
 
-    public static byte[] downloadBytes(String url) throws IOException {
+    public static class Download {
+        private String name;
+        private byte[] bytes;
+
+        public Download(String name, byte[] bytes) {
+            this.name = name;
+            this.bytes = bytes;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public byte[] getBytes() {
+            return bytes;
+        }
+    }
+
+    public static Download download(String url) throws IOException {
         URL URL = new URL(url);
         HttpURLConnection conn = (HttpURLConnection) URL.openConnection();
         conn.setRequestMethod("GET");
@@ -64,34 +82,27 @@ public class Util {
             outStream.write(bytes, 0, read);
         }
         outStream.close();
-        return outStream.toByteArray();
+        byte[] allBytes = outStream.toByteArray();
+
+        String contentDisposition = conn.getHeaderField("Content-Disposition");
+        String name = null;
+        if (contentDisposition != null) {
+            name = Util.scrapOne(contentDisposition, "\"","\"");
+        }
+
+        return new Download(name, allBytes);
     }
 
     public static Path downloadToFile(String url, Path parent, boolean unZip) throws IOException {
-        URL URL = new URL(url);
-        HttpURLConnection conn = (HttpURLConnection) URL.openConnection();
-        conn.setRequestMethod("GET");
-        InputStream inputStream = conn.getInputStream();
-        ByteArrayOutputStream outStream = new ByteArrayOutputStream();
-        byte[] bytes = new byte[1024 * 50];
-        int read = -1;
-        while ( (read = inputStream.read(bytes)) != -1) {
-            outStream.write(bytes, 0, read);
-        }
-        outStream.close();
-        byte[] content = outStream.toByteArray();
-
-        String contentDisposition = conn.getHeaderField("Content-Disposition");
-        String fileName = Util.scrapOne(contentDisposition, "\"","\"");
-
-        if (unZip && fileName.endsWith(".zip")) {
-            Map<String, byte[]> zipFiles = unZipInMemory(content);
+        Download download = download(url);
+        if (unZip && download.getName().endsWith(".zip")) {
+            Map<String, byte[]> zipFiles = unZipInMemory(download.getBytes());
             String uncompressedFileName = zipFiles.keySet().iterator().next();
             Path file = parent.resolve(uncompressedFileName);
             return Files.write(file, zipFiles.get(uncompressedFileName));
         } else {
-            Path file = parent.resolve(fileName);
-            return Files.write(file, content);
+            Path file = parent.resolve(download.getName());
+            return Files.write(file, download.getBytes());
         }
     }
 

@@ -10,7 +10,7 @@ import java.util.List;
 import static com.github.openretrogamingarchive.Main.BASIC_DIR;
 import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR_PATH;
-import static com.github.openretrogamingarchive.Util.downloadBytes;
+import static com.github.openretrogamingarchive.Util.download;
 import static com.github.openretrogamingarchive.Util.downloadToFile;
 import static com.github.openretrogamingarchive.Util.getName;
 import static com.github.openretrogamingarchive.Util.scrap;
@@ -60,7 +60,7 @@ public class Redump {
     public static final String DOMAIN = "http://redump.org";
     public static final String DOWNLOADS_URL = DOMAIN + "/downloads/";
     private static List<RedumpSystem> getRedumpSystems() throws IOException {
-        String publicRedumpDownloadsPage = new String(downloadBytes(DOWNLOADS_URL), StandardCharsets.UTF_8);
+        String publicRedumpDownloadsPage = new String(download(DOWNLOADS_URL).getBytes(), StandardCharsets.UTF_8);
         String systemsTable = scrap(publicRedumpDownloadsPage, "<table class=\"statistics\" cellspacing=\"0\">", "</table>").get(0);
         List<String> systems = scrap(systemsTable, "<tr>", "</tr>");
         systems.remove(0);
