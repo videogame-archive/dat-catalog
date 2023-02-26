@@ -78,13 +78,13 @@ public class Redump {
     }
 
     private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException {
-        // Normalized index
+        // Normalized
         Path normalizedRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(NORMALIZED_DIR, ROOT_DIR));
         if (!Files.exists(normalizedRoot)) {
             Files.createDirectories(normalizedRoot);
         }
 
-        // Basic Index
+        // Basic
         Path basicRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(BASIC_DIR, ROOT_DIR));
         if (!Files.exists(basicRoot)) {
             Files.createDirectories(basicRoot);

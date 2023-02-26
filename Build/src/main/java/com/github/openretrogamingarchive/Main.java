@@ -34,7 +34,7 @@ public class Main {
         while (!dirsToMakeIndexesFor.isEmpty()) {
             Path current = dirsToMakeIndexesFor.removeFirst();
             List<String[]> currentIndex = new ArrayList<>();
-            List<Path> filesInDir = Files.list(current).collect(Collectors.toList());
+            List<Path> filesInDir = Files.list(current).toList();
             for (Path fileInDir:filesInDir) {
                 if (Files.isDirectory(fileInDir)) {
                     dirsToMakeIndexesFor.add(fileInDir);
