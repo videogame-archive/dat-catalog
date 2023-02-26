@@ -93,13 +93,15 @@ public class Util {
         return new Download(name, allBytes);
     }
 
-    public static Path downloadToFile(String url, Path parent, boolean unZip) throws IOException {
+    public static Path downloadToFolder(String url, Path parent, boolean unZip) throws IOException {
         Download download = download(url);
         if (unZip && download.getName().endsWith(".zip")) {
             Map<String, byte[]> zipFiles = unZipInMemory(download.getBytes());
-            String uncompressedFileName = zipFiles.keySet().iterator().next();
-            Path file = parent.resolve(uncompressedFileName);
-            return Files.write(file, zipFiles.get(uncompressedFileName));
+            for (String uncompressedFileName:zipFiles.keySet()) {
+                Path file = parent.resolve(uncompressedFileName);
+                Files.write(file, zipFiles.get(uncompressedFileName));
+            }
+            return parent;
         } else {
             Path file = parent.resolve(download.getName());
             return Files.write(file, download.getBytes());
@@ -143,11 +145,11 @@ public class Util {
         Files.write(index, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
     }
 
-    public static String[] row(Path file) {
-        return new String[]{(Files.isDirectory(file)?Util.Type.DIRECTORY.name():Util.Type.FILE.name()), getName(file)};
+    public static String[] getCSVRow(Path file) {
+        return new String[]{(Files.isDirectory(file)?Util.Type.DIRECTORY.name():Util.Type.FILE.name()), getLastPathName(file)};
     }
 
-    public static String getName(Path path) {
+    public static String getLastPathName(Path path) {
         return path.getName(path.getNameCount() - 1).toString();
     }
 }

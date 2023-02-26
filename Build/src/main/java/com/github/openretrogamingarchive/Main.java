@@ -8,7 +8,8 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-import static com.github.openretrogamingarchive.Util.row;
+import static com.github.openretrogamingarchive.Util.getCSVRow;
+import static com.github.openretrogamingarchive.Util.saveCSV;
 
 public class Main {
 
@@ -38,9 +39,9 @@ public class Main {
                 if (Files.isDirectory(fileInDir)) {
                     dirsToMakeIndexesFor.add(fileInDir);
                 }
-                currentIndex.add(row(fileInDir));
+                currentIndex.add(getCSVRow(fileInDir));
             }
-            Util.saveCSV(current, currentIndex);
+            saveCSV(current, currentIndex);
         }
 
     }
