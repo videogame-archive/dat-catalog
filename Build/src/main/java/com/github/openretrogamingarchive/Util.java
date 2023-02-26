@@ -13,7 +13,9 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
@@ -83,22 +85,30 @@ public class Util {
         String fileName = Util.scrapOne(contentDisposition, "\"","\"");
 
         if (unZip && fileName.endsWith(".zip")) {
-            return unZipFirstFile(parent, content);
+            Map<String, byte[]> zipFiles = unZipInMemory(content);
+            String uncompressedFileName = zipFiles.keySet().iterator().next();
+            Path file = parent.resolve(uncompressedFileName);
+            return Files.write(file, zipFiles.get(uncompressedFileName));
         } else {
             Path file = parent.resolve(fileName);
             return Files.write(file, content);
         }
     }
 
-    public static Path unZipFirstFile(Path parent, byte[] bytes) throws IOException {
-        ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes));
-        ZipEntry zipEntry = zis.getNextEntry();
-        String fileName = zipEntry.getName();
-        byte[] content = zis.readNBytes(((Long) zipEntry.getSize()).intValue());
-        Path file = parent.resolve(fileName);
+    public static Map<String, byte[]> unZipInMemory(byte[] bytes) throws IOException {
+        Map<String, byte[]> inMemory = new HashMap<>();
+        ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes), StandardCharsets.ISO_8859_1);
+        ZipEntry zipEntry = null;
+        while ((zipEntry = zis.getNextEntry()) != null) {
+            if (!zipEntry.isDirectory()) {
+                String path = zipEntry.getName();
+                byte[] content = zis.readNBytes(((Long) zipEntry.getSize()).intValue());
+                inMemory.put(path, content);
+            }
+        }
         zis.closeEntry();
         zis.close();
-        return Files.write(file, content);
+        return inMemory;
     }
 
     //
