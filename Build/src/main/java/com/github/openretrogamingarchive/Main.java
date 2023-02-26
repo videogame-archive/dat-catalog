@@ -1,6 +1,7 @@
 package com.github.openretrogamingarchive;
 
 import java.io.IOException;
+import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -8,11 +9,12 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-import static com.github.openretrogamingarchive.Util.getCSVRow;
-import static com.github.openretrogamingarchive.Util.saveCSV;
+import static com.github.openretrogamingarchive.helpers.CSV.save;
+import static com.github.openretrogamingarchive.helpers.CSV.toRow;
 
 public class Main {
 
+    public static final String BASE_URL = "https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/";
     public static final String ROOT_LATEST_DIR = "../root/";
 
     public static final Path ROOT_LATEST_DIR_PATH = Path.of("../root/");
@@ -36,12 +38,15 @@ public class Main {
             List<String[]> currentIndex = new ArrayList<>();
             List<Path> filesInDir = Files.list(current).toList();
             for (Path fileInDir:filesInDir) {
+                URL url = null;
                 if (Files.isDirectory(fileInDir)) {
                     dirsToMakeIndexesFor.add(fileInDir);
+                } else {
+                    url = new URL(BASE_URL + fileInDir.toString().substring(3));
                 }
-                currentIndex.add(getCSVRow(fileInDir));
+                currentIndex.add(toRow(fileInDir, url));
             }
-            saveCSV(current, currentIndex);
+            save(current, currentIndex);
         }
 
     }

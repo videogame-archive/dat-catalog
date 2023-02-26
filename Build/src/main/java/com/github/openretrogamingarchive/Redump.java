@@ -12,9 +12,9 @@ import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR_PATH;
 import static com.github.openretrogamingarchive.Util.download;
 import static com.github.openretrogamingarchive.Util.downloadToFolder;
-import static com.github.openretrogamingarchive.Util.getLastPathName;
 import static com.github.openretrogamingarchive.Util.scrap;
 import static com.github.openretrogamingarchive.Util.scrapOne;
+import static com.github.openretrogamingarchive.helpers.CSV.getLastPathName;
 
 public class Redump {
 
