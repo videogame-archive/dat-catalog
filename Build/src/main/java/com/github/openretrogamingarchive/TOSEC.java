@@ -10,7 +10,7 @@ import java.util.Map;
 import static com.github.openretrogamingarchive.Main.BASIC_DIR;
 import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR;
-import static com.github.openretrogamingarchive.Util.downloadBytes;
+import static com.github.openretrogamingarchive.Util.download;
 import static com.github.openretrogamingarchive.Util.scrap;
 
 public class TOSEC {
@@ -61,12 +61,12 @@ public class TOSEC {
     }
 
     private static byte[] getLastReleaseZip() throws IOException {
-        String publicDownloadsPage = new String(downloadBytes(DOWNLOADS_URL), StandardCharsets.UTF_8);
+        String publicDownloadsPage = new String(download(DOWNLOADS_URL).getBytes(), StandardCharsets.UTF_8);
         String releaseTable = scrap(publicDownloadsPage, "<div class=\"pd-categoriesbox\">", "<div class=\"pd-categoriesbox\">").get(0);
         List<String> releases = scrap(releaseTable, "<a href=\"", "\">");
         String lastReleaseURL = DOMAIN + releases.get(1);
-        String lastReleaseDownloadsPage = new String(downloadBytes(lastReleaseURL), StandardCharsets.UTF_8);
+        String lastReleaseDownloadsPage = new String(download(lastReleaseURL).getBytes(), StandardCharsets.UTF_8);
         String downloadURL = DOMAIN + "/downloads/category/" + scrap(lastReleaseDownloadsPage, "href=\"/downloads/category/", "\"").get(1);
-        return Util.downloadBytes(downloadURL);
+        return Util.download(downloadURL).getBytes();
     }
 }
