@@ -11,8 +11,8 @@ import static com.github.openretrogamingarchive.Main.BASIC_DIR;
 import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR_PATH;
 import static com.github.openretrogamingarchive.Util.download;
-import static com.github.openretrogamingarchive.Util.downloadToFile;
-import static com.github.openretrogamingarchive.Util.getName;
+import static com.github.openretrogamingarchive.Util.downloadToFolder;
+import static com.github.openretrogamingarchive.Util.getLastPathName;
 import static com.github.openretrogamingarchive.Util.scrap;
 import static com.github.openretrogamingarchive.Util.scrapOne;
 
@@ -116,14 +116,14 @@ public class Redump {
         if (!Files.exists(normalizedSystemDir)) {
             Files.createDirectory(normalizedSystemDir);
         }
-        Path datPath = downloadToFile(DOMAIN + downloadURL, normalizedSystemDir, true);
+        Path datPath = downloadToFolder(DOMAIN + downloadURL, normalizedSystemDir, true);
 
         // # Basic
         if (downloadType == DownloadType.Subchannels) {
             Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName);
             Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName)), normalizedFromBasicLink);
         } else {
-            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName + "/" + getName(datPath));
+            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName + "/" + getLastPathName(datPath));
             Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")), normalizedFromBasicLink);
         }
 
