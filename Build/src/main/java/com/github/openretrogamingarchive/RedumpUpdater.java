@@ -7,9 +7,9 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Main.BASIC_DIR;
-
+import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
+import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR_PATH;
 import static com.github.openretrogamingarchive.Util.Type;
 import static com.github.openretrogamingarchive.Util.downloadBytes;
 import static com.github.openretrogamingarchive.Util.downloadToFile;
@@ -25,9 +25,9 @@ public class RedumpUpdater {
 
     private enum DownloadType { MainDat, BiosDat, Subchannels };
 
-    public static void updateRedump(String pathToRoot) throws IOException {
+    public static void updateRedump() throws IOException {
         List<RedumpSystem> systems = getRedumpSystems();
-        saveSystemDats(Path.of(pathToRoot), systems);
+        saveSystemDats(systems);
     }
 
     public static class RedumpSystem {
@@ -80,17 +80,17 @@ public class RedumpUpdater {
         return redumpSystems;
     }
 
-    private static void saveSystemDats(Path root, List<RedumpSystem> redumpSystems) throws IOException {
+    private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException {
         // Normalized index
         List<String[]> normalizedIndexDirs = new ArrayList<>();
-        Path normalizedRoot = root.resolve(Path.of(NORMALIZED_DIR, ROOT_DIR));
+        Path normalizedRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(NORMALIZED_DIR, ROOT_DIR));
         if (!Files.exists(normalizedRoot)) {
             Files.createDirectories(normalizedRoot);
         }
 
         // Basic Index
         List<String[]> basicIndexDats = new ArrayList<>();
-        Path basicRoot = root.resolve(Path.of(BASIC_DIR, ROOT_DIR));
+        Path basicRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(BASIC_DIR, ROOT_DIR));
         if (!Files.exists(basicRoot)) {
             Files.createDirectories(basicRoot);
         }
