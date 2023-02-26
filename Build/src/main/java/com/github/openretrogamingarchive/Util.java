@@ -1,8 +1,5 @@
 package com.github.openretrogamingarchive;
 
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVPrinter;
-
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -114,7 +111,7 @@ public class Util {
 
     public static Map<String, byte[]> unZipInMemory(byte[] bytes) throws IOException {
         Map<String, byte[]> inMemory = new HashMap<>();
-        ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes), StandardCharsets.ISO_8859_1);
+        ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes), StandardCharsets.ISO_8859_1); // StandardCharsets.UTF_8 breaks TOSEC
         ZipEntry zipEntry = null;
         while ((zipEntry = zis.getNextEntry()) != null) {
             if (!zipEntry.isDirectory()) {
