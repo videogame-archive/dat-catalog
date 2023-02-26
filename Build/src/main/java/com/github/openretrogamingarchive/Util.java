@@ -95,6 +95,10 @@ public class Util {
         }
     }
 
+    //
+    // Zip Helper Methods
+    //
+
     public static Map<String, byte[]> unZipInMemory(byte[] bytes) throws IOException {
         Map<String, byte[]> inMemory = new HashMap<>();
         ZipInputStream zis = new ZipInputStream(new ByteArrayInputStream(bytes), StandardCharsets.ISO_8859_1);
