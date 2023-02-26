@@ -133,10 +133,13 @@ public class Util {
     }
 
     public static void saveDatCSV(Path parent, Path dat) throws IOException {
-        String redumpSystemDatName = dat.getName(dat.getNameCount() - 1).toString();
-        String[] record = {Type.FILE.name(), redumpSystemDatName };
+        String[] record = {Type.FILE.name(), getName(dat) };
         List<String[]> records = new ArrayList<>();
         records.add(record);
         saveCSV(parent, records);
+    }
+
+    public static String getName(Path path) {
+        return path.getName(path.getNameCount() - 1).toString();
     }
 }
