@@ -10,6 +10,7 @@ import java.util.List;
 import static com.github.openretrogamingarchive.Util.Type;
 import static com.github.openretrogamingarchive.Util.downloadBytes;
 import static com.github.openretrogamingarchive.Util.downloadToFile;
+import static com.github.openretrogamingarchive.Util.getName;
 import static com.github.openretrogamingarchive.Util.saveCSV;
 import static com.github.openretrogamingarchive.Util.saveDatCSV;
 import static com.github.openretrogamingarchive.Util.scrap;
@@ -22,6 +23,8 @@ public class RedumpUpdater {
     private static final String NORMALIZED_DIR = "normalized";
 
     private static final String BASIC_DIR = "basic";
+
+    private enum DownloadType { MainDat, BiosDat, Subchannels };
 
     public static void updateRedump(String pathToRoot) throws IOException {
         List<RedumpSystem> systems = getRedumpSystems();
@@ -95,15 +98,15 @@ public class RedumpUpdater {
 
         for (RedumpSystem redumpSystem: redumpSystems) {
             if (redumpSystem.getDatDownloadURL() != null) {
-                processDat(normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName(), redumpSystem.getDatDownloadURL());
+                processDat(DownloadType.MainDat, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName(), redumpSystem.getDatDownloadURL());
             }
 
             if (redumpSystem.getSubChannelsSBIDatDownloadURL() != null) {
-                processDat(normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - SBI Subchannels" , redumpSystem.getSubChannelsSBIDatDownloadURL());
+                processDat(DownloadType.Subchannels, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - SBI Subchannels" , redumpSystem.getSubChannelsSBIDatDownloadURL());
             }
 
             if (redumpSystem.getBiosDatDownloadURL() != null) {
-                processDat(normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
+                processDat(DownloadType.Subchannels, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
             }
         }
 
@@ -112,6 +115,7 @@ public class RedumpUpdater {
     }
 
     private static void processDat(
+            DownloadType downloadType,
             List<String[]> normalizedIndexDirs,
             Path normalizedRoot,
             List<String[]> basicIndexDats,
@@ -130,8 +134,16 @@ public class RedumpUpdater {
         normalizedIndexDirs.add(new String[]{Type.DIRECTORY.name(), normalizedSystemDirName});
 
         // # Basic
-        Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")), datPath);
-        basicIndexDats.add(new String[]{Type.FILE.name(), normalizedSystemDirName + ".dat"});
+        if (downloadType == DownloadType.Subchannels) {
+            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName);
+            Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName)), normalizedFromBasicLink);
+            basicIndexDats.add(new String[]{Type.DIRECTORY.name(), normalizedSystemDirName});
+        } else {
+            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName + "/" + getName(datPath));
+            Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")), normalizedFromBasicLink);
+            basicIndexDats.add(new String[]{Type.FILE.name(), normalizedSystemDirName + ".dat"});
+        }
+
     }
 
 
