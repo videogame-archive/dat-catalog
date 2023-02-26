@@ -7,6 +7,9 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
+import static com.github.openretrogamingarchive.Main.BASIC_DIR;
+
 import static com.github.openretrogamingarchive.Util.Type;
 import static com.github.openretrogamingarchive.Util.downloadBytes;
 import static com.github.openretrogamingarchive.Util.downloadToFile;
@@ -19,10 +22,6 @@ import static com.github.openretrogamingarchive.Util.scrapOne;
 public class RedumpUpdater {
 
     private static final String ROOT_DIR = "Redump";
-
-    private static final String NORMALIZED_DIR = "normalized";
-
-    private static final String BASIC_DIR = "basic";
 
     private enum DownloadType { MainDat, BiosDat, Subchannels };
 
@@ -106,7 +105,7 @@ public class RedumpUpdater {
             }
 
             if (redumpSystem.getBiosDatDownloadURL() != null) {
-                processDat(DownloadType.Subchannels, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
+                processDat(DownloadType.BiosDat, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
             }
         }
 
