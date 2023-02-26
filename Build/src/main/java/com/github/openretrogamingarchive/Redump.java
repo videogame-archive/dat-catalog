@@ -10,22 +10,19 @@ import java.util.List;
 import static com.github.openretrogamingarchive.Main.BASIC_DIR;
 import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR_PATH;
-import static com.github.openretrogamingarchive.Util.Type;
 import static com.github.openretrogamingarchive.Util.downloadBytes;
 import static com.github.openretrogamingarchive.Util.downloadToFile;
 import static com.github.openretrogamingarchive.Util.getName;
-import static com.github.openretrogamingarchive.Util.saveCSV;
-import static com.github.openretrogamingarchive.Util.saveDatCSV;
 import static com.github.openretrogamingarchive.Util.scrap;
 import static com.github.openretrogamingarchive.Util.scrapOne;
 
-public class RedumpUpdater {
+public class Redump {
 
     private static final String ROOT_DIR = "Redump";
 
     private enum DownloadType { MainDat, BiosDat, Subchannels };
 
-    public static void updateRedump() throws IOException {
+    public static void update() throws IOException {
         List<RedumpSystem> systems = getRedumpSystems();
         saveSystemDats(systems);
     }
@@ -82,14 +79,12 @@ public class RedumpUpdater {
 
     private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException {
         // Normalized index
-        List<String[]> normalizedIndexDirs = new ArrayList<>();
         Path normalizedRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(NORMALIZED_DIR, ROOT_DIR));
         if (!Files.exists(normalizedRoot)) {
             Files.createDirectories(normalizedRoot);
         }
 
         // Basic Index
-        List<String[]> basicIndexDats = new ArrayList<>();
         Path basicRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(BASIC_DIR, ROOT_DIR));
         if (!Files.exists(basicRoot)) {
             Files.createDirectories(basicRoot);
@@ -97,27 +92,22 @@ public class RedumpUpdater {
 
         for (RedumpSystem redumpSystem: redumpSystems) {
             if (redumpSystem.getDatDownloadURL() != null) {
-                processDat(DownloadType.MainDat, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName(), redumpSystem.getDatDownloadURL());
+                processDat(DownloadType.MainDat, normalizedRoot, basicRoot, redumpSystem.getName(), redumpSystem.getDatDownloadURL());
             }
 
             if (redumpSystem.getSubChannelsSBIDatDownloadURL() != null) {
-                processDat(DownloadType.Subchannels, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - SBI Subchannels" , redumpSystem.getSubChannelsSBIDatDownloadURL());
+                processDat(DownloadType.Subchannels, normalizedRoot, basicRoot, redumpSystem.getName() + " - SBI Subchannels" , redumpSystem.getSubChannelsSBIDatDownloadURL());
             }
 
             if (redumpSystem.getBiosDatDownloadURL() != null) {
-                processDat(DownloadType.BiosDat, normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
+                processDat(DownloadType.BiosDat, normalizedRoot, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
             }
         }
-
-        saveCSV(normalizedRoot, normalizedIndexDirs);
-        saveCSV(basicRoot, basicIndexDats);
     }
 
     private static void processDat(
             DownloadType downloadType,
-            List<String[]> normalizedIndexDirs,
             Path normalizedRoot,
-            List<String[]> basicIndexDats,
             Path basicRoot,
             String normalizedSystemDirName,
             String downloadURL) throws IOException {
@@ -127,20 +117,14 @@ public class RedumpUpdater {
             Files.createDirectory(normalizedSystemDir);
         }
         Path datPath = downloadToFile(DOMAIN + downloadURL, normalizedSystemDir, true);
-        // Dat Index
-        saveDatCSV(normalizedSystemDir, datPath);
-        // Main Index
-        normalizedIndexDirs.add(new String[]{Type.DIRECTORY.name(), normalizedSystemDirName});
 
         // # Basic
         if (downloadType == DownloadType.Subchannels) {
             Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName);
             Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName)), normalizedFromBasicLink);
-            basicIndexDats.add(new String[]{Type.DIRECTORY.name(), normalizedSystemDirName});
         } else {
             Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName + "/" + getName(datPath));
             Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")), normalizedFromBasicLink);
-            basicIndexDats.add(new String[]{Type.FILE.name(), normalizedSystemDirName + ".dat"});
         }
 
     }
