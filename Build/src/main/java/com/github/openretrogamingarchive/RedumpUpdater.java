@@ -19,9 +19,13 @@ public class RedumpUpdater {
 
     private static final String ROOT_DIR = "Redump";
 
+    private static final String NORMALIZED_DIR = "normalized";
+
+    private static final String BASIC_DIR = "basic";
+
     public static void updateRedump(String pathToRoot) throws IOException {
         List<RedumpSystem> systems = getRedumpSystems();
-        saveSystemDats(Path.of(pathToRoot, ROOT_DIR), systems);
+        saveSystemDats(Path.of(pathToRoot), systems);
     }
 
     public static class RedumpSystem {
@@ -74,53 +78,61 @@ public class RedumpUpdater {
         return redumpSystems;
     }
 
-    private static void saveSystemDats(Path redumpRoot, List<RedumpSystem> redumpSystems) throws IOException {
-        // Main index
-        List<String[]> mainIndexDirs = new ArrayList<>();
+    private static void saveSystemDats(Path root, List<RedumpSystem> redumpSystems) throws IOException {
+        // Normalized index
+        List<String[]> normalizedIndexDirs = new ArrayList<>();
+        Path normalizedRoot = root.resolve(Path.of(NORMALIZED_DIR, ROOT_DIR));
+        if (!Files.exists(normalizedRoot)) {
+            Files.createDirectories(normalizedRoot);
+        }
 
-        //
-        if (!Files.exists(redumpRoot)) {
-            Files.createDirectories(redumpRoot);
+        // Basic Index
+        List<String[]> basicIndexDats = new ArrayList<>();
+        Path basicRoot = root.resolve(Path.of(BASIC_DIR, ROOT_DIR));
+        if (!Files.exists(basicRoot)) {
+            Files.createDirectories(basicRoot);
         }
 
         for (RedumpSystem redumpSystem: redumpSystems) {
             if (redumpSystem.getDatDownloadURL() != null) {
-                Path redumpSystemDir = redumpRoot.resolve(redumpSystem.getName());
-                if (!Files.exists(redumpSystemDir)) {
-                    Files.createDirectory(redumpSystemDir);
-                }
-                Path redumpSystemDat = downloadToFile(DOMAIN + redumpSystem.getDatDownloadURL(), redumpSystemDir, true);
-                // Dat Index
-                saveDatCSV(redumpSystemDir, redumpSystemDat);
-                // Main Index
-                mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName()});
+                processDat(normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName(), redumpSystem.getDatDownloadURL());
             }
 
             if (redumpSystem.getSubChannelsSBIDatDownloadURL() != null) {
-                Path redumpSystemDir = redumpRoot.resolve(redumpSystem.getName() + " - SBI Subchannels");
-                if (!Files.exists(redumpSystemDir)) {
-                    Files.createDirectory(redumpSystemDir);
-                }
-                Path redumpSystemDat = downloadToFile(DOMAIN + redumpSystem.getSubChannelsSBIDatDownloadURL(), redumpSystemDir, false);
-                // Dat Index
-                saveDatCSV(redumpSystemDir, redumpSystemDat);
-                // Main Index
-                mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName() + " - SBI Subchannels"});
+                processDat(normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - SBI Subchannels" , redumpSystem.getSubChannelsSBIDatDownloadURL());
             }
 
             if (redumpSystem.getBiosDatDownloadURL() != null) {
-                Path redumpSystemDir = redumpRoot.resolve(redumpSystem.getName() + " - BIOS Images");
-                if (!Files.exists(redumpSystemDir)) {
-                    Files.createDirectory(redumpSystemDir);
-                }
-                Path redumpSystemDat = downloadToFile(DOMAIN + redumpSystem.getBiosDatDownloadURL(), redumpSystemDir, true);
-                // Dat Index
-                saveDatCSV(redumpSystemDir, redumpSystemDat);
-                // Main Index
-                mainIndexDirs.add(new String[]{Type.DIRECTORY.name(), redumpSystem.getName() + " - BIOS Images"});
+                processDat(normalizedIndexDirs, normalizedRoot, basicIndexDats, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
             }
         }
-        saveCSV(redumpRoot, mainIndexDirs);
+
+        saveCSV(normalizedRoot, normalizedIndexDirs);
+        saveCSV(basicRoot, basicIndexDats);
     }
+
+    private static void processDat(
+            List<String[]> normalizedIndexDirs,
+            Path normalizedRoot,
+            List<String[]> basicIndexDats,
+            Path basicRoot,
+            String normalizedSystemDirName,
+            String downloadURL) throws IOException {
+        // # Normalized
+        Path normalizedSystemDir = normalizedRoot.resolve(normalizedSystemDirName);
+        if (!Files.exists(normalizedSystemDir)) {
+            Files.createDirectory(normalizedSystemDir);
+        }
+        Path datPath = downloadToFile(DOMAIN + downloadURL, normalizedSystemDir, true);
+        // Dat Index
+        saveDatCSV(normalizedSystemDir, datPath);
+        // Main Index
+        normalizedIndexDirs.add(new String[]{Type.DIRECTORY.name(), normalizedSystemDirName});
+
+        // # Basic
+        Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")), datPath);
+        basicIndexDats.add(new String[]{Type.FILE.name(), normalizedSystemDirName + ".dat"});
+    }
+
 
 }

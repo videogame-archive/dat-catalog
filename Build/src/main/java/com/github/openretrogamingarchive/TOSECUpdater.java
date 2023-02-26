@@ -13,7 +13,6 @@ import static com.github.openretrogamingarchive.Util.scrap;
 public class TOSECUpdater {
 
     public static final String DOMAIN = "https://www.tosecdev.org";
-
     private static final String DOWNLOADS_URL = DOMAIN + "/downloads";
     public static void updateTOSEC(String pathToRoot) throws IOException {
         byte[] lastReleaseZip = getLastReleaseZip();
