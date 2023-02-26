@@ -35,8 +35,9 @@ public class TOSEC {
             // # Normalized
             List<String> originToDestination = scrap(move, "\"", "\"");
             String fileName = originToDestination.get(0);
+            String path = originToDestination.get(1).replace('\\', '/');
             String normalizedOrigin = fileName.substring(0, fileName.indexOf(" (TOSEC-v"));
-            String normalizedDestination = ROOT_LATEST_DIR + "/" + NORMALIZED_DIR + "/" + moduleName + "/" + originToDestination.get(1).replace('\\', '/') + "/" + normalizedOrigin;
+            String normalizedDestination = ROOT_LATEST_DIR + "/" + NORMALIZED_DIR + "/" + moduleName + "/" + path + "/" + normalizedOrigin;
             Path normalizedDestinationPath = Path.of(normalizedDestination);
             if (!Files.exists(normalizedDestinationPath)) {
                 Files.createDirectories(normalizedDestinationPath);
@@ -46,14 +47,19 @@ public class TOSEC {
             Files.write(normalizedDatPath, datBytes);
 
             // # Basic
-            String basicDestination = ROOT_LATEST_DIR + "/" + BASIC_DIR + "/" + moduleName + "/" + originToDestination.get(1).replace('\\', '/');
+            String basicDestination = ROOT_LATEST_DIR + "/" + BASIC_DIR + "/" + moduleName + "/" + path;
             Path basicDestinationPath = Path.of(basicDestination);
             if (!Files.exists(basicDestinationPath)) {
                 Files.createDirectories(basicDestinationPath);
             }
             Path basicDestinationDatPath = basicDestinationPath.resolve(Path.of(normalizedOrigin + ".dat"));
 
-            String relativeNormalizedDestination =  "../../../../../" + NORMALIZED_DIR + "/" + moduleName + "/" + originToDestination.get(1).replace('\\', '/') + "/" + normalizedOrigin;
+            int relativeBacktrackLength = path.split("/").length + 2;
+            String relativeBackgrack = "";
+            for (int i = 0; i < relativeBacktrackLength; i++) {
+                relativeBackgrack += "../";
+            }
+            String relativeNormalizedDestination =  relativeBackgrack + NORMALIZED_DIR + "/" + moduleName + "/" + path + "/" + normalizedOrigin;
             Path relativeNormalizedDestinationPath = Path.of(relativeNormalizedDestination);
             Path relativeDatPath = relativeNormalizedDestinationPath.resolve(Path.of(fileName));
             Files.createSymbolicLink(basicDestinationDatPath, relativeDatPath);

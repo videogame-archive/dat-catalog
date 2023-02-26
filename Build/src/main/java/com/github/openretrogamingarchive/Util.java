@@ -127,29 +127,4 @@ public class Util {
         zis.close();
         return inMemory;
     }
-
-    //
-    // CSV Generation Helper methods
-    //
-
-    public enum Headers { Type, Name };
-    public enum Type { FILE, DIRECTORY };
-
-    public static void saveCSV(Path parent, List<String[]> csvRows) throws IOException {
-        StringBuilder rootIndex = new StringBuilder();
-        CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(Headers.class);
-        CSVPrinter csvPrinter = new CSVPrinter(rootIndex, csvFormat);
-        csvPrinter.printRecords(csvRows);
-        csvPrinter.close();
-        Path index = parent.resolve("index.csv");
-        Files.write(index, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
-    }
-
-    public static String[] getCSVRow(Path file) {
-        return new String[]{(Files.isDirectory(file)?Util.Type.DIRECTORY.name():Util.Type.FILE.name()), getLastPathName(file)};
-    }
-
-    public static String getLastPathName(Path path) {
-        return path.getName(path.getNameCount() - 1).toString();
-    }
 }
