@@ -7,6 +7,7 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.Map;
 
+import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
 import static com.github.openretrogamingarchive.Util.downloadBytes;
 import static com.github.openretrogamingarchive.Util.scrap;
 
@@ -27,19 +28,22 @@ public class TOSECUpdater {
     }
 
     private static void unpackTOSECModule(String pathToRoot, Map<String, byte[]> files, String moduleName) throws IOException {
+        // # Normalized
         String script_move = new String(files.get("Scripts/move/" + moduleName + "_move.bat"), StandardCharsets.UTF_8);
         for (String move:script_move.split("\r\n")) {
             List<String> originToDestination = scrap(move, "\"", "\"");
             String fileName = originToDestination.get(0);
             String normalizedOrigin = fileName.substring(0, fileName.indexOf(" (TOSEC-v"));
-            String normalizaredDestination = pathToRoot + "/" + moduleName + "/" + originToDestination.get(1).replace('\\', '/') + "/" + normalizedOrigin;
-            Path normalizedDestinationPath = Path.of(normalizaredDestination);
+            String normalizedDestination = pathToRoot + "/" + NORMALIZED_DIR + "/" + moduleName + "/" + originToDestination.get(1).replace('\\', '/') + "/" + normalizedOrigin;
+            Path normalizedDestinationPath = Path.of(normalizedDestination);
             if (!Files.exists(normalizedDestinationPath)) {
                 Files.createDirectories(normalizedDestinationPath);
             }
             byte[] dat = files.get(moduleName + "/" + fileName);
             Files.write(normalizedDestinationPath.resolve(Path.of(fileName)), dat);
         }
+
+        // # Basic
     }
 
     private static byte[] getLastReleaseZip() throws IOException {
