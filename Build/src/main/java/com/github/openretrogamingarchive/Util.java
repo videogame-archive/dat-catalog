@@ -132,8 +132,8 @@ public class Util {
         Files.write(index, rootIndex.toString().getBytes(StandardCharsets.UTF_8));
     }
 
-    public static String[] row(Path file) throws IOException {
-        return new String[]{(Files.isDirectory(file)?Util.Type.DIRECTORY.name():Util.Type.FILE.name()), Util.getName(file)};
+    public static String[] row(Path file) {
+        return new String[]{(Files.isDirectory(file)?Util.Type.DIRECTORY.name():Util.Type.FILE.name()), getName(file)};
     }
 
     public static String getName(Path path) {
