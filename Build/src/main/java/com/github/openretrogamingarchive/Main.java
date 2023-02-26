@@ -1,5 +1,8 @@
 package com.github.openretrogamingarchive;
 
+import com.github.openretrogamingarchive.updaters.Redump;
+import com.github.openretrogamingarchive.updaters.TOSEC;
+
 import java.io.IOException;
 import java.net.URL;
 import java.nio.file.Files;

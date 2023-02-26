@@ -1,10 +1,11 @@
-package com.github.openretrogamingarchive;
+package com.github.openretrogamingarchive.updaters;
 
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.nio.file.Path;
 
+import com.github.openretrogamingarchive.UpdaterBase;
 import com.github.openretrogamingarchive.helpers.HTTP;
 import com.github.openretrogamingarchive.helpers.Modified;
 import com.github.openretrogamingarchive.helpers.ZIP;

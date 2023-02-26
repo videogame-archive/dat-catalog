@@ -1,4 +1,6 @@
-package com.github.openretrogamingarchive;
+package com.github.openretrogamingarchive.updaters;
+
+import com.github.openretrogamingarchive.Util;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
