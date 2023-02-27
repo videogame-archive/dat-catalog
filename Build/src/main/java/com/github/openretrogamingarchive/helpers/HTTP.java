@@ -39,6 +39,12 @@ public class HTTP {
 		return client.send(req, HttpResponse.BodyHandlers.ofInputStream());
 	}
 
+	public HttpResponse<InputStream> getExpectInputStream(URI uri, String formdata)
+			throws IOException, InterruptedException {
+		final var req = HttpRequest.newBuilder().uri(uri).GET().build();
+		return client.send(req, HttpResponse.BodyHandlers.ofInputStream());
+	}
+
 	public static final boolean hasZip(HttpHeaders headers) {
 		return headers.firstValue("content-type").map(v -> v.equals("application/zip")).orElse(false);
 	}
