@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
-import java.nio.file.LinkOption;
 import java.nio.file.Path;
 import java.util.List;
 import java.util.zip.CRC32;
@@ -59,7 +58,7 @@ public final class CSV {
 
     public static void save(Path root, List<String[]> csvRows) throws IOException {
         final var csvFormat = CSVFormat.Builder.create(CSVFormat.DEFAULT).setHeader(Headers.class).build();
-        Path index = root.resolve("index.csv");
+        Path index = root.resolve(".index.csv");
         try (CSVPrinter csvPrinter = new CSVPrinter(new FileWriter(index.toFile(), StandardCharsets.UTF_8), csvFormat)) {
             csvPrinter.printRecords(csvRows);
         }
@@ -68,4 +67,5 @@ public final class CSV {
     public static String getLastPathName(Path path) {
         return path.getName(path.getNameCount() - 1).toString();
     }
+
 }
