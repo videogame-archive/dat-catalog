@@ -1,5 +1,11 @@
 package com.github.openretrogamingarchive.updaters;
 
+import static com.github.openretrogamingarchive.Util.download;
+import static com.github.openretrogamingarchive.Util.downloadToFolder;
+import static com.github.openretrogamingarchive.Util.scrap;
+import static com.github.openretrogamingarchive.Util.scrapOne;
+import static com.github.openretrogamingarchive.helpers.CSV.getLastPathName;
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -7,16 +13,9 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.github.openretrogamingarchive.Main.BASIC_DIR;
-import static com.github.openretrogamingarchive.Main.NORMALIZED_DIR;
-import static com.github.openretrogamingarchive.Main.ROOT_LATEST_DIR_PATH;
-import static com.github.openretrogamingarchive.Util.download;
-import static com.github.openretrogamingarchive.Util.downloadToFolder;
-import static com.github.openretrogamingarchive.Util.scrap;
-import static com.github.openretrogamingarchive.Util.scrapOne;
-import static com.github.openretrogamingarchive.helpers.CSV.getLastPathName;
+import com.github.openretrogamingarchive.UpdaterBase;
 
-public class Redump {
+public class Redump extends UpdaterBase {
 
     private static final String ROOT_DIR = "Redump";
 
@@ -79,13 +78,13 @@ public class Redump {
 
     private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException {
         // Normalized
-        Path normalizedRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(NORMALIZED_DIR, ROOT_DIR));
+        Path normalizedRoot = NORMALIZED_DIR.resolve(ROOT_DIR);
         if (!Files.exists(normalizedRoot)) {
             Files.createDirectories(normalizedRoot);
         }
 
         // Basic
-        Path basicRoot = ROOT_LATEST_DIR_PATH.resolve(Path.of(BASIC_DIR, ROOT_DIR));
+        Path basicRoot = BASIC_DIR.resolve(ROOT_DIR);
         if (!Files.exists(basicRoot)) {
             Files.createDirectories(basicRoot);
         }
