@@ -40,7 +40,7 @@ public class NoIntro extends UpdaterBase {
 
 				// if application/zip content-type then extract archive
 				if (HTTP.hasZip(resp2.headers())) {
-					try (final var zip = new ZIP(resp2.body())) {
+					try (final var zip = new ZIP(resp2.body(), HTTP.extractFilename(resp2.headers()))) {
 						zip.extractAll(DIR);
 						System.out.print(".");
 						Modified.setModified(DIR);
