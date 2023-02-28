@@ -1,9 +1,10 @@
 package com.github.openretrogamingarchive.updaters;
 
-import static com.github.openretrogamingarchive.Util.download;
 import static com.github.openretrogamingarchive.Util.scrap;
 
 import java.io.IOException;
+import java.io.InputStream;
+import java.net.URISyntaxException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -11,15 +12,15 @@ import java.util.List;
 import java.util.Map;
 
 import com.github.openretrogamingarchive.UpdaterBase;
-import com.github.openretrogamingarchive.Util;
+import com.github.openretrogamingarchive.helpers.HTTP;
+import com.github.openretrogamingarchive.helpers.ZIP;
 
 public class TOSEC extends UpdaterBase {
 
     public static final String DOMAIN = "https://www.tosecdev.org";
     private static final String DOWNLOADS_URL = DOMAIN + "/downloads";
-    public static void update() throws IOException {
-        byte[] lastReleaseZip = getLastReleaseZip();
-        Map<String, byte[]> files = Util.unZipInMemory(lastReleaseZip);
+    public static void update() throws IOException, InterruptedException, URISyntaxException {
+        Map<String, byte[]> files = ZIP.extractInMemory(getLastReleaseZip());
 
         // TOSEC
         unpackTOSECModule(files, "TOSEC");
@@ -64,13 +65,13 @@ public class TOSEC extends UpdaterBase {
         }
     }
 
-    private static byte[] getLastReleaseZip() throws IOException {
-        String publicDownloadsPage = new String(download(DOWNLOADS_URL).getBytes(), StandardCharsets.UTF_8);
+    private static InputStream getLastReleaseZip() throws IOException, InterruptedException, URISyntaxException {
+        String publicDownloadsPage = HTTP.downloadAsString(DOWNLOADS_URL);
         String releaseTable = scrap(publicDownloadsPage, "<div class=\"pd-categoriesbox\">", "<div class=\"pd-categoriesbox\">").get(0);
         List<String> releases = scrap(releaseTable, "<a href=\"", "\">");
         String lastReleaseURL = DOMAIN + releases.get(1);
-        String lastReleaseDownloadsPage = new String(download(lastReleaseURL).getBytes(), StandardCharsets.UTF_8);
+        String lastReleaseDownloadsPage = HTTP.downloadAsString(lastReleaseURL);
         String downloadURL = DOMAIN + "/downloads/category/" + scrap(lastReleaseDownloadsPage, "href=\"/downloads/category/", "\"").get(1);
-        return Util.download(downloadURL).getBytes();
+        return HTTP.downloadAsStream(downloadURL);
     }
 }

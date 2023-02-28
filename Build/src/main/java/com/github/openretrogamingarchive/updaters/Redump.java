@@ -1,19 +1,19 @@
 package com.github.openretrogamingarchive.updaters;
 
-import static com.github.openretrogamingarchive.Util.download;
-import static com.github.openretrogamingarchive.Util.downloadToFolder;
 import static com.github.openretrogamingarchive.Util.scrap;
 import static com.github.openretrogamingarchive.Util.scrapOne;
 import static com.github.openretrogamingarchive.helpers.CSV.getLastPathName;
 
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
 import com.github.openretrogamingarchive.UpdaterBase;
+import com.github.openretrogamingarchive.helpers.HTTP;
 
 public class Redump extends UpdaterBase {
 
@@ -21,7 +21,7 @@ public class Redump extends UpdaterBase {
 
     private enum DownloadType { MainDat, BiosDat, Subchannels };
 
-    public static void update() throws IOException {
+    public static void update() throws IOException, InterruptedException, URISyntaxException {
         List<RedumpSystem> systems = getRedumpSystems();
         saveSystemDats(systems);
     }
@@ -58,8 +58,8 @@ public class Redump extends UpdaterBase {
 
     public static final String DOMAIN = "http://redump.org";
     public static final String DOWNLOADS_URL = DOMAIN + "/downloads/";
-    private static List<RedumpSystem> getRedumpSystems() throws IOException {
-        String publicRedumpDownloadsPage = new String(download(DOWNLOADS_URL).getBytes(), StandardCharsets.UTF_8);
+    private static List<RedumpSystem> getRedumpSystems() throws IOException, InterruptedException, URISyntaxException {
+        String publicRedumpDownloadsPage = HTTP.downloadAsString(DOWNLOADS_URL);
         String systemsTable = scrap(publicRedumpDownloadsPage, "<table class=\"statistics\" cellspacing=\"0\">", "</table>").get(0);
         List<String> systems = scrap(systemsTable, "<tr>", "</tr>");
         systems.remove(0);
@@ -76,7 +76,7 @@ public class Redump extends UpdaterBase {
         return redumpSystems;
     }
 
-    private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException {
+    private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException, InterruptedException, URISyntaxException {
         // Normalized
         Path normalizedRoot = NORMALIZED_DIR.resolve(ROOT_DIR);
         if (!Files.exists(normalizedRoot)) {
@@ -109,13 +109,13 @@ public class Redump extends UpdaterBase {
             Path normalizedRoot,
             Path basicRoot,
             String normalizedSystemDirName,
-            String downloadURL) throws IOException {
+            String downloadURL) throws IOException, InterruptedException, URISyntaxException {
         // # Normalized
         Path normalizedSystemDir = normalizedRoot.resolve(normalizedSystemDirName);
         if (!Files.exists(normalizedSystemDir)) {
             Files.createDirectory(normalizedSystemDir);
         }
-        Path datPath = downloadToFolder(DOMAIN + downloadURL, normalizedSystemDir, true);
+        Path datPath = HTTP.downloadToFolder(new URI(DOMAIN + downloadURL), normalizedSystemDir, true);
 
         // # Basic
         if (downloadType == DownloadType.Subchannels) {
