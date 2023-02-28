@@ -3,8 +3,11 @@ package com.github.openretrogamingarchive.helpers;
 import java.io.Closeable;
 import java.io.IOException;
 import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Optional;
 import java.util.regex.Pattern;
 import java.util.zip.ZipEntry;
@@ -54,10 +57,10 @@ public final class ZIP implements Closeable {
 		while ((ze = zis.getNextEntry()) != null) {
 			final var entryPath = Path.of(ze.getName());
 			Path path = parent.resolve(entryPath.getParent());
-			if (!skipSmart) {
+			if (Boolean.FALSE.equals(skipSmart)) {
 				// zip basename become intermediate folder if first entry basename is not of the same as zip basename
 				if (firstEntry) {
-					if (!basename(entryPath).equals(zipbasename.get()))
+					if (zipbasename.isPresent() && !zipbasename.get().equals(basename(entryPath)))
 						path = parent.resolve(zipbasename.get()).resolve(entryPath.getParent());
 					firstEntry = false;
 				}
@@ -72,7 +75,20 @@ public final class ZIP implements Closeable {
 			}
 		}
 	}
-	
+
+	public static Map<String, byte[]> extractInMemory(InputStream is) throws IOException {
+	    Map<String, byte[]> inMemory = new HashMap<>();
+	    try (ZipInputStream zis = new ZipInputStream(is, StandardCharsets.ISO_8859_1)) { // UTF_8 breaks TOSEC
+		ZipEntry zipEntry = null;
+		while ((zipEntry = zis.getNextEntry()) != null) {
+		    if (!zipEntry.isDirectory()) {
+			inMemory.put(zipEntry.getName(), zis.readNBytes(((Long) zipEntry.getSize()).intValue()));
+		    }
+		}
+	    }
+	    return inMemory;
+	}
+
 	private static Pattern extPattern = Pattern.compile("(?<!^)[.][^.]*$"); 
 	private static Pattern extPatternAll = Pattern.compile("(?<!^)[.].*"); 
 	
