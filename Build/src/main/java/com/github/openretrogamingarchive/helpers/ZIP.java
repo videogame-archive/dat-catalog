@@ -33,10 +33,11 @@ public final class ZIP implements Closeable {
 		return ze;
 	}
 
-	public void extractAll(Path parent) throws IOException {
+	public Path extractAll(Path parent) throws IOException {
 		ZipEntry ze;
+		Path path = null;
 		while ((ze = zis.getNextEntry()) != null) {
-			final var path = parent.resolve(ze.getName());
+			path = parent.resolve(ze.getName());
 			if (ze.isDirectory()) {
 				Files.createDirectories(path);
 			} else {
@@ -46,6 +47,7 @@ public final class ZIP implements Closeable {
 				}
 			}
 		}
+		return path;
 	}
 	
 	public void extractSmart(Path parent) throws IOException {

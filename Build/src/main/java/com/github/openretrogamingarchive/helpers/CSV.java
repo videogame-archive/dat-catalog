@@ -65,7 +65,7 @@ public final class CSV {
     }
 
     public static String getLastPathName(Path path) {
-        return path.getName(path.getNameCount() - 1).toString();
+	return path.getFileName().toString();
     }
 
 }
