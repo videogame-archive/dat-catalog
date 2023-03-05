@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.github.openretrogamingarchive.helpers.HTTP;
+import com.github.openretrogamingarchive.helpers.Util;
 
 public class Redump extends Updater {
 
@@ -122,11 +123,9 @@ public class Redump extends Updater {
 
         // # Basic
         if (downloadType == DownloadType.Subchannels) {
-            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + REDUMP_DIR + "/" + normalizedSystemDirName);
-            Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName)), normalizedFromBasicLink);
+            Util.createSymbolicLink(datPath, basicRoot.resolve(Path.of(normalizedSystemDirName)));
         } else {
-            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + REDUMP_DIR + "/" + normalizedSystemDirName + "/" + getLastPathName(datPath));
-            Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")), normalizedFromBasicLink);
+            Util.createSymbolicLink(datPath, basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")));
         }
 
     }

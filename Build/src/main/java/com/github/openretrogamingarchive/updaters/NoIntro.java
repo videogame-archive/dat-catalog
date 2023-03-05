@@ -6,6 +6,7 @@ import java.nio.file.Path;
 import java.util.Map;
 
 import com.github.openretrogamingarchive.helpers.HTTP;
+import com.github.openretrogamingarchive.helpers.Util;
 import com.github.openretrogamingarchive.helpers.ZIP;
 
 public class NoIntro extends Updater {
@@ -59,8 +60,8 @@ public class NoIntro extends Updater {
                         if (!Files.exists(basic)) {
                             Files.createDirectories(basic);
                         }
-                        Path normalizedFromBasicLink = Path.of("../../../" + NORMALIZED_DIR + "/" + NO_INTRO_DIR + "/" + noIntroSystemCategory + "/" + noIntroSystem + "/" + datFileName);
-                        Files.createSymbolicLink(basic.resolve(noIntroSystem + ".dat"), normalizedFromBasicLink);
+
+                        Util.createSymbolicLink(normalized.resolve(datFileName), basic.resolve(noIntroSystem + ".dat"));
                     }
                 }
             } else {
