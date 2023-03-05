@@ -1,7 +1,7 @@
 package com.github.openretrogamingarchive.updaters;
 
-import static com.github.openretrogamingarchive.Util.scrap;
-import static com.github.openretrogamingarchive.Util.scrapOne;
+import static com.github.openretrogamingarchive.helpers.Util.scrap;
+import static com.github.openretrogamingarchive.helpers.Util.scrapOne;
 import static com.github.openretrogamingarchive.helpers.CSV.getLastPathName;
 
 import java.io.IOException;
@@ -12,7 +12,6 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.github.openretrogamingarchive.UpdaterBase;
 import com.github.openretrogamingarchive.helpers.HTTP;
 
 public class Redump extends UpdaterBase {

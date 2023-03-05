@@ -1,4 +1,4 @@
-package com.github.openretrogamingarchive;
+package com.github.openretrogamingarchive.updaters;
 
 import java.nio.file.Path;
 

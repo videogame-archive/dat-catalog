@@ -1,4 +1,4 @@
-package com.github.openretrogamingarchive;
+package com.github.openretrogamingarchive.helpers;
 
 import java.util.ArrayList;
 import java.util.List;

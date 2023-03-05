@@ -1,6 +1,6 @@
 package com.github.openretrogamingarchive.updaters;
 
-import static com.github.openretrogamingarchive.Util.scrap;
+import static com.github.openretrogamingarchive.helpers.Util.scrap;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -11,7 +11,6 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.Map;
 
-import com.github.openretrogamingarchive.UpdaterBase;
 import com.github.openretrogamingarchive.helpers.HTTP;
 import com.github.openretrogamingarchive.helpers.ZIP;
 
