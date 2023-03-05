@@ -62,7 +62,6 @@ public class TOSEC extends Updater {
                 Files.createDirectories(basicDestinationPath);
             }
             Path basicDestinationDatPath = basicDestinationPath.resolve(Path.of(normalizedOrigin + ".dat"));
-
             Util.createSymbolicLink(normalizedDatPath, basicDestinationDatPath);
         }
     }
