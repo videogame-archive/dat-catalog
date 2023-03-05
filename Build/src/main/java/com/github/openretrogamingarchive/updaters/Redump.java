@@ -18,7 +18,9 @@ public class Redump extends Updater {
 
     private static final String REDUMP_DIR = "Redump";
 
-    private enum DownloadType { MainDat, BiosDat, Subchannels };
+    private enum DownloadType {MainDat, BiosDat, Subchannels}
+
+    ;
 
     public void update() throws Exception {
         List<RedumpSystem> systems = getRedumpSystems();
@@ -26,7 +28,7 @@ public class Redump extends Updater {
     }
 
     public Path[] getTrackedFolders() {
-        return new Path[] {NORMALIZED_DIR.resolve(REDUMP_DIR), BASIC_DIR.resolve(REDUMP_DIR)};
+        return new Path[]{NORMALIZED_DIR.resolve(REDUMP_DIR), BASIC_DIR.resolve(REDUMP_DIR)};
     }
 
     public static class RedumpSystem {
@@ -61,6 +63,7 @@ public class Redump extends Updater {
 
     public static final String DOMAIN = "http://redump.org";
     public static final String DOWNLOADS_URL = DOMAIN + "/downloads/";
+
     private static List<RedumpSystem> getRedumpSystems() throws IOException, InterruptedException, URISyntaxException {
         String publicRedumpDownloadsPage = HTTP.downloadAsString(DOWNLOADS_URL);
         String systemsTable = scrap(publicRedumpDownloadsPage, "<table class=\"statistics\" cellspacing=\"0\">", "</table>").get(0);
@@ -68,7 +71,7 @@ public class Redump extends Updater {
         systems.remove(0);
 
         List<RedumpSystem> redumpSystems = new ArrayList<>(systems.size());
-        for (String system:systems) {
+        for (String system : systems) {
             List<String> systemInfo = scrap(system, "<td>", "</td>");
             String name = systemInfo.get(0);
             String dat = scrapOne(systemInfo.get(2), "<a href=\"", "\">");
@@ -92,17 +95,17 @@ public class Redump extends Updater {
             Files.createDirectories(basicRoot);
         }
 
-        for (RedumpSystem redumpSystem: redumpSystems) {
+        for (RedumpSystem redumpSystem : redumpSystems) {
             if (redumpSystem.getDatDownloadURL() != null) {
                 processDat(DownloadType.MainDat, normalizedRoot, basicRoot, redumpSystem.getName(), redumpSystem.getDatDownloadURL());
             }
 
             if (redumpSystem.getSubChannelsSBIDatDownloadURL() != null) {
-                processDat(DownloadType.Subchannels, normalizedRoot, basicRoot, redumpSystem.getName() + " - SBI Subchannels" , redumpSystem.getSubChannelsSBIDatDownloadURL());
+                processDat(DownloadType.Subchannels, normalizedRoot, basicRoot, redumpSystem.getName() + " - SBI Subchannels", redumpSystem.getSubChannelsSBIDatDownloadURL());
             }
 
             if (redumpSystem.getBiosDatDownloadURL() != null) {
-                processDat(DownloadType.BiosDat, normalizedRoot, basicRoot, redumpSystem.getName() + " - BIOS Images" , redumpSystem.getBiosDatDownloadURL());
+                processDat(DownloadType.BiosDat, normalizedRoot, basicRoot, redumpSystem.getName() + " - BIOS Images", redumpSystem.getBiosDatDownloadURL());
             }
         }
     }
