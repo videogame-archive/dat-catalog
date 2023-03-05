@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 import com.github.openretrogamingarchive.helpers.HTTP;
+import com.github.openretrogamingarchive.helpers.Util;
 import com.github.openretrogamingarchive.helpers.ZIP;
 
 public class TOSEC extends Updater {
@@ -62,15 +63,7 @@ public class TOSEC extends Updater {
             }
             Path basicDestinationDatPath = basicDestinationPath.resolve(Path.of(normalizedOrigin + ".dat"));
 
-            int relativeBacktrackLength = path.split("/").length + 2;
-            String relativeBackgrack = "";
-            for (int i = 0; i < relativeBacktrackLength; i++) {
-                relativeBackgrack += "../";
-            }
-            String relativeNormalizedDestination = relativeBackgrack + NORMALIZED_DIR + "/" + moduleName + "/" + path + "/" + normalizedOrigin;
-            Path relativeNormalizedDestinationPath = Path.of(relativeNormalizedDestination);
-            Path relativeDatPath = relativeNormalizedDestinationPath.resolve(Path.of(fileName));
-            Files.createSymbolicLink(basicDestinationDatPath, relativeDatPath);
+            Util.createSymbolicLink(normalizedDatPath, basicDestinationDatPath);
         }
     }
 

@@ -1,5 +1,8 @@
 package com.github.openretrogamingarchive.helpers;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,5 +33,11 @@ public class Util {
             }
         }
         return results;
+    }
+
+    public static void createSymbolicLink(Path source, Path link) throws IOException {
+        Path relativeSrc = link.getParent().relativize(source); // relative path of original file from symbolic link
+        link.getParent().toFile().mkdirs(); // create the directory hierarchy if any folder is not available
+        Files.createSymbolicLink(link, relativeSrc); // create symbolic link.
     }
 }
