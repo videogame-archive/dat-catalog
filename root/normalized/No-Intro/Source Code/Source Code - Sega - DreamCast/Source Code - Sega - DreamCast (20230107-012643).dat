@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>223</id>
+		<name>Source Code - Sega - DreamCast</name>
+		<description>Source Code - Sega - DreamCast</description>
+		<version>20230107-012643</version>
+		<author>Hiccup, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Red Dog - Superior Firepower (World)" id="0001">
+		<description>Red Dog - Superior Firepower (World)</description>
+		<rom name="reddog.bundle" size="1585766" crc="300045e2" md5="23b8992f05db80b02bcea037ccc2012c" sha1="505f648eac2aae81e9bd27d28edb4bd3420d34bc" sha256="90bc9eb221a4fa1a894004d5cd2614db48b37ea397e97e5fb0cfb402a944f839"/>
+		<rom name="reddog-main.zip" size="2039578" crc="9fa3d7c0" md5="c8ec5740ceca7f095ba613af1a370089" sha1="361d497754d7c26da77944ae8d31f72a50226a99" sha256="2e7390fccc670170951e869e1e20bfc9e2bb7aa341d3f11142a5a690ac965f7b"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Librascope LGP-30 - Games</name>
+		<description>Librascope LGP-30 - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Craps (1962)(Lilley, R.)">
+		<description>Craps (1962)(Lilley, R.)</description>
+		<rom name="Craps (1962)(Lilley, R.).txt" size="4321" crc="36dd9568" md5="70ef236763cdae47120a7772ed87259c" sha1="c202e7bbb08b7a491d7de94a7cf859276fdb865f"/>
+	</game>
+</datafile>

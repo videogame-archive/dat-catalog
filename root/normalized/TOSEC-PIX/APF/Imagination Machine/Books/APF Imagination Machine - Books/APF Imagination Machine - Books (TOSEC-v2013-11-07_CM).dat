@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF Imagination Machine - Books</name>
+		<description>APF Imagination Machine - Books (TOSEC-v2013-11-07)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-11-07</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BASIC Tutor (1980)(APF Electronics)">
+		<description>BASIC Tutor (1980)(APF Electronics)</description>
+		<rom name="BASIC Tutor (1980)(APF Electronics).pdf" size="95951200" crc="513e1c34" md5="ffd7163efe0ac29ff26b66f1d8d53b81" sha1="b755461453999d5b9d6ce4ea04e652aa21340f1f"/>
+	</game>
+</datafile>

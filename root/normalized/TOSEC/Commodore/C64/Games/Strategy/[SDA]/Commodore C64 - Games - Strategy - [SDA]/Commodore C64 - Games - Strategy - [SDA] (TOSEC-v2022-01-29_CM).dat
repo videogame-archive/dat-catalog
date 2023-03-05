@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Strategy - [SDA]</name>
+		<description>Commodore C64 - Games - Strategy - [SDA] (TOSEC-v2022-01-29)</description>
+		<category>TOSEC</category>
+		<version>2022-01-29</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Star Frontier (1990)(Seth Hopkinson)">
+		<description>Star Frontier (1990)(Seth Hopkinson)</description>
+		<rom name="Star Frontier (1990)(Seth Hopkinson).sda" size="29568" crc="bd7d52b3" md5="d4246fed5955c76c12c49c3a8d65279b" sha1="30a58aa3b7a82080e4b8bd1e8db0e5157d18b053"/>
+	</game>
+	<game name="Star Frontier (1990)(Seth Hopkinson)[a]">
+		<description>Star Frontier (1990)(Seth Hopkinson)[a]</description>
+		<rom name="Star Frontier (1990)(Seth Hopkinson)[a].sda" size="29464" crc="852c7cf2" md5="8e404874880f2c6f6b46d299208c8d43" sha1="96406ad0f44bf5429714d6b329c26db1d3a27339"/>
+	</game>
+	<game name="Star Frontier (1990)(Seth Hopkinson)[a2]">
+		<description>Star Frontier (1990)(Seth Hopkinson)[a2]</description>
+		<rom name="Star Frontier (1990)(Seth Hopkinson)[a2].sda" size="29697" crc="e9c1d037" md5="59836c1a58c26712dfc99d0bdd1abe77" sha1="9ee2f5fa9985083a829f13f02d9ca93b2aeeddfe"/>
+	</game>
+	<game name="Star Frontier (1990)(Seth Hopkinson)[a3]">
+		<description>Star Frontier (1990)(Seth Hopkinson)[a3]</description>
+		<rom name="Star Frontier (1990)(Seth Hopkinson)[a3].sda" size="29696" crc="ad1f7220" md5="1da4baab8c5ee830d45b672d35de430d" sha1="3ecec2f812faf188159033be89da3d4978624a60"/>
+	</game>
+	<game name="Warlords - The First Battle! (1988)(Sentinent Software)">
+		<description>Warlords - The First Battle! (1988)(Sentinent Software)</description>
+		<rom name="Warlords - The First Battle! (1988)(Sentinent Software).sda" size="38912" crc="63fefbc2" md5="0006699e93b4160c89a4135b0dc4cc63" sha1="d5cd19cb6f82f8a19c2908007a8a671a936adc00"/>
+	</game>
+</datafile>

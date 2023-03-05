@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Cards - [D81]</name>
+		<description>Commodore C64 - Games - Cards - [D81] (TOSEC-v2022-01-29)</description>
+		<category>TOSEC</category>
+		<version>2022-01-29</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Card Sharks (1988)(Accolade)(Side A)">
+		<description>Card Sharks (1988)(Accolade)(Side A)</description>
+		<rom name="Card Sharks (1988)(Accolade)(Side A).d81" size="819200" crc="0893bb03" md5="e6a360ca72593ec9a61fe14a754388fe" sha1="a3b105c39c523561a7a60a4667f29e6b33e0052b"/>
+	</game>
+</datafile>

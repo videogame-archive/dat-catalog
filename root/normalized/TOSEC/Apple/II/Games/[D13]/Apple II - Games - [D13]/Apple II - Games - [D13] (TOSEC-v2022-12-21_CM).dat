@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Games - [D13]</name>
+		<description>Apple II - Games - [D13] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beneath Apple Manor (1978)(The Software Factory)(Side 1)(Floppy Version)[BAM Disk Distribution PD1 3.2]">
+		<description>Beneath Apple Manor (1978)(The Software Factory)(Side 1)(Floppy Version)[BAM Disk Distribution PD1 3.2]</description>
+		<rom name="Beneath Apple Manor (1978)(The Software Factory)(Side 1)(Floppy Version)[BAM Disk Distribution PD1 3.2].d13" size="116480" crc="badf4569" md5="de6b28442c14edc154f40fe02e8ead31" sha1="d939d17db514446575bac803f3936acbb9f7b673"/>
+	</game>
+	<game name="Beneath Apple Manor (1978)(The Software Factory)(Side 2)(Tape Version)[BAM Disk Distribution PD1 3.2]">
+		<description>Beneath Apple Manor (1978)(The Software Factory)(Side 2)(Tape Version)[BAM Disk Distribution PD1 3.2]</description>
+		<rom name="Beneath Apple Manor (1978)(The Software Factory)(Side 2)(Tape Version)[BAM Disk Distribution PD1 3.2].d13" size="116480" crc="809ca6d4" md5="87de0ad07c9e8a8fedd71fefb32089f9" sha1="aa905be9856a2ec0d7e783ab8899bc48ebae4342"/>
+	</game>
+</datafile>

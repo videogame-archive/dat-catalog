@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hitachi Basic Master Jr. - Games - [WAV]</name>
+		<description>Hitachi Basic Master Jr. - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-02)(Inufuto)(JP)">
+		<description>Ascend (2022-04-02)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-04-02)(Inufuto)(JP).wav" size="21244336" crc="ec0999a9" md5="30b1cb817bb6b547fe15d74e8ab1ffa1" sha1="21c496cf85f8e37f684e91244d88117f23bed1db"/>
+	</game>
+	<game name="Ruptus (2021-01-16)(Inufuto)(JP)">
+		<description>Ruptus (2021-01-16)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-01-16)(Inufuto)(JP).wav" size="32013409" crc="22ab6ecf" md5="0d33fd8a786d3bdfb2e6387afa7138b1" sha1="0e1b0169d42faeb1fb367535bae2b228413add02"/>
+	</game>
+</datafile>

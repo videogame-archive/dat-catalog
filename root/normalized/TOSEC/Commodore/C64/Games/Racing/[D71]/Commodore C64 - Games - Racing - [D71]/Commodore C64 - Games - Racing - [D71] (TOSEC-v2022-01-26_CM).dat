@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Racing - [D71]</name>
+		<description>Commodore C64 - Games - Racing - [D71] (TOSEC-v2022-01-26)</description>
+		<category>TOSEC</category>
+		<version>2022-01-26</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Street Rod (1989)(California Dreams)">
+		<description>Street Rod (1989)(California Dreams)</description>
+		<rom name="Street Rod (1989)(California Dreams).d71" size="349696" crc="28bdf2af" md5="64315c47191e9c4c61954efd4f8e81c1" sha1="32f6a8d4af3d91a98f897740e5b450dc380ceb47"/>
+	</game>
+</datafile>

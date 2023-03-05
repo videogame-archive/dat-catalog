@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IMLAC Corporation PDS-1 - Games - [TXT]</name>
+		<description>IMLAC Corporation PDS-1 - Games - [TXT] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="New Apollo (197x)(-)">
+		<description>New Apollo (197x)(-)</description>
+		<rom name="New Apollo (197x)(-).txt" size="14175" crc="7a659080" md5="b3c5954416fa4641051afe74f2c8402f" sha1="24e4cabba73fc5fb5ac145fb574e2a4570d8c316"/>
+	</game>
+	<game name="Snarf (197x)(-)">
+		<description>Snarf (197x)(-)</description>
+		<rom name="Snarf (197x)(-).txt" size="13783" crc="c2712ecc" md5="ab158b79375b47bea59c97d0cdd393ab" sha1="1d3a333a6f1ba08b570972ac595245ecf142372c"/>
+	</game>
+	<game name="Space War! (197x)(-)">
+		<description>Space War! (197x)(-)</description>
+		<rom name="Space War! (197x)(-).txt" size="19669" crc="8c25368b" md5="ce65343b1e71aed1d0f54fd758d98a3c" sha1="a7b127d98ed6c86a5a9a2e18932db21913c3d5ff"/>
+	</game>
+</datafile>

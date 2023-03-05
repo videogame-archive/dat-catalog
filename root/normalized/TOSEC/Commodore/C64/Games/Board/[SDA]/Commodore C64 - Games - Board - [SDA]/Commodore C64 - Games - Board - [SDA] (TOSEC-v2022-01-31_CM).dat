@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Board - [SDA]</name>
+		<description>Commodore C64 - Games - Board - [SDA] (TOSEC-v2022-01-31)</description>
+		<category>TOSEC</category>
+		<version>2022-01-31</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Go (19xx)(Peter A. Rudman)">
+		<description>Go (19xx)(Peter A. Rudman)</description>
+		<rom name="Go (19xx)(Peter A. Rudman).sda" size="35840" crc="d1ed8c83" md5="c624a11f2d4167b1671f2e7ff57f8c7e" sha1="d85ab25927e3232c9c8f12cedd591339605d63bb"/>
+	</game>
+	<game name="Tele-Chess v1.4 (19xx)(Telegame Software)">
+		<description>Tele-Chess v1.4 (19xx)(Telegame Software)</description>
+		<rom name="Tele-Chess v1.4 (19xx)(Telegame Software).sda" size="14336" crc="98d34ecb" md5="e1cb38e9fa0d330856a91716d831c5b1" sha1="14399c1a788fb8aa5e880d7259daefcbb03e5158"/>
+	</game>
+	<game name="Tele-Chess v1.4 (19xx)(Telegame Software)[a]">
+		<description>Tele-Chess v1.4 (19xx)(Telegame Software)[a]</description>
+		<rom name="Tele-Chess v1.4 (19xx)(Telegame Software)[a].sda" size="14080" crc="ecd7c4a8" md5="c0159032142947968a90b04fe83c1c16" sha1="a20651f0ded8a88191ea4fcda3b77af186c87129"/>
+	</game>
+	<game name="Tele-Chess v1.4 (19xx)(Telegame Software)[a2]">
+		<description>Tele-Chess v1.4 (19xx)(Telegame Software)[a2]</description>
+		<rom name="Tele-Chess v1.4 (19xx)(Telegame Software)[a2].sda" size="14464" crc="ce5115ca" md5="892ed9e96af20084999f8c0c62bf325b" sha1="5a1d165f1a35b7f871d2dc45d0bfa368fb79ba1e"/>
+	</game>
+	<game name="Tele-Chess v1.4 (19xx)(Telegame Software)[a3]">
+		<description>Tele-Chess v1.4 (19xx)(Telegame Software)[a3]</description>
+		<rom name="Tele-Chess v1.4 (19xx)(Telegame Software)[a3].sda" size="14224" crc="cc3cff37" md5="a7a8cf8643843ca4b38d213c32a309d3" sha1="8fc225a4149b34dd15be0184766ce69bef7c9706"/>
+	</game>
+	<game name="Tele-Chess v1.4 (19xx)(Telegame Software)[a4]">
+		<description>Tele-Chess v1.4 (19xx)(Telegame Software)[a4]</description>
+		<rom name="Tele-Chess v1.4 (19xx)(Telegame Software)[a4].sda" size="14465" crc="a97d9536" md5="0875a94ce7132f0c7a25cfa87f7d49d2" sha1="d70b91e2dd3c459a5a01293b4fad9d2cad6cf11d"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Unknown</name>
+		<description>EACA EG2000 Colour Genie - Unknown (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>|cy[ool - Grendel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FGR (19xx)(-)">
+		<description>FGR (19xx)(-)</description>
+		<rom name="FGR (19xx)(-).cas" size="17" crc="3a132301" md5="a79a10abe79559509e5031bf78f17881" sha1="d28f49d820906046968d1f0f89c62b1f40ae17b5"/>
+	</game>
+	<game name="Monroe (19xx)(-)">
+		<description>Monroe (19xx)(-)</description>
+		<rom name="Monroe (19xx)(-).cas" size="4198" crc="820b662f" md5="a58c7183c49133665f8f5be00684e407" sha1="0c2ccf61ee673384a05d1012fca09e215fd7880d"/>
+	</game>
+	<game name="Monroe (19xx)(-)[a header]">
+		<description>Monroe (19xx)(-)[a header]</description>
+		<rom name="Monroe (19xx)(-)[a header].cas" size="4234" crc="4a3f4fc6" md5="c054eadebd5fa3fc1f688ca3fa2554ed" sha1="09fc4317e99f8d6e2dc9c895be8f09f1a2999ce6"/>
+	</game>
+	<game name="Uhr Copy (19xx)(-)(de)">
+		<description>Uhr Copy (19xx)(-)(de)</description>
+		<rom name="Uhr Copy (19xx)(-)(de).cas" size="1481" crc="27938748" md5="4f692e9020641b78cbbe1dd16e0e0738" sha1="c1e87c3e7aa2842b5b95ce4fbac24d6cb9a287fd"/>
+	</game>
+	<game name="Uhr Copy (19xx)(-)(de)[a header]">
+		<description>Uhr Copy (19xx)(-)(de)[a header]</description>
+		<rom name="Uhr Copy (19xx)(-)(de)[a header].cas" size="1517" crc="1c2556a6" md5="80ba2626366d7165ccad14b92eda3b17" sha1="1fdf2762f14af3bd485389bbf001e600ba73fb8b"/>
+	</game>
+</datafile>

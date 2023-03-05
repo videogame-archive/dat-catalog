@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8801 - Games - [CMT]</name>
+		<description>NEC PC-8801 - Games - [CMT] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-22)(Inufuto)(JP)">
+		<description>Ascend (2022-03-22)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-22)(Inufuto)(JP).cmt" size="11227" crc="c72ee477" md5="9de004b8295474243e8e2b5cb2ce790a" sha1="ae06bf49ac4a1e52226729517b934e6721267e77"/>
+	</game>
+	<game name="Ascend (2022-03-22)(Inufuto)(mkII)(JP)">
+		<description>Ascend (2022-03-22)(Inufuto)(mkII)(JP)</description>
+		<rom name="Ascend (2022-03-22)(Inufuto)(mkII)(JP).cmt" size="8907" crc="7a354432" md5="75bc79df5b39497bbcce86c784cce2eb" sha1="d4f2c31cb98576143b0e030ae3b5a5d4629f88f4"/>
+	</game>
+	<game name="Ascend (2022-03-22)(Inufuto)(mkII SR)(JP)">
+		<description>Ascend (2022-03-22)(Inufuto)(mkII SR)(JP)</description>
+		<rom name="Ascend (2022-03-22)(Inufuto)(mkII SR)(JP).cmt" size="10604" crc="45665a6f" md5="5d24b22818b9fec9d1fb59e0aa2b38d3" sha1="82a7beb18cf614cd56fd92f1daf64c6fa3f1ee7e"/>
+	</game>
+	<game name="Mazy (2021-03-22)(Inufuto)(mkII)(JP)">
+		<description>Mazy (2021-03-22)(Inufuto)(mkII)(JP)</description>
+		<rom name="Mazy (2021-03-22)(Inufuto)(mkII)(JP).cmt" size="6598" crc="86c6414a" md5="8bd7bcde6881c9646d7a15d2ae11f8ae" sha1="c0d1ccfc842d7a3b7f564c5c89c106ea3eaab695"/>
+	</game>
+	<game name="Ruptus (2021-03-19)(Inufuto)(mkII)(JP)">
+		<description>Ruptus (2021-03-19)(Inufuto)(mkII)(JP)</description>
+		<rom name="Ruptus (2021-03-19)(Inufuto)(mkII)(JP).cmt" size="12628" crc="d6ffb50f" md5="2e3696c3ebf093f5c771bfdee05fc582" sha1="9b1b57c7f74375fc03074cdb4ec275d21e290be5"/>
+	</game>
+	<game name="Ruptus (2021-04-04)(Inufuto)(JP)">
+		<description>Ruptus (2021-04-04)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-04-04)(Inufuto)(JP).cmt" size="15820" crc="c87b87c8" md5="a21c50e109aee1ea0653083f4c0c9763" sha1="3328765330852a9af51a767448d9f526e11bdd76"/>
+	</game>
+	<game name="Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP)">
+		<description>Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP)</description>
+		<rom name="Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP).cmt" size="15055" crc="fb34da84" md5="ddc5dd0d26f1bfc84141ca0c96a1fc86" sha1="7f2eb936acba04eebdd8497817ebb976672e54f3"/>
+	</game>
+</datafile>

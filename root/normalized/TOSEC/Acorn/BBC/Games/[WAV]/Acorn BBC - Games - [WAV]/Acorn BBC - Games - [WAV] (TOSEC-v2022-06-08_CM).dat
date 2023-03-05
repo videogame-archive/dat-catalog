@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Games - [WAV]</name>
+		<description>Acorn BBC - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-05-30)(Inufuto)(JP)">
+		<description>Ascend (2022-05-30)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-05-30)(Inufuto)(JP).wav" size="10743164" crc="37e4993f" md5="5893892261015a19a6d3c0f968231af0" sha1="c0e991d30c695dd10888a9bd1f806daab0d6560b"/>
+	</game>
+	<game name="Ruptus (2022-06-02)(Inufuto)(JP)">
+		<description>Ruptus (2022-06-02)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2022-06-02)(Inufuto)(JP).wav" size="14475644" crc="50722017" md5="f7abd615f5e4cbebb04cd91d3b809c8a" sha1="feeaf06d329d77d25689750369ad3a7351eab4e3"/>
+	</game>
+</datafile>

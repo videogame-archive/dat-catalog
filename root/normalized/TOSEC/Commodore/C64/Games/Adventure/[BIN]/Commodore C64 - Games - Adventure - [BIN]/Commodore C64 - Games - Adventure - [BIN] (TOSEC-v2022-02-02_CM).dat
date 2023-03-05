@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Adventure - [BIN]</name>
+		<description>Commodore C64 - Games - Adventure - [BIN] (TOSEC-v2022-02-02)</description>
+		<category>TOSEC</category>
+		<version>2022-02-02</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Adventure 1 - Mutant Spiders, The (19xx)(-)">
+		<description>Adventure 1 - Mutant Spiders, The (19xx)(-)</description>
+		<rom name="Adventure 1 - Mutant Spiders, The (19xx)(-).bin" size="16384" crc="8d072b2e" md5="d1af6f5c60cfb4d004cec0cc4f8daefa" sha1="c91ba12fac9ed7534680bad67cd4d7b5dd0afc16"/>
+	</game>
+	<game name="Adventure 3 - Fourth Sarcophagus, The (19xx)(-)">
+		<description>Adventure 3 - Fourth Sarcophagus, The (19xx)(-)</description>
+		<rom name="Adventure 3 - Fourth Sarcophagus, The (19xx)(-).bin" size="16384" crc="ab5019af" md5="64a48134ac0b914ba08891a9b6dd64e7" sha1="a1ee928b8a6185ba7242560b2b4eef82ff92a9a6"/>
+	</game>
+	<game name="Adventure Series - Viking Raider (1984)(Interphase)">
+		<description>Adventure Series - Viking Raider (1984)(Interphase)</description>
+		<rom name="Adventure Series - Viking Raider (1984)(Interphase).bin" size="16384" crc="ed963ee9" md5="2ae6a73d93acc377a0cbe293aea581b5" sha1="d47a46efa1210ae503e16dd711b5235dccd4f70f"/>
+	</game>
+	<game name="Aegean Voyage (1984)(Spinnaker Software)">
+		<description>Aegean Voyage (1984)(Spinnaker Software)</description>
+		<rom name="Aegean Voyage (1984)(Spinnaker Software).bin" size="16384" crc="7a9df99f" md5="dd50c0fbfcf6a6c203842f3fbb8f418d" sha1="230f243e932391980b0ba75682aba4a885473a54"/>
+	</game>
+	<game name="Fourth Sarcophagus, The (1983)(Handic Software)">
+		<description>Fourth Sarcophagus, The (1983)(Handic Software)</description>
+		<rom name="Fourth Sarcophagus, The (1983)(Handic Software).bin" size="8192" crc="d279bdd7" md5="afdc481f5948db02dbb99b2e57707097" sha1="473d9a4e31a82af1669e21c2f57b0742658d321f"/>
+	</game>
+	<game name="Gateway to Apshai (1983)(Epyx)">
+		<description>Gateway to Apshai (1983)(Epyx)</description>
+		<rom name="Gateway to Apshai (1983)(Epyx).bin" size="16384" crc="9ff745b7" md5="20c66bd1fbd8dd30ccea4e3927618aed" sha1="43917484bd975aeb6c07fda784da174c4a97aee2"/>
+	</game>
+	<game name="Maze Master (1983)(HesWare)">
+		<description>Maze Master (1983)(HesWare)</description>
+		<rom name="Maze Master (1983)(HesWare).bin" size="16384" crc="a3f01773" md5="3b9955d637ec672546c6b06649c9e4ec" sha1="82d6b9fcd1ef20118deff3445f4d41627b391b91"/>
+	</game>
+	<game name="Mutant Spiders, The (1983)(Handic Software)">
+		<description>Mutant Spiders, The (1983)(Handic Software)</description>
+		<rom name="Mutant Spiders, The (1983)(Handic Software).bin" size="8192" crc="a58c67ab" md5="e581d547b3395da9f9ebf9b81be3c523" sha1="dc68392548c834786148aae0d46718cee7e7cb65"/>
+	</game>
+</datafile>

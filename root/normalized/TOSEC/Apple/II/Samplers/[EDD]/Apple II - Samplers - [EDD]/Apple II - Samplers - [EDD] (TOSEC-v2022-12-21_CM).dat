@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Samplers - [EDD]</name>
+		<description>Apple II - Samplers - [EDD] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mr. and Mrs. Potato Head (1985)(Random House)(II+)">
+		<description>Mr. and Mrs. Potato Head (1985)(Random House)(II+)</description>
+		<rom name="Mr. and Mrs. Potato Head (1985)(Random House)(II+).edd" size="2310144" crc="dd63a0c3" md5="64389edf9489638d140b327bb93f585d" sha1="9ef529a958682fc4f23897c9fe3d5c8913b8c314"/>
+	</game>
+	<game name="Property Management System (1982)(Realty Software)(II+)">
+		<description>Property Management System (1982)(Realty Software)(II+)</description>
+		<rom name="Property Management System (1982)(Realty Software)(II+).edd" size="2310144" crc="43d1df92" md5="060e06eaf047d4ceda229a5daf8a8a11" sha1="d02702efd899ec15024a30bb778f8a48728fd4ad"/>
+	</game>
+	<game name="Typing Is A Ball, Charlie Brown (1985)(Random House)(II+)">
+		<description>Typing Is A Ball, Charlie Brown (1985)(Random House)(II+)</description>
+		<rom name="Typing Is A Ball, Charlie Brown (1985)(Random House)(II+).edd" size="2310144" crc="cae886bf" md5="0210e7e4af1349976a2fab0310231529" sha1="1599ee2bbd8ed5bfe6df8c1b0dcab5f006747d42"/>
+	</game>
+</datafile>

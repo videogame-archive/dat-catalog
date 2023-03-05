@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Coverdisks - [PRG]</name>
+		<description>Commodore C64 - Coverdisks - [PRG] (TOSEC-v2020-01-25)</description>
+		<category>TOSEC</category>
+		<version>2020-01-25</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Commodore Magazine Example Scroll (19xx)(Commodore Magazine)">
+		<description>Commodore Magazine Example Scroll (19xx)(Commodore Magazine)</description>
+		<rom name="Commodore Magazine Example Scroll (19xx)(Commodore Magazine).prg" size="1439" crc="0cfd1b05" md5="8b06cd4f0b3ce56c4a641f564cab5bbe" sha1="5ad407480674cbfd1416db6e7e61170945b252bc"/>
+	</game>
+	<game name="Commodore Magazine Example Scroll (19xx)(Commodore Magazine)[a]">
+		<description>Commodore Magazine Example Scroll (19xx)(Commodore Magazine)[a]</description>
+		<rom name="Commodore Magazine Example Scroll (19xx)(Commodore Magazine)[a].prg" size="1444" crc="b59d5915" md5="2f19e6dac2a3f47864d0763435a03195" sha1="49adb3c9db545f9b13a7e2dd95b6019790c3a058"/>
+	</game>
+	<game name="Conoscere il Computer Direttamente dal Computer - I Miei Amici Nr.x1 (19xx)(Edizioni Beatrice D&apos;este)(it)">
+		<description>Conoscere il Computer Direttamente dal Computer - I Miei Amici Nr.x1 (19xx)(Edizioni Beatrice D&apos;este)(it)</description>
+		<rom name="Conoscere il Computer Direttamente dal Computer - I Miei Amici Nr.x1 (19xx)(Edizioni Beatrice D&apos;este)(it).prg" size="1182" crc="79e7c2ce" md5="4af320fee8105a599d3970fdfa082b13" sha1="ef48488757c3d505acf51a5c3ed14f63e82eba08"/>
+	</game>
+	<game name="Conoscere il Computer Direttamente dal Computer - L&apos; agenda Nr.x3 (19xx)(Edizioni Beatrice D&apos;este)(it)">
+		<description>Conoscere il Computer Direttamente dal Computer - L&apos; agenda Nr.x3 (19xx)(Edizioni Beatrice D&apos;este)(it)</description>
+		<rom name="Conoscere il Computer Direttamente dal Computer - L&apos; agenda Nr.x3 (19xx)(Edizioni Beatrice D&apos;este)(it).prg" size="1383" crc="659303d4" md5="e769116046fa1b3038d99b6923991449" sha1="9607d316e14fc36210599819778eb12a94fad714"/>
+	</game>
+	<game name="Conoscere il Computer Direttamente dal Computer - L&apos;esame Nr.x8 (19xx)(Edizioni Beatrice D&apos;este)(it)">
+		<description>Conoscere il Computer Direttamente dal Computer - L&apos;esame Nr.x8 (19xx)(Edizioni Beatrice D&apos;este)(it)</description>
+		<rom name="Conoscere il Computer Direttamente dal Computer - L&apos;esame Nr.x8 (19xx)(Edizioni Beatrice D&apos;este)(it).prg" size="11269" crc="9a58229b" md5="9f9f4613beebffad4f6806e279f555c7" sha1="447995a71dc16c7ebae93dcd7fd6f638dbdd0347"/>
+	</game>
+</datafile>

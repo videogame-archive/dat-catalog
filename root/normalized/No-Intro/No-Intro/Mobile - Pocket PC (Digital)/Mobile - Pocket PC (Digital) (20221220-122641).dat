@@ -1,0 +1,1804 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>267</id>
+		<name>Mobile - Pocket PC (Digital)</name>
+		<description>Mobile - Pocket PC (Digital)</description>
+		<version>20221220-122641</version>
+		<author>Arctic Circle System, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="1942 (USA) (ARM)" id="0161">
+		<description>1942 (USA) (ARM)</description>
+		<rom name="1942 (USA) (ARM).cab" size="604999" crc="f8b8d715" md5="c691ee917dbce29c1bd6927e9c407b78" sha1="2dc446b0466cb873efe9bdb2d5245ea4063c60ef"/>
+	</game>
+	<game name="300 Bowl (USA) (ARM)" id="0445">
+		<description>300 Bowl (USA) (ARM)</description>
+		<rom name="300 Bowl (USA) (ARM).cab" size="1794333" crc="5d392964" md5="15e51c7f3d5d91f0650e62d248f4416f" sha1="4f35cc17fe3f449e041c2dd94c3524c784ac7527"/>
+	</game>
+	<game name="Age of Empires - Gold Edition (USA) (Demo) (ARM)" id="0002">
+		<category>Demos</category>
+		<description>Age of Empires - Gold Edition (USA) (Demo) (ARM)</description>
+		<rom name="Age of Empires - Gold Edition (USA) (ARM) (Demo).cab" size="10310631" crc="30107b4e" md5="dd9b0cb771f912405c54f6713961abc0" sha1="c2f3bba62e365367e1149810026dddd5319a911e"/>
+	</game>
+	<game name="Airline Manager Simulator (Canada) (ARM)" id="0003">
+		<description>Airline Manager Simulator (Canada) (ARM)</description>
+		<rom name="Airline Manager Simulator (Canada) (ARM).cab" size="1978982" crc="7b1b6e15" md5="7745634e68f024862939872ffa6d6cb4" sha1="1fb016984553e1b737c0fbcb3395c583caa7eee0"/>
+	</game>
+	<game name="Airline Manager Simulator (Canada) (MIPS)" id="0004" cloneofid="0003">
+		<description>Airline Manager Simulator (Canada) (MIPS)</description>
+		<rom name="Airline Manager Simulator (Canada) (MIPS).cab" size="2112646" crc="685e8454" md5="2653123af43505e52d14bf286df33c20" sha1="38e042d664c7303b42dc3ed2ede74b9b48fbce65"/>
+	</game>
+	<game name="Airline Manager Simulator (Canada) (SH3)" id="0005" cloneofid="0003">
+		<description>Airline Manager Simulator (Canada) (SH3)</description>
+		<rom name="Airline Manager Simulator (Canada) (SH3).cab" size="2125454" crc="43840282" md5="2ed66c79d9dc4c3f1f79813a0599094b" sha1="87925e2f7531c45c08f14cb6801e62871674adbd"/>
+	</game>
+	<game name="Alchemy (USA)" id="0040">
+		<description>Alchemy (USA)</description>
+		<rom name="Alchemy (USA).cab" size="836485" crc="ff00d569" md5="9e55cfcec3252d1d1c0ff7496466a122" sha1="96208aa57d4f13acfcfe3daaae7f6dabf0d71f7b"/>
+	</game>
+	<game name="Alchemy (USA) (WMSP)" id="0041" cloneofid="0040">
+		<description>Alchemy (USA) (WMSP)</description>
+		<rom name="Alchemy (USA) (WMSP).cab" size="408728" crc="4096cf4e" md5="01c8f3aa407d4ecf3b10c2ae2f880bfe" sha1="8b8c41cde61456791837e4f56360898b9d2f2a25"/>
+	</game>
+	<game name="Atari Retro (USA) (ARM)" id="0011">
+		<description>Atari Retro (USA) (ARM)</description>
+		<rom name="Atari Retro (USA) (ARM).cab" size="819207" crc="c924a1d7" md5="922aeabb47aef4938ada57f3748ef493" sha1="c4de72d8e3b84e63675da84223467165f258a0e6"/>
+	</game>
+	<game name="Atomica (USA)" id="0042">
+		<description>Atomica (USA)</description>
+		<rom name="Atomica (USA).cab" size="1156276" crc="f986382a" md5="09a6ab5e74fa57b3edd95fe3edb4ca5b" sha1="43468d47da931d85ba89da0b328151236c2dd62f"/>
+	</game>
+	<game name="Atomica (USA) (WMSP)" id="0043" cloneofid="0042">
+		<description>Atomica (USA) (WMSP)</description>
+		<rom name="Atomica (USA) (WMSP).cab" size="323715" crc="e6b6283a" md5="aae09a7623f47eba1747ae51d58a94e8" sha1="6c76212022e23db1f6161f0b485713b34273fc9a"/>
+	</game>
+	<game name="Battleship (USA) (ARM)" id="0301">
+		<description>Battleship (USA) (ARM)</description>
+		<rom name="Battleship (USA) (ARM).cab" size="1445567" crc="8297aa2a" md5="f7aaf9ea5e367baaeb682c1f8ea91766" sha1="a5648995146bf3823eda9cde9e55b38ab2ecc790"/>
+	</game>
+	<game name="Battleship (USA) (MIPS)" id="0302" cloneofid="0301">
+		<description>Battleship (USA) (MIPS)</description>
+		<rom name="Battleship (USA) (MIPS).cab" size="1514199" crc="712a7835" md5="b6634db5163040a9052fc150af27d986" sha1="40944da8b7ed1a042fed1c8f5153fdb7b79618ee"/>
+	</game>
+	<game name="Battleship (USA) (SH3)" id="0303" cloneofid="0301">
+		<description>Battleship (USA) (SH3)</description>
+		<rom name="Battleship (USA) (SH3).cab" size="1430719" crc="9d76cc49" md5="bafcacab53551a475f974b0efae9ad26" sha1="b751d32af9c98ebe61726d7ec8dd8e7d76e7ec3c"/>
+	</game>
+	<game name="Batty (Europe) (ARM)" id="0348">
+		<description>Batty (Europe) (ARM)</description>
+		<rom name="Batty (Europe) (ARM).cab" size="116567" crc="6db111a0" md5="457dc5db6e014dced27b9f629996719d" sha1="673da5dffe31d1b82f68cd2a7cb5b80db2751d8b"/>
+	</game>
+	<game name="Batty (Europe) (MIPS)" id="0349" cloneofid="0348">
+		<description>Batty (Europe) (MIPS)</description>
+		<rom name="Batty (Europe) (MIPS).cab" size="118103" crc="347cf967" md5="e3342307f155596cb4563080bb3f2740" sha1="1fa28cfac98030d8bd5de6f0ef0f4a4cce804910"/>
+	</game>
+	<game name="Batty (Europe) (SH3)" id="0350" cloneofid="0348">
+		<description>Batty (Europe) (SH3)</description>
+		<rom name="Batty (Europe) (SH3).cab" size="113495" crc="989d5551" md5="8b0f5ebe0335e17940a60aab3f664193" sha1="1b11c22d13ef7b7dc6dd36f4289d4a87ad29d574"/>
+	</game>
+	<game name="Bejeweled (USA)" id="0044">
+		<description>Bejeweled (USA)</description>
+		<rom name="Bejeweled (USA).cab" size="703834" crc="9926191f" md5="8a05d9fa724c486593af99cfc592e158" sha1="754ffd06b33bdde9691733d63ffd956ebcc11078"/>
+	</game>
+	<game name="Bejeweled (USA) (WMSP)" id="0045" cloneofid="0044">
+		<description>Bejeweled (USA) (WMSP)</description>
+		<rom name="Bejeweled (USA) (WMSP).cab" size="387512" crc="20f98363" md5="e85a4b86f83283fb88cc52d15f598869" sha1="8dbccd6c904228af4b28b1513602cba33de4d100"/>
+	</game>
+	<game name="Bowling Master (France) (ARM)" id="0020">
+		<description>Bowling Master (France) (ARM)</description>
+		<rom name="Bowling Master (France) (ARM).cab" size="694235" crc="e797107a" md5="f1af525ac00341827a66a27cc69a5222" sha1="555c47083f6edbda43901150771743a85d1ebc20"/>
+	</game>
+	<game name="BoxMan (Europe) (ARM)" id="0345">
+		<description>BoxMan (Europe) (ARM)</description>
+		<rom name="BoxMan_ARM.exe" size="674816" crc="f1261279" md5="127654d81b838891f6d17f7c69473c9e" sha1="7eb26c1127830c87173c8e17ecf749b2d494e147"/>
+		<rom name="gx.dll" size="8704" crc="b0d0be22" md5="70f5a414b60e6b6ea0619ee7b18d5031" sha1="feea25e0a062930dcf3962b72e5eae86e2756b3d"/>
+		<rom name="gx.lib" size="4476" crc="102a6c33" md5="4d10aa66b40eba7bd85b4882e0aed1bf" sha1="30836297adc56ac0270a5b532e9fd08967186555"/>
+	</game>
+	<game name="BoxMan (Europe) (MIPS)" id="0346" cloneofid="0345">
+		<description>BoxMan (Europe) (MIPS)</description>
+		<rom name="BoxMan_MIPS.exe" size="675328" crc="a627faed" md5="c69101efe6c4f20f83248206da8adfb2" sha1="37cec1c0812a637435a432eac833945df92013ee"/>
+		<rom name="gx.dll" size="10752" crc="96cb9feb" md5="d78bb0fccd4845e3a9b885b226ec72a3" sha1="d8bd4dc6f48557835540e6d9b66453068d7202e3"/>
+		<rom name="gx.lib" size="4476" crc="0e62e1a0" md5="3817a7d585996ba72903bdd41611a444" sha1="551b65fd916935bf505b0585fcbc558e7f6c8185"/>
+	</game>
+	<game name="BoxMan (Europe) (SH3)" id="0347" cloneofid="0345">
+		<description>BoxMan (Europe) (SH3)</description>
+		<rom name="BoxMan_SH3.exe" size="668160" crc="8fb73b8c" md5="81e865413c00bc3e6f74630b23fca8cb" sha1="6aeb78c5798820938f65235baed7609904a0e95d"/>
+		<rom name="gx.dll" size="11264" crc="d3a28e05" md5="b6937dcec29d42432d9f1ec19ba84a26" sha1="1d021a5bc14e8b289a253760f1f524d53e1ea93f"/>
+		<rom name="gx.lib" size="4476" crc="2af600ea" md5="e1785701b0b37f066d030a88ab1fd131" sha1="599eb81e5faf345918615ec97e67475a4baa00df"/>
+	</game>
+	<game name="Bubble Blaster (USA) (Demo) (ARM)" id="0284">
+		<description>Bubble Blaster (USA) (Demo) (ARM)</description>
+		<rom name="Bubble Blaster (USA) (ARM) (Demo).cab" size="1132164" crc="ace7bfd3" md5="39f82ce0ff0a4270c7a15f9b407ce2a5" sha1="15acdb92f5f3c676b4da86aa6797bbb2c2f73610"/>
+	</game>
+	<game name="Bubble Blaster (USA) (Demo) (MIPS)" id="0285" cloneofid="0284">
+		<description>Bubble Blaster (USA) (Demo) (MIPS)</description>
+		<rom name="Bubble Blaster (USA) (MIPS) (Demo).cab" size="1141380" crc="4467232e" md5="8876adea3b079237b28fabbdab1b5334" sha1="79594c75315b9b185492803b1b225def99f41e29"/>
+	</game>
+	<game name="Bubble Blaster (USA) (Demo) (SH3)" id="0286" cloneofid="0284">
+		<description>Bubble Blaster (USA) (Demo) (SH3)</description>
+		<rom name="Bubble Blaster (USA) (SH3) (Demo).cab" size="1128580" crc="80251e2f" md5="4310bb8b10741426f34a62aeaa367f59" sha1="5115a964e1629c471bc4d3f65a15c7c6c88f61f7"/>
+	</game>
+	<game name="Bubblets (USA) (ARM)" id="0019">
+		<description>Bubblets (USA) (ARM)</description>
+		<rom name="Bubblets (USA) (ARM).cab" size="175087" crc="7bd798e2" md5="f1e1ce8011119ce5b39772f1d8ed7488" sha1="6acdde25988efb4f6315b44d4a634647f95dca6d"/>
+	</game>
+	<game name="Bubblets (USA) (MIPS)" id="0440" cloneofid="0019">
+		<description>Bubblets (USA) (MIPS)</description>
+		<rom name="Bubblets (USA) (MIPS).cab" size="181743" crc="82e2c84f" md5="236fa206a778231ed81ec2c808efa6c2" sha1="30c0ce6177ed96577ebffb9257d00d6e839388ca"/>
+	</game>
+	<game name="Bubblets (USA) (SH3)" id="0441" cloneofid="0019">
+		<description>Bubblets (USA) (SH3)</description>
+		<rom name="Bubblets (USA) (SH3).cab" size="171503" crc="e7369dbc" md5="186f5600a4199bc1e96d09c59272cf28" sha1="a7c2b68867edc24ac031bc8a24850ca78714afd1"/>
+	</game>
+	<game name="Casino Games (USA) (ARM)" id="0401">
+		<description>Casino Games (USA) (ARM)</description>
+		<rom name="Casino Games (USA) (ARM).cab" size="1137018" crc="e397f327" md5="c8f285ad31720d508c87267b68395e95" sha1="461815d168f03e7bdec7e65a764b586695658256"/>
+	</game>
+	<game name="Casino Games (USA) (MIPS)" id="0402" cloneofid="0401">
+		<description>Casino Games (USA) (MIPS)</description>
+		<rom name="Casino Games (USA) (MIPS).cab" size="1149821" crc="aa50a421" md5="0e2dfcddd06f495e86a44b48f220045c" sha1="287b408222444c3a5295da3905b14592d79d5ca2"/>
+	</game>
+	<game name="Casino Games (USA) (SH3)" id="0403" cloneofid="0401">
+		<description>Casino Games (USA) (SH3)</description>
+		<rom name="Casino Games (USA) (SH3).cab" size="1123705" crc="ae35fcf2" md5="1be452fd919615916ee1bebefdc29134" sha1="bbc4171f9b5f7b11e94eecacf36d598c75ea9cce"/>
+	</game>
+	<game name="Centipede (USA) (ARM)" id="0012">
+		<description>Centipede (USA) (ARM)</description>
+		<rom name="Centipede (USA) (ARM).cab" size="415203" crc="76cf930a" md5="1fff2657f2f0d2fbbe7f23fc6794008f" sha1="0824f07f97f26f7a5ad304f70ef238f7bc1d547b"/>
+	</game>
+	<game name="Cubicle Chaos (USA) (ARM)" id="0034">
+		<description>Cubicle Chaos (USA) (ARM)</description>
+		<rom name="Cubicle Chaos (USA) (ARM).cab" size="989804" crc="c7f34110" md5="f92adc839be841fcd01a76caa351c5aa" sha1="f5f58332a7f8bd16b430789cde33142bf2eb5fa1"/>
+	</game>
+	<game name="Cubicle Chaos (USA) (MIPS)" id="0035" cloneofid="0034">
+		<description>Cubicle Chaos (USA) (MIPS)</description>
+		<rom name="Cubicle Chaos (USA) (MIPS).cab" size="1058948" crc="0faa7ed7" md5="c6346e9bfe25e57692af72426c4cb1da" sha1="c15bb2147114c75d4bba5a01a9965da1efbae94b"/>
+	</game>
+	<game name="Cubicle Chaos (USA) (SH3)" id="0036" cloneofid="0034">
+		<description>Cubicle Chaos (USA) (SH3)</description>
+		<rom name="Cubicle Chaos (USA) (SH3).cab" size="946260" crc="65b6ab42" md5="c8a1faa77765920d392a408d41b99172" sha1="59c3e774cdab64b3e1e0b7234c7feee54eafd006"/>
+	</game>
+	<game name="Defender (USA) (ARM)" id="0165">
+		<description>Defender (USA) (ARM)</description>
+		<rom name="Defender (USA) (ARM).cab" size="1554741" crc="2f26301d" md5="e47e9624b3405234545cd6fa97ed6363" sha1="908f57cf150c8ebc88849fe69fc1ead45fc6723f"/>
+	</game>
+	<game name="Defender (USA) (MIPS)" id="0166" cloneofid="0165">
+		<description>Defender (USA) (MIPS)</description>
+		<rom name="Defender (USA) (MIPS).cab" size="1631565" crc="6636b6dc" md5="177f5f486ea2b2651d47e01cb06bca64" sha1="a32407c0e9c297b1f86f95a47125df240360796c"/>
+	</game>
+	<game name="Defender (USA) (SH3)" id="0167" cloneofid="0165">
+		<description>Defender (USA) (SH3)</description>
+		<rom name="Defender (USA) (SH3).cab" size="1509165" crc="210e1bed" md5="5a160d75d257ddf2a127cd287fc8b18c" sha1="f41ee922a389da045f7b10cb477db3a2c9a0ef94"/>
+	</game>
+	<game name="Dragon's Breed - The Ancient Augury (United Kingdom) (ARM)" id="0013">
+		<description>Dragon's Breed - The Ancient Augury (United Kingdom) (ARM)</description>
+		<rom name="Dragon's Breed - The Ancient Augury (United Kingdom) (ARM).cab" size="8999546" crc="ba5b80bc" md5="8e782bdd2f80a15d448ce4f27b1de288" sha1="83ded830453fdf83364646e0b6c0dca3c7e2131c"/>
+	</game>
+	<game name="Empire of the Undead (USA) (ARM)" id="0055">
+		<description>Empire of the Undead (USA) (ARM)</description>
+		<rom name="Empire of the Undead (USA) (ARM).cab" size="10671119" crc="3b9df50c" md5="c5b35df02204a525fae8a7bf84604270" sha1="510d4a06051797ddbe3d9ff8da377928f7fbd363"/>
+	</game>
+	<game name="Empire of the Undead (USA) (MIPS)" id="0056" cloneofid="0055">
+		<description>Empire of the Undead (USA) (MIPS)</description>
+		<rom name="Empire of the Undead (USA) (MIPS).cab" size="10702855" crc="0a4cc8f8" md5="3c0d8e803cf42ab334c47c52d0faca9f" sha1="8e6e63c9fa8949974e169020be77ad63f80816fe"/>
+	</game>
+	<game name="Fun2Link (Japan) (Demo) (ARM)" id="0272" cloneofid="0290">
+		<description>Fun2Link (Japan) (Demo) (ARM)</description>
+		<rom name="Fun2Link (Japan) (ARM) (Demo).cab" size="1123469" crc="59307501" md5="33283140cefae0732600d82fe71eb4f6" sha1="d87d3c21df2962064b6a58843c37ff242908984e"/>
+	</game>
+	<game name="Fun2Link (Japan) (Demo) (MIPS)" id="0273" cloneofid="0290">
+		<description>Fun2Link (Japan) (Demo) (MIPS)</description>
+		<rom name="Fun2Link (Japan) (MIPS) (Demo).cab" size="1145997" crc="10d1bea3" md5="1b104f0efb9aadb63ea31eadd08e5407" sha1="ee89d1ef7986293af130d85b712b4eba1ed3a907"/>
+	</game>
+	<game name="Fun2Link (Japan) (Demo) (SH3)" id="0274" cloneofid="0290">
+		<description>Fun2Link (Japan) (Demo) (SH3)</description>
+		<rom name="Fun2Link (Japan) (SH3) (Demo).cab" size="1114765" crc="9086c2df" md5="e6644707b5f3954e476fb2dbec0d2bc1" sha1="c3fddc6227920b8dea7f031ddc9e7eaef105de1f"/>
+	</game>
+	<game name="Fun2Link (USA) (Demo) (ARM)" id="0290">
+		<description>Fun2Link (USA) (Demo) (ARM)</description>
+		<rom name="Fun2Link (USA) (ARM) (Demo).cab" size="776726" crc="57633005" md5="47f12bb851cac44702bb4ac74af38737" sha1="acaa7897db53e3fc819000485076fded22857b32"/>
+	</game>
+	<game name="Fun2Link (USA) (Demo) (MIPS)" id="0291" cloneofid="0290">
+		<description>Fun2Link (USA) (Demo) (MIPS)</description>
+		<rom name="Fun2Link (USA) (MIPS) (Demo).cab" size="798750" crc="54ae37a0" md5="99a9afc2b33813bf9c5572af2b34ef61" sha1="4e6effebd1ad61ce9f5e473e63d7fc4be601f91c"/>
+	</game>
+	<game name="Fun2Link (USA) (Demo) (SH3)" id="0292" cloneofid="0290">
+		<description>Fun2Link (USA) (Demo) (SH3)</description>
+		<rom name="Fun2Link (USA) (SH3) (Demo).cab" size="768022" crc="23dfb06c" md5="5f8b904e7c054eedb9002faa1b05d67c" sha1="c496676a05f485bbb90283c4374882fda2a908ac"/>
+	</game>
+	<game name="Ghosts 'N Goblins (USA) (ARM)" id="0439">
+		<description>Ghosts 'N Goblins (USA) (ARM)</description>
+		<rom name="Ghosts 'N Goblins (USA) (ARM).cab" size="658708" crc="c74edd3c" md5="0a167d40c221b74ca183c6e0d2961b26" sha1="fad140065db69bef4eefd8e27015409ae198ecd4"/>
+	</game>
+	<game name="Handmark Backgammon (USA) (ARM)" id="0319">
+		<description>Handmark Backgammon (USA) (ARM)</description>
+		<rom name="Handmark Backgammon (USA) (ARM).cab" size="687828" crc="b009b98d" md5="442b2dc8db32f29cc9926ee957082031" sha1="b8d772c1226b6536363c10d02604fcd0e037288a"/>
+	</game>
+	<game name="Handmark Backgammon (USA) (ARM) (Alt)" id="0320" cloneofid="0319">
+		<description>Handmark Backgammon (USA) (ARM) (Alt)</description>
+		<rom name="Handmark Backgammon (USA) (ARM) (Alt).cab" size="687828" crc="ea3af420" md5="f404cb9a6d9a4f106b8b4afcdf003074" sha1="b311599747c9d640ef7bc8900c4c7cedc25725f9"/>
+	</game>
+	<game name="Handmark Backgammon (USA) (MIPS)" id="0321" cloneofid="0319">
+		<description>Handmark Backgammon (USA) (MIPS)</description>
+		<rom name="Handmark Backgammon (USA) (MIPS).cab" size="697052" crc="aa422a71" md5="90903637f9279ad3d8a9b7e30c276933" sha1="e75de0d98a18e0154c0e305e7067298447418c63"/>
+	</game>
+	<game name="Handmark Backgammon (USA) (MIPS) (Alt)" id="0322" cloneofid="0319">
+		<description>Handmark Backgammon (USA) (MIPS) (Alt)</description>
+		<rom name="Handmark Backgammon (USA) (MIPS) (Alt).cab" size="697052" crc="7828c451" md5="5fe4119bab66066af27bb7e11372979f" sha1="8c477e75f3a0477cde7d8e7be9f251c4922ee94b"/>
+	</game>
+	<game name="Handmark Backgammon (USA) (SH3)" id="0323" cloneofid="0319">
+		<description>Handmark Backgammon (USA) (SH3)</description>
+		<rom name="Handmark Backgammon (USA) (SH3).cab" size="685268" crc="49009bb1" md5="8a45c5789ce6ee48f0f09739dfbd03fe" sha1="d1fe509ab99c5dbc1692329b9af4f40963828f5c"/>
+	</game>
+	<game name="Handmark Backgammon (USA) (SH3) (Alt)" id="0324" cloneofid="0319">
+		<description>Handmark Backgammon (USA) (SH3) (Alt)</description>
+		<rom name="Handmark Backgammon (USA) (SH3) (Alt).cab" size="685268" crc="73de64a2" md5="5ae84e6246b28fcc0fc2c2147361188c" sha1="bc75ead3b32d3b9df80e5dd27f46cd83ff83fad0"/>
+	</game>
+	<game name="Handmark Checkers (USA) (ARM)" id="0333">
+		<description>Handmark Checkers (USA) (ARM)</description>
+		<rom name="Handmark Checkers (USA) (ARM).cab" size="460802" crc="3f7e9368" md5="924fffa7f200ff4cad051fe6f186efd8" sha1="453d055bb407a29a65a01d7255ec7d6295cac32e"/>
+	</game>
+	<game name="Handmark Checkers (USA) (ARM) (Alt)" id="0334" cloneofid="0333">
+		<description>Handmark Checkers (USA) (ARM) (Alt)</description>
+		<rom name="Handmark Checkers (USA) (ARM) (Alt).cab" size="460802" crc="fb49787b" md5="89d40d3402c9f259ac10b7526a63036b" sha1="77123b51f1424f10bd95a51da59db2f2613f3044"/>
+	</game>
+	<game name="Handmark Checkers (USA) (MIPS)" id="0335" cloneofid="0333">
+		<description>Handmark Checkers (USA) (MIPS)</description>
+		<rom name="Handmark Checkers (USA) (MIPS).cab" size="470530" crc="5848edea" md5="0a37b7060f62a4227eb017cbba35b9df" sha1="bd319f16cd04faed8cbcd3fb9a03de4cc1d46f23"/>
+	</game>
+	<game name="Handmark Checkers (USA) (MIPS) (Alt)" id="0336" cloneofid="0333">
+		<description>Handmark Checkers (USA) (MIPS) (Alt)</description>
+		<rom name="Handmark Checkers (USA) (MIPS) (Alt).cab" size="470530" crc="1ced7197" md5="77698e510d9c4ca81f97b319eed94d96" sha1="43d514413b2d03293a3a9c44f270b0af78257439"/>
+	</game>
+	<game name="Handmark Checkers (USA) (SH3)" id="0337" cloneofid="0333">
+		<description>Handmark Checkers (USA) (SH3)</description>
+		<rom name="Handmark Checkers (USA) (SH3).cab" size="458234" crc="26a142a8" md5="806d298d045b55f9d3bb382c3ad9e9cf" sha1="b29d8ce9645ef7cb7fe0fe4360628b7e3e3f06ac"/>
+	</game>
+	<game name="Handmark Checkers (USA) (SH3) (Alt)" id="0338" cloneofid="0333">
+		<description>Handmark Checkers (USA) (SH3) (Alt)</description>
+		<rom name="Handmark Checkers (USA) (SH3) (Alt).cab" size="458234" crc="4918dd13" md5="6a0c4596251fb48621269893ead8fc99" sha1="9b583db1345334efabdadbaf459e0721f74f1cd5"/>
+	</game>
+	<game name="Handmark Chess (USA) (ARM)" id="0339">
+		<description>Handmark Chess (USA) (ARM)</description>
+		<rom name="Handmark Chess (USA) (ARM).cab" size="409794" crc="8db9aa65" md5="93a4692e1bbe95dff997f91e865ba50b" sha1="7aef5dbc1e28e409dd9519e9522c243966445065"/>
+	</game>
+	<game name="Handmark Chess (USA) (ARM) (Alt)" id="0340" cloneofid="0339">
+		<description>Handmark Chess (USA) (ARM) (Alt)</description>
+		<rom name="Handmark Chess (USA) (ARM) (Alt).cab" size="409794" crc="b27a3127" md5="c47ce74f4f15cc669277d30099c8e0ec" sha1="527bc215b9a5ea91f704ab46fca1f03aa6ea3bb6"/>
+	</game>
+	<game name="Handmark Chess (USA) (MIPS)" id="0341" cloneofid="0339">
+		<description>Handmark Chess (USA) (MIPS)</description>
+		<rom name="Handmark Chess (USA) (MIPS).cab" size="421570" crc="40181285" md5="96f56a90544d6b9f6370b614a914ad6e" sha1="16771d7779da476b1d0e9985834a829b6e3d9540"/>
+	</game>
+	<game name="Handmark Chess (USA) (MIPS) (Alt)" id="0342" cloneofid="0339">
+		<description>Handmark Chess (USA) (MIPS) (Alt)</description>
+		<rom name="Handmark Chess (USA) (MIPS) (Alt).cab" size="421570" crc="f7d569e4" md5="e6cd8f1ddf365475ac253ec06db442b1" sha1="a9c0e299876d8c9dc6c280a569ab86aed438be7a"/>
+	</game>
+	<game name="Handmark Chess (USA) (SH3)" id="0343" cloneofid="0339">
+		<description>Handmark Chess (USA) (SH3)</description>
+		<rom name="Handmark Chess (USA) (SH3).cab" size="398010" crc="dcc3853f" md5="7dd9fe3818d898ee5035d8512b9aa14e" sha1="34cb3287e2a425b7d720d132c9b3c36fc2a42848"/>
+	</game>
+	<game name="Handmark Chess (USA) (SH3) (Alt)" id="0344" cloneofid="0339">
+		<description>Handmark Chess (USA) (SH3) (Alt)</description>
+		<rom name="Handmark Chess (USA) (SH3) (Alt).cab" size="398010" crc="072f64e6" md5="903c3836d261e95b53070daff20c1c8d" sha1="fee3d09344dcf45a0d689b0bb9baaae985e2e830"/>
+	</game>
+	<game name="Handmark Colors (USA) (ARM)" id="0325">
+		<description>Handmark Colors (USA) (ARM)</description>
+		<rom name="Handmark Colors (USA) (ARM).cab" size="170445" crc="27d2778c" md5="a5bce2c7d2d0ac3dee4e255caf34a3b3" sha1="0724737ffcca1434daf047a0462fca50eced9197"/>
+	</game>
+	<game name="Handmark Colors (USA) (ARM) (Alt)" id="0326" cloneofid="0325">
+		<description>Handmark Colors (USA) (ARM) (Alt)</description>
+		<rom name="Handmark Colors (USA) (ARM) (Alt).cab" size="170445" crc="3169ec90" md5="cd0f2897ae94c8b3b14e96a9f4c30ee7" sha1="2492993a3c8ca752279bc39b8206fdd40d87b60b"/>
+	</game>
+	<game name="Handmark Colors (USA) (MIPS)" id="0327" cloneofid="0325">
+		<description>Handmark Colors (USA) (MIPS)</description>
+		<rom name="Handmark Colors (USA) (MIPS).cab" size="181197" crc="61aee3a4" md5="fca46a62f8c9829039377d7bfcb3db24" sha1="01d81226abc85198c567fb5d19779434cd053a61"/>
+	</game>
+	<game name="Handmark Colors (USA) (MIPS) (Alt)" id="0328" cloneofid="0325">
+		<description>Handmark Colors (USA) (MIPS) (Alt)</description>
+		<rom name="Handmark Colors (USA) (MIPS) (Alt).cab" size="181197" crc="260fe33f" md5="77c6ad42096f5b1936c3c82905a86f68" sha1="8c9ed9458705b43ca167861c96b17fe404586a5f"/>
+	</game>
+	<game name="Handmark Colors (USA) (SA1100)" id="0329" cloneofid="0325">
+		<description>Handmark Colors (USA) (SA1100)</description>
+		<rom name="Handmark Colors (USA) (SA1100).cab" size="170957" crc="26237ba4" md5="62fda528773ea0ef80d1ad5c0ff5f354" sha1="676b685502e1dc5658072a588819e5ee10378518"/>
+	</game>
+	<game name="Handmark Colors (USA) (SA1100) (Alt)" id="0330" cloneofid="0325">
+		<description>Handmark Colors (USA) (SA1100) (Alt)</description>
+		<rom name="Handmark Colors (USA) (SA1100) (Alt).cab" size="170957" crc="fcf2c023" md5="9943fdec5ac4ab89e2b377fb095e5960" sha1="6e430b5a8917a36e50916f2e50cdd8d445b80c83"/>
+	</game>
+	<game name="Handmark Colors (USA) (SH3)" id="0331" cloneofid="0325">
+		<description>Handmark Colors (USA) (SH3)</description>
+		<rom name="Handmark Colors (USA) (SH3).cab" size="169421" crc="63139e55" md5="22c668903a07df292d15ad6afdc42736" sha1="c2713a6802f0fd2f62721b9f566127175f84cda4"/>
+	</game>
+	<game name="Handmark Colors (USA) (SH3) (Alt)" id="0332" cloneofid="0325">
+		<description>Handmark Colors (USA) (SH3) (Alt)</description>
+		<rom name="Handmark Colors (USA) (SH3) (Alt).cab" size="169421" crc="294f0f8e" md5="5f8601635abffe7af9ea7a775d0d49f0" sha1="3fcbbae04ccdf664c9469b4b49d2c0b72895d2e8"/>
+	</game>
+	<game name="Kasparov Chessmate (USA)" id="0053">
+		<description>Kasparov Chessmate (USA)</description>
+		<rom name="Kasparov Chessmate (USA).cab" size="3262626" crc="bd1821c9" md5="8a61f4951d572ff824a6f8496adb9aa8" sha1="0d6cbc936f6a003af4c5de50e67a23b37f58b6a2"/>
+	</game>
+	<game name="Kohakushoku no Yuigon (Japan)" id="0442">
+		<description>Kohakushoku no Yuigon (Japan)</description>
+		<rom name="Kohakushoku no Yuigon (Japan).cab" size="3287122" crc="0551ddd5" md5="fe8e25c8e209ec5f74aa30e720406fcb" sha1="c3d70c866615889b27fbd6382cb171f8e5841fae"/>
+	</game>
+	<game name="Lemonade Tycoon (USA) (ARM)" id="0006">
+		<description>Lemonade Tycoon (USA) (ARM)</description>
+		<rom name="Lemonade Tycoon (USA) (ARM).cab" size="1880235" crc="feb9ce8f" md5="9dcf9fd23c24c0d0beca1e13baa5c8de" sha1="c3a9bc0652dbd1326f8a255fbb61744b237a96df"/>
+	</game>
+	<game name="Lemonade Tycoon (USA) (MIPS)" id="0007" cloneofid="0006">
+		<description>Lemonade Tycoon (USA) (MIPS)</description>
+		<rom name="Lemonade Tycoon (USA) (MIPS).cab" size="1925832" crc="389e3476" md5="71e006997b8486f2aab0cb07f4b8975c" sha1="41249a9911f5b41af24eb81ddefa2912b66062b9"/>
+	</game>
+	<game name="Leo's Flight Simulator (Europe) (ARM)" id="0351">
+		<description>Leo's Flight Simulator (Europe) (ARM)</description>
+		<rom name="Leo's Flight Simulator (Europe) (ARM).cab" size="2624822" crc="45e0c97b" md5="c98a2f90d70fa505a17190c31e5db967" sha1="f5ed567ab2bdd6b56c403b4d0d9f764a70572cbd"/>
+	</game>
+	<game name="Leo's Flight Simulator (Europe) (MIPS)" id="0352" cloneofid="0351">
+		<description>Leo's Flight Simulator (Europe) (MIPS)</description>
+		<rom name="Leo's Flight Simulator (Europe) (MIPS).cab" size="2705734" crc="c5ff5c98" md5="85a9d668093339584ba980cb127a66dc" sha1="bc2600be6618aa4b4b321d64bd87181d9ad9c08a"/>
+	</game>
+	<game name="Leo's Flight Simulator (Europe) (SH3)" id="0353" cloneofid="0351">
+		<description>Leo's Flight Simulator (Europe) (SH3)</description>
+		<rom name="Leo's Flight Simulator (Europe) (SH3).cab" size="2565414" crc="85c6dffd" md5="9f44be1590a0dbf90e88d860b2fdab72" sha1="b8b1f719f20519205076f22089eef6451565e96b"/>
+	</game>
+	<game name="Leo's Void (Europe) (ARM)" id="0354">
+		<description>Leo's Void (Europe) (ARM)</description>
+		<rom name="Leo's Void (Europe) (ARM).cab" size="1630218" crc="c984aeb6" md5="0c1a8b0c65105c3f3ba2e5897688ffba" sha1="a16046e598471ac45e126549d9a10cc8469be499"/>
+	</game>
+	<game name="Leo's Void (Europe) (MIPS)" id="0355" cloneofid="0354">
+		<description>Leo's Void (Europe) (MIPS)</description>
+		<rom name="Leo's Void (Europe) (MIPS).cab" size="1831986" crc="90ac8530" md5="bfde8962dfd5095744ce81f5a6b1ed6d" sha1="e8ac96318c44e3af3fb1071bf1e09ea74d6f1fb1"/>
+	</game>
+	<game name="Leo's Void (Europe) (SH3)" id="0356" cloneofid="0354">
+		<description>Leo's Void (Europe) (SH3)</description>
+		<rom name="Leo's Void (Europe) (SH3).cab" size="1549810" crc="92f68987" md5="49a3b9e7b7980b34f2a8d9aa111f8fe5" sha1="f79a32e362c1ba91c6139811fd76ddac46476ec8"/>
+	</game>
+	<game name="Links (USA) (ARM)" id="0064">
+		<description>Links (USA) (ARM)</description>
+		<rom name="Links (USA) (ARM).cab" size="7121044" crc="830bdf4a" md5="6bbd3ce42b84ff4683de24005e5c7c9e" sha1="8eaf42233512eee6e46bf32113de3a7f4c6c26f6"/>
+	</game>
+	<game name="Madoushi Lulba (Japan)" id="0444">
+		<description>Madoushi Lulba (Japan)</description>
+		<rom name="Madoushi Lulba (Japan).cab" size="2041567" crc="6c8ce349" md5="0140af00a1f5d0c006a1abeb577cfe32" sha1="6874ba36b284f06e2dad062a2405d5cde79497e3"/>
+	</game>
+	<game name="Mahjongg 2 (USA) (ARM)" id="0407">
+		<description>Mahjongg 2 (USA) (ARM)</description>
+		<rom name="Mahjongg 2 (USA) (ARM).cab" size="2733998" crc="2679f93b" md5="c247ed0056c5669bbf42f7d44e80b5bb" sha1="bc60b9a8256c1f812fc8e50805509ed2f0ade2b4"/>
+	</game>
+	<game name="Mahjongg 2 (USA) (MIPS)" id="0408" cloneofid="0407">
+		<description>Mahjongg 2 (USA) (MIPS)</description>
+		<rom name="Mahjongg 2 (USA) (MIPS).cab" size="2769334" crc="5c2834de" md5="1869128efaf86806b2ba1d1641ecd20c" sha1="ae19d05a99676af3b6f40c23b9c771069f7a383c"/>
+	</game>
+	<game name="Mahjongg 2 (USA) (SH3)" id="0409" cloneofid="0407">
+		<description>Mahjongg 2 (USA) (SH3)</description>
+		<rom name="Mahjongg 2 (USA) (SH3).cab" size="2711462" crc="412d3ec0" md5="70f0588893fad10d07ca511cd58a2fbf" sha1="3883e7cc4d2cf56ed749fc9ae11cc53a96baf32b"/>
+	</game>
+	<game name="Marble Madness (USA) (ARM)" id="0031">
+		<description>Marble Madness (USA) (ARM)</description>
+		<rom name="Marble Madness (USA) (ARM).cab" size="1962925" crc="cd52d661" md5="cb75153b9d099e96df84e606d32e6786" sha1="c216ae75122a0728c9b60a46ff66dd47f69acee9"/>
+	</game>
+	<game name="Marble Madness (USA) (MIPS)" id="0032" cloneofid="0031">
+		<description>Marble Madness (USA) (MIPS)</description>
+		<rom name="Marble Madness (USA) (MIPS).cab" size="2048453" crc="a5295a9e" md5="bd7a15191a2b44345ee31283720f81a8" sha1="581ee00d2035da1dcfab0ab0c2a5e38d5aaa06c7"/>
+	</game>
+	<game name="Marble Madness (USA) (SH3)" id="0033" cloneofid="0032">
+		<description>Marble Madness (USA) (SH3)</description>
+		<rom name="Marble Madness (USA) (SH3).cab" size="1886101" crc="38ffc5ec" md5="7638134339e29957ef0289e05c8d02ea" sha1="4c4b3e9902d53cfe642cd5a867d904cbdd2968e4"/>
+	</game>
+	<game name="Metalion (USA) (ARM)" id="0065">
+		<description>Metalion (USA) (ARM)</description>
+		<rom name="Metalion (USA) (ARM).cab" size="2433028" crc="903f0ca2" md5="051e2e79fcedac80bf549454638e232d" sha1="dc10c5c6dfd191bd3dcebf5aefc23003d0199e98"/>
+	</game>
+	<game name="Metalion (USA) (MIPS)" id="0066" cloneofid="0065">
+		<description>Metalion (USA) (MIPS)</description>
+		<rom name="Metalion (USA) (MIPS).cab" size="2511908" crc="6b020ff0" md5="c29b1f7c62b8ac99a2aaea53929dd016" sha1="d0ddb207b7331a9cc03bd703945acab16ef6750b"/>
+	</game>
+	<game name="Metalion (USA) (SH3)" id="0067" cloneofid="0065">
+		<description>Metalion (USA) (SH3)</description>
+		<rom name="Metalion (USA) (SH3).cab" size="2401276" crc="792a4aba" md5="a92c7be025e1d2af8d8f8b110da3db1f" sha1="b6da7df2574d05e6557952bf203f294291cd7164"/>
+	</game>
+	<game name="Metalion (Japan) (ARM)" id="0068" cloneofid="0065">
+		<description>Metalion (Japan) (ARM)</description>
+		<rom name="Metalion (Japan) (ARM).cab" size="2484742" crc="5e947647" md5="f20ba8bf216c313feacd7366983fc238" sha1="385525c919e3756a0eda9247e21a8b3df2524f5b"/>
+	</game>
+	<game name="Metalion (Japan) (MIPS)" id="0069" cloneofid="0065">
+		<description>Metalion (Japan) (MIPS)</description>
+		<rom name="Metalion (Japan) (MIPS).cab" size="2563606" crc="cbd1e3b7" md5="4ecec039f2442bdef89f1ebfd8ccbb23" sha1="02820b8753ecc2bf5758323498ef01a4cc3d8816"/>
+	</game>
+	<game name="Metalion (Japan) (SH3)" id="0070" cloneofid="0065">
+		<description>Metalion (Japan) (SH3)</description>
+		<rom name="Metalion (Japan) (SH3).cab" size="2452990" crc="8c2e2c67" md5="eeb7e943a4ff12611b5da66ff35d1c27" sha1="dff0fe359b2f0358a6fc9ac2c01b988dcf512517"/>
+	</game>
+	<game name="Metalion (USA) (Demo) (ARM)" id="0281" cloneofid="0065">
+		<description>Metalion (USA) (Demo) (ARM)</description>
+		<rom name="Metalion (USA) (ARM) (Demo).cab" size="1282246" crc="be8cd0be" md5="4ee67c27da863250370bb419acc94203" sha1="8db5472543ba771266e7bdf6a8867ee27866ed81"/>
+	</game>
+	<game name="Metalion (USA) (Demo) (MIPS)" id="0282" cloneofid="0065">
+		<description>Metalion (USA) (Demo) (MIPS)</description>
+		<rom name="Metalion (USA) (MIPS) (Demo).cab" size="1360102" crc="70659270" md5="70557a52677b0c7e5c7dcc9ca69d48b3" sha1="69bc2ea2ea5da1e38fb414014bc17987afabc757"/>
+	</game>
+	<game name="Metalion (USA) (Demo) (SH3)" id="0283" cloneofid="0065">
+		<description>Metalion (USA) (Demo) (SH3)</description>
+		<rom name="Metalion (USA) (SH3) (Demo).cab" size="1250494" crc="eff83ab0" md5="d77179785c7b390dca4f47e22dea0923" sha1="ca297b4cbd0a2634fb4ad74cc3f221b303b61ff5"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (ARM720) (Color)" id="0177">
+		<description>Microsoft Blackjack (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Blackjack (USA) (ARM720) (Color).cab" size="62150" crc="9188cdd4" md5="01cf068cbd42c87a5b9b955a4ed110ad" sha1="3542a8528f2c41f33dfeeb4de6cc7eb4905e7d66"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (AUR) (Color)" id="0178" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Blackjack (USA) (AUR) (Color).cab" size="54470" crc="de158a4a" md5="e2b72d4fa8df89ead32c364af86161f6" sha1="92fb94b3fd118079e6a9fb35d5cf9f0dff38cbab"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SA1100) (Color)" id="0179" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Blackjack (USA) (SA1100) (Color).cab" size="61638" crc="670ec7aa" md5="701299ee1337dd8181b597603bee9908" sha1="f65fadfc51df64a690b243572712e79800fb97dc"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SH3) (Color)" id="0180" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Blackjack (USA) (SH3) (Color).cab" size="58563" crc="adda7b12" md5="5c237e01451b2418a6672cdc4cda8ef6" sha1="d43ae658b85fe06accc35c556a4ce9b364bc6562"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (ARM720) (BW)" id="0181" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Blackjack (USA) (ARM720) (BW).cab" size="59079" crc="64c73230" md5="e2343294da1f405f7ebf14322334793d" sha1="4446dfaa01be369b5807f7ebb1668c3ddce1b017"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (AUR) (BW)" id="0182" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Blackjack (USA) (AUR) (BW).cab" size="51399" crc="c73d599d" md5="cb58287c3cf04344e007b6ba14c08403" sha1="8838b144a3432ec5974d1a7f8e9f569c818a0d32"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SA1100) (BW)" id="0183" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Blackjack (USA) (SA1100) (BW).cab" size="58567" crc="f076620b" md5="3a3188bd0882998b30b61635ddac14e6" sha1="f2f3f4084446313e1bd65a62d71d0f80cede457b"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SH3) (BW)" id="0184" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Blackjack (USA) (SH3) (BW).cab" size="55492" crc="f3118b96" md5="6f7bd891c2549f316f2e828986a1cb13" sha1="fa4fed4f728ecf8dcc7033458065fedaa38e79fa"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (ARM720) (BW) (Alt)" id="0189" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (ARM720) (BW) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (ARM720) (BW) (Alt).cab" size="59079" crc="93350bea" md5="d812a82f9dc91af22d229c25b6803d7f" sha1="a5660f9dfecaedb60b64837396408bed067eae1e"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (ARM720) (Color) (Alt)" id="0190" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (ARM720) (Color) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (ARM720) (Color) (Alt).cab" size="62150" crc="9c940805" md5="025d02384e238e69def489887e56263d" sha1="5227214f96fe3ae8fbcc86c5713c1254a4546708"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (AUR) (BW) (Alt)" id="0191" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (AUR) (BW) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (AUR) (BW) (Alt).cab" size="51399" crc="3cb4e6fe" md5="fd01a421d371b79f889ba1bbef1c1dad" sha1="b14a6f25cbaf4243c8807a12a3c639c34c206509"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (AUR) (Color) (Alt)" id="0192" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (AUR) (Color) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (AUR) (Color) (Alt).cab" size="54470" crc="fc1c5276" md5="57c54bb386745fe1eebe2bb8cb2a190c" sha1="e3c3cab59d475af8936228a6347d455beebcfe94"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SA1100) (BW) (Alt)" id="0193" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SA1100) (BW) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (SA1100) (BW) (Alt).cab" size="58567" crc="a3fcb0a5" md5="b1e0dc7ca4d94f2cdf45ea2bf5861f25" sha1="640630496f2db1f15e476750ebd47d2fe433531d"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SA1100) (Color) (Alt)" id="0194" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SA1100) (Color) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (SA1100) (Color) (Alt).cab" size="61638" crc="ad77d2ee" md5="fd66c5185db5eb5f2c06885b42eaffc7" sha1="d4e58de58d3e19da1912fd1f2ed29730553893bf"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SH3) (BW) (Alt)" id="0195" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SH3) (BW) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (SH3) (BW) (Alt).cab" size="55492" crc="1b7562f1" md5="7b27f32fb264cf6a34c72f53e72d7953" sha1="b824f5148fa281b91f12da7f6d38710f37a201bd"/>
+	</game>
+	<game name="Microsoft Blackjack (USA) (SH3) (Color) (Alt)" id="0196" cloneofid="0177">
+		<description>Microsoft Blackjack (USA) (SH3) (Color) (Alt)</description>
+		<rom name="Microsoft Blackjack (USA) (SH3) (Color) (Alt).cab" size="58563" crc="a7f045f7" md5="7049a17dd42d224a8246e0afd1c07e4c" sha1="d7077bf3850bcd8c012638d7d612dcfd6b3af8cd"/>
+	</game>
+	<game name="Microsoft Chess (USA) (ARM720) (Color)" id="0197">
+		<description>Microsoft Chess (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Chess (USA) (ARM720) (Color).cab" size="59577" crc="743b9638" md5="cbdb0c6945213ae9d37d89e32d7a0eda" sha1="5d2426038f3b26d8698d19aec58be403c46f9bee"/>
+	</game>
+	<game name="Microsoft Chess (USA) (ARM720) (BW)" id="0198" cloneofid="0197">
+		<description>Microsoft Chess (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Chess (USA) (ARM720) (BW).cab" size="58042" crc="0ab527f9" md5="318fc85ffe0ab8b820903679ade330c0" sha1="416ed8c61a9fc4e59f7a5bc264f79dfb3a61c742"/>
+	</game>
+	<game name="Microsoft Chess (USA) (AUR) (BW)" id="0199" cloneofid="0197">
+		<description>Microsoft Chess (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Chess (USA) (AUR) (BW).cab" size="52410" crc="4df8cde2" md5="3ac87d65e1c53312c5433e968137ca63" sha1="8ad92be46fe94c8fba9edd9226c432dec605aa4d"/>
+	</game>
+	<game name="Microsoft Chess (USA) (AUR) (Color)" id="0200" cloneofid="0197">
+		<description>Microsoft Chess (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Chess (USA) (AUR) (Color).cab" size="53945" crc="db590e1c" md5="56e3149e15cc803acbdf22040709213f" sha1="51d7057479e8162063ac02fa2d2599ae085a3785"/>
+	</game>
+	<game name="Microsoft Chess (USA) (SA1100) (BW)" id="0201" cloneofid="0197">
+		<description>Microsoft Chess (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Chess (USA) (SA1100) (BW).cab" size="57530" crc="f7b68404" md5="00229bbb8633012c5f30054e65254837" sha1="51cb489cbd2647130f490fa4d2f6db7b254bdcc2"/>
+	</game>
+	<game name="Microsoft Chess (USA) (SA1100) (Color)" id="0202">
+		<description>Microsoft Chess (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Chess (USA) (SA1100) (Color).cab" size="59065" crc="b58a88af" md5="31d72834bbee4ba46c22f34f131441a2" sha1="f8780abc65b819283c59baac266b51e5788e7894"/>
+	</game>
+	<game name="Microsoft Chess (USA) (SH3) (BW)" id="0203" cloneofid="0197">
+		<description>Microsoft Chess (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Chess (USA) (SH3) (BW).cab" size="48823" crc="67c49ea5" md5="9299ea3cc2b37d024adea384a68531d7" sha1="95120e41b1d7476d6168c147932fc2dc2c1486b6"/>
+	</game>
+	<game name="Microsoft Chess (USA) (SH3) (Color)" id="0204" cloneofid="0197">
+		<description>Microsoft Chess (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Chess (USA) (SH3) (Color).cab" size="50358" crc="23327d4e" md5="afca50ecd64089440944016b75e3aa88" sha1="afa65a1ad61943fce0ad87aafb2a8f95b9c288f7"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (ARM720) (Color)" id="0205">
+		<description>Microsoft Cinco (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Cinco (USA) (ARM720) (Color).cab" size="62202" crc="e5530303" md5="d644c7073eb62a32dbb603a0ae2cccfb" sha1="fde74236ac71df92f2bb2ee8a557616735cff694"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (ARM720) (BW)" id="0206" cloneofid="0205">
+		<description>Microsoft Cinco (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Cinco (USA) (ARM720) (BW).cab" size="58619" crc="ccd2a2c4" md5="f45c14c493b5522e81a53d4446f5c85b" sha1="22f6f8d592cf9a2352b983a2c3c407c1d4a3545e"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (AUR) (BW)" id="0207" cloneofid="0205">
+		<description>Microsoft Cinco (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Cinco (USA) (AUR) (BW).cab" size="54523" crc="c22755e1" md5="b94be08ed0e8d2c09d644c46420ed4a2" sha1="7bb677fad7b4efde40519043e6e7bacde3c657bc"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (AUR) (Color)" id="0208" cloneofid="0205">
+		<description>Microsoft Cinco (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Cinco (USA) (AUR) (Color).cab" size="58106" crc="f8b360c0" md5="725256895141cf2fd319e2995c7f2f3c" sha1="0b439bb1bd461d093fdccd0822960b1173c88b7f"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (SA1100) (BW)" id="0209" cloneofid="0205">
+		<description>Microsoft Cinco (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Cinco (USA) (SA1100) (BW).cab" size="58107" crc="0d26047a" md5="6afff8b47c73a6ba26b3fe06095ecabf" sha1="2f41df64aaec271d92f2940490ca813a1aab4b9b"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (SA1100) (Color)" id="0210" cloneofid="0205">
+		<description>Microsoft Cinco (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Cinco (USA) (SA1100) (Color).cab" size="61690" crc="be2fa083" md5="edca637e8c28bcb4762b03d082c228fe" sha1="18f9c3ed92c64fa95d104bdcc37becc1be4eafb1"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (SH3) (BW)" id="0211" cloneofid="0205">
+		<description>Microsoft Cinco (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Cinco (USA) (SH3) (BW).cab" size="56056" crc="3509c8df" md5="d45a2dd490a60fb3d1ef6042707ea560" sha1="9797f3bc2adc187275fbf08371bda35048491c08"/>
+	</game>
+	<game name="Microsoft Cinco (USA) (SH3) (Color)" id="0212" cloneofid="0205">
+		<description>Microsoft Cinco (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Cinco (USA) (SH3) (Color).cab" size="59639" crc="df026244" md5="634a9b828eb6f06f6c4d00fd5a2a959e" sha1="72ce5da8a52a7f51ba61827e5a4e85c648e47655"/>
+	</game>
+	<game name="Microsoft Embedded Visual Basic Runtime (Unknown) (ARMV4)" id="0297">
+		<description>Microsoft Embedded Visual Basic Runtime (Unknown) (ARMV4)</description>
+		<rom name="Microsoft Embedded Visual Basic Runtime (Unknown) (ARMV4).cab" size="2921338" crc="72fcc5f0" md5="9349c2da944061420b026d7ae2e09282" sha1="9174f2eef43474cf45c6fbb7b7861ce5e1761e8c"/>
+	</game>
+	<game name="Microsoft Entertainment PocketPak Shared Files (USA) (ARM720)" id="0185">
+		<description>Microsoft Entertainment PocketPak Shared Files (USA) (ARM720)</description>
+		<rom name="Microsoft Entertainment PocketPak Shared Files (USA) (ARM720).cab" size="129608" crc="e73488a3" md5="5afdd6e3191e81803263eb0918e64e80" sha1="152e1d6523412ae9965b9e4a7a78794455849bc2"/>
+	</game>
+	<game name="Microsoft Entertainment PocketPak Shared Files (USA) (AUR)" id="0186" cloneofid="0185">
+		<description>Microsoft Entertainment PocketPak Shared Files (USA) (AUR)</description>
+		<rom name="Microsoft Entertainment PocketPak Shared Files (USA) (AUR).cab" size="130120" crc="997577ac" md5="d2d3da615c335f8e36f30f1565b12c57" sha1="d0a1b08cd7fd2693991408cf60238f19abdf7730"/>
+	</game>
+	<game name="Microsoft Entertainment PocketPak Shared Files (USA) (SA1100)" id="0187" cloneofid="0185">
+		<description>Microsoft Entertainment PocketPak Shared Files (USA) (SA1100)</description>
+		<rom name="Microsoft Entertainment PocketPak Shared Files (USA) (SA1100).cab" size="129608" crc="9c7fee40" md5="a89dc430e6ae04f43e4ae265f11f6c94" sha1="4241364fcd0f96e7ef2e4002bbe9d195ccc92a0b"/>
+	</game>
+	<game name="Microsoft Entertainment PocketPak Shared Files (USA) (SH3)" id="0188" cloneofid="0185">
+		<description>Microsoft Entertainment PocketPak Shared Files (USA) (SH3)</description>
+		<rom name="Microsoft Entertainment PocketPak Shared Files (USA) (SH3).cab" size="129605" crc="c6d15dde" md5="b08e34339cc9591babc256cefcd799fe" sha1="d73ffc27d61f782cbe40ad3784776199a72f9f69"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (ARM720) (Color)" id="0213">
+		<description>Microsoft Freecell (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Freecell (USA) (ARM720) (Color).cab" size="46722" crc="494c073d" md5="6c3820c158787340d79c89d0184a1098" sha1="d94344cabb8fc0e39d6c72c08298b680d7c15d1e"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (ARM720) (BW)" id="0214" cloneofid="0213">
+		<description>Microsoft Freecell (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Freecell (USA) (ARM720) (BW).cab" size="46213" crc="ed7d7ac5" md5="668ea8469b77a7d333d9afdc47f0d750" sha1="b0ed62d58d2e6d28e9964e22177844320a9f5fad"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (AUR) (BW)" id="0215" cloneofid="0213">
+		<description>Microsoft Freecell (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Freecell (USA) (AUR) (BW).cab" size="41605" crc="ea70553e" md5="55949ec8a833e037b40c0d7889be52bb" sha1="1ebca64eb04511f4e816ab06cb61b4fe55cb6520"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (AUR) (Color)" id="0216" cloneofid="0213">
+		<description>Microsoft Freecell (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Freecell (USA) (AUR) (Color).cab" size="42114" crc="a9fd8fa0" md5="69e8f87be7488112f702dfc0fd93f03a" sha1="d95fb962591aaf7ec13f44cf1da08f38f03176ea"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (SA1100) (BW)" id="0217" cloneofid="0213">
+		<description>Microsoft Freecell (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Freecell (USA) (SA1100) (BW).cab" size="45701" crc="51ad0c33" md5="b7f2427aeab28a79412264ab51f5ab8f" sha1="9e2d3d1117bec44828e5bec0d1489c2dc1c0a114"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (SA1100) (Color)" id="0218" cloneofid="0213">
+		<description>Microsoft Freecell (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Freecell (USA) (SA1100) (Color).cab" size="46210" crc="a7c0f229" md5="253657034341900edd6ff42be7aefede" sha1="dd06ba7c96c28a6987c25871362df4779745b9a1"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (SH3) (BW)" id="0219" cloneofid="0213">
+		<description>Microsoft Freecell (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Freecell (USA) (SH3) (BW).cab" size="43135" crc="c3bb71ac" md5="ffc73e3e568694d01cfd7bcb15067a4e" sha1="a688e76e7f4d791b06868957a876342298258283"/>
+	</game>
+	<game name="Microsoft Freecell (USA) (SH3) (Color)" id="0220" cloneofid="0213">
+		<description>Microsoft Freecell (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Freecell (USA) (SH3) (Color).cab" size="43644" crc="77a0eb3d" md5="56524920d89e5d8944fe9b39bd4e786f" sha1="99849e5111ba8efa8414e11dae9c53c7a5e14d2c"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (ARM720) (Color)" id="0221">
+		<description>Microsoft Hearts (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Hearts (USA) (ARM720) (Color).cab" size="72147" crc="2e3e829d" md5="5b072e26a5f934546fdf8de7822e1992" sha1="3a5022340693f509257d937997cb841d5ddb6b05"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (ARM720) (BW)" id="0222" cloneofid="0221">
+		<description>Microsoft Hearts (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Hearts (USA) (ARM720) (BW).cab" size="72148" crc="3f3bf0f7" md5="1e3624e96e17336ca151e766bfc15090" sha1="2ac101ea336d68cb139de693977413ef9762363b"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (AUR) (BW)" id="0223" cloneofid="0221">
+		<description>Microsoft Hearts (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Hearts (USA) (AUR) (BW).cab" size="61900" crc="0123fe70" md5="bdcd45f5a73badda9d1576908155b09b" sha1="11c939eb23ddc0fe83773a85862ffce7a7a7caab"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (AUR) (Color)" id="0224" cloneofid="0221">
+		<description>Microsoft Hearts (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Hearts (USA) (AUR) (Color).cab" size="61387" crc="6442f00c" md5="01f512671bf829cbefe1a89063afb6b2" sha1="072b3dd3cb5e306fef15bf1e95bd13f56ef25e23"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (SA1100) (BW)" id="0225" cloneofid="0221">
+		<description>Microsoft Hearts (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Hearts (USA) (SA1100) (BW).cab" size="70612" crc="9421444b" md5="11b4e9d8f341699ff7a134c5f7db2445" sha1="9eb1891c03d6e463efcf30861e785ec350fef696"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (SA1100) (Color)" id="0226" cloneofid="0221">
+		<description>Microsoft Hearts (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Hearts (USA) (SA1100) (Color).cab" size="70611" crc="eec487c6" md5="e075503b4781b0d2de9e22cd7ed76ab7" sha1="028ec56a4566a68f11f9a168a9304b8a6623e15c"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (SH3) (BW)" id="0227" cloneofid="0221">
+		<description>Microsoft Hearts (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Hearts (USA) (SH3) (BW).cab" size="66502" crc="3f87227d" md5="52bc33ef980daa03d96248c28e889f66" sha1="2da3b243bfc231ac7bbe743c9a8f2b0211f650a0"/>
+	</game>
+	<game name="Microsoft Hearts (USA) (SH3) (Color)" id="0228" cloneofid="0221">
+		<description>Microsoft Hearts (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Hearts (USA) (SH3) (Color).cab" size="66501" crc="b61eea72" md5="e1f9ccc78dcd0b961cd5a9863394e36e" sha1="a7cfd7042542bc5e8f3b21a444517d2a2b5f586a"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (ARM720) (Color)" id="0229">
+		<description>Microsoft Minesweeper (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Minesweeper (USA) (ARM720) (Color).cab" size="34434" crc="6e53c9aa" md5="08681d2b765407d8605cf691d513082e" sha1="2ff1685abdccb29695537af92612fed04bb2c436"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (ARM720) (BW)" id="0230" cloneofid="0229">
+		<description>Microsoft Minesweeper (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Minesweeper (USA) (ARM720) (BW).cab" size="31867" crc="5fe7911c" md5="b9e66a16599cf3ff59a0bd25b15a42fa" sha1="574159d9cb312a4896122a937bf8c5acd1e1049c"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (AUR) (BW)" id="0231" cloneofid="0229">
+		<description>Microsoft Minesweeper (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Minesweeper (USA) (AUR) (BW).cab" size="29819" crc="b45d3f10" md5="e6fd1551491a40b1cba2006f1ec7cd79" sha1="8bc020a3622bc828721f3fb6e8961b91270ad04d"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (AUR) (Color)" id="0232" cloneofid="0229">
+		<description>Microsoft Minesweeper (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Minesweeper (USA) (AUR) (Color).cab" size="32378" crc="2a53f91a" md5="323025a5bdf14ef6421b82134f0b6cc5" sha1="f38b803f9c2768dfdb0b00baae18a11d6110ba10"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (SA1100) (BW)" id="0233" cloneofid="0229">
+		<description>Microsoft Minesweeper (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Minesweeper (USA) (SA1100) (BW).cab" size="31355" crc="f0ae76ba" md5="26e951cf2b565d6521fe1357dea51559" sha1="884acfc675f1cf944e1a1c7b546d0e5c94dd6bea"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (SA1100) (Color)" id="0234" cloneofid="0229">
+		<description>Microsoft Minesweeper (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Minesweeper (USA) (SA1100) (Color).cab" size="33922" crc="617427c8" md5="9ee7daeef005cad2b6bb9070dea4cba6" sha1="d735907028515d6848793cc5bc6a8325f207a296"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (SH3) (BW)" id="0235" cloneofid="0229">
+		<description>Microsoft Minesweeper (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Minesweeper (USA) (SH3) (BW).cab" size="29304" crc="39f7a710" md5="02ce61def94d5fb8db0553e76ecf1322" sha1="2ae32a7f607e4eccf7a75636ad225880d6d1c06f"/>
+	</game>
+	<game name="Microsoft Minesweeper (USA) (SH3) (Color)" id="0236" cloneofid="0229">
+		<description>Microsoft Minesweeper (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Minesweeper (USA) (SH3) (Color).cab" size="31863" crc="9cceb321" md5="e8cbf59f0e661b722f5d1fb844448680" sha1="a68e847a3969974d97925dd0f5c4d744616697f9"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (ARM720) (Color)" id="0237">
+		<description>Microsoft Reversi (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Reversi (USA) (ARM720) (Color).cab" size="33658" crc="d1009f04" md5="c904d95f63ae31c6a3ee61ba568b5c40" sha1="2bf130e644042768ccf02984dce761f5e6f495ec"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (ARM720) (BW)" id="0238" cloneofid="0237">
+		<description>Microsoft Reversi (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Reversi (USA) (ARM720) (BW).cab" size="33659" crc="881dd5c3" md5="42c67c9f83e832155abeac157171166c" sha1="0dd273b36337c72c886d06110fa72b4aa9760581"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (AUR) (BW)" id="0239" cloneofid="0237">
+		<description>Microsoft Reversi (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Reversi (USA) (AUR) (BW).cab" size="31091" crc="ee0624a8" md5="3dfffac7017c621d2893519245b1208d" sha1="455dcead5e4ff48eab486416161e0acc0c2524fe"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (AUR) (Color)" id="0240" cloneofid="0237">
+		<description>Microsoft Reversi (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Reversi (USA) (AUR) (Color).cab" size="31090" crc="4628cbaa" md5="8779b3cc20fc6d35e35c0df63e485b9b" sha1="69609f821987893fa0038b9b4fb8e52562ed17a3"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (SA1100) (BW)" id="0241" cloneofid="0237">
+		<description>Microsoft Reversi (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Reversi (USA) (SA1100) (BW).cab" size="33147" crc="6247941b" md5="c3470f345ced4c8bed4082a528b70b16" sha1="f20169987511c054d3bcc6f84896670532b66dca"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (SA1100) (Color)" id="0242" cloneofid="0237">
+		<description>Microsoft Reversi (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Reversi (USA) (SA1100) (Color).cab" size="33146" crc="3c4239d6" md5="7d9fa38d44522f63380efbccc553b8df" sha1="bf8e8c2df04d1a8c5b230c2c722064e90f08df14"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (SH3) (BW)" id="0243" cloneofid="0237">
+		<description>Microsoft Reversi (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Reversi (USA) (SH3) (BW).cab" size="30576" crc="39b7db10" md5="4f929204ac124f9c44e10f3bb6b869f7" sha1="4ddd8fc65902850b33983b5e711a96f31ed17872"/>
+	</game>
+	<game name="Microsoft Reversi (USA) (SH3) (Color)" id="0244" cloneofid="0237">
+		<description>Microsoft Reversi (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Reversi (USA) (SH3) (Color).cab" size="30575" crc="8d218044" md5="916b6f7aeab4ebb037e9691be8f80b4e" sha1="2e6234ad3ad5413721aa9560b1e2f3aba89158ed"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (ARM720) (Color)" id="0245">
+		<description>Microsoft Sink the Ships (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Sink the Ships (USA) (ARM720) (Color).cab" size="76636" crc="8cee6d92" md5="1446a92906c4b50017ae5cfc388ed665" sha1="34f8a37ed8430ea639463b1ee14275831d47fa51"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (ARM720) (BW)" id="0246" cloneofid="0237">
+		<description>Microsoft Sink the Ships (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Sink the Ships (USA) (ARM720) (BW).cab" size="53589" crc="e7841fd5" md5="0fd1bb9711d47b3b5471120677aa7e9c" sha1="aec86a75fddca40c69a8de8075a5bbb0ea44826a"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (AUR) (BW)" id="0247" cloneofid="0245">
+		<description>Microsoft Sink the Ships (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Sink the Ships (USA) (AUR) (BW).cab" size="47445" crc="bfcaab93" md5="857b317d458bff2be02dc7a4de1166f7" sha1="ae9ee5e3da549099bb73d5bd337488779a7c9b7d"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (AUR) (Color)" id="0248" cloneofid="0245">
+		<description>Microsoft Sink the Ships (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Sink the Ships (USA) (AUR) (Color).cab" size="70492" crc="54c4a9aa" md5="d16ebd63e5f0c2d90931e43bd0366b7f" sha1="f6084212fefe83b7f85afa5d20abb0267b73f9cd"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (SA1100) (BW)" id="0249" cloneofid="0245">
+		<description>Microsoft Sink the Ships (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Sink the Ships (USA) (SA1100) (BW).cab" size="53077" crc="da457baa" md5="3d7292936ffbc4feba6a7f54a029cc3f" sha1="a8afa6c445ea799bd82b1a48affacf8fa7736ef1"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (SA1100) (Color)" id="0250" cloneofid="0245">
+		<description>Microsoft Sink the Ships (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Sink the Ships (USA) (SA1100) (Color).cab" size="76124" crc="33221eae" md5="7bb8d3a58d655fdba3b8da0183967083" sha1="62453357b7ef393dbc65db7369df8a4b9cb190a8"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (SH3) (BW)" id="0251" cloneofid="0245">
+		<description>Microsoft Sink the Ships (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Sink the Ships (USA) (SH3) (BW).cab" size="48975" crc="bf5b480c" md5="af71bf3b57bcff9b87667329880026d3" sha1="3fc50e3625e3e246435b30bfa116d009250fb5b5"/>
+	</game>
+	<game name="Microsoft Sink the Ships (USA) (SH3) (Color)" id="0252" cloneofid="0245">
+		<description>Microsoft Sink the Ships (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Sink the Ships (USA) (SH3) (Color).cab" size="72534" crc="af245ccf" md5="47b5f922281e91433e24d903c13c80ec" sha1="a46230126024a732ea1579b1c87b744a25e60286"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (ARM720) (Color)" id="0253">
+		<description>Microsoft Space Defense (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Space Defense (USA) (ARM720) (Color).cab" size="81129" crc="2c5f2a7b" md5="bc085bbd011f339b12580fd23ad50c55" sha1="f9b29732a57eeae45207aaa77066a2ffa48b3488"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (ARM720) (BW)" id="0254" cloneofid="0253">
+		<description>Microsoft Space Defense (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Space Defense (USA) (ARM720) (BW).cab" size="76742" crc="1893809a" md5="973f31b92b642a9a0ab66dc0263c07c5" sha1="fc8cfac6cea8faf356b3dca55fe6b6d8f60619b2"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (AUR) (BW)" id="0255" cloneofid="0253">
+		<description>Microsoft Space Defense (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Space Defense (USA) (AUR) (BW).cab" size="68542" crc="2be19099" md5="b8f82d76c2d18b7468b72698a06e531c" sha1="3a7136b0167e4801b96c576a47a3e0359652d806"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (AUR) (Color)" id="0256" cloneofid="0253">
+		<description>Microsoft Space Defense (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Space Defense (USA) (AUR) (Color).cab" size="72417" crc="33d7be2b" md5="1d2b7a975f658392092e6570d9352bb1" sha1="489dd53838f710d863ab8b0dfeeca5b5a9313db0"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (SA1100) (BW)" id="0257" cloneofid="0253">
+		<description>Microsoft Space Defense (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Space Defense (USA) (SA1100) (BW).cab" size="76230" crc="6e2a9933" md5="f0a6fd356d6d79d7368154b9c1d6e175" sha1="674d7957ec28996540f86aaac7a782586c86443d"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (SA1100) (Color)" id="0258" cloneofid="0253">
+		<description>Microsoft Space Defense (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Space Defense (USA) (SA1100) (Color).cab" size="80105" crc="ffd78c0d" md5="8a8144e205bc1d885482c148892b8a3f" sha1="d5fbe7a15b22a8200fc9e6f032f6163740045309"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (SH3) (BW)" id="0259" cloneofid="0253">
+		<description>Microsoft Space Defense (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Space Defense (USA) (SH3) (BW).cab" size="70587" crc="d7157b38" md5="df993c2c03cfdaa1d5f74d7e69ec2b1e" sha1="c3dec8fed08e4a1e7ebb7b6be9a6e70226f083ea"/>
+	</game>
+	<game name="Microsoft Space Defense (USA) (SH3) (Color)" id="0260" cloneofid="0253">
+		<description>Microsoft Space Defense (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Space Defense (USA) (SH3) (Color).cab" size="74462" crc="89fd917e" md5="efe8bebcb5758b9283fae7fb2bf0e788" sha1="a5587a372120ef2814183380401dfb634cced331"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (ARM720) (Color)" id="0261">
+		<description>Microsoft Taipei (USA) (ARM720) (Color)</description>
+		<rom name="Microsoft Taipei (USA) (ARM720) (Color).cab" size="96759" crc="11270f3a" md5="b1268075a10a985882e77b615619979e" sha1="dae2d158cf7f5503d3b89df01bc04fc307053f00"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (ARM720) (BW)" id="0262" cloneofid="0261">
+		<description>Microsoft Taipei (USA) (ARM720) (BW)</description>
+		<rom name="Microsoft Taipei (USA) (ARM720) (BW).cab" size="74306" crc="09868bd6" md5="db73c1104ed412e631bc1abecafb20f3" sha1="f94d437c57c91a7c0b1f90060056377364d5870a"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (AUR) (BW)" id="0263" cloneofid="0261">
+		<description>Microsoft Taipei (USA) (AUR) (BW)</description>
+		<rom name="Microsoft Taipei (USA) (AUR) (BW).cab" size="70722" crc="9db90afa" md5="d88f66d9246a84c1f3f7bc41151c8890" sha1="c2b27413ce9476ecda124a29353024c5a93e00ac"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (AUR) (Color)" id="0264" cloneofid="0261">
+		<description>Microsoft Taipei (USA) (AUR) (Color)</description>
+		<rom name="Microsoft Taipei (USA) (AUR) (Color).cab" size="93175" crc="b7b4bc4a" md5="9b639370a4deeac2df99e53243cbc9e6" sha1="347cf7c637301b25a29403655b3652d84bba0f63"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (SA1100) (BW)" id="0265" cloneofid="0261">
+		<description>Microsoft Taipei (USA) (SA1100) (BW)</description>
+		<rom name="Microsoft Taipei (USA) (SA1100) (BW).cab" size="73794" crc="a3d6314a" md5="4366331d2d33d4a68cca0d3735738a76" sha1="7a3410f0a1b23bffdaa0b8075c06c13932893a84"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (SA1100) (Color)" id="0266" cloneofid="0261">
+		<description>Microsoft Taipei (USA) (SA1100) (Color)</description>
+		<rom name="Microsoft Taipei (USA) (SA1100) (Color).cab" size="96247" crc="f28f38e4" md5="3455fca94033140a700ff96bb31ba328" sha1="96555a8e50d3f6638362d583ef6f63fae44eaa32"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (SH3) (BW)" id="0267" cloneofid="0261">
+		<description>Microsoft Taipei (USA) (SH3) (BW)</description>
+		<rom name="Microsoft Taipei (USA) (SH3) (BW).cab" size="70207" crc="df7be5e5" md5="f87cc26a0d0c3a4a1b4da6f9bcfc9224" sha1="94be45cb983bb27c89eb3c47edd8a07c6539a339"/>
+	</game>
+	<game name="Microsoft Taipei (USA) (SH3) (Color)" id="0268" cloneofid="0261">
+		<description>Microsoft Taipei (USA) (SH3) (Color)</description>
+		<rom name="Microsoft Taipei (USA) (SH3) (Color).cab" size="92660" crc="f4b2497b" md5="6c02fcd6fa52864a37fd5da719736e6f" sha1="73f1b3d88485911774831f6d9aec44cbcb357811"/>
+	</game>
+	<game name="Monopoly (USA) (ARM)" id="0304">
+		<description>Monopoly (USA) (ARM)</description>
+		<rom name="Monopoly (USA) (ARM).cab" size="933005" crc="743e738e" md5="f1c32d3457ca2f799b737f9237150c2e" sha1="f02af73caf68c0c7858f4b78a421befcb9ab8c17"/>
+	</game>
+	<game name="Monopoly (USA) (MIPS)" id="0305" cloneofid="0304">
+		<description>Monopoly (USA) (MIPS)</description>
+		<rom name="Monopoly (USA) (MIPS).cab" size="1008805" crc="57ab47e4" md5="25addbf3cce6c82c2410121198c770a0" sha1="a200deedbd90946f640f7579cf4e297a3d14921b"/>
+	</game>
+	<game name="Monopoly (USA) (SH3)" id="0306" cloneofid="0304">
+		<description>Monopoly (USA) (SH3)</description>
+		<rom name="Monopoly (USA) (SH3).cab" size="868989" crc="e4b842ba" md5="9b7857fde047b28a979570c51ca59d0f" sha1="c0a8972d26d8cf6cf69ff851bf20898208cf2283"/>
+	</game>
+	<game name="Motocross Stunt Racer (Europe) (Demo) (ARM)" id="0432">
+		<description>Motocross Stunt Racer (Europe) (Demo) (ARM)</description>
+		<rom name="Motocross Stunt Racer (Europe) (ARM) (Demo).cab" size="1560239" crc="5c626bd8" md5="36cab9b418491bd8f4bbb021af90016b" sha1="92fb3f60b43ae23babfc6870d91b23198e2557d5"/>
+	</game>
+	<game name="Motocross Stunt Racer (Europe) (Demo) (MIPS)" id="0433" cloneofid="0432">
+		<description>Motocross Stunt Racer (Europe) (Demo) (MIPS)</description>
+		<rom name="Motocross Stunt Racer (USA) (MIPS) (Demo).cab" size="1630919" crc="c14a12ec" md5="017a1ff196d01edb43ca21272814a8d7" sha1="2507df5c43bb79f0c7e55f48a1cc8fe0d7c185b4"/>
+	</game>
+	<game name="MotoGear (France) (ARM)" id="0021">
+		<description>MotoGear (France) (ARM)</description>
+		<rom name="MotoGear (France) (ARM).cab" size="1464016" crc="f0836c52" md5="3f11f20e39fb8ad29188d18ff7a608da" sha1="b20895d215e07ac9cbaeec33f8d42c1aee3fa917"/>
+	</game>
+	<game name="Mummy Maze (USA)" id="0046">
+		<description>Mummy Maze (USA)</description>
+		<rom name="Mummy Maze (USA).cab" size="2018031" crc="1fe2508e" md5="697d205e9b579583063468b0852095b9" sha1="f64382da9b31e52e337dd85296eaf098a73ed898"/>
+	</game>
+	<game name="Mummy Maze (USA) (WMSP)" id="0047" cloneofid="0046">
+		<description>Mummy Maze (USA) (WMSP)</description>
+		<rom name="Mummy Maze (USA) (WMSP).cab" size="406562" crc="d0452b22" md5="2123a703c1979c9b970afc22b9f1fac4" sha1="201566feea80ddef857c0defeea76268d5577dd6"/>
+	</game>
+	<game name="Official Scrabble Players Dictionary (USA)" id="0296">
+		<description>Official Scrabble Players Dictionary (USA)</description>
+		<rom name="Official Scrabble Players Dictionary (USA).cab" size="2834996" crc="5745f00a" md5="724f66b0e96a765da9828283c9ed7242" sha1="380d74ca39cee7fbbcb6a99202ac7501bfe36fb9"/>
+	</game>
+	<game name="Okigaru Igo Taikyoku (Japan) (ARM)" id="0171">
+		<description>Okigaru Igo Taikyoku (Japan) (ARM)</description>
+		<rom name="Okigaru Igo Taikyoku (Japan) (ARM).cab" size="1944540" crc="e269e539" md5="e6bf7b26a5978e1e3adece42b129d8f1" sha1="90af6403a1a413619141a460723c30e24b6ef660"/>
+	</game>
+	<game name="Okigaru Igo Taikyoku (Japan) (MIPS)" id="0172" cloneofid="0171">
+		<description>Okigaru Igo Taikyoku (Japan) (MIPS)</description>
+		<rom name="Okigaru Igo Taikyoku (Japan) (MIPS).cab" size="1982436" crc="1682139e" md5="94272c6f2dd5f88c3b14388606aa7b54" sha1="ff156ff7afdd2cdcee380cf0445e03c95bf2b2ad"/>
+	</game>
+	<game name="Okigaru Igo Taikyoku (Japan) (SH3)" id="0173">
+		<description>Okigaru Igo Taikyoku (Japan) (SH3)</description>
+		<rom name="Okigaru Igo Taikyoku (Japan) (SH3).cab" size="1746348" crc="65c4e0f4" md5="04e45dc0b4f9039782a7d7fc5124d09e" sha1="4bbb4a9de9726c2bc5b2bd1f5eaa813c0e8cece0"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (ARM)" id="0357">
+		<description>Oliver's Action Pack (Europe) (ARM)</description>
+		<rom name="Oliver's Action Pack (Europe) (ARM).cab" size="288676" crc="090a2d48" md5="c5164349550468b2533e7c2e45d8e835" sha1="31a5e0eaaefca105ec0e5203704cff4b516e39c5"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (ARM) (HPCPRO)" id="0358" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (ARM) (HPCPRO)</description>
+		<rom name="Oliver's Action Pack (Europe) (ARM) (HPCPRO).cab" size="290720" crc="62736baf" md5="9207b31acf5510c00c3875ddd6af41fa" sha1="07e8d353014eeac7923616f7a608d181fcf2bc9b"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (MIPS)" id="0359" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (MIPS)</description>
+		<rom name="Oliver's Action Pack (Europe) (MIPS).cab" size="298916" crc="d24c9394" md5="b8b8d714e55d141e61e4c8be9e41fe20" sha1="c25f982021e5a3141f16b4d739eff9d66380fc50"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (MIPS) (HPCPRO)" id="0360" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (MIPS) (HPCPRO)</description>
+		<rom name="Oliver's Action Pack (Europe) (MIPS) (HPCPRO).cab" size="298912" crc="927eb0d3" md5="1a0baab396810495177e4eb996969689" sha1="b42c6e461a474fd45c1628917b976172bafd9a29"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (MIPS) (PSPC)" id="0361" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (MIPS) (PSPC)</description>
+		<rom name="Oliver's Action Pack (Europe) (MIPS) (PSPC).cab" size="298916" crc="26ac04e0" md5="42f042cc5f89ebe05f01c7f5238c40f2" sha1="cccd377642f9af0828493b430b47df99f0942cfb"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (SH3)" id="0362" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (SH3)</description>
+		<rom name="Oliver's Action Pack (Europe) (SH3).cab" size="285604" crc="e735e7e4" md5="dce60739753fb001a09a89f163445f21" sha1="16616a61a328797207c59d52a9cf047b823336aa"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (SH3) (HPCPRO)" id="0363" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (SH3) (HPCPRO)</description>
+		<rom name="Oliver's Action Pack (Europe) (SH3) (HPCPRO).cab" size="286112" crc="662402cb" md5="838e60d6d6039bab452fb198ed405a98" sha1="f6d7c11356cfa080059e9f1d1dd5f04a727dafa4"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (SH3) (PSPC)" id="0364" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (SH3) (PSPC)</description>
+		<rom name="Oliver's Action Pack (Europe) (SH3) (PSPC).cab" size="286116" crc="65ada9ad" md5="0211d4efa8b4c0b86b2d422d42a210cf" sha1="8777fdf356c09c99ddb75aa8f4f80de1dbcfa663"/>
+	</game>
+	<game name="Oliver's Action Pack (Europe) (SH4) (HPCPRO)" id="0365" cloneofid="0357">
+		<description>Oliver's Action Pack (Europe) (SH4) (HPCPRO)</description>
+		<rom name="Oliver's Action Pack (Europe) (SH4) (HPCPRO).cab" size="286112" crc="c3005e8c" md5="f45671d207cb3b336de2e73281676e8a" sha1="5f5cdfe25d30c0ced9ad8f808c596ed7f724f17f"/>
+	</game>
+	<game name="Pac-Man (USA) (ARM)" id="0001">
+		<description>Pac-Man (USA) (ARM)</description>
+		<rom name="Pac-Man (USA) (ARM).cab" size="264043" crc="fa26e621" md5="54ccae097b0c4f9c6fcb221071efccda" sha1="56a4e8ca6d44a3c04f9059aeb1233d39d7f40380"/>
+	</game>
+	<game name="Palamedes (Japan)" id="0443">
+		<description>Palamedes (Japan)</description>
+		<rom name="Palamedes (Japan).cab" size="1959419" crc="6a1b090d" md5="381f391e27f249821b597c162f064428" sha1="7d4c2d70732900842303427da179799ce1a430dd"/>
+	</game>
+	<game name="Peter's Casino (Europe) (ARM)" id="0366">
+		<description>Peter's Casino (Europe) (ARM)</description>
+		<rom name="Peter's Casino (Europe) (ARM).cab" size="198399" crc="e36628b9" md5="83c1f7d860f1597d3d6efc3b6434ad89" sha1="cd2128a18e13a785a2b088bfd009f63d4bd5b0fb"/>
+	</game>
+	<game name="Peter's Casino (Europe) (ARM) (HPCPRO)" id="0367" cloneofid="0366">
+		<description>Peter's Casino (Europe) (ARM) (HPCPRO)</description>
+		<rom name="Peter's Casino (Europe) (ARM) (HPCPRO).cab" size="155957" crc="c3b2ccd0" md5="bf1bafe43c72175606b2257e2796b887" sha1="5353defe87cfe969fcdfb56c21805d0ec7e0a32b"/>
+	</game>
+	<game name="Peter's Casino (Europe) (MIPS)" id="0368" cloneofid="0366">
+		<description>Peter's Casino (Europe) (MIPS)</description>
+		<rom name="Peter's Casino (Europe) (MIPS).cab" size="201471" crc="a3d9315e" md5="995de708643abc2b0bae6d7da8e0d2e3" sha1="7520637962504e0b9c797de9fd5bc0ffd450888a"/>
+	</game>
+	<game name="Peter's Casino (Europe) (MIPS) (Alt)" id="0369" cloneofid="0366">
+		<description>Peter's Casino (Europe) (MIPS) (Alt)</description>
+		<rom name="Peter's Casino (Europe) (MIPS) (Alt).cab" size="158517" crc="4666197d" md5="d2b93bbbf53369af2e948ec139ee184f" sha1="b9ed47375a228909abeffa041bae94361da053e0"/>
+	</game>
+	<game name="Peter's Casino (Europe) (MIPS) (HPCPRO)" id="0370" cloneofid="0366">
+		<description>Peter's Casino (Europe) (MIPS) (HPCPRO)</description>
+		<rom name="Peter's Casino (Europe) (MIPS) (HPCPRO).cab" size="158517" crc="9befe7d3" md5="6a6d36efc17ffd5baef7897eb885a1d8" sha1="a78fc10c55f469c64f7425e265efacddc81fcf83"/>
+	</game>
+	<game name="Peter's Casino (Europe) (SH3)" id="0371" cloneofid="0366">
+		<description>Peter's Casino (Europe) (SH3)</description>
+		<rom name="Peter's Casino (Europe) (SH3).cab" size="196351" crc="d172a0d7" md5="d219e1d91fee1f604a2224d2681bd2b8" sha1="119852f450713771bd655895b3b2deaa1540029d"/>
+	</game>
+	<game name="Peter's Casino (Europe) (SH3) (Alt)" id="0372" cloneofid="0366">
+		<description>Peter's Casino (Europe) (SH3) (Alt)</description>
+		<rom name="Peter's Casino (Europe) (SH3) (Alt).cab" size="153397" crc="02cef211" md5="ccd9fcf32df15b3bb9c2a446619c1dba" sha1="304afaced487bf5731fd9299b97ba9647da73568"/>
+	</game>
+	<game name="Peter's Casino (Europe) (SH3) (HPCPRO)" id="0373" cloneofid="0366">
+		<description>Peter's Casino (Europe) (SH3) (HPCPRO)</description>
+		<rom name="Peter's Casino (Europe) (SH3) (HPCPRO).cab" size="153397" crc="4aa97a9b" md5="5b926a6bbbd6546faeaa368a2ff7ad92" sha1="541d96aed88149c4984629ef5648033b82c972ca"/>
+	</game>
+	<game name="Peter's Casino (Europe) (SH4) (HPCPRO)" id="0374" cloneofid="0366">
+		<description>Peter's Casino (Europe) (SH4) (HPCPRO)</description>
+		<rom name="Peter's Casino (Europe) (SH4) (HPCPRO).cab" size="153397" crc="c3ba5471" md5="4dd2449048c590fbf2a97c9ccaf56966" sha1="7581889df011b14d80484b6ed1ca116a1b316dce"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (ARM)" id="0375">
+		<description>Peter's GameBox (Europe) (ARM)</description>
+		<rom name="Peter's GameBox (Europe) (ARM).cab" size="341746" crc="c5583fda" md5="71c0aa747c7c293eaa86e93472ad2cc7" sha1="aa609cb2e9f0d5b8bc7c65b7ef3a2476a57b88be"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (ARM) (HPCPRO)" id="0376" cloneofid="0375">
+		<description>Peter's GameBox (Europe) (ARM) (HPCPRO)</description>
+		<rom name="Peter's GameBox (Europe) (ARM) (HPCPRO).cab" size="342766" crc="74892772" md5="5958d91d2f3debadb3c20167d2f0b313" sha1="d21a2194bfd1b1dd2d762ea2fa47c7c28e8d2f00"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (MIPS)" id="0377" cloneofid="0375">
+		<description>Peter's GameBox (Europe) (MIPS)</description>
+		<rom name="Peter's GameBox (Europe) (MIPS).cab" size="359666" crc="af5ff896" md5="4860a245f30ee5bf79b2753884332433" sha1="937d357343fb6c04f7ce88eb578c0190eb180c99"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (MIPS) (HPCPRO)" id="0378" cloneofid="0375">
+		<description>Peter's GameBox (Europe) (MIPS) (HPCPRO)</description>
+		<rom name="Peter's GameBox (Europe) (MIPS) (HPCPRO).cab" size="360182" crc="ac9834aa" md5="d4517fed6d94ce046ea7c282cf2285e9" sha1="3c8120abfdb1caaa55233e61d8fed6b1b2712b0b"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (MIPS) (PSPC)" id="0379">
+		<description>Peter's GameBox (Europe) (MIPS) (PSPC)</description>
+		<rom name="Peter's GameBox (Europe) (MIPS) (PSPC).cab" size="360186" crc="bb81dbc3" md5="28249a5a351524ba21cbb99ea233e6bb" sha1="ba88d15b668eca3e0bbf926e724c75875c899a99"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (SH3)" id="0380" cloneofid="0375">
+		<description>Peter's GameBox (Europe) (SH3)</description>
+		<rom name="Peter's GameBox (Europe) (SH3).cab" size="334066" crc="95b75330" md5="eaa2fc3325b9fda5c2ef12e6199633eb" sha1="5a40cad2edc1d922701ef5a0175a06eb6f5cb92d"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (SH3) (HPCPRO)" id="0381" cloneofid="0375">
+		<description>Peter's GameBox (Europe) (SH3) (HPCPRO)</description>
+		<rom name="Peter's GameBox (Europe) (SH3) (HPCPRO).cab" size="335086" crc="6cb15b6a" md5="3116e723c1165afa993e30017efc122f" sha1="1e22333113cd7936a4f3c14c859a3fbc201f1ee7"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (SH3) (PSPC)" id="0382" cloneofid="0375">
+		<description>Peter's GameBox (Europe) (SH3) (PSPC)</description>
+		<rom name="Peter's GameBox (Europe) (SH3) (PSPC).cab" size="335090" crc="7f634146" md5="d781f97ffc5d80c35fe42f7d8bd18716" sha1="410c6b867b4b28d6d9c1b8d37d455f790cd1473a"/>
+	</game>
+	<game name="Peter's GameBox (Europe) (SH4) (HPCPRO)" id="0383" cloneofid="0375">
+		<description>Peter's GameBox (Europe) (SH4) (HPCPRO)</description>
+		<rom name="Peter's GameBox (Europe) (SH4) (HPCPRO).cab" size="335598" crc="1ef8486b" md5="dcf3a20f1f091743d18cf94a2538d342" sha1="19a4955b69933420a2a6f5a4f27401694a2904e2"/>
+	</game>
+	<game name="Picture Perfect (Europe) (ARM)" id="0384">
+		<description>Picture Perfect (Europe) (ARM)</description>
+		<rom name="Picture Perfect (Europe) (ARM).cab" size="450133" crc="8fe5bff1" md5="51b27e49575f5f44c02fb9cdd0b3c962" sha1="6efa29cd5ee5d26775bc138fe4cb5169dce3ee36"/>
+	</game>
+	<game name="Picture Perfect (Europe) (MIPS)" id="0385" cloneofid="0384">
+		<description>Picture Perfect (Europe) (MIPS)</description>
+		<rom name="Picture Perfect (Europe) (MIPS).cab" size="488029" crc="4ffbc7b6" md5="38c11d04288f223d7c3ecf2beb612dea" sha1="65d4bca2df86ed0d222f9946fe072c634ca06ff0"/>
+	</game>
+	<game name="Picture Perfect (Europe) (SH3)" id="0386" cloneofid="0384">
+		<description>Picture Perfect (Europe) (SH3)</description>
+		<rom name="Picture Perfect (Europe) (SH3).cab" size="415309" crc="aaa2e3a8" md5="a3dec0716bbf99b2b169cfac65640066" sha1="ceeefc8b1daebb81c7b999df539109eb043e7bf2"/>
+	</game>
+	<game name="Pinballz2 (USA) (ARM)" id="0446">
+		<description>Pinballz2 (USA) (ARM)</description>
+		<rom name="Pinballz2 (USA) (ARM).cab" size="907902" crc="46c1c1ab" md5="990c3376080252c2b146aeb49572027b" sha1="c9468118207994ee3fff4eeb7d5535f720557ac3"/>
+	</game>
+	<game name="Pocket Athlete (USA) (ARM)" id="0024">
+		<description>Pocket Athlete (USA) (ARM)</description>
+		<rom name="Pocket Athlete (USA) (ARM).cab" size="1683777" crc="face5f13" md5="fecd86864cae33e72d70e310353089d4" sha1="9f4b362c3920901b2754f976b21202ea5b8cf8cc"/>
+	</game>
+	<game name="Pocket Athlete (USA) (MIPS)" id="0025" cloneofid="0024">
+		<description>Pocket Athlete (USA) (MIPS)</description>
+		<rom name="Pocket Athlete (USA) (MIPS).cab" size="1763153" crc="68d807ca" md5="3c6a196460995592f9d69a2ac4d7f041" sha1="3de61272021686c31354460a5c67b6e89528ec41"/>
+	</game>
+	<game name="Pocket Athlete (USA) (SH3)" id="0026" cloneofid="0024">
+		<description>Pocket Athlete (USA) (SH3)</description>
+		<rom name="Pocket Athlete (USA) (SH3).cab" size="1645361" crc="37ff975c" md5="1d74b3e38bb6e80580aee824b02b7689" sha1="bc6b00715696b11877c3ce107a400e82b3e6f0d3"/>
+	</game>
+	<game name="Pocket Athlete (USA) (Demo) (ARM)" id="0278" cloneofid="0024">
+		<description>Pocket Athlete (USA) (Demo) (ARM)</description>
+		<rom name="Pocket Athlete (USA) (ARM) (Demo).cab" size="1382646" crc="a71dac84" md5="192e800f99cac335a91b628728aa9bae" sha1="21b0f318bf060c51916a63b47a09a3e1bac94f98"/>
+	</game>
+	<game name="Pocket Athlete (USA) (Demo) (MIPS)" id="0279" cloneofid="0024">
+		<description>Pocket Athlete (USA) (Demo) (MIPS)</description>
+		<rom name="Pocket Athlete (USA) (MIPS) (Demo).cab" size="1456910" crc="341712e1" md5="1b5c0137554c46fd675fd093965a84d0" sha1="27ff665693f502a161562bf7e767bd3593617633"/>
+	</game>
+	<game name="Pocket Athlete (USA) (Demo) (SH3)" id="0280" cloneofid="0024">
+		<description>Pocket Athlete (USA) (Demo) (SH3)</description>
+		<rom name="Pocket Athlete (USA) (SH3) (Demo).cab" size="1344238" crc="83c726db" md5="9c2ef8d0b85694b67e119e8ec44bfe5e" sha1="4d846a60c38e5d389f4d0f4b3d0a19e5a2a90da0"/>
+	</game>
+	<game name="Pocket Bass Pro (USA) (ARM)" id="0027">
+		<description>Pocket Bass Pro (USA) (ARM)</description>
+		<rom name="Pocket Bass Pro (USA) (ARM).cab" size="4303886" crc="3dfb2221" md5="eca9a790fb2b7411b07623e3882bca50" sha1="01cb7f69cc92aeb177990d75840ff2fd8d271078"/>
+	</game>
+	<game name="Pocket Bass Pro (USA) (MIPS)" id="0028" cloneofid="0027">
+		<description>Pocket Bass Pro (USA) (MIPS)</description>
+		<rom name="Pocket Bass Pro (USA) (MIPS).cab" size="4320790" crc="aec2b9b1" md5="a303071619c15702f37bbb66dca17bce" sha1="4011bf4d519ee56524fa4309f8cdf58827b9c847"/>
+	</game>
+	<game name="Pocket Bass Pro (USA) (SH3)" id="0029" cloneofid="0027">
+		<description>Pocket Bass Pro (USA) (SH3)</description>
+		<rom name="Pocket Bass Pro (USA) (SH3).cab" size="4295694" crc="ab206952" md5="d616c2e02570bff730e30e29f4862400" sha1="5a4560e1bbb2e4a189b5ee370fac83b0ab6b0084"/>
+	</game>
+	<game name="Pocket Bass Pro (USA) (ARM) (Jornada)" id="0030" cloneofid="0027">
+		<description>Pocket Bass Pro (USA) (ARM) (Jornada)</description>
+		<rom name="Pocket Bass Pro (USA) (ARM) (Jornada).cab" size="4303886" crc="07269583" md5="7cdd9bbbedc87654419d1bdd16e80ecc" sha1="98e9613bdf8e2acfc7345bdb6cde5d0d2fe37d3d"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (ARMV4)" id="0071">
+		<description>Pocket CT-ART (Russia) (ARMV4)</description>
+		<rom name="Pocket CT-ART (Russia) (ARMV4).cab" size="2870743" crc="92d6c7be" md5="fab7f48257cbed0c50e72bcaa0c099dd" sha1="d0ed86a40daed73e43ba907b0c1e7d4be000264c"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (ARMV4T)" id="0072" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (ARMV4T)</description>
+		<rom name="Pocket CT-ART (Russia) (ARMV4T).cab" size="2870743" crc="9dac6e6a" md5="5e3529f064690ebd265b7ce078b50da0" sha1="cfb4565d218a62d2287552b9190dcafeca4ab98d"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (MIPS16)" id="0073" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (MIPS16)</description>
+		<rom name="Pocket CT-ART (Russia) (MIPS16).cab" size="2870743" crc="336ab06c" md5="b47ac4b475a3196c200cc673844d8098" sha1="09d94a20b4b277f06036733ba53029314e06ace4"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (MIPSII FP)" id="0074" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (MIPSII FP)</description>
+		<rom name="Pocket CT-ART (Russia) (MIPSII FP).cab" size="2870743" crc="7526727e" md5="c5c04c5f017bcba0b3556052ea16c74b" sha1="f3f7f0601e8c0119427fca197d849e40c712f7ac"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (MIPSII)" id="0075" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (MIPSII)</description>
+		<rom name="Pocket CT-ART (Russia) (MIPSII).cab" size="2870743" crc="74107966" md5="c6cd13f32a9031cfbd2028452f6df026" sha1="f8727fea78a3f5c48f152d68b9b17cfb1a2f3cb0"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (MIPSIV FP)" id="0076" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (MIPSIV FP)</description>
+		<rom name="Pocket CT-ART (Russia) (MIPSIV FP).cab" size="2870743" crc="3a6cf55b" md5="79cf2beb2ac290b3f10063036593a4d9" sha1="dd5050c65c48daad085721e1b3405a32950b9404"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (MIPSIV)" id="0077" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (MIPSIV)</description>
+		<rom name="Pocket CT-ART (Russia) (MIPSIV).cab" size="2870743" crc="69fee3b2" md5="c8bbdba56e0d8855dedc80a6feeab13b" sha1="5df4ef5f1b5e7987a7272752616886e2d5e2ec1e"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (SH3)" id="0078" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (SH3)</description>
+		<rom name="Pocket CT-ART (Russia) (SH3).cab" size="2870743" crc="2e550b19" md5="49b38d587c7e94029d513f6d36e2e0b4" sha1="a57dc4b3cce32b36aad5b3908f7cb1c0ad6fd84e"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (SH4)" id="0079" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (SH4)</description>
+		<rom name="Pocket CT-ART (Russia) (SH4).cab" size="2870743" crc="0be9a299" md5="6e950bc7cac0a165fe7c7f6aa3090e94" sha1="961efc0cc24a836ac697e530f9706d3c31c45fbf"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (X86)" id="0080" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (X86)</description>
+		<rom name="Pocket CT-ART (Russia) (X86).cab" size="2870743" crc="c7408e90" md5="0b73855f2516bbdbc947eb8aa17f3c05" sha1="3f2028b823dfe75edbb1eb24947e4d33ec8b4b9d"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (ARMV4)" id="0081" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (ARMV4)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (ARMV4).cab" size="2872918" crc="19cdf87b" md5="9423382728cd9d8d6404e1fa5ed331df" sha1="7b95c78af66e31db51f7457228227bc80a587290"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (ARMV4T)" id="0082" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (ARMV4T)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (ARMV4T).cab" size="2872918" crc="77a83a8f" md5="e38132370e65e0f7620eb8904385906a" sha1="fd6a845a3ed3b600784a6e75c813d579f173d9c3"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (MIPS16)" id="0083" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (MIPS16)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (MIPS16).CAB" size="2872918" crc="0f7f2894" md5="173f9326f2568ce0cfca6774fed305d8" sha1="7c22a9933997080bf68e79ab7e1ef91262ad342a"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (MIPSII FP)" id="0084" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (MIPSII FP)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (MIPSII FP).cab" size="2872918" crc="709b32b6" md5="ae6c9ea309530c060ee04bf30c136bf9" sha1="98c2bd22bcbfb2798f78853a5e16bf99b9ce0db0"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (MIPSII)" id="0085" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (MIPSII)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (MIPSII).cab" size="2872918" crc="c4c689dc" md5="7b9708f14b8cfc2e6f06826e8be4857d" sha1="092a35f40d691e371fe11ffa2bdde3c83f5d0ffd"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (MIPSIV FP)" id="0086" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (MIPSIV FP)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (MIPSIV FP).cab" size="2872918" crc="46019e8b" md5="63860e9da64f3b9c68a14881bbc246a4" sha1="607078b8d1a5ce539adb936d274391fdae6973ac"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (MIPSIV)" id="0087" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (MIPSIV)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (MIPSIV).cab" size="2872918" crc="cb71b9f3" md5="fbb3afb73759aafad5ec7768a93a1b42" sha1="73b221bbc454288bb4945c92a839949484b1af28"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (SH3)" id="0088" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (SH3)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (SH3).cab" size="2872918" crc="e4a4791c" md5="d6fd6303eb261b04003010bcf12c2cb3" sha1="d71f0b07cbbc4f8153f0f784285e845dda1b4226"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (SH4)" id="0089" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (SH4)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (SH4).cab" size="2872918" crc="bb7f29ae" md5="1d7d973144c1a32e4907812209c0f61a" sha1="e47fc69f055ad827c57ae7d0bf9da122219e52a0"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (De) (X86)" id="0090" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (De) (X86)</description>
+		<rom name="Pocket CT-ART (Russia) (De) (X86).cab" size="2872918" crc="0d8562cc" md5="ff736e6b9ae44c569c99a0b4a247b303" sha1="32120290bc8c664cb7b884044e030df55bd69abb"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (ARMV4)" id="0091" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (ARMV4)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (ARMV4).cab" size="2872342" crc="caa5e46a" md5="4353fb09c48bef9f09396a55f43ee870" sha1="044d809ead03b0f9f74217d60c69d77333ff85a9"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (ARMV4T)" id="0092" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (ARMV4T)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (ARMV4T).cab" size="2872342" crc="14d0ba79" md5="9760985a1f106ca3e28d9f1d865b65fb" sha1="a5ff2e363c52c7b44740a779d401484c300def1b"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (MIPS16)" id="0093" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (MIPS16)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (MIPS16).cab" size="2872342" crc="94dd7073" md5="650512024b1c6ff96bdc86b8c6b849cb" sha1="18372d2ded5faaebe02db90a91085fa42d9d30e6"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (MIPSII FP)" id="0094" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (MIPSII FP)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (MIPSII FP).cab" size="2872342" crc="775cbc54" md5="0d99be7da79e4cc397fc2b48240450b6" sha1="947684bc74a7969341acfd2e46e3cd9e1acce28e"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (MIPSII)" id="0095" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (MIPSII)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (MIPSII).cab" size="2872342" crc="6684086c" md5="60e9985a94911c72734f8ce65f0a08b3" sha1="2f1a73eee66484e9432db5d41a9539e766ba0b7b"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (MIPSIV FP)" id="0096" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (MIPSIV FP)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (MIPSIV FP).cab" size="2872342" crc="91fc1aa7" md5="b7fd191322290a42f5ca13c252d77e61" sha1="3a07e96c8bd044e6c4e15801330e5ad598741632"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (MIPSIV)" id="0097" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (MIPSIV)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (MIPSIV).cab" size="2872342" crc="209b42f1" md5="56e2fdd96088fc91121927747f237965" sha1="9e8caf0d7ed57ecdac926aa27667c70bf2de2a63"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (SH3)" id="0098" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (SH3)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (SH3).cab" size="2872342" crc="1046c00d" md5="86d1e711fdb653bc9e3303647f85f130" sha1="6d3c3805e6b3a10b3bd2596d098aa63952bd2e0a"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (SH4)" id="0099" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (SH4)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (SH4).cab" size="2872342" crc="f7cfeafb" md5="a69554bc4cddc20d3c19d061c0c8bfb5" sha1="bcb151d6d67c5fd2ce4936b9df186cf095d1945e"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En) (X86)" id="0100" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (En) (X86)</description>
+		<rom name="Pocket CT-ART (Russia) (En) (X86).cab" size="2872342" crc="70a25561" md5="7272259b7a452e2e9f7078346a3b6a7c" sha1="a4f7653f52e1b4f4f74c97da1bbb6196e8ebadd4"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (ARMV4)" id="0101" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (ARMV4)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (ARMV4).cab" size="2872919" crc="7a0cc733" md5="306459d764a9eb52d0662a6d51e89eee" sha1="9baac50bedcafe1d0b7aab2ad49bd3b991011567"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (ARMV4T)" id="0102" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (ARMV4T)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (ARMV4T).cab" size="2872919" crc="534ec137" md5="40cfc5360ec8b824929a9ccb61449b27" sha1="d936dff598cbbd4becc26c4ca9a47b971dc5e391"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (MIPS16)" id="0103" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (MIPS16)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (MIPS16).cab" size="2872919" crc="99d06091" md5="3d4f1314daf948c8d6635e553a070676" sha1="a854b94ae93b9576e17ce3db3aa982f6826d0e40"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (MIPSII FP)" id="0104" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (MIPSII FP)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (MIPSII FP).cab" size="2872919" crc="c7a24fe6" md5="84d4d79df566346b4ccfff7e11cf25c9" sha1="3f5ba86dc80fe0f9bdde20504e5ed39791647ba8"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (MIPSII)" id="0105" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (MIPSII)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (MIPSII).cab" size="2872919" crc="db766bff" md5="72608cfac59af2c39fab4afd455801e9" sha1="dca5c5d0dd7f939880450ba0720a4c6dbe21f0ad"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (MIPSIV FP)" id="0106" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (MIPSIV FP)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (MIPSIV FP).cab" size="2872919" crc="136f1fd3" md5="f9425613396b4df0eea4993fa982f52d" sha1="22bdb02a42535244b4890ab9b8fd779c9b52602c"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (MIPSIV)" id="0107" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (MIPSIV)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (MIPSIV).cab" size="2872919" crc="0cc731e5" md5="7afa29b6e9685496b0050d7411b6bf59" sha1="e136a4a9f1909c93abacc58f54408d367b887d8d"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (SH3)" id="0108" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (SH3)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (SH3).cab" size="2872919" crc="7c887afa" md5="2a5c59fcba889e478f6b218fa068a797" sha1="e2572755902a2e3bdf1605449a7fe01025cf12ae"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (SH4)" id="0109" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (SH4)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (SH4).cab" size="2872919" crc="ca4426c9" md5="7ff53b75e5af4f40438d86ac81008b38" sha1="48a3bd4f676259655aacba4a723872929fe4e717"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Es) (X86)" id="0110" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Es) (X86)</description>
+		<rom name="Pocket CT-ART (Russia) (Es) (X86).cab" size="2872919" crc="45d088c9" md5="ec5a62a83df5e476764ba1ec5ce4c72f" sha1="5e8c9517e52002ca6c1fc0634da54ef4c8494a4d"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (ARMV4)" id="0111" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (ARMV4)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (ARMV4).cab" size="2872974" crc="90afe9ec" md5="572faf4461d49cdbe29bdd0a58cf182a" sha1="43b893bec42f27824dc32dee01b8279faf53eb85"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (ARMV4T)" id="0112" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (ARMV4T)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (ARMV4T).cab" size="2872974" crc="2037ba80" md5="840e8e3d722e11e0c5bb21b7ca31e0fb" sha1="13b17b284f1145edc59b54e2324ab3bc1430cb8b"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (MIPS16)" id="0113" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (MIPS16)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (MIPS16).cab" size="2872974" crc="f5efdb6f" md5="ad5e9f1fcecfa4fb8671586da7d834be" sha1="e77331f57959454b6c0b23efd358f276aa017d27"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (MIPSII FP)" id="0114" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (MIPSII FP)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (MIPSII FP).cab" size="2872974" crc="d6e5a774" md5="1967ee8f2072149d7669c763d2b58fdb" sha1="ab3d397e58670c175f072371453c26495836d70b"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (MIPSII)" id="0115" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (MIPSII)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (MIPSII).cab" size="2872974" crc="381f1e2e" md5="eb80713229368783c7bc0aef56425eaf" sha1="f600a5b1a46f55644a2daddcec92f9ae7e692304"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (MIPSIV FP)" id="0116" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (MIPSIV FP)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (MIPSIV FP).cab" size="2872974" crc="9153930d" md5="84fc11ad9c5c81f0dd5d0ee8a446ba61" sha1="cd945da3f5511144dac6b10997f55460639fe9a1"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (MIPSIV)" id="0117" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (MIPSIV)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (MIPSIV).cab" size="2872974" crc="94988c34" md5="c12086d905f09b12b3fce96d228e292a" sha1="f53a6863b32bd375fd4cb4572c0e6bf6dd730fd4"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (SH3)" id="0118" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (SH3)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (SH3).cab" size="2872974" crc="4fbf8ba4" md5="a605bb308b46f7d3c4a8d8989271af94" sha1="fb28b032407412a01f6b1e599504723cc1e30397"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (SH4)" id="0119" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (SH4)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (SH4).cab" size="2872974" crc="dadaef76" md5="ceaea7ee3eae03ad7c0da59b0162e192" sha1="408bcb9d56029527ebfc91bfa95e4a6b0def8e1e"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (Fr) (X86)" id="0120" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (Fr) (X86)</description>
+		<rom name="Pocket CT-ART (Russia) (Fr) (X86).cab" size="2872974" crc="8c35d101" md5="d50b025fd57bc7f67bac00f0c048afba" sha1="d8eaed9a42cc72bf13dda27fb2c1ae86b18f05e0"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (ARMV4)" id="0121" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (ARMV4)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (ARMV4).cab" size="2872373" crc="4b6d8857" md5="fb06d030e82479595afdaf993d156eae" sha1="647f14ead48faa7c3d15fd3b3fc741ec2a56b96a"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (ARMV4T)" id="0122" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (ARMV4T)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (ARMV4T).cab" size="2872373" crc="a8605327" md5="e96108816b7ce43e51e0e9d2a3b83716" sha1="b1e3b0b1bb24b135047b2822e013806e42305fe5"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (MIPS16)" id="0123" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (MIPS16)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (MIPS16).cab" size="2872373" crc="95660dd7" md5="65b156f2f5172e00dcb9c90ce4a277df" sha1="303c70ca1fa98f359ddc92c870c452060ce9ac2d"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (MIPSII FP)" id="0124" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (MIPSII FP)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (MIPSII FP).cab" size="2872373" crc="31724f89" md5="e9fe3d0e9bccb4e5c04d59398d1dcbf8" sha1="320cdc4eeee488f92b3e45a758b83dca9ddbd9ed"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (MIPSII)" id="0125" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (MIPSII)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (MIPSII).cab" size="2872373" crc="86004544" md5="0f82e4fff3af51ab2826d1a8a57c3f4e" sha1="02b4b148140797185774dca6f01fb66046685744"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (MIPSIV FP)" id="0126" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (MIPSIV FP)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (MIPSIV FP).cab" size="2872373" crc="1b16e06f" md5="4d8536e60cd98c8866b70894971bed0e" sha1="b97f715eead0c243b9a3a89257a7a92e93a9f254"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (MIPSIV)" id="0127" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (MIPSIV)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (MIPSIV).cab" size="2872373" crc="488b4b3c" md5="9876b66316a475d3c26295fd08301326" sha1="706733bb57ddb9e5d01c32955c71c511e76475ab"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (SH3)" id="0128" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (SH3)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (SH3).cab" size="2872373" crc="404be7c8" md5="12d83316679612ff6e2106543bbffac1" sha1="a24be76d9850319b826699a0ff394db9b18ed967"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (SH4)" id="0129">
+		<description>Pocket CT-ART (Russia) (It) (SH4)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (SH4).cab" size="2872373" crc="eb5f0ea4" md5="dce7800021edad2fca019320a1e52a3c" sha1="89e3e79888a3adf6a7d6fa9bb44ee5627dcf9126"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (It) (X86)" id="0130" cloneofid="0071">
+		<description>Pocket CT-ART (Russia) (It) (X86)</description>
+		<rom name="Pocket CT-ART (Russia) (It) (X86).cab" size="2872373" crc="5d924f2f" md5="f4dbbf9b672bfe782f14d9b22669baa3" sha1="0ac9ad0880ee89a49811fe5d3bbcc8da96bfef9c"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (ARM)" id="0131">
+		<description>Pocket Fritz (Europe) (ARM)</description>
+		<rom name="Pocket Fritz (Europe) (ARM).cab" size="1170626" crc="db3b37cb" md5="04fc2a9e5058ecca8c068931c5fa05ae" sha1="29c78fa33872ee569c7fc55407e2c257a2ab6000"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (MIPS)" id="0132" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (MIPS)</description>
+		<rom name="Pocket Fritz (Europe) (MIPS).cab" size="1238226" crc="4a7ec559" md5="1f5f21bd275547e025ebce087a5ab3d9" sha1="839a771b93e1513162b1f109f790c567c07fe00a"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (SH3)" id="0133" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (SH3)</description>
+		<rom name="Pocket Fritz (Europe) (SH3).cab" size="1157301" crc="0aad3703" md5="4b8982182c0cb617256f39614dfbaa81" sha1="b4efb24b24e680639c675fc75d4b656cdb628c3b"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (De) (ARM)" id="0134" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (De) (ARM)</description>
+		<rom name="Pocket Fritz (Europe) (De) (ARM).cab" size="1177613" crc="9436516d" md5="4cc124572c6c0147fecf4c41bf6d3e8a" sha1="a8b4e96a4dd7b5212d843e9781053620e434e2f2"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (De) (MIPS)" id="0135" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (De) (MIPS)</description>
+		<rom name="Pocket Fritz (Europe) (De) (MIPS).cab" size="1245213" crc="ea9e6f1f" md5="904247838c98364414e03693ffb53e0d" sha1="0686629cb5638fc29fe4b4abbce5f467b6e6725f"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (De) (SH3)" id="0136" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (De) (SH3)</description>
+		<rom name="Pocket Fritz (Europe) (De) (SH3).cab" size="1164288" crc="fc3804a8" md5="d79f22be38bd944cb068d32858a5e54d" sha1="5628639403d1a5f60005c62ffbb1317fb37a8981"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Es) (ARM)" id="0137" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Es) (ARM)</description>
+		<rom name="Pocket Fritz (Europe) (Es) (ARM).cab" size="1178694" crc="2127bae4" md5="ef3a088c4686d2b5240ee32ed7e2ea56" sha1="94e2021a538574f3e47c6f65d97531b0e22d0877"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Es) (MIPS)" id="0138" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Es) (MIPS)</description>
+		<rom name="Pocket Fritz (Europe) (Es) (MIPS).cab" size="1246294" crc="b142a9ab" md5="f35eda926e62d293c6cfbf2c15956055" sha1="60c67eab141239a12a985e2955505d4d54523f5b"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Es) (SH3)" id="0139" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Es) (SH3)</description>
+		<rom name="Pocket Fritz (Europe) (Es) (SH3).cab" size="1165369" crc="18961ae7" md5="4bb65d9aa1575a416e43a8129b1ae86c" sha1="f3986941a231b2e71022b499a56a25fdd00e16f3"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Fr) (ARM)" id="0140" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Fr) (ARM)</description>
+		<rom name="Pocket Fritz (Europe) (Fr) (ARM).cab" size="1173827" crc="bcd98eef" md5="debbf506da25d9feed005b3b9a2005e7" sha1="ad8b24dc8b36f6ba971720e2a777840440cc5e6c"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Fr) (MIPS)" id="0141" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Fr) (MIPS)</description>
+		<rom name="Pocket Fritz (Europe) (Fr) (MIPS).cab" size="1241427" crc="4bbc61a0" md5="a19edbb9591a28b07f3da995ddb81fad" sha1="1d9eac4c77806a79d440ac1ec6efb77edcf02341"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Fr) (SH3)" id="0142" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Fr) (SH3)</description>
+		<rom name="Pocket Fritz (Europe) (Fr) (SH3).cab" size="1160502" crc="b856ee83" md5="5bd5b5fea4f4d40055262deeac4679bf" sha1="b9722c0e9faf91246700437ac2e42e705a9942cc"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (It) (ARM)" id="0143" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (It) (ARM)</description>
+		<rom name="Pocket Fritz (Europe) (It) (ARM).cab" size="1174766" crc="de74e12b" md5="5db980eb26d533ae8ec74ab507baa1a2" sha1="9283ad0f3cb486da5b2a8a4d541bad801d49ac58"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (It) (MIPS)" id="0144" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (It) (MIPS)</description>
+		<rom name="Pocket Fritz (Europe) (It) (MIPS).cab" size="1242366" crc="76e03cd1" md5="60b3859e7367347da9e586640aca237c" sha1="83d4a170b43f10f91f0aee018b582cac7e4956cf"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (It) (SH3)" id="0145" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (It) (SH3)</description>
+		<rom name="Pocket Fritz (Europe) (It) (SH3).cab" size="1161441" crc="c61ef719" md5="43401a8d2a6f7861958bee14645abca9" sha1="fd8813d74b2940137ee9017142dd9969c2b25ac8"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Nl) (ARM)" id="0146" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Nl) (ARM)</description>
+		<rom name="Pocket Fritz (Europe) (Nl) (ARM).cab" size="1173798" crc="40f2d820" md5="0fa0b0874458585c201ce447a9e17ea6" sha1="2dd0f97c4d70f5c6e3a931cda857989a1de15a3c"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Nl) (MIPS)" id="0147" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Nl) (MIPS)</description>
+		<rom name="Pocket Fritz (Europe) (Nl) (MIPS).cab" size="1241398" crc="50aaf04a" md5="944e8b25f2b42f0a793b6b112a8d0ba7" sha1="66d86253c3a49134947cd49afc7a4092c9a9c14c"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Nl) (SH3)" id="0148" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Nl) (SH3)</description>
+		<rom name="Pocket Fritz (Europe) (Nl) (SH3).cab" size="1160473" crc="94db4392" md5="33a1869f84bfd664370db3e0572afacf" sha1="df88bb6ee4cb75ab522e0c73c782cc7e03243205"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Sv) (ARM)" id="0149" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Sv) (ARM)</description>
+		<rom name="Pocket Fritz (Europe) (Sv) (ARM).cab" size="1171090" crc="51058e12" md5="92f34b5390377040bbe49cda4907c8ab" sha1="52865c65c2419523c1ab81f18bec7bf7c45c07c4"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Sv) (MIPS)" id="0150" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Sv) (MIPS)</description>
+		<rom name="Pocket Fritz (Europe) (Sv) (MIPS).cab" size="1238690" crc="acf9537d" md5="4d4b46ac7f3966b746d0a24978574d81" sha1="6e53add62bab3712483a41a224c40bd230f434e3"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (Sv) (SH3)" id="0151" cloneofid="0131">
+		<description>Pocket Fritz (Europe) (Sv) (SH3)</description>
+		<rom name="Pocket Fritz (Europe) (Sv) (SH3).cab" size="1157765" crc="5c75b431" md5="5aefa665c45e75238456f0daee3649b1" sha1="9f1ac1cb1e8d4e6f2de802629fce67c2d43f7b83"/>
+	</game>
+	<game name="Pocket Gambler (USA) (ARM)" id="0174">
+		<description>Pocket Gambler (USA) (ARM)</description>
+		<rom name="Pocket Gambler (USA) (ARM).cab" size="2970809" crc="231a0927" md5="1fcacf77a2292be27ba65f1d04927787" sha1="0808f658a08efc37946856f7ce5f2d1c458404ae"/>
+	</game>
+	<game name="Pocket Gambler (USA) (MIPS)" id="0175" cloneofid="0174">
+		<description>Pocket Gambler (USA) (MIPS)</description>
+		<rom name="Pocket Gambler (USA) (MIPS).cab" size="3018945" crc="4ec5d46e" md5="e3a0ee5aa4a8dcd89b494e7e3b4a18d6" sha1="3f02c8a4c0ba3e6e9c4079b77e69450133f45ab1"/>
+	</game>
+	<game name="Pocket Gambler (USA) (SH3)" id="0176" cloneofid="0174">
+		<description>Pocket Gambler (USA) (SH3)</description>
+		<rom name="Pocket Gambler (USA) (SH3).cab" size="2921129" crc="58233937" md5="b7fc61bbbb0b0e7bfc72aa40d8afd354" sha1="844f3b5bb47e8c0287817acd7a284dcc333b14f1"/>
+	</game>
+	<game name="Pocket Mahjong (Japan) (ARM)" id="0061">
+		<description>Pocket Mahjong (Japan) (ARM)</description>
+		<rom name="Pocket Mahjong (Japan) (ARM).cab" size="598143" crc="c014fb4e" md5="005fb4bc26b21e01cc1ecf344cbc9c23" sha1="8ebc331a77964488cfb67ee8f896ab8f79e8696d"/>
+	</game>
+	<game name="Pocket Mahjong (Japan) (MIPS)" id="0062" cloneofid="0061">
+		<description>Pocket Mahjong (Japan) (MIPS)</description>
+		<rom name="Pocket Mahjong (Japan) (MIPS).cab" size="603775" crc="5d6176c7" md5="0306bee14bf66f71dbb9ce501e5e5e63" sha1="1c72b114789819d18de7235cc5bac3cd047bfa28"/>
+	</game>
+	<game name="Pocket Mahjong (Japan) (SH3)" id="0063" cloneofid="0061">
+		<description>Pocket Mahjong (Japan) (SH3)</description>
+		<rom name="Pocket Mahjong (Japan) (SH3).cab" size="545391" crc="8d92071d" md5="e9a578563a27c6134f2f34aca556b3eb" sha1="50be2ed011e3cfcc78e44d6743000cd2ecef95b4"/>
+	</game>
+	<game name="Pop's Pipes (USA) (ARM)" id="0436">
+		<description>Pop's Pipes (USA) (ARM)</description>
+		<rom name="Pop's Pipes (USA) (ARM).cab" size="2255797" crc="39d5a2d3" md5="b408d374fe7f8cf3ae33479106efc6c8" sha1="fed37006d2f2893f6277a47fff59a0fe9f95ece9"/>
+	</game>
+	<game name="Pop's Pipes (USA) (MIPS)" id="0437" cloneofid="0436">
+		<description>Pop's Pipes (USA) (MIPS)</description>
+		<rom name="Pop's Pipes (USA) (MIPS).cab" size="2305490" crc="5f1cf35f" md5="b77d9dea486dbd3b2ea73046ab09d3ff" sha1="a02f3f0d3dd86658dd6d88c1867484bcb50a4358"/>
+	</game>
+	<game name="Pow Wow (Japan) (Demo) (ARM)" id="0275" cloneofid="0293">
+		<description>Pow Wow (Japan) (Demo) (ARM)</description>
+		<rom name="Pow Wow (Japan) (ARM) (Demo).cab" size="1053305" crc="1a9480ba" md5="09372a0d95a185656250639b929d67e5" sha1="5aef62c10aec3f635fe6647ca461f5ed0a5dd791"/>
+	</game>
+	<game name="Pow Wow (Japan) (Demo) (MIPS)" id="0276" cloneofid="0293">
+		<description>Pow Wow (Japan) (Demo) (MIPS)</description>
+		<rom name="Pow Wow (Japan) (MIPS) (Demo).cab" size="1088641" crc="a3616e36" md5="28eff762d50405f34835373cd6739f83" sha1="9b50ba2e27826ca9949c30750d3064aa65f61ac3"/>
+	</game>
+	<game name="Pow Wow (Japan) (Demo) (SH3)" id="0277" cloneofid="0293">
+		<description>Pow Wow (Japan) (Demo) (SH3)</description>
+		<rom name="Pow Wow (Japan) (SH3) (Demo).cab" size="1016945" crc="f730e4e3" md5="d29327d4502c160c7113235283916ab4" sha1="1ae92a4fd3b3bbaa2e847bb05aa4b244f4406cd3"/>
+	</game>
+	<game name="Pow Wow (USA) (Demo) (ARM)" id="0293">
+		<description>Pow Wow (USA) (Demo) (ARM)</description>
+		<rom name="Pow Wow (USA) (ARM) (Demo).cab" size="1041560" crc="3c93fe72" md5="300c7aa99b912a5449026694ad33e7ce" sha1="afc0013f6eaf870132d78739150b4c11ceb53e34"/>
+	</game>
+	<game name="Pow Wow (USA) (Demo) (MIPS)" id="0294" cloneofid="0293">
+		<description>Pow Wow (USA) (Demo) (MIPS)</description>
+		<rom name="Pow Wow (USA) (MIPS) (Demo).cab" size="1076384" crc="356840a2" md5="cdaa6af1f5cdc0e3500511878614cf4e" sha1="e0c9d64047370d7217c502a75f5ab66bf9d39779"/>
+	</game>
+	<game name="Pow Wow (USA) (Demo) (SH3)" id="0295" cloneofid="0293">
+		<description>Pow Wow (USA) (Demo) (SH3)</description>
+		<rom name="Pow Wow (USA) (SH3) (Demo).cab" size="1006224" crc="f2fd1f6f" md5="52fad32b97b95b5880807dc366424e31" sha1="6c123770874bec57d0705ca0eb7060b628259ced"/>
+	</game>
+	<game name="Puzzle of Pipes (Europe) (ARM)" id="0387">
+		<description>Puzzle of Pipes (Europe) (ARM)</description>
+		<rom name="Puzzle of Pipes (Europe) (ARM).cab" size="61794" crc="84dc9ea7" md5="27c6b3d68530551365ae316d44a595bd" sha1="54727ed64eb5a921071948934dc6bdcbb39d633a"/>
+	</game>
+	<game name="Puzzle of Pipes (Europe) (MIPS)" id="0388" cloneofid="0387">
+		<description>Puzzle of Pipes (Europe) (MIPS)</description>
+		<rom name="Puzzle of Pipes (Europe) (MIPS).cab" size="63842" crc="940c8a43" md5="336bcbc8baa1b56584b07c23e907fc8a" sha1="e12fb058b8ad1339ee654903bb09ea18560c2ccf"/>
+	</game>
+	<game name="Puzzle of Pipes (Europe) (SH3)" id="0389" cloneofid="0387">
+		<description>Puzzle of Pipes (Europe) (SH3)</description>
+		<rom name="Puzzle of Pipes (Europe) (SH3).cab" size="59746" crc="a853caeb" md5="c4ccf43cfe111869e6ab032740d2babf" sha1="10aa764000f3aada2e5ec4afeacbb34dc918b08a"/>
+	</game>
+	<game name="Puzzle of Pipes (Europe) (MIPS) (CE)" id="0390" cloneofid="0387">
+		<description>Puzzle of Pipes (Europe) (MIPS) (CE)</description>
+		<rom name="Puzzle of Pipes (Europe) (MIPS) (CE).cab" size="63842" crc="ab68297f" md5="590bb9ed9cce151da355f66472bd918c" sha1="26629b44e0fc6a302217ce3208eeae45f67b90a4"/>
+	</game>
+	<game name="Puzzle of Pipes (Europe) (SH3) (CE)" id="0391" cloneofid="0387">
+		<description>Puzzle of Pipes (Europe) (SH3) (CE)</description>
+		<rom name="Puzzle of Pipes (Europe) (SH3) (CE).cab" size="59746" crc="3f70d4bc" md5="4477bb34eea717e4980ba08ccda1f74d" sha1="3a70f35613460ded73fdccf83fdb0433771acc20"/>
+	</game>
+	<game name="QTris (Europe) (ARM)" id="0392">
+		<description>QTris (Europe) (ARM)</description>
+		<rom name="QTris (Europe) (ARM).cab" size="100183" crc="bae3a9f0" md5="f0bb73461bf1d61eb934741146bc5cf0" sha1="12a44152d5ee046321c8094fea55e05c844eb7bc"/>
+	</game>
+	<game name="QTris (Europe) (MIPS)" id="0393" cloneofid="0392">
+		<description>QTris (Europe) (MIPS)</description>
+		<rom name="QTris (Europe) (MIPS).cab" size="103255" crc="09fea072" md5="903cca4d36b1acf6d5bb30f2d8c9df52" sha1="71112d4b069feb455ff7abf8ec06488ded1d08c5"/>
+	</game>
+	<game name="QTris (Europe) (SH3)" id="0394" cloneofid="0392">
+		<description>QTris (Europe) (SH3)</description>
+		<rom name="QTris (Europe) (SH3).cab" size="98647" crc="d039cf9b" md5="46bc1db9c1dcecdf604215b5dfaf5c4e" sha1="5ee2a0722fb59d26d000b9f7589a104d4d6d88fa"/>
+	</game>
+	<game name="Rat-Splat (Europe) (ARM)" id="0395">
+		<description>Rat-Splat (Europe) (ARM)</description>
+		<rom name="Rat-Splat (Europe) (ARM).cab" size="42320" crc="2720281b" md5="53f8a11860d22d242e7354f579032c96" sha1="141492db882f6f9be216328c1317e18ef57666de"/>
+	</game>
+	<game name="Rat-Splat (Europe) (MIPS)" id="0396" cloneofid="0395">
+		<description>Rat-Splat (Europe) (MIPS)</description>
+		<rom name="Rat-Splat (Europe) (MIPS).cab" size="43344" crc="4fe31d6c" md5="ed0f0f26cfd059727ae27a9868a86d58" sha1="b81df2e45f6ad96cf2919a7225776ed01d2901bd"/>
+	</game>
+	<game name="Rat-Splat (Europe) (SH3)" id="0397" cloneofid="0395">
+		<description>Rat-Splat (Europe) (SH3)</description>
+		<rom name="Rat-Splat (Europe) (SH3).cab" size="41808" crc="5638163f" md5="2b63c0c4a555ded29841ffe0a63d3462" sha1="c4273334bb243a429928b1482aa6739ad53149c6"/>
+	</game>
+	<game name="Robotron 2084 (USA) (ARM)" id="0168">
+		<description>Robotron 2084 (USA) (ARM)</description>
+		<rom name="Robotron 2084 (USA) (ARM).cab" size="1637716" crc="7e4548ca" md5="72afa761ab7c88af31a9b81d4061239c" sha1="3a08ea5ebf4abf5e63a71c07f56e678823e3f7e9"/>
+	</game>
+	<game name="Robotron 2084 (USA) (MIPS)" id="0169" cloneofid="0168">
+		<description>Robotron 2084 (USA) (MIPS)</description>
+		<rom name="Robotron 2084 (USA) (MIPS).cab" size="1735020" crc="2005f4ae" md5="faba4d09381ce0474fa2059d684727a5" sha1="42e4b688046ab45117b2cf55008771c7d2969975"/>
+	</game>
+	<game name="Robotron 2084 (USA) (SH3)" id="0170" cloneofid="0168">
+		<description>Robotron 2084 (USA) (SH3)</description>
+		<rom name="Robotron 2084 (USA) (SH3).cab" size="1587012" crc="688dd36c" md5="5aaadfaa1ae311b1181df3ba56d34325" sha1="65d9f39b46df0ff6391e27697af7c9467719b129"/>
+	</game>
+	<game name="RocketElite (USA) (ARM)" id="0152">
+		<description>RocketElite (USA) (ARM)</description>
+		<rom name="RocketElite (USA) (ARM).cab" size="5547739" crc="21c4d59a" md5="dd1ddda8dd878048bce2335ccff0e8b6" sha1="0bd1b5de8b716a9adf854a5609f074fd74822e14"/>
+	</game>
+	<game name="RocketElite (USA) (MIPS)" id="0153" cloneofid="0152">
+		<description>RocketElite (USA) (MIPS)</description>
+		<rom name="RocketElite (USA) (MIPS).cab" size="5565585" crc="e4bf9482" md5="4c344668a797fef512706a9b23113520" sha1="0816ced947b17068e0f971e77ad62b2b51b2167a"/>
+	</game>
+	<game name="RocketElite (USA) (SH3)" id="0154" cloneofid="0153">
+		<description>RocketElite (USA) (SH3)</description>
+		<rom name="RocketElite (USA) (SH3).cab" size="5540249" crc="9413632e" md5="30c561fda2d4bc6c0755bc0997fe5b58" sha1="c0f82d32c22b114697d25c70488feec4708c0739"/>
+	</game>
+	<game name="RocketElite (USA) (De) (ARM)" id="0155" cloneofid="0152">
+		<description>RocketElite (USA) (De) (ARM)</description>
+		<rom name="RocketElite (USA) (De) (ARM).cab" size="4815800" crc="b63926c9" md5="ab96718596014c284a43914198ab636e" sha1="3eeb3336b036251237f2d357d43c9f11b066657d"/>
+	</game>
+	<game name="RocketElite (USA) (De) (MIPS)" id="0156" cloneofid="0152">
+		<description>RocketElite (USA) (De) (MIPS)</description>
+		<rom name="RocketElite (USA) (De) (MIPS).cab" size="4849824" crc="18baa316" md5="08688420434a4c2c991a8a9e57bed21b" sha1="2b0ae75932d66454fb8e44b1b8e13fd0136ac280"/>
+	</game>
+	<game name="RocketElite (USA) (De) (SH3)" id="0157" cloneofid="0152">
+		<description>RocketElite (USA) (De) (SH3)</description>
+		<rom name="RocketElite (USA) (De) (SH3).cab" size="4804258" crc="1e1ee8b9" md5="64a39d1558b1a918e956d91e8f8348ec" sha1="8aaab5b93f0d265bde772af1c808f4ce8f88e1db"/>
+	</game>
+	<game name="RocketElite (USA) (Fr) (ARM)" id="0158" cloneofid="0152">
+		<description>RocketElite (USA) (Fr) (ARM)</description>
+		<rom name="RocketElite (USA) (Fr) (ARM).cab" size="5084382" crc="d17f4ccb" md5="ebb1856c38969d7c4225e2be4e9f86fc" sha1="94a661b2f7fa2e935609418e28b6455f9f430745"/>
+	</game>
+	<game name="RocketElite (USA) (Fr) (MIPS)" id="0159" cloneofid="0152">
+		<description>RocketElite (USA) (Fr) (MIPS)</description>
+		<rom name="RocketElite (USA) (Fr) (MIPS).cab" size="5119085" crc="d26d2f0a" md5="5d767a7b9d0450d050beb33203582a1f" sha1="a7c00fecac03454532452348c3d489352bbbc077"/>
+	</game>
+	<game name="RocketElite (USA) (Fr) (SH3)" id="0160" cloneofid="0152">
+		<description>RocketElite (USA) (Fr) (SH3)</description>
+		<rom name="RocketElite (USA) (Fr) (SH3).cab" size="5142274" crc="6ee9bd87" md5="b07b16d630a7759f86511a1ad7a3d5b6" sha1="5ca8a74584a579d1cc850d20d7f2209edc2e870d"/>
+	</game>
+	<game name="Scrabble (USA) (ARM)" id="0307">
+		<description>Scrabble (USA) (ARM)</description>
+		<rom name="Scrabble (USA) (ARM).cab" size="1396660" crc="c00b41a0" md5="11a5088f8160f6d547273f8c2c4ee447" sha1="13c6126e21e68c5b4ab0e52da839cbc97b18e6a3"/>
+	</game>
+	<game name="Scrabble (USA) (MIPS)" id="0308" cloneofid="0307">
+		<description>Scrabble (USA) (MIPS)</description>
+		<rom name="Scrabble (USA) (MIPS).cab" size="1430460" crc="a765d230" md5="2d181ada0d9f24a08e52b946ee4905d2" sha1="c4453795d806106386622c81f05c64d1ebb6c271"/>
+	</game>
+	<game name="Scrabble (USA) (SH3)" id="0309" cloneofid="0307">
+		<description>Scrabble (USA) (SH3)</description>
+		<rom name="Scrabble (USA) (SH3).cab" size="1369004" crc="8851ca67" md5="ec3414001ff2e6a9be3a4897ef3820da" sha1="aa9b030a818faf168c501c8426e5f6bf2f9e9e0b"/>
+	</game>
+	<game name="Section Z (USA) (ARM)" id="0162">
+		<description>Section Z (USA) (ARM)</description>
+		<rom name="Section Z (USA) (ARM).cab" size="701388" crc="6e03ed64" md5="746aa89bb0c083d6c55d04da42ca5216" sha1="d0c12b28c42eef53de72743166afaa41ec7d9f62"/>
+	</game>
+	<game name="Seven Seas (USA)" id="0048">
+		<description>Seven Seas (USA)</description>
+		<rom name="Seven Seas (USA).cab" size="1143442" crc="fce45ad0" md5="d6ac13c1b577411cc02174a295c830cc" sha1="f164a80610037dd0cc08cadf1607e5e22d5efc76"/>
+	</game>
+	<game name="Seven Seas (USA) (WMSP)" id="0049" cloneofid="0048">
+		<description>Seven Seas (USA) (WMSP)</description>
+		<rom name="Seven Seas (USA) (WMSP).cab" size="318869" crc="5931a07d" md5="f53e1dea8c022963e1b0be8dd8b4f5cd" sha1="160ce4522d82650bd63f22547cbd14105f82c726"/>
+	</game>
+	<game name="ShadowGate Classic (USA) (ARM)" id="0008">
+		<description>ShadowGate Classic (USA) (ARM)</description>
+		<rom name="ShadowGate Classic (USA) (ARM).cab" size="3519795" crc="332255e1" md5="bc55e0c8ff9abf727a89109f21cb5474" sha1="574c05bc138ad9b476cd1bedf51536bdab7ae35f"/>
+	</game>
+	<game name="ShadowGate Classic (USA) (MIPS)" id="0009" cloneofid="0008">
+		<description>ShadowGate Classic (USA) (MIPS)</description>
+		<rom name="ShadowGate Classic (USA) (MIPS).cab" size="3539251" crc="5553083a" md5="44058400ab81bd535e2c154ae3f15b54" sha1="a8520f83400fb2d2ff15cb7ecec6c02ff6d65467"/>
+	</game>
+	<game name="ShadowGate Classic (USA) (SH3)" id="0010" cloneofid="0008">
+		<description>ShadowGate Classic (USA) (SH3)</description>
+		<rom name="ShadowGate Classic (USA) (SH3).cab" size="3505451" crc="23f336bd" md5="7a25165e4b1b50fbd65cf537a396c2cc" sha1="bac93d411d31a84fd47da8f8a51b0d9263428612"/>
+	</game>
+	<game name="SimCity 2000 (USA) (ARM)" id="0015">
+		<description>SimCity 2000 (USA) (ARM)</description>
+		<rom name="SimCity 2000 (USA) (ARM).cab" size="4298019" crc="e1360183" md5="cbc94e18062c30e1b8746eefced2a5d6" sha1="e79c74a1f2690737998fd411f8d04e10d85316da"/>
+	</game>
+	<game name="SimCity 2000 (USA) (MIPS)" id="0016" cloneofid="0015">
+		<description>SimCity 2000 (USA) (MIPS)</description>
+		<rom name="SimCity 2000 (USA) (MIPS).cab" size="4525915" crc="32f2ee99" md5="6c315ae898ab4c67a44099ae0e83e8db" sha1="c35b7360c3490cd8c1b570fff6828f9c65af7346"/>
+	</game>
+	<game name="SimCity 2000 (USA) (SH3)" id="0017" cloneofid="0015">
+		<description>SimCity 2000 (USA) (SH3)</description>
+		<rom name="SimCity 2000 (USA) (SH3).cab" size="4211467" crc="9f38224f" md5="faea4329e0b8d42c6235247712a08c1a" sha1="00d9467b167e0bd42f86573bc35b52bfcafe9514"/>
+	</game>
+	<game name="Slurp (Canada) (v1.0.1) (ARM)" id="0051" cloneofid="0434">
+		<description>Slurp (Canada) (v1.0.1) (ARM)</description>
+		<rom name="Slurp (Canada) (v1.0.1) (ARM).cab" size="1459292" crc="13fd56fb" md5="912587547e91e5a974e21dd6d627ac3a" sha1="c963f1e4b0b1c5311e7ea04de6a91ef1168d3beb"/>
+	</game>
+	<game name="Slurp (USA) (v1.0.3) (ARM)" id="0434">
+		<description>Slurp (USA) (v1.0.3) (ARM)</description>
+		<rom name="Slurp (USA) (v1.0.3) (ARM).cab" size="1231906" crc="0dbfa19c" md5="31206c29a72a5727d4da8173b978b879" sha1="3d2a0bfa6a6210d4d92fe87feaf6236f00b255db"/>
+	</game>
+	<game name="Slurp (USA) (v1.0.3) (MIPS)" id="0435" cloneofid="0434">
+		<description>Slurp (USA) (v1.0.3) (MIPS)</description>
+		<rom name="Slurp (USA) (v1.0.3) (MIPS).cab" size="1278527" crc="6c695c4d" md5="589b0f34218c88ed889ce06010c9d527" sha1="e3f28490c87596f065a20059970a7a7a8372a938"/>
+	</game>
+	<game name="Snails (USA) (ARM)" id="0050">
+		<description>Snails (USA) (ARM)</description>
+		<rom name="Snails (USA) (ARM).cab" size="4516091" crc="48f8846a" md5="eb8c0e56bb4aa6f3b07c1a0a8363022f" sha1="0b96d028970bcffc303915420ccc2c5412eb3bd4"/>
+	</game>
+	<game name="Soccer Addict - 2002 International Cup (Japan) (En) (ARM)" id="0163">
+		<description>Soccer Addict - 2002 International Cup (Japan) (En) (ARM)</description>
+		<rom name="Soccer Addict - 2002 International Cup (Japan) (En) (ARM).cab" size="4132730" crc="0e402d00" md5="c08bbb4d61a5dbf4d1495179526b0a12" sha1="9f1108a36fef91042698b9082c09f097064bbc91"/>
+	</game>
+	<game name="Soccer Addict - 2002 International Cup (Japan) (En) (MIPS)" id="0164" cloneofid="0163">
+		<description>Soccer Addict - 2002 International Cup (Japan) (En) (MIPS)</description>
+		<rom name="Soccer Addict - 2002 International Cup (Japan) (En) (MIPS).cab" size="4184983" crc="d6a3bac3" md5="6be585990d3f24b87a6193d306a19979" sha1="10373133d6cc02bafc3f31212eb5a6e4cef0b7a5"/>
+	</game>
+	<game name="Spellbound (USA) (ARM)" id="0052">
+		<description>Spellbound (USA) (ARM)</description>
+		<rom name="Spellbound (USA) (ARM).cab" size="247212" crc="2bf1d470" md5="82e8708490ab6c1275b01518117fc57a" sha1="829067e26da4c7d3ae077886fb22269efda708b9"/>
+	</game>
+	<game name="Squirmy (Europe) (ARM)" id="0398">
+		<description>Squirmy (Europe) (ARM)</description>
+		<rom name="Squirmy (Europe) (ARM).cab" size="108381" crc="9752b63e" md5="a69ec12cbad5e318b3ba765625a184ee" sha1="3a40515253ce9618ff910e2b865b57583dd3638a"/>
+	</game>
+	<game name="Squirmy (Europe) (MIPS)" id="0399" cloneofid="0398">
+		<description>Squirmy (Europe) (MIPS)</description>
+		<rom name="Squirmy (Europe) (MIPS).cab" size="110941" crc="08ce5e80" md5="ce9f6eb958e42e6e457d4491cfe3b692" sha1="9de72b3caa3b000779086ea4013f7dcc69bd2133"/>
+	</game>
+	<game name="Squirmy (Europe) (SH3)" id="0400" cloneofid="0398">
+		<description>Squirmy (Europe) (SH3)</description>
+		<rom name="Squirmy (Europe) (SH3).cab" size="106845" crc="b65e4dc3" md5="2084a2e9c89422ab95143b55b17be620" sha1="af6f0dff0f590cd75f9855068bdd68641ed61e90"/>
+	</game>
+	<game name="Sudoku Pro (France) (ARM)" id="0022">
+		<description>Sudoku Pro (France) (ARM)</description>
+		<rom name="Sudoku Pro (France).cab" size="225391" crc="cc7e9c15" md5="797f11c1a53462d99518fa7e34c2356c" sha1="3146dd33f0eb6635ab809ddc090de43d53c745cb"/>
+	</game>
+	<game name="Super Game Pak (USA) (ARM)" id="0404">
+		<description>Super Game Pak (USA) (ARM)</description>
+		<rom name="Super Game Pak (USA) (ARM).cab" size="1446429" crc="6736f12b" md5="93d51ea227199c0232fd99106144cbc6" sha1="f9de162a6b1956380778725db579d326a609442e"/>
+	</game>
+	<game name="Super Game Pak (USA) (MIPS)" id="0405" cloneofid="0404">
+		<description>Super Game Pak (USA) (MIPS)</description>
+		<rom name="Super Game Pak (USA) (MIPS).cab" size="1459754" crc="b3b7d317" md5="7afa16b030fa64bae673b64b04f0810e" sha1="59a118fa79455f093bd18474697ea8d6384c8e4c"/>
+	</game>
+	<game name="Super Game Pak (USA) (SH3)" id="0406" cloneofid="0404">
+		<description>Super Game Pak (USA) (SH3)</description>
+		<rom name="Super Game Pak (USA) (SH3).cab" size="1429021" crc="ccc6a52e" md5="331af8afc3e06d47b88560014d9f1e6d" sha1="9effb694533084c0ea6a01b6ded594d6ef286f78"/>
+	</game>
+	<game name="Super Solitaire Sampler (USA) (ARM)" id="0298">
+		<description>Super Solitaire Sampler (USA) (ARM)</description>
+		<rom name="Super Solitaire Sampler (USA) (ARM).cab" size="1276855" crc="7bc74321" md5="0c847ce0b3bd80640444d5b259e210f7" sha1="c38f75eb68d2d62d277bb028abe2a477e069f83a"/>
+	</game>
+	<game name="Super Solitaire Sampler (USA) (MIPS)" id="0299" cloneofid="0298">
+		<description>Super Solitaire Sampler (USA) (MIPS)</description>
+		<rom name="Super Solitaire Sampler (USA) (MIPS).cab" size="1577983" crc="b9ebdd90" md5="ba671350e095e6743686633c68914de9" sha1="f83ea47b34779d02a5d4b747350de7421c8ab4a8"/>
+	</game>
+	<game name="Super Solitaire Sampler (USA) (SH3)" id="0300" cloneofid="0298">
+		<description>Super Solitaire Sampler (USA) (SH3)</description>
+		<rom name="Super Solitaire Sampler (USA) (SH3).cab" size="1197970" crc="30eccd5d" md5="a3ccc2282f7598a5a17845780432407f" sha1="321edf888ab1c558de36031ee6a95718d868f0c7"/>
+	</game>
+	<game name="Tennis Addict (USA)" id="0023">
+		<description>Tennis Addict (USA)</description>
+		<rom name="Tennis Addict (USA).cab" size="2631622" crc="f830612b" md5="749b5cb5ee3d139197098430955440ea" sha1="6a0d0a3f1c4f04d05c52aed21448be8746153bbe"/>
+	</game>
+	<game name="Tetris Classic (USA) (ARM)" id="0313">
+		<description>Tetris Classic (USA) (ARM)</description>
+		<rom name="Tetris Classic (USA) (ARM).cab" size="512392" crc="d97beab8" md5="0f8baafea2d8170b2d69099587f2a4e6" sha1="8f4e955ddd875851971870795f73126107f5d3c3"/>
+	</game>
+	<game name="Tetris Classic (USA) (ARM) (Alt)" id="0314" cloneofid="0313">
+		<description>Tetris Classic (USA) (ARM) (Alt)</description>
+		<rom name="Tetris Classic (USA) (ARM) (Alt).cab" size="512392" crc="ed1c3a6b" md5="ee515ed6631708ecc3c53cb0eca486f4" sha1="ff8967d51bd5b881a51d131a67640720a9624f2b"/>
+	</game>
+	<game name="Tetris Classic (USA) (MIPS)" id="0315" cloneofid="0313">
+		<description>Tetris Classic (USA) (MIPS)</description>
+		<rom name="Tetris Classic (USA) (MIPS).cab" size="528273" crc="627e4037" md5="58ebc6050a501cdf9aedad8896d32707" sha1="edb50059a1cc44a9aaeb0d22473fa82dfa838e3d"/>
+	</game>
+	<game name="Tetris Classic (USA) (MIPS) (Alt)" id="0316" cloneofid="0313">
+		<description>Tetris Classic (USA) (MIPS) (Alt)</description>
+		<rom name="Tetris Classic (USA) (MIPS) (Alt).cab" size="528273" crc="1859f53c" md5="b251a2d367a3b98a81920305e66ab4cc" sha1="09baff00eb5b3c6129de2d6fe0862fcf36ccba96"/>
+	</game>
+	<game name="Tetris Classic (USA) (SH3)" id="0317" cloneofid="0313">
+		<description>Tetris Classic (USA) (SH3)</description>
+		<rom name="Tetris Classic (USA) (SH3).cab" size="512904" crc="fcf4af7a" md5="269cad9dab0191146e5ee3ea5931b782" sha1="5b1d7c6139d4092d60f61b2ae44f454a369680d3"/>
+	</game>
+	<game name="Tetris Classic (USA) (SH3) (Alt)" id="0318" cloneofid="0313">
+		<description>Tetris Classic (USA) (SH3) (Alt)</description>
+		<rom name="Tetris Classic (USA) (SH3) (Alt).cab" size="512904" crc="73f439c0" md5="87416187aab2eef491635bc575886815" sha1="ee9366908f59890b74886b7c9164a9104416b09b"/>
+	</game>
+	<game name="Tiger Woods PGA Tour Golf (USA) (ARM)" id="0417">
+		<description>Tiger Woods PGA Tour Golf (USA) (ARM)</description>
+		<rom name="Tiger Woods PGA Tour Golf (USA) (ARM).cab" size="5945242" crc="106a33f9" md5="47a4825fbb9bf04c3d02b13f6b3237c6" sha1="ee14d988838b6c1ddc6031af3b608e9417515054"/>
+	</game>
+	<game name="Tiger Woods PGA Tour Golf (USA) (ARM) (iPAQ)" id="0418" cloneofid="0417">
+		<description>Tiger Woods PGA Tour Golf (USA) (ARM) (iPAQ)</description>
+		<rom name="Tiger Woods PGA Tour Golf (USA) (ARM) (iPAQ).cab" size="5944730" crc="9d5cba41" md5="2597896cc48630f8036d60c527e0d33e" sha1="3da81cd964e9214b193e4b8df373a5f9553c6884"/>
+	</game>
+	<game name="Tiger Woods PGA Tour Golf (USA) (MIPS)" id="0419" cloneofid="0417">
+		<description>Tiger Woods PGA Tour Golf (USA) (MIPS)</description>
+		<rom name="Tiger Woods PGA Tour Golf (USA) (MIPS).cab" size="5975962" crc="8f819f8b" md5="ac63cb185380968a9ef685547984ccaa" sha1="1589c1106c53efdf9db114427f8a8f1e4c05bedf"/>
+	</game>
+	<game name="Tomb Raider (USA) (ARM)" id="0054">
+		<description>Tomb Raider (USA) (ARM)</description>
+		<rom name="Tomb Raider (USA) (ARM).cab" size="10728344" crc="b172ff57" md5="5a1663b997d433aff0cfc9f4d278ea64" sha1="d97a1319c256e738a078ffbbd377a406b4635ba0"/>
+	</game>
+	<game name="Tony Hawk's Pro Skater 2 (USA)" id="0014">
+		<description>Tony Hawk's Pro Skater 2 (USA)</description>
+		<rom name="Tony Hawk's Pro Skater 2 (USA).cab" size="62065659" crc="bbb2349c" md5="2b3799c4ec1facc0d20e709af4f5f115" sha1="27e7f14f8fb42e7c4e1b7c45e8d196a2ceaf8976"/>
+	</game>
+	<game name="Tradewinds (USA)" id="0018">
+		<description>Tradewinds (USA)</description>
+		<rom name="Tradewinds (USA).cab" size="1257240" crc="8b66afd6" md5="693b16168d3ac5c43e1e088b7da47474" sha1="df22ff4faf54d88d24ac98646fe0e1cd86b523aa"/>
+	</game>
+	<game name="Trivial Pursuit (USA) (ARM)" id="0413">
+		<description>Trivial Pursuit (USA) (ARM)</description>
+		<rom name="Trivial Pursuit (USA) (ARM).cab" size="2523868" crc="f89e1f7e" md5="4314fcb7e45455644a0493e2e0a84445" sha1="1d2ca86083be481ef981a8f1b86f7644d604f4cd"/>
+	</game>
+	<game name="Trivial Pursuit (USA) (WMSP)" id="0414" cloneofid="0413">
+		<description>Trivial Pursuit (USA) (WMSP)</description>
+		<rom name="Trivial Pursuit (USA) (WMSP).cab" size="1683995" crc="8c6eb172" md5="c408961d96de9951d0cd12f645224628" sha1="74f929580c0a466d5d0a7596098234081052b596"/>
+	</game>
+	<game name="Trivial Pursuit (USA) (MIPS)" id="0415" cloneofid="0413">
+		<description>Trivial Pursuit (USA) (MIPS)</description>
+		<rom name="Trivial Pursuit (USA) (MIPS).cab" size="2619636" crc="093c061e" md5="57842257b63407b2a7334407081bf981" sha1="e6f7c036111c2a3538a7b3e67af1fd186c6c42d6"/>
+	</game>
+	<game name="Trivial Pursuit (USA) (SH3)" id="0416" cloneofid="0413">
+		<description>Trivial Pursuit (USA) (SH3)</description>
+		<rom name="Trivial Pursuit (USA) (SH3).cab" size="2490068" crc="c378bd20" md5="10ab13e1750f9bf926a91dbb64a1a7b4" sha1="3135965f0dcb0ad675a04af5abdf7452b20fc10e"/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (USA) (ARM)" id="0057">
+		<description>Ultima Underworld - The Stygian Abyss (USA) (ARM)</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (USA) (ARM).cab" size="6049617" crc="b8181710" md5="9b9ca5e6c6a195594c00c66b61088efe" sha1="d2535fa8a37b960bdc9bf5a316d78da6b3cbb80f"/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (USA) (MIPS)" id="0058" cloneofid="0057">
+		<description>Ultima Underworld - The Stygian Abyss (USA) (MIPS)</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (USA) (MIPS).cab" size="6139737" crc="2cfebcbe" md5="5d405e519f0accc638bc577da85684ef" sha1="7d90998f9cb2c5e698350851b04e0f2035b57b63"/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (USA) (Cutscenes)" id="0059">
+		<description>Ultima Underworld - The Stygian Abyss (USA) (Cutscenes)</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (USA) (Cutscenes).cab" size="4329567" crc="c580af18" md5="e92003d9131e9ece68d0466576a3bef2" sha1="5d7d4028e9cc34b9bdbc9a9adc7e8f90e1151abd"/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (USA) (Voice)" id="0060">
+		<description>Ultima Underworld - The Stygian Abyss (USA) (Voice)</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (USA) (Voice).cab" size="1607084" crc="803040ad" md5="a26f21c399ef6e6862ecca12dd7cb9d4" sha1="7a2fdf9f12d8baae06ff87418ef950ff2ab57b7a"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En) (ARM)" id="0420">
+		<description>V-Rally - Championship Edition (Japan) (En) (ARM)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En) (ARM).cab" size="1354340" crc="1bf8b342" md5="76aa336e57edf3f0b337dcdd7b27eb39" sha1="3052b9e08ae75aba82270ac6b81728c3e57e3ac1"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En) (MIPS)" id="0421" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (En) (MIPS)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En) (MIPS).cab" size="1376356" crc="c1b3624c" md5="46f1d7b4c4280c07f553d4482afc6e91" sha1="9aa6bd2a5e49ed4dfa5420cab728a712cfac7132"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En) (SH3)" id="0422" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (En) (SH3)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En) (SH3).cab" size="1345636" crc="10b99b62" md5="a5790e5656d5310f0e0daab8edd9fc21" sha1="276f7b6c0dce2a0db5639e118e7b01a0ad672c30"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En) (ARM) (No Sounds)" id="0423" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (En) (ARM) (No Sounds)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En) (ARM) (No Sounds).cab" size="733598" crc="a669f764" md5="acec8fc5f448909f3fca97ad231a55f8" sha1="7a9acc0230295b2143da46fb78ca0721ea5ccd41"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En) (MIPS) (No Sounds)" id="0424" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (En) (MIPS) (No Sounds)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En) (MIPS) (No Sounds).cab" size="755622" crc="33330a07" md5="acda9672aedf666dbba7e5297bd53bdb" sha1="5d80f067bb5f701c387a4987329f2e93f4ad0fa9"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En) (SH3) (No Sounds)" id="0425" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (En) (SH3) (No Sounds)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En) (SH3) (No Sounds).cab" size="724894" crc="7799d51e" md5="f25a0a388da4912ed2e7eea8c92aa824" sha1="5435a6f9546316ab27d9f7f6a6df05596d6ee912"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (De) (ARM)" id="0426" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (De) (ARM)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (De) (ARM).cab" size="1318344" crc="105c1bd5" md5="f113e5fabb1e2e7ffee11a1f6dbecb49" sha1="4da69bf136fbdd357da79adb123eac6277a37598"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (De) (MIPS)" id="0427" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (De) (MIPS)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (De) (MIPS).cab" size="1340360" crc="52a5cec5" md5="de101e7e178ff43a9c2eaee8f3e6f7e9" sha1="0173a61fa7d393b8c9e2b145f44329b7550e5fa1"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (De) (SH3)" id="0428" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (De) (SH3)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (De) (SH3).cab" size="1309632" crc="853f4bd0" md5="134d177583485cfaebf9ebd000423840" sha1="f2be735dd91e4275e0f991d188501c8180de8660"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (Fr) (ARM)" id="0429" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (Fr) (ARM)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (Fr) (ARM).cab" size="1272172" crc="5853e37d" md5="15005d61b082a5653b6ac3267d61caf4" sha1="fbaa8c36d5bf95ae46ab974ad8d6326536d50531"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (Fr) (MIPS)" id="0430" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (Fr) (MIPS)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (Fr) (MIPS).cab" size="1294196" crc="2c4bb61a" md5="5dbd94f18506947d87e2f1f33d14dbbf" sha1="5db25a19723296afe851c5bb3e7beec4d3d1687e"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (Fr) (SH3)" id="0431" cloneofid="0420">
+		<description>V-Rally - Championship Edition (Japan) (Fr) (SH3)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (Fr) (SH3).cab" size="1263468" crc="1b17917f" md5="31420ed681e81615905b09f35abc259e" sha1="25a4430834626ff2490666b9a56720e855cb6836"/>
+	</game>
+	<game name="Warfare Incorporated (USA) (ARM)" id="0410">
+		<description>Warfare Incorporated (USA) (ARM)</description>
+		<rom name="Warfare Incorporated (USA) (ARM).cab" size="2522583" crc="160dfc11" md5="07c8c8bef48add002fd8061424f5ccb0" sha1="cb7ca5363dc1222bd21e82e9b7523e68fe709511"/>
+	</game>
+	<game name="Warfare Incorporated (USA) (MIPS)" id="0411" cloneofid="0410">
+		<description>Warfare Incorporated (USA) (MIPS)</description>
+		<rom name="Warfare Incorporated (USA) (MIPS).cab" size="2630639" crc="690244b8" md5="1e95955583f56a3cc1c75c4f924867e1" sha1="b3fd78847ba6136a05b377715a6f5d721c16c027"/>
+	</game>
+	<game name="Warfare Incorporated (USA) (SH3)" id="0412" cloneofid="0410">
+		<description>Warfare Incorporated (USA) (SH3)</description>
+		<rom name="Warfare Incorporated (USA) (SH3).cab" size="2456519" crc="6e6037cd" md5="cf12a0ff62ae4ef94bb7d8936ec73494" sha1="45ad78417e15de2d67fc8ef0387e6ba707bfd89e"/>
+	</game>
+	<game name="Worms World Party (USA) (ARM)" id="0438">
+		<description>Worms World Party (USA) (ARM)</description>
+		<rom name="Worms World Party (USA) (ARM).cab" size="5824321" crc="e655b1be" md5="37826faf3d8c0d4775f4accd2cea7376" sha1="6dd313970fe898dbef6f90a5f7c59d91f5739275"/>
+	</game>
+	<game name="Yahtzee (USA) (ARM)" id="0310">
+		<description>Yahtzee (USA) (ARM)</description>
+		<rom name="Yahtzee (USA) (ARM).cab" size="932316" crc="45d016d6" md5="dce51b7a47d654eb6071bb8b46a9bd8d" sha1="f29278c8c2769b1b5a9ee8457a01f11b18eb8b76"/>
+	</game>
+	<game name="Yahtzee (USA) (MIPS)" id="0311" cloneofid="0310">
+		<description>Yahtzee (USA) (MIPS)</description>
+		<rom name="Yahtzee (USA) (MIPS).cab" size="1004532" crc="a2282975" md5="ee37efca71f33d1325170fd56e2c110d" sha1="38182d651764e42b5796cdd803253a309d1cb28b"/>
+	</game>
+	<game name="Yahtzee (USA) (SH3)" id="0312" cloneofid="0310">
+		<description>Yahtzee (USA) (SH3)</description>
+		<rom name="Yahtzee (USA) (SH3).cab" size="921564" crc="fc27598e" md5="2870e43d832281f07b0c312e5ce5b0b6" sha1="b77f6d7767b701fcb7130ba74840365b5da3cee8"/>
+	</game>
+	<game name="ZIOGolf 2 (USA) (ARM)" id="0037">
+		<description>ZIOGolf 2 (USA) (ARM)</description>
+		<rom name="ZIOGolf 2 (USA) (ARM).cab" size="3032763" crc="91c94e6b" md5="a6ac877d8563ebbc53ccf87a6fb453c1" sha1="83871391eff25b642ed6355341194fc937092218"/>
+	</game>
+	<game name="ZIOGolf 2 (USA) (MIPS)" id="0038" cloneofid="0037">
+		<description>ZIOGolf 2 (USA) (MIPS)</description>
+		<rom name="ZIOGolf 2 (USA) (MIPS).cab" size="3051715" crc="4d766891" md5="71b134192d3dd8838975f57ab38cc9ac" sha1="607f37c80262dbc141626c99e5237b7b34adfcda"/>
+	</game>
+	<game name="ZIOGolf 2 (USA) (SH3)" id="0039" cloneofid="0037">
+		<description>ZIOGolf 2 (USA) (SH3)</description>
+		<rom name="ZIOGolf 2 (USA) (SH3).cab" size="3012275" crc="25cb9276" md5="f65074bb76484e14c0072e7eb5c6501c" sha1="4d754defee826a2a6787c4c7ff64e03669cf8481"/>
+	</game>
+	<game name="ZIOGolf 2 (Japan) (Demo) (ARM)" id="0269" cloneofid="0037">
+		<description>ZIOGolf 2 (Japan) (Demo) (ARM)</description>
+		<rom name="ZIOGolf 2 (Japan) (ARM) (Demo).cab" size="2176960" crc="5bb6b239" md5="b1fae834e466509dcd218ceed0438bdb" sha1="f1cb49e3bd72f1b04f0e9d017653a71e55cb986d"/>
+	</game>
+	<game name="ZIOGolf 2 (Japan) (Demo) (MIPS)" id="0270" cloneofid="0037">
+		<description>ZIOGolf 2 (Japan) (Demo) (MIPS)</description>
+		<rom name="ZIOGolf 2 (Japan) (MIPS) (Demo).cab" size="2193856" crc="43e6694a" md5="0f74834b1a483a05f20b21abc82a0455" sha1="d248202ff442e8febdbbb19cbcde5951961465ca"/>
+	</game>
+	<game name="ZIOGolf 2 (Japan) (Demo) (SH3)" id="0271" cloneofid="0037">
+		<description>ZIOGolf 2 (Japan) (Demo) (SH3)</description>
+		<rom name="ZIOGolf 2 (Japan) (SH3) (Demo).cab" size="2156984" crc="4bee7e6a" md5="815b4e7d05d310bfc738d78674c89186" sha1="ee78e98d9537a797498f15e51fcbaad96c07a738"/>
+	</game>
+	<game name="ZIOGolf 2 (USA) (Demo) (ARM)" id="0287" cloneofid="0037">
+		<description>ZIOGolf 2 (USA) (Demo) (ARM)</description>
+		<rom name="ZIOGolf 2 (USA) (ARM) (Demo).cab" size="2035585" crc="bf409688" md5="ec978309251cfc8b0fca0044fddd5027" sha1="6f147ac643f1eb891baff6d0b7e5e66b1c81905b"/>
+	</game>
+	<game name="ZIOGolf 2 (USA) (Demo) (MIPS)" id="0288" cloneofid="0037">
+		<description>ZIOGolf 2 (USA) (Demo) (MIPS)</description>
+		<rom name="ZIOGolf 2 (USA) (MIPS) (Demo).cab" size="2052993" crc="e9fddfc0" md5="c2320b1da63a4b2c30a218716e6ce17d" sha1="190b992be76c123c98446f7421bc06b0886c54ff"/>
+	</game>
+	<game name="ZIOGolf 2 (USA) (Demo) (SH3)" id="0289" cloneofid="0037">
+		<description>ZIOGolf 2 (USA) (Demo) (SH3)</description>
+		<rom name="ZIOGolf 2 (USA) (SH3) (Demo).cab" size="2016121" crc="ee3c42cc" md5="78a00c7a4fd32eaa24eecdbc06edee9d" sha1="70799d7eb108b31a7c63dba7baca77b6b7688217"/>
+	</game>
+</datafile>

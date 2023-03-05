@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Digital Electronics DIGIAC 3080 - Games</name>
+		<description>Digital Electronics DIGIAC 3080 - Games (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Stock Market Simulator (1970)(Evans, Robert)(US)">
+		<description>Stock Market Simulator (1970)(Evans, Robert)(US)</description>
+		<rom name="Stock Market Simulator (1970)(Evans, Robert)(US).ptp" size="9890" crc="459d8e8f" md5="ffdd86e0da50765786d45ffbbe88fcf4" sha1="cc0d3ddb775612ea817340c0cbdc9f75d0c476d5"/>
+	</game>
+	<game name="Stock Market Simulator (1970)(Evans, Robert)(US)[main program only]">
+		<description>Stock Market Simulator (1970)(Evans, Robert)(US)[main program only]</description>
+		<rom name="Stock Market Simulator (1970)(Evans, Robert)(US)[main program only].ptp" size="8990" crc="54a072b3" md5="8f7ba0744ded8920371054aff5cf1716" sha1="c0e429f93e73a1f8099ce9c7262cd47a4ba41c69"/>
+	</game>
+</datafile>

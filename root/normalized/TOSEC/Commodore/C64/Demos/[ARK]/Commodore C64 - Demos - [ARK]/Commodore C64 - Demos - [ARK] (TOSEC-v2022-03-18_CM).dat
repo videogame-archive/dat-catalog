@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Demos - [ARK]</name>
+		<description>Commodore C64 - Demos - [ARK] (TOSEC-v2022-03-18)</description>
+		<category>TOSEC</category>
+		<version>2022-03-18</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Intrigue (1994-04)(Taboo)(File 1 of 3)">
+		<description>Intrigue (1994-04)(Taboo)(File 1 of 3)</description>
+		<rom name="Intrigue (1994-04)(Taboo)(File 1 of 3).ark" size="38277" crc="f0d6ea3b" md5="955bd9ddac600cbd80c2e0781db9b322" sha1="b91a0b42776c287646a69b5a0c2ece0b26579d07"/>
+	</game>
+	<game name="Intrigue (1994-04)(Taboo)(File 2 of 3)">
+		<description>Intrigue (1994-04)(Taboo)(File 2 of 3)</description>
+		<rom name="Intrigue (1994-04)(Taboo)(File 2 of 3).ark" size="40315" crc="0a46f97a" md5="583ebf70245953d15a8d26867eb594b6" sha1="00a78f7dfbedc09a988c1b5401760dd09ad0e74b"/>
+	</game>
+	<game name="Intrigue (1994-04)(Taboo)(File 3 of 3)">
+		<description>Intrigue (1994-04)(Taboo)(File 3 of 3)</description>
+		<rom name="Intrigue (1994-04)(Taboo)(File 3 of 3).ark" size="27483" crc="c2844b27" md5="59ca66126624e25d08a1d7a65bbfff47" sha1="7e3ad2975bb40b0d5258a4d1f47880a6f0480cb0"/>
+	</game>
+	<game name="Wayne&apos;s Graphic Collection (1993-05-18)(Taboo)">
+		<description>Wayne&apos;s Graphic Collection (1993-05-18)(Taboo)</description>
+		<rom name="Wayne&apos;s Graphic Collection (1993-05-18)(Taboo).ark" size="46322" crc="3e39face" md5="183856719fee5fa382826e2606effc39" sha1="40962cc79adedc0a4566ced6564df91ec0efc814"/>
+	</game>
+</datafile>

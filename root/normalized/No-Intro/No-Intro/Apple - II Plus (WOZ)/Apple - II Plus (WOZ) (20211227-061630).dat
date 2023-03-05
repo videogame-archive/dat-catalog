@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>224</id>
+		<name>Apple - II Plus (WOZ)</name>
+		<description>Apple - II Plus (WOZ)</description>
+		<version>20211227-061630</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="221B Baker St. (USA) (v1.1) (Disk 1)" id="0001">
+		<description>221B Baker St. (USA) (v1.1) (Disk 1)</description>
+		<rom name="221B Baker St. (USA) (v1.1) (Disk 1).woz" size="234878" crc="c7776abc" md5="5acc10a89f2302420a70ca207defb960" sha1="340a2728d675c5dccd3210b29e5dce1fc4388c65" sha256="27c30b9c6f5fd2ad95dc688fa0d484ad80107325362495a6c0ed2906e2d4dc0a"/>
+	</game>
+	<game name="221B Baker St. (USA) (v1.1) (Disk 2)" id="0002">
+		<description>221B Baker St. (USA) (v1.1) (Disk 2)</description>
+		<rom name="221B Baker St. (USA) (v1.1) (Disk 2).woz" size="234875" crc="6da11041" md5="c013c3aec5ce6fdbfa92ea3097f1898a" sha1="deae0f24fe1c50f034520840e7760dd859682bb4" sha256="28e6558f76c79f643fecb52ba46874ef025af67e3315e84123853dcf82f78668"/>
+	</game>
+	<game name="2400 A.D. (USA) (Player Disk)" id="0004">
+		<description>2400 A.D. (USA) (Player Disk)</description>
+		<rom name="2400 A.D. (USA) (Player Disk).woz" size="234834" crc="6c1893b0" md5="833d0ab375dc79e6e3e3083a26460938" sha1="d82a0833180147b967eee6cf954b8a7939ca5a02" sha256="2cf9f94d30dd4826949f5becfc5154a83100a40832ca26957307524d982d77e9"/>
+	</game>
+	<game name="2400 A.D. (USA) (Program Disk)" id="0005">
+		<description>2400 A.D. (USA) (Program Disk)</description>
+		<rom name="2400 A.D. (USA) (Program Disk).woz" size="234834" crc="54e443c6" md5="abe8e029c99e7b0ba9041a7e54cd8783" sha1="7ff4c81a96d18d89609e3e1d2ed7e79c7cc10597" sha256="e20249bff5ee65cde145ce9779e5d17f18ec615605820a23f1f933e3631a7f39"/>
+	</game>
+	<game name="Puff of Air, A - The Respiratory System (USA)" id="0003">
+		<description>Puff of Air, A - The Respiratory System (USA)</description>
+		<rom name="Puff of Air, A - The Respiratory System (USA).woz" size="241489" crc="c004c5c4" md5="a906ec4e60cd3cfb5d56634d65bcec6b" sha1="01c836d53b0f2c2f8319400c5f85c7462b97bce4" sha256="6fcb9819b7320380175058c3e40610f010fea4fa029595bb78765cade554685b"/>
+	</game>
+</datafile>

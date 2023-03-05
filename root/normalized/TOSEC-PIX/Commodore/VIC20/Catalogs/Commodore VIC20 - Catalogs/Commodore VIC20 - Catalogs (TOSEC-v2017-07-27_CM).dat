@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Catalogs</name>
+		<description>Commodore VIC20 - Catalogs (TOSEC-v2017-07-27)</description>
+		<category>TOSEC-PIX</category>
+		<version>2017-07-27</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="VIC-20 Personal Computer (1982)(Commodore)(GB)">
+		<description>VIC-20 Personal Computer (1982)(Commodore)(GB)</description>
+		<rom name="VIC-20 Personal Computer (1982)(Commodore)(GB).pdf" size="1064204" crc="5d3af7cd" md5="c3e4797762c0aff55a3989ffb89abbc8" sha1="4b12c8eb23b92b9738a065c23f4f6ad421de1f7c"/>
+	</game>
+	<game name="VIC20 un computer da sballo (1982)(Commodore)(IT)">
+		<description>VIC20 un computer da sballo (1982)(Commodore)(IT)</description>
+		<rom name="VIC20 un computer da sballo (1982)(Commodore)(IT).pdf" size="1382636" crc="832c4558" md5="c6c1e9ccb9f4c75fce668ccdf65b251f" sha1="14040464e25967b4eb0a0d7a250199e66fff0bd7"/>
+	</game>
+	<game name="VIC20 Colour Computer (1982)(Commodore)(AU)">
+		<description>VIC20 Colour Computer (1982)(Commodore)(AU)</description>
+		<rom name="VIC20 Colour Computer (1982)(Commodore)(AU).pdf" size="20759147" crc="eb2c4e95" md5="fcb3196c9c6f796d71b4e21743d66ed3" sha1="e986f56b86f345da0fa33fae186a4f3a61dfbe51"/>
+	</game>
+	<game name="VIC20 Price List Volume 2 (1983-03)(Commodore)(AU)">
+		<description>VIC20 Price List Volume 2 (1983-03)(Commodore)(AU)</description>
+		<rom name="VIC20 Price List Volume 2 (1983-03)(Commodore)(AU).pdf" size="21083664" crc="4d337501" md5="ddc3707aa834fbe318d1116881f7ba5f" sha1="0d4f80bd4340993bb169277991e8d3a4a89aa418"/>
+	</game>
+</datafile>

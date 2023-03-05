@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Collections - Apple Corps of Dallas</name>
+		<description>Apple II - Collections - Apple Corps of Dallas (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Disk of the Month (1983-07)(Apple Corps of Dallas)(US)[DOS]">
+		<description>Disk of the Month (1983-07)(Apple Corps of Dallas)(US)[DOS]</description>
+		<rom name="Disk of the Month (1983-07)(Apple Corps of Dallas)(US)[DOS].dsk" size="143360" crc="b00b49da" md5="ed44aa3aac3912ab8faf6e53d0f339d9" sha1="b0aae64019c59046827b9c5fce5665078d0fb51d"/>
+	</game>
+	<game name="Disk of the Month (1984-02)(Apple Corps of Dallas)(US)[DOS]">
+		<description>Disk of the Month (1984-02)(Apple Corps of Dallas)(US)[DOS]</description>
+		<rom name="Disk of the Month (1984-02)(Apple Corps of Dallas)(US)[DOS].dsk" size="143360" crc="973f5001" md5="d738d20d47f34cfe34482de1db749098" sha1="7ad8bdd62ae7a298fd920e82d2885b111eec46aa"/>
+	</game>
+	<game name="Disk of the Month (1984-11)(Apple Corps of Dallas)(US)">
+		<description>Disk of the Month (1984-11)(Apple Corps of Dallas)(US)</description>
+		<rom name="Disk of the Month (1984-11)(Apple Corps of Dallas)(US).dsk" size="143360" crc="b19d73fd" md5="4b274bf698ec124122d5ab1b9699ed2d" sha1="780c4a2689aa5b2411e8cccf1c588bba9e13d303"/>
+	</game>
+	<game name="Disk of the Month (1986-05)(Apple Corps of Dallas)(US)[ProDOS]">
+		<description>Disk of the Month (1986-05)(Apple Corps of Dallas)(US)[ProDOS]</description>
+		<rom name="Disk of the Month (1986-05)(Apple Corps of Dallas)(US)[ProDOS].dsk" size="143360" crc="d0b1853e" md5="3cfe99e3c846b3721b4ec713cb286cac" sha1="6b0838141b06e60dfc05ad9325a9457b63565fc5"/>
+	</game>
+</datafile>

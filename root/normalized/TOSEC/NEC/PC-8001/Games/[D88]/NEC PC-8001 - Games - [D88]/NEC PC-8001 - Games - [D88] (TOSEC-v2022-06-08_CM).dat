@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8001 - Games - [D88]</name>
+		<description>NEC PC-8001 - Games - [D88] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-21)(Inufuto)(JP)">
+		<description>Ascend (2022-03-21)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-21)(Inufuto)(JP).d88" size="348848" crc="7a21baa7" md5="a47a60d89f5496515bdb37b777deb3f7" sha1="bb0ae818d3aaab67c7a19b210be99bddf95fa674"/>
+	</game>
+</datafile>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Homebrew - Games - [BIN]</name>
+		<description>Sony PlayStation - Homebrew - Games - [BIN] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="11th Power, The (2015)(Mihai, Sebastian)">
+		<description>11th Power, The (2015)(Mihai, Sebastian)</description>
+		<rom name="11th Power, The (2015)(Mihai, Sebastian).bin" size="115248" crc="d12bf5d3" md5="522b4c3bbcb1d6e78b42946bd6c2571d" sha1="55451714e414dbeb84e72b4e7f77a7a68c91fa9f"/>
+		<rom name="11th Power, The (2015)(Mihai, Sebastian).cue" size="106" crc="fe652ec7" md5="ab27bf4510a1ff5307f92dbcebf8ce8c" sha1="fe51d2a8269e1bd1cd2f9b232aa6cedcf913ee56"/>
+	</game>
+	<game name="Abyssal Infants (2021-11-18)(kakoeimon)">
+		<description>Abyssal Infants (2021-11-18)(kakoeimon)</description>
+		<rom name="Abyssal Infants (2021-11-18)(kakoeimon).bin" size="103560912" crc="9e0f6723" md5="77750bf67a8e983faa57a776c542dcd6" sha1="1b11dadeee3c8886d0db2ff0039eb6c6618489a9"/>
+		<rom name="Abyssal Infants (2021-11-18)(kakoeimon).cue" size="105" crc="1e78de76" md5="e14a90819f7aac5d1aba91bf7925ab78" sha1="edc3db59026d0fdc68a40bfdcce3179a2251334c"/>
+	</game>
+	<game name="Bow &amp; Arrow PSX v0.1 (2021-10-21)(Schnappy)">
+		<description>Bow &amp; Arrow PSX v0.1 (2021-10-21)(Schnappy)</description>
+		<rom name="Bow &amp; Arrow PSX v0.1 (2021-10-21)(Schnappy).bin" size="3610320" crc="e58c6716" md5="bcea48c548c50af578a5bba40f6fef8e" sha1="52b7f5c248218bddf7a0ee732f784730198e2673"/>
+		<rom name="Bow &amp; Arrow PSX v0.1 (2021-10-21)(Schnappy).cue" size="106" crc="0c396bad" md5="7650a8ae7d0c95e4870d5ab36bad3c69" sha1="1865b9309911f108dd4e8f92fe97da097c8b6f03"/>
+	</game>
+	<game name="Last Survivor (2021-03-17)(Trevisan, Alexandro)(BR)">
+		<description>Last Survivor (2021-03-17)(Trevisan, Alexandro)(BR)</description>
+		<rom name="Last Survivor (2021-03-17)(Trevisan, Alexandro)(BR).bin" size="2622480" crc="13d4dccb" md5="1d9b596b2c52fc526010da2ae36af965" sha1="ed9a5b18e8d23a9c92fb611d2f27edbe740194bc"/>
+		<rom name="Last Survivor (2021-03-17)(Trevisan, Alexandro)(BR).cue" size="117" crc="ad73e962" md5="7033440fadb331aed0d7f0582298b7dc" sha1="902906a3ff4410b489c5efa9855fc567f0d260e5"/>
+	</game>
+	<game name="Loonies 8192 r66 (2021-07-09)(thp)(M3)">
+		<description>Loonies 8192 r66 (2021-07-09)(thp)(M3)</description>
+		<rom name="Loonies 8192 r66 (2021-07-09)(thp)(M3).bin" size="16393440" crc="0cdb2531" md5="ec70e4d17298ab9a935bc26e3292b1c3" sha1="0ad90b8f12040a599bd4f11f4a9b248e2efa9026"/>
+		<rom name="Loonies 8192 r66 (2021-07-09)(thp)(M3).cue" size="282" crc="cf30d682" md5="d6e02ac5a19f3afa07e2fcbaa8185049" sha1="bfe31c19507c963871fbab3c04d9ffc0b9644e8d"/>
+	</game>
+	<game name="Siikasaurus (2016-08-07)(Zhamul)">
+		<description>Siikasaurus (2016-08-07)(Zhamul)</description>
+		<rom name="Siikasaurus (2016-08-07)(Zhamul).bin" size="526848" crc="d52600b0" md5="73fc6d661f8e5d84cc94662ff161ab18" sha1="3bdac8c9a1ef5cec44bf0b7bf732f0456a209dd2"/>
+		<rom name="Siikasaurus (2016-08-07)(Zhamul).cue" size="98" crc="95d00969" md5="36c733cca9705ae10b000e574fceda7d" sha1="b0db2bf2e31d18e85e1f5c008238cad296085524"/>
+	</game>
+</datafile>

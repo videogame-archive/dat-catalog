@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Vtech Laser 3000 &amp; Dick Smith CAT - Operating Systems</name>
+		<description>Vtech Laser 3000 &amp; Dick Smith CAT - Operating Systems (TOSEC-v2020-07-12)</description>
+		<category>TOSEC</category>
+		<version>2020-07-12</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="XINU Operating System (1987-07-03)(Toomey, W.)(AU)">
+		<description>XINU Operating System (1987-07-03)(Toomey, W.)(AU)</description>
+		<rom name="XINU Operating System (1987-07-03)(Toomey, W.)(AU).po" size="143360" crc="37765ae4" md5="4a59eb717d0922c5060ba946421f2374" sha1="b0de2f51c0b5804980d1a68e606f9272af1e2c6a"/>
+	</game>
+	<game name="XINU Operating System (1987-07-03)(Toomey, W.)(AU)[a]">
+		<description>XINU Operating System (1987-07-03)(Toomey, W.)(AU)[a]</description>
+		<rom name="XINU Operating System (1987-07-03)(Toomey, W.)(AU)[a].po" size="143360" crc="54fab689" md5="1ac4a329f315dcf23e28f3fa7055e7bd" sha1="8e31ee4b9cf9fad8a3872b6a1b928812ae4277b8"/>
+	</game>
+</datafile>

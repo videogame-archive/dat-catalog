@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Board - [ARC]</name>
+		<description>Commodore C64 - Games - Board - [ARC] (TOSEC-v2022-12-03)</description>
+		<category>TOSEC</category>
+		<version>2022-12-03</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Battle Chess (1989)(Interplay)(Side A)[Z64 Part 1-4]">
+		<description>Battle Chess (1989)(Interplay)(Side A)[Z64 Part 1-4]</description>
+		<rom name="Battle Chess (1989)(Interplay)(Side A)[Z64 Part 1-4].arc" size="73660" crc="d5d54b9b" md5="4910f2f51e0f9f6367fcacca88898a30" sha1="4d86a0bff1b9f57aafe821f11badb447d6e6dd6c"/>
+	</game>
+	<game name="Clue! (19xx)(Joe Obrin)">
+		<description>Clue! (19xx)(Joe Obrin)</description>
+		<rom name="Clue! (19xx)(Joe Obrin).arc" size="51562" crc="6fc22280" md5="6be68cd8c3d7c40750714c0266acc459" sha1="a70c2e4b9e9957ec2dd7a735282f1d78c57bfe7f"/>
+	</game>
+	<game name="War Games v2.2 (1984)(R.C. Davis)">
+		<description>War Games v2.2 (1984)(R.C. Davis)</description>
+		<rom name="War Games v2.2 (1984)(R.C. Davis).arc" size="85632" crc="c47b4fe1" md5="369daad79565e368967e24f3a77c3cc3" sha1="665d928ff25ba2f2d11811a4419e97b28e119985"/>
+	</game>
+</datafile>

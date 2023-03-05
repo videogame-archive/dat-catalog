@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Arcade - [ARC]</name>
+		<description>Commodore C64 - Games - Arcade - [ARC] (TOSEC-v2022-04-24)</description>
+		<category>TOSEC</category>
+		<version>2022-04-24</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Night Mission Pinball (1982)(Sublogic)[Z64 Part 1-6]">
+		<description>Night Mission Pinball (1982)(Sublogic)[Z64 Part 1-6]</description>
+		<rom name="Night Mission Pinball (1982)(Sublogic)[Z64 Part 1-6].arc" size="68580" crc="7a83cb08" md5="e7b4d629fd036bed3df1f9f9041d628d" sha1="df294d88d9381125f4686fb34ce536d0167b0693"/>
+	</game>
+	<game name="Superman Sam - The Skateboardin&apos; Man (19xx)(Zimmerman, Bo)(PD)">
+		<description>Superman Sam - The Skateboardin&apos; Man (19xx)(Zimmerman, Bo)(PD)</description>
+		<rom name="Superman Sam - The Skateboardin&apos; Man (19xx)(Zimmerman, Bo)(PD).arc" size="8636" crc="5c5b14e9" md5="28ce58b04ff8cfef0d257bd8d9897f04" sha1="836905ddd6a60de1e2cc6316f17091bab8f2cb32"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Graphics - [DO]</name>
+		<description>Apple II - Graphics - [DO] (TOSEC-v2020-07-12)</description>
+		<category>TOSEC</category>
+		<version>2020-07-12</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Print Shop Graphics (19xx)(-)[Alarm Clock - Yin-Yang][grn 02b]">
+		<description>Print Shop Graphics (19xx)(-)[Alarm Clock - Yin-Yang][grn 02b]</description>
+		<rom name="Print Shop Graphics (19xx)(-)[Alarm Clock - Yin-Yang][grn 02b].do" size="143360" crc="95aeaa5f" md5="438941122355825bd29a281a7721c788" sha1="bef224059dc99c1068de7a44a36cd725473e9ccd"/>
+	</game>
+	<game name="Print Shop Graphics (19xx)(-)[Abe - Eye Chart][grn 03a]">
+		<description>Print Shop Graphics (19xx)(-)[Abe - Eye Chart][grn 03a]</description>
+		<rom name="Print Shop Graphics (19xx)(-)[Abe - Eye Chart][grn 03a].do" size="143360" crc="09663a4d" md5="141f9db064476079ffb3f55edb7675c9" sha1="0ae422185a11db32cbcb94707176d2325cbee460"/>
+	</game>
+	<game name="Print Shop Graphics (19xx)(-)[Fall - Lunch][grn 03b]">
+		<description>Print Shop Graphics (19xx)(-)[Fall - Lunch][grn 03b]</description>
+		<rom name="Print Shop Graphics (19xx)(-)[Fall - Lunch][grn 03b].do" size="143360" crc="aa1b11d5" md5="39402d3c9f8ef210f1382ab8d052c21b" sha1="127601bfb242d8a0111d8548e7b37637a07d4140"/>
+	</game>
+	<game name="Print Shop Graphics (19xx)(-)[Mail - RX][grn 04a]">
+		<description>Print Shop Graphics (19xx)(-)[Mail - RX][grn 04a]</description>
+		<rom name="Print Shop Graphics (19xx)(-)[Mail - RX][grn 04a].do" size="143360" crc="bf588375" md5="2fffb48c2d2b7ca6c48c19518536ac59" sha1="45fe3b1195292594033a288e6c6699c2266f596d"/>
+	</game>
+	<game name="Print Shop Graphics (19xx)(-)[Safe - Yield][grn 04b]">
+		<description>Print Shop Graphics (19xx)(-)[Safe - Yield][grn 04b]</description>
+		<rom name="Print Shop Graphics (19xx)(-)[Safe - Yield][grn 04b].do" size="143360" crc="93897b15" md5="274c095cfb885b13efbb7bc38f905097" sha1="085c7c99c297c62c49d481eadfc0c39aef90caba"/>
+	</game>
+</datafile>

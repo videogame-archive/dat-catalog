@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mitsubishi Multi 8 - Games - [CAS]</name>
+		<description>Mitsubishi Multi 8 - Games - [CAS] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).cas" size="14989" crc="b922c4bd" md5="9860c02f0985b35748491ddadd5aafc7" sha1="11fead338e7c39b9ef0d2918bfdad2670ec13484"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).cas" size="14962" crc="a189659c" md5="b9a3cf2d9f20f1466aacf1c8884be77e" sha1="e5a8fd9bf52bca32506ad2c4a61416d624a8f7cc"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).cas" size="15403" crc="515efc1c" md5="279cf10223893870e91276a8f469deff" sha1="58380a294f88d29c5d58cb56cda7a580c1cf1e4e"/>
+	</game>
+</datafile>

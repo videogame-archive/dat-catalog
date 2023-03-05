@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Robotron BIC A5105 - Games - [DUMP]</name>
+		<description>Robotron BIC A5105 - Games - [DUMP] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).dump" size="825600" crc="6f1e48fb" md5="3847bd70ea0e215327de2767543e81fe" sha1="1f8af3d7655b6673a95acd986c3d683ff9241a5d"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered].dump" size="825600" crc="00ee7d68" md5="c593be821a0794ee596f2febe78728d9" sha1="f6ec7648478bef915914b2bfb22e062974fee252"/>
+	</game>
+</datafile>

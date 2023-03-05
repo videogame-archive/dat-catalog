@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-85 - Games</name>
+		<description>Texas Instruments TI-85 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[full][turn-based]">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)[full][turn-based]</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[full][turn-based].85s" size="15462" crc="d80b5390" md5="e65772fa8035540abe044ee5a45be001" sha1="982fcf25b0299b950f7979cd9f670b42f1a09cd1"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny].85s" size="15487" crc="cd1cac96" md5="9f7b281cec9a194d27af99d6c9bc1a1d" sha1="c8f6d74891d31c5ce38d9e40fd8bfa3cbcf7a15c"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).85s" size="13979" crc="861bbed0" md5="604a1c5ab4fa84b2fb013f2788732d63" sha1="f2367c3f7a320c563ed6cef592229a968d37027e"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).85s" size="13589" crc="39470872" md5="5d590c49dbf7c20a961cf8efc6a254dc" sha1="a992dd81e91c9fc73e17f5d7bdccd3ab9f0d9436"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).85s" size="13497" crc="ab5eb7e3" md5="f39d87f841a459aaa6c643c859a9c0ca" sha1="7654bcce43cc399bc12d77ceb13b23029e59b258"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).85s" size="12862" crc="1be89855" md5="1f1d8a35e5080e805107f2784127f11f" sha1="3ab6f450f4528dfb176460652ecb193e29b1ebc0"/>
+	</game>
+</datafile>

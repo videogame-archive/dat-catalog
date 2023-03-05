@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>154</id>
+		<name>Non-Redump - DVD-Video</name>
+		<description>Non-Redump - DVD-Video</description>
+		<version>20220706-060943</version>
+		<author>Hiccup, MeguCocoa, norkmetnoil577</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="EDGE E3 2003 (United Kingdom) (Coverdisc) [b]" id="0008">
+		<description>EDGE E3 2003 (United Kingdom) (Coverdisc) [b]</description>
+		<rom name="EDGE_E3.mp4" size="425489106" crc="cbc3e53c" md5="c6c78afee350d7594dc24bf9663bcedc" sha1="472dc3ccc750ba4c0e9d5c1a6e1425b549fd784e" status="baddump"/>
+	</game>
+	<game name="Guide video nouveautes 2005-2006 (France) (Promo)" id="0007">
+		<description>Guide video nouveautes 2005-2006 (France) (Promo)</description>
+		<rom name="Guide video nouveautes 2005-2006 (France) (Promo).iso" size="7180058624" crc="61373ad2" md5="e2dc5f91b87f0dd721a81178552bdb91" sha1="4279b29f5d84c09f912dd8595cda4e16899c042e"/>
+	</game>
+	<game name="Nintendo E3 2004 B-roll DVD (USA) (Press Kit)" id="0001">
+		<description>Nintendo E3 2004 B-roll DVD (USA) (Press Kit)</description>
+		<rom name="Nintendo E3 2004 B-roll DVD (USA) (Press Kit).iso" size="4563861504" crc="57b230d0" md5="829e072cd70387c98b0409541231aaee" sha1="39fe9e78f02c7d50ad6c59c142fb2efa40c13004"/>
+	</game>
+	<game name="The Future of Videogames - Volume 1 (USA)" id="0003">
+		<description>The Future of Videogames - Volume 1 (USA)</description>
+		<rom name="The Future of Videogames - Volume 1 (USA).iso" size="4572534784" crc="34597398" md5="439c6d2e5a971c750218fe06d987d8bc" sha1="923a76e43265305d94c530787bdc13b7cc32d495"/>
+	</game>
+	<game name="The Future of Videogames 2K4 - GameCube (USA)" id="0002">
+		<description>The Future of Videogames 2K4 - GameCube (USA)</description>
+		<rom name="The Future of Videogames 2K4 - GameCube (USA).iso" size="7932395520" crc="b65ee931" md5="95e485b1a6deb584af52ccc203ea10e0" sha1="566c7e30df82cd3324d6fc0f013e7c2998ca3208"/>
+	</game>
+</datafile>

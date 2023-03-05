@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Educational - [TAP]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Educational - [TAP] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basic Francais v1.0 (1984)(Loriciels)(Atmos)(FR)">
+		<description>Basic Francais v1.0 (1984)(Loriciels)(Atmos)(FR)</description>
+		<rom name="Basic Francais v1.0 (1984)(Loriciels)(Atmos)(FR).tap" size="5668" crc="900928da" md5="12c373a930ca42398d0264c841a88f50" sha1="d0e33d94420f6388d630379f7eb7abb2eab21eba"/>
+	</game>
+	<game name="Byrakrater (19xx)(-)(sv)">
+		<description>Byrakrater (19xx)(-)(sv)</description>
+		<rom name="Byrakrater (19xx)(-)(sv).tap" size="1385" crc="46e089f8" md5="81693e60aa173ae5c05076439d4aa9e3" sha1="7bc36ff0bc04b68867de80dd3a52eed9d262a878"/>
+	</game>
+	<game name="Calcul Mental (1984)(Loriciels)(FR)">
+		<description>Calcul Mental (1984)(Loriciels)(FR)</description>
+		<rom name="Calcul Mental (1984)(Loriciels)(FR).tap" size="1641" crc="49c964fb" md5="b6d3c218898bfbf06ec9d1a0a51db8a8" sha1="2c70ac5cd053daf2f910d5f771f295ae9d022a83"/>
+	</game>
+	<game name="Casse Tete Mathematique (19xx)(T.R.A.N.)(FR)">
+		<description>Casse Tete Mathematique (19xx)(T.R.A.N.)(FR)</description>
+		<rom name="Casse Tete Mathematique (19xx)(T.R.A.N.)(FR).tap" size="2808" crc="9c44c93d" md5="b377b9d1fa22f63222af257a2b6401c8" sha1="82ae645e80dd8725ece62324a8be0b574b6a09a1"/>
+	</game>
+	<game name="Dico Chimie (19xx)(-)(fr)">
+		<description>Dico Chimie (19xx)(-)(fr)</description>
+		<rom name="Dico Chimie (19xx)(-)(fr).tap" size="24502" crc="31bbcba4" md5="653c180fa30cfb67c246f8df83d4cef6" sha1="d7b08007d8fb8e8dc8e7608d1b53f221e4cc41ea"/>
+	</game>
+	<game name="Vers La Lecture - Tests de Reconnaissance Visuelle (19xx)(-)(Atmos)(fr)">
+		<description>Vers La Lecture (19xx)(-)(Atmos)(fr)</description>
+		<rom name="Vers La Lecture (19xx)(-)(Atmos)(fr).tap" size="14829" crc="634d8e8e" md5="a226dcd213adfec897950073178ecb58" sha1="7765d257cf52ab39ede6e1502de473e1d2f5b19b"/>
+	</game>
+</datafile>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Gambling - [NBZ]</name>
+		<description>Commodore C64 - Games - Gambling - [NBZ] (TOSEC-v2022-06-06)</description>
+		<category>TOSEC</category>
+		<version>2022-06-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="5 mal 5 (1992)(PCSL Software)(de)">
+		<description>5 mal 5 (1992)(PCSL Software)(de)</description>
+		<rom name="5 mal 5 (1992)(PCSL Software)(de).nbz" size="148334" crc="eee9b3d7" md5="a8c00dd292e342dbe7f157403d48abcb" sha1="4f25a76eb75d4adf2683fecd951105080b38edf6"/>
+	</game>
+	<game name="Casino Craps (1986)(Casino)">
+		<description>Casino Craps (1986)(Casino)</description>
+		<rom name="Casino Craps (1986)(Casino).nbz" size="85787" crc="6b53d6bf" md5="8a2e6d182333dc716f7edea1f18feceb" sha1="30e39d83e0b29fff0560329ad88e48bbdc9db980"/>
+	</game>
+	<game name="Gluecksrad (1990)(Gametek)(de)">
+		<description>Gluecksrad (1990)(Gametek)(de)</description>
+		<rom name="Gluecksrad (1990)(Gametek)(de).nbz" size="117953" crc="24ebb98a" md5="0ad91de0f307274bd7fe5b37154edcfb" sha1="d63ca585eeb51feaa5af0b439a09233a1d5cc9e3"/>
+	</game>
+	<game name="Pictionary - The Game of Quick Draw (1989)(Domark)">
+		<description>Pictionary - The Game of Quick Draw (1989)(Domark)</description>
+		<rom name="Pictionary - The Game of Quick Draw (1989)(Domark).nbz" size="171962" crc="bf782943" md5="b9985daa828136aa94e3c670f72649c0" sha1="49513be15985445be04d0a9130fcf306415a66bf"/>
+	</game>
+	<game name="Trump Castle (1988)(Capstone)(Side A)">
+		<description>Trump Castle (1988)(Capstone)(Side A)</description>
+		<rom name="Trump Castle (1988)(Capstone)(Side A).nbz" size="102019" crc="5b00724f" md5="58de815f1330399acf2a15142e37be40" sha1="d5b5efc95af9ea0fd78ac15dd3256fedb068f858"/>
+	</game>
+	<game name="Trump Castle (1988)(Capstone)(Side B)[cr ATC]">
+		<description>Trump Castle (1988)(Capstone)(Side B)[cr ATC]</description>
+		<rom name="Trump Castle (1988)(Capstone)(Side B)[cr ATC].nbz" size="110659" crc="658ab4cd" md5="0e2402cac30f0050079ae889562ed03d" sha1="54e62c3834330176e2821385a3ee9f9629d1f09b"/>
+	</game>
+	<game name="Wheel of Fortune - Fortuna Kolem Sie Toczy (1993)(Vermes)[cr UCF]">
+		<description>Wheel of Fortune - Fortuna Kolem Sie Toczy (1993)(Vermes)[cr UCF]</description>
+		<rom name="Wheel of Fortune - Fortuna Kolem Sie Toczy (1993)(Vermes)[cr UCF].nbz" size="84227" crc="6e119984" md5="93ebff35625a1c51c3130ca2db3ca231" sha1="35bc51d4c00d834624d88d2ea2f3ca0125082ae3"/>
+	</game>
+	<game name="Wheel of Fortune - Golden Edition (1990)(GameTek)">
+		<description>Wheel of Fortune - Golden Edition (1990)(GameTek)</description>
+		<rom name="Wheel of Fortune - Golden Edition (1990)(GameTek).nbz" size="103631" crc="e7bc1c8a" md5="94ef83b79a91314441ad3b1aeb169498" sha1="2a4b15617b9049b8fd409ddb912295af0dcfe064"/>
+	</game>
+</datafile>

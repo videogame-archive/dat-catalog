@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Books</name>
+		<description>Commodore C128 - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="128 Machine Language for Beginners (1986)(COMPUTE! Publications)">
+		<description>128 Machine Language for Beginners (1986)(COMPUTE! Publications)</description>
+		<rom name="128 Machine Language for Beginners (1986)(COMPUTE! Publications).pdf" size="35488890" crc="a1bad842" md5="6e3464000086ca01a2255bbfd66ded0e" sha1="05cae5d6607342a31ed5dd82008ede91691bf80f"/>
+	</game>
+	<game name="35 Amazing Games for the Commodore 128 (1984)(HPBooks Inc)">
+		<description>35 Amazing Games for the Commodore 128 (1984)(HPBooks Inc)</description>
+		<rom name="35 Amazing Games for the Commodore 128 (1984)(HPBooks Inc).pdf" size="12082513" crc="0a3a1e02" md5="f94b368544b24289db58d1e9061ab564" sha1="3f831f8d4bae717796a109557bbe4378a730f970"/>
+	</game>
+	<game name="Advanced Commodore 128 Graphics and Sound Programming (1988)(TAB Books)">
+		<description>Advanced Commodore 128 Graphics and Sound Programming (1988)(TAB Books)</description>
+		<rom name="Advanced Commodore 128 Graphics and Sound Programming (1988)(TAB Books).pdf" size="28349980" crc="cbb09679" md5="5bd8662366cf436f2b21dcac2fab08d1" sha1="a7fe2446189d02eebd5fc02bb2bca17d2cbb4c0e"/>
+	</game>
+	<game name="C128 Programmer's Reference Guide (1986)(Bamtam Books)">
+		<description>C128 Programmer's Reference Guide (1986)(Bamtam Books)</description>
+		<rom name="C128 Programmer's Reference Guide (1986)(Bamtam Books).pdf" size="55771803" crc="8afb1d3c" md5="e8411ee93ca41cc18e50d001b0d2bbae" sha1="726571e97bed04d7bd5c56bf8d5ec0fe68b5916f"/>
+	</game>
+	<game name="C128 Programmer's Reference Guide (1986)(Bamtam Books)[a2]">
+		<description>C128 Programmer's Reference Guide (1986)(Bamtam Books)[a2]</description>
+		<rom name="C128 Programmer's Reference Guide (1986)(Bamtam Books)[a2].pdf" size="38961510" crc="bbd6f07c" md5="7bce9d2d016c87b523a2f2455156e582" sha1="d4019e087561936547da19f9443842955e4b4f96"/>
+	</game>
+	<game name="C128 Programmer's Reference Guide (1986)(Bamtam Books)[a]">
+		<description>C128 Programmer's Reference Guide (1986)(Bamtam Books)[a]</description>
+		<rom name="C128 Programmer's Reference Guide (1986)(Bamtam Books)[a].pdf" size="18530197" crc="c6844566" md5="fce7cf501038f6c6d0563e17040084e3" sha1="3555eeb438d6ca9fa54c7a580d35477081242b30"/>
+	</game>
+	<game name="Commodore 128 Subroutine Library, The (1985)(Bamtam Books)">
+		<description>Commodore 128 Subroutine Library, The (1985)(Bamtam Books)</description>
+		<rom name="Commodore 128 Subroutine Library, The (1985)(Bamtam Books).pdf" size="17463499" crc="861ab67a" md5="5ca9f762f511bd9c64c74dcd9fa84652" sha1="6b804d39fd0207cb23f36db469b02cddfd88c62c"/>
+	</game>
+	<game name="COMPUTE!'s 128 Programmer's Guide (1986)(COMPUTE! Publications)">
+		<description>COMPUTE!'s 128 Programmer's Guide (1986)(COMPUTE! Publications)</description>
+		<rom name="COMPUTE!'s 128 Programmer's Guide (1986)(COMPUTE! Publications).pdf" size="38485300" crc="3f8dd9a8" md5="8254c0fb8f3c3ecfa64924b1da853eef" sha1="7d7e6e1463740f106944ae4ad5284576c95240e1"/>
+	</game>
+</datafile>

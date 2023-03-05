@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Applications - [TAPE]</name>
+		<description>Exidy Sorcerer - Applications - [TAPE] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Boot (19xx)(-)[BASIC]">
+		<description>Boot (19xx)(-)[BASIC]</description>
+		<rom name="Boot (19xx)(-)[BASIC].tape" size="476" crc="e0ca1789" md5="2ec8075713025b7e7b484b2a01e38068" sha1="7cf221a65496ad0b38d350123c53ca2480972a75"/>
+	</game>
+	<game name="Bootsector (19xx)(-)[BASIC]">
+		<description>Bootsector (19xx)(-)[BASIC]</description>
+		<rom name="Bootsector (19xx)(-)[BASIC].tape" size="1235" crc="41ec74e6" md5="57a9775a7b724a1536d0c5dbdd153805" sha1="9571c5cc011ac8d03b236ca26b577f4190da0f73"/>
+	</game>
+	<game name="ELIZA (19xx)(-)[BASIC]">
+		<description>ELIZA (19xx)(-)[BASIC]</description>
+		<rom name="ELIZA (19xx)(-)[BASIC].tape" size="6199" crc="9bb20208" md5="6ef619d1efd4971eae1fc96a5efff77a" sha1="5b17cbfd072cb4a5aad81268968581bfe74f630b"/>
+	</game>
+	<game name="Interactive Budget Program (19xx)(-)[BASIC][Demo 2]">
+		<description>Interactive Budget Program (19xx)(-)[BASIC][Demo 2]</description>
+		<rom name="Interactive Budget Program (19xx)(-)[BASIC][Demo 2].tape" size="9706" crc="9a756689" md5="d14a9c5798ef057af6f59018a3042d08" sha1="ed292f813528767b285b8ad3268f5a405509a17b"/>
+	</game>
+	<game name="Savings and Loan (1979)(Johnson, Paul E.)[BASIC][Demo 1]">
+		<description>Savings and Loan (1979)(Johnson, Paul E.)[BASIC][Demo 1]</description>
+		<rom name="Savings and Loan (1979)(Johnson, Paul E.)[BASIC][Demo 1].tape" size="15216" crc="1014b15f" md5="f1b32e081c9aa9f017a1acd6a7c7e323" sha1="cda9927f20ffc8d14bf9bfa592b1ddf9389aa28b"/>
+	</game>
+	<game name="Serialboot (19xx)(-)[BASIC]">
+		<description>Serialboot (19xx)(-)[BASIC]</description>
+		<rom name="Serialboot (19xx)(-)[BASIC].tape" size="478" crc="e0a98f2d" md5="b2009644171b248d43d6742ed84bb866" sha1="4e3695fdc78142b78b24a4b6720bce4260c721bb"/>
+	</game>
+	<game name="Text Editor Program (1979-07-27)(Elston, Peter J.)[BASIC][Demo 3]">
+		<description>Text Editor Program (1979-07-27)(Elston, Peter J.)[BASIC][Demo 3]</description>
+		<rom name="Text Editor Program (1979-07-27)(Elston, Peter J.)[BASIC][Demo 3].tape" size="8545" crc="42bbdf26" md5="527df62ac214e42b9c67c012163d2169" sha1="025e8f858b7ecf35d1b530fd987053363c67256d"/>
+	</game>
+</datafile>

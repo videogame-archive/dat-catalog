@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX MSX - Games - [WV]</name>
+		<description>MSX MSX - Games - [WV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ninja (1985)(Hudson)(Side A)">
+		<description>Ninja (1985)(Hudson)(Side A)</description>
+		<rom name="Ninja (1985)(Hudson)(Side A).wv" size="133676475" crc="f3d64d31" md5="99b10c1e56870bfc4738472c64a0cd65" sha1="6db686f170923e0f341b1125ebab3beef4c9bb3a"/>
+	</game>
+	<game name="Ninja (1985)(Hudson)(Side A)[a2]">
+		<description>Ninja (1985)(Hudson)(Side A)[a2]</description>
+		<rom name="Ninja (1985)(Hudson)(Side A)[a2].wv" size="133166283" crc="66e9deb0" md5="8bfc6b886a4c0fddecbd46935f83f042" sha1="3f7b4d20c3d26f4b8e544ec9f2d1de74d2118bc6"/>
+	</game>
+	<game name="Ninja (1985)(Hudson)(Side A)[a]">
+		<description>Ninja (1985)(Hudson)(Side A)[a]</description>
+		<rom name="Ninja (1985)(Hudson)(Side A)[a].wv" size="133113515" crc="349394c0" md5="48ab34f6edce3e7c87db58f36f26c3a8" sha1="a234550de42725c2d85221908fdad065055c4859"/>
+	</game>
+	<game name="Ninja (1985)(Hudson)(Side B)">
+		<description>Ninja (1985)(Hudson)(Side B)</description>
+		<rom name="Ninja (1985)(Hudson)(Side B).wv" size="133680307" crc="b64eb127" md5="39a1d4f4d6aa03083db4e8e6606c06d0" sha1="41e346a9d45e756661c46c0c4fec88890dfbec70"/>
+	</game>
+	<game name="Ninja (1985)(Hudson)(Side B)[a2]">
+		<description>Ninja (1985)(Hudson)(Side B)[a2]</description>
+		<rom name="Ninja (1985)(Hudson)(Side B)[a2].wv" size="135233045" crc="96a62fd8" md5="04f5329941518ff2612f472d39c31347" sha1="2c36ad686a09530e8b3eb0ebb1ef0113e2558109"/>
+	</game>
+	<game name="Ninja (1985)(Hudson)(Side B)[a]">
+		<description>Ninja (1985)(Hudson)(Side B)[a]</description>
+		<rom name="Ninja (1985)(Hudson)(Side B)[a].wv" size="132512343" crc="6bba188a" md5="e636654e47eaf5e150553bc44e59620a" sha1="49dc7daad8881bd6811ff922c40e99e45a44f359"/>
+	</game>
+</datafile>

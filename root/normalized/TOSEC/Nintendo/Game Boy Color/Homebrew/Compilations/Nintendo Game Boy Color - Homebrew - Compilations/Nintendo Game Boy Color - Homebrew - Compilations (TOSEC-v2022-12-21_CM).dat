@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Color - Homebrew - Compilations</name>
+		<description>Nintendo Game Boy Color - Homebrew - Compilations (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Compilación cumpleañera de Luciano - Volumen 2016 (2022-08-06)(LucianoTheWindowsFan)(es)">
+		<description>Compilación cumpleañera de Luciano - Volumen 2016 (2022-08-06)(LucianoTheWindowsFan)(es)</description>
+		<rom name="Compilación cumpleañera de Luciano - Volumen 2016 (2022-08-06)(LucianoTheWindowsFan)(es).gbc" size="1048576" crc="38c26eb5" md5="a37519a43bcaaa02f5c68a1bd359b3a2" sha1="38c90405aa88f19a96543828bf45cb6b4e2e6ea2"/>
+	</game>
+	<game name="Luciano's Birthday Compilation - Volume 2016 (2022-08-06)(LucianoTheWindowsFan)">
+		<description>Luciano's Birthday Compilation - Volume 2016 (2022-08-06)(LucianoTheWindowsFan)</description>
+		<rom name="Luciano's Birthday Compilation - Volume 2016 (2022-08-06)(LucianoTheWindowsFan).gbc" size="1048576" crc="2e503df5" md5="d1c7c410ff21aafba503d47f2d046c2a" sha1="c8b10a11df47dd3936d08fdaa53ac3bb85cbb7e7"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Flexible Systems Tasman Turtle - Firmware</name>
+		<description>Flexible Systems Tasman Turtle - Firmware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SSR1 (1982)(Flexible Systems)(AU)">
+		<description>SSR1 (1982)(Flexible Systems)(AU)</description>
+		<rom name="SSR1 (1982)(Flexible Systems)(AU).bin" size="8192" crc="b78a1e81" md5="864beefecf0021fa6b0f5a5aff55c167" sha1="3adf6d6f16df67961ed5a7ecc93fb0c116da1b49"/>
+	</game>
+	<game name="SSR2 (1982)(Flexible Systems)(AU)[GUD-D]">
+		<description>SSR2 (1982)(Flexible Systems)(AU)[GUD-D]</description>
+		<rom name="SSR2 (1982)(Flexible Systems)(AU)[GUD-D].bin" size="8192" crc="e45bacf3" md5="d3924ecc0efda0a58c4bda43044061e4" sha1="0bea561f3e5fe972d6b304a960454041ad4378b7"/>
+	</game>
+</datafile>

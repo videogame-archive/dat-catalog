@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Adventure - [ARC]</name>
+		<description>Commodore C64 - Games - Adventure - [ARC] (TOSEC-v2022-04-18)</description>
+		<category>TOSEC</category>
+		<version>2022-04-18</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Elvira - Mistress of the Dark (1991)(Flair Software)(cs)(Disk 1 of 3 Side B)[Z64 Part 1-4]">
+		<description>Elvira - Mistress of the Dark (1991)(Flair Software)(cs)(Disk 1 of 3 Side B)[Z64 Part 1-4]</description>
+		<rom name="Elvira - Mistress of the Dark (1991)(Flair Software)(cs)(Disk 1 of 3 Side B)[Z64 Part 1-4].arc" size="127104" crc="85887963" md5="85cabb28c6abcbbb8b9bb0dac1c69f2b" sha1="1fad3d65692739f7e6333c9d714cdf8baa6fc06b"/>
+	</game>
+	<game name="Elvira - Mistress of the Dark (1991)(Flair Software)(cs)(Disk 2 of 3 Side A)[Z64 Part 1-4]">
+		<description>Elvira - Mistress of the Dark (1991)(Flair Software)(cs)(Disk 2 of 3 Side A)[Z64 Part 1-4]</description>
+		<rom name="Elvira - Mistress of the Dark (1991)(Flair Software)(cs)(Disk 2 of 3 Side A)[Z64 Part 1-4].arc" size="131072" crc="c847a199" md5="42756ea285e7e7923280870cc094a6d5" sha1="85a0262f9599562eb26756a2407bbb9a42a8f5c2"/>
+	</game>
+	<game name="Elvira - Mistress of the Dark (1991)(Flair Software)(Disk 1 of 3 Side A)[cr ENG+EMP][t ENG][Z64 Part 1-4]">
+		<description>Elvira - Mistress of the Dark (1991)(Flair Software)(Disk 1 of 3 Side A)[cr ENG+EMP][t ENG][Z64 Part 1-4]</description>
+		<rom name="Elvira - Mistress of the Dark (1991)(Flair Software)(Disk 1 of 3 Side A)[cr ENG+EMP][t ENG][Z64 Part 1-4].arc" size="133888" crc="a7529545" md5="223c0bf13bf88a2aa72bb69c9faa9caf" sha1="5193c90f53e4725ecb57389db108d90d84d81e68"/>
+	</game>
+	<game name="Search for Dracula&apos;s Tomb, The (19xx)(Bob Akerberg)">
+		<description>Search for Dracula&apos;s Tomb, The (19xx)(Bob Akerberg)</description>
+		<rom name="Search for Dracula&apos;s Tomb, The (19xx)(Bob Akerberg).arc" size="29972" crc="e84687f5" md5="d0aafb57acf0aefafbebfc5f31186970" sha1="b5115149d20e4ea28b4b53f777dc5f9aba466a81"/>
+	</game>
+	<game name="Wizard&apos;s Castle, The (1980)(Power, Joseph - O&apos;Hare, John)(PD)">
+		<description>Wizard&apos;s Castle, The (1980)(Power, Joseph - O&apos;Hare, John)(PD)</description>
+		<rom name="Wizard&apos;s Castle, The (1980)(Power, Joseph - O&apos;Hare, John)(PD).arc" size="11264" crc="29b11b89" md5="15ea4671d7a130c593cadc5a032e05c0" sha1="59f420df9b59ce98d5e43f90a7ef5393f066b495"/>
+	</game>
+</datafile>

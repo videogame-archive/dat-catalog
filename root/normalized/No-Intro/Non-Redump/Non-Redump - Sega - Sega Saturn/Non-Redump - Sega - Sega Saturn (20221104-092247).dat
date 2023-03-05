@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>167</id>
+		<name>Non-Redump - Sega - Sega Saturn</name>
+		<description>Non-Redump - Sega - Sega Saturn</description>
+		<version>20221104-092247</version>
+		<author>Hiccup, Seventy7</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Sega Saturn (Japan) (v1.003)" id="0057">
+		<description>[BIOS] Sega Saturn (Japan) (v1.003)</description>
+		<rom name="[BIOS] Sega Saturn (Japan) (v1.003).bin" size="524288" crc="b3c63c25" md5="74570fed4d44b2682b560c8cd44b8b6a" sha1="7b23b53d62de0f29a23e423d0fe751dfb469c2fa" sha256="cc1e1b7f88f1c6e6fc35994bae2c2292e06fdae258c79eb26a1f1391e72914a8"/>
+	</game>
+	<game name="Armed (Unknown) (Beta) (1997-01-22) [b]" id="0054">
+		<description>Armed (Unknown) (Beta) (1997-01-22) [b]</description>
+		<rom name="Armed (Unknown) (Beta) (1997-01-22).ccd" size="3035" crc="3fe56960" md5="c61fbb45833a793a10c42e72097ac823" sha1="158e53527a7d1d4718102487ff23ae6003518118"/>
+		<rom name="Armed (Unknown) (Beta) (1997-01-22).cue" size="805" crc="f7132de2" md5="4d6ef60491d0eb50f835536a2e0ba9ad" sha1="f35b406a34fe3f5a9cac2e6d06cbc8583f1d604a"/>
+		<rom name="Armed (Unknown) (Beta) (1997-01-22) [b].img" size="365975904" crc="3586adb1" md5="10484f3dbcb2bdd1c9b554a672af92ef" sha1="6c1f352c8c2ebbd56a2ada2eba1ddf0fcada6362" status="baddump"/>
+		<rom name="Armed (Unknown) (Beta) (1997-01-22).sub" size="14937792" crc="b3dc5bfa" md5="1ece4b9cb25f25d0bcbbfccc0358c6e6" sha1="df64a12a13b9ea6e4c6c2fdb4558a77a85f0e13e"/>
+	</game>
+	<game name="Astrocade (Unknown) (Beta) (1996-08-01)" id="0001">
+		<description>Astrocade (Unknown) (Beta) (1996-08-01)</description>
+		<rom name="Astrocade (Unknown) (Beta) (1996-08-01).bin" size="2620128" crc="4e2c4c7c" md5="032b41ddd896e206bf5d509307fbf4a4" sha1="55d7c5f86f98f2f2979b433500763dd51d137ba8"/>
+		<rom name="Astrocade (Unknown) (Beta) (1996-08-01).cue" size="131" crc="41541049" md5="003599982f01e2303e713a30d3033a05" sha1="17adf9a578c0a84a67a79fd9e3c04f36d6bda6a0"/>
+	</game>
+	<game name="Center Ring Boxing (Unknown) (Beta) (1995-11-26)" id="0002">
+		<description>Center Ring Boxing (Unknown) (Beta) (1995-11-26)</description>
+		<rom name="Center Ring Boxing (Unknown) (Beta) (1995-11-26).bin" size="146134464" crc="713220ef" md5="9b63d9cf8469dac2dcb39fa3d6eed018" sha1="da299760bb5e16261b5b8766b7c56402475d27ff"/>
+		<rom name="Center Ring Boxing (Unknown) (Beta) (1995-11-26).cue" size="496" crc="d4af983c" md5="d53d2ffbe0a451221c012848a4c4484c" sha1="d61734b2cc2fff320363947b232d5c24a12b6d7f"/>
+	</game>
+	<game name="Chelnov (Unknown) (Beta) (1997-07-23)" id="0003">
+		<description>Chelnov (Unknown) (Beta) (1997-07-23)</description>
+		<rom name="Chelnov (Unknown) (Beta) (1997-07-23).bin" size="197083488" crc="4cc2842f" md5="185c177bd9b0408c4d5442bca8acc650" sha1="fb6ffe54c44c827d704379c0fcac73da63e7cd0f"/>
+		<rom name="Chelnov (Unknown) (Beta) (1997-07-23).cue" size="431" crc="da8f85ed" md5="20b9118a966b7f0c393b1640adc3029b" sha1="0e48fb26b1bf3b8ea9743d1f9918b40743612bfe"/>
+	</game>
+	<game name="Chill (Unknown) (Beta) (1998-01-19)" id="0004">
+		<description>Chill (Unknown) (Beta) (1998-01-19)</description>
+		<rom name="Chill (Unknown) (Beta) (1998-01-19).bin" size="82618704" crc="606ef0a2" md5="e63b157cb13971603b537ab0fa366b8a" sha1="45616ba430af41f66160271ca92a4f6cee18170b"/>
+		<rom name="Chill (Unknown) (Beta) (1998-01-19).cue" size="163" crc="2843aede" md5="12b3adac663b8da8922afae9ba4f70e9" sha1="6599967bf2e7efc553a4c065d289ca0ce488c147"/>
+	</game>
+	<game name="Clockwork Knight 2 (Unknown) (Beta) (1995-08-30)" id="0006">
+		<description>Clockwork Knight 2 (Unknown) (Beta) (1995-08-30)</description>
+		<rom name="Clockwork Knight 2 (Unknown) (Beta) (1995-08-30).ccd" size="962" crc="41f582b2" md5="2f3f634ff1ce9452cb71aa67534772df" sha1="f0c59e62f20a5e698b48566227782e652ed76719"/>
+		<rom name="Clockwork Knight 2 (Unknown) (Beta) (1995-08-30).cue" size="151" crc="4e55e3cf" md5="d20ef8b1774835a4a916364919a6ddd4" sha1="583e80d657d41973c9ca30e03637e33f02c8dade"/>
+		<rom name="Clockwork Knight 2 (Unknown) (Beta) (1995-08-30).img" size="328527360" crc="258cbd0b" md5="35e1e64585c4ffa3faf60f8cbddcc8ad" sha1="381920ddd29f0612f64a9da31abe16681e4c3cd9"/>
+		<rom name="Clockwork Knight 2 (Unknown) (Beta) (1995-08-30).sub" size="13409280" crc="73363344" md5="14c9730c30161064cb7a758fe83e7f07" sha1="15ff43dc3856bb9c67bec644975c97676cc7f143"/>
+	</game>
+	<game name="Contra - Legacy of War (Unknown) (Beta) (1997-01-28)" id="0007">
+		<description>Contra - Legacy of War (Unknown) (Beta) (1997-01-28)</description>
+		<rom name="Contra - Legacy of War (Unknown) (Beta) (1997-01-28).ccd" size="3036" crc="2956acab" md5="43ac811463994562f0131d074b2adc91" sha1="ff1e224806b3c1f2920c262ddb565303d8a05ef1"/>
+		<rom name="Contra - Legacy of War (Unknown) (Beta) (1997-01-28).img" size="437815392" crc="6d079183" md5="446c00aeff5f9dba9bc6b96c03e3dd10" sha1="979ce019a593610aa3319d5b6c225da0fb935a7b"/>
+		<rom name="Contra - Legacy of War (Unknown) (Beta) (1997-01-28).sub" size="17870016" crc="1d79e30f" md5="6185fcae6d17f3ce50377437ac09638b" sha1="a1f1a3b75baeced42a0729d9b470eff92a8d2d3f"/>
+	</game>
+	<game name="Crypt Killer (Unknown) (Beta) (1997-01-08)" id="0043">
+		<description>Crypt Killer (Unknown) (Beta) (1997-01-08)</description>
+		<rom name="Crypt Killer (Unknown) (Beta) (1997-01-08) (Track 1).bin" size="426565776" crc="1ad33dba" md5="a5a45636a1ab7569b875d2bc4716e85d" sha1="5ae3e8bc1344cfc5f060118ef6920d5a40e7c29e"/>
+		<rom name="Crypt Killer (Unknown) (Beta) (1997-01-08) (Track 2).bin" size="1808688" crc="51638ae5" md5="2e5e6e0d77b5f51eacfe68387785d4bb" sha1="33f2844dac0f135e6b2b53f73814440d76d40cb9"/>
+		<rom name="Crypt Killer (Unknown) (Beta) (1997-01-08).cue" size="231" crc="ca99b377" md5="c1baa577251de2e072513e270de6aaba" sha1="89b65b60ed169f680c059a68ded7891c271a5b90"/>
+	</game>
+	<game name="Duke Nukem (Unknown) (Beta) (1997-09-18)" id="0045">
+		<description>Duke Nukem (Unknown) (Beta) (1997-09-18)</description>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 01).bin" size="70508256" crc="0871ae59" md5="dbab441f449baab1b15622d4e97dd9b3" sha1="17abb86d7888040831c5bf162f9b6022238ed480"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 02).bin" size="1105440" crc="750ca214" md5="5ddd7b7b3e4cbd088f5b15869cb0b1e9" sha1="f67ac897362f57eae4f68d4c81b3d51e7dcd56a1"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 03).bin" size="1058400" crc="4f673b4f" md5="605018c8dab226bbc5a587f03774bf93" sha1="325d9119d463ed8fca754cd8c75a8ff3f2a2dbd2"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 04).bin" size="1058400" crc="b0d76142" md5="908157102c7ad8ba46e76237c3c96d72" sha1="40a399d79805073792f9e362075498142f6872bd"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 05).bin" size="1185408" crc="65da49bf" md5="dd42975434897a12492e700ff8215453" sha1="414a70992e05a66f0055f2036ad526b83f5c6c9e"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 06).bin" size="1152480" crc="54c77d9c" md5="b4285ce86786985aade9fd9aaf23fc82" sha1="b7584c6b65a600cab18d271841f2072f2bd67ed1"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 07).bin" size="22167600" crc="42d0c20a" md5="f870825b58fd05e1ff1662c4b469a659" sha1="7c8e9427046591d58ef45dda152c5e35daf2bb2d"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 08).bin" size="29315328" crc="5e940555" md5="783e7feabd42943554e9eca093a114c8" sha1="a1ef130cd32f4096a86fa614afd078fd405b9ecb"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 09).bin" size="46292064" crc="f8285453" md5="29aed6e090fef5db3b97ecb9fdca1e96" sha1="3c5cb0ddd2c949e1848aac32ec05f57c6f298447"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 10).bin" size="37236864" crc="1987827f" md5="863d9dee94667e435ff0e05eb7b0f9b6" sha1="19e9d5a4ecec62412c4754f0727bb6eb7e06a010"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 11).bin" size="36996960" crc="fbee39a4" md5="4f0f31f52940965294b1676c02080040" sha1="03e2b1e938cc579625f76f2f772a1e29162d588f"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 12).bin" size="49961184" crc="289ff3f6" md5="718bf796ca697898091dd1b92efa1bcf" sha1="e7c253917c2d0b2472da9377ff798f9ddc177f8b"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 13).bin" size="16783872" crc="a6e48f56" md5="5fd9b3ef2494cec1da33dc63de15beb7" sha1="a0be59b1754c172a1ac7487ea7992e0ac533a415"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 14).bin" size="31450944" crc="f451b30f" md5="beef5a0392da30f467d685dacc81795e" sha1="5db74676ca8a35343ef298a16266bc8d922790d5"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 15).bin" size="26532912" crc="e40f4b4f" md5="26e3a68a5247cbb87246135b36aff0c8" sha1="6545ea331d7ffe1aa72a7211f264c7ed26a5b518"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 16).bin" size="28214592" crc="e7ff0d7d" md5="fe0d1bb869f190b4110dbfcbdbc6de65" sha1="f8a2de87d8a811913589c993a767f1d56de02417"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 17).bin" size="38676288" crc="2fe70243" md5="fe7ffa0daf75b5802d0aade9089b090b" sha1="f094269110a35559cd60ddfb4bef291dc1a19992"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 18).bin" size="39271344" crc="bf479986" md5="e32fa5d77992ee8b273ce676fbf2e42d" sha1="07233818b4d6a7fa36f9d6e3c4951d71a220bf78"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 19).bin" size="32650464" crc="b4df78c1" md5="ffe31dd688af6af1bfb069fd0bd91ce5" sha1="9e085cdc4d2be3fdb635cbcb02ba6c8331629267"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 20).bin" size="46484928" crc="ee51c25a" md5="bdd76ee24d883a7835d7d9871ba240f6" sha1="cf5092677217c3b59779cac5c8e38c10f81b5b9c"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 21).bin" size="1832208" crc="1e33de1c" md5="32ce242f7940a2f99757689f57f67ea5" sha1="53f37ee8dfa7fd7e18e56b4a19717c90ee6ecd64"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 22).bin" size="1768704" crc="872038f8" md5="bab1568d770533a64be37d479c3797ff" sha1="688d3d9996009fda752cc056ee466f8f6682e7fd"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18) (Track 23).bin" size="2638944" crc="ce5c2791" md5="aabd9507a6b458db00486cc3219a38ed" sha1="2d8ba8ec80befa6d6099fc0ae9cb967d1636aadd"/>
+		<rom name="Duke Nukem (Unknown) (Beta) (1997-09-18).cue" size="2581" crc="a2d4f9a5" md5="ec2ce2bd24d5f2261dd8befe4adb94e7" sha1="dd1b9550bd186f30d915a1be65bb21481baadb73"/>
+	</game>
+	<game name="Earthworm Jim 2 (Unknown) (Beta) (1995-12-29)" id="0009">
+		<description>Earthworm Jim 2 (Unknown) (Beta) (1995-12-29)</description>
+		<rom name="Earthworm Jim 2 (Unknown) (Beta) (1995-12-29).bin" size="173323584" crc="46c4625d" md5="5735f2434fffc34001c03fc650c5c8c6" sha1="9ad87d9d2df0b0cbe8d2dfd19e9cc452b0014a2f"/>
+		<rom name="Earthworm Jim 2 (Unknown) (Beta) (1995-12-29).cue" size="941" crc="3b615340" md5="0905b24baf3776e70336c69fd2044686" sha1="6d50ed7c2c20ae79f113828ce123b4501dcf456b"/>
+	</game>
+	<game name="Earthworm Jim 2 (Unknown) (Beta) (1996-01-05)" id="0010">
+		<description>Earthworm Jim 2 (Unknown) (Beta) (1996-01-05)</description>
+		<rom name="Earthworm Jim 2 (Unknown) (Beta) (1996-01-05).bin" size="12743136" crc="00db1056" md5="642317bb84cf6df7f8a6ebeaf292dd78" sha1="82924dc9459893557b20912df91427a02d965ca3"/>
+		<rom name="Earthworm Jim 2 (Unknown) (Beta) (1996-01-05).cue" size="111" crc="c5c7829d" md5="6a0f633c92ccde8e954a66c78252c083" sha1="e8c7aa50b9bd87642138f09a3edd5623faf11b16"/>
+	</game>
+	<game name="Ferox (Unknown) (Beta) (1997-07-29)" id="0011">
+		<description>Ferox (Unknown) (Beta) (1997-07-29)</description>
+		<rom name="Ferox (Unknown) (Beta) (1997-07-29).bin" size="1988608" crc="34360c32" md5="4d8b0b15b1110e4af749638933d058ca" sha1="84e6c5250cb0952cd71f37496b8574a1356613ee"/>
+	</game>
+	<game name="Fighters Megamix (Unknown) (Beta) (1997-04-08)" id="0046">
+		<description>Fighters Megamix (Unknown) (Beta) (1997-04-08)</description>
+		<rom name="Fighters Megamix (Unknown) (Beta) (1997-04-08).cue" size="3804" crc="109efbfc" md5="112b8ac96eb72fee30d9ee640301e1be" sha1="5a175983af338ce6d80626e0338284a561e73812"/>
+		<rom name="Track01.bin" size="59750208" crc="0c785d84" md5="5ac6a8c2d5cd7745a59128a2d3e6714f" sha1="5a6b7c682b802180e53704b796961eca033e9f1d"/>
+		<rom name="Track02.bin" size="1255968" crc="68dd6694" md5="a344acdfe8c6890abebaf279ba8d0de5" sha1="c02297828dcb60e52630faed3a2a070ce57991b0"/>
+		<rom name="Track03.bin" size="1432368" crc="9f403bb5" md5="5442c454f794018b2bfc882b820991c7" sha1="8a25524171904461c17df303dac1c365fa76467b"/>
+		<rom name="Track04.bin" size="1437072" crc="7e4232ac" md5="a854bdb9330f97e4577e3d49e483e183" sha1="3e01b5605984ebe6050509329441f36b20011c53"/>
+		<rom name="Track05.bin" size="1712256" crc="a68d48f5" md5="2406d55f5d0517d46abcf88e699809da" sha1="916121ff62d55b41848aa17297635657c828ad5a"/>
+		<rom name="Track06.bin" size="2053296" crc="21e0dc82" md5="5c94d0ba1d648ddc8047b89da17bdb63" sha1="be9cc60be8b2f1bc1fa2b48fa7e4273165e2f6be"/>
+		<rom name="Track07.bin" size="2798880" crc="a1100bc4" md5="4bd6d24057bc49150046f37184bb5f87" sha1="2586077cea023209457fb5b1f6bb1bce82f834ff"/>
+		<rom name="Track08.bin" size="11353104" crc="3f466c25" md5="8c49a002abfe8af3a610a692920164cd" sha1="108fca44f3a87b2ba5aee4563d0fc1788a40a52f"/>
+		<rom name="Track09.bin" size="15657264" crc="f98df815" md5="cc2c99ecf51d765e9d62253e4262ca47" sha1="c7f5c4e0e1b49be9c6826d719720b087d527948d"/>
+		<rom name="Track10.bin" size="8645952" crc="d4df1edd" md5="2338005529e698474eeeed581607beb8" sha1="e4cff7656590fd0f90c463ea175cb9e64882c0b1"/>
+		<rom name="Track11.bin" size="16583952" crc="0da8cfb9" md5="23c4c03faf9b2b0739439581d6f9f7a7" sha1="08501092fe57bff77f147bde79ef6c3f7a197740"/>
+		<rom name="Track12.bin" size="16593360" crc="c3c0a0ef" md5="3a98fa3965f6c72f5e8fac759ac36968" sha1="87d892363db30cf0e1fc6110a1016f186e513df9"/>
+		<rom name="Track13.bin" size="16586304" crc="90bbb46c" md5="149d3c56d535e3b0d0a4b61c88e77842" sha1="3433db0876bb714f2b28575c361f97a26a621d28"/>
+		<rom name="Track14.bin" size="16588656" crc="99ab6750" md5="3e9c2bcf91c01a1f325841a0c08cecdd" sha1="0f80be025db2c96fa7e8d343c95d922d112c7871"/>
+		<rom name="Track15.bin" size="16586304" crc="2a538729" md5="2db425f0f01d201f0eb0f8b630247d10" sha1="16c194ea69210c1e636236a6b3067e399b18cf12"/>
+		<rom name="Track16.bin" size="16583952" crc="d900f95c" md5="c43262dcf4908bd13aae99b3e26a39c4" sha1="001739a8bfafb9c5a1917e4f06df545340dd3bce"/>
+		<rom name="Track17.bin" size="16583952" crc="2872fe1e" md5="be4cf8a8adf8f011d60fdb2f0c9a255f" sha1="eed7fcd1478b57a57d7f977ab21291a0b0b5d33d"/>
+		<rom name="Track18.bin" size="13937952" crc="cf881c04" md5="c01ca4a90c65593c0d28ee43e6b0f529" sha1="1d1d239e8f1cb76c0b2b1560b23486502b926c21"/>
+		<rom name="Track19.bin" size="16583952" crc="f8781ceb" md5="b03056d66caa0b6cdd87e865d40222a6" sha1="11c8c95e74b08ddc434c056606085ee3ef58320f"/>
+		<rom name="Track20.bin" size="16588656" crc="bd793ae0" md5="037f4dcae809bafd1b494dfb66ebf6da" sha1="e489c8e41b5439ceb2d11894989b3fcecd992977"/>
+		<rom name="Track21.bin" size="16583952" crc="37d1f3c1" md5="5adfac8f693e69c043bfa15b27e83889" sha1="1575f481b918ecb560890cfecdde87e18a533e85"/>
+		<rom name="Track22.bin" size="16586304" crc="558cd13f" md5="c5ad5c75ed4be058c4cb28d56158a911" sha1="60f3e674be802c64b2dabfe3668adeb26b2abbec"/>
+		<rom name="Track23.bin" size="13937952" crc="3cda80f4" md5="55d2202c60a290f41859319046ff02bc" sha1="10545247e6927b3d22ff4a33b6697f66acb6b838"/>
+		<rom name="Track24.bin" size="13937952" crc="18f59751" md5="807c70b19a479294c799d21585ac5967" sha1="15b42695cb81c960101c4f12e0bccfa74cfb5def"/>
+		<rom name="Track25.bin" size="13937952" crc="fce1a445" md5="afeebb9e4001a487ae9593aeacb8e6e8" sha1="239077aec34ff9a935fe9e3bb21249479ca102a3"/>
+		<rom name="Track26.bin" size="13937952" crc="bfd57e36" md5="ee7c7182d229afb76ed9b8e25d768b8c" sha1="398615a2f51b7ca3f4677791005cd81eafefe3dc"/>
+		<rom name="Track27.bin" size="13937952" crc="773286c8" md5="ec72eb44be7669d5ffbf0b06d205e1e4" sha1="b1b4d1a0f3901de2a9e85ad1f3a90e301c7005f5"/>
+		<rom name="Track28.bin" size="13937952" crc="18badd9b" md5="fcc56be38bd4c349e88e38248093ef70" sha1="c2f84c841b4bac35904217ece39d13e9bf469f11"/>
+		<rom name="Track29.bin" size="13937952" crc="478f178a" md5="8f513102832256c7bbd8670cff004150" sha1="8496de5afd8a32d88b0552021251b5728bf9bd4e"/>
+		<rom name="Track30.bin" size="13940304" crc="fcfcb088" md5="661bc1c7ff505765e4199d11db2f5458" sha1="bf04870d3643b7dff15226767192b38c039b6820"/>
+		<rom name="Track31.bin" size="13937952" crc="f655149a" md5="f64b8afd99d4d76303730f5d64f2e79f" sha1="e684610d5c827bc3dfb5c10399821871c4188cf9"/>
+		<rom name="Track32.bin" size="14140224" crc="b679d9df" md5="41f99a9c5b449dfef791aa016968b93a" sha1="1b10ea78a27a5831a3da818913ce38ba9dc8e57a"/>
+		<rom name="Track33.bin" size="13940304" crc="37b67f5e" md5="e7bf9905ddc2d3acc767d9af1358f75c" sha1="97da32b3475b36982a1464ea9a3eb006e798d22c"/>
+		<rom name="Track34.bin" size="13940304" crc="636ad001" md5="86ca6c0e5925969f657b704d695713c9" sha1="1cf8e049f4aa8eb385648f4e73047d79faf993b8"/>
+		<rom name="Track35.bin" size="13937952" crc="b862ba81" md5="fdcf9bfc490c8e7ba9c460ddd64877b8" sha1="d121ffc25172dba5f17a07f2449afc2b9496f246"/>
+		<rom name="Track36.bin" size="17176656" crc="a2ef790f" md5="09219199a461277c12e18aa7620e27a4" sha1="db9c817b48912b4099c1318b663cc1d5916702dc"/>
+		<rom name="Track37.bin" size="13937952" crc="5133daf3" md5="d324b56eaf703a1d42684c7f1eb0d80b" sha1="fddf3610ee92817fa136e676ffb3c74d16aa8fae"/>
+		<rom name="Track38.bin" size="13937952" crc="972473a7" md5="cb318d9e46496543da523786bc3a45ef" sha1="1d78b14ff854864067ab965324a4bf72db9af4fa"/>
+		<rom name="Track39.bin" size="13937952" crc="736e7305" md5="f7f6e8c432018978e7268e99c2ba3a34" sha1="3f0ae296c8637cc3ddda43dbcd3209b8792adb92"/>
+		<rom name="Track40.bin" size="13937952" crc="8a6d348e" md5="f1cd8d929448dc2695b358ae9696e1dd" sha1="02e7117d3a735478755789da5afa63cb6b19565c"/>
+		<rom name="Track41.bin" size="13937952" crc="cebe011c" md5="145c44d7bdf31c96f34a349be6cb2b2c" sha1="21b8510929813ac5ddda6e2fe510fda8bc150708"/>
+		<rom name="Track42.bin" size="41564544" crc="8ee7c9f0" md5="a49e96df0520d891720a5768653cc6d5" sha1="a4f9356dc75df024f3d715f1e4b932f4b22330de"/>
+	</game>
+	<game name="Fighting Vipers (Unknown) (Beta) (1996-09-06)" id="0047">
+		<description>Fighting Vipers (Unknown) (Beta) (1996-09-06)</description>
+		<rom name="Fighting Vipers (Unknown) (Beta) (1996-09-06).cue" size="1529" crc="45a028ad" md5="489200738fd08402aeebde9d8e02b164" sha1="c1312fadc66483c08c2c1e6c61ad373beb0b2a6a"/>
+		<rom name="Track01.bin" size="81005232" crc="36044f4c" md5="0d2e1868fc75fa326ec7eccd74e5a9f3" sha1="eba85657efdb5d2efa62a3983963245240670f14"/>
+		<rom name="Track02.bin" size="26067216" crc="50d71f5f" md5="8efdb85073cceb91642b48ae919f5ce6" sha1="3bc27387e14cae87ec92016bb35fbccc5d0ea85d"/>
+		<rom name="Track03.bin" size="3864336" crc="db4f9676" md5="614f3d5f467147bb30414029fea1110d" sha1="10036aee90c0765200be200a90ac285205870380"/>
+		<rom name="Track04.bin" size="1079568" crc="38adceda" md5="c82ee668bcc34945d625a127d1d7c42b" sha1="29c256497d43e74c90a58907d78c1f225a37d6eb"/>
+		<rom name="Track05.bin" size="8366064" crc="8f5aa06b" md5="896853898a11825aaf713a46cb0893ea" sha1="7249a81f4ced70578b405ebf4e849a69377849f9"/>
+		<rom name="Track06.bin" size="16113552" crc="d1366212" md5="e8d62a8c1cd72253ef1dc181857fb541" sha1="1d0049a808c6a622d2a5e9d0f9f45ec18fdf5cfb"/>
+		<rom name="Track07.bin" size="25077024" crc="94ce75f1" md5="bbc641d97d1d6f14e2e19712c4f3c887" sha1="2f2829d54ee536733d79049291d61de0e80199f9"/>
+		<rom name="Track08.bin" size="31145184" crc="3f28f9ca" md5="050dc58c40f8b4f6b8f3a34de9f41ec5" sha1="4048ffdea96a75c6c4c9b00b4dce0ba3c60af3b3"/>
+		<rom name="Track09.bin" size="27614832" crc="d911471b" md5="3f464485ae19fdca1ee10d86bffabc57" sha1="611fe698b4c5032ebd56daa986a6e167d7b3b50f"/>
+		<rom name="Track10.bin" size="30027984" crc="6e78d795" md5="d2c21415ab347504c6ae3f52a010aa99" sha1="2c038026c10bfb76e376880832b4c3535d0252de"/>
+		<rom name="Track11.bin" size="25037040" crc="e039f1f7" md5="247e71999dd83678317ff471e0c23644" sha1="8fcc9ee8dd04f46f49c9e17f5f3d8bf2cfd145fd"/>
+		<rom name="Track12.bin" size="20836368" crc="f0a9960a" md5="c94b47680568d53cf161ffbefdc21fb5" sha1="e804c380f02b25b42c6ed86e1ac8be74f25ae3a3"/>
+		<rom name="Track13.bin" size="22816752" crc="482c93eb" md5="b0dfb9e32fe7fe8831684b7b731537fd" sha1="02e7cede998000907772a62e22841a2105427d7e"/>
+		<rom name="Track14.bin" size="26196576" crc="904ec4a9" md5="bda80148fb62e8aa6a4c4c496cb7688e" sha1="079682a420851c3eea7cb97f236bf696893163c5"/>
+		<rom name="Track15.bin" size="25044096" crc="f49ed1cb" md5="9ed9cea4bf881e093b4653870d17cb55" sha1="7834bd1e92b11c16b6c57dd894cb6940d65e9cd5"/>
+		<rom name="Track16.bin" size="14431872" crc="bdcbfcda" md5="754be3d41e8614b57c4530929c40ea8b" sha1="be472c80e6e29e064810c85a209b9529b78ce9e1"/>
+		<rom name="Track17.bin" size="15290352" crc="13a29677" md5="a22679ae977b858f66b5f765e78439bd" sha1="405bcdf12f52cd89fb552d91e15a28698337d476"/>
+	</game>
+	<game name="Hexen (Unknown) (Beta) (1996-12-12)" id="0012">
+		<description>Hexen (Unknown) (Beta) (1996-12-12)</description>
+		<rom name="Hexen (Unknown) (Beta) (1996-12-12).ccd" size="3880" crc="575181a9" md5="63f530e56e850e6c3d971ced90ae6c36" sha1="c554526cb940b6a7689ee451d52eb1d0382ec90b"/>
+		<rom name="Hexen (Unknown) (Beta) (1996-12-12).cue" size="1006" crc="e6d3ef27" md5="5b064ed738e92170a68cb652f29d9bc3" sha1="50bb0dbcf5497bfd8ec30f583b55dc3c562d1f9d"/>
+		<rom name="Hexen (Unknown) (Beta) (1996-12-12).img" size="616141680" crc="717e5001" md5="b3ffe9fec5db2a25e11b2d343b396db9" sha1="e2e6788ad812d850083494cd7644e07d83735436"/>
+		<rom name="Hexen (Unknown) (Beta) (1996-12-12).sub" size="25148640" crc="1ae82f53" md5="fea7d81d4d53e4c5b2b6deb9d1dc677b" sha1="3c2a033d5c88595222d78c49b0d997dadc60c0e8"/>
+	</game>
+	<game name="Judgement Force (Unknown) (Beta) (1996-11-26)" id="0013">
+		<description>Judgement Force (Unknown) (Beta) (1996-11-26)</description>
+		<rom name="Judgement Force (Unknown) (Beta) (1996-11-26).bin" size="53439792" crc="57491170" md5="0f80725173ce62c8e750b51e572b6a2f" sha1="80a35572f4fade9ccad7f62c63a743761fb82a94"/>
+		<rom name="Judgement Force (Unknown) (Beta) (1996-11-26).cue" size="214" crc="a9272019" md5="f0082e9642ad22675a8f21e2a767b935" sha1="341c188487859bd49febda3581c68a511ea2c645"/>
+	</game>
+	<game name="Lightning Gunner (Unknown) (Beta) (1997-04-14)" id="0014">
+		<description>Lightning Gunner (Unknown) (Beta) (1997-04-14)</description>
+		<rom name="Lightning Gunner (Unknown) (Beta) (1997-04-14).bin" size="2023424" crc="4f88817d" md5="64591755a0460ad56e95c1a18fe050ec" sha1="fa680537baa954f9fc1aedd48ea5d5927917eb6b"/>
+	</game>
+	<game name="Loaded (Unknown) (Beta) (1996-09-03)" id="0048">
+		<description>Loaded (Unknown) (Beta) (1996-09-03)</description>
+		<rom name="Loaded (Unknown) (Beta) (1996-09-03).cue" size="2712" crc="a2cd8590" md5="841116251aba7502eaa1c41d40ead0a7" sha1="945e955de8d6213591979261120e56980e5d432d"/>
+		<rom name="Track01.bin" size="40818960" crc="c8cf6e19" md5="b546e3ec4a71fc187f684ee0e0e9c873" sha1="a30b3723718205259d75c2bca8db312c8aa724ac"/>
+		<rom name="Track02.bin" size="65263296" crc="b1c9afcd" md5="a52379dc372fa4a6a661e3a00f501b55" sha1="60025855e2e63b40d0c2dd792ded83b32013a5dd"/>
+		<rom name="Track03.bin" size="53303376" crc="3e5d16ab" md5="884db5f2bd1e7eb9b1f41c3756e7b03c" sha1="7748b6ec401018477e898eedfdc37c026fca7fb5"/>
+		<rom name="Track04.bin" size="39240768" crc="0c5c9de1" md5="36282d648ae4f1884709c897b1b3ffe5" sha1="3be5e0a39e3b6d078009285024c56e0b94e63233"/>
+		<rom name="Track05.bin" size="37453248" crc="ee875b64" md5="0f4a72860757d6c03860a6994d294de9" sha1="40861377e145dde6624d54712ac31ceaeb732785"/>
+		<rom name="Track06.bin" size="59799600" crc="f9fb3f02" md5="7255f4028c21f0b933a820ffa3610ac2" sha1="c0b1d20787c567a2576268e32d32490aa35d6af5"/>
+		<rom name="Track07.bin" size="55020336" crc="10ae38ed" md5="2c3eff9d891f9c8492e33fc5e3e597e4" sha1="eef24801913d77d07291fff8aa653e73c4343e53"/>
+		<rom name="Track08.bin" size="35907984" crc="9b97bb49" md5="6f2376baf342ca90c4838f29f897092a" sha1="0d36586281bbfb95decbcab499c2d9bc8dddcae2"/>
+		<rom name="Track09.bin" size="37403856" crc="c4607856" md5="6b9e7ce872a0630862bb508449bc358e" sha1="500540fba3a9193fa08aa36343c703c303e53c3e"/>
+		<rom name="Track10.bin" size="9932496" crc="2cf20b88" md5="e38cf00ff2c798696719bc1e265829b1" sha1="f83809df490a386890b7020e9ca4e92e95ca8144"/>
+		<rom name="Track11.bin" size="10104192" crc="e2fb4a27" md5="609e9288b616e8c3158bf436cccdd052" sha1="b5b9c563c9c5541328aa2350bd25bdff7df23bbd"/>
+		<rom name="Track12.bin" size="8836464" crc="085b4376" md5="0f7cb77dc2aad3884678673c074d3e5a" sha1="e1adec757d0d9cab57eb88ca8f18f71546efee16"/>
+		<rom name="Track13.bin" size="8702400" crc="b270cf40" md5="054d006cb5ce00e59ce5a81cd620edf1" sha1="45c83e989455b919a895eae028604eea3a40bca9"/>
+		<rom name="Track14.bin" size="8189664" crc="8256f5be" md5="09bb1a15b119232536042081a8fac213" sha1="4cba0cb704a14d777be13702973d8e3af274dde9"/>
+		<rom name="Track15.bin" size="10614576" crc="9d781595" md5="4686e1918a11bf7838a74505e2242c30" sha1="2e0411f9d6da9fd9da5669a3330e6315170a438d"/>
+		<rom name="Track16.bin" size="10144176" crc="eb754763" md5="669048b905cbb71c1098fce3c2dbbf02" sha1="1bd537eb526e545f3740a27e213425dd506c02b4"/>
+		<rom name="Track17.bin" size="8034432" crc="053b6af3" md5="054fb8cff7ea34a6d23677c63cd0568b" sha1="0ab1b15d64ccbbf891b5ca0ea8f0ba270cfbe036"/>
+		<rom name="Track18.bin" size="13060656" crc="309dfca5" md5="cc07aa4b92ff250db2b9fc408b21bbac" sha1="4d7573111480a5eabaaeac9f62b0e443b7f95c8c"/>
+		<rom name="Track19.bin" size="6110496" crc="97f0166e" md5="68ff8c9d65fe502971df34ab4df05505" sha1="4b8d946fe7df662a20bc4726f622980b7e4026b9"/>
+		<rom name="Track20.bin" size="8147328" crc="48f4fc55" md5="7af99f5c9fd0f8348757359fff00cdeb" sha1="c927f39634b566104f10eb5f8d2ba8b52de2be7d"/>
+		<rom name="Track21.bin" size="10125360" crc="a5983a08" md5="88e22c8ae1525a211ff6ed45672ff934" sha1="f9ef3489e299a797ca545ced0ae653af364424a0"/>
+		<rom name="Track22.bin" size="12966576" crc="07e06c39" md5="4d2c0b1fea9cf6934ba983ef1fb2679b" sha1="25c8a8d85722c1fbdedecae9c01b7035c31ca30a"/>
+		<rom name="Track23.bin" size="12599664" crc="a685a3b9" md5="4b63b001e08b94ea11b83dd899f95011" sha1="63a87e0f62791992198136f90fdbb5f55689e5d0"/>
+		<rom name="Track24.bin" size="9868992" crc="665dddfa" md5="4b8e4527828f78c8a4d232c576a7b92a" sha1="cbf859095d37a6031c567198cba89ff629ea4be4"/>
+		<rom name="Track25.bin" size="13018320" crc="94cba1a3" md5="0b00a2db73e6a2602c26b1c9cb53fed6" sha1="b10cd85d9bc1ade28b4001a29d59ecd07c2983c9"/>
+		<rom name="Track26.bin" size="16459296" crc="a0f5c8a3" md5="213c77447a00bb7a284873b5e6f84431" sha1="d083d363a18dca294c02fa9cdb916d60528d2edd"/>
+		<rom name="Track27.bin" size="9356256" crc="bf728809" md5="9eca07d1ab0ccf29211e4129fb0a1567" sha1="a233b2b49cbcb5960567ed53581dde76e73624af"/>
+		<rom name="Track28.bin" size="5212032" crc="4e127635" md5="473227dd1dbf42b8eb7529c97aa4819c" sha1="4ba47add092a5a7fa470ff91373eaf54c5dbbfca"/>
+		<rom name="Track29.bin" size="6101088" crc="06eea965" md5="867c81c4a7ca85f131fea6d07cfb5f5b" sha1="9dc58a840541abbdb6dc495148ba022e900a1185"/>
+		<rom name="Track30.bin" size="6580896" crc="3a286d70" md5="f3d2145416765d8b55cf9f69a67b9161" sha1="108c2f3165906d483f4fd2b2523bd0f38c319135"/>
+	</game>
+	<game name="Major Damage (Unknown) (Beta) (1996-07-14)" id="0016">
+		<description>Major Damage (Unknown) (Beta) (1996-07-14)</description>
+		<rom name="Major Damage (Unknown) (Beta) (1996-07-14).bin" size="252971712" crc="e230195a" md5="d0d4ab851e02addaba899a577f5111d2" sha1="ba8059a94539099eb68df5e3b0eaf660fa2060e6"/>
+		<rom name="Major Damage (Unknown) (Beta) (1996-07-14).cue" size="621" crc="d06fd101" md5="b82b8522d571ed1cb37195926c298d5c" sha1="0df947c5878231234078613ab7e91f2dd7c2a591"/>
+	</game>
+	<game name="Major Damage (Unknown) (Beta) (1996-06-14)" id="0015">
+		<description>Major Damage (Unknown) (Beta) (1996-06-14)</description>
+		<rom name="Major Damage (Unknown) (Beta) (1996-06-14).bin" size="253025808" crc="ecd136a1" md5="0be94f046f987c6825a76f49e72bc442" sha1="7b306bc1f8b9c468bd54b5e618841c24a7ea2d24"/>
+		<rom name="Major Damage (Unknown) (Beta) (1996-06-14).cue" size="874" crc="a63f158c" md5="315ca3a98f2954d2b1fcb0798e02c7fd" sha1="c2588bff7c7ffc072e8b10ddb3d65dd9b0a895b7"/>
+	</game>
+	<game name="Mortal Kombat II (Unknown) (Beta) (1996-01-02)" id="0049">
+		<description>Mortal Kombat II (Unknown) (Beta) (1996-01-02)</description>
+		<rom name="Mortal Kombat II (Unknown) (Beta) (1996-01-02) (Track 1).bin" size="26804224" crc="6487a375" md5="4efd529136d3e51e15bc262894a210ec" sha1="af26f4b9528f56e6fbb9809af62546359bfea07d"/>
+		<rom name="Mortal Kombat II (Unknown) (Beta) (1996-01-02) (Track 2).wav" size="705644" crc="9d628ad0" md5="45e75c05a74c6c400bf4df43c6e5be4a" sha1="7766fddb750cc8522a94467e36b5d1cf5021fc15"/>
+		<rom name="Mortal Kombat II (Unknown) (Beta) (1996-01-02).cue" size="262" crc="87569596" md5="ce58f5c40337a44936ec98c4243288e5" sha1="7a756e67ab1b74b565b257522b45a7ac43d17292"/>
+	</game>
+	<game name="NHL All-Star Hockey (Unknown) (Beta) (1995-08-10)" id="0017">
+		<description>NHL All-Star Hockey (Unknown) (Beta) (1995-08-10)</description>
+		<rom name="NHL All-Star Hockey (Unknown) (Beta) (1995-08-10).bin" size="405411888" crc="c8ff339a" md5="e97829430e5281157d209060281dcfa3" sha1="eadf5c4d5a2cdaea8219266208383df6f27ceebf"/>
+		<rom name="NHL All-Star Hockey (Unknown) (Beta) (1995-08-10).cue" size="177" crc="179d3aee" md5="9f321ac3f2d857efb0c7a7921ee4f382" sha1="a2eb4f2d86764c6c02a7a8ab315f71e3a5f6d921"/>
+	</game>
+	<game name="NiGHTS into Dreams (Unknown) (Beta) (1996-05-14)" id="0018">
+		<description>NiGHTS into Dreams (Unknown) (Beta) (1996-05-14)</description>
+		<rom name="NiGHTS into Dreams (Unknown) (Beta) (1996-05-14).bin" size="193207392" crc="bbb1cc36" md5="7b5084cf131847bd42174505b45a2c84" sha1="56bc4ed94121f9575ead1e0452cbe4fb01a91fef"/>
+		<rom name="NiGHTS into Dreams (Unknown) (Beta) (1996-05-14).cue" size="1523" crc="0f08f73d" md5="5ef5ea55635c7267b6d00abe9ed0fce5" sha1="dab3d92b9e0383324d84b8646819355406785abf"/>
+	</game>
+	<game name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-22) (Disc 1)" id="0023">
+		<description>Panzer Dragoon Saga (Unknown) (Beta) (1997-12-22) (Disc 1)</description>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-22) (Disc 1).bin" size="663830832" crc="0cb508e8" md5="854bf84fb50baa5aa5b9ea9826fbf273" sha1="101258e73dbb8f68a626e9d1290f27c92788801f"/>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-22) (Disc 1).cue" size="250" crc="54ec9a3b" md5="743c16e699762cc2655c192460f10c5e" sha1="98828a6e536cff7efe3b0e9e512b1da6a713eeb9"/>
+	</game>
+	<game name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 4)" id="0025">
+		<description>Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 4)</description>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 4).bin" size="646101456" crc="4895fd89" md5="ab3ca1bcd7c1b41b451ce889940d1af1" sha1="0914f0e5930d64d3a6fb35e8852532af06b8e219"/>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 4).cue" size="314" crc="54893ac4" md5="97224fbc695768da902a9b0fc7e600d0" sha1="1d1db0bebb72d80bffb826ba7a49edd7a65fe68f"/>
+	</game>
+	<game name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 3)" id="0024">
+		<description>Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 3)</description>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 3).bin" size="665465472" crc="856077d0" md5="4be5039f52bf363eddb3c9e1a779850c" sha1="499fe6b1e7810c3b665ae108f894aeabc387317a"/>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 3).cue" size="250" crc="a2f27441" md5="f55584e7c586ab9ee78056c611dfdc90" sha1="e83241c9a254a2e40cd0db908e5bfac70b4bb4b8"/>
+	</game>
+	<game name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 3)" id="0022">
+		<description>Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 3)</description>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 3).bin" size="652129632" crc="fa201594" md5="fc46061c6bb7ae171b4722d01c8ae5a6" sha1="eb74f652df6b2e945d7cdb557556b5f5a4c1dafb"/>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 3).cue" size="250" crc="8cf1af94" md5="6d2cf1e5c1b23aec9214f61f8ad985b2" sha1="0a7200c34babe544fd476052abb182f4217af42c"/>
+	</game>
+	<game name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 2)" id="0021">
+		<description>Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 2)</description>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 2).bin" size="578109840" crc="5f7d58ab" md5="7ad0b713809a9bf790ed331ac03ef6cd" sha1="5ef4e42cd58ff8b51bff55f1808700d5ae5acbcd"/>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 2).cue" size="250" crc="eadd1164" md5="f6f20fb5a75f1c55f7c3188d33c351f1" sha1="19863dc9a048dff7fb7e7505388d29963dd7b3f6"/>
+	</game>
+	<game name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 1)" id="0020">
+		<description>Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 1)</description>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 1).bin" size="663748512" crc="2267ad3c" md5="fb9fa74c506c8a24c0628aba342496fb" sha1="d1c7793e388cf564eeb4da6af42f7cc27ad1f6b9"/>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 1).cue" size="250" crc="19282792" md5="824c6ff02656f93c531187b269a8c2f1" sha1="512a75adf94d96bf8a05fab7daed983b82ce5063"/>
+	</game>
+	<game name="Panzer Dragoon Saga (Unknown) (Beta) (1997-09-16)" id="0019">
+		<description>Panzer Dragoon Saga (Unknown) (Beta) (1997-09-16)</description>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-09-16).bin" size="516903744" crc="4973efed" md5="31d70ea8c0894a9d5e4bcaf0a2f63092" sha1="495efbee91cedaeec5926154f6252a0862f0192b"/>
+		<rom name="Panzer Dragoon Saga (Unknown) (Beta) (1997-09-16).cue" size="177" crc="cc64c31b" md5="28ca7edf8a66c955a8b479a233b16c21" sha1="ec031e706de67a5c32fbdce56221af40933e167c"/>
+	</game>
+	<game name="Panzer Dragoon Zwei (Unknown) (Beta) (1996-02-02)" id="0026">
+		<description>Panzer Dragoon Zwei (Unknown) (Beta) (1996-02-02)</description>
+		<rom name="Panzer Dragoon Zwei (Unknown) (Beta) (1996-02-02).bin" size="163369920" crc="6c4c89f6" md5="e43926b69dcaba72f2a7e3bb73fcf634" sha1="0e8af45de0dfca3aa48341b3aa2ca59f301df713"/>
+		<rom name="Panzer Dragoon Zwei (Unknown) (Beta) (1996-02-02).cue" size="305" crc="480b9afd" md5="c14d1d563564fcecad46c0712159a937" sha1="0172e899b7399073dd03c9f60126b3c1123f4c99"/>
+	</game>
+	<game name="Primal Rage (Unknown) (Beta) (1996-02-12)" id="0050">
+		<description>Primal Rage (Unknown) (Beta) (1996-02-12)</description>
+		<rom name="Primal Rage (Unknown) (Beta) (1996-02-12) (Track 1).bin" size="57010128" crc="85598399" md5="440c296dd30d714a9c73e48e3e0c464f" sha1="59942b9400b87939446a9fe628d5aa597e222a48"/>
+		<rom name="Primal Rage (Unknown) (Beta) (1996-02-12) (Track 2).bin" size="1016064" crc="d0a14438" md5="7923126902d54ca163422e192f624d33" sha1="ff2c3f9153fc49bc5b6b0ab684e9bc81e41caf1e"/>
+		<rom name="Primal Rage (Unknown) (Beta) (1996-02-12).cue" size="230" crc="5638f276" md5="2f32a270ba2f561a866ccdea52d350e3" sha1="e7866169bad8ea05884857ccdf1fa711ff41ae0d"/>
+	</game>
+	<game name="Rayman (Unknown) (Beta) (1995-07-20)" id="0027">
+		<description>Rayman (Unknown) (Beta) (1995-07-20)</description>
+		<rom name="Rayman (Unknown) (Beta) (1995-07-20).bin" size="582501024" crc="d30c4fea" md5="f3b5a3f49f6cde286f9ce05607ae3667" sha1="494d5a17c60e2d7d0063cef03b5448dabeb9a0c5"/>
+		<rom name="Rayman (Unknown) (Beta) (1995-07-20).cue" size="3387" crc="d113c49f" md5="a745118c2b22561abdd8832702cc07c3" sha1="8ec32d7e5830ec5afe08863f9d16c89d9649e2a8"/>
+	</game>
+	<game name="Rebellion (USA) (Proto)" id="0028">
+		<description>Rebellion (USA) (Proto)</description>
+		<rom name="Rebellion (USA) (Proto).bin" size="240440256" crc="4f7c0f73" md5="f874b4d7ab870e1ae733f9fc504abb05" sha1="fbb6293878403e17f2c219f192d8d1d2ce122f59"/>
+		<rom name="Rebellion (USA) (Proto).cue" size="89" crc="e71f0aad" md5="0c112c08fcaec70fc8219408b6321143" sha1="0e7f7aaec16005be4054e4da666a1135e39aaa34"/>
+	</game>
+	<game name="Scud - The Disposable Assassin (Unknown) (Beta) (1996-11-06)" id="0029">
+		<description>Scud - The Disposable Assassin (Unknown) (Beta) (1996-11-06)</description>
+		<rom name="Scud - The Disposable Assassin (Unknown) (Beta) (1996-11-06).bin" size="79083648" crc="e91ded1a" md5="d0e23f05f1a09537cf043b45f4211c5d" sha1="22ecd1d0b2b460420676d003b983f632f0b1aeac"/>
+		<rom name="Scud - The Disposable Assassin (Unknown) (Beta) (1996-11-06).cue" size="188" crc="3a2ff84f" md5="b254d462318f9fb2bb600a0dfeb68ee1" sha1="cb80e1ef1e9bf0c2561d97ece959f0ce2ac6a002"/>
+	</game>
+	<game name="Sega Rally Championship (Unknown) (Beta) (1995-10-31)" id="0051">
+		<description>Sega Rally Championship (Unknown) (Beta) (1995-10-31)</description>
+		<rom name="Sega Rally Championship (Unknown) (Beta) (1995-10-31).cue" size="1572" crc="6f93e2d7" md5="69007581e8135739cc91b3ddc424ba76" sha1="02240914e6be197ddcbf34a0e5c55fadbd98c22d"/>
+		<rom name="Track01.bin" size="31700256" crc="415ee968" md5="322708b205ffd08dc2a3e9c926767dba" sha1="fb5f8d383c3a2c1974eb24820696771eed928e66"/>
+		<rom name="Track02.bin" size="48058416" crc="ff5fedfd" md5="2845104c4f8ae73921a1377781654529" sha1="3200fb2bd51cad7d2109ee010cced91dabd383e5"/>
+		<rom name="Track03.bin" size="50236368" crc="558bfa47" md5="0e3c293e1f821696a31c6cb4fd5b4860" sha1="66ca3e9b3d1c8a53969e11563628f959101f36a8"/>
+		<rom name="Track04.bin" size="52931760" crc="0ba853c6" md5="2be5c4782b15c738222f620c46633286" sha1="b8f61d6a55b9b58c7adae0581cd7a17406b123ef"/>
+		<rom name="Track05.bin" size="45595872" crc="c421be55" md5="2637525d6ae1e22c8f15d66a28ad6bd8" sha1="5305deb427180b5c88645ed09fd72d67fd316148"/>
+		<rom name="Track06.bin" size="2130912" crc="c60e6cc7" md5="ac1a09a1c7393a5ce967137605691795" sha1="5f0e96cb1c85a39d80206b0a524497919de99749"/>
+		<rom name="Track07.bin" size="2215584" crc="92d07166" md5="9930dcad2206c108c4d76af30212969d" sha1="304257e31e5a8eeb4ccb79dda1a6d86515fa4b5a"/>
+		<rom name="Track08.bin" size="11489520" crc="f2f679e4" md5="ac03ac65487bdeade007cfeab39883a8" sha1="25f5b30d2409f6bc8d7b349afb48f345ff1e7f1e"/>
+		<rom name="Track09.bin" size="1992144" crc="48196995" md5="a21cac6a7e0fa0412efac4888dcad88e" sha1="12a9a3a95536a4ed27e0b382f97e31762a581ac5"/>
+		<rom name="Track10.bin" size="2653056" crc="9f900527" md5="bd77e444635d7f251c5badfa6d621bd0" sha1="af7f217c9b410d569e35f3a29d1bc246e35a3e50"/>
+		<rom name="Track11.bin" size="44692704" crc="b9896d02" md5="e3827e45a604c1ebc7475c1c7bf5f5af" sha1="1044205639b365d0e7ef0cd991f1c8aadc89e0ae"/>
+		<rom name="Track12.bin" size="41174112" crc="12497ec6" md5="1a41548453faad1c3415a713b7ebc45a" sha1="b9d8d702304e4ddb06c1e2013fd033c9c27f50c6"/>
+		<rom name="Track13.bin" size="10200624" crc="c0ff63be" md5="1fa89f463f42e7cb2d4ebfcc7440c23d" sha1="54f6956a3c3fc55b257e3ece15c522e7052e49ba"/>
+		<rom name="Track14.bin" size="35510496" crc="09787922" md5="759e94b7bde16cd0fd6793ad7e75e23d" sha1="b83805987ae8d731e3786df7ce9513c05fdba43d"/>
+		<rom name="Track15.bin" size="27306720" crc="63e61da8" md5="c913bb420f495357c0c0f64c04fbd3c8" sha1="fc26c78514b3b6e19f39aaa89dc490fc6d32bc63"/>
+		<rom name="Track16.bin" size="32281200" crc="9efe4dec" md5="6b226122f1fe2f05e341826e661c352f" sha1="be09d5de46b3852085f36f35346905732e2c443c"/>
+		<rom name="Track17.bin" size="27995856" crc="16482506" md5="1867dacea771ee32b431243531624768" sha1="67185276673c2cb491a1955f3db51bf737c3973b"/>
+	</game>
+	<game name="Sega Rally Championship Plus - NetLink Edition (Unknown) (Beta) (1997-04-16)" id="0030">
+		<description>Sega Rally Championship Plus - NetLink Edition (Unknown) (Beta) (1997-04-16)</description>
+		<rom name="Sega Rally Championship Plus - NetLink Edition (Unknown) (Beta) (1997-04-16).bin" size="86348976" crc="f1fc1cb4" md5="95163422e31355d22cd0e65f21a645e4" sha1="84607bec7c7df04a8ef55c9668cce8f183ceace6"/>
+		<rom name="Sega Rally Championship Plus - NetLink Edition (Unknown) (Beta) (1997-04-16).cue" size="204" crc="45eb8365" md5="e682ebb63611ba92f04b11d74f1d6be6" sha1="8700eb9249ca85cf3861d96b74970766d491dd7e"/>
+	</game>
+	<game name="Shining Force III (Unknown) (Beta) (1998-05-08)" id="0056">
+		<description>Shining Force III (Unknown) (Beta) (1998-05-08)</description>
+		<rom name="Shining Force III (Unknown) (Beta) (1998-05-08).ccd" size="963" crc="876eac7e" md5="8d2b3c5105a6745f42db19d94d8fb62d" sha1="f1210247bb3bc5ec7cfb06be49ae0a01150fe427"/>
+		<rom name="Shining Force III (Unknown) (Beta) (1998-05-08).cue" size="146" crc="bf33495b" md5="690c6c79b21b3c6636f8668fc34c0b4f" sha1="f2da2922890c6b913b329df0dea8f965bd9e3e9d"/>
+		<rom name="Shining Force III (Unknown) (Beta) (1998-05-08).img" size="247750272" crc="ccdcbe99" md5="faed99e627113112062164b0ce47f59c" sha1="7bea7fdf7dafcccb92435f35f947f600ec80a791"/>
+		<rom name="Shining Force III (Unknown) (Beta) (1998-05-08).sub" size="10112256" crc="e01f65d6" md5="82dfd2a3d7a533f21ae8fdbe48729400" sha1="ea3c63e83237a8ed72f46250e2f16540dcb796a4"/>
+	</game>
+	<game name="Slam 'n Jam '96 featuring Magic &amp; Kareem (Unknown) (Beta) (1996-02-01)" id="0031">
+		<description>Slam 'n Jam '96 featuring Magic &amp; Kareem (Unknown) (Beta) (1996-02-01)</description>
+		<rom name="Slam 'n Jam '96 featuring Magic &amp; Kareem (Unknown) (Beta) (1996-02-01).bin" size="59293920" crc="443df31e" md5="95762f14029c2c9e3f50b53114dbb133" sha1="acd188cc6291aa7aaf1cd2d61e71d0846c6d64b0"/>
+	</game>
+	<game name="Solar Eclipse (Unknown) (Beta) (1995-08-29)" id="0032">
+		<description>Solar Eclipse (Unknown) (Beta) (1995-08-29)</description>
+		<rom name="Solar Eclipse (Unknown) (Beta) (1995-08-29).bin" size="96069792" crc="318aa04e" md5="0afa77a9f58149e08efe80cbd7b2646f" sha1="67ed17f557143985482415a2d341959b5e25adf5"/>
+		<rom name="Solar Eclipse (Unknown) (Beta) (1995-08-29).cue" size="109" crc="9939de11" md5="9cac7830d7c511e9c9a7f1bad52fe116" sha1="703c4a4c431dfef944ea956b64f8710a4b5cc10b"/>
+	</game>
+	<game name="Sonic 3D - Blast Flickies Island (Unknown) (Beta) (1996-10-08)" id="0033">
+		<description>Sonic 3D - Blast Flickies Island (Unknown) (Beta) (1996-10-08)</description>
+		<rom name="Sonic 3D - Blast Flickies Island (Unknown) (Beta) (1996-10-08).bin" size="12780768" crc="700a0474" md5="b9524503fd30bb52b527ce6b3ebb9898" sha1="cc344a2d466c4fc75c588ae584fad449b930170e"/>
+		<rom name="Sonic 3D - Blast Flickies Island (Unknown) (Beta) (1996-10-08).cue" size="190" crc="7db203c8" md5="572f230206192f62286db015c3bd9b07" sha1="04c8d1dfc4f785690f5a787048e10e515b522aaa"/>
+	</game>
+	<game name="Sonic R (Unknown) (Beta) (1997-09-10)" id="0034">
+		<description>Sonic R (Unknown) (Beta) (1997-09-10)</description>
+		<rom name="Sonic R (Unknown) (Beta) (1997-09-10).bin" size="132970320" crc="63cf5def" md5="33632dc7c175ef86917a744d82ef3b9f" sha1="3a3fb11781b21a2df909d8231530df13a652fd31"/>
+		<rom name="Sonic R (Unknown) (Beta) (1997-09-10).cue" size="370" crc="2a5ff86c" md5="4f13b988220acf01e27fb1df572e81c7" sha1="952eabfe985b6d7342203ddf3e3c2e3ef4a20474"/>
+	</game>
+	<game name="Sonic X-treme (Unknown) (Beta) (1996-07-14)" id="0035">
+		<description>Sonic X-treme (Unknown) (Beta) (1996-07-14)</description>
+		<rom name="Sonic X-treme (Unknown) (Beta) (1996-07-14).bin" size="1835008" crc="1767f5f1" md5="0f0b101716d251978cdd8921b9a97564" sha1="b664af8f3ebd68ab20e2bcd7b18a6e599eada12f"/>
+	</game>
+	<game name="Sonic X-treme (Unknown) (Beta) (1996-07-18)" id="0036">
+		<description>Sonic X-treme (Unknown) (Beta) (1996-07-18)</description>
+		<rom name="Sonic X-treme (Unknown) (Beta) (1996-07-18).bin" size="22094688" crc="f66fb099" md5="1282274bc1c0ac1c9e95ff794261268f" sha1="9ad1df2bde861dc9f24fadc4a4e5ac0f2d6d15fb"/>
+		<rom name="Sonic X-treme (Unknown) (Beta) (1996-07-18).cue" size="232" crc="6c4101ec" md5="6a881e1533e26f617f020b09f853d97d" sha1="31140884321be33b9245f8ed226b26c9a5359a27"/>
+	</game>
+	<game name="Sonic X-treme (Unknown) (Beta) (V40)" id="0037">
+		<description>Sonic X-treme (Unknown) (Beta) (V40)</description>
+		<rom name="Sonic X-treme (Unknown) (Beta) (V40).bin" size="1081344" crc="95c2f4c8" md5="5516a93d66fb4d314e4e497a8e455d88" sha1="9f6b37d82f7e06ff860d6dbbc650a39ba3f9cdab"/>
+	</game>
+	<game name="Tennis Arena (Unknown) (Beta) (1997-09-15)" id="0038">
+		<description>Tennis Arena (Unknown) (Beta) (1997-09-15)</description>
+		<rom name="Tennis Arena (Unknown) (Beta) (1997-09-15).bin" size="221699520" crc="7048c022" md5="eeb7938c62129781c5a41766faa0b55c" sha1="a6d48620c90b7ab772ae0ef95ed814d6d24db7ad"/>
+		<rom name="Tennis Arena (Unknown) (Beta) (1997-09-15).cue" size="2261" crc="457a074f" md5="7d026b7bdf9816b8c531432dd40f9d2f" sha1="c880115efe013d87d46de508d62d203dfb439774"/>
+	</game>
+	<game name="Three Dirty Dwarves (Unknown) (Beta) (1996-04-17)" id="0039">
+		<description>Three Dirty Dwarves (Unknown) (Beta) (1996-04-17)</description>
+		<rom name="Three Dirty Dwarves (Unknown) (Beta) (1996-04-17).bin" size="492311232" crc="05dd0265" md5="86a92c0accb47a02fcab19dc6315ef79" sha1="64fda99764d4a0b76fffa5cff3ed86b061fa98cf"/>
+		<rom name="Three Dirty Dwarves (Unknown) (Beta) (1996-04-17).cue" size="670" crc="fff43886" md5="1d0c05527cd53457ab1701399fcc5400" sha1="26e1ee557524f90ad1c3336776d30c28b75682fc"/>
+	</game>
+	<game name="Ultimate Mortal Kombat 3 (Unknown) (Beta) (1996-02-07)" id="0052">
+		<description>Ultimate Mortal Kombat 3 (Unknown) (Beta) (1996-02-07)</description>
+		<rom name="Track01.bin" size="45214848" crc="1b7bf0a5" md5="4674379406471294f3a131dbd0b18253" sha1="1984f768389742cfab7b336d81659f87dcaf6e61"/>
+		<rom name="Track02.bin" size="1599360" crc="142af0a7" md5="1932811c7dc079e34423a2d0237d1246" sha1="56ff0b2df1c0383922f0991c1de5f0b24b21d9fa"/>
+		<rom name="Track03.bin" size="10972080" crc="4eabdb36" md5="88df9c5929ec3caf2f8477c5619ac412" sha1="6e40fd18aae3d1cd19ed1ded504e87f7426eb051"/>
+		<rom name="Track04.bin" size="12467952" crc="4489eec9" md5="0a98ce173b59314e04031b1eaed71554" sha1="abdf96fc397cb56029abf1d24e55e86ea3ffe98a"/>
+		<rom name="Track05.bin" size="14300160" crc="357ba91b" md5="ec05a7f0bf278857dab91b4fb082fe4a" sha1="6cdc867c8efb39fd341bee5a610365c5c57bee0a"/>
+		<rom name="Track06.bin" size="1597008" crc="38e916ab" md5="ccf4eb86dbd420c662ff0dbea58e5f23" sha1="3392bf1c7ab81d41dacb815db4c449b594dd58f4"/>
+		<rom name="Track07.bin" size="19606272" crc="879fa374" md5="197063d61ec6970d4c27e7624be43ee8" sha1="18bf5ad11b9b77680b93e7583a6368853ad915b9"/>
+		<rom name="Track08.bin" size="13883856" crc="af847621" md5="2852ddf6af9ef5935e015ea4cbae6f68" sha1="6096e8fbfd6bcad9e1fbb52ba7dd8537cf3120a6"/>
+		<rom name="Track09.bin" size="2646000" crc="01567b2e" md5="1f2ac59655f4c48fad1067e5ab16e220" sha1="2c12650507448d407a771b0336951108d009d86a"/>
+		<rom name="Track10.bin" size="1597008" crc="bcad59fe" md5="290718717792372c35a7130acacd6347" sha1="6c6d5a51b2aba3057a6596bdbd4c6f92e7001eed"/>
+		<rom name="Track11.bin" size="1597008" crc="16129985" md5="6d62561a352d91ba1b69af13f1589eda" sha1="96bcf3252bff643f44e61125441c9671312983ce"/>
+		<rom name="Track12.bin" size="3281040" crc="30805c17" md5="d7cce87f138edb82e357a3bd08171882" sha1="3a7ba68f9970aa66d5fb1c56dbc88874ff420198"/>
+		<rom name="Track13.bin" size="1597008" crc="87a2babe" md5="a668c6813ff67a7cfc6f9e87fc2a6291" sha1="a8dffd31a39ce6a143d74a638e28c8de36202c22"/>
+		<rom name="Track14.bin" size="1597008" crc="0d7c43d2" md5="18edd0758668a9a60b6f4bb8f2a99645" sha1="6597f8df8e31d307eee55118ca3ac1b696eccfa5"/>
+		<rom name="Track15.bin" size="1597008" crc="e36d623e" md5="97c2bf656c3d8b644d1d2d50cbe7eb82" sha1="8183a43abd08115cd6f3353479927933b32910be"/>
+		<rom name="Track16.bin" size="1597008" crc="9c5dc5fa" md5="7b17e32a3e95b21b8c1ea89029964e7b" sha1="3b77d1859473a82f462d1971e78fac8313999026"/>
+		<rom name="Track17.bin" size="19603920" crc="4bc5753b" md5="a5a5e1c13f42a194be4c2bf1f7241633" sha1="e4b20cdd6cc9394ffb8c07ff6384686b7be044ef"/>
+		<rom name="Track18.bin" size="22812048" crc="b471dc8b" md5="ee64c6cde9d8b7331700cd56f64e64da" sha1="7ac99d15adfa23f2b5ad6752b61c6db451316e67"/>
+		<rom name="Track19.bin" size="26347104" crc="e1eb3919" md5="c6fbc9af9934858ca1a0812c3c5f38b8" sha1="7bfb85d069f4a15ca87db1aa14d6b9d6c6113227"/>
+		<rom name="Track20.bin" size="20417712" crc="8d884b62" md5="4d80cf86dec67093b5b0042c0c40eab3" sha1="7e64807525b8599d9ad9dd2f4b19d51b26c52865"/>
+		<rom name="Track21.bin" size="22414560" crc="6d7f8a60" md5="7dccd5dfda88d81c6ec2502e8b393e75" sha1="90bc1a4f7704658a795fa4c96198add281b0ae33"/>
+		<rom name="Track22.bin" size="18827760" crc="7a099b95" md5="55603bfd55b8823639fc9071cc5c1522" sha1="b02fffbf4f34456f4bd63bfe53d387c73058618d"/>
+		<rom name="Track23.bin" size="19756800" crc="34cd9e00" md5="7508e2cfea6c8e1f1839c4b543305d7a" sha1="5943da0ab53baf1ed4c388a76519ef3c7739babe"/>
+		<rom name="Track24.bin" size="18018672" crc="f950685d" md5="5f012046508cf5b822429985ea7a74ba" sha1="798d256e0f71fc0ebd8289912238de8d11d0c820"/>
+		<rom name="Track25.bin" size="19930848" crc="40b1e8c4" md5="b647a08b4de943cbf3ac096506960b5a" sha1="90ffa3af0cbebc3e07dffddff3b0343646076d02"/>
+		<rom name="Track26.bin" size="19187616" crc="4dfbf0e3" md5="038ae71bead91bc25789efd00d1e1eaa" sha1="049812f10afc8b09c9dc22c223ac3a3272d95e38"/>
+		<rom name="Track27.bin" size="19354608" crc="b21a2112" md5="e5784e82807a5650893cf3f2633e9b0d" sha1="3fb852d9306bec744a173800ad1a576c530b877e"/>
+		<rom name="Track28.bin" size="18957120" crc="85cb03af" md5="a6a19cb392ccc3c04fe52d86a7f20c1d" sha1="409f651e23471fbdb6c75b71c37cfd60b92a0cee"/>
+		<rom name="Track29.bin" size="1597008" crc="a55acb72" md5="0cbb79907cf8dbbc8f9cc31945410c12" sha1="449b91d3d1d609b39fe42b643f8fc3fc31f08105"/>
+		<rom name="Track30.bin" size="1597008" crc="68ebab8a" md5="97d575fae4a6e856b41d63ef0134a07f" sha1="b6d99a72088c41667103dea4cc77c87c34ddae7c"/>
+		<rom name="Track31.bin" size="1597008" crc="19d80f4b" md5="68ddb91b7c1231077b0a3dcbb8173f27" sha1="2fb86c621b020f0c65660ecd419abfa3538497a5"/>
+		<rom name="Track32.bin" size="1597008" crc="dafe462d" md5="2711b42e3b7532d4a3dc9448a5d0eda0" sha1="681bab500969773d89be406e336e9230863d372a"/>
+		<rom name="Track33.bin" size="1597008" crc="c7c134c0" md5="5df327d0b0a3ecea99ddfb51a1a1a266" sha1="9284fb00ec55cf667cf0a73a6b7818eb2a03c117"/>
+		<rom name="Track34.bin" size="1597008" crc="e57381c1" md5="10e59dbdb4c08dd9e20e5a82cca26754" sha1="6e31885ca991096ee688c6b3ca46d81936310019"/>
+		<rom name="Track35.bin" size="1597008" crc="9a8f036d" md5="7d39ac37c47b5e21b0baee7ff157d46c" sha1="5b517f9825ae30c8bf856aee8716fff0bf476488"/>
+		<rom name="Track36.bin" size="1597008" crc="4a1a214a" md5="d0f43b98a5f91118016e3c6695f3814d" sha1="2eb9a37b44a9d0b642e2ea1acf57905420a67364"/>
+		<rom name="Track37.bin" size="1597008" crc="42225f63" md5="6d7029343b84c5e8f2e73afc855cf8a6" sha1="01d969d7a5b104c998e4d4f9dc69b63fa31e00e9"/>
+		<rom name="Track38.bin" size="1597008" crc="748674ef" md5="57d2796a4628e4457afd7bd7b7b6bd1c" sha1="3e3e15662bf487b58ca4f8603d15117408023be2"/>
+		<rom name="Track39.bin" size="1597008" crc="b5c7b0fa" md5="9a68784a7779766a7e81ccd076c4db86" sha1="7ffc6e3702c5e0e72b971077c3bfbb4e80dfd006"/>
+		<rom name="Track40.bin" size="1597008" crc="ac4f6cac" md5="f3d6307c857cd282551cb67b3e71ffda" sha1="59f81787ec1aa6c6dab772c761b3b2b11acaf9bc"/>
+		<rom name="Track41.bin" size="1597008" crc="22d0adb3" md5="8292fef0a2847473e43bff5c6126c322" sha1="cfd2b4b1083e6e8fec8b4deefe47ae6943ec4d42"/>
+		<rom name="Track42.bin" size="1597008" crc="62be883e" md5="599a0bcec107b326e12588c94041770d" sha1="c7c680415fb266ff6c5d2e70a507112f08ca31aa"/>
+		<rom name="Track43.bin" size="1597008" crc="83eb6e8f" md5="a532332859221a683189d94809dc6935" sha1="8bbf2b3c222f853fa3277e79563770885d3e6fa4"/>
+		<rom name="Track44.bin" size="1597008" crc="ca971ad7" md5="567e68951bdd199b1f88c4df9cd97318" sha1="2eb3d9c7615b8e6f87accdc99a363e3a571cbdc2"/>
+		<rom name="Track45.bin" size="1597008" crc="bda4c3cd" md5="fb29a34b96a3ea900be5e1b5bdf4fd95" sha1="c5d0903129d9f2dbc770c815f14734711ec4e7e8"/>
+		<rom name="Track46.bin" size="1597008" crc="a78e48e8" md5="b44b0db2f950fc9807d43e9e8da44bc1" sha1="de8d6a91d6088113020c81813f8fc4fce0871df9"/>
+		<rom name="Track47.bin" size="1597008" crc="da0fc726" md5="5f7339275b82671d52ffe1dcff4981a9" sha1="6921ca686ad583d5224382cc936fd94612cc4353"/>
+		<rom name="Track48.bin" size="1597008" crc="4faa1a96" md5="de45f390d1a548baa5e915e03097102a" sha1="52511beb5f38310e29c3512db66d8a30ca4d1aac"/>
+		<rom name="Track49.bin" size="1597008" crc="7480bd47" md5="f21824df47f73fa451cc5f1e2b9fc24f" sha1="7eb866faf2e5c661c21b33d02acc80d6b5b38267"/>
+		<rom name="Track50.bin" size="1597008" crc="46a394e8" md5="8144a2bc24a2219ac0e93edbe3a98ec6" sha1="b9f6dbb9d5b8b5c2448c055998a9c2aee4046151"/>
+		<rom name="Track51.bin" size="1597008" crc="bff2be6f" md5="d67c7a555cab8563291983f3adee6fc7" sha1="706529504b152c564790381f1f0f78006215c05a"/>
+		<rom name="Track52.bin" size="1597008" crc="507870b3" md5="d3ea17ee6e59dfe66214bc6686396e90" sha1="5baea1ca64719e1de3d5aece815d4c5271af94de"/>
+		<rom name="Track53.bin" size="1597008" crc="d9d6161c" md5="e52f3899197248922af476806de79197" sha1="2b3c99d9068a9798573bab1dce4c3451e2046d99"/>
+		<rom name="Track54.bin" size="1597008" crc="6e57059b" md5="1180d57c2d08a6c1dadb6821aa85df88" sha1="fc7614079536eefca54988cb8051839ff299e764"/>
+		<rom name="Track55.bin" size="1597008" crc="69bdd7d9" md5="94c760764d1bfdb3df4d9094342fb825" sha1="269e3d79d38b2aa775e456ade8f0d3d2d8b2e5cf"/>
+		<rom name="Track56.bin" size="1597008" crc="34d8a777" md5="4ff34799368a9542df9d3f31f4007798" sha1="d151462f717ed16e990b41634e3ba4f7a734b3ef"/>
+		<rom name="Track57.bin" size="1597008" crc="d79ee41b" md5="1f66fc4278b4e060a758481d411b9b8b" sha1="6ae9eb23d2a1a67cc5ac7e2a728145936d2786cb"/>
+		<rom name="Track58.bin" size="1597008" crc="a31b65ba" md5="3e287117b3930f7f0c53bc1a62053635" sha1="762da0b40b343918a041d82baf86ebf06f94e70c"/>
+		<rom name="Track59.bin" size="1597008" crc="78c597ba" md5="a60af19437d14b44f2bc8ea689d6c38f" sha1="ba2b93df602ad44a37eda4e78629c419ef5aa73c"/>
+		<rom name="Track60.bin" size="1597008" crc="582d39e6" md5="cfd3258ccd2c6e147f16303816d521b3" sha1="21108594b4978c7c061203709679a4ccd072ad67"/>
+		<rom name="Track61.bin" size="1597008" crc="0edac763" md5="512a6b66c5f8abbef5fbf0617ffae5cd" sha1="695c368a9f5d61312700125cedd964a409e534b9"/>
+		<rom name="Track62.bin" size="1597008" crc="bd4e1672" md5="0501bd4ef9c01fb35eebace601a09d90" sha1="81f2258a5697b98392cf426af0bcf84d372d153b"/>
+		<rom name="Track63.bin" size="1597008" crc="07f50ac6" md5="50343c8edf2b36ffa18ba6720f29da19" sha1="ca72cce62b9a0b03243f7d9d43d253baf5d119ef"/>
+		<rom name="Track64.bin" size="1597008" crc="3f6ad129" md5="0c2e3b92fa4231a642b2356bede4b6a2" sha1="614be36c3e76eaeb20db1c6557eab6d001e88b1d"/>
+		<rom name="Track65.bin" size="1597008" crc="5072eab2" md5="f627449acefcf0b73258c301afbe2ecd" sha1="f4f1106573c8cf8de3a2403441cca43e460fbe86"/>
+		<rom name="Track66.bin" size="1597008" crc="9504108f" md5="d0e0230cf49989352f52d4dc71dd662d" sha1="592e62488428125c54f95b798fb217ea3927058b"/>
+		<rom name="Track67.bin" size="1597008" crc="b836e27b" md5="9cac3f155ef9eaad2737ca344148912d" sha1="90662077d431a317727394a45c99fdc854c1b30f"/>
+		<rom name="Track68.bin" size="1597008" crc="df3b5cb4" md5="e6414a087c9ac6659cb83181ee5d630a" sha1="2d1bd9b5e7fb2e0cf680d38bc7381a8ef4f2b8b8"/>
+		<rom name="Track69.bin" size="1597008" crc="b57843de" md5="eb07f1ecedd29f0952401853846f46d3" sha1="899c10747fdcb3700e2058c16542cc8b351ea252"/>
+		<rom name="Track70.bin" size="1597008" crc="f0659627" md5="aaac604b31e27dc6f423fc10602c9362" sha1="4d01fc6d911bccb44ddf32ba2755b476ebb86610"/>
+		<rom name="Track71.bin" size="1597008" crc="46863703" md5="91db86b9c5a4978db29f3e01d3469d6a" sha1="86191be1a9645726900f7b95bb8bd2c3fcf71b5a"/>
+		<rom name="Track72.bin" size="1597008" crc="23341398" md5="738193eaf3145ce56f7f62fe752314ce" sha1="647a00e6c1cf54be2c2496cc6a6d05d5affb3af6"/>
+		<rom name="Track73.bin" size="1597008" crc="22e7a00d" md5="41c801a6a53c5d54e69b836b521b9242" sha1="3dbf82b6fdb543143651c3ff622f8b4b6aac3922"/>
+		<rom name="Track74.bin" size="1597008" crc="d8d8797c" md5="23b4e6e2e8a5bccc539dff9e0eeaaf5f" sha1="93b6075c68c3b3e82c06ffbab683fd989bd3f498"/>
+		<rom name="Track75.bin" size="1597008" crc="313f82aa" md5="3b1ab526fb500b8038a9f0ee2a9e0701" sha1="89496c38d806f07c5388e2fba20ce9d60b7d26ee"/>
+		<rom name="Track76.bin" size="1597008" crc="f1682bc9" md5="d956b355cc3d75f11e288b97c01a3b2c" sha1="d6b90d81cf38d49de8ba46be8228d337e6505681"/>
+		<rom name="Track77.bin" size="1597008" crc="f3031bd2" md5="4f5be906fc18b81201e69e47475c65f9" sha1="5f4350e0cc11d7f2be1d570d8e2bb71bbaf84afb"/>
+		<rom name="Track78.bin" size="1597008" crc="86c52834" md5="6efdc872a0f1e5ff51428ac8210a4c46" sha1="caeb7a58aba6fadc9835f1d30c789ed03214afea"/>
+		<rom name="Track79.bin" size="1597008" crc="a5512520" md5="3fdb14dbda4893474321c7b745fa056e" sha1="7d936ef4092759914ded2d2d11a2a3b0dc75db19"/>
+		<rom name="Track80.bin" size="1597008" crc="2df0bb2f" md5="edf357a72d22117eaa77f5f9308ae97e" sha1="9e54ec16897e2f338da96b2b2e20b06b4512db97"/>
+		<rom name="Track81.bin" size="1597008" crc="a03ae796" md5="a8287b03a0483d0ec400bbc0368800cd" sha1="19cb7fb3081d0c9feca795929040af88659d5d5b"/>
+		<rom name="Track82.bin" size="1597008" crc="8156e03e" md5="5f0367b523b68bfdf6cc732c6973750d" sha1="0042223251118a688901de9cb6f02882f09d0d29"/>
+		<rom name="Track83.bin" size="1241856" crc="74c4e6d5" md5="9034f82f17716198604b6a8102e9f19b" sha1="e5cbf17acead06467cd8a32a795fe0430fea5a59"/>
+		<rom name="Ultimate Mortal Kombat 3 (Unknown) (Beta) (1996-02-07).cue" size="7535" crc="ee46f8e3" md5="248a39553382fd02c20b42a08536a8c6" sha1="86a53e6411b3aadb47d039b12df3f9bada22e6fc"/>
+	</game>
+	<game name="Virtua Cop 2 (Unknown) (Beta) (1996-05-10)" id="0040">
+		<description>Virtua Cop 2 (Unknown) (Beta) (1996-05-10)</description>
+		<rom name="Virtua Cop 2 (Unknown) (Beta) (1996-05-10).bin" size="134572032" crc="1d1ed1c4" md5="64cd56c2e9e746bf36ebff23a244debd" sha1="8d7c1f04b7edb8b52e6f7cb935252d6d2a17e135"/>
+		<rom name="Virtua Cop 2 (Unknown) (Beta) (1996-05-10).cue" size="498" crc="096d31f6" md5="e7a28e5a35bf28f217ff5c918ece18eb" sha1="111646b28507299290d2e66c1f199a5820fbfbe6"/>
+	</game>
+	<game name="Virtua Racing (Unknown) (Beta) (1995-10-30)" id="0053">
+		<description>Virtua Racing (Unknown) (Beta) (1995-10-30)</description>
+		<rom name="Track01.bin" size="148608768" crc="df48979a" md5="20825410fadc26dcf73011586428a919" sha1="5ef206fddb4e59901511114bb07516dac95068e9"/>
+		<rom name="Track02.bin" size="7227696" crc="762c55e6" md5="17b731c4c64622eec8f842fccdb9d9d8" sha1="edb635e8c6d720defb8c6726ef44e9598795a39c"/>
+		<rom name="Track03.bin" size="7345296" crc="fa59ea0c" md5="ab631b6f5fafa1114c1040798a52d3fa" sha1="745599a2850a9b23faf8264339066296a2326318"/>
+		<rom name="Track04.bin" size="5155584" crc="36945e20" md5="c70a4a7615472b63ab069580e51d49d4" sha1="cc3675dc01493aac5d9d0121e2d4e64c5dcc5320"/>
+		<rom name="Track05.bin" size="6018768" crc="e8f75732" md5="e49b78e540b437d06624ef1a6b63b966" sha1="12ea5a9e7ec9ec52ee16d75b23d1cbba7794d999"/>
+		<rom name="Track06.bin" size="4311216" crc="188c25c6" md5="54f6326c171801b201714f8cbe646540" sha1="dff8c34c4a16884e624d823d9b92130f44a8b84e"/>
+		<rom name="Track07.bin" size="2932944" crc="99e23724" md5="293a71310646af2485988c73f905d768" sha1="19425dac1d20445ce9cb1582309f40585eee73e9"/>
+		<rom name="Track08.bin" size="3386880" crc="5a1ee5a9" md5="b461f9a6c8cf4a3647a281d41961039c" sha1="0c7c47fed62fc293cc052ef95c65d32d27f92b00"/>
+		<rom name="Track09.bin" size="3438624" crc="4f0595b7" md5="98209e2ff1bc55594f91282eb490f50c" sha1="bc320f3a059878f9b64e1f4d4b99a9c828180f57"/>
+		<rom name="Track10.bin" size="1378272" crc="3fc6a8ca" md5="51f444803d8f8913584b2ef6f1aa705e" sha1="0e369e8d421cbb6e0bc65ea55fbce54c686e9bcc"/>
+		<rom name="Track11.bin" size="1430016" crc="840cd144" md5="9b51e00398d32a1d58b090821dfdf4fc" sha1="ea123de929e24d617b781f97630d20ea6120813a"/>
+		<rom name="Track12.bin" size="2283792" crc="869d020f" md5="8c94b268b248272b2bcb41f4acea4949" sha1="23df6a43ac8dcd223115a70734711ccdc4fa957a"/>
+		<rom name="Track13.bin" size="1063104" crc="b3da3048" md5="480ced6b4a1084465a1d5689ba4f5611" sha1="889b5e8ea6c294846720222f128632a63cbe2292"/>
+		<rom name="Track14.bin" size="2295552" crc="e407e1d6" md5="2d2182c848f508ba7c889d6dfbc0e1ce" sha1="7c81ed073e7fb0346a064d231b11680c681b4105"/>
+		<rom name="Track15.bin" size="2474304" crc="280c79c5" md5="4181ed221672155f1e1ec362b0a4c9c3" sha1="29f864aa8f52e56ea111b8f1f0b9f066b32b6dd3"/>
+		<rom name="Track16.bin" size="1966272" crc="1461d2c9" md5="163145118ba0f46c35517ec11fc8c945" sha1="6c4032dbb3ed49b07d29dd4a5c622b9bd8b729f8"/>
+		<rom name="Track17.bin" size="2591904" crc="ea18d8a9" md5="7c4140b497996562e01c800c2b00cea3" sha1="5b133a763cdcc75fbd6b656a5a08893f9cc4b753"/>
+		<rom name="Track18.bin" size="2667168" crc="c444df98" md5="b0558e4e414167b129d4ccf4f2947af7" sha1="31ba681cc0989b26fc756e06a03ca0c4bc0f26ba"/>
+		<rom name="Track19.bin" size="3151680" crc="65768fa0" md5="42be8529aa37ed6f25231b9f2db03397" sha1="0de95360cee0582ecd1aeda65c9b8171078f631d"/>
+		<rom name="Track20.bin" size="6126960" crc="66cbdc47" md5="1dace1a8b9dfd417f9a3c122c4423b0a" sha1="e8c4b1d975f2bee278daf7b06f5d39b2a91870d2"/>
+		<rom name="Track21.bin" size="3833760" crc="2b03314c" md5="52246060122ae54baaf6f6874d277970" sha1="ba0efbd2f6f8b220c487d67f0fdf2444104a6706"/>
+		<rom name="Track22.bin" size="1836912" crc="1882d93b" md5="43e04159450596c45b2411d79380943f" sha1="076009d04758f9d46d28a2ddab190ed5c8daa6f8"/>
+		<rom name="Track23.bin" size="4508784" crc="cb9e53c3" md5="d612c660cbd00507450070b04c2939bf" sha1="c8cf98186541824f3464aa84da675e8288016e8a"/>
+		<rom name="Track24.bin" size="1926288" crc="11b11085" md5="8f10350f6c7f1a075b0368ec7327dab8" sha1="9788647e5a8abc558fd36d99494ba98bcb62a3f2"/>
+		<rom name="Track25.bin" size="1058400" crc="2233b4d6" md5="84fabb5c31f100fa88e207d867415a23" sha1="973c9e910f7a54b389096b33bba3c1fe1070c95e"/>
+		<rom name="Track26.bin" size="1728720" crc="fee05dc6" md5="fe6f7f92fa60e8b4b7b8478dcdd6f8e4" sha1="1d38bfec073452d858e5d41ec92a6edaa54156f1"/>
+		<rom name="Track27.bin" size="4113648" crc="9170b9ca" md5="e10af9d57f708400fe2ac58ba0937e02" sha1="a95b518fc4abf70d0162732701c6f113d4d113c8"/>
+		<rom name="Track28.bin" size="4358256" crc="60738011" md5="fe222689e732838a88a170a3d25d2e60" sha1="63046502d9f85435fdddedd088e27769a25f7c9a"/>
+		<rom name="Track29.bin" size="4315920" crc="04a85ca9" md5="ed30f7f15158e4bf6774c9d6b269ef97" sha1="ca0e218998ca5d59bbdeabff51be8737823cfde6"/>
+		<rom name="Track30.bin" size="4501728" crc="6051ff13" md5="f8c51f82d1fb7ee5b9ee423ed833e327" sha1="5428e2daacb4bbf68c012c9ca6310527d4066ba6"/>
+		<rom name="Track31.bin" size="3951360" crc="f1367d95" md5="34e3751b8bf0d0e8a7100000495a5de6" sha1="5db3867f8a4d562c23260f703389b8964c12d2bb"/>
+		<rom name="Track32.bin" size="4527600" crc="07e17546" md5="a86f173450874651b2dee8027821aeee" sha1="50c18100ff5f8404718e51c244028cae17db61f9"/>
+		<rom name="Track33.bin" size="12296256" crc="fac86d74" md5="c02f0d3c20b33b3a3ad2bb1daedda7db" sha1="fec264f54f2de74af56df3200ee9feffec58593b"/>
+		<rom name="Track34.bin" size="11595360" crc="177a7c02" md5="016dc22af0b0ca6d9980171cd9120d5a" sha1="4fd20189251b7ed33d63062d0bc8b96ab94934bf"/>
+		<rom name="Track35.bin" size="11164944" crc="e82c7b56" md5="b273b7ca5cc936a2556ed33f3252f98e" sha1="1503369ce9a8ca13df6d66929d992634c795a659"/>
+		<rom name="Track36.bin" size="4800432" crc="d01a52e6" md5="4163cb1afb859f127aae23e8c5f7ed08" sha1="59c4a4c35d994937f1450383b2417f8ae95bd3a8"/>
+		<rom name="Track37.bin" size="3137568" crc="9426d4e5" md5="b3909f7d4d138b3640aa22ba20ba6662" sha1="ef997b949c169f3c7e60e7a125d76b5ddc6b0be3"/>
+		<rom name="Track38.bin" size="2761248" crc="4b00f7a9" md5="91c7d6dc5126a6ea356ec6b4e9071c4a" sha1="efcf0f8222dfcc92e7c47cc855f0712daf451e39"/>
+		<rom name="Track39.bin" size="3081120" crc="f6fa8ad3" md5="25b89fc438290914fc4a51590b6fe62c" sha1="b9b4ef1e2c9a3480612abbba9791e7ad9c88e00c"/>
+		<rom name="Track40.bin" size="3123456" crc="63df2cf5" md5="b1b9c3fb59db465b5abd16ffa67850bd" sha1="4519b04a16205a3f1b5ffe5d1bf3768708966b5d"/>
+		<rom name="Track41.bin" size="2530752" crc="d722bc27" md5="808f9468d797f9a2f04051d6444bd433" sha1="64eafc2a92c7c4251de197f8eb65405f6497d401"/>
+		<rom name="Virtua Racing (Unknown) (Beta) (1995-10-30).cue" size="3713" crc="d169f560" md5="c91fb2f25698068af9a6e9595a893e83" sha1="caab5665f042f0e863aa9cad2b7cd06ece9e341d"/>
+	</game>
+	<game name="Werewolf (Unknown) (Beta) (1996-06-14)" id="0041">
+		<description>Werewolf (Unknown) (Beta) (1996-06-14)</description>
+		<rom name="Werewolf (Unknown) (Beta) (1996-06-14).bin" size="66345216" crc="39c04f02" md5="149bc2c3340246523a0cd47c81ecd10b" sha1="9faea909af8722d8352398bd74dda11980970cc6"/>
+		<rom name="Werewolf (Unknown) (Beta) (1996-06-14).cue" size="230" crc="98800e71" md5="f83463b4eb4cd5c8b3da1d6c197899bb" sha1="19ff0547c44470e70f30f08bbe45ab99439ca469"/>
+	</game>
+	<game name="Winning Post (Unknown) (Beta) (1995-12-27)" id="0042">
+		<description>Winning Post (Unknown) (Beta) (1995-12-27)</description>
+		<rom name="Winning Post (Unknown) (Beta) (1995-12-27).bin" size="349455456" crc="fdc774ae" md5="0f117dc593c2c3c9f076a4653c04c38d" sha1="e7c148828298ecd658859b58992e5870ff32e263"/>
+		<rom name="Winning Post (Unknown) (Beta) (1995-12-27).bin" size="1413552" crc="0277b7f9" md5="e2724296a5b8d993760b20b01385ef49" sha1="bb020cb1f0cfd04b309dbabe7f6ef426733d2a82"/>
+		<rom name="Winning Post (Unknown) (Beta) (1995-12-27).cue" size="227" crc="89dc48b6" md5="62c4ee57c49f959488ac60b423a51023" sha1="b7bf6e126f722b524fe78da0ba2c65a212a631f3"/>
+	</game>
+</datafile>

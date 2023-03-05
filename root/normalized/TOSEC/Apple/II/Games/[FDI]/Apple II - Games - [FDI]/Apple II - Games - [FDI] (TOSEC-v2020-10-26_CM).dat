@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Games - [FDI]</name>
+		<description>Apple II - Games - [FDI] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dragon Fire (1981)(Level-10)(II+)">
+		<description>Dragon Fire (1981)(Level-10)(II+)</description>
+		<rom name="Dragon Fire (1981)(Level-10)(II+).fdi" size="232448" crc="b4d8c741" md5="4db7198db4ab1f5064b415a420ee9f08" sha1="a02fd40a3f8197255d8a085faa96b44138ddd317"/>
+	</game>
+</datafile>

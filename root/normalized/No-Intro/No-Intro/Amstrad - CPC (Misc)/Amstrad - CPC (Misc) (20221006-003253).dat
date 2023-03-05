@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>250</id>
+		<name>Amstrad - CPC (Misc)</name>
+		<description>Amstrad - CPC (Misc)</description>
+		<version>20221006-003253</version>
+		<author>Arctic Circle System, FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Gilligan's Gold (World) (Steam)" id="0008">
+		<category>Games</category>
+		<description>Gilligan's Gold (World) (Steam)</description>
+		<rom name="Gilligan's Gold (World) (Steam).dsk" size="194816" crc="364c62ec" md5="bbb8649e0d2f8ab1606a29e467aa0c2b" sha1="7f579a16535863e27fd079565fa8a257cfa46b49" sha256="986b7a62e12a0b82d1bde3af23f8c63be62d16042be9c4ccc898e2165de8382b"/>
+	</game>
+</datafile>

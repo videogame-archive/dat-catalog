@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>198</id>
+		<name>Epoch - Game Pocket Computer</name>
+		<description>Epoch - Game Pocket Computer</description>
+		<version>20211122-141248</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Astro Bomber (Japan)" id="0001">
+		<description>Astro Bomber (Japan)</description>
+		<rom name="Astro Bomber (Japan).bin" size="8192" crc="b0fd260f" md5="bda9bc4a736a6d57dad4c7fe388dce74" sha1="453a0f3c0952ebd8e691316c39960731f1996c09" sha256="ec20a11c8b3dc943b422dffa51c9ea9392e030b7f50e4b36d3da361332d82739"/>
+	</game>
+	<game name="Block Maze (Japan)" id="0002">
+		<description>Block Maze (Japan)</description>
+		<rom name="Block Maze (Japan).bin" size="8192" crc="cfb3291b" md5="ac66f07a6026950cf91faf0b3a1157f0" sha1="50dc5736200986b326b372c17c233c4180474471" sha256="140739f9b31ef1b552d8fe2e20b743c3c0674cdb79322bdd739494cba1023736"/>
+	</game>
+	<game name="Pocket Computer Mahjong (Japan)" id="0003">
+		<description>Pocket Computer Mahjong (Japan)</description>
+		<rom name="Pocket Computer Mahjong (Japan).bin" size="16384" crc="5c3eed48" md5="3b3992e081e3d690875a511deb33461b" sha1="918e1caa16cfae6b74da2026f3426d0a5818061c" sha256="7ee9d39b133d3b7e64c0758d5080ae4451116ecfc4c155c95382379eca6edfa9"/>
+	</game>
+	<game name="Pocket Computer Reversi (Japan)" id="0004">
+		<description>Pocket Computer Reversi (Japan)</description>
+		<rom name="Pocket Computer Reversi (Japan).bin" size="8192" crc="1c461f91" md5="96ef8b859dca62460364f3e750271591" sha1="ead4a4efe5439e2ec1f6befb50c350f73919da8d" sha256="e5abd991d5bf2818c04e2c73e3fe167db8c6070d2c7fe5e4514cbbf7d5ca2820"/>
+	</game>
+	<game name="Soukoban (Japan)" id="0005">
+		<description>Soukoban (Japan)</description>
+		<rom name="Soukoban (Japan).bin" size="8192" crc="5d6f7819" md5="636bf3f99923725d94e6674c22ccc6e2" sha1="61ef6483e8f9935dd8b6351fd2bdfda3af3899bd" sha256="95ec58191de5597a5eed9a03050a0a052bcf6dc66666f61901263b247d4ac9d2"/>
+	</game>
+</datafile>

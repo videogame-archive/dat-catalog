@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad - Manuals - Hardware</name>
+		<description>Amstrad - Manuals - Hardware (TOSEC-v2011-01-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amstrad NC100 Notebook Computer (1993)(Amstrad)">
+		<description>Amstrad NC100 Notebook Computer (1993)(Amstrad)</description>
+		<rom name="Amstrad NC100 Notebook Computer (1993)(Amstrad).pdf" size="4981163" crc="f59beb8e" md5="56c11bd6710d07e4aeaf910ba56f9a26" sha1="49161208a90fdd3e686e2cae683766caf554b4a7"/>
+	</game>
+	<game name="Amstrad NC200 Notebook Computer (1993)(Amstrad)">
+		<description>Amstrad NC200 Notebook Computer (1993)(Amstrad)</description>
+		<rom name="Amstrad NC200 Notebook Computer (1993)(Amstrad).pdf" size="9066465" crc="032be4e7" md5="21f4d66cbf7a0b3474dc028c6c53b7db" sha1="aa10e04948f7f13775b5b20115204b44937bf725"/>
+	</game>
+	<game name="Amstrad PCW8256-8512 User Guide (1985)(AMSOFT)">
+		<description>Amstrad PCW8256-8512 User Guide (1985)(AMSOFT)</description>
+		<rom name="Amstrad PCW8256-8512 User Guide (1985)(AMSOFT).pdf" size="9255629" crc="fdf896ca" md5="fabfa805fa578ac06726d9ae608488ab" sha1="0b9039f953edb175715316c283e6d5cdb2495c11"/>
+	</game>
+	<game name="PCW9512 Manual de l'utilisateur (1987)(Amstrad)(FR)">
+		<description>PCW9512 Manual de l'utilisateur (1987)(Amstrad)(FR)</description>
+		<rom name="PCW9512 Manual de l'utilisateur (1987)(Amstrad)(FR).pdf" size="12795963" crc="fe87af57" md5="94c0658e676909e21e3e390a53f0d24d" sha1="266bc00af09ed8fb93331cc94022c876e0996980"/>
+	</game>
+	<game name="Pen Pad PDA600 (1993)(Amstrad)">
+		<description>Pen Pad PDA600 (1993)(Amstrad)</description>
+		<rom name="Pen Pad PDA600 (1993)(Amstrad).pdf" size="4788083" crc="d765ae09" md5="77e2c763532c2584fdef0516671986cc" sha1="bf78544a0ca262231092e4d4e8c504bfc28118f4"/>
+	</game>
+</datafile>

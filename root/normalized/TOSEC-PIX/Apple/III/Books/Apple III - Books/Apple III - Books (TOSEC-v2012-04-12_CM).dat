@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple III - Books</name>
+		<description>Apple III - Books (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Osborne McGraw-Hill Guide to your Apple III (1983)(McGraw-Hill)">
+		<description>Osborne McGraw-Hill Guide to your Apple III (1983)(McGraw-Hill)</description>
+		<rom name="Osborne McGraw-Hill Guide to your Apple III (1983)(McGraw-Hill).pdf" size="3933272" crc="ab409320" md5="4e4040a2f7185be0b3acf1cbd2a972a6" sha1="1b9eb568a7cd52643583e4c17efe03964b3693bf"/>
+	</game>
+</datafile>

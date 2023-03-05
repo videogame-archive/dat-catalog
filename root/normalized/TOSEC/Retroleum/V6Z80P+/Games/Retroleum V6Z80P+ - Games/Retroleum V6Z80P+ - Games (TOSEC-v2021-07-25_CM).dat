@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Retroleum V6Z80P+ - Games</name>
+		<description>Retroleum V6Z80P+ - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).exe" size="16463" crc="659a0a90" md5="184a0d0241b9082a586c2b7c69ec84bb" sha1="2dfbcd8cc112981b95838f9c818bef8052f087f9"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).exe" size="15864" crc="19c64651" md5="de294cb89b3d6993214de0fba83eb397" sha1="e9d0824f36c21e31432e0e5404765cae1d2fc26c"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).exe" size="15518" crc="7b039f8f" md5="481532e554c753df6d047cf1a0cc8408" sha1="4fa2e6a6c89658f6928e14e94908c699756c866b"/>
+	</game>
+</datafile>

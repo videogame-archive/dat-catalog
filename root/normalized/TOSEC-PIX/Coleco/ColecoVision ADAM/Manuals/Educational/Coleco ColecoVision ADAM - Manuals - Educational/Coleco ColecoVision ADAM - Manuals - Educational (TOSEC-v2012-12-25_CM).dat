@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Manuals - Educational</name>
+		<description>Coleco ColecoVision ADAM - Manuals - Educational (TOSEC-v2012-12-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-12-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Electronic Flashcard Maker (1984)(Coleco Industries)">
+		<description>Electronic Flashcard Maker (1984)(Coleco Industries)</description>
+		<rom name="Electronic Flashcard Maker (1984)(Coleco Industries).pdf" size="13684858" crc="4dadd89e" md5="d191653fec3df600a81439512b0a3ff7" sha1="37286539e89c598d520db103cf6b0999a13c9bcf"/>
+	</game>
+	<game name="Flash Facts (1984)(Coleco Industries)">
+		<description>Flash Facts (1984)(Coleco Industries)</description>
+		<rom name="Flash Facts (1984)(Coleco Industries).pdf" size="3478801" crc="c393ae54" md5="f8e5e0d685de5b94ca6c82560590b655" sha1="afd1a0f17b8c2538d4b16f85e131afe38d7da46f"/>
+	</game>
+</datafile>

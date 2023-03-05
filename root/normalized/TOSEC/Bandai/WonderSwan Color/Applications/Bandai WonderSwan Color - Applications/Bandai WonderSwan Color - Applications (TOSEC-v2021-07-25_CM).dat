@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai WonderSwan Color - Applications</name>
+		<description>Bandai WonderSwan Color - Applications (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mama Mitte (2002)(Tanita)[MM-280]">
+		<description>Mama Mitte (2002)(Tanita)[MM-280]</description>
+		<rom name="Mama Mitte (2002)(Tanita)[MM-280].bin" size="1048576" crc="f366172e" md5="992fe1e67e917977fcb13afa54d9ff9b" sha1="196190b24297008ab4e48b418ff29b2f8d4bc610"/>
+	</game>
+	<game name="NAVI GET 400 Million v2.1 (2001)(-)">
+		<description>NAVI GET 400 Million v2.1 (2001)(-)</description>
+		<rom name="NAVI GET 400 Million v2.1 (2001)(-).bin" size="1048576" crc="0a072698" md5="71bda13f8ab40f74c67b358528f08742" sha1="bc571f5cace41b17ddb5646d67329021be472aee"/>
+	</game>
+	<game name="NAVI GET 400 Million v3.0 (2001)(-)">
+		<description>NAVI GET 400 Million v3.0 (2001)(-)</description>
+		<rom name="NAVI GET 400 Million v3.0 (2001)(-).bin" size="1048576" crc="4c6cbdb2" md5="9dce5e7af6841901b902f701ab6f861a" sha1="4253d5151a925c7ad766f3dd19497150d578940b"/>
+	</game>
+	<game name="WS Flash Masta Menu ROM (2016-05-13)(Flash Masta)(US)">
+		<description>WS Flash Masta Menu ROM (2016-05-13)(Flash Masta)(US)</description>
+		<rom name="WS Flash Masta Menu ROM (2016-05-13)(Flash Masta)(US).bin" size="524288" crc="aabce377" md5="13bf6cd03774fb7ddb70d62813aa89b9" sha1="9869c7c97e229e103203360454495a4dbcdc3614"/>
+	</game>
+	<game name="WS Flash Masta Menu ROM (2016-08-29)(Flash Masta)(US)">
+		<description>WS Flash Masta Menu ROM (2016-08-29)(Flash Masta)(US)</description>
+		<rom name="WS Flash Masta Menu ROM (2016-08-29)(Flash Masta)(US).bin" size="131072" crc="c071d240" md5="53a132ba86468f4b94ba5677ba8e6005" sha1="2fce8b8e08e3f90999589b2d226fc7038b17ef22"/>
+	</game>
+</datafile>

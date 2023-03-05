@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Commercials - Hardware</name>
+		<description>Nintendo Game Boy - Commercials - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Boy Pocket Gold Edition (1998)(Nintendo)(AU)">
+		<description>Game Boy Pocket Gold Edition (1998)(Nintendo)(AU)</description>
+		<rom name="Game Boy Pocket Gold Edition (1998)(Nintendo)(AU).mp4" size="2756141" crc="a1cb859a" md5="332e094bbb2b6ecfa4bfa1a7e5ec0f04" sha1="d7e19d506f90d8c5c9a7263727e94e982fcd114e"/>
+	</game>
+	<game name="Nintendo Game Boy (1990)(Nintendo)(AU)">
+		<description>Nintendo Game Boy (1990)(Nintendo)(AU)</description>
+		<rom name="Nintendo Game Boy (1990)(Nintendo)(AU).mp4" size="1047286" crc="5dc62190" md5="0433d8fded2f98786acecc8051b1421d" sha1="64a0f5cb62c777506ccdc639aacfd702e36e4062"/>
+	</game>
+</datafile>

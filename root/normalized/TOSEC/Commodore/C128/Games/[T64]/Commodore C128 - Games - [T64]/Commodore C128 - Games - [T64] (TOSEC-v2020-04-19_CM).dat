@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Games - [T64]</name>
+		<description>Commodore C128 - Games - [T64] (TOSEC-v2020-04-19)</description>
+		<category>TOSEC</category>
+		<version>2020-04-19</version>
+		<author>Duncan Twain - Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Backgammon (1989)(Maier, Gerhard)(DE)[80 column]">
+		<description>Backgammon (1989)(Maier, Gerhard)(DE)[80 column]</description>
+		<rom name="Backgammon (1989)(Maier, Gerhard)(DE)[80 column].t64" size="26839" crc="bac99876" md5="340f33c920bf2a6caca75c7c828da0cb" sha1="061db658da381909f12c73a118826bf92c8db2a1"/>
+	</game>
+	<game name="Miami Ice (19xx)(-)">
+		<description>Miami Ice (19xx)(-)</description>
+		<rom name="Miami Ice (19xx)(-).t64" size="11932" crc="aa8cd316" md5="37809cdfd5708a6fb3a635882fc622fa" sha1="bdff024c9dd6d75ebcfa311e57a6bb6d6a69c621"/>
+	</game>
+	<game name="Mikes Maze (19xx)(Deming, Mike)">
+		<description>Mikes Maze (19xx)(Deming, Mike)</description>
+		<rom name="Mikes Maze (19xx)(Deming, Mike).t64" size="3142" crc="410adc2c" md5="89336ec01575839254e9a225c140153e" sha1="3ccfa6827d23873eaa4f3d8e83959735de8888e0"/>
+	</game>
+</datafile>

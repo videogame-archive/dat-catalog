@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>201</id>
+		<name>APF - MP-1000</name>
+		<description>APF - MP-1000</description>
+		<version>20211213-125803</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="APF Basic (USA)" id="0015">
+		<description>APF Basic (USA)</description>
+		<rom name="basic_80.bin" size="8192" crc="a4c69fae" md5="65f01d4716454b004d39396f23d95c94" sha1="7f98aa482589bf7c5a26d338fec105e797ba43f6" sha256="23aac129341bedce4e809195228978cc1166b668677e86ce421eb979db9a3fe1"/>
+		<rom name="basic_68.bin" size="4096" crc="5f30370b" md5="bcc0dabbb749f8fdc3bf78d8ac8c3280" sha1="cf11bd975749b88df4d82cd460035cb92563ceff" sha256="c865ea15063b5c310b0c180587b5c580237d09cdcef87309fe39f67c07f7f958"/>
+	</game>
+	<game name="Backgammon (USA)" id="0001">
+		<description>Backgammon (USA)</description>
+		<rom name="Backgammon (USA).bin" size="4096" crc="811c6269" md5="73ae2d72259a017722aea17492afd7a5" sha1="f820334bb6df9b856f54f1957b60a5e70bdd6d7e" sha256="097383e116c513da0a607c330631c58d751f2550aa2a3fa0fac0debfa4a1083a"/>
+	</game>
+	<game name="Baseball (USA)" id="0002">
+		<description>Baseball (USA)</description>
+		<rom name="Baseball (USA).bin" size="4096" crc="1fb354b7" md5="1465d677c735e55b4e57a0b6c13c3237" sha1="2c93d8e764b1e1dfdc1bde7888b385cc28064f86" sha256="70b448120e9a4acb8aed227805c90cf34a3050e9bbca708162ba076180da6c81"/>
+	</game>
+	<game name="Blackjack (USA)" id="0003">
+		<description>Blackjack (USA)</description>
+		<rom name="Blackjack (USA).bin" size="4096" crc="38faa709" md5="99013ab95f9f6c31e25485c8f435e80d" sha1="1a99f4781ce4604a550f4ec9d8559e3456303464" sha256="befd429da8cdf249afd79c75446c797483c8b93fa2bbb4ba242b4908b11c63fc"/>
+	</game>
+	<game name="Bowling ~ Micro Match (USA)" id="0009">
+		<description>Bowling ~ Micro Match (USA)</description>
+		<rom name="Bowling ~ Micro Match (USA).bin" size="4096" crc="cca5836b" md5="e34990b83b71054334ee108b476b5a68" sha1="4ff1c4ffa46c543bbf48a519a4285b5d2c697ae3" sha256="46751a869f66102c13b7256e256bd9e3749f8ed46bc462ce0ea21b413edaa882"/>
+	</game>
+	<game name="Boxing (USA)" id="0004">
+		<description>Boxing (USA)</description>
+		<rom name="Boxing (USA).bin" size="4096" crc="7121f8b1" md5="085f4494891149adc75a69089091e52a" sha1="e7ae8571b496444ded77aaaa3c1d5f5ee97c651f" sha256="7d8e3ef17bfbe728169a5dadcf7e7cfc85a708938b368a7373dacaea496a0024"/>
+	</game>
+	<game name="Brickdown ~ Shooting Gallery (USA)" id="0010">
+		<description>Brickdown ~ Shooting Gallery (USA)</description>
+		<rom name="Brickdown ~ Shooting Gallery (USA).bin" size="2048" crc="bc1f5b8b" md5="ce1e9aca6fbe1dc309a37a0271f75c12" sha1="3e2f1e93501cd0dd2c9b747c594b784360e5b175" sha256="7434c3cadda098debfbb29d73ac5b167bc2c894533cd75e7e94be04789276867"/>
+	</game>
+	<game name="Casino 1 - Slots-Roulette-Keno (USA)" id="0005">
+		<description>Casino 1 - Slots-Roulette-Keno (USA)</description>
+		<rom name="Casino 1 - Slots-Roulette-Keno (USA).bin" size="4096" crc="21d5f63f" md5="5903502975d5ddff0a11100c06e1bd95" sha1="fa34ebdb799ccd2bff9f63ce4189a4ee690706fa" sha256="3c1bf904a3bdd3defaa37334f042e6816ce018040f9ba7c4f283ffaf4ab99b06"/>
+	</game>
+	<game name="Catena (USA) (MG1001)" id="0006">
+		<description>Catena (USA) (MG1001)</description>
+		<rom name="Catena (USA) (MG1001).bin" size="2048" crc="6baad95f" md5="da1899730fe8a5a1c03a59b95f5fe438" sha1="b63ad3a60b59aad9b4605ff96f77839565144278" sha256="cb7ce0baf9a164a4aea60aad184bc927e6d372b0d7cc9665f9caa86eaef976eb"/>
+	</game>
+	<game name="Catena (USA) (MG1002)" id="0007">
+		<description>Catena (USA) (MG1002)</description>
+		<rom name="Catena (USA) (MG1002).bin" size="2048" crc="5d03a812" md5="8f00482fff09f135a02dd1ff7968905d" sha1="29db4ca3c8b76c413b84b6d2bfd3499a70eccd3d" sha256="7213ae559c7584c7fc4f69822c7a9307075a86966655d648db98e8fa54c1d571"/>
+	</game>
+	<game name="Columns ~ Targets ~ Bacteria ~ Autopista (USA)" id="0011">
+		<description>Columns ~ Targets ~ Bacteria ~ Autopista (USA)</description>
+		<rom name="Columns ~ Targets ~ Bacteria ~ Autopista (USA).bin" size="3733" crc="71c2955c" md5="e7f50563532b44f918719b8268daab4d" sha1="7e571e32ff05c92c7be7d2e42a0868538a7c5800" sha256="543d51389cd4044fd1d5872ec712f80e02e0b4dc529de805c56f036ea50679a2"/>
+	</game>
+	<game name="Extended Basic (USA)" id="0016">
+		<description>Extended Basic (USA)</description>
+		<rom name="basic_80.bin" size="8192" crc="3fefbd81" md5="b3af1d79b7ce9e342b08a0b6fcfbd547" sha1="d8c3ea8a152da50f71b98c464f47919e16743d29" sha256="b806958e5f96f22d0654688cc020ec17d27fc2df21eddc4413434b9ca64b59f2"/>
+		<rom name="basic_68.bin" size="4096" crc="e99b5102" md5="857d971a2e0da857dfe909a23879e525" sha1="62a79dc5f25a60d9007c90adf778fba432dfb900" sha256="a035e6a81f987b924a68a847f43830c268413bb53fa78c914469a126277433cf"/>
+		<rom name="basic_78.bin" size="2048" crc="fdcf7782" md5="3bfcea0dd67115a3344c324a8d595105" sha1="aa0b94182920a232c1e2fb7e3a4d9042511572c4" sha256="459f070def4346b09a9f6f83c033fdb030a17a9d80f78d5a036ac12db38ba085"/>
+	</game>
+	<game name="Hangman ~ Tic-Tac-Toe ~ Doodle (USA)" id="0012">
+		<description>Hangman ~ Tic-Tac-Toe ~ Doodle (USA)</description>
+		<rom name="Hangman ~ Tic-Tac-Toe ~ Doodle (USA).bin" size="4096" crc="e58a5d5b" md5="01ceda20d936e4a41f1bd0802dc0e69c" sha1="205d659db0e0ab0292d33b5b4a9c2b46ca9d1dd5" sha256="154fc41a0b298e481c9e88be8b6503c718b7d5719d39ba5a9cd51adb960fd1b2"/>
+	</game>
+	<game name="Pinball ~ Dungeon Hunt ~ Blockout (USA)" id="0013">
+		<description>Pinball ~ Dungeon Hunt ~ Blockout (USA)</description>
+		<rom name="Pinball ~ Dungeon Hunt ~ Blockout (USA).bin" size="4096" crc="3f4b8c83" md5="75910e921d0db2d8a6609addca7b558d" sha1="1f5bca6e96777ccbe830d1143a3549f51a3e386e" sha256="1e0ae4f246b8a06d6b0739cbaadf11a1d462c0d8569b6f3e1b98675c99c07bc1"/>
+	</game>
+	<game name="Space Destroyers (USA)" id="0008">
+		<description>Space Destroyers (USA)</description>
+		<rom name="Space Destroyers (USA).bin" size="4096" crc="f25215a0" md5="e987cfc57c2e78b67fd5f534982d7b22" sha1="72da492092b883eb31cffb41ea353e919c86d285" sha256="65854a1bccf089123b5fea28e2ea914ead865515cf77ef4d89ac876fe1cc95fc"/>
+	</game>
+	<game name="UFO ~ Sea Monsters ~ Break It Down ~ Rebuild ~ Shoot (USA)" id="0014">
+		<description>UFO ~ Sea Monsters ~ Break It Down ~ Rebuild ~ Shoot (USA)</description>
+		<rom name="UFO ~ Sea Monsters ~ Break It Down ~ Rebuild ~ Shoot (USA).bin" size="4096" crc="0504d667" md5="c21b4e67299ef92a8e43071c171a8620" sha1="6e33593f9e7a4551bc31b347741d9ff87ce618ca" sha256="7cd34d146ca20a32dec93deb39bd7f6a86141d3ce1a80ce548bf5737508d11ad"/>
+	</game>
+</datafile>

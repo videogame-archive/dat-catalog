@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Game Gear - Manuals - Hardware</name>
+		<description>Sega Game Gear - Manuals - Hardware (TOSEC-v2012-04-19)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-19</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Gear (1990)(Sega)(JP)">
+		<description>Game Gear (1990)(Sega)(JP)</description>
+		<rom name="Game Gear (1990)(Sega)(JP).pdf" size="621497" crc="3abb74bc" md5="ee249c8c322f86ea119b06038aaaace4" sha1="722641d8f82179a7ce494d0c462b50ecd462b32e"/>
+	</game>
+	<game name="Game Gear (1990)(Sega)(JP)[registration card]">
+		<description>Game Gear (1990)(Sega)(JP)[registration card]</description>
+		<rom name="Game Gear (1990)(Sega)(JP)[registration card].pdf" size="572418" crc="565f0fd7" md5="37e3ba4b6f2edf7c40c91dcf598fe070" sha1="96fb8cee77f8c786ff235c80d4c9915a692d2151"/>
+	</game>
+</datafile>

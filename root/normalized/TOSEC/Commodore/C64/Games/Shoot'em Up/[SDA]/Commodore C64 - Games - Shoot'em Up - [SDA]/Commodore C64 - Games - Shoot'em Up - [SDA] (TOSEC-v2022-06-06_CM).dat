@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Shoot&apos;em Up - [SDA]</name>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [SDA] (TOSEC-v2022-06-06)</description>
+		<category>TOSEC</category>
+		<version>2022-06-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Bowman (1989)(Mattson, Jon)[SEUCK]">
+		<description>Bowman (1989)(Mattson, Jon)[SEUCK]</description>
+		<rom name="Bowman (1989)(Mattson, Jon)[SEUCK].sda" size="41728" crc="0360c189" md5="1570a213d5d5f5aaec4d1808e607b1ad" sha1="e4ef01b4258ccd78a9246c48d60e3459ef0a98f3"/>
+	</game>
+	<game name="Chopper Bopper (19xx)(Theodorian)(PD)">
+		<description>Chopper Bopper (19xx)(Theodorian)(PD)</description>
+		<rom name="Chopper Bopper (19xx)(Theodorian)(PD).sda" size="6144" crc="ac069e5d" md5="eb8f353230062032d49d18da50174ac6" sha1="4d0e6a08123bbe5495f932117230d3ff838eafee"/>
+	</game>
+	<game name="Commie UFO Attack (1986)(Goldsmith, Steve)">
+		<description>Commie UFO Attack (1986)(Goldsmith, Steve)</description>
+		<rom name="Commie UFO Attack (1986)(Goldsmith, Steve).sda" size="16128" crc="cf8dfa0c" md5="06c09eb33a66a52d1c1dd014d5849abf" sha1="ac41c04f9cc1a4fd4ae5186bf409d26e409793ff"/>
+	</game>
+	<game name="Larc-Mission, The (1986)(Ahoy!-Ion International)">
+		<description>Larc-Mission, The (1986)(Ahoy!-Ion International)</description>
+		<rom name="Larc-Mission, The (1986)(Ahoy!-Ion International).sda" size="8704" crc="dd9d2f53" md5="d5d8a70e38fd88c66d7e1d4e093c6168" sha1="5171e63fbed9aecf02c2268c2b00c5373c5e4f85"/>
+	</game>
+	<game name="Parallax (1983)(London Software)">
+		<description>Parallax (1983)(London Software)</description>
+		<rom name="Parallax (1983)(London Software).sda" size="13056" crc="d82647f5" md5="184e3ebb6709e6cf0393aa3e599c2f77" sha1="d2f4ea4e8be9417a8054e1af4030cf0353b40393"/>
+	</game>
+	<game name="Wall Wars (198x)(Orcutt, Charles E.)">
+		<description>Wall Wars (198x)(Orcutt, Charles E.)</description>
+		<rom name="Wall Wars (198x)(Orcutt, Charles E.).sda" size="11264" crc="1d227ba9" md5="3ed1a527d47795abf80824b49c430d06" sha1="0a16f555d1419f161cb64e10cbd5b0e71e27cb44"/>
+	</game>
+	<game name="Wall Wars (198x)(Orcutt, Charles E.)[a]">
+		<description>Wall Wars (198x)(Orcutt, Charles E.)[a]</description>
+		<rom name="Wall Wars (198x)(Orcutt, Charles E.)[a].sda" size="11176" crc="3b59e228" md5="b59eb605969d89a0b47e59c4bfa88510" sha1="3e0f691768d97bcda750feb769a21052efd1a11a"/>
+	</game>
+	<game name="War (1991)(Dembrowski, Mark)">
+		<description>War (1991)(Dembrowski, Mark)</description>
+		<rom name="War (1991)(Dembrowski, Mark).sda" size="49276" crc="829dc075" md5="d394845e3287bbdef34e178bfe08e9d1" sha1="c573df9baad65626e512bd37c23ae4cb5d619682"/>
+	</game>
+	<game name="War (1991)(Dembrowski, Mark)[a]">
+		<description>War (1991)(Dembrowski, Mark)[a]</description>
+		<rom name="War (1991)(Dembrowski, Mark)[a].sda" size="49280" crc="f94d8fea" md5="a97ee37b5d8d3987d1ee47777ab8c6ca" sha1="30910e693e0ca688265e4d3720d650dfd10d1627"/>
+	</game>
+	<game name="War (1991)(Dembrowski, Mark)[a2]">
+		<description>War (1991)(Dembrowski, Mark)[a2]</description>
+		<rom name="War (1991)(Dembrowski, Mark)[a2].sda" size="49281" crc="9224a964" md5="366ff307d9348d35169e2f63e5d6df0d" sha1="db1dcafeb21ab2f9a83c1790ad5099a0bb8dd947"/>
+	</game>
+</datafile>

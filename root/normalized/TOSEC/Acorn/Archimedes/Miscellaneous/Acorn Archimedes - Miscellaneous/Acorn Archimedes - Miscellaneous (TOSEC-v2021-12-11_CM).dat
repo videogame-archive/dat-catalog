@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - Miscellaneous</name>
+		<description>Acorn Archimedes - Miscellaneous (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Archimedes Public Domain Library Catalogue (199x)(A.P.D.L.)(GB)(PD)">
+		<description>Archimedes Public Domain Library Catalogue (199x)(A.P.D.L.)(GB)(PD)</description>
+		<rom name="Archimedes Public Domain Library Catalogue (199x)(A.P.D.L.)(GB)(PD).adf" size="819200" crc="b40367f0" md5="5b1517a7792d8689fb2b05e00fc41209" sha1="9038c3fac370596b7efcf5f0d88607673a5dd159"/>
+	</game>
+	<game name="Blank 1600K Disc (19xx)(-)">
+		<description>Blank 1600K Disc (19xx)(-)</description>
+		<rom name="Blank 1600K Disc (19xx)(-).adf" size="1638400" crc="1e9fe695" md5="7abdd21388d02f69df7bc4747c54da05" sha1="d316eb617e3752c764d7973d450ecca633a97cb8"/>
+	</game>
+	<game name="Blank 800K Disc (19xx)(-)">
+		<description>Blank 800K Disc (19xx)(-)</description>
+		<rom name="Blank 800K Disc (19xx)(-).adf" size="819200" crc="3ae36529" md5="b62275f643ad445abadcfe97416449b7" sha1="146790bdbe8ebb6bb619ceba524ff2264d214bf8"/>
+	</game>
+</datafile>

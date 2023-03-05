@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Manuals - Hardware</name>
+		<description>EACA EG2000 Colour Genie - Manuals - Hardware (TOSEC-v2011-02-20)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-02-20</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Colour-GENIE DISK-BASIC Vorlaufige Einfuhrung (1983)(TCS Computer)(DE)">
+		<description>Colour-GENIE DISK-BASIC Vorlaufige Einfuhrung (1983)(TCS Computer)(DE)</description>
+		<rom name="Colour-GENIE DISK-BASIC Vorlaufige Einfuhrung (1983)(TCS Computer)(DE).pdf" size="1011819" crc="96063b16" md5="79e8dbd02f01535467e47c5eab51383c" sha1="c2de07e26f90d784c85bc4f65fdaad9b28b8071b"/>
+	</game>
+	<game name="Colour-Genie Handbuch (1984)(TCS Computer)(DE)">
+		<description>Colour-Genie Handbuch (1984)(TCS Computer)(DE)</description>
+		<rom name="Colour-Genie Handbuch (1984)(TCS Computer)(DE).pdf" size="3798263" crc="7c09c4b5" md5="22c81695ef3ab1ed8cb0372edad86e6a" sha1="e495566d8b3b4cbe5b7c3355a509f7e4731be3f4"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Manuals - Applications</name>
+		<description>Exidy Sorcerer - Manuals - Applications (TOSEC-v2010-01-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Development Pac, The (1979)(Exidy)">
+		<description>Development Pac, The (1979)(Exidy)</description>
+		<rom name="Development Pac, The (1979)(Exidy).pdf" size="3765556" crc="d6997c76" md5="2af36e72bc30a9f02aecee7a6b48a044" sha1="7c7c21b36861648355b1fc39afd8b08479521e61"/>
+	</game>
+	<game name="Development Pac, The (1979)(Exidy)[a]">
+		<description>Development Pac, The (1979)(Exidy)[a]</description>
+		<rom name="Development Pac, The (1979)(Exidy)[a].pdf" size="5978536" crc="38491762" md5="079a98f9bbeb9a525908478c7fb2e6ca" sha1="16e8490077b0416b05ce6060e0d71e5c1007252c"/>
+	</game>
+	<game name="Sorcer Software Manual (1979)(Exidy)">
+		<description>Sorcer Software Manual (1979)(Exidy)</description>
+		<rom name="Sorcer Software Manual (1979)(Exidy).pdf" size="6458398" crc="3efca11e" md5="ea3b9b89b3ab19ec7bc97cbc5717e08c" sha1="0f1eb5b34b41cdb0b13be814ae51bcfe94982973"/>
+	</game>
+	<game name="Sorcer Software Manual (1979-04)(Exidy)">
+		<description>Sorcer Software Manual (1979-04)(Exidy)</description>
+		<rom name="Sorcer Software Manual (1979-04)(Exidy).pdf" size="5914238" crc="e7258ea2" md5="e0a67221ce8c107370da6485bc4ec1ec" sha1="0883a26e881286894cfd74c8e7a447c114c2987e"/>
+	</game>
+	<game name="Sorcerer Monitor Version 1.1 Update (1980-12)(Exidy)">
+		<description>Sorcerer Monitor Version 1.1 Update (1980-12)(Exidy)</description>
+		<rom name="Sorcerer Monitor Version 1.1 Update (1980-12)(Exidy).pdf" size="968238" crc="08a16c58" md5="2719cbfa18d92db210f32d756d6fc38c" sha1="734ca1af49fede9722714d285921ca84564633be"/>
+	</game>
+</datafile>

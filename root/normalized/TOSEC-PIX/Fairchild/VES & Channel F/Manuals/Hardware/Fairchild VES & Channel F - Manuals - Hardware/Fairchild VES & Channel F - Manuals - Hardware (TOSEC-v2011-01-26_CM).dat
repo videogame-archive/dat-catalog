@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fairchild VES &amp; Channel F - Manuals - Hardware</name>
+		<description>Fairchild VES &amp; Channel F - Manuals - Hardware (TOSEC-v2011-01-26)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-26</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Fairchild VES Manual (1976)(Fairchild)">
+		<description>Fairchild VES Manual (1976)(Fairchild)</description>
+		<rom name="Fairchild VES Manual (1976)(Fairchild).pdf" size="19319889" crc="9a0c029b" md5="ab0b9e2a0b44579b5589cfc4f4a5fc29" sha1="922c8ccf148e67afbbf2ed333157f42841ec2412"/>
+	</game>
+	<game name="Fairchild VES Manual (1976)(Fairchild)[a]">
+		<description>Fairchild VES Manual (1976)(Fairchild)[a]</description>
+		<rom name="Fairchild VES Manual (1976)(Fairchild)[a].pdf" size="1685725" crc="f83ff915" md5="9cb974d3e2438746a028987f922631bd" sha1="38d5b3b84aa82aeacb854e7517eee4c2a463b69c"/>
+	</game>
+	<game name="Fairchild VES Service Manual (1976)(Fairchild)">
+		<description>Fairchild VES Service Manual (1976)(Fairchild)</description>
+		<rom name="Fairchild VES Service Manual (1976)(Fairchild).pdf" size="277067" crc="84aba6c1" md5="0b2c5adbc99e8a5f92621cbfac74db07" sha1="16d1ba8f6f3bdd77d31273a91e09c17d0be8b266"/>
+	</game>
+</datafile>

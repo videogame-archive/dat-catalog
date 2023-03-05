@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>209</id>
+		<name>Yamaha - Copera</name>
+		<description>Yamaha - Copera</description>
+		<version>20211125-171549</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Copera no Chikyuu Daisuki (Japan)" id="0001">
+		<description>Copera no Chikyuu Daisuki (Japan)</description>
+		<rom name="Copera no Chikyuu Daisuki (Japan).ic1" size="1048576" crc="9a5dd562" md5="9d56e4ed21d91630fb7a94090a8d6ac5" sha1="730195fc41efb923a4f8e8acd5228d1ae8b16c16" sha256="4cca7cc24a79e985c081cbf5a7a939aab2c6cec6efe114a3e51f12af764ea4c7"/>
+	</game>
+	<game name="Copera no Kono Oto Naani (Japan)" id="0002">
+		<description>Copera no Kono Oto Naani (Japan)</description>
+		<rom name="Copera no Kono Oto Naani (Japan).ic1" size="1048576" crc="1041e52a" md5="b5a6e6d8236e04f644599c51e8b26992" sha1="422f46d670a5f8094267984051ed6f90babe2dce"/>
+	</game>
+	<game name="Copera no Time Machine (Japan)" id="0003">
+		<description>Copera no Time Machine (Japan)</description>
+		<rom name="Copera no Time Machine (Japan).ic1" size="1048576" crc="a7d33072" md5="cc13b093f0bfa16ea55d3e1525a0008d" sha1="081c61e35478ffdda6eda58f40be056732f35595"/>
+	</game>
+	<game name="Do Re Mi Fa Densetsu (Japan)" id="0004">
+		<description>Do Re Mi Fa Densetsu (Japan)</description>
+		<rom name="Do Re Mi Fa Densetsu (Japan).ic1" size="1048576" crc="24aa1251" md5="4613aad140e70f206ba1fe70dd8bc44b" sha1="1a7d5156aa3f2ffba168bce1bbd9436cb0c11510"/>
+	</game>
+	<game name="Melody Land (Japan)" id="0005">
+		<description>Melody Land (Japan)</description>
+		<rom name="Melody Land (Japan).ic1" size="1048576" crc="9b05acc9" md5="43e1b061f492c0e7c7bf8687dc30528f" sha1="cd4f3260309a1236f6f0d491f385d4dececa349e"/>
+	</game>
+	<game name="Mike to Asobou - Tobidase Milky Way (Japan)" id="0006">
+		<description>Mike to Asobou - Tobidase Milky Way (Japan)</description>
+		<rom name="Mike to Asobou - Tobidase Milky Way (Japan).ic1" size="1048576" crc="0cb5727d" md5="302b85f7e8c526c7c812ab741269021c" sha1="5f271c69f574a761f2c83f8005978dcb0635e81b"/>
+	</game>
+	<game name="Otto Katachicchi (Japan)" id="0007">
+		<description>Otto Katachicchi (Japan)</description>
+		<rom name="Otto Katachicchi (Japan).ic1" size="1048576" crc="d1aee834" md5="0a63402c8ea767e9b5419ec386f24b2d" sha1="93c825160286b483904428eece2b14e521c20d15"/>
+	</game>
+	<game name="Outa no Canvas (Japan)" id="0008">
+		<description>Outa no Canvas (Japan)</description>
+		<rom name="Outa no Canvas (Japan).ic1" size="1048576" crc="b25e7134" md5="098b96c6a2d9c27be529ee00a3b4ca93" sha1="0578314e66b2385e0520a421af695ccfef44f076"/>
+	</game>
+</datafile>

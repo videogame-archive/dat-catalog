@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8001 - Games - [WAV]</name>
+		<description>NEC PC-8001 - Games - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle - FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-21)(Inufuto)(JP)">
+		<description>Ascend (2022-03-21)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-21)(Inufuto)(JP).wav" size="2900012" crc="f3763788" md5="96e2e22cf6b3c016b2937f6533f1531d" sha1="546291c8fa2da4afa6ebcc0854d9ba7c6e8deb6a"/>
+	</game>
+	<game name="Mario Bros. Special (1984)(Hudson)(Side A)[YB-5006]">
+		<description>Mario Bros. Special (1984)(Hudson)(Side A)[YB-5006]</description>
+		<rom name="Mario Bros. Special (1984)(Hudson)(Side A)[YB-5006].wav" size="41088044" crc="adb9c2b5" md5="0eb38de30145073f343659ed94415800" sha1="a67fa2f99b77eced5a0fca7bfe6ae6c630d1c2e9"/>
+	</game>
+	<game name="Mario Bros. Special (1984)(Hudson)(Side B)[YB-5006]">
+		<description>Mario Bros. Special (1984)(Hudson)(Side B)[YB-5006]</description>
+		<rom name="Mario Bros. Special (1984)(Hudson)(Side B)[YB-5006].wav" size="41226796" crc="96c87ef5" md5="cfbd9876615d7f9440af7bddd620f4c7" sha1="8e5a1d5dba6a14109ac45a956d888c96ba3d685a"/>
+	</game>
+	<game name="Mazy (2020)(Inufuto)(JP)">
+		<description>Mazy (2020)(Inufuto)(JP)</description>
+		<rom name="Mazy (2020)(Inufuto)(JP).wav" size="1964172" crc="e1b9d13d" md5="fe73a56626fa5ac8e24dee5f09cd5b85" sha1="da1e2242f65c095daa862e38cb5ab2054dd4067c"/>
+	</game>
+	<game name="Ruptus (2020-12-05)(Inufuto)(JP)">
+		<description>Ruptus (2020-12-05)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2020-12-05)(Inufuto)(JP).wav" size="4166060" crc="23cb6ecc" md5="fb5e64805357a0a2b1255d4ad79bdfee" sha1="19f00c53e965d98ca9b1f9cdf0b84c17af9c7fa5"/>
+	</game>
+</datafile>

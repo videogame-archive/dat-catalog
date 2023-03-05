@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Books</name>
+		<description>Atari ST - Books (TOSEC-v2017-11-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2017-11-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari ST Basic to C (1988)(Abacus Software)">
+		<description>Atari ST Basic to C (1988)(Abacus Software)</description>
+		<rom name="Atari ST Basic to C (1988)(Abacus Software).pdf" size="48990472" crc="13033972" md5="adb4fbcbd7643e457eeb80d3f9a95a9a" sha1="7a699160663653303723fdc2ac152142697fbc0e"/>
+	</game>
+	<game name="Atari ST Internals (1986)(Abacus Software)">
+		<description>Atari ST Internals (1986)(Abacus Software)</description>
+		<rom name="Atari ST Internals (1986)(Abacus Software).pdf" size="11233063" crc="21b5471c" md5="8ecf8526d833a665a6c9d428bf9efa46" sha1="b9056e0ac57a97200b6c81ee4ba80aea6fa922ad"/>
+	</game>
+	<game name="Atari ST Machine Language (1989)(Abacus Software)">
+		<description>Atari ST Machine Language (1989)(Abacus Software)</description>
+		<rom name="Atari ST Machine Language (1989)(Abacus Software).pdf" size="66572034" crc="ac49f81d" md5="164e179d63d841326e60276f4aba9abb" sha1="e2eaea2c682fc09ab78f5d3e934ce972339dd159"/>
+	</game>
+	<game name="Atari ST Tricks and Tips (1986)(Abacus Software)">
+		<description>Atari ST Tricks and Tips (1986)(Abacus Software)</description>
+		<rom name="Atari ST Tricks and Tips (1986)(Abacus Software).pdf" size="37538396" crc="059d00e6" md5="7719dfd3195336a4919e02f7fa4936ad" sha1="7e12adcafc4e19e9a4d08187b5662a36c59814b6"/>
+	</game>
+	<game name="COMPUTE!'s Technical Reference Guide Atari ST Volume One VDI (1989)(COMPUTE! Publications)">
+		<description>COMPUTE!'s Technical Reference Guide Atari ST Volume One VDI (1989)(COMPUTE! Publications)</description>
+		<rom name="COMPUTE!'s Technical Reference Guide Atari ST Volume One VDI (1989)(COMPUTE! Publications).pdf" size="33724881" crc="55fd6b8c" md5="7c61dd3a59b23752cb08aacece9a64a2" sha1="24928a85d629e0b7c4737bf7ca7d5b518bc532b5"/>
+	</game>
+	<game name="ST Assembly Language Workshop Volume 1, The (1991)(Taylor Ridge Books)">
+		<description>ST Assembly Language Workshop Volume 1, The (1991)(Taylor Ridge Books)</description>
+		<rom name="ST Assembly Language Workshop Volume 1, The (1991)(Taylor Ridge Books).pdf" size="15574748" crc="3232a52b" md5="a8e7a88480ac06b8d9a28f58d7d9de6c" sha1="5f80ae56ba458f66c0ec9eb5c8f8c1f5ecd7f358"/>
+	</game>
+</datafile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Grundy NewBrain - Games</name>
+		<description>Grundy NewBrain - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="_dir.txt" size="14" crc="58ff1b95" md5="21335daade74683c78c53bf1782641f0" sha1="ba9a701db5ccdddf7b148d0d3c4300761158c376"/>
+		<rom name="a.bas" size="272" crc="7f27e9b2" md5="ef99684a6aabf5b61a545b3303375fdb" sha1="61c37d95ef64b3c6964c4eb6f3ed1fd036818894"/>
+		<rom name="a.dat" size="10435" crc="c677232b" md5="eeb310d315c563ab22947888bbc62941" sha1="edae6d4f94849549802074362c9530040b201182"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="_dir.txt" size="14" crc="58ff1b95" md5="21335daade74683c78c53bf1782641f0" sha1="ba9a701db5ccdddf7b148d0d3c4300761158c376"/>
+		<rom name="a.bas" size="273" crc="0fc3d11c" md5="9185a10c203e75e4e8206e877779d96a" sha1="84aef84f31bfb94957f1cadec855e01c10085585"/>
+		<rom name="a.dat" size="10130" crc="91855517" md5="da640e84ac2097567efb502489eef1a9" sha1="a849f53a5778186813ff9f81711087968ab90142"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="_dir.txt" size="28" crc="e63fbaaa" md5="e540da44b04c9670c9175532a8f5c7aa" sha1="67ab395ba1c52cb513ba7ad2a225a38568223a32"/>
+		<rom name="newbrain.bas" size="283" crc="0397449e" md5="ca0a42a89e680e568688ed57188e1711" sha1="6c31fa74dcd3492f7a0910cec2cffec1a63a5961"/>
+		<rom name="newbrain.dat" size="11671" crc="072d1058" md5="842337dfcb03d071693f1281c9a25c92" sha1="6eb8f748269ee973bb761e8b19df756d9e6406ae"/>
+	</game>
+</datafile>

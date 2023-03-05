@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 - Artwork - Games</name>
+		<description>NEC PC-9801 - Artwork - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Trial of Fours (1992)(Westside)(JP)[box]">
+		<description>Trial of Fours (1992)(Westside)(JP)[box]</description>
+		<rom name="Trial of Fours (1992)(Westside)(JP)[box].pdf" size="17923456" crc="c43b8fb7" md5="d21063bba95872784a6cd16dcb8762fb" sha1="ba04416b11b68a3ba9f910f757e324d4fce3a4db"/>
+	</game>
+	<game name="XZR (1988)(Telenet)(JP)[box]">
+		<description>XZR (1988)(Telenet)(JP)[box]</description>
+		<rom name="XZR (1988)(Telenet)(JP)[box].pdf" size="7097003" crc="9a9c4939" md5="63d4c5f65b66f12e3b553b6995fe6cfc" sha1="2eb4b1eeea6e27ef5f857e5cd2018a188c107844"/>
+	</game>
+	<game name="XZR (1988)(Telenet)(JP)[disk]">
+		<description>XZR (1988)(Telenet)(JP)[disk]</description>
+		<rom name="XZR (1988)(Telenet)(JP)[disk].pdf" size="4474343" crc="c741385c" md5="1c53bb5a9ea3d0fe47d33e9f137acdb5" sha1="2f154f1dacc59a8b19a4a053872aadd7407132ff"/>
+	</game>
+</datafile>

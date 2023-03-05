@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Hard Disks - Applications - [2MG]</name>
+		<description>Apple II - Hard Disks - Applications - [2MG] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Post-Demuffin Patcher v1.20160325 (2016-03-25)(4am)(MIT)">
+		<description>Post-Demuffin Patcher v1.20160325 (2016-03-25)(4am)(MIT)</description>
+		<rom name="Post-Demuffin Patcher v1.20160325 (2016-03-25)(4am)(MIT).2mg" size="33553984" crc="2a8413fc" md5="fccea8b4b8d8ae0cbcbc3b9818e5c1e2" sha1="91d80509c115c06b94e8f72d06a53198953039d6"/>
+	</game>
+	<game name="Post-Demuffin Patcher v1.20160418 (2016-04-18)(4am)(MIT)">
+		<description>Post-Demuffin Patcher v1.20160418 (2016-04-18)(4am)(MIT)</description>
+		<rom name="Post-Demuffin Patcher v1.20160418 (2016-04-18)(4am)(MIT).2mg" size="33553984" crc="72d8585f" md5="a830a3abadf3ba48efca28c611685075" sha1="42837e32ae828abfd408dfed1c415af8f88d9c8b"/>
+	</game>
+	<game name="Sim-8800 v2.0 (2019-10-11)(Mangin, Charles)(IIEE)(US)[128K]">
+		<description>Sim-8800 v2.0 (2019-10-11)(Mangin, Charles)(IIEE)(US)[128K]</description>
+		<rom name="Sim-8800 v2.0 (2019-10-11)(Mangin, Charles)(IIEE)(US)[128K].2mg" size="33553984" crc="f435483d" md5="47d0494d58ce569ab43cc43d900e9ca9" sha1="fbed3c43df8124aae5e814e307a731c0c15f8946"/>
+	</game>
+</datafile>

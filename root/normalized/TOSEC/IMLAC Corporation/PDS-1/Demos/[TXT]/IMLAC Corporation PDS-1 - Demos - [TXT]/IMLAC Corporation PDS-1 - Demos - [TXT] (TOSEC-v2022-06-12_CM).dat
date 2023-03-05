@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IMLAC Corporation PDS-1 - Demos - [TXT]</name>
+		<description>IMLAC Corporation PDS-1 - Demos - [TXT] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Clock (197x)(-)">
+		<description>Clock (197x)(-)</description>
+		<rom name="Clock (197x)(-).txt" size="13544" crc="caa14dd1" md5="107103151904e73281f560d5c1493b6d" sha1="ee8e64b8ac09e7568b43d5c3526c47a8b6b8dbb1"/>
+	</game>
+</datafile>

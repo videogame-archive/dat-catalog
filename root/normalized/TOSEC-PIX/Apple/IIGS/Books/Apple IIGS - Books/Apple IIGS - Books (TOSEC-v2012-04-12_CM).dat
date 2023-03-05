@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple IIGS - Books</name>
+		<description>Apple IIGS - Books (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Advanced Programming Techniques for the IIGS Toolbox (1988)(COMPUTE! Publications)">
+		<description>Advanced Programming Techniques for the IIGS Toolbox (1988)(COMPUTE! Publications)</description>
+		<rom name="Advanced Programming Techniques for the IIGS Toolbox (1988)(COMPUTE! Publications).pdf" size="34624635" crc="2764323b" md5="c9d4b8b2d0435fc95389f753dcf18411" sha1="f173390ed4d51c28733867c7d575d6d1a1dbb092"/>
+	</game>
+	<game name="Apple IIGS Firmware Reference (1987)(Addison-Wesley Publishing)">
+		<description>Apple IIGS Firmware Reference (1987)(Addison-Wesley Publishing)</description>
+		<rom name="Apple IIGS Firmware Reference (1987)(Addison-Wesley Publishing).pdf" size="26611370" crc="9e7a0283" md5="58ff443dac91308d77a15579644336bf" sha1="60e68ada73f8800d58edd3296072d43ed3e8ba4a"/>
+	</game>
+	<game name="Apple IIGS Hardware Reference (1988)(Addison-Wesley Publishing)[second edition]">
+		<description>Apple IIGS Hardware Reference (1988)(Addison-Wesley Publishing)[second edition]</description>
+		<rom name="Apple IIGS Hardware Reference (1988)(Addison-Wesley Publishing)[second edition].pdf" size="16106183" crc="9b5cdb76" md5="76e3f0afb119a2629bea48c5dd367517" sha1="84bc073d8ca349900f4e4e54ffc8188ec3943e42"/>
+	</game>
+	<game name="Exploring The Apple IIGS (1987)(Addison-Wesley Publishing)">
+		<description>Exploring The Apple IIGS (1987)(Addison-Wesley Publishing)</description>
+		<rom name="Exploring The Apple IIGS (1987)(Addison-Wesley Publishing).pdf" size="41878377" crc="dd8c4956" md5="b057c3334b4885561206d7cd37c6af91" sha1="b4489c66370ed963b96aece198a091b5353f70cf"/>
+	</game>
+	<game name="Programmer's Introduction to the Apple IIGS (1988)(Addison-Wesley Publishing)">
+		<description>Programmer's Introduction to the Apple IIGS (1988)(Addison-Wesley Publishing)</description>
+		<rom name="Programmer's Introduction to the Apple IIGS (1988)(Addison-Wesley Publishing).pdf" size="44662807" crc="03a8698f" md5="33d4099c03c40f6ac3e3bcfa1fc01144" sha1="5fe4b5393665091b7c39c431f69c3cfaec027ed3"/>
+	</game>
+	<game name="Technical Introduction to the Apple IIGS (1986)(Apple)">
+		<description>Technical Introduction to the Apple IIGS (1986)(Apple)</description>
+		<rom name="Technical Introduction to the Apple IIGS (1986)(Apple).pdf" size="10307603" crc="3cd324a2" md5="cb33a6bcad3355970852bda3ccba88d8" sha1="d4005ae1c9380fe9787b3ffd7f85da6dd5e2e73f"/>
+	</game>
+</datafile>

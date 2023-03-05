@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Applications - [WAV]</name>
+		<description>Exidy Sorcerer - Applications - [WAV] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BASIC Compiler v1.21 (1982-12-14)(System Software)(AU)[1200baud]">
+		<description>BASIC Compiler v1.21 (1982-12-14)(System Software)(AU)[1200baud]</description>
+		<rom name="BASIC Compiler v1.21 (1982-12-14)(System Software)(AU)[1200baud].wav" size="18874150" crc="db015584" md5="75c804d3d838bd2a28c5984cd1a284e8" sha1="593ee5afa5ac1721955e35af38e7f1152831c963"/>
+	</game>
+	<game name="BASIC Compiler v1.21 (1982-12-14)(System Software)(AU)[300baud]">
+		<description>BASIC Compiler v1.21 (1982-12-14)(System Software)(AU)[300baud]</description>
+		<rom name="BASIC Compiler v1.21 (1982-12-14)(System Software)(AU)[300baud].wav" size="79659190" crc="c87d05f7" md5="05ef30f9f243328dd4ac163c18e987fb" sha1="a81145c3866b61963249fce9ce054ff67e49c91c"/>
+	</game>
+	<game name="Bio-rhythm (1981)(Micro Software - Sorcerer Users Sydney Group)(AU)[1200baud][BASIC]">
+		<description>Bio-rhythm (1981)(Micro Software - Sorcerer Users Sydney Group)(AU)[1200baud][BASIC]</description>
+		<rom name="Bio-rhythm (1981)(Micro Software - Sorcerer Users Sydney Group)(AU)[1200baud][BASIC].wav" size="5947778" crc="bbe0f0ce" md5="9ed90e58e2ab647a259f2fcf09f9f853" sha1="1709c4fa65b5f9c7b887cf1d63c3f3b6d6383bd1"/>
+	</game>
+	<game name="Bio-rhythm (1981)(Micro Software - Sorcerer Users Sydney Group)(AU)[300baud][BASIC]">
+		<description>Bio-rhythm (1981)(Micro Software - Sorcerer Users Sydney Group)(AU)[300baud][BASIC]</description>
+		<rom name="Bio-rhythm (1981)(Micro Software - Sorcerer Users Sydney Group)(AU)[300baud][BASIC].wav" size="10428676" crc="e4db7bf0" md5="ad4633e3b6d1e536d4cef3a3926f1b36" sha1="e04f66b2204e04a62f3f479de6f88c0bcc11e087"/>
+	</game>
+	<game name="Biochart v2 (19xx)(-)[m I. Gillies][1200baud][BASIC]">
+		<description>Biochart v2 (19xx)(-)[m I. Gillies][1200baud][BASIC]</description>
+		<rom name="Biochart v2 (19xx)(-)[m I. Gillies][1200baud][BASIC].wav" size="6366174" crc="bc4e0723" md5="e2c4f496d5e52b2c7615b7feb8aaaa74" sha1="bb9302bdda3365ff3269caecd0ea233ff763c826"/>
+	</game>
+	<game name="Biochart v2 (19xx)(-)[m I. Gillies][300baud][BASIC]">
+		<description>Biochart v2 (19xx)(-)[m I. Gillies][300baud][BASIC]</description>
+		<rom name="Biochart v2 (19xx)(-)[m I. Gillies][300baud][BASIC].wav" size="11259814" crc="6a7dcd64" md5="8520d0db061b9147c32f0da12f5790e1" sha1="1f7f1a1c45bd4029b6204f903a3d610b9d8e6214"/>
+	</game>
+	<game name="Boot (19xx)(-)[1200baud]">
+		<description>Boot (19xx)(-)[1200baud]</description>
+		<rom name="Boot (19xx)(-)[1200baud].wav" size="791236" crc="d3bbb4cc" md5="303abbb93c69d2d7e86a80d3a64e12d3" sha1="9c2913dceb389c05e535e3af1a4a37390c1297a6"/>
+	</game>
+	<game name="Boot (19xx)(-)[300baud]">
+		<description>Boot (19xx)(-)[300baud]</description>
+		<rom name="Boot (19xx)(-)[300baud].wav" size="1889798" crc="ffe98b80" md5="e11f0e10355423c11e540548fedc1700" sha1="6fee79a18d73f2ba8b0aacc886e667a457a9d19b"/>
+	</game>
+	<game name="Bootsector (19xx)(-)[1200baud]">
+		<description>Bootsector (19xx)(-)[1200baud]</description>
+		<rom name="Bootsector (19xx)(-)[1200baud].wav" size="1409064" crc="79bfb60f" md5="97691effcd015f89fc384dc264e144f6" sha1="b66636882f0104e9e164f69e4b5b777ac0be1136"/>
+	</game>
+	<game name="Bootsector (19xx)(-)[300baud]">
+		<description>Bootsector (19xx)(-)[300baud]</description>
+		<rom name="Bootsector (19xx)(-)[300baud].wav" size="4344414" crc="32d49853" md5="fed1c3bdb74ff5833979ed3629004831" sha1="f1cba37b5ba037d99b3758bd0cff429416491da5"/>
+	</game>
+	<game name="Character Programmer (19xx)(-)[1200baud]">
+		<description>Character Programmer (19xx)(-)[1200baud]</description>
+		<rom name="Character Programmer (19xx)(-)[1200baud].wav" size="3027328" crc="53ba5a56" md5="a4f7751bdb4952ccf1ecb39016efa13c" sha1="92eabe594a63d9a96afbbf74bb47610963e0c36f"/>
+	</game>
+	<game name="Character Programmer (19xx)(-)[300baud]">
+		<description>Character Programmer (19xx)(-)[300baud]</description>
+		<rom name="Character Programmer (19xx)(-)[300baud].wav" size="11038784" crc="f8e169a5" md5="e9099da8808c4724aa0522738090961e" sha1="75192287e4675a7a504023323012fd76218433da"/>
+	</game>
+	<game name="Characters (1979)(Walco, Mike)[1200baud][BASIC]">
+		<description>Characters (1979)(Walco, Mike)[1200baud][BASIC]</description>
+		<rom name="Characters (1979)(Walco, Mike)[1200baud][BASIC].wav" size="3783278" crc="6a009c9c" md5="b65a1e97dd1c17699a2055547e97a5bb" sha1="ddc3d419df41f2bcf2fe956ef19c4dfa5c04135e"/>
+	</game>
+	<game name="Characters (1979)(Walco, Mike)[300baud][BASIC]">
+		<description>Characters (1979)(Walco, Mike)[300baud][BASIC]</description>
+		<rom name="Characters (1979)(Walco, Mike)[300baud][BASIC].wav" size="15389898" crc="a6de6b44" md5="4838042502fdb8ce55b119fa599e4cf5" sha1="ed54bbe2bf04f17fdee19c72b1235a34b6d0a3ce"/>
+	</game>
+	<game name="Create Graphic Characters (1979-12)(Practical Computing)(GB)[1200baud][BASIC][pg 90]">
+		<description>Create Graphic Characters (1979-12)(Practical Computing)(GB)[1200baud][BASIC][pg 90]</description>
+		<rom name="Create Graphic Characters (1979-12)(Practical Computing)(GB)[1200baud][BASIC][pg 90].wav" size="6148140" crc="2cfb934b" md5="1df4b7b26bd19d624ead9f61686dc1c4" sha1="02725361848f4250558534c22d7d1faa95a3a04c"/>
+	</game>
+	<game name="Create Graphic Characters (1979-12)(Practical Computing)(GB)[300baud][BASIC][pg 90]">
+		<description>Create Graphic Characters (1979-12)(Practical Computing)(GB)[300baud][BASIC][pg 90]</description>
+		<rom name="Create Graphic Characters (1979-12)(Practical Computing)(GB)[300baud][BASIC][pg 90].wav" size="23694124" crc="e6eff1fb" md5="150ba857d85a7a140a6571331bf5a590" sha1="80fe3e38d2e50cc8e44ba6bca6360521282db256"/>
+	</game>
+	<game name="Debug (1979)(Quality Software)(US)[300baud]">
+		<description>Debug (1979)(Quality Software)(US)[300baud]</description>
+		<rom name="Debug (1979)(Quality Software)(US)[300baud].wav" size="14142914" crc="4a64b69c" md5="d0d2634e8f39f46d9bba028e0fb09dd6" sha1="602158121c83361486337664371c81ccb01d1e9d"/>
+	</game>
+	<game name="DPX (1980)(Quality Software)(US)[16K][1200baud][req Z80 Development ROMPAC]">
+		<description>DPX (1980)(Quality Software)(US)[16K][1200baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX (1980)(Quality Software)(US)[16K][1200baud][req Z80 Development ROMPAC].wav" size="2600662" crc="1b83fec5" md5="a4783d6bdb0107a207e797fe96f4ea42" sha1="4ff042cb2cdbd19d0a6dfe8fbc0acf5515fb6706"/>
+	</game>
+	<game name="DPX (1980)(Quality Software)(US)[16K][300baud][req Z80 Development ROMPAC]">
+		<description>DPX (1980)(Quality Software)(US)[16K][300baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX (1980)(Quality Software)(US)[16K][300baud][req Z80 Development ROMPAC].wav" size="8735148" crc="0a380d9c" md5="c0f56719bbb57f7d2482dbeff4273f1f" sha1="d72e6fddcf05fdeecbc3a75978143c481a021de0"/>
+	</game>
+	<game name="DPX (1980)(Quality Software)(US)[32K][1200baud][req Z80 Development ROMPAC]">
+		<description>DPX (1980)(Quality Software)(US)[32K][1200baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX (1980)(Quality Software)(US)[32K][1200baud][req Z80 Development ROMPAC].wav" size="2600662" crc="83f39d78" md5="5093a6b9e2fe7ed05d7d17024804fe9f" sha1="3bad32b89dd71d78785c279fcf2825c8376efe8d"/>
+	</game>
+	<game name="DPX (1980)(Quality Software)(US)[32K][300baud][req Z80 Development ROMPAC]">
+		<description>DPX (1980)(Quality Software)(US)[32K][300baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX (1980)(Quality Software)(US)[32K][300baud][req Z80 Development ROMPAC].wav" size="8769196" crc="d2792654" md5="a89e5206807db21fe91c5a39866887b3" sha1="a359cd76d4f1cd86c3d5e90e8c9b8b26138eaacb"/>
+	</game>
+	<game name="DPX (1980)(Quality Software)(US)[8K][1200baud][req Z80 Development ROMPAC]">
+		<description>DPX (1980)(Quality Software)(US)[8K][1200baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX (1980)(Quality Software)(US)[8K][1200baud][req Z80 Development ROMPAC].wav" size="2600662" crc="3a917b23" md5="0feefcb71db2f67c49bb3cbc6a215125" sha1="25173dd25d24c10948d8cc6a94d1be1847e76ff3"/>
+	</game>
+	<game name="DPX (1980)(Quality Software)(US)[8K][300baud][req Z80 Development ROMPAC]">
+		<description>DPX (1980)(Quality Software)(US)[8K][300baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX (1980)(Quality Software)(US)[8K][300baud][req Z80 Development ROMPAC].wav" size="8681388" crc="1eff5eff" md5="e00e99706c7b3a6791ac1cbd8beb4062" sha1="7dafba0219eeb084c3871100c0683b194147dbae"/>
+	</game>
+	<game name="DPX Load Module (1980)(Quality Software)(US)[1200baud][req Z80 Development ROMPAC]">
+		<description>DPX Load Module (1980)(Quality Software)(US)[1200baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX Load Module (1980)(Quality Software)(US)[1200baud][req Z80 Development ROMPAC].wav" size="10772172" crc="abaa9cb1" md5="cdd6ddd7b69cb4cbd5995655564c08cf" sha1="6231f10f04ab033622bc259c645267f6d9bfd429"/>
+	</game>
+	<game name="DPX Load Module (1980)(Quality Software)(US)[300baud][req Z80 Development ROMPAC]">
+		<description>DPX Load Module (1980)(Quality Software)(US)[300baud][req Z80 Development ROMPAC]</description>
+		<rom name="DPX Load Module (1980)(Quality Software)(US)[300baud][req Z80 Development ROMPAC].wav" size="41477164" crc="084af7b9" md5="e208376e4037562910bcc847d1ad5d96" sha1="e5b02be629ee6b5410465e8190efb17a5cc96db6"/>
+	</game>
+	<game name="Draw v1.2 (1982)(-)[1200baud][BASIC]">
+		<description>Draw v1.2 (1982)(-)[1200baud][BASIC]</description>
+		<rom name="Draw v1.2 (1982)(-)[1200baud][BASIC].wav" size="2891502" crc="f879465f" md5="a6e79cbe26a126c05e6a378c84faffde" sha1="8b67907c9162b8dc9cedc8361ae9689af39fc247"/>
+	</game>
+	<game name="Draw v1.2 (1982)(-)[300baud][BASIC]">
+		<description>Draw v1.2 (1982)(-)[300baud][BASIC]</description>
+		<rom name="Draw v1.2 (1982)(-)[300baud][BASIC].wav" size="10650924" crc="53cdf949" md5="53757576942a0c08f539c46550bc9527" sha1="d684cb8a8b9afcfbeebc9090e857a69e048ba22e"/>
+	</game>
+	<game name="Dybug2 (1981)(Global Software Network)[1200baud]">
+		<description>Dybug2 (1981)(Global Software Network)[1200baud]</description>
+		<rom name="Dybug2 (1981)(Global Software Network)[1200baud].wav" size="3856852" crc="35471c94" md5="d453c2ddfc1fe5e06d26881c2b53599a" sha1="b951c8ccbd3ac509fcb89916820dcce414e14cfb"/>
+	</game>
+	<game name="Dybug2 (1981)(Global Software Network)[300baud]">
+		<description>Dybug2 (1981)(Global Software Network)[300baud]</description>
+		<rom name="Dybug2 (1981)(Global Software Network)[300baud].wav" size="14457900" crc="a535cf2e" md5="b812dddf7d420953141f8dead67d045e" sha1="d4d0cbed9e3c06e91f81847baddab09250b9b9a7"/>
+	</game>
+	<game name="EDITR - BASIC Screen Editor v1.1 (1980)(Woodberry, David)[1200baud]">
+		<description>EDITR - BASIC Screen Editor v1.1 (1980)(Woodberry, David)[1200baud]</description>
+		<rom name="EDITR - BASIC Screen Editor v1.1 (1980)(Woodberry, David)[1200baud].wav" size="736850" crc="92223415" md5="8775bbb5f45b900eca2c55100283c83e" sha1="824cab28ac950337757e1c10570985447e1c8dea"/>
+	</game>
+	<game name="EDITR - BASIC Screen Editor v1.1 (1980)(Woodberry, David)[300baud]">
+		<description>EDITR - BASIC Screen Editor v1.1 (1980)(Woodberry, David)[300baud]</description>
+		<rom name="EDITR - BASIC Screen Editor v1.1 (1980)(Woodberry, David)[300baud].wav" size="1971244" crc="d032a0b4" md5="e382d8362396c7d063cb299c9e6d917d" sha1="820252f3aa84b13fa9065b04cb404b79ecc0667b"/>
+	</game>
+	<game name="ELIZA (19xx)(-)[1200baud][BASIC]">
+		<description>ELIZA (19xx)(-)[1200baud][BASIC]</description>
+		<rom name="ELIZA (19xx)(-)[1200baud][BASIC].wav" size="5449758" crc="b48ad445" md5="5f2f484c87136a55cbb6326d8bc83751" sha1="e46359ed4cf2aa6c0412342c2e30cf876356d6d4"/>
+	</game>
+	<game name="ELIZA (19xx)(-)[300baud][BASIC]">
+		<description>ELIZA (19xx)(-)[300baud][BASIC]</description>
+		<rom name="ELIZA (19xx)(-)[300baud][BASIC].wav" size="20397994" crc="ebde4bcd" md5="3c43c2d1e33c266ccc49ad5df1e06290" sha1="ab84fbf1583ab4524d48cb0b98bb6ac7088b1a54"/>
+	</game>
+	<game name="EZYFILE - Cassette-Disk Database System (1981)(Stafford, Bob)[1200baud]">
+		<description>EZYFILE - Cassette-Disk Database System (1981)(Stafford, Bob)[1200baud]</description>
+		<rom name="EZYFILE - Cassette-Disk Database System (1981)(Stafford, Bob)[1200baud].wav" size="6038992" crc="5ef9a458" md5="46ef54b3409226b6cdb9483da5245def" sha1="523b5d011953888221bddf2f12ce50b0323f1b45"/>
+	</game>
+	<game name="EZYFILE - Cassette-Disk Database System (1981)(Stafford, Bob)[300baud]">
+		<description>EZYFILE - Cassette-Disk Database System (1981)(Stafford, Bob)[300baud]</description>
+		<rom name="EZYFILE - Cassette-Disk Database System (1981)(Stafford, Bob)[300baud].wav" size="23085440" crc="96eeab3b" md5="6624bbe077fb53dbf3b18ecbf3243c3d" sha1="162599eaa2fc4a3267960c1f4d192e2a0e6a1ee5"/>
+	</game>
+	<game name="Flash Card (1981-10)(Practical Computing)(GB)[1200baud][BASIC][pg 74]">
+		<description>Flash Card (1981-10)(Practical Computing)(GB)[1200baud][BASIC][pg 74]</description>
+		<rom name="Flash Card (1981-10)(Practical Computing)(GB)[1200baud][BASIC][pg 74].wav" size="2239044" crc="4055efe1" md5="acae09fe2772416ee584662804bded41" sha1="55b9c1ad1ea7e67d50b9ccb9b9282e25795a4721"/>
+	</game>
+	<game name="Flash Card (1981-10)(Practical Computing)(GB)[300baud][BASIC][pg 74]">
+		<description>Flash Card (1981-10)(Practical Computing)(GB)[300baud][BASIC][pg 74]</description>
+		<rom name="Flash Card (1981-10)(Practical Computing)(GB)[300baud][BASIC][pg 74].wav" size="8110124" crc="87b75c3a" md5="014e514d4f55a8f373e1feb47a780bb6" sha1="74b79b32d3b218b1e380f1bcaf2e4ccb5b7bed09"/>
+	</game>
+	<game name="Interactive Budget Program (19xx)(-)[1200baud][BASIC][Demo 2]">
+		<description>Interactive Budget Program (19xx)(-)[1200baud][BASIC][Demo 2]</description>
+		<rom name="Interactive Budget Program (19xx)(-)[1200baud][BASIC][Demo 2].wav" size="8304458" crc="61c888b2" md5="01b2bdead1f27355cb0c75f5505d4311" sha1="87e57ee17a90175b6a34094025ddb98869c8d862"/>
+	</game>
+	<game name="Interactive Budget Program (19xx)(-)[300baud][BASIC][Demo 2]">
+		<description>Interactive Budget Program (19xx)(-)[300baud][BASIC][Demo 2]</description>
+		<rom name="Interactive Budget Program (19xx)(-)[300baud][BASIC][Demo 2].wav" size="31739630" crc="7639d35e" md5="2f18a99b20a728e9fd14de221bf71b39" sha1="577d8cd114472224867476549c2c9fa3eb94d011"/>
+	</game>
+	<game name="invrt (19xx)(-)[1200baud][BASIC]">
+		<description>invrt (19xx)(-)[1200baud][BASIC]</description>
+		<rom name="invrt (19xx)(-)[1200baud][BASIC].wav" size="685914" crc="94a6f779" md5="a5c94e0eab40ff94dea37614689729a0" sha1="2282dafaaa6e62f608b4a95837704de56910a26e"/>
+	</game>
+	<game name="invrt (19xx)(-)[300baud][BASIC]">
+		<description>invrt (19xx)(-)[300baud][BASIC]</description>
+		<rom name="invrt (19xx)(-)[300baud][BASIC].wav" size="1847084" crc="fbc695cf" md5="bfe602841fc1a1a0b853f84a8e40be22" sha1="423e2266ae795ec8a64601ed23208c6a07822438"/>
+	</game>
+	<game name="Macrotronics S-80 Ham Interface for the Exidy Sorcerer v1.1 (1978)(Lodewyck, R.)[1200baud][BASIC]">
+		<description>Macrotronics S-80 Ham Interface for the Exidy Sorcerer v1.1 (1978)(Lodewyck, R.)[1200baud][BASIC]</description>
+		<rom name="Macrotronics S-80 Ham Interface for the Exidy Sorcerer v1.1 (1978)(Lodewyck, R.)[1200baud][BASIC].wav" size="5301642" crc="d6da3c36" md5="b1d0d6665cb900792e07bac4224e9c71" sha1="0c0c3a782ff0bb915c7343584dac0943858a19e1"/>
+	</game>
+	<game name="Macrotronics S-80 Ham Interface for the Exidy Sorcerer v1.1 (1978)(Lodewyck, R.)[300baud][BASIC]">
+		<description>Macrotronics S-80 Ham Interface for the Exidy Sorcerer v1.1 (1978)(Lodewyck, R.)[300baud][BASIC]</description>
+		<rom name="Macrotronics S-80 Ham Interface for the Exidy Sorcerer v1.1 (1978)(Lodewyck, R.)[300baud][BASIC].wav" size="20139272" crc="91f3e5f2" md5="f1879e8475aaef6508747873219f090c" sha1="2b99acce3e81dcef6878ce3c4c8f333a41d910fd"/>
+	</game>
+	<game name="Memory Change (1980-02)(Sorcerer Program Exchange Club)(GB)[1200baud]">
+		<description>Memory Change (1980-02)(Sorcerer Program Exchange Club)(GB)[1200baud]</description>
+		<rom name="Memory Change (1980-02)(Sorcerer Program Exchange Club)(GB)[1200baud].wav" size="1441860" crc="da7c4934" md5="2e7bd066d59a6f16f664359a1dece924" sha1="c8ebf88b6e0072734606a1f20eb664666883753d"/>
+	</game>
+	<game name="Memory Change (1980-02)(Sorcerer Program Exchange Club)(GB)[300baud]">
+		<description>Memory Change (1980-02)(Sorcerer Program Exchange Club)(GB)[300baud]</description>
+		<rom name="Memory Change (1980-02)(Sorcerer Program Exchange Club)(GB)[300baud].wav" size="4696926" crc="71814535" md5="5a27e0560fe2bc544e13ec0f9e44de46" sha1="819a9e129711f70b3afead42ba06a4a396fc27f2"/>
+	</game>
+	<game name="MIDAS - Microcomputer Database System (1980)(Stafford, R.J.V.)[1200baud]">
+		<description>MIDAS - Microcomputer Database System (1980)(Stafford, R.J.V.)[1200baud]</description>
+		<rom name="MIDAS - Microcomputer Database System (1980)(Stafford, R.J.V.)[1200baud].wav" size="4755902" crc="ba8ab2c9" md5="eed39c746d8f179780c9574dd7c1f6c8" sha1="35f85582c2aa9405cde709578c4b81bf96e3c6c5"/>
+	</game>
+	<game name="MIDAS - Microcomputer Database System (1980)(Stafford, R.J.V.)[300baud]">
+		<description>MIDAS - Microcomputer Database System (1980)(Stafford, R.J.V.)[300baud]</description>
+		<rom name="MIDAS - Microcomputer Database System (1980)(Stafford, R.J.V.)[300baud].wav" size="17953076" crc="c14e57ac" md5="f788504ae2753d761523a880a7c914dc" sha1="f6e4a69fec7bbf96d33b98ac7734722944432795"/>
+	</game>
+	<game name="ML to DATA statements converter (19xx)(-)[1200baud][BASIC]">
+		<description>ML to DATA statements converter (19xx)(-)[1200baud][BASIC]</description>
+		<rom name="ML to DATA statements converter (19xx)(-)[1200baud][BASIC].wav" size="2185682" crc="418a9410" md5="834397251bd84b2dae1cf9ba80d49042" sha1="8870769f40205237ee22f097e02748dc823002fa"/>
+	</game>
+	<game name="ML to DATA statements converter (19xx)(-)[300baud][BASIC]">
+		<description>ML to DATA statements converter (19xx)(-)[300baud][BASIC]</description>
+		<rom name="ML to DATA statements converter (19xx)(-)[300baud][BASIC].wav" size="7919404" crc="4d00d19a" md5="9c269c22f9c6702b5d229009bfc52129" sha1="db72ce134b14f42f0e2fea146d9d8d02dbee567e"/>
+	</game>
+	<game name="Music Composer (1980)(Arrington Software)[1200baud][BASIC]">
+		<description>Music Composer (1980)(Arrington Software)[1200baud][BASIC]</description>
+		<rom name="Music Composer (1980)(Arrington Software)[1200baud][BASIC].wav" size="10150216" crc="e163f39f" md5="857c697787983404e4fcac98e726833c" sha1="9fc625fab32338d2351571efcb59f775b87b6c65"/>
+	</game>
+	<game name="Music Composer (1980)(Arrington Software)[300baud][BASIC]">
+		<description>Music Composer (1980)(Arrington Software)[300baud][BASIC]</description>
+		<rom name="Music Composer (1980)(Arrington Software)[300baud][BASIC].wav" size="39530324" crc="10afbd59" md5="39ecef3dcee85b8c141a6c78355f89c8" sha1="4e12d7395a701c26b74e9b4171504bd24565b5c4"/>
+	</game>
+	<game name="Plot (1979)(Quality Software)(US)[1200baud][BASIC]">
+		<description>Plot (1979)(Quality Software)(US)[1200baud][BASIC]</description>
+		<rom name="Plot (1979)(Quality Software)(US)[1200baud][BASIC].wav" size="9101642" crc="a1e9cbdd" md5="ff12876017f91ed2f4dfed51c067312b" sha1="8637ceea8c2f6b002ae68e0dbe42c422ea0619c9"/>
+	</game>
+	<game name="Plot (1979)(Quality Software)(US)[300baud][BASIC]">
+		<description>Plot (1979)(Quality Software)(US)[300baud][BASIC]</description>
+		<rom name="Plot (1979)(Quality Software)(US)[300baud][BASIC].wav" size="27770688" crc="6fe54adb" md5="17e16b4f7ed3de9453b9b31c58253812" sha1="5d88d0d3465f0e74d1dee36e4215f0a76d1c9118"/>
+	</game>
+	<game name="Savings and Loan (1979)(Johnson, Paul E.)[1200baud][BASIC][Demo 1]">
+		<description>Savings and Loan (1979)(Johnson, Paul E.)[1200baud][BASIC][Demo 1]</description>
+		<rom name="Savings and Loan (1979)(Johnson, Paul E.)[1200baud][BASIC][Demo 1].wav" size="12789598" crc="0edabe32" md5="ae6e6a1edb29672f74623a272acd7290" sha1="e729696d8d69dc13b9ea768f62de445a45073a60"/>
+	</game>
+	<game name="Savings and Loan (1979)(Johnson, Paul E.)[300baud][BASIC][Demo 1]">
+		<description>Savings and Loan (1979)(Johnson, Paul E.)[300baud][BASIC][Demo 1]</description>
+		<rom name="Savings and Loan (1979)(Johnson, Paul E.)[300baud][BASIC][Demo 1].wav" size="49558962" crc="e1207712" md5="909f2844730c28b3a5483b7cdc07c261" sha1="7ae0f7c578be78386aee0ce13f88872f38e0af2d"/>
+	</game>
+	<game name="Scote - Screen Editor for the Z80 Development PAC (1981)(System Software)[32K][1200baud][req Z80 Development ROMPAC]">
+		<description>Scote - Screen Editor for the Z80 Development PAC (1981)(System Software)[32K][1200baud][req Z80 Development ROMPAC]</description>
+		<rom name="Scote - Screen Editor for the Z80 Development PAC (1981)(System Software)[32K][1200baud][req Z80 Development ROMPAC].wav" size="1849566" crc="a7c1b33b" md5="85c80bd5668e774e43897a69f8e449bb" sha1="38e185f97e31a6afb90a0dff8fca85f1aedb8d84"/>
+	</game>
+	<game name="Scote - Screen Editor for the Z80 Development PAC (1981)(System Software)[32K][300baud][req Z80 Development ROMPAC]">
+		<description>Scote - Screen Editor for the Z80 Development PAC (1981)(System Software)[32K][300baud][req Z80 Development ROMPAC]</description>
+		<rom name="Scote - Screen Editor for the Z80 Development PAC (1981)(System Software)[32K][300baud][req Z80 Development ROMPAC].wav" size="5464748" crc="c03d0a0e" md5="61b1c1129354890bea6fe14f3ec0294d" sha1="d31c893c6ac11eafd4035151da39644999cf37b2"/>
+	</game>
+	<game name="Serialboot (19xx)(-)[1200baud]">
+		<description>Serialboot (19xx)(-)[1200baud]</description>
+		<rom name="Serialboot (19xx)(-)[1200baud].wav" size="792864" crc="86aab4e6" md5="46a6c45bcfa08054f1b94815244ff808" sha1="1bdbc648a6f861d4d500c9cb6b7c58ab67a6c121"/>
+	</game>
+	<game name="Serialboot (19xx)(-)[300baud]">
+		<description>Serialboot (19xx)(-)[300baud]</description>
+		<rom name="Serialboot (19xx)(-)[300baud].wav" size="1896270" crc="36694444" md5="eb0fa053cc60fb026ea18402b9dc5035" sha1="064b1bed900c47714deb9cc9697c8e06797875c2"/>
+	</game>
+	<game name="Shape Maker (1979)(Quality Software)(US)[300baud][BASIC]">
+		<description>Shape Maker (1979)(Quality Software)(US)[300baud][BASIC]</description>
+		<rom name="Shape Maker (1979)(Quality Software)(US)[300baud][BASIC].wav" size="19627564" crc="bb2da986" md5="f84c432047c2dac5ab865e4e7b53e1ae" sha1="38870256ad94110178fc0be1db8de906635acc9d"/>
+	</game>
+	<game name="Sorcerer Level II BASIC (19xx)(-)[1200baud]">
+		<description>Sorcerer Level II BASIC (19xx)(-)[1200baud]</description>
+		<rom name="Sorcerer Level II BASIC (19xx)(-)[1200baud].wav" size="11337092" crc="514fed59" md5="7b1e891d6f4ac59c056d555cc74fd4f9" sha1="ec01010219ac79d7b76099326a7100f1e0afd14c"/>
+	</game>
+	<game name="Sorcerer Level II BASIC (19xx)(-)[300baud]">
+		<description>Sorcerer Level II BASIC (19xx)(-)[300baud]</description>
+		<rom name="Sorcerer Level II BASIC (19xx)(-)[300baud].wav" size="44277846" crc="186abcc9" md5="44550cd5b4ac7ccb9e0dcf25bee3c9b0" sha1="440e259029a818159dccd331033e69b7bac8bb08"/>
+	</game>
+	<game name="Sorcerer TZKIT Relocator (19xx)(-)[1200baud]">
+		<description>Sorcerer TZKIT Relocator (19xx)(-)[1200baud]</description>
+		<rom name="Sorcerer TZKIT Relocator (19xx)(-)[1200baud].wav" size="9186158" crc="df90d8d8" md5="f543e85980fdcd3cb19f6b0c9c91c5f1" sha1="70a79a88cc021b3298341cec4ca4890b772227f0"/>
+	</game>
+	<game name="Sorcerer TZKIT Relocator (19xx)(-)[300baud]">
+		<description>Sorcerer TZKIT Relocator (19xx)(-)[300baud]</description>
+		<rom name="Sorcerer TZKIT Relocator (19xx)(-)[300baud].wav" size="33792634" crc="65838b5b" md5="791b5592b630a5ec6d8a0d91d5ac3dc9" sha1="ae1f4421d9827fef910febebc969a0040d82a15f"/>
+	</game>
+	<game name="Sound Effects Generator (19xx)(-)[1200baud][req ZYTEK Analogue Interface, joystick]">
+		<description>Sound Effects Generator (19xx)(-)[1200baud][req ZYTEK Analogue Interface, joystick]</description>
+		<rom name="Sound Effects Generator (19xx)(-)[1200baud][req ZYTEK Analogue Interface, joystick].wav" size="2308672" crc="f7e190bc" md5="cb5a675a2404ded51b909ea3bad29d9d" sha1="406575924b4c17a4c0f2c726cdced4bc9f9f148c"/>
+	</game>
+	<game name="Sound Effects Generator (19xx)(-)[300baud][req ZYTEK Analogue Interface, joystick]">
+		<description>Sound Effects Generator (19xx)(-)[300baud][req ZYTEK Analogue Interface, joystick]</description>
+		<rom name="Sound Effects Generator (19xx)(-)[300baud][req ZYTEK Analogue Interface, joystick].wav" size="6468562" crc="9625abc2" md5="eba5d32513b0d4b7e7ea0e428f725a26" sha1="a2b1241ffe033972795d37a6d4bcc23db6e1aa15"/>
+	</game>
+	<game name="Spellbinder (19xx)(-)[1200baud]">
+		<description>Spellbinder (19xx)(-)[1200baud]</description>
+		<rom name="Spellbinder (19xx)(-)[1200baud].wav" size="17570626" crc="4686b702" md5="4f30d69eaf9e7a415bf125dbb6e3e217" sha1="34bb46be96dd24071bab89fa246a230847144b23"/>
+	</game>
+	<game name="Spellbinder (19xx)(-)[300baud]">
+		<description>Spellbinder (19xx)(-)[300baud]</description>
+		<rom name="Spellbinder (19xx)(-)[300baud].wav" size="69211978" crc="591daa30" md5="fcd239dcd3ee6acaeceea444b8d0cbde" sha1="3010800eea682199fd3f770460ff5450f5a2d081"/>
+	</game>
+	<game name="Super Disassembler (1981)(Global Software Network)[1200baud]">
+		<description>Super Disassembler (1981)(Global Software Network)[1200baud]</description>
+		<rom name="Super Disassembler (1981)(Global Software Network)[1200baud].wav" size="5009184" crc="9fb4178e" md5="ff351bf67276d77525d67d73f9b05d81" sha1="896b3e103a57fa916b25f0c60be0a788fddd75f4"/>
+	</game>
+	<game name="Super Disassembler (1981)(Global Software Network)[300baud]">
+		<description>Super Disassembler (1981)(Global Software Network)[300baud]</description>
+		<rom name="Super Disassembler (1981)(Global Software Network)[300baud].wav" size="18462124" crc="40f4c19b" md5="9eb372a777c043ba3f720986c45b06cc" sha1="00a1b508c34e0bc30497157e37e7f9643f404c3c"/>
+	</game>
+	<game name="System 3 - The Ultimate BASIC ROM PAC Toolkit v1.0 (1981)(System Software)(AU)[1200baud][req BASIC ROMPAC]">
+		<description>System 3 - The Ultimate BASIC ROM PAC Toolkit v1.0 (1981)(System Software)(AU)[1200baud][req BASIC ROMPAC]</description>
+		<rom name="System 3 - The Ultimate BASIC ROM PAC Toolkit v1.0 (1981)(System Software)(AU)[1200baud][req BASIC ROMPAC].wav" size="4186940" crc="dd64940e" md5="8434f950042a9a97b2c14ab733e99b01" sha1="3e358d1c90c0dd33b32c0fee29917695a964da9d"/>
+	</game>
+	<game name="System 3 - The Ultimate BASIC ROM PAC Toolkit v1.0 (1981)(System Software)(AU)[300baud][req BASIC ROMPAC]">
+		<description>System 3 - The Ultimate BASIC ROM PAC Toolkit v1.0 (1981)(System Software)(AU)[300baud][req BASIC ROMPAC]</description>
+		<rom name="System 3 - The Ultimate BASIC ROM PAC Toolkit v1.0 (1981)(System Software)(AU)[300baud][req BASIC ROMPAC].wav" size="14883420" crc="9d4efbb6" md5="9c994ed1bdea72c4cfdf372f0a915c1d" sha1="8d6c6765ed2118fb4c31898202bc196737510d7e"/>
+	</game>
+	<game name="Text Editor Program (1979-07-27)(Elston, Peter J.)[1200baud][BASIC][Demo 3]">
+		<description>Text Editor Program (1979-07-27)(Elston, Peter J.)[1200baud][BASIC][Demo 3]</description>
+		<rom name="Text Editor Program (1979-07-27)(Elston, Peter J.)[1200baud][BASIC][Demo 3].wav" size="7359404" crc="eb7f9d60" md5="645cb748e53e8808b779b57dc7540bfe" sha1="b28897d26e6f3a7dec9fedf5bd40bf115dee4408"/>
+	</game>
+	<game name="Text Editor Program (1979-07-27)(Elston, Peter J.)[300baud][BASIC][Demo 3]">
+		<description>Text Editor Program (1979-07-27)(Elston, Peter J.)[300baud][BASIC][Demo 3]</description>
+		<rom name="Text Editor Program (1979-07-27)(Elston, Peter J.)[300baud][BASIC][Demo 3].wav" size="27984954" crc="b7a146cc" md5="cc0494bae626f77684d2aefcfb34e6ea" sha1="7f8088299143b40775f4dc4a758132d46fa3cb00"/>
+	</game>
+	<game name="Z-80 Disassembler (1979)(-)[300baud][BASIC]">
+		<description>Z-80 Disassembler (1979)(-)[300baud][BASIC]</description>
+		<rom name="Z-80 Disassembler (1979)(-)[300baud][BASIC].wav" size="20174844" crc="a36139bc" md5="1417f0c66c5285838884159c140723aa" sha1="f6ba1d162084880c1957cf480371c5a32075910b"/>
+	</game>
+	<game name="Z-80 Disassembler (1979)(Reid, Ivan)[m SCUA y-b 26][1200baud][BASIC]">
+		<description>Z-80 Disassembler (1979)(Reid, Ivan)[m SCUA y-b 26][1200baud][BASIC]</description>
+		<rom name="Z-80 Disassembler (1979)(Reid, Ivan)[m SCUA y-b 26][1200baud][BASIC].wav" size="4523056" crc="4f469608" md5="ec1376224c807657378a30bfb581f12a" sha1="315be6a64157d7a9f331a23ceb4d436fd3f44c19"/>
+	</game>
+	<game name="Z-80 Disassembler (1979)(Reid, Ivan)[m SCUA y-b 26][300baud][BASIC]">
+		<description>Z-80 Disassembler (1979)(Reid, Ivan)[m SCUA y-b 26][300baud][BASIC]</description>
+		<rom name="Z-80 Disassembler (1979)(Reid, Ivan)[m SCUA y-b 26][300baud][BASIC].wav" size="17225004" crc="b39ed50e" md5="e530be856d826f73d94900c521a84484" sha1="fd8d0ba20ab1420b84312f0977ba5d0ff70c89d9"/>
+	</game>
+	<game name="Z80 Code Relocator (19xx)(Sorcerer Computer Users Australia)[1200baud][BASIC][y-b 26 p. 12]">
+		<description>Z80 Code Relocator (19xx)(Sorcerer Computer Users Australia)[1200baud][BASIC][y-b 26 p. 12]</description>
+		<rom name="Z80 Code Relocator (19xx)(Sorcerer Computer Users Australia)[1200baud][BASIC][y-b 26 p. 12].wav" size="5236962" crc="ee29a6a4" md5="2da210b474e20813649e3a4da9fb6f15" sha1="71a6f5aa1d95431c234656795f20613318a9bfa5"/>
+	</game>
+	<game name="Z80 Code Relocator (19xx)(Sorcerer Computer Users Australia)[300baud][BASIC][y-b 26 p. 12]">
+		<description>Z80 Code Relocator (19xx)(Sorcerer Computer Users Australia)[300baud][BASIC][y-b 26 p. 12]</description>
+		<rom name="Z80 Code Relocator (19xx)(Sorcerer Computer Users Australia)[300baud][BASIC][y-b 26 p. 12].wav" size="20034604" crc="71a91e47" md5="bd7e0f8afa6314f755b0310741f9391a" sha1="131a19a931af514f14d241b1f2bab0de0f3729a3"/>
+	</game>
+	<game name="Z80 Disassembler (1979)(Quality Software)(US)[1200baud][BASIC]">
+		<description>Z80 Disassembler (1979)(Quality Software)(US)[1200baud][BASIC]</description>
+		<rom name="Z80 Disassembler (1979)(Quality Software)(US)[1200baud][BASIC].wav" size="5860536" crc="4e385368" md5="703145b11f1ca73afc11f4e8c6eb7435" sha1="65b73f859788ce04c9f6910df3f21611e259ab14"/>
+	</game>
+	<game name="Z80 Disassembler (1979)(Quality Software)(US)[300baud][BASIC]">
+		<description>Z80 Disassembler (1979)(Quality Software)(US)[300baud][BASIC]</description>
+		<rom name="Z80 Disassembler (1979)(Quality Software)(US)[300baud][BASIC].wav" size="21879852" crc="e169ae3f" md5="8f7b15bc7a2ad7e2fa8fd800f6095aa9" sha1="c967831c92aed9733653252a2c23b129892ef5a5"/>
+	</game>
+	<game name="ZAP80 (1981)(System Software)(AU)[1200baud]">
+		<description>ZAP80 (1981)(System Software)(AU)[1200baud]</description>
+		<rom name="ZAP80 (1981)(System Software)(AU)[1200baud].wav" size="4329236" crc="6b151975" md5="6d130326b3428824e91fdd16fe006b52" sha1="e1f392c15ed99dfcf24cd771b0e884fe51107033"/>
+	</game>
+	<game name="ZAP80 (1981)(System Software)(AU)[300baud]">
+		<description>ZAP80 (1981)(System Software)(AU)[300baud]</description>
+		<rom name="ZAP80 (1981)(System Software)(AU)[300baud].wav" size="15452614" crc="d0d8c2ac" md5="9485f163b85dea51dea5c9e8d07f9652" sha1="bad6834d53288bf0e187454ed7b1806d4fea7bed"/>
+	</game>
+	<game name="Zetu v1.2 (19xx)(System Software)(AU)[300 baud]">
+		<description>Zetu v1.2 (19xx)(System Software)(AU)[300 baud]</description>
+		<rom name="Zetu v1.2 (19xx)(System Software)(AU)[300 baud].wav" size="22982444" crc="45a40df0" md5="27694a82a35c03c47d927d5a5994af6e" sha1="6a24326e5bfe9010254cc329392b533a2fb0fdab"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple IIGS - Hard Disks - Operating Systems</name>
+		<description>Apple IIGS - Hard Disks - Operating Systems (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GS-OS 6.0.1 Generic Hard Drive Image 1 (2020-06-20)(Silverwand Software)">
+		<description>GS-OS 6.0.1 Generic Hard Drive Image 1 (2020-06-20)(Silverwand Software)</description>
+		<rom name="GS-OS 6.0.1 Generic Hard Drive Image 1 (2020-06-20)(Silverwand Software).hdv" size="33553920" crc="fbfbe765" md5="4038b0aeb1b64137953b6ca25dbce4b0" sha1="a65a8c6f3afc00a362a4bcff6a28746f07b1f66a"/>
+	</game>
+	<game name="GS-OS 6.0.1 Generic Hard Drive Image 2 (2020-06-20)(Silverwand Software)">
+		<description>GS-OS 6.0.1 Generic Hard Drive Image 2 (2020-06-20)(Silverwand Software)</description>
+		<rom name="GS-OS 6.0.1 Generic Hard Drive Image 2 (2020-06-20)(Silverwand Software).hdv" size="33553920" crc="6a5b6dc1" md5="298900a1180c81d3e6cc96bd3d696ee6" sha1="2ffc5d591f33c19c70be21109a2f3e77c3d71c0d"/>
+	</game>
+</datafile>

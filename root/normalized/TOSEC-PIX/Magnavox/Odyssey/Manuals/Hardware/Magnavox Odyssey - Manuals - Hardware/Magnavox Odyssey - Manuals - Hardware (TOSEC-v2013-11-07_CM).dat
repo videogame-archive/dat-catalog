@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magnavox Odyssey - Manuals - Hardware</name>
+		<description>Magnavox Odyssey - Manuals - Hardware (TOSEC-v2013-11-07)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-11-07</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Odyssey Installation and Game Rules (1972)(Magnavox)(BR)">
+		<description>Odyssey Installation and Game Rules (1972)(Magnavox)(BR)</description>
+		<rom name="Odyssey Installation and Game Rules (1972)(Magnavox)(BR).pdf" size="16588382" crc="8e771d68" md5="8f3d8b1b434201e7841257878cf8353b" sha1="5ef31266461ac97c7fd57cd22a0833bdb0df9d91"/>
+	</game>
+	<game name="Odyssey Installation and Game Rules (1972)(Magnavox)(US)">
+		<description>Odyssey Installation and Game Rules (1972)(Magnavox)(US)</description>
+		<rom name="Odyssey Installation and Game Rules (1972)(Magnavox)(US).pdf" size="26051867" crc="cb4b9cab" md5="738fab32d1949b6267b58e89e87ac5d8" sha1="08c408d123c193247ad1a815c78249b18393bd90"/>
+	</game>
+	<game name="Odyssey Installation and Game Rules (1972)(Magnavox)(US)[a]">
+		<description>Odyssey Installation and Game Rules (1972)(Magnavox)(US)[a]</description>
+		<rom name="Odyssey Installation and Game Rules (1972)(Magnavox)(US)[a].pdf" size="6869880" crc="c4fb525a" md5="52bdda6776f9cd043195b3ea0a78ee9f" sha1="c0c2f94911e4ffe5ea98c02ee07c0874f4cf2ce0"/>
+	</game>
+</datafile>

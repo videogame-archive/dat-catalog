@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Compilations - Games - [LYX]</name>
+		<description>Atari Lynx - Compilations - Games - [LYX] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Yastuna - The Alchemy of Cubes v1.01 (2021-01-19)(Fadest)">
+		<description>Yastuna - The Alchemy of Cubes v1.01 (2021-01-19)(Fadest)</description>
+		<rom name="Yastuna - The Alchemy of Cubes v1.01 (2021-01-19)(Fadest).lyx" size="231388" crc="5a5c816d" md5="63339be3a3ed4481db980312a077e262" sha1="90674384dc70b0114c64752860be8a69cedfb88a"/>
+	</game>
+	<game name="Yastuna 2 - The Space Incident v1.01 (2021-01-19)(Fadest)">
+		<description>Yastuna 2 - The Space Incident v1.01 (2021-01-19)(Fadest)</description>
+		<rom name="Yastuna 2 - The Space Incident v1.01 (2021-01-19)(Fadest).lyx" size="195888" crc="56fc03c4" md5="410c5efeb85b1f698f926944de0d9c69" sha1="f0e67b3643fa5d4d7df0798b26f6569632a1fce5"/>
+	</game>
+</datafile>

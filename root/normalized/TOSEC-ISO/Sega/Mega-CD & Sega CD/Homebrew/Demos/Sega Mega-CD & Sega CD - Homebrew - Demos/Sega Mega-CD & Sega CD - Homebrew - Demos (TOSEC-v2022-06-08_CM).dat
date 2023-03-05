@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - Homebrew - Demos</name>
+		<description>Sega Mega-CD &amp; Sega CD - Homebrew - Demos (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Equinoxe v0.00 (2005-05)(Evermind Development)">
+		<description>Equinoxe v0.00 (2005-05)(Evermind Development)</description>
+		<rom name="Equinoxe v0.00 (2005-05)(Evermind Development).cue" size="140" crc="28f877da" md5="17de45aae01e25ef4297189252bb5baa" sha1="7301c0c81e5b1d47bf449bbce21057b20091fe76"/>
+		<rom name="Equinoxe v0.00 (2005-05)(Evermind Development).iso" size="3508224" crc="65519c6b" md5="22b3543e496268c97ebcce714934e8fb" sha1="6fa9e3327238b137c9791d345d9585b56d4a5624"/>
+	</game>
+	<game name="EQX PRO 8 v0.00 - Beat It (2006-08)(Evermind Development)">
+		<description>EQX PRO 8 v0.00 - Beat It (2006-08)(Evermind Development)</description>
+		<rom name="EQX PRO 8 v0.00 - Beat It (2006-08)(Evermind Development).cue" size="151" crc="d0e9b77b" md5="72aa75d42d238a09339a3f6d8854b947" sha1="84e69dfe97e41844fa538d6ac16f2004daa34532"/>
+		<rom name="EQX PRO 8 v0.00 - Beat It (2006-08)(Evermind Development).iso" size="24584192" crc="67b65c0d" md5="b65ff2095e2577001fc0bfe4ddfc139d" sha1="61e04d9f9fec7c23884988978144c0ea0b065842"/>
+	</game>
+	<game name="EQX PRO 8 v0.01 - Beat It (2006-08)(Evermind Development)">
+		<description>EQX PRO 8 v0.01 - Beat It (2006-08)(Evermind Development)</description>
+		<rom name="EQX PRO 8 v0.01 - Beat It (2006-08)(Evermind Development).cue" size="151" crc="b20d16f4" md5="363edce408cbeac53be3f11d07f5518f" sha1="92f89808e91f6f207788ae599bc6672cb820fe7b"/>
+		<rom name="EQX PRO 8 v0.01 - Beat It (2006-08)(Evermind Development).iso" size="35694592" crc="b4fdd1ac" md5="515f9ba42f29b77ee7e3284ce284ef5c" sha1="f118e755ae6a05791f14ad35e125a4f3ea062235"/>
+	</game>
+	<game name="EQX PRO 8 v0.02 - Yatta! (2007-01)(Evermind Development)">
+		<description>EQX PRO 8 v0.02 - Yatta! (2007-01)(Evermind Development)</description>
+		<rom name="EQX PRO 8 v0.02 - Yatta! (2007-01)(Evermind Development).cue" size="150" crc="71abd5ae" md5="1dc2d2c4c1bc51211c2ab85e1b5d9d2c" sha1="e7536be262e7b8c79d1e6abd2c47fe7c2ab9382f"/>
+		<rom name="EQX PRO 8 v0.02 - Yatta! (2007-01)(Evermind Development).iso" size="30451712" crc="7d6c5c7d" md5="53d88a2db023671b3584a52dcb0d04cb" sha1="08ea78db4aaac050559f4811dd34e8215f351549"/>
+	</game>
+	<game name="FVR Singapore ILY (2004-06)(Fonzie Voltonov)(PD)">
+		<description>FVR Singapore ILY (2004-06)(Fonzie Voltonov)(PD)</description>
+		<rom name="FVR Singapore ILY (2004-06)(Fonzie Voltonov)(PD).cue" size="142" crc="f122a31b" md5="2a81cfc5d0375fe179d6af2808a412e8" sha1="b69a6ec119e402d1589301b82bee636ed405c3f7"/>
+		<rom name="FVR Singapore ILY (2004-06)(Fonzie Voltonov)(PD).iso" size="1230848" crc="2c33b695" md5="042280c2b06456d7dab7fb8e9eba127b" sha1="3998f924e608ccebfdbad612b0fb3f891faec502"/>
+	</game>
+	<game name="Sonic Mania FMV (2017-08-12)(TheStoneBanana)(PD)">
+		<description>Sonic Mania FMV (2017-08-12)(TheStoneBanana)(PD)</description>
+		<rom name="Sonic Mania FMV (2017-08-12)(TheStoneBanana)(PD).cue" size="142" crc="26d45501" md5="93596e3fe942e3b4f7f565d1717261ce" sha1="766bfa9116544898409c231c910cf864a7314c4b"/>
+		<rom name="Sonic Mania FMV (2017-08-12)(TheStoneBanana)(PD).iso" size="33554432" crc="c2b6a7b5" md5="cfc0f1a8b41853c0b5894860587f3ae6" sha1="4e5d5c599d39de8e2701b6145025dc6cec03f0fa"/>
+	</game>
+</datafile>

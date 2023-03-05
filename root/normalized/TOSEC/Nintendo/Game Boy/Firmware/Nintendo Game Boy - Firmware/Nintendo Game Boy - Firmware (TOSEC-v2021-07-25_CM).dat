@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Firmware</name>
+		<description>Nintendo Game Boy - Firmware (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Genie BIOS v2.1 (19xx)(-)(US)">
+		<description>Game Genie BIOS v2.1 (19xx)(-)(US)</description>
+		<rom name="Game Genie BIOS v2.1 (19xx)(-)(US).gb" size="8192" crc="bc491c4b" md5="49e512bb8b0dcc6a8d26d873623d0590" sha1="50e2ceb9b83f953d304d5bc6a25065bafad89490"/>
+	</game>
+	<game name="GameShark BIOS (19xx)(-)(US)">
+		<description>GameShark BIOS (19xx)(-)(US)</description>
+		<rom name="GameShark BIOS (19xx)(-)(US).gb" size="131072" crc="d6909596" md5="6ae8105f21bf0b80a6f64fabc4094c4b" sha1="09a6dae5e5faae1c4b5cf20e1b913b1c5e72297e"/>
+	</game>
+	<game name="Nintendo Game Boy BIOS (1989)(Nintendo)">
+		<description>Nintendo Game Boy BIOS (1989)(Nintendo)</description>
+		<rom name="Nintendo Game Boy BIOS (1989)(Nintendo).bin" size="256" crc="59c8598e" md5="32fbbd84168d3482956eb3c5051637f5" sha1="4ed31ec6b0b175bb109c0eb5fd3d193da823339f"/>
+	</game>
+	<game name="Nintendo Game Boy Boot ROM (1989-04-21)(Nintendo)(JP)">
+		<description>Nintendo Game Boy Boot ROM (1989-04-21)(Nintendo)(JP)</description>
+		<rom name="Nintendo Game Boy Boot ROM (1989-04-21)(Nintendo)(JP).gb" size="256" crc="c2f5cc97" md5="a8f84a0ac44da5d3f0ee19f9cea80a8c" sha1="8bd501e31921e9601788316dbd3ce9833a97bcbc"/>
+	</game>
+	<game name="Nintendo Game Boy Pocket Boot ROM (1996-06-21)(Nintendo)">
+		<description>Nintendo Game Boy Pocket Boot ROM (1996-06-21)(Nintendo)</description>
+		<rom name="Nintendo Game Boy Pocket Boot ROM (1996-06-21)(Nintendo).gb" size="256" crc="e6920754" md5="71a378e71ff30b2d8a1f02bf5c7896aa" sha1="4e68f9da03c310e84c523654b9026e51f26ce7f0"/>
+	</game>
+	<game name="Pro Action Replay BIOS (19xx)(-)(EU)">
+		<description>Pro Action Replay BIOS (19xx)(-)(EU)</description>
+		<rom name="Pro Action Replay BIOS (19xx)(-)(EU).gb" size="32768" crc="a2a6a863" md5="b7477b7050cc569b4c02a5ae60e5f24e" sha1="cc691eeef80423bb55b442cc1d9e5abd8bb80148"/>
+	</game>
+</datafile>

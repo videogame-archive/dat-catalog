@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Racing - [D81]</name>
+		<description>Commodore C64 - Games - Racing - [D81] (TOSEC-v2022-01-31)</description>
+		<category>TOSEC</category>
+		<version>2022-01-31</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Cycles, The - International Grand Prix Racing (1991)(Accolade)[cr N0]">
+		<description>Cycles, The - International Grand Prix Racing (1991)(Accolade)[cr N0]</description>
+		<rom name="Cycles, The - International Grand Prix Racing (1991)(Accolade)[cr N0].d81" size="819200" crc="30771825" md5="d0a7541ec3f350aba4444281ef42826a" sha1="ee1897c1764485b1b92c83ef97d6064d941d5c11"/>
+	</game>
+	<game name="Grand Prix Circuit (1988)(Accolade)[cr DSD]">
+		<description>Grand Prix Circuit (1988)(Accolade)[cr DSD]</description>
+		<rom name="Grand Prix Circuit (1988)(Accolade)[cr DSD].d81" size="819200" crc="0394c562" md5="b38bb53bdbbeeceeb85faae70da21d48" sha1="433de6692a32d29a767c29e9e4ca3a031bd02ddd"/>
+	</game>
+	<game name="Grand Prix Circuit (1988)(Accolade)[cr Nostalgia]">
+		<description>Grand Prix Circuit (1988)(Accolade)[cr Nostalgia]</description>
+		<rom name="Grand Prix Circuit (1988)(Accolade)[cr Nostalgia].d81" size="819200" crc="0e5f723c" md5="98c465c3e09348878e5ada716eb8d5ea" sha1="7143dd7c64ff11ae786cd95307a80859d0814829"/>
+	</game>
+	<game name="Super Cycle (1986)(Epyx)[cr DD][t +1 REM]">
+		<description>Super Cycle (1986)(Epyx)[cr DD][t +1 REM]</description>
+		<rom name="Super Cycle (1986)(Epyx)[cr DD][t +1 REM].d81" size="819200" crc="9b0ff8f2" md5="992cf306a0f40053d313c57182c36f78" sha1="367be144c534d642100ca03219d5854f68c69e80"/>
+	</game>
+	<game name="Test Drive (1987)(Accolade)[cr N0]">
+		<description>Test Drive (1987)(Accolade)[cr N0]</description>
+		<rom name="Test Drive (1987)(Accolade)[cr N0].d81" size="819200" crc="d9880d87" md5="091f2b140041a9895c014afcf90e1287" sha1="5e6fe4820e518bbe65ec0ded916929c822ecca8b"/>
+	</game>
+	<game name="Turbo Charge (1991)(System 3)[cr John64][t +5][docs]">
+		<description>Turbo Charge (1991)(System 3)[cr John64][t +5][docs]</description>
+		<rom name="Turbo Charge (1991)(System 3)[cr John64][t +5][docs].d81" size="819200" crc="8c151913" md5="64d831f67cda21d32c82e872fc293318" sha1="22d60273f8838b9c432d90f705959d3113cdffba"/>
+	</game>
+</datafile>

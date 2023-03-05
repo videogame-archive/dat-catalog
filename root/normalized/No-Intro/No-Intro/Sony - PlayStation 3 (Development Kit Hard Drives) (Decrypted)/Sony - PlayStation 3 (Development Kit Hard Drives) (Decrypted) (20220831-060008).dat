@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>283</id>
+		<name>Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)</name>
+		<description>Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)</description>
+		<version>20220831-060008</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="ps3-07 (Unknown)" id="00001">
+		<description>ps3-07 (Unknown)</description>
+		<rom name="ps3-07 (Unknown).img" size="60011642880" crc="f5fde80c" md5="ed809ea21ba83a30a21ba408ae4bc8d6" sha1="0854677d572fc7f7cc347f9a554b4f1eaa586940"/>
+	</game>
+</datafile>

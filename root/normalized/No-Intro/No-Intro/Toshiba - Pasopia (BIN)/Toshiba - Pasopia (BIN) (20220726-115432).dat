@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>208</id>
+		<name>Toshiba - Pasopia (BIN)</name>
+		<description>Toshiba - Pasopia (BIN)</description>
+		<version>20220726-115432</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Golf, The (Japan)" id="0001">
+		<description>Golf, The (Japan)</description>
+		<rom name="Golf, The (Japan).bin" size="32768" crc="1e4f5136" md5="011f496af5de6ade864eb2b7618581bb" sha1="05411e08f10d8e39749bd7f46fcca4c5f8c38244" sha256="d3ab65d91d96696a6a50ca1f2935753a50ecae425a51e36bde9190473c89f99d"/>
+	</game>
+	<game name="Pasopia Derby (Japan)" id="0002">
+		<description>Pasopia Derby (Japan)</description>
+		<rom name="Pasopia Derby (Japan).bin" size="32768" crc="a1e356f7" md5="1369dc8252ab2e0143db63a908a0741a" sha1="5f80b5adc2ceb069949095a59de8e885bcf2749c" sha256="87e860704feb0eaf3d110db6bf88ae9b1cf677abbd904419ddc6becce4dec125"/>
+	</game>
+	<game name="Pasopia Game Highlight - Blackjack (Japan) (Split)" id="0008">
+		<description>Pasopia Game Highlight - Blackjack (Japan) (Split)</description>
+		<rom name="Pasopia Game Highlight - Blackjack (Japan) (Split).bin" size="32768" crc="6443bc3d" md5="91c6b47026247011bf7bf398efb19047" sha1="4e1d9a971e1d9e61dab5542f35244bc8d8cc0f48"/>
+	</game>
+	<game name="Pasopia Game Highlight - Draw Poker (Japan) (Split)" id="0009">
+		<description>Pasopia Game Highlight - Draw Poker (Japan) (Split)</description>
+		<rom name="Pasopia Game Highlight - Draw Poker (Japan) (Split).bin" size="32768" crc="bb987fc6" md5="17bb87ecb26252bf4c046665b9445225" sha1="74442e154052050ac6dee90d09eef080997e5b87"/>
+	</game>
+	<game name="Pasopia Game Shuu - Eitango Ate (Japan) (Split)" id="0003">
+		<description>Pasopia Game Shuu - Eitango Ate (Japan) (Split)</description>
+		<rom name="Pasopia Game Shuu - Eitango Ate (Japan) (Split).bin" size="32768" crc="a7ae7574" md5="9b19616da7aa8afe7eef34c1590cac3b" sha1="2589daaaed422f5af6d4f1c6b1296cb53773601b"/>
+	</game>
+	<game name="Pasopia Game Shuu - Master Mind (Japan) (Split)" id="0004">
+		<description>Pasopia Game Shuu - Master Mind (Japan) (Split)</description>
+		<rom name="Pasopia Game Shuu - Master Mind (Japan) (Split).bin" size="32768" crc="40024e02" md5="18d373a43e23ad1bd4844f8d7a80d68a" sha1="fdb4aadc067fd6b1f82b13e793633ea833818156"/>
+	</game>
+	<game name="Pasopia Game Shuu - Othello (Japan) (Split)" id="0005">
+		<description>Pasopia Game Shuu - Othello (Japan) (Split)</description>
+		<rom name="Pasopia Game Shuu - Othello (Japan) (Split).bin" size="32768" crc="ce74a6fe" md5="ed1496e81264811bde3b49aa29f65dcf" sha1="0abd1c3a4aca33ca8820605cca18c81eba0bd534"/>
+	</game>
+	<game name="Pasopia Game Shuu - Point Getter (Japan) (Split)" id="0006">
+		<description>Pasopia Game Shuu - Point Getter (Japan) (Split)</description>
+		<rom name="Pasopia Game Shuu - Point Getter (Japan) (Split).bin" size="32768" crc="ef63409d" md5="34705f013f846a35fc4078e3b5946347" sha1="086bdda20d3efa14a323c7885318c07ae5e01417"/>
+	</game>
+	<game name="Pasopia Game Shuu - R-Away (Japan) (Split)" id="0007">
+		<description>Pasopia Game Shuu - R-Away (Japan) (Split)</description>
+		<rom name="Pasopia Game Shuu - R-Away (Japan) (Split).bin" size="32768" crc="5f31883e" md5="0bcfaf22135348c6ef281866b3fe6f3e" sha1="fd9fe13d9fc696ab353410d7d19a6e42c3ce062b"/>
+	</game>
+</datafile>

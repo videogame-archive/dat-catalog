@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ACT Apricot - Manuals - Technical</name>
+		<description>ACT Apricot - Manuals - Technical (TOSEC-v2012-02-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-02-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ACT Apricot Schematics (1985)(Apricot)">
+		<description>ACT Apricot Schematics (1985)(Apricot)</description>
+		<rom name="ACT Apricot Schematics (1985)(Apricot).pdf" size="2713994" crc="d81ef62e" md5="1c1bcf1667f6a7d97516b14e37912347" sha1="1823b46bd37c9a91bcaa9dd8bf0a855de0a4b25f"/>
+	</game>
+	<game name="Apricot Technical Bulletin 1-26 (1986)(Apricot)">
+		<description>Apricot Technical Bulletin 1-26 (1986)(Apricot)</description>
+		<rom name="Apricot Technical Bulletin 1-26 (1986)(Apricot).pdf" size="17323709" crc="7e736f7f" md5="e03777825d99ae3cc7155d5d864e388d" sha1="dc3ce59ac2965a9c6c7f028d860b8992984c9ffa"/>
+	</game>
+</datafile>

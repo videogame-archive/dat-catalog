@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Cambridge Computer Z88 - Games - [63]</name>
+		<description>Cambridge Computer Z88 - Games - [63] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered].63" size="16394" crc="a000db8e" md5="fe06e9e8fd81fb5079d1eabbc1e9dd0f" sha1="d2795093486d0d88e5e8201d13318599c551c528"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered].63" size="16394" crc="b9773a88" md5="c9991c33f09418dfdae115759e9f6281" sha1="fddd6fd7f6851768c83008f31b81b99982ec578e"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).63" size="16394" crc="4bf4d9cf" md5="553d9422ef6171535c01c31a4a3bae44" sha1="e51b816ad2a6f9943a36da9f5b12acb6ddfee437"/>
+	</game>
+</datafile>

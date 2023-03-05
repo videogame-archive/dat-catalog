@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision ECS - Games - [BIN]</name>
+		<description>Mattel Intellivision ECS - Games - [BIN] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mind Strike! (1982)(Mattel)">
+		<description>Mind Strike! (1982)(Mattel)</description>
+		<rom name="Mind Strike! (1982)(Mattel).bin" size="24576" crc="9d57498f" md5="cbd28f3573ab61fdde21cabb7659ceaa" sha1="fcb2e2dd2bacbe08c6e04c6460e574e1014b4331"/>
+	</game>
+	<game name="Super NFL Football (198x)(Mattel)(proto)">
+		<description>Super NFL Football (198x)(Mattel)(proto)</description>
+		<rom name="Super NFL Football (198x)(Mattel)(proto).bin" size="49152" crc="be4d7996" md5="03b50822c18c7fb0e26ff0f62876a139" sha1="eb4bffcc140c59937f9452ddd64401a9295da038"/>
+	</game>
+	<game name="World Series Major League Baseball (1983)(Mattel)">
+		<description>World Series Major League Baseball (1983)(Mattel)</description>
+		<rom name="World Series Major League Baseball (1983)(Mattel).bin" size="40960" crc="a12c27e1" md5="a9e4def140f13baed21c093bf1d501e7" sha1="a7796cb0b98ba45ebea7263f977122c15c2475bf"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - [D71]</name>
+		<description>Commodore C64 - Applications - [D71] (TOSEC-v2021-02-11)</description>
+		<category>TOSEC</category>
+		<version>2021-02-11</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Sound-A-Rama (1985)(Bartlett, Bruce)">
+		<description>Sound-A-Rama (1985)(Bartlett, Bruce)</description>
+		<rom name="Sound-A-Rama (1985)(Bartlett, Bruce).d71" size="349696" crc="f8410c14" md5="06e72512cfd5a10080b2104101b7dcdf" sha1="9f46435972a94e0a091ac221fdeecdf955ac3f7d"/>
+	</game>
+</datafile>

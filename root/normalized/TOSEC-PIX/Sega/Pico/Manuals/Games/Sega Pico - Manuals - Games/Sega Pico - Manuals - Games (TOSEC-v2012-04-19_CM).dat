@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Pico - Manuals - Games</name>
+		<description>Sega Pico - Manuals - Games (TOSEC-v2012-04-19)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-19</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Les Aventures du Roi Lion (1995)(Sega)(FR)">
+		<description>Les Aventures du Roi Lion (1995)(Sega)(FR)</description>
+		<rom name="Les Aventures du Roi Lion (1995)(Sega)(FR).pdf" size="1979140" crc="caf4c010" md5="c874deb776964a2c53f64ab18cb07122" sha1="49ab993523718b71dbe3a1bf82eeb44b833b9d87"/>
+	</game>
+	<game name="Pico Manual d'utilisation (1995)(Sega)(FR)">
+		<description>Pico Manual d'utilisation (1995)(Sega)(FR)</description>
+		<rom name="Pico Manual d'utilisation (1995)(Sega)(FR).pdf" size="1408404" crc="74965476" md5="64370bf2aeb4942ac638f880bb421c5a" sha1="e5e2435162479bb2e8cf1ee159e1b462f69aa7d9"/>
+	</game>
+</datafile>

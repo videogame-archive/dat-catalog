@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Catalogs</name>
+		<description>Atari ST - Catalogs (TOSEC-v2019-05-05)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-05-05</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari 1040 STf &amp; SLM 804 (198x)(Atari)(IT)">
+		<description>Atari 1040 STf &amp; SLM 804 (198x)(Atari)(IT)</description>
+		<rom name="Atari 1040 STf &amp; SLM 804 (198x)(Atari)(IT).pdf" size="24508820" crc="c8eaf007" md5="cb6d1c5b7c989405c16875ce3abd983d" sha1="464a582a02e5c4ac193dd5c740596d9e1392baf8"/>
+	</game>
+	<game name="Atari Linea Musicale ST (198x)(Atari)(IT)">
+		<description>Atari Linea Musicale ST (198x)(Atari)(IT)</description>
+		<rom name="Atari Linea Musicale ST (198x)(Atari)(IT).pdf" size="16870278" crc="2c48382d" md5="0745a31cf14d0e6284b452ce8f695349" sha1="1d09606b97fec1d575b94d4d8575477668c5499f"/>
+	</game>
+	<game name="Atari MEGA ST (198x)(Atari)(IT)">
+		<description>Atari MEGA ST (198x)(Atari)(IT)</description>
+		<rom name="Atari MEGA ST (198x)(Atari)(IT).pdf" size="24456218" crc="0d0196e4" md5="9b9c605030f6b09e0577fd47d563c09c" sha1="a3a850b75105b9fdaac72664252715ef05add596"/>
+	</game>
+	<game name="Atari ST Brochure (1987)(Atari)">
+		<description>Atari ST Brochure (1987)(Atari)</description>
+		<rom name="Atari ST Brochure (1987)(Atari).pdf" size="240013" crc="ae07a07a" md5="9ad86bd4a3c81786d0b7b01a8f5af46f" sha1="6509131799d14f5aba17178a3497010a0bf5cef1"/>
+	</game>
+</datafile>

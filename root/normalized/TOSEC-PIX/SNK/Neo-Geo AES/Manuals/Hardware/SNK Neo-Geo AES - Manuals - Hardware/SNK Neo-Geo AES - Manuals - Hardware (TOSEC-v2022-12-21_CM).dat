@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo AES - Manuals - Hardware</name>
+		<description>SNK Neo-Geo AES - Manuals - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Neo Geo AES Manual (1990)(SNK)(JP)">
+		<description>Neo Geo AES Manual (1990)(SNK)(JP)</description>
+		<rom name="Neo Geo AES Manual (1990)(SNK)(JP).pdf" size="46684545" crc="2257e47e" md5="906d636f1b514017d41a999a17dfc80f" sha1="2c0f3855cf81e45d593edf3bc9388754b6735552"/>
+	</game>
+	<game name="Neo Geo AES Manual (1990)(SNK)(US)">
+		<description>Neo Geo AES Manual (1990)(SNK)(US)</description>
+		<rom name="Neo Geo AES Manual (1990)(SNK)(US).pdf" size="1471397" crc="aa1997f1" md5="e2e3ee58e22a14f0deea1df374bb8eed" sha1="a242597a496b5db84214fd6eddbb497d66faed88"/>
+	</game>
+	<game name="Neo-Geo Instruction Manual (198x)(SNK)">
+		<description>Neo-Geo Instruction Manual (198x)(SNK)</description>
+		<rom name="Neo-Geo Instruction Manual (198x)(SNK).pdf" size="956903" crc="b8836cd0" md5="0415fe951ed07e1db99f3a2543939bd4" sha1="ee7eec01aa8a002180721772eeeeba9a658d41ee"/>
+	</game>
+</datafile>

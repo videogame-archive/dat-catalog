@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Educational - [ARC]</name>
+		<description>Commodore C64 - Educational - [ARC] (TOSEC-v2022-02-01)</description>
+		<category>TOSEC</category>
+		<version>2022-02-01</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Definition (198x)(Schreiner, Kurt - Leduc, Alberta)(PD)">
+		<description>Definition (198x)(Schreiner, Kurt - Leduc, Alberta)(PD)</description>
+		<rom name="Definition (198x)(Schreiner, Kurt - Leduc, Alberta)(PD).arc" size="15104" crc="f80d76fa" md5="4a140b78d62d62e86040ce0f33470fa9" sha1="9c5857991fb153a83afb826ffcc0b4f51849fdea"/>
+	</game>
+	<game name="Typing Practice (19xx)(Steven C. Darnold)">
+		<description>Typing Practice (19xx)(Steven C. Darnold)</description>
+		<rom name="Typing Practice (19xx)(Steven C. Darnold).arc" size="4096" crc="eb270caa" md5="a613ee1c7ec2a55a81afb168a78ec6fb" sha1="88c3724536499832eb5267de4f112ca991e6cdb8"/>
+	</game>
+	<game name="Typing Practice (19xx)(Steven C. Darnold)[a]">
+		<description>Typing Practice (19xx)(Steven C. Darnold)[a]</description>
+		<rom name="Typing Practice (19xx)(Steven C. Darnold)[a].arc" size="4064" crc="96936993" md5="cc746e2ae708548e03e1bf311486807b" sha1="88a257834742a510760d30d6443134aa6aac4bc0"/>
+	</game>
+</datafile>

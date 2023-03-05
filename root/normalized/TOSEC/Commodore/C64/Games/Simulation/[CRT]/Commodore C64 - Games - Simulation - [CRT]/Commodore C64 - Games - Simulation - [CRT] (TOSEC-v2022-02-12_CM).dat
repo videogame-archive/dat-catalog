@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Simulation - [CRT]</name>
+		<description>Commodore C64 - Games - Simulation - [CRT] (TOSEC-v2022-02-12)</description>
+		<category>TOSEC</category>
+		<version>2022-02-12</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Battle Command (1991)(Ocean)">
+		<description>Battle Command (1991)(Ocean)</description>
+		<rom name="Battle Command (1991)(Ocean).crt" size="131392" crc="87607adf" md5="fd1507747539166e7d6d80c5ea9395bd" sha1="a4425163a5025878b7c6db577e3bf0bc242e60ef"/>
+	</game>
+	<game name="Battle Command (1991)(Ocean)[a]">
+		<description>Battle Command (1991)(Ocean)[a]</description>
+		<rom name="Battle Command (1991)(Ocean)[a].crt" size="131392" crc="b155d392" md5="e2ddb89adcaf24e59b2b609524bf8d7a" sha1="53410aff0cd321077baeb4af7321a3bfd85ff779"/>
+	</game>
+	<game name="Battle Command (1991)(Ocean)[a2]">
+		<description>Battle Command (1991)(Ocean)[a2]</description>
+		<rom name="Battle Command (1991)(Ocean)[a2].crt" size="131392" crc="9c310d18" md5="bf912cfdcd3d3f97507a6abeb9d96e9c" sha1="862063bc0be0b82d748bb651c96c7d0574e625ed"/>
+	</game>
+	<game name="Space Shuttle - A Journey Into Space (1984)(Activision)">
+		<description>Space Shuttle - A Journey Into Space (1984)(Activision)</description>
+		<rom name="Space Shuttle - A Journey Into Space (1984)(Activision).crt" size="16464" crc="f21f4e3d" md5="cf7efa2b81ffe145f86f03b48e14d410" sha1="cc07c2fd5063ee525e8833a5710ed01098dda6ae"/>
+	</game>
+	<game name="Space Shuttle - A Journey Into Space (1984)(Activision)[a]">
+		<description>Space Shuttle - A Journey Into Space (1984)(Activision)[a]</description>
+		<rom name="Space Shuttle - A Journey Into Space (1984)(Activision)[a].crt" size="16464" crc="792c35de" md5="a890f97b5e82f504deac730482b98211" sha1="0bd71768fbaa0c931848436829df036ce7617101"/>
+	</game>
+	<game name="Space Shuttle - A Journey Into Space (1984)(Activision)[a2]">
+		<description>Space Shuttle - A Journey Into Space (1984)(Activision)[a2]</description>
+		<rom name="Space Shuttle - A Journey Into Space (1984)(Activision)[a2].crt" size="16464" crc="11b15910" md5="c26feb2223a95ceeab6ecae48a3aeef4" sha1="12cb9c7a08a2b59a6defd4a1b8c52da86d02f69e"/>
+	</game>
+	<game name="Space Shuttle - A Journey Into Space (1984)(Activision)[a3]">
+		<description>Space Shuttle - A Journey Into Space (1984)(Activision)[a3]</description>
+		<rom name="Space Shuttle - A Journey Into Space (1984)(Activision)[a3].crt" size="16464" crc="9c369142" md5="c2ae6c22b475a60ae1189641efd5b2cb" sha1="3545954b84a839b4a8e493450fabb82946d234c6"/>
+	</game>
+</datafile>

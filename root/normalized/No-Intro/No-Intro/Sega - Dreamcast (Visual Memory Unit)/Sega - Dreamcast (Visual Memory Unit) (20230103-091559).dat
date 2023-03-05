@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>312</id>
+		<name>Sega - Dreamcast (Visual Memory Unit)</name>
+		<description>Sega - Dreamcast (Visual Memory Unit)</description>
+		<version>20230103-091559</version>
+		<author>Hiccup, Jarvik7</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] VMS (World) (1.005 19991026)" id="0001">
+		<description>[BIOS] VMS (World) (1.005 19991026)</description>
+		<rom name="[BIOS] VMS (World) (1.005 19991026).bin" size="65536" crc="c825003a" md5="322054c6d7b7ea5fd0388eee7b636fb0" sha1="6242320d705c156f8369969d6caa8c737f01e4f3" sha256="9b78024131696a135a768316eb8ec3fc261a8367b829034719b7db938f133aa2"/>
+	</game>
+</datafile>

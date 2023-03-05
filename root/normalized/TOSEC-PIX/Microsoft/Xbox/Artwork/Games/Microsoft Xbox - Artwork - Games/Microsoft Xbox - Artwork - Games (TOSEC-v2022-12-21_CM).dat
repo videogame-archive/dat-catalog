@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox - Artwork - Games</name>
+		<description>Microsoft Xbox - Artwork - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Alias (2002)(Acclaim)(US)[box]">
+		<description>Alias (2002)(Acclaim)(US)[box]</description>
+		<rom name="Alias (2002)(Acclaim)(US)[box].pdf" size="5999957" crc="b3cff509" md5="b493710949c962928667605b6cbe09e7" sha1="4ab45fe4d469549187f4e4dab84aead987bcc8e2"/>
+	</game>
+	<game name="Alias (2002)(Acclaim)(US)[disc]">
+		<description>Alias (2002)(Acclaim)(US)[disc]</description>
+		<rom name="Alias (2002)(Acclaim)(US)[disc].pdf" size="3304885" crc="262d7026" md5="389eb1de3b926539428e4994b770c359" sha1="e8ebe6cbceaa4e7b98186de3744948a3692285a7"/>
+	</game>
+	<game name="TOCA Race Driver 2 (2004)(Codemasters)(US)[box]">
+		<description>TOCA Race Driver 2 (2004)(Codemasters)(US)[box]</description>
+		<rom name="TOCA Race Driver 2 (2004)(Codemasters)(US)[box].pdf" size="6332112" crc="6b927675" md5="627f3a77fedfc5754ed25adc9e2c8d2a" sha1="c4440a7b12ecb7a864b5f3e123d62b08c71e1fa8"/>
+	</game>
+	<game name="TOCA Race Driver 2 (2004)(Codemasters)(US)[disc]">
+		<description>TOCA Race Driver 2 (2004)(Codemasters)(US)[disc]</description>
+		<rom name="TOCA Race Driver 2 (2004)(Codemasters)(US)[disc].pdf" size="2622260" crc="498f1525" md5="e2b0b25dbca60905cb7cdc25de988c26" sha1="2c3aabf6a8ea8671902cb6d118c94959dfb2b3c9"/>
+	</game>
+</datafile>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Educational - [ATX]</name>
+		<description>Atari 8bit - Educational - [ATX] (TOSEC-v2021-12-10)</description>
+		<category>TOSEC</category>
+		<version>2021-12-10</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Addition Concepts (1983)(JMH Software)(US)[BASIC]">
+		<description>Addition Concepts (1983)(JMH Software)(US)[BASIC]</description>
+		<rom name="Addition Concepts (1983)(JMH Software)(US)[BASIC].atx" size="100256" crc="5d3a509c" md5="65e30bb738df38e29579ce403be27a9e" sha1="c166d2772f1aed067753f7f1378345b482c1e90b"/>
+	</game>
+	<game name="Colorasaurus (1983)(The Learning Company)(US)">
+		<description>Colorasaurus (1983)(The Learning Company)(US)</description>
+		<rom name="Colorasaurus (1983)(The Learning Company)(US).atx" size="36480" crc="7e5f315f" md5="b4a5f11459f83345b2428728c7d0b92e" sha1="66a92b3789391e304f5298d71df5b35b128af014"/>
+	</game>
+	<game name="Elementary Biology v2.2 (1982)(MECC)(US)[BASIC]">
+		<description>Elementary Biology v2.2 (1982)(MECC)(US)[BASIC]</description>
+		<rom name="Elementary Biology v2.2 (1982)(MECC)(US)[BASIC].atx" size="99984" crc="f839c0b6" md5="6ec2120a117c6084cb1b28c5fcdc6b4a" sha1="261e0ab260692aa54d7a8a59e575d7a0aaf3f1d7"/>
+	</game>
+	<game name="Factory, The (198x)(HesWare)(US)[BASIC]">
+		<description>Factory, The (198x)(HesWare)(US)[BASIC]</description>
+		<rom name="Factory, The (198x)(HesWare)(US)[BASIC].atx" size="56016" crc="7b8c65ee" md5="4dfc47abf43e1c762682cdda9430cda6" sha1="2352acddf9d50ee546fbcfe67fa2232f8cf23c4d"/>
+	</game>
+	<game name="Funbunch Elementary (1983)(Unicorn Software)(US)[OS-B][BASIC]">
+		<description>Funbunch Elementary (1983)(Unicorn Software)(US)[OS-B][BASIC]</description>
+		<rom name="Funbunch Elementary (1983)(Unicorn Software)(US)[OS-B][BASIC].atx" size="100256" crc="2685a764" md5="a779908761f20a2f960eb8cc2fd7a4df" sha1="08a362113aff6a39a9db3c6fc1fb18e29ef9aad6"/>
+	</game>
+	<game name="In Search of the Most Amazing Thing (1983)(Spinnaker)(US)(Side A)[BASIC]">
+		<description>In Search of the Most Amazing Thing (1983)(Spinnaker)(US)(Side A)[BASIC]</description>
+		<rom name="In Search of the Most Amazing Thing (1983)(Spinnaker)(US)(Side A)[BASIC].atx" size="100208" crc="c872199f" md5="942896dd818221e26e56505156b5836d" sha1="5e4f8c5ee50e847084e6a457b647a64340bdd858"/>
+	</game>
+	<game name="In Search of the Most Amazing Thing (1983)(Spinnaker)(US)(Side B)[BASIC]">
+		<description>In Search of the Most Amazing Thing (1983)(Spinnaker)(US)(Side B)[BASIC]</description>
+		<rom name="In Search of the Most Amazing Thing (1983)(Spinnaker)(US)(Side B)[BASIC].atx" size="100208" crc="227e8911" md5="b50cd0d423c5caa5577a40232a55abfc" sha1="c009a61967d328b3569ce42c7fdee444707b90e3"/>
+	</game>
+	<game name="Kids on Keys (1983)(Spinnaker)(US)">
+		<description>Kids on Keys (1983)(Spinnaker)(US)</description>
+		<rom name="Kids on Keys (1983)(Spinnaker)(US).atx" size="100256" crc="03d57e51" md5="8eab158d07babcfbe5e8817dd7b6dbd1" sha1="1668abb7ddfb34876d1d1cb5175897052d4d2d5b"/>
+	</game>
+</datafile>

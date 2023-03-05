@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio PV-2000 - Firmware</name>
+		<description>Casio PV-2000 - Firmware (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PV-2000 BIOS (1983)(Casio)">
+		<description>PV-2000 BIOS (1983)(Casio)</description>
+		<rom name="PV-2000 BIOS (1983)(Casio).bin" size="16384" crc="8f31f297" md5="558540c5c6f776d88a897f2f3b8fec8f" sha1="94b5f54dd7bce321e377fdaaf592acd3870cf621"/>
+	</game>
+</datafile>

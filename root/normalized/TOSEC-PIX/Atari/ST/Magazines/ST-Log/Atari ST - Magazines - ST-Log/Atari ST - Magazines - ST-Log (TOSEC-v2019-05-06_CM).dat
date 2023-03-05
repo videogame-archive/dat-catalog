@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Magazines - ST-Log</name>
+		<description>Atari ST - Magazines - ST-Log (TOSEC-v2019-05-06)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-05-06</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ST-Log - Issue 10 (1987-01)(ANALOG)(US)">
+		<description>ST-Log - Issue 10 (1987-01)(ANALOG)(US)</description>
+		<rom name="ST-Log - Issue 10 (1987-01)(ANALOG)(US).pdf" size="20720286" crc="a2625028" md5="61abce6bd0c9ea81e7b7abfc6affa8fe" sha1="de420fbd55c3cb0112934cecdc93e1999bc6fafe"/>
+	</game>
+	<game name="ST-Log - Issue 11 (1987-02)(ANALOG)(US)">
+		<description>ST-Log - Issue 11 (1987-02)(ANALOG)(US)</description>
+		<rom name="ST-Log - Issue 11 (1987-02)(ANALOG)(US).pdf" size="21144850" crc="a843bc23" md5="898d8b048c949793c464107b7c3330a9" sha1="b50f68ada92656a7f959a354f9532de63b03d347"/>
+	</game>
+	<game name="ST-Log - Issue 12 (1987-03)(ANALOG)(US)">
+		<description>ST-Log - Issue 12 (1987-03)(ANALOG)(US)</description>
+		<rom name="ST-Log - Issue 12 (1987-03)(ANALOG)(US).pdf" size="21064148" crc="e754a995" md5="bd5e8a14a6bd9a18673816ae9d997b59" sha1="b5464369aa9dee4dc46bfb35a4559c93fd03e513"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Games - [WV]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Games - [WV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chess (19xx)(Tansoft)(Side A)">
+		<description>Chess (19xx)(Tansoft)(Side A)</description>
+		<rom name="Chess (19xx)(Tansoft)(Side A).wv" size="327257255" crc="069de4a4" md5="add8b5db7f67590a861e292c84287f29" sha1="ed6f12ecdf69e659e7fcdcaf50cee06aeb0a7725"/>
+	</game>
+	<game name="Chess (19xx)(Tansoft)(Side A)[a2]">
+		<description>Chess (19xx)(Tansoft)(Side A)[a2]</description>
+		<rom name="Chess (19xx)(Tansoft)(Side A)[a2].wv" size="325240091" crc="90890845" md5="6a56a5f3e817b386d9344a52c00b5d1a" sha1="eadcf99a2d5b680d5ff998870737739c938dc222"/>
+	</game>
+	<game name="Chess (19xx)(Tansoft)(Side A)[a]">
+		<description>Chess (19xx)(Tansoft)(Side A)[a]</description>
+		<rom name="Chess (19xx)(Tansoft)(Side A)[a].wv" size="326399851" crc="9be58758" md5="a1cea695a0b19641e609289d6166c7b7" sha1="d2bf28874def5d54b5956888956adb197ed9cae9"/>
+	</game>
+	<game name="Chess (19xx)(Tansoft)(Side B)">
+		<description>Chess (19xx)(Tansoft)(Side B)</description>
+		<rom name="Chess (19xx)(Tansoft)(Side B).wv" size="390815123" crc="3c2bf274" md5="64f8d6680dece6b894e943f43726dbb2" sha1="9268a7c9f9de03a81362fbe6b6cd6871313d23c7"/>
+	</game>
+	<game name="Chess (19xx)(Tansoft)(Side B)[a2]">
+		<description>Chess (19xx)(Tansoft)(Side B)[a2]</description>
+		<rom name="Chess (19xx)(Tansoft)(Side B)[a2].wv" size="390197303" crc="c441cdc0" md5="1de9254f205d3306ef890ed6e714b43a" sha1="af9d0dcba4eaad01fa3072f693b154619fbf065e"/>
+	</game>
+	<game name="Chess (19xx)(Tansoft)(Side B)[a]">
+		<description>Chess (19xx)(Tansoft)(Side B)[a]</description>
+		<rom name="Chess (19xx)(Tansoft)(Side B)[a].wv" size="388349375" crc="46e581e8" md5="463a889cf8de5a91acfe005b039e1825" sha1="a815c7cedf0a85e29e2a797c5c30e0939b286a83"/>
+	</game>
+</datafile>

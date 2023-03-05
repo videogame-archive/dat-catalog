@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hitachi Basic Master Jr. Level 3 - Games - [WAV]</name>
+		<description>Hitachi Basic Master Jr. Level 3 - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-21)(Inufuto)(JP)">
+		<description>Ascend (2022-04-21)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-04-21)(Inufuto)(JP).wav" size="7871004" crc="c24a4677" md5="858092ba1ed2ccd1b49a678da582518b" sha1="3daf3223d4fdd6f2d403d9dbe26c3bc6a204ee5f"/>
+	</game>
+	<game name="Mazy (2020-08-29)(Inufuto)(Mark-5)(JP)">
+		<description>Mazy (2020-08-29)(Inufuto)(Mark-5)(JP)</description>
+		<rom name="Mazy (2020-08-29)(Inufuto)(Mark-5)(JP).wav" size="30396100" crc="f7d78b2a" md5="910d3068b8fd5b6432029817eab6aec4" sha1="6d99fa71ff5c7cd44f39e8d47146a6633303f556"/>
+	</game>
+	<game name="Mazy (2021-06-04)(Inufuto)(JP)">
+		<description>Mazy (2021-06-04)(Inufuto)(JP)</description>
+		<rom name="Mazy (2021-06-04)(Inufuto)(JP).wav" size="6373244" crc="1bfaba93" md5="1d169d2df2e2c56fa53ac91d3675d2c0" sha1="1aa2475b7f5b3ee460ffcfc0b11365435eaf0605"/>
+	</game>
+	<game name="Ruptus (2020-12-26)(Inufuto)(JP)">
+		<description>Ruptus (2020-12-26)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2020-12-26)(Inufuto)(JP).wav" size="11657644" crc="c2158c34" md5="d682528ab5be63e007f12de7cacd3403" sha1="17c59ad296dbae24d38f952e6ba481a08198e6ee"/>
+	</game>
+</datafile>

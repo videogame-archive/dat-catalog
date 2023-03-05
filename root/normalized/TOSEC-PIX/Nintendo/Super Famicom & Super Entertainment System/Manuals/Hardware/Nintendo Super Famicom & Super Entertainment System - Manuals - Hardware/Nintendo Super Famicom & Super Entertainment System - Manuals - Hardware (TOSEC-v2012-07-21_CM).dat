@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Super Famicom &amp; Super Entertainment System - Manuals - Hardware</name>
+		<description>Nintendo Super Famicom &amp; Super Entertainment System - Manuals - Hardware (TOSEC-v2012-07-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-07-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Super Famicom (1990)(Nintendo)(JP)[rev 3]">
+		<description>Super Famicom (1990)(Nintendo)(JP)[rev 3]</description>
+		<rom name="Super Famicom (1990)(Nintendo)(JP)[rev 3].pdf" size="8830043" crc="779f07cb" md5="85d9e817bdb690b271cfc9832d6251aa" sha1="a70aafcf0cf7bce126e330e69ae7a83c0f512141"/>
+	</game>
+	<game name="Super Nintendo Instruction Booklet (1991)(Nintendo)(US)">
+		<description>Super Nintendo Instruction Booklet (1991)(Nintendo)(US)</description>
+		<rom name="Super Nintendo Instruction Booklet (1991)(Nintendo)(US).pdf" size="2015257" crc="8507307b" md5="7ed05d6a8551c9af622b1f1a4c9aab63" sha1="6e1982c7a90898afd6f8d51f335b89c482bbb76f"/>
+	</game>
+	<game name="Super Nintendo Instruction Booklet (1992)(Nintendo)(AU)">
+		<description>Super Nintendo Instruction Booklet (1992)(Nintendo)(AU)</description>
+		<rom name="Super Nintendo Instruction Booklet (1992)(Nintendo)(AU).pdf" size="3837459" crc="ef9710af" md5="85bc6db56b40cb7f68463336d05479c9" sha1="f77f5cfe642a74274e374cda657e9d83ca54be1f"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MGT Sam Coupe - Games - [BIN]</name>
+		<description>MGT Sam Coupe - Games - [BIN] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2017-10-11)(Caruso, Fabrizio)">
+		<description>Cross Chase (2017-10-11)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2017-10-11)(Caruso, Fabrizio).bin" size="17702" crc="0137d37a" md5="36d110f5f95005e18ac1b408c549bd36" sha1="125354c69fcef0f46a8ad46e3b5467cdba8542d1"/>
+	</game>
+	<game name="Cross Chase (2017-10-30)(Caruso, Fabrizio)">
+		<description>Cross Chase (2017-10-30)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2017-10-30)(Caruso, Fabrizio).bin" size="17718" crc="52533b5e" md5="527a352da4a9ca83fe62c9cce59a4652" sha1="de226dd1c32d6a4ddaac00c8186d057e746739f9"/>
+	</game>
+	<game name="Cross Chase (2017-12-10)(Caruso, Fabrizio)">
+		<description>Cross Chase (2017-12-10)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2017-12-10)(Caruso, Fabrizio).bin" size="17471" crc="1ba3d7a5" md5="fddc41ed14b87c6aec6cf169514a1bfe" sha1="0b1523c0332c4a01a1db945bacce6053eb63c047"/>
+	</game>
+	<game name="Cross Chase (2018-02-03)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-02-03)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-02-03)(Caruso, Fabrizio).bin" size="17761" crc="1ce9ef1d" md5="97f9e80c4c2ecc764e8a37ccc4c2e814" sha1="c989d3a6908378c836708441c972f9f43f97bca9"/>
+	</game>
+</datafile>

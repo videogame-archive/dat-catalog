@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>193</id>
+		<name>Source Code - Various</name>
+		<description>Source Code - Various</description>
+		<version>20230112-193559</version>
+		<author>Hiccup, SonGoku, xprism</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="CDPR leaks (World)" id="0005">
+		<description>CDPR leaks (World)</description>
+		<rom name="build_logs\1541.txt" size="1026111" crc="b3397951" md5="23bb0f6fdeb22ca8979a9575bbc9bde8" sha1="d9d081fc84b8409e7d3d5e92b1d1a3083fc710b9" sha256="55aae9aa673774d470c480fcba01c3eba0c651b615130a6b9ce0cf4492e438be"/>
+		<rom name="build_logs\2294795.txt" size="2345679" crc="4da88fbd" md5="9cd0010ec8347f9c46ce12548bd64729" sha1="111cf8b37094f87eb33313a9e62e24c42696850d" sha256="b191011fd4c5258a5a4c0dcbafe20dc155b3b968d1ea1e53a0f27e8896d4f372"/>
+		<rom name="build_logs\2750407.txt" size="3997539" crc="adb6e103" md5="84ab53a35c2995490c7d953e79eb6063" sha1="2ee24537518f1fab4cd54a693a1538cf23e197c5" sha256="e2d8ee4480c8331e79ae5ad8767facef2455d48368573acfa0ca8c52436fee7a"/>
+		<rom name="build_logs\2750514.txt" size="415323" crc="9e3c860a" md5="e1360fb792589b5e43329166d1d507fc" sha1="b3836fb87d4c4456ae3d00f42b69ee995407fa62" sha256="d6772fb7efe7477901c74f186a11c6289a57cb6cd43aa8ae52d0cf7fff8a1a9d"/>
+		<rom name="build_logs\2750518.txt" size="3040107" crc="cf7c76b5" md5="ab126e900391842f972fba00869b7319" sha1="e88c515a4348813b2fd6472e5431e131b7e3cca0" sha256="0f70e6f5d4725bb8cc34fe33021f2677e0a115e967e4c8aff28376f77a2513fd"/>
+		<rom name="build_logs\3277871.txt" size="7041406" crc="45aebb1c" md5="eb3fb91a14b72c55336117b55ff71861" sha1="1e5bfd452112fbc720176ae5dd6ad2220889b387" sha256="f1ae5c5b61378c7e05564ab9ab08bb336ee663350a8ea8e55b2f802a227e2290"/>
+		<rom name="build_logs\3278718.txt" size="5707305" crc="6887925f" md5="6813456d6f6ea71f42f9f484b4903985" sha1="88d309cbe3567a6b4634a614ef6bac4e27ba0f66" sha256="f9acee9dcefcae88b033720d013dccca2eb58aee5e90429a9c0da47e04bbee9c"/>
+		<rom name="build_logs\3280401.txt" size="4064617" crc="dc62ae6a" md5="ef8564eeb826485684ca1eb17d51fda5" sha1="6130b4f99e8fe35a3280eccc54bd85f1cb79bd48" sha256="d105a75cf06857df3a1f1401ba6b9c03dfcac9c9213697a94eb4951faf408e10"/>
+		<rom name="nintendo.7z" size="1258116564" crc="7489c7d0" md5="22ed6ef44112f8e9fce027a698d76b97" sha1="099cf731a4609a285c193990005790b891940e6b" sha256="1d03fb03c5404607f21a11b27c1b440f8ee48bc4514bd101012d76eb32791517"/>
+		<rom name="ps5.7z" size="41008421938" crc="cd3ce706" md5="82c6441185066b14e9193bdc58663099" sha1="6bca8f999d6bc215003483e654477a62096a9e83" sha256="b894551a5056df4ad8171aa40ae6a412da99ba55bbb57e7cb2a0485a8c1a495b"/>
+		<rom name="readme_build.txt" size="891" crc="359e8dc2" md5="ed6b59ae4f58051ada93638c94adb377" sha1="a6732d7d20ce7b704e04977ea4b23ee548989935" sha256="3333e4869bca594e02a495d884c064ccfeabf452483040da317a977ebe431ccf"/>
+		<rom name="readme_en.txt" size="1083" crc="62689a2a" md5="0a2e2969044a08f5ed335d9585509bef" sha1="e1e217e951974a62756c05309d5d300706a00c44" sha256="6284b23e46f12fc45f55cf54515757cbcd2b714634273d0a2b2331c062371f63"/>
+		<rom name="readme_ru.txt" size="1688" crc="95782ee0" md5="f9169e4bddb041b36ef4220ec6517f82" sha1="7d1f761e7f98e0a6fbe2a7c7d38f10f805839e0b" sha256="a1c5703ed51e5f31d560384bc58d20fa8c70f3a4ee9bb49bb04f0b14e1b52b97"/>
+		<rom name="thronebreaker.7z" size="54579723127" crc="d3ddd9b2" md5="5917ce07360954692a32862f1c7bf691" sha1="a5ce1ea957ed16ba7d1e5cc1d8461ed8d8052f45" sha256="ecfe5adf91dc6811294a41fa7651990a0cb6ca53bcc4d0444ff33c7346b17707"/>
+		<rom name="w3rtx.7z" size="177421597416" crc="33dc1256" md5="1464f38d9e8c729c46902edba330441b" sha1="79968cae0d256e53016434c0b0f9dd0d2cef5bec" sha256="72dd7a0db93276d0f8d4c642784ef2a2e0709dd1b59378a9e16f91996a41ba61"/>
+		<rom name="cp.7z" size="92681180340" crc="b78b8b44" md5="bd7c599fe2fbc9e1ab2aa6c7ba53b547" sha1="9242ee1bfb323d4314b391bfd68ca7a23c492dcc" sha256="d9de7de05f14cab68d157523a2c1f201dd46c89a935a3f134dc6fc8c6b795fa9"/>
+		<rom name="ps4.7z" size="106864625043" crc="dc1dfb2f" md5="aa4eceda6de861d03059e91737504652" sha1="5a8ffa35b8ee4f3e7aa26b510e7292994e683f94" sha256="c0b51b59ff138705e06b61e708004aaa16eb537008fb36b66f63529a8b51c089"/>
+		<rom name="w3.7z" size="206813782654" crc="aee61eb3" md5="25ab1fb571d19e523dbb748844e106ea" sha1="b85ed70bb1448b12048264f8f90e2845c42e870f" sha256="11823b85ea1b7564b7ae9a6affbc5a19feddc57b1630aa24b95760fcbaf8d7a2"/>
+		<rom name="xbox.7z" size="137304201452" crc="0fc41b66" md5="7bbf9708f92b5ba6d07dddb0926ba123" sha1="62b72ffb9cae154fb6296a171185a7d1d098bb99" sha256="e2d445c3ae39ffb745cd3b58a7e13b181f4a5950899a3499c44b27327979c431"/>
+	</game>
+	<game name="Counter-Strike - Source (Unknown) (Assets)" id="0016">
+		<description>Counter-Strike - Source (Unknown) (Assets)</description>
+		<rom name="cstrike.rar" size="3152787832" crc="3f696090" md5="e1cdeb206ba64df1f04c9c0bce57e2f5" sha1="e3f48a8c3a9bbd26fe14fdce5ae9971497c0087c" sha256="a27d4a6ea507cd0df9649616a3806ee4f80e0b897d3f9ecc9e42b8bde29f51a3"/>
+	</game>
+	<game name="Crysis 2 (Unknown) (PC, PlayStation 3, Xbox 360)" id="0003">
+		<description>Crysis 2 (Unknown) (PC, PlayStation 3, Xbox 360)</description>
+		<rom name="crysis2_src_pc_ps3_x360.7z" size="335166320" crc="8fb013a7" md5="53a56f30c17c307bcc4ad5f16141e0e6" sha1="3870d39e0888118832f8f5090d11b6ab62b4085a" sha256="a2dd432076fad8765e6f11e60e48163ae3b975043c374ff646f72e53e36e864f"/>
+	</game>
+	<game name="Cyberpunk 2077 (World)" id="0007">
+		<description>Cyberpunk 2077 (World)</description>
+		<rom name="cp.7z" size="103104885067" crc="129ed1b1" md5="d6fd6568b7dbf67dfa49bffea85334d6" sha1="a578b99260f44bed28fc94d4daffbbfba14a25ef" sha256="424192200a69ed0b34b39c54a09a8add3ff2577a7fbd9bc8738db85bca706464"/>
+	</game>
+	<game name="Day of Defeat (Unknown) (Assets)" id="0012">
+		<description>Day of Defeat (Unknown) (Assets)</description>
+		<rom name="dod.rar" size="698679935" crc="1a897940" md5="19be028c4502ab047bc6821a9dfcd23f" sha1="4b12494fee3c70b56e704f4f897dcf2fac08ae80" sha256="d50325fc7c4d87d0de0a397e71bb7091f5fe6ae8b4c8b8ec9c6c06af64d587b1"/>
+	</game>
+	<game name="Half-Life (Unknown) (Assets)" id="0010">
+		<description>Half-Life (Unknown) (Assets)</description>
+		<rom name="hl1-repo-content.rar" size="644103661" crc="6642ac4f" md5="2f176790b4e7f32b8fc6545b068c60ae" sha1="f9b2fe565b3fbf646b734a790c11e741984bf15f" sha256="24630e0a2343c51420de768f0419b17bd4b7d6929ea22bb97533e86c03b22639"/>
+	</game>
+	<game name="Half-Life 2 (Unknown) (Assets)" id="0014">
+		<description>Half-Life 2 (Unknown) (Assets)</description>
+		<rom name="hl2.rar" size="3844680880" crc="a0dabb92" md5="215121cb658e74cf1b163c89fad28715" sha1="d6220bc3b21612804c57063687f000f8c0362a91" sha256="ec78ed6d63750c1216409acaf95cb83b0ec1e933e25498df603911c86f38afbf"/>
+		<rom name="RepoDump4.7z" size="2225586466" crc="a276b63c" md5="d6ee25ab5e363172f4c9082d6142d3f3" sha1="7930ba15f2f1842780b96638b3af32e6435f4171" sha256="9747c05f2bcf5c3cf747d983a54c9d597c674e37dae633c9f52085556a3a9e7d"/>
+	</game>
+	<game name="Half-Life 2 - Deathmatch (Unknown) (Assets)" id="0013">
+		<description>Half-Life 2 - Deathmatch (Unknown) (Assets)</description>
+		<rom name="hl2mp.rar" size="4835011" crc="926e48ce" md5="f7ca31742824e2d6cb6666578247dd79" sha1="13ca3547edf48d4693973f20bf2525035056d9d9" sha256="3f794d5640a885b8bb87dd2b45cb9cc78dac1b236308cdfc98d64c9a3ada54d1"/>
+	</game>
+	<game name="Half-Life 2 - Episode One (Unknown) (Assets)" id="0015">
+		<description>Half-Life 2 - Episode One (Unknown) (Assets)</description>
+		<rom name="episodic.rar" size="708449510" crc="e9f0c48b" md5="34979fb8a756c963988e67247b7eb94d" sha1="b4d032f524c267bc4666dc4579dc246680212878" sha256="d9e63b39f777fc0a5eb07322c67ba2a6cab044a5326fab5b811f81f433398005"/>
+	</game>
+	<game name="Half-Life 2 - Episode Two (Unknown) (Assets)" id="0018">
+		<description>Half-Life 2 - Episode Two (Unknown) (Assets)</description>
+		<rom name="ep2.rar" size="1326194891" crc="6086bff3" md5="61d015b6bcfdf234578ba5c5bf72bea0" sha1="4f916dbce8b4d4eab1993e11429d9da0c7c55a91" sha256="c5f094cb7fb5e44c0103c826085a6d83d5d5ca73a66d273ae22bf969fe984a68"/>
+	</game>
+	<game name="Poker Face Paul's Cribbage (Unknown) (Proto) (Game Boy, Sega Master System, Game Gear)" id="0002">
+		<description>Poker Face Paul's Cribbage (Unknown) (Proto) (Game Boy, Sega Master System, Game Gear)</description>
+		<rom name="Poker Face Paul Cribbage - Source.zip" size="839320" crc="d78e40e3" md5="12398afb988c222aff55db99484bf56d" sha1="721f2b9776c48ac4fea80bbcd05cb21563fe1b38" sha256="dd409e54cbe60f48f72fb12151abb3d8adc1d05628cbd1409d79532ed1a63c9e"/>
+	</game>
+	<game name="Portal (Unknown) (Assets)" id="0019">
+		<description>Portal (Unknown) (Assets)</description>
+		<rom name="portal.rar" size="691077580" crc="52c046a8" md5="579ef6c9ee3c89761c224f69fc804f75" sha1="9963e136c93bb224be90965fe77ad24910fd3a4d" sha256="949cf9d2c30e86bde46447a3b69722364437b44897fc9a1afd86181ecb5c6a09"/>
+	</game>
+	<game name="Q-Cubed (World) (Graphics, Sound and Design Materials)" id="0008">
+		<description>Q-Cubed (World) (Graphics, Sound and Design Materials)</description>
+		<rom name="Q-Cubed Materials-20220527T182839Z-001.zip" size="25358316" crc="ce23f75f" md5="5d3e1e66e605cf2045883d8aa3756795" sha1="15643be0da59b70474003d3d28de51ad5b4f190c" sha256="b22d4dcfa412d02ceb0a5b60db4ad242971e169f8b5c745dd266f3966e7ec6b7"/>
+	</game>
+	<game name="Rayman 4 (World) (Proto) (GameCube, PC, PlayStation 2, Xbox 360)" id="0009">
+		<description>Rayman 4 (World) (Proto) (GameCube, PC, PlayStation 2, Xbox 360)</description>
+		<rom name="Rayman 4 Prototype + Source Code.rar" size="140670272" crc="7cd64558" md5="3d78356a4f7fc0e054079492821392ad" sha1="90f3590edc4565af2793f76129975ba6c0ec5e70" sha256="ca23fbff03fd0e6688611d6ee63107060be2645cadeb43d5e29b8873d14d39ab"/>
+	</game>
+	<game name="Road Riot 4WD (Unknown) (1992-11-13)" id="0001">
+		<description>Road Riot 4WD (Unknown) (1992-11-13)</description>
+		<rom name="road riot source code - 13Nov92.zip" size="992449" crc="302ab01b" md5="d63e31ac52576f36d97507593b442489" sha1="24d777f32f61d1f4eba6a5885e76a2b09c371107" sha256="4c454d3cc7a7ca121978b81afb1072a2008e030693e68b6227ffd544ed85bb0b"/>
+	</game>
+	<game name="Shovel Knight (World) (Graphics)" id="0004">
+		<description>Shovel Knight (World) (Graphics)</description>
+		<rom name="TreasureTrove_AllArt.zip" size="783841766" crc="f4f58cd4" md5="4a3fd7ba8b5a36db7960cae07b18ce16" sha1="4376b1ac431afdd6516c20d94b331b6a60c1627f" sha256="05ae1a11f24a4f4e6f2fd2900fd9b7c64face53660de7f53d436b7b4a53fd8b8"/>
+	</game>
+	<game name="Team Fortress 2 (Unknown) (Assets)" id="0017">
+		<description>Team Fortress 2 (Unknown) (Assets)</description>
+		<rom name="tf2_maps.zip" size="103969227" crc="eec077df" md5="fda353c16fbd390fb46089f5ec445be3" sha1="a1277a060c386cbb90718b59ddb0c3fbfda7290f" sha256="13ae1ebd65f0235a6194d54e4ffcad84de49565fef2a0cbb92a89e03589c9273"/>
+		<rom name="tf.rar" size="19346295470" crc="492691f6" md5="5025703857e4916bb62dbf40ff6e80d6" sha1="cf5f872bebce42a7c19c3a577cdec0b7e72e8d91" sha256="e3e3e72b11aa6bc43f0414758349d21dab25e1beca7a0f140f601df27eb63c96"/>
+	</game>
+	<game name="Tomb Raider + Tomb Raider II (Unknown)" id="0011">
+		<description>Tomb Raider + Tomb Raider II (Unknown)</description>
+		<rom name="TOMB21.zip" size="48523937" crc="5b6b1a65" md5="027f3c48f97ae7544ae92e26d9e02c52" sha1="7cd1fdbe516ca86352e76a5c817e688797c5296f" sha256="9439573b09326664cfb972eac3f8aed313dc983598885b019fd07da9f5f7e574"/>
+	</game>
+	<game name="Wipeout (Unknown) (PlayStation, Windows)" id="0006">
+		<description>Wipeout (Unknown) (PlayStation, Windows)</description>
+		<rom name="WIPESRC.7z" size="8146722" crc="6fab8197" md5="3936dc66bc6cbd174aa6336d493190f9" sha1="df17aaf13e5fad0c659ce05c88e95b950945f3f9" sha256="ad1f6a5a4103485f7b92f0ba5135e6b4b45863b7b11456cffc3cd1991d0dc20b"/>
+	</game>
+</datafile>

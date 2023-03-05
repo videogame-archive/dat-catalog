@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Games - [MDF-MDS]</name>
+		<description>Sega Dreamcast - Homebrew - Games - [MDF-MDS] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Momo - The Game (2021-03-28)(Cooljerk)">
+		<description>Game Momo - The Game (2021-03-28)(Cooljerk)</description>
+		<rom name="Game Momo - The Game (2021-03-28)(Cooljerk).mdf" size="129305904" crc="8133eea3" md5="e5362085fe8211742bce80c9d6d2e25d" sha1="e52d9de2f40a8e560b9536a34653248431b007be"/>
+		<rom name="Game Momo - The Game (2021-03-28)(Cooljerk).mds" size="1478" crc="809ad9cc" md5="8439b21f18876b77297cb63cbc7ee1ca" sha1="98b448a34cf80cf9cd23577aaa65d014e70908b5"/>
+	</game>
+</datafile>

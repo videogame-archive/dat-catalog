@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hitachi S1 - Games - [WAV]</name>
+		<description>Hitachi S1 - Games - [WAV] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nuts &amp; Milk (1984)(Hudson Soft)(JP)[MA-3202]">
+		<description>Nuts &amp; Milk (1984)(Hudson Soft)(JP)[MA-3202]</description>
+		<rom name="Nuts &amp; Milk (1984)(Hudson Soft)(JP)[MA-3202].wav" size="25840172" crc="1113103e" md5="34ec3c89f5de18370983b938aad5c2a1" sha1="bcfcca93d5dede90bf6ddadf268b2eb5e33a7e5a"/>
+	</game>
+	<game name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 1 of 3)(ADV-1)[MA-3204-1]">
+		<description>Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 1 of 3)(ADV-1)[MA-3204-1]</description>
+		<rom name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 1 of 3)(ADV-1)[MA-3204-1].wav" size="20015660" crc="cc919d96" md5="eb3040fcac1953f547b75ed63a96aadb" sha1="78841743f3cc1fd409c73acad1b848e8336b2da6"/>
+	</game>
+	<game name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 2 of 3)(ADV-2, 3)[MA-3204-2]">
+		<description>Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 2 of 3)(ADV-2, 3)[MA-3204-2]</description>
+		<rom name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 2 of 3)(ADV-2, 3)[MA-3204-2].wav" size="38531116" crc="11f03004" md5="4dacb52faf5234b83cda9c9a17465a78" sha1="5281338f35cdbecf9463df792a83a60c9fbe2031"/>
+	</game>
+	<game name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 3 of 3)(ADV-4, 5)[MA-3204-3]">
+		<description>Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 3 of 3)(ADV-4, 5)[MA-3204-3]</description>
+		<rom name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 3 of 3)(ADV-4, 5)[MA-3204-3].wav" size="31778860" crc="23c04355" md5="9868e309802a394bd4252b8f890ec47a" sha1="540346060205803e648bb6a098e5e443ae851d71"/>
+	</game>
+	<game name="Super Mario Bros. Special (1984)(Hudson Soft)(JP)[MA-1006]">
+		<description>Super Mario Bros. Special (1984)(Hudson Soft)(JP)[MA-1006]</description>
+		<rom name="Super Mario Bros. Special (1984)(Hudson Soft)(JP)[MA-1006].wav" size="22412844" crc="12892be3" md5="219341657458665f25ff281251459460" sha1="4d4a91a29bca27b2aea97be6aac8984b5e7f5c5a"/>
+	</game>
+</datafile>

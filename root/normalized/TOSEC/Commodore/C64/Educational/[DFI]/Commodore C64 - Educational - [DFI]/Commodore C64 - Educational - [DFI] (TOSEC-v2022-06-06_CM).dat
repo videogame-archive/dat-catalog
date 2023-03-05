@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Educational - [DFI]</name>
+		<description>Commodore C64 - Educational - [DFI] (TOSEC-v2022-06-06)</description>
+		<category>TOSEC</category>
+		<version>2022-06-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Clik Clak (1992)(Idea Software)[cr REM]">
+		<description>Clik Clak (1992)(Idea Software)[cr REM]</description>
+		<rom name="Clik Clak (1992)(Idea Software)[cr REM].dfi" size="131072" crc="99fe57cd" md5="35c9f598ee3f738b6609c2d566ea7e31" sha1="9f37af7afaa4b74e13b3617a3ae02082be7989dd"/>
+	</game>
+	<game name="Gehirn-Analyse (2004)(WelleErdball)(de)">
+		<description>Gehirn-Analyse (2004)(WelleErdball)(de)</description>
+		<rom name="Gehirn-Analyse (2004)(WelleErdball)(de).dfi" size="196608" crc="9602bbe8" md5="86ff3f081b5d3002c901004f6b35b6dd" sha1="6adac1815f36b35aa15c49bc78abf3bb02232e7d"/>
+	</game>
+</datafile>

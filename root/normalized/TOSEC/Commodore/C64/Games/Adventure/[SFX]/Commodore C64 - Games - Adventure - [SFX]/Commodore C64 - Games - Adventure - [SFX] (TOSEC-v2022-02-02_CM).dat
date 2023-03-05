@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Adventure - [SFX]</name>
+		<description>Commodore C64 - Games - Adventure - [SFX] (TOSEC-v2022-02-02)</description>
+		<category>TOSEC</category>
+		<version>2022-02-02</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Adventure 3 - Haunted Mansion (1980)(John O&apos;Hare)">
+		<description>Adventure 3 - Haunted Mansion (1980)(John O&apos;Hare)</description>
+		<rom name="Adventure 3 - Haunted Mansion (1980)(John O&apos;Hare).sfx" size="17739" crc="65f87d5a" md5="910eefcc608e20bfd189a18e2f1487c9" sha1="e303e463927de369751d7f3646bc8dfd6e081976"/>
+	</game>
+	<game name="Dog Star Adventure (1980)(The Guild Adventure Software)">
+		<description>Dog Star Adventure (1980)(The Guild Adventure Software)</description>
+		<rom name="Dog Star Adventure (1980)(The Guild Adventure Software).sfx" size="13828" crc="0c117087" md5="bfc5e9189969334b1ae6a370aa453536" sha1="243a2de0fd9aca7ba435be719eb2af49247fe7a1"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX MSX2 - Games - [SCP]</name>
+		<description>MSX MSX2 - Games - [SCP] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Jikuu no Hanayome (1989)(Kogado)(JP)(Disk 1 of 2)(Opening Disk)">
+		<description>Jikuu no Hanayome (1989)(Kogado)(JP)(Disk 1 of 2)(Opening Disk)</description>
+		<rom name="Jikuu no Hanayome (1989)(Kogado)(JP)(Disk 1 of 2)(Opening Disk).scp" size="39582318" crc="0764ca25" md5="02c5f3b7645ca164a2fbbb128d086fb2" sha1="71fa906d203077c0f8e43b91630e484bc453390a"/>
+	</game>
+	<game name="Jikuu no Hanayome (1989)(Kogado)(JP)(Disk 2 of 2)(Game Disk)">
+		<description>Jikuu no Hanayome (1989)(Kogado)(JP)(Disk 2 of 2)(Game Disk)</description>
+		<rom name="Jikuu no Hanayome (1989)(Kogado)(JP)(Disk 2 of 2)(Game Disk).scp" size="40539270" crc="8d30af32" md5="88ddc7ae011bce4898f26da6de255b67" sha1="cb5af40f65e2f076fd8d5719efe18e717245b6f9"/>
+	</game>
+	<game name="Reviver (1987)(Arsys)(JP)">
+		<description>Reviver (1987)(Arsys)(JP)</description>
+		<rom name="Reviver (1987)(Arsys)(JP).scp" size="39497322" crc="d4f46dc2" md5="172628f646c45340fa65c90f35b7963c" sha1="7ca09615c317e448fd23d63edcfcaf612cbbe0b8"/>
+	</game>
+</datafile>

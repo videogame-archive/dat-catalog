@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8801 - Games - [WAV]</name>
+		<description>NEC PC-8801 - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022)(Inufuto)(JP)">
+		<description>Ascend (2022)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022)(Inufuto)(JP).wav" size="2260844" crc="5c6710ec" md5="9f03213647e13d73ba67a54875b0cef1" sha1="54605961eeb2604af00e0385dd8cf44e0e78c917"/>
+	</game>
+	<game name="Ascend (2022)(Inufuto)(mkII)(JP)">
+		<description>Ascend (2022)(Inufuto)(mkII)(JP)</description>
+		<rom name="Ascend (2022)(Inufuto)(mkII)(JP).wav" size="3525548" crc="129b054e" md5="7413259bfe9400b8515f2fedd6dbe2af" sha1="16dc90a510e656876b68aa4a56d7afb7ff838a72"/>
+	</game>
+	<game name="Ascend (2022)(Inufuto)(mkII SR)(JP)">
+		<description>Ascend (2022)(Inufuto)(mkII SR)(JP)</description>
+		<rom name="Ascend (2022)(Inufuto)(mkII SR)(JP).wav" size="4177196" crc="8029a696" md5="6ab69c250e100c43a9e84d5b7d898dfd" sha1="bb544d33b90c334feaea72634d6b7f098f930304"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).wav" size="6271805" crc="e73e3363" md5="0dab4197e668ba24b94838969b5dd79e" sha1="b308d6830d9019daa83d4e62e053232e94ead86f"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny].wav" size="2972099" crc="b501678c" md5="30d8f33353234ccf6a597d768aa3c824" sha1="7c0ce19464d72ef97ee1304a350fc175a491a92d"/>
+	</game>
+	<game name="Mazy (2021-03-22)(Inufuto)(mkII)(JP)">
+		<description>Mazy (2021-03-22)(Inufuto)(mkII)(JP)</description>
+		<rom name="Mazy (2021-03-22)(Inufuto)(mkII)(JP).wav" size="2427756" crc="fa0f71d3" md5="20afd6a61cc18b0609afeba0a9cf1ac0" sha1="62c5021282787be0b76f0326ac3272a19a74dcda"/>
+	</game>
+	<game name="Ruptus (2021-03-19)(Inufuto)(mkII)(JP)">
+		<description>Ruptus (2021-03-19)(Inufuto)(mkII)(JP)</description>
+		<rom name="Ruptus (2021-03-19)(Inufuto)(mkII)(JP).wav" size="4550316" crc="d4207555" md5="4f47266270f5b8366e8edb96be392552" sha1="d39a5908a5249a2e44af24de59953aa895f49c65"/>
+	</game>
+	<game name="Ruptus (2021-04-04)(Inufuto)(JP)">
+		<description>Ruptus (2021-04-04)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-04-04)(Inufuto)(JP).wav" size="3142700" crc="0a6a14bb" md5="24517332c82f6e317b2740c438e48053" sha1="9ceabfb74ce05aabc35599e0fda745015236e27f"/>
+	</game>
+	<game name="Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP)">
+		<description>Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP)</description>
+		<rom name="Ruptus (2021-05-16)(Inufuto)(mkII SR)(JP).wav" size="5886380" crc="798fb8e2" md5="393a0f1c6fde59e2c08b562d4087de79" sha1="75ea25aa5c09aa60290708b8ec5cb065bd26b27b"/>
+	</game>
+</datafile>

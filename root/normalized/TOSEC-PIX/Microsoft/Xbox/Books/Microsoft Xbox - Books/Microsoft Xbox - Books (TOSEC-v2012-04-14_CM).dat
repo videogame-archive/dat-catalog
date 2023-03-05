@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox - Books</name>
+		<description>Microsoft Xbox - Books (TOSEC-v2012-04-14)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-14</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Black Art of Xbox Mods, The (2005)(Sams Publishing)">
+		<description>Black Art of Xbox Mods, The (2005)(Sams Publishing)</description>
+		<rom name="Black Art of Xbox Mods, The (2005)(Sams Publishing).pdf" size="14228516" crc="2516c02f" md5="e0f5a58ced585c1f9cc854d84eae82a9" sha1="895de51842152a8a81d92702efaf8fe0bcee1608"/>
+	</game>
+	<game name="Hacking the Xbox - An Introduction to Reverse Engineering (2003)(No Starch Press)">
+		<description>Hacking the Xbox - An Introduction to Reverse Engineering (2003)(No Starch Press)</description>
+		<rom name="Hacking the Xbox - An Introduction to Reverse Engineering (2003)(No Starch Press).pdf" size="37071086" crc="c4487c16" md5="3492e195e5108ab1b54ee62dbe7ce4d4" sha1="79b509ccfd79a5a12de8ec2a7b9101a822287583"/>
+	</game>
+</datafile>

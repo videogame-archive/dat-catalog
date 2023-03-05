@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - Homebrew - Games</name>
+		<description>Sega Mega-CD &amp; Sega CD - Homebrew - Games (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blackjack CD (2015)(Mihai, Sebastian)">
+		<description>Blackjack CD (2015)(Mihai, Sebastian)</description>
+		<rom name="Blackjack CD (2015)(Mihai, Sebastian).cue" size="126" crc="71174c3f" md5="450bfc8d16784709ad086252c6eb4583" sha1="35f0edd7283992902a52bf3e269218fed9d644fa"/>
+		<rom name="Blackjack CD (2015)(Mihai, Sebastian).iso" size="524288" crc="9359254c" md5="42629186a6f5c26c00a2e62b8fea1e4e" sha1="ebbd28fae8ffadf59a21e96d4cc1966c2faac5f6"/>
+	</game>
+</datafile>

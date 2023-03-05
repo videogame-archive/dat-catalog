@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Video</name>
+		<description>Commodore C64 - Video (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="C64 Training Tape (1983)(PF Video)">
+		<description>C64 Training Tape (1983)(PF Video)</description>
+		<rom name="C64 Training Tape (1983)(PF Video).avi" size="730011898" crc="a9da44b7" md5="6d7171bb0321ccb3eeb32860bbde3261" sha1="021e566dec99708f53f6e3fc04f72f758648b10f"/>
+	</game>
+	<game name="Commodore C64 - 8 Bit Legend (2012)(C64TV)">
+		<description>Commodore C64 - 8 Bit Legend (2012)(C64TV)</description>
+		<rom name="Commodore C64 - 8 Bit Legend (2012)(C64TV).mp4" size="226596746" crc="2d128cd9" md5="e60a8d71e89a8fee12f031be3009e1b2" sha1="827bcda16a723ed3bb4c3393e6d5145aded347c8"/>
+	</game>
+	<game name="Commodore C64 - 8 Bit Legend (2012)(C64TV)[a]">
+		<description>Commodore C64 - 8 Bit Legend (2012)(C64TV)[a]</description>
+		<rom name="Commodore C64 - 8 Bit Legend (2012)(C64TV)[a].mp4" size="551508810" crc="adbdc3f9" md5="4baca3fdf298e01dafabe7460a9595ad" sha1="3e63f8287d484b6897f3a376f46918b2550c9ea5"/>
+	</game>
+	<game name="Commodore C64 - Introduction to Programming - Level 1 (1984)(Harrison Partnership)">
+		<description>Commodore C64 - Introduction to Programming - Level 1 (1984)(Harrison Partnership)</description>
+		<rom name="Commodore C64 - Introduction to Programming - Level 1 (1984)(Harrison Partnership).mp4" size="179531230" crc="789bd4b2" md5="f89b2d142c11ca8b46af5ebff4cab5ed" sha1="4ac11f42b250bd73ecfaa49b8868b535f6f4e6f1"/>
+	</game>
+	<game name="Commodore – eine gute idee nach der anderen (1983)(Commodore)(DE)">
+		<description>Commodore – eine gute idee nach der anderen (1983)(Commodore)(DE)</description>
+		<rom name="Commodore – eine gute idee nach der anderen (1983)(Commodore)(DE).mp4" size="232301080" crc="e4258361" md5="d59a4bf7b0030dbc561f410ac1ee40fe" sha1="4ff84a1a4edb5c5983fe4d87f5ffac0d5cbae0cf"/>
+	</game>
+	<game name="How to Repair Your Commodore 1541 Disk Drive (1990)(Computer Restore)(US)[a]">
+		<description>How to Repair Your Commodore 1541 Disk Drive (1990)(Computer Restore)(US)[a]</description>
+		<rom name="How to Repair Your Commodore 1541 Disk Drive (1990)(Computer Restore)(US)[a].mp4" size="408494965" crc="3eb8c795" md5="2f9b04f866ef911d2ca00bad4e8f961a" sha1="65360edebc7e358768307f35700a1caff1f2079c"/>
+	</game>
+	<game name="How to Repair Your Commodore 1541 Disk Drive (1990)(Computer Restore)">
+		<description>How to Repair Your Commodore 1541 Disk Drive (1990)(Computer Restore)</description>
+		<rom name="How to Repair Your Commodore 1541 Disk Drive (1990)(Computer Restore).avi" size="425047588" crc="c6d39d4e" md5="5eeabf96fd74d243e25f27829c3d0a6f" sha1="93f5c212912b002f2789a848933ab76272ca9d69"/>
+	</game>
+</datafile>

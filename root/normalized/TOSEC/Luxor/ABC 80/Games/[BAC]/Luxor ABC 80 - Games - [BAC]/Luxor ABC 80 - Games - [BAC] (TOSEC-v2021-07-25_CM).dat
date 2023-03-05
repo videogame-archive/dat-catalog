@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor ABC 80 - Games - [BAC]</name>
+		<description>Luxor ABC 80 - Games - [BAC] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[full].bac" size="13409" crc="6808c2f2" md5="39d3dafe3fd6441ff83498912408f880" sha1="773cee855ac99773d3af4872b49dbc65e497fb32"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).bac" size="12903" crc="37c4cd94" md5="38dc6848ce3739158ff4db50d3faccdc" sha1="47a08d1ba670a1dfa605d3ad4598b5636e34c623"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[light]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[light]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[light].bac" size="8855" crc="3e6f1277" md5="e7d3b522f1e7fdc73c16f610e063fc85" sha1="a30035d1661547b8acecea72c593cddca1e999c3"/>
+	</game>
+</datafile>

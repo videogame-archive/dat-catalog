@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>123</id>
+		<name>Mobile - J2ME</name>
+		<description>Mobile - J2ME</description>
+		<version>20230202-085036</version>
+		<author>FakeShemp, Hiccup, NovaAurora, Tescu, TwoSpacesSG</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Empire Earth (Unknown) (En,Fr,De,Es,It) (176x208)" id="0038">
+		<description>Empire Earth (Unknown) (En,Fr,De,Es,It) (176x208)</description>
+		<rom name="Empire Earth (Unknown) (En,Fr,De,Es,It) (176x208).jar" size="210863" crc="23200d42" md5="1ce8759caa5e74bcc490528eb1df2659" sha1="500881f366ccfb3bccf3953069e6e23ff9266daf"/>
+	</game>
+	<game name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v3) (208x208)" id="0077" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v3) (208x208)</description>
+		<rom name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v3) (208x208).jar" size="94799" crc="d61c960d" md5="d68b6ae922f20e43222224e867c4b3b1" sha1="e7ae0eddaee0c23fbe0c8c9c7c74ceecfd551af6" sha256="d7e0ae4dce2ebe5f39022b6a5b455b5a50f00284e2a50b78321311c819d2a108"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Czechia) (v1.0.1) (Siemens) (132x176)" id="0066" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Czechia) (v1.0.1) (Siemens) (132x176)</description>
+		<rom name="Gorillaz Entertainment System (Czechia) (v1.0.1) (Siemens) (132x176).jar" size="76137" crc="76fc8562" md5="7f86478fe0f056cbdfb74a5d4b286cfc" sha1="84493aa00125d3555a67d1dada3132effa4a4c6f" sha256="717e04b0be91166c3d0925980eda6f23fbb06b81c5bf1268c7d5c8e9cf476186"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Czechia) (v1.0.1) (Nokia) (176x208)" id="0067" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Czechia) (v1.0.1) (Nokia) (176x208)</description>
+		<rom name="Gorillaz Entertainment System (Czechia) (v1.0.1) (Nokia) (176x208).jar" size="96229" crc="5b76e5e9" md5="b3f589449aa29bf7163b4b92fc7147d1" sha1="177f16adec02ae2c547727704999300d9c4e17db" sha256="63047b6b8d5a7141020fe8a78667d5e90589eed33b051d2f447fe1c7747a0506"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Russia) (Sony Ericsson K300) (128x128) [b]" id="0068" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Russia) (Sony Ericsson K300) (128x128) [b]</description>
+		<rom name="Gorillaz Entertainment System (Russia) (Sony Ericsson K300) (128x128) [b].jar" size="79016" crc="66303f18" md5="f1154f6434adf6b2bc465659cfa36655" sha1="82fd399a69c328761e4887f171499d66025602e2" sha256="e61c40ea509a33832c0d08003ae54e29998ff52ce5fcc00b5498019ccbcfbb61" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Russia) (Sony Ericsson K500) (128x160) [b]" id="0069" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Russia) (Sony Ericsson K500) (128x160) [b]</description>
+		<rom name="Gorillaz Entertainment System (Russia) (Sony Ericsson K500) (128x160) [b].jar" size="79210" crc="ae89d2bc" md5="9dc8d9d76583cb119e37c8fce5a15add" sha1="b0082afb31fd515d39aa7c545716cd21fd4c3dc6" sha256="fedfb7956e2ccb9e6ba87632578bb30b93a1203be619d75a08f3b20fd037e9a7" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Russia) (Nokia) (176x208) [b]" id="0070" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Russia) (Nokia) (176x208) [b]</description>
+		<rom name="Gorillaz Entertainment System (Russia) (Nokia) (176x208) [b].jar" size="96499" crc="2865544f" md5="80f43c9686c120fd886a927e60a79111" sha1="1331c8391070f8d910cb4cd08844a6dd1bbfae4b" sha256="01c3dcbcfe1cd239b5da59985f869f2247391098b47fb0e6bb41c2b0abdcbd6e" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (Russia) (Sony Ericsson K700) (176x220)" id="0071" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (Russia) (Sony Ericsson K700) (176x220)</description>
+		<rom name="Gorillaz Entertainment System (Russia) (Sony Ericsson K700) (176x220).jar" size="98621" crc="d7cbc432" md5="5202c8db01e1df898c38cc489fcc749b" sha1="5c92ba3a4e80a4d2530aeb351801df2be44460f4" sha256="068283aae1804a894a6ae8a1f022ed90bb3ef43fb6fbc67feb6fa163e4a8edfb"/>
+	</game>
+	<game name="Gorillaz Entertainment System (USA, Europe) (128x128)" id="0072" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (USA, Europe) (128x128)</description>
+		<rom name="Gorillaz Entertainment System (USA, Europe) (128x128).jar" size="55409" crc="3145a7be" md5="cce211b86df6d4d3d7195f2b172260ea" sha1="acc8b864e4191fbce4d2c9de192474ffe462767e" sha256="425bb29783c1e4a595c4034959bc9e83e31b53abede16bb6a4ce1c82b3fcbf7f"/>
+	</game>
+	<game name="Gorillaz Entertainment System (USA, Europe) (Nokia 6280) (240x320) [b]" id="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (USA, Europe) (Nokia 6280) (240x320) [b]</description>
+		<rom name="Gorillaz Entertainment System (USA, Europe) (Nokia 6280) (240x320) [b].jar" size="142560" crc="deec4127" md5="bb7f2589ad74d39137f449cdfe0b7e37" sha1="6fa3ef6a73663394e7b5c97863da379fc1262bb3" sha256="906ae0c01d0252f8392873fbe888d789779beb3964cdaf2e766a1d781ee69176" status="baddump"/>
+	</game>
+	<game name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (128x128)" id="0074" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (USA, Europe) (v1.0.27) (128x128)</description>
+		<rom name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (128x128).jar" size="51681" crc="0bb2c5c4" md5="6b82324689dfc1017e27e6f16f5f0392" sha1="71e1b15a71aa3097056e813a5ce3e92485f6dec5" sha256="66fd65169675dbfa93943b5ff166595506ca3499950a0c0e0caecd147ba19a9d"/>
+	</game>
+	<game name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v2) (128x128)" id="0075" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v2) (128x128)</description>
+		<rom name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v2) (128x128).jar" size="74465" crc="7c3b350f" md5="e7cdf05c47671027f628e09b38cd7842" sha1="8565ad706d925383eae0388ab8a2465cbc9796a6" sha256="b6ac39f284d6eda4449f5caa09378fef50d23fb5a29fec01867ede9a205a13b9"/>
+	</game>
+	<game name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v2a) (128x160)" id="0076" cloneofid="0073">
+		<category>Games</category>
+		<description>Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v2a) (128x160)</description>
+		<rom name="Gorillaz Entertainment System (USA, Europe) (v1.0.27) (Nokia s40v2a) (128x160).jar" size="75239" crc="ecbe29d4" md5="25cc89cb34dfe4fa1bda212bd5fa78de" sha1="f7b5655419b5e374d31363da4447f398f7a2caf7" sha256="ffeae989a565ba122dbde57434366b3e662f5079c28d1e6262f09715e6fc4bd0"/>
+	</game>
+	<game name="I-Bouncer (Russia) (LG) (128x160) (Demo)" id="0002" cloneofid="0001">
+		<description>I-Bouncer (Russia) (LG) (128x160) (Demo)</description>
+		<rom name="I_bouncer_LG_128_160_RU.jad" size="331" crc="9d98f89b" md5="577e57932a34f20c0ee011e4395a3002" sha1="2106f5762283df530745fa040729a9a016fc735d"/>
+		<rom name="I_bouncer_LG_128_160_RU.jar" size="142133" crc="aa9d53e9" md5="fe408145e806524fd0511ee480fb5c33" sha1="ad8296d645e67a7376ecd0dc64ad3de623e6d1aa"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony) (240x320) (Demo)" id="0020" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony) (240x320) (Demo)</description>
+		<rom name="I_bouncer_SE_240_320_RU.jad" size="331" crc="d7511ccb" md5="5368c249c19224ecd7dd59c9e0ec4e00" sha1="6312cb1557332ad321e9a3343469d145479f210e"/>
+		<rom name="I_bouncer_SE_240_320_RU.jar" size="206926" crc="d06d9c4f" md5="a82693646e3b076e9f07f6842c202ed7" sha1="da69a784246b3b297afa464f76aadee506be4c4b"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony) (176x220) (Demo)" id="0019" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony) (176x220) (Demo)</description>
+		<rom name="I_bouncer_SE_176_220_RU.jad" size="331" crc="b8b0b8eb" md5="f3aa4010842d13e560ae10e10f372898" sha1="6ed0ad4ded0de12fc293988c92fd4cf38cc3c336"/>
+		<rom name="I_bouncer_SE_176_220_RU.jar" size="166815" crc="8ecde962" md5="90145dbd6e879782dbb3822d9f35cecf" sha1="bc282806bd2cc5f22f20359eb2fffe79b9b70777"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony) (128x160) (Demo)" id="0018" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony) (128x160) (Demo)</description>
+		<rom name="I_bouncer_SE_128_160_RU.jad" size="331" crc="86b774bc" md5="71a8a152071c11b013837a59e8402881" sha1="5ef1202c8564f8559015f649e69ea323413afdc5"/>
+		<rom name="I_bouncer_SE_128_160_RU.jar" size="142153" crc="f52e534b" md5="4d79dde89f7b0a04f80c1e992f83951c" sha1="6dc5bfd32a8e0e51981bdb2e5aa57a759a06f4d2"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens) (240x320) (Demo)" id="0016" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens) (240x320) (Demo)</description>
+		<rom name="I_bouncer_Siem_240_320_RU.jad" size="333" crc="4c9fdce2" md5="b4ebb28d8d78989f11c32e5df653ff9b" sha1="7704aed0bcfd2d4830c5635d71e445d59a959f7a"/>
+		<rom name="I_bouncer_Siem_240_320_RU.jar" size="206713" crc="204e1090" md5="cd09ad4f8dbb6ea0398364632efe1d87" sha1="0355e5c36705068102a4cef5ea48c1c9d837cae1"/>
+	</game>
+	<game name="I-Bouncer (Russia) (LG) (128x128) (Demo)" id="0001">
+		<description>I-Bouncer (Russia) (LG) (128x128) (Demo)</description>
+		<rom name="I_bouncer_LG_128_128_RU.jad" size="331" crc="557955b3" md5="8f83eafc6c95ebd0984fce3872c360df" sha1="014e270fb35aa1457a8729dfb711faa2ca45eeba"/>
+		<rom name="I_bouncer_LG_128_128_RU.jar" size="140539" crc="5acbf652" md5="4d14f746b19c550403259a1fe1f41835" sha1="771ca539128c8c0050ebf305dc959c925e9d46ba"/>
+	</game>
+	<game name="I-Bouncer (Russia) (LG) (176x220) (Demo)" id="0003" cloneofid="0001">
+		<description>I-Bouncer (Russia) (LG) (176x220) (Demo)</description>
+		<rom name="I_bouncer_LG_176_220_RU.jad" size="331" crc="ba54f426" md5="22811fffa899fe2940c064628478b0c2" sha1="acd10b958cde5b5b460dffbb2d044977d5d12f2d"/>
+		<rom name="I_bouncer_LG_176_220_RU.jar" size="166791" crc="e2e6e7b4" md5="95be682efa240423c01468c218e9f899" sha1="7f05ba053c116d86667d7195c4a84ef06f299891"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Motorola) (176x204) (Demo)" id="0004" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Motorola) (176x204) (Demo)</description>
+		<rom name="I_bouncer_Mot_176_204_RU.jad" size="332" crc="9de6fd9b" md5="8775a50280acb81240d099fd427063f1" sha1="f4316dd96769ab6437d421e1367d6b27cf26cadc"/>
+		<rom name="I_bouncer_Mot_176_204_RU.jar" size="165990" crc="065dcc68" md5="a7b4c676ec461d43c129546b67cda0cf" sha1="e1acdeb9b15e745d9289121a9a1d198b3f859fcc"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Motorola) (240x320) (Demo)" id="0005" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Motorola) (240x320) (Demo)</description>
+		<rom name="I_bouncer_Mot_240_320_RU.jad" size="332" crc="b31ec9da" md5="ba343bf45ccb619631940eec46d30c5d" sha1="fa9c4f177c2daff55683d9e878750099321dc2de"/>
+		<rom name="I_bouncer_Mot_240_320_RU.jar" size="206679" crc="924f0a85" md5="15b830fcff70dadee27c62a4f4f751ab" sha1="3dc0ab6e58cd6a9ede04a05152ec762755ca13a7"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia) (128x128) (Demo)" id="0006" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia) (128x128) (Demo)</description>
+		<rom name="I_bouncer_Nok_128_128_RU.jad" size="332" crc="c36b90ed" md5="94e741d41020f07fc9406dfcbe564f5b" sha1="1e88202545e27ec9c7f01267d050a87ac2f4bcf1"/>
+		<rom name="I_bouncer_Nok_128_128_RU.jar" size="140998" crc="65b72ea8" md5="54f02e7ac24e25282975f4f410ef5305" sha1="d43d177130780f977304cc658e6bc31296eb6f8b"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia) (128x160) (Demo)" id="0007" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia) (128x160) (Demo)</description>
+		<rom name="I_bouncer_Nokia_128_160_RU.jad" size="334" crc="935a2dd7" md5="e932134d2d0c3a26793612150bc60ed0" sha1="dcd5e80ab3f1b21dc4dea06f73a29904f6bfee6c"/>
+		<rom name="I_bouncer_Nokia_128_160_RU.jar" size="142334" crc="e5e11a6a" md5="5bd0c6c9dfb95596cdecc914dae45e13" sha1="2b455ab7c4d26e663178717d61c8cf7ff457e90c"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia) (176x208) (Demo)" id="0008" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia) (176x208) (Demo)</description>
+		<rom name="I_bouncer_Nokia_176_208_RU.jad" size="334" crc="bd56d380" md5="860b2de8f56a515ca8fda24f696d7874" sha1="b63545da31de8054d6d4cd400f3b7db9c325621a"/>
+		<rom name="I_bouncer_Nokia_176_208_RU.jar" size="167552" crc="6f509a49" md5="1f223d0ad03fd229f594d7e91ff2e0b9" sha1="52e787dc288626ebe5b386cd3cf32c738a0f8206"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Nokia) (240x320) (Demo)" id="0009" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Nokia) (240x320) (Demo)</description>
+		<rom name="I_bouncer_Nokia_240_240_RU.jad" size="334" crc="8cc81d0c" md5="80c9bfb0caef2de8ad2314f0e6f44fc5" sha1="6442d12528cfbbbf248049b93152eb62f64d7e95"/>
+		<rom name="I_bouncer_Nokia_240_240_RU.jar" size="207109" crc="e3d8fefd" md5="c975e45f9d9b2b77f2cc58ca1bccc646" sha1="42c333186d24aaed1883ae6f36714916bae28c6f"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Samsung) (128x160) (Demo)" id="0010" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Samsung) (128x160) (Demo)</description>
+		<rom name="I_bouncer_Sam_128_160_RU.jad" size="332" crc="549acc90" md5="b85321e001945c91d92ad268e4b26dea" sha1="b638b8d50e1f14db586c23a62c481b32c0f22836"/>
+		<rom name="I_bouncer_Sam_128_160_RU.jar" size="141891" crc="a61b3963" md5="d0bba7f7750c0d2c66eee40602d22c2c" sha1="232995017633243ace58697e3285c4ae20236482"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Samsung) (176x220) (Demo)" id="0011" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Samsung) (176x220) (Demo)</description>
+		<rom name="I_bouncer_Sam_176_220_RU.jad" size="332" crc="ddcabeac" md5="382073ebe6bc40bdadb5df841075f60d" sha1="6c17086b5601164acf78bcdf41055a41a5b67478"/>
+		<rom name="I_bouncer_Sam_176_220_RU.jar" size="166790" crc="097005ff" md5="80b5546ddd84ec757965bb90f3904b8c" sha1="321bd6b619ba5ee84e61a6a146cb160c609f7021"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Samsung) (240x320) (Demo)" id="0012" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Samsung) (240x320) (Demo)</description>
+		<rom name="I_bouncer_Sam_240_320_RU.jad" size="332" crc="858577ff" md5="47cf125f8a8cc59fefc9a0dbb72db6a0" sha1="557900e3fb33be6c9d0f79a660d9a1b696b36f1b"/>
+		<rom name="I_bouncer_Sam_240_320_RU.jar" size="206904" crc="abc7f2db" md5="d26440f278ee800dc0cf2f826e868e51" sha1="bb3d3146e5cdefde926bf61d6d42bd1d3bf89473"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens) (128x160) (Demo)" id="0013" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens) (128x160) (Demo)</description>
+		<rom name="I_bouncer_Siem_128_160_RU.jad" size="333" crc="9c90820f" md5="52c6fba75c74ef0edf3409a0fdc96c94" sha1="6f072dea25c98133bc18df81f8ed2e119e972c0e"/>
+		<rom name="I_bouncer_Siem_128_160_RU.jar" size="141947" crc="39456fb2" md5="5583f2870c01086b46491fd49dead514" sha1="341dd4c5cea99d7b0995bcba4034d2ebbd3bb259"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens) (132x176) (Demo)" id="0014" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens) (132x176) (Demo)</description>
+		<rom name="I_bouncer_Siem_132_176_RU.jad" size="333" crc="2d26a5df" md5="09d501b5df88bb6aa2053719f47bb3ce" sha1="92ad04acc21c08658e42572ffc7d22a0638b5409"/>
+		<rom name="I_bouncer_Siem_132_176_RU.jar" size="142381" crc="594987e9" md5="68f210747c717d9c2bf0182671316af7" sha1="aefb3e39573c3d374e82d160d49f076ddcbe162c"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Sony) (128x128) (Demo)" id="0017" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Sony) (128x128) (Demo)</description>
+		<rom name="I_bouncer_SE_128_128_RU.jad" size="331" crc="391ea54a" md5="80c91208fc82edf70d11780f5fc95a7c" sha1="c716d255b4ca86f43e30702756952f9066a62891"/>
+		<rom name="I_bouncer_SE_128_128_RU.jar" size="140564" crc="3ebfad33" md5="df43d285e4d48c5cbd69e6c8a1dd2ebb" sha1="c4b55a32646cc137e870824acfe50cb8ba695422"/>
+	</game>
+	<game name="I-Bouncer (Russia) (Siemens) (176x220) (Demo)" id="0015" cloneofid="0001">
+		<description>I-Bouncer (Russia) (Siemens) (176x220) (Demo)</description>
+		<rom name="I_bouncer_Siem_176_220_RU.jad" size="333" crc="9d136984" md5="42fc76d3d0f03f134d4666a0c78ff4df" sha1="b42cc1e0d44abb160dbfcc2c71e2c685d650cd01"/>
+		<rom name="I_bouncer_Siem_176_220_RU.jar" size="224368" crc="aad2b5a2" md5="bbb4d913fbd788bcff98b045285cd491" sha1="9df0aca5d35bda9162b09ab987fab0855bebc331"/>
+	</game>
+	<game name="I-Digger (Russia) (Sony) (128x160) (Demo)" id="0028" cloneofid="0021">
+		<description>I-Digger (Russia) (Sony) (128x160) (Demo)</description>
+		<rom name="Sony_Z500_I_digger_demo.jad" size="262" crc="905023bf" md5="93882d094c7d0929e6d5c21f55340eca" sha1="6f2dacb12d773756c9d8eedf3c8b7ac71c6c2b9f"/>
+		<rom name="Sony_Z500_I_digger_demo.jar" size="95682" crc="754925d9" md5="4e20f54478bcb9f1ad19facfd54ba905" sha1="0920738f94002a875bf4d4e246a9ad8370218e2f"/>
+	</game>
+	<game name="I-Digger (Russia) (Sony) (176x220) (Demo)" id="0029" cloneofid="0021">
+		<description>I-Digger (Russia) (Sony) (176x220) (Demo)</description>
+		<rom name="Sony_Z1010_I_digger_demo.jad" size="264" crc="0d4a24c1" md5="c3743d853f60b0fc0a7c7cc5f8306787" sha1="69cf995461733ef883d9d1cb9c833e5ea668d5d3"/>
+		<rom name="Sony_Z1010_I_digger_demo.jar" size="116414" crc="62b8ba6c" md5="800292a1fab1ce231229db2d1de22048" sha1="8b374edbf5ec31f60d0889de100c58efa063e8ac"/>
+	</game>
+	<game name="I-Digger (Russia) (Sony) (128x128) (Demo)" id="0027" cloneofid="0021">
+		<description>I-Digger (Russia) (Sony) (128x128) (Demo)</description>
+		<rom name="Sony_T610_I_digger_demo.jad" size="262" crc="a2d351d7" md5="904ed02ab26ca201b49e0f34e02e7b72" sha1="cc15bdc3a4fd970174d01055abe7f6d918c19e5e"/>
+		<rom name="Sony_T610_I_digger_demo.jar" size="91471" crc="9c3c2c8d" md5="0d89820e778e03bf166a95c766b428c3" sha1="24c846cbfcc42e32282d300ec801ff40c8691649"/>
+	</game>
+	<game name="I-Digger (Russia) (Siemens) (132x176) (Demo)" id="0026" cloneofid="0021">
+		<description>I-Digger (Russia) (Siemens) (132x176) (Demo)</description>
+		<rom name="SimensCX65_I_digger_demo_demo.jad" size="268" crc="36d584e5" md5="f83d0dc0be972d21b75b8a0a0978d891" sha1="dabc7962172b0ff0cf10983fec98cd311efaf5f3"/>
+		<rom name="SimensCX65_I_digger_demo_demo.jar" size="97703" crc="7403a01b" md5="23cb459fb62b964b5eb1643c98eb9203" sha1="184abeda955e1f49bc73dc6c152fabc912c93783"/>
+	</game>
+	<game name="I-Digger (Russia) (Samsung) (128x160) (Demo)" id="0025" cloneofid="0021">
+		<description>I-Digger (Russia) (Samsung) (128x160) (Demo)</description>
+		<rom name="Sumsung_I_digger_demo.jad" size="260" crc="8234d6c3" md5="513cadf848cb07c9ab9c92e99a805d97" sha1="52fa350625d2e05918285b2baa5746adf314cee7"/>
+		<rom name="Sumsung_I_digger_demo.jar" size="91385" crc="479fbb01" md5="9e5fd3f3d01613a9e87a3a4fee1403fb" sha1="031d95af55444cda73f512fa58d2e2adb1e511e8"/>
+	</game>
+	<game name="I-Digger (Russia) (Nokia) (176x208) (Demo)" id="0024" cloneofid="0021">
+		<description>I-Digger (Russia) (Nokia) (176x208) (Demo)</description>
+		<rom name="nokia_60_I_digger_demo.jad" size="262" crc="13df42f4" md5="6e66f90902fb7ab4e1b2f9bf2fe39436" sha1="23c869fb9fb81a00b1c7fb0e38baeea411a4095d"/>
+		<rom name="nokia_60_I_digger_demo.jar" size="116151" crc="8a0856a7" md5="90f163efc2e9ecf1e6660d2acd115582" sha1="19f9f7d9015a3813bb2d5108822ee5c10da09f44"/>
+	</game>
+	<game name="I-Digger (Russia) (Nokia) (128x128) (Demo)" id="0023" cloneofid="0021">
+		<description>I-Digger (Russia) (Nokia) (128x128) (Demo)</description>
+		<rom name="Nokia_40_I_digger_demo.jad" size="261" crc="a66852e1" md5="3e7450c39ab23aa0634af215e46564b3" sha1="a94aa671d72ca33aa34414177b01d9484320fb3e"/>
+		<rom name="Nokia_40_I_digger_demo.jar" size="92471" crc="ef38cebe" md5="a5de33f6aad6ae1c081c28211507aed8" sha1="d3e314c5b1c92c2bb71e11e3836c0c4d1135e1a7"/>
+	</game>
+	<game name="I-Digger (Russia) (Motorola) (176x220) (Demo)" id="0022" cloneofid="0021">
+		<description>I-Digger (Russia) (Motorola) (176x220) (Demo)</description>
+		<rom name="Mot_V300_I_digger_demo.jad" size="262" crc="e093318d" md5="8f92309cbbdebeb7462002d4647eef8d" sha1="a19fe7e890a0c7972f67959bffb81cb627bd1452"/>
+		<rom name="Mot_V300_I_digger_demo.jar" size="114365" crc="b95c1596" md5="7eb24949fc3026e2e258888fede38c0e" sha1="6a7c10dc689dd2baceb3a4891c76d5141cbb67dc"/>
+	</game>
+	<game name="I-Digger (Russia) (LG) (128x160) (Demo)" id="0021">
+		<description>I-Digger (Russia) (LG) (128x160) (Demo)</description>
+		<rom name="LG_128_160_I_digger_demo.jad" size="263" crc="e55fafab" md5="dc5b0bfcbb735f65e4a3129d8d9d0b48" sha1="bdb99e2c290b20ae77a97ea03485be6f93fb6f88"/>
+		<rom name="LG_128_160_I_digger_demo.jar" size="95778" crc="3fd1a73e" md5="ed794857098d099e4e25d9784cf96c6d" sha1="9d34020bd1fd5db8dac087d78141591c19ae0ef2"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens) (128x160) (Demo)" id="0053" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens) (128x160) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_128x160_ru_demo.jad" size="322" crc="f89bc310" md5="9ef503b3ec7e7e37aee98d64921d38a9" sha1="8c1c7d8c7e03c03e10ba8ab096d70ad8a2cb0af6"/>
+		<rom name="I_Digger_2_Siemens_128x160_ru_demo.jar" size="167712" crc="4db1fbb4" md5="beb10a85651fe079627f77a9bc91b99a" sha1="f19ee8024a3a37b248c291c58d1735d3d4af3236"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (LG) (128x160) (Demo)" id="0030">
+		<description>I-Digger 2 (Russia) (LG) (128x160) (Demo)</description>
+		<rom name="I_Digger_2_LG_128x160_ru_demo.jad" size="317" crc="5b383ce6" md5="e20e98df22cf558bcfb1345b74cceb05" sha1="ff4c32b7595e955a6b65b76490dbed45055964bd"/>
+		<rom name="I_Digger_2_LG_128x160_ru_demo.jar" size="168841" crc="15df09eb" md5="8ba45baa6c8409c56945af675e0fdc51" sha1="5d3c5f812e479b21e56c5afd305244945beb6e68"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Sony) (240x320) (Demo)" id="0059" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Sony) (240x320) (Demo)</description>
+		<rom name="I_Digger_2_SE_240x320_ru_demo.jad" size="317" crc="c6d5abf6" md5="6b1406498e3b48a5f0d9f1e109f3ea48" sha1="2dae6aaad2e5d1536099e243ed705dd5c4c96f6d"/>
+		<rom name="I_Digger_2_SE_240x320_ru_demo.jar" size="280790" crc="a16e2964" md5="91606f471917c7ce10dc4057f69c30a1" sha1="e135e8a1e968d9642c4a7201f758b2bcd4749b3f"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Sony) (176x220) (Demo)" id="0058" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Sony) (176x220) (Demo)</description>
+		<rom name="I_Digger_2_SE_176x220_ru_demo.jad" size="317" crc="5e3a010a" md5="d127e9c46ea1274d0f831e6467e617d5" sha1="7ce5eee33004cebfb12a1fae1af0c1500392be42"/>
+		<rom name="I_Digger_2_SE_176x220_ru_demo.jar" size="211869" crc="6590bdc7" md5="6abf21bc48413f5c7074a4a18992afe1" sha1="881e2f24b6fc4ccb9b87cda468924d6a74e8d82d"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Sony) (128x160) (Demo)" id="0057" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Sony) (128x160) (Demo)</description>
+		<rom name="I_Digger_2_SE_128x160_ru_demo.jad" size="317" crc="9b22210c" md5="3c0afd9db2d68c11073266197498f391" sha1="b3b08414dbf6450edbfc93b18d4b568805c77e98"/>
+		<rom name="I_Digger_2_SE_128x160_ru_demo.jar" size="167720" crc="cf9e961a" md5="44bf65b1c122e453904122833e210fad" sha1="f563dd09fe0407c9cfd4cff5d0d0f51d173da4f5"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens) (240x320) (Demo)" id="0056" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens) (240x320) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_240x320_ru_demo.jad" size="322" crc="1a9f14dd" md5="5cb2492a70ce37e84ce1ca8c3a599ee3" sha1="d8b4d6695249d570b60fa38f39fed653032b5a7f"/>
+		<rom name="I_Digger_2_Siemens_240x320_ru_demo.jar" size="280783" crc="58bd5bd2" md5="e97f3c09ad64c3ca256acab52f7410f2" sha1="f20f3a432c126a7e20a8ceffb2063ae5775c0dac"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens) (176x220) (Demo)" id="0055" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens) (176x220) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_176x220_ru_demo.jad" size="322" crc="48b919b2" md5="e4b3a8f055dc76adfb73aef2c4444419" sha1="f0f50deee1f83e22ea6cb39fae99f5c757f67c3c"/>
+		<rom name="I_Digger_2_Siemens_176x220_ru_demo.jar" size="211864" crc="42b44501" md5="325180dcbd2cf1c3329e70232eab852b" sha1="18f0745d1cb69d544dc437531e13d1c6f7cc6fd7"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Siemens) (132x176) (Demo)" id="0054" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Siemens) (132x176) (Demo)</description>
+		<rom name="I_Digger_2_Siemens_132x176_ru_demo.jad" size="322" crc="a0ba07e6" md5="599951f99e6c91a9d8bcd5f4feda5258" sha1="c771400882581c71a0dfc320b417d76c591e8f41"/>
+		<rom name="I_Digger_2_Siemens_132x176_ru_demo.jar" size="168785" crc="fee733c7" md5="ecf287b761fdd534927141ec671a0dc5" sha1="42964a52e7b9c366532bd302c6da08a788959c83"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Samsung) (240x320) (Demo)" id="0052" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Samsung) (240x320) (Demo)</description>
+		<rom name="I_Digger_2_Samsung_240x320_ru_demo.jad" size="322" crc="92544a2f" md5="de609bccbdff4acdecde367fcfb8a457" sha1="fedc099afc13e426c0bea5cca42ca0e0d8e8dfbb"/>
+		<rom name="I_Digger_2_Samsung_240x320_ru_demo.jar" size="280790" crc="77fe3247" md5="567a89badb19109ea819111ad43bcdfe" sha1="709dd527367cb3d0d2bde0148a3575e21ac14540"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Samsung) (128x160) (Demo)" id="0050" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Samsung) (128x160) (Demo)</description>
+		<rom name="I_Digger_2_Samsung_128x160_ru_demo.jad" size="322" crc="3d880f8d" md5="4089f90263ac7188aa53a09527684683" sha1="37d9ce73c97bd5c91d8df491eba2ef9154f82651"/>
+		<rom name="I_Digger_2_Samsung_128x160_ru_demo.jar" size="168884" crc="bd2e7cd2" md5="9e51577691f285269835de584620c7e8" sha1="9e3ae9bbbb4fedfc4b0772e0a6bfa56b581f5c95"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Nokia) (240x320) (Demo)" id="0049" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Nokia) (240x320) (Demo)</description>
+		<rom name="I_Digger_2_Nokia_240x320_ru_demo.jad" size="320" crc="135f2c85" md5="a5de1401a8c59ba39d8abc746d8a980e" sha1="45adceeaae2e31b44ea988e789b431e9e9a1248b"/>
+		<rom name="I_Digger_2_Nokia_240x320_ru_demo.jar" size="281979" crc="7ee75363" md5="b3421c62d71453471d91ea4100280313" sha1="37bd6e16a0bb57f1381353e69553d692de26bcfa"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Nokia) (176x208) (Demo)" id="0048" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Nokia) (176x208) (Demo)</description>
+		<rom name="I_Digger_2_Nokia_176x208_ru_demo.jad" size="320" crc="59f5babd" md5="8d8368f0029e34624e25f5592a7df82c" sha1="6afb815ed5adc8712e57e82081adacb01fa9c109"/>
+		<rom name="I_Digger_2_Nokia_176x208_ru_demo.jar" size="213159" crc="88904284" md5="ec400ed90b2f8800fdc30d0738cd3c88" sha1="e194708c8fcab4219bcd10e2af5feab771feec57"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Nokia) (128x160) (Demo)" id="0047" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Nokia) (128x160) (Demo)</description>
+		<rom name="I_Digger_2_Nokia_128x160_ru_demo.jad" size="320" crc="d1a67d29" md5="b0c927175eb275850599ff8086778e3e" sha1="c8e4b433f5c5025f3b85b1a19cae7013e167645d"/>
+		<rom name="I_Digger_2_Nokia_128x160_ru_demo.jar" size="168926" crc="acb7634f" md5="769772a26195db88909e8e15915c0d0a" sha1="0effa1295ce21ae92b0c179bee60d9ea245184cd"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Motorola) (240x320) (Demo)" id="0046" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Motorola) (240x320) (Demo)</description>
+		<rom name="I_Digger_2_Motorola_240x320_ru_demo.jad" size="323" crc="49e9eb61" md5="86d7c4c1f10dbd8c4919728a5f4d2cab" sha1="7841cf595ccb721424f32aef17b9847300c0d9b1"/>
+		<rom name="I_Digger_2_Motorola_240x320_ru_demo.jar" size="280789" crc="20258362" md5="02b8f4f33f80eedf1091113db56ba128" sha1="830531bae1d56e7ce13d1a40eb173fa19de38ce5"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Motorola) (176x204) (Demo)" id="0045" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Motorola) (176x204) (Demo)</description>
+		<rom name="I_Digger_2_Motorola_176x204_ru_demo.jad" size="323" crc="b0487ec7" md5="335e7d8092351c1992bfe05abfd4dbf1" sha1="5a343c5bd705d7e26512023c054cefe9fa6b3c75"/>
+		<rom name="I_Digger_2_Motorola_176x204_ru_demo.jar" size="211580" crc="0bd78520" md5="4a418ea26025dfcff574d8e57d65d96d" sha1="19d0f881f3f68e3704717ab9e5a1e3dde1e947d3"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (Samsung) (176x220) (Demo)" id="0051" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (Samsung) (176x220) (Demo)</description>
+		<rom name="I_Digger_2_Samsung_176x220_ru_demo.jad" size="322" crc="8f11d6f0" md5="6525af6b3357a89bff4901cf207f2c61" sha1="c4d45a6760e0e6b52558d6352eac81cbe78268ee"/>
+		<rom name="I_Digger_2_Samsung_176x220_ru_demo.jar" size="213968" crc="25af0f2e" md5="a87af5d6512228382c73dcd69b8c1a73" sha1="cbd97d12fadb8681e8356cc67664928178d4ff57"/>
+	</game>
+	<game name="I-Digger 2 (Russia) (LG) (176x220) (Demo)" id="0044" cloneofid="0030">
+		<description>I-Digger 2 (Russia) (LG) (176x220) (Demo)</description>
+		<rom name="I_Digger_2_LG_176x220_ru_demo.jad" size="317" crc="35ea9176" md5="ae33d190f41794ef24ec652a8dd9f768" sha1="ef63fca3aed52235ae9a865dd2442dc7980c62b2"/>
+		<rom name="I_Digger_2_LG_176x220_ru_demo.jar" size="213925" crc="11664d13" md5="b76121a0d322b7dbe5975c77e903e8ee" sha1="3b2870ae02dad804c817586e7cf70f28e6365910"/>
+	</game>
+	<game name="I-Diver (Russia) (LG) (128x128) (Demo)" id="0031">
+		<description>I-Diver (Russia) (LG) (128x128) (Demo)</description>
+		<rom name="Id_lg_128x128.jad" size="279" crc="61c33f80" md5="7360c079e2b3b1b57ad5bfba09b43cee" sha1="7373953348d1894d8a7e023e835b29a0a76e0801"/>
+		<rom name="Id_lg_128x128.jar" size="63768" crc="b7ff2ecd" md5="00658d6d5aa257a9cb13b09e95ee341f" sha1="94ee047101309b45b34e09241f6159c8a7f9a097"/>
+	</game>
+	<game name="I-Diver 2 (Russia) (LG) (128x160) (Demo)" id="0032">
+		<description>I-Diver 2 (Russia) (LG) (128x160) (Demo)</description>
+		<rom name="I-Diver-2_LG_128x160.jad" size="306" crc="77222195" md5="dcf1a76024478c65791656ae1547349f" sha1="7e03340d53cfc8e6b3006bff913d5e15fb432f51"/>
+		<rom name="I-Diver-2_LG_128x160.jar" size="123108" crc="42593de1" md5="1a10fa205a996de9c89e0b76d934028d" sha1="3a7de8dc0ad4af92324b884174a7985285d333d8"/>
+	</game>
+	<game name="I-Dragon (Russia) (LG) (128x160) (Demo)" id="0033">
+		<description>I-Dragon (Russia) (LG) (128x160) (Demo)</description>
+		<rom name="I-Dragon_LG_C3400_demo.jad" size="299" crc="794cadaf" md5="8b54256bed6748b635e3fd87ae4cf711" sha1="5806df94f881e5724dcf9de5ad8003113c4a10ef"/>
+		<rom name="I-Dragon_LG_C3400_demo.jar" size="94719" crc="0ca8001f" md5="a555e8a8a43d102f95bc1c444b21bff6" sha1="6f085db0ace5c0497cf775762d97a3629061abcc"/>
+	</game>
+	<game name="I-Fly (Russia) (LG) (128x128) (Demo)" id="0034">
+		<description>I-Fly (Russia) (LG) (128x128) (Demo)</description>
+		<rom name="Air_demo_lg_128x128.jad" size="243" crc="93f62f1f" md5="9e012bf6c555d56e7f40beae5988eb80" sha1="557406d46b066600b23fda2191a2b900fa142baa"/>
+		<rom name="Air_demo_lg_128x128.jar" size="52707" crc="9c47837b" md5="f8a0598a79d2ca653d7be0a41ca84781" sha1="de5381d208ce2d3a9778221b4a9ec4bb5fb65537"/>
+	</game>
+	<game name="I-Hipno (Russia) (LG) (128x128) (Demo)" id="0035">
+		<description>I-Hipno (Russia) (LG) (128x128) (Demo)</description>
+		<rom name="I-hipno_LG_128x128_demo.jad" size="260" crc="02935e1c" md5="a253f3668f7502f4bef6cfbc00bca10c" sha1="e4103907911153a4665f0575b9913b49ee772459"/>
+		<rom name="I-hipno_LG_128x128_demo.jar" size="73894" crc="e7828aca" md5="ba08f8ec761fe1bda9adc64630c53eae" sha1="50241c63cbed9119367c4fc9a49786fdc8e8bcf4"/>
+	</game>
+	<game name="I-Jump (Russia) (LG) (128x128) (Demo)" id="0036">
+		<description>I-Jump (Russia) (LG) (128x128) (Demo)</description>
+		<rom name="i_jump_lg_128x128.jad" size="301" crc="3dfcfdb0" md5="0380cd502f4b136910aa51cc100c88f4" sha1="1ec81a7677553bab630a4b3d6e53c50c8ce79857"/>
+		<rom name="i_jump_lg_128x128.jar" size="80766" crc="f2061e73" md5="240f4f17ee009315e576428870ea039d" sha1="9d90f593ac67b5aadea51f7fef102a141b82e787"/>
+	</game>
+	<game name="I-Volt (Russia) (LG) (128x128) (Demo)" id="0037">
+		<description>I-Volt (Russia) (LG) (128x128) (Demo)</description>
+		<rom name="I_volt_LG_128x128_demo.jad" size="295" crc="5ea95d02" md5="3d15fabf0fce5d6e8a1f04f649fae070" sha1="df3d5dbf125b0ba2429d9271870dc800e70821dd"/>
+		<rom name="I_volt_LG_128x128_demo.jar" size="53339" crc="a8e7649f" md5="26a497b24eb5efaf1787fb8db56ac5e0" sha1="12112a44f6819dfb984f227e5afc0870f4c2fee8"/>
+	</game>
+	<game name="Peggle (Unknown) (En,Fr,De,Es,It) (v4.4.13) (240x320)" id="0042" cloneofid="0041">
+		<description>Peggle (Unknown) (En,Fr,De,Es,It) (v4.4.13) (240x320)</description>
+		<rom name="Peggle (Unknown) (En,Fr,De,Es,It) (v4.4.13) (240x320).jar" size="593666" crc="846518c3" md5="0186c824d0fb892fce7f4a8ee56610b5" sha1="887d53a02dcbb07e47061737a8d9a7fdaf9afea4"/>
+	</game>
+	<game name="Peggle (Unknown) (En,Fr,De,Es,It) (v01.02.50) (240x320)" id="0041">
+		<description>Peggle (Unknown) (En,Fr,De,Es,It) (v01.02.50) (240x320)</description>
+		<rom name="Peggle (Unknown) (En,Fr,De,Es,It) (v01.02.50) (240x320).jar" size="644421" crc="85fbd805" md5="83a9d5fcd2dde4839362ec964098bc2a" sha1="185d3127a1e6e4323f8e5d7641d98aeded9ed77a"/>
+	</game>
+	<game name="Taiko no Tatsujin (Unknown) (Zh) (128x128)" id="0065">
+		<category>Games</category>
+		<description>Taiko no Tatsujin (Unknown) (Zh) (128x128)</description>
+		<rom name="Taiko no Tatsujin (Unknown) (Zh) (128x128).jar" size="220033" crc="227baf31" md5="c5e7cce06f1b2d4203413a2bb0891007" sha1="b2dd18b7e1978957dcd3c34d05cac6e219f71eef" sha256="09d74a6a6a9ec184ca48055c3cf9cc37cb617f890763bce3d9f20fc4cf29c47f"/>
+	</game>
+	<game name="Worms (Unknown) (Fr,De,Es,It,Ru) (v1.3.3) (176x208)" id="0040" cloneofid="0039">
+		<description>Worms (Unknown) (Fr,De,Es,It,Ru) (v1.3.3) (176x208)</description>
+		<rom name="Worms (Unknown) (Fr,De,Es,It,Ru) (v1.3.3) (176x208).jar" size="249653" crc="924fe910" md5="a9a06436a711bcbfbfacf79082bf80b1" sha1="187c5969dab8ef7294a184d17e4ec9471529843d"/>
+	</game>
+	<game name="Worms (Unknown) (En,Fr,De,Es,It) (v1.0.5) (176x208)" id="0039">
+		<description>Worms (Unknown) (En,Fr,De,Es,It) (v1.0.5) (176x208)</description>
+		<rom name="Worms (Unknown) (En,Fr,De,Es,It) (v1.0.5) (176x208).jar" size="239739" crc="55f97cdb" md5="c72e34ec52996b07065994f331105008" sha1="d4b6f2a5598f9d89bae3c1ae11eba223b6fce1de"/>
+	</game>
+	<game name="Worms Forts - Under Siege (Unknown) (En,Fr,De,Es,It) (176x208)" id="0043">
+		<description>Worms Forts - Under Siege (Unknown) (En,Fr,De,Es,It) (176x208)</description>
+		<rom name="Worms Forts - Under Siege (Unknown) (En,Fr,De,Es,It) (176x208).jar" size="267887" crc="2138c5dd" md5="057acd772dd2475ae91380633f7dba23" sha1="7ba53cd177b6b5fa3796aa20a68422ff4e05f807"/>
+	</game>
+	<game name="X-Files, The - The Deserter (World) (240x320)" id="0060">
+		<category>Games</category>
+		<description>X-Files, The - The Deserter (World) (240x320)</description>
+		<rom name="X-Files, The - The Deserter (World) (240x320).jar" size="196436" crc="ba091676" md5="2af0897d904fcc5d56f9f433102328eb" sha1="b513ce86d6889a0492916624f7f3125f12cabf10" sha256="db12927fffc2d51fb27c6a9979340f9f0eb735346561a1f816863ed2f3c1b59e"/>
+	</game>
+</datafile>

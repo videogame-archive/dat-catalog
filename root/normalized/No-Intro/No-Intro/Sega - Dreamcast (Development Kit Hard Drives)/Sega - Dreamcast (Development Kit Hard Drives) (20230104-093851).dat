@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>398</id>
+		<name>Sega - Dreamcast (Development Kit Hard Drives)</name>
+		<description>Sega - Dreamcast (Development Kit Hard Drives)</description>
+		<version>20230104-093851</version>
+		<author>FakeShemp</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Appaloosa Dev Kit (Unknown)" id="0002">
+		<description>Appaloosa Dev Kit (Unknown)</description>
+		<rom name="Appaloosa Dev Kit (Unknown).img" size="4551129088" crc="4c821256" md5="7ae3ec7baa9eae1b2ee69a46285f25ff" sha1="f9fc5b7c9be24016f37633b2dd494e60aab9f870" sha256="aed37ed5508af31b9704af99b6ad5075ed42adccca2b957bfcf031abcd6156b0"/>
+	</game>
+	<game name="Artificial Mind + Movement Era Dev Kit (Unknown)" id="0003">
+		<description>Artificial Mind + Movement Era Dev Kit (Unknown)</description>
+		<rom name="Artificial Mind + Movement Era Dev Kit (Unknown).zip" size="758864534" crc="8b433275" md5="c5cdfdf08df60936e586c441be89cfac" sha1="e3e0b893b6ce613e38e1e872e8ffb57f6510b698"/>
+	</game>
+	<game name="Eurocom Dev Kit (Unknown)" id="0004">
+		<description>Eurocom Dev Kit (Unknown)</description>
+		<rom name="Eurocom Dev Kit (Unknown).img" size="4551129088" crc="0db19619" md5="d63138bb295f25dba6a184d44fd12eb4" sha1="83f2a348f710ad3ed05ee838cb71c378201e3c16"/>
+	</game>
+	<game name="Horny Dog Dev Kit 1 (Unknown)" id="0005">
+		<description>Horny Dog Dev Kit 1 (Unknown)</description>
+		<rom name="Horny Dog Dev Kit 1 (Unknown).rar" size="948028007" crc="6438e5cc" md5="08d345578cedba9815a2f4c57e84ac31" sha1="2163ac488e3f67ac1c7a869fd2076b6ee7477bbc"/>
+	</game>
+	<game name="Horny Dog Dev Kit 2 (Unknown)" id="0006">
+		<description>Horny Dog Dev Kit 2 (Unknown)</description>
+		<rom name="Horny Dog Dev Kit 2 (Unknown).rar" size="201959803" crc="2ac732b4" md5="58041fffecbbc0df842c797c16543008" sha1="f453ba4bd8f6b62f05251c89d5af135ae74cf628"/>
+	</game>
+	<game name="Microsoft Combat Flight Simulator - WWII Europe Series (Unknown)" id="0001">
+		<description>Microsoft Combat Flight Simulator - WWII Europe Series (Unknown)</description>
+		<rom name="Microsoft Combat Flight Simulator - WWII Europe Series (Unknown).img" size="2146418688" crc="821fba42" md5="d27323e76266b94ac0390522a3435a9a" sha1="87da0108a0c78469e8097f52dfec124a7e6261e2" sha256="764b7e79672eea9599823258ad6eed960f1dc78c33bc5eed5329cba9e47aeb9f"/>
+	</game>
+	<game name="NEC Interchannel Dev Kit (Unknown)" id="0012">
+		<description>NEC Interchannel Dev Kit (Unknown)</description>
+		<rom name="NEC Interchannel Dev Kit (Unknown).bin" size="4551129088" crc="eb74d3f3" md5="8cc6b3c50333dcc9b5188a81404c28ce" sha1="fb2385131b95f7ac4bc3e3c1f04370628a438243" sha256="a20881649cfbb4c1f95dd5f927a5586cc5417a4be637074e7e7cb3d2e03e8b5e"/>
+	</game>
+	<game name="No Cliche' Dev Kit (Unknown)" id="0007">
+		<description>No Cliche' Dev Kit (Unknown)</description>
+		<rom name="No Cliche' Dev Kit (Unknown).img" size="1423491072" crc="f885e8bc" md5="d460407e2975d070a061e0463ff638c7" sha1="4639c0412dd853f20b3a2729eee9b70158c1bd0e"/>
+	</game>
+	<game name="Rage Software Dev Kit (Unknown)" id="0008">
+		<description>Rage Software Dev Kit (Unknown)</description>
+		<rom name="Rage Software Dev Kit (Unknown).7z" size="197510181" crc="5431bc2b" md5="87ce4f2a4c850c6674c7036b218a0bf6" sha1="4f478761fa2e87a12e9534a232025030008af37a"/>
+	</game>
+	<game name="Smoking Gun Productions Dev Kit (Unknown)" id="0011">
+		<description>Smoking Gun Productions Dev Kit (Unknown)</description>
+		<rom name="gk.7z" size="60730927" crc="8b6bbe3b" md5="502c91bb65d43d12fe9726f6ba9c1e4a" sha1="4e7075a4e8b6bd01e5e91228da4ce15a4c4777f8"/>
+		<rom name="gk15.7z" size="327790672" crc="7b0aa6bd" md5="b49ab1a1f58a311bdb76533fb968c8cd" sha1="42e419d3318c97f3e4e406751d95e87eb2c805fb"/>
+		<rom name="GKTEST.7z" size="117522637" crc="aba63d2b" md5="71ae5f536f82ae174d0d2837427ef02e" sha1="7585eae27327f75663df84c2b3c57928a230cd29"/>
+		<rom name="soaktest.7z" size="391671" crc="2a0cf2a8" md5="7ac8ba51e68a90030b8febb5e4ca53ab" sha1="17619b2312f6b2a52e3f503256e9f7dc3772984c"/>
+	</game>
+	<game name="Sting + FromSoftware Dev Kit (Unknown)" id="0009">
+		<description>Sting + FromSoftware Dev Kit (Unknown)</description>
+		<rom name="Sting + FromSoftware Dev Kit (Unknown).img" size="4551129088" crc="2a1b1a63" md5="ac7a0b40746036d8a2eaaec2ca7e4a40" sha1="b5c7f627dd6f458076b3c0dc3e39a05301642fe2"/>
+	</game>
+	<game name="Tower of Babel Dev Kit (Unknown)" id="0010">
+		<description>Tower of Babel Dev Kit (Unknown)</description>
+		<rom name="Tower of Babel Dev Kit (Unknown).img" size="4551129088" crc="8488ee3d" md5="211a3f350f96b5855dfb5a56f3a39791" sha1="d826fd91222eb59fce48bd6a1b4d94ba0d48dd25"/>
+	</game>
+</datafile>

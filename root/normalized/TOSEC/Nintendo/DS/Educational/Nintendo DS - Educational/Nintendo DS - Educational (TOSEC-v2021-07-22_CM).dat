@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo DS - Educational</name>
+		<description>Nintendo DS - Educational (TOSEC-v2021-07-22)</description>
+		<category>TOSEC</category>
+		<version>2021-07-22</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Learn Chess (2009)(DreamCatcher)(US)">
+		<description>Learn Chess (2009)(DreamCatcher)(US)</description>
+		<rom name="Learn Chess (2009)(DreamCatcher)(US).nds" size="16777216" crc="0b7710b9" md5="99eddbcdfc27100d7b9b0d88e1f01ba7" sha1="2ee11ed13e47f4383c1468aca260d7b84284f855"/>
+	</game>
+	<game name="Schach &amp; Matt (2009)(Tivola)(DE)">
+		<description>Schach &amp; Matt (2009)(Tivola)(DE)</description>
+		<rom name="Schach &amp; Matt (2009)(Tivola)(DE).nds" size="16777216" crc="9039b413" md5="e8c5404aabc703dfa23707ed91bc7916" sha1="ab38f3a4e2f289f7f90eea8b01937505fe797828"/>
+	</game>
+</datafile>

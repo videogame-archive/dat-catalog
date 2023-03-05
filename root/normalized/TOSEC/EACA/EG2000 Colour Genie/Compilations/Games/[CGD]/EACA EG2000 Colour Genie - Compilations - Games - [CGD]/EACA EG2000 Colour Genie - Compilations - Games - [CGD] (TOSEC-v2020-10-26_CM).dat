@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Compilations - Games - [CGD]</name>
+		<description>EACA EG2000 Colour Genie - Compilations - Games - [CGD] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Disk 1 (19xx)(-)">
+		<description>Disk 1 (19xx)(-)</description>
+		<rom name="Disk 1 (19xx)(-).cgd" size="747856" crc="1d5ec130" md5="ae02b23ab17f0dced89c90fc3bc6fcac" sha1="5423f2426bf2cfd0d16547b0aeb4441ddfff72e5"/>
+	</game>
+	<game name="Games HB&amp;ACP (19xx)(-)">
+		<description>Games HB&amp;ACP (19xx)(-)</description>
+		<rom name="Games HB&amp;ACP (19xx)(-).cgd" size="194640" crc="f68d94f0" md5="ac8344e22417555f3246f995a781a02d" sha1="4ed5556b718c03196b56e88c8212ac8deccface6"/>
+	</game>
+	<game name="Games HB&amp;ACP (19xx)(-)[a]">
+		<description>Games HB&amp;ACP (19xx)(-)[a]</description>
+		<rom name="Games HB&amp;ACP (19xx)(-)[a].cgd" size="194640" crc="2b67b1da" md5="3300e5b42c755f6cd296ad9b0d213e2e" sha1="6966fd324c69bd0148c32380d9fae28b06937751"/>
+	</game>
+	<game name="Games HJB (19xx)(-)">
+		<description>Games HJB (19xx)(-)</description>
+		<rom name="Games HJB (19xx)(-).cgd" size="194640" crc="c6bb631c" md5="fc1e281cab646567010b1503e8cba0c0" sha1="d17b264f10fcad40b715f1cb4f43152daf0b919d"/>
+	</game>
+	<game name="Games HJB (19xx)(-)[a]">
+		<description>Games HJB (19xx)(-)[a]</description>
+		<rom name="Games HJB (19xx)(-)[a].cgd" size="194640" crc="81b9463c" md5="6c3ad89dbfe46f43e0c009a7be543c26" sha1="3956a1724c28e90666b3c76e46421c2a45232c40"/>
+	</game>
+	<game name="Games Other (19xx)(-)">
+		<description>Games Other (19xx)(-)</description>
+		<rom name="Games Other (19xx)(-).cgd" size="194640" crc="d5579c6c" md5="f15a6c8349fd314dd37338f78e7f791f" sha1="7beac1cf2569b1ce9a359b401c3b6e2b53f9613c"/>
+	</game>
+	<game name="Games Other (19xx)(-)[a]">
+		<description>Games Other (19xx)(-)[a]</description>
+		<rom name="Games Other (19xx)(-)[a].cgd" size="194640" crc="b4d31432" md5="6784c930b8e7f599b27bfb38f441159d" sha1="9ca8014b1ac14e40e71b0520a143916493082608"/>
+	</game>
+	<game name="Games TMB (19xx)(-)">
+		<description>Games TMB (19xx)(-)</description>
+		<rom name="Games TMB (19xx)(-).cgd" size="194640" crc="071384b2" md5="6099dd415bf952db01e9f3b30813840e" sha1="65d90cfbe2be68688a6e0651b9411b08049824c7"/>
+	</game>
+	<game name="Games TMB (19xx)(-)[a]">
+		<description>Games TMB (19xx)(-)[a]</description>
+		<rom name="Games TMB (19xx)(-)[a].cgd" size="194640" crc="b1990e76" md5="57042d7dc30dd33d053af34a050dc7a6" sha1="7735b276a4561aab88bed41ff63bf5176cc72385"/>
+	</game>
+</datafile>

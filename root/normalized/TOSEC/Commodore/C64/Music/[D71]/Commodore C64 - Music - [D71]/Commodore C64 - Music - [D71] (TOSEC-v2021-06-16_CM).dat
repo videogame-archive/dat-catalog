@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Music - [D71]</name>
+		<description>Commodore C64 - Music - [D71] (TOSEC-v2021-06-16)</description>
+		<category>TOSEC</category>
+		<version>2021-06-16</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="10 Years HVSC (2006-11-28)(HVSC Crew)">
+		<description>10 Years HVSC (2006-11-28)(HVSC Crew)</description>
+		<rom name="10 Years HVSC (2006-11-28)(HVSC Crew).d71" size="349696" crc="dfaf9092" md5="77417e863f8555c96799abeaece20c66" sha1="253f27d5d9605b428a4968da0fddce545802e48f"/>
+	</game>
+	<game name="10 Years HVSC (2006-11-28)(HVSC Crew)[a]">
+		<description>10 Years HVSC (2006-11-28)(HVSC Crew)[a]</description>
+		<rom name="10 Years HVSC (2006-11-28)(HVSC Crew)[a].d71" size="349696" crc="76891f60" md5="db41cb2f6578d202a38d5539d7546b41" sha1="268cfb9e63aa9bfd517fe72aaa8cc6d28b4d5ac9"/>
+	</game>
+	<game name="69 positions 100% (2006-12-27)(Vulture Design)">
+		<description>69 positions 100% (2006-12-27)(Vulture Design)</description>
+		<rom name="69 positions 100% (2006-12-27)(Vulture Design).d71" size="349696" crc="e1e48cfa" md5="6fd6b1eacdb2d0aca87f3defef946e29" sha1="761a7f9d60a7366f2d730e33215f9796f4aec167"/>
+	</game>
+	<game name="Chicken Mc Digis (19xx)(The Ancient Temple)[h]">
+		<description>Chicken Mc Digis (19xx)(The Ancient Temple)[h]</description>
+		<rom name="Chicken Mc Digis (19xx)(The Ancient Temple)[h].d71" size="351062" crc="25c79b54" md5="5cc2bfcc5174a04490fb2ad3a2a7d4f5" sha1="9f2346720450b87a6688a74325396a5f5b4ddd36"/>
+	</game>
+	<game name="Chicken Mc Digis (19xx)(The Ancient Temple)[h][a]">
+		<description>Chicken Mc Digis (19xx)(The Ancient Temple)[h][a]</description>
+		<rom name="Chicken Mc Digis (19xx)(The Ancient Temple)[h][a].d71" size="349696" crc="04c2b349" md5="6c9d72c074d63c4a6f3bd7f74a551070" sha1="54195b851d5567f1e606dea768c028fb5cc11bf8"/>
+	</game>
+</datafile>

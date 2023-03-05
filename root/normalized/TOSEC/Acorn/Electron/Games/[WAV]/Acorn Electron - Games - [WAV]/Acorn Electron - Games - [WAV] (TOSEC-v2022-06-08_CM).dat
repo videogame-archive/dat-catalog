@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Electron - Games - [WAV]</name>
+		<description>Acorn Electron - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-21)(Inufuto)(JP)">
+		<description>Ascend (2022-04-21)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-04-21)(Inufuto)(JP).wav" size="10404764" crc="bf52ff34" md5="52278eb283bec29736f53694d2697d31" sha1="a2c11c982f38885f85499b193519cfc3c7184634"/>
+	</game>
+	<game name="Mazy (2022-04-20)(Inufuto)(JP)">
+		<description>Mazy (2022-04-20)(Inufuto)(JP)</description>
+		<rom name="Mazy (2022-04-20)(Inufuto)(JP).wav" size="6986204" crc="1db8eb47" md5="4ef70a92eff89b474796029f73f9fc3d" sha1="930f0d5c77968a3325938b691a21b02c997c1443"/>
+	</game>
+	<game name="Ruptus (2022-04-23)(Inufuto)(JP)">
+		<description>Ruptus (2022-04-23)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2022-04-23)(Inufuto)(JP).wav" size="13852124" crc="f57804a1" md5="458fdafe8f6d9038f48beeef038d94c7" sha1="16b5dfa49ea978531a4e6cd0c6975c8c9380166a"/>
+	</game>
+</datafile>

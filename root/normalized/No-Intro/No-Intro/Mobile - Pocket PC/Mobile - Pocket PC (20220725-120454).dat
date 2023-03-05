@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>266</id>
+		<name>Mobile - Pocket PC</name>
+		<description>Mobile - Pocket PC</description>
+		<version>20220725-120454</version>
+		<author>Hiccup, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fun Pocket PC Expansion Pack (USA)" id="0001">
+		<description>Fun Pocket PC Expansion Pack (USA)</description>
+		<rom name="Fun Pocket PC Expansion Pack (USA).bin" size="4063232" crc="b42d36e0" md5="8b4e2ee1383a6e49389c450abe0f1d66" sha1="aef0dd144967e45595fad22efb53c5efe163d0a1"/>
+	</game>
+</datafile>

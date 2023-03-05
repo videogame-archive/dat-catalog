@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64DD - Games - [NDD]</name>
+		<description>Nintendo 64DD - Games - [NDD] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="F-Zero X Expansion Kit (2000)(Nintendo)(JP)[req F-Zero X]">
+		<description>F-Zero X Expansion Kit (2000)(Nintendo)(JP)[req F-Zero X]</description>
+		<rom name="F-Zero X Expansion Kit (2000)(Nintendo)(JP)[req F-Zero X].ndd" size="64931840" crc="78295a68" md5="cb2fb00c3921245ae04bb38ba01abe92" sha1="7e8badf857f1fce8aa59307c0fd318128c44418b"/>
+	</game>
+	<game name="Kyojin no Doshin (1999-12-01)(Nintendo)(JP)">
+		<description>Kyojin no Doshin (1999-12-01)(Nintendo)(JP)</description>
+		<rom name="Kyojin no Doshin (1999-12-01)(Nintendo)(JP).ndd" size="64931840" crc="14acd221" md5="e8eb810d996e12cd6c47445f87a94c72" sha1="3e7eb70138213cc944952c4c659285f729b1fe1a"/>
+	</game>
+	<game name="Kyojin no Doshin (demo) (1999)(Nintendo)(JP)[b][kiosk]">
+		<description>Kyojin no Doshin (demo) (1999)(Nintendo)(JP)[b][kiosk]</description>
+		<rom name="Kyojin no Doshin (demo) (1999)(Nintendo)(JP)[b][kiosk].ndd" size="64931840" crc="b530daab" md5="afe059ae1210751b6c849cfb482c99dd" sha1="2a73aced8fded7a6422fa322d8ff76f6045c687f"/>
+	</game>
+	<game name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (2000)(Nintendo)(JP)[b]">
+		<description>Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (2000)(Nintendo)(JP)[b]</description>
+		<rom name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (2000)(Nintendo)(JP)[b].ndd" size="64931840" crc="70680cc1" md5="fcca9af8c1174c40b478ea0e02673b16" sha1="9412f12cb67acd3534d1bbe511b42738b64f94bf"/>
+	</game>
+	<game name="Nihon Pro Golf Tour 64 (2000-05-02)(Nintendo)(JP)">
+		<description>Nihon Pro Golf Tour 64 (2000-05-02)(Nintendo)(JP)</description>
+		<rom name="Nihon Pro Golf Tour 64 (2000-05-02)(Nintendo)(JP).ndd" size="64931840" crc="9b8fff6d" md5="9f797a9c704b5ebd04d6a2b036309af2" sha1="053140bd97c525804747251dea3211fe55357b77"/>
+	</game>
+	<game name="SimCity 64 (2000-02-23)(Nintendo)(JP)">
+		<description>SimCity 64 (2000-02-23)(Nintendo)(JP)</description>
+		<rom name="SimCity 64 (2000-02-23)(Nintendo)(JP).ndd" size="64931840" crc="163456ca" md5="ebba03f20096fc2bc178fc3a1f4ec2b6" sha1="5d7d5046d702dcc0ea56ce1b96eb90f0c984b51a"/>
+	</game>
+	<game name="Super Mario 64 - Disk Version (19xx)(Nintendo)(JP)(proto)">
+		<description>Super Mario 64 - Disk Version (19xx)(Nintendo)(JP)(proto)</description>
+		<rom name="Super Mario 64 - Disk Version (19xx)(Nintendo)(JP)(proto).ndd" size="64931840" crc="11589525" md5="d9ea905727b44f2774926cb03c2300a7" sha1="e8f5c3f0e151cbc3b02184a2437e39fa9d1e2686"/>
+	</game>
+</datafile>

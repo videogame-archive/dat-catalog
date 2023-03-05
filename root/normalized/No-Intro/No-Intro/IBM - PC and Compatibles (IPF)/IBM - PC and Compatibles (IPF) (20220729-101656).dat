@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>106</id>
+		<name>IBM - PC and Compatibles (IPF)</name>
+		<description>IBM - PC and Compatibles (IPF)</description>
+		<version>20220729-101656</version>
+		<author>FakeShemp, Gefflon, Hiccup, MeguCocoa, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<comment>Software Preservation Society (http://www.softpres.org/games)</comment>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Action Fighter (Europe) (Budget - Kixx) (Amiga + PC)" id="3040">
+		<description>Action Fighter (Europe) (Budget - Kixx) (Amiga + PC)</description>
+		<rom name="Action Fighter (Europe) (Budget - Kixx) (Amiga + PC) (Disk 2 - PC).ipf" size="918252" crc="809bfb3b" md5="67a643a319bef77faeee896daf45c2cb" sha1="a6b2a61b6fd30f671706bf3da37f479bf24fd0d3"/>
+	</game>
+	<game name="Rick Dangerous (Europe) (Budget - Kixx) (Amiga + PC)" id="3042">
+		<description>Rick Dangerous (Europe) (Budget - Kixx) (Amiga + PC)</description>
+		<rom name="Rick Dangerous (Europe) (Budget - Kixx) (Amiga + PC) (Disk 2 - PC).ipf" size="918252" crc="cfdfd024" md5="4d0bdcb816889b89998fd6d9bc641650" sha1="1d572a14b923be34d1e92fefee11da045299b307"/>
+	</game>
+	<game name="Street Fighter (Europe) (Budget - Kixx) (Amiga + PC)" id="3041">
+		<description>Street Fighter (Europe) (Budget - Kixx) (Amiga + PC)</description>
+		<rom name="Street Fighter (Europe) (Budget - Kixx) (Amiga + PC) (Disk 2 - PC).ipf" size="918252" crc="ae97b7e1" md5="7acf66ee72500ce15a435981e8ef4653" sha1="9fc6cebe832e0e19192c428fb93f4ad9a827b2a3"/>
+	</game>
+</datafile>

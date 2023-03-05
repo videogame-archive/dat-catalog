@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Operating Systems - [NIB]</name>
+		<description>Apple II - Operating Systems - [NIB] (TOSEC-v2020-07-12)</description>
+		<category>TOSEC</category>
+		<version>2020-07-12</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Master Diskette v3.2 Plus (1979-06-01)(Apple)[req 13-sector drive]">
+		<description>Master Diskette v3.2 Plus (1979-06-01)(Apple)[req 13-sector drive]</description>
+		<rom name="Master Diskette v3.2 Plus (1979-06-01)(Apple)[req 13-sector drive].nib" size="232960" crc="4cd2e3ec" md5="afe15462b73e5af95bd3d6a863a03509" sha1="67202c6e4c44a4f84d0db0016f9ea799bba846e5"/>
+	</game>
+	<game name="Master Diskette v3.2 Standard (1979-06-01)(Apple)[req 13-sector drive, Integer BASIC]">
+		<description>Master Diskette v3.2 Standard (1979-06-01)(Apple)[req 13-sector drive, Integer BASIC]</description>
+		<rom name="Master Diskette v3.2 Standard (1979-06-01)(Apple)[req 13-sector drive, Integer BASIC].nib" size="232960" crc="03a98baf" md5="082e79bb10fa5dcf07b2e49f689f5439" sha1="3549a3a7d990d5b258f56fdc765258cb2ffb81ff"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio FP-1000 &amp; FP-1100 - Games</name>
+		<description>Casio FP-1000 &amp; FP-1100 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).d88" size="348848" crc="b7df3dcc" md5="64ca36bba606fe5db5d8ba18710aa0f7" sha1="e676647b57d1b24509b7de2f23303c3469cf5089"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).d88" size="348848" crc="6045ca49" md5="6b21ccbc5ee5a65f4528d9b2c68ef2c8" sha1="881948f791981aa7f19499b37e8253ff00baaa1f"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).d88" size="348848" crc="ca52a2c6" md5="37eda83942a72e323326b7c8099f664f" sha1="957e3a9fbc7cca7e2ee0f3151e77e2963005c12f"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Applications - [DSK]</name>
+		<description>Exidy Sorcerer - Applications - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Inc. v2.1 (1978)(Digital Research)">
+		<description>Inc. v2.1 (1978)(Digital Research)</description>
+		<rom name="Inc. v2.1 (1978)(Digital Research).dsk" size="332640" crc="6e4f423c" md5="cc4720fa19f8d35c5e2b9ee3e6189f79" sha1="debe6a5c92a639adb03a19baa41586c5ca6db025"/>
+	</game>
+	<game name="REM Converted to Exidy Basic (19xx)(Pete Turnbull)">
+		<description>REM Converted to Exidy Basic (19xx)(Pete Turnbull)</description>
+		<rom name="REM Converted to Exidy Basic (19xx)(Pete Turnbull).dsk" size="1287" crc="e9291825" md5="650a205f885bbc0c9442d2b842191f99" sha1="6e0ebaefd0c0bfb731a0e28ae085e165a80aa8c8"/>
+	</game>
+</datafile>

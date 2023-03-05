@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Shoot&apos;em Up - [ARK]</name>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [ARK] (TOSEC-v2022-04-24)</description>
+		<category>TOSEC</category>
+		<version>2022-04-24</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Genocide (demo) (1995)(Lightstorm Entertainment)[cr ONS]">
+		<description>Genocide (demo) (1995)(Lightstorm Entertainment)[cr ONS]</description>
+		<rom name="Genocide (demo) (1995)(Lightstorm Entertainment)[cr ONS].ark" size="17272" crc="0bb4ce22" md5="635b14be4e5cd92b948adb0c9ece1582" sha1="166f08438ae47335cb855ae469039aa6eb2a5443"/>
+	</game>
+	<game name="Phobia (1989)(Mirrorsoft)[cr FLT][t FLT]">
+		<description>Phobia (1989)(Mirrorsoft)[cr FLT][t FLT]</description>
+		<rom name="Phobia (1989)(Mirrorsoft)[cr FLT][t FLT].ark" size="92288" crc="02d638bf" md5="4698c906131ba4d6a8d10aaa33f4532d" sha1="a1baa62badc8a251cc8855dd08dfffa963c4bc9a"/>
+	</game>
+</datafile>

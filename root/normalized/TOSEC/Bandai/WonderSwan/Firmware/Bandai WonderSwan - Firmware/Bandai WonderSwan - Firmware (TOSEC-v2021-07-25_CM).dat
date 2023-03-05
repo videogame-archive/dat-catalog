@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai WonderSwan - Firmware</name>
+		<description>Bandai WonderSwan - Firmware (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="WonderSwan Boot ROM (1999)(Bandai)(JP)(en)">
+		<description>WonderSwan Boot ROM (1999)(Bandai)(JP)(en)</description>
+		<rom name="WonderSwan Boot ROM (1999)(Bandai)(JP)(en).bin" size="4096" crc="7f35f890" md5="54b915694731cc22e07d3fb8a00ee2db" sha1="4015bcacea76bb0b5bbdb13c5358f7e1abb986a1"/>
+	</game>
+</datafile>

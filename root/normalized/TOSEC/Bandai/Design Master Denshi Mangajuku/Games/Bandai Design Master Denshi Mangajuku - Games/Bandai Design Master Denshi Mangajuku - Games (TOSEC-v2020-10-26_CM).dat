@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai Design Master Denshi Mangajuku - Games</name>
+		<description>Bandai Design Master Denshi Mangajuku - Games (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bishoujo Senshi Sailor Moon Super S – Illustration Club (1995)(Bandai)(JP)[G.03]">
+		<description>Bishoujo Senshi Sailor Moon Super S – Illustration Club (1995)(Bandai)(JP)[G.03]</description>
+		<rom name="Bishoujo Senshi Sailor Moon Super S – Illustration Club (1995)(Bandai)(JP)[G.03].bin" size="131072" crc="641f20e6" md5="92d3615976b44a56cac5e45447c5c78d" sha1="b9f3a37385eeaf2e66b28ad5bac24a8a9cd46bdd"/>
+	</game>
+	<game name="Dragon Ball Z Taisen-gata Search Battle (1995)(Bandai)(JP)[G.01]">
+		<description>Dragon Ball Z Taisen-gata Search Battle (1995)(Bandai)(JP)[G.01]</description>
+		<rom name="Dragon Ball Z Taisen-gata Search Battle (1995)(Bandai)(JP)[G.01].bin" size="131072" crc="94107404" md5="5fa1c1e30f100e8f9452a077fe40b2ea" sha1="c86d48e9f0262da36ac9bbcffd9cea8e9bb672b7"/>
+	</game>
+	<game name="Dungeon Diver (1995)(Bandai)(JP)[G.02]">
+		<description>Dungeon Diver (1995)(Bandai)(JP)[G.02]</description>
+		<rom name="Dungeon Diver (1995)(Bandai)(JP)[G.02].bin" size="131072" crc="877781b7" md5="a69fdd9314b8b24e837ec2f29f52c378" sha1="3a1ec0bd594b31e9ea4e5b28471ff709c89989f0"/>
+	</game>
+	<game name="Rockman X3 Buster Battle (1995)(Bandai)(JP)[G.04]">
+		<description>Rockman X3 Buster Battle (1995)(Bandai)(JP)[G.04]</description>
+		<rom name="Rockman X3 Buster Battle (1995)(Bandai)(JP)[G.04].bin" size="131072" crc="bbca31a7" md5="ce5906b4f36399270503f1a4c6de6b3a" sha1="5606c8ee6b893cd529499581d8227505a736d14d"/>
+	</game>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Operating Systems - GEOS - [Z64]</name>
+		<description>Commodore C128 - Operating Systems - GEOS - [Z64] (TOSEC-v2020-07-02)</description>
+		<category>TOSEC</category>
+		<version>2020-07-02</version>
+		<author>Duncan Twain - Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="geoCanvas 128 (1993)(-)">
+		<description>geoCanvas 128 (1993)(-)</description>
+		<rom name="1!geoCanvas 128 (1993)(-).z64" size="42871" crc="420a2082" md5="92900e4d53b39e0e44b5de932245d72d" sha1="e60732e0b8a3c4820eaa86df21c85be2a5c449f0"/>
+		<rom name="2!geoCanvas 128 (1993)(-).z64" size="41211" crc="36f5d28c" md5="ef32193af36c1110270f0cedb520af02" sha1="cd89f946873dde7cb1b9ffd8edc1f4caa3ca2f7a"/>
+		<rom name="3!geoCanvas 128 (1993)(-).z64" size="33645" crc="35b0c679" md5="f3986e3390b422d2236e548930d00d68" sha1="37e7bba346fdac7c61f478249489e46840381e45"/>
+		<rom name="4!geoCanvas 128 (1993)(-).z64" size="1402" crc="4aa444c9" md5="59054bde2f6f1a63badc78285627d0e8" sha1="1ec3ac750faa4b7894b17a86125539fe077e8f25"/>
+	</game>
+</datafile>

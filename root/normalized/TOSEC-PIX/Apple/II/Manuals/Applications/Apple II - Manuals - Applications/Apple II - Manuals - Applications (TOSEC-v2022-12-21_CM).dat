@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Manuals - Applications</name>
+		<description>Apple II - Manuals - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple II ProDOS Users Manual (1982)(Apple Computer)">
+		<description>Apple II ProDOS Users Manual (1982)(Apple Computer)</description>
+		<rom name="Apple II ProDOS Users Manual (1982)(Apple Computer).pdf" size="222246561" crc="cc5c4cf5" md5="fffa2f34b054c13ba26234b26786b684" sha1="566c8c44ef06bc85b8f3835da3e354204e792cbf"/>
+	</game>
+	<game name="DOS Programmer's Manual (1982)(Apple Computer)">
+		<description>DOS Programmer's Manual (1982)(Apple Computer)</description>
+		<rom name="DOS Programmer's Manual (1982)(Apple Computer).pdf" size="199270897" crc="f23cace8" md5="8bb911647e9765ec4dbc549eb4729059" sha1="5742c0bd06133125b11641839d0b4da49619bf32"/>
+	</game>
+	<game name="DOS User's Manual for II, II+, IIe (1983)(Apple Computer)">
+		<description>DOS User's Manual for II, II+, IIe (1983)(Apple Computer)</description>
+		<rom name="DOS User's Manual for II, II+, IIe (1983)(Apple Computer).pdf" size="84616157" crc="bb0a5804" md5="318a6c7be6c7483b0011003c937710d2" sha1="c5cb5e1b29d44b508b4a45c1c80a37d19687b937"/>
+	</game>
+	<game name="Imagewriter User's Manual Part 1 - Reference (1984)(Apple Computer)">
+		<description>Imagewriter User's Manual Part 1 - Reference (1984)(Apple Computer)</description>
+		<rom name="Imagewriter User's Manual Part 1 - Reference (1984)(Apple Computer).pdf" size="134135574" crc="9a59869f" md5="f6eaa30ba38060effc4c06af5424b39e" sha1="e9c0d506287f78700a1fc0c7263ecaeb19e6f9f3"/>
+	</game>
+	<game name="Macintosh MacPaint (1983)(Apple Computer)">
+		<description>Macintosh MacPaint (1983)(Apple Computer)</description>
+		<rom name="Macintosh MacPaint (1983)(Apple Computer).pdf" size="29268881" crc="e91468f8" md5="33394784e931d69e49a29be139f39369" sha1="67091dabc47866fae8ffc000ab563b97c91bd5d0"/>
+	</game>
+</datafile>

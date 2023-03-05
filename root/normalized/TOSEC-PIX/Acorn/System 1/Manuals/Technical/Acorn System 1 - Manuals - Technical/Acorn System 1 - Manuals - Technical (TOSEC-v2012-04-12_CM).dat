@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn System 1 - Manuals - Technical</name>
+		<description>Acorn System 1 - Manuals - Technical (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="6502 Microcomputer PCB Circuit Diagram (1979-02-23)(Acorn Computers)">
+		<description>6502 Microcomputer PCB Circuit Diagram (1979-02-23)(Acorn Computers)</description>
+		<rom name="6502 Microcomputer PCB Circuit Diagram (1979-02-23)(Acorn Computers).pdf" size="73854" crc="0d517936" md5="846621120efd8d7cce8e24dc8532f189" sha1="41ef5231104ea4fcf56f8ea3123fefd1e1f9c97a"/>
+	</game>
+	<game name="Keyboard, Display &amp; Cassette Interface PCB (1979-02-26)(Acorn Computers)">
+		<description>Keyboard, Display &amp; Cassette Interface PCB (1979-02-26)(Acorn Computers)</description>
+		<rom name="Keyboard, Display &amp; Cassette Interface PCB (1979-02-26)(Acorn Computers).pdf" size="33256" crc="559218a8" md5="a30016bc53d6a34405ce15176a2a736b" sha1="0e48cbf575b312e7fcc8026585b036e40c09950d"/>
+	</game>
+</datafile>

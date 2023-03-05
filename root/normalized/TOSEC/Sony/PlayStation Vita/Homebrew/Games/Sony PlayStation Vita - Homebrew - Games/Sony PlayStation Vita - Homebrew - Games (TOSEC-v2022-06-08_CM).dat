@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation Vita - Homebrew - Games</name>
+		<description>Sony PlayStation Vita - Homebrew - Games (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="chro.mono 2 (2019-05-06)(thp)">
+		<description>chro.mono 2 (2019-05-06)(thp)</description>
+		<rom name="chro.mono 2 (2019-05-06)(thp).vpk" size="5595880" crc="9a2ad34f" md5="14b4107dfa3a787b8bb873fd383ef92b" sha1="1f13e16ea4f63d906391a47e63d8759d7f080fb3"/>
+	</game>
+	<game name="Dzzee v1.2.0 (2021-10-16)(thp)">
+		<description>Dzzee v1.2.0 (2021-10-16)(thp)</description>
+		<rom name="Dzzee v1.2.0 (2021-10-16)(thp).vpk" size="94239" crc="b3d3ed99" md5="07992c5702a9f866d23ea93360715a80" sha1="67aa70d1ecf04426009a437ede535584e4acee5c"/>
+	</game>
+	<game name="Hermes - Run A La Carte v1.01 (2019)(Retroguru)(FW)">
+		<description>Hermes - Run A La Carte v1.01 (2019)(Retroguru)(FW)</description>
+		<rom name="Hermes - Run A La Carte v1.01 (2019)(Retroguru)(FW).vpk" size="1407707" crc="6f80837d" md5="50a7ec464c2f28e59db4c5a400dd583f" sha1="6378ce765abcca05f825a1be51c8563af677bf5f"/>
+	</game>
+	<game name="Loonies 8192 r66 (2021-07-09)(thp)(M3)">
+		<description>Loonies 8192 r66 (2021-07-09)(thp)(M3)</description>
+		<rom name="Loonies 8192 r66 (2021-07-09)(thp)(M3).vpk" size="12651987" crc="ed7ee066" md5="d6d28317bdc483c9b12a6545da5ac3b7" sha1="795a588c5fb7ece3fbb3525b8d5740f814964d56"/>
+	</game>
+	<game name="OpenLara (2021-03-22)(XProger)(BSD2)">
+		<description>OpenLara (2021-03-22)(XProger)(BSD2)</description>
+		<rom name="OpenLara (2021-03-22)(XProger)(BSD2).vpk" size="673609" crc="f248338e" md5="91da3b5d7df240421c9675ac84f58a21" sha1="6a76d1b00cb0bf599f2a38d4fc7186b5fd89b901"/>
+	</game>
+</datafile>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>400</id>
+		<name>Source Code - Arcade</name>
+		<description>Source Code - Arcade</description>
+		<version>20230201-090434</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Mortal Kombat II (Unknown)" id="0001">
+		<category>Source Code</category>
+		<description>Mortal Kombat II (Unknown)</description>
+		<rom name="mk2.bundle" size="63336227" crc="e4f28716" md5="22e71617050a777ac375925ad4502fca" sha1="b20fa75c69a9e8152cb2ffff30b7db40880f23a7" sha256="bd4df20e4e9693f56781e4558d81874da864116191b8b897d59043dcfa0550c0"/>
+	</game>
+</datafile>

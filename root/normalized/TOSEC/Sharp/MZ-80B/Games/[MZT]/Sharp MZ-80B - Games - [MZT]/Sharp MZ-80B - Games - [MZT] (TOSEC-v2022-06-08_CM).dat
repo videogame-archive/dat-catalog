@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp MZ-80B - Games - [MZT]</name>
+		<description>Sharp MZ-80B - Games - [MZT] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-24)(Inufuto)(JP)">
+		<description>Ascend (2022-03-24)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-24)(Inufuto)(JP).mzt" size="7808" crc="47cfcbe6" md5="272fa561b77cc285f7f32daff3b4b4d1" sha1="e44467602b5a75cf51978fb302767c08d18d79ee"/>
+	</game>
+	<game name="Mazy (2020-08-15)(Inufuto)(JP)">
+		<description>Mazy (2020-08-15)(Inufuto)(JP)</description>
+		<rom name="Mazy (2020-08-15)(Inufuto)(JP).mzt" size="6227" crc="fb89c5a2" md5="8222ccd539b4d61f3f6e7e9dbd379f0c" sha1="17255560c73ca3f6878c010653ebbe7f9fc81a6b"/>
+	</game>
+	<game name="Ruptus (2020-12-12)(Inufuto)(JP)">
+		<description>Ruptus (2020-12-12)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2020-12-12)(Inufuto)(JP).mzt" size="11501" crc="31811770" md5="4a1ad01637f3a83ca2aa0820fc678672" sha1="fdd0c09cf2c4428d65a0eb6cad438693d7e3e772"/>
+	</game>
+</datafile>

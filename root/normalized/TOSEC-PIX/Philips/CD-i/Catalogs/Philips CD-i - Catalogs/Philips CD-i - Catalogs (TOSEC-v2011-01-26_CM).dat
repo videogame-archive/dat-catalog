@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips CD-i - Catalogs</name>
+		<description>Philips CD-i - Catalogs (TOSEC-v2011-01-26)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-26</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CD-i Interactive Brochure (1989)(Phillips)">
+		<description>CD-i Interactive Brochure (1989)(Phillips)</description>
+		<rom name="CD-i Interactive Brochure (1989)(Phillips).pdf" size="422842" crc="20bb0f01" md5="76a7a1c36fe7dba8750e12b2f6d75232" sha1="56c45ee253fd93f43935fe47cbe62c503f8af549"/>
+	</game>
+	<game name="CD-i Interactive Flyer (1991)(Phillips)">
+		<description>CD-i Interactive Flyer (1991)(Phillips)</description>
+		<rom name="CD-i Interactive Flyer (1991)(Phillips).pdf" size="317225" crc="e9bde67a" md5="7cf2e6ea88d08d6e3f0c3ef1f829c610" sha1="d33198b59ace99d4c9eb725b75ecd94a151becf2"/>
+	</game>
+</datafile>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>54</id>
+		<name>Nintendo - Nintendo DSi (Encrypted)</name>
+		<description>Nintendo - Nintendo DSi (Encrypted)</description>
+		<version>20221120-044114</version>
+		<author>aci68, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, relax, SonGoku, xuom2, zg</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Factory Nintendo DSi - NAND (Japan) (Alt)" id="z007">
+		<description>[BIOS] Factory Nintendo DSi - NAND (Japan) (Alt)</description>
+		<rom name="[BIOS] Factory Nintendo DSi - NAND (Japan) (Alt) (no$gba footer).bin" size="64" crc="7139b1d0" md5="d592da9ff8cdabd20c46d1dbcbe39b50" sha1="3cb53ca70e34a602fbb0ea9ae521eb7bfb449a43" sha256="090873f5297103b2aca119498b67b30654fff387569fce780357dda3df1c7d4b"/>
+		<rom name="[BIOS] Factory Nintendo DSi - NAND (Japan) (Alt).bin" size="251658240" crc="f29a40f8" md5="647fa7951c9b6d05b807e111667e9a77" sha1="00c79e39a791d4f9b7933367f17d6da7e908e559" sha256="5065a4ef28a17b8119dac989fb66accbea1a488cff3cd3568742483da8c40e62"/>
+	</game>
+	<game name="[BIOS] Factory Nintendo DSi - NAND (Japan)" id="z008">
+		<description>[BIOS] Factory Nintendo DSi - NAND (Japan)</description>
+		<rom name="[BIOS] Factory Nintendo DSi - NAND (Japan).bin" size="251658240" crc="f6813125" md5="4922243f3f04dd7db04b532298a6c380" sha1="a50c21528f8b74a58c7f0d328006cde971f0e141" sha256="8574cdd0403db31a90baba5450b75230671dd69bf0c762a08f8abfdeb92f5d22"/>
+		<rom name="[BIOS] Factory Nintendo DSi - NAND (Japan) (no$gba footer).bin" size="64" crc="aabc63f3" md5="dd0fe23203e616cfe795956306305d9e" sha1="ce97f940b3896c6147a1d379c30c4ce451caae69" sha256="7c1cb180421383e7bb40866a3acea4b9ccf4db6284b6d049383805ba49ea0620"/>
+	</game>
+	<game name="[BIOS] iQue DSi - NAND (China)" id="z006">
+		<description>[BIOS] iQue DSi - NAND (China)</description>
+		<rom name="[BIOS] iQue DSi - NAND (China).bin" size="251658240" crc="ea149a0f" md5="e219632c9756549cc38d2b2d8ed9a15a" sha1="1a1c20493f1b0cfab8f417e905b154cb810fe37c" sha256="a412b9e780281c47fb76af5cc4681c667ca7bd54a7e314a91c1f134a32a7c8b1"/>
+		<rom name="[BIOS] iQue DSi - NAND (China) (no$gba footer).bin" size="64" crc="4a911b37" md5="b07895541efd8fec8fb1cbb7b66ceb5b" sha1="126b9785014a4864b318b3900b3baa08e723d98f" sha256="053d36d23216bd37ce68f07730779a78fcd4fde5369a1ffa29f0946391c423d1"/>
+	</game>
+	<game name="[BIOS] Kyoushitsu Nintendo DSi - NAND (Japan) (Alt)" id="z009">
+		<description>[BIOS] Kyoushitsu Nintendo DSi - NAND (Japan) (Alt)</description>
+		<rom name="[BIOS] Kyoushitsu Nintendo DSi - NAND (Japan) (Alt).bin" size="251658240" crc="a795ae26" md5="d1740800146251479d915123347399a0" sha1="eb2c29a09689f7edf95cff80f4f8d4e04fc891d4" sha256="0df89bce8b8ee17cc203c7065d0ca03d8289c45021c708bec42fc116c1e2b3e4"/>
+		<rom name="[BIOS] Kyoushitsu Nintendo DSi - NAND (Japan) (Alt) (no$gba footer).bin" size="64" crc="fc666fc4" md5="433a83e360b64dc4332ddef63dcdfd84" sha1="e7dd92fa02fea6ae5118e67445d9aae1a6b67bf4" sha256="2f8881462dad882cb5be1c73ac1dbcac8248ef16feab3febe034d72963af7d5f"/>
+	</game>
+	<game name="[BIOS] Nintendo DSi ARM7 Boot ROM (World)" id="z005">
+		<description>[BIOS] Nintendo DSi ARM7 Boot ROM (World)</description>
+		<rom name="[BIOS] Nintendo DSi ARM7 Boot ROM (World).bin" size="65536" crc="4316cc42" md5="322ceeafb77b0cc96a1fcc6271e0e0ae" sha1="c7c7570bfe51c3c7c5da3b01331b94e7e7cb4f53" sha256="12a03016ba07cfd874fc002df49a2c6eb2414eb7cfa395c2043035ec5e9193e8" status="verified"/>
+	</game>
+	<game name="[BIOS] Nintendo DSi ARM9 Boot ROM (World)" id="z010">
+		<description>[BIOS] Nintendo DSi ARM9 Boot ROM (World)</description>
+		<rom name="[BIOS] Nintendo DSi ARM9 Boot ROM (World).dsi" size="65536" crc="bae84f6c" md5="23031f25602a52c2df32c39554b0c55e" sha1="719b9eef33692406d7170ff526069615759c4dfc" sha256="6e9f70b51dc4f26289b597f14e2513620c2af964374a95f4c5a62b5cad199afc" status="verified" mia="yes"/>
+	</game>
+	<game name="[BIOS] Nintendo Zone Box - NAND (USA) (En,Fr,Es)" id="z003">
+		<description>[BIOS] Nintendo Zone Box - NAND (USA) (En,Fr,Es)</description>
+		<rom name="[BIOS] Nintendo Zone Box - NAND (USA) (En,Fr,Es).bin" size="251658240" crc="7170bee9" md5="d7895f3de9a4a91d466afcc4c2a96e5f" sha1="cfeb1b458d3512ef44dc4458afd846d9c34ebd23" sha256="8942c61a7b7eb1102c33c4f40f525ab9307f605d39695f3a8eecb416b71306f1"/>
+		<rom name="[BIOS] Nintendo Zone Box - NAND (USA) (En,Fr,Es) (no$gba footer).bin" size="64" crc="a5e3084f" md5="abb91db0d42a6418954f28a1194a23b2" sha1="14b95282a71eb6db5d3fe315bab4338907cc5513" sha256="839d6b3fd077cc27dd541cf1337f82e678a151e4794f92e74b91afcc46cb03ae"/>
+	</game>
+	<game name="[BIOS] PWC DSi - NAND (Unknown)" id="z004">
+		<description>[BIOS] PWC DSi - NAND (Unknown)</description>
+		<rom name="[BIOS] PWC DSi - NAND (Unknown).bin" size="251658240" crc="43c1d9c6" md5="dbe17698e7e1c2256aa0a082f0d80aee" sha1="99e289302883c2b1e82b539030d69efab70f4096" sha256="9aeafcd1cefcea3caa329680100c8f68ed430992e5bfebff4f07a621d208e06e"/>
+		<rom name="[BIOS] PWC DSi - NAND (Unknown) (no$gba footer).bin" size="64" crc="d8c6d005" md5="178c4c53743fe0aef7fcfc28d6cbc4ef" sha1="7f13bb05b717a4092f4557fb49deda173d679a5e" sha256="6fe44ea419e9eb0b001424ad9fde42547e558e5677e6659a01753ad1735b64f5"/>
+	</game>
+	<game name="Face Training (Europe) (En,Fr,De,Es,It)" id="0009">
+		<description>Face Training (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Face Training (Europe) (En,Fr,De,Es,It).dsi" size="134217728" crc="a67fc78e" md5="fbadb8ff08d3303c7339928808f2c1a8" sha1="943f64fc047d20657d5fad29eea8ad92815998fb" sha256="f3645211b7aca25b517821e4ac3a5ca0006ef04b8ee2748c49caf282f9abfb7d" status="verified" serial="USKV"/>
+	</game>
+	<game name="Foto Showdown (USA)" id="0005" cloneofid="0001">
+		<description>Foto Showdown (USA)</description>
+		<rom name="Foto Showdown (USA).dsi" size="33554432" crc="7779cbc4" md5="fae7451386da087d2842ac4c62a8838c" sha1="040ae5cb3bad8b661d4d530f6dcd2b0ee39ba534" sha256="adb4e2fed7d9ef816fbc9571306f712b83240857558016cb04c7d1f6cc099592" status="verified" serial="DMFE"/>
+	</game>
+	<game name="Hair Salon (Europe) (En,Fr,De,Es,It)" id="0002">
+		<description>Hair Salon (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Hair Salon (Europe) (En,Fr,De,Es,It).dsi" size="33554432" crc="de72c673" md5="61bee9adf14bf470bda73f33a053ab58" sha1="698b0429028da9668cfb2ee65510783f1d26057c" sha256="e7a2156232f52f723165dab837d3b745d30e4a869fd3856978b7237671dd0707" serial="DHSV"/>
+	</game>
+	<game name="Hidden Photo (Europe) (En,Fr,Es,It)" id="0007">
+		<description>Hidden Photo (Europe) (En,Fr,Es,It)</description>
+		<rom name="Hidden Photo (Europe) (En,Fr,Es,It).dsi" size="33554432" crc="8861d260" md5="e6710cb05626e928ca06d2eb4c16ec31" sha1="0e1f0e49149dcc8bc522c680a4948ca908a76b52" sha256="9cdb3b7bf5eb92c28721b01bb9cbf16ab79d7a703a17e40302e0a8a5f65fc5aa" status="verified" serial="DD3P"/>
+	</game>
+	<game name="Monster Finder (Japan)" id="0001">
+		<description>Monster Finder (Japan)</description>
+		<rom name="Monster Finder (Japan).dsi" size="33554432" crc="65eecb91" md5="1aa0d5a6d9accd263dae7477e00cc9cd" sha1="f4f9a460d848b75c6feb0c2920770668412f1f63" sha256="19a372e5fe6bf10668188de34e1a3406379a01ffb0c572dce192fe868baa5578" status="verified" serial="DMFJ"/>
+	</game>
+	<game name="Nintendo DSi XL Demo Video (USA)" id="0010">
+		<description>Nintendo DSi XL Demo Video (USA)</description>
+		<rom name="Nintendo DSi XL Demo Video (USA).dsi" size="536870912" crc="3479622e" md5="e0b50a9f81262a19cfe5983540e81f2c" sha1="5cd16f5e76cc44dff5cacee94bb40ab7d0ad1391" sha256="7a86a84713fc6df7e71ed78f6c944f97ba0c64f677ff2865ca40dc4c8f1f6162" status="verified" serial="DMEE"/>
+	</game>
+	<game name="Nintendo DSi XL Demo Video Volume 2 (USA)" id="0011">
+		<description>Nintendo DSi XL Demo Video Volume 2 (USA)</description>
+		<rom name="Nintendo DSi XL Demo Video Volume 2 (USA).dsi" size="536870912" crc="5239bd45" md5="fe3b60278c916c60ad7bfb974a55cfa1" sha1="c54f260d7ee28d3c9f80abc2817278021d78bb0c" sha256="40f680b8243d0ce2c46d7e798782bebd757eb0ab441ed88b70ae5dd60b1abded" status="verified" serial="DMDE"/>
+	</game>
+	<game name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)" id="z002">
+		<description>NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="c2b2f5db" md5="82c6fb4bded0eae18f453385697c4aeb" sha1="2c0575c20a2150d3381d843f2babe7c4b6fc10c4" serial="DMPP"/>
+	</game>
+	<game name="Picture Perfect Hair Salon (USA) (En,Fr,Es)" id="0003" cloneofid="0002">
+		<description>Picture Perfect Hair Salon (USA) (En,Fr,Es)</description>
+		<rom name="Picture Perfect Hair Salon (USA) (En,Fr,Es).dsi" size="33554432" crc="77eaca34" md5="54ba5865d961075de68e9d9137948008" sha1="b3a01ffc332fdf8e1bda427c774193dd5dc79a32" sha256="c08283f1c7420ac721646ee8b87e8e99771ca27c1f45e3e5fdac105f6dc0e1b8" serial="DHSE"/>
+	</game>
+	<game name="System - Flaw (USA) (En,Fr,Es)" id="0004" cloneofid="0006">
+		<description>System - Flaw (USA) (En,Fr,Es)</description>
+		<rom name="System - Flaw (USA) (En,Fr,Es).dsi" size="33554432" crc="a7e5e0b8" md5="42b6408a8ad39ba72e373056387e8d73" sha1="1d644465d6547a4a69aa82eabccae6e51e9cff1e" sha256="27a177e768e3d8a909b0bef4cad6caf20de7aaed770418c406b3a3bb2326ce9f" status="verified" serial="DSYE"/>
+	</game>
+	<game name="System - Flaw (Europe) (En,Fr,De,Es,It)" id="0006">
+		<description>System - Flaw (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="System - Flaw (Europe) (En,Fr,De,Es,It).dsi" size="33554432" crc="dca8dacd" md5="474322c0990f604c7a7d89bff93540a1" sha1="b197454303271894c614e0e0d27ce4540fb16be5" sha256="d7d8253cbd32b4237bdc102034840ca05c31635dee344da8c1b1ddfddd156da7" serial="DSYP"/>
+	</game>
+	<game name="WFRUTester (World)" id="z001">
+		<description>WFRUTester (World)</description>
+		<rom name="WFRUTester (World).dsi" size="268435456" crc="eb638291" md5="edab04f62d562ba8421f7eddeade6601" sha1="329a255a946bdcb70bc76077ab6ddad75617519d" sha256="06e42b845323f4729952489090d8d8d1b1582fc64897c66ad1dd0dc417f6dc37" status="verified" serial="NTRJ"/>
+	</game>
+	<game name="Wimmelbild-Creator (Germany)" id="0008" cloneofid="0007">
+		<description>Wimmelbild-Creator (Germany)</description>
+		<rom name="Wimmelbild-Creator (Germany).dsi" size="33554432" crc="60626d2d" md5="849067a365405182fc091d83b1115f92" sha1="993c80537adc6ee0f474aba1788fe711f593b80f" sha256="75f0dbfc3374931dcbc4ca344bf4de1ebf4f9db3528bb3d9d8fd45858b8d0a27" serial="DD3D"/>
+	</game>
+</datafile>

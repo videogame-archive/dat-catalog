@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Sports - [ARC]</name>
+		<description>Commodore C64 - Games - Sports - [ARC] (TOSEC-v2022-01-28)</description>
+		<category>TOSEC</category>
+		<version>2022-01-28</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Surf City (19xx)(Akerberg, Bob)">
+		<description>Surf City (19xx)(Akerberg, Bob)</description>
+		<rom name="Surf City (19xx)(Akerberg, Bob).arc" size="13312" crc="c19d45d1" md5="f030885909f27c44db985704ed753963" sha1="32235c312a9897869a5d53b1102bdbe488864fcf"/>
+	</game>
+	<game name="Surf City (19xx)(Akerberg, Bob)[a]">
+		<description>Surf City (19xx)(Akerberg, Bob)[a]</description>
+		<rom name="Surf City (19xx)(Akerberg, Bob)[a].arc" size="13313" crc="2317908a" md5="7dce117b3fcf1eed0a2680ed4da14202" sha1="47ff87397b0c745395d4651339bd8735605fbabf"/>
+	</game>
+</datafile>

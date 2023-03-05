@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Analogue Pocket - Demos</name>
+		<description>Analogue Pocket - Demos (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="A_KANOID (2021-09-08)(Toxa)(MIT)">
+		<description>A_KANOID (2021-09-08)(Toxa)(MIT)</description>
+		<rom name="A_KANOID (2021-09-08)(Toxa)(MIT).pocket.pocket" size="32768" crc="740015ed" md5="6823c87ee7881ad93e7d59937bdd088e" sha1="983b3ae44380a005ecd26cafb29b06539b3a0fcf"/>
+	</game>
+	<game name="Game Boy Camera Gallery 2022 v1.0 (2022-04-09)(Scratching Post Studio)">
+		<description>Game Boy Camera Gallery 2022 v1.0 (2022-04-09)(Scratching Post Studio)</description>
+		<rom name="Game Boy Camera Gallery 2022 v1.0 (2022-04-09)(Scratching Post Studio).pocket" size="524288" crc="f3962c68" md5="ea29e246742710725b35c1e9310d5506" sha1="a91dd351d4423314aa89fc45ca234f8b81f9fd90"/>
+	</game>
+	<game name="Game Boy Camera Gallery 2022 v1.01 (2022-04-12)(Scratching Post Studio)">
+		<description>Game Boy Camera Gallery 2022 v1.01 (2022-04-12)(Scratching Post Studio)</description>
+		<rom name="Game Boy Camera Gallery 2022 v1.01 (2022-04-12)(Scratching Post Studio).pocket" size="524288" crc="d1ef0456" md5="8714fe96eced25e77f48d19ecc8fe3ca" sha1="728745cea6dd47fa507a51eb66a98de60849cbf5"/>
+	</game>
+	<game name="Game Boy Camera Gallery v0.21 (2022-01-20)(Scratching Post Studio)">
+		<description>Game Boy Camera Gallery v0.21 (2022-01-20)(Scratching Post Studio)</description>
+		<rom name="Game Boy Camera Gallery v0.21 (2022-01-20)(Scratching Post Studio).pocket" size="262144" crc="6858aa85" md5="18a548cbd1ed6500be04c84ffee7da21" sha1="d8bf43a078ed097b962b64a29aabcb905d798c1e"/>
+	</game>
+	<game name="GBPride (2022-06-06)(GB Studio Central)">
+		<description>GBPride (2022-06-06)(GB Studio Central)</description>
+		<rom name="GBPride (2022-06-06)(GB Studio Central).pocket" size="131072" crc="7aba19fa" md5="23f3f23ea09482517e2943f9f0702736" sha1="e16cee8cb68163702eb1194b42b45480b030f902"/>
+	</game>
+	<game name="Hamsters in Space (2022-04-14)(godai)(PL)(en)">
+		<description>Hamsters in Space (2022-04-14)(godai)(PL)(en)</description>
+		<rom name="Hamsters in Space (2022-04-14)(godai)(PL)(en).pocket" size="524288" crc="156c803d" md5="0eb8b4f5294d74a7f82726a333bec2ba" sha1="eb48da72c341f8ab1e32689468095ccb4a68f2e7"/>
+	</game>
+	<game name="Musée Des Pixels (2022-02-18)(Wyattoons)">
+		<description>Musée Des Pixels (2022-02-18)(Wyattoons)</description>
+		<rom name="Musée Des Pixels (2022-02-18)(Wyattoons).pocket" size="131072" crc="d5bca557" md5="b845fb3f795ff133ba234e97d0840176" sha1="64821736f94de5a33caed7837ebffcce6c1f0ae3"/>
+	</game>
+	<game name="Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en)">
+		<description>Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en)</description>
+		<rom name="Star Citizen Game Boy Shipdex (2022-01-28)(Tim Rachor Games)(DE)(en).pocket" size="262144" crc="2f726a18" md5="9c825d1e5b7512057644d69e99d8e8e7" sha1="7460e3a26750a6f0911e6c7e0ec6de51fdc8609c"/>
+	</game>
+</datafile>

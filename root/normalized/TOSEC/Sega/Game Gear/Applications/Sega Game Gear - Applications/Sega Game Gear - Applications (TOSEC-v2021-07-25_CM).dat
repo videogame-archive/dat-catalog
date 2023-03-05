@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Game Gear - Applications</name>
+		<description>Sega Game Gear - Applications (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Gear Button Test (2016-02-02)(szr)(PD)">
+		<description>Game Gear Button Test (2016-02-02)(szr)(PD)</description>
+		<rom name="Game Gear Button Test (2016-02-02)(szr)(PD).bin" size="32768" crc="3412870f" md5="2f0532adc121916c40af2103761078b5" sha1="50c55347447e85ce774b6b523f45caa7ad7b96e0"/>
+	</game>
+	<game name="ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)">
+		<description>ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)</description>
+		<rom name="ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD).bin" size="49152" crc="4e6d2014" md5="98ff604db918a25a0eb682bda8a15376" sha1="9b1ce393c0323ef5c801b8a8d8d1f71db417291b"/>
+	</game>
+	<game name="X-Terminator v2.1 (19xx)(-)(EU)">
+		<description>X-Terminator v2.1 (19xx)(-)(EU)</description>
+		<rom name="X-Terminator v2.1 (19xx)(-)(EU).bin" size="8192" crc="0f448220" md5="9477020282fc817925348cce2823103c" sha1="b6664c21a99a96392fe79237d326e96ac0bdd52a"/>
+	</game>
+	<game name="X-Terminator v2.1 (19xx)(-)(JP)">
+		<description>X-Terminator v2.1 (19xx)(-)(JP)</description>
+		<rom name="X-Terminator v2.1 (19xx)(-)(JP).bin" size="8192" crc="e498090d" md5="6c9633d99174d48ee92794b8bd7b3510" sha1="ee2123cc2addd9e48d3f4dc909334504c5b330ab"/>
+	</game>
+</datafile>

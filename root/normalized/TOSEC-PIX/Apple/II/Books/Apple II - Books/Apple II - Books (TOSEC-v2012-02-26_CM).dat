@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Books</name>
+		<description>Apple II - Books (TOSEC-v2012-02-26)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-02-26</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple Interfacing (1981)(Howard Sams &amp; Co)">
+		<description>Apple Interfacing (1981)(Howard Sams &amp; Co)</description>
+		<rom name="Apple Interfacing (1981)(Howard Sams &amp; Co).pdf" size="38890747" crc="807aaba4" md5="85fa0aec0cbea2d1a6b852b4df5352ee" sha1="9790ca38f69d9a1ea06f43efe2d5fc3433958e04"/>
+	</game>
+	<game name="Hardcore Conputist's Book Of Softkeys - Volume I (1985)(SoftKey Publishing)(US)">
+		<description>Hardcore Conputist's Book Of Softkeys - Volume I (1985)(SoftKey Publishing)(US)</description>
+		<rom name="Hardcore Conputist's Book Of Softkeys - Volume I (1985)(SoftKey Publishing)(US).pdf" size="5180808" crc="9a92e730" md5="f357b2fcb135ed45a0f0b230d2097885" sha1="8b5172ab011c2edc551d69b3300b11bce37224aa"/>
+	</game>
+	<game name="Hardcore Conputist's Book Of Softkeys - Volume II (1986)(SoftKey Publishing)(US)">
+		<description>Hardcore Conputist's Book Of Softkeys - Volume II (1986)(SoftKey Publishing)(US)</description>
+		<rom name="Hardcore Conputist's Book Of Softkeys - Volume II (1986)(SoftKey Publishing)(US).pdf" size="5632789" crc="7972f0d7" md5="18545526c216bf68fff16f3c3c6a7071" sha1="f89e9528e8a3d61d9b422239fc16d1ffe98de1e1"/>
+	</game>
+	<game name="Hardcore Conputist's Book Of Softkeys - Volume III (1987)(SoftKey Publishing)(US)">
+		<description>Hardcore Conputist's Book Of Softkeys - Volume III (1987)(SoftKey Publishing)(US)</description>
+		<rom name="Hardcore Conputist's Book Of Softkeys - Volume III (1987)(SoftKey Publishing)(US).pdf" size="6755724" crc="6d333633" md5="3a3a671e47ee37effa2e6f73a829b8d9" sha1="926537351c7df194163e0d3d6ee1359767de1322"/>
+	</game>
+	<game name="Inside the Apple IIc (1985)(Brady Communications)">
+		<description>Inside the Apple IIc (1985)(Brady Communications)</description>
+		<rom name="Inside the Apple IIc (1985)(Brady Communications).pdf" size="30537229" crc="c555cac4" md5="5f2b8c61ed78e6f628985371c796a11f" sha1="5043a75dbe5a7994c8ef82b136fd8cf696649064"/>
+	</game>
+	<game name="Inside the Apple IIe (1985)(Brady Communications)">
+		<description>Inside the Apple IIe (1985)(Brady Communications)</description>
+		<rom name="Inside the Apple IIe (1985)(Brady Communications).pdf" size="34693621" crc="1dd3a6c5" md5="47c66bd41d16f141c07efc6a509acd90" sha1="10f26508afb14a4d2018dd23966ef6c1fd10e986"/>
+	</game>
+	<game name="Understanding the Apple II (1983)(Quality Software)">
+		<description>Understanding the Apple II (1983)(Quality Software)</description>
+		<rom name="Understanding the Apple II (1983)(Quality Software).pdf" size="84041536" crc="0cf478a3" md5="2c06753a0cd2800a3de0de7e972f055e" sha1="867a876d321b64588f8366ce4f6c81508a3f3dac"/>
+	</game>
+	<game name="Using 6502 Assembly Language (1982)(Datamost)">
+		<description>Using 6502 Assembly Language (1982)(Datamost)</description>
+		<rom name="Using 6502 Assembly Language (1982)(Datamost).pdf" size="19988697" crc="faf4d06a" md5="63f27b7c98a021451df41b33fbdcdfa2" sha1="29cc397f75ea7ab0396a1a29a6d3b4fcf12a5536"/>
+	</game>
+	<game name="What's Where in the Apple (1981)(Micro Ink)">
+		<description>What's Where in the Apple (1981)(Micro Ink)</description>
+		<rom name="What's Where in the Apple (1981)(Micro Ink).pdf" size="47089927" crc="d5ad20dd" md5="b529c4fd2b5458e6dcfb112b5498dcb7" sha1="5c25bceacfc941b7f66f80db82ac13517b446144"/>
+	</game>
+</datafile>

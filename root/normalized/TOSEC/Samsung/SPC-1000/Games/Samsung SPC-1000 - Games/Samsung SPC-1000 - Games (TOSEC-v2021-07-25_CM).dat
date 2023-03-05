@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Samsung SPC-1000 - Games</name>
+		<description>Samsung SPC-1000 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).spc" size="15700" crc="d43b813d" md5="0a6b1c964c127b0526f7b9108b6c0245" sha1="80c3d44d941320ab2fc59da2fc3ddcf5bd5f09f4"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).spc" size="15514" crc="953e63b1" md5="b990c0b493f554df8310fcd3e0f5bd94" sha1="7fa472b4ce1f4e1092e746a09f8461f6b300d291"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).spc" size="16121" crc="a5c3db25" md5="b00f386eabae92b4821ffd4836e5e2fe" sha1="782c93779cbdca869e5ba22b51dd76d2d97e6acd"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai Gundam RX-78 - Games</name>
+		<description>Bandai Gundam RX-78 - Games (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).rom" size="24576" crc="50e5b662" md5="18c4dc33c559922c2a7183c134ef0550" sha1="f0eeb31d76bf5d0d78aafd506a57db2faac04054"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).rom" size="24576" crc="f9436563" md5="717dffd06ee170e5a62c3f7234e4190d" sha1="89001d0f9b076cec9957ee84be4d2c2411f0603c"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).rom" size="24576" crc="e34acece" md5="429a7613ccde7e4b9d6a12a7e4375e7e" sha1="f65b220be188f5b092f0e1472a1501bb9c3b80ea"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny].rom" size="4096" crc="962f39e7" md5="4854a69112f196c5b94a82e2e1b6bac7" sha1="ad532f6d0de7417b84527fa1615804041703be1c"/>
+	</game>
+	<game name="Ruptus (2021-11-13)(Inufuto)(JP)">
+		<description>Ruptus (2021-11-13)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-11-13)(Inufuto)(JP).rom" size="14246" crc="6b903647" md5="d74a0496a7086a17201ce5b4801f391e" sha1="a5d4dbf22bbe55efdd27b8237ad39074bb80b822"/>
+	</game>
+</datafile>

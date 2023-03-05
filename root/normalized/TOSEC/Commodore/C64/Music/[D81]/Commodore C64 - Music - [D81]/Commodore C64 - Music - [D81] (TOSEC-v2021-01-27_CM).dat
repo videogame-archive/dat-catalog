@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Music - [D81]</name>
+		<description>Commodore C64 - Music - [D81] (TOSEC-v2021-01-27)</description>
+		<category>TOSEC</category>
+		<version>2021-01-27</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="10 Years HVSC (2006-11-28)(HVSC Crew)">
+		<description>10 Years HVSC (2006-11-28)(HVSC Crew)</description>
+		<rom name="10 Years HVSC (2006-11-28)(HVSC Crew).d81" size="819200" crc="5a33bcd7" md5="5591a792979ccf0bd60f9e36fd989b46" sha1="96683350c6f0fcb9d99ae092857e8c7b21413fd1"/>
+	</game>
+	<game name="69 positions 100% (2006-12-27)(Vulture Design)">
+		<description>69 positions 100% (2006-12-27)(Vulture Design)</description>
+		<rom name="69 positions 100% (2006-12-27)(Vulture Design).d81" size="819200" crc="eadc64c3" md5="15795183a768170ecddb04bf23b8ce3a" sha1="8132a3d330c7555b9cb14e667b68e0947566f183"/>
+	</game>
+	<game name="Chicken Mc Digis (19xx)(The Ancient Temple)">
+		<description>Chicken Mc Digis (19xx)(The Ancient Temple)</description>
+		<rom name="Chicken Mc Digis (19xx)(The Ancient Temple).d81" size="819200" crc="6e331cbe" md5="c7b391281907dc149286e4d42209e94a" sha1="8bca12132f45230ddc86048eaeaf6b89c953b190"/>
+	</game>
+	<game name="Chicken Mc Digis (19xx)(The Ancient Temple)[h]">
+		<description>Chicken Mc Digis (19xx)(The Ancient Temple)[h]</description>
+		<rom name="Chicken Mc Digis (19xx)(The Ancient Temple)[h].d81" size="819200" crc="d8d49778" md5="8c1e56cbbd91be9d589e12467064328d" sha1="f32447ae86c658422d334e3f70ebdae7e9bd713e"/>
+	</game>
+	<game name="Neotunes (2011-02-25)(TheRyk)">
+		<description>Neotunes (2011-02-25)(TheRyk)</description>
+		<rom name="Neotunes (2011-02-25)(TheRyk).d81" size="819200" crc="06fb2eb8" md5="07e092a0c94d971565c8d22a1d310e30" sha1="e26f07701c598d1e94fdb40f4e910afc70c7953c"/>
+	</game>
+	<game name="Neotunes (2011-02-25)(TheRyk)[NeoRAM version]">
+		<description>Neotunes (2011-02-25)(TheRyk)[NeoRAM version]</description>
+		<rom name="Neotunes (2011-02-25)(TheRyk)[NeoRAM version].d81" size="819200" crc="6374339b" md5="e593340480dfaab46873b0634a793168" sha1="03160156fdf375f3a3f1de55eadde7ff89bc2352"/>
+	</game>
+</datafile>

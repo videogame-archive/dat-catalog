@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple IIGS - Hard Disks - Applications - [PO]</name>
+		<description>Apple IIGS - Hard Disks - Applications - [PO] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="AppleSqueezer GS Core v3 (2022-05-08)(van Suchtelen, Niek)">
+		<description>AppleSqueezer GS Core v3 (2022-05-08)(van Suchtelen, Niek)</description>
+		<rom name="AppleSqueezer GS Core v3 (2022-05-08)(van Suchtelen, Niek).po" size="5242880" crc="175e7ac8" md5="061e3dad8e54c73dfca5ea2c652ebffc" sha1="54a53203413b160e77c5428f5880a7a6fdc0fc71"/>
+	</game>
+	<game name="AppleSqueezer GS Core v4 (2022-06-04)(van Suchtelen, Niek)">
+		<description>AppleSqueezer GS Core v4 (2022-06-04)(van Suchtelen, Niek)</description>
+		<rom name="AppleSqueezer GS Core v4 (2022-06-04)(van Suchtelen, Niek).po" size="5242880" crc="d35413af" md5="028a432718f9d29b1f0e73923bcc55c6" sha1="c512cf1acbc16832fd747866d5b18464a893ce5b"/>
+	</game>
+	<game name="AppleSqueezer GS Core v5 (2022-08-09)(van Suchtelen, Niek)">
+		<description>AppleSqueezer GS Core v5 (2022-08-09)(van Suchtelen, Niek)</description>
+		<rom name="AppleSqueezer GS Core v5 (2022-08-09)(van Suchtelen, Niek).po" size="5242880" crc="fbeec2be" md5="082967c347465029e533c4b927ff466c" sha1="27af855142af6a5afcd6f2cf018f3b0c38bf102d"/>
+	</game>
+	<game name="BenchmarkeD (2013)(Brutal Deluxe)(FR)(en)">
+		<description>BenchmarkeD (2013)(Brutal Deluxe)(FR)(en)</description>
+		<rom name="BenchmarkeD (2013)(Brutal Deluxe)(FR)(en).po" size="33554432" crc="48056e5a" md5="825fa63b263349a598680e6f1d167b1b" sha1="48ce2dc623af4a9a98ef981c373d7d6dae3d341e"/>
+	</game>
+</datafile>

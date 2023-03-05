@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - ZXShed</name>
+		<description>Multi-format - Magazines - ZXShed (TOSEC-v2011-01-07)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-07</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ZXShed Issue 01 (2005)(ZXShed)">
+		<description>ZXShed Issue 01 (2005)(ZXShed)</description>
+		<rom name="ZXShed Issue 01 (2005)(ZXShed).pdf" size="12548585" crc="fedaf560" md5="77d9987827c10253f2d3f89316c22b1b" sha1="5ea42a82a3228e1d2edc5e528416f4c6e9bfb334"/>
+	</game>
+	<game name="ZXShed Issue 02 (2006)(ZXShed)">
+		<description>ZXShed Issue 02 (2006)(ZXShed)</description>
+		<rom name="ZXShed Issue 02 (2006)(ZXShed).pdf" size="10917835" crc="fcc673e8" md5="94b9ffe5ac4a4333d99dfc2b4495e803" sha1="44ac72e6034e04f5c8b4d707e56ab3638affb157"/>
+	</game>
+	<game name="ZXShed Issue 03 (2006)(ZXShed)">
+		<description>ZXShed Issue 03 (2006)(ZXShed)</description>
+		<rom name="ZXShed Issue 03 (2006)(ZXShed).pdf" size="9310785" crc="95b842d8" md5="f2642ef401c76fe4a541f3f8ba0f0998" sha1="e8905590135b981d81220f9db15e8a89f27920bb"/>
+	</game>
+	<game name="ZXShed Reloaded Issue 01 (2009-07)(ZXShed)">
+		<description>ZXShed Reloaded Issue 01 (2009-07)(ZXShed)</description>
+		<rom name="ZXShed Reloaded Issue 01 (2009-07)(ZXShed).pdf" size="5796915" crc="a18b9b89" md5="9f14a69879c919c969fdfaf6954b2478" sha1="d6d1e7cc7f9f0d82696745b8e7a643372b07eeac"/>
+	</game>
+</datafile>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>258</id>
+		<name>Nintendo - Nintendo 3DS (Digital) (Pre-Install)</name>
+		<description>Nintendo - Nintendo 3DS (Digital) (Pre-Install)</description>
+		<version>20220704-084112</version>
+		<author>Hiccup, togemet2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="3D Xiaoguo Xinshang (China)" id="0002">
+		<description>3D Xiaoguo Xinshang (China)</description>
+		<rom name="00000000" size="28782592" crc="8da957f3" md5="5a5a7aaeecf626fd8d5268ff66c41db0" sha1="61ad76c1253f3660795527184bc143293f8f6486"/>
+		<rom name="cetk" size="848" crc="18c2d588" md5="fe901e695618d51f961ac256c5535de6" sha1="a678db806a012fc8a4fb58a95cff3940b51ddbe0"/>
+		<rom name="tmd" size="2868" crc="c0de1fc6" md5="b3c49dfbf7abead1393b65aea2d3e33e" sha1="55de262bba5bfe2d0668487b409621413bcf50c7"/>
+	</game>
+	<game name="CTRAging (Japan) (Test Program) [b]" id="0003">
+		<description>CTRAging (Japan) (Test Program) [b]</description>
+		<rom name="00000000" size="14155264" crc="7d4fae51" md5="15a7cf156c9e8e46b56da34c1f14251c" sha1="9769f126f03c0ab998c33c66464e4188b6e4e6e3" sha256="5dd5af2303651fb6159e239505fb9766bcac01e1a75c2d922396aaa25c392df0" status="baddump"/>
+	</game>
+	<game name="Mario Kart 7 (China)" id="0004">
+		<description>Mario Kart 7 (China)</description>
+		<rom name="00000001" size="389120" crc="c0cfa803" md5="ccab785ec7e624b8bed6b9159248fdee" sha1="6c2c385ba29c6c626d5a0a03b639df17eb9c08b5"/>
+		<rom name="00000003" size="639447040" crc="d180c122" md5="9452a1ae4117255c19dccf85ed187aa4" sha1="4179cfd5229ee75321de140658e637203977a224"/>
+		<rom name="00000004" size="26681344" crc="b86527ec" md5="22bb168bb3981bfdee9a40e53536b891" sha1="b50662e01c2a5eae2fd8555ecc42ddd0f9588207"/>
+		<rom name="tmd.2064" size="2964" crc="19aed483" md5="b7ed0359db7971cebb33624014634af9" sha1="b2f45f339296b0bb8b4932ef1fc235c5cec437df"/>
+		<rom name="cetk" size="848" crc="805b63b5" md5="60ddacc67233877ae655d1fff906253d" sha1="48ba7377b5a83f0fc9978b81da9339525e9780b1"/>
+	</game>
+	<game name="Super Mario 3D Land (China)" id="0005">
+		<description>Super Mario 3D Land (China)</description>
+		<rom name="00000001" size="647168" crc="423e0f5c" md5="750093429d1e32df5d521aa2caa4ccd7" sha1="e49ca6b9ed4e917b57c15c6ea94433472c7cdab4"/>
+		<rom name="00000002" size="302911488" crc="e7e65eba" md5="a0914bbed415237542c7e2657be64c31" sha1="5a1ce3d2a3ddde0025f20a617990349d0fb89ecc"/>
+		<rom name="cetk" size="848" crc="ca1a5d6d" md5="035eff02fa39cc43702922ea576ad984" sha1="30d59c352e722c68cb49b53d989e153640b9fa92"/>
+		<rom name="tmd.16" size="2916" crc="8592e20d" md5="92d5bda7856fdf9e096a4d4118096512" sha1="fcfb51d22aec2262b93dd747157113b84f23a0d2"/>
+	</game>
+</datafile>

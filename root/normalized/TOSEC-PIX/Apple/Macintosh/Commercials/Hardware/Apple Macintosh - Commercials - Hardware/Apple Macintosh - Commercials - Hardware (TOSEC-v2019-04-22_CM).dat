@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Commercials - Hardware</name>
+		<description>Apple Macintosh - Commercials - Hardware (TOSEC-v2019-04-22)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-22</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+
+	<game name="1984 (1984)(Apple)">
+		<description>1984 (1984)(Apple)</description>
+		<rom name="1984 (1984)(Apple).mov" size="13746412" crc="e39acbb5" md5="0e60c24c5394d3f4c0abbeea713ce20c" sha1="4bf461d46c2aac80c360811cc107b42539e5a42c"/>
+	</game>
+	<game name="1984 (1984)(Apple)[a]">
+		<description>1984 (1984)(Apple)[a]</description>
+		<rom name="1984 (1984)(Apple)[a].mp4" size="3729948" crc="f1ba4fc1" md5="1434cf4ead2a67dc8441a7eff8efb590" sha1="3f8a01002b935b4e19cb076bc94db3db5e74aabe"/>
+	</game>
+	<game name="Apple Macintosh (1986)(Apple)">
+		<description>Apple Macintosh (1986)(Apple)</description>
+		<rom name="Apple Macintosh (1986)(Apple).mp4" size="3395363" crc="29a7f2c7" md5="e32ed536566b7559a5111f0939303d4d" sha1="21e8aed26a52270016e5e89b52a980368848cf14"/>
+	</game>
+	<game name="Bad Apple (1996)(Apple)">
+		<description>Bad Apple (1996)(Apple)</description>
+		<rom name="Bad Apple (1996)(Apple).mp4" size="35315549" crc="3e9cef4d" md5="e49bc3e4dd64eec2f1213a5850601beb" sha1="65b62a871b1593c870241a200d94cdcf748598be"/>
+	</game>
+	<game name="Bad Apple (1996)(Apple)[a]">
+		<description>Bad Apple (1996)(Apple)[a]</description>
+		<rom name="Bad Apple (1996)(Apple)[a].mp4" size="35315549" crc="3e9cef4d" md5="e49bc3e4dd64eec2f1213a5850601beb" sha1="65b62a871b1593c870241a200d94cdcf748598be"/>
+	</game>
+	<game name="Macintosh Intro (1984)(Apple)">
+		<description>Macintosh Intro (1984)(Apple)</description>
+		<rom name="Macintosh Intro (1984)(Apple).mp4" size="29987862" crc="4ced5ad7" md5="805d15d123ac827e9db04e169514bef7" sha1="a6612e3250264f7e8fe5af997109c3cf5d5ab727"/>
+	</game>
+	<game name="New Snail (198x)(Apple)">
+		<description>New Snail (198x)(Apple)</description>
+		<rom name="New Snail (198x)(Apple).mp4" size="1238744" crc="9386738d" md5="29b8893e3ce3fc831596cb44650ac07f" sha1="0618be0f3d5117b6213a3e169f6248f63d9b45b6"/>
+	</game>
+	<game name="Power Macintosh (1994)(Apple)">
+		<description>Power Macintosh (1994)(Apple)</description>
+		<rom name="Power Macintosh (1994)(Apple).mp4" size="2737951" crc="b20d1367" md5="d3e5c9daffead9f9dd28775d1a200a35" sha1="10f6e6ae5c8f5af0e044be218489c0415fc631ce"/>
+	</game>
+</datafile>

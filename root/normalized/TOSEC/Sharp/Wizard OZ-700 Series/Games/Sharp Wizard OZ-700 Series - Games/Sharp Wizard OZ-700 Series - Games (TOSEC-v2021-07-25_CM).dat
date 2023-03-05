@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp Wizard OZ-700 Series - Games</name>
+		<description>Sharp Wizard OZ-700 Series - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered].wzd" size="7348" crc="c1ea108f" md5="0d63431c1772d01f18108b168698559d" sha1="1543071e6cf8bc9744d538a8a33ab521df3237f6"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered].wzd" size="7302" crc="e6e20a21" md5="792069212bd1eb98720d0d6f39b47aee" sha1="490d0b56de0161e4d6d01c9fe5b6cb73abe93e59"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny][buffered].wzd" size="6861" crc="cd4298d6" md5="04d912bc5ad26922b2ebf44219ee8af7" sha1="a8ca168bfec36097c8e59da9e9c627e18eed167a"/>
+	</game>
+</datafile>

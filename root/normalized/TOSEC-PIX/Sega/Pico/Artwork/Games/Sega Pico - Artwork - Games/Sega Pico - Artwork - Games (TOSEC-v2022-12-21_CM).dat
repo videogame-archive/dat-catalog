@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Pico - Artwork - Games</name>
+		<description>Sega Pico - Artwork - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Les Aventures du Roi Lion (1995)(Sega)(FR)[box]">
+		<description>Les Aventures du Roi Lion (1995)(Sega)(FR)[box]</description>
+		<rom name="Les Aventures du Roi Lion (1995)(Sega)(FR)[box].pdf" size="1443648" crc="cf975845" md5="29a3a309e0ae23460db8442aad8b6448" sha1="4a4be77b96299a42b9ff880f0d8409da9ea09179"/>
+	</game>
+	<game name="Les Aventures du Roi Lion (1995)(Sega)(FR)[cartridge]">
+		<description>Les Aventures du Roi Lion (1995)(Sega)(FR)[cartridge]</description>
+		<rom name="Les Aventures du Roi Lion (1995)(Sega)(FR)[cartridge].pdf" size="1060551" crc="05dee7af" md5="4c5ccb8413012d6d2e6d295be4f52d8c" sha1="afcf98744f2fc199527e56a697e0d76ac2a43571"/>
+	</game>
+</datafile>

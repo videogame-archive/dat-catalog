@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sanyo PHC-25 - Games</name>
+		<description>Sanyo PHC-25 - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Casse-Briques (19xx)(Sanyo)(FR)(Side A)">
+		<description>Casse-Briques (19xx)(Sanyo)(FR)(Side A)</description>
+		<rom name="Casse-Briques (19xx)(Sanyo)(FR)(Side A).wav" size="23134252" crc="85c984f6" md5="0688c41113d40d811445855896f6276f" sha1="9583c21f808c93f30e7f91711df08eb586aafa7b"/>
+	</game>
+	<game name="Casse-Briques (19xx)(Sanyo)(FR)(Side B)">
+		<description>Casse-Briques (19xx)(Sanyo)(FR)(Side B)</description>
+		<rom name="Casse-Briques (19xx)(Sanyo)(FR)(Side B).wav" size="24289324" crc="0be42122" md5="f7b7f29ec49b8ca2ed0d5c1282818db3" sha1="d18062829a3f88f2033ef442a885f82b75caed32"/>
+	</game>
+	<game name="Othello (19xx)(Sanyo)(FR)(Side A)">
+		<description>Othello (19xx)(Sanyo)(FR)(Side A)</description>
+		<rom name="Othello (19xx)(Sanyo)(FR)(Side A).wav" size="23054380" crc="9a502616" md5="f1d6ff1dc2106c7d2f7f8e50ca621895" sha1="e637000e08fa736cfbb2ef9e1a04242332b5adc7"/>
+	</game>
+	<game name="Othello (19xx)(Sanyo)(FR)(Side B)">
+		<description>Othello (19xx)(Sanyo)(FR)(Side B)</description>
+		<rom name="Othello (19xx)(Sanyo)(FR)(Side B).wav" size="24117292" crc="d5698c55" md5="249790f680f73938cfea00715a9926b0" sha1="b069483f046acb7c189e0feb9cab560089578aea"/>
+	</game>
+</datafile>

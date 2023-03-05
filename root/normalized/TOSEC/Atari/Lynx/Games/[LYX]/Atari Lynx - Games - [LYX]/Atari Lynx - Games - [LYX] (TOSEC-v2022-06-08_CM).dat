@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Games - [LYX]</name>
+		<description>Atari Lynx - Games - [LYX] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Banana Ghost v0.1 (2021-12-11)(Bjorn)">
+		<description>Banana Ghost v0.1 (2021-12-11)(Bjorn)</description>
+		<rom name="Banana Ghost v0.1 (2021-12-11)(Bjorn).lyx" size="23005" crc="5a68c843" md5="68908579f059e470dd233d6e586ef2e4" sha1="548a008b096efa113d5231e079667398f0436f8c"/>
+	</game>
+	<game name="Banana Ghost v0.2 (2021-12-20)(Bjorn)">
+		<description>Banana Ghost v0.2 (2021-12-20)(Bjorn)</description>
+		<rom name="Banana Ghost v0.2 (2021-12-20)(Bjorn).lyx" size="23276" crc="5a14610a" md5="311f1e56ccea9bb42e6c588c2e642daa" sha1="dd8a43239ec86f4c2700f05c88a2e7ce450bd73d"/>
+	</game>
+	<game name="Black Pit (2021-12-12)(Fadest)">
+		<description>Black Pit (2021-12-12)(Fadest)</description>
+		<rom name="Black Pit (2021-12-12)(Fadest).lyx" size="35668" crc="b64d3c0f" md5="42eb872bc3725ca7727327da2ad08d9e" sha1="3221891988a0e859a1ee094aad734d64351f4729"/>
+	</game>
+	<game name="Black Pit (2021-12-12)(Fadest)[AGACART]">
+		<description>Black Pit (2021-12-12)(Fadest)[AGACART]</description>
+		<rom name="Black Pit (2021-12-12)(Fadest)[AGACART].lyx" size="262144" crc="029dc551" md5="9ffb453d3d4f9745b6a3893215b5dd5f" sha1="f1b4748ddffff2288ce7cda8344d235e147dbaeb"/>
+	</game>
+	<game name="Fishing for Atari (2019-12-12)(LudoScience)(FW)">
+		<description>Fishing for Atari (2019-12-12)(LudoScience)(FW)</description>
+		<rom name="Fishing for Atari (2019-12-12)(LudoScience)(FW).lyx" size="262144" crc="b4cfb77e" md5="a23298d69ebf4227e9e75c3fd4285c40" sha1="02b710dd5243f3e1059c1e63a155b2af1b41898d"/>
+	</game>
+	<game name="Gift Catcher (2020-12-13)(Dr. Ludos)(FW)">
+		<description>Gift Catcher (2020-12-13)(Dr. Ludos)(FW)</description>
+		<rom name="Gift Catcher (2020-12-13)(Dr. Ludos)(FW).lyx" size="262144" crc="e6bcc6e7" md5="1cbba6db7ea3b3ee8d218b20809b5500" sha1="8bb70fb4f2c3d1e6bcdf35d8051112a62dbeec64"/>
+	</game>
+	<game name="Growing Ties (2019-09-05)(Dr. Ludos)(FW)">
+		<description>Growing Ties (2019-09-05)(Dr. Ludos)(FW)</description>
+		<rom name="Growing Ties (2019-09-05)(Dr. Ludos)(FW).lyx" size="262144" crc="65581b0e" md5="810c1724c04f020b94ac2038bdcab642" sha1="fa1ea9cb9d1d6f89455d0347249cc8e44805a53a"/>
+	</game>
+	<game name="Leaf and the Forgotten Temple - Ynxa Version (2020-04-03)(Fadest)[AGACART]">
+		<description>Leaf and the Forgotten Temple - Ynxa Version (2020-04-03)(Fadest)[AGACART]</description>
+		<rom name="Leaf and the Forgotten Temple - Ynxa Version (2020-04-03)(Fadest)[AGACART].lyx" size="262144" crc="dc8713ee" md5="562cacee10ee81c4aa0c3e1746f6e984" sha1="338bf03bfbf40aafd30df9b024879d66b46d6ae1"/>
+	</game>
+	<game name="Leaf and the Forgotten Temple - Ynxa Version (2020-04-03)(Fadest)[FLASH]">
+		<description>Leaf and the Forgotten Temple - Ynxa Version (2020-04-03)(Fadest)[FLASH]</description>
+		<rom name="Leaf and the Forgotten Temple - Ynxa Version (2020-04-03)(Fadest)[FLASH].lyx" size="182302" crc="8b69dc42" md5="dbf3ea102c974edbb41fea929aa6f277" sha1="397c245cae4a0ccb9407fb45ca3cd17dfd4462fe"/>
+	</game>
+	<game name="Timeloop (2020-08-12)(Dr. Ludos)(FW)">
+		<description>Timeloop (2020-08-12)(Dr. Ludos)(FW)</description>
+		<rom name="Timeloop (2020-08-12)(Dr. Ludos)(FW).lyx" size="262144" crc="b8443cf3" md5="cfc2f7811a6682a4272791c2524e450b" sha1="558b370f46f63f1c31cc3f7631a70823a5a95035"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Demos - [AIF]</name>
+		<description>Apple II - Demos - [AIF] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hi Res Demo - Colour Demo (19xx)(ITT)(EU)(Side 1)(Hi Res Demo)[37-132-14]">
+		<description>Hi Res Demo - Colour Demo (19xx)(ITT)(EU)(Side 1)(Hi Res Demo)[37-132-14]</description>
+		<rom name="Hi Res Demo - Colour Demo (19xx)(ITT)(EU)(Side 1)(Hi Res Demo)[37-132-14].aif" size="7904310" crc="45e738f2" md5="4e1dcf9b54b4a3328baff124a60d3cf9" sha1="18e5b1a18b0dbcc4291066c1e280e1dbfed95aed"/>
+	</game>
+	<game name="Hi Res Demo - Colour Demo (19xx)(ITT)(EU)(Side 2)(Colour Demo)[37-132-14]">
+		<description>Hi Res Demo - Colour Demo (19xx)(ITT)(EU)(Side 2)(Colour Demo)[37-132-14]</description>
+		<rom name="Hi Res Demo - Colour Demo (19xx)(ITT)(EU)(Side 2)(Colour Demo)[37-132-14].aif" size="7825462" crc="b3e5ab8e" md5="ff757e3a90754b7917198299179aa7a0" sha1="52ab1bd1ba129139124daea315bd1c155554ae6e"/>
+	</game>
+</datafile>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Simulation - [DFI]</name>
+		<description>Commodore C64 - Games - Simulation - [DFI] (TOSEC-v2022-06-06)</description>
+		<category>TOSEC</category>
+		<version>2022-06-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Ace of Aces (1986)(Accolade)">
+		<description>Ace of Aces (1986)(Accolade)</description>
+		<rom name="Ace of Aces (1986)(Accolade).dfi" size="131072" crc="246367d3" md5="19a26438b81574d7bd2d0c8c05090024" sha1="0f86d61a083016da41215b381edc9d6633e87b0b"/>
+	</game>
+	<game name="Ace of Aces (1986)(Accolade)[a]">
+		<description>Ace of Aces (1986)(Accolade)[a]</description>
+		<rom name="Ace of Aces (1986)(Accolade)[a].dfi" size="131072" crc="f998b658" md5="f9578e97493bc46473d1954cfe856e57" sha1="e2c41c95446cfb5045e889a7f44d82f96392e4ae"/>
+	</game>
+	<game name="Ace of Aces (1986)(Accolade)[a2]">
+		<description>Ace of Aces (1986)(Accolade)[a2]</description>
+		<rom name="Ace of Aces (1986)(Accolade)[a2].dfi" size="131072" crc="b13b54b9" md5="2779bd5a9d89c010bf261bc7bd54e6d9" sha1="d7d7bf220511e02d4e9e18658900e39ffaf7f27f"/>
+	</game>
+	<game name="Apollo 18 - Mission to the Moon (1987)(Accolade)">
+		<description>Apollo 18 - Mission to the Moon (1987)(Accolade)</description>
+		<rom name="Apollo 18 - Mission to the Moon (1987)(Accolade).dfi" size="327680" crc="a9d49eae" md5="7764e6e45059737eebeb2102d640bae3" sha1="ad5c7c73dd80888f744b876dc50db111984fa8d1"/>
+	</game>
+	<game name="Apollo 18 - Mission to the Moon (1987)(Accolade)[a]">
+		<description>Apollo 18 - Mission to the Moon (1987)(Accolade)[a]</description>
+		<rom name="Apollo 18 - Mission to the Moon (1987)(Accolade)[a].dfi" size="327680" crc="3b575221" md5="dc729d17dfd4b319c9c16f744ab0ae40" sha1="b5d160524f2dd601ca2f8f3360997d855687cc85"/>
+	</game>
+	<game name="Apollo 18 - Mission to the Moon (1987)(Accolade)[a2]">
+		<description>Apollo 18 - Mission to the Moon (1987)(Accolade)[a2]</description>
+		<rom name="Apollo 18 - Mission to the Moon (1987)(Accolade)[a2].dfi" size="327680" crc="9951a23c" md5="a7c0d1bf5547d1edf04df3641295d574" sha1="aef0bb3591ef58ec44cdf79c2f3ffb78516a1a88"/>
+	</game>
+	<game name="Arcticfox (1986)(Electronic Arts)[cr N0]">
+		<description>Arcticfox (1986)(Electronic Arts)[cr N0]</description>
+		<rom name="Arcticfox (1986)(Electronic Arts)[cr N0].dfi" size="131072" crc="4a9490b0" md5="04d0c3f7e6ee414a1362ab054a631890" sha1="dc932ef2e95aa4bfa3cf59aa1f1038f7763488a6"/>
+	</game>
+	<game name="Arcticfox (1986)(Electronic Arts)[cr N0][a]">
+		<description>Arcticfox (1986)(Electronic Arts)[cr N0][a]</description>
+		<rom name="Arcticfox (1986)(Electronic Arts)[cr N0][a].dfi" size="131072" crc="5a3269d7" md5="968288e4cb21d3d68fe1d3846ba5f84d" sha1="8f20f00e580321a8033cae018ce9a49fe373a76a"/>
+	</game>
+	<game name="Arcticfox (1986)(Electronic Arts)[cr N0][t +8 N0]">
+		<description>Arcticfox (1986)(Electronic Arts)[cr N0][t +8 N0]</description>
+		<rom name="Arcticfox (1986)(Electronic Arts)[cr N0][t +8 N0].dfi" size="131072" crc="7427662f" md5="ab5b5bb16f283274edfc983fa7749372" sha1="5aeaf623dd445f9029cee168e80b0009ccd0075a"/>
+	</game>
+	<game name="Kennedy Approach (1985)(MicroProse)">
+		<description>Kennedy Approach (1985)(MicroProse)</description>
+		<rom name="Kennedy Approach (1985)(MicroProse).dfi" size="131072" crc="ae166855" md5="fd5bb5f1cc213d2bb40e382dfa10cc4d" sha1="0cb1c225afbc897ec99fff0734da9e3fb15d4c0f"/>
+	</game>
+</datafile>

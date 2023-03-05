@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox One - Commercials - Hardware</name>
+		<description>Microsoft Xbox One - Commercials - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Xbox One Coming to China (2014)(Microsoft)(US)">
+		<description>Xbox One Coming to China (2014)(Microsoft)(US)</description>
+		<rom name="Xbox One Coming to China (2014)(Microsoft)(US).mp4" size="50845680" crc="50cfd83c" md5="a806938b5e9dbac9bc7eb22af96a1fc6" sha1="be1d31d5d1a3797b510365ca1890aa0ec39b615c"/>
+	</game>
+	<game name="Xbox One Media Remote (2014)(Microsoft)(US)">
+		<description>Xbox One Media Remote (2014)(Microsoft)(US)</description>
+		<rom name="Xbox One Media Remote (2014)(Microsoft)(US).mp4" size="5694289" crc="670d642d" md5="a40c923b3cfe8f8aa913742c9f50f372" sha1="77cf9fb8f6c3d982289209c65976768e64d9534b"/>
+	</game>
+	<game name="Xbox One Stereo Headset (2014)(Microsoft)(US)">
+		<description>Xbox One Stereo Headset (2014)(Microsoft)(US)</description>
+		<rom name="Xbox One Stereo Headset (2014)(Microsoft)(US).mp4" size="5441818" crc="a38e9822" md5="fc9241bd6938759aa9fcd1438ebf3a8a" sha1="8438f9478a8802ca088e9ad0db86748bb5d67f74"/>
+	</game>
+	<game name="Xbox One Stereo Headset Adapter (2014)(Microsoft)(US)">
+		<description>Xbox One Stereo Headset Adapter (2014)(Microsoft)(US)</description>
+		<rom name="Xbox One Stereo Headset Adapter (2014)(Microsoft)(US).mp4" size="4052698" crc="64622e36" md5="7397eab5ba4cc161a73e16b4124a206c" sha1="02d427486ef54e0d4008ff9bfed93c60713ab179"/>
+	</game>
+</datafile>

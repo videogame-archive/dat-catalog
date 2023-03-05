@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Comics - Load Runner</name>
+		<description>Multi-format - Comics - Load Runner (TOSEC-v2017-07-28)</description>
+		<category>TOSEC-PIX</category>
+		<version>2017-07-28</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Load Runner - Printout No 01 (1983-06-23)(ECC Publications)(GB)">
+		<description>Load Runner - Printout No 01 (1983-06-23)(ECC Publications)(GB)</description>
+		<rom name="Load Runner - Printout No 01 (1983-06-23)(ECC Publications)(GB).pdf" size="9239519" crc="ac5f5e24" md5="cfdef8e10ea5c0288545781955ce1e8e" sha1="cf9e4f7be0f43d0b2352bcf2f6b65ab5296b2be1"/>
+	</game>
+	<game name="Load Runner - Printout No 02 (1983-07-07)(ECC Publications)(GB)">
+		<description>Load Runner - Printout No 02 (1983-07-07)(ECC Publications)(GB)</description>
+		<rom name="Load Runner - Printout No 02 (1983-07-07)(ECC Publications)(GB).pdf" size="9124741" crc="f063c249" md5="cb6b1bec4efb81bd626761a939607af0" sha1="54d884f1587d7409dc80d178e11e8757b13e03b3"/>
+	</game>
+	<game name="Load Runner - Printout No 09 (1983-10-13)(ECC Publications)(GB)">
+		<description>Load Runner - Printout No 09 (1983-10-13)(ECC Publications)(GB)</description>
+		<rom name="Load Runner - Printout No 09 (1983-10-13)(ECC Publications)(GB).pdf" size="86009678" crc="2d1aadcd" md5="4b80aefcff66599a1b41d515742ddea4" sha1="87df0cfcc1fe38937265a49ab4811f864d0de498"/>
+	</game>
+</datafile>

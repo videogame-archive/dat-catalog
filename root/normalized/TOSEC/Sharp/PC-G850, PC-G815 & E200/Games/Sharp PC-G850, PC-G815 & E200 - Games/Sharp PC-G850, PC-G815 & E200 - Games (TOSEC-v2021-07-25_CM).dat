@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp PC-G850, PC-G815 &amp; E200 - Games</name>
+		<description>Sharp PC-G850, PC-G815 &amp; E200 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[turn-based]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[turn-based]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[turn-based].ihx" size="40554" crc="8c4c9c2f" md5="30c95fb2679b82511b682b2c754752b4" sha1="4c3996d6baebb40343d3385f6f01b9b354f4c2fe"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[turn-based]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[turn-based]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[turn-based].ihx" size="42688" crc="f5f63e86" md5="71dbe98a18254fac4bef198f0987e844" sha1="58d7616fd8fb16bc08c2818de14b0e26a06bd003"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[turn-based]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[turn-based]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[turn-based].ihx" size="42286" crc="3aa6d50b" md5="d3a23d4be8f6a014e7b44a40eab00e5c" sha1="ba9fe745eb17c83694328840e44fd86b593118bb"/>
+	</game>
+</datafile>

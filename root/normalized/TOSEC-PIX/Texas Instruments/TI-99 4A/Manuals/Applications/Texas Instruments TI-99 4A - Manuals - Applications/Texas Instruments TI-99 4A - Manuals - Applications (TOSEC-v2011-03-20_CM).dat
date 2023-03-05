@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Manuals - Applications</name>
+		<description>Texas Instruments TI-99 4A - Manuals - Applications (TOSEC-v2011-03-20)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-03-20</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Editor Assembler (1981)(Texas Instruments)">
+		<description>Editor Assembler (1981)(Texas Instruments)</description>
+		<rom name="Editor Assembler (1981)(Texas Instruments).pdf" size="59552772" crc="5da77f7b" md5="6617247a761a71169b406091324099fe" sha1="c67bce1df9e49b01950c18990702fc5ddc24e525"/>
+	</game>
+	<game name="TI Extended Basic (1981)(Texas Instruments)">
+		<description>TI Extended Basic (1981)(Texas Instruments)</description>
+		<rom name="TI Extended Basic (1981)(Texas Instruments).pdf" size="9678460" crc="8d4457fe" md5="230d90950e0a9e832518c5d52136013b" sha1="fb982dc863d2cc6b6e21df1111fd72c832e25121"/>
+	</game>
+	<game name="USCD p-System Part One (1981)(Texas Instruments)">
+		<description>USCD p-System Part One (1981)(Texas Instruments)</description>
+		<rom name="USCD p-System Part One (1981)(Texas Instruments).pdf" size="18214344" crc="2c186cba" md5="aad87223cf6ddf6503745158cfc704bc" sha1="e84eb42da2442f0858f299bd76ff3c13c0592192"/>
+	</game>
+	<game name="USCD p-System Part Three (1981)(Texas Instruments)">
+		<description>USCD p-System Part Three (1981)(Texas Instruments)</description>
+		<rom name="USCD p-System Part Three (1981)(Texas Instruments).pdf" size="22841795" crc="ca3a80cd" md5="2edda8c50a668e6a5214c55b21e21a73" sha1="5a36c90ee75ec5099ea4d405c3505976249b8ff3"/>
+	</game>
+	<game name="USCD p-System Part Two (1981)(Texas Instruments)">
+		<description>USCD p-System Part Two (1981)(Texas Instruments)</description>
+		<rom name="USCD p-System Part Two (1981)(Texas Instruments).pdf" size="21992747" crc="9abb9343" md5="49bb454a1f5a2467b536772ecab264ee" sha1="ea26efef23799ef36a740dee1ac79ebc5c736691"/>
+	</game>
+</datafile>

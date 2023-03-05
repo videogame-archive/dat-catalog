@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IMLAC Corporation PDS-1 - Demos - [PTP]</name>
+		<description>IMLAC Corporation PDS-1 - Demos - [PTP] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Munching Squares (197x)(-)">
+		<description>Munching Squares (197x)(-)</description>
+		<rom name="Munching Squares (197x)(-).ptp" size="322" crc="8119bc1b" md5="045df5f557f840d07ef5695ad609b773" sha1="d386703e86d609099a0bf0f9253dc9a267976552"/>
+	</game>
+</datafile>

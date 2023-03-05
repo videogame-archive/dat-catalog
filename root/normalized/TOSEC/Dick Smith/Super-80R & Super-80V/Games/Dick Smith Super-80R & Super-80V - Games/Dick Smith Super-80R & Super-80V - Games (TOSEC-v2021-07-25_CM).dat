@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dick Smith Super-80R &amp; Super-80V - Games</name>
+		<description>Dick Smith Super-80R &amp; Super-80V - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).ql" size="15322" crc="23fa6750" md5="4782d0cf8569ca1a5b6ec6b8e282d503" sha1="30c797ce8a7262a7ce2fcadb82d77ee74ca09650"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).ql" size="14522" crc="34d557cc" md5="dc5adc69f0417bb80b7f1611efe15966" sha1="7eb4621007e6bcb274cfeb259b01390810c5762d"/>
+	</game>
+</datafile>

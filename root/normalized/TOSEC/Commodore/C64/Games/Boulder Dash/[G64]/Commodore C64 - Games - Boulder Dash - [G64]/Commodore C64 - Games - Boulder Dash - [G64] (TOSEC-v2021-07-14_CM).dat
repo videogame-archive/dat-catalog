@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Boulder Dash - [G64]</name>
+		<description>Commodore C64 - Games - Boulder Dash - [G64] (TOSEC-v2021-07-14)</description>
+		<category>TOSEC</category>
+		<version>2021-07-14</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)">
+		<description>Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)</description>
+		<rom name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben).g64" size="333744" crc="aec8ab24" md5="56ab5d02dae53a1a9a1701f849097767" sha1="9375c4d31f6da2ef99b9df2e5b46637b99ecc926"/>
+	</game>
+	<game name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)[a]">
+		<description>Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)[a]</description>
+		<rom name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)[a].g64" size="333744" crc="d5aa9b54" md5="e673582da226a8513efd7e82bd489948" sha1="f61f7b3e5536de9e0405303260c1ea8162ab55fc"/>
+	</game>
+	<game name="Boulder Dash II - Rockford&apos;s Revenge (1985)(First Star)[cr Swat]">
+		<description>Boulder Dash II - Rockford&apos;s Revenge (1985)(First Star)[cr Swat]</description>
+		<rom name="Boulder Dash II - Rockford&apos;s Revenge (1985)(First Star)[cr Swat].g64" size="333744" crc="19a4083b" md5="38f76f9e94f4b0d5645c7c4e9dfb1031" sha1="24d5de78766fd2dd34b6723cfb72d961fd0e7125"/>
+	</game>
+</datafile>

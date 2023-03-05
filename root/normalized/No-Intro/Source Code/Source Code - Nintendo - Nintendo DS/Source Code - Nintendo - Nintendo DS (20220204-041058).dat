@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>177</id>
+		<name>Source Code - Nintendo - Nintendo DS</name>
+		<description>Source Code - Nintendo - Nintendo DS</description>
+		<version>20220204-041058</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Rayman Raving Rabbids (Unknown)" id="0001">
+		<description>Rayman Raving Rabbids (Unknown)</description>
+		<rom name="Rayman 4 (DS) Development Environment.7z" size="538607462" crc="799148c3" md5="cf544129502deaa4dd849418a79612be" sha1="39c71bfa42361711d724276c0cf851f5f83896a2" sha256="b45d897dd1a3f888d412f6f8d22f1b63aa20f974b2d6047aeb83d838d834461d"/>
+	</game>
+</datafile>

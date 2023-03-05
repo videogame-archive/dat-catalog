@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Docs - [WOZ]</name>
+		<description>Apple II - Docs - [WOZ] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bank Street Writer Data Disk (19xx)(-)[empty]">
+		<description>Bank Street Writer Data Disk (19xx)(-)[empty]</description>
+		<rom name="Bank Street Writer Data Disk (19xx)(-)[empty].woz" size="235311" crc="41a524e7" md5="20318a52659cd379f075150f4d1fa43b" sha1="893edc34ce46364075fe872535bfe8fcdf8c1c27"/>
+	</game>
+</datafile>

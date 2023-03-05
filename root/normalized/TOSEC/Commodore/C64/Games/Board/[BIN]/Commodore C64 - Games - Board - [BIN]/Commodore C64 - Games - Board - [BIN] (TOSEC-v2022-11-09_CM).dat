@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Board - [BIN]</name>
+		<description>Commodore C64 - Games - Board - [BIN] (TOSEC-v2022-11-09)</description>
+		<category>TOSEC</category>
+		<version>2022-11-09</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Checkers (1984)(Micro-Distributors)">
+		<description>Checkers (1984)(Micro-Distributors)</description>
+		<rom name="Checkers (1984)(Micro-Distributors).bin" size="16384" crc="92d8d4e4" md5="4d9410b2dbfd309f2ed2d0129dbd69b8" sha1="1ab54a850237ef349b53b186157613a2f653138d"/>
+	</game>
+	<game name="Checkers (1984)(Yu Can Software)">
+		<description>Checkers (1984)(Yu Can Software)</description>
+		<rom name="Checkers (1984)(Yu Can Software).bin" size="8192" crc="5a327b8c" md5="125a10368f9f78e34b8d6c0a9c7fe788" sha1="630c054c90fd5d8e2442adb6146b0306d8587cbb"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HomeLab HomeLab - Manuals - Hardware (HU)</name>
+		<description>HomeLab HomeLab - Manuals - Hardware (HU) (TOSEC-v2010-01-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="HomeLab Hardver (198x)(-)(HU)">
+		<description>HomeLab Hardver (198x)(-)(HU)</description>
+		<rom name="HomeLab Hardver (198x)(-)(HU).pdf" size="3706750" crc="176eb2a5" md5="a9c023d6ec8b03c28099d8cddd909f27" sha1="e3d39c3e158a71afde71abacd6a1db8a1bf9bb05"/>
+	</game>
+	<game name="HomeLab II Felhasznaloi kezikonyv (198x)(-)(HU)">
+		<description>HomeLab II Felhasznaloi kezikonyv (198x)(-)(HU)</description>
+		<rom name="HomeLab II Felhasznaloi kezikonyv (198x)(-)(HU).pdf" size="14963472" crc="7e52b7db" md5="e93a70cd0a89c52a9ab96dfd52b5c46b" sha1="3afc515f2ffb22edbc5f2f88ca6c9d4bfc6b19e9"/>
+	</game>
+	<game name="HomeLab-3 Rutinkonyvtar (198x)(-)(HU)">
+		<description>HomeLab-3 Rutinkonyvtar (198x)(-)(HU)</description>
+		<rom name="HomeLab-3 Rutinkonyvtar (198x)(-)(HU).pdf" size="1045564" crc="16de2195" md5="aa76b607bbde63a87ab5002de3588aea" sha1="8ea375944552e50becbfbe9b8b87c97c174ebc85"/>
+	</game>
+	<game name="HomeLab-4 Kezelesi utasitas (1985)(-)(HU)">
+		<description>HomeLab-4 Kezelesi utasitas (1985)(-)(HU)</description>
+		<rom name="HomeLab-4 Kezelesi utasitas (1985)(-)(HU).pdf" size="18306369" crc="c6c3d442" md5="79ac24c10c8316f257dce0b25aeee9bf" sha1="07e280e7dd1e4f333f4c4e3a43ec99c3ccfdab8f"/>
+	</game>
+	<game name="HomeLab-5 Plusz szolgaltatasai (198x)(Solti Imre)(HU)">
+		<description>HomeLab-5 Plusz szolgaltatasai (198x)(Solti Imre)(HU)</description>
+		<rom name="HomeLab-5 Plusz szolgaltatasai (198x)(Solti Imre)(HU).pdf" size="369310" crc="f64ca6e6" md5="2af725f8bc740d8d13b3825fd2018360" sha1="9656632970b2e5a0c033836397be4711d93028a2"/>
+	</game>
+</datafile>

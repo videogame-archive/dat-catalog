@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore PET - Catalogs</name>
+		<description>Commodore PET - Catalogs (TOSEC-v2012-04-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer PET 2001 (197x)(Commodore)(GB)">
+		<description>Computer PET 2001 (197x)(Commodore)(GB)</description>
+		<rom name="Computer PET 2001 (197x)(Commodore)(GB).pdf" size="1253006" crc="d8f6dc05" md5="506e6c67bcf5de0a16dd4a229c8ce1be" sha1="7366720b64f864299153b5a17e814264acb460c4"/>
+	</game>
+	<game name="PET Business Flyer (197x)(Commodore)(GB)">
+		<description>PET Business Flyer (197x)(Commodore)(GB)</description>
+		<rom name="PET Business Flyer (197x)(Commodore)(GB).pdf" size="539459" crc="d638d40e" md5="56fbcd70eecaaedd4939a01d4df6408a" sha1="d0b300c6e99fc43f0180e9289499d73e299dd700"/>
+	</game>
+	<game name="PET Personal Computer, The (197x)(Commodore)(GB)">
+		<description>PET Personal Computer, The (197x)(Commodore)(GB)</description>
+		<rom name="PET Personal Computer, The (197x)(Commodore)(GB).pdf" size="524442" crc="32bdb85a" md5="08e257cbfe191602777d50f5163d99c2" sha1="d587751ac0194b4147e987ee96f3d9eaab205e91"/>
+	</game>
+	<game name="PET Sales Flyer (197x)(Commodore)(US)">
+		<description>PET Sales Flyer (197x)(Commodore)(US)</description>
+		<rom name="PET Sales Flyer (197x)(Commodore)(US).pdf" size="2476472" crc="90c0bdc3" md5="77b650bbb8a068faf3681f84abeacf48" sha1="2e353d4f4a3d508070cefc33559bcc8c20ac795a"/>
+	</game>
+	<game name="PET Top Of Its Class (197x)(Commodore)(GB)">
+		<description>PET Top Of Its Class (197x)(Commodore)(GB)</description>
+		<rom name="PET Top Of Its Class (197x)(Commodore)(GB).pdf" size="527804" crc="19be08e5" md5="f67648a54a0021e240031e5bd4acabfc" sha1="2f9b607aaec21eff89a8c557f57dc49630405964"/>
+	</game>
+</datafile>

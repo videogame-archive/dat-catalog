@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Game Insider</name>
+		<description>Multi-format - Magazines - Game Insider (TOSEC-v2012-04-18)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-18</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Insider (2011-04)(Game Insider)(US)">
+		<description>Game Insider (2011-04)(Game Insider)(US)</description>
+		<rom name="Game Insider (2011-04)(Game Insider)(US).pdf" size="28770982" crc="1161f28b" md5="8428d7936c8232fcd4f8c9a8f04b11f8" sha1="76771d9dbe425300467ab4bdf6f5df0b87380ffb"/>
+	</game>
+	<game name="Game Insider (2011-06)(Game Insider)(US)">
+		<description>Game Insider (2011-06)(Game Insider)(US)</description>
+		<rom name="Game Insider (2011-06)(Game Insider)(US).pdf" size="27047153" crc="6f7bb636" md5="4554d58fcf21bc25e667c8d79fa69888" sha1="2231498c7d5e8998863d85117b607f7a99b684f5"/>
+	</game>
+</datafile>

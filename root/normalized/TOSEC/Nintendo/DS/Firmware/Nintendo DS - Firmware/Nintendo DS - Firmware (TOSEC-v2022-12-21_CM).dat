@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo DS - Firmware</name>
+		<description>Nintendo DS - Firmware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo DS Lite Firmware (2006)(Nintendo)(EU)(en)">
+		<description>Nintendo DS Lite Firmware (2006)(Nintendo)(EU)(en)</description>
+		<rom name="Nintendo DS Lite Firmware (2006)(Nintendo)(EU)(en).bin" size="262144" crc="9d0e7d5f" md5="37cc17d8004667df7a360e50c0d4c6e6" sha1="e8cbf864be9a8d077ceccd2e7059b6d515fce672"/>
+	</game>
+	<game name="Nintendo DS X4 v40820D (20xx)(Nintendo)(JP)(proto)[NTPAB20003]">
+		<description>Nintendo DS X4 v40820D (20xx)(Nintendo)(JP)(proto)[NTPAB20003]</description>
+		<rom name="BIOSNDS7.ROM" size="16384" crc="1280f0d5" md5="df692a80a5b1bc90728bc3dfc76cd948" sha1="24f67bdea115a2c847c8813a262502ee1607b7df"/>
+		<rom name="BIOSNDS9.ROM" size="4096" crc="2ab23573" md5="a392174eb3e572fed6447e956bde4b25" sha1="bfaac75f101c135e32e2aaf541de6b1be4c8c62d"/>
+		<rom name="FW0802D6.BIN" size="262144" crc="18e137df" md5="10869044137cc5dd352e46fc8efcf287" sha1="d51be561a6538941f8f43d6db9cdb964a383080a"/>
+	</game>
+</datafile>

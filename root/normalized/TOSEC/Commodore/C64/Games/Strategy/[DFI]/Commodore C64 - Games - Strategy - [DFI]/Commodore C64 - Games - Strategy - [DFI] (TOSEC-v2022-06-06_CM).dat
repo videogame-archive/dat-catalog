@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Strategy - [DFI]</name>
+		<description>Commodore C64 - Games - Strategy - [DFI] (TOSEC-v2022-06-06)</description>
+		<category>TOSEC</category>
+		<version>2022-06-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Defender of the Crown (1987)(Cinemaware)">
+		<description>Defender of the Crown (1987)(Cinemaware)</description>
+		<rom name="Defender of the Crown (1987)(Cinemaware).dfi" size="393216" crc="07f70739" md5="a7a1ab408c724c543b22afc2aca3d5b8" sha1="f2273206cb175fb72f91a174c0fdcf94d85d55b5"/>
+	</game>
+	<game name="Diplomacy (1990)(Virgin Mastertronic)">
+		<description>Diplomacy (1990)(Virgin Mastertronic)</description>
+		<rom name="Diplomacy (1990)(Virgin Mastertronic).dfi" size="131072" crc="45a9a84b" md5="7fecfc701f8c126578670f8b8e022996" sha1="96022452af46522f79f56afddf240226d789e5c1"/>
+	</game>
+	<game name="Duck Tales (1991)(Disney Software)">
+		<description>Duck Tales (1991)(Disney Software)</description>
+		<rom name="Duck Tales (1991)(Disney Software).dfi" size="524288" crc="89f46ca0" md5="9d76807fd3d7305e22788b4e1b300499" sha1="86ea867a136ea1250091b064ace0e576f4e702da"/>
+	</game>
+	<game name="Force I (1985)(PowerPlay Magazine)">
+		<description>Force I (1985)(PowerPlay Magazine)</description>
+		<rom name="Force I (1985)(PowerPlay Magazine).dfi" size="65536" crc="7c25b727" md5="587260fdd08076b5432aa5ea0496627a" sha1="e3724af5fb06919cbf10ea70096ac3fc9913c112"/>
+	</game>
+	<game name="Laser Squad II (1989)(Target Games)">
+		<description>Laser Squad II (1989)(Target Games)</description>
+		<rom name="Laser Squad II (1989)(Target Games).dfi" size="262144" crc="6b4c7240" md5="6e4d434e38f432c7b7955ac293ec479b" sha1="54ca994d77a59457a8998c862bae5a5e8c7dcc1d"/>
+	</game>
+	<game name="MULE (1983)(Electronic Arts)">
+		<description>MULE (1983)(Electronic Arts)</description>
+		<rom name="MULE (1983)(Electronic Arts).dfi" size="65536" crc="550a7910" md5="0e53adeae1cd34724bbee05b199c9e94" sha1="edb686d0fe65c664ce7f4bf1b5b0f05d6f90fd42"/>
+	</game>
+	<game name="North &amp; South (1989)(Infogrames)">
+		<description>North &amp; South (1989)(Infogrames)</description>
+		<rom name="North &amp; South (1989)(Infogrames).dfi" size="196608" crc="9626899c" md5="17a9ee803442a73c0074733b3a73c69d" sha1="fa728d99592dbd6ca1a81df0fc8ede06538ff10d"/>
+	</game>
+	<game name="They Stole a Million (1986)(Ariolasoft)">
+		<description>They Stole a Million (1986)(Ariolasoft)</description>
+		<rom name="They Stole a Million (1986)(Ariolasoft).dfi" size="131072" crc="e8627fb5" md5="55bd9d8da77f1f97ee79d0cf25781480" sha1="9eb890370c786dab7b0377315821bee3a22566fc"/>
+	</game>
+</datafile>

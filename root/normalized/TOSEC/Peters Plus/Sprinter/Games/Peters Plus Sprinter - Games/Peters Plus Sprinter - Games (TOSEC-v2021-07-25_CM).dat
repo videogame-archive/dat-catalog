@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Peters Plus Sprinter - Games</name>
+		<description>Peters Plus Sprinter - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).exe" size="14735" crc="3f898ba0" md5="61169b2511d86e21ca0d93791ee4b648" sha1="b22050d6a3d30db843344194ab803ad0b8330a14"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).exe" size="14664" crc="2fb62e81" md5="fa4ba7f0a6c1602f8915a1d6e4fc6c9f" sha1="9ce8ce08666d50ebd6198d4b5846759ad6a2b9a7"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).exe" size="14322" crc="ea976ee8" md5="cc30624f1a58176c02cf38bf256b6534" sha1="c98976a2927d0c3c2cfd3e1ba7079aa566b34671"/>
+	</game>
+</datafile>

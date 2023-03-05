@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Wii - Homebrew - Games - [ELF]</name>
+		<description>Nintendo Wii - Homebrew - Games - [ELF] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Groundhog Puzzle (2015)(Mihai, Sebastian)">
+		<description>Groundhog Puzzle (2015)(Mihai, Sebastian)</description>
+		<rom name="Groundhog Puzzle (2015)(Mihai, Sebastian).elf" size="1811876" crc="62329f2d" md5="1dd51dff2785fdeeb87bdd739b91e774" sha1="6e98f1726e68cbedc6e67c5acb0d1e0f17641a53"/>
+	</game>
+</datafile>

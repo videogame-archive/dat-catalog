@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Books</name>
+		<description>Nintendo Game Boy - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gameboy - The Boxart Collection (2020)(Bitmap Books)(GB)">
+		<description>Gameboy - The Boxart Collection (2020)(Bitmap Books)(GB)</description>
+		<rom name="Gameboy - The Boxart Collection (2020)(Bitmap Books)(GB).pdf" size="57003710" crc="a3d6d898" md5="85c6bdab9c66fd4111adcbc25a8fa892" sha1="49b04698138e93ce92b8db4da6c318631377dd57"/>
+	</game>
+</datafile>

@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>2</id>
+		<name>Atari - Jaguar (ROM)</name>
+		<description>Atari - Jaguar (ROM)</description>
+		<version>20230129-083017</version>
+		<author>Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, Hiccup, nnssxx, NovaAurora, omonim2007, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Aircars (USA) (Beta) (1994-11-14)" id="0066" cloneofid="0056">
+		<description>Aircars (USA) (Beta) (1994-11-14)</description>
+		<rom name="Aircars (USA) (Beta) (1994-11-14).rom" size="2088960" crc="cfdb57c6" md5="1d6942892f80f7c369236e96979ca12a" sha1="f5992688c85833fee82e04be274143cf0366f428"/>
+	</game>
+	<game name="Alien vs Predator (World)" id="0001">
+		<description>Alien vs Predator (World)</description>
+		<rom name="Alien vs Predator (World).rom" size="4186112" crc="3eaecb25" md5="15d9864ce22a8786151928f5bf613b7b" sha1="86fd0c17c4f115cf19b96f9986446b9fc0e7da60" status="verified"/>
+	</game>
+	<game name="Alien vs Predator (World) (Beta) (1993-08-18)" id="0067" cloneofid="0001">
+		<description>Alien vs Predator (World) (Beta) (1993-08-18)</description>
+		<rom name="Alien vs Predator (World) (Beta) (1993-08-18).rom" size="2088960" crc="c9e144cc" md5="bbb8efdd570d268f86a14e0893ba3e5f" sha1="5f7eea52f9204749fba508ee70349c3f42cd0928"/>
+	</game>
+	<game name="Alien vs Predator (World) (Beta) (1993-10-13)" id="0068" cloneofid="0001">
+		<description>Alien vs Predator (World) (Beta) (1993-10-13)</description>
+		<rom name="Alien vs Predator (World) (Beta) (1993-10-13).rom" size="1040384" crc="dfc07abd" md5="8bdfc02f6542d95e3582db6757e33474" sha1="a7356d2dc9d235b2a87508b41aedbd5eacc7399d"/>
+	</game>
+	<game name="Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)" id="0069" cloneofid="0001">
+		<description>Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644)</description>
+		<rom name="Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644).rom" size="2088960" crc="1eef352c" md5="2b299e92e82031a31235da74850670cf" sha1="c029a536d6e47e11d107a7213f175382e2acebd8"/>
+	</game>
+	<game name="Atari Karts (World)" id="0007">
+		<description>Atari Karts (World)</description>
+		<rom name="Atari Karts (World).rom" size="4186112" crc="f816c3e6" md5="33bb6d4d2aa39989e9aa650e4cbeee88" sha1="5168453c88617a58bc33cf7c18631108d6376a81" status="verified"/>
+	</game>
+	<game name="Atari Karts (World) (Beta)" id="0079" cloneofid="0007">
+		<description>Atari Karts (World) (Beta)</description>
+		<rom name="Atari Karts (World) (Beta).rom" size="4186112" crc="2abc6001" md5="deae794870cb3387fe1511799b3a1fcb" sha1="5b61f7cfaf6736ddbd8f6e873d850d96951d34e4"/>
+	</game>
+	<game name="Attack of the Mutant Penguins (World)" id="0008">
+		<description>Attack of the Mutant Penguins (World)</description>
+		<rom name="Attack of the Mutant Penguins (World).rom" size="2088960" crc="66a1567c" md5="dbba0926aa87529bd6007fe8b4a7282a" sha1="53f21a5d8b382a9934cb0907a65b28a519de2c55" status="verified"/>
+	</game>
+	<game name="Barkley Shut Up and Jam (World) (Beta)" id="0072" cloneofid="0071">
+		<description>Barkley Shut Up and Jam (World) (Beta)</description>
+		<rom name="Barkley Shut Up and Jam (World) (Beta).rom" size="2088960" crc="c2898f6e" md5="5f884a5052a4dde4c896449b392ad4bf" sha1="57b0340dd805b240abcc761e4186aac1d04c5f6c"/>
+	</game>
+	<game name="Breakout 2000 (USA, Europe)" id="0104">
+		<description>Breakout 2000 (USA, Europe)</description>
+		<rom name="Breakout 2000 (USA, Europe).rom" size="2088960" crc="4dd5c5de" md5="a4b4003c11b55d0b28aa34bb113bbde4" sha1="512ee251e8fa7764105f4b0d4b636a6e6e2c3c1f" status="verified"/>
+	</game>
+	<game name="Breakout 2000 (USA, Europe) (Beta)" id="0108" cloneofid="0104">
+		<description>Breakout 2000 (USA, Europe) (Beta)</description>
+		<rom name="Breakout 2000 (USA, Europe) (Beta).rom" size="2088960" crc="d8696f23" md5="d1b1bfb5845a09467b7601ad103734ce" sha1="dd0505579035fd4b402be64d975b41496fcfb4ee"/>
+	</game>
+	<game name="Brutal Sports Football (World)" id="0009">
+		<description>Brutal Sports Football (World)</description>
+		<rom name="Brutal Sports Football (World).rom" size="2088960" crc="9c655c37" md5="dc5808fe55f9105fd6fb6fd220a35515" sha1="5129491a19588b8c7cb513e7f567585de42f1549" status="verified"/>
+	</game>
+	<game name="Bubsy in Fractured Furry Tales (World)" id="0010">
+		<description>Bubsy in Fractured Furry Tales (World)</description>
+		<rom name="Bubsy in Fractured Furry Tales (World).rom" size="2088960" crc="278c40be" md5="fe2751ca61154ecfa4f0ad4299a5dc54" sha1="0624c22e8df7a70392d7b29993cf101a86484d17" status="verified"/>
+	</game>
+	<game name="Cannon Fodder (World)" id="0011">
+		<description>Cannon Fodder (World)</description>
+		<rom name="Cannon Fodder (World).rom" size="2088960" crc="31ebf18b" md5="460a0b1e5aa3d2d4d48d072e01343cdd" sha1="add3ccd479aadb3a9b0596462801339c71088e6d" status="verified"/>
+	</game>
+	<game name="Checkered Flag (World)" id="0012">
+		<description>Checkered Flag (World)</description>
+		<rom name="Checkered Flag (World).rom" size="2088960" crc="6bf22dd1" md5="b45c964faa34ab254ab5a5121f9432e3" sha1="ed24557fbaa536273c6e3894ab1399a729fd5f22" status="verified"/>
+	</game>
+	<game name="Checkered Flag (World) (Beta) (CES 1993)" id="0075" cloneofid="0012">
+		<description>Checkered Flag (World) (Beta) (CES 1993)</description>
+		<rom name="Checkered Flag (World) (Beta) (CES 1993).rom" size="1040384" crc="a5b30631" md5="d0a0a6f9c9c2f3023e28645bad8dc74d" sha1="172e4f17d071ded4bb74afd5489ba6145e29e7b4"/>
+	</game>
+	<game name="Club Drive (World)" id="0013">
+		<description>Club Drive (World)</description>
+		<rom name="Club Drive (World).rom" size="2088960" crc="8fbdf685" md5="820866734a06f96e632151f2d9654dc6" sha1="d1b365f8534e042e0586b505ae03874a662f12df" status="verified"/>
+	</game>
+	<game name="Club Drive (World) (Beta)" id="0076" cloneofid="0013">
+		<description>Club Drive (World) (Beta)</description>
+		<rom name="Club Drive (World) (Beta).rom" size="516096" crc="6cb78512" md5="c52705cdd18be2c96cbb07abd65845dd" sha1="ee1fee0be68340a5ac15afa8ed873e0690b99ad9"/>
+	</game>
+	<game name="Cybermorph (World) (Rev A)" id="0014" cloneofid="0058">
+		<description>Cybermorph (World) (Rev A)</description>
+		<rom name="Cybermorph (World) (Rev A).rom" size="2088960" crc="2e31aca5" md5="63e7e435f13a5a20ca8a2bf6e40ac27b" sha1="e3426cbd33fe31b77395270b71676ddda43d68e6" status="verified"/>
+	</game>
+	<game name="Cybermorph (World) (Rev B)" id="0058">
+		<description>Cybermorph (World) (Rev B)</description>
+		<rom name="Cybermorph (World) (Rev B).rom" size="1040384" crc="c7c21726" md5="a2762624a57ea85875b7700aac07a61b" sha1="d4a0ce12f5d5c1c668cd919aaac1187cc00cadd1" status="verified"/>
+	</game>
+	<game name="Cybermorph (World) (Beta) (1993-08-23)" id="0078" cloneofid="0058">
+		<description>Cybermorph (World) (Beta) (1993-08-23)</description>
+		<rom name="Cybermorph (World) (Beta) (1993-08-23).rom" size="1040384" crc="f5944f1d" md5="f7ccc865e2a84b2eb941209a86676bd6" sha1="93e991ed275b1d8bbc92765422e072d60ea0db6c"/>
+	</game>
+	<game name="Dark Guardian Episode 1 - Unknown Enemy (USA) (Proto)" id="0137">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Dark Guardian Episode 1 - Unknown Enemy (USA) (Proto)</description>
+		<rom name="Dark Guardian Episode 1 - Unknown Enemy (USA) (Proto).rom" size="1040384" crc="0044aea7" md5="8238af07993b8f2074c46e8b89ffa4b2" sha1="5d3276488e3bd49585e74ae405a827fb6ea5b66e" sha256="ccab6f0d0593cc507cfc04556b386e6591c77a98dfb2ad6c22781f6f30c98847"/>
+	</game>
+	<game name="Defender 2000 (World)" id="0015">
+		<description>Defender 2000 (World)</description>
+		<rom name="Defender 2000 (World).rom" size="4186112" crc="9cd0650d" md5="673a6f954126b22fd0d9759dd56c6650" sha1="982c2965cecf3a358d03cfe1ca6ae5a90f1c6f7b" status="verified"/>
+	</game>
+	<game name="Defender 2000 (World) (Beta)" id="0077" cloneofid="0015">
+		<description>Defender 2000 (World) (Beta)</description>
+		<rom name="Defender 2000 (World) (Beta).rom" size="4186112" crc="ed58f111" md5="e6e1a56794302b4bcd6f1ae77a996531" sha1="2693943111b317a0c56d14752f8b8e801edab167"/>
+	</game>
+	<game name="Doom (World)" id="0016">
+		<description>Doom (World)</description>
+		<rom name="Doom (World).rom" size="4186112" crc="4ca68830" md5="1e3b7dfe15e4911bb7331f352eed3c33" sha1="42e3db28e5477e0d18b1d390338e8ddb1d667498" status="verified"/>
+	</game>
+	<game name="Double Dragon V - The Shadow Falls (World)" id="0017">
+		<description>Double Dragon V - The Shadow Falls (World)</description>
+		<rom name="Double Dragon V - The Shadow Falls (World).rom" size="2088960" crc="a3ab2f69" md5="3bfff844b20ba2aea910bbd824c1eb9e" sha1="fd1c8b692ddd24113ad42ef520ae3cd33a5b0680" status="verified"/>
+	</game>
+	<game name="Dragon - The Bruce Lee Story (World)" id="0018">
+		<description>Dragon - The Bruce Lee Story (World)</description>
+		<rom name="Dragon - The Bruce Lee Story (World).rom" size="2088960" crc="86ddd8e2" md5="f722d9fadd650c7f9bb79f7fa1e4ea8d" sha1="760b26f7ee7f9695806688af0a3fe2486ac65e15" status="verified"/>
+	</game>
+	<game name="Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)" id="0109" cloneofid="0018">
+		<description>Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)</description>
+		<rom name="Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26).rom" size="2088960" crc="59fd0417" md5="24678221c704f39bae5f3bb5e643c5de" sha1="e1a65034d71cfa2f48d909e751b1f5536cf19b31"/>
+	</game>
+	<game name="Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)" id="0110" cloneofid="0018">
+		<description>Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)</description>
+		<rom name="Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06).rom" size="2088960" crc="7b743c7c" md5="2e7b0f2b31ac7d17a191c7fe700cf350" sha1="fb7ed8d7766fb097860951b3975d7e30e7ff4b0f"/>
+	</game>
+	<game name="Evolution - Dino Dudes (World)" id="0019">
+		<description>Evolution - Dino Dudes (World)</description>
+		<rom name="Evolution - Dino Dudes (World).rom" size="2088960" crc="a86c3324" md5="42cb86ba9b15da4d4bb7cb782feb9299" sha1="dcaca75fc27d31bfd774bec24474a66d1debc436" status="verified"/>
+	</game>
+	<game name="Fever Pitch Soccer (World) (En,Fr,De,Es,It)" id="0020">
+		<description>Fever Pitch Soccer (World) (En,Fr,De,Es,It)</description>
+		<rom name="Fever Pitch Soccer (World) (En,Fr,De,Es,It).rom" size="2088960" crc="2ded9193" md5="02829e8bef858dbe61faf4854945e8d3" sha1="1ebf9930892a6da2196a2acebf6a34fe7af2e61a" status="verified"/>
+	</game>
+	<game name="Fight for Life (USA, Europe)" id="0021">
+		<description>Fight for Life (USA, Europe)</description>
+		<rom name="Fight for Life (USA, Europe).rom" size="4186112" crc="521c17ef" md5="a02a1faebc007010764ccda55019d0a4" sha1="9ed55e62dc4d5e1f7763136ea22a10b3e7762ae7" status="verified"/>
+	</game>
+	<game name="Fight for Life (USA, Europe) (Beta) (1995-03-22)" id="0080" cloneofid="0021">
+		<description>Fight for Life (USA, Europe) (Beta) (1995-03-22)</description>
+		<rom name="Fight for Life (USA, Europe) (Beta) (1995-03-22).rom" size="4186112" crc="21307778" md5="d8bc12c215f317f7cd2bfb4ddd9e9744" sha1="c4bd76e54a15544c709faf2edd4743afff93988b"/>
+	</game>
+	<game name="Fight for Life (USA, Europe) (Beta) (1995-09-07)" id="0081" cloneofid="0021">
+		<description>Fight for Life (USA, Europe) (Beta) (1995-09-07)</description>
+		<rom name="Fight for Life (USA, Europe) (Beta) (1995-09-07).rom" size="4186112" crc="7b1fd307" md5="2c9bd7e404b1e30f01a8ee9a9fb11e29" sha1="c5dfce9e0ea8d6faa0b9ac21f4d82896bde9d9b3"/>
+	</game>
+	<game name="Flashback - The Quest for Identity (World) (En,Fr)" id="0023">
+		<description>Flashback - The Quest for Identity (World) (En,Fr)</description>
+		<rom name="Flashback - The Quest for Identity (World) (En,Fr).rom" size="2088960" crc="62c2f43b" md5="a6e4c531394dbb96d033660a6c9e1ef2" sha1="60068adadee3871072795104721fdacf8c129f6f" status="verified"/>
+	</game>
+	<game name="Flip Out! (World)" id="0024">
+		<description>Flip Out! (World)</description>
+		<rom name="Flip Out! (World).rom" size="2088960" crc="76bb7d03" md5="aca3200eb333cd9137d0a88673799f83" sha1="157be203c301d2bbebe60ea3399835be81537420" status="verified"/>
+	</game>
+	<game name="High Voltage C Maze (USA) (Demo)" id="0092">
+		<description>High Voltage C Maze (USA) (Demo)</description>
+		<rom name="High Voltage C Maze (USA) (Demo).rom" size="2088960" crc="6987009c" md5="2d12b73af94ac1213281653b0f6d313c" sha1="ecddf5dc2254017742f6ac96e8c2b36bd8108147"/>
+	</game>
+	<game name="Hover Strike (World)" id="0025">
+		<description>Hover Strike (World)</description>
+		<rom name="Hover Strike (World).rom" size="2088960" crc="097f874a" md5="545b4f36992de772d48a9f13491fb894" sha1="76a94fea444d68cb52833bcde2eaff60fe9c4056" status="verified"/>
+	</game>
+	<game name="I-War (USA, Europe)" id="0026">
+		<category>Games</category>
+		<description>I-War (USA, Europe)</description>
+		<rom name="I-War (USA, Europe).rom" size="2088960" crc="705fa772" md5="a5d13bdbce3097f07121f444c430559b" sha1="6fa40243a9f7de26f10971a51d229a532cda5756" status="verified"/>
+	</game>
+	<game name="I-War (USA, Europe) (Beta) (1995-10-20)" id="0115" cloneofid="0026">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>I-War (USA, Europe) (Beta) (1995-10-20)</description>
+		<rom name="I-War (USA, Europe) (Beta) (1995-10-20).rom" size="2088960" crc="bc4b448f" md5="2c066890cddda36bc7a64cb85a81e062" sha1="92c154a2d481d627f0509825d34fa5dc5bb16e43" sha256="0198a76e04dada454b6bff0b8a579c852e013bba2c5a2b9c1d2b16b7dc89579f"/>
+	</game>
+	<game name="International Sensible Soccer (World)" id="0037">
+		<description>International Sensible Soccer (World)</description>
+		<rom name="International Sensible Soccer (World).rom" size="2088960" crc="886ddcbf" md5="01c61fa627f1bd63710e5cb9c9a31c77" sha1="872416e82a2d2a8eae76643bdce48dcb7be3f53a" status="verified"/>
+	</game>
+	<game name="Iron Soldier (World)" id="0027">
+		<description>Iron Soldier (World)</description>
+		<rom name="Iron Soldier (World).rom" size="2088960" crc="35e538a0" md5="c9a25d6aaa39972388b41d5509e630fb" sha1="6506eb05a92079282e2d4056ce960fcb61f98717" status="verified"/>
+	</game>
+	<game name="Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04)" id="0082">
+		<description>Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04)</description>
+		<rom name="Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04).rom" size="2088960" crc="8f8167bd" md5="775f6e2066d6a94ed51b6cc67ed7cef0" sha1="26230767abe53452a39f2403dea80c356316c140"/>
+	</game>
+	<game name="Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13)" id="0083" cloneofid="0082">
+		<category>Demos</category>
+		<description>Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13)</description>
+		<rom name="Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13).rom" size="1040384" crc="8928c80b" md5="2b543d378f677737c5f674b9cb160110" sha1="9b47ab30f167093818b406bca140f034829ffee1"/>
+	</game>
+	<game name="Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16)" id="0084" cloneofid="0082">
+		<category>Demos</category>
+		<description>Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16)</description>
+		<rom name="Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16).rom" size="1040384" crc="d5795815" md5="fdc7a5a7f6ccc72c99014a3a7175ba81" sha1="d0123ccf06f2a5a3e6188b7339c0eafa7faf14db"/>
+	</game>
+	<game name="Kasumi Ninja (World)" id="0028">
+		<description>Kasumi Ninja (World)</description>
+		<rom name="Kasumi Ninja (World).rom" size="4186112" crc="38cc27d8" md5="079b8059f4fc99a0e7a4c929c13f0f00" sha1="989d6170cd4e7f7d2cbf097e0f531063c6d511a6" status="verified"/>
+	</game>
+	<game name="Kasumi Ninja (World) (v0.01) (Beta)" id="0085" cloneofid="0028">
+		<description>Kasumi Ninja (World) (v0.01) (Beta)</description>
+		<rom name="Kasumi Ninja (World) (v0.01) (Beta).rom" size="516096" crc="098cb9af" md5="95447925e8211a74bc44bec3baabda59" sha1="7e297b8cd357003270bb38aba1d7dc4761c347f2"/>
+	</game>
+	<game name="Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24)" id="0114" cloneofid="0028">
+		<category>Games</category>
+		<description>Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24)</description>
+		<rom name="Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24).rom" size="4186112" crc="a7eeec3d" md5="e578b70eef1d829773a3a1c1913f3083" sha1="48ff0dc380695ff1aed54223b11d60d7242715bb" sha256="15458348695fc593c2c686b82ec4555a51170ae1597e92d28e99fb965cabe784"/>
+	</game>
+	<game name="Missile Command 3D (World)" id="0029">
+		<description>Missile Command 3D (World)</description>
+		<rom name="Missile Command 3D (World).rom" size="2088960" crc="51152b71" md5="e50d123659dc2b56b23ac4d0be9e5e01" sha1="43df682f83c675d68ae247c414a9a202082f9ad2" status="verified"/>
+	</game>
+	<game name="Missile Command VR (World) (Beta) (1995-07-05)" id="0100" cloneofid="0029">
+		<description>Missile Command VR (World) (Beta) (1995-07-05)</description>
+		<rom name="Missile Command VR (World) (Beta) (1995-07-05).rom" size="2088960" crc="a0a25a67" md5="bc2d97b8c05bff411c008dd5b578fe0f" sha1="3222548db6f084086a8bbf2016fd82de90d9844f"/>
+	</game>
+	<game name="Native (USA) (Proto)" id="0111">
+		<description>Native (USA) (Proto)</description>
+		<rom name="Native (USA) (Proto).rom" size="2088960" crc="20649d69" md5="0ea7bf8d43fb95407a6b16766d6ce5d3" sha1="2375020435534061e6fa8d0c6b0fa6131526c85d"/>
+	</game>
+	<game name="NBA Jam - Tournament Edition (USA, Europe)" id="0030">
+		<description>NBA Jam - Tournament Edition (USA, Europe)</description>
+		<rom name="NBA Jam - Tournament Edition (USA, Europe).rom" size="4186112" crc="154827b0" md5="b56b6cab16dc4e70f356dd0e0cb192c7" sha1="115ff2be7dc5b8c853d7dab842e45585f5e09105" status="verified"/>
+	</game>
+	<game name="Pinball Fantasies (World)" id="0031">
+		<description>Pinball Fantasies (World)</description>
+		<rom name="Pinball Fantasies (World).rom" size="2088960" crc="4a9fb36b" md5="c9febc453fddcb5e277d2a7daba9fbe8" sha1="c73995d4189e212180480621afcb1a073aa0cb1b" status="verified"/>
+	</game>
+	<game name="Pitfall - The Mayan Adventure (USA, Europe)" id="0032">
+		<description>Pitfall - The Mayan Adventure (USA, Europe)</description>
+		<rom name="Pitfall - The Mayan Adventure (USA, Europe).rom" size="4186112" crc="4d23f07c" md5="b40195d569457a8453364e7b5e248237" sha1="4ee44f39fc3ba6dfe6e61c95efa5bc020583fd87" status="verified"/>
+	</game>
+	<game name="Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)" id="0093">
+		<description>Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)</description>
+		<rom name="Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28).rom" size="2088960" crc="b6c53880" md5="979642e91143d8beb361f61f329411cc" sha1="e612304aa26916b53f255c54bfd5b57ded9553ee"/>
+	</game>
+	<game name="Power Drive Rally (World)" id="0033">
+		<description>Power Drive Rally (World)</description>
+		<rom name="Power Drive Rally (World).rom" size="2088960" crc="c544eb43" md5="697dbf1fc7d4b1a693d64885a422efc8" sha1="407205b1ba670b4ec58f5b80162ffbb4cc823c87" status="verified"/>
+	</game>
+	<game name="Raiden (World)" id="0034" cloneofid="0102">
+		<description>Raiden (World)</description>
+		<rom name="Raiden (World).rom" size="2088960" crc="62049d39" md5="010f3eadbb8215490a7cf1505ec41276" sha1="ca3919eac9377c0692f1a718920cf767ce424dff" status="verified"/>
+	</game>
+	<game name="Raiden (World) (Rev A)" id="0102">
+		<description>Raiden (World) (Rev A)</description>
+		<rom name="Raiden (World) (Rev A).rom" size="2088960" crc="2667f38d" md5="e75708807140b0ed5022ee14d4de03a2" sha1="0cfbdf73a145e7f38526569a1b27fcde3c42a829" status="verified"/>
+	</game>
+	<game name="Rayman (World)" id="0035">
+		<description>Rayman (World)</description>
+		<rom name="Rayman (World).rom" size="4186112" crc="bd551765" md5="8dc681817983a3d7bd889e22c40e0278" sha1="f08d137651648cd96dd9b5272eb085d0a796437a" status="verified"/>
+	</game>
+	<game name="Rayman (World) (Beta 2)" id="0088" cloneofid="0035">
+		<description>Rayman (World) (Beta 2)</description>
+		<rom name="Rayman (World) (Beta 2).rom" size="2088960" crc="ddff49f5" md5="843d1c5e6885674ba1b4b189e12d6f9f" sha1="33980b8b3511f5b32c73f59d51dde07b610af88d"/>
+	</game>
+	<game name="Rayman (World) (Beta 1)" id="0087" cloneofid="0035">
+		<description>Rayman (World) (Beta 1)</description>
+		<rom name="Rayman (World) (Beta 1).rom" size="2088960" crc="6ac6acf5" md5="0a5372fd4da20a0b9286213185f1f5a8" sha1="e9e181ca7d8e6aaa8183944fc8294edbcd36c614"/>
+	</game>
+	<game name="Ruiner Pinball (USA, Europe)" id="0036">
+		<description>Ruiner Pinball (USA, Europe)</description>
+		<rom name="Ruiner Pinball (USA, Europe).rom" size="2088960" crc="5c637bec" md5="60b7ae4d465e8577a3134f3c35929cef" sha1="01e19899824f730b4f7f810cfa285d29d02de11a" status="verified"/>
+	</game>
+	<game name="SkyCopter II (USA) (Proto)" id="0127">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>SkyCopter II (USA) (Proto)</description>
+		<rom name="SkyCopter II (USA) (Proto).rom" size="2088960" crc="0ca722c4" md5="3fe0b56638b2555f78860f30f6267553" sha1="eff1b139a6b1551b8df287c16398cac2f1e8b076" sha256="9e93e0a9afb43e780cee13c18da8699214a0b0d800299d971cc4241d669b0421"/>
+	</game>
+	<game name="Slam Racer (USA) (Proto 2)" id="0089">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Slam Racer (USA) (Proto 2)</description>
+		<rom name="Slam Racer (USA) (Proto 2).rom" size="2088960" crc="c6089446" md5="efb6e2a1ece3d4940aa610f6dac3f387" sha1="7840e56fb2e965aaf0131d0e7626d7b1ae63278e" sha256="451ff8d87d46a02915c725ac7ef7e1cba8e59b7942f72695af463d7c77de0c6d"/>
+	</game>
+	<game name="Slam Racer (USA) (Proto 1)" id="0138" cloneofid="0089">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Slam Racer (USA) (Proto 1)</description>
+		<rom name="Slam Racer (USA) (Proto 1).rom" size="2088960" crc="1b4f5843" md5="0e50e2d70e33f1ee66d76558fb2875c0" sha1="2b04b471f1f021ef45ced6bdc6a0a6ebdbe8bb28" sha256="41cdbc9ad630bf5803104244450aa7315d5654d81d4e5a03b415f11313904089"/>
+	</game>
+	<game name="Soccer Kid (World) (Beta)" id="0062" cloneofid="0103">
+		<description>Soccer Kid (World) (Beta)</description>
+		<rom name="Soccer Kid (World) (Beta).rom" size="2088960" crc="ba13ae79" md5="de65e7dff80f0e8197223d63947bfca5" sha1="4b69e6354791af82988d2df9da10ea418b58f490"/>
+	</game>
+	<game name="Speedster II (USA) (Proto)" id="0112">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Speedster II (USA) (Proto)</description>
+		<rom name="Speedster II (USA) (Proto).rom" size="2088960" crc="68bf2395" md5="0146cbf5ad32b2a4f83bccba22d1aa5c" sha1="854418b8b805df54a9a2cfb37d59b0cd08af6d6c"/>
+	</game>
+	<game name="Super Burnout (World)" id="0038">
+		<description>Super Burnout (World)</description>
+		<rom name="Super Burnout (World).rom" size="2088960" crc="537457d3" md5="7445b031fbe1c6764451c842b9d02cc7" sha1="774de7c46e05c99ce1673d89feb3ca692603cc22" status="verified"/>
+	</game>
+	<game name="Super Burnout (World) (Demo) (WCES 1995)" id="0074" cloneofid="0038">
+		<description>Super Burnout (World) (Demo) (WCES 1995)</description>
+		<rom name="Super Burnout (World) (Demo) (WCES 1995).rom" size="2088960" crc="359a602e" md5="56b13e2ec84d1933ba07421f1566562c" sha1="937845cc00fb6a14b6ae42748ad02c82e04a86ed"/>
+	</game>
+	<game name="Supercross 3D (USA, Europe)" id="0040">
+		<description>Supercross 3D (USA, Europe)</description>
+		<rom name="Supercross 3D (USA, Europe).rom" size="2088960" crc="e97f8282" md5="bc28c6f5b48607febcfa1737451d2670" sha1="622d8482302e2f758fd316091228d1476b32d1f1" status="verified"/>
+	</game>
+	<game name="Syndicate (World)" id="0041">
+		<description>Syndicate (World)</description>
+		<rom name="Syndicate (World).rom" size="2088960" crc="e55c67ab" md5="69664d59a1f0ef3aaf924ff6a17e35ab" sha1="ee7f095d79403c569e83234a7b5401610b82f6dc" status="verified"/>
+	</game>
+	<game name="Tempest 2000 (World)" id="0042">
+		<description>Tempest 2000 (World)</description>
+		<rom name="Tempest 2000 (World).rom" size="2088960" crc="f5221fca" md5="59acf9110ba6a047abb872970a33ce68" sha1="563b42d2de68ed02a7e420b957709e56921b5baa" status="verified"/>
+	</game>
+	<game name="Thea Realm Fighters (USA) (Proto 2)" id="0090">
+		<description>Thea Realm Fighters (USA) (Proto 2)</description>
+		<rom name="Thea Realm Fighters (USA) (Proto 2).rom" size="4186112" crc="c3732527" md5="beae3851768ab46d154bd97bf0892cb8" sha1="483cd397d752f97908b4c2e11316ab59461c2ee9"/>
+	</game>
+	<game name="Thea Realm Fighters (USA) (Proto 1)" id="0091" cloneofid="0090">
+		<description>Thea Realm Fighters (USA) (Proto 1)</description>
+		<rom name="Thea Realm Fighters (USA) (Proto 1).rom" size="4186112" crc="6c391146" md5="bf529c618bed9ff83eded641cd12044f" sha1="aeeefe7187799995c5b46a634313bafa015ed0f6"/>
+	</game>
+	<game name="Theme Park (World)" id="0043">
+		<description>Theme Park (World)</description>
+		<rom name="Theme Park (World).rom" size="2088960" crc="76c37fc8" md5="b132c2b4e230874788421f8606286ebe" sha1="32f47cd7b261727f88b1b2d2c37e0cf524a6ddb6" status="verified"/>
+	</game>
+	<game name="Tiny Toon Adventures (USA) (Proto)" id="0094">
+		<description>Tiny Toon Adventures (USA) (Proto)</description>
+		<rom name="Tiny Toon Adventures (USA) (Proto).rom" size="2088960" crc="f528dc3d" md5="eb5f125cb10968977a58992d48647bcf" sha1="19e2af3a1cd6533a37e4b9411a6381ce58d58f4a"/>
+	</game>
+	<game name="Total Carnage (World) (Beta)" id="0095" cloneofid="0063">
+		<description>Total Carnage (World) (Beta)</description>
+		<rom name="Total Carnage (World) (Beta).rom" size="4186112" crc="f7f51b2e" md5="bcbeb0ca8a295cac5a3afd013b12cf1d" sha1="949a93d364c75ae0b94c8266b7fd0785c995db80"/>
+	</game>
+	<game name="Towers II - Plight of the Stargazer (USA, Europe)" id="0065">
+		<description>Towers II - Plight of the Stargazer (USA, Europe)</description>
+		<rom name="Towers II - Plight of the Stargazer (USA, Europe).rom" size="2088960" crc="3241ab6a" md5="e630a0077066b1065aabe357d618629c" sha1="02a7def122325c960761ccf64c43f73d37cee332" status="verified"/>
+	</game>
+	<game name="Trevor McFur in the Crescent Galaxy (World) (Rev A)" id="0044">
+		<description>Trevor McFur in the Crescent Galaxy (World) (Rev A)</description>
+		<rom name="Trevor McFur in the Crescent Galaxy (World) (Rev A).rom" size="2088960" crc="97b9f885" md5="c6d92d3bd839c6aa301692b10d9efe76" sha1="31160e1d73332af61443b705653863b3a369a6bc" status="verified"/>
+	</game>
+	<game name="Trevor McFur in the Crescent Galaxy (World) (Beta)" id="0096" cloneofid="0044">
+		<description>Trevor McFur in the Crescent Galaxy (World) (Beta)</description>
+		<rom name="Trevor McFur in the Crescent Galaxy (World) (Beta).rom" size="4186112" crc="7270a801" md5="63ff8abf6bfcac1ccbfa504b235568c5" sha1="447465542816e7cc81d0601c5be23fd020d3bce9"/>
+	</game>
+	<game name="Trevor McFur in the Crescent Galaxy (World)" id="0107" cloneofid="0044">
+		<description>Trevor McFur in the Crescent Galaxy (World)</description>
+		<rom name="Trevor McFur in the Crescent Galaxy (World).rom" size="2088960" crc="62d32c32" md5="84bfe188dd5424a709d217b2a13ce082" sha1="503e1eca6ba7767e0f1b242812700dd68540dcaa" status="verified"/>
+	</game>
+	<game name="Troy Aikman NFL Football (World)" id="0045">
+		<description>Troy Aikman NFL Football (World)</description>
+		<rom name="Troy Aikman NFL Football (World).rom" size="2088960" crc="33328474" md5="9db7dd4a07d76dd094d461f1b07dd9d7" sha1="c7e5fdf6bdd8abd0eb344409913a1c543b45c004" status="verified"/>
+	</game>
+	<game name="Ultimate Brain Games (USA) (Proto)" id="0136">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Ultimate Brain Games (USA) (Proto)</description>
+		<rom name="Ultimate Brain Games (USA) (Proto).rom" size="2088960" crc="7707d89b" md5="831fb15912df665502c1bd260818f547" sha1="98c74f8998c6148109f17cec037ad815ee1388c3" sha256="4f6338360c2e99b6111df57db6abb49978884a7819dbf19fb20a7db73086b806"/>
+	</game>
+	<game name="Ultra Vortek (World)" id="0047">
+		<description>Ultra Vortek (World)</description>
+		<rom name="Ultra Vortek (World).rom" size="4186112" crc="e7b4f5b9" md5="f9a4fbd00e98543a265d96e338f880ee" sha1="4f9da371ee331aba815d700c4f93687c8571fd46" status="verified"/>
+	</game>
+	<game name="Ultra Vortex (World) (Beta) (1995-03-20)" id="0046" cloneofid="0047">
+		<description>Ultra Vortex (World) (Beta) (1995-03-20)</description>
+		<rom name="Ultra Vortex (World) (Beta) (1995-03-20).rom" size="4186112" crc="c00c85d1" md5="5930069d4ad566d63a028aa6ebb71435" sha1="9adc8bb00f819fae761d7a38392cedd96a637501" status="verified"/>
+	</game>
+	<game name="Val d'Isere Skiing and Snowboarding (World)" id="0048">
+		<description>Val d'Isere Skiing and Snowboarding (World)</description>
+		<rom name="Val d'Isere Skiing and Snowboarding (World).rom" size="2088960" crc="194ae39e" md5="d431e38bfbe341d45a67ac5c28a6edc3" sha1="1e0aca82fe8a41e2444d28cfa2af5cd1d05b1ae4" status="verified"/>
+	</game>
+	<game name="Virtual VCS (USA) (Proto)" id="0097">
+		<description>Virtual VCS (USA) (Proto)</description>
+		<rom name="Virtual VCS (USA) (Proto).rom" size="1040384" crc="328f40db" md5="6035c923581671588d37e1fd30ba187c" sha1="51ce2807e92dc8aa35be8ecab40d0df6d57fb608"/>
+	</game>
+	<game name="White Men Can't Jump (USA, Europe)" id="0049">
+		<description>White Men Can't Jump (USA, Europe)</description>
+		<rom name="White Men Can't Jump (USA, Europe).rom" size="4186112" crc="72c77077" md5="40ace17cbaa79d02646c7b575217946c" sha1="ddb0b3022c35283c3640546ebd574f2e15ea99e1" status="verified"/>
+	</game>
+	<game name="Wolfenstein 3D (World)" id="0050">
+		<description>Wolfenstein 3D (World)</description>
+		<rom name="Wolfenstein 3D (World).rom" size="2088960" crc="7b52ecd8" md5="e95a5d4d625640c15c1ec376eba2abee" sha1="8f868977af95270f5c9af373034febb544f5bd96" status="verified"/>
+	</game>
+	<game name="Zero 5 (USA, Europe) (Beta)" id="0098" cloneofid="0054">
+		<description>Zero 5 (USA, Europe) (Beta)</description>
+		<rom name="Zero 5 (USA, Europe) (Beta).rom" size="2088960" crc="91a9c406" md5="61c0d821c09c472c63dcb70dcacd361c" sha1="10c4a7a6618ad187275e111c6ca02311f5542139" sha256="b94bafadccd1219ccbbaa658fa59cf4fbe4ca8cafa097aaa5d6b75cc30eeff93"/>
+	</game>
+	<game name="Zool 2 (World)" id="0051">
+		<description>Zool 2 (World)</description>
+		<rom name="Zool 2 (World).rom" size="2088960" crc="f5b867ac" md5="fbe1cd9391289847c5081193308ff5ac" sha1="f2927c6f69552e01882ab47049e568491af8cd56" status="verified"/>
+	</game>
+	<game name="Zoop (USA, Europe)" id="0052">
+		<description>Zoop (USA, Europe)</description>
+		<rom name="Zoop (USA, Europe).rom" size="1040384" crc="75679275" md5="b3821b3eba08ae049b6d994b8f0791ad" sha1="52005733b5e06215a9b64407767133d009349b60" status="verified"/>
+	</game>
+	<game name="Zzyorxx II (USA) (Demo)" id="0106">
+		<description>Zzyorxx II (USA) (Demo)</description>
+		<rom name="Zzyorxx II (USA) (Demo).rom" size="1040384" crc="4c84d996" md5="c6148e0ec86f4c496e7cc19f9249a2c9" sha1="d38f360c3276167bcbad18046e865c4233b57d45"/>
+	</game>
+</datafile>

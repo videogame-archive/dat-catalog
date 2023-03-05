@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX MSX - Games - [WAV]</name>
+		<description>MSX MSX - Games - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle - FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022)(Inufuto)(JP)">
+		<description>Ascend (2022)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022)(Inufuto)(JP).wav" size="4265108" crc="bd09e905" md5="aa818be166b9a995e52c61c03dc13058" sha1="81447b38f58cb532a32f35fac743269257fa3a85"/>
+	</game>
+	<game name="Flight Path 737 (1985)(Anirog)(FR)(Side A)">
+		<description>Flight Path 737 (1985)(Anirog)(FR)(Side A)</description>
+		<rom name="Flight Path 737 (1985)(Anirog)(FR)(Side A).wav" size="24756268" crc="1763f46b" md5="61e289f2d0bffe0c867cd9610fa1d5e8" sha1="0615c5eb4c2bb28193ed6062409e1b69a206c72f"/>
+	</game>
+	<game name="Flight Path 737 (1985)(Anirog)(FR)(Side B)">
+		<description>Flight Path 737 (1985)(Anirog)(FR)(Side B)</description>
+		<rom name="Flight Path 737 (1985)(Anirog)(FR)(Side B).wav" size="25322796" crc="e660ebca" md5="528a9c36f9bb5fa58c6ffe6c394b6cf8" sha1="25eb0bcffa49466cd452284ce1ed78db5a0082dc"/>
+	</game>
+	<game name="Ruptus (2021-10-10)(Inufuto)(JP)">
+		<description>Ruptus (2021-10-10)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-10-10)(Inufuto)(JP).wav" size="5516864" crc="a011c6db" md5="7e309cfd96b12f84feba7e950b201307" sha1="c63c23cf4cdcaa6506d49b67a61ad28f0bee9fdb"/>
+	</game>
+</datafile>

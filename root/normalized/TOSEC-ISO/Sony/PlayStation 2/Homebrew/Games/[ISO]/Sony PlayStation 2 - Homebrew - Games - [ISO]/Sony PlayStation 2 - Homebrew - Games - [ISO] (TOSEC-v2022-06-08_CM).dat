@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Homebrew - Games - [ISO]</name>
+		<description>Sony PlayStation 2 - Homebrew - Games - [ISO] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)">
+		<description>Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)</description>
+		<rom name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW).cue" size="140" crc="4bb19869" md5="67465638f9082e5fdbd8ec91c49909ef" sha1="7fed8d03902538554cf8070d41c79ba26cd66bef"/>
+		<rom name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW).iso" size="25051136" crc="bc46ca6d" md5="2588423b1743d6db2def9597f933e2b8" sha1="35c0140a2d4c353c301e59d750e511ccfb36af59"/>
+	</game>
+	<game name="Mazinger Z (2017)(Nova32 Animation Studios)(MX)(en)">
+		<description>Mazinger Z (2017)(Nova32 Animation Studios)(MX)(en)</description>
+		<rom name="Mazinger Z (2017)(Nova32 Animation Studios)(MX)(en).cue" size="140" crc="7c33f8dd" md5="0001a9cf6f0191e6a78071affa0b1245" sha1="707550f700c22814e3d11741dce154e15dfd64a7"/>
+		<rom name="Mazinger Z (2017)(Nova32 Animation Studios)(MX)(en).iso" size="22689792" crc="6ec3eba5" md5="edfdd17940a4b1ffe2b13cb32f4e0277" sha1="d28d06b3e2da5bf435a98bf1264ff6551367ff0d"/>
+	</game>
+	<game name="Sailor Moon RevengeX (2022-01-09)(Nova32 Animation Studios)(MX)(en)">
+		<description>Sailor Moon RevengeX (2022-01-09)(Nova32 Animation Studios)(MX)(en)</description>
+		<rom name="Sailor Moon RevengeX (2022-01-09)(Nova32 Animation Studios)(MX)(en).cue" size="156" crc="9b5e13d6" md5="a7bac0a9fcfe6ad06862a6ee41f205a9" sha1="49fa4b5636b7e3d142b7fade332e90afc221a500"/>
+		<rom name="Sailor Moon RevengeX (2022-01-09)(Nova32 Animation Studios)(MX)(en).iso" size="19617792" crc="03e0d386" md5="2d897f21744ea440a326dd8e7c8bfe05" sha1="6375c35ef5a731a13a703ade83b62a1ffb22f6ab"/>
+	</game>
+	<game name="Sailor Moon RevengeX v3 (2022-01-20)(Nova32 Animation Studios)(MX)(en)">
+		<description>Sailor Moon RevengeX v3 (2022-01-20)(Nova32 Animation Studios)(MX)(en)</description>
+		<rom name="Sailor Moon RevengeX v3 (2022-01-20)(Nova32 Animation Studios)(MX)(en).cue" size="159" crc="71b67b3b" md5="6cc52a4dfec7f427910cfe898ff3e741" sha1="c3762ecf1d6f5bb64bd4884b27e3a652b0f94376"/>
+		<rom name="Sailor Moon RevengeX v3 (2022-01-20)(Nova32 Animation Studios)(MX)(en).iso" size="19466240" crc="1af1fba9" md5="7d1efb60b53865504b4e6b1c2d1b8dc2" sha1="84752fb9c30d90025a2389ae843e68340d4ebdaa"/>
+	</game>
+	<game name="Zoth - Zombie Invasion (2007)(Nova32 Animation Studios)(MX)(en)">
+		<description>Zoth - Zombie Invasion (2007)(Nova32 Animation Studios)(MX)(en)</description>
+		<rom name="Zoth - Zombie Invasion (2007)(Nova32 Animation Studios)(MX)(en).cue" size="152" crc="28c0cd93" md5="8b7abb04371a2a77185ea48098e5d3e2" sha1="b66a330ace1099fa2c557485ddc5f87f05a7bd62"/>
+		<rom name="Zoth - Zombie Invasion (2007)(Nova32 Animation Studios)(MX)(en).iso" size="11122688" crc="206cc3c4" md5="b31cd79a905585c272e98550b95db1c2" sha1="a8eed68ac39cb831b92da280ed03afe1ef703d72"/>
+	</game>
+</datafile>

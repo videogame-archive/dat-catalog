@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Camputers Lynx - Games - [WAV]</name>
+		<description>Camputers Lynx - Games - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Reversals (1983)(Quazar Computing)(Side A)">
+		<description>Reversals (1983)(Quazar Computing)(Side A)</description>
+		<rom name="Reversals (1983)(Quazar Computing)(Side A).wav" size="17784876" crc="0c205d47" md5="0807a68593f79a37e54c19db69261471" sha1="79f375772de634bdb75d368d3c89d6638456eed8"/>
+	</game>
+	<game name="Reversals (1983)(Quazar Computing)(Side A)[a]">
+		<description>Reversals (1983)(Quazar Computing)(Side A)[a]</description>
+		<rom name="Reversals (1983)(Quazar Computing)(Side A)[a].wav" size="18022444" crc="8e94064c" md5="c69fb5a934869913957848830ed1438e" sha1="328239323cf6acaca2b131a22735f4814a72fe52"/>
+	</game>
+	<game name="Reversals (1983)(Quazar Computing)(Side B)">
+		<description>Reversals (1983)(Quazar Computing)(Side B)</description>
+		<rom name="Reversals (1983)(Quazar Computing)(Side B).wav" size="22880300" crc="6a5b2d39" md5="7df074543cf94422e3b5f5b393346899" sha1="d92fcd3e86a0f4db029b7ff51c6f17d36a15d1e4"/>
+	</game>
+</datafile>

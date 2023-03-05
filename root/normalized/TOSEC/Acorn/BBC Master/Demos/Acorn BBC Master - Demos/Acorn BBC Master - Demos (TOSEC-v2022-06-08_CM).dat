@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC Master - Demos</name>
+		<description>Acorn BBC Master - Demos (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Alien Daydream (2022-02-13)(Bitshifters)">
+		<description>Alien Daydream (2022-02-13)(Bitshifters)</description>
+		<rom name="Alien Daydream (2022-02-13)(Bitshifters).ssd" size="1024" crc="7885f1a0" md5="cac1ce1f55d1385f459471aa233b7ff2" sha1="9383b6eea59fc4b17843549791b5895edfcbc244"/>
+	</game>
+	<game name="Master ~ Mode 7 (2022-02-13)(Bitshifters)">
+		<description>Master ~ Mode 7 (2022-02-13)(Bitshifters)</description>
+		<rom name="Master ~ Mode 7 (2022-02-13)(Bitshifters).ssd" size="1024" crc="9aadaff2" md5="58c46e5be7802edafcb56815ff96856f" sha1="47a9b789e6bc8aeef88b4f49c1cf8b9631c0aa10"/>
+	</game>
+	<game name="Twinhead (2021-04-03)(Desire - Progen)[req 6502 coprocessor]">
+		<description>Twinhead (2021-04-03)(Desire - Progen)[req 6502 coprocessor]</description>
+		<rom name="Twinhead (2021-04-03)(Desire - Progen)[req 6502 coprocessor].ssd" size="138496" crc="212daf57" md5="6009a2d34353f105b04bdcd8840b85d2" sha1="cb494c5f98e7e66cfdfd86afbccb2c208d6714a1"/>
+	</game>
+</datafile>

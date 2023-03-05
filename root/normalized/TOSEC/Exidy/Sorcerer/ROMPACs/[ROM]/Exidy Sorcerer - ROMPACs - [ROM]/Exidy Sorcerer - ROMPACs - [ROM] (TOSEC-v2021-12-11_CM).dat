@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - ROMPACs - [ROM]</name>
+		<description>Exidy Sorcerer - ROMPACs - [ROM] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basic Revision B (19xx)(Exidy)">
+		<description>Basic Revision B (19xx)(Exidy)</description>
+		<rom name="Basic Revision B (19xx)(Exidy).rom" size="8192" crc="792ce8ad" md5="a0b0cac6676cb5633737c907d624e7ca" sha1="ebf00fdcf028ce9131ca62d81b8fd80a9055d114"/>
+	</game>
+	<game name="Exidy Standard BASIC Mod 1.01 (1980)(Software Source)">
+		<description>Exidy Standard BASIC Mod 1.01 (1980)(Software Source)</description>
+		<rom name="Exidy Standard BASIC Mod 1.01 (1980)(Software Source).rom" size="8192" crc="638ee239" md5="63564220232967a70758fa527856c03b" sha1="cc21fddcccc7005f1a4390448897f7250a965f62"/>
+	</game>
+	<game name="Exidy Standard BASIC v1.0 (1978)(Exidy Inc.)">
+		<description>Exidy Standard BASIC v1.0 (1978)(Exidy Inc.)</description>
+		<rom name="Exidy Standard BASIC v1.0 (1978)(Exidy Inc.).rom" size="8192" crc="3468d561" md5="109028fc5eb0aa984b126a4e1e6ca441" sha1="d9e6d50b97b6777720ca32c31760ed3d62dbe3fd"/>
+	</game>
+	<game name="Exidy Standard Monitor v1.0 (1978)(Exidy)">
+		<description>Exidy Standard Monitor v1.0 (1978)(Exidy)</description>
+		<rom name="Exidy Standard Monitor v1.0 (1978)(Exidy).rom" size="4096" crc="e778074f" md5="1687f41238474ecf2ef01188cb7bb8d7" sha1="2b965f904089898386800cad9110e52fe153c247"/>
+	</game>
+	<game name="Exidy Word Processor PAC (1979)(Exidy - Testan Scientific)">
+		<description>Exidy Word Processor PAC (1979)(Exidy - Testan Scientific)</description>
+		<rom name="Exidy Word Processor PAC (1979)(Exidy - Testan Scientific).rom" size="8193" crc="d603500f" md5="1cae1d54c2e083807ccb843408255e08" sha1="22e4ae3951cc1ac58bcef4376f07fd38423bdb36"/>
+	</game>
+	<game name="Exidy Word Processor PAC (1979)(Exidy - Testan Scientific)[a]">
+		<description>Exidy Word Processor PAC (1979)(Exidy - Testan Scientific)[a]</description>
+		<rom name="Exidy Word Processor PAC (1979)(Exidy - Testan Scientific)[a].rom" size="8192" crc="da999745" md5="5fa19631dd47d8fbfaf4b8acef003cb8" sha1="6acd340b4030c42f2292568a097aea11c7f17152"/>
+	</game>
+	<game name="Exidy Z80 Development PAC (1979)(Exidy)">
+		<description>Exidy Z80 Development PAC (1979)(Exidy)</description>
+		<rom name="Exidy Z80 Development PAC (1979)(Exidy).rom" size="8192" crc="dc738618" md5="326be99a3a03dfa5178ca775a670fffe" sha1="fe5290c4e8a5fd40f5d7263f7a32c67159904723"/>
+	</game>
+</datafile>

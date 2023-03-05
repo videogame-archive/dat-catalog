@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Analogue Pocket - Applications</name>
+		<description>Analogue Pocket - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Analogue Pocket Pocket Companion (2022-02-01)(bigmonsterteeth)">
+		<description>Analogue Pocket Pocket Companion (2022-02-01)(bigmonsterteeth)</description>
+		<rom name="Analogue Pocket Pocket Companion (2022-02-01)(bigmonsterteeth).pocket" size="131072" crc="2716cb53" md5="373a8304a83dec5b14d410a2974b6e08" sha1="0eceddb6eddc9c5ee778829bb9887f2179c68886"/>
+	</game>
+	<game name="Button Test (2022-01-04)(bbbbbr)">
+		<description>Button Test (2022-01-04)(bbbbbr)</description>
+		<rom name="Button Test (2022-01-04)(bbbbbr).pocket" size="65536" crc="46791d22" md5="ac9341a840bbb251a73e092baf88fd67" sha1="c9b784b537b002cf30b10a8ba84acbc0ecc20234"/>
+	</game>
+	<game name="Oblique Strategies GB (2022-07-02)(Flowers, Nicky)">
+		<description>Oblique Strategies GB (2022-07-02)(Flowers, Nicky)</description>
+		<rom name="Oblique Strategies GB (2022-07-02)(Flowers, Nicky).pocket" size="524288" crc="e1224b12" md5="34dcf543749934ee5d004f53833de645" sha1="aa4ce58748b4170725c740b479f08798f4586818"/>
+	</game>
+	<game name="Periodic Table v1.0 (2021-12-17)(Geonjaha)">
+		<description>Periodic Table v1.0 (2021-12-17)(Geonjaha)</description>
+		<rom name="Periodic Table v1.0 (2021-12-17)(Geonjaha).pocket" size="131072" crc="dcefe397" md5="c44efaa9f0c8696cd84b0478961177c0" sha1="8e5b5068c9c59df0dd3b45277a7a435f439d7c85"/>
+	</game>
+	<game name="Wyattmon Database (2022-04-11)(Wyattoons)">
+		<description>Wyattmon Database (2022-04-11)(Wyattoons)</description>
+		<rom name="Wyattmon Database (2022-04-11)(Wyattoons).pocket" size="131072" crc="5cd52828" md5="0076b4ae610a598a06e5689076f09c65" sha1="c86d3f7adff9fc8604d87231bdfb2ca8fbdb4494"/>
+	</game>
+</datafile>

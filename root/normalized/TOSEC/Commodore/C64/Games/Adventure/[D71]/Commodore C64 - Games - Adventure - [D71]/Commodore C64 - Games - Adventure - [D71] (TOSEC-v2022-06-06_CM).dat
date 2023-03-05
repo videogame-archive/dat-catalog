@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Adventure - [D71]</name>
+		<description>Commodore C64 - Games - Adventure - [D71] (TOSEC-v2022-06-06)</description>
+		<category>TOSEC</category>
+		<version>2022-06-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Last Ninja II, The (1988)(System 3)">
+		<description>Last Ninja II, The (1988)(System 3)</description>
+		<rom name="Last Ninja II, The (1988)(System 3).d71" size="349696" crc="95a01053" md5="b3bbb2e22b77e4e33f90623fcbc9f0e6" sha1="40e2616e6e81b51ce82ce2687c75d9adb6e63cad"/>
+	</game>
+	<game name="Vendetta (1990)(System 3)">
+		<description>Vendetta (1990)(System 3)</description>
+		<rom name="Vendetta (1990)(System 3).d71" size="349696" crc="4513e7cb" md5="e443a3a095b0c73d1be85caaa65ef245" sha1="07768f47232382a7127c58bd7381e879f28cc8e7"/>
+	</game>
+</datafile>

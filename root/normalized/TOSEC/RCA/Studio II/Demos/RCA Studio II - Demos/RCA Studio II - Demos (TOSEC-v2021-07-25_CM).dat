@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Studio II - Demos</name>
+		<description>RCA Studio II - Demos (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="RCA Demo (1977)(RCA)(US)">
+		<description>RCA Demo (1977)(RCA)(US)</description>
+		<rom name="RCA Demo (1977)(RCA)(US).bin" size="1024" crc="96f9a105" md5="da1c22bb9c56b681e66ae617ef4d1ccb" sha1="0375fd680ac7332f05acb35973b8d0756916b93d"/>
+	</game>
+</datafile>

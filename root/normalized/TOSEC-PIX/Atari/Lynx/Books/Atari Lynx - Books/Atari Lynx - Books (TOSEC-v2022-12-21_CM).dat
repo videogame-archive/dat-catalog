@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Books</name>
+		<description>Atari Lynx - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Lynx Hint Book (1993)(Atari Corporation)">
+		<description>Atari Lynx Hint Book (1993)(Atari Corporation)</description>
+		<rom name="Atari Lynx Hint Book (1993)(Atari Corporation).pdf" size="8455452" crc="720d56de" md5="9b19bf354fcbd0c81c75530c86932cdf" sha1="cfebe3fdbd19490c2b843385f3c1d5371e0ffed2"/>
+	</game>
+</datafile>

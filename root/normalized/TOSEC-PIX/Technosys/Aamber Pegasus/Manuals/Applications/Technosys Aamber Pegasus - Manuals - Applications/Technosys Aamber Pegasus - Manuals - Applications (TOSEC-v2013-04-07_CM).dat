@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Technosys Aamber Pegasus - Manuals - Applications</name>
+		<description>Technosys Aamber Pegasus - Manuals - Applications (TOSEC-v2013-04-07)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-04-07</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Forth v1.0 (1981)(Technosys Research Labs)(NZ)">
+		<description>Forth v1.0 (1981)(Technosys Research Labs)(NZ)</description>
+		<rom name="Forth v1.0 (1981)(Technosys Research Labs)(NZ).pdf" size="17057368" crc="cdabf23b" md5="f318c1b34d05a3bffc3d3fa13d4b6e53" sha1="93da5c46205d86c14484e7ba84deec5fe63652fe"/>
+	</game>
+	<game name="Micro-Assembler - Dissassembler (1981)(Technosys Research Labs)(NZ)">
+		<description>Micro-Assembler - Dissassembler (1981)(Technosys Research Labs)(NZ)</description>
+		<rom name="Micro-Assembler - Dissassembler (1981)(Technosys Research Labs)(NZ).pdf" size="4743873" crc="fdb0e4b0" md5="935324b85f7b7423f516dcc940bc2403" sha1="256523b38d6cfaeaca6d3a95c3570040953fd7ab"/>
+	</game>
+	<game name="Pegasus Extended Basic v1.0 (1981)(Technosys Research Labs)(NZ)">
+		<description>Pegasus Extended Basic v1.0 (1981)(Technosys Research Labs)(NZ)</description>
+		<rom name="Pegasus Extended Basic v1.0 (1981)(Technosys Research Labs)(NZ).pdf" size="9168801" crc="e98061b9" md5="1a6972a267d3ff90d45992dc271f815a" sha1="fdf12a2a099cf2c488a69192b02245b6f28261ff"/>
+	</game>
+	<game name="Pegasus Mini Word Processor (1981)(Technosys Research Labs)(NZ)">
+		<description>Pegasus Mini Word Processor (1981)(Technosys Research Labs)(NZ)</description>
+		<rom name="Pegasus Mini Word Processor (1981)(Technosys Research Labs)(NZ).pdf" size="4070372" crc="bd00fb73" md5="280666502fb6c011a5a167fb74eff866" sha1="fd043b6e3b1cb2378cc793b32795fc29c412cd49"/>
+	</game>
+	<game name="Pegasus Pascal v1.0 (1981)(Technosys Research Labs)(NZ)">
+		<description>Pegasus Pascal v1.0 (1981)(Technosys Research Labs)(NZ)</description>
+		<rom name="Pegasus Pascal v1.0 (1981)(Technosys Research Labs)(NZ).pdf" size="2181523" crc="c010d6c1" md5="29b3c56c54ad46e7ee37f13946d8a4bd" sha1="f72473b1adbc80efa99032bbf9ba2a77a5f01e63"/>
+	</game>
+</datafile>

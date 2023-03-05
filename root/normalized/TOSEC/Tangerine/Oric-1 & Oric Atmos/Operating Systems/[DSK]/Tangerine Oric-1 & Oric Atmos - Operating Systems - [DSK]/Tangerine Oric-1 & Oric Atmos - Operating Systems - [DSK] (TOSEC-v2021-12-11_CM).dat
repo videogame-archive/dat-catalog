@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Operating Systems - [DSK]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Operating Systems - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mini-Sedoric v2.1 (19xx)(-)">
+		<description>Mini-Sedoric v2.1 (19xx)(-)</description>
+		<rom name="Mini-Sedoric v2.1 (19xx)(-).dsk" size="281856" crc="88489774" md5="c8be4aabede5458a3958d6cbf2543902" sha1="209c1d08041b039d57a0187f956604391ab467cf"/>
+	</game>
+	<game name="Mini-Sedoric v2.1 (19xx)(-)[a]">
+		<description>Mini-Sedoric v2.1 (19xx)(-)[a]</description>
+		<rom name="Mini-Sedoric v2.1 (19xx)(-)[a].dsk" size="281856" crc="be417c3c" md5="5f97708b3f562f2c47285feae1395987" sha1="758b128b14af0a52ea6fc2a97e63c39b855e93bd"/>
+	</game>
+	<game name="Oric DOS v1.13 (19xx)(-)">
+		<description>Oric DOS v1.13 (19xx)(-)</description>
+		<rom name="Oric DOS v1.13 (19xx)(-).dsk" size="1024256" crc="cba97342" md5="90945c230ee502aefb1a4c1243a9f039" sha1="8fdd388fbcece14e43c3b38b8a94d0047e7c7a75"/>
+	</game>
+	<game name="Oric DOS v1.13 (19xx)(-)[a]">
+		<description>Oric DOS v1.13 (19xx)(-)[a]</description>
+		<rom name="Oric DOS v1.13 (19xx)(-)[a].dsk" size="1024256" crc="3f661016" md5="6f31aa43a3aa3b5bf44236c0c99d4f77" sha1="531c23153c23d845bf775abb10a5f9b029cb673d"/>
+	</game>
+	<game name="Oric DOS v1.13 (19xx)(-)[disk configuration only]">
+		<description>Oric DOS v1.13 (19xx)(-)[disk configuration only]</description>
+		<rom name="Oric DOS v1.13 (19xx)(-)[disk configuration only].dsk" size="256256" crc="b36d9f2a" md5="e6cd34f960f0c9697be22fc894e5238e" sha1="5994ff8a8322e62d83494457831528139f74dc63"/>
+	</game>
+	<game name="Randos v1.0 (1984)(ISPL)(GB)">
+		<description>Randos v1.0 (1984)(ISPL)(GB)</description>
+		<rom name="Randos v1.0 (1984)(ISPL)(GB).dsk" size="256256" crc="a95e67b9" md5="6a52bdad825411ae4e17fcf81fd456f7" sha1="b84e58d7c038465308a6202b08cf7bbdf64b30a4"/>
+	</game>
+	<game name="Randos v1.0 (1984)(ISPL)(GB)[a]">
+		<description>Randos v1.0 (1984)(ISPL)(GB)[a]</description>
+		<rom name="Randos v1.0 (1984)(ISPL)(GB)[a].dsk" size="256256" crc="f24e768d" md5="f9e326c3038ccd3fb9d85725d212ac12" sha1="df310deec58b9686b86090e6ad0f704e95695feb"/>
+	</game>
+	<game name="Randos v2.0 (2002)(ISPL - Francès, Fabrice)(en-fr)">
+		<description>Randos v2.0 (2002)(ISPL - Francès, Fabrice)(en-fr)</description>
+		<rom name="Randos v2.0 (2002)(ISPL - Francès, Fabrice)(en-fr).dsk" size="256256" crc="5aaacae6" md5="30919af426ef29275594eb58ab5af989" sha1="cf76b22dc903cc0b5ee4bbdc6b642e73925a23ec"/>
+	</game>
+	<game name="Sedoric v2.1 (19xx)(OUM - Oric Enthusiast)">
+		<description>Sedoric v2.1 (19xx)(OUM - Oric Enthusiast)</description>
+		<rom name="Sedoric v2.1 (19xx)(OUM - Oric Enthusiast).dsk" size="1037056" crc="4cfddc0b" md5="1d189922ff4484913a0cfc9eda471002" sha1="463c0bda24616316ef3f907980eb7b3783961fc0"/>
+	</game>
+	<game name="Sedoric v3.006 (1996)(Club Europe Oric)(en)">
+		<description>Sedoric v3.006 (1996)(Club Europe Oric)(en)</description>
+		<rom name="Sedoric v3.006 (1996)(Club Europe Oric)(en).dsk" size="1049856" crc="513ebf23" md5="a8d7e2f11921d01ba29bad0628f7e2a8" sha1="a86750dbca1e2ad34ff6c9a0573782534393e449"/>
+	</game>
+	<game name="Sedoric v3.006 (1996)(Club Europe Oric)(en)[b]">
+		<description>Sedoric v3.006 (1996)(Club Europe Oric)(en)[b]</description>
+		<rom name="Sedoric v3.006 (1996)(Club Europe Oric)(en)[b].dsk" size="537856" crc="138152be" md5="b04ce6cba3f0e538f1d8b32dcf8df1f1" sha1="b5171c0fd604bbb1f22e5786382bc55d03ddf815"/>
+	</game>
+	<game name="Sedoric v3.006 (1996)(Club Europe Oric)(fr)">
+		<description>Sedoric v3.006 (1996)(Club Europe Oric)(fr)</description>
+		<rom name="Sedoric v3.006 (1996)(Club Europe Oric)(fr).dsk" size="537856" crc="23c9f804" md5="5e49d083844e7208e241a7e7d8add5c1" sha1="4cc7c19ecf04300e49fb0b84ce64a2899632b3ab"/>
+	</game>
+	<game name="Sedoric v3.006 (1996)(Club Europe Oric)(fr)[a]">
+		<description>Sedoric v3.006 (1996)(Club Europe Oric)(fr)[a]</description>
+		<rom name="Sedoric v3.006 (1996)(Club Europe Oric)(fr)[a].dsk" size="537856" crc="b8c34b9a" md5="e9d2dac0a827ed452947b0ad343c9134" sha1="4417e155f66d3f20d6722b972c4272cef01f6cfa"/>
+	</game>
+	<game name="Super DOS 2.2 (19xx)(-)">
+		<description>Super DOS 2.2 (19xx)(-)</description>
+		<rom name="Super DOS 2.2 (19xx)(-).dsk" size="256256" crc="bd9bf759" md5="2e3054382a2537e1741109c25e5975c2" sha1="1511ed9796951dac0654b730bbf8f9922b9fe02f"/>
+	</game>
+	<game name="T.R.A.N. Disk Operating System v3.2 (1984)(Technologie Recherche - Applications Nouvelles)(FR)[req Jasmin]">
+		<description>T.R.A.N. Disk Operating System v3.2 (1984)(Technologie Recherche - Applications Nouvelles)(FR)[req Jasmin]</description>
+		<rom name="T.R.A.N. Disk Operating System v3.2 (1984)(Technologie Recherche - Applications Nouvelles)(FR)[req Jasmin].dsk" size="525056" crc="2b393d50" md5="0882f37988907003233e07bcd40e93db" sha1="4dc0d3ca2b0cf963c0a23908f532502de42e0dbf"/>
+	</game>
+	<game name="XL-DOS v0.6 (1985-02)(Micro Programmes)(FR)[cr S.L - JM][h S.L - JM]">
+		<description>XL-DOS v0.6 (1985-02)(Micro Programmes)(FR)[cr S.L - JM][h S.L - JM]</description>
+		<rom name="XL-DOS v0.6 (1985-02)(Micro Programmes)(FR)[cr S.L - JM][h S.L - JM].dsk" size="281856" crc="957468b2" md5="6b70448a0e032beb0a1daa6b2660ecf9" sha1="0b99abf19f80f5c1e6fc02c95e0606b4085da07f"/>
+	</game>
+</datafile>

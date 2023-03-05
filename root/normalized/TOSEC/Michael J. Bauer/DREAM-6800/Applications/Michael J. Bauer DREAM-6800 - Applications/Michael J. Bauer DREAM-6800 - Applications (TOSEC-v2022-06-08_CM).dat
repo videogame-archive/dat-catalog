@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Michael J. Bauer DREAM-6800 - Applications</name>
+		<description>Michael J. Bauer DREAM-6800 - Applications (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dreamsoft 6800 Disassembler, The (1982)(Dreamsoft)(AU)">
+		<description>Dreamsoft 6800 Disassembler, The (1982)(Dreamsoft)(AU)</description>
+		<rom name="Dreamsoft 6800 Disassembler, The (1982)(Dreamsoft)(AU).bin" size="1280" crc="a72c1a4e" md5="b3f7d856337c0eaf9586329ac417e2b6" sha1="bebfafdccd70e8b76943455a4523de000ad57b98"/>
+	</game>
+	<game name="Dreamsoft Package No. 1 (1980)(Dreamsoft)(AU)">
+		<description>Dreamsoft Package No. 1 (1980)(Dreamsoft)(AU)</description>
+		<rom name="Dreamsoft Package No. 1 (1980)(Dreamsoft)(AU).bin" size="2048" crc="e552cae3" md5="1a6cdf88f7c0c6515ebd1808c1adc628" sha1="0b90504922d46b9c46278924768c45b1b276709f"/>
+	</game>
+</datafile>

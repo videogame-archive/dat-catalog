@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>136</id>
+		<name>Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted)</name>
+		<description>Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted)</description>
+		<version>20230226-121043</version>
+		<author>Gefflon, Hiccup, rarenight, u53r123, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Choujin Baseball Stadium - Nekketsu Story (Japan) (v1.1, v1040) (Update)" id="2145">
+		<description>Choujin Baseball Stadium - Nekketsu Story (Japan) (v1.1, v1040) (Update)</description>
+		<game_id>0004000E001CA100</game_id>
+		<rom name="Choujin Baseball Stadium - Nekketsu Story (Japan) (v1.1, v1040) (Update).cia" size="27386944" crc="040a65ad" md5="7451900ea254a804fbbdae0c8740532f" sha1="87445e724df8df6978aa1be930c5cb0aa4599ac3"/>
+	</game>
+	<game name="Cube Creator DX (Japan) (v1.1.3, v4208) (Update)" id="2176">
+		<description>Cube Creator DX (Japan) (v1.1.3, v4208) (Update)</description>
+		<game_id>0004000E001B4A00</game_id>
+		<rom name="Cube Creator DX (Japan) (v1.1.3, v4208) (Update).cia" size="19903488" crc="10aca714" md5="359e15f73ee86ef043226963c68ae0be" sha1="8c6454baa9586be90bacac0cc917c9a503a49372"/>
+	</game>
+	<game name="Dead or Alive - Dimensions - Pack 1 (Europe) (DLC)" id="0622">
+		<description>Dead or Alive - Dimensions - Pack 1 (Europe) (DLC)</description>
+		<game_id>0004000000038A00</game_id>
+		<rom name="0000038a.dat" size="14040" crc="d2f1f2f0" md5="b008902936f8bedafe343f3e6eed3e94" sha1="6eb54284557d3e553ea291b610427798c92764e2"/>
+		<rom name="0000038a_.dat" size="1040" crc="bf05d693" md5="4e46409906f2f8e2c21404071848283f" sha1="09bb49cab345156e1778cb1023a43869a8527ce9"/>
+		<rom name="AYA_DLC000.bacs" size="1608" crc="8d3e31c2" md5="52b70e658335e355944f40dc6c9b071a" sha1="cf115a16e77bbd3064910d8ea911e6d7f9d068b1"/>
+		<rom name="AYA_DLC000.bcmdl" size="615680" crc="56a68219" md5="b5220c91545fb4df2a68064a21b6d24b" sha1="a64bd17b0049744235ab4c88d811d2e0e30f5257"/>
+		<rom name="AYA_DLC001.bacs" size="1720" crc="5a86c0ac" md5="cf5e98a1610753b14db8089dd5197348" sha1="fd30eba6d7fca1fff16aa9f4e154352a3a16cc68"/>
+		<rom name="AYA_DLC001.bcmdl" size="638592" crc="bb9fbdeb" md5="eabcd014af186e49a1cd5c82212fa709" sha1="319c0b1a4d257fd1bcccd01be57d22d0d20f4d42"/>
+		<rom name="AYA_DLC002.bacs" size="1048" crc="fbd4cea4" md5="cb2f61721c7e6191b13c311b370aa9a9" sha1="63a3ed7e4bd0736065b1580113d7e95dc00174ae"/>
+		<rom name="AYA_DLC002.bcmdl" size="638208" crc="59b84892" md5="821208863a9160ac07efe69a206cc06a" sha1="f37d5a86fb477cdcc77abfca6e43c14de62e6f8a"/>
+		<rom name="BAS_DLC000.bacs" size="696" crc="28696a69" md5="fb76803729545e0e0aaf2e644d20c36c" sha1="a61e0c808cbf1ab5399f9b19f39294fa52505d8b"/>
+		<rom name="BAS_DLC000.bcmdl" size="666496" crc="d06b8b86" md5="ed2964595d718caa9304bac1c9fab1d2" sha1="8e7f4c0fe57b04422fc1004ef1ab0dd70a5b4523"/>
+		<rom name="BAY_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="BAY_DLC000.bcmdl" size="638976" crc="1f0970e5" md5="7c5384bf544bfd52841e9f426348818b" sha1="44fa11c415bf07ab7e9615c0618a88b52aedfbdb"/>
+		<rom name="BOY_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="BOY_DLC000.bcmdl" size="606720" crc="b1c1a804" md5="be06bb4f61902a9fc02a9a4071331198" sha1="c572a202266d6a567ff727c76388663b0e7e6d65"/>
+		<rom name="BRA_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="BRA_DLC000.bcmdl" size="621568" crc="aee7f4f2" md5="27fe23b68f9b4951f3106c3adc6262a0" sha1="936ad971c21628504cdeedf8502426937f5b56a0"/>
+		<rom name="CRI_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="CRI_DLC000.bcmdl" size="615040" crc="6bcdbcce" md5="c53e56d7c6deb106c92a475bba78bc2f" sha1="0bbcbf7f12d2027a112c680909b245ccd890b738"/>
+		<rom name="CRI_DLC001.bacs" size="408" crc="b8735c9c" md5="948a596f7b710312da1f74bca151332f" sha1="2bf1572ce7fdfc2311eed84a3bf2f8e8816dfd7a"/>
+		<rom name="CRI_DLC001.bcmdl" size="632192" crc="144aeef7" md5="3ce1d770feacb0124a9984018f044d87" sha1="8be733c48fc6f8eab9e01ea68b47671fa5a96c6a"/>
+		<rom name="EIN_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="EIN_DLC000.bcmdl" size="598784" crc="d3d95b34" md5="d3953e5d3bbc8a3405c14ee7c93f34a9" sha1="ebec6a8367fe739e4fa1f87fbecb7b906f87c721"/>
+		<rom name="GEN_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="GEN_DLC000.bcmdl" size="623616" crc="02992b7d" md5="6387ad2ec731723a6fdda82800b0bf6f" sha1="a8a0217c0ef5f593b01e4c23ee2e62e0e300b4ed"/>
+		<rom name="HAK_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="HAK_DLC000.bcmdl" size="637440" crc="fb077930" md5="141e5dd3249b88c1353c38307525f859" sha1="514a754fdb572c3d6485260acbd146407d5bd090"/>
+		<rom name="HAK_DLC001.bacs" size="1732" crc="f4b17d0e" md5="1edf16adeac2e3da1174612934a11251" sha1="6b06cd4fa70203004df3b4ceeff45e595183770b"/>
+		<rom name="HAK_DLC001.bcmdl" size="669056" crc="9c7c7b8b" md5="3b905019e495057d57383ce3c4aabcf9" sha1="6baf1fc8793f30f6c2baba41af4799a7288faccb"/>
+		<rom name="HEL_DLC000.bacs" size="808" crc="d1c726ba" md5="0ff147cbffb2b5cc667c1a83c4a3859b" sha1="fd39b1afdb799c7cdae92eb36e861e2ba7324d57"/>
+		<rom name="HEL_DLC000.bcmdl" size="878848" crc="56968a91" md5="4da8d82fdb5c38d384c0d43b6c9a4b8d" sha1="e6b37c51e8433c5d34db099e7bfb116062e3f022"/>
+		<rom name="HEL_DLC001.bacs" size="784" crc="2908e4a7" md5="da225297aa05ea34916428bfda0a76df" sha1="b53102239cd56c5e05d3c511c453771257a63676"/>
+		<rom name="HEL_DLC001.bcmdl" size="532992" crc="0b45d7e8" md5="d1168380c00b03064c8afb4346752412" sha1="c520370e4e01aa77ffff776ecbf6c45e65ff9d26"/>
+		<rom name="HYT_DLC000.bacs" size="728" crc="717b43d9" md5="23114c2b519f4f8a01896a3ef9ddfdea" sha1="967f36d5f9ebd8447610f00e1b3ff4c20380449a"/>
+		<rom name="HYT_DLC000.bcmdl" size="679424" crc="4c370903" md5="60b4a83288da16649d8bc80fcd79e260" sha1="b2559364dcea9b630de91729ffb4f68f5ff2b5ab"/>
+		<rom name="JAN_DLC000.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="JAN_DLC000.bcmdl" size="613376" crc="7f106b95" md5="52fcdbcda5ea7da4695a35f2909f8cef" sha1="ba8abf1bc79de98bec146c8b6f4f268d1d03c7d1"/>
+		<rom name="KAS_DLC000.bacs" size="1552" crc="b0c99997" md5="ecd812bcfc49f60ab41823c86c87aa35" sha1="84fa76543f0275952418a72e4cba06978e79ecbc"/>
+		<rom name="KAS_DLC000.bcmdl" size="590464" crc="a8345545" md5="333e2c30ee67a21df29fd3da413bdb27" sha1="0d7f764b9dfcb77dae830e5c1af97342870c10bc"/>
+		<rom name="KAS_DLC001.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="KAS_DLC001.bcmdl" size="647552" crc="bd74bb60" md5="44005c5cae6e5ae306979879e21ac9c7" sha1="f31008cfecea1efc51f26b9736d32c5a15571046"/>
+		<rom name="KAS_DLC002.bacs" size="2080" crc="20701d5e" md5="527b88d6d3c2b29fda4fc011987da226" sha1="17b1df0a130e1fc9ba79e6b948cd41ee19d9aa77"/>
+		<rom name="KAS_DLC002.bcmdl" size="727168" crc="28aa3190" md5="54570cff75d6b7d550a8ac9f105efb22" sha1="f1c2453ee7a815b5cc2a4d778e8c321f044c5e9a"/>
+		<rom name="KOR_DLC000.bacs" size="368" crc="cb9fbeef" md5="6d143b8234c5ed846529c1de68978036" sha1="9b08661b3c8c18aaaf22df39b933e569190a5947"/>
+		<rom name="KOR_DLC000.bcmdl" size="796416" crc="4d9c4c4e" md5="baea3ab3c0c6023091d2da88ab8b8504" sha1="66adb7e2948d431a1c7cdf2ea4eea00ac0f722d6"/>
+		<rom name="KOR_DLC001.bacs" size="1296" crc="f2398925" md5="2c302c9323a5cb6295a9c43dd2bf3ca3" sha1="2921cbfc75e09548b96c4a02db769fc9af38e27f"/>
+		<rom name="KOR_DLC001.bcmdl" size="598144" crc="045ba58e" md5="0dd8937d7a22a4df5e7306a96dd04a5a" sha1="dba116a9657603430592ea3454a6856222f1246b"/>
+		<rom name="KOR_DLC002.bacs" size="1128" crc="c4360f73" md5="c2796ad8cdad700932431bc2dda7a26c" sha1="87af5882fe7ad1cec751afe643fa66b25f808612"/>
+		<rom name="KOR_DLC002.bcmdl" size="701952" crc="1b1f354a" md5="65c8bd0152928ebe4f9b6f1e6d4de1a4" sha1="9154601fe6ccec3cb8b68f556bbc0ac5a9cfe673"/>
+		<rom name="LEI_DLC000.bacs" size="1568" crc="6fc78caa" md5="58abc7c8a7b2e7a8bd9415789567eb08" sha1="b9dfb5ead699a544cd183e94d3c184f7fa4c88ac"/>
+		<rom name="LEI_DLC000.bcmdl" size="621568" crc="8d35641a" md5="8013f0366695bac45ca650bdac5745fb" sha1="8a19ab4ed7ee087a76b2d0350e8090a4b1a2c219"/>
+		<rom name="LEI_DLC001.bacs" size="1568" crc="ed868fb7" md5="a655d515fbad82443ba6e46808aff2dc" sha1="d0d0ad4ff135f46219a0c9cf6d81be2232567cc3"/>
+		<rom name="LEI_DLC001.bcmdl" size="604672" crc="616a689b" md5="d2eb78cda19ac5898a3dd1cfa83922ca" sha1="3988be431aba69b09de0ccf839534cb15a365762"/>
+		<rom name="LEI_DLC002.bacs" size="8" crc="e168d193" md5="f6bd6b3389b872033d462029172c8612" sha1="f4533a73e647c710d3ddbfb253de66e1ac8a6891"/>
+		<rom name="LEI_DLC002.bcmdl" size="647680" crc="a85a2ef3" md5="7941267111ddfa275818b74742d38973" sha1="ba5a6931e9272471b4cf6356e62ec73d136bfb67"/>
+		<rom name="LEO_DLC000.bacs" size="1144" crc="3cdf690d" md5="928faea6e94a71923414aea513d96668" sha1="ad7367ba6456fa4cd74b8eb8aaa7c1697e554c8e"/>
+		<rom name="LEO_DLC000.bcmdl" size="703488" crc="ef330c70" md5="912c72dfa6cea153eed289d389fe7f31" sha1="2b40e6fa2cbc1d36a4679c737169341a38941c1d"/>
+		<rom name="LIS_DLC000.bacs" size="360" crc="90d93886" md5="d02f6073671098200ae31965d83aa39e" sha1="34e49873510130facccc18146d95118a1c9b8daf"/>
+		<rom name="LIS_DLC000.bcmdl" size="694528" crc="9a1b11d4" md5="855d0909d18dd4b4acfe7088f277bb54" sha1="4021f6d334f0758a274f48a60225195c990bc238"/>
+		<rom name="LIS_DLC001.bacs" size="732" crc="885f25a1" md5="e6639c011b5b4cf569ece9c245a47f0e" sha1="1da798a7c5911043a0d4c757fc0e422f5dc41a41"/>
+		<rom name="LIS_DLC001.bcmdl" size="585216" crc="f68dea4f" md5="c77c67308a095570b2da4198cc25ca1d" sha1="20692af1d338b7a3535a8c5714f24715e02bd056"/>
+		<rom name="RYU_DLC000.bacs" size="880" crc="030599b7" md5="2ce053c1d1d9dfef35233fb7face6773" sha1="311c35e44a4c59d714afc480e55536c89f672781"/>
+		<rom name="RYU_DLC000.bcmdl" size="689408" crc="d47bf67d" md5="3cb38b50a7f4c8630f91eda50414da2f" sha1="ca87c9dceb4afdfdfc5a73f5e143f61b891a7aeb"/>
+		<rom name="TIN_DLC000.bacs" size="360" crc="90d93886" md5="d02f6073671098200ae31965d83aa39e" sha1="34e49873510130facccc18146d95118a1c9b8daf"/>
+		<rom name="TIN_DLC000.bcmdl" size="697728" crc="f14ccbb9" md5="5b7c708af6c650065fc45d0a08ccaa97" sha1="8862ade7c96da3312fd4d9eac86c0a8edfd6ebfd"/>
+		<rom name="TIN_DLC001.bacs" size="264" crc="03706e9c" md5="3f55e659eb99f5c3a3f3d77a08035272" sha1="b8a58d89dc80e8c5b19399030c305fce6e7541bb"/>
+		<rom name="TIN_DLC001.bcmdl" size="633344" crc="adfedd08" md5="35409576f0aee81e043a9177a59b2af1" sha1="483c1898eb910681110218d09a6aa16130c795e6"/>
+		<rom name="ZAC_DLC000.bacs" size="328" crc="81f64a27" md5="c9a4a4eeecd6de7c7e7c32bd266a2d71" sha1="0260b15eafdc4d3059b01ad53cd9de916a833337"/>
+		<rom name="ZAC_DLC000.bcmdl" size="691968" crc="6df87eec" md5="048c70ad80ec1b3d4477481410c6afb3" sha1="cd3ccecdde8e5937490852c5670d1a56c6791fea"/>
+	</game>
+	<game name="Karous - The Beast of Re-Eden (Japan) (v2.0.0, v2128) (Update)" id="2101">
+		<description>Karous - The Beast of Re-Eden (Japan) (v2.0.0, v2128) (Update)</description>
+		<game_id>0004000E00107F00</game_id>
+		<rom name="Karous - The Beast of Re-Eden (Japan) (v2.0.0, v2128) (Update).cia" size="6075392" crc="88a812d7" md5="dce237c4b2c3b92bc97542a163f33ce9" sha1="6161ffa76d86456bc710532a9e6c59094fe4bc3b"/>
+	</game>
+	<game name="Link-a-Pix Colour (Europe, Australia) (v1.01, v1040) (Update)" id="2108">
+		<description>Link-a-Pix Colour (Europe, Australia) (v1.01, v1040) (Update)</description>
+		<game_id>0004000E001D0E00</game_id>
+		<rom name="Link-a-Pix Colour (Europe, Australia) (v1.01, v1040) (Update).cia" size="8885184" crc="4b157451" md5="7ca7c424532bc439654685fdb1f6db6a" sha1="1b82d6836cf03a70f3cef66334d4f5420051a512"/>
+	</game>
+	<game name="Mario &amp; Luigi RPG3 DX (Japan) (v1.2, v2096) (Update)" id="2118">
+		<description>Mario &amp; Luigi RPG3 DX (Japan) (v1.2, v2096) (Update)</description>
+		<game_id>0004000E001CA900</game_id>
+		<rom name="Mario &amp; Luigi RPG3 DX (Japan) (v1.2, v2096) (Update).cia" size="28738496" crc="e9c838ba" md5="98235f9d61878d52aca0a7e38970b0f5" sha1="e7953c56d85e2e236eff91366897f7eff73b1084"/>
+	</game>
+	<game name="Mario Party - Star Rush (Korea) (v1.1.0, v1040) (Update)" id="2119">
+		<description>Mario Party - Star Rush (Korea) (v1.1.0, v1040) (Update)</description>
+		<game_id>0004000E001AC700</game_id>
+		<rom name="Mario Party - Star Rush (Korea) (v1.1.0, v1040) (Update).cia" size="6456256" crc="39b7cd14" md5="d486c30a5a20c7258ba5fbd1c1e8365b" sha1="f3449d169e2cdadecfb60437235ef12f74c56306"/>
+	</game>
+	<game name="Medarot Classics - Kabuto Ver. (Japan) (v2.0, v2112) (Update)" id="2070">
+		<description>Medarot Classics - Kabuto Ver. (Japan) (v2.0, v2112) (Update)</description>
+		<game_id>0004000E001C2A00</game_id>
+		<rom name="Medarot Classics - Kabuto Ver. (Japan) (v2.0, v2112) (Update).cia" size="2282496" crc="60e52659" md5="811229d3c2c2208567f73f637ab2b57b" sha1="0e6212db65c538a88b74c195c942a3923a8c9767"/>
+	</game>
+	<game name="Medarot Classics - Kuwagata Ver. (Japan) (v2.0, v2112) (Update)" id="2069">
+		<description>Medarot Classics - Kuwagata Ver. (Japan) (v2.0, v2112) (Update)</description>
+		<game_id>0004000E001C2B00</game_id>
+		<rom name="Medarot Classics - Kuwagata Ver. (Japan) (v2.0, v2112) (Update).cia" size="2307072" crc="777a6897" md5="38163a7a8a171d4b6d671835ae00dc0c" sha1="0a712c29278518dc29355977de9cdb688e3f2292"/>
+	</game>
+	<game name="Mighty Gunvolt Burst (Japan) (v1.3.1, v4176) (Update)" id="2120">
+		<description>Mighty Gunvolt Burst (Japan) (v1.3.1, v4176) (Update)</description>
+		<game_id>0004000E001C6900</game_id>
+		<rom name="Mighty Gunvolt Burst (Japan) (v1.3.1, v4176) (Update).cia" size="14054400" crc="45b8cef1" md5="adbfc7783207cd64b8e401474b1f3249" sha1="28c8532d9cc58e6c45941e78ddf7222dd323047e"/>
+	</game>
+	<game name="Monster Hunter XX Data Migration App (Japan) (v1.1.0, v1040) (Update)" id="2121">
+		<description>Monster Hunter XX Data Migration App (Japan) (v1.1.0, v1040) (Update)</description>
+		<game_id>0004000E001BEB00</game_id>
+		<rom name="Monster Hunter XX Data Migration App (Japan) (v1.1.0, v1040) (Update).cia" size="17138624" crc="ef808f14" md5="f1d0bdcca92c35cb8e74505db836bf6e" sha1="56cc88bb376abe84a765d8888574fd0d803a3380"/>
+	</game>
+	<game name="Osomatsu-san Neat Dasshutsu Spiral!! (Japan) (v1.1, v1056) (Update)" id="2126">
+		<description>Osomatsu-san Neat Dasshutsu Spiral!! (Japan) (v1.1, v1056) (Update)</description>
+		<game_id>0004000E001BCF00</game_id>
+		<rom name="Osomatsu-san Neat Dasshutsu Spiral!! (Japan) (v1.1, v1056) (Update).cia" size="1741760" crc="b0dcee6d" md5="de88bae0c008216c8addd6ce052d2051" sha1="2ad6e3cca355b5f63bd48a9876d9d31a1ab5a99c"/>
+	</game>
+	<game name="RPG Tsukuru Fes Player (Japan) (v1.1.4, v5232) (Update)" id="2154">
+		<description>RPG Tsukuru Fes Player (Japan) (v1.1.4, v5232) (Update)</description>
+		<game_id>0004000E0019ED00</game_id>
+		<rom name="RPG Tsukuru Fes Player (Japan) (v1.1.4, v5232) (Update).cia" size="55038976" crc="a5bcb04c" md5="201ae12ae8c9f850636a9dfc50132135" sha1="8eff5854235d193037b1c138bed0ea38a8007b73"/>
+	</game>
+	<game name="Shovel Knight (Japan) (v4.0A, v3120) (Update)" id="1922">
+		<description>Shovel Knight (Japan) (v4.0A, v3120) (Update)</description>
+		<rom name="Shovel Knight (Japan) (v4.0A, v3120) (Update).cia" size="180270080" crc="3668edde" md5="90839b8b95fae27a96643aef5d0613a0" sha1="c26d3eb3479fc74e805f898a28853e9589bc8b4c"/>
+	</game>
+	<game name="Shovel Knight (Japan) (v4.1, v4160) (Update)" id="1921">
+		<description>Shovel Knight (Japan) (v4.1, v4160) (Update)</description>
+		<rom name="Shovel Knight (Japan) (v4.1, v4160) (Update).cia" size="180319232" crc="357dcccf" md5="962eda75f61bfda4bad159775f35b8bf" sha1="c373df9fb5df7527f281b374d5db5c672edd9595"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (Europe, Australia) (v4.0A, v5200) (Update)" id="0360">
+		<description>Shovel Knight - Treasure Trove (Europe, Australia) (v4.0A, v5200) (Update)</description>
+		<rom name="Shovel Knight - Treasure Trove (Europe, Australia) (v4.0A, v5200) (Update).cia" size="180630528" crc="a5150357" md5="1ae12f054e235eede693230847498c7c" sha1="ddd698d9ba3af8e1bfc830c5b1e63f5728cd1db4"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (USA) (v4.0A, v4160) (Update)" id="0362">
+		<description>Shovel Knight - Treasure Trove (USA) (v4.0A, v4160) (Update)</description>
+		<rom name="Shovel Knight - Treasure Trove (USA) (v4.0A, v4160) (Update).cia" size="180044800" crc="cd4af0f5" md5="d9bff4abdcd663e9392442b2adee5c89" sha1="559374d85a9538651eb2f990697f7eb381bd1c5b"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (Europe, Australia) (v4.1, v6240) (Update)" id="1923">
+		<description>Shovel Knight - Treasure Trove (Europe, Australia) (v4.1, v6240) (Update)</description>
+		<rom name="Shovel Knight - Treasure Trove (Europe, Australia) (v4.1, v6240) (Update).cia" size="180675584" crc="3e7e51be" md5="0e9064a22cfef45d654a1680af7c9df1" sha1="51a33c901b800f9eb301ec7af5788a50c20613b8"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update)" id="1925">
+		<description>Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update)</description>
+		<rom name="Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update).cia" size="180089856" crc="0979c5d1" md5="5d933935324363107d4bdac6106a7f3d" sha1="c87e4afd373738e501d758d9514e0db4e75ffad0"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.1, v7280) (Embedded Update)" id="1924">
+		<description>Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.1, v7280) (Embedded Update)</description>
+		<game_id>000400000012CB00</game_id>
+		<rom name="Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.1, v7280) (Embedded Update).cia" size="248035648" crc="e7fd5d40" md5="d52e8cee7c9bea868cec0a5cb1c29d4c" sha1="acba3151638350deb2caa23bc8f6e97629efd653"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.0A, v6240) (Embedded Update)" id="0363">
+		<description>Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.0A, v6240) (Embedded Update)</description>
+		<rom name="Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.0A, v6240) (Embedded Update).cia" size="248005632" crc="d67c3387" md5="074c031b460c272819b81d93f0767746" sha1="ed7c8f7f8bfdf4f12a14e4a9250694e4eafe6bf6"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update)" id="0364">
+		<description>Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update)</description>
+		<rom name="Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update).cia" size="247419904" crc="b2c82273" md5="87f3b8725f0659603229af74682aed54" sha1="0ba103429c1036d32c6138dc5b10010be9ab3236"/>
+	</game>
+	<game name="Story of Seasons - Trio of Towns (Europe) (v1.1, v1040) (Update)" id="2142">
+		<description>Story of Seasons - Trio of Towns (Europe) (v1.1, v1040) (Update)</description>
+		<game_id>0004000E001B5500</game_id>
+		<rom name="Story of Seasons - Trio of Towns (Europe) (v1.1, v1040) (Update).cia" size="4670400" crc="4c880f56" md5="f0d16ef332014cc2f80ef5a4897bd0ef" sha1="c9dca280a3a74b47a57ea72fcb8e5b34039dd539"/>
+	</game>
+	<game name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 1 (Japan) (DLC)" id="0564">
+		<description>Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 1 (Japan) (DLC)</description>
+		<game_id>0004008C00190E00</game_id>
+		<rom name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 1 (Japan) (DLC).cia" size="132376448" crc="7417ec06" md5="d5cbb73e9d72010bcfe44c95ec37bd3a" sha1="4332d7163a4c423e1de09c17b0ef4880b2d86eda"/>
+	</game>
+	<game name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 2 (Japan) (DLC)" id="0565">
+		<description>Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 2 (Japan) (DLC)</description>
+		<game_id>0004008C00190E00</game_id>
+		<rom name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 2 (Japan) (DLC).cia" size="169211968" crc="0204a018" md5="8681bc4f4bd56114a5a4f81674832fa5" sha1="42373cc7ac0609f939f22a0916af5208e7f96510"/>
+	</game>
+	<game name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 3 (Japan) (DLC)" id="0566">
+		<description>Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 3 (Japan) (DLC)</description>
+		<game_id>0004008C00190E00</game_id>
+		<rom name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 3 (Japan) (DLC).cia" size="158734528" crc="43c46267" md5="6f895f453d85db5ac29605cd363a7d17" sha1="88bc79c509be5c68f32aa71275e6635da96dafd5"/>
+	</game>
+	<game name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 4 (Japan) (DLC)" id="0567">
+		<description>Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 4 (Japan) (DLC)</description>
+		<game_id>0004008C00190E00</game_id>
+		<rom name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 4 (Japan) (DLC).cia" size="159561920" crc="790143bf" md5="6912677144514a57ecbda5b0e6e27833" sha1="69f1d3411255fbe8d7131e7f253e31e915aab5cf"/>
+	</game>
+	<game name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 5 (Japan) (DLC)" id="0568">
+		<description>Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 5 (Japan) (DLC)</description>
+		<game_id>0004008C00190E00</game_id>
+		<rom name="Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 5 (Japan) (DLC).cia" size="175720640" crc="71c02419" md5="a4432a73398b0d0b7dc4f18535fb786a" sha1="8b070d9513849da0fd1f5c8e444f774e0422573e"/>
+	</game>
+	<game name="Yo-Kai Watch 3 (USA) (v1.2) (Update)" id="0368">
+		<description>Yo-Kai Watch 3 (USA) (v1.2) (Update)</description>
+		<game_id>0004000E001D6700</game_id>
+		<rom name="Yo-Kai Watch 3 (USA) (v1.2) (Update).cia" size="968098816" crc="c09af07b" md5="74e9327ba8f9786a851d0b52ef4e6baf" sha1="b6d2c35ec1b4c865ff4fef5d430587204b1332bc" mia="yes"/>
+	</game>
+	<game name="Yo-Kai Watch 3 (Germany) (v1.2, v2096) (Update)" id="2159">
+		<description>Yo-Kai Watch 3 (Germany) (v1.2, v2096) (Update)</description>
+		<game_id>0004000E001D6A00</game_id>
+		<rom name="Yo-Kai Watch 3 (Germany) (v1.2, v2096) (Update).cia" size="75629568" crc="fb630632" md5="386378a2f564c1572b19fffbf1cc048c" sha1="ba103a0892038ceaabf107da6a1bb19af057b7ff"/>
+	</game>
+	<game name="Yo-Kai Watch Blasters - White Dog Squad (Europe) (v2.3.0) (Update)" id="0369">
+		<description>Yo-Kai Watch Blasters - White Dog Squad (Europe) (v2.3.0) (Update)</description>
+		<game_id>0004000e001cf000</game_id>
+		<rom name="Yo-Kai Watch Blasters - White Dog Squad (Europe) (v2.3.0) (Update).cia" size="555586560" crc="b5a237a4" md5="8afa9c6957a273d4690935f876c6270e" sha1="83c298db68f3a3c58dcc200d5919b5d3ce6e5343"/>
+	</game>
+	<game name="Yo-Kai Watch Busters - Baegyeondae (Korea) (v2.3, v1040) (Update)" id="2148">
+		<description>Yo-Kai Watch Busters - Baegyeondae (Korea) (v2.3, v1040) (Update)</description>
+		<game_id>0004000E001CF200</game_id>
+		<rom name="Yo-Kai Watch Busters - Baegyeondae (Korea) (v2.3, v1040) (Update).cia" size="602285056" crc="ba70f1c5" md5="0469eeea7c90ce921a7202bbc3c49d12" sha1="ffc38d72c8713d8fa3f6a4679c6a09da82551611"/>
+	</game>
+	<game name="Yo-Kai Watch Busters - Bulg-eun Goyangidan (Korea) (v2.3, v1040) (Update)" id="2147">
+		<description>Yo-Kai Watch Busters - Bulg-eun Goyangidan (Korea) (v2.3, v1040) (Update)</description>
+		<game_id>0004000E001CED00</game_id>
+		<rom name="Yo-Kai Watch Busters - Bulg-eun Goyangidan (Korea) (v2.3, v1040) (Update).cia" size="602285056" crc="1ef7b726" md5="efc0f90f14c56eda66b9d3adeed5df52" sha1="41536ff6c224acbde6f69cd75f3e7a667cf96275"/>
+	</game>
+</datafile>

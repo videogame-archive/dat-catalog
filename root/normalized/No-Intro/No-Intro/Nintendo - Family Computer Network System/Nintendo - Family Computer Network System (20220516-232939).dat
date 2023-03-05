@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>149</id>
+		<name>Nintendo - Family Computer Network System</name>
+		<description>Nintendo - Family Computer Network System</description>
+		<version>20220516-232939</version>
+		<author>Hiccup, relax, togemet2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] LH5323M1 Kanji Graphic ROM (Japan)" id="0005">
+		<description>[BIOS] LH5323M1 Kanji Graphic ROM (Japan)</description>
+		<rom name="[BIOS] LH5323M1 Kanji Graphic ROM (Japan).bin" size="262144" crc="5c0d224c" md5="136692ab0764d577a14f467f86ad50f6" sha1="f145c87fcee0001521ab24f33ef172cd3053fdfb" sha256="5f1fc3f2c1ddca27e07c1f80fefb693793ce988816d9392fb758786296239485"/>
+	</game>
+	<game name="[BIOS] RF5A18 CPU2 ROM (Japan)" id="0006">
+		<description>[BIOS] RF5A18 CPU2 ROM (Japan)</description>
+		<rom name="[BIOS] RF5A18 CPU2 ROM (Japan).bin" size="8192" crc="b6521c65" md5="ab197bb8735eeb94fd0414c55157e5f4" sha1="1fbba4480e8354cb55f53b1444d15b340388e782" sha256="14def4143e658ba6cab1f7dd844a199ccb4e55c13f86ee70977c97b26fa61c3b"/>
+	</game>
+	<game name="Cosmo no Famicom Trade (Japan) (FCN003-03)" id="0007">
+		<description>Cosmo no Famicom Trade (Japan) (FCN003-03)</description>
+		<rom name="Cosmo no Famicom Trade (Japan) (FCN003-03).fcn" size="131072" crc="79c14a24" md5="bd6f8163544189b5ac93cff27ad12f30" sha1="0351f3f8a87583d312c5c75f2e9aa22cd377ef26" sha256="dc025ad57b33840e6d524df7ba63589a5553e9f6d115942767e06c513ff37768" mia="yes"/>
+	</game>
+	<game name="Famicom ANSER (Japan) (FCN000-05)" id="0008">
+		<description>Famicom ANSER (Japan) (FCN000-05)</description>
+		<rom name="Famicom ANSER (Japan) (FCN000-05).fcn" size="131072" crc="1843f624" md5="c7f836268247d53a2a8de5de81f3a65c" sha1="453eb42c3a2a62aa403881c0784af0f4efc3300c" sha256="322153c43d145b1ab8a12f9ea04536dea73d8664635f33750b5904cb5f3a89bf" mia="yes"/>
+	</game>
+	<game name="Heart no Benrikun Mini (Japan) (FCN014-01 A)" id="0009">
+		<description>Heart no Benrikun Mini (Japan) (FCN014-01 A)</description>
+		<rom name="Heart no Benrikun Mini (Japan) (FCN014-01 A).fcn" size="131072" crc="1c78f12c" md5="b63b7e67f4209aec58f437619f750a22" sha1="8dfbe9b32de176b332a940acd3316ea5730786f8" sha256="03470d1287a4b18cfab53d40e7b83a0fed4deb9d67e0d666762d71254da11393" status="verified" mia="yes"/>
+	</game>
+	<game name="JRA-PAT (Japan) (FCN027-06)" id="0002">
+		<description>JRA-PAT (Japan) (FCN027-06)</description>
+		<rom name="JRA-PAT (Japan) (FCN027-06).fcn" size="131072" crc="e4f4fafa" md5="90e2b479a3a9c6ba3a41d60fe1e3f99f" sha1="3951fc1bb2bd44c2e9525d50bdf97b7c5d9f0b9f" sha256="0c6eb91ea117049dc43a4b2306fe8e3909bec270084c72088c5fc5bfb5bb6295" status="verified"/>
+	</game>
+	<game name="JRA-PAT (Japan) (FCN027-03 P)" id="0018" cloneofid="0002">
+		<description>JRA-PAT (Japan) (FCN027-03 P)</description>
+		<rom name="JRA-PAT (Japan) (FCN027-03 P).fcn" size="131072" crc="92e8a4db" md5="c94b36016df70916066fa8dc3dc35076" sha1="d66168708d9b0a9bd497ad72b31ed8aeae4d78f6" sha256="78bfafcf6a064419de57d303a83e4d63e2960ce06010e27bee6e288fc53c7c50" mia="yes"/>
+	</game>
+	<game name="JRA-PAT (Japan) (FCN027-05)" id="0004" cloneofid="0002">
+		<description>JRA-PAT (Japan) (FCN027-05)</description>
+		<rom name="JRA-PAT (Japan) (FCN027-05).fcn" size="131072" crc="25cb6bdc" md5="d3ed602b6ea6a50d7670699562d4a459" sha1="4f10e531800188ebb1e55660126ec4b5bab88532" sha256="9fae6b04cedda3a5b9db16f50c4647c754186901b00f587b222b10d30f59a4e7" status="verified"/>
+	</game>
+	<game name="Kangyou Sumimaru no Famicom Trade (Japan) (FCN007-01 A)" id="0010">
+		<description>Kangyou Sumimaru no Famicom Trade (Japan) (FCN007-01 A)</description>
+		<rom name="Kangyou Sumimaru no Famicom Trade (Japan) (FCN007-01 A).fcn" size="131072" crc="2bc6b0f2" md5="70841b2ee97ab07da3d9719cef31648a" sha1="d6cd7c6f5f4c7df2d322c5faad24c4bceb5cfca0" sha256="07d290f9a0e37f0c1a4d3964a0a7a873389fcdc2962a62af9e7644c3f1286b7d" mia="yes"/>
+	</game>
+	<game name="Nomura no Famicom Trade (Japan) (FCN001-01 A)" id="0011" cloneofid="0013">
+		<description>Nomura no Famicom Trade (Japan) (FCN001-01 A)</description>
+		<rom name="Nomura no Famicom Trade (Japan) (FCN001-01 A).fcn" size="131072" crc="6e1ac903" md5="d79bbbc706687b93dce832c32472fee3" sha1="3b22438b4189fec29b43f1921477dcf5754e52f0" sha256="e2d2b0ba4b727c7442f89912ef6eacdf0cb17830f1cbaa0c1389705d069c394f" status="verified" mia="yes"/>
+	</game>
+	<game name="Nomura no Famicom Trade (Japan) (FCN001-01 B)" id="0012" cloneofid="0013">
+		<description>Nomura no Famicom Trade (Japan) (FCN001-01 B)</description>
+		<rom name="Nomura no Famicom Trade (Japan) (FCN001-01 B).fcn" size="131072" crc="dcaa0ca5" md5="71512fbfc3aaa2f9ecb0ef26ae9740a8" sha1="5f55188fff761ca20b03d01f43ae75462d9dde9d" sha256="d2469b838d3510e692feff6c448329a344aa3c180b6211556a3eaf6ec86f5efe" mia="yes"/>
+	</game>
+	<game name="Nomura no Famicom Trade (Japan) (FCN001-05)" id="0013">
+		<description>Nomura no Famicom Trade (Japan) (FCN001-05)</description>
+		<rom name="Nomura no Famicom Trade (Japan) (FCN001-05).fcn" size="131072" crc="28893551" md5="97e195feb94ee2b0c66d72cc3321bedf" sha1="9f856f45b1d5ff22d1162387e19aa9ed94656e3e" sha256="da20bf821a2619f6a5329f5cad89e576b88ad17c12017aae214e3a8b3bade2a5" status="verified" mia="yes"/>
+	</game>
+	<game name="Nomura no Famicom Trade (Japan) (FCN001-03)" id="0001" cloneofid="0013">
+		<description>Nomura no Famicom Trade (Japan) (FCN001-03)</description>
+		<rom name="Nomura no Famicom Trade (Japan) (FCN001-03).fcn" size="131072" crc="0c58e729" md5="ef13315bb4cd42892377c028b2cdabbb" sha1="0d420bcf0c5a14886a66fe6f0f890297cca59f97" sha256="2a7114874ae51fc7ff4c4742d8d4ba9c97bbe56b8d869b5c8774ae8c5aaa201a" status="verified"/>
+	</game>
+	<game name="Okasan no Famicom Trade (Japan) (FCN005-01)" id="0014">
+		<description>Okasan no Famicom Trade (Japan) (FCN005-01)</description>
+		<rom name="Okasan no Famicom Trade (Japan) (FCN005-01).fcn" size="131072" crc="f44d9794" md5="c487fcfe765d9cf17f6b7969ecaa4864" sha1="66db2cade5e82693903808d6a075441c5e45ee38" sha256="db97ae69834ba8135026fb67fde9c8973ad4bf8340c4e2d75254106e8f1fb08c" mia="yes"/>
+	</game>
+	<game name="PiT - Motorboat Race (Japan) (FCN030-02)" id="0015">
+		<description>PiT - Motorboat Race (Japan) (FCN030-02)</description>
+		<rom name="PiT - Motorboat Race (Japan) (FCN030-02).fcn" size="131072" crc="8a9f6ced" md5="f6be6daacf10635ab58ec654034256bc" sha1="1678d0096f9deba5aa5ce32610fc713ae62de1f6" sha256="9e2ee0aafb14124a219ba2ef3c512a7e4af93afc7034701161c6d0062973b916" status="verified" mia="yes"/>
+	</game>
+	<game name="PiT - Motorboat Race (Japan) (FCN030-03)" id="0019" cloneofid="0015">
+		<description>PiT - Motorboat Race (Japan) (FCN030-03)</description>
+		<rom name="PiT - Motorboat Race (Japan) (FCN030-03).fcn" size="131072" crc="44df9a30" md5="75502a1db1dd7da1f36637c3bd717003" sha1="eb15e768f7bb7a928f13d941fb3fbac8f63375c7" sha256="3df0aa0a7746d7ffb842b4469461bcc1954f721c8c9300e0fabf0978847a0d9f" mia="yes"/>
+	</game>
+	<game name="Shin Nihon no Famicom Home Trade (Japan) (FCN006-03)" id="0020">
+		<description>Shin Nihon no Famicom Home Trade (Japan) (FCN006-03)</description>
+		<rom name="Shin Nihon no Famicom Home Trade (Japan) (FCN006-03).fcn" size="131072" crc="27ff052c" md5="7725f69c58dd661632272f3b5ce9f43a" sha1="30fd7561d5bebddd8ab9d24e14e5f93f5a6399bb" sha256="d20848dd5889c4aee63c0808704885c2ce974ec6addb1e9c57030088a7c57541" mia="yes"/>
+	</game>
+	<game name="Sumitomo Homeline (Japan) (FCN050-01 P)" id="0016">
+		<description>Sumitomo Homeline (Japan) (FCN050-01 P)</description>
+		<rom name="Sumitomo Homeline (Japan) (FCN050-01 P).fcn" size="131072" crc="7341442f" md5="2dc2183f4a3157b215d112f1a1b527c9" sha1="fed8b8b695f59955ffa50e0c1c2af967b6993e64" sha256="18187ba15b8e1c7d66d5508b7bf776aaf528ef1c82851938646b7c9584b6aa57" status="verified" mia="yes"/>
+	</game>
+	<game name="Super Mario Club (Japan) (FCN000-09 P)" id="0003">
+		<description>Super Mario Club (Japan) (FCN000-09 P)</description>
+		<rom name="Super Mario Club (Japan) (FCN000-09 P).fcn" size="131072" crc="28af8896" md5="41270c17731e10c9fb7b7ce8a7ecdb38" sha1="75fdd5d1dc2b158d7fc27e7a5eeff7289a4d8459" sha256="d68a39eff19fd1b32e1fda46da188122067f4e702c54974d853c14f521d51292" status="verified"/>
+	</game>
+	<game name="Wako no Famicom Trade (Japan) (FCN004-03)" id="0021">
+		<description>Wako no Famicom Trade (Japan) (FCN004-03)</description>
+		<rom name="Wako no Famicom Trade (Japan) (FCN004-03).fcn" size="131072" crc="2b30c48a" md5="0b1626deca192172db60c8bb1dcd968e" sha1="813cbd0049c771a0589a27736e4effedf267c394" sha256="b86974f9a3747b9b5ed1a711a4359d6b4970f79f696ae213a44d06c203160f32" mia="yes"/>
+	</game>
+	<game name="Yamatane no Famicom Trade (Japan) (FCN002-01)" id="0017">
+		<description>Yamatane no Famicom Trade (Japan) (FCN002-01)</description>
+		<rom name="Yamatane no Famicom Trade (Japan) (FCN002-01).fcn" size="131072" crc="dbf890f9" md5="5893d9da8efcc450e78e74db8040a500" sha1="651f46d93250515713c186fe047842df3e212dd4" sha256="ff750ccbb7181f185b6dc1d2fef5ab6a9d7c02cd00ce6ec2620c8e4d93de6b27" mia="yes"/>
+	</game>
+</datafile>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Advance - Applications</name>
+		<description>Nintendo Game Boy Advance - Applications (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Calculator Advance v1.0 (2005)(Pierce, Patrick - Ulrich, Harrison)(PD)">
+		<description>Calculator Advance v1.0 (2005)(Pierce, Patrick - Ulrich, Harrison)(PD)</description>
+		<rom name="Calculator Advance v1.0 (2005)(Pierce, Patrick - Ulrich, Harrison)(PD).bin" size="473812" crc="803a581a" md5="476cb35ce706db3fa3eea0f4bc09c51b" sha1="0ddeacc1523a54e849631481a81c15df85404455"/>
+	</game>
+	<game name="GBA-Sketch (2021-04-29)(Vaiciukynas, Dovydas)(LT)">
+		<description>GBA-Sketch (2021-04-29)(Vaiciukynas, Dovydas)(LT)</description>
+		<rom name="GBA-Sketch (2021-04-29)(Vaiciukynas, Dovydas)(LT).gba" size="1868" crc="17224c84" md5="4485a180ad6f6f0db58132a2dbd04473" sha1="2369586c47187d7067fe6603682497d43106636c"/>
+	</game>
+	<game name="Jayro's GBA VIDEO Test Cartridge v1.0 (2021-04-24)(Jones, Jayro)">
+		<description>Jayro's GBA VIDEO Test Cartridge v1.0 (2021-04-24)(Jones, Jayro)</description>
+		<rom name="Jayro's GBA VIDEO Test Cartridge v1.0 (2021-04-24)(Jones, Jayro).gba" size="3080192" crc="e38ffc13" md5="65d7720be8ecb0f18f62c0c1639ed83e" sha1="fadda5f4554b161fe705772f91544ba287e0610d"/>
+	</game>
+	<game name="Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro)">
+		<description>Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro)</description>
+		<rom name="Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro).gba" size="340428" crc="eb602a06" md5="901c9e3c21f7f3f2ca98a741150b14c1" sha1="de7c75af462c1562630cdf155a7a71cbb193dd09"/>
+	</game>
+	<game name="Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro)">
+		<description>Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro)</description>
+		<rom name="Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro).gba" size="602572" crc="61e19f3a" md5="4bb90a246e8ad2cce92079000d1ddcc6" sha1="44a35a00c0478fee38a1023dd0741cea5d717ed9"/>
+	</game>
+	<game name="LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro)">
+		<description>LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro)</description>
+		<rom name="LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro).gba" size="41232" crc="e2bd116f" md5="5bcc90bd7a249fdc3ddf91106b30861a" sha1="ed9bf49248e3b8c0ddabb20c548c33b3e6bd01b8"/>
+	</game>
+	<game name="No Software Found (2021-11-12)(Jones, Jayro)">
+		<description>No Software Found (2021-11-12)(Jones, Jayro)</description>
+		<rom name="No Software Found (2021-11-12)(Jones, Jayro).gba" size="209356" crc="a7d20b24" md5="863038c6c3e95453d2b2720a12a6f510" sha1="2973b9ab1ba9715113092ec7b690989b38877441"/>
+	</game>
+</datafile>

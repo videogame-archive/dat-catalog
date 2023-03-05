@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>161</id>
+		<name>Non-Redump - Nintendo - Wii</name>
+		<description>Non-Redump - Nintendo - Wii</description>
+		<version>20221127-074509</version>
+		<author>Hiccup, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Wii (Unknown) (NAND)" id="0006">
+		<description>[BIOS] Wii (Unknown) (NAND)</description>
+		<rom name="[BIOS] Wii (Unknown) (NAND).bin" size="553648128" crc="7e65f2e8" md5="384b6fa29c7f98039c239f89331b2678" sha1="32841236e8b7e40bc1dd5a4bd3cec07c2c00d3a3" sha256="fb97dd5f1bc31aae36eb6531505b4fba955b31c9df493412a28a87b8e0d06dd7"/>
+		<rom name="[BIOS] Wii (Unknown) (NAND) (BackupMii Key Dump).bin" size="1024" crc="b593a301" md5="0cbb98943fa9f289ab5f048b2a42c195" sha1="2e1731ea815eaf779fc7abda0e36905c4dd8ee3b" sha256="ab6ebc9f13b2e26a57a395513ff9684e2797f50a2d18b0d9a04710fb18022836"/>
+	</game>
+	<game name="Conduit, The (USA) (Demo) (Kiosk, E3 2008)" id="0005">
+		<description>Conduit, The (USA) (Demo) (Kiosk, E3 2008)</description>
+		<rom name="Conduit, The (USA) (Demo) (Kiosk, E3 2008).iso" size="4699979776" crc="7d7ab896" md5="ee23da7b7cfe8cde0cb96fed60edc85d" sha1="f341fd19737d3b52178fb5917211565cdd55a887" sha256="804e085bc7c6da21d28bced1f70ac8560a61c1152aee251f9be050e66da16410"/>
+		<rom name="The_Conduit_E3_2008_Help.jpg" size="1402615" crc="dc3cdb6f" md5="63e62f4820fea9c1e7d6b950d29ea165" sha1="ad3b41d6fe39fc09f4f3511c1d7f7c4d6732c748" sha256="d99c6c8b37431ed23e99d3b412eea9037fc599f901ef9ca82aebe81e9ac114e9"/>
+	</game>
+	<game name="Connie Talbot - Over the Rainbow (Europe) (Proto) [b]" id="0007">
+		<description>Connie Talbot - Over the Rainbow (Europe) (Proto) [b]</description>
+		<rom name="Connie Talbot - Over the Rainbow (Europe) (Proto) [b].iso" size="4707319808" crc="786d13aa" md5="4a39c0146ca1291985e319a5ab84b695" sha1="c02c0f6a278252ac76304bb7b821c9caa999d3c3" status="baddump"/>
+	</game>
+	<game name="Deca Sporta - Wiiro Jeulgineun Sports 10 Jongmok! (Korea)" id="0001">
+		<description>Deca Sporta - Wiiro Jeulgineun Sports 10 Jongmok! (Korea)</description>
+		<rom name="Deca Sporta - Wiiro Jeulgineun Sports 10 Jongmok! (Korea).iso" size="4699979776" crc="a5643872" md5="89b7a6b6952c0d1c2a4d3a45e91b2c0f" sha1="58454d77b159066845d3774853eeb87145c5e742" serial="RDXKA4"/>
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)" id="0003">
+		<description>Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk).iso" size="4699979776" crc="9e280f94" md5="6aa87493a4d10d8bdae703388b079386" sha1="21932a1e00433787380aaffd64916317b7b09335" serial="DZDP01"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (Alpha 24 - SHIP)" id="0008">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Madden NFL 12 (USA) (Beta) (Alpha 24 - SHIP)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (Alpha 24 - SHIP).iso" size="4707188736" crc="446c9423" md5="e9456da1e7437e39b08d434edc15947a" sha1="34d4255261312da59ec10e7564a522ea47cd64a6"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (Alpha 24 - OPT)" id="0009" cloneofid="0008">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Madden NFL 12 (USA) (Beta) (Alpha 24 - OPT)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (Alpha 24 - OPT).iso" size="4707188736" crc="7de59716" md5="24467f4174c9a685e98ed2335a24f32b" sha1="d82d36ac553b46a3fbdf5c6ec096a045495e7c93"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (Pre-Alpha 14)" id="0010" cloneofid="0008">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Madden NFL 12 (USA) (Beta) (Pre-Alpha 14)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (Pre-Alpha 14).iso" size="4707188736" crc="ab176948" md5="dd82a9833cdb2a492eadeff75349fa22" sha1="c14462dd815bcb51f589f5c0371b9973caca56ee"/>
+	</game>
+</datafile>

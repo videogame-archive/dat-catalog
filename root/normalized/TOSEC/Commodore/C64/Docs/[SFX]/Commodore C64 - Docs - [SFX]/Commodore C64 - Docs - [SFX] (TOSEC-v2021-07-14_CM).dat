@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Docs - [SFX]</name>
+		<description>Commodore C64 - Docs - [SFX] (TOSEC-v2021-07-14)</description>
+		<category>TOSEC</category>
+		<version>2021-07-14</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Assembly &apos;95 Results (1995-08)(Various)">
+		<description>Assembly &apos;95 Results (1995-08)(Various)</description>
+		<rom name="Assembly &apos;95 Results (1995-08)(Various).sfx" size="10009" crc="70f1a539" md5="1617e22bda15dc83d613e6cb5dc8c33e" sha1="4925f17fb62f500e121542abeb17b4cefcfb508e"/>
+	</game>
+	<game name="Final Cartridge III (1994)(Riska)">
+		<description>Final Cartridge III (1994)(Riska)</description>
+		<rom name="Final Cartridge III (1994)(Riska).sfx" size="37144" crc="57f35b9f" md5="abd7b90f7a3a95de247ae2dae036ec80" sha1="595ae0bf2433bbfcf585baa25a2761fa9b16d4ff"/>
+	</game>
+	<game name="Final Cartridge III (1994)(Riska)[a]">
+		<description>Final Cartridge III (1994)(Riska)[a]</description>
+		<rom name="Final Cartridge III (1994)(Riska)[a].sfx" size="37120" crc="c309b1c6" md5="a489c4536b23ac1868383828903e23b8" sha1="e808fcdcee99b33fefdc5d258f250916037e3afd"/>
+	</game>
+	<game name="Final Cartridge III (1994)(Riska)[a2]">
+		<description>Final Cartridge III (1994)(Riska)[a2]</description>
+		<rom name="Final Cartridge III (1994)(Riska)[a2].sfx" size="37111" crc="281cc54b" md5="e9f3e9c0dd9798a4c421626a1baee40d" sha1="a793906d2195cc26a179959f4865700ed90e3216"/>
+	</game>
+	<game name="Final Cartridge III (1994)(Riska)[a3]">
+		<description>Final Cartridge III (1994)(Riska)[a3]</description>
+		<rom name="Final Cartridge III (1994)(Riska)[a3].sfx" size="37888" crc="5b8b826a" md5="082e195e4391c7c9043249593bfd5bc4" sha1="d9a3e964d00519c5ebf952b3c7513959b81c8c4f"/>
+	</game>
+</datafile>

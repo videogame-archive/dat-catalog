@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 MC-10 - Games - [C10]</name>
+		<description>Tandy Radio Shack TRS-80 MC-10 - Games - [C10] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-01)(Inufuto)(JP)">
+		<description>Ascend (2022-04-01)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-04-01)(Inufuto)(JP).c10" size="8584" crc="0451837a" md5="d5e5671bb3b2dbe0daa44415ea88f842" sha1="cd6b6c158cdbe729c61c8b50cadc8d5715181c42"/>
+	</game>
+	<game name="Cross Bomber (2022-04-06)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2022-04-06)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2022-04-06)(Caruso, Fabrizio).c10" size="4093" crc="857fed22" md5="2c4c8d275b8f021033a43aa7acd9b2c0" sha1="8dc75961631babde063ec1fad87d0ef794c24524"/>
+	</game>
+	<game name="Cross Chase (2022-04-06)(Caruso, Fabrizio)">
+		<description>Cross Chase (2022-04-06)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2022-04-06)(Caruso, Fabrizio).c10" size="10392" crc="43914f17" md5="2f90e315265b2ccecdb4c381897819a5" sha1="d73ac92996a2f7c48b7e4c6267c59a33383b7e28"/>
+	</game>
+	<game name="Cross Horde (2022-04-06)(Caruso, Fabrizio)">
+		<description>Cross Horde (2022-04-06)(Caruso, Fabrizio)</description>
+		<rom name="Cross Horde (2022-04-06)(Caruso, Fabrizio).c10" size="10231" crc="b7c9eb35" md5="72c28defa2de2e13132a0067b6a49995" sha1="9dd6fe2a5380823d7b0528a9e3a5dabc2ba536b7"/>
+	</game>
+	<game name="Cross Shoot (2022-04-06)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2022-04-06)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2022-04-06)(Caruso, Fabrizio).c10" size="16571" crc="8535206f" md5="84fe796024188235efcac7247bdfec9c" sha1="402851d563146269e40251d1248aa2328c69b1bd"/>
+	</game>
+	<game name="Cross Snake (2022-04-06)(Caruso, Fabrizio)">
+		<description>Cross Snake (2022-04-06)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake (2022-04-06)(Caruso, Fabrizio).c10" size="11472" crc="158b2ca0" md5="a14ba5886c66dc52ec0080d9c77f238b" sha1="489f05e0a4a514ab3bc9fe5e9cd3a12a96ae4398"/>
+	</game>
+	<game name="Mazy (2021-12-17)(Inufuto)(JP)[16K]">
+		<description>Mazy (2021-12-17)(Inufuto)(JP)[16K]</description>
+		<rom name="Mazy (2021-12-17)(Inufuto)(JP)[16K].c10" size="6690" crc="b324c411" md5="bc7696cc91bf94bd67e8842b518da22b" sha1="12ab14abff3f7518c2adefa8aad26351d98ceba8"/>
+	</game>
+	<game name="Mines+ MC10 (2021-04-11)(Caruso, Fabrizio)">
+		<description>Mines+ MC10 (2021-04-11)(Caruso, Fabrizio)</description>
+		<rom name="Mines+ MC10 (2021-04-11)(Caruso, Fabrizio).C10" size="1111" crc="c469071d" md5="9e1063304b75c80aeb4b5446aa7e89f4" sha1="989b3aecb720d81b23b2051610c86f7d809fee24"/>
+	</game>
+	<game name="Ruptus (2021-11-05)(Inufuto)(JP)[16K]">
+		<description>Ruptus (2021-11-05)(Inufuto)(JP)[16K]</description>
+		<rom name="Ruptus (2021-11-05)(Inufuto)(JP)[16K].c10" size="12317" crc="897c9076" md5="276fb252e6363cee91a5477624bb7532" sha1="73cfa9fac50b4ec2efb2fa589c58e623b1260f64"/>
+	</game>
+</datafile>

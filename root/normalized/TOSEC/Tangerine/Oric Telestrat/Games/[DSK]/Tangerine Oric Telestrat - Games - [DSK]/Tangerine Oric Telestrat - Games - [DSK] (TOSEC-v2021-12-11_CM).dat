@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric Telestrat - Games - [DSK]</name>
+		<description>Tangerine Oric Telestrat - Games - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).prg" size="12246" crc="4f34784c" md5="05a0ae638567c030f21c61517b9e5abe" sha1="755b33d70a2f48acc502518a2b144c376a612d0a"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered].prg" size="11023" crc="7059e19a" md5="bc45ca8683077b002cd6216a5869b8ae" sha1="2dd74120e8b10bfaefd4a97505ebec34755fd144"/>
+	</game>
+	<game name="Mefies-Toi de Mephisto (1987)(Bleu-Ciel Informatique)(FR)">
+		<description>Mefies-Toi de Mephisto (1987)(Bleu-Ciel Informatique)(FR)</description>
+		<rom name="Mefies-Toi de Mephisto (1987)(Bleu-Ciel Informatique)(FR).dsk" size="1049856" crc="d2d5d4e9" md5="533949e4305c99bda07703f8f27a9276" sha1="647997d59aa9f8adf33c8f3417ac346723525149"/>
+	</game>
+</datafile>

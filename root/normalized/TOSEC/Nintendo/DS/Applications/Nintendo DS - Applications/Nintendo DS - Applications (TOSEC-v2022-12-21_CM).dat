@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo DS - Applications</name>
+		<description>Nintendo DS - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FSPDS v0.1 (2021-03-07)(NotImplementedLife)(GPLv3)">
+		<description>FSPDS v0.1 (2021-03-07)(NotImplementedLife)(GPLv3)</description>
+		<rom name="FSPDS v0.1 (2021-03-07)(NotImplementedLife)(GPLv3).nds" size="231424" crc="9f17d287" md5="39e08890592fa05cf6eb491cc8bbc303" sha1="0c847177469dd203d71eae5cf0df40a59883278d"/>
+	</game>
+	<game name="FSPDS v0.2.0 (2022-01-26)(NotImplementedLife)(GPLv3)">
+		<description>FSPDS v0.2.0 (2022-01-26)(NotImplementedLife)(GPLv3)</description>
+		<rom name="FSPDS v0.2.0 (2022-01-26)(NotImplementedLife)(GPLv3).nds" size="233472" crc="7c89e276" md5="0381631be9d50bee757b61baba6cb098" sha1="b9a9141a30b5a30ddadf075f9d19e2b3f17645c2"/>
+	</game>
+	<game name="FSPDS v0.2.1 (2022-01-27)(NotImplementedLife)(GPLv3)">
+		<description>FSPDS v0.2.1 (2022-01-27)(NotImplementedLife)(GPLv3)</description>
+		<rom name="FSPDS v0.2.1 (2022-01-27)(NotImplementedLife)(GPLv3).nds" size="233472" crc="545ab719" md5="41cf447c0214406e206f87c3a5edfbb1" sha1="d757d62fa00dad4c4e00b4ff0b3f960427ba0dda"/>
+	</game>
+	<game name="FSPDS v0.3.41164628D (2022-05-18)(NotImplementedLife)(GPLv3)">
+		<description>FSPDS v0.3.41164628D (2022-05-18)(NotImplementedLife)(GPLv3)</description>
+		<rom name="FSPDS v0.3.41164628D (2022-05-18)(NotImplementedLife)(GPLv3).nds" size="235520" crc="50b829f3" md5="611848b5fc2cfec6e7914a927cbe8415" sha1="ffc3c1b4b46dea18878ff0259f40393d0b3ff53a"/>
+	</game>
+	<game name="FSPDS v0.3.47244716D (2022-07-22)(NotImplementedLife)(GPLv3)">
+		<description>FSPDS v0.3.47244716D (2022-07-22)(NotImplementedLife)(GPLv3)</description>
+		<rom name="FSPDS v0.3.47244716D (2022-07-22)(NotImplementedLife)(GPLv3).nds" size="243712" crc="9dc2d7aa" md5="50667fca4621f7b7dc8f21dadabfcd99" sha1="01ed89ac9f983c59b1de50da5d83c1c301821b3c"/>
+	</game>
+	<game name="Nintendo DS Browser (2006)(NIntendo)(EU-US)(M5)">
+		<description>Nintendo DS Browser (2006)(NIntendo)(EU-US)(M5)</description>
+		<rom name="Nintendo DS Browser (2006)(NIntendo)(EU-US)(M5).nds" size="8388608" crc="c096c951" md5="ae58a8ddb61c7757cdc73ba35dc73a95" sha1="e17f72561e5a961f5b6a776b4bd9fd82c2cf645a"/>
+	</game>
+	<game name="Nintendo DS Browser (2006)(NIntendo)(JP)">
+		<description>Nintendo DS Browser (2006)(NIntendo)(JP)</description>
+		<rom name="Nintendo DS Browser (2006)(NIntendo)(JP).nds" size="8388608" crc="f9463232" md5="d95fdd037938f4378165b8933582d6ec" sha1="0b17dc81fe41cafd057cb1d98521f3da57e324c2"/>
+	</game>
+	<game name="Upload to Walker (2021-04-04)(PoroCYon)[req for Hello Pokéwalker]">
+		<description>Upload to Walker (2021-04-04)(PoroCYon)[req for Hello Pokéwalker]</description>
+		<rom name="Upload to Walker (2021-04-04)(PoroCYon)[req for Hello Pokéwalker].nds" size="177664" crc="6be6d440" md5="6d44754c38cea489b2165c7e29ef6688" sha1="325fb696961bfed1357b8085add3854e90d830bd"/>
+	</game>
+</datafile>

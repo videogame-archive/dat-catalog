@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-73 - Manuals - Games</name>
+		<description>Texas Instruments TI-73 - Manuals - Games (TOSEC-v2011-02-05)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-02-05</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Puzzle Tanks v1.00 (1998)(Texas Instruments)">
+		<description>Puzzle Tanks v1.00 (1998)(Texas Instruments)</description>
+		<rom name="Puzzle Tanks v1.00 (1998)(Texas Instruments).pdf" size="251987" crc="d7a70ca7" md5="e36baf062dd9a939881e52205177e089" sha1="6235548026a6205be8b77a3362b220e3780b4e7c"/>
+	</game>
+	<game name="Safari Search v1.02 (1998)(Texas Instruments)">
+		<description>Safari Search v1.02 (1998)(Texas Instruments)</description>
+		<rom name="Safari Search v1.02 (1998)(Texas Instruments).pdf" size="193030" crc="0fd80169" md5="2a1629c1f39e5c09f770edbd451adc87" sha1="9b4ca7c2ac2b019203531c1e55e0d74d9240d70e"/>
+	</game>
+</datafile>

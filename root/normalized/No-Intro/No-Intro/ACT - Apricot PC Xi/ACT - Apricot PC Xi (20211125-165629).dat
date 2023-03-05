@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>207</id>
+		<name>ACT - Apricot PC Xi</name>
+		<description>ACT - Apricot PC Xi</description>
+		<version>20211125-165629</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 1) (OS)" id="0003">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 1) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 1) (OS).dsk" size="322937" crc="cfe455a9" md5="f6810bc91a5b73b109b23ab8ea151f40" sha1="4f8ccfbe1161404a47d309bd139d321fb0013a1a" sha256="bb347f3906ae34a1fb235ea1460055897404d1c1ba079077e8ea4e5a6b21a5c7"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 2) (OS)" id="0004">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 2) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 2) (OS).dsk" size="321919" crc="22a234ca" md5="4299e9cdb00b87577ed415471f26aaf7" sha1="85a3a8d19f2d5357ac71ce8bbacf9512e93bed62" sha256="0ee5739e1ab387c3be6ea29f570c36154e419d379c2627cd490a6541ddd45e31"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 3) (OS)" id="0005">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 3) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 3) (OS).dsk" size="277127" crc="75f9f57d" md5="8a7633cbca783357c604af9e672568ff" sha1="40f083ab4a68d213635cc5c2ebb6cb8b202c6514" sha256="29ff36734a967d02f14f7c9ff6255ce4bc40edc2047e084b5cad38020e4a6cd0"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 4) (OS)" id="0006">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 4) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 4) (OS).dsk" size="279672" crc="e1c34b89" md5="dd99aa770abb364fc5ba1d776a0d5138" sha1="84765d86784742ff1efc8f8fe4101d08703ea291" sha256="92ea60d86e1fb664b0911833896cd6a5a546d74daa0e3c711f8a1879f48ef992"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 5) (OS)" id="0007">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 5) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 5) (OS).dsk" size="223173" crc="ffc21ff2" md5="bf15c841a16f7de22bbc6afaff5bdf5d" sha1="0e332002f5be5e38b83f36789baac03b24289121" sha256="138367b583c96e7df7e599f410c4d7586719cc08e560a3c087c6193ae63e801a"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 1) (OS)" id="0008">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 1) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 1) (OS).dsk" size="326512" crc="a54c009f" md5="5dad2abb12a33addd51164f064ea8e00" sha1="85c6426042c5ac37a60e05eddcf499e71d051db6" sha256="0d1e741509e63ce1c0f3958f7aa92ace802f8485ab5e4e09e8cb3b965e9875cc"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 2) (OS)" id="0009">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 2) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 2) (OS).dsk" size="326513" crc="339a564a" md5="bf8e50e9201f658406283e6f134a3bf4" sha1="e86466629af63f102568e80ddc924ba291e0ca5d" sha256="65db920e96d583fd1a288770a544ebd2858ab3859ca6d0bc867abf1ae8717516"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 3) (OS)" id="0010">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 3) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 3) (OS).dsk" size="295460" crc="623b99e9" md5="b3f5656958448efb1adca65840fca1d5" sha1="8c443772dcbbebb322abc5574605bdedac755266" sha256="256674adf400222fb62cfc10f2135072ab3c0ba5f7cdc969cad2a1af6e12ca7f"/>
+	</game>
+	<game name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 4) (OS)" id="0011">
+		<description>[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 4) (OS)</description>
+		<rom name="[BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 4) (OS).dsk" size="267468" crc="010b8617" md5="468b82fcade242d86b03a1aa88bfc952" sha1="b17692f58ed9060e5af25268e84d39695b3bbd1e" sha256="c3adfc5c3541a896e31836e5487f20409489501e63bd44ade23f60e79b604b68"/>
+	</game>
+	<game name="Demonstration Pictures (Europe) (Demo)" id="0002">
+		<description>Demonstration Pictures (Europe) (Demo)</description>
+		<rom name="Demonstration Pictures (Europe) (Demo).dsk" size="307631" crc="7db75019" md5="03fb7e9de18c643f924db327f97edbbc" sha1="2b8f002588304c5ef23c13c9be9c167a7ceed0c9" sha256="58ed60586cd7254214f9cc03b0cfbce9c1c6a3f4e6a28b132e8a817cc7cfd7cf"/>
+	</game>
+	<game name="Quest - The Adventure (Europe)" id="0001">
+		<description>Quest - The Adventure (Europe)</description>
+		<rom name="Quest - The Adventure (Europe).dsk" size="324909" crc="df11c592" md5="072f69a247a8c2853ada52b268ebcd08" sha1="989dc29d1dead78452b5b0afb9591356484c643d" sha256="9f112025bb6bd56471c27334664fda8b781c267541c580cc18acce95b7f4515e"/>
+	</game>
+</datafile>

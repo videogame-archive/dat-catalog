@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<!-- NOTE TO FUTURE RENAMERS!
+
+THIS DATFILE CONTAINS MANUALLY ADDED COMMENTS TO DESCRIBE THE CONTENTS OF DISKS
+PLEASE ENSURE THESE ARE REPLICATED AND NOT OVERWRITTEN IN FUTURE
+
+!-->
+
+<datafile>
+	<header>
+		<name>Apple II - Compilations - Various - [DO]</name>
+		<description>Apple II - Compilations - Various - [DO] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Best of Hardcore Computing, The (1984)(SoftKey Publishing)(US)[h menu]">
+		<description>Best of Hardcore Computing, The (1984)(SoftKey Publishing)(US)[h menu]</description>
+		<rom name="Best of Hardcore Computing, The (1984)(SoftKey Publishing)(US)[h menu].do" size="143360" crc="2097138c" md5="91a25f95043e4935b122f3260a8bd4f4" sha1="58f6dd77a9376ab49abc3ce39705f6258c21268d"/>
+	</game>
+	<game name="Clover &amp; Screen Wipes &amp; Song Subroutines &amp; Uncle Louie's Two-Line Contest Winners &amp; Various Menu Programs (19xx)(-)">
+		<description>Clover &amp; Screen Wipes &amp; Song Subroutines &amp; Uncle Louie's Two-Line Contest Winners &amp; Various Menu Programs (19xx)(-)</description>
+		<rom name="Clover &amp; Screen Wipes &amp; Song Subroutines &amp; Uncle Louie's Two-Line Contest Winners &amp; Various Menu Programs (19xx)(-).do" size="143360" crc="6b7e2f91" md5="9fb67b085e4f49d3007dec5299f9039a" sha1="0dd5a4f87b6f109966a5fced114f39f450ee8c40"/>
+	</game>
+	<game name="Documentation for South Pacific Quest (1987-06-12)(Connection II) &amp; South Pacific Quest - Unlimited Men (19xx)(Mr. Chips)">
+		<description>Documentation for South Pacific Quest (1987-06-12)(Connection II) &amp; South Pacific Quest - Unlimited Men (19xx)(Mr. Chips)</description>
+		<rom name="Documentation for South Pacific Quest (1987-06-12)(Connection II) &amp; South Pacific Quest - Unlimited Men (19xx)(Mr. Chips).do" size="143360" crc="21b493a7" md5="06aed051309505d28932e205ab98b61e" sha1="728aa255a18e3b0fe6b15090734571b53d4b079a"/>
+	</game>
+	<game name="Essential Data Duplicator v3.0 &amp; Nibbles Away II vC3 &amp; Diversi-Copy v1.3 &amp; David DOS &amp; Disk Muncher v3.1 (19xx)(-)">
+		<description>Essential Data Duplicator v3.0 &amp; Nibbles Away II vC3 &amp; Diversi-Copy v1.3 &amp; David DOS &amp; Disk Muncher v3.1 (19xx)(-)</description>
+		<rom name="Essential Data Duplicator v3.0 &amp; Nibbles Away II vC3 &amp; Diversi-Copy v1.3 &amp; David DOS &amp; Disk Muncher v3.1 (19xx)(-).do" size="143360" crc="60213446" md5="c8c81523d731f613d38fce966779ddf5" sha1="75d17b2725db5b85e84524f02db75c531e063fe0"/>
+	</game>
+	<game name="Integer BASIC Files - Applications &amp; Demos (19xx)(-)">
+		<!--
+		Contains the following programs:
+		- 6502 Microcomputer Simulation (19xx)(Baker, S.A.)
+		- Animals (1978)(Apple)[b]
+		- Apple Colorgraphic Characters (19xx)(-)
+		- Apple II Animation (1978-04-08)(Bozek, R.)(US)
+		- Biorhythms (1979)(Computer Generation)[m Bruce Tognazzini]
+		- Bit Bucket (19xx)(-)
+		- Color Demo (1979)(Raskin, Jef - Holt, Rod)
+		- Color Graphics Demonstrations (19xx)(Holle, Dave)
+		- Custodian (1978)(Ramsey, David)
+		- Echo (19xx)(-)
+		- High Resolution Graphics in Six Colors (19xx)(-)
+		- Music (1978)(Apple)
+		- Plot (19xx)(-)
+		- Sleepytime (19xx)(-)
+		- Star Wars (1978)(Apple)
+		- Super-High Frequency Multi-Tones &amp; Mini-Assembler Tutorial (19xx)(Tognazzini, Bruce)
+		!-->
+		<description>Integer BASIC Files - Applications &amp; Demos (19xx)(-)</description>
+		<rom name="Integer BASIC Files - Applications &amp; Demos (19xx)(-).do" size="143360" crc="d647b174" md5="20d61d4d4ae99cf86eecc0da44e0cf17" sha1="309e622818bc2341080d5664f53f5fb6bfb6f64f"/>
+	</game>
+	<game name="Ms. Pac-Man (1983)(Atarisoft)[cr Diskman][48K] &amp; Picprint (19xx)(-)">
+		<description>Ms. Pac-Man (1983)(Atarisoft)[cr Diskman][48K] &amp; Picprint (19xx)(-)</description>
+		<rom name="Ms. Pac-Man (1983)(Atarisoft)[cr Diskman][48K] &amp; Picprint (19xx)(-).do" size="143360" crc="960162e4" md5="87a8e3563e8ae6975fd560cf9134352c" sha1="6406757cc2c77cc539711b933788ee943008ca5f"/>
+	</game>
+	<game name="Rubik's Cube Games &amp; Apps, Lottery Boss &amp; Department of Transportation Self-Evaluation for Teens (19xx)(-)">
+		<!--
+		Contains the following programs:
+			- Lottery Boss (1985)(Walter Computer Services)(US)
+			- Mad Mad Mad Mad Cube, The (19xx)(Hatcher, Rich)
+			- Rubik's Cube (19xx)(-)
+			- Rubik's Cube Solver (1980)(Kluepfel, Charles)
+			- Self-Evaluation for Teens (19xx)(Department of Transportation National Highway Traffic Safety Administration)[cr Surfer Bill]
+			- Supercube (1980)(Software Alternatives)
+		!-->
+		<description>Rubik's Cube Games &amp; Apps, Lottery Boss &amp; Department of Transportation Self-Evaluation for Teens (19xx)(-)</description>
+		<rom name="Rubik's Cube Games &amp; Apps, Lottery Boss &amp; Department of Transportation Self-Evaluation for Teens (19xx)(-).do" size="143360" crc="f9a04338" md5="593d64fcf034f5c708e5bcd628ddf903" sha1="da54073dd6faa805b514920fe1b20e6c051ea640"/>
+	</game>
+	<game name="Ryan Jackson's Disk (19xx)(Jackson, Ryan)">
+		<!--
+		Contains the following programs:
+			- Kidnapped! (1981-07)(SoftSide Magazine)
+			- List Maker (19xx)(-)
+			- Sound Generator Program (19xx)(-)
+		!-->
+		<description>Ryan Jackson's Disk (19xx)(Jackson, Ryan)</description>
+		<rom name="Ryan Jackson's Disk (19xx)(Jackson, Ryan).do" size="143360" crc="d06087a5" md5="fd863b2035f703210e198d3cad94303a" sha1="4fd899f2b3e52394323ca3f10fc87a6ced6c2ce7"/>
+	</game>
+	<game name="Sound Synthesizer (1984)(MicroSPARC) &amp; Ankh (1983)(Datamost)[cr Doctor Who - Merlin the Magician] &amp; Buzzard Bait (1983)(Sirius Software)[cr Freeze][48K]">
+		<description>Sound Synthesizer (1984)(MicroSPARC) &amp; Ankh (1983)(Datamost)[cr Doctor Who - Merlin the Magician] &amp; Buzzard Bait (1983)(Sirius Software)[cr Freeze][48K]</description>
+		<rom name="Sound Synthesizer (1984)(MicroSPARC) &amp; Ankh (1983)(Datamost)[cr Doctor Who - Merlin the Magician] &amp; Buzzard Bait (1983)(Sirius Software)[cr Freeze][48K].do" size="143360" crc="976c4971" md5="d7177cf95d50b3792f5986166659b405" sha1="9540661d64c1d2e454a64a929a703b90b3f105fa"/>
+	</game>
+	<game name="Various Formulae &amp; Conversions (19xx)(-)">
+		<description>Various Formulae &amp; Conversions (19xx)(-)</description>
+		<rom name="Various Formulae &amp; Conversions (19xx)(-).do" size="143360" crc="6d38a021" md5="9394561649d826e05f11aa1b4047cf0b" sha1="4b1071ba103d88ff0bd1c7bf2b3909885ff6a5f0"/>
+	</game>
+	<game name="Various Integer BASIC Programs - Apple Bowl, Biorythm, Board &amp; Card &amp; Dice Games (19xx)(-)">
+		<!-- Contains the following programs
+			- Apple '21' (1978)(Softape)
+			- Apple Bowl (1979)(Apple)[m disk CJK]
+			- Biorhythms (1979)(Computer Generation)[m Bruce Tognazzini]
+			- Craps (1979)(Softape)
+			- Crazy Eights (1978)(Softape)
+			- Five Card Stud Poker (19xx)(Hilger, Jim)[32K]
+			- Go-moku (1979)(Softape)
+			- Othello (1979)(Rainbow Computing)(CA)[Softape in US]
+			- Roulette (1979)(Softape)
+			- Solitaire (19xx)(Computerland)(US)
+			- Yahtzee (1978)(Apple)[16K]
+		!-->
+		<description>Various Integer BASIC Programs - Apple Bowl, Biorythm, Board &amp; Card &amp; Dice Games (19xx)(-)</description>
+		<rom name="Various Integer BASIC Programs - Apple Bowl, Biorythm, Board &amp; Card &amp; Dice Games (19xx)(-).do" size="143360" crc="d1e00be8" md5="cf85bcae4dffe5114f76580b6f6b4d82" sha1="3846e8daac9a858177f0edd6e533b35c5fc16980"/>
+	</game>
+	<game name="Various Programs and Demos (19xx)(-)[no boot]">
+		<!--
+		Contains the following programs:
+		- Color Demo (19xx)(-)
+		- Controller Writer (1984)(Hardcore Computist)
+		- Disk Rescue (1986)(MicroSPARC)
+		- Diskoverer, The (1986)(Fuchs, Larry)
+		- Modemtester (19xx)(-)
+		- Polar Prints (19xx)(-)
+		- Portfolio (1987)(MicroSPARC)[b]
+		- Super IOB v1.5 (19xx)(Darrah, Ray)
+		!-->
+		<description>Various Programs and Demos (19xx)(-)[no boot]</description>
+		<rom name="Various Programs and Demos (19xx)(-)[no boot].do" size="143360" crc="e01dd0a0" md5="d06fee5d449843f01cd9d3ff55e03f1e" sha1="19e05b7042c39630eeb79b3917e45e1d43923919"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Cards - [ARC]</name>
+		<description>Commodore C64 - Games - Cards - [ARC] (TOSEC-v2022-02-02)</description>
+		<category>TOSEC</category>
+		<version>2022-02-02</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Blackjack (1985)(Green Valley Publishing)[h ASS]">
+		<description>Blackjack (1985)(Green Valley Publishing)[h ASS]</description>
+		<rom name="Blackjack (1985)(Green Valley Publishing)[h ASS].arc" size="7168" crc="f9294d74" md5="d27b0d7245ab012de654a496c32b3739" sha1="bcf8e3d7e0aa50f31597c2871e96e48b485577e0"/>
+	</game>
+</datafile>

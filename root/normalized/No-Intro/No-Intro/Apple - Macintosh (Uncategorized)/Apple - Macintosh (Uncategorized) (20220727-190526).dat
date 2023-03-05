@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>213</id>
+		<name>Apple - Macintosh (Uncategorized)</name>
+		<description>Apple - Macintosh (Uncategorized)</description>
+		<version>20220727-190526</version>
+		<author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1)" id="0004">
+		<description>[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1)</description>
+		<rom name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1) [b].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c" status="baddump"/>
+	</game>
+	<game name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2)" id="0005">
+		<description>[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2)</description>
+		<rom name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2) [b].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c" status="baddump"/>
+	</game>
+	<game name="Alge-Blaster Plus! (USA, Europe) (v1.1)" id="0055">
+		<description>Alge-Blaster Plus! (USA, Europe) (v1.1)</description>
+		<rom name="Alge-Blaster Plus! (USA, Europe) (v1.1).image" size="838484" crc="aae4f05b" md5="b53ca61c284054ad47d9581d95506c7b" sha1="38d5cc5ae922cbfd7b96599969e3d37f37ae9204" sha256="4c5c8552d24b066d2fdb390f76daa04a61cf8329856f1c0f851a9083f67cfc91"/>
+	</game>
+	<game name="Alge-Blaster Plus! (USA, Europe)" id="0056">
+		<description>Alge-Blaster Plus! (USA, Europe)</description>
+		<rom name="Alge-Blaster Plus! (USA, Europe).image" size="838484" crc="c35bd5f2" md5="20a91c06d7bc66dd60be8ce2e55e0a36" sha1="bb0daf6faae5e7a551b08c1ef2701f895d8c91a1" sha256="045c0649a083cb19f9bc7baedb19fbbc28d92e5fd34376230175846c5c445274"/>
+	</game>
+	<game name="Baron (USA, Europe)" id="0068">
+		<description>Baron (USA, Europe)</description>
+		<rom name="Baron (USA, Europe).image" size="419284" crc="dea9cf23" md5="c0e1158b5ca8380363f7839fda09696b" sha1="0be8754be68fc3841dcc00b368ff020e45c95659" sha256="db8066ee6b371691f2e7a3ee92b05eefd9d112ba27ef7421208582b78c975fe3"/>
+	</game>
+	<game name="Beyond Dark Castle (USA) (Disk 1)" id="0001">
+		<description>Beyond Dark Castle (USA) (Disk 1)</description>
+		<rom name="Beyond Dark Castle (USA) (Disk 1).image" size="838484" crc="ea2c5812" md5="87f900423ba6574b5da9bca740ae123d" sha1="653a896fb276ffa75ad2cb44b3f1407ae5dd4579" sha256="ab1216d0b92500f0ad077e9a80e902b132ba94a13c0cb6c9e7ebe7f2417a7a81"/>
+	</game>
+	<game name="Beyond Dark Castle (USA, Europe) (Disk 2)" id="0002">
+		<description>Beyond Dark Castle (USA, Europe) (Disk 2)</description>
+		<rom name="Beyond Dark Castle (USA, Europe) (Disk 2).image" size="838484" crc="59abc153" md5="0c4062806e01a2fef5b38995c3609d89" sha1="0e58aeb2a55ea24fcfa373879b833cafc5bedfb6" sha256="318860aa81d4cc8de352fcd1e850ab55e5a3abf4e250056f1924034568360a88"/>
+	</game>
+	<game name="Dark Castle (USA, Europe) (Disk 1)" id="0013">
+		<description>Dark Castle (USA, Europe) (Disk 1)</description>
+		<rom name="Dark Castle (USA, Europe) (Disk 1).image" size="419284" crc="b2bde504" md5="57228617a73c18ee9053fcac1f6f6269" sha1="18f956e42408768143557602cb86e5ae55dd21ac" sha256="235a504511de492a3c130c79444fdd4a0b180d928ff147ed009ed6b312dc9287"/>
+	</game>
+	<game name="Dark Castle (USA, Europe) (Disk 2)" id="0070">
+		<description>Dark Castle (USA, Europe) (Disk 2)</description>
+		<rom name="Dark Castle (USA, Europe) (Disk 2).image" size="419284" crc="d34fb508" md5="acfb75d51974bbfacef5ce99eb0ec028" sha1="986bc73a6313b28f1931b24b28cfdfa1e048dc08" sha256="917ab0fcc838332d4e30dfd887e67f15e4f01d66903de44dd454117d2b66cf50"/>
+	</game>
+</datafile>

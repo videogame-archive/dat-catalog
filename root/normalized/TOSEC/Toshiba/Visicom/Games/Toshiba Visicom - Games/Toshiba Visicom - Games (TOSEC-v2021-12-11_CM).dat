@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Visicom - Games</name>
+		<description>Toshiba Visicom - Games (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gambler I (1978)(Toshiba)(JP)[CAS-140]">
+		<description>Gambler I (1978)(Toshiba)(JP)[CAS-140]</description>
+		<rom name="Gambler I (1978)(Toshiba)(JP)[CAS-140].rom" size="2048" crc="1f218f46" md5="69ba44ce797abdc837d1ce180802143e" sha1="af9c7e707cba98bea30b0c9e886652f2fedcb284"/>
+	</game>
+	<game name="Gambler II (1978)(Toshiba)(JP)[CAS-141]">
+		<description>Gambler II (1978)(Toshiba)(JP)[CAS-141]</description>
+		<rom name="Gambler II (1978)(Toshiba)(JP)[CAS-141].rom" size="2048" crc="565be7c2" md5="ee7e9b2ddc0f5360b51bd663a78f5fcf" sha1="561fb51db880e3a668231fddd4c4a10d1a981c80"/>
+	</game>
+	<game name="Space Command (1978)(Toshiba)(JP)[CAS-160]">
+		<description>Space Command (1978)(Toshiba)(JP)[CAS-160]</description>
+		<rom name="Space Command (1978)(Toshiba)(JP)[CAS-160].rom" size="2048" crc="566dcc8a" md5="3b8369eb489e961929ca302230a0a0d1" sha1="b5e0313b7d4aacd9444c1987c51eaaba88fdc6bb"/>
+	</game>
+	<game name="Sports Fan (1978)(Toshiba)(JP)[CAS-130]">
+		<description>Sports Fan (1978)(Toshiba)(JP)[CAS-130]</description>
+		<rom name="Sports Fan (1978)(Toshiba)(JP)[CAS-130].rom" size="2048" crc="9da5c845" md5="2f29654b1656fbb462a8223100e2c6cc" sha1="438d9fc67de1ef408718b4737c0d0fd48844dacb"/>
+	</game>
+</datafile>

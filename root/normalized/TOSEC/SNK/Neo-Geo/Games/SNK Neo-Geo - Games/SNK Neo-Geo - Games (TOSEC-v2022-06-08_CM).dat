@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo - Games</name>
+		<description>SNK Neo-Geo - Games (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Abyssal Infants (2021-09-20)(kakoeimon)">
+		<description>Abyssal Infants (2021-09-20)(kakoeimon)</description>
+		<rom name="Abyssal Infants (2021-09-20)(kakoeimon).neo" size="7081984" crc="54a6a1ef" md5="0b0048eb93a70ace181d04d5bcf1ce69" sha1="be76027bd0eebbd677d3fbe8869934607289692b"/>
+	</game>
+</datafile>

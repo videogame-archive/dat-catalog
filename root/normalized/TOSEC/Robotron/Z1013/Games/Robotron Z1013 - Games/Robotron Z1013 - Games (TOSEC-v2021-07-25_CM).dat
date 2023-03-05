@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Robotron Z1013 - Games</name>
+		<description>Robotron Z1013 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-04-15)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-04-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-04-15)(Caruso, Fabrizio).z80" size="15999" crc="b4ee2e72" md5="059772d45c280ad0e677d4288c6f0354" sha1="d6eecd9121831a4106147243053a7248a5185e95"/>
+	</game>
+	<game name="Cross Chase (2018-05-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-05-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-05-19)(Caruso, Fabrizio).z80" size="15849" crc="10061810" md5="52d0505ecf0509b9968ecfb959f35062" sha1="2880248adca9dee08420cac477d35348a556ea0c"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio).z80" size="15766" crc="7dd0e9c2" md5="49ed3e34504e6885d7ce4303dc45333b" sha1="23b2054b4dc7eca415454c425db2802adf9cb55d"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).z80" size="16007" crc="a1cabaa3" md5="f2f39628e16c2be4b953a5760fb84096" sha1="9471813f343bf37dd1536e165406628ec56b3c84"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).z80" size="15512" crc="570cda73" md5="e9738a7bb967d494d44a2463cc8c6461" sha1="f0e43f443bf2cdc3ed0928a53de868af6883298f"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).z80" size="14747" crc="d59842e9" md5="5d5c443bdf50e9fa1a1b0ac6d24edbf5" sha1="d4e90ba274717a8288bfac2465ddb99b68a9279b"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).tap" size="15754" crc="dfa60ffa" md5="61452fd65735d8377b59a6fb30bbd199" sha1="6da8fdaf68c9c120042a8ac504e57bdd4eb14aa9"/>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).z80" size="14322" crc="2020acb3" md5="1b93eeb122fd76cfd72e265cb0970fa0" sha1="47a83451db9bdf029d08b39d1de72cc8b33f2b3a"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[less text]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[less text]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[less text].tap" size="14206" crc="90fbbb74" md5="76cdc5f8930703209f9cdb828717b061" sha1="f1538d0403ef6192ba6a2d42310b0f75b1fbdf5e"/>
+	</game>
+</datafile>

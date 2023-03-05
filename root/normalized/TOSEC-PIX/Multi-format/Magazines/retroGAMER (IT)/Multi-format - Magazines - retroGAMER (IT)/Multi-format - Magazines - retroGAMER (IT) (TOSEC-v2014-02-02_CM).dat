@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - retroGAMER (IT)</name>
+		<description>Multi-format - Magazines - retroGAMER (IT) (TOSEC-v2014-02-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2014-02-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="retroGAMER - Anno 1 N.0 (2006)(PlayPress)(IT)">
+		<description>retroGAMER - Anno 1 N.0 (2006)(PlayPress)(IT)</description>
+		<rom name="retroGAMER - Anno 1 N.0 (2006)(PlayPress)(IT).pdf" size="111659459" crc="5a36d478" md5="3dd800069ae6192aa21d9eff673eb303" sha1="7cf0732f7215fe883fe21211b38201345f22b906"/>
+	</game>
+	<game name="retroGAMER - Anno 2 N.1 (2007)(PlayPress)(IT)">
+		<description>retroGAMER - Anno 2 N.1 (2007)(PlayPress)(IT)</description>
+		<rom name="retroGAMER - Anno 2 N.1 (2007)(PlayPress)(IT).pdf" size="113741921" crc="82a2a15c" md5="15a8a94ab2ac0aeb315b065db4899943" sha1="3fa755692d6626c47db3e721ce518118c5844469"/>
+	</game>
+</datafile>

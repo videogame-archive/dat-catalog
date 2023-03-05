@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Games - [BIN]</name>
+		<description>Apple II - Games - [BIN] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ASCII Chase (2017-06-10)(Caruso, Fabrizio)">
+		<description>ASCII Chase (2017-06-10)(Caruso, Fabrizio)</description>
+		<rom name="ASCII Chase (2017-06-10)(Caruso, Fabrizio).bin" size="18413" crc="c650d4db" md5="8941bb5ad58f97b08b8d9de84664b9eb" sha1="1c8876565953145e3492f44452f5496f155d450a"/>
+	</game>
+	<game name="ASCII Chase (2017-06-12)(Caruso, Fabrizio)">
+		<description>ASCII Chase (2017-06-12)(Caruso, Fabrizio)</description>
+		<rom name="ASCII Chase (2017-06-12)(Caruso, Fabrizio).bin" size="19935" crc="a73b017c" md5="55e59ac9bbedd530023b720577e63e5a" sha1="99def4e9f8c3a18ced37fa5001c70af9286f4f05"/>
+	</game>
+</datafile>

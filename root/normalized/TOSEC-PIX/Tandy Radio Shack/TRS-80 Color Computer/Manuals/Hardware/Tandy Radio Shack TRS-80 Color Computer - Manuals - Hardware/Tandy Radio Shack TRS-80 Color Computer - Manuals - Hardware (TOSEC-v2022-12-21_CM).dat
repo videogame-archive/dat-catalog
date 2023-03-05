@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Color Computer - Manuals - Hardware</name>
+		<description>Tandy Radio Shack TRS-80 Color Computer - Manuals - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Imprimante a matrice de points DMP-106 (1986)(Tandy)(FR)[26-2820]">
+		<description>Imprimante a matrice de points DMP-106 (1986)(Tandy)(FR)[26-2820]</description>
+		<rom name="Imprimante a matrice de points DMP-106 (1986)(Tandy)(FR)[26-2820].pdf" size="29831206" crc="05caae42" md5="64ce530aa85da1ef6fd5e3b1d3cbbcdc" sha1="160abcad1c5c0e4df68f89bcca61bb356e02520d"/>
+	</game>
+	<game name="Introducing A L'Ordinateur Couleur 2 (1984)(Tandy)(FR)">
+		<description>Introducing A L'Ordinateur Couleur 2 (1984)(Tandy)(FR)</description>
+		<rom name="Introducing A L'Ordinateur Couleur 2 (1984)(Tandy)(FR).pdf" size="13721611" crc="abc19467" md5="fe04588e60289a6ef94325f2115786f6" sha1="0efdda2d94b6cbae3c121abacd8e43ace4c0a7c9"/>
+	</game>
+	<game name="RGB-11 Color Monitor (198x)(Tandy)[25-8056]">
+		<description>RGB-11 Color Monitor (198x)(Tandy)[25-8056]</description>
+		<rom name="RGB-11 Color Monitor (198x)(Tandy)[25-8056].pdf" size="4534192" crc="81498942" md5="4de213ad67f8d0b894b223d81effcbdb" sha1="c78af379d9567bd64b80b63259997a01cfc7242b"/>
+	</game>
+</datafile>

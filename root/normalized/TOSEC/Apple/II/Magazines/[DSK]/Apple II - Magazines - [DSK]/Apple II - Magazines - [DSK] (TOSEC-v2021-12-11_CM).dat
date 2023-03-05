@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Magazines - [DSK]</name>
+		<description>Apple II - Magazines - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>TKaos - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 1)[boot]">
+		<description>Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 1)[boot]</description>
+		<rom name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 1)[boot].DSK" size="143360" crc="e9e7131e" md5="e52059abdfecfd5112335860c7f990f1" sha1="48960b057a33f8107beec97cbd7d2664f9d1473d"/>
+	</game>
+	<game name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 2)[no boot]">
+		<description>Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 2)[no boot]</description>
+		<rom name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 2)[no boot].DSK" size="143360" crc="56cf172e" md5="5d1c2d135e2259a3d23fe7d002ba74cc" sha1="e302bd14c85d34551a28fe7f3e976511064cd9ba"/>
+	</game>
+	<game name="Nibble Sampler Disk (1988)(MicroSPARC)(US)">
+		<description>Nibble Sampler Disk (1988)(MicroSPARC)(US)</description>
+		<rom name="Nibble Sampler Disk (1988)(MicroSPARC)(US).dsk" size="143360" crc="b51f9a4e" md5="97476ea0c311ad99b56dc0b31df517f4" sha1="dfca63c253855ecc7e3de32b6d83174bfdfe86a1"/>
+	</game>
+	<game name="Peeker Nr. 03 (1985)(Verlag, Dr. Alfred Huethig)(DE)[CPM]">
+		<description>Peeker Nr. 03 (1985)(Verlag, Dr. Alfred Huethig)(DE)[CPM]</description>
+		<rom name="Peeker Nr. 03 (1985)(Verlag, Dr. Alfred Huethig)(DE)[CPM].dsk" size="143360" crc="4b8b43de" md5="13c1c113577a98e9c23b9ebe05c591e9" sha1="0c4b9ac5347eff8b75c1204987587fa3379adb75"/>
+	</game>
+	<game name="Peeker Nr. 09 (1985)(Verlag, Dr. Alfred Huethig)(DE)[PASCAL]">
+		<description>Peeker Nr. 09 (1985)(Verlag, Dr. Alfred Huethig)(DE)[PASCAL]</description>
+		<rom name="Peeker Nr. 09 (1985)(Verlag, Dr. Alfred Huethig)(DE)[PASCAL].dsk" size="143360" crc="b0084186" md5="e8d89db444e0972c81488df204dbf34e" sha1="ff4b1d515068fac61a975748ccf720b06f0919b8"/>
+	</game>
+	<game name="Peeker Nr. 20 (1986)(Verlag, Dr. Alfred Huethig)(DE)[PASCAL]">
+		<description>Peeker Nr. 20 (1986)(Verlag, Dr. Alfred Huethig)(DE)[PASCAL]</description>
+		<rom name="Peeker Nr. 20 (1986)(Verlag, Dr. Alfred Huethig)(DE)[PASCAL].dsk" size="143360" crc="b7aa9ba4" md5="f1bef4042ee9e1f1d2f5622fb5a6479c" sha1="1f9755c62f2ffa4353f9ff9fedb3628288563fb4"/>
+	</game>
+	<game name="Softdisk #56 (198x)(Softdisk)(US)(Side 1)">
+		<description>Softdisk #56 (198x)(Softdisk)(US)(Side 1)</description>
+		<rom name="Softdisk #56 (198x)(Softdisk)(US)(Side 1).dsk" size="143360" crc="58afc4fe" md5="c368bf9bd8e14fe82a9a5df5e45092dc" sha1="dc9b01cd3db8528bb33ff7130f1eed6ab2e9c52a"/>
+	</game>
+	<game name="Softdisk #56 (198x)(Softdisk)(US)(Side 2)">
+		<description>Softdisk #56 (198x)(Softdisk)(US)(Side 2)</description>
+		<rom name="Softdisk #56 (198x)(Softdisk)(US)(Side 2).dsk" size="143360" crc="064aeb1c" md5="e82cf76f7a39c12f104d8074137b40f4" sha1="1ef080d43902261b72f9f7655e3ad66f07e9d134"/>
+	</game>
+	<game name="Softdisk #56 (198x)(Softdisk)(US)(Side 3)">
+		<description>Softdisk #56 (198x)(Softdisk)(US)(Side 3)</description>
+		<rom name="Softdisk #56 (198x)(Softdisk)(US)(Side 3).dsk" size="143360" crc="42a04693" md5="776d9c49fd37c2a0306217bd9a0dec4d" sha1="e5d9e0ebdca0e057ff661a1f35fa4801469926c4"/>
+	</game>
+</datafile>

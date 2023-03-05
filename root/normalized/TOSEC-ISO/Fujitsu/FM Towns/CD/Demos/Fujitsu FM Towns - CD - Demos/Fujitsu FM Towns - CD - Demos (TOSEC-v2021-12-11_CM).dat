@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - CD - Demos</name>
+		<description>Fujitsu FM Towns - CD - Demos (TOSEC-v2021-12-11)</description>
+		<category>TOSEC-ISO</category>
+		<version>2021-12-11</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FM Towns Super Technology Demo 1993 (1993)(Fibercast - Fujitsu)(en-ja)">
+		<description>FM Towns Super Technology Demo 1993 (1993)(Fibercast - Fujitsu)(en-ja)</description>
+		<rom name="FM Towns Super Technology Demo 1993 (1993)(Fibercast - Fujitsu)(en-ja).bin" size="429536352" crc="ecb79e7e" md5="8e6ec6fad9c6c55420c394f885590b46" sha1="9ec9ccce86d13cbcaddcd5425fd652b49cea26e1"/>
+		<rom name="FM Towns Super Technology Demo 1993 (1993)(Fibercast - Fujitsu)(en-jp).cue" size="505" crc="0cf6463f" md5="5b7f815ef6c35162221e4ac42d9d591e" sha1="1b5b7ea6d11dea6186a32bf2ab5a8d8608400610"/>
+	</game>
+	<game name="Fractal Engine Demo (1992)(Fujitsu - Psygnosis)(JP)">
+		<description>Fractal Engine Demo (1992)(Fujitsu - Psygnosis)(JP)</description>
+		<rom name="Fractal Engine Demo (1992)(Fujitsu - Psygnosis)(JP).bin" size="63499296" crc="a1bd6185" md5="f15d0a8edac0a985b58be3a660370c62" sha1="dc3933801558881dd9eb2efd7c917602fc588be8"/>
+		<rom name="Fractal Engine Demo (1992)(Fujitsu - Psygnosis)(JP).cue" size="117" crc="1b0787aa" md5="f54e7a9913b75679cf4a1774bdcc8076" sha1="96006479ad56cb8e1620ff76d198cb5cb1de9ef6"/>
+	</game>
+</datafile>

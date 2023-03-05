@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio Loopy - Firmware</name>
+		<description>Casio Loopy - Firmware (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Internal Thermal Printer BIOS (1995)(Casio)(JP)">
+		<description>Internal Thermal Printer BIOS (1995)(Casio)(JP)</description>
+		<rom name="Internal Thermal Printer BIOS (1995)(Casio)(JP).bin" size="524288" crc="8f51fa17" md5="c0f1c899c9ca098663d046d60779711d" sha1="99f50be06b083fdb07e08f30b0b26d9037afc869"/>
+	</game>
+	<game name="Video Seal Word Processor Magical Shop BIOS (1995)(Casio)(JP)">
+		<description>Video Seal Word Processor Magical Shop BIOS (1995)(Casio)(JP)</description>
+		<rom name="Video Seal Word Processor Magical Shop BIOS (1995)(Casio)(JP).bin" size="1048576" crc="5764591f" md5="09e8ca35fd54165b9fc4cb8f4303d150" sha1="16a2ade7e08f16e44d5c74c714840df1b48da4ad"/>
+	</game>
+</datafile>

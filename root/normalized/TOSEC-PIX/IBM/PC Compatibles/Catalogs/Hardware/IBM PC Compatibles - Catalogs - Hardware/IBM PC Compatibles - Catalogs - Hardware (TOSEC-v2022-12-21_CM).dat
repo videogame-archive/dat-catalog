@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Catalogs - Hardware</name>
+		<description>IBM PC Compatibles - Catalogs - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ampro SBC Products (1990)(Ampro)(US)">
+		<description>Ampro SBC Products (1990)(Ampro)(US)</description>
+		<rom name="Ampro SBC Products (1990)(Ampro)(US).PDF" size="13240689" crc="c63b5071" md5="f2d683d4ca6640b185e6fc7211946ef5" sha1="9e6231014454e7a9d8f99aea9bb0a3ca92f4b7d8"/>
+	</game>
+	<game name="It's a BIOS (1986)(Silent Partner)(US)">
+		<description>It's a BIOS (1986)(Silent Partner)(US)</description>
+		<rom name="It's a BIOS (1986)(Silent Partner)(US).pdf" size="1349948" crc="7a9e704d" md5="b12c9348bc950e2c16f965a122c75e97" sha1="a7de173e128ce727a526602a89be7f7723877d0d"/>
+	</game>
+	<game name="La Gamma PPC Amstrad (1988)(Amstrad)(IT)">
+		<description>La Gamma PPC Amstrad (1988)(Amstrad)(IT)</description>
+		<rom name="La Gamma PPC Amstrad (1988)(Amstrad)(IT).pdf" size="1568874" crc="7f30a970" md5="f9aa4fb4549919d7dc0093d35dcc3248" sha1="7b628c5c383a674c9d3e62d1fe8a9ccd1fe9540f"/>
+	</game>
+	<game name="PC's Limited 286 (1987)(PC's Limited)(US)">
+		<description>PC's Limited 286 (1987)(PC's Limited)(US)</description>
+		<rom name="PC's Limited 286 (1987)(PC's Limited)(US).pdf" size="2896013" crc="4171ba95" md5="39bace97ce721b8377e79db353f40feb" sha1="b6acced9c575b075cbc7d677def893630046bfa6"/>
+	</game>
+	<game name="PC's Limited System 200 (1988)(PC's Limited)(US)">
+		<description>PC's Limited System 200 (1988)(PC's Limited)(US)</description>
+		<rom name="PC's Limited System 200 (1988)(PC's Limited)(US).PDF" size="542749" crc="6631b085" md5="bf5d2bc28f6bf33aed54a6d7660acb85" sha1="ffdcac02e4bfb50778df0ae258e66e863954222a"/>
+	</game>
+	<game name="Tandy 1000 (1984)(Tandy)">
+		<description>Tandy 1000 (1984)(Tandy)</description>
+		<rom name="Tandy 1000 (1984)(Tandy).pdf" size="3335124" crc="2fd1bbbf" md5="08f641bf0ee9b885a3839c959d13c533" sha1="05fa398261938779aab6a70b70d176e6f90cae88"/>
+	</game>
+</datafile>

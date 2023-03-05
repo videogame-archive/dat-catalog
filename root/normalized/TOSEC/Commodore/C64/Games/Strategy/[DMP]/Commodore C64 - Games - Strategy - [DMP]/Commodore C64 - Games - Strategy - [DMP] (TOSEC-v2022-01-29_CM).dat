@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Strategy - [DMP]</name>
+		<description>Commodore C64 - Games - Strategy - [DMP] (TOSEC-v2022-01-29)</description>
+		<category>TOSEC</category>
+		<version>2022-01-29</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Armageddon Man, The (1987)(Martech)">
+		<description>Armageddon Man, The (1987)(Martech)</description>
+		<rom name="Armageddon Man, The (1987)(Martech).dmp" size="994662" crc="836baaf7" md5="3e2f1dbf964105ad72740e052679248b" sha1="a7d7ef2371c7aba7583469afba2d00addda1049e"/>
+	</game>
+	<game name="Armageddon Man, The (1987)(Martech)[a]">
+		<description>Armageddon Man, The (1987)(Martech)[a]</description>
+		<rom name="Armageddon Man, The (1987)(Martech)[a].dmp" size="994674" crc="52b5a9c6" md5="89cffd799972e2062a0e89581ef58db3" sha1="d2e6e5a3b35cbed68c3b6dc31cff033733f1876a"/>
+	</game>
+</datafile>

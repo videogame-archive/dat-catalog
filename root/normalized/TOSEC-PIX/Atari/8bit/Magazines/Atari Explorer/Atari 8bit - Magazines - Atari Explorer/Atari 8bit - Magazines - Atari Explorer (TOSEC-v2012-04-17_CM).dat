@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Magazines - Atari Explorer</name>
+		<description>Atari 8bit - Magazines - Atari Explorer (TOSEC-v2012-04-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Explorer (1985-02)(Atari)(US)">
+		<description>Atari Explorer (1985-02)(Atari)(US)</description>
+		<rom name="Atari Explorer (1985-02)(Atari)(US).pdf" size="29100941" crc="fbdfb982" md5="7373083465351e575ac921f0bc565ae8" sha1="342fe18b99262796003124ed91007fb2be31465c"/>
+	</game>
+	<game name="Atari Explorer (1985-06)(Atari)(US)">
+		<description>Atari Explorer (1985-06)(Atari)(US)</description>
+		<rom name="Atari Explorer (1985-06)(Atari)(US).pdf" size="32969363" crc="25a7b127" md5="e6c0a7b2fdc47db87c85fe1c3f9f63b4" sha1="5ace5bb4b12fa3e276bcbf02283d6f0c48a859c6"/>
+	</game>
+	<game name="Atari Explorer (1986-12)(Atari)(US)">
+		<description>Atari Explorer (1986-12)(Atari)(US)</description>
+		<rom name="Atari Explorer (1986-12)(Atari)(US).pdf" size="34019655" crc="aac06c92" md5="d2104e940b6c58441ecae7651cb70a71" sha1="ca4b8f00ab5839e715e777fdb5561041b81a05c5"/>
+	</game>
+</datafile>

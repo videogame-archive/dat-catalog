@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega 32X - CD - Games - [BIN-CUE]</name>
+		<description>Sega 32X - CD - Games - [BIN-CUE] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Surgical Strike (1996-01)(Sega)(BR)(en)">
+		<description>Surgical Strike (1996-01)(Sega)(BR)(en)</description>
+		<rom name="Surgical Strike (1996-01)(Sega)(BR)(en).bin" size="483343056" crc="8cff5303" md5="628ccaba431211e0d95f2ced133bd3e9" sha1="1fc7ed580d30e01a6d49078a15e6d032067ca9c6"/>
+		<rom name="Surgical Strike (1996-01)(Sega)(BR)(en).cue" size="200" crc="ed403721" md5="a11f746a93dade241b62608281be7031" sha1="faae9761c1f5fe3b9bb978ed41011725be3f8247"/>
+	</game>
+</datafile>

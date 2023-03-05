@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 2600 &amp; VCS - Manuals - Applications</name>
+		<description>Atari 2600 &amp; VCS - Manuals - Applications (TOSEC-v2013-04-03)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-04-03</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basic Programming (1979)(Atari)(US)">
+		<description>Basic Programming (1979)(Atari)(US)</description>
+		<rom name="Basic Programming (1979)(Atari)(US).pdf" size="3328225" crc="7271444a" md5="eb8f8f1b11f290ac8186c52920e5f715" sha1="ab500ee268737bc67601d33edfa5d696c42167f6"/>
+	</game>
+	<game name="Basic Programming (1979)(Atari)(US)[a]">
+		<description>Basic Programming (1979)(Atari)(US)[a]</description>
+		<rom name="Basic Programming (1979)(Atari)(US)[a].pdf" size="1556633" crc="c3850fbb" md5="2f050f235391b157c405a7e44903c79b" sha1="85125c062ca0eb72f25427d75fbf64e1095ee377"/>
+	</game>
+</datafile>

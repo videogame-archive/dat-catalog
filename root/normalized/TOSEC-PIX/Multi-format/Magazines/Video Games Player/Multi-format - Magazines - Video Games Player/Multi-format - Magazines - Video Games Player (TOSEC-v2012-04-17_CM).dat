@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Video Games Player</name>
+		<description>Multi-format - Magazines - Video Games Player (TOSEC-v2012-04-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer Games - Vol 3 No 1 (1984-04)(Carnegie Publications)(US)">
+		<description>Computer Games - Vol 3 No 1 (1984-04)(Carnegie Publications)(US)</description>
+		<rom name="Computer Games - Vol 3 No 1 (1984-04)(Carnegie Publications)(US).pdf" size="25583917" crc="cc48bfad" md5="88c67750081cbc9ce4bffb471d35b2e1" sha1="5db90cf1680742e0d6b44f3a73409f1e4b0582aa"/>
+	</game>
+	<game name="Computer Games - Vol 3 No 2 (1984-06)(Carnegie Publications)(US)">
+		<description>Computer Games - Vol 3 No 2 (1984-06)(Carnegie Publications)(US)</description>
+		<rom name="Computer Games - Vol 3 No 2 (1984-06)(Carnegie Publications)(US).pdf" size="25440331" crc="2a863a65" md5="237859200bc3974255dc6e3e4081c6b1" sha1="e1b0aeabe6afbdee3c1bd527bb869d06c00db21a"/>
+	</game>
+	<game name="Computer Games - Vol 3 No 4 (1984-12)(Carnegie Publications)(US)">
+		<description>Computer Games - Vol 3 No 4 (1984-12)(Carnegie Publications)(US)</description>
+		<rom name="Computer Games - Vol 3 No 4 (1984-12)(Carnegie Publications)(US).pdf" size="26072084" crc="5609a164" md5="7b490e74885d295807c721636b91fae0" sha1="63b84e27b0f7bd2c4e52cde1ad106dbeecedae2d"/>
+	</game>
+	<game name="Computer Games - Vol 3 No 5 (1985-02)(Carnegie Publications)(US)">
+		<description>Computer Games - Vol 3 No 5 (1985-02)(Carnegie Publications)(US)</description>
+		<rom name="Computer Games - Vol 3 No 5 (1985-02)(Carnegie Publications)(US).pdf" size="26179680" crc="e39fc873" md5="43ec2d043782d9eebe863cb7be3be7b8" sha1="196d6521399d46c4cdaea1bb3a80cf876f15665c"/>
+	</game>
+	<game name="Video Games Player - Vol 1 No 1 (1982-09)(Carnegie Publications)(US)">
+		<description>Video Games Player - Vol 1 No 1 (1982-09)(Carnegie Publications)(US)</description>
+		<rom name="Video Games Player - Vol 1 No 1 (1982-09)(Carnegie Publications)(US).pdf" size="19865302" crc="fb2268af" md5="df40a314ab587a65cc79000286f4db84" sha1="53d5cd63aeb57bd02ce923fee133f6069c0825e9"/>
+	</game>
+	<game name="Video Games Player - Vol 2 No 1 (1983-09)(Carnegie Publications)(US)">
+		<description>Video Games Player - Vol 2 No 1 (1983-09)(Carnegie Publications)(US)</description>
+		<rom name="Video Games Player - Vol 2 No 1 (1983-09)(Carnegie Publications)(US).pdf" size="27698925" crc="3ab4dd4c" md5="6fe384b01c5c8ce06673aaec7b841d74" sha1="d6bcbf5d494978f10dccb0cec3065de5f018bce2"/>
+	</game>
+	<game name="Video Games Player - Vol 2 No 2 (1983-11)(Carnegie Publications)(US)">
+		<description>Video Games Player - Vol 2 No 2 (1983-11)(Carnegie Publications)(US)</description>
+		<rom name="Video Games Player - Vol 2 No 2 (1983-11)(Carnegie Publications)(US).pdf" size="25997518" crc="eae88282" md5="591c88b5219e3ff9db674eeedbab708e" sha1="a6b40ed33edee28dc9615f167fda23b3d31e7cab"/>
+	</game>
+</datafile>

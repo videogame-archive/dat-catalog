@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Cards - [BIN]</name>
+		<description>Commodore C64 - Games - Cards - [BIN] (TOSEC-v2022-01-29)</description>
+		<category>TOSEC</category>
+		<version>2022-01-29</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Bridge 64 (1983)(Handic Software)">
+		<description>Bridge 64 (1983)(Handic Software)</description>
+		<rom name="Bridge 64 (1983)(Handic Software).bin" size="16384" crc="df3cbb0f" md5="5702ba14be9a13228926661e80aa7f5e" sha1="6a00991eb13203da3f4f3e3b1b723adf225e1b42"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Manuals - Technical</name>
+		<description>Commodore VIC20 - Manuals - Technical (TOSEC-v2010-01-15)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-15</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Superchart VIC-20 - Commodore 64 (1983)(Butterfield, Jim)">
+		<description>Superchart VIC-20 - Commodore 64 (1983)(Butterfield, Jim)</description>
+		<rom name="Superchart VIC-20 - Commodore 64 (1983)(Butterfield, Jim).pdf" size="549222" crc="47e09a4b" md5="1a4401af7a6736c3acb2beaa68e1edc6" sha1="a8acbe06be1b91ce356154735be7ec9b485af930"/>
+	</game>
+	<game name="UMI Reference Card For The VIC-20 (1982)(UMI)">
+		<description>UMI Reference Card For The VIC-20 (1982)(UMI)</description>
+		<rom name="UMI Reference Card For The VIC-20 (1982)(UMI).pdf" size="2274946" crc="707ec4ea" md5="703f64bb510a1e5ea64cd4a30e6a1830" sha1="fbbf9122901eb70dca5023e6ded4910eb69cfcc5"/>
+	</game>
+	<game name="VIC-20 - Commodore 64 Memory Map (1983)(Butterfield, Jim)">
+		<description>VIC-20 - Commodore 64 Memory Map (1983)(Butterfield, Jim)</description>
+		<rom name="VIC-20 - Commodore 64 Memory Map (1983)(Butterfield, Jim).pdf" size="532161" crc="505bd035" md5="eb951103b77417bbe11f71cd2b9cbc28" sha1="d3d3a0dd4841ad34ef26991889b82d97052fe60e"/>
+	</game>
+	<game name="VIC-20 Memory Map (1983)(Butterfield, Jim)">
+		<description>VIC-20 Memory Map (1983)(Butterfield, Jim)</description>
+		<rom name="VIC-20 Memory Map (1983)(Butterfield, Jim).pdf" size="382288" crc="6b688b27" md5="1640eb2fc944f3a5adccf2fe4c695748" sha1="3806dfc90d9204d4b170432445179e4558211c17"/>
+	</game>
+</datafile>

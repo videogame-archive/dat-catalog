@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Wii U - Manuals - Hardware</name>
+		<description>Nintendo Wii U - Manuals - Hardware (TOSEC-v2012-12-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-12-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Quickstart Guide (2012)(Nintendo)(ES)">
+		<description>Quickstart Guide (2012)(Nintendo)(ES)</description>
+		<rom name="Quickstart Guide (2012)(Nintendo)(ES).pdf" size="2747034" crc="fa45ca74" md5="c3d5569477abaeab79ebba33ab22ffd2" sha1="8cf49132e5cb02e542b84ff839ac3c04fbbb296a"/>
+	</game>
+	<game name="Quickstart Guide (2012)(Nintendo)(FR)">
+		<description>Quickstart Guide (2012)(Nintendo)(FR)</description>
+		<rom name="Quickstart Guide (2012)(Nintendo)(FR).pdf" size="2752785" crc="a045f09d" md5="c2badd9f9c6f6c31eb700aae3bb49dec" sha1="19905dad5578fb6698525452cfd78d36ae6737c2"/>
+	</game>
+	<game name="Quickstart Guide (2012)(Nintendo)(US)">
+		<description>Quickstart Guide (2012)(Nintendo)(US)</description>
+		<rom name="Quickstart Guide (2012)(Nintendo)(US).pdf" size="2746894" crc="a9712d0c" md5="6f6bc8382e1e9a529090b31f85260825" sha1="56800d836cbba9a690253254a4b45d0b3bdb9613"/>
+	</game>
+	<game name="Wii U Operations Manual (2012)(Nintendo)(ES)">
+		<description>Wii U Operations Manual (2012)(Nintendo)(ES)</description>
+		<rom name="Wii U Operations Manual (2012)(Nintendo)(ES).pdf" size="8066507" crc="2fb98f5f" md5="af0714a459e052f5a3a91fa85255436d" sha1="8424aa6888e6f1bfb95e13f70a81a39cbb4c5a0c"/>
+	</game>
+	<game name="Wii U Operations Manual (2012)(Nintendo)(FR)">
+		<description>Wii U Operations Manual (2012)(Nintendo)(FR)</description>
+		<rom name="Wii U Operations Manual (2012)(Nintendo)(FR).pdf" size="8112384" crc="3e8d38ca" md5="a0c4dda2b1290122ea6ec90520ea6e0a" sha1="4b1ad37cf3bf40800940028d438a0dadce1dcd7f"/>
+	</game>
+	<game name="Wii U Operations Manual (2012)(Nintendo)(M3)">
+		<description>Wii U Operations Manual (2012)(Nintendo)(M3)</description>
+		<rom name="Wii U Operations Manual (2012)(Nintendo)(M3).pdf" size="21718675" crc="d8325788" md5="a968447e99e3d9df227f75dfdc6aa62c" sha1="50e9142a9b1e3e4356dc95a93f933c2ebf23594a"/>
+	</game>
+	<game name="Wii U Operations Manual (2012)(Nintendo)(US)">
+		<description>Wii U Operations Manual (2012)(Nintendo)(US)</description>
+		<rom name="Wii U Operations Manual (2012)(Nintendo)(US).pdf" size="8088236" crc="117d0f39" md5="4f18e7c8887f85ee5f392e51e211c4da" sha1="ef693ce32fb7f24e55cfcc96d205d5cf9ac3510e"/>
+	</game>
+</datafile>

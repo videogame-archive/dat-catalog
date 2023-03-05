@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Homebrew - Demos</name>
+		<description>3DO 3DO Interactive Multiplayer - Homebrew - Demos (TOSEC-v2020-07-14)</description>
+		<category>TOSEC-ISO</category>
+		<version>2020-07-14</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="STNICCC2000 3DO (2019)(Optimus)">
+		<description>STNICCC2000 3DO (2019)(Optimus)</description>
+		<rom name="STNICCC2000 3DO (2019)(Optimus).cue" size="120" crc="4ed1cc35" md5="577c8284b116364c2bdd9d9787863d0b" sha1="1b88fbd5692c1257396b2ad50e01da353bc92638"/>
+		<rom name="STNICCC2000 3DO (2019)(Optimus).iso" size="48365568" crc="5c045b62" md5="ebba27dec9cbf6c4857c37f2e8d6cf5e" sha1="4d983068d3152b3f73d0c417a7f7c84c967e6102"/>
+	</game>
+</datafile>

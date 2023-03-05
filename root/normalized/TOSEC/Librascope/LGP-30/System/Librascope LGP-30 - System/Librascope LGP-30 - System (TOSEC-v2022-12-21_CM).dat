@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Librascope LGP-30 - System</name>
+		<description>Librascope LGP-30 - System (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Act V System (1964-05)(GPI Computers Canada)(CA)">
+		<description>Act V System (1964-05)(GPI Computers Canada)(CA)</description>
+		<rom name="Act V System (1964-05)(GPI Computers Canada)(CA).txt" size="11476" crc="ee80844e" md5="33fdecc563084fed89636cbf020955b9" sha1="1fec125fb60cdc3b878aa3fedd5d3d7d547ae8bd"/>
+	</game>
+	<game name="Act V System (1964-05)(GPI Computers Canada)(CA)[part b]">
+		<description>Act V System (1964-05)(GPI Computers Canada)(CA)[part b]</description>
+		<rom name="Act V System (1964-05)(GPI Computers Canada)(CA)[part b].txt" size="11271" crc="0cac66a5" md5="2f53ba85eec1e9080fa4f3728699adbd" sha1="2d07a39ad98797db66b61e98ff21a82d1ea86d65"/>
+	</game>
+	<game name="Act V System (1964-05)(GPI Computers Canada)(CA)[part bs]">
+		<description>Act V System (1964-05)(GPI Computers Canada)(CA)[part bs]</description>
+		<rom name="Act V System (1964-05)(GPI Computers Canada)(CA)[part bs].txt" size="8239" crc="c79d9c62" md5="752b47791fb520ba23e78fd187cf3fbc" sha1="789b1f879fca46efe57883432f31e11fc215803f"/>
+	</game>
+</datafile>

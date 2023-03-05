@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Books</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Oric Atmos Handbook, The (1984)(Century Communications)(GB)">
+		<description>Oric Atmos Handbook, The (1984)(Century Communications)(GB)</description>
+		<rom name="Oric Atmos Handbook, The (1984)(Century Communications)(GB).pdf" size="142446341" crc="456c0e87" md5="155fcefc82cb77dd27381ed77aef7be7" sha1="340cd40de27519f58d8e0c3d2826e9b836f6c7ac"/>
+	</game>
+	<game name="Oric Handbook, The (1983)(Century Communications)(GB)">
+		<description>Oric Handbook, The (1983)(Century Communications)(GB)</description>
+		<rom name="Oric Handbook, The (1983)(Century Communications)(GB).pdf" size="135146190" crc="e0ef2085" md5="973c35abbdb9049e0481f7b6017a190f" sha1="cd0683efb38f2a9a0a8b053b52e9f1e472ce48e2"/>
+	</game>
+</datafile>

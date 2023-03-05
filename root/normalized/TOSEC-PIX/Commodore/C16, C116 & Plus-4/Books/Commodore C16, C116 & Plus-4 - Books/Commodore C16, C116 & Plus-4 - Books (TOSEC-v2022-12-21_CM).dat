@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C16, C116 &amp; Plus-4 - Books</name>
+		<description>Commodore C16, C116 &amp; Plus-4 - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="C16 - Plus 4 Reference Book (1986-08)(Anco)">
+		<description>C16 - Plus 4 Reference Book (1986-08)(Anco)</description>
+		<rom name="C16 - Plus 4 Reference Book (1986-08)(Anco).pdf" size="5638179" crc="03618cb7" md5="fce33513f9243b48287b43957807f3f3" sha1="436478d26ccc9d5d69999257e28bf346660b51ec"/>
+	</game>
+	<game name="C16 - Plus 4 Reference Book (1986-08)(Anco)[a]">
+		<description>C16 - Plus 4 Reference Book (1986-08)(Anco)[a]</description>
+		<rom name="C16 - Plus 4 Reference Book (1986-08)(Anco)[a].pdf" size="10713696" crc="55b55b3b" md5="f676d1c6d945681f032008a279e8b2a9" sha1="9838639c14909b4d4b2a3e11500ad0e77eceb5d4"/>
+	</game>
+	<game name="Commodore 16 - Beginners' Micro Guide (1985)(Granada Publishing)">
+		<description>Commodore 16 - Beginners' Micro Guide (1985)(Granada Publishing)</description>
+		<rom name="Commodore 16 - Beginners' Micro Guide (1985)(Granada Publishing).pdf" size="6479464" crc="f5b5e0eb" md5="d4f7264d1e4b9a290791938b77124ed0" sha1="9c89dd1cbdd6b72b0f784f0fbd1d27109912f822"/>
+	</game>
+	<game name="Commodore 16 Games Book (1985)(Collins)">
+		<description>Commodore 16 Games Book (1985)(Collins)</description>
+		<rom name="Commodore 16 Games Book (1985)(Collins).pdf" size="6225918" crc="abd8b0e7" md5="7bb05fd34c5fa397ab8c4de0bf59f07b" sha1="7f1a799fd51d808e04bcd3445836d08c66acec79"/>
+	</game>
+	<game name="Commodore Plus 4 Book, The (1984)(SAMS)">
+		<description>Commodore Plus 4 Book, The (1984)(SAMS)</description>
+		<rom name="Commodore Plus 4 Book, The (1984)(SAMS).pdf" size="6779494" crc="c416f6ac" md5="48ebba0fd6d4b0194407e0e2e1fe9ffe" sha1="ffb79de8a0a88cc0abf92e53ba73e8b917c04afe"/>
+	</game>
+	<game name="Il Libro dei Giochi per Commodore 16 e Plus 4 (1985)(Jsoft)(IT)">
+		<description>Il Libro dei Giochi per Commodore 16 e Plus 4 (1985)(Jsoft)(IT)</description>
+		<rom name="Il Libro dei Giochi per Commodore 16 e Plus 4 (1985)(Jsoft)(IT).pdf" size="70995359" crc="54da6bd6" md5="20d3f0d2c611b86679fc854e7cd60a29" sha1="bd326a86e6e21a7576dddaeb480740a2efa3a50d"/>
+	</game>
+	<game name="Programmer's Reference Guide for the Commodore Plus 4 (1986)(Scott Foresman Company)">
+		<description>Programmer's Reference Guide for the Commodore Plus 4 (1986)(Scott Foresman Company)</description>
+		<rom name="Programmer's Reference Guide for the Commodore Plus 4 (1986)(Scott Foresman Company).pdf" size="38535519" crc="59c41cfa" md5="c60dbe395cbebc78440045e1ac7a3093" sha1="b86b5b46c4ba59f23eac4a13177678069504efa6"/>
+	</game>
+</datafile>

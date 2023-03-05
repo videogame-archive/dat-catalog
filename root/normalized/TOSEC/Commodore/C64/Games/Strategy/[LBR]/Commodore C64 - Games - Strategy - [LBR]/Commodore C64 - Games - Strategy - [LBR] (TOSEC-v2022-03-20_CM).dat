@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Strategy - [LBR]</name>
+		<description>Commodore C64 - Games - Strategy - [LBR] (TOSEC-v2022-03-20)</description>
+		<category>TOSEC</category>
+		<version>2022-03-20</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Sim City (1989)(Maxis)[cr NEC]">
+		<description>Sim City (1989)(Maxis)[cr NEC]</description>
+		<rom name="Sim City (1989)(Maxis)[cr NEC].lbr" size="83128" crc="e66ae3f8" md5="daa2e9051947fcdacd643688b471a28b" sha1="59245964b2d22f9bdfa03cd68152189901bfc3e5"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Color Computer - Games - [CMD]</name>
+		<description>Tandy Radio Shack TRS-80 Color Computer - Games - [CMD] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[full].cmd" size="14069" crc="cc58feb7" md5="6af8f4e24af7e4b2591960655e7cedfc" sha1="afd2266ea818cfc26aa2e3fe6c5df40e1c9d7bce"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[full].cmd" size="14317" crc="8b34427c" md5="cb56c71a76e27e9696d02aac6af38ba4" sha1="b65045f31470c498af0c7e8d5ff1be3a71700c3b"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[full].cmd" size="14524" crc="e30d6c59" md5="3f23f922e4421e604783482b7be3453f" sha1="f816a4b5d7df50d7af9df2d753ec0bd44887555e"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).cmd" size="14701" crc="05d3a101" md5="fd28492f4d7e856b3e2d825cb20eb857" sha1="48803d9c2a1b5b5b6c502ac712945aeba0246fdd"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars].cmd" size="14563" crc="df6400f7" md5="62385c81fa65944d6848b4d7462be472" sha1="e91ec64a66751143f78d50991ae7bee692a4a9d4"/>
+	</game>
+</datafile>

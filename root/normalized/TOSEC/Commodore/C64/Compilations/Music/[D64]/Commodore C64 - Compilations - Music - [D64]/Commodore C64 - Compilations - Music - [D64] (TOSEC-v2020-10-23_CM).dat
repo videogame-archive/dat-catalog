@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Compilations - Music - [D64]</name>
+		<description>Commodore C64 - Compilations - Music - [D64] (TOSEC-v2020-10-23)</description>
+		<category>TOSEC</category>
+		<version>2020-10-23</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="TCN Demos (19xx)(TCN)">
+		<description>TCN Demos (19xx)(TCN)</description>
+		<rom name="TCN Demos (19xx)(TCN).d64" size="174848" crc="779867ab" md5="fad68dd73dfcb63f8f983f4393fe2c35" sha1="3f2be7eabe887a8aaa181aa59e7e290cfa5e9ab6"/>
+	</game>
+</datafile>

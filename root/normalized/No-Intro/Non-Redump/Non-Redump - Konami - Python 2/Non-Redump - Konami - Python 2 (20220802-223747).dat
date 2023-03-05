@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>293</id>
+		<name>Non-Redump - Konami - Python 2</name>
+		<description>Non-Redump - Konami - Python 2</description>
+		<version>20220802-223747</version>
+		<author>Gefflon, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dancing Stage SuperNOVA (Japan) (Install Disk)" id="0001">
+		<description>Dancing Stage SuperNOVA (Japan) (Install Disk)</description>
+		<rom name="Dancing Stage SuperNOVA (Japan) (Install Disk).iso" size="4002709504" crc="95e713bb" md5="49db9be25831e87140f2fd67ecd7e99b" sha1="8e2799b9316367f3fb10b1e5bc4a6cc9ff1bcb2a" mia="yes"/>
+	</game>
+</datafile>

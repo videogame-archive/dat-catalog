@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hartung Game Master - Firmware</name>
+		<description>Hartung Game Master - Firmware (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hartung Game Master BIOS (1990)(Hartung)(DE)">
+		<description>Hartung Game Master BIOS (1990)(Hartung)(DE)</description>
+		<rom name="Hartung Game Master BIOS (1990)(Hartung)(DE).bin" size="4096" crc="05cc45e5" md5="6bff08b5e5f96de405cd56d5f04a08f8" sha1="05d73638dea9657ccc2791c0202d9074a4782c1e"/>
+	</game>
+</datafile>

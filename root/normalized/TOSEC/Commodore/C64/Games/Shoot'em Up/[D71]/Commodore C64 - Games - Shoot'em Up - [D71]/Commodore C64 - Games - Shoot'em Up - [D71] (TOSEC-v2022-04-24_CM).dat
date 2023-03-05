@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Shoot&apos;em Up - [D71]</name>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [D71] (TOSEC-v2022-04-24)</description>
+		<category>TOSEC</category>
+		<version>2022-04-24</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Katakis (1988)(Rainbow Arts)">
+		<description>Katakis (1988)(Rainbow Arts)</description>
+		<rom name="Katakis (1988)(Rainbow Arts).d71" size="349696" crc="1a7362d5" md5="1605d62ae89409885b020c514fd865f9" sha1="0d3281d8c491e718da1ab84392bc05f9173c627f"/>
+	</game>
+	<game name="Turrican (1990)(Rainbow Arts)">
+		<description>Turrican (1990)(Rainbow Arts)</description>
+		<rom name="Turrican (1990)(Rainbow Arts).d71" size="349696" crc="7339129f" md5="63f1b28aade3d1c938d0d672c6828f1e" sha1="683c51ebc2683d96b135427bfd7bee6188a84fa9"/>
+	</game>
+</datafile>

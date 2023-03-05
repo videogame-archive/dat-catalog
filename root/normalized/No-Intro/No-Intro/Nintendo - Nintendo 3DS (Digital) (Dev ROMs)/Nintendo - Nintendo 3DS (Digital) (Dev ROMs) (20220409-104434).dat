@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>259</id>
+		<name>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</name>
+		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</description>
+		<version>20220409-104434</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Wan Nyan Pet Shop (Japan) (Beta)" id="0001">
+		<description>Wan Nyan Pet Shop (Japan) (Beta)</description>
+		<rom name="Wan Nyan Pet Shop (Japan) (Beta).cia" size="114717696" crc="177867e2" md5="d8221dbe08c77e7c2ff9c9e5f77d6aa4" sha1="8f98ba1d54632d9e03fc283663207dc577e5ccaf" sha256="0e36703682084d9a6ad1d0e8105de612c07aa79dda2c47e25428a437e064b355"/>
+	</game>
+</datafile>

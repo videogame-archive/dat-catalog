@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Manuals - Technical</name>
+		<description>Commodore Amiga CD32 - Manuals - Technical (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CD32 Schematics (1993-05)(Commodore)">
+		<description>CD32 Schematics (1993-05)(Commodore)</description>
+		<rom name="CD32 Schematics (1993-05)(Commodore).pdf" size="14717237" crc="482752f6" md5="e70327395b14c42dad06c72a03c96a69" sha1="d9b068addd37fc7f9e6648eb27fdd956cbac33b9"/>
+	</game>
+	<game name="CD32 Service Addendum (1993-07)(Commodore)">
+		<description>CD32 Service Addendum (1993-07)(Commodore)</description>
+		<rom name="CD32 Service Addendum (1993-07)(Commodore).pdf" size="37124944" crc="517b4e31" md5="bb040d23ff44b03855b8cc4c540919c5" sha1="890abf4caa94ce5fa69b74a2125c757b2b3a8d8e"/>
+	</game>
+</datafile>

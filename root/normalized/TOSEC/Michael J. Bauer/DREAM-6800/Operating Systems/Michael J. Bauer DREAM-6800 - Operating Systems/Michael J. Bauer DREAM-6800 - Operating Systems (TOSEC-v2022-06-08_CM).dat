@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Michael J. Bauer DREAM-6800 - Operating Systems</name>
+		<description>Michael J. Bauer DREAM-6800 - Operating Systems (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CHIPOS (1978)(Bauer, Michael J.)(AU)">
+		<description>CHIPOS (1978)(Bauer, Michael J.)(AU)</description>
+		<rom name="CHIPOS (1978)(Bauer, Michael J.)(AU).bin" size="1024" crc="3f97ca2e" md5="a8c049d058a262a7fa72efb8e391a8f9" sha1="60f26e57a058262b30befceceab4363a5d65d877"/>
+	</game>
+	<game name="Dreamsoft Package No. 2 (1982)(Dreamsoft)(AU)">
+		<description>Dreamsoft Package No. 2 (1982)(Dreamsoft)(AU)</description>
+		<rom name="Dreamsoft Package No. 2 (1982)(Dreamsoft)(AU).bin" size="2048" crc="ded5712f" md5="6d6f7bcee20558d7484bbebf1ec22f3a" sha1="f594f313a74d7135c9fdd0bcb0093fc5771a9b7d"/>
+	</game>
+	<game name="Dreamsoft Package No. 2 (1982)(Dreamsoft)(AU)[f lgiscl]">
+		<description>Dreamsoft Package No. 2 (1982)(Dreamsoft)(AU)[f lgiscl]</description>
+		<rom name="Dreamsoft Package No. 2 (1982)(Dreamsoft)(AU)[f lgiscl].bin" size="2048" crc="eec8e56f" md5="06d7ad9c9146ef18d19e40ab5f7cccde" sha1="f587ccbc0872f2982d61120d033f481a862b902b"/>
+	</game>
+</datafile>

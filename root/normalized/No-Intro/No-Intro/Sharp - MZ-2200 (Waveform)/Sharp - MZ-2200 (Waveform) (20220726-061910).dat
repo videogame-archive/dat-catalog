@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>289</id>
+		<name>Sharp - MZ-2200 (Waveform)</name>
+		<description>Sharp - MZ-2200 (Waveform)</description>
+		<version>20220726-061910</version>
+		<author>FakeShemp</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Bomber Man (Japan) (En)" id="0001">
+		<description>Bomber Man (Japan) (En)</description>
+		<rom name="Bomber Man (Japan) (En).wav" size="3944464" crc="da852425" md5="c7002e18d4cd56f259aa08c98d82952e" sha1="03c5b8694b7482c6af696fef5338d05c3d86c70e"/>
+	</game>
+	<game name="Cannon Ball (Japan) (En)" id="0002">
+		<description>Cannon Ball (Japan) (En)</description>
+		<rom name="Cannon Ball (Japan) (En).wav" size="1386284" crc="461ce2f5" md5="e4c226590a6419fde88f808342eb5b2b" sha1="8d859095b18ac5aab348a205f3734340e6b5290b"/>
+	</game>
+	<game name="Help! (Japan) (Unknown)" id="0003">
+		<description>Help! (Japan) (Unknown)</description>
+		<rom name="Help! (Japan) (Unknown).wav" size="1489708" crc="523985e0" md5="7f4ec4f8151205313e5da7c3cd03bee6" sha1="f4a0f20d698caf5dd597ea17b59e5a351f49f1f2"/>
+	</game>
+	<game name="Hey Sheep! (Japan) (En)" id="0004">
+		<description>Hey Sheep! (Japan) (En)</description>
+		<rom name="Hey Sheep! (Japan) (En).wav" size="1887532" crc="6fc27604" md5="75b0fba6cb6a482cf062c26902f60e00" sha1="d3031ad40cb5c4bfc4a7afd8ddd7a16bbf345e70"/>
+	</game>
+	<game name="Hiyoko Fighter (Japan) (Unknown)" id="0005">
+		<description>Hiyoko Fighter (Japan) (Unknown)</description>
+		<rom name="Hiyoko Fighter (Japan) (Unknown).wav" size="1566764" crc="08c2d4a3" md5="9dc314f2dfad4fa82ca2903ae32ad99d" sha1="1325773c7f640c1f86186c1d5608cdff7995d007"/>
+	</game>
+	<game name="MJ-05 (Japan) (Unknown)" id="0006">
+		<description>MJ-05 (Japan) (Unknown)</description>
+		<rom name="MJ-05 (Japan) (Unknown).wav" size="6366398" crc="d7335aad" md5="ffba504f2a7c23635164b62e6c8568f6" sha1="a26dd12e064b02d18ba673bb4633762aa38cca09"/>
+	</game>
+	<game name="Power Fail (Japan) (Unknown)" id="0007">
+		<description>Power Fail (Japan) (Unknown)</description>
+		<rom name="Power Fail (Japan) (Unknown).wav" size="2145580" crc="eecf0e2a" md5="01131b5fcf0e8361a3cd331c0a881f9f" sha1="8263a0ba92c6e9f3d94fed0d7005591841d4d826"/>
+	</game>
+	<game name="Spider, The (Japan) (En)" id="0008">
+		<description>Spider, The (Japan) (En)</description>
+		<rom name="Spider, The (Japan) (En).wav" size="3149100" crc="eec8674f" md5="e18d143dfed037712f308b8609b1338e" sha1="231d55c6cbb48fe88676fec31f014c6002788b5f"/>
+	</game>
+	<game name="Vegetable Crash (Japan) (Unknown)" id="0009">
+		<description>Vegetable Crash (Japan) (Unknown)</description>
+		<rom name="Vegetable Crash (Japan) (Unknown).wav" size="1233964" crc="953f5d0e" md5="fe3b4ab3b7389a0a2a4b280517713ede" sha1="527f9bfef1fd0a923ce982ef971602c86820c26b"/>
+	</game>
+</datafile>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>195</id>
+		<name>Nichibutsu - My Vision</name>
+		<description>Nichibutsu - My Vision</description>
+		<version>20211122-121019</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Gomoku Narabe Renju (Japan)" id="0001">
+		<description>Gomoku Narabe Renju (Japan)</description>
+		<rom name="rj1" size="8192" crc="fa3df109" md5="08d1f367067ce0f715d34fce4590a411" sha1="a3b5640fa465de3004a05e59c1362d440842355f" sha256="7bcfc2e4a92b0f2b835fa762c5fa0f9e18945b2b74eb063a10d407c1086d772c"/>
+		<rom name="rj2" size="8192" crc="eae282e3" md5="b73b1f67f9fd8d0b7b808a043582a05f" sha1="829a34a2d0685b68280d8251a641cadd12e3b3c4" sha256="01bca242dc779a063467c3533a32d41cbf7a9864d03a837e01d89473560c193b"/>
+	</game>
+	<game name="Hanafuda (Japan)" id="0002">
+		<description>Hanafuda (Japan)</description>
+		<rom name="f1" size="8192" crc="31f662c8" md5="4101bac5adb7d6daef649a48f3d74a6f" sha1="608c9fbcbcb134d3dfcecd9c3ea81d2f075b3fb9" sha256="0fc99bd39ccd6231a6a87f23f58e73c1cf1f89dee02d5621dd50bd384610fb0d"/>
+		<rom name="f2" size="8192" crc="0e9fb68b" md5="28411c330e296c924dacc2b28df4df5a" sha1="1730dededd220dd0a0c6fee41460981471283018" sha256="840d83cdec198c49eaac5ba69d147da566d54db49fb3572abe58a4330438ff25"/>
+		<rom name="f3" size="8192" crc="057cc785" md5="4cae897f297623becbaa11f8b7da5d5a" sha1="90d84df698a0166ed19e3c3f8d2da57b72cfde97" sha256="59fc1034baceebd32e70dc8b76ff45c66ec2d6a760920ba14d92084108192f23"/>
+	</game>
+	<game name="Mahjong (Japan)" id="0003">
+		<description>Mahjong (Japan)</description>
+		<rom name="mj1" size="8192" crc="f7dff3c3" md5="c6fe47ab00e88ce4c0fa30c223b22533" sha1="07d7916ebf1bf29d4da12ca11f29271da520023a" sha256="85d6e303c1a673a900367ea504e2da684aeb4c15dc0f86a4b65cbd51c1b55505"/>
+		<rom name="mj2" size="8192" crc="0b75671c" md5="1bb9d089f3aeb02166ecd1bd8d6b8b69" sha1="e69a6606d21cd487f3481afa51076320278eb543" sha256="502242d36a4c19069befb6dc87cced73a0423bb7d4589bcf01ab5fe042e2a822"/>
+		<rom name="mj3" size="8192" crc="b476c2c1" md5="e6534022bccf5749a420152b549ff68e" sha1="44d0c5738321cd4aa37b8ad25a4a4e77b144b6db" sha256="dd00047561d5258ee44dfa70cadf73ad35dd4769b10c19160eb4036d8dcbf743"/>
+	</game>
+	<game name="Tsume Shougi (Japan)" id="0004">
+		<description>Tsume Shougi (Japan)</description>
+		<rom name="s1" size="8192" crc="bc4ae5b2" md5="b5fa884a341b10aa9a9bb37ea0ff31d0" sha1="758ac3ab00d9b97026e67a9bad6b34d9e4a19e1c" sha256="f4f2b75b5378b6ef2962b590a4d52869d80256607dcc4c3ae2036bcd9a9d375a"/>
+		<rom name="s2" size="8192" crc="348b0074" md5="e43f4fb4b31b291cb587757356994697" sha1="d9373b04664c419cf2a2f0120a12ee2810313fb5" sha256="73cbf72f9346919c93162c176705a208cc130ce0a76dfb1e61447c1db00c4f1b"/>
+		<rom name="s3" size="8192" crc="d927a49d" md5="cc51c3afcfcd1543260eb3be3e0bd38a" sha1="2b8ded33cda425229d0fd5bbe236102afdcaf6cf" sha256="d215c659ef6f4ecced7f026adce2810c4eab629e3c3859e3a9ff489dcde15170"/>
+	</game>
+</datafile>

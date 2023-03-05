@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Homebrew - Games - [ISO]</name>
+		<description>Sony PlayStation - Homebrew - Games - [ISO] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blox Basic (2021-07-25)(Sandoomer)">
+		<description>Blox Basic (2021-07-25)(Sandoomer)</description>
+		<rom name="Blox Basic (2021-07-25)(Sandoomer).cue" size="123" crc="187bce0c" md5="1bbe580936773996d83fc63a24ca6cea" sha1="554ae3a633ce06dd2a006c0156edb657ce43f04f"/>
+		<rom name="Blox Basic (2021-07-25)(Sandoomer).iso" size="2657760" crc="4c040043" md5="6468d8e380d3739c761d1ce17ede6f6b" sha1="f6c4d90403fddc28633df2362305fd8be65877b5"/>
+	</game>
+	<game name="Dark Souls (2021-12-05)(Seistethic)">
+		<description>Dark Souls (2021-12-05)(Seistethic)</description>
+		<rom name="Dark Souls (2021-12-05)(Seistethic).cue" size="124" crc="acfcd15f" md5="8ca742d2144e66fe5c42202334e8fcbc" sha1="6821f7b608a899c5f97d5a8ed10658d0512790b2"/>
+		<rom name="Dark Souls (2021-12-05)(Seistethic).iso" size="3379824" crc="5a4c0ec7" md5="b79afe46bfc748753c457c1e2bae2ad2" sha1="66373e2f23cf98837cb74c16b5d21fa6484e89a2"/>
+	</game>
+	<game name="Dark Souls 2 (2021-11-29)(Seistethic)">
+		<description>Dark Souls 2 (2021-11-29)(Seistethic)</description>
+		<rom name="Dark Souls 2 (2021-11-29)(Seistethic).cue" size="126" crc="c1d81669" md5="982ec618d7309d3a376d4b5fe69a566d" sha1="e08bb940fda2523d3ad86b1684c354b6f9c2e7e0"/>
+		<rom name="Dark Souls 2 (2021-11-29)(Seistethic).iso" size="3302208" crc="08b8aeb1" md5="d65cf1e07cd3de9045314bbba657d23b" sha1="57d7198de1555273f94ce7bd8a016ed0e4890556"/>
+	</game>
+	<game name="Demon's Souls (2021-11-05)(Seistethic)">
+		<description>Demon's Souls (2021-11-05)(Seistethic)</description>
+		<rom name="Demon's Souls (2021-11-05)(Seistethic).cue" size="127" crc="f055c5d0" md5="a8d087fd133446b464357a3729f576c3" sha1="d4e05a09643f3f1f8c48b104f4cbb1edc3207032"/>
+		<rom name="Demon's Souls (2021-11-05)(Seistethic).iso" size="3210480" crc="d3ecb105" md5="9ae5f7811d1a9780f9d7e764c136f6b7" sha1="37083dcc1962a401fa099655d17706c3c1945a43"/>
+	</game>
+	<game name="Guardians of Sunshine (2021-10-09)(Seistethic)">
+		<description>Guardians of Sunshine (2021-10-09)(Seistethic)</description>
+		<rom name="Guardians of Sunshine (2021-10-09)(Seistethic).cue" size="135" crc="2fce7a32" md5="dc36de24a5a988cda976d8de7c073c83" sha1="97dd7043af510264b7ba3d19ecb6fa9f392542d7"/>
+		<rom name="Guardians of Sunshine (2021-10-09)(Seistethic).iso" size="3090528" crc="31f976b0" md5="9da2cba0e7b83bf1568c80456cd00dd7" sha1="dda1ee4f46336ca5232e65a1732ceefbf4920812"/>
+	</game>
+	<game name="Guardians of Sunshine (2021-10-09)(Seistethic)[for overclock]">
+		<description>Guardians of Sunshine (2021-10-09)(Seistethic)[for overclock]</description>
+		<rom name="Guardians of Sunshine (2021-10-09)(Seistethic)[for overclock].cue" size="150" crc="1adc4c0c" md5="7c11af7a51e9c758d43817450d31dbb3" sha1="1f36a14f8b4ae79c11a49b52172d433228bbea80"/>
+		<rom name="Guardians of Sunshine (2021-10-09)(Seistethic)[for overclock].iso" size="3090528" crc="e4410ab6" md5="611c0a3f90bb906d8605477c702b96a3" sha1="cd073ea72e682b726f3b53c450c2d380759b805d"/>
+	</game>
+</datafile>

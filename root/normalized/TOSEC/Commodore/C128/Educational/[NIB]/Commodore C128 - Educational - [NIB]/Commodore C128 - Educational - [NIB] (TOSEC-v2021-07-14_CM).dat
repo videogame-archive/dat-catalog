@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Educational - [NIB]</name>
+		<description>Commodore C128 - Educational - [NIB] (TOSEC-v2021-07-14)</description>
+		<category>TOSEC</category>
+		<version>2021-07-14</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Your Commodore C128 (1985)(Total Learning Systems)[40-80 column]">
+		<description>Your Commodore C128 (1985)(Total Learning Systems)[40-80 column]</description>
+		<rom name="Your Commodore C128 (1985)(Total Learning Systems)[40-80 column].nib" size="336128" crc="9fc6a303" md5="4455c7dba7445e04ced52e2565ccd36a" sha1="cae2ca51597a29a4de9966bee7c324baece5cc57"/>
+	</game>
+	<game name="Your Commodore C128 (1985)(Total Learning Systems)[a][40-80 column]">
+		<description>Your Commodore C128 (1985)(Total Learning Systems)[a][40-80 column]</description>
+		<rom name="Your Commodore C128 (1985)(Total Learning Systems)[a][40-80 column].nib" size="336128" crc="ff6851d4" md5="0cc6cefc1dace92cd18b9630d639dd91" sha1="4c62e070ee1972eacdf05d6f3c1ac80aca774ab9"/>
+	</game>
+	<game name="Your Commodore C128 (1985)(Total Learning Systems)[a2][40-80 column]">
+		<description>Your Commodore C128 (1985)(Total Learning Systems)[a2][40-80 column]</description>
+		<rom name="Your Commodore C128 (1985)(Total Learning Systems)[a2][40-80 column].nib" size="336128" crc="f4e4f55e" md5="fc27828e63c575c9632b6f57a0b8fbce" sha1="8c8d24f0455cfca21c332e2a861795dab72e1ebe"/>
+	</game>
+	<game name="Your Commodore C128 (1985)(Total Learning Systems)[a3][40-80 column]">
+		<description>Your Commodore C128 (1985)(Total Learning Systems)[a3][40-80 column]</description>
+		<rom name="Your Commodore C128 (1985)(Total Learning Systems)[a3][40-80 column].nib" size="336128" crc="3846ef27" md5="135091f563aff7120e13e0cfabc99435" sha1="c5d42ff1c0dbd94a4ea0809c6790fd7b9b1e8b92"/>
+	</game>
+</datafile>

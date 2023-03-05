@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>106</id>
+		<name>IBM - PC and Compatibles (LooseFilesArchive)</name>
+		<description>IBM - PC and Compatibles (LooseFilesArchive)</description>
+		<version>20220729-101656</version>
+		<author>FakeShemp, Gefflon, Hiccup, MeguCocoa, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<comment>Software Preservation Society (http://www.softpres.org/games)</comment>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Worms Armageddon (USA) (Press Kit) (Mac)" id="3043">
+		<description>Worms Armageddon (USA) (Press Kit) (Mac)</description>
+		<rom name="WormsArmageddonN64Assets.rar" size="26393720" crc="15064082" md5="96498f16ac16e463d4cd8dcd83f07427" sha1="12d55dc86aba9cfe26e8162932558e24b907621a" sha256="49e4a953c0f55230df67f7f91d6ad5e47835e98f73536edd7327485c3fb77bed" status="baddump"/>
+	</game>
+</datafile>

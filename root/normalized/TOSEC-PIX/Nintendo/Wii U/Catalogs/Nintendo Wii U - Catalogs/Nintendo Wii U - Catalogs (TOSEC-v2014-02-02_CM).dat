@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Wii U - Catalogs</name>
+		<description>Nintendo Wii U - Catalogs (TOSEC-v2014-02-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2014-02-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Wii U (2012)(Nintendo)(AU)">
+		<description>Wii U (2012)(Nintendo)(AU)</description>
+		<rom name="Wii U (2012)(Nintendo)(AU).pdf" size="26800075" crc="f4d4991b" md5="494e59eb4df25b38452097f99787337e" sha1="6515fe9fba43de843153158839c0a41178ad3f75"/>
+	</game>
+	<game name="Wii U (2013)(Nintendo)(AU)">
+		<description>Wii U (2013)(Nintendo)(AU)</description>
+		<rom name="Wii U (2013)(Nintendo)(AU).pdf" size="45951456" crc="c82c7834" md5="927ed2df022e8bc62505d4dce282a230" sha1="c8eda98c3137c864413bcb92596b661e97a6ab4a"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Gambling - [DFI]</name>
+		<description>Commodore C64 - Games - Gambling - [DFI] (TOSEC-v2022-11-08)</description>
+		<category>TOSEC</category>
+		<version>2022-11-08</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Las Vegas Gaming Machine Simulator (1986)(Mastertronic)">
+		<description>Las Vegas Gaming Machine Simulator (1986)(Mastertronic)</description>
+		<rom name="Las Vegas Gaming Machine Simulator (1986)(Mastertronic).dfi" size="65536" crc="a756e89b" md5="df4c7cc484c96525d52c8d7ff0cec55a" sha1="fa3093605699a56225e2f119e8bd993ace633812"/>
+	</game>
+</datafile>

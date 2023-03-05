@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magnavox Odyssey2 - Demos</name>
+		<description>Magnavox Odyssey2 - Demos (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Red Green (2015)(Mihai, Sebastian)">
+		<description>Red Green (2015)(Mihai, Sebastian)</description>
+		<rom name="Red Green (2015)(Mihai, Sebastian).bin" size="2048" crc="b6c36dbd" md5="f570f362143809a2577383eb53cf02e0" sha1="e04d12b6290370b76f90e76d9de75b6470b4f913"/>
+	</game>
+</datafile>

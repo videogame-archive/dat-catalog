@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Samplers - [WAV]</name>
+		<description>Apple II - Samplers - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventure 0 - Special Sampler (1979)(Adventure International)(US)[24K]">
+		<description>Adventure 0 - Special Sampler (1979)(Adventure International)(US)[24K]</description>
+		<rom name="Adventure 0 - Special Sampler (1979)(Adventure International)(US)[24K].wav" size="2646052" crc="d5ed0215" md5="cfd2eebccd6244d6b22deb2309167b8e" sha1="84c5f472a9d709fb916959f5274f9a612db5d414"/>
+	</game>
+	<game name="Sampler (1979)(Apple)[16K][685-0002-00]">
+		<description>Sampler (1979)(Apple)[16K][685-0002-00]</description>
+		<rom name="Sampler (1979)(Apple)[16K][685-0002-00].wav" size="3583788" crc="82a535c8" md5="40d58fef77e674164b26a6a4b8925223" sha1="87c4bfd2adcccc872138f94dec29b9e688192faf"/>
+	</game>
+</datafile>

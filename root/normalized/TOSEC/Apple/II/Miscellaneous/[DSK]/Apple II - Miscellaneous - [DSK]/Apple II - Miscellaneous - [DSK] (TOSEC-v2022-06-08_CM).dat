@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Miscellaneous - [DSK]</name>
+		<description>Apple II - Miscellaneous - [DSK] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BASIC SYS Files 1.0-1.5.1 (19xx)(-)">
+		<description>BASIC SYS Files 1.0-1.5.1 (19xx)(-)</description>
+		<rom name="BASIC SYS Files 1.0-1.5.1 (19xx)(-).dsk" size="143360" crc="93f55aa2" md5="8226922aa42e940a170bfdc6162efafa" sha1="ea32141d0790859e0898641b1acdf452e2c229e6"/>
+	</game>
+	<game name="Blank Softdisk Disk (19xx)(-)">
+		<description>Blank Softdisk Disk (19xx)(-)</description>
+		<rom name="Blank Softdisk Disk (19xx)(-).dsk" size="143360" crc="911af0ea" md5="efbc6df8cca0cc722df07892b2dd812a" sha1="8f406e5195f5b0904ad289051af6810ff25e08d0"/>
+	</game>
+	<game name="Fatcat Data Disk (19xx)(-)[MC.PRODOS DISKS]">
+		<description>Fatcat Data Disk (19xx)(-)[MC.PRODOS DISKS]</description>
+		<rom name="Fatcat Data Disk (19xx)(-)[MC.PRODOS DISKS].dsk" size="143360" crc="c02b5529" md5="aed8907cf7844eea4f8af709375e9d55" sha1="09fe62cc465dde1c56444f9c37cb023d7b91a70b"/>
+	</game>
+	<game name="MINI OS 7.0 (2017-11-12)(Trevisan, Matteo)">
+		<description>MINI OS 7.0 (2017-11-12)(Trevisan, Matteo)</description>
+		<rom name="MINI OS 7.0 (2017-11-12)(Trevisan, Matteo).dsk" size="143360" crc="8c9f5b1f" md5="bfe5911669423be614271f8c61f1e17d" sha1="baff8683d6ae87e98ca675845de7ca151c6c1a22"/>
+	</game>
+	<game name="MINI OS 9.0 (2017-11-21)(Trevisan, Matteo)">
+		<description>MINI OS 9.0 (2017-11-21)(Trevisan, Matteo)</description>
+		<rom name="MINI OS 9.0 (2017-11-21)(Trevisan, Matteo).dsk" size="143360" crc="a2406db1" md5="e896723f19c3ab091d412f32a543d88c" sha1="07ecc8791ba5a8955fb03a20b9dbff2922925384"/>
+	</game>
+	<game name="ProDOS SYS Files v1.0-v2.0.1 (19xx)(-)">
+		<description>ProDOS SYS Files v1.0-v2.0.1 (19xx)(-)</description>
+		<rom name="ProDOS SYS Files v1.0-v2.0.1 (19xx)(-).dsk" size="143360" crc="ac50086a" md5="5bb8e6de8b44320e72f78b6d2f81f46d" sha1="d3f1765f6aa08b29a5d934414fec6a33764e2d69"/>
+	</game>
+</datafile>

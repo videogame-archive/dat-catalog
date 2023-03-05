@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Demos - [PRG]</name>
+		<description>Atari ST - Demos - [PRG] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="And we are cracking on... (2021-04-03)(505 - m0dmate)">
+		<description>And we are cracking on... (2021-04-03)(505 - m0dmate)</description>
+		<rom name="And we are cracking on... (2021-04-03)(505 - m0dmate).prg" size="26954" crc="6f05bc16" md5="fdd3ae2b4e1b9715b7747509bf89eeb6" sha1="732aaf93b839653957dbf4f3e71e2cac015d6316"/>
+	</game>
+	<game name="Dragon 1K (2021-04-04)(Extream)(STE-Falcon)">
+		<description>Dragon 1K (2021-04-04)(Extream)(STE-Falcon)</description>
+		<rom name="Dragon 1K (2021-04-04)(Extream)(STE-Falcon).prg" size="1014" crc="22c725f0" md5="bb97ddce126ccf8818d23ac7fb6f5cc7" sha1="3027cc4bfa984958e667394775183e7314446728"/>
+	</game>
+	<game name="Square V2 (2021-04-03)(Hemoroids)">
+		<description>Square V2 (2021-04-03)(Hemoroids)</description>
+		<rom name="Square V2 (2021-04-03)(Hemoroids).prg" size="345122" crc="65dd766b" md5="836f4c9763d53237b4a4ebb140a951da" sha1="2b192da552ada7d5637a4dc632b1bb52d0b48e50"/>
+	</game>
+</datafile>

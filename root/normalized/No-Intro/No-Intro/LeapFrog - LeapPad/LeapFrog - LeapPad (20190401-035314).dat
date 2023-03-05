@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>115</id>
+		<name>LeapFrog - LeapPad</name>
+		<description>LeapFrog - LeapPad</description>
+		<version>20190401-035314</version>
+		<author>FakeShemp</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Was ist das von Richard Scarry (Germany)" id="0001">
+		<description>Was ist das von Richard Scarry (Germany)</description>
+		<rom name="Was ist das von Richard Scarry (Germany).bin" size="2097152" crc="744cd1f4" md5="f6b6d73967167c50123739d90e0179e6" sha1="797b9856ef6f96c92978303c6604c2f1ae2e9278"/>
+	</game>
+</datafile>

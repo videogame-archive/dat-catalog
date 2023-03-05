@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ACT Apricot Portable - Books</name>
+		<description>ACT Apricot Portable - Books (TOSEC-v2012-02-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-02-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Port-DOS (1985)(UserPrompt)">
+		<description>Port-DOS (1985)(UserPrompt)</description>
+		<rom name="Port-DOS (1985)(UserPrompt).pdf" size="1679434" crc="e7663ba3" md5="d6f19c3d0f96179112ca7cbf6ced5b1f" sha1="94b067ea956b5f1faea923bc9cd34566f05c27ce"/>
+	</game>
+</datafile>

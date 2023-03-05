@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Microboard Computer Development System - Games</name>
+		<description>RCA Microboard Computer Development System - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Bomber (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2021-05-13)(Caruso, Fabrizio).hex" size="23284" crc="cc1f8a97" md5="eb54f6ed5bc78e6f9b5faa80c8b8c5cd" sha1="b5835595df55449c58c8fb102433e0a293f75320"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).hex" size="56056" crc="20a70036" md5="a98b7559d64c8d63e68909f71cdac847" sha1="e82b377f69d1d630f28e4196452cc805a94e670a"/>
+	</game>
+	<game name="Cross Shoot (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2021-05-13)(Caruso, Fabrizio).hex" size="82790" crc="b0bafc95" md5="ed75b01204645c333cab7a9a30681596" sha1="86a0fac9adb734078c376e6e3f21f02c294e152a"/>
+	</game>
+</datafile>

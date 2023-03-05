@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>319</id>
+		<name>Nintendo - Nintendo DS (DSvision SD cards)</name>
+		<description>Nintendo - Nintendo DS (DSvision SD cards)</description>
+		<version>20221023-022924</version>
+		<author>aci68, Hiccup, Lesserkuma, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="DSvision Starter Kit (Japan)" id="0007">
+		<description>DSvision Starter Kit (Japan)</description>
+		<rom name="DSvision Starter Kit (Japan).img" size="500695040" crc="c7184915" md5="28881b2059c3211f3f01f20daf7956d1" sha1="428f1501883a7912c6458dc99253f1d7ff1068f5"/>
+	</game>
+	<game name="Duel Masters Volume 1 (Japan)" id="0003">
+		<description>Duel Masters Volume 1 (Japan)</description>
+		<rom name="Duel Masters Volume 1 (Japan).img" size="500695040" crc="8c64e7db" md5="c8c24dd8e4804c86a29ed90615afb87e" sha1="642bc1c83d391559432ce4c3677c43e57a2ab269"/>
+	</game>
+	<game name="Duel Masters Volume 2 (Japan)" id="0004">
+		<description>Duel Masters Volume 2 (Japan)</description>
+		<rom name="Duel Masters Volume 2 (Japan).img" size="500695040" crc="0f4d2e2b" md5="3b90fa4f149aca0affd934c94c73d7ab" sha1="5e14027120b2dfe169abbe710c70a59afc9dad5f"/>
+	</game>
+	<game name="Duel Masters Volume 3 (Japan)" id="0005">
+		<description>Duel Masters Volume 3 (Japan)</description>
+		<rom name="Duel Masters Volume 3 (Japan).img" size="500695040" crc="3e111ecc" md5="08576f84462efa87c8af7d04035809cc" sha1="fb88100271629f4870b2458b9d7bbd016df6274b"/>
+	</game>
+	<game name="Mew to Hadou no Yuusha Lucario - Special Pack (Japan)" id="0008">
+		<description>Mew to Hadou no Yuusha Lucario - Special Pack (Japan)</description>
+		<rom name="Mew to Hadou no Yuusha Lucario - Special Pack (Japan).bin" size="500695040" crc="270bbffb" md5="115a706268c991a4fe498806f7cbb08d" sha1="4b429b4938ab1243ee2c1cb13b20c545e107de18"/>
+	</game>
+	<game name="Pokemon Premium Set (Japan)" id="0006">
+		<description>Pokemon Premium Set (Japan)</description>
+		<rom name="Pokemon Premium Set (Japan).img" size="2007498752" crc="03891424" md5="8c0429ab376955206c8ba9fd9fb13940" sha1="6bb132b0c6271819013bb96e4ae49b8036ce5e4f"/>
+	</game>
+	<game name="Shonen Magazine Comics Special Pack (Japan)" id="0002">
+		<description>Shonen Magazine Comics Special Pack (Japan)</description>
+		<rom name="Shonen Magazine Comics Special Pack (Japan).img" size="127139840" crc="cdc79a43" md5="b119190b486c7bcd95d85483aae6ac67" sha1="6dc811bcd2188a86210c93c24f494eba0bf3d22f"/>
+	</game>
+	<game name="Shonen Sunday Comics Special Pack (Japan)" id="0001">
+		<description>Shonen Sunday Comics Special Pack (Japan)</description>
+		<rom name="Shonen Sunday Comics Special Pack (Japan).img" size="127139840" crc="21880106" md5="15d600c171db73f423825de071da5fd5" sha1="9fc1bb7359015167903dcdee4a83c3645cf89dc0"/>
+	</game>
+</datafile>

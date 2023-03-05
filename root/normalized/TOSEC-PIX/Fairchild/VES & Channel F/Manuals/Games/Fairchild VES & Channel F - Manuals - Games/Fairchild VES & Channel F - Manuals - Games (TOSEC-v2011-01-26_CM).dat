@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fairchild VES &amp; Channel F - Manuals - Games</name>
+		<description>Fairchild VES &amp; Channel F - Manuals - Games (TOSEC-v2011-01-26)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-26</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Super Chess (1976)(Fairchild)">
+		<description>Super Chess (1976)(Fairchild)</description>
+		<rom name="Super Chess (1976)(Fairchild).pdf" size="262821" crc="98a94df9" md5="5280aa306f9f4da914d2edf9ad2f28ad" sha1="d5179f9b929b9f78644460b76c6187b4633f726d"/>
+	</game>
+	<game name="Videocart-1 (1976)(Fairchild)">
+		<description>Videocart-1 (1976)(Fairchild)</description>
+		<rom name="Videocart-1 (1976)(Fairchild).pdf" size="4934179" crc="15fa6d48" md5="ba724ccec6a5e5b0d30f20b96bbfb865" sha1="f113f74a13dcca5aefa5a0cf6934bfc4fac3ecb9"/>
+	</game>
+	<game name="Videocart-3 (1976)(Fairchild)">
+		<description>Videocart-3 (1976)(Fairchild)</description>
+		<rom name="Videocart-3 (1976)(Fairchild).pdf" size="2022615" crc="e8f9d6dc" md5="59555cd46f40cab35ed699d443574056" sha1="28f3b7888a414a4f56cd225cac5bb63d044ea6ac"/>
+	</game>
+</datafile>

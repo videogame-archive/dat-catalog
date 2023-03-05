@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Namco-Sega-Nintendo Triforce - Applications</name>
+		<description>Namco-Sega-Nintendo Triforce - Applications (TOSEC-v2022-12-20)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-12-20</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011]">
+		<description>Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011]</description>
+		<rom name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="195a3b84" sha1="17842e4044c7f15018301ee86dbc087a0ef93fc3" md5="e289b7e283f63e9e922e8ffb2c9629a8"/>
+		<rom name="track02.raw" size="3179904" crc="288f3d54" sha1="51215f79c15584d9885ab49df675e3effaf43000" md5="63cd7feee11bcbe7aac7e3737c84a976"/>
+		<rom name="track03.bin" size="1185760800" crc="389c43da" sha1="6c47202165009c173f5a70a851d6bdb5f383faef" md5="f6c544107359ea96672a632e2bc38add"/>
+	</game>
+</datafile>
+

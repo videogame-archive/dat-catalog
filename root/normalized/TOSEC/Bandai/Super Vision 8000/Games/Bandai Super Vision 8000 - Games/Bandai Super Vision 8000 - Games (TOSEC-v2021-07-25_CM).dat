@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai Super Vision 8000 - Games</name>
+		<description>Bandai Super Vision 8000 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).rom" size="32768" crc="69db9d2e" md5="739fbb54c517f90e9f5bdacfddc6ded6" sha1="8b6f67f18b308f12f8e5419f398aeb3a5c67757a"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[BSS]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[BSS]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[BSS].bin" size="464" crc="c1b939ef" md5="e7a69f31047ea716eb8a425fce4853b4" sha1="10a6674fb0710b37226cc5a65d3f8ce03eb8d790"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[DATA]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[DATA]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[DATA].bin" size="11" crc="29bda669" md5="a2b78620e26d743238395a176db31ee3" sha1="50d7cfa75ad05bbecde9132cd926b405c602deba"/>
+	</game>
+</datafile>

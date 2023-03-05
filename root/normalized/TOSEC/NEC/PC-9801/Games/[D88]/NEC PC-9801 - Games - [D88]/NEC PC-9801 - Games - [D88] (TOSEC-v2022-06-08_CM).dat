@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 - Games - [D88]</name>
+		<description>NEC PC-9801 - Games - [D88] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-05-28)(Inufuto)(JP)">
+		<description>Ascend (2022-05-28)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-05-28)(Inufuto)(JP).d88" size="697008" crc="8da0d67b" md5="da988615b37ff30685cbcb8ba37e5433" sha1="5f8e2942891ea415cb92a79218e966c8325ea938"/>
+	</game>
+	<game name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 1)">
+		<description>Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 1)</description>
+		<rom name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 1).d88" size="1281968" crc="4ef6b9aa" md5="93f788c24b702764014d92565e38dab0" sha1="a64b8d20727ea472f11b53525c56296df5ce5dc8"/>
+	</game>
+	<game name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 2)">
+		<description>Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 2)</description>
+		<rom name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 2).d88" size="1291360" crc="07c0346d" md5="09f8e3d700c00c8b8a2009249c4fb536" sha1="655c9929df83c1723342bb84bc26447d351fe251"/>
+	</game>
+	<game name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 3)">
+		<description>Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 3)</description>
+		<rom name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 3).d88" size="1281968" crc="5b429479" md5="d4047ffbc7a3945ec105bd0a1dcaca35" sha1="93ce2db2fa7fe766b405071923b2c1c2aa967b55"/>
+	</game>
+	<game name="Mazy (2022-05-14)(Inufuto)(JP)">
+		<description>Mazy (2022-05-14)(Inufuto)(JP)</description>
+		<rom name="Mazy (2022-05-14)(Inufuto)(JP).d88" size="697008" crc="433a02f7" md5="de9a69eed7b9c22fc56d5ec8d603ea06" sha1="0d8d320a27cc8236e647d5cd85aa723b31e4a57a"/>
+	</game>
+	<game name="Ruptus (2022-05-20)(Inufuto)(JP)">
+		<description>Ruptus (2022-05-20)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2022-05-20)(Inufuto)(JP).d88" size="697008" crc="95e4df4d" md5="bbeda13d1f1e4269a4e44c3c60a46fe4" sha1="0e0550210cad01a4355687387b049b4e166c93f2"/>
+	</game>
+</datafile>

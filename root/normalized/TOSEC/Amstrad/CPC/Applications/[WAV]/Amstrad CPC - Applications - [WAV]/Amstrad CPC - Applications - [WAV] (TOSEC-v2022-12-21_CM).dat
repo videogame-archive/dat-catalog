@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad CPC - Applications - [WAV]</name>
+		<description>Amstrad CPC - Applications - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Business Plus (1984)(Coktel Vision)(FR)">
+		<description>Business Plus (1984)(Coktel Vision)(FR)</description>
+		<rom name="Business Plus (1984)(Coktel Vision)(FR).wav" size="41123884" crc="3b8f77a9" md5="f3f9ddcb341a34b708dd0310c57bb969" sha1="07714f12e3f00a3c7f31643c46983dae27d00d14"/>
+	</game>
+</datafile>

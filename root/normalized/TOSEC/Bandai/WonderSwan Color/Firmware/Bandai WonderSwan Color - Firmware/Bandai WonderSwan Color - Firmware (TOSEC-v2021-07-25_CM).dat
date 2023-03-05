@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai WonderSwan Color - Firmware</name>
+		<description>Bandai WonderSwan Color - Firmware (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="WonderSwan Color Boot ROM (2000)(Bandai)(JP)(en)">
+		<description>WonderSwan Color Boot ROM (2000)(Bandai)(JP)(en)</description>
+		<rom name="WonderSwan Color Boot ROM (2000)(Bandai)(JP)(en).bin" size="8192" crc="cb06d9c3" md5="880893bd5a7d53fff826bd76a83d566e" sha1="c5ad0b8af45d762662a69f50b64161b9c8919efb"/>
+	</game>
+</datafile>

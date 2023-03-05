@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Manuals - Hardware</name>
+		<description>Commodore C128 - Manuals - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore 128 Introductory Guide (1985)(Commodore)">
+		<description>Commodore 128 Introductory Guide (1985)(Commodore)</description>
+		<rom name="Commodore 128 Introductory Guide (1985)(Commodore).pdf" size="2786048" crc="c2e1e5bd" md5="c7aff12926d8bd90c8b96176a6e7b57c" sha1="1f9ade8a6b21542ce6e65dfbdd988d9dbd4e8bfe"/>
+	</game>
+	<game name="Commodore 128 Introductory Guide (1985)(Commodore)[a2]">
+		<description>Commodore 128 Introductory Guide (1985)(Commodore)[a2]</description>
+		<rom name="Commodore 128 Introductory Guide (1985)(Commodore)[a2].pdf" size="33243322" crc="55e0bf0c" md5="a9c0919700401c9ca88ec2f804a1af29" sha1="b441ccb324105e1335cb6fa942b9434f2ebd2b1c"/>
+	</game>
+	<game name="Commodore 128 Introductory Guide (1985)(Commodore)[a]">
+		<description>Commodore 128 Introductory Guide (1985)(Commodore)[a]</description>
+		<rom name="Commodore 128 Introductory Guide (1985)(Commodore)[a].pdf" size="3462909" crc="d36c907b" md5="1a0f9d12b61278f910d44b4a2b9450fd" sha1="69f67b4ff4fa8430364ff30ab69a5774b7fd29b2"/>
+	</game>
+	<game name="Commodore 128 Manual di Systema (1985)(Commodore)(IT)">
+		<description>Commodore 128 Manual di Systema (1985)(Commodore)(IT)</description>
+		<rom name="Commodore 128 Manual di Systema (1985)(Commodore)(IT).pdf" size="16520304" crc="813f7901" md5="edbc3de21aa2f7aa517c134f200c70e0" sha1="e6d1867e42fc931306ab6bf87110cd02770fee89"/>
+	</game>
+	<game name="Commodore 128 Setup Wiring Diagram (1987)(Commodore)">
+		<description>Commodore 128 Setup Wiring Diagram (1987)(Commodore)</description>
+		<rom name="Commodore 128 Setup Wiring Diagram (1987)(Commodore).pdf" size="103521" crc="97fcbc54" md5="0ebbf046a86357c90a541a0e16762854" sha1="29003779141c65a70dcaf45a5cb4a6ead2e2b922"/>
+	</game>
+	<game name="Commodore 128D Introductory Guide (1985)(Commodore)">
+		<description>Commodore 128D Introductory Guide (1985)(Commodore)</description>
+		<rom name="Commodore 128D Introductory Guide (1985)(Commodore).pdf" size="22185302" crc="e5d73ce8" md5="111030f231d6c018547a17b559460cac" sha1="debd893bffbe48182180229514dad5ac03369f4d"/>
+	</game>
+	<game name="Commodore 1530 Mouse User's Manual (1985)(Commodore)">
+		<description>Commodore 1530 Mouse User's Manual (1985)(Commodore)</description>
+		<rom name="Commodore 1530 Mouse User's Manual (1985)(Commodore).pdf" size="1330458" crc="6a94c218" md5="837bbe97a35f173b07bc8a3b56fcbd70" sha1="6c84d6563e1ad3cc37fb70fff3146da5094167fe"/>
+	</game>
+</datafile>

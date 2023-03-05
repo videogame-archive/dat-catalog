@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Famicom Disk System - Manuals - Games</name>
+		<description>Nintendo Famicom Disk System - Manuals - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Winter Games (1987)(Pony Canyon)[PNF-WIN]">
+		<description>Winter Games (1987)(Pony Canyon)[PNF-WIN]</description>
+		<rom name="Winter Games (1987)(Pony Canyon)[PNF-WIN].pdf" size="30092806" crc="125448ad" md5="f47a5e9843a3acd086700d95c9462649" sha1="6458b7780cb3f7723ca2c2677351cdd82f5eba16"/>
+	</game>
+	<game name="Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[FMC-ZEL]">
+		<description>Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[FMC-ZEL]</description>
+		<rom name="Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[FMC-ZEL].pdf" size="6858014" crc="ade9c768" md5="83b5c602d2d21fff7b1829aaae73c0ea" sha1="8db1767c434f85b7c15db3426a1ecc9b8b8d9a0e"/>
+	</game>
+</datafile>

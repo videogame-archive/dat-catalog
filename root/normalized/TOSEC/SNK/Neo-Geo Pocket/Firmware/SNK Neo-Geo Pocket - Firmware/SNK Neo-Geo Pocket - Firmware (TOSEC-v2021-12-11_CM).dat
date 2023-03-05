@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo Pocket - Firmware</name>
+		<description>SNK Neo-Geo Pocket - Firmware (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Cassiel - proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SNK Neo-Geo Pocket BIOS (1998)(SNK)(en-ja)">
+		<description>SNK Neo-Geo Pocket BIOS (1998)(SNK)(en-ja)</description>
+		<rom name="SNK Neo-Geo Pocket BIOS (1998)(SNK)(en-ja).bin" size="65536" crc="6232df8d" md5="d87d876c4391935c9d48ef352a3ff02d" sha1="2f6429b68446536d8b03f35d02f1e98beb6460a0"/>
+	</game>
+	<game name="SNK Neo-Geo Pocket BIOS (1998)(SNK)(en-ja)(beta)">
+		<description>SNK Neo-Geo Pocket BIOS (1998)(SNK)(en-ja)(beta)</description>
+		<rom name="SNK Neo-Geo Pocket BIOS (1998)(SNK)(en-ja)(beta).bin" size="65536" crc="836e47c6" md5="18a3a190b6b6f47f801fc044b26e1794" sha1="50db9b1c267baf88a0d969dea4f72d92e46cdfaf"/>
+	</game>
+</datafile>

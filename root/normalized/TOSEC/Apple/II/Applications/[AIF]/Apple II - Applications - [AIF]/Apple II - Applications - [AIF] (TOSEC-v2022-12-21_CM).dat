@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Applications - [AIF]</name>
+		<description>Apple II - Applications - [AIF] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="U-Draw (19xx)(MUSE)(JP)">
+		<description>U-Draw (19xx)(MUSE)(JP)</description>
+		<rom name="U-Draw (19xx)(MUSE)(JP).aif" size="5832886" crc="055b461a" md5="d183ed99861261e64a317be8dfce0bba" sha1="da46b79932a0866f79eb6f2f89d45a5e3e6dc307"/>
+	</game>
+</datafile>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Manuals - Applications</name>
+		<description>Atari 8bit - Manuals - Applications (TOSEC-v2019-04-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Basic Reference Guide (1983)(Atari)">
+		<description>Atari Basic Reference Guide (1983)(Atari)</description>
+		<rom name="Atari Basic Reference Guide (1983)(Atari).pdf" size="14612130" crc="9cb63d17" md5="65a599de192cbec8297bced744af6854" sha1="874dd1a05f42fbc54a1638226a578b547e34bfcb"/>
+	</game>
+	<game name="Atari Microsoft Basic (1981)(Atari)">
+		<description>Atari Microsoft Basic (1981)(Atari)</description>
+		<rom name="Atari Microsoft Basic (1981)(Atari).pdf" size="5957714" crc="da37b68d" md5="ff5152470a8ec6cb1458a32f903ea625" sha1="85307a240ae5361ba1c95fcb9db58f2c266540bb"/>
+	</game>
+        <game name="Cassette Operating System - COS (1983)(Alpha Systems)">
+		<description>Cassette Operating System - COS (1983)(Alpha Systems)</description>
+		<rom name="Cassette Operating System - COS (1983)(Alpha Systems).pdf" size="1566713" crc="64e899c6" md5="0c1bd51890a2d8435d6e89726816e732" sha1="077e4e08fb5ccd03b226735250ec76d1b129fbe9"/>
+	</game>
+	<game name="Disk Wizard (1982)(CAP Software)">
+		<description>Disk Wizard (1982)(CAP Software)</description>
+		<rom name="Disk Wizard (1982)(CAP Software).pdf" size="3075434" crc="7455aa1b" md5="77864cb116cc8d80ad874341da1d505c" sha1="c7636d606b858389dd6e578ef2df054b68e7a839"/>
+	</game>
+	<game name="Disk-Pack 1000 (1983)(Alpha Systems)">
+		<description>Disk-Pack 1000 (1983)(Alpha Systems)</description>
+		<rom name="Disk-Pack 1000 (1983)(Alpha Systems).pdf" size="1315838" crc="7a243ed9" md5="3b9c5802a7c85eb5304b6751910d28ea" sha1="ff9419deef2789e2cc3b1bc072610ca8f930d694"/>
+	</game>
+	<game name="Disk-Pack 1000 (1983)(Alpha Systems)[enhancement notice]">
+		<description>Disk-Pack 1000 (1983)(Alpha Systems)[enhancement notice]</description>
+		<rom name="Disk-Pack 1000 (1983)(Alpha Systems)[enhancement notice].pdf" size="145293" crc="597e33d1" md5="580b12ff21047e01dfbc2b947a2fcac0" sha1="bcdd9535637a7eedc3400a124d18ec4a675aa9df"/>
+	</game>
+	<game name="Diskey (1982)(Adventure International)">
+		<description>Diskey (1982)(Adventure International)</description>
+		<rom name="Diskey (1982)(Adventure International).pdf" size="5661818" crc="4483aa84" md5="b2d04e36001a0defa18b145a00fd98f2" sha1="ac9134b5bd5060317696bb875472dfab06ae2bda"/>
+	</game>
+	<game name="Icepik Users Guide (1983)(ICECO)">
+		<description>Icepik Users Guide (1983)(ICECO)</description>
+		<rom name="Icepik Users Guide (1983)(ICECO).pdf" size="2560942" crc="655a33ce" md5="e03c0655f7a72f84e2edfa158f229803" sha1="6560b86a64a2b469e2388476f59d9f9c0d5b741e"/>
+	</game>
+	<game name="Icepik Users Guide (1983)(ICECO)[addendum]">
+		<description>Icepik Users Guide (1983)(ICECO)[addendum]</description>
+		<rom name="Icepik Users Guide (1983)(ICECO)[addendum].pdf" size="427869" crc="a841890d" md5="382b2bcdb53f79bde03fe7794446840f" sha1="643b9a098841330a5664774ecbbe487d66d50b95"/>
+	</game>
+	<game name="R-Time-8 SDCS Supplement (1985)(ICD)">
+		<description>R-Time-8 SDCS Supplement (1985)(ICD)</description>
+		<rom name="R-Time-8 SDCS Supplement (1985)(ICD).pdf" size="2911874" crc="ff44e686" md5="c3e67eaa5ba7781002af1f1593a2d2fe" sha1="83e831bdc95f832d4d628415cb651d456bc3afcf"/>
+	</game>
+	<game name="SpartaDOS Construction Set (1985)(ICD)">
+		<description>SpartaDOS Construction Set (1985)(ICD)</description>
+		<rom name="SpartaDOS Construction Set (1985)(ICD).pdf" size="12254970" crc="709e5f93" md5="f2c95fbfb2f1067f58f4835592a7c810" sha1="b17fff1c03a514513c55620c7d20dc5d9ab08167"/>
+	</game>
+	<game name="SpartaDOS Construction Set (1985)(ICD)[notes]">
+		<description>SpartaDOS Construction Set (1985)(ICD)[notes]</description>
+		<rom name="SpartaDOS Construction Set (1985)(ICD)[notes].pdf" size="267513" crc="cd6e83a8" md5="81999a79b1dfe2394e42c0a5103e4de2" sha1="aa3642de4cd4794cf9f680216827192e0aabe13d"/>
+	</game>
+</datafile>
+

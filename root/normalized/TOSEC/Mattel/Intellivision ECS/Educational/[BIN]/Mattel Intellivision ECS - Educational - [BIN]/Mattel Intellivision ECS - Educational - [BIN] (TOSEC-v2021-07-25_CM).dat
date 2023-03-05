@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision ECS - Educational - [BIN]</name>
+		<description>Mattel Intellivision ECS - Educational - [BIN] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mr. BASIC Meets Bits 'N Bytes (1983)(Mattel)">
+		<description>Mr. BASIC Meets Bits 'N Bytes (1983)(Mattel)</description>
+		<rom name="Mr. BASIC Meets Bits 'N Bytes (1983)(Mattel).bin" size="24576" crc="0b50a367" md5="e9e7bda7061f0ed2442d2f63d69907ea" sha1="544d81926615e62216e1a58d2d0f651e41557c14"/>
+	</game>
+</datafile>

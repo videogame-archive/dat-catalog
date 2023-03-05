@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon - Games - [BIN]</name>
+		<description>Dragon Data Dragon - Games - [BIN] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Bomber (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2021-05-13)(Caruso, Fabrizio).bin" size="3652" crc="d0c9546a" md5="042be3770fe51e2991da637fc2af3834" sha1="822e16ab8f17edb29367bd8c76ace8cab0eb457f"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).bin" size="13172" crc="0d282f51" md5="6915a9214a7df6a8656b2eeb03cff862" sha1="2866914cd8e0d3e78b9957cbcff207a84fe64de8"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).bin" size="12747" crc="71187cbb" md5="66fc287de9e5d7c2aabefc479d40e069" sha1="fb40a17761a4b31a7d10b63f087790b006941fd0"/>
+	</game>
+	<game name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)">
+		<description>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).bin" size="7440" crc="92b66428" md5="9b00c31af1887021d319d861ecee1000" sha1="1fd9bfc49f7dd527e440e6a03ca123b8d9d7bac8"/>
+	</game>
+</datafile>

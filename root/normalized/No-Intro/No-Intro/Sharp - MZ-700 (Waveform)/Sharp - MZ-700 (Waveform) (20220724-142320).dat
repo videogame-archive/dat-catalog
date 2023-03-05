@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>284</id>
+		<name>Sharp - MZ-700 (Waveform)</name>
+		<description>Sharp - MZ-700 (Waveform)</description>
+		<version>20220724-142320</version>
+		<author>FakeShemp</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="10 Plays for MZ-700 (Unknown) (Side 1A)" id="0001">
+		<description>10 Plays for MZ-700 (Unknown) (Side 1A)</description>
+		<rom name="10 Plays for MZ-700 (Unknown) (Side 1A).flac" size="73299157" crc="839068f7" md5="e0c4f707454906bea7bdd2c030d61e8f" sha1="98769ecc09dde62498cde9680dd3636296886264"/>
+	</game>
+	<game name="10 Plays for MZ-700 (Unknown) (Side 1B)" id="0002">
+		<description>10 Plays for MZ-700 (Unknown) (Side 1B)</description>
+		<rom name="10 Plays for MZ-700 (Unknown) (Side 1B).flac" size="64619995" crc="2d37f36e" md5="08f39dcdbcf379273619dafbbacb7d20" sha1="96dbab25bba58d04df6670b4c95b8d01b5ebcef3"/>
+	</game>
+	<game name="10 Plays for MZ-700 (Unknown) (Side 2A)" id="0003">
+		<description>10 Plays for MZ-700 (Unknown) (Side 2A)</description>
+		<rom name="10 Plays for MZ-700 (Unknown) (Side 2A).flac" size="73744511" crc="9f556396" md5="000c556c325f56f643c1f2b54030473a" sha1="58825c8a67c863e81cefe1471fadf43b5f55d8b1"/>
+	</game>
+	<game name="10 Plays for MZ-700 (Unknown) (Side 2B)" id="0004">
+		<description>10 Plays for MZ-700 (Unknown) (Side 2B)</description>
+		<rom name="10 Plays for MZ-700 (Unknown) (Side 2B).flac" size="79055832" crc="1b968421" md5="d610f93e0ab8880a05c26c67a003148a" sha1="ff24faefede2fae135df8b81bddd42764ad68ee9"/>
+	</game>
+	<game name="Applications (Unknown) (v1.0A)" id="0005">
+		<description>Applications (Unknown) (v1.0A)</description>
+		<rom name="Applications (Unknown) (v1.0A).flac" size="44643239" crc="c7dad335" md5="26893d0d025197eb1575e1e550dbc14c" sha1="472f4a870318376e9e08085a38344f1487fe530a"/>
+	</game>
+	<game name="BASIC (Unknown) (v1.0A)" id="0006">
+		<description>BASIC (Unknown) (v1.0A)</description>
+		<rom name="BASIC (Unknown) (v1.0A).flac" size="53731508" crc="534e0b84" md5="8e600c7e95f80cf3434ab4a350d619d4" sha1="62b35ebc78d4bee8270c4bd3540f76b4c8f901f2"/>
+	</game>
+	<game name="S-BASIC SWE (Sweden) (Side A)" id="0007">
+		<description>S-BASIC SWE (Sweden) (Side A)</description>
+		<rom name="S-BASIC SWE (Sweden) (Side A).flac" size="55513854" crc="cac5b0db" md5="9b5a52bb9611d13730b6ebccb1c093e3" sha1="e647072ac6459d1db6977ebe62812f7879efec6b"/>
+	</game>
+</datafile>

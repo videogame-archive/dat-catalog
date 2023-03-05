@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple 1 - Manuals - Hardware</name>
+		<description>Apple 1 - Manuals - Hardware (TOSEC-v2012-02-26)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-02-26</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="A-ONE Apple 1 Replica Computer (2006)(Achatz Electronics)">
+		<description>A-ONE Apple 1 Replica Computer (2006)(Achatz Electronics)</description>
+		<rom name="A-ONE Apple 1 Replica Computer (2006)(Achatz Electronics).pdf" size="636370" crc="237541a0" md5="a6a650b4c07a7bd6c4637fbee4752d7d" sha1="d51a78fcc026147aa596d770eedefddc326cff4e"/>
+	</game>
+	<game name="Apple-1 Cassette Interface (1977)(Apple)">
+		<description>Apple-1 Cassette Interface (1977)(Apple)</description>
+		<rom name="Apple-1 Cassette Interface (1977)(Apple).pdf" size="511049" crc="500490cc" md5="98f7d6d3b56652a05e5e0e26a36b373b" sha1="bbe30a83db3045f78633f41c6116f2a7aa842631"/>
+	</game>
+	<game name="Apple-1 Operation Manual (1976)(Apple)">
+		<description>Apple-1 Operation Manual (1976)(Apple)</description>
+		<rom name="Apple-1 Operation Manual (1976)(Apple).pdf" size="2099526" crc="c5191d7f" md5="6f879776894fe6ff63ca8072888a90fa" sha1="888e53e11c3a7da9fc30b71d09b6b723f8063f37"/>
+	</game>
+	<game name="Apple-1 Operation Manual (1976)(Apple)[a]">
+		<description>Apple-1 Operation Manual (1976)(Apple)[a]</description>
+		<rom name="Apple-1 Operation Manual (1976)(Apple)[a].pdf" size="1774213" crc="fc57247a" md5="e9f3e10965710e55fa93ac3fd31c2153" sha1="d0708a286041cbb8ce97f31827b8d1b255d214b4"/>
+	</game>
+	<game name="Preliminary Apple Basic Users Manual (1976-10)(Apple)">
+		<description>Preliminary Apple Basic Users Manual (1976-10)(Apple)</description>
+		<rom name="Preliminary Apple Basic Users Manual (1976-10)(Apple).pdf" size="1177368" crc="a2a073b0" md5="70a945fd5a7fdc875f6b84aef3b069ca" sha1="4751788211e7d4e483d8e4f59153fa0082dbc979"/>
+	</game>
+</datafile>

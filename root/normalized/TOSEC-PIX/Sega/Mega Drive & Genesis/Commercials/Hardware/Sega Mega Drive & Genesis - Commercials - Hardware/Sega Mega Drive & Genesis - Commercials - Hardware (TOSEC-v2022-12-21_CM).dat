@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Commercials - Hardware</name>
+		<description>Sega Mega Drive &amp; Genesis - Commercials - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Mega Drive (1991)(Sega)(AU)">
+		<description>Sega Mega Drive (1991)(Sega)(AU)</description>
+		<rom name="Sega Mega Drive (1991)(Sega)(AU).mp4" size="2291899" crc="60cb8aa0" md5="742eb7cd984e5163791fe6049b8b88f6" sha1="d185a451a45703b6616a5b449f3f7059b7a3353f"/>
+	</game>
+	<game name="Sega Super Sonic Offer (1992)(Sega)(AU)">
+		<description>Sega Super Sonic Offer (1992)(Sega)(AU)</description>
+		<rom name="Sega Super Sonic Offer (1992)(Sega)(AU).mp4" size="2632617" crc="e6347345" md5="f20e899304e9264841bec96c27090fe5" sha1="9a7e9e9583ce4ca6a37e32f8484598598761f1f7"/>
+	</game>
+</datafile>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>227</id>
+		<name>Seta - Aleck64 (BigEndian)</name>
+		<description>Seta - Aleck64 (BigEndian)</description>
+		<version>20220513-040448</version>
+		<author>Hiccup, omonim2007</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Eleven Beat (Japan)" id="0003">
+		<description>Eleven Beat (Japan)</description>
+		<rom name="Eleven Beat (Japan).z64" size="8388608" crc="dfaa0ff2" md5="56bd1a519823d8ce9942032e66adf109" sha1="5432056f34c378b5862009e5b79a256c10c5a20e" sha256="f9eff51dbd4f9ca013c34c13619efb77b8c23bf041b6a69be93f19a89683afcb" serial="ZHAJ"/>
+	</game>
+	<game name="Hanabi de Doon! - Don-chan Puzzle (Japan)" id="0004">
+		<description>Hanabi de Doon! - Don-chan Puzzle (Japan)</description>
+		<rom name="Hanabi de Doon! - Don-chan Puzzle (Japan).z64" size="33554432" crc="fd91fd05" md5="d66008bbe7cc2d6cf3319339eb8bb0fe" sha1="2a77e47d34b8d9d89eb37ffc062e9ec0c2121abc" sha256="b47dc9acf860b8fe1c21e8a41f380202243382f3f3cb3ca9ddf618ae87e1997b"/>
+	</game>
+	<game name="Hi Pai Paradise (Japan)" id="0005">
+		<description>Hi Pai Paradise (Japan)</description>
+		<rom name="Hi Pai Paradise (Japan).z64" size="33554432" crc="bdaaca09" md5="39ce846ba71d3d4835eddfdd73b3dcda" sha1="68329c94e1b9342ee60713e9e0945ea2663210c7" sha256="9221cb569109dab5a1409d4b43c2b9b6ad96bbd4b562f3e8b1189de6dcddd1aa"/>
+	</game>
+	<game name="Hi Pai Paradise 2 (Japan)" id="0006">
+		<description>Hi Pai Paradise 2 (Japan)</description>
+		<rom name="Hi Pai Paradise 2 (Japan).z64" size="33554432" crc="3d7e8495" md5="2f5a3aa7fa89bf3615aa890f6167a3fc" sha1="47fdc89620ddf68972e861dee1536a26a309e35c" sha256="7e1190a9d90df3c378a92bfa575a7821f4496f2bebb642b3ae229633495e9f2e"/>
+	</game>
+	<game name="Kuru Kuru Fever (Japan)" id="0008">
+		<description>Kuru Kuru Fever (Japan)</description>
+		<rom name="Kuru Kuru Fever (Japan).z64" size="33554432" crc="f0d27309" md5="753ff5022fb07af1cd9fc331cdc00476" sha1="f59c121e4d4c2c57c2ea4728919775a8d5d5e02e" sha256="b7b7d577e78796d78d7bb3a564a0d1e424f02e6d769854b81371e0ca804e0d0c"/>
+	</game>
+	<game name="Magical Tetris Challenge (Japan)" id="0009">
+		<description>Magical Tetris Challenge (Japan)</description>
+		<rom name="Magical Tetris Challenge (Japan).z64" size="16777216" crc="b9972c45" md5="838eeb7743ad8950f7aa496ad02783d2" sha1="7e357995def4078a54ba8e4486f361d631ff3329" sha256="89ea76104d80cf0b77da9c2915f9aa02fdc6adba7660bd9bfa13d44c6ab54b5a" serial="ZCAJ"/>
+	</game>
+	<game name="Mayjinsen 3 (Japan)" id="0010">
+		<description>Mayjinsen 3 (Japan)</description>
+		<rom name="Mayjinsen 3 (Japan).z64" size="8388608" crc="c9353d84" md5="19dcd3d0a1f3dfc844f6610096c137e0" sha1="da401fc96a2b69db81970d879a2255e54db88e34" sha256="2d317901d2f1a0cf85958772e710a26ff666246b5f7f97a0744a7c05120590b1" serial="ZSCJ"/>
+	</game>
+	<game name="Pachislo DX (Japan)" id="0007">
+		<description>Pachislo DX (Japan)</description>
+		<rom name="Pachislo DX (Japan).z64" size="8388608" crc="c5df17bb" md5="4903b6dd426895721104644c1e8355e1" sha1="9b2047228662109196e3f517404a001bec04f7d4" sha256="d80b5770553fd28736c741de79ab8fe907008c7138369ccdf6e181ed881e7fae" serial="ZSFJ"/>
+	</game>
+	<game name="Slosseum Dual (Japan)" id="0014">
+		<description>Slosseum Dual (Japan)</description>
+		<rom name="Slosseum Dual (Japan).z64" size="8388608" crc="b2b29f5c" md5="f5ee60c0b3583e86af7c2a4603b1a9f8" sha1="492a6c5a531035b122e8645f37d98494d3413bbc" sha256="81531cef4721e276c4c22b7293c18c78e075221435b8e6cf8ffeadc6d64c35a4"/>
+	</game>
+	<game name="Star Soldier - Vanishing Earth (Japan)" id="0011">
+		<description>Star Soldier - Vanishing Earth (Japan)</description>
+		<rom name="Star Soldier - Vanishing Earth (Japan).z64" size="12582912" crc="7c285add" md5="f4106e01629c9967acc3740f29f0efb2" sha1="a29348632ed7726d75d693dfb007f277c1f6a563" sha256="6f23e0269989c9265f7b388144893cef56071077e4e6e635a42bb8060d74532e" serial="ZHBJ"/>
+	</game>
+	<game name="Super Real Mahjong VS (Japan) (Rev 1)" id="0001">
+		<description>Super Real Mahjong VS (Japan) (Rev 1)</description>
+		<rom name="Super Real Mahjong VS (Japan) (Rev 1).z64" size="33554432" crc="01fbccc8" md5="99e4a6ad8daa13febe50b61d144cf41c" sha1="712bac2577e6e1b574d09edaa614cd4c83bda899" sha256="2badf5a5efa08daab42ce831ec054075c8de077bbff5463d4e97ace894c0d19f" serial="ZSEJ"/>
+	</game>
+	<game name="Super Real Mahjong VS (Japan)" id="0002" cloneofid="0001">
+		<description>Super Real Mahjong VS (Japan)</description>
+		<rom name="Super Real Mahjong VS (Japan).z64" size="33554432" crc="7807c87c" md5="97e3cfb8eb9256d0fa16ce673d62cdc4" sha1="a590216a171a61517cd07ff629d8215631c8be87" sha256="bdfc8c64ff4bd0fe327878e599cee946cb9cccd7ce800b2f6954a10cada69fd2" serial="ZSEJ"/>
+	</game>
+	<game name="Tower &amp; Shaft (Japan)" id="0012">
+		<description>Tower &amp; Shaft (Japan)</description>
+		<rom name="Tower &amp; Shaft (Japan).z64" size="16777216" crc="40efa3bd" md5="57380f891fe1925d755578514fa78905" sha1="ba4474dc4967adb2a41cf3b0022c6215990c0e64" sha256="a24bf020e4157ccdb6407d443e0385ab3c710f46f43900986c570e648a831c3e"/>
+	</game>
+	<game name="Vivid Dolls (Japan)" id="0013">
+		<description>Vivid Dolls (Japan)</description>
+		<rom name="Vivid Dolls (Japan).z64" size="8388608" crc="15d3437d" md5="6d1405209eefac3d18a544a184ef2769" sha1="747e9420cce23ff82b5922cd91ec43272d03fa4f" sha256="9ac6e7c1baeec5f1cf4e26bff356d136d3f22dd0871c0d2bf6af16fa8d948692" serial="ZSAJ"/>
+	</game>
+</datafile>

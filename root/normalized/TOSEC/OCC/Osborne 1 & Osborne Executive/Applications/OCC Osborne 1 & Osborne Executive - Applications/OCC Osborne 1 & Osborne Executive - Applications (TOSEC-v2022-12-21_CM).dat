@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>OCC Osborne 1 &amp; Osborne Executive - Applications</name>
+		<description>OCC Osborne 1 &amp; Osborne Executive - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 1 of 6)(Program)">
+		<description>WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 1 of 6)(Program)</description>
+		<rom name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 1 of 6)(Program).scp" size="12645719" crc="b63ec90f" md5="5d2d624f1516346f4cb773000e155ff1" sha1="094ac70f25889a6818f54dd5fe17579acb4d4005"/>
+	</game>
+	<game name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 2 of 6)(Install)">
+		<description>WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 2 of 6)(Install)</description>
+		<rom name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 2 of 6)(Install).scp" size="12409489" crc="1fff37ca" md5="8111f4223b63776f4a035c077354540e" sha1="3840306912fc348344aefc0c9225b20fafcd6a3a"/>
+	</game>
+	<game name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 3 of 6)(Printers)">
+		<description>WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 3 of 6)(Printers)</description>
+		<rom name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 3 of 6)(Printers).scp" size="13172483" crc="05a37dde" md5="98653899636fe88c42f3fb697147512b" sha1="42e190ec26d09c777e30964ce341d005ce3143d2"/>
+	</game>
+	<game name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 4 of 6)(Readme)">
+		<description>WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 4 of 6)(Readme)</description>
+		<rom name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 4 of 6)(Readme).scp" size="12499247" crc="41c88e6a" md5="1a18473a1b4e13b8ccd47983ba6c1fac" sha1="da657a7b70177027fd707927ef834e370364bdd2"/>
+	</game>
+	<game name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 5 of 6)(Speller, The WORD Plus)">
+		<description>WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 5 of 6)(Speller, The WORD Plus)</description>
+		<rom name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 5 of 6)(Speller, The WORD Plus).scp" size="12344577" crc="6cacd6fd" md5="289e4d99e90dfd429430af721b05dde7" sha1="5b16c9a49eaf8b51b639d7aa9bea0dd39d4fcae5"/>
+	</game>
+	<game name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 6 of 6)(Dictionary, The WORD Plus)">
+		<description>WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 6 of 6)(Dictionary, The WORD Plus)</description>
+		<rom name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 6 of 6)(Dictionary, The WORD Plus).scp" size="13275979" crc="1088f0ba" md5="b2028a363c90788ae79f63052901bd9b" sha1="4cc573a76b1af6b28fd6a0b026d1b74df8c368a2"/>
+	</game>
+	<game name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 6 of 6)(Dictionary, The WORD Plus)[a]">
+		<description>WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 6 of 6)(Dictionary, The WORD Plus)[a]</description>
+		<rom name="WordStar CP M Edition Release 4 (1987)(MicroPro International)(Disk 6 of 6)(Dictionary, The WORD Plus)[a].scp" size="13132749" crc="addcfc34" md5="b4e370063aaac90e451e57fa37bc13d4" sha1="66fa86c90016e1830f070abb75c82053155134e9"/>
+	</game>
+</datafile>

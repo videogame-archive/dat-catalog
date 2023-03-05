@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Cards - [CRT]</name>
+		<description>Commodore C64 - Games - Cards - [CRT] (TOSEC-v2022-01-29)</description>
+		<category>TOSEC</category>
+		<version>2022-01-29</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Bridge 64 (1983)(Handic Software)">
+		<description>Bridge 64 (1983)(Handic Software)</description>
+		<rom name="Bridge 64 (1983)(Handic Software).crt" size="16464" crc="380f034a" md5="f9b049565a448660b8b13715d1877484" sha1="5b38b2539bff51488e566737d9ae8fcb70f1b73b"/>
+	</game>
+	<game name="Bridge 64 (1983)(Handic Software)[a]">
+		<description>Bridge 64 (1983)(Handic Software)[a]</description>
+		<rom name="Bridge 64 (1983)(Handic Software)[a].crt" size="16464" crc="a4814d94" md5="eea83c6e56ced7ba72cd047fa4b1eba5" sha1="4a70904011c409af5ace37cd8227218209fae55a"/>
+	</game>
+	<game name="Bridge 64 (1983)(Handic Software)[a2]">
+		<description>Bridge 64 (1983)(Handic Software)[a2]</description>
+		<rom name="Bridge 64 (1983)(Handic Software)[a2].crt" size="16464" crc="e7fb061f" md5="03e4561979dffb73c019636dffe6e1e5" sha1="4d66e6af198a803d0de21d747fd17801db74a5ec"/>
+	</game>
+	<game name="Bridge 64 (1983)(Handic Software)[a3]">
+		<description>Bridge 64 (1983)(Handic Software)[a3]</description>
+		<rom name="Bridge 64 (1983)(Handic Software)[a3].crt" size="16464" crc="e2729a5c" md5="66364d4d07717be98212c345adf3a687" sha1="93042daa61982a48cf06744072d33c0085659131"/>
+	</game>
+</datafile>

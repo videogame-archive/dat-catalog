@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Timex Sinclair TS-2068 - Games</name>
+		<description>Timex Sinclair TS-2068 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).tap" size="19749" crc="ea548c6f" md5="21d139010f56b41a055831d11332bd2a" sha1="f13d36a9b8411cea547738819c1369b62b803db4"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).tap" size="19502" crc="6e310943" md5="0b0abd6fc6dad59905445e2043b85b21" sha1="f192eb0aa5e481ecff77bf2e849fdaa844e55431"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).tap" size="19618" crc="7483f365" md5="b592c448d1c6d27ca2f740e27bbf0407" sha1="944d7657ee8b787e1a54d29ef5bc1a89c6a5befd"/>
+	</game>
+</datafile>

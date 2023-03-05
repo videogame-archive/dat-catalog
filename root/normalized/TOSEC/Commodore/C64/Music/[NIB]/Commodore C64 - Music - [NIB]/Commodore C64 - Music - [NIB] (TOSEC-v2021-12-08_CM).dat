@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Music - [NIB]</name>
+		<description>Commodore C64 - Music - [NIB] (TOSEC-v2021-12-08)</description>
+		<category>TOSEC</category>
+		<version>2021-12-08</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Burzum Music Collection (19xx)(Burzum)">
+		<description>Burzum Music Collection (19xx)(Burzum)</description>
+		<rom name="Burzum Music Collection (19xx)(Burzum).nib" size="286976" crc="3f9a5685" md5="444300f9cc5daee061ca8f75817c5af9" sha1="bf9d64d32036e9c4a1dd703c1a39f8646245ed4c"/>
+	</game>
+	<game name="C64 Christmas Disk (1989)(Pirates of Denver)">
+		<description>C64 Christmas Disk (1989)(Pirates of Denver)</description>
+		<rom name="C64 Christmas Disk (1989)(Pirates of Denver).nib" size="336128" crc="12f2e85e" md5="8feac051b34c2cac5e067d701a5e632e" sha1="fcf5b07f00a03100b4c77f76393bc568089727dc"/>
+	</game>
+	<game name="Dance Show 1 (1995-09-15)(Caution)">
+		<description>Dance Show 1 (1995-09-15)(Caution)</description>
+		<rom name="Dance Show 1 (1995-09-15)(Caution).nib" size="286976" crc="8db20729" md5="e50fa7d4c9ad23e73b293230d1930a89" sha1="6e719dd9c14454349396c41ff625f70a7b0c1175"/>
+	</game>
+	<game name="Dance Show 1 (1995-09-15)(Caution)[a]">
+		<description>Dance Show 1 (1995-09-15)(Caution)[a]</description>
+		<rom name="Dance Show 1 (1995-09-15)(Caution)[a].nib" size="286976" crc="f4e2acc6" md5="b7828ee49aa7f54b8983887f3ab04436" sha1="62754b403688164e7d8ed89dac439370cdccd4ef"/>
+	</game>
+	<game name="Digitized Music #1 (1985)(Pure-Byte - Vienna-Soft)">
+		<description>Digitized Music #1 (1985)(Pure-Byte - Vienna-Soft)</description>
+		<rom name="Digitized Music #1 (1985)(Pure-Byte - Vienna-Soft).nib" size="286976" crc="18de6bb1" md5="26bc980514308ea0674cb71d7d5b7410" sha1="a2151eaacc031f962dea33325228ff1b36e59ddc"/>
+	</game>
+	<game name="Digitized Music #1 (1985)(PureByte)">
+		<description>Digitized Music #1 (1985)(PureByte)</description>
+		<rom name="Digitized Music #1 (1985)(PureByte).nib" size="286976" crc="555c9c09" md5="235478c5d14e434ae2ab1345de7c606c" sha1="7fbc1d467729447ceb160993225cbd168a61d894"/>
+	</game>
+	<game name="Music Servant Disk (1988)(Exact)">
+		<description>Music Servant Disk (1988)(Exact)</description>
+		<rom name="Music Servant Disk (1988)(Exact).nib" size="286976" crc="0cf45cce" md5="3982b3bf700be80e0e031aeae82eee43" sha1="80bc4dcba22746a713fb0193b74b216bb9d494b1"/>
+	</game>
+	<game name="Synth Sample (1984-07-24)(Georgie)">
+		<description>Synth Sample (1984-07-24)(Georgie)</description>
+		<rom name="Synth Sample (1984-07-24)(Georgie).nib" size="286976" crc="1a2995ea" md5="d48b7936f70e50dff072e0311dd88da3" sha1="6844740b63aa37e990d1a4f32e42643f30ff9a4d"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM Displaywriter - Operating Systems</name>
+		<description>IBM Displaywriter - Operating Systems (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Concurrent CP-M-86 for the IBM Displaywriter (demo) (1982)(Digital Research)(Disk 1 of 2)(Left)">
+		<description>Concurrent CP-M-86 for the IBM Displaywriter (demo) (1982)(Digital Research)(Disk 1 of 2)(Left)</description>
+		<rom name="Concurrent CP-M-86 for the IBM Displaywriter (demo) (1982)(Digital Research)(Disk 1 of 2)(Left).imd" size="399230" crc="c332a0ea" md5="4cf43363dacd58c20d8e9f0dedce9a4a" sha1="1edc87456daeabddf235afe66091108a2b89eb0b"/>
+	</game>
+	<game name="Concurrent CP-M-86 for the IBM Displaywriter (demo) (1982)(Digital Research)(Disk 2 of 2)(Right)">
+		<description>Concurrent CP-M-86 for the IBM Displaywriter (demo) (1982)(Digital Research)(Disk 2 of 2)(Right)</description>
+		<rom name="Concurrent CP-M-86 for the IBM Displaywriter (demo) (1982)(Digital Research)(Disk 2 of 2)(Right).imd" size="553937" crc="842f4468" md5="4c4328987e056552af2a09e8621a5f03" sha1="eae93dc93e5194535283a1ca03c128580db21ac1"/>
+	</game>
+	<game name="MS-DOS Loader v4.00.07-F2 for IBM Displaywriter (1982)(IBM)">
+		<description>MS-DOS Loader v4.00.07-F2 for IBM Displaywriter (1982)(IBM)</description>
+		<rom name="MS-DOS Loader v4.00.07-F2 for IBM Displaywriter (1982)(IBM).imd" size="263237" crc="3cbc990f" md5="f6929389676b4f743de7b03bd9172eb0" sha1="d2f78f1f178d75cdf81ba5d874164a53e6a21993"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Applications - [NIB]</name>
+		<description>Apple II - Applications - [NIB] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>TKaos - bigboo - Cassiel - jjs - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Merlin (1983)(Southwestern Data Systems)(US)(Side A)">
+		<description>Merlin (1983)(Southwestern Data Systems)(US)(Side A)</description>
+		<rom name="Merlin (1983)(Southwestern Data Systems)(US)(Side A).nib" size="232960" crc="64c513fa" md5="5014057229e2ef2927091fbb2915b2dc" sha1="2f1ad55372056dc456ffe5e815b6847da4a505cb"/>
+	</game>
+	<game name="Merlin (1983)(Southwestern Data Systems)(US)(Side A)[f IIe]">
+		<description>Merlin (1983)(Southwestern Data Systems)(US)(Side A)[f IIe]</description>
+		<rom name="Merlin (1983)(Southwestern Data Systems)(US)(Side A)[f IIe].nib" size="232960" crc="99ced74f" md5="61abc0072bf0812347ddef8d0ddb9dcb" sha1="d87193e5874c2cc7497bf9819cb701e1b835e065"/>
+	</game>
+	<game name="Merlin (1983)(Southwestern Data Systems)(US)(Side B)">
+		<description>Merlin (1983)(Southwestern Data Systems)(US)(Side B)</description>
+		<rom name="Merlin (1983)(Southwestern Data Systems)(US)(Side B).nib" size="232960" crc="dea4ecb5" md5="beb66012cdf3171769e8a6415db805d5" sha1="8ab1cba7e4024be93ed53d6fef60b928ea87a00c"/>
+	</game>
+	<game name="TellStar v1.03 (1980-05)(Scharf Software Systems)[DOS]">
+		<description>TellStar v1.03 (1980-05)(Scharf Software Systems)[DOS]</description>
+		<rom name="TellStar v1.03 (1980-05)(Scharf Software Systems)[DOS].nib" size="232960" crc="21109790" md5="142df4df835f86520291a115613110df" sha1="034a8db277dff9e92feb552187291a18a069756d"/>
+	</game>
+	<game name="Tiny Troll v1.1 (1979)(Micro Finance Associates)(II+)[b missing data on half tracks]">
+		<description>Tiny Troll v1.1 (1979)(Micro Finance Associates)(II+)[b missing data on half tracks]</description>
+		<rom name="Tiny Troll v1.1 (1979)(Micro Finance Associates)(II+)[b missing data on half tracks].nib" size="232960" crc="fd0f771d" md5="1d52172118da16f7e1472328622fac76" sha1="9a302ca54bb930f9836f508e9e51c870c49d035a"/>
+	</game>
+</datafile>

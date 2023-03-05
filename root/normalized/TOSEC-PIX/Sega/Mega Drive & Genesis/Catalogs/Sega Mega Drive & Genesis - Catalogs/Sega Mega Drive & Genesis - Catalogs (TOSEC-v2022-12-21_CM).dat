@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Catalogs</name>
+		<description>Sega Mega Drive &amp; Genesis - Catalogs (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Giochi Preziosi Catalog (1992)(Sega)(IT)">
+		<description>Giochi Preziosi Catalog (1992)(Sega)(IT)</description>
+		<rom name="Giochi Preziosi Catalog (1992)(Sega)(IT).pdf" size="71517272" crc="c8c42b57" md5="f5ae16c5b8e9992bfbb7df87c30a6948" sha1="be65f11ba96ca9f7a2e22ae3e112d98300606ed4"/>
+	</game>
+	<game name="Sfida al Futuro (1990)(Giochi Preziosi)(IT)">
+		<description>Sfida al Futuro (1990)(Giochi Preziosi)(IT)</description>
+		<rom name="Sfida al Futuro (1990)(Giochi Preziosi)(IT).pdf" size="23255335" crc="4973482a" md5="84fad5fbc880f15b1a70d73f46f38190" sha1="fa0b1290c73bc26f3d2207b211f6cefbccd4bce8"/>
+	</game>
+	<game name="Sfida al Futuro (1990)(Giochi Preziosi)(IT)[a]">
+		<description>Sfida al Futuro (1990)(Giochi Preziosi)(IT)[a]</description>
+		<rom name="Sfida al Futuro (1990)(Giochi Preziosi)(IT)[a].pdf" size="24903202" crc="1af9c13f" md5="f1ae79deddc0136d898619a631e6864a" sha1="d384046dc0b861e96442329d884b107b4d925b37"/>
+	</game>
+	<game name="Sonic the Hedgehog (1991)(Sega)">
+		<description>Sonic the Hedgehog (1991)(Sega)</description>
+		<rom name="Sonic the Hedgehog (1991)(Sega).pdf" size="61896703" crc="ae4506e7" md5="5e4d7012ab1bdc2b4a05087807e56402" sha1="9c684194f897eed72babdf8c7dc88398b1ad2bb9"/>
+	</game>
+	<game name="Super Monaco GP (1991)(Sega)">
+		<description>Super Monaco GP (1991)(Sega)</description>
+		<rom name="Super Monaco GP (1991)(Sega).pdf" size="82261110" crc="29ee46ee" md5="cc8e540176d879bb6328f2b27b27a37c" sha1="8d32d69d6b6ded0a4b7d53ae19a218e6a2b35a8b"/>
+	</game>
+</datafile>

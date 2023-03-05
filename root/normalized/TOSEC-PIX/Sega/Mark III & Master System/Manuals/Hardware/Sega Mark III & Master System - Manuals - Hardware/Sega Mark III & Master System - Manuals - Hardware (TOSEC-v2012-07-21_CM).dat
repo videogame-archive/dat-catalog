@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mark III &amp; Master System - Manuals - Hardware</name>
+		<description>Sega Mark III &amp; Master System - Manuals - Hardware (TOSEC-v2012-07-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-07-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Master System II Instruction Manual (1991)(Sega)(M8)">
+		<description>Master System II Instruction Manual (1991)(Sega)(M8)</description>
+		<rom name="Master System II Instruction Manual (1991)(Sega)(M8).pdf" size="16599414" crc="f8b1eb31" md5="186034ce0767f8bdff1de5ef4153f337" sha1="1341a6368ddad367bb775e54836a1c3abb0cd7be"/>
+	</game>
+	<game name="Master System Instruction Manual (1986)(Sega)(US)">
+		<description>Master System Instruction Manual (1986)(Sega)(US)</description>
+		<rom name="Master System Instruction Manual (1986)(Sega)(US).pdf" size="4075511" crc="2d62ac78" md5="2e2524f34c48d6be115ab5b72e8a1919" sha1="ed632fc84f967f6f30b8cee52a0e9400225732a3"/>
+	</game>
+</datafile>

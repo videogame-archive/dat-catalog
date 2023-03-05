@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Manfred Kramer Kramer-MC - Games</name>
+		<description>Manfred Kramer Kramer-MC - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).kcc" size="12032" crc="4d446734" md5="d1f603982f395ba4c75a24629a3c0023" sha1="b2b6036a1e02143cd675ad06dcc04cd6c02187f7"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).kcc" size="12800" crc="73ae6f0f" md5="d38d7eaeb9f4743b12ca8e72ce8cfd4e" sha1="58d1671df0306bfa731619de11abef1be47fbdff"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Applications</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>Maddog - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="240p Test Suite v1.12 (2022-05-22)(Urbina, Artemio)(GPLv2)">
+		<description>240p Test Suite v1.12 (2022-05-22)(Urbina, Artemio)(GPLv2)</description>
+		<rom name="240p Test Suite v1.12 (2022-05-22)(Urbina, Artemio)(GPLv2).pce" size="237568" crc="1f55263e" md5="f366a233ac10e2b8e91bd547ed1618ea" sha1="65168c6db1af4779e37b9b62c0c3df2ce076c34f"/>
+	</game>
+	<game name="Artist Tool (1989)(Hudson - NEC)(JP)">
+		<description>Artist Tool (1989)(Hudson - NEC)(JP)</description>
+		<rom name="Artist Tool (1989)(Hudson - NEC)(JP).pce" size="262144" crc="5e4fa713" md5="549d32279281af79c104f51a3c603628" sha1="691ac36ccfcade010e34e2d1dedbcc9af6ed5cd4"/>
+	</game>
+</datafile>

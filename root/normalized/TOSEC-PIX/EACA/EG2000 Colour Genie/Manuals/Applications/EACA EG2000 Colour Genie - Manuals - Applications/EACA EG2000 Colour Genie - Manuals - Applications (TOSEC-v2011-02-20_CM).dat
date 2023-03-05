@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Manuals - Applications</name>
+		<description>EACA EG2000 Colour Genie - Manuals - Applications (TOSEC-v2011-02-20)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-02-20</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Colour Assembler (1983)(TCS Computer)(DE)">
+		<description>Colour Assembler (1983)(TCS Computer)(DE)</description>
+		<rom name="Colour Assembler (1983)(TCS Computer)(DE).pdf" size="3608106" crc="7851f994" md5="cabd31583710435c3a07bfa9ed1f5b5b" sha1="df0603080a282cb188d0ef0d5a5a6e576d883903"/>
+	</game>
+	<game name="Colour Compiler (1983)(TCS Computer)(DE)">
+		<description>Colour Compiler (1983)(TCS Computer)(DE)</description>
+		<rom name="Colour Compiler (1983)(TCS Computer)(DE).pdf" size="357876" crc="5e4b69e2" md5="62eebc2038bd470f58a0f55ca36f012b" sha1="0c18667f501810dff0d005900519fa25a7bc507a"/>
+	</game>
+	<game name="Colour Syntheiser (1983)(TCS Computer)(DE)">
+		<description>Colour Syntheiser (1983)(TCS Computer)(DE)</description>
+		<rom name="Colour Syntheiser (1983)(TCS Computer)(DE).pdf" size="1329032" crc="f828843b" md5="ff9d9cc91bb59ad37c77eed45131d408" sha1="d585a1b0e08b05749a0bee33f8ea055af262f1a7"/>
+	</game>
+	<game name="Colour Text (1983)(TCS Computer)(DE)">
+		<description>Colour Text (1983)(TCS Computer)(DE)</description>
+		<rom name="Colour Text (1983)(TCS Computer)(DE).pdf" size="577125" crc="f1b96d33" md5="92db4f46a7f6e87c6fcc3cc0c5c2df73" sha1="c21fa3d4eb6e6c582ce921c990d62d253ec76513"/>
+	</game>
+	<game name="Composer (1983)(TCS Computer)(DE)">
+		<description>Composer (1983)(TCS Computer)(DE)</description>
+		<rom name="Composer (1983)(TCS Computer)(DE).pdf" size="864841" crc="5de31133" md5="96b4cd4261cd09674012fc2028e22674" sha1="399db850392248c9858d93958c6d3a2d219be1e0"/>
+	</game>
+	<game name="Grafik Editor (1983)(TCS Computer)(DE)">
+		<description>Grafik Editor (1983)(TCS Computer)(DE)</description>
+		<rom name="Grafik Editor (1983)(TCS Computer)(DE).pdf" size="482800" crc="fde22a67" md5="6dec6ae75f22cd4eb072ef7d8bb6d563" sha1="92d63656473747a364c5bd9c3d6a43a60e6629c6"/>
+	</game>
+	<game name="Musik (1983)(TCS Computer)(DE)">
+		<description>Musik (1983)(TCS Computer)(DE)</description>
+		<rom name="Musik (1983)(TCS Computer)(DE).pdf" size="328151" crc="c01a5212" md5="43e24e06734feaed08a45f4c410f2c47" sha1="57bdfcfe33f19c8d6b2398be20dd7e4cfa5ce014"/>
+	</game>
+	<game name="Plotter (1983)(TCS Computer)(DE)">
+		<description>Plotter (1983)(TCS Computer)(DE)</description>
+		<rom name="Plotter (1983)(TCS Computer)(DE).pdf" size="1296228" crc="c18c4643" md5="5b7387f25a035794bc7fc056b02ba400" sha1="8971aee0cf3064b52c62c92a9e16f8cfb41ab21d"/>
+	</game>
+</datafile>

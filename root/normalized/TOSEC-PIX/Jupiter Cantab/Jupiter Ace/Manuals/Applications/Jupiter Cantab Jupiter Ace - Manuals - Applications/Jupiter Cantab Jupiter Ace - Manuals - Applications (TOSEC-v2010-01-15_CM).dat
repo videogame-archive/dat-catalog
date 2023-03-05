@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Jupiter Cantab Jupiter Ace - Manuals - Applications</name>
+		<description>Jupiter Cantab Jupiter Ace - Manuals - Applications (TOSEC-v2010-01-15)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-15</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Jupiter Ace DataBase Manual (1982)(Boldfield)">
+		<description>Jupiter Ace DataBase Manual (1982)(Boldfield)</description>
+		<rom name="Jupiter Ace DataBase Manual (1982)(Boldfield).pdf" size="195975" crc="28ffa99c" md5="c9f9e49e6f5f299e8753669dc3344c52" sha1="0dfbd73a7e53c00b167aa4874b7322ee69e6e325"/>
+	</game>
+	<game name="Jupiter Ace Dis-Assembler (1982)(Boldfield)">
+		<description>Jupiter Ace Dis-Assembler (1982)(Boldfield)</description>
+		<rom name="Jupiter Ace Dis-Assembler (1982)(Boldfield).pdf" size="408180" crc="f23e2981" md5="7cf1f5591eacfb95f22cdba59399e954" sha1="7d4f87ef2f41db09cc39eb305e65213a3d509252"/>
+	</game>
+	<game name="Jupiter Ace Quick Reference Card (2006)(Lopes, Ricardo)">
+		<description>Jupiter Ace Quick Reference Card (2006)(Lopes, Ricardo)</description>
+		<rom name="Jupiter Ace Quick Reference Card (2006)(Lopes, Ricardo).pdf" size="171974" crc="ed139b86" md5="7d709c0f083673f4bfe48cdae93c2386" sha1="3232061febc4032c8226fe01749d9f0a57d9a2b4"/>
+	</game>
+	<game name="Jupiter Ace Spreadsheet Manual (1982)(Boldfield)">
+		<description>Jupiter Ace Spreadsheet Manual (1982)(Boldfield)</description>
+		<rom name="Jupiter Ace Spreadsheet Manual (1982)(Boldfield).pdf" size="134848" crc="a79fcbf1" md5="9fef11de0f288fc7aa1aa8c170c44694" sha1="ea6e69fdbde74e1948d8dff4513354ee08735300"/>
+	</game>
+	<game name="Utilities User Manual (1982)(Boldfield)">
+		<description>Utilities User Manual (1982)(Boldfield)</description>
+		<rom name="Utilities User Manual (1982)(Boldfield).pdf" size="116691" crc="c46214bf" md5="26899588858484d81eed110a23a6b903" sha1="3bae35e28af7c1cccac5a96c46d00534ae7b50a8"/>
+	</game>
+</datafile>
