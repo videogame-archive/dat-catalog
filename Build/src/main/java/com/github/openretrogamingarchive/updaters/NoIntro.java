@@ -16,23 +16,18 @@ public class NoIntro extends Updater {
 	private static final String FORM = "dat_type=standard&set1=Ok&valentine_day=Request";
 
 	public void update() throws Exception {
-
-		System.out.print("Update No-Intro...");
-
 		// initiate http client and tell him to handle cookies and follow redirects
-		// (IMPORTANT for no-intro wesite)
+		// (IMPORTANT for no-intro website)
 		final var http = new HTTP();
 
 		// ask download page for daily build overall archive using various form settings
 		// for this type of archive
 		final var resp1 = http.postFormExpectString(new URI(URL + PAGE), FORM);
-		System.out.print(".");
 
 		if (resp1.previousResponse().map(r -> r.statusCode() == 302).orElse(false)) {
 			// download archive, cookie will be passed automatically from previous request
 			// so that server know what we asked before
 			final var resp2 = http.postFormExpectInputStream(resp1.uri(), "lazy_mode=Download");
-			System.out.print(".");
 
 			// if application/zip content-type then extract archive
 			if (HTTP.hasZip(resp2.headers())) {
@@ -68,10 +63,10 @@ public class NoIntro extends Updater {
 					}
 				}
 			} else {
-				System.out.println("FAILED (not zip)");
+				throw new RuntimeException("FAILED (not zip)");
 			}
 		} else {
-			System.out.println("FAILED (status code unexpected)");
+			throw new RuntimeException("FAILED (status code unexpected)");
 		}
 	}
 
