@@ -14,19 +14,29 @@ import java.util.Map;
 import com.github.openretrogamingarchive.helpers.HTTP;
 import com.github.openretrogamingarchive.helpers.ZIP;
 
-public class TOSEC extends UpdaterBase {
+public class TOSEC extends Updater {
 
+    private static final String TOSEC_DIR = "TOSEC";
+    private static final String TOSEC_ISO_DIR = "TOSEC-ISO";
+    private static final String TOSEC_PIX_DIR = "TOSEC-PIX";
     public static final String DOMAIN = "https://www.tosecdev.org";
     private static final String DOWNLOADS_URL = DOMAIN + "/downloads";
-    public static void update() throws IOException, InterruptedException, URISyntaxException {
+
+    public void update() throws Exception {
         Map<String, byte[]> files = ZIP.extractInMemory(getLastReleaseZip());
 
         // TOSEC
-        unpackTOSECModule(files, "TOSEC");
+        unpackTOSECModule(files, TOSEC_DIR);
         // TOSEC-ISO
-        unpackTOSECModule(files, "TOSEC-ISO");
+        unpackTOSECModule(files, TOSEC_ISO_DIR);
         // TOSEC-PIX
-        unpackTOSECModule(files, "TOSEC-PIX");
+        unpackTOSECModule(files, TOSEC_PIX_DIR);
+    }
+
+    public Path[] getTrackedFolders() {
+        return new Path[] {NORMALIZED_DIR.resolve(TOSEC_DIR), BASIC_DIR.resolve(TOSEC_DIR),
+                NORMALIZED_DIR.resolve(TOSEC_ISO_DIR), BASIC_DIR.resolve(TOSEC_ISO_DIR),
+                NORMALIZED_DIR.resolve(TOSEC_PIX_DIR), BASIC_DIR.resolve(TOSEC_PIX_DIR)};
     }
 
     private static void unpackTOSECModule(Map<String, byte[]> files, String moduleName) throws IOException {
@@ -73,4 +83,5 @@ public class TOSEC extends UpdaterBase {
         String downloadURL = DOMAIN + "/downloads/category/" + scrap(lastReleaseDownloadsPage, "href=\"/downloads/category/", "\"").get(1);
         return HTTP.downloadAsStream(downloadURL);
     }
+
 }

@@ -1,8 +1,6 @@
 package com.github.openretrogamingarchive.updaters;
 
-import java.io.IOException;
 import java.net.URI;
-import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Map;
@@ -10,14 +8,14 @@ import java.util.Map;
 import com.github.openretrogamingarchive.helpers.HTTP;
 import com.github.openretrogamingarchive.helpers.ZIP;
 
-public class NoIntro extends UpdaterBase {
-	private static final String ROOT_DIR = "No-Intro";
+public class NoIntro extends Updater {
+	private static final String NO_INTRO_DIR = "No-Intro";
 
 	private static final String URL = "https://datomatic.no-intro.org/";
 	private static final String PAGE = "index.php?page=download&op=daily&s=64";
 	private static final String FORM = "dat_type=standard&set1=Ok&valentine_day=Request";
 
-	public static void update() throws URISyntaxException, IOException, InterruptedException {
+	public void update() throws Exception {
 
 		System.out.print("Update No-Intro...");
 
@@ -55,23 +53,30 @@ public class NoIntro extends UpdaterBase {
 						}
 
 						// # Normalized
-						Path normalized = NORMALIZED_DIR.resolve(ROOT_DIR).resolve(noIntroSystemCategory).resolve(noIntroSystem);
+						Path normalized = NORMALIZED_DIR.resolve(NO_INTRO_DIR).resolve(noIntroSystemCategory).resolve(noIntroSystem);
 						if (!Files.exists(normalized)) {
 							Files.createDirectories(normalized);
 						}
 						Files.write(normalized.resolve(datFileName), resp2Files.get(pathToDat));
 
 						// # Basic
-						Path basic = BASIC_DIR.resolve(ROOT_DIR).resolve(noIntroSystemCategory);
+						Path basic = BASIC_DIR.resolve(NO_INTRO_DIR).resolve(noIntroSystemCategory);
 						if (!Files.exists(basic)) {
 							Files.createDirectories(basic);
 						}
 						Files.write(basic.resolve(noIntroSystem + ".dat"), resp2Files.get(pathToDat));
 					}
 				}
-			} else
+			} else {
 				System.out.println("FAILED (not zip)");
-		} else
+			}
+		} else {
 			System.out.println("FAILED (status code unexpected)");
+		}
+	}
+
+	@Override
+	public Path[] getTrackedFolders() {
+		return new Path[] {NORMALIZED_DIR.resolve(NO_INTRO_DIR), BASIC_DIR.resolve(NO_INTRO_DIR)};
 	}
 }

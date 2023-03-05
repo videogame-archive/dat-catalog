@@ -17,7 +17,7 @@ public class Modified {
 	}
 
 	public static Date getModified(Path path) {
-		final var file = path.resolve(".modified");
+		final var file = path.resolve("modified");
 		if (Files.exists(file)) {
 			try {
 				return Date.from(Instant.parse(Files.readString(file)));
@@ -29,7 +29,7 @@ public class Modified {
 	}
 
 	public static void setModified(Path path) throws IOException {
-		Files.writeString(path.resolve(".modified"), Instant.now().toString());
+		Files.writeString(path.resolve("modified"), Instant.now().toString());
 	}
 
 	public static boolean isOneDayOld(Path path) {
