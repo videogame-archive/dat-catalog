@@ -53,7 +53,7 @@ public final class CSV {
             sizeAsString = Long.toString(size);
         }
 
-        return new String[] { type.name(), getLastPathName(path), urlAsString, crcAsString, sizeAsString };
+        return new String[]{type.name(), getLastPathName(path), urlAsString, crcAsString, sizeAsString};
     }
 
     public static void save(Path root, List<String[]> csvRows) throws IOException {
@@ -65,7 +65,7 @@ public final class CSV {
     }
 
     public static String getLastPathName(Path path) {
-	return path.getFileName().toString();
+        return path.getFileName().toString();
     }
 
 }

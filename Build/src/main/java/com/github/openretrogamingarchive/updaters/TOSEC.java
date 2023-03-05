@@ -34,14 +34,14 @@ public class TOSEC extends Updater {
     }
 
     public Path[] getTrackedFolders() {
-        return new Path[] {NORMALIZED_DIR.resolve(TOSEC_DIR), BASIC_DIR.resolve(TOSEC_DIR),
+        return new Path[]{NORMALIZED_DIR.resolve(TOSEC_DIR), BASIC_DIR.resolve(TOSEC_DIR),
                 NORMALIZED_DIR.resolve(TOSEC_ISO_DIR), BASIC_DIR.resolve(TOSEC_ISO_DIR),
                 NORMALIZED_DIR.resolve(TOSEC_PIX_DIR), BASIC_DIR.resolve(TOSEC_PIX_DIR)};
     }
 
     private static void unpackTOSECModule(Map<String, byte[]> files, String moduleName) throws IOException {
         String script_move = new String(files.get("Scripts/move/" + moduleName + "_move.bat"), StandardCharsets.UTF_8);
-        for (String move:script_move.split("\r\n")) {
+        for (String move : script_move.split("\r\n")) {
             // # Normalized
             List<String> originToDestination = scrap(move, "\"", "\"");
             String fileName = originToDestination.get(0);
@@ -67,7 +67,7 @@ public class TOSEC extends Updater {
             for (int i = 0; i < relativeBacktrackLength; i++) {
                 relativeBackgrack += "../";
             }
-            String relativeNormalizedDestination =  relativeBackgrack + NORMALIZED_DIR + "/" + moduleName + "/" + path + "/" + normalizedOrigin;
+            String relativeNormalizedDestination = relativeBackgrack + NORMALIZED_DIR + "/" + moduleName + "/" + path + "/" + normalizedOrigin;
             Path relativeNormalizedDestinationPath = Path.of(relativeNormalizedDestination);
             Path relativeDatPath = relativeNormalizedDestinationPath.resolve(Path.of(fileName));
             Files.createSymbolicLink(basicDestinationDatPath, relativeDatPath);
