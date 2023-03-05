@@ -7,7 +7,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Map;
 
-import com.github.openretrogamingarchive.UpdaterBase;
 import com.github.openretrogamingarchive.helpers.HTTP;
 import com.github.openretrogamingarchive.helpers.ZIP;
 

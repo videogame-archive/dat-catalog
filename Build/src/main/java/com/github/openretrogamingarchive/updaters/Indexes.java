@@ -1,4 +1,4 @@
-package com.github.openretrogamingarchive;
+package com.github.openretrogamingarchive.updaters;
 
 import java.io.IOException;
 import java.net.URL;
@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.github.openretrogamingarchive.helpers.CSV;
+import com.github.openretrogamingarchive.updaters.UpdaterBase;
 
 public class Indexes extends UpdaterBase {
 	
