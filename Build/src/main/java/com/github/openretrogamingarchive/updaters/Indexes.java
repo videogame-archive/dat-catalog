@@ -12,11 +12,11 @@ import com.github.openretrogamingarchive.updaters.UpdaterBase;
 
 public class Indexes extends UpdaterBase {
 	
-	static void update() throws IOException {
+	public static void update() throws IOException {
 		update(ROOT_DIR);
 	}
 	
-	static void update(Path current) throws IOException {
+	private static void update(Path current) throws IOException {
 		List<String[]> currentIndex = new ArrayList<>();
 		try (final var stream = Files.list(current)) {
 		    stream.filter(s -> !s.getFileName().toString().startsWith(".")).forEach(fileInDir -> {
