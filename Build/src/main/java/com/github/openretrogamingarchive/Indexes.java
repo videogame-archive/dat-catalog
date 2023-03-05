@@ -19,14 +19,14 @@ public class Indexes {
 		try (final var stream = Files.list(current)) {
 		    stream.filter(s -> !s.getFileName().toString().startsWith(".")).forEach(fileInDir -> {
 			try {
-			    URL url = null;
-			    if (Files.isDirectory(fileInDir)) {
+				if (!Files.isDirectory(fileInDir)) {
+					URL url = new URL(BASE_URL + BASE_DIR.relativize(fileInDir));
+					currentIndex.add(CSV.toRow(fileInDir, url));
+				} else {
+					currentIndex.add(CSV.toRow(fileInDir, null));
 					List<String[]> indexes = update(fileInDir, false);
 					currentIndex.addAll(indexes);
-				} else {
-					url = new URL(BASE_URL + BASE_DIR.relativize(fileInDir));
-			    }
-			    currentIndex.add(CSV.toRow(fileInDir, url));
+				}
 			} catch (IOException e) {
 			    e.printStackTrace();
 			}

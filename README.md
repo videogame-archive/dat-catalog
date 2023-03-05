@@ -30,18 +30,22 @@ normalized :
 ```
 
 ## Navigation
-Each directory contains a index.csv file, this file contains the list of files and directories.
+The root folder of each project contains:
+- A modified file, this file indicates when it was last updated.
+- An index.csv file, this file contains the list of files/directories.
 
-It has two fields:
-- Type : can be FILE or DIRECTORY.
-- Name : Name of the file or directory.
+The index.csv file contains the next fields:
+- Type : can be FILE or DIRECTORY
+- Name : Name of the FILE or directory
+- URL : URL to download the FILE
+- CRC : CRC of the FILE
+- Size : Size of the FILE
 
 For Example:
 ```
-Type,Name
-DIRECTORY,Acorn Archimedes
-DIRECTORY,Apple Macintosh
-DIRECTORY,Apple Macintosh - SBI Subchannels
-DIRECTORY,Atari Jaguar CD Interactive Multimedia System
-DIRECTORY,Bandai Pippin
+Type,Name,URL,CRC,Size
+DIRECTORY,Bandai Playdia Quick Interactive System,,,
+FILE,Bandai - Playdia Quick Interactive System - Datfile (38) (2022-07-06 01-08-10).dat,https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Bandai Playdia Quick Interactive System/Bandai - Playdia Quick Interactive System - Datfile (38) (2022-07-06 01-08-10).dat,1688677462,30295
+DIRECTORY,Sega Lindbergh,,,
+FILE,Arcade - Sega - Lindbergh - Datfile (12) (2022-09-27 15-27-52).dat,https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Sega Lindbergh/Arcade - Sega - Lindbergh - Datfile (12) (2022-09-27 15-27-52).dat,2087931147,4505
 ```
