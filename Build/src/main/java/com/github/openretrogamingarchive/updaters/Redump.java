@@ -14,15 +14,19 @@ import java.util.List;
 
 import com.github.openretrogamingarchive.helpers.HTTP;
 
-public class Redump extends UpdaterBase {
+public class Redump extends Updater {
 
-    private static final String ROOT_DIR = "Redump";
+    private static final String REDUMP_DIR = "Redump";
 
     private enum DownloadType { MainDat, BiosDat, Subchannels };
 
-    public static void update() throws IOException, InterruptedException, URISyntaxException {
+    public void update() throws Exception {
         List<RedumpSystem> systems = getRedumpSystems();
         saveSystemDats(systems);
+    }
+
+    public Path[] getTrackedFolders() {
+        return new Path[] {NORMALIZED_DIR.resolve(REDUMP_DIR), BASIC_DIR.resolve(REDUMP_DIR)};
     }
 
     public static class RedumpSystem {
@@ -77,13 +81,13 @@ public class Redump extends UpdaterBase {
 
     private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException, InterruptedException, URISyntaxException {
         // Normalized
-        Path normalizedRoot = NORMALIZED_DIR.resolve(ROOT_DIR);
+        Path normalizedRoot = NORMALIZED_DIR.resolve(REDUMP_DIR);
         if (!Files.exists(normalizedRoot)) {
             Files.createDirectories(normalizedRoot);
         }
 
         // Basic
-        Path basicRoot = BASIC_DIR.resolve(ROOT_DIR);
+        Path basicRoot = BASIC_DIR.resolve(REDUMP_DIR);
         if (!Files.exists(basicRoot)) {
             Files.createDirectories(basicRoot);
         }
@@ -118,14 +122,13 @@ public class Redump extends UpdaterBase {
 
         // # Basic
         if (downloadType == DownloadType.Subchannels) {
-            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName);
+            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + REDUMP_DIR + "/" + normalizedSystemDirName);
             Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName)), normalizedFromBasicLink);
         } else {
-            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + ROOT_DIR + "/" + normalizedSystemDirName + "/" + getLastPathName(datPath));
+            Path normalizedFromBasicLink = Path.of("../../" + NORMALIZED_DIR + "/" + REDUMP_DIR + "/" + normalizedSystemDirName + "/" + getLastPathName(datPath));
             Files.createSymbolicLink(basicRoot.resolve(Path.of(normalizedSystemDirName + ".dat")), normalizedFromBasicLink);
         }
 
     }
-
 
 }

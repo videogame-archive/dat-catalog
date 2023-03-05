@@ -58,7 +58,7 @@ public final class CSV {
 
     public static void save(Path root, List<String[]> csvRows) throws IOException {
         final var csvFormat = CSVFormat.Builder.create(CSVFormat.DEFAULT).setHeader(Headers.class).build();
-        Path index = root.resolve(".index.csv");
+        Path index = root.resolve("index.csv");
         try (CSVPrinter csvPrinter = new CSVPrinter(new FileWriter(index.toFile(), StandardCharsets.UTF_8), csvFormat)) {
             csvPrinter.printRecords(csvRows);
         }

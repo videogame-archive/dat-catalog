@@ -1,4 +1,4 @@
-package com.github.openretrogamingarchive.updaters;
+package com.github.openretrogamingarchive;
 
 import java.io.IOException;
 import java.net.URL;
@@ -8,24 +8,23 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.github.openretrogamingarchive.helpers.CSV;
-import com.github.openretrogamingarchive.updaters.UpdaterBase;
 
-public class Indexes extends UpdaterBase {
-	
-	public static void update() throws IOException {
-		update(ROOT_DIR);
-	}
-	
-	private static void update(Path current) throws IOException {
+import static com.github.openretrogamingarchive.updaters.Updater.BASE_DIR;
+import static com.github.openretrogamingarchive.updaters.Updater.BASE_URL;
+
+public class Indexes {
+
+	public static List<String[]> update(Path current, boolean print) throws IOException {
 		List<String[]> currentIndex = new ArrayList<>();
 		try (final var stream = Files.list(current)) {
 		    stream.filter(s -> !s.getFileName().toString().startsWith(".")).forEach(fileInDir -> {
 			try {
 			    URL url = null;
 			    if (Files.isDirectory(fileInDir)) {
-				update(fileInDir);
-			    } else {
-				url = new URL(BASE_URL + BASE_DIR.relativize(fileInDir));
+					List<String[]> indexes = update(fileInDir, false);
+					currentIndex.addAll(indexes);
+				} else {
+					url = new URL(BASE_URL + BASE_DIR.relativize(fileInDir));
 			    }
 			    currentIndex.add(CSV.toRow(fileInDir, url));
 			} catch (IOException e) {
@@ -33,7 +32,10 @@ public class Indexes extends UpdaterBase {
 			}
 		    });
 		}
-		CSV.save(current, currentIndex);
+		if (print) {
+			CSV.save(current, currentIndex);
+		}
+		return currentIndex;
 	}
 
 }
