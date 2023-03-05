@@ -17,10 +17,7 @@ import com.github.openretrogamingarchive.helpers.HTTP;
 public class Redump extends Updater {
 
     private static final String REDUMP_DIR = "Redump";
-
-    private enum DownloadType {MainDat, BiosDat, Subchannels}
-
-    ;
+    private enum DownloadType {MainDat, BiosDat, Subchannels};
 
     public void update() throws Exception {
         List<RedumpSystem> systems = getRedumpSystems();
@@ -31,7 +28,7 @@ public class Redump extends Updater {
         return new Path[]{NORMALIZED_DIR.resolve(REDUMP_DIR), BASIC_DIR.resolve(REDUMP_DIR)};
     }
 
-    public static class RedumpSystem {
+    private static class RedumpSystem {
         private final String name;
         private final String datDownloadURL;
         private final String subChannelsSBIDatDownloadURL;
