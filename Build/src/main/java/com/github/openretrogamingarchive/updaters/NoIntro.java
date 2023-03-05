@@ -59,7 +59,8 @@ public class NoIntro extends Updater {
                         if (!Files.exists(basic)) {
                             Files.createDirectories(basic);
                         }
-                        Files.write(basic.resolve(noIntroSystem + ".dat"), resp2Files.get(pathToDat));
+                        Path normalizedFromBasicLink = Path.of("../../../" + NORMALIZED_DIR + "/" + NO_INTRO_DIR + "/" + noIntroSystemCategory + "/" + noIntroSystem + "/" + datFileName);
+                        Files.createSymbolicLink(basic.resolve(noIntroSystem + ".dat"), normalizedFromBasicLink);
                     }
                 }
             } else {
