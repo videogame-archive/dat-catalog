@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Canon Cat - Manuals - Applications</name>
+		<description>Canon Cat - Manuals - Applications (TOSEC-v2014-02-01)</description>
+		<category>TOSEC-PIX</category>
+		<version>2014-02-01</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cat Goodies Disk (1989-02-02)(Information Appliance)">
+		<description>Cat Goodies Disk (1989-02-02)(Information Appliance)</description>
+		<rom name="Cat Goodies Disk (1989-02-02)(Information Appliance).pdf" size="148186" crc="f4ee8f05" md5="fd28a7c195abb45561e26c0f5ab7a57f" sha1="4f7519df3ffe12496256df7ea7ba6da396f307af"/>
+	</game>
+	<game name="Catform (1989)(Canon)(US)">
+		<description>Catform (1989)(Canon)(US)</description>
+		<rom name="Catform (1989)(Canon)(US).pdf" size="6927103" crc="05a789c1" md5="fe85d3a17459a4f71384920f96609e4c" sha1="afe2b903ee8eaa9e19b3fd2721a802c937bf2ae5"/>
+	</game>
+	<game name="tForth Manual - Documentation for the Programming Language of the Canon Cat (1988)(Information Appliance)">
+		<description>tForth Manual - Documentation for the Programming Language of the Canon Cat (1988)(Information Appliance)</description>
+		<rom name="tForth Manual - Documentation for the Programming Language of the Canon Cat (1988)(Information Appliance).pdf" size="4866561" crc="93bf38a9" md5="634f247d1a1d85b2e9c9dfd17a6fac0a" sha1="3764fef6fec5323008e3f2b41f885177e17535a8"/>
+	</game>
+</datafile>

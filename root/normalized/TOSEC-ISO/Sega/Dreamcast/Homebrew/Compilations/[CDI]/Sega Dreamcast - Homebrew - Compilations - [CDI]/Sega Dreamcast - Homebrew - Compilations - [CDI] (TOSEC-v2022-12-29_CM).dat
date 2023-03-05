@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Compilations - [CDI]</name>
+		<description>Sega Dreamcast - Homebrew - Compilations - [CDI] (TOSEC-v2022-12-29)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-12-29</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Castlevania Collection (2022-12-20)(ShindouGo)[fixed version]">
+		<description>Castlevania Collection (2022-12-20)(ShindouGo)[fixed version]</description>
+		<rom name="Castlevania Collection (2022-12-20)(ShindouGo)[fixed version].cdi" size="832687335" crc="08a6107c" md5="ef40314a449ebdd235006a44da30c7f4" sha1="c4aff4fe9b2871357c473ffebc1ea7483edf10f3"/>
+	</game>
+	<game name="DreamBOR 7 in 1 (2021-12-15)(Dubcity - IMR Technology)[fixed version]">
+		<description>DreamBOR 7 in 1 (2021-12-15)(Dubcity - IMR Technology)[fixed version]</description>
+		<rom name="DreamBOR 7 in 1 (2021-12-15)(Dubcity - IMR Technology)[fixed version].cdi" size="769296988" crc="25165e35" md5="5e68ac8312c80a6c959bb83e0e60aae8" sha1="65d00d6fcc2a516b7b167c2b116c1655e7df251a"/>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - The Cowabunga Collection (2022-12-25)(IMR Technology)">
+		<description>Teenage Mutant Ninja Turtles - The Cowabunga Collection (2022-12-25)(IMR Technology)</description>
+		<rom name="Teenage Mutant Ninja Turtles - The Cowabunga Collection (2022-12-25)(IMR Technology).cdi" size="724370413" crc="45d100e1" md5="11b2cc80994f73cd830cc4ebb9bceb62" sha1="135d353b1588d86aa9b9dcafbdc99352b2f9e674"/>
+	</game>
+</datafile>

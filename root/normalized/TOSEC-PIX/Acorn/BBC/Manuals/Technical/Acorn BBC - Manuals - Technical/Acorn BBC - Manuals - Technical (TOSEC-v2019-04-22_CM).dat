@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Manuals - Technical</name>
+		<description>Acorn BBC - Manuals - Technical (TOSEC-v2019-04-22)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-22</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arraymate (1985)(Fosse Systems)">
+		<description>Arraymate (1985)(Fosse Systems)</description>
+		<rom name="Arraymate (1985)(Fosse Systems).pdf" size="148884" crc="90aa3f70" md5="91c88f52b8811f29c66f9e76fc077dc4" sha1="c71d0f15c19c4e1aeb0fab9a80ca9b1b70aa98e4"/>
+	</game>
+	<game name="Assembly Language Programming for the BBC Microcomputer (1982)(Macmillan Press)">
+		<description>Assembly Language Programming for the BBC Microcomputer (1982)(Macmillan Press)</description>
+		<rom name="Assembly Language Programming for the BBC Microcomputer (1982)(Macmillan Press).pdf" size="6781189" crc="07efc0be" md5="96a95d132a675f1c1620bed28d9a8dd3" sha1="e80681bcb8c2d81b9a36135962539e365cb28380"/>
+	</game>
+	<game name="BASIC ROM User Guide (1984)(Addler Publishing)">
+		<description>BASIC ROM User Guide (1984)(Addler Publishing)</description>
+		<rom name="BASIC ROM User Guide (1984)(Addler Publishing).pdf" size="12895165" crc="2c9954f0" md5="9a44d3df070aee9edda7f47aeab67973" sha1="0f8c8d88cb2eff4250acfd4256987608b799fc88"/>
+	</game>
+</datafile>

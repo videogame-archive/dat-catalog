@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>85</id>
+		<name>Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm)</name>
+		<description>Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm)</description>
+		<version>20220715-105412</version>
+		<author>Densetsu, diego-rbb, Gefflon, Hiccup, SonGoku, UnlockerPT, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Guacamelee! (USA) (v1.03)" id="0051">
+		<description>Guacamelee! (USA) (v1.03)</description>
+		<game_id>PCSE00033</game_id>
+		<rom name="app\PCSE00033\eboot.bin" size="4317584" crc="84d827f5" md5="7827d9ef00b23c3712b1a38644aabf1a" sha1="bab276eb1548590055628101e7ac138207eb9570"/>
+		<rom name="app\PCSE00033\levels.dat" size="21902329" crc="4abc61e8" md5="98d47fe2a8fd525ca22e082d4078a458" sha1="0be0da3aa62db36ad0a0e686021374511f315c61"/>
+		<rom name="app\PCSE00033\media\audio.fev.psp2" size="349230" crc="c146a00f" md5="35a903725d65082d2adb4419694c2db3" sha1="d442663a21dcaa6b7bdee45a827accd64e8ee7a3"/>
+		<rom name="app\PCSE00033\media\effects.fsb.psp2" size="111961312" crc="2e10f749" md5="81b5997ce8ed60bc91cb1a5a230a2a01" sha1="d46fbcdc0765c3a953b3db6b0ff538330314b285"/>
+		<rom name="app\PCSE00033\media\music.fsb.psp2" size="65042176" crc="1badb466" md5="278e4bade30c6a836620aad608efe12a" sha1="f37a56cb7fdd40912690e93d419af9104d70e32e"/>
+		<rom name="app\PCSE00033\misc.dat" size="1262506" crc="94d50f41" md5="bbac09e6ebcf86fd4400e6844f08260f" sha1="f2302bc2f3a9f8837051ff2bd84e6fd60c4124b8"/>
+		<rom name="app\PCSE00033\resources.dat" size="107927090" crc="b01232d8" md5="b143be979a17844c10b7b1e9ff1e9beb" sha1="9b8b2b8c7950b644629005e9780814ac0b1a866b"/>
+		<rom name="app\PCSE00033\sce_module\libc.suprx" size="162160" crc="1e046330" md5="57b0e53dd0612741e18ce75d514026c7" sha1="c44dbeeebe97c09d1934b652a4eb7eaf19766f4f"/>
+		<rom name="app\PCSE00033\sce_module\libfios2.suprx" size="97520" crc="7faf4a5a" md5="b27cacd673f2bded2d70b15ce5bd5f72" sha1="575ecfb06a9e65d679360a6d5d437e80b9c239f0"/>
+		<rom name="app\PCSE00033\sce_module\libult.suprx" size="49584" crc="cd18e92b" md5="2d3370cfd47817c97636e44149fc43fc" sha1="ceff9d3d69c42be2b5c5b353e2f70b48ec00e14e"/>
+		<rom name="app\PCSE00033\sce_pfs\files.db" size="23552" crc="48c48b48" md5="9ff8e87c14ba039cd71b14cd202aec77" sha1="dc2ad5b3f994bdd05043f9cddf975daa87eb0396"/>
+		<rom name="app\PCSE00033\sce_pfs\unicv.db" size="375808" crc="9db61e52" md5="b1c2154dfb4083b4d719d6885021743b" sha1="5a3f7a6b710279edac956358ac5e9f7d222e0215"/>
+		<rom name="app\PCSE00033\sce_sys\about\right.suprx" size="15520" crc="4da53ab3" md5="f8e61d05746eb845824432897de6c003" sha1="61152ce8b1a45fdc57b4c795f5618b3f7c18b653"/>
+		<rom name="app\PCSE00033\sce_sys\clearsign" size="512" crc="03f05f89" md5="102eb55d65c2d1484a0f2afd1ebb1ccf" sha1="b03ea744f7a9d70a353d4de21fba5dc1d15d44c8"/>
+		<rom name="app\PCSE00033\sce_sys\icon0.png" size="12960" crc="99069443" md5="83abb9d9a477711b2f6faab2f6658109" sha1="6b7b8565966ca96557958e4f2272b75aec8049bc"/>
+		<rom name="app\PCSE00033\sce_sys\keystone" size="96" crc="6ea55dab" md5="91da478c00dad7703396a62b557d2aca" sha1="98815fb53e1d50fd7ba29af3c3416df592d8734b"/>
+		<rom name="app\PCSE00033\sce_sys\livearea\contents\drinkboxButton.png" size="10003" crc="cd8a469a" md5="46d5d0be83a24de55801773bbd6cf84c" sha1="ba4c99f95b2cea810b2fef4066761b0ca4ee36d5"/>
+		<rom name="app\PCSE00033\sce_sys\livearea\contents\Guac_store_button.png" size="12162" crc="5f3b3393" md5="9406f5c20e536526f93220d9f87c42f4" sha1="a4dce2c0fb266982e1e1ec2172b7ff25a3b862dc"/>
+		<rom name="app\PCSE00033\sce_sys\livearea\contents\MBA_store_button.png" size="10830" crc="f204c4ad" md5="684fabff95e39961e85ec6df53260310" sha1="78f5aefab4466bd6e5f3da7663aed34de4678d34"/>
+		<rom name="app\PCSE00033\sce_sys\livearea\contents\template.xml" size="3501" crc="a5498050" md5="b354ab1e7f0e3b50b767651cb18dbe57" sha1="670d529820d83a047ebeebf8e53c5c5de9121062"/>
+		<rom name="app\PCSE00033\sce_sys\livearea\contents\TitleMenu_BGD.png" size="228187" crc="ddddddaf" md5="d74423ea6d48b4f3ef0c6c8bfb58e5bf" sha1="57322564c0c09856fa4a660b61a4b9ad81ab3320"/>
+		<rom name="app\PCSE00033\sce_sys\livearea\contents\TitleMenu_Logo_2-fr.png" size="28673" crc="8a838ef1" md5="c8b6a3bd49ae36330bfa61d9542bde98" sha1="2dc681f319f5aee2520f0e095eca3710d27276ac"/>
+		<rom name="app\PCSE00033\sce_sys\livearea\contents\TitleMenu_Logo_2.png" size="28654" crc="18978555" md5="16d9100548f3282fa437151792b221cc" sha1="38ddffc624790af8b92119045d99b419fd54eb10"/>
+		<rom name="app\PCSE00033\sce_sys\manual\001.png" size="854364" crc="46f4bb27" md5="cce05206bec149398e2d4bf5c3713b46" sha1="c244f34956ecf08ce7891b3e8468e33e9026b10c"/>
+		<rom name="app\PCSE00033\sce_sys\manual\002.png" size="64920" crc="08d483cc" md5="5e9ba8e4d6483c1ef9d81c288f708f10" sha1="67dbf0ef44bb8b007e9c740388867e30981bcfb3"/>
+		<rom name="app\PCSE00033\sce_sys\manual\003.png" size="29705" crc="78f8d238" md5="7ef8ef7a19c239f0830102ccf65b6ab4" sha1="4f60e191df3282e6fe5df6c4dacf27a8c3599dbc"/>
+		<rom name="app\PCSE00033\sce_sys\manual\004.png" size="46135" crc="c34ba76e" md5="a42ef74f8122740c848f23f3db7a7895" sha1="a2ae5b4471034a4d389a4e43a1e7a9b77a1be144"/>
+		<rom name="app\PCSE00033\sce_sys\manual\005.png" size="55127" crc="e4010a33" md5="10ab3743f4bf4cf37797e7e76b0ac7b7" sha1="2b3bfc58299ada6fad05c37fc4df1eb42d4f14a2"/>
+		<rom name="app\PCSE00033\sce_sys\manual\006.png" size="825298" crc="79d1f284" md5="014e7bfb15ac187b628e786af37ed01e" sha1="0563c93cd61d3a2d115f8bfa55702935e9c3f34a"/>
+		<rom name="app\PCSE00033\sce_sys\manual\007.png" size="717869" crc="edf5036c" md5="a7e3b0f774da7fa2e1ed2e413b89c0db" sha1="d725ed7cd9c437c0c027483330fc2fca4050e462"/>
+		<rom name="app\PCSE00033\sce_sys\manual\008.png" size="856927" crc="526cc3cb" md5="9887ae061fcec8b5e72be4660d97feec" sha1="6851bb6fdfca60974cb3e17489577ea9289a23cd"/>
+		<rom name="app\PCSE00033\sce_sys\manual\009.png" size="799765" crc="2f063b6f" md5="03c44335aaa39378b6c61b83dfbe9d57" sha1="69d5d4a7d1bf22816d78f2167352f755b0f790cd"/>
+		<rom name="app\PCSE00033\sce_sys\manual\010.png" size="798720" crc="59118f03" md5="d602f48b5ca1a1bc0bc6fb3fa7c5ca15" sha1="36265ea1b5a75a5f6c9e16c620cc2d6851831bc7"/>
+		<rom name="app\PCSE00033\sce_sys\manual\011.png" size="814212" crc="aed66cba" md5="0f8ec8da4974dc9860618540304af947" sha1="a7d6a2a2c88d1554ab1a01f208767dbbf5861e41"/>
+		<rom name="app\PCSE00033\sce_sys\manual\012.png" size="821085" crc="1253a818" md5="2fcd09da0fd49e94df2576df61928a91" sha1="27789ed90d784b100f3923968c70b4ab0d57fba5"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\001.png" size="797445" crc="5ae44a7a" md5="8c1a4c6db7dffbdb91b33e3d85fbcc4c" sha1="f1c89d0e0e00e9b92b1adfb22b8ab6f51ece19c9"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\002.png" size="61291" crc="1e70ba15" md5="b0fd51b138e72cd83f255f0d44f352b8" sha1="d5b243c476dcf193937a656fbe5d3f70f294ea12"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\003.png" size="33629" crc="461f87ea" md5="346dc29522a86ef5784f37eba0cf75b6" sha1="882994690f6c4ec9f1ed8541936f21d385aa4c0b"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\004.png" size="56977" crc="d8ef6313" md5="875b3da6a3e878cb65394e4b83e11040" sha1="72276e908126f93f57eefb705d491a70d1f0ea33"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\005.png" size="54287" crc="65fd469d" md5="7c15052a55d77bbf90dda6c1687313c2" sha1="b759b6219b78ee60dc9644d32aa661bf19dd9729"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\006.png" size="795049" crc="78748cf0" md5="6e6ff0b5817eff5989cab5791a9a33ae" sha1="48f57dbc510525e74306631177fab565a32916c2"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\007.png" size="723529" crc="335bd53c" md5="b4ee0b971e8028cc648c20b266123bf9" sha1="7d54f915cbd698702c5c912b01c970b6d2d6e5c5"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\008.png" size="828004" crc="49deebeb" md5="f3d385f83d4b9f9318dc42eb38f3dacc" sha1="3a71c21a9cbd48c5d8eb3131ab53bc0cacca3bbb"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\009.png" size="760695" crc="a95b8b9b" md5="dae43345618a853906027aac82b7b568" sha1="c0b9e08cd567d9bb21c10cb9ba0c441acb4cb1b0"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\010.png" size="758028" crc="d3431394" md5="0bf62acad85f3c3eb3a3329e592d7253" sha1="72d96ba797b3686f2931fef13bda4e48556cecb9"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\011.png" size="779852" crc="15a1d7a6" md5="b9de07d264eff45eeb2e6a10eaaa7ee9" sha1="706b84ee8092662715493b3b3470ace6a955427f"/>
+		<rom name="app\PCSE00033\sce_sys\manual\02\012.png" size="785668" crc="eb77ec34" md5="93d0cfcb3469195e21158431eb6cd498" sha1="cbaf1216d5e28f8940699d96be564bc4dd51f08a"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\001.png" size="791953" crc="6223dc0e" md5="3ddb7167a385076ef62b7690eeb08d9a" sha1="a2c8283a79f6a297f63f9796be785dee2211b552"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\002.png" size="68726" crc="acfae255" md5="c63ec75f4fd99b6cf8e0ff141f45f4b1" sha1="654b60284bd56ac85537cf10695ba94a6ceb8aa5"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\003.png" size="36578" crc="3e574e68" md5="b90077d486b4e62759cbe18e74eed582" sha1="609b5151d1eb54459f10e4d41da06839425b5a4c"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\004.png" size="58994" crc="d38ce909" md5="0fac61f270a9a0c7a648997a1bb960d6" sha1="e77db04fd1580316124891caa5dbe0370297355e"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\005.png" size="60986" crc="04f8cf08" md5="6efe92d89908faaf610df2ee9a907759" sha1="9dc687efa54ea9d94e615dab43b4783f7a164ae7"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\006.png" size="801174" crc="57e73ce2" md5="b6ad5fe0ffde341fdc7efefe5bd28e1f" sha1="0eb09d97bf872fd15542a596a1338bd58b62f7e4"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\007.png" size="721054" crc="14d7424a" md5="85e58310ede99457d9fa013ddf6f9d56" sha1="f77d9cbbe632bf86c0a0e6c4f980b6ebd9238474"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\008.png" size="830688" crc="a7de90f0" md5="aa195f43d1fb71b27c152a7d3170c2e2" sha1="0ce6f37eacc5fa8d099018a47a374c8be1f1b3b2"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\009.png" size="760727" crc="c64c972e" md5="2612c2a0296e7c38a72fe1eafd357d43" sha1="0e665faf62fd64c9b5174c44ed8037177be11f72"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\010.png" size="756783" crc="ea7e3648" md5="c3c35db26e71a0cc953b6988ce49804f" sha1="5bbbf042652dc74f63147649c24a6badca339abb"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\011.png" size="786677" crc="b61e4d56" md5="abb8cf457555352b52e82fd08432ce52" sha1="1d2aaaf1f611ece4afec9635a400cbb39ff316e2"/>
+		<rom name="app\PCSE00033\sce_sys\manual\03\012.png" size="787198" crc="180a5f61" md5="f0ab9d0d680defbb1edd100c3a2db3a5" sha1="ae1f2b6afcfad68629d44f714ec323c6ebd43243"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\001.png" size="797484" crc="046338e3" md5="af829a4a66c8d2dd6b158bf77bd4852f" sha1="2f04c47cb049af83ec5b251e6e5ec6e275357eec"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\002.png" size="68956" crc="508cfa65" md5="f4e40b02e82171e76fcaeaa9dbe44bc4" sha1="4b70463740f105434c6a0dd94af0cecd72b8e30b"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\003.png" size="37049" crc="d884a857" md5="5becdf8784927fa45814e7a4cd756c63" sha1="35c11adf27b23366509421a2c1c9faf2ab7cc491"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\004.png" size="56536" crc="79dced51" md5="b0bc3d49347897ad3f3499c9de939c79" sha1="3b632b37d59180d790bd312ba4dd1bb6f7650f57"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\005.png" size="54703" crc="9447c169" md5="23da0b123d08d9d9f970d0dcf246aaad" sha1="4231fea1c830206c644997c2849d5fab0f654d3a"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\006.png" size="803872" crc="6e75dd15" md5="6b6448bfd0b3ffb9566dec1b01c7feab" sha1="d887c8ac2adf71c7445ffde420125cd099242576"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\007.png" size="723241" crc="294cfe31" md5="72d926e3a33e9aa818c2194ca77ea630" sha1="c64409194eea7423a5c2d1f602f2a114e67bf8e4"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\008.png" size="831169" crc="08b695cf" md5="4631eec403cc5df9f9044142dcb0cd8e" sha1="309796c04782549bca7bbba7e97c96061f7b06cd"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\009.png" size="761506" crc="955ff9fe" md5="00a4c2976dc5e33529a8ebce8ae0d4be" sha1="a85ab0232b69a67ec70423c3d9faff99f2119359"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\010.png" size="760218" crc="59c938d7" md5="0cb007fe9c8d4598d03d5f686cd9e913" sha1="aa4f4470a830aec1bba8de9c0d796b2f1fa85957"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\011.png" size="779813" crc="8e8f86e7" md5="afd40a2deb41c1b0a3d11139dd79529e" sha1="51d0d55c74d309a6a2307fa2e94a0e73e4927123"/>
+		<rom name="app\PCSE00033\sce_sys\manual\17\012.png" size="783332" crc="1fe91a49" md5="32899d76de910cd776a988e0bfa75f78" sha1="81357fa1f50b58050f09f395b863f14fcd8777ca"/>
+		<rom name="appPCSE00033sce_syspackagebody.bin" size="3328" crc="ab285cd4" md5="8a3e869f45ff742d61b1d2176e908926" sha1="777b62284077c06065683015cfe2eea61e9fb36a"/>
+		<rom name="app\PCSE00033\sce_sys\package\head.bin" size="12464" crc="408d7609" md5="1e18ead1868e12c58caaf1b1e5993050" sha1="1fa68813ee1b44953e6d74d8380f150a205db8de"/>
+		<rom name="appPCSE00033sce_syspackagestat.bin" size="768" crc="cdaeda1d" md5="2a657ce94ee46ae77dcbcfa3a34ce6f1" sha1="edb65831474fe74f13c83a95e36b88d49d75c22b"/>
+		<rom name="app\PCSE00033\sce_sys\package\tail.bin" size="480" crc="be897898" md5="6bff84ec7beb672a27876d3dbf33b27b" sha1="ca31eebc5e4d89d2b2d02a069bdea117dea017d7"/>
+		<rom name="app\PCSE00033\sce_sys\package\temp.bin" size="512" crc="e340a606" md5="39a52c7614f650d754e61408861abb3c" sha1="d37ad137157c7fad05b434e84b3622e7e09baf24"/>
+		<rom name="app\PCSE00033\sce_sys\package\work.bin" size="512" crc="3d99d15b" md5="aca27358acfc26a6baa87ff958a5c6ce" sha1="6dbcd42b1a5ba8e27c1a7226dfd4fedabd1e978d"/>
+		<rom name="app\PCSE00033\sce_sys\param.sfo" size="2680" crc="d03ac60b" md5="bc4865c9edc2cc1cffe74afbbf10cca0" sha1="0ad03dab972d66f32f1aa139882dc458dc473797"/>
+		<rom name="app\PCSE00033\sce_sys\pic0.png" size="282996" crc="71a13dca" md5="9a952e147f73b1ebe253fe72bf14c349" sha1="59b2f75129d30222889505993e4444bf8696aef7"/>
+		<rom name="app\PCSE00033\sce_sys\retail\livearea\contents\drinkboxButton.png" size="10003" crc="a47f90cc" md5="50e9168a242bdcca52e2748ab72dcb45" sha1="efa77fc1e48838cd3dc5afed003ad32bc5daca05"/>
+		<rom name="app\PCSE00033\sce_sys\retail\livearea\contents\Guac_store_button.png" size="12162" crc="a479d4d2" md5="e7293957a9f26165f44690d951b9525a" sha1="89d3ae43c698eefa81214e4259a955f4252d6007"/>
+		<rom name="app\PCSE00033\sce_sys\retail\livearea\contents\MBA_store_button.png" size="10830" crc="a95cdc0c" md5="c7fb94c3399dd869566fea0e4a90fad2" sha1="0f65e7559ca0bc513486fa0c710f0b761a178274"/>
+		<rom name="app\PCSE00033\sce_sys\retail\livearea\contents\template.xml" size="1730" crc="01d1262e" md5="702800c8319c3a9f4f57dacef9133ad7" sha1="f7e4699334247ad0b12d2606e63121509338e0dc"/>
+		<rom name="app\PCSE00033\sce_sys\retail\livearea\contents\TitleMenu_BGD.png" size="228187" crc="23d4558c" md5="ed7689cf6b7e106d5ee2c26278a8f51c" sha1="37e8d8d8b6c7f433f19e2781e2674422e0f0e243"/>
+		<rom name="app\PCSE00033\sce_sys\retail\livearea\contents\TitleMenu_Logo_2-fr.png" size="26479" crc="643030e5" md5="eca09281d90e01c474933d9cc7354cb0" sha1="8bd8bc0da034c489390ed24eee48fcce8408d283"/>
+		<rom name="app\PCSE00033\sce_sys\retail\livearea\contents\TitleMenu_Logo_2.png" size="26479" crc="ef664c2c" md5="b57ac470200b09b2cb42689692de920e" sha1="9619ec20d00c16b1a83fbeabb955f6b7b5190ced"/>
+		<rom name="app\PCSE00033\sce_sys\trophy\NPWR03776_00\TROPHY.TRP" size="1862176" crc="6518ac83" md5="786aabf980e5edd976a7c76fb7f4c316" sha1="ca4117b13b31626d728ec1695d19953e07a10948"/>
+		<rom name="app\PCSE00033\shaders.dat.psp2" size="167877" crc="da62dd8c" md5="dc7fc89f2185fa5cf0dbb31a7c609669" sha1="289c9c5a9995d2abf8c552aa54e272dbe19a85bb"/>
+		<rom name="app\PCSE00033\thumbnail\save_icon0.png" size="6100" crc="db0495ec" md5="9291f042cc4871be4734bb4e772b94e7" sha1="fdd8496e1cfd864d9c7f0ffe40f52dbff26af7e8"/>
+	</game>
+</datafile>

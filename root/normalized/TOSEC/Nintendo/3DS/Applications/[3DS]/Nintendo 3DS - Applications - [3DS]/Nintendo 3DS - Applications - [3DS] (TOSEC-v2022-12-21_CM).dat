@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 3DS - Applications - [3DS]</name>
+		<description>Nintendo 3DS - Applications - [3DS] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Board-Interface Checker v3.00 (2011-06-07)(Nintendo)(JP)[CTR-P-3S00]">
+		<description>Board-Interface Checker v3.00 (2011-06-07)(Nintendo)(JP)[CTR-P-3S00]</description>
+		<rom name="Board-Interface Checker v3.00 (2011-06-07)(Nintendo)(JP)[CTR-P-3S00].3ds" size="2147483648" crc="cd3b9932" md5="6441df2034d90c6a841c53ac1400693c" sha1="6c89759f947317608f77b081457fb9f7e1a44fe6"/>
+	</game>
+	<game name="Board-Interface Checker v4.00 (2011-09-30)(Nintendo)(JP)">
+		<description>Board-Interface Checker v4.00 (2011-09-30)(Nintendo)(JP)</description>
+		<rom name="Board-Interface Checker v4.00 (2011-09-30)(Nintendo)(JP).3ds" size="2147483648" crc="6bb35a84" md5="284475dbd2d28ac339183c7c26fb28f4" sha1="c49bf6e0ead5d6b9ad44f9676245ed28abfeb639"/>
+	</game>
+	<game name="CPU Board Inspection v5.02 (2013-09-17)(Nintendo)">
+		<description>CPU Board Inspection v5.02 (2013-09-17)(Nintendo)</description>
+		<rom name="CPU Board Inspection v5.02 (2013-09-17)(Nintendo).3ds" size="2147483648" crc="cecd3527" md5="fcfb814e4e5196051c0cdc1f8efa20e3" sha1="2ea5c1663e94737de4323d341513a741b41fa510"/>
+	</game>
+</datafile>

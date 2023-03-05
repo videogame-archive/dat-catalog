@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-74 - Cartridges</name>
+		<description>Texas Instruments TI-74 - Cartridges (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Finance (1985)(Texas Instruments)">
+		<description>Finance (1985)(Texas Instruments)</description>
+		<rom name="Finance (1985)(Texas Instruments).bin" size="32768" crc="36afa310" md5="969c93fb7274b839a829d3c064c02b46" sha1="a051c393f35f11ef51dc8c4e785e6fec0eb4d774"/>
+	</game>
+	<game name="Learn Pascal (1985)(Texas Instruments)">
+		<description>Learn Pascal (1985)(Texas Instruments)</description>
+		<rom name="Learn Pascal (1985)(Texas Instruments).bin" size="32768" crc="e4135cff" md5="eec414debf196fcc074cc8304024cfc2" sha1="eab92188fb19545f677ede926c2c0b6af26b7e25"/>
+	</game>
+	<game name="Mathematics (1985)(Texas Instruments)">
+		<description>Mathematics (1985)(Texas Instruments)</description>
+		<rom name="Mathematics (1985)(Texas Instruments).bin" size="32768" crc="afb0821f" md5="bf0d0e7890ef9c0670694c9c81153290" sha1="9fc3b054df0fdc93eab3e7824f28d4f733f97547"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Visicom - Firmware</name>
+		<description>Toshiba Visicom - Firmware (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Toshiba Visicom BIOS (1978)(Toshiba)(JP)">
+		<description>Toshiba Visicom BIOS (1978)(Toshiba)(JP)</description>
+		<rom name="Toshiba Visicom BIOS (1978)(Toshiba)(JP).bin" size="2048" crc="23d22074" md5="aeec6fe3934481e20eb7db6d5ff56a54" sha1="a0a8be23f70621a2bd8010b1134e8a0019075bf1"/>
+	</game>
+</datafile>

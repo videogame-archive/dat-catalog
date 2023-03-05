@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Pokewalker - Demos</name>
+		<description>Nintendo Pokewalker - Demos (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hello Pokéwalker (2021-04-04)(PoroCYon)">
+		<description>Hello Pokéwalker (2021-04-04)(PoroCYon)</description>
+		<rom name="Hello Pokéwalker (2021-04-04)(PoroCYon).bin" size="126" crc="811a05e1" md5="f9a752ae2c3a663f8cf3c83cf9259572" sha1="b07e6823bec2ad3a3aa4cb55361dc38492ff3b3a"/>
+	</game>
+</datafile>

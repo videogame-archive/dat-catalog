@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Sources - [DSK]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Sources - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Objets Ok Ici Am-1_2 (1986)(-)[Sedoric]">
+		<description>Objets Ok Ici Am-1_2 (1986)(-)[Sedoric]</description>
+		<rom name="Objets Ok Ici Am-1_2 (1986)(-)[Sedoric].dsk" size="269056" crc="0aca7e3e" md5="02ec01dc02d16462d3fd5add06586acb" sha1="448147281a9e624d17057749a970c56a05e635a2"/>
+	</game>
+	<game name="Protopus Boot 1-2 Et 3 Avec Rfm + Objets (1986)(-)(fr)[Sedoric]">
+		<description>Protopus Boot 1-2 Et 3 Avec Rfm + Objets (1986)(-)(fr)[Sedoric]</description>
+		<rom name="Protopus Boot 1-2 Et 3 Avec Rfm + Objets (1986)(-)(fr)[Sedoric].dsk" size="269056" crc="d02c3615" md5="9ae2e8fa809201306db96d97a4208d0f" sha1="26ade3f60b4462e51bb1bf35de345e1561fce274"/>
+	</game>
+	<game name="Protopus Sources (1986)(-)(fr)[Sedoric]">
+		<description>Protopus Sources (1986)(-)(fr)[Sedoric]</description>
+		<rom name="Protopus Sources (1986)(-)(fr)[Sedoric].dsk" size="269056" crc="753b7e30" md5="dbd7e1366bb99252d43ed5015f3b9ae1" sha1="3035b52fb4530b88ba445eae1f8469bfb9971434"/>
+	</game>
+</datafile>

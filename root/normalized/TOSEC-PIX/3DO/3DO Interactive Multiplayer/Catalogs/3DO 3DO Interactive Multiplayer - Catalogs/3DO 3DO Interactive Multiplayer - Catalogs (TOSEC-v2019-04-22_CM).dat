@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Catalogs</name>
+		<description>3DO 3DO Interactive Multiplayer - Catalogs (TOSEC-v2019-04-22)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-22</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3DO Catalog (1994)(3DO Company)(US)">
+		<description>3DO Catalog (1994)(3DO Company)(US)</description>
+		<rom name="3DO Catalog (1994)(3DO Company)(US).pdf" size="90633375" crc="7c96cc09" md5="95576b097ebd8c7e7ab30c271d687b92" sha1="11ed3fb7f89c8f6a550422229ae8def51c90d5bd"/>
+	</game>
+	<game name="3DO Club News (1995)(3DO Company)(US)">
+		<description>3DO Club News (1995)(3DO Company)(US)</description>
+		<rom name="3DO Club News (1995)(3DO Company)(US).pdf" size="7459389" crc="a9914a28" md5="dc7ed7e5762f04674ae202e1673de3f4" sha1="1f3dba94a0becca413ea047b680a98c914599f2b"/>
+	</game>
+	<game name="3DO Direct Catalog (1995)(3DO Company)(US)">
+		<description>3DO Direct Catalog (1995)(3DO Company)(US)</description>
+		<rom name="3DO Direct Catalog (1995)(3DO Company)(US).pdf" size="5719712" crc="48b9e363" md5="a39c3be8f5ee671823a370e1d57358ec" sha1="b6d746e77b889d98b6969a800aa49ad8c718d73c"/>
+	</game>
+	<game name="Welcome to the Future (1994)(Electronic Arts)(US)">
+		<description>Welcome to the Future (1994)(Electronic Arts)(US)</description>
+		<rom name="Welcome to the Future (1994)(Electronic Arts)(US).pdf" size="8812781" crc="72fe882b" md5="a415168af3b64e27e29e3c48202ad4ce" sha1="af3c6d45417147ae3a4fb1aac9200e41e2e4b38a"/>
+	</game>
+</datafile>

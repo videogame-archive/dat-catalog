@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Games - [CMD]</name>
+		<description>EACA EG2000 Colour Genie - Games - [CMD] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio).cmd" size="14087" crc="5036a5e1" md5="2cc767a6c53c3b2ae59ea6cef4388e6e" sha1="1b2926984b7e487a160849e1d2ca9e29bdacee28"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).cmd" size="14320" crc="88e4c39d" md5="d5c4359813bf94adf6e02e5efc03b7c0" sha1="986001fab8cfc8c5b154f91c556d34ede6962988"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[UDG]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[UDG]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[UDG].cmd" size="14901" crc="6902d403" md5="4b8808b0f7124c53255b07833cbb0bc6" sha1="a0ed31a0538cbb8bd60a0ec338751b1ae79e8649"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[UDG]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[UDG]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[UDG].cmd" size="15444" crc="81b53265" md5="ba9001c8911fee78bdd882bced1206f0" sha1="358e3bbf9d16659400517d698dd7108101d4479c"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).cmd" size="14912" crc="3cf4ecfb" md5="1cb8ec68b0f6700f3d3d0c314be99608" sha1="82c528f2b1cdf859052efadd2d16450a4b766895"/>
+	</game>
+</datafile>

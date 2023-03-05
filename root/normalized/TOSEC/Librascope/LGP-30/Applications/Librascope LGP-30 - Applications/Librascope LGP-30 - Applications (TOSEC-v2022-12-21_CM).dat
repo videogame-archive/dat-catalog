@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Librascope LGP-30 - Applications</name>
+		<description>Librascope LGP-30 - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ACT-V Check-out-Routine (1965-10-21)(-)(DE)">
+		<description>ACT-V Check-out-Routine (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Check-out-Routine (1965-10-21)(-)(DE).txt" size="926" crc="0abf1215" md5="858091f57c18cdc6cdcfa8a1f62a8929" sha1="9e399607898a6eb7361d73a32a5b496995d15198"/>
+	</game>
+	<game name="ACT-V Emergency-Punch (1965-10-21)(-)(DE)">
+		<description>ACT-V Emergency-Punch (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Emergency-Punch (1965-10-21)(-)(DE).txt" size="1984" crc="a71c330c" md5="ffd6e0f8322aff4288710a1cfaf2f193" sha1="7bc36e771101dd5c5bb3e9806bfe04a1062dbe81"/>
+	</game>
+	<game name="ACT-V Normal-punch (1965-10-21)(-)(DE)">
+		<description>ACT-V Normal-punch (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Normal-punch (1965-10-21)(-)(DE).txt" size="1928" crc="dc9eddec" md5="a2bd23ec9127e235de30f44f9a84d987" sha1="97509c9edd51f1bd443b27486894ad7dde36d107"/>
+	</game>
+	<game name="ACT-V Partial-Punch (1965-10-21)(-)(DE)">
+		<description>ACT-V Partial-Punch (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Partial-Punch (1965-10-21)(-)(DE).txt" size="2179" crc="1096c8bf" md5="66a51f5127fab443ddcdc96e4b7def8b" sha1="140b82fd3331b3dc17b19a86bccabb38f9c2aef4"/>
+	</game>
+	<game name="ACT-V Subroutine Artan (1965-10-21)(-)(DE)">
+		<description>ACT-V Subroutine Artan (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Subroutine Artan (1965-10-21)(-)(DE).txt" size="1091" crc="75c3fa83" md5="e56deae79b0fcb2bda041bb612681268" sha1="dc3412291df1043477c043836955fe016ab72b2b"/>
+	</game>
+	<game name="ACT-V Subroutine sin, cos (1965-10-21)(-)(DE)">
+		<description>ACT-V Subroutine sin, cos (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Subroutine sin, cos (1965-10-21)(-)(DE).txt" size="1537" crc="2f081e62" md5="7d9659b7d2554e5fb308e2be496bcc3b" sha1="62ccee0b928c16136bc4c7bcc7f0b944ca82234a"/>
+	</game>
+	<game name="ACT-V Subroutine Square-Root (1965-10-21)(-)(DE)">
+		<description>ACT-V Subroutine Square-Root (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Subroutine Square-Root (1965-10-21)(-)(DE).txt" size="595" crc="b76314c6" md5="065754feab531604578cb5608b186e8e" sha1="d094452f9e6a4a9210edff0a95da28954cb0413b"/>
+	</game>
+	<game name="ACT-V Testprogramme (1965-10-21)(-)(DE)">
+		<description>ACT-V Testprogramme (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Testprogramme (1965-10-21)(-)(DE).txt" size="3346" crc="8f019157" md5="7292b69d6a5cd3e4d58aa545a910d5ae" sha1="31d301683c3a54e7b47f06b83f62a9dc77829b97"/>
+	</game>
+	<game name="ACT-V Trace-routine (1965-10-21)(-)(DE)">
+		<description>ACT-V Trace-routine (1965-10-21)(-)(DE)</description>
+		<rom name="ACT-V Trace-routine (1965-10-21)(-)(DE).txt" size="968" crc="72393a8d" md5="ade07e0b23e98bc426fd0c07e69286ae" sha1="651199639a8175fc9d4c484cc6cb5d38fcb614e2"/>
+	</game>
+	<game name="Basic Subroutine SQR (19xx)(-)">
+		<description>Basic Subroutine SQR (19xx)(-)</description>
+		<rom name="Basic Subroutine SQR (19xx)(-).txt" size="1135" crc="c1925ecd" md5="a40f909f5c01e78de12e1778b1275d75" sha1="8faeaa85b6e9c7eeae6717f52fa06789054fbe0b"/>
+	</game>
+	<game name="Basic-Subroutines (1965-10-20)(-)(DE)">
+		<description>Basic-Subroutines (1965-10-20)(-)(DE)</description>
+		<rom name="Basic-Subroutines (1965-10-20)(-)(DE).txt" size="8363" crc="170f0575" md5="a99bc8fe2251457d6953c1673ea06857" sha1="4dd455252c867ccd510d497048e314ff7ad2c63c"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple IIGS - Hard Disks - Applications - [2MG]</name>
+		<description>Apple IIGS - Hard Disks - Applications - [2MG] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BenchmarkeD (2013)(Brutal Deluxe)(FR)(en)">
+		<description>BenchmarkeD (2013)(Brutal Deluxe)(FR)(en)</description>
+		<rom name="BenchmarkeD (2013)(Brutal Deluxe)(FR)(en).2mg" size="33554496" crc="80861219" md5="ce6132e87e308b944f73f562d5d0a147" sha1="8294acc1b404e00299f044faa1e946ecaacd69fa"/>
+	</game>
+	<game name="Generic Tile Engine (2022-07-24)(Scharenbroich, Lucas)(US)(beta)">
+		<description>Generic Tile Engine (2022-07-24)(Scharenbroich, Lucas)(US)(beta)</description>
+		<rom name="Generic Tile Engine (2022-07-24)(Scharenbroich, Lucas)(US)(beta).2mg" size="16777280" crc="ebe70c21" md5="2514fd18c9291bf072d553e8e6a85f3e" sha1="91dc9c8597f5e59fe4a8717bf49fcf0ec90069f2"/>
+	</game>
+	<game name="Spectrum Gold v2.5.4 (2015)(Wannop, Ewen)(FW)">
+		<description>Spectrum Gold v2.5.4 (2015)(Wannop, Ewen)(FW)</description>
+		<rom name="Spectrum Gold v2.5.4 (2015)(Wannop, Ewen)(FW).2mg" size="20971584" crc="4a7ac7af" md5="4460165761bb538a7625c665d6542bbc" sha1="31aefd89990d8e35416b87090a001f60560e928e"/>
+	</game>
+	<game name="Spectrum Platinum v2.5.8 (2021-05-29)(Wannop, Ewen)(FW)">
+		<description>Spectrum Platinum v2.5.8 (2021-05-29)(Wannop, Ewen)(FW)</description>
+		<rom name="Spectrum Platinum v2.5.8 (2021-05-29)(Wannop, Ewen)(FW).2mg" size="33554496" crc="20dd298d" md5="b0eba87c2515b4f384a3b6660ca0896c" sha1="afb373d67312a7cd9c2c0c63b2d2b997c40720da"/>
+	</game>
+</datafile>

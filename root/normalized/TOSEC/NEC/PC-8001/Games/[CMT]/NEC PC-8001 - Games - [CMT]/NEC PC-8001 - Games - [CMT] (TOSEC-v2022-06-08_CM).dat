@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8001 - Games - [CMT]</name>
+		<description>NEC PC-8001 - Games - [CMT] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-21)(Inufuto)(JP)">
+		<description>Ascend (2022-03-21)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-21)(Inufuto)(JP).cmt" size="7278" crc="4a1f4962" md5="f83ea43dc93239f6355029eae7e2b8a5" sha1="7548d00cfb6cdefd61070bcad1cdbdfe562b204d"/>
+	</game>
+	<game name="Mazy (2020)(Inufuto)(JP)">
+		<description>Mazy (2020)(Inufuto)(JP)</description>
+		<rom name="Mazy (2020)(Inufuto)(JP).cmt" size="5281" crc="315573b1" md5="e3735bb9a9932a93172865a20409379c" sha1="6ebe0925d0eee57a5e77eee550faf75837beafa8"/>
+	</game>
+	<game name="Ruptus (2020-12-05)(Inufuto)(JP)">
+		<description>Ruptus (2020-12-05)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2020-12-05)(Inufuto)(JP).cmt" size="10575" crc="f83e080e" md5="9b27e063d7c003fd60885a2027a9f317" sha1="f1596e6064eb21f9f20448a93543e40f2c719323"/>
+	</game>
+</datafile>

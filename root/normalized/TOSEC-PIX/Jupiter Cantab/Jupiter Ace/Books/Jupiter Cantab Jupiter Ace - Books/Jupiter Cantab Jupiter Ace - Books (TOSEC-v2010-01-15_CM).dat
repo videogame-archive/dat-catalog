@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Jupiter Cantab Jupiter Ace - Books</name>
+		<description>Jupiter Cantab Jupiter Ace - Books (TOSEC-v2010-01-15)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-15</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Forth Bridge, The (1982)(Jupiter Cantab)">
+		<description>Forth Bridge, The (1982)(Jupiter Cantab)</description>
+		<rom name="Forth Bridge, The (1982)(Jupiter Cantab).pdf" size="204529" crc="23a5677b" md5="9f328b8d6cc8f11b80fa1d42f48c4d92" sha1="fa555f48a4db00ee933487b56b21a2d016063989"/>
+	</game>
+	<game name="Forth Programm Handbuch (1982)(Jupiter Cantab)(DE)">
+		<description>Forth Programm Handbuch (1982)(Jupiter Cantab)(DE)</description>
+		<rom name="Forth Programm Handbuch (1982)(Jupiter Cantab)(DE).pdf" size="65806698" crc="a42921b2" md5="0f6ae29bd185f030cc02cbe3c1aa2abf" sha1="15094cfec5d45d2bb8e94b87c6c7fcbea9deaa62"/>
+	</game>
+</datafile>

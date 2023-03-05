@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Manuals - Games</name>
+		<description>Acorn BBC - Manuals - Games (TOSEC-v2019-04-22)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-22</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dictator (1993)(dk'tronics)">
+		<description>Dictator (1993)(dk'tronics)</description>
+		<rom name="Dictator (1993)(dk'tronics).pdf" size="127951" crc="b8a7e1e6" md5="468d8a02bff614935266cc392cd2792f" sha1="489d4d2a7e84d597d11154eb12ed5bd493f5da67"/>
+	</game>
+	<game name="Proteanse (1993)(dk'tronics)">
+		<description>Proteanse (1993)(dk'tronics)</description>
+		<rom name="Proteanse (1993)(dk'tronics).pdf" size="128991" crc="c99db978" md5="00c98e27510708b162895014ea9ac7ab" sha1="151c091c4b11abfd4670f99e6bffe1cf57f86e80"/>
+	</game>
+	<game name="Slicker Puzzle, The (1993)(dk'tronics)">
+		<description>Slicker Puzzle, The (1993)(dk'tronics)</description>
+		<rom name="Slicker Puzzle, The (1993)(dk'tronics).pdf" size="146898" crc="355c38b1" md5="9fe2e17a8c1582a3e848d43bc94c59ac" sha1="992970ab30aa7cb2712acc695808a29f4c9470ef"/>
+	</game>
+</datafile>

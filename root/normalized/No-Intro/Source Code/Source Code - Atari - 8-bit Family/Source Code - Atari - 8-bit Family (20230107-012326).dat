@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>217</id>
+		<name>Source Code - Atari - 8-bit Family</name>
+		<description>Source Code - Atari - 8-bit Family</description>
+		<version>20230107-012326</version>
+		<author>MeguCocoa, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Donkey Kong (Unknown)" id="0001">
+		<description>Donkey Kong (Unknown)</description>
+		<rom name="Donkey_Kong.zip" size="424697" crc="5547dcb5" md5="611732a0cea202f5c556968db0700b7c" sha1="bebaab5b1e46b53dc8e71342f9e34d9e8255d1f3" sha256="2aaea5811dbc41b6cded78fa34062920bd80bd5a010718a11e126617c56b8070"/>
+	</game>
+</datafile>

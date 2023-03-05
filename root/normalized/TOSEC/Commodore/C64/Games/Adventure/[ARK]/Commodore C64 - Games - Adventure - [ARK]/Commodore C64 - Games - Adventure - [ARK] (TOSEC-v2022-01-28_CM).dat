@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Adventure - [ARK]</name>
+		<description>Commodore C64 - Games - Adventure - [ARK] (TOSEC-v2022-01-28)</description>
+		<category>TOSEC</category>
+		<version>2022-01-28</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Angel of Hell (19xx)(Oliver Software)[cr CHR][a][Z64 Part 1-4]">
+		<description>Angel of Hell (19xx)(Oliver Software)[cr CHR][a][Z64 Part 1-4]</description>
+		<rom name="Angel of Hell (19xx)(Oliver Software)[cr CHR][a][Z64 Part 1-4].ark" size="130161" crc="c8f76b4b" md5="37959770dc25a2614d35a8a3c9a0219d" sha1="d3e56f2905ae4e100f6bdd1ed14a8c344e705d1f"/>
+	</game>
+	<game name="Angel of Hell (19xx)(Oliver Software)[cr CHR][Z64 Part 1-4]">
+		<description>Angel of Hell (19xx)(Oliver Software)[cr CHR][Z64 Part 1-4]</description>
+		<rom name="Angel of Hell (19xx)(Oliver Software)[cr CHR][Z64 Part 1-4].ark" size="129540" crc="8452f3b2" md5="b937240aed24a0b7f55e2c1e97c671bb" sha1="df4875662c724c0bf3fc78539c586548087546f6"/>
+	</game>
+</datafile>

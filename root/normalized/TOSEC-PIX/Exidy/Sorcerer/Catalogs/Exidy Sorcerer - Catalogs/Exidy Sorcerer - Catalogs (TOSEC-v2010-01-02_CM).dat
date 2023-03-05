@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Catalogs</name>
+		<description>Exidy Sorcerer - Catalogs (TOSEC-v2010-01-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Exidy Price List (1980-05)(Exidy)">
+		<description>Exidy Price List (1980-05)(Exidy)</description>
+		<rom name="Exidy Price List (1980-05)(Exidy).pdf" size="5579942" crc="f69be8c2" md5="89552110e67a49c5a4c9a850a1c8d51c" sha1="aad9123421ab824546abb9c3daf777db2485ea31"/>
+	</game>
+	<game name="Sorcerer Computer (1980-05)(Exidy)">
+		<description>Sorcerer Computer (1980-05)(Exidy)</description>
+		<rom name="Sorcerer Computer (1980-05)(Exidy).pdf" size="8058789" crc="73f93f66" md5="da9c885ed5336f5afd0e0a0cfb20469b" sha1="3148a4c9e273d37c638a1ab36d1adfe1d79434db"/>
+	</game>
+</datafile>

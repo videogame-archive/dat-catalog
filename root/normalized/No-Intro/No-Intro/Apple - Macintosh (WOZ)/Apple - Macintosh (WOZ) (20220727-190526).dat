@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>213</id>
+		<name>Apple - Macintosh (WOZ)</name>
+		<description>Apple - Macintosh (WOZ)</description>
+		<version>20220727-190526</version>
+		<author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Airborne! (USA, Europe)" id="0012">
+		<description>Airborne! (USA, Europe)</description>
+		<rom name="Airborne! (USA, Europe).woz" size="648992" crc="1fdc26f4" md5="38ab03098e22a45d6127f06c4da5fefc" sha1="78f6b077ec0fbb4aecd32a3f4dd17e08cf92fb71" sha256="de84dbc767c3cba405828bb5e06225e35b9eacdd40a2bfeb823f6b778d975765"/>
+	</game>
+</datafile>

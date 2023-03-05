@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 2600 &amp; VCS - TV Series - Once Upon Atari (US)</name>
+		<description>Atari 2600 &amp; VCS - TV Series - Once Upon Atari (US) (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Once Upon Atari - Episode 1 (1999)(Scott West Productions)(US)">
+		<description>Once Upon Atari - Episode 1 (1999)(Scott West Productions)(US)</description>
+		<rom name="Once Upon Atari - Episode 1 (1999)(Scott West Productions)(US).avi" size="383406874" crc="7da51b81" md5="b89ad66a47277db08dbad95e4fc27a64" sha1="e29abb3ddd61046149d8d95d17efcfecc1307ebf"/>
+	</game>
+	<game name="Once Upon Atari - Episode 2 (1999)(Scott West Productions)(US)">
+		<description>Once Upon Atari - Episode 2 (1999)(Scott West Productions)(US)</description>
+		<rom name="Once Upon Atari - Episode 2 (1999)(Scott West Productions)(US).avi" size="410574128" crc="3b6ff373" md5="b152bb91b99eb312b805f152d3f9e6e2" sha1="1f3750bdc5a32dc4085d12d6c98984a584fc55d9"/>
+	</game>
+	<game name="Once Upon Atari - Episode 3 (1999)(Scott West Productions)(US)">
+		<description>Once Upon Atari - Episode 3 (1999)(Scott West Productions)(US)</description>
+		<rom name="Once Upon Atari - Episode 3 (1999)(Scott West Productions)(US).avi" size="343322556" crc="cb48d7a7" md5="306aa1115c77e29419cfa1e40a8c43ca" sha1="f776b9898eedf89cbfd99dbfcea5a02858d24508"/>
+	</game>
+	<game name="Once Upon Atari - Episode 4 (1999)(Scott West Productions)(US)">
+		<description>Once Upon Atari - Episode 4 (1999)(Scott West Productions)(US)</description>
+		<rom name="Once Upon Atari - Episode 4 (1999)(Scott West Productions)(US).avi" size="364663324" crc="4341673a" md5="a2499c8a35a90b5adecfdff06930180d" sha1="ce58417c9fe2577c96e1ede22339dafddf1f15e5"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari - Comics - Various</name>
+		<description>Atari - Comics - Various (TOSEC-v2011-01-09)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-09</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Centipede - Volume 1 Number 1 (1983)(DC Comics)">
+		<description>Centipede - Volume 1 Number 1 (1983)(DC Comics)</description>
+		<rom name="Centipede - Volume 1 Number 1 (1983)(DC Comics).pdf" size="12448656" crc="614300a6" md5="e26b556f23949ceaf07426d5b3cfed04" sha1="1b14cd20246df0565c83bb4d3084c32e49f878e9"/>
+	</game>
+	<game name="Swordquest - Volume 1 Number 1 (1982)(DC Comics)">
+		<description>Swordquest - Volume 1 Number 1 (1982)(DC Comics)</description>
+		<rom name="Swordquest - Volume 1 Number 1 (1982)(DC Comics).pdf" size="17748406" crc="e4c4623d" md5="62524d844531040cd845931059fcc82d" sha1="4e141cebd155ea32b018642e92487c90d4b5ffa6"/>
+	</game>
+	<game name="Swordquest - Volume 1 Number 2 (1982)(DC Comics)">
+		<description>Swordquest - Volume 1 Number 2 (1982)(DC Comics)</description>
+		<rom name="Swordquest - Volume 1 Number 2 (1982)(DC Comics).pdf" size="18773422" crc="b3f440fe" md5="d98791140956058680b7e2904ee970fd" sha1="cbdb1bb55c2b322ee599ea0e4141c0b1203e36ae"/>
+	</game>
+	<game name="Swordquest - Volume 1 Number 3 (1982)(DC Comics)">
+		<description>Swordquest - Volume 1 Number 3 (1982)(DC Comics)</description>
+		<rom name="Swordquest - Volume 1 Number 3 (1982)(DC Comics).pdf" size="14714232" crc="22ca977c" md5="500779d042ce04f3abebbb87b4d8197e" sha1="599f11ee9dcf31eada96a451b1abf3587d798857"/>
+	</game>
+</datafile>

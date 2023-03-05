@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Entex Adventure Vision - Firmware</name>
+		<description>Entex Adventure Vision - Firmware (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle - proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Entex Adventure Vision BIOS (1982)(Entex)(EU-US)">
+		<description>Entex Adventure Vision BIOS (1982)(Entex)(EU-US)</description>
+		<rom name="Entex Adventure Vision BIOS (1982)(Entex)(EU-US).bin" size="1024" crc="279e33d1" md5="5729638bd856c475678467a353bd921c" sha1="bf7b0663e9125c9bfb950232eab627d9dbda8460"/>
+	</game>
+	<game name="Entex Adventure Vision Sound ROM (1982)(Entex)(EU-US)">
+		<description>Entex Adventure Vision Sound ROM (1982)(Entex)(EU-US)</description>
+		<rom name="Entex Adventure Vision Sound ROM (1982)(Entex)(EU-US).bin" size="512" crc="81e95975" md5="fc5e71445e4947a9d00eedbc66b13a8f" sha1="8b6f8c30dd3e9d8e43f1ea20fba2361b383790eb"/>
+	</game>
+</datafile>

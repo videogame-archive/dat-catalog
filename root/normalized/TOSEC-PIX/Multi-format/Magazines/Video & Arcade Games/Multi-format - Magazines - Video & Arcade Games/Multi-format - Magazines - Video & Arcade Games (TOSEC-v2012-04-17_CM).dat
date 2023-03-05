@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Video &amp; Arcade Games</name>
+		<description>Multi-format - Magazines - Video &amp; Arcade Games (TOSEC-v2012-04-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Video &amp; Arcade Games - Vol 1 No 1 (1983-09)(Creative Computing)(US)">
+		<description>Video &amp; Arcade Games - Vol 1 No 1 (1983-09)(Creative Computing)(US)</description>
+		<rom name="Video &amp; Arcade Games - Vol 1 No 1 (1983-09)(Creative Computing)(US).pdf" size="54331781" crc="5c25031b" md5="f5375c420aa32d5f1aa3905ad56528c7" sha1="063d4854c93fc421a7d024d545aaf640cfcf362c"/>
+	</game>
+	<game name="Video &amp; Arcade Games - Vol 1 No 2 (1983-12)(Creative Computing)(US)">
+		<description>Video &amp; Arcade Games - Vol 1 No 2 (1983-12)(Creative Computing)(US)</description>
+		<rom name="Video &amp; Arcade Games - Vol 1 No 2 (1983-12)(Creative Computing)(US).pdf" size="53249281" crc="e596bf30" md5="c6c8cc08eb6f4c06a995ea63b08bd4d0" sha1="530ba7491b4efb0372dd53e2a722b5e0078109d5"/>
+	</game>
+</datafile>

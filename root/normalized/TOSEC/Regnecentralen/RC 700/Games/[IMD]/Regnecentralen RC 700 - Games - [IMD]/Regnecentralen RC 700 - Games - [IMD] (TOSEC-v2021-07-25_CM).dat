@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Regnecentralen RC 700 - Games - [IMD]</name>
+		<description>Regnecentralen RC 700 - Games - [IMD] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).imd" size="324209" crc="4b9a501c" md5="8b9402bf265c4a96266cf7b480e0652d" sha1="748ee1df43f21b549a04616aa3cbe2db7334bbc0"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).imd" size="324209" crc="29f291eb" md5="1f1c10312efc47b1d0d3fa68e11bdc0c" sha1="b29f171486a1e731b8bc9a24341054b9817d0f6e"/>
+	</game>
+</datafile>

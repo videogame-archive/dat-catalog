@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia - Games - [WAV]</name>
+		<description>Toshiba Pasopia - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-26)(Inufuto)(JP)(Tape 1 of 2)">
+		<description>Ascend (2022-03-26)(Inufuto)(JP)(Tape 1 of 2)</description>
+		<rom name="Ascend (2022-03-26)(Inufuto)(JP)(Tape 1 of 2).wav" size="213891" crc="f256f940" md5="ce9f9cf43651576d31f18f71698455d1" sha1="9aa1ef61bdf6afdc22f81d06d9935c95420ac6d7"/>
+	</game>
+	<game name="Ascend (2022-03-26)(Inufuto)(JP)(Tape 2 of 2)">
+		<description>Ascend (2022-03-26)(Inufuto)(JP)(Tape 2 of 2)</description>
+		<rom name="Ascend (2022-03-26)(Inufuto)(JP)(Tape 2 of 2).wav" size="3037220" crc="5577a13b" md5="27724d62e6a018b05d57d487fb19c6ed" sha1="b94cfc9922cdb5395976ef237583beb0111543b8"/>
+	</game>
+	<game name="Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201]">
+		<description>Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201]</description>
+		<rom name="Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201].wav" size="19156507" crc="916e814e" md5="4cdb3ca53709dabe42c5811ebd7711c1" sha1="2e2c61129cc2359b35e1aa9d88130326b7b5ca66"/>
+	</game>
+	<game name="Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030]">
+		<description>Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030]</description>
+		<rom name="Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030].wav" size="13059875" crc="0c2702f7" md5="1d9872f5e3b9e557664d390ea6ae73a6" sha1="544e120e0dc5d226072371841e5e1982f015353b"/>
+	</game>
+	<game name="Ruptus (2021-01-02)(Inufuto)(JP)(Tape 1 of 2)">
+		<description>Ruptus (2021-01-02)(Inufuto)(JP)(Tape 1 of 2)</description>
+		<rom name="Ruptus (2021-01-02)(Inufuto)(JP)(Tape 1 of 2).wav" size="213920" crc="41cff3e1" md5="2b2716fe158bf3c496d8085f60dc6282" sha1="11683a647b07781434590b3ba6125a361ef3f486"/>
+	</game>
+	<game name="Ruptus (2021-01-02)(Inufuto)(JP)(Tape 2 of 2)">
+		<description>Ruptus (2021-01-02)(Inufuto)(JP)(Tape 2 of 2)</description>
+		<rom name="Ruptus (2021-01-02)(Inufuto)(JP)(Tape 2 of 2).wav" size="4509937" crc="f5c1d220" md5="701b8efb570c892f1c239589e1faea82" sha1="232d4f26118a642d88f4709a655232693c4424aa"/>
+	</game>
+</datafile>

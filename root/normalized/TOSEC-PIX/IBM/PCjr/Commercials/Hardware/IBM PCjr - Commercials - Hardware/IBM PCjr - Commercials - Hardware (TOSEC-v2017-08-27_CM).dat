@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Commercials - Hardware</name>
+		<description>IBM PCjr - Commercials - Hardware (TOSEC-v2017-08-27)</description>
+		<category>TOSEC-PIX</category>
+		<version>2017-08-27</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="IBM PCjr (1983)(IBM)">
+		<description>IBM PCjr (1983)(IBM)</description>
+		<rom name="IBM PCjr (1983)(IBM).mp4" size="1381083" crc="38f493a4" sha1="72c9a627d06fa9e380a92c649740f2d4df77ac1f" md5="3c2416da2b5ba5bb6233bec98ceea095"/>
+	</game>
+	<game name="IBM PCjr - Growing by Leaps and Bounds (1984)(IBM)">
+		<description>IBM PCjr - Growing by Leaps and Bounds (1984)(IBM)</description>
+		<rom name="IBM PCjr - Growing by Leaps and Bounds (1984)(IBM).mp4" size="3492039" crc="47a22c95" sha1="b1d33f0205ffe3ff3a883675bf010415fee37214" md5="c181fab58d4e3b42eaaac021d075fad7"/>
+	</game>
+	<game name="IBM PCjr - Growing by Leaps and Bounds (1985)(IBM)">
+		<description>IBM PCjr - Growing by Leaps and Bounds (1985)(IBM)</description>
+		<rom name="IBM PCjr - Growing by Leaps and Bounds (1985)(IBM).mp4" size="1313154" crc="42f9f00e" sha1="7db04cc85c811cb37a104c014b83d57afe6dff04" md5="92ffea2c0a9bcc49a0d54b362440e404"/>
+	</game>
+</datafile>
+

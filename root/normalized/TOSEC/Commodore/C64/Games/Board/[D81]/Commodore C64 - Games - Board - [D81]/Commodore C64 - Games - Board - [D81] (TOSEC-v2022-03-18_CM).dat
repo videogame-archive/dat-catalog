@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Board - [D81]</name>
+		<description>Commodore C64 - Games - Board - [D81] (TOSEC-v2022-03-18)</description>
+		<category>TOSEC</category>
+		<version>2022-03-18</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="RISK (1988)(Parker Brothers)">
+		<description>RISK (1988)(Parker Brothers)</description>
+		<rom name="RISK (1988)(Parker Brothers).d81" size="819200" crc="6379f3dc" md5="18f9d4fa4bbb22e6daf0bf914d7bd146" sha1="ea68383e4964953cd8c39f9ae23eb580fb7f9d0a"/>
+	</game>
+	<game name="RISK (1988)(Parker Brothers)[a]">
+		<description>RISK (1988)(Parker Brothers)[a]</description>
+		<rom name="RISK (1988)(Parker Brothers)[a].d81" size="819200" crc="bf4826dd" md5="da1ef816e3426f11258a4c93a114e23d" sha1="065fb6b8ec209ce95e0c6283f7ba18138c8554e0"/>
+	</game>
+	<game name="Spot (1990)(Virgin Mastertronic)">
+		<description>Spot (1990)(Virgin Mastertronic)</description>
+		<rom name="Spot (1990)(Virgin Mastertronic).d81" size="819200" crc="48a01354" md5="d1dbafbb2b9fffdf7cfb535051d09612" sha1="cccb13e8519274fc6a6a2db6e0af279b98805864"/>
+	</game>
+</datafile>

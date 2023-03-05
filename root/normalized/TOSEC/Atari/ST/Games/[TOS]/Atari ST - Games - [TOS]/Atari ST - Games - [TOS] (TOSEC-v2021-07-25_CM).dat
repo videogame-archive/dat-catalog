@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Games - [TOS]</name>
+		<description>Atari ST - Games - [TOS] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[buffered]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[buffered]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[buffered].tos" size="155738" crc="6549129c" md5="cf087e9ef14ac63853761edebd8018eb" sha1="12e7cb5b257c342264d3755d91484e0446c498a8"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[ncurses]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[ncurses]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[ncurses].tos" size="331132" crc="8943d4bc" md5="addebb216aa0486bd9211e1594664c80" sha1="2814d7b31780d9407ac45bf8e07818fbe304369a"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[buffered].tos" size="154908" crc="14c500ba" md5="846f7ea6dc56fc67686d66b0152584e2" sha1="5d451267b98ec957d277a0a66a2d63aff8b842e4"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[ncurses]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[ncurses]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[ncurses].tos" size="331804" crc="04adf3b0" md5="f3385a231b8d20cb758cf21b033055f3" sha1="66eb4d4b797b3dcc85fe76acd2ade295661e47eb"/>
+	</game>
+</datafile>

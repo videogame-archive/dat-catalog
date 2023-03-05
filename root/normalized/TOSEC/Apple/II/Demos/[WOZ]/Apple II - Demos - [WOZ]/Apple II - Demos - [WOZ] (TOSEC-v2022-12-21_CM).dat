@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Demos - [WOZ]</name>
+		<description>Apple II - Demos - [WOZ] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Deck the Halls with Random House Software (1984)(Random House)(II+)">
+		<description>Deck the Halls with Random House Software (1984)(Random House)(II+)</description>
+		<rom name="Deck the Halls with Random House Software (1984)(Random House)(II+).woz" size="233216" crc="99fed19c" md5="9c1d1c08285183eaed1b6ee689d28c50" sha1="31ec93e7211e622ca8fc16da1f12e4566b5f28fe"/>
+	</game>
+	<game name="Flyer (2022-02)(Desire)">
+		<description>Flyer (2022-02)(Desire)</description>
+		<rom name="Flyer (2022-02)(Desire).woz" size="308626" crc="7e2eca9b" md5="c682282cdfb6f632ac9c52791140d25f" sha1="1dea2d28dd0fd5f52ad42662359b3c7a7dbdf78a"/>
+	</game>
+	<game name="Jingle Disk (1986)(Hi-Tech Expressions)">
+		<description>Jingle Disk (1986)(Hi-Tech Expressions)</description>
+		<rom name="Jingle Disk (1986)(Hi-Tech Expressions).woz" size="233216" crc="ff164975" md5="7f1144a7ab22a22723ddb66b31cd0ef5" sha1="1e48e52238be0a160bfc4b804fa8f686181c345b"/>
+	</game>
+	<game name="Lowtech (2021-02-18)(Wiz)(alpha)">
+		<description>Lowtech (2021-02-18)(Wiz)(alpha)</description>
+		<rom name="Lowtech (2021-02-18)(Wiz)(alpha).woz" size="233216" crc="8474ccbb" md5="2806c9351a7ce83216cab2155dc42a60" sha1="aa6f8061706cab1608a300869d2118eee5b9f9df"/>
+	</game>
+	<game name="Lowtech (2021-04-04)(Wiz)[Revision 2021]">
+		<description>Lowtech (2021-04-04)(Wiz)[Revision 2021]</description>
+		<rom name="Lowtech (2021-04-04)(Wiz)[Revision 2021].woz" size="233216" crc="82bf5b40" md5="60f7ee391946ccb9aa5b574cf5dd7fc6" sha1="f182ff502ad9018275124af2874f03234864de17"/>
+	</game>
+	<game name="Never Gonna (2021-03)(Desire)">
+		<description>Never Gonna (2021-03)(Desire)</description>
+		<rom name="Never Gonna (2021-03)(Desire).woz" size="308626" crc="b36a16e7" md5="f07c68f460a2afd4e9491933a8ba92d7" sha1="e07c5f41727cd9f9e362015a77b818d2337b9acc"/>
+	</game>
+	<game name="Ziggy Christmas Card (1986)(American Greetings)">
+		<description>Ziggy Christmas Card (1986)(American Greetings)</description>
+		<rom name="Ziggy Christmas Card (1986)(American Greetings).woz" size="233216" crc="b2c84c38" md5="6e28fe13593192a4dd154bb2e0bc4e19" sha1="721bc4be18cb4fe0cb9a3f56f8d8d491fb2a58c2"/>
+	</game>
+</datafile>

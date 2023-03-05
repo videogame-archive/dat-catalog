@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>29</id>
+		<name>RCA - Studio II</name>
+		<description>RCA - Studio II</description>
+		<version>20200201-121822</version>
+		<author>relax</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] RCA Studio II (USA)" id="0001">
+		<description>[BIOS] RCA Studio II (USA)</description>
+		<rom name="[BIOS] RCA Studio II (USA).bin" size="2048" crc="a494b339" md5="b37205bf19b197682f00619d05da194b" sha1="f2650dacc9daab06b9fdf0e7748e977b2907010c"/>
+	</game>
+	<game name="Concentration Match (Europe)" id="0015">
+		<description>Concentration Match (Europe)</description>
+		<game_id>MG-202</game_id>
+		<rom name="Concentration Match (Europe).bin" size="1024" crc="28e21408" md5="4ab4a2c249754400d0d7064e966d947b" sha1="df2b2c7b5ec4c2d33321934ffff29cb41c2b6f68" sha256="2ec642adb9346d8ce8d1d170977eff6b61737ab92a68bec6430cb615570e975a"/>
+	</game>
+	<game name="Demonstration Cartridge (USA)" id="0013">
+		<description>Demonstration Cartridge (USA)</description>
+		<rom name="Demonstration Cartridge (USA).bin" size="1024" crc="96f9a105" md5="da1c22bb9c56b681e66ae617ef4d1ccb" sha1="0375fd680ac7332f05acb35973b8d0756916b93d" sha256="e27ed438c0bbe95e0e9d5f6c53732f0531bf5d0e02c194cbc5132ccc70025980"/>
+	</game>
+	<game name="Grand Pack (Europe)" id="0014">
+		<description>Grand Pack (Europe)</description>
+		<game_id>MG-200</game_id>
+		<rom name="86677b (Europe).bin" size="1024" crc="82a2d29e" md5="1d93e94b18aacbecdceb87bd98899320" sha1="37e02089d611db10bad070d89c8801de41521189" sha256="be7a432e440a5614e3790f7d7105d64cf0b02c0c62f4991c0ad8d9bab8271118"/>
+		<rom name="87201 (Europe).bin" size="1024" crc="8006a1e3" md5="62cfd740c766632a349d7d27960ed1fe" sha1="b67612d98231485fce55d604915abd19b6d64eac" sha256="d826c3bdb10be43f62e6fb15a31dc34c6c62a7afd6249fcdb6d40d46f4522d3c"/>
+	</game>
+	<game name="Pinball (Europe)" id="0017">
+		<description>Pinball (Europe)</description>
+		<game_id>MG-205</game_id>
+		<rom name="Pinball (Europe).bin" size="1024" crc="9f7f692e" md5="bc8df39e000c0dd0efef4916701151be" sha1="6afd1252d72df39482699c1ee76fa28669c7db80" sha256="9145de0f127d97f9b2ea7111b544c092aa716aa85b124012973ed0db7a684c75"/>
+	</game>
+	<game name="Speedway + Tag (Europe)" id="0018">
+		<description>Speedway + Tag (Europe)</description>
+		<game_id>MG-211</game_id>
+		<rom name="Speedway + Tag (Europe).bin" size="1024" crc="b9f6ac68" md5="60ff2f203fa00697e5d7aa23867ab66d" sha1="4e544fb4105a45e979dd7a007da1540996300f3d" sha256="e97a05cb01ba54e2150f8723a1aba94bde98a21526157e65423294bd53522c69"/>
+	</game>
+	<game name="Star Wars (Europe)" id="0016">
+		<description>Star Wars (Europe)</description>
+		<game_id>MG-203</game_id>
+		<rom name="Star Wars (Europe).bin" size="1024" crc="92b55eb4" md5="c3194177435ea24fba18e86191e92027" sha1="63ec52fdf1a5e04ced74560809de550c527ecd38" sha256="3ee29c354a9278ecdb7c7a24caacc90c3c0a36bae195d099ff85d909c62ea08f"/>
+	</game>
+	<game name="TV Arcade I - Space War (USA)" id="0002">
+		<description>TV Arcade I - Space War (USA)</description>
+		<game_id>18V400</game_id>
+		<rom name="TV Arcade I - Space War (USA).bin" size="512" crc="021551f2" md5="e7a2cf0b9feeb465fb298af61b33ad36" sha1="4878ae6d313743d7e3bd45e05c6e5e0582d9febb" sha256="134404a92678a37b206a79ed642f5dc42fd5e585c1b7f02f3a013bf0a5de178f"/>
+	</game>
+	<game name="TV Arcade II - Fun with Numbers (USA)" id="0007">
+		<description>TV Arcade II - Fun with Numbers (USA)</description>
+		<game_id>18V401</game_id>
+		<rom name="TV Arcade II - Fun with Numbers (USA).bin" size="512" crc="26ebe344" md5="d65d22bb2342a8503316d76ac5080d11" sha1="ede8731283d49666ddb63c1a52d6d270973d6dc8" sha256="275032c25639fda528883b46cc7717433290314ec1f069d820c7b381eebca6ca"/>
+	</game>
+	<game name="TV Arcade III - Tennis + Squash (USA)" id="0003">
+		<description>TV Arcade III - Tennis + Squash (USA)</description>
+		<game_id>18V402</game_id>
+		<rom name="TV Arcade III - Tennis + Squash (USA).bin" size="512" crc="a21590c8" md5="1b2f07da69a3648030bf9d1ea096f2cd" sha1="c573e8cd7d1aa423d26e64a4da781a5989e4ed1d" sha256="819b920a35e46e94184563ab3ea0a3daafac72c92c60f70783f615d68d1b07dd"/>
+	</game>
+	<game name="TV Arcade IV - Baseball (USA)" id="0004">
+		<description>TV Arcade IV - Baseball (USA)</description>
+		<game_id>18V403</game_id>
+		<rom name="TV Arcade IV - Baseball (USA).bin" size="1024" crc="d7fdedaa" md5="242d1a4ef4f4cfd54eb7cca63aba4b31" sha1="fa1e3089d05503b7b1d5e98552318d5836c1798a" sha256="91f34dfb53636939ada3b6b5d73e1c1a4ef988af139b75ce171f843213e3fa25"/>
+	</game>
+	<game name="TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)" id="0008">
+		<description>TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)</description>
+		<game_id>18V405, MG-213</game_id>
+		<rom name="TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe).bin" size="1024" crc="989d2c67" md5="bbb9fc3b66333aab6dffd7fc6513dd5d" sha1="82f37ec5b7599e9169873da6c269c0c092395458" sha256="6b3c6fcabd00e881f10450ae882e0fcf3d9e7c168146a6552d2e3846f631d7e2"/>
+	</game>
+	<game name="TV Arcade Series - Speedway + Tag (USA)" id="0005">
+		<description>TV Arcade Series - Speedway + Tag (USA)</description>
+		<game_id>18V404</game_id>
+		<rom name="TV Arcade Series - Speedway + Tag (USA).bin" size="512" crc="a80379e2" md5="93efe190665f3f3567011a82f9c11a49" sha1="5bc93a1a7ea05411f607ed56241da88b1f8468c5" sha256="4d5b8fb8bcf2212ee574842d5a0972560a94c3c39630f73a486453fbbf401df0"/>
+	</game>
+	<game name="TV Casino Series - Blackjack (USA)" id="0006">
+		<description>TV Casino Series - Blackjack (USA)</description>
+		<game_id>18V600</game_id>
+		<rom name="TV Casino Series - Blackjack (USA).bin" size="1024" crc="b30af7a9" md5="2923711d0aedb6b341b5faad80efd7d5" sha1="e328791d6aa8292d1b68abe03c7ebfefa9282ced" sha256="b44cd6fcfeff942e3aaecb42ce25a1201a16463de1f5180971b71f6dd3042f35"/>
+	</game>
+	<game name="TV Casino Series - TV Bingo (USA, Europe)" id="0011">
+		<description>TV Casino Series - TV Bingo (USA, Europe)</description>
+		<game_id>18V601, MG-201</game_id>
+		<rom name="TV Casino Series - TV Bingo (USA, Europe).bin" size="1024" crc="39ddc4ab" md5="36297a2c7df1e53346f8452111a110fd" sha1="5e16b9572fda5d8b203df9318b8f1e250bea7432" sha256="5eb47a99d7650b70011c9fddf2ff818ab0613cb0c0b931f1eaf0838ee51904a1" status="verified"/>
+	</game>
+	<game name="TV Mystic Series - Biorhythm (USA, Europe)" id="0012">
+		<description>TV Mystic Series - Biorhythm (USA, Europe)</description>
+		<game_id>18V700, MG-206</game_id>
+		<rom name="TV Mystic Series - Biorhythm (USA, Europe).bin" size="1024" crc="6dcbc525" md5="f4a867990eb95fef171401b77baa4f9c" sha1="9fdab1be5d83aa0ccacf7e9ae2837b2b9e10be1c" sha256="f01f9b65a6e80795b0d206c46fee9e5009a337796d30c4bbf8ec49dcbe5b2a62"/>
+	</game>
+	<game name="TV School House I (USA)" id="0009">
+		<description>TV School House I (USA)</description>
+		<game_id>18V500</game_id>
+		<rom name="TV School House I (USA).bin" size="512" crc="cf08aa66" md5="702a9c2d1ff6958f09bf6dc12616b9fb" sha1="1d709a7f6b0a3d67d184ae0d94b1cb198f9c8a6a" sha256="c0d9d9a3a05e773b9d9561bb386f4ac824596d52304a12748ee14650716075a3"/>
+	</game>
+	<game name="TV School House II - Math Fun (USA, Europe)" id="0010">
+		<description>TV School House II - Math Fun (USA, Europe)</description>
+		<game_id>18V501, MG-204</game_id>
+		<rom name="TV School House II - Math Fun (USA, Europe).bin" size="1024" crc="9ab5af96" md5="051c2bf443f91e6b229f8baa3903a172" sha1="12a013e483af253d75845adf0d9e86672b161f94" sha256="f3c918537f6befb23360ef972d5f5ace007f27dfd5d37fa32593cb4faf4df5b9"/>
+	</game>
+</datafile>

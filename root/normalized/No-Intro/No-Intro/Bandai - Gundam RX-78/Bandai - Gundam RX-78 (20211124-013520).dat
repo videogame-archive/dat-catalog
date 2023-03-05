@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>197</id>
+		<name>Bandai - Gundam RX-78</name>
+		<description>Bandai - Gundam RX-78</description>
+		<version>20211124-013520</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Bandai Gundam RX-78 (Japan)" id="0006">
+		<description>[BIOS] Bandai Gundam RX-78 (Japan)</description>
+		<rom name="[BIOS] Bandai Gundam RX-78 (Japan).rom" size="8192" crc="a194ea53" md5="f613b15c4b965013e4827d2ad79c7080" sha1="ba39e73e6eb7cbb8906fff1f81a98964cd62af0d" sha256="c12467a27f3bf96845544e70740326fadfa065f984db90a7d60bea02c0519676"/>
+	</game>
+	<game name="BS Basic (Japan)" id="0011">
+		<description>BS Basic (Japan)</description>
+		<rom name="BS Basic (Japan).bin" size="16384" crc="e52b383f" md5="6929b43cdd2168f7971e9f1bdb4f249b" sha1="6ebbff7eb718822cad3c1216882df5d9f2d3a03f" sha256="18b5d2e3bff33c6f701204215848f194eaddfe1384fc60d3ad3ea96b087fb432"/>
+	</game>
+	<game name="Champion Racer (Japan)" id="0002">
+		<description>Champion Racer (Japan)</description>
+		<rom name="Champion Racer (Japan).bin" size="16384" crc="f32aa1ac" md5="19dcc8df9cd1e460a23b9f9619d9dc8e" sha1="cfd4454f013af20d4c139af7d965d45a253f695b" sha256="9b01c9b4545aa2288cb024cc6b663b187e0b288b381949882eb6a83ba9f9cbd0"/>
+	</game>
+	<game name="Graphic Suugaku (Japan) (Tape)" id="0010">
+		<description>Graphic Suugaku (Japan) (Tape)</description>
+		<rom name="Graphic Suugaku (Japan) (Tape).wav" size="2345516" crc="e4411028" md5="0ea8db8a43ca73f3cf24a7fa8e1d5db0" sha1="b03a855fe527c8a181b1c6e3d8daee6d637a97cc" sha256="55bf660feca3bed85d487804d0008c082ac8b5c176305d723771860bdd7ecedd"/>
+	</game>
+	<game name="Hamburger Shop (Japan)" id="0004">
+		<description>Hamburger Shop (Japan)</description>
+		<rom name="Hamburger Shop (Japan).bin" size="16384" crc="b5a5ffc5" md5="990cdbba338357bae7f2b74446a206e1" sha1="3b5fb0e670dce635d5220c0ffcae69da7c55049b" sha256="bc5546f5bf9224fe1154fd0ebf84d720426b30dee11ec19776618df52ded477a"/>
+	</game>
+	<game name="Mobile Suit Gundam - Luna Two no Tatakai (Japan)" id="0001">
+		<description>Mobile Suit Gundam - Luna Two no Tatakai (Japan)</description>
+		<rom name="Mobile Suit Gundam - Luna Two no Tatakai (Japan).bin" size="16384" crc="4f90b7c7" md5="f02f38fe7fb308008dc9f910f74d3f1b" sha1="c836f02876533dbd92fbef1b2237d47bd914ab50" sha256="10324dbeac17b0fac6005bc2c6e10719776c99844515e7db5f55e494a3917b00"/>
+	</game>
+	<game name="Perfect Mahjong (Japan)" id="0003">
+		<description>Perfect Mahjong (Japan)</description>
+		<rom name="Perfect Mahjong (Japan).bin" size="16384" crc="98335879" md5="3b6c2d7dc6e4652d4d3d7ab5d322f1b6" sha1="b696bb189e3b812fcbd7b2ab798f6e28c76c0fe0" sha256="79d1f95575ca21e9a32fc972de416c8f6a07e92c708d647f5519f42fe7f946a5"/>
+	</game>
+	<game name="Pro-Wrestling, The (Japan)" id="0007">
+		<description>Pro-Wrestling, The (Japan)</description>
+		<rom name="Pro-Wrestling, The (Japan).bin" size="16384" crc="1f1b1b35" md5="e7a81bb90d8adccbd37482741c7025f9" sha1="b1efe7cbfb70455d86ff0da1fb3f242593a40ffd" sha256="332e6cf9405b8706af823e24c0c9b5af9a68e74d5e308aa98fde2ead224285ac"/>
+	</game>
+	<game name="Sekigahara (Japan)" id="0009">
+		<description>Sekigahara (Japan)</description>
+		<rom name="sekigahara.bin" size="32768" crc="a1a1c686" md5="e9845345ca4aa1f0694379755b620b79" sha1="5c35750fd2bedae5f5d4d8b4d7bb7b13d22dc3b6" sha256="7a13325d6ca858c75748e4ef113f38187ba64a3f42b6f3cb7d1c2312d97b2992"/>
+	</game>
+	<game name="Super Motocross (Japan)" id="0008">
+		<description>Super Motocross (Japan)</description>
+		<rom name="smc1.bin" size="8192" crc="a5f1dff6" md5="eee118b8448eb052645dd63fd28dd736" sha1="f58f1d266753cddddc44949bbab882870506a879" sha256="3dd448878eb1c7a8063c14d276ca02e2092bc7faef181c61f723a4ba3ddf578b"/>
+		<rom name="smc2.bin" size="8192" crc="06febfde" md5="0b6859a202345ef31a248b6668f44b56" sha1="18edde0e3af1f3b9b013348a701652d81bdddbc9" sha256="aaacf4d4fadbef0a519d30eceaef7633ab9eb17d44b9c55dc545d5139ee63026"/>
+	</game>
+	<game name="Tatakae! Ultraman (Japan)" id="0005">
+		<description>Tatakae! Ultraman (Japan)</description>
+		<rom name="Tatakae! Ultraman (Japan).bin" size="16384" crc="0ba54dfb" md5="4d593cf5fbef991f81d0a6a13ac8bd70" sha1="5ba7eb4779d5c362e4751102b31d8e0083e06310" sha256="7d8142657f878d66b2dccb4c7282e39f499a0dae62d2c2a8317081f6467f577c"/>
+	</game>
+</datafile>

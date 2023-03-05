@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Collections - A.P.P.L.E. - [WAV]</name>
+		<description>Apple II - Collections - A.P.P.L.E. - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Library Pak 1C (19xx)(A.P.P.L.E.)(US)">
+		<description>Library Pak 1C (19xx)(A.P.P.L.E.)(US)</description>
+		<rom name="Library Pak 1C (19xx)(A.P.P.L.E.)(US).wav" size="39442476" crc="6ff56623" md5="1c8cedd727f94f5c7b0446b18b7019d4" sha1="be2f6d1d2f917534df3d41f5e210941d2989bfbb"/>
+	</game>
+	<game name="Library Pak 2 (19xx)(A.P.P.L.E.)(US)">
+		<description>Library Pak 2 (19xx)(A.P.P.L.E.)(US)</description>
+		<rom name="Library Pak 2 (19xx)(A.P.P.L.E.)(US).wav" size="24738348" crc="6dbd93ed" md5="a8ca2fb30d1368f3051d21608ea9a7cb" sha1="b339818e9b802b2ee7c16ecde82a2c42d2e7c8fd"/>
+	</game>
+	<game name="Library Pak 2B (19xx)(A.P.P.L.E.)(US)">
+		<description>Library Pak 2B (19xx)(A.P.P.L.E.)(US)</description>
+		<rom name="Library Pak 2B (19xx)(A.P.P.L.E.)(US).wav" size="29863980" crc="4a5502c0" md5="e9e6ae9a324e6c62dfe9cf1150406b9b" sha1="83f133b529a7bc8317a8c16d58560f090fb8c350"/>
+	</game>
+</datafile>

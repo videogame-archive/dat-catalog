@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp MZ-2000 &amp; MZ-2200 - Games - [MZT]</name>
+		<description>Sharp MZ-2000 &amp; MZ-2200 - Games - [MZT] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-24)(Inufuto)(JP)">
+		<description>Ascend (2022-03-24)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-24)(Inufuto)(JP).mzt" size="9670" crc="392b7958" md5="0c8407af7b2308d3487903cdb5f93909" sha1="11081eed43453edbf955465f8f0b3b38e503822c"/>
+	</game>
+	<game name="Ruptus (2021-01-02)(Inufuto)(JP)">
+		<description>Ruptus (2021-01-02)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-01-02)(Inufuto)(JP).mzt" size="14119" crc="fa0f867f" md5="7943953521308321d40d313e6ba5a9c5" sha1="a7e87f0bfdb9b0cbff80ae20a42ffde0d56b45be"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Operating Systems - [D64]</name>
+		<description>Commodore C64 - Operating Systems - [D64] (TOSEC-v2021-07-14)</description>
+		<category>TOSEC</category>
+		<version>2021-07-14</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="C64 Geck OS (1997)(Fachat, Andre)">
+		<description>C64 Geck OS (1997)(Fachat, Andre)</description>
+		<rom name="C64 Geck OS (1997)(Fachat, Andre).d64" size="174848" crc="ac575377" md5="ff833d663e7e24b2353cdcfbedba0fb2" sha1="b74b3380d5b3109815d1946773228cb62e8d6aca"/>
+	</game>
+	<game name="C64 Geck OS (1997)(Fachat, Andre)[a]">
+		<description>C64 Geck OS (1997)(Fachat, Andre)[a]</description>
+		<rom name="C64 Geck OS (1997)(Fachat, Andre)[a].d64" size="174848" crc="103a3ef6" md5="076ef7b75e09091ebfa30e92cb91b6fb" sha1="54f484e7bd78ba65844cc1b3b2a2d43cacbebd0e"/>
+	</game>
+</datafile>

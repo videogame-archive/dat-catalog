@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Operating Systems - [WOZ]</name>
+		<description>Apple II - Operating Systems - [WOZ] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Diversi-DOS v2C (1982)(DSR)(Master Disk)">
+		<description>Diversi-DOS v2C (1982)(DSR)(Master Disk)</description>
+		<rom name="Diversi-DOS v2C (1982)(DSR)(Master Disk).woz" size="233216" crc="f3577c66" md5="ffa7ef7cf29c1d1d38cd9aabca084c1d" sha1="5b3f5b23c5452f8ceed358e764d1ff1c237def22"/>
+	</game>
+	<game name="Pronto-DOS (1982)(Beagle Bros)(US)">
+		<description>Pronto-DOS (1982)(Beagle Bros)(US)</description>
+		<rom name="Pronto-DOS (1982)(Beagle Bros)(US).woz" size="233216" crc="4822899d" md5="50f732adbd56c6583a125f26c85dfcab" sha1="42402e1f1172190fa294e04d6700a69f14ecf457"/>
+	</game>
+</datafile>

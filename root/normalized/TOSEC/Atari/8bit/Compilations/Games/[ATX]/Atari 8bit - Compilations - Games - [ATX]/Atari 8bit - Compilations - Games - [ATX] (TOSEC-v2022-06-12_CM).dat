@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Compilations - Games - [ATX]</name>
+		<description>Atari 8bit - Compilations - Games - [ATX] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US)">
+		<description>Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US)</description>
+		<rom name="Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US).atx" size="87840" crc="43c79ce3" md5="646808be2651805244362672116d5ed4" sha1="234fb5ebef3e0ce951872c7cf2e54a0fab1e6efd"/>
+	</game>
+	<game name="Artworx Demo Disk (1982)(Artworx)(US)[BASIC]">
+		<description>Artworx Demo Disk (1982)(Artworx)(US)[BASIC]</description>
+		<rom name="Artworx Demo Disk (1982)(Artworx)(US)[BASIC].atx" size="95360" crc="54ab8924" md5="66bb0b8f69d6fcbc2fe11885b4842f9b" sha1="1a9289bd6ba44f58aafa844cc313b86294449efa"/>
+	</game>
+	<game name="Atari Smash Hits - Volume 1 (1985)(English Software)(GB)">
+		<description>Atari Smash Hits - Volume 1 (1985)(English Software)(GB)</description>
+		<rom name="Atari Smash Hits - Volume 1 (1985)(English Software)(GB).atx" size="100256" crc="86f80949" md5="315535e617deea0c2c4c3aa21c3d3416" sha1="95c4fe04017754b83916a855ad186eeadcf9f0e3"/>
+	</game>
+	<game name="Deluxe Space Games (1982)(Alpha Systems)(US)">
+		<description>Deluxe Space Games (1982)(Alpha Systems)(US)</description>
+		<rom name="Deluxe Space Games (1982)(Alpha Systems)(US).atx" size="97808" crc="fbf1d67c" md5="49ce63c74c8ce21407aeb3917e058010" sha1="8eb499b35e86a66284870b992666eccfbd795c0d"/>
+	</game>
+	<game name="Lasermania + Robbo Konstruktor (1990)(L.K. Avalon)(PL)(Side A)">
+		<description>Lasermania + Robbo Konstruktor (1990)(L.K. Avalon)(PL)(Side A)</description>
+		<rom name="Lasermania + Robbo Konstruktor (1990)(L.K. Avalon)(PL)(Side A).atx" size="143592" crc="c2bd9319" md5="82aace501238277d247eacd8aabe61a0" sha1="829f5e8f713675f453dd0ba656f0271380ceb79f"/>
+	</game>
+	<game name="Lasermania + Robbo Konstruktor (1990)(L.K. Avalon)(PL)(Side B)">
+		<description>Lasermania + Robbo Konstruktor (1990)(L.K. Avalon)(PL)(Side B)</description>
+		<rom name="Lasermania + Robbo Konstruktor (1990)(L.K. Avalon)(PL)(Side B).atx" size="143456" crc="d12bb92a" md5="198851e5ba50fd731f558ffe220e58da" sha1="df41518c6ed273d6db284ef25bde75b7e7e2d101"/>
+	</game>
+	<game name="Temple of Apshai Trilogy (1985)(Epyx)(US)">
+		<description>Temple of Apshai Trilogy (1985)(Epyx)(US)</description>
+		<rom name="Temple of Apshai Trilogy (1985)(Epyx)(US).atx" size="100616" crc="97bc6b20" md5="a8353de1ed48553181f4dfe5c6dac29e" sha1="e1f9fb45e63ef4e72a9c6cb156d22164813a1d57"/>
+	</game>
+</datafile>

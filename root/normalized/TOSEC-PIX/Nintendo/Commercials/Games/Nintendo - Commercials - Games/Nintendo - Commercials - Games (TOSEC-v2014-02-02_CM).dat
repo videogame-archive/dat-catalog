@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Commercials - Games</name>
+		<description>Nintendo - Commercials - Games (TOSEC-v2014-02-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2014-02-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Super Mario Bros 25th Anniversary (2010)(Nintendo)(JP)">
+		<description>Super Mario Bros 25th Anniversary (2010)(Nintendo)(JP)</description>
+		<rom name="Super Mario Bros 25th Anniversary (2010)(Nintendo)(JP).mp4" size="12218467" crc="09366313" md5="5a4bf131b10c7369400ebf9c7e1aa586" sha1="33474c88bcaa57c08cd6d5cc065286ff6c558232"/>
+	</game>
+	<game name="Super Mario Bros 25th Anniversary (2010)(Nintendo)(US)">
+		<description>Super Mario Bros 25th Anniversary (2010)(Nintendo)(US)</description>
+		<rom name="Super Mario Bros 25th Anniversary (2010)(Nintendo)(US).mp4" size="21463930" crc="235e67bc" md5="859634382ed518ac5f816e46e8ea429f" sha1="60cb2ab7dcbda8bc7d3e480348a3613aa3250972"/>
+	</game>
+</datafile>

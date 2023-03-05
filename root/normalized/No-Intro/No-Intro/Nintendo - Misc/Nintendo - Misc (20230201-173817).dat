@@ -1,0 +1,1130 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>144</id>
+		<name>Nintendo - Misc</name>
+		<description>Nintendo - Misc</description>
+		<version>20230201-173817</version>
+		<author>ajshell1, Arctic Circle System, Hiccup, MeguCocoa, NovaAurora, PPLToast, SonGoku, xprism</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] EDEV NAND (Unknown) (April 2016)" id="0038">
+		<description>[BIOS] EDEV NAND (Unknown) (April 2016)</description>
+		<rom name="[BIOS] EDEV NAND (Unknown) (April 2016).bin" size="31268536320" crc="5de223fa" md5="99881dd3854f4d1bfe240b63079c726a" sha1="96c4c5901316cd5385b076adc51ac672303edd5d" sha256="54a6d2067e0635199e5020e397a05135fcafe155942aebc35634c6e9620508ec" mia="yes"/>
+	</game>
+	<game name="[BIOS] Game &amp; Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl)" id="0032">
+		<description>[BIOS] Game &amp; Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl)</description>
+		<rom name="[BIOS] Game &amp; Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl) (External Flash).bin" size="1048576" crc="3ac11000" md5="745a7c5e560cb3a59c6d38335410c867" sha1="f153b5e86b0dba407484544c4013f63024f17c7c" sha256="ea3f60b7208257b9e9dd5ec1b66bd2bf67cffaab0ae01a6e266490643a0dd105"/>
+		<rom name="[BIOS] Game &amp; Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl) (External Flash, Decrypted).bin" size="1048576" crc="c6cbc0f9" md5="cac52053d4fdfdec86c9013aea281f76" sha1="5f503575cc83f759d563f3ec1866a67e9552414b" sha256="49aeb94de6ff2cdb7e8c4912669bcfa61ef6561b722c9e96989566c47e146880"/>
+		<rom name="[BIOS] Game &amp; Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl) (Key Info).json" size="532" crc="00452f76" md5="0e2d4eb8fc5fdfd212cb1e9d9fb6c68b" sha1="83ec170b7e812df660ccf2d41e306caff8776df1" sha256="54c9247d943cb06b729e1af628056c494df3639d54d111da09846e75d43a9634"/>
+		<rom name="[BIOS] Game &amp; Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl) (ITCM).bin" size="1300" crc="3b04248c" md5="894e8902ffd7dfb6786e15c4af7e3cd8" sha1="ca71a54c0a22cca5c6ee129faee9f99f3a346ca0" sha256="30b53038c9fbb704ba5a1533a019f65d59086debe8278c67faff38d86a4f1ddf"/>
+		<rom name="[BIOS] Game &amp; Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl) (Internal Flash).bin" size="131072" crc="efaaefe6" md5="b675fa9c2da9fb51f5811225539b6337" sha1="efa04c387ad7b40549e15799b471a6e1cd234c76" sha256="b1f10bde11490dcf922524fcba1592ffbc47d2b9a95cda58358ab8934c747e5b"/>
+	</game>
+	<game name="[BIOS] Pokewalker (World)" id="0024">
+		<description>[BIOS] Pokewalker (World)</description>
+		<rom name="[BIOS] Pokewalker (World).bin" size="49152" crc="d4a05446" md5="2f99cd6b245cea2487fa31453a8f3979" sha1="19a4c4fd64c7087b2eb62a3a30cfbb88d2a1f744" sha256="f9e210a3b74afbbd12c5a66a51cc05cb9fbac986805ff0a3bfb4be6074d15607" status="verified" serial="June 26 2009"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 1 - Deadspace.7z (World)" id="0271">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 1 - Deadspace.7z (World)</description>
+		<rom name="Deadspace.7z" size="12186020456" crc="677bc8d2" md5="301edce48b137d6b88c0e7061df0aa6e" sha1="0f1f1ddd37695af23299482d07a6ffe479f1d83c" sha256="2cd8a673558f33e0691416ee9c4e57350d2e9ac02026d25b44a1f31a8ce7c745"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 10 - DisneyUniverse.7z (World)" id="0272">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 10 - DisneyUniverse.7z (World)</description>
+		<rom name="DisneyUniverse.7z" size="20163483811" crc="eb6637c4" md5="a675e8ddb853ee7cfac4e221d5724d59" sha1="45915a24c86043ea695a97a4fed48d2cd67965ae" sha256="b789a4cd99433a954ae7c9d10e7f9795a584138721ea3e0a1c359638891c5b77"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 11 - THQ July.zip (World)" id="0267">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 11 - THQ July.zip (World)</description>
+		<rom name="THQ July.zip" size="17904170" crc="26863823" md5="ae1f101948b343703aa89bb625a73045" sha1="436694feb46451e9e635cfd8603f4499cb60e8d4" sha256="f2ecc9de4b5e4c593fa12cf45ef598dc857521a4095c6b3bcab2920f001440e9"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 12 - THQ Archive.zip (World)" id="0262">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 12 - THQ Archive.zip (World)</description>
+		<rom name="THQ Archive.zip" size="92269348" crc="af8647af" md5="5f8876b4ce6f203b56bd97cba0e05708" sha1="33091503c022c56c2cdacfc4881581157ed16a1c" sha256="de4116d5189d020895ab448e25ab8105c9d8d43ba438fa2cb9ad004a1a984202"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 13 - Bonus.7z (World)" id="0276">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 13 - Bonus.7z (World)</description>
+		<rom name="Bonus.7z" size="5953558769" crc="755a4c6e" md5="e6e19bb5611b4e9b3965701276901b25" sha1="f1ce9579b93aa9e2c9d7aa976240e46c6f1ebe88" sha256="6a5bcbe9e1eed79eae12d9ba16021aee7de08638a337c2405f5cc73940899e22"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 14 - Miscellaneous02.zip (World)" id="0261">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 14 - Miscellaneous02.zip (World)</description>
+		<rom name="Miscellaneous02.zip" size="184413248" crc="4d258ed2" md5="d8055f7db2ea40e1e22eaee75bf468d9" sha1="016195070950403bc1a9177c776f3e0b540ed947" sha256="8c029525904b2e8b4611eb35604bcc5ea77a81fff212caca81796e280579651a"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 15 - AGB Jimmy Neutron vs Jimmy Negatron Final Source Archive 13-09-02.zip (World)" id="0264">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 15 - AGB Jimmy Neutron vs Jimmy Negatron Final Source Archive 13-09-02.zip (World)</description>
+		<rom name="AGB Jimmy Neutron vs Jimmy Negatron Final Source Archive 13-09-02.zip" size="8655555" crc="8a32def6" md5="1a7862c492737ffe50817aa0014cd9d2" sha1="32aa040834f63c5312eaf3cad45301b76a70fa10" sha256="ceb5e5c399c4684243ac82caaaa7a4a79e250a9a69766637a7a66ed6522db656"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 16 - JN Ref.zip (World)" id="0269">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 16 - JN Ref.zip (World)</description>
+		<rom name="JN Ref.zip" size="22081919" crc="8d85e224" md5="303941af649c6e0127277306ffa8a5a3" sha1="ddfb01e5e60b9a547fcae59277a3aba96e49a848" sha256="7038d7480de1fdc39b53c704734a08f3fce29aef8fa2e3d820ce9fee7dab4976"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 17 - JimmyEditor.zip (World)" id="0265">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 17 - JimmyEditor.zip (World)</description>
+		<rom name="JimmyEditor.zip" size="4892730" crc="d3580ab4" md5="9be27cbf143482c9b8cb17d3f598aa47" sha1="50ba8f341426947b4a51aec7dd6a71fcb00c28ac" sha256="49c9d7788499fc65877e3d73c40e020994dd791da598c2f23480de5a6de11e1b"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 18 - 01 Data.zip (World)" id="0268">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 18 - 01 Data.zip (World)</description>
+		<rom name="01 Data.zip" size="50399169" crc="5079bd81" md5="9641722bebb0cf7ef6e910a49daf8476" sha1="b1e8d26d06f9e2213d84c183b1d0ddda36a505e6" sha256="b77dd2376c3e3d7395f1ebf7f53923ab3bdb670a0eb730181d3a582304c29950"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 19 - design.zip (World)" id="0270">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 19 - design.zip (World)</description>
+		<rom name="design.zip" size="16552301" crc="98668e99" md5="4ccf6e9aaba81b411ee7cef3a638e82a" sha1="65af19071be5be3b75386fd697cdb6512a6a7df8" sha256="fd3c93ec60d1e55d3b6596306545f94ecbe61f545e0e3aaf89c7cfd3011688f1"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 2 - Firmware.7z (World)" id="0275">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 2 - Firmware.7z (World)</description>
+		<rom name="Firmware.7z" size="78696635" crc="274b3556" md5="95178c4dbbf5dc59c2bfc52bff367328" sha1="b0aae772d9a95991325d76d47cc60590929bca31" sha256="cd413243bc26b716381596e8e395320243524f093265da85822aab38aa368ca2"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 3 - Cod_Conduit.7z (World)" id="0274">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 3 - Cod_Conduit.7z (World)</description>
+		<rom name="Cod_Conduit.7z" size="6869536076" crc="d6759bf4" md5="8db828ec3ef1c2a1d095aeb1ed236a20" sha1="341527de5819475f2a4f0360e4c87879126e7fd6" sha256="a5c1c0c03a1970b9dcede2c37665b8edaeaf5f29184e918319fc9a66c5958251"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 4 - JamesBond-p1.7z (World)" id="0273">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 4 - JamesBond-p1.7z (World)</description>
+		<rom name="JamesBond-p1.7z" size="14842465280" crc="fe22385d" md5="79c9b2555db8cb51d713021ee2391af8" sha1="e199e84578fb99a8524f4306cc32e641c0f29f5b" sha256="c7cc1d704d14894224fcb0f792667fdbc5363cc2367a52eadbe072a51f8f137a"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 5 - JamesBond-p2.7z (World)" id="0279">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 5 - JamesBond-p2.7z (World)</description>
+		<rom name="JamesBond-p2.7z" size="24956451200" crc="7da0f8e3" md5="84d12450b877beedc66df5c264e0418c" sha1="f1f6eeb395a004ec2b06be48e0fad5261a378c0c" sha256="700059a99d50707de590ab6baf64ebf5cad6cf3279dc2daf83ca8501c1a056c7"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 6 - IceAge_Batman_Crash_Pirates.7z (World)" id="0278">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 6 - IceAge_Batman_Crash_Pirates.7z (World)</description>
+		<rom name="IceAge_Batman_Crash_Pirates.7z" size="5347534106" crc="62b2dfe6" md5="9e9bccbd2cfb6045f1eae6076ca6209e" sha1="d1fd92d99290e01c18cb2a781e6f7ab17672423a" sha256="46137907db75254cfe423098b96507fc65c03b471ed0f7905fcf56d22d4e5c67"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 7 - Testing.7z (World)" id="0277">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 7 - Testing.7z (World)</description>
+		<rom name="Testing.7z" size="6049479709" crc="610327e3" md5="27a6bc5f544e8292502a8b5afe9565f1" sha1="023dddc428963c7899037979fc35adc6ff6c7c30" sha256="f17d5efab5d7d3c72ec7bf23670c4ea2c94789ce603df0d4b6a23647a8290765"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 8 - THQ Milestones.zip (World)" id="0266">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 8 - THQ Milestones.zip (World)</description>
+		<rom name="THQ Milestones.zip" size="16616858" crc="e645a7a8" md5="e50f61d0e01d34061246695bdeb2b65f" sha1="6afd4339f62156c6ccf4d39b111e2b2b7995180e" sha256="94099d727e1fb593601ac8fc2f6990f90de2873c59c02aa74ba4d649abe0ef2a"/>
+	</game>
+	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 9 - THQ Interim Versions.zip (World)" id="0263">
+		<description>4chan Eurocom and THQ leak 2022-11-09 no. 9 - THQ Interim Versions.zip (World)</description>
+		<rom name="THQ Interim Versions.zip" size="167958277" crc="9ba59b7a" md5="329dfb74344120d1f36f920bc7a1928e" sha1="ea96be35e9aacf2de3dbc624f77ac4c079159d70" sha256="797227fa8d3df1e1fc7e613999a82de85d003737c065bc7b9c8db99ee3b8fe63"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-03-19 - pack.zip (World) (En,Ja)" id="0173">
+		<description>4chan Nintendo leak 2020-03-19 - pack.zip (World) (En,Ja)</description>
+		<rom name="pack.zip" size="1007317" crc="cdfe0812" md5="fd5c4a603d28e056baa1ded7e1aa5179" sha1="04d5f41f876b9ed1f366a4a6bf09707565a6d805" sha256="42ac88cd2736731ac26910db89dd27bd626ca65a722cc42231bd2aff6b4aff54"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-10 - ALL.zip (World) (En,Ja)" id="0187">
+		<description>4chan Nintendo leak 2020-04-10 - ALL.zip (World) (En,Ja)</description>
+		<rom name="ALL.zip" size="7054881" crc="3c152761" md5="65b82b21b73f4f8721e043e97d87ed7d" sha1="6e318f9b2d20e233fcd516b5557c7dfa39112896" sha256="c0182eba589ff8fb9bd09be509b4b2f8a15c1bc3b4130c9238268e8ad2e9eda0"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-11 no. 1 - pack_4m4lZ6j.zip (Japan)" id="0174">
+		<description>4chan Nintendo leak 2020-04-11 no. 1 - pack_4m4lZ6j.zip (Japan)</description>
+		<rom name="pack_4m4lZ6j.zip" size="13024122" crc="2129bc56" md5="efaa1a584f735f432a75d2531201da24" sha1="5e3d0f6c08adf2dfadb701cb2e04eeba06ae27f8" sha256="75f77ebc22483e43d623f3504557bdf14746bc709699053c3cfe5bf515735767"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-11 no. 2 - osrc.zip (World) (En,Ja)" id="0172">
+		<description>4chan Nintendo leak 2020-04-11 no. 2 - osrc.zip (World) (En,Ja)</description>
+		<rom name="osrc.zip" size="23888957" crc="73e606bc" md5="bbff6bf05526363acf698acbccc4982d" sha1="fc6d5646c4a6c7a14d5a94b7a2d0627277ad429e" sha256="4eef4f2fdccb961d203e8f8768ebe6cd32151b07aeb94feae44eb8f0f96a4bb7"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-24 - Gen2.7z (World) (En,Ja)" id="0008">
+		<description>4chan Nintendo leak 2020-04-24 - Gen2.7z (World) (En,Ja)</description>
+		<rom name="Gen2.7z" size="822281000" crc="29f40442" md5="7552cb166d1134018311b1b74ad59b0c" sha1="c029ca413c039b474969fa654613a42156cbad5d" sha256="e001baa436b29670f34b75d958f080f203bac8bf60d08c0e702d575627751481"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 1 - Dwx95fZSGFDx74sc.7z (World)" id="0188">
+		<description>4chan Nintendo leak 2020-04-27 no. 1 - Dwx95fZSGFDx74sc.7z (World)</description>
+		<rom name="Dwx95fZSGFDx74sc.7z" size="32994" crc="63a6f110" md5="484d57551857090b4cd7d2c2218dabfb" sha1="cd8128b0dca89dc0f50ce9c03c741b0a9d65f0a3" sha256="df0dd1a5d628e6d46f72f68daa4c8d322e96fd030d151eae48dcfbf491b4a8e4"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 10 - all3dstitleids.txt (World)" id="0197">
+		<description>4chan Nintendo leak 2020-04-27 no. 10 - all3dstitleids.txt (World)</description>
+		<rom name="all3dstitleids.txt" size="183854" crc="00daa9f0" md5="8208fb6490bc283428611a631b8290f2" sha1="2edb04af998a09c0e88456c4b86e60ffaea45d30" sha256="4a0cea52d04854eda3f32ae3eff1603a088d3abfa28ee1fd54f5d5c9ab507a4b"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 11 - 3dstitlekeys-p2p.txt (World)" id="0198">
+		<description>4chan Nintendo leak 2020-04-27 no. 11 - 3dstitlekeys-p2p.txt (World)</description>
+		<rom name="3dstitlekeys-p2p.txt" size="283848" crc="329d4aa4" md5="3879851272d45e13e727980bf73d8072" sha1="8d87bb2430fecd5db84ec231737d88647d892a40" sha256="d78ccc162dba4668d505df692e06b63fff14adb0815ff7ff0492c3fc2f9242ed"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 12 - 4p7fGihlz7DW68nc_gWd1aeQ.7z (World)" id="0199">
+		<description>4chan Nintendo leak 2020-04-27 no. 12 - 4p7fGihlz7DW68nc_gWd1aeQ.7z (World)</description>
+		<rom name="4p7fGihlz7DW68nc_gWd1aeQ.7z" size="2112" crc="1d36e16f" md5="102eed5d3378eb095e3208816db62677" sha1="d5a1ffca3714a5f5fba7a3529b555898eda7e034" sha256="9cd66362af9825e636a6a27865bd71d314de9c217592b1ed430e653a153379c6"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 13 - 8mb82u.cia (World) (En,Ja)" id="0200">
+		<description>4chan Nintendo leak 2020-04-27 no. 13 - 8mb82u.cia (World) (En,Ja)</description>
+		<rom name="8mb82u.cia" size="411968" crc="ac5c90c5" md5="937f20d6671eb784eee9e387089e5f65" sha1="69c5dbe9b947bd6f45d80fde7de0319b53bfdfd8" sha256="eae5fee196c17cbe115e83d6cef17ad52689f28071d27ec93fb70d1fa64b3b96"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 14 - 00040000001A8A00.cia (World) (En,Ja)" id="0201">
+		<description>4chan Nintendo leak 2020-04-27 no. 14 - 00040000001A8A00.cia (World) (En,Ja)</description>
+		<rom name="00040000001A8A00.cia" size="3326630144" crc="60305b36" md5="b462b8f4cc45e9ca51d6adfcac7776c9" sha1="ba46bf94b3cea3a5c101773cd3da3302c134eac7" sha256="0e55d50a491112bf0cc4548c207fcf6f04466a9b4eb23aed277324c44c60fc4a"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 2 - mon9jw.cia (Europe)" id="0189">
+		<description>4chan Nintendo leak 2020-04-27 no. 2 - mon9jw.cia (Europe)</description>
+		<rom name="mon9jw.cia" size="6871296" crc="b94f0938" md5="47d57609f8b2d84ae3275fb8b827ccdd" sha1="0bb6a6616fa2d1f2a0d27c21c0d8b621d964a215" sha256="58c9b37f62c7809024180f7c4ebb11b234dbbc9a3b02574c2c7ee3316cfe0dca"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 3 - vqt3ix.cia (World) (En,Ja)" id="0190">
+		<description>4chan Nintendo leak 2020-04-27 no. 3 - vqt3ix.cia (World) (En,Ja)</description>
+		<rom name="vqt3ix.cia" size="34162944" crc="71d7a465" md5="389fe3be375ab8fa27aa28de7571deec" sha1="046a39228352b406876d80c0c4b46d98f73572ff" sha256="c71c155c969da08c6e23223b1dc7961897c1e83ba19a9e4c7ee3487dc71c25a3"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 4 - zcsiox.cia (World) (En,Ja)" id="0191">
+		<description>4chan Nintendo leak 2020-04-27 no. 4 - zcsiox.cia (World) (En,Ja)</description>
+		<rom name="zcsiox.cia" size="87062848" crc="662c8f88" md5="e64008b2b5772eaf5c6c6f891a175329" sha1="268f416cde35eb65c1f5f33576c0b5e75c8e8133" sha256="3477d341fce8aeecfb40fe33535b361c25fa3c89c19f36bd34357659f399047c"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 5 - mrv97y.cia (Japan)" id="0192">
+		<description>4chan Nintendo leak 2020-04-27 no. 5 - mrv97y.cia (Japan)</description>
+		<rom name="mrv97y.cia" size="6342912" crc="e3b84f42" md5="087b80c6dff8814c664608b07e69bf42" sha1="d7c203947cf44f0c398abaad3ee3d371d46c4783" sha256="011dac503efb38beb778c69d9c86d2713edc8d0296d3358f66a5edf33d754be1"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 6 - t8uh79.cia (World) (En,Ja)" id="0193">
+		<description>4chan Nintendo leak 2020-04-27 no. 6 - t8uh79.cia (World) (En,Ja)</description>
+		<rom name="t8uh79.cia" size="88422720" crc="96635b30" md5="77489295e168bb60d8244caf9f45c9b8" sha1="5fa8300005b627a1d68e60a621182ca50ed044b5" sha256="2e00b45475fb3bcaeae715f4b2f38d846be3bf231b57b949e1432c01c92d2801"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 7 - ed383s.cia (World) (En,Ja)" id="0194">
+		<description>4chan Nintendo leak 2020-04-27 no. 7 - ed383s.cia (World) (En,Ja)</description>
+		<rom name="ed383s.cia" size="114764032" crc="b845cab3" md5="c2e6fdce20f8da02d9023a0f5a17608d" sha1="dfbdb3507cc54428a25d51a440d30a11b5e42a7c" sha256="bf4b7a1d460a7495df5eb51f78fa4bf80a0608612f94e8f00d4dafec1933775e"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 8 - ip4b4w.cia (World) (En,Ja)" id="0195">
+		<description>4chan Nintendo leak 2020-04-27 no. 8 - ip4b4w.cia (World) (En,Ja)</description>
+		<rom name="ip4b4w.cia" size="118655232" crc="053b350e" md5="c558e78eea8e97600503014a1c50c2a5" sha1="e3ca0e76211b02d626ad6a870f9931841d9e8870" sha256="f961225846475b7dd267dda99a38fdb1206844c983041512e3ed1759ba9f3a65"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-27 no. 9 - tvq84j.cia (World) (En,Ja)" id="0196">
+		<description>4chan Nintendo leak 2020-04-27 no. 9 - tvq84j.cia (World) (En,Ja)</description>
+		<rom name="tvq84j.cia" size="136624384" crc="036581c7" md5="3df4d83d0f2eb2c3d7ff71adce0b68b5" sha1="92727022a6d9276dee3056dfd93aaa8cf697d7a8" sha256="64943d3ce6352805e9e0ae70acff9043b5da57b84355835a1139aac640cf3879"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-28 no. 1 - 000400000001A8A00.3120.cia (World) (En,Ja)" id="0142">
+		<description>4chan Nintendo leak 2020-04-28 no. 1 - 000400000001A8A00.3120.cia (World) (En,Ja)</description>
+		<rom name="000400000001A8A00.3120.cia" size="3835099456" crc="d2913d6f" md5="9551252883ab5403d2826f32b1c34fa7" sha1="cca5aaca2910220933af58056a1ac8ab70399fda" sha256="1e47c785a7a2515eb781ad87cbf832d4d5c197fe942e2c0e4d7a49f63e825472"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-28 no. 2 - 000400000001A8A00.1040.cia (World) (En,Ja)" id="0202">
+		<description>4chan Nintendo leak 2020-04-28 no. 2 - 000400000001A8A00.1040.cia (World) (En,Ja)</description>
+		<rom name="000400000001A8A00.1040.cia" size="3326814464" crc="2c802300" md5="f0c379beb68b6596372317b9580d7857" sha1="dc7027ccee163b4866dd7722ed1173afed340d03" sha256="ae8a98bc7369bd38b4d87d202d57cc5093aab806d3b9f7263c75a9988ac4a2ca"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-04-28 no. 3 - 000400000001A8A00.2080.cia (World) (En,Ja)" id="0203">
+		<description>4chan Nintendo leak 2020-04-28 no. 3 - 000400000001A8A00.2080.cia (World) (En,Ja)</description>
+		<rom name="000400000001A8A00.2080.cia" size="3835099456" crc="5bb22532" md5="ddd7b34c7df2bf036443b33047622b2e" sha1="fa89e67afd5d42d28ceb1e02c89652a95e01a2dc" sha256="33ee236dca7801d8dcee8342c65842ad81e87da8ced3207ea79712224a4f3a53"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-01 - unsorted.7z (World) (En,Ja)" id="0167">
+		<description>4chan Nintendo leak 2020-05-01 - unsorted.7z (World) (En,Ja)</description>
+		<rom name="unsorted.7z" size="952693184" crc="dd474390" md5="395623e39e0458ec5cdf461536575e65" sha1="863805e56e1ea6e533e99a987fc38e4eb1fe0c51" sha256="419286e2cba875d878b7bc2994354ff042095833b40db16f5868c7aa06f4b2d9"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-07 - hw.7z (World) (En,Ja)" id="0175">
+		<description>4chan Nintendo leak 2020-05-07 - hw.7z (World) (En,Ja)</description>
+		<rom name="hw.7z" size="189856" crc="1df197e0" md5="992287aeeba470dbc105df31090dcc5a" sha1="a4e63eb301c5fa2c20bfbf8bc7e3dc2e48184c0f" sha256="c0bb025de2b5b43eea1a55906aa6edcc386956cc2e00df5520c8394be3c72aa2"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-09 no. 1 - KTR_System_Writing_Program_JAN_EUR_JB1_ver.1.00_3870_11.2_Release.master.csu (Europe)" id="0176">
+		<description>4chan Nintendo leak 2020-05-09 no. 1 - KTR_System_Writing_Program_JAN_EUR_JB1_ver.1.00_3870_11.2_Release.master.csu (Europe)</description>
+		<rom name="KTR_System_Writing_Program_JAN_EUR_JB1_ver.1.00_3870_11.2_Release.master.csu" size="343629824" crc="63dd25d9" md5="1292160ab81f86ced1126d7193f8aa79" sha1="a8957514548a17e7354d6b132c028e6c9a0efa3b" sha256="09fb1971890a2eef3a889215a50fa77c1d70095811bc785b85368dce19a3b1ef"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-09 no. 2 - 3DS_manu.7z (Europe)" id="0177">
+		<description>4chan Nintendo leak 2020-05-09 no. 2 - 3DS_manu.7z (Europe)</description>
+		<rom name="3DS_manu.7z" size="934662288" crc="760c290a" md5="c88e577c4da5933777ffdb3cf2da0d90" sha1="e6e1b9be4413e7ba38ef5be6a7ce78440200d775" sha256="ab674468d38340717c13a06c66f01144528874ce36e8b1dbb20b465ff6c3c777"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-18 - gen3.7z (World) (En,Ja)" id="0178">
+		<description>4chan Nintendo leak 2020-05-18 - gen3.7z (World) (En,Ja)</description>
+		<rom name="gen3.7z" size="549663565" crc="4ec9ad8f" md5="07c87dca2f83fec5e06447f1e18dacac" sha1="5d5c6c2b06659dc017cc1390c99c5814a6232d53" sha256="f982b7c73e505e50bc5c623478f3e22efaad32a3f24ddfa24b5e2a79b1a3bfcc"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-21 - zckybq.cia (World) (En,Ja)" id="0179">
+		<description>4chan Nintendo leak 2020-05-21 - zckybq.cia (World) (En,Ja)</description>
+		<rom name="zckybq.cia" size="36176832" crc="96ffe024" md5="663df1e9d5cc4365e2827dd10865ae5e" sha1="5db210caece91a31e16c106bfd1111831f29e56b" sha256="2f4002796c35c065c0982c794b3613106875e5ac32a753989cdd25dc6d54df62"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-23 no. 1 - pokemon_dp_VER20060816.zip (Japan)" id="0180">
+		<description>4chan Nintendo leak 2020-05-23 no. 1 - pokemon_dp_VER20060816.zip (Japan)</description>
+		<rom name="pokemon_dp_VER20060816.zip" size="63146637" crc="c3814909" md5="a7d9a99829af4666575682378691a877" sha1="846ccf2cbc1014ef31c4b72e40ac0bdb3f727335" sha256="5a52891f5bed31ebb846cfdcac8c5b094c96764b61e480eb32cd527b963c35c4"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-23 no. 2 - ctr.7z (World) (En,Ja)" id="0181">
+		<description>4chan Nintendo leak 2020-05-23 no. 2 - ctr.7z (World) (En,Ja)</description>
+		<rom name="ctr.7z" size="763673259" crc="a75992ad" md5="98d377038f95d477308533a2d2068606" sha1="67026a413e08577b9f174168a7f02a8751571e87" sha256="8b05072361254437277576d53c08b95e5f076c6b33a2871fad74eaa5561d1d38"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-23 no. 3 - svn_v1.068.zip (World) (En,Ja)" id="0182">
+		<description>4chan Nintendo leak 2020-05-23 no. 3 - svn_v1.068.zip (World) (En,Ja)</description>
+		<rom name="svn_v1.068.zip" size="17457103" crc="289b834d" md5="495c6bae9d7936aafe928999bcae5dc3" sha1="168e2fbc3cb68ebfcc5471ca7ab0c6915364659b" sha256="f2a13970d1a0934542dcffd2e2da006c634c9daf04b0d588755f96ce7028f700"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-23 no. 4 - ctr-etc.7z (World) (En,Ja)" id="0183">
+		<description>4chan Nintendo leak 2020-05-23 no. 4 - ctr-etc.7z (World) (En,Ja)</description>
+		<rom name="ctr-etc.7z" size="930360961" crc="d80844a1" md5="7b1393655d3cab02f0a29cbc1bea7ad4" sha1="59304a1a23a6fc16d76c0f41f278e0764d138939" sha256="8bc14b435e8e00b26ac374f63884498928bea2b0c891ae607b0608689549c810"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-29 no. 1 - pWRkCWzW.7z (World)" id="0205">
+		<description>4chan Nintendo leak 2020-05-29 no. 1 - pWRkCWzW.7z (World)</description>
+		<rom name="pWRkCWzW.7z" size="71314" crc="08799f0b" md5="d78a4b6d9a4cec327de9fb45f4e1646e" sha1="a7117de17cda08b9327f2d3e85c1e724f035b3ba" sha256="460b1516930231836caab4aea9bff116a5251b2b93cf25a6e285fe1b2076e68f"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-05-29 no. 2 - title-key-generation-code.txt (World)" id="0204">
+		<description>4chan Nintendo leak 2020-05-29 no. 2 - title-key-generation-code.txt (World)</description>
+		<rom name="title-key-generation-code.txt" size="718" crc="675434a7" md5="bf0e0845c214dcfbe750a0140f69dc42" sha1="a98cb0fb7b0501d1173c7ec5055797415304cada" sha256="41094c11427ea414314467958f42c4eec174c9d8aaa014b53e7fbccdc4ea33ce"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-07-24 no. 1 - 20100713cvs_backup.tar.7z (World) (En,Ja)" id="0165">
+		<description>4chan Nintendo leak 2020-07-24 no. 1 - 20100713cvs_backup.tar.7z (World) (En,Ja)</description>
+		<rom name="20100713cvs_backup.tar.7z" size="587030015" crc="22b6345f" md5="f35613ec8ed102aeef5a6bfe15f9936e" sha1="ee17e01d6d40bde69d0d7c11aa2a0f2bb17d3f58" sha256="6c5bf8cdbd4773261416fbbe603a62f05f241709d69397f4101100e1c4fa86e6"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-07-24 no. 2 - netcard.7z (World) (En,Ja)" id="0168">
+		<description>4chan Nintendo leak 2020-07-24 no. 2 - netcard.7z (World) (En,Ja)</description>
+		<rom name="netcard.7z" size="1112839263" crc="2aee9c93" md5="083314db457e558c8ab86bf522e54a1b" sha1="723e154ae2b249b542169dab7e192daab3e5be36" sha256="0b042752602678eccd8a617dd1818b01eba860e03226c6eb97ed31ce6c195e13"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-07-24 no. 3 - other.7z (World) (En,Ja)" id="0037">
+		<description>4chan Nintendo leak 2020-07-24 no. 3 - other.7z (World) (En,Ja)</description>
+		<rom name="other.7z" size="373230997" crc="068aff32" md5="6f54b3c5d19c91081ee6aa11eca86414" sha1="995c7ff718998225071aca8752db027b538709d4" sha256="e49a80c79265caa31224223bf2d852c8fa69ef144939993c23070e833ae07e46"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-07-25 - bbgames.7z (World) (En,Ja)" id="0031">
+		<description>4chan Nintendo leak 2020-07-25 - bbgames.7z (World) (En,Ja)</description>
+		<rom name="bbgames.7z" size="3616516360" crc="8e2fc5ce" md5="274f4a8f99788438fbfcdc216b10b303" sha1="42b9c3f547e90d395e980d1240a9dd7ca2e26dbd" sha256="632f1ccf78600ac8d1f8690caf24be6cf7ec9fd9ae0dc74e892fa5d8921115f0"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-09-02 - emeralds.7z (World) (En,Ja)" id="0005">
+		<description>4chan Nintendo leak 2020-09-02 - emeralds.7z (World) (En,Ja)</description>
+		<rom name="emeralds.7z" size="742217457" crc="5ade082f" md5="e8e890d53727a12428f08876bb4fbfda" sha1="d27a9ce1455f825c9169d40dce362c6a9c472f11" sha256="d47d02b2eb51b7b65996260193740c32e2dc62d267c62ebf768db0eabcf51f0a"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-09-09 no. 1 - platinum.7z (World) (En,Ja)" id="0010">
+		<description>4chan Nintendo leak 2020-09-09 no. 1 - platinum.7z (World) (En,Ja)</description>
+		<rom name="platinum.7z" size="2930979508" crc="ea4896d8" md5="8a92021dd78c4a865708ede01f6f3ee0" sha1="ce1a6c2a1ec7ed2d9947abc55742f53af8421843" sha256="9625fb3bc18f669c4325f8a22d630eb49ae71d5614add60ef51ede0b1a8da829"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-09-09 no. 2 - generic.7z (World) (En,Ja)" id="0011">
+		<description>4chan Nintendo leak 2020-09-09 no. 2 - generic.7z (World) (En,Ja)</description>
+		<rom name="generic.7z" size="1816498498" crc="d46db99d" md5="9273dd836082f9b9248d5d0a18bccfce" sha1="b24d3044b8a6290304e2300e4a61044d47458078" sha256="59443a1d9e527c1d55bf553558d6c7bdcdee4b10920ef84e138a864a87978752"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-09-09 no. 3 - from_Nintendo.rar (World) (En,Ja)" id="0012">
+		<description>4chan Nintendo leak 2020-09-09 no. 3 - from_Nintendo.rar (World) (En,Ja)</description>
+		<rom name="from_Nintendo.rar" size="1846367382" crc="ff90a941" md5="b542d8d43b638cecac29aad91ad5fe57" sha1="2fcb3543efc46cdae7a60cc6a3c73606e1fa6327" sha256="b2a71d44ad8ab6c02496e95d5c338e56a5be8babeb434c3e91180cf6db00b5aa"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-09-30 - paladin.7z (World) (En,Ja)" id="0009">
+		<description>4chan Nintendo leak 2020-09-30 - paladin.7z (World) (En,Ja)</description>
+		<rom name="paladin.7z" size="2438738380" crc="afad7cfa" md5="19a5f3b64176fd0358d2c7b1c28565ea" sha1="836a6a8240e834a24b19ac79e77e47e652dfc71c" sha256="61151df2c0489bdda6dd70297c3fed0aa7de222fa3cf6c3faeaf90e01081ca78"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-17 no. 1 - ios-releases.tar.7z.001 (World) (En,Ja)" id="0014">
+		<description>4chan Nintendo leak 2020-10-17 no. 1 - ios-releases.tar.7z.001 (World) (En,Ja)</description>
+		<rom name="ios-releases.tar.7z.001" size="4294967296" crc="4a4325cf" md5="a7e52a1faed1ad6de6aaef9721bb1109" sha1="fe9a48420e9a720df59a7cd9ce4b19dd532519b9" sha256="c517e4eff3af24e7a6329b3103934520b93c83052331e2fbfeeabe26b5bbc1d3"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-17 no. 2 - ios-releases.tar.7z.002 (World) (En,Ja)" id="0015">
+		<description>4chan Nintendo leak 2020-10-17 no. 2 - ios-releases.tar.7z.002 (World) (En,Ja)</description>
+		<rom name="ios-releases.tar.7z.002" size="4294967296" crc="ed4a2295" md5="f3591b08627ae6dfbfdae2c1e54cea90" sha1="b612b4c9e717ada42d4b93281df287a3462ddd07" sha256="37b01f0487abccdf6639808d9a3f3655ca3d38a6f3dc71eed14453ce167d0159"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-17 no. 3 - ios-releases.tar.7z.003 (World) (En,Ja)" id="0016">
+		<description>4chan Nintendo leak 2020-10-17 no. 3 - ios-releases.tar.7z.003 (World) (En,Ja)</description>
+		<rom name="ios-releases.tar.7z.003" size="3436014938" crc="cf4199d6" md5="fe6985004aa42365741144aa1c5c628c" sha1="678845f8ac3eeeeee3a3b2b201045565769a66bf" sha256="0d56569d6df26bad36be0daf41c804670c66bf2f47e76226d8be58ff99c5e6ce"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-17 no. 4 - git_program170525momiji.zip (World) (En,Ja)" id="0017">
+		<description>4chan Nintendo leak 2020-10-17 no. 4 - git_program170525momiji.zip (World) (En,Ja)</description>
+		<rom name="git_program170525momiji.zip" size="752870668" crc="85a9a3b6" md5="5ef8be02c2c80d58bcb97a1a4734c03a" sha1="e6bba57133c8f90c019429d3f88ef68087aa74f5" sha256="3392ea00a4f93284a134a0a12857770ff611cab132df7a620cde2c425bf8190c"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-17 no. 5 - wiidump.7z (World) (En,Ja)" id="0018">
+		<description>4chan Nintendo leak 2020-10-17 no. 5 - wiidump.7z (World) (En,Ja)</description>
+		<rom name="wiidump.7z" size="2853553005" crc="df2a86c0" md5="32753fefb39439e6b1dcea41033f3bef" sha1="e62fbb932209c753ac04729b5c1e41a718b54fb0" sha256="24477d3d19a9eaabfd72fb3cda213745bf1ce2055a93520017f693102f92fa6b"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-21 no. 1 - develop_Develop_30_20171222164419.zip (World) (En,Ja)" id="0019">
+		<description>4chan Nintendo leak 2020-10-21 no. 1 - develop_Develop_30_20171222164419.zip (World) (En,Ja)</description>
+		<rom name="develop_Develop_30_20171222164419.zip" size="4106379559" crc="28bdf27e" md5="0c7ec43a39d2300ac39dfa7aae1c748b" sha1="cdc04aa860e5102be6ec6a33e8c358b39d04fb40" sha256="26e95fb8f30ed681f1cf2d05161a683690eb1d98c0ceb2132f52adea565265ca"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-21 no. 2 - develop_Develop_264_20180326134219_Sword.zip (World) (En,Ja)" id="0020">
+		<description>4chan Nintendo leak 2020-10-21 no. 2 - develop_Develop_264_20180326134219_Sword.zip (World) (En,Ja)</description>
+		<rom name="develop_Develop_264_20180326134219_Sword.zip" size="3157719053" crc="a58a10c0" md5="ed12173877ef1651c625128a778fb321" sha1="9f4dbcb29d60e2822e8435e16d236fbb510d7500" sha256="bca3ce9365fc3858ee44791ce28920a9bbfc1c710326fac58c03e6862d4109f7"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-22 no. 1 - develop_Develop_562_20180525204848_Sword.zip.001 (World) (En,Ja)" id="0021">
+		<description>4chan Nintendo leak 2020-10-22 no. 1 - develop_Develop_562_20180525204848_Sword.zip.001 (World) (En,Ja)</description>
+		<rom name="develop_Develop_562_20180525204848_Sword.zip.001" size="4294967296" crc="0d5bf65f" md5="2bf6b0c1be2b7b389ae676a808bdfd45" sha1="f10e3617ab28777520b415f62c2b1ea6eb46b9a2" sha256="208fd62b1ca0156f01bc4c88b6d60ab5ccc7bc1b39a794529c8a8eec8e55e0b7"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-22 no. 2 - develop_Develop_562_20180525204848_Sword.zip.002 (World) (En,Ja)" id="0022">
+		<description>4chan Nintendo leak 2020-10-22 no. 2 - develop_Develop_562_20180525204848_Sword.zip.002 (World) (En,Ja)</description>
+		<rom name="develop_Develop_562_20180525204848_Sword.zip.002" size="1803361276" crc="11e950db" md5="3c44ad1b47cc0ddc534a70a1f3f5a15e" sha1="a6af237718af074774d4429ad330e5fd9b4027c0" sha256="bcf2415cdf106b819a9d98b5d3f462c3d97db0793884905fef7fd4d35e3ad165"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-10-22 no. 3 - keyblobs.7z (World)" id="0023">
+		<description>4chan Nintendo leak 2020-10-22 no. 3 - keyblobs.7z (World)</description>
+		<rom name="keyblobs.7z" size="10767" crc="55b6a37c" md5="a89fe74bb40ebc0a0b4f42222d88fbaf" sha1="ca737e0688c1b7e66721b11506631ffcaebc2380" sha256="471f2b5f0d823cdaa78f5b0f111558905867f54412f94dcbe55a6d9fcc77ecdd"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-12-21 no. 1 - NintendoSDK_fromSSD_IKEDA_20151124.zip (World) (En,Ja)" id="0025">
+		<description>4chan Nintendo leak 2020-12-21 no. 1 - NintendoSDK_fromSSD_IKEDA_20151124.zip (World) (En,Ja)</description>
+		<rom name="NintendoSDK_fromSSD_IKEDA_20151124.zip" size="622909728" crc="3622804d" md5="9cd18f25bc2a28c491c7ff5897d90f46" sha1="c323cae56eb00d2dda23548811af8fbc9e9855d4" sha256="1907a6543e63fe52f56afb2f6a71c07107926b0076e22ab4d76db56ff544aa24"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-12-21 no. 2 - Documents.7z (World) (En,Ja)" id="0026">
+		<description>4chan Nintendo leak 2020-12-21 no. 2 - Documents.7z (World) (En,Ja)</description>
+		<rom name="Documents.7z" size="901769023" crc="c854e448" md5="1ef3f7825bc2230e6df7199edfe5052a" sha1="89b80441cd0620195d63406097deed725110ecd1" sha256="be3a0196a36c1449e7918483047efbde04fe02711b3df4130b090449b399e1d6"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-12-22 - Secure.7z (World) (En,Ja)" id="0027">
+		<description>4chan Nintendo leak 2020-12-22 - Secure.7z (World) (En,Ja)</description>
+		<rom name="Secure.7z" size="570159667" crc="8237ae08" md5="3917f815b0290bfba1914e9e1b09dfaa" sha1="51f14f795780b61fc6cc395609d1b48b8571f435" sha256="f59e4f3d0e057dcca22755a2673f01e88af383da157ed977e8b59a88da7e8a25"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-12-25 no. 1 - eevee.zip (World) (En,Ja)" id="0028">
+		<description>4chan Nintendo leak 2020-12-25 no. 1 - eevee.zip (World) (En,Ja)</description>
+		<rom name="eevee.zip" size="8671417165" crc="acc14786" md5="a4684e82488d7853729e686537e18f13" sha1="40bd6986f6c22b421f93bca3ad8c7d5d1b9edde9" sha256="6d9898fabee8640b4e49a82ae059ed184711b7412ce0aeeb898be084e57a6e48"/>
+	</game>
+	<game name="4chan Nintendo leak 2020-12-25 no. 2 - t210_t214_brom.7z (World) (En,Ja)" id="0029">
+		<description>4chan Nintendo leak 2020-12-25 no. 2 - t210_t214_brom.7z (World) (En,Ja)</description>
+		<rom name="t210_t214_brom.7z" size="4684568" crc="cfdff078" md5="7a69883cb04be67c0a5e2fae458c5aa6" sha1="195ee4d09f66c2d579bac8f6eb1eef32adc7b5c0" sha256="43ba74ad6feafc603e6a2d7ee20c25b1f555cf6f3e9476b358573893c9544480"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 1 - DIAG4RVL.7z (World) (En,Ja)" id="0039">
+		<description>4chan Nintendo leak 2021-07-20 no. 1 - DIAG4RVL.7z (World) (En,Ja)</description>
+		<rom name="DIAG4RVL.7z" size="1481004439" crc="a197e02c" md5="b647a802a9c675e5be03bac2f5c19370" sha1="4098b344e8e4556edbb9e5db0b889f6a951b7a79" sha256="0c90366f71206363f1e088149f41ee1efdf79eb5a49c6cc35f5dab075267a71a"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 10 - iqcvs.tar.7z (World) (En,Ja)" id="0048">
+		<description>4chan Nintendo leak 2021-07-20 no. 10 - iqcvs.tar.7z (World) (En,Ja)</description>
+		<rom name="iqcvs.tar.7z" size="2568743345" crc="935c620d" md5="b8186c25ae467e30aacef6a617d81212" sha1="879e4321f1725757030f708457f569e35c3dafc8" sha256="a86f2b08bef4def928558586c9c14e5e08608806e0d7ae95b454cbcc84fb371b"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 2 - datasheet.7z (World) (En,Ja)" id="0040">
+		<description>4chan Nintendo leak 2021-07-20 no. 2 - datasheet.7z (World) (En,Ja)</description>
+		<rom name="datasheet.7z" size="7543699" crc="d59edfb9" md5="24a81736fc0972f3ebde59783e79fd1c" sha1="787bbfe3a008ed3e32d45bb851925476b8ec4aff" sha256="efdd50a2112565379ce7702e461756d848d333c78913d234e3a32a5b66254a9c"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 3 - beluga_evee(1).nsp (World) (En,Ja)" id="0041">
+		<description>4chan Nintendo leak 2021-07-20 no. 3 - beluga_evee(1).nsp (World) (En,Ja)</description>
+		<rom name="beluga_evee(1).nsp" size="5580497310" crc="6f3a67da" md5="23439a25d59fad5387ea8ae62fae829f" sha1="98e6decffd4a9ec428eb65f861554e31b1380bc2" sha256="420ec398dd0261798bbf3b6c9c68d441c7dc13e6865dd8acdfc72c3a631eb44d"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 4 - pmEME_US20050207.7z (World) (En,Ja)" id="0042">
+		<description>4chan Nintendo leak 2021-07-20 no. 4 - pmEME_US20050207.7z (World) (En,Ja)</description>
+		<rom name="pmEME_US20050207.7z" size="5888336" crc="23bb54b5" md5="9adc225706cbae476ed0087a4f1aba4b" sha1="e0d6cbdcd0ebfd585331ed8792da864f54ef839d" sha256="d31a64ed21c2185064ecb313088e5523446ae059608f01934bd6ecfc4848923c"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 5 - ique_player_common_tickets.7z (World) (En,Ja)" id="0043">
+		<description>4chan Nintendo leak 2021-07-20 no. 5 - ique_player_common_tickets.7z (World) (En,Ja)</description>
+		<rom name="ique_player_common_tickets.7z" size="117931" crc="13b92baf" md5="3819b941ae10930ceb525f4d75c5c731" sha1="fee86f08d8c562d8dedb1d453cefce557a461eec" sha256="6b4f5b3e2a4bd7e3463359cdf76e7d40ecd811d9cf7986a710d4f7a0a8a81f31"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 6 - haishin_20130912.zip (World) (En,Ja)" id="0044">
+		<description>4chan Nintendo leak 2021-07-20 no. 6 - haishin_20130912.zip (World) (En,Ja)</description>
+		<rom name="haishin_20130912.zip" size="70607346" crc="f51408a5" md5="8a82478c8b639e7d8c8a5c6c50daeff7" sha1="a3517e9be171a4777fb92abf4652136f88d02c71" sha256="73f0d41dd0588b97842da146c5da7f95fc5d7e68f6c35b704c2879e913c0331c"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 7 - bb2.7z (World) (En,Ja)" id="0045">
+		<description>4chan Nintendo leak 2021-07-20 no. 7 - bb2.7z (World) (En,Ja)</description>
+		<rom name="bb2.7z" size="288278428" crc="635f6efc" md5="b225df04074c1b26d71f532d7f325751" sha1="60416fd2a5e54b77aac9df24c58aca49509dfa6f" sha256="927a3dd1f7d9bcab7b8b581f975c04016db4321972741a7cecd918e75be479ec"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 8 - gen4_era_protos.7z (World) (En,Ja)" id="0046">
+		<description>4chan Nintendo leak 2021-07-20 no. 8 - gen4_era_protos.7z (World) (En,Ja)</description>
+		<rom name="gen4_era_protos.7z" size="691495055" crc="3c2ad889" md5="68db81a72254bb3bf6d92b1264a18487" sha1="833f127d83a1fed7c38e0adc109156b8ece2622d" sha256="c8961c0907c471ff01f352c2d32a6d271f747367bf8867c069933b163d9d1a12"/>
+	</game>
+	<game name="4chan Nintendo leak 2021-07-20 no. 9 - teru-sama_mail_2006.7z (World) (En,Ja)" id="0047">
+		<description>4chan Nintendo leak 2021-07-20 no. 9 - teru-sama_mail_2006.7z (World) (En,Ja)</description>
+		<rom name="teru-sama_mail_2006.7z" size="819988618" crc="ff19e127" md5="baf65e541adb62eff742c859327602da" sha1="8a64b96b9de27cebb35400dff64f373f20756f77" sha256="955f26c42c0ddf917a53f16d60a1378b039cf2685b115ff4fdb88903c6376b89"/>
+	</game>
+	<game name="4chan Nintendo leak 2022-04-18 no. 1 - 0100d870045b6000_dev.nsp (World) (En,Ja)" id="0184">
+		<description>4chan Nintendo leak 2022-04-18 no. 1 - 0100d870045b6000_dev.nsp (World) (En,Ja)</description>
+		<rom name="0100d870045b6000_dev.nsp" size="132253456" crc="8cebb935" md5="552d95fa33e7e2198ca55123bc0747c7" sha1="274e202552d6a87d0584a350526196dc2e63d0dd" sha256="c45f8b2a162ef12ec01ef7a56038ffd8dccd6b7f041e0a31b531457da3a347b1"/>
+	</game>
+	<game name="4chan Nintendo leak 2022-04-18 no. 2 - hiyoko_unsorted.7z (World) (En,Ja)" id="0185">
+		<description>4chan Nintendo leak 2022-04-18 no. 2 - hiyoko_unsorted.7z (World) (En,Ja)</description>
+		<rom name="hiyoko_unsorted.7z" size="171719525" crc="5469f3ad" md5="4d68fd1d6e3c7b0a379606b207ed8656" sha1="ac17a3d6de3eefa65748d2b0cf451e93b2251100" sha256="0c4756c8ebed830e703a45775649f0f1003ec8d099f38f3c2457138a98a04b71"/>
+	</game>
+	<game name="4chan Nintendo leak 2022-04-18 no. 3 - 01008bf00a1c8000.nsp (World) (En,Ja)" id="0186">
+		<description>4chan Nintendo leak 2022-04-18 no. 3 - 01008bf00a1c8000.nsp (World) (En,Ja)</description>
+		<rom name="01008bf00a1c8000.nsp" size="360593112" crc="4b1975de" md5="f1b6c07dffbdddd32ce2e1f5cd65ed64" sha1="53100d7ca4103778c0197819aa3f0b99639bbb26" sha256="7aafafcccb21912b284169b4ad20af7d400fcead5ba158b22dab958282e5ed31"/>
+	</game>
+	<game name="4chan Nintendo leak 2022-09-18 no. 1 - crush.tar.gz.001 (World) (En,Ja)" id="0258">
+		<description>4chan Nintendo leak 2022-09-18 no. 1 - crush.tar.gz.001 (World) (En,Ja)</description>
+		<rom name="crush.tar.gz.001" size="8522825728" crc="207323a8" md5="cc2676ef5c06b7035bece15ce51e1c0b" sha1="f5e5d8f85f30d6c7ef8a9eff9058795f5cb33a58"/>
+	</game>
+	<game name="4chan Nintendo leak 2022-09-18 no. 2 - crush.tar.gz.002 (World) (En,Ja)" id="0259">
+		<description>4chan Nintendo leak 2022-09-18 no. 2 - crush.tar.gz.002 (World) (En,Ja)</description>
+		<rom name="crush.tar.gz.002" size="8522825728" crc="da5097d9" md5="8b50f73efe7c4524fdb22d367cc53e0e" sha1="3368b22b1110d0af51b396d5e50f8f5a9e6ad9f9"/>
+	</game>
+	<game name="4chan Nintendo leak 2022-09-18 no. 3 - crush.tar.gz.003 (World) (En,Ja)" id="0260">
+		<description>4chan Nintendo leak 2022-09-18 no. 3 - crush.tar.gz.003 (World) (En,Ja)</description>
+		<rom name="crush.tar.gz.003" size="5677817515" crc="d72e4f27" md5="21fc105badb7c7c8f6a5317c8b26ee99" sha1="cc9d78100c9bbd56df1c05f39f309625676076b7"/>
+	</game>
+	<game name="Big Hero 6 Battle in the Bay (USA) (Beta) (3DS Dev Kit CIA)" id="0050">
+		<description>Big Hero 6 Battle in the Bay (USA) (Beta) (3DS Dev Kit CIA)</description>
+		<rom name="1P_BH6_3DS_FirstPlayable_24APRIL2014.cia" size="29541376" crc="9309849f" md5="29fd6494e1a38301afe74dd8e3f4a89b" sha1="eee1a58c6e5a825673b39debfc38fd21a0e91700" sha256="2977629e7873f9d4de120715c2ac735fef1d238d51ade8601b7f2da8fb48db84" serial="CTR-P-BH6E"/>
+	</game>
+	<game name="CIS-004 hard drive (Japan)" id="0030">
+		<description>CIS-004 hard drive (Japan)</description>
+		<rom name="CIS-004 hard drive (Japan).tar.gz" size="18334375137" crc="76695aeb" md5="c4bc14a0728f4b665fc7d8d9d7b3212c" sha1="47047e594cc523826b123ac6b2ec8ce651a5c395" sha256="c56e6a9f68918ab6bad0a07488b85576855402e8dc4ccc5a4645ed0f8c07d134"/>
+	</game>
+	<game name="Eurocom Nintendo 64 dev files (Europe) (CD-ROM)" id="0006">
+		<description>Eurocom Nintendo 64 dev files (Europe) (CD-ROM)</description>
+		<rom name="N64-Eurocom.zip" size="134225657" crc="29ce3535" md5="b37b5e624d00b3cbb17b9c8e120a528a" sha1="d7f1c566ffe64c84fd384d5dc237121a2cb6a6cf" sha256="3dff531c92332d36a449cc7d3c33bc006e487199632ac208ef90f561b75a51f8"/>
+	</game>
+	<game name="Fit Meter (World)" id="0280">
+		<description>Fit Meter (World)</description>
+		<rom name="Fit Meter (World).bin" size="65536" crc="a732b424" md5="ad767d1e92eb368cc17c01361284cb36" sha1="1770f2d7ed602d73cee87620ccb1527b6cd31eab" sha256="8d8f0301acec2d6fdd254f5bb23d8830e70710709cb8217e6f075388c0e897b6"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v5.0.0-v9.5.0) (3DS) (OSS)" id="0125">
+		<description>Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v5.0.0-v9.5.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_KR_TW_HK_CN_5.0.0-9.5.0(22J_22U_22E_18K_17T_2C).zip" size="19486990" crc="c053f3a9" md5="5952afabc15484c5977690884cfe9071" sha1="b61ffba6b11499f1519906a2e39d8ff3c53772b5" sha256="a7e0d38db33002862c5563a197c90b2472769f5c45db386343e072baf8967415"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU v4.0.0-v4.50) (3DS) (OSS)" id="0124">
+		<description>Internet Browser (World) (JP,US,EU v4.0.0-v4.50) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_4.0.0-4.5.0.zip" size="19026980" crc="42b74edb" md5="c716d6a41ecb2542f69dd6c23baf0da0" sha1="3dffb928636184e9d6a92705db97bcea4396d93e" sha256="4f1343f7d4da2df6f12fd9b771f4ed039082b4038a816b0cc6c00eae04357fdb"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v9.9.0-v10.5.0) (3DS) (OSS)" id="0127">
+		<description>Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v9.9.0-v10.5.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_KR_TW_HK_CN_9.9.0.zip" size="19141945" crc="bbbfdeca" md5="f87ee3a77e3cd1d30f2ff50788ebbb1c" sha1="471afeb30f0fc1b78077d3440f4079b16622ccbf" sha256="41122fc6b173428fda68371ee9a87c183f4b43f3bb203b37cf36e86474c005b8"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU v2.0.0-v3.0.0) (3DS) (OSS)" id="0123">
+		<description>Internet Browser (World) (JP,US,EU v2.0.0-v3.0.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_2.0.0-3.0.0.zip" size="19025703" crc="40cac163" md5="0e50d5bf6594d4ced3b428b7e24c4a2a" sha1="61d5b36a3ddda684c268bb85c2a3528055813e0f" sha256="7a125ea21212d8f120429880d38297525fc701c106df5740b767b1f4c3ea975d"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v9.5.0-v9.8.0) (3DS) (OSS)" id="0126">
+		<description>Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v9.5.0-v9.8.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_KR_TW_HK_CN_9.5.0(23J_23U_23E_19K_18T_3C).zip" size="19467739" crc="5e92b480" md5="2000e259eb5274a593ecc5a688718700" sha1="83669061d793c3fdd9f72cab98a6a29c58716166" sha256="5a9c28fa60c6a5914962208de0f23272f0fb8aaffd9271556022581aecd97495"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.2.0-v10.5.0) (3DS) (OSS)" id="0128">
+		<description>Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.2.0-v10.5.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_KR_TW_HK_CN_10.2.0.zip" size="19153199" crc="130fbc23" md5="6729d01d4d7bee131d49b7d5bc685184" sha1="a9879c9bdb614a44e3728268392458fac048fdff" sha256="c72efb1f92cf96ac47e4f7b798d5f6655babbbd1ac939a8a0f711b2ad014b796"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.2.0-10.5.0) (3DS) (OSS)" id="0130">
+		<description>Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.2.0-10.5.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_KR_TW_HK_CN_10.2.0.zip" size="19153199" crc="130fbc23" md5="6729d01d4d7bee131d49b7d5bc685184" sha1="a9879c9bdb614a44e3728268392458fac048fdff" sha256="c72efb1f92cf96ac47e4f7b798d5f6655babbbd1ac939a8a0f711b2ad014b796"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.6.0-11.8.0) (3DS) (OSS)" id="0131">
+		<description>Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.6.0-11.8.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_KR_TW_HK_CN_10.6.0.zip" size="19187524" crc="7fc11a7e" md5="044510453a323f0cd09793dcf1255893" sha1="c384841d6f39c6117a2279e81b61f6b51f78023f" sha256="786a312bc063065e0460d043495c6c190ada94ed2e151aabb3b4b9ff33638a90"/>
+	</game>
+	<game name="Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v11.9.0) (3DS) (OSS)" id="0132">
+		<description>Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v11.9.0) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_JP_US_EU_KR_TW_HK_CN_11.9.0.zip" size="19124533" crc="65ceddef" md5="9f6e3131904cd41e4fdb614319d0bda4" sha1="b6b7c7a7f744b6a97d4f02f04c41aa9bcd122ea9" sha256="bb98f633e81184d89ed83cff01cdb1d9c62785b3262650fb7127a9be0d8beb75"/>
+	</game>
+	<game name="Internet Browser (World) (KR,TW,HK,CH v4.0.0-v4.50) (3DS) (OSS)" id="0171">
+		<description>Internet Browser (World) (KR,TW,HK,CH v4.0.0-v4.50) (3DS) (OSS)</description>
+		<rom name="3DS_InternetBrowser_OpenSources_KR_TW_HK_CN_4.0.0-4.5.0.zip" size="19060730" crc="6e0269be" md5="7875342e3883bbae9e0375faeb2af51f" sha1="9cc65b32249e8cad9b406a5235fb72842ee933a0" sha256="6774413ca57cf6f98191121f60b3ff80a11067f8729d2d96182594aca44cf0bf"/>
+	</game>
+	<game name="Mario Kart 8 (World) (Wii U) (OSS)" id="0108">
+		<description>Mario Kart 8 (World) (Wii U) (OSS)</description>
+		<rom name="MarioKart8_OSS1.0.zip" size="76743" crc="9e7ebf6d" md5="a0bdba248b5379fb7eab459806b84213" sha1="3e6288f21b25488555ee3153e3772ef8c04c7ef1" sha256="f74ae29bf07f82ca73c3733bf14752288a88ab7a76cd02ae16e0e1429c7cb7fe"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - CecBoxTool (World) (SDK)" id="0151">
+		<description>Nintendo 3DS - Development Unit Software - CecBoxTool (World) (SDK)</description>
+		<rom name="CecBoxTool_NAND.cia" size="313600" crc="2e5ad5b7" md5="0b7751f68953d6a0cd8c14a040693065" sha1="94a380eff8f77eab9ef816d46ff4306435b9a35e"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - Config (World) (v11.4) (SDK)" id="0152">
+		<description>Nintendo 3DS - Development Unit Software - Config (World) (v11.4) (SDK)</description>
+		<rom name="Config_v11_4_NAND.cia" size="1038592" crc="ef0d25a3" md5="1b89173b5de6a03baba48b8895ebc2a5" sha1="9e2c4f66fb8ac413aeece708ff7d223e34675f11"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - DevMenu (World) (SDK)" id="0153">
+		<description>Nintendo 3DS - Development Unit Software - DevMenu (World) (SDK)</description>
+		<rom name="DevMenu_Nand.cia" size="424192" crc="7ec2a91e" md5="40a01e2f97f446573c62b9bade7688f2" sha1="e6153d558e1221cb4821ce8adfba8b4c38ec385c"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - DevMenu3DBanner (World) (SDK)" id="0154">
+		<description>Nintendo 3DS - Development Unit Software - DevMenu3DBanner (World) (SDK)</description>
+		<rom name="DevMenu3DBanner_NAND.cia" size="772352" crc="0ca6d789" md5="ad54279a8c9bed48fbe778e7096941d1" sha1="131687755b862930dcfb115a0d3ae3aa53d2882b"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - Downloadplay Client (World) (SDK)" id="0155">
+		<description>Nintendo 3DS - Development Unit Software - Downloadplay Client (World) (SDK)</description>
+		<rom name="DlpClient_NAND.cia" size="301312" crc="5f39c901" md5="42f0011f8eef6f8f87fe0c70b818200e" sha1="9300953ec57d2e50501002665fbda794990f1ce1"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - MicroSDManagment (USA) (SDK)" id="0156">
+		<description>Nintendo 3DS - Development Unit Software - MicroSDManagment (USA) (SDK)</description>
+		<rom name="MicroSDManagment_US_NAND.cia" size="1407232" crc="7af4f4f8" md5="a7ad718a241af96d87a335170c27469a" sha1="9a63a2a4cce377b8eea8a0e68230568e3028e71f"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - Network Settings (World) (SDK)" id="0157">
+		<description>Nintendo 3DS - Development Unit Software - Network Settings (World) (SDK)</description>
+		<rom name="NetworkSetting_NAND.cia" size="309504" crc="4b282abd" md5="b54f4b575dd868fb458ac0c444bb4f20" sha1="3584f5f9aaf54ec73cfeca39ffbeabc808ef01c3"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - SaveDataFiler (World) (SDK)" id="0158">
+		<description>Nintendo 3DS - Development Unit Software - SaveDataFiler (World) (SDK)</description>
+		<rom name="SaveDataFiler_NAND.cia" size="469248" crc="63618c9c" md5="2bcfd4ea0acff4fe80f558e230a6082f" sha1="7f8cd62cb78f37bc3269d520e38860774b8016e6"/>
+	</game>
+	<game name="Nintendo 3DS - Development Unit Software - SaveDataFiler3DBanner (World) (SDK)" id="0159">
+		<description>Nintendo 3DS - Development Unit Software - SaveDataFiler3DBanner (World) (SDK)</description>
+		<rom name="SaveDataFiler3DBanner_NAND.cia" size="489728" crc="ba695ecd" md5="0bc1ce60786336e98b7b890347959bb0" sha1="2a7532500a30d396910491fdd8e020cb2a461d8f"/>
+	</game>
+	<game name="Nintendo 3DS - Intelligent Systems - Documents (World) (Ja) (SDK)" id="0145">
+		<description>Nintendo 3DS - Intelligent Systems - Documents (World) (Ja) (SDK)</description>
+		<rom name="ChangeMemorySize.pdf" size="441314" crc="faa08d54" md5="338dd859c3706e1b03525a51242441cf" sha1="849de85557834f4415b931119680b0690b8be12b" sha256="3062b5ad137fdb3517360153a19f8b4f63728ac2b2dcd901c680cb374d4d90e8"/>
+		<rom name="CTRToolCatalog_201312.pdf" size="6478398" crc="850ddf55" md5="396ed7af8ea79d95fcc5bcb4c6824f18" sha1="d151260d913830e3bfbc612f893ec577ab42c74f" sha256="9382f2f11de5394231f5de15d4a1387b8d94541558225288030fa85da53ff782"/>
+		<rom name="CTRToolCatalog_SPR_201312.pdf" size="302064" crc="6193a57d" md5="768d74a313843ccb2c2579e2f4e98f74" sha1="3b727a6e0017a43a5dbc15d5061d6755dad63af3" sha256="3f3af77855fcd1c6ad52b96cf81a67497ec05c07b543420b27e82a210bf6e59c"/>
+		<rom name="GuidelineCheck.pdf" size="1561127" crc="dddcba5e" md5="e72accee37be824014e1597760aba9ac" sha1="a09e878f8ef9ddd5360f8fbe80835792e5d45001" sha256="d59b012a1d1572037514b08e03d5e668569a9349de508363ead5795a7ed6c339"/>
+		<rom name="ISFSHIO.pdf" size="735279" crc="402ed105" md5="2efaf10dc3a25f9406658403d467504d" sha1="ec28694be4fb450f0b06a7d5b3b178b7bfde3f12" sha256="ae6a29a693c3d1ab806c25d143ed3733a1235f70187321ee4ae1091b03c648f7"/>
+		<rom name="IS-SNAKE-DevKit_Setup.pdf" size="6299" crc="e10fa000" md5="9784a6b35ad6af5bd45dd6923a5af4af" sha1="4c593d64e025608887c5c25c38bf2fd3005ba045" sha256="155a7720e6711dcff808af839d162c6c5dc01823c7dd14c42f9072cad9bace4d"/>
+		<rom name="RepairCTRCardID.pdf" size="753478" crc="fe34e181" md5="ecc8f0a7f91c4f5924b1c171c7c092d8" sha1="a33d25914dc384c2caebb71b4757ecc38a5e8a03" sha256="62646f7048ba96b02acb2905bfd5f0a7e009664b73e7e1c079dcfd1c82ae3de5"/>
+		<rom name="RepairRequest20140120.pdf" size="376657" crc="159f1648" md5="5de007f2e1cba226966eda67dfcbded0" sha1="ef5619ea540752860bd4454b41a44fb65fc2844f" sha256="755e68b1eeed37a95f1a8a0536fab7732fc570e94b392ef064816b8ce231feb1"/>
+		<rom name="RepairRequestCTR20140120.pdf" size="377214" crc="a31fd9d5" md5="a7ce529f317be94f3469a1297ead191a" sha1="fc7083dba4b277faaa6708bf5101ed4f5b96acc0" sha256="f86b136c05744a0c1ed81644bedebeb95a487f0e0931f5250245d0a16ae0987a"/>
+		<rom name="Screenshot.pdf" size="503985" crc="155e2282" md5="64102e212206e4d36bfce2d012c6d18c" sha1="806814f9695ae244effb5e2519c2d8558eb2ba83" sha256="31291d0d1fb1e35faf1518b2c1fa378287c07a23f04e6137ed616b3c37132898"/>
+		<rom name="SNAKEToolCatalog_201701.pdf" size="1059131" crc="f82327fa" md5="58658f073982f09fed82ba84a2c1cac9" sha1="5083f302ee861ed6104cf9d462f48c3193c21afa" sha256="a8c1b0c4f92f5f482100dca3c959e88cb23acfbbdc8927fe4211751590eb1b53"/>
+		<rom name="SPRToolCatalog_201312.pdf" size="1824242" crc="68b19109" md5="9b56cf7794b8130cc67aef82b5643052" sha1="0dd675e42874b041fec672eb71f985d7b7500695" sha256="f456a5bf3876cca3db5281d098403cd0a6ec1ad2f42ad14ad581497d2825b022"/>
+		<rom name="IS-NITRO-WRITER_Setup.pdf" size="941932" crc="08877db6" md5="ab92a7404bd77368e5536da2ceeeb2a7" sha1="5ba861de3b0348aa53d50440134951e75ecb8bbc" sha256="949dfa731ebae7231bd0958a3d3f3363b75fc36fa02af7e2af8f6cf2981d9959"/>
+	</game>
+	<game name="Nintendo 3DS - Intelligent Systems - IS-CTR (World) (Ja) (v3.93) (SDK)" id="0147">
+		<description>Nintendo 3DS - Intelligent Systems - IS-CTR (World) (Ja) (v3.93) (SDK)</description>
+		<rom name="IS-CTR-3_93-20180808-ja.zip" size="103519309" crc="a6381102" md5="7af07237c0d6293fff897b507ede7e5d" sha1="8c0f120ee4338ed2815357055b524b7265fcd9a1"/>
+	</game>
+	<game name="Nintendo 3DS - Intelligent Systems - IS-CTR-ImageTool (World) (Ja) (v1.5) (SDK)" id="0148">
+		<description>Nintendo 3DS - Intelligent Systems - IS-CTR-ImageTool (World) (Ja) (v1.5) (SDK)</description>
+		<rom name="IS-CTR-ImageTool_v1_5_20140723.zip" size="2223045" crc="aaaeddf9" md5="82345f6154867046a412f570d7ed1f39" sha1="3e2f213b98c692b94b8fca0af057585161a34d81"/>
+	</game>
+	<game name="Nintendo 3DS - Intelligent Systems - IS-CTR-MediaFiler (World) (Ja) (v1.10) (SDK)" id="0149">
+		<description>Nintendo 3DS - Intelligent Systems - IS-CTR-MediaFiler (World) (Ja) (v1.10) (SDK)</description>
+		<rom name="IS-CTR-MediaFiler_v1_10_20140722.zip" size="846625" crc="26488ac7" md5="8bf615198f57e5dedb1b3bf489d9f22e" sha1="26346fc9022685fd52e3da3f5e4b471188a8f3fc"/>
+	</game>
+	<game name="Nintendo 3DS - Intelligent Systems - IS-CTR-SoundStreamer (World) (Ja) (v2.10) (SDK)" id="0150">
+		<description>Nintendo 3DS - Intelligent Systems - IS-CTR-SoundStreamer (World) (Ja) (v2.10) (SDK)</description>
+		<rom name="IS-CTR-SoundStreamer_v2_10_20140225.zip" size="697506" crc="298de7ea" md5="168b7a440ef0288b278607903292855f" sha1="228f2ce79c383681172a267491d283b98c58c516"/>
+	</game>
+	<game name="Nintendo 3DS - Intelligent Systems - IS-Nitro-Writer (World) (Ja) (v2.30) (SDK)" id="0146">
+		<description>Nintendo 3DS - Intelligent Systems - IS-Nitro-Writer (World) (Ja) (v2.30) (SDK)</description>
+		<rom name="IS-NITRO-WRITER_v2_30_16092200.exe" size="10623624" crc="eb7f656a" md5="0043247ef0c08247a6773ea7e8c85007" sha1="e377c373deb8b1ae88cba5c50d17abef2827b698" sha256="651c276c5ab157fc6d8ec62a66fc91a5e27ddf8a1969f178dc5ca1709d6cec72"/>
+		<rom name="IS-NITRO-WRITER_Setup.pdf" size="941932" crc="08877db6" md5="ab92a7404bd77368e5536da2ceeeb2a7" sha1="5ba861de3b0348aa53d50440134951e75ecb8bbc" sha256="949dfa731ebae7231bd0958a3d3f3363b75fc36fa02af7e2af8f6cf2981d9959"/>
+	</game>
+	<game name="Nintendo Dev Interface (World) (En,Ja) (v2.5.4) (SDK)" id="0066">
+		<description>Nintendo Dev Interface (World) (En,Ja) (v2.5.4) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_5_4-20210323.zip" size="75925335" crc="29fc18ca" md5="35ada2235efc4f62d820001c50ba52bb" sha1="6dd7304018e7ca34028f5d874d362cd29fb05482" sha256="a593029d03d82764d9e038a8016b280e619f7b0e432d30f69ab5d8deb21a700d"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v1.9.3) (SDK)" id="0129">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v1.9.3) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface-Client-1_9_3_20161220.zip" size="76209780" crc="68aacf28" md5="d2cdf6ae0b6d97e5970298ce003596c7" sha1="657039416199aa24abf4a0ef3a59cbce153380de" sha256="ee2162d3a4f95807c8787e65e3732a883f2c9734d18f675db97a1c481ca926e7"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v1.4.0.3993) (SDK)" id="0133">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v1.4.0.3993) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface-Client-1_4_0_3993-20160527.zip" size="77037889" crc="a9873fa7" md5="c5805ee0edc2000c81f775f4cd400ca1" sha1="8d49f83cf22fe804d2918cba35621d5ca6985008"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v1.7.2) (SDK)" id="0134">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v1.7.2) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface-Client-1_7_2_20160929.zip" size="76088818" crc="c160f231" md5="3bcdb299f741e550e3dc4880139e3118" sha1="9f16c517e0980887e27f4034ade21c02ca88cdca"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.0) (SDK)" id="0135">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.0) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_1_0-20180321.zip" size="77437809" crc="03beb5ea" md5="63777332f219f7ddba4dfb19ea4b6808" sha1="c25863a53a52dddb0904e3b45ab93547cc44135b"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.1) (SDK)" id="0136">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.1) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_1_1-20180406.zip" size="77386684" crc="0b04ff34" md5="ce57c9eb7956b3a3b607b53218417f9d" sha1="32b5e970096529dc93b8e96a624e9b499325f981"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.2) (SDK)" id="0137">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.2) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_1_2-20180522.zip" size="77150704" crc="89f2a469" md5="816568554ad598abe94bb10eefbae4f9" sha1="76cf292df32669a5c30b17596deb899ef66b6bbc"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.3) (SDK)" id="0138">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.1.3) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_1_3-20180607.zip" size="76822010" crc="43ec4b76" md5="ab0e53c01ec3630173a05a79975574ef" sha1="b9c214c31cf19bf5637e47aa06e594bf711b2f83"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.2.1) (SDK)" id="0139">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.2.1) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_2_1-20180809.zip" size="76977692" crc="3b47a0f2" md5="2fcc7ff45a62e0ea1f443b16a257591c" sha1="d8330993d969153d3263e39ccfac1d6522160ba9"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.3.0) (SDK)" id="0140">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.3.0) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_3_0-20181023.zip" size="97960394" crc="c77e30c0" md5="70de57b875312d97c5d8a4fb0658ecbb" sha1="e566120bb1d0bce2ab80636cc2dd810366f53ca4"/>
+	</game>
+	<game name="Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.3.1) (SDK)" id="0141">
+		<description>Nintendo Developer Portal - Nintendo Dev Interface (World) (En,Ja) (v2.3.1) (SDK)</description>
+		<rom name="Nintendo_Dev_Interface_Client-2_3_1-20181130.zip" size="98119633" crc="01cecbff" md5="b021b0a4f29018a1fcc6064ce41b4623" sha1="b492f2aad36552e21e286dd220a0282f25ec02d5"/>
+	</game>
+	<game name="Nintendo DS - DS-MRC (World) (En) (v1.26) (2011-09-06) (SDK)" id="0206">
+		<description>Nintendo DS - DS-MRC (World) (En) (v1.26) (2011-09-06) (SDK)</description>
+		<rom name="DS_mrc_EN_126.zip" size="807984" crc="15c094e1" md5="20de1e9031cc23166255a2ee1c24a97e" sha1="c428ce6e9537d76f07e95f4d27ac35362b0ff292" sha256="0de66068451201c90538746d28fb46c12ad98cbf2efa9ee694143eafbc496dd2"/>
+	</game>
+	<game name="Nintendo DS - G2D Sample Program (World) (En) (2007-08-21) (SDK)" id="0207">
+		<description>Nintendo DS - G2D Sample Program (World) (En) (2007-08-21) (SDK)</description>
+		<rom name="G2D_ProgramSample20070821.zip" size="658369" crc="7b4ebd41" md5="926516e44e4cadc926e1ad038465a23b" sha1="19fb50e0b28c6da3e33d5988259390fc5c1d9544" sha256="9e0192b00cdc1c28128231bd4e0f07c14cc85340723ff4e4fd5c3051a9184256"/>
+	</game>
+	<game name="Nintendo DS - IS-NITRO-DEBUGGER (World) (En) (v2.03) (SDK)" id="0208">
+		<description>Nintendo DS - IS-NITRO-DEBUGGER (World) (En) (v2.03) (SDK)</description>
+		<rom name="IS-NITRO-DEBUGGER_v2_03_10042500_EN.exe" size="13928100" crc="7e2ea36d" md5="926a3fd429c30a0b8fb6ab3792ebe32c" sha1="4b6cf49867dabe8287d13e8e8b393c01a1230dc3" sha256="3b101c79f8e22c612a8f3081d5b7de95f2c9bd3ef9fad6870e22a7b2b21684d9"/>
+	</game>
+	<game name="Nintendo DS - Microphone Test Sample (World) (En) (v1.2) (2008-09-29) (SDK)" id="0213">
+		<description>Nintendo DS - Microphone Test Sample (World) (En) (v1.2) (2008-09-29) (SDK)</description>
+		<rom name="MicTestSample-1_2-20080929.zip" size="188285" crc="348b464e" md5="863e814bc73aa4b12aba518dbc3457ab" sha1="6cf84ae6e8cbe6e624fcee61ef6e087a261c09e4" sha256="cabb200dbe98ab5a9b861e5d9e6139fc10323fc1c3b3a76f3b0938d676c4c286"/>
+	</game>
+	<game name="Nintendo DS - NITRO SoftKeyboard (World) (En) (2006-05-08) (SDK)" id="0214">
+		<description>Nintendo DS - NITRO SoftKeyboard (World) (En) (2006-05-08) (SDK)</description>
+		<rom name="NitroSample-SoftKeyboard-060508.zip" size="619092" crc="5d9fbf19" md5="4ee4d6038e6166d488a16172989e2356" sha1="2e88957ea11cc3752bd7f2a9d78bd17a67e0d9fe" sha256="8ef9a9d5633dd23a76af1aa01feafdc05fff017ef71a6b31a55f8232ac6149fa"/>
+	</game>
+	<game name="Nintendo DS - Nitro-DWC (World) (En) (v1.2) (SDK) (Pending)" id="0161">
+		<description>Nintendo DS - Nitro-DWC (World) (En) (v1.2) (SDK) (Pending)</description>
+		<rom name="NitroDWC-1_2-patch-plus4-060825.tar.gz" size="11804312" crc="5d3dd09f" md5="443266436c6073dae36963f735736a7d" sha1="65f7cb44c95992e414a5ad44f6e9747fb1ce09f9"/>
+	</game>
+	<game name="Nintendo DS - Nitro-SDK (World) (En) (v3.1) (SDK) (Pending)" id="0162">
+		<description>Nintendo DS - Nitro-SDK (World) (En) (v3.1) (SDK) (Pending)</description>
+		<rom name="NitroSDK-3_1-060511a.zip" size="59341722" crc="359a9368" md5="1dc75350bb962dd830d3d9c9b5091e2c" sha1="02b86334450b7d45231b130295a8b797abcc85c6"/>
+	</game>
+	<game name="Nintendo DS - Nitro-SDK (World) (En) (v3.2) (SDK) (Pending)" id="0163">
+		<description>Nintendo DS - Nitro-SDK (World) (En) (v3.2) (SDK) (Pending)</description>
+		<rom name="NitroSDK-3_2-060901.tar.gz" size="58718145" crc="3094bd1b" md5="9839f8216a93ddf2280c1dbbb21364e0" sha1="ce08b4dbe7caa0a2c501c862b7e5fa1e34f43f67"/>
+	</game>
+	<game name="Nintendo DS - NITRO-SDK Wi-Fi Library (World) (En) (v1.1) (SDK)" id="0164">
+		<description>Nintendo DS - NITRO-SDK Wi-Fi Library (World) (En) (v1.1) (SDK)</description>
+		<rom name="NitroWiFi-1_1-060616.zip" size="2627423" crc="e3ddba1a" md5="c29aed6bacd05bd9cdd435d3df6e46c6" sha1="5233396a0807530eed380a545437314a45f9c496"/>
+	</game>
+	<game name="Nintendo DS - TXLib (World) (En) (2005-07-01) (SDK)" id="0223">
+		<description>Nintendo DS - TXLib (World) (En) (2005-07-01) (SDK)</description>
+		<rom name="TXLib-050701.zip" size="2302446" crc="152c1bc7" md5="2dc258144eaa874c2df7c23a2da56665" sha1="438be009195ce4825e5d8575f8dcfd91974ce13d" sha256="74fc3e936bc1c28f981e2bbba08eef1f5a2181b495e74e2220c8762fae44ac2e"/>
+	</game>
+	<game name="Nintendo DS - VoiceChat Library (World) (En) (v1.0.1) (SDK) (Pending)" id="0160">
+		<description>Nintendo DS - VoiceChat Library (World) (En) (v1.0.1) (SDK) (Pending)</description>
+		<rom name="libVCT-1_0_1-060714.tar.gz" size="861005" crc="f0f859ff" md5="d207e778303a1aceca5e719101601c98" sha1="1a7668e27f5a8dbb85d2b2e7c750a0664d9664e8" sha256="5ef2a3f3bc70489ca7cf1e684923eb419887cf7305b0846b2aa77c823fe208ec"/>
+	</game>
+	<game name="Nintendo DSi - IS-TWL-CAPTURE (World) (En) (v1.21) (SDK)" id="0210">
+		<description>Nintendo DSi - IS-TWL-CAPTURE (World) (En) (v1.21) (SDK)</description>
+		<rom name="IS-TWL-CAPTURE_v1_21_10012820_EN.exe" size="11225888" crc="b03f58d8" md5="67f5a38ad9c968619ae24ceb736bd4a9" sha1="1d024af387fa7395419fdc94c5f52e28e8606e54" sha256="9feb6613884fef37cd1bb71efffb1224db95cb479ea48bfba34f1525d9e3cac5"/>
+	</game>
+	<game name="Nintendo DSi - IS-TWL-CAPTURE - Setup Manual (World) (En) (2009-09-03) (SDK)" id="0209">
+		<description>Nintendo DSi - IS-TWL-CAPTURE - Setup Manual (World) (En) (2009-09-03) (SDK)</description>
+		<rom name="IS-TWL-CAPTURE_Setup_Manual_20090903.zip" size="1174408" crc="39b7635f" md5="ef5cb234c2445dbba3dd5bd16c48b54c" sha1="9e366ee95ad3f0fbf3071b87d638306a9a8a64dd" sha256="df804037d0846d8c1b0f33b7760d6809db52280f20fa1004c5101af9d9b062a7"/>
+	</game>
+	<game name="Nintendo DSi - IS-TWL-DEBUGGER Setup Manual (World) (En) (2009-03-03) (SDK)" id="0211">
+		<description>Nintendo DSi - IS-TWL-DEBUGGER Setup Manual (World) (En) (2009-03-03) (SDK)</description>
+		<rom name="IS-TWL-DEBUGGER_Setup_Manual_20090903.zip" size="749628" crc="61fc882a" md5="8d78b30f00dee6c1d7ea047495e2e4bf" sha1="b0ea7d411d0054fbc002e7d26805f2831920dd25" sha256="363b09b9d48cb50c69baec5065706eebebc8a4d019c65f2847f4a9bb2b6fbcee"/>
+	</game>
+	<game name="Nintendo DSi - Nintendo TWL Programming Guidelines (World) (En) (v1.5) (2012-05-15) (SDK)" id="0215">
+		<description>Nintendo DSi - Nintendo TWL Programming Guidelines (World) (En) (v1.5) (2012-05-15) (SDK)</description>
+		<rom name="TWL-ProgrammingGuidelines-1_5-20120515.zip" size="817672" crc="ba4ee998" md5="0943ec4f1cc33771bc2f1b16d7dd985c" sha1="21a988fa570545711f27a4dc0e395f77d15900ad" sha256="20d70392852e62ec59ab0b27e1d382e443ae5b85cde9547e63ee3026f9a2bb78"/>
+	</game>
+	<game name="Nintendo DSi - TWL Banner Viewer (World) (En) (v1.0.2.0) (SDK)" id="0220">
+		<description>Nintendo DSi - TWL Banner Viewer (World) (En) (v1.0.2.0) (SDK)</description>
+		<rom name="TWL_Banner_Viewer_1_0_2_0.zip" size="3205977" crc="b39d865d" md5="1049c640f6559607b3276aa2ae248386" sha1="35a82470b9a627436536ad45cfd8c3115fe902a5" sha256="23c1db2a7af1e34d8f2f63cfe47620ada522a1d5cb8e38bad7e8478ce60a293d"/>
+	</game>
+	<game name="Nintendo DSi - TWL Battery Icon Sample (World) (En) (2008-12-05) (SDK)" id="0221">
+		<description>Nintendo DSi - TWL Battery Icon Sample (World) (En) (2008-12-05) (SDK)</description>
+		<rom name="TWL_BatteryIconSample-1_0-20081205.zip" size="43610" crc="4737ed61" md5="c1a1b4bdabcd15e2dae3ef991df9c434" sha1="5a2ac0b666e196e773820aa6f13cbf4bbe1db65f" sha256="be19fa882b59f71fad5ea7bff7fdb3fcdaf6dd2aa81985dc58a13e6d08bc78c4"/>
+	</game>
+	<game name="Nintendo DSi - TWL MasterEditor (World) (En) (v1.10) (2011-04-22) (SDK)" id="0212">
+		<description>Nintendo DSi - TWL MasterEditor (World) (En) (v1.10) (2011-04-22) (SDK)</description>
+		<rom name="MasterEditorTWL-1_10-20110422-US.zip" size="3083404" crc="43fd5a0b" md5="fe204ecefdd0e6d5dea9af6df3e8077b" sha1="c3f609ffe4b154a06232fa828725d332c230fe24" sha256="850c264e469fa06c7bb91aa83b8e347c177096e32d63a802e704aa00ffe4c086"/>
+	</game>
+	<game name="Nintendo DSi - TWL Picture Format Checker (World) (En) (v2.1.0) (SDK)" id="0219">
+		<description>Nintendo DSi - TWL Picture Format Checker (World) (En) (v2.1.0) (SDK)</description>
+		<rom name="TWLPictureFormatChecker-2_1_0.zip" size="58084" crc="258d3c27" md5="e25a6122a661fc47a2209c0e9904d860" sha1="f62e81c48b9cdba2bac4dc780d3947168ead0177" sha256="71c9a84d333bf87ec032cc8fad7b124bad1efbab9be0769d5fc8504c0907041d"/>
+	</game>
+	<game name="Nintendo DSi - TWL Volume Icon Sample (World) (En) (2008-12-05) (SDK)" id="0222">
+		<description>Nintendo DSi - TWL Volume Icon Sample (World) (En) (2008-12-05) (SDK)</description>
+		<rom name="TWL_VolumeIconSample-1_0-20081205.zip" size="44985" crc="cd9a41e3" md5="28bcc3c784daee7cbaecec5fc768f16e" sha1="70d0da911e693de5ff9629c5f7fdc124e7c809fc" sha256="dfde7499f83714b8fbb1356f46d53127914724dbd3eb706c8689f40d1d6cc9aa"/>
+	</game>
+	<game name="Nintendo E3 2021 press kit (USA) (Press Kit)" id="0143">
+		<description>Nintendo E3 2021 press kit (USA) (Press Kit)</description>
+		<rom name="AdvanceWars12ReBootCamp.zip" size="36625239" crc="dd5163bc" md5="d92afa5fad47adacdad7bf066348e32d" sha1="7a454671af657d2e1ed70e906acdbabd3b5e1e68" sha256="80601aa617cdde317119207b3570c94728fa50006c7e47e228cf9e317974c572"/>
+		<rom name="AstriaAscending.zip" size="25998748" crc="537f3451" md5="e3fa4c0f9b730332cfaedf13c0289ca0" sha1="b6b9e04f5784f93ddd33fb6da6771399b006752a" sha256="76668b2d09f6c636f76cf64e6e10aa0822044807d72de54c3938397948cfb06e"/>
+		<rom name="CruisnBlast.zip" size="17449213" crc="b39397b7" md5="c4a124443ccd8b8940ed526d66cbd63f" sha1="79798119792c0ccce1dde366e2cbc423a313fe94" sha256="4470b5352adf0c2aaf90740d06540b4f95a9f37c2b5d91fadf8bdbeef9285aaf"/>
+		<rom name="DanganronpaDecadence.zip" size="16051349" crc="c4519e56" md5="5c2070fbd06d0712ea01f5bfbc684ec9" sha1="efc29b40fd748cf5df01ddbb47b6689a5f9c4a96" sha256="123db42bbb8481e3b29a7814da3ab9b0e3facd7668a08623c88ab024c1b45b52"/>
+		<rom name="DanganronpaSUltimateSummerCamp.zip" size="2578595" crc="b1adf998" md5="d89d29ca155ca32db75ca87b6343e55d" sha1="bc86d3649235a379a78c8418944a67b670e5afd2" sha256="f0165cab31fe3d8acf7955492c817e65131c829a6fe877c30566a3835b230710"/>
+		<rom name="DOOMEternalTheAncientGodsPartOne.zip" size="9770196" crc="6c9bcc06" md5="54ab7caa0bb5364a75e1cb97c34cc328" sha1="37ff33525c14e99890c980bd8935eff2e1f62198" sha256="e7fa3b47b7530556d7e65abd95108aab87741e63aea3d005f0f460e9cc36e054"/>
+		<rom name="DRAGONBALLZKAKAROTANEWPOWERAWAKENSSET.zip" size="2813379" crc="6818c0fe" md5="f286ec6c1ea49f515b25969cb3feca77" sha1="96c34ea84381717bce1563a3e1f0635b75890041" sha256="54a6906231448524ff7a2bee9547f24a16f36e5a1849c7fa37beac571a53ad40"/>
+		<rom name="E32021NintendoDirect.zip" size="40364222" crc="5d709a0f" md5="febeac7f28de7c2eec945df58c3e864a" sha1="7fd45c1495faade70653f5822bc69d307b159a72" sha256="6757e26c98a8d81dd25365f7b55d66bc121bee119effae331df56d0b78ac3d0b"/>
+		<rom name="FatalFrameMaidenofBlackWater.zip" size="5485760" crc="94afd120" md5="4d36184116b16f70ae6af9caf1753222" sha1="8bd02d134a25c403adc7570f27566b5471f4b69c" sha256="3cda46d333d90f5546b71e3c5eb799dede9dd10ecd37ff4044a1b4d94965179e"/>
+		<rom name="GameWatchTheLegendofZelda.zip" size="48232096" crc="38c09ce7" md5="3910e42e968aa3972a2ab7dfb2739821" sha1="1c773e7223f8d4fb3227526b7fc870ac31001563" sha256="df4e7e1c96a202495cd32148b786fd2b0fe4426792b31ced711404847f4bdc76"/>
+		<rom name="HyruleWarriorsAgeofCalamity.zip" size="115262840" crc="e9f82b98" md5="69fbc495e5c57ae6962b870903606657" sha1="10c3cd7db896e73f7ab18f6def8c16b7a4707a57" sha256="de37b1519a1fe319e49dc4b72fa74860334f1c5409334538ccb85eb0b1e3fb49"/>
+		<rom name="JustDance2022.zip" size="2559230" crc="3216f470" md5="55f4be098b37608a3af562976bec6229" sha1="1be48b2c35e6d9764585e604a20cd49348a5c717" sha256="a5b5fb15518d906e4d9907330b7652539153c1ef76d2a1d7ef19dde56c09fac6"/>
+		<rom name="LifeisStrangeRemasteredCollection.zip" size="13469176" crc="c8e74a5e" md5="c3317ee338469175c7c2ea184de0040c" sha1="e94b331b8cd36309a01caf7f55f34bec05f3b0ff" sha256="3e7cde17c04efbff16d415e7e033de765ac6f829e5d0e565f8f0b46936413b3e"/>
+		<rom name="LifeisStrangeTrueColors.zip" size="2533953" crc="fa3ef155" md5="dade4eb175f12f0504dfbe063013d6fa" sha1="a730985e5d5588a7bddd7c709f04551d3d9e156e" sha256="5294abd973c707846015b198796606c744b4147161709c3e8e73b361b65d25f4"/>
+		<rom name="MarioGolfSuperRush.zip" size="96631247" crc="284721fb" md5="865ab4676a118de119ac854c4e4a2354" sha1="c42486a3879bf15f6b05bcc91b93ee9877ad3e72" sha256="81a2a464c37221e6294504aa4325d2ecfaefecd981dbd848e926751371828ad1"/>
+		<rom name="MarioPartySuperstars.zip" size="246540657" crc="5d4176ae" md5="3af0aaad8248a204dd2157b9a2c04099" sha1="b7c1fc0c4cb9144f2351d3f78d7870790e5deabe" sha256="7034f684a3f6d2f6f9447aca068910dd33aa10392a39dddd135482e229fbedbe"/>
+		<rom name="MarioRabbidsSparksofHope.zip" size="60380017" crc="69657bb6" md5="546104ecaeca4931385273723c750f9c" sha1="cfb662dd161dd16b4ed31c1c618d653f83954fcc" sha256="539ee98a556cd0ef15afef5674f6b33c5facae05762cc2566899b9928204d9f2"/>
+		<rom name="MarvelsGuardiansoftheGalaxy.zip" size="2982456" crc="9326aab9" md5="be1c538f09fad78e8d347ed54f857555" sha1="156ba3312e8bafcfb576fbaf2d45383d77b59d6f" sha256="2222567e8e87181a3e525e57259db36a8f00964f1cf953b1dbbc3a9a56376fa5"/>
+		<rom name="MetroidDread.zip" size="287762193" crc="e2268b43" md5="42227083cc4c7e123e806361ef9156f5" sha1="39f20cdf527ef50f6a5391c33bcfff1da9476703" sha256="8ad981df3e8311e0207563a4bcac0f0f489766809a19c8f13885941dfe4eec60"/>
+		<rom name="MonsterHunterStories2WingsofRuin.zip" size="21108967" crc="99ea7c61" md5="09d9791cd481b508e33e286f9683f10e" sha1="029737d381c44d9c180af405b719a264bcd8a0bb" sha256="c66edafd733d34082835d02079c340a4c59823ca7a077b333ec5e92fd6acd113"/>
+		<rom name="REL_Nintendo_Direct_E3_2021_FINAL2.pdf" size="222707" crc="c5f9ea30" md5="49f3be443b4e1c22d1623c81cd736c47" sha1="bd8927e305b6e7171d87acc6989b9a93aa035eca" sha256="bf2a48eac89b36ef4ec59fa4edb1a2a193daaffd195400ec28aca8d582c19401"/>
+		<rom name="SequeltoTheLegendofZeldaBreathoftheWild.zip" size="26651991" crc="75c07bd2" md5="a6894261a44dae5b9f342957e7a961a8" sha1="109adf7264c6da826ee0824a1f85650d4dea2c4a" sha256="6bed4de70d56611966937c9b14ce501e7708fcbdec9f4133d30c6968579e3e90"/>
+		<rom name="ShinMegamiTenseiV.zip" size="21890556" crc="599d1d98" md5="72cd721bc5370fef8617b1c4df5854e9" sha1="2bdca17da39c503e43748bec015bf18205253b52" sha256="170b2efd9270c03426131a8fcd48fbdb666beba4b3365f56827ef86aef2db6b8"/>
+		<rom name="StrangeBrigade.zip" size="196483410" crc="c612fcdb" md5="8999746a301854c2f7bf67e6b08695ae" sha1="d5919d8b59c57e365e9d47425685daf8d3aa9753" sha256="c8e51865740ca6da58adf340fc7ee08e4360c2160fe1b68d121d1a1071f1ddd4"/>
+		<rom name="SuperMonkeyBallBananaMania.zip" size="15317164" crc="fc3a2d8e" md5="cca6fb2bdce35f0ed3d2291199103668" sha1="283f52085879e188bb342f49caf83882a56e157e" sha256="e688403a9f4d6be3810e9303c697b7d603b85ba23f8773b98c69738200708c92"/>
+		<rom name="TheLegendofZeldaSkywardSwordHD.zip" size="103759135" crc="7ca724f6" md5="43e73665edc1bacce80a0bc890f558a5" sha1="ad6203325869226042320be9e04a010ff18afeed" sha256="331a52753f5e1b91bcabfb9c4512a512db4407509f752be9638c13e011724b9f"/>
+		<rom name="TonyHawksProSkater12.zip" size="30485961" crc="e0a8b893" md5="9dd7e1ab0d2e954f4a2bdbcc11c35d71" sha1="17845c29d905da2f97901a2b5b25d18ded4dfacd" sha256="305625734b52f4ab673c5ade763d4f2af87533053c46a72355fb3648c336c207"/>
+		<rom name="TwoPointCampus.zip" size="25023402" crc="086d7973" md5="0b4a30089ef7af2bd1eaccb922ee25c6" sha1="156b0a04cbc50ed5a72b6a69ad81be45335a6814" sha256="35e302afcf4bf7e360d3663de8f71a6bbcae15d6fe29627cd41dcf29fcc3ab46"/>
+		<rom name="WarioWareGetItTogether.zip" size="92003918" crc="7961eb26" md5="10d62daea0ad9cd021365dc8afb620bc" sha1="241ed381144937d6ef61d7ee5905b923a4a1389e" sha256="40865666200576e955490a322a3c2d21bdbcc41285de5b802839a1fa0bd0b5b8"/>
+		<rom name="WormsRumble.zip" size="16931714" crc="828ce3bf" md5="75a4c1332faf71ad90554da5d12f6c93" sha1="8b99df77ae346bfd0d047ecd04c7db63a95aa568" sha256="7efec91d024d334f27f8a0ee13cc071ae09e391130278de24d3040f3cf27fe22"/>
+	</game>
+	<game name="Nintendo Press USB (Unknown) [b]" id="0034">
+		<description>Nintendo Press USB (Unknown) [b]</description>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land artwork with logo.jpg" size="2068238" crc="9fc85742" md5="6250ca96f264e341c78af7e71b6dbcb4" sha1="5546d4deee4b28bdbb51cf5c1f7405dc31c59e04" sha256="c119d53693084bd8804ec398930328d786515011169c1ca5b91ceeb76165aca5" status="baddump"/>
+		<rom name="Super Mario 3D Land\3DS_SuperMario_Trailer.mov" size="82258613" crc="eaf9ad7b" md5="1d8eaed63bc7016bf0bc33ec2a222977" sha1="b8ee71a34de573d16c1f4271af026661a8b48cf9" sha256="107128c4502284dc4d93aa7c03eb945a468189066540523b0d263cebd300e1c5" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land screenshot2.jpg" size="19427" crc="ef72a5ff" md5="c6cf7297c18a1f12a5777b46899a222c" sha1="300a5371bd406cbedf91975a423027c9eb0b33c0" sha256="f44ba1d7305bf3256548f444504666b1940aa6d082d58accd39555060d1824e2" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land screenshot.jpg" size="22150" crc="b054d7ae" md5="b45712d0afb74de7c703de51b49d27c6" sha1="12e682ad2064fd543aaa775993c3df70dd7a8a64" sha256="19bea525582bb1c24cdf19c123c7e859d6eecccf828a61808a93db3d2b151efe" status="baddump"/>
+		<rom name="Super Mario 3D Land\Thumbs.db" size="221696" crc="486ac8a3" md5="6e944761c81733046ac51b1262815620" sha1="e7a5453883f88f6b828870ce52e6169404dccea0" sha256="b49d3c55d1e38a463eaa3a98d0bf8489407fc0dc1cdcc153bd04c3d2273175e6" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land Tanooki.png" size="2299268" crc="30d7a311" md5="027e9805a5dc1f65cae936f1b488283f" sha1="fd5f41536e0d522d22431b703950f599c2d8a6b0" sha256="2fc7082b2fdb01fb6e12c2227a5bdeb16987521fd14f8f328db53ce20313357c" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land screenshot4.jpg" size="19367" crc="658e7e35" md5="2b2c267356554a269557d4bac39a9d47" sha1="0ad021f1c7a5d72c9701ab595276d2e53ef1fd49" sha256="ba0a5689f94a12825c4ea48d1326a46d66a717fb21547f9af7700e616a167763" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land screenshot5.jpg" size="22621" crc="282decca" md5="6625218b89a7a61fc3229f204824b40e" sha1="69e0da56fa82a955ee1f0340a090827bd368cfac" sha256="d21867d693847e37a098ed99b22f281ca59dcfe28b455aa78da1357cc9c58735" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land packshot.jpg" size="1646832" crc="f12b3b85" md5="efa5529f0fbbcc48e063afd7bd09765e" sha1="905e1a4258d8525b7d9a33422c20346d15f159d6" sha256="247d844546bbab6b08ffed782d0b4c3aefedf1f6ac27d1ddf19b1a599cbeb5f6" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land logo.jpg" size="1442986" crc="3db635f8" md5="0c306b895d1fed48e9f427eb543dc248" sha1="148dccfbd040dfb952f1c8e22306a882bee4503a" sha256="c3215f12240486eda3fd6004c7428a2ab7afb27341d126073d529d76210681ca" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land screenshot6.jpg" size="18468" crc="98cf992c" md5="4ca27d7422da03b4c05d8fcc8b9350df" sha1="a5c706fb562cbc45b6dee278462473e13dc63d83" sha256="c303ff44fa975ebc0d3569d95d44015bed29146de7b660895fb56b340fe84b2e" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land.png" size="2448181" crc="18a8e243" md5="497f11c6705421e71f8d8c3a9f13cb4e" sha1="5cd93c6e5251584640c6c7eb4afbb8485318ed98" sha256="7b4768228ad4411361f33d0c193658189b8d3fe5682f349bd553ebc1d24af12c" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land screenshot3.jpg" size="21472" crc="ae5aa971" md5="b86ae35b9be93e443a03ae9d052d9183" sha1="313ead0ffc664b3e6751b8bb014bc7341ffa46e9" sha256="8c0f77a720a0854008e70d68db1b10a0b1ef39e0da8045a84f5fbf1cf33c8885" status="baddump"/>
+		<rom name="Super Mario 3D Land\Super Mario 3D Land artwork.png" size="4708179" crc="06f1a1f3" md5="e346d785da41d918bc27078da06c25be" sha1="749dd9f8652f9ad5fe9c858603701f6fa9d29dbb" sha256="7c25d2a9219bf8115563579e5c88d085789c4582df42077da90de237d50d327b" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Nintendo Reveals Details About Faron Woods in The Legend of Zelda.docx" size="16978" crc="d7abb278" md5="8507dc80bb6629b41dd203acc4495d0b" sha1="d25db36e0d9250488530007d4ee574700bd23311" sha256="0cc59a460d641825d5730a225c5abb4d5ad4b8e2b4b43a41706ef01ee15e255c" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Legend of Zelda anniversary release.doc" size="1023488" crc="4f9ec21d" md5="3d9d2ce4f577fb4f237da2e7ce7b6aee" sha1="286578fbe1fbe374c4e6af4de4c3186d0412241d" sha256="a26dd9b27c76eea3bbc5d0e11d7520af829c5d59bfeb19351d2d974c369e9436" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Zelda Skyward Sword launch release.doc" size="63488" crc="8d3382c0" md5="2ae26d87ff5248cd94ddbd4781b3b2ed" sha1="8dafb9cd15c57128cc1712f5c669b42dc05e69f0" sha256="358f0e2b2cc5e65a533d0c94f06bef661f613e82aacee64a8d770843d1544a29" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Character Artwork\Zelda.JPG" size="1616918" crc="f6b41bfa" md5="68fccfe0b5f5ae637228d77d2bf30896" sha1="a886e4bc5b5f464b5692d9a73357d054644771c7" sha256="98ffe98e6dda89754638b451672d28a2da649ef751330e755daa313ab13468cc" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Character Artwork\Link.png" size="8881300" crc="4b9384c7" md5="863730347c248ec2daa63409fca45a03" sha1="80b3065fe6a5bbe54348b54b041c407331bb1bf2" sha256="07eb2e2b71360bf9cf8bbe22b05c427c48d46678d87d1b58943297d193463020" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Character Artwork\Wii_ZeldaSS_3_char05_E3.png" size="11556179" crc="cb180f91" md5="40cf8715b5091836631d702278287df0" sha1="4b807eb4312f4083507ee57843a537b83292c2a1" sha256="bd429a16f72f48860619de2396d19ee0a91f3e73461f08c2b64267cf8a1e38a3" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Character Artwork\Wii_ZeldaSS_1_char01_E3.png" size="18216349" crc="fad4dd7f" md5="7cc87779600fc9a6760271b5f182e85b" sha1="2559c9f11260809cf7c88143144a654013092264" sha256="161193aa0ddb23452141c16dbbb2d9fcccce2ec73239c0fd97c1200e5c0e2d97" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Character Artwork\Wii_ZeldaSS_2_char03_E3.png" size="8805978" crc="a21cf3f3" md5="67bdf10916b4915101725c8466316a72" sha1="55705efba4b0ea3e5c350f36860863c33ad0a492" sha256="dd2e49f294565e54ae88272894bd45138a6fbec9011b15f216844f1a41037cc9" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 11.jpg" size="628591" crc="7b8c2813" md5="3169cd55856736e6093b102ac3993984" sha1="a841f47a102f43e3927dee3cd47249ab0e23c666" sha256="5a3271dfde4aee2aa69b41faabe2635dc48cfc7dffb6b01b546a061e9c26d209" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 13.jpg" size="1151341" crc="93073530" md5="2d058540ba89df14a50c6ca539248b6d" sha1="c3a085b58d335f25900685f31b247401af42ec08" sha256="717190f4c9f93eeb9c08d50ecd06718b0e516ab7912707edf83dc96aa121ebd4" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 10.jpg" size="490167" crc="b08276f4" md5="63ea4ffc2e306b4db339597f5437ed09" sha1="078789729db1ba9783db650177ebd47d8be94c59" sha256="acfcf7b6e07a58722e51a9794894bb514c191b73f1538c20720f61f1ba138efc" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photohraph 14.jpg" size="1616796" crc="eb8d9dc0" md5="8fe361f0192ba320659a4563f8e295cc" sha1="646e824762b877e3144f07be193623b12c0960eb" sha256="401c58b07a2711a620493fe0867b72e3211c6d31d016efb036eb31cfa731c4d3" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 12.jpg" size="1102621" crc="948d14ea" md5="ae49b2dad7b8a2193d5adb0ed7fda700" sha1="e747b272f199b78bc418fe5d2ab929af7df6e7c0" sha256="d9d431b58c72c6f99c92aa85f9dc75819bcccf1fc6fa94fabb9e9c1c761080bf" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 2.jpg" size="1515170" crc="c1e2aa79" md5="d76c833e1a38642b9fedd4ea9b947247" sha1="f96e68dcc4adb4bab124dabf3c3feac7e69229b6" sha256="b3c8b137f81ca4b6b130562949ccb237b4baecf99af665c0feee60a64baa729d" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 1.jpg" size="1054333" crc="3dcb1dd8" md5="e4d7110e873afe5a7f8fab63f4406fa4" sha1="08de538c0249028652ce366d25141ce5126549ef" sha256="1ab5cda51526b46110b095d7884405683b1e1a46f24260fa066e0e5bcad0f4d9" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 6.jpg" size="748589" crc="3038371b" md5="a38b3e5bd064ae09f29ef3a66e88675d" sha1="c25e66a0e91be2b93603a47ac231f19731bace8a" sha256="e695782aad57d0e650066d5e9c55fb321ec4a619c631341ee4b2ef6337ddd844" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 3.jpg" size="1436722" crc="5bb21088" md5="25adb1adc0fa57ca33aeb603ce09e808" sha1="7387f7faf216d5d69436117e7e42ee643e420d5b" sha256="518207467101ec84e244795c81373f36430f3d8f3b642162637596fd8c40fd87" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 7.jpg" size="463843" crc="66f2f2db" md5="20a1841cbfc56d0632705768344bde61" sha1="4f2a9eaf033165eaa0d61b6859a5b0e41d6e777c" sha256="eac332402b69a60e8d8724dfdf7d6a6e4f27ee1b189bfcc8a452e5043bd6b3fa" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 9.jpg" size="473037" crc="b5f11a04" md5="8b15c4726d3bc689bf6b8398966333f0" sha1="924c1a88e52b38b1c6e4631e9dc290d0d234d461" sha256="fb1425cd2f89f43f8bd99845a140dae7225bb37414c4e74acffab8d9ba197a45" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 5.jpg" size="583422" crc="215f1613" md5="7887b6f56d905cc86d43e26f4153b7d6" sha1="c15a7a3d3a7830b1d54aa0c00846c74aa4e58d1b" sha256="4b9311c4724bcb89968adb8279a85c124658f27d2597dd28bbbed94b9195654c" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 4.jpg" size="1416729" crc="ae8af935" md5="d070dd31be01bcffba53f897bde6a00a" sha1="400a833a675c7826b8dc790545870678331d427e" sha256="0e541a02b4d9446362e0d552062c9a5847154671322ae62589405d5fd406e08c" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 15.jpg" size="1695545" crc="362f3bfc" md5="d521d975a1f0fab6016fc8e4c69a2feb" sha1="a9314912238c15bf06720be6ecd60c7ed1a37224" sha256="6fd3292cf5707995bdb1aa73ff0282b8f8392b2376be4485bad1659623e41332" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Concert\The Legend of Zelda Concert - Photograph 8.jpg" size="529785" crc="73002ec9" md5="f5b03260bf69809b9d68f8af7cbbcf0d" sha1="08377541d65a7ce8c0729e87b66c01443affb9f4" sha256="f93046cbf5e5bb35d4421e8c779f81d5f3dab975153a8a4a47f82401dfa33f33" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Pack Shots\Golden Zelda bundle box.jpg" size="8234080" crc="65fd1303" md5="fe40aa36f3465f75e48c6f884f4a054c" sha1="e38be002f9425381fb98e0fdde484a3fc9297135" sha256="91d63e54e3a66eca7cfde5424c60aa74f26b64ee56bc975bd709cf1e2efe6f61" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Pack Shots\Golen Zelda Wiimote.jpg" size="607355" crc="c929adc3" md5="db2b5fdc90fb9eb94df87006bfb3a85f" sha1="d84ac5018cb34872e60c3a5b16dc2c7d31bd6218" sha256="b4457e699e61c4a4929684ceac8b15c851f9e0d9076a934361e7b24782ac8fe1" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Pack Shots\Golden Zelda disc package.jpg" size="4189920" crc="f6f1901a" md5="a5c603d07dcb8c47b031a2bfc4f5a42e" sha1="8d6f0bf8ae54bd6a5dbcbecd91f2201ea153ae5b" sha256="7361feed2b3d8c93b9c3d372ecdd02f6a455be1ee8bdce753f456f0a5453baa5" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Logo\ZeldaLogo_GradiantGold (2).jpg" size="475852" crc="049d3eb7" md5="bc938010a2bcfb9d37d6bc0a7421f1fc" sha1="f86b3a5583aaf8b19dc961fe274d7b0934ce05ce" sha256="1bbed3b034a359ebb074245d58ae8dee77597755991eb5fcad5d3e1fa2e3fe79" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56118_RVL_ZeldaSS_08ss14_E3.png" size="1445030" crc="026110c0" md5="03d9fc42e83b37292ccfdd484f46d0e3" sha1="060c01885f19d3eb90780fffeae356d9da966e49" sha256="4bc181d3daa002e409fa2bc5913f2c9cf58b87cbae2534b2df6c981cbc625201" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63630_Wii_ZeldaSS_3_scrn09_E3.bmp" size="1110872" crc="66ff77dd" md5="669bd7104072145d8425e07691c8ce59" sha1="0c80ebbd01c302bc9b39f11bd232a4d199924d2e" sha256="2bae7827117146f9a0ee7b802287fd0acc98da24415dde469aefe8ac1c5c8f6a" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63632_Wii_ZeldaSS_4_scrn11_E3.bmp" size="1110872" crc="ee7e012e" md5="e605c633c5d65e8b09294cad5d68545b" sha1="da868ecbc87fcc5c68193d56f63ef6304b3956ef" sha256="f7985469ae721c56322040d4ca2f88ff536f4458395416b5090809264743a9cb" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56106_RVL_ZeldaSS_02ss02_E3.png" size="1748292" crc="a0157cf2" md5="ad8613b19bc299efba3c9594ccce19c9" sha1="a3dade81718f61afeeec5d5265a119e4d64aaebd" sha256="de29f22c1f1e7dd0a05ba86816b19ab195403b960984e0df3695d26db977c4d9" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63626_Wii_ZeldaSS_2_scrn05_E3.bmp" size="1481144" crc="ac7d692a" md5="8614fd4455c6195281a838c480db6547" sha1="6fbd4c90d69da60b9c7641acb39d55183012dd12" sha256="96dc6a396c45fb7d8b223754d50e7e63bbeaca54b8ffd38d9439e50765ff7b88" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63623_Wii_ZeldaSS_2_scrn02_E3.bmp" size="1481144" crc="d6946679" md5="cb083015f6ea6cb120169afee07818f2" sha1="c31092978082c3288f98d6ef83b015159eb12231" sha256="98eed4d4a2e1b849c25f9ae16fb34b7e3d8a9812c4fdc446cd89303161ad1ef7" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56117_RVL_ZeldaSS_08ss13_E3.png" size="1980522" crc="a8b6346d" md5="0fed0fdf899a6c4cec9016d5ebe03f01" sha1="c3cc78ce145f144786c63df873b8228e15402fe3" sha256="350d639eb8309925063a611f389128398114d2edc8e05ce5e4a8056a1ec0948f" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63633_Wii_ZeldaSS_4_scrn12_E3.bmp" size="1110872" crc="42c4d431" md5="135517397851c2270b34624892ac75ff" sha1="688f0c971e39d4d9592bb63150920a9ae76dc7ed" sha256="1086704fdf182e8b25381c1a5d2b65c8576511156a3168d76597b63e9130f7d1" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56120_RVL_ZeldaSS_08ss16_E3.png" size="2041058" crc="2804f9ee" md5="b3266f885abeb724e0ed44a82b3f97f5" sha1="5851f1659d927ebfe14862f1528f433397433076" sha256="b2fed0f3ba71b89b5a02f029f465403b8381891e0015245c9c9e5e3531723a91" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56107_RVL_ZeldaSS_03ss03_E3.png" size="1773997" crc="1dd05afb" md5="5623f1c6d4988b0e7155e768fb320b48" sha1="5d69b8526917819cf120cd36eb20ec00521c1b4a" sha256="ffa7ed96d5092e0c70600b63ea61caf334766b9c51602486282ce8286347baf5" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63631_Wii_ZeldaSS_4_scrn10_E3.bmp" size="1481144" crc="abce47b0" md5="42ea0c65141c3aff8667fd19b0e231f7" sha1="5dfda27db9ee7b6e444d556be80285d88aeaae17" sha256="69e97080bdd78fb745583595dd6a3fcb5f18c5dd8687eca2be819f35657d6535" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63622_Wii_ZeldaSS_1_scrn01_E3.bmp" size="1481144" crc="97940a8d" md5="db40472f21ad64d951f73ad9b1820b13" sha1="b3c679cb897ac9fc8ebbd933cc5e7b4d15c08f90" sha256="6c92c6d92cab57742171ebd334b735ced5f0964d8ec9c2e0b5f5975cf2e7dda9" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63625_Wii_ZeldaSS_2_scrn04_E3.bmp" size="1110872" crc="4e981675" md5="b41dddaf92c456fdda5abc23fdf6be51" sha1="db07785901a7d27d31f5763fb8a55b4192ec6b51" sha256="998bdfd3049fb8664bdc2c99956bf1239c5a1b50b37fc5d1e1fb2563c2e8cc42" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56116_RVL_ZeldaSS_08ss12_E3.png" size="2126535" crc="14b75c1b" md5="7e18dff02e5ec87f4529afbe41487ec2" sha1="525fa388a0be43889622f5cc480d97081cc050b9" sha256="9229d89ee8472f424de7fe55bf115eb08f025a9279bb0a048a187dad9dcfff5e" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56115_RVL_ZeldaSS_08ss11_E3.png" size="1990253" crc="437c3414" md5="6f27ef419423b022cd5c46d933f44579" sha1="659cd51bbe10cf2af15ff68baa36714e5a26a413" sha256="6cce9e959698581d00a1a365c9865df91e16ebd30805242d859acc66e77549a7" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56111_RVL_ZeldaSS_07ss07_E3.png" size="2005430" crc="798ea64e" md5="4fe219324a9302284ddf08828c439a8f" sha1="7b159ebd65b4c1411d3b671655fb1d39403fd632" sha256="e0792c8378c88bf81a9beebeadbb7ee46af94ccd2d41eeb293933e815bb3e7f9" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56109_RVL_ZeldaSS_05ss05_E3.png" size="1887714" crc="660b237f" md5="b62a4e89be116118a8817d213d0c2d0d" sha1="251bfc2a8f5fb1ffe70a0d2e3b85314c411af5d0" sha256="089d9cec497041fd146600e5e6ddffafd4a5c8d283d2b94700d975ab5835b1ab" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56119_RVL_ZeldaSS_08ss15_E3.png" size="1961170" crc="3d61ed76" md5="c3a6144948f33abe727975d482068422" sha1="7cf49b4c2804457c6f0b28018cc9551ba4b151ba" sha256="f440f8d2823cd092b1346175e8aea0ff0bc26c67248b43d7a5abce7d2ae43b83" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56110_RVL_ZeldaSS_06ss06_E3.png" size="1969467" crc="5eaa8f28" md5="873cc95592515af6bc7854bdefdcd9d7" sha1="ab8317a45eaf258a083837445d361d125328dc39" sha256="f075a5fa141ada0cd55e2c853f7237c2894356944e89fa848ba69487f4fdbe18" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63629_Wii_ZeldaSS_3_scrn08_E3.bmp" size="1481144" crc="c081e2e5" md5="5daf67a1aac73e8fc5b2186cca00dc6c" sha1="4edb3e472f5efb00e8578f38356c3e586f7e1f33" sha256="b4ce7e4215defcb9e62909c1723fca9c4573e38bd1460b161ceb478366551045" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56112_RVL_ZeldaSS_08ss08_E3 skeleton.png" size="1625479" crc="9415922f" md5="5df1c9e875a67af157fa8be89c1c35ac" sha1="bb685c1d07b018a8579fe80c32c453924c212da4" sha256="1cdfb17a34aaabd671762768e76c39d43477e066f24057792474dcd06e1d6968" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63624_Wii_ZeldaSS_2_scrn03_E3.bmp" size="1110872" crc="578c79a1" md5="bf314aba83bca41d2566aa8248e8e14e" sha1="536d0b5e4e1721d1c9c5a8de2e091b8cb0555cc9" sha256="856e91dbdc5c17aa30d607bf9d523cea4652d92a2b2c53bf3ba3f8c9b5340167" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56114_RVL_ZeldaSS_08ss10_E3.png" size="1994134" crc="8ed3f334" md5="e55c34bc365d9e1e61a1499e2c03f112" sha1="1c4ff328d95f513ef4c150664b290d4c12be2e8a" sha256="5abc509756d43b23b187d9127a1669a3526ac823e0c4e68d3f813198dc2e5668" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63628_Wii_ZeldaSS_3_scrn07_E3.bmp" size="1110872" crc="7ca38ad0" md5="b028f1b2c60403005c58f9cddd0dfde8" sha1="538a0cf96eca01e5e1452edce4f912caa7a668c7" sha256="b06370dfddb4cf230009e9880174c1c87d4d5c1bc52ee20fa4d9789c55ff1c39" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\56105_RVL_ZeldaSS_01ss01_E3.png" size="1998209" crc="bada0191" md5="206a3944439206286ba32cd60fada6c9" sha1="63311a9ef06a8149933a9dc78c5153fa5d0d3fc8" sha256="cf6e764ff825de2c23fc1f261fdcf673a77e09207afe141ed65c6525152c66dc" status="baddump"/>
+		<rom name="Legend of Zelda Press Materials\Screen Shots\63627_Wii_ZeldaSS_3_scrn06_E3.bmp" size="1481144" crc="95905599" md5="d6183ac0ff5be37e2c90cbbc098d58a4" sha1="df1b5fdc02f3c8ff58d1650cf0d9dbeb840550f5" sha256="78fec06a77adc6b189f321bf73ab522f24b3beb3c79410b4620cb37d9e152d49" status="baddump"/>
+	</game>
+	<game name="Nintendo Switch (World) (v1.0.0) (OSS)" id="0068">
+		<description>Nintendo Switch (World) (v1.0.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources1.0.0.zip" size="109777920" crc="4f8bba55" md5="f97457d083042fa829ae5ebe1a4ca0cf" sha1="b77b3a494b8ffff42760c32e6f0ceb96f9331676" sha256="c64e29d0a044f33a27ad8dc79f94df7b1b688b13e91ffe00c978d0d9723ffc04"/>
+	</game>
+	<game name="Nintendo Switch (World) (v2.0.0) (OSS)" id="0069">
+		<description>Nintendo Switch (World) (v2.0.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources2.0.0.zip" size="109782702" crc="aa3cd560" md5="3879169212fd483f30d398da3b216e89" sha1="ff58def4e3a2a34c76a135d4dcbf625df2bdd009" sha256="27288a36153045f93e61a92ba8ffe8bb388430c1d24b98d9a086aca86afb7cfc"/>
+	</game>
+	<game name="Nintendo Switch (World) (v2.1.0-v2.3.0) (OSS)" id="0070">
+		<description>Nintendo Switch (World) (v2.1.0-v2.3.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources2.1.0.zip" size="109781789" crc="fc2ebe40" md5="872456531116a5b1fac686d970906d5c" sha1="d4b2004c434484a0c820be5d70bb7bbeccd8c5b4" sha256="799e17710ad66a03cd9e93664a66fece779e0495070431d9ec6dcb051b2fd436"/>
+	</game>
+	<game name="Nintendo Switch (World) (v3.0.0) (OSS)" id="0071">
+		<description>Nintendo Switch (World) (v3.0.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources3.0.0.zip" size="109943233" crc="94f6395c" md5="a2a63b513d43951dc4a9a89b0e6a81b8" sha1="40a5458a9a35f4f47cd39d9999e54ae1650c2339" sha256="55d0cff599a4f134e2e1935616dc9e705f81c2717e533106659bd2fc9c6ee366"/>
+	</game>
+	<game name="Nintendo Switch (World) (v3.0.1-v3.0.2) (OSS)" id="0072">
+		<description>Nintendo Switch (World) (v3.0.1-v3.0.2) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources3.0.1.zip" size="109943295" crc="6f6d941d" md5="8c03baadcd3907aa7a5e61353340883a" sha1="6e20bd6b8537f76b0d32423881e4345be2f8a0db" sha256="acb5a06838f37d40bf547e2aa66ce8224f7bf3e0bac686c3495914d901ed74ad"/>
+	</game>
+	<game name="Nintendo Switch (World) (v4.0.0-v4.1.0) (OSS)" id="0073">
+		<description>Nintendo Switch (World) (v4.0.0-v4.1.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources4.0.0.zip" size="116969391" crc="061152ba" md5="911e332c425d154810c7b1f678a60e18" sha1="0fcfe5f75236ea3ea90a287912acd052a413b1f0" sha256="ff91ea15a4aeda0d47ed0a992e2488014733a83e7f98274e6056bea244e5655f"/>
+	</game>
+	<game name="Nintendo Switch (World) (v5.0.0-v5.0.2) (OSS)" id="0074">
+		<description>Nintendo Switch (World) (v5.0.0-v5.0.2) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources5.0.0.zip" size="67611427" crc="559eea2f" md5="70e4220818cd3cd927c6f4d965078abb" sha1="16a63a5b0704d7e0718f20fdb68b3ebc26e0ffc6" sha256="d82ebef3a9e63b74889b71887626710d0832feec7f193cd70356d3bf7fa2740e"/>
+	</game>
+	<game name="Nintendo Switch (World) (v5.1.0) (OSS)" id="0075">
+		<description>Nintendo Switch (World) (v5.1.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources5.1.0.zip" size="67626403" crc="8792b632" md5="3187ceea8f3f101c613d073ee1bc0fc0" sha1="96f714ae372514ea842e45da2668ea2af1dc9922" sha256="64707f30f01ca778dacbb051eea31a78b35fa4c3ef6e92ef365f91770e0ef611"/>
+	</game>
+	<game name="Nintendo Switch (World) (v6.0.0-v6.0.1) (OSS)" id="0076">
+		<description>Nintendo Switch (World) (v6.0.0-v6.0.1) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources6.0.0.zip" size="67645518" crc="e87231b2" md5="9a8191c7a59f66253650b588f28e8ed2" sha1="747584587cd8ea2cd0a5735b547c109d355830e7" sha256="714d9ec964e61ddc1f16ec60e99b8aba9e6e5b11c6d2c636aa538970cccf582e"/>
+	</game>
+	<game name="Nintendo Switch (World) (v6.1.0-v6.2.0) (OSS)" id="0077">
+		<description>Nintendo Switch (World) (v6.1.0-v6.2.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources6.1.0.zip" size="67645527" crc="ff144450" md5="c9911133cc2fc4c93514b5cf7b12439c" sha1="6129e4769f638acc16f57a001a9097eddf825e62" sha256="47e439fe3b7c97325e2919fb76832aba6a1e59b5a7713b97e3ff0499e476e312"/>
+	</game>
+	<game name="Nintendo Switch (World) (v7.0.0-v7.0.1) (OSS)" id="0078">
+		<description>Nintendo Switch (World) (v7.0.0-v7.0.1) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources7.0.0.zip" size="67539561" crc="24cbbe82" md5="14990da15bfbb424286e3a03683bd2dc" sha1="163c13febc47ff7d68fd8b9c8a053521319b992c" sha256="61841ef05b4ae438b5900ce78658e6878f8447548773962f58065890d60b263e"/>
+	</game>
+	<game name="Nintendo Switch (World) (v8.0.0) (OSS)" id="0079">
+		<description>Nintendo Switch (World) (v8.0.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources8.0.0.zip" size="67544749" crc="20fa1947" md5="69ea097a51c87530ee6e061284fdac3b" sha1="524a8b178d566dd5dca1d6b6f46bd355f248114c" sha256="b0ba7f10864316b56ca7e4f600c7104b334e7e33107e7737e6ccf0dac955d618"/>
+	</game>
+	<game name="Nintendo Switch (World) (v8.1.0) (OSS)" id="0080">
+		<description>Nintendo Switch (World) (v8.1.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources8.1.0.zip" size="67548574" crc="b2825f28" md5="62afcd3960bc0f1310fa9003cc055db1" sha1="68b6c640d8a2b1aca5f61705b9fa25287b0ca7f3" sha256="d5509f2b8692b51801ebdfbcf0d26ee00b2de5cfc5e23b6e110143cbe02354f3"/>
+	</game>
+	<game name="Nintendo Switch (World) (v9.0.0) (OSS)" id="0081">
+		<description>Nintendo Switch (World) (v9.0.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources9.0.0.zip" size="142512882" crc="be3a8a3d" md5="343f4ed2df714c0f0896a5c75e8e4cac" sha1="a56521e736a40138661437110428c7b80f19315b" sha256="e0dfc3e9808244178c08355a47ec5a0c5dde4d587a36d0d3f1be0aed5bc01964"/>
+	</game>
+	<game name="Nintendo Switch (World) (v9.0.1) (OSS)" id="0082">
+		<description>Nintendo Switch (World) (v9.0.1) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources9.0.1.zip" size="142546859" crc="c2c7a3a3" md5="ea09e708ac1168b85b9c44f00c178556" sha1="8217d4e939a01ffea56a46540bffa2e6c705c03f" sha256="7067c053fe4ad0d6d9c0e4fe648b1d568134f81a258c30ef270a479eef6eb5fb"/>
+	</game>
+	<game name="Nintendo Switch (World) (v9.1.0-v9.2.0) (OSS)" id="0083">
+		<description>Nintendo Switch (World) (v9.1.0-v9.2.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources9.1.0.zip" size="142452553" crc="3a099eb7" md5="2ec35557b4b4905036dfb5824d78d6b0" sha1="f0450a944d63f564a6a79f70c3ebbe15681eae51" sha256="575b515d341561fc9e704d34d0cdb3ced022ba80978323f694444237ec76a726"/>
+	</game>
+	<game name="Nintendo Switch (World) (v10.0.0-v10.2.0) (OSS)" id="0084">
+		<description>Nintendo Switch (World) (v10.0.0-v10.2.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources10.0.0.zip" size="142470479" crc="d5f82258" md5="4b3364aca97d815dd94adbf87a422129" sha1="69496e8cea7c790d05281e89230d482415f1fa12" sha256="4ca9e2a02600dfd8b893d9fb4eff36e18760230885130c56e915b405f2502707"/>
+	</game>
+	<game name="Nintendo Switch (World) (v11.0.0-v12.0.3) (OSS)" id="0085">
+		<description>Nintendo Switch (World) (v11.0.0-v12.0.3) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources11.0.0.zip" size="209888087" crc="8b215f0f" md5="ce870fc4b7987b6fadfb2219bdacd34d" sha1="1aac654c1876bb619f668ee8040b252c955b2b16" sha256="5a4941d90da477d805f93bcd565f04c05ca011c91da3975ded60ff7518538ffd"/>
+	</game>
+	<game name="Nintendo Switch (World) (v12.1.0-v13.0.0) (OSS)" id="0086">
+		<description>Nintendo Switch (World) (v12.1.0-v13.0.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources12.1.0.zip" size="210017739" crc="aaf23409" md5="a80b6ebd543ea314e7267568cee1b9b1" sha1="ca135077206f21c7480690f3f21e4cdd5206d456" sha256="ebc41ce3b40e65508f097fa6b9faee7ae86431b51957894af0ae63da0ae8e11f"/>
+	</game>
+	<game name="Nintendo Switch (World) (v13.1.0-v13.2.1) (OSS)" id="0087">
+		<description>Nintendo Switch (World) (v13.1.0-v13.2.1) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources13.1.0.zip" size="210033378" crc="9fea06ca" md5="c340e6402567b5df1c9fd987f5d42e99" sha1="e270ccd0c016909f0aec5099755f6624a20c9c63" sha256="629ce98d093a3493fb4c23ed03a02ef631059f7ae4358ee74d7d085263b23517"/>
+	</game>
+	<game name="Nintendo Switch (World) (v14.1.1, Later Version) (OSS)" id="0170">
+		<description>Nintendo Switch (World) (v14.1.1, Later Version) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources14.1.1.zip" size="216344391" crc="fd128fc7" md5="85264d6cee15ef468e45b197504ba2b3" sha1="a442f081ea57f63d994deea767d69cdc3e201404" sha256="395d4199dfb4e7282fa1c3a5becf1a2ecf148e7ee202a5223d3222d9b7a1cc5c"/>
+	</game>
+	<game name="Nintendo Switch (World) (v14.0.0-v14.1.0) (OSS)" id="0169">
+		<description>Nintendo Switch (World) (v14.0.0-v14.1.0) (OSS)</description>
+		<rom name="NintendoSwitch_OpenSources14.0.0.zip" size="216344479" crc="88c59a16" md5="8cff18919a2f7678e78cf991dd061af4" sha1="86b7639ff2ba3a6bc0ea5202b53872ceca77a1e6" sha256="92270e1b3390d9826fc4b5eb62db6c87a7de74dd3f76973ae6ad18fa2fc83419"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.1) (Wii U) (OSS)" id="0088">
+		<description>Nintendo Web Framework (World) (v1.1) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.1_OSS.zip" size="33166655" crc="f10fc74b" md5="4f7f01ba90cfdd5b733448b5e05f16f4" sha1="62a5016bbabcc5a5b81f78861c17e8565a5dec61" sha256="765ccf94ec685436a9a988ad33bbda1dc48ffc43b56f5433cc781a725ac94937"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.3) (Wii U) (OSS)" id="0089">
+		<description>Nintendo Web Framework (World) (v1.3) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.3_OSS.zip" size="33203385" crc="7bf1eab1" md5="2e07352aedf27316961fc507828f9e5a" sha1="95dc88c321cdfe469110a450f887563a7b8e59f6" sha256="0878fe18e5f315b959b1bf2156ebfacfbc18543a9909fb8908a76b8dba614281"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.5) (Wii U) (OSS)" id="0090">
+		<description>Nintendo Web Framework (World) (v1.5) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.5_OSS.zip" size="33258825" crc="20d36c4d" md5="660bd53dfcda1865b82b4e307adbe589" sha1="022a4cebd53c81592c48d047921234ea47f349e9" sha256="ca7bc970b513a543ff47ea18f8da422d56b78fa8c19cc28df5b76ca3a33a7228"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.5.1) (Wii U) (OSS)" id="0091">
+		<description>Nintendo Web Framework (World) (v1.5.1) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.5.1_OSS.zip" size="33312057" crc="8818b28f" md5="a078cdbc593a02a681986395117d798f" sha1="18309e4203986f140b240058f51910324f5df714" sha256="36f4bebccd859872fb6a19e945309ed978b928d298301d2aa63fc3823c5f1d66"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.5.2) (Wii U) (OSS)" id="0092">
+		<description>Nintendo Web Framework (World) (v1.5.2) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.5.2_OSS.zip" size="33312731" crc="fde84153" md5="b4548cf9d76dda111bbc012bcb0368a5" sha1="92246e4ff22bd2e304f4e9d43440c9e1460a534d" sha256="b47177dc1427a843046cd395dd200ab77c6270c0caebcfd1b64aee7dadaf9ecd"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.5.3) (Wii U) (OSS)" id="0093">
+		<description>Nintendo Web Framework (World) (v1.5.3) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.5.3_OSS.zip" size="33312735" crc="fcd750f0" md5="f32290e6512915bc3a7c3446eea6f7f9" sha1="d3442fb54b12ac776f00e9d98709093c516575d1" sha256="4b7cc018eb554ad1e31215f11b3b8e71d2914521ca9d9b0eaf0e7defd0fc451a"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.5.4) (Wii U) (OSS)" id="0094">
+		<description>Nintendo Web Framework (World) (v1.5.4) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.5.4_OSS.zip" size="33312734" crc="637affad" md5="16b0c549477c43fb9ba6d74ccbbc5f7c" sha1="bf4744bc0859b29029a816d8189ea326f32b0490" sha256="4ceb47cae4f836c6c61edc2eeaca105efeba1e64f614a40880cac424a4d82b96"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.6.0) (Wii U) (OSS)" id="0095">
+		<description>Nintendo Web Framework (World) (v1.6.0) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.6.0_OSS.zip" size="30609906" crc="fa7cf60a" md5="f571540f33f591d4313ed91641eafff2" sha1="b9c0d7b2f402367a2422a495abaa4f5611a1d20c" sha256="0508bd360f02b6b3a6d5c137ef7657b090e0be465c7d7611197ae2c1c6a42758"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.6.5) (Wii U) (OSS)" id="0096">
+		<description>Nintendo Web Framework (World) (v1.6.5) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.6.5_OSS.zip" size="33379445" crc="9934d83e" md5="3e0a92ea6718bb9b69d7142b0cee789e" sha1="0257114e554ff9527aacd80a94900bfa9aaec29e" sha256="6af9c43fb47762dfcce941fca95de3c6c84625e6b444852425e6bf583a8cf5eb"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.7.0) (Wii U) (OSS)" id="0097">
+		<description>Nintendo Web Framework (World) (v1.7.0) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.7.0_OSS.zip" size="33377930" crc="34297b80" md5="63e0147fa1cabf81d8444f13923cc6f9" sha1="57e437c6fb790504272d725c2a8d8431c9f227d3" sha256="4a7bbd664f5d2ffad2ffcfcfcf43b16f2a1d58964ede853bd9c53b4062e3a412"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.7.1) (Wii U) (OSS)" id="0098">
+		<description>Nintendo Web Framework (World) (v1.7.1) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.7.1_OSS.zip" size="33377937" crc="38fb0129" md5="983a098536751b75c8a340a11f5cb75c" sha1="74eeb0aff86d6e0ca33acdaf8c28307c00f63698" sha256="a58a7f3fa3f63d3175c78c52f2ceff0d9b440bd72b28f76ced420f630b3eb372"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.7.1 Patch 1) (Wii U) (OSS)" id="0099">
+		<description>Nintendo Web Framework (World) (v1.7.1 Patch 1) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.7.1_patch1_OSS.zip" size="33564823" crc="c35d6467" md5="0ffc8c584ef5b477f8604fa87fee1e42" sha1="cf532f4a25759c8d894508841d86c7813e2d9e43" sha256="15a39b6aa18c6c8ed26e28b673ec3fa2c8c19d8e95b5379c091d49adc578007d"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.7.2) (Wii U) (OSS)" id="0100">
+		<description>Nintendo Web Framework (World) (v1.7.2) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.7.2_OSS.zip" size="33378219" crc="8dbee8b8" md5="6d87680499dd47f4fb3b063c5b30af33" sha1="134b8a78539e31c188c7083a0685572faa5319c2" sha256="278e9f52ab4be5374895e48eb03e5377c35e05606b1464900ff933106976aba4"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.8.0) (Wii U) (OSS)" id="0101">
+		<description>Nintendo Web Framework (World) (v1.8.0) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.8.0_OSS.zip" size="33372127" crc="65f68538" md5="12935208b67092326c5404f787c80831" sha1="c5176395493c5bd31b405c4fdebe910853e7425f" sha256="54651e91672ee7cf34adf0dec97170a90186c6f4161891f03dc9765ab57260fd"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.8.1) (Wii U) (OSS)" id="0102">
+		<description>Nintendo Web Framework (World) (v1.8.1) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.8.1_OSS.zip" size="33389856" crc="3d86b647" md5="22347706f839f3afe442842663802894" sha1="dcd8c84727fcce61d63dbc6ecf92bd691ed4943b" sha256="6d47a88860b7b44918176596b55d40d01bd67d40f8e8f114d229f2140face423"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.8.3) (Wii U) (OSS)" id="0103">
+		<description>Nintendo Web Framework (World) (v1.8.3) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.8.3_OSS.zip" size="33618220" crc="fb30c712" md5="071652c8db3156d8ef7b1a3653ad710d" sha1="db084b8fa86281b8f4dc9baba79092ae2f95e146" sha256="e9002454e472880476dbb0faf8ef248eedac6b718a3b978b9b1da630f0fa5fdd"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.8.3 Patch 1) (Wii U) (OSS)" id="0104">
+		<description>Nintendo Web Framework (World) (v1.8.3 Patch 1) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.8.3_patch1_OSS.zip" size="33815888" crc="005755ea" md5="0d1ceb8ccaf3ab6354871a5238e489ee" sha1="c8f854cc5248c87ff35cf14e30681fe254fa7dfc" sha256="9836d3cdb09ee2522f2e702ef5e5f52eb95544e3ba964eb3238cf462121e2596"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.8.7) (Wii U) (OSS)" id="0105">
+		<description>Nintendo Web Framework (World) (v1.8.7) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.8.7_OSS.zip" size="33874622" crc="cb4871eb" md5="649e9e2f09e5ffe72d0640e271b78e94" sha1="b3015abf6333a59f46672689ce62d83aec26244a" sha256="39528db510783048bce9cadc317b0f6c20406d851970665fbc2f047a6721388c"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.9.0) (Wii U) (OSS)" id="0106">
+		<description>Nintendo Web Framework (World) (v1.9.0) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.9.0_OSS.zip" size="31090520" crc="823e58b1" md5="adec12c66649b9470c6407ba1870bb88" sha1="b11977a91adfdb4eb8740d3242a9b7257c1045f5" sha256="bf24265b4fd72188c4529a1cc20cbbe22bf764598171038a9101ae56d89baff6"/>
+	</game>
+	<game name="Nintendo Web Framework (World) (v1.9.5) (Wii U) (OSS)" id="0107">
+		<description>Nintendo Web Framework (World) (v1.9.5) (Wii U) (OSS)</description>
+		<rom name="WiiU_NWF_1.9.5_OSS.zip" size="31069737" crc="fffd762f" md5="786a85b638b99c3beb56cb4b745f4b7a" sha1="4d566cf4f24f499180dde1d7c73045b5b7851ab3" sha256="7ab836f8b131067246ae89ef0e8fe2312bc1feced0e160b33dbfd2760ec3d2ff"/>
+	</game>
+	<game name="Nintendo Wi-Fi Network Adapter - GPL-LGPL Tekiyou Open Source (World) (v1.50,v2.04) (OSS)" id="0067">
+		<description>Nintendo Wi-Fi Network Adapter - GPL-LGPL Tekiyou Open Source (World) (v1.50,v2.04) (OSS)</description>
+		<rom name="WAP-001-GPL_1.50_2.04.tar.gz" size="84097291" crc="e970c42a" md5="b4140ed6f427d2b53234a9abd61eea0c" sha1="f8980e2bf9f20654b883c03c2e129081c2467151" sha256="60526b10a45de15507fb96e917dd81c214c6908197c547df7fa97ec1f8a603ef"/>
+	</game>
+	<game name="Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.01)" id="0239">
+		<description>Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.01)</description>
+		<rom name="Nintendo_WFC_USB_1.01.zip" size="1014898" crc="e7f64dd2" md5="64b9627dbacf6bea95ad0bdc622481e9" sha1="b9b2cde5f18ff2b5881de3b0b66c731c4a91cb7e"/>
+	</game>
+	<game name="Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.02)" id="0240" cloneofid="0239">
+		<description>Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.02)</description>
+		<rom name="Nintendo_WFC_USB_1.02.zip" size="1026378" crc="f2b60525" md5="9bc49f6c79c73bfe71373fd8e584885f" sha1="5ca984b7ebcb138dad216b4b0f9d40d892d4fe9b"/>
+	</game>
+	<game name="Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.03)" id="0241" cloneofid="0239">
+		<description>Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.03)</description>
+		<rom name="Nintendo_WFC_USB_1.03.zip" size="1028314" crc="e73fb0a2" md5="383fa55dc285d95ee7eea8519835b63a" sha1="3e0a0375513dd2149bcc6c727c4057faf525184b"/>
+	</game>
+	<game name="Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.04)" id="0242" cloneofid="0239">
+		<description>Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.04)</description>
+		<rom name="Nintendo_WFC_1.04.zip" size="1026152" crc="f753db18" md5="5691ac3d69a803e4fa9ae2c0e4d4d35b" sha1="55d66a4e84793431bcbd8c2256848dd0c2cbc479"/>
+	</game>
+	<game name="Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko) (v1.06)" id="0243" cloneofid="0239">
+		<description>Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko) (v1.06)</description>
+		<rom name="Nintendo_WFC_1.06.zip" size="1784670" crc="7448f497" md5="24050c4e5305db5db15166a78ca1cf63" sha1="7d5ddb912b97bbbfbad0c60150171cc16fb6199a"/>
+	</game>
+	<game name="Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko) (v1.07)" id="0244" cloneofid="0239">
+		<description>Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko) (v1.07)</description>
+		<rom name="Nintendo_WFC_USB.zip" size="1790594" crc="514fe99c" md5="f288bceea75f76c2b1aedbd80789a15b" sha1="34b23a39eaa915ba716de1d56bb6cf804562e1f3"/>
+	</game>
+	<game name="Nitro SDK (Unknown) (En,Ja) (3_0-060125)" id="0224">
+		<description>Nitro SDK (Unknown) (En,Ja) (3_0-060125)</description>
+		<rom name="NitroSDK-3_0-060125.zip" size="58349333" crc="c023d994" md5="eed72648a1a10a622ee65b7ee5d3e7f4" sha1="36b7d2f66b828f5575e96c4c689c2aaa592304f6" sha256="b791c9e331bc0b2026c58c8cec0ea74a496b0594ea03c272af3f75b726a656cf"/>
+	</game>
+	<game name="Printable - Animal Crossing - New Horizons 2022 Birthday Calendar (USA)" id="0256">
+		<description>Printable - Animal Crossing - New Horizons 2022 Birthday Calendar (USA)</description>
+		<rom name="AnimalCrossing_NewHorizons_Birthday_Calendar2022_EN.pdf" size="6306587" crc="7ec566db" md5="2d7d0ae4c073f156f00c1f30f63c9741" sha1="f0faf67b6adb8002b20efafe8dbdc5c38a1de51e"/>
+	</game>
+	<game name="Printable - Animal Crossing - New Horizons Gift Tags (USA)" id="0253" cloneofid="p">
+		<description>Printable - Animal Crossing - New Horizons Gift Tags (USA)</description>
+		<rom name="ACNH_FlowerGiftTags.pdf" size="3010383" crc="7716a220" md5="976e25746e3877b24c72216659231349" sha1="14d937a812bc216fb5bdbb7c142e167f7cd25efd"/>
+	</game>
+	<game name="Printable - Animal Crossing - New Horizons Placemats (USA)" id="0257">
+		<description>Printable - Animal Crossing - New Horizons Placemats (USA)</description>
+		<rom name="Animal_Crossin_New_Horizons_Placemat.pdf" size="9401243" crc="d559b6bf" md5="eed926f6042c6248240b14cc35a47d78" sha1="766019fc89d2c681d58edc731cc656e7f40d92ac"/>
+	</game>
+	<game name="Printable - Bravely Default II Personality Quiz (USA)" id="0250">
+		<description>Printable - Bravely Default II Personality Quiz (USA)</description>
+		<rom name="Bravely-Default-II-Points5x7-Card.pdf" size="1357753" crc="92f3f46b" md5="bb14c48674610876906949c9ac45a8f4" sha1="5d7557a5e32c54927ed2246615dbc39c6c269a6a"/>
+		<rom name="Bravely_Default-II-Personality-Quiz.pdf" size="19401300" crc="59a89308" md5="2c0fde3245f4c8a062ea6eff55bf9c3a" sha1="520b66bfcd705706285eea17bb2836a6c3a7838c"/>
+	</game>
+	<game name="Printable - Fire Emblem Warriors - Three Hopes Box Art Cover (USA)" id="0249">
+		<description>Printable - Fire Emblem Warriors - Three Hopes Box Art Cover (USA)</description>
+		<rom name="FireEmblemWarriors_ThreeHopes_MyNintendo_EN.pdf" size="4747216" crc="a0aee716" md5="95b5dc23e7f78cbadd449cb76c06ba73" sha1="4a1b437ecb66632ac27fed8702e317834be3469d"/>
+	</game>
+	<game name="Printable - Mario 20 Bingo Cards (USA)" id="0255">
+		<description>Printable - Mario 20 Bingo Cards (USA)</description>
+		<rom name="Mario_20_BINGO_Cards.pdf" size="5578020" crc="ac852860" md5="3baa2b0a3cf9e76d5a6e45be3dde4200" sha1="b2ab4f875d102fc0eaed7042b5bfa064c57b6070"/>
+	</game>
+	<game name="Printable - Mario Kart Racer ID Card Insert (USA)" id="0251">
+		<description>Printable - Mario Kart Racer ID Card Insert (USA)</description>
+		<rom name="Printable_RacerID-Printable-final.pdf" size="2926605" crc="b549e530" md5="3e43a3a604a1d68a9bc13a928de4aafb" sha1="966925602901af4dd8306bfb4a701f9d1d1d768d"/>
+	</game>
+	<game name="Printable - Mario Strikers - Battle League Strategy Booklets (USA)" id="0247">
+		<description>Printable - Mario Strikers - Battle League Strategy Booklets (USA)</description>
+		<rom name="Mario_Strikers_Battle_League_Tips_Tech_Booklets.pdf" size="4182805" crc="0fcfe654" md5="f642c118a6e7bd3e8084d1b7911b212d" sha1="f8e377b7eb01f40e98086d214708790a3bb9ef21"/>
+	</game>
+	<game name="Printable - Splatoon 2 Splatfest - Octoling Poster (USA)" id="0248">
+		<description>Printable - Splatoon 2 Splatfest - Octoling Poster (USA)</description>
+		<rom name="Splatfest_Octoling_POSTER.pdf" size="5281280" crc="c0298a5e" md5="d4636041fae84e235520a17a874641c1" sha1="14d7872628177cf51f1f55f507e5c11fd91200ac"/>
+	</game>
+	<game name="Printable - Super Mario Bros. Theme Flower Pot Picks and Tags (USA)" id="0252">
+		<description>Printable - Super Mario Bros. Theme Flower Pot Picks and Tags (USA)</description>
+		<rom name="SMB_Flower_Tag_Pick.pdf" size="4346383" crc="b6da1381" md5="f9e3566fc20e918a7ec5b924e394c80d" sha1="0e914239530fb95df8737b0cdac71d2377dfb4d6"/>
+	</game>
+	<game name="Printable - Super Mario Party - Dice Block (USA)" id="0254">
+		<description>Printable - Super Mario Party - Dice Block (USA)</description>
+		<rom name="Super_Mario_Party_Dice.pdf" size="1339062" crc="e62476a8" md5="7692b4311a364608b0dcfb1e82245ebc" sha1="925be67603b40f42a46daa78725c288a482abafe"/>
+	</game>
+	<game name="Printable - Xenoblade Chronicles 3 Box Art Cover (A Set of 3) (USA)" id="0246">
+		<description>Printable - Xenoblade Chronicles 3 Box Art Cover (A Set of 3) (USA)</description>
+		<rom name="Xenoblade_Chronicles_3_box_art_cover.pdf" size="3972532" crc="2cbcbf98" md5="cb9f9c75702fd845e529df6e0e23300c" sha1="103a651cd1b428996dcdbd65a8f633c1ae02faff"/>
+	</game>
+	<game name="Starlight Wii Hard Drive (USA)" id="0051">
+		<description>Starlight Wii Hard Drive (USA)</description>
+		<rom name="Starlight Wii Hard Drive (USA).img" size="120034123776" crc="95574663" md5="ec9e9def4f8b4b36b4211136731a6556" sha1="437e4acd283dfb107c018f29aac5a2e974c777d6" sha256="873c7baa28e5d6bba330f44af71298a1297163044b3709fecf6f529976a69cfa"/>
+	</game>
+	<game name="Starlight Wii Hard Drive (USA) (Alt)" id="0052" cloneofid="0051">
+		<description>Starlight Wii Hard Drive (USA) (Alt)</description>
+		<rom name="Starlight Wii Hard Drive (USA) (Alt).img" size="120034123776" crc="6be9591f" md5="c22451b86dc96ab78f15226b348a02f0" sha1="9ad3d83f1001c3fa5c75bd7b7b8439eb655f1636" sha256="a16288a9b4141c2e2afce95e3839b585d0feec9fd8dd92767d15e4662510edcb"/>
+	</game>
+	<game name="Virtual Console Games - Nintendo DS (World) (v1.0) (Wii U) (OSS)" id="0117">
+		<description>Virtual Console Games - Nintendo DS (World) (v1.0) (Wii U) (OSS)</description>
+		<rom name="WiiU_VC_DS.zip" size="174997" crc="0ce0fe99" md5="3cf2cb266a93edeceb134258ae63c2ca" sha1="6639b2dc9cb66690f38935759a848edb284a6c58" sha256="e435565f5cba764249601153c73123713a5bffed94b9cc84b9e7da6584a00114"/>
+	</game>
+	<game name="Virtual Console Games - Nintendo DS (World) (v1.1) (Wii U) (OSS)" id="0118">
+		<description>Virtual Console Games - Nintendo DS (World) (v1.1) (Wii U) (OSS)</description>
+		<rom name="WiiU_VC_DS1.1.zip" size="219634" crc="8ec70d40" md5="295cf086efe281f39c38fb48d10154fd" sha1="b4d7ecec3daae89adf8124d8077e044c31cc1c09" sha256="beea9d4ce5c070e6ab1b33fc6b6d3717a079e66cecf1269e1a27d444f328aad1"/>
+	</game>
+	<game name="Virtual Console Games - Nintendo DS (World) (v1.2) (Wii U) (OSS)" id="0119">
+		<description>Virtual Console Games - Nintendo DS (World) (v1.2) (Wii U) (OSS)</description>
+		<rom name="WiiU_VC_DS1.2.zip" size="320903" crc="9d1e31ce" md5="85f6c9ade1419c0697a22407c76c2d80" sha1="945d48e96de4d8a67a2c74aff575c1e079465eb8" sha256="c69b05c5ee406c45d0977636646acdbeff991020c811e48c82e022c375f493ea"/>
+	</game>
+	<game name="Virtual Console Games - Nintendo DS (World) (v1.3) (Wii U) (OSS)" id="0120">
+		<description>Virtual Console Games - Nintendo DS (World) (v1.3) (Wii U) (OSS)</description>
+		<rom name="WiiU_VC_DS1.3.zip" size="320845" crc="443d737a" md5="9e71cbaa724d6087d0b177159964ecc6" sha1="a09de39765d54f862bf5d976b455349e45efbdb8" sha256="2a1527aff3243960de4ad508f11fc7001d36f931183cd6916f39ccebf5d77236"/>
+	</game>
+	<game name="Virtual Console Games - Nintendo DS (World) (v1.4) (Wii U) (OSS)" id="0121">
+		<description>Virtual Console Games - Nintendo DS (World) (v1.4) (Wii U) (OSS)</description>
+		<rom name="WiiU_VC_DS1.4.zip" size="321429" crc="cc0a8fc8" md5="85a1f3cee5662395525fa44fd3385afe" sha1="2e604872644eec212a224edb23a374bd2861f1e0" sha256="b09e7918ae7610bb89bd51584bbad132f71fbc77bf28eaff9d7858c928ea184a"/>
+	</game>
+	<game name="Virtual Console Games - Nintendo DS (World) (v1.5) (Wii U) (OSS)" id="0122">
+		<description>Virtual Console Games - Nintendo DS (World) (v1.5) (Wii U) (OSS)</description>
+		<rom name="WiiU_VC_DS1.5.zip" size="318023" crc="41dc2e72" md5="ccd6b3cc6be36b7c730e374d7d3dbe3e" sha1="34b49270818a9ba9e237d704615f579765c09d5a" sha256="2630fcf8b065e62aa2a92c078d69bf43829000ed09abe1a7270d616a732fb17e"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.0.1.0.00835,v0.0.1.0.00870) (Wii U) (OSS)" id="0109">
+		<description>Wii Street U - Powered by Google (World) (v0.0.1.0.00835,v0.0.1.0.00870) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.0.1.0.00835_0.0.1.0.00870.zip" size="33941236" crc="fd9494a2" md5="4103bdf2997e02098003ad0556acfa65" sha1="90742df455a817779670e9ca8f8c37a0a20fa99f" sha256="91ff5ff4893285f2df8910f955a6bcdbdf68ad0a28af9835d06563a487309c5c"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.0.2.0.00964) (Wii U) (OSS)" id="0110">
+		<description>Wii Street U - Powered by Google (World) (v0.0.2.0.00964) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.0.2.0.00964.zip" size="34037235" crc="edc3feac" md5="6d513d1a5c5bfc259058cda122f29ef1" sha1="6fe9a78df65774a43859561091c599777d6bcee6" sha256="0a0f7e3712e2275222550c2aeda398dde2e90d70078a402b04eedcbef1683e84"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.0.3.0.01549) (Wii U) (OSS)" id="0111">
+		<description>Wii Street U - Powered by Google (World) (v0.0.3.0.01549) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.0.3.0.01549.zip" size="33717522" crc="b5d58b5d" md5="8c83a4a727ed4bc84ce21c58dab49cb8" sha1="6b4fef3aee2eb1c40828f83f8190f032b16760ba" sha256="b216392b53b03e95853d14f595b5c1bae9f1b23a5fdf00386aa9e83e9070e304"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.0.4.0.01688) (Wii U) (OSS)" id="0112">
+		<description>Wii Street U - Powered by Google (World) (v0.0.4.0.01688) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.0.4.0.01688.zip" size="34171914" crc="d7151a5b" md5="29f98cbb808fa511d2dd94ba36b00a08" sha1="2ef75669738235284c29116d32b1c61284c080df" sha256="9576996e83cb2996c81c9b66fdd2d8e7b8120e7ab299144c168279871106a3e7"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.0.5.0.01876) (Wii U) (OSS)" id="0113">
+		<description>Wii Street U - Powered by Google (World) (v0.0.5.0.01876) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.0.5.0.01876.zip" size="33927563" crc="c362e747" md5="feca2ebe19eea2ddb718b8f846447ff4" sha1="0b2e2de649a478230d886329d47536a0cf573b39" sha256="9ebb71fae0e033ac8927e3b5c7ad7f8ed01939ee6879e879a9f4bb4ba504bf8f"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.0.6.0.02588) (Wii U) (OSS)" id="0114">
+		<description>Wii Street U - Powered by Google (World) (v0.0.6.0.02588) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.0.6.0.02588.zip" size="34173760" crc="80336c5d" md5="6dd39707badb3000fc5dc6ac435d3796" sha1="09f44fc0bfd2a696c8d7decf19cbc5e69aaa0041" sha256="8ad11cf6684873bfd09f00382c763b4742f4e89ada857f698ae7f65b946ee2a3"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.1.0.0.04142-v0.1.1.1.04242) (Wii U) (OSS)" id="0115">
+		<description>Wii Street U - Powered by Google (World) (v0.1.0.0.04142-v0.1.1.1.04242) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.1.0.0.04142.zip" size="33749562" crc="69e2fa4b" md5="c17a3220ad110ec3e58444093b4e9da2" sha1="14bf780c149904e42ac200ff913296f413b2a486" sha256="6961b2905a7808a3aa9b82c32b6db641e4276b3f15e054f2e4b23854ee86891c"/>
+	</game>
+	<game name="Wii Street U - Powered by Google (World) (v0.1.2.0.04251) (Wii U) (OSS)" id="0116">
+		<description>Wii Street U - Powered by Google (World) (v0.1.2.0.04251) (Wii U) (OSS)</description>
+		<rom name="WiiStreetU_OpenSources0.1.2.0.04251.zip" size="34331151" crc="c20a08ca" md5="17ce78f1caceee8eec58f9a39d68d9d8" sha1="db2eb080d40b9a77654c1f6e4accd3ec7f5d5bb2" sha256="4988e733d52dfd2f4415e9377c5034332a48a0feebf09edff25be482d6088bd1"/>
+	</game>
+	<game name="Wii U (World) (v1.0.1-v1.0.3) (OSS)" id="0053">
+		<description>Wii U (World) (v1.0.1-v1.0.3) (OSS)</description>
+		<rom name="WiiU_OpenSources1.0.1-1.0.3.zip" size="97051" crc="6b089a15" md5="a96c8648d858165753a4c7ed0e6fa454" sha1="34e85d07b2809cb0448e37a6d972703d5c1db049" sha256="852f4fce05a36ebc3b501c020cb090f3715437679706dc9439d8f8d740e6a6ec"/>
+	</game>
+	<game name="Wii U (World) (v2.0.0) (OSS)" id="0054">
+		<description>Wii U (World) (v2.0.0) (OSS)</description>
+		<rom name="WiiU_OpenSources2.0.0.zip" size="91006929" crc="5747f4a7" md5="014285f9486356a5e37118a94f0b4f9b" sha1="1558a335b41714fde8f09530d251b1c8d95d1b4c" sha256="1c73a1568bea0a760fb0e5a2ad7af7387a84257f23e1a1002ca1333fa43c4e47"/>
+	</game>
+	<game name="Wii U (World) (v2.1.0-v2.1.3) (OSS)" id="0055">
+		<description>Wii U (World) (v2.1.0-v2.1.3) (OSS)</description>
+		<rom name="WiiU_OpenSources2.1.0.zip" size="182783497" crc="195a5f45" md5="d00f48c88c9569d4f7fbab0095a53d02" sha1="aa0c32073b50c7f5e5c0fa334c7930d8eee39a5a" sha256="d27b17a0606319b08ac00f41ba2796bb42413c9f9f01fcfba20c6e04be2db183"/>
+	</game>
+	<game name="Wii U (World) (v3.0.0-v3.1.0) (OSS)" id="0056">
+		<description>Wii U (World) (v3.0.0-v3.1.0) (OSS)</description>
+		<rom name="WiiU_OpenSources3.0.0.zip" size="91440730" crc="669b088f" md5="46aa9c748e5d460f9be8a3eed4e48757" sha1="92c46ebfbb0805f6b541aa8f9d60b48ea94f4a94" sha256="d13e86f421eb1c3b6c7fe4c20c1abf5ba3834921fb6b8e7af9360774ab82478b"/>
+	</game>
+	<game name="Wii U (World) (v4.0.0) (OSS)" id="0057">
+		<description>Wii U (World) (v4.0.0) (OSS)</description>
+		<rom name="WiiU_OpenSources4.0.0.zip" size="102216693" crc="1d8f4707" md5="6269c56e4d917402329345283d2bb095" sha1="eee557f6a0f69d8f7b4ee23880b17a4c9f856fae" sha256="7a91f49c7302ee38d1e7645223a8bd815d5880be251975233bfad48d16df726f"/>
+	</game>
+	<game name="Wii U (World) (v4.1.0) (OSS)" id="0058">
+		<description>Wii U (World) (v4.1.0) (OSS)</description>
+		<rom name="WiiU_OpenSources4.1.0.zip" size="188405324" crc="32f569b6" md5="fcc351c96761b8a1c96da70fdfc57bb1" sha1="58e9f9f02b551145adc676028894dff91785c84b" sha256="136a70dda8a4aba38f670bb1cddbb6388e7ff0bcbf680095f107525b069e0586"/>
+	</game>
+	<game name="Wii U (World) (v5.0.0) (OSS)" id="0059">
+		<description>Wii U (World) (v5.0.0) (OSS)</description>
+		<rom name="WiiU_OpenSources5.0.0.zip" size="290588048" crc="7a942cf6" md5="e021fb2589ca3c38f79c4b1dade5a6a3" sha1="97ad60704abe24798656f42be4af83349867789e" sha256="c175b278f15909c375f887e3bd7faa65a2daca91fd10084680c95cd94681aabd"/>
+	</game>
+	<game name="Wii U (World) (v5.1.0) (OSS)" id="0060">
+		<description>Wii U (World) (v5.1.0) (OSS)</description>
+		<rom name="WiiU_OpenSources5.1.0.zip" size="279816937" crc="08012137" md5="a4c6e52ac5f371fcc8486cef61a8a041" sha1="a3e1b0195333c370111ef3e16c2352a476a39089" sha256="5146b88fcd9579bce1d511082a9b8aa2d80213634b37f89336457de6259f2bab"/>
+	</game>
+	<game name="Wii U (World) (v5.1.1-v5.3.2) (OSS)" id="0061">
+		<description>Wii U (World) (v5.1.1-v5.3.2) (OSS)</description>
+		<rom name="WiiU_OpenSources5.1.1.zip" size="279880417" crc="ba731c1e" md5="90bb02bf8c178417806a28a454241e2e" sha1="ddac672d9d6b1215a36cd7406323895608c04752" sha256="05b40f69a57ff1ddac61ba962f21ae9eb2a7c78d182d643f330d5861b21c8879"/>
+	</game>
+	<game name="Wii U (World) (v5.4.0) (OSS)" id="0062">
+		<description>Wii U (World) (v5.4.0) (OSS)</description>
+		<rom name="WiiU_OpenSources5.4.0.zip" size="278086435" crc="ff375ae3" md5="a5389731eeeadaf09e2ec395dc13f149" sha1="b4cdbbee6a5719bd852c341b613c0551f3ce0595" sha256="657b6f1c07d64273b54a92777673c663834bef1e5dc7fe92f8947f57fca53f84"/>
+	</game>
+	<game name="Wii U (World) (v5.5.0) (OSS)" id="0063">
+		<description>Wii U (World) (v5.5.0) (OSS)</description>
+		<rom name="WiiU_OpenSources5.5.0.zip" size="278027337" crc="aa6faa3a" md5="2b6f0d233759dd1b4523fe64576ea7f4" sha1="05f480e35db5bed3da199ddc603723526d60ace4" sha256="38199c45b708e3b1ddf30133723d3b34794fcee7128108e2ea27cd4e8d350c1c"/>
+	</game>
+	<game name="Wii U (World) (v5.5.1) (OSS)" id="0064">
+		<description>Wii U (World) (v5.5.1) (OSS)</description>
+		<rom name="WiiU_OpenSources5.5.1.zip" size="278028377" crc="65ec6efe" md5="71f49e78c548d131003dd38c6586a383" sha1="8b646ff2cdf449c14251fe89450617681b5c2944" sha256="9ba924693de6c74c8cad441d35faadcd7ecdc2b78557d99ffbed3e3437609a72"/>
+	</game>
+	<game name="Wii U (World) (v5.5.2, Later Version) (OSS)" id="0065">
+		<description>Wii U (World) (v5.5.2, Later Version) (OSS)</description>
+		<rom name="WiiU_OpenSources5.5.2.zip" size="278031974" crc="04388df6" md5="ecf461abf0e4924236c996b86db524a5" sha1="83bdf4b9081f0869371746ad887cc02c1f7dd937" sha256="f6f22feef23ee8071078a3960557dadc352ef45819aa206ba88d2ef1351bbf05"/>
+	</game>
+	<game name="WIS-009 hard drive (Korea) (En)" id="0166">
+		<description>WIS-009 hard drive (Korea) (En)</description>
+		<rom name="WIS-009 hard drive (Korea) (En).img" size="320072932352" crc="43be4e47" md5="b18898f0893d0e06b70c3cc31ab970eb" sha1="f94feaa99a30e93fc729a67271c509baa7782d3d" sha256="2834505d88a56aff0d672767f2fb45cc2a2ccffd482bdc3c1aeac2be7aeab033"/>
+	</game>
+</datafile>

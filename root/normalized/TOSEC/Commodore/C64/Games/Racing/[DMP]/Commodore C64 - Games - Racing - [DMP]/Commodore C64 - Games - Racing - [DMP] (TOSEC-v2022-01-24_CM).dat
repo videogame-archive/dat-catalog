@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Racing - [DMP]</name>
+		<description>Commodore C64 - Games - Racing - [DMP] (TOSEC-v2022-01-24)</description>
+		<category>TOSEC</category>
+		<version>2022-01-24</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="3D Speed Duel (1984)(Dk&apos;Tronics)">
+		<description>3D Speed Duel (1984)(Dk&apos;Tronics)</description>
+		<rom name="3D Speed Duel (1984)(Dk&apos;Tronics).dmp" size="1223974" crc="e7e9c398" md5="3461c11447622b800f239a5033396366" sha1="8495b9259955174dc3141c5d454eb58240a5a258"/>
+	</game>
+	<game name="3D Speed Duel (1984)(Dk&apos;Tronics)[a]">
+		<description>3D Speed Duel (1984)(Dk&apos;Tronics)[a]</description>
+		<rom name="3D Speed Duel (1984)(Dk&apos;Tronics)[a].dmp" size="1227326" crc="461a1010" md5="023ff6321c8b307fea12801042b8bb3b" sha1="724effbdbd01706d1b576ff300534d3a28266fea"/>
+	</game>
+	<game name="Action Biker (1985)(Mastertronic)">
+		<description>Action Biker (1985)(Mastertronic)</description>
+		<rom name="Action Biker (1985)(Mastertronic).dmp" size="1743366" crc="a4909380" md5="8005e91d905990cce2e17e666b12cd8c" sha1="ad93e4c5ec34f251950b149fe4e5257bf5e8f5d7"/>
+	</game>
+	<game name="Action Biker (1985)(Mastertronic)[a]">
+		<description>Action Biker (1985)(Mastertronic)[a]</description>
+		<rom name="Action Biker (1985)(Mastertronic)[a].dmp" size="1709128" crc="00bdaced" md5="379555933bbea4703b5abf33e5591394" sha1="447a338daf7444e37850d4f0debf11bf3d7e082b"/>
+	</game>
+</datafile>

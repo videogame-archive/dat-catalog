@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>OCC Osborne 1 &amp; Osborne Executive - Games - [COM]</name>
+		<description>OCC Osborne 1 &amp; Osborne Executive - Games - [COM] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).com" size="16583" crc="b6af6467" md5="ad96757199ec353b612052bc240b7280" sha1="d2195627bc3936c90909a0c8b6466f2ae1425506"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars].com" size="17209" crc="165007d0" md5="fbcbbd9de283114a4f20db8a90d4dcfc" sha1="3636685336300c11e8659994a8457767ec25d5f1"/>
+	</game>
+</datafile>

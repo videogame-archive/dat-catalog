@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-6001 - Games - [WAV]</name>
+		<description>NEC PC-6001 - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022)(Inufuto)(JP)(Tape 1 of 2)">
+		<description>Ascend (2022)(Inufuto)(JP)(Tape 1 of 2)</description>
+		<rom name="Ascend (2022)(Inufuto)(JP)(Tape 1 of 2).wav" size="175148" crc="2747bd2b" md5="3d7e31fab643393870ea1796087249f1" sha1="e0adb947a04f63821a716cbc35fb092c0fd8f5f6"/>
+	</game>
+	<game name="Ascend (2022)(Inufuto)(JP)(Tape 2 of 2)">
+		<description>Ascend (2022)(Inufuto)(JP)(Tape 2 of 2)</description>
+		<rom name="Ascend (2022)(Inufuto)(JP)(Tape 2 of 2).wav" size="1663724" crc="1a851980" md5="929e14960807debd53bf5ced0f74693c" sha1="37826b7d9cc5b5f4b4e6b736ab60984228e05bd9"/>
+	</game>
+	<game name="Mazy (2020-02-23)(Inufuto)(JP)(Tape 1 of 2)">
+		<description>Mazy (2020-02-23)(Inufuto)(JP)(Tape 1 of 2)</description>
+		<rom name="Mazy (2020-02-23)(Inufuto)(JP)(Tape 1 of 2).wav" size="1614692" crc="5ae8bb5b" md5="54e67b6ba078e8281ac7eb6a9f2d7f70" sha1="4eaa230a92161fc8d28bfaf9203c56661a0c08c7"/>
+	</game>
+	<game name="Mazy (2020-02-23)(Inufuto)(JP)(Tape 2 of 2)">
+		<description>Mazy (2020-02-23)(Inufuto)(JP)(Tape 2 of 2)</description>
+		<rom name="Mazy (2020-02-23)(Inufuto)(JP)(Tape 2 of 2).wav" size="11769144" crc="0bd49ee8" md5="a1cb97239b4c5e42f17af11e5fa34e57" sha1="5dd5d85090c1abfdab95d100ca9ea2c19a3ef2f4"/>
+	</game>
+	<game name="Ruptus (2020-12-12)(Inufuto)(JP)(Tape 1 of 2)">
+		<description>Ruptus (2020-12-12)(Inufuto)(JP)(Tape 1 of 2)</description>
+		<rom name="Ruptus (2020-12-12)(Inufuto)(JP)(Tape 1 of 2).wav" size="175148" crc="c16e093e" md5="ae5bd2c043c9f9bfcb41f88cf2d72bcc" sha1="93923edd1fe0401d1c82ebc6b7c7902f82e8ca57"/>
+	</game>
+	<game name="Ruptus (2020-12-12)(Inufuto)(JP)(Tape 2 of 2)">
+		<description>Ruptus (2020-12-12)(Inufuto)(JP)(Tape 2 of 2)</description>
+		<rom name="Ruptus (2020-12-12)(Inufuto)(JP)(Tape 2 of 2).wav" size="2460332" crc="5a558d25" md5="afd7b3fb0e38d0aca9a3466cab43ad7d" sha1="b92b60cf4b43bdeb0d0228b007638e18ffa43105"/>
+	</game>
+</datafile>

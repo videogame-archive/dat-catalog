@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Manuals - Games</name>
+		<description>Coleco ColecoVision ADAM - Manuals - Games (TOSEC-v2012-12-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-12-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment)">
+		<description>2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment)</description>
+		<rom name="2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment).pdf" size="3160455" crc="2191d1ce" md5="5bb4e998c933e7e645eec6d62bcb80e7" sha1="5718829af23fe09d246b0142fb54acf28dfa6917"/>
+	</game>
+	<game name="Demons and Dragons (1986)(Fast Eds Software)">
+		<description>Demons and Dragons (1986)(Fast Eds Software)</description>
+		<rom name="Demons and Dragons (1986)(Fast Eds Software).pdf" size="10040250" crc="fc584f72" md5="2746e9291f5aeed0c74f7a539c7a6136" sha1="0993ef399ca7d86b834012c866a2b1bd4189e3ea"/>
+	</game>
+	<game name="Donkey Kong Jr. (1983)(Nintendo)">
+		<description>Donkey Kong Jr. (1983)(Nintendo)</description>
+		<rom name="Donkey Kong Jr. (1983)(Nintendo).pdf" size="5288714" crc="6c9e0b7f" md5="975a5824b1e3e837c7b87027dc570f59" sha1="63336f76e055dfc3d608e0caca473842f293d127"/>
+	</game>
+	<game name="Supergame - Buck Rogers - Planet Of Zoom (1983)(Coleco)">
+		<description>Supergame - Buck Rogers - Planet Of Zoom (1983)(Coleco)</description>
+		<rom name="Supergame - Buck Rogers - Planet Of Zoom (1983)(Coleco).pdf" size="7488204" crc="05228f92" md5="0f50ec9414c17cbe320d130de6d99d81" sha1="956be002cc78f99df5249243f3b30219df2dcd79"/>
+	</game>
+	<game name="Supergame - Super Zaxxon (1982)(Coleco)">
+		<description>Supergame - Super Zaxxon (1982)(Coleco)</description>
+		<rom name="Supergame - Super Zaxxon (1982)(Coleco).pdf" size="5601411" crc="a6a3f245" md5="2e221319d387eed38275c42758e29e2b" sha1="6d88e3f1ce25f714399fee201c195730853aed60"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Camputers Lynx - Applications - [WAV]</name>
+		<description>Camputers Lynx - Applications - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Card Index (1983)(Camsoft)(Side A)">
+		<description>Card Index (1983)(Camsoft)(Side A)</description>
+		<rom name="Card Index (1983)(Camsoft)(Side A).wav" size="13735980" crc="5ebbe14e" md5="b8223b7a804a7cc06bbdefcee39e895f" sha1="fd0807b8bb1db72db3e7324cfbe4bd7b22cb0c3f"/>
+	</game>
+	<game name="Card Index (1983)(Camsoft)(Side B)">
+		<description>Card Index (1983)(Camsoft)(Side B)</description>
+		<rom name="Card Index (1983)(Camsoft)(Side B).wav" size="14024748" crc="e3f3501e" md5="b21360ddf02044719a6488215f593e59" sha1="866616be0b588ee5cef2821a396c41c1007cdb4d"/>
+	</game>
+	<game name="Sprint (1983)(Camsoft)(Side A)">
+		<description>Sprint (1983)(Camsoft)(Side A)</description>
+		<rom name="Sprint (1983)(Camsoft)(Side A).wav" size="9240620" crc="78763ff2" md5="1ab5d0fe656253b38dd5818426f0f281" sha1="b0ef492f75675c969d484b793d9e479d7a56ba34"/>
+	</game>
+	<game name="Sprint (1983)(Camsoft)(Side B)">
+		<description>Sprint (1983)(Camsoft)(Side B)</description>
+		<rom name="Sprint (1983)(Camsoft)(Side B).wav" size="8081452" crc="1350e045" md5="4f79177048501866fdb1766a72da918c" sha1="667f196e3d6b7ec929215e7e14aeedccfc03ec49"/>
+	</game>
+	<game name="Word Processor (1983)(Camsoft)(Side A)">
+		<description>Word Processor (1983)(Camsoft)(Side A)</description>
+		<rom name="Word Processor (1983)(Camsoft)(Side A).wav" size="7903276" crc="87fb7cfc" md5="8828f87a689f6264659279c80bb732cf" sha1="6e3fccfecd80179afe2bd43781898b78e905afc6"/>
+	</game>
+	<game name="Word Processor (1983)(Camsoft)(Side B)">
+		<description>Word Processor (1983)(Camsoft)(Side B)</description>
+		<rom name="Word Processor (1983)(Camsoft)(Side B).wav" size="7832620" crc="1e54834a" md5="1aad9faf9fbb189910af65d9e17b8bdf" sha1="a2a578fcb53052b42b39bfb162014200763c0d9c"/>
+	</game>
+</datafile>

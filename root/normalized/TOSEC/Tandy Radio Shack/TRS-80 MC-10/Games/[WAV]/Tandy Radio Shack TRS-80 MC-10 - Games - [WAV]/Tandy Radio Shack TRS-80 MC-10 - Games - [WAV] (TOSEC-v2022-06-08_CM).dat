@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 MC-10 - Games - [WAV]</name>
+		<description>Tandy Radio Shack TRS-80 MC-10 - Games - [WAV] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-01)(Inufuto)(JP)">
+		<description>Ascend (2022-04-01)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-04-01)(Inufuto)(JP).wav" size="2157388" crc="59538740" md5="4fcb376061cbd3f46fb273cf1e54c3e1" sha1="a93ae9ae45daa75b7efc4e460f0e7100f5e0ffc6"/>
+	</game>
+	<game name="Mazy (2021-12-17)(Inufuto)(JP)[16K]">
+		<description>Mazy (2021-12-17)(Inufuto)(JP)[16K]</description>
+		<rom name="Mazy (2021-12-17)(Inufuto)(JP)[16K].wav" size="1717096" crc="a202f80b" md5="4a89cc7bfa62c1ba2b3b926ca449b0ce" sha1="60076b760f6c92ff6a490ef7988fcb3a73d8c48b"/>
+	</game>
+	<game name="Ruptus (2021-11-05)(Inufuto)(JP)[16K]">
+		<description>Ruptus (2021-11-05)(Inufuto)(JP)[16K]</description>
+		<rom name="Ruptus (2021-11-05)(Inufuto)(JP)[16K].wav" size="3094428" crc="9418c036" md5="c5c9dd97683f7ca47e48490952e724ac" sha1="a392a8b26a15dca183e6499d2cd47294a4689129"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Otrona Attache - Games - [COM]</name>
+		<description>Otrona Attache - Games - [COM] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).com" size="16931" crc="20f74d92" md5="0d09c841ff385e13852abd7f4831ddb5" sha1="c2d8de6d6462a24b4f9629c0fdf5f905e7693aaa"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars].com" size="17003" crc="1338e614" md5="e272137c58911ba8347141e4e2180e72" sha1="96216674a0370664260548d3ee2c0c58aa95ac7f"/>
+	</game>
+</datafile>

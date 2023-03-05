@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Matsushita JR-100 - Games - [PRG]</name>
+		<description>Matsushita JR-100 - Games - [PRG] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-02)(Inufuto)(JP)">
+		<description>Ascend (2022-04-02)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-04-02)(Inufuto)(JP).prg" size="8380" crc="b3511906" md5="9d990f2a3a79e2947ec6412bcafb8d0f" sha1="5f70a80933794daa958340a70faf9d965b324c40"/>
+	</game>
+	<game name="Mazy (2020)(Inufuto)(JP)">
+		<description>Mazy (2020)(Inufuto)(JP)</description>
+		<rom name="Mazy (2020)(Inufuto)(JP).prg" size="6367" crc="c403b0b1" md5="e2e1f175f26194081fca8551d070c386" sha1="fbd81e1fea04995ecdfeb428e50e4138837dc586"/>
+	</game>
+	<game name="Ruptus (2020-12-06)(Inufuto)(JP)">
+		<description>Ruptus (2020-12-06)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2020-12-06)(Inufuto)(JP).prg" size="12445" crc="71ad6ef4" md5="0a39514ff45178e250c74e23b9b95c80" sha1="e11640942e449ebf0fe921b3365f487c2401d465"/>
+	</game>
+</datafile>

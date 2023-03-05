@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Games - [GDI]</name>
+		<description>Sega Dreamcast - Homebrew - Games - [GDI] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Driving Strikers - Holiday Edition (2021-12-24)(kazade)">
+		<description>Driving Strikers - Holiday Edition (2021-12-24)(kazade)</description>
+		<rom name="Driving Strikers - Holiday Edition (2021-12-24)(kazade).gdi" size="113" crc="6b2d2a3b" md5="db030c05873a2b79bdf1d04edc19517c" sha1="70e7e2824457bc08194b72f5acc0bd87e384890b"/>
+		<rom name="track01.iso" size="30869504" crc="9941de39" md5="efe58d2b30003aa284b74cc2516dd660" sha1="2fbdc9ecdc4fe614d18ccc48bb8728d0ce3e5d92"/>
+		<rom name="track02.raw" size="2352" crc="be97ce3f" md5="9e297efc7a522480ef89a4a7f39ce560" sha1="fe1a9e36e57b299b68f2d0f07bbed05c08d460ed"/>
+		<rom name="track03.bin" size="94208" crc="fb7f8130" md5="456d8477c98870a86555efb7cc160a17" sha1="b61b8affe763ae565d268501071f27181855df35"/>
+		<rom name="track04.bin" size="33337344" crc="d3f88aed" md5="807c1feb6f3a6059763293fc0fc367b4" sha1="79f0128a671928332f0777ade8f0dbaace2898ac"/>
+	</game>
+</datafile>

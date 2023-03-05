@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Books</name>
+		<description>IBM PCjr - Books (TOSEC-v2017-08-27)</description>
+		<category>TOSEC-PIX</category>
+		<version>2017-08-27</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Guide to Writing BASIC Speech Programs (1984)(IBM)">
+		<description>Guide to Writing BASIC Speech Programs (1984)(IBM)</description>
+		<rom name="Guide to Writing BASIC Speech Programs (1984)(IBM).pdf" size="3859273" crc="4a66ba9b" sha1="af27b08b8c093187116d7a2c6d9dc38651b06fe3" md5="2997eab5dd1ca263956a3e5718bdbc10"/>
+	</game>
+</datafile>
+

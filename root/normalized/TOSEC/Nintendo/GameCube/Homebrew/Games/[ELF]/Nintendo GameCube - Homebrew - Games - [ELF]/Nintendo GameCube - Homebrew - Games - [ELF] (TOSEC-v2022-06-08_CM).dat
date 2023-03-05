@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo GameCube - Homebrew - Games - [ELF]</name>
+		<description>Nintendo GameCube - Homebrew - Games - [ELF] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mama Bear Puzzle (2015)(Mihai, Sebastian)">
+		<description>Mama Bear Puzzle (2015)(Mihai, Sebastian)</description>
+		<rom name="Mama Bear Puzzle (2015)(Mihai, Sebastian).elf" size="1667136" crc="2dec722f" md5="d38b280b37251a469e357aeca1b0ce84" sha1="9abf228adb324b658c05593de91ef43a48531402"/>
+	</game>
+</datafile>

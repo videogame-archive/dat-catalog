@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Catalogs</name>
+		<description>Apple Macintosh - Catalogs (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple Macintosh 128K Brochure (1983-12)(Apple)">
+		<description>Apple Macintosh 128K Brochure (1983-12)(Apple)</description>
+		<rom name="Apple Macintosh 128K Brochure (1983-12)(Apple).pdf" size="43832901" crc="ca057d87" md5="aa5c361e20f3be2e628acb43acbc678c" sha1="d59511b3ade8e2fa5de5c6077b4e5228baa38d21"/>
+	</game>
+	<game name="Macintosh Selling Guide (1984-11)(Apple)">
+		<description>Macintosh Selling Guide (1984-11)(Apple)</description>
+		<rom name="Macintosh Selling Guide (1984-11)(Apple).pdf" size="4110033" crc="d6fd3e40" md5="cb9e9277ad5894106a45ff7492165f92" sha1="0e1350238739dfe19fb39f57aa0ed2bb67e885d8"/>
+	</game>
+</datafile>

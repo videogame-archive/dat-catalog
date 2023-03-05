@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - [ARK]</name>
+		<description>Commodore C128 - Applications - [ARK] (TOSEC-v2020-02-02)</description>
+		<category>TOSEC</category>
+		<version>2020-02-02</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Arc 128 (1987-08-25)(Ampere Metal)">
+		<description>Arc 128 (1987-08-25)(Ampere Metal)</description>
+		<rom name="Arc 128 (1987-08-25)(Ampere Metal).ark" size="88448" crc="53de7810" md5="e0b8b02fc1ec638820d1697bad1c09ae" sha1="da12e3a0bcef72d4c14725714fa4536fc88c3b74"/>
+	</game>
+	<game name="SidPlayer (19xx)(Compute!)[Z64 Part 1-4]">
+		<description>SidPlayer (19xx)(Compute!)[Z64 Part 1-4]</description>
+		<rom name="SidPlayer (19xx)(Compute!)[Z64 Part 1-4].ark" size="146432" crc="fd5f5542" md5="d039a9baee8db0eceb7c05b9ffec73ee" sha1="8d770d66830c55331fd45dddea1772590d51ce18"/>
+	</game>
+</datafile>

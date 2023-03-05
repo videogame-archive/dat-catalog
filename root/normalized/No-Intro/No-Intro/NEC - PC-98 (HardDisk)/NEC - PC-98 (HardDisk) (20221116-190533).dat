@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>243</id>
+		<name>NEC - PC-98 (HardDisk)</name>
+		<description>NEC - PC-98 (HardDisk)</description>
+		<version>20221116-190533</version>
+		<author>MeguCocoa, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Alone in the Dark (Japan)" id="0036">
+		<description>Alone in the Dark (Japan)</description>
+		<rom name="Alone in the Dark (Japan).hdi" size="11145216" crc="b21c92ae" md5="3e613273ad222ac16938bf1ed2f695c7" sha1="5d3c2023ee0709eb67a1b8c86c4fd121025990f9"/>
+	</game>
+	<game name="Alone in the Dark 2 (Japan)" id="0037">
+		<description>Alone in the Dark 2 (Japan)</description>
+		<rom name="Alone in the Dark 2 (Japan).hdi" size="21415936" crc="740a8d2a" md5="906406bc3bda3f263de8e0ab86f1860a" sha1="be8e7c3f0b4aed17349eed52c14207e317558bea"/>
+	</game>
+	<game name="M Hand (Japan)" id="0069">
+		<description>M Hand (Japan)</description>
+		<rom name="M Hand (Japan).hdi" size="5330944" crc="98bbf1ba" md5="3afdbb509065fe6b731172f82b2025b1" sha1="bd54d1d3c757e36aa1978dea1555973f6710c843" sha256="f4465150a53214d335e857e543d0215325d1d0de8cc87d03d57c6a696e157719"/>
+	</game>
+	<game name="Rose Blood - Chi no Kawaki (Japan)" id="0070">
+		<description>Rose Blood - Chi no Kawaki (Japan)</description>
+		<rom name="Rose Blood - Chi no Kawaki (Japan).hdi" size="10479616" crc="4e691297" md5="33deaa01ff66aec51e152704658550a1" sha1="7983ee5be65d93130a55baf0d7ff24eb1c6ad1c8" sha256="34ed2220940895005a3a6902a3dabb5e53feede5e46bd43e0c1d2ca164328110"/>
+	</game>
+	<game name="Touhou Fuumaroku - The Story of Eastern Wonderland (Japan)" id="0012">
+		<description>Touhou Fuumaroku - The Story of Eastern Wonderland (Japan)</description>
+		<rom name="Touhou Fuumaroku - The Story of Eastern Wonderland (Japan).hdi" size="5330944" crc="9ac0ac55" md5="2360b61356c53da5280690dde9bc8cf4" sha1="fd4d893e25beb79e57ec15b4b1af035d761ef6c7"/>
+	</game>
+	<game name="Touhou Gensoukyou - Lotus Land Story (Japan)" id="0014">
+		<description>Touhou Gensoukyou - Lotus Land Story (Japan)</description>
+		<rom name="Touhou Gensoukyou - Lotus Land Story (Japan).hdi" size="11145216" crc="5c769830" md5="8258183523beb9ecbcab4c697118faf3" sha1="32e1ad89af4b3e44e01c20fcb44662dae6e96217"/>
+	</game>
+	<game name="Touhou Gensoukyou - Lotus Land Story (Japan) (Unknown, Original)" id="0015">
+		<description>Touhou Gensoukyou - Lotus Land Story (Japan) (Unknown, Original)</description>
+		<rom name="Touhou Gensoukyou - Lotus Land Story (Japan) (Unknown, Original).hdi" size="11145216" crc="dd6f7ad5" md5="e0d69bdf7d4c5423aa9f32d7970b8fd6" sha1="dc714f2d0cb8b00fdad5f2abd491b2b31ef28bbe"/>
+	</game>
+	<game name="Touhou Kaikidan - Mystic Square (Japan)" id="0016">
+		<description>Touhou Kaikidan - Mystic Square (Japan)</description>
+		<rom name="Touhou Kaikidan - Mystic Square (Japan).hdi" size="11145216" crc="fc230f89" md5="d0591de3b7040c2bc585f2e2c5bf3943" sha1="a39c0f2d5dcb7699484cbc48e36844fd2dcd29bb"/>
+	</game>
+	<game name="Touhou Reiiden - The Highly Responsive to Prayers (Japan)" id="0011">
+		<description>Touhou Reiiden - The Highly Responsive to Prayers (Japan)</description>
+		<rom name="Touhou Reiiden - The Highly Responsive to Prayers (Japan).hdi" size="5330944" crc="2d838b84" md5="0d0c743abc0e336bb9ad40711ec79e2f" sha1="2a2b662f4e137b2d9d9e327f734576368210f855"/>
+	</game>
+	<game name="Touhou Yumejikuu - Phantasmagoria of Dim. Dream (Japan)" id="0013">
+		<description>Touhou Yumejikuu - Phantasmagoria of Dim. Dream (Japan)</description>
+		<rom name="Touhou Yumejikuu - Phantasmagoria of Dim. Dream (Japan).hdi" size="11145216" crc="8b9bc034" md5="c1af55a102e838ad2553ae6ff8894885" sha1="41fb1b551d949f58d39a7f7c8c28df1957a72ab3"/>
+	</game>
+	<game name="Yume no Sei (Japan)" id="0020">
+		<description>Yume no Sei (Japan)</description>
+		<rom name="Yume no Sei (Japan).hdi" size="5330944" crc="c5f26844" md5="2032aeb5936d696965c3e964a9c6c258" sha1="a2a7e5c8f284cac414d06e19d5b4d9ce2f05eb96" sha256="c87dedceb4588f0c2ba7bd3049a24b1184c6bc9a89543a29110612b476a4a2f3"/>
+	</game>
+	<game name="Zest to Fantasy (Japan)" id="0071">
+		<description>Zest to Fantasy (Japan)</description>
+		<rom name="Zest to Fantasy (Japan).hdi" size="10479616" crc="6ef9cc71" md5="f147a4df899f62de7361c414869e4af1" sha1="ebda3ab8139631058d9b163885832deda251e2b3" sha256="3ece5738ea13b8626d3386ae6a34e006b764b16b84c7755ec646d1aa2fac74f4"/>
+	</game>
+</datafile>

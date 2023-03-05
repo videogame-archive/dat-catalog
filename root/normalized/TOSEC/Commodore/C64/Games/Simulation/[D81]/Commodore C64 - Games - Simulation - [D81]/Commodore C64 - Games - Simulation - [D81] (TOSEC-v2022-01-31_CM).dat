@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Simulation - [D81]</name>
+		<description>Commodore C64 - Games - Simulation - [D81] (TOSEC-v2022-01-31)</description>
+		<category>TOSEC</category>
+		<version>2022-01-31</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="F-14 Tomcat (1988)(Activision)">
+		<description>F-14 Tomcat (1988)(Activision)</description>
+		<rom name="F-14 Tomcat (1988)(Activision).d81" size="819200" crc="6e197cea" md5="b614db164771aa3f1cadb64a959a06f1" sha1="bff9aa586706ff98f3136397f74dd704db56c17f"/>
+	</game>
+	<game name="F-18 Hornet (1988)(Absolute Entertainment)">
+		<description>F-18 Hornet (1988)(Absolute Entertainment)</description>
+		<rom name="F-18 Hornet (1988)(Absolute Entertainment).d81" size="819200" crc="a1fb813c" md5="60db68acfbda70148c54a0646221b1df" sha1="c62494d9b0e5217e4ee742417594dd74c0948d54"/>
+	</game>
+	<game name="Gunship (1986)(MicroProse)[cr L+T][One Side Version]">
+		<description>Gunship (1986)(MicroProse)[cr L+T][One Side Version]</description>
+		<rom name="Gunship (1986)(MicroProse)[cr L+T][One Side Version].d81" size="819200" crc="cab50863" md5="520eac2151f6a68ad4c5e9d6236c785e" sha1="ba0f201761f6972c760dbf071989c42aa7de7a2f"/>
+	</game>
+	<game name="Silent Service (1985)(MicroProse)">
+		<description>Silent Service (1985)(MicroProse)</description>
+		<rom name="Silent Service (1985)(MicroProse).d81" size="819200" crc="1308c79a" md5="4b187b7a4a9627ec1a65bae47330bc37" sha1="0e6852da302f9cbf9a9fd77a6841c9224523b1d4"/>
+	</game>
+</datafile>

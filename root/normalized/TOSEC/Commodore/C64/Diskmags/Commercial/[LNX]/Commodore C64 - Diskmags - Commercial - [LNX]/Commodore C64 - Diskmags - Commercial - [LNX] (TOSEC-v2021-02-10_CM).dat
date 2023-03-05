@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Diskmags - Commercial - [LNX]</name>
+		<description>Commodore C64 - Diskmags - Commercial - [LNX] (TOSEC-v2021-02-10)</description>
+		<category>TOSEC</category>
+		<version>2021-02-10</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Go64! 2000-08 (2000)(CSW)(Side A)">
+		<description>Go64! 2000-08 (2000)(CSW)(Side A)</description>
+		<rom name="Go64! 2000-08 (2000)(CSW)(Side A).lnx" size="167552" crc="c4fc3470" md5="3a519c1898683c1dcfd59bc9dd43032b" sha1="e50c17854922aef64ea184aa28a2e58920297ddd"/>
+	</game>
+	<game name="Go64! 2000-08 (2000)(CSW)(Side A)[a]">
+		<description>Go64! 2000-08 (2000)(CSW)(Side A)[a]</description>
+		<rom name="Go64! 2000-08 (2000)(CSW)(Side A)[a].lnx" size="167455" crc="9ec41db1" md5="416e8e0e2053733f19ddde9bcf33d171" sha1="e4090e369858d097790f69f6ff78564279203e65"/>
+	</game>
+	<game name="Go64! 2000-08 (2000)(CSW)(Side A)[o]">
+		<description>Go64! 2000-08 (2000)(CSW)(Side A)[o]</description>
+		<rom name="Go64! 2000-08 (2000)(CSW)(Side A)[o].lnx" size="167680" crc="f30f7da7" md5="de16293086f888c3b5b86842d18435e6" sha1="d5f6ef107db6271971e5f9b0da0032b28c6f347e"/>
+	</game>
+	<game name="Loadstar Issue #014 (1985)(Softdisk)(Side A)[Z64 Part 1-4]">
+		<description>Loadstar Issue #014 (1985)(Softdisk)(Side A)[Z64 Part 1-4]</description>
+		<rom name="Loadstar Issue #014 (1985)(Softdisk)(Side A)[Z64 Part 1-4].lnx" size="154818" crc="99882965" md5="f4406e4ccc72982f48f0d1a05148b006" sha1="70ea513960b207beb4daa02b9980e999fc6ef0a5"/>
+	</game>
+	<game name="Loadstar Issue #014 (1985)(Softdisk)(Side B)[Z64 Part 1-4]">
+		<description>Loadstar Issue #014 (1985)(Softdisk)(Side B)[Z64 Part 1-4]</description>
+		<rom name="Loadstar Issue #014 (1985)(Softdisk)(Side B)[Z64 Part 1-4].lnx" size="167222" crc="3bc2af2d" md5="0927c09cf6747e6aa2d9a184afd34be3" sha1="958b859bfae166480aac61464df60c4e8f949b22"/>
+	</game>
+	<game name="Mojo - Best of 92 (1992)(-)">
+		<description>Mojo - Best of 92 (1992)(-)</description>
+		<rom name="Mojo - Best of 92 (1992)(-).lnx" size="154240" crc="c66fe87f" md5="aafd8ad9743e76dee09d1fdac1b99a46" sha1="aa6c89e3eaf6c2c0034dd82a70cf4643c1f866d7"/>
+	</game>
+	<game name="Mojo - Fall 93 (1993)(-)">
+		<description>Mojo - Fall 93 (1993)(-)</description>
+		<rom name="Mojo - Fall 93 (1993)(-).lnx" size="140642" crc="60ae6c41" md5="68b4ef3eb67edb5143d74e0dfaf687e6" sha1="bf6eeae885672970f1daf1816079039e6ebcfb7b"/>
+	</game>
+	<game name="Mojo 93-02 (1993)(-)">
+		<description>Mojo 93-02 (1993)(-)</description>
+		<rom name="Mojo 93-02 (1993)(-).lnx" size="154240" crc="172ecf0a" md5="53075685c3d1e94a8de0ab2d989d7d5b" sha1="805e21543dc4b7f9aca4806ae6b736a0944bbf50"/>
+	</game>
+	<game name="Mojo 93-04 (1993)(-)">
+		<description>Mojo 93-04 (1993)(-)</description>
+		<rom name="Mojo 93-04 (1993)(-).lnx" size="157568" crc="f56ea76e" md5="66b1db3645292b920b80c4dcbab653c1" sha1="20b31c4b4b152465343cc963e2fcf3c53608df52"/>
+	</game>
+	<game name="Transactor #08 (1985)(Transactor Publishing)">
+		<description>Transactor #08 (1985)(Transactor Publishing)</description>
+		<rom name="Transactor #08 (1985)(Transactor Publishing).lnx" size="161257" crc="a1b4c722" md5="236da3e8c68cbe78df4094282ab57c10" sha1="6b4ef90639dc9b64d93f42bb24ef2bc3dcac4483"/>
+	</game>
+</datafile>

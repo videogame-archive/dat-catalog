@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 4 - Commercials - Hardware</name>
+		<description>Sony PlayStation 4 - Commercials - Hardware (TOSEC-v2013-04-07)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-04-07</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation 4 (2013)(Sony)(EU)">
+		<description>PlayStation 4 (2013)(Sony)(EU)</description>
+		<rom name="PlayStation 4 (2013)(Sony)(EU).mp4" size="70253679" crc="d1a444f7" md5="fbf6b0e4d05169c63699c293f5cc7c26" sha1="80424bd5539f4f114a9c0f6421bf1a0fa3fb6b81"/>
+	</game>
+	<game name="PlayStation 4 - See the Future (2013)(Sony)(EU)">
+		<description>PlayStation 4 - See the Future (2013)(Sony)(EU)</description>
+		<rom name="PlayStation 4 - See the Future (2013)(Sony)(EU).mp4" size="171521446" crc="74dedbe0" md5="d9a47696b7b7552562ce4d4628677f77" sha1="8e6cf562bc3ef19baa1ffe2bc2ceabd163c25300"/>
+	</game>
+	<game name="PlayStation Meeting (2013)(Sony)(EU)">
+		<description>PlayStation Meeting (2013)(Sony)(EU)</description>
+		<rom name="PlayStation Meeting (2013)(Sony)(EU).mp4" size="127264672" crc="6d1c904c" md5="0553ba778e3a77363e5d2027a17d15fb" sha1="470208b965325b2100ac58847696aab829d7436c"/>
+	</game>
+</datafile>

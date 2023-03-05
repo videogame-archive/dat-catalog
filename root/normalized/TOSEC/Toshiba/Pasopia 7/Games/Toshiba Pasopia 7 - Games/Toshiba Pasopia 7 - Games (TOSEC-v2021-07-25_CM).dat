@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia 7 - Games</name>
+		<description>Toshiba Pasopia 7 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).dsk" size="174336" crc="0586fe48" md5="02c19f6a6b941a3b4062d28350648af4" sha1="6aa79dc8b3ae1cbdc0c88bbd4860f21d73f7e50f"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).dsk" size="174336" crc="bb133c69" md5="d279316954b8ca62ae54127d6fd01256" sha1="57c107a17174de30cb3b66ec9ac14d0edcfaec87"/>
+	</game>
+</datafile>

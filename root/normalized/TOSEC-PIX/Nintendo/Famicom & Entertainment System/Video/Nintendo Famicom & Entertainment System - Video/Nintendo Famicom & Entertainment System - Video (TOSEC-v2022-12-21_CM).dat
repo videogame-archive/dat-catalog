@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Famicom &amp; Entertainment System - Video</name>
+		<description>Nintendo Famicom &amp; Entertainment System - Video (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Famicon News - Tetris Flash (1993)(Nintendo)(JP)">
+		<description>Famicon News - Tetris Flash (1993)(Nintendo)(JP)</description>
+		<rom name="Famicon News - Tetris Flash (1993)(Nintendo)(JP).mp4" size="20081714" crc="e757d9ce" md5="e9e5d9e6c73f8eb5d3d55b1727ea8ff7" sha1="e514dd91b5276922b84764feb4afc19aa68d54a3"/>
+	</game>
+	<game name="Famicon News - Yoshi no Cookie (1993)(Nintendo)(JP)">
+		<description>Famicon News - Yoshi no Cookie (1993)(Nintendo)(JP)</description>
+		<rom name="Famicon News - Yoshi no Cookie (1993)(Nintendo)(JP).mp4" size="21431855" crc="5f21d9c6" md5="41c62d6d70a6a3088af6d55cfec5ce68" sha1="a69c537cc079841b3e630f930e8c41786daa4472"/>
+	</game>
+	<game name="Family Computer News - Hoshi no Kirby Yume no Izumi no Monogatari (1993)(Nintendo)(JP)">
+		<description>Family Computer News - Hoshi no Kirby Yume no Izumi no Monogatari (1993)(Nintendo)(JP)</description>
+		<rom name="Family Computer News - Hoshi no Kirby Yume no Izumi no Monogatari (1993)(Nintendo)(JP).mp4" size="18567584" crc="1f811956" md5="b9e35dde80735912fbcfbd149c2e6c69" sha1="7c621e211be6d21a1cacbe740c72fc76aed91d3b"/>
+	</game>
+	<game name="World Of Nintendo (1989)(Nintendo)(US)">
+		<description>World Of Nintendo (1989)(Nintendo)(US)</description>
+		<rom name="World Of Nintendo (1989)(Nintendo)(US).mp4" size="16914377" crc="77a39ff7" md5="434d016c5b3dcc53596bf0f09ebb751d" sha1="f19690c80e45c83551cf426f7d19dce02d4be01b"/>
+	</game>
+</datafile>

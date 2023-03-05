@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad NC-200 - Games</name>
+		<description>Amstrad NC-200 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[alt print]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[alt print]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[alt print].rom" size="16384" crc="f23f423f" md5="10f7815a87a50774b03a250c441b2284" sha1="2e2221da8f8acf6000a51bf6d3fabf773109effe"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[alt print]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[alt print]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[alt print].rom" size="16384" crc="d1ee1db2" md5="8e07a04d55b1b1038e880cd2bbd926ba" sha1="9e42c7cfc8e0e08b06f01b192a91bf3ca796d7a9"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[alt print]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[alt print]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[alt print].rom" size="16384" crc="3025cbea" md5="fc515b5447b01b797f32e5b3e694eb50" sha1="3ce38eae00c547444801cc93dacc18db11091937"/>
+	</game>
+</datafile>

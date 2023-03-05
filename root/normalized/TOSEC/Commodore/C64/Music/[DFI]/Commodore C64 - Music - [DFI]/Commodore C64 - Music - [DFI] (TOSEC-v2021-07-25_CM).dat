@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Music - [DFI]</name>
+		<description>Commodore C64 - Music - [DFI] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="10 Years HVSC (2006-11-28)(HVSC Crew)">
+		<description>10 Years HVSC (2006-11-28)(HVSC Crew)</description>
+		<rom name="10 Years HVSC (2006-11-28)(HVSC Crew).dfi" size="262144" crc="46c84f99" md5="0cc4676f1af319102093a34b0158ccf2" sha1="a9da72d00c2c66d4ec686d84e1cf236978a28518"/>
+	</game>
+	<game name="10 Years HVSC (2006-11-28)(HVSC Crew)[a]">
+		<description>10 Years HVSC (2006-11-28)(HVSC Crew)[a]</description>
+		<rom name="10 Years HVSC (2006-11-28)(HVSC Crew)[a].dfi" size="262144" crc="00a13e8c" md5="c05a71995dcdd7ab5d9a8067d1697e3e" sha1="c1af2eb80cfa5b269302f8ce9690e41316a802e3"/>
+	</game>
+</datafile>

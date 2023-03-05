@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad CPC - Manuals - Games</name>
+		<description>Amstrad CPC - Manuals - Games (TOSEC-v2014-01-31)</description>
+		<category>TOSEC-PIX</category>
+		<version>2014-01-31</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Kane (1986)(Mastertronic)">
+		<description>Kane (1986)(Mastertronic)</description>
+		<rom name="Kane (1986)(Mastertronic).pdf" size="707303" crc="9d9a6688" md5="ac014ded0f2e0267c0c01781693fc0a1" sha1="017ecbc1e93f59cd56225f743fd909470508fb28"/>
+	</game>
+	<game name="Knight Games (1986)(English Software)">
+		<description>Knight Games (1986)(English Software)</description>
+		<rom name="Knight Games (1986)(English Software).pdf" size="1757803" crc="94a138c4" md5="05491b4593641e24cb24c46a6bd2c2af" sha1="7072803b1627e272ddc603a27d1b64fa00cadcfe"/>
+	</game>
+	<game name="Kong Strikes Back (1985)(Ocean)">
+		<description>Kong Strikes Back (1985)(Ocean)</description>
+		<rom name="Kong Strikes Back (1985)(Ocean).pdf" size="8826796" crc="5ba7ea85" md5="375d1db41b83386c84b91c113dd0c5e3" sha1="b8a0edfd9a371c82912e25f4d28c15b7c39a40f9"/>
+	</game>
+	<game name="Logo (1984)(Kuma Computers)">
+		<description>Logo (1984)(Kuma Computers)</description>
+		<rom name="Logo (1984)(Kuma Computers).pdf" size="470402" crc="3a1345f9" md5="c134a1bec79ef79018213ca90dae54ea" sha1="cd7adfd8b0a04b5ad9c5d3655cd91d361db85028"/>
+	</game>
+	<game name="Sped King (1985)(Mastertronic)">
+		<description>Sped King (1985)(Mastertronic)</description>
+		<rom name="Sped King (1985)(Mastertronic).pdf" size="765171" crc="d69aa162" md5="5bb320f5294a65493a85c6b60c8bdfd0" sha1="b5fa3b414d3af9de4a2d80ae24834b6fde35a5b2"/>
+	</game>
+	<game name="Storm II - The Fear (1987)(Mastertronic)">
+		<description>Storm II - The Fear (1987)(Mastertronic)</description>
+		<rom name="Storm II - The Fear (1987)(Mastertronic).pdf" size="546224" crc="c04c854d" md5="6a1bcfece2a93ca4f5849ac4351161eb" sha1="0addbdd9961e1a5c00836c02de480afb72e21e6e"/>
+	</game>
+	<game name="World Series Baseball (1984)(Imagine)">
+		<description>World Series Baseball (1984)(Imagine)</description>
+		<rom name="World Series Baseball (1984)(Imagine).pdf" size="2000281" crc="f07541d1" md5="5338d335312c00169547c8dc8f8899ee" sha1="eaf3d35e6ea50a619953b736799bda13f7e3beae"/>
+	</game>
+</datafile>

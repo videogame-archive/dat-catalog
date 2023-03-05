@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad CPC - Games - [SNA]</name>
+		<description>Amstrad CPC - Games - [SNA] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mandarin, The (2022-03-13)(Mananuk)">
+		<description>Mandarin, The (2022-03-13)(Mananuk)</description>
+		<rom name="Mandarin, The (2022-03-13)(Mananuk).sna" size="65792" crc="768e8292" md5="27fdefe7429d0959a8355b8d57627bd5" sha1="a7ce2b96ee4d3453975539754acf0b92de9c6b6a"/>
+	</game>
+	<game name="Paleto Jones - The Tomb of Uncle Ramon (2022-03-20)(Mananuk)">
+		<description>Paleto Jones - The Tomb of Uncle Ramon (2022-03-20)(Mananuk)</description>
+		<rom name="Paleto Jones - The Tomb of Uncle Ramon (2022-03-20)(Mananuk).sna" size="65792" crc="1e8303be" md5="4497612d96f27c53ff2de3589570f901" sha1="2274cb1f4e37dff512ad8f7d00f4ae5ed744b31d"/>
+	</game>
+	<game name="Pocky (2022-02-20)(duruti)">
+		<description>Pocky (2022-02-20)(duruti)</description>
+		<rom name="Pocky (2022-02-20)(duruti).sna" size="9516" crc="10923262" md5="2b55a402e7e9e207e62854421d051084" sha1="311018d6bbbd947d62985c78bb4a6c79219ea978"/>
+	</game>
+</datafile>

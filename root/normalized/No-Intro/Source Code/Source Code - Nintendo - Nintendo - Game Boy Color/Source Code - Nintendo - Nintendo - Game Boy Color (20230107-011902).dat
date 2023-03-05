@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>176</id>
+		<name>Source Code - Nintendo - Nintendo - Game Boy Color</name>
+		<description>Source Code - Nintendo - Nintendo - Game Boy Color</description>
+		<version>20230107-011902</version>
+		<author>Hiccup, SonGoku, togemet2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Pocket Music (USA, Europe)" id="0001">
+		<description>Pocket Music (USA, Europe)</description>
+		<rom name="Pocket_Music_GBC_Source_and_build.zip" size="1738459" crc="11bf518e" md5="5230f28fc5430b1a8a9d7d95677a7cb5" sha1="9fa6bcb60fdbbacd8bc793143dcee7bcdd36d73b" sha256="9ea20f674b1f271167b84c37964a9366e9863577dce02186f4f6b1afb9009af5" status="verified"/>
+	</game>
+</datafile>

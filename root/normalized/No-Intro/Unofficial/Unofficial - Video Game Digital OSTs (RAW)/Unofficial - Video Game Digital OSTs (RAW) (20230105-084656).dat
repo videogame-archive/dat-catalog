@@ -1,0 +1,1075 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>357</id>
+		<name>Unofficial - Video Game Digital OSTs (RAW)</name>
+		<description>Unofficial - Video Game Digital OSTs (RAW)</description>
+		<version>20230105-084656</version>
+		<author>NovaAurora, www2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="7 Billion Humans - Original Soundtrack (World) (FLAC)" id="0039">
+		<category>Audio</category>
+		<description>7 Billion Humans - Original Soundtrack (World) (FLAC)</description>
+		<rom name="7 Billion Humans Original Soundtrack (flac).zip" size="190806443" crc="6c7f2c30" md5="b4f55ab6a78b72be9c2710e370a579f5" sha1="a0006d97e835ee89b25bb120acac1c70eb7f6b3f"/>
+	</game>
+	<game name="7 Billion Humans - Original Soundtrack (World) (MP3)" id="0040" cloneofid="0039">
+		<category>Audio</category>
+		<description>7 Billion Humans - Original Soundtrack (World) (MP3)</description>
+		<rom name="7 Billion Humans Original Soundtrack (mp3).zip" size="84858318" crc="7da13bde" md5="9483f05a14697ba8ca4f40e470c518b2" sha1="5f4b7ac4d558a0b0e7b6e7f74819915016e38f6a"/>
+	</game>
+	<game name="7 Billion Humans - Original Soundtrack (World) (OGG)" id="0041" cloneofid="0039">
+		<category>Audio</category>
+		<description>7 Billion Humans - Original Soundtrack (World) (OGG)</description>
+		<rom name="7 Billion Humans Original Soundtrack (ogg).zip" size="52490743" crc="aed56a80" md5="f33bce8d4031df8a2b55ef876ec2484c" sha1="9f270bc960b806c6a34caec1669b7fc70c2d2fa5"/>
+	</game>
+	<game name="8-Bit Armies - Original Soundtrack (World) (Steam) (MP3)" id="0014" cloneofid="0013">
+		<category>Audio</category>
+		<description>8-Bit Armies - Original Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="01 Blockhead.mp3" size="7177839" crc="f7c7ffdd" md5="f0da44f6808548df88d0877593c006bf" sha1="1e302f5e023276f66b1bd8de584809fabfbaa97c"/>
+		<rom name="02 More Byte.mp3" size="7785447" crc="5f165045" md5="dd76d1354b1f83906391d05c582933f9" sha1="c7f8a01b030a5f1e6c0bb162401504a65218090d"/>
+		<rom name="03 Square Off.mp3" size="11456151" crc="cbfc70f4" md5="998855f632a062425a181ce5c70e3647" sha1="23dd46b75c02d9b9921c7176ebc26a03c6cfa76c"/>
+		<rom name="04 Back For More.mp3" size="10022739" crc="61228581" md5="be69208d098c6368cba5384e9f5f7fab" sha1="ab860b1ccded03cb6db43342a2d225edc7fff569"/>
+		<rom name="05 Base Builder.mp3" size="7476423" crc="5c2c69c5" md5="bd6304cc5a368fa23e328bbff2c80d8f" sha1="2243638b10cc77aca572cd09573fb517f0a01cd3"/>
+		<rom name="06 Check My Creds.mp3" size="9383811" crc="bab5d834" md5="0f7639e4b06560bf73fa648b2c066dd5" sha1="3855785d7b598e51c330338be3108ae754a03e77"/>
+		<rom name="07 Pixelated.mp3" size="11414391" crc="0baa7082" md5="f04b5f3863cd9d2faabb51537030ff0b" sha1="54ce43519d7fca3bb446216d691d46004b7665bd"/>
+		<rom name="08 Oh Snap.mp3" size="10316103" crc="a7ce101b" md5="fde7190c0997e6c7f014c96601753ee2" sha1="732ce6a03973e44642c2af7d094d03f610179c53"/>
+		<rom name="09 Battle Bit.mp3" size="8131011" crc="f3f9e499" md5="f423489fd8d362dbcff4df363b631002" sha1="9eda7cb73ba9894418d89c2132b54558476598b0"/>
+		<rom name="10 Click Move Attack.mp3" size="12474051" crc="3bfa4c8b" md5="5999a390ab6ddf55028144353650478c" sha1="207630e6206838b5fdaad79efff2a76caa5390af"/>
+	</game>
+	<game name="8-Bit Armies - Original Soundtrack (World) (Steam) (FLAC)" id="0013">
+		<category>Audio</category>
+		<description>8-Bit Armies - Original Soundtrack (World) (Steam) (FLAC)</description>
+		<rom name="01 Blockhead.flac" size="25034101" crc="9bf9bb1d" md5="0f868c2819d34ec5dab44549df1483fa" sha1="b927c99cf73bd2289094f5bf1c86f92c7ed17bbe"/>
+		<rom name="02 More Byte.flac" size="28860933" crc="72795be7" md5="dac6b68f5b18151d3ebd0557c5de0963" sha1="ad7ff7ecf3f6c5d2543ae08d8bc8b66fe6b73800"/>
+		<rom name="03 Square Off.flac" size="36920040" crc="71e99ad2" md5="32dcc3f828cc33c7dc327e2a8991b894" sha1="099d549d69b7d0326159957593f54cfe3411ee17"/>
+		<rom name="04 Back For More.flac" size="34736847" crc="47ee9cb4" md5="41c70d987f5ef40ef4aefe9b27668b15" sha1="c79192bfe94a98f525fe9e644323ef117419a101"/>
+		<rom name="05 Base Builder.flac" size="23958462" crc="3527b389" md5="d583516eca0d3f64ea50705d61720ec3" sha1="1c2ded06e474db43e02d00cdbd05ac9647e40d6c"/>
+		<rom name="06 Check My Creds.flac" size="33637238" crc="4a0ce13f" md5="75b27d0f53933c6c8b8f649285dfc519" sha1="b13a507f7e6c2fae8ab179f920303c87f51da059"/>
+		<rom name="07 Pixelated.flac" size="40379146" crc="63e897dd" md5="dc2fabe363f6c87ef0a7747af25b8187" sha1="215f91181823221910fd3e8b05866cea30559465"/>
+		<rom name="08 Oh Snap.flac" size="38827038" crc="449b0e35" md5="9e1791a4b808e21b9460463f7f865e40" sha1="28cd03a15d374ed88f7dad2f59460377f23850d0"/>
+		<rom name="09 Battle Bit.flac" size="27742342" crc="bd1589c0" md5="908131255dbd647db4c4604bfbc1c693" sha1="35a29b59b79b61a1c113baad416174cd50fe5603"/>
+		<rom name="10 Click Move Attack.flac" size="45442234" crc="9d56764c" md5="dd78166cf60e5d5e62a5e6895bb73c48" sha1="82e3b695e252cf5fee8e80734a808d7f097a4732"/>
+	</game>
+	<game name="Baba Is You OST (World) (Fangamer) (MP3)" id="0002" cloneofid="0001">
+		<category>Audio</category>
+		<description>Baba Is You OST (World) (Fangamer) (MP3)</description>
+		<rom name="BIY_OST_mp3.zip" size="202245730" crc="5a59acb1" md5="3c22d8d64b0a1c844c97f84d7c76f588" sha1="4eaab40753e69a40ea6ab88a914aabd63c4145ef"/>
+	</game>
+	<game name="Baba Is You OST (World) (Fangamer) (FLAC)" id="0001">
+		<category>Audio</category>
+		<description>Baba Is You OST (World) (Fangamer) (FLAC)</description>
+		<rom name="BIY_OST_flac.zip" size="401293305" crc="b09866a5" md5="7bad0f989087a16da7c4607fe74a51e7" sha1="df6a610789b46ce93e252d344bf36779a6050ab2"/>
+	</game>
+	<game name="Banjo-Kazooie (World) (Bandcamp) (FLAC)" id="0054">
+		<category>Audio</category>
+		<description>Banjo-Kazooie (World) (Bandcamp) (FLAC)</description>
+		<rom name="Grant Kirkhope - Banjo-Kazooie.zip" size="354320019" crc="984820ad" md5="dc2c858ba6232b4a6b8c37fb8ed85599" sha1="4148bda2344f324fc35ae9af6d0368dc92d6236f"/>
+	</game>
+	<game name="Banjo-Kazooie - Everything and the Kitchen Sink! (World) (Bandcamp) (MP3)" id="0049" cloneofid="0050">
+		<category>Audio</category>
+		<description>Banjo-Kazooie - Everything and the Kitchen Sink! (World) (Bandcamp) (MP3)</description>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 01 Nintendo &amp; Rare Logo.mp3" size="613139" crc="b9ff3e00" md5="fc9fa8c73a421ba5846d8e4d4223d106" sha1="de84059ff18b2ee5546468ccc19e3e15949c1c5e"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 02 Main Title.mp3" size="2044328" crc="18d913d4" md5="8df447c0716ca974e08dbc0a53b25f25" sha1="86e8c5b3bc3c5e12661f76ad171ad2b34f1032b7"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 03 Game Selection 1.mp3" size="3524240" crc="1986fae4" md5="f31f72d5c1f0d38308c29194794385d8" sha1="b850c31ebbbdbaf718b6db8e4d4624bd8f0a52d7"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 04 Game Selection 2.mp3" size="4430384" crc="908601b0" md5="ce7137b18ba5066b48089d6103b8a5c7" sha1="48257c7d2b074d6f99c2b4832f4ddabac8d1c9de"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 05 Game Selection 3.mp3" size="2266612" crc="9418d611" md5="13b96196a8336ca9ced74d68334a62c5" sha1="514a10f197ae4b653260a7e9c6dfbfb1b0bea754"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 06 Overture.mp3" size="5483208" crc="717e2a49" md5="4284d16ec84a29c8018bebf843c444d9" sha1="5686bc12ce00bb7d7fe4e89757e653efcdf97607"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 07 Spiral Mountain.mp3" size="6997446" crc="f88b10fc" md5="8d37aa6fbfd216f0639ad62527975adb" sha1="2d6381b3271c36a30d59aff779673a6b8dbb84ce"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 08 Spiral Mountain - Aquatic.mp3" size="6567231" crc="88306979" md5="21804c43167abd9346b76d5f3f4a5364" sha1="b27672738be22930a3423fc9f19e93dd95c70282"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 09 Pause Screen.mp3" size="3445897" crc="9720cbbf" md5="4806ab9fd0cd17fc6d1e93541e1e72e5" sha1="129639c443f9264f70e88d8e6980ee69d6406ec6"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 10 Spiral Mountain - Bridge To Gruntilda's Lair.mp3" size="1874364" crc="3428649d" md5="2e37f597541c0dbdc5cefb02e2d055bb" sha1="4462d095c8a87caa41e2344a89fe400836df1831"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 100 Click Clock Wood - Autumn - Aquatic.mp3" size="5181387" crc="9d649deb" md5="6f898daf0928d55aed0803a4cf495f40" sha1="454f88f7fc9376575e0e39f4fb0c4ed80dbe9603"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 101 Click Clock Wood - Gnawty's House.mp3" size="3521774" crc="c6cfeb62" md5="70b40fe43135a63dab13734c2ff813c3" sha1="b84d7b3fb095f3741cfc71e1d73e6d71fe1f5eda"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 102 Click Clock Wood - Winter.mp3" size="6884224" crc="726229f2" md5="5928898b9e51da9f745d2e37dd8b7c08" sha1="febf0c9cf5a41bd938c9ad6519dadafa2e227377"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 103 Click Clock Wood - Nabnut's Storage Room.mp3" size="4168818" crc="489ab6d3" md5="1c4602821da5e7a2c67d2f32cc8816ba" sha1="0fc433bf07de361a4d8b7913a2d31eeb0c57368a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 104 Grunty's Furnace Fun.mp3" size="7067864" crc="83c5f19a" md5="d8728ce4044620d9c3284f22e81881d5" sha1="6deab14368d5c1907547d8352ad2f02f48a8f82a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 105 Grunty's Furnace Fun - Banjo-Kazooie Question.mp3" size="268755" crc="0fc4e913" md5="444537a590407395cc3bcb01fca335f1" sha1="605f7e39b4cc8396dd7250e0411e53e61fad390b"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 106 Grunty's Furnace Fun - Skull Question.mp3" size="288788" crc="907bd97a" md5="df65035232b5e934ce7732e1a0ffb753" sha1="312456ca12c9277b97e901dccf48c987f5d68e94"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 107 Grunty's Furnace Fun - Gruntilda Question.mp3" size="265097" crc="3bbde18d" md5="eaecfe23973ced2a1e1e0d14eacaba04" sha1="12399a5dc2eadd727fd9e3dec5249830b7344dbc"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 108 Grunty's Furnace Fun - Note Question.mp3" size="257187" crc="0c3cb879" md5="00e0e0b003305cbad1867b60b682157b" sha1="383299a540d9a771b2597323bdda5cda7b5c2e83"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 109 Grunty's Furnace Fun - Joker.mp3" size="273972" crc="55b2b762" md5="daa761937eb61e312d677e072417d8db" sha1="c2229c393ccf0ab85a709753808b78d9b89f31bd"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 11 Grunty's Beauty Steal Machine.mp3" size="3652552" crc="94cab4e9" md5="25c7b992b698b48c4df149dffa18a1be" sha1="0f66f93dd03f6a3881de8829fc9541b6bf99cdc3"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 110 Banjo Wins Wins Furnace Fun Fanfare.mp3" size="313188" crc="fe899504" md5="33610573e82f54c847e88cb8f11eeb96" sha1="11c03197ed10f659b7437d082c6243f5abb64637"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 111 Grunty's Defeat.mp3" size="4518086" crc="961538d5" md5="50764d65eb8c1b4b16ae67ecd58392cd" sha1="5fefc8907941bb0a10f861ff974c2e240a7b5c8a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 112 Tooty's Theme.mp3" size="2609066" crc="1bfbe78b" md5="3ff4c2c9962d8408ebb6d33693ea0c5d" sha1="6ce3e2769102519c76532977803d5b94b35aba2a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 113 End Credits.mp3" size="9205668" crc="cbc7e064" md5="a707f8af817dbda070fd18e6296f55c5" sha1="4ae39ee125235d0339abf2cf214495497e520105"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 114 Mumbo's Barbeque.mp3" size="3916099" crc="5076b7a5" md5="5c5674a4cde93e91ee27735669bc6860" sha1="6a22686efe96d722f0163f5bc4f7787d23a296c7"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 115 Top Of The Lair.mp3" size="6701545" crc="73a5f5f8" md5="d70ec589d650176d644c474a6ceea32e" sha1="9d1919c444d363dc64a9e9702e07560e8faa6685"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 116 Grunty's Door Opens Fanfare.mp3" size="342137" crc="7e3b0af7" md5="55be0d03f9bf38627b7c234aafb98d23" sha1="a599187b20f2697d2040f76ef0c71f3313d4ea10"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 117 Final Battle.mp3" size="9618721" crc="8ba101bf" md5="5821fb66daceff92e30d409fefbd422d" sha1="be47a45e67eecba75c919bb0eba326e2a76fa6fb"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 118 Jinjonator Appears.mp3" size="490134" crc="65f80046" md5="7dede9c0e8fa33b973b57f7e7fa94805" sha1="e3af43bdfd08f6f956ab9299a4a6748140ba9af5"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 119 Jinjonator Charges.mp3" size="1639895" crc="62b52a4c" md5="59a0f2ca0dde329dec00a9859dc96ddb" sha1="54c39608efe74f9ca7fe4a72181fad2f8c7c0c1a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 12 Gruntilda's Lair.mp3" size="6435743" crc="a5a4b3f4" md5="daefe643dbe130e90b54021222131df4" sha1="451cc6af89399e320857a0b0ae0e4512e15c0012"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 120 Grunty Falls.mp3" size="1100142" crc="313741cd" md5="8a64a361e032def4552edd5addb4ba9e" sha1="6d854699cdf655f5cb0e2d0bdad812c28f9f2078"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 121 Buried Under A Rock.mp3" size="941732" crc="fd03e4bb" md5="617d73b85bda80ae92736b9089eb1925" sha1="a9a7fcf61eaaf32efe1ea22a12a7fbb023348216"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 122 On Vacation.mp3" size="4223376" crc="7ed21361" md5="80e7f4a5ad7628d9d16c7a7b16ac8fa8" sha1="2191c2ba69fc10ea308558d90fe62fcbd69975b0"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 123 The End.mp3" size="534199" crc="2703c671" md5="b4f85168b1d797a50512b4c005bfa2af" sha1="aaf84e9d30e366a8c508f2d22f9675c6998f7f58"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 124 Wading Boots.mp3" size="1748180" crc="77da0c74" md5="a7e8a76b5a3cab844841633f20623e48" sha1="24ce9e9eeba4853b778f76929e4c94fe60d74dad"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 125 Turbo Trainers.mp3" size="1737867" crc="3cc2d90d" md5="11b1a3c2c2110f84e3de77d8314e21e2" sha1="c548dff06d034665491d7d06d698422f394a95d8"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 126 Wonderwing.mp3" size="1917245" crc="96cbce43" md5="17e72006175a26d38ce6b20303853c26" sha1="e28dc1c6e7f2c958f123e0815a53de4da2840120"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 127 World Puzzle Complete Fanfare.mp3" size="340771" crc="c8b015ca" md5="be554826494fc4c4902d78d4a80ba0bc" sha1="f4fcb1cff80be5498477207875ffdfeaf65f4b20"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 128 World Door Open.mp3" size="305477" crc="43f5c0a8" md5="93cf8650f21b02101e24f036574c4574" sha1="ec74874ac85a346ef992070c21f6d1a70b69d052"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 129 Open Note Door Fanfare.mp3" size="331732" crc="dc624d0c" md5="a3e8c3b8d5fbf5a4a14511db69cd0d2f" sha1="20de56ba538178bc629d331354c7ea2d98fd7512"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 13 Mumbo's Mountain.mp3" size="6930699" crc="c0ac1595" md5="606f4a6168c0b9040675718f51467b4f" sha1="80738dbc9c846f8af48878bf715eca4d287dbe05"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 130 Secret Fanfare #1.mp3" size="2815329" crc="c4535574" md5="22c57542ff905970bc7d15954c42ab9d" sha1="9ecedf94113b0f975d6feff67d1c034035ee4d6b"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 131 Secret Fanfare #2.mp3" size="2922320" crc="f2c24b15" md5="a9ad3205de6670b62d47126b7f5b393c" sha1="ca4d45b3108e86bf961a119a5fd5e0c9e5bd90d7"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 132 Secret Fanfare #3.mp3" size="3209117" crc="4fee2d27" md5="42f1ebdffcbe3f5224ec0c932feb5ab4" sha1="cdc18d6f1c825630eec29ae2a42663eba7a8863b"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 133 Secret Fanfare #4.mp3" size="4147533" crc="83f5479c" md5="afd377383db787a334a809ff8de9bf63" sha1="7c150cc4a56a3d834448881671d07fd2f435b20e"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 134 Secret Fanfare #5.mp3" size="4063678" crc="c54da97c" md5="a35ba9e70f4acdc1a3ad6f2f3e9498ff" sha1="61f46f8a8c41e93be387a556f35a57b10932bd4f"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 135 Collect Secret Item Fanfare.mp3" size="312069" crc="3ba7d8ef" md5="9620b72e26518bca6129d8f2538d616c" sha1="bd044857df28443b6def347f2a3fdb84a0508ad0"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 136 Jiggy Appearance.mp3" size="340238" crc="c2777303" md5="6d979978c4341b1a944bbdc4d4a34ec9" sha1="0a5fce48c69ffcd1be2631e571c560fec6529b24"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 137 Collect Jiggy.mp3" size="338376" crc="097ed2d1" md5="c2652d644af79e85fcc4201e57c899c5" sha1="65a55bab5df7fae709ca40547fb63b93636c2bd4"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 138 Collect Jinjo.mp3" size="297537" crc="cf6c2e56" md5="0242b2edeebe3c7fba377f54ec2be655" sha1="41b19c3ed983c8129ccafade4d607a07fe30dd11"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 139 Collect All Jinjos.mp3" size="345790" crc="48c9b6f6" md5="7a22aea19edae7f0b8859712d510a45e" sha1="1cba7530664094afdc566808d5fefda25498719a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 14 Mumbo's Mountain - Aquatic.mp3" size="5576241" crc="eb5175f9" md5="a51b2ada345a2d353e4b325b70c95538" sha1="0dc16c8f242d0639acd41ab741262a55040aac65"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 140 Correct Fanfare.mp3" size="282626" crc="b2246e06" md5="de06dbc2f5944dfbf8f9382e6b0fc87f" sha1="eee009f0d8283e91b899fa06f57b9663dc69f505"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 141 Complete Extra Honeycomb.mp3" size="324470" crc="6a4a745c" md5="307acc355b1422ff07b5381c904e6d09" sha1="4bdb1594121e086a6ee03fe2bc3bf314e8d3884b"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 142 Mumbo's Magic.mp3" size="447495" crc="a17aa4cd" md5="5ab90a862c485ada2661b5285f8bca48" sha1="567aec5f4d4223def1423f7f62b7508905c58a19"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 143 Banjo's Transformation.mp3" size="383477" crc="23415398" md5="58b6b99ad8462b1aba4da96cd246e80c" sha1="1c2e877e9e627daf02539e160ccc31f8148a8f76"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 144 Collect Extra Life.mp3" size="284928" crc="772cae85" md5="07102a539094bbd3850f3405558472bb" sha1="dcc08342f83aeb5fa4774bb44847d4d2f298c4cb"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 145 Lose Life.mp3" size="340251" crc="8d1afb01" md5="ef5ebcb4c9d743c834c4da81f4202e79" sha1="cf36afa7e0bc394a5736646979ac2679341dfda8"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 146 Game Over.mp3" size="556435" crc="3af54713" md5="3c1edb9280b34df42e8fb54191665add" sha1="3e4e0a5cb532c4889aa58c59ad086feec064f33e"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 147 Bottles' Bonus Start.mp3" size="439191" crc="b1d577fc" md5="c62d47e87d06b59ae5df662a41d18179" sha1="88c51f598db3c630966f39d32b668b0c2ea21f0b"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 148 Bottles' Bonus.mp3" size="4708071" crc="ff085917" md5="be708c031baac63f91cd03534cace6fa" sha1="56a5c05308a88c39986edde0c02cf89f061d6b45"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 149 Beta - Unused Jingle.mp3" size="341926" crc="8b911265" md5="f084fc193f73558cb1aaed0ff4b48ba9" sha1="0d03c6997105fb193834699fe77ca6ad5624fd49"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 15 Mumbo's Mountain - Mumbo's Hut Area.mp3" size="6898998" crc="e6cf4dc8" md5="83c20dd0e1b78206af2c17fd373db3ec" sha1="a39d3f2d47fedb5a564487ed019bd2f844c2e0db"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 150 Beta - Advent (Unused Song).mp3" size="3165390" crc="663c0992" md5="322f7efbf804517ce5c73c7614a45c23" sha1="9defd7e8731bbb1d73edc5ad000ea9430a32956e"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 151 Beta - Mumbo's Raindance (Unused Song).mp3" size="2776854" crc="9991844a" md5="61094787f790746fcbeef221caf9d022" sha1="2024fbac72b97bb93b2421985ed011b8b7dc8cac"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 152 Beta - Click Clock Wood (Unused Version 1).mp3" size="3431769" crc="3b74d476" md5="1966f1a24777de4367fd1d1dcb0fcf3c" sha1="c6f6d77bcbbbe494c68d70d8b7c3c6bfaba1881d"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 153 Beta - Click Clock Wood (Unused Version 2).mp3" size="3650088" crc="4c5b15aa" md5="797d2702c27d9b83333cac5472f46941" sha1="4f6f2ede1f0c77d0fb3a17c418fda55b1677cc36"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 154 Gruntilda's Lair - Mumbo's Mountain.mp3" size="5596399" crc="357d20f0" md5="f0310a32d1d8c7177a9f53708f1d2955" sha1="1d46c1139758e2c287b4344fd952dbd6a2e186d5"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 155 Gruntilda's Lair - Aquatic.mp3" size="5221945" crc="473a6154" md5="ec268fc79c2fb6f6fd4c27809d7e0af5" sha1="b14c897d69fde9abef812d9b938827384883a583"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 156 Gruntilda's Lair - Treasure Trove Cove.mp3" size="6385733" crc="b5f1db98" md5="f494ed10ddd1cb385c88dec756bbbc64" sha1="f6859920ebfa90633573e13a390ce33f971d38b6"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 157 Gruntilda's Lair - Clanker's Cavern.mp3" size="6426614" crc="b2ba1f4c" md5="24eee7b14dfc87f24c70943accea03f5" sha1="eee0f221575726af4c652b522071e48458ca42c5"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 158 Gruntilda's Lair - Bubblegloop Swamp.mp3" size="7773727" crc="53d5c66d" md5="b3e564fd0ff375bb4a8534b162037f94" sha1="343841594d5bb0daa649c6771e03c04466c0fc07"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 159 Gruntilda's Lair - Freezeezy Peak.mp3" size="5478781" crc="4811fede" md5="b97bb34ed6501f67b72d3a3244066904" sha1="39b8030ca52537f50e4d16944e484b1970ee5461"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 16 Mumbo's Hut.mp3" size="3385727" crc="f9760e04" md5="47bdd3001cbf2a819e412fa0fa103b8c" sha1="d31aa5243088b1e6e305ee9250a77e1f1b10c38d"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 160 Gruntilda's Lair - Gobi's Valley.mp3" size="6591173" crc="a891816d" md5="ceea9d803a5e90171227936cbda89444" sha1="4f83bc8780ac79c535c2bc25aae21e68f4042a58"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 161 Gruntilda's Lair - Mad Monster Mansion.mp3" size="5288042" crc="41c13644" md5="a7d0050a705d0acc8c93cda04e87c4ce" sha1="4014dae3089eda5e6104b332816367d55e7827de"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 162 Gruntilda's Lair - Rusty Bucket Bay.mp3" size="6849016" crc="b84b547a" md5="1d6b6415a453fd3989f865967c46f319" sha1="d5b91b53f079b08b7204eccc88c83afa87da996b"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 163 Gruntilda's Lair - Click Clock Wood.mp3" size="6019607" crc="5a8eefca" md5="48d5f41664300c33738000649054b638" sha1="8a1998d64138882189a45ac2b10767d293aca9aa"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 164 Gruntilda's Lair - Grunty's Furnace Fun.mp3" size="6417299" crc="7cd3e863" md5="d458e6f5be69810cc31a62199bc7086c" sha1="51d98a1f3ec8d683c3eebd0dd0e5eda2f9fc1067"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 17 Mumbo's Mountain - Ticker's Tower.mp3" size="6992465" crc="09cdefcc" md5="56465811d31ee726bb0251ee106e33aa" sha1="529aa5f99b9a1df7393f0b415abd07526e210a62"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 18 Mumbo's Mountain - Inside Ticker's Tower.mp3" size="5198524" crc="31ef2b6c" md5="81a4e518298a429a9acd92fc32e6da59" sha1="76a464b3ad06674365258fcebfe36da89477f95d"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 19 Mumbo's Mountain - Conga's Patch.mp3" size="7498679" crc="9c6fd84c" md5="2eaa435223da04dff4f22b41bf84484d" sha1="2ede7c1e60b3aa06fcc0a1f2f65db7be08ceb805"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 20 Brentilda's Theme.mp3" size="2621235" crc="5dbd7728" md5="9c70564ab529941b3e624884641ea056" sha1="a46678180fa9e7578e37d306ec2e0a056c213437"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 21 Treasure Trove Cove.mp3" size="7013041" crc="5066ab8c" md5="e5d6a0f664e81635fd89e1086df3ee34" sha1="9422cac895e255a7a3445406d3e3b43c9fbfca48"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 22 Treasure Trove Cove - Captain Blubber's Area.mp3" size="6101050" crc="6fb35f76" md5="9fbb939f23951b83c84db96acfaadedc" sha1="62ef1eef239a9a7b59617846c2ae93e30f0b36de"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 23 Treasure Trove Cove - Aquatic.mp3" size="6703382" crc="a5b92dfd" md5="ad57b96c01c928f3004c346326d62bf7" sha1="8b151df3f188ae4f44f2cb9d7e331c7238f8074d"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 24 Treasure Trove Cove - Nipper Battle.mp3" size="3931914" crc="56101c18" md5="180092d64879c6eb2abb9a7ca7be0046" sha1="2357c3fee2b6b10573e7c5b5dba9a9e3bb420454"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 25 Treasure Trove Cove - Inside Nipper's Shell.mp3" size="7043795" crc="5aeada74" md5="db68edab25834e44e7e6619f128b0fff" sha1="4b0771d2894c28f2ca6921fd881a7ebb7700e0fc"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 26 Treasure Trove Cove - Inside The Sandcastle.mp3" size="5608213" crc="c7d03438" md5="b6d9165f8631b6abee8d046fe72a4eb4" sha1="9563b97acecaf46f1b59b5828aaa2274a85d76db"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 27 Treasure Trove Cove - Inside The Sandcastle - Aquatic.mp3" size="5563321" crc="8194aa4f" md5="7597efaec17308ee36ff2ce490287cce" sha1="63c49ba0081785fa312a03b77c2228907e154e2c"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 28 Treasure Trove Cove - Lighthouse Winds.mp3" size="2169105" crc="c7c7b036" md5="3f4d4cbfcc281b52688c511abda8967e" sha1="cb1b9b493b6bfab264d01156ac370200f4408df8"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 29 Snacker Attack.mp3" size="836712" crc="b201ebc0" md5="815df0905e72b10510c50322426da3a0" sha1="917ac774ad304894390b153d2dca6dd160cedb13"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 30 Clanker's Cavern.mp3" size="6914980" crc="919e2952" md5="e0255c630f614c2925b6132a2e70cbc5" sha1="1c3fb0d7c7a1535250e0487973d90ffffa416ec8"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 31 Clanker's Cavern - Aquatic.mp3" size="6826927" crc="c0187f48" md5="745372322543a4f0940484c5b2c42b91" sha1="0d63674626e85de2cd5a5bd7ade97ad7712015ed"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 32 Clanker's Cavern - Deep Underwater.mp3" size="7091100" crc="70dca826" md5="ee72e2541cd5ce3cb7d2c62eb08c28e9" sha1="8fb42e224531536b13aee829096c8ae7d8df4902"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 33 Clanker's Cavern - Inside Clanker.mp3" size="6855516" crc="6b6d0908" md5="c0214f614b1a13bd5ff0b3c7a8418044" sha1="50127dc72f30f54691cb62245ecab3c309ab001e"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 34 Clanker's Cavern - Inside Clanker - Aquatic.mp3" size="6790393" crc="6ef3d8fe" md5="b7aac2d300999daadea7b983df19956a" sha1="7348423a231a1a965750c86d5be11f8cd526f0c0"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 35 Clanker's Cavern - Mutie-Snippets Battle.mp3" size="3874240" crc="bc511859" md5="f27dfc626b81233666d2e9412485ac1e" sha1="a754dd68e33e19f9e229fbc50840ad22bf20daa0"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 36 Bubblegloop Swamp.mp3" size="6830456" crc="edab8169" md5="e7c2bdbc60cad2625513567c6d1348b5" sha1="f771779c8ad55e15d1e558859b810ab77f12b81f"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 37 Bubblegloop Swamp - Interiors.mp3" size="2346350" crc="7c5021a9" md5="f3dfc531475f2eb74f76ceed909ef8fb" sha1="7651bf554f8d1e97645d03b8e0ed3bb5a42e8011"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 38 Bubblegloop Swamp - Flibbits Battle.mp3" size="3758194" crc="aad76f33" md5="0491027a6e889cb7f48fa153e6a29499" sha1="6e99f22ee63c616e8eff797bb7053b1e93e9f122"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 39 Bubblegloop Swamp - Mr. Vile's Game.mp3" size="1984674" crc="318a441d" md5="384c8cf94b08a930dd545098b2eed55b" sha1="f3da3ad37a0cec95b5f8a4badfceb141561a0c9a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 40 Cheato's Theme.mp3" size="1955610" crc="3f9ffca4" md5="d29cd40ab0e6322dc3ce7e1743e5b3ec" sha1="9effd1f24b60d43b056968883dfba5ed951e2c1c"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 41 Freezeezy Peak.mp3" size="6695095" crc="5b9e43cb" md5="ac264533169017364f1f327d37937aeb" sha1="3ee67da723c1fc7f55bd7029d75681270921e8b0"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 42 Freezeezy Peak - With Christmas Bells.mp3" size="6558941" crc="a7844450" md5="60ce039050cbbc06b8e73a1b56d5789e" sha1="79b5731ca218270111949a1c949b69f83d009e25"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 43 Freezeezy Peak - Aquatic.mp3" size="5048781" crc="a7d86498" md5="738c7200616d696f6ca15b5ffa128da8" sha1="0e6a112c2d811ba022b9d9d72120e63f08fead27"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 44 Freezeezy Peak - Twinklies' Journey.mp3" size="4991095" crc="bbe6bdda" md5="cff6bcbc68e03a90f609664300392861" sha1="b9086bb0bf634206537867ebab8022c1c94dba67"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 45 Christmas Lights On.mp3" size="307468" crc="cd814b06" md5="cec1f65527a13bfdba1d1cf74b946d93" sha1="187beda6d386ed46adb0acee6b235db2c1f91cb1"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 46 Freezeezy Peak - Inside The Christmas Tree.mp3" size="2074886" crc="8546a375" md5="9a54c584e5c027492e21e224fadc2e25" sha1="01e7c33fd8f2987398bdfa91f923601cb65d024c"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 47 Freezeezy Peak - Wozza's Cave.mp3" size="2528631" crc="051de656" md5="d2ed92a122930dee84f4e820de78adbb" sha1="07fa9615e9724df6020d50b5d51b8cf28dc41dca"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 48 Freezeezy Peak - Wozza's Cave - Aquatic.mp3" size="2293017" crc="fea81862" md5="75da94e24dfa5743ce8256168996b99f" sha1="5691b1e48003ef9d7cb2f4ba69b79db1d6c97841"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 49 Freezeezy Peak - Boggy's Igloo - Sad.mp3" size="2449120" crc="ad049186" md5="49fa1de80198a40175e65427053be60d" sha1="8e31d8bc1c460ea2f284787de5ddda42352fb287"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 50 Freezeezy Peak - Boggy's Igloo - Happy.mp3" size="1804410" crc="841683ce" md5="3e39665daffc1c3ab3639ded3a840c38" sha1="9357c1796dc184186f2046d636f032939e4be6d9"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 51 Freezeezy Peak - Boggy's Race.mp3" size="4073142" crc="414fae5e" md5="10da87aa8947b6b38eab7210682107a9" sha1="e724e4e7076fb7e121e1a9b6d4e40804e15feb0b"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 52 Boggy's Race Lose Fanfare.mp3" size="309178" crc="6ece78e4" md5="6b290a1f62179a0965da2f05282a232a" sha1="67516f94c63043a4160c09f8439d2653f4ae3f7a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 53 Boggy's Race Win Fanfare.mp3" size="281268" crc="f627a141" md5="6f1b2ba592c4208c85c88bf6320e5abd" sha1="c8ed727cececef1a4856b9ad3ce0a806b5cd2ffc"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 54 Gobi's Valley.mp3" size="7710388" crc="92de91f1" md5="c3ccde23afae9bc1e18a737f74164ff5" sha1="39931b0a849e80559e4b2312db417d32224a709e"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 55 Gobi's Valley - Jinxy's Area.mp3" size="7506758" crc="57b9b20a" md5="5e8ae503da19f50792820de05bcf51e6" sha1="b995e6240c81140c7a88e1bc35ffde2cbc994649"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 56 Gobi's Valley - Aquatic.mp3" size="6265603" crc="893f0eb4" md5="63de83f40716a0e6ac5be3a40b1d0f04" sha1="f532fde17e3af6eb56132fc84806a32dca009e73"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 57 Gobi's Valley - Inside The Pyramid.mp3" size="6879903" crc="5b1fe700" md5="79442e377d1a482141dd2f5326f032e8" sha1="deee10c40365abe9711995ad082a43de1272b1f5"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 58 Gobi's Valley - Hissup.mp3" size="1452974" crc="14d27c54" md5="acbb9d914812da4e4f10222611657411" sha1="839385ad02c3048256b0d89e9cb818f866fa1b37"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 59 Gobi's Valley - King Sandybutt's Tomb.mp3" size="2047044" crc="1152bb12" md5="caf3879090a7abad86bca79ea194e9a9" sha1="8a0e288048afe74bbe9c23d808e26013bfa944a6"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 60 Tomb Time Up!.mp3" size="254131" crc="b40e3a66" md5="f5b6b726f27368b1da094dfaf35eb5f0" sha1="bc4b85e3b9ded4014c387d619d253abb6307b874"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 61 Mad Monster Mansion.mp3" size="6671012" crc="7eeee751" md5="f62beef3dd0eeb3ee6bd1ac510c668b0" sha1="1c22aedf869054dcf0c3a66d1ff5e9455d1b765c"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 62 Mad Monster Mansion - With Church Bells.mp3" size="6342440" crc="af82db5c" md5="a33743726cffc38ba0dd85a3aeeb3805" sha1="2156929a46910fb00e6ef7f03d6dab78e2c9dc49"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 63 Mad Monster Mansion - Aquatic.mp3" size="5349157" crc="f6b3bec6" md5="056e228f9db35812f0b02de0293bf08a" sha1="4bed25b96f1d46712ac843e5937b7d1ba6b4c048"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 64 Mad Monster Mansion - Inside The Mansion.mp3" size="6624666" crc="c4cfee34" md5="ced7f8f4d15e1cefd02b8e0d357f713c" sha1="22df983bbaa7badd3b3a55c6dd5941b5241c8ce4"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 65 Mad Monster Mansion - Inside The Toilet.mp3" size="5209561" crc="c66f7662" md5="78f5cc26f87602c1019ba96c1a3f7f36" sha1="2276b02400254aae074a8b9453e24be342e6977c"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 66 Mad Monster Mansion - Tubular's Oujia.mp3" size="5747639" crc="0d154498" md5="78e2ad9a86698efacd03cb6cf2379463" sha1="f225e4944567130dcb9db4e8ba0284dae2b3b4ad"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 67 Church Door Opens.mp3" size="338689" crc="21937f28" md5="53892fdf2b44b3904aac816e7841ce0c" sha1="8344584b2cf7f78c6f1c0cdebe2af9796798e1ca"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 68 Mad Monster Mansion - Cemetery.mp3" size="6307184" crc="54b0ee36" md5="a160ca902e257f20bfaa5bbff215b000" sha1="fa67bec3023974807b26e8e227bc543b37508df6"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 69 Mad Monster Mansion - Inside The Church.mp3" size="4793730" crc="722bdaa3" md5="60210e6d8ebb2ca2ec45c59a8fda6e20" sha1="e0c014e45c48a030f3b4deaddcc4ffa2e8ceb103"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 70 Complete Mozand's Song.mp3" size="290901" crc="b6b7382d" md5="8c39b91711b92cc2a118bd138ff5aad8" sha1="1c9f612c01dd70cfdcc1e70c18e3e0a89b2162ff"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 71 Rusty Bucket Bay.mp3" size="6876603" crc="623d7c98" md5="39d4661ab1bdd55388ec7ae389d3516f" sha1="ef4183e33b5751bbe02ea4c452e982be4b74d097"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 72 Rusty Bucket Bay - Whistle Puzzle.mp3" size="6929495" crc="e2021391" md5="a0b450816a7e5e163262862094302d34" sha1="05edc7d41772dd0d6326bb28a298f8c3a6ff092e"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 73 Rusty Bucket Bay - Aquatic.mp3" size="5047994" crc="7ed8bfa3" md5="06731e46991b87fc712d9655f66779a0" sha1="0e47be05a70891031cf3aac1ce4dd5aca6a309e6"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 74 Rusty Bucket Bay - Inside The Warehouse.mp3" size="4352447" crc="808b821f" md5="e1783b95cd7698dbf2560f75e2e2edd8" sha1="0a26e1f2f078db1ae3e13b61969d8572550c0d68"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 75 Rusty Bucket Bay - Inside The Warehouse - Aquatic.mp3" size="3512443" crc="5067fcb2" md5="b11caa61f1b22c73b710364d991d604a" sha1="bd36efe722ad1ba854361c85464a20dc55255ab3"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 76 Rusty Bucket Bay - Inside Crew Quarters.mp3" size="4055566" crc="53bf1632" md5="680cac03ff3b3af6790b2d0141382468" sha1="4c3e431a414c7e5a348a82f5e45c9fcd8a909da2"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 77 Rusty Bucket Bay - Engine Room.mp3" size="6644788" crc="3e6280e7" md5="ee1f302c7669d0e9c7bee0f51e49cac9" sha1="c874b1bf667f5c503beb155aab22e84ef2c6cfe9"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 78 Rusty Bucket Bay - Engine Room - Aquatic.mp3" size="5475799" crc="f57a8903" md5="b40743d3b47a6cc400c715ad5e226dd3" sha1="e2d2177de2b4b1f96aca71461673ce0d9c01c483"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 79 Rusty Bucket Bay - Boss Boom Box.mp3" size="4056909" crc="04e959ab" md5="5ded133639fd880a218835d3089c7b2a" sha1="109753c8d8095983914851d832656c56aabb45c9"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 80 Click Clock Wood - Lobby.mp3" size="3746288" crc="39f76e10" md5="24fffbe09da393ac4ea716523a5656a9" sha1="d583d3aac2cda0a2de0ef5b823a1f233e05d11a4"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 81 Click Clock Wood - Lobby - Spring.mp3" size="3743087" crc="d1e1963e" md5="9600622af2793071a56a982e4430a787" sha1="59e5d02e655a01fda11441f21ceefa3693ca2ec7"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 82 Click Clock Wood - Lobby - Summer.mp3" size="3732150" crc="0df29889" md5="e04ed4f22b0405d91aed04621ec493d4" sha1="bb3241062ac8ff25105f8bbae5bc2b79fcff3f70"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 83 Click Clock Wood - Lobby - Autumn.mp3" size="3949814" crc="e0a0452a" md5="c6f953195b6696bc2fde150a523ff8b9" sha1="088ce658e88ef339fa6580fde738ccf3a00cc021"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 84 Click Clock Wood - Lobby - Winter.mp3" size="3638888" crc="4ab64484" md5="4f20092798ab2ace330e94b4b0e1b7db" sha1="fb7e51bbc1b42b5640a27730fce2ed62c9c1959a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 85 Click Clock Wood - Spring.mp3" size="7801881" crc="59adb1c6" md5="1724dcc2ec968cf6ce30ac0aefbc7f24" sha1="3635cab641ce838b481fd6ec64d2aeda68653765"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 86 Click Clock Wood - Spring - Aquatic.mp3" size="6019909" crc="fe1d1a51" md5="c4ad9f7628e7f111d78df2880f27909f" sha1="0cc49c6b9db98a5c4552f78fce8a0d162e2b0afa"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 87 Click Clock Wood - Zubba's Nest.mp3" size="4629807" crc="86cf7845" md5="8e12742e12cc3fde25e6c8b16f3b6249" sha1="9e7694465b915ed51cb000225874161255746be8"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 88 Click Clock Wood - Nabnut's House - Spring.mp3" size="4535564" crc="0736f874" md5="8c1040b86a9b6214f0361ded1872e484" sha1="290c35909c5116d0e724a8b29ab1000a847495ba"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 89 Click Clock Wood - Nabnut's House - Summer.mp3" size="4447926" crc="f0a4dddb" md5="763b3d0efda5aa074e2b18b3fb0b7b8c" sha1="716424f35d38cba791987ada95263fbca0eb461a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 90 Click Clock Wood - Nabnut's House - Autumn.mp3" size="4577673" crc="64e38e74" md5="fb520e0cb400e6d50fd3f2659d532dd0" sha1="81d3927b43ec5baac8a1422831460aefd77668b9"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 91 Click Clock Wood - Nabnut's House - Winter.mp3" size="4516468" crc="a93d419f" md5="b68d035e405e0ea7e206d59cd67f0752" sha1="6626b7ff8256e72cc56bab0aeec5a3db4ac59ea1"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 92 Click Clock Wood - Nabnut's House - Aquatic.mp3" size="3815160" crc="953172b2" md5="51a2e5ada6e515487cd37cae83158b61" sha1="7951abfb0ddb5c28ec1e5ded5537c81da6bd5e00"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 93 Click Clock Wood - Inside The Treetops - Spring.mp3" size="3118194" crc="70a1df50" md5="879d34a51b90994ed5c64953b3b27f67" sha1="bcd22c1650b6b7b2e27eecdcd48377cd3e777aaa"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 94 Click Clock Wood - Inside The Treetops - Summer.mp3" size="3100596" crc="a0bcb540" md5="6648a51dab8b15a426aaa43664d4d1f6" sha1="90239681902530a48683067bfa6d286433aa9b42"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 95 Click Clock Wood - Inside The Treetops - Autumn.mp3" size="3248603" crc="33b58630" md5="f7a4aaf1c5981741ffc201da5a6fbee2" sha1="d92abb7a99f646208f302d386e4fd5eada5312e8"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 96 Click Clock Wood - Inside The Treetops - Winter.mp3" size="3070558" crc="4795e687" md5="b0d130f4f70b8df82947587be5443382" sha1="d01747900ccb47931e60a312aacc28233645a81a"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 97 Click Clock Wood - Summer.mp3" size="7425469" crc="3f6ad58b" md5="6a344b92f32c0868ae9127958ef43be8" sha1="9a00d4aa18efe676c8f8143b2a947bf445c77247"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 98 Click Clock Wood - Zubba Battle.mp3" size="3899028" crc="05440dbc" md5="250ee3db082e6f1c4b21c088a95560b2" sha1="2aa5247a6919866deee768b5402fadee040e5eaf"/>
+		<rom name="Grant Kirkhope - Banjo-Kazooie- Everything and the Kitchen Sink! - 99 Click Clock Wood - Autumn.mp3" size="6974860" crc="14a21779" md5="d083a06cd8349d7c40875766c8f9d5cd" sha1="f1153be8b3f7d404578a6a0f251b4b30227b78af"/>
+	</game>
+	<game name="Banjo-Kazooie - Everything and the Kitchen Sink! (World) (Bandcamp) (FLAC)" id="0050">
+		<category>Audio</category>
+		<description>Banjo-Kazooie - Everything and the Kitchen Sink! (World) (Bandcamp) (FLAC)</description>
+		<rom name="Grant Kirkhope - Banjo Kazooie - Everything and the Kitchen Sink!.zip" size="1723059093" crc="1f3a060e" md5="ea6702b729a8f76999597e6231d8fc16" sha1="46e366fca624939f0ddc06d3877e74604cf30b80"/>
+	</game>
+	<game name="Banjo-Kazooie Beta's (World) (Bandcamp) (FLAC)" id="0052">
+		<category>Audio</category>
+		<description>Banjo-Kazooie Beta's (World) (Bandcamp) (FLAC)</description>
+		<rom name="Grant Kirkhope - BK BETA's!!.zip" size="222132575" crc="a45c1fc0" md5="975df737e0c2b506d2461cca697c92b9" sha1="63896407c850095ccac8d83aa81fb8cfac45f66a"/>
+	</game>
+	<game name="Banjo-Tooie (World) (Bandcamp) (FLAC)" id="0053">
+		<category>Audio</category>
+		<description>Banjo-Tooie (World) (Bandcamp) (FLAC)</description>
+		<rom name="Grant Kirkhope - Banjo-Tooie.zip" size="360709498" crc="0debdcb9" md5="64f98ba9b575cda2b211128c1e857a36" sha1="55f307a2aa51fefb3c5e4ac8da14199b0d492434"/>
+	</game>
+	<game name="Beholder - Original Soundtrack (World) (Steam) (MP3)" id="0017">
+		<category>Audio</category>
+		<description>Beholder - Original Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="Beholder_Penetration.mp3" size="415540" crc="b4797615" md5="2f05df8bcfb8d9c0ee53f20a7831bba6" sha1="7eec00999b5fd18be8f34c4d76af6731c305432e"/>
+		<rom name="Beholder_Police.mp3" size="973098" crc="42fc96ce" md5="da1680499c8ad7c6c25ee8ff2278338a" sha1="f010c378e90a4626e51028da258ee42fae1f4161"/>
+		<rom name="Beholder_theEnd.mp3" size="2313911" crc="8dc8f841" md5="a39f0d2403975027fc93633143354bd9" sha1="5da729b1364d3f121ee9f845112d091029a52289"/>
+		<rom name="Beholder_track1.mp3" size="1839527" crc="e18b71c3" md5="d2682784a93af8c4d0f93c007e71caf1" sha1="28f9f4258f3c3b56863da65866e739013fa1d676"/>
+		<rom name="Beholder_track2.mp3" size="2095736" crc="664f1415" md5="0df53cad5d6fbddd9d51dac36b0f79fb" sha1="bc1c68392e5d6ee8676646568353e1508fe9787e"/>
+		<rom name="Beholder_track3.mp3" size="1864187" crc="dbe4a2cc" md5="5889a68f6865c2cb8c49ec4628cde833" sha1="dbba8272b745be3fcabb959e7527d81eb47ca143"/>
+	</game>
+	<game name="Blaston Soundtrack Vol. 1 (World) (Steam) (MP3)" id="0018">
+		<category>Audio</category>
+		<description>Blaston Soundtrack Vol. 1 (World) (Steam) (MP3)</description>
+		<rom name="01 - Blaston Main Theme.mp3" size="3190072" crc="0a26f32e" md5="1a80cc1b00e21a04514adc3ce95579b3" sha1="c98466275b5a21eddffa667bfe2a7380cc3feba6"/>
+		<rom name="02 - Octopresence.mp3" size="6501354" crc="d4aa0caf" md5="65a0d2d407501b0a5238efdb0e8d9f14" sha1="a9e774463e79ec8b6444543aaf12d7cb3e5c2878"/>
+		<rom name="03 - ModOps.mp3" size="4950725" crc="e9bca615" md5="37fde2a991eebfddfe609c1cd4b8875c" sha1="7bd6bff54a1eb70136c6e334807825879709067b"/>
+		<rom name="04 - Fight the Power.mp3" size="4580831" crc="70e1d394" md5="5b1de881ffd480f13ffb4150f1b9e245" sha1="d67440b2e9e4b8c4a6067de30fc2c6f48eb9570f"/>
+		<rom name="05 - First Challenge.mp3" size="6642415" crc="32aa9c3b" md5="39203161819ff781a361737eaea9fd1f" sha1="b42fc0cca7b3af4621d47435fc5cbc50b332a5ed"/>
+		<rom name="06 - Crimson Falls.mp3" size="5651852" crc="53aa3210" md5="821591533029d492320688b1e0f06adf" sha1="a9ac8a9dd822b5b272e687bf201d6452423944c9"/>
+		<rom name="07 - Dreamin_ of Dreams.mp3" size="3394872" crc="960bdb28" md5="6d4eab5aa5f305dcf7209f6642dda838" sha1="b43c17cfb4850ce6bbe5cd9fe7c4f0f499aa0ece"/>
+		<rom name="08 - Empty Arcade Hall.mp3" size="5879640" crc="5fbed7ce" md5="29d31685cfc4314cdf5b483373fe210d" sha1="a65c92b9b2bf49704118463475c672165d701b6f"/>
+		<rom name="09 - Pixel Childhood.mp3" size="4233925" crc="89f3e0d6" md5="25070f48ad7017f390f592b053582ac2" sha1="3d41e5e9973905e571590ff949b345439804de93"/>
+		<rom name="10 - Second Stage.mp3" size="6082350" crc="937027c3" md5="d7030018552e41a4e48454043222a9bb" sha1="89661773d749e036642f436c2f14a6434776f6b9"/>
+		<rom name="11 - Synchronicity.mp3" size="7577599" crc="830be446" md5="916f3f4de1f1162587ebd9362aea8abc" sha1="c1793f79526b29cfd5ee3916b0b1ca680b5e4123"/>
+		<rom name="12 - Underground.mp3" size="3404276" crc="8d714de0" md5="9acfa2d9ed01b57f8b767453bab96464" sha1="36a7988473f9d13af822bfb2b75202a915f571be"/>
+		<rom name="13 - Why Bother.mp3" size="6823182" crc="4a3d76fe" md5="f1f667a7d2a6d3f95537f1b45fb4eef4" sha1="26ae114fca65570e3b7011bb2ee174b5e184a5ce"/>
+	</game>
+	<game name="Celeste Complete Collection - Digital Download (World) (Ship to Shore Media)" id="0012">
+		<category>Audio</category>
+		<description>Celeste Complete Collection - Digital Download (World) (Ship to Shore Media)</description>
+		<rom name="CELESTE COMPLETE COLLECTION DIGITAL DOWNLOAD.zip" size="2725929008" crc="afc19415" md5="5fd19577856a0af8d7a36f6abe7bc1e2" sha1="fa6e5b30943be2c578cd2007629be54159151819"/>
+	</game>
+	<game name="Darwinia Soundtrack (World) (Steam) (MP3)" id="0019">
+		<category>Audio</category>
+		<description>Darwinia Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="01 Visitors From Dreams.mp3" size="7932203" crc="a0419e44" md5="3cc50dc5f52cfada15eb7458d207af42" sha1="ffee48c2894a3478f94e0aa29d24e5e1f4fb4fcb"/>
+		<rom name="02 Excuses.mp3" size="8319639" crc="153da422" md5="adbfb59c473a97649347527808e609cf" sha1="c244fbebf809bfccceef8e6f33a92963b40cc750"/>
+		<rom name="03 Schroeder's Failure.mp3" size="5347961" crc="9de8a37f" md5="3f80f4a502eccc30f9aea740cdba8efa" sha1="735041df057f1dfb2b2812d2cb2c875da2198a29"/>
+		<rom name="04 Pain Fade Down.mp3" size="5192476" crc="dda6eb1a" md5="44cdcb362037611a93534a14ad1ef749" sha1="b3fd507b584ec14e9d229d0fedb594752786cefe"/>
+		<rom name="05 Impact Of Silence.mp3" size="5316613" crc="47239aee" md5="d3f60da132f24efddd67f4e2a0968855" sha1="ff15955e137f861a965a63dfc65f499b3ec56b0e"/>
+		<rom name="06 Faces Of A Fashion.mp3" size="6690236" crc="19212433" md5="c7c35eccad6ebc0327a7223b2ff512ae" sha1="fb0ba914a3667060eced1590ab55345c8c984db2"/>
+	</game>
+	<game name="DEFCON Soundtrack (World) (Steam) (MP3)" id="0020">
+		<category>Audio</category>
+		<description>DEFCON Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="01_defcon_soundtrack.jpg" size="1057347" crc="6b8d9b57" md5="888c08e1c008554c153af1576526c382" sha1="de2355fa444bac6611e792a62192975c7dba60a9"/>
+		<rom name="02_defcon_soundtrack_inside.jpg" size="1124775" crc="ee31edd1" md5="a4cca71bb5f8b9bd486ceeb2ee37ace9" sha1="7bed4689a23e050109a3330590695f74f26758ff"/>
+		<rom name="03_defcon_soundtrack_back.jpg" size="1184823" crc="d272a6a4" md5="5657854cc9a0b62413db4d4f5c04b0be" sha1="54c24024c6fddfd9f957c5253e27e10bbd8d4c85"/>
+		<rom name="03_defcon_soundtrack_cd.jpg" size="1000309" crc="87526582" md5="20054244801fe77eac70cf5ac4ceb462" sha1="b00bc9ecdfa6e636d60a30b6ac1c9c0f4de1d085"/>
+		<rom name="04_defcon_soundtrack_cd.jpg" size="8989621" crc="f999ac64" md5="c6108b210bc5b6cadaa631296c73f6f8" sha1="75c663a175068a0ca3735d920eb12ef98af55bdb"/>
+		<rom name="05_defcon_mockup.jpg" size="488006" crc="e5a57caf" md5="683751d58dda7655b7e44021779e67bb" sha1="c72c6f901d00f1e8824f8909ddcafc3f7217ffe5"/>
+		<rom name="Defcon_Track1.mp3" size="3685209" crc="79093cf4" md5="515c5e9210241c8aa8d5c6f392bdf584" sha1="a60706e9a23d93f71fac7010d9ce3bdf496dbefe"/>
+		<rom name="Defcon_Track2.mp3" size="5221836" crc="36c1a670" md5="8026a4650fc53c619ade6687503a11d1" sha1="8cdf9f441a921d44c1636890ecfca7b910812d30"/>
+		<rom name="Defcon_Track3.mp3" size="7765326" crc="b3b064b6" md5="656c18d1190a0df4fbf3b11ffcc813b3" sha1="391de38530900f98d621aa8d78b5655a7fa57b76"/>
+		<rom name="Defcon_Track4.mp3" size="6388569" crc="1153cbeb" md5="fd36b92f0e9b109e4b7cc93b457e6720" sha1="50b8776649c9119e16b8db3e9a48231c1701de77"/>
+		<rom name="Defcon_Track5.mp3" size="8518280" crc="7ec8d06d" md5="7a6f01811e60573bd694bfcb4528b31c" sha1="68a17120711fd3cc0d662ca2c2fcc0f564f7f635"/>
+		<rom name="Defcon_Track6.mp3" size="14772621" crc="f1d0419c" md5="100fe205ead704d7d2fecd8dd9bf0dcb" sha1="bf5a5ee49b77b9374bf758e4d01411316a727ded"/>
+		<rom name="Defcon_Track7.mp3" size="5945950" crc="427a4e6d" md5="792c37b8f01872702b0b24e0cca57d68" sha1="f7a3b0e6c69cd659bfbe143b853f69c5e7949aaf"/>
+		<rom name="Defcon_Track8.mp3" size="13767011" crc="c4688e4c" md5="7f871f9e95e882b856525639368cb7ca" sha1="6c50a945b3e83476641d1caee9d2571ecc5cbd24"/>
+	</game>
+	<game name="Divinity - Original Sin Enhanced Edition - Soundtrack (World) (Steam) (WAV)" id="0021">
+		<category>Audio</category>
+		<description>Divinity - Original Sin Enhanced Edition - Soundtrack (World) (Steam) (WAV)</description>
+		<rom name="001-Kirill Pokrovsky-Original Sin.wav" size="44803980" crc="24560671" md5="75c328bb5afc347316bb611b61975b04" sha1="804b75a5bacbf1117191b0d5ff08639656619bf2"/>
+		<rom name="002-Kirill Pokrovsky-Mirror of Truth.wav" size="43958716" crc="8f2b78bd" md5="3ac84d9241dcfc9edcd84137ce5a7315" sha1="84a1f113827f1c72353529f79c1ee5eab68b200e"/>
+		<rom name="003-Kirill Pokrovsky-Guardians of Light.wav" size="28991406" crc="d563c23d" md5="1e20827052438d692aacfbaaf71b726f" sha1="f890d55b4ee83a6a0b71a32ea291df8bd5a8d749"/>
+		<rom name="004-Kirill Pokrovsky-Beyond the Waves of Time.wav" size="45638216" crc="de4aa7f2" md5="9e3e16f231ff403ac7ebe6b4ed66b75e" sha1="77cebd662fa20660640344afece3e97597d0b073"/>
+		<rom name="005-Kirill Pokrovsky-Bittersweet Regrets.wav" size="32086834" crc="11840127" md5="94facf46f4fe31b4df2feb0c9f9ede8b" sha1="de7cb6d92b0c27ec8ff952fa5d69810a1b8552ca"/>
+		<rom name="006-Kirill Pokrovsky-Forest of Fairytales.wav" size="46766958" crc="115e023c" md5="d1ec65db5fb1a9096598e050b1e88ae8" sha1="642d6626a13687bc569dd7b631c2904a5e2f59c3"/>
+		<rom name="007-Kirill Pokrovsky-Pleasure of Simplicity Alt.wav" size="34368098" crc="17545c2c" md5="fceff996dc9dad6c965350be9d35959f" sha1="b6236c0ddb84672641f6c180931ba99488704df2"/>
+		<rom name="008-Kirill Pokrovsky-Beyond the Waves of Time Alt.wav" size="45638224" crc="ec4a5bbb" md5="d32791e93b31d4f94a0d4f3b41a7538d" sha1="76beefb51483c84509bd6bb31392f43c6d98552c"/>
+		<rom name="009-Kirill Pokrovsky-Memories of the Future.wav" size="98868048" crc="15d688cb" md5="76eef4aff1fb39a28dafd717dc242931" sha1="94fc5e497505b33c6323d923523d8e807f8a8bc9"/>
+		<rom name="010-Kirill Pokrovsky-Dance of Death.wav" size="33152860" crc="1e3f5c7b" md5="e68cec239387c5cdb40f8c6f5ca784cc" sha1="2e6a2d83e1b2914f33814defabd630dea78bd883"/>
+		<rom name="011-Kirill Pokrovsky-Desert of Illusions Alt.wav" size="34522176" crc="295e5c8b" md5="cc1464d7ae78fcac50ccfcf6c9128f3f" sha1="641f9921b854e5c0dceae95ab805ff08b11042e5"/>
+		<rom name="012-Kirill Pokrovsky-Medieval Tears Alt.wav" size="40933844" crc="a3e292ba" md5="6b0c56c0cf100d9c8203025e73a34589" sha1="92922ebd065f365ff19a81b93ecaf436ccf610e0"/>
+		<rom name="013-Kirill Pokrovsky-Mysterious Guest.wav" size="59759758" crc="96bb11be" md5="9ee72c31fb1e4a7b1c54d762c57c7cd3" sha1="9e054392310148623ca9667d5df311f98b7c7573"/>
+		<rom name="014-Kirill Pokrovsky-Power of Innocence.wav" size="52733994" crc="b1192abe" md5="78deded84509829ff5bb6cac6a3952ed" sha1="a509774ab7c5c15ee7e46044a055089fbf2e2ea1"/>
+		<rom name="015-Kirill Pokrovsky-Revenge of the Forgotten Gods.wav" size="72891668" crc="dd102f24" md5="b209ad77692650156a30168f3714957d" sha1="9e843dee9a60490a89d8d7d116523184c581e3ba"/>
+		<rom name="016-Kirill Pokrovsky-Drowning Hope.wav" size="60922626" crc="2f4fa86c" md5="b28d5cce477172fc144e89a5bd3053a3" sha1="22cc29d4ebb249462ec95099046be8ae1ac2482d"/>
+		<rom name="017-Kirill Pokrovsky-Flutter of a Butterfly.wav" size="44388200" crc="de9023bb" md5="01b4cfd98a69d3701bb0cdd6b0e06efc" sha1="3ca082167802fa3c74542596cff2eb280a79c0ea"/>
+		<rom name="018-Kirill Pokrovsky-Voice of Reason Alt.wav" size="79441426" crc="a3113e2f" md5="0e17dfbe395bb2f8d892bc95095ddbee" sha1="dc5852d07e675db59276cbe420d8a2258caa05f1"/>
+		<rom name="019-Kirill Pokrovsky-Lake of Serenity.wav" size="44724450" crc="c0eca4ee" md5="a34c83a8922234946fd238302d0ec24d" sha1="ededdb89ab30ad64ad34a57c808c5a5499b04add"/>
+		<rom name="020-Kirill Pokrovsky-Source Hunter Alt.wav" size="40163224" crc="d3b6fb79" md5="e18095b73b1184ac50d078452ff21867" sha1="aac58fb039199398384d7bf46c6a96247add48cf"/>
+		<rom name="021-Kirill Pokrovsky-Warmth of a Smile.wav" size="32073214" crc="ee5d8d44" md5="ed9039ac6667ad0b34317087baf3536e" sha1="ef5b84a6b80b9ba42c5bcde2dd9247cd8ce3b1f6"/>
+		<rom name="022-Kirill Pokrovsky-Righteous Reflections.wav" size="32716092" crc="26ece109" md5="c35d58787d5066e0b5080e6626fea906" sha1="8cf442d2e87ba71b54406390346f04c6a73fbc8b"/>
+	</game>
+	<game name="Donkey Kong 64 (World) (Bandcamp) (FLAC)" id="0051">
+		<category>Audio</category>
+		<description>Donkey Kong 64 (World) (Bandcamp) (FLAC)</description>
+		<rom name="Grant Kirkhope - Donkey Kong 64.zip" size="395138585" crc="a38cafb0" md5="aa98d9c8915a2461615d2363291e9902" sha1="1380c7bd0ef80a46a9dd4d379c714536f87a4bea"/>
+	</game>
+	<game name="Donkey Kong 64 (World) (Bandcamp) (MP3)" id="0048">
+		<category>Audio</category>
+		<description>Donkey Kong 64 (World) (Bandcamp) (MP3)</description>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 01 DK Rap.mp3" size="6009635" crc="b4fe6b59" md5="d04d3151a20dd68ed32de122c29f2b08" sha1="2000854d3c6d41c3636fd986d7a5d3e89ee0a569"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 02 DK Island.mp3" size="7605472" crc="b5cffaac" md5="fcbe90d4fee0fe1d9f8a7d815d4edb37" sha1="192a4c6ea3b2baa7441df4393f7a957a14275915"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 03 Jungle Japes.mp3" size="8369833" crc="2be6c4ce" md5="b46abd10e032e1ebd4c6ad1a746de040" sha1="ae8e0cd530147a8a0e34dc8994f1e354651eec5c"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 04 Mine Cart.mp3" size="6898303" crc="a52da382" md5="b0437a128d585df1b11faea4eb79fa01" sha1="d1ced6960d05666fadc5b3e98c360cf1fd15a785"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 05 Angry Aztec.mp3" size="9345245" crc="5706a33b" md5="5175c302f59eb6653bee7038b2a71125" sha1="0c8c88bafc638b9fdc3980c56c117a26eaf2fb0d"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 06 Dogadon.mp3" size="8109780" crc="1c8bd4ba" md5="37ec3b90a54d74eddd99096f046ea0e5" sha1="2b4d9deba2cf3a842aa0705496eb7f9f76c4af0b"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 07 Klanky Kong.mp3" size="3999106" crc="e7109317" md5="36a309f2e403f1e91d850371f1389450" sha1="7de6eec981ab830ab2334b2a34dc9259c7e58d0c"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 08 Frantic Factory.mp3" size="7891004" crc="389a4719" md5="a5e0e4bfe64658ec20634fee8de63c33" sha1="7c0bb193ebd479498051be542f6d8cb6724c8dfc"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 09 Candy Kong.mp3" size="3721155" crc="fbe7e79d" md5="7ee62d7f0859234e8d2561c45a3bb454" sha1="e2db02c3a05bb1042af42baa93309b76173e8c8d"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 10 Gloomy Galleon.mp3" size="8545439" crc="adc1f616" md5="60dca95f66b52abd5e14726dadb3cf04" sha1="9ffe07e82e176160084cc1bf34193e05e3722976"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 11 Pufftoss.mp3" size="8311373" crc="9c31b05b" md5="58eb5309526311afc80e4cf868f899e2" sha1="5360995d350b39805b0ba5dcc9fb7ca7905a5155"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 12 Fungi Forest.mp3" size="10272159" crc="34b6a9bd" md5="b3aff10b08fc038ff8ae805a53e0c579" sha1="49a7f3c4a363694be90307d0d2ee7fb747e1e030"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 13 Dogadon Reborn.mp3" size="8553393" crc="5a6ebbe0" md5="180f7e0bc979dcfb71aaf62484890884" sha1="477a45c5ea04708e5efa4253d132c84c3e1f5302"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 14 Funky Kong.mp3" size="2970217" crc="272e72a4" md5="30c95eb40764a8ee32aa5738b1d33f92" sha1="3e4a82c8efbe4272f13671c08f9013a61a9a3b9b"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 15 Crystal Caves.mp3" size="7243331" crc="db480254" md5="56fc7edfa28b45516c1f21054c28bc16" sha1="466c6af7a4fa1b8f2ef41226769a3c1568e2c8ac"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 16 Ice Slide.mp3" size="3939192" crc="c87852f4" md5="cf6a32b3e8b5d3d14c5242fc1fa33409" sha1="90fa656c9fd115b84545135e9daaf57e18a2ac28"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 17 Creepy Castle.mp3" size="11877724" crc="35692a85" md5="a501122b45d564d648e46a6c24fc9b03" sha1="3ad5908e638f0b579d0999691b7fcb0336056ddd"/>
+		<rom name="Grant Kirkhope - Donkey Kong 64 - 18 Hideout Helm.mp3" size="9502360" crc="251c5043" md5="565485840373d7b4b923d2dc39f6f2ef" sha1="96392a27d4f876e6f618c6180ff47a8885cfa4e9"/>
+	</game>
+	<game name="Dungeons 3 - Original Soundtrack (World) (Steam) (MP3)" id="0022">
+		<category>Audio</category>
+		<description>Dungeons 3 - Original Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="01 Dungeons 3 Main Theme.mp3" size="6860629" crc="03fe9f39" md5="bb99e469cc4494bbf85853185a977a05" sha1="da0b588deaf99318d64565867599222a9435292c"/>
+		<rom name="02 The Crawling Evil.mp3" size="11328605" crc="ad700683" md5="081d4047829fcd045853d2c04aaf7dd8" sha1="3a0e36202ce5158d333747f347a533f7ac932360"/>
+		<rom name="03 Rest in Pieces.mp3" size="13177023" crc="72d8fd7c" md5="ed9be98292c2fe7d4ca46c3e06216aea" sha1="7c77cbdc985bbef3acbb78f373ba9e370a292d26"/>
+		<rom name="04 Peace in the Valley of Death.mp3" size="15521802" crc="00f3c340" md5="526741647c3bd9519c3bd51172095c64" sha1="308826ed687d9a12cac74e125dd92471734df4f2"/>
+		<rom name="05 The Chilling Fields.mp3" size="12950290" crc="048c948a" md5="056f09299fce50aa66a21ffd633b9ce2" sha1="d3ea903a055bcb9bfeae8d6fee01e6cb2b8019e4"/>
+		<rom name="06 Deadly Boredom.mp3" size="11522950" crc="32932953" md5="a56edff18fe5e2ff2fd5f242294da7b5" sha1="3eac1986238c032fde8402100a3cc56ecce3b9df"/>
+		<rom name="07 What a wonderfully wicked world.mp3" size="12339049" crc="7cbfe029" md5="57cc7fb628ba308043bfb250f0287647" sha1="0be952011aa8782ac4690acf76eac21dd7b3bbf0"/>
+		<rom name="08 The Sound of War.mp3" size="5760341" crc="8af668d9" md5="f7ae35fee24701a5f88694ae8ea90086" sha1="1418f01f3c7e4bd9cca1bace7419bc9041611a0f"/>
+		<rom name="09 Evil Justice.mp3" size="4918146" crc="216197db" md5="ea461a326e4893fae9e39896410d41db" sha1="f829decca6cd99d54cfd3ecec48cfbf54663fc07"/>
+		<rom name="10 The teasing Evil.mp3" size="5748848" crc="a1e9883a" md5="375f19afbdad28b41135ada387b88db1" sha1="4662a90f7f607002c3ff77df93d56c9ce95ea536"/>
+	</game>
+	<game name="Dungeons 3 - Original Soundtrack (World) (Steam) (WAV)" id="0023" cloneofid="0022">
+		<category>Audio</category>
+		<description>Dungeons 3 - Original Soundtrack (World) (Steam) (WAV)</description>
+		<rom name="01 Dungeons 3 Main Theme.wav" size="29047448" crc="af4ca216" md5="821899a5e35a387cc5830b29900fccbd" sha1="4a446a80d33392507215ffe8107ca3189d308485"/>
+		<rom name="02 The Crawling Evil.wav" size="48752100" crc="cc331ef2" md5="3d2dbe2a47de8bf9e13e8173b88cdd13" sha1="be331fb99d1b0fe564da827f26b3c18fe8d2a158"/>
+		<rom name="03 Rest in Pieces.wav" size="56905704" crc="3be4cdac" md5="ddf5ae2311b25edcea7a35f5a849d4b6" sha1="fdcf80e327dab8925593cf7be72010f11f0d150a"/>
+		<rom name="04 Peace in the Valley of Death.wav" size="67244730" crc="f8f02de8" md5="60216320060647f5862083482b6e404e" sha1="af1f2c08ddecade846f8c130bfdfe58d8dc64728"/>
+		<rom name="05 The Chilling Fields.wav" size="55905134" crc="fffc945e" md5="43243c6db7ef9683b2b6b1ecc9b2d406" sha1="9c7ab183a8d6617578246118231d2ae60fa15941"/>
+		<rom name="06 Deadly Boredom.wav" size="49608952" crc="bfa8c6fa" md5="02251d8d9801a76cece92cd3b5a15780" sha1="6cb1a97ba4aaf7f7e12e85d93ba9037cdfb7dd3c"/>
+		<rom name="07 What a wonderfully wicked world.wav" size="53209794" crc="92fb874a" md5="9ffd99fc2202fb82a5f0e29e78f63e97" sha1="8212c26b72f110d788493253ee9fc21d005dc87a"/>
+		<rom name="08 The Sound of War.wav" size="24196610" crc="8f219e44" md5="08206738671fa150d6d9e9c498f487c0" sha1="eab35fdaaea245532a829e263a962630f66d8f70"/>
+		<rom name="09 Evil Justice.wav" size="20481094" crc="aa1fc31a" md5="906f5c3883aceacb9a53fefc6bac0dbc" sha1="92f65323bebe38acd666386e7192b6f90b4d175b"/>
+		<rom name="10 The teasing Evil.wav" size="24147374" crc="a6ad664b" md5="4c1f9dfc36a5ace4dabd276109bf6912" sha1="a0490a654aa27dedd04e5463e31c72c46c60567a"/>
+	</game>
+	<game name="Hat in Time, A - B-Side Soundtrack (World) (Steam) (MP3)" id="0015">
+		<category>Audio</category>
+		<description>Hat in Time, A - B-Side Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="A Hat in Time B-Side - 01 Main Theme (Remix) VGR.mp3" size="7676332" crc="131a3b22" md5="abeeb2cd45c5f0c3e2b8ba6bc6810dab" sha1="5908295a433e1ae7c4d085b587a016d0cab5a074"/>
+		<rom name="A Hat in Time B-Side - 02 Through Time and Space (Main Theme Remix) Gario.mp3" size="10593322" crc="b44f228f" md5="e8dffeb16069d0cee1391928b7650e16" sha1="7db97382d30c468245c52cc2124d077fa916ad09"/>
+		<rom name="A Hat in Time B-Side - 03 Scootin' Through My Subconscious Mind (Scootin' Through Subcon Forest Remix) Chimpazilla.mp3" size="10239500" crc="d0ec7077" md5="3f2b3c2c5a2d2dee8c437561ea5ddbdc" sha1="9458bbc4bf6f19d07a401ea425c4dfc91034da9e"/>
+		<rom name="A Hat in Time B-Side - 04 I Am Bird (You Are Now Legally a Bird Remix) Theory Of N.mp3" size="9978436" crc="ada0c103" md5="f06433a57acfe4f02466cdfd019007aa" sha1="16fbc1d3fca60a0ce98c1cff39012d0e0587212c"/>
+		<rom name="A Hat in Time B-Side - 05 Picture Perfect B-Side (Remix) Pascal Michael Stiefel.mp3" size="13860044" crc="18ecb381" md5="ab460591286fa070a79a6a331a1ff189" sha1="663c924d0c4a021c506c7facb85cae94c70964e7"/>
+		<rom name="A Hat in Time B-Side - 06 Scootin' Thru Mafia Town (Remix) LongBoxofChocolate.mp3" size="10846010" crc="8f6d2f4c" md5="f9cc3b3c934c69c47c1ffb1049f1dac7" sha1="1e69e43d61870423ac6f58cf50331b3ead6d2620"/>
+		<rom name="A Hat in Time B-Side - 07 The Lava Cake Peak (Remix) Julia Henderson.mp3" size="7072905" crc="1c293936" md5="b16a0fd5dac7f64f2c1b7fca58770c47" sha1="501c67ae4dea5296d4aff75a8d9ef9155a12b4e9"/>
+		<rom name="A Hat in Time B-Side - 08 Freight Car Frenzy (Train Rush Remix) Jasper.mp3" size="11482784" crc="7bcfe30e" md5="0900776fe15a59cb10e1e46ffe4e1288" sha1="a450468dbd34ff745ab548afaee902e8c3fe7d15"/>
+		<rom name="A Hat in Time B-Side - 09 Sand 'n Sails Heatgusts (Remix) Carlos Eiene.mp3" size="3762438" crc="8308eff1" md5="cf53269cae0a93ba59e79b435db332f7" sha1="bc98192669d2c84658626bb0b600f716014983d5"/>
+		<rom name="A Hat in Time B-Side - 10 You Are All Bad Guys (Remix) Laura Platt.mp3" size="7756772" crc="a1b262ef" md5="d52f867517389d49fde3a6053cbe238d" sha1="27060a39c0bb540682e63939d87b3b3ce3769311"/>
+		<rom name="A Hat in Time B-Side - 100 Peace and Tranquility.mp3" size="7678229" crc="0026e792" md5="30f1b849bf095d1544d9d1e4dcef589d" sha1="e9ec9762409e5e04be8af0ce9a42965685c534d9"/>
+		<rom name="A Hat in Time B-Side - 101 Collapsing Rift.mp3" size="10693289" crc="fb98b6ef" md5="60760637ff8011cd9b5ea0eb23259f9f" sha1="8e66d7a4d2200c07e61abb0efad31bd46db512c4"/>
+		<rom name="A Hat in Time B-Side - 102 Beat The Heat.mp3" size="8393353" crc="41071acf" md5="cfe77261d01add699a857f30a4c5a869" sha1="190bf3599f1b95b539402e8019682ca639ee4c88"/>
+		<rom name="A Hat in Time B-Side - 103 Security Breach.mp3" size="10973081" crc="973257ae" md5="5b3724c7878049d2ec44c155f952cc41" sha1="1bdc285154701e491a818a20f83c168f97c823f7"/>
+		<rom name="A Hat in Time B-Side - 104 Wound-up Windmill.mp3" size="9935349" crc="76a98ffd" md5="21f5f0312e8c1be0249b05738009b189" sha1="26e7c5d19064d25a799e32478a53ac5aac91329e"/>
+		<rom name="A Hat in Time B-Side - 105 Bird Sanctuary.mp3" size="4614075" crc="c55093aa" md5="966d20d008c16d62ddecffd4758a69a5" sha1="650dd4a3e1a5748758bddffe4a7317308b687dde"/>
+		<rom name="A Hat in Time B-Side - 106 Death Wish Anticipation.mp3" size="3642129" crc="6afe6cdf" md5="2dda4f4cc4998917302f5204bf501368" sha1="fd87db8ea303926bc312fa217af392ebf1cc71ec"/>
+		<rom name="A Hat in Time B-Side - 107 Death Wish.mp3" size="9961435" crc="518b2eab" md5="8fdc8b12ec13368a1edd72d570d6c240" sha1="71f5dc50e4ea3819a80c3ada46ef9c681051a9d5"/>
+		<rom name="A Hat in Time B-Side - 108 Killing Two Birds Anticipation.mp3" size="2773535" crc="349a5129" md5="24a532436460d4f95edcded29e26ea21" sha1="6e089c968914f20f60fc8df38b24fbd4aceeed54"/>
+		<rom name="A Hat in Time B-Side - 109 Killing Two Birds.mp3" size="6200961" crc="2a874e61" md5="bb46469bc9ad0e16986b6ca48da60602" sha1="48307b9ecc7441c1920607d23d4d9b581ab6a5fe"/>
+		<rom name="A Hat in Time B-Side - 11 Subcon Village B-Side (Remix) Echorobot.mp3" size="6195986" crc="5dee9207" md5="7191daec4554adb7fbd54b5796e3d6b6" sha1="6a3b639966d99a7efd48750f643c4c747226d77a"/>
+		<rom name="A Hat in Time B-Side - 110 Mustache Girl EX Anticipation.mp3" size="1958169" crc="0988a3da" md5="bd77f6ceb3ec37941eaa6b5f73a24fd4" sha1="5b0d802e75290e4434ba4c84fb5087cce5a2a214"/>
+		<rom name="A Hat in Time B-Side - 111 Mustache Girl EX.mp3" size="6384703" crc="b5712c9c" md5="a7b39a9b533b69d3949e52764c4c5d34" sha1="69bdd52bfc5e3ec3df3eb6f0a873b49e7eac3d97"/>
+		<rom name="A Hat in Time B-Side - 112 Deathwish Timepiece Released.mp3" size="3044971" crc="499dd0a7" md5="40278a1a18b0c5cdfe7ec23a29fc5363" sha1="b3603f5c356c9368d544ff5debecdaf628d1a841"/>
+		<rom name="A Hat in Time B-Side - 113 The Arctic Cruise Level Intro Jingle.mp3" size="841103" crc="cf5c9914" md5="aa4bda609ce4f02023efed3d7e95d117" sha1="abfb76bb90fe3c6f5783ce79b957ce0e64b0e5c6"/>
+		<rom name="A Hat in Time B-Side - 114 Death Wish Level Intro Jingle.mp3" size="837957" crc="a35b2f6e" md5="4548647c4afdb2594db536462d65f769" sha1="3b221a758584b4b31ebde78fca71f36aa9e23908"/>
+		<rom name="A Hat in Time B-Side - 115 Death Wish Loading Jingle.mp3" size="1369345" crc="d8073cba" md5="b4d72ef6c491b35fe98a6f332c77879e" sha1="643b1632a77a23d8e8a8b51ac726b8a09385846a"/>
+		<rom name="A Hat in Time B-Side - 116 Death Wish Death Jingle.mp3" size="775305" crc="3d30f841" md5="62c5a246611efb8e50079e952cc56d31" sha1="758a1f2f343d40319e7ff123d8b76e49fdb44be4"/>
+		<rom name="A Hat in Time B-Side - 117 Death Wish Time Piece Get Jingle.mp3" size="920439" crc="80ea3ec9" md5="2137b19dd02b8976dc5d0a42b5335a4d" sha1="cebb6f7593d658e741a3502fc49f2ade76bbdbdd"/>
+		<rom name="A Hat in Time B-Side - 118 The Arctic Cruise Time Piece Get Jingle.mp3" size="864077" crc="7c27d9fe" md5="2d484d73ce260d077f6ec530a2c17f3b" sha1="7b9c316c9f63058d0fd8fb8b41f9e43a7d12dd2b"/>
+		<rom name="A Hat in Time B-Side - 119 Dreamy Clocktowers Bonus Track.mp3" size="15333899" crc="eb388a2b" md5="45e40923dd50c897deaedd28f1adb268" sha1="b17d4941f2b8d3dedce31e9c6a476057bf1bac09"/>
+		<rom name="A Hat in Time B-Side - 12 Mafia Town 8 Bit (Remix) Pascal Michael Stiefel.mp3" size="12544592" crc="d959960a" md5="80de4a5852175fd9e438d87d32716dc9" sha1="6468e5640726063bc51623fd5b9fe2ba5dcdd2af"/>
+		<rom name="A Hat in Time B-Side - 120 Alpine Skyline Bonus Track.mp3" size="6043335" crc="78ddc41a" md5="e89c7e8045482357e44182ebd2e01e37" sha1="87ee995294c6df6c5763b6149581c1596bbce2d0"/>
+		<rom name="A Hat in Time B-Side - 121 Nyakuza Metro.mp3" size="16077419" crc="56a2d204" md5="02cb8525889075a2d0cdcffa6a1d2738" sha1="f11efebea336b6095dee316143aaf1f473351f88"/>
+		<rom name="A Hat in Time B-Side - 122 Nyakuza Metro - Green Clean Station.mp3" size="7621063" crc="6096fc3a" md5="b7b5d98f2fb0c5d7064b99a79ce03a5a" sha1="608f0096e326235f4918609dac305f2d80510469"/>
+		<rom name="A Hat in Time B-Side - 123 Nyakuza Metro - Bluefin Tunnels.mp3" size="8680715" crc="3615015b" md5="dad58714386614b5931a67e9abdf4909" sha1="8f01a6dab2f9801e43f17ff76ddcad40785b1046"/>
+		<rom name="A Hat in Time B-Side - 124 Nyakuza Metro - Pink Paw Station.mp3" size="14434201" crc="7d0b80a7" md5="82b62df6fa979aa502edb60322b1e863" sha1="a7930f9f82cc6d610ffeb854cd9d5893a688c65e"/>
+		<rom name="A Hat in Time B-Side - 125 The Empress.mp3" size="6208483" crc="fe8ed5c1" md5="5753ec5bd922dc25253ce8b1e7a84a45" sha1="be41acf93da2ca059dcbe0c8793d5969341fa459"/>
+		<rom name="A Hat in Time B-Side - 126 Fast Food.mp3" size="12561219" crc="103891e9" md5="50b78a30b698bc6498f2c58ca1c18461" sha1="438597eef12d39098112f57f60873508b85ac91e"/>
+		<rom name="A Hat in Time B-Side - 127 Nyakuza Manholes.mp3" size="16358261" crc="3b0cb715" md5="f76e005daf06c4d66346d6074ad30245" sha1="0c7e9de32c38708868ea594e25ba0a7ac19e48da"/>
+		<rom name="A Hat in Time B-Side - 128 Calm Hour.mp3" size="12872331" crc="28bab7bb" md5="3be336f22ae100d0671755ad59d3b9c5" sha1="c9fc6ba839d9a875720c9f3de7fbf4c033cd661e"/>
+		<rom name="A Hat in Time B-Side - 129 Rush Hour.mp3" size="13089483" crc="920491f6" md5="d67dc1a6b1ba787f5a2c4081f2175a35" sha1="44cf4a2c7e9ed4f0d18b829e91bbaeed3585aae4"/>
+		<rom name="A Hat in Time B-Side - 13 Sand 'n Sails Village.mp3" size="9364516" crc="800db6df" md5="2407ab1232db1d625639470cb6f7b2bb" sha1="98f038caa1cc368e942b303a4670b0b544722c9c"/>
+		<rom name="A Hat in Time B-Side - 130 Rumbi Factory.mp3" size="8156591" crc="6e642b5b" md5="dd6d8e1cf457bd5be32b04825d3b3628" sha1="d16b56926c8ac084a1a333831bfb62c27d98048c"/>
+		<rom name="A Hat in Time B-Side - 131 Nyakuza Metro Level Intro Jingle.mp3" size="1034461" crc="f2059549" md5="8a2dbe3d2fd88df7e3096a45659a8658" sha1="588c7c8c4360fec82450121481ff49093da0bf63"/>
+		<rom name="A Hat in Time B-Side - 132 Nyakuza Metro Item Get Jingle.mp3" size="670099" crc="f2aad72b" md5="4f432c44bc03e10ab818ea0e2c83c36a" sha1="ae1d5eb4759918eb2575151a05869e72b3dc29c1"/>
+		<rom name="A Hat in Time B-Side - 133 Nyakuza Metro Ticket Get Jingle.mp3" size="663839" crc="f6f1dcde" md5="2a991a0179feeee159f577d5d8944bf0" sha1="60d5259667dad7b98b7efd631c8ccdb901c74156"/>
+		<rom name="A Hat in Time B-Side - 134 Nyakuza Metro Timepiece Get Jingle.mp3" size="918581" crc="a2f4d038" md5="4eb704f2ab8b162ec54386e14b924267" sha1="ea73aff6cc09c8dabcfb0dd97b292afb65d99b22"/>
+		<rom name="A Hat in Time B-Side - 14 Sand 'n Sails Heatgusts.mp3" size="5702599" crc="fddefdd6" md5="af25a88463e9ada45fdaa7473604cc2d" sha1="aa3e3fb510ea7cc35ed55dd35d92f7df36785d4f"/>
+		<rom name="A Hat in Time B-Side - 15 Sand 'n Sails Cave Rave.mp3" size="6191804" crc="0b4c6ed8" md5="6e74943d1bd21a721d75f358c6ab4ac5" sha1="d40476dda93f16fa2eb53454cc10be6dda17686c"/>
+		<rom name="A Hat in Time B-Side - 16 Alpine Skyline's Lazy Paw Gang.mp3" size="10860586" crc="cdd5f72b" md5="66b95ce20afef491a4711764419e2f90" sha1="2f4d83213cc91af9173ab76034af8f728a41ace8"/>
+		<rom name="A Hat in Time B-Side - 17 Alpha Trailer Theme.mp3" size="4026455" crc="cf87a68a" md5="309f8dd2cd7f4816e677fd258a2ffddb" sha1="9f3c723a92370d83640ed551f33fde8ca13bc883"/>
+		<rom name="A Hat in Time B-Side - 18 Alpha Trailer Theme Ragtime Remix.mp3" size="5728288" crc="d0a81701" md5="70b8cc340fc5315691a2402939b50cfd" sha1="139f4365198024620d54e4a8c33595e3db3de468"/>
+		<rom name="A Hat in Time B-Side - 19 Beta File Select.mp3" size="10715442" crc="da5d036f" md5="0c0d4feaf31eb4d711deaa795d3070ac" sha1="51af6dc0a43bd7b00fe2a490146e14b37ef6c0aa"/>
+		<rom name="A Hat in Time B-Side - 20 Beta Credits Theme.mp3" size="3937796" crc="062c3858" md5="3c31689a0ed2df3513b095e6a377a39a" sha1="2fe8f05ea8878610d07fe643948279a84317aa4c"/>
+		<rom name="A Hat in Time B-Side - 21 Alpha Bookstore Theme by MP2.mp3" size="8155540" crc="1d4bd613" md5="8b6c106601e688fe150f69a89f00b894" sha1="e2a305d5b56fa38c62c1f291b7bc71cc7e6e50b7"/>
+		<rom name="A Hat in Time B-Side - 22 Fox Mask Theme.mp3" size="4621610" crc="b41229df" md5="ea83ef0ffc72af55c253d1ae74c9b2ce" sha1="1dfffe13e47497a56513130891d4313e12f2ff67"/>
+		<rom name="A Hat in Time B-Side - 23 Fox Mask Theme  (Oompah Oompah Remix).mp3" size="5535156" crc="25091c05" md5="04fdc6e21cf6581e4811a792b6675024" sha1="aaab3b17a5d52af1fa9031e0355d210095b29308"/>
+		<rom name="A Hat in Time B-Side - 24 Wowl Band Practice Tune.mp3" size="4434752" crc="f8005024" md5="ab38fd98eeb6d54ec8b6bfb92386d2bb" sha1="36f600fc560647182f7c0b1786179eb9bed6dc60"/>
+		<rom name="A Hat in Time B-Side - 25 Early Mafia Town Sketch (Making Of Insight).mp3" size="4034940" crc="1d3e49f7" md5="c19434668630b4663c87828d15c30a47" sha1="f524873ca76e2fa62184d43744a173c7ec233c59"/>
+		<rom name="A Hat in Time B-Side - 26 New Dog Adventure.mp3" size="10297844" crc="98388d67" md5="e1ee0a13d79ac7d71cdb114174c27a0a" sha1="67409aa1c002088cdecfcb15dfc793a5db064954"/>
+		<rom name="A Hat in Time B-Side - 27 Welcome To Mafia Town Full Length.mp3" size="12544564" crc="b4510cb4" md5="f230ee4ec70d2e432e9f97d5e204b962" sha1="bf46ca8716f3031359b9fa1f868794d92f4fcbe8"/>
+		<rom name="A Hat in Time B-Side - 28 Welcome To Mafia Town Beach Full Length.mp3" size="12544576" crc="6f047c47" md5="ed4ea38d21e01b1a745d879d38a5c5a2" sha1="253af667fe48b481c609b473f339cf979c845e67"/>
+		<rom name="A Hat in Time B-Side - 29 Welcome To Mafia Town Underwater Variation.mp3" size="12544582" crc="12b5ce34" md5="ec3ac138d2a1e061f003de4dbb87380f" sha1="93ba6f9b85910af7dbf66013c6ae12f3a77d0712"/>
+		<rom name="A Hat in Time B-Side - 30 Mafia Town Is Asleep Underwater Variation.mp3" size="12437048" crc="e5140f65" md5="463a79bac2d25cd9dc7119c14a060673" sha1="b8f3d5deb2af24ae6179e9940174890f66044ca0"/>
+		<rom name="A Hat in Time B-Side - 31 Umbrella Mafia Chase.mp3" size="1283954" crc="aee51654" md5="1a2cd42ef9d351984ff929caac8398be" sha1="31ff39cbdbc219e56ee3a666e68de34440af4038"/>
+		<rom name="A Hat in Time B-Side - 32 Cheating The Race.mp3" size="1741651" crc="6b178b25" md5="f60df75f6f5250ec52bd243d46f2807c" sha1="0fabaf8694d1583d1e7ab7ba1c9579e208fb4ff6"/>
+		<rom name="A Hat in Time B-Side - 33 She Came From Outer Space Phase 1.mp3" size="5830600" crc="aaf7a2be" md5="3d3a79c9ca38fd79eb6272ba6699a9d5" sha1="18ab01184119213c753aa419ee457e69e7741702"/>
+		<rom name="A Hat in Time B-Side - 34 She Came From Outer Space Phase 2.mp3" size="5830600" crc="5fe7d79b" md5="bbf93571a86f14571a3194f6d0fed5d8" sha1="da5888f53f29c004be6334f08b30145f89dcfa82"/>
+		<rom name="A Hat in Time B-Side - 35 She Came From Outer Space Phase 3.mp3" size="5830600" crc="afb590c6" md5="a44132b69c26311065fb06da3de32e1e" sha1="fe23286e23684a9e705f1b91a194926b07770050"/>
+		<rom name="A Hat in Time B-Side - 36 She Came From Outer Space Phase 4.mp3" size="5830600" crc="a0b3a891" md5="b00a1b5c3cfab0e7a1ba35be5d102fc9" sha1="2ebaadcfab2a7b67522fd1ab018381a7fb315f54"/>
+		<rom name="A Hat in Time B-Side - 37 She Came From Outer Space Phase 5.mp3" size="5830600" crc="43f2aa07" md5="69e53df3a364bbf6c7d1b8cbf6235473" sha1="9923778085de2030647d9b8ace5e5b5253d7eac2"/>
+		<rom name="A Hat in Time B-Side - 38 The Big Parade Low Key Variation.mp3" size="5832686" crc="47723bf8" md5="5309830e4f46dd35fcfd36e08a8cf6ba" sha1="46b986dfc98b13be73b9aad61c15a7d94d54e2d6"/>
+		<rom name="A Hat in Time B-Side - 39 Subcon Forest Off Path Variation.mp3" size="13913246" crc="986291ad" md5="e83272fba6c03dc4f82f6f1903d272ea" sha1="20b6772e3e1274a8150f7356cc8cf583c2ac614e"/>
+		<rom name="A Hat in Time B-Side - 40 Subcon Forest On Path Variation.mp3" size="13913244" crc="18576394" md5="bed90837ee5f1880f9b18b04167b013b" sha1="211510863d119460a548c3fe272846bd4eb6b5c9"/>
+		<rom name="A Hat in Time B-Side - 41 Subcon Forest Swamp Variation.mp3" size="13530092" crc="d3a0c312" md5="7d9997e2aaa785d7f52d477c2480d188" sha1="7347f41beaa0acb87f4c8085f9b693389333033a"/>
+		<rom name="A Hat in Time B-Side - 42 Close To Toilet Of Doom.mp3" size="3359432" crc="b4f9b31d" md5="22073e88a2c8cc33a8d79282cdc8ccd6" sha1="cc3d02cad13126a32ef185451957d3006d21bfd1"/>
+		<rom name="A Hat in Time B-Side - 43 Alpine Skyline Hub Mountain Full Length.mp3" size="13538464" crc="eafb1083" md5="d61e0e33280bb946810fdcf365179b9d" sha1="c2f76cab47b291eb053c300c6cb64911b9c92303"/>
+		<rom name="A Hat in Time B-Side - 44 Alpine Skyline Bird House Variation.mp3" size="13538456" crc="be36dc17" md5="4952bb995b78ea2a63d208d1a3e0be22" sha1="f8c65b87225e26163990afb70a8e8b27fd3f0ca8"/>
+		<rom name="A Hat in Time B-Side - 45 Alpine Skyline Lava Cake Path Variation.mp3" size="13538464" crc="8413d2b8" md5="31f44cbc52ec2bfe9355d0e0068b48b8" sha1="deedf0d204ded4a30ef99553aff00b7ccf4665c6"/>
+		<rom name="A Hat in Time B-Side - 46 Alpine Skyline Twilight Bell Path Variation.mp3" size="13538472" crc="66ec8e75" md5="5a8875e23b3fb4fa1373dfc114a404d6" sha1="05b7b7e614bc12a877975d2aae90c47a5ed1d51b"/>
+		<rom name="A Hat in Time B-Side - 47 Alpine Skyline Windmill Path Variation.mp3" size="13538462" crc="013c6ad1" md5="4f0ee6546f9f0471de53efe83fa5fea1" sha1="2c1de596bf4fabbc93d8923c263314daf47aa65d"/>
+		<rom name="A Hat in Time B-Side - 48 The Birdhouse Peak Full Length.mp3" size="15412426" crc="45291edb" md5="6c4656c8079fb171a01d18a542d950a4" sha1="709d134df95a4bbbc9bce520394bb19e831da911"/>
+		<rom name="A Hat in Time B-Side - 49 The Birdhouse Peak Bomb Enemy Variation.mp3" size="7916524" crc="b694466c" md5="2d4023ac30a33b02fe0555f57d123439" sha1="51c5bf959bb96c41fb78852fe367309464201e40"/>
+		<rom name="A Hat in Time B-Side - 50 The Birdhouse Peak Indoor Variation.mp3" size="7916516" crc="ad84f2dc" md5="97184cfedbfd45821d8e9ee1dba94eeb" sha1="51d74f6622103a5becbc27f2d4ae4590706dcc3d"/>
+		<rom name="A Hat in Time B-Side - 51 The Birdhouse Peak The Fat Bird Variation.mp3" size="7916528" crc="e01faaee" md5="72cf67e0ea93edf6dfe5c488bccd94d1" sha1="9ccfb9311be89907f674212559813ef1ccde7c86"/>
+		<rom name="A Hat in Time B-Side - 52 The Lava Cake Lowkey Variation.mp3" size="6801514" crc="a957ad14" md5="915a1ef8245b0604c35745b1e6375867" sha1="23c3fbbeb9d8f2cf8b4f77897cbb661fcf744f36"/>
+		<rom name="A Hat in Time B-Side - 53 The Twilight Bell Peak Lowkey Variation.mp3" size="1842532" crc="3b6d5f22" md5="607c6eee8bb88c9be13f55be2f24c849" sha1="421ecc4293d5dbdd5050b7a2bf308775bccae31f"/>
+		<rom name="A Hat in Time B-Side - 54 The Twilight Bell Peak Part 1.mp3" size="13875656" crc="4fd807c2" md5="13f4156592f8f1083ac53be852b5e3da" sha1="2cbe1c424b58ac2a049501379475637727ed7be2"/>
+		<rom name="A Hat in Time B-Side - 55 The Twilight Bell Peak Part 2.mp3" size="13811972" crc="24a97322" md5="a176915655bfaf7fb4d58911e68fed67" sha1="013fb9e87bc0f70936bd53a65566e082fdc5c560"/>
+		<rom name="A Hat in Time B-Side - 56 Judge, Jury and Executioner Outside Variation.mp3" size="14747428" crc="a4a4292f" md5="0ab409859172fbc1e57a111eeb98de4f" sha1="1bee4655a36851a76237e56f6068116a53caa70e"/>
+		<rom name="A Hat in Time B-Side - 57 Final Boss Defeated.mp3" size="6543624" crc="0b24713f" md5="6f598ae3d9f36a801638ccf6826eb40d" sha1="38a6c366bc7816ee36d3afeb22b80815971f1d7d"/>
+		<rom name="A Hat in Time B-Side - 58 A New Friend in Mafia Town Variation.mp3" size="2758114" crc="22dda998" md5="709a48888a2ab3f3c133288030fb8fc8" sha1="63aacb4bba050a3cfc5f975c7d13d1edeb17a739"/>
+		<rom name="A Hat in Time B-Side - 59 Time Rift Story Book.mp3" size="4024454" crc="2271243d" md5="4dd7a138cea53b029c1477f80fdac1ea" sha1="95efc4ea5990d2d3a77f7dc9f2c7d438c49e380b"/>
+		<rom name="A Hat in Time B-Side - 60 Cutscene Intro Sleeping Scene Music.mp3" size="1340390" crc="e34cf131" md5="46e645eb575ce5d36f0cf4820f3e0c78" sha1="520f8ef53193f86d1492896e6c4e1340bf149ab1"/>
+		<rom name="A Hat in Time B-Side - 61 Cutscene Intro Monitor Scene.mp3" size="1105488" crc="64685856" md5="ba374415156a7bf58dfda30fb51682f5" sha1="77617da4246e10adda3e16e9399a73a88279f9e1"/>
+		<rom name="A Hat in Time B-Side - 62 Cutscene Intro Ambience.mp3" size="1853425" crc="e0c80b5e" md5="6f8f0a1aa5c268381204da040490e818" sha1="7ed728dce4bcffa5f752670a73a41cdbbf8f3cdd"/>
+		<rom name="A Hat in Time B-Side - 63 Cutscene Intro Window Scene.mp3" size="2870878" crc="6fd1d689" md5="4eab93b9bb51a7a162eb58077a4e87c5" sha1="28efdc0585fb5b46c06cd5056f7914f3ee2a8f88"/>
+		<rom name="A Hat in Time B-Side - 64 Cutscene Mafia HQ Timepiece Truth.mp3" size="1763206" crc="d21e9717" md5="1d175ae7da0a91e844a1f248cee3773e" sha1="a4a823c0b47d0600655d28129a730ef21b4f6c7a"/>
+		<rom name="A Hat in Time B-Side - 65 Cutscene Mafia HQ Turning Evil.mp3" size="1649398" crc="8f3f45e5" md5="c77c1fc9ba07992c7a252955d81bb845" sha1="bf5da72039add6cf54468af25a6c18be6c22722b"/>
+		<rom name="A Hat in Time B-Side - 66 Cutscene Mafia HQ Leaving.mp3" size="886230" crc="d157ac61" md5="edeafda2f2b6146a8f55a1e682aa8fcf" sha1="f815a09f695b6adecf4754005afb8a8e0384dbd8"/>
+		<rom name="A Hat in Time B-Side - 67 Level Intro Mafia Town.mp3" size="809982" crc="6c5e5ca2" md5="adfedcec2e1c02040f2d071e5a9870e8" sha1="d173d35628ee59aaddc3b2dda9c4cdd94e062e2f"/>
+		<rom name="A Hat in Time B-Side - 68 Level Intro Battle Of The Birds.mp3" size="837144" crc="0d3ad22d" md5="8eecdbfbc9eb39145a89425c2a5e59bb" sha1="7b5214ee98cd6b8c6a79801e20a80c800863159f"/>
+		<rom name="A Hat in Time B-Side - 69 Level Intro Subcon Forest.mp3" size="836088" crc="588dc49a" md5="8fcd37863193ab1fa404b05fadbd20ad" sha1="12390e5c42400904886dbb04f4059198bec2a22a"/>
+		<rom name="A Hat in Time B-Side - 70 Level Intro Alpine Skyline.mp3" size="809990" crc="0d8eac7d" md5="46bddffe9fa0fb086ef09e3e26e1436b" sha1="2558a2ffb66d9ca39e0c0e14880ca89c533c7dca"/>
+		<rom name="A Hat in Time B-Side - 71 Level Intro Sand n' Sails.mp3" size="809988" crc="f9167f2b" md5="81695e674c9e95ce08edd05f75ac20f0" sha1="a059e0bd73372b08031975d795c7fb1dabbb3f34"/>
+		<rom name="A Hat in Time B-Side - 72 Level Intro Timerifts.mp3" size="816244" crc="8ec0b1ba" md5="dac49db5dc1ea7330a099eb8af9572fa" sha1="f58a128d7914ebc967ab35cb982f772c3485caba"/>
+		<rom name="A Hat in Time B-Side - 73 Loading Screen Mafia Town.mp3" size="816401" crc="307ffbdd" md5="552ee64c2307d1076b481972594eb034" sha1="9eb4827c4e4cc5d04f373646dacd870d77f28247"/>
+		<rom name="A Hat in Time B-Side - 74 Loading Screen Battle Of The Birds.mp3" size="816419" crc="6ad5d221" md5="944b5ce90bc99ba354892f2da9038bed" sha1="2213eeb997e1bbd65575199720727cd019ad151d"/>
+		<rom name="A Hat in Time B-Side - 75 Loading Screen Subcon Forest.mp3" size="816407" crc="0ea5d32c" md5="466893f23f8e05ae14b65758e005a083" sha1="0881f299f5948f5e075b1b434e7ee25f9409307f"/>
+		<rom name="A Hat in Time B-Side - 76 Loading Screen Sand 'n Sails.mp3" size="816407" crc="60df1e94" md5="bad56ec09d88f3775f0ab9405ac91e91" sha1="d902d2eff20cf6b25049b071a8140b7947b648b0"/>
+		<rom name="A Hat in Time B-Side - 77 Jingle Gears for Breakfast Logo.mp3" size="1089792" crc="007f86db" md5="a9089e87e3ff577622e27d8160e32c1c" sha1="1a073d2c9c293ae8584720247f9ac44c9a32cbdb"/>
+		<rom name="A Hat in Time B-Side - 78 Jingle Mafia HQ Entrance.mp3" size="880978" crc="8c9376f5" md5="aed9f7e1b8f00e56139f8fe60007f421" sha1="d5d4e8463f6657072b90a0b4fe31a4c46e0c7493"/>
+		<rom name="A Hat in Time B-Side - 79 Jingle She's On Her Way.mp3" size="1633700" crc="211cd085" md5="cebb6ebf167e745935de3965071a9587" sha1="92a83cb3d2ff94bb40f9189428c0414bec9713c5"/>
+		<rom name="A Hat in Time B-Side - 80 Jingle She's Coming Closer.mp3" size="1633706" crc="718fa02b" md5="c13ae4f618c7b1a044405d7245a31ab7" sha1="5b821e3eeafb345a5626b5c67cb0cd5a7bf15001"/>
+		<rom name="A Hat in Time B-Side - 81 Jingle She's Here.mp3" size="1633688" crc="d78fb190" md5="0c8723a8b80ce495a87a4b3927971782" sha1="754789acc36dbe0edfcd3d97d142ff3895945c3b"/>
+		<rom name="A Hat in Time B-Side - 82 Jingle She Caught You.mp3" size="960729" crc="124e6fd7" md5="4604bca5b85e9c7c53bceec7b6549624" sha1="aac2d9abe209c03a6cee4c8838389280bf7b1bbf"/>
+		<rom name="A Hat in Time B-Side - 83 Jingle Drowning.mp3" size="1558516" crc="e6589a3e" md5="d4bcadca1468b77e6eb58adee7a8a811" sha1="8822e05f5b57b001412fee1b231b6f9112ba772e"/>
+		<rom name="A Hat in Time B-Side - 84 Jingle Time Piece Get.mp3" size="833251" crc="c59d0064" md5="f0019b157ea409bc5eff90f3b267db37" sha1="6f6f6176a78f4805a527f81328e908ed78b7cd1e"/>
+		<rom name="A Hat in Time B-Side - 85 Jingle Time Piece Ball Collected.mp3" size="1015670" crc="fa0cb951" md5="66fd8f4f86ecc988017647b33e96bcdf" sha1="6beb21966f44e938ce542f1072f5be9601523ede"/>
+		<rom name="A Hat in Time B-Side - 86 Bon Voyage!.mp3" size="11925200" crc="76d1c5f5" md5="7a6ea43d8413c75e108ac21512908bac" sha1="2e51a460cc718d7733de0ed04663d3b88c5962f2"/>
+		<rom name="A Hat in Time B-Side - 87 Ship Shape.mp3" size="11494026" crc="9beacbe0" md5="6239d56860f83050011766199830b50d" sha1="5f98df553c4048b8e6ae23d74807c796e5604711"/>
+		<rom name="A Hat in Time B-Side - 88 Rock The Boat.mp3" size="3408252" crc="114cb3b2" md5="3efa3f77194cbed7b90f0ec1fc5d48d9" sha1="00c8133ebe424af743824cebd499bbc84ca23320"/>
+		<rom name="A Hat in Time B-Side - 89 Everyone Rescued.mp3" size="6746970" crc="da1abc30" md5="130f577ec4a4ebdf6ba6adab87e75ac4" sha1="0b7d89154603a20708b8b6f85a81d5b5e5ce2d51"/>
+		<rom name="A Hat in Time B-Side - 90 Deep Sea Rift.mp3" size="9097008" crc="6b393c19" md5="1f32f507eb8b87f03adf94b67fd12b87" sha1="88ae9ecadd86be31e8a150390e2df2f0aec6c931"/>
+		<rom name="A Hat in Time B-Side - 91 Tour Rift Spaceship.mp3" size="4867776" crc="31ccf337" md5="d940bd765097fa4bf55378ec51b1c83c" sha1="6fa686b51b9d170387b2fb10f9252ef660a86e7c"/>
+		<rom name="A Hat in Time B-Side - 92 Tour Rift Mafia Town.mp3" size="4867778" crc="94581ef4" md5="7b4ced04787a05069b1a743c9b1f000f" sha1="789aee60b4fde65dd4b666bcb9510431abce1605"/>
+		<rom name="A Hat in Time B-Side - 93 Tour Rift Battle Of The Birds.mp3" size="4867796" crc="4cf47f56" md5="e7565c820e303c9ce8a98a4ffd131a1e" sha1="5702a3b9e1767674f284c72628c3ca136548bc34"/>
+		<rom name="A Hat in Time B-Side - 94 Tour Rift Subcon Forest.mp3" size="4867784" crc="e1b20f14" md5="bd693d7c3ba148bf906bd3854e15035d" sha1="9da134671c153fc08418c7bbddbaf1446534563d"/>
+		<rom name="A Hat in Time B-Side - 95 Tour Rift Alpine Skyline.mp3" size="4867786" crc="d31ac221" md5="8f290d0e8849ccc1019131e6a4492953" sha1="bdd9799c3c247e90a1cac545a5a96b3bcd124fb6"/>
+		<rom name="A Hat in Time B-Side - 96 Tour Rift Time's End.mp3" size="4867778" crc="043782e3" md5="124c43c9a7022a88d53c9e4091286e17" sha1="c68bb910e2355c43994e748629487f60ffbae449"/>
+		<rom name="A Hat in Time B-Side - 97 Tour Rift Attic.mp3" size="4867768" crc="c2afc001" md5="7e637041889bdac2f0d4e5c678314b81" sha1="5482bba7d061e4b7b98cf614982c27424b8ed45d"/>
+		<rom name="A Hat in Time B-Side - 98 Twilight Travels Rift.mp3" size="10001128" crc="8053764b" md5="7aa7372625b29aea09ae7821e8dd5ef0" sha1="090bc89e2a87b57a1a90210a8413bf3e647623f0"/>
+		<rom name="A Hat in Time B-Side - 99 Rythm Jump Studio Rift.mp3" size="9129390" crc="8a97a140" md5="a0341ce935fba0a703d680cf4cafc9c0" sha1="e7cf98c9a633382ce4a3c59bf0da672ff6895bb1"/>
+		<rom name="A Hat in Time B-Side - cover small.png" size="477513" crc="50ff3fe2" md5="b487d59f0678ad949f221562bd69400a" sha1="41d8bf9f4e4682586f3ad53ad18462e031a9ebce"/>
+		<rom name="A Hat in Time B-Side - cover.png" size="7448489" crc="c1f97875" md5="c6c938f7a982c5f81fbcee48d78b55a2" sha1="53007938e36453dd86d8656df634b0d78bb5ca32"/>
+	</game>
+	<game name="Hat in Time, A - Soundtrack (World) (Steam) (MP3)" id="0016">
+		<category>Audio</category>
+		<description>Hat in Time, A - Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="A Hat in Time OST - 01 Main Theme.mp3" size="14834046" crc="4bb139e9" md5="cb30b0a12a290e2fa6a6cbe76fe45583" sha1="22f4ee831d40f36f01916be2422735b4819f8b1a"/>
+		<rom name="A Hat in Time OST - 02 Title Screen.mp3" size="9774826" crc="5dec39ea" md5="f62cbdc9b7020776d103dd4341610f18" sha1="88c52224f27417712067d5b987c5ecb9abb81500"/>
+		<rom name="A Hat in Time OST - 03 File Select.mp3" size="6760796" crc="1c45b5fa" md5="2841a9f5138a962cb91ee2ba5c18c81a" sha1="40904f0b68fef3b5851f0a034cea21dde8bb3af7"/>
+		<rom name="A Hat in Time OST - 04 New Adventure.mp3" size="10746792" crc="c857242a" md5="64907e414308851d47c85a8fe6e01049" sha1="a551805c2376eb3cf4fb7d74be30f9f34f167ddb"/>
+		<rom name="A Hat in Time OST - 06 Welcome to Mafia Town.mp3" size="12979924" crc="21c53cd8" md5="608c5ecbc2dceca7d46e795139c294c8" sha1="05acd0107bff045c3f0cc364d44960b43e972968"/>
+		<rom name="A Hat in Time OST - 07 Welcome to Mafia Town (Remix).mp3" size="6687716" crc="d813da07" md5="0f4124b5096f951a9fb86b76d7b27cae" sha1="daddd909e6646c35eab236f68057426fe0e61af5"/>
+		<rom name="A Hat in Time OST - 08 TimePiece Released.mp3" size="3492046" crc="f6928e58" md5="4148a58bcb395cf5e9b0fc1c71771d1a" sha1="e8447fd10f161b9cda6dc868bd8677826f8781e8"/>
+		<rom name="A Hat in Time OST - 09 Barrel Battle.mp3" size="9082656" crc="65c9a122" md5="fb2314af8d067dfc05dca24e96b7c4e3" sha1="6b0d1de10782525d4804b8e584865e5d29869f7c"/>
+		<rom name="A Hat in Time OST - 10 A New Friend in Mafia Town.mp3" size="3722786" crc="11a9a200" md5="a1c07fd5fa6eedf7d93614eda255202c" sha1="e63aec162aba42522c467f855b54ba53131f759d"/>
+		<rom name="A Hat in Time OST - 11 Mafia Town Is Asleep.mp3" size="12881786" crc="33d8f756" md5="2b8cc63d7f34dd034ae97beae5273e61" sha1="d14d0996a5f7dec166256aa62bc69489e0b21dbc"/>
+		<rom name="A Hat in Time OST - 12 She Came From Outer Space.mp3" size="9357252" crc="1fe55918" md5="8365632e4d11067212d27d7369140f98" sha1="5d7b18a013df4d5babe7c8ec7961d223311e0b5e"/>
+		<rom name="A Hat in Time OST - 13 So, Whats The Plan.mp3" size="5815990" crc="8ef9c685" md5="5c65ffcff7e754e248ff95fa0b28a384" sha1="e6b6737c47068dfa9700f05e3bb0bf734eed5053"/>
+		<rom name="A Hat in Time OST - 14 Mafia HQ.mp3" size="10445066" crc="378d6cba" md5="268cc6d51debd9ca55a2839f9d4f2fc6" sha1="42c83156be32a4cf28d368d84de1c77a85ce9c9e"/>
+		<rom name="A Hat in Time OST - 15 The Badge Seller.mp3" size="6150066" crc="baabd771" md5="7074194088ab616e22352e1a4e38d6e5" sha1="97cc0a11c45cdca0cfa2986e3f91158ad9fc61c8"/>
+		<rom name="A Hat in Time OST - 16 Mafia Boss' Big Showdown.mp3" size="9632866" crc="7fab72a5" md5="0849aea0388ccb6df1d0e39106badad0" sha1="ff203cdef5953abe5575dcb60fdfc716749fda50"/>
+		<rom name="A Hat in Time OST - 17 Mafia Boss' Big Showdown (Remix).mp3" size="9030482" crc="05a6776e" md5="c0fd2aa0376e272f79043a2d3e40ece2" sha1="24d05817f0731ae82f06638d5d468c5964cede29"/>
+		<rom name="A Hat in Time OST - 18 Heating Up Mafia Town.mp3" size="17842876" crc="97ce5f58" md5="c4f1ab46c42c097ebc960933ed9479c4" sha1="702dace938d03200d89cea6b8df2e7cbddd48461"/>
+		<rom name="A Hat in Time OST - 19 No More Mafia Boss.mp3" size="10045234" crc="0dbfb277" md5="7a195e112a013df6b9d087e097c8d66b" sha1="97b4c0fae5835f3f463c13c1055be7a25dee3560"/>
+		<rom name="A Hat in Time OST - 20 Scootin' Through Mafia Town.mp3" size="12993508" crc="a04463c5" md5="b5d8072cb2da067a9c001911c7b319b4" sha1="ad4ce0ce17306a5632443f6dc8344b90f8fdd3dc"/>
+		<rom name="A Hat in Time OST - 21 Deadbird Studio Reception.mp3" size="5851500" crc="ae8671bf" md5="63f1aeee671f7fb0b7e4c9c0e13e3e16" sha1="ca30d212a104339ae98eae13c0cf3251880e55a6"/>
+		<rom name="A Hat in Time OST - 22 Dead Bird Studio.mp3" size="10762458" crc="054ae18f" md5="9db412d16f1731bd12c98a7dd0da7620" sha1="3eacc1cf8ac5b1ab63e6fe96dc5df053c1e0abaf"/>
+		<rom name="A Hat in Time OST - 23 You Are Now Legally a Bird.mp3" size="12212594" crc="7cf4588f" md5="652d02fc26d95a67b8ab9dc8e74e8631" sha1="e37ba0f7d6a779324f056dff9279a3d2eb07c5d4"/>
+		<rom name="A Hat in Time OST - 24 The Ratings Are In.mp3" size="4770946" crc="67aefdb4" md5="e564c271264f56d2db2c09422414dd3c" sha1="7876514ec5184c348a3655c7ffe503cb131364c9"/>
+		<rom name="A Hat in Time OST - 25 Picture Perfect.mp3" size="13078048" crc="71309c56" md5="b9a7767137dead02a80365822616f1d9" sha1="09d749e9895593bef01882dac61e4c70bf8caed4"/>
+		<rom name="A Hat in Time OST - 26 Picture Perfect (Remix).mp3" size="6620904" crc="65276120" md5="64f0037d3d65e35b7ea13ccc9f024f56" sha1="72aa1cc46f44a4344db770176aea3a78967ca044"/>
+		<rom name="A Hat in Time OST - 27 Murder on the Owl Express.mp3" size="8607660" crc="28aae808" md5="7a5c56e7c94de7ade882840327ebe914" sha1="29ae2f94a055b3f99cf4d19e376c811b3347306d"/>
+		<rom name="A Hat in Time OST - 28 Who Dun It.mp3" size="8607630" crc="a34c9498" md5="fad225f8f45f8019a775b50edb4c1d8b" sha1="389d5b15e1f49c5ba2a3c3b7b53234b55f3a33e0"/>
+		<rom name="A Hat in Time OST - 29 Tick Tock.mp3" size="8607628" crc="3f6c1676" md5="b6f5d4dab234ba3091d9f017c6ad9780" sha1="8d48591faad85497271adf45973ae4b17f57693a"/>
+		<rom name="A Hat in Time OST - 30 The Phone's Ringing.mp3" size="8607648" crc="055d318a" md5="a0188b2e67f66c03b535f7b14a4fe4be" sha1="7bc075a1e6b47d904ec4ed9304b19af2119b7877"/>
+		<rom name="A Hat in Time OST - 31 Metal Bork.mp3" size="4771974" crc="e09d8a20" md5="0b7053d79c7fdc521dcc9f3914dfdc60" sha1="94bd6a42f78fd0d22b32525c8e2f04956a718b06"/>
+		<rom name="A Hat in Time OST - 32 The Conductors Train.mp3" size="5003762" crc="0fa28f95" md5="ebf74b80e4edfb2421d10f26ff3b515e" sha1="8cad9b8422e1f5144503b1c79fef455fd0f79a4b"/>
+		<rom name="A Hat in Time OST - 33 Train Rush.mp3" size="12808686" crc="27fa8cc2" md5="d3cff499202256fd974e3c7859669eeb" sha1="891afa2fb9be00a96215553a83d261919b71c166"/>
+		<rom name="A Hat in Time OST - 34 Trainwreck Of Electro Swing (Remix).mp3" size="10825136" crc="289397d8" md5="22437cf61ce77ab099a63b401636b5fa" sha1="8e3023816f4d1cad71f8a4a47a95deb670843acc"/>
+		<rom name="A Hat in Time OST - 35 The Big Parade.mp3" size="12265814" crc="99e01b9f" md5="37e652b9a3f118bb5a68843371d7843b" sha1="8ca2c41d1a4a7436bc9d3b1ae06c9b7b0dbf7ce4"/>
+		<rom name="A Hat in Time OST - 36 Turn on the Pyrotechnics.mp3" size="7479094" crc="93a42dc6" md5="8ad74c7c246b10b1ef05e6d063b21efe" sha1="c1decc00fc86395452d411ffc58b305a1cc9c10c"/>
+		<rom name="A Hat in Time OST - 37 The Annual Bird Movie Award.mp3" size="7079248" crc="25ca35c3" md5="87727612fe4486dd729293e6b07d9efa" sha1="08fec1d4298bbd2dd073bb85b64dc8699fa8aa0a"/>
+		<rom name="A Hat in Time OST - 38 Dead Bird Studio Basement.mp3" size="6691920" crc="399c5813" md5="cf0241760e6599bd3a28063331f57af0" sha1="260b695461a87c8476900c6056326335ccc87fd0"/>
+		<rom name="A Hat in Time OST - 39 Dead Bird Studio is Closed.mp3" size="7717130" crc="e52fef4e" md5="5e9f60dab085c655ba471d13737854cb" sha1="b08abd3c7899776d32b6688b7257983c1df7d174"/>
+		<rom name="A Hat in Time OST - 40 The Battle of Award 42.mp3" size="12623922" crc="341db1db" md5="1e74264563a55a36fc6be5f5539da278" sha1="21e5e1289212f2ecede046b584011b933c53ded4"/>
+		<rom name="A Hat in Time OST - 41 Heart To Heart.mp3" size="5207330" crc="7aa9572f" md5="4b3cd750a1fc9cf1545f43266079cd0b" sha1="48676a2af6c0953abf3de7c7d42643234f5ccda2"/>
+		<rom name="A Hat in Time OST - 42 Subcon Forest.mp3" size="27588600" crc="1c063565" md5="26d84b79440da20b5e3708d0b932ea81" sha1="a45b3d438166ed71a0a43eb0398e985f9b9f1d80"/>
+		<rom name="A Hat in Time OST - 43 Scootin' Through Subcon Forest.mp3" size="14361154" crc="9982060b" md5="8529dba5fddd2168d74ba8feff9d8e1b" sha1="57042fac626442231cb542e2e66743eecfce42a2"/>
+		<rom name="A Hat in Time OST - 44 Snatcher's Contractual Obligations.mp3" size="4884774" crc="9ecf011e" md5="123038b33dc4de39a3a52f38a8a92adf" sha1="86593788e0ce511c74768aacbf85139490548190"/>
+		<rom name="A Hat in Time OST - 45 Oh It's You.mp3" size="5997632" crc="67bf11bd" md5="8be4247681bc932e008705430111bc46" sha1="9d8f29f98d694e0a44f1215a7b93fe56b988a4a1"/>
+		<rom name="A Hat in Time OST - 46 Subcon Village.mp3" size="12362906" crc="b10cb8b2" md5="a8ed3d9444fcb3fa8313f2c697e1cef2" sha1="ad531599df6775a48ac57e3c11f49bceee6a16c0"/>
+		<rom name="A Hat in Time OST - 47 Subcon Village (Remix).mp3" size="12952825" crc="07c444f9" md5="08d07f8640ec088d64fc0c0309009990" sha1="61276133f775d19cc95d28facbbda33ae1b5c310"/>
+		<rom name="A Hat in Time OST - 48 The Fire Spirits.mp3" size="6263862" crc="8d291763" md5="897a26a8eff82029ab40bfe9d38a1d81" sha1="97bc6075bc9643c5d62227b3de7ce3e35e6c6eea"/>
+		<rom name="A Hat in Time OST - 49 The Subcon Caves.mp3" size="8606598" crc="abd3ae44" md5="b848c9545119441dc076424b837d035d" sha1="c3fcc7ba51f737de7ef56373ccc1039044307c5f"/>
+		<rom name="A Hat in Time OST - 50 Toilet Of Doom.mp3" size="6674150" crc="da9dd302" md5="b3fe2a31b90c8d1d815b3a6d5e9f9392" sha1="5803486e5fa1be998c45c4b746e61136a12a1776"/>
+		<rom name="A Hat in Time OST - 51 A Forsaken Place.mp3" size="10402278" crc="ba0cdecc" md5="67316a2a4cc5d114a7abb5ed8d002536" sha1="ff4a0f97dfc26d7e1dce06ef39a45eaaa3102dce"/>
+		<rom name="A Hat in Time OST - 52 Entering Vanessa Manor.mp3" size="4006746" crc="3e0d060b" md5="633141d2d187536578db08d2b048a772" sha1="e08e0526001aca5b08c69bfe9bbe1633e0d9527a"/>
+		<rom name="A Hat in Time OST - 53 Vanessa Wants To Play.mp3" size="13205428" crc="9a50c199" md5="681127fd49fc070c72226a411bbead6b" sha1="a92ff10ef4343310c275430c5943ecf2e83a138b"/>
+		<rom name="A Hat in Time OST - 54 You're Safe Now.mp3" size="4006732" crc="358ad661" md5="ecb2a6507f81e5d777f6867b6672bf11" sha1="fbf4a344f7dd0b28d4e50393f7cbb395d11d7d2d"/>
+		<rom name="A Hat in Time OST - 55 Your Contract Has Expired.mp3" size="10297896" crc="8132944d" md5="7c4164b062efca1d9a02401a01f5982f" sha1="d5168c1208a1891517597d7d632e0103e133d1e2"/>
+		<rom name="A Hat in Time OST - 56 Your Contract Has Expired (Remix).mp3" size="10212302" crc="96d78ea7" md5="65026539bd86869db82a5b359620d8d9" sha1="642a43e7390dccd88c1560ca933bd6596fc4c969"/>
+		<rom name="A Hat in Time OST - 57 The Tower of the Goats.mp3" size="7449858" crc="f47bd9af" md5="ccb164e83ae1e419d49ca9b1eeff1d36" sha1="3eca993067ba67fc4083110d96ba5fdf6de6f6e8"/>
+		<rom name="A Hat in Time OST - 58 Alpine Skyline.mp3" size="36358202" crc="2e3f8743" md5="040c2a74e0cc80dca2464309ea169e26" sha1="2769081e2c0f175967b243498eb46407f7ac7d9c"/>
+		<rom name="A Hat in Time OST - 59 The Birdhouse Peak.mp3" size="23273758" crc="1aee8e91" md5="40fb1c9df9aca226a424d3e8e6ed4fb4" sha1="1aae594d9153fbb535e4b18188ebadff2dce598c"/>
+		<rom name="A Hat in Time OST - 60 The Lava Cake Peak.mp3" size="13636594" crc="477404ad" md5="e4d5f82dbacf673f9425532a9762d995" sha1="8383dc9b0600d1a2ad695142a7e5ae0856fcc412"/>
+		<rom name="A Hat in Time OST - 61 The Windmill Peak.mp3" size="22500152" crc="ea7cabb3" md5="fc6886d42c1ca0a548f2d8535f944c77" sha1="eb45327f32ac7797af07787ac11e830381950ed5"/>
+		<rom name="A Hat in Time OST - 62 The Twilight Bell Peak.mp3" size="27202338" crc="2b3aa1d1" md5="64d0a651da5395891e97b83e5a3ae5e5" sha1="5c2b0d20121901099a29667f2c907b12d12ccd33"/>
+		<rom name="A Hat in Time OST - 63 Alpine Skyline at Night.mp3" size="13489400" crc="301771c0" md5="0646eff7fca1cee078051d9a91436fed" sha1="8f4d673bc6e4ffc87656cf0ddf912e22d4370cce"/>
+		<rom name="A Hat in Time OST - 64 The Weather Has Cleared.mp3" size="8015708" crc="53983d0c" md5="9d55e06bdb7c74d21a3f52ea7ca1e1e6" sha1="abfad0a6e7885a72b83c0726f1b00bd657dad3e5"/>
+		<rom name="A Hat in Time OST - 65 Clocktowers Beneath The Sea.mp3" size="10195588" crc="267b50fa" md5="7508b85951be3c746722b9ac425eca8b" sha1="a5b84824e885cd41051d4367e497ae0766b2b043"/>
+		<rom name="A Hat in Time OST - 66 Scootin' Through Clocktowers Beneath The Sea.mp3" size="10195622" crc="58d62fff" md5="b1e977cb7a68ad90635c0d427fbf37bd" sha1="26ab63277c81d81ba4960727da3f95e758e4870c"/>
+		<rom name="A Hat in Time OST - 67 Clocktowers Beneath The Sea (Remix).mp3" size="8177540" crc="996e138a" md5="d19202b140724270ded1a239af951a3d" sha1="fa9189b4cf63ad0c18995bb1e763fe8e841df1d0"/>
+		<rom name="A Hat in Time OST - 68 Mafia of Cooks Time Rift.mp3" size="7327714" crc="0132f7e2" md5="28e75f250a1b5089629647fb38449ed7" sha1="4ae03c14620783653b9052f4ed223468087ecaaf"/>
+		<rom name="A Hat in Time OST - 69 Battle of the Birds Time Rift.mp3" size="8274632" crc="66260a55" md5="ddbe8d75ba4a1609eb3be56be1d92b39" sha1="9a6516984e8441c4923f45bb43f59c35a3d93cc8"/>
+		<rom name="A Hat in Time OST - 70 Subcon Forest Time Rift.mp3" size="7327712" crc="ab22c56a" md5="ed1f6d844df9c42e18bfb9ded2c771c1" sha1="128a886c7732676fec667386cbc31029a7d8e02c"/>
+		<rom name="A Hat in Time OST - 71 Alpine Skyline Time Rift.mp3" size="6414218" crc="95da99cb" md5="f28043db2c5cb0552d8ce77081549d4a" sha1="049b03070b393908fd877a7428827af4bbd4e606"/>
+		<rom name="A Hat in Time OST - 72 Roll the Slots.mp3" size="4372130" crc="d3cbb6c0" md5="f2b8c14b198a9001355d1d8c40590a2f" sha1="85991fdb257a6710af77e7e494c06f77111ffeb8"/>
+		<rom name="A Hat in Time OST - 73 Judge, Jury and Executioner.mp3" size="15199480" crc="4a252921" md5="9ecc7be513d02d4a187de0418df8ab01" sha1="2255212c5667a9b400972eea753b42db309e513c"/>
+		<rom name="A Hat in Time OST - 74 You Are All Bad Guys.mp3" size="23894942" crc="5ac81a67" md5="eb836e6163523336cec145ed2cca6e7c" sha1="5dad14c97db65441def676564e6d285ab8ca91fa"/>
+		<rom name="A Hat in Time OST - 75 Get Lost.mp3" size="7967654" crc="b29015fd" md5="ab6307ceb4af88c86ab1af553b127d60" sha1="672d41659c1b6e37508a19582e1d20f5f550d925"/>
+		<rom name="A Hat in Time OST - 76 Little Help From My Friends.mp3" size="4167532" crc="53aa8691" md5="6a2550adc7b81d398cf4175e52393d85" sha1="6db349d42335fb076ac6e04c83745771ffca1a71"/>
+		<rom name="A Hat in Time OST - 77 Goodbye Everyone.mp3" size="4132014" crc="493995de" md5="d7aa3dfc2058aac18058bc6fa813dd2d" sha1="90cc3a489e2470bbbd77b65abfe6f8a1a5272f79"/>
+		<rom name="A Hat in Time OST - 78 The End.mp3" size="13721136" crc="576fc461" md5="da10d6f9ed3696fc8b20395ccf81a5df" sha1="11e2c2aebc288f509537e70ca86edd9f1a0007dc"/>
+		<rom name="A Hat in Time OST - cover.png" size="3773484" crc="d257bd35" md5="9bd391a2ed868cc31bbb5734ce436cd9" sha1="b96a40f01437f858c53aa48d814d0a05f8cde592"/>
+		<rom name="hello from the hat in time team.txt" size="168" crc="d7ae5794" md5="5ac06ca535f1a1896befba92a43d7fd7" sha1="db6487dda60b632b4d25d2eda3ff625fdf38ada0"/>
+	</game>
+	<game name="Human Resource Machine - Soundtrack (World) (MP3)" id="0043" cloneofid="0042">
+		<category>Audio</category>
+		<description>Human Resource Machine - Soundtrack (World) (MP3)</description>
+		<rom name="Human Resource Machine Soundtrack (mp3).zip" size="46598984" crc="a5ac7f2f" md5="2eb782684d0e3e4fb90d7b67990d2659" sha1="f3f3e2934d3ae9386cb066d6bf0903f0cc507865"/>
+	</game>
+	<game name="Human Resource Machine - Soundtrack (World) (FLAC)" id="0042">
+		<category>Audio</category>
+		<description>Human Resource Machine - Soundtrack (World) (FLAC)</description>
+		<rom name="Human Resource Machine Soundtrack (flac).zip" size="138208021" crc="4ee53741" md5="6a9d35305afa1b9a23a44b655ab229a2" sha1="aabf6969a1f9b8fe8052726d4a1c0516f0ca28be"/>
+	</game>
+	<game name="Incredible Adventures of Van Helsing II, The - OST (World) (Steam) (FLAC)" id="0024">
+		<category>Audio</category>
+		<description>Incredible Adventures of Van Helsing II, The - OST (World) (Steam) (FLAC)</description>
+		<rom name="01 Resistance.flac" size="25879064" crc="351a2b23" md5="59402b31ddf86db75bcca1eb9ba6deff" sha1="a7a9bb06a17c6f840266b48e1d1b61060de6a7c0"/>
+		<rom name="02 The Hero and the Ghost Lady.flac" size="27421153" crc="95f9d5a7" md5="ef176bef81182690e34fee5a30a5c855" sha1="cf83bc22ead04feaad5fefee03d9a2242825e0a6"/>
+		<rom name="03 The Siege.flac" size="22011577" crc="abb05d6f" md5="cdf3c4750d137f0cdf0425e608432586" sha1="730c0ba5eab98b9643de718bcfb7b5b2e06d30d9"/>
+		<rom name="04 The Siege - Action.flac" size="16001567" crc="ebe5ee91" md5="1585c17d0f20e6d01e23f7870a2ac8f6" sha1="e49c1df8e48abbf044d904de9de9ed5b14d91f47"/>
+		<rom name="05 The Winter Forest.flac" size="27226768" crc="bc2ff32d" md5="ea46febb82f3c6df52e43b8f54b5729e" sha1="6ce29e280efab9c4c85a8d4afd4c37c0ebe576bc"/>
+		<rom name="06 Something in the Fog.flac" size="28499778" crc="422b3f6e" md5="9e38c963ca39bd690fd19ebcd8f9138d" sha1="58fe21f159ef3b1a961315794effdbe024972418"/>
+		<rom name="07 Prisoner Seven.flac" size="29302649" crc="508b1629" md5="02110d6a40f5931483e9a28387df0b0d" sha1="a91f6d29419091af9f052b5ddab89c2613491a4d"/>
+		<rom name="08 Remember Who You Are - Lair Theme.flac" size="22920382" crc="1ebfd709" md5="111386ac43ed5c9b24f9c1c412db546e" sha1="1f1a060b9bdf64cdd9cc29e912e9bf21174cd1da"/>
+		<rom name="09 Wormwood Chasm.flac" size="32722406" crc="69b670a2" md5="a2aa7ccd38e5eb2c6c365379f3208336" sha1="574adf09ac0e712a3ca0df3164ca80eb95691ce9"/>
+		<rom name="10 Defend the Lair.flac" size="29120370" crc="025e9b21" md5="13f7c2f5837fc2f834e47e99ab1bf175" sha1="f39c4493f5c4a938dd4e4c4f60df9099bddda68a"/>
+		<rom name="11 Depths of Borgova.flac" size="20422026" crc="2e46fa8a" md5="ab1919f66b7dc80c4ad08555b5333e5e" sha1="cd7bce205997fb8d61f6599415df13b594dae9d9"/>
+		<rom name="12 The Foundry.flac" size="30017714" crc="b0eb7fdb" md5="764efb5ed8a6a82293662d84ad9ce770" sha1="923d7c5498862295e0b8bab5c8dc928c3f31e89a"/>
+		<rom name="13 Old Caves.flac" size="21453240" crc="89a611b7" md5="dafbd73a78ffc2f012a56193b99ab27d" sha1="787fc95bcebbcdf4c1c2187ada3fd78b0a363386"/>
+		<rom name="14 Hunting.flac" size="26248875" crc="8db37152" md5="ae5197a2da0e5926eed35ec7068c0954" sha1="cbcfcd551d13722c84a80c6114f551130ca7c44f"/>
+		<rom name="15 In the Canals.flac" size="25290109" crc="013b3818" md5="62f40d53f53ad3866870cb1128003b30" sha1="8250415ff764f9b20da73b1df4f82772b4798051"/>
+		<rom name="16 The Ink.flac" size="27405548" crc="e16f9ffb" md5="d256d92a349cad2f17a86c7cd24496be" sha1="fcce9e39c835056bfd1a2adb61f1730c2547877d"/>
+		<rom name="17 Shadows of the Past - Lair Theme.flac" size="25040511" crc="cca6fba6" md5="76676361bea81cc8f4a269eacde40ec4" sha1="8341cbbd54fddae8bf2c18d4556624e80bf81938"/>
+		<rom name="18 Bonus - Katarina_s Theme - Piano Cover.flac" size="7478063" crc="aa09e9e0" md5="121bbebdc98acff685e10ac8ad08668d" sha1="4285fad03e8f9661f007cac17dc3111b3dcdbaab"/>
+		<rom name="19 Bonus - Van Helsing 8bit Cover.flac" size="2298907" crc="263569ef" md5="04e81ab96a32e0d2b4fb35cf6ad3aa82" sha1="fef1efce634ccf7e9f82c3351e3b6e7538853710"/>
+		<rom name="20 Bonus Xmas Special.flac" size="36413692" crc="c6eb41cf" md5="37d36b111f12c76cecfdf6b4c7b2392e" sha1="28b3d736f41e627e7d48175d17e1d82b3da2d6d8"/>
+	</game>
+	<game name="Incredible Adventures of Van Helsing II, The - OST (World) (Steam) (MP3)" id="0025" cloneofid="0024">
+		<category>Audio</category>
+		<description>Incredible Adventures of Van Helsing II, The - OST (World) (Steam) (MP3)</description>
+		<rom name="01 Resistance.mp3" size="8466018" crc="065bf11b" md5="745ec5964526631e2f0a1c994577c947" sha1="156aef724235e7f97771f352358edd5bc7ff7e43"/>
+		<rom name="02 The Hero and the Ghost Lady.mp3" size="11017676" crc="6923faa0" md5="cd6ddc4e179797fe4467a97e959ce799" sha1="3b380f16f0252dc26988a8d9a6f3991b2dcb4047"/>
+		<rom name="03 The Siege.mp3" size="10535960" crc="38aa4ba3" md5="2d09d40c7d5bffd1d37a177d400b17a1" sha1="b7774688c904862cdb008dae6fdc267f615ed3e1"/>
+		<rom name="04 The Siege - Action.mp3" size="5447316" crc="d4dceeee" md5="08dd296113e44d19e8816b83fe1b2c30" sha1="8d7092abb41b17d741839c636822423f68893cd0"/>
+		<rom name="05 The Winter Forest.mp3" size="10962286" crc="17c2c1fd" md5="8940d106bc383eb8efc0e714ff1e42b0" sha1="e9be39494cc0e91e266daec8531b22b0840ac223"/>
+		<rom name="06 Something in the Fog.mp3" size="11307106" crc="8a93d884" md5="d7804526d44215e0af132316b7ed301c" sha1="d2fea128fdaf5424c34a687678c5d6a512eb8c18"/>
+		<rom name="07 Prisoner Seven.mp3" size="12836830" crc="3d819abc" md5="ccc6a8fee65ad794cba6fa7d45e53c77" sha1="0ea8fce3e11ef08d64e9ba76f6ae2fd6be06fc55"/>
+		<rom name="08 Remember Who You Are - Lair Theme.mp3" size="11216212" crc="1627fe42" md5="2de91d914b846ab423a890dbac0b05ad" sha1="19f61c4b7410b08ead2d22e7bf8d2b7f6f8af1a3"/>
+		<rom name="09 Wormwood Chasm.mp3" size="13155524" crc="b18f959f" md5="1cab044ca5d654a3a2822fd7151dd73e" sha1="90c6abfdbdc84ac6e60526ef8ec480e3a27e20fb"/>
+		<rom name="10 Defend the Lair.mp3" size="10802415" crc="b3910220" md5="2058fadf52c474c5a58213a509f477a0" sha1="1f2eec8de7b6175724156bd87d9dd4db50ecd09b"/>
+		<rom name="11 Depths of Borgova.mp3" size="10540147" crc="ceca3e44" md5="96ececbe7a117a4e51e1d836e3f7e2e5" sha1="f2556bbe8a99115e20eb021c8a5efa3e5a21954b"/>
+		<rom name="12 The Foundry.mp3" size="11346803" crc="b65b0e2d" md5="64bdcdf340ae0b17eab0735f493f32af" sha1="45457782a124cbca739a0ec95b34970ff762902b"/>
+		<rom name="13 Old Caves.mp3" size="11079307" crc="5b4b8c37" md5="f862f5d20951868ab47719a01662613c" sha1="4572918704ec4c38e939a40a64ce5869e49b31fd"/>
+		<rom name="14 Hunting.mp3" size="13062521" crc="133addcf" md5="f9d68ec2b305cbb5a3f379e230be03de" sha1="2289e803a949b1d59aa9e13cf058c50214398d65"/>
+		<rom name="15 In the Canals.mp3" size="12511866" crc="4ed2810f" md5="23b7d58c087955add6c63a1307c95dd6" sha1="4293b7253fc4a664628111f3e04e43d7c51910a0"/>
+		<rom name="16 The Ink.mp3" size="9752284" crc="57dea6ae" md5="9adbb3b08975974f8f6de4cd690a3aea" sha1="83b430cc3e162f3290176a36178f0f4da5fb9d01"/>
+		<rom name="17 Shadows of the Past - Lair Theme.mp3" size="11079330" crc="5f7e2058" md5="7bc9df13646b640a167708c66100d0a0" sha1="195ac1fef08df4c5a1c036c4239208b5e183ff8f"/>
+		<rom name="18 Bonus - Katarina_s Theme - Piano Cover.mp3" size="4714862" crc="9198d0f4" md5="0e887210585869a26ef346b7470b98d4" sha1="9e6813b1edb533ce093e8929c28d96624e68e726"/>
+		<rom name="19 Bonus - Van Helsing 8bit Cover.mp3" size="1326249" crc="b5be2e37" md5="200cb4fdfeee91d46676bc706acc0caa" sha1="af4497177d60504686ed3e7b89bfaaefedb01684"/>
+		<rom name="20 Bonus Xmas Special.mp3" size="11361864" crc="9d5b118f" md5="e37085b0635776179c485fe58405d0e9" sha1="b2b44ab85d22883d20836020998185d75779158e"/>
+	</game>
+	<game name="Into the Breach Soundtrack (World) (Fangamer) (WAV)" id="0005" cloneofid="0003">
+		<category>Audio</category>
+		<description>Into the Breach Soundtrack (World) (Fangamer) (WAV)</description>
+		<rom name="Ben-Prunty-Into-the-Breach-Soundtrack-WAV.zip" size="711147158" crc="4a5aa48b" md5="cf4a95f0a033e2fda18b8ed65a1cc379" sha1="ab8e410cba569aa4651bbafe9741221d8acfbe5f"/>
+	</game>
+	<game name="Into the Breach Soundtrack (World) (Fangamer) (MP3)" id="0004" cloneofid="0003">
+		<category>Audio</category>
+		<description>Into the Breach Soundtrack (World) (Fangamer) (MP3)</description>
+		<rom name="Ben-Prunty-Into-the-Breach-Soundtrack-MP3.zip" size="124723452" crc="7c8c84a0" md5="c3db1527a822a583038b47d9a0a6181e" sha1="74c3381ac9868e27f8cfaf126837fee348112613"/>
+	</game>
+	<game name="Into the Breach Soundtrack (World) (Fangamer) (FLAC)" id="0003">
+		<category>Audio</category>
+		<description>Into the Breach Soundtrack (World) (Fangamer) (FLAC)</description>
+		<rom name="Ben-Prunty-Into-the-Breach-Soundtrack-FLAC.zip" size="424459945" crc="9169a745" md5="fa631ddaaa9920b0a15a403f3c51ecdc" sha1="6e2e23e93c5c6d52d1db86cb2752b9b5b7e20542"/>
+	</game>
+	<game name="Jackbox Games - You Don't Hear Jack Volume 1 (World) (Bandcamp) (FLAC)" id="0056">
+		<category>Audio</category>
+		<description>Jackbox Games - You Don't Hear Jack Volume 1 (World) (Bandcamp) (FLAC)</description>
+		<rom name="Jackbox Games - You Don't Hear Jack Volume 1.zip" size="85677264" crc="713de170" md5="7c6a669959bb8945ee082eee4497e5a1" sha1="90e280b23c6a30728541abec4167d6bc3273fd1f" sha256="89347e45f4b489c191ad1b61a295bd76828bebdf80e57591a44c61f6e9c97e5d"/>
+	</game>
+	<game name="Little Inferno - Soundtrack (World) (MP3)" id="0045" cloneofid="0044">
+		<category>Audio</category>
+		<description>Little Inferno - Soundtrack (World) (MP3)</description>
+		<rom name="Little Inferno Soundtrack (mp3).zip" size="31737207" crc="8627fee4" md5="c482b5abd82c6cc3972751460b4263d3" sha1="3f37975354ea33b337187e3a6f3fc5e7b7f194db"/>
+	</game>
+	<game name="Little Inferno - Soundtrack (World) (FLAC)" id="0044">
+		<category>Audio</category>
+		<description>Little Inferno - Soundtrack (World) (FLAC)</description>
+		<rom name="Little Inferno Soundtrack (flac).zip" size="136109484" crc="73e788fd" md5="733665cee868fdbde427165e50291ffe" sha1="ec48f8ce63fc6d23f23ec90aa8433a7d511e44af"/>
+	</game>
+	<game name="Master Spy OST (World) (Steam) (MP3)" id="0026">
+		<category>Audio</category>
+		<description>Master Spy OST (World) (Steam) (MP3)</description>
+		<rom name="01 Master Spy Theme.mp3" size="6650941" crc="25e6dd4d" md5="fc56ecabea4ad9b555f5c349722171f1" sha1="986854571186fb77421880dd0c47831d0a0a4a9a"/>
+		<rom name="02 Mission 1 (Tower).mp3" size="20907529" crc="924cd98c" md5="a22876e4f79f49234ad3a20b0394b3d3" sha1="4ebda6eba6c0885e2a11260680939b9314cbb05c"/>
+		<rom name="03 Cutscene 1.mp3" size="4513073" crc="dcb82366" md5="da745b1835fc175d3418b3365dccd69b" sha1="528129c058f3c86609bb0c249521cf30389f2d52"/>
+		<rom name="04 Cutscene 2.mp3" size="3317710" crc="47eff66e" md5="399383dd577b400008dc999b919e0d8e" sha1="a592a1d0aff5cf783912643b89dc838f498b2920"/>
+		<rom name="05 Mission 2 (Mansion).mp3" size="15859629" crc="b95d2bba" md5="5742209204c63d0ae90533d3f6ebf6bc" sha1="9983fd78278ee88a53e5e7a08602fbe3f4b12c7d"/>
+		<rom name="06 Cutscene 3.mp3" size="3149482" crc="8d771a66" md5="e7b9dad5c78290cf2ebea3c9da628bce" sha1="4f62094814c15a8a6f46d9c718a736b962620eb8"/>
+		<rom name="07 Mission 3 (HK).mp3" size="17118726" crc="9acf5f99" md5="2b697838c0222024b26e5547678888ef" sha1="886d74c0168bba604929dbfb0d90b9abdf6b461b"/>
+		<rom name="08 Cutscene 4.mp3" size="6389710" crc="dfd4a1ca" md5="84c56efc3c0c8e070efc6d7564f67a4f" sha1="484f7ac11aa61d51dc5da05b2c76e16afe373c97"/>
+		<rom name="09 Cutscene 5.mp3" size="6865139" crc="4c1b38fa" md5="82f2ecadd57c7e830e2382e48d2d64dd" sha1="da074b672c2ce9bd7f3c8ed0ec7ecddb49acde68"/>
+		<rom name="10 Mission 4 (Factory).mp3" size="14982961" crc="f8cf7fce" md5="90bca805365b731ced67cd4a8aed043b" sha1="94095eb248972d313780e9465e3e2a4d85bfc745"/>
+		<rom name="11 Cutscene 6.mp3" size="5678136" crc="75fa0d0e" md5="1fdc82fd9d0f9e21f8ea3468c9189c4c" sha1="73572629aa6036e2eee45f417d323a33177f4ba5"/>
+		<rom name="12 Cutscene 7.mp3" size="3725221" crc="2735acce" md5="133290e488b43eecbec40e9a040eb426" sha1="106cec2ac27c51334ce75a6e4cee19476f964399"/>
+		<rom name="13 Mission 5 (Yacht).mp3" size="9413653" crc="ea0ce48b" md5="10862cc8b93bcb795e7cc0c38c557e1d" sha1="f086871421a344e1c452b811176d1a7c27ff1de3"/>
+		<rom name="14 Score Screen.mp3" size="9997746" crc="6558fec7" md5="751f38ab152c5de442e5414ec6e63e43" sha1="0664766707df051690b642edee43639c4e88a034"/>
+		<rom name="15 VR World.mp3" size="14767701" crc="3a5cf9e1" md5="cdfe4c01bfd38756c635e1ea20e8b5de" sha1="66845c555ba57b265a0ad730fc81ebc52c15d1f7"/>
+		<rom name="16 Secret.mp3" size="3981217" crc="77c7aea9" md5="56bb742e7369ee96ca124df9b63e92d7" sha1="3c57c663763e62a75eb101c2020a1c046bdf4565"/>
+		<rom name="17 End Theme.mp3" size="6831702" crc="44f75d8c" md5="c0d945f429b095848583559e8985c376" sha1="9efd1e380e6f8999c15a440181a3421fbf16b54b"/>
+		<rom name="cover.jpg" size="744883" crc="4568c21a" md5="11958dc7a8a07a5d4c27a41e6abd586c" sha1="739351ade81487e057d7741981b72d43adac1569"/>
+	</game>
+	<game name="Minecraft - Volume Alpha (World) (Bandcamp) (FLAC)" id="0055">
+		<category>Audio</category>
+		<description>Minecraft - Volume Alpha (World) (Bandcamp) (FLAC)</description>
+		<rom name="C418 - Minecraft - Volume Alpha.zip" size="216555749" crc="31842163" md5="ae64af434d062382d3e620765b2e88d2" sha1="9aff8184f1f56285fe413bdb69dcc402251f819b" sha256="41e1ac422a09e05cfb1227cec4aab734a34e66aa5306a9475823594db699d172"/>
+	</game>
+	<game name="Music from Dreaming Sarah (World) (Steam) (MP3)" id="0027">
+		<category>Audio</category>
+		<description>Music from Dreaming Sarah (World) (Steam) (MP3)</description>
+		<rom name="01 - It Was Here.MP3" size="2772021" crc="d6e9dde0" md5="97bf97048de1eaf2901390128631f7fc" sha1="97931c1fb751e1998d9d2e50596521ccfbd4f70e"/>
+		<rom name="02 - The Violet Sky.MP3" size="4202706" crc="782b0543" md5="60b41cf26f059c9b4c5d1d3e67b3979c" sha1="b3b761911503754e46c8d5610a8814fd603e9528"/>
+		<rom name="03 - Solitude.MP3" size="2055049" crc="740e1646" md5="10c6b94c433559ee8325524c67c27d77" sha1="54ad3ed56227ca382f0690c56e02319d0400c72b"/>
+		<rom name="04 - Sadness Moments.MP3" size="2743145" crc="9bb27865" md5="4f7b46bd648754f2013a362b9ab0dc32" sha1="6132a95cbd1fa5ca338da544b1d00a0fc6f98589"/>
+		<rom name="05 - Madness.MP3" size="4578863" crc="bc9b2143" md5="5df2993df0090a1a27d0578293224180" sha1="40800a1164d1f98cbbf99af5fb1374320cd748a0"/>
+		<rom name="06 - Bad Dream.MP3" size="3216309" crc="f7cc56c3" md5="4c79fb718a47321b3a46a82faa95164c" sha1="fc53bf59db8c4338ab581ca1b0573130277abadc"/>
+		<rom name="07 - Strange World.MP3" size="3655169" crc="051938bb" md5="9afe9eef88f4b95739c8c746f68a27c4" sha1="3fae8e51da60633175c823eff2daf083dcc04756"/>
+		<rom name="08 - Madrigale.MP3" size="2241170" crc="8cd53415" md5="8e51916016a601e7bf72fd50d09146af" sha1="160ec1b754644d1d50c3f7c11dc7e00df3155794"/>
+		<rom name="09 - Slowmotion.MP3" size="1886230" crc="e28f821c" md5="e0359531b1cfa1f9cea43605ca512af9" sha1="c6d4b5df6e85998795e336a66a3d20cc2b05c1a8"/>
+		<rom name="10 - Stroll.MP3" size="3767149" crc="4773d6fa" md5="c55fb776d2227206fcfb4291b8728457" sha1="6f43b9315a5f05e794fc9147be25b6006360c095"/>
+		<rom name="11 - It's All Over.MP3" size="3680627" crc="24d8ec30" md5="b139df860d27b874412c4f5a457d09ae" sha1="acb6222f6e451da4b6720fca3c76845c5bafe835"/>
+		<rom name="12 - Blue Night.MP3" size="3518884" crc="d5f455d0" md5="a263fdc3d535e36f11c8d6f263ff6f1b" sha1="b92577dec23e62a27102ad69c88a309100749104"/>
+		<rom name="13 - The Blue Fairy.MP3" size="3204998" crc="8c9af5a9" md5="bbedbc86b1e038445050556f01d5f46d" sha1="581d9a245abc32721afadc7c33d6dfb8db52b722"/>
+		<rom name="14 - Suicidal Pianist.MP3" size="1205047" crc="9a9bae5d" md5="1774ee878115c16a5da0dc85c4f9e11d" sha1="5645c8397fedb666ec1c673db75137f87f63268b"/>
+		<rom name="15 - Sweet Solitude.MP3" size="3847818" crc="87cfa799" md5="f9846664c72b722e4bd578f04b3e34f7" sha1="f6abbf9a09f290ee33ce269f805b51d82e92a172"/>
+		<rom name="16 - Memories Fragments.MP3" size="4629882" crc="a05f2dad" md5="dd104747eb2fbf956139e48eccd9f15b" sha1="53ee5af1b2873e723f92c5daa851db0999f6fcf7"/>
+		<rom name="17 - BONUS - A la recherche du moi intérieur.MP3" size="3716914" crc="9559461d" md5="c4b39d49375a99191c9eadaae0eadd89" sha1="ba22b2636d6f969f18f7bad4b63397db724de9a5"/>
+		<rom name="18 - BONUS - La fée de l'ivress.mp3" size="6566850" crc="b4ce4d6a" md5="cd077c01748e4bb34e3b40d776facf9b" sha1="4601c048415aa430ea105a9ffa021063d8099f5d"/>
+		<rom name="19 - BONUS - La muse de la nuit.MP3" size="3189120" crc="dd2696ea" md5="b1b1fbce100688c326f6e91102281f80" sha1="b34f0e7eaa3e2c95af03cc1e61f547748f994936"/>
+		<rom name="20 - BONUS - La violence des gestes.MP3" size="6075547" crc="91a7949c" md5="c2cf15dc9cecd22ec4fe986e826428c4" sha1="69322f7161cca1cde0653d5c04f34551897eef7d"/>
+		<rom name="21 - BONUS - L'amour dans ses cicatrices.MP3" size="4872241" crc="67f356d4" md5="f5d3ffbbd947765a5af9a77fb850bd74" sha1="e816de3ded50b124497759a4ea7603599b9f1e28"/>
+		<rom name="bonuscover.jpg" size="165498" crc="c286b222" md5="04f309eb31c85ec231c09d675511ed0f" sha1="21b34b441b542d9af078513e24514051273ab836"/>
+		<rom name="cover.png" size="305266" crc="4a2cdf92" md5="df0f845104244f2bf48efbf264e345c6" sha1="66ce66af2095bd644a47a2c298bd58a292554036"/>
+	</game>
+	<game name="Out There - Omega Edition - Soundtrack (World) (Steam) (MP3)" id="0028">
+		<description>Out There - Omega Edition - Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="__MACOSX\._Out_There_Omega_Edition-OST" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._01 - Journey Begins.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._02 - The Story Unfolds.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._03 - Out There I.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._04 - Blue Giant I.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._05 - Blue Giant II.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._06 - Blue Giant III.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._07 - Enemies.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._08 - Supernova.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._09 - Garden Planet I (feat. Lara Ausensi).mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._10 - Garden Planet II (feat. Lara Ausensi).mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._11 - Garden Planet III (feat. Lara Ausensi).mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._12 - Red Dwarf I.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._13 - Red Dwarf II.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._14 - Red Dwarf III.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._15 - Red Giant.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._16 - Neutron Star.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._17 - The Black Hole.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._18 - Out There II.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._19 - Yellow Dwarf I.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._20 - Yellow Dwarf II.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._21 - Yellow Dwarf III.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._22 - Journey's End.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._23 - Final Chapter.mp3" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._Booklet.pdf" size="624" crc="9eeaea96" md5="2679debf6dd9d2dc0fe70731889b6e00" sha1="1289ab06b7942066ba6388b8ece82492b8f6ece8"/>
+		<rom name="__MACOSX\Out_There_Omega_Edition-OST\._Cover.jpg" size="222" crc="6899ecb5" md5="12a9b236b4d2d9a72cfea96ad63ded09" sha1="fb08996e3a65dc3955f52273ac7035554ab3d1d9"/>
+		<rom name="Out_There_Omega_Edition-OST\01 - Journey Begins.mp3" size="3622747" crc="1f8a83f9" md5="19950d64622e9f8d8abfa02bc2f1f493" sha1="b55a191e1cf252dc016d89aae3a0ca888a48c261"/>
+		<rom name="Out_There_Omega_Edition-OST\02 - The Story Unfolds.mp3" size="13149082" crc="8ec11614" md5="55fa3c117f4bfb115b1fbfe0c8e93867" sha1="1d8343e725971dcc0a25fdedb3d6465aadeb6369"/>
+		<rom name="Out_There_Omega_Edition-OST\03 - Out There I.mp3" size="6798192" crc="79ba99d6" md5="6f5e41cece3aba5567b18e56e2fde5a5" sha1="8e136b43e8b545ea593cdaeb49d34ac39d5201b4"/>
+		<rom name="Out_There_Omega_Edition-OST\04 - Blue Giant I.mp3" size="3432576" crc="54f01349" md5="314ff01ac9d4ba9d64591a369f1ae33d" sha1="2781521c830c9dd662eb6dec478cbdd8982cf425"/>
+		<rom name="Out_There_Omega_Edition-OST\05 - Blue Giant II.mp3" size="3991596" crc="34d1fd6d" md5="09dcee68234289f42ef253c62c619f03" sha1="566e2db70ec1a2f839643403b4cd8db93c254981"/>
+		<rom name="Out_There_Omega_Edition-OST\06 - Blue Giant III.mp3" size="3638421" crc="fe2ca0fb" md5="732f4e300e7aaaba5b2e2d27f52d9c23" sha1="3bb3e8595f205c6548ec5164ab142b150dc3ba23"/>
+		<rom name="Out_There_Omega_Edition-OST\07 - Enemies.mp3" size="4804527" crc="1ec02537" md5="62def181a457a763d423f1a9fbbbb2ae" sha1="dee81cb6c9133ba94a7896adb188b30dda25d0a9"/>
+		<rom name="Out_There_Omega_Edition-OST\08 - Supernova.mp3" size="4193262" crc="808b5c34" md5="91783fb52fe7503d2d67385ff19a2891" sha1="d10e3a079cfeb231ea733c96a0947956da75d4ac"/>
+		<rom name="Out_There_Omega_Edition-OST\09 - Garden Planet I (feat. Lara Ausensi).mp3" size="5004103" crc="f669a31b" md5="b5f82292fa9cc9ed7c34a37e7ba56cdf" sha1="7e7b5e1dda0902ec315a97a2bba7df3da50fa298"/>
+		<rom name="Out_There_Omega_Edition-OST\10 - Garden Planet II (feat. Lara Ausensi).mp3" size="7556788" crc="f22bb78c" md5="557c01985b8f19803e7a9bef71569d3d" sha1="f33935f7f5fbbcfa5b718964fb9fc24d351dd5a6"/>
+		<rom name="Out_There_Omega_Edition-OST\11 - Garden Planet III (feat. Lara Ausensi).mp3" size="6788788" crc="7f89635d" md5="707ca2cadc99725ea20d6761ced6ecc2" sha1="dd7d6451af514bec53f6565fdaafb5c9b274f5fa"/>
+		<rom name="Out_There_Omega_Edition-OST\12 - Red Dwarf I.mp3" size="3021931" crc="4bf970e6" md5="36df49b8d679c8f4817496b491b9fbb5" sha1="a75eaa0fabc40445296efb4023487e7b569c3374"/>
+		<rom name="Out_There_Omega_Edition-OST\13 - Red Dwarf II.mp3" size="3432576" crc="d8ceea66" md5="46e227968b2105aa37ffcdd5efc22dfa" sha1="aa823e4f02d457bd0042c63809f452ea70f85c06"/>
+		<rom name="Out_There_Omega_Edition-OST\14 - Red Dwarf III.mp3" size="3981147" crc="446cbce7" md5="ff035823536055ce5bffd88e0ba0506e" sha1="4780e67bb83d2021dd1ac62397d9847986b7a43d"/>
+		<rom name="Out_There_Omega_Edition-OST\15 - Red Giant.mp3" size="7204658" crc="e1c23fe7" md5="727bdaf16a2587d0960c6a8520a776af" sha1="3aab50a839cc99d2436519cc030c0f7bc2c5c739"/>
+		<rom name="Out_There_Omega_Edition-OST\16 - Neutron Star.mp3" size="4804527" crc="2c77c6bc" md5="bfc788405a40f4e6a01dfa3a42944c13" sha1="b413dff1552a30f08e9248848c6d0224af22e0d3"/>
+		<rom name="Out_There_Omega_Edition-OST\17 - The Black Hole.mp3" size="4667645" crc="197553d5" md5="3cbd530e33a2750b2564c1cd66434615" sha1="e708a6e49fe5c0f5cbf5af68bf539436790b81aa"/>
+		<rom name="Out_There_Omega_Edition-OST\18 - Out There II.mp3" size="11376935" crc="c1a31157" md5="891e2ab4da63c27fd383e96416ef841e" sha1="2e21a1c4d1225fee482cda48b6c27412bb7602f5"/>
+		<rom name="Out_There_Omega_Edition-OST\19 - Yellow Dwarf I.mp3" size="4941409" crc="ae667ae4" md5="f30e19d9a75e3f99b52842d11d51889a" sha1="6805732937b13358b21d9445dac8bb9fcd0ef4f9"/>
+		<rom name="Out_There_Omega_Edition-OST\20 - Yellow Dwarf II.mp3" size="3021931" crc="758b03a0" md5="747fd20e446d660c7f8a4d22f5e5c7e6" sha1="cfe8234c975f97c7a8d27ab69afc3864d5a1c91c"/>
+		<rom name="Out_There_Omega_Edition-OST\21 - Yellow Dwarf III.mp3" size="3844266" crc="02392d89" md5="78136718bec4dfb1c4625e0f53209704" sha1="ee1565c88f357f293e6b2893cac5e9ab174775b6"/>
+		<rom name="Out_There_Omega_Edition-OST\22 - Journey's End.mp3" size="866307" crc="d7f8b28f" md5="26f827180178cd289f85e723d11450f9" sha1="b7fd9d2b6f5d1b4f7a05a44b4c86e0221d1a9d2f"/>
+		<rom name="Out_There_Omega_Edition-OST\23 - Final Chapter.mp3" size="13444788" crc="d3ffa225" md5="69d232acc2ea2df9802f03e4c86dcbac" sha1="02f616d3085f233a338f834d6c358b4fd7a0c580"/>
+		<rom name="Out_There_Omega_Edition-OST\Booklet.pdf" size="462228" crc="67821209" md5="baa3ae5174b1fbbdabb544180812d72b" sha1="9ace6379819bafb87cd536c8d4e81b34cc4430fd"/>
+		<rom name="Out_There_Omega_Edition-OST\Cover.jpg" size="394896" crc="6be44b8a" md5="12b89fc03157e302f0db34c734da5f1f" sha1="6e7b6ece92d925a25ded87c3c766c3a5ed217c62"/>
+	</game>
+	<game name="Portal Soundtrack (World) (Steam) (MP3)" id="0030" cloneofid="0029">
+		<category>Audio</category>
+		<description>Portal Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="01 Subject Name Here.mp3" size="4193380" crc="733c4972" md5="27a3d31533f1f051923d7b7ad35257de" sha1="5fa20d5f0ca481bae40e2a782e51d752e9a809ad"/>
+		<rom name="02 Taste of Blood.mp3" size="7461818" crc="03d26285" md5="0811b1f684e7d6742961c71869b7455e" sha1="4d36b4b13093a66b3fbcbd273dd902f0cecdd243"/>
+		<rom name="03 Android Hell.mp3" size="9040657" crc="1fe8c5ee" md5="f4324b17015b94dd84f53addf63f1106" sha1="61b67d0886174917b30aee56fd94f89253562f5c"/>
+		<rom name="04 Self Esteem Fund.mp3" size="8439844" crc="7d2a30b5" md5="8b6ae7ebc471b7a64c18b6b2d9f69d59" sha1="cbcf4661671603abdd1138b6f05c5de54169ab16"/>
+		<rom name="05 Procedural Jiggle Bone.mp3" size="10984177" crc="5a609b5f" md5="5e478cc6eaa8205a59fbd4154106bd67" sha1="40107a760e8e75c92c1b53b6bf8fbcd536eb4946"/>
+		<rom name="06 No Cake For You.mp3" size="9818064" crc="fcbb2323" md5="6c3aebd69c91ea28db3181310ef17e74" sha1="a919f051008ed2e1dbddefaa2315b9135f2a4b60"/>
+		<rom name="07 4000 Degrees Kelvin.mp3" size="2463031" crc="789c7107" md5="bd54653f072357b9fd76b924a3971075" sha1="68a43559366952709bbf6e3736bedb92a9376431"/>
+		<rom name="08 Stop What You Are Doing.mp3" size="9725076" crc="f4695526" md5="2c37f9ad4c9eef096487d5f307df8401" sha1="d51fbdecd714dcf96ec1140383a0ba93dbe34a50"/>
+		<rom name="09 Party Escort.mp3" size="10469032" crc="537bfe6a" md5="a85ac2f3fdd469ac16dc0fce75868d0f" sha1="6a486f79a8965611ae319f090d6c31dedcf0f462"/>
+		<rom name="10 You're Not a Good Person.mp3" size="3382547" crc="b9b779a4" md5="222ce1d3e9bf0cb9fd3aace2682b66d7" sha1="c3b5bc84fc6823bac334d0a30921c82de0aa85e4"/>
+		<rom name="11 You Can't Escape You Know.mp3" size="15364393" crc="d0bb01f5" md5="398df3f5082b5975159aab48d5667ef6" sha1="d948579b12e6edbc214d6f214fe6192785df858f"/>
+		<rom name="12 Still Alive.mp3" size="7060586" crc="7186f16f" md5="d06409756dab521fee211f819fa44e92" sha1="57dfd6035ec6ca68555a24886adeda7dc927587d"/>
+		<rom name="13 Still Alive (J.C. Mix).mp3" size="7057462" crc="72bf0ca8" md5="634fd5afccc17bf8a9745909b2485ea4" sha1="79118320b83aa73f1da7c5b90a4a7d9f7f866503"/>
+		<rom name="cover.png" size="149191" crc="999cfdbc" md5="1d39d2cfd75f3eefaa00825e82aba7c6" sha1="d95d90200b2be9928e0b1c2a5e5414fdcad55a8f"/>
+	</game>
+	<game name="Portal Soundtrack (World) (Steam) (FLAC)" id="0029">
+		<category>Audio</category>
+		<description>Portal Soundtrack (World) (Steam) (FLAC)</description>
+		<rom name="cover.png" size="149191" crc="999cfdbc" md5="1d39d2cfd75f3eefaa00825e82aba7c6" sha1="d95d90200b2be9928e0b1c2a5e5414fdcad55a8f"/>
+		<rom name="Portal-01-Subject_Name_Here.flac" size="8815622" crc="38a8b3c9" md5="a9745eaa7bc7484ea11a891958ee97fc" sha1="31e7edf40e7febdf5cf88c284c9b72f1d5d307c3"/>
+		<rom name="Portal-02-Taste_of_Blood.flac" size="13907052" crc="4a06fac1" md5="eb6537cf0cbe81d6d445c5fe7f86295e" sha1="a85ab94ce9f52f0db769c7310fb558528df56dd9"/>
+		<rom name="Portal-03-Android_Hell.flac" size="13946322" crc="3f74e05d" md5="09cbf78820163a689a7c7551e6aee274" sha1="394165c348cc4c1264b31457bd2fdbb0b5da585b"/>
+		<rom name="Portal-04-Self_Esteem_Fund.flac" size="8254052" crc="968439ba" md5="83baba0dc16b4988b4297452962f6efb" sha1="4907f03508e3ed83d18b8ced89c70b0b87629eb5"/>
+		<rom name="Portal-05-Procedural_Jiggle_Bone.flac" size="19084515" crc="2eac36e9" md5="f643b68426a885a65e62fe2a4ebc13ec" sha1="0d1cd0cbb6fcd8bea95374cbd066b33ccb6258b3"/>
+		<rom name="Portal-06-No_Cake_For_You.flac" size="15772884" crc="8a1367ea" md5="799aaf6d15459523fb7c2be645726022" sha1="a54234d9152cee8e8fc1751fe83d4e96c23f2918"/>
+		<rom name="Portal-07-4000_Degrees_Kelvin.flac" size="6992173" crc="5087f359" md5="8a0c2f0c4197a2fb7f3a0f1db6dd2e7c" sha1="a4792d01f06131427af0bf9c0205f4e25ab405f8"/>
+		<rom name="Portal-08-Stop_What_You_Are_Doing.flac" size="16985342" crc="6e8813b9" md5="a8c00f87f73a20252c2f35c1d3b677f5" sha1="70af6a7592e7d87b003565a74ed9f322c0831457"/>
+		<rom name="Portal-09-Party_Escort.flac" size="15815862" crc="2149f5de" md5="35b40cee2eaa5608094c6bc4565c94bf" sha1="c430e686e3fec34b8aa7b4422da3211c52998693"/>
+		<rom name="Portal-10-Your_Not_a_Good_Person.flac" size="7341961" crc="cdbe7589" md5="b700efdfcf3f472dbe6a9e86d9958973" sha1="4d3ebbfd0cd79a3a1232febd67e99cd99d5f63c1"/>
+		<rom name="Portal-11-You_Can't_Escape_You Know.flac" size="39957890" crc="6d726b30" md5="ed86ad19d07ee013c56a30aea0a7a9eb" sha1="de77e31dc409aa3091b64cce519bc08e56df165f"/>
+		<rom name="Portal-12-Still_Alive.flac" size="19840414" crc="ec7575dd" md5="eac01f981d42fd5d50bd7400d4d513c7" sha1="25de004f4e54d35da6b2ca14b1af55d0846a58b9"/>
+		<rom name="Portal-13-Still_Alive_(J.C._Mix).flac" size="20059370" crc="d938b046" md5="1af7d8d5f0afb1e408b77ab074a82902" sha1="472005d6933a2407b310062aef49e0711878a2a2"/>
+	</game>
+	<game name="Scanner Sombre Original Soundtrack (World) (Steam) (MP3)" id="0033" cloneofid="0031">
+		<category>Audio</category>
+		<description>Scanner Sombre Original Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="01 Surface Level Ending As Above So Below.mp3" size="9477633" crc="26b09a46" md5="12b5a18c6fedcc1b76bb7b63fd8f7b62" sha1="3842dac0e1beb2a8d2e7de81d69337c263b1daf3"/>
+		<rom name="02 Temple Level_Know Our Truth.mp3" size="12707379" crc="a4334139" md5="8ef8bf52b5713c2d772198a574169d6e" sha1="5112620a70a37531370a8a7fe7d24e71f604cbe9"/>
+		<rom name="03 River Level The Souls Of The Many.mp3" size="8657396" crc="1e025d1c" md5="cade6f700cb6a64e39664d534f4c834b" sha1="3dd99b7f609844cf4d6d72e78ae0231257d197b2"/>
+		<rom name="04 Lake Pt 4 Don_t Fall In.mp3" size="5990885" crc="a083a0ed" md5="0d183e36794114ecb1453e976d2ba266" sha1="6a3b9ecc87edf916056470f37f821bd8e11609f9"/>
+		<rom name="05 Base Camp Somebody Was Here Before.mp3" size="2920913" crc="e3b21f8b" md5="4071baf74d1037ae261e963f5ba4fb86" sha1="1f6dc6c62a8934dce5d4b1c53be4ada08919cb50"/>
+		<rom name="06 Base Camp Start A Serpant Bites Its Own Tail.mp3" size="3187342" crc="145f536b" md5="c418199b9573be6eabdf703978c40289" sha1="8abcc3938834e075d3e4781476d34a0aae14315c"/>
+		<rom name="07 The Mine Halls Of The Fallen.mp3" size="11063820" crc="539e026e" md5="d48c70e9cd99c66129562b13c5e15b39" sha1="cee4d5b72ec1cf2422359360a41d729d539065f8"/>
+		<rom name="08 Lift Shaft The Ascent.mp3" size="5134006" crc="7f9314e3" md5="5bdcd60d7ea049b75a4a02b396cf004c" sha1="c4819bda35bbc2ecbaddb2b15ae1d7a4b262fbf3"/>
+		<rom name="09 Lake Pt 2 What Darkness Awaits You.mp3" size="6146515" crc="48018e44" md5="c2d0f5341c256ab5ce65af63b98997fd" sha1="8171db92c37cb37e42676814fa739aa4b1b9abc7"/>
+		<rom name="10 Behind the scenes with the composer.mp3" size="26469772" crc="d3d487f8" md5="0e5a77330936289f93fdc2dea9842bf4" sha1="d5d8c321563f134ef9449f20cd3f367190126722"/>
+		<rom name="cover.jpg" size="405158" crc="5c1e34f5" md5="e944553cfd09343c4fa31fb58dcc6489" sha1="ac69ee8f51185df8631629ea6a6ea23433eeaf60"/>
+		<rom name="Sleeve Notes.png" size="1057813" crc="c2c0b05d" md5="6775f929a67f11ccab0085d447d05262" sha1="ff21b8dbe32f8add791304e29ebea98df1a6c234"/>
+		<rom name="Sleeve Notes.txt" size="1762" crc="f1c84748" md5="54faf7f33dce49b2d17e9c3861eb67b8" sha1="a3dbfacc9b7257ea235e69d35aa23cc406c59a84"/>
+	</game>
+	<game name="Scanner Sombre Original Soundtrack (World) (Steam) (WAV)" id="0032" cloneofid="0031">
+		<category>Audio</category>
+		<description>Scanner Sombre Original Soundtrack (World) (Steam) (WAV)</description>
+		<rom name="01 Surface Level Ending As Above So Below.wav" size="40396448" crc="9828beb4" md5="4151f012af8014b46acbd7163860631a" sha1="e8039cc7eb256cad6a2b8e4836c21ae23ef9bc8c"/>
+		<rom name="02 Temple Level Know Our Truth.wav" size="54639444" crc="e2d7d345" md5="e5cdfc77970bc2da95bdced1d2bc6bfc" sha1="8f9041716e36f2a46689207835b56500447ff8ce"/>
+		<rom name="03 River Level The Souls Of The Many.wav" size="36780382" crc="bae1ed97" md5="bafd2a5c1ed47c9f7332a32dfcdb2031" sha1="0c51a39731dff2665892f8a22037e2ed57b6526a"/>
+		<rom name="04 Lake Pt 4 Don_t Fall In.wav" size="25021458" crc="903af08f" md5="1834d1342ef3e7fd917505df8dce5da5" sha1="7c75ff31d5e80a8a3a871858899f1682e92b3ed8"/>
+		<rom name="05 Base Camp Somebody Was Here Before.wav" size="11482888" crc="ded50852" md5="ff0deb9c2319e86ceed28b6689b5f5d8" sha1="59c8f8e8fba56a669b93d47c2f3e5d7b6db3951e"/>
+		<rom name="06 Base Camp Start A Serpant Bites Its Own Tail.wav" size="12652672" crc="2839719d" md5="2a932463ee832cf7fd7b98e3876bcdce" sha1="db4f526ddb3ae3c679762d899300b5cebf7d3912"/>
+		<rom name="07 The Mine Halls of the fallen.wav" size="47390992" crc="efa78ccf" md5="3b4f2f2da7888f8b90a567b658064585" sha1="829434a2e8431518a67198a85d4c8d0fddd6998e"/>
+		<rom name="08 Lift Shaft_The Ascent.wav" size="21238674" crc="b11a58c4" md5="be39d0e7c4dbe16bbb1a88d926b8e204" sha1="f514d0fd3b430eae03c5e6b80139e64bcf83df5c"/>
+		<rom name="09 Lake Pt 2 What darkness awaits you.wav" size="25705830" crc="f78274d3" md5="8552334a64d085b64f1a82b2c69185a2" sha1="1ad393840666f4b91e08e022d8654afc6ad8638e"/>
+		<rom name="10 Behind the scenes with the composer.wav" size="115331384" crc="6adfd433" md5="a9560affe1f08a6dcebf8ef4569ae1dc" sha1="e79c0663b457064c7426d78a8af10a135c988e6a"/>
+		<rom name="cover.jpg" size="405158" crc="5c1e34f5" md5="e944553cfd09343c4fa31fb58dcc6489" sha1="ac69ee8f51185df8631629ea6a6ea23433eeaf60"/>
+		<rom name="Sleeve Notes.png" size="1057813" crc="c2c0b05d" md5="6775f929a67f11ccab0085d447d05262" sha1="ff21b8dbe32f8add791304e29ebea98df1a6c234"/>
+		<rom name="Sleeve Notes.txt" size="1762" crc="f1c84748" md5="54faf7f33dce49b2d17e9c3861eb67b8" sha1="a3dbfacc9b7257ea235e69d35aa23cc406c59a84"/>
+	</game>
+	<game name="Scanner Sombre Original Soundtrack (World) (Steam) (FLAC)" id="0031">
+		<category>Audio</category>
+		<description>Scanner Sombre Original Soundtrack (World) (Steam) (FLAC)</description>
+		<rom name="01 Surface Level Ending As Above Ao Below.flac" size="21959926" crc="4d0734c5" md5="00b1152023d71815f36dce4d625e0c49" sha1="35c8a8454f702844b639ed483ce8385ee5921090"/>
+		<rom name="02 Temple Level Know Our Truth.flac" size="19815760" crc="b375aeb2" md5="9151cd18b4d92527afd84e9d10ffea51" sha1="fe681310b20cf2a93f7e682c0fe51c5a9301bcb9"/>
+		<rom name="03 River Level The Souls Of The Many.flac" size="16455346" crc="4628ed7a" md5="dd5b1775feb2c2b1d79ac08e47dbc766" sha1="c6a4a487ff811067e6f7eea15288abc8f7a635d2"/>
+		<rom name="04 Lake Pt 4 Don_t Fall In.flac" size="6753137" crc="20f0bf44" md5="b1e66e60795c6a135c8664918d30711b" sha1="631715d4db4a47e165ef3f60151863eea95dcdc1"/>
+		<rom name="05 Base Camp_Somebody Was Here Before.flac" size="4754616" crc="1bf1efec" md5="3ab03c5ae506dd6c7e8df7c88a2858fa" sha1="22a944ea5064fb5160fe81f2c9e22ff1ccb905ef"/>
+		<rom name="06 Base Camp Start A Serpant Bites Its Own Tail.flac" size="4141916" crc="e1b972fc" md5="f7766b9941c181a10e423f5ff02f4c20" sha1="70c6fcc04c5d55e94b5481ccb1eabec8e0c5e579"/>
+		<rom name="07 The Mine_Halls Of The Fallen.flac" size="14859032" crc="52d104ea" md5="7162b69e40e39be704b82e2ea375c30c" sha1="2cba283d39d1c3ad92bffa06e96e7aece00bb660"/>
+		<rom name="08 Lift Shaft The Ascent.flac" size="10875323" crc="592ac9a7" md5="0031ccab86fe0acc09d16c58f6902a6c" sha1="b10a8f365185004d5aa466d82e0b82efc7c9e476"/>
+		<rom name="09 Lake Pt 2 What Darkness Awaits You.flac" size="7043784" crc="c99e2d3e" md5="3e06b6811ae2509629e241ec5438df63" sha1="0a1b6ed1043c0f3fc177035025199448ca4f2baf"/>
+		<rom name="10 Behind the scenes with the composer.flac" size="55618439" crc="2c00c238" md5="d0546b808f7334a105de6ab171fecc90" sha1="3bedf73573fc2037238a1a454860a6b4a32cac98"/>
+		<rom name="cover.jpg" size="405158" crc="5c1e34f5" md5="e944553cfd09343c4fa31fb58dcc6489" sha1="ac69ee8f51185df8631629ea6a6ea23433eeaf60"/>
+		<rom name="Sleeve Notes.png" size="1057813" crc="c2c0b05d" md5="6775f929a67f11ccab0085d447d05262" sha1="ff21b8dbe32f8add791304e29ebea98df1a6c234"/>
+		<rom name="Sleeve Notes.txt" size="1762" crc="f1c84748" md5="54faf7f33dce49b2d17e9c3861eb67b8" sha1="a3dbfacc9b7257ea235e69d35aa23cc406c59a84"/>
+	</game>
+	<game name="Shoppe Keep - Original Soundtrack (World) (Steam) (MP3)" id="0034">
+		<category>Audio</category>
+		<description>Shoppe Keep - Original Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="1.1 A Big Bright Marketful Day.mp3" size="8112392" crc="776d78f2" md5="10e2ad9f00dc3b4c22a2065d80b6e85f" sha1="e5cdde8c1fb0f75e2fdc8b11c7f9b3a46a3c4f23"/>
+		<rom name="1.10 Time is a Virtue.mp3" size="5858396" crc="e5f680bb" md5="be346fcad709c0e79544df30213ad1e7" sha1="3dd0892818e30ba85ef3a526281c5ac56bd943f6"/>
+		<rom name="1.11 Wakey Wakey Surgar Cakey.mp3" size="5810372" crc="56c405e6" md5="0b85e0ab904f11d03304806043a191e8" sha1="43d0402fdc4ad2508d624033f24a1a6f3adb932b"/>
+		<rom name="1.12 Boom Box (Shoppe Keep OST).mp3" size="10403868" crc="7ce9c63c" md5="91a179c62aa63aaab70e931c145936d6" sha1="8c519892a7dbe7a5b85dab04ce67c7d804413364"/>
+		<rom name="1.2 After Hours.mp3" size="6659144" crc="0a12705b" md5="bcafa0e2755aa33bd8632110ae5c38c4" sha1="8235dd551294e0abc81797d29c617a0834e1400b"/>
+		<rom name="1.3 Battle Over the Barbarians.mp3" size="4197392" crc="ed3873f5" md5="baec5301c3df428caff68da114064302" sha1="254b719fbaf7b551455ec16a3fa271d0f2dae24d"/>
+		<rom name="1.4 Bring Your Items and Your Brooms! (Main Title Theme).mp3" size="5582908" crc="57245b27" md5="1445ed85dfb29b86574b90875561ecb1" sha1="268be26063d9d5f586c6f205f95f8c594f0d5d8b"/>
+		<rom name="1.5 Busy Midday Shopping.mp3" size="5275844" crc="e4739aef" md5="ebc601edf79a88df13969bccbf146558" sha1="204cd54b8535a37f3a31580bdcae9e25468ae3aa"/>
+		<rom name="1.6 Comfort Selling.mp3" size="7554896" crc="fb1c5640" md5="9df6068b874874fbba1fe487d037d4e3" sha1="38686f2c86ed94d4448109668421566c791e76a9"/>
+		<rom name="1.7 One Goal One Pride.mp3" size="5475248" crc="f41d92eb" md5="6d9eb13a077ee6eedca99443cde98f89" sha1="0ea279a68761aebab8fb9e18d6c3472cad724e98"/>
+		<rom name="1.8 Rise and Shine.mp3" size="14162372" crc="1fdb1f38" md5="47c63b97179b69b9a5066c3ffb83b0ae" sha1="1d1ececc7c8394199eb17df54cf2a18fdfbca5cb"/>
+		<rom name="1.9 The Journey to Success.mp3" size="5778008" crc="053336d0" md5="bea12263bbc2680a735408b4596c606d" sha1="021c757f63a350f623cbd297fb53d9e83921051e"/>
+		<rom name="2.1 Bells Toy Candy Canes and Noise (Shoppe Keep OST).mp3" size="18036136" crc="5e9cfab8" md5="6ddee82091f534229636b2a701ed4a68" sha1="e343f55df8b7cedb6d52e6fd144c80ab6e3cb0fb"/>
+		<rom name="2.10 Wizardy Winter (Shoppe Keep OST).mp3" size="14745448" crc="f6376686" md5="7158d61934b43ddd574dc83bba127b4f" sha1="61367f002eda1cae448123a6ff9a4130aa44953f"/>
+		<rom name="2.2 Carol Of The Bells (Shoppe Keep OST).mp3" size="14721436" crc="e7a358d1" md5="ce6cd08151f0a2dc9fc12979e875b7dc" sha1="013e221b6d2dd4962e8cfe37d90352b328d93493"/>
+		<rom name="2.3 Deck The Halls (Shoppe Keep OST).mp3" size="14681764" crc="eeb60c3e" md5="4e3478c4842a41cbd64271658feed695" sha1="621a2c6b6eb0bba968cd88f8392b5f248eec5e59"/>
+		<rom name="2.4 Jingle Bells (Shoppe Keep OST).mp3" size="15230908" crc="42280567" md5="b46733b405e766752c63f3c1ed4519a2" sha1="7bb949bd1b440dbb27373d164d7a0f033b92f770"/>
+		<rom name="2.5 Joy To The World (Shoppe Keep OST)01.mp3" size="15296680" crc="b4fa7a3d" md5="4a7554176d833a35cfaa991fb9afb837" sha1="710cc058832d149f5461f1c09b3dc99efc751c7f"/>
+		<rom name="2.6 O Holy Night (Shoppe Keep OST).mp3" size="14822704" crc="5b677b52" md5="0f049297bfd82fdddab93c2265cf1930" sha1="b9b9106b3ab69b7a5189b732644d07e46abe6d7d"/>
+		<rom name="2.7 Stars O The Mighty (Shoppe Keep OST).mp3" size="15144256" crc="b6645077" md5="774c73197f67c680e09e0429432e49c1" sha1="e6e354937f4e5e65297bbd658a86151b537b2545"/>
+		<rom name="2.8 Tis The Season of The Gold (Shoppe Keep OST).mp3" size="14762152" crc="ccf85205" md5="603371afc7df7e618a91b6f1e4e103c0" sha1="111d12251aa7a4e87d2945c50454f371b7e3c161"/>
+		<rom name="2.9 We Wish You A Merry Christmas (Shoppe Keep OST).mp3" size="14907268" crc="225ae46a" md5="b5b18ba19817a3cd0147a454a1a73cd0" sha1="d6f3424fa4e134f9420a208e0766738e548f59f5"/>
+		<rom name="AlbumArtSmall.jpg" size="10206" crc="51b990b1" md5="a7b7fe41f9b8fbdbe2aaabdd1227be8a" sha1="0ab97a141710cdffd0c8ecbec4ffa8cabfcae960"/>
+		<rom name="Folder.jpg" size="58639" crc="3c2e7de9" md5="dfaca581a54f2a8ebe1ae5825c9de8e8" sha1="19974e4dbe3f2080e3057085d29771335b894af2"/>
+	</game>
+	<game name="Slime Rancher - Original Soundtrack (World) (Fangamer) (WAV)" id="0008" cloneofid="0006">
+		<category>Audio</category>
+		<description>Slime Rancher - Original Soundtrack (World) (Fangamer) (WAV)</description>
+		<rom name="Monomi_Park_-_Slime_Rancher-_Original_Soundtrack_WAV.zip" size="1675394620" crc="f3d161bd" md5="ae172516718e5bf370023ae97cebb041" sha1="c903afc1c01fc517f2572a7291ce4235b39503ce"/>
+	</game>
+	<game name="Slime Rancher - Original Soundtrack (World) (Fangamer) (MP3)" id="0007" cloneofid="0006">
+		<category>Audio</category>
+		<description>Slime Rancher - Original Soundtrack (World) (Fangamer) (MP3)</description>
+		<rom name="Monomi_Park_-_Slime_Rancher-_Original_Soundtrack_MP3.zip" size="222160783" crc="0e78dfe4" md5="cea823dc58716c356c2fd873e1f9e520" sha1="494c985accd0e1e2b29cca96c21bf2730cdf007e"/>
+	</game>
+	<game name="Slime Rancher - Original Soundtrack (World) (Fangamer) (FLAC)" id="0006">
+		<category>Audio</category>
+		<description>Slime Rancher - Original Soundtrack (World) (Fangamer) (FLAC)</description>
+		<rom name="Monomi_Park_-_Slime_Rancher-_Original_Soundtrack_FLAC.zip" size="1153556372" crc="dbd41ef2" md5="2081ce175e00d8c82eff09d587e67c98" sha1="a2897fd80c871aef4bc19c3240dccf69c6e9394e"/>
+	</game>
+	<game name="Slime Rancher - Original Soundtrack II + The Casey Sessions (World) (Fangamer) (WAV)" id="0011" cloneofid="0009">
+		<category>Audio</category>
+		<description>Slime Rancher - Original Soundtrack II + The Casey Sessions (World) (Fangamer) (WAV)</description>
+		<rom name="Monomi_Park_-_Slime_Rancher-_Original_Soundtrack_II_+_The_Casey_Sessions_WAV.zip" size="1144053301" crc="92bd050e" md5="c8344ded02f857aeb2a669edba6bb892" sha1="08af56e686ade52329715b17d774a689bc53c04e"/>
+	</game>
+	<game name="Slime Rancher - Original Soundtrack II + The Casey Sessions (World) (Fangamer) (MP3)" id="0010" cloneofid="0009">
+		<category>Audio</category>
+		<description>Slime Rancher - Original Soundtrack II + The Casey Sessions (World) (Fangamer) (MP3)</description>
+		<rom name="Monomi_Park_-_Slime_Rancher-_Original_Soundtrack_II_+_The_Casey_Sessions_MP3.zip" size="146088770" crc="9d345968" md5="abb7829a8c6f038920621898615e2245" sha1="a893d62c4235f1ea4bf06f96667b1823b36da9c8"/>
+	</game>
+	<game name="Slime Rancher - Original Soundtrack II + The Casey Sessions (World) (Fangamer) (FLAC)" id="0009">
+		<category>Audio</category>
+		<description>Slime Rancher - Original Soundtrack II + The Casey Sessions (World) (Fangamer) (FLAC)</description>
+		<rom name="Monomi_Park_-_Slime_Rancher-_Original_Soundtrack_II_+_The_Casey_Sessions_FLAC.zip" size="758465228" crc="e885ff69" md5="c247df460a802f4a11087150d7f62346" sha1="67f980d7121b2f49dabf5b38de789977fbe362cc"/>
+	</game>
+	<game name="Subnautica Soundtrack (World) (Steam) (MP3)" id="0035">
+		<category>Audio</category>
+		<description>Subnautica Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="01 Salutations.mp3" size="7346681" crc="63c522eb" md5="af613ecda383b738c0d61a22ad048f1a" sha1="7986285f21b2b7323e54d424d591ffaf4a8d9293"/>
+		<rom name="02 Into The Unknown.mp3" size="10094408" crc="9f50bbf5" md5="14af1f0b3130330949fc475ee1b7ccc0" sha1="a51a90a57b7f96377d663ab8838072bd68967acc"/>
+		<rom name="03 Tropical Eden.mp3" size="7057303" crc="e7aa3060" md5="7f2b17bc1aa4f492c4e0baad9ade4499" sha1="175e92da325608275300be8c97aa6cf8f2724b8e"/>
+		<rom name="04 God Rays.mp3" size="6542108" crc="d02aafac" md5="0f7767511361d0932dcccfab09b7c749" sha1="9a478c75c8fe0c8c8c45d6c239dd85b43cadfd7c"/>
+		<rom name="05 In Bloom.mp3" size="8136826" crc="8b8a5811" md5="eccc897ad871c47d67704816b50f704d" sha1="cb702c6ffa4fc9f6fdc830b4e8e74b78848f37f7"/>
+		<rom name="06 Precipice.mp3" size="7768766" crc="eaf4e086" md5="e7dd0af8db62878a74d7275815518d69" sha1="61f2f041ab88326d4c61fe53e800a891b794e144"/>
+		<rom name="07 Sun &amp; Moon.mp3" size="8899406" crc="ce878523" md5="03cdf8b0f10c377e21d5d1c74d8bd7a3" sha1="c87393d3d44640a2058193f43190a120cc55775b"/>
+		<rom name="08 Finding Life.mp3" size="8159564" crc="5eee85dd" md5="9c8d060596ad98b9180de254ab3c854b" sha1="ca3b81d6de7f49a1ccf0565bf0352091ab8c5562"/>
+		<rom name="09 Crush Depth.mp3" size="8628721" crc="6ad47e11" md5="e055c6f988f6cf80198461b4f5740562" sha1="3475e2098b99a85c96adeaac25f4d6d5e1dc12de"/>
+		<rom name="10 What are You.mp3" size="6152428" crc="0c5c574d" md5="2800e3dcbc6bcbfa93815adce0cd0c2d" sha1="818a26c9f4e67c5fbb49a03f3a57e9e36907a2fb"/>
+		<rom name="11 Original Inhabitants.mp3" size="7923434" crc="ae727e43" md5="9ff9c5ea8f658f9f03f803de2c3eef5a" sha1="02ffc57de7d8dbab5ed3fae3ec419ebaec5c9531"/>
+		<rom name="12 A tendancy to Float.mp3" size="6081277" crc="618aadda" md5="0dcff2c5ed8de86ab110b501dd4f26cb" sha1="835b9e7771e1812d61cc7efffc60e76ecebbad12"/>
+		<rom name="13 Abandon Ship.mp3" size="7100745" crc="9256e9ae" md5="f7448ac3ca5bb3965bb0f10020746164" sha1="8897acd5fbe29f18bf4c3addd8ab31af4741f041"/>
+		<rom name="14 Ahead Slow.mp3" size="6925536" crc="b30ebb78" md5="a69a960a8369161310cb08fedc154e23" sha1="fc6c55fbd7fe66bd9aade584309de00c0b675fed"/>
+		<rom name="15 Alien Expanse.mp3" size="6963229" crc="50400215" md5="e333634a99095ea86054904213296a59" sha1="79b2adac22dc3d234e53cedd776de8f90f4f11a9"/>
+		<rom name="16 Alien Passageways.mp3" size="8443787" crc="667cc1c6" md5="9d0e68036da99cb813676a81db045b38" sha1="80bb044f3d77302ebfd00b8b6fb2210bb84db9d1"/>
+		<rom name="17 Alien Spaces.mp3" size="7191989" crc="f3ffbdb7" md5="eb7a9a7f4ab45d30051d24bf26c73225" sha1="d853024f38e62ada5ae39885acbc3f6fc93ed156"/>
+		<rom name="18 Alterra Science.mp3" size="8188828" crc="d313f09b" md5="054ef6c25c7c202d002e04b27615b42d" sha1="74a97bbad71848b67ec504ab965b6d9cac9e8cb2"/>
+		<rom name="19 Amid the Kelp.mp3" size="6498179" crc="b381fafc" md5="7ca3d4da579e7d72faa972eff7ad7eea" sha1="1084c44f7091ef1f5b2ad3d2b59c52d7d95627b9"/>
+		<rom name="20 Ancient Aliens.mp3" size="6835761" crc="c8261ae2" md5="7dea7fff5e464c75a7756faa43b0b42a" sha1="24f9fd95a26009adf1ef742bf81487f0f8bca50d"/>
+		<rom name="21 Arc Lights.mp3" size="6728599" crc="dede6091" md5="8efffb451dfbb51a900809440a3d12e6" sha1="80691b90ed5850058549eb243aa21c6eb7bb7d0e"/>
+		<rom name="22 Blood Crawlers.mp3" size="7093911" crc="bae2c310" md5="e26541f9a48c12127b1ab398d12ec520" sha1="2aa6965f82056bd094648085edbe3e4b251770fa"/>
+		<rom name="23 Blueprint.mp3" size="6713512" crc="19f6f1a5" md5="d45370f37f7cb0358fed1bb493a13ea5" sha1="c66c82a3dad45c034a86417622de0261c9acda46"/>
+		<rom name="24 Bone Fields.mp3" size="8211986" crc="f944032d" md5="1b4b54fd5ac105eaef03d66ecca1d5aa" sha1="4bec0214798d11b14f04aecb7ca80cd1978e1efc"/>
+		<rom name="25 Bring a Medpack.mp3" size="7602744" crc="183ed5f1" md5="21b6ea3f69fe52017d9a0a649801dca2" sha1="594952eabb87eae866593799078c20f36d02e7d9"/>
+		<rom name="26 Buoyancy.mp3" size="5246381" crc="4e219636" md5="f4c18960223f16a70e5c179c718b521c" sha1="20ea2ecba978056fd19b3e5a0fb2172744db7f8d"/>
+		<rom name="27 Caverns.mp3" size="8608861" crc="3e989b6d" md5="cf1ed0d127fa2ddc5a159ff336c8b1fc" sha1="0ff8b2e791931d7a78fcc304d05871ca870501e0"/>
+		<rom name="28 Coral Reef.mp3" size="5701072" crc="39626a3e" md5="28cd2c1fe52a2d67d89e2616e9d928d7" sha1="4e925d0132edee1a7f7760db28d42c3ecbdf5c42"/>
+		<rom name="29 Crash Site.mp3" size="8936036" crc="2fa07677" md5="f4d447b7b11d3e5b048b109c670400f0" sha1="5ee0139c4e96dde0f27af7fe253876c77f25131e"/>
+		<rom name="30 Cuddlefish.mp3" size="5645536" crc="71a57709" md5="bd0d84d74a80e4d6ee392acde7a791e2" sha1="56b5511f2063f8d0ee7afc4d8521ba1f142903a1"/>
+		<rom name="31 Dark Matter Reactor.mp3" size="6563105" crc="76657e7f" md5="72b0a129cf23d2ce07a0f167c1cdb25a" sha1="4d89f81ed16c6fae05a1772ed5f17921ba0845ce"/>
+		<rom name="32 Exosuit.mp3" size="7937052" crc="13118aa2" md5="2b65c39d7361a40e85924f4b254ddf64" sha1="33e15d65fb98a19caf5badb3e4c0fb2080e1ea38"/>
+		<rom name="33 Fear the Reapers.mp3" size="6239210" crc="cd003793" md5="cc236bd36172f7cfe920dc20702c4551" sha1="d3e4dd02ac2eea6481bc17be1a647d378c386c6b"/>
+		<rom name="34 First Immersion.mp3" size="6904742" crc="5b9a3c7d" md5="79ab6d014105d65ff9038cea2e5946ac" sha1="b74e89902389efa6925146b354eb65ede99ccf7b"/>
+		<rom name="35 Ghost Tree.mp3" size="6976173" crc="9bb6f0d6" md5="93f35952788f1ed723bcc1067ca8fb8a" sha1="33b1c307a3c301da7dd352f21540ecf18427b96f"/>
+		<rom name="36 Ghosts.mp3" size="7716516" crc="2d727bad" md5="53f3c2597dc036c89ab9324467a34740" sha1="b4852602966aad45e66a717f48d31c7f804e0280"/>
+		<rom name="37 Habitat.mp3" size="6952782" crc="6914433c" md5="7c5a0f6c9afaf137f385fe2b8a86c2f1" sha1="239cde47b0c3380075a47cca61c30cd272c9d47b"/>
+		<rom name="38 Infected.mp3" size="5790857" crc="0650224b" md5="74dc7b0d87fd0de02ba5c9454a4dd2e7" sha1="74544b3802ceb56ad7cd6181c735fa28c339ecba"/>
+		<rom name="39 Islands Beneath the Sea.mp3" size="9651701" crc="8bdefcac" md5="315d859283de10211efc1f47a61b4faf" sha1="837b43691beb7e54415c9740e773d65cbf65e971"/>
+		<rom name="40 Lava Castle.mp3" size="8220283" crc="f1d89444" md5="677f20e0c9d1c895338cb51300d408e1" sha1="8ea02ab4ff7a55cd8f88531c00f922f1451073cb"/>
+		<rom name="41 Leviathan.mp3" size="5626766" crc="c4b20b1b" md5="a87825702eac02201cede0626f07e578" sha1="8088d11ec86898ead6e3f83da5293e040ab0f649"/>
+		<rom name="42 Cycle of Life.mp3" size="6087592" crc="1be167d4" md5="ff0b7ae18c1ba03329035086ba40be4f" sha1="503ffaf15de5bd10548b1b1563a3120ae08aa9a6"/>
+		<rom name="43 Lost River.mp3" size="6231724" crc="711ab520" md5="51398c8463c78a9c554c0732b291726e" sha1="551f1204580e5d6a4a960ec287f28f6cb924620e"/>
+		<rom name="44 Maneuvers.mp3" size="9311036" crc="e9853852" md5="9c57f66b46aabe059a9f7fbc73eae76d" sha1="14409ca5dd6329a264661a51203c0c0c4ce29cc1"/>
+		<rom name="45 Mushroom Forest.mp3" size="8339293" crc="f6d6dbd1" md5="af975f33ee46565eb5ab9ccd06f35657" sha1="a0f9722779c63afa37c524ecec7787ee9ae1e282"/>
+		<rom name="46 Observatory Zen.mp3" size="6244469" crc="c517eee2" md5="7e4605ae0b1749deb87b66e0e017bbf7" sha1="e1900b73613e58145fd1732198ca26a28c790e6c"/>
+		<rom name="47 Red Alert.mp3" size="5735728" crc="caf3cb71" md5="91314a0997e46b39531772a1c9e8ca90" sha1="6aba870c37aba456412c21172698590ad2ed3496"/>
+		<rom name="48 Rock It!.mp3" size="5626293" crc="496b0102" md5="0417e63826cc231248dbf4207061ac39" sha1="5321f0fa1c3ae02be11432b7b23b8958461b9003"/>
+		<rom name="49 Safe in Kelp forest.mp3" size="6590142" crc="7acbef37" md5="b806187f18b873bafb21b2479e451c4a" sha1="931cfd31d33627c0f1a3991445513ac6f55f6b84"/>
+		<rom name="50 Seamoth.mp3" size="6398729" crc="fd84996e" md5="914df43ed3846d19dab9f01f9410ee99" sha1="d6a5a79e672687ee1087bc1e0e9013772783a01f"/>
+		<rom name="51 Shadow of the Reefback.mp3" size="7923438" crc="dde889f1" md5="529bcb12311cf1e20494986ef6c80725" sha1="4c54396d402575b030abc3d3a064ba5dacb868ed"/>
+		<rom name="52 Shallows.mp3" size="7351851" crc="b733ea08" md5="fff3b3c5bb18d8fbfd67abf4eeaf1377" sha1="2e4022af4e6922eb146241b0b36c424e57f470df"/>
+		<rom name="53 Sunbeam.mp3" size="6071849" crc="03be618d" md5="ef539273e24b5ab913f11f6196ad3111" sha1="ff354c6cf252deed1d12186d439e0505a97272a3"/>
+		<rom name="54 Unknown Flora.mp3" size="9480318" crc="5b54ffdd" md5="d1bb57793a2f2a2398d551a653828cc0" sha1="3148245a7969990f4a2573c65cce51850043ead7"/>
+		<rom name="55 Violet Beau.mp3" size="6113125" crc="49eed76c" md5="ebcc15c9eeeab15df0d5f55286561471" sha1="592242f459cfb848ef9aa71252398155b2ecfbfd"/>
+		<rom name="56 Lift Off.mp3" size="7512817" crc="026860ab" md5="f0d271ed2ef6e86d83ac33a7e6da8f58" sha1="a25d88eccc813a515c49a4c3bf15be9daa887a0a"/>
+	</game>
+	<game name="ToeJam &amp; Earl - Back in the Groove! Soundtrack (World) (Steam) (MP3)" id="0036">
+		<category>Audio</category>
+		<description>ToeJam &amp; Earl - Back in the Groove! Soundtrack (World) (Steam) (MP3)</description>
+		<rom name="cover.jpg" size="1444608" crc="8b1b17b4" md5="458a71a6858c7bc86f466bd16842e5e6" sha1="a0ae6b209ce805dbc91eb374f06f55016a1f7650"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 01 Theme Refunkified.mp3" size="4254544" crc="2b86a764" md5="58463dd6812f30226691c533cd3a4bab" sha1="8674fb9976f2894c8ef91b9403a0829f00f3c457"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 02 Peabo's Party Jam.mp3" size="4535952" crc="45bab074" md5="cfe6118d31673a28d5eb7660c1bb29a5" sha1="2b410fb40cc4114ce0edb022001ab8ee402294dc"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 03 Rapmaster Rocket.mp3" size="3461291" crc="ef73f4d4" md5="ee27fbc9b31510a1de04eb7e7a761574" sha1="1d62e36c7e8f8b61c52a575c69a13ac5b1a49789"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 04 Rocket Rap.mp3" size="4009021" crc="7d0713e8" md5="65e4b04099cfacc1465db69346704baf" sha1="4a30452121195efdce77312ea8f86d8be078e287"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 05 Alien Breakdown.mp3" size="3309019" crc="3f52e546" md5="e996658731ec6f18dff4358d54f1700c" sha1="b161fb771ef47d8f2052aa27f2b8f6b0bc504c7c"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 06 Aqua Jam.mp3" size="2995864" crc="6c88025d" md5="1b4a62a0a85194e10d4444bbcf518c30" sha1="bf012e04727f49242c996bdf0a767c54ab421e68"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 07 Big Earl Bump.mp3" size="4571627" crc="aabb69f5" md5="fea8d8ef7cabbfb6cade2fdbf04531f4" sha1="4c0fd3b7907df290703f7c0b49c216e20a5bc850"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 08 Funk Funk Funk E.mp3" size="5078841" crc="02098157" md5="576ca8eb7ba7683ab9987bf8975ba73d" sha1="047dd94510cd2e56a70a11e129d22a2f77bc32ec"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 09 Lewanda's Love.mp3" size="5335920" crc="acd26177" md5="db14332076da2416903cdd6d898f2aa1" sha1="2aa86efb9733ae425e440f380958be0520628d01"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 10 Mellow Groove.mp3" size="4048559" crc="24aa4072" md5="9784927ea7a1e0196a2edecf30e8ba4d" sha1="e62c50e980f8bf38583c3920aac4e4b835cdac8f"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 11 Ode to Sharla.mp3" size="4345397" crc="e2231ea6" md5="00ea2d2c5b82e14b524d444494ac237b" sha1="ff814ea07310ad8a68f48184caa5d0bd1a5267c9"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 12 Old School Otis.mp3" size="4875785" crc="c37e9f84" md5="edb4a1f79979085ecd50ed7b5bd86373" sha1="42548c7a0371fcabc9b2b21d07332200c04c6ba1"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 13 Groove Ship.mp3" size="4782042" crc="592edf6e" md5="8f3ada4e8a8d230922ae13be23fb4a57" sha1="b000291224de5d38b03b93f30eccc226ecaec078"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 14 Back in the Groove.mp3" size="4453403" crc="79653e0e" md5="3ce1942d10fe08533c4bf25b10b81462" sha1="9a0441bae1e7afa8ffdf220f25f6411de317dd3a"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 15 Bloona's Dance.mp3" size="2579805" crc="e587ef8a" md5="5a1388577b5b136eae4fcde99cabfd9f" sha1="5e0e4290717be488f85b07fa3feb1d851cdc94bf"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 16 Dark Level Funk.mp3" size="3815912" crc="ce58ee3d" md5="2a98fbc4cabe1d385d19cdcdc20b6a70" sha1="edb9de629354be4c5f8c67da365d2f1af70707bc"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 17 Big E On Da Bass.mp3" size="4282357" crc="9255c9ea" md5="b1d449da67274c6580b5d2a93db67269" sha1="c29c4f9d0a62ce04c8db2320fdebc5c6e4f8d472"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 18 Flarney's Funkomatic.mp3" size="3875223" crc="b6ff498b" md5="24f6062971726cf830f947c38d3cb838" sha1="151ccda65ee7006e3443ccb29df551617067459f"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 19 HyperFunk Zone.mp3" size="4972056" crc="2f2fb317" md5="d23d82ae43fe310d309c0c6b5b07b829" sha1="cd4cea4ca8de95c771154e44162cdbb5b4b1789d"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 20 Lamont's Funky Brain.mp3" size="3555737" crc="a2ddc13b" md5="beee542af32331ab77318e83b792f098" sha1="9ee4603345d07f4fcb745605cca0409f6e689efc"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 21 Rapmaster Rhythm.mp3" size="4586346" crc="a2761229" md5="8a5bce56018f14654fb7718d34ae5eeb" sha1="494061d84c696513dcdd143780baa66933a22d71"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 22 This Crazy Planet.mp3" size="2569060" crc="ef78fa2a" md5="2f1cb759abce21e2f78ab6b4878ca0df" sha1="08a24ded5271bcc0ea86206841b5552d3319cf5a"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 23 The Bass Master.mp3" size="5624151" crc="c7b9d2cf" md5="6e57192ff6b85fa346c35e73a3b34e63" sha1="9704c973618acfddba7b9c5032062d9eb9906ace"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 24 Funkopotamus FreeJam.mp3" size="4384092" crc="43352569" md5="3cd9965a8b360df20d88bff7eb83c386" sha1="986b897e64fac0263d2b7fc713554d8f51e3daff"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 25 Aqua Jam Unchained.mp3" size="5171361" crc="b98a2fe4" md5="bf4641bc6ce00da88bc0052ebc18b810" sha1="348609f6876483fa80997a89495acd60d6892e9b"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 26 Funk Down Under.mp3" size="4345375" crc="251266fd" md5="3b715972260af4125609b3f1e0301355" sha1="cb386582d1fd1c932d906b3b0ef60465cc4adce2"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 27 Funktastic Planet.mp3" size="4608861" crc="7eb5f84b" md5="7c792474ae4d071f940a24a8dd872218" sha1="4553ee0b68e0e744a42c8f683ea46e984d7c71cc"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 28 Slow Groovin.mp3" size="3802086" crc="40f5376c" md5="c44b2a6acf6381570fcf7c0469090fe5" sha1="18790ac1a98f939c81b13c0177a02eaa02fd32b4"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 29 Boomin Bump.mp3" size="3106553" crc="ed45308a" md5="0d2a8dcab909c343417bbabad694e999" sha1="d431056451a6a35fa8917572960400acc212d604"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 30 Groovin Like a Pulsar.mp3" size="4109934" crc="1e51fa53" md5="99306e8246de867338e6450f60516381" sha1="205023edf81f5aec22c59e64822d5836591786b5"/>
+		<rom name="Greg Johnson - ToeJam &amp; Earl - Back in the Groove! Soundtrack - 31 Back in the Groove (With Vocals).mp3" size="7430371" crc="3f15fd5a" md5="4f16cafff286da585be6149f384c2f46" sha1="5b8786297dea4d57766fadbb397dd634a5666666"/>
+	</game>
+	<game name="Tower Tag Soundtrack (World) (Humble Bundle) (MP3)" id="0038" cloneofid="0037">
+		<category>Audio</category>
+		<description>Tower Tag Soundtrack (World) (Humble Bundle) (MP3)</description>
+		<rom name="towertag_soundtrack-mp3.zip" size="44796612" crc="8d0fef8c" md5="6c3f3332a1b21d1feb0f0639cd86765c" sha1="3824f873861e76d58e7817c114d72283d0642334"/>
+	</game>
+	<game name="Tower Tag Soundtrack (World) (Humble Bundle) (FLAC)" id="0037">
+		<category>Audio</category>
+		<description>Tower Tag Soundtrack (World) (Humble Bundle) (FLAC)</description>
+		<rom name="towertag_soundtrack-flac.zip" size="313667935" crc="c564f744" md5="19c527e30e360849b91ee42459d124ac" sha1="0afa787a72a12b16ddd51e9da987632524560144"/>
+	</game>
+	<game name="World of Goo - Soundtrack (World) (FLAC)" id="0046">
+		<category>Audio</category>
+		<description>World of Goo - Soundtrack (World) (FLAC)</description>
+		<rom name="World Of Goo Soundtrack (flac).zip" size="290865352" crc="ce66e9d4" md5="892841a5c4193f60b6d79ae80e16308e" sha1="81e0786e68cc46ae145b554a88d7b2e2c264a6e8"/>
+	</game>
+	<game name="World of Goo - Soundtrack (World) (MP3)" id="0047" cloneofid="0046">
+		<category>Audio</category>
+		<description>World of Goo - Soundtrack (World) (MP3)</description>
+		<rom name="World Of Goo Soundtrack (mp3).zip" size="90902852" crc="c1b1b077" md5="46be6edebfa84e104d3e94ce02d75c21" sha1="33782ec7f2d55abd7bbce197b59daff290f4357f"/>
+	</game>
+</datafile>

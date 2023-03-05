@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo DS - Manuals - Technical</name>
+		<description>Nintendo DS - Manuals - Technical (TOSEC-v2011-03-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-03-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="An Introduction to Nitro Graphics v2.3.0 (2004-09-27)(Nintendo)">
+		<description>An Introduction to Nitro Graphics v2.3.0 (2004-09-27)(Nintendo)</description>
+		<rom name="An Introduction to Nitro Graphics v2.3.0 (2004-09-27)(Nintendo).pdf" size="2904926" crc="7bc4528b" md5="4ac94cca83fbd5f7e975d31ccec49052" sha1="89de6c4ba9bdfa82640dc990ca8fb7ad7420a94e"/>
+	</game>
+	<game name="Nintendo Nitro-Systems - Overview of Tools and Libraries v0.2.5 (2004-09-07)(Nintendo)">
+		<description>Nintendo Nitro-Systems - Overview of Tools and Libraries v0.2.5 (2004-09-07)(Nintendo)</description>
+		<rom name="Nintendo Nitro-Systems - Overview of Tools and Libraries v0.2.5 (2004-09-07)(Nintendo).pdf" size="384071" crc="ff151b6a" md5="93b08c6432ef97e84de8b4f094ccfab6" sha1="6a0d8a32e5a89c4ce2e23ffd5351105de8668c6c"/>
+	</game>
+	<game name="Nitro Programming Manual v1.22 (2004-11-19)(Nintendo)">
+		<description>Nitro Programming Manual v1.22 (2004-11-19)(Nintendo)</description>
+		<rom name="Nitro Programming Manual v1.22 (2004-11-19)(Nintendo).pdf" size="8020365" crc="47f459d8" md5="b6e9f4e234000ace52a75de24c442e3d" sha1="3d51af759246ce20b3d0017e0016edd0d2be2b95"/>
+	</game>
+</datafile>

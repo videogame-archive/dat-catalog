@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C16, C116 &amp; Plus-4 - Video</name>
+		<description>Commodore C16, C116 &amp; Plus-4 - Video (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>	
+	<game name="Plus 4 Training Video (1985)(Urban General)">
+		<description>Plus 4 Training Video (1985)(Urban General)</description>
+		<rom name="Plus 4 Training Video (1985)(Urban General).mp4" size="63131866" crc="84e85810" md5="55a597488a83d245062c941b11f18c9f" sha1="34b7000d83c9f0043ae29e23d4186effff1995c1"/>
+	</game>
+</datafile>

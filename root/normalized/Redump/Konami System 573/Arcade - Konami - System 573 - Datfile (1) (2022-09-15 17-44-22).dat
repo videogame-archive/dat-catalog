@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Konami - System 573</name>
+		<description>Arcade - Konami - System 573 - Discs (1) (2022-09-15 17-44-22)</description>
+		<version>2022-09-15 17-44-22</version>
+		<date>2022-09-15 17-44-22</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan)">
+		<category>Games</category>
+		<description>Jikkyou Powerful Pro Yakyuu EX '98 (Japan)</description>
+		<rom name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan).cue" size="254" crc="da4b4de1" md5="6e69570aa39400cc46ae10d049012209" sha1="ea18841b15ba731b0f78bbb3af05f0046d890254"/>
+		<rom name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan) (Track 1).bin" size="27080928" crc="1fc69243" md5="4e72e7f949ed7cf6ad69d754c49f7f09" sha1="0c8ba00a3587ff94465ac20cfa9cc08496a60f3d"/>
+		<rom name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan) (Track 2).bin" size="3264576" crc="6e8782b6" md5="99c1823201a583c82051a2cebb66f488" sha1="70c8b13eb2784ea0989f9565f8001df881d2cd16"/>
+	</game>
+</datafile>

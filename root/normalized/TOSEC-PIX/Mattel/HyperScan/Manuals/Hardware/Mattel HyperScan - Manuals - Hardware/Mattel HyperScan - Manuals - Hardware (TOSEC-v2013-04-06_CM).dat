@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel HyperScan - Manuals - Hardware</name>
+		<description>Mattel HyperScan - Manuals - Hardware (TOSEC-v2013-04-06)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-04-06</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="HyperScan Console Instructions (2006)(Mattel)(US)">
+		<description>HyperScan Console Instructions (2006)(Mattel)(US)</description>
+		<rom name="HyperScan Console Instructions (2006)(Mattel)(US).pdf" size="370403" crc="bf0b89b5" md5="3fb3c95c1ba0ea21bc1b0e77471cc0e5" sha1="3fc7e4e7d3fe205eeffea68827cd177bae5c5341"/>
+	</game>
+	<game name="HyperScan Controller Instructions (2006)(Mattel)(US)">
+		<description>HyperScan Controller Instructions (2006)(Mattel)(US)</description>
+		<rom name="HyperScan Controller Instructions (2006)(Mattel)(US).pdf" size="176027" crc="a2fc486c" md5="ffcc4b08b42f14a99696e787194641d7" sha1="2bf986b5eb6e71aa980da4aa8d05483e7982a794"/>
+	</game>
+</datafile>

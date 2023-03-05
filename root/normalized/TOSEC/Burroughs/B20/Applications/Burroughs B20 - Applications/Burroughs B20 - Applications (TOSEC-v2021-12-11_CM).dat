@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Burroughs B20 - Applications</name>
+		<description>Burroughs B20 - Applications (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="B20FED Text Editor (19xx)(-)">
+		<description>B20FED Text Editor (19xx)(-)</description>
+		<rom name="B20FED Text Editor (19xx)(-).imd" size="525619" crc="b3bcb014" md5="3cf96eba8597bc9111c924f9c927a850" sha1="934af6e671604c1e182c1b6637eb758e09039986"/>
+	</game>
+	<game name="Burroughs B 20 Multiplan (19xx)(-)">
+		<description>Burroughs B 20 Multiplan (19xx)(-)</description>
+		<rom name="Burroughs B 20 Multiplan (19xx)(-).imd" size="543504" crc="cacebe7f" md5="f04155a9d6fc775d129756efe349a15b" sha1="230afc5994c99291693db50beda4ef5921fee9f8"/>
+	</game>
+	<game name="Burroughs B 20 Word Processing (19xx)(-)">
+		<description>Burroughs B 20 Word Processing (19xx)(-)</description>
+		<rom name="Burroughs B 20 Word Processing (19xx)(-).imd" size="472475" crc="8dec81bc" md5="4ce3a2250d09a5fe4f0df022087fafa5" sha1="a52ec5de38fb9afe5309c4b8e1a50f77bc64c42f"/>
+	</game>
+</datafile>

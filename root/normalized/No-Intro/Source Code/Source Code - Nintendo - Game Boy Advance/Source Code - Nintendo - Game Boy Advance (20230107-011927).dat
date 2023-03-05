@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>186</id>
+		<name>Source Code - Nintendo - Game Boy Advance</name>
+		<description>Source Code - Nintendo - Game Boy Advance</description>
+		<version>20230107-011927</version>
+		<author>Hiccup, SonGoku, togemet2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fire Emblem - Rekka no Ken - Internal Sound Data (Japan) (En,Ja)" id="0001">
+		<description>Fire Emblem - Rekka no Ken - Internal Sound Data (Japan) (En,Ja)</description>
+		<rom name="fe7snd.7z" size="116132709" crc="b16d2162" md5="83785490fd439d90d963a61076a4309b" sha1="32991c45807ae90a8ca9029fb3c3194a5d050519" sha256="feb70d120583fe2bc80edc5fd599ec9ec932f70c868789a6809fbc6fec4a696c"/>
+	</game>
+	<game name="International Karate Advanced (Unknown) (Graphics)" id="0003">
+		<description>International Karate Advanced (Unknown) (Graphics)</description>
+		<rom name="IK.zip" size="18819155" crc="4de0d841" md5="67a80056837139b723a2f31e50f36d48" sha1="bba20defac6f7132306114a795c164e8be79fb46" sha256="c6dfbd967dce115aba2f4731c88304dca0e0f3322e7e9385ef765219bd08b3d1"/>
+	</game>
+	<game name="Manic Miner (Unknown)" id="0002">
+		<description>Manic Miner (Unknown)</description>
+		<rom name="Manic_Miner_GBA_Source_and_build.zip" size="61980905" crc="04e62e9c" md5="f2c71f7e1b8e4272e64158893e2eed1b" sha1="e29fb830968a1bffbc5af967749ccc17b907d71a" sha256="db5791da1aa012b0ed1ecd2e583814166d5bb3b308156791a0574edc166a1002" status="verified"/>
+	</game>
+	<game name="Mythri (USA) (Proto) (Non-Source Code Assets)" id="0004">
+		<description>Mythri (USA) (Proto) (Non-Source Code Assets)</description>
+		<rom name="Mythri.zip" size="22424931" crc="c8348ba3" md5="c3dfc370cca54d769e6da160f8d912b6" sha1="d96b0ef91755195e36e1f87b497b2fd70b7fc75e" sha256="07a2fa559936d2760186247c0916c6bdff887fa484a6ca45293772efdaaa6a5a"/>
+	</game>
+</datafile>

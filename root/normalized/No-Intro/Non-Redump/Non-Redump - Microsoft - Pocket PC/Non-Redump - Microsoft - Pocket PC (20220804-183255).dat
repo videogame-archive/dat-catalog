@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>294</id>
+		<name>Non-Redump - Microsoft - Pocket PC</name>
+		<description>Non-Redump - Microsoft - Pocket PC</description>
+		<version>20220804-183255</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Pocket PC Magazine - Best of Everything! (USA)" id="0001">
+		<description>Pocket PC Magazine - Best of Everything! (USA)</description>
+		<rom name="Pocket PC Magazine - Best of Everything! (USA).bin" size="830952192" crc="4824c445" md5="12a97677a63c6667ba70745503f58524" sha1="4cfa2914a86f290a2e854b2ba3cfdba47d8d0f43"/>
+		<rom name="Pocket PC Magazine - Best of Everything! (USA).cue" size="112" crc="fb9a6f34" md5="5214e9ab810c65ab1873946439750b53" sha1="3eda45d69c3fecf124cb9423557031032f12fe9c"/>
+	</game>
+</datafile>

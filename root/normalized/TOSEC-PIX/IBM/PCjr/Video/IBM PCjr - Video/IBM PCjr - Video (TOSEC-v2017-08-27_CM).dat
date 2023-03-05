@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Video</name>
+		<description>IBM PCjr - Video (TOSEC-v2017-08-27)</description>
+		<category>TOSEC-PIX</category>
+		<version>2017-08-27</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="IBM PCjr Sales Training (1983)(IBM)">
+		<description>IBM PCjr Sales Training (1983)(IBM)</description>
+		<rom name="IBM PCjr Sales Training (1983)(IBM).mp4" size="36505975" crc="1a582f9d" sha1="c641441a7bea10f59c39d87d639c6580b670023f" md5="f91dc98a3a0c2d41f3a4c36401e4e333"/>
+	</game>
+</datafile>
+

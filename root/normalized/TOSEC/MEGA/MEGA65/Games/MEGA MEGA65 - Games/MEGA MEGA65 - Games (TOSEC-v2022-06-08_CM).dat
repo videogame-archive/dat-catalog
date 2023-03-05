@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MEGA MEGA65 - Games</name>
+		<description>MEGA MEGA65 - Games (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)">
+		<description>Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)</description>
+		<rom name="Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan).d81" size="819200" crc="002a1a37" md5="bee29fc7618085b90e3eb4f73d874e03" sha1="a14ce342b28a325dedb98f4f8e0e0ba2458644be"/>
+	</game>
+	<game name="Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)">
+		<description>Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)</description>
+		<rom name="Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft).d81" size="819200" crc="3b5e9baf" md5="cea5133214dadc1f4ff11cf1ece0595d" sha1="12f72d09f1cc49a406ca1b861adbda1ccf0630ff"/>
+	</game>
+	<game name="Toxic Frenzy (2021-05-17)(Blue Bilby)">
+		<description>Toxic Frenzy (2021-05-17)(Blue Bilby)</description>
+		<rom name="Toxic Frenzy (2021-05-17)(Blue Bilby).d81" size="819200" crc="796795b3" md5="7ad54d23afc04c31e2592a1c70ce5fad" sha1="aea5aba6753c04be8ad6ac3365093c15172fe750"/>
+	</game>
+	<game name="Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en)">
+		<description>Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en)</description>
+		<rom name="Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en).d81" size="819200" crc="c03063bd" md5="b29ca01734b3f427f9a9faf4437eb1b3" sha1="bfa125f606cc1ca827742d90faefbfc1eff3828c"/>
+	</game>
+	<game name="Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en)">
+		<description>Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en)</description>
+		<rom name="Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en).d81" size="819200" crc="2b262794" md5="b74ca2ff3c43f4ac6829bc020f35955f" sha1="ef9a4f9939ae076d738231ff23a228cf203c0945"/>
+	</game>
+	<game name="île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)">
+		<description>île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)</description>
+		<rom name="île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR).d81" size="819200" crc="99a6e4c9" md5="1fbf778f637e87a630574b3575849093" sha1="bfc6e9b5694727b51d4698a07a8331c1bb688cd7"/>
+	</game>
+</datafile>

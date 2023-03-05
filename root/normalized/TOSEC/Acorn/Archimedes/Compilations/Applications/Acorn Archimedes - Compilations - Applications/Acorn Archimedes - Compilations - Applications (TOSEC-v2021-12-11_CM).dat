@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - Compilations - Applications</name>
+		<description>Acorn Archimedes - Compilations - Applications (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Applications Suite for RISC OS v1.00 (199x)(Acorn Computers)(GB)(Disk 1 of 2)">
+		<description>Applications Suite for RISC OS v1.00 (199x)(Acorn Computers)(GB)(Disk 1 of 2)</description>
+		<rom name="Applications Suite for RISC OS v1.00 (199x)(Acorn Computers)(GB)(Disk 1 of 2).adf" size="819200" crc="c27ec1c6" md5="91c2dc0acab453e21bb549055165182e" sha1="41e66b1b467a1d91d8cefdf3c9aa6882e19ae724"/>
+	</game>
+	<game name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 1 of 5)(DataComms)">
+		<description>RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 1 of 5)(DataComms)</description>
+		<rom name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 1 of 5)(DataComms).adf" size="819200" crc="69529f1b" md5="ff798a1ce702f333a0fe57d308d170e9" sha1="6a47c2bcd6fc17d2993961dd86072c742c55256a"/>
+	</game>
+	<game name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 2 of 5)(Misc)">
+		<description>RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 2 of 5)(Misc)</description>
+		<rom name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 2 of 5)(Misc).adf" size="819200" crc="7439ed5d" md5="c8bacaf77314b25c90a90427f3d62cc2" sha1="710fb479000fdfb2c3a7948e0d893928c2110720"/>
+	</game>
+	<game name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 3 of 5)(SSTV)">
+		<description>RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 3 of 5)(SSTV)</description>
+		<rom name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 3 of 5)(SSTV).adf" size="819200" crc="7cd3384c" md5="f59467ef2bab1f88c77c5777b7a373ca" sha1="afd3f381fe4fb72839d43eb7fdc94f3416e2b715"/>
+	</game>
+	<game name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 4 of 5)(Encoders)">
+		<description>RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 4 of 5)(Encoders)</description>
+		<rom name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 4 of 5)(Encoders).adf" size="819200" crc="832b70e4" md5="85d11417e7a2e8eda15f8c35ae630f08" sha1="f1dbcddd21e520de0867a0829fd9b87a05a89d5e"/>
+	</game>
+	<game name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 5 of 5)(Fax)">
+		<description>RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 5 of 5)(Fax)</description>
+		<rom name="RISC OS Public Domain Amateur Radio Applications (1994-07)(Sterry, Rick)(PD)(Disc 5 of 5)(Fax).adf" size="819200" crc="091e5a9b" md5="f2228d60671f43074206b3ff54287d0d" sha1="cfe6f8dfa08503e44689feb5e735a4cab154657b"/>
+	</game>
+	<game name="SCSI Utils (19xx)(-)">
+		<description>SCSI Utils (19xx)(-)</description>
+		<rom name="SCSI Utils (19xx)(-).adf" size="819200" crc="4aa00401" md5="92502764b380af102c22dcd9241e2449" sha1="9644afca1276a866638bbbfb011822ff92fc6042"/>
+	</game>
+	<game name="Support Disc - Issue 1 (1989)(Acorn Computers)(GB)">
+		<description>Support Disc - Issue 1 (1989)(Acorn Computers)(GB)</description>
+		<rom name="Support Disc - Issue 1 (1989)(Acorn Computers)(GB).adf" size="819200" crc="c42fe4d3" md5="0ef5f7503d7a398cb1fe6a96bcc17b72" sha1="b403ff10aba8e08ad1bdd9a681e0bf6872c4b1c9"/>
+	</game>
+	<game name="Text Utilities 01 (2002)(Wocki)(DE)">
+		<description>Text Utilities 01 (2002)(Wocki)(DE)</description>
+		<rom name="Text Utilities 01 (2002)(Wocki)(DE).adf" size="1638400" crc="b58a4f2f" md5="1a25c8f22901ac1cdd4881e8c32c1a33" sha1="1af7f7b7c9874b3598f8ed5d3111430f1ea2093b"/>
+	</game>
+	<game name="Text Utilities 02 (2002)(Wocki)(DE)">
+		<description>Text Utilities 02 (2002)(Wocki)(DE)</description>
+		<rom name="Text Utilities 02 (2002)(Wocki)(DE).adf" size="1638400" crc="5a8db654" md5="30931ce64d081d3633cba95ffdf6de84" sha1="5966905bb45933c898ded5b3ae9fa557ef820321"/>
+	</game>
+</datafile>

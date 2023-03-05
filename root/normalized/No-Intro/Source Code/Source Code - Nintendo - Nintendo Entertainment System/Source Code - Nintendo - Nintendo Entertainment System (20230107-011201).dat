@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>173</id>
+		<name>Source Code - Nintendo - Nintendo Entertainment System</name>
+		<description>Source Code - Nintendo - Nintendo Entertainment System</description>
+		<version>20230107-011201</version>
+		<author>Hiccup, MeguCocoa, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Captain Comic (Unknown) (Unl)" id="0005">
+		<description>Captain Comic (Unknown) (Unl)</description>
+		<rom name="Captain Comic Source Code.zip" size="138441" crc="a064656f" md5="eaeab01f43cd38b103f83ede6da30ef2" sha1="36055d2e420c1b10ac4b04b8b8fc60e61582f357" sha256="c06c015ddb6dde8ed492e9289b2f20e6987789e071b0c805c4ffbebdc131d853"/>
+	</game>
+	<game name="Magician (Unknown)" id="0001">
+		<description>Magician (Unknown)</description>
+		<rom name="Magician_NES_Project_Package.rar" size="261726" crc="f387b9ba" md5="c116dcae5c676a22cf2ae4c99a252d6e" sha1="db335b5f9f54e531514019fabcd16d45e30d6894" sha256="a6dbabe8df7270f3cf8e17e342ca8571564266c5126f2776ac2fa25e0dee0b80"/>
+	</game>
+	<game name="Ninja Hattori-kun (Japan)" id="0003">
+		<description>Ninja Hattori-kun (Japan)</description>
+		<rom name="nnjhtrkn.bundle" size="60964" crc="cfc691b9" md5="749118bdf7095d4c755d99a00370d602" sha1="91b150bc133692f5511092f48a9bc1d27ee5092a" sha256="c8b19933612245f8ebaef12750f99b3efb7cb1716219ab3f5f712cebbf96a55d"/>
+		<rom name="nnjhtrkn-master.zip" size="59392" crc="d328882a" md5="d905b8d4bad20e500dfa1e3295b6532f" sha1="22e32cbfced6f06433c6056a285c4ef6b9077a06" sha256="4b6636cb76b1d478a462a413c5f77c9e957346f58fc6cfa5639654f829aa7350"/>
+	</game>
+	<game name="Pesterminator (Unknown) (Unl)" id="0004">
+		<description>Pesterminator (Unknown) (Unl)</description>
+		<rom name="Pesterminator Source Code.zip" size="414657" crc="926d3443" md5="45ac235d3f97927435f299dec0a5fc9d" sha1="ba0c051158beeab2b969c10728b93871cb018be2" sha256="593fc52c9f7aeaf484eb9aeb3c7874a5ee775e1fe8e51168564c6bcae68c6788"/>
+	</game>
+</datafile>

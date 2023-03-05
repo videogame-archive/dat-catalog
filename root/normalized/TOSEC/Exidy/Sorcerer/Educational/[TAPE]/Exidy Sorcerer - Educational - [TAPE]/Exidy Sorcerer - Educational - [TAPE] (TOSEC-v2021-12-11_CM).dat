@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Educational - [TAPE]</name>
+		<description>Exidy Sorcerer - Educational - [TAPE] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Math (1979)(Lucus, J.R.)[BASIC][Demo 8]">
+		<description>Math (1979)(Lucus, J.R.)[BASIC][Demo 8]</description>
+		<rom name="Math (1979)(Lucus, J.R.)[BASIC][Demo 8].tape" size="8907" crc="562ad5cc" md5="c76d63fd6d71631445c59b4695e80e53" sha1="12b57646ccf069adb8a4a45255f6e2fef9e08997"/>
+	</game>
+	<game name="Sightspell (19xx)(-)[BASIC][Demo 4]">
+		<description>Sightspell (19xx)(-)[BASIC][Demo 4]</description>
+		<rom name="Sightspell (19xx)(-)[BASIC][Demo 4].tape" size="4380" crc="3955e271" md5="c25c4f5219b2e4addf29467da4d2b0dc" sha1="b47203333cb88bfbe492f24099b7a1cf74d4a7a3"/>
+	</game>
+</datafile>

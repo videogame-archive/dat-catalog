@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio PV-2000 - Games</name>
+		<description>Casio PV-2000 - Games (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-11)(Inufuto)(JP)">
+		<description>Ascend (2022-04-11)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-04-11)(Inufuto)(JP).bin" size="9325" crc="14651880" md5="563bf7ef8774f382aa0a1f2dc9801bb1" sha1="46fb5e902ff7e8e491d58977b373c4c2fab84b35"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio).bin" size="16384" crc="cfbb1e95" md5="e5db67560f9906bfe25ab961f60e28bc" sha1="95cbabadf3c6a4a5f9dcf14d2b078a3324d7d01f"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).bin" size="16384" crc="61a1d5ac" md5="b84c12d1227a7c60d3aead2e57b46899" sha1="6039e52547d746e9d8e5cbe7f6a2c45cf46a3dcf"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).bin" size="16384" crc="d951598f" md5="2af7281a51c329b6c6165026c11528fd" sha1="748dab37a9e3486f39838ade96a3d0951e643b7a"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).bin" size="16384" crc="6ed15819" md5="60da29f886584012f474dfc817a986f8" sha1="e310dcb6b2e125a313faf88f562083319be8fba9"/>
+	</game>
+	<game name="Front Line (1983)(Taito)">
+		<description>Front Line (1983)(Taito)</description>
+		<rom name="Front Line (1983)(Taito).bin" size="8192" crc="86692c58" md5="756f92a2550b316a9975bcc4b92a5f5a" sha1="5891483952658589102f396b260fadf33ce9c32b"/>
+	</game>
+	<game name="Galaga (1981)(Namco)">
+		<description>Galaga (1981)(Namco)</description>
+		<rom name="Galaga (1981)(Namco).bin" size="8192" crc="e5befcf6" md5="f4caacf3705cd7986c249dbef7863f80" sha1="e3b4c7b1dc1a741eb098709ac41297a2c91ea444"/>
+	</game>
+	<game name="Mazy (2021-08-13)(Inufuto)(JP)">
+		<description>Mazy (2021-08-13)(Inufuto)(JP)</description>
+		<rom name="Mazy (2021-08-13)(Inufuto)(JP).bin" size="6902" crc="1f47d947" md5="ecc12bf1c2e1aca656e2606dd38cea7a" sha1="b741cb8417e7b24cf7a54d34584df6d554221fb5"/>
+	</game>
+	<game name="Pachinko - UFO (198x)(Casio)">
+		<description>Pachinko - UFO (198x)(Casio)</description>
+		<rom name="Pachinko - UFO (198x)(Casio).bin" size="16384" crc="1261e766" md5="29ed7d00bf6bb7e4828844f565ec78a7" sha1="0c7a3f865e72fc8b3f39f66c0b48bf60cd2de599"/>
+	</game>
+	<game name="Rakugaki (19xx)(-)">
+		<description>Rakugaki (19xx)(-)</description>
+		<rom name="Rakugaki (19xx)(-).bin" size="16384" crc="a34d1bd1" md5="b8f820e711d9a06c46d118aba2d3756e" sha1="54a543d08e865c85c32358edce8a6fcfa3ad9fcc"/>
+	</game>
+	<game name="Roc'n Rope (1983)(Konami)">
+		<description>Roc'n Rope (1983)(Konami)</description>
+		<rom name="Roc'n Rope (1983)(Konami).bin" size="8192" crc="f8c9c2d9" md5="86ad382800d85886909e7f3c045f9e13" sha1="2744e448f9537fbca1e65cbd3646678100777de3"/>
+	</game>
+	<game name="Ruptus (2021-08-13)(Inufuto)(JP)">
+		<description>Ruptus (2021-08-13)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-08-13)(Inufuto)(JP).bin" size="12259" crc="cd53c529" md5="995710af20883f8b6ec776f4105638fe" sha1="617d4b55d630168a133213b4808edca646785dc7"/>
+	</game>
+</datafile>

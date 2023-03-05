@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF Imagination Machine - Manuals - Hardware</name>
+		<description>APF Imagination Machine - Manuals - Hardware (TOSEC-v2012-04-19)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-19</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="APF Imagination Machine Owner's Note (1980)(APF Electronics)">
+		<description>APF Imagination Machine Owner's Note (1980)(APF Electronics)</description>
+		<rom name="APF Imagination Machine Owner's Note (1980)(APF Electronics).pdf" size="22286" crc="cf9c1db1" md5="bc7a694dd7587b640114c0051445ff02" sha1="3a28b41338459d8e6b07f81528e2238c63590d85"/>
+	</game>
+	<game name="APF Imagination Machine Owners Manual (1980)(APF Electronics)">
+		<description>APF Imagination Machine Owners Manual (1980)(APF Electronics)</description>
+		<rom name="APF Imagination Machine Owners Manual (1980)(APF Electronics).pdf" size="797610" crc="e0042f74" md5="326c0d61e170b8822ebe4d8e86fe116c" sha1="d656824e235f6c1049b1c930f5a641bb0372326d"/>
+	</game>
+	<game name="APF M1000 Owners Manual (1980)(APF Electronics)">
+		<description>APF M1000 Owners Manual (1980)(APF Electronics)</description>
+		<rom name="APF M1000 Owners Manual (1980)(APF Electronics).pdf" size="2109431" crc="d2ed0754" md5="f4d621d2512df287ea0048605f97852d" sha1="5cabb50b353708666fbaeb1a90abae577c040269"/>
+	</game>
+	<game name="APF TM-40 Modem Supplemental Instructions (1980)(APF Electronics)">
+		<description>APF TM-40 Modem Supplemental Instructions (1980)(APF Electronics)</description>
+		<rom name="APF TM-40 Modem Supplemental Instructions (1980)(APF Electronics).pdf" size="42981" crc="8c74c3e3" md5="28e6abd3ab238e92a631adf5c0d3c567" sha1="738c7a22f982e74ebf3d86529a582e62498a8b74"/>
+	</game>
+</datafile>

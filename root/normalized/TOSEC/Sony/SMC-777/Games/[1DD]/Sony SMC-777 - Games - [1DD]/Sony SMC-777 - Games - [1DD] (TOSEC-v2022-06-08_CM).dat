@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony SMC-777 - Games - [1DD]</name>
+		<description>Sony SMC-777 - Games - [1DD] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-26)(Inufuto)(JP)">
+		<description>Ascend (2022-03-26)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-26)(Inufuto)(JP).1dd" size="305328" crc="85d8bd9f" md5="c7c757d13ada45a373b9a9d7f2158134" sha1="a15e270f64b9f7f21efed0e295e0658876e1dd1d"/>
+	</game>
+	<game name="Mazy (2020-10-03)(Inufuto)(JP)">
+		<description>Mazy (2020-10-03)(Inufuto)(JP)</description>
+		<rom name="Mazy (2020-10-03)(Inufuto)(JP).1dd" size="305328" crc="abb9410d" md5="1d14c0537d39e3d7dff838495fe108d0" sha1="34322387e13eb1ed397f667b4d6cb355f832f142"/>
+	</game>
+	<game name="Ruptus (2021-01-03)(Inufuto)(JP)">
+		<description>Ruptus (2021-01-03)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2021-01-03)(Inufuto)(JP).1dd" size="305328" crc="a24152e8" md5="9819756b61b8af36ec9f145b21542d6f" sha1="f59dfa8e8c34988b8f109c9915556f71267d5e4a"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Canon Cat - Manuals - Technical</name>
+		<description>Canon Cat - Manuals - Technical (TOSEC-v2014-02-01)</description>
+		<category>TOSEC-PIX</category>
+		<version>2014-02-01</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Standard Drive to Canon Cat (2009-01-16)(Elvey, Dwight)">
+		<description>Standard Drive to Canon Cat (2009-01-16)(Elvey, Dwight)</description>
+		<rom name="Standard Drive to Canon Cat (2009-01-16)(Elvey, Dwight).pdf" size="277716" crc="996ab9ac" md5="778e34c4f6218b371b846a485a51fce1" sha1="0d30f1cf31f46b3f766061b9c710ed6ebf9a0e35"/>
+	</game>
+	<game name="Technical Documentation for the Canon Cat Editor (1988)(Information Appliance)">
+		<description>Technical Documentation for the Canon Cat Editor (1988)(Information Appliance)</description>
+		<rom name="Technical Documentation for the Canon Cat Editor (1988)(Information Appliance).pdf" size="55471187" crc="be4c45f1" md5="7f0709b9a1ad5c8f95200e4963b993bd" sha1="56cf8bcd36f1c1b4022a780e26eeb3570c2df1a0"/>
+	</game>
+	<game name="Workshop Manual (1987-07)(Canon)">
+		<description>Workshop Manual (1987-07)(Canon)</description>
+		<rom name="Workshop Manual (1987-07)(Canon).pdf" size="8347670" crc="411d9dc6" md5="1b3085ff7a708f881615ab259e86fa49" sha1="8af05732cfb428342dfb6c194e3547ab8eb25955"/>
+	</game>
+</datafile>

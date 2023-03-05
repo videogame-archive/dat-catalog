@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Shoot&apos;em Up - [SFX]</name>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [SFX] (TOSEC-v2022-07-09)</description>
+		<category>TOSEC</category>
+		<version>2022-07-09</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Annihilator (1983)(Victory Software)">
+		<description>Annihilator (1983)(Victory Software)</description>
+		<rom name="Annihilator (1983)(Victory Software).sfx" size="8252" crc="9b352d84" md5="24e3ae1287ffcc078b0fe92738b486b4" sha1="9eb28c7f3b34e4b042e79f46b37c038ae751effc"/>
+	</game>
+	<game name="Blizzard Part 1 - Commando Libya (1986)(Pfitzner, Robert)">
+		<description>Blizzard Part 1 - Commando Libya (1986)(Pfitzner, Robert)</description>
+		<rom name="Blizzard Part 1 - Commando Libya (1986)(Pfitzner, Robert).sfx" size="18944" crc="b9b1726a" md5="c8fb5cd534fca6d27f39c537d8408239" sha1="66af51880b8de8833f27685d4aea2d703c9360d7"/>
+	</game>
+	<game name="Creeps (19xx)(Keypunch Software)">
+		<description>Creeps (19xx)(Keypunch Software)</description>
+		<rom name="Creeps (19xx)(Keypunch Software).sfx" size="12800" crc="ed80e354" md5="333e70866d41d9fcfa91b13fa3139837" sha1="13db94dfc569ad1b5a6666cd1b46c49cddedb9ec"/>
+	</game>
+</datafile>

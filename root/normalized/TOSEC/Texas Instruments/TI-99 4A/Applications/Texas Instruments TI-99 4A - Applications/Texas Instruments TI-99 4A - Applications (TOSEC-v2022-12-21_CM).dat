@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Applications</name>
+		<description>Texas Instruments TI-99 4A - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Graphing Package (1980)(Texas Instruments)">
+		<description>Graphing Package (1980)(Texas Instruments)</description>
+		<rom name="Graphing Package (1980)(Texas Instruments).a2r" size="13533217" crc="a2b2c9fe" md5="48dcf9c6035b7f29ef20365981feaba0" sha1="192435659cf8363f1d97872635c680676f2fab5a"/>
+	</game>
+	<game name="Text to Speech - English (1982)(Texas Instruments)">
+		<description>Text to Speech - English (1982)(Texas Instruments)</description>
+		<rom name="Text to Speech - English (1982)(Texas Instruments).a2r" size="13301301" crc="e462924f" md5="41b6ee17caba9b8be93077fbad669b6d" sha1="10774c304ba654f992f36a7331f6b8a5c98a8dbe"/>
+	</game>
+	<game name="Text to Speech - English (1982)(Texas Instruments)[a]">
+		<description>Text to Speech - English (1982)(Texas Instruments)[a]</description>
+		<rom name="Text to Speech - English (1982)(Texas Instruments)[a].a2r" size="13304709" crc="639fc78a" md5="c94570978661096bfe50dcf0567d741e" sha1="fb6b3dec1c1318d9cd4a9a87fe3ca208ef83dba7"/>
+	</game>
+	<game name="TI Data Disk (19xx)(Texas Instruments)">
+		<description>TI Data Disk (19xx)(Texas Instruments)</description>
+		<rom name="TI Data Disk (19xx)(Texas Instruments).a2r" size="13758650" crc="7303db9a" md5="1a716f9a2d455bac89057d847d4533c6" sha1="2d00573f0392cc6abaa32a8883b489223330f5e1"/>
+	</game>
+	<game name="TI Diagnostics (19xx)(Texas Instruments)">
+		<description>TI Diagnostics (19xx)(Texas Instruments)</description>
+		<rom name="TI Diagnostics (19xx)(Texas Instruments).a2r" size="11876670" crc="f537a3ae" md5="67cf802e641698b09329435002939d4b" sha1="7933e891d6f50cf22cf6abbcb6577660d6955bb6"/>
+	</game>
+	<game name="TI Disk Mgr 1000 (19xx)(Texas Instruments)">
+		<description>TI Disk Mgr 1000 (19xx)(Texas Instruments)</description>
+		<rom name="TI Disk Mgr 1000 (19xx)(Texas Instruments).a2r" size="13460091" crc="5be66011" md5="db157a84586444ed058be7a3b1963281" sha1="8160477b2a74460db7ac7dbedb7dbd577a6ce9c0"/>
+	</game>
+	<game name="TI Disk Mgr 3 (19xx)(Texas Instruments)">
+		<description>TI Disk Mgr 3 (19xx)(Texas Instruments)</description>
+		<rom name="TI Disk Mgr 3 (19xx)(Texas Instruments).a2r" size="13547794" crc="2b8d8b8f" md5="19e13dd87cbf6923908ec117073d774d" sha1="176c1c101acf95fef6708078ce86d5aa641d1c18"/>
+	</game>
+	<game name="TI LOGO Sampler (1981)(Texas Instruments)">
+		<description>TI LOGO Sampler (1981)(Texas Instruments)</description>
+		<rom name="TI LOGO Sampler (1981)(Texas Instruments).a2r" size="12370655" crc="8eb5cee7" md5="228112c8e4ce25f4b816a66a0927273f" sha1="29d6c3ae1262ea9434c528e4b8b1b6a48bf8e445"/>
+	</game>
+	<game name="TI-Writer Word Processor (1982)(Texas Instruments)">
+		<description>TI-Writer Word Processor (1982)(Texas Instruments)</description>
+		<rom name="TI-Writer Word Processor (1982)(Texas Instruments).a2r" size="13312528" crc="4af99afa" md5="4a239a983cf266c35b3ef4f8699bc6ce" sha1="10329c36e5f04c45ac780eaeca789394345d2fce"/>
+	</game>
+</datafile>

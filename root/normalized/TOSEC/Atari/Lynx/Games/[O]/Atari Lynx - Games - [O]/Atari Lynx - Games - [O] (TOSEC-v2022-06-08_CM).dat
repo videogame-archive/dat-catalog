@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Games - [O]</name>
+		<description>Atari Lynx - Games - [O] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Banana Ghost v0.1 (2021-12-11)(Bjorn)">
+		<description>Banana Ghost v0.1 (2021-12-11)(Bjorn)</description>
+		<rom name="Banana Ghost v0.1 (2021-12-11)(Bjorn).o" size="22804" crc="af7f9c1b" md5="68328ad57c51196a495ef25e8e1fda43" sha1="0f29a97c583707b777238b630213682c8da10c19"/>
+	</game>
+	<game name="Banana Ghost v0.2 (2021-12-20)(Bjorn)">
+		<description>Banana Ghost v0.2 (2021-12-20)(Bjorn)</description>
+		<rom name="Banana Ghost v0.2 (2021-12-20)(Bjorn).o" size="23075" crc="ef39ba78" md5="8ca8072a1dd0ddb5373f28339fd220a4" sha1="b3d0f94b7db2f9365d456eb06d7fd1bf1620068b"/>
+	</game>
+	<game name="Black Pit (2021-12-12)(Fadest)">
+		<description>Black Pit (2021-12-12)(Fadest)</description>
+		<rom name="Black Pit (2021-12-12)(Fadest).o" size="30249" crc="7be17a2a" md5="adf59b18cbaa97d147008c17d7532f56" sha1="a05e02d76511e72696da3d3ecc65aa3a229509b3"/>
+	</game>
+</datafile>

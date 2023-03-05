@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-11 - Games</name>
+		<description>DEC PDP-11 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[V7][turn-based]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[V7][turn-based]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[V7][turn-based].bin" size="17816" crc="00fb8279" md5="1b7ae4b2515e50463eccded80c54ade1" sha1="d2d2649411d6c8f6644564b1dcb6d2eab9e57a0d"/>
+	</game>
+	<game name="Cross Chase (2019-10-23)(Caruso, Fabrizio)[V7]">
+		<description>Cross Chase (2019-10-23)(Caruso, Fabrizio)[V7]</description>
+		<rom name="Cross Chase (2019-10-23)(Caruso, Fabrizio)[V7].bin" size="30116" crc="3fad95e4" md5="48cfd1bafe0f23850bbcf23d32692213" sha1="3941284f5341be6978f257f67dc867e83461db09"/>
+	</game>
+	<game name="Cross Chase (2019-10-23)(Caruso, Fabrizio)[V7][turn-based]">
+		<description>Cross Chase (2019-10-23)(Caruso, Fabrizio)[V7][turn-based]</description>
+		<rom name="Cross Chase (2019-10-23)(Caruso, Fabrizio)[V7][turn-based].bin" size="17574" crc="21fa023a" md5="8da8747b59d1b2363ef00b53e7f18703" sha1="37ec776c4e040d117c01318a87768e4c9a87de2f"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[V7]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[V7]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[V7].bin" size="30034" crc="9ad36ee7" md5="b8b2961057da450a8159db4df9dc7c3b" sha1="f02c9b3522a30334f983c46d642b0c75445aa1a8"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[V7][turn-based]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[V7][turn-based]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[V7][turn-based].bin" size="17492" crc="448ce19d" md5="66616828098f147f5e9d0f7c1cc9cdec" sha1="5c39823ff4c94a6794850f5f1300902a6f8a9616"/>
+	</game>
+</datafile>

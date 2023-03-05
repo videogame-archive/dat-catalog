@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Compilations - Various - [AIF]</name>
+		<description>Apple II - Compilations - Various - [AIF] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Integer BASIC - Dragon Maze (19xx)(ITT)(EU)(Side 1)(Integer BASIC)[37-132-13]">
+		<description>Integer BASIC - Dragon Maze (19xx)(ITT)(EU)(Side 1)(Integer BASIC)[37-132-13]</description>
+		<rom name="Integer BASIC - Dragon Maze (19xx)(ITT)(EU)(Side 1)(Integer BASIC)[37-132-13].aif" size="13666358" crc="b0db1193" md5="c3c8215df940a76f443a6a9360cfacfd" sha1="0f3fde466f7cc62d04ff2c40b3be9ff150cd76bf"/>
+	</game>
+	<game name="Integer BASIC - Dragon Maze (19xx)(ITT)(EU)(Side 2)(Dragon Maze)[37-132-13]">
+		<description>Integer BASIC - Dragon Maze (19xx)(ITT)(EU)(Side 2)(Dragon Maze)[37-132-13]</description>
+		<rom name="Integer BASIC - Dragon Maze (19xx)(ITT)(EU)(Side 2)(Dragon Maze)[37-132-13].aif" size="13496374" crc="30265daa" md5="9820bd1d528108bcc650d415a3d0dd85" sha1="cc6b44fcedf578c048499bda432233b2cc134eb7"/>
+	</game>
+</datafile>

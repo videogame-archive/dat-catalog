@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Video</name>
+		<description>Nintendo Game Boy - Video (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gameboy News - Kaeru no Tame ni Kane wa Naru (1993)(Nintendo)(JP)">
+		<description>Gameboy News - Kaeru no Tame ni Kane wa Naru (1993)(Nintendo)(JP)</description>
+		<rom name="Gameboy News - Kaeru no Tame ni Kane wa Naru (1993)(Nintendo)(JP).mp4" size="19427368" crc="6de710dd" md5="9c496661ad708dded1c5958b4cdf07ee" sha1="f07b15c44f14f610cbc4323ec77ba013da946f51"/>
+	</game>
+	<game name="Gameboy News - Mario no Picross &amp; Hoshi no Kirby 2 (1995)(Nintendo)(JP)">
+		<description>Gameboy News - Mario no Picross &amp; Hoshi no Kirby 2 (1995)(Nintendo)(JP)</description>
+		<rom name="Gameboy News - Mario no Picross &amp; Hoshi no Kirby 2 (1995)(Nintendo)(JP).mp4" size="27232589" crc="46271e05" md5="517f9ec1ddfde76fe255989acd097dfa" sha1="2bc794b52586e322531d5b3b17c5fce473f939cc"/>
+	</game>
+	<game name="Gameboy News - Wario Land Super Mario Land 3 (1993)(Nintendo)(JP)">
+		<description>Gameboy News - Wario Land Super Mario Land 3 (1993)(Nintendo)(JP)</description>
+		<rom name="Gameboy News - Wario Land Super Mario Land 3 (1993)(Nintendo)(JP).mp4" size="14038880" crc="49692b95" md5="89c2c38b4459bda93a2aa2c4654f3e57" sha1="38e9a60db53d0f9684436a30a0f8b62d6fef2c0b"/>
+	</game>
+</datafile>

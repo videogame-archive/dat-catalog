@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon - Books</name>
+		<description>Dragon Data Dragon - Books (TOSEC-v2013-04-04)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-04-04</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Inside the Dragon (1983)(Addison-Wesley Publishing Company)">
+		<description>Inside the Dragon (1983)(Addison-Wesley Publishing Company)</description>
+		<rom name="Inside the Dragon (1983)(Addison-Wesley Publishing Company).pdf" size="7145815" crc="4cee6138" md5="cb8ebab501eb0d45d0e5cff0bddc8b30" sha1="43dae1213d0581403bee5e21d9869f09d521b48f"/>
+	</game>
+</datafile>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>56</id>
+		<name>Funtech - Super Acan</name>
+		<description>Funtech - Super Acan</description>
+		<version>20200111-044109</version>
+		<author>BitLooter, ElBarto, relax, TeamEurope, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Boom Zoo (Taiwan)" id="0001">
+		<description>Boom Zoo (Taiwan)</description>
+		<game_id>F-011</game_id>
+		<rom name="Boom Zoo (Taiwan).bin" size="524288" crc="6099bb44" md5="62aba0124eec12567f0facd8475d4ef8" sha1="0b5fbe2117bb77a827453c5489b3af691e5c7ade"/>
+	</game>
+	<game name="Formosa Duel (Taiwan)" id="0010">
+		<description>Formosa Duel (Taiwan)</description>
+		<game_id>F-001</game_id>
+		<rom name="Formosa Duel (Taiwan).bin" size="1048576" crc="b2bf31dc" md5="7c637797ae8f3c1e92230a9fa80e8269" sha1="8d0680e1322af21b20d5cee2c100b05cf4217815"/>
+	</game>
+	<game name="Gambling Lord (Taiwan)" id="0011">
+		<description>Gambling Lord (Taiwan)</description>
+		<game_id>F-009</game_id>
+		<rom name="Gambling Lord (Taiwan).bin" size="2097152" crc="ac4fa721" md5="99a7216288b76485dbfea69f679ae002" sha1="0fda223817f0b50f0ce9687076d29df3d1b86960"/>
+	</game>
+	<game name="Journey to the Laugh (Taiwan)" id="0007">
+		<description>Journey to the Laugh (Taiwan)</description>
+		<game_id>F-006</game_id>
+		<rom name="Journey to the Laugh (Taiwan).bin" size="2097152" crc="cee25eea" md5="fb45bfe814878e759ecb413484848db9" sha1="fc82fc3a7d55571494cd62d8807160e22cf437bc"/>
+	</game>
+	<game name="Magical Pool (Taiwan)" id="0012">
+		<description>Magical Pool (Taiwan)</description>
+		<game_id>F-010</game_id>
+		<rom name="Magical Pool (Taiwan).bin" size="2097152" crc="aed4e4f8" md5="17c068084dc1e4ebafc78e2653e0e26a" sha1="6be79db9006c46ea21f5dbe1add755ce2e413796"/>
+	</game>
+	<game name="Monopoly - Adventure in Africa (Taiwan)" id="0006">
+		<description>Monopoly - Adventure in Africa (Taiwan)</description>
+		<game_id>F-008</game_id>
+		<rom name="Monopoly - Adventure in Africa (Taiwan).bin" size="1048576" crc="dc3b7b84" md5="2f738d44d74f987be4b96b6ee4097e1e" sha1="6dcbd7923203da7892915595d65ee668afbf0339"/>
+	</game>
+	<game name="Sango Fighter (Taiwan)" id="0004">
+		<description>Sango Fighter (Taiwan)</description>
+		<game_id>F-002</game_id>
+		<rom name="Sango Fighter (Taiwan).bin" size="3145728" crc="a4de6dde" md5="45e297d693cd2308f637f68a2389ace4" sha1="f4bed63775130a75eb9c50b32e0cf50d1a7b8f50"/>
+	</game>
+	<game name="Speedy Dragon (Taiwan)" id="0008">
+		<description>Speedy Dragon (Taiwan)</description>
+		<game_id>F-004</game_id>
+		<rom name="Speedy Dragon (Taiwan).bin" size="2097152" crc="f631383c" md5="16ff1f3d682d582b696d86ad1a128efd" sha1="fbd62b5d287aa82ef27f400ab2a6b3da0308192a"/>
+	</game>
+	<game name="Super Dragon Force (Taiwan)" id="0003">
+		<description>Super Dragon Force (Taiwan)</description>
+		<game_id>F-007</game_id>
+		<rom name="08002 (Taiwan).bin" size="1048576" crc="fc79f05f" md5="927f0738d3ebe5f0d9267d05bf96b1da" sha1="7ce2e23ea3fd25764935708be4d47bf1a9843938"/>
+		<rom name="16007 (Taiwan).bin" size="2097152" crc="56c1c3fb" md5="7e7e1321ad9e4f3e1a512ab4fe3abb0c" sha1="249e2ad6d8d40ecd31eda5a1bd5e5d0f47174a27"/>
+	</game>
+	<game name="Super Taiwanese Baseball League (Taiwan)" id="0005">
+		<description>Super Taiwanese Baseball League (Taiwan)</description>
+		<game_id>F-005</game_id>
+		<rom name="Super Taiwanese Baseball League (Taiwan).bin" size="2097152" crc="ccf6829b" md5="dc2d01a03d210d2ce937efd6685d6a28" sha1="17a413803d8749fbe9643ca56d703afd64569b9f"/>
+	</game>
+	<game name="The Son of Evil (Taiwan)" id="0009">
+		<description>The Son of Evil (Taiwan)</description>
+		<game_id>F-003</game_id>
+		<rom name="The Son of Evil (Taiwan).bin" size="2097152" crc="9f6119a7" md5="517316018ed64cd43e225f1dd074eaf2" sha1="67ae9e7f99e1c3054ea54d53dbbba7792ef45134"/>
+	</game>
+</datafile>

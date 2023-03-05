@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HomeLab HomeLab - Manuals - Software (HU)</name>
+		<description>HomeLab HomeLab - Manuals - Software (HU) (TOSEC-v2010-01-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="F-15 Repulesszimulator (1987)(Solti Imre)(HU)">
+		<description>F-15 Repulesszimulator (1987)(Solti Imre)(HU)</description>
+		<rom name="F-15 Repulesszimulator (1987)(Solti Imre)(HU).pdf" size="275553" crc="14068c23" md5="900103713a2fe4e4da2552498ace822d" sha1="9e0b37450bc90200884ba4aa8ab17c9cc78e3aea"/>
+	</game>
+	<game name="HomeLab Programok (198x)(HCC HomeLab Club)(HU)">
+		<description>HomeLab Programok (198x)(HCC HomeLab Club)(HU)</description>
+		<rom name="HomeLab Programok (198x)(HCC HomeLab Club)(HU).pdf" size="204954" crc="e49b8127" md5="28bf6add08b270d61a976b108ab5e0df" sha1="ffd3b471ab367f943a5dd514edd1d984c5187bfc"/>
+	</game>
+	<game name="HomeLab Szoftver (1989)(-)(HU)">
+		<description>HomeLab Szoftver (1989)(-)(HU)</description>
+		<rom name="HomeLab Szoftver (1989)(-)(HU).pdf" size="6756926" crc="0b996c7d" md5="7f4d4dbdc09559f7aa850f8bc0a5c08b" sha1="a3e74f454c011ece2c0357d371ecaee3828941fe"/>
+	</game>
+	<game name="Macro Assembler (198x)(-)(HU)">
+		<description>Macro Assembler (198x)(-)(HU)</description>
+		<rom name="Macro Assembler (198x)(-)(HU).pdf" size="938193" crc="a119f89f" md5="47ce77d15d93810e2f66f55a178a17e4" sha1="f571e2f1e3ce2fa74204c60242e4e7a17a972c6a"/>
+	</game>
+</datafile>

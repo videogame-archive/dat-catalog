@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore PET - Manuals - Hardware</name>
+		<description>Commodore PET - Manuals - Hardware (TOSEC-v2012-04-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore PET 2001 User Manual (198x)(Commodore)">
+		<description>Commodore PET 2001 User Manual (198x)(Commodore)</description>
+		<rom name="Commodore PET 2001 User Manual (198x)(Commodore).pdf" size="711052" crc="5ef476a3" md5="625d7be8e6f79ce3a166a14413c87a03" sha1="e49a6b0381fb2bb562712f7cbb50e041e82ae577"/>
+	</game>
+	<game name="Commodore PET Machine Language Monitor (1979)(Commodore)">
+		<description>Commodore PET Machine Language Monitor (1979)(Commodore)</description>
+		<rom name="Commodore PET Machine Language Monitor (1979)(Commodore).pdf" size="148916" crc="1958f73c" md5="d08d46336a5cdad79467507771665790" sha1="59543df70ce9c1e9a5e37df75a0d0f932a4b9f9c"/>
+	</game>
+	<game name="Commodore SuperPET System Overview (1981)(Waterloo Computing Systems)">
+		<description>Commodore SuperPET System Overview (1981)(Waterloo Computing Systems)</description>
+		<rom name="Commodore SuperPET System Overview (1981)(Waterloo Computing Systems).pdf" size="3553468" crc="ab696d50" md5="3185738b7a7aea948778c54f86c942f2" sha1="ec129d655d7961c919f4e3c4a6287a61a20a1e01"/>
+	</game>
+	<game name="Getting Started With Your PET (1978)(Total Information Systems)">
+		<description>Getting Started With Your PET (1978)(Total Information Systems)</description>
+		<rom name="Getting Started With Your PET (1978)(Total Information Systems).pdf" size="326284" crc="88a15c39" md5="9ac4c7bd6f4bf10c8406f1d15d05d0ad" sha1="be36638a53348e2aef87688495f9cec2472ebe8b"/>
+	</game>
+	<game name="PET 2001-8 Personal Computer User Manual (1978-10)(Commodore)">
+		<description>PET 2001-8 Personal Computer User Manual (1978-10)(Commodore)</description>
+		<rom name="PET 2001-8 Personal Computer User Manual (1978-10)(Commodore).pdf" size="4367362" crc="c0a69f8f" md5="6a4d69418f5fb024307eed3c1e878560" sha1="341f1835fa00e28600a05aac5f8e34882196d4b2"/>
+	</game>
+	<game name="Series 8000 Users Guide (1980)(Commodore)">
+		<description>Series 8000 Users Guide (1980)(Commodore)</description>
+		<rom name="Series 8000 Users Guide (1980)(Commodore).pdf" size="3339738" crc="ea3199d4" md5="cd5e4dcd5b5edfdc6596d60dff1f44d2" sha1="90513dcb6857a54da46032861e856c916e51f9b1"/>
+	</game>
+</datafile>

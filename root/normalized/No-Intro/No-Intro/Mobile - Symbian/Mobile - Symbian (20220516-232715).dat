@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>124</id>
+		<name>Mobile - Symbian</name>
+		<description>Mobile - Symbian</description>
+		<version>20220516-232715</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Aqua Blocks+ (USA) (Demo)" id="0014">
+		<description>Aqua Blocks+ (USA) (Demo)</description>
+		<rom name="Aqua Blocks+ (USA) (Demo).sis" size="223804" crc="2ff49b8a" md5="77dd9c55a5bc09baefa93540c36c688b" sha1="fc436e02a6383ca1be564302b2a9f6cda25da144"/>
+	</game>
+	<game name="Atomic (USA)" id="0015">
+		<description>Atomic (USA)</description>
+		<rom name="Atomic (USA).sis" size="173418" crc="b2b75fae" md5="ee9a38aafbf918ed61f61a98daafe54a" sha1="faf16a6c1472703a0f12ef9c2abc158193e82935"/>
+	</game>
+	<game name="Bowling Master (France)" id="0002">
+		<description>Bowling Master (France)</description>
+		<rom name="Bowling Master (France).sis" size="667436" crc="8b3773ff" md5="5d1b8121705ff60ed4dbc523ea5c01a4" sha1="7dda7bbe73b4468fe0f22ad9cff3c2aec828c4c9"/>
+	</game>
+	<game name="Cannons (USA) (Demo)" id="0016">
+		<description>Cannons (USA) (Demo)</description>
+		<rom name="Cannons (USA) (Demo).sis" size="330875" crc="c66e6e6f" md5="b91310753223fc11e6783063a7542c46" sha1="4042a5c9d4245b0e8aacf0addb26125617871941"/>
+	</game>
+	<game name="Cheez! (USA)" id="0017">
+		<description>Cheez! (USA)</description>
+		<rom name="Cheez! (USA).sis" size="242284" crc="914cfe6b" md5="80b7d88cced80aa209276af43da82e71" sha1="835421d02cd28b06ec4960db2a0c36c2b833591e"/>
+	</game>
+	<game name="Dropathon (USA) (Demo)" id="0023" cloneofid="0022">
+		<description>Dropathon (USA) (Demo)</description>
+		<rom name="Dropathon (USA) (Demo).sis" size="241584" crc="304b7b22" md5="bd1402974ea677124e89334f7457ee73" sha1="4c4a7e47d4415921d1c9ffc007e278455ae96f89"/>
+	</game>
+	<game name="Dropathon (USA) (v0.99b) (Demo)" id="0022">
+		<description>Dropathon (USA) (v0.99b) (Demo)</description>
+		<rom name="Dropathon (USA) (v0.99b) (Demo).sis" size="210022" crc="2048ebae" md5="8aff230e4deba355c37b78ff6bcda5f9" sha1="a2fcfd2373510224fbfd1ee57c64f0cd0ed5d3ad"/>
+	</game>
+	<game name="F-Rogger (Europe)" id="0011">
+		<description>F-Rogger (Europe)</description>
+		<rom name="F-Rogger (Europe).sis" size="170680" crc="fb0155d7" md5="bcedd00edd59952f29949b898463bab3" sha1="7e4d887abeb9beac6cb381936c0133b62933237a"/>
+	</game>
+	<game name="Frozen Bubble (France) (En)" id="0009">
+		<description>Frozen Bubble (France) (En)</description>
+		<rom name="Frozen Bubble (France) (En).sis" size="362363" crc="86cf5db6" md5="ef61549f5eddb8998b3f6c4f6c23e91f" sha1="6e6f7477811f65ef58a97be47d6f91df4842bf50"/>
+	</game>
+	<game name="Frozen Bubble (France) (En) (S60)" id="0010" cloneofid="0009">
+		<description>Frozen Bubble (France) (En) (S60)</description>
+		<rom name="Frozen Bubble (France) (En) (S60).sis" size="363112" crc="a1466f77" md5="5e74173d30984f42c7fb9b429d3037ee" sha1="2ea2a16cf82447a8aa3176d14f56a6f211ffb36c"/>
+	</game>
+	<game name="Hangman (Europe)" id="0012">
+		<description>Hangman (Europe)</description>
+		<rom name="Hangman (Europe).sis" size="15901" crc="a1ce7383" md5="f7486f848baeed3374c93e6131418fa8" sha1="9e221493485b7e8fb7bb3eb0e7f847578d0f7ab0"/>
+	</game>
+	<game name="HoverZone (USA) (Demo)" id="0021">
+		<description>HoverZone (USA) (Demo)</description>
+		<rom name="HoverZone (USA) (Demo).sis" size="833814" crc="f4d88fbe" md5="d71e94816bf8987a2d24f74ef1d96ef8" sha1="efbd5226130e24488eb6ef82020e67cc194bedc1"/>
+	</game>
+	<game name="Jack or 100 Ways to Barbecue (Europe) (Demo)" id="0008" cloneofid="0013">
+		<description>Jack or 100 Ways to Barbecue (Europe) (Demo)</description>
+		<rom name="Jack or 100 Ways to Barbecue (Europe) (Demo).sis" size="523541" crc="3a6cd086" md5="ed92267176ecbcd832e799bd553f8c86" sha1="cbbfa053fd116c13876bee22e1eb78564629870d"/>
+	</game>
+	<game name="Jack or 100 Ways to Barbecue (Europe)" id="0013">
+		<description>Jack or 100 Ways to Barbecue (Europe)</description>
+		<rom name="Jack or 100 Ways to Barbeque (Europe).sis" size="559763" crc="2c6c2863" md5="47625f01608f14d63883ebc32e05383e" sha1="f3956c1d32c169d7588a5f053888f3af58ef29a7"/>
+	</game>
+	<game name="Legacy (USA)" id="0019">
+		<description>Legacy (USA)</description>
+		<rom name="Legacy (USA).sis" size="3592742" crc="723c1fa8" md5="94db21b421111f66434a67e966b8fe4a" sha1="938e2a8fde657dd887afc900dbc8ff0e3ea0cd5d"/>
+	</game>
+	<game name="Meltdown (USA)" id="0018">
+		<description>Meltdown (USA)</description>
+		<rom name="Meltdown (USA).sis" size="286710" crc="240292c4" md5="02e0f8f87072fe1152e8531bc9405d63" sha1="0318a2803b6254ba452b9a9151a729c64ba74cc9"/>
+	</game>
+	<game name="Meteor (USA) (Demo)" id="0020">
+		<description>Meteor (USA) (Demo)</description>
+		<rom name="Meteor (USA) (Demo).sis" size="519595" crc="0de51ab7" md5="418cdc99d201e5ee004a5dd8309c0d0f" sha1="472867be3385e61db324635d7eb0a140d1732831"/>
+	</game>
+	<game name="MotoGear (France) (Nx0)" id="0005" cloneofid="0004">
+		<description>MotoGear (France) (Nx0)</description>
+		<rom name="MotoGear (France) (Nx0).sis" size="1226410" crc="cc9dc2a8" md5="b7c11784d33f3ff91a0f0845d3fc7daa" sha1="ef62ea077f4f041648e85e6f9455c4995e66f7d0"/>
+	</game>
+	<game name="MotoGear (France)" id="0004">
+		<description>MotoGear (France)</description>
+		<rom name="MotoGear (France).sis" size="1226344" crc="46002cc2" md5="84529893ea45ea6d1e569932d00c014a" sha1="d3a722a8fe3a7c0142ece8f251eeab971ab48501"/>
+	</game>
+	<game name="QBubbleMP (Europe)" id="0024">
+		<description>QBubbleMP (Europe)</description>
+		<rom name="QBubbleMP (Europe).sis" size="226676" crc="b8efaa68" md5="be532e80bc14f33bc3ad6e503a76e2ae" sha1="7748b39aed04322018001c29ede93aa1b13eb0af"/>
+	</game>
+	<game name="Quartz 2 (USA) (S60) (Demo)" id="0026">
+		<description>Quartz 2 (USA) (S60) (Demo)</description>
+		<rom name="Quartz 2 (USA) (S60) (Demo).sis" size="309955" crc="fc313a51" md5="7ded53d458cd8a723aca62ec7db1e752" sha1="7d1328fb998805fb9c773defffda4751f47243a4"/>
+	</game>
+	<game name="Quartz 2 (USA) (UIQ) (Demo)" id="0027" cloneofid="0026">
+		<description>Quartz 2 (USA) (UIQ) (Demo)</description>
+		<rom name="Quartz 2 (USA) (UIQ) (Demo).sis" size="368692" crc="86f75dbe" md5="9a1395cb2cde45bafb313490969161b0" sha1="0716167629e22ff08f877203a11737fba49d1bf1"/>
+	</game>
+	<game name="Space Impact (USA)" id="0001">
+		<description>Space Impact (USA)</description>
+		<rom name="Space Impact (USA).sis" size="553707" crc="0d509c10" md5="4a6a6bf1e714c16581839e492e418aec" sha1="45a58cbcc843d313b634730f01fa7f0e1b3eeb6b"/>
+	</game>
+	<game name="Sudoku Pro (France)" id="0003">
+		<description>Sudoku Pro (France)</description>
+		<rom name="Sudoku Pro (France).sis" size="200214" crc="b9ead4ec" md5="ebb4ed3a457ad2d0ad337d1a66bef5d9" sha1="9193522c90b79ed4f02b2be26fa3571e0101f4dd"/>
+	</game>
+	<game name="Sugatris (USA)" id="0025">
+		<description>Sugatris (USA)</description>
+		<rom name="Sugatris (USA).sis" size="61936" crc="21c2a484" md5="bf159f9b0554eaf0823fc8c2a72c7610" sha1="1ad9fe7f016f3152e382e4ea493c8d7f621345b3"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En,Fr,De) (Demo)" id="0007" cloneofid="0006">
+		<description>V-Rally - Championship Edition (Japan) (En,Fr,De) (Demo)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En,Fr,De) (Demo).sis" size="857234" crc="9c87e871" md5="c96e89d51f58ed774ffbabeba6bc35cd" sha1="b41bb68fd873d6d158c553d0ac921cb0eaea6227"/>
+	</game>
+	<game name="V-Rally - Championship Edition (Japan) (En,Fr,De)" id="0006">
+		<description>V-Rally - Championship Edition (Japan) (En,Fr,De)</description>
+		<rom name="V-Rally - Championship Edition (Japan) (En,Fr,De).sis" size="957633" crc="f3e73b5d" md5="8dcc4360b7315b58285ec98f0eb30f9e" sha1="48952483a8426da6df18fcd3bf679f833fd2b8ba"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Shoot&apos;em Up - [ARC]</name>
+		<description>Commodore C64 - Games - Shoot&apos;em Up - [ARC] (TOSEC-v2022-12-06)</description>
+		<category>TOSEC</category>
+		<version>2022-12-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Creeps (19xx)(Keypunch Software)">
+		<description>Creeps (19xx)(Keypunch Software)</description>
+		<rom name="Creeps (19xx)(Keypunch Software).arc" size="13824" crc="698d4af8" md5="d969e25e0ba98e0d2580611c18264c33" sha1="b6d43225e4c14206447f06ffecaab78aff6824ef"/>
+	</game>
+	<game name="Fighter Jet (19xx)(Bob Akerberg)">
+		<description>Fighter Jet (19xx)(Bob Akerberg)</description>
+		<rom name="Fighter Jet (19xx)(Bob Akerberg).arc" size="7168" crc="58851916" md5="5f5a3c1ebc4d8cc3be64c572827511cb" sha1="6ff847e0966b5249b219805c05e059cee2d45042"/>
+	</game>
+	<game name="Fighter Jet (19xx)(Bob Akerberg)[a]">
+		<description>Fighter Jet (19xx)(Bob Akerberg)[a]</description>
+		<rom name="Fighter Jet (19xx)(Bob Akerberg)[a].arc" size="7169" crc="268edfc5" md5="ecdb8653b38a68519e7564bb579d485c" sha1="4ccd4019ce7d200eb101a513e4f596aa89898e86"/>
+	</game>
+	<game name="Martian Crusher (19xx)((Zimmerman, Bo)(PD)">
+		<description>Martian Crusher (19xx)((Zimmerman, Bo)(PD)</description>
+		<rom name="Martian Crusher (19xx)((Zimmerman, Bo)(PD).arc" size="9652" crc="53e1bb51" md5="bab76e92037639d87a4e950157a636c7" sha1="1fd1948e09e644b7da99596c8b294b77f140d095"/>
+	</game>
+	<game name="Multiraid (1994)(COMPUTE!&apos;s Gazette - COMPUTE! Publications)[SEUCK]">
+		<description>Multiraid (1994)(COMPUTE!&apos;s Gazette - COMPUTE! Publications)[SEUCK]</description>
+		<rom name="Multiraid (1994)(COMPUTE!&apos;s Gazette - COMPUTE! Publications)[SEUCK].arc" size="46736" crc="e1da0bbb" md5="ae7e41bed4a2b8280732c0ea9fd83c29" sha1="cc2c4b9e103645b62c2e5ac84a392268f63ee2d3"/>
+	</game>
+</datafile>

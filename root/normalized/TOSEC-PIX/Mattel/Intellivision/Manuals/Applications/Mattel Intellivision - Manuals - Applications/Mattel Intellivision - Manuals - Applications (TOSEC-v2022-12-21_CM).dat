@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision - Manuals - Applications</name>
+		<description>Mattel Intellivision - Manuals - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Demonstration Cartridge (1983)(Mattel)(US)">
+		<description>Demonstration Cartridge (1983)(Mattel)(US)</description>
+		<rom name="Demonstration Cartridge (1983)(Mattel)(US).pdf" size="14924" crc="1de0e235" md5="11b5b703f69074cbcffc1ea02ed871bc" sha1="4e881bc0648fb34d0bf267099608b038e0c2a30b"/>
+	</game>
+	<game name="Melody Blaster (1983)(Mattel)(US)">
+		<description>Melody Blaster (1983)(Mattel)(US)</description>
+		<rom name="Melody Blaster (1983)(Mattel)(US).pdf" size="5929005" crc="ee74c48b" md5="3c97671e88c537fbbf50bf6768262f19" sha1="bbd0f0967273bb1cf37b77e08a826186a70059a1"/>
+	</game>
+	<game name="Melody Blaster (1983)(Mattel)(US)[insert]">
+		<description>Melody Blaster (1983)(Mattel)(US)[insert]</description>
+		<rom name="Melody Blaster (1983)(Mattel)(US)[insert].pdf" size="36223" crc="20de7567" md5="5367b02fa13197ce595868a8f7d8e2b0" sha1="6ba6a1df74571c2a38310a3b4e2d5967007d383d"/>
+	</game>
+</datafile>

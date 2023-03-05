@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Triumph-Adler Alphatronic PC - Games</name>
+		<description>Triumph-Adler Alphatronic PC - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).rom" size="16384" crc="d2ca3d5f" md5="4cfa89b7ced1a57b48b953c9866096db" sha1="435119d6f791c1edb6efcfa591954ee7bb71f83c"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).rom" size="16384" crc="6ec41ae7" md5="bba2bd5dcb4e2df1d16e0901bedeb657" sha1="4626e2c0e483ba9ee8201f306af8104b0418358e"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).rom" size="16384" crc="1bb964bd" md5="f62cdea641b5f02c84723e0761069707" sha1="756cded47a602d936efca2846cc34a84ae81dc9b"/>
+	</game>
+</datafile>

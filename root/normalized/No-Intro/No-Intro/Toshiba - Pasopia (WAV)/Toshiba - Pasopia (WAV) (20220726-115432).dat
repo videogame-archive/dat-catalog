@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>208</id>
+		<name>Toshiba - Pasopia (WAV)</name>
+		<description>Toshiba - Pasopia (WAV)</description>
+		<version>20220726-115432</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Golf, The (Japan)" id="0001">
+		<description>Golf, The (Japan)</description>
+		<rom name="Golf, The (Japan).wav" size="19156507" crc="916e814e" md5="4cdb3ca53709dabe42c5811ebd7711c1" sha1="2e2c61129cc2359b35e1aa9d88130326b7b5ca66" sha256="594970560dd744a821188ed060d75d4df153b1ae578fd4fd2c09d8df751fc44e"/>
+	</game>
+	<game name="Part Timer's Pay Calculator (Japan)" id="0012">
+		<description>Part Timer's Pay Calculator (Japan)</description>
+		<rom name="Part Timer's Pay Calculator (Japan).wav" size="14950165" crc="d7c6745d" md5="3b6ad2aa882a74fedc7646b84e232c53" sha1="fc0ae43e62128e02000bf534c156ac1c0eebb63b"/>
+	</game>
+	<game name="Pasopia Derby (Japan)" id="0002">
+		<description>Pasopia Derby (Japan)</description>
+		<rom name="Pasopia Derby (Japan).wav" size="13059875" crc="0c2702f7" md5="1d9872f5e3b9e557664d390ea6ae73a6" sha1="544e120e0dc5d226072371841e5e1982f015353b" sha256="123d16d7c3c6a24c8ab17594d51be18c079250e924d29e032c17510c7950b8ba"/>
+	</game>
+	<game name="Pasopia Game Highlight (Japan)" id="0011">
+		<description>Pasopia Game Highlight (Japan)</description>
+		<rom name="Pasopia Game Highlight (Japan).wav" size="80066535" crc="5849a0f8" md5="5e62fe3581b5d4cad42e10b0a68faba6" sha1="7c64bb429033b0f39a703524546bc96ae706d3cf" sha256="d29713dcf6a1cbbb0a3f590a5a7143d1131c7322365f5025fbdd785bb95631f5"/>
+	</game>
+	<game name="Pasopia Game Shuu (Japan)" id="0010">
+		<description>Pasopia Game Shuu (Japan)</description>
+		<rom name="Pasopia Game Shuu (Japan).wav" size="68596062" crc="f8a3ea13" md5="12b4f18bed3271f6c517ca4f356214c8" sha1="01436203bb2e7a1b7f3adec812f6d2edebcb2cc7" sha256="b2f07df8b98bfd21b27ca4393ec3de639f252a2610b392b31f2ae14cfd84f81b"/>
+	</game>
+	<game name="Toshiba Pasopia Sample Programs (Japan)" id="0013">
+		<description>Toshiba Pasopia Sample Programs (Japan)</description>
+		<rom name="Toshiba Pasopia Sample Programs (Japan).wav" size="22310064" crc="98069673" md5="0cfbaf6e36fa7c07a5b1a2bf9f75a2a2" sha1="7500579c6b43736fdcb17d6929af8a7077ca72e8"/>
+	</game>
+</datafile>

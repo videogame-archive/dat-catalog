@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Wii - Books</name>
+		<description>Nintendo Wii - Books (TOSEC-v2011-03-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-03-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Wii Pocket Guide (2007)(Peachpit Press)">
+		<description>Nintendo Wii Pocket Guide (2007)(Peachpit Press)</description>
+		<rom name="Nintendo Wii Pocket Guide (2007)(Peachpit Press).pdf" size="4729368" crc="361c15c9" md5="a30509f3885d131f0abb8e4327af1a88" sha1="54e11d5264ac65871ba3e5197dcf7b82ec0c23f3"/>
+	</game>
+	<game name="Wii Fitness for Dummies (2010)(Wiley Publishing)">
+		<description>Wii Fitness for Dummies (2010)(Wiley Publishing)</description>
+		<rom name="Wii Fitness for Dummies (2010)(Wiley Publishing).pdf" size="5401529" crc="507ea86a" md5="4ffb73c0661117af42a7ab613eeb2524" sha1="d39170570075105c5435b6dc15b938ba238aa8c5"/>
+	</game>
+	<game name="Wii For Dummies (2008)(Wiley Publishing)">
+		<description>Wii For Dummies (2008)(Wiley Publishing)</description>
+		<rom name="Wii For Dummies (2008)(Wiley Publishing).pdf" size="7809463" crc="925f4013" md5="8d02eb40a42ca0c8fba41e1a1573fc6e" sha1="ed8ec60488639a56c96e4e44dbc6189e1e3665c0"/>
+	</game>
+	<game name="Wii for Dummies (2008)(Wiley Publishing)[a]">
+		<description>Wii for Dummies (2008)(Wiley Publishing)[a]</description>
+		<rom name="Wii for Dummies (2008)(Wiley Publishing)[a].pdf" size="6102998" crc="8bf2169d" md5="74e791fcf4343bc4e0a821460bd47937" sha1="c9750c0bfdbb53829a8da07a36689b392d9d3f79"/>
+	</game>
+</datafile>

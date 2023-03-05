@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Arcade - [ARK]</name>
+		<description>Commodore C64 - Games - Arcade - [ARK] (TOSEC-v2022-04-24)</description>
+		<category>TOSEC</category>
+		<version>2022-04-24</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Double Dragon (1989)(Melbourne House)[cr HTL][h Atomic Punks][t +4 HTL]">
+		<description>Double Dragon (1989)(Melbourne House)[cr HTL][h Atomic Punks][t +4 HTL]</description>
+		<rom name="Double Dragon (1989)(Melbourne House)[cr HTL][h Atomic Punks][t +4 HTL].ark" size="85344" crc="2c5830ae" md5="fcb1184d1c970929e23dfcbfedbceb23" sha1="7740f31ad1304602606dcd2c61c33476299b6950"/>
+	</game>
+	<game name="Dragon Ninja (1989)(Imagine)[cr DCS+ATC][t +4]">
+		<description>Dragon Ninja (1989)(Imagine)[cr DCS+ATC][t +4]</description>
+		<rom name="Dragon Ninja (1989)(Imagine)[cr DCS+ATC][t +4].ark" size="57150" crc="576c659b" md5="e94d8c75f08c554c9bfcdcf0a9b43dab" sha1="ab3fdab4663c1aaa7c8ffd62a82ce9819d0f9dc0"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Commercials - Hardware</name>
+		<description>Nintendo 64 - Commercials - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo 64 (1997)(Nintendo)(AU)">
+		<description>Nintendo 64 (1997)(Nintendo)(AU)</description>
+		<rom name="Nintendo 64 (1997)(Nintendo)(AU).mp4" size="9391410" crc="5a168325" md5="f9f798b05b847594596a038bb88ad3c9" sha1="0a6ca351619d33a6a3c635c0dd4689d1cfd1ac09"/>
+	</game>
+	<game name="Nintendo 64 - Six Color Struggle (2000)(Nintendo)(US)">
+		<description>Nintendo 64 - Six Color Struggle (2000)(Nintendo)(US)</description>
+		<rom name="Nintendo 64 - Six Color Struggle (2000)(Nintendo)(US).mp4" size="2392522" crc="147bf17a" md5="1d3ae734cfe3b4ba5cb089eed62304cb" sha1="750c2ea30ce68d2f8335fb38b5857832cac958fa"/>
+	</game>
+	<game name="Nintendo 64 with Gold Controller (1998)(Nintendo)(AU)">
+		<description>Nintendo 64 with Gold Controller (1998)(Nintendo)(AU)</description>
+		<rom name="Nintendo 64 with Gold Controller (1998)(Nintendo)(AU).mp4" size="2759775" crc="e67cb16e" md5="e3d42d3263d6001c11ea518fc8edb761" sha1="90e502bcb20229d5badf35f4a31e21ac53023935"/>
+	</game>
+</datafile>

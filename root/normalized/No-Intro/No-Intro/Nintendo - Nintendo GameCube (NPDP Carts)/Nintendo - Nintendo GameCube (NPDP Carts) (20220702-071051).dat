@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>261</id>
+		<name>Nintendo - Nintendo GameCube (NPDP Carts)</name>
+		<description>Nintendo - Nintendo GameCube (NPDP Carts)</description>
+		<version>20220702-071051</version>
+		<author>Hiccup, relax, togemet2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Gun (USA) (Beta) (2004-04-07)" id="0001">
+		<description>Gun (USA) (Beta) (2004-04-07)</description>
+		<rom name="Gun (USA) (Beta) (2004-04-07).iso" size="1459978240" crc="c98922bb" md5="d556b453ce46d0b521722f11eee22fcc" sha1="55999e5c50edc82bb4ed93beb1d6b51d641698d8" sha256="efc1e3cd43b51b1c08e33083e57f69c266e7c44707a87f5ba3974c5b07c36ccf" serial="G2TE"/>
+	</game>
+	<game name="Memory Card Tool (Unknown) (Program)" id="0009">
+		<description>Memory Card Tool (Unknown) (Program)</description>
+		<rom name="Memory Card Tool (Unknown) (Program).iso" size="1459978240" crc="ee959c7e" md5="1ecfd29e8b723e7239e2b6755c7eb753" sha1="ba2050fddb5ba172e8fad55d357f8042a1430060" sha256="3a6b1de8eb0576bb161dad3b5fe8c0cb1efb1a1a32415eb1cc9037e220ee643e"/>
+	</game>
+	<game name="Memory Card Tool (Unknown) (Alt) (Program)" id="0010" cloneofid="0009">
+		<description>Memory Card Tool (Unknown) (Alt) (Program)</description>
+		<rom name="Memory Card Tool (Unknown) (Alt) (Program).iso" size="1459978240" crc="0c20db86" md5="efa23737d1df50a1a14fd329c6a9e943" sha1="613adf9e4c5ff341260ff1c1f6d0d11ed5d787cf" sha256="6ef055b0e626ec7e132ab7ee0a197eea9d398ed4863d8bbe17d8acd4d42372cb"/>
+	</game>
+	<game name="Metroid Prime 3 - Corruption (USA) (Demo) (Kiosk, E3 2006)" id="0011">
+		<description>Metroid Prime 3 - Corruption (USA) (Demo) (Kiosk, E3 2006)</description>
+		<rom name="Metroid Prime 3 - Corruption (USA) (Demo) (Kiosk, E3 2006).iso" size="1459978240" crc="97ba74c5" md5="2f8a935e5209f6ae86923e977c86de67" sha1="c84d04d98919c45502dcb54db3e2cd3bf6969b91" sha256="400a87852acecac9079494ec7f291208fd95368686f92a58ce14ccd1a17c3132"/>
+	</game>
+	<game name="Pirates of the Caribbean (USA) (Proto) (2004-04-05)" id="0002">
+		<description>Pirates of the Caribbean (USA) (Proto) (2004-04-05)</description>
+		<rom name="Pirates of the Caribbean (USA) (Proto) (2004-04-05).iso" size="1459978240" crc="f1eef03f" md5="1d3608f19a16f0d9d1f4296104d7e13c" sha1="80f0fc50a2602f1281cf84aa2d44cf330dcf50b3" sha256="3d49fa4e6e4322c2ba95b10c2a9e389b3ccaed1d6fc842c4779736156da78839" serial="GXPE"/>
+	</game>
+	<game name="Ratatouille (USA) (Beta 2)" id="0004">
+		<description>Ratatouille (USA) (Beta 2)</description>
+		<rom name="Ratatouille (USA) (Beta 2).iso" size="1459978240" crc="7b595396" md5="027171c92d603ae4c90d69956d0bd94a" sha1="ba44bbe5780c34d2a6ebd66eeed52eaaab941468" sha256="61482c63289902767598a2f0bd8ebf44992190186fcd4e5e38301e7266f7c688" serial="GIQE"/>
+	</game>
+	<game name="Ratatouille (USA) (Beta 1) (2006-01-18)" id="0005" cloneofid="0004">
+		<description>Ratatouille (USA) (Beta 1) (2006-01-18)</description>
+		<rom name="Ratatouille (USA) (Beta 1) (2006-01-18).iso" size="1459978240" crc="524b2418" md5="e277ac9371b89ac6c06588a65c4d0c2d" sha1="0901c7a4fbbd9a8ba86589513a7d37e546cfb6c6" sha256="b60ae1c08cd86e11fd3f0c54a2027a895d8495888c542e9ee6dd884226ee9860" serial="RELS"/>
+	</game>
+	<game name="Sonic Heroes (USA) (Beta)" id="0013">
+		<description>Sonic Heroes (USA) (Beta)</description>
+		<rom name="Sonic Heroes (USA) (Beta).iso" size="1459978240" crc="dafde48b" md5="95c1feb22eb3271e9d89fcbbcaaed50e" sha1="949ddae3973272f622c422a66262cf4639bbd497"/>
+	</game>
+	<game name="Sonic Heroes (Japan) (Beta)" id="0012">
+		<description>Sonic Heroes (Japan) (Beta)</description>
+		<rom name="Sonic Heroes (Japan) (Beta).iso" size="1459978240" crc="e291dd98" md5="42c93193d0b50a2aba3cf56071c8c892" sha1="35219e4e4e9120aa24862fa9f2622b7b3a4d2540"/>
+	</game>
+	<game name="Summoner - The Prophecy (USA) (Beta) (Rev 1121A)" id="0006" cloneofid="0007">
+		<description>Summoner - The Prophecy (USA) (Beta) (Rev 1121A)</description>
+		<rom name="Summoner - The Prophecy (USA) (Beta) (Rev 1121A).iso" size="1459978240" crc="16d7bcce" md5="9f4fb9ee478d0b808ee0234950b69234" sha1="07e402efe512f5b664bc8f3a6f43ec36da6afa03" sha256="7b5c0603a3627dfc60c24cdcf37261c874200955a9acfa39bebdee4c1c9e9d47" serial="RELS"/>
+	</game>
+	<game name="Summoner - The Prophecy (USA) (Beta) (Rev 1121B)" id="0007">
+		<description>Summoner - The Prophecy (USA) (Beta) (Rev 1121B)</description>
+		<rom name="Summoner - The Prophecy (USA) (Beta) (Rev 1121B).iso" size="1459978240" crc="146e4a5a" md5="ff5f979d070b96dc71cbdb6194556078" sha1="7f40be75acaf413f635726221714493582e7330d" sha256="e0f9a4adf5156199a836e412803e7c5075eeea2d3b239ceb89192f94eb7b547d" serial="RELS"/>
+	</game>
+</datafile>

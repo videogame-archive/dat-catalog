@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Demos - [D81]</name>
+		<description>Commodore C64 - Demos - [D81] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Courtesy of Soviet (19xx)(Master)">
+		<description>Courtesy of Soviet (19xx)(Master)</description>
+		<rom name="Courtesy of Soviet (19xx)(Master).d81" size="819200" crc="928c6931" md5="05424dc94bf3314e207d2b296b2c8307" sha1="bf14e8a594868f3b67c71fe31ebc6bb92ccbc7f2"/>
+	</game>
+	<game name="Triage 2 (19xx)(Master - Smash Designs)">
+		<description>Triage 2 (19xx)(Master - Smash Designs)</description>
+		<rom name="Triage 2 (19xx)(Master - Smash Designs).d81" size="819200" crc="2749fc59" md5="6fcfa798eb686fa2fb75b40ee9bfb4d2" sha1="b091a6edb96b928cd9826ad67bea7ce82a1604c9"/>
+	</game>
+	<game name="Void (19xx)(Coma - Master - Resource)">
+		<description>Void (19xx)(Coma - Master - Resource)</description>
+		<rom name="Void (19xx)(Coma - Master - Resource).d81" size="819200" crc="725ee076" md5="33bbe119b5037aa1ec4a96128866628d" sha1="05c7be71135d2f6d358f82cd0c1287f730e9c4a0"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-6001 - Games - [ROM]</name>
+		<description>NEC PC-6001 - Games - [ROM] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-21)(Inufuto)(JP)">
+		<description>Ascend (2022-03-21)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-21)(Inufuto)(JP).rom" size="8107" crc="546f3bcb" md5="23d324af0b8c61af3eebf4dc3ba7e6ae" sha1="7120abe8b78d936faf2e0e9bb9a14c5df6a2a6c3"/>
+	</game>
+	<game name="Tutankham (1982)(Konami)(JP)">
+		<description>Tutankham (1982)(Konami)(JP)</description>
+		<rom name="Tutankham (1982)(Konami)(JP).rom" size="4096" crc="7a114d77" md5="702ebf58ad9fbfb527d1b5b2ac718c3b" sha1="d0920e7d9d2a26530037350bf8399494ab0df0c5"/>
+	</game>
+</datafile>

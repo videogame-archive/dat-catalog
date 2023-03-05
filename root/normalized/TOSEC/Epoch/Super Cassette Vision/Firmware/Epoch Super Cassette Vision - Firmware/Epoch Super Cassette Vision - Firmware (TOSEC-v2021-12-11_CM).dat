@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epoch Super Cassette Vision - Firmware</name>
+		<description>Epoch Super Cassette Vision - Firmware (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle - proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Super Cassette Vision BIOS (1984)(Epoch)(FR-JP)">
+		<description>Super Cassette Vision BIOS (1984)(Epoch)(FR-JP)</description>
+		<rom name="Super Cassette Vision BIOS (1984)(Epoch)(FR-JP).bin" size="4096" crc="7ac06182" md5="635a978fd40db9a18ee44eff449fc126" sha1="6e89d1227581c76441a53d605f9e324185f1da33"/>
+	</game>
+	<game name="Super Cassette Vision Character ROM (1984)(Epoch)(FR-JP)[b]">
+		<description>Super Cassette Vision Character ROM (1984)(Epoch)(FR-JP)[b]</description>
+		<rom name="Super Cassette Vision Character ROM (1984)(Epoch)(FR-JP)[b].bin" size="1024" crc="db521533" md5="929617bc739e58e550fe9025cae4158b" sha1="40b4e44838c35191f115437a14f200f052e71509"/>
+	</game>
+</datafile>

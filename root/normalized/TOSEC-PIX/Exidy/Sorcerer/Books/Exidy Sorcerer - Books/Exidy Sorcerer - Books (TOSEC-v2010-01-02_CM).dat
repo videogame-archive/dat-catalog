@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Books</name>
+		<description>Exidy Sorcerer - Books (TOSEC-v2010-01-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Guided Tour Of Personal Computing, A (1979-02)(Exidy)">
+		<description>Guided Tour Of Personal Computing, A (1979-02)(Exid)</description>
+		<rom name="Guided Tour Of Personal Computing, A (1979-02)(Exidy).pdf" size="5402432" crc="e74db5b3" md5="aafa776c0b51eb240e8364d7a39b22cf" sha1="0229dced974cc86b5ca89335bc7873525a53483b"/>
+	</game>
+	<game name="Short Tour Of BASIC, A (1978-07)(Exidy)">
+		<description>Short Tour Of BASIC, A (1978-07)(Exidy)</description>
+		<rom name="Short Tour Of BASIC, A (1978-07)(Exidy).pdf" size="6431172" crc="53dd7c81" md5="9fe68462e57a37d43b73ef301acac10f" sha1="ff27fa4f45d54f7e75cd7477499ee6e83d3e3e1d"/>
+	</game>
+	<game name="Exidy Software Internals Manual (1979)(Tolomei, Vic)">
+		<description>Exidy Software Internals Manual (1979)(Tolomei, Vic)</description>
+		<rom name="Exidy Software Internals Manual (1979)(Tolomei, Vic).pdf" size="2943096" crc="a04b817c" md5="71ade5cfdf4c288c696f9b766db29d9d" sha1="8679afc9fc50891137c050a0ac8a177d7e04b9f9"/>
+	</game>
+	<game name="Software Internal Manual for the Sorcerer (1979)(Quality Software)">
+		<description>Software Internal Manual for the Sorcerer (1979)(Quality Software)</description>
+		<rom name="Software Internal Manual for the Sorcerer (1979)(Quality Software).pdf" size="12278190" crc="a2ee328f" md5="5291ad2eedcc59f7360c3154f5bf2610" sha1="4de5c99cc5a082d6cbd0e7136dce7c1b0d9573b8"/>
+	</game>
+</datafile>

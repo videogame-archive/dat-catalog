@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Game Boy Advance - Catalogs</name>
+		<description>Nintendo - Game Boy Advance - Catalogs (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GameBoy Advance (2001)(Nintendo)(US)">
+		<description>GameBoy Advance (2001)(Nintendo)(US)</description>
+		<rom name="GameBoy Advance (2001)(Nintendo)(US).pdf" size="32355896" crc="b42aa244" md5="34e4eeca0a1e168d02f1a13f19d6e997" sha1="85bce766d4fa8321405d89d84a41bb5a2b78562a"/>
+	</game>
+</datafile>

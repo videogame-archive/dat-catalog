@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>153</id>
+		<name>Non-Redump - Atari - Atari Jaguar CD</name>
+		<description>Non-Redump - Atari - Atari Jaguar CD</description>
+		<version>20221104-083106</version>
+		<author>Hiccup, NovaAurora, Seventy7</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="American Hero (USA) (Proto) (Movie Only)" id="0001">
+		<description>American Hero (USA) (Proto) (Movie Only)</description>
+		<rom name="AHENC\burn.bat" size="110" crc="b3ae9c09" md5="01ffd394fbdfd01fc687b8fb21a80c08" sha1="76e2698364aa887f6b6b7005112c7977138669bc"/>
+		<rom name="AHENC\cdrecord.exe" size="190464" crc="32710886" md5="86d5527292a7145503768884009c1836" sha1="ed9bceb4d1521a97412da115fafa1e75cd8c18f7"/>
+		<rom name="AHENC\cygwin1.dll" size="629760" crc="134275d6" md5="596938bda60e655b82a68adb315e3bc6" sha1="44a6212971f9df1a8dee4e2d9d831144ffd15760"/>
+		<rom name="AHENC\Encryption files\boot.raw" size="81920" crc="5a1b9208" md5="8cccafdd04bb14f3646e03ecd5e3a496" sha1="81aaa3e084e167c0ffc16668795b0f9399384b99"/>
+		<rom name="AHENC\Encryption files\CDREPORT.TXT" size="539" crc="1b6cd9f9" md5="44199ef2acddf3475dec097539dd487f" sha1="c4e9ff644bdf9e605308c57d1ab1706132e26bc3"/>
+		<rom name="AHENC\Encryption files\dummy05.raw" size="1048578" crc="5eb22acb" md5="a37a3308583196365791f636dfc4a282" sha1="51cfa8628793f8bc78919d39bbdd4c818cc96f9e"/>
+		<rom name="AHENC\Encryption files\HASHTAB.CD" size="156192" crc="1645af0c" md5="2afdadb549d48a58f483e4f2bacc5cb9" sha1="26d8984f4d44bbed86b35c8d6cc35e63b6e3a5a8"/>
+		<rom name="AHENC\Encryption files\TOC.DAT" size="256" crc="5e12e6f5" md5="703408a3d49d48b79007c886ecff31b1" sha1="9e94d2d6a1fd48e92ee3f5cef9d8e65394f65bea"/>
+		<rom name="AHENC\track02.raw" size="1048576" crc="1d08c6a7" md5="2f93b1786432041e16719585d40be410" sha1="c961217d0845bf8a4550b13a578a7ee8aa13e89f"/>
+		<rom name="AHENC\track03.raw" size="1246816" crc="583c37f1" md5="42d9c5ae6c53a33fd1f24209d359d1ec" sha1="46698aa8dec998d5a1704070e754c694c90754e7"/>
+		<rom name="AHENC\track04.raw" size="340588674" crc="5fed5315" md5="1141c6cb94f1892f42f210394bcb3200" sha1="fa6f8929fadf3948537209ebf7ecaa375bc97ee4"/>
+		<rom name="AHENC\track05.raw" size="1048578" crc="65335158" md5="9798c81836a1fd7d7b39017dfd9d15ee" sha1="f0aa15767c1a4c2d1b403dbae7f270bc7f2ab7a9"/>
+		<rom name="AHENC\Warning.wav" size="3631012" crc="9549d8b1" md5="98bb4a2f926af3e96e0d53142409fc96" sha1="f66cb6b12d985ac34ddc675a2ab949cdb0d823b6"/>
+	</game>
+	<game name="American Hero (USA) (Proto) (Movie B)" id="0011">
+		<description>American Hero (USA) (Proto) (Movie B)</description>
+		<rom name="American Hero (USA) (Proto) (Movie B).cdi" size="664243973" crc="4d39ce9c" md5="cf3cbcd37793446087758686c044f6ac" sha1="8f04b0e8dfab9db9296c7b6c8a4c1f572456f311"/>
+	</game>
+	<game name="American Hero (USA) (Proto) (Movie A) (Disc 2)" id="0009">
+		<description>American Hero (USA) (Proto) (Movie A) (Disc 2)</description>
+		<rom name="American Hero (USA) (Proto) (Movie A) (Disc 2).cdi" size="609628005" crc="5a85207e" md5="38ed75c7194ac858cac6431f17edaeea" sha1="892165c9922817e0e9d90c125345ce0d0350a81d"/>
+	</game>
+	<game name="American Hero (USA) (Proto) (Movie A) (Disc 1)" id="0010">
+		<description>American Hero (USA) (Proto) (Movie A) (Disc 1)</description>
+		<rom name="American Hero (USA) (Proto) (Movie A) (Disc 1).cdi" size="364358481" crc="cb4d00fd" md5="9add7f8b072ec48600bfe0cdeeb8223c" sha1="76c127ee09b650698d3a95c5d7b55b3f32be55db"/>
+	</game>
+	<game name="Black ICE - White Noise (USA) (Proto)" id="0012">
+		<description>Black ICE - White Noise (USA) (Proto)</description>
+		<rom name="Black ICE - White Noise (USA) (Proto).cdi" size="614320521" crc="6decac0e" md5="fd8c8288b049c291c8166b07af47f27c" sha1="b44d5a71d25918b15bbeee0ae2af2cf3e9b18230"/>
+	</game>
+	<game name="Blue Lightning (Unknown) (Beta) (1994-12-05)" id="0002">
+		<description>Blue Lightning (Unknown) (Beta) (1994-12-05)</description>
+		<rom name="5dec94\BLUE.ABS" size="295029" crc="8b83431c" md5="4ecf3e0a1e35eb1f393a4bfbb0e6bf47" sha1="84622dccbc588b13cc0761ae1da2684a9f55acea"/>
+		<rom name="5dec94\BLUE.TOC" size="1024" crc="b98b02e8" md5="0cba9a3523ee199f81e865ce5a4312b1" sha1="05edff641f0a130e6bbce798334aa7b01a0b4970"/>
+		<rom name="5dec94\README.TXT" size="1822" crc="c702a82b" md5="ceae351156044a6627045ffead5decb6" sha1="451eea8ec9ed7b03c86ad7659e4ac08af2f38f93"/>
+	</game>
+	<game name="Blue Lightning (Unknown) (Beta) (1995-04-11)" id="0007">
+		<description>Blue Lightning (Unknown) (Beta) (1995-04-11)</description>
+		<rom name="T6M1.BIN" size="709000" crc="f5a54bba" md5="52c24118dce7e718dde7d451d613a7bf" sha1="f71a4fe684bbfa62bdd9751ff8ffe756426ca472"/>
+		<rom name="T6M2.BIN" size="706768" crc="e8a90f9d" md5="53bdcdd9301a8242abea7e2690b9e128" sha1="3b5f3d88d00feb803f5b39a8531f7b819b9481fc"/>
+		<rom name="T6M3.BIN" size="709320" crc="dd800671" md5="c47b96a5b438b886a2b1bb2273b53c01" sha1="7a8ca0c4454ec5c0119a3016a6a5093b6af60a3b"/>
+		<rom name="T6M4.BIN" size="691776" crc="29e1c9db" md5="050d5a8b9f0f425286b3aa2ae04a7df0" sha1="77bdfb1641d6f4e315f706b1e6139ab7a52973f2"/>
+	</game>
+	<game name="Blue Lightning (Unknown) (Beta) (1995-04-10)" id="0006">
+		<description>Blue Lightning (Unknown) (Beta) (1995-04-10)</description>
+		<rom name="T4M1.BIN" size="690632" crc="c733633a" md5="ee8864f5459f6fe162237c13225bc39a" sha1="bc561eda8d8e7d8b884162373d01fd1a9b588449"/>
+		<rom name="T4M2.BIN" size="691576" crc="f603caa9" md5="091523eb9b2c8c424ab2afb0853fd678" sha1="b75640deb4fa14b3a22444943fd96b3fbfebf1f6"/>
+		<rom name="T4M3.BIN" size="723648" crc="414485c6" md5="5ca6eb9781c194bd790d76fb53ae5e76" sha1="ecdf5e5e5497820b2b4b8c83c09b83d94fc959de"/>
+		<rom name="T4M4.BIN" size="721936" crc="391cc798" md5="27c88a811cfc9aeaf3f853d9d2bd555a" sha1="5bbfd8aa33d652b5b78012a45f43c91c14ee8351"/>
+	</game>
+	<game name="Blue Lightning (Unknown) (Beta) (1995-04-07)" id="0005">
+		<description>Blue Lightning (Unknown) (Beta) (1995-04-07)</description>
+		<rom name="T5M1.BIN" size="691288" crc="f92fb943" md5="89277e4e58e86e1472ed529567151558" sha1="24ef0140559cd03f7ed9e546427899dc42272eb7"/>
+		<rom name="T5M2.BIN" size="721704" crc="1f9783f2" md5="ba2b2a5aff184e31940f3c8ba94e3e34" sha1="b12ec269cf33388818d57543c500feb2015a510f"/>
+		<rom name="T5M3.BIN" size="713128" crc="1e2b491e" md5="6a1a3d7af316aae224e8d35c4bac3b97" sha1="6f8d44c2f8113db430cda38b728842194637a829"/>
+		<rom name="T5M4.BIN" size="722040" crc="0c907830" md5="e7ce1cfbfecdc3c7cf78f107964e1b43" sha1="a0eed566f86940efba37666f889af0dc80f863e5"/>
+	</game>
+	<game name="Blue Lightning (Unknown) (Beta) (1995-01-25)" id="0004">
+		<description>Blue Lightning (Unknown) (Beta) (1995-01-25)</description>
+		<rom name="25jan95\DEMO.ABS" size="317585" crc="50e53e1f" md5="865ee4ccb1a87c27f6b4cdcf037bd575" sha1="b878912035649578afe93d259d0e0ac3a7a11ed9"/>
+	</game>
+	<game name="Blue Lightning (Unknown) (Beta) (1994-12-06)" id="0003">
+		<description>Blue Lightning (Unknown) (Beta) (1994-12-06)</description>
+		<rom name="6dec94\BLUE.ABS" size="296627" crc="98214af1" md5="d5ac228186806f4e7f432f5e2ed56636" sha1="0b516a38067523804588f62765679b6db7c1d082"/>
+		<rom name="6dec94\BLUE.TOC" size="1024" crc="c514c7db" md5="5584d8aa9e8339cda29d59dad199579a" sha1="405b64f66c04ab97d57dc2e36be1601b7ecfa26f"/>
+		<rom name="6dec94\README.TXT" size="1822" crc="c702a82b" md5="ceae351156044a6627045ffead5decb6" sha1="451eea8ec9ed7b03c86ad7659e4ac08af2f38f93"/>
+	</game>
+	<game name="Brett Hull NHL Hockey (Unknown) (Beta)" id="0008">
+		<description>Brett Hull NHL Hockey (Unknown) (Beta)</description>
+		<rom name="Brett Hull NHL Hockey (Beta).mdf" size="721598304" crc="894d2cfc" md5="4ec6ea133ca58154dc61a0b4d2189fbc" sha1="8c2370182a51f27e6880638d06f6b98dcca9d4dc"/>
+		<rom name="Brett Hull NHL Hockey (Beta).mds" size="9060" crc="c1513394" md5="abcf27538c2ef8a3e69829629a8bc896" sha1="11edbdaf6ba0d8b4487ab9e92d1403419ac67f72"/>
+	</game>
+	<game name="Caves of Fear (USA) (Proto)" id="0013">
+		<description>Caves of Fear (USA) (Proto)</description>
+		<rom name="Caves of Fear (USA) (Proto).cdi" size="136226778" crc="351b28a2" md5="e9693b5a42dea40da04975c84ace4fe5" sha1="56b85c3003def96024eeb70c609a1492192382bf"/>
+	</game>
+	<game name="Demolition Man (Unknown) (Proto)" id="0014">
+		<description>Demolition Man (Unknown) (Proto)</description>
+		<rom name="Demolition Man (Unknown) (Proto).cdi" size="186400527" crc="e101a058" md5="bb651f48f400e0717c8c73715d8335da" sha1="8af57794657cd63d434dc5cfbab8dfc37ef036ea"/>
+	</game>
+	<game name="Klax (World) (Unl)" id="0018">
+		<description>Klax (World) (Unl)</description>
+		<rom name="Klax.ABS" size="559962" crc="50d54c5a" md5="3f9f15076b787374cc0d2c5887c6e757" sha1="be6e24f73cae161669aad853027e143406fac737"/>
+	</game>
+	<game name="Klax (World) (Rev 1) (Unl)" id="0019" cloneofid="0018">
+		<description>Klax (World) (Rev 1) (Unl)</description>
+		<rom name="Klax.ABS" size="915130" crc="6912e4d0" md5="67588063044119ce74f270636d4716aa" sha1="529e1f86091db896a91b10a68c31d83e67f99227"/>
+	</game>
+	<game name="Soul Star (Unknown) (Proto)" id="0015">
+		<description>Soul Star (Unknown) (Proto)</description>
+		<rom name="Soul Star (Unknown) (Proto).nrg" size="730143138" crc="92065e12" md5="d0183f38f145e03f7e3423270b75ec3c" sha1="cfc732bb0edb604e5822115b6230ac9a0f527b54"/>
+	</game>
+	<game name="Varuna's Forces (Unknown) (Proto 1)" id="0016">
+		<description>Varuna's Forces (Unknown) (Proto 1)</description>
+		<rom name="Varuna's Forces (Unknown) (Proto 1).cdi" size="87663942" crc="cc73fb0c" md5="51053c72e4916cfc86a1907ed3e88424" sha1="b27bc38529d3b58f3a5fa488fb768ac5cf6723df"/>
+	</game>
+	<game name="Varuna's Forces (Unknown) (Proto 2)" id="0017">
+		<description>Varuna's Forces (Unknown) (Proto 2)</description>
+		<rom name="Varuna's Forces (Unknown) (Proto 2).cdi" size="180628968" crc="a5702ab4" md5="682419a8c2f5fbd7ac788fb4fe89b0d6" sha1="7a39320f1bf484a891bf80e3b29f39088fb75dcf"/>
+	</game>
+</datafile>

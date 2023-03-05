@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple IIGS - Manuals - Hardware</name>
+		<description>Apple IIGS - Manuals - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple IIGS Firmware Reference (1987)(Apple Computer)">
+		<description>Apple IIGS Firmware Reference (1987)(Apple Computer)</description>
+		<rom name="Apple IIGS Firmware Reference (1987)(Apple Computer).pdf" size="26615642" crc="2394b0af" md5="8939c3a5bbbf1502eceeec89091feafd" sha1="808471a24f12ff12a48bf5c3e9fb111cf295fbb6"/>
+	</game>
+	<game name="Apple IIGS Hardware Reference Guide (1989)(Apple Computer)[second edition]">
+		<description>Apple IIGS Hardware Reference Guide (1989)(Apple Computer)[second edition]</description>
+		<rom name="Apple IIGS Hardware Reference Guide (1989)(Apple Computer)[second edition].pdf" size="33512422" crc="437e8d0e" md5="849643cdd391b00916465a7208a38ce9" sha1="c3bedba10463681e11ab8855250f1c04786306fa"/>
+	</game>
+	<game name="Apple IIGS Memory Expansion Card Owner's Guide (1986)(Apple Computer)">
+		<description>Apple IIGS Memory Expansion Card Owner's Guide (1986)(Apple Computer)</description>
+		<rom name="Apple IIGS Memory Expansion Card Owner's Guide (1986)(Apple Computer).pdf" size="1533268" crc="41d39bb8" md5="eff4bf0bd94cd6d7c2d48f510892cefc" sha1="bdcae2fc2e1e5e527a76bb71d6a00f73e0e28536"/>
+	</game>
+	<game name="Apple IIGS Owner's Guide (1986)(Apple Computer)">
+		<description>Apple IIGS Owner's Guide (1986)(Apple Computer)</description>
+		<rom name="Apple IIGS Owner's Guide (1986)(Apple Computer).pdf" size="18521650" crc="2366a41e" md5="fefe1308e4b51ceb18d4d04bceded2c2" sha1="0b9d5cce9f0db4b07d81b1c063e151d95ee30140"/>
+	</game>
+	<game name="Apple IIGS QuickStart Guide (1986)(Apple Computer)">
+		<description>Apple IIGS QuickStart Guide (1986)(Apple Computer)</description>
+		<rom name="Apple IIGS QuickStart Guide (1986)(Apple Computer).pdf" size="192830" crc="739bae2f" md5="84969f89ac247af96b235437290f584b" sha1="9af1b3dcd21b103974c2fc4879a883e31b0058b0"/>
+	</game>
+	<game name="Apple IIGS System Disk User's Guide (1986)(Apple Computer)">
+		<description>Apple IIGS System Disk User's Guide (1986)(Apple Computer)</description>
+		<rom name="Apple IIGS System Disk User's Guide (1986)(Apple Computer).pdf" size="15331223" crc="1015b466" md5="3e3e25a4b506c50a2ad64a85a9c77066" sha1="ad798141786b68b2ebe0e3159a27511f2bddc617"/>
+	</game>
+	<game name="Apple IIGS Toolbox Reference Volume 3 (1989-08-30)(Apple Computer)(beta)">
+		<description>Apple IIGS Toolbox Reference Volume 3 (1989-08-30)(Apple Computer)(beta)</description>
+		<rom name="Apple IIGS Toolbox Reference Volume 3 (1989-08-30)(Apple Computer)(beta).pdf" size="24806158" crc="2932ad40" md5="cc5fcc58e17c296bfe9d52a6c9234499" sha1="368fe2c3e08f6c7ffd629e55e502dfec69a44cf4"/>
+	</game>
+	<game name="From Apple IIe to Apple IIGS Performance Update (1986)(Apple Computer)">
+		<description>From Apple IIe to Apple IIGS Performance Update (1986)(Apple Computer)</description>
+		<rom name="From Apple IIe to Apple IIGS Performance Update (1986)(Apple Computer).pdf" size="7928592" crc="ec28bf08" md5="32c0122f167c55e5331a94c7ba50ddd4" sha1="eaf903ab27ffabf53a21a035c7fa4806b32d516c"/>
+	</game>
+</datafile>

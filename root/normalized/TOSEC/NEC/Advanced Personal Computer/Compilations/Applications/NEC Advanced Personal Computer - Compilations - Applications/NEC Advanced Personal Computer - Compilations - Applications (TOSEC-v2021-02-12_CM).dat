@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC Advanced Personal Computer - Compilations - Applications</name>
+		<description>NEC Advanced Personal Computer - Compilations - Applications (TOSEC-v2021-02-12)</description>
+		<category>TOSEC</category>
+		<version>2021-02-12</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM Public Domain Programs (198x)(-)[b][Master Copy]">
+		<description>CPM Public Domain Programs (198x)(-)[b][Master Copy]</description>
+		<rom name="CPM Public Domain Programs (198x)(-)[b][Master Copy].imd" size="920523" crc="412691e0" md5="bdf9f0ed2c2387c10411048a8e580aa4" sha1="6009993da96fdab082ec4255c893aa77480f29e7"/>
+	</game>
+	<game name="CPM-86 Program Development Aids (1983)(Digital Research)">
+		<description>CPM-86 Program Development Aids (1983)(Digital Research)</description>
+		<rom name="CPM-86 Program Development Aids (1983)(Digital Research).imd" size="1021251" crc="b3d1a4ea" md5="0a48f0ed45ec3a48ba7609152b7afee3" sha1="2e5ec3c168814f789d6f11edd9a7f857c469f3e8"/>
+	</game>
+	<game name="CPM-86 Utility Programs (198x)(Digital Research)">
+		<description>CPM-86 Utility Programs (198x)(Digital Research)</description>
+		<rom name="CPM-86 Utility Programs (198x)(Digital Research).imd" size="836352" crc="f7954176" md5="221c81b631bf6234575a60da659bebd1" sha1="0b63715e0edae30841bc17008d2d08aa3e1522ee"/>
+	</game>
+</datafile>

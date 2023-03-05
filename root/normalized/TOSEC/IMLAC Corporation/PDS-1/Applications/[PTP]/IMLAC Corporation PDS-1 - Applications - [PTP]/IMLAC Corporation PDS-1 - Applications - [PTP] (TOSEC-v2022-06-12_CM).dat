@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IMLAC Corporation PDS-1 - Applications - [PTP]</name>
+		<description>IMLAC Corporation PDS-1 - Applications - [PTP] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Block Punch v1.0 (197x)(IMLAC Corporation)">
+		<description>Block Punch v1.0 (197x)(IMLAC Corporation)</description>
+		<rom name="Block Punch v1.0 (197x)(IMLAC Corporation).ptp" size="430" crc="d06ab550" md5="06ed3159cd658f7c847bf9a70dea023c" sha1="bd71bd21865c09eed0ffeff103ede969fad359e3"/>
+	</game>
+	<game name="Debugger v5.0 (197x)(IMLAC Corporation)">
+		<description>Debugger v5.0 (197x)(IMLAC Corporation)</description>
+		<rom name="Debugger v5.0 (197x)(IMLAC Corporation).ptp" size="1948" crc="b0542658" md5="37c57e260f5b3e4b5dd08c37b9bb63f4" sha1="ea3bf8d3dcc36db1c1a7979e1c16a87dae89b869"/>
+	</game>
+	<game name="Long Vector Test (197x)(IMAC Corporation)">
+		<description>Long Vector Test (197x)(IMAC Corporation)</description>
+		<rom name="Long Vector Test (197x)(IMAC Corporation).ptp" size="1168" crc="4e6e08d4" md5="91ea5d5d07c2ef67557e7d866d388412" sha1="cb7bbad5ca1de2597a7f625f37a63a895eeffc0e"/>
+	</game>
+</datafile>

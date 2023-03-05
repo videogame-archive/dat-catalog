@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Compilations - Games - [TD0]</name>
+		<description>EACA EG2000 Colour Genie - Compilations - Games - [TD0] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Brett- und Kartenspiele (19xx)(-)(DE)">
+		<description>Brett- und Kartenspiele (19xx)(-)(DE)</description>
+		<rom name="Brett- und Kartenspiele (19xx)(-)(DE).td0" size="67062" crc="2ce4ed6b" md5="9647ec7cd7b2eee699f919511088b0a7" sha1="3832d20f71b468af05d8906da32b78416adb53f8"/>
+	</game>
+	<game name="Diverse Spiele (19xx)(-)(DE)">
+		<description>Diverse Spiele (19xx)(-)(DE)</description>
+		<rom name="Diverse Spiele (19xx)(-)(DE).td0" size="82017" crc="3b9b4046" md5="a8c25866239e1215595842bf304dad1c" sha1="2cb99ca4c3d4659ee657ca9193d219e9e337c40a"/>
+	</game>
+	<game name="Geschicklichkeit 1 (19xx)(-)(DE)[b incorrect layout track 36 head 0]">
+		<description>Geschicklichkeit 1 (19xx)(-)(DE)[b incorrect layout track 36 head 0]</description>
+		<rom name="Geschicklichkeit 1 (19xx)(-)(DE)[b incorrect layout track 36 head 0].td0" size="157054" crc="72573131" md5="8336620db18f91f6f095471f7689e5b4" sha1="29f43add590aa8e6b510158cc6d43aa9f3d11522"/>
+	</game>
+	<game name="Geschicklichkeit 2 (19xx)(-)(DE)">
+		<description>Geschicklichkeit 2 (19xx)(-)(DE)</description>
+		<rom name="Geschicklichkeit 2 (19xx)(-)(DE).td0" size="141237" crc="51cbfbe4" md5="c87ab2a9d40a3de84b29dbabb7d3aea1" sha1="dbda42aae347709a6e3147e7001524cd92a7197f"/>
+	</game>
+	<game name="Weltraumspiele (19xx)(-)(DE)">
+		<description>Weltraumspiele (19xx)(-)(DE)</description>
+		<rom name="Weltraumspiele (19xx)(-)(DE).td0" size="96898" crc="37684f7d" md5="5914d3b607abec854c8fa790e3217452" sha1="4c2fa38a8ca299ccea06efdca6a7e4ab871bd332"/>
+	</game>
+</datafile>

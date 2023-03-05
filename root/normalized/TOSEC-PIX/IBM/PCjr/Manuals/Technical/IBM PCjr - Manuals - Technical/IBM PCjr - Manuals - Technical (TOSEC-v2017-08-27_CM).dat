@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Manuals - Technical</name>
+		<description>IBM PCjr - Manuals - Technical (TOSEC-v2017-08-27)</description>
+		<category>TOSEC-PIX</category>
+		<version>2017-08-27</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="IBM PCjr Technical Reference (1983-11)(IBM)">
+		<description>IBM PCjr Technical Reference (1983-11)(IBM)</description>
+		<rom name="IBM PCjr Technical Reference (1983-11)(IBM).pdf" size="8258726" crc="5f78c193" sha1="ecef0a5f4e39f83ce2a82e4160397b33fa1ae3d6" md5="c18638174451f5a3fae02a12cfc4c670"/>
+	</game>
+	<game name="IBM PCjr Technical Reference (1983-11)(IBM)[a]">
+		<description>IBM PCjr Technical Reference (1983-11)(IBM)[a]</description>
+		<rom name="IBM PCjr Technical Reference (1983-11)(IBM)[a].pdf" size="7367466" crc="13300970" sha1="1c58dc2927ce5913cdc58b7176f862349a56f4ea" md5="951134ba9a1932aa231c98881393e7c2"/>
+	</game>
+</datafile>
+

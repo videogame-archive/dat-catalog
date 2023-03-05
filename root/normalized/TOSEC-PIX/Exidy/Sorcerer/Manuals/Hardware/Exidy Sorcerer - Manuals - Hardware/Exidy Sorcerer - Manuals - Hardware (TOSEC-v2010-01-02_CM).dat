@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Manuals - Hardware</name>
+		<description>Exidy Sorcerer - Manuals - Hardware (TOSEC-v2010-01-02)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-02</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="S-100 Expansion Unit Technical Manual (1979-04)(Exidy)">
+		<description>S-100 Expansion Unit Technical Manual (1979-04)(Exidy)</description>
+		<rom name="S-100 Expansion Unit Technical Manual (1979-04)(Exidy).pdf" size="19652159" crc="a27fe7de" md5="7686bb18939e1fca64ce9e9031144e86" sha1="d3f1815cc557b1f83eda65dc7d45b0a46ba92cf1"/>
+	</game>
+	<game name="S-100 Expansion Unit Technical Manual (1979-04)(Exidy)[a]">
+		<description>S-100 Expansion Unit Technical Manual (1979-04)(Exidy)[a]</description>
+		<rom name="S-100 Expansion Unit Technical Manual (1979-04)(Exidy)[a].pdf" size="2971329" crc="bda30ac2" md5="313ffe2679c0d5cfe49715977b97cfd3" sha1="9b94b29c2478bb5c60116ae3f0056e30194ea90a"/>
+	</game>
+	<game name="Sorcer Technical Manual (1979-03)(Exidy)">
+		<description>Sorcer Technical Manual (1979-03)(Exidy)</description>
+		<rom name="Sorcer Technical Manual (1979-03)(Exidy).pdf" size="4492666" crc="25518a45" md5="a468ca68516a67250cb78838960635fb" sha1="860f44291e503bd889e3548a7c97d32f79d22054"/>
+	</game>
+	<game name="Sorcer Technical Manual (1979-03)(Exidy)[a]">
+		<description>Sorcer Technical Manual (1979-03)(Exidy)[a]</description>
+		<rom name="Sorcer Technical Manual (1979-03)(Exidy)[a].pdf" size="4721349" crc="cf425f6e" md5="9ab7a2c87d5bb2daba9fb8215ec0ce78" sha1="02fcaf90859e560ddb6e4b4aae0ec3c1d7587c70"/>
+	</game>
+	<game name="Sorcerer Tech Notes (1981-01)(Exidy)">
+		<description>Sorcerer Tech Notes (1981-01)(Exidy)</description>
+		<rom name="Sorcerer Tech Notes (1981-01)(Exidy).pdf" size="1379244" crc="44aefe1e" md5="f6c2f503f4d6edb5932a2832ec88382d" sha1="c8606d6226aa1d066ffd63a48567609c1e06b6f5"/>
+	</game>
+</datafile>

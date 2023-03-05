@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Applications - [CDI]</name>
+		<description>Sega Dreamcast - Homebrew - Applications - [CDI] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="RetroDream v1.1.2 (2020-12-30)(cpasjuste)(FR)(en)">
+		<description>RetroDream v1.1.2 (2020-12-30)(cpasjuste)(FR)(en)</description>
+		<rom name="RetroDream v1.1.2 (2020-12-30)(cpasjuste)(FR)(en).cdi" size="8342547" crc="9ced6874" md5="9c9a68c53e9f542ad381d6e9fdef0161" sha1="acdc9d2e1e73a9d2acc4c69264aa503522ed4664"/>
+	</game>
+	<game name="RetroDream v3.0.0 (2021-11-15)(cpasjuste)(FR)(en)">
+		<description>RetroDream v3.0.0 (2021-11-15)(cpasjuste)(FR)(en)</description>
+		<rom name="RetroDream v3.0.0 (2021-11-15)(cpasjuste)(FR)(en).cdi" size="48479699" crc="219ac6cb" md5="4a984d8b06882b364c63ef3f56b2dc66" sha1="002b873f495f687f64ed9720e516ca4b5ef85dd7"/>
+	</game>
+</datafile>

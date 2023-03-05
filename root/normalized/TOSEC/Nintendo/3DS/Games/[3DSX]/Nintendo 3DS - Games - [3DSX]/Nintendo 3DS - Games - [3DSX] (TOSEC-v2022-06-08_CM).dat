@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 3DS - Games - [3DSX]</name>
+		<description>Nintendo 3DS - Games - [3DSX] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dzzee v1.2.0 (2021-10-16)(thp)">
+		<description>Dzzee v1.2.0 (2021-10-16)(thp)</description>
+		<rom name="Dzzee v1.2.0 (2021-10-16)(thp).3dsx" size="269764" crc="9e13ff5d" md5="90223a23b2cdb558eab2c590d31cf04a" sha1="0a80124a532d7fb02e2413a8005fbacc95275c8c"/>
+	</game>
+	<game name="Hermes - Run A La Carte (2017)(Retroguru)">
+		<description>Hermes - Run A La Carte (2017)(Retroguru)</description>
+		<rom name="Hermes - Run A La Carte (2017)(Retroguru).3dsx" size="1897880" crc="8cfbaaf7" md5="3497ef11e63dc315dc9d226fdcdfc131" sha1="ce002668ce94038b2a3fcb4a6beb47d76c5a5735"/>
+		<rom name="Hermes - Run A La Carte (2017)(Retroguru).smdh" size="14016" crc="a817cd66" md5="202a3ca526fcc6d651b7afacad413634" sha1="9a83fe633c2aaa68bd29dcfa8c091fef46884f0e"/>
+	</game>
+	<game name="Loonies 8192 r66 (2021-07-09)(thp)(M3)">
+		<description>Loonies 8192 r66 (2021-07-09)(thp)(M3)</description>
+		<rom name="Loonies 8192 r66 (2021-07-09)(thp)(M3).3dsx" size="464128" crc="71a94838" md5="b6f6873b508c256b7bcff6e2d5463211" sha1="b20184434d1925c2df88608168c10b59fc05ebaa"/>
+	</game>
+	<game name="OpenLara (2020-11-10)(XProger)(BSD2)">
+		<description>OpenLara (2020-11-10)(XProger)(BSD2)</description>
+		<rom name="OpenLara (2020-11-10)(XProger)(BSD2).3dsx" size="1182168" crc="f4f62a72" md5="9b1232d50b0150179bea3eab38bbd731" sha1="fe7a7d943cae63dee1f373451311165df120bc48"/>
+	</game>
+	<game name="Spodge v1.1 (2021-09-14)(Techcrafter)">
+		<description>Spodge v1.1 (2021-09-14)(Techcrafter)</description>
+		<rom name="Spodge v1.1 (2021-09-14)(Techcrafter).3dsx" size="529540" crc="6dfa5f91" md5="ae050512114b7fe272acd0f894c111e9" sha1="9a2d1b110a96b046eba983922e917408b9c65714"/>
+	</game>
+	<game name="That Rabbit Game (2011)(thp)">
+		<description>That Rabbit Game (2011)(thp)</description>
+		<rom name="That Rabbit Game (2011)(thp).3dsx" size="1842848" crc="48cd4770" md5="74c72a46c8cbe7f3c826dca8ac0cf9ff" sha1="06fde5b3e3af1122144c76d028928fe792e45cef"/>
+		<rom name="That Rabbit Game (2011)(thp).smdh" size="14016" crc="34230b67" md5="01ab7018ce9d6e6ecf006c5e48855779" sha1="7b89d48434a3d115588b9ba2de2b62e3236689da"/>
+	</game>
+</datafile>

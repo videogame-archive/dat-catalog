@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Artwork - Games</name>
+		<description>Sony PlayStation - Artwork - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bishoujo Senshi Sailor Moon Super S - Shin Shuyaku Soudatsusen (1996)(Angel)(JP)[box][SLPS-00262]">
+		<description>Bishoujo Senshi Sailor Moon Super S - Shin Shuyaku Soudatsusen (1996)(Angel)(JP)[box][SLPS-00262]</description>
+		<rom name="Bishoujo Senshi Sailor Moon Super S - Shin Shuyaku Soudatsusen (1996)(Angel)(JP)[box][SLPS-00262].pdf" size="854914" crc="3742dd5a" md5="1bf97bfbfa7cab7469622d174714ec90" sha1="d43c15e757b5e2efebd3afd595a79f37d2f4f8e4"/>
+	</game>
+	<game name="Bishoujo Senshi Sailor Moon Super S - Shin Shuyaku Soudatsusen (1996)(Angel)(JP)[disc][SLPS-00262]">
+		<description>Bishoujo Senshi Sailor Moon Super S - Shin Shuyaku Soudatsusen (1996)(Angel)(JP)[disc][SLPS-00262]</description>
+		<rom name="Bishoujo Senshi Sailor Moon Super S - Shin Shuyaku Soudatsusen (1996)(Angel)(JP)[disc][SLPS-00262].pdf" size="127328" crc="b72f6252" md5="6d968f99c0c01c138d597e762000f779" sha1="95601db3ee865393c48d343ded973fd2c977b015"/>
+	</game>
+	<game name="Kids Station - Bishoujo Senshi Sailor Moon (2001)(Bandai)(JP)[box]">
+		<description>Kids Station - Bishoujo Senshi Sailor Moon (2001)(Bandai)(JP)[box]</description>
+		<rom name="Kids Station - Bishoujo Senshi Sailor Moon (2001)(Bandai)(JP)[box].pdf" size="703844" crc="09ba5084" md5="0d6db1b310506e1d2de676144561b323" sha1="250a49eee60e38700d1fb5cd49940425318aa6b5"/>
+	</game>
+	<game name="Kids Station - Bishoujo Senshi Sailor Moon (2001)(Bandai)(JP)[disc]">
+		<description>Kids Station - Bishoujo Senshi Sailor Moon (2001)(Bandai)(JP)[disc]</description>
+		<rom name="Kids Station - Bishoujo Senshi Sailor Moon (2001)(Bandai)(JP)[disc].pdf" size="242923" crc="0b0e1dc6" md5="f3ebf3a90edf7e5a1c5e351108a49c9f" sha1="75e066f208d30071c2c53ed8f277ae6ed0c312fb"/>
+	</game>
+</datafile>

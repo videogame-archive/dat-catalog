@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bernd Huebler Huebler-Grafik-MC - Games</name>
+		<description>Bernd Huebler Huebler-Grafik-MC - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).kcc" size="12288" crc="6c384d80" md5="d889f1486c4e6e121c0bcfe989d70d60" sha1="074ab2bf0076af70585064effb33c9f9dec14f25"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).kcc" size="13440" crc="75f8ee8e" md5="02b295d09cf7e49df3cff8664821e91e" sha1="5a333381b8bef589f86f59c1f01471bf82a56d3f"/>
+	</game>
+</datafile>

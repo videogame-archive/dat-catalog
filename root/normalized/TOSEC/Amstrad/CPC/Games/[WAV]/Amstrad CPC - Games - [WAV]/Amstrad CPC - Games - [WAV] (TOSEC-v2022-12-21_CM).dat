@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad CPC - Games - [WAV]</name>
+		<description>Amstrad CPC - Games - [WAV] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle - FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-27)(Inufuto)(JP)">
+		<description>Ascend (2022-03-27)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-27)(Inufuto)(JP).wav" size="3229658" crc="8bf30d78" md5="a592a02f68c09cf196a6a51287a9c5d2" sha1="0d67c00766b61d9a7d822ec4f94208e7c6e507c5"/>
+	</game>
+	<game name="Complot d'Ihlün, Le (1986)(Transoft)(FR)">
+		<description>Complot d'Ihlün, Le (1986)(Transoft)(FR)</description>
+		<rom name="Complot d'Ihlün, Le (1986)(Transoft)(FR).wav" size="29388844" crc="8ee9ba2b" md5="e79b098fa8ae306a9aacbba0f43effe6" sha1="cbc1cc25f9e017a121df5c97a754852680a9960b"/>
+	</game>
+	<game name="Mazy (2022-02-22)(Inufuto)(JP)">
+		<description>Mazy (2022-02-22)(Inufuto)(JP)</description>
+		<rom name="Mazy (2022-02-22)(Inufuto)(JP).wav" size="2675005" crc="01a91a1d" md5="15cbb5c01cd15a76a68f58484917cb4c" sha1="f951a3f8633f556b3c1de3fb1a766c81f32902a0"/>
+	</game>
+	<game name="Ruptus (2022-02-21)(Inufuto)(JP)">
+		<description>Ruptus (2022-02-21)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2022-02-21)(Inufuto)(JP).wav" size="4565076" crc="635d7516" md5="0902f0dbec0a170e5aba0f901f41e7d2" sha1="a0b8ec03dd846ace00a4b64d1d699cda2822a6c9"/>
+	</game>
+	<game name="Triaxos (1987)(Ariolasoft)(Side A)">
+		<description>Triaxos (1987)(Ariolasoft)(Side A)</description>
+		<rom name="Triaxos (1987)(Ariolasoft)(Side A).wav" size="51032108" crc="9b373245" md5="62723460b46b64f7c027db81db90d374" sha1="ca05aa8483416d2a4fba79709a4d0f52b3aabe13"/>
+	</game>
+	<game name="Triaxos (1987)(Ariolasoft)(Side A)[m]">
+		<description>Triaxos (1987)(Ariolasoft)(Side A)[m]</description>
+		<rom name="Triaxos (1987)(Ariolasoft)(Side A)[m].wav" size="51060468" crc="c93a6835" md5="92d4bc91fa4379884be94417d2bafb8f" sha1="d4ac4cad82aed33f3f0fc8265a455b59ea497a21"/>
+	</game>
+	<game name="Triaxos (1987)(Ariolasoft)(Side B)">
+		<description>Triaxos (1987)(Ariolasoft)(Side B)</description>
+		<rom name="Triaxos (1987)(Ariolasoft)(Side B).wav" size="51381036" crc="7ba8056d" md5="ef0d12c946e74240a1acb6b76b293af4" sha1="4816be24a5bfea059186eafb76f67b4ea9aee81c"/>
+	</game>
+</datafile>

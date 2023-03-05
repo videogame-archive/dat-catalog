@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Firmware</name>
+		<description>Exidy Sorcerer - Firmware (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BRUCE PROM (19xx)(-)">
+		<description>BRUCE PROM (19xx)(-)</description>
+		<rom name="BRUCE PROM (19xx)(-).bin" size="32" crc="fae922cb" md5="47ac49524c06638c536998c2a51c9c7f" sha1="470a86844cfeab0d9282242e03ff1d8a1b2238d1"/>
+	</game>
+	<game name="DiskBoot (1979)(Exidy Inc.)">
+		<description>DiskBoot (1979)(Exidy Inc.)</description>
+		<rom name="DiskBoot (1979)(Exidy Inc.).bin" size="256" crc="d82a40d6" md5="4310dabb26ced14d8def017f6656bc8e" sha1="cd1ef5fb0312cd1640e0853d2442d7d858bc3e3b"/>
+	</game>
+	<game name="Exidy Standard Monitor v1.1 (1979)(Exidy Inc.)[exm011-1]">
+		<description>Exidy Standard Monitor v1.1 (1979)(Exidy Inc.)[exm011-1]</description>
+		<rom name="Exidy Standard Monitor v1.1 (1979)(Exidy Inc.)[exm011-1].bin" size="2048" crc="af9394dc" md5="7b4655843c9636811a96f0f33e398f97" sha1="d7e0ada64d72d33e0790690be86a36020b41fd0d"/>
+	</game>
+	<game name="Exidy Standard Monitor v1.1 (1979)(Exidy Inc.)[exm011-2]">
+		<description>Exidy Standard Monitor v1.1 (1979)(Exidy Inc.)[exm011-2]</description>
+		<rom name="Exidy Standard Monitor v1.1 (1979)(Exidy Inc.)[exm011-2].bin" size="2048" crc="49978d6c" md5="da643e61be6f2363f334ce9434a47e53" sha1="b94127bfe99e5dc1cf5dbbb7d1b099b0ca036cd0"/>
+	</game>
+	<game name="exchr-1 ROM (19xx)(-)">
+		<description>exchr-1 ROM (19xx)(-)</description>
+		<rom name="exchr-1 ROM (19xx)(-).bin" size="1024" crc="4a7e1cdd" md5="9097c1c3017c6b66dad46168f286f245" sha1="2bf07a59c506b6e0c01ec721fb7b747b20f5dced"/>
+	</game>
+	<game name="Monitor E000H-E7FFH (1979)(Exidy Inc.)">
+		<description>Monitor E000H-E7FFH (1979)(Exidy Inc.)</description>
+		<rom name="Monitor E000H-E7FFH (1979)(Exidy Inc.).bin" size="2048" crc="ac924f67" md5="0947c65059c7dba98c3b837b3e9fb8c1" sha1="72fcad6dd1ed5ec0527f967604401284d0e4b6a1"/>
+	</game>
+	<game name="Monitor E800H-EFFFH (1979)(Exidy Inc.)">
+		<description>Monitor E800H-EFFFH (1979)(Exidy Inc.)</description>
+		<rom name="Monitor E800H-EFFFH (1979)(Exidy Inc.).bin" size="2048" crc="ead1d0f6" md5="2b36cc87a33428c76c5cac1d5219d741" sha1="c68bed7344091bca135e427b4793cc7d49ca01be"/>
+	</game>
+	<game name="Pete's Enhanced Monitor E000H-E7FFH v1.12 (19xx)(Pete)">
+		<description>Pete's Enhanced Monitor E000H-E7FFH v1.12 (19xx)(Pete)</description>
+		<rom name="Pete's Enhanced Monitor E000H-E7FFH v1.12 (19xx)(Pete).bin" size="2048" crc="fef01cdf" md5="86199ae8ea3df33551e6a61e66479f07" sha1="7ee0095b1a023692e81f9a430055620d06642a73"/>
+	</game>
+	<game name="Pete's Enhanced Monitor E000H-E7FFH v1.2 (19xx)(Pete)">
+		<description>Pete's Enhanced Monitor E000H-E7FFH v1.2 (19xx)(Pete)</description>
+		<rom name="Pete's Enhanced Monitor E000H-E7FFH v1.2 (19xx)(Pete).bin" size="2048" crc="81083252" md5="05d94f122c60bc177b3b6026e9cecb0d" sha1="e46626547d9a8c5571e5793ac866f91b3cf0b361"/>
+	</game>
+	<game name="Pete's Enhanced Monitor E800H-EFFFH v1.12 (19xx)(Pete)">
+		<description>Pete's Enhanced Monitor E800H-EFFFH v1.12 (19xx)(Pete)</description>
+		<rom name="Pete's Enhanced Monitor E800H-EFFFH v1.12 (19xx)(Pete).bin" size="2048" crc="a720c06f" md5="4937ce1f4b649194aa527e5b3b39ff8e" sha1="440cf44f466647b2576aedbb169b4259c96660d1"/>
+	</game>
+	<game name="Pete's Enhanced Monitor E800H-EFFFH v1.2 (19xx)(Pete)">
+		<description>Pete's Enhanced Monitor E800H-EFFFH v1.2 (19xx)(Pete)</description>
+		<rom name="Pete's Enhanced Monitor E800H-EFFFH v1.2 (19xx)(Pete).bin" size="2048" crc="ade5ee50" md5="d17c3526c584ad9d533015af9987abff" sha1="fc53cb4647583a28c81ad2904d7a66f26768f826"/>
+	</game>
+	<game name="TVIMON-C v1.5 (19xx)(CCP)[1]">
+		<description>TVIMON-C v1.5 (19xx)(CCP)[1]</description>
+		<rom name="TVIMON-C v1.5 (19xx)(CCP)[1].bin" size="2048" crc="efc15a18" md5="8069e88fab4565cae6f364b1ebbc66b7" sha1="3dee821270a0d83453b18baed88a024dfd0d7a6c"/>
+	</game>
+	<game name="TVIMON-C v1.5 (19xx)(CCP)[2]">
+		<description>TVIMON-C v1.5 (19xx)(CCP)[2]</description>
+		<rom name="TVIMON-C v1.5 (19xx)(CCP)[2].bin" size="2048" crc="bc194487" md5="4f6854fd4e8920e69dd3289ae52393d0" sha1="dcfd916558e3e3be22091c5558ea633c332cf6c7"/>
+	</game>
+</datafile>

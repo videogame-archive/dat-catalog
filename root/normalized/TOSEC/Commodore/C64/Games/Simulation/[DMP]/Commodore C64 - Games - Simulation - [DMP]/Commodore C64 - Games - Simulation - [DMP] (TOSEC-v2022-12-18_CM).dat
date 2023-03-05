@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Simulation - [DMP]</name>
+		<description>Commodore C64 - Games - Simulation - [DMP] (TOSEC-v2022-12-18)</description>
+		<category>TOSEC</category>
+		<version>2022-12-18</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Ace of Aces (1986)(Accolade)">
+		<description>Ace of Aces (1986)(Accolade)</description>
+		<rom name="Ace of Aces (1986)(Accolade).dmp" size="1396880" crc="9f0fcc41" md5="30d3ad0d34d48633ede1e92ee9fc055e" sha1="a61e4c6858bf49fb37ceb3600d835e5fd0cadd40"/>
+	</game>
+	<game name="Ace of Aces (1986)(Accolade)[o]">
+		<description>Ace of Aces (1986)(Accolade)[o]</description>
+		<rom name="Ace of Aces (1986)(Accolade)[o].dmp" size="1394810" crc="e7584020" md5="1997db7b0835393ed7995aada3a17b37" sha1="b8d89cfb4e2a167fba293863404c564dfb6fcf34"/>
+	</game>
+	<game name="Ace of Aces (1988)(US Gold)">
+		<description>Ace of Aces (1988)(US Gold)</description>
+		<rom name="Ace of Aces (1988)(US Gold).dmp" size="1396890" crc="f89f232b" md5="4998dc2504ff6008a27fb7d0e754acde" sha1="a448ff0f68b71bdbd47e9958231881f144813fca"/>
+	</game>
+	<game name="Acro Jet - The Advanced Flight Simulator (1985)(MicroProse)(Side A)">
+		<description>Acro Jet - The Advanced Flight Simulator (1985)(MicroProse)(Side A)</description>
+		<rom name="Acro Jet - The Advanced Flight Simulator (1985)(MicroProse)(Side A).dmp" size="1258478" crc="e37ce725" md5="39acd6e6649260167ee52bb16ec5940f" sha1="fc7f4a294de35e102d397977110b4b966c7c0226"/>
+	</game>
+	<game name="Acro Jet - The Advanced Flight Simulator (1985)(MicroProse)(Side B)">
+		<description>Acro Jet - The Advanced Flight Simulator (1985)(MicroProse)(Side B)</description>
+		<rom name="Acro Jet - The Advanced Flight Simulator (1985)(MicroProse)(Side B).dmp" size="198624" crc="4be77a66" md5="7380e66831592c8768031afb6339f21f" sha1="866c83661712c04c3552fd12b6807939da40aa04"/>
+	</game>
+</datafile>

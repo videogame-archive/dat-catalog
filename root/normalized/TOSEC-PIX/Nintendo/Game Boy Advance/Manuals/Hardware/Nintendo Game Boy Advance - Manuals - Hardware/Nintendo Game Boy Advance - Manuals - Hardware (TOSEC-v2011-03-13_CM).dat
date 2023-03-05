@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Advance - Manuals - Hardware</name>
+		<description>Nintendo Game Boy Advance - Manuals - Hardware (TOSEC-v2011-03-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-03-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Boy Advance e-Reader Instruction Booklet (2003)(Nintendo)(US)">
+		<description>Game Boy Advance e-Reader Instruction Booklet (2003)(Nintendo)(US)</description>
+		<rom name="Game Boy Advance e-Reader Instruction Booklet (2003)(Nintendo)(US).pdf" size="1482266" crc="b18c8ed2" md5="b927f4769c18aa2d5882ad55f32f00c0" sha1="9d43565d4575b2286e74f0ed2470d5ee8c1b9c37"/>
+	</game>
+	<game name="Game Boy Advance Instruction Booklet (2003)(Nintendo)(EU)">
+		<description>Game Boy Advance Instruction Booklet (2003)(Nintendo)(EU)</description>
+		<rom name="Game Boy Advance Instruction Booklet (2003)(Nintendo)(EU).pdf" size="9810722" crc="e324c53e" md5="d319eb4414fb0c4dab66f9a840123222" sha1="0637eb56f0d53df82188334c1a3b85ceb3686ecf"/>
+	</game>
+	<game name="Game Boy Advance Instruction Booklet (2003)(Nintendo)(US)">
+		<description>Game Boy Advance Instruction Booklet (2003)(Nintendo)(US)</description>
+		<rom name="Game Boy Advance Instruction Booklet (2003)(Nintendo)(US).pdf" size="169836" crc="574aa7bd" md5="8cdeca106d2a1e82cc5576315fe8f1fd" sha1="96c027baa62da10d28c59a9ae6d5e810b5a33c80"/>
+	</game>
+	<game name="Game Boy Advance SP Instruction Booklet (2003)(Nintendo)(US)">
+		<description>Game Boy Advance SP Instruction Booklet (2003)(Nintendo)(US)</description>
+		<rom name="Game Boy Advance SP Instruction Booklet (2003)(Nintendo)(US).pdf" size="718458" crc="6c3f286f" md5="2cb57b16e412bdaa465b516889e7d229" sha1="3f53c2f11c0f6ebe48e9a9a9a33be82c07607e21"/>
+	</game>
+	<game name="Game Boy Advance Video (2004)(Nintendo)(US)">
+		<description>Game Boy Advance Video (2004)(Nintendo)(US)</description>
+		<rom name="Game Boy Advance Video (2004)(Nintendo)(US).pdf" size="226743" crc="dc9a6dc1" md5="d6927f4958df10803e2628b28955324b" sha1="d6289ba3e1c9fd818d6d498cbd63a033709bd113"/>
+	</game>
+	<game name="Game Boy Advance Wireless Adapter (2003)(Nintendo)(EU)">
+		<description>Game Boy Advance Wireless Adapter (2003)(Nintendo)(EU)</description>
+		<rom name="Game Boy Advance Wireless Adapter (2003)(Nintendo)(EU).pdf" size="141527" crc="681a6651" md5="ce2411093a44f6b4e3a7c416209335ee" sha1="cc40c8cdcb5d7b598ecb703bf3d0bc318d57c0a8"/>
+	</game>
+	<game name="Game Boy Micro Instruction Booklet (2005)(Nintendo)(US)">
+		<description>Game Boy Micro Instruction Booklet (2005)(Nintendo)(US)</description>
+		<rom name="Game Boy Micro Instruction Booklet (2005)(Nintendo)(US).pdf" size="1004739" crc="a966199b" md5="93b69e031449bc0e37f67d527c0b2b38" sha1="997fb3bf778722b2e61b0850c265b35f3d5942ba"/>
+	</game>
+</datafile>

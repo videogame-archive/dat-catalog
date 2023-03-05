@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia - Firmware</name>
+		<description>Toshiba Pasopia - Firmware (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Font (19xx)(Toshiba)(JP)">
+		<description>Font (19xx)(Toshiba)(JP)</description>
+		<rom name="Font (19xx)(Toshiba)(JP).rom" size="2048" crc="a91c45a9" md5="7080c54eb555d546cc1d8c1e5953fdf3" sha1="a472adf791b9bac3dfa6437662e1a9e94a88b412"/>
+	</game>
+	<game name="Kanji (19xx)(Toshiba)(JP)">
+		<description>Kanji (19xx)(Toshiba)(JP)</description>
+		<rom name="Kanji (19xx)(Toshiba)(JP).rom" size="131072" crc="219eaee5" md5="b22977d55def482a16500de691a7ee83" sha1="f5d849a55abf64a360a6277f47ebfe3f16d257ad"/>
+	</game>
+	<game name="T-Basic (19xx)(Toshiba)(JP)">
+		<description>T-Basic (19xx)(Toshiba)(JP)</description>
+		<rom name="T-Basic (19xx)(Toshiba)(JP).rom" size="32768" crc="f53774ff" md5="2798eaa809df46e01319d754e2b8d998" sha1="bbec45a3bad8d184505cc6fe1f6e2e60a7fb53f2"/>
+	</game>
+</datafile>

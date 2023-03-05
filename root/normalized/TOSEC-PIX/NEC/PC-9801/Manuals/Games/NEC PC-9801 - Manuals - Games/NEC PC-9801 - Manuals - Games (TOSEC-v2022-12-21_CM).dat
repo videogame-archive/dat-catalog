@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 - Manuals - Games</name>
+		<description>NEC PC-9801 - Manuals - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Trial of Fours (1992)(Westside)(JP)">
+		<description>Trial of Fours (1992)(Westside)(JP)</description>
+		<rom name="Trial of Fours (1992)(Westside)(JP).pdf" size="8965746" crc="aaf1d7f7" md5="991884c5dd892331eb4df5f71961018f" sha1="0a065c5a04f8ae637c5cd52154d7e4c82ee4be9a"/>
+	</game>
+	<game name="XZR (1988)(Telenet)(JP)">
+		<description>XZR (1988)(Telenet)(JP)</description>
+		<rom name="XZR (1988)(Telenet)(JP).pdf" size="21170010" crc="19402712" md5="f55e55a59ad3a811f88e0ee7acc5a6fe" sha1="4a2fdbb496b5c4f541cecb531de420057ef177d1"/>
+	</game>
+</datafile>

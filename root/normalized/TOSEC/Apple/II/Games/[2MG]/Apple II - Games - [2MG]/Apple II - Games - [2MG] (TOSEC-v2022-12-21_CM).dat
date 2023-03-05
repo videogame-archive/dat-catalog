@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Games - [2MG]</name>
+		<description>Apple II - Games - [2MG] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ancient Legends (2016)(8 Bit Weapon)(IIE)[128K]">
+		<description>Ancient Legends (2016)(8 Bit Weapon)(IIE)[128K]</description>
+		<rom name="Ancient Legends (2016)(8 Bit Weapon)(IIE)[128K].2mg" size="819264" crc="2bd99942" md5="eaaa01ce91460d54e7b347c515f41252" sha1="3d9d81b1d0e2550ac1685a23bfcad82a2ce18646"/>
+	</game>
+	<game name="Ancient Legends (2016)(8 Bit Weapon)(IIE)[cr 4am][128K]">
+		<description>Ancient Legends (2016)(8 Bit Weapon)(IIE)[cr 4am][128K]</description>
+		<rom name="Ancient Legends (2016)(8 Bit Weapon)(IIE)[cr 4am][128K].2mg" size="819264" crc="89e28bd9" md5="a2c9c066e1ee336eb13ca6e5a0333d02" sha1="f6f4a9eb175640f626ddc513c4d540682bdd3f4e"/>
+	</game>
+	<game name="Lawless Legends v0.95 (demo-playable) (2021-02-12)(The 8-Bit Bunch)[128K]">
+		<description>Lawless Legends v0.95 (demo-playable) (2021-02-12)(The 8-Bit Bunch)[128K]</description>
+		<rom name="Lawless Legends v0.95 (demo-playable) (2021-02-12)(The 8-Bit Bunch)[128K].2mg" size="5242944" crc="d327798f" md5="e688f729e8d07773b20bb297a36d4328" sha1="564787ccb197670c3af773b38e96ce40efc2ad41"/>
+	</game>
+	<game name="Lawless Legends v1303i.0 (demo-playable) (2021-03-03)(The 8-Bit Bunch)">
+		<description>Lawless Legends v1303i.0 (demo-playable) (2021-03-03)(The 8-Bit Bunch)</description>
+		<rom name="Lawless Legends v1303i.0 (demo-playable) (2021-03-03)(The 8-Bit Bunch).2mg" size="5242944" crc="2917f1eb" md5="8ad1c75a7bebf43a115a86fd29628ce2" sha1="a3b99bf2432fd7c0c318e02dcd668d217ced9ef5"/>
+	</game>
+	<game name="Sparkstone, The - Tales of Florb r3 (2019-03-24)(Crow Cousins)(IIEE)">
+		<description>Sparkstone, The - Tales of Florb r3 (2019-03-24)(Crow Cousins)(IIEE)</description>
+		<rom name="Sparkstone, The - Tales of Florb r3 (2019-03-24)(Crow Cousins)(IIEE).2mg" size="819264" crc="2cbdbf4f" md5="b977f9d418e895b49a37010b115731df" sha1="6ede7e62e044d91083e861e7d09a458b21c1a0b6"/>
+	</game>
+	<game name="Witch Trial v1.0 (2022)(8-Bit-Shack)(DE)(en)">
+		<description>Witch Trial v1.0 (2022)(8-Bit-Shack)(DE)(en)</description>
+		<rom name="Witch Trial v1.0 (2022)(8-Bit-Shack)(DE)(en).2mg" size="819264" crc="83ed2441" md5="71a4828fcb86ef1b6e4e0216f6ec71d6" sha1="48c5468ed77d3104751f6a0647b656921d620ef6"/>
+	</game>
+	<game name="Witch Trial v1.2 (2022)(8-Bit-Shack)(DE)(en)">
+		<description>Witch Trial v1.2 (2022)(8-Bit-Shack)(DE)(en)</description>
+		<rom name="Witch Trial v1.2 (2022)(8-Bit-Shack)(DE)(en).2mg" size="819264" crc="5d658322" md5="81ee4621267c195b2a0220fe45fcefea" sha1="646bfb378567feffb3e030a532f4a4026bcfe2d9"/>
+	</game>
+</datafile>

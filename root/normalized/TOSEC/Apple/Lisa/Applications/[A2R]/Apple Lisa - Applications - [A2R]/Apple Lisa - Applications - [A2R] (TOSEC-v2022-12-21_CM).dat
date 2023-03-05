@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Lisa - Applications - [A2R]</name>
+		<description>Apple Lisa - Applications - [A2R] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="LisaFont (19xx)(Apple)(Disk 1 of 5)">
+		<description>LisaFont (19xx)(Apple)(Disk 1 of 5)</description>
+		<rom name="LisaFont (19xx)(Apple)(Disk 1 of 5).a2r" size="17129070" crc="05d38b90" md5="a42e9de8eb9155c6f3a2a6ccf62c3956" sha1="9e43eef8efdd737a18c9299593d244d27c33bbd4"/>
+	</game>
+	<game name="LisaFont (19xx)(Apple)(Disk 2 of 5)">
+		<description>LisaFont (19xx)(Apple)(Disk 2 of 5)</description>
+		<rom name="LisaFont (19xx)(Apple)(Disk 2 of 5).a2r" size="17821590" crc="a5a5e251" md5="33727b4956ad39e70942798e92cc79fd" sha1="167b9809f846d326aaa96dfe6978f003af698623"/>
+	</game>
+	<game name="LisaFont (19xx)(Apple)(Disk 3 of 5)">
+		<description>LisaFont (19xx)(Apple)(Disk 3 of 5)</description>
+		<rom name="LisaFont (19xx)(Apple)(Disk 3 of 5).a2r" size="17987678" crc="b8296824" md5="fd3419eb9d8609fe7958129df1ebb1f3" sha1="e0625e26993c692011fd88ceb59a887fa89d3181"/>
+	</game>
+	<game name="LisaFont (19xx)(Apple)(Disk 4 of 5)">
+		<description>LisaFont (19xx)(Apple)(Disk 4 of 5)</description>
+		<rom name="LisaFont (19xx)(Apple)(Disk 4 of 5).a2r" size="17210206" crc="adff0050" md5="154f3239c1ae4582e364b2e5f82e2b8f" sha1="7c2bb3d0ce1897d450d2cdc18fa6530f611d270e"/>
+	</game>
+	<game name="LisaFont (19xx)(Apple)(Disk 5 of 5)">
+		<description>LisaFont (19xx)(Apple)(Disk 5 of 5)</description>
+		<rom name="LisaFont (19xx)(Apple)(Disk 5 of 5).a2r" size="14718918" crc="0ac51d98" md5="bdd69b1711a2da72f517c737a619c4ff" sha1="f0e4848ce344886c295a30b136d54d71ef42e504"/>
+	</game>
+	<game name="Xenix (19xx)(SCO)">
+		<description>Xenix (19xx)(SCO)</description>
+		<rom name="Xenix (19xx)(SCO).a2r" size="26734045" crc="ce750ab6" md5="75a5ed4310fe5f41bd7c0c5cffc3a4d9" sha1="81cff8edf531e5218b55668b960978e427643156"/>
+	</game>
+</datafile>

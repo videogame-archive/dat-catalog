@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Magazines - ROM</name>
+		<description>Atari 8bit - Magazines - ROM (TOSEC-v2012-04-18)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-18</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ROM - Vol. 1 Issue 10 (1985-03)(ROM Magazine)">
+		<description>ROM - Vol. 1 Issue 10 (1985-03)(ROM Magazine)</description>
+		<rom name="ROM - Vol. 1 Issue 10 (1985-03)(ROM Magazine).pdf" size="25450293" crc="8c9a96fd" md5="34c6cdeff794694e3eea2676d4bb24b0" sha1="bf6e518c8f210a628b8ed50c68edbb7b590c66ba"/>
+	</game>
+	<game name="ROM - Vol. 1 Issue 2 (1981)(ROM Magazine)">
+		<description>ROM - Vol. 1 Issue 2 (1981)(ROM Magazine)</description>
+		<rom name="ROM - Vol. 1 Issue 2 (1981)(ROM Magazine).pdf" size="6880441" crc="0293319e" md5="57ea1e37ea821b2d0125005f833371e3" sha1="8f2d195793d16a2200f225f6b120f966efdad8b3"/>
+	</game>
+	<game name="ROM - Vol. 1 Issue 3 (1981)(ROM Magazine)">
+		<description>ROM - Vol. 1 Issue 3 (1981)(ROM Magazine)</description>
+		<rom name="ROM - Vol. 1 Issue 3 (1981)(ROM Magazine).pdf" size="11339340" crc="f92ef298" md5="5c83ce0ea3eda9d0d9749fb926cf83e7" sha1="bf78f4a244c51b416197bb28496d3d44f8e1a381"/>
+	</game>
+</datafile>

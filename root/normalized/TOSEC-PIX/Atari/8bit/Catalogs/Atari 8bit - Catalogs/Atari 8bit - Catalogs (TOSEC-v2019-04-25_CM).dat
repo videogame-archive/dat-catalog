@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Catalogs</name>
+		<description>Atari 8bit - Catalogs (TOSEC-v2019-04-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+
+	<game name="Atari 400 Computer System Catalog (1982)(Atari)">
+		<description>Atari 400 Computer System Catalog (1982)(Atari)</description>
+		<rom name="Atari 400 Computer System Catalog (1982)(Atari).pdf" size="895782" crc="ddbebd13" md5="d3703590c33cf590fd35d31558ebd00b" sha1="dc565d0d78fb07f17d80d04dd9be1fd9c93c7a34"/>
+	</game>
+	<game name="Atari 800 Catalog (1980)(Atari)">
+		<description>Atari 800 Catalog (1980)(Atari)</description>
+		<rom name="Atari 800 Catalog (1980)(Atari).pdf" size="995939" crc="987ff872" md5="d60731b9ffb079b0fa357f31f0c3d59c" sha1="75f6c615ce45f441a06b24898d491d4a8f449045"/>
+	</game>
+        <game name="Atari Home Computers Product Catalog (1982)(Atari)(US)">
+		<description>Atari Home Computers Product Catalog (1982)(Atari)(US)</description>
+		<rom name="Atari Home Computers Product Catalog (1982)(Atari)(US).pdf" size="18728455" crc="f848f11f" md5="41ec92271ee0b37fd7948dcfdbf6a5e1" sha1="8198d4d6334687dfedc463ad640e0fd30d2e1553"/>
+	</game>
+</datafile>

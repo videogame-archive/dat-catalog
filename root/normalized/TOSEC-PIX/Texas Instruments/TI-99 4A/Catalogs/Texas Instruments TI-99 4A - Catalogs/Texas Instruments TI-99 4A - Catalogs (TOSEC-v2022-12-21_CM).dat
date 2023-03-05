@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Catalogs</name>
+		<description>Texas Instruments TI-99 4A - Catalogs (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Demonstration Guide (1983)(Texas Instruments)">
+		<description>Demonstration Guide (1983)(Texas Instruments)</description>
+		<rom name="Demonstration Guide (1983)(Texas Instruments).pdf" size="11465159" crc="900a9ccb" md5="798915e93a9368f3610ac7eb63434c65" sha1="26333675151bc31cc18827965987c1d13e8012be"/>
+	</game>
+	<game name="Texas Instruments Catalogo Programmi Home Computer (1988)(Texas Instruments)(IT)">
+		<description>Texas Instruments Catalogo Programmi Home Computer (1988)(Texas Instruments)(IT)</description>
+		<rom name="Texas Instruments Catalogo Programmi Home Computer (1988)(Texas Instruments)(IT).pdf" size="12164938" crc="f5edfcc8" md5="1e0aa66ed204639239e7afb09cb4fd6e" sha1="a38ca1f29196de8a592963494e63ef63c4f88a03"/>
+	</game>
+	<game name="Texas Instruments Introduces the TI-994 Home Computer (1979)(Texas Instruments)">
+		<description>Texas Instruments Introduces the TI-994 Home Computer (1979)(Texas Instruments)</description>
+		<rom name="Texas Instruments Introduces the TI-994 Home Computer (1979)(Texas Instruments).pdf" size="4271834" crc="f1918951" md5="6f5d04d5f4513c2cfe710b69f0f7f3b8" sha1="aca37a2383bbeadd720fbe9cd02aa956f41164e8"/>
+	</game>
+	<game name="Texas Instruments TI-99 4A (1988)(Texas Instruments)(IT)">
+		<description>Texas Instruments TI-99 4A (1988)(Texas Instruments)(IT)</description>
+		<rom name="Texas Instruments TI-99 4A (1988)(Texas Instruments)(IT).pdf" size="6821768" crc="771c607e" md5="c7516e006682dc98ef729fc0cf2ae0ff" sha1="76ffb08c4063a95b32a5874a271081e0df2b126a"/>
+	</game>
+	<game name="Texas Instruments TI-99 4A (1988)(Texas Instruments)(IT)[a]">
+		<description>Texas Instruments TI-99 4A (1988)(Texas Instruments)(IT)[a]</description>
+		<rom name="Texas Instruments TI-99 4A (1988)(Texas Instruments)(IT)[a].pdf" size="32604950" crc="a514447b" md5="cf54dfe0831804e69b14b328488b1f6d" sha1="743018c2070e173f217b4dc35d84625a8f09b249"/>
+	</game>
+	<game name="Texas Instruments TI-99 4A Home Computer (1988)(Texas Instruments)(IT)">
+		<description>Texas Instruments TI-99 4A Home Computer (1988)(Texas Instruments)(IT)</description>
+		<rom name="Texas Instruments TI-99 4A Home Computer (1988)(Texas Instruments)(IT).pdf" size="8187525" crc="3f728576" md5="c9d4c70bfe106a8f525ff892647f6468" sha1="48b8778a3d8ec26b3028b90a8362bc59cd3be74a"/>
+	</game>
+</datafile>

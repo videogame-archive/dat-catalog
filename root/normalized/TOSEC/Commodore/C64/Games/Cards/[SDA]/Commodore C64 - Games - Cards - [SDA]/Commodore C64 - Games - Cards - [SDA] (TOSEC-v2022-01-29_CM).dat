@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Cards - [SDA]</name>
+		<description>Commodore C64 - Games - Cards - [SDA] (TOSEC-v2022-01-29)</description>
+		<category>TOSEC</category>
+		<version>2022-01-29</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Tough (19xx)(-)">
+		<description>Tough (19xx)(-)</description>
+		<rom name="Tough (19xx)(-).sda" size="10240" crc="7370b255" md5="0d9d0592e59f12924896542b72eb09f5" sha1="239e09209ca37e16fe02fd32150cb01652ebbfb3"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Catalogs</name>
+		<description>Commodore Amiga CDTV - Catalogs (TOSEC-v2012-04-14)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-14</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CDTV Catalog of Titles Volume 1 (1991)(Commodore)">
+		<description>CDTV Catalog of Titles Volume 1 (1991)(Commodore)</description>
+		<rom name="CDTV Catalog of Titles Volume 1 (1991)(Commodore).pdf" size="23221839" crc="241912bc" md5="6867a4acf505709baf548d910a734be9" sha1="ed4534da03dc8c0ed457ef5b0332615553b34f24"/>
+	</game>
+	<game name="Commodore CDTV (1991)(Commodore)(DE)">
+		<description>Commodore CDTV (1991)(Commodore)(DE)</description>
+		<rom name="Commodore CDTV (1991)(Commodore)(DE).pdf" size="690783" crc="ad28bf87" md5="591fb820be13fa856b71d07d3e85f44d" sha1="71f7dde6484a4fc7b00476e26a33984b77292404"/>
+	</game>
+</datafile>

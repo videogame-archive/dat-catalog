@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>300</id>
+		<name>Nintendo - Wallpapers</name>
+		<description>Nintendo - Wallpapers</description>
+		<version>20230201-173606</version>
+		<author>Hiccup, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Line - @Nintendo - Hoshi no Kirby - Vol. 1 (Japan) (2015-11-20) (Wallpaper) [b]" id="0001">
+		<description>Line - @Nintendo - Hoshi no Kirby - Vol. 1 (Japan) (2015-11-20) (Wallpaper) [b]</description>
+		<rom name="001.jpg" size="90442" crc="d0f2d079" md5="a15ef796fd21796be3725f45955da9ba" sha1="5680a988802e198d57ac21eecd8bd00a9c10a27b" sha256="7fb01116cbf2797dfb7c6a1b80af5e9e405ab6cbbeb15e5f99537b639fa01ba9" status="baddump"/>
+		<rom name="002.jpg" size="133669" crc="38cd97c8" md5="b93f092b3742d163352d9ab04f30209c" sha1="0b0bc971b916b26d1c7925e6e7267b025dcde4ed" sha256="6a54eea6d502e87b4dc0ff2b8348411bac6e5c9f4d9a85bbf471cea35e009408" status="baddump"/>
+	</game>
+	<game name="Line - @Nintendo - Hoshi no Kirby - Vol. 2 (Japan) (2015-12-11) (Wallpaper) [b]" id="0002">
+		<description>Line - @Nintendo - Hoshi no Kirby - Vol. 2 (Japan) (2015-12-11) (Wallpaper) [b]</description>
+		<rom name="001.jpg" size="122519" crc="2dc90e58" md5="180d3bb038a7c0a9da1afcc6318c7639" sha1="cd6a947d28b6c84436516b146cf66bf685a27c46" sha256="88fad578b35d1924e55007cd6a4ef98a4c65f9ae094f8e753466d28b6bbeeb61" status="baddump"/>
+		<rom name="002.jpg" size="141878" crc="9870c51a" md5="f84a88b0ab268c3cec91b04918b2a493" sha1="0c2caf4d48d41df30b6e2913f46f414e42dc8029" sha256="c4e1f36e875bb0806b459711f5c292dde60ef08e343e79321517f7639b99f47c" status="baddump"/>
+	</game>
+	<game name="My Nintendo Original 'Hoshi no Kirby - Discovery' Kabegami (Japan) (Nintendo Switch) (Wallpaper)" id="0003">
+		<description>My Nintendo Original 'Hoshi no Kirby - Discovery' Kabegami (Japan) (Nintendo Switch) (Wallpaper)</description>
+		<rom name="WallPaper_KirbyDiscovery_1080_1920.jpg" size="739544" crc="96226f18" md5="1ae00c5ead24b0acbb6b51a89b911dd5" sha1="6f66f160b06615097ce4a8a25615ff6e1fbb745d" sha256="25095763fe2a09c43ed8e918d107a09fe13820fcfa21c933628ea4b437e49758"/>
+		<rom name="WallPaper_KirbyDiscovery_1200_1920.jpg" size="681227" crc="68f5b817" md5="838b5f3de1072d05f37b904abd3a1e04" sha1="1a3c4de2c9bd6d6e4101f61e9bd5d2b21043b45c" sha256="44f1e20e2274db583b7d826ef75d3a3d84fe274f0c0a967c1c1847ae526def3e"/>
+		<rom name="WallPaper_KirbyDiscovery_1242_2688.jpg" size="1012578" crc="6a933fd9" md5="b0a335af5dca1d6309832912aca236a5" sha1="d3e15c3cbd6cce74645550815e1db8670a8df65c" sha256="537de5d7624bf70a1f5345199c8d7154845075a33a1d9401dd83c0fb91873bd3"/>
+		<rom name="WallPaper_KirbyDiscovery_1536_2048.jpg" size="925653" crc="cedc7d71" md5="71dd5d99ce66b24cdbde2b4c3923e0c9" sha1="8287c9e952d098bb420bedfcfc1e53f9ed16dd41" sha256="274b99427a31045cfdb2d4cdffe2f7006f92a9d6bafc8bcfd2b669fb87d5dd93"/>
+		<rom name="WallPaper_KirbyDiscovery_1920_1080.jpg" size="659856" crc="cade10af" md5="1277fd3407300065abb343f9a536cf91" sha1="11813eb7a24fe6f1801367a8bfd741785444d6b3" sha256="e700053107fc9d3e97749801d971ddbe1b56834fdeee0049f72b8faa18c3b1a2"/>
+	</game>
+	<game name="My Nintendo Original 'Mario Strikers - Battle League' Kabegami (Japan) (Nintendo Switch) (Wallpaper)" id="0004">
+		<description>My Nintendo Original 'Mario Strikers - Battle League' Kabegami (Japan) (Nintendo Switch) (Wallpaper)</description>
+		<rom name="WallPaper_mariostrikersBL_1080_1920.jpg" size="2045034" crc="2ed1b79a" md5="5d56bd971062131bea9d96481255b288" sha1="d2316738c35aadf0845063f05e5415b136a291cf" sha256="a95a2857cb2fc4453fb55f7a505544598d198e3313701c7e5f288484746a4326"/>
+		<rom name="WallPaper_mariostrikersBL_1200_1920.jpg" size="2053708" crc="95c4ef84" md5="4e8957c5cb1883498bee72e30ffa485e" sha1="8a9361d4ebd1d86e9460efe02c35a019955840e8" sha256="d0b378fce2a1d0c346ac3939f3f666f661ec843b3911d7384912847e18030a1a"/>
+		<rom name="WallPaper_mariostrikersBL_1242_2688.jpg" size="3017968" crc="cf3a90b9" md5="6306ed2c90d0e1f0528123e1115cd84e" sha1="ba0583903388ec5eec49bc6d3a334106af4ebd2b" sha256="213c70a569683dcc8af40f02cbb937a2a0dad73867c9d5d765db0cbaae366418"/>
+		<rom name="WallPaper_mariostrikersBL_1536_2048.jpg" size="2771321" crc="ff9acd06" md5="088faaacbe6af778a87b39477d7b76c9" sha1="f697d6df38884cdcefe4c4bb10108b11647a058c" sha256="5b6a3aca252a2e3d9b99c409f78345849e6c2cca6d14959ad0fa94f965fc07ba"/>
+		<rom name="WallPaper_mariostrikersBL_1920_1080.jpg" size="2802687" crc="d0a143c5" md5="669690c527380a348d40984c15a43d87" sha1="cba06ceead0e76e17c4474e0b1427dc7d7ddd6c4" sha256="9bcd943e9de0d7e3629b701a1176839a7c3241ae94a7d09f6dfdcd8b65b0fa93"/>
+		<rom name="WallPaper_mariostrikersBL_logo_1080_1920.jpg" size="2099511" crc="60a46ee9" md5="96c2dd2c88327e8140895bca2b54bce1" sha1="35009b89f91d4017b1e4b67fbf2ea0ec09bb3942" sha256="19d1a284bc592ca0fe002b4339d69e13a8b76333e53ec3ac376fb52735e54edf"/>
+		<rom name="WallPaper_mariostrikersBL_logo_1200_1920.jpg" size="2148330" crc="a070ef7b" md5="8b6fa4b0bedb079cc0fc540fd6d5694d" sha1="ca41036940f20972cf7fee20ce63719dba3047fb" sha256="740cace33f4ba4b9fd4c7f64ad2e8f9a918eb05f406142cfc240b56b6f19f715"/>
+		<rom name="WallPaper_mariostrikersBL_logo_1242_2688.jpg" size="3068597" crc="7930e511" md5="45b623fa0ad5288f146ec62ad5eb4ccf" sha1="26f5f2331fb6a45d8529f77d23c6bf60f20d9f16" sha256="e768840af7c4736b8aa6d3daf0b7a198a4a1cf163cb60871ba9c4ab4b6c7b0df"/>
+		<rom name="WallPaper_mariostrikersBL_logo_1536_2048.jpg" size="2868964" crc="c3940186" md5="dc83fe903efcc710b9b2cb08dbf17105" sha1="3806ec07376eacc76316c7c8ac2641497858ec61" sha256="822d3fd4a1372208b094ab3a92f7ff9a700ddc86ab9dce9d886d5b88b1a9b08c"/>
+		<rom name="WallPaper_mariostrikersBL_logo_1920_1080.jpg" size="2831886" crc="9cb31079" md5="56f6854a742b74a77eec2b2852d64240" sha1="a5f2f12db155881a5d4244504b8fd0a562332ed8" sha256="96691a9d825620915791059ce86f815a41e3f5a273a84de750295eb1a9530168"/>
+	</game>
+	<game name="Twitter - @mario_odysseyJP - Super Mario Odyssey (Japan) (Nintendo Switch) (Wallpaper)" id="0009">
+		<description>Twitter - @mario_odysseyJP - Super Mario Odyssey (Japan) (Nintendo Switch) (Wallpaper)</description>
+		<rom name="EU4y_3EUUAIbJTa.jpg" size="1710147" crc="78baa64a" md5="9cc2d1e17ccbb96bef1ea1b0f3c50008" sha1="8213f57ae29ff7ad5ad5f13041a63e82de966cc9" sha256="c32a094fd613b98ee48581ca770077a6f40bed0fd70d299a0d2bc635b49c8ed8"/>
+		<rom name="EU4zB8EUMAAeOUA.jpg" size="508098" crc="bd3448a5" md5="e4e13d7870cd3d14585595ee06ebb300" sha1="251052f5c5097d76be86ebd372aa60a20a1a3d84" sha256="2397ec2542194a644757c0890bf36bf5a73d658cf1cd610980368cb5a45923de"/>
+		<rom name="EU4zDYtU8AA8FR_.jpg" size="416997" crc="a6e3f28f" md5="3907c3a45a6c7f51aeb7fff6d9545be0" sha1="59fc29361518ed03870a22eccbf49f1d49f015a4" sha256="bba6229112cb6f0ac8306637dce0a4f8c8d613a1a294c541fbf92bcb1c0577a3"/>
+		<rom name="EU4zE22U4AMwUXI.jpg" size="1008649" crc="70f4a35c" md5="180984629f5b0df4b0bae4a88df9976a" sha1="7ddbc5f09379f36aea4431e4e8e16a159864322b" sha256="aec40df52da086be8a0c203d087fefa510f000561afb856a6675178bb15c3766"/>
+	</game>
+	<game name="Twitter - @Nintendo - Luigi Mansion 3 (Japan) (Nintendo Switch) (Wallpaper)" id="0008">
+		<description>Twitter - @Nintendo - Luigi Mansion 3 (Japan) (Nintendo Switch) (Wallpaper)</description>
+		<rom name="EX3BOWdUMAABHB6.jpg" size="683590" crc="ecafec7d" md5="4beb0d8ca4f078371fdcf9a506eaad6a" sha1="e0f37995166a9a24fdbe9361de6979ec5bfafb73" sha256="90af59b3540df7b0e922ce06eef3db9598d2c51fc8dc003dbf45997876413f56"/>
+		<rom name="EX3BO7oVAAEtpJk.jpg" size="747125" crc="87e7111d" md5="978dcac2a9b9336a2ba3962d45c3419c" sha1="b81fa3a09c0e931e7b75f7e9a7dde767c29b1bac" sha256="1b907f934b56d9d896fb2885ca59ec92e1a2e15a548ee731e49e6146278131e4"/>
+		<rom name="EX3BPonU0AAGi7S.jpg" size="549077" crc="0a717fe3" md5="48d476290e3d67abaffa4885645b5985" sha1="3c83b28f1a5f53a876af330cd41e4df9fe105e69" sha256="91f41aa14bc719ed7f220d788d1c78f251a2702694ffb7391b14c7d4343ab9d1"/>
+		<rom name="EX3BQJrUwAAdiLh.jpg" size="536395" crc="e44538c5" md5="07bc42ea9e7e1e52edf4360a38ce99f4" sha1="a1e52619c2f371fc19d4a9a361c52c4b8f5ff297" sha256="da8e598e6f5a0fb086c4b7a7ed34c329508509a4f0e01219efc17411f21a3566"/>
+	</game>
+	<game name="Twitter - @Nintendo - Mario Kart 8 Deluxe (Japan) (Nintendo Switch) (Wallpaper)" id="0007">
+		<description>Twitter - @Nintendo - Mario Kart 8 Deluxe (Japan) (Nintendo Switch) (Wallpaper)</description>
+		<rom name="EX2_7SNUEAEBhhS.jpg" size="489846" crc="3484af90" md5="13b4059002fb1a05031dc942e35a06b8" sha1="90776b3b227f82d8358e4d748944c69119b211fe" sha256="9dc2991368f04a3e13052001815e145968c5f2f159afa8eff6c57ba16574ff4b"/>
+		<rom name="EX2_7w-U0AANq0z.jpg" size="1398868" crc="c02e749e" md5="1d5452a54b495130d8cc704b53b6ffa5" sha1="5e8468817b1c45419ef3969e8ed7d5eee665a0d8" sha256="5c5ac89cacbaa4be79ce2debc2bf18fcbef5a3111d96253c1b94fa00946962ef"/>
+		<rom name="EX2_8GYUEAEVeFP.jpg" size="1377912" crc="02e8ae6c" md5="ab1a87f8f34ce4efc891a6460af9a347" sha1="ecb6a16ac0d8383dc5b860c3444157ddeda06808" sha256="ca48c80d059c5f32268de4074d1647e676e62502b4611e3e9a1b7f1686c63a04"/>
+		<rom name="EX2_8iKUcAUAfg2.jpg" size="1230392" crc="1df87a32" md5="c1d20f39a123396c29d690e454d01f98" sha1="37ed6e25d2778bbda626e247f5ab37df88fa1cf2" sha256="54c58f357a219ca9c1d8acd02716dd12b86e49d72a6e39f4541327589ea7dfb8"/>
+	</game>
+	<game name="Twitter - @Nintendo - Star Fox Zero - The Battle Begins - Short Anime (Japan) (Wii U) (Wallpaper)" id="0006">
+		<description>Twitter - @Nintendo - Star Fox Zero - The Battle Begins - Short Anime (Japan) (Wii U) (Wallpaper)</description>
+		<rom name="EX9dLSBUMAAlvDA.jpg" size="369252" crc="8665597d" md5="59ca71611ee681250f975cd1f95b679a" sha1="3f4306a3758de2111efbb8044c87172c4d3ea2f9" sha256="905695b68e5d4c2f2da8ee4512e43297261195923661cc763ffdafe148e8ae21"/>
+		<rom name="EX9dOfwUEAAkG6i.jpg" size="338821" crc="b0bcf2fa" md5="d2eba3a8aa04511dc3049067b4724b30" sha1="8356a66e3ba22960f001fac19694d9433dcedcc3" sha256="06d3c5dc797e1945aeed64905b61e2628ecfd2e6cf4ad99b9be5dc9980928fde"/>
+		<rom name="EX9dPv8U4AAKe_m.jpg" size="631902" crc="d80b54bc" md5="2ec46d604dcf573b34b7289aff1281b5" sha1="93d3a2d35c5e7773d61af7ebbb7202b8b1b3c211" sha256="b44acdcdc8a748f3d3e723c636356b3ed1b525373feaa7672910476314b8d3fb"/>
+		<rom name="EX9dSfGUEAEClgJ.jpg" size="717641" crc="b880d446" md5="981379b5c3707fcc3098947f030b9871" sha1="1dfd67a0d5046b7ed4188dbd73f00d4d27f389ab" sha256="98fd50a4b159ec18b4754e68fb95f1a852fb1460072b8575129dfc043602c6e1"/>
+	</game>
+	<game name="Twitter - @Nintendo - Super Mario Maker 2 (Japan) (Nintendo Switch) (Wallpaper)" id="0005">
+		<description>Twitter - @Nintendo - Super Mario Maker 2 (Japan) (Nintendo Switch) (Wallpaper)</description>
+		<rom name="EX3BFPqUEAA1ygU.jpg" size="386432" crc="ea853a81" md5="ccfdd2fb7941d4990b13f2d7d1976e5e" sha1="9fc4ae0a4b1cbdcaa8ccedf649f3796c6ea10aac" sha256="fa2aea00b0535e05de2dd1bf964cb65de0d12e4b46069b5d3019732ad61995e6"/>
+		<rom name="EX3BGGmU0AAe1k9.jpg" size="352388" crc="1f7533d7" md5="f5e17a6177cdb5f117a4991b3c27ebad" sha1="45d01c60313352dcced1580286d9512fc0e78dd6" sha256="c1a26e2161e72a759404e51e6147fc383ae1919362884371867aa4c8159d5111"/>
+		<rom name="EX3BGjTUwAAKO7n.jpg" size="808262" crc="dcca4fc7" md5="2f884371ac0e45206c8a26b3b4f7c52d" sha1="5ab69cdd76870c3570a1bfeac65d4fdfab560990" sha256="9d7629a9134ca2988d21fbe8a7fd9049268b1ec5d5e4b3160633db84c29eb21c"/>
+		<rom name="EX3BHLlUMAAbM07.jpg" size="747681" crc="d8878ca3" md5="92b21364b1ddc3bec83b6c51a0447833" sha1="0c26f12c3d369cdd581ae67510065c96d7bfac5b" sha256="050ba47cadcccf2f1fb5692a46ee7e198f5b6ba3c78882068144a10dddd9e846"/>
+	</game>
+</datafile>

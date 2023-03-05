@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>101</id>
+		<name>Konami - Picno</name>
+		<description>Konami - Picno</description>
+		<version>20201121-052249</version>
+		<author>relax, TeamEurope</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Anime Box (Japan)" id="0012">
+		<description>Anime Box (Japan)</description>
+		<game_id>RX112</game_id>
+		<rom name="Anime Box (Japan).bin" size="524288" crc="42a6b05c" md5="60fe7eae6d99e48ec9e5035bc514485c" sha1="29ae55692c115b5f311f2c2a12888e8fff17ced5" sha256="b39d3f3a4a1d82aa5f42c983f78dfe1ed1a743917407d9a610779934f803ae94" serial="ZPJ112"/>
+	</game>
+	<game name="Anime Enikki (Japan)" id="0002">
+		<description>Anime Enikki (Japan)</description>
+		<game_id>RX106</game_id>
+		<rom name="Anime Enikki (Japan).bin" size="524288" crc="aa334046" md5="5620f34df84b06f41156019973ab38c8" sha1="ee3f37c4a9256c1be446fc4ea877da1be1cf04d6" sha256="227e976d2f7b186badc380becd4874aca701b8978ed27202cca1e3b3c8eefc47" serial="ZPJ006"/>
+	</game>
+	<game name="Chibi Maruko-chan no Tashizan Hikizan (Japan)" id="0019">
+		<description>Chibi Maruko-chan no Tashizan Hikizan (Japan)</description>
+		<game_id>RX124</game_id>
+		<rom name="Chibi Maruko-chan no Tashizan Hikizan (Japan).bin" size="524288" crc="120d41e0" md5="65d4830a6faa88c9a3b84501144e904e" sha1="857c18d9feffcb68c9177940163026a3320173fc" sha256="c935dad08af2e3c3672ffaa46c408d644ac230a536176c1182777e0daeec92f5" serial="ZPJ124"/>
+	</game>
+	<game name="Dokkin Shinri Game (Japan)" id="0015">
+		<description>Dokkin Shinri Game (Japan)</description>
+		<game_id>RX115</game_id>
+		<rom name="Dokkin Shinri Game (Japan).bin" size="524288" crc="cdc9d45e" md5="20e89b2371d32449704a764763bc10f8" sha1="e6085b05888280b4e411beddac382b2242e239d1" sha256="07bb644161f1c5d155c233375fb7b927e2bc76a99ef81ea03d64097a2afe9411" serial="ZPJ115"/>
+	</game>
+	<game name="Fushigi no Kuni no Alice (Japan)" id="0011">
+		<description>Fushigi no Kuni no Alice (Japan)</description>
+		<game_id>RX103</game_id>
+		<rom name="Fushigi no Kuni no Alice (Japan).bin" size="524288" crc="0dde07a2" md5="72105206ef35242d8198e535c28f4c31" sha1="4bd11755df05d7e4cbb76fffcc215ee91ba96d50" sha256="52d4b654df1993e4885f7c4276202d3686b8bc459ed9a4fdc8d42245fb63fbcf" serial="ZPJ002"/>
+	</game>
+	<game name="Hello Kitty no Eikaiwa (Japan)" id="0016">
+		<description>Hello Kitty no Eikaiwa (Japan)</description>
+		<game_id>RX121</game_id>
+		<rom name="Hello Kitty no Eikaiwa (Japan).bin" size="524288" crc="30308638" md5="91a6624a6358141e77c248b39f843d8c" sha1="a29d726ecb73262dd8e3fdabb35670bdf2c5ce1d" sha256="7e0992889107d0af8aa849b142034c649daded59fe1ddf72e90f27c1ce4c6ba7" serial="ZPJ121"/>
+	</game>
+	<game name="Kanji Club (Japan)" id="0007">
+		<description>Kanji Club (Japan)</description>
+		<game_id>RX116</game_id>
+		<rom name="Kanji Club (Japan).bin" size="524288" crc="78b6eb10" md5="841d7f29aa916c8aa3b08f31d739290d" sha1="dae38fbeeb0b411e849a800fe12ad1d1d42f9a99" sha256="db3974264a0069ff66f797bde7a1f04c835837bff96978c3b7be94a806bafc12" serial="ZPJ116"/>
+	</game>
+	<game name="Kiiroi Kyouryuu-kun Parasa no Obake Taiji (Japan)" id="0009">
+		<description>Kiiroi Kyouryuu-kun Parasa no Obake Taiji (Japan)</description>
+		<game_id>RX111</game_id>
+		<rom name="Kiiroi Kyouryuu-kun Parasa no Obake Taiji (Japan).bin" size="524288" crc="c2b1a5ab" md5="fadeb1eac4259422cf4c5542b3cb4546" sha1="3af4124d16fbd66805d26b7ddf9b6bcc8f5d07f5" sha256="96523a016d813ac9f5dd9f18a16de6eeb26c923d0da5093f5382560feff5f34b" serial="ZPJ111"/>
+	</game>
+	<game name="Montage (Japan)" id="0010">
+		<description>Montage (Japan)</description>
+		<game_id>RX102</game_id>
+		<rom name="Montage (Japan).bin" size="262144" crc="014b1da5" md5="d48b83ae10540ae409f73f9762c62874" sha1="718000598da119fde15899e0b746e0d1b3c9b038" sha256="2bdaa02994fa86e2a384e7f78d6338967e2d96d7b2aa63cc3bbd426f3e25603a" serial="ZPJ001"/>
+	</game>
+	<game name="Nontan to Issho Anime Stamp (Japan)" id="0014">
+		<description>Nontan to Issho Anime Stamp (Japan)</description>
+		<game_id>RX119</game_id>
+		<rom name="Nontan to Issho Anime Stamp (Japan).bin" size="524288" crc="1e4a8b5c" md5="cf806ec67cb104bed8570176977b7415" sha1="d5f67f2249f6662ba6209a8c6a91b882ddfd84a0" sha256="b40551695635758f5c590858f103558abda559e9be33c6faadfe2fb442c9b495" serial="ZPJ119"/>
+	</game>
+	<game name="Paint Ehon - Cinderella Monogatari (Japan)" id="0017">
+		<description>Paint Ehon - Cinderella Monogatari (Japan)</description>
+		<game_id>RX123</game_id>
+		<rom name="Paint Ehon - Cinderella Monogatari (Japan).bin" size="524288" crc="560e0eca" md5="d12dfef285d66146a89fddde4d77bc0a" sha1="4d96991a025e2811727e7834f2c8a83841eccdb3" sha256="0348a6b298855d4dd0423f243b305ca47b180b400fcbaa792307cc9eca2a206d" serial="ZPJ123"/>
+	</game>
+	<game name="Picno ArtPuzzle (Japan)" id="0005">
+		<description>Picno ArtPuzzle (Japan)</description>
+		<game_id>RX109</game_id>
+		<rom name="Picno ArtPuzzle (Japan).bin" size="1048576" crc="6de0342b" md5="5f4ba9c1305187388993d0a386cc219e" sha1="43534c4beb67036a5225634fa72567d93c4ee35e" sha256="682a9e932e08ef38d32e83edf191c98a008158ba6fc4d35edd0008c7fb6c8a67" serial="ZPJ109"/>
+	</game>
+	<game name="Picno de 123 (Japan)" id="0004">
+		<description>Picno de 123 (Japan)</description>
+		<game_id>RX108</game_id>
+		<rom name="Picno de 123 (Japan).bin" size="1048576" crc="ca4a4d22" md5="4ec3bf958b41f10a1771ed7341699a6f" sha1="8ee0b6b6c69ea5d49472b56d6e00c1d5fb2ffdaa" sha256="620889858f0c4afc97e2543eef952962e5a64bf41c980dadf26e74231b865fe5" serial="ZPJ008"/>
+	</game>
+	<game name="Picno de ABC (Japan)" id="0001">
+		<description>Picno de ABC (Japan)</description>
+		<game_id>RX105</game_id>
+		<rom name="Picno de ABC (Japan).bin" size="524288" crc="590e3bd8" md5="73f3369806456afb6b930e97109b1b62" sha1="05a1c22aa916c8177ab743ef633bae31cb28c0db" sha256="e30bc037186556ffcc444eca9618c83f2096827d6ef39785fb194cf4612c8908" serial="ZPJ105"/>
+	</game>
+	<game name="Picno de AIUEO (Japan)" id="0003">
+		<description>Picno de AIUEO (Japan)</description>
+		<game_id>RX107</game_id>
+		<rom name="Picno de AIUEO (Japan).bin" size="1048576" crc="f56e48bc" md5="f6bf0ff30a9593f55f529ca9da20250c" sha1="aa0ec867183e799c0ded1cfdaab92250a6fb6556" sha256="9a7e95e5fc22b7a4129c31210add87715a4e32720a003ec3cb93b2590c79dac6" serial="ZPJ107"/>
+	</game>
+	<game name="Picno de Kuku (Japan)" id="0018">
+		<description>Picno de Kuku (Japan)</description>
+		<game_id>RX117</game_id>
+		<rom name="Picno de Kuku (Japan).bin" size="524288" crc="13996ddd" md5="1491ec49809b48414cfd4372a7a30676" sha1="a4f4e22f7fbbe3be86c642af252b332017d4f00d" sha256="dfa46d5ac19bc7cfd8c149fd4f71b05f888e2f6a09a58782ab38aec05478c002" serial="ZPJ117"/>
+	</game>
+	<game name="Picno de Nihon Chizu (Japan)" id="0020">
+		<description>Picno de Nihon Chizu (Japan)</description>
+		<game_id>RX113</game_id>
+		<rom name="Picno de Nihon Chizu (Japan).bin" size="524288" crc="2e75de04" md5="670597338e7abb0e68a4a8abdc17b843" sha1="03fc9ec7c90245498894caf88c45c234dd577db8" sha256="10abf9f7599af57662817e0b396f8ef7db5744fd9b100e77e49b2fa38ba1b242" serial="ZPJ113"/>
+	</game>
+	<game name="Real Montage (Japan)" id="0006">
+		<description>Real Montage (Japan)</description>
+		<game_id>RX110</game_id>
+		<rom name="Real Montage (Japan).bin" size="524288" crc="3fa2de37" md5="1b7af218ff91beb4154278c986b2155c" sha1="27b99bc33ec00b025188039c434da5ad425492dc" sha256="e25d7e0c718b9bc38ef1c8850da5ae58683d5224ffa2b46d72b33d026f7acfc8" serial="ZPJ110"/>
+	</game>
+	<game name="Shirayuki Hime Monogatari (Japan)" id="0008">
+		<description>Shirayuki Hime Monogatari (Japan)</description>
+		<game_id>RX118</game_id>
+		<rom name="Shirayuki Hime Monogatari (Japan).bin" size="524288" crc="6720748f" md5="5e6c7caa2f878c09f254c1aaefcaea69" sha1="cb6c1a4d53bb583e2114923f24ab2383a5e078c4" sha256="948cc2f55912d4aaaf87bb7dd36a01b8e485af37d5ea4b400ff7211cd3d6a783" serial="ZPJ118"/>
+	</game>
+	<game name="Son Goku no Boken (Japan)" id="0013">
+		<description>Son Goku no Boken (Japan)</description>
+		<game_id>RX122</game_id>
+		<rom name="Son Goku no Boken (Japan).bin" size="524288" crc="c3f8338d" md5="3f89a9b45eaea170276a9149bf490179" sha1="f3f7508acb20a887d4cc9c831e2cf336656a3871" sha256="7403a68f2348b9c5aa84c824e26d16407b5d325c161a04c0d6a213664184540c" serial="ZPJ122"/>
+	</game>
+</datafile>

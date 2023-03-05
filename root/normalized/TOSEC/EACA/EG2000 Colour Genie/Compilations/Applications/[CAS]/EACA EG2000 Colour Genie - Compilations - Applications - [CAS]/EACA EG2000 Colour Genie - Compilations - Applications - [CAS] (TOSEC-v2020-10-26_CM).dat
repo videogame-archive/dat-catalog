@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Compilations - Applications - [CAS]</name>
+		<description>EACA EG2000 Colour Genie - Compilations - Applications - [CAS] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>|cy[ool - Grendel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Extended Copy (198x)(TTS)(DE)">
+		<description>Extended Copy (198x)(TTS)(DE)</description>
+		<rom name="Extended Copy (198x)(TTS)(DE).cas" size="5202" crc="dc51af08" md5="267c82794b83982a1c511d4a7b372f09" sha1="404f0e183de04268978e3791d09f900cc094cee0"/>
+	</game>
+	<game name="Extended Copy (198x)(TTS)(DE)[a header]">
+		<description>Extended Copy (198x)(TTS)(DE)[a header]</description>
+		<rom name="Extended Copy (198x)(TTS)(DE)[a header].cas" size="5103" crc="d0398461" md5="91d9319a44c521da13083f4fcbc499b9" sha1="4901ea77e5c3e419516eb3a63705d71ca46e2527"/>
+	</game>
+	<game name="Utilities Package v2.0 (1983)(Algray Software)(GB)">
+		<description>Utilities Package v2.0 (1983)(Algray Software)(GB)</description>
+		<rom name="Utilities Package v2.0 (1983)(Algray Software)(GB).cas" size="3387" crc="b7a478ab" md5="321de023894df3e7c1eb34873cf2a427" sha1="b210efec5d5eda0941b9b7ed3a97d13b7c252d7d"/>
+	</game>
+</datafile>

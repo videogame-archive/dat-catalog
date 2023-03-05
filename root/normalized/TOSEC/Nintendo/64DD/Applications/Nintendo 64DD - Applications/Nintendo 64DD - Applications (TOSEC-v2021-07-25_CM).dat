@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64DD - Applications</name>
+		<description>Nintendo 64DD - Applications (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dezaemon DD Rev 199802xx (1998)(Athena)(JP)(en-ja)(proto)[b missing system area][req Dezaemon 3D]">
+		<description>Dezaemon DD Rev 199802xx (1998)(Athena)(JP)(en-ja)(proto)[b missing system area][req Dezaemon 3D]</description>
+		<rom name="Dezaemon DD Rev 199802xx (1998)(Athena)(JP)(en-ja)(proto)[b missing system area][req Dezaemon 3D].ndd" size="64458560" crc="ccb84a39" md5="99a67674130f271f150db75c02d14f0a" sha1="d5cc4ab1fc79e27e54a9ad08c4dee47256352006"/>
+	</game>
+	<game name="Dezaemon DD Rev 199802xx (1998)(Athena)(JP)(en-ja)(proto)[req Dezaemon 3D]">
+		<description>Dezaemon DD Rev 199802xx (1998)(Athena)(JP)(en-ja)(proto)[req Dezaemon 3D]</description>
+		<rom name="Dezaemon DD Rev 199802xx (1998)(Athena)(JP)(en-ja)(proto)[req Dezaemon 3D].ndd" size="64931840" crc="07a920f7" md5="40aa8ec52c5e025d6c6ad94cebc2218f" sha1="f0b3e6c0a944118e4a8ee8ea54da1b103b754241"/>
+	</game>
+	<game name="Mario Artist - Communication Kit (2000)(Nintendo)(JP)">
+		<description>Mario Artist - Communication Kit (2000)(Nintendo)(JP)</description>
+		<rom name="Mario Artist - Communication Kit (2000)(Nintendo)(JP).ndd" size="64931840" crc="3bf36eda" md5="114af722029d6386c3bfea4cc8fa603c" sha1="8040dcd657227463b840f47f3e24a7f42945e1f8"/>
+	</game>
+	<game name="Mario Artist - Paint Studio (1999)(Nintendo)(JP)">
+		<description>Mario Artist - Paint Studio (1999)(Nintendo)(JP)</description>
+		<rom name="Mario Artist - Paint Studio (1999)(Nintendo)(JP).ndd" size="64931840" crc="b732c3ad" md5="8485643e5830cd67ed4c0a5fd49e2491" sha1="9997e6f118c72f265eb648f18faa48c3a416fb3b"/>
+	</game>
+	<game name="Mario Artist - Paint Studio (1999-02-11)(Nintendo)(JP)(beta)">
+		<description>Mario Artist - Paint Studio (1999-02-11)(Nintendo)(JP)(beta)</description>
+		<rom name="Mario Artist - Paint Studio (1999-02-11)(Nintendo)(JP)(beta).ndd" size="64931840" crc="5cb44f5d" md5="a76b619ec832a7e2abcfbdfeb5375e39" sha1="ddeaf740aadd928a9bbf9cfeaec4c0ea80b75ab2"/>
+	</game>
+	<game name="Mario Artist - Polygon Studio (2000)(Nintendo)(JP)">
+		<description>Mario Artist - Polygon Studio (2000)(Nintendo)(JP)</description>
+		<rom name="Mario Artist - Polygon Studio (2000)(Nintendo)(JP).ndd" size="64931840" crc="ac304109" md5="da23ee561578b7dad77ed72728b46d30" sha1="4e4f267d2d063286bf4c1302386dab8b1ab0d4c6"/>
+	</game>
+	<game name="Mario Artist - Talent Studio (2000)(Nintendo)(JP)">
+		<description>Mario Artist - Talent Studio (2000)(Nintendo)(JP)</description>
+		<rom name="Mario Artist - Talent Studio (2000)(Nintendo)(JP).ndd" size="64931840" crc="649bbcb1" md5="88228e990b58a94e9b3460beff632304" sha1="24ca7508157466e5d289ee49c2c714806d1ecce2"/>
+	</game>
+	<game name="Nintendo 64 Modem (19xx)(Nintendo)(JP)">
+		<description>Nintendo 64 Modem (19xx)(Nintendo)(JP)</description>
+		<rom name="Nintendo 64 Modem (19xx)(Nintendo)(JP).ndd" size="8388608" crc="77d7b7e3" md5="6ebbbe58d717b3b41985be70a8dfe1be" sha1="8373625fb53d888cd8e74f3b1598c2a6577c01d6"/>
+	</game>
+	<game name="Randnet Disk (2000)(Nintendo)(JP)[b]">
+		<description>Randnet Disk (2000)(Nintendo)(JP)[b]</description>
+		<rom name="Randnet Disk (2000)(Nintendo)(JP)[b].ndd" size="64931840" crc="c3ef79f0" md5="26087e0750fc6da0f3de2a431e34bddf" sha1="9ade854221962f5f4c68ea0615951dd948896c1b"/>
+	</game>
+	<game name="Randnet Disk Rev 1 (2000)(Nintendo)(JP)[b]">
+		<description>Randnet Disk Rev 1 (2000)(Nintendo)(JP)[b]</description>
+		<rom name="Randnet Disk Rev 1 (2000)(Nintendo)(JP)[b].ndd" size="64931840" crc="78eeee88" md5="33cbc59786063285dc3c090e0ed312e3" sha1="a7d7a1e4e7dd02b628433070a65bf5c1a063c13b"/>
+	</game>
+</datafile>

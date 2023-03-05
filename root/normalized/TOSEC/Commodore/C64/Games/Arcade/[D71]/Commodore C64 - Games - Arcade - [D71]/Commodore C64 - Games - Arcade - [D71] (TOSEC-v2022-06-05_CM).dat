@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Arcade - [D71]</name>
+		<description>Commodore C64 - Games - Arcade - [D71] (TOSEC-v2022-06-05)</description>
+		<category>TOSEC</category>
+		<version>2022-06-05</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Creatures 2 - Torture Trouble (1992)(Thalamus)">
+		<description>Creatures 2 - Torture Trouble (1992)(Thalamus)</description>
+		<rom name="Creatures 2 - Torture Trouble (1992)(Thalamus).d71" size="349696" crc="c080f4b0" md5="69edc825d24d82e6dc054b4ae5f65c26" sha1="295c8c5fbab66855e6f0a068f95ffb96b9579fb1"/>
+	</game>
+	<game name="Metal Warrior 4 - Agents of Metal (2003)(Electric Harem)">
+		<description>Metal Warrior 4 - Agents of Metal (2003)(Electric Harem)</description>
+		<rom name="Metal Warrior 4 - Agents of Metal (2003)(Electric Harem).d71" size="349696" crc="d385fa77" md5="a964a2bab62a01d70b5f62067eb62d79" sha1="f1cbed99b85abe84bd75d2ad982b99ef807e684b"/>
+	</game>
+	<game name="Running Man, The (1989)(Grandslam Entertainment)">
+		<description>Running Man, The (1989)(Grandslam Entertainment)</description>
+		<rom name="Running Man, The (1989)(Grandslam Entertainment).d71" size="349696" crc="7f9ca349" md5="497ea0d07421c0e60c037415fed0caab" sha1="468172b009d84cb5d634cd963164ff544878aae2"/>
+	</game>
+</datafile>

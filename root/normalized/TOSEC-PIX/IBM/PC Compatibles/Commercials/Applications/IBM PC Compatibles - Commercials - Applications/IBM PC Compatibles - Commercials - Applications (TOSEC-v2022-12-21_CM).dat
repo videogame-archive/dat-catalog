@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Commercials - Applications</name>
+		<description>IBM PC Compatibles - Commercials - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Microsoft 3D Movie Maker (1995)(Microsoft)(AU)">
+		<description>Microsoft 3D Movie Maker (1995)(Microsoft)(AU)</description>
+		<rom name="Microsoft 3D Movie Maker (1995)(Microsoft)(AU).mp4" size="1751178" crc="9e13549b" md5="c62ce8063b37de91b1e513dc362eb9c2" sha1="3de84cd3f579484cf96da4932ed745d8557943db"/>
+	</game>
+	<game name="Microsoft Encarta (1996)(Microsoft)(AU)">
+		<description>Microsoft Encarta (1996)(Microsoft)(AU)</description>
+		<rom name="Microsoft Encarta (1996)(Microsoft)(AU).mp4" size="2367492" crc="fbf8f04e" md5="fa3a2c46ec7981cf4b79909a80f4d741" sha1="7819fadfcf40e3777db45b7a80cce8d70fd07323"/>
+	</game>
+	<game name="Microsoft Office Value Pack (1995)(Microsoft)(AU)">
+		<description>Microsoft Office Value Pack (1995)(Microsoft)(AU)</description>
+		<rom name="Microsoft Office Value Pack (1995)(Microsoft)(AU).mp4" size="1336310" crc="ca721c08" md5="54304cec047da40faa9da98f5b05bb4a" sha1="e80cf8713d2e46c45e21bb1dcb555ed8aea95d8b"/>
+	</game>
+	<game name="Where Do You Want to Go Today (1996)(Microsoft)(AU)">
+		<description>Where Do You Want to Go Today (1996)(Microsoft)(AU)</description>
+		<rom name="Where Do You Want to Go Today (1996)(Microsoft)(AU).mp4" size="2755811" crc="ec67d6c0" md5="275f22c8c477c5575ccfae2d0e77cbf2" sha1="7c0ee06c0044a5830d01d8d6a67f96336063b3de"/>
+	</game>
+</datafile>

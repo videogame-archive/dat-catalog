@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad - Books</name>
+		<description>Amstrad - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Games Collection For the Amstrad (1985)(Century Communications)(GB)">
+		<description>Games Collection For the Amstrad (1985)(Century Communications)(GB)</description>
+		<rom name="Games Collection For the Amstrad (1985)(Century Communications)(GB).pdf" size="54996928" crc="c0609f29" md5="db0e25d42c37d8ac77522bdc74a65579" sha1="4fb01d2a802f77a1e69559c52abe603e520cdbeb"/>
+	</game>
+</datafile>

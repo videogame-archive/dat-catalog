@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo AES - Books</name>
+		<description>SNK Neo-Geo AES - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Neo-Geo Collector's Bible (2010)(-)(IT)">
+		<description>Neo-Geo Collector's Bible (2010)(-)(IT)</description>
+		<rom name="Neo-Geo Collector's Bible (2010)(-)(IT).pdf" size="10496946" crc="f246dcfa" md5="2f3a1b61807d5dd3d9a7f92b2c7e2434" sha1="43ca84c951d387d059c795bbade57249ed7f34d7"/>
+	</game>
+	<game name="Perfection SNK Characters - All About Illustrations (2000)(SNK)(JP)">
+		<description>Perfection SNK Characters - All About Illustrations (2000)(SNK)(JP)</description>
+		<rom name="Perfection SNK Characters - All About Illustrations (2000)(SNK)(JP).pdf" size="17245965" crc="4e128fef" md5="4ab6c3a22ba0b90e17c764e7a6c21c59" sha1="c6c570e91c1f1983517cdfd7d990e7b9dad08f7c"/>
+	</game>
+</datafile>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>306</id>
+		<name>Unofficial - Video Game Documents (PDF)</name>
+		<description>Unofficial - Video Game Documents (PDF)</description>
+		<version>20221123-054502</version>
+		<author>proffrink, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Boot ROM ver. 0.8 Floppy Disk Information (Unknown) (Mar 23rd 1994) (Sega Saturn)" id="0001">
+		<description>Boot ROM ver. 0.8 Floppy Disk Information (Unknown) (Mar 23rd 1994) (Sega Saturn)</description>
+		<rom name="Boot ROM ver. 0.8 Floppy Disk Information (Unknown) (Mar 23rd 1994) (Sega Saturn).pdf" size="275758" crc="f35d18f8" md5="9fde2f32ab7731750e9cdff1c990003d" sha1="cb22781cf08928f964ace6d76843464eb8c27a7c" sha256="5b3ad8e079d68bfb4e43acc4411d1f576c4969509d8b5be19f1ced1364925425"/>
+	</game>
+</datafile>

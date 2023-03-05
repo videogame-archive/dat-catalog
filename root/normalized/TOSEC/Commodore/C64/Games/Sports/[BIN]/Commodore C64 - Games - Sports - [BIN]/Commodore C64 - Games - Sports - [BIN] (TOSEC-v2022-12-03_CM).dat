@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Sports - [BIN]</name>
+		<description>Commodore C64 - Games - Sports - [BIN] (TOSEC-v2022-12-03)</description>
+		<category>TOSEC</category>
+		<version>2022-12-03</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Decathlon (1983)(Activision)">
+		<description>Decathlon (1983)(Activision)</description>
+		<rom name="Decathlon (1983)(Activision).bin" size="16384" crc="d8fc4b32" md5="c0a8a155cd65a41d406ad02492789fa0" sha1="c8f6ceb56f6bf402db7d11e39c91f979abb9c10a"/>
+	</game>
+	<game name="International Soccer (1983)(Commodore)">
+		<description>International Soccer (1983)(Commodore)</description>
+		<rom name="International Soccer (1983)(Commodore).bin" size="16384" crc="a26355f9" md5="0789b249bf26b9b071e7f69316e571b8" sha1="44ea6e08a044eeda556512fcab0bb6a4ab123862"/>
+	</game>
+	<game name="Minnesota Fat&apos;s Pool Challenger (1983)(HesWare)">
+		<description>Minnesota Fat&apos;s Pool Challenger (1983)(HesWare)</description>
+		<rom name="Minnesota Fat&apos;s Pool Challenger (1983)(HesWare).bin" size="8192" crc="7f2d8a46" md5="4f294356b22594670840d0de147049fa" sha1="44f8f8ee6238829bca8ca2d412b3f238159377a4"/>
+	</game>
+	<game name="Rack &apos;em Up! (1983)(Roklan Corp.)">
+		<description>Rack &apos;em Up! (1983)(Roklan Corp.)</description>
+		<rom name="Rack &apos;em Up! (1983)(Roklan Corp.).bin" size="16384" crc="4167bb7d" md5="488d838c48073bcb5b83a9d1935a802c" sha1="50da7890674ad80deea2a5b5a55120cd9e7d8ef5"/>
+	</game>
+	<game name="Retro Ball (1982)(HesWare)">
+		<description>Retro Ball (1982)(HesWare)</description>
+		<rom name="Retro Ball (1982)(HesWare).bin" size="8192" crc="a7c8c517" md5="d7eb6418c3566a7c249eb09c4b9d1e2d" sha1="5d17c8753deb393f423132d1d00ee03deddf2820"/>
+	</game>
+	<game name="Ten Pins (1989)(Entertainment Software)">
+		<description>Ten Pins (1989)(Entertainment Software)</description>
+		<rom name="Ten Pins (1989)(Entertainment Software).bin" size="8192" crc="2dedb7f4" md5="5eda92499c028b279b3c62159baf2e68" sha1="7bd4dd908319651af16817ff7a68d9e39755674d"/>
+	</game>
+	<game name="Tournament Tennis (1984)(Imagic)">
+		<description>Tournament Tennis (1984)(Imagic)</description>
+		<rom name="Tournament Tennis (1984)(Imagic).bin" size="32768" crc="ff4bed62" md5="907c1f9221061d42b9cff2f310e1ca32" sha1="5d03f693ef82e067324dcf23d446fff83868d043"/>
+	</game>
+</datafile>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>171</id>
+		<name>Nintendo - Nintendo 64 (Mario no Photopi SmartMedia)</name>
+		<description>Nintendo - Nintendo 64 (Mario no Photopi SmartMedia)</description>
+		<version>20210514-090046</version>
+		<author>Hiccup, relax</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Characters collection - Bomberman (Japan)" id="0003">
+		<description>Characters collection - Bomberman (Japan)</description>
+		<game_id>HFP-HB102</game_id>
+		<rom name="Characters collection - Bomberman (Japan).sm" size="2162688" crc="870a5489" md5="c664fd5da48712ba411fb370ac4bd9d7" sha1="ef7867e16c688a8c57f8681c212baa13aa80b776" sha256="39cc81d00ae5c1e8e6126a37f050fe89a3f0f319b05b45ee2f4eba52de3fe996"/>
+	</game>
+	<game name="Characters collection - Sylvanian Families (Japan)" id="0004">
+		<description>Characters collection - Sylvanian Families (Japan)</description>
+		<game_id>HFP-ES102</game_id>
+		<rom name="Characters collection - Sylvanian Families (Japan).sm" size="2162688" crc="f4635008" md5="c58e624b2696d3c733b509d3d86a8583" sha1="a7f567fd4460677f92e48e6dd9ecd234b301cb64" sha256="15b7dbb84e24a67525e587e131ae3490a95afc1ce93b0820ee1408debed85523"/>
+	</game>
+	<game name="Characters collection - Yoshi's Story (Japan)" id="0005">
+		<description>Characters collection - Yoshi's Story (Japan)</description>
+		<game_id>HFP-NY102</game_id>
+		<rom name="Characters collection - Yoshi's Story (Japan).sm" size="2162688" crc="2bebd362" md5="d0d15ffc36bfa2868095563164658d15" sha1="17caf4d82424860bff30cd919c9e48e92c339026" sha256="e56e7d7684d366823dd22b4d8a119cdbefccce8eaef0426fd8ac361f33dd075b"/>
+	</game>
+	<game name="Illustrations - Funny accessories 1 (Japan)" id="0002">
+		<description>Illustrations - Funny accessories 1 (Japan)</description>
+		<game_id>HFP-HOB02</game_id>
+		<rom name="Illustrations - Funny accessories 1 (Japan).sm" size="2162688" crc="e309e5b6" md5="4ae61c473f269c65a628ec0b893cc437" sha1="128de4e0ecb422ae7e6d9d836c050bd096e348f2" sha256="3ce1e6adb97943f018549cfd434133a17d84d3f0a06746968143f98071fe9345" status="verified"/>
+	</game>
+	<game name="Illustrations - Postal cards 1 (Japan)" id="0001">
+		<description>Illustrations - Postal cards 1 (Japan)</description>
+		<game_id>HFP-HPA02</game_id>
+		<rom name="Illustrations - Postal cards 1 (Japan).sm" size="2162688" crc="f0357615" md5="0b2301c34d15816e529d705fab83189f" sha1="83adbb1300fa37699f478db0b62c00a9e0945d6d" sha256="c7e07ed1ebe8a82b6f36d4e0adb6c8f98803ed334fdf2f45d5dfa6b564da1401" status="verified"/>
+	</game>
+</datafile>

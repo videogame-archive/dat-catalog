@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Educational - [DSK]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Educational - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Auto-méca (1985)(Loriciels)(FR)[unofficial port]">
+		<description>Auto-méca (1985)(Loriciels)(FR)[unofficial port]</description>
+		<rom name="Auto-méca (1985)(Loriciels)(FR)[unofficial port].dsk" size="269056" crc="d1778942" md5="3a6b7db7cbf6407310441e644e494abd" sha1="2e7a99904dcbc1c43d818ff86ad9974d0205dcaa"/>
+	</game>
+	<game name="Diététic (1997)(Club Europe Oric)(FR)">
+		<description>Diététic (1997)(Club Europe Oric)(FR)</description>
+		<rom name="Diététic (1997)(Club Europe Oric)(FR).dsk" size="269056" crc="576aff95" md5="02612b00e092be46530fc4a7ffc2bf21" sha1="afd6d40a27802b7b536a859f73acfa55ce9a6e0d"/>
+	</game>
+	<game name="Geographie (1985)(Pessan, D.)(FR)">
+		<description>Geographie (1985)(Pessan, D.)(FR)</description>
+		<rom name="Geographie (1985)(Pessan, D.)(FR).dsk" size="512256" crc="22dd015a" md5="8a05b10df6b64336ef27766495e27f14" sha1="3fd4b6b5535626b72ce2a65d0f963c11f094a40f"/>
+	</game>
+</datafile>

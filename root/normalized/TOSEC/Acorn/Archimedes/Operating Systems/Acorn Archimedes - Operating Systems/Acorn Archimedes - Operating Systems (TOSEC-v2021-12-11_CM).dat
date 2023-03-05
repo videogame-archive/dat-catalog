@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - Operating Systems</name>
+		<description>Acorn Archimedes - Operating Systems (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Aleph ARMLinux Boot Floppy (2000-12-08)(Aleph One)">
+		<description>Aleph ARMLinux Boot Floppy (2000-12-08)(Aleph One)</description>
+		<rom name="Aleph ARMLinux Boot Floppy (2000-12-08)(Aleph One).adf" size="819200" crc="76ad5557" md5="1181e14252dd01bc493c11af18af0687" sha1="32b5e8b94feee0c5c4972e650b343167463220ca"/>
+	</game>
+</datafile>

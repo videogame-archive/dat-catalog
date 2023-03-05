@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Manuals - Hardware</name>
+		<description>Commodore Amiga CDTV - Manuals - Hardware (TOSEC-v2012-04-15)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-15</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="1405 and 1401 CDTV Memory Card (1991)(Commodore)">
+		<description>1405 and 1401 CDTV Memory Card (1991)(Commodore)</description>
+		<rom name="1405 and 1401 CDTV Memory Card (1991)(Commodore).pdf" size="1649035" crc="756ae9c9" md5="b58f155db715afc1f6098ed20126a55c" sha1="6e0c36201538bc24a132228d436c6014147b4587"/>
+	</game>
+	<game name="3.5 External Disk Drive Model 1411 (1991-09)(Commodore)">
+		<description>3.5 External Disk Drive Model 1411 (1991-09)(Commodore)</description>
+		<rom name="3.5 External Disk Drive Model 1411 (1991-09)(Commodore).pdf" size="3263958" crc="aa93ccab" md5="830d8b9b7ad20d5c7e1e68a31eceeb86" sha1="d21cdb20aa241dee3e1cbb584620b7019cb4e79f"/>
+	</game>
+	<game name="CD 1200 Trackball Controller (1991)(Commodore)">
+		<description>CD 1200 Trackball Controller (1991)(Commodore)</description>
+		<rom name="CD 1200 Trackball Controller (1991)(Commodore).pdf" size="5154012" crc="36c6e4fd" md5="fdf98474cf4ccfa903f8145e1def0d10" sha1="71e4b2295a2b1cd249f8d4873f20198f8a813f16"/>
+	</game>
+	<game name="CDTV Hook Up Manual (1991)(Commodore)">
+		<description>CDTV Hook Up Manual (1991)(Commodore)</description>
+		<rom name="CDTV Hook Up Manual (1991)(Commodore).pdf" size="2866163" crc="b34aab2d" md5="a494cf37157bdd9461e68184518567df" sha1="811d1c50817b1d890605dd9bb86047d411a8f276"/>
+	</game>
+</datafile>

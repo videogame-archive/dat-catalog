@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - TV Series - Nerds 2.0.1 - A Brief History of the Internet</name>
+		<description>Multi-format - TV Series - Nerds 2.0.1 - A Brief History of the Internet (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nerds 2.0.1 - A Brief History of the Internet - s01e01 - Networking The Nerds (1998)(PBS Television)">
+		<description>Nerds 2.0.1 - A Brief History of the Internet - s01e01 - Networking The Nerds (1998)(PBS Television)</description>
+		<rom name="Nerds 2.0.1 - A Brief History of the Internet - s01e01 - Networking The Nerds (1998)(PBS Television).mp4" size="723919913" crc="3bb754f3" md5="91c12598005275e4e176b53f1a1862ca" sha1="e09bfef71ea786c9d30af1b256dc8ce84f169cfd"/>
+	</game>
+	<game name="Nerds 2.0.1 - A Brief History of the Internet - s01e02 - Connecting The Suits (1998)(PBS Television)">
+		<description>Nerds 2.0.1 - A Brief History of the Internet - s01e02 - Connecting The Suits (1998)(PBS Television)</description>
+		<rom name="Nerds 2.0.1 - A Brief History of the Internet - s01e02 - Connecting The Suits (1998)(PBS Television).mp4" size="649855916" crc="2b14c71e" md5="862f9af5e3376279a35896fcd1f8f0c5" sha1="1ea6bb86c69ba88716288a6f6b9fab791723e41e"/>
+	</game>
+	<game name="Nerds 2.0.1 - A Brief History of the Internet - s01e03 - Wiring The World (1998)(PBS Television)">
+		<description>Nerds 2.0.1 - A Brief History of the Internet - s01e03 - Wiring The World (1998)(PBS Television)</description>
+		<rom name="Nerds 2.0.1 - A Brief History of the Internet - s01e03 - Wiring The World (1998)(PBS Television).mp4" size="382188576" crc="24006b8e" md5="005b4a72d490bb45c022b61dcc6e2501" sha1="dea36632b991917112d48c9631ea2c76b91f6a73"/>
+	</game>
+</datafile>

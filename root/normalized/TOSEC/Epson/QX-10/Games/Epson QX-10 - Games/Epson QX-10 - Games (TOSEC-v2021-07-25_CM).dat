@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epson QX-10 - Games</name>
+		<description>Epson QX-10 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).dsk" size="430336" crc="1ddd8faf" md5="ca31efe12e33c1fd51f3321c1dfe3f66" sha1="b8a4d5ab8821b66293903ead42668762fb2c5b70"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[turn-based]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[turn-based]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[turn-based].dsk" size="430336" crc="4ab7920a" md5="d48abedf23b69cc58798376ef2a9c443" sha1="ebb01fe70bef89f1c89ab9087ab0b414b0919251"/>
+	</game>
+</datafile>

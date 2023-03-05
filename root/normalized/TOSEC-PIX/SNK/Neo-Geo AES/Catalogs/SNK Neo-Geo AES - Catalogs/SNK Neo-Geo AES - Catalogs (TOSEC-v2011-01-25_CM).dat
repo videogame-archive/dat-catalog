@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo AES - Catalogs</name>
+		<description>SNK Neo-Geo AES - Catalogs (TOSEC-v2011-01-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Neo Geo Software 1993 (1992)(SNK)(US)">
+		<description>Neo Geo Software 1993 (1992)(SNK)(US)</description>
+		<rom name="Neo Geo Software 1993 (1992)(SNK)(US).pdf" size="13921925" crc="c2823105" md5="72ffb3bf81f0be8e1c39d084f5c10489" sha1="54ae2cfac30eb588190f3f889a5cc848790d9b66"/>
+	</game>
+</datafile>

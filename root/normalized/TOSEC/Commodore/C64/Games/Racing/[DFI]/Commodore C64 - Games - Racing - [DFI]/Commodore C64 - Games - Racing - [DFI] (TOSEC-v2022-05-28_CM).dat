@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Racing - [DFI]</name>
+		<description>Commodore C64 - Games - Racing - [DFI] (TOSEC-v2022-05-28)</description>
+		<category>TOSEC</category>
+		<version>2022-05-28</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Indy Heat (1991)(Storm)[cr REM][t +7 REM][Docs]">
+		<description>Indy Heat (1991)(Storm)[cr REM][t +7 REM][Docs]</description>
+		<rom name="Indy Heat (1991)(Storm)[cr REM][t +7 REM][Docs].dfi" size="131072" crc="4512c871" md5="79bd62b295b038d087a23cc653635416" sha1="96b54d4fce27853153b082fc0d1e756b3cb54143"/>
+	</game>
+	<game name="Maximum Overdrive (1995)(Techno Tribal Designs)">
+		<description>Maximum Overdrive (1995)(Techno Tribal Designs)</description>
+		<rom name="Maximum Overdrive (1995)(Techno Tribal Designs).dfi" size="131072" crc="e6d13af9" md5="c446cc60b08a4f63b74a19f82dce8de5" sha1="b6aada217dd2bbf6b0f1aedee29ea3033d9ff882"/>
+	</game>
+	<game name="Street Rod (1989)(California Dreams)">
+		<description>Street Rod (1989)(California Dreams)</description>
+		<rom name="Street Rod (1989)(California Dreams).dfi" size="262144" crc="ee5576f9" md5="f71f66db270ae9f6e9754ba0e11da506" sha1="228770fd9f2d6290a95ccb70ba2b1bf07f5bca30"/>
+	</game>
+</datafile>

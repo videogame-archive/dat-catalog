@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64DD - Firmware</name>
+		<description>Nintendo 64DD - Firmware (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo 64DD Development Box IPL4ROM (199x)(Nintendo)(JP)[h]">
+		<description>Nintendo 64DD Development Box IPL4ROM (199x)(Nintendo)(JP)[h]</description>
+		<rom name="Nintendo 64DD Development Box IPL4ROM (199x)(Nintendo)(JP)[h].bin" size="4194304" crc="bee63da4" md5="f1f7f3fbc5fef5ddca587eefbb1af91d" sha1="ac798ddf676d5d0db707b307fd33f3c2d531b39e"/>
+	</game>
+	<game name="Nintendo 64DD Drive Controller (1998-03-09)(Nintendo)(JP)[retail]">
+		<description>Nintendo 64DD Drive Controller (1998-03-09)(Nintendo)(JP)[retail]</description>
+		<rom name="Nintendo 64DD Drive Controller (1998-03-09)(Nintendo)(JP)[retail].bin" size="16384" crc="50529163" md5="fc3bdf57fd818c1d00e9a2697beaf1e1" sha1="15387506abe2daf26ddc3d5c8c511f2c3f6c8a08"/>
+	</game>
+	<game name="Nintendo 64DD Drive Controller (1998-06-16)(Nintendo)(JP)[development]">
+		<description>Nintendo 64DD Drive Controller (1998-06-16)(Nintendo)(JP)[development]</description>
+		<rom name="Nintendo 64DD Drive Controller (1998-06-16)(Nintendo)(JP)[development].bin" size="32768" crc="549b0c2e" md5="012a33a524e38e834081fdc179edb918" sha1="d44f68ca910d165749e0c49388a00c5e219f6018"/>
+	</game>
+	<game name="Nintendo 64DD IPL (1999)(Nintendo)(JP)">
+		<description>Nintendo 64DD IPL (1999)(Nintendo)(JP)</description>
+		<rom name="Nintendo 64DD IPL (1999)(Nintendo)(JP).bin" size="4194304" crc="7f933ce2" md5="8d3d9f294b6e174bc7b1d2fd1c727530" sha1="bf861922dcb78c316360e3e742f4f70ff63c9bc3"/>
+	</game>
+	<game name="Nintendo 64DD IPL (1999)(Nintendo)(JP)[b]">
+		<description>Nintendo 64DD IPL (1999)(Nintendo)(JP)[b]</description>
+		<rom name="Nintendo 64DD IPL (1999)(Nintendo)(JP)[b].bin" size="1111438" crc="e31b0d1f" md5="c0052a41af736ded29894182afed0dc8" sha1="319da011dab770f05d5da74ca4c93397d26cf7f3"/>
+	</game>
+	<game name="Nintendo 64DD IPL (1999)(Nintendo)(JP)[h]">
+		<description>Nintendo 64DD IPL (1999)(Nintendo)(JP)[h]</description>
+		<rom name="Nintendo 64DD IPL (1999)(Nintendo)(JP)[h].bin" size="4194304" crc="858291ec" md5="5b255cdedd319b460adb35e065556488" sha1="4fb40a38412e1fa26652570a34106f41151c97c1"/>
+	</game>
+	<game name="Nintendo 64DD IPL (19xx)(Nintendo)(US)(beta)">
+		<description>Nintendo 64DD IPL (19xx)(Nintendo)(US)(beta)</description>
+		<rom name="Nintendo 64DD IPL (19xx)(Nintendo)(US)(beta).bin" size="4194304" crc="d0f567ca" md5="37c36e4286d36892a9fc70eafe4104be" sha1="3c5b93ca231550c68693a14f03cea8d5dbd1be9e"/>
+	</game>
+	<game name="Nintendo 64DD IPL v1.0 (19xx)(Nintendo)(JP)(beta)">
+		<description>Nintendo 64DD IPL v1.0 (19xx)(Nintendo)(JP)(beta)</description>
+		<rom name="Nintendo 64DD IPL v1.0 (19xx)(Nintendo)(JP)(beta).bin" size="4194304" crc="6224f875" md5="94dba2d79615deed567aa85f4cf74162" sha1="58670c0063793a8f3be957d71d937b618829ba9e"/>
+	</game>
+	<game name="Nintendo 64DD IPL v1.1 (19xx)(Nintendo)(JP)(beta)">
+		<description>Nintendo 64DD IPL v1.1 (19xx)(Nintendo)(JP)(beta)</description>
+		<rom name="Nintendo 64DD IPL v1.1 (19xx)(Nintendo)(JP)(beta).bin" size="4194304" crc="417d05be" md5="7630650c7fc16e199911269647186e79" sha1="b3e26dbb4e945f78c918fabc5b9e60fcf262c47b"/>
+	</game>
+	<game name="Nintendo 64DD Tool IPL (19xx)(Nintendo)(JP)(beta)">
+		<description>Nintendo 64DD Tool IPL (19xx)(Nintendo)(JP)(beta)</description>
+		<rom name="Nintendo 64DD Tool IPL (19xx)(Nintendo)(JP)(beta).bin" size="4194304" crc="b78064d9" md5="aad37b1492886b892f1821f37fd3ae34" sha1="10c4173c2a7eb09c6579818f72ef18fa0b6d32de"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Manuals - Games</name>
+		<description>Apple II - Manuals - Games (TOSEC-v2019-04-22)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-22</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ultima (1981)(California Pacific Computer)">
+		<description>Ultima (1981)(California Pacific Computer)</description>
+		<rom name="Ultima (1981)(California Pacific Computer).pdf" size="1658550" crc="27ab4010" md5="7cc12f66ff29b3d0ee6e7198e3294880" sha1="12bf2ba199834cdf3f5012bd6d18096b3e25eecf"/>
+	</game>
+	<game name="Ultima (1981)(California Pacific Computer)[map]">
+		<description>Ultima (1981)(California Pacific Computer)[map]</description>
+		<rom name="Ultima (1981)(California Pacific Computer)[map].pdf" size="2760339" crc="5824b8c3" md5="eddee46d3072eba55f472ec65b21e704" sha1="71924ab60d7a9312d3d67c2f3ea724fc13092924"/>
+	</game>
+	<game name="Ultima (1981)(California Pacific Computer)[player reference card]">
+		<description>Ultima (1981)(California Pacific Computer)[player reference card]</description>
+		<rom name="Ultima (1981)(California Pacific Computer)[player reference card].pdf" size="312806" crc="80065d0e" md5="e8870a25ef50b273cde40162243df52c" sha1="ade6b867c6f3fe553f170e6a69c31fea2b70376c"/>
+	</game>
+	<game name="Ultima II (1983)(Sierra On-Line)">
+		<description>Ultima II (1983)(Sierra On-Line)</description>
+		<rom name="Ultima II (1983)(Sierra On-Line).pdf" size="2742909" crc="9452fd1b" md5="1ea87801cedb32b9f4698f2b34b62fca" sha1="393c6b3edd20df09546ac45f6d32685f6dff1539"/>
+	</game>
+</datafile>

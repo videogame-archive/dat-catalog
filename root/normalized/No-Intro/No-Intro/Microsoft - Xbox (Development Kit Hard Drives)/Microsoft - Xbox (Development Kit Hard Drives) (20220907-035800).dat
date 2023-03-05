@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>282</id>
+		<name>Microsoft - Xbox (Development Kit Hard Drives)</name>
+		<description>Microsoft - Xbox (Development Kit Hard Drives)</description>
+		<version>20220907-035800</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="ActiMarvelThawGun (Unknown)" id="00002">
+		<description>ActiMarvelThawGun (Unknown)</description>
+		<rom name="ActiMarvelThawGun (Unknown).img" size="10005037056" crc="9a7a60ff" md5="68337ff5f156341677f75cb846ee394b" sha1="b85b57d817945ca6bf0dbdc25825a4483f9072a8"/>
+	</game>
+	<game name="Red Storm Entertainment Debug Kit (Unknown)" id="00001">
+		<description>Red Storm Entertainment Debug Kit (Unknown)</description>
+		<rom name="Red Storm Entertainment Debug Kit (Unknown).img" size="10005037056" crc="df19bf92" md5="d96b4ba6603f2c395dd9d26cea2e19ad" sha1="647647c559c6ee672694e084f65ade34f2d4821f"/>
+	</game>
+</datafile>

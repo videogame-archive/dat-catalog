@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>230</id>
+		<name>Source Code - Panasonic - 3DO Interactive Multiplayer</name>
+		<description>Source Code - Panasonic - 3DO Interactive Multiplayer</description>
+		<version>20230118-072841</version>
+		<author>FakeShemp</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Icebreaker (World)" id="0001">
+		<description>Icebreaker (World)</description>
+		<rom name="Icebreaker (World).zip" size="237730" crc="d4548a44" md5="738ae0b7a2c1bb98b56b61d3cc199596" sha1="dc66f4fdf9fb1de40f9b11ca3c8434153417d936" sha256="3647e04ebde756139e4362b9457a85645890056393c4f8b5fe438b46ebb70cbd"/>
+	</game>
+	<game name="Icebreaker 2 (World)" id="0002">
+		<description>Icebreaker 2 (World)</description>
+		<rom name="Icebreaker 2 (World).zip" size="491422" crc="d3fff96e" md5="4644ededcece21d08690ea499a415969" sha1="86f3469c44bfe5062149be2de4b63d1515fe345c" sha256="e1d4bbe904fa1945c60130902290955ae1ad5f7350bc39c6e6848a921d9e749a"/>
+	</game>
+</datafile>

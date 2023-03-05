@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Manuals - Hardware</name>
+		<description>3DO 3DO Interactive Multiplayer - Manuals - Hardware (TOSEC-v2013-11-07)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-11-07</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3DO Blaster User's Guide (1994)(Creative Technologies)">
+		<description>3DO Blaster User's Guide (1994)(Creative Technologies)</description>
+		<rom name="3DO Blaster User's Guide (1994)(Creative Technologies).pdf" size="37641659" crc="a81adc0d" md5="559c89e8e158a21ee4b60ffee623289b" sha1="40fa850dff220c418c468e41a0222cd69f14ee81"/>
+	</game>
+	<game name="3DO System Manual (1994)(GoldStar)(US)">
+		<description>3DO System Manual (1994)(GoldStar)(US)</description>
+		<rom name="3DO System Manual (1994)(GoldStar)(US).pdf" size="7496396" crc="2a9b7d4c" md5="179f08faebc9e6ba61afea0fb7c57440" sha1="e6151d117faf11e1af3be4c2b38550b787efb638"/>
+	</game>
+	<game name="Panasonic FZ-10 Interactive Multiplayer (1994)(Matsushita)(US)">
+		<description>Panasonic FZ-10 Interactive Multiplayer (1994)(Matsushita)(US)</description>
+		<rom name="Panasonic FZ-10 Interactive Multiplayer (1994)(Matsushita)(US).pdf" size="2588867" crc="3a06ef62" md5="305222abeea9282f70e426b63d4a9606" sha1="0e24276aa8db065257307c11898a35ade215c873"/>
+	</game>
+	<game name="Panasonic FZ-21S1 Operating Instructions (1998)(Matsushita)(US)">
+		<description>Panasonic FZ-21S1 Operating Instructions (1998)(Matsushita)(US)</description>
+		<rom name="Panasonic FZ-21S1 Operating Instructions (1998)(Matsushita)(US).pdf" size="628352" crc="7898311a" md5="994e37363baeea1199191e75ba0d8d2c" sha1="9dfa301c1582fc89b9685178ec9deb77d8321940"/>
+	</game>
+	<game name="Panasonic FZ-35S Interactive Media Player (1998)(Matsushita)(US)">
+		<description>Panasonic FZ-35S Interactive Media Player (1998)(Matsushita)(US)</description>
+		<rom name="Panasonic FZ-35S Interactive Media Player (1998)(Matsushita)(US).pdf" size="4449400" crc="0d3cd647" md5="77d1b85fc8921a3deee6f0e0c7869a91" sha1="2a1f69b898974ae749a513b8af102914715d4728"/>
+	</game>
+</datafile>

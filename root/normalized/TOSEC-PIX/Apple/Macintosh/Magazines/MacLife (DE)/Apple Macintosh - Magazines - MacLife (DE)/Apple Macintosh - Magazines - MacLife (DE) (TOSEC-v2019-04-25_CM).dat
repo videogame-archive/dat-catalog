@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Magazines - MacLife (DE)</name>
+		<description>Apple Macintosh - Magazines - MacLife (DE) (TOSEC-v2019-04-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>	
+        <game name="MacLife (2013-07)(Falkemedia)(DE)">
+		<description>MacLife (2013-07)(Falkemedia)(DE)</description>
+		<rom name="MacLife (2013-07)(Falkemedia)(DE).pdf" size="17553197" crc="da1d5beb" md5="7ef374e09249d16e1307bce285af1a0e" sha1="32bdb925ddb7fbf18e33b3e1bb0910abd5fa1d1b"/>
+	</game>
+	<game name="MacLife (2014-06)(Falkemedia)(DE)">
+		<description>MacLife (2014-06)(Falkemedia)(DE)</description>
+		<rom name="MacLife (2014-06)(Falkemedia)(DE).pdf" size="52563142" crc="34d1712e" md5="1217ff72dcc3c3ec59c877b69ea3df87" sha1="62c8ff4d1777840e38fa0ba3c564f1c1649a3e4b"/>
+	</game>
+</datafile>

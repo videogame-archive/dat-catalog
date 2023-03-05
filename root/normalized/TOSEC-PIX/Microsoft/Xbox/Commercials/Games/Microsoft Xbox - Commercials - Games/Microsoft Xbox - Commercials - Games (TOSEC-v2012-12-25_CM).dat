@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox - Commercials - Games</name>
+		<description>Microsoft Xbox - Commercials - Games (TOSEC-v2012-12-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-12-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Halo 2 (2004)(Microsoft)(US)">
+		<description>Halo 2 (2004)(Microsoft)(US)</description>
+		<rom name="Halo 2 (2004)(Microsoft)(US).mp4" size="3659480" crc="6118ac2d" md5="ed56a2faa6c64bdd3c33c0c3be9e96c7" sha1="3854ccf965e2c6a83fa23824005f7dbb824317e5"/>
+	</game>
+	<game name="Halo 2 (2004)(Microsoft)(US)[a2]">
+		<description>Halo 2 (2004)(Microsoft)(US)[a2]</description>
+		<rom name="Halo 2 (2004)(Microsoft)(US)[a2].mp4" size="9745222" crc="06f62f1c" md5="e33bf98de1ef0e1d4da8a5c0f701d264" sha1="faf9d77f22732b6ebfab2376f3d9d5477c881ba8"/>
+	</game>
+	<game name="Halo 2 (2004)(Microsoft)(US)[a3]">
+		<description>Halo 2 (2004)(Microsoft)(US)[a3]</description>
+		<rom name="Halo 2 (2004)(Microsoft)(US)[a3].mp4" size="3509205" crc="d9a59d45" md5="b903df29fa3b9d935aeb509287547b9d" sha1="5c4f197f13f32ea37f628b153a543a5f18ff2da8"/>
+	</game>
+	<game name="Halo 2 (2004)(Microsoft)(US)[a]">
+		<description>Halo 2 (2004)(Microsoft)(US)[a]</description>
+		<rom name="Halo 2 (2004)(Microsoft)(US)[a].mp4" size="3573917" crc="fd51e6b9" md5="1b8d145588d56c6dee2b5b57e3289fa2" sha1="422ea7cb857149a9d3f56fecc99212e2468fc043"/>
+	</game>
+	<game name="Halo Combat Evolved (2001)(Microsoft)(US)">
+		<description>Halo Combat Evolved (2001)(Microsoft)(US)</description>
+		<rom name="Halo Combat Evolved (2001)(Microsoft)(US).mp4" size="8366287" crc="d9ff99eb" md5="dca9ac7d17c4d11923f3d437a0c5f8a4" sha1="239b027ff3d2302d8fe78b1557e79d96eaea11fb"/>
+	</game>
+	<game name="Halo Combat Evolved (2001)(Microsoft)(US)[a]">
+		<description>Halo Combat Evolved (2001)(Microsoft)(US)[a]</description>
+		<rom name="Halo Combat Evolved (2001)(Microsoft)(US)[a].mp4" size="8404738" crc="d2a186e2" md5="d7189948edb12a5a312946bc6fdde2de" sha1="fbb9c912e562daf72e67fa8206ae3611e2a5175a"/>
+	</game>
+</datafile>

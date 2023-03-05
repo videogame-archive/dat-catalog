@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Super Famicom &amp; Super Entertainment System - Commercials - Games</name>
+		<description>Nintendo Super Famicom &amp; Super Entertainment System - Commercials - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Teenage Mutant Ninja Turtles (1991)(Palcom)(AU)">
+		<description>Teenage Mutant Ninja Turtles (1991)(Palcom)(AU)</description>
+		<rom name="Teenage Mutant Ninja Turtles (1991)(Palcom)(AU).mp4" size="1341243" crc="c6e4c93b" md5="606437dbe2cf5047ff59f7b3617a20c5" sha1="f0116b590392b997c74f3f50fc8785250c9f1454"/>
+	</game>
+	<game name="Zelda II The Adventure of Link (1991)(Nintendo)(AU)">
+		<description>Zelda II The Adventure of Link (1991)(Nintendo)(AU)</description>
+		<rom name="Zelda II The Adventure of Link (1991)(Nintendo)(AU).mp4" size="2212265" crc="7818d560" md5="2f4b384f29f773b212695283e9c4a6ae" sha1="18d5ff1ba6d79b2a060600a69502304a03ff9426"/>
+	</game>
+</datafile>

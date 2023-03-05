@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Magazines - Amiga Games (DE)</name>
+		<description>Commodore Amiga - Magazines - Amiga Games (DE) (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga Games (1992-10)(Computec Verlag)(DE)">
+		<description>Amiga Games (1992-10)(Computec Verlag)(DE)</description>
+		<rom name="Amiga Games (1992-10)(Computec Verlag)(DE).pdf" size="30370210" crc="c084ae19" md5="c46382b146d80c636c538fe442ee0b1d" sha1="489c48e3b1abe9a95e32f272b7e14c9f8853597b"/>
+	</game>
+	<game name="Amiga Games (1993-10)(Computec Verlag)(DE)">
+		<description>Amiga Games (1993-10)(Computec Verlag)(DE)</description>
+		<rom name="Amiga Games (1993-10)(Computec Verlag)(DE).pdf" size="32713892" crc="95eb7e56" md5="82d45a206aec6e101fcaa18dded4e821" sha1="e911a91f3480f60ee15f7d831bdd15017aa9db4f"/>
+	</game>
+</datafile>

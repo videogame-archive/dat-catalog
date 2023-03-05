@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>159</id>
+		<name>Non-Redump - NEC - PC Engine CD + TurboGrafx CD</name>
+		<description>Non-Redump - NEC - PC Engine CD + TurboGrafx CD</description>
+		<version>20220701-135416</version>
+		<author>baldjared, Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Angels 2 - Holy Night (Japan) (En) (Proto)" id="0001">
+		<description>Angels 2 - Holy Night (Japan) (En) (Proto)</description>
+		<rom name="Angels 2 - Holy Night (Japan) (En) (Proto).bin" size="126852768" crc="269ab588" md5="4436706458b429284b3dde93f83d960b" sha1="68fcc0b2fc635f609579507c19f80168d36cc901"/>
+		<rom name="Angels 2 - Holy Night (Japan) (En) (Proto).cue" size="360" crc="0cce1b2e" md5="1d8e4f2eda1fed2af860e88edea865eb" sha1="f380feca1413a09bb62d11c0985466dabb541d6c" sha256="59316a66c51710e415caf5084e9d812159b1c596615bc5e06908ded75a92c67d"/>
+	</game>
+	<game name="Fantasy Star Soldier (USA) (Beta)" id="0002">
+		<description>Fantasy Star Soldier (USA) (Beta)</description>
+		<rom name="Fantasy Star Soldier (USA) (Beta).bin" size="652839936" crc="6fbdce07" md5="3785147c99ef12a7402e54e6dd7fcd74" sha1="15f77b5b1471917ac9e5e1497082f9fdfe0f38aa"/>
+		<rom name="Fantasy Star Soldier (USA) (Beta).cue" size="1110" crc="7be598cb" md5="7fc7ac229f64001493cfac63d441ff70" sha1="e0d998d609dbebf074fbfafc702b6b37b9b92536"/>
+	</game>
+	<game name="Space Fantasy Zone (Japan) (En) (Proto)" id="0003">
+		<description>Space Fantasy Zone (Japan) (En) (Proto)</description>
+		<rom name="Space Fantasy Zone (Japan) (En) (Proto).bin" size="179379984" crc="468f14df" md5="22f8f65429be8df8facdfc41ee37ff0d" sha1="ae4e1c654d132fb32c6d7103dac726d701227ef9"/>
+		<rom name="Space Fantasy Zone (Japan) (En) (Proto).cue" size="516" crc="80a304f6" md5="b0272d1fa08a33664c376113c5ae77fd" sha1="0e49c943eb6546d7666a1bf45162597f6e0ec3d2" sha256="2fad295c4070780c378ce1a2d410ebf58405b049189f4c074e78f64f1309cfdd"/>
+	</game>
+</datafile>

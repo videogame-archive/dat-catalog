@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - KiloByte</name>
+		<description>Multi-format - Magazines - KiloByte (TOSEC-v2010-01-04)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-04</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="KiloByte - Issue 2 (2004-09)(KiloByte)">
+		<description>KiloByte - Issue 2 (2004-09)(KiloByte)</description>
+		<rom name="KiloByte - Issue 2 (2004-09)(KiloByte).pdf" size="3394986" crc="385da185" md5="6625ac16aeaf13ea7fbc03889cbf3387" sha1="576b6e9c6c217e002c04d943905227620d431e30"/>
+	</game>
+	<game name="KiloByte - Nr. 1 - Winter 2004 (2004)(KiloByte)[high quality]">
+		<description>KiloByte - Nr. 1 - Winter 2004 (2004)(KiloByte)[high quality]</description>
+		<rom name="KiloByte - Nr. 1 - Winter 2004 (2004)(KiloByte)[high quality].pdf" size="5429187" crc="149031d6" md5="5a1d0e3013fd2f2af381b3583fabdfe8" sha1="a3c7db2ea2bd7ea8b2841690e308e84fa605bcfd"/>
+	</game>
+	<game name="KiloByte - Nr. 1 - Winter 2004 (2004)(KiloByte)[low quality]">
+		<description>KiloByte - Nr. 1 - Winter 2004 (2004)(KiloByte)[low quality]</description>
+		<rom name="KiloByte - Nr. 1 - Winter 2004 (2004)(KiloByte)[low quality].pdf" size="3147511" crc="d697042c" md5="2d8b551549c667a7dadfb05237a68536" sha1="f1b7b4295178c7a700d16fa5dcace9e5939eb0a5"/>
+	</game>
+</datafile>

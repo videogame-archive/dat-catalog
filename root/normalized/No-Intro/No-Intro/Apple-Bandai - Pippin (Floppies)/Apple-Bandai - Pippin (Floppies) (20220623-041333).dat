@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>276</id>
+		<name>Apple-Bandai - Pippin (Floppies)</name>
+		<description>Apple-Bandai - Pippin (Floppies)</description>
+		<version>20220623-041333</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Atmark Adapter A Atmark Controller Atmark Keyboard - Key Assign Software (Japan)" id="0001">
+		<description>Atmark Adapter A Atmark Controller Atmark Keyboard - Key Assign Software (Japan)</description>
+		<rom name="Atmark Adapter A Atmark Controller Atmark Keyboard - Key Assign Software (Japan).img" size="351232" crc="95bdbe7b" md5="350a650480f284ffb2a34126b4feb970" sha1="a32f3b81828ba8dec4251a2ca07629b07d3e9b70"/>
+	</game>
+	<game name="Atmark Controller Key Assign Software (Japan) (v1.03)" id="0002">
+		<description>Atmark Controller Key Assign Software (Japan) (v1.03)</description>
+		<rom name="Atmark Controller Key Assign Software (Japan) (v1.03).img" size="84795" crc="84c06949" md5="e3aa1fa01f4f29c1d6a5933684fbdc85" sha1="f654282e7150223b79d33e3a9c7f8f13e435093f"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Canon Cat - Manuals - Hardware</name>
+		<description>Canon Cat - Manuals - Hardware (TOSEC-v2014-02-01)</description>
+		<category>TOSEC-PIX</category>
+		<version>2014-02-01</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Canon Cat How-to Guide, The (1987)(Canon)">
+		<description>Canon Cat How-to Guide, The (1987)(Canon)</description>
+		<rom name="Canon Cat How-to Guide, The (1987)(Canon).pdf" size="5299346" crc="7f3b8aa2" md5="eb9cea332d70ee0a0a74f39c4c243948" sha1="0b8da9e5159d960b26c6903968ebb71ad0c06474"/>
+	</game>
+	<game name="Canon Cat Reference Guide (1987)(Canon)">
+		<description>Canon Cat Reference Guide (1987)(Canon)</description>
+		<rom name="Canon Cat Reference Guide (1987)(Canon).pdf" size="10393065" crc="eea33f2b" md5="79da3dc5d808d36a1e700406dbd8a536" sha1="cdfc25e2afab9ca835800decae16722e2adb7600"/>
+	</game>
+	<game name="Quick Reference Card (1987)(Canon)">
+		<description>Quick Reference Card (1987)(Canon)</description>
+		<rom name="Quick Reference Card (1987)(Canon).pdf" size="3114424" crc="dba937af" md5="1db763cb62628d4909ba237a648fc755" sha1="7d984346b77b52d195c91a95f2d2eeff3e87f060"/>
+	</game>
+</datafile>

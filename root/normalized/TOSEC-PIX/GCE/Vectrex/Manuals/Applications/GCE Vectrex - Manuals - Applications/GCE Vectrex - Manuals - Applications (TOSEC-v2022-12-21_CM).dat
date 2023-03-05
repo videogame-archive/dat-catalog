@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE Vectrex - Manuals - Applications</name>
+		<description>GCE Vectrex - Manuals - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Animaction (1983)(GCE)">
+		<description>Animaction (1983)(GCE)</description>
+		<rom name="Animaction (1983)(GCE).pdf" size="3912674" crc="9ff8611d" md5="6203da700ce9b31fb681d4a02b1240be" sha1="408d018b3efb3e654042432d17c21a04e084a5af"/>
+	</game>
+	<game name="Animaction (1983)(GCE)[a]">
+		<description>Animaction (1983)(GCE)[a]</description>
+		<rom name="Animaction (1983)(GCE)[a].pdf" size="398127" crc="e2d8ff2b" md5="0d1d12a7b8b2fe05a3ffd2f3793739be" sha1="7f4db959e7cfbebd259894c8e0e388b138d06023"/>
+	</game>
+	<game name="Art Master (1983)(GCE)">
+		<description>Art Master (1983)(GCE)</description>
+		<rom name="Art Master (1983)(GCE).pdf" size="2712915" crc="d5cb1beb" md5="88a82643db760adfadef9d6e2bf83c67" sha1="537b2a632b276106d2e5cec596ea4eb3214097bc"/>
+	</game>
+	<game name="Art Master (1983)(GCE)[a]">
+		<description>Art Master (1983)(GCE)[a]</description>
+		<rom name="Art Master (1983)(GCE)[a].pdf" size="527071" crc="f70ce5d8" md5="7c4319df0218ec327c358cd532e6fadc" sha1="59ae0fe4d2e7fa47cc4fb0a5936f3e04a0052ede"/>
+	</game>
+	<game name="Melody Master (1983)(GCE)">
+		<description>Melody Master (1983)(GCE)</description>
+		<rom name="Melody Master (1983)(GCE).pdf" size="472219" crc="0744f89e" md5="10b323ace471235a13ffe5c68fdb777a" sha1="34f23e75239cc4402b504ad67e5d7ff2e234cde5"/>
+	</game>
+</datafile>

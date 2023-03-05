@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Games - [CDI]</name>
+		<description>Atari Jaguar CD - Homebrew - Games - [CDI] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Frog Feast (demo) (2005)(RasterSoft)(PD)">
+		<description>Frog Feast (demo) (2005)(RasterSoft)(PD)</description>
+		<rom name="Frog Feast (demo) (2005)(RasterSoft)(PD).cdi" size="4307273" crc="9ab87862" md5="a4f7a66cbf468ba8527c00d19da37fb8" sha1="c52cfc8e86f713cf12e598a76e3cc87862c1da9f"/>
+	</game>
+	<game name="Jagmatch (2015)(Mihai, Sebastian)">
+		<description>Jagmatch (2015)(Mihai, Sebastian)</description>
+		<rom name="Jagmatch (2015)(Mihai, Sebastian).cdi" size="16334440" crc="ee114035" md5="7f7eb633f7415703b83620af49449bed" sha1="8254706690c7bf411973f3894e0430aff0dde2a5"/>
+	</game>
+</datafile>

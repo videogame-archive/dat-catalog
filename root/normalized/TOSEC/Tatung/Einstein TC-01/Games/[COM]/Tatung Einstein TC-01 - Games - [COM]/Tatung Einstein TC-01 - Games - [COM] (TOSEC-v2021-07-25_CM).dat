@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tatung Einstein TC-01 - Games - [COM]</name>
+		<description>Tatung Einstein TC-01 - Games - [COM] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio).com" size="20024" crc="2a284633" md5="71c9c3682fb521ed4cad3b73a8b3b961" sha1="7564066124329a3d806cb7458333404668f7e052"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).com" size="20539" crc="9ffbb771" md5="8f0376d08de26c7f17194b5a29aab490" sha1="27a8b1983ff0511a0df261a548005100c84d9dd2"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).com" size="23619" crc="18e60cde" md5="9949e52ce469034043f0ab0d07b18105" sha1="f74acc10e5641e0ac77c7592e6fb44729d0bda65"/>
+	</game>
+</datafile>

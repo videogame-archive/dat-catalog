@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Games - [DSK]</name>
+		<description>Texas Instruments TI-99 4A - Games - [DSK] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)">
+		<description>Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)</description>
+		<rom name="Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan).dsk" size="184320" crc="37a57438" md5="7ffe60ea6787248f986b4037f833738c" sha1="d34c232b93eacc1f4bfb51e01f435947c2164b45"/>
+	</game>
+	<game name="Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)">
+		<description>Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft)</description>
+		<rom name="Hibernated 1 Director's Cut r10 (2021-12-27)(Puddle Soft).dsk" size="184320" crc="1da91f15" md5="1ea3c6fabf0a51fef5c87d22f87ff459" sha1="bb5297c9e2ca6ac0f67e118eec153ee190d482dc"/>
+	</game>
+	<game name="Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en)">
+		<description>Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en)</description>
+		<rom name="Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en).dsk" size="184320" crc="a8ac31d8" md5="6cc1fc230a7f89990dce346c0fbd3e15" sha1="359021a0185510cd8b3a531ea211fc7352aadb75"/>
+	</game>
+	<game name="Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en)">
+		<description>Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en)</description>
+		<rom name="Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en).dsk" size="184320" crc="69bd6cbb" md5="a86c93f1974a468800c2f71aa151663f" sha1="03378d3691639e1c4954a1f960abb80b9790ed3f"/>
+	</game>
+	<game name="île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)">
+		<description>île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)</description>
+		<rom name="île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR).dsk" size="184320" crc="7e750224" md5="7243c327b7fdfcd1ec69f27f51f687d7" sha1="e52226dee8e785f8fdd4543e673800332cbd10c6"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Games - [BIN]</name>
+		<description>Texas Instruments TI-99 4A - Games - [BIN] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-04-28)(Inufuto)(JP)[32K]">
+		<description>Ascend (2022-04-28)(Inufuto)(JP)[32K]</description>
+		<rom name="Ascend (2022-04-28)(Inufuto)(JP)[32K].bin" size="14160" crc="8eb0e721" md5="753dc0f54b6fa13d8362a7c44cd66330" sha1="9ea2cd7ec210f429b2e3e4f638d67ff7118f51a0"/>
+	</game>
+	<game name="Mazy (2022-04-30)(Inufuto)(JP)[32K]">
+		<description>Mazy (2022-04-30)(Inufuto)(JP)[32K]</description>
+		<rom name="Mazy (2022-04-30)(Inufuto)(JP)[32K].bin" size="8802" crc="db3dc620" md5="30e6ffc901035d97b3fb402ca296683f" sha1="8dd47220e2bbcf5f7ec6dd28c0a6342e40b6c72b"/>
+	</game>
+	<game name="Ruptus (2022-04-29)(Inufuto)(JP)">
+		<description>Ruptus (2022-04-29)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2022-04-29)(Inufuto)(JP).bin" size="18096" crc="74653e2a" md5="c631c99ed4cc9d57e8020d30209b81a3" sha1="a9e3112324ef87b563dd639b9848c630781ec9a9"/>
+	</game>
+</datafile>

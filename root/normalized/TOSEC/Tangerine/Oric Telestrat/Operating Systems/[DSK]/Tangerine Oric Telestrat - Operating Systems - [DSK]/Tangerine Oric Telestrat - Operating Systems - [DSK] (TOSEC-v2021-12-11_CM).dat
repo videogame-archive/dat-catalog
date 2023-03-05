@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric Telestrat - Operating Systems - [DSK]</name>
+		<description>Tangerine Oric Telestrat - Operating Systems - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="STRATSED v2.0c (1986)(Oric International)">
+		<description>STRATSED v2.0c (1986)(Oric International)</description>
+		<rom name="STRATSED v2.0c (1986)(Oric International).dsk" size="269056" crc="e3ac4b3c" md5="54695273c175ccf9264b59aec005b7d3" sha1="0c50fafc80f9ebb78b41a6bdb7cba82d7d231d25"/>
+	</game>
+	<game name="STRATSED v2.0c (1986)(Oric International)[a]">
+		<description>STRATSED v2.0c (1986)(Oric International)[a]</description>
+		<rom name="STRATSED v2.0c (1986)(Oric International)[a].dsk" size="1024256" crc="71d10bee" md5="811862829381582f3aee8cefc9710e94" sha1="1ae1f0c6b673e7356dcfa89c68737b649746411c"/>
+	</game>
+	<game name="STRATSED v2.0E (1986)(Oric International)">
+		<description>STRATSED v2.0E (1986)(Oric International)</description>
+		<rom name="STRATSED v2.0E (1986)(Oric International).dsk" size="1049856" crc="1645501f" md5="90f305c466782e152ed5a5d1ee1374c2" sha1="a2504f424e6a56b1e937ba98a05c3a140277cfe5"/>
+	</game>
+</datafile>

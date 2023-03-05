@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dick Smith System 80 - Books</name>
+		<description>Dick Smith System 80 - Books (TOSEC-v2011-02-20)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-02-20</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dick Smith's Easy Guide to Understanding Your Computer (1979)(Dick Smith Electronics)(AU)">
+		<description>Dick Smith's Easy Guide to Understanding Your Computer (1979)(Dick Smith Electronics)(AU)</description>
+		<rom name="Dick Smith's Easy Guide to Understanding Your Computer (1979)(Dick Smith Electronics)(AU).pdf" size="1496788" crc="257cafc6" md5="4f41d3be25fcf1b859e444229eb895a5" sha1="129bd3832edcb3802d4c0adf01d21e9e403b1be3"/>
+	</game>
+	<game name="Dick Smith's Easy Way to Program in Basic (1980)(Dick Smith Electronics)(AU)">
+		<description>Dick Smith's Easy Way to Program in Basic (1980)(Dick Smith Electronics)(AU)</description>
+		<rom name="Dick Smith's Easy Way to Program in Basic (1980)(Dick Smith Electronics)(AU).pdf" size="15717740" crc="007bad28" md5="1394830d825d184506553fa084f4dac3" sha1="5f83e12b7ff9a6eec8f2ed8fba3ed25a66427d4c"/>
+	</game>
+</datafile>

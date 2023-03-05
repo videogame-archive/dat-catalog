@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>135</id>
+		<name>Toshiba - Visicom</name>
+		<description>Toshiba - Visicom</description>
+		<version>20200202-120958</version>
+		<author>relax</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Toshiba Visicom (Japan)" id="0001">
+		<description>[BIOS] Toshiba Visicom (Japan)</description>
+		<rom name="[BIOS] Toshiba Visicom (Japan).bin" size="2048" crc="23d22074" md5="aeec6fe3934481e20eb7db6d5ff56a54" sha1="a0a8be23f70621a2bd8010b1134e8a0019075bf1" sha256="7a95530b9be7fe487e027a5ea7ffe4a7561762cc3fc8cdc535d6f36e5f23c8a0"/>
+	</game>
+	<game name="Gambler I (Japan) (En)" id="0004">
+		<description>Gambler I (Japan) (En)</description>
+		<game_id>CAS-140</game_id>
+		<rom name="Gambler I (Japan) (En).rom" size="2048" crc="565be7c2" md5="ee7e9b2ddc0f5360b51bd663a78f5fcf" sha1="561fb51db880e3a668231fddd4c4a10d1a981c80" sha256="405c80c53d6eec093992abb201f484920b268d3f2f9a0a86dd192e7752165093"/>
+	</game>
+	<game name="Gambler II (Japan)" id="0005">
+		<description>Gambler II (Japan)</description>
+		<game_id>CAS-141</game_id>
+		<rom name="Gambler II (Japan).rom" size="2048" crc="9da5c845" md5="2f29654b1656fbb462a8223100e2c6cc" sha1="438d9fc67de1ef408718b4737c0d0fd48844dacb" sha256="5d90b2f41414025a1f22280a366616a9d0d8b984a684c99d9a06f407cba75f3a"/>
+	</game>
+	<game name="Sansuu Drill (Japan)" id="0002">
+		<description>Sansuu Drill (Japan)</description>
+		<game_id>CAS-110</game_id>
+		<rom name="Sansuu Drill (Japan).rom" size="2048" crc="009cfaa2" md5="f6effaa00d1be8c35574e17b4aaabb89" sha1="fb567b904ded23a1c9256b39565b8a2bc3e35736" sha256="4cad232a9d2465c10884f562ef9bdf2d23f6d190143a30434597f1f431dd61d8"/>
+	</game>
+	<game name="Space Command (Japan)" id="0006">
+		<description>Space Command (Japan)</description>
+		<game_id>CAS-160</game_id>
+		<rom name="Space Command (Japan).rom" size="2048" crc="566dcc8a" md5="3b8369eb489e961929ca302230a0a0d1" sha1="b5e0313b7d4aacd9444c1987c51eaaba88fdc6bb" sha256="44e63089972755a8c4592d1d7bc9f61a0c5d2279ec50c7389b840cfd84fa05f6"/>
+	</game>
+	<game name="Sports Fan (Japan) (En)" id="0003">
+		<description>Sports Fan (Japan) (En)</description>
+		<game_id>CAS-130</game_id>
+		<rom name="Sports Fan (Japan) (En).rom" size="2048" crc="1f218f46" md5="69ba44ce797abdc837d1ce180802143e" sha1="af9c7e707cba98bea30b0c9e886652f2fedcb284" sha256="1f14cb401325302ffb61b96266827fe45df8bb2062e69be5c1f10ca014fff993"/>
+	</game>
+</datafile>

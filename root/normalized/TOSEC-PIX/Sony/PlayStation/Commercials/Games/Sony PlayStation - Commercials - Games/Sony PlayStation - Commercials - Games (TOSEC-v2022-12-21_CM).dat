@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Commercials - Games</name>
+		<description>Sony PlayStation - Commercials - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Crash Team Racing (1999)(Sony)(AU)">
+		<description>Crash Team Racing (1999)(Sony)(AU)</description>
+		<rom name="Crash Team Racing (1999)(Sony)(AU).mp4" size="1386764" crc="b7b9cbcc" md5="11f460476b081807d2dc132c02aed57e" sha1="94a9f8402df36a2c78569b7b0dc7afec9c917ab2"/>
+	</game>
+	<game name="Formula 1 '97 (1997)(Sony)(AU)">
+		<description>Formula 1 '97 (1997)(Sony)(AU)</description>
+		<rom name="Formula 1 '97 (1997)(Sony)(AU).mp4" size="2762816" crc="362b284b" md5="b5a938c305721d3e3c5b74d915b4eca2" sha1="eacfd6db63c65d3c4ae6b79de14f781455f5c791"/>
+	</game>
+	<game name="Rage Racer (1997)(Sony)(AU)">
+		<description>Rage Racer (1997)(Sony)(AU)</description>
+		<rom name="Rage Racer (1997)(Sony)(AU).mp4" size="1970617" crc="d499392c" md5="495d02361e548a370e4c0b89f99c674b" sha1="ef884ebbd61e59ddb3ee3c7581719bb8307c89a5"/>
+	</game>
+</datafile>

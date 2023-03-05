@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Manuals - Overlays</name>
+		<description>Atari Jaguar CD - Manuals - Overlays (TOSEC-v2019-05-05)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-05-05</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Baldies (1995)(Atari)">
+		<description>Baldies (1995)(Atari)</description>
+		<rom name="Baldies (1995)(Atari).pdf" size="25725" crc="4befaa6a" md5="7855ff3cdefd701310ad443082e30363" sha1="1185c35f8fc47b8e78166d2148652e4d48fe4565"/>
+	</game>
+	<game name="Battlemorph (1995)(Atari)">
+		<description>Battlemorph (1995)(Atari)</description>
+		<rom name="Battlemorph (1995)(Atari).pdf" size="24842" crc="85bba738" md5="8108cb0ab780a73a7970bb279d22c13b" sha1="2f0f67f3e718fd20ed0e9dd87d5eb73c888ea41b"/>
+	</game>
+	<game name="Blue Lightning (1995)(Atari)">
+		<description>Blue Lightning (1995)(Atari)</description>
+		<rom name="Blue Lightning (1995)(Atari).pdf" size="27065" crc="418362d2" md5="5d224c086d4bfb075c66e3047e3ad0e5" sha1="00da77f327d51353917ad05eefe7bde90d7bda89"/>
+	</game>
+	<game name="Hover Strike - Unconquered Lands (1995)(Atari)">
+		<description>Hover Strike - Unconquered Lands (1995)(Atari)</description>
+		<rom name="Hover Strike - Unconquered Lands (1995)(Atari).pdf" size="27321" crc="30113932" md5="08ca0ebea8fa6d50a13e6745f1a36185" sha1="4f70602f85653f92f7bdb7caef514f1533dcb033"/>
+	</game>
+</datafile>

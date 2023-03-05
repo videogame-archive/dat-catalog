@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-86 - Games</name>
+		<description>Texas Instruments TI-86 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[light]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[light]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[light].86p" size="9773" crc="31588bac" md5="2f8229d114bb296bd35d08498d2ba26f" sha1="6c25e8a171ee17caba458d87e53fed33d4060e41"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[light]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[light]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[light].86p" size="9041" crc="d22bc885" md5="1b42d014c5203232895342b6c563eb86" sha1="d76420cf6d1e36a0f347e34d29b4245836a0d516"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[light]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[light]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[light].86p" size="8791" crc="4a233628" md5="f38be3b20777dd1df7d575920d8957bf" sha1="e82a60f68579b12fcc0728ffdb9622b393775ee2"/>
+	</game>
+</datafile>

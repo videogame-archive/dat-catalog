@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - Educational</name>
+		<description>Acorn Archimedes - Educational (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Animated Alphabet, The (1988)(Sherston Software)(GB)">
+		<description>Animated Alphabet, The (1988)(Sherston Software)(GB)</description>
+		<rom name="Animated Alphabet, The (1988)(Sherston Software)(GB).adf" size="819200" crc="6515d8b6" md5="1e9155d9f59914bf7bfb04db8918d49d" sha1="945da14369f61bcda30e7b7a3d78126346d76789"/>
+	</game>
+	<game name="Clockwise v2.31 (1992)(Greygum Software)(AU)">
+		<description>Clockwise v2.31 (1992)(Greygum Software)(AU)</description>
+		<rom name="Clockwise v2.31 (1992)(Greygum Software)(AU).adf" size="819200" crc="95b97083" md5="0c2821cc96b2dfb8a54e481fad5c2885" sha1="221954319f9239dfae154d79a739530fbff09c2f"/>
+	</game>
+	<game name="Maths Bingo (1989)(Jacaranda Software)(AU)">
+		<description>Maths Bingo (1989)(Jacaranda Software)(AU)</description>
+		<rom name="Maths Bingo (1989)(Jacaranda Software)(AU).adf" size="819200" crc="0e648457" md5="46ad4c7c2379ca7e9ed012e10b7cb858" sha1="a969abaa6450ae894bcf30579cb97e0bd723af5f"/>
+	</game>
+	<game name="Money Matters (1991)(Triple R Education)">
+		<description>Money Matters (1991)(Triple R Education)</description>
+		<rom name="Money Matters (1991)(Triple R Education).adf" size="819200" crc="10ea6f84" md5="d496b2b6e50a190d280098852fe8a824" sha1="f8b72b42c597fe5682f98062f85fb071adcdf0a6"/>
+	</game>
+	<game name="PrimeSolver v0.40 (demo) (1993)(Minerva Software)(GB)">
+		<description>PrimeSolver v0.40 (demo) (1993)(Minerva Software)(GB)</description>
+		<rom name="PrimeSolver v0.40 (demo) (1993)(Minerva Software)(GB).adf" size="819200" crc="44305908" md5="90dba347feef1ebc9c735de1cad213de" sha1="f9c87cf8e036a6157105615b6b4c359465a2bf77"/>
+	</game>
+</datafile>

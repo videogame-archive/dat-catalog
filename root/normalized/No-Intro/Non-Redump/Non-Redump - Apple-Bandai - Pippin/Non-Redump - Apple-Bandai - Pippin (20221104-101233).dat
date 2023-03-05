@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>152</id>
+		<name>Non-Redump - Apple-Bandai - Pippin</name>
+		<description>Non-Redump - Apple-Bandai - Pippin</description>
+		<version>20221104-101233</version>
+		<author>baldjared, Hiccup, Seventy7</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Pippin KINKA (Unknown)" id="0083">
+		<description>[BIOS] Pippin KINKA (Unknown)</description>
+		<rom name="[BIOS] Pippin KINKA (Unknown) (u1).bin" size="1048576" crc="aaea2449" md5="51a88ffcfac8c33fb355978f25cc690e" sha1="2f63e215260a42fb7c5f2364682d5e8c0604646f" sha256="8cca6706e2387ffd62c9dc2dc6c5d9bc9267b4950705672a0c668b50cc5d9a81"/>
+		<rom name="[BIOS] Pippin KINKA (Unknown) (u2).bin" size="1048576" crc="3d584419" md5="599cd679ea600dd8010f2b7f9d7aa47c" sha1="e29c764816755662693b25f1fb3c24faef4e9470" sha256="40760c8db91904dc53094bfabadd84e294eabf11ab2cd1b5e952797f1960e503"/>
+		<rom name="[BIOS] Pippin KINKA (Unknown) (u3).bin" size="1048576" crc="d8ae5037" md5="488250785dc70d7893164e8ba76e9b9c" sha1="d46ce4d87ca1120dfe2cf2ba01451f035992b6f6" sha256="484b294321723e942c750c8f372b5677f8ca94161cbad5450fb748d29f3bb253"/>
+		<rom name="[BIOS] Pippin KINKA (Unknown) (u4).bin" size="1048576" crc="3e2851ba" md5="cc3726bb889e692f6e013d0884597c81" sha1="7cbf5d6999e890f5e9ab2bc4b10ca897c4dc2016" sha256="2697b44c0985db58ceac6e090ee05603d0a92a137cf7ee9b3c43e102519cb0d4"/>
+	</game>
+	<game name="[BIOS] Pippin KINKA (Unknown) (Beta)" id="0084">
+		<description>[BIOS] Pippin KINKA (Unknown) (Beta)</description>
+		<rom name="[BIOS] Pippin KINKA (Unknown) (Beta).bin" size="4194304" crc="4ff875e6" md5="318e40f6a1f47925876eb64cc18c9ede" sha1="eb8739cab1807c6c7c51acc7f4a3afc1f9c6ddbb" sha256="6d09380840cea9b09ad6c385dac0f20e9b0984c4e7b63af2394e3c84a432caf9"/>
+	</game>
+	<game name="@World Basics (USA)" id="0002">
+		<description>@World Basics (USA)</description>
+		<rom name="@World Basics (USA).bin" size="671682560" crc="9cb29753" md5="b41ff1963d17245f63b1c40977ef6049" sha1="0876905f3eca01979fbe96c3dfa584c4abf76873"/>
+		<rom name="@World Basics (USA).cue" size="85" crc="2f04c09f" md5="4567964c93158201c86d3bcce756337e" sha1="de03738557a5cfdf23fe9c2f90674b17843b4058"/>
+	</game>
+	<game name="@World Browser (USA) (Beta)" id="0003">
+		<description>@World Browser (USA) (Beta)</description>
+		<rom name="@World Browser (USA) (Beta).bin" size="268730368" crc="7982a848" md5="20eff15245175f1f117517d01ad05022" sha1="c8fcd1a0e67f43bda1124948a382426e6ba1d0b4"/>
+	</game>
+	<game name="@World Online Suite Browser (USA)" id="0004">
+		<description>@World Online Suite Browser (USA)</description>
+		<rom name="@World Online Suite Browser (USA).bin" size="268730368" crc="124f05fb" md5="b76e4b8c195c3810963fc7b4b3c2e529" sha1="c6aba7d3bea65318e2b1e82bfdbf9302ad0d2f61"/>
+		<rom name="@World Online Suite Browser (USA).cue" size="99" crc="656e4b97" md5="b97ceccdd579772b21ae58cfda552ea2" sha1="649ffa81d482d343da4c3c0dd222cc6e1f42ea24"/>
+	</game>
+	<game name="1995.1.17 Hanshin Daishinsai (Japan)" id="0001">
+		<description>1995.1.17 Hanshin Daishinsai (Japan)</description>
+		<rom name="1995.1.17 Hanshin Daishinsai (Japan).bin" size="771020880" crc="eae1f137" md5="d0c69d29a6004966e069a6ba9a07b961" sha1="643767a23e2a9d0f448be630d267e4829f9ad589"/>
+		<rom name="1995.1.17 Hanshin Daishinsai (Japan).cue" size="102" crc="2098ce9c" md5="6a378c80fd7f9d5cc97fd84511ccf109" sha1="a16590f0cbee4514513200118d03523575a39b6e"/>
+	</game>
+	<game name="ActionDesigner Ultraman Tiga (Japan)" id="0005">
+		<description>ActionDesigner Ultraman Tiga (Japan)</description>
+		<rom name="ActionDesigner Ultraman Tiga (Japan).bin" size="180318432" crc="e9030334" md5="bfbcd7fa44a5296eddc2f6eec24c52c7" sha1="992c15bb6c4762bbedd7c3be8142ab717e3c682d"/>
+		<rom name="ActionDesigner Ultraman Tiga (Japan).cue" size="103" crc="67c84182" md5="4f509b97b90050168bc5f98e698c136b" sha1="6e8109146cb77bf82296653ef7f939dde2c06c3c"/>
+	</game>
+	<game name="AI Shogi (Japan)" id="0006">
+		<description>AI Shogi (Japan)</description>
+		<rom name="AI Shogi (Japan).bin" size="294357504" crc="c6271287" md5="1e1228ca6ad3e21958bde9626866f902" sha1="d758928f49ce9849fe103ad4603f339ea1b88cdb"/>
+		<rom name="AI Shogi (Japan).cue" size="82" crc="3625a761" md5="a7fee543ef0b8e031cf3ef0d80b2f4e5" sha1="3858e3ca50243a099adeaaaba2f1671615dd5283"/>
+	</game>
+	<game name="Anime Designer - Dragon Ball Z (Japan)" id="0007">
+		<description>Anime Designer - Dragon Ball Z (Japan)</description>
+		<rom name="Anime Designer - Dragon Ball Z (Japan).bin" size="301399392" crc="df324059" md5="04ef0d389da550184a37156ba3484da1" sha1="c4f5a4332e4cde127339a2d385edfef382de66e7"/>
+		<rom name="Anime Designer - Dragon Ball Z (Japan).cue" size="104" crc="3d4dfba6" md5="421f60d0311c13afdbe1764dbdef7188" sha1="49a4edf17f1fb2d432f2b9585108b41a24a6db87"/>
+	</game>
+	<game name="Anpanman no AIUEO-N! (Japan)" id="0008">
+		<description>Anpanman no AIUEO-N! (Japan)</description>
+		<rom name="Anpanman no AIUEO-N! (Japan).bin" size="304903872" crc="dba2753d" md5="f2885bb435e028d868df2770e16bbffc" sha1="4c6a379bb90eeb6e5aa4b32cf05586e3e2a1f6b5"/>
+		<rom name="Anpanman no AIUEO-N! (Japan).cue" size="94" crc="d4faf17f" md5="0c71865e2e45ee5c8f2efb31f8b1eba3" sha1="07fe161cf9b00e0c95fad9038ee23343e857c2d0"/>
+	</game>
+	<game name="Anpanman to Asobou! 1 (Japan)" id="0009">
+		<description>Anpanman to Asobou! 1 (Japan)</description>
+		<rom name="Anpanman to Asobou! 1 (Japan).bin" size="421812384" crc="2d5c20b5" md5="33bc18d88446f71d972fc700cad721ed" sha1="4ae823e94948cb81145bcc26b0a32f1b043bf21e"/>
+		<rom name="Anpanman to Asobou! 1 (Japan).cue" size="95" crc="7cae68b0" md5="59dddee53cc884fa4c8aee859cecaae5" sha1="1d4806cd6563f014366b8341206c855eeb172afd"/>
+	</game>
+	<game name="Anpanman to Asobou! 2 (Japan)" id="0010">
+		<description>Anpanman to Asobou! 2 (Japan)</description>
+		<rom name="Anpanman to Asobou! 2 (Japan).bin" size="361624704" crc="5af5f5c0" md5="2e4ba6af15799da853d5aeff28562bf2" sha1="75300da0f17a40e5ee6eb4bc2ba7994901a49360"/>
+		<rom name="Anpanman to Asobou! 2 (Japan).cue" size="95" crc="d8d0ea75" md5="9e389abaa14cb5399762888c4e220e0b" sha1="325195d58dfe65e52abf6dde8fa0ffbe77065ad7"/>
+	</game>
+	<game name="Atmark Town Ver. 2.0 (Japan)" id="0011">
+		<description>Atmark Town Ver. 2.0 (Japan)</description>
+		<rom name="Atmark Town Ver. 2.0 (Japan).bin" size="24463152" crc="e5cb136d" md5="cd3e1acf381d954c8390afd4e96d1932" sha1="4320f33dea68af106cc997b57d15bd086b72f1f9"/>
+		<rom name="Atmark Town Ver. 2.0 (Japan).cue" size="94" crc="ce7e7336" md5="42034d34d2a72834e2eae9cfae287de4" sha1="d7426e6e00c4c347d24be01c138ae9ef28e4eb70"/>
+	</game>
+	<game name="Chisato Moritaka CD-Rom Watarase Bashi (Japan)" id="0012">
+		<description>Chisato Moritaka CD-Rom Watarase Bashi (Japan)</description>
+		<rom name="Chisato Moritaka CD-Rom Watarase Bashi (Japan).bin" size="771020880" crc="26005913" md5="fbdc27b7ec1aa2ef2b0423306ba296f3" sha1="f37e6be91b2d77f0c4d2520afd5bbdc0f6093478"/>
+		<rom name="Chisato Moritaka CD-Rom Watarase Bashi (Japan).cue" size="112" crc="4ca6ca88" md5="671b810f9d2b009125f25970e72ff103" sha1="dc30f47b22707c95357180df1bb6ad47aa3fe6b3"/>
+	</game>
+	<game name="Circus! (Japan)" id="0013">
+		<description>Circus! (Japan)</description>
+		<rom name="Circus! (Japan).bin" size="423679872" crc="a729d0a1" md5="11aeb4d4376193a0fb448c485c81dd09" sha1="d91567ec2e4cd42e442d79b0850b2eaee6704a15"/>
+		<rom name="Circus! (Japan).cue" size="81" crc="bb9d55f1" md5="85effb4d5365bd36bd44a0f90b5d81d3" sha1="3875ebd98ddb1a1fe891c8e290ba1ef910d07064"/>
+	</game>
+	<game name="Compton's Interactive Encyclopedia (USA)" id="0014">
+		<description>Compton's Interactive Encyclopedia (USA)</description>
+		<rom name="Compton's Interactive Encyclopedia (USA).bin" size="682170368" crc="25eddbb8" md5="1b4021d0d6607b9e97a98f5bf31e6f02" sha1="1890ec602acbfb7497ea05e03fb9ed4794b74e02"/>
+		<rom name="Compton's Interactive Encyclopedia (USA).cue" size="106" crc="926345d0" md5="0021124b4d88c5735e632be63b4ca965" sha1="def9dfab3325bf555f81ac3752f1668b1d161c66"/>
+	</game>
+	<game name="Dazzeloids (Japan)" id="0015">
+		<description>Dazzeloids (Japan)</description>
+		<rom name="Dazzeloids (Japan).bin" size="294357504" crc="d98f8fdc" md5="a18245b7fa80eb3404353108e6590894" sha1="38e809cf8b720a8413378966569e2a92fc920e57"/>
+		<rom name="Dazzeloids (Japan).cue" size="84" crc="b7352226" md5="31f10808ba9426ebc78dbac3cd519d15" sha1="b3df0febe8a337400ea3a0c07ffe95b1b3c5e625"/>
+	</game>
+	<game name="Densha Daishuugou - Driving Train (Japan)" id="0017">
+		<description>Densha Daishuugou - Driving Train (Japan)</description>
+		<rom name="Densha Daishuugou - Driving Train (Japan).bin" size="385673904" crc="8774b2c5" md5="ff5352061713d8c48cc037a3f6bc353d" sha1="ace8c103af83d87d6ee25b781ccf7b4fa2400a57"/>
+		<rom name="Densha Daishuugou - Driving Train (Japan).cue" size="107" crc="9dd96622" md5="b1306982fe0484a829d038d21aafaace" sha1="cff136b7fe713f3de8d3a84bd88997320333fac8"/>
+	</game>
+	<game name="EGWord Pure Version 1.0 for Pippin (Japan)" id="0018">
+		<description>EGWord Pure Version 1.0 for Pippin (Japan)</description>
+		<rom name="EGWord Pure Version 1.0 for Pippin (Japan).bin" size="294357504" crc="b1c7edcf" md5="777898c94db183a44dc0f603dc3e52a5" sha1="ef7bd326f1ebff705d17bcdddacfcd227e8c1dd2"/>
+		<rom name="EGWord Pure Version 1.0 for Pippin (Japan).cue" size="108" crc="4d9cf50f" md5="61ec4adb25bd340c5a458a49c9dc1a0f" sha1="f72d33d4aa63b1c3e98619ca53a0536453fbb56a"/>
+	</game>
+	<game name="Fortullia (Japan)" id="0019">
+		<description>Fortullia (Japan)</description>
+		<rom name="Fortullia (Japan).bin" size="308617680" crc="387a2e4a" md5="0f41f032e33944f096f0b9889d32df60" sha1="6e3cdd13c341df3d61c097a42d89e70a6989d4b5"/>
+		<rom name="Fortullia (Japan).cue" size="83" crc="a547ed0b" md5="914a302136a31fd7cbf388dfa42450cd" sha1="0d8ffbde5ee1293ba48dce5e6f2b3636002fd198"/>
+	</game>
+	<game name="Funky Funny Aliens (Japan)" id="0020">
+		<description>Funky Funny Aliens (Japan)</description>
+		<rom name="Funky Funny Aliens (Japan).bin" size="774071424" crc="de2b9065" md5="d9f399af42c307670cf0eeab8bcde82c" sha1="d4c8b3b35e9bc32ffb3ceb5e759e4cccc16fbb92"/>
+		<rom name="Funky Funny Aliens (Japan).cue" size="92" crc="a72e3d1d" md5="164613053f7ef9d333f98b86ff1eae32" sha1="b7b58d2c775310b1ecae16a9de37f28f2d363bbe"/>
+	</game>
+	<game name="Gadget (Japan)" id="0021">
+		<description>Gadget (Japan)</description>
+		<rom name="Gadget (Japan).bin" size="741143424" crc="50228036" md5="1d529f649a90edfd4538be53950ec789" sha1="bdfb30518d49230d6f879fe2467f8c0a1ae5fbed"/>
+		<rom name="Gadget (Japan).cue" size="80" crc="89d32549" md5="d878e05d15a780d35ae5d0467c652c8c" sha1="d63d9a4cf475c6c2448c9c302804d60f9909607f"/>
+	</game>
+	<game name="Gokigen Mama no Omakase Diary (Japan)" id="0022">
+		<description>Gokigen Mama no Omakase Diary (Japan)</description>
+		<rom name="Gokigen Mama no Omakase Diary (Japan).bin" size="301399392" crc="23ca9240" md5="5109d730da170ed4daf047c91931b66e" sha1="549b93a50109f3fc5484be2b50062fca5096e1d1"/>
+		<rom name="Gokigen Mama no Omakase Diary (Japan).cue" size="103" crc="b243b316" md5="a37d7c200037757e684e9862fe2f6fee" sha1="dfd65dd9f85c02bf8d225df667844d1d861faea5"/>
+	</game>
+	<game name="Gundam 0079 - The War for Earth (Japan)" id="0023">
+		<description>Gundam 0079 - The War for Earth (Japan)</description>
+		<rom name="Gundam 0079 - The War for Earth (Japan).bin" size="758014320" crc="b7675942" md5="d99936ca2bf3ebafe0e8f36acdd04f64" sha1="641ef49a9139eb92e14b5276602e710c05f2f315"/>
+		<rom name="Gundam 0079 - The War for Earth (Japan).cue" size="105" crc="1fee40df" md5="99241908f3a0c3b47bbc01f6a4047739" sha1="f29f628f4124d5922b155fd39832d3f09a020793"/>
+	</game>
+	<game name="Gundam Tactics -Mobility Fleet0079- (Japan) (Rev B)" id="0086">
+		<description>Gundam Tactics -Mobility Fleet0079- (Japan) (Rev B)</description>
+		<rom name="Gundam Tactics -Mobility Fleet0079- (Japan) (Rev B).bin" size="457946160" crc="c8dfa768" md5="25f058cb1ea8b6c84daeaf82fdce1fcd" sha1="1191a377a5e62ca8795f30f420b719fd134df495"/>
+		<rom name="Gundam Tactics -Mobility Fleet0079- (Japan) (Rev B).cue" size="117" crc="97926264" md5="7a2bffb6ccac5de2d1376d977fe9cfa9" sha1="ca60c65f3e70e8173cd3e8f92b46f82723cfd1f8"/>
+	</game>
+	<game name="Gundam Virtual Modeler Light (Japan)" id="0024">
+		<description>Gundam Virtual Modeler Light (Japan)</description>
+		<rom name="Gundam Virtual Modeler Light (Japan).bin" size="135218832" crc="837420ca" md5="0305e59e5cb961249b4a881a5c03423f" sha1="d0feed3c37a4cc8e1843040418f0104c9e3cbbc0"/>
+		<rom name="Gundam Virtual Modeler Light (Japan).cue" size="102" crc="b385f676" md5="ed305cafbe3e43d2100971b578db134e" sha1="a554308198e8807325bbf284c3d2d8dd89fbcccc"/>
+	</game>
+	<game name="Hare Tokidoki Buta - Fair, Then Partly Piggy (Japan)" id="0025">
+		<description>Hare Tokidoki Buta - Fair, Then Partly Piggy (Japan)</description>
+		<rom name="Hare Tokidoki Buta - Fair, Then Partly Piggy (Japan).bin" size="397720848" crc="d9091e04" md5="07e57bc16cdfffa612045a87fe19479b" sha1="4e82fd496c91ecece0245ce8385984aed9e92f73"/>
+		<rom name="Hare Tokidoki Buta - Fair, Then Partly Piggy (Japan).cue" size="118" crc="4c051076" md5="786b2389ff7f87ea1f5bade57bc403df" sha1="d90e04a95ab0340bff69050db13b4610c41cce7b"/>
+	</game>
+	<game name="Internet Kit Ver.1.1 (Japan)" id="0026">
+		<description>Internet Kit Ver.1.1 (Japan)</description>
+		<rom name="Internet Kit Ver.1.1 (Japan).bin" size="313439280" crc="1faacab8" md5="95fa510d211fa176e694ac661b29b1d7" sha1="fd519fa82404b6b3adda8d8ea4b4c095eece79b2"/>
+		<rom name="Internet Kit Ver.1.1 (Japan).cue" size="94" crc="62f86df4" md5="fd444bf555e7d3c4be8b6cb728683f88" sha1="5c443d00c28e2cab33f2684fb69b22fea65eb4e1"/>
+	</game>
+	<game name="Internet Kit Ver.2.0 (Japan)" id="0027">
+		<description>Internet Kit Ver.2.0 (Japan)</description>
+		<rom name="Internet Kit Ver.2.0 (Japan).bin" size="313432224" crc="5fb8e43c" md5="6ce6438aa19735a88dd8c985013a55ba" sha1="8c1a929b89ce9a08099664aed2459d15bb1e23e5"/>
+		<rom name="Internet Kit Ver.2.0 (Japan).cue" size="94" crc="02c674f1" md5="9626d082a1adb759571e0d6465a435d5" sha1="89636f1bf62cac7f8c56db7c5035355298c74b03"/>
+	</game>
+	<game name="Jungle Park (Japan)" id="0028">
+		<description>Jungle Park (Japan)</description>
+		<rom name="Jungle Park (Japan).bin" size="301399392" crc="14d9dfeb" md5="c6170ff70e1f462d59dd13efe85dcb40" sha1="6a0e3901ca9df509de91365dbb9c2a6bb2bbc822"/>
+		<rom name="Jungle Park (Japan).cue" size="85" crc="430f0cd5" md5="5660d01974594579073899d5ff5686cf" sha1="7a07adae4d2dc748d84af0788b8018eb95602cfc"/>
+	</game>
+	<game name="Kids Box (Japan)" id="0029">
+		<description>Kids Box (Japan)</description>
+		<rom name="Kids Box (Japan).bin" size="789086592" crc="6f08c574" md5="a897734e0009af10f25357c6599934c7" sha1="e9b92fb953cd238eb4824f12f6f73e955d484c51"/>
+		<rom name="Kids Box (Japan).cue" size="82" crc="2796652c" md5="3ebee53c14ef8a33944aeb119a83f8bb" sha1="28320c05ab16cbd570807281cf5bb4ce7a22b6d9"/>
+	</game>
+	<game name="L-Zone (Japan)" id="0030">
+		<description>L-Zone (Japan)</description>
+		<rom name="L-Zone (Japan).bin" size="361601184" crc="7d8952bd" md5="de6ad477aecdf4f3002228d5c299470e" sha1="d89402ff74c76fe1fd2e41149988e8334498a032"/>
+		<rom name="L-Zone (Japan).cue" size="80" crc="a6fde189" md5="618beeadb8ce685008f5b6941422e39f" sha1="67c0cdd99bc271305a71ddf5d209d285dfa59442"/>
+	</game>
+	<game name="Mac Bin 38 (Japan) (Mac User Japanese Edition 1997 1)" id="0031">
+		<description>Mac Bin 38 (Japan) (Mac User Japanese Edition 1997 1)</description>
+		<rom name="Mac Bin 38 (Japan) (Mac User Japanese Edition 1997 1).bin" size="774210192" crc="59c7b715" md5="2395074a318d918cb2ade2a13582f0da" sha1="4cd3ca01a55071869ca8a36adfd5ecbe73913860"/>
+		<rom name="Mac Bin 38 (Japan) (Mac User Japanese Edition 1997 1).cue" size="119" crc="68891ad7" md5="c9e90a722ad12bfa75c2eea4664d2916" sha1="9a194e905013abe5bfbad6ab127b93c64959cffe" sha256="d60f245f167e154157bcf644f54b7032c271b065c762becc663f27528bb40002"/>
+	</game>
+	<game name="Mac Bin 40 A (Japan) (Mac User Japanese Edition 1997 3)" id="0032">
+		<description>Mac Bin 40 A (Japan) (Mac User Japanese Edition 1997 3)</description>
+		<rom name="Mac Bin 40 A (Japan) (Mac User Japanese Edition 1997 3).bin" size="774179616" crc="ad6485ef" md5="07d45f4bd7263427cec4e8d639458fd6" sha1="dbb8fb68724f8e175ca94259d2837638ec84cda5"/>
+		<rom name="Mac Bin 40 A (Japan) (Mac User Japanese Edition 1997 3).cue" size="121" crc="6508dcc1" md5="9b447175a5736b8c4dbe2889f37a87d4" sha1="66e0860b653799ef28d3f5c62f6e2a96691c0231" sha256="52353639ddf87f774321d18d13de0323c3d43d7af0e425ef8c4ca29f82277cd0"/>
+	</game>
+	<game name="Mac Bin 40 B (Japan) (Mac User Japanese Edition 1997 3)" id="0033">
+		<description>Mac Bin 40 B (Japan) (Mac User Japanese Edition 1997 3)</description>
+		<rom name="Mac Bin 40 B (Japan) (Mac User Japanese Edition 1997 3).bin" size="774181968" crc="1cbf531f" md5="f62fe03487368ac3a7bd2ebb2aa54a0d" sha1="59d824774d19efcf9ec956a3a1557fef6c9ee45c"/>
+		<rom name="Mac Bin 40 B (Japan) (Mac User Japanese Edition 1997 3).cue" size="121" crc="70cb9df6" md5="5e28e965a1498cbea1b6416fff48f58d" sha1="2193c36c78ab5daf93c7afde2167a761e2a1799f" sha256="438a403b76a3b53de20c3296d5cf9300120042de85e7cc2356a869bd90d18fa5"/>
+	</game>
+	<game name="Macintosh on Pippin (USA)" id="0034">
+		<description>Macintosh on Pippin (USA)</description>
+		<rom name="Macintosh on Pippin (USA).bin" size="609661920" crc="dd586fc6" md5="ef922354a2dd7b1f3b2787520882ea93" sha1="7ba7e7bf2c8ba10b648e8246a576165eaf0b8952"/>
+		<rom name="Macintosh on Pippin (USA).cue" size="91" crc="6537916d" md5="ee7e0bac4835636480efbee7921dc4b7" sha1="7cacc3fa78d5a9798892da09cee92e988282135d"/>
+	</game>
+	<game name="Mission School - Seifuku Zukan (Japan)" id="0035">
+		<description>Mission School - Seifuku Zukan (Japan)</description>
+		<rom name="Mission School - Seifuku Zukan (Japan).bin" size="393230880" crc="d511b848" md5="1aacad939df2bce2ae24223f79e8005c" sha1="d25029f7feda542050dab50aca8f5c3237a901b5"/>
+		<rom name="Mission School - Seifuku Zukan (Japan).cue" size="104" crc="3301dc5c" md5="df0d1f2eca8c359f79302a819c9c075d" sha1="37d7a2e959aa9f1653543752c5d99475b937e496" sha256="14bd75b3da0e0c8dd240334f1b4e9a44971ee48f40cea31a73774eac0244d7a2"/>
+	</game>
+	<game name="Mobile Suit Gundam - Zion Dukedom Military-File (Japan)" id="0036">
+		<description>Mobile Suit Gundam - Zion Dukedom Military-File (Japan)</description>
+		<rom name="Mobile Suit Gundam - Zion Dukedom Military-File (Japan).bin" size="276242400" crc="1c96d85d" md5="9d3e0914f2ad68dd13d35a1fdfce20cf" sha1="f84534a7c9fa52e7dd5a6d3a018fc554010a169f"/>
+		<rom name="Mobile Suit Gundam - Zion Dukedom Military-File (Japan).cue" size="121" crc="18790fe3" md5="d318ccbac3218ea6e037c9d8c9310e28" sha1="195410cab15b0f0c80e09e9e7ca4df2edc93403b"/>
+	</game>
+	<game name="Mobilesuit Gundam - White Base - The 13th Independent Force (Japan)" id="0037">
+		<description>Mobilesuit Gundam - White Base - The 13th Independent Force (Japan)</description>
+		<rom name="Mobilesuit Gundam - White Base - The 13th Independent Force (Japan).cue" size="133" crc="524ba0f9" md5="bb9e309c39b47f4be1cdaff213f5e028" sha1="66f908bd32a2689384f68e2aaeb45cbd3ccc4458"/>
+		<rom name="Mobilesuit Gundam - White Base - The 13th Independent Force (Japan).bin" size="270893952" crc="44dbe354" md5="0b8de16627e7bd82d51ba3fce76bf21e" sha1="41d38c52f0128798a1f9f54ae4dca636d315c46f"/>
+	</game>
+	<game name="Music Island Vol. 1 - Prokofiev - Peter the Wolf (Japan)" id="0038">
+		<description>Music Island Vol. 1 - Prokofiev - Peter the Wolf (Japan)</description>
+		<rom name="Music Island Vol. 1 - Prokofiev - Peter the Wolf (Japan).bin" size="771006768" crc="88764040" md5="9a9833e7cb41e0f4001e15807c16edfb" sha1="bcd777ecc3c651ebb35326cc175abc29cc71bdcc"/>
+		<rom name="Music Island Vol. 1 - Prokofiev - Peter the Wolf (Japan).cue" size="122" crc="207b5f7d" md5="49e153abc0434ad0bc58c199af202e26" sha1="b3e47a321ffc96887d8dd21ff1234c84a360bd0b"/>
+	</game>
+	<game name="Music Island Vol. 2 - Tchaikovsky - The Nutcracker (Japan)" id="0039">
+		<description>Music Island Vol. 2 - Tchaikovsky - The Nutcracker (Japan)</description>
+		<rom name="Music Island Vol. 2 - Tchaikovsky - The Nutcracker (Japan).bin" size="530201952" crc="5923e875" md5="d9b850802e39be23a417cd4d59477978" sha1="9b8c19c127e4b531e8b449b05e0f5e8ab998d4da"/>
+		<rom name="Music Island Vol. 2 - Tchaikovsky - The Nutcracker (Japan).cue" size="124" crc="c3145f6d" md5="a1232ab72d28335ffc9341d313b2f728" sha1="5b34ecefa3c599b77e049639b063ba6be33d54aa"/>
+	</game>
+	<game name="Music Island Vol. 3 - Vivaldi - The Four Seasons (Japan)" id="0040">
+		<description>Music Island Vol. 3 - Vivaldi - The Four Seasons (Japan)</description>
+		<rom name="Music Island Vol. 3 - Vivaldi - The Four Seasons (Japan).bin" size="616901376" crc="3eae2876" md5="0869054b3fb103a6734f86879f22caf3" sha1="f3161ae4380bdd7515e8645251c72fca634d5a1e"/>
+		<rom name="Music Island Vol. 3 - Vivaldi - The Four Seasons (Japan).cue" size="122" crc="a5265bd1" md5="48c37e55e1bcf7bd63eab7267ebecaa6" sha1="e6151c4be00df246271f6f33291da2b73589789b"/>
+	</game>
+	<game name="Music Island Vol. 4 - Saint-Saens - Carnival of the Animals (Japan)" id="0041">
+		<description>Music Island Vol. 4 - Saint-Saens - Carnival of the Animals (Japan)</description>
+		<rom name="Music Island Vol. 4 - Saint-Saens - Carnival of the Animals (Japan).bin" size="547783152" crc="f3a86067" md5="d4760e339916b407a926478941c1c4e1" sha1="6489017e283b49a025713e846451925214b4c4d9"/>
+		<rom name="Music Island Vol. 4 - Saint-Saens - Carnival of the Animals (Japan).cue" size="133" crc="2cacd562" md5="013868a690840f258c1f61901433ec1c" sha1="88465b50ef6db3bf45199edf0dc34b6d4f4e1cb5"/>
+	</game>
+	<game name="Narabete! Tsukutte! Ugoku Block (Japan)" id="0042">
+		<description>Narabete! Tsukutte! Ugoku Block (Japan)</description>
+		<rom name="Narabete! Tsukutte! Ugoku Block (Japan).bin" size="294357504" crc="c84238b7" md5="ca8e3340939b8189d9798d73d0385657" sha1="43eae01d27662092d09ea959f2d481e4dbf58849"/>
+		<rom name="Narabete! Tsukutte! Ugoku Block (Japan).cue" size="105" crc="4d1fe43c" md5="0c100cc3a5a0f6d2c69b0d4b5213d682" sha1="db45e775ad761875b1b9c3419460eb7e359addbc"/>
+	</game>
+	<game name="Nemurenu Yoru no Chiisana Ohanashi (Japan)" id="0043">
+		<description>Nemurenu Yoru no Chiisana Ohanashi (Japan)</description>
+		<rom name="Nemurenu Yoru no Chiisana Ohanashi (Japan).bin" size="421807680" crc="76777f50" md5="a8a3088459e2ee3bf9b1af42f1c1b393" sha1="780ecc2f3ebc39fdd60cb938bb9e7da047825212"/>
+		<rom name="Nemurenu Yoru no Chiisana Ohanashi (Japan).cue" size="108" crc="496bd722" md5="275d63e47e19f30e77498e07a6f52b25" sha1="9f39747b65981dae3d90cb7cf2244d196fd14ed0"/>
+	</game>
+	<game name="Nobunaga no Yabou Returns - Rekishi Simulation Game (Japan)" id="0044">
+		<description>Nobunaga no Yabou Returns - Rekishi Simulation Game (Japan)</description>
+		<rom name="Nobunaga no Yabou Returns - Rekishi Simulation Game (Japan).bin" size="295514688" crc="630fb8c5" md5="d27c12195b1a96bc4f756fb15651a7ec" sha1="005a209f23e5e7a74c22b9307d94624871df7bda"/>
+		<rom name="Nobunaga no Yabou Returns - Rekishi Simulation Game (Japan).cue" size="125" crc="f26ee535" md5="b24a2aafe130644296c20d4a6b15e438" sha1="030451a49509aa252e120997ccefc86413d2353c"/>
+	</game>
+	<game name="Pease (Japan)" id="0046">
+		<description>Pease (Japan)</description>
+		<rom name="Pease (Japan).bin" size="300218688" crc="e1590d5d" md5="9a20f4f035efa6e021bb16fae22bfc58" sha1="4766b7258bf16207da09ea1aa04195bd1650f9fc"/>
+		<rom name="Pease (Japan).cue" size="79" crc="98dd8732" md5="8ee3df73327d6c2946ba58f75b996de2" sha1="36111c2c5232f7263a0eaa3c61de51415f696e72"/>
+	</game>
+	<game name="Pease Turbo (Japan)" id="0047">
+		<description>Pease Turbo (Japan)</description>
+		<rom name="Pease Turbo (Japan).bin" size="385767984" crc="7408e27f" md5="167036694015cf4943a30cf6ccb12292" sha1="b8783e4b219016e7b97294b3c466161eaefef876"/>
+		<rom name="Pease Turbo (Japan).cue" size="85" crc="d2dfbeda" md5="d938887674a4230bb70aafc3068392f6" sha1="5609f596ae93b51b3b28ed4d8a7c0d24810f0f6b"/>
+	</game>
+	<game name="Pippin CD (Unknown)" id="0048">
+		<description>Pippin CD (Unknown)</description>
+		<rom name="Pippin CD (Unknown).bin" size="45029040" crc="9d7532b4" md5="c9160c780ee4db03b273fdfd8dc7045e" sha1="96664d87e5408099ce45232b6f9ed20598bde4b5"/>
+		<rom name="Pippin CD (Unknown).cue" size="85" crc="f34bcc8e" md5="b1a2df2ffd672b8534991576788990cc" sha1="cd4df0a85e331cbc6251bd1b6d3a8aaef71da4e3" sha256="9ff5cca7cbe3c475b6696e34eca3bcb7b4bb47f429ae6982bdfff0617fc1e9d9"/>
+	</game>
+	<game name="Pippin Network CD Ver. 2.0 (Japan)" id="0049">
+		<description>Pippin Network CD Ver. 2.0 (Japan)</description>
+		<rom name="Pippin Network CD Ver. 2.0 (Japan).bin" size="622148688" crc="41b61cbf" md5="dc62cfcd1fdb1d1f91a4fd5f839e92e3" sha1="894e510adfa9db3608cd07644310cb465a1fbb2b"/>
+		<rom name="Pippin Network CD Ver. 2.0 (Japan).cue" size="100" crc="8c83cb7e" md5="285799773cedfb3620047b8cf22120d7" sha1="e1f7a2065306e2ce8e50522d2dd193e993b77c0b"/>
+	</game>
+	<game name="Pippin SDK CD-ROM (Unknown) (November 13, 1996)" id="0050">
+		<description>Pippin SDK CD-ROM (Unknown) (November 13, 1996)</description>
+		<rom name="Pippin SDK CD-ROM (Unknown) (November 13, 1996).iso" size="57026560" crc="33bb80b6" md5="fc343b39ff0a2ee1a19f965b7f878045" sha1="085ed932aaaf4752c89d1bc016b3865547be8de4"/>
+	</game>
+	<game name="PiPPiN Title Demo (Japan) (Mac Fan PiPPiN SPECIAL, Disk B)" id="0045">
+		<description>PiPPiN Title Demo (Japan) (Mac Fan PiPPiN SPECIAL, Disk B)</description>
+		<rom name="PiPPiN Title Demo (Japan) (Mac Fan PiPPiN SPECIAL, Disk B).bin" size="764668128" crc="086d0b35" md5="0efb69dae376e5fdc8fc6b37e2b273eb" sha1="4bc5c442eccea0e61efac05ce877a6559874565c"/>
+		<rom name="PiPPiN Title Demo (Japan) (Mac Fan PiPPiN SPECIAL, Disk B).cue" size="124" crc="0358b755" md5="4974c476ec7327725dfb9e6189d14c5c" sha1="4d2debdc45ae6ebe27d25e8ca26207f9933320ee" sha256="32c7ce9ccce1173aaf325b6d7d583e523e05588e9a13b190787a9b4f6361be9d"/>
+	</game>
+	<game name="Power Nazorer (Japan)" id="0051">
+		<description>Power Nazorer (Japan)</description>
+		<rom name="Power Nazorer (Japan).bin" size="602819952" crc="e03c462b" md5="6cf70c30e00c5c912b5c7439160f6798" sha1="ade58ef69395b75c45ddc6e884f03c28f6a7528e"/>
+		<rom name="Power Nazorer (Japan).cue" size="87" crc="0ea45f57" md5="4a0125fdd610c09c9af485ace3150c34" sha1="6730a1bf88e529d5528307a522326ba96ee688c3"/>
+	</game>
+	<game name="Power Rangers Zeo Vs. The Machine Empire (USA)" id="0052">
+		<description>Power Rangers Zeo Vs. The Machine Empire (USA)</description>
+		<rom name="Power Rangers Zeo Vs. The Machine Empire (USA).bin" size="783432384" crc="2904209e" md5="c3bcb78a183dde50090b50fc4c11365a" sha1="c928511e6988abe62fc28d50cee5521082fbc711"/>
+		<rom name="Power Rangers Zeo Vs. The Machine Empire (USA).cue" size="112" crc="73dafcf2" md5="ad89f3f44fafaf86af0448d1f0c7d36c" sha1="a03ebf929d8d1eb386852e115655e9a284ad559c"/>
+	</game>
+	<game name="Randoseru Shougakkou 1 Nen (Japan)" id="0053">
+		<description>Randoseru Shougakkou 1 Nen (Japan)</description>
+		<rom name="Randoseru Shougakkou 1 Nen (Japan).bin" size="770367024" crc="a70e1509" md5="6ba803705eac14504e5efb9decf5ba4c" sha1="f8a141b07d0adef408b5d3485e3d3c0175b6a5d6"/>
+		<rom name="Randoseru Shougakkou 1 Nen (Japan).cue" size="100" crc="05a1dd6f" md5="e46deddfab4ffed180524184ef553d99" sha1="ca480a043dc760cc319fa0b5ac36553f81110de4"/>
+	</game>
+	<game name="SD Gundam Wars (Japan)" id="0054">
+		<description>SD Gundam Wars (Japan)</description>
+		<rom name="SD Gundam Wars (Japan).bin" size="162699600" crc="747ffe77" md5="01eb6e43fcb3fa67f09e680e6dd736c2" sha1="fa73f781f7d0475e6beba0611aa9e13004e50869"/>
+		<rom name="SD Gundam Wars (Japan).cue" size="88" crc="f4b122b2" md5="9a0db5df0cb6d92f613f375d93c3678b" sha1="adeca05b09f9e31896d20159c8e2f5055f9a1c1c"/>
+	</game>
+	<game name="SD Ultraman no Chyousen! Meiro Island (Japan)" id="0055">
+		<description>SD Ultraman no Chyousen! Meiro Island (Japan)</description>
+		<rom name="SD Ultraman no Chyousen! Meiro Island (Japan).bin" size="294357504" crc="3375adab" md5="8403f634754fcc35c3f12fd2920fd8de" sha1="9726cfe7549ea39d9a094c1b64347c942f5b8975"/>
+		<rom name="SD Ultraman no Chyousen! Meiro Island (Japan).cue" size="111" crc="8b92370c" md5="17b51f3a54ea498bf1398b964dc76b50" sha1="93818d0d1922fae621d7ae49059fc0f00e34f6d5"/>
+	</game>
+	<game name="SeesawC 1 - My Favorite Things - Sukinamonodake Eitango 120 (Japan)" id="0056">
+		<description>SeesawC 1 - My Favorite Things - Sukinamonodake Eitango 120 (Japan)</description>
+		<rom name="SeesawC 1 - My Favorite Things - Sukinamonodake Eitango 120 (Japan).bin" size="771013824" crc="b91f5626" md5="c7cebe813391c87c09714f024ba1dc18" sha1="42bcc6b815c0849286bc6840a8f288ad0593ce2a"/>
+		<rom name="SeesawC 1 - My Favorite Things - Sukinamonodake Eitango 120 (Japan).cue" size="133" crc="3ba52327" md5="61740794bab0d6852c6182eb2062415b" sha1="4d1b1a66b2e86e30216fbb04432be3a043d9e180"/>
+	</game>
+	<game name="SeesawC 2 - My Favorite Places - Sukinatokorode Eitango 400 (Japan)" id="0057">
+		<description>SeesawC 2 - My Favorite Places - Sukinatokorode Eitango 400 (Japan)</description>
+		<rom name="SeesawC 2 - My Favorite Places - Sukinatokorode Eitango 400 (Japan).bin" size="771112608" crc="1076abb4" md5="96d0bc2e446f78a3a17d8fdc3de5abd4" sha1="b6d2c2b3909063ba3594db717a49fc94a6b82959"/>
+		<rom name="SeesawC 2 - My Favorite Places - Sukinatokorode Eitango 400 (Japan).cue" size="133" crc="53a8e95a" md5="d287024c0d42baf578a3b92566a4d101" sha1="648da31723358bcc827a5b4869820b9b58aa8048"/>
+	</game>
+	<game name="Shichisokusen (Japan)" id="0058">
+		<description>Shichisokusen (Japan)</description>
+		<rom name="Shichisokusen (Japan).bin" size="771020880" crc="89aee2bc" md5="bf014d013bfc8ba8194c6a93db839e4a" sha1="d9df42dd43394a9cab85489ebc818e669af0a179"/>
+		<rom name="Shichisokusen (Japan).cue" size="87" crc="d02dc2c0" md5="7cbfc2db413677cfb8c8a8077ec8eacb" sha1="3bd85779af98c231f24a8e58e83a494f2a2f0d1d"/>
+	</game>
+	<game name="Shockwave (Japan)" id="0059">
+		<description>Shockwave (Japan)</description>
+		<rom name="Shockwave (Japan).bin" size="554272320" crc="5447e63b" md5="1f69a00a2becacd56c5fcb2f5c3c8b14" sha1="7c623becf7ec1db5dada2ac9dc736b888c8af276"/>
+		<rom name="Shockwave (Japan).cue" size="83" crc="4863c523" md5="2bb9bba81e085faecaa32ecbd036abb4" sha1="c08fc9fdf56389fe96c1f71ac0adc58d659691b9"/>
+	</game>
+	<game name="Super Marathon (USA)" id="0060">
+		<description>Super Marathon (USA)</description>
+		<rom name="Super Marathon (USA).bin" size="783439440" crc="d4f59659" md5="312e80f272fe9685c7c66a160d520fee" sha1="1aeb7bb3569d6535ee2ca0a16f0fd49b23ef0788"/>
+		<rom name="Super Marathon (USA).cue" size="86" crc="d86117e1" md5="d4b65da7640eba269c06c306bd1e6e4a" sha1="d56d64e6154954892eff344466b405d3e9870f73"/>
+	</game>
+	<game name="T-Break (Japan)" id="0061">
+		<description>T-Break (Japan)</description>
+		<rom name="T-Break (Japan).bin" size="294357504" crc="d507e1d0" md5="21c3bf9f388140398fb2e50643140f75" sha1="d85a962ff662e3d56f52d7f537692417afa553a0"/>
+		<rom name="T-Break (Japan).cue" size="81" crc="a65ddb8b" md5="6dc044f5e5f270a9e148664bb66c6614" sha1="11d44f0311aad39cddd50faeea0cf93cde1e3f85"/>
+	</game>
+	<game name="Tarot Mystery (Japan)" id="0063">
+		<description>Tarot Mystery (Japan)</description>
+		<rom name="Tarot Mystery (Japan).bin" size="771006768" crc="5164c8a0" md5="cd53d69c8ca29d21180cbcb2f2f813db" sha1="b997c7490c2dc9a344215253684da7c65d05a85e"/>
+		<rom name="Tarot Mystery (Japan).cue" size="87" crc="5b58185a" md5="213fbaebb25f286565bd69855b6447c2" sha1="1e91b66092c0069a7f3f1283419a416e3d93086b"/>
+	</game>
+	<game name="Tetsuman Gaiden - Game Daiou no Yabou (Japan)" id="0064">
+		<description>Tetsuman Gaiden - Game Daiou no Yabou (Japan)</description>
+		<rom name="Tetsuman Gaiden - Game Daiou no Yabou (Japan).bin" size="771020880" crc="31cee6c1" md5="0ef825c93b30a78887ad07041847f662" sha1="71b85cac1cb1e9f10c0509f0b5a35cb59668915b"/>
+		<rom name="Tetsuman Gaiden - Game Daiou no Yabou (Japan).cue" size="111" crc="ff62f0ee" md5="998ab5a8ada915f192aacf5fe25c6b53" sha1="4f9a12d63306f31cdbd45e876ec62d5a03486433"/>
+	</game>
+	<game name="Tropic Island (Japan)" id="0065">
+		<description>Tropic Island (Japan)</description>
+		<rom name="Tropic Island (Japan).bin" size="771020880" crc="c84ff617" md5="0b259005fd78def0f64f56911d6576a9" sha1="f399276cc6e39c9c58e9fb04579937b61c6d9d8d"/>
+		<rom name="Tropic Island (Japan).cue" size="87" crc="1071197a" md5="bb7eacaad93c96cc519aa3fb52804fc3" sha1="7408341dab6aad28104f2c7ddd13ca13979c12c2"/>
+	</game>
+	<game name="TV Works V3.0 (USA)" id="0066">
+		<description>TV Works V3.0 (USA)</description>
+		<rom name="TV Works V3.0 (USA).bin" size="671682560" crc="97c8fd12" md5="55488bae8aefb2f0bcac3be7e43e572e" sha1="5016bcee615dbbf9d4913a7f2fdc4980d3a2fc5e"/>
+		<rom name="TV Works V3.0 (USA).cue" size="85" crc="9c881d6e" md5="0c20173ee89f91ac153d9771e69c3e9f" sha1="482302ed1af75506dc82a3076e148084363e286a"/>
+	</game>
+	<game name="TV Works Ver. 2.0 (Japan)" id="0067">
+		<description>TV Works Ver. 2.0 (Japan)</description>
+		<rom name="TV Works Ver. 2.0 (Japan).bin" size="361601184" crc="eea75d34" md5="b8086cff8cc6899536675f344c162ddb" sha1="30467be22b7bed92368d1d23db1907d5748586fb"/>
+		<rom name="TV Works Ver. 2.0 (Japan).cue" size="91" crc="903fffe4" md5="16fe126eb76cbfcc0300ebc8b423a9ab" sha1="e1287fe80960622ce56eb511c0fe046bc12b651d"/>
+	</game>
+	<game name="TV Works Ver.2.1 (Japan)" id="0068">
+		<description>TV Works Ver.2.1 (Japan)</description>
+		<rom name="TV Works Ver.2.1 (Japan).bin" size="361601184" crc="94fefb6a" md5="675e230c66a1ac1c7818fc28ac68b3b5" sha1="ee4c5aa375f5d7adc95297a37baadd9027e37c44"/>
+		<rom name="TV Works Ver.2.1 (Japan).cue" size="90" crc="11d31b3a" md5="2c9b1c928f35121b12dc2b25ba4a1f18" sha1="6e5fc7ad875c9ff5ebd351cee72a62798642d828"/>
+	</game>
+	<game name="TV Works Ver.POP 1999 (Japan)" id="0070">
+		<description>TV Works Ver.POP 1999 (Japan)</description>
+		<rom name="TV Works Ver.POP 1999 (Japan).bin" size="118006896" crc="55b340a4" md5="500baa144dd5934e8dea2b0269ad9ba1" sha1="cb47cf12b276682f2a21eb917fee1c45b301a83c"/>
+		<rom name="TV Works Ver.POP 1999 (Japan).cue" size="95" crc="0475988c" md5="4f1ea131aef2be95f9c1f2b415e1cb1a" sha1="f9d2b47b784bdcb92bc5e295f314907de2959e58"/>
+	</game>
+	<game name="Ultraman Quiz King (Japan)" id="0071">
+		<description>Ultraman Quiz King (Japan)</description>
+		<rom name="Ultraman Quiz King (Japan).bin" size="729425760" crc="62fb9bb7" md5="0ee0fb4384979251ddcdab43a92aaf3e" sha1="af50e55eaa22237d59d2baa82246788096d3eca7"/>
+		<rom name="Ultraman Quiz King (Japan).cue" size="92" crc="05851d53" md5="cd92cbce4c4b390971975834593ee86d" sha1="b9dbd1f6cf6aeef51d2943c9687fefac029b281a"/>
+	</game>
+	<game name="Victorian Park (Japan) (Disc 1)" id="0072">
+		<description>Victorian Park (Japan) (Disc 1)</description>
+		<rom name="Victorian Park (Japan) (Disc 1).bin" size="741202224" crc="28ba9e1b" md5="0f4fefc63bb8307a7556e448bf53eedf" sha1="1c73e67ec2a4f53cb2e50d7c4fa3a865ec5eb225"/>
+		<rom name="Victorian Park (Japan) (Disc 1).cue" size="97" crc="38e48ba0" md5="77843d0eb2d5640ac535b62940a837ab" sha1="5f9361d8c86661013b5ef86cc5c67808cc0a89a4"/>
+	</game>
+	<game name="Victorian Park (Disc 2) (Japan)" id="0073">
+		<description>Victorian Park (Disc 2) (Japan)</description>
+		<rom name="Victorian Park (Disc 2) (Japan).bin" size="764644608" crc="43301ae4" md5="6a46c9c8d6a8fe1a83e27d946cead5c1" sha1="c2b62848cf86a521407224a534d7ff9c8c28bf67"/>
+		<rom name="Victorian Park (Disc 2) (Japan).cue" size="97" crc="a6534503" md5="8f03cbf349102d52d793b08aea6bfee2" sha1="379cb6bd2514625620c8104fa5f28bf9c626aa64" sha256="d77bdbb7fd81e1a7ae87b9087a074acf45f625c24b069cb33e49720acffaa7c8"/>
+	</game>
+	<game name="WebViewer with Microsoft Internet Explorer 3.0 for Macintosh (Japan)" id="0074">
+		<description>WebViewer with Microsoft Internet Explorer 3.0 for Macintosh (Japan)</description>
+		<rom name="WebViewer with Microsoft Internet Explorer 3.0 for Macintosh (Japan).bin" size="30472512" crc="1f66685c" md5="b008efcef747fcf9fcd1a41bd18a4fec" sha1="728102e2fb0172f68e205a411186f6cff99224d2"/>
+		<rom name="WebViewer with Microsoft Internet Explorer 3.0 for Macintosh (Japan).cue" size="134" crc="8f838774" md5="9bd0e3b3df8f4377b726b0040a08b233" sha1="cfcd58b5250f74942e8a0961fae578cd9772863f"/>
+	</game>
+	<game name="Yellow Brick Road I (Japan)" id="0075">
+		<description>Yellow Brick Road I (Japan)</description>
+		<rom name="Yellow Brick Road I (Japan).bin" size="229181232" crc="e69831b4" md5="93150446a2dc67481b60ebe88f8c000b" sha1="8c0d259ab377be62cd6b3a71c0eb23460da72a6b"/>
+		<rom name="Yellow Brick Road I (Japan).cue" size="93" crc="de5f540a" md5="de70dc44b331b89c856a2b7315af05b9" sha1="a5e4948e1696144617e8d407297b5437d83224b8"/>
+	</game>
+	<game name="Yellow Brick Road II (Japan) (Disc 1)" id="0076">
+		<description>Yellow Brick Road II (Japan) (Disc 1)</description>
+		<rom name="Yellow Brick Road II (Japan) (Disc 1).bin" size="710854368" crc="13ff69d4" md5="2d5ca7e7c8b1dd407b31b8ffdcbb6190" sha1="21f69c7106031ec28c1910497703d24143bfdecb"/>
+		<rom name="Yellow Brick Road II (Japan) (Disc 1).cue" size="103" crc="58565ae8" md5="b2ef49a01815548c3533dcb6cecd971b" sha1="48751867ec6b16b6ede503ea1b50d856c22c3ab7"/>
+	</game>
+	<game name="Yellow Brick Road II (Japan) (Disc 2)" id="0077">
+		<description>Yellow Brick Road II (Japan) (Disc 2)</description>
+		<rom name="Yellow Brick Road II (Japan) (Disc 2).bin" size="602476560" crc="a3740016" md5="4e3c87ec6bc84d4e4da5e09b4cad496c" sha1="929bfed06b332561f17a2a24fd65c39b8f663ef0"/>
+		<rom name="Yellow Brick Road II (Japan) (Disc 2).cue" size="103" crc="590b7c39" md5="6d9afb3b6b89f2fb9ab7919ca439882c" sha1="9bf7218f3994cf6909040b774b58f03b7602f8c2"/>
+	</game>
+	<game name="Yellows - Akira Gomi Photographs (Japan)" id="0078">
+		<description>Yellows - Akira Gomi Photographs (Japan)</description>
+		<rom name="Yellows - Akira Gomi Photographs (Japan).bin" size="770367024" crc="7733ca4e" md5="e819c26caa63013df1a9df9995717477" sha1="48d406f0eebd5539f9176fb1e484d1be0a62cbb8"/>
+		<rom name="Yellows - Akira Gomi Photographs (Japan).cue" size="106" crc="64ae8775" md5="a0e50d86dc41fb44eab16c0cc712092f" sha1="286ff80e59f8c4f299b487f3bad15bc99e8adb3c"/>
+	</game>
+	<game name="Yellows 2.0 Tokyo 1993 Akira Gomi Photographs (Japan)" id="0079">
+		<description>Yellows 2.0 Tokyo 1993 Akira Gomi Photographs (Japan)</description>
+		<rom name="Yellows 2.0 Tokyo 1993 Akira Gomi Photographs (Japan).bin" size="771020880" crc="2839a0b7" md5="cf66f14960d87b6072ecc294dd741963" sha1="ec109859dae0dd8ad31c68a4e7d805f0cf70a028"/>
+		<rom name="Yellows 2.0 Tokyo 1993 Akira Gomi Photographs (Japan).cue" size="119" crc="ca4af784" md5="61a4286cdf26443899a73cad5ca162e4" sha1="1001eee402817e1b5949efd6e01ebd23436391ae"/>
+	</game>
+	<game name="Yoku Mite Goran (Japan)" id="0080">
+		<description>Yoku Mite Goran (Japan)</description>
+		<rom name="Yoku Mite Goran (Japan).bin" size="786414720" crc="3c7a1155" md5="2e95e7d6a59de5ffe11e02c422af4a2a" sha1="abd743058104cb01b1aad33a7785ed448560e1fe"/>
+		<rom name="Yoku Mite Goran (Japan).cue" size="89" crc="0283541d" md5="5b7080978256a21a73e9b833358b359e" sha1="c1e859109e9ea036c98665aa1251cf065c509e5b"/>
+	</game>
+	<game name="Zukkoke Sanningumi -Drama Satsujinjiken- (Japan)" id="0081">
+		<description>Zukkoke Sanningumi -Drama Satsujinjiken- (Japan)</description>
+		<rom name="Zukkoke Sanningumi -Drama Satsujinjiken- (Japan).bin" size="759072720" crc="d5cf8066" md5="033d75dc6f86ee6e68995698fc5fd664" sha1="cd9f453537dd03aaba2061c755bc827d9efcf222"/>
+		<rom name="Zukkoke Sanningumi -Drama Satsujinjiken- (Japan).cue" size="114" crc="89708993" md5="752b154db3be9a4bedf9d8771a4a1406" sha1="958ce8773191dff024d1d0fa1e5812e4af5a1f52"/>
+	</game>
+</datafile>

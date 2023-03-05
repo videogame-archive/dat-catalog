@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp MZ-2500 - Games</name>
+		<description>Sharp MZ-2500 - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny][buffered].dsk" size="348416" crc="f142aedd" md5="1cf3989f150ea36a25e3a7e9e4fd5aa9" sha1="e374b51f1131b3c880ad8b766374fd44730f20b3"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered].dsk" size="348416" crc="b863b6a2" md5="d931a10a12ce667a1328a0414d7b4380" sha1="526de0981bb9ace2f68f47b9eaf9495c689b6661"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).dsk" size="348416" crc="353b5d19" md5="42cdc206ee3c5ea5821b7796e73de9f2" sha1="1fb7962a7c300b85f5455b2b2a9dcbe735ddcc0e"/>
+	</game>
+</datafile>

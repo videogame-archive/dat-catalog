@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>292</id>
+		<name>Non-Redump - Sega - ALLS</name>
+		<description>Non-Redump - Sega - ALLS</description>
+		<version>20220802-204142</version>
+		<author>Gefflon, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 1) (0004AB)" id="0001">
+		<description>Fate - Grand Order Arcade (Japan) (v3.00) (Disc 1) (0004AB)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 1) (0004AB).iso" size="8386904064" crc="ee4f9fa6" md5="0bbfc298fc98db6d5f5e779a209af950" sha1="c82dc0c2d8de205a58fed4d9a5362359ef65e72e" mia="yes"/>
+	</game>
+	<game name="Fate - Grand Order Arcade (Japan) (v5.00) (Disc 1) (0004AV)" id="0002" cloneofid="0001">
+		<description>Fate - Grand Order Arcade (Japan) (v5.00) (Disc 1) (0004AV)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v5.00) (Disc 1) (0004AV).iso" size="8386904064" crc="43ba6e53" md5="ba6028f37ed025bef9ed090b2b01aae7" sha1="fd441cfe08842b5516824822fa8570f523ebb5c5" mia="yes"/>
+	</game>
+	<game name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 2) (0004AB)" id="0003">
+		<description>Fate - Grand Order Arcade (Japan) (v3.00) (Disc 2) (0004AB)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 2) (0004AB).iso" size="1323679744" crc="d7bc8270" md5="e7d780f35f2e9ae41a121c97f2ef1c85" sha1="917516b384fddbde35e85adbaf3e9ea6b40bea89" mia="yes"/>
+	</game>
+	<game name="Fate - Grand Order Arcade (Japan) (v7.00) (Disc 3) (0004CC)" id="0004">
+		<description>Fate - Grand Order Arcade (Japan) (v7.00) (Disc 3) (0004CC)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v7.00) (Disc 3) (0004CC).iso" size="1537867776" crc="d788b5c4" md5="8c7c6a9ef9f5f063ceb462590ff04d93" sha1="f2510ed28a17fe38ce45312cffb2bc72ba1c326f" mia="yes"/>
+	</game>
+</datafile>

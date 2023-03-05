@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>156</id>
+		<name>Non-Redump - Microsoft - Xbox</name>
+		<description>Non-Redump - Microsoft - Xbox</description>
+		<version>20220630-093513</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="King Of Fighters '94 Re-Bout (Unknown) (Proto) (2006-07-01)" id="0001">
+		<description>King Of Fighters '94 Re-Bout (Unknown) (Proto) (2006-07-01)</description>
+		<rom name="King Of Fighters '94 Re-Bout (Unknown) (Proto) (2006-07-01).iso" size="1755854848" crc="5348f05e" md5="c8d4469d470dd6836b5aadae9a00deef" sha1="40e7a56f617679c5f2c5a0fb9aed5badc1a481fd"/>
+	</game>
+	<game name="Rent a Hero No.1 (Unknown) (Beta)" id="0002">
+		<description>Rent a Hero No.1 (Unknown) (Beta)</description>
+		<rom name="Rent a Hero No.1 (Unknown) (Beta).iso" size="2515292160" crc="7916df8e" md5="16461b0cefeada72442f8d033dcce6ac" sha1="afbe17822c76295eeca81a65754998f7d4fee817"/>
+	</game>
+</datafile>

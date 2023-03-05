@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Manuals - Educational</name>
+		<description>Commodore Amiga - Manuals - Educational (TOSEC-v2012-04-14)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-14</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventures In Math (1991)(Free Spirit)">
+		<description>Adventures In Math (1991)(Free Spirit)</description>
+		<rom name="Adventures In Math (1991)(Free Spirit).pdf" size="259311" crc="a587460f" md5="52ff2a5ca4059fb5a231db23d2ed8f13" sha1="fbb5138dfca87ac63e6169aeb9245a0f0296206c"/>
+	</game>
+	<game name="Adventures In Math (1991)(Free Spirit)[a]">
+		<description>Adventures In Math (1991)(Free Spirit)[a]</description>
+		<rom name="Adventures In Math (1991)(Free Spirit)[a].pdf" size="501810" crc="427f6670" md5="8d8fb3747b64c78ceab537c328bf20f7" sha1="efd5fc7c8cf3d3d3d4477102a14829cd5daa2b2b"/>
+	</game>
+	<game name="Barney Bear Goes To Space (1990)(Free Spirit Software)">
+		<description>Barney Bear Goes To Space (1990)(Free Spirit Software)</description>
+		<rom name="Barney Bear Goes To Space (1990)(Free Spirit Software).pdf" size="284581" crc="50c298a0" md5="8672b7fc5cece4ea06932df7e52aa165" sha1="3ca86b849963548a4949ee38e7c2768705039640"/>
+	</game>
+</datafile>

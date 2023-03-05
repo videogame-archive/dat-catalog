@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Books</name>
+		<description>Texas Instruments TI-99 4A - Books (TOSEC-v2011-03-20)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-03-20</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basic Programming for Adults (1983)(Computer Advantage Club)">
+		<description>Basic Programming for Adults (1983)(Computer Advantage Club)</description>
+		<rom name="Basic Programming for Adults (1983)(Computer Advantage Club).pdf" size="34176592" crc="edadc4b3" md5="0f7621a8c8092d9b74d946fbdf53a1ee" sha1="ea85c3e7ae6073a9828535b83151283486e49ad0"/>
+	</game>
+	<game name="COMPUTE!'s Beginner's Guide to Assembly Language on the TI-99 4A (1985)(COMPUTE! Publications)">
+		<description>COMPUTE!'s Beginner's Guide to Assembly Language on the TI-99 4A (1985)(COMPUTE! Publications)</description>
+		<rom name="COMPUTE!'s Beginner's Guide to Assembly Language on the TI-99 4A (1985)(COMPUTE! Publications).pdf" size="9740440" crc="1defd875" md5="b8255ab061c496c5e48344e93bdc5718" sha1="7e87173230dbf22eb3d3cd50c5aa75603e5c230b"/>
+	</game>
+	<game name="COMPUTE!'s First Book of TI Games (1983)(COMPUTE! Publications)">
+		<description>COMPUTE!'s First Book of TI Games (1983)(COMPUTE! Publications)</description>
+		<rom name="COMPUTE!'s First Book of TI Games (1983)(COMPUTE! Publications).pdf" size="22861759" crc="a97652e9" md5="6db0d60d3336fd483a6aa7d295c0e08d" sha1="7f46c6dd8e4fcd15be603360cb386a6f100f1c61"/>
+	</game>
+	<game name="COMPUTE!'s Programmer's Reference Guide to the TI-99 4A (1983)(COMPUTE! Publications)">
+		<description>COMPUTE!'s Programmer's Reference Guide to the TI-99 4A (1983)(COMPUTE! Publications)</description>
+		<rom name="COMPUTE!'s Programmer's Reference Guide to the TI-99 4A (1983)(COMPUTE! Publications).pdf" size="44922391" crc="1336e3cd" md5="12fa9f677eb917dc3982af3651eae2d8" sha1="f66854228dc188df6bf5b6752c9e21111546d61d"/>
+	</game>
+	<game name="COMPUTE!'s TI Collection Volume One (1984)(COMPUTE! Publications)">
+		<description>COMPUTE!'s TI Collection Volume One (1984)(COMPUTE! Publications)</description>
+		<rom name="COMPUTE!'s TI Collection Volume One (1984)(COMPUTE! Publications).pdf" size="38023816" crc="e3ea40cb" md5="4a6067979231c229c167b2263d1a38bd" sha1="d24f5d26403197516a7f2234188d9db4d36fb25c"/>
+	</game>
+	<game name="Cracking the 99 4A (1984)(Midnight Express)">
+		<description>Cracking the 99 4A (1984)(Midnight Express)</description>
+		<rom name="Cracking the 99 4A (1984)(Midnight Express).pdf" size="471963" crc="e76be1c2" md5="53755217a31f51320db3099b2a539fac" sha1="2419d1917af4783ce673d10cd4e5002632b8c92d"/>
+	</game>
+	<game name="Texas Instruments Home Computer Idea Book, The (1983)(Creative Computing)">
+		<description>Texas Instruments Home Computer Idea Book, The (1983)(Creative Computing)</description>
+		<rom name="Texas Instruments Home Computer Idea Book, The (1983)(Creative Computing).pdf" size="29321730" crc="d7e9f158" md5="563ff9934a9e1df180810ee155b26136" sha1="9a1a079e6d437dccfcbd66f880f627447227c395"/>
+	</game>
+	<game name="TI LOGO (1984)(McGraw Hill)">
+		<description>TI LOGO (1984)(McGraw Hill)</description>
+		<rom name="TI LOGO (1984)(McGraw Hill).pdf" size="35733599" crc="7ded54a5" md5="3bae9971b3d23e2b803a4b49b40579b5" sha1="2685ae2a22fbfad1d2eec80d8bfc516400749f41"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magnavox Odyssey2 - Manuals - Technical</name>
+		<description>Magnavox Odyssey2 - Manuals - Technical (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="C7010 Chess Module Service Manual (1984)(Philips)(EU)">
+		<description>C7010 Chess Module Service Manual (1984)(Philips)(EU)</description>
+		<rom name="C7010 Chess Module Service Manual (1984)(Philips)(EU).pdf" size="1521935" crc="a07e6f19" md5="65d336f32c3086002405946bc00c8623" sha1="c105d9191dde1d74bfad729c33f84d8835741fc5"/>
+	</game>
+	<game name="G7000 Service Manual (198x)(Philips)(M6)">
+		<description>G7000 Service Manual (198x)(Philips)(M6)</description>
+		<rom name="G7000 Service Manual (198x)(Philips)(M6).pdf" size="4288979" crc="52228826" md5="716fdb440ed459eed75c226b6766652b" sha1="99e855b5ac24ce3a4db526d8de3872d31d4aacd4"/>
+	</game>
+	<game name="Magnavox Service Manual (1979-09)(Magnavox)(US)">
+		<description>Magnavox Service Manual (1979-09)(Magnavox)(US)</description>
+		<rom name="Magnavox Service Manual (1979-09)(Magnavox)(US).pdf" size="2487210" crc="00babe8d" md5="3ff614085c00a25e1337a807bc125e2e" sha1="fe7ded5b0a39ee32f8ca3f4bc11c9a09e22a41cb"/>
+	</game>
+	<game name="Radiola Videojeux Couleur 25-4 (198x)(Radiola)">
+		<description>Radiola Videojeux Couleur 25-4 (198x)(Radiola)</description>
+		<rom name="Radiola Videojeux Couleur 25-4 (198x)(Radiola).pdf" size="6477233" crc="f492525b" md5="56d1ca3df138220e20593f422522172c" sha1="2393af9639b68906a7e20d85f36810053c1303c1"/>
+	</game>
+	<game name="Service Information (1983-08-09)(Philips)(M6)">
+		<description>Service Information (1983-08-09)(Philips)(M6)</description>
+		<rom name="Service Information (1983-08-09)(Philips)(M6).pdf" size="1175275" crc="db5851ff" md5="0964ccdb39d7aec2d30f8254365adcd1" sha1="14da24546aa33dc32cd4986dadd23e5735341e8e"/>
+	</game>
+	<game name="Videojeux Couleur (198x)(Radiola)(Fr)">
+		<description>Videojeux Couleur (198x)(Radiola)(Fr)</description>
+		<rom name="Videojeux Couleur (198x)(Radiola)(Fr).pdf" size="3023974" crc="fa898221" md5="549928d61f0f8c3f863e0ef2f14f8181" sha1="0fc01d7f8823af12fbc30ac80440ed3619ca5512"/>
+	</game>
+</datafile>

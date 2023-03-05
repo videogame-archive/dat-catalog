@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8801 - Games - [T88]</name>
+		<description>NEC PC-8801 - Games - [T88] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).t88" size="14197" crc="6f0797f6" md5="9631c7644e1a89266104df3b5120e7c7" sha1="35bad4eafe3a8374d47cc792f58d17d5909a3752"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny].t88" size="6501" crc="2e2312ed" md5="2edfb0e24beeedfa633bde7a3531ac65" sha1="a45faaf7ccf8b6458e35218b9b00ac23ec2fc7d2"/>
+	</game>
+</datafile>

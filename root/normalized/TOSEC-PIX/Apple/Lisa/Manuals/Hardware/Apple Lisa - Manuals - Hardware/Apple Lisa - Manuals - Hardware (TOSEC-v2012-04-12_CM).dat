@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Lisa - Manuals - Hardware</name>
+		<description>Apple Lisa - Manuals - Hardware (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Lisa 2 Owner's Guide (1984)(Apple)">
+		<description>Lisa 2 Owner's Guide (1984)(Apple)</description>
+		<rom name="Lisa 2 Owner's Guide (1984)(Apple).pdf" size="19985238" crc="81abd2b5" md5="59e75fb6589517964d1b5e52a26c62d2" sha1="3d1b6c9e7afc27c0d0d51c69e8cbeb090a929ab3"/>
+	</game>
+	<game name="Lisa Hardware Reference Manual (1981-07-07)(Apple)">
+		<description>Lisa Hardware Reference Manual (1981-07-07)(Apple)</description>
+		<rom name="Lisa Hardware Reference Manual (1981-07-07)(Apple).pdf" size="6401884" crc="66fe31f2" md5="3818c11c6a39b9dda2060efe72bffbe9" sha1="9facc5bb146ebd5a6937dcd744b337aac235cf49"/>
+	</game>
+	<game name="Lisa Hardware Reference Manual (1983-05-31)(Apple)">
+		<description>Lisa Hardware Reference Manual (1983-05-31)(Apple)</description>
+		<rom name="Lisa Hardware Reference Manual (1983-05-31)(Apple).pdf" size="18811047" crc="16112975" md5="8026d7988799ca7d5c1cda08e3387896" sha1="b776c2530b4a88cd17283ff2b7ff96d64f3c1385"/>
+	</game>
+	<game name="Lisa Hardware Reference Manual (1985-05)(Apple)[errata]">
+		<description>Lisa Hardware Reference Manual (1985-05)(Apple)[errata]</description>
+		<rom name="Lisa Hardware Reference Manual (1985-05)(Apple)[errata].pdf" size="492721" crc="a44f41d3" md5="55887200ef42f5a7f6e4e218113ef81d" sha1="e7103cbf73f4788259b2a37a42ee18c0eba8a2d0"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Homebrew - Games - [ELF]</name>
+		<description>Sony PlayStation 2 - Homebrew - Games - [ELF] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)">
+		<description>Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)</description>
+		<rom name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW).elf" size="2702076" crc="566f93d3" md5="d5e830baab1b36b6fe2e947278800a9b" sha1="f544ac44f2b0319c914e344f53264b0e07753c89"/>
+	</game>
+	<game name="Tennix Classic Championship Tour 2011 (2016-10-17)(thp)">
+		<description>Tennix Classic Championship Tour 2011 (2016-10-17)(thp)</description>
+		<rom name="Tennix Classic Championship Tour 2011 (2016-10-17)(thp).elf" size="2496277" crc="df229ecf" md5="adf727b6fb167407e631931f3a8d18ee" sha1="a12ec18c72b4d5c92ff590be5ef809ca21adc6b0"/>
+	</game>
+</datafile>

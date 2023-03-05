@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Manuals - Hardware</name>
+		<description>Sega Dreamcast - Manuals - Hardware (TOSEC-v2012-04-19)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-19</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dreamcast (1999)(Sega)">
+		<description>Dreamcast (1999)(Sega)</description>
+		<rom name="Dreamcast (1999)(Sega).pdf" size="425647" crc="b03144b8" md5="61310a121b18baf327f8bcfd9f36c3a8" sha1="d9ef55661a4f95a750efd1d98963110b3a28f2ba"/>
+	</game>
+	<game name="Dreamcast Broadband Adapter (2000)(Sega)">
+		<description>Dreamcast Broadband Adapter (2000)(Sega)</description>
+		<rom name="Dreamcast Broadband Adapter (2000)(Sega).pdf" size="112998" crc="97c4b03a" md5="1171bbdecec0a4990c4927240509f6a5" sha1="8dc70f189d80c816fb8e2d93ba2a858dd7dfd0de"/>
+	</game>
+	<game name="DreamCast Instruction Manual (2000)(Sega)(US)">
+		<description>DreamCast Instruction Manual (2000)(Sega)(US)</description>
+		<rom name="DreamCast Instruction Manual (2000)(Sega)(US).pdf" size="25773294" crc="70f53990" md5="54399996ea7fc048ab36d9ebf56f1fd3" sha1="5b13667b66ba05f8d74c5bcb7def3ee2cf33e3f3"/>
+	</game>
+	<game name="Dreamcast Microphone (1999)(Sega)">
+		<description>Dreamcast Microphone (1999)(Sega)</description>
+		<rom name="Dreamcast Microphone (1999)(Sega).pdf" size="37202" crc="d084acf8" md5="f1d7b0d336686d66d202033a93965882" sha1="774f2170087c4798630fa795adc801a0f31214e1"/>
+	</game>
+	<game name="Sega Dreamcast Microphone for Voice Recognition Input (1999)(Sega)(US)">
+		<description>Sega Dreamcast Microphone for Voice Recognition Input (1999)(Sega)(US)</description>
+		<rom name="Sega Dreamcast Microphone for Voice Recognition Input (1999)(Sega)(US).pdf" size="31501" crc="4cef2f32" md5="c1aafddfa7f1a8aa6282abc2d5918315" sha1="814c2584ea2b9308bdf1a8cefd7eba92b0b3154d"/>
+	</game>
+	<game name="Sega Dreamcast Visual Memory Unit (1999)(Sega)(US)">
+		<description>Sega Dreamcast Visual Memory Unit (1999)(Sega)(US)</description>
+		<rom name="Sega Dreamcast Visual Memory Unit (1999)(Sega)(US).pdf" size="292311" crc="f1d7a086" md5="bf88a081d1589e3224f7915e5aeb44cf" sha1="e06e52650a89f3471a40d67c148c0173d5764461"/>
+	</game>
+</datafile>

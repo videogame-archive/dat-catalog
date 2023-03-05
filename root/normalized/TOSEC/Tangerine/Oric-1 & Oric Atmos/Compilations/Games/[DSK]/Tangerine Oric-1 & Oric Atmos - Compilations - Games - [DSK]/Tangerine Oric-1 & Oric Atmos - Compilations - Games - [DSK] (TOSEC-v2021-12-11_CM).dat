@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Compilations - Games - [DSK]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Compilations - Games - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Minigame Compo 2003 - All in One Disk (2003)(-)(PD)">
+		<description>Minigame Compo 2003 - All in One Disk (2003)(-)(PD)</description>
+		<rom name="Minigame Compo 2003 - All in One Disk (2003)(-)(PD).dsk" size="256256" crc="e99cf2da" md5="0a6b984a5d24afdf59f1fb8729885c10" sha1="8c53666f4ff15807d6ffd18e03f4a3185d4c5f41"/>
+	</game>
+	<game name="Mr. President (1986)(TCB-Software) &amp; Hollywood Director (1987)(GPD-Software)(SE)(en) &amp; Rock'N Roll (19xx)(GPD-Software)(SE)(en)">
+		<description>Mr. President (1986)(TCB-Software) &amp; Hollywood Director (1987)(GPD-Software)(SE)(en) &amp; Rock'N Roll (19xx)(GPD-Software)(SE)(en)</description>
+		<rom name="Mr. President (1986)(TCB-Software) &amp; Hollywood Director (1987)(GPD-Software)(SE)(en) &amp; Rock'N Roll (19xx)(GPD-Software)(SE)(en).dsk" size="1049856" crc="70592529" md5="b2be8a149d32e202452fd537df5f5d0a" sha1="ebf63662a3b86fc4c1f3a2e5880a4a521a00dc6a"/>
+	</game>
+	<game name="Multigame Disk (19xx)(-)(PD)">
+		<description>Multigame Disk (19xx)(-)(PD)</description>
+		<rom name="Multigame Disk (19xx)(-)(PD).dsk" size="1049856" crc="f4b4402d" md5="071087484adb2317df082e0f87009f87" sha1="32b8dd612a3000c7cab263aef349da24e564c481"/>
+	</game>
+	<game name="Scott Adams Adventures Compilation (19xx)(-)">
+		<description>Scott Adams Adventures Compilation (19xx)(-)</description>
+		<rom name="Scott Adams Adventures Compilation (19xx)(-).dsk" size="326376" crc="407acd37" md5="9faadf9988bb39be5fd2c44c2a998825" sha1="2e54bd3c0d7dc3a04bc5367ab495425db1c3f127"/>
+	</game>
+	<game name="Scott Adams Adventures Compilation (19xx)(-)[a]">
+		<description>Scott Adams Adventures Compilation (19xx)(-)[a]</description>
+		<rom name="Scott Adams Adventures Compilation (19xx)(-)[a].dsk" size="1049856" crc="256198b8" md5="a9bb98da7ddae7d5e93277bf69d37ba9" sha1="8df4e85c42759718b3193153df2bf59954bce750"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE Vectrex - Commercials - Hardware</name>
+		<description>GCE Vectrex - Commercials - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Vectrex (1983)(GCE)(US)">
+		<description>Vectrex (1983)(GCE)(US)</description>
+		<rom name="Vectrex (1983)(GCE)(US).mp4" size="1918486" crc="3295944c" md5="d22cdfb70c071816bf16561a24c27726" sha1="ade78f4870a0c82a04616eda6ed6a693112d74dd"/>
+	</game>
+	<game name="Vectrex (1983)(Milton Bradley)(AU)">
+		<description>Vectrex (1983)(Milton Bradley)(AU)</description>
+		<rom name="Vectrex (1983)(Milton Bradley)(AU).mp4" size="1848132" crc="114c283c" md5="d0a1ca6434605eb79d5002129696aa6b" sha1="bddd111639f810d8d1cd311ecf11014ded359f15"/>
+	</game>
+</datafile>

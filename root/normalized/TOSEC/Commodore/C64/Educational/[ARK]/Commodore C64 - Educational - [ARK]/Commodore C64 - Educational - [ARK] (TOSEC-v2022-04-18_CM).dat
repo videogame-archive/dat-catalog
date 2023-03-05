@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Educational - [ARK]</name>
+		<description>Commodore C64 - Educational - [ARK] (TOSEC-v2022-04-18)</description>
+		<category>TOSEC</category>
+		<version>2022-04-18</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG]">
+		<description>Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG]</description>
+		<rom name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG].ark" size="18048" crc="e977be5a" md5="887f85e54cc0eea48e528442cf1c4de3" sha1="2fb559e8495a9f5313c4814b8ce9351a3bbbdaa1"/>
+	</game>
+	<game name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG][a]">
+		<description>Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG][a]</description>
+		<rom name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG][a].ark" size="18175" crc="98cb6d41" md5="5905cc98c48a5ccc90855da0228b5099" sha1="cd23438c4362d34b64deb8e60db0419df8bb50b2"/>
+	</game>
+</datafile>

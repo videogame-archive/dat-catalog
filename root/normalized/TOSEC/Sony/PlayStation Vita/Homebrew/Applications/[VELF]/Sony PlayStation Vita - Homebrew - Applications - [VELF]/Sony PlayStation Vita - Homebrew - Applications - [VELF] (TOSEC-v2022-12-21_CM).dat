@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation Vita - Homebrew - Applications - [VELF]</name>
+		<description>Sony PlayStation Vita - Homebrew - Applications - [VELF] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="mGBA v0.4.0 (2016-02-03)(endrift)(MPL 2.0)">
+		<description>mGBA v0.4.0 (2016-02-03)(endrift)(MPL 2.0)</description>
+		<rom name="mGBA v0.4.0 (2016-02-03)(endrift)(MPL 2.0).velf" size="1369550" crc="9552455f" md5="a42aa90c7c6ee8f487c5f64f85cbc8ef" sha1="c08c4cafa87c0815c00360dcf10bfb28fc709723"/>
+	</game>
+	<game name="mGBA v0.4.1 (2016-07-12)(endrift)(MPL 2.0)">
+		<description>mGBA v0.4.1 (2016-07-12)(endrift)(MPL 2.0)</description>
+		<rom name="mGBA v0.4.1 (2016-07-12)(endrift)(MPL 2.0).velf" size="1417782" crc="9357cabd" md5="8cff5338ea5e48f7db52850526db05d9" sha1="f6e2753fcc55abd985416f8bbb35f0d3038e922f"/>
+	</game>
+</datafile>

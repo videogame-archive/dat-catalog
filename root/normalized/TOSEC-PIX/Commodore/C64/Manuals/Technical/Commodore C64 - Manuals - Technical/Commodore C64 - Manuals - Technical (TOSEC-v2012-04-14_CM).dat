@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Manuals - Technical</name>
+		<description>Commodore C64 - Manuals - Technical (TOSEC-v2012-04-14)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-14</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="1541 Maintenance Guide (1984)(Peltier Industries)">
+		<description>1541 Maintenance Guide (1984)(Peltier Industries)</description>
+		<rom name="1541 Maintenance Guide (1984)(Peltier Industries).pdf" size="2983556" crc="bebb7574" md5="c0960ce271d36b2a1a38f1e45cc30f4d" sha1="9c7f7860697a36129a99181bc2c11a162d1b7502"/>
+	</game>
+	<game name="C-64 Dead Test Diagnostic Manual (1988-01)(Commodore)">
+		<description>C-64 Dead Test Diagnostic Manual (1988-01)(Commodore)</description>
+		<rom name="C-64 Dead Test Diagnostic Manual (1988-01)(Commodore).pdf" size="1035573" crc="cddac8fd" md5="5e03dd1563efbb10e9c8b621f5b5457f" sha1="e67c11132878209311468b6d83f950df1cf66994"/>
+	</game>
+	<game name="C64-C64C Service Manual (1992-03)(Commodore)">
+		<description>C64-C64C Service Manual (1992-03)(Commodore)</description>
+		<rom name="C64-C64C Service Manual (1992-03)(Commodore).pdf" size="5018408" crc="bc35439d" md5="e2b0e3c373dc3db1bb59adc22f87c01e" sha1="f054d00eb3e5fbea8105549e319f28960a723865"/>
+	</game>
+	<game name="C64GS Tech Data (1990-11)(Commodore)">
+		<description>C64GS Tech Data (1990-11)(Commodore)</description>
+		<rom name="C64GS Tech Data (1990-11)(Commodore).pdf" size="501553" crc="9f8427e4" md5="7143b432e11976ba59c7fa1530a69781" sha1="e61795fb58e4dcec61b3c86568464e4a6b2d363d"/>
+	</game>
+	<game name="Service Manual 1540-1541 Disk Drive (1985-11)(Commodore)[PN-314002-01]">
+		<description>Service Manual 1540-1541 Disk Drive (1985-11)(Commodore)[PN-314002-01]</description>
+		<rom name="Service Manual 1540-1541 Disk Drive (1985-11)(Commodore)[PN-314002-01].pdf" size="793945" crc="b353b865" md5="e43f5095d45c22b9dd23646689a4dff1" sha1="fd2925e42403d28ae499382a85c019f817e5021a"/>
+	</game>
+	<game name="Service Manual Model C64 Computer (1985-02)(Commodore)[PN-314001-02]">
+		<description>Service Manual Model C64 Computer (1985-02)(Commodore)[PN-314001-02]</description>
+		<rom name="Service Manual Model C64 Computer (1985-02)(Commodore)[PN-314001-02].pdf" size="6135987" crc="f50fdbd5" md5="48f0ad367e61d0a28f6af6671ca15d56" sha1="6e810e4220f53ae18e7d90aa82b9fe60f09faa2e"/>
+	</game>
+	<game name="Service Manual Model C64 Computer (1985-03)(Commodore)[PN-314001-02]">
+		<description>Service Manual Model C64 Computer (1985-03)(Commodore)[PN-314001-02]</description>
+		<rom name="Service Manual Model C64 Computer (1985-03)(Commodore)[PN-314001-02].pdf" size="5115610" crc="c988afe3" md5="3ffdc1f5bf0c9d2ed34b354ba4f3cfea" sha1="1cc32a3960636ddf88d7552e583bf380e324ab24"/>
+	</game>
+	<game name="SX-64 Portable Computer Schematics (1985-12)(Commodore)[PN-314001-05]">
+		<description>SX-64 Portable Computer Schematics (1985-12)(Commodore)[PN-314001-05]</description>
+		<rom name="SX-64 Portable Computer Schematics (1985-12)(Commodore)[PN-314001-05].pdf" size="23557487" crc="951725dc" md5="7bbeed355f12d9966c08071ea08fd74a" sha1="65fb9ee8dd149f337668806eb1c708b49f3ecacb"/>
+	</game>
+</datafile>

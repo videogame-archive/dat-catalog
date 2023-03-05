@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Simulation - [BIN]</name>
+		<description>Commodore C64 - Games - Simulation - [BIN] (TOSEC-v2022-02-12)</description>
+		<category>TOSEC</category>
+		<version>2022-02-12</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Space Shuttle - A Journey Into Space (1984)(Activision)">
+		<description>Space Shuttle - A Journey Into Space (1984)(Activision)</description>
+		<rom name="Space Shuttle - A Journey Into Space (1984)(Activision).bin" size="16384" crc="2cff7843" md5="2db4d63080ec58bf623424cca3174292" sha1="7f22aa665721bf8b6bdcc75c9a4871bed7112cc1"/>
+	</game>
+</datafile>

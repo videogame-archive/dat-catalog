@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-FX - Artwork - Games</name>
+		<description>NEC PC-FX - Artwork - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Boundary Gate (1996)(NEC)(JP)[case][FXNHE620]">
+		<description>Boundary Gate (1996)(NEC)(JP)[case][FXNHE620]</description>
+		<rom name="Boundary Gate (1996)(NEC)(JP)[case][FXNHE620].pdf" size="996113" crc="78ee87cc" md5="d7cf3e7a276446999eee58744792ed96" sha1="5c5b31b40fa4208e607a08fd05acae7efdf569dc"/>
+	</game>
+	<game name="Boundary Gate (1996)(NEC)(JP)[disc][FXNHE620]">
+		<description>Boundary Gate (1996)(NEC)(JP)[disc][FXNHE620]</description>
+		<rom name="Boundary Gate (1996)(NEC)(JP)[disc][FXNHE620].pdf" size="247219" crc="88a445b3" md5="46a9837cc56fe443a39e67f3ea639d27" sha1="bcf69ed351a6c245bd231714b30403111290d4e3"/>
+	</game>
+	<game name="Can Can Bunny Extra DX (1996)(Cocktail Soft)(JP)[box][FXNKT601]">
+		<description>Can Can Bunny Extra DX (1996)(Cocktail Soft)(JP)[box][FXNKT601]</description>
+		<rom name="Can Can Bunny Extra DX (1996)(Cocktail Soft)(JP)[box][FXNKT601].pdf" size="860182" crc="b06dc8b7" md5="fe82fa321ad329a066870f63f8ce5ff5" sha1="e71f69c97808c7ec48b8b7ba306aae0e877b02b0"/>
+	</game>
+	<game name="Can Can Bunny Extra DX (1996)(Cocktail Soft)(JP)[disc][FXNKT601]">
+		<description>Can Can Bunny Extra DX (1996)(Cocktail Soft)(JP)[disc][FXNKT601]</description>
+		<rom name="Can Can Bunny Extra DX (1996)(Cocktail Soft)(JP)[disc][FXNKT601].pdf" size="317241" crc="1af705d6" md5="c549712f06c1799f7b4516127689cfe5" sha1="fe6dd6c904a98d2a2d4cfd49541c8fda82658cc7"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric Telestrat - Applications - [DSK]</name>
+		<description>Tangerine Oric Telestrat - Applications - [DSK] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hypercat v3.5b (19xx)(-)(en)">
+		<description>Hypercat v3.5b (19xx)(-)(en)</description>
+		<rom name="Hypercat v3.5b (19xx)(-)(en).dsk" size="537856" crc="5cab03a5" md5="99ef43b4b27a97fb94c9c285e9ffb1a5" sha1="6f5dfb85e48958cbd94868b9eb11271a83ee221b"/>
+	</game>
+	<game name="Hypercat v3.5b (19xx)(-)(fr)">
+		<description>Hypercat v3.5b (19xx)(-)(fr)</description>
+		<rom name="Hypercat v3.5b (19xx)(-)(fr).dsk" size="537856" crc="2e29c699" md5="766b05a2f625d4c654f71caec2a8849b" sha1="a891157b0abab6120087fcecc5460b228d057d96"/>
+	</game>
+	<game name="Oric Animations (19xx)(-)(fr)(PD)">
+		<description>Oric Animations (19xx)(-)(fr)(PD)</description>
+		<rom name="Oric Animations (19xx)(-)(fr)(PD).dsk" size="1024256" crc="1b813bc1" md5="c3a63057a4d195a4b2fa067c1dfef5a0" sha1="36b81a1ec2428bbef8ce77d0916910399278a995"/>
+	</game>
+	<game name="QVC v4.2 (1990)(Chiacchierini, L. - Meister, G.)">
+		<description>QVC v4.2 (1990)(Chiacchierini, L. - Meister, G.)</description>
+		<rom name="QVC v4.2 (1990)(Chiacchierini, L. - Meister, G.).dsk" size="537856" crc="1bb6fe13" md5="45f0972593ea54663c1004091c654082" sha1="975489c4b7de2559dac4e6831a6c9154618f0f20"/>
+	</game>
+	<game name="QVC v4.3 (1993)(Chiacchierini, L. - Meister, G.)">
+		<description>QVC v4.3 (1993)(Chiacchierini, L. - Meister, G.)</description>
+		<rom name="QVC v4.3 (1993)(Chiacchierini, L. - Meister, G.).dsk" size="537856" crc="7b82a52b" md5="386118ad0f19b1163ba09a47c8ae499c" sha1="9ab620a3da955b474fe01ddba032dc68645cd8cc"/>
+	</game>
+</datafile>

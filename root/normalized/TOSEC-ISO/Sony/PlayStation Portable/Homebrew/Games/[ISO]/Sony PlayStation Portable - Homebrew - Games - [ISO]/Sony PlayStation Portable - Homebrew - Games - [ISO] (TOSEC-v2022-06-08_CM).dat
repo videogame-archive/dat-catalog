@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Homebrew - Games - [ISO]</name>
+		<description>Sony PlayStation Portable - Homebrew - Games - [ISO] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="nothing.seriOS (2020-09-25)(Plaguelabs)">
+		<description>nothing.seriOS (2020-09-25)(Plaguelabs)</description>
+		<rom name="nothing.seriOS (2020-09-25)(Plaguelabs).cue" size="128" crc="0959f75a" md5="462a95d6b9aee2535efb92ad6ac464c5" sha1="0d524734d1987cf98411591747e459ef103ed99e"/>
+		<rom name="nothing.seriOS (2020-09-25)(Plaguelabs).iso" size="128188416" crc="60bdc312" md5="1c8187a1b6fbe8407dc7135a52462e16" sha1="65761d1694a174db8b4805a2248459ee282410a2"/>
+	</game>
+</datafile>

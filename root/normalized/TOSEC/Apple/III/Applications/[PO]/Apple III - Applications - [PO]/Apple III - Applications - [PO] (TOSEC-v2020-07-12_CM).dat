@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple III - Applications - [PO]</name>
+		<description>Apple III - Applications - [PO] (TOSEC-v2020-07-12)</description>
+		<category>TOSEC</category>
+		<version>2020-07-12</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple III System Demonstrations v1.1 (1981-02)(Apple)">
+		<description>Apple III System Demonstrations v1.1 (1981-02)(Apple)</description>
+		<rom name="Apple III System Demonstrations v1.1 (1981-02)(Apple).po" size="143360" crc="5c220cfa" md5="386db054b29ec666af8c04033fe4cfd8" sha1="4198e768ea0be357675107a8a9e0fb9657e25568"/>
+	</game>
+	<game name="Apple III Utilities v1.1 (1981)(Apple)(Disk 1 of 2)">
+		<description>Apple III Utilities v1.1 (1981)(Apple)(Disk 1 of 2)</description>
+		<rom name="Apple III Utilities v1.1 (1981)(Apple)(Disk 1 of 2).po" size="143360" crc="754dab94" md5="8c5275dc930b99ed69ad825f0790bdf1" sha1="b517db1c50491b893d274b718c63f66dba98fcd5"/>
+	</game>
+	<game name="Apple III Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data)">
+		<description>Apple III Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data)</description>
+		<rom name="Apple III Utilities v1.1 (1981)(Apple)(Disk 2 of 2)(Data).po" size="143360" crc="9f3e8ad2" md5="a0daf17e8f136a9f3872fb4ac2f61280" sha1="a5d5b29f5e1c3019bd79732edf708df381fee653"/>
+	</game>
+</datafile>

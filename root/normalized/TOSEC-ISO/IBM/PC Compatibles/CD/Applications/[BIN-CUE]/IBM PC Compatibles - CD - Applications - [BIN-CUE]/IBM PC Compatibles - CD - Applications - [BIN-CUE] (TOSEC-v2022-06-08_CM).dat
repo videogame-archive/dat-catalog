@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Applications - [BIN-CUE]</name>
+		<description>IBM PC Compatibles - CD - Applications - [BIN-CUE] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2022-06-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Top of the Pops Mix Factory (1996)(BBC)(GB)">
+		<description>Top of the Pops Mix Factory (1996)(BBC)(GB)</description>
+		<rom name="Top of the Pops Mix Factory (1996)(BBC)(GB).bin" size="603165696" crc="395739d7" md5="357abe3b3c88c3a30bf795f638a54a56" sha1="055e71e1180e3f1d5bc58a535688007c13570918"/>
+		<rom name="Top of the Pops Mix Factory (1996)(BBC)(GB).cue" size="109" crc="a4a60d57" md5="88d080500c0e594c0c4f94c10ec5461d" sha1="5d92e20e72e1857f2ee8483b6358c2850d6ea1bc"/>
+	</game>
+</datafile>

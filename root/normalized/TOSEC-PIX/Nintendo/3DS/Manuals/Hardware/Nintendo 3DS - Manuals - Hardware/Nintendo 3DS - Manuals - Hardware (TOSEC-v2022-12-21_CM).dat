@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 3DS - Manuals - Hardware</name>
+		<description>Nintendo 3DS - Manuals - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo 3DS (2011)(Nintendo)(JP)">
+		<description>Nintendo 3DS (2011)(Nintendo)(JP)</description>
+		<rom name="Nintendo 3DS (2011)(Nintendo)(JP).pdf" size="15336457" crc="9dee833d" md5="81b632e33ec7468dec61e91fe9e1415e" sha1="eee40f381b941236b6314836cc2fd416fa1e9629"/>
+	</game>
+	<game name="Nintendo 3DS (2011)(Nintendo)(JP)[kantan guide]">
+		<description>Nintendo 3DS (2011)(Nintendo)(JP)[kantan guide]</description>
+		<rom name="Nintendo 3DS (2011)(Nintendo)(JP)[kantan guide].pdf" size="1979275" crc="2220da27" md5="92d39f73d4f8e026644f3714768e788d" sha1="47c96671cd6cb8b9a9dcb4d0649012c8ece1c765"/>
+	</game>
+	<game name="Nintendo 3DS (2011)(Nintendo)(JP)[warranty card]">
+		<description>Nintendo 3DS (2011)(Nintendo)(JP)[warranty card]</description>
+		<rom name="Nintendo 3DS (2011)(Nintendo)(JP)[warranty card].pdf" size="177191" crc="8bf4d45f" md5="725ffe4c3c5cd334057b10ee915f0eb5" sha1="48131f86f084921bd107d432c9ef3f70d37ed37a"/>
+	</game>
+	<game name="Nintendo 3DS (2011)(Nintendo)(M3)">
+		<description>Nintendo 3DS (2011)(Nintendo)(M3)</description>
+		<rom name="Nintendo 3DS (2011)(Nintendo)(M3).pdf" size="97508147" crc="5eb6c8d9" md5="1f6e36f5221991e22b53b076ccae0818" sha1="27a679663412497d2c97586d1349160209f59607"/>
+	</game>
+	<game name="Nintendo 3DS LL (2011)(Nintendo)(JP)">
+		<description>Nintendo 3DS LL (2011)(Nintendo)(JP)</description>
+		<rom name="Nintendo 3DS LL (2011)(Nintendo)(JP).pdf" size="7212164" crc="448f88aa" md5="0201b36647f5bff849e6661cb081e5eb" sha1="528a7518b9557664c90d8cc7cb515015f9b625c9"/>
+	</game>
+	<game name="Nintendo 3DS LL (2011)(Nintendo)(JP)[kantan guide]">
+		<description>Nintendo 3DS LL (2011)(Nintendo)(JP)[kantan guide]</description>
+		<rom name="Nintendo 3DS LL (2011)(Nintendo)(JP)[kantan guide].pdf" size="1117456" crc="1716e81f" md5="1b78338d802bc6360aae0a0028035021" sha1="0ca8c00ab8526765dbf45f909a39e97aa254839d"/>
+	</game>
+	<game name="Nintendo 3DS LL (2011)(Nintendo)(JP)[warranty card]">
+		<description>Nintendo 3DS LL (2011)(Nintendo)(JP)[warranty card]</description>
+		<rom name="Nintendo 3DS LL (2011)(Nintendo)(JP)[warranty card].pdf" size="432457" crc="44d834ac" md5="2c874ef3979e3c23474ced028d37ee11" sha1="46a10fbcf7a6cae610356b717e8dc25233be83f2"/>
+	</game>
+	<game name="Nintendo 3DS Operations Manual (2011)(Nintendo)(M3)">
+		<description>Nintendo 3DS Operations Manual (2011)(Nintendo)(M3)</description>
+		<rom name="Nintendo 3DS Operations Manual (2011)(Nintendo)(M3).pdf" size="99113747" crc="db6184da" md5="38bdbd6e4ea0ccb1126f3de4964f9abc" sha1="08053f48e898a8b3d5ab91e0354ce7811e7917a7"/>
+	</game>
+	<game name="Nintendo 3DS WI-FI USB Connector (2011)(Nintendo)(M3)">
+		<description>Nintendo 3DS WI-FI USB Connector (2011)(Nintendo)(M3)</description>
+		<rom name="Nintendo 3DS WI-FI USB Connector (2011)(Nintendo)(M3).pdf" size="1647586" crc="ac329372" md5="a2b24d97310c6fa734171cdd46cde9f8" sha1="360abf03a11fb698521a195d5a50f3f8794521a9"/>
+	</game>
+</datafile>

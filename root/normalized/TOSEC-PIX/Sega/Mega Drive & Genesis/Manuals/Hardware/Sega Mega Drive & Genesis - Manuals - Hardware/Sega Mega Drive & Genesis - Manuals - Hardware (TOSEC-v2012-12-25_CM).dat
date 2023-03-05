@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Manuals - Hardware</name>
+		<description>Sega Mega Drive &amp; Genesis - Manuals - Hardware (TOSEC-v2012-12-25)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-12-25</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Megadrive 32X Instruction Manual (1994)(Sega)">
+		<description>Sega Megadrive 32X Instruction Manual (1994)(Sega)</description>
+		<rom name="Sega Megadrive 32X Instruction Manual (1994)(Sega).pdf" size="2538608" crc="33c42237" md5="526ab31f398285bc2033a710f8a8e8ff" sha1="175d64f898d72562fa6ad441d4fe28f952306a35"/>
+	</game>
+	<game name="Sega Megadrive Instruction Manual (1991)(Sega)">
+		<description>Sega Megadrive Instruction Manual (1991)(Sega)</description>
+		<rom name="Sega Megadrive Instruction Manual (1991)(Sega).pdf" size="1945255" crc="fe3510d9" md5="6e6f36d88e3fa80b9f1a9a6051466625" sha1="0cc691ffe1e77f8c1059f9f1b5a49edb9b1949cc"/>
+	</game>
+	<game name="Genesis Instruction Manual (1991)(Sega)(US)">
+		<description>Genesis Instruction Manual (1991)(Sega)(US)</description>
+		<rom name="Genesis Instruction Manual (1991)(Sega)(US).pdf" size="1666890" crc="47595dbb" md5="6befa7359cdd02c7ed8fb09a32f154e9" sha1="84545e484896c8b3b0f7a81d070ca9a8226a21c7"/>
+	</game>
+	<game name="Genesis Instruction Manual (1993)(Sega)(US)">
+		<description>Genesis Instruction Manual (1993)(Sega)(US)</description>
+		<rom name="Genesis Instruction Manual (1993)(Sega)(US).pdf" size="13237248" crc="ff696fc9" md5="dd20f178567855680984b2ccbbf8298a" sha1="92635bc967d7f7c7797c6d28aac21cbae3653ee9"/>
+	</game>
+	<game name="Mega Drive Master System Converter (1990)(Sega)">
+		<description>Mega Drive Master System Converter (1990)(Sega)</description>
+		<rom name="Mega Drive Master System Converter (1990)(Sega).pdf" size="8928381" crc="f7786d48" md5="ae671fda6b076fb1fb75d6bef5fd4ea0" sha1="251bbf866015c8601342814888ca363b3d1f22a7"/>
+	</game>
+</datafile>

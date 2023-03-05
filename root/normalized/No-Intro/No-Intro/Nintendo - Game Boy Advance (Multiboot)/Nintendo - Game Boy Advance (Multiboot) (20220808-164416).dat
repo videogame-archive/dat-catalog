@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>137</id>
+		<name>Nintendo - Game Boy Advance (Multiboot)</name>
+		<description>Nintendo - Game Boy Advance (Multiboot)</description>
+		<version>20220808-164416</version>
+		<author>Arctic Circle System, C. V. Reynolds, chillerecke, DeriLoko3, Hiccup, hking0036, niemand, norkmetnoil577, omonim2007, relax</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Animal Crossing - Balloon Fight (Japan) (En)" id="0040">
+		<description>Animal Crossing - Balloon Fight (Japan) (En)</description>
+		<rom name="Animal Crossing - Balloon Fight (Japan) (En).gba" size="34952" crc="2f5f2cfa" md5="de5fca896b4330100abeb04bc55c6eb9" sha1="647c9ae66e33ab63bf29b63da4a4e0e32c65c173" sha256="d964c6d93bf2d9ab4a0f5ebc0f3ea7ad3f69da83a54a0eb6bfb045ef0f287a57" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Balloon Fight (USA, Europe)" id="0017">
+		<description>Animal Crossing - Balloon Fight (USA, Europe)</description>
+		<rom name="Animal Crossing - Balloon Fight (USA, Europe).gba" size="34764" crc="aecd98cd" md5="62c26ddf7579b5179b2a67073bc7e4a4" sha1="35a417a1a8443f85013e56b7bff9dce30797307a" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Baseball (USA, Europe)" id="0025">
+		<description>Animal Crossing - Baseball (USA, Europe)</description>
+		<rom name="Animal Crossing - Baseball (USA, Europe).gba" size="35756" crc="b8c154c4" md5="b0c8f4dfe47c3649760748ad5c96a649" sha1="e5cf0bbab5caf0da47dfae8f6943c01ac0f7e34e" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Baseball (Japan) (En)" id="0041">
+		<description>Animal Crossing - Baseball (Japan) (En)</description>
+		<rom name="Animal Crossing - Baseball (Japan) (En).gba" size="35944" crc="beb85708" md5="071f67b9021fff63ecac133c8c5b850b" sha1="a7b4cc200ce02e2a7f54458ae28bfd36fadf01ae" sha256="b928090482a757b80d08be48118aa99e40eeae8fabe2f1cf7d25c5a4ba377368" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Clu Clu Land (Japan) (En)" id="0031">
+		<description>Animal Crossing - Clu Clu Land (Japan) (En)</description>
+		<rom name="Animal Crossing - Clu Clu Land (Japan) (En).gba" size="35160" crc="b2cfd55e" md5="4844ef31d108f6bc780e6799035848f0" sha1="c7f54a6ababcf19a97c48a5f63396c71bb7e0e1a" sha256="f6651d3e99ff365fe9cfa22f1b977b53d79f5f67afffe6106d19bb1928a2caf8" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Clu Clu Land (USA, Europe)" id="0014">
+		<description>Animal Crossing - Clu Clu Land (USA, Europe)</description>
+		<rom name="Animal Crossing - Clu Clu Land (USA, Europe).gba" size="34972" crc="cb7e10af" md5="594b8e60e9406a570c9990e9bbc4340f" sha1="36e11bc92fcbf426bf2f0eef62e884c36ae9d8c8" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong (Japan) (En)" id="0032">
+		<description>Animal Crossing - Donkey Kong (Japan) (En)</description>
+		<rom name="Animal Crossing - Donkey Kong (Japan) (En).gba" size="35096" crc="07eae8cd" md5="cc9266b9cc4c743582ff42fae7ca70a7" sha1="488a28e5ae27e348a9177d3e79e0d0f790c09333" sha256="9f71768c2a54a2ade6c9c721fed761de0f24fbcad2b09de6e858b782546b4df7" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong (USA, Europe)" id="0019">
+		<description>Animal Crossing - Donkey Kong (USA, Europe)</description>
+		<rom name="Animal Crossing - Donkey Kong (USA, Europe).gba" size="34908" crc="4b31dce1" md5="aa6bdfc4fce58b19d1a8a9f2f11042d9" sha1="b6ff00168e929b3f61e95f5464ead21cf0d985db" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong 3 (Japan) (En)" id="0042">
+		<description>Animal Crossing - Donkey Kong 3 (Japan) (En)</description>
+		<rom name="Animal Crossing - Donkey Kong 3 (Japan) (En).gba" size="35640" crc="915d8f9f" md5="b72ba1a4ec58532cbf8ad4253d38b629" sha1="1d608f779fa7403c880121245c2a749667de4d5e" sha256="9943116fe8991773380037cfc0d3c4988ee2eceb911119a04fff563c15b02d70" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong 3 (USA, Europe)" id="0022">
+		<description>Animal Crossing - Donkey Kong 3 (USA, Europe)</description>
+		<rom name="Animal Crossing - Donkey Kong 3 (USA, Europe).gba" size="35452" crc="060ce560" md5="a7b95f64a01e7cc18968b1c501741414" sha1="eb6dd9ce3ea488b8c3eca602369d4d648d0052d2" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong Jr. (Japan) (En)" id="0033">
+		<description>Animal Crossing - Donkey Kong Jr. (Japan) (En)</description>
+		<rom name="Animal Crossing - Donkey Kong Jr. (Japan) (En).gba" size="35832" crc="4074cc86" md5="0408d697135af9dc1fc3fa4ba6a3214f" sha1="e651aa1d48680488cca00ce3716b5d3ab3fc7deb" sha256="e53198864f0becfb6d99980fc723de5bc059e73bbd806cae76b87d36b2c61ff4" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong Jr. (USA, Europe)" id="0020">
+		<description>Animal Crossing - Donkey Kong Jr. (USA, Europe)</description>
+		<rom name="Animal Crossing - Donkey Kong Jr. (USA, Europe).gba" size="35644" crc="66035612" md5="ee8a23328607687b50a6706c7fdfc2e1" sha1="4f24678f518f6a4fe21ab99087b55c941f2412be" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong Jr. Math (Japan) (En)" id="0045">
+		<description>Animal Crossing - Donkey Kong Jr. Math (Japan) (En)</description>
+		<rom name="Animal Crossing - Donkey Kong Jr. Math (Japan) (En).gba" size="35928" crc="f75deba3" md5="ecc537359897b5baa4666bef557e6cba" sha1="c5746316c95d7e6ae9bcc445ea9fc9a21b799dd6" sha256="6e29d94454f1f6d5b39642bb7d0c8a24d80e7ce259f431aaf902a970940159e6" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong Jr. Math (USA, Europe)" id="0021">
+		<description>Animal Crossing - Donkey Kong Jr. Math (USA, Europe)</description>
+		<rom name="Animal Crossing - Donkey Kong Jr. Math (USA, Europe).gba" size="35740" crc="9b531071" md5="1c8dcf20e4ce979cb9962c835c39a5c9" sha1="ce259e96d44ddfb651883a24beb22809f7438533" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Excitebike (USA, Europe)" id="0016">
+		<description>Animal Crossing - Excitebike (USA, Europe)</description>
+		<rom name="Animal Crossing - Excitebike (USA, Europe).gba" size="36444" crc="a0b3e4de" md5="d3d227a1ca88b0629ef333d544686c41" sha1="1e72567aef01cd4463dea209d789c349862c8cd5" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Excitebike (Japan) (En)" id="0034">
+		<description>Animal Crossing - Excitebike (Japan) (En)</description>
+		<rom name="Animal Crossing - Excitebike (Japan) (En).gba" size="36632" crc="724a3929" md5="32906861e6ec9bd38012adf7ce38cc05" sha1="b2625f02b5951db918a428076867e36230f7f471" sha256="7e5f86bcca138db664eb97496bac6b3ee12ea8f7172ac04eae34d082efc2ad0d" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Golf (Japan) (En)" id="0043">
+		<description>Animal Crossing - Golf (Japan) (En)</description>
+		<rom name="Animal Crossing - Golf (Japan) (En).gba" size="35288" crc="ef00f27b" md5="ee576f6e1aa0a75536db8577d408f3af" sha1="c4d96d8f1d232f4922f1838ea94f88f3fe707363" sha256="6bd7706711bc016e7a6d50aa21d9316bc013c38b08bb8e0d808226f955873bf0" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Golf (USA, Europe)" id="0027">
+		<description>Animal Crossing - Golf (USA, Europe)</description>
+		<rom name="Animal Crossing - Golf (USA, Europe).gba" size="35100" crc="c83c01ce" md5="f92aeb4bc274cb08c2eabe9dd3aadcb4" sha1="5df38015ca8f3a6a6e9878e0323a08ab0b12b31b" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Ice Climber (USA, Europe)" id="0018">
+		<description>Animal Crossing - Ice Climber (USA, Europe)</description>
+		<rom name="Animal Crossing - Ice Climber (USA, Europe).gba" size="37036" crc="3bec49df" md5="f7adee0901bb73b6f1c1fbeb36b4ab4c" sha1="844845b5e1ff4f5f1390c7afc781c4bb9b62e699" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Ice Climber (Japan) (En)" id="0044">
+		<description>Animal Crossing - Ice Climber (Japan) (En)</description>
+		<rom name="Animal Crossing - Ice Climber (Japan) (En).gba" size="37224" crc="4f1672e2" md5="c1035a29bd487a979966bc754a2625fa" sha1="7c5058c8839a5e971c6d71401e0c5a5d229f2820" sha256="f779fa780a64a3ddb308862e0e0f79589948f8c34baeb2e10b41fcef605862f0" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Mario Bros. (USA, Europe)" id="0013">
+		<description>Animal Crossing - Mario Bros. (USA, Europe)</description>
+		<rom name="Animal Crossing - Mario Bros. (USA, Europe).gba" size="35420" crc="aed34405" md5="684e46cb0c672e06664ae742825ae89c" sha1="23a8d78b462d4e684763a7db6547b2d951c56934" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Mario Bros. (Japan) (En)" id="0035">
+		<description>Animal Crossing - Mario Bros. (Japan) (En)</description>
+		<rom name="Animal Crossing - Mario Bros. (Japan) (En).gba" size="35608" crc="d9e669b3" md5="64cafdb27a9f44f474dfb054e041e8f8" sha1="9e485f298de5171bb6d4a66142b020f6d10054f8" sha256="78f2cb882952b9b81ea5c69aea9d5a30aab93929cd681226012354d1471e4fca" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Pinball (Japan) (En)" id="0036">
+		<description>Animal Crossing - Pinball (Japan) (En)</description>
+		<rom name="Animal Crossing - Pinball (Japan) (En).gba" size="34840" crc="f676010c" md5="f91139c0025d4a5f1bf17e3cc4e61126" sha1="adf83076bfab59849b49896487bf296d1c6f125e" sha256="a8aea908be3e28bde460fabb0317571d63a3a1ef88dd92777baa7dd04ac5fe11" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Pinball (USA, Europe)" id="0024">
+		<description>Animal Crossing - Pinball (USA, Europe)</description>
+		<rom name="Animal Crossing - Pinball (USA, Europe).gba" size="34652" crc="ba79f589" md5="c1c6eb0d42591c46f2e4dc68145e4c81" sha1="67b78383bf9633f30b2ee99251f9aac924832c75" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Soccer (USA, Europe)" id="0015">
+		<description>Animal Crossing - Soccer (USA, Europe)</description>
+		<rom name="Animal Crossing - Soccer (USA, Europe).gba" size="47708" crc="090f168f" md5="a81a5d9b9268da64ea8426bdc6a987ba" sha1="9cb498c0951901fe8523e62a98a530d72a25534e" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Soccer (Japan) (En)" id="0038">
+		<description>Animal Crossing - Soccer (Japan) (En)</description>
+		<rom name="Animal Crossing - Soccer (Japan) (En).gba" size="47896" crc="e007ffb3" md5="749a6230bcf845cd953ee90084c57040" sha1="4535bbf7015235ddadab00c3f0f5c685493cbbea" sha256="70ab8cf1012b1f4dfdb10b7f4e3ee51b925e900d588307e41f1314de2016c885" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Super Mario Bros. (Japan) (En)" id="0037">
+		<description>Animal Crossing - Super Mario Bros. (Japan) (En)</description>
+		<rom name="Animal Crossing - Super Mario Bros. (Japan) (En).gba" size="52584" crc="eede3f63" md5="94b3fc5139d882f457be46d09b6edcc4" sha1="3f7193ac0a2113785953a6798deac7f315768ab0" sha256="0989fef3b3cff3d76993760279073e6c287d949bdb5f97bed114f293868cd853" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Super Mario Bros. (USA, Europe)" id="0026">
+		<description>Animal Crossing - Super Mario Bros. (USA, Europe)</description>
+		<rom name="Animal Crossing - Super Mario Bros. (USA, Europe).gba" size="52396" crc="34970570" md5="34217e69f45e52d1550a8b241ce27404" sha1="b9b254174b1a7a7bc01a3b72070f7ece6f343037" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Tennis (Japan) (En)" id="0039">
+		<description>Animal Crossing - Tennis (Japan) (En)</description>
+		<rom name="Animal Crossing - Tennis (Japan) (En).gba" size="35672" crc="384a5e41" md5="3f70d591ad5746f5ef7ecfc970a52eba" sha1="925a993c41b6d28b6aec896f387f08b85b352ac6" sha256="85a3541cfc8c895f714de17a252a02d10f85c6fc799fd0c457cd42b0af802441" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Animal Crossing - Tennis (USA, Europe)" id="0023" cloneofid="0039">
+		<description>Animal Crossing - Tennis (USA, Europe)</description>
+		<rom name="Animal Crossing - Tennis (USA, Europe).gba" size="35452" crc="2b2a361d" md5="146bdf7f70335a2ad67b59ef9e07bfaf" sha1="8de62672330db8b8e24c4e8b712d03369a4cb5fc" status="verified" serial="AGBJ"/>
+	</game>
+	<game name="Billy Hatcher Hyper Shoot (World)" id="0006">
+		<description>Billy Hatcher Hyper Shoot (World)</description>
+		<game_id>AGBJ8P</game_id>
+		<rom name="Billy Hatcher Hyper Shoot (World).gba" size="234976" crc="cf2f2080" md5="ce85da4cb13f8015246bbc54807fa04d" sha1="68ccb226f6867b6729ecf6ddb14465febc2fff4b" sha256="4024f650a8671dd9eef3301d4da4c53cf9cb54ed5b8db5f0dc665d99dc3c5055" serial="AGBJ8P"/>
+	</game>
+	<game name="Billy Hatcher Hyper Shoot - Easy (World)" id="0007">
+		<description>Billy Hatcher Hyper Shoot - Easy (World)</description>
+		<game_id>AGBJ8P</game_id>
+		<rom name="Billy Hatcher Hyper Shoot - Easy (World).gba" size="234976" crc="7badb6a1" md5="3f2f578efe4a643220023db913dbd084" sha1="d86f2527a26f4a431ff9a7ee87efbd7487dd814c" sha256="c5d33fd03d276c015f3a20674b8f87ad379a8dce446a4884d1ca047c82703424" serial="AGBJ8P"/>
+	</game>
+	<game name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es)" id="0008">
+		<description>Chao no Puchigaden (World) (En,Ja,Fr,De,Es)</description>
+		<game_id>GSBJ8P</game_id>
+		<rom name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es).gba" size="218108" crc="dfe887a9" md5="994e827673b6daab9838153e4436f8e8" sha1="606159aec12e8feda1e3dbbbf8c754484a67199c" sha256="d2ebff2043eb9a5b0e00b6efadc0d7ce97680fa55be884304d4805cc9d42c101" serial="GSBJ8P"/>
+	</game>
+	<game name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Phantasy Star Online Episode I &amp; II)" id="0009">
+		<description>Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Phantasy Star Online Episode I &amp; II)</description>
+		<game_id>GSBJ8P</game_id>
+		<rom name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Phantasy Star Online Episode I &amp; II).gba" size="182840" crc="c523504f" md5="2fc01f93093666ebc8f88a26c5b2786e" sha1="55c9812e2164a618575c6dcd669fd993b60585f5" sha256="c54d6a37b5773681ee3681b97358995fc4ab75606c061068adb4f05de7d9a2ca" serial="GSBJ8P"/>
+	</game>
+	<game name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Sonic Adventure DX - Director's Cut)" id="0010">
+		<description>Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Sonic Adventure DX - Director's Cut)</description>
+		<game_id>GSBJ8P</game_id>
+		<rom name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Sonic Adventure DX - Director's Cut).gba" size="217032" crc="28a6baea" md5="2fd1658783cd1c6bf5e1b19a1462a42a" sha1="97ffbc9a4b0216af2983ce2e8d78b5693f47e673" sha256="a345bb567e73228743ef44c55b124de808cd77c0f566b46eea96de0b7caf831d" serial="GSBJ8P"/>
+	</game>
+	<game name="ChuChu Rocket! Challenge (World)" id="0002" cloneofid="0001">
+		<description>ChuChu Rocket! Challenge (World)</description>
+		<game_id>ACRJ8P</game_id>
+		<rom name="ChuChu Rocket! Challenge (World).gba" size="226208" crc="ba0b2e06" md5="ab046b65776ae4696d1376f02353f4b4" sha1="f52b11aac9fd88f456014245a9c486655b41175c" sha256="d31c401e8633e3885fd0c980c2397259abaabe381e6258cd99ace4abbf171a15" serial="ACRJ8P"/>
+	</game>
+	<game name="ChuChu Rocket! Challenge (World) (Ja) [b]" id="0001">
+		<description>ChuChu Rocket! Challenge (World) (Ja) [b]</description>
+		<game_id>ACRJ8P</game_id>
+		<rom name="ChuChu Rocket! Challenge (World) (Ja) [b].gba" size="231364" crc="2105a425" md5="aecb1a14e203cfdf456c02b434503804" sha1="14b251d19b71b385bb6306861b5344ce0022d85a" sha256="a974f2f296e54db7056801955c18cb8ad88c3083d46825869621f0ac32e3ce1c" status="baddump" serial="ACRJ"/>
+	</game>
+	<game name="ChuChu Rocket! Puzzle (World) (Ja)" id="0011">
+		<description>ChuChu Rocket! Puzzle (World) (Ja)</description>
+		<game_id>ACRJ8P</game_id>
+		<rom name="ChuChu Rocket! Puzzle (World) (Ja).gba" size="202868" crc="5df4952c" md5="76be9081aae561c5fd4caff73fd1b00c" sha1="ac0ce701a4268e9e02f25fa4b681fdc0c03c5111" sha256="cca22cf12d095424fa3e7cf9a1acfc22c570099ad95372ed4fb73114897913e0" serial="ACRJ8P"/>
+	</game>
+	<game name="Dr. Mario (USA) (Kiosk, GameCube)" id="0048">
+		<description>Dr. Mario (USA) (Kiosk, GameCube)</description>
+		<rom name="Dr. Mario (USA) (Kiosk, GameCube).gba" size="49404" crc="5e81043e" md5="c36a37f4dab0cde8e666dcafe54892e3" sha1="0eb2c5b584d072f7cd1d837ceb2b1222fcec441b" serial="AGBJ"/>
+	</game>
+	<game name="Joy Boot Sample (Japan) (En) (Animal Crossing)" id="0054">
+		<description>Joy Boot Sample (Japan) (En) (Animal Crossing)</description>
+		<rom name="Joy Boot Sample (Japan) (En) (Animal Crossing).gba" size="4944" crc="7a0441ae" md5="78668018524c984054db4d4f29a88dcd" sha1="0a4ebdf897c4180d4c0abe7b0c397a4a169a922b" sha256="ffeab705f325ab1c6fbcf5f182ab429b21a9305bf669e7cc5697ded82d25cecd" serial="AGBJ"/>
+	</game>
+	<game name="Made in Wario (Japan) (Trial)" id="0051" cloneofid="0012">
+		<description>Made in Wario (Japan) (Trial)</description>
+		<rom name="Made in Wario (Japan) (Trial).gba" size="248108" crc="57da69a6" md5="7a856c8add82abb0e70e33d5d67411de" sha1="e3e66739303aae3abab7dbd54f5645e7d484a5f6" sha256="720cfdfcee0bdb09928b863fb68db715b3fbb5acb6f8f5b6744323ff47f7137e" status="verified" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Mini Vol. 1 (World) (Ja)" id="0093" cloneofid="0052">
+		<description>Made in Wario - Mini Vol. 1 (World) (Ja)</description>
+		<rom name="Made in Wario - Mini Vol. 1 (World) (Ja).gba" size="245792" crc="fb977ad7" md5="938a93e9d1fc94c118bd06e4bf20cd0c" sha1="df7cb720966f8fb8617cf9785e5f11a7131a80bc" sha256="bcd30852f0721d2f3d6c0ea986b77b1736c12cd503c849f8e8ef5c6064b77141" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Mini Vol. 2 (World) (Ja)" id="0094" cloneofid="0055">
+		<description>Made in Wario - Mini Vol. 2 (World) (Ja)</description>
+		<rom name="Made in Wario - Mini Vol. 2 (World) (Ja).gba" size="249760" crc="5a899092" md5="863e8c56f6adea21bb153b1e85dc6797" sha1="a6c63003026d9b2b1c9b504a889ef86b660030b4" sha256="43fbe0b9ad462c2d5607dc669e7f6086f4c6c8e7888128eea74fc41ad97aaf98" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Mini Vol. 3 (World) (Ja)" id="0095" cloneofid="0056">
+		<description>Made in Wario - Mini Vol. 3 (World) (Ja)</description>
+		<rom name="Made in Wario - Mini Vol. 3 (World) (Ja).gba" size="234368" crc="1480cc7e" md5="86832f947c3cf7349c1ca1ac97f0c49f" sha1="1da340ce43f0f3873757473761a874ecbff8ba24" sha256="267faec38af533f799411463b3381ff29e06b941cb05e79712598f46fa27517f" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Mini Vol. 4 (World) (Ja)" id="0096" cloneofid="0053">
+		<description>Made in Wario - Mini Vol. 4 (World) (Ja)</description>
+		<rom name="Made in Wario - Mini Vol. 4 (World) (Ja).gba" size="237376" crc="1fd2bda3" md5="b901daaa96b776b5ab47a82fd8d8979e" sha1="538c6385d9b03157ef003ec8a73abdcd1e240882" sha256="1afcfb54e33d49706e2c9ecc05cebbb1d900c7adf4a3ca7a7775df56c8afd1e0" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Special Selection 1 (World) (Ja)" id="0097" cloneofid="0057">
+		<description>Made in Wario - Special Selection 1 (World) (Ja)</description>
+		<rom name="Made in Wario - Special Selection 1 (World) (Ja).gba" size="201088" crc="584185f2" md5="8a2706ca1cc789fe36807d39d3763d55" sha1="c71b2a33d8fcde80ad617b89c63a97ea23f7da88" sha256="ac1c53d07fd115259f99ced3025c448e038f8c52499fefc206d0ba71148de87b" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Special Selection 2 (World) (Ja)" id="0098" cloneofid="0058">
+		<description>Made in Wario - Special Selection 2 (World) (Ja)</description>
+		<rom name="Made in Wario - Special Selection 2 (World) (Ja).gba" size="198880" crc="3bea961a" md5="78d3e00a91aa258cc5f5a8ce61d4a83c" sha1="f90f9309783f10775bf9944a7f206ac6c156a825" sha256="b971df2cc7e978afa83e1e11899dc3493ce68dd07cf1b57b8dfb25bf3b068d5b" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Special Selection 3 (World) (Ja)" id="0099" cloneofid="0059">
+		<description>Made in Wario - Special Selection 3 (World) (Ja)</description>
+		<rom name="Made in Wario - Special Selection 3 (World) (Ja).gba" size="199840" crc="1c8c1a6a" md5="f81f3420d3c7e70aff739d3425c124c3" sha1="85183b0feea620e0bc4a3ea58befc0573193827d" sha256="2e3de7982e4634311fa497706019f5d8ba77c9c0dedcd0955f4178af58098382" serial="AZWJ"/>
+	</game>
+	<game name="Made in Wario - Special Selection 4 (World) (Ja)" id="0100" cloneofid="0060">
+		<description>Made in Wario - Special Selection 4 (World) (Ja)</description>
+		<rom name="Made in Wario - Special Selection 4 (World) (Ja).gba" size="198016" crc="d90f2aa2" md5="1377bd07dbcc777770f7a624eda67364" sha1="6fb11b3b01b7a3acba69bb8dc87bd1acd1c42258" sha256="f4090877feafccb9d1febe08d42fa10631e0425c18ecf250017982e4b18ed5d7" serial="AZWJ"/>
+	</game>
+	<game name="Minna de Puyo Puyo - Toko Puyo Genteiban (World) (Ja)" id="0004">
+		<description>Minna de Puyo Puyo - Toko Puyo Genteiban (World) (Ja)</description>
+		<game_id>AGBJ8P</game_id>
+		<rom name="Minna de Puyo Puyo - Toko Puyo Genteiban (World) (Ja).gba" size="228984" crc="14965573" md5="13f57e428c160262e73401f12c24b204" sha1="d69cba10e14ffc8ab7401c42bcf0661ef0e2cbe3" sha256="e2bba148c8989b5e324eb43e0ba5056bdac50575eb3cb62d3b84e61e87b6e772" status="verified" serial="AGBJ8P"/>
+	</game>
+	<game name="NiGHTS into Dreams - Score Attack (World)" id="0003">
+		<description>NiGHTS into Dreams - Score Attack (World)</description>
+		<game_id>AGBT8P</game_id>
+		<rom name="NiGHTS into Dreams - Score Attack (World).gba" size="255552" crc="7bba269b" md5="e4d4a68c43e58e1b583f89a416e16f48" sha1="3dfa93104696a4c75fb4f337e86d2dd9a9404357" sha256="6f06525a81881dcedb45c9100a280415a01b8a3105f213cb926e3dffcfb450c5" status="verified" serial="AGBT8P"/>
+	</game>
+	<game name="Nintendo Puzzle Collection - Dr. Mario (Japan) (En)" id="0028">
+		<description>Nintendo Puzzle Collection - Dr. Mario (Japan) (En)</description>
+		<rom name="Nintendo Puzzle Collection - Dr. Mario (Japan) (En).gba" size="50092" crc="9e54f585" md5="30beee2eccdc1278726c374d2984f596" sha1="349fa0a7b32f57210c9087d942af7689dfc27629" serial="AGBJ"/>
+	</game>
+	<game name="Nintendo Puzzle Collection - Panel de Pon (Japan)" id="0047">
+		<description>Nintendo Puzzle Collection - Panel de Pon (Japan)</description>
+		<rom name="Nintendo Puzzle Collection - Panel de Pon (Japan).gba" size="210304" crc="53a701e8" md5="e4772f1ea518f621d67917d93eac694b" sha1="1d96a64481007389ce46314e8b30a101f81dbfb8" serial="AGBJ"/>
+	</game>
+	<game name="Nintendo Puzzle Collection - Yoshi no Cookie (Japan)" id="0029">
+		<description>Nintendo Puzzle Collection - Yoshi no Cookie (Japan)</description>
+		<rom name="Nintendo Puzzle Collection - Yoshi no Cookie (Japan).gba" size="100144" crc="7662d781" md5="f5fc4246e0019064c3a625b58a057479" sha1="74651fff0bfe50a51a70e5902a7caa0dcae804e7" serial="AGBJ"/>
+	</game>
+	<game name="Puyo Pop - Endless Version (World)" id="0005" cloneofid="0004">
+		<description>Puyo Pop - Endless Version (World)</description>
+		<game_id>AGBJ8P</game_id>
+		<rom name="Puyo Pop - Endless Version (World).gba" size="226584" crc="7fb14fe3" md5="15452792617c0de7201719ebc43bd424" sha1="82988783cd5aa06003d6b6369e19fcfbf0c0a02f" sha256="a6d539a45d50ff91788dc4991e3cac28353ce75edd897c850534b69c241aaea9" serial="AGBJ8P"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini-Jeux Vol. 1 (World) (Fr)" id="0061" cloneofid="0052">
+		<description>WarioWare, Inc. - Mini-Jeux Vol. 1 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Mini-Jeux Vol. 1 (World) (Fr).gba" size="242816" crc="cf8a2145" md5="8eea91a2fd16f6d50908f400cd49e79f" sha1="1d7791d2428700803f2db0fe057227c7440c25a9" sha256="a62a71f10ddb249ce44e000cc4ff3db8e722616427a02af80ba00cb026e0f199" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini-Jeux Vol. 2 (World) (Fr)" id="0062" cloneofid="0055">
+		<description>WarioWare, Inc. - Mini-Jeux Vol. 2 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Mini-Jeux Vol. 2 (World) (Fr).gba" size="245120" crc="d12fb992" md5="7c6b7c46971c7a08b8a14f58270ada5d" sha1="e583b0f2094a46efeedfd39ce4b74cbf45e404e4" sha256="e5a96418e367ba2dc6e7e572654832f9a4c6c7ac35d01107d2fb6edfc75ea843" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini-Jeux Vol. 3 (World) (Fr)" id="0063" cloneofid="0056">
+		<description>WarioWare, Inc. - Mini-Jeux Vol. 3 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Mini-Jeux Vol. 3 (World) (Fr).gba" size="228992" crc="3de8df4b" md5="ae6076fcb4200423b5f856e8432e503e" sha1="89cfc738c7a2266c25a83af001f4cbb99f0fd567" sha256="8a6f7c705113fc272c6b2b158e3e6156472ff451d4733c68afb39225b38bbfc1" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini-Jeux Vol. 4 (World) (Fr)" id="0064" cloneofid="0053">
+		<description>WarioWare, Inc. - Mini-Jeux Vol. 4 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Mini-Jeux Vol. 4 (World) (Fr).gba" size="231776" crc="fe595a10" md5="ff49c79fee19ad9a08ddfca3e66b5f8b" sha1="31fd17cea12b9b90c1697b32c9c305d7f259879e" sha256="7ef8dfa341d049890907701fd7bd710d5cd50ed0f1e973acfa3bf6efcc8ce012" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini, Teil 1 (World) (De)" id="0069" cloneofid="0052">
+		<description>WarioWare, Inc. - Mini, Teil 1 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Mini, Teil 1 (World) (De).gba" size="242560" crc="bb80b39b" md5="a5f11f5d804f5353b371759809c4544e" sha1="1be26083b373dfaff3647a29170821a21b40012f" sha256="cf04f3d4e5b5ffc6c6c0a89ef43a776a4780c83c262640590f2e56491a8965c8" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini, Teil 2 (World) (De)" id="0070" cloneofid="0055">
+		<description>WarioWare, Inc. - Mini, Teil 2 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Mini, Teil 2 (World) (De).gba" size="245152" crc="d195eb44" md5="4ca95f667cb6156d37ca1342d81bcf52" sha1="d59c950a90179d46a53519b0baf1bdbdba208a15" sha256="b7f6c6e7a3093df5959d6fa4a210af0d45d0243383adc9720b61314276fca53e" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini, Teil 3 (World) (De)" id="0071" cloneofid="0056">
+		<description>WarioWare, Inc. - Mini, Teil 3 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Mini, Teil 3 (World) (De).gba" size="228832" crc="6b06a74a" md5="786f9909641090bd2dd2f6adbdb74580" sha1="e049f14eabbacdef8a607983d4e6a1552bcf6b03" sha256="6248480df89b593015a7d277d61f57bd14ca0be2151e529d7ae1be723bb97d04" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Mini, Teil 4 (World) (De)" id="0072" cloneofid="0053">
+		<description>WarioWare, Inc. - Mini, Teil 4 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Mini, Teil 4 (World) (De).gba" size="231840" crc="a9543cc2" md5="cec041322dedaecbadfe3cd011edd56d" sha1="b285fa421ff2ff8eddd900c205907fd51b0da059" sha256="fc364989c2fbdc699e1f74a1b3788e929a1aa7f6a749cd5649e008db820a4e45" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minigioco 1 (World) (It)" id="0077" cloneofid="0052">
+		<description>WarioWare, Inc. - Minigioco 1 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Minigioco 1 (World) (It).gba" size="241888" crc="ee9d5b77" md5="550b9428f349e31bc1fd2fa327cf1e4c" sha1="7a110471d1881fa1bcf7da5d70ff3f4637f1a992" sha256="20f8aef95540336298b05f78859c41a803289960894e57b1191897aebe5476c2" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minigioco 2 (World) (It)" id="0078" cloneofid="0055">
+		<description>WarioWare, Inc. - Minigioco 2 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Minigioco 2 (World) (It).gba" size="244256" crc="b9206f7b" md5="945e72d8350b6ee372b4fe6d85907f6c" sha1="3f81d1902cb842bcdf3314b95e505c94ea550a1b" sha256="3c615a73e1209c0e5f084da36d813a551dcee98cbf9872cbe6011935a4289fdf" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minigioco 3 (World) (It)" id="0079" cloneofid="0056">
+		<description>WarioWare, Inc. - Minigioco 3 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Minigioco 3 (World) (It).gba" size="228224" crc="f40a82ec" md5="54027fdba7c0a777d084612cc50a446a" sha1="183cf2dbef60d8cdb005a0a95b499575b1906c82" sha256="27c3a2adb00a8f560f52c00e1a789985f7bb781ccf2602aed3df0a2654759307" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minigioco 4 (World) (It)" id="0080" cloneofid="0053">
+		<description>WarioWare, Inc. - Minigioco 4 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Minigioco 4 (World) (It).gba" size="231136" crc="7ce97e22" md5="0fab6854800a78bbb429bee9e6afbade" sha1="717f7f4bcb99665b45556540125300561774f395" sha256="0cbc7942f9b7b8c424d94a3b4093910257e6135b42746546edf9e5601e3c7615" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minijuegos Vol. 1 (World) (Es)" id="0085" cloneofid="0052">
+		<description>WarioWare, Inc. - Minijuegos Vol. 1 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Minijuegos Vol. 1 (World) (Es).gba" size="242496" crc="0a7a1206" md5="b0fe325acd36cf85bb30c9f625265d6e" sha1="ba56551d535c5abb6506d209294131fb989e4afa" sha256="25757cb94293bfdb1ada6d2c911813e3759966442978bfe7bc721a5689eb0f31" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minijuegos Vol. 2 (World) (Es)" id="0086" cloneofid="0055">
+		<description>WarioWare, Inc. - Minijuegos Vol. 2 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Minijuegos Vol. 2 (World) (Es).gba" size="244864" crc="dd7be2fa" md5="1aa84120892bc2b241be7b591158214f" sha1="806f6c650754f531019d4010ccd5c95db9c37fe4" sha256="d707b77de6b410c56b88102fe00ab3659b2dd93e108847883038dc611d12f93a" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minijuegos Vol. 3 (World) (Es)" id="0087" cloneofid="0056">
+		<description>WarioWare, Inc. - Minijuegos Vol. 3 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Minijuegos Vol. 3 (World) (Es).gba" size="229088" crc="f2d913c2" md5="fbc9009532cf342d3d6d5543064aa15c" sha1="c87a44af086994442422d17b557e1edb2eeec33d" sha256="d1b3db08efec648182abdcc01a8b0e538e32b3a4adb2c0c451786720d4482c1b" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Minijuegos Vol. 4 (World) (Es)" id="0088" cloneofid="0053">
+		<description>WarioWare, Inc. - Minijuegos Vol. 4 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Minijuegos Vol. 4 (World) (Es).gba" size="231744" crc="31d1b68b" md5="02a703bceebe083404b5057b1bf136b4" sha1="1826e185cefc9b6c812c85ce7d6684ddde0207a6" sha256="8c7477efed665bc5def4f346c2c1c4c6b447f2caa8ceede718bad4d07e69c7f8" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Seleccion 1 (World) (Es)" id="0089" cloneofid="0057">
+		<description>WarioWare, Inc. - Seleccion 1 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Seleccion 1 (World) (Es).gba" size="197696" crc="4670967f" md5="618d71137dfa1b8f8121fbaca172e032" sha1="c9c050f4b6c2d5c8662b1399cd947de2933e0b3d" sha256="210e9411dc31a94b6e504bbf6760291bf79c8dfb2263d9a17e5218f1c23736fd" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Seleccion 2 (World) (Es)" id="0090" cloneofid="0058">
+		<description>WarioWare, Inc. - Seleccion 2 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Seleccion 2 (World) (Es).gba" size="195808" crc="c97a5679" md5="2cfcc779c2b1d720be81d57b7711a810" sha1="9f7620389c57ac25b9bad573ff87d52b359db8df" sha256="23fe24e651af44f2cf1fc2feb85b2eeaa8c87a2676ad936a6ca8092305688b64" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Seleccion 3 (World) (Es)" id="0091" cloneofid="0059">
+		<description>WarioWare, Inc. - Seleccion 3 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Seleccion 3 (World) (Es).gba" size="196544" crc="da647b22" md5="a2a8d37de27ba1f214c468a4f0ebb65e" sha1="644597dbe4f3652d66c7d561171c887a0a2289ad" sha256="7fdf7f71417d93927f08f792a457a047f8c56df10dc893be7ededda4563a53de" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Seleccion 4 (World) (Es)" id="0092" cloneofid="0060">
+		<description>WarioWare, Inc. - Seleccion 4 (World) (Es)</description>
+		<rom name="WarioWare, Inc. - Seleccion 4 (World) (Es).gba" size="194336" crc="8fe4e6ed" md5="995b0e5339d4a8228d37fea387e0c5ff" sha1="58daf58c808f5b4a4f92128603c056002252c3dc" sha256="3b8195a624995b8c4b3bfafaf6eaaf40f7f5864970a0a2dcd03563460264aaf8" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selected 1 (World)" id="0057">
+		<description>WarioWare, Inc. - Selected 1 (World)</description>
+		<rom name="WarioWare, Inc. - Selected 1 (World).gba" size="200640" crc="656cb9af" md5="d41782742ad92bd0fdc4842424795988" sha1="81aada4d3e7a2704c330a6ac4fd8c6685bbba341" sha256="f9c97c74851575e4fdd43f8212b0dec930b9cfd9d65190c743317cf3e252298e" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selected 2 (World)" id="0058">
+		<description>WarioWare, Inc. - Selected 2 (World)</description>
+		<rom name="WarioWare, Inc. - Selected 2 (World).gba" size="198528" crc="caf3b44e" md5="761ad3e3ad23ffb9fb672d5c9dd26ee7" sha1="12f5aaa784f451eb0d5c19952c9adaef20995cf3" sha256="9b3b62638fd34cd8564ecfb6a804efba27704126ed8f117c5a6893cad94594be" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selected 3 (World)" id="0059">
+		<description>WarioWare, Inc. - Selected 3 (World)</description>
+		<rom name="WarioWare, Inc. - Selected 3 (World).gba" size="199392" crc="00abcace" md5="e48145cb70fecb31bfecb1921687ca2d" sha1="f0f8b2f4e90d76adaf9e3f9e71a6c9fd7793cec8" sha256="6218814e8b34f461d291f3e18c48ba68d2936f7778fe4c092bd5816fbbb2fdbd" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selected 4 (World)" id="0060">
+		<description>WarioWare, Inc. - Selected 4 (World)</description>
+		<rom name="WarioWare, Inc. - Selected 4 (World).gba" size="197344" crc="f358f0b9" md5="91984dba97b9c8172f302ddd8ab97c09" sha1="cc19ba8883c478a6a841b1be6ab4eda864015a04" sha256="011d51cffeff4cc41c251e6d1c5fc869e06d6c2ed5310e0411c287dc22c28b84" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selection 1 (World) (Fr)" id="0065" cloneofid="0057">
+		<description>WarioWare, Inc. - Selection 1 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Selection 1 (World) (Fr).gba" size="198176" crc="734e4bdb" md5="dff4a4edf3f1aed02f2fd40743415845" sha1="2fab9403d1b0d5d255df9f45afcac38c3bb3804b" sha256="0d4bb30f59789b0d73a96e9f8ba4e26add7f3c7581514816990f7fa5637cfc35" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selection 2 (World) (Fr)" id="0066" cloneofid="0058">
+		<description>WarioWare, Inc. - Selection 2 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Selection 2 (World) (Fr).gba" size="196352" crc="ad7ac42b" md5="dfd4012a94707e74d606514dc89f099b" sha1="5281b6e40304da089d75be09ae246acf85d3fbad" sha256="5796feb8ccca7cb2f769870adbca94813ef5d40a3c29d1304de34414d5365ab7" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selection 3 (World) (Fr)" id="0067" cloneofid="0059">
+		<description>WarioWare, Inc. - Selection 3 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Selection 3 (World) (Fr).gba" size="196992" crc="5a15fe12" md5="6d7e9d08b41e9da17db851f01b912809" sha1="29058f7abe45a16ce89c9c689f3d9ea45e39a0ae" sha256="394c2cd387be490cd0604c6105233a37921f34184b33e28acb893e18697870ca" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selection 4 (World) (Fr)" id="0068" cloneofid="0060">
+		<description>WarioWare, Inc. - Selection 4 (World) (Fr)</description>
+		<rom name="WarioWare, Inc. - Selection 4 (World) (Fr).gba" size="194880" crc="430a8493" md5="fad7fdc7bdd7ab98a1162e05c23dac20" sha1="649ae936d646338e7bb6e7ef1c7837bc8b27006f" sha256="871c377952f8f7b69212d7b2fc8e8468ee1ba58bf54b38dde9a2158b927b00ed" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selezion 1 (World) (It)" id="0081" cloneofid="0057">
+		<description>WarioWare, Inc. - Selezion 1 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Selezion 1 (World) (It).gba" size="197312" crc="c022635b" md5="36d935e06d4a3ab94ecc8aab3665e9df" sha1="8e08e1d1f154a12f3e3095b118cb24139a735887" sha256="46a9220d4e949ced47088b9b24976a0ecd56e72152ac439f1c851d884cc08ff5" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selezion 2 (World) (It)" id="0082" cloneofid="0058">
+		<description>WarioWare, Inc. - Selezion 2 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Selezion 2 (World) (It).gba" size="195456" crc="c38f2397" md5="cd44d75b5d48e19f68f59af47665551a" sha1="50e49551319b6951a6f8e8e76869d7286ab88e81" sha256="94d2880009739433f446739401c1943dce2294c16284bb12aa6d4df5b53d28c3" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selezion 3 (World) (It)" id="0083" cloneofid="0059">
+		<description>WarioWare, Inc. - Selezion 3 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Selezion 3 (World) (It).gba" size="196096" crc="7aeaa3b3" md5="be50e683a0c05756416e4ee5698b75a5" sha1="ea75b63b08679b433e3460eb9c6533cbfefb1ec1" sha256="8615d88d1d656935cb3d79d4afb5b944102abf1d68f16a4647c63cb714a5d37d" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Selezion 4 (World) (It)" id="0084" cloneofid="0060">
+		<description>WarioWare, Inc. - Selezion 4 (World) (It)</description>
+		<rom name="WarioWare, Inc. - Selezion 4 (World) (It).gba" size="194048" crc="8ea2f5af" md5="f8eb9dc40ca95095ca6977158aeb7d84" sha1="8a3c0345bb6698f2f4502bba567efe990c53674e" sha256="c69b60a9c3af339d8e7c28eb3674d0c065f7b3ce02c0cf8f3c90680bdf284292" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Spezialauswahl 1 (World) (De)" id="0073" cloneofid="0057">
+		<description>WarioWare, Inc. - Spezialauswahl 1 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Spezialauswahl 1 (World) (De).gba" size="197856" crc="fc3a9960" md5="a18dc97b2a057ce2ec72a1c0232cbb6a" sha1="fbb870d4a276c9d693e27fd238caf5d3cb8d8948" sha256="a892eeef8bdb6b47106513935d5e2ff00459f46d5ad2e4c0abd756ddc34b7570" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Spezialauswahl 2 (World) (De)" id="0074" cloneofid="0058">
+		<description>WarioWare, Inc. - Spezialauswahl 2 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Spezialauswahl 2 (World) (De).gba" size="195904" crc="414709a5" md5="5209a2cb0604b354230525588184a867" sha1="a1dcd58a0281545dc7e032be75dc8cc731ea0899" sha256="c610c66f88a45ef44b2f86346a1ed85fd338ce4d2a336da66b16780a6582ad6f" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Spezialauswahl 3 (World) (De)" id="0075" cloneofid="0059">
+		<description>WarioWare, Inc. - Spezialauswahl 3 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Spezialauswahl 3 (World) (De).gba" size="196576" crc="f637ad86" md5="283524c779d9f4ee0a7b9f63fbb84019" sha1="6af025cfbffa4101060437c27da27d18ef3bd0a6" sha256="c788fd66a8bc26e640cba7c7f8f641a0fa14b1acfda01a40d69827a577584af6" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Spezialauswahl 4 (World) (De)" id="0076" cloneofid="0060">
+		<description>WarioWare, Inc. - Spezialauswahl 4 (World) (De)</description>
+		<rom name="WarioWare, Inc. - Spezialauswahl 4 (World) (De).gba" size="194432" crc="c695c1c3" md5="512dc746f98c4e34a3b7f7c583ae4c8f" sha1="c6bfb66ed76d423232d78d3fb02f0d6ca1c9adb5" sha256="ad842b2f7918b5f554847d20625dde4ac2a9d2a485ce896adfde10c625125e7f" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Trial Ver. 1 (World)" id="0052">
+		<description>WarioWare, Inc. - Trial Ver. 1 (World)</description>
+		<rom name="WarioWare, Inc. - Trial Ver. 1 (World).gba" size="244928" crc="7508c0c0" md5="f3329db7dfc34e3bf4f8968b49e41842" sha1="8bfcf10a8f57b16580a228addae867a00e832151" sha256="4cf2e97910e62003469e020a761985105d34bc27e315eb39ec0de34b799ff6df" status="verified" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Trial Ver. 2 (World)" id="0055">
+		<description>WarioWare, Inc. - Trial Ver. 2 (World)</description>
+		<rom name="WarioWare, Inc. - Trial Ver. 2 (World).gba" size="247232" crc="d7826fed" md5="cd03911f50388ae75c00ba8a6492f097" sha1="c948231bd918f2db4af40333bb4fa79a258f011d" sha256="d33febd65964709747226077f0c6c7c97764cd4af558c168237b858027f07c1c" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Trial Ver. 3 (World)" id="0056">
+		<description>WarioWare, Inc. - Trial Ver. 3 (World)</description>
+		<rom name="WarioWare, Inc. - Trial Ver. 3 (World).gba" size="231424" crc="f8ae4d3c" md5="1fae29172b31ae29fa0a06d53cd8258a" sha1="57cd9d630c6239956f7538e5e9f5b0528d5ba099" sha256="6adfe7ac1f6224df268becd9ae2158c8dfc01c4f4141954987fd1734b712e67c" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Trial Ver. 4 (World)" id="0053">
+		<description>WarioWare, Inc. - Trial Ver. 4 (World)</description>
+		<rom name="WarioWare, Inc. - Trial Ver. 4 (World).gba" size="234240" crc="00a15ebd" md5="d52f65a8fff17a86aaa749212a1ef80c" sha1="01af5f68897441f378ee417acd800c152ff5350f" sha256="78182523bd3b01b6546d016913a883828f9f6bc5bc0ed55f7070313469490799" status="verified" serial="AZWJ"/>
+	</game>
+	<game name="WarioWare, Inc. - Trial Version (USA)" id="0012">
+		<description>WarioWare, Inc. - Trial Version (USA)</description>
+		<game_id>AZWJ01</game_id>
+		<rom name="WarioWare, Inc. - Trial Version (USA).gba" size="249848" crc="cc86e7c2" md5="39891f6dc6233821d27e3319095de733" sha1="ca4ae225f2f758ed84cef9a3c8490efd4b5a0a7c" sha256="2ba1255e8be1fd0694b754488bb241cc498ee2b0d935b9bf9a0674e83406c866" status="verified" serial="AZWJ"/>
+	</game>
+</datafile>

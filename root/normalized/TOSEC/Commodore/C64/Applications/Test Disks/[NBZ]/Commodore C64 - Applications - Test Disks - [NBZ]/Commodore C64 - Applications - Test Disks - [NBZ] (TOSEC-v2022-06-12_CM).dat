@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - Test Disks - [NBZ]</name>
+		<description>Commodore C64 - Applications - Test Disks - [NBZ] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Commodore 1541 (1983)(Commodore)[test demo-diskette]">
+		<description>Commodore 1541 (1983)(Commodore)[test demo-diskette]</description>
+		<rom name="Commodore 1541 (1983)(Commodore)[test demo-diskette].nbz" size="80472" crc="ebc54e83" md5="e731879eb8849d16cd53a66a7794f2e2" sha1="61a7d561eac92000083e27194a70ba133cedcfc3"/>
+	</game>
+</datafile>

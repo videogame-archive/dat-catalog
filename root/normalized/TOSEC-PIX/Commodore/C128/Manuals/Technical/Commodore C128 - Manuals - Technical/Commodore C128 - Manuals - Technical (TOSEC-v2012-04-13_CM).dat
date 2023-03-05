@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Manuals - Technical</name>
+		<description>Commodore C128 - Manuals - Technical (TOSEC-v2012-04-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="C128 Diagnostic Instruction and Troubleshooting Manual (1986)(Commodore)[PN-314060-01]">
+		<description>C128 Diagnostic Instruction and Troubleshooting Manual (1986)(Commodore)[PN-314060-01]</description>
+		<rom name="C128 Diagnostic Instruction and Troubleshooting Manual (1986)(Commodore)[PN-314060-01].pdf" size="3450796" crc="89416d89" md5="39e83d9a3e2b894992b3e4da39f1a816" sha1="a2775d486409b5c9367683fc70a1577e1d2c5d8f"/>
+	</game>
+	<game name="Service Manual 128 128D Computer (1987-11)(Commodore)[a2][PN-314001-08]">
+		<description>Service Manual 128 128D Computer (1987-11)(Commodore)[a2][PN-314001-08]</description>
+		<rom name="Service Manual 128 128D Computer (1987-11)(Commodore)[a2][PN-314001-08].pdf" size="10033267" crc="9329bfb3" md5="f28bedf531f7620e93a50787655f938f" sha1="647ec4eb64d66e7fe84da4804fff97413c1aa9b1"/>
+	</game>
+	<game name="Service Manual 128 128D Computer (1987-11)(Commodore)[a][PN-314001-08]">
+		<description>Service Manual 128 128D Computer (1987-11)(Commodore)[a][PN-314001-08]</description>
+		<rom name="Service Manual 128 128D Computer (1987-11)(Commodore)[a][PN-314001-08].pdf" size="4774980" crc="15acbc3f" md5="4d2c373acda9f3238a4ef212dfa1ab80" sha1="d00976c89d0f891b05e2842a6dc9d66a9ed7ae73"/>
+	</game>
+	<game name="Service Manual 128 128D Computer (1987-11)(Commodore)[PN-314001-08]">
+		<description>Service Manual 128 128D Computer (1987-11)(Commodore)[PN-314001-08]</description>
+		<rom name="Service Manual 128 128D Computer (1987-11)(Commodore)[PN-314001-08].pdf" size="14901545" crc="e45ab9f4" md5="82d2e4ebf49f44192b9be73aead4bafc" sha1="78a4e824ea87113f48af2f5d34339a818d03cc42"/>
+	</game>
+</datafile>

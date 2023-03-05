@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Diskmags - [A2R]</name>
+		<description>Apple II - Diskmags - [A2R] (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Microzine 14 (1985)(Scholastic)(II+)(US)(Side A)">
+		<description>Microzine 14 (1985)(Scholastic)(II+)(US)(Side A)</description>
+		<rom name="Microzine 14 (1985)(Scholastic)(II+)(US)(Side A).a2r" size="25739702" crc="57a993f0" md5="8df83fc001eeb79243de6457d89c0e5e" sha1="e9908518fdcd4a1b023327e8c3ba8d1282c44f8b"/>
+	</game>
+	<game name="Microzine 14 (1985)(Scholastic)(II+)(US)(Side B)">
+		<description>Microzine 14 (1985)(Scholastic)(II+)(US)(Side B)</description>
+		<rom name="Microzine 14 (1985)(Scholastic)(II+)(US)(Side B).a2r" size="28832927" crc="38e12634" md5="a91d6fcfc73ee396ce691d603bedc21e" sha1="14303ec36d361440074841392a52e577032ee18b"/>
+	</game>
+	<game name="Microzine 9 (1985)(Scholastic)(II+)(US)(Side A)">
+		<description>Microzine 9 (1985)(Scholastic)(II+)(US)(Side A)</description>
+		<rom name="Microzine 9 (1985)(Scholastic)(II+)(US)(Side A).a2r" size="25785772" crc="aa97331e" md5="8d6319ebfacd18819b82afc189b15a66" sha1="f28bdb613fef0f19e346dab364f230ed14c94760"/>
+	</game>
+	<game name="Microzine 9 (1985)(Scholastic)(II+)(US)(Side B)">
+		<description>Microzine 9 (1985)(Scholastic)(II+)(US)(Side B)</description>
+		<rom name="Microzine 9 (1985)(Scholastic)(II+)(US)(Side B).a2r" size="29037805" crc="f230d4ad" md5="1b0e7c4e32a38ca9c8b82c308cb48135" sha1="74edcf841be99bf9133bc526e4b68ae936ff4bb8"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SME Systems Aussie Byte II - Games</name>
+		<description>SME Systems Aussie Byte II - Games (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).com" size="16758" crc="72358a4b" md5="1b9833ed0623de114cec5d028b0e9fbe" sha1="1039a78d6c1a1c00f82011e92aa259e75e2a32be"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).com" size="16886" crc="8cdf6d48" md5="f44958f827b7d3fdc52893dd7c0f2ee5" sha1="720ef244f73f6974eb5c86ae7d24f06bc149ad5c"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).com" size="17818" crc="32e3f730" md5="74e964a8f6b5dd915abe1444abcb2d5f" sha1="b26b02b8d30ec45ec4706cfe29a224ea832bd741"/>
+	</game>
+</datafile>

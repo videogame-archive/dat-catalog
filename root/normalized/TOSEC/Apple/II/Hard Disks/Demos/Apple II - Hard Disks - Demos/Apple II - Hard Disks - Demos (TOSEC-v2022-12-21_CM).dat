@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Hard Disks - Demos</name>
+		<description>Apple II - Hard Disks - Demos (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bad Apple (2019-01-24)(Mangin, Charles)(US)">
+		<description>Bad Apple (2019-01-24)(Mangin, Charles)(US)</description>
+		<rom name="Bad Apple (2019-01-24)(Mangin, Charles)(US).2mg" size="33553984" crc="42b4b5ae" md5="48a4d794b3a344ef8aa1ec9709b79467" sha1="acbe8a9b38ac9365c07f1f9e40d12c2f49ae8b0c"/>
+	</game>
+	<game name="iPod (2019-01-21)(Mangin, Charles)(US)">
+		<description>iPod (2019-01-21)(Mangin, Charles)(US)</description>
+		<rom name="iPod (2019-01-21)(Mangin, Charles)(US).2mg" size="33553984" crc="e6e3f190" md5="371abe4d0488d1165d9832c19a10c4fd" sha1="fe4f3edead5b38010985f2168013650207a14fb5"/>
+	</game>
+	<game name="Matrix (2019-02-01)(Mangin, Charles)(US)">
+		<description>Matrix (2019-02-01)(Mangin, Charles)(US)</description>
+		<rom name="Matrix (2019-02-01)(Mangin, Charles)(US).2mg" size="33553984" crc="449d0102" md5="ee7ac4e41c275e526e42f13c19c54f27" sha1="4de7db6ed92555e240642b794df1652f03df5874"/>
+	</game>
+	<game name="Slideshow (2019-01-18)(Mangin, Charles)(US)">
+		<description>Slideshow (2019-01-18)(Mangin, Charles)(US)</description>
+		<rom name="Slideshow (2019-01-18)(Mangin, Charles)(US).2mg" size="33553984" crc="bf9dbc87" md5="9d872be29953dbb960b25f50f4821906" sha1="d17e55a629c3f995c392fc36d2ba9055e16a70c8"/>
+	</game>
+</datafile>

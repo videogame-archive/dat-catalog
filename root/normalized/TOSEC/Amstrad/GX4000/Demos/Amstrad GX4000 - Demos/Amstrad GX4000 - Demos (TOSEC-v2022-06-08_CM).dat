@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad GX4000 - Demos</name>
+		<description>Amstrad GX4000 - Demos (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Demo (2020-07-28)(Caruso, Fabrizio)">
+		<description>Cross Demo (2020-07-28)(Caruso, Fabrizio)</description>
+		<rom name="Cross Demo (2020-07-28)(Caruso, Fabrizio).cpr" size="524556" crc="f99b1106" md5="6989aef7e6b7153245dc795dc74bf742" sha1="9529b0054de3964ce917f8820172f54893088517"/>
+	</game>
+	<game name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="9266f09c" md5="65efcc1c801e686fd5f25c78db8ba155" sha1="d069c64b79838bc7e9c288b89427a940cf053b9e"/>
+	</game>
+	<game name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode1][cpcrslib].cpr" size="524556" crc="ac2a48cd" md5="09c07b4f23ee768d5b797ee33e63e8fb" sha1="ee7c140ad8c83fc830916cbc84f4b4e360b1700a"/>
+	</game>
+	<game name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode2].cpr" size="524556" crc="c38e720e" md5="cb158c2df7f88b9dfc2372c8d5d0fc46" sha1="8bee4d70cae67ba1ced96c8eabcb209851eaf42f"/>
+	</game>
+	<game name="Rouleau de Printemps (2019-04-24)(Arkos - Resistance)">
+		<description>Rouleau de Printemps (2019-04-24)(Arkos - Resistance)</description>
+		<rom name="Rouleau de Printemps (2019-04-24)(Arkos - Resistance).cpr" size="442596" crc="e619ec83" md5="bc28a1e30f0a2bb07206f514cfd6f9de" sha1="214f3fee8b6014b7a75a1b72a9fa70af6fe90668"/>
+	</game>
+</datafile>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Manuals - Hardware</name>
+		<description>Texas Instruments TI-99 4A - Manuals - Hardware (TOSEC-v2011-03-20)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-03-20</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beginner's Basic (1981)(Texas Instruments)">
+		<description>Beginner's Basic (1981)(Texas Instruments)</description>
+		<rom name="Beginner's Basic (1981)(Texas Instruments).pdf" size="5146921" crc="aea3a1eb" md5="1c885945cccbcdc67fccceeb8a3d9211" sha1="90ff522024ace7bf8458232026f4a36df088221d"/>
+	</game>
+	<game name="Memory Expansion (1980)(Texas Instruments)[php2200]">
+		<description>Memory Expansion (1980)(Texas Instruments)[php2200]</description>
+		<rom name="Memory Expansion (1980)(Texas Instruments)[php2200].pdf" size="324208" crc="1b7b8767" md5="974c09d71279376514371a66324f5c30" sha1="b90ce7cd745b620551aa528389c4ba6286e17f7d"/>
+	</game>
+	<game name="Memory Expansion Card (1982)(Texas Instruments)[php1260]">
+		<description>Memory Expansion Card (1982)(Texas Instruments)[php1260]</description>
+		<rom name="Memory Expansion Card (1982)(Texas Instruments)[php1260].pdf" size="487587" crc="1f416b57" md5="b1cd149b773899f169ed41736e3c78f3" sha1="071e7a8ca0dbedfae73c0f8a09af4cff0d07956a"/>
+	</game>
+	<game name="Mini Memory (1982)(Texas Instruments)">
+		<description>Mini Memory (1982)(Texas Instruments)</description>
+		<rom name="Mini Memory (1982)(Texas Instruments).pdf" size="3959986" crc="88138909" md5="2b1601346aca860b6283bea8dc2dc80a" sha1="3dcea8a9c77af8254b01ceefe80b19ba439b0005"/>
+	</game>
+	<game name="Read this First! (1981)(Texas Instruments)">
+		<description>Read this First! (1981)(Texas Instruments)</description>
+		<rom name="Read this First! (1981)(Texas Instruments).pdf" size="1552279" crc="620f9ef4" md5="9d90f1367a5c068c31518d744414b87c" sha1="ae61d1350a22ccb5002eb13b481ba5b5e11d1d17"/>
+	</game>
+	<game name="RS232 Interface Card (1982)(Texas Instruments)">
+		<description>RS232 Interface Card (1982)(Texas Instruments)</description>
+		<rom name="RS232 Interface Card (1982)(Texas Instruments).pdf" size="1637164" crc="c5f71d18" md5="ef87a08ce96a309cd7be5cab4bc1b81a" sha1="cd0b14c91381dd592d398c3c338fa8d0b3d55c04"/>
+	</game>
+	<game name="Texas Instruments Program Recorder (1982)(Texas Instruments)">
+		<description>Texas Instruments Program Recorder (1982)(Texas Instruments)</description>
+		<rom name="Texas Instruments Program Recorder (1982)(Texas Instruments).pdf" size="1507896" crc="3516795e" md5="95f40797146060c47ee7d4c01898c7b3" sha1="a7c077109805672025035a9bb7d881539081ce09"/>
+	</game>
+	<game name="TI-99 4A User's Reference Guide (1981)(Texas Instruments)">
+		<description>TI-99 4A User's Reference Guide (1981)(Texas Instruments)</description>
+		<rom name="TI-99 4A User's Reference Guide (1981)(Texas Instruments).pdf" size="36962981" crc="ff0c4e0f" md5="44bc826c17b05e66c8965e60c2544e19" sha1="7435172dde34a5b8be6f94bdae3cede9d934db7f"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hitachi S1 - Games - [L3C]</name>
+		<description>Hitachi S1 - Games - [L3C] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 1 of 3)(ADV-1)[MA-3204-1]">
+		<description>Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 1 of 3)(ADV-1)[MA-3204-1]</description>
+		<rom name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 1 of 3)(ADV-1)[MA-3204-1].l3c" size="2268593" crc="0b061e99" md5="0a244e1ee2519621091bd1e4c8500f70" sha1="4079f79f5076a6f44737ecd60daddb69fbe22447"/>
+	</game>
+	<game name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 2 of 3)(ADV-2, 3)[MA-3204-2]">
+		<description>Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 2 of 3)(ADV-2, 3)[MA-3204-2]</description>
+		<rom name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 2 of 3)(ADV-2, 3)[MA-3204-2].l3c" size="4371542" crc="15095ca0" md5="6fabea5ebd84a716811eb9541c9217f6" sha1="d166235f26819522fb1d982c29f1bba58e1d1f17"/>
+	</game>
+	<game name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 3 of 3)(ADV-4, 5)[MA-3204-3]">
+		<description>Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 3 of 3)(ADV-4, 5)[MA-3204-3]</description>
+		<rom name="Princess Tomato in the Salad Kingdom (1984)(Hudson Soft)(JP)(Tape 3 of 3)(ADV-4, 5)[MA-3204-3].l3c" size="3605467" crc="4849e3fe" md5="9e55352e786090b77dcb0bebe346631a" sha1="a05fc4d7320f2aa790fbc6a5a17b8df498c635d2"/>
+	</game>
+</datafile>

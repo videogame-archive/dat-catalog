@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C16, C116 &amp; Plus-4 - Newsletters - Plus Exchange</name>
+		<description>Commodore C16, C116 &amp; Plus-4 - Newsletters - Plus Exchange (TOSEC-v2012-04-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Plus Exchange (198x)(TriMicro)(US)">
+		<description>Plus Exchange (198x)(TriMicro)(US)</description>
+		<rom name="Plus Exchange (198x)(TriMicro)(US).pdf" size="1687983" crc="069468e7" md5="b88bcf2c6cc174518e2fe0a1172f357c" sha1="47b429e2c56fb7d41d0c8dc865d4a8e871b3c0aa"/>
+	</game>
+	<game name="Plus Exchange - Issue 1 (1985-06)(TriMicro)(US)">
+		<description>Plus Exchange - Issue 1 (1985-06)(TriMicro)(US)</description>
+		<rom name="Plus Exchange - Issue 1 (1985-06)(TriMicro)(US).pdf" size="330449" crc="b8d4e922" md5="18d4ec02a4c89242028d2c84bf8d23dd" sha1="60af2529fe89ddfbea85db171d7982c107917a89"/>
+	</game>
+	<game name="Plus Exchange - Issue 2 (1985)(TriMicro)(US)">
+		<description>Plus Exchange - Issue 2 (1985)(TriMicro)(US)</description>
+		<rom name="Plus Exchange - Issue 2 (1985)(TriMicro)(US).pdf" size="924581" crc="16017fef" md5="62a7a660be1a4742903a1e79fce2c137" sha1="fd4dae706b0aed115ad502c9afb03c8831e4f222"/>
+	</game>
+</datafile>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Manuals - Hardware</name>
+		<description>Acorn BBC - Manuals - Hardware (TOSEC-v2019-04-22)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-04-22</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Advanced Teletext System User Guide (1986)(BBC Enterprises - Morley Electronics)">
+		<description>Advanced Teletext System User Guide (1986)(BBC Enterprises - Morley Electronics)</description>
+		<rom name="Advanced Teletext System User Guide (1986)(BBC Enterprises - Morley Electronics).pdf" size="5004759" crc="5098cb12" md5="c52baf89df38c4f838e6c795b90ae88e" sha1="2624e1c5f5d2240d1d4e46b0d42b3576c4d190bf"/>
+	</game>
+	<game name="Advanced Teletext System User Guide (1986)(BBC Enterprises)">
+		<description>Advanced Teletext System User Guide (1986)(BBC Enterprises)</description>
+		<rom name="Advanced Teletext System User Guide (1986)(BBC Enterprises).pdf" size="24151090" crc="b0d920d2" md5="4cdb552476ddef364073b96d9632b3a1" sha1="43e8a404cc601f3d93a2293da5bd92bae572cb61"/>
+	</game>
+	<game name="Advanced Teletext System User Guide (1986-10)(BBC Enterprises)">
+		<description>Advanced Teletext System User Guide (1986-10)(BBC Enterprises)</description>
+		<rom name="Advanced Teletext System User Guide (1986-10)(BBC Enterprises).pdf" size="5399031" crc="92c2fbd9" md5="f4f869a831aab651ac07cd0a556849dd" sha1="a18f642d44775fea4b7bb6cbc3f93c8fee175692"/>
+	</game>
+	<game name="Assembler Extension ROM (1986-07)(IFEL)">
+		<description>Assembler Extension ROM (1986-07)(IFEL)</description>
+		<rom name="Assembler Extension ROM (1986-07)(IFEL).pdf" size="12518714" crc="3bd088ad" md5="c4920982bcbd18e442087ab6f999c7d7" sha1="980a4338366d90bb1077a3e69bd998e51d2ae0b7"/>
+	</game>
+	<game name="Battery Backup (1983)(ATPL)">
+		<description>Battery Backup (1983)(ATPL)</description>
+		<rom name="Battery Backup (1983)(ATPL).pdf" size="67487" crc="d7e6eb0d" md5="34c61c11c301f7bde484bb7d16659202" sha1="dbb26bef8f4df9aff2b2a169af8930beb062b0b8"/>
+	</game>
+	<game name="Replay (1985)(Vine Micros)">
+		<description>Replay (1985)(Vine Micros)</description>
+		<rom name="Replay (1985)(Vine Micros).pdf" size="1013125" crc="f7ea0892" md5="fc8a8d8937bf504ba7c11a0f32cde4c0" sha1="881e805d7fcf6e9313c361714e84ded840150d4c"/>
+	</game>
+	<game name="Rom Software (1985)(Acornsoft)">
+		<description>Rom Software (1985)(Acornsoft)</description>
+		<rom name="Rom Software (1985)(Acornsoft).pdf" size="50323" crc="bfcba7e2" md5="764131e06c2e981930a6717055cfce30" sha1="f524e5d19e0bb5d463858449a1de797fd3088a6e"/>
+	</game>
+	<game name="Sidewise (1983)(ATPL)">
+		<description>Sidewise (1983)(ATPL)</description>
+		<rom name="Sidewise (1983)(ATPL).pdf" size="236439" crc="efca028f" md5="16a3afeea6a41d144fbedf7298927ddc" sha1="6905163d5fd9f34990c3edaa7155ca0ded032bab"/>
+	</game>
+	<game name="Sidewise Plus User Manual (1985)(ATPL)">
+		<description>Sidewise Plus User Manual (1985)(ATPL)</description>
+		<rom name="Sidewise Plus User Manual (1985)(ATPL).pdf" size="235985" crc="f5182530" md5="3f1b8091dc67ba23d52f6eaec799bdbe" sha1="d40d454ac493a9280351bd1a4fc6eb84e1248324"/>
+	</game>
+	<game name="Speech System User Guide (1983)(Acorn Computers)">
+		<description>Speech System User Guide (1983)(Acorn Computers)</description>
+		<rom name="Speech System User Guide (1983)(Acorn Computers).pdf" size="1249934" crc="99e78550" md5="c31a1d74c24b39b48fb380bed5ea9533" sha1="0bf12b1d8dd1216741db2262cd4714de398e4be1"/>
+	</game>
+	<game name="Speech Upgrade Instructions (1983)(Acorn Computers)">
+		<description>Speech Upgrade Instructions (1983)(Acorn Computers)</description>
+		<rom name="Speech Upgrade Instructions (1983)(Acorn Computers).pdf" size="521957" crc="3b5660a2" md5="28e845213f395c7fe21dce294020e2ae" sha1="899321a6c5a486a88b051929ea2e4d9e6d39a054"/>
+	</game>
+</datafile>

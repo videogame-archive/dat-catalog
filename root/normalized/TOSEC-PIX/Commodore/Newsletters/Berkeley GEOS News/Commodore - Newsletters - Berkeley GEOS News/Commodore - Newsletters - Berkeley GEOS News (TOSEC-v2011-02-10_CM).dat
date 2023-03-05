@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Newsletters - Berkeley GEOS News</name>
+		<description>Commodore - Newsletters - Berkeley GEOS News (TOSEC-v2011-02-10)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-02-10</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Berkeley GEOS News (1987)(Berkeley Softworks)(US)">
+		<description>Berkeley GEOS News (1987)(Berkeley Softworks)(US)</description>
+		<rom name="Berkeley GEOS News (1987)(Berkeley Softworks)(US).pdf" size="1725909" crc="8ae8bf02" md5="9611edf3ee3a249e3bc0400bd45137be" sha1="fab44ae93b21fa900f98cbf9f45cafbe75ffe6e9"/>
+	</game>
+	<game name="Berkeley GEOS News (1988)(Berkeley Softworks)(US)">
+		<description>Berkeley GEOS News (1988)(Berkeley Softworks)(US)</description>
+		<rom name="Berkeley GEOS News (1988)(Berkeley Softworks)(US).pdf" size="4881361" crc="c2284bb3" md5="ff453ced379e556cf8d7cdc3dfd7fb82" sha1="e3abe14784cf466a33b971fdee639f8bd6fc6abe"/>
+	</game>
+</datafile>

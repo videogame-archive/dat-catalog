@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Panic Playdate - Games</name>
+		<description>Panic Playdate - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Rainblocks (2022-07-24)(sg)">
+		<description>Rainblocks (2022-07-24)(sg)</description>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\fonts\krull.pft" size="472" crc="00cd934d" md5="e004b0c178f323bb94310700132f8768" sha1="fc3d90270e504d84209fd6fc8596e0531b7ff027"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\bg.pdt" size="8881" crc="4b336464" md5="5db260c6263ab041f6f652d1498e6c58" sha1="1d4018af71b414a6f003e908e7aeb526bf501a8d"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block0.pdi" size="67" crc="dd0b4ad7" md5="8347b459627973fec628afcf4c895133" sha1="f443700a83a109629f4c4953785aac3f708367fd"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block1.pdi" size="67" crc="e8d767b3" md5="6ad83eeb464926d46abed727eb063734" sha1="f8e3de9bc076c1eec20d9f1a4d1b274cfc30171b"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block2.pdi" size="70" crc="5c8149d7" md5="4b8113a117f5e129aa7d425b899b1e11" sha1="452ce2afc33fee9adbaed0fd3b445f1150d4ccdd"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block3.pdi" size="75" crc="d5a8bbec" md5="498e6eb83107fe7597090c171bc2f4b1" sha1="89a82566e6cb0ca46c112b320355a98a231db83a"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block4.pdi" size="69" crc="46aa7c89" md5="c18adbc1fbf1965deb7162ef8e8c7994" sha1="ef3f006f2f2ad094a1c36eb61ff5ae0b130e71ad"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block5.pdi" size="68" crc="fee2c7a5" md5="26601ca0a3a298e898f7a3dd564984a5" sha1="30f3f3b7a23d24718589a5e7ed8e0ef94c4bc5a3"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block6.pdi" size="72" crc="6f287b45" md5="a2117146cc8e9003056fc3aae94af2e0" sha1="67df7de90f7d549ef6d9bf10e2a905dae2bf1dd6"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\block7.pdi" size="73" crc="d3450f18" md5="4890d56b232077b56ffb3b286120ca2a" sha1="8f89275f51d1831c59adcc9e5b7d2e680702efaf"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\card-highlighted\1.pdi" size="3714" crc="c9d10494" md5="532b535a898d008850e9184502830a08" sha1="17b57376994698a8a391dfc659c2b3c0e6496888"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\card-highlighted\2.pdi" size="3717" crc="77546a6d" md5="bf2ac566deeedadeeda3e1698a55b08a" sha1="124292b06a6a0264abfdff7f23c4d2144e14eca9"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\card-highlighted\3.pdi" size="3714" crc="79b823da" md5="f3a077d3baf02373152197c9349c3794" sha1="195130f490675ea29b4505942449e9d159827ed4"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\card-highlighted\animation.txt" size="25" crc="f1f38432" md5="be100c7cf53c5a337e1d435f3639b8c4" sha1="0a75b43a05cf75d5dbcc03a88ccfd33f4809bfc6"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\card.pdi" size="3715" crc="663ec76c" md5="5355506eef4bd8250929bbfb319a8a07" sha1="004a1c36455068dc66bb47643029cc3044f9a13c"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\clear.pdt" size="618" crc="64e12d0e" md5="84475102dc85a8be08e1c41233a98b65" sha1="a0a676ea06aab38fb4f4ce6d0a6da92a4dacb7a3"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\clearbig.pdt" size="1536" crc="bb9ba8ec" md5="f34b32adfe50d835b947fd5de077af91" sha1="8570aab99ca241a9178100c4ac0682b27587a838"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\clouds1.pdi" size="4004" crc="5e403a01" md5="5c77ad2ddce866a52046c38bda2c05ce" sha1="47bd4fab018226b1c1335db903cb56c2727432db"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\clouds2.pdi" size="3251" crc="4ac0df83" md5="c0b6ddc2449013d1cb6250c71626e229" sha1="6906edb6fe8862e10ace37cd1243fd0a899471ac"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\highscore.pdt" size="738" crc="0fdb4d24" md5="6e625d24c7cae9c9d9bb954b79427ef4" sha1="94bf57e5c768d08ef4c6a7500a72c14c870e5374"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\launchImage.pdi" size="5616" crc="549b905d" md5="a1d005a6ad71dfa9cfda8c8560209d2b" sha1="55c5fa0405481272bc981d9879d466ff526e5da7"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\images\sky.pdi" size="236" crc="afa9a358" md5="4952f5402b1a0888f4caf5e661f9d8cb" sha1="939515aee624cf0b98b24a3dc3a4a84b56df7850"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\main.pdz" size="34476" crc="71320fd2" md5="972c075d083c792c5f3f229d8921b733" sha1="7455ce5d646c073badba09e98383b127d91a15d3"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\music\glad_to_be_stuck_inside.pda" size="3870738" crc="7a9c4bf3" md5="9e1760bc4f23055d9fdd2a9ad9e97652" sha1="392eba0f0adf73ef0bdcce1b90623027fccfe3d2"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\music\mundane.pda" size="3801106" crc="971b9abc" md5="cde023549205d860d69ed1edf216c1d1" sha1="28969e2fcb6ba5580b9f54be9ab145fa2c84c48c"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\music\pretty_little_lies.pda" size="5048338" crc="7c792578" md5="4c82974e5f59488b9a984f1ef8876491" sha1="f79b423e50e5b3b5654cf39531652ebf916b6933"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\music\shut_up_or_shut_in.pda" size="2885650" crc="825b9bad" md5="db7c1e1f3ffc70cd7670c37838ec3fa3" sha1="497a30456427e91593df2277ce2832f1e242ab89"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\music\something_in_the_air.pda" size="3174418" crc="26c4fe56" md5="94f90113765266828861f83fbf907a33" sha1="1bb6d30f88330abfe54361fc45cfdc3759098f9b"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\music\whatever.pda" size="5697554" crc="6d2db770" md5="d46ed122ec959885e13eff103da04665" sha1="4765a264d1a6e36fe01c281bdca85bd02d30c7bf"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\music\yesterday.pda" size="3627026" crc="fb805bc9" md5="baa87f249f6c1d22ac7b44bc918a20e3" sha1="e3b7d21474fc78b5c928ce07823c58dd196aebdb"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\pdxinfo" size="187" crc="74bba003" md5="38d6953ffd0e97e5814d884ba910c5be" sha1="1c485b5d222bfcfa4e2bc7b74d763f98cf9dc088"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\collide.pda" size="6162" crc="580247e7" md5="8ce95d64e1e2437b6c30fcd4e6e480e5" sha1="63e577dc6a21ceaad012bfd203c93756e8793cd2"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\gameOver.pda" size="18450" crc="36dd63d3" md5="bbbd6672895a296a72db2a7fecbea404" sha1="b9ab8d6e8881ca4260827eaf8f1c58a2c72c1c2b"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\hardDrop.pda" size="8210" crc="2b3e4b52" md5="bcc2001c4b5940b69d9364f78cf753b9" sha1="d5c81982d568da9595f120c0f09e8c127fc145b8"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\hold.pda" size="6162" crc="08278140" md5="af8106981d755e457a9a97bf7a1bdb08" sha1="705cbb07fa60f331364e96f292ed1f2b11936c28"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\land.pda" size="6162" crc="74628f3d" md5="933b01ba3dc7b676c55029942ccbf98f" sha1="b2ab106c922b4f90352f6fe37c458000b02e9b6b"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\lineClear1.pda" size="6162" crc="13d60499" md5="f5a971747ffeb027ae76fce708eedbec" sha1="5142235cb2f5db86c35c1c6cd861fb5cf12c3fa1"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\lineClear2.pda" size="10258" crc="9c2e11ca" md5="5ccf8bb18acbe0c6597d9593f5b6166e" sha1="2c0f8e94b7f19688b9b87b26b53412b39291fec7"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\lineClear3.pda" size="12306" crc="3d3a4901" md5="554a3227a3496ff1ea2b5aa7467a6738" sha1="2346b34f8810503e352e4301c8ad3f9b204e1626"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\lineClear4.pda" size="24594" crc="e6ace2db" md5="6b728858ddf9679590e90ec8b73329ec" sha1="9d9aaf37eee0665c542d5855524ef8c0740777fa"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\lock.pda" size="14354" crc="b5f3703d" md5="0e88b5ad26b5b9eba006818cfdf4bfc1" sha1="67672d8d128e76faa8a1e41f751c8c94dc665f35"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\rotate.pda" size="14354" crc="5b7273e1" md5="0fec68ad34662ea077cd1c3576ce777a" sha1="eedd41922695240bcc7cc89f3716d44221973bf5"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\shift.pda" size="14354" crc="5c6681db" md5="162056398774ae750534459532e192a9" sha1="f0c75faf4c8128ea119abcb62c149636d64df125"/>
+		<rom name="Rainblocks (2022-07-24)(sg).pdx\sounds\softDrop.pda" size="65554" crc="a0648bd5" md5="d511707a7b83d5e1c0c69b885aaa8358" sha1="efaeb5a21126dbb9d38f1a6e4b62a1d66bb08c78"/>
+	</game>
+	<game name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik)">
+		<description>Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik)</description>
+		<rom name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik).pdx\card.pdi" size="932" crc="4acbb7e2" md5="4f6f9b7e48ad64ed58c73b0f8f211e47" sha1="10d26071dec7c19b027a5df1c42959457769f996"/>
+		<rom name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik).pdx\chars.pdt" size="678" crc="7d5c6d2f" md5="c7dea4b39bfef368dea7a45522a71bba" sha1="51b6678f15e27992c116fc13fbf5de17d0204a66"/>
+		<rom name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik).pdx\data.pdz" size="59370" crc="8e72b090" md5="d5b6252b9a757de57ac5e314b07294a0" sha1="5636cf80197694ac71beda164142965d39ad6acc"/>
+		<rom name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik).pdx\frames.pdt" size="7742" crc="db86ffd9" md5="9f680e389e93f43e46f9d2e7c76841b2" sha1="9cee76b48f471a5ea67a5b99a892044c160d6a2d"/>
+		<rom name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik).pdx\main.pdz" size="25175" crc="7077d68d" md5="4cffe8a9a1a5b7ac1cc5534a0411958e" sha1="99bc0cc815b9832fff8b9acfd51a93be0b44752b"/>
+		<rom name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik).pdx\pdxinfo" size="199" crc="1ac06a8a" md5="493b46afd1619b0f509a14d4bda57eaf" sha1="af56af41f6e2fd8809bb0fb4490f66f01b1cb92e"/>
+		<rom name="Ribbit-Rabbit! (demo-playable) (2022-04-12)(reverendmalerik).pdx\pipe.pdt" size="180" crc="c93ff653" md5="4f1e95dec69a3dc531de6926a2537eed" sha1="b4221bc5ce48485ef04b7aa0a3b02235684cde25"/>
+	</game>
+	<game name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl)">
+		<description>Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl)</description>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\bdata\bl1.json" size="61803" crc="7ea5cf81" md5="e84ba4d91be26a66e26007d761c658f5" sha1="6e45f7c9e201279a050dfe4f0402d3e89c96400e"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\bdata\bl2.json" size="27120" crc="5b8ef94e" md5="fe6d006da1873b9b6a241543b9045dab" sha1="e8f83b271640518a0aeacb16fba3bcfed0f72188"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\bdata\bl3.json" size="25323" crc="c65893fe" md5="aaeeceec16be9d6143fa5053d7ab787a" sha1="db1706a2fb058b6087d4752f090fe846b0b36003"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\1. HOOK.json" size="9967" crc="1a658929" md5="63330dd6d3c4258c527746c5aeb7c324" sha1="981ec7ce09f9501316293c3120723997bc66f66b"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\10. CITY.json" size="26251" crc="23fc02aa" md5="4d09cff98586710c5b92fcaca0fd1a85" sha1="4c77ac30091428d9c348013e1eb3c532172504bb"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\11. FLOWER.json" size="24931" crc="6c3e37e0" md5="14126baf64b51baab6faaf12b90c8f52" sha1="822a3867a40eb85adfd9a0d4ba2126f771b676f1"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\12. BOXES.json" size="23581" crc="1a73397b" md5="d4ffd9c361ec20d95e052f8947b8b83d" sha1="31de18d4eb3a00e3c039e50600a98af52be07692"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\13. SNAKE.json" size="22251" crc="d0fa40c7" md5="3d20f7f7322710b4ccf40f4c08395168" sha1="e142d53b8e37d9f6cb323b347f3282d9252fbee5"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\14. TOWER.json" size="23321" crc="f660c21f" md5="ab5287393f00c1c434e0d4677c4e840d" sha1="374458acb7321c4ff23dda9dc127a91d2ace8172"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\15. ESCAPE.json" size="29731" crc="f228d53d" md5="f8f73f6c70b3d1901cb04802f1726418" sha1="099fa5a3bd0b9b2b5961068a340887aa63ee9a17"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\2. ROCKET.json" size="12961" crc="a59f4a16" md5="f3e7813daac68ac3eb53c9ae02f4bee0" sha1="3013196c1375bd1b16fb98ea7bb3442d82ea0bfa"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\3. HUT.json" size="6425" crc="2756bbe1" md5="741d6bf9840dfe357b2bfeaa96539bb3" sha1="8d23c8260d96c089b3a418009b081e872c8cd1b9"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\4. SPINNER.json" size="6486" crc="d3475534" md5="5b9e09a622bbd22fd25f2d627d695eaa" sha1="fbb38affc5ec7c9ec995ddabd6db04f8be18e71c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\5. SHUTTLE.json" size="16771" crc="67046452" md5="1807a0d457fd8710bb8ee97b98c542ff" sha1="6e9cab3b57ec2974b827efcc1143dd2f52582dfa"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\6. SHELL.json" size="14184" crc="ea9a4862" md5="46d02b5dc97f032e8d2e50b95222c8c1" sha1="36ec0e80be1a9f6bf02c798ce0b228c2bec1b189"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\7. PYRAMID.json" size="17688" crc="9fa78967" md5="11281d0dc79e93df48155dbb088658c2" sha1="5ce1099be0aac1fa073dd5a6e5d5ebba20baea8f"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\8. KITCHEN.json" size="28387" crc="9ff10921" md5="58fecd33620af87009bea3f7324869b0" sha1="cff0ade4c9ee7c670dc5dcf1e38195ca3c8cc5f8"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\data\9. LADDER.json" size="21302" crc="00445969" md5="f5aa5c07083ed6d85fcfd3576b14bab4" sha1="3cbfd5028e96c38f8723bb512f36119b4badc88c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\aboutme.pdi" size="744" crc="ff9aa4a3" md5="6036bc1df4f82aa95779b1a6078e1e12" sha1="3b3fee71841490791707aaf06b32371bcaab2ab0"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\add.pdi" size="82" crc="96c7bd5f" md5="d7fea622a3f892458b7974cdcc350613" sha1="cec11b314e33db0f6cd19488f7e2bb8d68c27001"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bButton.pdi" size="117" crc="cd9c19c3" md5="586b64a76e05628a450d1468cafbed2e" sha1="c363066f3dae03f2fc36d46aa111df8588ad2b1d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\big.pft" size="1252" crc="78a5bba6" md5="d35eb522e81c8c10e84964b7587f0bda" sha1="bc4262798ddf4d8aae1e9ccb1ee46f80cdfa4516"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bigrocket.pdi" size="220" crc="e115d411" md5="e34f9933453b954ac2dcafe9e683c12d" sha1="4029272250df11faf1b710e19b7825304f465a47"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bigrocketfire.pdt" size="289" crc="41f22335" md5="45b62e46c6b032fd720c5d7845fb1d26" sha1="f9fc19c304a648699f191697a8178044ed74d88e"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bigVisibleSpaces.pft" size="1249" crc="26987aa7" md5="fd2f9121697ff311e3d7c70cb7ef5abe" sha1="e6d08a82c2c777ed568a3381548bbcf929e03de0"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bytes.pdi" size="258" crc="f99f344a" md5="81a1df175e4829560cfc13f6d9108980" sha1="5269917f8c474e03506ebf9e9564c6b4d93e18ae"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\cover1bit.pdi" size="158" crc="0c015b23" md5="570d1a04f4dd0725d352c1721e9dbcf1" sha1="4c310ec819a2323e0e2372fd58642173e7b416bb"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\cursor.pdi" size="103" crc="93d4d245" md5="ae36e8a7a0da613aa4e5d4a8d828ff8b" sha1="31c46cc4e782b4b3bdede5b06af69c2cde728fcd"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\cursor2.pdi" size="70" crc="1d225af2" md5="30f38168791906d21c29d628a12a40ea" sha1="f30a5faf6a829d1f89fef9b20689d3a7f86e7463"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\dither.pdi" size="57" crc="bb10df99" md5="624eec0a967090cc86a350f604594df3" sha1="6c778fb59fefc9509ddfd242fbaa77cdb55de4f0"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\endplatform.pdi" size="213" crc="bf76ddd5" md5="370a8e72160b07f5e4aab84936a8ee3e" sha1="2b53dcace15ba81342c282272676cabd876107e9"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\exit.pdi" size="119" crc="2e0ecad2" md5="8f38efc53f7fab1eb68205694f6c9f3e" sha1="7610d0309dff0ad591b0487190695388aca69df2"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\eye.pdi" size="76" crc="bde25a1f" md5="2f65b824ad26b8621ddea09254a5d381" sha1="a8d7fd56ff2a7758af75c54e10f187f11d64aebb"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\fire.pdt" size="165" crc="6c53c6ae" md5="7fcca4dbafe50f50590c6e2a7fdd3f52" sha1="fce323691e375daa890fc3195811f2f8a474d019"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\floppy.pdi" size="85" crc="d682502c" md5="9d968ef0982eda1a1ec2f4d142890894" sha1="d6083c144954ed9574067ab1a5badfd845d2faf8"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\floppyT.pdt" size="437" crc="4effddf4" md5="c9fec09c1662e9889cbf69fc1d926d89" sha1="b6dc29fdc41032229cbf558473e21ad1a8c79c59"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\fuel.pdt" size="205" crc="aa5fb29f" md5="900ac9c2b1405510d734c62c4aaf625a" sha1="eeefe382acd4fa76d53a03f8651e614d4355c4f7"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\grid.pdi" size="60" crc="732f3cc4" md5="6d2e6851cf78d7f2b631c109e7f5d3e6" sha1="0a748f4f5d4a226f1b65035f000bb07f7525a175"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\leave.pdi" size="77" crc="4bac9172" md5="3630c6c24c200eb5585a7debf0a1fca2" sha1="368e46caf77539a99dd16e23ef3d4a17c548880d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\lightning.pdi" size="91" crc="66a7faa7" md5="d0ba51b391f1c2e6aed046d4dcfd0b32" sha1="27cac79bb2f1fc7de0e7a2817899c9647bc213d6"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\line.pdi" size="77" crc="d9fb2acd" md5="2a3d94fff3d75ee42e7dcaf17adc304e" sha1="583a2ab513c7ff7083d91ee622ba3cfa4001e8f2"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\links.pdi" size="1125" crc="fcf4d6ac" md5="6ba191548559b10c667b565737c24ade" sha1="986acbee8ded0b63c70b8bb6d25c19de7c6e5262"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\music.pdi" size="84" crc="e7463ada" md5="eb037fa675e7d1e0e9f55972d59abb26" sha1="91c3055b73ba3bc31bc210f069ebbaae6e2dc97d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\nothing.pdi" size="63" crc="cb869fea" md5="1e54bc00a8c28bb0384b08aa5d9b16f6" sha1="a3e45c088883fd257d4437223f9cbad474323c0d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\rocket.pdi" size="129" crc="d5551fa0" md5="e455443fc3e97700167e3760ce5ac11e" sha1="586e1ec586812dad67ae7960c8bea1e07a5b068c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\sawblades.pdt" size="126" crc="8f3d7229" md5="059920dc7703fd163b8f99c4fdfdac11" sha1="cdc3356a395b6db85d0beb9fa7606c3523611874"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\sidebar.pdi" size="265" crc="8e348630" md5="8b359a56f24b3bbaeb81a599a92467ce" sha1="a1efa9376613abe2038da1df2be3ad0231d12d23"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\skullEmoji.pdi" size="85" crc="4985db26" md5="6394a44697e206fd7b057ba31eada462" sha1="03535572d1cc651263a7b5843f63f26c9382213d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\small.pft" size="965" crc="4a91defb" md5="7a1c53b130f263f3f2b9be72f3de7be0" sha1="8c19d0a9e8f558361fa68d9abc6c1f0ca5b9e540"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\spin.pdi" size="93" crc="acb4d55e" md5="e1a6793a719c73d8a8885ca26cd7df5e" sha1="8ea4528d38de7d0ad370b3477967a0acb49d51a1"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\square.pdi" size="115" crc="358ab9de" md5="98e781ef05ed21092e27136419c26e3f" sha1="49174253081545957f8b0d61fa0119de3a7d2fc2"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\starscraper.pdi" size="1008" crc="35d75351" md5="bee5cb4038d5ad37ded140b34de4163d" sha1="36edcc81fc541d50fd8a9258d3a5c122c69057b0"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\start.pdi" size="109" crc="04389aef" md5="720f5601366787c1956bd0a449224d65" sha1="167dbf57592b71fd45be6b002523e5654d350626"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\stay.pdi" size="86" crc="e539952c" md5="d941a9e46ed2404520745a0b7b0b2df3" sha1="12e118f1b169e8ac2010d24d69ca8bf1e64d2785"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\switch.pdt" size="93" crc="0ef4d844" md5="8c1f1298c7ec2709b1c47c9e82f1d322" sha1="7c643e1d05d52edbea136e8da253f589b9c6be1c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\Symbols.pft" size="554" crc="04bea58c" md5="b5e38468eb1f4be6564e582cc27b715f" sha1="e9cc77fa1fac7a347f797974e9fa94b38142ec40"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\target.pdi" size="66" crc="6dc11278" md5="4718b002df19b620b2cc521ef5ff435e" sha1="b42ef789d16bf7f5c1a75d535831ab7d48e83a96"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\tiles.pdt" size="346" crc="5f2559b9" md5="9ce1b40379761c6bf4bd88383a5aafe3" sha1="c4b4e12419ea2a7aac822a59f1772a0f7add5071"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\gfx\warningsign.pdi" size="87" crc="6d04c80b" md5="ff6512550041b35de07e9fbfd53048cf" sha1="bd7972ee036b23595ee2fae96322e43fa3ec9a82"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\card-pressed.pdi" size="1066" crc="58bfd3d4" md5="b280b41c8bdaed30cc470adce2153515" sha1="bb544c2516f1c489fb8d9d430cd6e6c698851abe"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\card.pdi" size="1041" crc="20ec466d" md5="e0ad1885075183992a907bed8cc2d187" sha1="b0a6dfeabc5f05664499f5851d41739f9f38dc18"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\1.pdi" size="1074" crc="aaf2687e" md5="5eea9fe3d6bf456a2f7d493a71cb6f7b" sha1="7635094af1833abea5509200ce70d19f0ed9599f"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\10.pdi" size="748" crc="96f5d135" md5="257a49987374c1de9de2eadf6c5399da" sha1="cf1e2db8fddba9513fe7eef48316c67903b6669e"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\11.pdi" size="704" crc="187d467e" md5="d885dc094653f9282856fd5c4a83e915" sha1="3add559933c75f05ba7ef485ac0d46f97af05c02"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\12.pdi" size="684" crc="fb51c711" md5="449ad8e6d2adeeb117d3c2c3a9032670" sha1="07fdb692c08cddc16dc9f99df52e1397a9adb92c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\13.pdi" size="654" crc="f86b73d6" md5="5d62faaaa4c6015c99c725a5de44151d" sha1="7c51151ab848ad3c3235a5352343b4cce69d8678"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\14.pdi" size="632" crc="9886e008" md5="8efd907747c1115984ce47c24e1196f2" sha1="f9a1c5644ca05c08c135726c3c41de79dbfac526"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\15.pdi" size="596" crc="5eba9a88" md5="7243947f8047e7bec8111552552e18ca" sha1="7e04fd17a8ca46429d6158c1a98bf010c66b1c9b"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\16.pdi" size="571" crc="5f56f0e7" md5="7e4e41c06d196e0c639fa67761e9f2d5" sha1="dd10ec9e635f4d64561b3aa1c53a643320458ec7"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\17.pdi" size="559" crc="b0bfcf34" md5="5771d8f6a55b812687e1e7ea8baa8cad" sha1="5feaad5add30fc437dcf7eb479b9909d6a9cc498"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\18.pdi" size="543" crc="afa965d7" md5="b10b2fef592ac5fdc431a3a2172b1a5b" sha1="2cd80c4504e68adc013ec2e6d95fc926806d18ea"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\19.pdi" size="514" crc="97f35417" md5="4df263d3fab17c03d7752bdbe3aa0abb" sha1="2fff421b796fdabc5459df5f5084713b636ab64e"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\2.pdi" size="1093" crc="efe1583e" md5="ff0327a2459100eec4da7baee6796e43" sha1="cd6fba2208eef08e9fb773331e31428ab886cc73"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\20.pdi" size="466" crc="eb1d53f2" md5="a50e669ff677c452bb1bd3ae8a270416" sha1="dbe9d3f8b1b7ea64705214294935138e4bb5bc3a"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\21.pdi" size="433" crc="95c32795" md5="f5fd3673c9eafe97a251130c7d442502" sha1="166c1751d891221cb1a9c1ef362fb24fbe75b13d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\22.pdi" size="407" crc="937372d4" md5="63a0c568b4dcb32ec7acd26dd8d397f1" sha1="82d4d077d3b404a063f5c9604eeb2bd1048f711a"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\23.pdi" size="392" crc="e1f3073f" md5="5271ee8a4d183f7d2449118962f3b6a0" sha1="f7fcdef178a41b1256490956d6179723e6ff8f6f"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\24.pdi" size="395" crc="46c21cad" md5="66b7f932763e1f1d5a72df9a1740b507" sha1="e9d9313b72e2d8938521926a7e398ad04f5d8167"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\25.pdi" size="375" crc="5e490206" md5="ca79314a0146b01437525dde8fd747b6" sha1="a880d218affe786353dfc39bbc54bb5bf2829e92"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\26.pdi" size="335" crc="5e62e387" md5="a9a8a0088f3584716196dfc8e902e0b4" sha1="fe49eaf2f5755ba600c5cd41bbe1f9b0d4a5ac3a"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\27.pdi" size="334" crc="a2a306e5" md5="72aa0cb3f39f7ef0ebe0357497c7121a" sha1="ad7e5dc53bb3623f70c8d9f1e3bb385950059c0e"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\28.pdi" size="309" crc="a45c651f" md5="fcfb2a05a264dd82f8f3f0971373e7d7" sha1="d9c6bb04ea60dc21af719a621f349c7207c5cfb9"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\29.pdi" size="241" crc="dab36aab" md5="f7968c857e43a7f2e5d40cbb82290c47" sha1="66eb24dc31ed26c0ec1ee74c4e86bb279ecb4b5f"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\3.pdi" size="1117" crc="9c3b41ca" md5="94a766b97edcc0b76509ae7142b38dfc" sha1="fe78f133c6a5d570f54848514b0819169528503c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\30.pdi" size="233" crc="a61c911d" md5="22f9b424bf6b43e66701aaea1ac23837" sha1="4108162d972c98d152db2bfc4b0a3570bca0228e"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\31.pdi" size="223" crc="34dc4f68" md5="62c9b7564bf2f8daf9e0f56f73bcc051" sha1="f73c53035d6e09deba345c96b9daa8a75ce64440"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\32.pdi" size="213" crc="68bf400e" md5="f58b8035abe8970bfb2ad1fc3e45bf37" sha1="ec36c48be14d1223e68914982d3e7b2be81e11d6"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\33.pdi" size="169" crc="9b933f64" md5="c86776e20f97bda14f14abbb2b64c84d" sha1="ea492dad582184b808a2c0c678305f08eca9c343"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\34.pdi" size="174" crc="03a543de" md5="2ff952667c4095b2a18ca710a0baaaff" sha1="e7230290ac6b7ccaa8cb3f4fdc1fc1fe1f0fbe1f"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\35.pdi" size="173" crc="ace1b223" md5="8e4779c98f866957c95476318d2db0e0" sha1="a7e05b47f57b488e8e90192031891de4914baa33"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\36.pdi" size="159" crc="4dc2bcbe" md5="6f426a0ea9d8ff884666c4c225af7855" sha1="1cc738dd0885cc8123247182ae97c4f485fbed58"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\37.pdi" size="143" crc="99d65df6" md5="1239e49e2f82eede6b95a36134fd1382" sha1="cba547848342199dcc3c2627591253c56e75c0e1"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\38.pdi" size="127" crc="df576e85" md5="0d421ad52834e590ddee89bd9f3b104e" sha1="bfe322333955a5e243dd695292248b2610c00d87"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\39.pdi" size="111" crc="8758b97f" md5="fdaff825ed6ea021e06483db8aba35e0" sha1="0a34566114de7b8413a4f6d1d5aab3cbd6ae336b"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\4.pdi" size="1126" crc="2e9db6fb" md5="d8a1461c99c17bf101f22d4662bb9197" sha1="a91bd66327f95ebe1dd9a2f21a01e89bbcc82374"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\40.pdi" size="108" crc="f9c59d17" md5="a65025b2c144d1836e5bfb2cb39ec97d" sha1="f20b25c26192ff45492097b6334cfe59bb7aa9ea"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\41.pdi" size="101" crc="82006b63" md5="415dd4d60423fba4fb89ce90760a30ed" sha1="afa23b035a4d9045459e920d17078aa572110ffb"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\42.pdi" size="84" crc="4c9f2274" md5="7eb2e985769994c75d801bdda313dcb8" sha1="d2bbc0194e1df594256b06649cb249fe26ae6777"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\43.pdi" size="78" crc="10f3155d" md5="c7e4fedca472424e4d58c8f18a1bc837" sha1="dc1170751ed73a684d8e65435ff86b813d3f172d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\44.pdi" size="193" crc="0d849dfe" md5="141a2460f7ff72023367233b253fa6f9" sha1="df547751ad37bd0e29e7ef8f44056c1af8463584"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\5.pdi" size="1099" crc="59967717" md5="e5e3635488de7af744a52859c765cb5e" sha1="02910c97690f3c5d86de386bde90ca51951302c9"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\6.pdi" size="998" crc="ffd3b31e" md5="cc5b82891a5eae1371062422a3c28d05" sha1="05e10439a1348b805066e4b3e02dd08c8b8ec369"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\7.pdi" size="932" crc="d8771b35" md5="9564eb16ab275c30d9c3342a7e4078ba" sha1="33588b1281edc61ca3c3243513b93999534fb7ed"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\8.pdi" size="845" crc="e9420fff" md5="411cd9695b02974d64f1659d5b8a06f5" sha1="9bbc7e6eb4409d4fd1266cf25028a90a5b5eb38d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\9.pdi" size="803" crc="cf22d149" md5="0a22826068310b6fb686e40ad0db477c" sha1="046a0cd432d7205dc3e12a189873dc38a8f5dfae"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\rocketing.pda" size="604176" crc="e369dab1" md5="d2794bf5de196ba66c5cc89eeb1fc461" sha1="99c70697ca6da96a88a42923bf94d610bd07e411"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\launcher\wrapping-pattern.pdi" size="731" crc="0d519522" md5="380c31d1c3b2bc14064dc90e42d87806" sha1="1a4728c92a2338dc9a610a8b5379840f1014828c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\main.pdz" size="96462" crc="0eb06457" md5="a1aedbe6e6f61415cb6a53a588cce82d" sha1="1d26b69e242ccd135e033ab0e0b774eb332bdb66"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\pdxinfo" size="269" crc="1857aede" md5="29a0bc97abd09fa49f8b11fdd77cc216" sha1="c090ebf0b94f35ba56fe100087f2c594a3579fd6"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\accept.pda" size="15602" crc="d21c1f38" md5="ef2ce07eb52e9a061a7b916de4544de9" sha1="7c08d6d0df1dc056d186e396d6f167c17554f658"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\collect.pda" size="4728" crc="4cf0bda6" md5="361c4a03d685ab867882939c8fdc39c9" sha1="0cd4f8b4ce149f08191f2b93ef9d47656b07962b"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\cutsceneblip.pda" size="6314" crc="753d5682" md5="2efcaf6c0850f6f56e42ca5179afd9bc" sha1="5144477ab52d0008b523a3605b5ebc0b032bee1d"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\cutsceneexplosion.pda" size="16507" crc="2b9f651c" md5="b0470d205ceb3e7211422dc68ecfe145" sha1="6b319e0b71487f1514c11a1f4b0f1100a861453c"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\die.pda" size="35869" crc="723a7dd1" md5="c7605368d27f4f132e71c0cd88fa0c76" sha1="554db855f814d188635e9325139495a5521a128e"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\select.pda" size="10912" crc="0bd37806" md5="99bd1b12951724a7c26f5bf77318fc7e" sha1="dbfff32862854cf8e5dd8f9b770f8c845a4411d8"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song1.pda" size="2436114" crc="a725c0fb" md5="1e3893065d22d97283715c8548ebc23f" sha1="d91f53094ed356630038638f198e489af2e04ca2"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song2.pda" size="2391058" crc="04fe061a" md5="bea9e40b721d6aa3940f600ca5a1a45f" sha1="2afb06a4d0a8b5225ef409eefb8c672d507754cf"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song3.pda" size="1813520" crc="8029cee8" md5="48c5da4887595a2b4d3f2aa19ffd957b" sha1="b0475a7dfb844fc081dee46f02b6077da81f1077"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song4.pda" size="2557970" crc="856e0301" md5="28beb4b9e1015932c41ef5b74a5f1b1e" sha1="f1ce5339b4f472cbec346f5dd9012e3425b3e13a"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song5.pda" size="3575826" crc="e0072682" md5="2c8209ad381f549f190b9ff620c800a0" sha1="a2e4a4bd72d0965aaa19f662089a7377eb16ee87"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song6.pda" size="1462290" crc="aa0c72bc" md5="13f85c1f5abb34626eb01a809c1d4ef3" sha1="43eb214f20b16def09ac8fa2224e676d732eb537"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song7.pda" size="1263634" crc="e5d10d40" md5="a0c919ab80d01c7ba2dcbe3f4b2f3733" sha1="04c580665cc0425f7b241108593e1064cfb4e5cd"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song8.pda" size="2557970" crc="653e6a05" md5="9ed0203539544fa51a4e6570fe6077c3" sha1="2c8b0291777be44e2de5b6e9f89ab079e08cf240"/>
+		<rom name="Rocket Bytes v1.1.0 (2022-08-01)(PossiblyAxolotl).pdx\thankyous.txt" size="284" crc="0ff93868" md5="e90d1f204d1aead55d10d7c5ad428839" sha1="884bf590d55b5fafafa9d712fad17e6676b91531"/>
+	</game>
+	<game name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl)">
+		<description>Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl)</description>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\bdata\bl1.json" size="61803" crc="7ea5cf81" md5="e84ba4d91be26a66e26007d761c658f5" sha1="6e45f7c9e201279a050dfe4f0402d3e89c96400e"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\bdata\bl2.json" size="27120" crc="5b8ef94e" md5="fe6d006da1873b9b6a241543b9045dab" sha1="e8f83b271640518a0aeacb16fba3bcfed0f72188"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\bdata\bl3.json" size="25323" crc="c65893fe" md5="aaeeceec16be9d6143fa5053d7ab787a" sha1="db1706a2fb058b6087d4752f090fe846b0b36003"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\1. HOOK.json" size="9967" crc="1a658929" md5="63330dd6d3c4258c527746c5aeb7c324" sha1="981ec7ce09f9501316293c3120723997bc66f66b"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\10. CITY.json" size="26251" crc="23fc02aa" md5="4d09cff98586710c5b92fcaca0fd1a85" sha1="4c77ac30091428d9c348013e1eb3c532172504bb"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\11. FLOWER.json" size="24931" crc="6c3e37e0" md5="14126baf64b51baab6faaf12b90c8f52" sha1="822a3867a40eb85adfd9a0d4ba2126f771b676f1"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\12. BOXES.json" size="23581" crc="1a73397b" md5="d4ffd9c361ec20d95e052f8947b8b83d" sha1="31de18d4eb3a00e3c039e50600a98af52be07692"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\13. SNAKE.json" size="22251" crc="d0fa40c7" md5="3d20f7f7322710b4ccf40f4c08395168" sha1="e142d53b8e37d9f6cb323b347f3282d9252fbee5"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\14. TOWER.json" size="23321" crc="f660c21f" md5="ab5287393f00c1c434e0d4677c4e840d" sha1="374458acb7321c4ff23dda9dc127a91d2ace8172"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\15. ESCAPE.json" size="29731" crc="f228d53d" md5="f8f73f6c70b3d1901cb04802f1726418" sha1="099fa5a3bd0b9b2b5961068a340887aa63ee9a17"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\2. ROCKET.json" size="12961" crc="a59f4a16" md5="f3e7813daac68ac3eb53c9ae02f4bee0" sha1="3013196c1375bd1b16fb98ea7bb3442d82ea0bfa"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\3. HUT.json" size="6425" crc="2756bbe1" md5="741d6bf9840dfe357b2bfeaa96539bb3" sha1="8d23c8260d96c089b3a418009b081e872c8cd1b9"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\4. SPINNER.json" size="6486" crc="d3475534" md5="5b9e09a622bbd22fd25f2d627d695eaa" sha1="fbb38affc5ec7c9ec995ddabd6db04f8be18e71c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\5. SHUTTLE.json" size="16771" crc="67046452" md5="1807a0d457fd8710bb8ee97b98c542ff" sha1="6e9cab3b57ec2974b827efcc1143dd2f52582dfa"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\6. SHELL.json" size="14184" crc="ea9a4862" md5="46d02b5dc97f032e8d2e50b95222c8c1" sha1="36ec0e80be1a9f6bf02c798ce0b228c2bec1b189"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\7. PYRAMID.json" size="17688" crc="9fa78967" md5="11281d0dc79e93df48155dbb088658c2" sha1="5ce1099be0aac1fa073dd5a6e5d5ebba20baea8f"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\8. KITCHEN.json" size="28387" crc="9ff10921" md5="58fecd33620af87009bea3f7324869b0" sha1="cff0ade4c9ee7c670dc5dcf1e38195ca3c8cc5f8"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\data\9. LADDER.json" size="21302" crc="00445969" md5="f5aa5c07083ed6d85fcfd3576b14bab4" sha1="3cbfd5028e96c38f8723bb512f36119b4badc88c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\aboutme.pdi" size="744" crc="ff9aa4a3" md5="6036bc1df4f82aa95779b1a6078e1e12" sha1="3b3fee71841490791707aaf06b32371bcaab2ab0"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\add.pdi" size="82" crc="96c7bd5f" md5="d7fea622a3f892458b7974cdcc350613" sha1="cec11b314e33db0f6cd19488f7e2bb8d68c27001"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bButton.pdi" size="117" crc="cd9c19c3" md5="586b64a76e05628a450d1468cafbed2e" sha1="c363066f3dae03f2fc36d46aa111df8588ad2b1d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\big.pft" size="1252" crc="78a5bba6" md5="d35eb522e81c8c10e84964b7587f0bda" sha1="bc4262798ddf4d8aae1e9ccb1ee46f80cdfa4516"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bigrocket.pdi" size="220" crc="e115d411" md5="e34f9933453b954ac2dcafe9e683c12d" sha1="4029272250df11faf1b710e19b7825304f465a47"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bigrocketfire.pdt" size="289" crc="41f22335" md5="45b62e46c6b032fd720c5d7845fb1d26" sha1="f9fc19c304a648699f191697a8178044ed74d88e"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bigVisibleSpaces.pft" size="1249" crc="26987aa7" md5="fd2f9121697ff311e3d7c70cb7ef5abe" sha1="e6d08a82c2c777ed568a3381548bbcf929e03de0"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\bytes.pdi" size="258" crc="f99f344a" md5="81a1df175e4829560cfc13f6d9108980" sha1="5269917f8c474e03506ebf9e9564c6b4d93e18ae"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\cover1bit.pdi" size="158" crc="0c015b23" md5="570d1a04f4dd0725d352c1721e9dbcf1" sha1="4c310ec819a2323e0e2372fd58642173e7b416bb"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\cursor.pdi" size="103" crc="93d4d245" md5="ae36e8a7a0da613aa4e5d4a8d828ff8b" sha1="31c46cc4e782b4b3bdede5b06af69c2cde728fcd"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\cursor2.pdi" size="70" crc="1d225af2" md5="30f38168791906d21c29d628a12a40ea" sha1="f30a5faf6a829d1f89fef9b20689d3a7f86e7463"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\dither.pdi" size="57" crc="bb10df99" md5="624eec0a967090cc86a350f604594df3" sha1="6c778fb59fefc9509ddfd242fbaa77cdb55de4f0"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\endplatform.pdi" size="213" crc="bf76ddd5" md5="370a8e72160b07f5e4aab84936a8ee3e" sha1="2b53dcace15ba81342c282272676cabd876107e9"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\exit.pdi" size="119" crc="2e0ecad2" md5="8f38efc53f7fab1eb68205694f6c9f3e" sha1="7610d0309dff0ad591b0487190695388aca69df2"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\eye.pdi" size="76" crc="bde25a1f" md5="2f65b824ad26b8621ddea09254a5d381" sha1="a8d7fd56ff2a7758af75c54e10f187f11d64aebb"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\fire.pdt" size="165" crc="6c53c6ae" md5="7fcca4dbafe50f50590c6e2a7fdd3f52" sha1="fce323691e375daa890fc3195811f2f8a474d019"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\floppy.pdi" size="85" crc="d682502c" md5="9d968ef0982eda1a1ec2f4d142890894" sha1="d6083c144954ed9574067ab1a5badfd845d2faf8"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\floppyT.pdt" size="437" crc="4effddf4" md5="c9fec09c1662e9889cbf69fc1d926d89" sha1="b6dc29fdc41032229cbf558473e21ad1a8c79c59"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\fuel.pdt" size="205" crc="aa5fb29f" md5="900ac9c2b1405510d734c62c4aaf625a" sha1="eeefe382acd4fa76d53a03f8651e614d4355c4f7"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\grid.pdi" size="60" crc="732f3cc4" md5="6d2e6851cf78d7f2b631c109e7f5d3e6" sha1="0a748f4f5d4a226f1b65035f000bb07f7525a175"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\leave.pdi" size="77" crc="4bac9172" md5="3630c6c24c200eb5585a7debf0a1fca2" sha1="368e46caf77539a99dd16e23ef3d4a17c548880d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\lightning.pdi" size="91" crc="66a7faa7" md5="d0ba51b391f1c2e6aed046d4dcfd0b32" sha1="27cac79bb2f1fc7de0e7a2817899c9647bc213d6"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\line.pdi" size="77" crc="d9fb2acd" md5="2a3d94fff3d75ee42e7dcaf17adc304e" sha1="583a2ab513c7ff7083d91ee622ba3cfa4001e8f2"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\links.pdi" size="1125" crc="fcf4d6ac" md5="6ba191548559b10c667b565737c24ade" sha1="986acbee8ded0b63c70b8bb6d25c19de7c6e5262"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\music.pdi" size="84" crc="e7463ada" md5="eb037fa675e7d1e0e9f55972d59abb26" sha1="91c3055b73ba3bc31bc210f069ebbaae6e2dc97d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\nothing.pdi" size="63" crc="cb869fea" md5="1e54bc00a8c28bb0384b08aa5d9b16f6" sha1="a3e45c088883fd257d4437223f9cbad474323c0d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\rocket.pdi" size="129" crc="d5551fa0" md5="e455443fc3e97700167e3760ce5ac11e" sha1="586e1ec586812dad67ae7960c8bea1e07a5b068c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\sawblades.pdt" size="126" crc="8f3d7229" md5="059920dc7703fd163b8f99c4fdfdac11" sha1="cdc3356a395b6db85d0beb9fa7606c3523611874"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\sidebar.pdi" size="265" crc="8e348630" md5="8b359a56f24b3bbaeb81a599a92467ce" sha1="a1efa9376613abe2038da1df2be3ad0231d12d23"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\skullEmoji.pdi" size="85" crc="4985db26" md5="6394a44697e206fd7b057ba31eada462" sha1="03535572d1cc651263a7b5843f63f26c9382213d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\small.pft" size="965" crc="4a91defb" md5="7a1c53b130f263f3f2b9be72f3de7be0" sha1="8c19d0a9e8f558361fa68d9abc6c1f0ca5b9e540"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\spin.pdi" size="93" crc="acb4d55e" md5="e1a6793a719c73d8a8885ca26cd7df5e" sha1="8ea4528d38de7d0ad370b3477967a0acb49d51a1"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\square.pdi" size="115" crc="358ab9de" md5="98e781ef05ed21092e27136419c26e3f" sha1="49174253081545957f8b0d61fa0119de3a7d2fc2"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\starscraper.pdi" size="1008" crc="35d75351" md5="bee5cb4038d5ad37ded140b34de4163d" sha1="36edcc81fc541d50fd8a9258d3a5c122c69057b0"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\start.pdi" size="109" crc="04389aef" md5="720f5601366787c1956bd0a449224d65" sha1="167dbf57592b71fd45be6b002523e5654d350626"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\stay.pdi" size="86" crc="e539952c" md5="d941a9e46ed2404520745a0b7b0b2df3" sha1="12e118f1b169e8ac2010d24d69ca8bf1e64d2785"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\switch.pdt" size="93" crc="0ef4d844" md5="8c1f1298c7ec2709b1c47c9e82f1d322" sha1="7c643e1d05d52edbea136e8da253f589b9c6be1c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\Symbols.pft" size="554" crc="04bea58c" md5="b5e38468eb1f4be6564e582cc27b715f" sha1="e9cc77fa1fac7a347f797974e9fa94b38142ec40"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\target.pdi" size="66" crc="6dc11278" md5="4718b002df19b620b2cc521ef5ff435e" sha1="b42ef789d16bf7f5c1a75d535831ab7d48e83a96"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\tiles.pdt" size="346" crc="5f2559b9" md5="9ce1b40379761c6bf4bd88383a5aafe3" sha1="c4b4e12419ea2a7aac822a59f1772a0f7add5071"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\gfx\warningsign.pdi" size="87" crc="6d04c80b" md5="ff6512550041b35de07e9fbfd53048cf" sha1="bd7972ee036b23595ee2fae96322e43fa3ec9a82"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\card-pressed.pdi" size="1066" crc="58bfd3d4" md5="b280b41c8bdaed30cc470adce2153515" sha1="bb544c2516f1c489fb8d9d430cd6e6c698851abe"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\card.pdi" size="1041" crc="20ec466d" md5="e0ad1885075183992a907bed8cc2d187" sha1="b0a6dfeabc5f05664499f5851d41739f9f38dc18"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\1.pdi" size="1074" crc="aaf2687e" md5="5eea9fe3d6bf456a2f7d493a71cb6f7b" sha1="7635094af1833abea5509200ce70d19f0ed9599f"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\10.pdi" size="748" crc="96f5d135" md5="257a49987374c1de9de2eadf6c5399da" sha1="cf1e2db8fddba9513fe7eef48316c67903b6669e"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\11.pdi" size="704" crc="187d467e" md5="d885dc094653f9282856fd5c4a83e915" sha1="3add559933c75f05ba7ef485ac0d46f97af05c02"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\12.pdi" size="684" crc="fb51c711" md5="449ad8e6d2adeeb117d3c2c3a9032670" sha1="07fdb692c08cddc16dc9f99df52e1397a9adb92c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\13.pdi" size="654" crc="f86b73d6" md5="5d62faaaa4c6015c99c725a5de44151d" sha1="7c51151ab848ad3c3235a5352343b4cce69d8678"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\14.pdi" size="632" crc="9886e008" md5="8efd907747c1115984ce47c24e1196f2" sha1="f9a1c5644ca05c08c135726c3c41de79dbfac526"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\15.pdi" size="596" crc="5eba9a88" md5="7243947f8047e7bec8111552552e18ca" sha1="7e04fd17a8ca46429d6158c1a98bf010c66b1c9b"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\16.pdi" size="571" crc="5f56f0e7" md5="7e4e41c06d196e0c639fa67761e9f2d5" sha1="dd10ec9e635f4d64561b3aa1c53a643320458ec7"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\17.pdi" size="559" crc="b0bfcf34" md5="5771d8f6a55b812687e1e7ea8baa8cad" sha1="5feaad5add30fc437dcf7eb479b9909d6a9cc498"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\18.pdi" size="543" crc="afa965d7" md5="b10b2fef592ac5fdc431a3a2172b1a5b" sha1="2cd80c4504e68adc013ec2e6d95fc926806d18ea"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\19.pdi" size="514" crc="97f35417" md5="4df263d3fab17c03d7752bdbe3aa0abb" sha1="2fff421b796fdabc5459df5f5084713b636ab64e"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\2.pdi" size="1093" crc="efe1583e" md5="ff0327a2459100eec4da7baee6796e43" sha1="cd6fba2208eef08e9fb773331e31428ab886cc73"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\20.pdi" size="466" crc="eb1d53f2" md5="a50e669ff677c452bb1bd3ae8a270416" sha1="dbe9d3f8b1b7ea64705214294935138e4bb5bc3a"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\21.pdi" size="433" crc="95c32795" md5="f5fd3673c9eafe97a251130c7d442502" sha1="166c1751d891221cb1a9c1ef362fb24fbe75b13d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\22.pdi" size="407" crc="937372d4" md5="63a0c568b4dcb32ec7acd26dd8d397f1" sha1="82d4d077d3b404a063f5c9604eeb2bd1048f711a"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\23.pdi" size="392" crc="e1f3073f" md5="5271ee8a4d183f7d2449118962f3b6a0" sha1="f7fcdef178a41b1256490956d6179723e6ff8f6f"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\24.pdi" size="395" crc="46c21cad" md5="66b7f932763e1f1d5a72df9a1740b507" sha1="e9d9313b72e2d8938521926a7e398ad04f5d8167"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\25.pdi" size="375" crc="5e490206" md5="ca79314a0146b01437525dde8fd747b6" sha1="a880d218affe786353dfc39bbc54bb5bf2829e92"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\26.pdi" size="335" crc="5e62e387" md5="a9a8a0088f3584716196dfc8e902e0b4" sha1="fe49eaf2f5755ba600c5cd41bbe1f9b0d4a5ac3a"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\27.pdi" size="334" crc="a2a306e5" md5="72aa0cb3f39f7ef0ebe0357497c7121a" sha1="ad7e5dc53bb3623f70c8d9f1e3bb385950059c0e"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\28.pdi" size="309" crc="a45c651f" md5="fcfb2a05a264dd82f8f3f0971373e7d7" sha1="d9c6bb04ea60dc21af719a621f349c7207c5cfb9"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\29.pdi" size="241" crc="dab36aab" md5="f7968c857e43a7f2e5d40cbb82290c47" sha1="66eb24dc31ed26c0ec1ee74c4e86bb279ecb4b5f"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\3.pdi" size="1117" crc="9c3b41ca" md5="94a766b97edcc0b76509ae7142b38dfc" sha1="fe78f133c6a5d570f54848514b0819169528503c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\30.pdi" size="233" crc="a61c911d" md5="22f9b424bf6b43e66701aaea1ac23837" sha1="4108162d972c98d152db2bfc4b0a3570bca0228e"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\31.pdi" size="223" crc="34dc4f68" md5="62c9b7564bf2f8daf9e0f56f73bcc051" sha1="f73c53035d6e09deba345c96b9daa8a75ce64440"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\32.pdi" size="213" crc="68bf400e" md5="f58b8035abe8970bfb2ad1fc3e45bf37" sha1="ec36c48be14d1223e68914982d3e7b2be81e11d6"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\33.pdi" size="169" crc="9b933f64" md5="c86776e20f97bda14f14abbb2b64c84d" sha1="ea492dad582184b808a2c0c678305f08eca9c343"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\34.pdi" size="174" crc="03a543de" md5="2ff952667c4095b2a18ca710a0baaaff" sha1="e7230290ac6b7ccaa8cb3f4fdc1fc1fe1f0fbe1f"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\35.pdi" size="173" crc="ace1b223" md5="8e4779c98f866957c95476318d2db0e0" sha1="a7e05b47f57b488e8e90192031891de4914baa33"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\36.pdi" size="159" crc="4dc2bcbe" md5="6f426a0ea9d8ff884666c4c225af7855" sha1="1cc738dd0885cc8123247182ae97c4f485fbed58"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\37.pdi" size="143" crc="99d65df6" md5="1239e49e2f82eede6b95a36134fd1382" sha1="cba547848342199dcc3c2627591253c56e75c0e1"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\38.pdi" size="127" crc="df576e85" md5="0d421ad52834e590ddee89bd9f3b104e" sha1="bfe322333955a5e243dd695292248b2610c00d87"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\39.pdi" size="111" crc="8758b97f" md5="fdaff825ed6ea021e06483db8aba35e0" sha1="0a34566114de7b8413a4f6d1d5aab3cbd6ae336b"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\4.pdi" size="1126" crc="2e9db6fb" md5="d8a1461c99c17bf101f22d4662bb9197" sha1="a91bd66327f95ebe1dd9a2f21a01e89bbcc82374"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\40.pdi" size="108" crc="f9c59d17" md5="a65025b2c144d1836e5bfb2cb39ec97d" sha1="f20b25c26192ff45492097b6334cfe59bb7aa9ea"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\41.pdi" size="101" crc="82006b63" md5="415dd4d60423fba4fb89ce90760a30ed" sha1="afa23b035a4d9045459e920d17078aa572110ffb"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\42.pdi" size="84" crc="4c9f2274" md5="7eb2e985769994c75d801bdda313dcb8" sha1="d2bbc0194e1df594256b06649cb249fe26ae6777"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\43.pdi" size="78" crc="10f3155d" md5="c7e4fedca472424e4d58c8f18a1bc837" sha1="dc1170751ed73a684d8e65435ff86b813d3f172d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\44.pdi" size="193" crc="0d849dfe" md5="141a2460f7ff72023367233b253fa6f9" sha1="df547751ad37bd0e29e7ef8f44056c1af8463584"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\5.pdi" size="1099" crc="59967717" md5="e5e3635488de7af744a52859c765cb5e" sha1="02910c97690f3c5d86de386bde90ca51951302c9"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\6.pdi" size="998" crc="ffd3b31e" md5="cc5b82891a5eae1371062422a3c28d05" sha1="05e10439a1348b805066e4b3e02dd08c8b8ec369"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\7.pdi" size="932" crc="d8771b35" md5="9564eb16ab275c30d9c3342a7e4078ba" sha1="33588b1281edc61ca3c3243513b93999534fb7ed"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\8.pdi" size="845" crc="e9420fff" md5="411cd9695b02974d64f1659d5b8a06f5" sha1="9bbc7e6eb4409d4fd1266cf25028a90a5b5eb38d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\launchImages\9.pdi" size="803" crc="cf22d149" md5="0a22826068310b6fb686e40ad0db477c" sha1="046a0cd432d7205dc3e12a189873dc38a8f5dfae"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\rocketing.pda" size="604176" crc="e369dab1" md5="d2794bf5de196ba66c5cc89eeb1fc461" sha1="99c70697ca6da96a88a42923bf94d610bd07e411"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\launcher\wrapping-pattern.pdi" size="731" crc="0d519522" md5="380c31d1c3b2bc14064dc90e42d87806" sha1="1a4728c92a2338dc9a610a8b5379840f1014828c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\main.pdz" size="96343" crc="5df9f50e" md5="1a827ce91bd4eb09aa2701168fb2585e" sha1="23aa010e44778a980327a700910cad861825ffa0"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\pdxinfo" size="269" crc="cc3251dc" md5="5897392705766c2a40dcdff71df8852e" sha1="33008c87f903ddbe6f36af26a84f44247242f191"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\accept.pda" size="15602" crc="d21c1f38" md5="ef2ce07eb52e9a061a7b916de4544de9" sha1="7c08d6d0df1dc056d186e396d6f167c17554f658"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\collect.pda" size="4728" crc="4cf0bda6" md5="361c4a03d685ab867882939c8fdc39c9" sha1="0cd4f8b4ce149f08191f2b93ef9d47656b07962b"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\cutsceneblip.pda" size="6314" crc="753d5682" md5="2efcaf6c0850f6f56e42ca5179afd9bc" sha1="5144477ab52d0008b523a3605b5ebc0b032bee1d"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\cutsceneexplosion.pda" size="16507" crc="2b9f651c" md5="b0470d205ceb3e7211422dc68ecfe145" sha1="6b319e0b71487f1514c11a1f4b0f1100a861453c"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\die.pda" size="35869" crc="723a7dd1" md5="c7605368d27f4f132e71c0cd88fa0c76" sha1="554db855f814d188635e9325139495a5521a128e"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\select.pda" size="10912" crc="0bd37806" md5="99bd1b12951724a7c26f5bf77318fc7e" sha1="dbfff32862854cf8e5dd8f9b770f8c845a4411d8"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song1.pda" size="2436114" crc="a725c0fb" md5="1e3893065d22d97283715c8548ebc23f" sha1="d91f53094ed356630038638f198e489af2e04ca2"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song2.pda" size="2391058" crc="04fe061a" md5="bea9e40b721d6aa3940f600ca5a1a45f" sha1="2afb06a4d0a8b5225ef409eefb8c672d507754cf"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song3.pda" size="1813520" crc="8029cee8" md5="48c5da4887595a2b4d3f2aa19ffd957b" sha1="b0475a7dfb844fc081dee46f02b6077da81f1077"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song4.pda" size="2557970" crc="856e0301" md5="28beb4b9e1015932c41ef5b74a5f1b1e" sha1="f1ce5339b4f472cbec346f5dd9012e3425b3e13a"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song5.pda" size="3575826" crc="e0072682" md5="2c8209ad381f549f190b9ff620c800a0" sha1="a2e4a4bd72d0965aaa19f662089a7377eb16ee87"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song6.pda" size="1462290" crc="aa0c72bc" md5="13f85c1f5abb34626eb01a809c1d4ef3" sha1="43eb214f20b16def09ac8fa2224e676d732eb537"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song7.pda" size="1263634" crc="e5d10d40" md5="a0c919ab80d01c7ba2dcbe3f4b2f3733" sha1="04c580665cc0425f7b241108593e1064cfb4e5cd"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\sfx\song8.pda" size="2557970" crc="653e6a05" md5="9ed0203539544fa51a4e6570fe6077c3" sha1="2c8b0291777be44e2de5b6e9f89ab079e08cf240"/>
+		<rom name="Rocket Bytes v1.1.1 (2022-08-01)(PossiblyAxolotl).pdx\thankyous.txt" size="284" crc="0ff93868" md5="e90d1f204d1aead55d10d7c5ad428839" sha1="884bf590d55b5fafafa9d712fad17e6676b91531"/>
+	</game>
+	<game name="Shopping Spree (2022-06-27)(PossiblyAxolotl)">
+		<description>Shopping Spree (2022-06-27)(PossiblyAxolotl)</description>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\button.pdt" size="526" crc="09af4a16" md5="4baea58ff1270a633b8972d36d70424d" sha1="54165513c486353da9844e7c1e013c5b12b50c89"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\cart.pdi" size="121" crc="da4ccf19" md5="1eeb437d6358b5318bdda3b7fca17c88" sha1="3b805105d8cca41d4c3f8ce02f69d0a2ac607a78"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\comic.pdi" size="1712" crc="54cf4f35" md5="0966d520cc82177b114fd4e171f6ff00" sha1="3a01d076ba315f111f551ed660583c4181fb7d85"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\enemy.pdt" size="252" crc="c51bb529" md5="bf123ef96fb396a5fd920b964f9518da" sha1="74fba42fa68bf61ff3b8d5cae53ebd82319cac7a"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\floor.pdi" size="66" crc="720d359d" md5="aad8d3ba62fd259d54865f6b5cee467f" sha1="0b238716e978449d7de2de523a8e8febcb6aad78"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\font.pft" size="466" crc="4c061f63" md5="8d06bf9cdfe3cf0bb73430a5f1c3c7cc" sha1="3c530c5b3b1ccbff5e50a9e2cfc2c28ae773d5f7"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\logo.pdi" size="2030" crc="8206571f" md5="48f46bd8e861859d751ae3e463a7529f" sha1="dd1b5b8585b706b0dbb9e66b9e44d9735ca0303b"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\player.pdt" size="243" crc="6b0ae791" md5="74339eb6a9cdf1bde6cd4c30247edaaa" sha1="424a671a1b484fb02e3bb1ecc8a340a39d0b3723"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\security.pdi" size="191" crc="d11257ac" md5="2ec492963bb0fe1f422c0c349f9b7185" sha1="037ea5113d140643d88a0b918fdc8242f58ffec9"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\gfx\square.pdt" size="399" crc="bf8f6f97" md5="1b1619ca9291901fb52476d7d5f3e2e9" sha1="93f592f55ee4d88adb864f12692ef27f9c5dc541"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\launcher\card.pdi" size="1787" crc="32ae4da5" md5="0d1934e8b8fd1248c91aecaaf63da085" sha1="f0e5714fc60d92ce3af4f6dfa2ad2fa2ce919375"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\main.pdz" size="40330" crc="c119acd1" md5="073202b9ddf7e662609f13c5bae6dc7b" sha1="8087536487504d69e7ce0f3b18c364e5d0488304"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\pdxinfo" size="370" crc="3f89c1d3" md5="bc1058b89822599a1b4d296e7eee383e" sha1="6418cc332a5c1a5f9836fa2f206e948c77e9e4ed"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\sfx\collect.pda" size="15532" crc="c6d24fb4" md5="9674c8660616ea8f759c08d56a02bc08" sha1="b170f2a2028e823e66b6ca326acf920d8f5fbc8e"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\sfx\lose.pda" size="44186" crc="3bf5cb13" md5="c7e7e89699680b1d6ed577049b5ecccf" sha1="404b08b6c3f2509b2462c1437410611902e1aab9"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\sfx\play.pda" size="30292" crc="75799e91" md5="9d033b4624ee9ad1d7cefb04fc212619" sha1="c9036568f5699502367a5e44f514cbb1b9578b2f"/>
+		<rom name="Shopping Spree (2022-06-27)(PossiblyAxolotl).pdx\sfx\tree.pda" size="16933904" crc="301fe9b8" md5="457f08777c2d9c9f050d623a243eb6d6" sha1="13ea755500da3006ca7da9a9ad02009d7aa45753"/>
+	</game>
+</datafile>

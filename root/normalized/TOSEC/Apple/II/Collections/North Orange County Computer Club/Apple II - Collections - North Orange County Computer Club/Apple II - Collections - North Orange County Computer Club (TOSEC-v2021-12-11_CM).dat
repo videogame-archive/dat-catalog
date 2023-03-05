@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Collections - North Orange County Computer Club</name>
+		<description>Apple II - Collections - North Orange County Computer Club (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NOCCC Disk #81 - Print Shop Graphics Disk 1 (19xx)(North Orange County Computer Club)(US)[b boot]">
+		<description>NOCCC Disk #81 - Print Shop Graphics Disk 1 (19xx)(North Orange County Computer Club)(US)[b boot]</description>
+		<rom name="NOCCC Disk #81 - Print Shop Graphics Disk 1 (19xx)(North Orange County Computer Club)(US)[b boot].dsk" size="143360" crc="76755eb4" md5="900540fe6a42073107f4a7bbf464778e" sha1="6c295f8dca5167c3beb413edd0ab3b5e8495382c"/>
+	</game>
+	<game name="NOCCC Disk #84 - Print Shop Graphics Disk 2 (19xx)(North Orange County Computer Club)(US)">
+		<description>NOCCC Disk #84 - Print Shop Graphics Disk 2 (19xx)(North Orange County Computer Club)(US)</description>
+		<rom name="NOCCC Disk #84 - Print Shop Graphics Disk 2 (19xx)(North Orange County Computer Club)(US).dsk" size="143360" crc="09ab4cc8" md5="8b238af79667a0df325eac4fbde7e7b8" sha1="3cafa88b30cff4a3db8668a53d5355354d6e65f3"/>
+	</game>
+	<game name="NOCCC Disk #87 - Print Shop Graphics Disk 3 (19xx)(North Orange County Computer Club)(US)">
+		<description>NOCCC Disk #87 - Print Shop Graphics Disk 3 (19xx)(North Orange County Computer Club)(US)</description>
+		<rom name="NOCCC Disk #87 - Print Shop Graphics Disk 3 (19xx)(North Orange County Computer Club)(US).dsk" size="143360" crc="471416d7" md5="dbb5eae926ce46a82cff5ea0893afd5b" sha1="18555a441f928045ade68af01f5e9c5df854bdea"/>
+	</game>
+	<game name="NOCCC Disk #90 - Print Shop Graphics Disk 4 (19xx)(North Orange County Computer Club)(US)">
+		<description>NOCCC Disk #90 - Print Shop Graphics Disk 4 (19xx)(North Orange County Computer Club)(US)</description>
+		<rom name="NOCCC Disk #90 - Print Shop Graphics Disk 4 (19xx)(North Orange County Computer Club)(US).dsk" size="143360" crc="a59772de" md5="47ae47303fba754d459aa82657462810" sha1="5755e7fa1d730ee7817e85a46000a9e8f856dac1"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C16, C116 &amp; Plus-4 - Manuals - Educational</name>
+		<description>Commodore C16, C116 &amp; Plus-4 - Manuals - Educational (TOSEC-v2012-04-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="An Introduction To Basic Part 1 (1984)(Commodore)[a]">
+		<description>An Introduction To Basic Part 1 (1984)(Commodore)[a]</description>
+		<rom name="An Introduction To Basic Part 1 (1984)(Commodore)[a].pdf" size="44057350" crc="1ee7c184" md5="90dbefc41c2cf8158dc5a70eb7c0d12b" sha1="ce7ac6457316b6ad6ab05296edcbf3342ddde4b0"/>
+	</game>
+	<game name="Games Designer (1984)(Commodore)">
+		<description>Games Designer (1984)(Commodore)</description>
+		<rom name="Games Designer (1984)(Commodore).pdf" size="99282" crc="bdf8da71" md5="7bedab86123013968de79c42f04f918c" sha1="f978e909614aaf8874caf1427b96a3c1416c61a4"/>
+	</game>
+	<game name="Graphics Designer (1984)(Supersoft)">
+		<description>Graphics Designer (1984)(Supersoft)</description>
+		<rom name="Graphics Designer (1984)(Supersoft).pdf" size="209143" crc="31740fff" md5="7bc6d7ce6ee109b07e92668c18a0ebfc" sha1="7118f6d37291c5585c4f4bb9c6d59e41cb540089"/>
+	</game>
+	<game name="Music Master (1985)(Supersoft)">
+		<description>Music Master (1985)(Supersoft)</description>
+		<rom name="Music Master (1985)(Supersoft).pdf" size="271301" crc="72bcb039" md5="0b29fd504b5b52235b3ef8e680503454" sha1="035c363a7cba74627b930c63d5607e9924580c9a"/>
+	</game>
+</datafile>

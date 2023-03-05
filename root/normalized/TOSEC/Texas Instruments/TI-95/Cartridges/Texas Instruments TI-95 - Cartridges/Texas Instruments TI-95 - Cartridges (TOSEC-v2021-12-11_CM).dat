@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-95 - Cartridges</name>
+		<description>Texas Instruments TI-95 - Cartridges (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>proffrink</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mathematics Library (1986)(Texas Instruments)">
+		<description>Mathematics Library (1986)(Texas Instruments)</description>
+		<rom name="Mathematics Library (1986)(Texas Instruments).bin" size="32768" crc="f2221fd9" md5="8b84db9a552cc904a967e03f4e69cde1" sha1="69eba2ecb85f9b2a6b556579e39c20246a50ef34"/>
+	</game>
+	<game name="Statistics Library (1986)(Texas Instruments)">
+		<description>Statistics Library (1986)(Texas Instruments)</description>
+		<rom name="Statistics Library (1986)(Texas Instruments).bin" size="32768" crc="a61753e8" md5="5d29e1d60175640d455198fa9a0f454d" sha1="8ed3048b909e3b05416c1c16b2437902e6ac16f8"/>
+	</game>
+</datafile>

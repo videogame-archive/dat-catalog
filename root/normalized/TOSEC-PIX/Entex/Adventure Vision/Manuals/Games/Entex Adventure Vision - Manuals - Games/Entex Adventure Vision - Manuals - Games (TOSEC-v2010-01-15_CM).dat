@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Entex Adventure Vision - Manuals - Games</name>
+		<description>Entex Adventure Vision - Manuals - Games (TOSEC-v2010-01-15)</description>
+		<category>TOSEC-PIX</category>
+		<version>2010-01-15</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Defender (1982)(Entex Industries)">
+		<description>Defender (1982)(Entex Industries)</description>
+		<rom name="Defender (1982)(Entex Industries).pdf" size="292316" crc="6933c4a8" md5="bdd30f76f43bb23cda689424139fbedb" sha1="2caf9b3965338e2c7720f41de4799e960c9217b9"/>
+	</game>
+	<game name="Space Force (1982)(Entex Industries)">
+		<description>Space Force (1982)(Entex Industries)</description>
+		<rom name="Space Force (1982)(Entex Industries).pdf" size="315172" crc="3dd62613" md5="65d8557ba0681db0f06c4b1377d43317" sha1="034bdc3e7d42f058232806c8ecb4cf60c8f53c98"/>
+	</game>
+	<game name="Super Cobra (1982)(Entex Industries)">
+		<description>Super Cobra (1982)(Entex Industries)</description>
+		<rom name="Super Cobra (1982)(Entex Industries).pdf" size="348721" crc="331a9bbb" md5="1b089d276da5d6e348825b23f30e303c" sha1="449e07a3bf4714b518a2842590d59f32200a6379"/>
+	</game>
+	<game name="Turtles (1982)(Entex Industries)">
+		<description>Turtles (1982)(Entex Industries)</description>
+		<rom name="Turtles (1982)(Entex Industries).pdf" size="386429" crc="1a793c41" md5="0cbcde8580ae9617c4dd0ca788ba96fd" sha1="53d0dc98cd0133397935ec4783c13b8f7cacda39"/>
+	</game>
+</datafile>

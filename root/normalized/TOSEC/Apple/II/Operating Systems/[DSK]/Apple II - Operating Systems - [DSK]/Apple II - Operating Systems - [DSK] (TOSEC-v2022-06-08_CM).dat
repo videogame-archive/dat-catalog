@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Operating Systems - [DSK]</name>
+		<description>Apple II - Operating Systems - [DSK] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple II CP-AM 44K v4.0B (1985)(Applied Engineering)[req Z80 softcard]">
+		<description>Apple II CP-AM 44K v4.0B (1985)(Applied Engineering)[req Z80 softcard]</description>
+		<rom name="Apple II CP-AM 44K v4.0B (1985)(Applied Engineering)[req Z80 softcard].dsk" size="143360" crc="0cdc7439" md5="81d0a6de653ad5046541dfe002eafe9e" sha1="6bd190de013978dc05f1193c85ef097dc26a6ad7"/>
+	</game>
+	<game name="Apple II CP-AM 44K v4.1 (1985)(Applied Engineering)[req Z80 softcard]">
+		<description>Apple II CP-AM 44K v4.1 (1985)(Applied Engineering)[req Z80 softcard]</description>
+		<rom name="Apple II CP-AM 44K v4.1 (1985)(Applied Engineering)[req Z80 softcard].dsk" size="143360" crc="48fecfce" md5="e07fc0fff227c0d7325bf278fed4fc54" sha1="2fe10256f606525bbb57f53c333559d5e5303bd5"/>
+	</game>
+	<game name="Apple II CP-AM 60K v4.0B (1985)(Applied Engineering)[req Z80 softcard]">
+		<description>Apple II CP-AM 60K v4.0B (1985)(Applied Engineering)[req Z80 softcard]</description>
+		<rom name="Apple II CP-AM 60K v4.0B (1985)(Applied Engineering)[req Z80 softcard].dsk" size="143360" crc="42a4eea4" md5="19b7c0fd6be17d6d576fd265370be305" sha1="5ac3826c14b48156a510f2eac6d3819b14e0730e"/>
+	</game>
+	<game name="Apple II CP-AM 60K v4.1 (1985)(Applied Engineering)[req Z80 softcard]">
+		<description>Apple II CP-AM 60K v4.1 (1985)(Applied Engineering)[req Z80 softcard]</description>
+		<rom name="Apple II CP-AM 60K v4.1 (1985)(Applied Engineering)[req Z80 softcard].dsk" size="143360" crc="391b346d" md5="4db1bb353bcf1ba3b0581f3a9dd7fcf2" sha1="a54c21f120e4ad68fc9f37655096e5ef310d6021"/>
+	</game>
+	<game name="Apple II CP-M v2.20B (1980)(Microsoft)[req Z80 Softcard]">
+		<description>Apple II CP-M v2.20B (1980)(Microsoft)[req Z80 Softcard]</description>
+		<rom name="Apple II CP-M v2.20B (1980)(Microsoft)[req Z80 Softcard].dsk" size="143360" crc="5020bf8d" md5="1d40d6888305f6a3e59cfbfa99f03d6c" sha1="ca227e7901cdf4d0f5042bb7a1b30152135adcc5"/>
+	</game>
+	<game name="Apple II CP-M v2.23B (1982)(Datasoft)[req Z80 Softcard]">
+		<description>Apple II CP-M v2.23B (1982)(Datasoft)[req Z80 Softcard]</description>
+		<rom name="Apple II CP-M v2.23B (1982)(Datasoft)[req Z80 Softcard].dsk" size="143360" crc="dba3f8be" md5="18a6f7b191712fcfb1f8a2e30540ad2e" sha1="7f5cbd552afa407ab8b49da973af53ee1db179a1"/>
+	</game>
+	<game name="Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 1 of 3)">
+		<description>Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 1 of 3)</description>
+		<rom name="Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 1 of 3).dsk" size="143360" crc="b40f940f" md5="3c410be4ae05265faf4d67bcb957ff3b" sha1="af051a5b3f294627a8356aa7d70b1b1c2176154a"/>
+	</game>
+	<game name="Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 2 of 3)">
+		<description>Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 2 of 3)</description>
+		<rom name="Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 2 of 3).dsk" size="143360" crc="5c5a8213" md5="297854f3a56aec826257f7754b62093a" sha1="51e1b2e78a8fb7a015a57f07aa84655895777003"/>
+	</game>
+	<game name="Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3)">
+		<description>Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3)</description>
+		<rom name="Contiki OS (2016-10-16)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3).dsk" size="143360" crc="30c89cb9" md5="de74a24bd28e85a79359bf42538e326c" sha1="f2c1e24a60dddeab7fabb14cfe9abe2dab7da140"/>
+	</game>
+	<game name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 1 of 3)">
+		<description>Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 1 of 3)</description>
+		<rom name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 1 of 3).dsk" size="143360" crc="7036afe4" md5="ea131e0ca9903ea2a6439da2b0c92c5a" sha1="685a26047574ac6d798d0106377e3936c43a4067"/>
+	</game>
+	<game name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 2 of 3)">
+		<description>Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 2 of 3)</description>
+		<rom name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 2 of 3).dsk" size="143360" crc="05fdca67" md5="9eb3d4d9b82029c6f0389475f5aeb429" sha1="04ef21cc15c3c2fa33bdc06e95376b79abe4889f"/>
+	</game>
+	<game name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3)">
+		<description>Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3)</description>
+		<rom name="Contiki OS (2019-05-10)(Schmidt, Oliver)(IIEE)(BSD3)(Disk 3 of 3).dsk" size="143360" crc="8b18dadc" md5="9d90b8dade735785450e37609e5cd519" sha1="f43421a7ccdc57b8e7d1bd20be2fbad043274653"/>
+	</game>
+	<game name="ProDOS User's Disk (1983)(Apple)">
+		<description>ProDOS User's Disk (1983)(Apple)</description>
+		<rom name="ProDOS User's Disk (1983)(Apple).dsk" size="143360" crc="f5b7a316" md5="550d532060ab8d4fa22e925b85c3312a" sha1="0b7a71735e811dd4d8d36fe331062c12b41d151e"/>
+	</game>
+</datafile>

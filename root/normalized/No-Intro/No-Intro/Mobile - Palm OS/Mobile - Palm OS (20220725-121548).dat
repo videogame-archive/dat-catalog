@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>125</id>
+		<name>Mobile - Palm OS</name>
+		<description>Mobile - Palm OS</description>
+		<version>20220725-121548</version>
+		<author>Hiccup, NovaAurora, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="16 MB Expansion Card (USA)" id="0022">
+		<description>16 MB Expansion Card (USA)</description>
+		<rom name="16 MB Expansion Card (USA).bin" size="14745600" crc="7ad61983" md5="1bb46ab5ebc55713dc86e1e8956dee80" sha1="d404d3a3307246ae299d5479ab9d56dde2987fa7"/>
+	</game>
+	<game name="Atari Retro (USA)" id="0011">
+		<description>Atari Retro (USA)</description>
+		<rom name="Atari Retro (USA).bin" size="16773120" crc="175e3530" md5="5584488e8899bf622a54008735f587c8" sha1="435ada1e07b4a7b79f8a9430c772ada8bdca1f3e" sha256="023e5202fdeaea3e91feeeba2720f3ce5eeb4d1561cec29be5bb5ad25a21dc9f"/>
+	</game>
+	<game name="Merriam-Webster - Crosswords &amp; Word Challenges (USA)" id="0012">
+		<description>Merriam-Webster - Crosswords &amp; Word Challenges (USA)</description>
+		<rom name="Merriam-Webster - Crosswords &amp; Word Challenges (USA).bin" size="8028160" crc="a114e515" md5="6479bca1d07b2a0c168c18412a0ab3cb" sha1="87ea161f48dc469edd21d03230d053530637b9e6" sha256="f1e61706a16d698e3cb1d45547c1b1914c7a0b9120786f6d68686a3db857af55"/>
+	</game>
+	<game name="Midway Arcade Classics (USA)" id="0008">
+		<description>Midway Arcade Classics (USA)</description>
+		<rom name="Midway Arcade Classics (USA).bin" size="1372672" crc="55492150" md5="fc64a535c155b40d6d35536508c67e1d" sha1="9f1f495cb2035659525312f7f84ef66990dd24b7" sha256="8daab07902d0bf936891405167d16516685e125217bbaf71513d3dc185a810d7"/>
+	</game>
+	<game name="Monopoly + Scrabble + Battleship + Yahtzee (USA)" id="0001">
+		<description>Monopoly + Scrabble + Battleship + Yahtzee (USA)</description>
+		<rom name="Monopoly + Scrabble + Battleship + Yahtzee (USA).bin" size="16773120" crc="bbf21685" md5="c50e5c45968c5af8617932f51027b9f4" sha1="e1ee46ae7fed0e4f681c7ad0d1679686fa2423cc" sha256="63ead469e85d10bfcc04da93513df9655f98fcbbdb94c4756cd6c2c1fc43606a" serial="745-0804-10"/>
+	</game>
+	<game name="Palm Tungsten E and Tungsten T3 Demo (USA) (Kiosk)" id="0021">
+		<description>Palm Tungsten E and Tungsten T3 Demo (USA) (Kiosk)</description>
+		<rom name="Palm Tungsten E and Tungsten T3 Demo (USA) (Kiosk).bin" size="32112640" crc="74059f32" md5="927a00fcc727ee7747b0d2ada8a41bba" sha1="fd84e013769d1f26e5b0f1c0012927975b84fc1f" sha256="a01bab7fa5f403ad540279a8d527ea33baf6735db0d41c42ea9857014353a0e9"/>
+	</game>
+	<game name="PalmPak Games Card - PopCap (USA) (En,Fr,De,Es,It,Pt)" id="0004">
+		<description>PalmPak Games Card - PopCap (USA) (En,Fr,De,Es,It,Pt)</description>
+		<rom name="PalmPak Games Card - PopCap (USA).bin" size="2097152" crc="35c4750a" md5="fd26c0b3d3455d2a8058092de5df58dc" sha1="21ad238192162c2af41da301365a05aab6b2799a"/>
+	</game>
+	<game name="PalmPak Productivity Card (USA)" id="0023">
+		<description>PalmPak Productivity Card (USA)</description>
+		<rom name="PalmPak Productivity Card (USA).bin" size="2097152" crc="cdb41425" md5="c3e653f187ecea29edc18d4b2aef7ba0" sha1="0b4b784d684a5533d264e50a50dae42611dea788"/>
+	</game>
+	<game name="SEGA Classics (USA)" id="0003">
+		<description>SEGA Classics (USA)</description>
+		<rom name="SEGA Classics (USA).bin" size="8388608" crc="510fbfb4" md5="e2110021bacfed97338ad048d2964531" sha1="e13dd2cfe7f9f3bc5cd047b87dd34357feaf5701" sha256="e99ce19837c591ef51c78363c757741776f74231ef974bc08df90659ed60d585" serial="750-0923-CARD"/>
+	</game>
+	<game name="Tetris Classic Game Pak (USA)" id="0002">
+		<description>Tetris Classic Game Pak (USA)</description>
+		<rom name="Tetris Classic Game Pak (USA).bin" size="16773120" crc="8a7283de" md5="a9246f38415ed650283240275f26c178" sha1="ef95d2d32a3a090c8af6093e8403bc5a54b4f846" sha256="e0b2dc8459b1bc8939a081fb7d34a3cd812312b2e915ec3b685e54f4443c43a6" serial="329-0904-10"/>
+	</game>
+</datafile>

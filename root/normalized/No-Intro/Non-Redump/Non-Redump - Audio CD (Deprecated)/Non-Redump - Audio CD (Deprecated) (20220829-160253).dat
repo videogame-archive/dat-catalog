@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>234</id>
+		<name>Non-Redump - Audio CD (Deprecated)</name>
+		<description>Non-Redump - Audio CD (Deprecated)</description>
+		<version>20220829-160253</version>
+		<author>Gefflon, Hiccup, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG)" id="0004">
+		<description>Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG)</description>
+		<rom name="Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG).zip" size="535403632" crc="e8222704" md5="bcc423986c9a65cc230924e959e48d45" sha1="b7d7c79afaf8b1c21c9a39dcb6f60a0c4b1aca93" sha256="cee27d2068c8d35988f114db188f9abe6bdaa6d55aceed5f121c071e5644bce1"/>
+	</game>
+	<game name="Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG)" id="0001">
+		<description>Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG)</description>
+		<rom name="Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG).zip" size="144433826" crc="a5d826c9" md5="463365ea28a28c5f94b482b878d607c2" sha1="8da84deaad001d339846d552dcedbc546a99b0ff" sha256="7bc75c72fe8d02effc34c47f6a78206cab9c8d161bda64e057b55f5581263d33"/>
+	</game>
+	<game name="Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG)" id="0002">
+		<description>Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG)</description>
+		<rom name="Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG).zip" size="141042080" crc="b3360b0e" md5="2aa76d74b8f54888353b11be82c5a51f" sha1="babfb24343962bbe2292b123b516e0be34bc43b0" sha256="cdbd4f67abb0893a1bcff9de0ea83a08e85ac82ae189fa7f7a25636d672ecf0e"/>
+	</game>
+	<game name="Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE)" id="0003">
+		<description>Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE)</description>
+		<rom name="Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE).zip" size="238916859" crc="c0e6139b" md5="74df22ae99981d294e7f61168ef61bc1" sha1="0aba64c4ae31d11f5fe01f31a25febc9febe95cc" sha256="116b1050d29e5085fc0efe23e37ed2425c3324fc32e2e9ce74b0676aae1d4ae8"/>
+	</game>
+</datafile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE Vectrex - Catalogs</name>
+		<description>GCE Vectrex - Catalogs (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="High Performance Machine (1983)(GCE)">
+		<description>High Performance Machine (1983)(GCE)</description>
+		<rom name="High Performance Machine (1983)(GCE).pdf" size="325105" crc="85d6f6d0" md5="4ce4c336ee8aa062525857892adb7c28" sha1="1359a0a3fc574b8104f5905d66223a392078caab"/>
+	</game>
+	<game name="Milton Bradley Vextrex Catalogue (1984)(Milton Bradley)(DE)">
+		<description>Milton Bradley Vextrex Catalogue (1984)(Milton Bradley)(DE)</description>
+		<rom name="Milton Bradley Vextrex Catalogue (1984)(Milton Bradley)(DE).pdf" size="42383730" crc="1cac53e2" md5="1d086f414fbc4cfa30c80877ea5d85ce" sha1="1c19acbf697fa2ac9a94a91b4067f7ff4b68db0f"/>
+	</game>
+	<game name="Milton Bradley Vextrex Catalogue (1984)(Milton Bradley)(DE)[a]">
+		<description>Milton Bradley Vextrex Catalogue (1984)(Milton Bradley)(DE)[a]</description>
+		<rom name="Milton Bradley Vextrex Catalogue (1984)(Milton Bradley)(DE)[a].pdf" size="5330466" crc="07abb246" md5="770d89e9aba3d7a2416a744e8eddf642" sha1="851208c5e0529623a4e7647c00384da9c0437ab5"/>
+	</game>
+	<game name="Passport (1983)(GCE)">
+		<description>Passport (1983)(GCE)</description>
+		<rom name="Passport (1983)(GCE).pdf" size="758525" crc="6625ae3e" md5="b04ac63d76f4fe52a73a21947361d6a5" sha1="2ab6174a1062fac686b4ac1c9e97f53939396cf5"/>
+	</game>
+	<game name="Passport - Summer 1983 (1983)(GCE)(US)">
+		<description>Passport - Summer 1983 (1983)(GCE)(US)</description>
+		<rom name="Passport - Summer 1983 (1983)(GCE)(US).pdf" size="624572" crc="371ef8e8" md5="ade1be5e54d2621f8b797de19f27f1a2" sha1="f69b4421cdcf46b869242ed4087ceaa6c08253e3"/>
+	</game>
+	<game name="Vectrex Presskit (1982)(GCE)">
+		<description>Vectrex Presskit (1982)(GCE)</description>
+		<rom name="Vectrex Presskit (1982)(GCE).pdf" size="900087" crc="20bc0ffc" md5="fe46c466be62f5e07437b1bf420bb62c" sha1="6d3ebfc9b6474b4133448a9a34aef0953aceee03"/>
+	</game>
+	<game name="Vextrex Arcade System Passport (1981)(GCE)(US)">
+		<description>Vextrex Arcade System Passport (1981)(GCE)(US)</description>
+		<rom name="Vextrex Arcade System Passport (1981)(GCE)(US).pdf" size="796611" crc="5891d5f6" md5="b65b502c4924ee1ddc83cbc031a0df41" sha1="7e1f210ae7550b0c537a811ec00f89424f04bf5c"/>
+	</game>
+</datafile>

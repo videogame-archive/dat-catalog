@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision - Manuals - Technical</name>
+		<description>Mattel Intellivision - Manuals - Technical (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Intellivision II Service Manual (1982)(Mattel)(US)">
+		<description>Intellivision II Service Manual (1982)(Mattel)(US)</description>
+		<rom name="Intellivision II Service Manual (1982)(Mattel)(US).pdf" size="1988511" crc="a9b7a0b3" md5="1d0ec916f32effc4a8162435829dc7c2" sha1="01482ed2d6d43e2b24a5e5b5939dff4b6f8e3472"/>
+	</game>
+	<game name="Intellivision Subassembly Service Manual (1978)(Mattel)(US)">
+		<description>Intellivision Subassembly Service Manual (1978)(Mattel)(US)</description>
+		<rom name="Intellivision Subassembly Service Manual (1978)(Mattel)(US).pdf" size="1746097" crc="57a96875" md5="0355a063adc726da7ebc2e5ec456210c" sha1="b9edb8e0fffd6d28cea717edb1cbf7478f5d306f"/>
+	</game>
+	<game name="Intellivision Subassembly Service Manual (1978)(Mattel)(US)[a]">
+		<description>Intellivision Subassembly Service Manual (1978)(Mattel)(US)[a]</description>
+		<rom name="Intellivision Subassembly Service Manual (1978)(Mattel)(US)[a].pdf" size="941271" crc="3e924aeb" md5="cab1dc494e46e5a84edef6b1da523024" sha1="62e8f2845d279f2ebeeee175487d7675b725f62c"/>
+	</game>
+	<game name="Intellivoice Service Manual (1979)(Mattel)(US)">
+		<description>Intellivoice Service Manual (1979)(Mattel)(US)</description>
+		<rom name="Intellivoice Service Manual (1979)(Mattel)(US).pdf" size="3775455" crc="e982a935" md5="2eb1a6d13c7d709d7238b2ab4706f6bc" sha1="990bc28f7df3bc7ba7437db56e0c55e94aaa784b"/>
+	</game>
+</datafile>

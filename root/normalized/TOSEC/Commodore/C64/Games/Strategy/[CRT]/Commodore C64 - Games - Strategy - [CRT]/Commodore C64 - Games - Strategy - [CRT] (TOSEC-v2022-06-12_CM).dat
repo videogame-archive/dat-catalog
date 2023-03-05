@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Strategy - [CRT]</name>
+		<description>Commodore C64 - Games - Strategy - [CRT] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Black Gold (1989)(reLine Software)[cr Nostalgia][f][t +9][a][docs][EasyFlash 2013-01-19]">
+		<description>Black Gold (1989)(reLine Software)[cr Nostalgia][f][t +9][a][docs][EasyFlash 2013-01-19]</description>
+		<rom name="Black Gold (1989)(reLine Software)[cr Nostalgia][f][t +9][a][docs][EasyFlash 2013-01-19].crt" size="344800" crc="8f13035f" md5="158feebecfa81436451c871b76a7ac24" sha1="f279d51dc8fe51761b68af197e8d5a86e8e1ebe6"/>
+	</game>
+	<game name="Black Gold (1989)(reLine Software)[cr Nostalgia][f][t +9][docs][EasyFlash 2013-01-19]">
+		<description>Black Gold (1989)(reLine Software)[cr Nostalgia][f][t +9][docs][EasyFlash 2013-01-19]</description>
+		<rom name="Black Gold (1989)(reLine Software)[cr Nostalgia][f][t +9][docs][EasyFlash 2013-01-19].crt" size="344800" crc="fd6552ca" md5="a2536d6bdc93b552a6e7d5209ecfd4ef" sha1="44769e18e9d318f9b7f66d26502a8dc8e71db3c5"/>
+	</game>
+</datafile>

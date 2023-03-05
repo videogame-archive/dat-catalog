@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Educational</name>
+		<description>Nintendo Game Boy - Educational (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Axolotl Museum (2021-01-17)(PossiblyAxolotl)">
+		<description>Axolotl Museum (2021-01-17)(PossiblyAxolotl)</description>
+		<rom name="Axolotl Museum (2021-01-17)(PossiblyAxolotl).gb" size="1048576" crc="09eedce6" md5="c1eb1d690e5a1698dfd60fc04f1a60e1" sha1="5c4b7e6be68567408f0f7f7c01d627599415e084"/>
+	</game>
+	<game name="Basics - Math - Mod vs Div (2021-05-01)(GB Studio Central)">
+		<description>Basics - Math - Mod vs Div (2021-05-01)(GB Studio Central)</description>
+		<rom name="Basics - Math - Mod vs Div (2021-05-01)(GB Studio Central).gb" size="131072" crc="d875a65a" md5="f6576387f57f1c3db001234a5adcbe05" sha1="cf7bae827ef9063d57da27e2bf7a36650ae3455e"/>
+	</game>
+	<game name="Creating Cheat Codes (2021-05-08)(GB Studio Central)">
+		<description>Creating Cheat Codes (2021-05-08)(GB Studio Central)</description>
+		<rom name="Creating Cheat Codes (2021-05-08)(GB Studio Central).gb" size="131072" crc="da8a37f6" md5="2bdbe10b290f6945e74bd345948c29f6" sha1="95faa4ff3d381554ff094d29ceaee398d6d31b29"/>
+	</game>
+	<game name="GBStudio 3 - Animated Tile Tutorial (2022-04-08)(phinioxGlade)(beta)">
+		<description>GBStudio 3 - Animated Tile Tutorial (2022-04-08)(phinioxGlade)(beta)</description>
+		<rom name="GBStudio 3 - Animated Tile Tutorial (2022-04-08)(phinioxGlade)(beta).gb" size="131072" crc="72e8824c" md5="74441d223e3c9fbb85a46ed443503751" sha1="f5319a212eaca2e913453af6cfaa704692c60645"/>
+	</game>
+	<game name="GBStudio 3 - Animated Tile Tutorial v1.1 (2022-04-10)(phinioxGlade)">
+		<description>GBStudio 3 - Animated Tile Tutorial v1.1 (2022-04-10)(phinioxGlade)</description>
+		<rom name="GBStudio 3 - Animated Tile Tutorial v1.1 (2022-04-10)(phinioxGlade).gb" size="131072" crc="25ea614b" md5="7b738785ab15d08b73660cab20eaa35a" sha1="a795c6f04e636ac57a5082cc6a4f609991411edc"/>
+	</game>
+	<game name="Hall of Hoops (2020-12-22)(Horatio Fresh)">
+		<description>Hall of Hoops (2020-12-22)(Horatio Fresh)</description>
+		<rom name="Hall of Hoops (2020-12-22)(Horatio Fresh).gb" size="262144" crc="dafdc726" md5="abf01cb62e0d3f6ea18744648788a89c" sha1="469ca369ac03c7367f857ef1545c0af9b97d5783"/>
+	</game>
+	<game name="Maru's Mission Re-toned v1.0 (2022-03-18)(GB Studio Central)">
+		<description>Maru's Mission Re-toned v1.0 (2022-03-18)(GB Studio Central)</description>
+		<rom name="Maru's Mission Re-toned v1.0 (2022-03-18)(GB Studio Central).gb" size="131072" crc="a3cd9027" md5="c6cf0070884539f1fc043de17f4111b4" sha1="410645cab07020a2349b0ffd224392eada65f69b"/>
+	</game>
+</datafile>

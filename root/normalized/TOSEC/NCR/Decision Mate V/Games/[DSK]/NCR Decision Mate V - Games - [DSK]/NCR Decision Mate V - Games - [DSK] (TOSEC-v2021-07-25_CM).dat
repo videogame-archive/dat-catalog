@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NCR Decision Mate V - Games - [DSK]</name>
+		<description>NCR Decision Mate V - Games - [DSK] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).dsk" size="348416" crc="01e3ab0b" md5="8a5ea5a1045813a1e5cb273f86b7c598" sha1="ac51afc58e6afec55a03fa871cb0e85af0d56775"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).dsk" size="348416" crc="094c2d80" md5="2ebc5880cf26f20f96e575e937383e5c" sha1="d7044590551ed223f21d4095a52c096509dbb4ed"/>
+	</game>
+</datafile>

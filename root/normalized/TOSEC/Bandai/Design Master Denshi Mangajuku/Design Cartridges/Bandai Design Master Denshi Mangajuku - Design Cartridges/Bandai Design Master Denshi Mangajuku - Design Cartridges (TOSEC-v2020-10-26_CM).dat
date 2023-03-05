@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai Design Master Denshi Mangajuku - Design Cartridges</name>
+		<description>Bandai Design Master Denshi Mangajuku - Design Cartridges (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dragon Ball Z (1995)(Bandai)(JP)[M.01]">
+		<description>Dragon Ball Z (1995)(Bandai)(JP)[M.01]</description>
+		<rom name="Dragon Ball Z (1995)(Bandai)(JP)[M.01].bin" size="131072" crc="5a514a14" md5="637c9b2ce9765e5546abdc63e2147cb7" sha1="e79f215255b230bec5835e229f415d277dd8d762"/>
+	</game>
+	<game name="From TV animation Slam Dunk (1995)(Bandai)(JP)[M.02]">
+		<description>From TV animation Slam Dunk (1995)(Bandai)(JP)[M.02]</description>
+		<rom name="From TV animation Slam Dunk (1995)(Bandai)(JP)[M.02].bin" size="131072" crc="7771b8b3" md5="4ccd46c62f7c26e8f8a526c581893cd3" sha1="e133f61202e31424ce2c4638a65f11e14ace6f6e"/>
+	</game>
+	<game name="Rockman X3 Buster Battle (1995)(Bandai)(JP)[M.04]">
+		<description>Rockman X3 Buster Battle (1995)(Bandai)(JP)[M.04]</description>
+		<rom name="Rockman X3 Buster Battle (1995)(Bandai)(JP)[M.04].bin" size="131072" crc="54c0e613" md5="fb2fb33fe5c6cf96434e0f1e0dfcab3d" sha1="2927224268b0ef0a99513d8fda10be23395cabf6"/>
+	</game>
+	<game name="Super Street Fighter II X Grand Master Challenge (1995)(Bandai)(JP)[M.03]">
+		<description>Super Street Fighter II X Grand Master Challenge (1995)(Bandai)(JP)[M.03]</description>
+		<rom name="Super Street Fighter II X Grand Master Challenge (1995)(Bandai)(JP)[M.03].bin" size="131072" crc="f4a59015" md5="8c7beb8df17ec024a21b9b39e0a0e813" sha1="a607628a4fbae143e34294a4363c286feb21d770"/>
+	</game>
+	<game name="Weekly Shonen Jump Special (1995)(Bandai)(JP)">
+		<description>Weekly Shonen Jump Special (1995)(Bandai)(JP)</description>
+		<rom name="Weekly Shonen Jump Special (1995)(Bandai)(JP).bin" size="131072" crc="eb255397" md5="6978cb01d70d96da21a01f20a7c9a5fd" sha1="c16b4f7194dbf486775ace47a54afee198565a80"/>
+	</game>
+</datafile>

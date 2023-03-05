@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>225</id>
+		<name>Apple - IIe (A2R)</name>
+		<description>Apple - IIe (A2R)</description>
+		<version>20220718-130608</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="816-Paint (USA) (v3.1)" id="0001">
+		<description>816-Paint (USA) (v3.1)</description>
+		<rom name="816-Paint (USA) (v3.1).a2r" size="25537035" crc="be9f8c7a" md5="f1b9d195d1c355e61d2258db74f85c35" sha1="c094b3ebcd92a7d884e3866e9048a20e5090f962" sha256="165aea032b81770abb5fa8acaf6d4d4311f4273ecd2fb46a255ea14e6ce3721b"/>
+	</game>
+	<game name="Mind Forever Voyaging, A (USA) (Disk 1)" id="0002">
+		<description>Mind Forever Voyaging, A (USA) (Disk 1)</description>
+		<rom name="Mind Forever Voyaging, A (USA) (Disk 1).a2r" size="20979144" crc="fa9dab2f" md5="b7693831fe9823a8ce034c9b5e980774" sha1="d4cbc2ddfc0443e5576894dd5524aa4b7530b7a6" sha256="4517fe381adf240fa5a6b5df1e410d516918f8022a7a0a346a148bc3d74a74af"/>
+	</game>
+	<game name="Mind Forever Voyaging, A (USA) (Disk 2)" id="0003">
+		<description>Mind Forever Voyaging, A (USA) (Disk 2)</description>
+		<rom name="Mind Forever Voyaging, A (USA) (Disk 2).a2r" size="17967988" crc="7f8e38b9" md5="48765ffd7bea67c6dfc9c0a5bea6214c" sha1="dfdbde04b4ce1ecde5eebe54a80f02cd7c1fcafe" sha256="af3dee98b5fa76e99f965d02678fa83ee214ce97256f5241cc2cfe6c8aac28ea"/>
+	</game>
+</datafile>

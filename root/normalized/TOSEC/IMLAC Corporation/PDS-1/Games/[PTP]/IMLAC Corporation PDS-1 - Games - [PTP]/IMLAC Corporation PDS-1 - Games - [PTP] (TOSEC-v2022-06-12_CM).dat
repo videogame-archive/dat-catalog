@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IMLAC Corporation PDS-1 - Games - [PTP]</name>
+		<description>IMLAC Corporation PDS-1 - Games - [PTP] (TOSEC-v2022-06-12)</description>
+		<category>TOSEC</category>
+		<version>2022-06-12</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Lemwar (197x)(-)">
+		<description>Lemwar (197x)(-)</description>
+		<rom name="Lemwar (197x)(-).ptp" size="2006" crc="3fcc859a" md5="7ff276d6d8542cfb92c855f9a3ecce70" sha1="9e7aa2eb56225e2219d50caf5fb5178940f9d68e"/>
+	</game>
+	<game name="Maze (197x)(-)">
+		<description>Maze (197x)(-)</description>
+		<rom name="Maze (197x)(-).ptp" size="1422" crc="22328d06" md5="537acb779a52daf8241d884c7ac18870" sha1="432cb1646554f7bce2c6688af1e77a21715d8f6f"/>
+	</game>
+	<game name="Pinball (197x)(-)">
+		<description>Pinball (197x)(-)</description>
+		<rom name="Pinball (197x)(-).ptp" size="6436" crc="3b83f7e9" md5="4058db2559cbe96311b423cd6ca67fe3" sha1="c289e6eb6c8bdb7d70adafdfe0ff80023ec140db"/>
+	</game>
+	<game name="Tank (197x)(-)">
+		<description>Tank (197x)(-)</description>
+		<rom name="Tank (197x)(-).ptp" size="3654" crc="c2e6def4" md5="f6e72cb082f6dba9de7b989ddc7f6f3a" sha1="c9bc36cde0afa29e5db10724bdb82bf14e5e40c3"/>
+	</game>
+</datafile>

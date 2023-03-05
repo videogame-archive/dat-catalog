@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Studio II - Games - [BIN]</name>
+		<description>RCA Studio II - Games - [BIN] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bingo (1978)(Hanimex)[MG-201]">
+		<description>Bingo (1978)(Hanimex)[MG-201]</description>
+		<rom name="Bingo (1978)(Hanimex)[MG-201].bin" size="1024" crc="39ddc4ab" md5="36297a2c7df1e53346f8452111a110fd" sha1="5e16b9572fda5d8b203df9318b8f1e250bea7432"/>
+	</game>
+	<game name="Concentration Match (1978)(Hanimex)(EU)[MG-202]">
+		<description>Concentration Match (1978)(Hanimex)(EU)[MG-202]</description>
+		<rom name="Concentration Match (1978)(Hanimex)(EU)[MG-202].bin" size="1024" crc="28e21408" md5="4ab4a2c249754400d0d7064e966d947b" sha1="df2b2c7b5ec4c2d33321934ffff29cb41c2b6f68"/>
+	</game>
+	<game name="Grand Pack (1978)(Hanimex)(EU)[86677b][MG-200]">
+		<description>Grand Pack (1978)(Hanimex)(EU)[86677b][MG-200]</description>
+		<rom name="Grand Pack (1978)(Hanimex)(EU)[86677b][MG-200].bin" size="1024" crc="82a2d29e" md5="1d93e94b18aacbecdceb87bd98899320" sha1="37e02089d611db10bad070d89c8801de41521189"/>
+	</game>
+	<game name="Grand Pack (1978)(Hanimex)(EU)[87201][MG-200]">
+		<description>Grand Pack (1978)(Hanimex)(EU)[87201][MG-200]</description>
+		<rom name="Grand Pack (1978)(Hanimex)(EU)[87201][MG-200].bin" size="1024" crc="8006a1e3" md5="62cfd740c766632a349d7d27960ed1fe" sha1="b67612d98231485fce55d604915abd19b6d64eac"/>
+	</game>
+	<game name="Pinball (1978)(Hanimex)(EU)[MG-205]">
+		<description>Pinball (1978)(Hanimex)(EU)[MG-205]</description>
+		<rom name="Pinball (1978)(Hanimex)(EU)[MG-205].bin" size="1024" crc="9f7f692e" md5="bc8df39e000c0dd0efef4916701151be" sha1="6afd1252d72df39482699c1ee76fa28669c7db80"/>
+	</game>
+	<game name="Speedway - Tag (1978)(Hanimex)[MG-211]">
+		<description>Speedway - Tag (1978)(Hanimex)[MG-211]</description>
+		<rom name="Speedway - Tag (1978)(Hanimex)[MG-211].bin" size="1024" crc="b9f6ac68" md5="60ff2f203fa00697e5d7aa23867ab66d" sha1="4e544fb4105a45e979dd7a007da1540996300f3d"/>
+	</game>
+	<game name="Star Wars (1978)(Hanimex)[MG-203]">
+		<description>Star Wars (1978)(Hanimex)[MG-203]</description>
+		<rom name="Star Wars (1978)(Hanimex)[MG-203].bin" size="1024" crc="92b55eb4" md5="c3194177435ea24fba18e86191e92027" sha1="63ec52fdf1a5e04ced74560809de550c527ecd38"/>
+	</game>
+	<game name="TV Arcade II - Fun with Numbers (1977)(RCA)(US)[18V401]">
+		<description>TV Arcade II - Fun with Numbers (1977)(RCA)(US)[18V401]</description>
+		<rom name="TV Arcade II - Fun with Numbers (1977)(RCA)(US)[18V401].bin" size="512" crc="26ebe344" md5="d65d22bb2342a8503316d76ac5080d11" sha1="ede8731283d49666ddb63c1a52d6d270973d6dc8"/>
+	</game>
+	<game name="TV Arcade Series - Gunfighter + Moonship Battle (1977)(RCA)(EU-US)[18V405]">
+		<description>TV Arcade Series - Gunfighter + Moonship Battle (1977)(RCA)(EU-US)[18V405]</description>
+		<rom name="TV Arcade Series - Gunfighter + Moonship Battle (1977)(RCA)(EU-US)[18V405].bin" size="1024" crc="989d2c67" md5="bbb9fc3b66333aab6dffd7fc6513dd5d" sha1="82f37ec5b7599e9169873da6c269c0c092395458"/>
+	</game>
+	<game name="TV Arcade Series I - Spacewar (1977)(RCA)[18V400]">
+		<description>TV Arcade Series I - Spacewar (1977)(RCA)[18V400]</description>
+		<rom name="TV Arcade Series I - Spacewar (1977)(RCA)[18V400].bin" size="512" crc="021551f2" md5="e7a2cf0b9feeb465fb298af61b33ad36" sha1="4878ae6d313743d7e3bd45e05c6e5e0582d9febb"/>
+	</game>
+	<game name="TV Arcade Series III - Tennis-Squash (1977)(RCA)[18V402]">
+		<description>TV Arcade Series III - Tennis-Squash (1977)(RCA)[18V402]</description>
+		<rom name="TV Arcade Series III - Tennis-Squash (1977)(RCA)[18V402].bin" size="512" crc="a21590c8" md5="1b2f07da69a3648030bf9d1ea096f2cd" sha1="c573e8cd7d1aa423d26e64a4da781a5989e4ed1d"/>
+	</game>
+	<game name="TV Arcade Series IV - Baseball (1977)(RCA)[18V403]">
+		<description>TV Arcade Series IV - Baseball (1977)(RCA)[18V403]</description>
+		<rom name="TV Arcade Series IV - Baseball (1977)(RCA)[18V403].bin" size="1024" crc="d7fdedaa" md5="242d1a4ef4f4cfd54eb7cca63aba4b31" sha1="fa1e3089d05503b7b1d5e98552318d5836c1798a"/>
+	</game>
+	<game name="TV Arcade Series V - Speedway-Tag (1977)(RCA)[18V404]">
+		<description>TV Arcade Series V - Speedway-Tag (1977)(RCA)[18V404]</description>
+		<rom name="TV Arcade Series V - Speedway-Tag (1977)(RCA)[18V404].bin" size="512" crc="a80379e2" md5="93efe190665f3f3567011a82f9c11a49" sha1="5bc93a1a7ea05411f607ed56241da88b1f8468c5"/>
+	</game>
+	<game name="TV Casino I - Blackjack (1977)(RCA)[18V600]">
+		<description>TV Casino I - Blackjack (1977)(RCA)[18V600]</description>
+		<rom name="TV Casino I - Blackjack (1977)(RCA)[18V600].bin" size="1024" crc="b30af7a9" md5="2923711d0aedb6b341b5faad80efd7d5" sha1="e328791d6aa8292d1b68abe03c7ebfefa9282ced"/>
+	</game>
+	<game name="TV Mystic Series - Biorhythm (1977)(RCA)(EU-US)[18V700]">
+		<description>TV Mystic Series - Biorhythm (1977)(RCA)(EU-US)[18V700]</description>
+		<rom name="TV Mystic Series - Biorhythm (1977)(RCA)(EU-US)[18V700].bin" size="1024" crc="6dcbc525" md5="f4a867990eb95fef171401b77baa4f9c" sha1="9fdab1be5d83aa0ccacf7e9ae2837b2b9e10be1c"/>
+	</game>
+	<game name="TV School House - Computer Quiz (1977)(RCA)(EU-US)[18V500]">
+		<description>TV School House - Computer Quiz (1977)(RCA)(EU-US)[18V500]</description>
+		<rom name="TV School House - Computer Quiz (1977)(RCA)(EU-US)[18V500].bin" size="512" crc="cf08aa66" md5="702a9c2d1ff6958f09bf6dc12616b9fb" sha1="1d709a7f6b0a3d67d184ae0d94b1cb198f9c8a6a"/>
+	</game>
+	<game name="TV School House II - Math Fun (1977)(RCA)(EU-US)[18V501]">
+		<description>TV School House II - Math Fun (1977)(RCA)(EU-US)[18V501]</description>
+		<rom name="TV School House II - Math Fun (1977)(RCA)(EU-US)[18V501].bin" size="1024" crc="9ab5af96" md5="051c2bf443f91e6b229f8baa3903a172" sha1="12a013e483af253d75845adf0d9e86672b161f94"/>
+	</game>
+</datafile>

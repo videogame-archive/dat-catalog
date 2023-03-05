@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel HyperScan - Manuals - Games</name>
+		<description>Mattel HyperScan - Manuals - Games (TOSEC-v2013-04-06)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-04-06</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Marvel Heroes (2006)(Mattel)(US)">
+		<description>Marvel Heroes (2006)(Mattel)(US)</description>
+		<rom name="Marvel Heroes (2006)(Mattel)(US).pdf" size="2006837" crc="460baf4c" md5="b1a4a5586b56313e4921ab0d8a9be6e2" sha1="5e3ffe31ee37f8b8295737748159c9c0488591d8"/>
+	</game>
+	<game name="X-Men (2006)(Mattel)(US)">
+		<description>X-Men (2006)(Mattel)(US)</description>
+		<rom name="X-Men (2006)(Mattel)(US).pdf" size="13550751" crc="fd18a118" md5="3a0b4f7bc7d7f0316234ebc187aa526c" sha1="5e13ce4742d2370d91a697c3d35ed526a9b926bf"/>
+	</game>
+	<game name="X-Men (2006)(Mattel)(US)[a]">
+		<description>X-Men (2006)(Mattel)(US)[a]</description>
+		<rom name="X-Men (2006)(Mattel)(US)[a].pdf" size="1531627" crc="ea3de66a" md5="54698b20deb438541aff850f726295e7" sha1="4471398f27dc94ccb8a59e0b48097badd0f1befd"/>
+	</game>
+</datafile>

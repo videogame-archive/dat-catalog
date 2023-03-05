@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dynabyte Monarch - Operating Systems</name>
+		<description>Dynabyte Monarch - Operating Systems (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Monarch MP-M 86 v1.3D (1983)(Digital Research)(Disk 1)[pn 411238][sn 30-1490]">
+		<description>Monarch MP-M 86 v1.3D (1983)(Digital Research)(Disk 1)[pn 411238][sn 30-1490]</description>
+		<rom name="Monarch MP-M 86 v1.3D (1983)(Digital Research)(Disk 1)[pn 411238][sn 30-1490].imd" size="187444" crc="e0dfbdf7" md5="f6fe7a276540b350f126fb82710dcb17" sha1="57d4365cb983b7642713b1f0192b0abe3d776970"/>
+	</game>
+	<game name="Monarch MP-M 86 v1.3D (1983)(Digital Research)(Disk 2)[pn 411248][sn 30-1490]">
+		<description>Monarch MP-M 86 v1.3D (1983)(Digital Research)(Disk 2)[pn 411248][sn 30-1490]</description>
+		<rom name="Monarch MP-M 86 v1.3D (1983)(Digital Research)(Disk 2)[pn 411248][sn 30-1490].imd" size="210811" crc="29818d32" md5="fb45c33b5448a5919566a418df48701e" sha1="4af4be0ed87b095505347ab4e291fecf91cfbb83"/>
+	</game>
+	<game name="Monarch MP-M II v1.4E (1985)(Digital Research)(Disk 1)[pn 411188][sn 30-1691]">
+		<description>Monarch MP-M II v1.4E (1985)(Digital Research)(Disk 1)[pn 411188][sn 30-1691]</description>
+		<rom name="Monarch MP-M II v1.4E (1985)(Digital Research)(Disk 1)[pn 411188][sn 30-1691].imd" size="195826" crc="cddbcaad" md5="bd964defcdc75b3af48d6f8c74e0c354" sha1="271c0ec470b32dac82ef2a47ec219a8c8b254a5c"/>
+	</game>
+	<game name="Monarch MP-M II v1.4E (1985)(Digital Research)(Disk 2)[pn 411198][sn 30-1691]">
+		<description>Monarch MP-M II v1.4E (1985)(Digital Research)(Disk 2)[pn 411198][sn 30-1691]</description>
+		<rom name="Monarch MP-M II v1.4E (1985)(Digital Research)(Disk 2)[pn 411198][sn 30-1691].imd" size="174617" crc="cb538f35" md5="5b550ef99b1781ddd7fa12255327d465" sha1="2cce80cf6f2774dbbae1aece03bf9e1b42207283"/>
+	</game>
+</datafile>

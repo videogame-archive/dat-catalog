@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Games - [BIN]</name>
+		<description>Commodore VIC20 - Games - [BIN] (TOSEC-v2021-02-10)</description>
+		<category>TOSEC</category>
+		<version>2021-02-10</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Overthrown v1.01 (19xx)(Hooijmeijer, Erik)">
+		<description>Overthrown v1.01 (19xx)(Hooijmeijer, Erik)</description>
+		<rom name="Overthrown v1.01 (19xx)(Hooijmeijer, Erik).bin" size="8192" crc="D398AEDD" md5="c60913184aa32322557d68443b8322f7" sha1="36de5115da5f7335825d68562b3d87ab53445178"/>
+	</game>
+</datafile>

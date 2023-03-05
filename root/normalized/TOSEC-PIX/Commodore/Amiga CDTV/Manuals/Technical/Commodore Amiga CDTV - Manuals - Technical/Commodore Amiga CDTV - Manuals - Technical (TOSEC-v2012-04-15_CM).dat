@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Manuals - Technical</name>
+		<description>Commodore Amiga CDTV - Manuals - Technical (TOSEC-v2012-04-15)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-15</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CDTV Service Manual (1991-05)(Commodore)">
+		<description>CDTV Service Manual (1991-05)(Commodore)</description>
+		<rom name="CDTV Service Manual (1991-05)(Commodore).pdf" size="49211339" crc="f3c16cb9" md5="22538bef2e127688dfe093e6a340acae" sha1="c611b2866d85a80ea99a6b64d2ed9c181d87a30f"/>
+	</game>
+	<game name="CDTV Service Manual (1991-05)(Commodore)[a]">
+		<description>CDTV Service Manual (1991-05)(Commodore)[a]</description>
+		<rom name="CDTV Service Manual (1991-05)(Commodore)[a].pdf" size="1124811" crc="6fce7cbc" md5="9c85367504feea4d3bdff58625a305cd" sha1="2528c38b1e513d27580a6e73f61a43b320e4ebda"/>
+	</game>
+</datafile>

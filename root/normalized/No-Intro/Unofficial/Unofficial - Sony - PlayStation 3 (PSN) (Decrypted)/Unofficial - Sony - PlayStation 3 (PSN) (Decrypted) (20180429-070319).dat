@@ -1,0 +1,1483 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>66</id>
+		<name>Unofficial - Sony - PlayStation 3 (PSN) (Decrypted)</name>
+		<description>Unofficial - Sony - PlayStation 3 (PSN) (Decrypted)</description>
+		<version>20180429-070319</version>
+		<author>Densetsu, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="1942 - Joint Strike (USA) (PSN)" id="0001">
+		<description>1942 - Joint Strike (USA) (PSN)</description>
+		<rom name="NPUB30024_1942_Joint_Strike.pkg" size="134156736" crc="4210c5c2" md5="3fbb48645e83382890e1d61d2b347b3f" sha1="d9b2b7f1a0e9ceb8cae8eed2075baea45bf5d773" serial="NPUB-30024"/>
+	</game>
+	<game name="3 on 3 NHL Arcade (USA) (PSN)" id="0002">
+		<description>3 on 3 NHL Arcade (USA) (PSN)</description>
+		<rom name="3.on.3.NHL.Arcade.PSN.PS3-DUPLEX.NPUB30058.Crack.pkg" size="7850704" crc="42c67dc8" md5="672520bce64934979f0a2d5c48bf576f" sha1="b17db4cc82cbc28c892a2689e0816dfddd693ce8" serial="NPUB-30058"/>
+		<rom name="3.on.3.NHL.Arcade.PSN.PS3-DUPLEX.NPUB30058.Install.pkg" size="196642928" crc="236a36d0" md5="b290a773ae4b7bd72f1e2c875db030ed" sha1="e2ddf8507e355c5d445fc4dbbfacf0dabbf17020" serial="NPUB-30058"/>
+	</game>
+	<game name="3D Ultra Mini Golf Adventures 2 (USA) (PSN)" id="0270">
+		<description>3D Ultra Mini Golf Adventures 2 (USA) (PSN)</description>
+		<rom name="sa-3du.iso" size="368345825" crc="179c513f" md5="01fb5e6f6a155dcff8bff2b52a8f0405" sha1="3990f8dcc367809aa34de4ba83165d0d33d359b9"/>
+		<rom name="NPEB00287\ICON0.PNG" size="72243" crc="09211fbf" md5="242fa33780a282d198ee7c896724c842" sha1="51378a4ce1b5e2618245bc8a9e18b504defe721d"/>
+		<rom name="NPEB00287\ICON1.PAM" size="2105344" crc="61eea12b" md5="0730582950d817d195589f6ca20e6b34" sha1="5fc33e352a0c1a040b40c3aacfbac2a1d84f56e7"/>
+		<rom name="NPEB00287\PARAM.SFO" size="1040" crc="d89997b0" md5="8df858db9ba2c719a40cd51f81185acf" sha1="63176cc99ab48cf31df56fb65d1dc82d341ca6b9"/>
+		<rom name="NPEB00287\PIC1.PNG" size="1523468" crc="020e4e14" md5="9fece197a20f92dbc17d48e6ed09d797" sha1="b1d8ba3599313f5ed830e6c09f028a662d72b930"/>
+		<rom name="NPEB00287\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPEB00287\SND0.AT3" size="465944" crc="f742b036" md5="74c0f4de8ac55af293350afe5d77a762" sha1="0e4faf38e69c469b50f71dc951ef64cd0971ff50"/>
+		<rom name="NPEB00287\TROPDIR\NPWR00473_00\TROPHY.TRP" size="652976" crc="7d2bb134" md5="6df803e5dfd90f063d130f796b25b258" sha1="38687cc79691c48937a9fee19f7cab983c98b1e7"/>
+	</game>
+	<game name="4 elements HD (USA) (PSN)" id="0271">
+		<description>4 elements HD (USA) (PSN)</description>
+		<rom name="sa-4elem.iso" size="441025953" crc="7848c085" md5="4045de79bd2ceba5509e9874fdab378f" sha1="181223fac319163d02c500f28c8139dea47685b4"/>
+		<rom name="NPUB30347\ICON0.PNG" size="78417" crc="577a35d3" md5="be633d1ad0e3641cb6b14f9cee956214" sha1="7554b72976bcb4cbeeaa98ab5443a5132a4bc76c"/>
+		<rom name="NPUB30347\ICON0_00.PNG" size="81446" crc="5e569d83" md5="84eee815711769cb1b5a0b0019f89d52" sha1="66ebd26c2b9a8c290b72670b4b57af3943875ee0"/>
+		<rom name="NPUB30347\ICON0_08.PNG" size="79455" crc="dcf7ae4e" md5="447279901a25b3ee8858a82b9832c566" sha1="85bf8e49a6110b8828d4ad244a3a8a832bb09874"/>
+		<rom name="NPUB30347\PARAM.SFO" size="1344" crc="5d4814bb" md5="a84eae7f38bc776231d85fd5ac102311" sha1="885d98fab9f3d2119e90d25b1f2cde09c4f666bb"/>
+		<rom name="NPUB30347\PIC0.PNG" size="9944" crc="34d8e016" md5="553efdff761002d34f2d3e01b3eb921c" sha1="f9cec2ce7e97e5f752735a7d4db2cc8507ace6a5"/>
+		<rom name="NPUB30347\PIC1.PNG" size="3015925" crc="736c8de1" md5="6571666b0fc37442c13cf060e296e0b3" sha1="2be1a3dc9692828795e9ac5fa9d9f6bc0d5784db"/>
+		<rom name="NPUB30347\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPUB30347\SND0.AT3" size="1167072" crc="e4f72249" md5="caad440d341b2652b07e8edbee30eff3" sha1="5dcb61824d1330a41ffec8de9f8d883900a5aae0"/>
+		<rom name="NPUB30347\TROPDIR\NPWR01614_00\TROPHY.TRP" size="1927104" crc="446639dc" md5="087417a1e503dbd22c870e196f0c0920" sha1="62c7742604b8eb0be7e74d6ad75f6a5893ca0afb"/>
+	</game>
+	<game name="Adam's Venture - Chronicles (Europe) (PSN)" id="0184">
+		<description>Adam's Venture - Chronicles (Europe) (PSN)</description>
+		<rom name="Adams.Venture.Chronicles.PSN.PS3-DUPLEX.Crack.pkg" size="6080" crc="a55954ee" md5="68cc4e4015166fade0352c832c178011" sha1="b0b46a9bf901ed9254e8fc252096fdc633fe2e80" serial="NPEB-00872"/>
+		<rom name="Adams.Venture.Chronicles.PSN.PS3-DUPLEX.Install.pkg" size="1589508160" crc="7c4bb742" md5="c5cbe6f8f7df7abfcc74a04b83d70d76" sha1="e5e87d373db522ed20cd74b6f123f597357e7478" serial="NPEB-00872"/>
+	</game>
+	<game name="Adventure Time - Finn &amp; Jake Investigations (USA) (PSN)" id="0212">
+		<description>Adventure Time - Finn &amp; Jake Investigations (USA) (PSN)</description>
+		<rom name="UP2089-NPUB31664_00-ADVENTURETIMEFJI_bg_1_42dd76fa40deefba8f7fe5e153a71123f7b43571.pkg" size="1296831408" crc="022a2e1d" md5="29abf4a3d1b537a099b72eb6f83cb4d9" sha1="805667a0db25ec2cd53e26a2cd071a1bcefcff16" serial="NPUB-31664"/>
+		<rom name="UP2089-NPUB31664_00-ATFJILICENSE0000.edat" size="352" crc="ae07a230" md5="c124d9c647dc5a81943fda01561c99b0" sha1="7d451aef1515525b664d650fb9719c31434a7025" serial="NPUB-31664"/>
+	</game>
+	<game name="After Burner Climax (USA) (PSN)" id="0003">
+		<description>After Burner Climax (USA) (PSN)</description>
+		<rom name="After.Burner.Climax.PSN.PS3-DUPLEX.NPUB30151.Crack.pkg" size="5926944" crc="dcd434e1" md5="c5ea6679ca66dd6a8dbbab196a6f54a9" sha1="2bfd84d7e2590b7599cc1da91807aee57b65216b" serial="NPUB-30151"/>
+		<rom name="After.Burner.Climax.PSN.PS3-DUPLEX.NPUB30151.Install.pkg" size="551772592" crc="9c4d2b15" md5="d5c8724738266d039f31439790ce4e27" sha1="ca31655701dfbcd86ca2e0620930ddc64feccff3" serial="NPUB-30151"/>
+	</game>
+	<game name="Age of Booty (USA) (PSN)" id="0272">
+		<description>Age of Booty (USA) (PSN)</description>
+		<rom name="sa-aob.iso" size="313492513" crc="c9205258" md5="b8f9c9185469a6b3a1943ad35f24a2de" sha1="52274bb84d19d6852b237434f702caf1993edb05"/>
+		<rom name="NPUB30033\ICON0.PNG" size="84009" crc="c259ffd4" md5="ce57ac1a3b5d1403f8bc5bce3da206ee" sha1="f7ea0496cac14c3b25e7014b78d196e55f9eed88"/>
+		<rom name="NPUB30033\PARAM.SFO" size="1040" crc="c9d9fbc6" md5="3ba58cb3fb17eeef8ba316f6e42c5ee7" sha1="93dbd3681fccd23bfc7eaaa1510a96d39f9592fb"/>
+		<rom name="NPUB30033\PIC0.PNG" size="561820" crc="9494db37" md5="b9d6aea08a6ccd1ec9ec11005ace4495" sha1="5226a897112e9ae127857acb60b7fb98508821f6"/>
+		<rom name="NPUB30033\PIC1.PNG" size="2554400" crc="fc55fc38" md5="e40a5050f63072d4e6053587b24f3c1c" sha1="3c8453a6f301df9c6ebff8331f59060dc5f18a2a"/>
+		<rom name="NPUB30033\PIC2.PNG" size="111855" crc="0ae97f25" md5="119282e82c6a0619f08c090e2b4d589e" sha1="7d4a5e6316fdb5adb4681e44bd7da71cd4d9a881"/>
+		<rom name="NPUB30033\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPUB30033\SND0.AT3" size="1724296" crc="1aea59c2" md5="7d85ecaf7e16dc6cc8f453f99c8e4a47" sha1="feecaceaa188051cbdedd3826ab7ab38514482ff"/>
+		<rom name="NPUB30033\TROPDIR\NPWR00629_00\TROPHY.TRP" size="363952" crc="0b2b9895" md5="96acc3c900b235c4e631d2f5a27af541" sha1="8a7d8313e670f5842ba4034cd13f0eb93ecac430"/>
+	</game>
+	<game name="Akimi Village (USA) (PSN)" id="0004">
+		<description>Akimi Village (USA) (PSN)</description>
+		<rom name="Akimi.Village.NPUA30036.Crack.pkg" size="7949168" crc="17410368" md5="0ab2fd1fd351d0e4bac0e1bd05c32263" sha1="7b498f3c23753eeba3536e4bc11a08e5c46dbdc6" serial="NPUA-30036"/>
+		<rom name="Akimi.Village.NPUA30036.Install.pkg" size="274099184" crc="86248113" md5="988745066ad136f3a598949e7ff6d1f4" sha1="f4d5628a2611d2f7010482a4c5e929f19d9ac39e" serial="NPUA-30036"/>
+	</game>
+	<game name="Alice - Madness Returns (World) (Incl. American McGee's Alice) (PSN)" id="0269">
+		<description>Alice - Madness Returns (World) (Incl. American McGee's Alice) (PSN)</description>
+		<rom name="Alice.Madness.Returns.American.McGees.Alice.DLC.PSN-DUPLEX.BLUS30607.Install.pkg" size="991569216" crc="a735976d" md5="12373b2f4f96bddf6a45e0dc59f6e0de" sha1="2fef6478da7e15bd70fa243bdfecef457ccaba4e"/>
+		<rom name="Patch\PARAM.SFO" size="1192" crc="46b2309b" md5="415181238c46dc01f7d4e63625e3f3cc" sha1="cfc3d931013f9e6ab73f11aa7618761b3cce4d7a"/>
+		<rom name="Patch\USRDIR\EBOOT.BIN" size="11143360" crc="cf19bb52" md5="b0fdbc14469a2c2ef51935b9eeac1031" sha1="b661a32e59af33d38a0721f49f7e07abbcedf512"/>
+		<rom name="Patch\USRDIR\Alice1\bin\alice.ppu.self" size="1465856" crc="d2cd5dec" md5="765c1eaa09932fe3491bb43a01430499" sha1="b23a944bb7527b4a7a2cf24eba850e3f3a5514a0"/>
+		<rom name="Patch\USRDIR\Alice1\bin\cgame.ppu.sprx" size="190611" crc="4c46d497" md5="7ac95468eeadc02bde026b7091185a9c" sha1="08f3a4b97f6364ab69eeeb8220a8e4b127be339f"/>
+		<rom name="Patch\USRDIR\Alice1\bin\fgame.ppu.sprx" size="1149045" crc="c62ced12" md5="4bc376975d0d293c42a92ca2ff33a7cf" sha1="58f0384accfee4df550ecf99a66da584d723220a"/>
+		<rom name="Patch\USRDIR\BINARIES\PS3\ALICEGAME-PS3RELEASELTCG.ELF" size="11143360" crc="8e9bcfca" md5="5e9afea913e0851e5d17bd54c757f40d" sha1="e64b288cd36c68a9a2a7d5e8577e5fac9791129b"/>
+	</game>
+	<game name="Alien Breed - Impact (USA) (PSN)" id="0007">
+		<description>Alien Breed - Impact (USA) (PSN)</description>
+		<rom name="Alien.Breed.Impact.PSN.PS3-DUPLEX.NPUB30141.Crack.pkg" size="9154448" crc="5507737a" md5="348914d59840103363238092cd32be59" sha1="7631c3b497765503deaab284a3b9963846f48002" serial="NPUB-30141"/>
+		<rom name="Alien.Breed.Impact.PSN.PS3-DUPLEX.NPUB30141.Decrypted.elf" size="17360136" crc="89ffbece" md5="a37c8010daf0ef9896a10b35391521d6" sha1="86e7bf8160840a58ab91dbb9bc8a7e21e30d7c97" serial="NPUB-30141"/>
+		<rom name="Alien.Breed.Impact.PSN.PS3-DUPLEX.NPUB30141.Install.pkg" size="1238994112" crc="3ee72d8b" md5="50757dffb026ed1fd0bfa80adf08fc66" sha1="38f18f95a2053e779bb83760bb2bf2f9aef228d8" serial="NPUB-30141"/>
+	</game>
+	<game name="Alien Breed 2 - Assault (USA) (PSN)" id="0005">
+		<description>Alien Breed 2 - Assault (USA) (PSN)</description>
+		<rom name="Alien.Breed.2.Assault.PSN.PS3-DUPLEX.NPUB30335.Crack.pkg" size="7953280" crc="ec82341a" md5="81e8af428ab4e8182ba13682413873de" sha1="aa35bd799dd2cb5ab67a13e062d10c2b38762f2a" serial="NPUB-30335"/>
+		<rom name="Alien.Breed.2.Assault.PSN.PS3-DUPLEX.NPUB30335.Decrypted.elf" size="15867600" crc="05613bc4" md5="5dc1ae6ff59fc4b5ed7630c1fd211d52" sha1="93f76430f0fe8397e3e2f7122cfc4d72b29f8ddb" serial="NPUB-30335"/>
+		<rom name="Alien.Breed.2.Assault.PSN.PS3-DUPLEX.NPUB30335.Install.pkg" size="1432488384" crc="cdcd40b1" md5="96457b90296b589d4f2379cd15bdafa1" sha1="312c80e4a4999ac8f3228fe8f000c7f3b299a02f" serial="NPUB-30335"/>
+	</game>
+	<game name="Alien Breed 3 - Descent (USA) (PSN)" id="0006">
+		<description>Alien Breed 3 - Descent (USA) (PSN)</description>
+		<rom name="Alien.Breed.3.Descent.PSN.PS3-DUPLEX.NPUB30336.Crack.pkg" size="8429072" crc="03c1acfe" md5="292ad8d983754f78f5ee164db27f461e" sha1="6d4ca173b7a4798168d0dfb2ab7fa7ac504b77e7" serial="NPUB-30336"/>
+		<rom name="Alien.Breed.3.Descent.PSN.PS3-DUPLEX.NPUB30336.Decrypted.elf" size="17443280" crc="78a831f5" md5="3fd264941dc4e23ac7badfe79b51ddd9" sha1="e0805b6372a49179f088b6a4bed907f3850fd12a" serial="NPUB-30336"/>
+		<rom name="Alien.Breed.3.Descent.PSN.PS3-DUPLEX.NPUB30336.Install.pkg" size="1764966576" crc="9b494f2a" md5="dd61ef8b552b192394ccc9def4308263" sha1="6be137462abe5ce0b3e1632c97c5c08383b6f848" serial="NPUB-30336"/>
+	</game>
+	<game name="Alien Rage (Europe) (PSN)" id="0165">
+		<description>Alien Rage (Europe) (PSN)</description>
+		<rom name="lhTardSxiPDbRtwGBiRlmfAfRqTjjgEVMbQIItTGIWnSHIprligAYTWgGfGWzIGu.pkg" size="2790712192" crc="0665d059" md5="ab7e42371c170710ede43551c85576c6" sha1="268785d7bffd5a3c1c9b62b5283e14181d9928db" serial="NPEB-01088"/>
+		<rom name="EP4321-NPEB01088_00-ALIENRAGEFULLCIG.edat" size="352" crc="fe9d255c" md5="42f5eeccc28f32e946479d03afd8c84c" sha1="9c2bd85c30b721e9fa056cfa1b2c9831d354f9c9" serial="NPEB-01088"/>
+	</game>
+	<game name="Alien Spidy (Europe) (PSN)" id="0151">
+		<description>Alien Spidy (Europe) (PSN)</description>
+		<rom name="alien.pkg" size="1607987632" crc="3cca0e92" md5="a2953c02b72585f6ee882a51cf3132a7" sha1="60fa72bcd88fc3c87bca45c536b2260823a39304" serial="NPEB-01022"/>
+		<rom name="AlienSpideyCrk.pkg" size="6080" crc="b68f8a9b" md5="e83e32ed153ca07b0590bfbe47b4df32" sha1="60300de69972384fdb820390ea1edc34406b8d23" serial="NPEB-01022"/>
+	</game>
+	<game name="Altered Beast (USA) (PSN)" id="0008">
+		<description>Altered Beast (USA) (PSN)</description>
+		<rom name="Altered.Beast.PSN.PS3-DUPLEX.NPUB30459.Crack.pkg" size="1755264" crc="4de9c3bc" md5="7d329cb7e8e2d86f3d3ab52cfe626008" sha1="942aae9d95626b609c15ed2447b79faa5cd75fd4" serial="NPUB-30459"/>
+		<rom name="Altered.Beast.PSN.PS3-DUPLEX.NPUB30459.Install.pkg" size="36569328" crc="817f71c5" md5="a33cac59111e3ee6f2300691abad8359" sha1="4411f3e69bcd3c27f30ad1337400787e11b6c3b1" serial="NPUB-30459"/>
+	</game>
+	<game name="Amazing Spider-Man 2, The - Electro-Proof Suit (World) (DLC)" id="0259">
+		<description>Amazing Spider-Man 2, The - Electro-Proof Suit (World) (DLC)</description>
+		<rom name="duplex-the.amazing.spiderman.2.electro.proof.suit.dlc.pkg" size="2570976" crc="35ea7b2a" md5="db3c5bd93ca6a81cd49d5ca922ef45bc" sha1="8b7e1f784b899fea32bdab2333479a9857d2b6bf"/>
+	</game>
+	<game name="Army of Two - The Devil's Cartel - All DLC Unlocker (World) (DLC)" id="0240">
+		<description>Army of Two - The Devil's Cartel - All DLC Unlocker (World) (DLC)</description>
+		<rom name="Army.of.Two.The.Devils.Cartel.All.DLC.Unlocker.PS3-DUPLEX.pkg" size="3943408" crc="42fff82f" md5="dc267df6e2391d40516927658df3808d" sha1="6b466ede3a1ddf2b6c2741eb2aa805da6db2a834"/>
+	</game>
+	<game name="Assassin's Creed - Liberation HD (Europe) (PSN)" id="0166">
+		<description>Assassin's Creed - Liberation HD (Europe) (PSN)</description>
+		<rom name="zBZEktRfbHrSsvygVyOAjJaJQXbhHWtUYczfHtHvTcqWvKuIGofbNsxPyojdxiwRvqNaSBmcTJMUEvZExtBfZMLzwMHzEXWLKklsJ.pkg" size="2117659728" crc="c7f7630d" md5="cc97585482d342a807f1a1c1e24dee3d" sha1="3e5eeef20d384e501571162afab0b8033241b2a2" serial="NPEB-01386"/>
+		<rom name="EP0001-NPEB01386_00-ACLIBERATIONHDKY.edat" size="352" crc="eaaae3ad" md5="6b85fb9a306bf12a4b509c6131b8c3a4" sha1="2237826d884da30b2d6ec4390a508982e13d49bf" serial="NPEB-01386"/>
+	</game>
+	<game name="Assassin's Creed III - DLC Unlocker (World) (DLC)" id="0245">
+		<description>Assassin's Creed III - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-ac3_dlc_unlocker.pkg" size="102400" crc="50cf6839" md5="28fddf2578787919b348ea7370917e08" sha1="4b07d051a1340ce41cd87ca25e8c1aacdefab4d5"/>
+	</game>
+	<game name="Assassin's Creed IV - Black Flag - All DLC Unlocker (World) (DLC)" id="0246">
+		<description>Assassin's Creed IV - Black Flag - All DLC Unlocker (World) (DLC)</description>
+		<rom name="Assassins.Creed.IV.Black.Flag.All.DLC.Unlocker.PS3-DUPLEX.pkg" size="199609216" crc="49f4ba66" md5="0b59c03ceb4fbd093696727c01cb434f" sha1="dfb9eb237e6b20d062245f42ea12292e3c9125c4"/>
+	</game>
+	<game name="Atomic Ninjas (Europe) (PSN)" id="0167">
+		<description>Atomic Ninjas (Europe) (PSN)</description>
+		<rom name="duplex-atomic.ninjas.pkg" size="102660384" crc="279848d3" md5="fd22fb645685d2dc418c75ae5c7613ee" sha1="bf10562f2a641facf0b12f5ba89d6ced612c1915" serial="NPEB-01284"/>
+		<rom name="duplex-atomic.ninjas.crack.pkg" size="6080" crc="db45500f" md5="b094ada86f0ac0b49ee4cbe9b482d56a" sha1="d73a7340f490ae6014d82bf7c91acd463b2ef552" serial="NPEB-01284"/>
+	</game>
+	<game name="Back to the Future - Episode 1 - It's About Time (USA) (PSN)" id="0009">
+		<description>Back to the Future - Episode 1 - It's About Time (USA) (PSN)</description>
+		<rom name="Back.to.the.Future.Episode.1.Its.About.Time.NPUB30401.Install.Crack.pkg" size="5604256" crc="75db83c6" md5="3a6710b3c2c348fc9a09d13b9eb29182" sha1="7ea75342d0fc400af5f40060501522992f4b6b5b" serial="NPUB-30401"/>
+		<rom name="Back.to.the.Future.Episode.1.Its.About.Time.NPUB30401.Install.pkg" size="227090352" crc="4b731eee" md5="454f2820f113599aaac9c45c5033e174" sha1="9d4ffc6181db531209fdfd85c45fb165f7803a25" serial="NPUB-30401"/>
+	</game>
+	<game name="Back to the Future - Episode 2 - Get Tannen (USA) (PSN)" id="0010">
+		<description>Back to the Future - Episode 2 - Get Tannen (USA) (PSN)</description>
+		<rom name="Back.to.the.Future.Episode.2.Get.Tannen.NPUB30409.Crack.pkg" size="5654592" crc="84bc0845" md5="391d75ec7af5af4e357da8147d432d85" sha1="d69f366ab362011926f3c46352f83911d3f13f3f" serial="NPUB-30409"/>
+		<rom name="Back.to.the.Future.Episode.2.Get.Tannen.NPUB30409.Install.pkg" size="239836912" crc="36e82fa3" md5="ef8ecd4996f0fe0c645b5b79ba6c0df3" sha1="d3de08dd4213eb32f983b794fa207c8a6c505c7a" serial="NPUB-30409"/>
+	</game>
+	<game name="Back to the Future - Episode 3 - Citizen Brown (USA) (PSN)" id="0011">
+		<description>Back to the Future - Episode 3 - Citizen Brown (USA) (PSN)</description>
+		<rom name="Back.to.the.Future.Episode.3.Citizen.Brown.NPUB30410.Crack.pkg" size="5364960" crc="2ffb7d06" md5="2dea6a739377c61b44193afb48ac036a" sha1="7b14ce3a2a5b71aeb033c42e3394e525060dcaa3" serial="NPUB-30410"/>
+		<rom name="Back.to.the.Future.Episode.3.Citizen.Brown.NPUB30410.Install.pkg" size="272744352" crc="1c4562b1" md5="c977b27ea498e26163a6eb9c0032218d" sha1="2dbc10f72c11eddb1f95634dd2869ebaa902f272" serial="NPUB-30410"/>
+	</game>
+	<game name="Back to the Future - Episode 4 - Double Visions (USA) (PSN)" id="0012">
+		<description>Back to the Future - Episode 4 - Double Visions (USA) (PSN)</description>
+		<rom name="Back.to.the.Future.Episode.4.Double.Visions.NPUB30411.Crack.pkg" size="5844544" crc="e4d25ca4" md5="d469c2783bb98a834451a95629b831d8" sha1="7c7cc2b44e78e166114e49f7ad503c45fecc4bac" serial="NPUB-30411"/>
+		<rom name="Back.to.the.Future.Episode.4.Double.Visions.NPUB30411.Install.pkg" size="283450256" crc="9941d71d" md5="ddc7dba6459d3e5ab5930ea2b934f051" sha1="af5f572a063124c31ed281e567c4b71fbba45f79" serial="NPUB-30411"/>
+	</game>
+	<game name="Back to the Future - Episode 5 - Outatime (USA) (PSN)" id="0013">
+		<description>Back to the Future - Episode 5 - Outatime (USA) (PSN)</description>
+		<rom name="Back.to.the.Future.Episode.5.OUTATIME.NPUB30412.Crack.pkg" size="5803312" crc="d1729420" md5="a6e83e832c92856c979f8d77790e3456" sha1="d4ceda8d6603d731e39719a5bf00841691a23d5e" serial="NPUB-30412"/>
+		<rom name="Back.to.the.Future.Episode.5.OUTATIME.NPUB30412.Install.pkg" size="302593824" crc="231e9253" md5="bc24fe8fa80b0a3bfd77d0ecfb14b662" sha1="957bf616f2ad6be3fc92b59d153fb0f947a80ad0" serial="NPUB-30412"/>
+	</game>
+	<game name="Backgammon Blitz (USA) (PSN)" id="0185">
+		<description>Backgammon Blitz (USA) (PSN)</description>
+		<rom name="TlBUzYWKFIaJiqRlHvIUDcSHVtVgqIQqeiZeszexjwosEmSjNgliQeInVLKkjABv.pkg" size="227271680" crc="94e8a291" md5="87c295f4a701d99fa9bfca496c8e5582" sha1="870d0374929e080934d4c386f3de3f86ee1d1118" serial="NPUB-31423"/>
+		<rom name="UP4437-NPUB31423_00-UBACKGAMMONUNLCK.edat" size="352" crc="50728199" md5="6bcd38a80797a26350604b0d02e4a89d" sha1="1485393f39b05e01763770bb3d1d8ae75a406ff0" serial="NPUB-31423"/>
+		<rom name="duplex-backgammon.blitz.psn.Crack.pkg" size="6080" crc="4adb9ad1" md5="c72014153719a0f3eff4e25006f82d6c" sha1="6f631bcb96bb41a120945fae99612820ab951adb" serial="NPUB-31423"/>
+	</game>
+	<game name="Batman - Arkham Origins - A Cold Cold Heart (World) (DLC)" id="0247">
+		<description>Batman - Arkham Origins - A Cold Cold Heart (World) (DLC)</description>
+		<rom name="Batman.Arkham.Origins.A.Cold.Cold.Heart.DLC.PS3-DUPLEX.Install.pkg" size="2050742208" crc="193ee83d" md5="eded8bbe6165026ad4b156a318aa3a00" sha1="3646e90c5e3488a31f50a0abf8b0ea1daaae0cce"/>
+	</game>
+	<game name="Batman - Arkham Origins - Blackgate Deluxe Edition (Europe) (PSN)" id="0186">
+		<description>Batman - Arkham Origins - Blackgate Deluxe Edition (Europe) (PSN)</description>
+		<rom name="Batman.Arkham.Origins.Blackgate.Deluxe.Edition.PSN.PS3-DUPLEX.NPEB01968.Crack.pkg" size="6080" crc="1c3979a7" md5="80bbabd247b81688a49457f2beb74bdd" sha1="65ad5ce6dec821ab9a299a1a038378a808810715" serial="NPEB-01968"/>
+		<rom name="Batman.Arkham.Origins.Blackgate.Deluxe.Edition.PSN.PS3-DUPLEX.NPEB01968.Install.pkg" size="2208178064" crc="8a25f3c8" md5="c46eaa5780c4e8e5b7fb8218461b0f6d" sha1="13c64ae9cfc192be21ccdd63ddbe46cb0449875c" serial="NPEB-01968"/>
+	</game>
+	<game name="Battlefield 1943 Online (USA) (PSN)" id="0014">
+		<description>Battlefield 1943 Online (USA) (PSN)</description>
+		<rom name="Battlefield.1943.PSN.PS3-UNLiMiTED.NPUB30077.Crack.pkg" size="19443200" crc="10ff5a9a" md5="bd00154bb1aa6ae62c5b6c409cf65907" sha1="dc560858e0b3b996f36c8955531356cc386c69bc" serial="NPUB-30077"/>
+		<rom name="Battlefield.1943.PSN.PS3-UNLiMiTED.NPUB30077.Install.pkg" size="592187280" crc="be3f38fd" md5="b6bee13df302108c5fc4706cff506778" sha1="2c1055c15932d9d982a5c06ebb57bffde34ae06a" serial="NPUB-30077"/>
+	</game>
+	<game name="Bejeweled 2 (USA) (PSN)" id="0015">
+		<description>Bejeweled 2 (USA) (PSN)</description>
+		<rom name="Bejeweled.2.PSN.PS3-DUPLEX.NPUA30002.Crack.pkg" size="2474256" crc="ec8d341a" md5="bcd99139129a6d376608bbbe84f2c2e7" sha1="254693a04fc607a3c6dff5a81eba31f6e653bef3" serial="NPUA-30002"/>
+		<rom name="Bejeweled.2.PSN.PS3-DUPLEX.NPUA30002.Decrypted.elf" size="4684920" crc="5bbde501" md5="5a663694cc876dc3990f383642a66ce6" sha1="457f5adbbf64783998f15e70839b4a43ae470396" serial="NPUA-30002"/>
+		<rom name="Bejeweled.2.PSN.PS3-DUPLEX.NPUA30002.Install.pkg" size="23352560" crc="a318e1d6" md5="7949d428d0dc61590b7051d03d184d69" sha1="79677038a45797585a80712b7374a4acd8266896" serial="NPUA-30002"/>
+		<rom name="Bejeweled.2.PSN.PS3-DUPLEX.NPUA30002.Patch.v1.01.pkg" size="23487024" crc="c80d5ae9" md5="ad7cc116b1391a2e1ad996226edc7613" sha1="a8693af6936b564c40acd6e8d64048b4609e04e6" serial="NPUA-30002"/>
+	</game>
+	<game name="Beyond Good &amp; Evil HD (Europe) (PSN)" id="0016">
+		<description>Beyond Good &amp; Evil HD (Europe) (PSN)</description>
+		<rom name="Beyond.Good.and.Evil.HD.PSN.PS3-DUPLEX.NPEB00435.Crack.pkg" size="4489152" crc="bd10aeb9" md5="1be07f91eab4da577f6ef4933b62e232" sha1="230e8f32a3b5d94978cb5e090eab8e26af11a9d4" serial="NPEB-00435"/>
+		<rom name="Beyond.Good.and.Evil.HD.PSN.PS3-DUPLEX.NPEB00435.Decrypted.elf" size="13535960" crc="35a6a4b6" md5="e098e1fad5dcbf4c945105e12573604a" sha1="099cccaf51f831d8bee21e605bd56562f6808925" serial="NPEB-00435"/>
+		<rom name="Beyond.Good.and.Evil.HD.PSN.PS3-DUPLEX.NPEB00435.Install.pkg" size="1574975152" crc="753a76ac" md5="4f03906f765cd28a17489f66542bf603" sha1="e85fff3d44b265d216b2524092241a34fd7cb54a" serial="NPEB-00435"/>
+	</game>
+	<game name="Bionic Commando - Rearmed 2 (USA) (PSN)" id="0017">
+		<description>Bionic Commando - Rearmed 2 (USA) (PSN)</description>
+		<rom name="Bionic.Commando.Rearmed.2.PSN.PS3-DUPLEX.NPUB30131.Crack.pkg" size="7280320" crc="45fd0375" md5="7040c3e28fba23822de8145a3d26a989" sha1="428e86542d1c09cdcf9110c3889a86dd3527fa8e" serial="NPUB-30131"/>
+		<rom name="Bionic.Commando.Rearmed.2.PSN.PS3-DUPLEX.NPUB30131.Install.pkg" size="1512829744" crc="6281cbfe" md5="7d93a1eed147deb579b359014b91be13" sha1="1a5aedb2097378da781535970f7c5e03e75dbe81" serial="NPUB-30131"/>
+		<rom name="Bionic.Commando.Rearmed.2.PSN.PS3-DUPLEX.NPUB30131.Patch.v1.01.pkg" size="22301216" crc="ae9cb72f" md5="1d56feaeb920ba0d677065c58e4907cb" sha1="1f15b37362546ecf7289f54d808fa1932c7d28ba" serial="NPUB-30131"/>
+	</game>
+	<game name="Blacklight - Tango Down Online (USA) (PSN)" id="0018">
+		<description>Blacklight - Tango Down Online (USA) (PSN)</description>
+		<rom name="Blacklight.Tango.Down.PSN.PS3-UNLiMiTED.NPUB30224.Crack.pkg" size="14279200" crc="f6a522a1" md5="c7f24e3ec61fbfa381fd8fc262999c5a" sha1="ae8850a31244b5ed8d5994bf55e875013ac1cc3b" serial="NPUB-30224"/>
+		<rom name="Blacklight.Tango.Down.PSN.PS3-UNLiMiTED.NPUB30224.Install.pkg" size="704583584" crc="94730e49" md5="0cf8dc679e7fd55b9fbacca000024afd" sha1="d09842705d0b8ac97847dd5d8b5cbbbd5d737bd0" serial="NPUB-30224"/>
+	</game>
+	<game name="Blast Factor (USA) (PSN)" id="0019">
+		<description>Blast Factor (USA) (PSN)</description>
+		<rom name="Blast.Factor.PSN.PS3-DUPLEX.NPUA80002.Crack.pkg" size="4757360" crc="15a3d0dd" md5="d38bc7a3cb7043a10d8a1b578d9f531a" sha1="5919fff27ee8cedd8d5277202e56e6ca07a88d9b" serial="NPUA-80002"/>
+		<rom name="Blast.Factor.PSN.PS3-DUPLEX.NPUA80002.Decrypted.elf" size="9673056" crc="1069f316" md5="c53840fc55c46fc271d830e7d9c307c1" sha1="df4d984291fde94f58902474c0a4fa1c258dc5cf" serial="NPUA-80002"/>
+		<rom name="Blast.Factor.PSN.PS3-DUPLEX.NPUA80002.Install.pkg" size="140149264" crc="cb81eaa3" md5="9aba326b8e78f9f93bbb41355ff1cc49" sha1="bec33c579d4d02ede06ce12b514f7e8fa8433d0e" serial="NPUA-80002"/>
+		<rom name="Blast.Factor.PSN.PS3-DUPLEX.NPUA80002.Patch.v2.01.pkg" size="140159776" crc="d8d728fa" md5="15f30636f0d32f68891c918c6e4af365" sha1="6de27a7a4ea313b1767a31de6cd2cbea519e888d" serial="NPUA-80002"/>
+	</game>
+	<game name="Blood Knights (Europe) (PSN)" id="0168">
+		<description>Blood Knights (Europe) (PSN)</description>
+		<rom name="gHFFqEHPSAHYuqPQnIXgUfsYRakhnaFCUfMwUaMSzwxzdUdBcPprMCxbQiSIrxSh.pkg" size="1578748736" crc="6be4d195" md5="dce49387f317d065c0b6ec089b0d0f2e" sha1="df2dd9c94689a44ad323097780bede5f9df1294b" serial="NPEB-00981"/>
+		<rom name="EP4165-NPEB00981_00-BLOODKNIGHTSKEY1.edat" size="352" crc="5f5f4003" md5="bd5b25379dcaa94d46c644974e0275a9" sha1="963a5aa639c012e9d9f882c57c40d0301ac77a16" serial="NPEB-00981"/>
+	</game>
+	<game name="Blood of the Werewolf (USA) (PSN)" id="0202">
+		<description>Blood of the Werewolf (USA) (PSN)</description>
+		<rom name="duplex-blood.of.the.werewolf.install.pkg" size="3272761040" crc="b4a8352a" md5="7fa18ae174c304c006a694427606f8a1" sha1="872fcea22b8b9788a7ac1f981b22e078da580417" serial="NPUB-31493"/>
+		<rom name="duplex-blood.of.the.werewolf.crack.pkg" size="6080" crc="eb76a9a1" md5="ac52a36129ad6bcd44daaf62d6d78aa7" sha1="183e3300e36e317b5c9a9872c360f0834e804460" serial="NPUB-31493"/>
+	</game>
+	<game name="BloodRayne - Betrayal (USA) (PSN)" id="0020">
+		<description>BloodRayne - Betrayal (USA) (PSN)</description>
+		<rom name="BloodRayne.Betrayal.PSN.PS3-DUPLEX.NPUB30377.Crack.pkg" size="5450208" crc="ddb2bb74" md5="b08335fd16fc2927c18f34529dcd8eda" sha1="4cbaf17940afe0edd29b66209cd124d3951435bc" serial="NPUB-30377"/>
+		<rom name="BloodRayne.Betrayal.PSN.PS3-DUPLEX.NPUB30377.Decrypted.elf" size="9973748" crc="21748676" md5="da8376716766f8b873b7f63c23e2a037" sha1="de2e67f68d8b2e783f5b35fe2bf96a1e64f8a5a7" serial="NPUB-30377"/>
+		<rom name="BloodRayne.Betrayal.PSN.PS3-DUPLEX.NPUB30377.Install.pkg" size="1007224064" crc="0e1c686a" md5="a4b3722ae9e2b0d36adccbf36712d0bf" sha1="46c29ba5b268adc01d5e3b7dcec8270d7cb08a6f" serial="NPUB-30377"/>
+	</game>
+	<game name="Bomberman Ultra (USA) (PSN)" id="0021">
+		<description>Bomberman Ultra (USA) (PSN)</description>
+		<rom name="Bomberman.Ultra.PSN.PS3-DUPLEX.NPUB30051.Crack.pkg" size="940784" crc="5aa59770" md5="30d42bf8bc4ea1c0bfb4d8eabaca419b" sha1="c4fee647796d460e6097178b883711afe0c7796f" serial="NPUB-30051"/>
+		<rom name="Bomberman.Ultra.PSN.PS3-DUPLEX.NPUB30051.Decrypted.elf" size="1876640" crc="ebc58d7d" md5="689ee1fe76bea4569455817fdb8dc30a" sha1="975a2b1427330d4bc22bb9c4c38d9641e6a7d4e4" serial="NPUB-30051"/>
+		<rom name="Bomberman.Ultra.PSN.PS3-DUPLEX.NPUB30051.Install.pkg" size="74040080" crc="a74bf436" md5="bdabb3476a7474b8b54d56c9a38ba2b0" sha1="8678304cd70a4638ecdddf71ba830659ac2c65c3" serial="NPUB-30051"/>
+	</game>
+	<game name="Braid (USA) (PSN)" id="0273">
+		<description>Braid (USA) (PSN)</description>
+		<rom name="sa-braid.iso" size="518686049" crc="5ee763a4" md5="2eac943932a8810a8b666d77e2e40ac1" sha1="c2a5eb02707a94ee60b8e843f3c63284e768fdd7"/>
+		<rom name="NPUB30133\ICON0.PNG" size="19928" crc="f3e64cf7" md5="e49e64f07e471f0e469df1d3888b0fc4" sha1="08387e0148324aba5994c820af30587b951a815e"/>
+		<rom name="NPUB30133\PARAM.SFO" size="1040" crc="63642d46" md5="91aae1738fcdeedcd7f7f97fac5fd925" sha1="b3682ab548b4abb5bec5d7a47a6494e0c9f7a6e9"/>
+		<rom name="NPUB30133\PIC1.PNG" size="1006155" crc="78098a30" md5="bf640006c741a7fdb3ec54e9f461d61e" sha1="d9a6ee178a9169c894709c1972b7938a66160376"/>
+		<rom name="NPUB30133\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPUB30133\TROPDIR\NPWR00863_00\TROPHY.TRP" size="1320784" crc="d0ae7a7c" md5="7f73891cf8b03182fd8a4b55277307a4" sha1="54be5ad6e01f873a1c02b3ed8d86bfc3b784fcf1"/>
+	</game>
+	<game name="Brain Challenge (USA) (PSN)" id="0022">
+		<description>Brain Challenge (USA) (PSN)</description>
+		<rom name="Brain.Challenge.PSN.PS3-DUPLEX.NPUB30158.Crack.pkg" size="4902000" crc="cd968441" md5="18eb9174ba804aa8cb27a36b003206cb" sha1="a07732381fb2b3b83a5118c5359478534750a80c" serial="NPUB-30158"/>
+		<rom name="Brain.Challenge.PSN.PS3-DUPLEX.NPUB30158.Install.pkg" size="230392000" crc="0c8390b2" md5="c14da97a04bf3073aae5b4f8741e8f77" sha1="c5eb055482ceac68c3272055d37635881208d183" serial="NPUB-30158"/>
+	</game>
+	<game name="Brothers - A Tale of Two Sons (Europe) (PSN)" id="0161">
+		<description>Brothers - A Tale of Two Sons (Europe) (PSN)</description>
+		<rom name="duplex-brothers.a.tale.of.two.sons.crack.pkg" size="6080" crc="ec956ace" md5="66a83957fbeb3b51e78cabab28207e6c" sha1="beb63ddced6068cd2e5e55fcdf5e7a9909ac209e" serial="NPEB-01201"/>
+		<rom name="duplex-brothers.a.tale.of.two.sons.pkg" size="655257184" crc="f79eb60c" md5="d9d1e5902d6691c099c87e8d90864ee5" sha1="3cd957d30be1f8be65d856ad5ee1eeb5ea33c413" serial="NPEB-01201"/>
+	</game>
+	<game name="Call of Duty - Advanced Warfare - DLC Unlocker (World) (DLC)" id="0261">
+		<description>Call of Duty - Advanced Warfare - DLC Unlocker (World) (DLC)</description>
+		<rom name="CoDAWALLDLC.pkg" size="150228544" crc="c51eff06" md5="0fabd086629c98704fd53b1249d0fb38" sha1="a6ab50920712d942b1600111ba4282b674681213"/>
+	</game>
+	<game name="Call of Duty - Black Ops II - Nuketown 2025 (World) (DLC)" id="0226">
+		<description>Call of Duty - Black Ops II - Nuketown 2025 (World) (DLC)</description>
+		<rom name="duplex-codblops2_nuketown2025_dlc.pkg" size="192647648" crc="ecb8232b" md5="01b6d8c342ed3142e0c34d8d6ca1a759" sha1="2c37b51ba89a79548fac2344eb0500f22dec9559"/>
+	</game>
+	<game name="Call of Duty - Black Ops II - Nuketown Zombie (World) (DLC)" id="0248">
+		<description>Call of Duty - Black Ops II - Nuketown Zombie (World) (DLC)</description>
+		<rom name="Call.of.Duty.Black.Ops.II.Nuketown.Zombie.DLC.PS3-DUPLEX.BLES01717.Install.pkg" size="302931568" crc="83fbba28" md5="e0ffce5ba651305876582528594786e6" sha1="f68ad7626b6c51e324dd7c0546f1d3b763a34f8e"/>
+	</game>
+	<game name="Call of Duty - Ghosts - Onslaught (World) (DLC)" id="0249">
+		<description>Call of Duty - Ghosts - Onslaught (World) (DLC)</description>
+		<rom name="duplex-codg.onslaught.cracked.pkg" size="1215222704" crc="3c570fbf" md5="eba955933c9addc33df764c8abb2f87c" sha1="fbc5a4798d814f5f5ff19dd5ce851dea94b3da80"/>
+	</game>
+	<game name="Call of Duty Ghosts - Devastation (World) (DLC)" id="0258">
+		<description>Call of Duty Ghosts - Devastation (World) (DLC)</description>
+		<rom name="duplex-codg.devastation.cracked.pkg" size="1300548768" crc="95f3f61a" md5="ed15f65ffb47f805ca77707ef951a4aa" sha1="b13dcfbe355c4d0af7a59f0f3e9f130f1b2f8378"/>
+	</game>
+	<game name="Call of Juarez - Gunslinger (USA) (PSN)" id="0152">
+		<description>Call of Juarez - Gunslinger (USA) (PSN)</description>
+		<rom name="collateral-cjg-install.pkg" size="2079220464" crc="f409ea7d" md5="f991a33f6cee8426230dd5e74df94c63" sha1="454dc46f068583268f3753af289f3358c77e23d5" serial="NPUB-31079"/>
+		<rom name="UP0001-NPUB31079_00-CJ4UNLOCKFULLKEY.edat" size="352" crc="19ca9873" md5="56917623da01faa84f43efedf3170f76" sha1="72055196879d8e41ce8c39a197866f7f3a552346" serial="NPUB-31079"/>
+	</game>
+	<game name="Calling All Cars! (USA) (PSN)" id="0023">
+		<description>Calling All Cars! (USA) (PSN)</description>
+		<rom name="NPUA80088_Calling_All_Cars.pkg" size="197116128" crc="4bc63c08" md5="427077498cf03efd7b87c28cfb5dc055" sha1="3ea0e4ec9e9f9451f3cc8fdd31d0241e89fa6612" serial="NPUA-80088"/>
+	</game>
+	<game name="Capcom Arcade Cabinet (USA) (Incl. All Games Unlocker) (PSN)" id="0141">
+		<description>Capcom Arcade Cabinet (USA) (Incl. All Games Unlocker) (PSN)</description>
+		<rom name="DUPLEX-Capcom.Arcade.Cabinet.CRACK.and.UNLOCKER.pkg" size="92589952" crc="6caf7d6c" md5="987affe8a03e201daec4aea8c0b39200" sha1="c0dee3e9b27a02f57635bafbe2c4b4a6a5076d7e" serial="NPUB-30769"/>
+		<rom name="DUPLEX-Capcom.Arcade.INSTALLER.pkg" size="1508735632" crc="91b3b818" md5="efcb7e37a1af78f97d224064a90b5783" sha1="295ce323e63ff1d450787b5bac58f77354cc6812" serial="NPUB-30769"/>
+	</game>
+	<game name="Castle Crashers (USA) (PSN)" id="0024">
+		<description>Castle Crashers (USA) (PSN)</description>
+		<rom name="Castle.Crashers.PSN.PS3-DUPLEX.NPUB30181.Crack.pkg" size="1145552" crc="02dc0e83" md5="be8fc2080b8c5216bd61d0b28fe1206d" sha1="1f5f4df0adef5b42f357f6bf6a993fd994477ab4" serial="NPUB-30181"/>
+		<rom name="Castle.Crashers.PSN.PS3-DUPLEX.NPUB30181.Decrypted.elf" size="2914544" crc="6be7ab4c" md5="ba76f416a79fa39654fd63a790e16982" sha1="4fd41c6c339801736946a5efaec153ff39ae7eb1" serial="NPUB-30181"/>
+		<rom name="Castle.Crashers.PSN.PS3-DUPLEX.NPUB30181.Install.pkg" size="159678048" crc="5270145a" md5="ff401450f1fee43c61cae519e115b553" sha1="a618c3e2c5a916ca8d60761d6f6e4d98613fe553" serial="NPUB-30181"/>
+		<rom name="Castle.Crashers.PSN.PS3-DUPLEX.NPUB30181.Patch.v1.01.pkg" size="6424944" crc="d1c21d30" md5="7b58a018d637601c4f0e06d575edb9b6" sha1="5e03ff50cb780fac33b52e6e16313ad21e9a9dc1" serial="NPUB-30181"/>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse (Europe) (PSN)" id="0162">
+		<description>Castle of Illusion Starring Mickey Mouse (Europe) (PSN)</description>
+		<rom name="duplex-castle.of.illusion.starring.mickey.mouse.crack.pkg" size="6080" crc="a2d07512" md5="0d8d070620cb9bfe80464ea43cf23edc" sha1="b8590d739cc6f31b0a9c0f76dca9492b84174564" serial="NPEB-01427"/>
+		<rom name="duplex-castle.of.illusion.starring.mickey.mouse.pkg" size="469778048" crc="60eff8f8" md5="d8ec8db7f83e4893348b36f2fd1a96ff" sha1="5acd1827b57e993f8a7d29712214d5f81e53d2ae" serial="NPEB-01427"/>
+	</game>
+	<game name="Castlevania - Lords of Shadow - Mirror of Fate HD (Europe) (PSN)" id="0169">
+		<description>Castlevania - Lords of Shadow - Mirror of Fate HD (Europe) (PSN)</description>
+		<rom name="duplex-castlevania.lords.of.shadow.pkg" size="2471734416" crc="80284724" md5="34bc62aea55293c56ced2279898f07dc" sha1="a245c5012e4bd226c96a952ccb3d9b943f3503ed" serial="NPEB-01441"/>
+		<rom name="duplex-castlevania.lords.of.shadow.crack.pkg" size="6080" crc="9b606498" md5="2aa112c42d5149abc1f24ec25ee5cc6d" sha1="967edad7617cfbaf041980902c04a7c543140876" serial="NPEB-01441"/>
+	</game>
+	<game name="Cave, The (USA) (PSN)" id="0140">
+		<description>Cave, The (USA) (PSN)</description>
+		<rom name="The.Cave.PSN.PS3-DUPLEX.NPUB30676.Install.pkg" size="1032001424" crc="dc9362e0" md5="0407f2618d35a5b180b28cb831d06fd6" sha1="c964d5b7a5f391a6d30ac322ce62c6d64a7c1059" serial="NPUB-30676"/>
+		<rom name="The.Cave.PSN.PS3-DUPLEX.NPUB30676.Crack.pkg" size="6080" crc="284b218d" md5="89890f97b92bae6f52d8ddae57589dd7" sha1="24469e217fdfdae0bbc33985d36b315112e357af" serial="NPUB-30676"/>
+	</game>
+	<game name="Child of Light (USA) (PSN)" id="0190">
+		<description>Child of Light (USA) (PSN)</description>
+		<rom name="duplex-child.of.light.psn.Crack.pkg" size="6080" crc="c8cec259" md5="3ce30fbfbe8a24d35f1aff93c013b0c8" sha1="baa5abd257fef1e68b8e8374c2a552b528c660b9" serial="NPUB-31430"/>
+		<rom name="duplex-child.of.light.psn.Install.pkg" size="2106527680" crc="508857e3" md5="e10d74e4cd2fa8138adc7d25b12946bb" sha1="6a942af05cd045f192b75e00f39a8a04544f9cce" serial="NPUB-31430"/>
+	</game>
+	<game name="Chime Super Deluxe (Europe) (PSN)" id="0025">
+		<description>Chime Super Deluxe (Europe) (PSN)</description>
+		<rom name="Chime.Super.Deluxe.NPEB00374.Crack.pkg" size="3719520" crc="e5573160" md5="c4dc666bc36bf1efa6b3883fcbba4333" sha1="d6f223658166ba2167eb5a79ab07e2831d5dd5b4" serial="NPEB-00374"/>
+		<rom name="Chime.Super.Deluxe.NPEB00374.Install.pkg" size="197229920" crc="d2262be3" md5="023f8001293123e98f48ace387ebba0b" sha1="878df15e93f19179319a31ecb626c19ab44a8d34" serial="NPEB-00374"/>
+	</game>
+	<game name="Comix Zone (USA) (PSN)" id="0026">
+		<description>Comix Zone (USA) (PSN)</description>
+		<rom name="Comix.Zone.PSN.PS3-DUPLEX.NPUB30460.Crack.pkg" size="1745568" crc="5f285242" md5="3c910c3060b98e9808ec87b4603baa87" sha1="2b288a3f8b15c133eeae46555e417720984ed232" serial="NPUB-30460"/>
+		<rom name="Comix.Zone.PSN.PS3-DUPLEX.NPUB30460.Install.pkg" size="40950640" crc="0ef0f88b" md5="9eb0f47a01eb3529c94135ddf24c2675" sha1="8ef5c964dfe660c89f3f23b0ab7285890dc5dd61" serial="NPUB-30460"/>
+	</game>
+	<game name="Costume Quest (USA) (PSN)" id="0027">
+		<description>Costume Quest (USA) (PSN)</description>
+		<rom name="Costume.Quest.PSN.PS3-DUPLEX.NPUB30267.Crack.pkg" size="6691952" crc="8abafed5" md5="57c4f3e6ec6fd15b2f68d9e01bef9459" sha1="29afdccecf63e28fc10f3577b4672dae5875f665" serial="NPUB-30267"/>
+		<rom name="Costume.Quest.PSN.PS3-DUPLEX.NPUB30267.Decrypted.elf" size="11753072" crc="2a1c15f5" md5="78ae51e8ea0d391b08f71122c8a7e27e" sha1="5799637c89277ede129747b467c489607dc0f5eb" serial="NPUB-30267"/>
+		<rom name="Costume.Quest.PSN.PS3-DUPLEX.NPUB30267.Install.pkg" size="404701232" crc="50a06083" md5="e9bed2efc3b466f9b69f8de5b2a11205" sha1="24a3f26ad013cd16483704feb070535295d0fe31" serial="NPUB-30267"/>
+		<rom name="Costume.Quest.PSN.PS3-DUPLEX.NPUB30267.Patch.v1.01.pkg" size="8641872" crc="bb88dd3d" md5="863081fd41e9a8d25bcf65542135dbf7" sha1="c23fe254bea2255fc0690445b2a1a7f7cebe9881" serial="NPUB-30267"/>
+	</game>
+	<game name="Crimsonland (USA) (PSN)" id="0203">
+		<description>Crimsonland (USA) (PSN)</description>
+		<rom name="duplex-crimsonland.psn-install.pkg" size="86980656" crc="296f56ba" md5="b48c2b9f86a76e13940e5f0cc9162eb0" sha1="4a35e2d938212b1144a24215fe7d6a240e660b92" serial="NPUB-31655"/>
+		<rom name="duplex-crimsonland.psn-crack.pkg" size="6080" crc="4378399c" md5="6a827cb54c71967a3280fb3108fa6883" sha1="25a7d026c227d6070342627bb678d32e4e0a2f3c" serial="NPUB-31655"/>
+	</game>
+	<game name="Critter Crunch (USA) (PSN)" id="0028">
+		<description>Critter Crunch (USA) (PSN)</description>
+		<rom name="Critter.Crunch.PSN.PS3-DUPLEX.NPUB30059.Crack.pkg" size="4034496" crc="03da995c" md5="64b7c74c46c8c6c7625ee10db3dfe71c" sha1="fd9c64b66df60e838556d04059380e4583c466ee" serial="NPUB-30059"/>
+		<rom name="Critter.Crunch.PSN.PS3-DUPLEX.NPUB30059.Decrypted.elf" size="5935664" crc="92fa912c" md5="6e9c7f8fa12aac0cee837f5143e4984f" sha1="0f0a08daac594c077c1c9feafdc87170a7dc1bc4" serial="NPUB-30059"/>
+		<rom name="Critter.Crunch.PSN.PS3-DUPLEX.NPUB30059.Install.pkg" size="444345296" crc="9a771a40" md5="585f35238e81f134d2cc8cad6832f89f" sha1="59589cb7f3e2498b48a075910432478085420470" serial="NPUB-30059"/>
+		<rom name="Critter.Crunch.PSN.PS3-DUPLEX.NPUB30059.Patch.v1.01.pkg" size="16854112" crc="e648ee6f" md5="90073fd0f9b691308d0c0064e2ba86d6" sha1="0c951183e47f2a87ef52fe58d64080cc93260f45" serial="NPUB-30059"/>
+	</game>
+	<game name="Crysis 3 - All DLC Unlocker (World) (DLC)" id="0235">
+		<description>Crysis 3 - All DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-crysis.3.all.dlc.unlocker.pkg" size="119232" crc="f8631f72" md5="db3af8e83d28ca93439f34c82a1e311e" sha1="4e759efb78cf9c01b2078b2b5c5c4996fb2292e2"/>
+	</game>
+	<game name="Crystal Defenders (USA) (PSN)" id="0029">
+		<description>Crystal Defenders (USA) (PSN)</description>
+		<rom name="NPUB30092_Crystal_Defenders.pkg" size="52277872" crc="4a83eb8f" md5="0ef08525d06e1c694b462ccce4b33d71" sha1="dd3fed77bc780fa628567119167f10ceaf2db981" serial="NPUB-30092"/>
+	</game>
+	<game name="Dark Mist (China) (PSN)" id="0030">
+		<description>Dark Mist (China) (PSN)</description>
+		<rom name="Dark.Mist.PSN.PS3-DUPLEX.NPHA80030.Crack.pkg" size="6943088" crc="20cf8365" md5="eb2cb9a58d02bbe6b7c2110687613d13" sha1="9310bcdf02e8ef7c147f285e7e301af7f5a243a2" serial="NPHA-80030"/>
+		<rom name="Dark.Mist.PSN.PS3-DUPLEX.NPHA80030.Install.pkg" size="600244464" crc="ef6e344e" md5="5e494d7ee564158bef40125945e3c5bf" sha1="88b91f1d22c51bfb7cb91e113d9af6022162b57c" serial="NPHA-80030"/>
+		<rom name="Dark.Mist.PSN.PS3-DUPLEX.NPHA80030.Patch.v1.01.pkg" size="955844048" crc="b3f6c3c4" md5="5bdb5213c0a7b5313d8ff5a5593d259d" sha1="aee48a634bec5a660d895df4c806df87396fdc3b" serial="NPHA-80030"/>
+	</game>
+	<game name="Daytona USA (USA) (PSN)" id="0031">
+		<description>Daytona USA (USA) (PSN)</description>
+		<rom name="Daytona.USA.NPUB30493.Crack.pkg" size="4689744" crc="c9722306" md5="50fc65763f4664267ae682b34122e838" sha1="7c0c0dc8181bd50f47ad81a27da77fd17f6fc112" serial="NPUB-30493"/>
+		<rom name="Daytona.USA.NPUB30493.Install.pkg" size="235481632" crc="86509636" md5="b221f11fced52b7419e9e3c4ffe181f9" sha1="26e0a13db17db8c4e5a84858460179c693e97b95" serial="NPUB-30493"/>
+	</game>
+	<game name="Dead Block (USA) (PSN)" id="0032">
+		<description>Dead Block (USA) (PSN)</description>
+		<rom name="Dead.Block.NPUB30482.PSN.PS3-DUPLEX.Crack.pkg" size="12332176" crc="c9407931" md5="e5b23108d483996224ac19eaff5270c1" sha1="a5c4b1e54e2a326567060d6966d23773a95f2eb2" serial="NPUB-30482"/>
+		<rom name="Dead.Block.NPUB30482.PSN.PS3-DUPLEX.Install.pkg" size="470060368" crc="c70b1d5d" md5="f858d25135ef2254537cc23c574223d2" sha1="b1a18271fae7b4db21d514bb1746514da0c9ee73" serial="NPUB-30482"/>
+	</game>
+	<game name="Dead Space 3 - All DLC Unlocker (World) (DLC)" id="0234">
+		<description>Dead Space 3 - All DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-dead.space.3.all.dlc.unlocker.pkg" size="108880" crc="49e31c07" md5="2cce503a3501c7d37a2e98d8e7a4af3c" sha1="113d7bcd82952f436d4a6ad637be5dbde09e4339"/>
+	</game>
+	<game name="Deadfall Adventures - Heart of Atlantis (USA) (PSN)" id="0192">
+		<description>Deadfall Adventures - Heart of Atlantis (USA) (PSN)</description>
+		<rom name="duplex-deadfall.adventures.heart.of.atlantis.crack.pkg" size="6080" crc="f6f4ddfc" md5="b8ef4b9827a4681b266b0f8c58ef1c45" sha1="aba43aaaf1426a329f3c414dfce57097a2091277" serial="NPUB-31589"/>
+		<rom name="duplex-deadfall.adventures.heart.of.atlantis.install.pkg" size="2857860544" crc="3b408b52" md5="62113742d20746d5f37d8769a7e41529" sha1="2f6aa8be79bdc70183b67cf89a755768d98aa1e2" serial="NPUB-31589"/>
+	</game>
+	<game name="Deadliest Warrior - Legends (USA) (PSN)" id="0033">
+		<description>Deadliest Warrior - Legends (USA) (PSN)</description>
+		<rom name="Deadliest.Warrior.Legends.PSN.PS3-DUPLEX.NPUB30490.Crack.pkg" size="5201648" crc="b8010da6" md5="8f454a82547afc20e5b06687c0fdcef0" sha1="955c1d8596a129e383ebf2f6d75f0dfaf150d563" serial="NPUB-30490"/>
+		<rom name="Deadliest.Warrior.Legends.PSN.PS3-DUPLEX.NPUB30490.Decrypted.elf" size="6346184" crc="3fa44217" md5="6f3e251fbbcee535f9002640c45b3b66" sha1="af1067b2ba5ee4cfa8c388682a0042d2c0f5b700" serial="NPUB-30490"/>
+		<rom name="Deadliest.Warrior.Legends.PSN.PS3-DUPLEX.NPUB30490.Install.pkg" size="1788664448" crc="e05b09fe" md5="2fcdd33b27568d156dcfbd0fda347aec" sha1="72097c0d8c306a79e0a383092935c4966d4ea1c3" serial="NPUB-30490"/>
+	</game>
+	<game name="Deadliest Warrior - The Game (USA) (PSN)" id="0034">
+		<description>Deadliest Warrior - The Game (USA) (PSN)</description>
+		<rom name="Deadliest.Warrior.The.Game.PSN.PS3-DUPLEX.NPUB30309.Crack.pkg" size="5140032" crc="9b6f3c7c" md5="9f366e7a1b2fca0483108350592bd8ea" sha1="3371be2da900e05fc6a553f496b68cfe9ad0f719" serial="NPUB-30309"/>
+		<rom name="Deadliest.Warrior.The.Game.PSN.PS3-DUPLEX.NPUB30309.Decrypted.elf" size="6201472" crc="b3459436" md5="b9a97420f3b5d8a2021b10c490e9a81f" sha1="b9fd091c517a97f7a03c8ab8c8f9ddfbd34a23f3" serial="NPUB-30309"/>
+		<rom name="Deadliest.Warrior.The.Game.PSN.PS3-DUPLEX.NPUB30309.Install.pkg" size="940311952" crc="c7c6ea1b" md5="c57f0c07e598098ca8794d5694b0d32d" sha1="9b9dcec9a8cb55ed8b45f8d257e736b0546497fb" serial="NPUB-30309"/>
+		<rom name="Deadliest.Warrior.The.Game.PSN.PS3-DUPLEX.NPUB30309.Patch.v1.02.pkg" size="176289024" crc="0a810237" md5="5453893d6d974f23840d67f878d81daf" sha1="ca00e31ba0d63b8276e5182ecfc69a593a7ea52c" serial="NPUB-30309"/>
+	</game>
+	<game name="Defense Technica (USA) (PSN)" id="0191">
+		<description>Defense Technica (USA) (PSN)</description>
+		<rom name="duplex-defense.technica.psn.Install.pkg" size="446928784" crc="c491b10a" md5="ad79bee2e9c35ecfe3c5992102724d34" sha1="8e0300951298ba89a6cefa663dd1e47b7f95e609" serial="NPUB-31350"/>
+		<rom name="duplex-defense.technica.psn.Crack.pkg" size="6080" crc="ac5d3570" md5="9a0aa0c1a42f76740c967fe7bff2bdcb" sha1="cbda3cd7f8871317ba3699bf19f8746ae2aa414c" serial="NPUB-31350"/>
+	</game>
+	<game name="Detuned (USA) (PSN)" id="0035">
+		<description>Detuned (USA) (PSN)</description>
+		<rom name="Detuned.PSN.PS3-DUPLEX.NPUA80008.Crack.pkg" size="1272432" crc="7a5c4b31" md5="67bee2e145131dd499c168e975125191" sha1="3acaf3e11ede4040b0dea9af5cd47727b14d6a7c" serial="NPUA-80008"/>
+		<rom name="Detuned.PSN.PS3-DUPLEX.NPUA80008.Install.pkg" size="54841920" crc="82d48a72" md5="b35c3482db8d5df8bd0da68221d96ef7" sha1="a225a943f2be8e8a13e9e584e371c566c96eee9f" serial="NPUA-80008"/>
+	</game>
+	<game name="Digger HD (USA) (PSN)" id="0036">
+		<description>Digger HD (USA) (PSN)</description>
+		<rom name="Digger-HD_Full.pkg" size="91701792" crc="6d9b5312" md5="471f94702e7ecae1c1cd9b255da08734" sha1="eba37792eb2c16c15dff427d242edb0753fad6fc" serial="NPUB-30089"/>
+	</game>
+	<game name="Dollar Dash (USA) (PSN)" id="0144">
+		<description>Dollar Dash (USA) (PSN)</description>
+		<rom name="rapture-dollar.dash-install.pkg" size="459868432" crc="e5a45233" md5="9cef2e5260b2bc6da4d62977c76933a2" sha1="646c580b2a9b57a663f2dba1e38dedfc87a7aad9" serial="NPUB-30938"/>
+		<rom name="UP2060-NPUB30938_00-DOLLARDASHKEY001.edat" size="352" crc="0bd0f0eb" md5="85921222529d376a88617843f49de141" sha1="9dc88b9e694c7f15b2eae5dabf8aaa9ee675125f" serial="NPUB-30938"/>
+	</game>
+	<game name="Dragon Fin Soup (USA) (PSN)" id="0214">
+		<description>Dragon Fin Soup (USA) (PSN)</description>
+		<rom name="UP2186-NPUB31652_00-GRIMMBROS1DFS006_bg_1_d72a394cad9a3423a65f8d546dc3821c34e97be9.pkg" size="452053504" crc="93360841" md5="6c3e431aacbe674dbb92a999d498ae17" sha1="e07c0b4852508c54296e27964d9dcbb6987afe7b" serial="NPUB-31652"/>
+		<rom name="[CRACK-CFW-4.21+]NPUB31652_DRAGON_FIN_SOUP.pkg" size="5190848" crc="87e5bcdd" md5="a767fcb06db1087252370f109f997bda" sha1="aaf4b80d354c982b3b9bd06c646a4a8e9e533d0e" serial="NPUB-31652"/>
+	</game>
+	<game name="Dream Chronicles (USA) (PSN)" id="0037">
+		<description>Dream Chronicles (USA) (PSN)</description>
+		<rom name="Dream.Chronicles.PSN.PS3-DUPLEX.NPUB30192.Crack.pkg" size="6946368" crc="feac9b46" md5="efd2fc412314ac1a1bf969f4993fd74d" sha1="8b2ddd9ea4b2ef93995029972745001212fbc9aa" serial="NPUB-30192"/>
+		<rom name="Dream.Chronicles.PSN.PS3-DUPLEX.NPUB30192.Decrypted.elf" size="16679800" crc="dcfc8a02" md5="14509e6aee5b8c4866ad614cf00f6c35" sha1="6e83aea8bb225f50ba69c9022a9da0067919b003" serial="NPUB-30192"/>
+		<rom name="Dream.Chronicles.PSN.PS3-DUPLEX.NPUB30192.Install.pkg" size="145395952" crc="95ebda53" md5="93d037063b391898c0af683119eae577" sha1="7b7e826718e92efa3223d75f1243b379b705115f" serial="NPUB-30192"/>
+	</game>
+	<game name="Driver - San Francisco (Europe) (PSN)" id="0124">
+		<description>Driver - San Francisco (Europe) (PSN)</description>
+		<rom name="Driver.San.Francisco.PSN.PS3-DUPLEX.NPEB00632.Install.1.pkg" size="2967773040" crc="d9b87e35" md5="44b9a8a922a2fe1ea57194cef05b553f" sha1="93b3973d24cd6c287af5e3b0538e0c50e77a8b0e" serial="NPEB-00632"/>
+		<rom name="Driver.San.Francisco.PSN.PS3-DUPLEX.NPEB00632.Install.2.pkg" size="3943028176" crc="0ef6ac38" md5="119f5dcaa6c16914e7f4f722294e1e00" sha1="82dfb7e6c6e08e19587246a1d5cfe5283e0a077f" serial="NPEB-00632"/>
+		<rom name="Driver.San.Francisco.PSN.PS3-DUPLEX.NPEB00632.Install.3.and.Crack.pkg" size="2777815488" crc="96e9637a" md5="e15d0edf55665d37a9a3cfd045287681" sha1="9c433fe9bea58d89affb07ea7f0e4c79587fcdf0" serial="NPEB-00632"/>
+	</game>
+	<game name="Duck Tales - Remastered (USA) (PSN)" id="0163">
+		<description>Duck Tales - Remastered (USA) (PSN)</description>
+		<rom name="duckcrack.pkg" size="27741296" crc="c7d9d6b7" md5="c72a5cc16fb4cbd290f8e8c0c8bb5976" sha1="7f6d5902dd0406093c51e1a02deefb944aa24ad0" serial="NPUB-31126"/>
+		<rom name="duplex-ducktales.pkg" size="674105424" crc="365b2040" md5="9030bdcc4b19e3bdfff2b926ab9e9429" sha1="6ef6a65e13eb381e57f2aecf7263013426366b9b" serial="NPUB-31126"/>
+	</game>
+	<game name="Dungeons and Dragons - Chronicles of Mystara (Europe) (PSN)" id="0155">
+		<description>Dungeons and Dragons - Chronicles of Mystara (Europe) (PSN)</description>
+		<rom name="DUPLEX-Dungeons.and.Dragons.Chronicles.of.Mystara.Crack.pkg" size="6080" crc="7766e614" md5="8c863d348e52b561b3c374ef5a23fa65" sha1="d5cad57021c205aa269a8affa07883a9b54b802f" serial="NPEB-01275"/>
+		<rom name="DUPLEX-Dungeons.and.Dragons.Chronicles.of.Mystara.pkg" size="256110800" crc="881b57a9" md5="ed67e40ae4287b50f1bdb1d3dfab2803" sha1="d8678c5d8deeb6a3d8836b84c8cac6b5e7e0121d" serial="NPEB-01275"/>
+	</game>
+	<game name="Earthworm Jim HD (USA) (PSN)" id="0038">
+		<description>Earthworm Jim HD (USA) (PSN)</description>
+		<rom name="Earthworm.Jim.HD.PSN.PS3-DUPLEX.NPUB30120.Crack.pkg" size="6968576" crc="47981537" md5="ca8ef926c5b9fa857247b7e95be214e7" sha1="d22bc4bc526921ebbfed090ea3d18e980e588b40" serial="NPUB-30120"/>
+		<rom name="Earthworm.Jim.HD.PSN.PS3-DUPLEX.NPUB30120.Decrypted.elf" size="15088120" crc="299640b6" md5="59c90ab39eb229357a24a615e4971d11" sha1="05d5bd5a8efda45b8e5053fd14b41d13cfb34db7" serial="NPUB-30120"/>
+		<rom name="Earthworm.Jim.HD.PSN.PS3-DUPLEX.NPUB30120.Install.pkg" size="239015120" crc="edcf23e8" md5="95a77a8f133dac68b2d16087c7b11230" sha1="3f544c59bd0e8ab61f64710f966d74de04978f82" serial="NPUB-30120"/>
+	</game>
+	<game name="Evil Within, The - Fighting Chance Pack - DLC Unlocker (World) (DLC)" id="0263">
+		<description>Evil Within, The - Fighting Chance Pack - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-evil.within.fighting.chance.pack.dlc.pkg" size="3287360" crc="485e8ce6" md5="555b5ec8475b816fbaf0c2fb9a81e018" sha1="61b23985b4cb6eca0bc0c44d88a7c29468d18ffb"/>
+	</game>
+	<game name="Explodemon (Europe) (PSN)" id="0039">
+		<description>Explodemon (Europe) (PSN)</description>
+		<rom name="Explodemon.PSN.PS3-DUPLEX.NPEB00306.Crack.pkg" size="4593088" crc="09ba849a" md5="fa251cdde34be15e50128b7f08a152a5" sha1="b83d0156f47b5a50b5ea6260a445acf85b153a02" serial="NPEB-00283"/>
+		<rom name="Explodemon.PSN.PS3-DUPLEX.NPEB00306.Decrypted.ELF" size="9932224" crc="aa51de88" md5="c82cb5052853ac04f32217e2a1a81a20" sha1="7638c101acfb28cc4570c3f89f5aef1b921bf296" serial="NPEB-00283"/>
+		<rom name="Stacking.PSN.PS3-DUPLEX.NPEB00283.Install.pkg" size="1325724480" crc="e571008b" md5="b32bb395f1eb402dd1d89ee8b04aaaa0" sha1="f8582f3dbe58c7a19262f4c20802dd81a0476dfb" serial="NPEB-00283"/>
+	</game>
+	<game name="Faery - Legends of Avalon (USA) (PSN)" id="0040">
+		<description>Faery - Legends of Avalon (USA) (PSN)</description>
+		<rom name="Faery.Legends.of.Avalon.PSN.PS3-DUPLEX.NPUB30250.Crack.pkg" size="8923520" crc="1d32d36a" md5="baff25a4457ee80d6cfaf8cb22438aec" sha1="b39c2876fe1a97839eba45be6c07b4e94999d49a" serial="NPUB-30250"/>
+		<rom name="Faery.Legends.of.Avalon.PSN.PS3-DUPLEX.NPUB30250.Install.pkg" size="587067344" crc="2009975c" md5="0b0564179ec5125b58d6eaff3f550062" sha1="2fce8246f0c731e586435a132a091d92353761da" serial="NPUB-30250"/>
+		<rom name="Faery.Legends.of.Avalon.PSN.PS3-DUPLEX.NPUB30250.Patch.v1.01.pkg" size="21835296" crc="ce64ce64" md5="61aecce583756e91496f7e504014d9f1" sha1="90224cdad1c388e8bdc3fde8764056e04b8a11a5" serial="NPUB-30250"/>
+	</game>
+	<game name="Family Feud (USA) (PSN)" id="0061">
+		<description>Family Feud (USA) (PSN)</description>
+		<rom name="SET119-NPUB30188_00-FAMILYFEUD000001.pkg" size="252750320" crc="23de851e" md5="a92e1c7f4c2c48cb7eac7f6e64211921" sha1="8c4edee14e2076ae28c17e203cd0b15fe0d81a1a" serial="NPUB-30188"/>
+	</game>
+	<game name="Far Cry 3 (World) (PSN)" id="0223">
+		<description>Far Cry 3 (World) (PSN)</description>
+		<rom name="duplex-far.cry.3-install.part1.pkg" size="3181145696" crc="8c009e72" md5="5ed8e615f59bcae1b1e0dc8817c5bdfa" sha1="9d1756b544aa718134849217445cdeacbc37a320"/>
+		<rom name="duplex-far.cry.3-install.part2.pkg" size="3577805024" crc="9c62befa" md5="db483399cc3b8d63dc7e4c7ed6867755" sha1="cf6d6ea4f9a2c1e1d4a71b5421bb8fe6dc7d3f28"/>
+		<rom name="duplex-far.cry.3.crack.pkg" size="109174656" crc="94674871" md5="c0a13a475df93b96028d5e2f76cb9f0c" sha1="e6b24ec90c47cff2f358f4cf96b4c5e5ff75468f"/>
+	</game>
+	<game name="Far Cry 3 - Blood Dragon (USA) (PSN)" id="0148">
+		<description>Far Cry 3 - Blood Dragon (USA) (PSN)</description>
+		<rom name="farcry3blooddragon.pkg" size="1862390608" crc="39bac312" md5="0f4b141953974fdcf621a0ade6b32fc5" sha1="6036ddbaf475aa2f3d95e1893e8fd9ef70aef082" serial="NPUB-31142"/>
+		<rom name="fc3blooddragoncrk.pkg" size="6080" crc="649eea07" md5="70132ccb26fd21bba611378a5f491d64" sha1="c3c0a805ebe1cc6f95cfb832ce7a3c821c21ea78" serial="NPUB-31142"/>
+	</game>
+	<game name="Far Cry 3 - DLC Unlocker (World) (DLC)" id="0250">
+		<description>Far Cry 3 - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-farcry3.dlc.unlocker.pkg" size="141568" crc="0b233e90" md5="18b3415ecfcf341455e2ee714ec7a669" sha1="b3365b4583fd335f52ae5f374b777a13eb4135aa"/>
+	</game>
+	<game name="Far Cry 4 - DLC Unlocker (World) (DLC)" id="0262">
+		<description>Far Cry 4 - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-far.cry.4.dlc.unlocker.pkg" size="102400" crc="13965394" md5="74fdf7059ae0a9515c2a0664569b4db5" sha1="097920dd47da260a2f77beee1999a67c4d4d8ca3"/>
+	</game>
+	<game name="Far Cry Classic (USA) (PSN)" id="0179">
+		<description>Far Cry Classic (USA) (PSN)</description>
+		<rom name="Far.Cry.Classic.NPUB30737.Crack.pkg" size="6080" crc="91822671" md5="83dc5666dff439dd0acee05067e35086" sha1="d3aa8a745f76ce35a2730f37e68bedbaee683772" serial="NPUB-30737"/>
+		<rom name="Far.Cry.Classic.NPUB30737.Install.pkg" size="2994870368" crc="507d2ea5" md5="5531b0939949900a46e91d9b66b2512f" sha1="972ea462b8255c5f3eb22394149b54767ab985cb" serial="NPUB-30737"/>
+	</game>
+	<game name="Fez (USA) (PSN)" id="0187">
+		<description>Fez (USA) (PSN)</description>
+		<rom name="jmNsFOMrOQOOAXcLLwbMOwDBKfYqLUOfXIaovqoRBXeXSqOYNBMgrALaoGBidREy.pkg" size="189907280" crc="9ae9aa41" md5="4571fea8967577e14d67288a64f741b1" sha1="0294df168454385a8a15188ac7da74863b03ef77" serial="NPUB-31448"/>
+		<rom name="UP4427-NPUB31448_00-FEZKEY0000000000.edat" size="352" crc="1492f7b7" md5="4ea84d00b5f5fad21aba35ff63e18c6f" sha1="07a482db0bfe2c857e05b05bd62acf5b90cbb4b4" serial="NPUB-31448"/>
+	</game>
+	<game name="FIFA 12 (Europe) (PSN)" id="0125">
+		<description>FIFA 12 (Europe) (PSN)</description>
+		<rom name="FIFA12PSNFIXED01.pkg" size="3485939456" crc="29868564" md5="8253d56bffa92f6c58c32914b6f82975" sha1="59af38c090e839ca24dd0b6fe993a0c9d59cb24f" serial="NPEB-00688"/>
+		<rom name="FIFA12PSNFIXED02.pkg" size="2927418448" crc="19903fec" md5="a59ee57a4eb65e8030c2b22fe2fd57dc" sha1="62c06c379776f29a7c97252fd24f14de581a8986" serial="NPEB-00688"/>
+		<rom name="FIFA12PSNFIXED03.pkg" size="3182785232" crc="6e115eaf" md5="91ddf6898b6119db756f49c41aa7b83e" sha1="5299811d5263f81ede4cdb2ba7ce0b709e25cb7c" serial="NPEB-00688"/>
+	</game>
+	<game name="Fighting Vipers (USA) (PSN)" id="0132">
+		<description>Fighting Vipers (USA) (PSN)</description>
+		<rom name="Fighting.Vipers.PSN.PS3-DUPLEX.NPUB30929.Crack.pkg" size="6142576" crc="2d78f3c0" md5="447f9786ee913940fa020104531306c4" sha1="860a0114670ea8ad75522be4e2ff4c7a63da5e28" serial="NPUB-30929"/>
+		<rom name="Fighting.Vipers.PSN.PS3-DUPLEX.NPUB30929.Install.pkg" size="70423136" crc="ceaa656b" md5="9ee88c1696f7e8c9d18403d7ca5aff8f" sha1="251e6ca17d92768fd647f0e489f54712598cd87c" serial="NPUB-30929"/>
+	</game>
+	<game name="Final Fight - Double Impact (USA) (PSN)" id="0041">
+		<description>Final Fight - Double Impact (USA) (PSN)</description>
+		<rom name="Final.Fight.Double.Impact.PSN.PS3-DUPLEX.NPUB30087.Crack.pkg" size="4089248" crc="205add71" md5="1e9c1cb8d95bc6772068f01de72f3d00" sha1="616f10569424c230eb2b11665a0328dd295a6e24" serial="NPUB-30087"/>
+		<rom name="Final.Fight.Double.Impact.PSN.PS3-DUPLEX.NPUB30087.Install.pkg" size="268531216" crc="212ca86b" md5="fbfc2c559d47e63fc892ffc755b8c6cb" sha1="194591cad555d7ddc2946019eac462064d9669b9" serial="NPUB-30087"/>
+	</game>
+	<game name="Flashback (Europe) (PSN)" id="0170">
+		<description>Flashback (Europe) (PSN)</description>
+		<rom name="duplex-flashback.crack.pkg" size="682112" crc="928326bd" md5="9418161913329a46b78aa23a0208019a" sha1="6b91752ccb70b6e5b62dac7987e42e87573b1ba4" serial="NPEB-01417"/>
+		<rom name="duplex-flashback.pkg" size="2123436416" crc="95f368d9" md5="4b28b5e98032098afeb4cabfafff28a6" sha1="10c6597d997345f7399c2a65e5cf967f095f33bf" serial="NPEB-01417"/>
+	</game>
+	<game name="Forest Legends - The Call of Love (USA) (PSN)" id="0180">
+		<description>Forest Legends - The Call of Love (USA) (PSN)</description>
+		<rom name="Forest.Legends.The.Call.of.Love.PSN.PS3-DUPLEX.Crack.pkg" size="6080" crc="e551ac42" md5="7217b1495ef6b47476ebc6c457475f7d" sha1="c2fc81ae037202244d8afa3734e1b92bd4d02f0d" serial="NPUB-31407"/>
+		<rom name="Forest.Legends.The.Call.of.Love.PSN.PS3-DUPLEX.Install.pkg" size="2350488912" crc="cf3c601e" md5="ccb63d09227d72f94dfeb1d639fe4a6c" sha1="1904ecc1c9bb30fe31ad9637d97c8288337d638f" serial="NPUB-31407"/>
+	</game>
+	<game name="Frogger Returns (USA) (PSN)" id="0122">
+		<description>Frogger Returns (USA) (PSN)</description>
+		<rom name="UP0101-NPUB30118_00-FROGGERRETRN0001 - 3.41.pkg" size="42387616" crc="3448ce4e" md5="7d15c948e57bf1906f25eec29950e273" sha1="89d7ef4f1045fe65e3de9e14eebba71b19115d99" serial="NPUB-30118"/>
+		<rom name="UP0101-NPUB30118_00-FROGGERRETRN0001 - 3.55.pkg" size="42387616" crc="e11c7133" md5="f58f9f9d9daf63a6f85420b26cff88a3" sha1="4598553d02c35426ef77b5be71e5aabad5bd3c58" serial="NPUB-30118"/>
+	</game>
+	<game name="Fuse - DLC Unlocker (World) (DLC)" id="0242">
+		<description>Fuse - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-fuse.dlc.unlocker.pkg" size="108048" crc="b38ce6f5" md5="e364f32fde12de7ac7a2b6c0a3cd3f8c" sha1="0cfee0a22b7a9ec850302b42d56bec7c0f800cd3"/>
+	</game>
+	<game name="Galaga Legions DX (USA) (PSN)" id="0042">
+		<description>Galaga Legions DX (USA) (PSN)</description>
+		<rom name="Galaga.Legions.DX.PSN.PS3-DUPLEX.NPUB30321.Crack.pkg" size="1197760" crc="3ca85e21" md5="f4245663a3846cd0f6af8a2f5cf0f787" sha1="4fb054980ee09615232a65512c43d8d14ddaadde" serial="NPUB-30321"/>
+		<rom name="Galaga.Legions.DX.PSN.PS3-DUPLEX.NPUB30321.Decrypted.elf" size="2927264" crc="aa7ff94d" md5="4e60f58de5bbfe7a187f23a5567ac091" sha1="de887915877222dc7a71925cc2bd813a8842916e" serial="NPUB-30321"/>
+		<rom name="Galaga.Legions.DX.PSN.PS3-DUPLEX.NPUB30321.Install.pkg" size="140509664" crc="c746b77a" md5="a1a3800b5009d72c5301d2edc64a598f" sha1="4235499b7421a5fc096165265b21a0f14bbbb6e0" serial="NPUB-30321"/>
+	</game>
+	<game name="Game of Thrones - Season 01 Episode 01 - Iron from Ice (Europe) (PSN)" id="0193">
+		<description>Game of Thrones - Season 01 Episode 01 - Iron from Ice (Europe) (PSN)</description>
+		<rom name="crack-Game.of.Thrones.Season.01.Episode.01.Iron.from.Ice.PSN.PS3-PSFR33.pkg" size="8444096" crc="6295c7f1" md5="178afb0116477f8519775099572a549e" sha1="4dd1ad827ea451e9ee924b84526104bbef819dfc" serial="NPEB-02183"/>
+		<rom name="Game.of.Thrones.Season.01.Episode.01.Iron.from.Ice.PSN.PS3-PSFR33.pkg" size="1266850512" crc="85891814" md5="af011fb798c0520fd4bf7a57f016608e" sha1="566fe30580b4c0edd73f8dc2e192eeb53e194f65" serial="NPEB-02183"/>
+	</game>
+	<game name="Game of Thrones - Season 01 Episode 02 - The Lost Lords (USA) (PSN)" id="0204">
+		<description>Game of Thrones - Season 01 Episode 02 - The Lost Lords (USA) (PSN)</description>
+		<rom name="UP2026-NPUB31629_00-GOT000000000DLC2_bg_1_5b333217e747781ab724217ac7d30a2783b340b6.pkg" size="749202336" crc="78909f82" md5="17d8b87a1662add4443a841513e1f980" sha1="c2ec3cbd0c76685a8311a5241bd41b567856fdae" serial="NPUB-31629"/>
+		<rom name="NPEB02183_GAME_OF_THRONES_SEASON_1_EP_1-5_CRACK.pkg" size="1256976" crc="6934f9af" md5="2e1d8b9f559f8f364b6296dc4939f3ed" sha1="7c8d15bcc74accacd9294e92264287841a087a84" serial="NPUB-31629"/>
+	</game>
+	<game name="Germinator (Europe) (PSN)" id="0219">
+		<description>Germinator (Europe) (PSN)</description>
+		<rom name="zMgnITUeOOuYhwIapQDhkPomhqIAwbTdjtmrzBackTAEJpHuocrTslPcgxixzyJs.pkg" size="320728912" crc="07be374a" md5="9d033aa70e1ed2c72c474b005576db3c" sha1="33ffd3c55496136a983296ce8a0c79907ddc6a7f" serial="NPEB-01104"/>
+		<rom name="crack-npeb01104_germinator.pkg" size="848" crc="91ba5d9e" md5="9feef3375cf5e40e4ec8f8da460dad59" sha1="5b0235ef186e558076bcb92ac65fd8f26803f8b5" serial="NPEB-01104"/>
+	</game>
+	<game name="Ghostbusters - Sanctum of Slime (Europe) (PSN)" id="0043">
+		<description>Ghostbusters - Sanctum of Slime (Europe) (PSN)</description>
+		<rom name="Ghostbusters.Sanctum.of.Slime.PSN.PS3-DUPLEX.NPEB00384.Crack.pkg" size="7614304" crc="f33342fd" md5="ce8b78ee16c4defaaaf74a2887d022db" sha1="f4bb22725436657d7434f01fd4c37b870edee57e" serial="NPEB-00384"/>
+		<rom name="Ghostbusters.Sanctum.of.Slime.PSN.PS3-DUPLEX.NPEB00384.Install.pkg" size="272666928" crc="99e001d8" md5="9616cb9eb48d653cd331d817660f2c48" sha1="aa732e9813ea5e917b4e7c6b1b4b2741c7297c9c" serial="NPEB-00384"/>
+	</game>
+	<game name="Giana Sisters - Twisted Dreams (Europe) (PSN)" id="0156">
+		<description>Giana Sisters - Twisted Dreams (Europe) (PSN)</description>
+		<rom name="duplex-giana.sisters.twisted.dreams.crack.pkg" size="6080" crc="a1e36ee3" md5="438ba7374de68b53a7c8875eba20b54b" sha1="1cdb6b5751442a2f923f0b27074b2e6d04f533fa" serial="NPEB-01338"/>
+		<rom name="duplex-giana.sisters.twisted.dreams.pkg" size="1772255984" crc="85a4f55c" md5="445d1848dee22749c1c9b8e0b8c85c0f" sha1="72dd86a444d60716ea5960689100e9afb01fa10a" serial="NPEB-01338"/>
+	</game>
+	<game name="Girl Fight (Europe) (PSN)" id="0171">
+		<description>Girl Fight (Europe) (PSN)</description>
+		<rom name="duplex-girl.fight.crack.pkg" size="6080" crc="785f49b6" md5="1fa7dc0664e7e56fd9d2b8cb88aafda8" sha1="b52bef7e0c8b02fc76fbb3b5e9a37952a9d8331b" serial="NPEB-01036"/>
+		<rom name="duplex-girl.fight.pkg" size="1496218432" crc="a7f3f301" md5="6fd3ea905edd9d0136c3c1891a65ce9b" sha1="f3b3169015cbc60057d862c3a6e0a242f50982ca" serial="NPEB-01036"/>
+	</game>
+	<game name="God Mode (Europe) (PSN)" id="0157">
+		<description>God Mode (Europe) (PSN)</description>
+		<rom name="EP0005-NPEB01300_00-GODMODESCEEKEY00.edat" size="352" crc="a122c9b8" md5="eb92dae9c9559791f667c2f649e18e10" sha1="495dae3ee1ab14854b70aeb9baba047013da2e93" serial="NPEB-01300"/>
+		<rom name="install-God.Mode.PSN.PS3-PSFR33.pkg" size="1075315680" crc="5c0bbf1d" md5="9a928940f9a104a2d65e6d1dddfe56f2" sha1="7ebb5dc027dbf0ea649bbe10b11217a81e6bfbbd" serial="NPEB-01300"/>
+	</game>
+	<game name="God of War - Blood and Metal Soundtrack (World) (DLC)" id="0266">
+		<description>God of War - Blood and Metal Soundtrack (World) (DLC)</description>
+		<rom name="fPh3wF22RvnfgNLlLuk6tDberk03QgnO02cu3YhXek5L8HcB8naiWKM6dsypOyoTv8M37lSHy6RAkvfPsadxysWUUCSVh0WPhPFIH.pkg" size="77830080" crc="d6e97378" md5="4b374ce01ad4fc5f86cab97b4a69924d" sha1="8eec06582b6dce93dadef11ca14d7c1003ca3eb2" serial="NPEA00186"/>
+	</game>
+	<game name="God of War - Chains of Olympus HD (USA) (PSN)" id="0126">
+		<description>God of War - Chains of Olympus HD (USA) (PSN)</description>
+		<rom name="God.of.War.Chains.of.Olympus.HD.PSN.PS3-DUPLEX.NPUA80637.Install.1.pkg" size="4076268688" crc="ba85ce0f" md5="8aabcedc5f4570f0b81186eda04ba087" sha1="e01969ce071f9aef0e03b1cf83607522801cd525" serial="NPUA-80637"/>
+		<rom name="God.of.War.Chains.of.Olympus.HD.PSN.PS3-DUPLEX.NPUA80637.Install.2.and.Crack.pkg" size="3824275936" crc="278646e6" md5="fa0b90198a80dae0c330e18e7ea31f9f" sha1="f49347a19002e4b06573877b947816a7adbecd37" serial="NPUA-80637"/>
+	</game>
+	<game name="God of War - Ghost of Sparta HD (USA) (PSN)" id="0127">
+		<description>God of War - Ghost of Sparta HD (USA) (PSN)</description>
+		<rom name="God.of.War.Ghost.of.Sparta.HD.PSN.PS3-DUPLEX.NPUA80636.Install.1.pkg" size="3754490512" crc="a7920d29" md5="2e1d7611152c807f22a276fafc649b4e" sha1="bd370ad3ce75e8a6e1beefc0de6ffb5952eadfc2" serial="NPUA-80636"/>
+		<rom name="God.of.War.Ghost.of.Sparta.HD.PSN.PS3-DUPLEX.NPUA80636.Install.2.pkg" size="3673389760" crc="316ced52" md5="c41577ade3bea47f680aea08a2977489" sha1="127bd0ed14a2f37835d91da79b01b81c65b803fa" serial="NPUA-80636"/>
+		<rom name="God.of.War.Ghost.of.Sparta.HD.PSN.PS3-DUPLEX.NPUA80636.Install.3.and.Crack.pkg" size="2341211232" crc="266372b4" md5="2eeb545c598fbc62ba5e6cd15fbaf73b" sha1="fd631657f118aaf0fa651bd9466665f55fe864b5" serial="NPUA-80636"/>
+		<rom name="God.of.War.Ghost.of.Sparta.HD.PSN.PS3-DUPLEX.NPUA80636.Fix.pkg" size="102400" crc="34ed9a4b" md5="f0de88069c40f21b90d96be76fc79d4e" sha1="5802d191b3356c2b7ae6cebcedcba76b8a531ee4" serial="NPUA-80636"/>
+	</game>
+	<game name="God of War III - Ultimate Edition Trilogy (World) (DLC)" id="0265">
+		<description>God of War III - Ultimate Edition Trilogy (World) (DLC)</description>
+		<rom name="God of War III - Ultimate Edition Trilogy.pkg" size="102400" crc="6a3e5214" md5="440400e2c90f446bbee3bdda7d3abc1d" sha1="130206de9a2cee00bd6f8f7cf5ebd1a999e8e1c2" serial="BCES00510"/>
+	</game>
+	<game name="Golden Axe (USA) (PSN)" id="0044">
+		<description>Golden Axe (USA) (PSN)</description>
+		<rom name="Golden.Axe.PSN.PS3-DUPLEX.NPUB30441.Crack.pkg" size="1801200" crc="ca7a9043" md5="456d85887a5c99681e09054a7e816d78" sha1="62f0a1e7d09ae242de97cf0dad433814573beb89" serial="NPUB-30441"/>
+		<rom name="Golden.Axe.PSN.PS3-DUPLEX.NPUB30441.Install.pkg" size="37493776" crc="be5a95a3" md5="04772cf96712bcf0f124854920b244c6" sha1="faa111f3bec785f57f1c2124da3ce2a01cc44f23" serial="NPUB-30441"/>
+	</game>
+	<game name="Guacamelee (USA) (PSN)" id="0146">
+		<description>Guacamelee (USA) (PSN)</description>
+		<rom name="rapture-guacamelee-install.pkg" size="552215920" crc="af729ef7" md5="6fc9176a2d0707241859517844c95295" sha1="678560a9980906d4a1012c5a1d17e39ad0af388e" serial="NPUB-30672"/>
+		<rom name="UP2045-NPUB30672_00-GUACAMELEE000002.edat" size="352" crc="91ee3e39" md5="8db12cf8daaa4c7f88f76e50389ea2ca" sha1="c591d8748642a96dc23e8f0dd13d356513d69619" serial="NPUB-30672"/>
+	</game>
+	<game name="Hard Corps - Uprising (Europe) (PSN)" id="0045">
+		<description>Hard Corps - Uprising (Europe) (PSN)</description>
+		<rom name="Hard.Corps.Uprising.PSN.PS3-DUPLEX.NPE00332.Crack.pkg" size="6656000" crc="a9a94eba" md5="b53de7f3d76c7f78259527b22eac3d2a" sha1="8d45e36e2753061dd3ff3f3f2f7a719f095c2684" serial="NPEB-00332"/>
+		<rom name="Hard.Corps.Uprising.PSN.PS3-DUPLEX.NPE00332.Decrypted.ELF" size="18039088" crc="6d5a3b6a" md5="b9c146c82860bc1606ae4ed4280a1698" sha1="7f180511a5f7271c4685911ed9969ff93db31c7d" serial="NPEB-00332"/>
+		<rom name="Hard.Corps.Uprising.PSN.PS3-DUPLEX.NPE00332.Install.pkg" size="1419657136" crc="00bf48c9" md5="b47a8eebbf0584cc0dea8e65146edae1" sha1="465f84da10137bd3ba368e9cc241d1f9a610f785" serial="NPEB-00332"/>
+	</game>
+	<game name="Hard Corps - Uprising (World) (DLC)" id="0224">
+		<description>Hard Corps - Uprising (World) (DLC)</description>
+		<rom name="DLC Hard Cops Uprising.pkg" size="66130656" crc="791d3d16" md5="3369c1f9e5caa1ef62c6896af111cb80" sha1="6994f18fd06d822c31215d0b5e2efcf598ad3aaa"/>
+	</game>
+	<game name="Heavy Weapon - Atomic Tank (USA) (PSN)" id="0046">
+		<description>Heavy Weapon - Atomic Tank (USA) (PSN)</description>
+		<rom name="Heavy.Weapon.Atomic.Tank.PSN.PS3-DUPLEX.NPUA30004.Crack.pkg" size="21732736" crc="50efc2e1" md5="e5bf3e460f40233681c9d77cc405d88f" sha1="a0c7f22bb60e0302a3759acb9f6b1ac4b1cc25b8" serial="NPUA-30004"/>
+		<rom name="Heavy.Weapon.Atomic.Tank.PSN.PS3-DUPLEX.NPUA30004.Install.pkg" size="49754752" crc="72d3835d" md5="fbf7a5f2afa5154fdae36278e41bd7ae" sha1="13a0a8403c040047aef0b37b447b5a89d9d88912" serial="NPUA-30004"/>
+	</game>
+	<game name="Hell Yeah! - Wrath of the Dead Rabbit (Europe) (PSN)" id="0159">
+		<description>Hell Yeah! - Wrath of the Dead Rabbit (Europe) (PSN)</description>
+		<rom name="EP0177-NPEB00831_00-HELLYEAHKEY00000.edat" size="352" crc="e29a84b9" md5="e0d0e1c54b616a3d7d79bb6477c9f828" sha1="3052bae5e2e9826f1069c48ed5d60d7ba5bbfd4e" serial="NPEB-00831"/>
+		<rom name="fFetMBtlgUFccpsUCgGlGDzCJwweHAqyGWAnBviVHRewrRGZXsbdxSKvAqbomyqG.pkg" size="2842205344" crc="40acc618" md5="8fa5ed8e9d8ad3b89623c11cce0f9ff5" sha1="1a20da2f6874e147ae36e8bbccd030922a6b9258" serial="NPEB-00831"/>
+	</game>
+	<game name="Hotline Miami (USA) (PSN)" id="0274">
+		<description>Hotline Miami (USA) (PSN)</description>
+		<rom name="sa-hlmia.iso" size="856098369" crc="73ef0050" md5="0f94eefcd62e2437cb3aead2a6baea5f" sha1="6ede524283611267adb30bafaa1865214ff57fc1"/>
+		<rom name="NPUB31200\ICON0.PNG" size="135438" crc="ac0c2a55" md5="90f3b68096e46ae306bde7953e0d7b0f" sha1="11577e383c17dfc0a3d0502724cbf2aa7aadefee"/>
+		<rom name="NPUB31200\ICON1.PAM" size="1245184" crc="818dc6e4" md5="cab67426fdc6b850eab7926f6108afa6" sha1="cb9f460cccef2b4ad1b55e6d8582657b34b4112d"/>
+		<rom name="NPUB31200\PARAM.HIP" size="116" crc="017d160c" md5="1b8a83512223f880e500837a798bba4a" sha1="d8e3a5b945565a07c840ca423ebfa4815d34ebb2"/>
+		<rom name="NPUB31200\PARAM.SFO" size="1040" crc="5371ad54" md5="e43fd5801dabd0d57f81c73e5c686a57" sha1="911493eba28ee9a1ed23d1d1472b6c456e025afa"/>
+		<rom name="NPUB31200\PIC1.PNG" size="3481160" crc="fae1ba40" md5="1040fa0e2ef77ac0828e5a5c4b6dc5a0" sha1="eeb3de7b7117517c4b3e0496251d9e0a852bed5a"/>
+		<rom name="NPUB31200\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPUB31200\SND0.AT3" size="1631416" crc="65e386d6" md5="f37363c2bef4e00b26f7549d83229ac2" sha1="3e7b44d65193118c7adf68d7647c96cea3dda5e4"/>
+		<rom name="NPUB31200\TROPDIR\NPWR04533_00\TROPHY.TRP" size="233184" crc="9de22174" md5="0f8d050520cfd167112e64ba4173c0a5" sha1="3557e82a38c7c98ae9f7c71a2b1f7190116ba712"/>
+	</game>
+	<game name="Hyper Void (USA) (PSN)" id="0205">
+		<description>Hyper Void (USA) (PSN)</description>
+		<rom name="UP2171-NPUB31617_00-FULLDATADEMO0001_bg_1_019e693308c38fbf065e0da89307ff720e3667b8.pkg" size="1114579184" crc="fb616f8c" md5="3e7ea3d40a2f577de0a995afbdf20a72" sha1="4eb6edbc734c9f036056c21398e3cfb3df492675" serial="NPUB-31617"/>
+		<rom name="UP2171-NPUB31617_00-ZERODATAGAME0001.edat" size="352" crc="d67b5308" md5="ca95a7ac11e502c1be7ccd108d8902fe" sha1="562126171853b9ee4a97cfd8daa0028321dd35a1" serial="NPUB-31617"/>
+	</game>
+	<game name="InFamous 2 - Festival of Blood (USA) (PSN)" id="0047">
+		<description>InFamous 2 - Festival of Blood (USA) (PSN)</description>
+		<rom name="InFamous.2.Festival.of.Blood.NPUA80657.Crack.pkg" size="8475280" crc="11ca9fd2" md5="35847e9425360a59a3adf7498e8f5b17" sha1="d22ad812235bdcf5d1e344b5d691cd75dd2737cd" serial="NPUA-80657"/>
+		<rom name="InFamous.2.Festival.of.Blood.NPUA80657.Install.pkg" size="3242350256" crc="8e719568" md5="4dd19e3ee2b08c693601a04c92de10c5" sha1="cc9818cff90ee3ac681d183570a4f06853f9917f" serial="NPUA-80657"/>
+	</game>
+	<game name="Injustice - Gods Among Us - All DLC Unlocker (World) (DLC)" id="0241">
+		<description>Injustice - Gods Among Us - All DLC Unlocker (World) (DLC)</description>
+		<rom name="injusticealldlcBLUS.pkg" size="121456" crc="f660ba29" md5="6608d0659df184013cca1297c22cc7c6" sha1="f4b5d74e87811b71fe9c8d79f18cc1380774e52e"/>
+	</game>
+	<game name="Invincible Knight (China) (PSN)" id="0129">
+		<description>Invincible Knight (China) (PSN)</description>
+		<rom name="HP5018-NPHB00499_00-IKLICENSEPACKAGE.edat" size="352" crc="1a751487" md5="77e4cacb353c499130479014a07b29f3" sha1="47ae4798fbd0a9e8a7eaeac1d4a4c67bb919154c" serial="NPHB-00499"/>
+		<rom name="Invincible.Knight.PSN.PS3-DUPLEX.NPHB00499.Install.pkg" size="513570096" crc="e6e67599" md5="80c402a62468c52440a4ad91f9b458e1" sha1="7a44d41d46faeaae0a39ad16d1516a50a70e125d" serial="NPHB-00499"/>
+	</game>
+	<game name="Jackbox Party Pack, The (USA) (PSN)" id="0199">
+		<description>Jackbox Party Pack, The (USA) (PSN)</description>
+		<rom name="duplex-the.jackbox.party.pack.psn.Crack.pkg" size="6080" crc="1639184b" md5="65fed1e26f30f8a3d5e352d8215e1db8" sha1="6e196c356371f3860b91c7081457fc5a944f7065" serial="NPUB-31611"/>
+		<rom name="duplex-the.jackbox.party.pack.psn.Install.pkg" size="1350444352" crc="834c5683" md5="458c8288eeb9c6ee588dabd74fc3045c" sha1="527c50b711e12a5f205720bba88ddfbddcf8f62f" serial="NPUB-31611"/>
+	</game>
+	<game name="Just Dance 4 - Gangnam Style (World) (DLC)" id="0233">
+		<description>Just Dance 4 - Gangnam Style (World) (DLC)</description>
+		<rom name="duplex-just.dance.4.gangnam.style.dlc.pkg" size="352027920" crc="96279928" md5="367e9a40fddd9e6498c4dddf8b441611" sha1="0979b9d4bfc8707ef00a7d6224a8e68e592403c2"/>
+	</game>
+	<game name="Kick Beat (Europe) (PSN)" id="0164">
+		<description>Kick Beat (Europe) (PSN)</description>
+		<rom name="qpvEmRaDsbmYQqbsMdBKVgNsurCBUwHIpmpzkrvDbWPerBRVxvVqLEykkwrjTMXx.pkg" size="1450502704" crc="42cf4d98" md5="e217a5d8b8a848978caa807c381d9b15" sha1="0b41a014f00ae5271c36d402cd74b71ae414ec19" serial="NPEB-00885"/>
+		<rom name="EP4042-NPEB00885_00-KICKBEATLICENSE1.edat" size="352" crc="3aaff792" md5="1bb1472e6300885527bce7ed3720b3b3" sha1="43b0d8ba19ac0d558bdd9547f90fabf3de16b098" serial="NPEB-00885"/>
+	</game>
+	<game name="King Oddball (USA) (PSN)" id="0194">
+		<description>King Oddball (USA) (PSN)</description>
+		<rom name="UP4403-NPUB31651_00-ODDBALL000000001_bg_1_8ad3baad27c4db222e006a917e24c10296269990.pkg" size="58217088" crc="6a05c082" md5="e4db9d33ef50e61bf43b46c6bed5bad9" sha1="d0e4c1af9391c4c963cb08e2e41b35f8b57f393f" serial="NPUB-31651"/>
+		<rom name="up4403-npub31651_00-oddballunlock000.edat" size="352" crc="c24c6509" md5="9ff8f60a1218a32964c7bbe56a3622c3" sha1="69f27a0ee349db497d94a493f9fdebad75c494b1" serial="NPUB-31651"/>
+	</game>
+	<game name="King's Quest Chapter 1 - A Knight to Remember (USA) (PSN)" id="0217">
+		<description>King's Quest Chapter 1 - A Knight to Remember (USA) (PSN)</description>
+		<rom name="UP0002-NPUB31637_00-KINGSQUESTCHAPT1_bg_1_cd36c0007219a9ae70cacbed49f4c06de0b7485e.pkg" size="3059840016" crc="dead54a5" md5="74feb312d94b50bdb3a0169b9b055156" sha1="aeac66c97552463bde3eeecdf496259986c23b35" serial="NPUB-31637"/>
+		<rom name="crack-npub31637_kings_quest_chapter_1.pkg" size="12657968" crc="6842ddb3" md5="8e9bee62306c9b325aa4772d38465603" sha1="21e810e0d37e47a687c338ca6076c4a328bb5323" serial="NPUB-31637"/>
+	</game>
+	<game name="Last of Us, The - DLC Unlocker (World) (DLC)" id="0244">
+		<description>Last of Us, The - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-The.Last.of.Us.DLC.Unlocker.pkg" size="102400" crc="e14a87e0" md5="79b3112682323883b3b914ae11d18cd1" sha1="44d9d282ef75f9764650fd2cae9e67f0010520e7"/>
+	</game>
+	<game name="Last of Us, The - Left Behind (World) (DLC)" id="0257">
+		<description>Last of Us, The - Left Behind (World) (DLC)</description>
+		<rom name="The.Last.of.Us.Left.Behind.REPACK.DLC.PS3-DUPLEX.Install_1.pkg" size="3674240096" crc="3308d519" md5="071138a6dbb7b79059a327302e5755e6" sha1="59e561e5f97c2d98d99be6d28541f918590d9ade"/>
+		<rom name="The.Last.of.Us.Left.Behind.REPACK.DLC.PS3-DUPLEX.Install__2.pkg" size="1908817328" crc="18998cf3" md5="8fa63b9e571a8763184fe018d430fa49" sha1="4da422118ebcb5f08ebd1e135f77c0d75ae38f18"/>
+	</game>
+	<game name="LEGO Pirates of the Caribbean (Europe) (PSN)" id="0139">
+		<description>LEGO Pirates of the Caribbean (Europe) (PSN)</description>
+		<rom name="LEGO.Pirates.of.the.Caribbean.PSN.PS3-DUPLEX-NPEB00654.Install.1.pkg" size="3726310848" crc="1d3af9bb" md5="3d71893dc5078eab6961055973e765c1" sha1="1947e900e8f94141f7a40a55e36309f400ddff75" serial="NPEB-00654"/>
+		<rom name="LEGO.Pirates.of.the.Caribbean.PSN.PS3-DUPLEX-NPEB00654.Install.2.and.CRACK.pkg" size="4086238320" crc="b36fd94b" md5="886584b35999a8ac464dd08c60c951f4" sha1="767a2ca4fbcdcc69740236883bedbb5e67fd0e8a" serial="NPEB-00654"/>
+	</game>
+	<game name="Lemmings (USA) (PSN)" id="0048">
+		<description>Lemmings (USA) (PSN)</description>
+		<rom name="Lemmings.PSN.PS3-DUPLEX.NPUA80012.Install.pkg" size="324132064" crc="f5f9fdb7" md5="b71127b32a8575f694c5d5ddad97e42f" sha1="7bb0a3b6b5cf9788d121adc9cac1a6d4c48de23c" serial="NPUA-80012"/>
+	</game>
+	<game name="Limbo (USA) (PSN)" id="0049">
+		<description>Limbo (USA) (PSN)</description>
+		<rom name="Limbo.PSN.PS3-DUPLEX.NPUB30373.Crack.pkg" size="2423936" crc="9d4bf86f" md5="604a618d64f8f9514e2a391153b4c6c1" sha1="26c3b57d0756f12b8e10b6c261b4f4944abaff0e" serial="NPUB-30373"/>
+		<rom name="Limbo.PSN.PS3-DUPLEX.NPUB30373.Decrypted.elf" size="3874756" crc="f8e6fb66" md5="09c8691e5298ddff5332565d815acdf0" sha1="6203c8a8c1c64710368d2972f2c0bc86b731443c" serial="NPUB-30373"/>
+		<rom name="Limbo.PSN.PS3-DUPLEX.NPUB30373.Install.pkg" size="98499264" crc="a6e321da" md5="cd712b8e33938992de90aa81f1db9f72" sha1="b3c01d6eb307747aed3483b941dd93f3544d9142" serial="NPUB-30373"/>
+	</game>
+	<game name="LittleBigPlanet - DLC Unlocker (World) (DLC)" id="0251">
+		<description>LittleBigPlanet - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-lbpkarting_preorder_dlc_unlocker.pkg" size="102400" crc="cffaa13b" md5="9ff20dae537b15f152a5ca206d414679" sha1="5658656e6eaf186b61368678c297069022b78f7e"/>
+		<rom name="duplex_lbpkarting_time_saver_dlc.pkg" size="102400" crc="b88d1ddf" md5="58a89e74d50255decda821bc24d4f973" sha1="8f8bbfd9ac6528d389917565484ac4f1eb52df43"/>
+	</game>
+	<game name="Lone Survivour - The Director's Cut (Unknown) (PSN)" id="0275">
+		<description>Lone Survivour - The Director's Cut (Unknown) (PSN)</description>
+		<rom name="sa-lstdc.iso" size="469041857" crc="22634f68" md5="362af33cb3489e6c02f1a3bd8534370d" sha1="70c23b848027d479a80cf6862984cebcfacfc9ce"/>
+		<rom name="NPUB31325\ICON0.PNG" size="71995" crc="119e6490" md5="709fa9735920725ed6d79ae30e58558a" sha1="298839a0aa6a22e7aaf8043285bffe1b0d4a22b6"/>
+		<rom name="NPUB31325\ICON0_02.PNG" size="73772" crc="2a0e3271" md5="c560aea3792ef0ae6aa0e2338a2615de" sha1="cac31845d6d55ba299503cd4bf27e8ba2ab41e16"/>
+		<rom name="NPUB31325\ICON1.PAM" size="2469888" crc="61ade894" md5="a4d3e69645c3d21e21dad4a8632e9aee" sha1="a85ee478449c71fbd4057c8c9108fe13b9ac0be1"/>
+		<rom name="NPUB31325\ICON1_02.PAM" size="2473984" crc="d8f1d3bb" md5="f557c1e79f6111b0546426ff61840c13" sha1="6817c588be6ab74147feb0dff3892d7453f584ae"/>
+		<rom name="NPUB31325\PARAM.SFO" size="1040" crc="5bd8487d" md5="6014516170ab0e888f513c8d4df6cc6b" sha1="f2d38d8b103b322d2bbe57e0d1cd0c7e90917f35"/>
+		<rom name="NPUB31325\PIC1.PNG" size="1514224" crc="fe35b1db" md5="face34fc3481004a792c7560e3720e2f" sha1="727bad5b3b29ae4efc736bd2f6a625895431b7e2"/>
+		<rom name="NPUB31325\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPUB31325\SND0.AT3" size="260164" crc="35f605aa" md5="9993cd6c136997069d120371ff2c0c85" sha1="545e3d5c07d91b08dd8d34aa523e2229db8e388d"/>
+		<rom name="NPUB31325\TROPDIR\NPWR04948_00\TROPHY.TRP" size="2100240" crc="ed819468" md5="2c9873d909f56af7e76e3e75b70d362f" sha1="bc9355a7f520787b2dea9a45122d28dabc6999a0"/>
+	</game>
+	<game name="Lost Planet 3 - Punisher Pack (World) (DLC)" id="0252">
+		<description>Lost Planet 3 - Punisher Pack (World) (DLC)</description>
+		<rom name="duplex-lost.planet.3.punisher.pack.dlc.pkg" size="229520288" crc="c5022290" md5="5942f160a74332b69b5449635b379580" sha1="7748f4e4dad74620931858775e8b20815748818d"/>
+	</game>
+	<game name="Mad Riders (USA) (PSN)" id="0215">
+		<description>Mad Riders (USA) (PSN)</description>
+		<rom name="GAME-oMMLoHYPwrExARHXsAchRiWkRAzCOoXgTgbtXFsVbpBgLUpfqHPznHSflhPuOsQgrXBsrfVrfHsfXDZboLyGPwhdFgnkITmiijjqN" size="1347043440" crc="aed666b3" md5="9a96a04fe8ce761c9f827a4d206733c2" sha1="569485577cf0cf4fe77bc2780aa3ba6e437a8499" serial="NPUB-30712"/>
+		<rom name="FIX-mad_riders_ps3_psn_npub30712_[cfw_4.21].pkg" size="848" crc="8bb07b6f" md5="aba7b8c6f795225a9f8885c584f53e9a" sha1="12d3cf58fa70fb3a374e463811d5b279448620e3" serial="NPUB-30712"/>
+	</game>
+	<game name="Madden NFL Arcade (USA) (PSN)" id="0050">
+		<description>Madden NFL Arcade (USA) (PSN)</description>
+		<rom name="Madden.Arcade.PSN.PS3-DUPLEX.NPUB30134.Crack.pkg" size="12600576" crc="a192fe6e" md5="578edfed0c9c19d1c5ce98fceead5b72" sha1="2c7e45b9bcd11e2d61800da786e9eb53d65d6a53" serial="NPUB-30134"/>
+		<rom name="Madden.Arcade.PSN.PS3-DUPLEX.NPUB30134.Install.pkg" size="560836720" crc="71357a67" md5="6b97831519e06e110c2e474152e63bca" sha1="879ba159a0d0ed1fdadaab24ca433ad099233e6c" serial="NPUB-30134"/>
+	</game>
+	<game name="Magic - The Gathering - Duels of the Planeswalkers (USA) (PSN)" id="0051">
+		<description>Magic - The Gathering - Duels of the Planeswalkers (USA) (PSN)</description>
+		<rom name="Magic.The.Gathering.Duels.of.the.Planeswalkers.NPUB30330.Crack.pkg" size="15478560" crc="6b0a2d1c" md5="9f58172f11ad89c1b7024dfc50ab61df" sha1="7070842edd78c721b297259ebd0dbb634580384e" serial="NPUB-30330"/>
+		<rom name="Magic.The.Gathering.Duels.of.the.Planeswalkers.NPUB30330.Install.pkg" size="412477664" crc="49684c1a" md5="602596b717de37aabb4d23613887ae7c" sha1="c407458d0db531c7df2681af1adb1ab03ce9c57e" serial="NPUB-30330"/>
+	</game>
+	<game name="Malicious (Japan) (PSN)" id="0052">
+		<description>Malicious (Japan) (PSN)</description>
+		<rom name="Malicious.PSN.PS3-DUPLEX.NPJB00070.Crack.pkg" size="10304000" crc="52737635" md5="3f3f48e960338bb20467d3143555bc6f" sha1="cfe479ddbaa527350e32c15375a73f4ac4bdb2e3" serial="NPJB-00070"/>
+		<rom name="Malicious.PSN.PS3-DUPLEX.NPJB00070.Install.pkg" size="539484192" crc="f5f2f309" md5="dcf4673f00a38f746e542bd851775474" sha1="46adc2413651881ea59cc82210088c055afde746" serial="NPJB-00070"/>
+		<rom name="Malicious.PSN.PS3-DUPLEX.NPJB00070.Patch.v1.01.pkg" size="43376016" crc="fcb9a481" md5="b628b7cb533de7b5c22e790aea070ff5" sha1="fe4273f2e0edfb25182e326738abf4c87ecd2874" serial="NPJB-00070"/>
+	</game>
+	<game name="Mars - War Logs (Europe) (PSN)" id="0218">
+		<description>Mars - War Logs (Europe) (PSN)</description>
+		<rom name="dvtDGpbKQrqAGVlXWKsALkYOCIuXarphsdzDpkBSkdWOJONWtRkrkLgkYyeaSvFP.pkg" size="1660193264" crc="b199d46e" md5="f769163b311f1f934eb5b99cef4b93f3" sha1="a2320f4a1947a78e97cc99081f3ec4f0e8494a86" serial="NPEB-01301"/>
+		<rom name="crack-mars_war_logs_ps3_psn_npeb01301.pkg" size="848" crc="caf794e5" md5="8b01f4cd28ff278dd82e24b414dedc0d" sha1="daa1d69dbc2483e450ff6fad2059b8de91b17074" serial="NPEB-01301"/>
+	</game>
+	<game name="Marvel vs. Capcom 2 (USA) (PSN)" id="0053">
+		<description>Marvel vs. Capcom 2 (USA) (PSN)</description>
+		<rom name="Marvel.vs.Capcom.2.PSN.PS3-DUPLEX.NPUB30068.Crack.pkg" size="2550576" crc="a17cefd1" md5="0b69fef545bf8b4bb66adf6f5e016888" sha1="e8587e064c4e4cf51bb7b96c7aac8d0d8595e31b" serial="NPUB-30068"/>
+		<rom name="Marvel.vs.Capcom.2.PSN.PS3-DUPLEX.NPUB30068.Decrypted.elf" size="6080984" crc="8c5d6a33" md5="42cd0db11604451a0f99a6104bc3f64e" sha1="ebf50bdab379a1853131914e893601c5d867e052" serial="NPUB-30068"/>
+		<rom name="Marvel.vs.Capcom.2.PSN.PS3-DUPLEX.NPUB30068.Install.pkg" size="207944288" crc="bacfd173" md5="c83ecde473af71f314e5aaf8e04eea95" sha1="10f09e61d7269b358af90330f89d9bf09c8d5133" serial="NPUB-30068"/>
+	</game>
+	<game name="Mercury Hg (USA) (PSN)" id="0054">
+		<description>Mercury Hg (USA) (PSN)</description>
+		<rom name="Mercury.Hg.NPUB30419.Crack.pkg" size="7876864" crc="b31fac90" md5="6ec5025950e4986b1827c566fc09a4e3" sha1="e214eb3d67dba7f56bd843a5671908e2f6ade618" serial="NPUB-30419"/>
+		<rom name="Mercury.Hg.NPUB30419.Install.pkg" size="118802496" crc="72d5ed6d" md5="cc93d8feae181d82655613734111b83a" sha1="c0e3587d0ab4a8c2ccb7b10d7429fdeeb969657b" serial="NPUB-30419"/>
+	</game>
+	<game name="Metro - Last Night - Limited Edition - DLC Unlocker (World) (DLC)" id="0243">
+		<description>Metro - Last Night - Limited Edition - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-metro.last.light..limited.edition.dlc.unlocker.pkg" size="111920" crc="9513837b" md5="ed08eea99c9562a2d85ccb8f16b46a85" sha1="5d882b1c8fa82262eb71169c19d9a5086d9a3a20"/>
+	</game>
+	<game name="Mighty No. 9 (USA) (PSN)" id="0221">
+		<description>Mighty No. 9 (USA) (PSN)</description>
+		<rom name="UP2047-NPUB31733_00-MIGHTYNUMBERNINE_bg_1_9571455830ebb2c162125bef8fe5472f4532ab49.pkg" size="1211927344" crc="aa0aeef3" md5="0136efe988eb331dbcee203a97f70c0d" sha1="76e0234978fd90bdd945c9eb347aabe5ad898cab" serial="NPUB-31733"/>
+		<rom name="fix-mighty_no_9.pkg" size="10977968" crc="510866ed" md5="790d216475bc5acb63bbee1d4cbfc3b6" sha1="35f6c196bee3fb1d43cb53c1317803ce07f88cf0" serial="NPUB-31733"/>
+	</game>
+	<game name="Minecraft - Story Mode - Episode 1 - The Order of the Stone (Europe) (PSN)" id="0211">
+		<description>Minecraft - Story Mode - Episode 1 - The Order of the Stone (Europe) (PSN)</description>
+		<rom name="duplex-minecraft.ep1.install.pkg" size="766696160" crc="80a45a44" md5="76af4786c68cdf97159f40ac1dd72de2" sha1="cb77871c6068c4f7816047058fe7b24515152c46" serial="NPEB-02294"/>
+		<rom name="duplex-minecraft.ep1.crack.pkg" size="102400" crc="c5c3361c" md5="3d35afe69889250c3ee82415be87a1e3" sha1="a7bb6b76de8cef592c89776d45cbed87b52112c2" serial="NPEB-02294"/>
+	</game>
+	<game name="Monster Jam Battlegrounds (USA) (PSN)" id="0213">
+		<description>Monster Jam Battlegrounds (USA) (PSN)</description>
+		<rom name="UP0283-NPUB31686_00-MONSTERJAM000001_bg_1_df6b94c9da06c544a775f4096274b4ee39443e32.pkg" size="673936768" crc="c797f847" md5="cde032bdfcc396aeabea99894fb8119d" sha1="c93bb72740e786fb9b7e715a2fcc97cba64749a4" serial="NPUB-31686"/>
+		<rom name="UP0283-NPUB31686_00-MONSTERJAM000002.edat" size="352" crc="9e96a626" md5="3a13ed0a4ed9632296488abfd1dd826f" sha1="b80b1ac195023889c260e58e066531a53a45f1b1" serial="NPUB-31686"/>
+	</game>
+	<game name="Mortal Kombat - Arcade Kollection (USA) (PSN)" id="0055">
+		<description>Mortal Kombat - Arcade Kollection (USA) (PSN)</description>
+		<rom name="Mortal.Kombat.Arcade.Kollection.NPUB30468.Crack.pkg" size="12350896" crc="b6539f3a" md5="1b4fa26a23b951a2dfc41fbb02bd238a" sha1="3a4eb82eee3ed138f3f3cfb3d1579f8ffb1321fe" serial="NPUB-30468"/>
+		<rom name="Mortal.Kombat.Arcade.Kollection.NPUB30468.Install.pkg" size="232635392" crc="62fb78db" md5="7d8a5a358829d1023dc3db7ea240194f" sha1="fadd6aa2b4b6559f2ac66fe1f330c2d64d2d85ae" serial="NPUB-30468"/>
+	</game>
+	<game name="Ms Germinator (Europe) (PSN)" id="0276">
+		<description>Ms Germinator (Europe) (PSN)</description>
+		<rom name="sa-msgerm.iso" size="463306913" crc="ca4433fa" md5="0843a46d2f8ab0ddc5a3653c9bed7651" sha1="e1819fed59c40007bb25cc21beddf11fb1d6fc33"/>
+		<rom name="NPEB01437\ICON0.PNG" size="57347" crc="99a74b65" md5="2b5d13a164f9a050a9280fbb3936c1a3" sha1="e476a62c4703a48022071ca3d79c75058ac0f4a6"/>
+		<rom name="NPEB01437\PARAM.SFO" size="1040" crc="12ebfae2" md5="fca44a2a12d4897a4fd297545293578a" sha1="71a0faf973c8b35d0a07df5b39775c5ef0c53ea9"/>
+		<rom name="NPEB01437\PIC1.PNG" size="1239301" crc="b563c826" md5="cc7505b97072878c762042082d766f63" sha1="f85ecbc9aa6e7647517e1ca9349de7bf051e85c6"/>
+		<rom name="NPEB01437\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPEB01437\TROPDIR\NPWR04754_00\TROPHY.TRP" size="1024752" crc="ddd6474c" md5="2b3604718eaebef4e26df021779c860c" sha1="fd29b10f03021d88932317075d3ee048251f0bfb"/>
+	</game>
+	<game name="Mushroom Wars (Europe) (PSN)" id="0056">
+		<description>Mushroom Wars (Europe) (PSN)</description>
+		<rom name="NPEB00120_00-PSN_MW.pkg" size="172244928" crc="1f721aee" md5="eafbcde3a9b0d9ab1cffe0416061e3b9" sha1="c05b0d94a55e0368d879ff99a2cb371b85e5bf5d" serial="NPEB-00120"/>
+	</game>
+	<game name="My Aquarium (USA) (PSN)" id="0057">
+		<description>My Aquarium (USA) (PSN)</description>
+		<rom name="My.Aquarium.PSN.PS3-DUPLEX.NPUB30255.Crack.pkg" size="1843760" crc="cb701b68" md5="7d528b07f54407a628bd67c04490c439" sha1="3c54ef4a4f5c45e317356c085ebb2e87d6bc988b" serial="NPUB-30255"/>
+		<rom name="My.Aquarium.PSN.PS3-DUPLEX.NPUB30255.Install.pkg" size="241400352" crc="978bebe0" md5="90480f2f61c42d606de6ec675000f7a3" sha1="170badb5f34af8bc778160c5fc2d2c8db7ecb1cd" serial="NPUB-30255"/>
+	</game>
+	<game name="Narco Terror (Europe) (PSN)" id="0160">
+		<description>Narco Terror (Europe) (PSN)</description>
+		<rom name="EP4062-NPEB01373_00-NARCOTERROR00002.edat" size="352" crc="a5f3b79f" md5="511808e4bc73d7f36102bf16e3d56c08" sha1="0db9e538961a1479af5efad03984602f3d8061c8" serial="NPEB-01373"/>
+		<rom name="HlLBdoThtpzPIIZJEALmmzpkMawpekQRzEVrGqgmPyTEkrGERGFyMscBPGMRSfCU.pkg" size="1268791200" crc="595a8a1b" md5="0f5546ef45e246c5f976ae85e703899c" sha1="d609a7d84480a9497a842387ccf79538dc6a230f" serial="NPEB-01373"/>
+	</game>
+	<game name="Naruto Shippuden - Ultimate Ninja Storm 3 - Costumes Pack (World) (DLC)" id="0238">
+		<description>Naruto Shippuden - Ultimate Ninja Storm 3 - Costumes Pack (World) (DLC)</description>
+		<rom name="Naruto.Shippuden.Ultimate.Ninja.Storm.3.5.Costumes.Pack.DLC.PS3-DUPLEX.BLUS31066.Install.pkg" size="10656880" crc="839c4f02" md5="7e387d09a20ac1d461aed535ef89a45e" sha1="d18a9693a5095a8e21d01c3ee6ac004c6b06c597"/>
+	</game>
+	<game name="Naruto Shippuden - Ultimate Ninja Storm 3 - Goku Costume (World) (DLC)" id="0239">
+		<description>Naruto Shippuden - Ultimate Ninja Storm 3 - Goku Costume (World) (DLC)</description>
+		<rom name="Naruto.Shippuden.Ultimate.Ninja.Storm.3.Goku.Costume.DLC.PS3-DUPLEX.BLUS31066.Install.pkg" size="116784" crc="7cbbc534" md5="82538047208c7aca87cbf56d6c1e6fa6" sha1="5b3bb7e15788c12570665609ba15de2e30be80f4"/>
+	</game>
+	<game name="Need for Speed, The - Most Wanted (World) (DLC)" id="0253">
+		<description>Need for Speed, The - Most Wanted (World) (DLC)</description>
+		<rom name="duplex-nfsmw_dlc_unlocker.pkg" size="102400" crc="1ab412f7" md5="5bff274dcbc67cb9e8c950b8192aca46" sha1="179c073a3456492c51340b10891435ee0d3e1f03"/>
+	</game>
+	<game name="Need for Speed, The - Most Wanted - Deluxe Bundle (World) (DLC)" id="0236">
+		<description>Need for Speed, The - Most Wanted - Deluxe Bundle (World) (DLC)</description>
+		<rom name="NFSMWDLC3.pkg" size="102400" crc="7f9da317" md5="4f89b0e103f793a3ddf07568eff08a63" sha1="a42ea6fe8464a262fdddc6742e66c036f39ebc0f"/>
+	</game>
+	<game name="Need for Speed, The - Ultimate Speed Pack (World) (DLC)" id="0254">
+		<description>Need for Speed, The - Ultimate Speed Pack (World) (DLC)</description>
+		<rom name="Need.for.Speed.Most.Wanted.Ultimate.Speed.Pack.DLC.PS3-DUPLEX.BLUS31010.Install.pkg" size="102400" crc="674c5090" md5="76a2dbb6fa6495782617b01af36b8bf9" sha1="5f898258c1ab9c99869a99fb89838a087b11a672"/>
+	</game>
+	<game name="Oddworld - Munch's Oddysey HD (Europe) (PSN)" id="0133">
+		<description>Oddworld - Munch's Oddysey HD (Europe) (PSN)</description>
+		<rom name="Oddworld.Munchs.Oddysey.HD.PSN.PS3-DUPLEX.NPEB01114.Crack.pkg" size="6080" crc="657388eb" md5="6f8afb2bcadf2da8a111466188b311ad" sha1="c7c5e2f03d6537010c6b3bc8c040ceb2b314fe31" serial="NPEB-01114"/>
+		<rom name="Oddworld.Munchs.Oddysey.HD.PSN.PS3-DUPLEX.NPEB01114.Install.pkg" size="1302831088" crc="f266d266" md5="b381d335c3a10b9fe11677ef3ccfac96" sha1="23ee364bc925bbf7fd00860ccc461bc10f3404ea" serial="NPEB-01114"/>
+	</game>
+	<game name="On the Rain-Slick - Precipice of Darkness - Episode One (USA) (PSN)" id="0142">
+		<description>On the Rain-Slick - Precipice of Darkness - Episode One (USA) (PSN)</description>
+		<rom name="NPUB30043_Precipice_of_Darkness_Episode_One.pkg" size="219020752" crc="b7848b30" md5="1374a36b372f5c74fce2e58e346b3fdb" sha1="cb2bef19430fd79459e1ef82842b2028eab70db9" serial="NPUB-30043"/>
+	</game>
+	<game name="On the Rain-Slick - Precipice of Darkness - Episode Two (USA) (PSN)" id="0143">
+		<description>On the Rain-Slick - Precipice of Darkness - Episode Two (USA) (PSN)</description>
+		<rom name="NPUB30056_Precipice_of_Darkness_Episode_Two.pkg" size="340089360" crc="0c942d2d" md5="6e527fff90185684896c7f6c98e525fb" sha1="e270a28fbdeec6667d79e78720889d9d69cd9796" serial="NPUB-30056"/>
+	</game>
+	<game name="Orc Attack - Flatulent Rebellion (USA) (PSN)" id="0172">
+		<description>Orc Attack - Flatulent Rebellion (USA) (PSN)</description>
+		<rom name="collateral-oafr-crack.pkg" size="6080" crc="9cdf9ab2" md5="0b229a39e2be70bb41a9c16fd45211da" sha1="f19e3691106c816dece939c520447d8175e19b01" serial="NPUB-30614"/>
+		<rom name="collateral-oafr-game.pkg" size="1582560960" crc="f7a469ea" md5="a6635199d1068617048e14dcfa2d71cf" sha1="787860586da75fd2c837a6e36eb982023a6d74b2" serial="NPUB-30614"/>
+	</game>
+	<game name="Outland (Europe) (PSN)" id="0059">
+		<description>Outland (Europe) (PSN)</description>
+		<rom name="Outland.PSN.PS3-DUPLEX.NPEB00463.Crack.pkg" size="8630864" crc="0d0102ef" md5="a8981f51b3239a265cd7a4d5104af04f" sha1="05c115cc419cb787dac7b2d29a4a209a510c9d20" serial="NPEB-00463"/>
+		<rom name="Outland.PSN.PS3-DUPLEX.NPEB00463.Install.pkg" size="1252717824" crc="8083117e" md5="fdf2feb9d18139a0fe4bdbe40253c637" sha1="a2d13b2f87a72617e08772f47ad467a11a06e257" serial="NPEB-00463"/>
+	</game>
+	<game name="OutRun - Online Arcade (Europe) (PSN)" id="0060">
+		<description>OutRun - Online Arcade (Europe) (PSN)</description>
+		<rom name="OutRun.Online.Arcade.PSN.PS3-DUPLEX.NPEB00073.Install.pkg" size="482479648" crc="26c6f293" md5="974a0ee00c8b0977685c63b3b7d2d908" sha1="73eb637bb7cc17c1209ee047b35eb07295f343cf" serial="NPEB-00073"/>
+	</game>
+	<game name="Pac-Man Championship Edition DX (USA) (PSN)" id="0062">
+		<description>Pac-Man Championship Edition DX (USA) (PSN)</description>
+		<rom name="Pac-Man.Championship.Edition.DX.PSN.PS3-DUPLEX.NPUB30304.Crack.pkg" size="1410912" crc="15afa170" md5="6f0ef96b8422637611ee47eec56b9795" sha1="ab1faac158cdba0faf729856a144bec668dd6c0c" serial="NPUB-30304"/>
+		<rom name="Pac-Man.Championship.Edition.DX.PSN.PS3-DUPLEX.NPUB30304.Decrypted.elf" size="4465632" crc="3792e21a" md5="7e7e12609521409ec18fe0102dcb379d" sha1="0224af00372f8659acadb4a530139fed701bebd6" serial="NPUB-30304"/>
+		<rom name="Pac-Man.Championship.Edition.DX.PSN.PS3-DUPLEX.NPUB30304.Install.pkg" size="260005456" crc="f66b9436" md5="5a16e66c2dff0d6538a7d94493bb5aec" sha1="95b157e0b32a907864fb774d97d1f3e275e18f04" serial="NPUB-30304"/>
+	</game>
+	<game name="Pac-Man Museum (USA) (PSN)" id="0181">
+		<description>Pac-Man Museum (USA) (PSN)</description>
+		<rom name="Duplex-pac.man.museum.psn.Crack.pkg" size="6080" crc="b6cb149d" md5="1db819b751059b53fe704aea5e915600" sha1="eee661a5ae460e6e75dfc85ad740861dead3ef6f" serial="NPUB-31383"/>
+		<rom name="Duplex-pac.man.museum.psn.Install.pkg" size="224828640" crc="0ca18bf6" md5="04202ec130341885fa0c56d22d3cae51" sha1="66e3778e034c29aa801860582f0d04951f6e273d" serial="NPUB-31383"/>
+	</game>
+	<game name="Pid (Europe) (PSN)" id="0220">
+		<description>Pid (Europe) (PSN)</description>
+		<rom name="CkZmUOpUdHqOpgWjkmhzRUccvknYfTWBZhZEFwvatYdNROMxhjPOnXDuLVQQfOpG.pkg" size="1240971600" crc="1fe7f4d6" md5="3f075ac7bbe061a7eb0d5528bc296f94" sha1="165b1fab42a648e2223d8366b32ce30b2ce5a8aa" serial="NPEB-01056"/>
+		<rom name="crack-npeb01056_pid.pkg" size="848" crc="ccfed8ae" md5="05a5e0ffdd86467c9b1dc90f24acd035" sha1="78070cbaf15315ff7981a2549d4e6a42d4dadb1a" serial="NPEB-01056"/>
+	</game>
+	<game name="PixelJunk - Monsters (Europe) (PSN)" id="0063">
+		<description>PixelJunk - Monsters (Europe) (PSN)</description>
+		<rom name="PixelJunk.Monsters.PSN.PS3-DUPLEX.Cracked.Install.pkg" size="62097808" crc="5dde018a" md5="ab90fe9f21be04fd7829c954e8bd4d94" sha1="5a674c5ce3aa10b5a4277ac30054aea5e7a104ff" serial="NPEA-00068"/>
+	</game>
+	<game name="PixelJunk - SideScroller (USA) (PSN)" id="0064">
+		<description>PixelJunk - SideScroller (USA) (PSN)</description>
+		<rom name="PixelJunk.SideScroller.PSN.PS3-DUPLEX.NPUA80567.Crack.pkg" size="8158048" crc="a6efe568" md5="9a4559a85a88006d7c08c62c1193f0c0" sha1="c5621506b264a0de6b5178ca45a7959f9019097b" serial="NPUA-80567"/>
+		<rom name="PixelJunk.SideScroller.PSN.PS3-DUPLEX.NPUA80567.Install.pkg" size="86692032" crc="3efbf7db" md5="8a01d2bef245c672f522331795f4693d" sha1="fc17366426c97d0ac9e9635693a84b8c6c18048d" serial="NPUA-80567"/>
+	</game>
+	<game name="Plants vs. Zombies (USA) (PSN)" id="0065">
+		<description>Plants vs. Zombies (USA) (PSN)</description>
+		<rom name="Plants.vs.Zombies.PSN.PS3-DUPLEX.NPUA30059.Crack.pkg" size="3780496" crc="8144e9e9" md5="29ebef16873e20f6c131960bf2cba318" sha1="13be182f68e2a12118a3de1ef1f24f029ee70b84" serial="NPUA-30059"/>
+		<rom name="Plants.vs.Zombies.PSN.PS3-DUPLEX.NPUA30059.Decrypted.elf" size="8767392" crc="79122f61" md5="b18d29475ef822248a3a35ff57b907d4" sha1="dcf77805ae726be98e33706368169befb5ad2827" serial="NPUA-30059"/>
+		<rom name="Plants.vs.Zombies.PSN.PS3-DUPLEX.NPUA30059.Install.pkg" size="95667456" crc="81e7e7bc" md5="2471ade524946e47ac86f8ef599a5a72" sha1="2e97a6b0019a68706d9ef0e1b6f38f15cd796d01" serial="NPUA-30059"/>
+		<rom name="Plants.vs.Zombies.PSN.PS3-DUPLEX.NPUA30059.Patch.v1.01.pkg" size="11558208" crc="9af3f964" md5="c31b7ac6072ee75ba62e5e0aca70610b" sha1="515c7d661ab4a07fafa34626021860fbca6aa559" serial="NPUA-30059"/>
+	</game>
+	<game name="Poker Night 2 (USA) (PSN)" id="0149">
+		<description>Poker Night 2 (USA) (PSN)</description>
+		<rom name="poker.pkg" size="476083872" crc="4a61decd" md5="000b45335e1737716ef88b36d1388410" sha1="b1eb9ad89503d73627f1816bcfdbab92eaa41e79" serial="NPUB-31210"/>
+		<rom name="poker2crk.pkg" size="1851936" crc="7558502b" md5="9eaa346706efab02cdee83cd413fa196" sha1="4a8b9b261ae6f2a4741a2fadfe00d9f345872748" serial="NPUB-31210"/>
+	</game>
+	<game name="Portal 2 - In Motion (World) (DLC)" id="0232">
+		<description>Portal 2 - In Motion (World) (DLC)</description>
+		<rom name="duplex-portal.2.in.motion_dlc.pkg" size="102400" crc="b86a5ec3" md5="ecb9b710d6fd5f7334d65fd149fbdbe2" sha1="b98dbe20098da031f960fc2d51f21316cf0fb9e9"/>
+	</game>
+	<game name="Price is Right, The (USA) (PSN)" id="0120">
+		<description>Price is Right, The (USA) (PSN)</description>
+		<rom name="SET120-NPUB30167_00-TPIRONPSN0000001.pkg" size="919528368" crc="09f37515" md5="6271c1b7e34006cf42bda1654f4bb60a" sha1="42838777dcfec4657005b008c71f1bf65db93853" serial="NPUB-30167"/>
+	</game>
+	<game name="Prince of Persia Classic (USA) (PSN)" id="0066">
+		<description>Prince of Persia Classic (USA) (PSN)</description>
+		<rom name="NPUB30031_Prince_of_Persia_Classic.pkg" size="117737552" crc="e06b127d" md5="8abdf1b461486fe68010879fe665c3b5" sha1="71719230081b5f4f90614021870cb45b56a80873" serial="NPUB-30031"/>
+	</game>
+	<game name="Puzzelgeddon (USA) (PSN)" id="0067">
+		<description>Puzzelgeddon (USA) (PSN)</description>
+		<rom name="Puzzelgeddon.PSN.PS3-DUPLEX.NPUB30125.Crack.pkg" size="5064160" crc="90b9e2f3" md5="d86b04e76440e00fcd61e1770102c194" sha1="394129853286c04fda26585ccb8b42f410329f33" serial="NPUB-30125"/>
+		<rom name="Puzzelgeddon.PSN.PS3-DUPLEX.NPUB30125.Decrypted.elf" size="13396968" crc="206063c7" md5="3113e889a5a05ef6ef433f0a7ab45f1e" sha1="2a3f7ee599ccedc54505ed9895258b4c496c2836" serial="NPUB-30125"/>
+		<rom name="Puzzelgeddon.PSN.PS3-DUPLEX.NPUB30125.Install.pkg" size="179252400" crc="9c5d1f03" md5="7338818898e74a3abd506bf4b96dffdc" sha1="07f24905190bf15f9839fe461381b9b3d72674a3" serial="NPUB-30125"/>
+	</game>
+	<game name="Puzzle Agent (USA) (PSN)" id="0058">
+		<description>Puzzle Agent (USA) (PSN)</description>
+		<rom name="Nelson.Tethers.Puzzle.Agent.PSN.PS3-DUPLEX.NPUB30448.Crack.pkg" size="14683888" crc="f30216a0" md5="d806c369c57ca30197f1365124487fad" sha1="6333139587d1e4bfb3b5abef67214666b8688e70" serial="NPUB-30448"/>
+		<rom name="Nelson.Tethers.Puzzle.Agent.PSN.PS3-DUPLEX.NPUB30448.Install.pkg" size="120792864" crc="3bd6daae" md5="8bb9fd0df17a0cbedd329c497a3f5df3" sha1="09592fd8f954a08c19d737a6b2be5e000326572d" serial="NPUB-30448"/>
+	</game>
+	<game name="Rain (Europe) (PSN)" id="0173">
+		<description>Rain (Europe) (PSN)</description>
+		<rom name="duplex-rain.crack.pkg" size="24879280" crc="e8f698ff" md5="cbcdef48ea0312eb72c5b7542a744c56" sha1="60ec814aff0460298911dacd11636719ffdc3452" serial="NPEA-00394"/>
+		<rom name="duplex-rain.pkg" size="2194300912" crc="aadc125e" md5="e93d119cec699868dd3eaf7eee4a0423" sha1="7ead2f33c20d6651f6744518be52d77b392104fc" serial="NPEA-00394"/>
+	</game>
+	<game name="Ratchet and Clank - Into the Nexus - DLC Unlocker (World) (DLC)" id="0255">
+		<description>Ratchet and Clank - Into the Nexus - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-ratchet.clank.into.the.nexus.dlc.unlocker.pkg" size="115072" crc="8aab9877" md5="204ebf9477d3e2800dd8ed4fb4414c8e" sha1="c011978f846403ce4702010350de838cb01e3c57"/>
+	</game>
+	<game name="Ratchet and Clank - QForce - DLC Unlocker (World) (DLC)" id="0256">
+		<description>Ratchet and Clank - QForce - DLC Unlocker (World) (DLC)</description>
+		<rom name="Ratchet.and.Clank.QForce.DLC.Unlocker.PS3-DUPLEX.NPEA00378.Install.pkg" size="120736" crc="edac51e6" md5="c434de1356a1ebe465ef40eed58fba4f" sha1="38e03d8d59b86b1f0a0da30ef6085858e6fb6fd3"/>
+	</game>
+	<game name="Raystorm HD (Japan) (PSN)" id="0068">
+		<description>Raystorm HD (Japan) (PSN)</description>
+		<rom name="raystrom.pkg" size="375135424" crc="17d71cfc" md5="747e7d6437d669865b2d6ca55b981f7c" sha1="0f69a2e0776a2ba886e4a8d535a1e112b3c858b4" serial="NPJB-00034"/>
+	</game>
+	<game name="Record of Agarest War Zero - 43 DLC Packages (World) (DLC)" id="0227">
+		<description>Record of Agarest War Zero - 43 DLC Packages (World) (DLC)</description>
+		<rom name="Record.of.Agarest.War.Zero.All.DLC.Pack.PS3-DUPLEX.pkg" size="118878416" crc="7f6fb5dd" md5="920e22faed77e1d8b2c52bcb18bcf78e" sha1="1758602033b3ffe68f2104fa48154f483e7036d0"/>
+	</game>
+	<game name="Red Baron Arcade (USA) (PSN)" id="0069">
+		<description>Red Baron Arcade (USA) (PSN)</description>
+		<rom name="Red.Baron.Arcade.PSN.PS3-DUPLEX.NPUB30030.Crack.pkg" size="17540256" crc="17cfb67d" md5="76ee301e77dbdca27e4c3f5850f39f4d" sha1="40a05695b33311e33f37b8dc33d75e478fb535a6" serial="NPUB-30030"/>
+		<rom name="Red.Baron.Arcade.PSN.PS3-DUPLEX.NPUB30030.Install.pkg" size="142113312" crc="c4dd8fac" md5="46ab57ecf51047a00db1346a5be14944" sha1="6f6162e3829dd99ea710dfdadbffdf27d04c5d91" serial="NPUB-30030"/>
+	</game>
+	<game name="Red Faction - Battlegrounds (USA) (PSN)" id="0070">
+		<description>Red Faction - Battlegrounds (USA) (PSN)</description>
+		<rom name="Red.Faction.Battlegrounds.PSN.PS3-DUPLEX.NPUB30296.Crack.pkg" size="9943472" crc="044d4767" md5="3475fafbe3b76eb4a89d7f72940a5c85" sha1="eb145fb9fd4330ed55e40b5552557558e084a7cb" serial="NPUB-30296"/>
+		<rom name="Red.Faction.Battlegrounds.PSN.PS3-DUPLEX.NPUB30296.Install.pkg" size="636350592" crc="30d59476" md5="f74ec320790333eed24ea29e438af060" sha1="c918fd78f29904c0de30550cc1868584b757dddb" serial="NPUB-30296"/>
+		<rom name="Red.Faction.Battlegrounds.PSN.PS3-DUPLEX.NPUB30296.Patch.v1.01.pkg" size="443608640" crc="a571c429" md5="6cc8d30b9845a92fe0ba186862c6d8d7" sha1="f630257bd2a7a1c7e8964331ab38e4e19bbe32e3" serial="NPUB-30296"/>
+		<rom name="Red.Faction.Battlegrounds.PSN.PS3-DUPLEX.NPUB30296.Patch.v1.02.pkg" size="21638512" crc="fa9c3a13" md5="90302ea7350418ef5f6836641d4ac640" sha1="409ce0c6ffc2f04216def7611ef938c06c2d201b" serial="NPUB-30296"/>
+	</game>
+	<game name="Red Johnson's Chronicles (USA) (PSN)" id="0071">
+		<description>Red Johnson's Chronicles (USA) (PSN)</description>
+		<rom name="Red.Johnsons.Chronicles.PSN.PS3-DUPLEX.NPUB30582.Crack.pkg" size="5316384" crc="c6928c7c" md5="c46b812ba838a70d613cf0dbdb7da4a9" sha1="169f50c2afc417c707ef1a2e8cbb730855d1d5ba" serial="NPUB-30582"/>
+		<rom name="Red.Johnsons.Chronicles.PSN.PS3-DUPLEX.NPUB30582.Install.pkg" size="1599261888" crc="02ec6317" md5="f14a675970a030f1d25aed1af67ac785" sha1="65e5609958a368a0cacf9b33b1b2150dfbcb64e1" serial="NPUB-30582"/>
+	</game>
+	<game name="Resident Evil - Code Veronica X HD (USA) (PSN)" id="0072">
+		<description>Resident Evil - Code Veronica X HD (USA) (PSN)</description>
+		<rom name="Resident.Evil.Code.Veronica.X.HD.NPUB30467.Crack.pkg" size="7609088" crc="1d476aa7" md5="aef7d2b77888b36d9cebf40333507293" sha1="68b6c6ab02e7e3d5848de2f9b898e89cd55265c1" serial="NPUB-30467"/>
+		<rom name="Resident.Evil.Code.Veronica.X.HD.NPUB30467.Install.pkg" size="2551787088" crc="d8a928b1" md5="25541e9b2b0d3825d5ddc0dd76dbd586" sha1="9c2ce1a764f5396b11d7cb01e6ad02bff2da6650" serial="NPUB-30467"/>
+	</game>
+	<game name="Resident Evil - Revelations 2 - Episode 01 - Penal Colony (USA) (PSN)" id="0206">
+		<description>Resident Evil - Revelations 2 - Episode 01 - Penal Colony (USA) (PSN)</description>
+		<rom name="UP0102-NPUB31518_00-BHR2HUTRIAL00001_bg_1_51604f6ddc54d65a405e668cf4540aa1e95a1b34" size="2997547600" crc="9ec92520" md5="d124c7759671dfbe46aca2254ab0089f" sha1="d3549ca3f4c4ada696284e02783489534ce360a8" serial="NPUB-31518"/>
+		<rom name="UP0102-NPUB31518_00-BHR2HGTRIALKEY01.edat" size="352" crc="e3085b6f" md5="19f633654411e36fbca627411c10c5d3" sha1="c21074e21d587c040606114a4861fff0934477c1" serial="NPUB-31518"/>
+	</game>
+	<game name="Resident Evil - Revelations 2 - Episode 02 - Contemplation (USA) (PSN)" id="0207">
+		<description>Resident Evil - Revelations 2 - Episode 02 - Contemplation (USA) (PSN)</description>
+		<rom name="UP0102-NPUB31518_00-BHR2EPISODE20000_bg_1_953c6d82b3c24335a3e4d6a9dcc7ec5c440b3aeb.pkg" size="1335077712" crc="b12c66d8" md5="9c8d47ba905d866baaa3e64469d79990" sha1="c59f87836f9522cae2d52fb2e993fb46a7748e3e" serial="NPUB-31518"/>
+		<rom name="NPUB31518_RE_REVELATIONS_2_EPISODE_2_UNLOCK.pkg" size="102400" crc="f68ec715" md5="0d978dfea3ee6c1f9c8bd392b9bea264" sha1="426728f91b9948fdc35c0ef55a204f3b22a6fa23" serial="NPUB-31518"/>
+	</game>
+	<game name="Resident Evil HD (Europe) (PSN)" id="0281">
+		<description>Resident Evil HD (Europe) (PSN)</description>
+		<rom name="BhZyYPnLwqtCcetkAGpwAPDaOrQUJjbyQdclHcRAbrmwYmcAWwujmExhsgRGuGaykTrHUKtqWBjhwbnknITRKqeDljzxSaCUBSKUB.pkg" size="7926983392" crc="31cc9f17" md5="be82eb073bc26cd56538c9e8aef28034" sha1="c08028d636a7c47dc56b6e982a5c6d6766da37e9"/>
+		<rom name="NPUB31552_RESIDENT_EVIL_HD_REMASTER_CRACK.pkg" size="5523824" crc="5e046554" md5="2b404db076ec2f79066037735960ddd7" sha1="8a47015eb7628e9ef25824dae78a29bde344434d"/>
+	</game>
+	<game name="Ricochet HD (USA) (PSN)" id="0121">
+		<description>Ricochet HD (USA) (PSN)</description>
+		<rom name="Ricochet.HD.PSN.PS3-DUPLEX.NPUB30172.Install.pkg" size="340841536" crc="4fe7f183" md5="fbdba66aba98e22754ad0db4b07f2ed2" sha1="76deaee477a126bd5f942fde6b15b90c4a17829c" serial="NPUB-30172"/>
+		<rom name="Ricochet.HD.PSN.PS3-DUPLEX.NPUB30172.Decrypted.ELF" size="12489544" crc="70d4ef94" md5="d991a367f45dc2f456bcb226a736cbbe" sha1="1486747c35146739e7dbb507c4a11eb365e11411" serial="NPUB-30172"/>
+		<rom name="Ricochet.HD.PSN.PS3-DUPLEX.NPUB30172.Proper.Crack.pkg" size="7382304" crc="2fb0fd63" md5="72fdb019861c30b841d445c306d906e0" sha1="955c088960b8d0f7e1539314aa573d4f718ebc7f" serial="NPUB-30172"/>
+	</game>
+	<game name="Rust Buccaneers (Europe) (PSN)" id="0177">
+		<description>Rust Buccaneers (Europe) (PSN)</description>
+		<rom name="EP4124-NPEB00545_00-RUSTBUCCANEERSLC.edat" size="352" crc="3207005e" md5="754fd2fd0bc5b594a6cd756f56a31039" sha1="32f758134d7ed606cb43ef3b499a975cb7377a14" serial="NPEB-00545"/>
+		<rom name="dBRxJvSlhXkTysMQcapuphDOoIgiufhjtoOyuouJYaEGaGOALpOTHatohxHdJyYF.pkg" size="276689872" crc="d603ee30" md5="adbc601b17653d99d2b30c29b5be52a7" sha1="56c71f7f01a77ed776ce4f720373a10ddfd4f654" serial="NPEB-00545"/>
+	</game>
+	<game name="Sam &amp; Max - Season 2 Beyond Time and Space - Episode 1 Ice Station Santa (USA) (PSN)" id="0073">
+		<description>Sam &amp; Max - Season 2 Beyond Time and Space - Episode 1 Ice Station Santa (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.1.Ice.Station.Santa.PSN.PS3-DUPLEX.NPUB30498.Crack.pkg" size="23730704" crc="8cc1a772" md5="dcf5a139884f49c8007137c15b5ffba5" sha1="9d9556b5af12a64f32ab4542ebf82e8741e90282" serial="NPUB-30498"/>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.1.Ice.Station.Santa.PSN.PS3-DUPLEX.NPUB30498.Install.pkg" size="316681088" crc="ec8809c2" md5="02964e2102920e54534e792dc61d3f0e" sha1="75ec8ceb38186af2fdb94e5f1873407d411d274a" serial="NPUB-30498"/>
+	</game>
+	<game name="Sam &amp; Max - Season 2 Beyond Time and Space - Episode 2 Moai Better Blues (USA) (PSN)" id="0074">
+		<description>Sam &amp; Max - Season 2 Beyond Time and Space - Episode 2 Moai Better Blues (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.2.Moai.Better.Blues.PSN.PS3-DUPLEX.NPUB30517.Crack.pkg" size="23720864" crc="b3609b16" md5="1f653bf5402b112729e06ccc1003365d" sha1="ce5a9d26daa9ba7a15e75eb4cee892048b64fa88" serial="NPUB-30517"/>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.2.Moai.Better.Blues.PSN.PS3-DUPLEX.NPUB30517.Install.pkg" size="276999984" crc="fc359456" md5="661d92cd7e6885bef91cd7deea610019" sha1="2be2773ef4da88831b8e16ee46828bd154605127" serial="NPUB-30517"/>
+	</game>
+	<game name="Sam &amp; Max - Season 2 Beyond Time and Space - Episode 3 Night of the Raving Dead (USA) (PSN)" id="0075">
+		<description>Sam &amp; Max - Season 2 Beyond Time and Space - Episode 3 Night of the Raving Dead (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.3.Night.of.the.Raving.Dead.PSN.PS3-DUPLEX.NPUB30518.Crack.pkg" size="23725008" crc="db3b2d6c" md5="42a15d8c6aec9ac95ef8f969c77db1c5" sha1="780992b345d3aad869e098851c45e9b58695c78a" serial="NPUB-30518"/>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.3.Night.of.the.Raving.Dead.PSN.PS3-DUPLEX.NPUB30518.Install.pkg" size="325567344" crc="cacd411e" md5="73393d7fc6e695fb5d1c79f0b982cdad" sha1="9b948ee1f36bc97844afe4e413bf401b375ede0f" serial="NPUB-30518"/>
+	</game>
+	<game name="Sam &amp; Max - Season 2 Beyond Time and Space - Episode 4 Chariots of the Dogs (USA) (PSN)" id="0076">
+		<description>Sam &amp; Max - Season 2 Beyond Time and Space - Episode 4 Chariots of the Dogs (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.4.Chariots.of.the.Dogs.PSN.PS3-DUPLEX.NPUB30519.Crack.pkg" size="23724704" crc="2f1c0995" md5="36870e5c9c8a7c4442ac4719a4857ef7" sha1="c42ce4cce1a1b2feba62caa1746fe1089823f519" serial="NPUB-30519"/>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.4.Chariots.of.the.Dogs.PSN.PS3-DUPLEX.NPUB30519.Install.pkg" size="296158912" crc="8bf1e336" md5="85f943e7c16dec970e6a97269ceb42c4" sha1="6f7845ac15cbf217a22241a539bb2080e3de4fbb" serial="NPUB-30519"/>
+	</game>
+	<game name="Sam &amp; Max - Season 2 Beyond Time and Space - Episode 5 What's New Beelzebub (USA) (PSN)" id="0077">
+		<description>Sam &amp; Max - Season 2 Beyond Time and Space - Episode 5 What's New Beelzebub (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.5.Whats.New.Beelzebub.PSN.PS3-DUPLEX.NPUB30520.Crack.pkg" size="23720336" crc="f51ae7ac" md5="784b62c530effacc054becc40ed344c1" sha1="347e75f2341598ec31887ce6b5d9295d9d392c5c" serial="NPUB-30520"/>
+		<rom name="Sam.and.Max.Season.2.Beyond.Time.and.Space.Episode.5.Whats.New.Beelzebub.PSN.PS3-DUPLEX.NPUB30520.Install.pkg" size="372636656" crc="79bf4e50" md5="3ac4092c86d293074fbd574b98370975" sha1="adfb5605ea9397bfbbe1b88f56321618ea86d06a" serial="NPUB-30520"/>
+	</game>
+	<game name="Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 1 The Penal Zone (USA) (PSN)" id="0078">
+		<description>Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 1 The Penal Zone (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.1.The.Penal.Zone.NPUB30185.Crack.pkg" size="9284992" crc="8f9a3413" md5="1c58dba88857e552d7cbdcbb6ff3200f" sha1="1937284ae5e02c9720b756ca3e36f7985452e6a6" serial="NPUB-30185"/>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.1.The.Penal.Zone.NPUB30185.Install.pkg" size="549068256" crc="b7184c96" md5="5111fe5c3ae57a2e8a4a1537dd1b2868" sha1="fe66c7b1fd3ab112e980a02dc48f9fa655ca75ec" serial="NPUB-30185"/>
+	</game>
+	<game name="Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 2 The Tomb of Sammun Mak (USA) (PSN)" id="0079">
+		<description>Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 2 The Tomb of Sammun Mak (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.2.The.Tomb.of.Sammun.Mak.NPUB30219.Crack.pkg" size="4206016" crc="610bdfed" md5="f73f9f699dddb1134f0c7953dcf6e4dd" sha1="60d03928e7df05bd1d4fb167a78f7769ee2f0e7f" serial="NPUB-30219"/>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.2.The.Tomb.of.Sammun.Mak.NPUB30219.Install.pkg" size="504952336" crc="2acb9e65" md5="93cfb9bb9443834a57f45032b29ee1dc" sha1="f704bbb0ad2e66fc9860b0d244a83f6f4f665616" serial="NPUB-30219"/>
+	</game>
+	<game name="Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 3 They Stole Max's Brain (USA) (PSN)" id="0080">
+		<description>Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 3 They Stole Max's Brain (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.3.They.Stole.Maxs.Brain.NPUB30220.Crack.pkg" size="6460864" crc="131e98d5" md5="9ac3fa1de8e3ed6aade52027f73da94c" sha1="de52a9fa7f71f1ec90b90b142a04aacdfc7efdd6" serial="NPUB-30220"/>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.3.They.Stole.Maxs.Brain.NPUB30220.Install.pkg" size="430821968" crc="540aa77c" md5="72abde828d17588f90cc3fdd550bd64d" sha1="0b67ab7ddd7300650cc456514e134aa830f56af5" serial="NPUB-30220"/>
+	</game>
+	<game name="Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 4 Beyond the Alley of the Dolls (USA) (PSN)" id="0081">
+		<description>Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 4 Beyond the Alley of the Dolls (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.4.Beyond.the.Alley.of.the.Dolls.NPUB30221.Crack.pkg" size="6279552" crc="b024b414" md5="56cd3c0269820ad584fb0ceda975d922" sha1="21996ce25853542fa81281851409ed97c27f66d3" serial="NPUB-30221"/>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.4.Beyond.the.Alley.of.the.Dolls.NPUB30221.Install.pkg" size="393434752" crc="bab64392" md5="8226879151ce5d08337a16b9565df745" sha1="e1ec4a144680f690bc2c2fa80be9228583114b6e" serial="NPUB-30221"/>
+	</game>
+	<game name="Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 5 The City that Dares not Sleep (USA) (PSN)" id="0082">
+		<description>Sam &amp; Max - Season 3 The Devil's Playhouse - Episode 5 The City that Dares not Sleep (USA) (PSN)</description>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.5.The.City.that.Dares.not.Sleep.NPUB30222.Crack.pkg" size="6773472" crc="d9364bc4" md5="79642cbc02aae50456005e00b5696af5" sha1="b0e8e3632cee890c2a3922d9f4de56facb723d07" serial="NPUB-30222"/>
+		<rom name="Sam.and.Max.Season.3.The.Devils.Playhouse.Episode.5.The.City.that.Dares.not.Sleep.NPUB30222.Install.pkg" size="381948176" crc="f0db711d" md5="4cbe0c2f5e0730c88964b92abbe2f3cb" sha1="d0b0e067d32771e7f2e75f05e4992b69be7907ae" serial="NPUB-30222"/>
+	</game>
+	<game name="Sanctum 2 (Europe) (PSN)" id="0174">
+		<description>Sanctum 2 (Europe) (PSN)</description>
+		<rom name="duplex-sanctum2.crack.pkg" size="6080" crc="28e8396d" md5="b63edcddb3556fddc056d2310f7ec50b" sha1="5f1268a7017f274a23ba06268793422232c2f3e1" serial="NPEB-01374"/>
+		<rom name="duplex-sanctum2.pkg" size="836996544" crc="0eb0fc70" md5="3a2b6003d384414ab69b1f23f0ed011e" sha1="7daca509b37f079541214f447cfd36b610e058bd" serial="NPEB-01374"/>
+	</game>
+	<game name="Savage Moon (USA) (PSN)" id="0083">
+		<description>Savage Moon (USA) (PSN)</description>
+		<rom name="Savage.Moon.PSN.PS3-DUPLEX.NPUA80228.Crack.pkg" size="5175136" crc="9131fee2" md5="a8d48f4734471043105903f7ede687a0" sha1="cf828fde3c782ca4781af8bcbfec12de292270e4" serial="NPUA-80228"/>
+		<rom name="Savage.Moon.PSN.PS3-DUPLEX.NPUA80228.Decrypted.elf" size="10276904" crc="346571fa" md5="3e584520f3e0135d7be19884fe7ba650" sha1="bb0c366820742644a1382800c869a533c9a9713f" serial="NPUA-80228"/>
+		<rom name="Savage.Moon.PSN.PS3-DUPLEX.NPUA80228.Install.pkg" size="270199136" crc="fbd481e7" md5="11c7a39325e06581a69e9490a53f3ef4" sha1="01831dfdfcd3d7442e964cdd1064711c57ad874d" serial="NPUA-80228"/>
+		<rom name="Savage.Moon.PSN.PS3-DUPLEX.NPUA80228.Patch.v2.00.pkg" size="80562384" crc="03d95457" md5="432d721dfcfcd4c1ffa2465644a515cf" sha1="6e70be725f2c2badd7e8c17c6d28e767f6bb32b8" serial="NPUA-80228"/>
+		<rom name="Savage.Moon.PSN.PS3-DUPLEX.NPUA80228.Patch.v2.01.pkg" size="232634976" crc="071f550f" md5="6b8c446134a0bd6271148d89311f61de" sha1="eaca3ac5d57f20c6fd26df46fe787425cf1da6f6" serial="NPUA-80228"/>
+	</game>
+	<game name="Scott Pilgrim vs. the World - The Game (USA) (PSN)" id="0084">
+		<description>Scott Pilgrim vs. the World - The Game (USA) (PSN)</description>
+		<rom name="Scott.Pilgrim.vs.The.World.PSN.PS3-DUPLEX.NPUB30162.Crack.pkg" size="8617504" crc="026c3459" md5="799c442ce57372cd4e8866f4fbabbf9a" sha1="de8e209130c983dbef27dcf1939eeefd3e1cdcc2" serial="NPUB-30162"/>
+		<rom name="Scott.Pilgrim.vs.The.World.PSN.PS3-DUPLEX.NPUB30162.Install.pkg" size="184040128" crc="b34bdef8" md5="7ea4eefd2c6b050a8a45ebf7c0d62b4b" sha1="62844566126613e1839a9ea205199ae870e539fd" serial="NPUB-30162"/>
+		<rom name="Scott.Pilgrim.vs.The.World.PSN.PS3-DUPLEX.NPUB30162.Patch.v1.01.pkg" size="35191760" crc="ebad8521" md5="474954d6e23e516525aa9a0e5b4e2313" sha1="0b4327346afc8c669465ee92b44740365716c5c8" serial="NPUB-30162"/>
+	</game>
+	<game name="Scourge Outbreak (Europe) (PSN)" id="0195">
+		<description>Scourge Outbreak (Europe) (PSN)</description>
+		<rom name="duplex-scourge.outbreak.psn.Crack.pkg" size="6080" crc="ae44843c" md5="2535712bb8ab5373985495208f4aa5bf" sha1="6cc99ee49dc930f69d61ab7ed0678e4b901af104" serial="NPEB-01220"/>
+		<rom name="duplex-scourge.outbreak.psn.Install.pkg" size="2140822864" crc="033574b7" md5="1c67f54096e405e5981dfde04d51e264" sha1="7517da233caacfec9c4fbb4cf41e0a2c819673db" serial="NPEB-01220"/>
+	</game>
+	<game name="Sega Rally Online Arcade (USA) (PSN)" id="0085">
+		<description>Sega Rally Online Arcade (USA) (PSN)</description>
+		<rom name="Sega.Rally.Online.Arcade.PSN.PS3-DUPLEX.NPUB30448.Crack.pkg" size="7898832" crc="edffa51e" md5="6235db19ce4b27c87dce9fe784a157d8" sha1="d611ab91baa0b5de001005378c7310ad97afb46b" serial="NPUB-30448"/>
+		<rom name="Sega.Rally.Online.Arcade.PSN.PS3-DUPLEX.NPUB30448.Install.pkg" size="1148811248" crc="bc5e7110" md5="fb21f8a35e1c309b53d2b6c50962f100" sha1="4fb936590c42384f906484c91a95e4c16101fecd" serial="NPUB-30448"/>
+	</game>
+	<game name="Shatter (USA) (PSN)" id="0086">
+		<description>Shatter (USA) (PSN)</description>
+		<rom name="Shatter.NPUB30091.Crack.pkg" size="8254368" crc="8b66238b" md5="828de985cfeb5f2dea0902744b41a8ee" sha1="acccd29984749e8b8490dc9eec70422a713b0589" serial="NPUB-30091"/>
+		<rom name="Shatter.NPUB30091.Install.pkg" size="203689632" crc="eb520c7f" md5="1f24cc6b30431cf74da8938ff86b4069" sha1="01e78203b463405aa60e04b94bef3087bc4ab177" serial="NPUB-30091"/>
+	</game>
+	<game name="Shovel Knight (USA) (PSN)" id="0208">
+		<description>Shovel Knight (USA) (PSN)</description>
+		<rom name="UP2200-NPUB31682_00-SHOVELKNIGHT0001_bg_1_d5854e26ace94df80a5ecffccf09473660a4f010.pkg" size="194543616" crc="fbad870e" md5="c3243e8f1ca9645363a2f8bd94cc3a3c" sha1="80c523f7c38118096b27793261464eda4f2937b6" serial="NPUB-31682"/>
+		<rom name="NPUB31682_SHOVEL_KNIGHT_CRACK-421.pkg" size="2721888" crc="8b4fa50a" md5="157d55c73ee2ecc508259c50dc81d967" sha1="df9e7074f283bb1607df4770954d0ca3165e474a" serial="NPUB-31682"/>
+	</game>
+	<game name="Sine Mora (USA) (PSN)" id="0130">
+		<description>Sine Mora (USA) (PSN)</description>
+		<rom name="Sine.Mora.PSN.PS3-DUPLEX.NPUB30483.Install.pkg" size="946355072" crc="c6441e12" md5="0b2c5d45d18b41a40f518580e6a6f536" sha1="614969911d155e65b63efab1d2bb20d70ce075a2" serial="NPUB-30483"/>
+		<rom name="UP4175-NPUB30483_00-SINEMORAKEY00001.edat" size="352" crc="b14d86f7" md5="7ed15e8ddb37fa26041f16fd9611a5b9" sha1="c5c79243e319fee13c3c1ad680173478e3f7e9f3" serial="NPUB-30483"/>
+	</game>
+	<game name="Skullgirls - Encore (USA) (PSN)" id="0182">
+		<description>Skullgirls - Encore (USA) (PSN)</description>
+		<rom name="Skullgirls.Encore.PSN.PS3-DUPLEX.NPUB31445.Crack.pkg" size="6080" crc="fcd94040" md5="865b77af58dc1c37c71126d88c2c915d" sha1="d18f4578f5ac68cb6550983ae88f71e1e08f919b" serial="NPUB-31445"/>
+		<rom name="Skullgirls.Encore.PSN.PS3-DUPLEX.NPUB31445.Install.pkg" size="822947472" crc="f19e0a57" md5="0f4c751b3558ae5c0ea2235297c0d1d3" sha1="0abbb93ead120e2f3e3e9d6c2f276a23a15f9035" serial="NPUB-31445"/>
+	</game>
+	<game name="Skydive - Proximity Flight (USA) (PSN)" id="0277">
+		<description>Skydive - Proximity Flight (USA) (PSN)</description>
+		<rom name="sa-sdpf.iso" size="1045529505" crc="fb5b18d1" md5="f0c6e7678cece25b7377a149f9b6ec88" sha1="0a8a8ad469ea4dc98f2f236152e6a5a73add55b8"/>
+		<rom name="NPUB30618\ICON0.PNG" size="40857" crc="46aaa893" md5="0eeb7a6bfa3d6f0ebf39589e52a5afd7" sha1="28f173e11478aaed60c78d0dc6b45217a98b42de"/>
+		<rom name="NPUB30618\PARAM.SFO" size="1040" crc="1f949730" md5="2f1eaa9555978abe3f3957bf7922ab92" sha1="5391f6276449d9b434acad68dbb43aa0cdd5e9ec"/>
+		<rom name="NPUB30618\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPUB30618\TROPDIR\NPWR02727_00\TROPHY.TRP" size="2912752" crc="10a619bf" md5="8418e3390622d668bb95abae3bde9569" sha1="5cde7ef836220a7fef50cd19bc98438fc279d9db"/>
+	</game>
+	<game name="Smash Cars (USA) (PSN)" id="0087">
+		<description>Smash Cars (USA) (PSN)</description>
+		<rom name="JP0001-NPUB30097_00-SMASH00000000123.pkg" size="483732560" crc="d3c5a98f" md5="11cb703fd1f78fc55081bc1290659e73" sha1="a3a04df1b9e37fa63b9ecdd225162f2b866a7fe0" serial="NPUB-30097"/>
+	</game>
+	<game name="Sonic the Fighters (USA) (PSN)" id="0134">
+		<description>Sonic the Fighters (USA) (PSN)</description>
+		<rom name="Sonic.the.Fighters.PSN.PS3-DUPLEX.NPUB30927.Crack.pkg" size="5067424" crc="a4ea2b92" md5="52d19a30fe8487403975e43508721fcd" sha1="176749fd620e14c79735d8ee64d63efb58465370" serial="NPUB-30927"/>
+		<rom name="Sonic.the.Fighters.PSN.PS3-DUPLEX.NPUB30927.Install.pkg" size="90980608" crc="fb6975e9" md5="a86e56b8e45c5269c76c473678acc4a1" sha1="542276112070499ca8e4d38ccb88bd72e42eba7d" serial="NPUB-30927"/>
+	</game>
+	<game name="Sonic the Hedgehog (USA) (PSN)" id="0090">
+		<description>Sonic the Hedgehog (USA) (PSN)</description>
+		<rom name="Sonic.the.Hedgehog.PSN.PS3-DUPLEX.NPUB30442.Crack.pkg" size="1709984" crc="01456640" md5="35d50061d6feb343348f440607c9d77f" sha1="6a1a46d10490c727ba4895b8600c367e1bb9cf7f" serial="NPUB-30442"/>
+		<rom name="Sonic.the.Hedgehog.PSN.PS3-DUPLEX.NPUB30442.Install.pkg" size="34950656" crc="328ce626" md5="b6465e189742519af2f41b46bcf2f77e" sha1="0462124a284b8559abbcf836f4133c67ceb948cc" serial="NPUB-30442"/>
+	</game>
+	<game name="Sonic the Hedgehog 2 (USA) (PSN)" id="0088">
+		<description>Sonic the Hedgehog 2 (USA) (PSN)</description>
+		<rom name="Sonic.the.Hedgehog.2.NPUB30443.Crack.pkg" size="1944416" crc="bd6902c3" md5="47dcc8ab63b33b44e1eaec7507ae5f83" sha1="df88bb7838e424a48ad5356640743c1e96570706" serial="NPUB-30443"/>
+		<rom name="Sonic.the.Hedgehog.2.NPUB30443.Install.pkg" size="35433776" crc="7a705de2" md5="0ea11739464f9dcabdc04bbbbec41da1" sha1="f491756113d0e18501a49c652d70cd4c5ff7c8f4" serial="NPUB-30443"/>
+	</game>
+	<game name="Sonic the Hedgehog 4 - Episode 1 (USA) (PSN)" id="0089">
+		<description>Sonic the Hedgehog 4 - Episode 1 (USA) (PSN)</description>
+		<rom name="Sonic.The.Hedgehog.4.Episode.1.PSN.PS3-DUPLEX.NPUB30127.Crack.pkg" size="3765120" crc="d99cecf5" md5="51b537ce1502a705db17799ad4478a83" sha1="bfa454cb5534aba9a2b832795046c6e494fd255c" serial="NPUB-30127"/>
+		<rom name="Sonic.The.Hedgehog.4.Episode.1.PSN.PS3-DUPLEX.NPUB30127.Decrypted.elf" size="3877672" crc="557b66d7" md5="e28f7e172a2317304f6f967278cc5550" sha1="09775b99ac366d8e1e770ca6a79354a1847dbcc0" serial="NPUB-30127"/>
+		<rom name="Sonic.The.Hedgehog.4.Episode.1.PSN.PS3-DUPLEX.NPUB30127.Install.pkg" size="208225936" crc="735218cc" md5="c102e93d7004944409cc9b84d78d4542" sha1="40c6125d4b902babb7ed4b378dfd8c51186ca11e" serial="NPUB-30127"/>
+	</game>
+	<game name="Soul Calibur V - DLC Pack (World) (DLC)" id="0228">
+		<description>Soul Calibur V - DLC Pack (World) (DLC)</description>
+		<rom name="Soul.Calibur.V.DLC.Pack.PS3-DUPLEX.BLUS30736.Install.pkg" size="321397376" crc="4132a799" md5="cf0fc5007ac3e8cb4e2cc0646ddcf275" sha1="9ea89a5d6a9892e9d62ad378f14a11bf1915a802"/>
+	</game>
+	<game name="Space Invaders - Infinity Gene (USA) (PSN)" id="0278">
+		<description>Space Invaders - Infinity Gene (USA) (PSN)</description>
+		<rom name="Space Invaders - Infinity Gene (USA) (PSN).iso" size="361268705" crc="b2a81660" md5="90d60e80f95460f0a20df806d25d0be0" sha1="77376f18f70f3ae5fe78c368d1de1bcdc5818cd5"/>
+	</game>
+	<game name="Spare Parts (USA) (PSN)" id="0091">
+		<description>Spare Parts (USA) (PSN)</description>
+		<rom name="Spare.Parts.PSN.PS3-DUPLEX.NPUB30310.Crack.pkg" size="4323136" crc="b9333558" md5="88a42b6db1e40915692fa71eec0ad8b0" sha1="02cebebf8d21f3959496c4b05404fc0d556991d2" serial="NPUB-30310"/>
+		<rom name="Spare.Parts.PSN.PS3-DUPLEX.NPUB30310.Install.pkg" size="926098928" crc="03252f23" md5="2647a0be1b7f074f5f8e033e333a01d5" sha1="4b22ba548944603e38653e7acc883fdf3c89832d" serial="NPUB-30310"/>
+		<rom name="Spare.Parts.PSN.PS3-DUPLEX.NPUB30310.Patch.v1.01.pkg" size="271216128" crc="69b7b8e2" md5="70a766d2ab5ed40bd4be40a88f29c13e" sha1="e9e430c325b0aeb1ec8b1b4b2b2d258b3312327d" serial="NPUB-30310"/>
+		<rom name="Spare.Parts.PSN.PS3-DUPLEX.NPUB30310.Patch.v1.02.pkg" size="4410656" crc="96492905" md5="4a38fa2e2aa748b1669817c92bfce57a" sha1="d432c57e6b02dd7ccc4537ea2c06f316f8140ded" serial="NPUB-30310"/>
+	</game>
+	<game name="Sparkle 2 (USA) (PSN)" id="0210">
+		<description>Sparkle 2 (USA) (PSN)</description>
+		<rom name="UP4403-NPUB31640_00-SPARKLE200000001_bg_1_7e47494a204e147f391103c209fbe304fe40555d.pkg" size="116774800" crc="d01fa9a9" md5="c92256db706960d04272e8a93df06024" sha1="2920a88b66c44ac20bec6b67d0b5f73c7a40dc6b" serial="NPUB-31640"/>
+		<rom name="UP4403-NPUB31640_00-SPARKLE2UNLOCK00.edat" size="352" crc="e03ff921" md5="d2ac3ab67e78ec79fe170d8fc78d00d6" sha1="c13b26807f07f09799f04da135200067951d4973" serial="NPUB-31640"/>
+	</game>
+	<game name="Spelunky (Europe) (PSN)" id="0175">
+		<description>Spelunky (Europe) (PSN)</description>
+		<rom name="pqPgBdGqguLaFjPcQWMqBwCFhIRJAJeNSzCDOQOOcyduygbQHkRqptcHGOIUfcfj.pkg" size="216709888" crc="2af7b4d6" md5="f9b34d45aca242e6ff26630145491165" sha1="375ab9b3bd99dfd7a12d3761f41062dbbbb8f02e" serial="NPEB-01419"/>
+		<rom name="EP4407-NPEB01419_00-SPELUNKYKEY00000.edat" size="352" crc="eb06346e" md5="11cb5364a883c715c13c04781b8a4fa0" sha1="57701f1f811a5cb8614296b5446c679007d8aed6" serial="NPEB-01419"/>
+	</game>
+	<game name="Splinter Cell HD (Europe) (PSN)" id="0092">
+		<description>Splinter Cell HD (Europe) (PSN)</description>
+		<rom name="Splinter.Cell.HD.PS3.PSN-DUPLEX.NPEB00527.Crack.pkg" size="3374848" crc="378b1d1b" md5="cb683151290ac6feaea2f263e8757d5a" sha1="99e8b885f7a670004064ee22b01d67a43512c451" serial="NPEB-00527"/>
+		<rom name="Splinter.Cell.HD.PS3.PSN-DUPLEX.NPEB00527.Install.pkg" size="2717328800" crc="8cc65dad" md5="535d5761b1d78310fb05098a897ec6f3" sha1="4a04ace5bacb5136e140a19458e29a3f22098269" serial="NPEB-00527"/>
+	</game>
+	<game name="Stacking (Europe) (PSN)" id="0093">
+		<description>Stacking (Europe) (PSN)</description>
+		<rom name="Explodemon.PSN.PS3-DUPLEX.NPEB00306.Install.pkg" size="1048153120" crc="4d09b75e" md5="086b2ab48e87fab29664bcfa012cb328" sha1="572637041cffac37fc4f0a921d4f6f0a5891a0d6" serial="NPEB-00283"/>
+		<rom name="Stacking.PSN.PS3-DUPLEX.NPEB00283.Crack.pkg" size="6920384" crc="fbf33e91" md5="1ce78890a2957166cd6d3d4a2c7fa792" sha1="8090899a77df93fe790c6857f2b39b579c13fec0" serial="NPEB-00283"/>
+		<rom name="Stacking.PSN.PS3-DUPLEX.NPEB00283.Decrypted.ELF" size="12087608" crc="48f77081" md5="07963037bc42d64cd2bd1d57ef092b1c" sha1="ee2fc04641a9c7bba24ec31ff6e62824f597483e" serial="NPEB-00283"/>
+		<rom name="Stacking.PSN.PS3-DUPLEX.NPEB00283.Update1.01.pkg" size="10940960" crc="b626f096" md5="639350d7b6914dc29d6ddf86e98be90b" sha1="247dc3d4a29f6753dd479a6b6f6ea779d19ade50" serial="NPEB-00283"/>
+	</game>
+	<game name="Star Wars Pinball (USA) (PSN)" id="0153">
+		<description>Star Wars Pinball (USA) (PSN)</description>
+		<rom name="starwars.pkg" size="236873760" crc="4047e5a6" md5="c2d9ba1e5a50628967c9e9bb5d394705" sha1="fcd086ff2fa3d93acff5b3d5892818a0858aeb7e" serial="NPUB-31132"/>
+		<rom name="swpinballcrk.pkg" size="102400" crc="3dd4ac63" md5="d511ea9ad386243578a15e30ba6c31e5" sha1="476c6feff149a090b89c48c02f98e2705cd72e26" serial="NPUB-31132"/>
+	</game>
+	<game name="Star Wars Pinball - Rogue One (USA) (DLC)" id="0268" cloneofid="0153">
+		<description>Star Wars Pinball - Rogue One (USA) (DLC)</description>
+		<rom name="duplex-star.wars.pinball.dlc.package.and.crack.pkg" size="745976112" crc="cf5e5c6e" md5="5540cf94a885308715e3ffec822d36cf" sha1="cf896497734ba315883459d4e7e880645be28926" serial="NPUB-31132"/>
+		<rom name="duplex-star.wars.pinball.pkg" size="236873760" crc="4047e5a6" md5="c2d9ba1e5a50628967c9e9bb5d394705" sha1="fcd086ff2fa3d93acff5b3d5892818a0858aeb7e" serial="NPUB-31132"/>
+	</game>
+	<game name="StarDrone (USA) (PSN)" id="0094">
+		<description>StarDrone (USA) (PSN)</description>
+		<rom name="StarDrone.PSN.PS3-DUPLEX.NPUB30403.Crack.pkg" size="4869360" crc="c109cbfe" md5="c85b48891df0f35309b02593ef932788" sha1="c67f783addb7a7d32074bda9175e94efc6f0e72e" serial="NPUB-30403"/>
+		<rom name="StarDrone.PSN.PS3-DUPLEX.NPUB30403.Install.pkg" size="92162048" crc="b5926f21" md5="d199fb616a9c2ca6802afd5e3bf6383d" sha1="a72f58940f82a24732fcacce0e84ff85647472ec" serial="NPUB-30403"/>
+	</game>
+	<game name="Stealth Inc - A clone in the Dark (USA) (PSN)" id="0279">
+		<description>Stealth Inc - A clone in the Dark (USA) (PSN)</description>
+		<rom name="sa-siacitd.iso" size="553484449" crc="ec22c290" md5="9bc4991ad6df31880e6420bc416d66cd" sha1="fcd3d8d980651ed9d075faa73996d620e1ea6931"/>
+		<rom name="NPUB31260\ICON0.PNG" size="42863" crc="0c17225f" md5="680be049b759f6a0d61aae763097c3a6" sha1="7beacc670604bf38a37b439df3f52374ac717b60"/>
+		<rom name="NPUB31260\PARAM.SFO" size="1040" crc="361555a0" md5="fa6e1477a0e84e7ea276342ed12f2425" sha1="a1733b071ceecde7409fbbcb09acb3241746f23b"/>
+		<rom name="NPUB31260\PIC1.PNG" size="536291" crc="2149e19f" md5="4cf7d805c02c93bdcdc656a41e587f87" sha1="ef70f86b99e44b0a756305644470b597a013c141"/>
+		<rom name="NPUB31260\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPUB31260\TROPDIR\NPWR04544_00\TROPHY.TRP" size="840928" crc="20c6d552" md5="36fd834ad54d511c36d52b844ed20917" sha1="1976af53f01493ec539bc1caa22b794d03f40035"/>
+	</game>
+	<game name="Strange is the Life - Episode 01 (Europe) (PSN)" id="0196">
+		<description>Strange is the Life - Episode 01 (Europe) (PSN)</description>
+		<rom name="ep0082-npeb02197_00-episode000000001.edat" size="352" crc="455620d4" md5="9b44e54c120a0d9a4a147d79b4886a0c" sha1="c47362048bff0e47db879b0b6183350ccdd8f5ec" serial="NPEB-02197"/>
+		<rom name="install-strange.is.the.life-episode.01.psn.ps3-psfr33.pkg" size="1076595936" crc="8d4f9b53" md5="831ab0811aa01cad71bc7c7affe928c8" sha1="3e84d6dd47254a82fa318c38146c1013993d2355" serial="NPEB-02197"/>
+	</game>
+	<game name="Street Fighter 2 Turbo HD Remix (Europe) (PSN)" id="0222">
+		<description>Street Fighter 2 Turbo HD Remix (Europe) (PSN)</description>
+		<rom name="PXV1AU5eR4WmdyYuKPbQdqDpe50hhmMAG86fOYFciYC1yEFm8jw6PBewYh1IQ5BMW8XviUcoE3vS7lxKe7NqCX6nK0pH6D4KrRBnl.pkg" size="316703152" crc="f1e4cd1e" md5="4f44373af7de2a0e67dc12ac5009b8a4" sha1="39f988c3a9291b9286287ba1b15b9192852be8f9" serial="NPEB-00036"/>
+	</game>
+	<game name="Street Fighter III - 3rd Strike Online Edition (USA) (PSN)" id="0095">
+		<description>Street Fighter III - 3rd Strike Online Edition (USA) (PSN)</description>
+		<rom name="Street.Fighter.III.3rd.Strike.Online.Edition.PSN.PS3-DUPLEX.NPUB30301.Crack.pkg" size="6047568" crc="e607e9b4" md5="724185329320f0a9d6d555be6d523156" sha1="221c6b5f858dcb374e1e62ac2212169eb51e0566" serial="NPUB-30301"/>
+		<rom name="Street.Fighter.III.3rd.Strike.Online.Edition.PSN.PS3-DUPLEX.NPUB30301.Install.pkg" size="649259392" crc="621354a5" md5="920f61df2b4771c13009200d06298734" sha1="6a891b3e53b6a21589f9068638f1efa45d309179" serial="NPUB-30301"/>
+	</game>
+	<game name="Streets of Rage 2 (USA) (PSN)" id="0096">
+		<description>Streets of Rage 2 (USA) (PSN)</description>
+		<rom name="Streets.of.Rage.2.NPUB30444.Crack.pkg" size="2153248" crc="934fcc05" md5="49b060f350c8efb7a5d44f72753d9d97" sha1="49bc6c02d28c4688d1860de5243be3b3716013f9" serial="NPUB-30444"/>
+		<rom name="Streets.of.Rage.2.NPUB30444.Install.pkg" size="37111232" crc="55371d8e" md5="2621ec73f9b4170c77abbb26609d0e32" sha1="089735fb44d9ea1332e7f1b41300aa126a0d663f" serial="NPUB-30444"/>
+	</game>
+	<game name="Strider (USA) (PSN)" id="0183">
+		<description>Strider (USA) (PSN)</description>
+		<rom name="Strider.PSN.PS3-DUPLEX.Crack.pkg" size="6080" crc="89b25d88" md5="9ddbcaf5738a46b05169c957b85d1261" sha1="b866f900b58058fbad65fe5802cce62610005329" serial="NPUB-31139"/>
+		<rom name="Strider.PSN.PS3-DUPLEX.Install.pkg" size="4111466240" crc="b131ce7b" md5="cb90e1c1bb6aaf90be6d07757b0784d8" sha1="ed3b3bc2831386e10741431fd4bcd14b8a5e1973" serial="NPUB-31139"/>
+	</game>
+	<game name="Strong Bad's Cool Game for Attractive People - Episode 1 Homestar Ruiner (USA) (PSN)" id="0097">
+		<description>Strong Bad's Cool Game for Attractive People - Episode 1 Homestar Ruiner (USA) (PSN)</description>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.1.Homestar.Ruiner.PSN.PS3-DUPLEX.NPUB30395.Crack.pkg" size="12621216" crc="14c3d881" md5="85ea5f51fd65d8ca6c98e727932945ca" sha1="b6e6b7040e706b828817ead24cce6381e65a4693" serial="NPUB-30395"/>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.1.Homestar.Ruiner.PSN.PS3-DUPLEX.NPUB30395.Install.pkg" size="94342592" crc="e2aa091d" md5="cbc380c8ef1ad8338f4147009c0da712" sha1="34f7f5e77db0f3267ff8283a4a44de1d98ba56b5" serial="NPUB-30395"/>
+	</game>
+	<game name="Strong Bad's Cool Game for Attractive People - Episode 2 Strong Badia the Free (USA) (PSN)" id="0098">
+		<description>Strong Bad's Cool Game for Attractive People - Episode 2 Strong Badia the Free (USA) (PSN)</description>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.2.Strong.Badia.the.Free.PSN.PS3-DUPLEX.NPUB30396.Crack.pkg" size="12516256" crc="a204fbfd" md5="3c4c5d844a8a505e0b6935ebd1445f25" sha1="98bb9a2eba0156c2f2e7da06ac1396065229f82e" serial="NPUB-30396"/>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.2.Strong.Badia.the.Free.PSN.PS3-DUPLEX.NPUB30396.Install.pkg" size="105418960" crc="cba30640" md5="5761f62f98aeaee22e6c43221d3d4428" sha1="b4db4bc03f018fdb839d7fe306a1bad2c399e8ce" serial="NPUB-30396"/>
+	</game>
+	<game name="Strong Bad's Cool Game for Attractive People - Episode 3 Baddest of the Bands (USA) (PSN)" id="0099">
+		<description>Strong Bad's Cool Game for Attractive People - Episode 3 Baddest of the Bands (USA) (PSN)</description>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.3.Baddest.of.the.Bands.PSN.PS3-DUPLEX.NPUB30397.Crack.pkg" size="12831472" crc="d04880d2" md5="5b195a22cd12dbc3bdae3c9fa1e32cf6" sha1="0110b7e82150932acab53ceb0bc5360c646f5a6a" serial="NPUB-30397"/>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.3.Baddest.of.the.Bands.PSN.PS3-DUPLEX.NPUB30397.Install.pkg" size="97990368" crc="76c197d9" md5="6fe9e084af9b7f9ac4ef4f48400f0a9e" sha1="42205556b1d82beb1f03f51caa5c1144ef635d07" serial="NPUB-30397"/>
+	</game>
+	<game name="Strong Bad's Cool Game for Attractive People - Episode 4 Dangeresque 3 (USA) (PSN)" id="0100">
+		<description>Strong Bad's Cool Game for Attractive People - Episode 4 Dangeresque 3 (USA) (PSN)</description>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.4.The.Criminal.Projective.PSN.PS3-DUPLEX.NPUB30193.Crack.pkg" size="13579424" crc="81301e40" md5="f029c26e9049f0df1729b96b310827ab" sha1="ef59c6f43640d0c108c43c440b55660030043403" serial="NPUB-30193"/>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.4.The.Criminal.Projective.PSN.PS3-DUPLEX.NPUB30193.Install.pkg" size="102851712" crc="cba7b0c4" md5="6050e39cff4fdbe999c6a2559462ceeb" sha1="ef1a898610eb950da9447f62a5a8cb9a9109fdbe" serial="NPUB-30193"/>
+	</game>
+	<game name="Strong Bad's Cool Game for Attractive People - Episode 5 8 Bit is Enough (USA) (PSN)" id="0101">
+		<description>Strong Bad's Cool Game for Attractive People - Episode 5 8 Bit is Enough (USA) (PSN)</description>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.5.8.Bit.is.Enough.PSN.PS3-DUPLEX.NPUB30398.Crack.pkg" size="12623984" crc="405ceb23" md5="b5b2e5396e8617927a01d366880f8c02" sha1="f9ebd728f6ca8e85397f13f58cf1e11c898775e7" serial="NPUB-30398"/>
+		<rom name="Strong.Bads.Cool.Game.for.Attractive.People.Episode.5.8.Bit.is.Enough.PSN.PS3-DUPLEX.NPUB30398.Install.pkg" size="80169456" crc="f3320e1f" md5="aea93352687c358998344ba363363424" sha1="f959d14a01e249321107fdcc90856cc572913b34" serial="NPUB-30398"/>
+	</game>
+	<game name="Super Mega Baseball (USA) (PSN)" id="0267">
+		<description>Super Mega Baseball (USA) (PSN)</description>
+		<rom name="duplex-super.mega.baseball.pkg" size="245065632" crc="514356df" md5="73c233d533039bb14deccca761f38a15" sha1="524d1890b87e30aacefcc5082a44fafdd23a7b0b" serial="NPUB-31554"/>
+		<rom name="duplex-super.mega.baseball.crack.pkg" size="1654016" crc="b75c3edb" md5="9d1d1c564bab4399ef8e290f6de8b03b" sha1="b103ce3659f43958342fa5306cd6459496baecfe" serial="NPUB-31554"/>
+	</game>
+	<game name="Super Stardust HD (USA) (PSN)" id="0102">
+		<description>Super Stardust HD (USA) (PSN)</description>
+		<rom name="Super.Stardust.HD.PSN.PS3-DUPLEX.NPUA80068.Crack.pkg" size="3449200" crc="34c0857e" md5="140fb1c1a00286e7b96241f2566c8aa5" sha1="6cfe3d222a5c28559769be0140a8b03b7bf5d2b0" serial="NPUA-80068"/>
+		<rom name="Super.Stardust.HD.PSN.PS3-DUPLEX.NPUA80068.Decrypted.elf" size="8439912" crc="7e0992ee" md5="0bca55b5437af1d5d999e628538d3f6e" sha1="9ed70eb853618e89790a9ed770ef9e24f1b00478" serial="NPUA-80068"/>
+		<rom name="Super.Stardust.HD.PSN.PS3-DUPLEX.NPUA80068.Install.pkg" size="289458480" crc="d86340d6" md5="61e0f97815ed7344088453337c4d9717" sha1="b97d6940f0cfec79b74cb08569bec29d6cbca5cb" serial="NPUA-80068"/>
+		<rom name="Super.Stardust.HD.PSN.PS3-DUPLEX.NPUA80068.Patch.v5.01.pkg" size="248653072" crc="ddb06237" md5="0d79e5567c0257aed8debebe6772d9bf" sha1="f8e23edb4d3d46c82077e8bdb3ad1c6d031c6841" serial="NPUA-80068"/>
+	</game>
+	<game name="Super Street Fighter IV - Arcade Edition - Record of Agarest War Zero - 25 DLC Packages (World) (DLC)" id="0229">
+		<description>Super Street Fighter IV - Arcade Edition - Record of Agarest War Zero - 25 DLC Packages (World) (DLC)</description>
+		<rom name="Super.Street.Fighter.IV.Arcade.Edition.All.DLC.Pack.PS3-DUPLEX.pkg" size="352344032" crc="5250e2a8" md5="a2c7c6142270b7f1de1bfc5dc95a85e5" sha1="15df95d675921b0b042df1c2e40b5278be6fd912"/>
+	</game>
+	<game name="Tales from Space - Mutant Blobs Attack (Europe) (PSN)" id="0197">
+		<description>Tales from Space - Mutant Blobs Attack (Europe) (PSN)</description>
+		<rom name="EP2145-NPEB01824_00-MUTANTBLOBSATK02.edat" size="352" crc="e3e89d1d" md5="4e21b2bfe7e1cd663ca716636144d8f6" sha1="d85fe7cdf76de5b04b6f69bab01561bca298593a" serial="NPEB-01824"/>
+		<rom name="IUfJGheaUhEkorbdzOjoLjiYcuadoONudHrfAVdMiCsdubEfgQRNAwKBlBHaKqpM.pkg" size="254970720" crc="1e094e23" md5="0645186c750fb59812c8f63237d99fc3" sha1="5b52eb53bae2d498728262b1624aa03f75aecf10" serial="NPEB-01824"/>
+	</game>
+	<game name="Tales from the Borderlands Episode 1 (USA) (PSN)" id="0198">
+		<description>Tales from the Borderlands Episode 1 (USA) (PSN)</description>
+		<rom name="duplex-tales.from.the.borderlands.ep1.psn.Crack.pkg" size="8600112" crc="fad46035" md5="bf5fcaf3cf1c5137ec21f085e50d165e" sha1="0715a870118b7603daf49191d0018269a29ebd06" serial="NPUB-31454"/>
+		<rom name="duplex-tales.from.the.borderlands.ep1.psn.Install.pkg" size="911721184" crc="2768a445" md5="5982c2eaf4c7dfd1ac91a98c07c32d04" sha1="4ca26aa66aa9dde520607f748907147a33d8bd18" serial="NPUB-31454"/>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 1 Launch of the Screaming Narwhal (USA) (PSN)" id="0103">
+		<description>Tales of Monkey Island - Chapter 1 Launch of the Screaming Narwhal (USA) (PSN)</description>
+		<rom name="Tales.of.Monkey.Island.Chapter.1.Launch.of.the.Screaming.Narwhal.NPUB30283.Crack.pkg" size="6098368" crc="176ce771" md5="a0e696b25d39d4bb74f6b3b713cea7fa" sha1="5b36ad10739bc240256d77f41fe9b923241787de" serial="NPUB-30283"/>
+		<rom name="Tales.of.Monkey.Island.Chapter.1.Launch.of.the.Screaming.Narwhal.NPUB30283.Install.pkg" size="237656416" crc="f20e1ec4" md5="1936bd1427422a49e01594e99501a975" sha1="65eb7813340984d97950c56fe8a50af687f09e15" serial="NPUB-30283"/>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 2 The Siege of Spinner Cay (USA) (PSN)" id="0104">
+		<description>Tales of Monkey Island - Chapter 2 The Siege of Spinner Cay (USA) (PSN)</description>
+		<rom name="Tales.of.Monkey.Island.Chapter.2.The.Siege.of.Spinner.Cay.NPUB30284.Crack.pkg" size="4111344" crc="8ac2a025" md5="c75025eb6e49a27b4124fe9571558c4f" sha1="8ceb94380bd4ea9676cf7035313c6aa826dc5748" serial="NPUB-30284"/>
+		<rom name="Tales.of.Monkey.Island.Chapter.2.The.Siege.of.Spinner.Cay.NPUB30284.Install.pkg" size="199024240" crc="905cd11c" md5="0edec9975dd75cef71bdd866c0cde6ca" sha1="6d70cedaece8f377ecf9f6929360de67a66fd6b7" serial="NPUB-30284"/>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 3 Lair of the Leviathan (USA) (PSN)" id="0105">
+		<description>Tales of Monkey Island - Chapter 3 Lair of the Leviathan (USA) (PSN)</description>
+		<rom name="Tales.of.Monkey.Island.Chapter.3.Lair.of.the.Leviathan.NPUB30285.Crack.pkg" size="4127200" crc="d4e73a54" md5="9a14330d9764c2b193be5ca72745a9b7" sha1="c9fd107e949848fa2b6fa625bef00cf0df48fe32" serial="NPUB-30285"/>
+		<rom name="Tales.of.Monkey.Island.Chapter.3.Lair.of.the.Leviathan.NPUB30285.Install.pkg" size="208249344" crc="01f4fded" md5="fdca639ff1841d3e4c1a1147fde1e833" sha1="8172c0f6e702cd21d503b2b5e74c65766cca472d" serial="NPUB-30285"/>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 4 The Trial and Execution of Guybrush Threepwood (USA) (PSN)" id="0106">
+		<description>Tales of Monkey Island - Chapter 4 The Trial and Execution of Guybrush Threepwood (USA) (PSN)</description>
+		<rom name="Tales.of.Monkey.Island.Chapter.4.The.Trial.and.Execution.of.Guybrush.Threepwood.NPUB30286.Crack.pkg" size="4120208" crc="e69b1146" md5="a239f528c0691e056e002b410fe4b294" sha1="3a3bd40bc9aef746a6afa80b62587551a6584e5e" serial="NPUB-30286"/>
+		<rom name="Tales.of.Monkey.Island.Chapter.4.The.Trial.and.Execution.of.Guybrush.Threepwood.NPUB30286.Install.pkg" size="240382400" crc="db3c7e14" md5="92ed41616ab00415bb45b32a374be794" sha1="d0a53ca02ddb09ce7c16a391d84e9f0827fe9fbc" serial="NPUB-30286"/>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 5 Rise of the Pirate God (USA) (PSN)" id="0107">
+		<description>Tales of Monkey Island - Chapter 5 Rise of the Pirate God (USA) (PSN)</description>
+		<rom name="Tales.of.Monkey.Island.Chapter.5.Rise.of.the.Pirate.God.NPUB30287.Crack.pkg" size="4134736" crc="9aa15acc" md5="bbc7b11ceb3c3f09ff681852d522e3fe" sha1="92b98dbd0228a475c4b19b6115bb3c5ee5fba6f7" serial="NPUB-30287"/>
+		<rom name="Tales.of.Monkey.Island.Chapter.5.Rise.of.the.Pirate.God.NPUB30287.Install.pkg" size="224763952" crc="5399e21d" md5="73b7d869fabf4f4ea649551e6953b049" sha1="d8847d0dd36827f875beaaa356c073e38e39b57c" serial="NPUB-30287"/>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - Mutants in Manhattan - DLC Unlocker (World) (DLC)" id="0264">
+		<description>Teenage Mutant Ninja Turtles - Mutants in Manhattan - DLC Unlocker (World) (DLC)</description>
+		<rom name="TMNTDLCPAL.pkg" size="5379568" crc="48bc6969" md5="7df361f8314c306bc9d7be412ac8211b" sha1="cb68962c6230ba68f38568a8ba1e7e3aedd07952"/>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - Out of the Shadows (USA) (PSN)" id="0188">
+		<description>Teenage Mutant Ninja Turtles - Out of the Shadows (USA) (PSN)</description>
+		<rom name="Teenage.Mutant.Ninja.Turtles.Out.of.the.Shadows.PSN.PS3-PROTOCOL.Crack.pkg" size="6080" crc="1a855f19" md5="3b6ad74a40294a8ffcab7a03e12936ea" sha1="42754f4fd93f5c3e8462518b599aeca13d00ae90" serial="NPEB-01425"/>
+		<rom name="Teenage.Mutant.Ninja.Turtles.Out.of.the.Shadows.PSN.PS3-PROTOCOL.Install.pkg" size="1051562432" crc="4f9bae0d" md5="5d861baeb0da4541ccc8f5bc38058354" sha1="0318ebf0370f5b46caa3cb2c3937bda67d9b7b8d" serial="NPEB-01425"/>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - Turtles in Time Re-Shelled (USA) (PSN)" id="0108">
+		<description>Teenage Mutant Ninja Turtles - Turtles in Time Re-Shelled (USA) (PSN)</description>
+		<rom name="TMNT.Turtles.In.Time.ReShelled.PSN.PS3-DUPLEX.NPUB30107.Crack.pkg" size="9032336" crc="a5d507aa" md5="2b9683cff5bd1db088e4f5c87a8aa5ef" sha1="c993555e7512053926e5daa1857dbf86c04b9680" serial="NPUB-30107"/>
+		<rom name="TMNT.Turtles.In.Time.ReShelled.PSN.PS3-DUPLEX.NPUB30107.Install.pkg" size="386730176" crc="aed5f447" md5="9106477124c5eec5551357c7dbb648d2" sha1="4f0e9d38d32ee9ab36c3177977d861ba8dde525c" serial="NPUB-30107"/>
+	</game>
+	<game name="Tennis in the Face (USA) (PSN)" id="0209">
+		<description>Tennis in the Face (USA) (PSN)</description>
+		<rom name="UP4403-NPUB31672_00-TENNISFACE000001_bg_1_d93e24f43d17c4ccd1d561cbb45e14dc0cd3cc04.pkg" size="38467792" crc="70b5a458" md5="343adad2b0800c264ce1439a08b02d60" sha1="52abc4ccb6036127364d34bc8578567d536e1ab4" serial="NPUB-31672"/>
+		<rom name="UP4403-NPUB31672_00-TENNISFACEUNLOCK.edat" size="352" crc="4958c684" md5="b7845b04a47eb21c573046d144d1d01f" sha1="d47bc6d74436737218a099427981db8df95e526d" serial="NPUB-31672"/>
+	</game>
+	<game name="Terraria (USA) (PSN)" id="0147">
+		<description>Terraria (USA) (PSN)</description>
+		<rom name="rapture-terraria-install.pkg" size="50330208" crc="8d845d7f" md5="e4e732ac0b67e341ad0f7e9e02b8121b" sha1="f8a614af2529de2a2f697bd444c13e48dc96c30b" serial="NPUB-30943"/>
+		<rom name="UP4040-NPUB30943_00-TERRARIA00000002.edat" size="352" crc="20eb67a0" md5="43c74428f3e52323e13146210d102509" sha1="eae5a935acc9cde3ad573b845fb12f321a4afe55" serial="NPUB-30943"/>
+	</game>
+	<game name="Thunder Wolves (Europe) (PSN)" id="0158">
+		<description>Thunder Wolves (Europe) (PSN)</description>
+		<rom name="duplex-thunder.wolves.crack.pkg" size="6080" crc="53ae0acc" md5="8cf89d9326112e52070e29ef7c0055ce" sha1="c6fcc1524b02efd31a2c9a77da18c55b34dec969" serial="NPEB-01380"/>
+		<rom name="duplex-thunder.wolves.pkg" size="1123212656" crc="cc7d7e61" md5="2f0fcbb26c7951c6f560112354b681e7" sha1="613b67da4773444c5b03a1dcc572cf2adb5aaae3" serial="NPEB-01380"/>
+	</game>
+	<game name="Tiny Tokens Empires (USA) (PSN)" id="0154">
+		<description>Tiny Tokens Empires (USA) (PSN)</description>
+		<rom name="game.pkg" size="367094704" crc="3f09efa5" md5="7927e213633fd554db3f1af015fc4e64" sha1="08372030bff0a4b9ac13fdc496fad464f48904c9" serial="NPUB-31176"/>
+		<rom name="tinycrk.pkg" size="6080" crc="11e52245" md5="44b87b41a0894cae2042dd35164bb33b" sha1="fd9c9007435e4e51f9400162ca15f540845cfb2f" serial="NPUB-31176"/>
+	</game>
+	<game name="TNT Racers (Europe) (PSN)" id="0109">
+		<description>TNT Racers (Europe) (PSN)</description>
+		<rom name="TNT.Racers.PSN.PS3-DUPLEX.NPEB00221.Crack.pkg" size="4265440" crc="6d4502b2" md5="0266739b563d99534dce87325f14621e" sha1="b9fba010967c62cf5d2c6205e48858bec6a6ce94" serial="NPEB-00221"/>
+		<rom name="TNT.Racers.PSN.PS3-DUPLEX.NPEB00221.Install.pkg" size="156840224" crc="4dd8c24a" md5="60b1f546c6a45000c9cf5565dbcc0cb9" sha1="c8997574b53995e2321ec1cae2513d32be2685e1" serial="NPEB-00221"/>
+	</game>
+	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow HD (Europe) (PSN)" id="0123">
+		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow HD (Europe) (PSN)</description>
+		<rom name="Splinter.Cell.Pandora.Tomorrow.HD.PS3.PSN-DUPLEX.NPEB00528.Crack.pkg" size="5064720" crc="06a844d0" md5="e2edfbe785d3188cdc6d04dde8b077a9" sha1="dc91a1318480b1d98872b940829b6c04f262dd6d" serial="NPEB-00528"/>
+		<rom name="Splinter.Cell.Pandora.Tomorrow.HD.PS3.PSN-DUPLEX.NPEB00528.Install.pkg" size="3129604368" crc="4e760743" md5="c914f70680de5cd321dcba46d445a9cc" sha1="b5d715fd8c6929c941b715487b7e99eadb73a056" serial="NPEB-00528"/>
+	</game>
+	<game name="Tony Hawk Pro Skater HD (USA) (PSN)" id="0137">
+		<description>Tony Hawk Pro Skater HD (USA) (PSN)</description>
+		<rom name="Tony.Hawk.Pro.Skater.HD.PSN.PS3-DUPLEX.NPUB30732.Crack.pkg" size="37989744" crc="09eef2e7" md5="a8441d33a6637ffa2a51d94e9f2ef56a" sha1="9cacc29682272a2f424ec7d2d6c6129fd5eb6d1a" serial="NPUB-30732"/>
+		<rom name="Tony.Hawk.Pro.Skater.HD.PSN.PS3-DUPLEX.NPUB30732.Install.pkg" size="413279856" crc="fa823f5b" md5="4ac3d4b01e7a14b5df46eda5ba7220c8" sha1="3cc0b11ef0899bd073f31eb3cc0ee15f1ce0f1c0" serial="NPUB-30732"/>
+	</game>
+	<game name="Tony Hawk Pro Skater HD - Revert Pack (World) (DLC)" id="0231">
+		<description>Tony Hawk Pro Skater HD - Revert Pack (World) (DLC)</description>
+		<rom name="Tony.Hawk.Pro.Skater.HD.Revert.Pack.DLC.PSN.PS3-DUPLEX.NPUB30732.Install.pkg" size="205290528" crc="939652b1" md5="39169e940a39b1156c9cdb5feba54edd" sha1="c4f77b799a42e3f6399b5787866034643163c4aa"/>
+	</game>
+	<game name="Toybox Turbos (Europe) (PSN)" id="0200">
+		<description>Toybox Turbos (Europe) (PSN)</description>
+		<rom name="duplex-toybox.turbos.psn.Crack.pkg" size="6080" crc="bae24793" md5="ebdc20a4dabaae217c8eb52dc21b8aef" sha1="f8b56c8375c7491da125cc1142211172cefa8747" serial="NPEB-02086"/>
+		<rom name="duplex-toybox.turbos.psn.Install.pkg" size="243263552" crc="142e32bb" md5="ab7636c546933d279892e7ea24cf0c53" sha1="73cc53f8e7dfdc7232626ca80e6e60a2f2fee688" serial="NPEB-02086"/>
+	</game>
+	<game name="Trash Box (China) (PSN)" id="0128">
+		<description>Trash Box (China) (PSN)</description>
+		<rom name="Trash.Box.PSN.PS3-DUPLEX.NPHA80058.Install.and.Crack.pkg" size="1425616080" crc="31bac96a" md5="fbf1ac6e738bf842876b4cfe972c19a5" sha1="d11c45fba44eb557742f35b2bdb91a30686d71a4" serial="NPHA-80058"/>
+	</game>
+	<game name="Treasures of Montezuma 4, The (USA) (PSN)" id="0216">
+		<description>Treasures of Montezuma 4, The (USA) (PSN)</description>
+		<rom name="duplex-the.treasures.of.montezuma.4.psn.pkg" size="456394960" crc="487f4b77" md5="172a4249b8f26b6d46b6f73982129474" sha1="176705bdcdc96b4cf70661fb4afb44f039e895c9" serial="NPUB-31497"/>
+		<rom name="duplex-the.treasures.of.montezuma.4.psn.crack.pkg" size="6080" crc="a1ca5e27" md5="63b06573d4623abef1ea92c19fb8cca2" sha1="52c76a9d5db97d9e5ced04186c703d1aad3d7615" serial="NPUB-31497"/>
+	</game>
+	<game name="Twisted Lands - Shadow Town (Europe) (PSN)" id="0201">
+		<description>Twisted Lands - Shadow Town (Europe) (PSN)</description>
+		<rom name="duplex-twisted.lands.shadow.town.Crack.pkg" size="6080" crc="f574fdde" md5="ae4541efb2fc9ff657372325d78dff94" sha1="b99164ed88baca4e5d5133f6fbfe6e74d50d0758" serial="NPEB-00570"/>
+		<rom name="duplex-twisted.lands.shadow.town.Install.pkg" size="499144304" crc="66c5c351" md5="d41e498dd87e8da1a550f956d792a4aa" sha1="7c87638bed07c000633e05651e35a2c808af17bb" serial="NPEB-00570"/>
+	</game>
+	<game name="Uno (USA) (PSN)" id="0110">
+		<description>Uno (USA) (PSN)</description>
+		<rom name="UNO.PSN.PS3-DUPLEX.NPUB30160.Crack.pkg" size="2551968" crc="bd5f8b65" md5="394a34cbd3084d2f7f06355548018476" sha1="77ce3b511b62c198e930045e001a0166b0e01e5f" serial="NPUB-30160"/>
+		<rom name="UNO.PSN.PS3-DUPLEX.NPUB30160.Decrypted.elf" size="8221088" crc="12d06e21" md5="07d66bd5af8e2a6f7137d0656c2c2406" sha1="a205947247e5f23e71b1a718a8c546bcf1a7ccee" serial="NPUB-30160"/>
+		<rom name="UNO.PSN.PS3-DUPLEX.NPUB30160.Install.pkg" size="270006768" crc="28da5309" md5="7793fa0065699e0bd22e5c3d3998cebe" sha1="9583a470a25b38bd67326374d3027704d5e586d5" serial="NPUB-30160"/>
+	</game>
+	<game name="Urban Trial Freestyle (Europe) (PSN)" id="0280">
+		<description>Urban Trial Freestyle (Europe) (PSN)</description>
+		<rom name="sa-utf.iso" size="763529057" crc="6a7f58fd" md5="3adb67b2c39bda68fdd04d8490f9dbe6" sha1="71cefdc05339f7459a63ea1e31dc7bbadb2c1537"/>
+		<rom name="NPEB01238\ICON0.PNG" size="21041" crc="c82c061e" md5="7a1a8c48480ea64143ce044c1d983942" sha1="1b1c2821d1b927ad8570a87c5bd2bfb20d52f343"/>
+		<rom name="NPEB01238\PARAM.SFO" size="1040" crc="795b3194" md5="0da096591f76e80393242be19f572fa3" sha1="e991574298ce4488b45d843157b897c2982cfaee"/>
+		<rom name="NPEB01238\PIC1.PNG" size="2692535" crc="d8a25ade" md5="b3181989c4a0fd284ae6514bcbf052fc" sha1="68d975811ce9bee6e6f2a83c24c6a7b9844ccfae"/>
+		<rom name="NPEB01238\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
+		<rom name="NPEB01238\SND0.AT3" size="2804424" crc="34d3865d" md5="0101a424c547b1fb732fa7ccebd8df88" sha1="424811253cedb0bde37c3dbf14594c2b71f6d871"/>
+		<rom name="NPEB01238\TROPDIR\NPWR04062_00\TROPHY.TRP" size="403184" crc="3b3a06ea" md5="0321ad88fe7894b022dca9d0b4e31089" sha1="2fd558bdc32312134c79f4698f0bed33fe706fea"/>
+	</game>
+	<game name="Virtua Fighter 2 (USA) (PSN)" id="0135">
+		<description>Virtua Fighter 2 (USA) (PSN)</description>
+		<rom name="Virtua.Fighter.2.PSN.PS3-DUPLEX.NPUB30928.Crack.pkg" size="5806640" crc="544618d2" md5="4193c4d594f51d86f62c0e1cb7fe7d58" sha1="a35889c4e6c6c37c1bb48eef5fa4d0e7a1234d78" serial="NPUB-30928"/>
+		<rom name="Virtua.Fighter.2.PSN.PS3-DUPLEX.NPUB30928.Install.pkg" size="56780256" crc="14183814" md5="50216a375b12088d0195217d2072ea85" sha1="238a339ee341515e0f386cd6f7ad65697e5fe216" serial="NPUB-30928"/>
+	</game>
+	<game name="Walking Dead, The - Episode 1-5 (USA) (PSN)" id="0131">
+		<description>Walking Dead, The - Episode 1-5 (USA) (PSN)</description>
+		<rom name="duplex-the.walking.dead.ep1-5.psn.pkg" size="3489532096" crc="fb01c121" md5="6cff821cccd74211766b85ba804ccf89" sha1="b15a279fd470b7032b70e0432ca8bd1b3822998c" serial="NPUB-30741"/>
+	</game>
+	<game name="Walking Dead, The - Season Two - Episode 1 (Europe) (PSN)" id="0178">
+		<description>Walking Dead, The - Season Two - Episode 1 (Europe) (PSN)</description>
+		<rom name="duplex-the-walking.dead.season2.ep1.crack.pkg" size="15571504" crc="856dd5e5" md5="835adcdb9cdaa9cf41dbb228c670ec29" sha1="2563c608dc2ab0e37f53cb9e589cd7380e878bdc" serial="NPEB-01911"/>
+		<rom name="duplex-the-walking.dead.season2.ep1.pkg" size="773026944" crc="5bb7f5e6" md5="f6623c511f5618282cf2ac4b20a9b587" sha1="8a6d1c7ac258abb682f41d82ec280bb26a0c2a92" serial="NPEB-01911"/>
+	</game>
+	<game name="Warhammer 40.000 - Kill Team (USA) (PSN)" id="0111">
+		<description>Warhammer 40.000 - Kill Team (USA) (PSN)</description>
+		<rom name="Warhammer.40000.Kill.Team.PSN.PS3-DUPLEX.NPUB30473.Crack.pkg" size="10755248" crc="5b3eb27b" md5="1d7c2875d790a6d22f59d7ab8e8c3bad" sha1="85ad04cd1b938fbd321e7510d3aa14553d41536d" serial="NPUB-30473"/>
+		<rom name="Warhammer.40000.Kill.Team.PSN.PS3-DUPLEX.NPUB30473.Install.pkg" size="824767664" crc="cf200d70" md5="92db5ff8df40b107b67b22aad1f942df" sha1="42dac5d0fda0b67a6292034baf4f7567f34eef66" serial="NPUB-30473"/>
+	</game>
+	<game name="Watch Dogs - DLC Unlocker (World) (DLC)" id="0260">
+		<description>Watch Dogs - DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-watch.dogs.dlc.unlocker.pkg" size="27324928" crc="d64c48ca" md5="7325fdf842588dd1c5a295034d96a1a3" sha1="f3ba0cc7db121ac6adc60900080426a57b845a8e"/>
+	</game>
+	<game name="Watchmen - The End is Nigh - Part I (USA) (PSN)" id="0112">
+		<description>Watchmen - The End is Nigh - Part I (USA) (PSN)</description>
+		<rom name="Watchmen.The.End.is.Nigh.Part.1.PSN.PS3-DUPLEX.NPUB30050.Crack.pkg" size="12548912" crc="4255ec14" md5="0aa2faa83c9c307e47d00633e4393a33" sha1="124c25614ffd7806e48515bf3a5b33c5065ff97a" serial="NPUB-30050"/>
+		<rom name="Watchmen.The.End.is.Nigh.Part.1.PSN.PS3-DUPLEX.NPUB30050.Decrypted.elf" size="24351616" crc="a3ce781c" md5="242270fa6a89c04e8c08d06c1de5079e" sha1="499bc2e4537127b8996bacc32b328e1153b78cb1" serial="NPUB-30050"/>
+		<rom name="Watchmen.The.End.is.Nigh.Part.1.PSN.PS3-DUPLEX.NPUB30050.Install.pkg" size="1323567232" crc="d99a94c0" md5="b468bca677d701936f4795deb767a5ba" sha1="c20bc737ba0f967b37efecf437aa2a2055bf661c" serial="NPUB-30050"/>
+	</game>
+	<game name="Watchmen - The End is Nigh - Part II (USA) (PSN)" id="0113">
+		<description>Watchmen - The End is Nigh - Part II (USA) (PSN)</description>
+		<rom name="Watchmen.The.End.is.Nigh.Part.2.PSN.PS3-DUPLEX.NPUB30071.Crack.pkg" size="13792928" crc="dbbd7362" md5="d068c3cc1f68b81b5dfd3ded7213b453" sha1="a8d2709eb6c151c911fe330bd911954017e23a69" serial="NPUB-30071"/>
+		<rom name="Watchmen.The.End.is.Nigh.Part.2.PSN.PS3-DUPLEX.NPUB30071.Decrypted.elf" size="26017040" crc="c4dc381a" md5="7671944091c460659301b07b9e55ccf9" sha1="cf45b54c4f8b2ca6e47c2872aeae3c1e49e457d6" serial="NPUB-30071"/>
+		<rom name="Watchmen.The.End.is.Nigh.Part.2.PSN.PS3-DUPLEX.NPUB30071.Install.pkg" size="845216240" crc="b6d11d3b" md5="7e3c8148eda0a49b165c83fc1a8e150e" sha1="22812da8be2330855b445d5928f3a1cbd1c786ec" serial="NPUB-30071"/>
+	</game>
+	<game name="When Vikings Attack (Europe) (PSN)" id="0138">
+		<description>When Vikings Attack (Europe) (PSN)</description>
+		<rom name="EP9000-NPEA00372_00-VIKINGSATTACKKEY.edat" size="352" crc="a57f5e87" md5="44df728aaef9c6903d42f928b8da9e76" sha1="5556fe939c737674a92da591c2e87c69cbe4b07d" serial="NPEA-00372"/>
+		<rom name="When.Vikings.Attack.PSN.PS3-DUPLEX.NPEA00372.Install.pkg" size="705449456" crc="ca8526c4" md5="128f881f1e30d01536d5fa3f0e93f3b3" sha1="cc9037bba92c5150e2fd96140afe27bd527e38b3" serial="NPEA-00372"/>
+		<rom name="NPEA00372.Crack\PARAM.SFO" size="3000" crc="b73346da" md5="84e9c0a9d6aaf36ef66c61035b5504c4" sha1="ccbb1ffc67e4b66094ee8065a5b6441fbab9d849" serial="NPEA-00372"/>
+		<rom name="NPEA00372.Crack\C00\PARAM.SFO" size="1320" crc="c2498c13" md5="16d6e0f3b1befe96b79467523c5975dc" sha1="da9eb2625715b30d3d7e523fcd1b0d3b4bcb53b7" serial="NPEA-00372"/>
+		<rom name="NPEA00372.Crack\TROPDIR\NPWR03789_00\TROPHY.TRP" size="581760" crc="97c19850" md5="dd6d7fc67e74711ecfff52eacf3b47d7" sha1="bb38f07bbca2c5f1843d2a46636de2a0450dfb90" serial="NPEA-00372"/>
+		<rom name="NPEA00372.Crack\USRDIR\EBOOT.BIN" size="4152752" crc="aa5ed194" md5="0266cb36477c345bb741f8c40287379e" sha1="96e5d74351f39c26a5c939d29125898d86fc8ddc" serial="NPEA-00372"/>
+	</game>
+	<game name="Wizardry - Labyrinth of Lost Souls (USA) (PSN)" id="0114">
+		<description>Wizardry - Labyrinth of Lost Souls (USA) (PSN)</description>
+		<rom name="Wizardry.Labyrinth.of.Lost.Souls.PSN.PS3-DUPLEX.NPUB30452.Crack.pkg" size="6832304" crc="4cfc4505" md5="efaeac345a4f3a2d68a92408e15a6363" sha1="fe65f34876b904b307b6f41501d120531b9f4b58" serial="NPUB-30452"/>
+		<rom name="Wizardry.Labyrinth.of.Lost.Souls.PSN.PS3-DUPLEX.NPUB30452.Install.pkg" size="498196000" crc="37e09025" md5="0e7514e8dd57a760df38b215f6784d87" sha1="995e6da34bd7550ec82db270817bc8a9b9b9d1b9" serial="NPUB-30452"/>
+	</game>
+	<game name="Wolf Among Us, The - Episode 1 (Europe) (PSN)" id="0176">
+		<description>Wolf Among Us, The - Episode 1 (Europe) (PSN)</description>
+		<rom name="duplex-the.wolf.among.us.ep1.pkg" size="754457264" crc="6d957c4b" md5="113cb0b7b6a6812bd3bdbbe97a408f86" sha1="5652daf6b13e45469a9ec394c92888f38fe04ed0" serial="NPEB-01881"/>
+		<rom name="duplex-the.wolf.among.us.ep1.crack.pkg" size="2155648" crc="4f87502f" md5="cee3cc699d8dd9e673694de803a1d2c5" sha1="a9acc8669ce4f346cb86f414d671278db16ce798" serial="NPEB-01881"/>
+	</game>
+	<game name="Worms 2 - Armageddon (USA) (PSN)" id="0115">
+		<description>Worms 2 - Armageddon (USA) (PSN)</description>
+		<rom name="Worms.2.Armageddon.PSN.PS3-DUPLEX.NPUB30230.Crack.pkg" size="4583792" crc="6a290de1" md5="a3034f045d8d85014cc62e13becd6d7a" sha1="e8111efc6a9bc000908febd7902bf6f4a7f0da10" serial="NPUB-30230"/>
+		<rom name="Worms.2.Armageddon.PSN.PS3-DUPLEX.NPUB30230.Decrypted.elf" size="8591848" crc="9f927d85" md5="cab57e5356e08fdc57fdae70db47bfda" sha1="d43fb33b8b97e13499883b2ff7125a2a996a2d22" serial="NPUB-30230"/>
+		<rom name="Worms.2.Armageddon.PSN.PS3-DUPLEX.NPUB30230.Install.pkg" size="283127344" crc="978018db" md5="bb0ea974de3e195d2dfc2d813b1b8a25" sha1="dd8f39a13950a04c22c7d115e52d2173f6130698" serial="NPUB-30230"/>
+		<rom name="Worms.2.Armageddon.PSN.PS3-DUPLEX.NPUB30230.Patch.v1.01.pkg" size="427279856" crc="ea539f90" md5="0ce55ba8966c2ad2ca35a3d912600c8c" sha1="acaecb137f6cb43d21d71913231c2f0e8865ca11" serial="NPUB-30230"/>
+	</game>
+	<game name="WRC Powerslide (Europe) (PSN)" id="0145">
+		<description>WRC Powerslide (Europe) (PSN)</description>
+		<rom name="rapture-wrc.powerslide-install.pkg" size="1961307536" crc="bf7c3562" md5="6e6dbad90d841eda125fb510bb6a737d" sha1="cb0f1f6a1ccac90c8621ad7ee4f89c5123102a26" serial="NPEB-01324	"/>
+		<rom name="EP4356-NPEB01324_00-WRCARCADEKEY0000.edat" size="352" crc="00e84bbe" md5="748b155b43263974fe7d7f53d8686ad0" sha1="0ce2a11f4565cc7192e8c0f1a6c03549c4a9857b" serial="NPEB-01324"/>
+	</game>
+	<game name="WWE 13 - All DLC Unlocker (World) (DLC)" id="0230">
+		<description>WWE 13 - All DLC Unlocker (World) (DLC)</description>
+		<rom name="duplex-wwe13.all.dlc.unlocker.pkg" size="3909488" crc="65250cf3" md5="1d2e232f5797f35c40a093d8c35c54bf" sha1="ee29766c1d69a41762ebfc0c2b9d69a1804db62a"/>
+	</game>
+	<game name="X-Men Arcade (USA) (PSN)" id="0116">
+		<description>X-Men Arcade (USA) (PSN)</description>
+		<rom name="Xmen.Arcade.NPUB30320.Crack.pkg" size="1591120" crc="f5083626" md5="16c118e416a4d4d35c72a4eec53e2e45" sha1="10acdb8fab9939c05281c89d92801859f72e492e" serial="NPUB-30320"/>
+		<rom name="Xmen.Arcade.NPUB30320.Install.pkg" size="49873872" crc="602ce698" md5="5b9f17db67681787cedce82540bcf2f9" sha1="09420e13562c04fb3bf47d248fcd55971fb3cb5d" serial="NPUB-30320"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Millennium Duels (Europe) (PSN)" id="0189">
+		<description>Yu-Gi-Oh! - Millennium Duels (Europe) (PSN)</description>
+		<rom name="duplex-yugioh.millennium.duels.psn.Install.pkg" size="523749504" crc="08b61224" md5="401c1964e2b79b6eddab18e3ffaac935" sha1="aa7e7a9c865607a87e8235f5d9be10c17d30df6a" serial="NPEB-02010"/>
+		<rom name="duplex-yugioh.millennium.duels.psn.Crack.pkg" size="6080" crc="a5a76829" md5="60ad45bf9196b7996554b75227aae2a8" sha1="00cfae673cebdcf79a9d6cbc305dcabe8b6db35f" serial="NPEB-02010"/>
+	</game>
+	<game name="Zen Pinball 2 (USA) (PSN)" id="0136">
+		<description>Zen Pinball 2 (USA) (PSN)</description>
+		<rom name="Zen.Pinball.2.PSN.PS3-DUPLEX.NPUB30573.Install.pkg" size="1677895584" crc="1fcf26ff" md5="a00dbc47c8e3698290478eb4316a267a" sha1="a5ac7af9e00cc94f0d8e870bd7ca406a33a8d23b" serial="NPUB-30573"/>
+	</game>
+	<game name="Zen Pinball 2 - Civil War (World) (DLC)" id="0225">
+		<description>Zen Pinball 2 - Civil War (World) (DLC)</description>
+		<rom name="duplex-zenpinball2_civilwar_dlc.pkg" size="58387920" crc="c59c81e6" md5="872f64bf94288d07afef7bb5534412f4" sha1="fc2d5500316bdb766b0611a6ad92bcd9c2359ea1"/>
+	</game>
+	<game name="Zen Pinball 2 - Star Wars (World) (DLC)" id="0237">
+		<description>Zen Pinball 2 - Star Wars (World) (DLC)</description>
+		<rom name="duplex-StarWarsZenPinball.pkg" size="190331696" crc="fb48520e" md5="ec00e45547ef1d643cd9c3006768180c" sha1="bdf3532d165a355232d356dd77f5c045884c4370"/>
+	</game>
+	<game name="Zombie Apocalypse (USA) (PSN)" id="0118">
+		<description>Zombie Apocalypse (USA) (PSN)</description>
+		<rom name="Zombie.Apocalypse.PSN.PS3-DUPLEX.NPUB30069.Crack.pkg" size="6915808" crc="7a2672fd" md5="fb84910a2b027990aac03b17b1364c54" sha1="be567e024de098a1544255417b2997abf7fa8b8a" serial="NPUB-30069"/>
+		<rom name="Zombie.Apocalypse.PSN.PS3-DUPLEX.NPUB30069.Decrypted.elf" size="11788936" crc="9bb2201e" md5="663bdd0385cfa7c25dcbfca53c4ad905" sha1="5c25c9a7dc93c34ebe162ee56e969fe70455ab1b" serial="NPUB-30069"/>
+		<rom name="Zombie.Apocalypse.PSN.PS3-DUPLEX.NPUB30069.Install.pkg" size="776033312" crc="bcd70d9f" md5="b14cda182725c343f42ec48ec504be28" sha1="aebd1d7455f606b0ddfcf7b6f4fdea64c600f34c" serial="NPUB-30069"/>
+		<rom name="Zombie.Apocalypse.PSN.PS3-DUPLEX.NPUB30069.Patch.v1.01.pkg" size="22665232" crc="eaca3234" md5="a0ffccce2e381cd746521a200c6e1f9f" sha1="51364f0b4ad890d50f2194a34a28284d6707a9f4" serial="NPUB-30069"/>
+	</game>
+	<game name="Zombie Apocalypse - Never Die Alone (USA) (PSN)" id="0117">
+		<description>Zombie Apocalypse - Never Die Alone (USA) (PSN)</description>
+		<rom name="Zombie.Apocalypse.Never.Die.Alone.NPUB30506.Crack.pkg" size="7883808" crc="0fad9b91" md5="0c48294ef1721c440eecb1d68d3af8db" sha1="d4d01e88f5c611dd641b1a4ccaa4185d5753048b" serial="NPUB-30506"/>
+		<rom name="Zombie.Apocalypse.Never.Die.Alone.NPUB30506.Install.pkg" size="1275555168" crc="c76455ad" md5="b11cc9e7bbd874b0f32ea816b0455c01" sha1="8be17d6cab462d9a9ca215a5dbf6861f9196b9a2" serial="NPUB-30506"/>
+	</game>
+	<game name="Zombie Tycoon II (USA) (PSN)" id="0150">
+		<description>Zombie Tycoon II (USA) (PSN)</description>
+		<rom name="game.pkg" size="1009995888" crc="681baf80" md5="ac6328681f80f3772d7e6d073ca53e9b" sha1="f557f8f86fa09efa29146996d835ced71906e505" serial="NPUB-30859"/>
+		<rom name="zombie2crk.pkg" size="12482416" crc="3a659e6f" md5="1fdba77cafc23c9a1e9f5efa48a7f1ba" sha1="6dc90f55e9da159e1493ebab8a99b13d323c7c2c" serial="NPUB-30859"/>
+	</game>
+	<game name="Zuma (USA) (PSN)" id="0119">
+		<description>Zuma (USA) (PSN)</description>
+		<rom name="Zuma.PSN.PS3-DUPLEX.NPUA30003.Crack.pkg" size="19998384" crc="97b06fb2" md5="0eca392f4ca56470f5766171d7a1a568" sha1="1afe4419b0124b71d1cf11a1bf19030d2eb29189" serial="NPUA-30003"/>
+		<rom name="Zuma.PSN.PS3-DUPLEX.NPUA30003.Install.pkg" size="19848432" crc="edd51e72" md5="2cb2f9b73e1c95b6cde25067ee197ef9" sha1="192ca70ef19590c7ddee12849f7c2ed2f130d9c4" serial="NPUA-30003"/>
+	</game>
+</datafile>

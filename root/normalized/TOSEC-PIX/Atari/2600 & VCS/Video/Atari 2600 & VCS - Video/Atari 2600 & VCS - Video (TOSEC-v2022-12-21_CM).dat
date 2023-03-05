@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 2600 &amp; VCS - Video</name>
+		<description>Atari 2600 &amp; VCS - Video (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Game Over (2014)(Microsoft)">
+		<description>Atari Game Over (2014)(Microsoft)</description>
+		<rom name="Atari Game Over (2014)(Microsoft).mkv" size="1259901821" crc="9f48ae35" md5="bfd8dcf8ba77db73f0ceff1ca46955fa" sha1="4e997472d6fc268fad5c7f2a88867a06203f210d"/>
+	</game>
+</datafile>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Demos</name>
+		<description>EACA EG2000 Colour Genie - Demos (TOSEC-v2021-02-12)</description>
+		<category>TOSEC</category>
+		<version>2021-02-12</version>
+		<author>|cy[ool - Grendel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Character Set, The (19xx)(-)">
+		<description>Character Set, The (19xx)(-)</description>
+		<rom name="Character Set, The (19xx)(-).cas" size="305" crc="80207b26" md5="96f1df6b5996c01a8a85e5256aacf795" sha1="d6251291d1d8980134f13485bb2f4028b53df843"/>
+	</game>
+	<game name="Colour Genie Demonstration 2 (19xx)(-)">
+		<description>Colour Genie Demonstration 2 (19xx)(-)</description>
+		<rom name="Colour Genie Demonstration 2 (19xx)(-).cas" size="8932" crc="57acc541" md5="7fb6cb8237f74f9bb62932cc66d93053" sha1="9db7c8873f5b1404546cc23305075122b65aee74"/>
+	</game>
+	<game name="Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)">
+		<description>Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)</description>
+		<rom name="Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE).cas" size="9002" crc="791aedf8" md5="bd6a63d2f7909f2456e760a51c7fb808" sha1="e1f5af14184416b90552b12f8aa3fc8738267829"/>
+	</game>
+	<game name="Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)[a2 header]">
+		<description>Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)[a2 header]</description>
+		<rom name="Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)[a2 header].cas" size="9038" crc="40f5d193" md5="451c27500b04d41d9999a31272ea96f2" sha1="2c060677dc1c3f529c6064de6cae4ca7355bf0c7"/>
+	</game>
+	<game name="Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)[a]">
+		<description>Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)[a]</description>
+		<rom name="Colour Genie Demonstration Kassette (198x)(Schmidt, Carsten)(DE)[a].cas" size="9002" crc="c70117ee" md5="ed288e16ecb002b10c7c50249a3fc910" sha1="29e6874686eb090a3ab3e01787d77e646e2806be"/>
+	</game>
+	<game name="Colours (19xx)(-)">
+		<description>Colours (19xx)(-)</description>
+		<rom name="Colours (19xx)(-).cas" size="337" crc="15d5a05e" md5="cfe0e48d39cb3c66a23b2eb00f2c7b06" sha1="74c2df90f18a132921e6c6bde24a2ea8198a898b"/>
+	</game>
+	<game name="Flohwalzer, Der (198x)(-)(DE)">
+		<description>Flohwalzer, Der (198x)(-)(DE)</description>
+		<rom name="Flohwalzer, Der (198x)(-)(DE).cas" size="1054" crc="8ffb4eea" md5="88c1ee9d3875def48ead01822b7a08ad" sha1="7b0b525204848e30b2129a5fe985841c0cfb8970"/>
+	</game>
+	<game name="Flohwalzer, Der (198x)(-)(DE)[a header]">
+		<description>Flohwalzer, Der (198x)(-)(DE)[a header]</description>
+		<rom name="Flohwalzer, Der (198x)(-)(DE)[a header].cas" size="678" crc="15255e0e" md5="9d79574fb659f8be3d4b01dbe75a7faa" sha1="2f489c1acc88c8f2fd1340fb01c4795548918792"/>
+	</game>
+	<game name="Invader Demo 1 (1983)(Gumboot Software)(GB)[NCGUG Member Tape]">
+		<description>Invader Demo 1 (1983)(Gumboot Software)(GB)[NCGUG Member Tape]</description>
+		<rom name="Invader Demo 1 (1983)(Gumboot Software)(GB)[NCGUG Member Tape].cas" size="1098" crc="19cb9e54" md5="18bdc6aae071f3f81ff0a8289b38e794" sha1="3ae52a539a1298263f003e245cde146d898d6b85"/>
+	</game>
+	<game name="Invader Demo 2 (1983)(Gumboot Software)(GB)[NCGUG Member Tape]">
+		<description>Invader Demo 2 (1983)(Gumboot Software)(GB)[NCGUG Member Tape]</description>
+		<rom name="Invader Demo 2 (1983)(Gumboot Software)(GB)[NCGUG Member Tape].cas" size="789" crc="3f6aeecd" md5="e0735c7876730708c400f545d24f35d5" sha1="76cc489ffcf64c84da4c536a2312691bb9dda6aa"/>
+	</game>
+	<game name="Line Drawing (19xx)(-)">
+		<description>Line Drawing (19xx)(-)</description>
+		<rom name="Line Drawing (19xx)(-).cas" size="198" crc="79386ba8" md5="8a43ee989443baacdbe9cf6af20604c9" sha1="9d73180e81180fde198ce4923c463203abc56382"/>
+	</game>
+	<game name="Magic Carpet Demo (1983)(Gumboot Software)(GB)[NCGUG Member Tape]">
+		<description>Magic Carpet Demo (1983)(Gumboot Software)(GB)[NCGUG Member Tape]</description>
+		<rom name="Magic Carpet Demo (1983)(Gumboot Software)(GB)[NCGUG Member Tape].cas" size="540" crc="ee4ce9ab" md5="7b26a4d0fefba17abd9e61b66e0f7b66" sha1="91298ce70f468b36acade91b1461284f83fc58a8"/>
+	</game>
+	<game name="Musik (1983)(TCS)(DE)">
+		<description>Musik (1983)(TCS)(DE)</description>
+		<rom name="Musik (1983)(TCS)(DE).cas" size="15639" crc="ac9a24d8" md5="075e1595daa62c03b580b2f54cfb05ed" sha1="7d035d6f2b523e87462f41812352634bfee9397e"/>
+	</game>
+	<game name="Musik (1983)(TCS)(DE)[a header]">
+		<description>Musik (1983)(TCS)(DE)[a header]</description>
+		<rom name="Musik (1983)(TCS)(DE)[a header].cas" size="15675" crc="d3cf8484" md5="995bd95c3f06fec5a58bcc5dd629cabb" sha1="16b05a3801e20992b984c2640f284027bb5adf89"/>
+	</game>
+	<game name="Peng (1983)(TCS)(DE)[Colour Genie manual]">
+		<description>Peng (1983)(TCS)(DE)[Colour Genie manual]</description>
+		<rom name="Peng (1983)(TCS)(DE)[Colour Genie manual].cas" size="189" crc="fa181451" md5="c3f05c3cb082c45d7618435e71f9c526" sha1="8b99f5a78b36e18941a2db3924082bb75a35728c"/>
+	</game>
+	<game name="PSG Demo (19xx)(-)">
+		<description>PSG Demo (19xx)(-)</description>
+		<rom name="PSG Demo (19xx)(-).cas" size="773" crc="8bffb222" md5="5621bea0ec113fbb77a6c7a67222ac47" sha1="4d91fa6163641f02fbbfb0b7188ccb5363bfad47"/>
+	</game>
+	<game name="Top of the World (19xx)(-)">
+		<description>Top of the World (19xx)(-)</description>
+		<rom name="Top of the World (19xx)(-).cas" size="7890" crc="58ee3ef8" md5="b01cb62b1bf4e19fee6773f7367bc73e" sha1="41312cfe79b49f8551640c1f327917ea62dfdedd"/>
+	</game>
+	<game name="Welcome Tape for COLOUR EMU 3.0 (19xx)(Scholz, Stephan - Lehner, Burkhard)">
+		<description>Welcome Tape for COLOUR EMU 3.0 (19xx)(Scholz, Stephan - Lehner, Burkhard)</description>
+		<rom name="Welcome Tape for COLOUR EMU 3.0 (19xx)(Scholz, Stephan - Lehner, Burkhard).cas" size="1084" crc="97aca0cc" md5="1230329235b749f7d718574fc0579c5a" sha1="789472c4227e4f2a10b53fce032e6b43fc27c9bf"/>
+	</game>
+</datafile>

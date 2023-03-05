@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision - Commercials - Hardware</name>
+		<description>Coleco ColecoVision - Commercials - Hardware (TOSEC-v2019-05-06)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-05-06</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Colecovision (1982)(Coleco)(US)">
+		<description>Colecovision (1982)(Coleco)(US)</description>
+		<rom name="Colecovision (1982)(Coleco)(US).mp4" size="2559222" crc="d20038db" md5="28ff26e595831cbc426e1adb7ecc9b4b" sha1="ca1c8e2aa0a83452860215d3617838bc929879e5"/>
+	</game>
+	<game name="Colecovision - Expansion Module 1 (1983)(Coleco)(US)">
+		<description>Colecovision - Expansion Module 1 (1983)(Coleco)(US)</description>
+		<rom name="Colecovision - Expansion Module 1 (1983)(Coleco)(US).mp4" size="1797689" crc="8dac9ba1" md5="8a285ec3369ec75099dc3fca3d43c13f" sha1="55f70399281c0c456e42d07b539157cdc50275c9"/>
+	</game>
+</datafile>

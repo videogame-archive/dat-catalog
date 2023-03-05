@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Games - [SDA]</name>
+		<description>Commodore C128 - Games - [SDA] (TOSEC-v2021-08-10)</description>
+		<category>TOSEC</category>
+		<version>2021-08-10</version>
+		<author>Duncan Twain - Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Chess-128 (19xx)(Gainesville Commodore Users Group)">
+		<description>Chess-128 (19xx)(Gainesville Commodore Users Group)</description>
+		<rom name="Chess-128 (19xx)(Gainesville Commodore Users Group).sda" size="27008" crc="77c1721f" md5="80b7899083ca31ae32570a5e193fe1b1" sha1="27e86fd4272e63ef4a7f193c96232218993705d2"/>
+	</game>
+	<game name="Klondike Jones (199x)(Jones, Maurice &amp; Tucker, Maurice)[80 column][autoboot]">
+		<description>Klondike Jones (199x)(Jones, Maurice &amp; Tucker, Maurice)[80 column][autoboot]</description>
+		<rom name="Klondike Jones (199x)(Jones, Maurice &amp; Tucker, Maurice)[80 column][autoboot].sda" size="39936" crc="1483ca93" md5="3130b55617195f20343ea67903d7ee15" sha1="b0bc09a9b5827d3b36bdcee3c69bf0d5b9e1998d"/>
+	</game>
+	<game name="Klondike Jones (199x)(Maurice Jones &amp; Fender Tucker)[80 column]">
+		<description>Klondike Jones (199x)(Maurice Jones &amp; Fender Tucker)[80 column]</description>
+		<rom name="Klondike Jones (199x)(Maurice Jones &amp; Fender Tucker)[80 column].sda" size="39878" crc="d266fdf1" md5="86c96edd846080076f908761d30bde99" sha1="c3db43fdbc2b8f162bbc940bd7a5106a4e0abbc1"/>
+	</game>
+	<game name="Mah-Jong (19xx)(-)">
+		<description>Mah-Jong (19xx)(-)</description>
+		<rom name="Mah-Jong (19xx)(-).sda" size="18542" crc="22b335d4" md5="d22f79402723c5c730e6b8fcfae8de51" sha1="3fdd01906e4f8bbbed039a8d12153aba7e99965c"/>
+	</game>
+	<game name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)">
+		<description>Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)</description>
+		<rom name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt).sda" size="18560" crc="4b3d0b5d" md5="92e9d902d01364ed92e135ab71d7010b" sha1="7590c423a7e3459361c508b923bd6f00868d6b3b"/>
+	</game>
+	<game name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[a]">
+		<description>Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[a]</description>
+		<rom name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[a].sda" size="18568" crc="fb53c2ee" md5="bb7c37809e05883a379d110be702218a" sha1="daf265baa05a2b317033ed1ef0f3ff18ed167ef0"/>
+	</game>
+	<game name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[autoboot]">
+		<description>Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[autoboot]</description>
+		<rom name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[autoboot].sda" size="18561" crc="c793ffcf" md5="da27f1882ffc067c17cb4647fdb84de4" sha1="a96822c418b4ff1c081700cc79d9707bc0fb07f5"/>
+	</game>
+	<game name="Millifoot 80 (1988)(Snyder, L.K.)">
+		<description>Millifoot 80 (1988)(Snyder, L.K.)</description>
+		<rom name="Millifoot 80 (1988)(Snyder, L.K.).sda" size="19584" crc="482b0faf" md5="bf975eddab02cb8650cf30770daf23a8" sha1="dd60b77981ff2acc2242b0ac61c2ca444e51eb44"/>
+	</game>
+	<game name="Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column]">
+		<description>Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column]</description>
+		<rom name="Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column].sda" size="9398" crc="08cb78f1" md5="2360313253c98e4e225cead9c14e14b5" sha1="8bde14f476d0665f434d45d6ef47b054efd8e157"/>
+	</game>
+	<game name="Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column][autoboot]">
+		<description>Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column][autoboot]</description>
+		<rom name="Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column][autoboot].sda" size="10241" crc="328a2df2" md5="b2924efe4c0cd311e15b6e10f3cf24fa" sha1="574d2cff6913541904e54fcab0fbd2dacc326c44"/>
+	</game>
+	<game name="Tetris80 (1991)(Echo Magnetic Media)(PD)[a][80 column]">
+		<description>Tetris80 (1991)(Echo Magnetic Media)(PD)[a][80 column]</description>
+		<rom name="Tetris80 (1991)(Echo Magnetic Media)(PD)[a][80 column].sda" size="10240" crc="5d2b610a" md5="d33bee037b94807a3bbdf8984ec3bd4d" sha1="e77a4a5791a8c9f6a56ec13ff316d67b4adf3ab1"/>
+	</game>
+	<game name="Tetris80 (1991)(Echo Magnetic Media)(PD)[a2][80 column]">
+		<description>Tetris80 (1991)(Echo Magnetic Media)(PD)[a2][80 column]</description>
+		<rom name="Tetris80 (1991)(Echo Magnetic Media)(PD)[a2][80 column].sda" size="9472" crc="44959b43" md5="279669874ba3462bfe2241bdf1184150" sha1="c7b3c9a31e5dd515ca9e000dc1028cc7322a5044"/>
+	</game>
+</datafile>

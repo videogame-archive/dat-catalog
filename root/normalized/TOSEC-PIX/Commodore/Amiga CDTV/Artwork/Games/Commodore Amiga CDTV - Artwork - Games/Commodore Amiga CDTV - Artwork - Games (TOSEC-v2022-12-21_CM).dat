@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Artwork - Games</name>
+		<description>Commodore Amiga CDTV - Artwork - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Lemmings (1994)(Psygnosis)[case]">
+		<description>Lemmings (1994)(Psygnosis)[case]</description>
+		<rom name="Lemmings (1994)(Psygnosis)[case].pdf" size="1515939" crc="7af93db9" md5="d88a69ab3cb35b0a866787c2e65851e6" sha1="83e8cf140cf0c02ead9b436243f4d0c0b3c27f95"/>
+	</game>
+	<game name="Wrath of the Demon (1990)(ReadySoft)[case]">
+		<description>Wrath of the Demon (1990)(ReadySoft)[case]</description>
+		<rom name="Wrath of the Demon (1990)(ReadySoft)[case].pdf" size="1235731" crc="eea16b3e" md5="65a8acb7fc0e5811c310e1390ee95001" sha1="bbf5107780e36a81d3f09fc13b09e730fa700843"/>
+	</game>
+</datafile>

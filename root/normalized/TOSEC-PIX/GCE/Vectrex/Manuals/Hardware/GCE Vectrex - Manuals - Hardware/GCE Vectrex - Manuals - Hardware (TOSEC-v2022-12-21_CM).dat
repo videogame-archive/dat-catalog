@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE Vectrex - Manuals - Hardware</name>
+		<description>GCE Vectrex - Manuals - Hardware (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3D Imager (1983)(GCE)">
+		<description>3D Imager (1983)(GCE)</description>
+		<rom name="3D Imager (1983)(GCE).pdf" size="922932" crc="ddcc4fd6" md5="b07cc0c2483aff140aa7b087138b4c85" sha1="a0c4a4cefbde86de6e1915e48387e082a7a9de05"/>
+	</game>
+	<game name="Light Pen (1982)(GCE)">
+		<description>Light Pen (1982)(GCE)</description>
+		<rom name="Light Pen (1982)(GCE).pdf" size="597929" crc="5b36a001" md5="ae891ec78180aa9f795251b5817411a3" sha1="b566b0cb9753e6e2a2ce9aa097cf7596a0e5ccaf"/>
+	</game>
+	<game name="Light Pen (1983)(GCE)">
+		<description>Light Pen (1983)(GCE)</description>
+		<rom name="Light Pen (1983)(GCE).pdf" size="597987" crc="96307186" md5="420694120fe9e6c1b60eb46486abb178" sha1="d8339429ecfae0b34ef54564d76d72aea2771dcc"/>
+	</game>
+	<game name="Vectrex (1983)(GCE)(FR)">
+		<description>Vectrex (1983)(GCE)(FR)</description>
+		<rom name="Vectrex (1983)(GCE)(FR).pdf" size="2642026" crc="ddfcc31b" md5="866489bd99a7a2f50277e7dec990b311" sha1="1cefa24528a02152b1b19b8d709937f57aabb3e4"/>
+	</game>
+	<game name="Vectrex 3D Imager (1983)(GCE)">
+		<description>Vectrex 3D Imager (1983)(GCE)</description>
+		<rom name="Vectrex 3D Imager (1983)(GCE).pdf" size="93321" crc="388da720" md5="561f0ee240a825b9ff02e0d763769d1d" sha1="d3e7dbe4120edd15eb2d875a6786bfb504fdeb18"/>
+	</game>
+	<game name="Vectrex Arcade System Display (1983)(GCE)">
+		<description>Vectrex Arcade System Display (1983)(GCE)</description>
+		<rom name="Vectrex Arcade System Display (1983)(GCE).pdf" size="983310" crc="43af416a" md5="ac8a8665743b4f6b1cd4c26b9e039f03" sha1="9f45a25ab0a2c90334481ec768291f6d8252b842"/>
+	</game>
+	<game name="Vectrex Owner's Manual (1982)(GCE)">
+		<description>Vectrex Owner's Manual (1982)(GCE)</description>
+		<rom name="Vectrex Owner's Manual (1982)(GCE).pdf" size="891044" crc="ceb08454" md5="00675c4d525eb06a82378c5365d74f16" sha1="13c896d92cf581c670a9f3949b4dfb5dae0e085a"/>
+	</game>
+</datafile>

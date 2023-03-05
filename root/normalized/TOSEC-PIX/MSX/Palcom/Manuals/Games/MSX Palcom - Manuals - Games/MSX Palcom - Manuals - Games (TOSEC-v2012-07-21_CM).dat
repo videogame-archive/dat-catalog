@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX Palcom - Manuals - Games</name>
+		<description>MSX Palcom - Manuals - Games (TOSEC-v2012-07-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-07-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Astron Belt (1984)(TOEI - Sega Enterprises)(JP)">
+		<description>Astron Belt (1984)(TOEI - Sega Enterprises)(JP)</description>
+		<rom name="Astron Belt (1984)(TOEI - Sega Enterprises)(JP).pdf" size="1700013" crc="052c3cea" md5="c2202f48f64e6ce9f9d66f5b8d5980c7" sha1="0f0933482c51aaf2981181565fdf7e8a30f741b3"/>
+	</game>
+	<game name="Badlands (1984)(Konami)(JP)">
+		<description>Badlands (1984)(Konami)(JP)</description>
+		<rom name="Badlands (1984)(Konami)(JP).pdf" size="2048136" crc="9f510e6a" md5="4640828f62ea3844bda5f26eb203774c" sha1="dffda8348c962b3293598434ed2e4ada96e10fb0"/>
+	</game>
+	<game name="Cosmos Circuit (1985)(TOEI)(JP)">
+		<description>Cosmos Circuit (1985)(TOEI)(JP)</description>
+		<rom name="Cosmos Circuit (1985)(TOEI)(JP).pdf" size="1921123" crc="6f2eed35" md5="50e238a06a5f7b69097e3bb00fd79e38" sha1="64d6a141b10bf241217b20f0de05f048c9758cad"/>
+	</game>
+	<game name="Eshs Aurunmilla (1985)(Funai)(JP)">
+		<description>Eshs Aurunmilla (1985)(Funai)(JP)</description>
+		<rom name="Eshs Aurunmilla (1985)(Funai)(JP).pdf" size="4775579" crc="a07350ff" md5="7f86079ca8285618676bf750a948bec2" sha1="b42ce59a619302b9205334f66e0bdfccf055586d"/>
+	</game>
+	<game name="Inter Stellar (1984)(Funai)(JP)">
+		<description>Inter Stellar (1984)(Funai)(JP)</description>
+		<rom name="Inter Stellar (1984)(Funai)(JP).pdf" size="1657650" crc="dd9d862e" md5="1e1e91117eaa49b731956f0322aac7d0" sha1="82120e485cecabc78b0c74ab40a8e41f248f75b1"/>
+	</game>
+	<game name="Rolling Blaster (1985)(Techno Quest)(JP)">
+		<description>Rolling Blaster (1985)(Techno Quest)(JP)</description>
+		<rom name="Rolling Blaster (1985)(Techno Quest)(JP).pdf" size="2706170" crc="84b6befb" md5="c141c421ca87770af21067114e6db058" sha1="a1bcbe9003d87c30cd574dff1120ba504fffe0bb"/>
+	</game>
+	<game name="Starfighters (1984)(ASCII)(JP)">
+		<description>Starfighters (1984)(ASCII)(JP)</description>
+		<rom name="Starfighters (1984)(ASCII)(JP).pdf" size="11838294" crc="3ffde27a" md5="da77b5e7ad672b7f8c42474e66dc9025" sha1="a23dda4885ebdf852d1d741061334078a86965c7"/>
+	</game>
+</datafile>

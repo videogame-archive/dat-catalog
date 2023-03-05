@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Video</name>
+		<description>Sega Mega Drive &amp; Genesis - Video (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Activator Training Video (1994)(Sega)(US)">
+		<description>Sega Activator Training Video (1994)(Sega)(US)</description>
+		<rom name="Sega Activator Training Video (1994)(Sega)(US).mp4" size="9796591" crc="febe4754" md5="366c26835b0f3c51bead37e866da6aa8" sha1="b7b10992af4aad6c1d1fe59dee880cbcad821c54"/>
+	</game>
+	<game name="Sega Genesis Repair Secrets (1993)(Irata Systems)">
+		<description>Sega Genesis Repair Secrets (1993)(Irata Systems)</description>
+		<rom name="Sega Genesis Repair Secrets (1993)(Irata Systems).mp4" size="1454017884" crc="2e5b4389" md5="3bd95bbbf8fb961e1f90bb6aac524c63" sha1="35b9d0e45a97cc74d630048a00c54996be144660"/>
+	</game>
+</datafile>

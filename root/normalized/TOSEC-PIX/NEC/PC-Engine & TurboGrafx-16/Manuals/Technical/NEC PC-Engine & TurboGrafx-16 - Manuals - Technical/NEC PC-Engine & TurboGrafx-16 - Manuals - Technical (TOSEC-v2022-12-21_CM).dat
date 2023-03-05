@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Manuals - Technical</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Manuals - Technical (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="TurboGrafx-16 Installation Guide and Service Manual (1989)(United Amusements)(US)">
+		<description>TurboGrafx-16 Installation Guide and Service Manual (1989)(United Amusements)(US)</description>
+		<rom name="TurboGrafx-16 Installation Guide and Service Manual (1989)(United Amusements)(US).pdf" size="3420596" crc="548e0a82" md5="8a837e6b7d73135d1da00c6401f6fd10" sha1="01f466222e423c97ba327960c99234fcd78b85e6"/>
+	</game>
+	<game name="TurboGrafx-16 Service Manual (1989)(NEC)(US)">
+		<description>TurboGrafx-16 Service Manual (1989)(NEC)(US)</description>
+		<rom name="TurboGrafx-16 Service Manual (1989)(NEC)(US).pdf" size="54986233" crc="75a5ec25" md5="3ba53a9828aa01139417628bbf9725eb" sha1="115696993f45e2f2c251d92e52d7557a38ffb6fe"/>
+	</game>
+</datafile>

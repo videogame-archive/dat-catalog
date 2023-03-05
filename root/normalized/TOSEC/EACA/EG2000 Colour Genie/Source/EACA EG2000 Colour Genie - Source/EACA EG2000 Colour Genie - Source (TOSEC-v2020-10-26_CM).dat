@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Source</name>
+		<description>EACA EG2000 Colour Genie - Source (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Source (1984)(-)">
+		<description>Source (1984)(-)</description>
+		<rom name="Source (1984)(-).cgd" size="194640" crc="93e2131e" md5="d9b7a708fc912e6f27b7d2ed86702085" sha1="10f40259868c1bfc816d43dd176f1619c75f4be3"/>
+	</game>
+	<game name="Source (1985-06)(-)">
+		<description>Source (1985-06)(-)</description>
+		<rom name="Source (1985-06)(-).cgd" size="194640" crc="366df815" md5="17ddaf2ba84030128252b3861a0b4d97" sha1="c251f0215c0dcc69e4c039bd234b740d814f9cbd"/>
+	</game>
+</datafile>

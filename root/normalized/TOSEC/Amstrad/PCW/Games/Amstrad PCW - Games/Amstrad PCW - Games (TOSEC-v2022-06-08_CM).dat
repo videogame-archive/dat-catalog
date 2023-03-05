@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad PCW - Games</name>
+		<description>Amstrad PCW - Games (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en)">
+		<description>Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en)</description>
+		<rom name="Tristam Island r3 (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)(en).dsk" size="194816" crc="a5121712" md5="c3fd4dcdf36fabdae5a872e6f9a7d863" sha1="37cadcb7cf8b209b27cf1b9823d9b315c32339d0"/>
+	</game>
+	<game name="Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en)">
+		<description>Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en)</description>
+		<rom name="Tristam Island r4 (demo-playable) (2022-01-08)(Labrande, Hugo)(FR)(en).dsk" size="194816" crc="3f79a398" md5="52284d3158609c818ad67840ebc688dc" sha1="a874663129618c34db4a6099181cc64f8b8dc882"/>
+	</game>
+	<game name="île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)">
+		<description>île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR)</description>
+		<rom name="île Tristam, L' (demo-playable) (2021-12-20)(Labrande, Hugo)(FR).dsk" size="194816" crc="817c8b6d" md5="a5d26a99685d9597d8674ba7cd0dfd5d" sha1="1383710c9564cf59d1d1b58918167f9edbc9b18b"/>
+	</game>
+</datafile>

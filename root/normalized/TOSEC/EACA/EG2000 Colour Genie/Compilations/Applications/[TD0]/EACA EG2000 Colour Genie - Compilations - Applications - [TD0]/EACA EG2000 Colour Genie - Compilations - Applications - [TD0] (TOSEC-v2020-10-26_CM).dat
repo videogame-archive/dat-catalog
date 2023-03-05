@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Compilations - Applications - [TD0]</name>
+		<description>EACA EG2000 Colour Genie - Compilations - Applications - [TD0] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Drucker (19xx)(-)(DE)">
+		<description>Drucker (19xx)(-)(DE)</description>
+		<rom name="Drucker (19xx)(-)(DE).td0" size="31544" crc="10b472b8" md5="cf5c1719a2570918d27c6bd126049261" sha1="fde21904782210c84bb62c7a6c76d76554ea85bc"/>
+	</game>
+	<game name="Elektronik (19xx)(-)(DE)">
+		<description>Elektronik (19xx)(-)(DE)</description>
+		<rom name="Elektronik (19xx)(-)(DE).td0" size="85492" crc="84bd9850" md5="431ca6309649b7e6797e334dd83557ad" sha1="6bd63cc7fbed69577449c49710b0c08fd248146f"/>
+	</game>
+	<game name="Grafikprogramme (19xx)(-)(DE)">
+		<description>Grafikprogramme (19xx)(-)(DE)</description>
+		<rom name="Grafikprogramme (19xx)(-)(DE).td0" size="84217" crc="016fe93e" md5="38527bc43e5380063f20b003d8c564d7" sha1="61f0f84047e22a66de8a89d87e018f8aa88ade9b"/>
+	</game>
+	<game name="Musik (19xx)(-)(DE)">
+		<description>Musik (19xx)(-)(DE)</description>
+		<rom name="Musik (19xx)(-)(DE).td0" size="60658" crc="79966063" md5="66a1f1437fdc8c5a0677d7416bb14349" sha1="ff9c73b87647194317b92243bf12458b6523ae2f"/>
+	</game>
+	<game name="Utilities (19xx)(-)(DE)">
+		<description>Utilities (19xx)(-)(DE)</description>
+		<rom name="Utilities (19xx)(-)(DE).td0" size="109533" crc="680d17b6" md5="bb9a396741b4d11fbcab535a931a5d29" sha1="b290c875979ec3c56876e5cdc525bcb0e8f12934"/>
+	</game>
+</datafile>

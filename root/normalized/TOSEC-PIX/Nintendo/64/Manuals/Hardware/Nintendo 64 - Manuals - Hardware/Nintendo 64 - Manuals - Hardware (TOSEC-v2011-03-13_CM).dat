@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Manuals - Hardware</name>
+		<description>Nintendo 64 - Manuals - Hardware (TOSEC-v2011-03-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-03-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GameShark Pro v3.3 (1998)(InterACT Accessories)">
+		<description>GameShark Pro v3.3 (1998)(InterACT Accessories)</description>
+		<rom name="GameShark Pro v3.3 (1998)(InterACT Accessories).pdf" size="216474" crc="08d4ff09" md5="22944a8c633d0f96dfc81019cdee3717" sha1="7f792c168cdb52d981f36f59f3244fe971f7bddf"/>
+	</game>
+	<game name="Mr Backup Z64 (1997)(Harrison Electronics)">
+		<description>Mr Backup Z64 (1997)(Harrison Electronics)</description>
+		<rom name="Mr Backup Z64 (1997)(Harrison Electronics).pdf" size="586957" crc="19634c40" md5="6fe7ae03a8a0028b070235e7f14240a7" sha1="dea950cbcff69868a23be21fac18309c2729c3db"/>
+	</game>
+	<game name="Nintendo 64 - Consumer Information and Precautions Booklet (1998)(Nintendo)(US)">
+		<description>Nintendo 64 - Consumer Information and Precautions Booklet (1998)(Nintendo)(US)</description>
+		<rom name="Nintendo 64 - Consumer Information and Precautions Booklet (1998)(Nintendo)(US).pdf" size="102273" crc="2e362822" md5="9d44b2c63dbee7051bf4f1d1b3c78878" sha1="d1fd5023ae22da07cbf66af728dac5658efbff88"/>
+	</game>
+	<game name="Nintendo 64 Expansion Pack (1999)(Nintendo)(fr-nl)">
+		<description>Nintendo 64 Expansion Pack (1999)(Nintendo)(fr-nl)</description>
+		<rom name="Nintendo 64 Expansion Pack (1999)(Nintendo)(fr-nl).pdf" size="608688" crc="6665c2e5" md5="a65ee1a673adc7b899954502b280babe" sha1="6493c26ea9fb2f66a5de37ee4f31e5738870e2fd"/>
+	</game>
+	<game name="Nintendo 64 Instruction Booklet (1996)(Nintendo)(AU)">
+		<description>Nintendo 64 Instruction Booklet (1996)(Nintendo)(AU)</description>
+		<rom name="Nintendo 64 Instruction Booklet (1996)(Nintendo)(AU).pdf" size="2548622" crc="37a46b38" md5="c0c66c01f5b21a217afe01c2e6876304" sha1="1c6a738741769dc220c17b5fd4a5222b70d9d605"/>
+	</game>
+	<game name="Nintendo 64 Instruction Booklet (1996)(Nintendo)(US)">
+		<description>Nintendo 64 Instruction Booklet (1996)(Nintendo)(US)</description>
+		<rom name="Nintendo 64 Instruction Booklet (1996)(Nintendo)(US).pdf" size="1910642" crc="19101d71" md5="4a5b8944237321f3c532656965121120" sha1="ad06082a9c164770346fc8e33d61695e4016e2cd"/>
+	</game>
+</datafile>

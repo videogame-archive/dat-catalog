@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX MSX - Demos - [ROM]</name>
+		<description>MSX MSX - Demos - [ROM] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>XakMSX - VG8020 - jugaor - Apache - Grendel - cbeard - tcm1998 - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Demo (2020-07-28)(Caruso, Fabrizio)[32K]">
+		<description>Cross Demo (2020-07-28)(Caruso, Fabrizio)[32K]</description>
+		<rom name="Cross Demo (2020-07-28)(Caruso, Fabrizio)[32K].rom" size="32768" crc="217828c2" md5="5df121fbeaf05f4f3d234f4d24d84f04" sha1="751318169568bfd3f89f79d8b1780426e03c52eb"/>
+	</game>
+	<game name="Psychedelia (1984)(Aackosoft)(NL)">
+		<description>Psychedelia (1984)(Aackosoft)(NL)</description>
+		<rom name="Psychedelia (1984)(Aackosoft)(NL).rom" size="16384" crc="9d89337a" md5="fe043097cece49648477ad2cfea69fd7" sha1="fae437072234c65bca174db9aefd2107a53c358a"/>
+	</game>
+</datafile>

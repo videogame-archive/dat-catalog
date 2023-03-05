@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Computer Input</name>
+		<description>Multi-format - Magazines - Computer Input (TOSEC-v2013-04-07)</description>
+		<category>TOSEC-PIX</category>
+		<version>2013-04-07</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer Input (1983-11)(Nomac Publishing)(NZ)">
+		<description>Computer Input (1983-11)(Nomac Publishing)(NZ)</description>
+		<rom name="Computer Input (1983-11)(Nomac Publishing)(NZ).pdf" size="32620778" crc="5e61d470" md5="66e271459a078b0e111064eee81a9a03" sha1="091aee80725623f2f1c12487ea85668669a4a566"/>
+	</game>
+	<game name="Computer Input (1983-12)(Nomac Publishing)(NZ)">
+		<description>Computer Input (1983-12)(Nomac Publishing)(NZ)</description>
+		<rom name="Computer Input (1983-12)(Nomac Publishing)(NZ).pdf" size="89319273" crc="bb337855" md5="733ff07be4c42394e8d620be93d3165d" sha1="ebf9a70fc6047d725be60bc82e28bad1faafbe6b"/>
+	</game>
+	<game name="Computer Input (1984-05)(Nomac Publishing)(NZ)">
+		<description>Computer Input (1984-05)(Nomac Publishing)(NZ)</description>
+		<rom name="Computer Input (1984-05)(Nomac Publishing)(NZ).pdf" size="72188285" crc="d42d3b7f" md5="31e34dfefc0ce7c21b0547c0a1a85edf" sha1="a60efaab1b991b4b6022d1e9d9f5be27dbf92651"/>
+	</game>
+	<game name="Computer Input - Vol 1 No 9 (1984-09)(Nomac Publishing)(NZ)">
+		<description>Computer Input - Vol 1 No 9 (1984-09)(Nomac Publishing)(NZ)</description>
+		<rom name="Computer Input - Vol 1 No 9 (1984-09)(Nomac Publishing)(NZ).pdf" size="63916896" crc="4b63d1c8" md5="e1f31b0021a99dcc09d23a6bdeb52654" sha1="04b583c948d1a7d44c84651e991603884ba926c1"/>
+	</game>
+</datafile>

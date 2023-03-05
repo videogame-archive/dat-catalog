@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Books</name>
+		<description>Nintendo - Books (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Over (1999)(Cyberactive Publishing)">
+		<description>Game Over (1999)(Cyberactive Publishing)</description>
+		<rom name="Game Over (1999)(Cyberactive Publishing).pdf" size="119970101" crc="75792d06" md5="1623a8549782f6b4fa5862072c6d9080" sha1="ec3422c96dc30442223381eb03351f1cca6039be"/>
+	</game>
+	<game name="Nintendo Archives (2019)(Future Publishing)[third edition]">
+		<description>Nintendo Archives (2019)(Future Publishing)[third edition]</description>
+		<rom name="Nintendo Archives (2019)(Future Publishing)[third edition].pdf" size="89556290" crc="94e3e798" md5="c37ca636e41775f4c862ac4d545df3f5" sha1="5193f27645111988495f82419e6707b789dc2975"/>
+	</game>
+	<game name="Nintendo Presents the Ultimate Guide to Mario (2015)(Future Publishing)(GB)">
+		<description>Nintendo Presents the Ultimate Guide to Mario (2015)(Future Publishing)(GB)</description>
+		<rom name="Nintendo Presents the Ultimate Guide to Mario (2015)(Future Publishing)(GB).pdf" size="75638336" crc="4587ef4c" md5="5fe9fc43dff4bd18ecf90a33bad61dcb" sha1="be1ff85b7a6a84cd159e66ca6d049dd31f50aff4"/>
+	</game>
+</datafile>

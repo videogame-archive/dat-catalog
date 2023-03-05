@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Catalogs - Games</name>
+		<description>IBM PC Compatibles - Catalogs - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Legend Entertainment Catalog (1992)(Legend Entertainment)">
+		<description>Legend Entertainment Catalog (1992)(Legend Entertainment)</description>
+		<rom name="Legend Entertainment Catalog (1992)(Legend Entertainment).pdf" size="1138695" crc="fa291d0b" md5="9861126beb3f258b80cb5b8ce36d2f79" sha1="cd759f7da70522586c8aa019f908d934621a593d"/>
+	</game>
+	<game name="Legend Entertainment Catalog (1993)(Legend Entertainment)">
+		<description>Legend Entertainment Catalog (1993)(Legend Entertainment)</description>
+		<rom name="Legend Entertainment Catalog (1993)(Legend Entertainment).pdf" size="1947866" crc="f852fde8" md5="1198f30bd98186b6cd9835b7af86e50b" sha1="010be51f8ddbbbb083bfc7903fb03e9cf81ff6ef"/>
+	</game>
+	<game name="Origin Catalog (1987)(Origin)">
+		<description>Origin Catalog (1987)(Origin)</description>
+		<rom name="Origin Catalog (1987)(Origin).pdf" size="3251399" crc="98da4ca9" md5="287ebfd89718664e5d4b65a5c57fcb4a" sha1="83aa835b4fd7a5d22f64a8fc90650f67ddd62c40"/>
+	</game>
+</datafile>

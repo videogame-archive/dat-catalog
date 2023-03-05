@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Color - Applications</name>
+		<description>Nintendo Game Boy Color - Applications (TOSEC-v2022-12-21)</description>
+		<category>TOSEC</category>
+		<version>2022-12-21</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Color Test (2022-04-11)(GB Studio Central)">
+		<description>Color Test (2022-04-11)(GB Studio Central)</description>
+		<rom name="Color Test (2022-04-11)(GB Studio Central).gbc" size="131072" crc="9d59473d" md5="a973913be575962df815307b25875f1e" sha1="c1eb0d2b1dcb44fde03df1a112b98807f58dc00b"/>
+	</game>
+	<game name="GB UI 'Room Edition' v1.0 (2022-06-20)(JOAOMOTA)">
+		<description>GB UI 'Room Edition' v1.0 (2022-06-20)(JOAOMOTA)</description>
+		<rom name="GB UI 'Room Edition' v1.0 (2022-06-20)(JOAOMOTA).gbc" size="262144" crc="d7be253d" md5="b4f0dee16237379d370678beace53afd" sha1="ab6dc901ed53739196a79a7203fe4261fe64f95d"/>
+	</game>
+	<game name="GB UI v1.0 (2022-06-20)(JOAOMOTA)">
+		<description>GB UI v1.0 (2022-06-20)(JOAOMOTA)</description>
+		<rom name="GB UI v1.0 (2022-06-20)(JOAOMOTA).gbc" size="262144" crc="0db51459" md5="290691c1e07d571eb85bead72939efa0" sha1="aef73301d0948758c779c497701f1e69a22f461b"/>
+	</game>
+	<game name="Jayro's Keys v1.1 (2021-11-05)(Jones, Jayro)">
+		<description>Jayro's Keys v1.1 (2021-11-05)(Jones, Jayro)</description>
+		<rom name="Jayro's Keys v1.1 (2021-11-05)(Jones, Jayro).gbc" size="131072" crc="8bc08db4" md5="6ee378cde01d68d732684c5d10fe8c41" sha1="db1aeb16a912d4601e3dbadfe110dcaf8429d14f"/>
+	</game>
+	<game name="Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro)">
+		<description>Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro)</description>
+		<rom name="Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro).gbc" size="262144" crc="3a5922d6" md5="16d245e8fbe3034bda9b02f9c89626ed" sha1="a6293d71cde406711e834b1b56ce0d4ecaec665c"/>
+	</game>
+	<game name="Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro)">
+		<description>Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro)</description>
+		<rom name="Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro).gbc" size="524288" crc="299e5d2f" md5="56d57b5ac241b249c5fb075477295982" sha1="8fd937fc8afa7505f229604227551b88b1894c49"/>
+	</game>
+	<game name="LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro)">
+		<description>LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro)</description>
+		<rom name="LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro).gbc" size="131072" crc="df699f9e" md5="c5dbcab1c1ca72f6c296b535e6cc6fa0" sha1="444d3218c9a3247958de3518caf2fda7c989fb70"/>
+	</game>
+	<game name="No Software Found (2021-11-12)(Jones, Jayro)">
+		<description>No Software Found (2021-11-12)(Jones, Jayro)</description>
+		<rom name="No Software Found (2021-11-12)(Jones, Jayro).gbc" size="131072" crc="64f784b4" md5="ed60d84e0d693767ead1e0d69931bbd7" sha1="bb9fd5529d982dc0d867e4aab1104044ad5159bd"/>
+	</game>
+	<game name="Windows 89 (2021-09-13)(Villagerjj)">
+		<description>Windows 89 (2021-09-13)(Villagerjj)</description>
+		<rom name="Windows 89 (2021-09-13)(Villagerjj).gbc" size="262144" crc="51eec2c3" md5="f9308242157f9e4f7eab9b2e16a97b59" sha1="781e0e9f4bd6757dd86df1c83bfcb37c51dbcdc4"/>
+	</game>
+	<game name="Windows 89 b06 (2021-11-13)(Villagerjj)">
+		<description>Windows 89 b06 (2021-11-13)(Villagerjj)</description>
+		<rom name="Windows 89 b06 (2021-11-13)(Villagerjj).gbc" size="262144" crc="a8d64a97" md5="a6865b590aac2a04c18c9e5fe06f9e30" sha1="0572865241acf0fce3d7928ccf112b0dd5247945"/>
+	</game>
+</datafile>

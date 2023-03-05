@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nokia N-Gage - Manuals - Games</name>
+		<description>Nokia N-Gage - Manuals - Games (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Age Of Empires III (2008)(Microsoft)">
+		<description>Age Of Empires III (2008)(Microsoft)</description>
+		<rom name="Age Of Empires III (2008)(Microsoft).pdf" size="422597" crc="7bab6e70" md5="c396f2345314ce06a248f9293ca8e6e3" sha1="aacc9cdcda014f5e8fd905bc046fda2b817e024b"/>
+	</game>
+	<game name="Colin McRae Rally 2005 (2004)(Codemasters)">
+		<description>Colin McRae Rally 2005 (2004)(Codemasters)</description>
+		<rom name="Colin McRae Rally 2005 (2004)(Codemasters).pdf" size="692304" crc="50fc7c6c" md5="2773d4d73ef6f1b0e78849b15e9e77c6" sha1="e0e26c987aa887282a4bc41441757777885e9301"/>
+	</game>
+	<game name="SonicN (2003)(Nokia)">
+		<description>SonicN (2003)(Nokia)</description>
+		<rom name="SonicN (2003)(Nokia).pdf" size="16633009" crc="ddca934f" md5="d84e822ca53c11430f37c30f98dbb867" sha1="69f1a415419ce928b6ec22839aa341782ccb82e0"/>
+	</game>
+</datafile>

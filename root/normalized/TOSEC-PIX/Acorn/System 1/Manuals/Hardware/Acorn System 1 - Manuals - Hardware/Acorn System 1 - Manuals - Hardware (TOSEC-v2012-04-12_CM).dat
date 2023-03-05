@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn System 1 - Manuals - Hardware</name>
+		<description>Acorn System 1 - Manuals - Hardware (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Acorn Technical Manual (1979-02-23)(Acorn Computers)">
+		<description>Acorn Technical Manual (1979-02-23)(Acorn Computers)</description>
+		<rom name="Acorn Technical Manual (1979-02-23)(Acorn Computers).pdf" size="441596" crc="7a1963a0" md5="717ef0329ba3e66c081e07788d83373e" sha1="66234ac046e54608311846f7e28bd0276cedb10d"/>
+	</game>
+	<game name="Acorn User Manual Errata (1980)(Acorn Computers)">
+		<description>Acorn User Manual Errata (1980)(Acorn Computers)</description>
+		<rom name="Acorn User Manual Errata (1980)(Acorn Computers).pdf" size="64354" crc="e2fa1d45" md5="7e5a325fa96cb4e0f72b474b7575057d" sha1="2752f52e70ea06b254b19119c7f07b65e44739df"/>
+	</game>
+	<game name="Acorn User's Manual (1979)(Acorn Computers)">
+		<description>Acorn User's Manual (1979)(Acorn Computers)</description>
+		<rom name="Acorn User's Manual (1979)(Acorn Computers).pdf" size="4916069" crc="04ff2314" md5="9651403cb006ce09f532b38178f45127" sha1="40326e0cdb49f110976d528d4f83aad9aa0fb1cb"/>
+	</game>
+</datafile>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>273</id>
+		<name>Source Code - VM Labs - NUON</name>
+		<description>Source Code - VM Labs - NUON</description>
+		<version>20220609-185850</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Atari 800 Emulator (Unknown) (Homebrew)" id="0001">
+		<description>Atari 800 Emulator (Unknown) (Homebrew)</description>
+		<rom name="atari800src.zip" size="372530" crc="5a1a6e8f" md5="53039f460b05ac1589ff96bde7b7dbd6" sha1="e7db1a0c955f3b0108ee441f07dd106a66e43eee"/>
+	</game>
+	<game name="Bomb (Unknown) (Homebrew)" id="0002">
+		<description>Bomb (Unknown) (Homebrew)</description>
+		<rom name="BombNewYear.zip" size="14639831" crc="a2128029" md5="5e132cbf8ea0b90f751689fd09a13d0a" sha1="d56237fa4c7602831d2767c8b53bb2b066b3b3b1"/>
+	</game>
+	<game name="Breakout (Unknown) (Homebrew)" id="0003">
+		<description>Breakout (Unknown) (Homebrew)</description>
+		<rom name="brkoutrc11.zip" size="541621" crc="671d7f6e" md5="378439b478cdaa42cea63f7bcbd876cd" sha1="d5c97efcea72967eda61df8e03c6a04eaf95f629"/>
+	</game>
+	<game name="Doom (Unknown) (Homebrew)" id="0004">
+		<description>Doom (Unknown) (Homebrew)</description>
+		<rom name="nuondoom.zip" size="522188" crc="4c2736e5" md5="0eec4e286e7ff4096aabd26b9468d8c4" sha1="ab450a0d5310c2567063046fc4d16b249f7513cd"/>
+	</game>
+	<game name="KillMinds (Unknown) (Homebrew)" id="0005">
+		<description>KillMinds (Unknown) (Homebrew)</description>
+		<rom name="src.7z" size="191771" crc="83419eb1" md5="3ab15b7949b49ea447c2a327dd6e098e" sha1="319a5569fb935bfa62a4beeb9d9395c376489963"/>
+	</game>
+	<game name="NUON Boot Loader (USA) (Homebrew)" id="0006">
+		<description>NUON Boot Loader (USA) (Homebrew)</description>
+		<rom name="bootload-20060203-v4.0-source.zip" size="6426837" crc="8b1c03cd" md5="bab6b5b42eafa916811b75e146899eb6" sha1="738b750abe7bae95b66d79dcbe744cdc25aa66a1"/>
+	</game>
+	<game name="NUON Software Development Kit 2 (World)" id="0009">
+		<description>NUON Software Development Kit 2 (World)</description>
+		<rom name="sdk2.zip" size="32876406" crc="912cb2a9" md5="c58e733e93bb085a1743da6426318645" sha1="1abf7cba45a17c17af73e9a5b0f7ebb215ac9d88"/>
+	</game>
+	<game name="Pac-Man (USA) (Homebrew)" id="0007">
+		<description>Pac-Man (USA) (Homebrew)</description>
+		<rom name="chomp14Esource.zip" size="707012" crc="90a6d117" md5="c177c069127d6fc3d93273ecc89a4309" sha1="62a6028c4821617a69a168321d84d60a56bc0483"/>
+	</game>
+	<game name="Snake (USA) (Homebrew)" id="0008">
+		<description>Snake (USA) (Homebrew)</description>
+		<rom name="snakesource.zip" size="584399" crc="5b3541d6" md5="f0f94a3d1a655b32a9dde3a1828f27ee" sha1="248b26baf436eb51d100313acabd9149eac24387"/>
+	</game>
+</datafile>

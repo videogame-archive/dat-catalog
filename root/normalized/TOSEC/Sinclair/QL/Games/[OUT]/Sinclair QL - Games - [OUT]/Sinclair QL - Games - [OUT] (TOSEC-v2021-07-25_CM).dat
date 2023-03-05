@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair QL - Games - [OUT]</name>
+		<description>Sinclair QL - Games - [OUT] (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny][buffered].out" size="18540" crc="f7b3cd3a" md5="a4495d57ee63cd42c1a5bc3fdcb3bdd3" sha1="524e8808726ee8f1ec923af205a945df704e75c6"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny][buffered]">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny][buffered]</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio)[tiny][buffered].out" size="18506" crc="ff14793b" md5="c4667b4d618362a9dba304fad0117c67" sha1="0993209c5e6a82aa5396cde9c75df2ac8fd43d91"/>
+	</game>
+</datafile>

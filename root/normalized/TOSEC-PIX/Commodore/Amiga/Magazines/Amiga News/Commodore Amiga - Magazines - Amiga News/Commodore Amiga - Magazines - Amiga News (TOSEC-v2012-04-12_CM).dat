@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Magazines - Amiga News</name>
+		<description>Commodore Amiga - Magazines - Amiga News (TOSEC-v2012-04-12)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-12</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga News (1991-11)(Farwood Publishing)(US)">
+		<description>Amiga News (1991-11)(Farwood Publishing)(US)</description>
+		<rom name="Amiga News (1991-11)(Farwood Publishing)(US).pdf" size="9705165" crc="81043caf" md5="45025f2bac8b7775d79399b100fab806" sha1="ace89bd5150cc86a3a4f899150947bae85eed7e4"/>
+	</game>
+	<game name="Amiga News - Vol. 01 No. 07 (1992-08)(Portable Computing International)(US)">
+		<description>Amiga News - Vol. 01 No. 07 (1992-08)(Portable Computing International)(US)</description>
+		<rom name="Amiga News - Vol. 01 No. 07 (1992-08)(Portable Computing International)(US).pdf" size="27245699" crc="042b872a" md5="634537b60a5838c0e0df0b15df49d56c" sha1="d3100d413ba3bd694e2e1ad49885d88e4bfd9e5f"/>
+	</game>
+	<game name="Amiga News - Vol. 02 No. 03 (1993-04)(Portable Computing International)(US)">
+		<description>Amiga News - Vol. 02 No. 03 (1993-04)(Portable Computing International)(US)</description>
+		<rom name="Amiga News - Vol. 02 No. 03 (1993-04)(Portable Computing International)(US).pdf" size="26110159" crc="34dc69a6" md5="6773423d3f952ca80505c3583f7d89be" sha1="ec5d76a5a532d2ef354e9f60a8a7e56484044499"/>
+	</game>
+</datafile>

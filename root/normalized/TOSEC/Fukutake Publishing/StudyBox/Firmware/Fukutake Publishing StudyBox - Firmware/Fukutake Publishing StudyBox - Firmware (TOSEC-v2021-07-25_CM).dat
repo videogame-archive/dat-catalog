@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fukutake Publishing StudyBox - Firmware</name>
+		<description>Fukutake Publishing StudyBox - Firmware (TOSEC-v2021-07-25)</description>
+		<category>TOSEC</category>
+		<version>2021-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="StudyBox BIOS (199x)(Fukutake Publishing)(JP)">
+		<description>StudyBox BIOS (199x)(Fukutake Publishing)(JP)</description>
+		<rom name="StudyBox BIOS (199x)(Fukutake Publishing)(JP).nes" size="262144" crc="0d473ee6" md5="7e1f62847980693234b418727c6786ff" sha1="3a5683e8c417a07c3252e1db4a054effdf75cb6e"/>
+	</game>
+</datafile>

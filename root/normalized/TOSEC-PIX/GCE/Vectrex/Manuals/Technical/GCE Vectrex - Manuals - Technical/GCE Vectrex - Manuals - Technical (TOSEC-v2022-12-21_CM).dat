@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE Vectrex - Manuals - Technical</name>
+		<description>GCE Vectrex - Manuals - Technical (TOSEC-v2022-12-21)</description>
+		<category>TOSEC-PIX</category>
+		<version>2022-12-21</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GCE Service Manual HP-3000 (1983)(GCE)">
+		<description>GCE Service Manual HP-3000 (1983)(GCE)</description>
+		<rom name="GCE Service Manual HP-3000 (1983)(GCE).pdf" size="4941166" crc="7554eb3b" md5="5d20181bdb4306f1dbf9d1d8955c0027" sha1="33ef278ed17e6bfdd378f244541d94fbde545560"/>
+	</game>
+	<game name="GCE Vectrex Service Manual (1982)(GCE)">
+		<description>GCE Vectrex Service Manual (1982)(GCE)</description>
+		<rom name="GCE Vectrex Service Manual (1982)(GCE).pdf" size="3349363" crc="d6460249" md5="c882f04bb8a9dd1ec370a7227f4a62d9" sha1="17cabba62102ff8ae934c0876443720da2993d46"/>
+	</game>
+	<game name="HP-3000 Service Manual (1982)(GCE)">
+		<description>HP-3000 Service Manual (1982)(GCE)</description>
+		<rom name="HP-3000 Service Manual (1982)(GCE).pdf" size="1633098" crc="22e230ef" md5="6415cfc6740a5a48e1c4d5145474246d" sha1="b1a09fa8b8bccb52060c59cb0f71c231a8acc01a"/>
+	</game>
+	<game name="Vectrex Trouble Shooting Guide (1983)(GCE)">
+		<description>Vectrex Trouble Shooting Guide (1983)(GCE)</description>
+		<rom name="Vectrex Trouble Shooting Guide (1983)(GCE).pdf" size="436482" crc="244dae56" md5="c1d7d185af49b2d09276fd23231791cc" sha1="5d1c3e12b34dfe9a8badc1762469ef5e7cbcc4bd"/>
+	</game>
+	<game name="Vectrex Trouble-Shooting Guide (1983)(GCE)">
+		<description>Vectrex Trouble-Shooting Guide (1983)(GCE)</description>
+		<rom name="Vectrex Trouble-Shooting Guide (1983)(GCE).pdf" size="436424" crc="272ff785" md5="94de76c792e64e4af1c3eb1bfc3a78e7" sha1="b1407c52d707f1f65d6d202765674d3379310b05"/>
+	</game>
+</datafile>

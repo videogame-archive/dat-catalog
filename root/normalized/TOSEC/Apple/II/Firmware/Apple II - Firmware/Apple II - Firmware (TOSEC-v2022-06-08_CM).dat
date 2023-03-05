@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Firmware</name>
+		<description>Apple II - Firmware (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Custom Video ROM for Block ASCII Anthology (2014-06-05)(French Touch)[eprom2164]">
+		<description>Custom Video ROM for Block ASCII Anthology (2014-06-05)(French Touch)[eprom2164]</description>
+		<rom name="Custom Video ROM for Block ASCII Anthology (2014-06-05)(French Touch)[eprom2164].bin" size="8192" crc="1eae3944" md5="c8cee6ce29c59af9038984650b3e3184" sha1="f79815457437e50404f4f537d8aabe34bff3a220"/>
+	</game>
+</datafile>

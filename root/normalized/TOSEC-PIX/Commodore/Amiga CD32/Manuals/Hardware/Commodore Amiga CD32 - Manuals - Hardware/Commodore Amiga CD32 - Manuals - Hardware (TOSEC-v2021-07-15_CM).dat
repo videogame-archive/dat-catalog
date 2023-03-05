@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Manuals - Hardware</name>
+		<description>Commodore Amiga CD32 - Manuals - Hardware (TOSEC-v2021-07-15)</description>
+		<category>TOSEC-PIX</category>
+		<version>2021-07-15</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga CD32 Consumer Information (1995)(Commodore)">
+		<description>Amiga CD32 Consumer Information (1995)(Commodore)</description>
+		<rom name="Amiga CD32 Consumer Information (1995)(Commodore).pdf" size="832119" crc="96166d3b" md5="e7cf9de6d1c6aee113f5eaaa7c8f3695" sha1="0618a375a81620e3d0fc3197ca53ef9d4c3f1520"/>
+	</game>
+	<game name="Amiga CD32 Einfuhrung (1995)(Commodore)(DE)">
+		<description>Amiga CD32 Einfuhrung (1995)(Commodore)(DE)</description>
+		<rom name="Amiga CD32 Einfuhrung (1995)(Commodore)(DE).pdf" size="4385573" crc="21b97570" md5="d9646ad23baaaad8b10f57519885d0d3" sha1="d1a5b6a5e02980d2651943a6e3e1c669c9be1487"/>
+	</game>
+	<game name="Amiga CD32 Full Motion Video Module (1995)(Commodore)(M4)">
+		<description>Amiga CD32 Full Motion Video Module (1995)(Commodore)(M4)</description>
+		<rom name="Amiga CD32 Full Motion Video Module (1995)(Commodore)(M4).pdf" size="4032989" crc="b3dc9fcc" md5="61cb8ef5f52432a89bd17368faefca14" sha1="07f60c90a580ebdf6961bd5d50b9146b9ab66adc"/>
+	</game>
+	<game name="Amiga CD32 Getting Started (1995)(Commodore)">
+		<description>Amiga CD32 Getting Started (1995)(Commodore)</description>
+		<rom name="Amiga CD32 Getting Started (1995)(Commodore).pdf" size="599593" crc="c216fbd1" md5="d71d915ae12f3e89030ac4ce3af3e101" sha1="2082ade95d3edf6c930466b99c202116d3a032dc"/>
+	</game>
+	<game name="Amiga CD32 Getting Started (1995)(Commodore)[a]">
+		<description>Amiga CD32 Getting Started (1995)(Commodore)[a]</description>
+		<rom name="Amiga CD32 Getting Started (1995)(Commodore)[a].pdf" size="589915" crc="12ee3fd5" md5="49abb559079be74dfcef4595636a5e41" sha1="b3a00bd6e49a09ed57c36193ca46709e6a9dc8f5"/>
+	</game>
+	<game name="Paravision SX-1 User's Guide (1994)(Paravision)[CD32]">
+		<description>Paravision SX-1 User's Guide (1994)(Paravision)[CD32]</description>
+		<rom name="Paravision SX-1 User's Guide (1994)(Paravision)[CD32].pdf" size="712793" crc="509ff288" md5="9e9661a998160464990441d0a313ae73" sha1="3a3e669ffc5b5f0136fc5b328fac8d2a676554d7"/>
+	</game>
+</datafile>

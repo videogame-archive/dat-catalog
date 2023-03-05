@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Games - [CGD]</name>
+		<description>EACA EG2000 Colour Genie - Games - [CGD] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mr. Jump (1985-01)(-)(DE)">
+		<description>Mr. Jump (1985-01)(-)(DE)</description>
+		<rom name="Mr. Jump (1985-01)(-)(DE).cgd" size="194640" crc="d164e10b" md5="7b501da37a0fb7c5309814c915e09662" sha1="63965dadb243de90d5390689b0fc19e84cf0002a"/>
+	</game>
+</datafile>

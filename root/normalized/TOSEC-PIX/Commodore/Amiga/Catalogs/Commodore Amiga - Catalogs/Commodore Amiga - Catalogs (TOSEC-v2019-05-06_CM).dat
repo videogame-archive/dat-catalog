@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Catalogs</name>
+		<description>Commodore Amiga - Catalogs (TOSEC-v2019-05-06)</description>
+		<category>TOSEC-PIX</category>
+		<version>2019-05-06</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore Amiga 3000UX (199x)(Commodore)(US)">
+		<description>Commodore Amiga 3000UX (199x)(Commodore)(US)</description>
+		<rom name="Commodore Amiga 3000UX (199x)(Commodore)(US).pdf" size="773872" crc="dd979b0e" md5="3ba6c6c4bcc99c3bd1977a7be4c84bc4" sha1="9974772084de207eb07ad660ab003bbfc6d1e61f"/>
+	</game>
+	<game name="Commodore Amiga 500 Den Kreative Computer (1990)(Commodore)(DK)">
+		<description>Commodore Amiga 500 Den Kreative Computer (1990)(Commodore)(DK)</description>
+		<rom name="Commodore Amiga 500 Den Kreative Computer (1990)(Commodore)(DK).pdf" size="6608438" crc="6a311590" md5="9a746a0c5669e6ecc9ad2349fea37fb5" sha1="45d2500d0609bc5248f3caac53fbedc686b7c986"/>
+	</game>
+	<game name="Dansk Amiga &amp; CDTV Katalog (1992)(Commodore)(DK)">
+		<description>Dansk Amiga &amp; CDTV Katalog (1992)(Commodore)(DK)</description>
+		<rom name="Dansk Amiga &amp; CDTV Katalog (1992)(Commodore)(DK).pdf" size="237105331" crc="048e373b" md5="c8ff11e635422bf279823ce6c4b9cb0e" sha1="09991340e7cd93b87c12f6d1e51d7200816d7141"/>
+	</game>
+</datafile>

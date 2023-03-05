@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hitachi S1 - Games - [L3B]</name>
+		<description>Hitachi S1 - Games - [L3B] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nuts &amp; Milk (1984)(Hudson Soft)(JP)[MA-3202]">
+		<description>Nuts &amp; Milk (1984)(Hudson Soft)(JP)[MA-3202]</description>
+		<rom name="Nuts &amp; Milk (1984)(Hudson Soft)(JP)[MA-3202].l3b" size="360455" crc="ebce4eaf" md5="7a643a3232b20201b0aef7db48e12af1" sha1="26e25943fa009e5de5da6821c472f4b069b0d6ea"/>
+	</game>
+	<game name="Super Mario Bros. Special (1984)(Hudson Soft)(JP)[MA-1006]">
+		<description>Super Mario Bros. Special (1984)(Hudson Soft)(JP)[MA-1006]</description>
+		<rom name="Super Mario Bros. Special (1984)(Hudson Soft)(JP)[MA-1006].l3b" size="612213" crc="6c449012" md5="9f8bf826a52ca5b91d7084f01428649d" sha1="63aecbf89e421819e957d752e99f8e573ff94ea2"/>
+	</game>
+</datafile>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>228</id>
+		<name>GamePark - GP2X</name>
+		<description>GamePark - GP2X</description>
+		<version>20220107-115126</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Payback (Unknown)" id="0001">
+		<description>Payback (Unknown)</description>
+		<rom name="Payback (Unknown).img" size="512110080" crc="1f6118c9" md5="60584c08a4831956c108905ecc856194" sha1="2a7251490a2e73bd91bf345bcc965aad191f9f16" sha256="c848be16483508f77aac46a0eca2ae21cdce3ad0cd6a0d14cc383508b3b4a904"/>
+	</game>
+</datafile>

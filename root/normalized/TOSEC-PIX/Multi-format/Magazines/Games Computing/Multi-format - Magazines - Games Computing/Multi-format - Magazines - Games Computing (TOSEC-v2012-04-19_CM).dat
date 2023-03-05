@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Games Computing</name>
+		<description>Multi-format - Magazines - Games Computing (TOSEC-v2012-04-19)</description>
+		<category>TOSEC-PIX</category>
+		<version>2012-04-19</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Games Computing (1984-01)(Argus Specialist Publications)(GB)">
+		<description>Games Computing (1984-01)(Argus Specialist Publications)(GB)</description>
+		<rom name="Games Computing (1984-01)(Argus Specialist Publications)(GB).pdf" size="231756115" crc="87665d40" md5="df27fc2f463d138b570929cd559e10ff" sha1="0ea1589b7397eb1abafb3e2b0849aaa9425aab9d"/>
+	</game>
+	<game name="Games Computing (1984-10)(Argus Specialist Publications)(GB)">
+		<description>Games Computing (1984-10)(Argus Specialist Publications)(GB)</description>
+		<rom name="Games Computing (1984-10)(Argus Specialist Publications)(GB).pdf" size="196182792" crc="655bde39" md5="19b08ef88454c354356a68e43c20d22e" sha1="14002c2d1312897e250db267cf5002bf3be5c9de"/>
+	</game>
+	<game name="Games Computing (1984-11)(Argus Specialist Publications)(GB)">
+		<description>Games Computing (1984-11)(Argus Specialist Publications)(GB)</description>
+		<rom name="Games Computing (1984-11)(Argus Specialist Publications)(GB).pdf" size="239825268" crc="51a42156" md5="ada2d779f84b4ae8b8c2c4f29729afc5" sha1="b66521c41a45be066b7a72e9121c019ad4032fac"/>
+	</game>
+	<game name="Games Computing (1985-03)(Argus Specialist Publications)(GB)">
+		<description>Games Computing (1985-03)(Argus Specialist Publications)(GB)</description>
+		<rom name="Games Computing (1985-03)(Argus Specialist Publications)(GB).pdf" size="188500888" crc="3b106287" md5="cd12a01b332ae18bd57c4a83f75073a1" sha1="f6acca4020f37398ae4be8db029cde87774e7aaa"/>
+	</game>
+</datafile>

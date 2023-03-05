@@ -1,0 +1,977 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>212</id>
+		<name>Apple - IIGS (WOZ)</name>
+		<description>Apple - IIGS (WOZ)</description>
+		<version>20220727-120719</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 1)" id="0093">
+		<description>2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 1)</description>
+		<rom name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 1).woz" size="1345398" crc="389a2d46" md5="98d336608a5ac46b3eede437c37da8c6" sha1="d1132ba890573390db3906742ecc517a068a36cc" sha256="4768cc93bdb7735c46c90fa1252846fd05b58a88951478cdf7ebae7863dd986b"/>
+	</game>
+	<game name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 2)" id="0095">
+		<description>2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 2)</description>
+		<rom name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 2).woz" size="1345399" crc="b500b6bb" md5="2d657535bb9beb182a3f4296f1ad37d9" sha1="fd86fd3aa3c8da2ff8b11189107786925eb2011e" sha256="39e9498376a92de49a92d330503aa1b31830cd7579ba7934bbbdd93b7737949b"/>
+	</game>
+	<game name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 3)" id="0097">
+		<description>2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 3)</description>
+		<rom name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 3).woz" size="1345400" crc="9dda11aa" md5="22976fa01967f93a02c43623e040e987" sha1="d387c50de2c3591a48b2b4ee9a03558178b028c5" sha256="adb99634c09e1a6b8cd40b5007f47bbde9e324dad0e1434d781b1f7c5122332a"/>
+	</game>
+	<game name="816-Paint (USA)" id="0593">
+		<description>816-Paint (USA)</description>
+		<rom name="816-Paint (USA).woz" size="1319212" crc="03cde91c" md5="ba9b2723ba343586319347951f2165e9" sha1="7f3de5c008fd9bb77cdd2cdb4dc2524cb77be6ff" sha256="48ae52c113bff7403f4e2d4408c21620b142083c1335373ede9478b98202c427"/>
+	</game>
+	<game name="Aesop's Fables (USA) (Disk 2)" id="0953">
+		<description>Aesop's Fables (USA) (Disk 2)</description>
+		<rom name="Aesop's Fables (USA) (Disk 2).woz" size="1296187" crc="b43ff258" md5="d58689b217e42e42994f4f66b1e1e980" sha1="925944a9ac634ed2b6a009a0d6e0015f8a896d1f" sha256="9fafd6f3899cdff123d14dd1814c99c4fc16b0a844f0a23420fedd72a610c62b"/>
+	</game>
+	<game name="Aesop's Fables (USA) (Disk 1)" id="0952">
+		<description>Aesop's Fables (USA) (Disk 1)</description>
+		<rom name="Aesop's Fables (USA) (Disk 1).woz" size="1296699" crc="7534b2f6" md5="a7dc1fae1a73410f83eaf7272e82a3be" sha1="b20944b409de700f1df32e9faf8c9e4e162f7a9c" sha256="dae28623519044201eace940ce0d2b697f019e3bd76e99d929026d7280127a70"/>
+	</game>
+	<game name="Alien Mind (USA) (Disk 1)" id="0010">
+		<description>Alien Mind (USA) (Disk 1)</description>
+		<rom name="Alien Mind (USA) (Disk 1).woz" size="1312512" crc="b82a889f" md5="227bfdbca05b14fae97c123f265d41ce" sha1="5b8c9377ee4f0d35d879ac063f0a02ca82d4fe4d" sha256="185cc2021c3fcabcb636545161406b13efc20c1ab1c8a9d895f2c2e217fcfe65"/>
+	</game>
+	<game name="Alien Mind (USA) (Disk 2)" id="0011">
+		<description>Alien Mind (USA) (Disk 2)</description>
+		<rom name="Alien Mind (USA) (Disk 2).woz" size="1312512" crc="ee584aad" md5="e18d278547f9d1d2d00dd1e7433de0bf" sha1="e32a4e473d3af9a80e6c2e0b20bf747bcd99ee7f" sha256="e730d3bca41c2d7158915a5cd3f4cbe28077cb171fc484d7bf2932753d531472"/>
+	</game>
+	<game name="Arkanoid (USA)" id="0026">
+		<description>Arkanoid (USA)</description>
+		<rom name="Arkanoid (USA).woz" size="1296671" crc="d82eee53" md5="d7895ec59dd3a33225cad66756ec5465" sha1="52914d5c1c05617eac17173de671f09ba7ef3c3c" sha256="cefb22e9448279f75704f42a50195a53a42c28819c2ddf9f8943ce655e87bd7c"/>
+	</game>
+	<game name="Arkanoid II - Revenge of Doh (USA)" id="0029">
+		<description>Arkanoid II - Revenge of Doh (USA)</description>
+		<rom name="Arkanoid II - Revenge of Doh (USA).woz" size="1296700" crc="0529637a" md5="5e62dba8bd4ac998d8be4a16b6a2f127" sha1="26f22571afb2a3f51258bf22e7910f02745098a6" sha256="86e4701324900b828d88cc927dfe5d612c436b0b76f5d727024de93fe4d3f04b"/>
+	</game>
+	<game name="Art &amp; Film Director (USA) (Disk 1)" id="0604">
+		<description>Art &amp; Film Director (USA) (Disk 1)</description>
+		<rom name="Art &amp; Film Director (USA) (Disk 1).woz" size="1296249" crc="9cf7534c" md5="ea8e6052b45cd6d32d2963f259f2311e" sha1="64d760d5f90b3b3bd6d4c0051599a24af9ca144f" sha256="047f2b99b0cf627f95fd38a7197dc81ff532335d3b2d23b77ef344749f353c5e"/>
+	</game>
+	<game name="Art &amp; Film Director (USA) (Disk 2)" id="0605">
+		<description>Art &amp; Film Director (USA) (Disk 2)</description>
+		<rom name="Art &amp; Film Director (USA) (Disk 2).woz" size="1296250" crc="191e6975" md5="3b09b2198ebdb8e51d071b619dad6e4a" sha1="44c74d30795d351415c828604b8aa258d3ba8a7b" sha256="48a5672a159e04c872d7f576f2116e0fa40a4a0b313dc0a4743d110727121ef8"/>
+	</game>
+	<game name="Art &amp; Film Director (USA) (Disk 3)" id="0606">
+		<description>Art &amp; Film Director (USA) (Disk 3)</description>
+		<rom name="Art &amp; Film Director (USA) (Disk 3).woz" size="1296762" crc="c69d302f" md5="d1f191b949efda186c3e28080aeb1f4a" sha1="5d8a514f4fa284473d930468f814ca89d76b7042" sha256="c811ca853ef054529fc4d877fc0b5220a2553e5ef74850e8ed7ca566d4f1e5fe"/>
+	</game>
+	<game name="Audubon Grizzly Bears - Wildlife Adventures (USA) (Disk 1)" id="1128">
+		<description>Audubon Grizzly Bears - Wildlife Adventures (USA) (Disk 1)</description>
+		<rom name="Audubon Grizzly Bears - Wildlife Adventures (USA) (Disk 1).woz" size="1296396" crc="c2590677" md5="8c0bf4fb76deb7d8177499927b7b497a" sha1="0cb36870f69aadb3c8c895d19214e327b16583b0" sha256="aa6788d4b820a9c125d350e5ab068ff0f5a9cd87574d1adb5d0b0c88a248b61c"/>
+	</game>
+	<game name="Audubon Grizzly Bears - Wildlife Adventures (USA) (Disk 2)" id="1129">
+		<description>Audubon Grizzly Bears - Wildlife Adventures (USA) (Disk 2)</description>
+		<rom name="Audubon Grizzly Bears - Wildlife Adventures (USA) (Disk 2).woz" size="1296396" crc="79ae82cc" md5="b8bc45253fe893fb7f83d36b4d103fdf" sha1="e2feb4106181279f061a05bbdbe3add69c65a2a9" sha256="03eab711aa463b6497aaf03d3dc310bfc09d9d4d57ef2fe4b1319902609f1991"/>
+	</game>
+	<game name="Audubon Whales - Wildlife Adventure (USA) (Disk 2)" id="1131">
+		<description>Audubon Whales - Wildlife Adventure (USA) (Disk 2)</description>
+		<rom name="Audubon Whales - Wildlife Adventure (USA) (Disk 2).woz" size="1296364" crc="4b787b04" md5="2a2cd899eec7a1393ddb362af3d0f587" sha1="9b13466551b1c895853d4ccefb6725a34648a79b" sha256="b57f017ea73a628bf13d14e8247b69aa285cb105be5acbbf0155131b7526ac02"/>
+	</game>
+	<game name="Audubon Whales - Wildlife Adventure (USA) (Disk 1)" id="1130">
+		<description>Audubon Whales - Wildlife Adventure (USA) (Disk 1)</description>
+		<rom name="Audubon Whales - Wildlife Adventure (USA) (Disk 1).woz" size="1296364" crc="e5cd5217" md5="020b032a2110a739f2ffb2fdcadd37a8" sha1="161168122ad2c805edf856f0ca97d79f89ec2df9" sha256="6d5acb26a5557758ffb2a62e30ebce6a5a012e2cc7fcb7c36ea96fd80cd249b2"/>
+	</game>
+	<game name="Balance of Power - The 1990 Edition (USA)" id="0033">
+		<description>Balance of Power - The 1990 Edition (USA)</description>
+		<rom name="Balance of Power - The 1990 Edition (USA).woz" size="1347407" crc="f473b2aa" md5="2557195aea221afea197daff2011f9fe" sha1="aab87027f1c52cf11d53e54e78635f4d16b22cda" sha256="04e101036ab5ea80d19837eecb7d82a47a80bf765b439d299d977e0ea02f7c49"/>
+	</game>
+	<game name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 2) (Dungeon 2 Disk)" id="1166">
+		<description>Bard's Tale II, The - The Destiny Knight (USA) (Disk 2) (Dungeon 2 Disk)</description>
+		<rom name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 2) (Dungeon 2 Disk).woz" size="234805" crc="d33c5544" md5="05df77063e9f7281291bfc4eb4d612cc" sha1="078606ec01c59137b9a50bd18ebc4410a800302a" sha256="b49ed91a7704aea923a212d1bc342438ebb0ed9125aeafc634c0aa1f6be5cf28"/>
+	</game>
+	<game name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 1) (Boot Disk)" id="1163">
+		<description>Bard's Tale II, The - The Destiny Knight (USA) (Disk 1) (Boot Disk)</description>
+		<rom name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 1) (Boot Disk).woz" size="228149" crc="d9b0aa1a" md5="14a4cb6247845745f7101f6e2c39e460" sha1="afe776009a359625f7626ba8534245d16717d592" sha256="498ea9d7fb89bb242ba5e628503f9974c6a052e4e9e0173ee4d5daee097b8ebc"/>
+	</game>
+	<game name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 1) (Character Disk)" id="1164">
+		<description>Bard's Tale II, The - The Destiny Knight (USA) (Disk 1) (Character Disk)</description>
+		<rom name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 1) (Character Disk).woz" size="234805" crc="2b16a6c7" md5="c7212f43f66a7595191a569ac7670ad7" sha1="d48ee9b3deb4346b7bbb5899adcd3206f0fb48fc" sha256="b8339d475b713d83f30eb9824f0d2a8c732e470565cc42703ed25e22b5fbedf8"/>
+	</game>
+	<game name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 2) (Dungeon 1 Disk)" id="1165">
+		<description>Bard's Tale II, The - The Destiny Knight (USA) (Disk 2) (Dungeon 1 Disk)</description>
+		<rom name="Bard's Tale II, The - The Destiny Knight (USA) (Disk 2) (Dungeon 1 Disk).woz" size="234805" crc="c5214293" md5="fd99b939d3a302180564657c46c8cab0" sha1="49f1b0559be3a94cf1e7b0c1190c57c25e3d8fb4" sha256="92a9171f820d50da5b355d19f61a8226e56a87ba0ea1ad5cf3e9465c0466cfaf"/>
+	</game>
+	<game name="Beagle Draw (USA)" id="0607">
+		<description>Beagle Draw (USA)</description>
+		<rom name="Beagle Draw (USA).woz" size="1296153" crc="66e80d46" md5="8aaaa5e730e5a233255abaaaa0ce8f0d" sha1="e1fd5c85d666fec1cc03f7bab728d11c9bcf3c3c" sha256="082db873c846893a363a14d6010ea5ea3edc246ac19667fcff405c648f326d4f"/>
+	</game>
+	<game name="BeagleWrite (USA) (v3.2)" id="0608">
+		<description>BeagleWrite (USA) (v3.2)</description>
+		<rom name="BeagleWrite (USA) (v3.2).woz" size="1296192" crc="a9910ae5" md5="ecd416278f3cd1dd8e330d446a4292d9" sha1="8f8e054eef1eaddc7a38b642de0933835fb18297" sha256="6458e97fcbe7c665ffdd304a1f123d8a0a585e9c1aebd2c1154c0e399c75dd85"/>
+	</game>
+	<game name="Beyond Zork (USA)" id="0050">
+		<description>Beyond Zork (USA)</description>
+		<rom name="Beyond Zork (USA).woz" size="1312556" crc="b312178d" md5="1d0c752c0c0f166cddd9812fa8a344fc" sha1="e08df0adda743ee92f6716fbaaa2ddd3ba2c3a05" sha256="769adb806a454235dbc0b38a34f5be6a70647bd31191144c080aee746bbe3994"/>
+	</game>
+	<game name="Black Cauldron, The (USA) (Disk 1)" id="0051">
+		<description>Black Cauldron, The (USA) (Disk 1)</description>
+		<rom name="Black Cauldron, The (USA) (Disk 1).woz" size="1296327" crc="def8c641" md5="8ac82488367cdb6354710226123a7386" sha1="951544d592da8c0203ceec45f3f6e45ec44b98e9" sha256="69c9802e2013895feb667bdb116ba48d9e08c579d2ffde7b2b2ea735c5fdcb73"/>
+	</game>
+	<game name="Black Cauldron, The (USA) (Disk 2)" id="0054">
+		<description>Black Cauldron, The (USA) (Disk 2)</description>
+		<rom name="Black Cauldron, The (USA) (Disk 2).woz" size="1296327" crc="f66ab4ff" md5="4eb372184b0663885d82a4fe7d4ddcec" sha1="32f51302f4c3458f2134dea823d30f411a8f250e" sha256="08dd6e01939aab06ab422c35ed7717b675589ce1e993af573f5f017855645932"/>
+	</game>
+	<game name="Blackjack Academy (USA)" id="0056">
+		<description>Blackjack Academy (USA)</description>
+		<rom name="Blackjack Academy (USA).woz" size="1296198" crc="339444f3" md5="87e63db82c71c7f2e5317fb8e2a0bdc1" sha1="4665623a012536cb00e29f3c9ea1e8e3d73433f9" sha256="d6cb9e796551de93e7fb7c9723a66a1e5aadc45cf4421d30da45744b9298bf11"/>
+	</game>
+	<game name="Block Out (USA)" id="0058">
+		<description>Block Out (USA)</description>
+		<rom name="Block Out (USA).woz" size="1345334" crc="1fb55ba8" md5="d136d4bcc7e6d94372a27dc99d907731" sha1="e7a299effa226f97a5563e604da6b1c20ddcc203" sha256="90400c771d716946dc07b7255e0541e2925ee0e20c7f0eb3a1ae0eb0bb6975c2"/>
+	</game>
+	<game name="Bridge 6.0 - Your Bid for Entertainment (USA)" id="0068">
+		<description>Bridge 6.0 - Your Bid for Entertainment (USA)</description>
+		<rom name="Bridge 6.0 - Your Bid for Entertainment (USA).woz" size="1296167" crc="a6b03015" md5="5f2e424ba24a6e6f6084892b91a7a5ce" sha1="1cdb48c2a7407c5bca4832e3ae6fdd976cab78e6" sha256="4508a3cf11a3a3a27581695d8eeee8cab76f1e50979e4938353b3cdf863074dc"/>
+	</game>
+	<game name="Bubble Ghost (USA)" id="0070">
+		<description>Bubble Ghost (USA)</description>
+		<rom name="Bubble Ghost (USA).woz" size="1312525" crc="e4b9eda7" md5="a73c9341ce8f3b0376a20b248ca9e4ef" sha1="6a7eb6c3dcaf5927fb0248ff1064414fdefff5a9" sha256="eae10489858eca53d48ec9932f151002f82f5ca3641a2ace12bca43febaaaf8c"/>
+	</game>
+	<game name="Calendar Crafter (USA)" id="0610">
+		<description>Calendar Crafter (USA)</description>
+		<rom name="Calendar Crafter (USA).woz" size="1345411" crc="6308e6ba" md5="30e2d10d50320e7c7ea42f4ddb4248e2" sha1="b127dfaaa517b49636854de03540602d7c698e1b" sha256="e2cb522c109c1174cd15d9d548c61a6dcb422646f3b4d8e27403fb20a484e348"/>
+	</game>
+	<game name="California Games (USA)" id="0072">
+		<description>California Games (USA)</description>
+		<rom name="California Games (USA).woz" size="1296704" crc="4f648119" md5="1cae1f6a44117f552de870a6926e1553" sha1="a4ea74ff59efe247e2ec14efe229bf61a41e6444" sha256="293f0c31930b1a469548b16efc9cc50dc56c30045f1108ff6cabafc6979fbf52"/>
+	</game>
+	<game name="Captain Blood (USA)" id="0073">
+		<description>Captain Blood (USA)</description>
+		<rom name="Captain Blood (USA).woz" size="1361758" crc="45d2ab10" md5="afebbdb1748fe94417f43d37d79252bb" sha1="7f968e1704c2a969a33cf7a07c81629c12c7577d" sha256="fb92b0219ed98e5e2dbd861207e4abc24f55ea9cd66551a17f6f52966cb74364"/>
+	</game>
+	<game name="Cavern Cobra (USA)" id="0076">
+		<description>Cavern Cobra (USA)</description>
+		<rom name="Cavern Cobra (USA).woz" size="1296147" crc="f2ba82bb" md5="6cf23066cb22ab4eeea230b93bc16eea" sha1="bbca27646cf2fb2fdb72a8500ef204f8ca2afa31" sha256="444ff3f9281c54c4455b1693caabf03acaa8c6342727f1784feeea22fe7b2f4e"/>
+	</game>
+	<game name="Club Backgammon (USA)" id="0077">
+		<description>Club Backgammon (USA)</description>
+		<rom name="Club Backgammon (USA).woz" size="1344899" crc="02fd734a" md5="7bb552d0e284703c18eacb4d058548bb" sha1="c62ad7673353aa21ccb1fab56e1df9b4e2a7a57e" sha256="01cdd566ee7e694dcb00c42bd4c322a68c59f57b10e89a16be33e49963796340"/>
+	</game>
+	<game name="Columns GS (USA)" id="0080">
+		<description>Columns GS (USA)</description>
+		<rom name="Columns GS (USA).woz" size="1296172" crc="d812dde7" md5="e12ba47de5c4433928b226e66997d6b3" sha1="069506469e9d558784a0e47cefdf29915d17a807" sha256="b8e3db389b0919a7c300acc030e64410c500beeb75eceeea5d9f338580b51122"/>
+	</game>
+	<game name="Cribbage King - Gin King (USA) (Disk 2)" id="1135">
+		<description>Cribbage King - Gin King (USA) (Disk 2)</description>
+		<rom name="Cribbage King - Gin King (USA) (Disk 2).woz" size="1345397" crc="f38659d9" md5="a275ec40a5f70b4ba4084eec3e0b4eeb" sha1="fd11f19bb38faf58e270ae07f042f259106390ad" sha256="ebb86e48ed401ea91726915709c71d6403236e213bc6d399362b346aa753cf5e"/>
+	</game>
+	<game name="Cribbage King - Gin King (USA) (Disk 1)" id="0884">
+		<description>Cribbage King - Gin King (USA) (Disk 1)</description>
+		<rom name="Cribbage King - Gin King (USA) (Disk 1).woz" size="1296245" crc="976a71a5" md5="5b4acb3e41fca331c24bcfceb9a4d1dd" sha1="3319d52f509cd072aa74cf804b206e3b14c8f348" sha256="41a2163b8975cdf0a368babb3d042eec401ce296feb91f768779ff718a8427d7"/>
+	</game>
+	<game name="Crystal Quest (USA)" id="0099">
+		<description>Crystal Quest (USA)</description>
+		<rom name="Crystal Quest (USA).woz" size="1296189" crc="3b20d9f8" md5="f55e6fecffcb92aec05039b028c71dee" sha1="a386037d68945ac452fd1a6403276531f33672fe" sha256="ca37e7a62dcfc1f01a26b079f2229ba88ae91ca8b1844a66dc03ddcf8d85b4c4"/>
+	</game>
+	<game name="Dark Castle (USA) (Disk 1)" id="0101">
+		<description>Dark Castle (USA) (Disk 1)</description>
+		<rom name="Dark Castle (USA) (Disk 1).woz" size="1296175" crc="930aae1a" md5="c6bb52b0db9f379018487a60d17462b3" sha1="22338f47ccb798018cbf70d2b8f4fa93ba4273ae" sha256="8dea7028370a7ff6bf8a6f8544f63c99bae8ebcc0b015109db5fba1cba46e9b1"/>
+	</game>
+	<game name="Dark Castle (USA) (Disk 2)" id="0103">
+		<description>Dark Castle (USA) (Disk 2)</description>
+		<rom name="Dark Castle (USA) (Disk 2).woz" size="1296175" crc="3b075e18" md5="e9f11e99da98bda9b138594079dfe77b" sha1="336fe7b7bfa5acb39abb4b3fe803938557f244e2" sha256="0c7781abf78e709e846cf3beda64b527a6fb9be5e2a2c3d89c597c129074b4fa"/>
+	</game>
+	<game name="Defender of the Crown (USA) (Disk 1)" id="0105">
+		<description>Defender of the Crown (USA) (Disk 1)</description>
+		<rom name="Defender of the Crown (USA) (Disk 1).woz" size="1296886" crc="73c57ecb" md5="9306ea274205bb516118ac30ac57d1cc" sha1="bfb82cc4c817ada07bff9e1dd06a84a2522af05a" sha256="264b9bd5d14e60835bbce553ed4bc8ff545c9b28d948f6338f5d385317451ad8"/>
+	</game>
+	<game name="Defender of the Crown (USA) (Disk 2)" id="0107">
+		<description>Defender of the Crown (USA) (Disk 2)</description>
+		<rom name="Defender of the Crown (USA) (Disk 2).woz" size="1296374" crc="5a8945a3" md5="4c2fdc0f24937c5aa187d7a917c1d832" sha1="fac77abad75d71c2f05a31ce609a944a6dc0f46f" sha256="d64586c53cf4d99707f572193fa412673ed01401b59cf49055933f0cdc9fd0f4"/>
+	</game>
+	<game name="Deja Vu (USA) (Disk 1)" id="0113">
+		<description>Deja Vu (USA) (Disk 1)</description>
+		<rom name="Deja Vu (USA) (Disk 1).woz" size="1361855" crc="45bf7709" md5="b5862e36e383c4d0a5a45957ce34a82a" sha1="02c3735f579b259c0f005f20d6c13a79ad9733fc" sha256="1fc501cd9271d3410c9532923348111388683374d4277e4d1d7696bb0778c34f"/>
+	</game>
+	<game name="Deja Vu (USA) (Disk 2)" id="1132">
+		<description>Deja Vu (USA) (Disk 2)</description>
+		<rom name="Deja Vu (USA) (Disk 2).woz" size="1361855" crc="88fcacca" md5="d684c848a0e0a31905fdf6dcd1b19d14" sha1="4d1adbb4f4b351657fbe3d874d3d8bdf40ad2e42" sha256="0c6dcc6f083c31674cf6eaaf8383eee56a67c5e9976e624db2adfe579157577a"/>
+	</game>
+	<game name="Deja Vu II (USA)" id="0115">
+		<description>Deja Vu II (USA)</description>
+		<rom name="Deja Vu II (USA).woz" size="1361905" crc="55d9e932" md5="6de724d60b80368fbea6444f9bf39be0" sha1="9a82f93d0a200435f05d0b1a0a9d37d4c1978c20" sha256="4ed40885d4984fb35c380caf98f24a6fa7b7cca294b56f6c437cdbc7e2a41a69"/>
+	</game>
+	<game name="Deluxe Paint II (USA) (Disk 2)" id="0627">
+		<description>Deluxe Paint II (USA) (Disk 2)</description>
+		<rom name="Deluxe Paint II (USA) (Disk 2).woz" size="1296398" crc="b499dc9b" md5="db79e7b2ebe41a0a809a496529c2c762" sha1="9da9d0446400ba0a14955a70c7969ae1200810a9" sha256="372c9012e54d9904c35edf23bcf38d71d660f5e7a666d727d37637aa2f10b2d4"/>
+	</game>
+	<game name="Deluxe Paint II (USA) (Disk 1)" id="0625">
+		<description>Deluxe Paint II (USA) (Disk 1)</description>
+		<rom name="Deluxe Paint II (USA) (Disk 1).woz" size="1296391" crc="b0028911" md5="f1caf15a56992d139c5b5b785166b24a" sha1="bbddbd2078877b4a2526da3cc5da856e444a1322" sha256="6ff0150057324375dd2be9f62590bf8e42593f15fb811c408a17dde7801bf1d1"/>
+	</game>
+	<game name="Designer Prints (USA) (Disk 2)" id="1133">
+		<description>Designer Prints (USA) (Disk 2)</description>
+		<rom name="Designer Prints (USA) (Disk 2).woz" size="1345405" crc="0311a18d" md5="cadde939f73cd399b0e8731e4380f263" sha1="9a3392746023ac64dc9ef22693a752c4e6968853" sha256="ae3f33fd66459bcfc59124d508dddaf10703463c879d74be95f6bbc77b028e14"/>
+	</game>
+	<game name="Designer Prints (USA) (Disk 1)" id="0640">
+		<description>Designer Prints (USA) (Disk 1)</description>
+		<rom name="Designer Prints (USA) (Disk 1).woz" size="1345404" crc="73f51fb4" md5="1891c15a1f4062b65b07c557c0bc5640" sha1="3e63b030b9608ab17c81f9c78c1e18e70d355a1d" sha256="6bee0b684e933d1717b2b699c0e81dac88284b3788c29514ecaeb8b05d1035e9"/>
+	</game>
+	<game name="Designer Puzzles (USA) (Disk 2)" id="1134">
+		<description>Designer Puzzles (USA) (Disk 2)</description>
+		<rom name="Designer Puzzles (USA) (Disk 2).woz" size="1296257" crc="bb30e33b" md5="1d861c1e26b928cd1bad29ca5d133b46" sha1="f85e79e1fff7b7af4bcfb68210beddb6126f5477" sha256="a3e6140d659ba49c315b827da4ad8441fb26138412ed31c7bd09fbe14a1b27f9"/>
+	</game>
+	<game name="Designer Puzzles (USA) (Disk 1)" id="0641">
+		<description>Designer Puzzles (USA) (Disk 1)</description>
+		<rom name="Designer Puzzles (USA) (Disk 1).woz" size="1296256" crc="8f84d33d" md5="5e1de478b35c2d487132916687fb5940" sha1="4a5695fa3d862f8c1a634b112c38329b4750ea46" sha256="3c8e99254241ef5d40258ec40a437b51a64ca3aaa99aedb0cc89868d75bb7521"/>
+	</game>
+	<game name="Destroyer (USA)" id="0116">
+		<description>Destroyer (USA)</description>
+		<rom name="Destroyer (USA).woz" size="1296658" crc="401a544a" md5="b78bf461f5b086614a6e24e68ece11dc" sha1="83004334a12e4e7b36baa132b14333741cb38d67" sha256="ddec433c1ce288f43974e2bb13b6b43d20c308da11404edde43b9f1ad186c02b"/>
+	</game>
+	<game name="Downhill Challenge (USA) (Disk 1)" id="0118">
+		<description>Downhill Challenge (USA) (Disk 1)</description>
+		<rom name="Downhill Challenge (USA) (Disk 1).woz" size="1296205" crc="ddcad7bf" md5="dad9000874d6cc1eb536566c27841b52" sha1="6f56149da5cd8ca3f7a3ec7032a5278311e4d1ed" sha256="1af25921245e1a917c159fcdb6162f5c2648f9c724e71c4612226dd1f4571843"/>
+	</game>
+	<game name="Downhill Challenge (USA) (Disk 2)" id="0119">
+		<description>Downhill Challenge (USA) (Disk 2)</description>
+		<rom name="Downhill Challenge (USA) (Disk 2).woz" size="1296203" crc="ffa192ba" md5="322a9658824be3e3b806a7646ed251eb" sha1="3fef37aa6d9aa8fdba0df6e6cb5b2a8668eca0bc" sha256="3f2c4c231e49afd2fc92dbc930005e47ea4ca34c33cd927205ba11a80d87cfcb"/>
+	</game>
+	<game name="Dragon Wars (USA)" id="0121">
+		<description>Dragon Wars (USA)</description>
+		<rom name="Dragon Wars (USA).woz" size="1296196" crc="331a8128" md5="f711611e22c41574541027f8b9973748" sha1="551d0e2fd5a4a33c41a7ba3f9b381bd41a8a7e9d" sha256="78c5ee20bf16c3a65c159c98d6fc55b3d6b43582e668735b921f3c33de6d1f2e"/>
+	</game>
+	<game name="Draw Plus (USA)" id="0656">
+		<description>Draw Plus (USA)</description>
+		<rom name="Draw Plus (USA).woz" size="1296171" crc="60ae386e" md5="7783a145083ac7d97b852b04482709c0" sha1="e31e826e10ead9211e4e9f28ce51398786efedec" sha256="db6897cd785f1a2dd51613e5dca8b1acdf1c3bce5d14d03749ae8d8aae02b09a"/>
+	</game>
+	<game name="Dream Grafix (USA)" id="0659">
+		<description>Dream Grafix (USA)</description>
+		<rom name="Dream Grafix (USA).woz" size="1328942" crc="1179d76c" md5="113416213539a8b51ebf51624e7e6489" sha1="699f5f4adac2043ff2f71619e4c6f3d2f54d7acb" sha256="1682ca609dffafdfc5428951bfe455280b6881e280203d0c210f04ffd6b2a14e"/>
+	</game>
+	<game name="Dream Zone (USA) (Disk 1)" id="0126">
+		<description>Dream Zone (USA) (Disk 1)</description>
+		<rom name="Dream Zone (USA) (Disk 1).woz" size="1296189" crc="05e8fc0d" md5="94e509cc49acd413056142c23c74c741" sha1="17e950d8bb6c7f2119c0c6f41d17f4287056180e" sha256="b531c79a9ed6ec1b42e3ab636a70699d9785ae71a6878a5557757d6d78bc5fdd"/>
+	</game>
+	<game name="Dream Zone (USA) (Disk 2)" id="0128">
+		<description>Dream Zone (USA) (Disk 2)</description>
+		<rom name="Dream Zone (USA) (Disk 2).woz" size="1296189" crc="73d7952e" md5="621f4d1be32da6d752ee3175cbb080f2" sha1="379575a78e2ae4594793738c9b71b250ba67cf17" sha256="da703c3af5d79b1688c5aa0672365603775189bacf5dc10284db98a733c5a1af"/>
+	</game>
+	<game name="Fantavision (USA)" id="0662">
+		<description>Fantavision (USA)</description>
+		<rom name="Fantavision (USA).woz" size="1296699" crc="c179c918" md5="69ab197ddcada18dd2ab5d3e94c3a999" sha1="bf336245b80f5fa0718f717cb8cfad8208996e31" sha256="cf40d548b1995307e36d6153f33f1bcdf2d55a84b280fa8babffb616aaa58ceb"/>
+	</game>
+	<game name="Fast Break (USA)" id="0136">
+		<description>Fast Break (USA)</description>
+		<rom name="Fast Break (USA).woz" size="1296720" crc="56b4f173" md5="38059f6744650f5f6d6a9fb3332ee6c0" sha1="18e1ba72192ce9e059633a62be6aae0c8b92c686" sha256="e27e1c8f771a68157874d382aec19cd94370cff7b351a1d1afb111004878ca72"/>
+	</game>
+	<game name="Fidelity, The - Chessmaster 2100 (USA) (Disk 1)" id="0139">
+		<description>Fidelity, The - Chessmaster 2100 (USA) (Disk 1)</description>
+		<rom name="Fidelity, The - Chessmaster 2100 (USA) (Disk 1).woz" size="1296183" crc="281e93dc" md5="7ed4dbfcd3125f0485c5dfb6b18ed9c0" sha1="2246f45d7deb3414c1bdcbad5d0b4f77a9db52d3" sha256="13c973173d72a0b6902e47a935cb248b7e37970bdccebb40328c3e63e3f3429a"/>
+	</game>
+	<game name="Fidelity, The - Chessmaster 2100 (USA) (Disk 2)" id="0141">
+		<description>Fidelity, The - Chessmaster 2100 (USA) (Disk 2)</description>
+		<rom name="Fidelity, The - Chessmaster 2100 (USA) (Disk 2).woz" size="1296183" crc="0c4704bc" md5="3f62c2d5be26172f5c767f0fe7981c2b" sha1="d2ea3f4fbb3cf1127c23bb1ebd32fd3adef049f9" sha256="c7aa01b234e5034cc56ccb2da8ab61019185317936f65a43283107a6ae6443bd"/>
+	</game>
+	<game name="Final Assault (USA)" id="0143">
+		<description>Final Assault (USA)</description>
+		<rom name="Final Assault (USA).woz" size="1296633" crc="968a15df" md5="c03b1aaa9a4bb8d58c7dc9360ef6dd30" sha1="214b086187df5d1122bbe84b557bb83d09546e49" sha256="7f8dbc0fd3c9545c375d042fbdcfae8874a01ca7b4792acb4491a77c2d2a4ea5"/>
+	</game>
+	<game name="Full Metal Planete (USA) (Fr)" id="0146">
+		<description>Full Metal Planete (USA) (Fr)</description>
+		<rom name="Full Metal Planete (USA) (Fr).woz" size="1345399" crc="7f957af7" md5="27dd178f2e7433596d04e653ff574860" sha1="e727b67b1905956a2a9b99d8715b8291e30c391d" sha256="6db7c4ec36fceec22b312bfb10a8033aef34585f7508b2df70de025c95afcd83"/>
+	</game>
+	<game name="Gate, The (USA) (Disk 1)" id="0149">
+		<description>Gate, The (USA) (Disk 1)</description>
+		<rom name="Gate, The (USA) (Disk 1).woz" size="1296141" crc="aaaabead" md5="2c92a87c4342ae9fadbbf751adecfb78" sha1="e2aab50a1b9290f34dd75ea0fd86d59eca3f46ca" sha256="4cac0196e6ffa2eb9c2aca8e7d2f6d20a800837d921d5411ce84de0e31255ae6"/>
+	</game>
+	<game name="Gate, The (USA) (Disk 2)" id="0150">
+		<description>Gate, The (USA) (Disk 2)</description>
+		<rom name="Gate, The (USA) (Disk 2).woz" size="1296141" crc="66696c57" md5="d08e94839edd140e23f0150aa6081f55" sha1="f4b5d21a8da6c52a3dc330c0d67c7df0c3a3b0c5" sha256="dedc8f73db66410d5b274b9fc40c02d01ccdd3eb4e1c1ab77ca9920869a10e3f"/>
+	</game>
+	<game name="Gauntlet (USA)" id="0153">
+		<description>Gauntlet (USA)</description>
+		<rom name="Gauntlet (USA).woz" size="1317604" crc="fbeb429a" md5="81a74768f26ca8a31bfca039860920ed" sha1="4df82855dd2924509681ea5a9a138aa7edce8b53" sha256="d6170ac2373ce3d462e487a54cfc94d1c1e43e7ba29994c4da8f938517904357"/>
+	</game>
+	<game name="GBA Championship Basketball - Two-on-Two (USA)" id="0155">
+		<description>GBA Championship Basketball - Two-on-Two (USA)</description>
+		<rom name="GBA Championship Basketball - Two-on-Two (USA).woz" size="1329513" crc="affed43a" md5="3fff5a49f4bb81263cab5d18077ad5c4" sha1="615e8fe867a969216381d2d3ec656d973b6a3b55" sha256="a10f8ca4382319955491f59f04be2c8dbb99e594483c19049d6ff800c1f8b5a3"/>
+	</game>
+	<game name="Gold Rush (USA) (Disk 1)" id="0165">
+		<description>Gold Rush (USA) (Disk 1)</description>
+		<rom name="Gold Rush (USA) (Disk 1).woz" size="1296214" crc="0cc92f73" md5="cf8ab5c9a0d92e0b91db5d8364019fc3" sha1="68975f2ed33b8a430f7612c54bb307c5d05b9178" sha256="315954ee133b541414c40a71d0e7b6744ed2f60f807798b8ff516e81f30ae5ca"/>
+	</game>
+	<game name="Gold Rush (USA) (Disk 2)" id="0168">
+		<description>Gold Rush (USA) (Disk 2)</description>
+		<rom name="Gold Rush (USA) (Disk 2).woz" size="1296214" crc="b69bd9ee" md5="72e9eb15dadede425daac4b9db00e0d5" sha1="af68d86f926c04cd1bdc9fb9adb05fb974f929f2" sha256="03ac7f3ee4d0f3f513f2a014225064bc10ac6b71d44cb5146ff3c46c5c40a78e"/>
+	</game>
+	<game name="Gold Rush (USA) (Disk 3)" id="0170">
+		<description>Gold Rush (USA) (Disk 3)</description>
+		<rom name="Gold Rush (USA) (Disk 3).woz" size="1296214" crc="ce77925c" md5="85d0035f92c7f672bc4df42f7f34a955" sha1="2c41022d0dcdfca9349e8ed3cc805d38ca329ab4" sha256="02b7a95622b084341d29cc692f65239a3908fd8504fe0d3005dede01e2d6861d"/>
+	</game>
+	<game name="Gold Rush (USA) (Disk 4)" id="0172">
+		<description>Gold Rush (USA) (Disk 4)</description>
+		<rom name="Gold Rush (USA) (Disk 4).woz" size="1296214" crc="5a7a5ddc" md5="3fa2411b823b025f2270921429ce76f5" sha1="6ae6d46904c3fd555bb85a612cdf2afbf2a58f5b" sha256="36a9b016a78ff65e3fc46e0374c2fdf68d5417d918f8620bc65f3e51b3486ccf"/>
+	</game>
+	<game name="Grand Prix Circuit (USA)" id="0174">
+		<description>Grand Prix Circuit (USA)</description>
+		<rom name="Grand Prix Circuit (USA).woz" size="1296752" crc="a895e303" md5="3e88523f22c828fbaae9c1ce4f057001" sha1="18237633ba940ffea726867aba4b3a53445b7ea7" sha256="229a37cdf5856bc5bd8416cf9f6a7608c5a4f0607361540985ea502b18f6db61"/>
+	</game>
+	<game name="Graphic Writer III (USA) (v1.0) (Disk 1)" id="0684">
+		<description>Graphic Writer III (USA) (v1.0) (Disk 1)</description>
+		<rom name="Graphic Writer III (USA) (v1.0) (Disk 1).woz" size="1360720" crc="20234e53" md5="6cdd930ba37fd944ec8434237d9f6c3e" sha1="de039d332924765b21e90296020d1d34bc53ac35" sha256="ef8b9b762f9641eb61f7e200c25d6ce2367460ae2f9c10d0a247ac4ed586482d"/>
+	</game>
+	<game name="Graphic Writer III (USA) (v1.0) (Disk 2)" id="0685">
+		<description>Graphic Writer III (USA) (v1.0) (Disk 2)</description>
+		<rom name="Graphic Writer III (USA) (v1.0) (Disk 2).woz" size="1296208" crc="0b82c50b" md5="ad8b8771513b9615ecab53258bceb1e0" sha1="f9eddd4ab85144b608b72e486484ead4f8c5bb11" sha256="627473b5626a5831891478f0b53204811da94c8f0a1c2f9981e7756ba7e54e00"/>
+	</game>
+	<game name="Graphic Writer III (USA) (v1.0) (Disk 3)" id="1136">
+		<description>Graphic Writer III (USA) (v1.0) (Disk 3)</description>
+		<rom name="Graphic Writer III (USA) (v1.0) (Disk 3).woz" size="1360720" crc="a62a325f" md5="c292d2e49306853e5bb084fbcee844db" sha1="c2499046e52c002bcd48352535633bd6eb577152" sha256="bcbca4f974240e9d7aba4bbc48d42ac904b63f209056adb9a68cb234b4921d83"/>
+	</game>
+	<game name="Graphics Studio (USA)" id="0690">
+		<description>Graphics Studio (USA)</description>
+		<rom name="Graphics Studio (USA).woz" size="1296696" crc="19c9e6bf" md5="b165401ccb4875ed1a13b3faba412ae2" sha1="97e5f4a0a05c818862a580b7bcb5663241d72e78" sha256="dbfdb9c85231ae480e55b9892855abae43565c43cf5ed2f66a916d5ed6b39b24"/>
+	</game>
+	<game name="Graphics Supermarket (USA)" id="0691">
+		<description>Graphics Supermarket (USA)</description>
+		<rom name="Graphics Supermarket (USA).woz" size="1328978" crc="b34c7131" md5="77ab8de53919f5fbb6dc8e18a430ae3c" sha1="dec9c9c89d6d5219ed28e7a56e7cef1683970394" sha256="845b5d9e60630003e2e50c445aed286d86a997ea6bcbde51c745fab6cebaac5c"/>
+	</game>
+	<game name="Great Western Shootout (USA) (Disk 1)" id="0176">
+		<description>Great Western Shootout (USA) (Disk 1)</description>
+		<rom name="Great Western Shootout (USA) (Disk 1).woz" size="1296194" crc="65d9538c" md5="8c2a4def9c2f8ce4d9a31f82f8c8c55b" sha1="c41a1a7796c4d67432b546cebc7997d9a5cfb22d" sha256="35c8a0061cf89175c9eb1faed8885f199c820664cca0568efb172971bdb8e9b7"/>
+	</game>
+	<game name="Great Western Shootout (USA) (Disk 2)" id="1137">
+		<description>Great Western Shootout (USA) (Disk 2)</description>
+		<rom name="Great Western Shootout (USA) (Disk 2).woz" size="1296194" crc="8e664521" md5="4fd3e4ef08f8bf56aa2d5f4e954edac3" sha1="aa738a532332574481bcadb9c071e0dfe0730e24" sha256="d3c83a5b319150b03d039290168eedc8ea04534c8fab6f1c1a61ae9d87390f11"/>
+	</game>
+	<game name="Hacker II (USA)" id="0178">
+		<description>Hacker II (USA)</description>
+		<rom name="Hacker II (USA).woz" size="1296186" crc="5601d8b7" md5="3b3c82da9eda1b0b6091948ed3ee052b" sha1="7d542579d2a127adefca5d10cb996e5a69fdb2cb" sha256="1022f00d2790bfdf47ecfb5efad580b44de4cac05a540acbf30453b5bac241c0"/>
+	</game>
+	<game name="Halls of Montezuma (USA) (Disk 1)" id="0181">
+		<description>Halls of Montezuma (USA) (Disk 1)</description>
+		<rom name="Halls of Montezuma (USA) (Disk 1).woz" size="1296238" crc="e9e5007e" md5="08ada1a52804e0eb28a6c0667521cd08" sha1="d562bcf62a8b5dfab0d991279b9372ae0af55e35" sha256="ec488c6b73ba6e9d56de9dcb0a403bb098884926a1a0948b2aaacf9084a6e515"/>
+	</game>
+	<game name="Halls of Montezuma (USA) (Disk 2)" id="0183">
+		<description>Halls of Montezuma (USA) (Disk 2)</description>
+		<rom name="Halls of Montezuma (USA) (Disk 2).woz" size="1296238" crc="390131dd" md5="a44197314bbfe245dd5ab1399137d86d" sha1="0d75cf473647631351edb2871710cdd684094e7b" sha256="a74d4b0c9a556dda43a3e1e09066c5198c4ec0716b28b4837468e69279bab5df"/>
+	</game>
+	<game name="Hardball! (USA)" id="0185">
+		<description>Hardball! (USA)</description>
+		<rom name="Hardball! (USA).woz" size="1296700" crc="a9e23a1c" md5="fd31068abcef62c45de6539696d2b706" sha1="8849b47b90a09cdb9fc2daf419d06bcf9ac0253f" sha256="4167b67b6e3dc63601d222217c78758aa7fd73bdab8d103ca68e3fbf7a1f0ad8"/>
+	</game>
+	<game name="Hostage - Rescue Mission (USA)" id="0188">
+		<description>Hostage - Rescue Mission (USA)</description>
+		<rom name="Hostage - Rescue Mission (USA).woz" size="1361742" crc="e094007a" md5="1818c20edec093080ad480d59de4e6fc" sha1="14ee3d0863bcb7170ba1bdab21876687f4ce619a" sha256="b00e34a3bcb54af0d4057dd103329022a8e5ee2b6509d05c96839523178c3ede"/>
+	</game>
+	<game name="Hover Blade (USA) (Disk 1)" id="0190">
+		<description>Hover Blade (USA) (Disk 1)</description>
+		<rom name="Hover Blade (USA) (Disk 1).woz" size="1345297" crc="dea1f1bf" md5="cbccdc9a848baa76b17ad7472b6fc872" sha1="f15fa4a7894908b48fa7038521e0ca37cada2656" sha256="a603313af69df9f508790b579aa65fd938e36d883a9ad66d993df78950c1dbc7"/>
+	</game>
+	<game name="Hover Blade (USA) (Disk 2)" id="0191">
+		<description>Hover Blade (USA) (Disk 2)</description>
+		<rom name="Hover Blade (USA) (Disk 2).woz" size="1345297" crc="c63ec5d5" md5="18cce7f3d9d8491b1bf29256d99a41b6" sha1="bb90b71a84b5f9d3809342e27a303638208194bb" sha256="676b4bf189f9280235d24b27bd54019146779d2c4adc6b78f494763e1d229155"/>
+	</game>
+	<game name="Hunt for Red October, The (USA)" id="0192">
+		<description>Hunt for Red October, The (USA)</description>
+		<rom name="Hunt for Red October, The (USA).woz" size="1343773" crc="60d2cfa9" md5="51cb1d19d72fc4df1632e793be2a65d3" sha1="5a80858e78527d2fe19c8e7c94785d2ecbc39a4e" sha256="34d6d9ce2804c1127ed5428ec47c6c20389e4663556133a5acc122fd7029391e"/>
+	</game>
+	<game name="HyperStudio (USA) (v3.1c) (Disk 6)" id="1143">
+		<description>HyperStudio (USA) (v3.1c) (Disk 6)</description>
+		<rom name="HyperStudio (USA) (v3.1c) (Disk 6).woz" size="1296332" crc="9b75ac57" md5="56cd811f841cb4022477bc1942f0b8b8" sha1="60ca027728e1c4252cc1ea1d3b62f7c2260ffc46"/>
+	</game>
+	<game name="HyperStudio (USA) (v3.1c) (Disk 7)" id="1144">
+		<description>HyperStudio (USA) (v3.1c) (Disk 7)</description>
+		<rom name="HyperStudio (USA) (v3.1c) (Disk 7).woz" size="1296332" crc="4ec61e88" md5="07ba1b65a236082b19934f53c8751724" sha1="8aeb610008ba430aa78cf59f2565b14f4d666e11"/>
+	</game>
+	<game name="HyperStudio (USA) (v3.1c) (Disk 5)" id="1142">
+		<description>HyperStudio (USA) (v3.1c) (Disk 5)</description>
+		<rom name="HyperStudio (USA) (v3.1c) (Disk 5).woz" size="1296332" crc="59075668" md5="17b7e1dd9e11c6260eac1322c1b7891f" sha1="42c47278b34b37054980255a136447e603bc6a62"/>
+	</game>
+	<game name="HyperStudio (USA) (v3.1c) (Disk 3)" id="1140">
+		<description>HyperStudio (USA) (v3.1c) (Disk 3)</description>
+		<rom name="HyperStudio (USA) (v3.1c) (Disk 3).woz" size="1296331" crc="72d2c492" md5="f7cf84ce1b57faf0b603e240ea218aea" sha1="cb36c4183aea90fc4e31136ea3b23c78e628f5f5"/>
+	</game>
+	<game name="HyperStudio (USA) (v3.1c) (Disk 4)" id="1141">
+		<description>HyperStudio (USA) (v3.1c) (Disk 4)</description>
+		<rom name="HyperStudio (USA) (v3.1c) (Disk 4).woz" size="1296329" crc="a58110b6" md5="25e761207f01b7140d4f765db25e01e7" sha1="7574471d6720393fbbdc59a177f6d6540b7fc659"/>
+	</game>
+	<game name="HyperStudio (USA) (v3.1c) (Disk 1)" id="1138">
+		<description>HyperStudio (USA) (v3.1c) (Disk 1)</description>
+		<rom name="HyperStudio (USA) (v3.1c) (Disk 1).woz" size="1296332" crc="105cd440" md5="88e03ddd79748c635e25823ca7ca2fb5" sha1="6eb1490032644870e3d7b2198307f92b9f4c9726"/>
+	</game>
+	<game name="HyperStudio (USA) (v3.1c) (Disk 2)" id="1139">
+		<description>HyperStudio (USA) (v3.1c) (Disk 2)</description>
+		<rom name="HyperStudio (USA) (v3.1c) (Disk 2).woz" size="1296334" crc="dddc1718" md5="54a08df80f32206f4f2271b87bfdad63" sha1="c79d9ae79e9b3b05d404b6fcfc860c2032610749"/>
+	</game>
+	<game name="ImageMaster - Basic Paint (USA)" id="0715">
+		<description>ImageMaster - Basic Paint (USA)</description>
+		<rom name="ImageMaster - Basic Paint (USA).woz" size="1296161" crc="5daefc49" md5="1de77f80ee6299955c89b8dd9b7ea93b" sha1="f2eec1054c8bcdd0fd94951be018873a0c1d991a" sha256="bd91ec10655fc03e78b5b89df9d349cc1fdab7bde2a9303f116462af13d70c69"/>
+	</game>
+	<game name="Immortal, The (USA) (Disk 1)" id="0194">
+		<description>Immortal, The (USA) (Disk 1)</description>
+		<rom name="Immortal, The (USA) (Disk 1).woz" size="1296229" crc="b804341e" md5="e2f4db6cbcb2ac48f70301b629368189" sha1="72322fd7d8e5d3904bd89796725fb106d3cca5a5" sha256="fbb382b5ccdeaedb4d2f6a95355ed42947894b191416e2837cc8b1b898fbc783"/>
+	</game>
+	<game name="Immortal, The (USA) (Disk 2)" id="0197">
+		<description>Immortal, The (USA) (Disk 2)</description>
+		<rom name="Immortal, The (USA) (Disk 2).woz" size="1296226" crc="bf428297" md5="40a6209051d97c906e02dceed6f5025a" sha1="cdf5ea12029204a4a8dfed975d2c917406e3a7d5" sha256="f7ca6371f659cd54a3b0015afbcdd25bec8df63034f793d05678ac7f542b3628"/>
+	</game>
+	<game name="Impossible Mission II (USA)" id="0200">
+		<description>Impossible Mission II (USA)</description>
+		<rom name="Impossible Mission II (USA).woz" size="1296662" crc="fdc001f2" md5="89fba7e20924b4e4b3883599b7c9d34a" sha1="db6c4c217013a1a4c1b89c87d0956c7a8b21df7c" sha256="c90e05fe01da36187b7ddbf6b38dc9070727298f1c43bf2b5a1a67d612581f98"/>
+	</game>
+	<game name="Instant Synthesizer (USA) (Disk 2)" id="0719">
+		<description>Instant Synthesizer (USA) (Disk 2)</description>
+		<rom name="Instant Synthesizer (USA) (Disk 2).woz" size="1296227" crc="b3f3db36" md5="117aaddc9926050baf1b5ce3ca6235b0" sha1="278993013a1eb963e06f78af6d5f58d48cd86fc1" sha256="5ddce2c0e2f246869307e8afde6de123abbe89afe465ba5ecb71fa66c83369bb"/>
+	</game>
+	<game name="Instant Synthesizer (USA) (Disk 1)" id="0718">
+		<description>Instant Synthesizer (USA) (Disk 1)</description>
+		<rom name="Instant Synthesizer (USA) (Disk 1).woz" size="1296230" crc="d4e982f6" md5="fa3ef754732cdf38b01746b9114bcb82" sha1="25eecac855d0784ba5df1125cecde22977d1474c" sha256="d664661c04b6b9c20b911c535b1032fe41131eba41280a41e1f3c70a4ef9093b"/>
+	</game>
+	<game name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 1)" id="0203">
+		<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 1)</description>
+		<rom name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 1).woz" size="1296252" crc="42a132b9" md5="a80e46c410e330711f9f5194c69d4de4" sha1="ba9a7d0f8865b990b4c01d9b44fa82fe067f275e" sha256="5bbe05d4bfbace2fa0eefb4c12e5226ce6a968d952f5089524648f9910078547"/>
+	</game>
+	<game name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 2)" id="0206">
+		<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 2)</description>
+		<rom name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 2).woz" size="1296251" crc="668bfa15" md5="b1260572c180ea92bd1bae339f46d89f" sha1="1b50bcfd3eeee7a0730f789bcda75530941c3770" sha256="6ee96581af2ef41b59b016dac484b53be077969477a943fe6f63d2749f507be9"/>
+	</game>
+	<game name="Jam Session (USA) (Disk 2)" id="0726">
+		<description>Jam Session (USA) (Disk 2)</description>
+		<rom name="Jam Session (USA) (Disk 2).woz" size="1296249" crc="58e8e887" md5="19f836de880ac3efffd43f8695f69efb" sha1="e2c8115252a4729ae1dcd8e47a6ca9efc1857384" sha256="b206ce9ced0608bca63ccd1dbf061870a36188f7fb8ef205c3467b428dd12f49"/>
+	</game>
+	<game name="Jam Session (USA) (Disk 1)" id="0723">
+		<description>Jam Session (USA) (Disk 1)</description>
+		<rom name="Jam Session (USA) (Disk 1).woz" size="1296761" crc="b145977d" md5="387cc69a613f2f70056f7b2e8527e917" sha1="5d5e075af05dcb8eed20453e42b6654835aece3e" sha256="56d5c2e258fa12ae5b3ffa738dd66cc2fe21ffc1a10ba62aad389e39a7900884"/>
+	</game>
+	<game name="Jigsaw (USA) (Disk 1)" id="0212">
+		<description>Jigsaw (USA) (Disk 1)</description>
+		<rom name="Jigsaw (USA) (Disk 1).woz" size="1296764" crc="1b4cac90" md5="293a95523b56f696104c3e0f5373004d" sha1="e429fe5e5149e7b5c5a812b74de6a7da3a9237cc" sha256="974588d8e795c2debf6691186735e7d35227181dce292eeb6289c39fe0d55496"/>
+	</game>
+	<game name="Jigsaw (USA) (Disk 2)" id="0215">
+		<description>Jigsaw (USA) (Disk 2)</description>
+		<rom name="Jigsaw (USA) (Disk 2).woz" size="1296255" crc="522b9621" md5="0f482b6e62839b8653d2c91634854d71" sha1="646e277b6c8d32b5f4e96a6387341405b9db4951" sha256="90f72859b769503db1a0bb63409c064caf6b3be2049e7d4b5e053e4566831557"/>
+	</game>
+	<game name="John Elway's Quarterback (USA)" id="0216">
+		<description>John Elway's Quarterback (USA)</description>
+		<rom name="John Elway's Quarterback (USA).woz" size="1312567" crc="f730957b" md5="77bd74b2a44d65b9148eab7f275f8f58" sha1="8484a0b8380a46a07ca3674507fcd857c385947e" sha256="63c30321e39ae7b9825637690804c7c4530e9b136b0cfb1054776a9009703806"/>
+	</game>
+	<game name="Keef the Thief (USA) (Disk 1)" id="0221">
+		<description>Keef the Thief (USA) (Disk 1)</description>
+		<rom name="Keef the Thief (USA) (Disk 1).woz" size="1312659" crc="9ebed3ef" md5="7ec21582c38469333f0907b5364c5641" sha1="856928857d778dace377a99a86657cf1a87b4064" sha256="6dfa8559468238a17a6f82614093fd2f37502f08d4666a6679cc8aac67afbf79"/>
+	</game>
+	<game name="Keef the Thief (USA) (Disk 2)" id="0225">
+		<description>Keef the Thief (USA) (Disk 2)</description>
+		<rom name="Keef the Thief (USA) (Disk 2).woz" size="1312605" crc="561496ac" md5="f3b86e30dd65507268e2b652c60f04fd" sha1="78d9793b3fb4b536d4d5411315e3cc144e492472" sha256="fbd9bced2fd8f4f18deaa7382ec18709fce713d05fef58db3da2f9dceff28e2a"/>
+	</game>
+	<game name="King of Chicago, The (USA) (Disk 1)" id="0227">
+		<description>King of Chicago, The (USA) (Disk 1)</description>
+		<rom name="King of Chicago, The (USA) (Disk 1).woz" size="1296682" crc="41530912" md5="487f0bcd01dbbc14c0e0f5e7459667c2" sha1="85fb08f8da981e9cc87edf8446e722ab7eefae91" sha256="f7de98a088e105269e87e75ac5115c5096bc86f8a56b194e842b97c98213503b"/>
+	</game>
+	<game name="King of Chicago, The (USA) (Disk 2)" id="0230">
+		<description>King of Chicago, The (USA) (Disk 2)</description>
+		<rom name="King of Chicago, The (USA) (Disk 2).woz" size="1296170" crc="a53c37c0" md5="57a53e3870edbe1e129d5ea4356a2de2" sha1="ff0519cf1b17e77587d82a41c12c836f44e21ab5" sha256="b7deabfbd29ac4f70331cdf82a2aae6cdc4c44b3a2da057d186ae444cde4f5e4"/>
+	</game>
+	<game name="King's Quest (USA) (Disk 1)" id="0232">
+		<description>King's Quest (USA) (Disk 1)</description>
+		<rom name="King's Quest (USA) (Disk 1).woz" size="1296282" crc="813e5b11" md5="70868f9d56d5b53db4e9ae8720abab82" sha1="8e61a96821460da26d8e9c567e358ec18d15c535" sha256="37c7c8d812dd7b86bb834303f578e298b277c60a94c3020f100272b54b5bcc20"/>
+	</game>
+	<game name="King's Quest (USA) (Disk 2)" id="0234">
+		<description>King's Quest (USA) (Disk 2)</description>
+		<rom name="King's Quest (USA) (Disk 2).woz" size="1298330" crc="832a3043" md5="624fe3a6276cff55fc225b1c99549b06" sha1="7fe827331b55408b478ffb45330a09de73234ebb" sha256="6b207e0d984dc731047b26ccdc3a1359e83e71a3756bd9481ba9ea3838222a7e"/>
+	</game>
+	<game name="King's Quest II - Romancing the Throne (USA) (Disk 1)" id="0236">
+		<description>King's Quest II - Romancing the Throne (USA) (Disk 1)</description>
+		<rom name="King's Quest II - Romancing the Throne (USA) (Disk 1).woz" size="1312707" crc="df46df6b" md5="549a0dc7a09a5dbb39c62e4b85e0ef0a" sha1="bc29f617b36e77f064f13b371db1a0ed6e8cc1de" sha256="b46b200d70e46d80ebdc200ec053c94591ae15739b4fc8efea7167fe93cde8ac"/>
+	</game>
+	<game name="King's Quest II - Romancing the Throne (USA) (Disk 2)" id="0239">
+		<description>King's Quest II - Romancing the Throne (USA) (Disk 2)</description>
+		<rom name="King's Quest II - Romancing the Throne (USA) (Disk 2).woz" size="1312707" crc="23294f32" md5="393ce0464d9213c4f8bab422ce2f7378" sha1="e0e383b140d7eafd3b94faeb12074564a8d0a24b" sha256="80a0f65dfdc9d595b861c5dc7d8cd79a148cc71c19441e15dd7050eec7c28ff6"/>
+	</game>
+	<game name="King's Quest III (USA) (Disk 1)" id="0242">
+		<description>King's Quest III (USA) (Disk 1)</description>
+		<rom name="King's Quest III (USA) (Disk 1).woz" size="1296426" crc="cf25ed37" md5="60246448500776ce9bc758ce6cdaee18" sha1="0dd9185c47c0607f5342c01b3cf0ca42d6b5a187" sha256="0daa74da84853b4c9595e097e6ea52e97ed0621c6be02cc85468759ce173e89d"/>
+	</game>
+	<game name="King's Quest III (USA) (Disk 2)" id="0244">
+		<description>King's Quest III (USA) (Disk 2)</description>
+		<rom name="King's Quest III (USA) (Disk 2).woz" size="1296426" crc="738e9164" md5="89f37bb9b1338506340891cd7b6a531b" sha1="ef78a433efc4b54aa3014facb3bc4fdb0e3446cf" sha256="c818f13572c149b7f77eb581717e4a0c367e70b0c5533b94a9142d7915168cce"/>
+	</game>
+	<game name="King's Quest IV (USA) (Disk 1)" id="0246">
+		<description>King's Quest IV (USA) (Disk 1)</description>
+		<rom name="King's Quest IV (USA) (Disk 1).woz" size="1296374" crc="ff747ad4" md5="54abb5d7d683122d8331f66e1116cb64" sha1="6a216fc73cf146418bcc4cb2a0b159e1d96d367b" sha256="3c59b6c0bcfef2db3df181942130a3b5e93c8ac043ec0871e0215502865b8655"/>
+	</game>
+	<game name="King's Quest IV (USA) (Disk 2)" id="0249">
+		<description>King's Quest IV (USA) (Disk 2)</description>
+		<rom name="King's Quest IV (USA) (Disk 2).woz" size="1296374" crc="f209e379" md5="cbf3bebf7a8282d8e41675af369a5fe7" sha1="5b0a275432a495b86eb325a65558e340f15bcea4" sha256="f6089d3c07dcb064aa5cf5611a7c779ece05a3bc100f899c7dd2bcfe1cfdbb2f"/>
+	</game>
+	<game name="King's Quest IV (USA) (Disk 3)" id="0252">
+		<description>King's Quest IV (USA) (Disk 3)</description>
+		<rom name="King's Quest IV (USA) (Disk 3).woz" size="1296374" crc="65f8435a" md5="908da227dd3c77c182e881f67e083a6e" sha1="e20ba8c160e6609efa9d3576bef83c798dd2c436" sha256="5a018ddd3f9dc882238e155e8f88293c08d4348696e8f09953132bc3f34a5531"/>
+	</game>
+	<game name="Laser Force (USA) (Disk 1)" id="0256">
+		<description>Laser Force (USA) (Disk 1)</description>
+		<rom name="Laser Force (USA) (Disk 1).woz" size="1296206" crc="03943e06" md5="9cbce1a3d34d4618cabe2d360b4fc312" sha1="8efcc99202e3f9fae8058d8cc7f0c66902c52ae6" sha256="fcaf9c031d5dc3c561e45bcf7f6fdf6ae8e0e40d105797f8b1de56c21b934d56"/>
+	</game>
+	<game name="Laser Force (USA) (Disk 2)" id="1145">
+		<description>Laser Force (USA) (Disk 2)</description>
+		<rom name="Laser Force (USA) (Disk 2).woz" size="1296206" crc="4eb5535b" md5="4c75e61a016997a9cc18a1f3e37ff68a" sha1="1a53e508eab191f92835990f3195498da8c615a7" sha256="59f90edc36c3253ed6c3cc530c43f5f84e68a2bddaba9e058df4f2275be20c93"/>
+	</game>
+	<game name="Last Ninja, The (USA)" id="1167">
+		<description>Last Ninja, The (USA)</description>
+		<rom name="Last Ninja, The (USA).woz" size="1312599" crc="ed5aaf38" md5="fcbacb65801ac937eeb6440a36fa8064" sha1="15500a6600c806a683148297a32314b1d63116e4" sha256="96aa4feb23a9f092e9c790a2a41dbb2a0380d5b3e73d2298b6d2bb6104d86487"/>
+	</game>
+	<game name="Leisure Suit Larry in the Land of the Lounge Wizard (USA) (Disk 1)" id="0261">
+		<description>Leisure Suit Larry in the Land of the Lounge Wizard (USA) (Disk 1)</description>
+		<rom name="Leisure Suit Larry in the Land of the Lounge Wizard (USA) (Disk 1).woz" size="1312662" crc="31bf3aad" md5="9ac72ab0b0854d26de516fd7b9a6d40e" sha1="f1daad9a5a04cd2ae82c5fa3a315741a66a64126" sha256="c3e82642b92e3ab0336ee3b5dcbcb77cc6038901310f57eab838c53632efc481"/>
+	</game>
+	<game name="Leisure Suit Larry in the Land of the Lounge Wizard (USA) (Disk 2)" id="0264">
+		<description>Leisure Suit Larry in the Land of the Lounge Wizard (USA) (Disk 2)</description>
+		<rom name="Leisure Suit Larry in the Land of the Lounge Wizard (USA) (Disk 2).woz" size="1312662" crc="b990e5bd" md5="223277e29b844c227382550641515aaf" sha1="022bc36381aaa325153139cbc04da276fb8e1fbe" sha256="f86620f79d8201494ba03da76a6b708a706397ab95b7f068df235b32149b8c2f"/>
+	</game>
+	<game name="Mad Libs (USA)" id="1146">
+		<description>Mad Libs (USA)</description>
+		<rom name="Mad Libs (USA).woz" size="1328903" crc="91007135" md5="60ffd66efcc397b72bacf30944cd59f9" sha1="73eba5eb4cb6b0b99d04c6b8aa9790ccb866b2d4" sha256="8dafb5321526ead9422e164cc87f279c871e39273297aad63a0fc09791a69dca"/>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 1)" id="0285">
+		<description>Manhunter - New York (USA) (Disk 1)</description>
+		<rom name="Manhunter - New York (USA) (Disk 1).woz" size="1345384" crc="8862c002" md5="d759cab6d503b2cccc172d659ca7a5b0" sha1="064b29d944f02fce20e407c451d435365a8fe0fb" sha256="98d054b78318a9e79f5afb385c439b5e75167eec2910e2c5a68169685071b24b"/>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 2)" id="0288">
+		<description>Manhunter - New York (USA) (Disk 2)</description>
+		<rom name="Manhunter - New York (USA) (Disk 2).woz" size="1345384" crc="f17f2cfa" md5="39dfaad7b404ae84cd88d9785ea0b804" sha1="0d915aec7f33375d8ba46c1c4419d8986a6360b0" sha256="3bdc457a2ee475d54bde9bede9f9a0838b6d6d962d574fd630d64616e26db730"/>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 3)" id="0292">
+		<description>Manhunter - New York (USA) (Disk 3)</description>
+		<rom name="Manhunter - New York (USA) (Disk 3).woz" size="1345384" crc="bd448818" md5="13036710bec77abcf09b15b88a786a85" sha1="dcc058c912d3a291ede35a2b99ca59519f47d0c9" sha256="dc8000cd2a3b30421b72f2e4012d1b45eb3704de9ae9141480fba2a445ebe57d"/>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 4)" id="0296">
+		<description>Manhunter - New York (USA) (Disk 4)</description>
+		<rom name="Manhunter - New York (USA) (Disk 4).woz" size="1345384" crc="660c6483" md5="b2ac8f96fb3d4b34a2da6631af9bdcf7" sha1="21aca32e5fb3fa843ca660de8c6a3354df99106a" sha256="3a2696848ba35bfad757321c78361b7dbe4f054c9dd3ed780a57fcdb444ff6b7"/>
+	</game>
+	<game name="Master Tracks Jr. (USA) (v1.03)" id="0737">
+		<description>Master Tracks Jr. (USA) (v1.03)</description>
+		<rom name="Master Tracks Jr. (USA) (v1.03).woz" size="1329990" crc="763ca9f0" md5="e7b0107f7f72038d798d0604e9466c6c" sha1="2daa4d51640810c823b852720d89a5aeda615522" sha256="744d88b0ad7dd036da51064f190236a9d570c2bde50c182a62b178895d4aba65"/>
+	</game>
+	<game name="Master Tracks Pro (USA) (v1.04)" id="0738">
+		<description>Master Tracks Pro (USA) (v1.04)</description>
+		<rom name="Master Tracks Pro (USA) (v1.04).woz" size="1345349" crc="4c8cb4f7" md5="fe9fe3eab209a9b37238123ed19ddd2b" sha1="fb5db1100b1512186113fa9d8396b649ab1db9c7" sha256="0dbcc81036133d4b40ce7bfce6a6c498dc3d6b781e1d76c2cceb03aaa92f4118"/>
+	</game>
+	<game name="Math and Me (USA)" id="1014">
+		<description>Math and Me (USA)</description>
+		<rom name="Math and Me (USA).woz" size="1328947" crc="b732477d" md5="5ee9438646c50e81217c246db95fd7e7" sha1="d9270d665cd209b85eb9c3bb6df4a37468150ebe" sha256="a2c575374686c603f54846a68b2e2960edfcadde454bae60b55eea8482887b1f"/>
+	</game>
+	<game name="Mavis Beacon (USA) (Disk 1)" id="1020">
+		<description>Mavis Beacon (USA) (Disk 1)</description>
+		<rom name="Mavis Beacon (USA) (Disk 1).woz" size="1289492" crc="aca9e637" md5="d5a8161b1beb7e9ede7a671d6150c0d5" sha1="d2c04b96e16d17a10a47f2422e9a14547957a67e" sha256="517725aa2e270311bc2733d5f649e2c2c253c6adbdd43032675607c34ee0ed62"/>
+	</game>
+	<game name="Mavis Beacon (USA) (Disk 2)" id="1021">
+		<description>Mavis Beacon (USA) (Disk 2)</description>
+		<rom name="Mavis Beacon (USA) (Disk 2).woz" size="1296148" crc="6c39595e" md5="7e007230aca1420b43f162f92292f18a" sha1="40461f3e81396be49bcb8af1d95de4f3fc1e4a3e" sha256="5ccd1ead04746302b59eb4add4d7bb93fa56a21432f56018e358ace30cb94412"/>
+	</game>
+	<game name="Mean 18 (USA) (Disk 1)" id="0304">
+		<description>Mean 18 (USA) (Disk 1)</description>
+		<rom name="Mean 18 (USA) (Disk 1).woz" size="1329494" crc="0bff6131" md5="f67a9188b25540c6a42da0ad01bd34ec" sha1="a4f312c1e20e1f6f56aa7a150b1e3c2a055a659b" sha256="f18ad883c629d3a6d92689c58cce066ae14b028c0f809031ec78a4cb0ab8e8ad"/>
+	</game>
+	<game name="Mean 18 (USA) (Disk 2)" id="0306">
+		<description>Mean 18 (USA) (Disk 2)</description>
+		<rom name="Mean 18 (USA) (Disk 2).woz" size="1296258" crc="13d63de6" md5="3549c89af048cab9a6165c98b7284037" sha1="1e2415846c7dc1c7ef213965c039fa2ae1cf07f9" sha256="90f92ff46137a17f00a7780b66b5a3cc1c8d35ee339913d119a0d33c0fc44d05"/>
+	</game>
+	<game name="Mean 18 (USA) (Disk 3)" id="0307">
+		<description>Mean 18 (USA) (Disk 3)</description>
+		<rom name="Mean 18 (USA) (Disk 3).woz" size="1297284" crc="57051e09" md5="eeb36c278874a02665ae3fdd4ab8cf6e" sha1="1f077302afab70811c901eb6f40d4e4b3d48a997" sha256="e91df212d13d028ea17e8e49bb21c20de8b74aed4b6a36c0f359da3a2035df41"/>
+	</game>
+	<game name="Mean 18 (USA) (Disk 4)" id="0308">
+		<description>Mean 18 (USA) (Disk 4)</description>
+		<rom name="Mean 18 (USA) (Disk 4).woz" size="1297250" crc="f9e50694" md5="d7c0d46a96f0342f142c7bd0ad009aa9" sha1="75871ecc202b0535e45253c5c28ef8447853389f" sha256="64ebe0ea44018f565563f9161cfd68b05d66b4cd7cf353ba4fe83396eda4830e"/>
+	</game>
+	<game name="Mercury (USA) (Disk 2)" id="1147">
+		<description>Mercury (USA) (Disk 2)</description>
+		<rom name="Mercury (USA) (Disk 2).woz" size="1345427" crc="f89fd07d" md5="4142c55b36ac64941b32a8d5fa605a89" sha1="ef7cc05c80ca00c37d79a3604a2280b85c9b9e2a" sha256="32ab802aab9c2615251ca154478bbab8799a8d8748925cf093305fc1020c2d51"/>
+	</game>
+	<game name="Mercury (USA) (Disk 1)" id="0747">
+		<description>Mercury (USA) (Disk 1)</description>
+		<rom name="Mercury (USA) (Disk 1).woz" size="1345426" crc="43b4de3c" md5="6febe021e248069d00884c15b3b08620" sha1="454548d46d73637756546557cb6dd49f38a22cb8" sha256="d9ef39e6bba85efc25ae8ab9d57a57c9d0df78a9d459416e4efe8ea5899b55b0"/>
+	</game>
+	<game name="Mini-Putt - The Ultimate Challenge (USA)" id="0316">
+		<description>Mini-Putt - The Ultimate Challenge (USA)</description>
+		<rom name="Mini-Putt - The Ultimate Challenge (USA).woz" size="1296636" crc="043ffe92" md5="51e8975d6dc80dee3869fbd9a06b7445" sha1="cace02db6788d3142d4704264422289beb2a8bbc" sha256="fa028d029b9c6b0d317196da71a5ea540df2b1cdd47ae732223cc50bea3dd46c"/>
+	</game>
+	<game name="Monte Carlo (USA)" id="0320">
+		<description>Monte Carlo (USA)</description>
+		<rom name="Monte Carlo (USA).woz" size="1296169" crc="c89c7237" md5="42ba8f52ae59fa4c0f12b15ffc4deec3" sha1="eae72c1446f10e585cb732359bf22a96122c2ede" sha256="cfb000660caa40bfeb52819bd63460dc5c11c566d214fbedb00fddfd698a4fe7"/>
+	</game>
+	<game name="Music Studio (USA) (v2.0) (Disk 2)" id="0766">
+		<description>Music Studio (USA) (v2.0) (Disk 2)</description>
+		<rom name="Music Studio (USA) (v2.0) (Disk 2).woz" size="1296362" crc="a834a4c6" md5="f9c1abd51cca13be6a7d13ee50fbee70" sha1="e5b2a5dcd6642725d82c45617a4c2dadea5febd1" sha256="f5230769c25a11287270469413779a99e6ee0c42d2fe009d34d86647876a919d"/>
+	</game>
+	<game name="Music Studio (USA) (v2.0) (Disk 1)" id="0765">
+		<description>Music Studio (USA) (v2.0) (Disk 1)</description>
+		<rom name="Music Studio (USA) (v2.0) (Disk 1).woz" size="1296337" crc="a4f7f392" md5="522021c966b2967b6fc7fc8a3472d5e9" sha1="eb2e0e72cdceb392c3f2ef73ff5c576a8c0c2ca8" sha256="f754697b4b6356943ac516c971b9005fcbcbd4b4438e72f8113dce1e6fe742e4"/>
+	</game>
+	<game name="Music Writer (USA) (v2.03) (Disk 1)" id="1151">
+		<description>Music Writer (USA) (v2.03) (Disk 1)</description>
+		<rom name="Music Writer (USA) (v2.03) (Disk 1).woz" size="1296179" crc="cdb27c84" md5="a315c478e6c33201a2b6cfe5bae395b5" sha1="de3d1476fe9dfb7c3761f74c51dc38e78537cab5" sha256="a2e8b91c9663783f529d62b10cf05410bd36c72f979757d4dbb6f0d20167189c"/>
+	</game>
+	<game name="Music Writer (USA) (v2.03) (Disk 2)" id="1152">
+		<description>Music Writer (USA) (v2.03) (Disk 2)</description>
+		<rom name="Music Writer (USA) (v2.03) (Disk 2).woz" size="1345341" crc="ee9edef7" md5="a013dbaa46911ea25f6a9b6ee402c20f" sha1="fa177e0d55f757140bf1fc96614225b995924d67" sha256="64bf289a5ee420aab4c5f0f5660c51d2ede0168880dd84e620d0e6b04d6e72dc"/>
+	</game>
+	<game name="Neuromancer (USA)" id="0323">
+		<description>Neuromancer (USA)</description>
+		<rom name="Neuromancer (USA).woz" size="1345288" crc="6d21fbf3" md5="ae139b824e3d486aac43fd3190c50dcb" sha1="2f461215cd9331a0a87a61b1497b92d08f64589d" sha256="148d2110504654538e184897dc21d8c18426d0cf7ee7fa95a76116df2d8006e0"/>
+	</game>
+	<game name="NoiseTracker (USA)" id="0772">
+		<description>NoiseTracker (USA)</description>
+		<rom name="NoiseTracker (USA).woz" size="1345387" crc="b3ffe621" md5="2d250a281dc39e90aa275a6276a0f5ae" sha1="cd086b0770b4a29e46d174923dec08880c3972f7" sha256="cba8b942c2cf21d96285ca7287d9d936e915677d742ed07ec3db02cbf967e6b5"/>
+	</game>
+	<game name="Omega (USA)" id="0327">
+		<description>Omega (USA)</description>
+		<rom name="Omega (USA).woz" size="1296155" crc="1451e0d5" md5="acced6af2ed912caa2415986747ce524" sha1="d9de13700b35c3ca651883b9c5224dbd8e43cf0e" sha256="fb65cc472cc2c68e2e33ff96fffbea7658315c6c77931cc9d2233ec8dd02143f"/>
+	</game>
+	<game name="Out of This World (USA) (Disk 1)" id="0335">
+		<description>Out of This World (USA) (Disk 1)</description>
+		<rom name="Out of This World (USA) (Disk 1).woz" size="1296230" crc="114a8c7f" md5="d1b79e2fc356b0a7500d0a4b5faf3858" sha1="5821227cf3e7dc6b07d2255f63c77a66f355cc93" sha256="ef7dd1e58a0e9dab24f62eca2849cb593950d4f480f8d90a20593b96448b02f6"/>
+	</game>
+	<game name="Out of This World (USA) (Disk 2)" id="0336">
+		<description>Out of This World (USA) (Disk 2)</description>
+		<rom name="Out of This World (USA) (Disk 2).woz" size="1296229" crc="df8eccc2" md5="b186e1d536adaad468acad753e98816a" sha1="e8bf12708fd810db0ef8ec803df338c2a747781a" sha256="6dbb42b6f4d02b06dbb1adc46cb871d20edcb792c7c58f4a6c2fc96e8c5539b9"/>
+	</game>
+	<game name="Paintworks Gold (USA) (v1.5) (Disk 1)" id="0778">
+		<description>Paintworks Gold (USA) (v1.5) (Disk 1)</description>
+		<rom name="Paintworks Gold (USA) (v1.5) (Disk 1).woz" size="1296195" crc="727db105" md5="1dc785209ea954b077df0afc34812cb5" sha1="e2b1759d4f41068346fd0d5485afa262ec4a6718" sha256="06f84adcacdc723ac10387e09d69e6076ac2239fafecdfccb477c91d7d643156"/>
+	</game>
+	<game name="Paintworks Gold (USA) (v1.5) (Disk 2)" id="0779">
+		<description>Paintworks Gold (USA) (v1.5) (Disk 2)</description>
+		<rom name="Paintworks Gold (USA) (v1.5) (Disk 2).woz" size="1296191" crc="5eaa9d86" md5="45033b911e80c0253b9d1579ef467988" sha1="dccd17f662a69e5c64f90ae4c93272c988402547" sha256="ce5f8e9402341c985ec9cd6a88750375ec33be2b1285f0d2f24ba2320916227d"/>
+	</game>
+	<game name="Paintworks Plus (USA)" id="0780">
+		<description>Paintworks Plus (USA)</description>
+		<rom name="Paintworks Plus (USA).woz" size="1296206" crc="c557968f" md5="99170eaad53d04a74618280a494e9946" sha1="c5c44af96b91aa1550cc0fdabd67434fd72a4e51" sha256="e154f07fa68c8319b05234bcf887eba5bb59dcf22af2133f75efcb6e41349469"/>
+	</game>
+	<game name="Photonix (USA) (v1.46)" id="1148">
+		<description>Photonix (USA) (v1.46)</description>
+		<rom name="Photonix (USA) (v1.46).woz" size="1345319" crc="29368542" md5="d9cb9d2da341078625309beb1a77267f" sha1="0504af1ada3e3cc9fc00d35096c1c92f93acefb5" sha256="d583b3a97e3e6683ff1442978130e29a7c0b84886071f9bbb4bd4592dab360ff"/>
+	</game>
+	<game name="Pipe Dream (USA)" id="0352">
+		<description>Pipe Dream (USA)</description>
+		<rom name="Pipe Dream (USA).woz" size="1296163" crc="d77ebd90" md5="c5ceaa7aefe146523415fd7f585b3c30" sha1="8d02426c2e3418d5162382ff9040de2523b81915" sha256="75fafe05e14edd6fe49b95e996368bdf8ce5db1491646de5bc4500823a8f9897"/>
+	</game>
+	<game name="Platinum Paint (USA) (v2.01) (Disk 2)" id="1150">
+		<description>Platinum Paint (USA) (v2.01) (Disk 2)</description>
+		<rom name="Platinum Paint (USA) (v2.01) (Disk 2).woz" size="1296171" crc="b778a68c" md5="7d1aae26f33f6a51b05c01275115b716" sha1="a66e372e59945f3ec18491c7df5be01e076411cc" sha256="dc93b5c02130979750cab0eccdd02063cf0c1ac60d6b2282dea5655f57aba40c"/>
+	</game>
+	<game name="Platinum Paint (USA) (v2.01) (Disk 1)" id="1149">
+		<description>Platinum Paint (USA) (v2.01) (Disk 1)</description>
+		<rom name="Platinum Paint (USA) (v2.01) (Disk 1).woz" size="1296170" crc="6ccb4390" md5="c87be9220b20b2c8e7728e808ece6f59" sha1="12e9e8da24881506302e19cd9110e831564dd211" sha256="3367008bdbdd0524dac78fe3ebb201aee35d9014cf95c9a7f46b6eb60d7b7bb7"/>
+	</game>
+	<game name="Police Quest (USA) (Disk 1)" id="0362">
+		<description>Police Quest (USA) (Disk 1)</description>
+		<rom name="Police Quest (USA) (Disk 1).woz" size="1296347" crc="777c23e5" md5="6d894802af19de01795ec7a8a9d48854" sha1="d75bd3b9d9a2a686c6cc2872b30a162b6aa176a8" sha256="3f744cab2741bec5b0d4038640ddb2c2ade06948411db42bce8bf66a78b7d2b3"/>
+	</game>
+	<game name="Police Quest (USA) (Disk 2)" id="0365">
+		<description>Police Quest (USA) (Disk 2)</description>
+		<rom name="Police Quest (USA) (Disk 2).woz" size="1298395" crc="942f2197" md5="c518c052eef130f827bd904b5f1a9527" sha1="b245b1a25e2cfbcfe8c75b4de33a089410ce7dad" sha256="010611f0140975cafa85e0fb251d7a525f9c8ca0ee113dd3103fb3d38bd60ba3"/>
+	</game>
+	<game name="Print Shop (USA)" id="0790">
+		<description>Print Shop (USA)</description>
+		<rom name="Print Shop (USA).woz" size="1296816" crc="57ecd472" md5="d1738f7734b8fdb6522ebacec2bff651" sha1="689f6ead1f9ab1a4ffc6fa04088ad063943cb75d" sha256="f85d51c7d3b0831838f8bc2be2a19a98a449eea332f9c9da0563bdc03ef0444d"/>
+	</game>
+	<game name="Print Shop Companion, The (USA)" id="0791">
+		<description>Print Shop Companion, The (USA)</description>
+		<rom name="Print Shop Companion, The (USA).woz" size="1296229" crc="9a1893da" md5="1128c45e81899a066f25b98e669b75df" sha1="bb43dbf428eb45b147a9726b71ff2d38a5f48b87" sha256="6069aa2a6a18a8fee6c22ef67dc5527992765900f06b34bf8b52ff3532094eaf"/>
+	</game>
+	<game name="Qix (USA)" id="0372">
+		<description>Qix (USA)</description>
+		<rom name="Qix (USA).woz" size="1296123" crc="6955cd6b" md5="e055b4176a3a846c4d8f3fc334e1a725" sha1="fb20f487be264892bf3828ec8a5c8cabb57f751c" sha256="c45d0d4cee9060e7d16f1c9894d291f57db914ba8bcd19e0453d28d9a6973e07"/>
+	</game>
+	<game name="Questron II (USA)" id="0380">
+		<description>Questron II (USA)</description>
+		<rom name="Questron II (USA).woz" size="1296163" crc="4deb4862" md5="7ed4ff25ff4fd6bc6400315f3e7261f5" sha1="f7e1ce6cf67e0e061ffbb7e96b222861d5dda756" sha256="81900226a57b60f32ae234528bba132382ad421edacd9d520f620afc5770a549"/>
+	</game>
+	<game name="Reach for the Stars (USA)" id="0387">
+		<description>Reach for the Stars (USA)</description>
+		<rom name="Reach for the Stars (USA).woz" size="1328945" crc="7c9f6de5" md5="79c2724016a7f552f997d7a2c96d357e" sha1="81cbc69e0cf005aa05de2898603a4c526116ff79" sha256="f5139ec69b6da5a06303455ae2e1a450aa27f695eed4a6f3eb098e3bed9ff1bc"/>
+	</game>
+	<game name="Read &amp; Rhyme (USA) (Disk 1)" id="1048">
+		<description>Read &amp; Rhyme (USA) (Disk 1)</description>
+		<rom name="Read &amp; Rhyme (USA) (Disk 1).woz" size="1296669" crc="2011af62" md5="70e399226633139a125bf2b5de43f6aa" sha1="e399fff6bd60b964ce68cb3d36ca33a77f1483f6" sha256="32dbb481533c517eff1a5a860a8800a2e013f014a6ae04e62f21980bcb129b5d"/>
+	</game>
+	<game name="Read &amp; Rhyme (USA) (Disk 2)" id="1049">
+		<description>Read &amp; Rhyme (USA) (Disk 2)</description>
+		<rom name="Read &amp; Rhyme (USA) (Disk 2).woz" size="1296157" crc="3e060399" md5="9ced21f234d07b80eca106b919d6f27b" sha1="f0ed2208dc2447734e22acb1c5d943cbe55ac9c4" sha256="8c261b6d67a96f7ed223dc81511571971f8095bad49399fed03dec72a0d647a4"/>
+	</game>
+	<game name="Read-a-Rama (USA) (Disk 1)" id="1050">
+		<description>Read-a-Rama (USA) (Disk 1)</description>
+		<rom name="Read-a-Rama (USA) (Disk 1).woz" size="1296719" crc="e430df4a" md5="27437178d908d5e5c29abc047a9eed1d" sha1="96dba78e27ab06de97117a27542c3ce211a7bd44" sha256="e13b6e0483fd715070b703a82baf5bfc3380df886f45f59fae5e9b4f2a5cb412"/>
+	</game>
+	<game name="Read-a-Rama (USA) (Disk 2)" id="1051">
+		<description>Read-a-Rama (USA) (Disk 2)</description>
+		<rom name="Read-a-Rama (USA) (Disk 2).woz" size="1296205" crc="9b23b421" md5="42c1832a1ccdd17dd2555124d9327fb1" sha1="0fc3c37883a2358c7644785eaa7488184d431558" sha256="aff4231e4decae747c3d57ef58f96c8ba92612208684a8feb09c769d2d7940db"/>
+	</game>
+	<game name="Read-a-Rama (USA) (Disk 3)" id="1052">
+		<description>Read-a-Rama (USA) (Disk 3)</description>
+		<rom name="Read-a-Rama (USA) (Disk 3).woz" size="1296216" crc="7420be24" md5="d97f23381d9d15725da8e907608ef948" sha1="1bb82fc0da0c56c291fda9c19213659123fde543" sha256="791e03cefca136de3b75af713f0745304d885f4d14c05670e26a57d80d0666b1"/>
+	</game>
+	<game name="Reader Rabbit (USA)" id="1056">
+		<description>Reader Rabbit (USA)</description>
+		<rom name="Reader Rabbit (USA).woz" size="1296165" crc="fc417d0a" md5="7aa38895bb39e2af6e1008d2cdabc25d" sha1="5d6c7179955c227182a5e48f0f1ef16de8b710e5" sha256="ead92aaba499fdcb8793ad91af1268bace6df1f84f872947a8d3cac90bdf24b9"/>
+	</game>
+	<game name="Reading and Me (USA) (Disk 2)" id="1154">
+		<description>Reading and Me (USA) (Disk 2)</description>
+		<rom name="Reading and Me (USA) (Disk 2).woz" size="1312556" crc="8c0d3e1f" md5="17ac2649b18e1962c638692b5d2d5658" sha1="ba53651eed2bd0393b8d83390555825302b9bba5" sha256="0d34782f092b8b277d0a968ebf6f6b717bce4a43a4c377822e7e322ef5643ae6"/>
+	</game>
+	<game name="Reading and Me (USA) (Disk 1)" id="1153">
+		<description>Reading and Me (USA) (Disk 1)</description>
+		<rom name="Reading and Me (USA) (Disk 1).woz" size="1328940" crc="598bd916" md5="2d4d48533f888caa66b6a3bfc492c6f8" sha1="aeff5dc46e4175b69702fd393eea6fc3d95f089c" sha256="0f224d4c099c3a2a222caa930cd2494205016fcafb42dd05f318ccd7a135d568"/>
+	</game>
+	<game name="Roadwar 2000 (USA)" id="0395">
+		<description>Roadwar 2000 (USA)</description>
+		<rom name="Roadwar 2000 (USA).woz" size="1296159" crc="84f0f97c" md5="c37a5dd61c7bfc5cbe990c26cc4adc4d" sha1="697791039e6ae0077feaa26e6032c5c9c3bd7930" sha256="3dde816a75166651602a4efec845b1c00cb7a062d6bf917215c3a89101e5e4b0"/>
+	</game>
+	<game name="Salvation Supreme (USA) (v2.0) (Disk 2)" id="0807">
+		<description>Salvation Supreme (USA) (v2.0) (Disk 2)</description>
+		<rom name="Salvation Supreme (USA) (v2.0) (Disk 2).woz" size="1296208" crc="75578373" md5="445fc778659511591d2313380bd39797" sha1="aeaa51b3b44f9f0e20e86d0581d9de7fd9f8753d" sha256="c620249317de04d5e7d80a1aa18e12915df5e04369b17ee55e87e0de8af0f151"/>
+	</game>
+	<game name="Salvation Supreme (USA) (v2.0) (Disk 1)" id="0806">
+		<description>Salvation Supreme (USA) (v2.0) (Disk 1)</description>
+		<rom name="Salvation Supreme (USA) (v2.0) (Disk 1).woz" size="1296208" crc="d33c159f" md5="513729d6f9fcbbf5806d59e8ef85734d" sha1="a20776f1b58647ec57526b72ebe02f22567a383d" sha256="35eb13458d6f9a2047e0dd8bfe1a5c4ffb439b4085ce39236a125f7fdbd36f3f"/>
+	</game>
+	<game name="Sea Strike (USA)" id="0403">
+		<description>Sea Strike (USA)</description>
+		<rom name="Sea Strike (USA).woz" size="1296185" crc="1b1e0b06" md5="8904f725837a25648a2df1d1a3a0a75a" sha1="e5401ccf01ad10fc18e771c1c7c02db23c485151" sha256="6a401dff2cccd85e5950e600f4b6711c6beffa22227a19bc2eca3ea06a7083a2"/>
+	</game>
+	<game name="Serve &amp; Volley (USA)" id="0417">
+		<description>Serve &amp; Volley (USA)</description>
+		<rom name="Serve &amp; Volley (USA).woz" size="1296733" crc="76ec3fda" md5="133697e22eef06d5e803ed81def8b9f3" sha1="f53a7e722df11e8ad5103f9da3c9f45a9848844e" sha256="87bd2b3b8f6e49d1f37b12ff65f6bc5f2b5b7c8e425effa1b7d7f494719d3b7d"/>
+	</game>
+	<game name="Shadowgate (USA) (Disk 1)" id="0418">
+		<description>Shadowgate (USA) (Disk 1)</description>
+		<rom name="Shadowgate (USA) (Disk 1).woz" size="1361803" crc="c1fedf06" md5="e85bc4585a5377d6f584dc3ab5cf5bf7" sha1="da9a08f82c3fadbf27f9635d8d92488597635ab3" sha256="e0e0c19fbe35da8a62a2b45579834aac9406beeeef00ff3c0b5c27d2b44d818f"/>
+	</game>
+	<game name="Shadowgate (USA) (Disk 2)" id="1155">
+		<description>Shadowgate (USA) (Disk 2)</description>
+		<rom name="Shadowgate (USA) (Disk 2).woz" size="1361803" crc="f2107036" md5="8da9c552d3d49f474f45bb9a089a1afa" sha1="ec055731dc9a699b1334b57a02341198826e8527" sha256="aef4a52497412777376d4aa9feb4cf8f013fe834649b81c249de35eb44b97090"/>
+	</game>
+	<game name="Shanghai (USA)" id="0421">
+		<description>Shanghai (USA)</description>
+		<rom name="Shanghai (USA).woz" size="1296154" crc="7155a611" md5="d9bfb8dc35087ae9fc48c7122e9e02b8" sha1="6aac8d0a393c37a9b30f249d21bcfae2ba38f727" sha256="3785947ac82122e378b1ee090b5c8efb999209c7992f032c0509e3cd4d41d7ca"/>
+	</game>
+	<game name="Shanghai II - Dragon's Eye (USA) (Disk 1)" id="0424">
+		<description>Shanghai II - Dragon's Eye (USA) (Disk 1)</description>
+		<rom name="Shanghai II - Dragon's Eye (USA) (Disk 1).woz" size="1296206" crc="ddda4a20" md5="62698ddbc24aa0301039f6cea61384b8" sha1="22cb6182462e3869797c4a2a46565761a8b00874" sha256="d7c44fecc89bd58197a1b83313eaad69d1c82e0c5c175a9df3d2834249a964b7"/>
+	</game>
+	<game name="Shanghai II - Dragon's Eye (USA) (Disk 2)" id="0426">
+		<description>Shanghai II - Dragon's Eye (USA) (Disk 2)</description>
+		<rom name="Shanghai II - Dragon's Eye (USA) (Disk 2).woz" size="1296206" crc="0a58a12d" md5="5d09b34edfc0bae6bbcbe593d8b44ada" sha1="bc42f224a719594df64c0098c60fe7d9af185bc6" sha256="9bc2542a0a29bfa33a7bde3baa5e9140fff18341940da1dc9d3ee5e62a32afc2"/>
+	</game>
+	<game name="Show Off (USA) (v1.1) (Disk 2)" id="0813">
+		<description>Show Off (USA) (v1.1) (Disk 2)</description>
+		<rom name="Show Off (USA) (v1.1) (Disk 2).woz" size="1296215" crc="ea8b58f6" md5="69ae25a58d2ccb621240a60190079c0c" sha1="5ac168d50f82fab9a9d859864a595cd9a0190b1f" sha256="0d8c98295fd79ad852d6dcb48f5230ff6a634a6d7e20a1ca22825044f36af32b"/>
+	</game>
+	<game name="Show Off (USA) (v1.1) (Disk 3)" id="0814">
+		<description>Show Off (USA) (v1.1) (Disk 3)</description>
+		<rom name="Show Off (USA) (v1.1) (Disk 3).woz" size="1296238" crc="9552e081" md5="24ae4d40afb8c9f16eef8d520dcd4c2c" sha1="1166cbf373d52be3e62c167c5261973aba3a3e65" sha256="9af062ba376071c15171458ce09e847034e7d961693a38a4c1120d5957cf95c1"/>
+	</game>
+	<game name="Show Off (USA) (v1.1) (Disk 1)" id="0812">
+		<description>Show Off (USA) (v1.1) (Disk 1)</description>
+		<rom name="Show Off (USA) (v1.1) (Disk 1).woz" size="1296706" crc="bfb15e70" md5="cdfa062e8f10b9d60f75df8b37ff38c4" sha1="99bda5575d3865d8ccda8e82c3d5f8a6fe3e6e02" sha256="71db4aca0ad20652ad5fd3549f5430bc6677a08af350a3bfe66e874a16d77901"/>
+	</game>
+	<game name="Silent Service (USA)" id="0430">
+		<description>Silent Service (USA)</description>
+		<rom name="Silent Service (USA).woz" size="1296228" crc="37087af8" md5="663dcfd6b2719916457240c1e153009d" sha1="587219bfd6f4ada98b6e0805998d74b5436c27c6" sha256="747f89d3fd64eb37328f54835e270b655483281676cb96c1134d3175445c08a1"/>
+	</game>
+	<game name="Silpheed (USA) (Disk 1)" id="0432">
+		<description>Silpheed (USA) (Disk 1)</description>
+		<rom name="Silpheed (USA) (Disk 1).woz" size="1296337" crc="6e23bfc4" md5="d75c32458ea6f03a7fe2dedd2008aaba" sha1="aab31b270ac2d0be19a63aeebb58cf63f8d664be" sha256="b3582de430a27865d83c0fea50086d29b74abfcbd7c8888eb4cc67e78f1a86b4"/>
+	</game>
+	<game name="Silpheed (USA) (Disk 2)" id="0435">
+		<description>Silpheed (USA) (Disk 2)</description>
+		<rom name="Silpheed (USA) (Disk 2).woz" size="1296337" crc="2464d39c" md5="61b8e2285b5a19db75c08362c45a1a8e" sha1="3a4f6e18d97f5bdc40b988e6a44dedc2d5b62fb3" sha256="3f57e588924c7c4b00a605b9ed64711063f29f4951f91e3aaceb846d2a62424f"/>
+	</game>
+	<game name="Skate or Die (USA)" id="0444">
+		<description>Skate or Die (USA)</description>
+		<rom name="Skate or Die (USA).woz" size="1296713" crc="300af7ee" md5="e1e931c701ddd9aa31793ebfdb08015e" sha1="7ef79447b14b2268bdbd6489188f951c995e9b7a" sha256="e20f7f99b65f178d6fef3740f5ed68188c1a9a06858560ab7bdcd1224dcb1982"/>
+	</game>
+	<game name="SmoothTalker (USA)" id="1060">
+		<description>SmoothTalker (USA)</description>
+		<rom name="SmoothTalker (USA).woz" size="1312507" crc="19b0ec7f" md5="d7bcb46e86b411e391ec3af5f755bcde" sha1="89d332155d9bd9c02e6254f4379c15eb6bb19376" sha256="85b758bc07881d969f3bd3982490b8e1a6efc166824dafffdde961439a884d05"/>
+	</game>
+	<game name="Snoopy's Reading Machine (USA)" id="1062">
+		<description>Snoopy's Reading Machine (USA)</description>
+		<rom name="Snoopy's Reading Machine (USA).woz" size="1296223" crc="4cf5f0b6" md5="ea7de344ce742a03388627123a9489b8" sha1="b5a0fa27cd2cb586db45c00034f7b27599f709ed" sha256="22b52a0e54e031cd38230dfd6f10f91d9873f8924c1199d3fae00705fe2889df"/>
+	</game>
+	<game name="Solitaire Royale (USA)" id="0447">
+		<description>Solitaire Royale (USA)</description>
+		<rom name="Solitaire Royale (USA).woz" size="1361746" crc="0a8a99ba" md5="a39f0f16d621e9c15971cecc0e0b2fa6" sha1="e3693a5d5f3534b4eb1a7ccc6ab8e96463fa0a28" sha256="c9ff0877e1767cc40184673b9688e76c88b26d64cf858d73252cd9b237792887"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 1)" id="0450">
+		<description>Space Ace (USA) (Disk 1)</description>
+		<rom name="Space Ace (USA) (Disk 1).woz" size="1296303" crc="c9b1d81c" md5="575aec742ed90aecd555b3f6c558eb2f" sha1="01d0768fea8f9f2f6fb198ec75cf64382eaaeed7" sha256="b99493560194ca27f8035ac18811eed12c3199d24545718685bdad7649acef4a"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 2)" id="0451">
+		<description>Space Ace (USA) (Disk 2)</description>
+		<rom name="Space Ace (USA) (Disk 2).woz" size="1296303" crc="213c7969" md5="dc2449d4acb47194ca349324006ef989" sha1="4f8c5a803705aa0a8856bd73295357d33277518b" sha256="5d2ea97c9169b081c7a700e56eab75ebb2de20b29e3d0fcec54dae9d42b533eb"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 3)" id="0452">
+		<description>Space Ace (USA) (Disk 3)</description>
+		<rom name="Space Ace (USA) (Disk 3).woz" size="1296303" crc="5846b4eb" md5="e735b67e0bf1d7b00fcee5aabce0c606" sha1="2556bdf9afbf627c71c589dea05030e22bb6d736" sha256="da87ba9c2c28e275e150288112c2f5bd6994a1ddd9fca853d7ac8e6b69d28530"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 4)" id="0453">
+		<description>Space Ace (USA) (Disk 4)</description>
+		<rom name="Space Ace (USA) (Disk 4).woz" size="1296303" crc="852b6729" md5="e383ec3d6c133af9d309c097223f9511" sha1="cfd808927c36559ba0f30780dacc040c2533e656" sha256="5aebd16f905d8d7cb6eb2896b6b5e3da9b7517945226ad21f380e875e3c3816c"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 5)" id="0454">
+		<description>Space Ace (USA) (Disk 5)</description>
+		<rom name="Space Ace (USA) (Disk 5).woz" size="1296303" crc="776d76db" md5="20e2483b98444e3e66af1b0a4548edb7" sha1="d1979794cbf43d6df3b8ee19abd48af229d52d17" sha256="5832de97d4b8adbd589a9c2e37108dff07f04eb3051801b3068f260e6c1d26fc"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 6)" id="0455">
+		<description>Space Ace (USA) (Disk 6)</description>
+		<rom name="Space Ace (USA) (Disk 6).woz" size="1296303" crc="0ad79c66" md5="ee7509dc304598c877ffe4ea12e5225d" sha1="dfe7a77e8bac698f5b582940d5e88c55484e8934" sha256="6869c072dec77208fbfc9910bcc4341d3e0c803b031f607fac6bf7b5cca68340"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 7)" id="0456">
+		<description>Space Ace (USA) (Disk 7)</description>
+		<rom name="Space Ace (USA) (Disk 7).woz" size="1296303" crc="7a881dee" md5="a7cbcd1649411d6653d49317e3f33300" sha1="ac37a58f8a51482480cfe8f42ec57a0393f50c31" sha256="3a5947bb044dfd3b615477bd96d28829e97d0fcd3640659df449956a78830bd8"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 8)" id="0457">
+		<description>Space Ace (USA) (Disk 8)</description>
+		<rom name="Space Ace (USA) (Disk 8).woz" size="1296303" crc="7eb87bb0" md5="cc97ddef34770c1ba6cfd6cf677867f1" sha1="daa9af77d0e162ba55f3d76d326582d172a135ad" sha256="5bd299979aaa1207087e6f57a35031408f42c538d15412cd92ccd2d1fb812502"/>
+	</game>
+	<game name="Space Ace (USA) (Disk 9)" id="0458">
+		<description>Space Ace (USA) (Disk 9)</description>
+		<rom name="Space Ace (USA) (Disk 9).woz" size="1296303" crc="8f9cbeed" md5="f37cc24b0565675164506fb9e90423ce" sha1="f478b959ba865feead8d73220805ccfdf7b930e6" sha256="571ec7bffb7d3edb868e0794a9261a6c44437a94909f3a6aeb24e6d5455ab13a"/>
+	</game>
+	<game name="Space Quest I - The Sarien Encounter (USA) (Disk 1)" id="0463">
+		<description>Space Quest I - The Sarien Encounter (USA) (Disk 1)</description>
+		<rom name="Space Quest I - The Sarien Encounter (USA) (Disk 1).woz" size="1296257" crc="c635790a" md5="2bb4efa09b793e935c67545eeeed4ea7" sha1="9bc6db1793f379838e90e0d5ab4b325e7658fb79" sha256="5c0789b34ef0cd25f59698924732d31b1b70fb68f9eb8bbee30590f9f6aab34c"/>
+	</game>
+	<game name="Space Quest I - The Sarien Encounter (USA) (Disk 2)" id="0466">
+		<description>Space Quest I - The Sarien Encounter (USA) (Disk 2)</description>
+		<rom name="Space Quest I - The Sarien Encounter (USA) (Disk 2).woz" size="1296257" crc="dc9f2e0d" md5="b1d881d3bc27ee1a0443fb0ed2498c57" sha1="49714165313ee908fc309970544659322dca1bd0" sha256="657d79b9cae6ee9a94ac151ad7ca13cbdbdd209c9029d001700ffeb5e7b293ac"/>
+	</game>
+	<game name="Space Quest II - Vohaul's Revenge (USA) (Disk 1)" id="0469">
+		<description>Space Quest II - Vohaul's Revenge (USA) (Disk 1)</description>
+		<rom name="Space Quest II - Vohaul's Revenge (USA) (Disk 1).woz" size="1296282" crc="34a62868" md5="d206a169eb3d7485d799a240eb92f1a8" sha1="53340223e323e9b1e56e3c82b100cfd2869799bf" sha256="11c5ee1df457cec1ccf981ee18c5c7ea716828f61d6ca8f72d8497c0beac8dbc"/>
+	</game>
+	<game name="Space Quest II - Vohaul's Revenge (USA) (Disk 2)" id="0472">
+		<description>Space Quest II - Vohaul's Revenge (USA) (Disk 2)</description>
+		<rom name="Space Quest II - Vohaul's Revenge (USA) (Disk 2).woz" size="1296282" crc="f5cce30c" md5="e5356d8863fc268664bd1bf50785cea6" sha1="6684e98df5c3d88f44099abaeabe4b8396e0c7f3" sha256="d469ebfbb6e2271abf78e937d10a7e4ce5011817f7e2c776cd9f53404514d295"/>
+	</game>
+	<game name="Star Saga One - Beyond the Boundary (USA) (v1.1)" id="0485">
+		<description>Star Saga One - Beyond the Boundary (USA) (v1.1)</description>
+		<rom name="Star Saga One - Beyond the Boundary (USA) (v1.1).woz" size="1296274" crc="e96de728" md5="130c9257c7808706509be97bc35ea0c2" sha1="d00257002b10a75f5418e53bf96aa33df914cd2b" sha256="fabef04f83bdd6ec807d8b4f4708ed7311fd4e71ea3e59c15586fe33c4619e71"/>
+	</game>
+	<game name="Star Saga Two - The Clathran Menance (USA) (v1.0)" id="0486">
+		<description>Star Saga Two - The Clathran Menance (USA) (v1.0)</description>
+		<rom name="Star Saga Two - The Clathran Menance (USA) (v1.0).woz" size="1296296" crc="39e1e6ee" md5="8f05b0e377f87ba512fc57ecc14a8512" sha1="b712121eb0a254f6ef51010371e308f11ed931b8" sha256="97017f2743bc7a1228044362dce9f94f7eba089beca772c02a135860c7554d3c"/>
+	</game>
+	<game name="Stars &amp; Planets (USA)" id="1065">
+		<description>Stars &amp; Planets (USA)</description>
+		<rom name="Stars &amp; Planets (USA).woz" size="1345319" crc="19b5c12b" md5="e3888b71efeb9eec2fdea518ea4e5827" sha1="213b4477085f32423c69da5adc4d692b837a54c0" sha256="29f5607f9ffd4d41158efebb9288719b3b981a0b4c050629c37a0b64bd51112f"/>
+	</game>
+	<game name="Stickybear Shapes (USA)" id="1069">
+		<description>Stickybear Shapes (USA)</description>
+		<rom name="Stickybear Shapes (USA).woz" size="1286466" crc="1d44fbc7" md5="67f09e1ac4b42675ad915462f6b096eb" sha1="8b1c33ed774c590557bc2eff7f5758819b33092c" sha256="6cd91abcd67738aad749907cfb321840e171677a47a5976a82121bab9472f6bc"/>
+	</game>
+	<game name="Storybook Weaver (USA) (Disk 2)" id="1157">
+		<description>Storybook Weaver (USA) (Disk 2)</description>
+		<rom name="Storybook Weaver (USA) (Disk 2).woz" size="1345435" crc="ddb0fb06" md5="b237ebdbc19cdf2b8a9ac72d3042d3e6" sha1="2dde4e9d2fe49fe8705bbb640a7e36542166c3ce" sha256="3f5fb9b8c1dfa1dfd4a5ea7831d618b39b7d5be509d2d68e3fa83e9c6f257f2e"/>
+	</game>
+	<game name="Storybook Weaver (USA) (Disk 1)" id="1070">
+		<description>Storybook Weaver (USA) (Disk 1)</description>
+		<rom name="Storybook Weaver (USA) (Disk 1).woz" size="1296282" crc="aff98402" md5="340c9b9d27d52a65d110fb6c79d0c1de" sha1="d9eb47035807a144ea3d861c8f95ef609302329e" sha256="eddeab3ed877954c1843a1f1b5768ff1477ca14f7835947659d16c00321962fe"/>
+	</game>
+	<game name="Storybook Weaver - World of Make Believe (USA) (Disk 2)" id="1156">
+		<description>Storybook Weaver - World of Make Believe (USA) (Disk 2)</description>
+		<rom name="Storybook Weaver - World of Make Believe (USA) (Disk 2).woz" size="1345418" crc="2321b1c5" md5="433c760586ff396edc5841c44e306438" sha1="5db8b0f9141a28f1e8039908549cd5bc7e8d8872" sha256="6282ad1b96183cd61f686c56214c87de93c07ec19d021cfc7b56910fc8ff3b33"/>
+	</game>
+	<game name="Storybook Weaver - World of Make Believe (USA) (Disk 1)" id="1072">
+		<description>Storybook Weaver - World of Make Believe (USA) (Disk 1)</description>
+		<rom name="Storybook Weaver - World of Make Believe (USA) (Disk 1).woz" size="1345417" crc="0f23663b" md5="e554e997bb55c26bb679e9d7dde8f671" sha1="dc41a0641411ffee8d86c4e7342c15c11acfb8d2" sha256="5429f5fec232a045abb09249ca6f30890172522721973241d1f65e2ebba7b204"/>
+	</game>
+	<game name="Street Sports Soccer (USA)" id="0488">
+		<description>Street Sports Soccer (USA)</description>
+		<rom name="Street Sports Soccer (USA).woz" size="1296697" crc="25b2491e" md5="656e5650f4391566a93735c3281efb30" sha1="fd7231ff1fbba463fa6a0ae068b9ef37a284b64b" sha256="605dd1c5e1aaab80e95df8294b56afba8d60aa46dca6abd98e5e12917b7584ae"/>
+	</game>
+	<game name="Sub Battle Simulator (USA)" id="0497">
+		<description>Sub Battle Simulator (USA)</description>
+		<rom name="Sub Battle Simulator (USA).woz" size="1296676" crc="aa01105f" md5="5d871cf9ba79656d60148ea72eab2710" sha1="81a3029ef72d3dde59c385a2383c545021509734" sha256="0896bca4327d65aee0aa7862cd041297053e35f78f04ae6c32620b5d49c29373"/>
+	</game>
+	<game name="Superstar Ice Hockey (USA)" id="0500">
+		<description>Superstar Ice Hockey (USA)</description>
+		<rom name="Superstar Ice Hockey (USA).woz" size="1297288" crc="e93a7c38" md5="8277a83133b2f77da86e51dcdc16b061" sha1="64a91083feca13cc2d709b235b0370d8a6afbbc1" sha256="6cc54bc774058e500e5ccd85ac22bede50cf1d0677ab58f66cb2155df763122e"/>
+	</game>
+	<game name="Tales From the Arabian Nights (USA) (Disk 2)" id="1159">
+		<description>Tales From the Arabian Nights (USA) (Disk 2)</description>
+		<rom name="Tales From the Arabian Nights (USA) (Disk 2).woz" size="1296204" crc="06407198" md5="33d09ac8414d6cd1e4ab94170a79ab14" sha1="9c8cf68514acfa818ce6e1807e5cfa05f40d8eb2" sha256="3e835b0ce9b55f4c9c28e77588035684e666f52ae75d7f8d0bdbb54dc78e0af7"/>
+	</game>
+	<game name="Tales From the Arabian Nights (USA) (Disk 1)" id="1158">
+		<description>Tales From the Arabian Nights (USA) (Disk 1)</description>
+		<rom name="Tales From the Arabian Nights (USA) (Disk 1).woz" size="1296716" crc="551d0a16" md5="1c80e846c13f0300b8746f2b39113386" sha1="b446d573570b7686a76ce7071122dd68dcfce86b" sha256="461c0c5ae69a265d9038e8c7a9d29b896011fea9128b391d959f6c4018f07f2d"/>
+	</game>
+	<game name="Tarot (USA)" id="1160">
+		<description>Tarot (USA)</description>
+		<rom name="Tarot (USA).woz" size="1345329" crc="14cd98c9" md5="2bc3b65be7abd561324e186932503a82" sha1="41efccb0166e1891b068f1ad9a072d0fb805ef7a" sha256="ea0176c0c46926789bb520acd0f121e7ed5f7fe9fa8f6eda35b6ad6aa71d9b34"/>
+	</game>
+	<game name="Task Force (USA) (Disk 2)" id="1162">
+		<description>Task Force (USA) (Disk 2)</description>
+		<rom name="Task Force (USA) (Disk 2).woz" size="1296174" crc="26a2e3a7" md5="4ab77fb1e218a8262b09bd179bbaeb6b" sha1="21aa9f4fdae6b06a2a9cdffa3b0e2138a78a4b9c" sha256="bf732b7025293d3292f543b3e22a1c069a317430aaada6c06480dc1904cdd712"/>
+	</game>
+	<game name="Task Force (USA) (Disk 1)" id="1161">
+		<description>Task Force (USA) (Disk 1)</description>
+		<rom name="Task Force (USA) (Disk 1).woz" size="1296174" crc="ccd9125c" md5="d064db62770357bf95791a0893a382c3" sha1="567c8645dc377965fcddc1a3ab077fc82986a760" sha256="586eaa4eddb31142d20307b32c26d7829c107fcead61c7743bdd948a73d19878"/>
+	</game>
+	<game name="Tass Times in Tonetown (USA)" id="0509">
+		<description>Tass Times in Tonetown (USA)</description>
+		<rom name="Tass Times in Tonetown (USA).woz" size="1296183" crc="2b497d3e" md5="d381d648925a064e2d0cb41378c70743" sha1="d87988fa71bbe2f8b65f69af2eab6ed38da3952c" sha256="f683e88f11d2c7f5d0da8b30c0eee939f456c2989e77be4d884476ceb194cc51"/>
+	</game>
+	<game name="Tetris (USA)" id="0522">
+		<description>Tetris (USA)</description>
+		<rom name="Tetris (USA).woz" size="1296252" crc="41451ff2" md5="923d1f6e691a5c12013289f44f0738fc" sha1="0ee2c36d73f575124f28defb9ec50645fb3c2902" sha256="cb6fea0681343409f98d03855a3ab976820658996b8a24c9a2875bdc2d6696b9"/>
+	</game>
+	<game name="Thexder (USA)" id="0524">
+		<description>Thexder (USA)</description>
+		<rom name="Thexder (USA).woz" size="1296260" crc="98a49554" md5="583efccf3c9d0592a03e6ad72f75926e" sha1="6c1389e558151f08234f25f6c0e04337e6290297" sha256="7e8ce5c772858189ef21b11a2742b7954a42fbd7700839a2999632959b58d60c"/>
+	</game>
+	<game name="Third Courier, The (USA) (Disk 1)" id="0528">
+		<description>Third Courier, The (USA) (Disk 1)</description>
+		<rom name="Third Courier, The (USA) (Disk 1).woz" size="1296289" crc="517a7892" md5="c45e8f705c298a78fd800499510b5890" sha1="df7f0eb0c4985fb756701e5263c16938e8ceb55c" sha256="cac7e2510c2c7b58537047ac4ef3a0c119c69fd8781f2341309d8d90e3373b25"/>
+	</game>
+	<game name="Third Courier, The (USA) (Disk 2)" id="0530">
+		<description>Third Courier, The (USA) (Disk 2)</description>
+		<rom name="Third Courier, The (USA) (Disk 2).woz" size="1296289" crc="6f6cbd12" md5="fc5908f58fdd678fbb8ad948ceaa68de" sha1="e4f765378433c72f922403a9953b9e70f6b065e0" sha256="e62bf394c610657098e76779652a49ec342f5efafda1beb7053fa4507c9bb35e"/>
+	</game>
+	<game name="Tower of Myraglen, The (USA) (Disk 1)" id="0542">
+		<description>Tower of Myraglen, The (USA) (Disk 1)</description>
+		<rom name="Tower of Myraglen, The (USA) (Disk 1).woz" size="1296187" crc="9a571c95" md5="40e527b358766f2827dc055e394ee4a2" sha1="359abb5dfd1150d129e90c95e501f2c89c17b62e" sha256="134ebbaf4169662df6b4b327857cd54a9649fcac485848135d1e985ff71bd127"/>
+	</game>
+	<game name="Tower of Myraglen, The (USA) (Disk 2)" id="0545">
+		<description>Tower of Myraglen, The (USA) (Disk 2)</description>
+		<rom name="Tower of Myraglen, The (USA) (Disk 2).woz" size="1345338" crc="1e3a010b" md5="9fd24c6a393ddac134cb628390ac7710" sha1="a264a9be38d8ea804beea4d6b547ee25304af9df" sha256="e3c898a17cd495e31e9f7199aa8b6973faa6b791efe7221cd12750f3361c1e22"/>
+	</game>
+	<game name="Triango (USA)" id="0552">
+		<description>Triango (USA)</description>
+		<rom name="Triango (USA).woz" size="1296250" crc="0bd18998" md5="300c6ed972d9830242b6cd4c2b6ac8af" sha1="36f0a842875632f25bb8acd60bf807862a4397b6" sha256="9c2421d930f9b049c41a10b6cac185a90be1436f17bf38ede1c833c707d608f5"/>
+	</game>
+	<game name="Tunnels of Armageddon (USA)" id="0554">
+		<description>Tunnels of Armageddon (USA)</description>
+		<rom name="Tunnels of Armageddon (USA).woz" size="1344940" crc="5fbeadc3" md5="b78b5bfd279ed233ea90fcce22ea8f90" sha1="3c3d99d4aea530e2eb529e085d31984e0d11dd28" sha256="b85ffead49b10c536d8e3435e172dee6224c5abed459976f88cd4e39e1012e58"/>
+	</game>
+	<game name="Uninvited (USA) (Disk 1)" id="0557">
+		<description>Uninvited (USA) (Disk 1)</description>
+		<rom name="Uninvited (USA) (Disk 1).woz" size="1361814" crc="07605702" md5="e6b9a2ab551d438a80b056d6aea08b73" sha1="ca2345614a6f90d77545eeae08b154849b4a30fb" sha256="e1575a68473314d77269184a8dfbbb29311c33366c9a663c25aa3ca294bed09e"/>
+	</game>
+	<game name="Uninvited (USA) (Disk 2)" id="1168">
+		<description>Uninvited (USA) (Disk 2)</description>
+		<rom name="Uninvited (USA) (Disk 2).woz" size="1361814" crc="eee5e464" md5="4a1e77ba992b1fa02f7aafd96f28410d" sha1="25166f40af6859bb835f63f79f61ee431e1a638e" sha256="c8672fd0c86ffa9bbf99b5408a7e652d5b0bac8fb3cbfda8eef9f73b8416ffe4"/>
+	</game>
+	<game name="Wonders of the Animal Kingdom, The (USA) (Disk 2)" id="0957">
+		<description>Wonders of the Animal Kingdom, The (USA) (Disk 2)</description>
+		<rom name="Wonders of the Animal Kingdom, The (USA) (Disk 2).woz" size="1296195" crc="fbf4f128" md5="8896754ef3cbb6423ad253b46be7903e" sha1="383b93a32b223399e77724e08631d4c256eb4cc8" sha256="c4819f1e2114719dc8e1f60385cc5df4e37c1e06a1082f7b44455ce1c1a4765a"/>
+	</game>
+	<game name="Wonders of the Animal Kingdom, The (USA) (Disk 1)" id="0956">
+		<description>Wonders of the Animal Kingdom, The (USA) (Disk 1)</description>
+		<rom name="Wonders of the Animal Kingdom, The (USA) (Disk 1).woz" size="1296707" crc="db85592f" md5="713e78a4e7d979e3660dfb6aabd95e53" sha1="c613731a2e880d4b99cef0acb42eaace1039ba51" sha256="fedfb6f74527e139fa24adbdbf9c0d81733f863c6a9844d603b4f3018f771309"/>
+	</game>
+	<game name="Word Master, The (USA)" id="1121">
+		<description>Word Master, The (USA)</description>
+		<rom name="Word Master, The (USA).woz" size="1296684" crc="a3d0b0ff" md5="a76bf3839cfa855cfcb21aba929facfe" sha1="b78e70ec3d35dea4bf06819c0940fa4e2c6736e1" sha256="da302167eb0bc175f3a1124287b070778f30c66c1d6c682210b58dbfe54cd16a"/>
+	</game>
+</datafile>

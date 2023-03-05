@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Sports - [D71]</name>
+		<description>Commodore C64 - Games - Sports - [D71] (TOSEC-v2022-01-23)</description>
+		<category>TOSEC</category>
+		<version>2022-01-23</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="California Games (1987)(Epyx)">
+		<description>California Games (1987)(Epyx)</description>
+		<rom name="California Games (1987)(Epyx).d71" size="349696" crc="49f311cf" md5="c3233f8315b34f131a12dc1e8e716954" sha1="b5b88fa54f3d491334a96eb71babd6d07a2f4da9"/>
+	</game>
+	<game name="Championship Wrestling (1986)(Epyx)">
+		<description>Championship Wrestling (1986)(Epyx)</description>
+		<rom name="Championship Wrestling (1986)(Epyx).d71" size="349696" crc="38b3e89e" md5="9e3960b8be0c217e1d4a8ae24f2c8401" sha1="43ec653802c6278bdfa957fa800883bdad042823"/>
+	</game>
+	<game name="Skate or Die! (1987)(Electronic Arts)[cr The Stock][docs][EasyFlash 2012-04-30]">
+		<description>Skate or Die! (1987)(Electronic Arts)[cr The Stock][docs][EasyFlash 2012-04-30]</description>
+		<rom name="Skate or Die! (1987)(Electronic Arts)[cr The Stock][docs][EasyFlash 2012-04-30].d71" size="349696" crc="f9381cb5" md5="74475125f5d640e88b9d8c1ebaba6938" sha1="89bcdf26b10930fa608a9e3f98f732e9e0fab1d6"/>
+	</game>
+	<game name="Summer Challenge (1988)(Tynesoft)">
+		<description>Summer Challenge (1988)(Tynesoft)</description>
+		<rom name="Summer Challenge (1988)(Tynesoft).d71" size="349696" crc="731fcf47" md5="a77149e937d8722fe1f2d0b4224c31cc" sha1="6c1df6504739593f7cfd3d73c5d31f91aa6b1ccb"/>
+	</game>
+	<game name="Summer Games 2 (1985)(Epyx)">
+		<description>Summer Games 2 (1985)(Epyx)</description>
+		<rom name="Summer Games 2 (1985)(Epyx).d71" size="349696" crc="676dca12" md5="5689703c8eff0bce96d58d7e8813d4f7" sha1="414b9e630ce63ddfb9aa2d31ab4355b3044ad912"/>
+	</game>
+	<game name="World Games (1986)(Epyx)">
+		<description>World Games (1986)(Epyx)</description>
+		<rom name="World Games (1986)(Epyx).d71" size="349696" crc="1acaa783" md5="d4f13a7121df5eee50dc2a274942cccd" sha1="c7c339885b4f2130daf6047c72ca333101688660"/>
+	</game>
+</datafile>

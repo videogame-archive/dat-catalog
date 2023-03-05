@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Comics - Devil May Cry</name>
+		<description>Multi-format - Comics - Devil May Cry (TOSEC-v2011-01-09)</description>
+		<category>TOSEC-PIX</category>
+		<version>2011-01-09</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Devil May Cry - Issue 00 (2004)(Dreamwave)">
+		<description>Devil May Cry - Issue 00 (2004)(Dreamwave)</description>
+		<rom name="Devil May Cry - Issue 00 (2004)(Dreamwave).pdf" size="3767036" crc="7ce2f326" md5="f036e744047ac1d2ea60e47da3cdc6d7" sha1="3daf28e3f502122ac0a60323365fbb5995c9dc8e"/>
+	</game>
+	<game name="Devil May Cry - Issue 1 (2004-02)(Dreamwave)">
+		<description>Devil May Cry - Issue 1 (2004-02)(Dreamwave)</description>
+		<rom name="Devil May Cry - Issue 1 (2004-02)(Dreamwave).pdf" size="6916323" crc="fa31da57" md5="f62d40f02f4ead2a095b6bc6eee9abf9" sha1="119d075d2aac6d42503deaabde85d6aa83b95d58"/>
+	</game>
+	<game name="Devil May Cry - Issue 2 (2004-07)(Dreamwave)">
+		<description>Devil May Cry - Issue 2 (2004-07)(Dreamwave)</description>
+		<rom name="Devil May Cry - Issue 2 (2004-07)(Dreamwave).pdf" size="6004398" crc="1076d35e" md5="d80afcc3786a27234e260befd3406fc6" sha1="6ab8f506ec83dfcd029a36b0948c710a10329e47"/>
+	</game>
+	<game name="Devil May Cry - Issue 3 (2004-09)(Dreamwave)">
+		<description>Devil May Cry - Issue 3 (2004-09)(Dreamwave)</description>
+		<rom name="Devil May Cry - Issue 3 (2004-09)(Dreamwave).pdf" size="6368455" crc="39ef38fb" md5="47d8bf47dd13c4e0e2fa24b4fe699dd1" sha1="60deab5e09310b5135af1bde50b128febf940759"/>
+	</game>
+</datafile>

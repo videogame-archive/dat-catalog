@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Compilations - Applications - [CGD]</name>
+		<description>EACA EG2000 Colour Genie - Compilations - Applications - [CGD] (TOSEC-v2020-10-26)</description>
+		<category>TOSEC</category>
+		<version>2020-10-26</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Disk 2 (19xx)(-)">
+		<description>Disk 2 (19xx)(-)</description>
+		<rom name="Disk 2 (19xx)(-).cgd" size="752464" crc="144359ff" md5="11042737e786a93f2d76270712ce26d5" sha1="1fbdceb416c13190558520ebd7b7800095726c81"/>
+	</game>
+	<game name="Util 1 (19xx)(-)">
+		<description>Util 1 (19xx)(-)</description>
+		<rom name="Util 1 (19xx)(-).cgd" size="194640" crc="830d7607" md5="459b890c9902831811db0506de68cbbe" sha1="d3e1452dc79fe98d9909a1b98df1aa8ba810c87f"/>
+	</game>
+</datafile>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>288</id>
+		<name>Milton-Bradley - Omni (Waveform)</name>
+		<description>Milton-Bradley - Omni (Waveform)</description>
+		<version>20220725-135133</version>
+		<author>FakeShemp</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="For the Fun of It! (USA)" id="0001">
+		<description>For the Fun of It! (USA)</description>
+		<rom name="For the Fun of It! (USA).wav" size="912852632" crc="fd8e054e" md5="58dd23bba800fb052ea9b8a0b1461b39" sha1="74e973995815daecdbddd1ecd7723beb3649a4d9"/>
+	</game>
+	<game name="Games Hosted by Big Bird and Other Sesame Street Friends (USA)" id="0002">
+		<description>Games Hosted by Big Bird and Other Sesame Street Friends (USA)</description>
+		<rom name="Games Hosted by Big Bird and Other Sesame Street Friends (USA).wav" size="1997844568" crc="341726c6" md5="987c0bab90d89fc7519a36cd6571225a" sha1="f6e4c0291ed757a743e2a94d6e5022c4750ce212"/>
+	</game>
+	<game name="Jeopardy (USA)" id="0003">
+		<description>Jeopardy (USA)</description>
+		<rom name="Jeopardy (USA).wav" size="885954604" crc="52b4616b" md5="510e4aeefa3baacab6734b4d7831d2f3" sha1="222b05bc26540620045eea7af8972dfd350f3180"/>
+	</game>
+	<game name="Music Quiz (USA)" id="0004">
+		<description>Music Quiz (USA)</description>
+		<rom name="Music Quiz (USA).wav" size="885860396" crc="423b5121" md5="81d623381e58ae1f6f5674098106aa98" sha1="5f26587deb3fc454f4131c8ca517f64fc6e29614"/>
+	</game>
+	<game name="Password Plus (USA)" id="0005">
+		<description>Password Plus (USA)</description>
+		<rom name="Password Plus (USA).wav" size="986077228" crc="209299c4" md5="dd845772bbdf95909e9ba932a2b0acd7" sha1="a029c64cb786f62155d1c76928d26f91b59e1d9f"/>
+	</game>
+	<game name="Pat Summerall's Baseball Quiz (USA)" id="0008">
+		<description>Pat Summerall's Baseball Quiz (USA)</description>
+		<rom name="Pat Summerall's Baseball Quiz (USA).wav" size="897953836" crc="641e9c64" md5="072129132ed2787870e47ba057610dd2" sha1="02a3efa84f80cce76fadba56bcc7245e42068f75"/>
+	</game>
+	<game name="Pat Summerall's Football Quiz (USA)" id="0006">
+		<description>Pat Summerall's Football Quiz (USA)</description>
+		<rom name="Pat Summerall's Football Quiz (USA).wav" size="1892556888" crc="2ea365fe" md5="c97cd0466608f39372dc6fcd53d78365" sha1="9567acc81bb7c97d9ec8657acf3e6a1cf8bd464f"/>
+	</game>
+	<game name="Pat Summerall's Sports Quiz (USA)" id="0007">
+		<description>Pat Summerall's Sports Quiz (USA)</description>
+		<rom name="Pat Summerall's Sports Quiz (USA).wav" size="920300076" crc="9db3d9d4" md5="4f3f35c1776fd9dbb4e9b9d6635aaef2" sha1="c3bb8747f2550807f457b5b2f8372bebd8890e94"/>
+	</game>
+	<game name="Re-Action Quiz (USA)" id="0009">
+		<description>Re-Action Quiz (USA)</description>
+		<rom name="Re-Action Quiz (USA).wav" size="885991468" crc="e5e64773" md5="d7d9b62097532f12b27e09cc36e73973" sha1="aea78a30da498d4546df2efc76da147103de6463"/>
+	</game>
+	<game name="Variety Programmed Game Cartridge, The (USA)" id="0010">
+		<description>Variety Programmed Game Cartridge, The (USA)</description>
+		<rom name="Variety Programmed Game Cartridge, The (USA).wav" size="887390252" crc="1102801f" md5="21de0fe68c4fd3e2e8c3ddbf9ddf95aa" sha1="76440fc3ae7732bd19688b19eb87328e34f1ae8d"/>
+	</game>
+	<game name="Vincent Price's Movie Trivia (USA)" id="0011">
+		<description>Vincent Price's Movie Trivia (USA)</description>
+		<rom name="Vincent Price's Movie Trivia (USA).wav" size="869892140" crc="ba267545" md5="5b75b40fddb04ff54f171c266ec72dd4" sha1="50ec10bffe77310d7d909d022ddbdc66f1509bb9"/>
+	</game>
+	<game name="Vincent Price's TV Trivia (USA)" id="0012">
+		<description>Vincent Price's TV Trivia (USA)</description>
+		<rom name="Vincent Price's TV Trivia (USA).wav" size="933040172" crc="3b9281b9" md5="f7451af7758f7cd3c80d82f437eb4dd3" sha1="761d13bc80e4d03df99b714272d3ef5e5e3b2002"/>
+	</game>
+	<game name="Words Word Words (USA)" id="0013">
+		<description>Words Word Words (USA)</description>
+		<rom name="Words Word Words (USA).wav" size="954557996" crc="042a8e3e" md5="49a1f8b11873d38c95e793588adf9bb4" sha1="96f18a3e3438f5561201b85904c20945b2e1fcda"/>
+	</game>
+</datafile>

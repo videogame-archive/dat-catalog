@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Compilations - Applications - [TAP]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Compilations - Applications - [TAP] (TOSEC-v2021-12-11)</description>
+		<category>TOSEC</category>
+		<version>2021-12-11</version>
+		<author>Grendel - Tankgirl - Sico - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bytes Voir Theoric No 13,14,15 (19xx)(-)(fr)">
+		<description>Bytes Voir Theoric No 13,14,15 (19xx)(-)(fr)</description>
+		<rom name="Bytes Voir Theoric No 13,14,15 (19xx)(-)(fr).tap" size="2485" crc="2094d75e" md5="51bbc5c05037c410c52543e7b94c3309" sha1="027a827e5a07ed544ecded3c8d078492508d9e9c"/>
+	</game>
+	<game name="Bytes Voir Theoric No 15 (19xx)(-)(fr)">
+		<description>Bytes Voir Theoric No 15 (19xx)(-)(fr)</description>
+		<rom name="Bytes Voir Theoric No 15 (19xx)(-)(fr).tap" size="398" crc="c0aeebeb" md5="5c24381ba3de98f80028d9a4986ab0f3" sha1="cf5530d57e6b799254f4be993cb984dc13ffd63f"/>
+	</game>
+</datafile>

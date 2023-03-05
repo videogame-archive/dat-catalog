@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar - Games - [COF]</name>
+		<description>Atari Jaguar - Games - [COF] (TOSEC-v2022-06-08)</description>
+		<category>TOSEC</category>
+		<version>2022-06-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Jagmatch (2015)(Mihai, Sebastian)">
+		<description>Jagmatch (2015)(Mihai, Sebastian)</description>
+		<rom name="Jagmatch (2015)(Mihai, Sebastian).cof" size="327582" crc="5d695a6a" md5="c89505ff700360e0ca9e4dccc8922ffd" sha1="4265945ec2beb5e8822e32059d8441cc880ec168"/>
+	</game>
+</datafile>
