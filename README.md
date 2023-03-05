@@ -19,7 +19,7 @@ root/normalized : contains the latest snapshot of dats.
 
 Each project directory structure depends on the organization of the project.
 
-Leaf nodes contain the dats, dats are stored in a directory with the dat name without any kind of qualifiers as they will be found in collections.
+Leaf nodes contain the dats, dats are stored in a directory with the dat name without any kind of qualifiers as they will be found in collections. This structure is called 'normalized' structure.
 
 For example:
 ```
@@ -29,7 +29,22 @@ normalized :
             |-Sega - Dreamcast - Datfile (1455) (2023-02-21 15-32-49).dat
 ```
 
+An alternative 'basic' structure is also provided linking to the 'normalized' one. This alternative structure removes any additional metadata information from the dat.
+
+For example:
+```
+basic :
+    |- Redump
+        |- Sega Dreamcast.dat
+```
+
+This two structures exist due to meet different preferences on navigation.
+
 ## Navigation
+The root folder contains:
+- A modified file, this file indicates when it was last updated.
+- An index.csv file, this file contains the list of projects.
+
 The root folder of each project contains:
 - A modified file, this file indicates when it was last updated.
 - An index.csv file, this file contains the list of files/directories.
