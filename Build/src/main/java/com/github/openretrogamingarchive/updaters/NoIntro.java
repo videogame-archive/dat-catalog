@@ -60,7 +60,6 @@ public class NoIntro extends Updater {
                         if (!Files.exists(basic)) {
                             Files.createDirectories(basic);
                         }
-
                         Util.createSymbolicLink(normalized.resolve(datFileName), basic.resolve(noIntroSystem + ".dat"));
                     }
                 }
