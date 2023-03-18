@@ -4,6 +4,8 @@ import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Map;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 import com.github.openretrogamingarchive.helpers.HTTP;
 import com.github.openretrogamingarchive.helpers.Util;
@@ -31,44 +33,47 @@ public class NoIntro extends Updater {
             final var resp2 = http.postFormExpectInputStream(resp1.uri(), "lazy_mode=Download");
 
             // if application/zip content-type then extract archive
-            if (HTTP.hasZip(resp2.headers())) {
-                Map<String, byte[]> resp2Files = ZIP.extractInMemory(resp2.body());
-                for (String pathToDat : resp2Files.keySet()) {
-                    if (pathToDat.endsWith(".dat")) {
-                        int systemStart = pathToDat.lastIndexOf('/') + 1;
-                        int systemEnd = pathToDat.lastIndexOf(' ');
-                        String noIntroSystemCategory = pathToDat.substring(0, systemStart - 1);
-                        String datFileName = pathToDat.substring(systemStart);
+			if (HTTP.hasZip(resp2.headers())) {
+				try (final var in = new ZipInputStream(resp2.body())) {
+					ZipEntry ze;
+					while (null != (ze = in.getNextEntry())) {
+						final var pathToDat = ze.getName();
+						if (pathToDat.endsWith(".dat")) {
+							int systemStart = pathToDat.lastIndexOf('/') + 1;
+							int systemEnd = pathToDat.lastIndexOf(' ');
+							String noIntroSystemCategory = pathToDat.substring(0, systemStart - 1);
+							String datFileName = pathToDat.substring(systemStart);
 
-                        String noIntroSystem = null;
+							String noIntroSystem = null;
 
-                        if (noIntroSystemCategory.equals("Redump Custom")) {
-                            noIntroSystem = pathToDat.substring(systemStart, pathToDat.indexOf("(") - 1);
-                        } else {
-                            noIntroSystem = pathToDat.substring(systemStart, systemEnd);
-                        }
+							if (noIntroSystemCategory.equals("Redump Custom")) {
+								noIntroSystem = pathToDat.substring(systemStart, pathToDat.indexOf("(") - 1);
+							} else {
+								noIntroSystem = pathToDat.substring(systemStart, systemEnd);
+							}
 
-                        // # Normalized
-                        Path normalized = NORMALIZED_DIR.resolve(NO_INTRO_DIR).resolve(noIntroSystemCategory).resolve(noIntroSystem);
-                        if (!Files.exists(normalized)) {
-                            Files.createDirectories(normalized);
-                        }
-                        Files.write(normalized.resolve(datFileName), resp2Files.get(pathToDat));
+							// # Normalized
+							Path normalized = NORMALIZED_DIR.resolve(NO_INTRO_DIR).resolve(noIntroSystemCategory).resolve(noIntroSystem);
+							if (!Files.exists(normalized)) {
+								Files.createDirectories(normalized);
+							}
+							Files.copy(in, normalized.resolve(datFileName));
 
-                        // # Basic
-                        Path basic = BASIC_DIR.resolve(NO_INTRO_DIR).resolve(noIntroSystemCategory);
-                        if (!Files.exists(basic)) {
-                            Files.createDirectories(basic);
-                        }
-                        Util.createSymbolicLink(normalized.resolve(datFileName), basic.resolve(noIntroSystem + ".dat"));
-                    }
-                }
-            } else {
-                throw new RuntimeException("FAILED (not zip)");
-            }
-        } else {
-            throw new RuntimeException("FAILED (status code unexpected)");
-        }
+							// # Basic
+							Path basic = BASIC_DIR.resolve(NO_INTRO_DIR).resolve(noIntroSystemCategory);
+							if (!Files.exists(basic)) {
+								Files.createDirectories(basic);
+							}
+							Util.createSymbolicLink(normalized.resolve(datFileName), basic.resolve(noIntroSystem + ".dat"));
+						}
+					}
+				}
+			} else {
+				throw new RuntimeException("FAILED (not zip)");
+			}
+		} else {
+			throw new RuntimeException("FAILED (status code unexpected)");
+		}
     }
 
     @Override

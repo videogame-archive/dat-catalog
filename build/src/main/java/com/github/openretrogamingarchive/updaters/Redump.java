@@ -2,7 +2,6 @@ package com.github.openretrogamingarchive.updaters;
 
 import static com.github.openretrogamingarchive.helpers.Util.scrap;
 import static com.github.openretrogamingarchive.helpers.Util.scrapOne;
-import static com.github.openretrogamingarchive.helpers.CSV.getLastPathName;
 
 import java.io.IOException;
 import java.net.URI;
@@ -13,8 +12,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.github.openretrogamingarchive.helpers.HTTP;
-import com.github.openretrogamingarchive.helpers.Util;
 import com.github.openretrogamingarchive.helpers.HTTP.ZIPMode;
+import com.github.openretrogamingarchive.helpers.Util;
 
 public class Redump extends Updater {
 
@@ -66,16 +65,16 @@ public class Redump extends Updater {
     private static List<RedumpSystem> getRedumpSystems() throws IOException, InterruptedException, URISyntaxException {
         String publicRedumpDownloadsPage = HTTP.downloadAsString(DOWNLOADS_URL);
         String systemsTable = scrap(publicRedumpDownloadsPage, "<table class=\"statistics\" cellspacing=\"0\">", "</table>").get(0);
-        List<String> systems = scrap(systemsTable, "<tr>", "</tr>");
+        List<String> systems = scrap(systemsTable, Util.PATTERN_TR);
         systems.remove(0);
 
         List<RedumpSystem> redumpSystems = new ArrayList<>(systems.size());
         for (String system : systems) {
-            List<String> systemInfo = scrap(system, "<td>", "</td>");
+            List<String> systemInfo = scrap(system, Util.PATTERN_TD);
             String name = systemInfo.get(0);
-            String dat = scrapOne(systemInfo.get(2), "<a href=\"", "\">");
-            String subDat = scrapOne(systemInfo.get(3), "<a href=\"", "\">");
-            String biosDat = scrapOne(systemInfo.get(5), "<a href=\"", "\">");
+            String dat = scrapOne(systemInfo.get(2), Util.PATTERN_A_HREF);
+            String subDat = scrapOne(systemInfo.get(3), Util.PATTERN_A_HREF);
+            String biosDat = scrapOne(systemInfo.get(5), Util.PATTERN_A_HREF);
             redumpSystems.add(new RedumpSystem(name, dat, subDat, biosDat));
         }
         return redumpSystems;

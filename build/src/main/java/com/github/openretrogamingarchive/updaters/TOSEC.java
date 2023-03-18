@@ -44,7 +44,7 @@ public class TOSEC extends Updater {
         String script_move = new String(files.get("Scripts/move/" + moduleName + "_move.bat"), StandardCharsets.UTF_8);
         for (String move : script_move.split("\r\n")) {
             // # Normalized
-            List<String> originToDestination = scrap(move, "\"", "\"");
+            List<String> originToDestination = scrap(move, Util.PATTERN_STR);
             String fileName = originToDestination.get(0);
             String path = originToDestination.get(1).replace('\\', '/');
             String normalizedOrigin = fileName.substring(0, fileName.indexOf(" (TOSEC-v"));
@@ -69,7 +69,7 @@ public class TOSEC extends Updater {
     private static InputStream getLastReleaseZip() throws IOException, InterruptedException, URISyntaxException {
         String publicDownloadsPage = HTTP.downloadAsString(DOWNLOADS_URL);
         String releaseTable = scrap(publicDownloadsPage, "<div class=\"pd-categoriesbox\">", "<div class=\"pd-categoriesbox\">").get(0);
-        List<String> releases = scrap(releaseTable, "<a href=\"", "\">");
+        List<String> releases = scrap(releaseTable, Util.PATTERN_A_HREF);
         String lastReleaseURL = DOMAIN + releases.get(1);
         String lastReleaseDownloadsPage = HTTP.downloadAsString(lastReleaseURL);
         String downloadURL = DOMAIN + "/downloads/category/" + scrap(lastReleaseDownloadsPage, "href=\"/downloads/category/", "\"").get(1);
