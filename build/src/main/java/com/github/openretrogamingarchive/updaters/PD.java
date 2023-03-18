@@ -48,7 +48,7 @@ public class PD extends Updater {
 			if(Files.exists(refRoot))
 				Util.deleteRecursive(refRoot);
 			Files.createDirectories(refRoot);
-			for(final var nf : in.lines().filter(l -> PD_LINE_PATTERN.matcher(l).matches()).map(l -> MD_LINK_PATTERN.matcher(l)).filter(Matcher::find).collect(Collectors.toMap(k -> k.group(1), k -> k.group(2))).entrySet())
+			for(final var nf : in.lines().filter(l -> PD_LINE_PATTERN.matcher(l).matches()).map(MD_LINK_PATTERN::matcher).filter(Matcher::find).collect(Collectors.toMap(k -> k.group(1), k -> k.group(2))).entrySet())
 			{
 				final var encoded = nf.getValue().replace(" ", "%20");
 				HTTP.downloadToFolder(URI.create(encoded), refRoot, ZIPMode.SMART);
