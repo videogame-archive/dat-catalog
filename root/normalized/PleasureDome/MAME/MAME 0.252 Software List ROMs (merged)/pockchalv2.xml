@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pockchalv2</name>
+		<description>Pocket Challenge V2 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="chu1suga">
+		<description>Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (2M1)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="2BM110.bin" size="2097152" crc="723a239d" sha1="a21d7c39ef64a37e0055c17d97c2ae7da29b8240" />
+	</machine>
+	<machine name="chuchire">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi (2PS)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chuchire4\4BD400.bin" size="4194304" crc="4cfd118d" sha1="8b395327209dae56461ef792cd2183d803e4687d" />
+		<rom name="chuchire6\6FD400.bin" size="4194304" crc="0ac0e39d" sha1="1c47daf71ef4277fcf3eabfa4697827c7c322867" />
+		<rom name="2BD400.bin" size="4194304" crc="93454b4a" sha1="3d820b91bb0fed87fc9343a8bc57c81256e4c490" />
+	</machine>
+	<machine name="chukoku">
+		<description>Shinkenzemi Chuugaku Kouza - Chuuichi Kokugo-Hyakunin Isshu (2JA)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="2BK401.bin" size="4194304" crc="b9d67f24" sha1="15c86cf056f680b91f2a6c15329bb31b44e030c6" />
+	</machine>
+	<machine name="churika">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bun'ya) (2-bun'ya) (2PL)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="churika6\6FF400.bin" size="4194304" crc="fc46a921" sha1="5b2fd488c6ab734dcf8893509589a751458ce977" />
+		<rom name="2BF400.bin" size="2097152" crc="75379357" sha1="791cd70cc9dc49a7ff38cc22a374c7d19eef1f70" />
+	</machine>
+	<machine name="chuu1eisu">
+		<description>Chuu 1 Eisuukoku Pack (7P)</description>
+		<year>2006</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="6fp105.pc2" size="16777216" crc="51b5822d" sha1="f842220a95a9bed6ef372da1380bafb53ff6c92a" />
+	</machine>
+	<machine name="chuu1eng">
+		<description>Shinkenzemi Chuugaku Kouza - Chuu1 English (2EC)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="2bb113 1112711.u1" size="4194304" crc="4e0b65b4" sha1="3a8ded7174ad8e0003604dca4ea158eeefac4610" />
+	</machine>
+	<machine name="chuu2enc">
+		<description>Chuu 2 Eisuukoku Pack (NEW CROWN, TOTAL ENGLISH Taiouban) (6PF)</description>
+		<year>2006</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="6fp203.pc2" size="8388608" crc="1bbb32a0" sha1="9529ba9a06846dc6d9cedf13881363922e63fbe0" />
+	</machine>
+	<machine name="chuu2ess">
+		<description>Chuu 2 Eisuukoku Pack (SUNSHINE, ONE WORLD Taiouban) (7PE)</description>
+		<year>2006</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="6fp212.pc2" size="8388608" crc="d2dbdf31" sha1="b6230b8c700daf4d2e613b12900d85a44773f9a4" />
+	</machine>
+	<machine name="chuu3enc">
+		<description>Chuu 3 Ei-Suu-Koumin Pack (NEW CROWN, TOTAL ENGLISH Taiouban) (7PI)</description>
+		<year>2006</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chuu3enca\5fp303.pc2" size="8388608" crc="9797db5e" sha1="07d6c8465932b88973b5e16678467c7315a20b2e" />
+		<rom name="6fp313.pc2" size="8388608" crc="c14378c8" sha1="2581babb2c8d3e3d8977e4aa1efea269c606e780" />
+	</machine>
+	<machine name="chuuchiri">
+		<description>Chuugaku Chiri (4C)</description>
+		<year>2004</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="4bd410.pc2" size="2097152" crc="3c820f61" sha1="576c74d55786bd6b68f2d1bdc35e0363b6076bd4" />
+	</machine>
+	<machine name="chuurika1b">
+		<description>Chuugaku Rika (1-bun'ya) (5L1)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chuurika1ba\6ff421.pc2" size="2097152" crc="bf3b02b3" sha1="fe6f99a852f6ee76847e4542f2ccd113c41f49fd" />
+		<rom name="5ff411.pc2" size="2097152" crc="c0653c7e" sha1="8abae2464c429bebea72a2428a90b74cc86204f8" />
+	</machine>
+	<machine name="chuurika2b">
+		<description>Chuugaku Rika (2-bun'ya) (5L2)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chuurika2ba\6ff422.pc2" size="2097152" crc="659a0b6d" sha1="40fbf94202e45440de9db7631a10746975c5f7bd" />
+		<rom name="5ff412.pc2" size="2097152" crc="3686dc22" sha1="67c349a92f647637a563015351daae6d9b3a80da" />
+	</machine>
+	<machine name="jitsugi4">
+		<description>Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (2BG)</description>
+		<year>2002</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="jitsugi43\3gb410 3020320 jitugi4 32-14n.u1" size="4194304" crc="2ff15e1a" sha1="f6c61d95fb26063c9d49ed0f36169aafbd6a3738" />
+		<rom name="2BG410.bin" size="4194304" crc="84b430e9" sha1="bb1de1f0fc80a85f3b7fb7e53ed04718855aaf0b" />
+	</machine>
+</datafile>

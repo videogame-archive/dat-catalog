@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>bml3_flop</name>
+		<description>Hitachi Basic Master Level 3 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dbu">
+		<description>Disk Basic and Utilities</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="dbu.d88" size="346800" crc="9af7d68f" sha1="adea7e9b6ada493a9b7a378a43762b0183dacf05" />
+	</machine>
+	<machine name="fcg6890">
+		<description>FCG6890</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="fcg6890.d88" size="346800" crc="47e5a35c" sha1="de3da9839de2d5bd760cf5c3120896f34ca020ef" />
+	</machine>
+	<machine name="hiwriter">
+		<description>HI-Writer 1.5</description>
+		<year>19??</year>
+		<publisher>Hisoft Pty. Ltd.</publisher>
+		<rom name="hidata.d88" size="185008" crc="bc610e83" sha1="162432ff9be34a87f20a02664c0aa1f8e0cb674b" />
+		<rom name="hiwriter.d88" size="346800" crc="637f3b94" sha1="0bf7fdb528e03aa2409f386e63e257f5aa013c8f" />
+	</machine>
+	<machine name="insecth">
+		<description>Insect Hunter</description>
+		<year>1986</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="insecth.d88" size="346800" crc="cd06a634" sha1="c4a35d229db9f1f09e083c71bd65f41d846db064" />
+	</machine>
+	<machine name="jwp">
+		<description>Japanese Word Processor</description>
+		<year>1985</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="jwp.d88" size="346800" crc="26139d53" sha1="561a15859d6da9cb3448277b494c2589c40644fd" />
+	</machine>
+	<machine name="ma5370">
+		<description>MA5370</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="ma5370.d88" size="185008" crc="04bfeb8a" sha1="e273c53286144d2cbdc1a9616945bf2c2f5267d5" />
+	</machine>
+	<machine name="subtreas">
+		<description>Submarine Treasures Pick Up</description>
+		<year>1985</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="tetris.d88" size="346800" crc="484cf520" sha1="adb4d687e8ace9e35b7bc9f9a20a9cc5c5cf6ae7" />
+	</machine>
+	<machine name="tetris">
+		<description>Tetris</description>
+		<year>1991</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="tetris.d88" size="346800" crc="f19034fc" sha1="de8385deac89f149837d76d920113c9010182def" />
+	</machine>
+</datafile>

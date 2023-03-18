@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>rwtrntcs</name>
+		<description>Rowtron Television Computer System cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="mmuncher">
+		<description>Monster Munchers</description>
+		<year>19??</year>
+		<publisher>Rowtron?</publisher>
+		<rom name="rom.bin" size="2048" crc="df923137" sha1="59d53670590dab3f9ebb30279cff44098fc27be2" />
+	</machine>
+	<machine name="sportwld">
+		<description>SportsWorld</description>
+		<year>19??</year>
+		<publisher>Rowtron?</publisher>
+		<rom name="rom.bin" size="2048" crc="682b876a" sha1="ecc0146c40daa79a13934b8884bc8fd0f96461c1" />
+	</machine>
+</datafile>

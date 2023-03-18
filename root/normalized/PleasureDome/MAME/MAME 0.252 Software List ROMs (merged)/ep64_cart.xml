@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ep64_cart</name>
+		<description>Enterprise Sixty Four cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>BASIC (v2.1)</description>
+		<year>198?</year>
+		<publisher>Intelligent Software</publisher>
+		<rom name="basic10\basic 1.0 - eprom 1-2 (198x)(enterprise).bin" size="8192" crc="681961cd" sha1="052ac869da3764b44031328cd584985f705a6516" />
+		<rom name="basic10\basic 1.0 - eprom 2-2 (198x)(enterprise).bin" size="8192" crc="9cddb79e" sha1="7551f74cc332f20923c36b24ae0ad3274f74ec37" />
+		<rom name="basic21\basic interpreter v2.1 (1985)(intelligent software).bin" size="16384" crc="55f96251" sha1="03bbb386cf530e804363acdfc1d13e64cf28af2e" />
+		<rom name="9128ds-0237_enter08-46-a.u1" size="16384" crc="683cf455" sha1="50a548d1df3ea86f9b5fa669afd8ff124050e776" />
+	</machine>
+	<machine name="brd">
+		<description>brd</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="brd.rom" size="16384" crc="f45a7454" sha1="096c91fad6a4d10323cd67e133b3ebc5c50e2bb2" />
+	</machine>
+	<machine name="epdos">
+		<description>EPDOS (v1.7)</description>
+		<year>198?</year>
+		<publisher>Haluska, Laszlo</publisher>
+		<rom name="epdos v1.7 (19xx)(haluska, laszlo).bin" size="32768" crc="201319eb" sha1="08da5017cb95c9f5edf07a66903eef414621cd7d" />
+	</machine>
+	<machine name="exdos">
+		<description>EX-DOS EPROM</description>
+		<year>198?</year>
+		<publisher>Enterprise Computers</publisher>
+		<rom name="ex-dos eprom (198x)(enterprise).bin" size="16384" crc="e6daa0e9" sha1="05ba161aa8796c04f227eb2d52496943ada814f2" />
+	</machine>
+	<machine name="exdosbf">
+		<description>EXDos BASIC + FORTH</description>
+		<year>198?</year>
+		<publisher>Enterprise Computers</publisher>
+		<rom name="exdos basic+forth (198x)(enterprise).bin" size="32768" crc="0cc38deb" sha1="e381f0efd7d3235336c23c32e9d9dc3f96059b7f" />
+	</machine>
+	<machine name="forth">
+		<description>Forth</description>
+		<year>198?</year>
+		<publisher>Enterprise Computers</publisher>
+		<rom name="forth (198x)(enterprise).bin" size="16384" crc="5077dc39" sha1="9ca625742444f87fdf82e1586fc1799bd3302209" />
+	</machine>
+	<machine name="hp">
+		<description>HP Enterprise (v1.01)</description>
+		<year>1985</year>
+		<publisher>HiSoft</publisher>
+		<rom name="hp enterprise v1.01 (1985)(hisoft).bin" size="16384" crc="944c0baa" sha1="ad344075398a4cfa928201d2a97d51e6cdc37dd3" />
+	</machine>
+	<machine name="pascal">
+		<description>HiSoft Pascal Enterprise (v1.01)</description>
+		<year>1985</year>
+		<publisher>HiSoft</publisher>
+		<rom name="hisoft pascal enterprise v1.01 (1985)(hisoft).bin" size="32768" crc="d62f2a46" sha1="05c0a9859e484d6ec051da7415b2a9070cf26f11" />
+	</machine>
+	<machine name="texisdos">
+		<description>Turbo EXDOS+ISDOS</description>
+		<year>198?</year>
+		<publisher>Zoltan Nemeth</publisher>
+		<rom name="turbo exdos+isdos (19xx)(zoltan nemeth).bin" size="32768" crc="bc02efa9" sha1="ebfac10f92173942bb4fed6da8336ae8d257a1bd" />
+	</machine>
+	<machine name="turboasm">
+		<description>Turbo AsMon (v1.5)</description>
+		<year>198?</year>
+		<publisher>Sandor Gyangy</publisher>
+		<rom name="turbo asmon 1.5 (19xx)(sandor gyangy).bin" size="32768" crc="9bebc655" sha1="0d1ef90a36e1014f29b2eeffbc585307da01ee56" />
+	</machine>
+	<machine name="uelisp">
+		<description>UELISP (v0.6)</description>
+		<year>198?</year>
+		<publisher>Enterprise Computers</publisher>
+		<rom name="uelisp v0.6 (198x)(enterprise).bin" size="16383" crc="bf516194" sha1="0ca8588123e3573eed84c2b5fd030959e396aa88" status="baddump" />
+	</machine>
+	<machine name="zozotool">
+		<description>ZozoTools (v1.8)</description>
+		<year>198?</year>
+		<publisher>Zoltan Nemeth</publisher>
+		<rom name="zozotools v1.8 (19xx)(zoltan nemeth).bin" size="32768" crc="5e8d0aa9" sha1="8b7db07b0ade24b9420cf5d4531e729b637fa5c9" />
+	</machine>
+</datafile>

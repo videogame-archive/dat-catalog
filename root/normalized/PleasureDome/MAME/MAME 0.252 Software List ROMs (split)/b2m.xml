@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>b2m</name>
+		<description>BNPO Bashkiria-2M disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="disk1">
+		<description>DISK1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="disk1.cpm" size="819200" crc="086d41b5" sha1="9e6f97364865abef31fd99e232da53541d545e03" />
+	</machine>
+	<machine name="disk2">
+		<description>DISK2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="disk2.cpm" size="819200" crc="45d0f9fa" sha1="f10b54cf4c5b67725b35aeadf526c0ce2c2a5ac4" />
+	</machine>
+	<machine name="newgames">
+		<description>newgames</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="newgames.cpm" size="819200" crc="d6b4b9dc" sha1="fe2b5f25f0721e9acbe3046f702589da6357d23c" />
+	</machine>
+</datafile>

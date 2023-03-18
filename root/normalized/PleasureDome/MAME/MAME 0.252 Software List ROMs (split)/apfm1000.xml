@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>apfm1000</name>
+		<description>APF M-1000 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="backgamm">
+		<description>Backgammon</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="backgmmn.bin" size="4096" crc="811c6269" sha1="f820334bb6df9b856f54f1957b60a5e70bdd6d7e" />
+	</machine>
+	<machine name="baseball">
+		<description>Baseball</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="baseball.bin" size="4096" crc="1fb354b7" sha1="2c93d8e764b1e1dfdc1bde7888b385cc28064f86" />
+	</machine>
+	<machine name="basic">
+		<description>APF Basic</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="basic_68.rom" size="4096" crc="5f30370b" sha1="cf11bd975749b88df4d82cd460035cb92563ceff" />
+		<rom name="basic_80.rom" size="8192" crc="a4c69fae" sha1="7f98aa482589bf7c5a26d338fec105e797ba43f6" />
+	</machine>
+	<machine name="blckjack">
+		<description>Blackjack</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="blackjck.bin" size="4096" crc="38faa709" sha1="1a99f4781ce4604a550f4ec9d8559e3456303464" />
+	</machine>
+	<machine name="bowling">
+		<description>Bowling / Micro Match</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="bowling.bin" size="4096" crc="cca5836b" sha1="4ff1c4ffa46c543bbf48a519a4285b5d2c697ae3" />
+	</machine>
+	<machine name="boxing">
+		<description>Boxing</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="boxing.bin" size="4096" crc="7121f8b1" sha1="e7ae8571b496444ded77aaaa3c1d5f5ee97c651f" />
+	</machine>
+	<machine name="brickdwn">
+		<description>Brickdown / Shooting Gallery</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="brickdwn.bin" size="2048" crc="bc1f5b8b" sha1="3e2f1e93501cd0dd2c9b747c594b784360e5b175" />
+	</machine>
+	<machine name="casino">
+		<description>Casino 1: Slots / Roulette / Keno</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="casino.bin" size="4096" crc="21d5f63f" sha1="fa34ebdb799ccd2bff9f63ce4189a4ee690706fa" />
+	</machine>
+	<machine name="catena">
+		<description>Catena</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="catena.bin" size="2048" crc="6baad95f" sha1="b63ad3a60b59aad9b4605ff96f77839565144278" />
+	</machine>
+	<machine name="catenaa">
+		<description>Catena (Alt)</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="catenaa.bin" size="2048" crc="5d03a812" sha1="29db4ca3c8b76c413b84b6d2bfd3499a70eccd3d" />
+	</machine>
+	<machine name="chardump">
+		<description>Character Dump</description>
+		<year>2010</year>
+		<publisher>Adam Trionfo</publisher>
+		<rom name="chardump.bin" size="4096" crc="27bd1c3c" sha1="826b608b6c33798942bd716928eef70cc8e83bda" />
+	</machine>
+	<machine name="columns">
+		<description>Columns / Targets / Bacteria / Autopista</description>
+		<year>1995</year>
+		<publisher>Enrique Collado</publisher>
+		<rom name="columns.bin" size="3733" crc="71c2955c" sha1="7e571e32ff05c92c7be7d2e42a0868538a7c5800" />
+	</machine>
+	<machine name="ebasic">
+		<description>Extended Basic</description>
+		<year>1983</year>
+		<publisher>R.L. Recker</publisher>
+		<rom name="basic_68.bin" size="4096" crc="e99b5102" sha1="62a79dc5f25a60d9007c90adf778fba432dfb900" />
+		<rom name="basic_78.bin" size="2048" crc="fdcf7782" sha1="aa0b94182920a232c1e2fb7e3a4d9042511572c4" />
+		<rom name="basic_80.bin" size="8192" crc="3fefbd81" sha1="d8c3ea8a152da50f71b98c464f47919e16743d29" />
+	</machine>
+	<machine name="hangman">
+		<description>Hangman / Tic Tac Toe / Doodle</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="hangman.bin" size="4096" crc="e58a5d5b" sha1="205d659db0e0ab0292d33b5b4a9c2b46ca9d1dd5" />
+	</machine>
+	<machine name="mblock02">
+		<description>Move Block 2</description>
+		<year>2010</year>
+		<publisher>Adam Trionfo</publisher>
+		<rom name="mblock02.bin" size="4096" crc="cf63865a" sha1="8c8e6924ab511d69a31eb52faaaad5efb7888f33" />
+	</machine>
+	<machine name="movblock">
+		<description>Move Block</description>
+		<year>2010</year>
+		<publisher>Adam Trionfo</publisher>
+		<rom name="movblock.bin" size="4096" crc="f77f72f4" sha1="2cf3a82d584b2a2e4c7e5ae751da8d0255c2295a" />
+	</machine>
+	<machine name="pinball">
+		<description>Pinball / Dungeon Hunt / Blockout</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="pinball.bin" size="4096" crc="3f4b8c83" sha1="1f5bca6e96777ccbe830d1143a3549f51a3e386e" />
+	</machine>
+	<machine name="readpia">
+		<description>Read PIA</description>
+		<year>2010</year>
+		<publisher>Adam Trionfo</publisher>
+		<rom name="readpia.bin" size="4096" crc="700c1e39" sha1="701c4f8a9fc20c8f28a5c0562592ed873d9d9ab4" />
+	</machine>
+	<machine name="spacedst">
+		<description>Space Destroyers</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="apf1013a.bin" size="4096" crc="f25215a0" sha1="72da492092b883eb31cffb41ea353e919c86d285" />
+		<rom name="apf1013b.bin" size="2048" crc="8c3a9faa" sha1="b3cfc23c65558ef7b67c9afa01a306c8123e227f" />
+	</machine>
+	<machine name="ufo">
+		<description>Ufo / Sea Monsters / Break It Down / Rebuild / Shoot</description>
+		<year>1979</year>
+		<publisher>APF</publisher>
+		<rom name="ufo.bin" size="4096" crc="0504d667" sha1="6e33593f9e7a4551bc31b347741d9ff87ce618ca" />
+	</machine>
+</datafile>

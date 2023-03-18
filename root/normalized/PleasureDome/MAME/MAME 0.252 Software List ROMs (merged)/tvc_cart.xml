@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>tvc_cart</name>
+		<description>Videoton TVC 64 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bridzs">
+		<description>VT Bridzs</description>
+		<year>1985</year>
+		<publisher>Videoton</publisher>
+		<rom name="bridzs.crt" size="16384" crc="c44ae1a3" sha1="591fc00c68d06ffd73daf554d6fb0cc267a8e569" />
+	</machine>
+	<machine name="harcaf">
+		<description>Harc a föld körül</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="harc_a_fold_korul.crt" size="16384" crc="fd36749a" sha1="b12b3171e4ca970189cb22b35ca4e0d0393dc172" />
+	</machine>
+	<machine name="invaders">
+		<description>Space Invaders</description>
+		<year>1986</year>
+		<publisher>Videoton</publisher>
+		<rom name="urhodito\drhodito.crt" size="8192" crc="fbbcf0ad" sha1="a0bc588632b0a4ffee4d55187d8f43d06e6e580f" />
+		<rom name="tvc_cartridge_49201_-_space_invaders.rom" size="8192" crc="ff117314" sha1="5054bd8c13290b9ab0841a4ad0d477caba699899" />
+	</machine>
+	<machine name="marokko">
+		<description>Marokkó</description>
+		<year>198?</year>
+		<publisher>Videoton</publisher>
+		<rom name="marokko.crt" size="8192" crc="88fcfcc3" sha1="802051b0c68646715e1675f7811cb613619a9feb" />
+	</machine>
+	<machine name="packman">
+		<description>Pack Man</description>
+		<year>198?</year>
+		<publisher>Videoton</publisher>
+		<rom name="pack_man.crt" size="16384" crc="6043c204" sha1="1b77340dc2d42cb860908bc4bf83578ab3f83710" />
+	</machine>
+	<machine name="tetris">
+		<description>Tetris</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="tetris.crt" size="8192" crc="e7d3dcd5" sha1="f079d3ded9ee47cf89990d92111aa5dddbb80b07" />
+	</machine>
+	<machine name="trudi">
+		<description>Turbó Rudi</description>
+		<year>1987</year>
+		<publisher>a-Studio</publisher>
+		<rom name="turbo_rudi.crt" size="16384" crc="d7016608" sha1="e0b3c28fc4056a2232f499ce261fabc7098a3f51" />
+	</machine>
+	<machine name="upm">
+		<description>UPM diszkes OS</description>
+		<year>1986</year>
+		<publisher>Videoton</publisher>
+		<rom name="c_tvcupm.128" size="16384" crc="efca95fc" sha1="d4c606d84c9672c4a7bc4ecc38643c6400fbc753" />
+	</machine>
+	<machine name="varazsgo">
+		<description>Varázsgömb</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="varazsgomb.crt" size="8192" crc="adf1f38b" sha1="a6f2c6afbc12ca5cf7b567414f5c820cb8bcf532" />
+	</machine>
+	<machine name="volleyba">
+		<description>Volleyball</description>
+		<year>1990</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="volleyball.crt" size="8192" crc="34da215d" sha1="073bbd13492b12627bdaaef6f8fa2c7f90cb64ad" />
+	</machine>
+	<machine name="vtdos12">
+		<description>VT-DOS v1.2</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="vtdos11\c_tvcdos.128" size="16384" crc="40ddc741" sha1="811bdf21f60c8ff9dfe3e58b7b225150535b5261" />
+		<rom name="c_dos12.128" size="16384" crc="ffd453da" sha1="971fb29ebd8b34a9981ff40adc5ca2a2de9c391a" />
+	</machine>
+</datafile>

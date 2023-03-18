@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pro128_cart</name>
+		<description>Olivetti Prodest PC 128 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="colorpnt">
+		<description>Colorpaint</description>
+		<year>198?</year>
+		<publisher>Olivetti Prodest?</publisher>
+		<rom name="colorpnta\colorpaint (alt).bin" size="32768" crc="8fa1493b" sha1="d27c6db21adb29dc76df33d7a3855f8532d8cc57" />
+		<rom name="colorpaint.bin" size="32768" crc="6548bc4e" sha1="4ab870877ffd25eec93d65507c4afe262369b0a1" />
+	</machine>
+	<machine name="scriptor">
+		<description>Scriptor</description>
+		<year>1986</year>
+		<publisher>Olivetti Prodest</publisher>
+		<rom name="scriptora\scriptor (alt).bin" size="16384" crc="3bb553c9" sha1="b8b4b7618684e0c9331e8759fe13b07d22340fbe" />
+		<rom name="scriptor.bin" size="16384" crc="d15ca6bc" sha1="ad39e669a0d8b8707b06db66cfb6fc389e8610b3" />
+	</machine>
+</datafile>

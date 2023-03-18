@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pockchalw</name>
+		<description>Pocket Challenge W cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="chuchi">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (9C)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chuchia\6BD410 [C].pcw" size="2097152" crc="ad5136ae" sha1="23d1aa199baff4b8839606305ec07be6cc90bb36" />
+		<rom name="chuchib\7BD410 [NC].pcw" size="2097152" crc="8de1ed5a" sha1="c04bb0bed7c747663ad268d9bb6d82c9f442ebfd" />
+		<rom name="9c 9bd410 99cge0 c1d1.u307" size="2097152" crc="a1b3c2c9" sha1="8e4964369b1c56ea634044f1a47824d169e06be7" />
+	</machine>
+	<machine name="chuchire">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (PS)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chuchirea\8BD400 [CR].pcw" size="4194304" crc="f27575fe" sha1="92f3ae2db233d3fd84809c7658f2feaa85477ecf" />
+		<rom name="ps 0bd400 00repcs c1d1.u9" size="4194304" crc="5601f35c" sha1="7b55ba4fe8ff7203fa60190106f2f79befb06aae" />
+	</machine>
+	<machine name="chukkesr">
+		<description>Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (N-G1)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chukkesra\0BI711 [1G1].pcw" size="4194304" crc="7f23d0d6" sha1="370512c1487975b3fb0eafeacfbb19d0895c5859" />
+		<rom name="chukkesrb\6BI711 [G-1].pcw" size="4194304" crc="b9831924" sha1="c8bdaf467a6bc8e8b507f62c0571665604e95457" />
+		<rom name="chukkesrc\9BI711 [0G1].pcw" size="4194304" crc="61f2a31b" sha1="8dc5cd801dcf751b3db2ac1c7a5dc262fa8ba690" />
+		<rom name="n-g1 7bi711 98cj4mb c1d1.u307" size="4194304" crc="53c2ff43" sha1="1baba9ecb24b46d9319bf0b13b1d8e5409ff5214" />
+	</machine>
+	<machine name="chukkjuk">
+		<description>Shinkenzemi Chuugaku Kouza - Koukou Juken (Kuni - Suu) (0G2)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chukkjuka\6BI712 [G-2].pcw" size="4194304" crc="81f4fa3e" sha1="64568701550d92c7223c823572912b9f2a28be90" />
+		<rom name="0g2 9bi712 00cj 2mb c1d1.u307" size="2097152" crc="0fcdc311" sha1="1f6d2e1a2993c3d9ad703d02ee1b3175e170a0af" />
+	</machine>
+	<machine name="chukoei1">
+		<description>Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (S11)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="0bb111nh [s11].pcw" size="4194304" crc="be0cfa07" sha1="8b0e25662b6189fa6a1ca359cb0f181a1bf82683" />
+	</machine>
+	<machine name="chukoei2">
+		<description>Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chukoei2a\7BB211NH [N21].pcw" size="4194304" crc="5138519c" sha1="969019294b091f16c106e815b2f82555e5287ecd" />
+		<rom name="chukoei2b\7BB212SS [N22].pcw" size="4194304" crc="31e9e8cc" sha1="749f183d27576e597446e730027c94e4596a7c77" />
+		<rom name="chukoei2c\7BB214TE [N24].pcw" size="4194304" crc="3c08e0da" sha1="005c6eda7d01e4c4dac22421b1eb5c0a808d7ce0" />
+		<rom name="5BB212SS.pcw" size="4194304" crc="ff3e9b62" sha1="2190cede2e41a216720e268bdba6493d3f7a3e5e" />
+	</machine>
+	<machine name="chukoei3">
+		<description>Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (N31)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chukoei3a\7BB312SS (N32).pcw" size="4194304" crc="c4676fc9" sha1="22ce96259e77f949246feec1cb99523fd2713c85" />
+		<rom name="chukoei3b\7BB313NC [N33].pcw" size="4194304" crc="dde96468" sha1="6f97e2e3f1d7007cdbcaddbec67994fbdc3ac339" />
+		<rom name="chukoei3c\7BB315OW [N35].pcw" size="4194304" crc="ae06430d" sha1="8f46ac185c6db2b470ff37760ade79c659502434" />
+		<rom name="chukoei3d\7BB317CB [N37].pcw" size="4194304" crc="149501fb" sha1="cb6788d99c0955a097ecf8b95aad27f9241cf532" />
+		<rom name="7BB311NH (N31).pcw" size="4194304" crc="a18685a5" sha1="00b9b776ea5c6759f469ead648a0f76c476c27e0" />
+	</machine>
+	<machine name="chukomnn">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (NK)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="chukomn1\01p0l c1d1.u307" size="1048576" crc="bf9da3ea" sha1="423266d16f6fecc367223c45658e3802176f1f7a" />
+		<rom name="nk 7be310 97cpol c1d2.u307" size="1048576" crc="efef730e" sha1="6f4906d36fc751cf2c52bf9ff4a388fd19ae51d2" />
+	</machine>
+	<machine name="chureki">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (R)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="churekia\7BC410 [NR].pcw" size="1048576" crc="2eb6506e" sha1="e826ef39819ad4155c228766723c6921e1c11e01" />
+		<rom name="5BC410 [R].pcw" size="2097152" crc="7865be62" sha1="143150a6a97a4f1ab7f3a342529ddc49cca5cb21" />
+	</machine>
+	<machine name="churi1bu">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (L1)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="churi1bua\7BF411 [L1] star.pcw" size="2097152" crc="0c80ec13" sha1="facf2824e053badb12790c0346c9adf267eb0abc" />
+		<rom name="7BF411 [L1].pcw" size="2097152" crc="bdc7847d" sha1="c4fd4e0c3f3cee47a22eb8d0c72d9869c9c27c6e" />
+	</machine>
+	<machine name="churi2bu">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (L2)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="churi2bua\7BF411 [L2] star.pcw" size="2097152" crc="336289bc" sha1="4236ce0221b351f12d885959b15aa715faa4e167" />
+		<rom name="7BF412 [L2].pcw" size="2097152" crc="a6e409e8" sha1="ac1894bd09d76d8941bf0afb0e2ad334eb8c1df7" />
+	</machine>
+	<machine name="churika">
+		<description>Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (1-bunya - Soft 2-bunya Soft Kanzen Taiou Ban) (PL)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="churikaa\8BF400 [LP].pcw" size="4194304" crc="d35a38da" sha1="eb17b2a7a791f68898e0162bd4ab5e0f1c2fa9e2" />
+		<rom name="pl 0bf400 00pcr c1d1.u9" size="4194304" crc="50016928" sha1="16287268d138b99ca90421d6c1aff737b4273451" />
+	</machine>
+	<machine name="hineijuk">
+		<description>Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Ei Jukugo (J)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="j 7bbd02 97kjuk c1d1.u307" size="4194304" crc="c3db01f2" sha1="00aa30156ea3fdc4d436e73719f5c6bf8565fc61" />
+	</machine>
+	<machine name="hineitan">
+		<description>Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eitango (T)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="7BBD01 [T].pcw" size="4194304" crc="2bad015c" sha1="969107adcb0fce2125a34ebb50874db360c2a1b7" />
+	</machine>
+	<machine name="hinniko">
+		<description>Shinkenzemi Koukou Kouza - Hinshutsu Nihonshi Kouryaku (0D)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="9BCD02 [0D].pcw" size="4194304" crc="7911aec2" sha1="390916d7e2903e362a32c1bfc883661543cb070c" />
+	</machine>
+	<machine name="hinseko">
+		<description>Shinkenzemi Koukou Kouza - Hinshutsu Sekaishi Kouryaku (W)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="hinsekoa\9BCD01 [0W].pcw" size="4194304" crc="9e274ac9" sha1="abbd8f9aadf4f5a118aa51c639703c86d086c02c" />
+		<rom name="8BCD01 [W].pcw" size="4194304" crc="38384ad4" sha1="fe8e738e6344c52b26d17ee285d1c6bccf91a094" />
+	</machine>
+	<machine name="jitsugi4">
+		<description>Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (BG)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="0001k7010.u307" size="4194304" crc="e34787bb" sha1="047702d12370185477f36d2bd9a499285ae53d52" />
+	</machine>
+	<machine name="jukokor">
+		<description>Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (A) (8BKD01)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="jukokora\0BKD01 [A].pcw" size="4194304" crc="c6157409" sha1="3f0bd5aaa7cee3fab0d7434943805d2c35ef220f" />
+		<rom name="9810k7024.u307" size="4194304" crc="f5df48f5" sha1="870ee10ecd3cff631d5a3559b7b7b3f504684cfd" />
+	</machine>
+	<machine name="juueiko">
+		<description>Shinkenzemi Koukou Kouza - Daigaku Juken Series - Juuyou Eigo Koubun (B)</description>
+		<year>2000?</year>
+		<publisher>Benesse Corporation</publisher>
+		<rom name="7BBD03 [B].pcw" size="2097152" crc="9c9c0426" sha1="b99b44ff1cf203316e35e2637c06d34ed16b7089" />
+	</machine>
+</datafile>

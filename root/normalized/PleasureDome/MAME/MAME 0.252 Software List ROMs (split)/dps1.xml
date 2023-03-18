@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>dps1</name>
+		<description>Ithaca InterSystems DPS-1 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm">
+		<description>CP/M</description>
+		<year>197?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="dps1.imd" size="41261" crc="232626a4" sha1="dd25565f4394738e3c481e8123c598220c796cc1" />
+	</machine>
+</datafile>

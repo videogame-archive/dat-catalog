@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>lanteach</name>
+		<description>Language Teacher modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="germant">
+		<description>German For Travel</description>
+		<year>1980</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd3509.vsm" size="16384" crc="a2877cbb" sha1="500dd1319bea28b41b6cfdaaeaecdef66c066854" />
+	</machine>
+</datafile>

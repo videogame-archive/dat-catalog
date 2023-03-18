@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>alphatro_cart</name>
+		<description>Triumph-Adler Alphatronic PC cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="escape">
+		<description>Escape / Brief Editor</description>
+		<year>1983</year>
+		<publisher>Bongartz + Schmidt Datentechnik</publisher>
+		<rom name="escape_be_d2_rom_pack_1.bin" size="8192" crc="6f387744" sha1="e30b5c51db2cc69968b1483a99260dae1ad7b220" />
+		<rom name="escape_be_d2_rom_pack_2.bin" size="8192" crc="bc524428" sha1="78a79d12e454fd322f366f4c385770b7dd2b465c" />
+	</machine>
+	<machine name="microtxt">
+		<description>Micro-Text</description>
+		<year>1983</year>
+		<publisher>VictorSoft</publisher>
+		<rom name="microtext.bin" size="8192" crc="7a7eba6b" sha1="e75465ee6b397f806674fa645264fb2633ba7470" />
+	</machine>
+</datafile>

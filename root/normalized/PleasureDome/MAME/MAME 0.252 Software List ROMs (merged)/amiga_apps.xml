@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>amiga_apps</name>
+		<description>Commodore Amiga Application disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="appetide">
+		<description>Appetizer (De)</description>
+		<year>1989</year>
+		<publisher>Gold Disk</publisher>
+		<rom name="appetisv\amiga appetizer (sv).adf" size="901120" crc="8be0554b" sha1="0bba0914ea63c8e1c69e55ae502df6add2244d22" />
+		<rom name="appetizer_de.adf" size="901120" crc="cea608ca" sha1="3b653f1d6925ebbf46141e111fd28b5eecadf58e" />
+	</machine>
+	<machine name="dast11de">
+		<description>Datastore 1.1 (De)</description>
+		<year>1995</year>
+		<publisher>Digita</publisher>
+		<rom name="datastore11_de.adf" size="901120" crc="8fc8bb62" sha1="05cc8175f2218532ad35b8fbb6c724b4bd0d9c3d" />
+	</machine>
+	<machine name="deskbudg">
+		<description>Desktop Budget (Sv)</description>
+		<year>1989</year>
+		<publisher>Gold Disk</publisher>
+		<rom name="desktop budget (swe).adf" size="901120" crc="d9c1fab6" sha1="013b152b9aa7eff0263d54b85bb107f77b4c4245" />
+	</machine>
+	<machine name="orga11de">
+		<description>Organiser 1.1 (De)</description>
+		<year>1995</year>
+		<publisher>Digita</publisher>
+		<rom name="organiser11_de.adf" size="901120" crc="0d8ac3ec" sha1="ce0453c1a48a648c968e84a9afe6bfb939d3817c" />
+	</machine>
+	<machine name="pg12sede">
+		<description>Photogenics 1.2a SE (De)</description>
+		<year>1994</year>
+		<publisher>Almathera</publisher>
+		<rom name="photogenics12a_se_de.adf" size="901120" crc="11ec1456" sha1="2ecbeec2b3ef12c1aaf128cd9d1b1983673df462" />
+	</machine>
+	<machine name="ppaint64">
+		<description>Personal Paint 6.4</description>
+		<year>1995</year>
+		<publisher>Cloanto</publisher>
+		<rom name="ppaint64_disk1.adf" size="901120" crc="58c7c6ad" sha1="55e5c6d7a4988f731a584e7ae3ebc929ca3a5984" />
+		<rom name="ppaint64_disk2.adf" size="901120" crc="b78b34ed" sha1="8f47af863647f86887cd37b5a89a641bd4d2e5e2" />
+	</machine>
+	<machine name="simplet2">
+		<description>Simplex Tools 2 - RAP!TOP!COP! (De)</description>
+		<year>1992</year>
+		<publisher>MSPI</publisher>
+		<rom name="simplex_tools_2.adf" size="901120" crc="9d211a17" sha1="a1021a34f6f95adc38021a24aed59300d6a211e6" />
+	</machine>
+	<machine name="suprdupr">
+		<description>SuperDuper 2.02</description>
+		<year>19??</year>
+		<publisher>Amitech Denmark</publisher>
+		<rom name="superduper 2.02.adf" size="901120" crc="fba10303" sha1="281945a469e0e791ab63c7c4cb5b8ffbb1663095" />
+	</machine>
+	<machine name="turboc35">
+		<description>Turbo Calc 3.5 (De)</description>
+		<year>1995</year>
+		<publisher>Schatztruhe</publisher>
+		<rom name="turbocalc35_disk1.adf" size="901120" crc="ed4f1434" sha1="1ab0caa3c96fecf37fd957dc5bfeb28b7d03adf1" />
+		<rom name="turbocalc35_disk2.adf" size="901120" crc="f2c79700" sha1="ffc1e8a955240d95a4b8d3569a5b055f6e03db46" />
+	</machine>
+	<machine name="veryfrst">
+		<description>The Very First</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="380921-02_veryfirst.adf" size="901120" crc="1ab58e91" sha1="6e925d6758125385b70447614e410d108478ed5e" />
+	</machine>
+	<machine name="ww4se_de">
+		<description>Wordworth 4 SE (De)</description>
+		<year>1995</year>
+		<publisher>Digita</publisher>
+		<rom name="ww4se_de_disk1.adf" size="901120" crc="d34fa519" sha1="f9da019829327055b0863abbcc102788e1acd86b" />
+		<rom name="ww4se_de_disk2.adf" size="901120" crc="16633d22" sha1="82098a7dc184eefae514e96896839fda07626787" />
+		<rom name="ww4se_de_disk3.adf" size="901120" crc="4b365f60" sha1="63a60948c65ebb0c20c5da1b77ae8199271db403" />
+	</machine>
+	<machine name="wwpm_de">
+		<description>Wordworth Printer Manager (De)</description>
+		<year>1995</year>
+		<publisher>Digita</publisher>
+		<rom name="wwpm_de.adf" size="901120" crc="7bedd129" sha1="e9c293c4d1b16dbada5b2092c90864634d0941e2" />
+	</machine>
+</datafile>

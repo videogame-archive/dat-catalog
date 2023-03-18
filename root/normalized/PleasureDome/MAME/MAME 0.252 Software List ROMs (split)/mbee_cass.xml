@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mbee_cass</name>
+		<description>Microbee cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bee3">
+		<description>Bee III Basic</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="bee3.tap" size="12424" crc="4b250be5" sha1="97683a7b7a8bdebfb3bfc19bd07443b97a229079" />
+	</machine>
+	<machine name="starblock">
+		<description>Star Block</description>
+		<year>1984</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="starblock.wav" size="3398697" crc="0dca01c6" sha1="a38e3c8ce559f2795da485726c665ff38c3e6f97" />
+	</machine>
+</datafile>

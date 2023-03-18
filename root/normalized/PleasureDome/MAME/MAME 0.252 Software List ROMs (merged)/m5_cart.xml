@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>m5_cart</name>
+		<description>Sord M5 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="64kbf">
+		<description>64Kbf Expansion memory 64Kb</description>
+		<year>199?</year>
+		<publisher>unknown</publisher>
+		<rom name="basic-f (198x)(sord)(jp).bin" size="20480" crc="47be051f" sha1="9942b8f05a441b5dee7ab31ec5b8a643f7e268b8" />
+	</machine>
+	<machine name="64krx">
+		<description>64Krx Expansion board 64Kb</description>
+		<year>199?</year>
+		<publisher>unknown</publisher>
+		<rom name="basic-i (198x)(sord)(jp).bin" size="8192" crc="9a98e6ce" sha1="d11f7623919ee593e275e9f00f8a4acf7aed3cf5" />
+		<rom name="krx_rom2.rom" size="8192" crc="5af18fbd" sha1="cd67d65fb51cdb3a47cc8350a878a77360a353c8" />
+		<rom name="krx_rom4.rom" size="16384" crc="27ffb883" sha1="be930946e7cd5f0f3e803792906e087cce122703" />
+		<rom name="krx_rom5.rom" size="16384" crc="107b5ddc" sha1="071fa84c7b10d9d7841c504564825609ebf66140" />
+		<rom name="krx_rom6.rom" size="16384" crc="4d6e9c1a" sha1="d8bf96fc4016e245fd84d713fd988dd503a38d0b" />
+		<rom name="krx_rom7.rom" size="16384" crc="4ef7830a" sha1="9527236af9dd0db25498f4029793703ba8672af5" />
+	</machine>
+	<machine name="adidas">
+		<description>Adidas Lucky Shoot</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="adidas.bin" size="8192" crc="d6ef9cae" sha1="80314f4351b9c0ebeb48f7757694717950d5a9b0" />
+	</machine>
+	<machine name="apploon">
+		<description>Apploon</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="apploon.bin" size="8192" crc="558cf858" sha1="743906ecab6439766fe374ccdf64b9c2acecbf97" />
+	</machine>
+	<machine name="baseball">
+		<description>Baseball</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="baseball (19xx)(-).bin" size="10904" crc="46e94dae" sha1="56d11bb9e4e8431ff4f6dfa592b096dd613084c3" status="baddump" />
+	</machine>
+	<machine name="basicf">
+		<description>BASIC-F</description>
+		<year>198?</year>
+		<publisher>Sord</publisher>
+		<rom name="basic-f (198x)(sord)(jp).bin" size="20480" crc="47be051f" sha1="9942b8f05a441b5dee7ab31ec5b8a643f7e268b8" />
+	</machine>
+	<machine name="basicg">
+		<description>BASIC-G</description>
+		<year>198?</year>
+		<publisher>Sord</publisher>
+		<rom name="basic-g (198x)(sord)(jp).bin" size="16384" crc="107b5ddc" sha1="071fa84c7b10d9d7841c504564825609ebf66140" />
+	</machine>
+	<machine name="basici">
+		<description>BASIC-I</description>
+		<year>198?</year>
+		<publisher>Sord</publisher>
+		<rom name="basic-i (198x)(sord)(jp).bin" size="8192" crc="9a98e6ce" sha1="d11f7623919ee593e275e9f00f8a4acf7aed3cf5" />
+	</machine>
+	<machine name="basicw">
+		<description>BASIC-W</description>
+		<year>198?</year>
+		<publisher>Sord?</publisher>
+		<rom name="basic-w (198x)(sord)(jp).bin" size="20480" crc="2b1087cf" sha1="aa8d7c6c405e1360f074590abdc3d82df07cb564" />
+	</machine>
+	<machine name="bosco">
+		<description>Star Destroyer Bosconian</description>
+		<year>1981</year>
+		<publisher>Namco</publisher>
+		<rom name="bosconian.bin" size="8192" crc="8b299b7f" sha1="b26b1289fc96778d3b3f50eee5ca3963a1948dff" />
+	</machine>
+	<machine name="brno_con">
+		<description>Boot for Brno ramdisk [console version]</description>
+		<year>1989</year>
+		<publisher>&lt;Pavel Brychta a spol.&gt;</publisher>
+		<rom name="brno_boot.rom" size="3456" crc="60008729" sha1="fb26e2ae9f74b0ae0d723b417a038a8ef3d72782" />
+	</machine>
+	<machine name="brno_win">
+		<description>Boot for Brno ramdisk [windows version]</description>
+		<year>1989</year>
+		<publisher>&lt;Ladislav Novak&gt;</publisher>
+		<rom name="brno_win.rom" size="8192" crc="f4cfb2ee" sha1="23f41d2d9ac915545409dd0163f3dc298f04eea2" />
+	</machine>
+	<machine name="digdug">
+		<description>Dig Dug</description>
+		<year>1982</year>
+		<publisher>Namco</publisher>
+		<rom name="digdug.bin" size="8192" crc="9b207054" sha1="971f7bc1b6247d17a488f6e07eabc07580219ed9" />
+	</machine>
+	<machine name="dremshop">
+		<description>Dream Shopper</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="dreamshopper.bin" size="8192" crc="a7be9284" sha1="ecd22b176bd35f6183c679c1b9adc836a3085b21" />
+	</machine>
+	<machine name="drgnatck">
+		<description>Dragon Attack</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="dragon attack (1983)(takara)(jp).bin" size="4096" crc="5862d06c" sha1="f2707ad6dd564df01e7f81a21a00842e17cd49a4" />
+	</machine>
+	<machine name="drops">
+		<description>Drops</description>
+		<year>1986</year>
+		<publisher>SPC</publisher>
+		<rom name="drops (1986)(spc)(jp).bin" size="6176" crc="fa321348" sha1="e9a44e12eed9d51cdb40ce4b6f1cb19a1ebed35d" />
+	</machine>
+	<machine name="eskimon">
+		<description>Eskimon</description>
+		<year>1984</year>
+		<publisher>Takara</publisher>
+		<rom name="eskimon (1984)(takara)(jp).bin" size="8192" crc="96931021" sha1="115eee645e5213c16ad4a27bbeed5e2f3fa4be22" />
+	</machine>
+	<machine name="falc">
+		<description>FALC</description>
+		<year>198?</year>
+		<publisher>Sord</publisher>
+		<rom name="falc (198x)(sord)(jp).bin" size="16384" crc="78037f97" sha1="4cd917388a626d38dd8b16834c2e610d0ba6d505" />
+	</machine>
+	<machine name="fruitsrc">
+		<description>Fruit Search</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="fruit search (1983)(takara)(jp).bin" size="4096" crc="333ac50f" sha1="a838fbf0bc4513d3b6bcc3165f1eac33ca27d6fa" />
+	</machine>
+	<machine name="funnym">
+		<description>Funny Mouse</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="funny mouse (1983)(takara)(jp).bin" size="8192" crc="94145074" sha1="43c2a1a5959ab8057c7d149472512a0c7996c798" />
+	</machine>
+	<machine name="galax">
+		<description>Galax</description>
+		<year>1981</year>
+		<publisher>Namco</publisher>
+		<rom name="galax.bin" size="8192" crc="62c26c8c" sha1="5f73e90f9b551501e6fd5b9a63cfcfaea7691821" />
+	</machine>
+	<machine name="gutangtn">
+		<description>Guttang Gottong</description>
+		<year>1981</year>
+		<publisher>Konami</publisher>
+		<rom name="guttang gottong (1981)(konami)(jp).bin" size="8448" crc="0f70fa69" sha1="4e4900f42cbc76e4e795ed32ee18b2e27246e90f" status="baddump" />
+	</machine>
+	<machine name="heavybox">
+		<description>Heavy Boxing</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="heavy boxing (1983)(takara)(jp).bin" size="8192" crc="19540dce" sha1="388838ed501bcc3a9fd18e32488f13a6ce6a0689" />
+	</machine>
+	<machine name="jongkyo">
+		<description>Jong Kyo</description>
+		<year>1983?</year>
+		<publisher>Hudson Soft</publisher>
+		<rom name="mahjong.bin" size="16384" crc="b32c9e08" sha1="0b24213ef49a6ad04bc8ecff616b94ccf0f7a8aa" />
+	</machine>
+	<machine name="jumpjack">
+		<description>Jumping Jack</description>
+		<year>1986</year>
+		<publisher>SPC</publisher>
+		<rom name="jumping jack (1986)(spc)(jp).bin" size="5920" crc="49030973" sha1="c8716276fe6c4b0808078086f505efce1137afc9" />
+	</machine>
+	<machine name="m5term">
+		<description>M5 Terminal</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="m5 terminal (19xx)(-).bin" size="7168" crc="2b73c483" sha1="53c093d4c3c5ba990bf8673963f9ff529e99a252" />
+	</machine>
+	<machine name="mappy">
+		<description>Mappy</description>
+		<year>1983</year>
+		<publisher>Namco</publisher>
+		<rom name="mappy.bin" size="8192" crc="b83f6d83" sha1="c94c4def1a64fade08179b08b1d6f6178ff56a3f" />
+	</machine>
+	<machine name="mchess">
+		<description>Masterchess</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="masterchess (19xx)(-).bin" size="12288" crc="c10a6e96" sha1="5dd24aae17c3a293ae91ef5086c1c4f3e59263ed" />
+	</machine>
+	<machine name="mpatrol">
+		<description>Moon Patrol</description>
+		<year>1981</year>
+		<publisher>Irem</publisher>
+		<rom name="moonpatrol.bin" size="8192" crc="1324c6c0" sha1="fa61c047b0051efa23a6607e4c1f7726ff683caf" />
+	</machine>
+	<machine name="peditor">
+		<description>P-Editor</description>
+		<year>198?</year>
+		<publisher>Sord</publisher>
+		<rom name="zzz-unk-pdesigner.bin" size="16384" crc="af987f7b" sha1="3a4cffc8d81a384f8bb2dfebf5e02cda1f0c7e21" />
+	</machine>
+	<machine name="pitchase">
+		<description>Pit Chaser</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="pitchaser.bin" size="8192" crc="cf71e13a" sha1="c843f817bb06faf78134b098acbebecc17b7c699" />
+	</machine>
+	<machine name="pooyan">
+		<description>Pooyan</description>
+		<year>1982</year>
+		<publisher>Konami</publisher>
+		<rom name="pooyana\pooyan (1982)(konami)(jp).bin" size="8192" crc="ded8b4f4" sha1="4c9e58e52d336b4c01a24e3ca2e62fb7757407fd" />
+		<rom name="pooyan.bin" size="8192" crc="91ba5073" sha1="b659b0f029927c36287720654fb538e53a2fcb76" />
+	</machine>
+	<machine name="powerpac">
+		<description>Power Pac</description>
+		<year>1982</year>
+		<publisher>Namco</publisher>
+		<rom name="powerpac.bin" size="8192" crc="3ce70f7f" sha1="2ee74f02f0249ff7192b4f29c1a061fc4f1eb920" />
+	</machine>
+	<machine name="reversi">
+		<description>Reversi</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="reversi (19xx)(games of skill).bin" size="6392" crc="ca2cd257" sha1="a048a1055d175ace09155e50da0387986e150f92" />
+	</machine>
+	<machine name="rtennis">
+		<description>Real Tennis</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="real tennis (1983)(takara)(jp).bin" size="8192" crc="ed80d6c9" sha1="03f3385b360c3573edab1fca53f82b4d6a4f8736" />
+	</machine>
+	<machine name="scobra">
+		<description>Super Cobra</description>
+		<year>1981</year>
+		<publisher>Konami</publisher>
+		<rom name="super cobra (1981)(konami)(jp).bin" size="8192" crc="55cbd90b" sha1="d29f1d1d88a0b6738b68cf8d2406fbf1f05ba39b" />
+	</machine>
+	<machine name="stepup">
+		<description>Step Up (Euro)</description>
+		<year>1983</year>
+		<publisher>Takara</publisher>
+		<rom name="stepupj\stepup_jp.bin" size="8192" crc="db688ff8" sha1="abce8c52bcc73dd6a1b532b04bd7b1110d6ff4e9" />
+		<rom name="stepup_eu.bin" size="8192" crc="942cc7e8" sha1="9f61df71b6080c8ef5085b659179a10e2777a957" />
+	</machine>
+	<machine name="tankbtl">
+		<description>Tank Battalion</description>
+		<year>1980</year>
+		<publisher>Namco</publisher>
+		<rom name="tank battalion (1980)(namco)(jp).bin" size="8192" crc="daa0d610" sha1="5867090fbe2584654dd2c2aaa215e69243f2f599" />
+	</machine>
+	<machine name="unk_intr">
+		<description>Unknown Intruder</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zzz-unk-intruder.bin" size="5376" crc="12859c5d" sha1="fd8fc752be6afcbf016f8a33e21ad9e1b7c50c48" status="baddump" />
+	</machine>
+	<machine name="unk_maze">
+		<description>Unknown CSMAZE</description>
+		<year>1983</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zzz-unk-csmaze.bin" size="8448" crc="b7c9705b" sha1="f07f531eef82fd5b0d914c176d52b38814c36e3b" status="baddump" />
+	</machine>
+	<machine name="upupball">
+		<description>Up Up Balloon</description>
+		<year>1983</year>
+		<publisher>Takara ~ Monkey Punch</publisher>
+		<rom name="up up balloon (1983)(takara - monkey punch)(jp).bin" size="8320" crc="68c85890" sha1="0c94d2d55a6a6e66531137e124f2e0a3a176b252" status="baddump" />
+	</machine>
+	<machine name="warpwarp">
+		<description>Warp &amp; Warp</description>
+		<year>1981</year>
+		<publisher>Namco</publisher>
+		<rom name="warpwarp.bin" size="8192" crc="1b9e2e58" sha1="38c1721eb04188e1201c31dde2fc03963b685d69" />
+	</machine>
+	<machine name="wondhole">
+		<description>Wonder Hole</description>
+		<year>1982</year>
+		<publisher>Irem</publisher>
+		<rom name="wonder hole (1982)(irem)(jp).bin" size="8320" crc="aba2cece" sha1="bcb7442c6d320eb166e224c3ac0f50514906ad4c" status="baddump" />
+	</machine>
+	<machine name="wordmaze">
+		<description>Word Maze</description>
+		<year>1983</year>
+		<publisher>Sord</publisher>
+		<rom name="word maze (19xx)(sord)(jp).bin" size="8192" crc="fda88e0d" sha1="a0fbe727bfca773d3cc193eb7a9c77e7b418b0a2" />
+	</machine>
+	<machine name="zacbanic">
+		<description>Zac Banic</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zac banic (19xx)(-).bin" size="4400" crc="fd421eea" sha1="6c3d5c15817617508de5f994c0a980ff6c6ca303" />
+	</machine>
+</datafile>

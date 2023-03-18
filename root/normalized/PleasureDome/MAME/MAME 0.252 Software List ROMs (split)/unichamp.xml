@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>unichamp</name>
+		<description>Unisonic Champion 2711 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="pac_02">
+		<description>Professional Poker Games</description>
+		<year>1977</year>
+		<publisher>Unisonic</publisher>
+		<rom name="pac-02.bin" size="4096" crc="fe3213be" sha1="5b9c407fe86865f3454d4be824a7f2bf53478f73" />
+	</machine>
+	<machine name="pac_03">
+		<description>Assorted Family Fun</description>
+		<year>1977</year>
+		<publisher>Unisonic</publisher>
+		<rom name="pac-03.bin" size="4096" crc="f81f04bd" sha1="82e2a0fda1787d5835c457ee5745b0db0cebe079" />
+	</machine>
+	<machine name="pac_04">
+		<description>Family Card Games</description>
+		<year>1977</year>
+		<publisher>Unisonic</publisher>
+		<rom name="pac-04.bin" size="4096" crc="cac09841" sha1="bc9db83f26ed0810938156db6b104b4576754225" />
+	</machine>
+	<machine name="pac_05">
+		<description>Math</description>
+		<year>1977</year>
+		<publisher>Unisonic</publisher>
+		<rom name="pac-05.bin" size="4096" crc="d54a6090" sha1="e85593096f43dcf14b08fd2c9fda277008a8df8b" />
+	</machine>
+</datafile>

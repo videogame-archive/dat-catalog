@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gj4000</name>
+		<description>VTech Genius Junior 4000 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="wfk">
+		<description>Wissen für Kinder</description>
+		<year>1997</year>
+		<publisher>VTech</publisher>
+		<rom name="27-6035-00.u2" size="131072" crc="8dcaa8c0" sha1="bca46f6cd150632fca79b1c2b524cd8ed1dacf84" />
+	</machine>
+</datafile>

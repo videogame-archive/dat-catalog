@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>bbc_flop_z80</name>
+		<description>Acorn Z80 2nd Processor discs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="colcave">
+		<description>Colossal Cave</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="colossal_cave.dsd" size="409600" crc="51c32cbb" sha1="c764c8a8b0979708b4da5c949dd5867ada305fa2" />
+	</machine>
+	<machine name="cpmprog">
+		<description>Acorn CP/M Program Discs</description>
+		<year>1984</year>
+		<publisher>Acorn</publisher>
+		<rom name="accountant_data_disc.dsd" size="409600" crc="d2b4c506" sha1="875e123044c9dee63c9c1f2b1fa8f248125f3dc7" />
+		<rom name="accountant_program_disc.dsd" size="409600" crc="02a76ee8" sha1="3119b294f63c6beb7726c6a5c73065a130efc8e2" />
+		<rom name="basic_program_disc.dsd" size="409600" crc="827304e7" sha1="76b808b059982ad6f1ab3454b745f83f2fc6ab1d" />
+		<rom name="cis_cobol_program_disc.dsd" size="409600" crc="a7b8d740" sha1="f2d6cb366d00031958f1da774bc61521f61f86fe" />
+		<rom name="cpm_utilities_disc.dsd" size="409600" crc="1afbcc5f" sha1="ec4cf1810d43e0000b92943204dfd593bec883f1" />
+		<rom name="fileplan_program_disc.dsd" size="409600" crc="8b832b7e" sha1="9d3f9401e098b8ab50c842552eb6ac98195647f7" />
+		<rom name="graphplan_program_disc.dsd" size="409600" crc="015eca7c" sha1="c18216ca44bfd21d2119a33630691363b22c32b1" />
+		<rom name="memoplan_program_disc.dsd" size="409600" crc="1a3eaf3e" sha1="87c047857e0bcd4abf6fc1c785e0e0035147fd0a" />
+		<rom name="nucleus_definitions_program_disc.dsd" size="409600" crc="447e8629" sha1="2e39dfdae5aebaa7719e35499b13d5e6ac445f03" />
+		<rom name="nucleus_parameter_file_program_disc.dsd" size="409600" crc="2c81fc08" sha1="b60bbfac15aab888c5be5e03b5977419b0e61903" />
+		<rom name="nucleus_reporter_program_disc.dsd" size="409600" crc="c2e51084" sha1="62117dde924b10c7af241e640e468c3ca35db016" />
+		<rom name="start_of_day_disc.dsd" size="409600" crc="f85aa0f5" sha1="4221d8c64dba5e44acd770effbce7fe2bc0da77e" />
+	</machine>
+	<machine name="cpmsys">
+		<description>Acorn CP/M System Discs</description>
+		<year>1984</year>
+		<publisher>Acorn</publisher>
+		<rom name="acorn_cpm_system_disk1.ssd" size="409600" crc="78686d61" sha1="28f33e5e356d307d7e35714b34c18e672aec0031" />
+		<rom name="acorn_cpm_system_disk2.ssd" size="409600" crc="afeaa342" sha1="e4b838dae211317c8ccadf47a17fa2ab5aa436a4" />
+		<rom name="acorn_cpm_system_disk3.ssd" size="409600" crc="edc26e0e" sha1="7650ecbd02ee0a9f3e986c96719c791db5505de6" />
+		<rom name="acorn_cpm_system_disk4.ssd" size="409600" crc="53dbea69" sha1="1ab9fe7f7ea7b69e6dd1a1ebccd24eae9677b749" />
+		<rom name="acorn_cpm_system_disk5.ssd" size="409600" crc="cf426f1c" sha1="7e336b8ae82138b7c6e19c59ba20c0664b4c8a77" />
+		<rom name="acorn_cpm_system_disk6.ssd" size="409600" crc="03575faa" sha1="f568a23ae3b0d17866f55bf16ca29a351850167c" />
+		<rom name="acorn_cpm_system_disk7.ssd" size="409600" crc="8ae52625" sha1="23c102b852eab471a45fac588c8e326cc96e1368" />
+	</machine>
+	<machine name="ddcpm">
+		<description>Double Density CP/M</description>
+		<year>1986</year>
+		<publisher>Slogger</publisher>
+		<rom name="DDCPM.ssd" size="819200" crc="c9d07eff" sha1="ccb1a0076d435ced493775ec8ca2c6c2bf4b5fef" />
+	</machine>
+	<machine name="z80winutil">
+		<description>Z80 Winchester Utilities</description>
+		<year>198?</year>
+		<publisher>Acorn</publisher>
+		<rom name="z80_winchester_utilities.ssd" size="204800" crc="4a0479da" sha1="8c29fe18228330a8c0bbbdd5c6510d9da61602c6" />
+	</machine>
+</datafile>

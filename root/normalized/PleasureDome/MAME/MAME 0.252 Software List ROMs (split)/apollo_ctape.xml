@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>apollo_ctape</name>
+		<description>Apollo cartridge tapes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="domainos">
+		<description>Domain/OS SR10.4</description>
+		<year>1992</year>
+		<publisher>Apollo</publisher>
+		<rom name="019593-001.crtg_std_sfw_boot_1.ct" size="53678592" crc="cf1b4813" sha1="4b7e64153b3046da25cef0e2115553611d57929e" />
+		<rom name="019594-001.crtg_std_sfw_1.ct" size="58403328" crc="3335f0c9" sha1="94ce5ea3f9d075df7952793254ef067b92df79a6" />
+		<rom name="019594-002.crtg_std_sfw_2.ct" size="61564928" crc="39d0647a" sha1="6cde13fae598574b4f5ad0fc4dbb33ea1902ff6e" />
+		<rom name="019594-003.crtg_std_sfw_3.ct" size="56568320" crc="e9e76b3f" sha1="24fe96a22c975e9c7fcbbf0daad89277a467fae3" />
+		<rom name="019594-004.crtg_std_sfw_4.ct" size="57844224" crc="88d4a0eb" sha1="a3b4eb922182302e350f475b8e5c39a79503c4e3" />
+	</machine>
+</datafile>

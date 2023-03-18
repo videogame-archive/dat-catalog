@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gjrstar</name>
+		<description>VTech Genius Junior Redstar cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="wortspie">
+		<description>Wortspiele</description>
+		<year>200?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5883-00" size="262144" crc="99214bce" sha1="75294fbc411b0b39b3db4727824faf29127675af" />
+	</machine>
+</datafile>

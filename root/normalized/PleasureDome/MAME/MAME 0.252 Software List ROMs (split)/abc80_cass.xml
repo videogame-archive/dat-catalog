@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>abc80_cass</name>
+		<description>Luxor ABC 80 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="abcdemo">
+		<description>ABCDemo</description>
+		<year>2015</year>
+		<publisher>Genesis Project</publisher>
+		<rom name="genesisproject_abcdemo.wav" size="10793090" crc="7642349f" sha1="a0a808e9c9c5f3ca162ef22869600e1c735846c2" />
+	</machine>
+	<machine name="abcstack">
+		<description>ABCStacker</description>
+		<year>2016</year>
+		<publisher>Andreas Gustafsson</publisher>
+		<rom name="abcstacker.wav" size="755244" crc="6fdc6043" sha1="2a8290f260e94bb5904733255aa0e0188a2168b8" />
+	</machine>
+</datafile>

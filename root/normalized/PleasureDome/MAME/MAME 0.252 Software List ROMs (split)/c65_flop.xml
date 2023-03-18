@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>c65_flop</name>
+		<description>Commodore 65 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="demo">
+		<description>C65 Demo</description>
+		<year>2002</year>
+		<publisher>K2</publisher>
+		<rom name="demo.d81" size="819200" crc="dabb3256" sha1="61a5d638f6166e09d3bbbb12b653f6bf3fb2393f" />
+	</machine>
+</datafile>

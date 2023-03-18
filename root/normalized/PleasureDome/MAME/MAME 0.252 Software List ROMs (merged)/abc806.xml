@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>abc806</name>
+		<description>Luxor ABC 806 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="colorful">
+		<description>Colorful Animals</description>
+		<year>2018</year>
+		<publisher>Genesis Project</publisher>
+		<rom name="colorful_animals.dsk" size="163840" crc="ba6ba9a1" sha1="36f9a0b814b222eb5664a87f3b52c0268dfd18c1" />
+	</machine>
+	<machine name="cpm30">
+		<description>CP/M Plus v3.0 (v0.9)</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cpm30_12\cpmplus3.td0" size="502129" crc="8274028c" sha1="004366ef05c8bd617433ff63df72086096ded1ce" />
+		<rom name="cpm30.td0" size="297216" crc="ccf77a0c" sha1="2563cc8c93c101f616f39620b3d7759a5062f97b" status="baddump" />
+	</machine>
+	<machine name="graf806">
+		<description>Graf806</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="graf806.td0" size="199707" crc="96e86f58" sha1="187bb2528b7cbccc9dcf96c2824b4f9cff394064" />
+	</machine>
+</datafile>

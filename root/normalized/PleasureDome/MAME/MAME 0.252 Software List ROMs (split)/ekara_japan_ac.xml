@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_ac</name>
+		<description>Takara e-kara (Japan) ACxxxx series cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ac0009">
+		<description>Kirarin Revolution KR-1 (Japan) (AC0009-KIR)</description>
+		<year>2007</year>
+		<publisher>Takara</publisher>
+		<rom name="ekara_ac0009-kir.bin" size="1048576" crc="351c99c3" sha1="86c2d231d0d07f5e214e19f49dc1bda3aac42eb0" />
+	</machine>
+</datafile>

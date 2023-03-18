@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>md2_flop</name>
+		<description>MD-2 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="momd2r21">
+		<description>CP/M 2.2 System Disk rev 2.1</description>
+		<year>1983</year>
+		<publisher>Morrow Designs</publisher>
+		<rom name="momd2r1x\momd2r1x.tdo" size="75924" crc="5ba9aa27" sha1="2915d45c04b7185b7d8494730928afb327664204" />
+		<rom name="momd2r13\momd2r13.tdo" size="76008" crc="dc649f14" sha1="fb37b54d2acf99f38109482a2c7953a39754e27c" />
+		<rom name="momd2r16\momd2r16.tdo" size="79928" crc="3e5ba26d" sha1="c9de296ea18904f8de984b9f71b43a7988a8facc" />
+		<rom name="momd2r21.tdo" size="80734" crc="5d265d5b" sha1="68d036c1b055a1ee95679bb70e169029cb825e23" />
+	</machine>
+	<machine name="softdist">
+		<description>Software Distribution Disks</description>
+		<year>1982</year>
+		<publisher>Morrow Designs</publisher>
+		<rom name="6distr_disk_2.imd" size="112445" crc="899a6a8a" sha1="8c6192a3106c00d927a6da886b5ea837ea608656" />
+		<rom name="distr_disk_1.imd" size="165597" crc="bf6d2ba2" sha1="4d8f95ee638894789b23abb8c72974db2cd59651" />
+		<rom name="distr_disk_3.imd" size="152331" crc="7f1bbdf6" sha1="8faaab8be8123ffd49f5f9acae520faf05f699f5" />
+	</machine>
+</datafile>

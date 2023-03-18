@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>trs80_cass</name>
+		<description>Radio Shack TRS-80 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="adv03">
+		<description>Mission Impossible</description>
+		<year>1979</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="adv03.cas" size="16188" crc="750bda34" sha1="4d1bd8ac8486cf87073a2220fcaab1865eb0ebe9" />
+	</machine>
+	<machine name="adv10">
+		<description>Savage Island (Pt 1)</description>
+		<year>1979</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="adv10.cas" size="16188" crc="11aec391" sha1="f263cdad1aad42c719c592b524932bc6ac2b8050" />
+	</machine>
+	<machine name="android">
+		<description>Android Nim</description>
+		<year>1978</year>
+		<publisher>80-NW Publishing Co</publisher>
+		<rom name="android1.cas" size="14213" crc="4f72e456" sha1="d53a619c8f3d734f08db6ade979cdb267097e2cf" />
+	</machine>
+	<machine name="baccarat">
+		<description>Baccarat</description>
+		<year>1979</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="baccarat.cas" size="11091" crc="f7c12e3a" sha1="022e9df94542ae9012e5903c5eceeaba554600b4" />
+	</machine>
+	<machine name="backgamm">
+		<description>Backgammon</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="backgamm.cas" size="3181" crc="f191518b" sha1="771ce3df3cb48bf7ebea79a3f3ec2beb104a12af" />
+	</machine>
+	<machine name="blakjack">
+		<description>Blackjack</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="blackjack.cas" size="2978" crc="c16621c1" sha1="e75e527fcbfa1131e1c0eb618686bd13facd787d" />
+	</machine>
+	<machine name="chess0">
+		<description>MicroChess 1.5 (L1)</description>
+		<year>1978</year>
+		<publisher>Micro-ware Limited</publisher>
+		<rom name="chess0.cas" size="5259" crc="b8a1a3ae" sha1="937c25f5295edd00a90bfe828615ba5e2470b9dd" />
+	</machine>
+	<machine name="chess">
+		<description>Sargon Chess</description>
+		<year>1978</year>
+		<publisher>Hayden Book Company</publisher>
+		<rom name="chess.cas" size="9150" crc="9a5db0de" sha1="08100dade68d1a8cee5f096b9396d286aefc27b9" />
+	</machine>
+	<machine name="colliss">
+		<description>Collission</description>
+		<year>1979</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="autozas.cas" size="2755" crc="2ce1c3ca" sha1="5172fd0540e1a0c21530682f87ef21abdd73f169" />
+	</machine>
+	<machine name="cosmic">
+		<description>Cosmic</description>
+		<year>1980</year>
+		<publisher>Instant Software</publisher>
+		<rom name="cosmic.cas" size="7968" crc="8a0844bc" sha1="a402b0b110d57817debe54d6c5b581cb8279d217" />
+	</machine>
+	<machine name="craps">
+		<description>Reno Casino Craps</description>
+		<year>1979</year>
+		<publisher>Tandy Corp</publisher>
+		<rom name="craps.cas" size="8824" crc="9e7ac665" sha1="4f26aa561b1c90c3074963a9c1fc526224ca9702" />
+	</machine>
+	<machine name="dddd">
+		<description>Doubled Dancing Demon Demo</description>
+		<year>2009</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="dandem.cas" size="20393" crc="1c4253a6" sha1="2f2eef2524333bcc5609621602c7687cca3b49de" />
+	</machine>
+	<machine name="defense">
+		<description>Defense Command</description>
+		<year>1982</year>
+		<publisher>Big Five Software</publisher>
+		<rom name="defense.cas" size="14684" crc="cd25580c" sha1="d067676b33ed6d84642a77bba89bd91a8963ec5b" />
+	</machine>
+	<machine name="dslogo">
+		<description>System-80 Demo</description>
+		<year>19??</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="dslogo.cas" size="3429" crc="77cbbbf3" sha1="e901be378d78ac286fd9f4e37bdb912f795432c7" />
+	</machine>
+	<machine name="dtrap">
+		<description>Death Trap</description>
+		<year>19??</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="dtrap.cas" size="4841" crc="a5f283e2" sha1="ac4406c8469bf6fe54560a4273d678275fc7dd4e" />
+	</machine>
+	<machine name="eliza">
+		<description>Eliza</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="eliza.cas" size="10540" crc="5cf60e78" sha1="550ccd97d33219203d877e9ea70c0e4d81080101" />
+	</machine>
+	<machine name="env">
+		<description>Les Invasiou des Extras-terrestres</description>
+		<year>19??</year>
+		<publisher>Sivea</publisher>
+		<rom name="env.cas" size="4117" crc="5f84b9c5" sha1="966d9c849cd6314529e60a004b21f9b052a08aab" />
+	</machine>
+	<machine name="escape">
+		<description>Escape</description>
+		<year>1984</year>
+		<publisher>Bernzeszoft</publisher>
+		<rom name="escape.cas" size="5905" crc="8c792839" sha1="b6017f5fd4f8bf65881868975bebb807885a7883" />
+	</machine>
+	<machine name="galaxy1">
+		<description>Galaxy Invasion (set 1)</description>
+		<year>1980</year>
+		<publisher>Big Five Software</publisher>
+		<rom name="galaxy1.cas" size="9924" crc="2952db6e" sha1="aee00dffcf82dcd47168ac502a36f83e7de65365" />
+	</machine>
+	<machine name="galaxy2">
+		<description>Galaxy Invasion (set 2)</description>
+		<year>1980</year>
+		<publisher>Big Five Software</publisher>
+		<rom name="galaxy2.cas" size="11235" crc="e08fc94a" sha1="1246e5a02279f0b7b609480f75e28d3dd3ac1441" />
+	</machine>
+	<machine name="haunt0">
+		<description>Haunted House (L1)</description>
+		<year>1980</year>
+		<publisher>Tandy Corporation</publisher>
+		<rom name="haunt0.cas" size="6883" crc="40554978" sha1="d8d6c8a2f482bc1f7c6e6c49a510979f9f9139d9" />
+	</machine>
+	<machine name="headon">
+		<description>Head On</description>
+		<year>1980</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="headon.cas" size="2615" crc="9c28c415" sha1="1b7557c0b0b1c1726edfbceb2a15d4730c19e8c0" />
+	</machine>
+	<machine name="heliko">
+		<description>Heliko</description>
+		<year>19??</year>
+		<publisher>Punk and Kalap System</publisher>
+		<rom name="heliko.cas" size="2752" crc="0ac4660e" sha1="ebae39380c96d6fc7f75b94dfd88f142badc9c4c" />
+	</machine>
+	<machine name="hoppy">
+		<description>Hoppy</description>
+		<year>1981</year>
+		<publisher>Dubois and McNamara</publisher>
+		<rom name="hoppy.cas" size="8896" crc="1698c5f5" sha1="e1fc8e3d72571723a25b51f7495822185a1dab2d" />
+	</machine>
+	<machine name="invaders">
+		<description>Invaders</description>
+		<year>1979</year>
+		<publisher>Level IV Products</publisher>
+		<rom name="invade3.cas" size="11489" crc="698755ca" sha1="3b13cff55b660fa0e417d02220b1cfa1266af657" />
+	</machine>
+	<machine name="invasion0">
+		<description>Invasion Force (L1)</description>
+		<year>1979</year>
+		<publisher>Tandy Corporation</publisher>
+		<rom name="invasion0.cas" size="8839" crc="d40c1134" sha1="aea9a587d9040cff153c8be219ed4591a794524c" />
+	</machine>
+	<machine name="invasion">
+		<description>Invasion Force</description>
+		<year>19??</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="invade4.cas" size="8885" crc="f1b110fc" sha1="6985382a82be496e6a8126ee44bf6bc6b4a3d3dc" />
+	</machine>
+	<machine name="keno">
+		<description>Reno Keno</description>
+		<year>19??</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="keno.cas" size="5159" crc="0db78e54" sha1="fed04ea2f4a63ceb651fb6fbc5ba19584583f85f" />
+	</machine>
+	<machine name="kinghill">
+		<description>King of the Hill</description>
+		<year>1983</year>
+		<publisher>Smith and Jones Software</publisher>
+		<rom name="kinghill.cas" size="14836" crc="51425422" sha1="c96e6dacc90bca79d68bb6ffed511abe6b688a08" />
+	</machine>
+	<machine name="marquee0">
+		<description>TRS-80 Marquee (L1)</description>
+		<year>1979</year>
+		<publisher>Tandy Corporation</publisher>
+		<rom name="marquee0.cas" size="1695" crc="46c8ba18" sha1="a1edef26cfb996d8f150e0ca9e5212a8de6c4aef" />
+	</machine>
+	<machine name="meteor2">
+		<description>Meteor Mission 2</description>
+		<year>1982</year>
+		<publisher>Big Five Software</publisher>
+		<rom name="meteor2.cas" size="12280" crc="144417c0" sha1="26b441bd494ddbce478239c1727087e64a95e447" />
+	</machine>
+	<machine name="microply">
+		<description>Micro-opoly</description>
+		<year>1979</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="microply.cas" size="13041" crc="c9da3313" sha1="cfb8f1312de710f297c09f5e188a3ea6bf78895b" />
+	</machine>
+	<machine name="penetr">
+		<description>Penetrator</description>
+		<year>19??</year>
+		<publisher>Beam Software</publisher>
+		<rom name="penetr.cas" size="16250" crc="a6fe072b" sha1="78830a291784eb8afbba32f590e57407b69adb64" />
+	</machine>
+	<machine name="pinball">
+		<description>Micro-80 Pinball Machine</description>
+		<year>1980</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="pinball.cas" size="8677" crc="86a16262" sha1="e2f84cc05a675a82a360091cf5c53f53c9f0accf" />
+	</machine>
+	<machine name="pyrmd">
+		<description>Pyramid</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="pyrmd.cas" size="16188" crc="3791b59e" sha1="51408870ded6365d41a5c031e89db18ccd0fc9e8" />
+	</machine>
+	<machine name="qwatson0">
+		<description>Quick Watson (L1)</description>
+		<year>1978</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="qwatson0.cas" size="3163" crc="196e5e75" sha1="a65fb3144b71d377632240548cdeb875e6537d8d" />
+	</machine>
+	<machine name="qwatson">
+		<description>Quick Watson</description>
+		<year>1978</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="qwatson.cas" size="2996" crc="f185d97a" sha1="332dec055c615cf5aea92f093bf3fb0767cf8ec5" />
+	</machine>
+	<machine name="robot">
+		<description>Robot Attack</description>
+		<year>19??</year>
+		<publisher>Big Five Software</publisher>
+		<rom name="robot.cas" size="14883" crc="e01c4e4f" sha1="962020685329ac19ead4a8fd4025becadb5f8b31" />
+	</machine>
+	<machine name="roulette">
+		<description>Reno Casino Roulette</description>
+		<year>19??</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="roulette.cas" size="9043" crc="87efc863" sha1="8eb3b5fffe3169591848aba58b01e2a6591ce6fa" />
+	</machine>
+	<machine name="saucer0">
+		<description>Flying Saucers (L1)</description>
+		<year>1979</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="saucer0.cas" size="3723" crc="257f8f52" sha1="5c46fc89edab7f5a55706ab18c9315aa7b2f3d28" />
+	</machine>
+	<machine name="scarfman">
+		<description>Scarfman</description>
+		<year>1981</year>
+		<publisher>Cornsoft Group</publisher>
+		<rom name="scarfman.cas" size="7268" crc="2f5f3150" sha1="7375a5ff6445d48c05b82f87129991529a8c93f9" />
+	</machine>
+	<machine name="scripsit">
+		<description>Scripsit v1.0</description>
+		<year>19??</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="scripsit.cas" size="10644" crc="147cf7cf" sha1="5ec2f41c5fbfb618bae66e1d1c70f30e29749809" />
+	</machine>
+	<machine name="seadragon">
+		<description>Seadragon</description>
+		<year>1982</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="seadragon.cas" size="14495" crc="eedf4761" sha1="256065a3435ca3a354c9993539ef296ab4330114" />
+	</machine>
+	<machine name="slot">
+		<description>Reno Casino Slot Machine</description>
+		<year>19??</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="slot.cas" size="5630" crc="1b0d4944" sha1="abf542b2bb8690c1878b9a4a27fc35145d72efa0" />
+	</machine>
+	<machine name="spaceinv">
+		<description>Space Invaders</description>
+		<year>19??</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="invade2.wav" size="5291318" crc="8551c2ac" sha1="318cb4950a9571d46575cf84667b05ea494888f5" />
+	</machine>
+	<machine name="spcinv">
+		<description>Space Invaders (alt)</description>
+		<year>1981</year>
+		<publisher>Sivea</publisher>
+		<rom name="spcinv.cas" size="4087" crc="5a9f1a45" sha1="e1ec949864145459f988fb865187161cbcd7380c" />
+	</machine>
+	<machine name="spcwarp">
+		<description>Space Warp</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="spwar.cas" size="4546" crc="dee2a9d4" sha1="1f7947eecc6b1f3c161fa9c2a105cd761f931a77" />
+	</machine>
+	<machine name="starfi">
+		<description>Starfighter</description>
+		<year>1981</year>
+		<publisher>Adventure International</publisher>
+		<rom name="starfi.cas" size="16293" crc="22cda8d5" sha1="8966a056c377bddc1d854ea53c57699485dddc3e" />
+	</machine>
+	<machine name="starsm">
+		<description>Starfighter Trainer</description>
+		<year>1981</year>
+		<publisher>Adventure International</publisher>
+		<rom name="starsm.cas" size="16254" crc="24fa1636" sha1="e51c6085afb5efe26242cc81ff31bde19cc30922" />
+	</machine>
+	<machine name="startrek">
+		<description>Star Trek (The Computer Game)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="startrek.cas" size="13839" crc="6e3f370f" sha1="61ce2862e66d5be93d8ad4416f14ef74d65a1c70" />
+	</machine>
+	<machine name="starwar">
+		<description>Star War</description>
+		<year>19??</year>
+		<publisher>EACA International</publisher>
+		<rom name="starwar.cas" size="8442" crc="0f5d20f3" sha1="343a5551b297d8959f4a4b7a34c717a576a46dc5" />
+	</machine>
+	<machine name="swamp">
+		<description>Swamp War</description>
+		<year>1981</year>
+		<publisher>Instant Software Inc</publisher>
+		<rom name="swamp.cas" size="5461" crc="12cacd93" sha1="ab04613a1525b66b829d3f41968cb24b04defdfa" />
+	</machine>
+	<machine name="taipan">
+		<description>Taipan</description>
+		<year>1979</year>
+		<publisher>Cybernautics</publisher>
+		<rom name="taipan.cas" size="13670" crc="08ab89f7" sha1="e427a18099ab2362df186403539d3a4ad8dc45df" />
+	</machine>
+	<machine name="taxi">
+		<description>Alien Taxi</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="taxi.cas" size="16992" crc="6c6b5e8b" sha1="8098eff4133aacb6a4ab9994e75eb3f022b0f9ba" />
+	</machine>
+	<machine name="trollcru">
+		<description>Troll Crusher</description>
+		<year>1981</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="trollcrusher.cas" size="14698" crc="40409fdd" sha1="1dcf4e8d69c930aac9e49241bc915b019cef9464" />
+	</machine>
+	<machine name="ulcbas">
+		<description>Lowercase conversion</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="ulcbas.cas" size="1315" crc="d4225dfa" sha1="0c6e45bb23e1e4e85e46ffc56b64ec4b6f8398f9" />
+	</machine>
+	<machine name="vglogo">
+		<description>Video Genie Demo</description>
+		<year>1979</year>
+		<publisher>EACA International</publisher>
+		<rom name="vglogo.cas" size="1485" crc="0176a408" sha1="3a258cfaad530b18fba079744985c44e7eef5cc4" />
+	</machine>
+	<machine name="wheel">
+		<description>Wheel of Fortune</description>
+		<year>19??</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="wheel.cas" size="5654" crc="f259ef4d" sha1="5291a7ef54a2718ffac0db2ad989821541d657b2" />
+	</machine>
+	<machine name="zchess">
+		<description>Z-Chess</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zchess.cas" size="11241" crc="d9d17cb3" sha1="14faf525494124a8dff3d711b231c97a6c4d04f1" />
+	</machine>
+</datafile>

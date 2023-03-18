@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vtech2_cass</name>
+		<description>VTech Laser 500 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bomber">
+		<description>Cross Bomber</description>
+		<year>????</year>
+		<publisher>Fabrizio Caruso</publisher>
+		<rom name="bomber.wav" size="4748570" crc="c772e86d" sha1="eb5c8a1d5d7733579e0d7702ca8bed66075fd171" />
+	</machine>
+	<machine name="chase">
+		<description>Cross Chase</description>
+		<year>????</year>
+		<publisher>Fabrizio Caruso</publisher>
+		<rom name="chase.wav" size="9301244" crc="36f28a4c" sha1="42805ac413251b8cfccf938fb4a30548149a8376" />
+	</machine>
+	<machine name="horde">
+		<description>Cross Horde</description>
+		<year>????</year>
+		<publisher>Fabrizio Caruso</publisher>
+		<rom name="horde.wav" size="8171720" crc="a6089087" sha1="e4905d5f1c24af70fcec856c11711869fc8e8104" />
+	</machine>
+	<machine name="shoot">
+		<description>Cross Shoot</description>
+		<year>????</year>
+		<publisher>Fabrizio Caruso</publisher>
+		<rom name="shoot.wav" size="12931698" crc="b1a78aa5" sha1="f632f70a30fa1a80efda2e5fe739e1b004f51376" />
+	</machine>
+	<machine name="snake">
+		<description>Cross Snake</description>
+		<year>????</year>
+		<publisher>Fabrizio Caruso</publisher>
+		<rom name="snake.wav" size="9642390" crc="9526ec01" sha1="3b2dacf550202f67a1ba22571caad1c2ea40595b" />
+	</machine>
+</datafile>

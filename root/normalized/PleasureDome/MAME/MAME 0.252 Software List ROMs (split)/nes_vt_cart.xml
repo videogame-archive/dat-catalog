@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>nes_vt_cart</name>
+		<description>Cartridges compatible with VRT VT0x based units</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="crazy10">
+		<description>Color Screen Game World - 10 Types of Crazy Games / Wonders 163-in-1</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="s29al016d70tfi02.bin" size="2097152" crc="f9d4bb5c" sha1="25af611b0ccc48bdab531d7c291a25db787d4212" />
+	</machine>
+</datafile>

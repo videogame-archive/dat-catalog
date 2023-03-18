@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pc8201</name>
+		<description>NEC PC-8201(A) Option ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="r2c">
+		<description>ROM2/Cleuseau</description>
+		<year>198?</year>
+		<publisher>Polar Engineering</publisher>
+		<rom name="r2cnec.bin" size="32768" crc="66a30b04" sha1="8e9aaccf70f73dee1d86060d11587b80437866e1" />
+	</machine>
+	<machine name="tsdos">
+		<description>TS-DOS v4.00</description>
+		<year>1987</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="tsdosnec.bin" size="32768" crc="5aa603c9" sha1="bc0d334517008c5b22b71686badf9e689f77a5a8" />
+	</machine>
+	<machine name="tword">
+		<description>T-Word with Sardine v1.33</description>
+		<year>1986</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="sardnec.bin" size="32768" crc="cca9fac7" sha1="8e99f3fe916c011243a28769785e99ab9eecc261" />
+	</machine>
+	<machine name="ur2">
+		<description>The Ultimate ROM II v2.11</description>
+		<year>1986</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="ur2nec.bin" size="32768" crc="cf4335e2" sha1="1304d8661783e90ebf8631d572127b7cd1b073d3" />
+	</machine>
+</datafile>

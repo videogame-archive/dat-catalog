@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>spc1500_cass</name>
+		<description>Samsung SPC-1500 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="demo">
+		<description>SPC1500 Demo</description>
+		<year>198?</year>
+		<publisher>Samsung</publisher>
+		<rom name="spc1500_demo.tap" size="930771" crc="0bc5637a" sha1="25b36e378c7ad827bf77b7afe8ba496246ef5859" />
+	</machine>
+	<machine name="demoa">
+		<description>SPC1500 Demo (Alt)</description>
+		<year>198?</year>
+		<publisher>Samsung</publisher>
+		<rom name="demo2.tap" size="596518" crc="d484a3b3" sha1="5e160709d8969478d1be007ae2f802cc6388b409" />
+	</machine>
+	<machine name="galaga">
+		<description>Galaga</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="galaga.tap" size="652672" crc="c72e4818" sha1="0820c632ab7330b96850f6938970ed584fbf4f28" />
+	</machine>
+	<machine name="ldrun">
+		<description>Lode Runner</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="loderunner.tap" size="680349" crc="18779608" sha1="9cc2975f28efe3d12996fac1ba2e3acd0d736fec" />
+	</machine>
+</datafile>

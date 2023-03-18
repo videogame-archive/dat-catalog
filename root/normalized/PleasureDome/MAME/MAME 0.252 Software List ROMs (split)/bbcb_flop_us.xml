@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>bbcb_flop_us</name>
+		<description>Acorn BBC Micro Model B (US) disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="intrutil">
+		<description>Introductory and Utilities Disk</description>
+		<year>1983</year>
+		<publisher>Acorn</publisher>
+		<rom name="introductory_utils(1983)(acorn).ssd" size="204800" crc="60612fc2" sha1="037f7c3499547d5ac5f88e812d7765ccaf27d6e1" />
+	</machine>
+</datafile>

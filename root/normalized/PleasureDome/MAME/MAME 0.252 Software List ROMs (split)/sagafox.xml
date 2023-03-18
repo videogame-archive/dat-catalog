@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sagafox</name>
+		<description>Saga Fox floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="foxcpm">
+		<description>Saga Fox CP/M</description>
+		<year>1983</year>
+		<publisher>Saga</publisher>
+		<rom name="sagafox_cpm.td0" size="278364" crc="621134df" sha1="d822489d068a6739181ed36fb6b8a3b81b136aac" />
+	</machine>
+</datafile>

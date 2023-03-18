@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>to770a_cart</name>
+		<description>Thomson TO7/70 Arabic cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic128">
+		<description>BASIC 128 (Arab, v1.0)</description>
+		<year>1985</year>
+		<publisher>Thomson</publisher>
+		<rom name="basic128.bin" size="65536" crc="ba082b73" sha1="bdcb3b2b0b4f0e56bda55dfeee220da9473143e2" />
+	</machine>
+</datafile>

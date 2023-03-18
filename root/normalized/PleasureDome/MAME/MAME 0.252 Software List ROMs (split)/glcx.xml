@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>glcx</name>
+		<description>VTech Genius Leader CX cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="allgewis">
+		<description>Allgemeinwissen (8008 CX)</description>
+		<year>1999</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-6388-00" size="131072" crc="f7c10823" sha1="5d168bcde6c904d5d16b5af8e734210d99ac591c" />
+	</machine>
+	<machine name="englisha">
+		<description>Englisch für Anfänger</description>
+		<year>1999</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-6386-00" size="131072" crc="27a3e197" sha1="cd4fd909a1ed4b8f789130ae57e2861ffd177a53" />
+	</machine>
+	<machine name="lmu">
+		<description>Länder-Menschen-Umwelt</description>
+		<year>1999</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-6386-00" size="131072" crc="27a3e197" sha1="cd4fd909a1ed4b8f789130ae57e2861ffd177a53" />
+	</machine>
+	<machine name="schrkurs">
+		<description>Schreibmaschinenkurs (8008 CX)</description>
+		<year>200?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-6431-00" size="131072" crc="db628338" sha1="86d88f6a6f399e38cf332516407a0efdde36d4c2" />
+	</machine>
+	<machine name="swg">
+		<description>Sport-Wissen-Geschichte (8008 CX)</description>
+		<year>1999</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-6388-00" size="131072" crc="f7c10823" sha1="5d168bcde6c904d5d16b5af8e734210d99ac591c" />
+	</machine>
+	<machine name="update">
+		<description>Update Programm-Zusatzkassette (Ger)</description>
+		<year>200?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="54-6531-00-0.u4" size="131072" crc="bfb01f0a" sha1="c8d8b9e0a3e8299332383b3009c82c8d1994bbf9" />
+	</machine>
+</datafile>

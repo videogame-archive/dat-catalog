@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>psi98</name>
+		<description>Kontron PSI98 floppy disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm22">
+		<description>Kontron CP/M 2.2 V6.31-Z</description>
+		<year>1985</year>
+		<publisher>Kontron</publisher>
+		<rom name="cpm22.td0" size="348688" crc="731b221e" sha1="55197c410797c11e92d776110b304f21b914a63b" />
+	</machine>
+	<machine name="kos605d">
+		<description>KOS 6.05D Boot</description>
+		<year>1984</year>
+		<publisher>Kontron</publisher>
+		<rom name="kos605d.td0" size="518086" crc="4b16029c" sha1="bf41cb9e90f2a9b5653cbc6748fe427568099cbd" />
+		<rom name="utils605d.td0" size="545577" crc="250c93d7" sha1="f06ae5f75f73cb4d64b2a191dc35d06ecb1f73b3" />
+	</machine>
+</datafile>

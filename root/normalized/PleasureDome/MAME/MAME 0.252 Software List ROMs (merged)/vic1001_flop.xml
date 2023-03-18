@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vic1001_flop</name>
+		<description>Commodore VIC-1001 / VIC-20 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="data20dm">
+		<description>Data 20 Display Manager</description>
+		<year>1982</year>
+		<publisher>Data 20 Corporation</publisher>
+		<rom name="data20.d64" size="174848" crc="06664680" sha1="1586afa380272d333801992c829707e26f81c455" />
+	</machine>
+	<machine name="simpcalc">
+		<description>SimpliCalc</description>
+		<year>1981</year>
+		<publisher>Commodore</publisher>
+		<rom name="simplicalc[cbm_1981](vic20).g64" size="333744" crc="5cccae94" sha1="1c4fceb35a64db38f8909547e895355d9c396e82" />
+	</machine>
+	<machine name="speakez">
+		<description>SpeakEasy</description>
+		<year>1983</year>
+		<publisher>Personal Peripheral Products</publisher>
+		<rom name="speakeasy.d64" size="174848" crc="bfd060ca" sha1="d2c5b5c2b6c5ef01891e3256a4aad8ec2bbbbfe5" />
+	</machine>
+	<machine name="vicfile">
+		<description>VicFile</description>
+		<year>1981</year>
+		<publisher>Commodore</publisher>
+		<rom name="vicfilea\vicfile[cbm_198x](alt)(vic20).g64" size="333744" crc="ca9dc8ea" sha1="ea7e443cd3afa99ee12846604898b3c16863cdd3" />
+		<rom name="vicfile[cbm_1981](vic20).g64" size="333744" crc="0051ea87" sha1="408fb1af3959bc79aa100ed729c51e30e5ae31ec" />
+	</machine>
+	<machine name="vicwrite">
+		<description>VicWriter</description>
+		<year>1981</year>
+		<publisher>Commodore</publisher>
+		<rom name="vicwriter[cbm_1981](vic20).g64" size="333744" crc="2a75180c" sha1="54fd41c6f11614d6b1e6763aa64ee92b9cc53f1a" />
+	</machine>
+</datafile>

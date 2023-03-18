@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>visicom</name>
+		<description>Toshiba Visicom cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="gambler1">
+		<description>Gambler I</description>
+		<year>1978</year>
+		<publisher>Toshiba</publisher>
+		<rom name="cas140.rom" size="2048" crc="1f218f46" sha1="af9c7e707cba98bea30b0c9e886652f2fedcb284" />
+	</machine>
+	<machine name="gambler2">
+		<description>Gambler II</description>
+		<year>1978</year>
+		<publisher>Toshiba</publisher>
+		<rom name="cas141.rom" size="2048" crc="565be7c2" sha1="561fb51db880e3a668231fddd4c4a10d1a981c80" />
+	</machine>
+	<machine name="sandrill">
+		<description>Sansuu Drill</description>
+		<year>1978</year>
+		<publisher>Toshiba</publisher>
+		<rom name="cas110.rom" size="2048" crc="009cfaa2" sha1="fb567b904ded23a1c9256b39565b8a2bc3e35736" />
+	</machine>
+	<machine name="spacecom">
+		<description>Space Command</description>
+		<year>1978</year>
+		<publisher>Toshiba</publisher>
+		<rom name="cas160.rom" size="2048" crc="566dcc8a" sha1="b5e0313b7d4aacd9444c1987c51eaaba88fdc6bb" />
+	</machine>
+	<machine name="sportfan">
+		<description>Sports Fan</description>
+		<year>1978</year>
+		<publisher>Toshiba</publisher>
+		<rom name="cas130.rom" size="2048" crc="9da5c845" sha1="438d9fc67de1ef408718b4737c0d0fd48844dacb" />
+	</machine>
+</datafile>

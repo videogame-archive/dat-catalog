@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>px8_cart</name>
+		<description>EPSON PX-8 ROM capsules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>Epson BASIC</description>
+		<year>1983</year>
+		<publisher>Microsoft</publisher>
+		<rom name="m25040ca.bin" size="32768" crc="68355dca" sha1="d010e53d4e2021bce29376cae784dafc57a91b80" />
+	</machine>
+	<machine name="clock">
+		<description>Clock</description>
+		<year>201?</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="clock.rom" size="16384" crc="6f254cc9" sha1="003eaf209c01e0148dc112adc34a35d33ac0bf60" />
+	</machine>
+	<machine name="dakcomm">
+		<description>DAKComm</description>
+		<year>1986</year>
+		<publisher>DAK Communications</publisher>
+		<rom name="dakcom_v1.1.bin" size="8192" crc="3a74a975" sha1="46300aeb10ec208a906143e2acd1f93badb6792d" />
+	</machine>
+	<machine name="dbaseii">
+		<description>dBase II</description>
+		<year>1984</year>
+		<publisher>Ashton-Tate</publisher>
+		<rom name="dbaseii_rom1.bin" size="32768" crc="fe7883f1" sha1="b15a562dbf9d053ff7b0fee75b6ee8d06bb1e73a" />
+		<rom name="dbaseii_rom2.bin" size="32768" crc="0a81ee1b" sha1="d0889a942efaeb9706a90a919b46627d2c07e9d0" />
+	</machine>
+	<machine name="gconnect">
+		<description>Geneva Connection</description>
+		<year>1984</year>
+		<publisher>Epson</publisher>
+		<rom name="genevaconnection.bin" size="8192" crc="7971e79a" sha1="97cc1af6e7733eabcb4a85663022c6d3acea9d5a" />
+	</machine>
+	<machine name="intext10">
+		<description>Intext 1.0</description>
+		<year>198?</year>
+		<publisher>Talbot Computers</publisher>
+		<rom name="intext10.bin" size="16384" crc="dbb65aca" sha1="1965b66b5b0d533a406d00ddc1198de4e1f28eba" />
+	</machine>
+	<machine name="intext">
+		<description>Intext 1.1</description>
+		<year>198?</year>
+		<publisher>Talbot Computers</publisher>
+		<rom name="intext.bin" size="32768" crc="701647b3" sha1="c602e7baf8dabefb9e70ff1addaeb24e885b7b4a" />
+	</machine>
+	<machine name="othello">
+		<description>Othello</description>
+		<year>201?</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="othello.rom" size="16384" crc="1a01059e" sha1="1e275ad3d3f5014dd6a6f553bf9e062a39221cb8" />
+	</machine>
+	<machine name="ovalirm">
+		<description>Oval IRM</description>
+		<year>1986</year>
+		<publisher>Oval Automation</publisher>
+		<rom name="ovlirm27.bin" size="16384" crc="a3d568c5" sha1="46d3d7beb08cc8a52918144e0be9fd11aea778d8" />
+	</machine>
+	<machine name="pcalc">
+		<description>Portable Calc</description>
+		<year>1984</year>
+		<publisher>MicroPro</publisher>
+		<rom name="m25044ca.bin" size="32768" crc="70b257e5" sha1="863f9eaa194607403ef1c88c710214ceb4ff3793" />
+	</machine>
+	<machine name="pws">
+		<description>Portable WordStar</description>
+		<year>1984</year>
+		<publisher>MicroPro</publisher>
+		<rom name="m25042ca.bin" size="32768" crc="7f64dd48" sha1="6d9f4e797fd7ac7b1ae2f0083d5461fa16731842" />
+	</machine>
+	<machine name="suprcalc">
+		<description>SuperCalc</description>
+		<year>1983</year>
+		<publisher>Sorcim Corp</publisher>
+		<rom name="m25093ca_sc-1.bin" size="32768" crc="58a0a411" sha1="7b80361cd594e3b9b9e925e6a193606f8faa185c" />
+		<rom name="m25094ca_sc-2.bin" size="32768" crc="ba1c664b" sha1="3c2a54a187f286eafb91f7571479a035d69d1df1" />
+	</machine>
+	<machine name="tpascal">
+		<description>Turbo Pascal (unofficial ROM)</description>
+		<year>1985</year>
+		<publisher>Borland</publisher>
+		<rom name="tpascal.rom" size="32768" crc="30a71af7" sha1="e3f89fc4db6df8acc2f940e86e12eafb7af1303d" />
+	</machine>
+	<machine name="travappt">
+		<description>The Traveling Appointment Manager</description>
+		<year>1984</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="travelingappointmentmanager.bin" size="32768" crc="281c65d3" sha1="e6a24161248877fa6c3edc18d56127b263f5b2e0" />
+	</machine>
+	<machine name="travexp">
+		<description>The Traveling Expense Manager</description>
+		<year>1984</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="travelingexpensemanager.bin" size="32768" crc="f2a8aa41" sha1="16203488eeac3cd21e11c8e0f2007527dd375597" />
+	</machine>
+	<machine name="travtime">
+		<description>The Traveling Time Manager</description>
+		<year>1984</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="travelingtimemanager.bin" size="32768" crc="2303dcc3" sha1="0cc3926ef58ce1cf05fbe8caedf259439d204388" />
+	</machine>
+	<machine name="utils">
+		<description>CP/M Utilities</description>
+		<year>1984</year>
+		<publisher>Epson</publisher>
+		<rom name="m25046ca.bin" size="32768" crc="0eab0b94" sha1="6fbdd8576476d9bf59ec2e862cc635ef5e7d7ce4" />
+	</machine>
+</datafile>

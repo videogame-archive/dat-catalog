@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_p</name>
+		<description>Takara e-kara (Japan) Platinum Cartridge series (P-xx / PCxxxx-)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="pc0001">
+		<description>Best Hit Volume 4 (Japan) (PC0001-BHT)</description>
+		<year>2001</year>
+		<publisher>Takara</publisher>
+		<rom name="pc0001-bht.u1" size="1048576" crc="4fbc13a6" sha1="142191a6522c1aa9c7772de6dc1b5706816258de" />
+	</machine>
+	<machine name="pc0002">
+		<description>TV Pop Junior Volume 2 (Japan) (PC0002-TPJ) (set 1)</description>
+		<year>2001</year>
+		<publisher>Takara</publisher>
+		<rom name="pc0002a\pc0002-tpj(alt).u1" size="1048576" crc="f8c54474" sha1="4ae876d8deed068c710700499cba22b88bea3d17" />
+		<rom name="pc0002-tpj.u1" size="1048576" crc="2ce065ed" sha1="1c0ae8050f7093a53f74637f27063f720f19610c" />
+	</machine>
+	<machine name="pc0003">
+		<description>Enkamichi Best Volume 1 (Japan) (PC0003-ENB)</description>
+		<year>2001</year>
+		<publisher>Takara</publisher>
+		<rom name="pc0003-enb.u1" size="1048576" crc="2fa57d12" sha1="01954a20e190c3f9e1d16c4285c9ec39f601eb80" />
+	</machine>
+	<machine name="pc0004">
+		<description>Best Hit Volume 7 (Japan) (PC0004-BHT)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="pc0004-bht.u1" size="1048576" crc="95e35899" sha1="a9bd2694f5ee4b964e8d73afc3e88c0eb18ca1d2" />
+	</machine>
+</datafile>

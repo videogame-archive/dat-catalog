@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>tx0_ptp</name>
+		<description>TX-0 Paper Tape Reader images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="munching">
+		<description>Munching Squares</description>
+		<year>196?</year>
+		<publisher>MIT</publisher>
+		<rom name="bin_munchingSquares.bin" size="327" crc="54afd9a3" sha1="a7fc6d62ea1cef21f1563cb8b86a5e63198af0ae" />
+	</machine>
+	<machine name="punchy">
+		<description>Punchy</description>
+		<year>195?</year>
+		<publisher>MIT</publisher>
+		<rom name="punchy.bin" size="1821" crc="3a0ead7e" sha1="6fb6f072251712cab2e614d1a80a626b9a27f1f2" />
+	</machine>
+	<machine name="ut3">
+		<description>Utility Tape 3</description>
+		<year>1958</year>
+		<publisher>MIT</publisher>
+		<rom name="ut3tra\ut3_tra.bin" size="3381" crc="a71f37a6" sha1="c60575cfe2cf0451660c846a927ad05747693ff5" />
+		<rom name="trace.bin" size="642" crc="b8850e4b" sha1="4345f24aeea472d5c357641d8a868e8326a015bc" />
+		<rom name="ut3.bin" size="3381" crc="b287f67f" sha1="40ec0c15873dae9b139af3c6dc756268fa87f63d" status="baddump" />
+	</machine>
+</datafile>

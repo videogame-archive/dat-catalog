@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gcslottv</name>
+		<description>Gachinko Shōbu! PachisloTV cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="aladdin">
+		<description>Aladdin TV</description>
+		<year>2002</year>
+		<publisher>Sammy</publisher>
+		<rom name="slotslc01black.bin" size="4194304" crc="d18ff203" sha1="8d62051565bfb1cc9eb14e4161ed892014e97c9c" />
+	</machine>
+	<machine name="ginginma">
+		<description>Ginginmaru TV</description>
+		<year>2002</year>
+		<publisher>Sammy</publisher>
+		<rom name="slotslc01orange.bin" size="4194304" crc="f3e9c746" sha1="e242587406e9e4fa76ddb5120211e2eb996e36f8" />
+	</machine>
+	<machine name="mojuotv">
+		<description>Mōjū-ō TV</description>
+		<year>2002</year>
+		<publisher>Sammy</publisher>
+		<rom name="slotslc07yellow.bin" size="8388608" crc="461a9ede" sha1="e41b97409e17ce16fe522a3a45c4577c6dbed522" />
+	</machine>
+	<machine name="salarymn">
+		<description>Salaryman Kintarō</description>
+		<year>2002</year>
+		<publisher>Sammy</publisher>
+		<rom name="slotslc05red.bin" size="4194304" crc="b30e908e" sha1="f9ad6b93bcf626ba1d5222af13088565a5d4a729" />
+	</machine>
+</datafile>

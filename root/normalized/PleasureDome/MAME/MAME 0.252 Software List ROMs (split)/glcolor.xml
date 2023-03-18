@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>glcolor</name>
+		<description>VTech Genius Leader Color cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="carlchen">
+		<description>Carlchen Clever - Wort- und Zahlenlabyrinth</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5502-00" size="262144" crc="8ccf640b" sha1="0f327ad08f79c00dbd1865084f55f205d8da27de" />
+	</machine>
+	<machine name="fling">
+		<description>Fling - Die Buchstaben-Schleuder</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5581-00" size="262144" crc="5288ce4b" sha1="1b0ed6df8e589a48579508b2df4bf1475d08aedb" />
+	</machine>
+	<machine name="tatortum">
+		<description>Tatort Umwelt</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5498-00" size="262144" crc="8d811939" sha1="3b1aacfbebc84598daaae1d06c103ee3e1bd6db6" />
+	</machine>
+	<machine name="zahlenkn">
+		<description>Zahlenknacker</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5500-00" size="262144" crc="7f4c1f2d" sha1="f275dc590927137d51576aae398bcb395d79f6c3" />
+	</machine>
+</datafile>

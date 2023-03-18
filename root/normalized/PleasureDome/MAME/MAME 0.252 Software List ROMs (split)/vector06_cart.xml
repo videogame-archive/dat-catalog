@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vector06_cart</name>
+		<description>Vector-06C cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="romdisk">
+		<description>ROMDISK</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="vector.bin" size="16384" crc="e533bd83" sha1="624470b3f232131723a41d50455dca1a2ca0a0c0" />
+	</machine>
+</datafile>

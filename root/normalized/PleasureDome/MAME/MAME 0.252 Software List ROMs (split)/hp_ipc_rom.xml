@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>hp_ipc_rom</name>
+		<description>HP Integral PC optional ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="se">
+		<description>Software Engineering ROM</description>
+		<year>1986</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="se_rom.bin" size="2097152" crc="58da10cf" sha1="04995e1a615a28f54392107a8ffe0e715086ce26" />
+	</machine>
+</datafile>

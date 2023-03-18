@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>uzebox</name>
+		<description>Uzebox internal EPROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="15puzzle">
+		<description>Fifteen Puzzle</description>
+		<year>2013</year>
+		<publisher>Belogic</publisher>
+		<rom name="15puzzle.bin" size="30076" crc="f35f3f26" sha1="ea5ed0617b3e8a14842f140451f11448ee90b809" />
+	</machine>
+	<machine name="2048">
+		<description>2048</description>
+		<year>2014</year>
+		<publisher>Belogic</publisher>
+		<rom name="2048.bin" size="33824" crc="ce0ea527" sha1="ec7b18ce3cf758c764b0b6b9bf7293999899afc1" />
+	</machine>
+	<machine name="65536in1">
+		<description>65536-in-1</description>
+		<year>2016</year>
+		<publisher>Belogic</publisher>
+		<rom name="65536in1.bin" size="60974" crc="6ee7d7d5" sha1="460e771c85e407f7bb78d1736efe4c5f76a333f8" />
+	</machine>
+	<machine name="airhockey">
+		<description>Air Hockey</description>
+		<year>2013</year>
+		<publisher>Belogic</publisher>
+		<rom name="airhockey.bin" size="25928" crc="739f5901" sha1="c184a1562f430901d969bc536e4e8eb4eddf868a" />
+	</machine>
+	<machine name="arkanoid">
+		<description>Arkanoid</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="arkanoida\arkanoid (alt).bin" size="58940" crc="52661b71" sha1="8ae1c36d1f1a1934d4c970007651172ffdd99b8a" />
+		<rom name="arkanoidb\arkanoid (alt2).bin" size="58542" crc="aa90ca49" sha1="b6b3e0b841a7bdf3c7d076488e70de6e4696ff0f" />
+		<rom name="arkanoid.bin" size="61020" crc="0c8e0bae" sha1="b96c95da0bd3c35d81d9c5368e55f1a716268a8a" />
+	</machine>
+	<machine name="atomix">
+		<description>Atomix</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="atomix.bin" size="51284" crc="727e76ad" sha1="ae42ee7250f4098878689cf413b9c518208cbd9d" />
+	</machine>
+	<machine name="babtower">
+		<description>Babylon Tower</description>
+		<year>2015</year>
+		<publisher>Belogic</publisher>
+		<rom name="babtower.bin" size="31712" crc="44b0e83a" sha1="7c4a5d3a7e2bd03455d541f696783bfc44698fa0" />
+	</machine>
+	<machine name="bcdash">
+		<description>B.C. Dash</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="bc-dash.bin" size="60406" crc="4ebf4d1e" sha1="ed5b59c83f1791f86d006a978c9714aad2878a46" />
+	</machine>
+	<machine name="bitmapd">
+		<description>BitmapDemo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="bitmapda\bitmap-demo (alt).bin" size="13742" crc="18e01286" sha1="cd01182154a63076bbcbda907f51cce9d4c8dd86" />
+		<rom name="bitmapdb\bitmapdemo.bin" size="13904" crc="09202c5a" sha1="1e3824af445a8be6d4fab243a20700c0f112fb42" />
+		<rom name="bitmap-demo.bin" size="11918" crc="42ed0468" sha1="5cf2d41f1cb546328ec5c5fc9cad53f44618d627" />
+	</machine>
+	<machine name="blockboy">
+		<description>Block Boy</description>
+		<year>2017</year>
+		<publisher>Belogic</publisher>
+		<rom name="blockboy.uze" size="57850" crc="bd149832" sha1="b85bc95c39d9b5aa643ba9e58d05163e9d07b444" />
+	</machine>
+	<machine name="bomber">
+		<description>Bomber</description>
+		<year>2015</year>
+		<publisher>Belogic</publisher>
+		<rom name="bomber.bin" size="24304" crc="6ddbdadc" sha1="8b1b11706f329f4a386faf3774b0e1174f21bfce" />
+	</machine>
+	<machine name="bomberma">
+		<description>Bomberman II (WIP)</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="bomberman2-wip.bin" size="39374" crc="47ac5421" sha1="37781f1f41ac521e1de5cba328698d4d253d351f" />
+	</machine>
+	<machine name="boulderd">
+		<description>Boulderdash</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="boulderdash.bin" size="59624" crc="77c0e8ff" sha1="a9e66aeeea1fb78dfd2860412e332bf9e3f4afdc" />
+	</machine>
+	<machine name="buddha">
+		<description>Buddha</description>
+		<year>2014</year>
+		<publisher>Belogic</publisher>
+		<rom name="buddha.bin" size="56276" crc="28c5160e" sha1="e4b66512a62ff1a7519f5a8d8ac43d689720a832" />
+	</machine>
+	<machine name="bugz">
+		<description>Bugz</description>
+		<year>2015</year>
+		<publisher>Belogic</publisher>
+		<rom name="bugz.bin" size="57582" crc="f19e2b5b" sha1="4a1a9e8b3f3003fdbab9ac3e8081827bcb3d9515" />
+	</machine>
+	<machine name="calc">
+		<description>Calculator Demo</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="calculator.bin" size="27056" crc="dec79b80" sha1="38bbc1bd1d4358c30acb0d0bedf46f2666e886b1" />
+	</machine>
+	<machine name="chess">
+		<description>chess4uzebox</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="chessa\chess4uzebox (alt).bin" size="48176" crc="255bbf0c" sha1="065d1870dd8fef52b126e68b913dd03e7245b585" />
+		<rom name="chess4uzebox.bin" size="48632" crc="7006579a" sha1="c6ab4fca5774198f81a5bb9fe936b26278781729" />
+	</machine>
+	<machine name="chuckiee">
+		<description>ChuckieEgg</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="chuckie-egg.bin" size="50680" crc="306eea2a" sha1="63245f26ef838a544541d4b33a624d3cb1b10d44" />
+	</machine>
+	<machine name="claydemo">
+		<description>Clay Demo</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="clay-demo.bin" size="36356" crc="f8a8863b" sha1="6a774c078f53429c1ecd2f57a4867ec1943213bd" />
+	</machine>
+	<machine name="columns">
+		<description>Columns</description>
+		<year>2013</year>
+		<publisher>Belogic</publisher>
+		<rom name="columns.bin" size="59936" crc="a7086355" sha1="49a9890bdaf9dbf3d935c05b79c8be20ed15c171" />
+	</machine>
+	<machine name="corridan">
+		<description>Corrida Nebososa</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="corrida-nebososa.bin" size="58768" crc="410ac27e" sha1="9e36c6f1c82691f0f6c305451a8b912b288c7de0" />
+	</machine>
+	<machine name="ctester">
+		<description>Controller Tester</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="ctestera\controller-tester (alt).bin" size="15384" crc="214e6617" sha1="60ed5d6d18f58eba5259cb2a143896130c4c3edb" />
+		<rom name="controller-tester.bin" size="15238" crc="1f5adb0b" sha1="fd5a20ddd64a236c3475e2dd69823609243e13ec" />
+	</machine>
+	<machine name="dkong">
+		<description>Donkey Kong</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="donkey-kong.bin" size="61274" crc="456df270" sha1="90dbcb474f959f3e6214d832b552b56f22dd835c" />
+	</machine>
+	<machine name="drmario">
+		<description>Dr.Mario</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="drmarioa\drmario.bin" size="53388" crc="2f9e1b61" sha1="c17584862b92d2a8035af4edce171a46faf1bcc1" />
+		<rom name="dr-mario.bin" size="56490" crc="8144b271" sha1="d4bb13f54b756e2ba9e57075aae473b72397f48f" />
+	</machine>
+	<machine name="dungeons">
+		<description>Dungeon Slash Demo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="dungeon-slash-demo.bin" size="17514" crc="065e8fed" sha1="997df9362aaf8400f63ee2979beb6a161ff1c522" />
+	</machine>
+	<machine name="emuze">
+		<description>Emuze EEPROM Viewer</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="emuzea\emuze (alt).bin" size="29790" crc="5687e52b" sha1="8df9a35dbe49b48fda9140256b0fb6a18b1c456f" />
+		<rom name="emuze.bin" size="28712" crc="5839a121" sha1="0f059540afb01d51a297c85a9159046a27a827c0" />
+	</machine>
+	<machine name="esdattac">
+		<description>ESD Attack</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="esd-attack.bin" size="55714" crc="50474896" sha1="a9a78dcc97b1061b05858a12d9e25e706c10becc" />
+	</machine>
+	<machine name="finalbld">
+		<description>Final Blood</description>
+		<year>2018</year>
+		<publisher>Belogic</publisher>
+		<rom name="finalblood.bin" size="45886" crc="091d0ba4" sha1="d6888bc0d60d4f12c3f23e9ea5d5bc99baaec1fa" />
+	</machine>
+	<machine name="firemanr">
+		<description>Fireman Rescue</description>
+		<year>2013</year>
+		<publisher>Belogic</publisher>
+		<rom name="firemanr.bin" size="35530" crc="706ff909" sha1="6996e56f24d0403e05fcdac99d3a794b1849091c" />
+	</machine>
+	<machine name="fliptris">
+		<description>Fliptris</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="fliptris-wip.bin" size="17446" crc="65c895e2" sha1="fc4b2e163cf46140aecf235b9f392fbc57ee56fa" />
+	</machine>
+	<machine name="foad">
+		<description>Flight of a Dragon</description>
+		<year>2017</year>
+		<publisher>Belogic</publisher>
+		<rom name="foaddemo\foaddemo.bin" size="60068" crc="5792d5cc" sha1="803deda7f2a240ee1c629df148aca0b88571dd61" />
+		<rom name="foad.bin" size="61386" crc="2c5696fa" sha1="1e106239b015c497ade60107e00cbfb306592640" />
+	</machine>
+	<machine name="frogfeas">
+		<description>Frog Feast</description>
+		<year>201?</year>
+		<publisher>Belogic</publisher>
+		<rom name="frogfeast.bin" size="61028" crc="63532540" sha1="305f6b96538b390d07ade5fe0d381f9b26baa4ff" />
+	</machine>
+	<machine name="frogger">
+		<description>Frogger</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="frogger.bin" size="50476" crc="4c3036ef" sha1="2269bad0c8597430017205cfb4b74bbcf78ffb37" />
+	</machine>
+	<machine name="gforce">
+		<description>G-Force WIP</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="g-force-wip.bin" size="23714" crc="4122417b" sha1="cb792b6154babd05797528b9178916a30f6ff44b" />
+	</machine>
+	<machine name="gghost">
+		<description>Ghosty Ghost</description>
+		<year>2015</year>
+		<publisher>Belogic</publisher>
+		<rom name="gghost.bin" size="46958" crc="6f6097e1" sha1="040bf135478b977968b9100c5cac9dcb0a52cd57" />
+	</machine>
+	<machine name="gorillas">
+		<description>Gorillas</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="gorillas.bin" size="55394" crc="7ecd7f22" sha1="a847849f885942c05e3e9e79c3188abfb4422763" />
+	</machine>
+	<machine name="happyeas">
+		<description>Happy Easter</description>
+		<year>2012</year>
+		<publisher>Belogic</publisher>
+		<rom name="happy-easter.bin" size="49892" crc="002d4f30" sha1="145241d6235a4185bf1d6d3fdcb4204b1e9140a0" />
+	</machine>
+	<machine name="holeymol">
+		<description>Holey Moley</description>
+		<year>2014</year>
+		<publisher>Belogic</publisher>
+		<rom name="holeymol.bin" size="59512" crc="1f9fd98c" sha1="67fd64691d33c77de8f6565e5cc8025987562788" />
+	</machine>
+	<machine name="holidays">
+		<description>HolidaysDemo</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="happy-holidays.bin" size="11428" crc="f125969e" sha1="19ffc48059a2b7883cca84f3e35cef0c953d1ce9" />
+	</machine>
+	<machine name="joyrider">
+		<description>Joyrider</description>
+		<year>2014</year>
+		<publisher>Belogic</publisher>
+		<rom name="joyrider.bin" size="58798" crc="95d85abb" sha1="045bf63c7a4dca334104cb477d820542bee69eb8" />
+	</machine>
+	<machine name="lander">
+		<description>Lander</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="lander.bin" size="47734" crc="b5630ff6" sha1="3731dd629d5044a2c6f5eb99296d5d8c42fdb3f2" />
+	</machine>
+	<machine name="laserpuz2">
+		<description>Laser Puzzle II</description>
+		<year>201?</year>
+		<publisher>Belogic</publisher>
+		<rom name="laserpuzzle2.bin" size="60454" crc="907bfe44" sha1="e5a8e8d07dba7ed02be2a39cd84ea684c2e7fc79" />
+	</machine>
+	<machine name="laserpuz">
+		<description>Laser Puzzle</description>
+		<year>201?</year>
+		<publisher>Belogic</publisher>
+		<rom name="laserpuzzle.bin" size="60904" crc="948ab76e" sha1="c243bb87d612155bb1fc79b31a76851703fcd11b" />
+	</machine>
+	<machine name="ldrun">
+		<description>Lode Runner</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="loderunner.bin" size="61338" crc="e5e47e67" sha1="b586711b151ade612d290fbb97c9288093df548d" />
+	</machine>
+	<machine name="lolo">
+		<description>Adventures of Lolo</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="loloa\lolo-wip (alt).bin" size="62144" crc="b31d5944" sha1="7ebc597599b5232d5db1718a14f145a34d14dd69" />
+		<rom name="lolo-wip.bin" size="55526" crc="24cb5ed6" sha1="2b665f9fd87faee27e2988d0ce39ea2d25544f1c" />
+	</machine>
+	<machine name="matrix">
+		<description>The Matrix Screen Saver</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="matrix.bin" size="17528" crc="3f0e028c" sha1="73d2c97005871c6a80986ae08fede78291d5e5d3" />
+	</machine>
+	<machine name="maze">
+		<description>The Great Maze</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="mazea\maze (alt).bin" size="19238" crc="2516adbf" sha1="fbcd91ce115f94c69adb07ea4a3e12e007990667" />
+		<rom name="mazeb\maze (alt 2).bin" size="15456" crc="47dbed06" sha1="a39f56c9697654af3b3503dd9ddd64da572f0181" />
+		<rom name="maze.bin" size="15788" crc="5ca04165" sha1="73bcc1ff793e701bc5ff044733cdacb30771e3f4" />
+	</machine>
+	<machine name="megabomb">
+		<description>Mega Bomber (WIP)</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="mega-bomber-wip.bin" size="57296" crc="b47c18bc" sha1="f548a50a5846865479756a6aa8dc3c34b578b46d" />
+	</machine>
+	<machine name="megasoko">
+		<description>MegaSokoban</description>
+		<year>2012</year>
+		<publisher>Belogic</publisher>
+		<rom name="mega-sokoban.bin" size="52836" crc="8aa470cb" sha1="5b35c20b7fdd36bba86be2434105cc163878ae46" />
+	</machine>
+	<machine name="megatris">
+		<description>Megatris</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="megatrisa\megatris (alt).bin" size="60546" crc="a00f3b32" sha1="edfd556e465b275aee36626bd506738f3e8f21db" />
+		<rom name="megatris.bin" size="61314" crc="c6c61bc0" sha1="5f1dc2449893edc60d5f0623ee300d36211b08a4" />
+	</machine>
+	<machine name="melli">
+		<description>Melli's RetroLand</description>
+		<year>201?</year>
+		<publisher>Belogic</publisher>
+		<rom name="melli.bin" size="53736" crc="f5ae4323" sha1="95b787a8314a3308bc642f03e3aa450946c3e903" />
+	</machine>
+	<machine name="memory">
+		<description>Memory</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="memory.bin" size="49450" crc="3f56bb27" sha1="591c6db43d34b5833a80ea138033d8d7e7a0b1a1" />
+	</machine>
+	<machine name="moonpatr">
+		<description>Moon Patrol (WIP)</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="moon-patrol-wip.bin" size="44942" crc="6f6f5379" sha1="2c2226e91167d86a1af393c6f11e4f40aba7c98c" />
+	</machine>
+	<machine name="moviep">
+		<description>Uzebox Movie Player</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="movie-player.bin" size="6790" crc="87d0d3c6" sha1="0c9aa3b2ee0ed8420937f78688415baaf8d3fd3e" />
+	</machine>
+	<machine name="musicd">
+		<description>Music Demo</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="music-demo.bin" size="41648" crc="5bdc07ff" sha1="0ab3860117f249b3b9f51423f20094ab7b9d8d4b" />
+	</machine>
+	<machine name="musicda">
+		<description>Music Demo (alt)</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="musicdemo.bin" size="47016" crc="1a39fec9" sha1="621cf419c6af9d412b96d815ba57e722fb86eb49" />
+	</machine>
+	<machine name="ninjabea">
+		<description>Ninja Beatdown</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="ninja-beatdown.bin" size="49854" crc="686ea6c1" sha1="8b35b32cf9647698a93f222726e5f73002535d4e" />
+	</machine>
+	<machine name="pacman">
+		<description>Pac-Man</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="pacmana\pacman (alt).bin" size="62588" crc="e07c2e87" sha1="e50327981c201012c63898e19f8825f4bfc0fe6e" />
+		<rom name="pacman-lite.bin" size="56558" crc="d45259a1" sha1="7e5d0d5d3cc009f7dda75d310641fb807ea67521" />
+	</machine>
+	<machine name="pengouze">
+		<description>PengoUze</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="pengo.bin" size="60102" crc="4b5fa36d" sha1="f6b0ecaa71adc90b87459b9d87b0cacb2d292795" />
+	</machine>
+	<machine name="pentago">
+		<description>Pentago</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="pentago.bin" size="41846" crc="7eeb33b5" sha1="207cc42b717691bf7b6a90eaf6865d9786e1d767" />
+	</machine>
+	<machine name="pipes">
+		<description>Pipes</description>
+		<year>2012</year>
+		<publisher>Belogic</publisher>
+		<rom name="pipes.bin" size="56186" crc="47d6d3d0" sha1="46bf227a5c3e3ad06d4aab53b5871d1b992d250b" />
+	</machine>
+	<machine name="pong">
+		<description>Pong</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="pong.bin" size="19888" crc="915676c0" sha1="fd513d945b246c3489ee047bc3c527915ae0fcd9" />
+	</machine>
+	<machine name="rcdemo">
+		<description>Ray Caster Demo</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="ray-caster-demo.bin" size="45430" crc="20e4a613" sha1="bc9c05c20c710b486b007d0c89aa98b6772534e5" />
+	</machine>
+	<machine name="redbull">
+		<description>Redbull Create Demo</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="redbulla\redbull (alt).bin" size="65536" crc="ffe9a0fa" sha1="197c5e255101c2bae0960f7e586d248d0d526095" />
+		<rom name="redbull.bin" size="53712" crc="8b4bdcbb" sha1="f5583b3c8a437989961c04d132375822cbdde38b" />
+	</machine>
+	<machine name="reels">
+		<description>Reels of Fortune</description>
+		<year>2019</year>
+		<publisher>Belogic</publisher>
+		<rom name="reels.bin" size="56304" crc="8643e2cf" sha1="ad132c49d22f46214408fa687f6cdd4715e5c6c5" />
+	</machine>
+	<machine name="rubycrus">
+		<description>Ruby Crush</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="ruby-crush.bin" size="61728" crc="e2e08e76" sha1="3794bb154fd6986e7b571ee8418aa42b89bcb54d" />
+	</machine>
+	<machine name="scrolld">
+		<description>Clay's Scroll Demo</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="race-wip.bin" size="33372" crc="434e9a36" sha1="d2b07cc54b63dbd5043d59e92f7ad9b0d67cf937" />
+	</machine>
+	<machine name="sdcardd">
+		<description>SD Card Demo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="sdcardda\sd-card-demo (alt).bin" size="14130" crc="d97ec156" sha1="3928b9c6c3f51fb0912200303cb610a28f91e950" />
+		<rom name="sd-card-demo.bin" size="14732" crc="eb9b081b" sha1="9bc7e38869a7d7c2b1f3e951a8272fd0c7dba324" />
+	</machine>
+	<machine name="simon">
+		<description>Simon</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="simon.bin" size="40462" crc="873761ce" sha1="995d9292e5f36199e96e313b9aa9be97e14225f4" />
+	</machine>
+	<machine name="smariod">
+		<description>Super Mario Demo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="smarioda\super-mario-demo (alt).bin" size="55706" crc="73acd5bf" sha1="c780457243fbd20d2dc3006a0dcbae040bad9b72" />
+		<rom name="super-mario-demo.bin" size="56100" crc="2e08c16a" sha1="d42e0d40c2f05d9f6ea6fa2eb4f5e73376ad8f7c" />
+	</machine>
+	<machine name="snakes">
+		<description>Snakes</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="snakes.bin" size="25696" crc="62aacc4c" sha1="4b80f10d503ac3084335f114e021a7593d882fbe" />
+	</machine>
+	<machine name="sokoban">
+		<description>Sokoban</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="sokoban.bin" size="47466" crc="bf471be3" sha1="4636397e5bc53088abc22113c6a5dba7445257b3" />
+	</machine>
+	<machine name="sokobanw">
+		<description>Sokoban World</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="sokoban-world.bin" size="61378" crc="991bfef1" sha1="2ae3366f7a8ba0dc1944a8d13d91a8468a8eb25e" />
+	</machine>
+	<machine name="solitaire">
+		<description>Solitaire</description>
+		<year>2015</year>
+		<publisher>Belogic</publisher>
+		<rom name="solitaire.bin" size="60754" crc="d0454243" sha1="26132baab8693bb1d455c2e9768a727049d1d8f0" />
+	</machine>
+	<machine name="sonicd">
+		<description>Sonic The Hedgehog Demo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="sonic-wip.bin" size="35766" crc="64aaa604" sha1="08f129494d73c5fe341185b0d519f42fcf1cb683" />
+	</machine>
+	<machine name="soundpt">
+		<description>Sound Patch Tool (WIP)</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="patch-tool-wip.bin" size="26212" crc="3eb88442" sha1="8d016267aa5171f88f4aeba78725cf15b8fc29cf" />
+	</machine>
+	<machine name="spaceage">
+		<description>Space Age</description>
+		<year>2013</year>
+		<publisher>Belogic</publisher>
+		<rom name="spaceage.bin" size="57094" crc="c9434ebd" sha1="8a0056be6588c1926ec4d358a6c1a156161f8e8e" />
+	</machine>
+	<machine name="spaceinv">
+		<description>Space Invaders</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="spaceinva\space-invaders (alt).bin" size="40524" crc="8ed98301" sha1="10c4a93d148163801fb75c904dab0f79ecaaf6d9" />
+		<rom name="space-invaders.bin" size="40626" crc="86ac4409" sha1="dcbcd3e777056ff6be6ff10fa8a9af02f6bc1952" />
+	</machine>
+	<machine name="sprited1">
+		<description>Sprite Demo 1</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="sprite-demo1.bin" size="39130" crc="f50517b9" sha1="0d8e1f586a163ef96f16ca7a3d3cf097b5275aaf" />
+	</machine>
+	<machine name="sprited2">
+		<description>Sprite Demo 2</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="sprited2a\spritedemo.bin" size="64222" crc="39a75fa4" sha1="fb975e4b8e17fedf48d16734442af50ed7a0ab0f" />
+		<rom name="sprite-demo2.bin" size="64922" crc="9cb17dde" sha1="f50e5ef7c116b25495304c9a039086dd12a84fc9" />
+	</machine>
+	<machine name="stmforce">
+		<description>Stormforce</description>
+		<year>2016</year>
+		<publisher>Belogic</publisher>
+		<rom name="stmforce.bin" size="43516" crc="76174c0a" sha1="519743abcce781d9afb4dce57e39a1403670a7b6" />
+	</machine>
+	<machine name="tactics">
+		<description>Uzebox Tactics</description>
+		<year>2019</year>
+		<publisher>Belogic</publisher>
+		<rom name="tactics.bin" size="46628" crc="29d88c0e" sha1="b1334f6d6cfd5352cda5271db73ee58a0a059047" />
+	</machine>
+	<machine name="tankswip">
+		<description>Tanks (WIP)</description>
+		<year>2012</year>
+		<publisher>Belogic</publisher>
+		<rom name="tanks-wip.bin" size="38332" crc="30520468" sha1="7234eb8eb1fcbfefefb396a9725869963c625790" />
+	</machine>
+	<machine name="tron">
+		<description>Tron</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="tron.bin" size="18324" crc="e4f01c42" sha1="f36e701acbfb6a33079171cf7618905950c01126" />
+	</machine>
+	<machine name="tutorial">
+		<description>Tutorial</description>
+		<year>2008</year>
+		<publisher>Belogic</publisher>
+		<rom name="tutorial.bin" size="12922" crc="bd50dbf9" sha1="19928861eb5d0d7aa1c90fb6d90cc0a293a75fdd" />
+	</machine>
+	<machine name="utype">
+		<description>U-Type (WIP)</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="u-type-wip.bin" size="55108" crc="c66e66d6" sha1="f8d3c2d19670af2af768d50874c240e5309779f7" />
+	</machine>
+	<machine name="uzeamove">
+		<description>Uze-a-Move (WIP)</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="uze-a-move-wip.bin" size="60658" crc="647cd440" sha1="d49c8ef3d72ee029b90cfe2f6049cc56853893ee" />
+	</machine>
+	<machine name="uzeamp">
+		<description>Uzeamp</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="uzeamp.bin" size="35306" crc="6e26137e" sha1="b81f8948906543579a7b0341948f68889069a0db" />
+	</machine>
+	<machine name="uzefeud">
+		<description>Uze Feud</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="uze-feud.bin" size="57174" crc="8db1f56d" sha1="99c7d850d2c22261d900bc536bb48dd8ef007127" />
+	</machine>
+	<machine name="uzekick">
+		<description>Uzekickers</description>
+		<year>2014</year>
+		<publisher>Belogic</publisher>
+		<rom name="uzekick.bin" size="47868" crc="4eae9cc5" sha1="310d72fa87568e319918da670747b113be4dc607" />
+	</machine>
+	<machine name="uzesnake">
+		<description>Uze Snakes</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="uze-snakes.bin" size="52784" crc="b26bf346" sha1="ad64b69eab36483d6ff165a8e955c746269a1af5" />
+	</machine>
+	<machine name="uzesweep">
+		<description>Uzesweeper</description>
+		<year>2011</year>
+		<publisher>Belogic</publisher>
+		<rom name="uzesweeper.bin" size="46922" crc="b434d22e" sha1="b56c70453cbd626c0b85588baa0c2a864f8b8ec2" />
+	</machine>
+	<machine name="uzewars">
+		<description>Uzi Wars</description>
+		<year>201?</year>
+		<publisher>Belogic</publisher>
+		<rom name="uzewars.bin" size="25776" crc="21861b9e" sha1="aae3ec5aeda329832a8717ab89d2d5360f2a9c65" />
+	</machine>
+	<machine name="vectgame">
+		<description>Vector Game</description>
+		<year>2013</year>
+		<publisher>Belogic</publisher>
+		<rom name="vectgame.bin" size="26770" crc="abc2c57c" sha1="f7e13c41946f5fa897d75a916310099128c24673" />
+	</machine>
+	<machine name="vectord2">
+		<description>Vector Demo 2</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="vectordemo.bin" size="14296" crc="a77eb938" sha1="f1082aeffc74b230ca9724e1f4a9907371e1213f" />
+	</machine>
+	<machine name="vectord">
+		<description>Vector Demo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="vector-demo.bin" size="13706" crc="68a5e9e2" sha1="c37d90b6b6d0de9da2ab463463fa1b82f0d482e8" />
+	</machine>
+	<machine name="video9d">
+		<description>Video Mode 9 Demo</description>
+		<year>2010</year>
+		<publisher>Belogic</publisher>
+		<rom name="mode9-demo.bin" size="28638" crc="fa83189e" sha1="48acd764f118586252c6dc43fc153a5e057ba053" />
+	</machine>
+	<machine name="videod">
+		<description>Video Demo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="videoda\video-demo (alt).bin" size="7430" crc="6b8c8fae" sha1="c7bbc62fe170c5179d44993bbb0869a5ba09ae4b" />
+		<rom name="video-demo.bin" size="7402" crc="b72256f2" sha1="d4d8a7f19a873a9553565211004648a25d870422" />
+	</machine>
+	<machine name="videopoker">
+		<description>Video Poker</description>
+		<year>????</year>
+		<publisher>Belogic</publisher>
+		<rom name="videopoker.bin" size="43252" crc="97957676" sha1="99ce588e0ca30887e5f271140811ce59da48d72a" />
+	</machine>
+	<machine name="voidfigh">
+		<description>Void Fighter</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="void-fighter-wip.bin" size="49702" crc="f2a9f770" sha1="d67c5562ddc99dc896f3c11d36ccb8cb3769b870" />
+	</machine>
+	<machine name="wamole">
+		<description>Whack-a-Mole</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="wamolea\whack-a-mole (alt).bin" size="42422" crc="32f7d6e7" sha1="76ff170ea8f1dec2c68d1b1b86742b01f3a57abf" />
+		<rom name="wamoleb\whack-a-mole (alt2).bin" size="40128" crc="bbd75c6e" sha1="8600b21b3b00a3759adb210435db5b3558f78f38" />
+		<rom name="whack-a-mole.bin" size="39322" crc="21422cdd" sha1="c90c9369a2914c937a56b27c41c365533de95c87" />
+	</machine>
+	<machine name="wuergrtm_d">
+		<description>Wuergertime (Demo)</description>
+		<year>2012</year>
+		<publisher>Belogic</publisher>
+		<rom name="wrgrtm_md\wuergertime-demo-with-music-20161120.bin" size="56234" crc="7c6d32ad" sha1="0f84d9dabfe68f35488674e0c737f9bd58acf106" />
+		<rom name="wuergertime-demo-20121208.bin" size="49092" crc="689c2d87" sha1="a8d0e72b1ffbe1db31f5b79d970655bb4c9b4769" />
+	</machine>
+	<machine name="xor">
+		<description>XOR</description>
+		<year>2013</year>
+		<publisher>Belogic</publisher>
+		<rom name="xor.bin" size="59316" crc="ec1826ee" sha1="f94ac5a1744734dc266e9b0959aef6011a9ef351" />
+	</machine>
+	<machine name="zeldad">
+		<description>Zelda II Demo</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="zelda2-wip.bin" size="37918" crc="4f153b95" sha1="fc0e205d0f4df3bebf3f81ef64956600e44b55d6" />
+	</machine>
+	<machine name="zombiena">
+		<description>Zombienator</description>
+		<year>2009</year>
+		<publisher>Belogic</publisher>
+		<rom name="zombienator.bin" size="51552" crc="6149ad7d" sha1="9ff4a916c749cbff57cdbc2110b24267902cbdb9" />
+	</machine>
+</datafile>

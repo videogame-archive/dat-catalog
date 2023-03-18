@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gamecom</name>
+		<description>Tiger Game.com cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="arcadecl">
+		<description>Williams Arcade Classics</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="williams arcade classics (1997).bin" size="1048576" crc="f894065d" sha1="5e2164fa76546b2795af7b04a766e31784b82eca" />
+	</machine>
+	<machine name="batmanr">
+		<description>Batman &amp; Robin</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="batman &amp; robin (1997).bin" size="2097152" crc="b336e530" sha1="066d5cddce9729044ad598ad3cc3489a834f5197" />
+	</machine>
+	<machine name="centiped">
+		<description>Centipede</description>
+		<year>1999</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="centipede (1999)(hasbro - tiger electronics).bin" size="262144" crc="1a041ff0" sha1="b3d50e0cca6e2a539fba5883854aaf26424ab382" />
+	</machine>
+	<machine name="dukenuke">
+		<description>Duke Nukem 3D</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="duke nukem 3d (1997).bin" size="2097152" crc="884568d1" sha1="9aaa1cf3b12f14201079dfbdd4c17fe868972de6" />
+	</machine>
+	<machine name="fightmix">
+		<description>Fighters Megamix</description>
+		<year>1998</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="fighters megamix (1998)(sega).bin" size="2097152" crc="061e943f" sha1="c165e5f4b61341ae0e8a4d141b28e18108942326" />
+	</machine>
+	<machine name="frogger">
+		<description>Frogger</description>
+		<year>1999</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="frogger (1999)(hasbro - tiger electronics).bin" size="1048576" crc="10e4c5cd" sha1="8224d3e71a3da2f4029bee8b62b4a0c108c054e4" />
+	</machine>
+	<machine name="henry">
+		<description>Henry - Match the Sounds Memory Game</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="henry (1997).bin" size="1048576" crc="75d3c8d8" sha1="b72a03af1dec0c621f9eda89ded3845724bb34ac" />
+	</machine>
+	<machine name="indy500">
+		<description>Indy 500</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="indy 500 (1997).bin" size="1048576" crc="845ed281" sha1="117bfa1c831fbcf4a1d507cb70b6e0636c29bbd3" />
+	</machine>
+	<machine name="internet">
+		<description>Game.com Internet</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="internet (1997)(tiger electronics).bin" size="262144" crc="7e721a84" sha1="4c6b5b91a70397cb5e1add4ab53afe3ec0fe2072" />
+	</machine>
+	<machine name="jeopardy">
+		<description>Jeopardy!</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="jeopardy (1997).bin" size="1048576" crc="8c512912" sha1="c60ac5e59c3cc092506bc47adb60b40a9415bc97" />
+	</machine>
+	<machine name="lightout">
+		<description>Lights Out</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="lights out (1997).bin" size="32768" crc="496efa62" sha1="1d91b616caa2d35f53ec5680aada8f75e2f0ac43" />
+	</machine>
+	<machine name="lostwrld">
+		<description>The Lost World - Jurassic Park</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="lost world, the - jurassic park (1997).bin" size="2097152" crc="b422c5f8" sha1="648badcac6c386d7ff40f917e34bd309e737c027" />
+	</machine>
+	<machine name="mktrilgy">
+		<description>Mortal Kombat Trilogy</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="mortal kombat trilogy (1997)(midway).bin" size="2097152" crc="bd29c844" sha1="a560ad2b916a9e4ace917d7e707cdcafbffe6e66" />
+	</machine>
+	<machine name="monopoly">
+		<description>Monopoly</description>
+		<year>1999</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="monopoly (1999).bin" size="2097152" crc="d6a65a07" sha1="8057144f6995eafff6d893383114b48f4c77abc3" />
+	</machine>
+	<machine name="quizwiz">
+		<description>Quiz Wiz - Cyber Trivia</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="quiz wiz - cyber trivia (1997).bin" size="1048576" crc="0e018f6a" sha1="c9c4435bdcea2b9ddaa2768f28f286abd382608d" />
+	</machine>
+	<machine name="re2">
+		<description>Resident Evil 2</description>
+		<year>1998</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="resident evil 2 (1998)(capcom).bin" size="2097152" crc="0984c7f5" sha1="e32357d08b07a6a8f6a7e64205cca35e50225269" />
+	</machine>
+	<machine name="scrabble">
+		<description>Scrabble</description>
+		<year>1999</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="scrabble (1999)(hasbro - tiger electronics).bin" size="2097152" crc="4d4ad909" sha1="2735d59964fe7c1d43bd260df86b9dfbc1bfd736" />
+	</machine>
+	<machine name="sonicjam">
+		<description>Sonic Jam</description>
+		<year>1998</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="sonic jam (1998)(sega).bin" size="2097152" crc="8b4a63f9" sha1="393a98138c8825ed61990e1b15e1967f87068ac6" />
+	</machine>
+	<machine name="sotn">
+		<description>Castlevania - Symphony of the Night (prototype)</description>
+		<year>1999?</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="lh28f016sut-10.bin" size="2097152" crc="eec4e8e3" sha1="86fc20a233f18c4c7aac8ebed3e4d95dabc6e8bb" />
+	</machine>
+	<machine name="tcasino">
+		<description>Tiger Casino</description>
+		<year>1998</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="tiger casino (1998).bin" size="2097152" crc="e7fb8fd9" sha1="3620491b531b9fce67545e822eff2f99c1adb4a4" />
+	</machine>
+	<machine name="weblink">
+		<description>Tiger Web Link</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="web link (1997)(tiger electronics).bin" size="262144" crc="4c13e65b" sha1="d4e08fc050c006ed6c1a177a1f4c41b4a68c26bb" />
+	</machine>
+	<machine name="wheelfo2">
+		<description>Wheel of Fortune 2</description>
+		<year>1998</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="wheel of fortune 2 (1998).bin" size="524288" crc="b91e2e32" sha1="30ddd349b8bdc21ef7ada4772ab1f3a9318ab0c8" />
+	</machine>
+	<machine name="wheelfor">
+		<description>Wheel of Fortune</description>
+		<year>1997</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="wheel of fortune (1997).bin" size="524288" crc="048347a0" sha1="298c2b87754dd93481feea1d9e01585a1e269770" />
+	</machine>
+</datafile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cx3000tc</name>
+		<description>Palson CX 3000 Tele Computer cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="airsea">
+		<description>Air-Sea Attack</description>
+		<year>19??</year>
+		<publisher>Palson?</publisher>
+		<rom name="airsea.bin" size="2048" crc="cb28b9fe" sha1="0b7eda063da93c03ab2c133c75d3d7fe5ad2b243" />
+	</machine>
+	<machine name="comecome">
+		<description>Come Come</description>
+		<year>19??</year>
+		<publisher>Palson?</publisher>
+		<rom name="comecome.bin" size="4096" crc="bd90fca7" sha1="a739e585b6e7a58295b656d81d7781f9646546ca" />
+	</machine>
+	<machine name="maze">
+		<description>Maze</description>
+		<year>19??</year>
+		<publisher>Palson?</publisher>
+		<rom name="maze.bin" size="2048" crc="683e02e1" sha1="bce01aa50ab23edd84ada7adbcfa0d624206d332" />
+	</machine>
+	<machine name="paddleg">
+		<description>Paddle Games</description>
+		<year>19??</year>
+		<publisher>Palson?</publisher>
+		<rom name="paddleg.bin" size="2048" crc="682b876a" sha1="ecc0146c40daa79a13934b8884bc8fd0f96461c1" />
+	</machine>
+</datafile>

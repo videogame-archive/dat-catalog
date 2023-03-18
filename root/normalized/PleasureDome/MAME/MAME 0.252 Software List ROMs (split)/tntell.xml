@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>tntell</name>
+		<description>Touch &amp; Tell modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="aboutme">
+		<description>All About Me</description>
+		<year>1981</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd2613.vsm" size="4096" crc="4f124bbe" sha1="3be4598379ebc94b04232af47066dbfbdea42263" />
+	</machine>
+	<machine name="alphabet">
+		<description>Alphabet Fun</description>
+		<year>1981</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd2611.vsm" size="4096" crc="80fba6f5" sha1="44145579824b9a88bdd2f57434dcce7fbe2fc1e2" />
+	</machine>
+	<machine name="animalfr">
+		<description>Animal Friends</description>
+		<year>1981</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd2355.vsm" size="16384" crc="1e99016a" sha1="7dfd78ec2508767fb91321642a30fd66e4faa3f5" />
+	</machine>
+	<machine name="et">
+		<description>E.T. the Extra-Terrestial</description>
+		<year>1982</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd2363.vsm" size="16384" crc="f8363d2a" sha1="0450b185b121a51307637c42c0719af90c22206f" />
+	</machine>
+	<machine name="lilcreat">
+		<description>Little Creatures</description>
+		<year>1982</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd2362.vsm" size="16384" crc="326622dd" sha1="afc848fb6cd4bf82ffe6c152e75aad134dc811b6" />
+	</machine>
+	<machine name="numfun">
+		<description>Number Fun</description>
+		<year>1981</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd2612a.vsm" size="4096" crc="3de47ecd" sha1="6a0308ddc167d521de8f454a1a11b1361f6f06a0" />
+	</machine>
+	<machine name="wot">
+		<description>World of Transportation</description>
+		<year>1982</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="cd2361.vsm" size="16384" crc="d88fdc52" sha1="6387aeea689567df0ce6060981e64210ac5113f1" />
+	</machine>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>tsconf_betadisc_flop</name>
+		<description>TS-Configuration Beta Disc / TR-DOS disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="copter">
+		<description>Copter v0.1</description>
+		<year>2012</year>
+		<publisher>Wizart/DT</publisher>
+		<rom name="COPTER.trd" size="655360" crc="43236562" sha1="c4e3a9bcfd2387e954372a633f7415db368dbd4b" />
+	</machine>
+	<machine name="zxbatlecity">
+		<description>ZX Battle City v1.4 (NoVDAC)</description>
+		<year>2020</year>
+		<publisher>Marie Slip / n1k-o</publisher>
+		<rom name="zxbattlecity_1_4_novdac.trd" size="655360" crc="0a2bfb45" sha1="21747a464db723d934ec2fa8a398b212344f6c1e" />
+	</machine>
+</datafile>

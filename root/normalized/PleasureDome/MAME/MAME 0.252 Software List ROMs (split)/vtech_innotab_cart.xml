@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vtech_innotab_cart</name>
+		<description>VTech InnoTAB 1/2/3 Cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="mmousec">
+		<description>Mickey Mouse Clubhouse (UK)</description>
+		<year>2011</year>
+		<publisher>VTech</publisher>
+		<rom name="80-230403-103 - Mickey Mouse Clubhouse (UK).bin" size="138412032" crc="839567a9" sha1="bd4e2c8138d6f62bcac1978745a2b752bcefb07d" />
+	</machine>
+	<machine name="pengmad">
+		<description>The Penguins of Madagascar (USA)</description>
+		<year>2012</year>
+		<publisher>VTech</publisher>
+		<rom name="innotab_penguins_of_madagascar_gpr27p01ga_c279.bin" size="138412032" crc="5c2d33fa" sha1="6ad8e167b96fed824c164b55f8d011928fd142d5" />
+	</machine>
+	<machine name="tmnttp">
+		<description>Teenage Mutant Ninja Turtles - Turtle Power! (USA)</description>
+		<year>2013</year>
+		<publisher>VTech</publisher>
+		<rom name="innotab_tmnt_turtle_power_gpr27p01ga_c279.bin" size="138412032" crc="3928e80c" sha1="f3048f990fc9c5e8d29d81a536da90496befa7b4" />
+	</machine>
+</datafile>

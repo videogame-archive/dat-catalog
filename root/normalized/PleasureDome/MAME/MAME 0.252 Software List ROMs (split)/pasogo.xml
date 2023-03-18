@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pasogo</name>
+		<description>Koei PasoGo cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dgoban">
+		<description>Denshi Goban</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<rom name="ks-1009.ic4" size="1048576" crc="b6a3f97c" sha1="2de63b05ec93a4ba3ea55ba131c0706927a5bf39" />
+	</machine>
+	<machine name="igmks1">
+		<description>Igo Meikyokushuu - Dai-1-kan</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<rom name="ks-1004.ic4" size="524288" crc="32f9c38a" sha1="1be82afcdf5e2d1a0e873fda4161e663d7a53a85" />
+	</machine>
+	<machine name="taikyoku">
+		<description>Taikyoku-kun I</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<rom name="ks-1001.ic4" size="1048576" crc="2753bb6c" sha1="3603e9ab6d4861a26343f03129eec58f7b5a34f5" />
+	</machine>
+	<machine name="tanostd1">
+		<description>Tanoshii Tsumego Dai-1-kan</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<rom name="ks-1002.ic4" size="524288" crc="2d78a2b8" sha1="929d12c7b8607e11e5bc579e498f221ffcc84bdf" />
+	</machine>
+	<machine name="tanostd2">
+		<description>Tanoshii Tsumego Dai-2-kan</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<rom name="ks-1003.ic4" size="524288" crc="4796155b" sha1="75014e71de8f10e10fc06d0c21145b9679135352" />
+	</machine>
+	<machine name="tnt1">
+		<description>Tsuyoku Naru Tesuji - Dai-1-kan</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<rom name="ks-1010.ic4" size="524288" crc="3e70fca6" sha1="c46cdc9e01f2f5c66b2523e1d30355e51c839f27" />
+	</machine>
+</datafile>

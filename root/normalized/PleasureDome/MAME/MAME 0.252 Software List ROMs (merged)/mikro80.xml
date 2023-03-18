@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mikro80</name>
+		<description>Mikro-80 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>Mikro-80 BASIC</description>
+		<year>1984</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="basica\mikro-80 basic (1984)(-)[a].rk8" size="6665" crc="751a4063" sha1="67fb4fbaefbcbe774413c79e4fecc4626f5a3d76" />
+		<rom name="mikro-80 basic (1984)(-).rk8" size="6665" crc="38d15a6a" sha1="df9e126fa8d118a1ff4b883115b7f10c393a765d" />
+	</machine>
+	<machine name="proverki">
+		<description>Programma Proverki</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="programma proverki (19xx)(-).rk8" size="217" crc="d4718cad" sha1="03f466d6ebd7b6c1ffea766461bb8cb13466f085" />
+	</machine>
+</datafile>

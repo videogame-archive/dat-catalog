@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>chessmstdm</name>
+		<description>Chess-Master Diamond Modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="pm10">
+		<description>PM10 Openings</description>
+		<year>1987</year>
+		<publisher>VEB Mikroelektronik "Karl Marx" Erfurt</publisher>
+		<rom name="bm400.d201" size="8192" crc="aa784d7a" sha1="fd2d6cac9805a5aaf4f51b7c974d0314a402c186" />
+	</machine>
+	<machine name="pm11">
+		<description>PM11 Endings</description>
+		<year>1987</year>
+		<publisher>VEB Mikroelektronik "Karl Marx" Erfurt</publisher>
+		<rom name="bm403.d201" size="8192" crc="dd5e0963" sha1="65220b289c7f8b68efe686afd81828ed387bd7dc" />
+		<rom name="bm607.d204" size="8192" crc="77b77684" sha1="90036ffd91159b2ca600dea81ed2c7dc41d1ea2d" />
+	</machine>
+</datafile>

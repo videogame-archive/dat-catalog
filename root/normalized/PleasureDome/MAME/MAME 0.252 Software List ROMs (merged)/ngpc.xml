@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ngpc</name>
+		<description>SNK Neo Geo Pocket Color cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bakumats">
+		<description>Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="bakumatsu rouman tokubetsu hen - gekka no kenshi - tsuki ni saku hana, chiri yuku hana (japan).bin" size="2097152" crc="12afacb0" sha1="aa17bd65849707cf13ca4891df44200f58d13599" />
+	</machine>
+	<machine name="bikkuri">
+		<description>Bikkuriman 2000 - Viva! Pocket Festiva! (Japan)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="bikkuriman 2000 - viva pocket festiva (japan).bin" size="1048576" crc="7a2d7635" sha1="62898d43cfc9ace86a53520ecf62abc6b0c404f3" />
+	</machine>
+	<machine name="biomotor">
+		<description>BioMotor Unitron (Europe, USA)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="biomotorj\biomotor unitron (japan).bin" size="1048576" crc="ecee99f3" sha1="74ef25a02284ea81dfba00a02098ab46656ed4a9" />
+		<rom name="biomotor unitron (usa, europe).bin" size="1048576" crc="3807df4f" sha1="ff74d5877bf58164419710888923e46b9cfb415e" />
+	</machine>
+	<machine name="bstarsc">
+		<description>Pocket Sport Series - Baseball Stars Color (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="baseball stars color (world) (en,ja).bin" size="1048576" crc="ffa7e88d" sha1="5a9792d7674ead92c08fb6f2d108b26e47a696bf" />
+	</machine>
+	<machine name="coolboar">
+		<description>Cool Boarders Pocket (Europe, Japan)</description>
+		<year>2000</year>
+		<publisher>UEP Systems</publisher>
+		<rom name="cool boarders pocket (japan, europe) (en,ja).bin" size="1048576" crc="833f9c22" sha1="2930551088bc97a407824178f23dfa8d0b6a551f" />
+	</machine>
+	<machine name="coolcool">
+		<description>Cool Cool Jam (Europe, USA, sample)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="coolcoolj\cool cool jam (japan).bin" size="2097152" crc="4fda5d8a" sha1="f0f9fb71be6fde25f9db8dcb8c6d6aa859b21697" />
+		<rom name="cool cool jam (usa, europe) (sample).bin" size="2097152" crc="4d8d27f0" sha1="77d7bb74844d43520dcd6e9cd912560c995c6247" />
+	</machine>
+	<machine name="cotton">
+		<description>Fantastic Night Dreams Cotton (Europe)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="cottonj\fantastic night dreams cotton (japan).bin" size="1048576" crc="b8a12409" sha1="935b9d671df660192d9fc215aa03d90a486e743a" />
+		<rom name="fantastic night dreams cotton (europe).bin" size="1048576" crc="1bf412f5" sha1="a9d8be97ab7bab1aaa1bedd2ce6914ec7fb8cb85" />
+	</machine>
+	<machine name="crushrol">
+		<description>Crush Roller (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="crush roller (world) (en,ja).bin" size="1048576" crc="f20ff9f2" sha1="b68e7f5f43d35feda39f0c46ebd6baadc942ac4f" />
+	</machine>
+	<machine name="darkarms">
+		<description>Dark Arms - Beast Buster 1999 (Europe, USA) ~ Beast Buster - Yami no Seitai Heiki (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="darkarmsp\beastbust.bin" size="2097152" crc="77caa548" sha1="c32afc4348a1adbf9f6855b658b5eb5767e7ebcd" />
+		<rom name="dark arms - beast buster 1999 (world) (en,ja).bin" size="2097152" crc="6f353f34" sha1="727d8100fa7c4a39a6be9133bd903b868b4cc834" />
+	</machine>
+	<machine name="deltawrp">
+		<description>Delta Warp (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="delta warp (japan).bin" size="524288" crc="add4fdff" sha1="4ab8f0b074a1299a0adee3d7ca46d070a9ccae6d" />
+	</machine>
+	<machine name="dendego2">
+		<description>Densha de Go! 2 on Neo Geo Pocket (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="dendego2p\densha de go 2 on neo geo pocket (japan) (beta).bin" size="4194304" crc="2fc4623e" sha1="4934987cd275a013d05d02b1ddd8fd1fb2ded0da" />
+		<rom name="densha de go 2 on neo geo pocket (japan).bin" size="4194304" crc="d5ced9e9" sha1="cee5fa9dc0acfba95ee6bd802a0ff80d4ecacc79" />
+	</machine>
+	<machine name="divealrb">
+		<description>Dive Alert - Becky's Version (Europe, USA)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="divealrbj\dive alert - rebecca hen (japan).bin" size="2097152" crc="3c4af4f5" sha1="ac81de4f9c1473c5ecd761dc449ae5af0e98915f" />
+		<rom name="dive alert - becky's version (usa, europe).bin" size="2097152" crc="83db5772" sha1="64467acf90be6931f9aa532ed8e1fd4dc60946c6" />
+	</machine>
+	<machine name="divealrm">
+		<description>Dive Alert - Matt's Version (Europe, USA)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="divealrmj\dive alert - burn hen (japan).bin" size="2097152" crc="c213941d" sha1="66624028ec986084a95237c74173849a8a729398" />
+		<rom name="divealrmjp\divealert.bin" size="2097152" crc="d9817a88" sha1="03e1f5b60c4fdc7665932c1c51e965788d4895f5" />
+		<rom name="dive alert - matt's version (usa, europe).bin" size="2097152" crc="ef75081b" sha1="0abdf64dd402a8192b0af8127a6ee214173dfe3c" />
+	</machine>
+	<machine name="dokodemo">
+		<description>Dokodemo Mahjong (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="dokodemo mahjong (japan).bin" size="524288" crc="78c21b5e" sha1="d7edf6bb3773a5319dfd2a20e204c70e8cc6971e" />
+	</machine>
+	<machine name="dynaslug">
+		<description>Dynamite Slugger (Europe, Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="dynamite slugger (japan, europe) (en,ja).bin" size="1048576" crc="7f1779cd" sha1="90104d5917db4cacfd1d0ef8b2b01fea09679a93" />
+	</machine>
+	<machine name="evolutn">
+		<description>Evolution - Eternal Dungeons (Europe)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="evolutnj\shinki sekai evolution - hateshinai dungeon (japan).bin" size="2097152" crc="e006f42f" sha1="61827b7a13b3efe6a6b60f314fb0589a29c1bfd2" />
+		<rom name="evolution - eternal dungeons (europe).bin" size="2097152" crc="be47e531" sha1="9f607095b038ccdbf98e6a8fce2dd67740ae5571" />
+	</machine>
+	<machine name="faselei">
+		<description>Faselei! (Europe)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="faseleij\faselei (japan).bin" size="2097152" crc="8f585838" sha1="04a65a7529098bfb2295ab4bc3782ea45ec116ee" />
+		<rom name="faselei (europe).bin" size="2097152" crc="e705e30e" sha1="48c04c8a261b25a942a9fe68abace8aad9deae23" />
+	</machine>
+	<machine name="fatfury">
+		<description>Pocket Fighting Series - Garou Densetsu First Contact ~ Fatal Fury F-Contact (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="fatfuryd\fatal fury f-contact (world) (en,ja) (demo).bin" size="2097152" crc="e7e5d6e8" sha1="d33da5587a27344221a4f925867047addaafa97c" />
+		<rom name="fatal fury f-contact (world) (en,ja).bin" size="2097152" crc="a9119b5a" sha1="ecfccd7e971d8e9d46b97aa05dc7eb61d69e16cd" />
+	</machine>
+	<machine name="ganbaren">
+		<description>Ganbare Neo Poke-kun (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="ganbare neo poke-kun (ka) (japan).bin" size="2097152" crc="6df986a3" sha1="bc8be263618601d5967538d125be1d58103ca7b7" />
+	</machine>
+	<machine name="hanadojo">
+		<description>Soreike!! Hanafuda Doujou (Japan)</description>
+		<year>1999</year>
+		<publisher>Dyna</publisher>
+		<rom name="soreike hanafuda doujou (japan).bin" size="524288" crc="05fa3eb0" sha1="f4a4264eaf1605086ccbc526f21da222aa6341bf" />
+	</machine>
+	<machine name="infinity">
+		<description>Infinity Cure (Japan)</description>
+		<year>2000</year>
+		<publisher>KID</publisher>
+		<rom name="infinity cure (japan).bin" size="1048576" crc="32dc2aa2" sha1="b0f3f57c5ad084a009631e7e0fa497451415e73b" />
+	</machine>
+	<machine name="kikousei">
+		<description>Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="kikou seiki unitron - sono tsuide. hikari umareru chi yori. (japan).bin" size="2097152" crc="84580d66" sha1="b732c22631b05895ed7eebabfc3a59e28b04b364" />
+	</machine>
+	<machine name="kofpara">
+		<description>The King of Fighters - Battle de Paradise (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="king of fighters, the - battle de paradise (japan).bin" size="2097152" crc="77e37bac" sha1="8aabdd45ba2b9e24bdcd8e51f6653736257d4644" />
+	</machine>
+	<machine name="kofr2">
+		<description>Pocket Fighting Series - King of Fighters R-2 (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="kofr2d2\king of fighters r-2 version 2 (world) (en,ja) (demo).bin" size="2097152" crc="76544c97" sha1="6b4414ebc99c72cc6c79aa7a01c38378b9ccd058" />
+		<rom name="kofr2d\king of fighters r-2 (world) (en,ja) (beta).bin" size="2097152" crc="e3ae79c0" sha1="6d138c34f3dc3c7f1b943c1f57f885007edfb12a" />
+		<rom name="king of fighters r-2 (world) (en,ja).bin" size="2097152" crc="47e490a2" sha1="7f2257fe6f9b90292d0332c06b9d68bfaeb2ed08" />
+	</machine>
+	<machine name="koikoi">
+		<description>Koi Koi Mahjong (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="koi koi mahjong (japan).bin" size="524288" crc="b51c3eba" sha1="d705dfa87cf26c8232cf4885f8ae326eb690df59" />
+	</machine>
+	<machine name="lastblad">
+		<description>The Last Blade - Beyond the Destiny (Europe)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="last blade, the - beyond the destiny (europe).bin" size="2097152" crc="94fcfd1e" sha1="b7df1e56bc47266b65226413095e38896b38da07" />
+	</machine>
+	<machine name="magdrop">
+		<description>Magical Drop Pocket (Europe, USA)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="magdropj\magical drop pocket (japan).bin" size="1048576" crc="694ce2dc" sha1="dfde0db9026b74988eaa1bdfc2a9ea0b0f52a48a" />
+		<rom name="magdropjd\magical drop pocket (japan) (demo).bin" size="1048576" crc="d76f1a47" sha1="8e8da9345c37800d6f78619b096b65ee88dfe30d" />
+		<rom name="magical drop pocket (usa, europe).bin" size="1048576" crc="7712f82d" sha1="42717bda4f505083d51108fecd5aa37b08e904cb" />
+	</machine>
+	<machine name="memories">
+		<description>Memories Off - Pure (Japan)</description>
+		<year>2000</year>
+		<publisher>KID</publisher>
+		<rom name="memories off - pure (japan).bin" size="1048576" crc="a7926e90" sha1="17d76b25f97acf0c803e5e30922c950331e4be8b" />
+	</machine>
+	<machine name="mezase">
+		<description>Mezase! Kanji Ou (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="mezase kanji ou (japan).bin" size="2097152" crc="a52e1c82" sha1="030a59f990e96649001582be2d5acc9af18424fe" />
+	</machine>
+	<machine name="mizuki">
+		<description>Mizuki Shigeru no Youkai Shashinkan (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="mizuki shigeru no youkai shashinkan (japan).bin" size="2097152" crc="dde08335" sha1="8025d09368598951da94f8601729c16972b96830" />
+	</machine>
+	<machine name="mslug1st">
+		<description>Metal Slug - 1st Mission (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="mslug1stp\METALSLUG1STP.ngp" size="2097152" crc="c44d7a40" sha1="8ff881940ea6e44414f034a214c5de735b34861a" />
+		<rom name="metal slug - 1st mission (world) (en,ja).bin" size="2097152" crc="4ff91807" sha1="3540bb6efbbc4f37992d2a871b8d83b4fca0e76e" />
+	</machine>
+	<machine name="mslug2nd">
+		<description>Metal Slug - 2nd Mission (World)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="mslug2ndd\metal slug - 2nd mission (world) (en,ja) (demo).bin" size="2097152" crc="8b1647d4" sha1="099a835930209a6ec15b7e9092c086b6e7a4ad9e" />
+		<rom name="metal slug - 2nd mission (world) (en,ja).bin" size="4194304" crc="ac549144" sha1="9c1a829d4678dd9c51fdfe30c76b7f9670311bfb" />
+	</machine>
+	<machine name="neo21">
+		<description>Pocket Casino Series - Neo 21 (Europe, USA)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="neo 21 - real casino series (world).bin" size="1048576" crc="0a2a2f28" sha1="359dc14577c7b8fb8f2c8cfa63c12bccb30fcc11" />
+	</machine>
+	<machine name="neobacca">
+		<description>Pocket Casino Series - Neo Baccarat (Europe)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="neobaccap\baccarat.bin" size="1048576" crc="80880498" sha1="aeb77b92155e0a291d00ef3c97319788cc3d1006" />
+		<rom name="neo baccarat - real casino series (world).bin" size="1048576" crc="22aab454" sha1="80218804eb591e50831d098b5bd213a3586849a5" />
+	</machine>
+	<machine name="neocherc">
+		<description>Pocket Casino Series - Neo Cherry Master Color (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="neochercp\neo cherry master color - real casino series (world) (en,ja) (beta).bin" size="1048576" crc="939a9912" sha1="9b53e545388d487a2782e5ea7232979ee33e2b4f" />
+		<rom name="neo cherry master color - real casino series (world) (en,ja).bin" size="1048576" crc="a6dca584" sha1="17d51967cf1992b6aa779a2583dac46a6590d50a" />
+	</machine>
+	<machine name="neocuppl">
+		<description>Pocket Sport Series - Neo Geo Cup '98 Plus (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="neo geo cup '98 plus (world) (en,ja).bin" size="1048576" crc="c0da4fe9" sha1="a8bb64f093b418a88e674d9fab62a34fc220ea9f" />
+	</machine>
+	<machine name="neoderby">
+		<description>Neo Derby Champ Daiyosou (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="neo derby champ daiyosou (japan).bin" size="2097152" crc="5a053559" sha1="b75a0de4eec70c39616dfff92b09f4fb1c1e0881" />
+	</machine>
+	<machine name="neodrag">
+		<description>Pocket Casino Series - Neo Dragon's Wild (World, v13)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="neodraga\neo dragon's wild - real casino series (world) (en,ja) (v1.11).bin" size="1048576" crc="225fd7f9" sha1="b80a2ab886c80ad17a6cb0968ea3ad6218922fa1" />
+		<rom name="neo dragon's wild - real casino series (world) (en,ja) (v1.13).bin" size="1048576" crc="5d028c99" sha1="b83f713370169e146a1687424ae8ce56b35a23da" />
+	</machine>
+	<machine name="neomystr">
+		<description>Pocket Casino Series - Neo Mystery Bonus (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="neo mystery bonus - real casino series (world) (en,ja).bin" size="1048576" crc="e79dc5b3" sha1="0d137a2cac0a03ab55dfeb4dbaf3929477cfb5d0" />
+	</machine>
+	<machine name="neoproyk">
+		<description>Pocket Sport Series - Neo Poke Pro Yakyuu (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="neo poke pro yakyuu (japan).bin" size="1048576" crc="f4d78f12" sha1="2052929b68092af6d530cbb97ff092805807f381" />
+	</machine>
+	<machine name="neoturfm">
+		<description>Pocket Sport Series - Big Tournament Golf ~ Neo Turf Masters (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="neo turf masters (world) (en,ja).bin" size="2097152" crc="317a66d2" sha1="d425bb812290b93a800032925d7be14f75820159" />
+	</machine>
+	<machine name="nigeronp">
+		<description>Nige-ron-pa (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="nigeronpa (japan).bin" size="1048576" crc="3cc3e269" sha1="b5d355ea808dd01cf746daef7704e54d7766bd3b" />
+	</machine>
+	<machine name="oekakip">
+		<description>Oekaki Puzzle (Japan)</description>
+		<year>2000</year>
+		<publisher>Success</publisher>
+		<rom name="oekaki puzzle (japan).bin" size="524288" crc="59ab1e0f" sha1="792a6cbb736526f4518df97b5ac79ecb45e46eec" />
+	</machine>
+	<machine name="ogrebatl">
+		<description>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="densetsu no ogre battle gaiden - zenobia no ouji (japan).bin" size="2097152" crc="eeeefd6a" sha1="5ac794c0f125bfb97efe9cd06c2aca3afdf549ea" />
+	</machine>
+	<machine name="pachinko">
+		<description>Pachinko Hisshou Guide - Pocket Parlor (Japan)</description>
+		<year>1999</year>
+		<publisher>Japan Vistec</publisher>
+		<rom name="pachinkop\jv pachi.bin" size="1048576" crc="ccf07c2f" sha1="63fd9e4be7ba482e70fcafde6e50773046a5fe40" />
+		<rom name="pachinko hisshou guide - pocket parlor (japan).bin" size="1048576" crc="c3d6b28b" sha1="941b168ecee1de8dd773464a8754c6c8c736b492" />
+	</machine>
+	<machine name="pacman">
+		<description>Pac-Man (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="pac-man (world) (en,ja).bin" size="524288" crc="21e8cc15" sha1="ec64ab4be669f9860c216151094b9eea898c64b9" />
+	</machine>
+	<machine name="pbobble">
+		<description>Puzzle Bobble Mini (Europe, Japan, v10)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="bam\bust-a-move pocket (usa).bin" size="1048576" crc="85fe6ae3" sha1="5e8c84b9a4b10aa1c3abbfdea60aef90a8b7db7d" />
+		<rom name="bamp\bustmove.bin" size="1048576" crc="78a1361d" sha1="2af0197415bdf1679342d8aeca5c35ea3eff8b73" />
+		<rom name="pbobblea\puzzle bobble mini (japan, europe) (v1.09).bin" size="1048576" crc="c94b173a" sha1="2cb115d011ffb82ed2b2560697b8f538e298c03f" />
+		<rom name="pbobbleb\puzzle bobble mini (japan, europe) (en,ja) (beta).bin" size="1048576" crc="e3d9f38e" sha1="deccefd50c3d2654f7190bdd629cd1f0ba3c30df" />
+		<rom name="puzzle bobble mini (japan, europe) (v1.10).bin" size="1048576" crc="e69eae3e" sha1="c217bc81012c8011ec268e6a21adf5b26566b4b5" />
+	</machine>
+	<machine name="picturep">
+		<description>Picture Puzzle (Europe, USA)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="picture puzzle (usa, europe).bin" size="1048576" crc="67e6dc56" sha1="387d37cf60562da4e95ba18440ad6e0a4cccb537" />
+	</machine>
+	<machine name="pockrev">
+		<description>Pocket Reversi (Europe)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="pocket reversi (europe).bin" size="1048576" crc="20f09880" sha1="0405bbf7ab34c818f52793aca80a73ab40788cac" />
+	</machine>
+	<machine name="pockrevj">
+		<description>Pocket Reversi (Japan)</description>
+		<year>2000</year>
+		<publisher>Success</publisher>
+		<rom name="pocket reversi (japan).bin" size="524288" crc="fb0b55b8" sha1="b13159d9944aaa19720d03d17b223d6ff12c1e29" />
+	</machine>
+	<machine name="poktlove">
+		<description>Pocket Love if (Japan)</description>
+		<year>1999</year>
+		<publisher>KID</publisher>
+		<rom name="pocket love if (japan).bin" size="2097152" crc="c2ee1ee5" sha1="2b5d9628b7b5911f90c28321227d47a527a719ea" />
+	</machine>
+	<machine name="ppaa01">
+		<description>Prize Game - PP-AA01 Pusher Program (Japan)</description>
+		<year>19??</year>
+		<publisher>Aruze</publisher>
+		<rom name="prize game - pp-aa01 pusher program (japan).bin" size="524288" crc="78acdbcb" sha1="8c5677b51f18fac55fffbb2e15baefba3af8fa1d" />
+	</machine>
+	<machine name="prtymail">
+		<description>Party Mail (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="prtymailp\partymail.bin" size="2097152" crc="f2284a95" sha1="d781a1a1e74ba822249d38dbe60e160a29ec2824" />
+		<rom name="party mail (japan).bin" size="1048576" crc="4da8a1c0" sha1="b805c908c1bef29c0792a73b6a6a05dd27cc5ff0" />
+	</machine>
+	<machine name="pslotazt">
+		<description>Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)</description>
+		<year>2000</year>
+		<publisher>Aruze</publisher>
+		<rom name="pachi-slot aruze oukoku pocket - azteca (japan).bin" size="524288" crc="c56ef8c3" sha1="3f814c84429629d763d6dc62d513013a0cc19a0c" />
+	</machine>
+	<machine name="pslotdk2">
+		<description>Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)</description>
+		<year>2001</year>
+		<publisher>Aruze</publisher>
+		<rom name="pachi-slot aruze oukoku pocket - dekahel 2 (japan).bin" size="1048576" crc="346f3c46" sha1="7f5446cfe6535db63678d6fc26f598ed3ff73b7f" />
+	</machine>
+	<machine name="pslotds2">
+		<description>Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)</description>
+		<year>2000</year>
+		<publisher>Aruze</publisher>
+		<rom name="pachi-slot aruze oukoku pocket - delsol 2 (japan).bin" size="1048576" crc="1ea69db1" sha1="df3da196c01be73b0dea64b86ab27ec7dde5b594" />
+	</machine>
+	<machine name="pslotecp">
+		<description>Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)</description>
+		<year>2001</year>
+		<publisher>Aruze</publisher>
+		<rom name="pachi-slot aruze oukoku pocket - e-cup (japan).bin" size="1048576" crc="0a7c32df" sha1="e46aa1eb7c33c2f71bb236d279ca1d7c5d841e74" />
+	</machine>
+	<machine name="pslothan">
+		<description>Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan, v5)</description>
+		<year>1999</year>
+		<publisher>Aruze</publisher>
+		<rom name="pslothana\pachi-slot aruze oukoku pocket - hanabi (japan) (v1.02).bin" size="524288" crc="cfd1c8f2" sha1="e4b48d1290cd9dcf7a05ea276226ecba10be752e" />
+		<rom name="pachi-slot aruze oukoku pocket - hanabi (japan) (v1.04).bin" size="524288" crc="a0c26f9b" sha1="9d30e0c67851bc99e4a77e89e3fbc101b358b458" />
+	</machine>
+	<machine name="pslotooh">
+		<description>Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan)</description>
+		<year>2000</year>
+		<publisher>Aruze</publisher>
+		<rom name="pachi-slot aruze oukoku pocket - oohanabi (japan).bin" size="1048576" crc="8a88c50f" sha1="a99e8aabefd36a5a297fef59e376cf24f8f619f8" />
+	</machine>
+	<machine name="pslotpc2">
+		<description>Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)</description>
+		<year>2000</year>
+		<publisher>Aruze</publisher>
+		<rom name="pachi-slot aruze oukoku pocket - porcano 2 (japan).bin" size="1048576" crc="96ddfbe3" sha1="fd51a5a649cebfe5692ee498d11c48fd84661dc4" />
+	</machine>
+	<machine name="pslotwrd">
+		<description>Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)</description>
+		<year>2000</year>
+		<publisher>Aruze</publisher>
+		<rom name="pachi-slot aruze oukoku pocket - ward of lights (japan).bin" size="524288" crc="d46cbc54" sha1="c17a535195719e0dafb5de76663c7649d209f0ff" />
+	</machine>
+	<machine name="ptennisc">
+		<description>Pocket Sport Series - Pocket Tennis Color (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="pocket tennis color - pocket sports series (world) (en,ja).bin" size="524288" crc="d8590b96" sha1="d14251209ca5da8000643cd5bf6e5196a5e56ee4" />
+	</machine>
+	<machine name="puyopop">
+		<description>Puyo Pop (World, v6) ~ Puyo Pyuo Tsuu (Japan, v6)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="puyopopa\puyo pop (world) (en,ja) (v1.05).bin" size="1048576" crc="3090b2fd" sha1="27c3250fb17f291832fa7189a35478d017a0ef5e" />
+		<rom name="puyo pop (world) (en,ja) (v1.06).bin" size="1048576" crc="5c649d1e" sha1="8971d3d64e47950cf01648d7b341d4b01a2c4eb0" />
+	</machine>
+	<machine name="puzzlink">
+		<description>Puzzle Link (Europe)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="tsunapnc\renketsu puzzle tsunagete pon color (japan).bin" size="524288" crc="c3f3e83c" sha1="e8e903bc4baf5ab61726626af7c0d1a571db4a40" />
+		<rom name="puzzle link (europe).bin" size="524288" crc="8d0610ac" sha1="2507d1bdeb67bdb6379424817707693549efb487" />
+	</machine>
+	<machine name="puzzlnk2">
+		<description>Puzzle Link 2 (Europe, USA)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="tsunapn2\tsunagete pon 2 (japan).bin" size="1048576" crc="129091bb" sha1="db030e02819d50315f15c00b93c3a46f1f89d126" />
+		<rom name="puzzle link 2 (usa, europe).bin" size="1048576" crc="ba9ca21c" sha1="57e44ee5168b69fd3b0ede0fe0dda44070e0aad1" />
+	</machine>
+	<machine name="rockmanb">
+		<description>Rockman - Battle &amp; Fighters (Japan)</description>
+		<year>2000</year>
+		<publisher>Capcom</publisher>
+		<rom name="rockman - battle &amp; fighters (japan).bin" size="2097152" crc="9c861e49" sha1="c0a6cdf9ba6c4e8f227ba52489f15f5053f0889c" />
+	</machine>
+	<machine name="rockmanbd">
+		<description>Rockman - Battle &amp; Fighters (Japan, demo)</description>
+		<year>2000</year>
+		<publisher>Capcom</publisher>
+		<rom name="rockman battle &amp; fighters (japan) (demo).bin" size="2097152" crc="16a98ac4" sha1="852f31360de057723c16564c0578070306d62c97" />
+	</machine>
+	<machine name="samsho2">
+		<description>Pocket Fighting Series - Samurai Shodown! 2 (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="samurai shodown 2 - pocket fighting series (world) (en,ja).bin" size="2097152" crc="4f7fb156" sha1="2ec4da369d3b91af15defa64429bd9daac7ee9b5" />
+	</machine>
+	<machine name="shanghai">
+		<description>Shanghai Mini (World)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="shanghaipj\shminijpp.bin" size="1048576" crc="79620c3f" sha1="cd72fc48d6981d3b521d9ef2a339664d0c229f3c" />
+		<rom name="shanghaipu\shminiusp.bin" size="1048576" crc="920af0ed" sha1="83955172d78b5dc855b651e574132cfdf8d3d675" />
+		<rom name="shanghai mini (world) (en,ja).bin" size="1048576" crc="90732d53" sha1="3e3e625852ac4997d3e3739e59c16e9a74f40f19" />
+	</machine>
+	<machine name="shougic">
+		<description>Shougi no Tatsujin Color (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="shougi no tatsujin color (japan).bin" size="524288" crc="1f2872ed" sha1="9f420d0a7cc1115f60bda1c0916247935118ce98" />
+	</machine>
+	<machine name="snkgals">
+		<description>SNK Gals' Fighters (Europe, USA)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="snkgalsj\snk gals' fighters (japan).bin" size="2097152" crc="6a9ffa47" sha1="2f806c926a19b261c42e5a60d1ddd5d132ada942" />
+		<rom name="snk gals' fighters (usa, europe).bin" size="2097152" crc="b02c2be7" sha1="09a74b42ef9b63aca675aead5854512ad0b585a1" />
+	</machine>
+	<machine name="sonic">
+		<description>Sonic the Hedgehog - Pocket Adventure (World)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="sonicp2\sonic the hedgehog - pocket adventure (world) (oct 22 1999 prototype).bin" size="2097152" crc="45fc3bca" sha1="fb34cc0f6a19fb47ffeae4e6f4113ed66d14e1bd" />
+		<rom name="sonicp\sonic the hedgehog - pocket adventure (world) (beta).bin" size="2097152" crc="622176ce" sha1="a11283703fe6007c2e96ce81dfc56081eff6f593" />
+		<rom name="sonic the hedgehog - pocket adventure (world).bin" size="2097152" crc="356f0849" sha1="3fe15d4374c4ca073aa0393fcfcad0055bd345ab" />
+	</machine>
+	<machine name="srmp">
+		<description>Super Real Mahjong - Premium Collection (Japan)</description>
+		<year>2001</year>
+		<publisher>SNK</publisher>
+		<rom name="super real mahjong - premium collection (japan).bin" size="2097152" crc="c6e620c3" sha1="c61847bca43c5387d19096a86ef109560d71ca9b" />
+	</machine>
+	<machine name="svc">
+		<description>SNK vs. Capcom - The Match of the Millennium (World) ~ Choujou Kessen Saikyou Fighters - SNK vs Capcom (Japan)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="svct\svc f1 trial.bin" size="2097152" crc="1e19e307" sha1="ebdd4188d2fdfd0098d61913d234d2e23adaaf9d" />
+		<rom name="snk vs. capcom - the match of the millennium (world) (en,ja).bin" size="4194304" crc="b173030a" sha1="7629ea5520d3daee4ef658d4f4b48f45e17217ae" />
+	</machine>
+	<machine name="svccard2">
+		<description>SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)</description>
+		<year>2001</year>
+		<publisher>SNK</publisher>
+		<rom name="snk vs. capcom - card fighters 2 - expand edition (japan).bin" size="2097152" crc="ccbcfda7" sha1="2c4fc8594f8ba2bf39e62fe8bcb79fc2df5a83b6" />
+	</machine>
+	<machine name="svccardc">
+		<description>SNK vs. Capcom - Card Fighters' Clash - Capcom Cardfighter's Version (Europe, USA)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="svccardcj\snk vs. capcom - gekitotsu card fighters - capcom supporter version (japan).bin" size="2097152" crc="9217159b" sha1="3b1d5ac5b4aaf1aa04479e46961c4d7c458d70fb" />
+		<rom name="snk vs. capcom - card fighters' clash - capcom version (usa, europe).bin" size="2097152" crc="80ce137b" sha1="2a95ab1fe62b6a9dc30a05131ad212ba2de5c3cd" />
+	</machine>
+	<machine name="svccards">
+		<description>SNK vs. Capcom - Card Fighters' Clash - SNK Cardfighter's Version (Europe, USA)</description>
+		<year>1999</year>
+		<publisher>SNK</publisher>
+		<rom name="svccardp\snk vs. capcom - gekitotsu card fighters (japan) (beta).bin" size="2097152" crc="4a41a56e" sha1="4b2f613f978cefae8e952a43440d2d395b1012d5" />
+		<rom name="svccardsj\snk vs. capcom - gekitotsu card fighters - snk supporter version (japan).bin" size="2097152" crc="7065295c" sha1="551ceb97d1e3e6384221be738b11efb5d936ffd6" />
+		<rom name="svccardsja\snk vs. capcom - gekitotsu card fighters - snk supporter version (japan) (beta).bin" size="2097152" crc="e70e3f1a" sha1="584b30b050c22082dae3abe685f406dbe4decf98" />
+		<rom name="snk vs. capcom - card fighters' clash - snk version (usa, europe).bin" size="2097152" crc="94b63a97" sha1="dfb232a527647337d6274ddf9d8b3d94281fd86d" />
+	</machine>
+	<machine name="wrestmad">
+		<description>Wrestling Madness (Europe, USA, prototype)</description>
+		<year>2000</year>
+		<publisher>SNK</publisher>
+		<rom name="bigbang\big bang pro wrestling (japan) (en,ja).bin" size="2097152" crc="b783c372" sha1="51b9f5a0b233b0c9782cf522324a3a437c06c26f" />
+		<rom name="wrestling madness (usa, europe) (beta).bin" size="2097152" crc="16b0be9b" sha1="2dd82db967e2bc8c2d8b569a364793d56176a68e" />
+	</machine>
+</datafile>

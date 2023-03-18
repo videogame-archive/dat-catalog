@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>tvgogo</name>
+		<description>Toyquest TV Go Go cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="4in1">
+		<description>4-in-1 (Flashcard Fishing, Break a Brick, Balloon Juggling, Penguin Maze) (Europe)</description>
+		<year>2005</year>
+		<publisher>Toyquest</publisher>
+		<rom name="4in1u\tvgogo4in1_m5m29gb320_001c0021.bin" size="4194304" crc="2bbcbeff" sha1="1e58c05c1efa344622962476d465c1540d964d14" />
+		<rom name="4in1.bin" size="4194304" crc="6e467279" sha1="09ba40524f0b5ee65b9aa8742df9c39baf1046d8" />
+	</machine>
+	<machine name="basebalu">
+		<description>Baseball (USA)</description>
+		<year>2005</year>
+		<publisher>Toyquest</publisher>
+		<rom name="gogobaseball_29lv320attc_00c222a7.bin" size="4194304" crc="89af1769" sha1="c913d3e874d163db0fe62de51d850d12c37a5f10" />
+	</machine>
+	<machine name="basketbal">
+		<description>Basketball (Europe)</description>
+		<year>2005</year>
+		<publisher>Toyquest</publisher>
+		<rom name="basketbalu\gogobasketball_m5m29gt320_001c0020.bin" size="4194304" crc="dfdec0c6" sha1="7b3cc68f54b43e839beac8ed0806a005919f61b1" />
+		<rom name="gogotv_basketball.bin" size="4194304" crc="4d5d54f5" sha1="b22717f7003783658f84369221bdf6c2a9e6361d" />
+	</machine>
+	<machine name="dodgebalu">
+		<description>Dodgeball (USA)</description>
+		<year>2005</year>
+		<publisher>Toyquest</publisher>
+		<rom name="tvgogododgeball_m5m29gt320_001c0020.bin" size="4194304" crc="785f4305" sha1="0c96d6330acd2771adb4dbdcb6b9ccaa73ffc513" />
+	</machine>
+	<machine name="tennis">
+		<description>Tennis (Europe)</description>
+		<year>2005</year>
+		<publisher>Toyquest</publisher>
+		<rom name="tennis.bin" size="4194304" crc="39883db2" sha1="91f9319339eb2ccb4a2e16308ea505775dc82bfc" />
+	</machine>
+	<machine name="whacmole">
+		<description>Whac-A-Mole (Europe)</description>
+		<year>2005</year>
+		<publisher>Toyquest</publisher>
+		<rom name="whacmoleu\gogotvwhacamole.bin" size="4194304" crc="703845ab" sha1="2e727bb1d8cb82db8746d28f58b103d90e5d9450" />
+		<rom name="whac-a-mole.bin" size="4194304" crc="62625c62" sha1="846045308e242aff347f93fab1e9b2e8ef46386f" />
+	</machine>
+</datafile>

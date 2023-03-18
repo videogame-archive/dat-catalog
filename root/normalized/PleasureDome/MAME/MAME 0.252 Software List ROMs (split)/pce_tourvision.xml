@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pce_tourvision</name>
+		<description>TourVisión (bootleg Arcade NEC PC-Engine) cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="1943kai">
+		<description>1943 Kai (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="1943 kai (japan).pce" size="524288" crc="fde08d6d" sha1="3ac86354155ca01859c53e2f2287a715cd3fca13" />
+	</machine>
+	<machine name="aburner2">
+		<description>After Burner (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / NEC Avenue</publisher>
+		<rom name="after burner ii (japan).pce" size="524288" crc="ca72a828" sha1="50b9d22fe5179aee5cb95022472714ef8483841f" />
+	</machine>
+	<machine name="advislnd">
+		<description>Adventure Island (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="adventure island (japan).pce" size="262144" crc="8e71d4f3" sha1="01ad5bbd7316740409e01917c19494cb26173ff5" />
+	</machine>
+	<machine name="aeroblst">
+		<description>Aero Blasters (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="aero blasters (japan).pce" size="524288" crc="25be2b81" sha1="748ec92246140565d95f6fb727de6167227b85d3" />
+	</machine>
+	<machine name="alice">
+		<description>Alice In Wonderland (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Face</publisher>
+		<rom name="fushigi no yume no alice (japan).pce" size="393216" crc="12c4e6fd" sha1="c266b05dd367b2973399b8daff7c4dc33bebedd9" />
+	</machine>
+	<machine name="ankoku">
+		<description>Ankoku Densetsu (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Victor Interactive Software</publisher>
+		<rom name="ankoku densetsu (japan).pce" size="262144" crc="cacc06fb" sha1="b6ae249f0a4954df6e53c21ba81646ecbc7c2945" />
+	</machine>
+	<machine name="armedf">
+		<description>Armed-F (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Pack-In-Video</publisher>
+		<rom name="armed formation f (japan).pce" size="262144" crc="20ef87fd" sha1="a326c9cece6f14b82629c4c79b34df819b022dce" />
+	</machine>
+	<machine name="ballistx">
+		<description>Ballistix (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Coconuts Japan</publisher>
+		<rom name="ballistix (japan).pce" size="262144" crc="8acfc8aa" sha1="e687abeb0f94e85fafa52e92b0beb82542f0c368" />
+	</machine>
+	<machine name="barunba">
+		<description>Barunba (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="barunba (japan).pce" size="524288" crc="4a3df3ca" sha1="5f110864af252462e144aa01a7a6ecb88d2a4eb1" />
+	</machine>
+	<machine name="batman">
+		<description>Batman (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Sunsoft</publisher>
+		<rom name="batman (japan).pce" size="393216" crc="106bb7b2" sha1="87e93e23c0c3ef960e9a226fc10a5fc9625d43a7" />
+	</machine>
+	<machine name="beball">
+		<description>Be Ball (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="be ball (japan).pce" size="262144" crc="261f1013" sha1="55d8815a4a432e587fc7483b63b73114fe40e710" />
+	</machine>
+	<machine name="blodia">
+		<description>Blodia (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="blodia (japan).pce" size="131072" crc="958bcd09" sha1="bcb3070f617059c9d0d781ece2aee9ae74951f6a" />
+	</machine>
+	<machine name="bombman">
+		<description>Bomberman (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="bomberman (japan).pce" size="262144" crc="9abb4d1f" sha1="738bbced47d87cd438d7972eba58c08f5c031a74" />
+	</machine>
+	<machine name="bombmn93">
+		<description>Bomberman '93 (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="bomberman '93 (japan).pce" size="524288" crc="b300c5d0" sha1="64131aeb6753bffde2910d641c73b56108874320" />
+	</machine>
+	<machine name="bravoman">
+		<description>Chouzetsu Rinjin - Bravoman (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="chouzetsu rinjin - bravoman (japan).pce" size="524288" crc="0df57c90" sha1="9abb7d96a4dba96a26f7073ea06cb8b2deb24a43" />
+	</machine>
+	<machine name="bullfght">
+		<description>Bull Fight - Ring no Haja (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Cream</publisher>
+		<rom name="bull fight - ring no haja (japan).pce" size="393216" crc="5c4d1991" sha1="6cd94e6209da2939752ab6b1c2d46e5b48c8e0cb" />
+	</machine>
+	<machine name="burnangl">
+		<description>Burning Angels (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="burning angels (japan).pce" size="393216" crc="d233c05a" sha1="d34f38058ac1d8276e145a47fc4fdc1310f49a60" />
+	</machine>
+	<machine name="cadash">
+		<description>Cadash (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="cadash (japan).pce" size="393216" crc="8dc0d85f" sha1="3755cb2b883bc106e58019e1cd82708a63394f35" />
+	</machine>
+	<machine name="chukatai">
+		<description>Chuka Taisen (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="gokuraku chuuka taisen (japan).pce" size="393216" crc="e749a22c" sha1="b58e94e3e0c778e678c5d08c708ac4e37bedbbe3" />
+	</machine>
+	<machine name="columns">
+		<description>Columns (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Nihon Telenet</publisher>
+		<rom name="columns (japan).pce" size="131072" crc="99f7a572" sha1="238f9ee6cc80b31c5c93a4f43281e690200bdea3" />
+	</machine>
+	<machine name="coryoon">
+		<description>Coryoon - Child of Dragon (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="coryoon - child of dragon (japan).pce" size="524288" crc="b4d29e3b" sha1="709595f04defcc55181f7502a0065e4c22d5fb19" />
+	</machine>
+	<machine name="cybrcore">
+		<description>Cyber Core (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / IGS</publisher>
+		<rom name="cyber core (japan).pce" size="393216" crc="a98d276a" sha1="75bbd695e55a01a423a6c2404335d75f5bb65437" />
+	</machine>
+	<machine name="daisenpu">
+		<description>Daisenpu (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / NEC Avenue</publisher>
+		<rom name="dai senpu (japan).pce" size="524288" crc="9107bcc8" sha1="81f8c8f01530bb3d22e2dd463202d0e26e7faf24" />
+	</machine>
+	<machine name="deadmoon">
+		<description>Dead Moon (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / T.S.S</publisher>
+		<rom name="dead moon (japan).pce" size="524288" crc="56739bc7" sha1="d86ba171b459c286243306407311d85d013a2833" />
+	</machine>
+	<machine name="devlcrsh">
+		<description>Devil Crash - Naxat Pinball (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="devil crash - naxat pinball (japan).pce" size="393216" crc="4ec81a80" sha1="808638c33e110285d0d9415bc046b94a84b02c6a" />
+	</machine>
+	<machine name="diehard">
+		<description>Die Hard (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Pack In Video</publisher>
+		<rom name="die hard (japan).pce" size="524288" crc="1b5b1cb1" sha1="96aeca126bb6ac0ca0df5ee260a8a1ee25f44d6d" />
+	</machine>
+	<machine name="dorams">
+		<description>Doraemon - Meikyuu Dai Sakusen (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="doraemon - meikyuu dai sakusen (japan).pce" size="262144" crc="dc760a07" sha1="81769dc4e2e669f6ae98872d22c52ac290530a28" />
+	</machine>
+	<machine name="dorandn">
+		<description>Doraemon - Nobita no Dorabian Night (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="doraemon - nobita no dorabian night (japan).pce" size="524288" crc="013a747f" sha1="feea7cb74d4e256eb75ab46fcfc40c21743d5487" />
+	</machine>
+	<machine name="download">
+		<description>Down Load (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / NEC Avenue</publisher>
+		<rom name="download (japan).pce" size="524288" crc="85101c20" sha1="847bd22cccdf929def8fc348b973faee2688e648" />
+	</machine>
+	<machine name="dragnegg">
+		<description>Dragon Egg! (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Masaya</publisher>
+		<rom name="dragon egg (japan).pce" size="524288" crc="442405d5" sha1="56c69f24b542fea72cc753ddf0e4bb23974adbdf" />
+	</machine>
+	<machine name="droprock">
+		<description>Drop Rock Hora Hora (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Data East</publisher>
+		<rom name="drop rock hora hora (japan).pce" size="262144" crc="67ec5ec4" sha1="b1b28d6dac76c3e3547f0a5a695110fd506643e0" />
+	</machine>
+	<machine name="dsaber">
+		<description>Dragon Saber - After Story of Dragon Spirit (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="dragon saber - after story of dragon spirit (japan).pce" size="524288" crc="3219849c" sha1="6d94cd3e27dbe1694229f7f006dc821be4764aa2" />
+	</machine>
+	<machine name="dspirit">
+		<description>Dragon Spirit (TourVisión PCE bootleg)</description>
+		<year>1988</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="dragon spirit (japan).pce" size="262144" crc="01a76935" sha1="09b037fde801b71d1ff343c40ff5a58372b9a514" />
+	</machine>
+	<machine name="dungexpl">
+		<description>Dungeon Explorer (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="dungeon explorer (japan).pce" size="393216" crc="1b1a80a2" sha1="77caece9655a0e14330884673ffb41ff2bb625c4" />
+	</machine>
+	<machine name="f1tb">
+		<description>F1 Triple Battle (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Human</publisher>
+		<rom name="f1 triple battle (japan).pce" size="393216" crc="13bf0409" sha1="0a219b433529b3214f42734c2a144d238cb3c99c" />
+	</machine>
+	<machine name="fightrun">
+		<description>Fighting Run (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Nihon Bussan</publisher>
+		<rom name="fighting run (japan).pce" size="524288" crc="1828d2e5" sha1="fdd2962412b401cd2d72a85ddb516071468bd9ff" />
+	</machine>
+	<machine name="finallap">
+		<description>Final Lap Twin (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="final lap twin (japan).pce" size="393216" crc="c8c084e3" sha1="ad695b7d1fb8bac7d9e13045bf229dba98d56a71" />
+	</machine>
+	<machine name="finalmt">
+		<description>Final Match Tennis (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Human</publisher>
+		<rom name="final match tennis (japan).pce" size="262144" crc="560d2305" sha1="e3a97b468d0a6c94effde70bf331dc4b3d90b166" />
+	</machine>
+	<machine name="finalsol">
+		<description>Final Soldier (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="final soldier (japan).pce" size="524288" crc="af2dd2af" sha1="ce89c6ea5d9eb36a642742ecad9c35c16b761c49" />
+	</machine>
+	<machine name="finlblst">
+		<description>Final Blaster (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="final blaster (japan).pce" size="393216" crc="c90971ba" sha1="4a013fde3938ceaacf38fcc4f56828d1292142d0" />
+	</machine>
+	<machine name="fsoccr90">
+		<description>Formation Soccer - Human Cup '90 (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Human</publisher>
+		<rom name="formation soccer - human cup '90 (japan).pce" size="262144" crc="85a1e7b6" sha1="d53db608475ca26ff81837dc43b40726bd0440a5" />
+	</machine>
+	<machine name="ganbgolf">
+		<description>Ganbare! Golf Boys (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / NCS</publisher>
+		<rom name="ganbare golf boys (japan).pce" size="262144" crc="27a4d11a" sha1="69794e5af0d2ec1a5bf6122c64fd5bc43092ae04" />
+	</machine>
+	<machine name="gomola">
+		<description>Gomola Speed (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / UPL</publisher>
+		<rom name="gomola speed (japan).pce" size="393216" crc="4bd38f17" sha1="fe4b08fb0cd9d0a53726c2709db3e31fbeae1213" />
+	</machine>
+	<machine name="gradius">
+		<description>Gradius (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Konami</publisher>
+		<rom name="gradius (japan).pce" size="262144" crc="0517da65" sha1="338f62b6d57f30b1850c32f5ae0d8c26c761974b" />
+	</machine>
+	<machine name="gunhed">
+		<description>GunHed (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="gunhed (japan).pce" size="393216" crc="a17d4d7e" sha1="0107d93ff5d10325092d45e6bfd21e8130efeed7" />
+	</machine>
+	<machine name="hanataka">
+		<description>Hana Taaka Daka!? (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="hana taaka daka (japan).pce" size="524288" crc="ba4d0dd4" sha1="664ccd11372b04739e388fb921ac507eb71986cd" />
+	</machine>
+	<machine name="haniirod">
+		<description>Hanii on the Road (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Face</publisher>
+		<rom name="hanii on the road (japan).pce" size="393216" crc="9897fa86" sha1="67e7fd05e40c08a7e353501e1940ef1ec5ae8b05" />
+	</machine>
+	<machine name="hitice">
+		<description>Hit the Ice - VHL - The Official Video Hockey League (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="hit the ice - vhl the official video hockey league (japan).pce" size="393216" crc="7acb60c8" sha1="1452d2161d1da401f05c36a0a50492a6df9dc010" />
+	</machine>
+	<machine name="imagefgt">
+		<description>Image Fight (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Irem</publisher>
+		<rom name="image fight (japan).pce" size="524288" crc="a80c565f" sha1="4f2256e49cc71613a6b35d224be706ee95df17b9" />
+	</machine>
+	<machine name="jchan">
+		<description>Jackie Chan (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="jackie chan (japan).pce" size="524288" crc="c6fa6373" sha1="44c9ce3b37ca9c5edfe840f78485048e2bd1bf41" />
+	</machine>
+	<machine name="jinmu">
+		<description>Jinmu Denshou (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Big Club</publisher>
+		<rom name="jinmu denshou (japan).pce" size="524288" crc="c150637a" sha1="e38d6d83120301a7befa7f496f1a93768060032d" />
+	</machine>
+	<machine name="katochan">
+		<description>Kato Chan &amp; Ken Chan (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="kato chan &amp; ken chan (japan).pce" size="262144" crc="6069c5e7" sha1="1381c15587891083f7cde3b1224fcc6df45bc914" />
+	</machine>
+	<machine name="kikikai">
+		<description>Kiki Kaikai (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="kiki kaikai (japan).pce" size="393216" crc="c0cb5add" sha1="8dc4fce4beca91f51f123acf8f1cc659ed58d312" />
+	</machine>
+	<machine name="knightrs">
+		<description>Knight Rider Special (TourVisión PCE bootleg)</description>
+		<year>1994</year>
+		<publisher>bootleg (TourVisión) / Pack In Video</publisher>
+		<rom name="knight rider special (japan).pce" size="262144" crc="c614116c" sha1="d2dbbd8b55b80d41e32a3907fcdafa985b60abe4" />
+	</machine>
+	<machine name="loht">
+		<description>Legend of Hero Tonma (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Irem</publisher>
+		<rom name="legend of hero tonma (japan).pce" size="524288" crc="c28b0d8a" sha1="352e91337db64bc7edd788e4ccb9c240c7040898" />
+	</machine>
+	<machine name="makyoden">
+		<description>Makyou Densetsu - The Legendary Axe (TourVisión PCE bootleg)</description>
+		<year>1988</year>
+		<publisher>bootleg (TourVisión) / Victor Interactive Software</publisher>
+		<rom name="makyou densetsu (japan).pce" size="262144" crc="d4c5af46" sha1="7e1b1f52222663e9e98973fdb3cf67879122b617" />
+	</machine>
+	<machine name="mesopot">
+		<description>Mesopotamia (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Atlus</publisher>
+		<rom name="mesopotamia (japan).pce" size="524288" crc="e87190f1" sha1="70186b4d823a48aae09ed7e2bc8e16edfcaf4335" />
+	</machine>
+	<machine name="mizubaku">
+		<description>Mizubaku Dai Bouken (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="mizubaku dai bouken (japan).pce" size="524288" crc="b2ef558d" sha1="6e99a1982b6e2b0b9fb82f1d30270620917e1b92" />
+	</machine>
+	<machine name="mrheli">
+		<description>Mr. Heli no Daibouken (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Irem</publisher>
+		<rom name="mr. heli no daibouken (japan).pce" size="524288" crc="2cb92290" sha1="df6346583d7169ffdec03925c9b15d3e4f066079" />
+	</machine>
+	<machine name="nekdodge">
+		<description>Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="nekketsu koukou dodgeball bu - pc bangai hen (japan).pce" size="262144" crc="65fdb863" sha1="582121ade819254da31fd8867c30e60195589a9a" />
+	</machine>
+	<machine name="nryukend">
+		<description>Ninja Ryukenden (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="ninja ryuuken den (japan).pce" size="524288" crc="67573bac" sha1="7f6a088424f849fc80f883d19533c031305d9616" />
+	</machine>
+	<machine name="opwolf">
+		<description>Operation Wolf (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / NEC Avenue</publisher>
+		<rom name="operation wolf (japan).pce" size="524288" crc="ff898f87" sha1="da2a28e2961fa295c4b8f55bd5a6ce6f1c58beb7" />
+	</machine>
+	<machine name="ordyne">
+		<description>Ordyne (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="ordyne (japan).pce" size="524288" crc="8c565cb6" sha1="6b1e419c77f72d3588b52343989727b5a069df3a" />
+	</machine>
+	<machine name="outruna">
+		<description>Out Run (alt) (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / NEC Avenue</publisher>
+		<rom name="out run (japan) [a].pce" size="524288" crc="92b654a7" sha1="7d669e78978ebb2a3169f4428a664c81a8888b6e" />
+	</machine>
+	<machine name="override">
+		<description>Override (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Data East</publisher>
+		<rom name="override (japan).pce" size="262144" crc="b74ec562" sha1="9da08c896e02b67257521b948c2fa5bc55724c0d" />
+	</machine>
+	<machine name="pacland">
+		<description>Pac-Land (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="pac-land (japan).pce" size="262144" crc="14fad3ba" sha1="fc0166da82ed3cf4a4e06fc6c73fd3184ba8bb3b" />
+	</machine>
+	<machine name="paranoia">
+		<description>Paranoia (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="paranoia (japan).pce" size="262144" crc="9893e0e6" sha1="b3097e7f163e4a067cf32f290e59657a8b5e271b" />
+	</machine>
+	<machine name="pcdenj">
+		<description>PC Denjin - Punkic Cyborg (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="pc denjin - punkic cyborgs (japan).pce" size="524288" crc="740491c2" sha1="7713236070c2d5252faa651b6a8b7726cadb9bf4" />
+	</machine>
+	<machine name="pcgenj2">
+		<description>PC Genjin 2 - Pithecanthropus Computerurus (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="pc genjin 2 - pithecanthropus computerurus (japan).pce" size="524288" crc="3028f7ca" sha1="ef2b10e9bd35428bff3d67b9f77dd3ff50d91f2e" />
+	</machine>
+	<machine name="pcgenja">
+		<description>PC Genjin - Pithecanthropus Computerurus (Alt) (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="pc genjin - pithecanthropus computerurus (japan) [a].pce" size="393216" crc="67b35e6e" sha1="2c36256e77e74d5528366d35f0a55c45bc37d5a5" />
+	</machine>
+	<machine name="pdrift">
+		<description>Power Drift (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Asmik</publisher>
+		<rom name="power drift (japan).pce" size="524288" crc="25e0f6e9" sha1="1ffe1111a570b0cca256a356965fd6cdf7bcf2e9" />
+	</machine>
+	<machine name="pleag4">
+		<description>Power League IV (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="power league iv (japan).pce" size="524288" crc="30cc3563" sha1="a21825a19bef0a4d7847f72b4a00acd74a53ebb8" />
+	</machine>
+	<machine name="power11">
+		<description>Power Eleven (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="power eleven (japan).pce" size="393216" crc="3e647d8b" sha1="f132948117d3135ec8d5d74eaac8d965e6676fb4" />
+	</machine>
+	<machine name="proyak91">
+		<description>Pro Yakyuu World Stadium '91 (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="pro yakyuu world stadium '91 (japan).pce" size="262144" crc="66b167a9" sha1="6b76e9cc10a812c15631450b617ea3719fdcdc16" />
+	</machine>
+	<machine name="psports">
+		<description>Power Sports (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="power sports (japan).pce" size="524288" crc="29eec024" sha1="dfb30bc069e97c72f051fc0ab237607187d4a52e" />
+	</machine>
+	<machine name="psychas">
+		<description>Psycho Chaser (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="psycho chaser (japan).pce" size="262144" crc="03883ee8" sha1="753fc6f1aa16770c87cc12967a43e951a7b1ec83" />
+	</machine>
+	<machine name="ptennis">
+		<description>Power Tennis (TourVisión PCE bootleg)</description>
+		<year>1993</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="power tennis (japan).pce" size="524288" crc="8def5aa1" sha1="eef562022a9399586dd4278d7877e408c19b47dd" />
+	</machine>
+	<machine name="puzzlboy">
+		<description>Puzzle Boy (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Nihon Telenet</publisher>
+		<rom name="puzzle boy (japan).pce" size="262144" crc="faa6e187" sha1="f3d87e780683cd1873287069f4758581bb848935" />
+	</machine>
+	<machine name="puzznic">
+		<description>Puzznic (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="puzznic (japan).pce" size="262144" crc="965c95b3" sha1="3906d644f5901e6d2e732cbd0a6dd0d38a29486b" />
+	</machine>
+	<machine name="racindam">
+		<description>Racing Damashii (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Irem</publisher>
+		<rom name="racing damashii (japan).pce" size="524288" crc="3e79734c" sha1="8e558b47599a36d78d319e0dcd2e5136564df074" />
+	</machine>
+	<machine name="raiden">
+		<description>Raiden (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="raiden (japan).pce" size="786432" crc="850829f2" sha1="cef25446294884053442a4214434d7d97319ddca" />
+	</machine>
+	<machine name="rastan2">
+		<description>Rastan Saga II (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="rastan saga ii (japan).pce" size="393216" crc="00c38e69" sha1="cf06ba4d1bd31ebd69f0415ae52848f752ec8f6b" />
+	</machine>
+	<machine name="rtypep2a">
+		<description>R-Type II (hack, no copyright string) (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / IREM Corp</publisher>
+		<rom name="tourv_r-type_ii_hacked.pce" size="262144" crc="ae65fe80" sha1="1a6c6f5bd017f23ab9d00a9385986ddf498f9a82" />
+	</machine>
+	<machine name="saigonin">
+		<description>Saigo no Nindou - Ninja Spirit (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Irem</publisher>
+		<rom name="saigo no nindou - ninja spirit (japan).pce" size="524288" crc="0590a156" sha1="14fc48758d658413f952a0b4f9465137164bdacc" />
+	</machine>
+	<machine name="salamand">
+		<description>Salamander (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Konami</publisher>
+		<rom name="salamander (japan).pce" size="262144" crc="faecce20" sha1="a24e3a4ff36ec9fffd5ea1f4c6b526f61f842584" />
+	</machine>
+	<machine name="sci">
+		<description>Special Criminal Investigation (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="special criminal investigation (japan).pce" size="524288" crc="09a0bfcc" sha1="8d18aea811d752d24cc00f20d2c6ced67df1efa9" />
+	</machine>
+	<machine name="sdragon">
+		<description>Tenseiryuu - Saint Dragon (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Irem</publisher>
+		<rom name="tenseiryuu - saint dragon (japan).pce" size="393216" crc="2e278ccb" sha1="a9637a5efeb555426a44ae1cc86ed25a9520759d" />
+	</machine>
+	<machine name="shinobi">
+		<description>Shinobi (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Asmik</publisher>
+		<rom name="shinobi (japan).pce" size="393216" crc="bc655cf3" sha1="c219f8477dc2b34b53c25a419332595835d1f5ec" />
+	</machine>
+	<machine name="sidearms">
+		<description>Side Arms - Hyper Dyne (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / NEC</publisher>
+		<rom name="sidearms - hyper dyne (japan).pce" size="262144" crc="e5e7b8b7" sha1="b732b3485bd8841d3571221170b04b7f699e9109" />
+	</machine>
+	<machine name="skweek">
+		<description>Skweek (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Victor Interactive Software</publisher>
+		<rom name="skweek (japan).pce" size="262144" crc="4d539c9f" sha1="3436b48a9c748269f6ae65e40c9115a27321d440" />
+	</machine>
+	<machine name="sokoban">
+		<description>Sokoban World (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Media Rings Corporation</publisher>
+		<rom name="soukoban world (japan).pce" size="131072" crc="fb37ddc4" sha1="89899202fe2a7607f9e5f2ab1b29280f3d7d5aef" />
+	</machine>
+	<machine name="soldblad">
+		<description>Soldier Blade (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="soldier blade (japan).pce" size="524288" crc="8420b12b" sha1="bb6259ecfee3cc28ddbf1b1c1416f281ecccbe31" />
+	</machine>
+	<machine name="sonson2">
+		<description>Son Son II (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / NEC</publisher>
+		<rom name="son son ii (japan).pce" size="262144" crc="d7921df2" sha1="51aa9b47aa5f68102989885a1b92bb6b563ffe3a" />
+	</machine>
+	<machine name="spinpair">
+		<description>Spin Pair (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Media Rings Corporation</publisher>
+		<rom name="spin pair (japan).pce" size="262144" crc="1c6ff459" sha1="a903a3e3a55b1fd9064efa668bcea53055c12682" />
+	</machine>
+	<machine name="splatth">
+		<description>Splatterhouse (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="splatterhouse (japan).pce" size="524288" crc="6b319457" sha1="b0bdbb7729d775496581dc3141c4447614aaac46" />
+	</machine>
+	<machine name="sssoldr">
+		<description>Super Star Soldier (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="super star soldier (japan).pce" size="524288" crc="5d0e3105" sha1="4220516a17bc32a3f68ed51ef2af63e496e79f7d" />
+	</machine>
+	<machine name="svolley">
+		<description>Super Volley ball (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Video System</publisher>
+		<rom name="super volleyball (japan).pce" size="262144" crc="ce2e4f9f" sha1="46dd4acebe25de38f28e56cf149b24b42f3aef31" />
+	</machine>
+	<machine name="tatsujin">
+		<description>Tatsujin (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="tatsujin (japan).pce" size="524288" crc="a6088275" sha1="dda768075fbf8c0624e2c1f217b1092513b1c942" />
+	</machine>
+	<machine name="tblade">
+		<description>Thunder Blade (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / NEC Avenue</publisher>
+		<rom name="thunder blade (japan).pce" size="524288" crc="ddc3e809" sha1="553f8026dd68e85cd17855adbf920b3971acfdc4" />
+	</machine>
+	<machine name="terracr2">
+		<description>Terra Cresta II (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Nihon Bussan</publisher>
+		<rom name="terra cresta ii - mandoraa no gyakushuu (japan).pce" size="524288" crc="1b2d0077" sha1="c58d3ea8df6cb518349d431d6b3d6fd2c14898ec" />
+	</machine>
+	<machine name="timcrus2">
+		<description>Time Cruise II (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Face</publisher>
+		<rom name="time cruise ii (japan).pce" size="524288" crc="cfec1d6a" sha1="84bf83124a77ff67aaa0ea3f34ad9edbb755454d" />
+	</machine>
+	<machine name="titan">
+		<description>Titan (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="titan (japan).pce" size="262144" crc="d20f382f" sha1="7d12a65453c8d3d539104904a9a1eb9e429f9ab4" />
+	</machine>
+	<machine name="tnzs">
+		<description>The NewZealand Story (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="new zealand story, the (japan).pce" size="393216" crc="8e4d75a8" sha1="cda9acea9cae4899af35b6c49b9ed449c240af16" />
+	</machine>
+	<machine name="toiletk">
+		<description>Toilet Kids (TourVisión PCE bootleg)</description>
+		<year>1992</year>
+		<publisher>bootleg (TourVisión) / Media Rings Corporation</publisher>
+		<rom name="toilet kids (japan).pce" size="524288" crc="53b7784b" sha1="1148ec489899928592212ceac61c83cbc67751cb" />
+	</machine>
+	<machine name="toramich">
+		<description>Tora e no Michi (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Victor Entertainment</publisher>
+		<rom name="tora e no michi (japan).pce" size="393216" crc="82ae3b16" sha1="ea66f8c1be62e853b72f93a3a1e3b597356ae62f" />
+	</machine>
+	<machine name="toyshopb">
+		<description>Toy Shop Boys (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Victor Musical Industries, Inc.</publisher>
+		<rom name="toy shop boys (japan).pce" size="262144" crc="97c5ee9a" sha1="d552223399ff54c3664a5a06fc620ffb717cea57" />
+	</machine>
+	<machine name="tricky">
+		<description>Tricky (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / IGS</publisher>
+		<rom name="tricky (japan).pce" size="262144" crc="3aea2f8f" sha1="009e0ea4203bab968cea3cd9428c633ce2c5c26e" />
+	</machine>
+	<machine name="usaprobs">
+		<description>USA Pro Basketball (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Aicom</publisher>
+		<rom name="usa pro basketball (japan).pce" size="262144" crc="1cad4b7f" sha1="62f3e0c56d22c015bea15fe04cd16fae380fefcd" />
+	</machine>
+	<machine name="veigues">
+		<description>Veigues - Tactical Gladiator (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Victor Entertainment</publisher>
+		<rom name="veigues - tactical gladiator (japan).pce" size="393216" crc="04188c5c" sha1="da66c085ecbb317cb160cb192142a3d2c044f26f" />
+	</machine>
+	<machine name="vigilant">
+		<description>Vigilante (TourVisión PCE bootleg)</description>
+		<year>1988</year>
+		<publisher>bootleg (TourVisión) / Irem</publisher>
+		<rom name="vigilante (japan).pce" size="393216" crc="e4124fe0" sha1="a43ddb6b9d70c7597788abd363b5df719b70bc46" />
+	</machine>
+	<machine name="violents">
+		<description>Violent Soldier (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / IGS</publisher>
+		<rom name="violent soldier (japan).pce" size="393216" crc="1bc36b36" sha1="76581fe7acb707b1e5bab2ac27cd27e3ed06078a" />
+	</machine>
+	<machine name="volfied">
+		<description>Volfied (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Taito</publisher>
+		<rom name="volfied (japan).pce" size="393216" crc="ad226f30" sha1="0ecee557815b93fc37f2f5675c2c01c77ef8569e" />
+	</machine>
+	<machine name="wataru">
+		<description>Mashin Eiyuuden Wataru (TourVisión PCE bootleg)</description>
+		<year>1988</year>
+		<publisher>bootleg (TourVisión) / Hudson</publisher>
+		<rom name="majin eiyuu den wataru (japan).pce" size="262144" crc="2f8935aa" sha1="59db3e9d69cf34f76b6cb599d6c4fe6999162532" />
+	</machine>
+	<machine name="winshot">
+		<description>Winning Shot (TourVisión PCE bootleg)</description>
+		<year>1989</year>
+		<publisher>bootleg (TourVisión) / Data East</publisher>
+		<rom name="winning shot (japan).pce" size="262144" crc="9b5ebc58" sha1="039ff38e6221b4b7722144e85dc7c84873d7efe6" />
+	</machine>
+	<machine name="wjockey">
+		<description>World Jockey (TourVisión PCE bootleg)</description>
+		<year>1991</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="world jockey (japan).pce" size="262144" crc="a9ab2954" sha1="9fdeb0c34ea8b8d2a09aeb476435ef9d92e75573" />
+	</machine>
+	<machine name="wring">
+		<description>W-Ring - The Double Rings (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Naxat</publisher>
+		<rom name="w-ring - the double rings (japan).pce" size="393216" crc="be990010" sha1="95d0a95ce9f08da3f096cfdc654ba5dfeb794add" />
+	</machine>
+	<machine name="xevious">
+		<description>Xevious - Fardraut Densetsu (TourVisión PCE bootleg)</description>
+		<year>1990</year>
+		<publisher>bootleg (TourVisión) / Namcot</publisher>
+		<rom name="xevious - fardraut densetsu (japan).pce" size="262144" crc="f8f85eec" sha1="13da0500ace1957d0748b11dfaae68e40e71230e" />
+	</machine>
+</datafile>

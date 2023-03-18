@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>leapfrog_leappad_cart</name>
+		<description>LeapFrog LeapPad cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="4gmath">
+		<description>FUN-damentals Series - 4th Grade Math (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-01346 - 4th Grade Math.bin" size="4194304" crc="939efe79" sha1="66baa68aa13590ca4bd18d0dc8f329398bb12414" />
+	</machine>
+	<machine name="5gmath">
+		<description>5th Grade Math (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00896-B - 5th Grade Math.bin" size="4194304" crc="d9b18842" sha1="174461dd57b8446a03c324d3b84d660b18a8c231" />
+	</machine>
+	<machine name="abcabent">
+		<description>ABC-Abenteuer (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10717 UBL - ABC-Abenteuer (GER).bin" size="4194304" crc="6c5c0180" sha1="3cfacb759d3cac16e52aad4629f0759bb8817f1a" />
+	</machine>
+	<machine name="angelg">
+		<description>Das Angel-Abenteuer (Germany)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11537-B - Das Angel-Abenteuer (GER).bin" size="2097152" crc="c90b3a2d" sha1="48e08bbef6b1f4d4671b808ef5a35b954449d0d2" />
+	</machine>
+	<machine name="bobbldrg">
+		<description>Bob der Baumeister - Bob und Heppo: Alles im Griff! (Germany)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12560 - Bob der Baumeister - Bob und Heppo - Alles im Griff (GER).bin" size="2097152" crc="4821cae5" sha1="80e9743ae8870e8ef03eb8c7c882fe42fdd545b2" />
+	</machine>
+	<machine name="compwords">
+		<description>Phonics Program - Lesson 10 - Compound Words - A Fisherman's Tale (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00527 - Phonics Program - Lesson 10 - Compound Words - A Fisherman's Tale.bin" size="2097152" crc="626a2a85" sha1="97af4f353fd533002269297aaafb7fcd7fab01d4" />
+	</machine>
+	<machine name="dinobdark">
+		<description>- Great Reader Series - Dinosaurs Before Dark (UK)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00696 - Great Reader Series - Dinosaurs Before Dark.bin" size="4194304" crc="c4acf022" sha1="96e2b42f7c092b98fdad6aa36320dadc6c6a6ff8" />
+	</machine>
+	<machine name="dinosaur">
+		<description>Leap and the lost Dinosaur (UK)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="dinosaurg\500-10635 - Leap und die Welt der Dinosaurier (GER).bin" size="4194304" crc="5e306c92" sha1="7496f5b994a40ea07228b5ab27ec907fbcf603b4" />
+		<rom name="500-10136 - Leap and the lost Dinosaur.bin" size="4194304" crc="eb3b01c7" sha1="bdc3791199e8b04942459c09047202b048ef27dc" />
+	</machine>
+	<machine name="fiestahses">
+		<description>Fiesta in the House! - ¡Party en la Casa! (Spain)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10875 UBL - Fiesta in the House - Party en la Casa.bin" size="4194304" crc="0b058df5" sha1="06931683c181c04b967da63e9fab160f6596c5e3" />
+	</machine>
+	<machine name="findnemo">
+		<description>Reading - Disney/Pixar Finding Nemo (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-01148 - Reading - Finding Nemo.bin" size="2097152" crc="b299286b" sha1="3e8c63486f5646f65b5f86efeee4a6ee9d979f32" />
+	</machine>
+	<machine name="findnemoa">
+		<description>Leap 1 - Reading - Disney/Pixar Finding Nemo (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-01383 - Leap 1 - Reading - Finding Nemo.bin" size="2097152" crc="89680f35" sha1="4fa4930bd7a91910607699123a7a2a2e1ff921a5" />
+	</machine>
+	<machine name="goosesng">
+		<description>Music - Mother Goose Songbook (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00250 - Music - Mother Goose Songbook.bin" size="2097152" crc="dcd2170b" sha1="f3d89f764d1b61a0085974ed3ca91dc3d20d36a4" />
+	</machine>
+	<machine name="hititmstro">
+		<description>Music - Hit it, Maestro! (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00090 RVB - Music - Hit it, Maestro.bin" size="4194304" crc="a2770684" sha1="4f389c6dbcd3ff2a647a6d18df86c472444074e4" />
+	</machine>
+	<machine name="hoppop">
+		<description>Hop on Pop - Based on the Book by Dr. Seuss (UK)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10438 - Hop on Pop.bin" size="4194304" crc="49308dc4" sha1="50864fdd604f6b88a0545df45663cae60e30c0e4" />
+	</machine>
+	<machine name="ileanrnens">
+		<description>¡Yo aprendo inglés! - Mis Primeras 500 Palabras en Inglés (Spain)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12153 - Yo aprendo ingles - Mis Primeras 500 Palabras en Ingles (SP).bin" size="4194304" crc="67602011" sha1="492304abf2670f4388d7e38b8d7a95c98e77f15d" />
+	</machine>
+	<machine name="lamadeusg">
+		<description>Little Amadeus (Germany)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11973 - Little Amadeus (GER).bin" size="4194304" crc="bbb84550" sha1="2513a369cc08c6b9ffd118f095018a152994b14d" />
+	</machine>
+	<machine name="leapspond">
+		<description>Leap's Pond - Activity &amp; Game Book (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-01512 - Leap's Pond.bin" size="2097152" crc="124271ad" sha1="32a4ebc71d4e0965b36e379d72ee2534fda47f79" />
+	</machine>
+	<machine name="letsgo1g">
+		<description>Englisch Kurs - Let's go 1 (Germany)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11546 - Englisch Kurs - Let's go 1 (GER).bin" size="4194304" crc="70eed726" sha1="fd425df0e9108dbc8e384ec566ed2b284aa7a7fe" />
+	</machine>
+	<machine name="letsgo2g">
+		<description>Englisch Kurs - Let's go 2 (Germany)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11547 - Englisch Kurs - Let's go 2 (GER).bin" size="4194304" crc="5a31e9e6" sha1="4c4020c2cf31f09dc910c7686250ea96a7bb12bf" />
+	</machine>
+	<machine name="letsgo3g">
+		<description>Englisch Kurs - Let's go 3 (Germany)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11976 - Englisch Kurs - Let's Go 3 (GER).bin" size="4194304" crc="33c6ad28" sha1="023eb4a01a65df809f173f1d442d03c49ac5cd7a" />
+	</machine>
+	<machine name="letsgo4g">
+		<description>Englisch Kurs - Let's go 4 (Germany)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11974 - Englisch Kurs - Let's Go 4 (GER).bin" size="4194304" crc="c4fd3c1f" sha1="7f7fc2a5c4d7596d840add14e89d45d64b0b4f2a" />
+	</machine>
+	<machine name="lionking">
+		<description>Leap Start - Pre Reading Storybook - Disney's The Lion King (UK)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="lionkings\500-10597 UBL - El Rey Leon (SP).bin" size="2097152" crc="83f0e011" sha1="f543849090eedb8bec9d227e3634c9f5ee7f585c" />
+		<rom name="500-01354 - Leap Start - Pre Reading Storybook - The Lion King.bin" size="2097152" crc="66126bc1" sha1="36f51db4669f29ee1cb8e12b1c13d9e1738e458f" />
+	</machine>
+	<machine name="lpbook">
+		<description>LeapPad Interactive Book (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="lpbooks\500-10478 UBL - LeapPad - Libro Interactivo (SP).bin" size="4194304" crc="6a85ec74" sha1="024927d8eae8c4327079dd7d752f483445b51f3e" />
+		<rom name="500-10649 UBL - LeapPad Interactive Book.bin" size="4194304" crc="58d14b4e" sha1="6a2234b62c3a63b08329e848bc40a9e5cb42b051" />
+	</machine>
+	<machine name="mathgdbr">
+		<description>Leap 2 - Math - The Great Dune Buggy Race (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00254 - Leap 2 - Math - The Great Dune Buggy Race.bin" size="2097152" crc="ad5c8d3b" sha1="78b1e206bfe17ec19042b2304d67bd2289b53c1e" />
+	</machine>
+	<machine name="monsters">
+		<description>Leap 2 - Reading - Disney/Pixar Monsters, Inc. (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00366 - Leap 2 - Reading - Monsters,Inc..bin" size="2097152" crc="2ee10183" sha1="4b69c029fef9037e68dbefc14aaba6a1c2152fea" />
+	</machine>
+	<machine name="mosslake">
+		<description>Phonics Programme - Lesson 3 - Short Vowels o and e - A Day at Moss Lake (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-01389 - Phonics Programme - Lesson 3 - Short Vowels o and e - A Day at Moss Lake.bin" size="2097152" crc="22c3c65d" sha1="b3c6f7de54552dd9b164b2f3a97f8565f8cc7879" />
+	</machine>
+	<machine name="poohstuck">
+		<description>Disney's Pooh Gets Stuck (UK)</description>
+		<year>200?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500 - Pooh Gets Stuck.bin" size="2097152" crc="3cfcfdfe" sha1="ec91a563baa1939e99ff5ad6061fc1876be40f0d" />
+	</machine>
+	<machine name="princess">
+		<description>Disney Princess - Princess Stories (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="princessg\500-12559-B - Prinzessinnen-Geschichten (GER).bin" size="2097152" crc="e889e9bd" sha1="d6f6f1629f24db1a120d0c408028e4996c7468cb" />
+		<rom name="princesss\500-10848 UBL - Cuentos de las Princesas (SP).bin" size="2097152" crc="fc6ed25b" sha1="6bd357dca86a37fe1646d010d8bcf150e8d0a95e" />
+		<rom name="500-10900 UBL - Disney Princess - Princess Stories.bin" size="2097152" crc="dfc09ce8" sha1="85645ade8b7a472b113e1ad2fecfd9cd2210665f" />
+	</machine>
+	<machine name="prlpfrnds">
+		<description>Pre Reading - Leap's Friends From A to Z (UK)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00804 - Pre Reading - Leap's Friends From A to Z.bin" size="1048576" crc="cea3f327" sha1="c49779322dd046ef67bef93d144d2d07251eeadf" />
+	</machine>
+	<machine name="rsblwbe">
+		<description>Vocabulary - Richard Scarry's Best Little Word Book Ever! (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00260 - Vocabulary - Richard Scarry's Best Little Word Book Ever.bin" size="1048576" crc="8797ae77" sha1="fa24e718287a0e15f4ae3b371e9ee73c590abaf5" />
+	</machine>
+	<machine name="rsblwbea">
+		<description>Richard Scarry's Best Little Word Book Ever! (UK)</description>
+		<year>200?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500 - Richard Scarry's Best Little Word Book Ever.bin" size="2097152" crc="d4dd4c2f" sha1="a5027d38a80135d0dc332e075e757c951b6c04bf" />
+	</machine>
+	<machine name="schoolhse3">
+		<description>LeapFrog Schoolhouse - Level 3 - Helping Others (UK)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11694 - LeapFrog Schoolhouse - Level 3 - Helping Others.bin" size="4194304" crc="adae33be" sha1="ead14b0a6cb638d609f35932d3eaaac54ec93582" />
+	</machine>
+	<machine name="scoobydonut">
+		<description>Leap 1 - Reading - Cartoon Network Scooby-Doo! and the Disappearing Donuts (UK)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00538 - Leap 1 - Reading - Scooby-Doo and the Disappearing Donuts.bin" size="2097152" crc="cd887b33" sha1="c51c83f0abe6ede9aa03abcc38fc3a3feb1f249c" />
+	</machine>
+	<machine name="sedsaber1e">
+		<description>Sed de Saber - Libro 1 - Spanish as a second Language Edition (UK)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13021-B UBL - Sed de Saber - Libro 1 - Spanish as a second Language Edition.bin" size="4194304" crc="c3c457fa" sha1="d418e8a3f55af9790d25a0915d758aeef5f05e6b" />
+	</machine>
+	<machine name="sedsaber1s">
+		<description>Sed de Saber - English as a Second Language Edition - Book 1 - Getting Started (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13034 UBL - Sed de Saber - English as a Second Language Edition - Book 1 - Getting Started.bin" size="4194304" crc="6b9a4399" sha1="8559facabf94c6ffaf8a6e1868f0ab00fb28ce09" />
+	</machine>
+	<machine name="sedsaber2e">
+		<description>Sed de Saber - Libro 2 - Spanish as a second Language Edition (UK)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13023 UBL - Sed de Saber - Libro 2 - Spanish as a second Language Edition.bin" size="4194304" crc="addd050b" sha1="c0788a4616afa73cdc46019aba542769e00ff50b" />
+	</machine>
+	<machine name="sedsaber2s">
+		<description>Sed de Saber - English as a Second Language Edition - Book 2 - A New Job (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13035 UBL - Sed de Saber - English as a Second Language Edition - Book 2 - A New Job.bin" size="4194304" crc="95b1520c" sha1="25701bd15371cd463a801bd6ede7a9591c352680" />
+	</machine>
+	<machine name="sedsaber3e">
+		<description>Sed de Saber - Libro 3 - Spanish as a second Language Edition (UK)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13025 UBL - Sed de Saber - Libro 3 - Spanish as a second Language Edition.bin" size="4194304" crc="6ccfc5d5" sha1="139b424abd1330d782cb17a67d9a6f14a5a202d7" />
+	</machine>
+	<machine name="sedsaber3s">
+		<description>Sed de Saber - English as a Second Language Edition - Book 3 - Daily Activities (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13038 UBL - Sed de Saber - English as a Second Language Edition - Book 3 - Daily Activities.bin" size="4194304" crc="39f5b54b" sha1="eeb8849733bf856fe4f28503153d989a6a00cb11" />
+	</machine>
+	<machine name="sedsaber4e">
+		<description>Sed de Saber - Libro 4 - Spanish as a second Language Edition (UK)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13027 UBL - Sed de Saber - Libro 4 - Spanish as a second Language Edition.bin" size="4194304" crc="6e6331db" sha1="dc586acf2455e90268077d3ed89df23e4f2c4f29" />
+	</machine>
+	<machine name="sedsaber4s">
+		<description>Sed de Saber - English as a Second Language Edition - Book 4 - Health and Safety (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13040 UBL - Sed de Saber - English as a Second Language Edition - Book 4 - Health and Safety.bin" size="4194304" crc="efd55310" sha1="bbde3bc75337f8cfac60dd5dfaab2de756cfd6de" />
+	</machine>
+	<machine name="sedsaber5e">
+		<description>Sed de Saber - Libro 5 - Spanish as a second Language Edition (UK)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13029 UBL - Sed de Saber - Libro 5 - Spanish as a second Language Edition.bin" size="4194304" crc="8faa6a33" sha1="f2a57a04b8112d09d0cfe61f1597518411991302" />
+	</machine>
+	<machine name="sedsaber5s">
+		<description>Sed de Saber - English as a Second Language Edition - Book 5 - Community Interactions (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13041 UBL - Sed de Saber - English as a Second Language Edition - Book 5 - Community Interactions.bin" size="4194304" crc="a3bb676b" sha1="ddab54976fd54b9ef140ee6b67414597a3a21ec9" />
+	</machine>
+	<machine name="sedsaber6e">
+		<description>Sed de Saber - Libro 6 - Spanish as a second Language Edition (UK)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13031 UBL - Sed de Saber - Libro 6 - Spanish as a second Language Edition.bin" size="4194304" crc="a0a61f52" sha1="957c535a08d8f8ee42455aac699cd57d2d0223bd" />
+	</machine>
+	<machine name="sedsaber6s">
+		<description>Sed de Saber - English as a Second Language Edition - Book 6 - How do you say... (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13044 UBL - Sed de Saber - English as a Second Language Edition - Book 6 - How do you say... .bin" size="4194304" crc="5ed699f6" sha1="902c70e0437525de94a8febab794e46b8a55f5c1" />
+	</machine>
+	<machine name="shrekg">
+		<description>Shrek (Germany)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11539 - Shrek (GER).bin" size="4194304" crc="5ec0e776" sha1="fb5461049bee23bac2839f9c3ed951abba07f02d" />
+	</machine>
+	<machine name="smartguid3">
+		<description>FUN-damentals Series - Smart Guide to 3rd Grade (UK)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00533 - FUN-damentals Series - Smart Guide to 3rd Grade.bin" size="4194304" crc="344bbc10" sha1="c04d3f68e9e2e56d1b0ae4785732c60ffc17215a" />
+	</machine>
+	<machine name="smartguid5">
+		<description>FUN-damentals Series - Smart Guide to 5th Grade (UK)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00535 - FUN-damentals Series - Smart Guide to 5th Grade.bin" size="4194304" crc="e2c74ace" sha1="f1291e9c845bc5dfc8b1e2a1ab650a69b9f22287" />
+	</machine>
+	<machine name="spiderman">
+		<description>The Amazing Spider-Man (UK)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10638 UBL - The Amazing Spider-Man.bin" size="4194304" crc="f319ec1c" sha1="0f664f63c15ca85fc3a82b8eb4fff017d0145f8c" />
+	</machine>
+	<machine name="spongebobg">
+		<description>Spongebob Schwammkopf - Meeres-Geschichten (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11540 - Spongebob Schwammkopf - Meeres-Geschichten (GER).bin" size="4194304" crc="cf81398e" sha1="52c8cd56c49d53a20129b3870527f180e22683b4" />
+	</machine>
+	<machine name="tadsgngt">
+		<description>Tad's Good Night (UK)</description>
+		<year>1999</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10756 UBL - Tad's Good Night.bin" size="2097152" crc="dc872e63" sha1="ebd259e53849151434091a99455ca74db46528b1" />
+	</machine>
+	<machine name="tadshop">
+		<description>Pre Math - Tad goes shopping (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00104 - Pre Math - Tad goes shopping.bin" size="2097152" crc="3535938c" sha1="77f32751db017c7980eacec48119c877314638d7" />
+	</machine>
+	<machine name="thomasrue">
+		<description>Pre Reading - Thomas the Really Useful Engine (UK)</description>
+		<year>2002</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00531 - Pre Reading - Thomas the Really Useful Engine.bin" size="2097152" crc="8122325d" sha1="f76b2e6c4d56fd8616c90bf86d720f267724723e" />
+	</machine>
+	<machine name="tiggerbnc">
+		<description>Reading - Disney's Bounce, Tigger, Bounce (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="tiggerbnca\500 - Bounce, Tigger, Bounce.bin" size="2097152" crc="f7d8c924" sha1="2fc203e0c67f8800474f73b6fd910877ccd3601e" />
+		<rom name="tiggerbncg\500-11538-B - Huepf, Tigger, huepf (GER).bin" size="2097152" crc="250db2f8" sha1="192721a38befb7be26f9c3c604cd2e5b87828b46" />
+		<rom name="500-00258 - Reading - Bounce, Tigger, Bounce.bin" size="2097152" crc="73b7d409" sha1="0ef5d716be974329d5b4dff936599825d2e76570" />
+	</machine>
+	<machine name="toystory2">
+		<description>Disney/Pixar Toy Story 2 (UK)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10497 UBL - Toy Story 2.bin" size="4194304" crc="a5e841e2" sha1="7dbb0f053cbf8e9459a964bec43a5013d84ae87b" />
+	</machine>
+	<machine name="tuttitrip">
+		<description>Leap-Start - Pre Reading - Tutter's Tiny Trip (UK)</description>
+		<year>2001</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-00406 - Leap-Start - Pre Reading - Tutter's Tiny Trip.bin" size="2097152" crc="ff64b908" sha1="c6e2c08698259eca87a91d900c24bd25e34e1567" />
+	</machine>
+	<machine name="wasistdas">
+		<description>Was ist das? von Richard Scarry (Germany)</description>
+		<year>1991</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="0 - 0001.png" size="47060702" crc="b6a82c67" sha1="ee6dd6a64b8c876298d4d987ec0944b94601a36d" />
+		<rom name="0 - 0002.png" size="25273650" crc="951c77cf" sha1="901996b902f3954442d76924c3f33930e98cc21c" />
+		<rom name="0 - 0003.png" size="21119566" crc="85eacf2a" sha1="1bc18385434c23e247024ad950b4cadb87339dba" />
+		<rom name="0 - 0004.png" size="23684992" crc="2503c7b7" sha1="4320c484aaac5f49806bc1e0b2bd9108f32983c5" />
+		<rom name="0 - 0005.png" size="16347289" crc="689fea33" sha1="a2ace0a653fb132dc881e3576e51d39815ae6692" />
+		<rom name="0 - 0006.png" size="20184694" crc="55c2631a" sha1="6112afe98bfffb07281eab4c414926ff5144d903" />
+		<rom name="0 - 0007.png" size="17069814" crc="d3da8753" sha1="9311060be82ff98510730e2c923553c9fbb8a402" />
+		<rom name="0 - 0008.png" size="20251214" crc="20d001ea" sha1="d0d842e629157ee9c04c3c5796dac2fb636aaaee" />
+		<rom name="0 - 0009.png" size="14417135" crc="0c5a396e" sha1="d33624061891bf2b672f1d9f694c2b80ce01c7f4" />
+		<rom name="0 - 0010.png" size="17065831" crc="6eec4dc4" sha1="e876d9d23966e6e6c158ccffd32e4af3702d8bd1" />
+		<rom name="0 - 0011.png" size="11769417" crc="01e751b3" sha1="65ed32fffb2c3ab672196276321bd77a1fdfce10" />
+		<rom name="0 - 0012.png" size="19156970" crc="4e8e9639" sha1="2c69d7604b2aec35792973b858f816d216630b78" />
+		<rom name="0 - 0013.png" size="13617241" crc="17c4c1b7" sha1="b352a0fdfe39e30b513f2fefbd17b387571fb896" />
+		<rom name="0 - 0014.png" size="19519693" crc="58d0c36d" sha1="c65c06cf0a43f048d5a655bfd83ef86ccc03e644" />
+		<rom name="0 - 0015.png" size="13695576" crc="1ea8d254" sha1="fc782a5c28c2d2f11e3ad803c540d0b70f80e7ee" />
+		<rom name="0 - 0016.png" size="39894997" crc="46baaee6" sha1="4a18348852b6b6c23079ef200841b31ff894c6f1" />
+		<rom name="0 - 0017.png" size="40640147" crc="fc126222" sha1="1b59abd6e5a149e9bc610faf8bb71d17505429f9" />
+		<rom name="0 - 0018.png" size="39072330" crc="aab0e703" sha1="0c289ed02b67e2c363ca6739610cce5020514d13" />
+		<rom name="0 - 0019.png" size="24086990" crc="5de8bd88" sha1="13fa33a7ee5a77376f13ab5bbe4aaeb402c1c1ed" />
+		<rom name="0 - 0020.png" size="39366368" crc="65733694" sha1="033aac7aa5eb363c0da79fa0c4cc6b5b709b48fc" />
+		<rom name="0 - 0021.png" size="40358358" crc="811c493f" sha1="73d4a9c0b1b1edd0948982ef10e9e1941df5b119" />
+		<rom name="0 - 0022.png" size="18932594" crc="c56192cc" sha1="53145f204d60ecb79cdb93adfec34d500bb87047" />
+		<rom name="0 - 0023.png" size="11137648" crc="6692a2ed" sha1="73db4445496762789924e1d11b5f72feccccf344" />
+		<rom name="0 - 0024.png" size="20025564" crc="7c353906" sha1="07b77c67cb00fe46c4a0faad9bed8cc0b92fad42" />
+		<rom name="0 - 0025.png" size="14524148" crc="35cc0d4f" sha1="df7de27fdeb6ba16ad4fce84a488ce9fb3f04625" />
+		<rom name="0 - 0026.png" size="17479017" crc="c96927ed" sha1="24e7009718d17edf0998513f0f5d9557a543501c" />
+		<rom name="0 - 0027.png" size="19269004" crc="558a4f8a" sha1="3e437166e81016951c1effbe266b2d740dcc48e4" />
+		<rom name="0 - 0028.png" size="43628166" crc="d0b6e2da" sha1="d39d77c7965dbe271ad7e15d124fbccf4e04da0b" />
+		<rom name="was ist das von richard scarry.u1" size="2097152" crc="744cd1f4" sha1="797b9856ef6f96c92978303c6604c2f1ae2e9278" />
+	</machine>
+	<machine name="wwyoubbe">
+		<description>What will you be? (UK)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10760 - What will you be.bin" size="2097152" crc="b6b36f74" sha1="5d017a501b7feabd8c4d90b8672af19c3d321f41" />
+	</machine>
+</datafile>

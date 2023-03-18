@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>saitek_egr</name>
+		<description>Saitek Endgame ROM</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="egr">
+		<description>Endgame ROM (ver. 1)</description>
+		<year>1988</year>
+		<publisher>Saitek</publisher>
+		<rom name="egr2\egr2.bin" size="32768" crc="9f751516" sha1="c46053b0af55856f2a6871d4aa65b3bd0e7d865f" />
+		<rom name="egr.bin" size="32768" crc="1f9800c8" sha1="6147ad3de65b897fa5f6ab06b2f8597403d6e32e" />
+	</machine>
+</datafile>

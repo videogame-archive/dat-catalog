@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jakks_gamekey_nk</name>
+		<description>JAKKS Pacific 'NK' Game Keys</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dora">
+		<description>Soccer Shootout &amp; Juego De Futbol De Dora &amp; Dora's Star Mountain Adventure</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Handheld Games</publisher>
+		<rom name="nk_dora.bin" size="2097152" crc="2bcdf9a5" sha1="ac86d967b269cb8c4ecc9c8b99fb5c16424da7be" />
+	</machine>
+	<machine name="popsnow">
+		<description>Spongebob Sponge Pop &amp; Snowball Showdown (15 AUGUST 2005 D)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / HotGen Ltd</publisher>
+		<rom name="spongebobgkpopsnowball.bin" size="2097152" crc="8194baeb" sha1="cac7c6989696dc52088013d198314993d72f3c74" />
+	</machine>
+	<machine name="volbird">
+		<description>Nicktoons Vollyball &amp; Birdie Putt</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Handheld Games</publisher>
+		<rom name="nicktoonsgkvolleyballbirdie.bin" size="2097152" crc="7eccb308" sha1="bf7f7ff752ea2652ad099d26e53dade4e4f9e9a1" />
+	</machine>
+</datafile>

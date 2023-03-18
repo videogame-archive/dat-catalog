@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_bh</name>
+		<description>Takara e-kara (Japan) BH-xx series cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bh02">
+		<description>BH-02 Best Hit Collection (Japan)</description>
+		<year>2005</year>
+		<publisher>Takara</publisher>
+		<rom name="bh02.bin" size="1048576" crc="05ada4d7" sha1="abee397597f04f89b80bca69fa2daa4e2af7056b" />
+	</machine>
+	<machine name="bh03">
+		<description>BH-03 Best Hit Collection (Japan)</description>
+		<year>2005</year>
+		<publisher>Takara</publisher>
+		<rom name="bh03.bin" size="1048576" crc="d17cafd4" sha1="b74fd0f77a726547d4001d4177a5ccd2ea35536a" />
+	</machine>
+	<machine name="bh05">
+		<description>BH-05 Best Hit Collection (Japan)</description>
+		<year>2005</year>
+		<publisher>Takara</publisher>
+		<rom name="bh05.bin" size="1048576" crc="9713f0c1" sha1="1ccd666771dcaed304e69c7dee06ae11df4ab091" />
+	</machine>
+	<machine name="bh06">
+		<description>BH-06 Best Hit Collection (Japan)</description>
+		<year>2005</year>
+		<publisher>Takara</publisher>
+		<rom name="bh06.bin" size="1048576" crc="6e264ecb" sha1="6c3e4253565242c0c6dcdab7698f5b1e28544b2e" />
+	</machine>
+</datafile>

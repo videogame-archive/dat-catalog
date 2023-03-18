@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vz_cass</name>
+		<description>Dick Smith Electronics VZ-200/300 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="chess">
+		<description>Chess</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="chess.wav" size="2854400" crc="7cc80cf3" sha1="770b09e8755fad97e12f320cd5fea3416669cd36" />
+	</machine>
+	<machine name="circus">
+		<description>Circus</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="circus.wav" size="1317376" crc="ab3ba833" sha1="1b33e2f3f2389f61f2e815be626b5d84083be77e" />
+	</machine>
+	<machine name="dawn">
+		<description>Dawn Patrol</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="dawn.wav" size="3640544" crc="22d096f5" sha1="ac480a16b6d6b8d6f08875e9c6ca13cadc413fa1" />
+	</machine>
+	<machine name="defpen">
+		<description>Defence Penetrator</description>
+		<year>1982</year>
+		<publisher>Cosmic Software</publisher>
+		<rom name="defpen.wav" size="1926592" crc="b3dfa117" sha1="b7b53d11483fd78dfc81484e0830e6f6913c6e47" />
+	</machine>
+	<machine name="galaxon">
+		<description>Galaxon</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="galaxon.wav" size="1628976" crc="8909df05" sha1="4ee1ce9aa8538b8aad9d0839fdb1396335074945" />
+	</machine>
+	<machine name="ghost">
+		<description>Ghost Hunter</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="ghost.wav" size="1732336" crc="b5ed2320" sha1="f58e328e0b20d453a1c0486fd8e10c5f3e7ecfa7" />
+	</machine>
+	<machine name="hamsam">
+		<description>Hamburger Sam</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="hamsam.wav" size="5109472" crc="7aed86a7" sha1="b5061edb1401cea4aee97d8cd92c582c9c14e66b" />
+	</machine>
+	<machine name="hoppy">
+		<description>Hoppy</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="hoppy.wav" size="3172080" crc="60e7e15a" sha1="1d56a04af700a94d44d6bb0ddfaf89213db39ce8" />
+	</machine>
+	<machine name="invaders">
+		<description>Invaders</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="invaders.wav" size="1723824" crc="f959681e" sha1="e12bc9384e7fe1efc0ecff6356c3e3ded7ee8373" />
+	</machine>
+	<machine name="ladder">
+		<description>Ladder Challenge</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="ladder.wav" size="1622288" crc="47ab9ccf" sha1="e6d72b7bc26b124c906b9c0e0015137ae8844a4d" />
+	</machine>
+	<machine name="missile">
+		<description>Missile Attack</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="missile.wav" size="5109776" crc="55a1fda4" sha1="1de495534447cee16d3db22b043d53b6d15f05fe" />
+	</machine>
+	<machine name="panik">
+		<description>Panik</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="panik.wav" size="1708928" crc="8b8c4c5a" sha1="e9e2ae5c406f9ac79b186cb34b2849b9e2a477e3" />
+	</machine>
+	<machine name="ppatrol">
+		<description>Planet Patrol</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="ppatrol.wav" size="2107776" crc="3eb828ed" sha1="b56777b732587856f554d978d844a3815ec50f69" />
+	</machine>
+	<machine name="starblas">
+		<description>Star Blaster</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="starblas.wav" size="3327120" crc="e6a5b55f" sha1="07715fd8104891d0d4d3b06b5609674ca93af920" />
+	</machine>
+	<machine name="tennis">
+		<description>Tennis</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="tennis.wav" size="2100784" crc="3eb5ed00" sha1="6c2f2d4c9d60b6f2bd977eddd397d6dbdbfc52f1" />
+	</machine>
+</datafile>

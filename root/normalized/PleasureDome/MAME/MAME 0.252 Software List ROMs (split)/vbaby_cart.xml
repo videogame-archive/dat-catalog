@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vbaby_cart</name>
+		<description>VTech V.Baby cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="eljardin">
+		<description>El Jardín de los Sueños... (Spain)</description>
+		<year>2007</year>
+		<publisher>VTech</publisher>
+		<rom name="vbaby_eljardin_as_hy27us08121a.bin" size="69206016" crc="b7c946c5" sha1="16d80c914bcc279d131336b8194adb61558b05fa" />
+	</machine>
+</datafile>

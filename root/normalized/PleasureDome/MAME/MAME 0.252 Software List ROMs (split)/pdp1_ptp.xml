@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pdp1_ptp</name>
+		<description>PDP-1 Paper Tape Reader images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ddt">
+		<description>DDT debugger</description>
+		<year>1964</year>
+		<publisher>DEC</publisher>
+		<rom name="ddt.rim" size="6763" crc="1f63add7" sha1="ce6ec048a7523b49af3d59763a47cd6a84cc0d67" />
+	</machine>
+	<machine name="munching">
+		<description>Munching Squares</description>
+		<year>1962</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="munching.rim" size="54" crc="f0c4436e" sha1="e0ca64612744470107ee3c4fb761a6c2ada96854" />
+	</machine>
+	<machine name="spacewar">
+		<description>Spacewar!</description>
+		<year>1962</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="spacewar.rim" size="15116" crc="dd16c4c9" sha1="7ab31f3330362b993097ed0d57ad0d6e83c17c6d" />
+	</machine>
+</datafile>

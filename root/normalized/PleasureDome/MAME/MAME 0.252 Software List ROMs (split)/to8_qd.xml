@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>to8_qd</name>
+		<description>Thomson TO8 QD disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="initb512">
+		<description>Initiation au BASIC 512</description>
+		<year>1986</year>
+		<publisher>Thomson</publisher>
+		<rom name="initb5121a.qd" size="51200" crc="f9410541" sha1="1557fa03336ef8b7c5916c06b0c61011ef72c02e" />
+		<rom name="initb5121b.qd" size="51200" crc="00165db4" sha1="8eb93709b228ef42a52739434635117ba89532a8" />
+		<rom name="initb5122a.qd" size="51200" crc="d443f87b" sha1="fdd9f0ffaf6b395199b5a18e13da35c3d1c19dd3" />
+		<rom name="initb5122b.qd" size="51200" crc="b7a3cd64" sha1="f4727a10c2707e3ee5261996f66cf2b5223d869c" />
+	</machine>
+	<machine name="vampire">
+		<description>Vampire</description>
+		<year>1986</year>
+		<publisher>Infogrames</publisher>
+		<rom name="vampire.qd" size="51200" crc="2cc62d02" sha1="379d225f6acff33bc2e1bf00e01b1a6713f88f31" />
+	</machine>
+	<machine name="volsolo">
+		<description>Vol Solo</description>
+		<year>1986</year>
+		<publisher>France Image Logiciel (FIL)</publisher>
+		<rom name="volsolo.qd" size="51200" crc="9fd0ac72" sha1="50b2d297d8ad428d9424ab95f9218a42c2549544" />
+	</machine>
+</datafile>

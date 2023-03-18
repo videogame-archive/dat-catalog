@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>amiga_workbench</name>
+		<description>Commodore Amiga Workbench disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="wb10">
+		<description>Workbench 1.0</description>
+		<year>1985</year>
+		<publisher>Commodore</publisher>
+		<rom name="327245-01_workbench.adf" size="901120" crc="d6ef5192" sha1="c7ea69ed5e85ec599165ab201619646c9b5729ba" status="baddump" />
+	</machine>
+	<machine name="wb11">
+		<description>Workbench 1.1</description>
+		<year>1985</year>
+		<publisher>Commodore</publisher>
+		<rom name="316167-01_extras.adf" size="901120" crc="9c9fb14c" sha1="45a2506556ce3b13404194b26d04f451984c689a" />
+		<rom name="327245-02_workbench.adf" size="901120" crc="a629bd97" sha1="d8cc4e0a66d284aab499ff81c9527048bb47ff91" status="baddump" />
+	</machine>
+	<machine name="wb12_3361">
+		<description>Workbench 1.2 Rev. 33.61 A500/A2000</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="unkpn_extras_12.adf" size="901120" crc="08f6785b" sha1="2edfbec0a82f8f5d133526365544a2e78f916c7b" />
+		<rom name="unkpn_workbench_12r3361.adf" size="901120" crc="f1674acf" sha1="6c5a7d91ea638cd001d3c52fac55bafb0a3ae890" />
+	</machine>
+	<machine name="wb12_a500">
+		<description>Workbench 1.2 Rev. 33.56 A500</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="wb12_a500_de\380706-10_extras.adf" size="901120" crc="af130813" sha1="f7a38640155cfd4d369769349f02aa7686973bcf" />
+		<rom name="317608-03_workbench.adf" size="901120" crc="94318e6a" sha1="bf8f1542aa525847e22bd3e913247848eb540da0" />
+		<rom name="380706-09_extras.adf" size="901120" crc="46383329" sha1="40356f28c980b9b2ae778cc9d06f7a462a10d46e" />
+	</machine>
+	<machine name="wb12_a2000">
+		<description>Workbench 1.2 Rev. 33.56 A2000</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="wb12_a2000_de\380706-10_extras.adf" size="901120" crc="af130813" sha1="f7a38640155cfd4d369769349f02aa7686973bcf" />
+		<rom name="wb12_a2000_de\380724-10_workbench.adf" size="901120" crc="4ac89111" sha1="73f8dea3b56bb337a22d5c5f8b447df4f10a4fb0" />
+		<rom name="380706-09_extras.adf" size="901120" crc="46383329" sha1="40356f28c980b9b2ae778cc9d06f7a462a10d46e" />
+	</machine>
+	<machine name="wb12">
+		<description>Workbench 1.2 Rev. 33.56 A500/A2000</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="316391-01_workbench.adf" size="901120" crc="bfbf5df9" sha1="7ede18dcd66de3b1e1f87a5869c21294823da214" />
+		<rom name="380706-05_extras.adf" size="901120" crc="7763563b" sha1="51ca15f3ebb4360aabad32014174c411a00b0ecb" />
+	</machine>
+	<machine name="wb13">
+		<description>Workbench 1.3 Rev. 34.20</description>
+		<year>1988</year>
+		<publisher>Commodore</publisher>
+		<rom name="wb13_de\317790-01_extras.adf" size="901120" crc="bc1f2c03" sha1="62dab0a803fe01bcd05d7cf20447e46af09669ff" />
+		<rom name="wb13_uk\317789-01_workbench.adf" size="901120" crc="30bef4c6" sha1="44bace7520746691969d08f28dd68ef5ab2f15fb" />
+		<rom name="317788-01_extras.adf" size="901120" crc="2f9cea9f" sha1="7fe6b33427eb860fad67540146480d62349e27ca" />
+	</machine>
+	<machine name="wb21">
+		<description>Workbench 2.1 Rev. 38.36</description>
+		<year>1992</year>
+		<publisher>Commodore</publisher>
+		<rom name="370166-02_install.adf" size="901120" crc="78288c6e" sha1="d92d1218ee28e1057ce776d4c0f4ee12426d53d9" />
+		<rom name="370167-02_workbench.adf" size="901120" crc="47bc4f1c" sha1="57e630711fc98a57b6a3ee5b126e302f76d4989a" />
+		<rom name="370168-01_extras.adf" size="901120" crc="0b64e83d" sha1="34b765f7bbe3dc0370cc448b8eacdca540238ad6" />
+		<rom name="370169-01_fonts.adf" size="901120" crc="38dd8f2c" sha1="4444b0acd8c39d918ef29b79443522d76b2ff485" />
+		<rom name="370170-01_locale.adf" size="901120" crc="0d6f6b6b" sha1="20a330dbb002edd543e1eac527ea87e54dc496a3" />
+	</machine>
+	<machine name="wb30">
+		<description>Workbench 3.0 Rev. 39.29</description>
+		<year>1992</year>
+		<publisher>Commodore</publisher>
+		<rom name="370126-02_install.adf" size="901120" crc="6fa2d2b4" sha1="ba24b4172339b9198e4f724a6804d0c6eb5e394b" />
+		<rom name="370127-02_workbench.adf" size="901120" crc="a4d9752d" sha1="e663c92a9c88fa38d02bbb299bea8ce70c56b417" />
+		<rom name="370128-01_extras.adf" size="901120" crc="95da642d" sha1="74304711678ebd3287f816ae250b47bd4d8f5195" />
+		<rom name="370129-01_locale.adf" size="901120" crc="67835fe5" sha1="00d0670a9060ab7805dc2fa7e2e856b33a828043" />
+		<rom name="370150-01_storage.adf" size="901120" crc="0c8c24d5" sha1="93cab7cd05471e8fde63cb1d512b048cd593aebc" />
+		<rom name="fonts30.adf" size="901120" crc="d7364bb4" sha1="4531651fe34a7f0a2dc1a1523ed4c2507670f5a6" />
+		<rom name="fonts30a.adf" size="901120" crc="6a8188bb" sha1="ce0e9e7f03f26918333e120b2740407684d0b619" />
+	</machine>
+	<machine name="wb31">
+		<description>Workbench 3.1 Rev. 40.42</description>
+		<year>1995</year>
+		<publisher>ESCOM</publisher>
+		<rom name="370299-98_install.adf" size="901120" crc="27b3c15a" sha1="96d1fa31a61a29f4c1fe7d4659e0e32a3fa6b5f8" />
+		<rom name="370299-99_storage.adf" size="901120" crc="b16ae967" sha1="5cfccf6d596fbafd75336a2f086c920e25b3fe50" />
+		<rom name="370300-98_workbench.adf" size="901120" crc="576b08f9" sha1="486ea9520e60051c20ec01329d5a0fe3bb10b4fc" />
+		<rom name="370300-99_locale.adf" size="901120" crc="92f2770a" sha1="f4f360ef6b5cf560fe7d7999829aa2b9d536898e" />
+		<rom name="370301-98_extras.adf" size="901120" crc="786a7c59" sha1="0a887f5e1f3b2f2af5b5d4c689cc00ea83414137" />
+		<rom name="370301-99_fonts.adf" size="901120" crc="a152083d" sha1="69f5e5b5ccb626b5aebf29e9ad2e7bd8864cc3c7" />
+	</machine>
+	<machine name="wb132">
+		<description>Workbench 1.3.2</description>
+		<year>1988</year>
+		<publisher>Commodore</publisher>
+		<rom name="wb132_de\317790-01_extras.adf" size="901120" crc="bc1f2c03" sha1="62dab0a803fe01bcd05d7cf20447e46af09669ff" />
+		<rom name="wb132_de\317791-03_workbench.adf" size="901120" crc="e0a29775" sha1="3e2a5e064d8efb4feb64b85b7b26bfaa4f07aa0a" />
+		<rom name="317788-01_extras.adf" size="901120" crc="2f9cea9f" sha1="7fe6b33427eb860fad67540146480d62349e27ca" />
+	</machine>
+	<machine name="wb133">
+		<description>Workbench 1.3.3</description>
+		<year>1988</year>
+		<publisher>Commodore</publisher>
+		<rom name="wb133_uk\317789-04_workbench.adf" size="901120" crc="f0ac4901" sha1="598a61b0d41fd16f8af5166067337ceda350c2b5" status="baddump" />
+		<rom name="wb133_us\317746-04_workbench.adf" size="901120" crc="bf299bca" sha1="8bac53a89cd1fe5a7762de9bd61a1592f10af2df" status="baddump" />
+		<rom name="wb133_us\317748-02_extras.adf" size="901120" crc="256a4b82" sha1="465a65aa89fe4b016fee968ef75ab08de9bdfbc6" />
+		<rom name="367618-01_extras.adf" size="901120" crc="e8eb34c4" sha1="98b2d23004aa4f70e6e07fae92e36b303ab8e471" />
+	</machine>
+	<machine name="wb204">
+		<description>Workbench 2.04 Rev. 37.67</description>
+		<year>1991</year>
+		<publisher>Commodore</publisher>
+		<rom name="367813-01_workbench.adf" size="901120" crc="57714d34" sha1="8d5c0310a86f14fb3e6a1da001ceb50b9a592c51" />
+		<rom name="367824-01_extras.adf" size="901120" crc="a019b6b9" sha1="dc6a940c3474a1d90856541c179f4105eadadbbf" />
+		<rom name="367825-01_fonts.adf" size="901120" crc="2f88c0f6" sha1="22827246c3147c9f9585d029a0f1ebe5fade584e" />
+		<rom name="367826-02_install.adf" size="901120" crc="74f4f26b" sha1="4a6f66823dc9320eb807106b2e98eaba3800c197" />
+	</machine>
+	<machine name="wb205">
+		<description>Workbench 2.05 Rev. 37.71</description>
+		<year>1992</year>
+		<publisher>Commodore</publisher>
+		<rom name="367813-03_workbench.adf" size="901120" crc="be1cc8b9" sha1="4d5c1830e04d1302fdad1eb85638104ab94fb353" />
+		<rom name="367824-04_extras.adf" size="901120" crc="86daec05" sha1="96bcab8d0d5f05d5fac879436bcc85514d912acc" />
+		<rom name="367825-03_fonts.adf" size="901120" crc="7401aba4" sha1="21124a9695f90b926184ee00ac575217a6373c3d" />
+		<rom name="367943-01_install.adf" size="901120" crc="bbdc194c" sha1="66cf349d250f8da83fae3509d8a49bbf7602677f" />
+	</machine>
+</datafile>

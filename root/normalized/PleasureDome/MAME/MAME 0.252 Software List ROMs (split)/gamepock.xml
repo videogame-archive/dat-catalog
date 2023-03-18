@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gamepock</name>
+		<description>Epoch Game Pocket Computer cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="astrobom">
+		<description>Astro Bomber</description>
+		<year>1984</year>
+		<publisher>Epoch</publisher>
+		<rom name="astrobom.bin" size="8192" crc="b0fd260f" sha1="453a0f3c0952ebd8e691316c39960731f1996c09" />
+	</machine>
+	<machine name="blockmaz">
+		<description>Block Maze</description>
+		<year>1984</year>
+		<publisher>Epoch</publisher>
+		<rom name="blockmaz.bin" size="8192" crc="cfb3291b" sha1="50dc5736200986b326b372c17c233c4180474471" />
+	</machine>
+	<machine name="pokedemo">
+		<description>1st Pokekon Demo</description>
+		<year>2010</year>
+		<publisher>Chris Covell</publisher>
+		<rom name="1st_pocket_computer_demo.bin" size="16384" crc="c008102c" sha1="8b204657dea60c9726b729a485378ac132f39d27" />
+	</machine>
+	<machine name="pokemahj">
+		<description>Pokekon Mahjongg</description>
+		<year>1984</year>
+		<publisher>Epoch</publisher>
+		<rom name="pokemahj.bin" size="16384" crc="5c3eed48" sha1="918e1caa16cfae6b74da2026f3426d0a5818061c" />
+	</machine>
+	<machine name="pokereve">
+		<description>Pokekon Reversi</description>
+		<year>1984</year>
+		<publisher>Epoch</publisher>
+		<rom name="pokereve.bin" size="8192" crc="1c461f91" sha1="ead4a4efe5439e2ec1f6befb50c350f73919da8d" />
+	</machine>
+	<machine name="sokoban">
+		<description>Sokoban - Store Keepers</description>
+		<year>1985</year>
+		<publisher>Epoch</publisher>
+		<rom name="sokoban.bin" size="8192" crc="5d6f7819" sha1="61ef6483e8f9935dd8b6351fd2bdfda3af3899bd" />
+	</machine>
+</datafile>

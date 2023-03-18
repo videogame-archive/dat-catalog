@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mac_flop</name>
+		<description>Macintosh 400K/800K Disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="airborne">
+		<description>Airborne!</description>
+		<year>1984</year>
+		<publisher>Silicon Beach</publisher>
+		<rom name="Airborne.image" size="409600" crc="5d3729c2" sha1="2519b4afa8f803d0d7098d1b33f1c39abe0a50fa" />
+	</machine>
+	<machine name="bdrkcast">
+		<description>Beyond Dark Castle</description>
+		<year>1987</year>
+		<publisher>Silicon Beach Software</publisher>
+		<rom name="disk1.img" size="819200" crc="7b51b582" sha1="d5856e6504cf652b8601e9e60f45703ce7458fa1" status="baddump" />
+		<rom name="disk2.img" size="819200" crc="8c63ffcc" sha1="587392d1937b9d776d30be48bd272217265c737b" />
+	</machine>
+	<machine name="botp">
+		<description>Balance of the Planet</description>
+		<year>1990</year>
+		<publisher>Chris Crawford</publisher>
+		<rom name="balance of the planet disk 1.img" size="819200" crc="dda09592" sha1="a7e8c323c9b9a744c06057c6f4ec541627eb3633" />
+		<rom name="balance of the planet disk 2.img" size="819200" crc="05ad9b36" sha1="23eead8fa153ac8a9390bccc9590daf861dee455" />
+	</machine>
+	<machine name="loderun">
+		<description>Lode Runner</description>
+		<year>1984</year>
+		<publisher>Broderbund Software</publisher>
+		<rom name="lode runner.img" size="409600" crc="685597f2" sha1="d2058a28284e196b2b9f14978e0158d9bd93c8e4" />
+	</machine>
+	<machine name="macbtx">
+		<description>MacBTX 1&amp;1</description>
+		<year>1994</year>
+		<publisher>format Verlag</publisher>
+		<rom name="disk1.img" size="819200" crc="91244158" sha1="9181122e95c740da555056ef227088ddcefc8fd5" />
+	</machine>
+	<machine name="macdrawde">
+		<description>MacDraw 1.9.5 (German)</description>
+		<year>1986</year>
+		<publisher>Apple</publisher>
+		<rom name="disk1.img" size="819200" crc="73599d46" sha1="5b883383827d2742220b89de083c646c308853d0" />
+	</machine>
+	<machine name="ps25lede">
+		<description>Photoshop 2.5.1 Limited Edition (German)</description>
+		<year>1993</year>
+		<publisher>Adobe</publisher>
+		<rom name="disk1.img" size="819200" crc="d3978ea5" sha1="d44173c57f2385406555d3fff7fd6b30c68b2116" />
+		<rom name="disk2.img" size="819200" crc="b422f894" sha1="1682a6b07fa4b88fa8f6860944736f1a85df0805" />
+		<rom name="disk3.img" size="819200" crc="09866adc" sha1="93a20fe8d7e2d352cd42631962a7c7d9c918a472" />
+	</machine>
+	<machine name="radius">
+		<description>RadiusWare</description>
+		<year>1991</year>
+		<publisher>Radius</publisher>
+		<rom name="disk1.img" size="819200" crc="7c11fe05" sha1="5256aece3878fbe4479d7e8c0fd3bb38d71db0f1" />
+	</machine>
+	<machine name="suprcars">
+		<description>The Supercars - Test Drive II Car Disk</description>
+		<year>1989</year>
+		<publisher>Accolade</publisher>
+		<rom name="the supercars.img" size="819200" crc="5d243d81" sha1="e61306317cf39ef3ddce9751e3c4ce5b72c942db" />
+	</machine>
+	<machine name="sys11">
+		<description>System Software 1.1</description>
+		<year>1984</year>
+		<publisher>Apple</publisher>
+		<rom name="System Disk.img" size="409600" crc="de4046ba" sha1="cbee2d1ceffb15c312066b7b35ad022ce1895cdb" />
+	</machine>
+	<machine name="sys30">
+		<description>System Software 3.0</description>
+		<year>1986</year>
+		<publisher>Apple</publisher>
+		<rom name="System Tools.img" size="819200" crc="d3768bcb" sha1="0546dd0fa34f4e6d913e4254ddb5350e1e42800c" />
+	</machine>
+	<machine name="sys603">
+		<description>System Software 6.0.3</description>
+		<year>1990</year>
+		<publisher>Apple</publisher>
+		<rom name="printing tools.img" size="819200" crc="8b69b1ed" sha1="087e19062715c59a9ce01106ed03049a364b4018" />
+		<rom name="system tools.img" size="819200" crc="297023b0" sha1="ced0f8d2e950ef59bc4ff2477e09ea4cc6f7b24c" />
+		<rom name="utilities 1.img" size="819200" crc="67ab3033" sha1="247a99f42237a780ea08f068473e6ee127a5eab7" />
+		<rom name="utilities 2.img" size="819200" crc="0b1d1e4d" sha1="4969936683619562dfd1437849da9119118cb695" />
+	</machine>
+	<machine name="sys605">
+		<description>System Software 6.0.5</description>
+		<year>1990</year>
+		<publisher>Apple</publisher>
+		<rom name="printing tools.img" size="819200" crc="3496eee8" sha1="ba396f501180467db34d3c22eab94b900b14dc22" />
+		<rom name="system tools.img" size="819200" crc="9b8df224" sha1="0dd936f001ad8884382d20b4d7beb2e082194feb" />
+		<rom name="utilities 1.img" size="819200" crc="2ba093df" sha1="fc9b8f7b7ba941ff778703e262f0c6992b368610" />
+		<rom name="utilities 2.img" size="819200" crc="279123df" sha1="0519b697c13a407b46fe4079d2889adf37dc9864" />
+	</machine>
+	<machine name="sys608">
+		<description>System Software 6.0.8</description>
+		<year>1991</year>
+		<publisher>Apple</publisher>
+		<rom name="printing tools.img" size="819200" crc="e7ba71b1" sha1="bd7194407769a2f2f4ebde8b94f8d85e92419d32" />
+		<rom name="system tools.img" size="819200" crc="febb735f" sha1="fb89deb29ff341e92fd30307934f7c7616c2c8e2" />
+		<rom name="utilities 1.img" size="819200" crc="936e35d8" sha1="85e1667b236451149e06db76a60b8852432622a3" />
+		<rom name="utilities 2.img" size="819200" crc="4d00c41a" sha1="3d5261d6ec11b11c16e745cd957aa77c4bebdf08" />
+	</machine>
+</datafile>

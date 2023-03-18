@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jakks_gamekey_dy</name>
+		<description>JAKKS Pacific 'DY' Game Keys</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="sbwlgoof">
+		<description>Sports Bowling &amp; Goofy's Underwater Adventure (V1.31 - JUN 15 2005)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / HotGen Ltd</publisher>
+		<rom name="dy_disneygkbowlinggoofy.bin" size="2097152" crc="d2147aa4" sha1="0db986aac68868a2ff4936e93178da8c592ac81d" />
+	</machine>
+	<machine name="stenfcha">
+		<description>Sports Tennis &amp; Face Chase &amp; Riches of Agrabah (15 JUN 2005 A)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / HotGen Ltd</publisher>
+		<rom name="disneygktennisfaceagrabah.bin" size="2097152" crc="f3fd0759" sha1="1272e7e34acfce5dbe55b39bff888f5dd16c63f9" />
+	</machine>
+	<machine name="stenfchs">
+		<description>Sports Tennis &amp; Face Chase (15 JUN 2005 C)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / HotGen Ltd</publisher>
+		<rom name="dy_disneygktennisfacechase.bin" size="2097152" crc="ba37ccf2" sha1="c7204a0499b6949f3f70f0f5c042d353435406fb" />
+	</machine>
+</datafile>

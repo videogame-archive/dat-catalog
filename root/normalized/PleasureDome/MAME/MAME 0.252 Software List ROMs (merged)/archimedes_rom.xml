@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>archimedes_rom</name>
+		<description>Acorn Archimedes ROM images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="wizzo4">
+		<description>Wizzo4 3.22</description>
+		<year>1997</year>
+		<publisher>Baildon Electronics/APDL</publisher>
+		<rom name="wizzo4_312\ICS94_Wizzo4_3v12.bin" size="32768" crc="76bf3345" sha1="04b44be233351ae49d020dcb4d0bf494b9459a4c" />
+		<rom name="BE-APDL95_Wizzo4_3v22.bin" size="65536" crc="7b37e63b" sha1="ba9d256b122a6c570ba56f9fe674ef36bccc6efd" />
+	</machine>
+	<machine name="wizzo5">
+		<description>Wizzo5 3.15</description>
+		<year>1996</year>
+		<publisher>Ian Copestake Software</publisher>
+		<rom name="wizzo5_312\ICS94_Wizzo5_3v12.bin" size="32768" crc="915bb109" sha1="f22c4ad60918ce759fc48a400a33a34b8371865c" />
+		<rom name="wizzo5_313\ICS95_Wizzo5_3v13.bin" size="65536" crc="df9315cc" sha1="e0dd226e9da72a37a075ad8a1ebe9adb1d8667c7" />
+		<rom name="ICS95_Wizzo5_3v15.bin" size="65536" crc="a48af152" sha1="296ba12091be8562070c8795ba2a7c83cf2451ba" />
+	</machine>
+</datafile>

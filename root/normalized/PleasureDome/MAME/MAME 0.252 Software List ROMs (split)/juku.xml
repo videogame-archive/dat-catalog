@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>juku</name>
+		<description>Juku E5101 floppy disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm22">
+		<description>CP/M 2.2</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cpm22.juk" size="819200" crc="a66233aa" sha1="5bb58a70b87e9ee9ca78c9cc3d90e197d3b4663e" />
+	</machine>
+</datafile>

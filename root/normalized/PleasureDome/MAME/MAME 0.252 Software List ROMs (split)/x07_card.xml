@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>x07_card</name>
+		<description>Canon X-07 memory cards</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="xp140">
+		<description>XP-140 Monitor</description>
+		<year>1983</year>
+		<publisher>Canon</publisher>
+		<rom name="xp140.rom" size="8192" crc="4b26a9b4" sha1="5704519cf44a49bb3ab6638b439103e6a37f1eb4" />
+	</machine>
+</datafile>

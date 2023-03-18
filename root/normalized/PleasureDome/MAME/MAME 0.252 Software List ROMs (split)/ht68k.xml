@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ht68k</name>
+		<description>HT68K 5.25 disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="kos">
+		<description>K-OS</description>
+		<year>1986</year>
+		<publisher>Hawthorne Technology</publisher>
+		<rom name="kos_os.td0" size="306305" crc="8a10d01a" sha1="435fc374980e53077008444aca4ebd22bb406061" />
+	</machine>
+	<machine name="motbasic">
+		<description>MotionBASIC</description>
+		<year>1986</year>
+		<publisher>Hawthorne Technology</publisher>
+		<rom name="motbasic.td0" size="210212" crc="a1ffe471" sha1="5aa88bda9b8a740391dce3dc441e107234c4abb2" />
+	</machine>
+</datafile>

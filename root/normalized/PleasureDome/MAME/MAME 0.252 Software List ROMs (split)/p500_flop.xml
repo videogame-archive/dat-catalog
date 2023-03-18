@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>p500_flop</name>
+		<description>Commodore P500 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="burnin">
+		<description>Factory Burn In Diagnostics for P500</description>
+		<year>1983</year>
+		<publisher>Commodore</publisher>
+		<rom name="p500-burnin.d80" size="533248" crc="e49b3b21" sha1="5255fc8faa361c6ee67b86b09b1f98a4f162ba87" />
+	</machine>
+	<machine name="demos">
+		<description>Demos</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="p500demos.d80" size="533248" crc="676451dd" sha1="4d66ec01c46030ad671bea6b44bcf4c8fe563ea2" />
+	</machine>
+</datafile>

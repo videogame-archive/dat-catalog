@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>nes_datach</name>
+		<description>Nintendo Entertainment System - Datach Joint ROM System mini-cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dtc_brsh">
+		<description>Datach - Battle Rush - Build Up Robot Tournament (Jpn)</description>
+		<year>1993</year>
+		<publisher>Bandai</publisher>
+		<rom name="b-ai '93 battle-rush.ic1" size="262144" crc="983d8175" sha1="29cc759d5ca214eefc0cc1c6ce0f8b9111e58124" status="baddump" />
+	</machine>
+	<machine name="dtc_cray">
+		<description>Datach - Crayon Shin-Chan - Ora to Poi Poi (Jpn)</description>
+		<year>1993</year>
+		<publisher>Bandai</publisher>
+		<rom name="datach - crayon shin-chan - ora to poi poi (japan).prg" size="262144" crc="894efdbc" sha1="6f3c65bd945fe13305a7a39d8cd884a5bf314a8f" status="baddump" />
+	</machine>
+	<machine name="dtc_dbz">
+		<description>Datach - Dragon Ball Z - Gekitou Tenkaichi Budou Kai (Jpn)</description>
+		<year>1992</year>
+		<publisher>Bandai</publisher>
+		<rom name="datach - dragon ball z - gekitou tenkaichi budou kai (japan).prg" size="262144" crc="19e81461" sha1="87478b635fefb25fa13c4876e20f505a97426c1b" status="baddump" />
+	</machine>
+	<machine name="dtc_jltp">
+		<description>Datach - J League Super Top Players (Jpn)</description>
+		<year>1994</year>
+		<publisher>Bandai</publisher>
+		<rom name="datach - j league super top players (japan).prg" size="262144" crc="be06853f" sha1="b2089533e05fe95814d0d77f2729944cbeb95988" status="baddump" />
+	</machine>
+	<machine name="dtc_sdgn">
+		<description>Datach - SD Gundam - Gundam Wars (Jpn)</description>
+		<year>1993</year>
+		<publisher>Bandai</publisher>
+		<rom name="datach gundam.ic1" size="262144" crc="0be0a328" sha1="edd7a45a7f27e396b6d686f1861642d509863132" status="baddump" />
+	</machine>
+	<machine name="dtc_ultr">
+		<description>Datach - Ultraman Club - Supokon Fight! (Jpn)</description>
+		<year>1993</year>
+		<publisher>Bandai</publisher>
+		<rom name="datach - ultraman club - supokon fight (japan).prg" size="262144" crc="5b457641" sha1="533170d5eb685231ccd27b9c136ffa4fad68a7b8" status="baddump" />
+	</machine>
+	<machine name="dtc_yuyu">
+		<description>Datach - Yu Yu Hakusho - Bakutou Ankoku Bujutsu Kai (Jpn)</description>
+		<year>1993</year>
+		<publisher>Bandai</publisher>
+		<rom name="datach - yuu yuu hakusho - bakutou ankoku bujutsu kai (japan).prg" size="262144" crc="f51a7f46" sha1="74218aae93e4febfb2284bcf15811453418a2029" status="baddump" />
+	</machine>
+</datafile>

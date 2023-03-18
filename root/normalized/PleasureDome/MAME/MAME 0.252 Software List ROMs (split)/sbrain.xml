@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sbrain</name>
+		<description>Super Brain floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="boot">
+		<description>Boot disk</description>
+		<year>19??</year>
+		<publisher>Intertec</publisher>
+		<rom name="cboot.imd" size="336777" crc="0a7501db" sha1="90b97e2ab9840de8ac98e3302d2bd052edfa0189" />
+	</machine>
+</datafile>

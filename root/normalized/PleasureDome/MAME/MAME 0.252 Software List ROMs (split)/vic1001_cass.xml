@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vic1001_cass</name>
+		<description>Commodore VIC-1001 / VIC-20 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3dmaze">
+		<description>3D Maze</description>
+		<year>1984</year>
+		<publisher>Mastertronic</publisher>
+		<rom name="3d maze_0013.tap" size="309826" crc="d3b47af3" sha1="8376a9da24bdf3089567978852fed544ed6d1611" />
+	</machine>
+	<machine name="speakez">
+		<description>Speakeasy</description>
+		<year>1983</year>
+		<publisher>Personal Periapheral Products</publisher>
+		<rom name="speakeasy (1983)(personal peripheral products).wav" size="9356430" crc="813d35a5" sha1="d8b9e1143f766f2000aa0d8c4a2984b886b81dbc" status="baddump" />
+	</machine>
+</datafile>

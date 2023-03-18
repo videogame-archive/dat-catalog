@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>fidel_msc</name>
+		<description>Fidelity MSC Modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cac">
+		<description>Challenger Advanced Chess</description>
+		<year>1982</year>
+		<publisher>Fidelity Electronics</publisher>
+		<rom name="mk36977n-4_101-1038a01" size="8192" crc="b31e3542" sha1="490086981e8f5770dae477b12b6d945e0b196107" />
+	</machine>
+	<machine name="cbo">
+		<description>Challenger Book Openings</description>
+		<year>1982</year>
+		<publisher>Fidelity Electronics</publisher>
+		<rom name="mk36a43n-4_101-1043a01" size="8192" crc="430d0969" sha1="34a436fdf26c5feb503228ffcf6ce5ac2632168e" />
+	</machine>
+</datafile>

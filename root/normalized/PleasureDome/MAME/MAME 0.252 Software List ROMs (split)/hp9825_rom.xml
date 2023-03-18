@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>hp9825_rom</name>
+		<description>HP 9825 Option ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="genio_ext">
+		<description>General/extended I/O ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="extended_io.bin" size="4096" crc="1d67b773" sha1="4031bb00e49f7ea462aa6468f7e77b8589879a6a" />
+		<rom name="general_io.bin" size="2048" crc="b0386cb6" sha1="1b3a54edf54a5bdf92d1f7c6ec332fc00b037b49" />
+	</machine>
+	<machine name="genio_ext_plot62">
+		<description>General/extended I/O/9862 plotter ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="extended_io.bin" size="4096" crc="1d67b773" sha1="4031bb00e49f7ea462aa6468f7e77b8589879a6a" />
+		<rom name="general_io.bin" size="2048" crc="b0386cb6" sha1="1b3a54edf54a5bdf92d1f7c6ec332fc00b037b49" />
+		<rom name="plot9862.bin" size="2048" crc="89db2f9c" sha1="6fff6637a450d230e6d9716d88cb54e592157416" />
+	</machine>
+	<machine name="genio_ext_plot">
+		<description>General/extended I/O/plotter ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="extended_io.bin" size="4096" crc="1d67b773" sha1="4031bb00e49f7ea462aa6468f7e77b8589879a6a" />
+		<rom name="general_io.bin" size="2048" crc="b0386cb6" sha1="1b3a54edf54a5bdf92d1f7c6ec332fc00b037b49" />
+		<rom name="plot9872.bin" size="2048" crc="0a9cb8db" sha1="d0d126fca108f2715e1e408cb31b09ba69385ac4" />
+	</machine>
+	<machine name="mass2">
+		<description>9885/9895 ROM for 9825</description>
+		<year>1980</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="98228a.bin" size="16384" crc="31ce695e" sha1="b61273356c421102ff2bbd6aa7277200ee778097" />
+	</machine>
+	<machine name="mass">
+		<description>9885 ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="98217a.bin" size="2048" crc="ee41c924" sha1="eac268523c09291a9939bc2dac201e4285185b51" />
+	</machine>
+	<machine name="matrix">
+		<description>Matrix ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="98211a.bin" size="2048" crc="2cec553f" sha1="95c8d8becae6948accb342d23bc7072f0adb2c67" />
+	</machine>
+	<machine name="plot9862_genio">
+		<description>9862 Plotter/Gen I/O ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="general_io.bin" size="2048" crc="b0386cb6" sha1="1b3a54edf54a5bdf92d1f7c6ec332fc00b037b49" />
+		<rom name="plot9862.bin" size="2048" crc="89db2f9c" sha1="6fff6637a450d230e6d9716d88cb54e592157416" />
+	</machine>
+	<machine name="plot_genio">
+		<description>Plotter/Gen I/O ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="general_io.bin" size="2048" crc="b0386cb6" sha1="1b3a54edf54a5bdf92d1f7c6ec332fc00b037b49" />
+		<rom name="plot9872.bin" size="2048" crc="0a9cb8db" sha1="d0d126fca108f2715e1e408cb31b09ba69385ac4" />
+	</machine>
+	<machine name="sssmass">
+		<description>SSS mass storage ROM</description>
+		<year>1984</year>
+		<publisher>Structured Software Systems</publisher>
+		<rom name="sssmass.bin" size="16384" crc="95d36297" sha1="5e1777c894f6507a461c4a12f12ae5ac2c7a4385" />
+	</machine>
+	<machine name="string_advprg">
+		<description>String/Advanced programming ROM for 9825</description>
+		<year>1976</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="advanced.bin" size="2048" crc="965b5e5a" sha1="ff44dd15f8fa4ca03dfd970ed8b200e8a071ec13" />
+		<rom name="strings.bin" size="2048" crc="b5ca5da5" sha1="af13abb3c15836c566863c656e1659f7e6f96d04" />
+	</machine>
+</datafile>

@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pc98_cd</name>
+		<description>NEC PC-9801 CD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="aitd2">
+		<description>Alone in the Dark 2</description>
+		<year>1994</year>
+		<publisher>アローマイクロテックス (Arrow Micro-Techs)</publisher>
+		<disk name="alone in the dark 2 (japan)" sha1="cbbb766102038d808172bfd5675838fa57fde6b2" />
+	</machine>
+	<machine name="aitd3">
+		<description>Alone in the Dark 3</description>
+		<year>1995</year>
+		<publisher>エーエムティーサヴァン (AMT Savan)</publisher>
+		<disk name="alone in the dark 3" sha1="4646ea0570fae916819e9674eb3cb8d976cdb1df" />
+	</machine>
+	<machine name="akikogld">
+		<description>Akiko Gold - The Queen of Adult</description>
+		<year>1995</year>
+		<publisher>フェアリーテール レッドゾーン (Fairytale Red-Zone)</publisher>
+		<disk name="akiko gold (japan)" sha1="c4945f53980f782a95439f1bb4877be9e44b8018" />
+	</machine>
+	<machine name="akumu">
+		<description>Akumu - Aoi Kajitsu no Sanka</description>
+		<year>1996</year>
+		<publisher>スタジオメビウス (Studio Möbius)</publisher>
+		<disk name="akumu - aoi kajitsu no sanka (japan)" sha1="dfcb7e7bd78c7d9ab232dabdaec31cf99b4cb883" />
+	</machine>
+	<machine name="alice3">
+		<description>Alice no Yakata 3 (1995-06-19)</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="alice no yakata 3 (japan)" sha1="a48140c8f109040bac0c446eb0095a900a911aec" />
+		<disk name="alice no yakata 3 (japan) (alt)" sha1="0e3abd7cec6ad5f53287429483caaccc07ad499c" />
+	</machine>
+	<machine name="angel">
+		<description>Angel</description>
+		<year>1993</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<disk name="angel (japan)" sha1="03d8c60de05e3f8ed74f16c648dbb2da6d5fd6fe" />
+	</machine>
+	<machine name="anghalo">
+		<description>Angel Halo</description>
+		<year>1996</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="angel haloe (japan)" sha1="b65c8f9445378d0a1f74916464673278530f567b" />
+	</machine>
+	<machine name="angie">
+		<description>Daraku no Kuni no Angie - Kyoukai no Mesu Dorei-tachi</description>
+		<year>1996</year>
+		<publisher>PIL</publisher>
+		<disk name="daraku no kuni no angie" sha1="abda5fc88dbfb9b667a4cd3a0d74dc499b9f55f5" />
+	</machine>
+	<machine name="appaden">
+		<description>Appare-den - Fukuryuu no Shou</description>
+		<year>1995</year>
+		<publisher>TGL</publisher>
+		<disk name="appare-den - fukuryuu no shou (japan)" sha1="24628fa180a9effbb41813c41f2143cc2acc8b48" />
+	</machine>
+	<machine name="ayumi">
+		<description>Ayumi-chan Monogatari</description>
+		<year>1994</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="ayumi-chan monogatari (japan)" sha1="3396fc6095bbd4798cd515356f30bfce74e0b634" />
+	</machine>
+	<machine name="ayumijb">
+		<description>Ayumi-chan Monogatari Jissha-ban</description>
+		<year>1995</year>
+		<publisher>白夜書房 (Byakuya-Shobo)</publisher>
+		<disk name="ayumi-chan monogatari - jisshaban (japan)" sha1="98cee5014492ecf70e514bfc330cf2e339830109" />
+	</machine>
+	<machine name="bacta12v">
+		<description>Bacta 1 &amp; 2 + Voice</description>
+		<year>1996</year>
+		<publisher>姫屋ソフト (Himeya Soft)</publisher>
+		<disk name="bacta 1&amp;2 + voice (japan)" sha1="985816039d5494a48a758d625974e5947d890a3d" />
+	</machine>
+	<machine name="bellsav1">
+		<description>Bell's Avenue Vol. 1</description>
+		<year>1993</year>
+		<publisher>シグナワークス (Signa Works)</publisher>
+		<disk name="bell's avenue vol. 1 (japan)" sha1="91c10388bf8432d969b59dced8dbc8d61b1fb77a" />
+	</machine>
+	<machine name="bellsav2">
+		<description>Bell's Avenue Vol. 2</description>
+		<year>1994</year>
+		<publisher>シグナワークス (Signa Works)</publisher>
+		<disk name="bell's avenue vol. 2 (japan)" sha1="f7dbb84b48c5037e491b883f359de6b9438a72ee" />
+	</machine>
+	<machine name="bellsav3">
+		<description>Bell's Avenue Vol. 3</description>
+		<year>1995</year>
+		<publisher>シグナワークス (Signa Works)</publisher>
+		<disk name="bell's avenue vol. 3 (japan)" sha1="be691be310294eeaf9fd26d4ef9fc9341406842e" />
+	</machine>
+	<machine name="bfmaria">
+		<description>Ballade for Maria</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="ballade for maria - maria ni sasageru ballade (japan)" sha1="baa46b9b3f987b6d62f18a6ec59abcf661603e10" />
+	</machine>
+	<machine name="bhrudy">
+		<description>Bounty Hunter Rudy</description>
+		<year>1996</year>
+		<publisher>ScooP</publisher>
+		<disk name="bounty hunter rudy (japan)" sha1="a8e3f4b21f23f3dac1f0b54e1620c572ae695236" />
+	</machine>
+	<machine name="blandia">
+		<description>Blandia 98</description>
+		<year>1995</year>
+		<publisher>ビング (Ving)</publisher>
+		<disk name="blandia 98 (japan)" sha1="e13542721b25079bac996733d2c4f2bcc788f079" />
+	</machine>
+	<machine name="brand2cm">
+		<description>Brandish 2 - The Planet Buster - Campaign-ban</description>
+		<year>1996</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="brandish 2 - the planet buster (japan)" sha1="0cfb92a29c5e34b76af566ed5afe4de18fc75372" />
+	</machine>
+	<machine name="brand2new">
+		<description>Brandish 2 Renewal</description>
+		<year>1995</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="brandish 2 renewal (japan)" sha1="1572f58d0ad081e97fac172bc708afa209246058" />
+	</machine>
+	<machine name="brand3cm">
+		<description>Brandish 3 - Spirit of Balcan - Campaign-ban</description>
+		<year>1996</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="brandish 3 - spirit of balcan (japan)" sha1="67a45f7064014fa268de9fd5dbffa633ab9a4380" />
+	</machine>
+	<machine name="brand3rn">
+		<description>Brandish 3 - Spirit of Balcan - Renewal</description>
+		<year>1995</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="brandish 3 renewal" sha1="d5ebe552ae1d2ccd0d8587aaf81a8396810d1b63" />
+	</machine>
+	<machine name="brandcmp">
+		<description>Brandish Campaign-ban</description>
+		<year>1996</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="brandish (japan)" sha1="707c3d5047700083be7ea78eeffe3befc923cb87" />
+	</machine>
+	<machine name="brandnew">
+		<description>Brandish Renewal</description>
+		<year>1995</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="brandish (japan) (renewal)" sha1="d804bc3ddb997443b0ba856bac3eb2d8d333a8a7" />
+	</machine>
+	<machine name="brandvt">
+		<description>Brandish VT</description>
+		<year>1996</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="brandish vt (japan)" sha1="0aa4a61ad74f93d78fc331ddefb91e67c79e9bc8" />
+	</machine>
+	<machine name="branmar2">
+		<description>Branmarker 2</description>
+		<year>1995</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="branmarker 2 (japan) (extra disc)" sha1="755865e904bf3ee527c629a45cea052f7bb10f5b" />
+		<disk name="branmarker 2 (japan) (game disc)" sha1="242b3fd57b45e08f29fba516257821ad7f132152" />
+	</machine>
+	<machine name="branmark">
+		<description>Branmarker</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="branmarker" sha1="6c03823c2bf385630c5064a994fc8718610ced0f" />
+	</machine>
+	<machine name="canaan">
+		<description>Canaan - Yakusoku no Chi</description>
+		<year>1997</year>
+		<publisher>フォアナイン (Fournine)</publisher>
+		<disk name="canaan - yakusoku no chi (japan)" sha1="5044b38ae088af496427f5a6d3a832b443bbb937" />
+	</machine>
+	<machine name="chiemi">
+		<description>Chiemi &amp; Naomi</description>
+		<year>1993</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="chiemi &amp; naomi (japan)" sha1="dcdb4cccbce006739a1d48959fc7514441b2240c" />
+	</machine>
+	<machine name="chushaki">
+		<description>Chuushaki - Hirasawa Nurse School</description>
+		<year>1996</year>
+		<publisher>アーヴォリオ (Aypio)</publisher>
+		<disk name="chuushaki - hirasawa nurse school (japan)" sha1="ca6b4ccb53e3fec00a59c507f231b6e2adb65e45" />
+	</machine>
+	<machine name="classro4">
+		<description>Classic Road 4</description>
+		<year>1996</year>
+		<publisher>ビクターエンタテインメント (Victor Entertainment)</publisher>
+		<disk name="classro4" sha1="dafe71f281597f94abf4f9aadd498e2b91e449a4" />
+	</machine>
+	<machine name="collecd">
+		<description>Collector D</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="collector d (japan)" sha1="f1ffaf79cc20f02531a2b111828e2fae8a32c943" />
+	</machine>
+	<machine name="crw2">
+		<description>CRW 2</description>
+		<year>1995</year>
+		<publisher>ウィズ (Wiz)</publisher>
+		<disk name="crw 2 (japan)" sha1="4792f4d632abb3da27d632430dab988a65d4ffbd" />
+	</machine>
+	<machine name="crystadx">
+		<description>Shin'ou Densetsu Crystania DX</description>
+		<year>1995</year>
+		<publisher>システムソフト (SystemSoft)</publisher>
+		<disk name="shin-ou densetsu crystania dx (japan)" sha1="aea3b20805282c2832c64a4366e6afec95c6a1e9" />
+	</machine>
+	<machine name="crystalr">
+		<description>Crystal Rinal</description>
+		<year>1994</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="crystal rinal" sha1="96bce4606ee6775e966328143a6051fe312d9a8d" />
+	</machine>
+	<machine name="crysweep">
+		<description>Cry Sweeper</description>
+		<year>1996</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="cry sweeper" sha1="8b7000406f871d338b23fbc0275f6b71eabe1b8c" />
+	</machine>
+	<machine name="cyberwar">
+		<description>Cyberwar</description>
+		<year>1995</year>
+		<publisher>塚本吉彦事務所 (Tsukamoto Yoshihiko Jimusho)</publisher>
+		<disk name="cyber war (disc 1)" sha1="4b62409f228d06e30c4099d984863be76039a72b" />
+		<disk name="cyber war (disc 2)" sha1="4bc9c31c839caf73dc27dc05133656a4db6eac74" />
+		<disk name="cyber war (disc 3)" sha1="0547eda244bcb5e11b4d9381cd5f372fb3fb8485" />
+	</machine>
+	<machine name="dangel">
+		<description>Dangel</description>
+		<year>1996</year>
+		<publisher>ミンク (Mink)</publisher>
+		<disk name="dangel (japan)" sha1="5b748eb84966710bf125a84dac3e878f62872ba6" />
+	</machine>
+	<machine name="darkser">
+		<description>Dark Seraphim</description>
+		<year>1995</year>
+		<publisher>呉ソフトウエア工房 (Kure Software Koubou)</publisher>
+		<disk name="dark seraphim" sha1="1c56fe51c36ebe9e97c6e8bfbf0033ccc46db40d" />
+	</machine>
+	<machine name="dawnpat">
+		<description>Dawn Patrol - Yoake no Pilot</description>
+		<year>1997</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<disk name="dawn patrol (japan)" sha1="52344c6d2dbb3ba0798923ca7a1f9a6788c932b2" />
+	</machine>
+	<machine name="debut">
+		<description>Tanjou - Debut</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="tanjou - debut (cd version)" sha1="802f4b095a79a456ff94f9aa5a6be6aeda3a3f0c" />
+	</machine>
+	<machine name="defana">
+		<description>De.FaNa</description>
+		<year>1995</year>
+		<publisher>姫屋ソフト (Himeya Soft)</publisher>
+		<disk name="de.fana (japan)" sha1="58b7981c2acb1e9fe0e3664ccc11119d18306472" />
+	</machine>
+	<machine name="demoevo">
+		<description>NEC Demonstration CD-ROM - Evolution and Dinosaurs</description>
+		<year>1992</year>
+		<publisher>NEC</publisher>
+		<disk name="nec demonstration cd-rom - evolution and dinosaurs (japan)" sha1="b07a302de9f90b5eb958a35381cdda1f050ed37e" />
+	</machine>
+	<machine name="desire">
+		<description>Desire - Haitoku no Rasen</description>
+		<year>1994</year>
+		<publisher>シーズウェア (C's Ware)</publisher>
+		<disk name="desire - haitoku no rasen (japan)" sha1="002657064a465e7c850dee6df76f5826ef606964" />
+	</machine>
+	<machine name="diesirae">
+		<description>Dies Irae</description>
+		<year>1996</year>
+		<publisher>ファミリーソフト (Family Soft)</publisher>
+		<disk name="dies irae (japan)" sha1="2450d001967e1e5e884c3cbc7a4723dddbe3d1b7" />
+	</machine>
+	<machine name="digipara">
+		<description>Bishoujo Pasocom Soft Taizen - Digi-para - Digital Paradise - Vol. 1</description>
+		<year>1996</year>
+		<publisher>ケイブンシャ (Keibunsha)</publisher>
+		<disk name="digipara" sha1="f3adecf989c16b5a8bdbd8e56df9712717d91737" />
+	</machine>
+	<machine name="dlunch">
+		<description>Delicious Lunch Pack</description>
+		<year>1996</year>
+		<publisher>スクープ (Scoop)</publisher>
+		<disk name="delicious lunch pack (1996)(scoop)" sha1="529d1b311de74d39c7be2e7fa27f2ba1bab24156" />
+	</machine>
+	<machine name="dokido45">
+		<description>Doki Doki Disk CD-ban: Club D.O. Vol. 4-5</description>
+		<year>1997</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="d.o. doki doki disk cd vol. 4-5" sha1="a525c997da4948eba43742f818b45fb195b408b9" />
+	</machine>
+	<machine name="dokidok1">
+		<description>Doki Doki Disk CD-ban Dai-1-kan - Club D.O. Jimukyoku</description>
+		<year>1994</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="doki doki disk cd-ban vol. 1 (japan)" sha1="8bf3875f21ba28d30b7e837344d5560b15fe32e3" />
+	</machine>
+	<machine name="dokidok2">
+		<description>Doki Doki Disk CD-ban: Club D.O. Vol. 2</description>
+		<year>1995</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="d.o. doki doki disk cd vol. 2" sha1="8ebcec5d3ac672d237c3101a370a2bd92c6d59b8" />
+	</machine>
+	<machine name="dokidok3">
+		<description>Doki Doki Disk CD-ban: Club D.O. Vol. 3</description>
+		<year>1996</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="d.o. doki doki disk cd vol. 3" sha1="b69090b18762165bc2f4a90623900a87abb3b35b" />
+	</machine>
+	<machine name="doom2w95">
+		<description>Doom II for Windows 95</description>
+		<year>1996</year>
+		<publisher>イマジニア (Imagineer)</publisher>
+		<disk name="doom ii (japan) (pc-98 sen'you) (for windows 95)" sha1="90a4ebf2d04d197b5cb15f4aec6adc6af7acccb0" />
+	</machine>
+	<machine name="doom2">
+		<description>Doom II</description>
+		<year>1995</year>
+		<publisher>イマジニア (Imagineer)</publisher>
+		<disk name="doom ii (japan)" sha1="d6e6ac62129f441e1e4ca0c551923e5f49cc2b68" />
+	</machine>
+	<machine name="doom">
+		<description>Doom</description>
+		<year>1995</year>
+		<publisher>イマジニア (Imagineer)</publisher>
+		<disk name="doom (japan)" sha1="d8df34ba9caaec7f07841e375b4dff85549065ff" />
+	</machine>
+	<machine name="dorbestg">
+		<description>DOR Best Selection Gekan</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="dor best selection vol. 2 (gekan) (disc 1)" sha1="438dd4cc2ff509adec93b1f2e673f999edead366" />
+		<disk name="dor best selection vol. 2 (gekan) (disc 2)" sha1="fce650e170bd57aa47f49ad5301ecc80467cf07e" />
+	</machine>
+	<machine name="dorbestj">
+		<description>DOR Best Selection Joukan</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="dor best selection vol. 1 (joukan) (disc 1)" sha1="4333ed2d779890bddeef272b3ca4297b712fdf99" />
+		<disk name="dor best selection vol. 1 (joukan) (disc 2)" sha1="f9dc66b8a43d487d35e1e46d6a192efc6bcb9ada" />
+	</machine>
+	<machine name="dorse93">
+		<description>DOR Special Edition '93</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="dor se (special edition) '93 (japan)" sha1="effc100b0dc1850e840390a8ae52b7b5e80af821" />
+		<disk name="dor special edition '93 (alt)" sha1="7c8ed53fc332b99eebdeb81933184b85b424a1ac" />
+	</machine>
+	<machine name="dpszenbu">
+		<description>D.P.S. Zenbu</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="d.p.s. zenbu (japan)" sha1="de2e12b3299d593641e6df9a722e1f3aa5f19c08" />
+	</machine>
+	<machine name="dreamy">
+		<description>Yumeutsutsu - Dreamy</description>
+		<year>1992</year>
+		<publisher>Megami</publisher>
+		<disk name="yumeutsutsu - dreamy (japan)" sha1="cd2a18850570ec92b2ae79556db19d2ff4adb73e" />
+	</machine>
+	<machine name="drgnlore">
+		<description>Dragon Lore</description>
+		<year>1996</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<disk name="dragon lore (disc 1)" sha1="50a8f19aa42fc307a6aebe3ae80cf139d49c2eed" />
+		<disk name="dragon lore (disc 2)" sha1="0251559705b17242ccf0f833642b0595f4cc45fc" />
+	</machine>
+	<machine name="dstat_09">
+		<description>Disc Station Vol. 09</description>
+		<year>1995</year>
+		<publisher>コンパイル (Compile)</publisher>
+		<disk name="disc station vol. 9 (japan)" sha1="664455bba9d9830783a76b41f816ffe27c537835" />
+	</machine>
+	<machine name="dstat_10">
+		<description>Disc Station Vol. 10</description>
+		<year>1996</year>
+		<publisher>コンパイル (Compile)</publisher>
+		<disk name="disc station vol. 10 (japan)" sha1="2b998518d8f2eddfd65b7871ae5a94e11d7b6b11" />
+	</machine>
+	<machine name="dstat_11">
+		<description>Disc Station Vol. 11</description>
+		<year>1996</year>
+		<publisher>コンパイル (Compile)</publisher>
+		<disk name="disc station vol. 11 (japan)" sha1="a8aff0cb5c0bf8244939a91b3fb3fe3cd07bdb36" />
+	</machine>
+	<machine name="duelsucp">
+		<description>Duel Succession Plus Kit</description>
+		<year>1996</year>
+		<publisher>呉ソフトウエア工房 (Kure Software Koubou)</publisher>
+		<disk name="duel succession plus kit (1996)(kure software koubou)" sha1="4eafebe00b9880eb31bcb05acee72e7c79449839" />
+	</machine>
+	<machine name="eimmy">
+		<description>Eimmy to Yobanaide</description>
+		<year>1995</year>
+		<publisher>シーズウェア (C's Ware)</publisher>
+		<disk name="eimmy to yobanaide - please don't call me eimmy (japan)" sha1="15ba4ebd4f932f9b3406e40b439172a7680222f7" />
+	</machine>
+	<machine name="elhazard">
+		<description>El-Hazard - The Magnificent World</description>
+		<year>1996</year>
+		<publisher>パイオニアＬＤＣ (Pioneer LDC)</publisher>
+		<disk name="shinpi no sekai el-hazard - el-hazard - the magnificent world (japan)" sha1="0d4e2b7c7830dcca684f48c6bcdbd10e5ddc93be" />
+	</machine>
+	<machine name="elmknigt">
+		<description>Elm Knight - A Living Body Armor</description>
+		<year>1993</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<disk name="elm knight - a living body armor" sha1="235c5401c1d12328c1393c86ad993c2c78769dc9" />
+	</machine>
+	<machine name="emit1">
+		<description>Emit Vol. 1 - Toki no Maigo</description>
+		<year>1994</year>
+		<publisher>光栄 (Koei)</publisher>
+		<disk name="emit vol. 1 - toki no maigo (japan)" sha1="09e0a12a6ca3e7be0b50c6d4ee6aa38823d3062a" />
+	</machine>
+	<machine name="emit2">
+		<description>Emit Vol. 2 - Inochigake no Tabi</description>
+		<year>1995</year>
+		<publisher>光栄 (Koei)</publisher>
+		<disk name="emit2" sha1="cc9fe97313db7a83fd3a5ddc9c971b0d113f2ee6" />
+	</machine>
+	<machine name="emit3">
+		<description>Emit Vol. 3 - Watashi ni Sayonara o</description>
+		<year>1995</year>
+		<publisher>光栄 (Koei)</publisher>
+		<disk name="emit3" sha1="1024e6efadc1b4163a3d7f07421da885c4d42a8b" />
+	</machine>
+	<machine name="etemible">
+		<description>Etemible - Tenjou Mukyuu</description>
+		<year>1995</year>
+		<publisher>グローディア (Glodia)</publisher>
+		<disk name="etemible - tenjou mukyuu (japan)" sha1="0c8f0badf5a5dbd86ad56c5302d5db519d828fd5" />
+	</machine>
+	<machine name="etsuraku">
+		<description>Etsuraku no Gakuen</description>
+		<year>1994</year>
+		<publisher>シーズウェア (C's Ware)</publisher>
+		<disk name="etsuraku no gakuen" sha1="0c8f0badf5a5dbd86ad56c5302d5db519d828fd5" />
+	</machine>
+	<machine name="f15se3">
+		<description>F15 Strike Eagle III</description>
+		<year>1995</year>
+		<publisher>スペクトラムホロバイトジャパン (Spectrum HoloByte Japan)</publisher>
+		<disk name="f-15 strike eagle iii (japan)" sha1="9b830e4c843f50c09480976a577638200ebe5f5b" />
+	</machine>
+	<machine name="f117a">
+		<description>F-117A Nighthawk - Stealth Fighter 2.0</description>
+		<year>1995</year>
+		<publisher>スペクトラムホロバイトジャパン (Spectrum HoloByte Japan)</publisher>
+		<disk name="f117mlti" sha1="c46bbe48c829b98d7ee806b4b242a8fd80af20f8" />
+	</machine>
+	<machine name="fh2tag">
+		<description>Finish Hold 2 - Tag</description>
+		<year>1996</year>
+		<publisher>システムソフト (SystemSoft)</publisher>
+		<disk name="finish hold 2 - tag (japan)" sha1="a553455dae0a6efa8b2b424d24c1e611bd03a10e" />
+	</machine>
+	<machine name="fukushuu">
+		<description>Fukushuu</description>
+		<year>1997</year>
+		<publisher>クラウド (Crowd)</publisher>
+		<disk name="fukusyuu" sha1="4b1857fda1d0dde09bdbc6dc95950953dd3e616a" />
+	</machine>
+	<machine name="funnybee">
+		<description>Uchuu Kaitou Funny Bee</description>
+		<year>1994</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="uchuu kaitou funny bee" sha1="da9c5874aaeccbf120ab9593a63a7aa1f87b4b27" />
+	</machine>
+	<machine name="gakubaku">
+		<description>Gakuen Bakuretsu Tenkousei!</description>
+		<year>1996</year>
+		<publisher>ジックス (ZyX)</publisher>
+		<disk name="gakuen bakuretsu tenkousei (japan)" sha1="1ad336ca6f7d057d662a0c8864094cb4e37f2d2b" />
+	</machine>
+	<machine name="gakuking">
+		<description>Gakuen King: Hidehiko Gakkou wo Tsukuru</description>
+		<year>1996</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="gakuen king" sha1="c02be1aa661a23f536e8ccb2413e0cc528226757" />
+	</machine>
+	<machine name="galpani2">
+		<description>GalPani II</description>
+		<year>1996</year>
+		<publisher>毎日コミュニケーションズ (Mainichi Communications)</publisher>
+		<disk name="gal pani 2" sha1="38be511a795126b1e49a155cf952c587917b6d24" />
+	</machine>
+	<machine name="galpani">
+		<description>GalPani</description>
+		<year>1995</year>
+		<publisher>クレオ・アイ (Creo I)</publisher>
+		<disk name="galpani" sha1="a6ef11bd97ac8917eee3ef7af50b516d7d538e17" />
+	</machine>
+	<machine name="gamega">
+		<description>Game CD GA-ME-GA</description>
+		<year>1994?</year>
+		<publisher>システムソフト (SystemSoft)</publisher>
+		<disk name="ga-me-ga" sha1="55c3b0a0bcbb8eeb261727a04a582a9c4d90e0d7" />
+	</machine>
+	<machine name="gedou">
+		<description>Gedou Kyoushi - Ryoujoku Shuukan</description>
+		<year>1997</year>
+		<publisher>ミスティ (Misty)</publisher>
+		<disk name="gedou" sha1="d207337bf1857f79e3b0001c606fa46eb3dbbeac" />
+	</machine>
+	<machine name="ginga4">
+		<description>Ginga Eiyuu Densetsu IV</description>
+		<year>1994</year>
+		<publisher>ボーステック (Bothtec)</publisher>
+		<disk name="ginga eiyuu densetsu iv (japan)" sha1="e9f9644dcb26bed7863de9024618a3449332218a" />
+	</machine>
+	<machine name="giripara">
+		<description>Giri Giri Paradise</description>
+		<year>1998</year>
+		<publisher>メイビーソフト (May-Be Soft)</publisher>
+		<disk name="giri giri paradise (1996)(may-be soft)" sha1="64ca8afffa9f4eca71c6a45f65be7c26f92c2867" />
+	</machine>
+	<machine name="gitenmt">
+		<description>Giten Megami Tensei - Tokyo Mokushiroku</description>
+		<year>1997</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<disk name="giten megami tensei - tokyo mokushiroku (japan)" sha1="5ec487543a5e2b6dbf0d8e2b78c7d36307d60599" />
+	</machine>
+	<machine name="gokiigo">
+		<description>Gokichi-kun Series - Igo Kinenban CD</description>
+		<year>1995</year>
+		<publisher>ジーエーエム　(GAM)</publisher>
+		<disk name="gokichi-kun series igo kinenban cd" sha1="4c0f6a573a3b6ee7bd6305e9ba223cd3f731b948" />
+	</machine>
+	<machine name="guardrec">
+		<description>Guardian Recall - Shugojuu Shoukan</description>
+		<year>1996</year>
+		<publisher>アグミックス (Agumix)</publisher>
+		<disk name="guardian recall - shugojuu shoukan (japan)" sha1="f086edf385872d78153256bfeef0562d6354ecc7" />
+		<disk name="guardian recall - shugojuu shoukan (japan) (special cd) (bundled with [pc98] guardian recall - shugojuu shoukan)" sha1="9b6947d876be88b330b56cac3c933de09b932d96" />
+	</machine>
+	<machine name="gunblaze">
+		<description>Gunblaze</description>
+		<year>1994</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="gunblaze" sha1="2ef094206014ebbe9606e2eca117779e833bd1eb" />
+	</machine>
+	<machine name="guynarck">
+		<description>GuynaRock R</description>
+		<year>1998</year>
+		<publisher>ソニア (Sogna)</publisher>
+		<disk name="guynarock r" sha1="6c2c417960ce6df8b88ae2f69b77f4ab1bf922a3" />
+	</machine>
+	<machine name="hanakiok2">
+		<description>Hana no Kioku - Dainishou</description>
+		<year>1997</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="hana no kioku - dainishou (japan)" sha1="1a26c741efb00389dae5935792ef78d0a199752e" />
+	</machine>
+	<machine name="hanakiok">
+		<description>Hana no Kioku</description>
+		<year>1995</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="hana no kioku (japan)" sha1="2731913e69aca9b1d9c39612e08143a131882291" />
+	</machine>
+	<machine name="hanapon">
+		<description>Hanafuda de Pon!</description>
+		<year>1996</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="hanafuda de pon" sha1="e6c9322b57da82c08ac7a7d91e50771214820806" />
+	</machine>
+	<machine name="heartron">
+		<description>Heart de Ron!!</description>
+		<year>1995</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="heart de ron" sha1="1c95cf153e055068b71f8fd6fffe760d1ddd2ac0" />
+	</machine>
+	<machine name="henring">
+		<description>Henshin Ring</description>
+		<year>1996</year>
+		<publisher>マイアミソフト (Miamisoft)</publisher>
+		<disk name="henshin ring" sha1="a1464fd45cc71aaf9705c6d8ee2859770317ff2d" />
+	</machine>
+	<machine name="hiiragik">
+		<description>Hiiragizaka no Kyuukan</description>
+		<year>1996</year>
+		<publisher>ユーミソフト (U-me Soft)</publisher>
+		<disk name="hiiragizaka no kyuukan" sha1="9ea024158b92b9079b33ac449bd6fb14d0a9de93" />
+	</machine>
+	<machine name="honna2">
+		<description>Running Girls - Hashiri Onna II + Rance 4.1 / 4.2 Hint Disk</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="running girls - hashiri onna ii (japan)" sha1="9dc4f42919ff2e0f63c3d70064f87d98c0ea1b9f" />
+	</machine>
+	<machine name="hoshisn3">
+		<description>Hoshi no Suna Monogatari 3</description>
+		<year>1995</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="hoshi no suna monogatari 3 (japan)" sha1="f1e43060237558610d7f924e6c0d8fc4ff5ed39f" />
+	</machine>
+	<machine name="hyouiten">
+		<description>Hyoui Tengoku</description>
+		<year>1997</year>
+		<publisher>マイアミソフト (Miamisoft)</publisher>
+		<disk name="hyoui tengoku" sha1="65efb7e0ede7d81b954c86494c47d3f95186801c" />
+	</machine>
+	<machine name="if2">
+		<description>if 2 - Invitations from Fantastic Stories</description>
+		<year>1993</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="if 2 - invitations from fantastic stories (japan)" sha1="aab5838de5a0e92d8a887e075f913aed0acdf18d" />
+	</machine>
+	<machine name="if3">
+		<description>if 3 - Invitations from Fantastic Stories</description>
+		<year>1995</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="if 3 - invitations from fantastic stories (japan)" sha1="3d9672f8bcf7d558fd532ddefd3bc0dfa14e816a" />
+	</machine>
+	<machine name="if123">
+		<description>if 1-2-3 CD Collection</description>
+		<year>1996</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="if 1-2-3 cd collection (japan)" sha1="cd0600c3e1d2cd68f87404054b20eaed712af533" />
+	</machine>
+	<machine name="if">
+		<description>if - Invitations from Fantastic Stories</description>
+		<year>1993</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="if - invitations from fantastic stories (japan)" sha1="a3963c710a9476b96933976e6dc716b73d2da054" />
+	</machine>
+	<machine name="inhearth">
+		<description>Inherit the Earth - Arashi no Orb</description>
+		<year>1995</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<disk name="inherit" sha1="b81d418d63983bd1e930a68c36b185b9acff71fa" />
+	</machine>
+	<machine name="innotour">
+		<description>Innocent Tour</description>
+		<year>1995</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<disk name="innocent tour (japan)" sha1="48c80dcd31b1c35c917338b0427305834e5ee917" />
+	</machine>
+	<machine name="jinmon">
+		<description>Jinmon Yuugi</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="jinmon yuugi (japan)" sha1="d9c1069b6c3b9f9490c8568f19352669d632630c" />
+	</machine>
+	<machine name="jorogumo">
+		<description>Jorougumo - Jubaku no Dorei-tachi</description>
+		<year>1997</year>
+		<publisher>PIL</publisher>
+		<disk name="jorogumo" sha1="384137cbd76e656d19bfad56f55bacbd432b1f3a" />
+	</machine>
+	<machine name="kanako">
+		<description>Kanako</description>
+		<year>1996</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="kanako (japan)" sha1="30f45b9d9d5f408db405d3c1a092f6e562e1606c" />
+	</machine>
+	<machine name="kchoujin">
+		<description>Kousoku Choujin</description>
+		<year>1996</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="kousoku choujin (japan)" sha1="f79595a2edc07e16038e363862ede078448461f1" />
+	</machine>
+	<machine name="kindanke">
+		<description>Kindan no Ketsuzoku</description>
+		<year>1993</year>
+		<publisher>シーズウェア (C's Ware)</publisher>
+		<disk name="kindan no ketsuzoku" sha1="589dfff7b733335530a19f3a88a7cdda91826187" />
+	</machine>
+	<machine name="knjland3">
+		<description>Kanji Land 3-nen</description>
+		<year>1995</year>
+		<publisher>富士通大分ソフトウェアラボラトリ (Fujitsu Ooita Software Laboratory)</publisher>
+		<disk name="kanji land 3-nen (japan)" sha1="fb7b3684231bde65a285fe528b6c42f0be6f74cd" />
+	</machine>
+	<machine name="kokorak2">
+		<description>Koko wa Rakuensou 2</description>
+		<year>1996</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="koko wa rakuensou 2 (japan)" sha1="cabcebaeb62a2f47fb5d95faf101910732baf369" />
+	</machine>
+	<machine name="kokoraku">
+		<description>Koko wa Rakuensou</description>
+		<year>1996</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="koko wa rakuensou (japan)" sha1="d486b113f37ed11e4e5053a014da8e5a35831800" />
+	</machine>
+	<machine name="kouyoro">
+		<description>Kousoku - Yorokobi no Aegi</description>
+		<year>1996</year>
+		<publisher>ペルシャソフト (Persian Soft)</publisher>
+		<disk name="kousoku - yorokobi no aegi (japan)" sha1="93ece9c4353e4228e1eda55afc394b9d1d056977" />
+	</machine>
+	<machine name="kusuriyu">
+		<description>Kusuriyubi no Kyoukasho</description>
+		<year>1996</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="kusuriyubi no kyoukasho (japan)" sha1="3abab66cb04e640a92d745f6d63867e756bb8771" />
+	</machine>
+	<machine name="kyrandia2">
+		<description>Kyrandia II - The Hand of Fate</description>
+		<year>1995</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<disk name="kyrandia ii - the hand of fate (japan)" sha1="88ec7b26f9acd111150a46b1460e466d9bbb28aa" />
+	</machine>
+	<machine name="kyrandia">
+		<description>The Legend of Kyrandia</description>
+		<year>1993</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<disk name="legend of kyrandia, the (japan)" sha1="c5b8ccb2a80a2053c0cb1ae0b0546ba5a0fe6677" />
+	</machine>
+	<machine name="lemoncc">
+		<description>Lemon Cocktail Collection</description>
+		<year>1993</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<disk name="lemon cocktail collection (japan)" sha1="a17512ebc210b781310d79a35cf8da325ed1374a" />
+	</machine>
+	<machine name="lesserm">
+		<description>Lesser Mern - Special Director's Edition</description>
+		<year>1992</year>
+		<publisher>パンサーソフトウェア (Panther Software)</publisher>
+		<disk name="lesser mern - special director's edition (japan)" sha1="9ecf32d0dfe54a3781e822e30ac40ab971ba03b2" />
+	</machine>
+	<machine name="letspir">
+		<description>Let's! Pirates - Trouble Vacances</description>
+		<year>1997</year>
+		<publisher>ジックス (ZyX)</publisher>
+		<disk name="lptv" sha1="a866ed50254551455d5a646e87c5d10eeeea0329" />
+	</machine>
+	<machine name="links386">
+		<description>Golf Links 386 Pro</description>
+		<year>1995</year>
+		<publisher>サイベル (Cybelle)</publisher>
+		<disk name="golf links 386 pro (japan)" sha1="c0eb847d7168e6209482b19a270bd81d40383137" />
+	</machine>
+	<machine name="lipsadv3">
+		<description>Lip 3 - Lipstick Adventure 3</description>
+		<year>1993</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="lip 3 - lipstick adventure 3 (japan)" sha1="c0507c340b55c1fa08a8080e0fc3d53d271f6a1e" />
+	</machine>
+	<machine name="lodoss2">
+		<description>Record of Lodoss War II - Goshiki no Maryuu</description>
+		<year>1994</year>
+		<publisher>ハミングバード (HummingBird)</publisher>
+		<disk name="record of lodoss war - lodoss-tou senki ii - goshiki no maryuu (japan)" sha1="0c0dd3d5c3852c789d63be240b72ff7035189456" />
+	</machine>
+	<machine name="lodoss">
+		<description>Lodoss Tou Senki CD - Haiiro no Majo</description>
+		<year>1993</year>
+		<publisher>ハミングバード (HummingBird)</publisher>
+		<disk name="lodoss tosenki cd" sha1="6dfa3b7f52a663ba34632e1847c94a59b482f48b" />
+	</machine>
+	<machine name="loh3">
+		<description>The Legend of Heroes III - Shiroki Majo Renewal</description>
+		<year>1994</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="the legend of heroes (eiyuu densetsu) iii - shiroki majo renewal" sha1="ff8c8cc2a3792aefb2af300bdc9b3cbd29759521" />
+	</machine>
+	<machine name="loh4">
+		<description>The Legend of Heroes IV - Akai Shizuku</description>
+		<year>1995</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="akai shizuku - the legend of heroes iv (japan)" sha1="3524c9b012c4b96bbae03220088bbadbfed28898" />
+	</machine>
+	<machine name="loveesc">
+		<description>Love Escalator</description>
+		<year>1998</year>
+		<publisher>海月製作所 (Umitsuki Seisakusho)</publisher>
+		<disk name="love escalator (japan)" sha1="aaa58013d9b02490c304bbdbc69b3ac5afc7c1e4" />
+	</machine>
+	<machine name="macrslcp">
+		<description>Chou Jikuu Yousai Macross - SkullLeader Complete Pack</description>
+		<year>1995</year>
+		<publisher>ファミリーソフト (Family Soft)</publisher>
+		<disk name="chou jikuu yousai macross - skullleader complete pack" sha1="a3c9c3e798c84ca64fc5dfbc86c39eef427bc6ad" />
+	</machine>
+	<machine name="magipani">
+		<description>Magical Panic</description>
+		<year>1996</year>
+		<publisher>パールソフト (Pearl Soft)</publisher>
+		<disk name="magical panic (1996)(pearl soft)" sha1="a2541c83e56896f35284444e0f4f3d28c43be230" />
+	</machine>
+	<machine name="makcandy">
+		<description>Making Candy - Oki ni Mesumama</description>
+		<year>1996</year>
+		<publisher>きゅろっと (Curott)</publisher>
+		<disk name="making candy - oki ni mesumama (japan)" sha1="83517e67796b7703f1048ac39d40d623ab87c5c2" />
+	</machine>
+	<machine name="manadoko2">
+		<description>Manami no Doko made Iku no? 2 - Return of the Kuro Pack</description>
+		<year>1995</year>
+		<publisher>ウエンディマガジン (Wendy Magazine)</publisher>
+		<disk name="manami no doko made iku no 2 - return of the kuro pack (japan)" sha1="026662a39cda929bcc4b33110b0192f92f09d398" />
+	</machine>
+	<machine name="manpsy">
+		<description>Manji PSYyuuki</description>
+		<year>1995</year>
+		<publisher>ピー・エス・ディー (PSD)</publisher>
+		<disk name="manji psyyuuki (japan) (install cd-rom)" sha1="8b74e54e132db29ac164e4c5aef657b845fa5a6f" />
+	</machine>
+	<machine name="menzober">
+		<description>Menzoberranzan - Yami no Monshou</description>
+		<year>1995</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<disk name="menzoberranzan - yami no monshou (japan)" sha1="f2fe8f536daeb91c893caa33dd825f1d2157b1c2" />
+	</machine>
+	<machine name="mirage2">
+		<description>Mirage 2 - Torry, Neat &amp; Roan Fairladies in MagicLand</description>
+		<year>1994</year>
+		<publisher>ディスカバリー (Discovery)</publisher>
+		<disk name="mirage 2 - torry, neat &amp; roan fairladies in magicLand (japan)" sha1="22c46e6409b2ffa8423691d12340b189f2e24358" />
+	</machine>
+	<machine name="misato">
+		<description>Misato-chan no Yume Nikki</description>
+		<year>1997</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="misato-chan no yume nikki (japan)" sha1="7bf75a957370f0e09aa0aa5f1e56fb6e4bbad7aa" />
+	</machine>
+	<machine name="mjdepon">
+		<description>Mahjong de Pon!</description>
+		<year>1994</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="mahjong de pon (japan)" sha1="a6332b3d1f893621f25f035b538cb14a6e5d946e" />
+	</machine>
+	<machine name="mjfant2">
+		<description>Mahjong Gensoukyoku II - Mahjong Fantasia</description>
+		<year>1993</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="mahjong gensoukyoku ii - mahjong fantasia (japan)" sha1="23c1d0cdd8c96cda80d28ded8419f019d455e73d" />
+	</machine>
+	<machine name="mjfant3">
+		<description>Mahjong Gensoukyoku III - Mahjong Fantasia the 3rd Stage</description>
+		<year>1995</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="mahjong gensoukyoku iii - mahjong fantasia the 3rd stage (japan)" sha1="152dbdfdc7af5fb988ce5e2e582e60df4c28a8e5" />
+	</machine>
+	<machine name="mjpanic2">
+		<description>Waku Waku Mahjong Panic! 2 - Kokushi Musou</description>
+		<year>1996</year>
+		<publisher>フォアナイン (Fournine)</publisher>
+		<disk name="waku waku mahjong panic 2 - kokushi musou (japan)" sha1="20f4bd084f4e22a045a7365fe388981296fe1cfa" />
+	</machine>
+	<machine name="mlenergy2">
+		<description>Moonlight Energy 2</description>
+		<year>1996</year>
+		<publisher>インターハート (Inter Heart)</publisher>
+		<disk name="moonlight energy 2 (japan)" sha1="bdb61ff163d697a859353232a890b4911d5a8a63" />
+	</machine>
+	<machine name="mmagic4">
+		<description>Might and Magic - Clouds of Xeen</description>
+		<year>1993</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<disk name="might and magic - clouds of xeen (japan)" sha1="c8e213e391ecc1d0bd416450f48bf9fd8dfe4966" />
+	</machine>
+	<machine name="momagic">
+		<description>Master of Magic</description>
+		<year>1996</year>
+		<publisher>ローカス (Locus)</publisher>
+		<disk name="master of magic (japan)" sha1="055bd04d20a57a8a3ef70b906f80beecee67f6a3" />
+	</machine>
+	<machine name="moonchan">
+		<description>Moonlight-chan Rinshan</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="moonlight-chan rin shan (japan)" sha1="ad099754d15bc436ddec50130cd3d89253f6957e" />
+	</machine>
+	<machine name="msdet1">
+		<description>Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="msdet1" sha1="f21afa695d9f0402203cf9d3d5df79d4ac5b7527" />
+	</machine>
+	<machine name="msdet2">
+		<description>Ms. Detective File #2 - Sugata-naki Irainin</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="ms. detective #2 - sugatanaki iraisha" sha1="690aae46ced6211deae11aa007f908f80e2455c5" />
+	</machine>
+	<machine name="msquadro">
+		<description>Magical Squadron</description>
+		<year>1996</year>
+		<publisher>工画堂 (Kogado)</publisher>
+		<disk name="magical squadron (japan)" sha1="2c1f5648c6e32480f98f3264fbfe3edf996b3042" />
+		<disk name="magical squadron - uchuu-hen (japan) (bundled with [pc98] magical squadron)" sha1="959be07cbe47b2ae8e93eb7152d8b0299df58b51" />
+	</machine>
+	<machine name="mu">
+		<description>μ (mu)</description>
+		<year>1995</year>
+		<publisher>ハーベスト (Hervest)</publisher>
+		<disk name="mu" sha1="353751de4989a766b4157080fb1a58a4ea1394d9" />
+	</machine>
+	<machine name="mugenhoy">
+		<description>Mugen Houyou</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="mugen houyou (japan)" sha1="f4b29b770a6ef7fe40beff1c4c51061a0d20bebc" />
+	</machine>
+	<machine name="mujinmem">
+		<description>Mujintou Monogatari Memorial Version</description>
+		<year>1997</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<disk name="mmmv" sha1="356f8166c098430a6950ffb799e7162b8b1f1cac" />
+	</machine>
+	<machine name="mujintou">
+		<description>Mujintou Monogatari</description>
+		<year>1995</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<disk name="mujintou monogatari (japan)" sha1="4c3953dca5df12765fcf3b33c7cf18c8bb7b96cf" />
+	</machine>
+	<machine name="myhomed2">
+		<description>My Home Dream 2</description>
+		<year>1995</year>
+		<publisher>ビクターエンタテインメント (Victor Entertainment)</publisher>
+		<disk name="my home dream 2 (japan)" sha1="b398cdbc0ef8d0e4ac379cc6d686d82a68824400" />
+	</machine>
+	<machine name="necronom">
+		<description>Necronomicon</description>
+		<year>1994</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="necronomicon (japan)" sha1="34ac3eefba3fb0a8115303c646df8bafd7afc069" />
+	</machine>
+	<machine name="nevrland">
+		<description>Never Land</description>
+		<year>1996</year>
+		<publisher>チップス (Tips)</publisher>
+		<disk name="never land (japan)" sha1="af5e8a6f2a52a3593a6fe079712468e46e222bd0" />
+	</machine>
+	<machine name="nozoki">
+		<description>Ningen Konchuu - Nozoki</description>
+		<year>1997</year>
+		<publisher>ポイズンブレス (Poison Breath)</publisher>
+		<disk name="ningen konchuu - nozoki (japan)" sha1="d5b589c28e9a39388c6db05b5919b511cbf62459" />
+	</machine>
+	<machine name="ohkitsun">
+		<description>Oh! Kitsune-sama</description>
+		<year>1996</year>
+		<publisher>きゅろっと (Curott)</publisher>
+		<disk name="oh kitsune-sama" sha1="344195412be77a1953d6a2a79db5c8a9e8a56b41" />
+	</machine>
+	<machine name="onlyyou">
+		<description>Only You - Seikimatsu no Juliet-tachi</description>
+		<year>1996</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="only you - seikimatsu no juliet-tachi (japan)" sha1="407a0598c05a534b3846a36da21eb2b6b578e544" />
+	</machine>
+	<machine name="os2warp3">
+		<description>OS/2 Warp V3 - Nihongo-ban</description>
+		<year>1995</year>
+		<publisher>NEC / IBM</publisher>
+		<disk name="nec pc-9800 series software library os2 warp v3-japanese version" sha1="1d7f2f166016a665091ffae6e759541a76d69485" />
+	</machine>
+	<machine name="panzerg">
+		<description>Panzer General</description>
+		<year>1995</year>
+		<publisher>エーエムティーサヴァン (AMT Savan)</publisher>
+		<disk name="panzer general" sha1="51ba8a8c5e443271d745b98a80325e819e04a3d8" />
+	</machine>
+	<machine name="pgatour3">
+		<description>PGA Tour Golf III</description>
+		<year>1995</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="pga tour golf iii" sha1="e16544b2b60c1fbc7f4a4c3c8f76111b5ff02b34" />
+	</machine>
+	<machine name="phobos">
+		<description>Phobos</description>
+		<year>1995</year>
+		<publisher>姫屋ソフト (Himeya Soft)</publisher>
+		<disk name="phobos (japan)" sha1="3ef091b02523c332e6c423b02618022a01b8a46b" />
+	</machine>
+	<machine name="photogen">
+		<description>Photo Genic</description>
+		<year>1997</year>
+		<publisher>サンソフト (Sunsoft)</publisher>
+		<disk name="photo genic (japan)" sha1="407a1029503fc66d6207e436000c47b1626e01a0" />
+	</machine>
+	<machine name="pilcasex">
+		<description>PILcaSEX</description>
+		<year>1996</year>
+		<publisher>PIL</publisher>
+		<disk name="pilcasex (japan)" sha1="9a2e11eb9b919af0111ae50a469a7ed662b276b1" />
+	</machine>
+	<machine name="pnauts">
+		<description>Policenauts</description>
+		<year>1994</year>
+		<publisher>コナミ (Konami)</publisher>
+		<disk name="policenauts (japan)" sha1="b753663d060934d3566f909e837419736f0efd0a" />
+	</machine>
+	<machine name="ponyant1">
+		<description>Ponytail Anthology Vol. 1</description>
+		<year>1996</year>
+		<publisher>ポニーテールソフト (Ponytail Soft)</publisher>
+		<disk name="ponytail anthology vol.1 (1996)(ponytail soft)" sha1="f3a7f92047589c0fa49d0b2d521eca263db3227d" />
+	</machine>
+	<machine name="ponyant2">
+		<description>Ponytail Anthology Vol. 2</description>
+		<year>1996</year>
+		<publisher>ポニーテールソフト (Ponytail Soft)</publisher>
+		<disk name="ponytail anthology vol.2 (1996)(ponytail soft)" sha1="d2772569ab7ac6c17cdeea5e689cd9f4042fbadc" />
+	</machine>
+	<machine name="ponyant3">
+		<description>Ponytail Anthology Vol. 3</description>
+		<year>1996</year>
+		<publisher>ポニーテールソフト (Ponytail Soft)</publisher>
+		<disk name="ponytail anthology vol.3 (1996)(ponytail soft)" sha1="292111ab151ebe8e405507491a2f9e4ef2a57842" />
+	</machine>
+	<machine name="ppersia2">
+		<description>Prince of Persia 2 - The Shadow &amp; The Flame</description>
+		<year>1995</year>
+		<publisher>インタープログ (Interprog)</publisher>
+		<disk name="prince of persia 2 - the shadow &amp; the flame (japan)" sha1="ddf41119a1e3d53122c58ba99b1c7fc7ab33098f" />
+	</machine>
+	<machine name="probb96">
+		<description>Professional Baseball 1996</description>
+		<year>1996</year>
+		<publisher>ビクター音楽産業 (Victor Musical Industries)</publisher>
+		<disk name="probb96" sha1="eed3db3977df444b4f5fb8d66211f6728059babc" />
+	</machine>
+	<machine name="prostudgr">
+		<description>Pro Student G (ALS-0010)</description>
+		<year>1994</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="pro student g (japan) (rerelease)" sha1="11bc5195ccaf557fe17a349eb8284c78e08e29ac" />
+	</machine>
+	<machine name="psydet1">
+		<description>Psychic Detective Series Vol. 1 - Invitation - Kage kara no Shoutaijou</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="psychic detective series vol. 1 - invitation (japan) (remake)" sha1="5616c229de4b9c890af7955a1de4e34106f139e8" />
+	</machine>
+	<machine name="psydet2">
+		<description>Psychic Detective Series Vol. 2 - Memories</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="psychic detective series vol. 2 - memories" sha1="6e70ada7a531e06daa3c5a8f4ade2a03329c8339" />
+	</machine>
+	<machine name="psydet3">
+		<description>Psychic Detective Series Vol. 3 - Aya</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="psychic detective series vol. 3 - aya" sha1="5fc758d36d0a6dda4a1b6f9c7d1bc8aaa5024024" />
+	</machine>
+	<machine name="psydet4">
+		<description>Psychic Detective Series Vol. 4 - Orgel</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="psychic detective series vol. 4 - orgel (japan) (remake)" sha1="60b1d1a9085734c7d86d9d88c1590610b179567c" />
+	</machine>
+	<machine name="puyopuy2">
+		<description>Puyo Puyo Tsuu</description>
+		<year>1995</year>
+		<publisher>コンパイル (Compile)</publisher>
+		<disk name="puyo puyo tsuu (japan)" sha1="1c4ef6ec62de5b092363538fcb66e4c54e3988a5" />
+	</machine>
+	<machine name="racespc">
+		<description>Buzz Aldrin's Race into Space - Uchuu e no Chousen</description>
+		<year>1995</year>
+		<publisher>ビクター音楽産業 (Victor Musical Industries)</publisher>
+		<disk name="buzz aldrin's race into space - uchuu e no chousen (japan)" sha1="9e27f7cdad3ba343bcf0c70812b1f86d86ad56a5" />
+	</machine>
+	<machine name="raidy2">
+		<description>Ikazuchi no Senshi Raidy 2 (1996-08-01)</description>
+		<year>1996</year>
+		<publisher>ジックス (ZyX)</publisher>
+		<disk name="ikazuchi no senshi raidy 2 (japan)" sha1="f0d4a35993be2159812a860e142f6a2eec92a129" />
+		<disk name="ikazuchi no senshi raidy ii" sha1="798073ac9329aaf2a956ca30490914d46424a28d" />
+	</machine>
+	<machine name="raidy">
+		<description>Ikazuchi no Senshi Raidy</description>
+		<year>1994</year>
+		<publisher>ジックス (ZyX)</publisher>
+		<disk name="ikazuchi no senshi raidy (japan)" sha1="3a0040e1c06f2481b1b2703690e23d78c3707457" />
+	</machine>
+	<machine name="ram1">
+		<description>RAM 1 - New Evolution Organize</description>
+		<year>1996</year>
+		<publisher>GMF</publisher>
+		<disk name="r-a-m 1 - new evolution organize (japan)" sha1="046e2c9d5ab471e40b285c1e4e869c94af18380d" />
+	</machine>
+	<machine name="rance41">
+		<description>Rance 4.1 - Okusuri Koujou wo Sukue!</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="rance 4.1" sha1="5eb36774483fe9c3e7ba5745aaa336540b07f402" />
+	</machine>
+	<machine name="rance42">
+		<description>Rance 4.2 - Angel-gumi</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="rance 4.2" sha1="e61f331f1a8f026f1a88325a4497eeb4d4c06446" />
+	</machine>
+	<machine name="ribbon">
+		<description>Ribbon</description>
+		<year>1995</year>
+		<publisher>ボンびいボンボン (Bonbee Bonbon)</publisher>
+		<disk name="ribbon (japan)" sha1="7a6e094e6ae39308d1050ba532d76d641997a53d" />
+	</machine>
+	<machine name="ringout">
+		<description>Ring Out!!</description>
+		<year>1995</year>
+		<publisher>ジックス (ZyX)</publisher>
+		<disk name="ring-out (japan)" sha1="c80d9d2c423bf3886ef0fc657d8cea89026040fa" />
+	</machine>
+	<machine name="rinkan">
+		<description>Rinkan Gakkou</description>
+		<year>1996</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="rinkan gakkou (japan)" sha1="1cc77c9ca07d7cf8364431442367efd6b1cebc89" />
+	</machine>
+	<machine name="rookies">
+		<description>Rookies</description>
+		<year>1997</year>
+		<publisher>海月製作所 (Umitsuki Seisakusho)</publisher>
+		<disk name="rookies (1997)(umitsuki production)" sha1="fe6225bfabb5d71f85fc185188438c70408d8720" />
+	</machine>
+	<machine name="rpgtd982o">
+		<description>LOGiN Disk &amp; Book - RPG Tsukuuru Dante98 II (1996-07-02)</description>
+		<year>1996</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<disk name="login cd-rom &amp; book series - rpg tsukuuru dante98 ii (1996-07-02 version)" sha1="5e58e309599c994569c33c01533dd9e51889452b" />
+	</machine>
+	<machine name="rpgtd982">
+		<description>LOGiN Disk &amp; Book - RPG Tsukuuru Dante98 II (1996-08-22)</description>
+		<year>1996</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<disk name="rpg tkool dante98 ii (japan)" sha1="23d11194a580ff8cb12fb7a9cff9d550362665f1" />
+	</machine>
+	<machine name="ruriiro">
+		<description>Ruriiro no Yuki</description>
+		<year>1997</year>
+		<publisher>アイル (Ail)</publisher>
+		<disk name="ruriiro no yuki" sha1="63b8c67446f176743d382ec6b1cd2418d3066612" />
+	</machine>
+	<machine name="rxanad2r">
+		<description>Revival Xanadu 2 Remix</description>
+		<year>1996</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="xanaduremix" sha1="da5759c5bb9f637ac59ef1b2929873eee7d9674a" />
+	</machine>
+	<machine name="rxanadu">
+		<description>Revival Xanadu</description>
+		<year>1996</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<disk name="revival xanadu" sha1="d4abe0f3d92d81ae1e104c329098cfb284f7378a" />
+	</machine>
+	<machine name="ryouki1">
+		<description>Ryouki no Ori (1996-09-23)</description>
+		<year>1996</year>
+		<publisher>日本プランテック (Nihon Plantech)</publisher>
+		<disk name="ryouki no ori 1 (1996)(plantech-zerosystem)" sha1="74ada84afb7616be6e54f061e174fff1f94f6f2e" />
+		<disk name="ryouki no ori (japan)" sha1="21d30c4a31d9c04ad89f613c561453aea8d49e08" />
+	</machine>
+	<machine name="ryouki2">
+		<description>Ryouki no Ori Dai-2-Shou</description>
+		<year>1996</year>
+		<publisher>日本プランテック (Nihon Plantech)</publisher>
+		<disk name="ryouki no ori 2 (1997)(plantech-zerosystem)" sha1="636b1baf224a69a2d249b8500057b2d018395ab9" />
+	</machine>
+	<machine name="saintdia">
+		<description>Saint Diary - Kiyoka-chan no Nikki</description>
+		<year>1996</year>
+		<publisher>デザイアー (Desire)</publisher>
+		<disk name="saint diary - kiyoka-chan no nikki (japan)" sha1="832e546c489a29c3986c8a7022a3de43b229ea1f" />
+	</machine>
+	<machine name="sakumori">
+		<description>Sakura no Mori</description>
+		<year>1995</year>
+		<publisher>アクティブ (Active)</publisher>
+		<disk name="sakura no mori (japan)" sha1="63f2a22197644867cd3374936716e187cf02e44d" />
+	</machine>
+	<machine name="samykou">
+		<description>Mahou Shoujo Pretty Samy - Kouhen</description>
+		<year>1996</year>
+		<publisher>ＡＩＣスピリッツ (AIC Spirits)</publisher>
+		<disk name="mahou shoujo pretty samy - kouhen (japan)" sha1="89bb709a9c6f6abe1c17589998390e2e47ee6ef1" />
+	</machine>
+	<machine name="samyzen">
+		<description>Mahou Shoujo Pretty Samy - Zenpen</description>
+		<year>1995</year>
+		<publisher>ＡＩＣスピリッツ (AIC Spirits)</publisher>
+		<disk name="mahou shoujo pretty samy - zenpen (japan)" sha1="046b59ec30eed04c9371b85a95310d66ca225062" />
+	</machine>
+	<machine name="sangoku5">
+		<description>Sangokushi V</description>
+		<year>1995</year>
+		<publisher>光栄 (Koei)</publisher>
+		<disk name="sangokushi v (japan)" sha1="b65e37d28958a338ceb51181b508e25f739341ad" />
+	</machine>
+	<machine name="sayonara">
+		<description>Sayonara no Mukougawa</description>
+		<year>1997</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="sayonara no mukougawa (japan)" sha1="b2b13c14d2099ff673506b71c85947f5e2ddb5b4" />
+	</machine>
+	<machine name="schwarex">
+		<description>Schwarzschild EX - Tessa no Seigun</description>
+		<year>1995</year>
+		<publisher>工画堂 (Kogado)</publisher>
+		<disk name="schwarzschild ex - tessa no seigun (japan)" sha1="97e4175681789c132342f2ca82e1c56b41fcad6c" />
+	</machine>
+	<machine name="schwargx">
+		<description>Schwarzschild GX - Sabita Sousei</description>
+		<year>1997</year>
+		<publisher>工画堂 (Kogado)</publisher>
+		<disk name="schwarzschild gx - sabita sousei (japan)" sha1="acb0f3a6c6c9ba51614a6ade9c6bcde6cb075097" />
+	</machine>
+	<machine name="scruisr2">
+		<description>Star Cruiser II - The Odysseus Project</description>
+		<year>1994</year>
+		<publisher>JHV</publisher>
+		<disk name="star cruiser 2" sha1="7a2d5788f08400e37fafbb973c3bf1f9825ffe22" />
+	</machine>
+	<machine name="sela">
+		<description>Sela</description>
+		<year>1995</year>
+		<publisher>ハーベスト (Hervest)</publisher>
+		<disk name="sela_cd" sha1="25754595650901f2f3b1e83fb3e5de939292298e" />
+		<disk name="sela_music_cd" sha1="05071f5802ace17dd175bdcbb51815b93402055b" />
+	</machine>
+	<machine name="sensangl">
+		<description>Sensual Angels</description>
+		<year>1994</year>
+		<publisher>JHV</publisher>
+		<disk name="sensual angels" sha1="bf31f01ad4d713a0e95fc83f6d06091e3de59842" />
+	</machine>
+	<machine name="sex2">
+		<description>Sex 2</description>
+		<year>1996</year>
+		<publisher>アーヴォリオ (Aypio)</publisher>
+		<disk name="sex2" sha1="859751308cb66981d5249305442d7db912fdc631" />
+	</machine>
+	<machine name="shamhat">
+		<description>Shamhat - The Holy Circlet</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<disk name="shamhat the holy circlet (1994)(datewest)" sha1="410bb1ec998f3be917c10cb8c334f178af714a3a" />
+	</machine>
+	<machine name="silentsr">
+		<description>The Silent Service - Chinmoku no Kantai</description>
+		<year>1993</year>
+		<publisher>ジーエーエム　(GAM)</publisher>
+		<disk name="silent service, the - chinmoku no kantai (japan)" sha1="978b7938a3570b772ed6a3097ab10abae6a4a706" />
+	</machine>
+	<machine name="sofcom9">
+		<description>Sofcom CD-ROM No. 9 - Winter 1996</description>
+		<year>1996</year>
+		<publisher>ソフコム (Sofcom)</publisher>
+		<disk name="sofcom_9" sha1="d01434ca403896b811cc43931916cfa3e8c5f546" />
+	</machine>
+	<machine name="sorcerk">
+		<description>Sorcer Kingdom</description>
+		<year>1995</year>
+		<publisher>アーヴォリオ (Aypio)</publisher>
+		<disk name="sorcer kingdom (japan)" sha1="c09483e25034b1e94e5592f53d7152e9e62ff294" />
+	</machine>
+	<machine name="spdelic">
+		<description>Special &amp; Delicious! Original CD-ROM</description>
+		<year>1995</year>
+		<publisher>大洋図書 (Taiyou Tosho)</publisher>
+		<disk name="special &amp; delicious original cd-rom (japan)" sha1="ac0d2665aff1f5d0b135b682f79aa1fe59f0507c" />
+	</machine>
+	<machine name="srmp4f">
+		<description>Super Real Mahjong PIV Final</description>
+		<year>1995</year>
+		<publisher>ビング (Ving)</publisher>
+		<disk name="vhmd129" sha1="d2835704838c9521c2fb22f493d55528cde16ee8" />
+	</machine>
+	<machine name="strike">
+		<description>Strike Commander</description>
+		<year>1994</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="strike commander (japan)" sha1="e413b551d8c9eea3dbf04676fd9bb5041338af1d" />
+	</machine>
+	<machine name="strikpls">
+		<description>Strike Commander Plus</description>
+		<year>1995</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="strike commander plus" sha1="a70044bd61fad32b8a13462f8f3fda100caff265" />
+	</machine>
+	<machine name="sweetday">
+		<description>Sweet Days</description>
+		<year>1997</year>
+		<publisher>パールソフト (Pearl Soft)</publisher>
+		<disk name="sweet days cd (1997)(pearl soft)" sha1="9abd34bc8ad4896cfb14cd022865d8d0c7326ecb" />
+	</machine>
+	<machine name="syndicat">
+		<description>Syndicate</description>
+		<year>1994</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="syndicate (japan)" sha1="cd89a82b016f053cf2122f4862a36c7a1e3bca9f" />
+	</machine>
+	<machine name="takamiza">
+		<description>Takamizawa Kyousuke - Nekketsu!! Kyouiku Kenshuu</description>
+		<year>1995</year>
+		<publisher>ジックス (ZyX)</publisher>
+		<disk name="takamizawa kyousuke nekketsu kyouiku kenshuu (japan)" sha1="c221b1b63f145650bff7f050cc7040d5cb794887" />
+	</machine>
+	<machine name="takerud1">
+		<description>Takeru Doujin CD-ROM Vol. 1</description>
+		<year>199?</year>
+		<publisher>タケル (Takeru)</publisher>
+		<disk name="dojin_vol1" sha1="3d36a3eb869dbec523307ae75123fb3f3537663d" />
+	</machine>
+	<machine name="tamago">
+		<description>Tamago Ryouri</description>
+		<year>1995</year>
+		<publisher>ボンびいボンボン (Bonbee Bonbon)</publisher>
+		<disk name="tamago ryouri" sha1="afa7209ee58aa80d4304fef99d514bfd8eb8da6f" />
+	</machine>
+	<machine name="tania">
+		<description>Tania</description>
+		<year>1996</year>
+		<publisher>チップス (Tips)</publisher>
+		<disk name="tania (japan)" sha1="ff986d0facbe06ba42b2104ba01eaeafe1e0e382" />
+	</machine>
+	<machine name="teikets3">
+		<description>Teitoku no Ketsudan III</description>
+		<year>1996</year>
+		<publisher>光栄 (Koei)</publisher>
+		<disk name="teitoku no ketsudan iii (japan)" sha1="5846444828b8b9554ae5627e8c6ed68676b5d653" />
+	</machine>
+	<machine name="tfx">
+		<description>TFX - The Cutting Edge of Aerial Combat</description>
+		<year>1996</year>
+		<publisher>イマジニア (Imagineer)</publisher>
+		<disk name="tfx - the cutting edge of aerial combat" sha1="6eb1ea4cf8db8c1ebf3ef6824ac393f6a92dc27a" />
+	</machine>
+	<machine name="thehorde">
+		<description>The Horde</description>
+		<year>1995</year>
+		<publisher>アローマイクロテックス (Arrow Micro-Techs)</publisher>
+		<disk name="horde, the (japan)" sha1="92bee5ef1eb88ef43a47375771a6930db964d5c0" />
+	</machine>
+	<machine name="themeprk">
+		<description>Theme Park</description>
+		<year>1995</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="theme park (japan)" sha1="c5c1380be290b7e42c8d843dbe404626d4c5cacd" />
+	</machine>
+	<machine name="timestrp">
+		<description>Time Stripper Mako-chan</description>
+		<year>1996</year>
+		<publisher>フォスター (Foster)</publisher>
+		<disk name="time stripper mako-chan (japan)" sha1="2e730598f65f5bc1c024daaa2424e65af248d9c0" />
+	</machine>
+	<machine name="tokio2">
+		<description>Tokio 2 - Kaitaku Imin Boshuuchuu!</description>
+		<year>1995</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<disk name="tokyo 2 - kaitaku imin boshuuchuu (japan)" sha1="009ad8945385a51fd2e0bd1960a872297052396b" />
+	</machine>
+	<machine name="toshin2s">
+		<description>Toushin Toshi II - Soshite, Sorekara...</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="toushin toshi ii - soshite, sorekara... (japan)" sha1="9542b08dbd425e2cf877f80c077ce3bb160041f5" />
+	</machine>
+	<machine name="toshin2">
+		<description>Toushin Toshi II (1996-06-26)</description>
+		<year>1995</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<disk name="toushin2" sha1="780273f0ece50759e03589c3a7202eddfaf9eeb4" />
+		<disk name="toushin toshi ii (japan)" sha1="07bd94e84b639c3242438cffd1ed879eee7fa5dd" />
+	</machine>
+	<machine name="touchhrt">
+		<description>Touch My Heart</description>
+		<year>1995</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="touch my heart (japan)" sha1="c3719b827ad84648f6d77497cebe5c37ae6a593c" />
+	</machine>
+	<machine name="trigger2">
+		<description>Trigger 2</description>
+		<year>1995</year>
+		<publisher>ジックス (ZyX)</publisher>
+		<disk name="trigger 2 (japan)" sha1="80e939c23b7ccd2fdb53728a49c450f319feacd8" />
+	</machine>
+	<machine name="tunedhrt">
+		<description>Tuned Heart</description>
+		<year>1996</year>
+		<publisher>システムソフト (SystemSoft)</publisher>
+		<disk name="tuned heart (japan)" sha1="8022484f60e7afe9c348b7f1a979766968c9400f" />
+	</machine>
+	<machine name="ukiuki">
+		<description>Uki Uki Island</description>
+		<year>1997</year>
+		<publisher>フェアリーダスト (Fairy Dust)</publisher>
+		<disk name="uki uki island (japan)" sha1="10c9230e85cce608a87c57ec267c23e28286f0bd" />
+	</machine>
+	<machine name="ultima8">
+		<description>Ultima VIII - Pagan</description>
+		<year>1995</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="ultima viii - pagan (japan)" sha1="5219d6ab0b85a3bcb3068740a6898e350ecd1eff" />
+	</machine>
+	<machine name="umanari2">
+		<description>Umanari 1 Furlong Theater 2</description>
+		<year>1995</year>
+		<publisher>マイクロビジョン (Micro Vision)</publisher>
+		<disk name="umanari 1 furlong theater 2 (japan)" sha1="2cc44f03c2ab9e9971fdcc8d7eeda83390145a2f" />
+	</machine>
+	<machine name="usnf">
+		<description>U.S. Navy Fighters Gold</description>
+		<year>1996</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="usnf" sha1="00f67219ad9ac4dada4a5054f1a2ace5235682a8" />
+	</machine>
+	<machine name="vastness">
+		<description>Vastness - Kuukyo no Ikenie-tachi</description>
+		<year>1995</year>
+		<publisher>CD Bros.</publisher>
+		<disk name="vastness - kuukyo no ikenie-tachi (japan)" sha1="bd8b85316d31bbe6efc543ef9c5fbf2e3a7b02d7" />
+	</machine>
+	<machine name="venus">
+		<description>Venus &amp; Mug-R</description>
+		<year>1994</year>
+		<publisher>ソフトウェアハウスぱせり (Software House Parsley)</publisher>
+		<disk name="venus &amp; mug-r" sha1="e5baf67106a20b95a6eb7ee40ba0ed01eb3084cc" />
+	</machine>
+	<machine name="viperctr">
+		<description>Viper CTR - Asuka</description>
+		<year>1997</year>
+		<publisher>ソニア (Sogna)</publisher>
+		<disk name="viper ctr - asuka (japan)" sha1="01a733a1e340873383fbce39a8899f078b53263a" />
+	</machine>
+	<machine name="viperf40">
+		<description>Viper F40</description>
+		<year>1997</year>
+		<publisher>ソニア (Sogna)</publisher>
+		<disk name="viper-f40" sha1="674b7facd61b11a415d7474d53fd0014d8383ac6" />
+	</machine>
+	<machine name="vircall2">
+		<description>Virtuacall 2</description>
+		<year>1996</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="virtuacall 2" sha1="a2f012a08c2ed5bf79701d149289157eff984b34" />
+	</machine>
+	<machine name="vircall">
+		<description>Virtuacall</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="virtuacall (japan)" sha1="451868c726b1356c0168a3719151f3741603cd1f" />
+	</machine>
+	<machine name="warcraft">
+		<description>WarCraft - Orcs &amp; Humans</description>
+		<year>1995</year>
+		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<disk name="warcraft" sha1="bd1d5639059b9c47a80473dc3c0090ae39d87084" />
+	</machine>
+	<machine name="watashi">
+		<description>Watashi</description>
+		<year>1997</year>
+		<publisher>パールソフト (Pearl Soft)</publisher>
+		<disk name="watashi (japan)" sha1="0e51cfa626c8943311de2298f7c4adc00fc587ae" />
+	</machine>
+	<machine name="win2kmsd">
+		<description>Windows 2000 Professional + Server (MSDN)</description>
+		<year>2000</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 2000 msdn" sha1="4133e2626523c2b43f40c90f5bf2afe8a8e1feaa" />
+	</machine>
+	<machine name="win2kpc">
+		<description>Windows 2000 Professional (Upgrade, W2PCCP)</description>
+		<year>2000</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 2000 professional (pc-9821) - w2pccp_ja" sha1="de261f557eb21cf1336328f73d62ecb23b85884f" />
+	</machine>
+	<machine name="win2kpf4">
+		<description>Windows 2000 Professional with Service Pack 4 (Retail, ZRMPFPP)</description>
+		<year>2003</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 2000 professional with sp4 (pc-9821) - zrmpfpp_ja" sha1="5866e8d033c4320958583e08cc2fa61e3e024b41" />
+	</machine>
+	<machine name="win2kpf">
+		<description>Windows 2000 Professional (Retail, W2PFPP)</description>
+		<year>2000</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 2000 professional (pc-9821) - w2pfpp_ja" sha1="4487e2ffec2f0e931262d90111f5f7ce7ab2c968" />
+	</machine>
+	<machine name="win2kps">
+		<description>Windows 2000 Professional (Select, W2PSEL)</description>
+		<year>2000</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 2000 professional (pc-9821) - w2psel_ja" sha1="7c7fb3ca5e237164e9cfa155ce458696cf37ce75" />
+	</machine>
+	<machine name="win2ksf4">
+		<description>Windows 2000 Server with Service Pack 4 (Retail, ZRMSFPP)</description>
+		<year>2003</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 2000 server with sp4 (pc-9821) - zrmsfpp_ja" sha1="0d77a7e9fc9bd7fd5ee0d93ff212a2a0f5c5314a" />
+	</machine>
+	<machine name="win2ksf">
+		<description>Windows 2000 Server (Retail, W2SFPP)</description>
+		<year>2000</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 2000 server (pc-9821) - w2sfpp_ja" sha1="93f35d455336f4bd0a25b49aca126bd425cb91f4" />
+	</machine>
+	<machine name="win2kss">
+		<description>Windows 2000 Server (Select, W2SSEL)</description>
+		<year>2000</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 2000 server (pc-9821) - w2ssel_ja" sha1="2d8f13038acc25d1f16e88c486895b299ae47731" />
+	</machine>
+	<machine name="win95edk">
+		<description>Epson PC Series Driver Kit for Windows 95</description>
+		<year>1996</year>
+		<publisher>Epson</publisher>
+		<disk name="microsoft windows 95 upgrade for epson pc series (epson driver kit)" sha1="52dff684bca22570359fec0d566f287dba6f63f6" />
+	</machine>
+	<machine name="win95eps">
+		<description>Windows 95 Upgrade for Epson PC Series (OSR1, v4.00.950a)</description>
+		<year>1996</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 95 upgrade for epson pc series" sha1="e6d85d5b3243580c5dec393114d352656faa728e" />
+	</machine>
+	<machine name="win95ndk">
+		<description>NEC Driver Kit for Windows 95</description>
+		<year>1995</year>
+		<publisher>NEC</publisher>
+		<disk name="microsoft windows 95 (nec driver kit)" sha1="06d296d97ce6e0e07f6ba022262e4069f075662a" />
+	</machine>
+	<machine name="win95o2">
+		<description>Windows 95 (OSR2, v4.00.950 B)</description>
+		<year>1996</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 95 osr2" sha1="53ddcf748030d5a3513179c92e2cec1a9c953bc5" />
+	</machine>
+	<machine name="win95">
+		<description>Windows 95 (Retail, v4.00.950)</description>
+		<year>1995</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 95 pc-98 (jpn)" sha1="bbec0977ae382c100bfd4d94bcabf4a8f45bb5a7" />
+	</machine>
+	<machine name="win98se">
+		<description>Windows 98 Second Edition</description>
+		<year>1999</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 98se" sha1="eb0bdd209334b3709fa31043f390838351127bc0" />
+	</machine>
+	<machine name="win98upg">
+		<description>Windows 98 (Upgrade)</description>
+		<year>1998</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 98 upgrade" sha1="ca24c9b057081e369b4f91a453ab621333e7191b" />
+	</machine>
+	<machine name="win98">
+		<description>Windows 98</description>
+		<year>1998</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 98 x86 &amp; pc-98 (jpn)" sha1="3be220cca006d5d012db9a29599bbad15c2627a4" />
+	</machine>
+	<machine name="winn351w">
+		<description>Windows NT 3.51 Workstation</description>
+		<year>1994</year>
+		<publisher>Microsoft</publisher>
+		<disk name="winn351_wks_jpn" sha1="592a0e61e1d34e3a53c5cec397b7f0a588b33d3c" />
+	</machine>
+	<machine name="winn351wc">
+		<description>Windows NT 3.51 Workstation (Checked Build)</description>
+		<year>1994</year>
+		<publisher>Microsoft</publisher>
+		<disk name="winn351_wks_jpn-chk" sha1="8fb3f84765d38dfe12462df9e856cb69261a62da" />
+	</machine>
+	<machine name="winnt40s">
+		<description>Windows NT 4.0 Server</description>
+		<year>1997</year>
+		<publisher>Microsoft</publisher>
+		<disk name="jp_winnt_4.0_srv" sha1="6b2dc3f8c4cb818cd8ed9699e4c9af79bd85679f" />
+	</machine>
+	<machine name="winnt40w">
+		<description>Windows NT 4.0 Workstation</description>
+		<year>1996</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows nt 4.0 workstation (disc 1)" sha1="32fb5639983ba8c3e726ce9b3291a9a14b37facd" />
+		<disk name="windows nt 4.0 workstation (disc 2)" sha1="db1e2a64f479819983df5649c2765e554bc0949b" />
+	</machine>
+	<machine name="xa12c8ss">
+		<description>PC-9821Xa12C8 System Software</description>
+		<year>1995</year>
+		<publisher>NEC</publisher>
+		<disk name="pc-9821xa12c8 system software (recovery cd)" sha1="edf68ee9835feec9966ddd052e5c2d58bf90350d" />
+	</machine>
+	<machine name="xenon">
+		<description>Xenon - Mugen no Shitai</description>
+		<year>1995</year>
+		<publisher>シーズウェア (C's Ware)</publisher>
+		<disk name="xenon - mugen no shitai (japan)" sha1="f6b0e7e7562b0e81c5e91a97203681e631602e62" />
+	</machine>
+	<machine name="xgirl">
+		<description>X Girl</description>
+		<year>1996</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<disk name="x girl (japan)" sha1="2de5ab17e867c69be048f732806580a740104bc0" />
+	</machine>
+	<machine name="yeshg">
+		<description>YES! HG - Erotic Voice Version</description>
+		<year>1995</year>
+		<publisher>姫屋ソフト (Himeya Soft)</publisher>
+		<disk name="yes hg - erotic voice version (japan)" sha1="1973d5e32f50ada90f093203de09c87b51af489d" />
+	</machine>
+	<machine name="yojusen2">
+		<description>Youjuu Senki 2 - Reimei no Senshi-tachi</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="youjuu senki 2 - reimei no senshi-tachi (japan)" sha1="365c5e7983cc3aa59a97992035c6ddf76a86ab6e" />
+	</machine>
+	<machine name="yumecol">
+		<description>Yumemizaka &amp; Collections</description>
+		<year>1996</year>
+		<publisher>ユーミソフト (U-me Soft)</publisher>
+		<disk name="yumemizaka &amp; collections" sha1="0af61cdfb7c9f3264b40cc30d1a396d9259a6c4a" />
+	</machine>
+	<machine name="yumemi">
+		<description>Yumemizaka</description>
+		<year>1995</year>
+		<publisher>ユーミソフト (U-me Soft)</publisher>
+		<disk name="yumemizaka (japan)" sha1="c449c153ef69d4dea5481d183af8f52e3504b4dd" />
+	</machine>
+	<machine name="yumesei">
+		<description>Yume no Sei</description>
+		<year>1996</year>
+		<publisher>13cm</publisher>
+		<disk name="yume_no_sei" sha1="6c435ac90241248db6d41fcfcef0fcb8d323a3bc" />
+	</machine>
+	<machine name="yuno">
+		<description>Kono Yo no Hate de Koi wo Utau Shoujo YU-NO</description>
+		<year>1996</year>
+		<publisher>エルフ (Elf)</publisher>
+		<disk name="konoyo no hate de koi o utau shoujo - yu-no (japan)" sha1="6f742ce305170ab4aa853f358346dc5f7d57e401" />
+	</machine>
+	<machine name="yuudisc">
+		<description>CD-ROM Bishoujo Senshi Collection - Yuu Disc Special</description>
+		<year>1996</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="cd-rom bishoujo senshi collection - yuu disc special (japan)" sha1="6d278f5fe3416d01882dee43c7ccb4c3d706c229" />
+	</machine>
+	<machine name="yuurou">
+		<description>Yuurou - Transient Sands</description>
+		<year>1996</year>
+		<publisher>ハーベスト (Hervest)</publisher>
+		<disk name="yuurou - transient sands (japan)" sha1="07d11d70d7f06321a3695a75edf3d9b617e980b2" />
+	</machine>
+	<machine name="zaimeta">
+		<description>Zai Metajo</description>
+		<year>1996</year>
+		<publisher>アンジン (Anjin)</publisher>
+		<disk name="zai metajo (japan)" sha1="bd4838caed5341895d79d92ea72ce3d8042447e5" />
+	</machine>
+	<machine name="zatsuon">
+		<description>Zatsuon Ryouiki</description>
+		<year>1995</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<disk name="zatsuon ryouiki (japan)" sha1="a0fc53f0e69a538300eba1cc4a5d69b722577209" />
+	</machine>
+	<machine name="zenith">
+		<description>Zenith - Full Animation Adventure Series #1</description>
+		<year>1995</year>
+		<publisher>姫屋ソフト (Himeya Soft)</publisher>
+		<disk name="animation zenith (japan)" sha1="c99f1b2db763f5e0eaf48cb5726351a81d2fd916" />
+	</machine>
+</datafile>

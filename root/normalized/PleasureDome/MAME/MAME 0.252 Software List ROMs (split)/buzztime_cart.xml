@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>buzztime_cart</name>
+		<description>Cadaco Buzztime Trivia Cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="everytng">
+		<description>Series 1 - Everything Trivia</description>
+		<year>200?</year>
+		<publisher>Cadaco</publisher>
+		<rom name="buzztimeseries1everything.bin" size="2097152" crc="84acabd9" sha1="cbbda9134bd899a3ec0b91664a3db0f986d5636b" />
+	</machine>
+	<machine name="history">
+		<description>Series 1 - History Trivia</description>
+		<year>200?</year>
+		<publisher>Cadaco</publisher>
+		<rom name="buzztimeseries1history.bin" size="2097152" crc="384b0c0e" sha1="c359e69b5c91ba98ebf477aee1bb5f62b721b427" />
+	</machine>
+	<machine name="sports">
+		<description>Series 1 - Sports Trivia</description>
+		<year>200?</year>
+		<publisher>Cadaco</publisher>
+		<rom name="buzztimeseries1sports.bin" size="2097152" crc="b1f00f7a" sha1="4a99f06831fd265a5f7c11d20a212baab0c0a707" />
+	</machine>
+	<machine name="tv">
+		<description>Series 1 - TV Trivia</description>
+		<year>200?</year>
+		<publisher>Cadaco</publisher>
+		<rom name="buzztimeseries1tv.bin" size="2097152" crc="295be60f" sha1="960065e7b8eb0b65dfb7c3b067940de3362d1b0e" />
+	</machine>
+</datafile>

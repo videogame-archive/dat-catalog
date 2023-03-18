@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jupace_snap</name>
+		<description>Jupiter Cantab Jupiter Ace snapshots</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="briques">
+		<description>Casse Briques</description>
+		<year>1983</year>
+		<publisher>ERE</publisher>
+		<rom name="casse briques (1983)(ere)(fr)[3k].ace" size="2572" crc="d2bc5b51" sha1="bcbee732478b8be742996b7af42330c6666472e2" />
+	</machine>
+	<machine name="milliped">
+		<description>Millipede</description>
+		<year>1983</year>
+		<publisher>Your Computer</publisher>
+		<rom name="millipede (1983-04)(your computer)[3k].ace" size="4166" crc="466ff760" sha1="620674685ecffeae221cc5dc7c4ceb9e7894d0d1" />
+	</machine>
+	<machine name="mines">
+		<description>Champs De Mines</description>
+		<year>1983</year>
+		<publisher>ERE</publisher>
+		<rom name="champs de mines (1983)(ere)(fr)[3k].ace" size="2768" crc="f6249f68" sha1="b9fc39c03472d122cd8056fb1716185c4c2f433d" />
+	</machine>
+	<machine name="pacman">
+		<description>Pacman</description>
+		<year>1983</year>
+		<publisher>Your Computer</publisher>
+		<rom name="pacman (1983-03)(your computer)[3k].ace" size="3197" crc="68d096a9" sha1="e0b654ebca9fe8c32143335daf23bf4075781e68" />
+	</machine>
+	<machine name="valkyr">
+		<description>Valkyr</description>
+		<year>1985</year>
+		<publisher>Colinsoft</publisher>
+		<rom name="valkyr.ace" size="22763" crc="3f1bee9e" sha1="85dec67ffdf542102eb89065b60f396825d5cd73" />
+	</machine>
+</datafile>

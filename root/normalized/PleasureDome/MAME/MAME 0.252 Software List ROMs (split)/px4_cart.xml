@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>px4_cart</name>
+		<description>EPSON PX-4 ROM capsules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>PX-4 BASIC</description>
+		<year>198?</year>
+		<publisher>EPSON</publisher>
+		<rom name="m25126aa.bin" size="32768" crc="f76f1c12" sha1="d7dc90ecd158012c0a54626b8bf962255bfd1b27" />
+	</machine>
+	<machine name="dialtext">
+		<description>Dialtext 4</description>
+		<year>198?</year>
+		<publisher>EPSON</publisher>
+		<rom name="dialtext.bin" size="32768" crc="7eaa31ba" sha1="0bec906e3c5e92d9b1aba1a10d91db08d05e83f4" />
+	</machine>
+	<machine name="pw2">
+		<description>PX-4 Rom Write</description>
+		<year>198?</year>
+		<publisher>EPSON</publisher>
+		<rom name="px4promwriter2.bin" size="32768" crc="5c54faf3" sha1="4879a126b1975f09fadba8831e14c7e8f41c40f3" />
+	</machine>
+	<machine name="rmwr">
+		<description>PX-4 Prom Writer Cartridge V2.0</description>
+		<year>198?</year>
+		<publisher>EPSON</publisher>
+		<rom name="px4rmwr.bin" size="32768" crc="9a91bde0" sha1="aa650613672e702572b98eebf048555c988c7f5b" />
+	</machine>
+	<machine name="rsz">
+		<description>PX-4 Rom Writer</description>
+		<year>198?</year>
+		<publisher>EPSON</publisher>
+		<rom name="px4rsz.bin" size="32768" crc="12aa3f9c" sha1="c51af300c3d5bc7e8fa45ca9193f093e769cc611" />
+	</machine>
+	<machine name="utils">
+		<description>PX-4 Utilities</description>
+		<year>198?</year>
+		<publisher>EPSON</publisher>
+		<rom name="m25124aa.bin" size="32768" crc="beabb0de" sha1="1c7bbda68635d2ee641fdfd7c08047f54caf4eb4" />
+	</machine>
+</datafile>

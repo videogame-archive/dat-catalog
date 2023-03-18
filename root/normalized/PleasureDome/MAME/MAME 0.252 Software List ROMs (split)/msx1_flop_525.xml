@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>msx1_flop_525</name>
+		<description>MSX1 5.25" disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="msxdostb">
+		<description>MSX-DOS Tools (Brazil, v4.3)</description>
+		<year>1991</year>
+		<publisher>Nemesis Informatica</publisher>
+		<rom name="msx-dos tools v4.3 (1991)(nemesis informatica)(br).dsk" size="184320" crc="e93070dd" sha1="f78578bf88fa08d0268d7ed2f3cb62406527c500" />
+	</machine>
+</datafile>

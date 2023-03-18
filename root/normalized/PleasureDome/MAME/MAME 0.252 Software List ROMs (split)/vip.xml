@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vip</name>
+		<description>RCA VIP cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="fpbasic">
+		<description>Floating Point BASIC</description>
+		<year>1980</year>
+		<publisher>RCA</publisher>
+		<rom name="bootstrap.wav" size="1432236" crc="c3a18ac7" sha1="ab8aac817ca0d9e30fc0d345af11e21fdd0eb5d2" />
+		<rom name="vipgendsthpall.wav" size="24276228" crc="8d1a65bb" sha1="700e46957887b43eb38c66ca504721f176690673" />
+	</machine>
+</datafile>

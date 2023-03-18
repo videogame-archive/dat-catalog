@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pc8001mk2sr_flop</name>
+		<description>NEC PC-8001mkIISR (N80SR BASIC) disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="mappysr">
+		<description>Mappy (mkIISR)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="mappy (mkiisr).d88" size="353200" crc="0152ccd0" sha1="e000b25a2ec4232fd2c62c4bf427270715977e3c" />
+	</machine>
+	<machine name="n80srbas">
+		<description>N80SR BASIC system disk (PC-8037SR)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="[os] n80sr basic system disk (pc-8037sr) (pc-8001mkiisr).d88" size="353200" crc="68cf9f52" sha1="298f01130e5d79e058f650975086bc8902da63db" />
+	</machine>
+	<machine name="pc8001mk">
+		<description>PC-8001mkIISR Game Pack (Compilation)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="[compilation] pc-8001mkiisr game pack (disk 1).d88" size="348848" crc="4711b6c0" sha1="31c406799d0f5fd13b9ea22010b93254fbf1ad61" />
+		<rom name="[compilation] pc-8001mkiisr game pack (disk 2).d88" size="353200" crc="ac5ccf8b" sha1="85e739e6124704b3e96e6e815ad0d9a25270b258" />
+		<rom name="[compilation] pc-8001mkiisr game pack (disk 3).d88" size="348848" crc="cb8fef04" sha1="137cd4a7956e86434c22cf59e52c62262ccf5f55" />
+	</machine>
+	<machine name="xanadusr">
+		<description>Xanadu (mkIISR)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="xanadu (mkiisr) (disk a).d88" size="418960" crc="00e5127b" sha1="bbc366072a338deb48da8b460912bf9241689e3e" />
+		<rom name="xanadu (mkiisr) (disk b).d88" size="415840" crc="b64f896a" sha1="2138091d56e3d9f6f3ff20df57eebf8552f488d8" />
+	</machine>
+</datafile>

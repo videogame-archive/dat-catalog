@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cbm8296_flop</name>
+		<description>Commodore 8296 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="execdesk">
+		<description>ExecuDesk</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="execudesk1.d64" size="174848" crc="1aa9a9aa" sha1="9445cc89d08215d173e84841d3b01ed327d8347c" status="baddump" />
+		<rom name="execudesk2.d64" size="174848" crc="9553ea18" sha1="01ed09de6635522ca69e7d2784c81d3a06cee1c3" status="baddump" />
+	</machine>
+	<machine name="system">
+		<description>Commodore 8296-D System Disk</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="8296d-systemdisk.d82" size="1066496" crc="1dbb2376" sha1="b0201074aaa7b9e5984f02e78088a127d6b8e78d" status="baddump" />
+	</machine>
+</datafile>

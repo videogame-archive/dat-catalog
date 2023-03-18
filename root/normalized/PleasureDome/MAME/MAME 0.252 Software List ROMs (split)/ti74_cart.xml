@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ti74_cart</name>
+		<description>TI-74 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="finance">
+		<description>Finance</description>
+		<year>1985</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="finance.bin" size="32768" crc="36afa310" sha1="a051c393f35f11ef51dc8c4e785e6fec0eb4d774" />
+	</machine>
+	<machine name="maths">
+		<description>Mathematics</description>
+		<year>1985</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="mathematics.bin" size="32768" crc="afb0821f" sha1="9fc3b054df0fdc93eab3e7824f28d4f733f97547" />
+	</machine>
+	<machine name="pascal">
+		<description>Learn Pascal</description>
+		<year>1985</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="pascal.bin" size="32768" crc="e4135cff" sha1="eab92188fb19545f677ede926c2c0b6af26b7e25" />
+	</machine>
+</datafile>

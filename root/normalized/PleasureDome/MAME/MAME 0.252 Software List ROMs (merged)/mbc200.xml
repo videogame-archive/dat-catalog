@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mbc200</name>
+		<description>Sanyo MBC-200/MBC-1200 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="boot">
+		<description>Boot disk</description>
+		<year>198?</year>
+		<publisher>Sanyo</publisher>
+		<rom name="boota\sanyo12.imd" size="176855" crc="073d0deb" sha1="d44df2692025e068daba1d250d00e996e452b132" />
+		<rom name="mbc1200.imd" size="176855" crc="33bdf336" sha1="f908e66f3fe6896e9ba066893a6efe577327cf0a" />
+	</machine>
+</datafile>

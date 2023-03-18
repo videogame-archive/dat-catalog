@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mephisto_mm2</name>
+		<description>Mephisto MM II Modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="hg240">
+		<description>Mephisto HG 240 Opening Library</description>
+		<year>1984</year>
+		<publisher>Hegener + Glaser</publisher>
+		<rom name="240" size="16384" crc="38f62597" sha1="39ccc0f5d1b895e5334df0944639a886f9300f74" />
+	</machine>
+</datafile>

@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ibm5170_cdrom</name>
+		<description>IBM PC/AT CD-ROM images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3dpwrv1">
+		<description>3D Power Games Volume 1</description>
+		<year>1997</year>
+		<publisher>Electronic Entertainment Publishing</publisher>
+		<disk name="3d power games volume 1 (1997)(electronic entertainment publishing)(nl)[compilation]" sha1="d632a5baaeafc893d0ff95704b2815ca7e8e124e" />
+	</machine>
+	<machine name="3dupin">
+		<description>3-D Ultra Pinball (Budget Sierra Originals Version)</description>
+		<year>1995</year>
+		<publisher>Sierra</publisher>
+		<disk name="3-d ultra pinball (1995)(sierra)[budget sierra originals]" sha1="e80e3ec21233bea55b6a07a814b5b193982afda8" />
+	</machine>
+	<machine name="5plus1_10">
+		<description>5 Plus One: Pack 10 - The Blues Brothers</description>
+		<year>1994</year>
+		<publisher>Prism Leisure Corporation PLC</publisher>
+		<disk name="Blues Brothers, The (Europe)" sha1="a9a4f1071e7ed928e73535d9bffcd11ee47ac56f" />
+	</machine>
+	<machine name="5plus1_25">
+		<description>5 Plus One: Pack 25 - TV Sports Football</description>
+		<year>1994</year>
+		<publisher>Prism Leisure Corporation PLC</publisher>
+		<disk name="TV Sports Football (Europe)" sha1="4765a2400d6e480a5656a7889331002ee7e910a6" />
+	</machine>
+	<machine name="5plus1_34">
+		<description>5 Plus One: Pack 34 - Super Tetris</description>
+		<year>1996</year>
+		<publisher>Prism Leisure Corporation PLC</publisher>
+		<disk name="5 plus one - super tetris (1996)(prism leisure)[compilation]" sha1="a39d6ee739ad1aa2056f690770c4f3137aa762ea" />
+	</machine>
+	<machine name="11hourd">
+		<description>The 11th Hour - Der Nachfolger von 7th Guest (Germany)</description>
+		<year>1995</year>
+		<publisher>Virgin</publisher>
+		<disk name="11th hour, the - der nachfolger von 7th guest (1995)(virgin)(de)(disc 1 of 4)" sha1="eb0471c3d431dee4b5bcbc2811af6a474b63ac6d" />
+		<disk name="11th hour, the - der nachfolger von 7th guest (1995)(virgin)(de)(disc 2 of 4)" sha1="b0ebebb747eb26f232540b36f1c56c834b8c87cf" />
+		<disk name="11th hour, the - der nachfolger von 7th guest (1995)(virgin)(de)(disc 3 of 4)" sha1="34d57fdcb0b5d6e86d100f0d27519b9b4ed7bef7" />
+		<disk name="11th hour, the - der nachfolger von 7th guest (1995)(virgin)(de)(disc 4 of 4)" sha1="082aaadad9ecac63de51eafee7248c663c8722bf" />
+	</machine>
+	<machine name="688ihuki">
+		<description>688I Hunter-Killer</description>
+		<year>1997</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="688i hunter-killer (1997)(electronic arts)" sha1="51352c95bcb4a9fbc74291b03c65591b3e7dd5bd" />
+	</machine>
+	<machine name="a10cuba">
+		<description>A-10 Cuba!</description>
+		<year>1996</year>
+		<publisher>Activision / Parsoft Interactive</publisher>
+		<disk name="a-10 cuba (1996)(activision)" sha1="a9bc7e3b7306c46acf33b93ae168862d18734245" />
+		<disk name="a-10 cuba (1997)(megamedia)[compilation megapak 7]" sha1="5fc89dde64013ab6d070572ac2b9a8829bbde084" />
+	</machine>
+	<machine name="acercpr">
+		<description>Acer CPR</description>
+		<year>1995</year>
+		<publisher>Acer America Corporation</publisher>
+		<disk name="acercpr" sha1="a0f073387e661318eae2d1fdd30dfb116d1295ae" />
+	</machine>
+	<machine name="aceventd">
+		<description>Ace Ventura (Germany)</description>
+		<year>1996</year>
+		<publisher>Bomico</publisher>
+		<disk name="ace ventura (1996)(bomico)(de)" sha1="e07d870a94ae435e80a03b6fa1677bb820cb8a9a" />
+	</machine>
+	<machine name="acmidway2">
+		<description>Arcade's Greatest Hits - The Midway Collection 2</description>
+		<year>1997</year>
+		<publisher>GT Interactive</publisher>
+		<disk name="arcade's greatest hits - the midway collection 2 (1997)(gt interactive)" sha1="ff8fe48c76edd0fc5dc1321ea85e9d367b5e6400" />
+	</machine>
+	<machine name="actatari2">
+		<description>Activision's Atari 2600 Action Pack 2</description>
+		<year>1995</year>
+		<publisher>Activision</publisher>
+		<disk name="activision's atari 2600 action pack 2 (1995)(activision)[compilation]" sha1="03ef65a0db996d8dc092037b94af930c8a638b13" />
+	</machine>
+	<machine name="actatari">
+		<description>Activision's Atari 2600 Action Pack (Megapak 8 release)</description>
+		<year>1997</year>
+		<publisher>Megamedia</publisher>
+		<disk name="activision's atari 2600 action pack (1997)(megamedia)(m5)[compilation megapak 8]" sha1="279c4f6bc3de53083e30cfc9e0ce16b9d5815a6b" />
+	</machine>
+	<machine name="actgvv3">
+		<description>Activision Game Vault Volume 3</description>
+		<year>1997</year>
+		<publisher>Activision</publisher>
+		<disk name="activision game vault volume 3 (1997)(activision)[compilation]" sha1="93c4d5d7ab0f2da31b122eb5dedeccdc53b03266" />
+	</machine>
+	<machine name="actuasoc">
+		<description>Actua Soccer (OEM v1.29)</description>
+		<year>1996</year>
+		<publisher>Gremlin</publisher>
+		<disk name="sw6lfull" sha1="362044da3185e971785f2c99250bbeb6617797c2" />
+	</machine>
+	<machine name="add2mc">
+		<description>Advanced Dungeons &amp; Dragons 2nd Edition Masterpiece Collection</description>
+		<year>1995</year>
+		<publisher>Mindscape</publisher>
+		<disk name="advanced dungeons &amp; dragons 2nd edition masterpiece collection (1995)(mindscape)(disc 1 of 4)[compilation]" sha1="adb4cc2ce2ae70724a78b8a3c1fc9b8c09996930" />
+		<disk name="advanced dungeons &amp; dragons 2nd edition masterpiece collection (1995)(mindscape)(disc 3 of 4)[compilation]" sha1="eb3a8b15c7b21ee50cedfcf1870e8644396acfad" />
+		<disk name="advanced dungeons &amp; dragons 2nd edition masterpiece collection (1995)(mindscape)(disc 4 of 4)[compilation]" sha1="f98d047b64169a19c72f0ebd94d1667086a1c76a" />
+	</machine>
+	<machine name="advdesim">
+		<description>Advanced Destroyer Simulator</description>
+		<year>1996</year>
+		<publisher>Action Sixteen / Futura</publisher>
+		<disk name="advanced destroyer simulator (1996)(action sixteen)" sha1="15d429c53ded4840a6d0365b3ba141558fcdc34f" />
+	</machine>
+	<machine name="advdudan">
+		<description>The Adventures of Down Under Dan (v1.1)</description>
+		<year>1995</year>
+		<publisher>Guildsoft Games</publisher>
+		<disk name="adventures_of_down_under_dan,_the_(1995)(guildsoft)" sha1="d76706ca2e75df32d0e508b3b14217ae96c69c3c" />
+	</machine>
+	<machine name="aeurope">
+		<description>Aces over Europe</description>
+		<year>1995</year>
+		<publisher>Sierra</publisher>
+		<disk name="aces over europe (1995)(sierra)[budget sierra originals]" sha1="09ed6d42a2d61b636aae54f69b6680d96165a5af" />
+	</machine>
+	<machine name="aftlifeu">
+		<description>Afterlife (USA, v1.1)</description>
+		<year>1996</year>
+		<publisher>LucasArts</publisher>
+		<disk name="afterlife (1996)(lucasarts)(us)[compilation lucas arts archives vol. iii]" sha1="1a606741a00f0a3008d59da978ab0bab0d8aec1e" />
+	</machine>
+	<machine name="ah64dles">
+		<description>AH-64D Longbow (Spain)</description>
+		<year>1996</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="ah-64d longbow (1996)(electronic arts)(es)(disc 1 of 2)" sha1="0352e3f301c8e7eb0fd1f1af695a5991e6c4cfa2" />
+		<disk name="ah-64d longbow (1996)(electronic arts)(es)(disc 2 of 2)" sha1="5ed254fdfabcfde936eb971ae9652c28bf0c3fa4" />
+	</machine>
+	<machine name="airwar3">
+		<description>Air Warrior III</description>
+		<year>1997</year>
+		<publisher>Interactive Magic / Kesmai Corporation</publisher>
+		<disk name="air warrior iii (1997)(interactive magic)" sha1="8cf74e4da52b66cbd3b0ba4a0f3807680f9b73aa" />
+	</machine>
+	<machine name="airwarpl">
+		<description>Air Warrior Plus (v1.16b)</description>
+		<year>1995</year>
+		<publisher>Kesmai Corporation</publisher>
+		<disk name="air warrior plus v1.16b (1995)(on-line)[pc-mac]" sha1="8e4e21b7ac87016874e13d1c9fa02969757cf4ad" />
+	</machine>
+	<machine name="aitd2">
+		<description>Alone in the Dark 2 (Europe)</description>
+		<year>1994</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark 2 (Europe)" sha1="74917c1f04d3f8fbb322c50215ec112d3058300f" />
+		<disk name="Alone in the Dark 2 (Europe) (En,Fr,De,Es,It)" sha1="546e39d75dd5ace9325bc1903272ce38ebd7e7c3" />
+		<disk name="Alone in the Dark 2 (France)" sha1="2ddde837124b3825c908f3e2f8b95ed8622e6cfc" />
+	</machine>
+	<machine name="aitd">
+		<description>Alone in the Dark (Europe, rev. 1)</description>
+		<year>1993</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1)" sha1="2d6af2d12690f06ebdcf5d6babcf1a53522bc58e" />
+		<disk name="Alone in the Dark (Europe) (En,Fr,De,It)" sha1="ee49e92e021b6feb2fbe7780a3a307e18cc7fd52" />
+		<disk name="Alone in the Dark (Europe) (Pay as You Play Version) (CD-ROM User)" sha1="f7cc8fcee13bf7af5ff1cc297d9713a672e77328" />
+		<disk name="Alone in the Dark (Europe) (Pay as You Play Version) (PC Power)" sha1="a67bdbf781d5f8b763a3e562e45f5f4b8fe31b4a" />
+	</machine>
+	<machine name="akimboj">
+		<description>Kung-Fu Hero Akimbo Lee (Japan)</description>
+		<year>2001</year>
+		<publisher>Iridon / MSD-JAPAN / Salva Corporation</publisher>
+		<disk name="akimbo" sha1="08e03c5abce6f95582368d1d6734f6f1b323b823" />
+	</machine>
+	<machine name="aliencrn">
+		<description>Halloween Harry - Alien Carnage</description>
+		<year>1994</year>
+		<publisher>Multi Media International / Apogee / Interactive Binary Illusions / Sub Zer0</publisher>
+		<disk name="alien carnage (1994)(multi media international)(nl)(en)" sha1="de45bd5492cb07bd1de9167bcf8b2f55e5f1780c" />
+	</machine>
+	<machine name="alieninc">
+		<description>Alien Incident (Europe, v1.30)</description>
+		<year>1996</year>
+		<publisher>Gametek</publisher>
+		<disk name="Alien Incident (Europe)" sha1="2c2571ab9a6c71cf578338b4cc991d922abd5ad3" />
+		<disk name="gcr-102-0062" sha1="183949d162064c38a21d6a143a815af6760233fb" />
+	</machine>
+	<machine name="alienleg">
+		<description>Alien Legacy (v1.10)</description>
+		<year>1995</year>
+		<publisher>Sierra</publisher>
+		<disk name="alien legacy (1995)(sierra)" sha1="e40dd8dd278e34e32edd7b1478f62195627773ae" />
+	</machine>
+	<machine name="alienody">
+		<description>Alien Odyssey (Europe)</description>
+		<year>1995</year>
+		<publisher>Philips / Argonaut Software LTD</publisher>
+		<disk name="310691059-2" sha1="4db3c0e2559d0b56c620ad34895d504f2cde5128" />
+		<disk name="alien odyssey (1995)(philips)" sha1="536635f92489b146f693aa724cd5938794b8190c" />
+	</machine>
+	<machine name="alienscb">
+		<description>Aliens - A Comic Book Adventure (v1.01A)</description>
+		<year>1995</year>
+		<publisher>Mindscape</publisher>
+		<disk name="aliens - a comic book adventure v1.0 (1995)(mindscape)(disc 2 of 2)" sha1="13aba65247d17645fe9522f0eaf5a89b3cda5783" />
+		<disk name="aliens - a comic book adventure v1.01a (1995)(mindscape)(disc 1 of 2)" sha1="364bb9677c93db8a3f8b68328ddf360eac2aae88" />
+	</machine>
+	<machine name="amazonge">
+		<description>Amazon - Guardians of Eden</description>
+		<year>1993</year>
+		<publisher>Access Software</publisher>
+		<disk name="amazon - guardians of eden (1993)(access software)" sha1="ec783cbcd3fed9e6f0f0e32a4cd8c390e2fecf4d" />
+	</machine>
+	<machine name="animal">
+		<description>Animal</description>
+		<year>1997</year>
+		<publisher>Microtime</publisher>
+		<disk name="animal (1997)(microtime)" sha1="8f5c7791bf89e662a0dfc8f08858788c28c33895" />
+	</machine>
+	<machine name="apacific">
+		<description>Aces of the Pacific</description>
+		<year>1994</year>
+		<publisher>Sierra</publisher>
+		<disk name="aces of the pacific (1994)(sierra)" sha1="42422f83009e0771968243cb0ea1172699bf8787" />
+	</machine>
+	<machine name="apak_os2">
+		<description>IBM AttachPak for OS/2 Warp Connect</description>
+		<year>1995</year>
+		<publisher>IBM</publisher>
+		<disk name="apak_usa" sha1="ad7b97376326cad3665a65a711ef872c44a93120" />
+	</machine>
+	<machine name="arabkid">
+		<description>Arabian Kid</description>
+		<year>1996</year>
+		<publisher>ASCII / Yellow Horn</publisher>
+		<disk name="kid" sha1="a837c3f4cde66b244bccbae22cb1cec83df6698d" />
+	</machine>
+	<machine name="arampage">
+		<description>Alien Rampage (v1.13)</description>
+		<year>1996</year>
+		<publisher>Softdisk</publisher>
+		<disk name="arampage" sha1="88ae86b0837bc5fba7a3585a506d5ad24161b001" />
+	</machine>
+	<machine name="arcappled">
+		<description>Archibald Applebrook's Abenteuer (Germany v1.00)</description>
+		<year>1995</year>
+		<publisher>Software 2000</publisher>
+		<disk name="archibald applebrook's abenteuer (1995)(software 2000)(de)" sha1="37bdb42590fadfb0ad857bd4876ec4708d4569e0" />
+	</machine>
+	<machine name="archdyn">
+		<description>Archimedean Dynasty (v1.115)</description>
+		<year>1996</year>
+		<publisher>Blue Byte</publisher>
+		<disk name="ad" sha1="95040b06a50373ef052c37261ca6b91d42fa5af7" />
+	</machine>
+	<machine name="archonul">
+		<description>Archon Ultra (v1.1)</description>
+		<year>1996</year>
+		<publisher>Strategic Simulations</publisher>
+		<disk name="archon ultra v1.1 (1996)(strategic simulations)" sha1="025039ccc5f048b5c6e30523d39b3b8afedd040c" />
+	</machine>
+	<machine name="arktime">
+		<description>Ark of Time</description>
+		<year>1997</year>
+		<publisher>Dice</publisher>
+		<disk name="ark of time (1997)(dice)(nl)(m4)" sha1="0aaae225fb08402455a3ab8ea03cd412ad26b5f5" />
+	</machine>
+	<machine name="armofist">
+		<description>Armored Fist</description>
+		<year>1994</year>
+		<publisher>Nova Logic</publisher>
+		<disk name="armored fist (1994)(nova logic)" sha1="96211c6dc7a179f5e25af7f4527cf51afe1c3934" />
+	</machine>
+	<machine name="ascend">
+		<description>Ascendancy</description>
+		<year>1995</year>
+		<publisher>Virgin / The Logic Factory</publisher>
+		<disk name="ascendancy (1995)(softgold)(de)" sha1="dd2f22050c372a0f8f91966bb31580c2a743dcb9" />
+		<disk name="ascendancy (1995)(virgin)" sha1="611fa4261d2b9b454bad01011f7e10f2f55d3c11" />
+	</machine>
+	<machine name="atariac1">
+		<description>Atari Arcade Hits 1</description>
+		<year>1999</year>
+		<publisher>Hasbro Interactive</publisher>
+		<disk name="atari arcade hits 1 (1999)(hasbro interactive)" sha1="89f9ef71790e880fd8c72bec268f424b5b04e189" />
+	</machine>
+	<machine name="atf">
+		<description>A.T.F. - Advanced Tactical Fighters (v1.03f)</description>
+		<year>1996</year>
+		<publisher>Electronic Arts / Jane's Information Group Limited</publisher>
+		<disk name="a.t.f. - advanced tactical fighters (1996)(electronic arts)" sha1="f5352fa4715369d20509aad64f7a32dba057b782" />
+		<disk name="a.t.f. - advanced tactical fighters (1996)(electronic arts)(de)" sha1="1363020d9e4f295191ad14c25cb1d01704f13712" />
+		<disk name="atf nato fighters (1996)(electronic arts)[data disc]" sha1="5f1e63d5b42f67a826576edcead7e52b6fc62044" />
+	</machine>
+	<machine name="atlantisd">
+		<description>Atlantis - Das sagenhafte Abenteuer (Germany)</description>
+		<year>1997</year>
+		<publisher>Cryo</publisher>
+		<disk name="atlantis - das sagenhafte abenteuer (1997)(cryo)(de)(disc 1 of 4)" sha1="6b9ad0cc67383d918597a4045995be9c242d1acf" />
+		<disk name="atlantis - das sagenhafte abenteuer (1997)(cryo)(de)(disc 2 of 4)" sha1="73fe7c4a42357ecfcc17b45d203ca63ae0bfa668" />
+		<disk name="atlantis - das sagenhafte abenteuer (1997)(cryo)(de)(disc 3 of 4)" sha1="5ce2a617b69ca6773a81f4df9c0560ddb1b9f8cb" />
+		<disk name="atlantis - das sagenhafte abenteuer (1997)(cryo)(de)(disc 4 of 4)" sha1="8822942cc93c3c6cebb547b5696c696a44a15d72" />
+	</machine>
+	<machine name="aworld80">
+		<description>Around the World in 80 Days</description>
+		<year>1994</year>
+		<publisher>EA Kids</publisher>
+		<disk name="around the world in 80 days (1994)(ea kids)" sha1="0441b9f94df42b3f5edeb3135ce9739af17fc8d5" />
+	</machine>
+	<machine name="backbagh">
+		<description>Back to Baghdad (v1.00)</description>
+		<year>1996</year>
+		<publisher>Military Simulations</publisher>
+		<disk name="back to baghdad (1996)(military simulations)" sha1="25e308bdde703282d7f79c2c0b782bff5cad5583" />
+	</machine>
+	<machine name="bad_dudescd">
+		<description>Bad Dudes (1995 CD release)</description>
+		<year>1995</year>
+		<publisher>GT Interactive</publisher>
+		<disk name="bad_dudes_cd" sha1="97d6a57218a1ffaf50f7d89071e21d784855381c" />
+	</machine>
+	<machine name="badmojo">
+		<description>Bad Mojo</description>
+		<year>1996</year>
+		<publisher>Acclaim</publisher>
+		<disk name="bad mojo (1996)(acclaim)" sha1="9956a05e9aab4cbaaebe19ee355f2d54fca39636" />
+		<disk name="bad mojo (1996)(acclaim)(de)" sha1="3eadb0fbb84af68f15653c3f3a6eb79fdb3f9210" />
+	</machine>
+	<machine name="banzaib">
+		<description>Banzai Bug</description>
+		<year>1996</year>
+		<publisher>Multi Media International</publisher>
+		<disk name="banzai bug (1996)(multi media international)(nl)" sha1="3dbf3846902ce85f6175f7d2b25ced2933c1a4af" />
+	</machine>
+	<machine name="barq">
+		<description>BARQ - The Rise of Freedom</description>
+		<year>1996</year>
+		<publisher>UAV</publisher>
+		<disk name="barq - the rise of freedom (1996)(uav)" sha1="66a4d6d18daf1db97ea08aaf5c80ab803275bcb1" />
+	</machine>
+	<machine name="batlbeatle">
+		<description>Battle BEAT 2000 L.E (Japan)</description>
+		<year>2000</year>
+		<publisher>NEC Interchannel</publisher>
+		<disk name="bb2kle" sha1="a31e35f15dda264e88ff5457d1b620c6fad4a15c" />
+	</machine>
+	<machine name="batlbugs">
+		<description>Battle Bugs</description>
+		<year>1995</year>
+		<publisher>Sierra</publisher>
+		<disk name="battle bugs (1995)(sierra)(m3)" sha1="7216a7e82f4c09f89845dd90b32cde706bc43883" />
+	</machine>
+	<machine name="batlcr3k">
+		<description>Battlecruiser 3000AD</description>
+		<year>1995</year>
+		<publisher>Take 2</publisher>
+		<disk name="battlecruiser 3000ad (1995)(take 2)" sha1="dd59c07faf6f127053800b27c8c1248393ac4b86" />
+	</machine>
+	<machine name="batlisl3">
+		<description>Battle Isle 3 - Shadow of the Emperor</description>
+		<year>1995</year>
+		<publisher>Blue Byte</publisher>
+		<disk name="battle isle 3 - shadow of the empire (1995)(blue byte)(disc 1 of 2)" sha1="fa140978350d679335f8bbef0ccd54a0042628ad" />
+		<disk name="battle isle 3 - shadow of the empire (1995)(blue byte)(disc 2 of 2)" sha1="587eba131db7eb9652025d8810b303a6e9382d26" />
+	</machine>
+	<machine name="beantara">
+		<description>Betrayal in Antara</description>
+		<year>1997</year>
+		<publisher>Sierra</publisher>
+		<disk name="betrayal in antara (1997)(sierra)(disc 1 of 3)" sha1="df24bd61462238c91174c5adacb4ecf04e41ec14" />
+		<disk name="betrayal in antara (1997)(sierra)(disc 2 of 3)" sha1="b5c87d1698918c034682fff4e24d1d54cc1b9e4a" />
+		<disk name="betrayal in antara (1997)(sierra)(disc 3 of 3)" sha1="aeb47dc31c8e3ce3144b89181bf335b28caab225" />
+	</machine>
+	<machine name="bermusynd">
+		<description>Bermuda Syndrome (Germany)</description>
+		<year>1995</year>
+		<publisher>Century Interactive / BMG Interactive Entertainment</publisher>
+		<disk name="bermuda syndrome (1995)(bmg interactive entertainment)(de)" sha1="45c0aebb68b5ef6bf9ee6dca3713b08dcb252928" />
+	</machine>
+	<machine name="bfchess">
+		<description>Bobby Fischer Teaches Chess</description>
+		<year>1996</year>
+		<publisher>Interplay / Mission Studios</publisher>
+		<disk name="bobby fischer teaches chess (1996)(interplay)(en-fr)" sha1="2c178eaaf9a21fdf2847b37fdaa5ad2d8fbddafb" />
+	</machine>
+	<machine name="bioforge">
+		<description>Bioforge (vf1.01)</description>
+		<year>1995</year>
+		<publisher>Origin</publisher>
+		<disk name="bioforge vf1.01 (1995)(origin)(m3)" sha1="2bc3734682a461aae4e07d8a419fde407cefd4c1" />
+	</machine>
+	<machine name="bitmpbro">
+		<description>The Bitmap Brothers Compilation</description>
+		<year>1995</year>
+		<publisher>Renegade Software</publisher>
+		<disk name="Bitmap Brothers Compilation, The (Europe)" sha1="5f543f56ef0bbee1ddcfd528459b0d0367a6ef3e" />
+	</machine>
+	<machine name="blackhawk">
+		<description>Blackhawk (Europe)</description>
+		<year>1994</year>
+		<publisher>Interplay</publisher>
+		<disk name="Blackhawk (Europe) (En,Fr,De)" sha1="7031e0b00ade177a62d0df78c3f2f69fbc3e4e33" />
+	</machine>
+	<machine name="bladerun">
+		<description>Blade Runner</description>
+		<year>1997</year>
+		<publisher>Virgin</publisher>
+		<disk name="blade runner (1997)(virgin)(disc 1 of 4)" sha1="449b907d4b85e67d3b7fe5832ea7ad4f555b31db" />
+		<disk name="blade runner (1997)(virgin)(disc 2 of 4)" sha1="f1de28b44c7960d43451c1287e6fabfdb6018da5" />
+		<disk name="blade runner (1997)(virgin)(disc 3 of 4)" sha1="aca716550f43468d4e786083d29c07610273d8e1" />
+		<disk name="blade runner (1997)(virgin)(disc 4 of 4)" sha1="f4681e82c6cd1d17d449831102f5c9235b6d6659" />
+	</machine>
+	<machine name="bloodbwl">
+		<description>Blood Bowl</description>
+		<year>1995</year>
+		<publisher>MicroLeague Interactive / Games Workshop</publisher>
+		<disk name="blood bowl (1995)(microleague)" sha1="d961b1455a71ee318367f6f6d030d5742656ddb6" />
+	</machine>
+	<machine name="bloodwng">
+		<description>Bloodwings - Pumpkinhead's Revenge</description>
+		<year>1995</year>
+		<publisher>MPCA Interactive</publisher>
+		<disk name="bloodwings - pumpkinhead's revenge (1995)(mpca interactive)" sha1="244406a26d1bd35fd59ef2159482c49e9222291f" />
+	</machine>
+	<machine name="blowawayd">
+		<description>Blown Away (Germany)</description>
+		<year>1997</year>
+		<publisher>Magellan</publisher>
+		<disk name="blown away (1997)(magellan)(de)" sha1="d2de15e7baa6344802644a5b2b1d7f8837fa563f" />
+	</machine>
+	<machine name="blueforc">
+		<description>Blue Force</description>
+		<year>1993</year>
+		<publisher>Tsunami Media</publisher>
+		<disk name="blue force (1993)(tsunami)" sha1="a02689612244b349465542b88beb0bc73b438e4d" />
+	</machine>
+	<machine name="bnbhvs">
+		<description>Beavis and Butthead - Virtual Stupidity</description>
+		<year>1995</year>
+		<publisher>Viacom New Media</publisher>
+		<disk name="beavis_and_butthead_-_virtual_stupidity_(1995)(viacom_new_media)" sha1="0c5169899f8ccc5e02df1bebc7e814d6945aa915" />
+	</machine>
+	<machine name="bodyvoya">
+		<description>Bodyworks Voyager</description>
+		<year>1994</year>
+		<publisher>Software Marketing Corporation</publisher>
+		<disk name="bodyworks voyager (1994)(software marketing corporation)" sha1="f84f43ede878e226b5be89d83e5f8e02b7860732" />
+	</machine>
+	<machine name="boorball">
+		<description>Boorp's Balls</description>
+		<year>2001</year>
+		<publisher>Xpiral / TSY</publisher>
+		<disk name="booaps" sha1="58d2602ca37c40041a6b504857d4c3057e52e94d" />
+	</machine>
+	<machine name="braind13d">
+		<description>Brain Dead 13 Starring Fritz (Germany)</description>
+		<year>1995</year>
+		<publisher>Empire</publisher>
+		<disk name="brain dead 13 starring fritz (1995)(empire)(de)" sha1="973da4f1d546e4fb14d8fe927798e91a57df484f" />
+	</machine>
+	<machine name="briganty">
+		<description>Briganty - The Roots of Darkness for Windows (Japan)</description>
+		<year>1999</year>
+		<publisher>Giga</publisher>
+		<disk name="briganty" sha1="f83dd61213eccb7b037eae81508b44bc12690e97" />
+	</machine>
+	<machine name="brokswd2d">
+		<description>Baphomets Fluch II - Die Spiegel der Finsternis (Germany A707197)</description>
+		<year>1997</year>
+		<publisher>Virgin / Revolution</publisher>
+		<disk name="baphomets fluch ii - die spiegel der finsternis (1997)(virgin)(de)(disc 1 of 2)[a707197-01]" sha1="c42eb9bf21d3e4145a702c8d694fa4932c22018b" />
+		<disk name="baphomets fluch ii - die spiegel der finsternis (1997)(virgin)(de)(disc 1 of 2)[cvir102400 cd1.2]" sha1="b01957c5c2c27f9956124275ed293ff1e02357f8" />
+		<disk name="baphomets fluch ii - die spiegel der finsternis (1997)(virgin)(de)(disc 2 of 2)[a707197-02]" sha1="c4a5ff0e844f8cb91205bc4829b15c4f74dc2daa" />
+		<disk name="baphomets fluch ii - die spiegel der finsternis (1997)(virgin)(de)(disc 2 of 2)[cvir102400 cd2.2]" sha1="9c087381903bbc8a2a87e8f7ea502d216830185b" />
+		<disk name="broken sword ii - las fuerzas del mal (1997)(friendware)(es)(disc 1 of 2)" sha1="bd53affaea0bffd54b11a39b751978249bdf7cf4" />
+		<disk name="broken sword ii - las fuerzas del mal (1997)(friendware)(es)(disc 2 of 2)" sha1="3819e8b6d6ab743b9cbd19f1a28c0475649e23b2" />
+	</machine>
+	<machine name="brokswdd">
+		<description>Baphomets Fluch (Germany)</description>
+		<year>1997</year>
+		<publisher>Megamedia / Revolution / Virgin</publisher>
+		<disk name="baphomets fluch (1997)(megamedia)(de)(disc 1 of 2)[compilation megapak 8]" sha1="ce2a0d98bb579efad8e6297ac15dee52d637822f" />
+		<disk name="baphomets fluch (1997)(megamedia)(de)(disc 2 of 2)[compilation megapak 8]" sha1="3e53de504a2a1c806400206fc1d5c85e605cdbb4" />
+	</machine>
+	<machine name="bsdracula">
+		<description>Bram Stoker's Dracula (Europe)</description>
+		<year>1995</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="bram stoker's dracula (1995)(psygnosis)" sha1="2a7c6e4619a9004d71a2adb8dea3bd05790a42a7" />
+	</machine>
+	<machine name="bssky">
+		<description>Beneath a Steel Sky (Europe)</description>
+		<year>1995</year>
+		<publisher>Virgin</publisher>
+		<disk name="beneath a steel sky (1995)(virgin)" sha1="061062ebca97d2e4c46918901419eeed98a6cbf7" />
+		<disk name="Beneath a Steel Sky (USA) (En,Fr,De,Es,It,Pt,Sv) (Rerelease)" sha1="c95f573726cf073cceef0d5b6467c0b6ed211ed1" />
+	</machine>
+	<machine name="budtdtd">
+		<description>Bud Tucker in Double Trouble (Germany)</description>
+		<year>1997</year>
+		<publisher>TopWare</publisher>
+		<disk name="bud tucker in double trouble (1997)(topware)(de)" sha1="0fc5971b2cfabd356fe1726aaf07e3694135c650" />
+	</machine>
+	<machine name="buriedtd">
+		<description>Buried in Time - Verschollen in der Zeit (Germany)</description>
+		<year>1995</year>
+		<publisher>Sanctuary Woods</publisher>
+		<disk name="buried in time - verschollen in der zeit (1995)(sanctuary woods)(de)(disc 1 of 3)" sha1="99ec86577cedf65a2e77543fa7970a99b1a50948" />
+		<disk name="buried in time - verschollen in der zeit (1995)(sanctuary woods)(de)(disc 2 of 3)" sha1="c77120365e053755500f2ec97451149c85e90b60" />
+		<disk name="buried in time - verschollen in der zeit (1995)(sanctuary woods)(de)(disc 3 of 3)" sha1="e4c81d111d7b590453d3053c17cdeadce9f00438" />
+	</machine>
+	<machine name="burntimed">
+		<description>Burntime</description>
+		<year>1993</year>
+		<publisher>MAX Design</publisher>
+		<disk name="burntime (1993)(max design)(de)" sha1="590fe4f9a0b5981bd5c30e17d145cb112765816d" />
+	</machine>
+	<machine name="caesar2">
+		<description>Caesar II (CMC v1.2)</description>
+		<year>1996</year>
+		<publisher>Sierra</publisher>
+		<disk name="caesar ii (1995)(sierra)(de)" sha1="81456b19016bda9492937300264060df052e6cb4" />
+		<disk name="caesar ii (1997)(sierra)[budget][50011269]" sha1="1a3e489a3845963b4f833f613c89c8fffadeefbf" />
+		<disk name="caesar ii (1997)(sierra)[cmc 370810-4]" sha1="ffb3e460dabb5243b131534165b8df7cddbea6d5" />
+	</machine>
+	<machine name="campaign">
+		<description>Campaign</description>
+		<year>1996</year>
+		<publisher>Empire</publisher>
+		<disk name="campaign (1996)(empire)" sha1="cdbb44842cba29bb4d666ca1b1bbd579179dede3" />
+	</machine>
+	<machine name="capitald">
+		<description>Capitalism (Germany v1.02)</description>
+		<year>1996</year>
+		<publisher>Interactive Magic / Enlight Software</publisher>
+		<disk name="capitalism (1995)(interactive magic)(de)" sha1="d9ea6d68d0f6fbddd1043fe62d38421255d4931c" />
+		<disk name="capitalism (1996)(interactive magic)(de)" sha1="797e1c855a3e712e6eb796e2931a755336680cad" />
+	</machine>
+	<machine name="carmnspc">
+		<description>Where in Space is Carmen Sandiego? (USA, Deluxe Edition)</description>
+		<year>1996</year>
+		<publisher>Brøderbund Software</publisher>
+		<disk name="Where in Space Is Carmen Sandiego (USA) (Deluxe Edition)" sha1="72999bcaaa96b970010855e18c6c400742e88d34" />
+	</machine>
+	<machine name="castledb">
+		<description>Castle of Dr. Brain</description>
+		<year>1996</year>
+		<publisher>Sierra</publisher>
+		<disk name="castle of dr. brain (1996)(sierra)" sha1="55a5cf1729d240a0b77333d9a0710e93c1b7f06c" />
+	</machine>
+	<machine name="cdraw6">
+		<description>Corel DRAW! 6</description>
+		<year>1995</year>
+		<publisher>Corel Corporation</publisher>
+		<disk name="corel_draw_6_cd1" sha1="db1f485ff98d9e80bd3c0d4b61945c7f6290ae1f" />
+		<disk name="corel_draw_6_cd2" sha1="bcee744ad708dcf1b25c56a6e5b0be1709d1389b" />
+		<disk name="corel_draw_6_cd3" sha1="cccb1d014ed22aa60ae1af9f43f979e630c0f3a0" />
+		<disk name="corel_draw_6_cd4" sha1="7e88e8537ee0587554e60a77aeb4b2ecaad62f71" />
+	</machine>
+	<machine name="centint">
+		<description>Central Intelligence</description>
+		<year>1994</year>
+		<publisher>Ocean</publisher>
+		<disk name="central intelligence (1994)(ocean)" sha1="b2b86271aa2e1144b14140fea4bafaa6af76cff9" />
+	</machine>
+	<machine name="cfootman">
+		<description>Club Football - The Manager</description>
+		<year>1995</year>
+		<publisher>BOMS</publisher>
+		<disk name="club football - the manager (1995)(boms)(m6)" sha1="07f330b6f789f9d9fbd1572b5f799b5d90dc5403" />
+	</machine>
+	<machine name="cgameos2">
+		<description>Classic Games for OS/2 Warp</description>
+		<year>1995</year>
+		<publisher>IBM</publisher>
+		<disk name="classic games for os2 warp (1995)(ibm)" sha1="4a377af3d8de57c46870c8c3d56b0a5999123082" />
+	</machine>
+	<machine name="chewy">
+		<description>Chewy - Esc from F5</description>
+		<year>1997</year>
+		<publisher>Play Byte</publisher>
+		<disk name="chewy - esc from f5 (1997)(play byte)" sha1="907ab3a356c15cd03d5de3c9fd8a079e13183847" />
+		<disk name="chewy - esc von f5 v1.0 (1995)(blue byte)(de)" sha1="cb86f874143702d6930cff28b891856fb795915c" />
+	</machine>
+	<machine name="chillman">
+		<description>Chill Manor (v1.99)</description>
+		<year>1996</year>
+		<publisher>Simon &amp; Schuster</publisher>
+		<disk name="chill manor (1996)(simon &amp; schuster)" sha1="06532b9a8d041edb81ab4f1d9350990b76486fe0" />
+	</machine>
+	<machine name="chman2">
+		<description>Championship Manager 2 (v1.37)</description>
+		<year>1995</year>
+		<publisher>Domark</publisher>
+		<disk name="championship manager 2 (1995)(domark)[laserlok]" sha1="cf23abdf92b24151afbe03328f92f2e858f493ea" />
+	</machine>
+	<machine name="choroq">
+		<description>Bakusou PC Choro Q (Japan)</description>
+		<year>1998</year>
+		<publisher>Takara / Inner Brain</publisher>
+		<disk name="choroq" sha1="485d19839da7c16d34ad4a5b929a7e60d174d1e6" />
+	</machine>
+	<machine name="chronomst">
+		<description>Chronomaster</description>
+		<year>1995</year>
+		<publisher>Capstone</publisher>
+		<disk name="chronomaster (1995)(capstone)" sha1="e780eabb9a271e28f5a9daac1620630cb61da4a5" />
+	</machine>
+	<machine name="civ2">
+		<description>Sid Meier's Civilization II (Europe)</description>
+		<year>1996</year>
+		<publisher>MicroProse</publisher>
+		<disk name="civilization2pc" sha1="253fba35b28c7a8d121365383ad46873ade921ac" />
+	</machine>
+	<machine name="civ">
+		<description>Civilization (Budget)</description>
+		<year>1994</year>
+		<publisher>MicroProse</publisher>
+		<disk name="civilization (1994)(microprose)(m3)[budget]" sha1="c3a83bd30da53ecf6f122049f262c9bbd7ce24dc" />
+	</machine>
+	<machine name="civilwar">
+		<description>The Civil War</description>
+		<year>1995</year>
+		<publisher>Cyberium</publisher>
+		<disk name="civil war, the (1995)(cyberium)(nl)" sha1="15601dd93c74deb0871e9302697d8c9fb69db45c" />
+	</machine>
+	<machine name="civmant">
+		<description>Civilization &amp; Mantis</description>
+		<year>1993</year>
+		<publisher>MicroProse</publisher>
+		<disk name="civilization &amp; mantis (1993)(microprose)(m3)" sha1="fc9919c49b19cce923a67f4f944810069324ccf8" />
+	</machine>
+	<machine name="clawj">
+		<description>Claw (Japan v1.2)</description>
+		<year>1997</year>
+		<publisher>Monolith Productions Inc.</publisher>
+		<disk name="clawj" sha1="eb48e779ba6cb342fa661f3aa64df23149f16449" />
+	</machine>
+	<machine name="clifdang">
+		<description>Clif Danger (Budget Smile Edition)</description>
+		<year>1997</year>
+		<publisher>CDV</publisher>
+		<disk name="clif danger (1997)(cdv)[budget smile edition]" sha1="eb534da5ec21d701d1d96f881322902d9da9d52e" />
+	</machine>
+	<machine name="clubdead">
+		<description>Club Dead</description>
+		<year>1994</year>
+		<publisher>MTV</publisher>
+		<disk name="club dead (1994)(mtv)" sha1="eb0753e50e0d52192dffce87304f5f52cb3be1cc" />
+	</machine>
+	<machine name="cmdadv">
+		<description>Command Adventures: Starship</description>
+		<year>1995</year>
+		<publisher>Merit Studios</publisher>
+		<disk name="command adventures - starship (1995)(merit studios)" sha1="f1ecaa3f8f4f0bb4705678bba7f10a0b2dfd01bd" />
+	</machine>
+	<machine name="cmdconq">
+		<description>Command &amp; Conquer (v1.07)</description>
+		<year>1995</year>
+		<publisher>Virgin / Westwood Studios</publisher>
+		<disk name="command &amp; conquer (1995)(virgin)(disc 1 of 2)" sha1="d66c196c4114dcb53077ce4fef9bc896b582082b" />
+		<disk name="command &amp; conquer (1995)(virgin)(disc 2 of 2)" sha1="b5409069a18e7afd880ed8983a0f89488dba4972" />
+		<disk name="command &amp; conquer teil 1 - der tiberiumkonflikt (1995)(virgin)(de)(disc 1 of 2)" sha1="484969bdb3d1250bd4c66fb5a4b461cd6466ffe6" />
+		<disk name="command &amp; conquer teil 1 - der tiberiumkonflikt (1995)(virgin)(de)(disc 2 of 2)" sha1="d531ea73f511f691f7698ea18d6e629f064fe41c" />
+	</machine>
+	<machine name="cnwlrddx">
+		<description>Conquest of the New World Deluxe Edition</description>
+		<year>1997</year>
+		<publisher>Dice / Interplay</publisher>
+		<disk name="conquest of the new world deluxe edition (1996)(dice)(nl)(m3)" sha1="3c24ea63ca91748f47327bca221eced25e1a872b" />
+	</machine>
+	<machine name="comanche3">
+		<description>Comanche 3</description>
+		<year>1997</year>
+		<publisher>Nova Logic</publisher>
+		<disk name="comanche 3 (1997)(nova logic)" sha1="c8201261de5a149bd29c042d1777122f001a7589" />
+		<disk name="comanche 3 (1997)(nova logic)(de)" sha1="ec3034c0bf39bc2794f84f4be71feacbbc5c2985" />
+	</machine>
+	<machine name="comanche">
+		<description>Comanche CD - White Lightning</description>
+		<year>1993</year>
+		<publisher>Softgold</publisher>
+		<disk name="comanche cd (1993)(softgold)" sha1="368cf40b7470a73404daa6fbc047d02383dd1bc3" />
+	</machine>
+	<machine name="combairp">
+		<description>Combat Air Patrol</description>
+		<year>1995</year>
+		<publisher>GT Interactive</publisher>
+		<disk name="combat air patrol (1995)(gt interactive)" sha1="5c05e9fa1747c45e9a38db725c341025ef46b55d" />
+	</machine>
+	<machine name="comixzone">
+		<description>Comix Zone</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<disk name="comix zone (1995)(sega)" sha1="6b77dbc41cf493539980d7e45a792ceaf10b9bbe" />
+	</machine>
+	<machine name="conq1086d">
+		<description>Conqueror A.D. 1086 (Germany)</description>
+		<year>1996</year>
+		<publisher>Sierra</publisher>
+		<disk name="conqueror a.d. 1086 (1996)(sierra)(de)" sha1="355d5aaaf34a5d285ccb0d1fdde1fc9369c7a108" />
+	</machine>
+	<machine name="conspiry">
+		<description>Conspiracy</description>
+		<year>1994</year>
+		<publisher>Virgin</publisher>
+		<disk name="conspiracy (1994)(virgin)" sha1="747384f95b72b97cc2b570910aec0bbbdb70f38e" />
+	</machine>
+	<machine name="creadcol">
+		<description>Creative Reader Collection</description>
+		<year>1995</year>
+		<publisher>Novotrade / Creative Wonders / EA Kids</publisher>
+		<disk name="around the world in 80 days (1994)(creative wonders)" sha1="40ad859399b9433d6c4e711f7bc6d20898cc1a45" />
+		<disk name="jungle book, the (1995)(creative wonders)" sha1="1495eb5a4c074d27697d49a895c79d049d6fbcfe" />
+		<disk name="peter pan (1993)(creative wonders)[mac-pc]" sha1="24d299e26e578f937eef7e2eb849c6be67348e1b" />
+	</machine>
+	<machine name="creatursd">
+		<description>Creatures (Germany)</description>
+		<year>1996</year>
+		<publisher>Time Warner Interactive</publisher>
+		<disk name="creatures (1996)(time warner interactive)(de)" sha1="7fda7332902883068b2c32fad034d46cab94c460" />
+	</machine>
+	<machine name="crimec">
+		<description>Crime City</description>
+		<year>1992</year>
+		<publisher>Impressions Games</publisher>
+		<disk name="crime city (1992)(impressions games)" sha1="40d53f138bab6b143a466d1610a1aa5f31d48a9e" />
+	</machine>
+	<machine name="crusader2d">
+		<description>Crusader - No Regret (Germany)</description>
+		<year>1996</year>
+		<publisher>Origin</publisher>
+		<disk name="crusader - no regret (1996)(origin)(de)" sha1="45ccddf40803e6b3c0808fb4541d5adc02545793" />
+	</machine>
+	<machine name="crusader">
+		<description>Crusader - No Remorse (v1.23)</description>
+		<year>1996</year>
+		<publisher>Origin</publisher>
+		<disk name="crusader" sha1="fcf090cd321fd299339b8848ca4b723ef5a28475" />
+	</machine>
+	<machine name="cyberbvr">
+		<description>CyberBykes - Shadow Racer VR</description>
+		<year>1995</year>
+		<publisher>GameTek</publisher>
+		<disk name="cyberbykes - shadow racer vr (1995)(gametek)" sha1="e700e236a8a6c7d699f42b6c2a99f9a4e68b3f4f" />
+	</machine>
+	<machine name="cyberia2">
+		<description>Cyberia 2 - Resurrection</description>
+		<year>1995</year>
+		<publisher>Virgin / Xatrix Entertainment</publisher>
+		<disk name="cyberia 2 - resurrection (1995)(virgin)(disc 1 of 2)" sha1="e05b30e692fbd0cb07cc6334eb25c7284136759c" />
+		<disk name="cyberia 2 - resurrection (1995)(virgin)(disc 2 of 2)" sha1="c52a4e9c6d3196ae9d553f471ce79ba7825f6cda" />
+	</machine>
+	<machine name="cyberia">
+		<description>Cyberia - Project Description (OEM)</description>
+		<year>1994</year>
+		<publisher>Interplay</publisher>
+		<disk name="cyberia - mission norway v1.87 (1994)(interplay)(m3)[oem]" sha1="3bc4126a28807bd9199a4070de1ae02b6c4e00f3" />
+		<disk name="cyberia - project description (1994)(interplay)[oem]" sha1="2e10b54535fe31919e3359d7bc83fae5b1e60821" />
+	</machine>
+	<machine name="cyberjud">
+		<description>Cyber Judas</description>
+		<year>1996</year>
+		<publisher>Multi Media International</publisher>
+		<disk name="cyber judas (1996)(multi media international)(nl)" sha1="4352708856baca0991790168eb626d38c8b17210" />
+	</machine>
+	<machine name="cycleman">
+		<description>Cyclemania</description>
+		<year>1994</year>
+		<publisher>Accolade</publisher>
+		<disk name="cyclemania (1994)(accolade)" sha1="947d0ff25be8668d43fbabb31b23092b6c6510e7" />
+	</machine>
+	<machine name="darker">
+		<description>Darker</description>
+		<year>1995</year>
+		<publisher>Psygnosis / S.I.E.E</publisher>
+		<disk name="darker (1995)(psygnosis)" sha1="8aa77f5c75589480055174e22ce66f767e7ce52e" />
+	</machine>
+	<machine name="dd2">
+		<description>Destruction Derby 2 (Europe)</description>
+		<year>1996</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="dd2_pc" sha1="934d21c1172848110c3198463f5a5261175263a3" />
+	</machine>
+	<machine name="delphicc">
+		<description>Delphine Classic Collection - Adventure</description>
+		<year>1994</year>
+		<publisher>Kixx</publisher>
+		<disk name="Delphine Classic Collection (Europe) (En,De)" sha1="e910498db33534ad63ab62108069e7eda17bd8de" />
+	</machine>
+	<machine name="detritus">
+		<description>Detritus - The Daemon's Quest</description>
+		<year>1996</year>
+		<publisher>Manyk / Myndgaemz</publisher>
+		<disk name="detritus - the daemon's quest (1996)(manyk)" sha1="b9dc8d31ddedf4e6c189f4481ecc40b2784d29de" />
+	</machine>
+	<machine name="diablo">
+		<description>Diablo (v1.00)</description>
+		<year>1996</year>
+		<publisher>Blizzard Entertainment</publisher>
+		<disk name="diablo" sha1="c9d7819a9a9b3fe0927c89a9d9d220b0b7307300" />
+	</machine>
+	<machine name="discdeep">
+		<description>Discoveries of the Deep</description>
+		<year>1996</year>
+		<publisher>SoftKey</publisher>
+		<disk name="discoveries of the deep (1996)(softkey)" sha1="b55f1cc746f5efce727e83c06a31c6ac743da628" />
+	</machine>
+	<machine name="dobupanic">
+		<description>Doka-chan no Building Panic (Japan)</description>
+		<year>2001</year>
+		<publisher>MSD-JAPAN / Salva Corporation / D-YAMA</publisher>
+		<disk name="bpanic" sha1="141b67f93b4d96be7c064d3603a5b961ed56f23b" />
+	</machine>
+	<machine name="doom2j">
+		<description>Doom II for Windows 95 (Japan)</description>
+		<year>1996</year>
+		<publisher>Id Software / Imagineer</publisher>
+		<disk name="doom2j" sha1="61dd4c9a81d4d354a14533dcbd257a5bcffd22c6" />
+	</machine>
+	<machine name="duke3d">
+		<description>Duke Nukem 3D (shareware v1.1)</description>
+		<year>1996</year>
+		<publisher>FormGen</publisher>
+		<disk name="3d_realms_-_duke_nukem_3d_(shareware_version)" sha1="60ac890bd8269b2dbaed687bff45aa009b48cab3" />
+	</machine>
+	<machine name="dungkrem">
+		<description>Dungeons of Kremlin (English, Russia)</description>
+		<year>1995</year>
+		<publisher>NewCom</publisher>
+		<disk name="dungeons of kremlin (1995)(newcom)(en-ru)" sha1="39f7a573cd92b3992e5d298c37c307f8060cd2a1" />
+	</machine>
+	<machine name="dunksc12">
+		<description>Dunkle Schatten 1 &amp; 2 (Germany)</description>
+		<year>1996</year>
+		<publisher>BMI</publisher>
+		<disk name="dunkle schatten 1 &amp; 2 (1996)(bmi)(de)[compilation]" sha1="fa3a2584edc1ca152e3d352a5a7ed8ab740a2c67" />
+	</machine>
+	<machine name="ecoquest">
+		<description>EcoQuest 1 - The Search for Cetus</description>
+		<year>1992</year>
+		<publisher>Sierra</publisher>
+		<disk name="ecoquest 1 - the search for cetus (1992)(sierra)" sha1="8e1452f6caf66f51eb5c57230cce19aef254916b" />
+	</machine>
+	<machine name="elecpop">
+		<description>Electronic Popple (Japan)</description>
+		<year>1997</year>
+		<publisher>Nativesoft Inc. / Fujitsu / Byteshock!</publisher>
+		<disk name="popple" sha1="1132afe937c5d2b914fbb705c90e1ec0c0c9f7ad" />
+	</machine>
+	<machine name="enemystr">
+		<description>Enemy Star</description>
+		<year>1999</year>
+		<publisher>Midas</publisher>
+		<disk name="enemy star (1999)(midas)" sha1="c34f71fd3b51976fd372619e1f6f298b53f6f48f" />
+	</machine>
+	<machine name="epicpinb">
+		<description>Epic Pinball (Europe, Romware release)</description>
+		<year>1994</year>
+		<publisher>Epic Megagames</publisher>
+		<disk name="Epic Pinball (Europe) (v2.1)" sha1="40b39fefca47ce13f1037dfd9b7c72d55b6e668d" />
+		<disk name="Epic Pinball (USA) (Rerelease) (19970206)" sha1="0842e7966aa883434b4eac8567f7b38bb6772965" />
+	</machine>
+	<machine name="ericurdy">
+		<description>Eric the Unready</description>
+		<year>1997</year>
+		<publisher>Legend Entertainment</publisher>
+		<disk name="eric the unready (1997)(legend)" sha1="212771b1cd6622403c24d6bbbee0af7e5069f649" />
+	</machine>
+	<machine name="escdlrum">
+		<description>Escape from Delirium</description>
+		<year>1997</year>
+		<publisher>Magicom Multimedia / Virtual X-Perience</publisher>
+		<disk name="escape from delirium (1997)(magicom multimedia)" sha1="d851ad199db4e9a8aa97ff3a90c7f7e5067aac06" />
+	</machine>
+	<machine name="f1gp">
+		<description>Formula One Grand Prix (Europe)</description>
+		<year>1996</year>
+		<publisher>Microprose</publisher>
+		<disk name="formula one grand prix (1996)(microprose)" sha1="1ef7e2d077ce28578efcbbe9fd6e2b4c197cd6eb" />
+		<disk name="Formula One Grand Prix (Netherlands) (Crucial)" sha1="03b22b58db9eb73171cd4ed3f342ddc2303aad1b" />
+	</machine>
+	<machine name="f29ret">
+		<description>F-29 Retaliator</description>
+		<year>1995</year>
+		<publisher>The Hit Squad</publisher>
+		<disk name="f-29 retaliator (1995)(hit squad)" sha1="d3b66cdf19b871decf81a9d5718d290f4c3648b4" />
+	</machine>
+	<machine name="fpbbal94">
+		<description>Front Page Sports - Baseball '94</description>
+		<year>1994</year>
+		<publisher>Sierra</publisher>
+		<disk name="front page sports - baseball '94 (1994)(sierra)" sha1="685dffa916c07d70e45a6f31a762a567bbfe1269" />
+	</machine>
+	<machine name="franklod">
+		<description>Frankenstein - Life or Death</description>
+		<year>1995</year>
+		<publisher>Merit Studios</publisher>
+		<disk name="frankenstein - life or death (1995)(merit studios)" sha1="22869181022fb89a00f563e41599b833678f2975" />
+	</machine>
+	<machine name="fredfisk">
+		<description>Freddi Fisk och fallet med de försvunna sjögräsfröna (Sweden)</description>
+		<year>1997</year>
+		<publisher>Levande Böcker</publisher>
+		<disk name="freddi fisk och fallet med de forsvunna sjograsfrona (sweden)" sha1="10c19256b8aca3d1b868a97a08670ba72bb9e257" />
+	</machine>
+	<machine name="freedos10">
+		<description>FreeDOS 1.0</description>
+		<year>2006</year>
+		<publisher>The FreeDOS Project</publisher>
+		<disk name="fd10abasecd" sha1="dd786f321046514e5f24abbf340b63dd4dadb30c" />
+		<disk name="fd10abasews" sha1="ac6941c1322c74df58093305f7bc9aed8180c4cd" />
+		<disk name="fd10afullcd" sha1="7ee77df8277da136a7b19eb57afba106dd654233" />
+		<disk name="fd10afullws" sha1="0868559412de4d35b8d5081a6dec87d665ed9c1f" />
+		<disk name="fd10basecd" sha1="4adf8033c7d02f30e9ef9caf68d90b8d131d1759" />
+		<disk name="fd10basews" sha1="a34535fd4d2c719bf5c0de46b0174ff3e0726924" />
+		<disk name="fd10fullcd" sha1="c61303fb65f22c5d4731b921677e11b69c7cfbd5" />
+		<disk name="fd10fullws" sha1="bfdfe1b9e3c4d697e69ea47dd436b6d291bee5bd" />
+	</machine>
+	<machine name="freedos11">
+		<description>FreeDOS 1.1</description>
+		<year>2012</year>
+		<publisher>The FreeDOS Project</publisher>
+		<disk name="fd11src" sha1="3e81da055507f4dd3f906d08f2b21fa47553cf92" />
+	</machine>
+	<machine name="freedos12">
+		<description>FreeDOS 1.2</description>
+		<year>2016</year>
+		<publisher>The FreeDOS Project</publisher>
+		<disk name="fd12cd" sha1="6241ffcfcbd119c09a71622a31ef73d110542716" />
+		<disk name="fd12lgcy" sha1="86ff1e0c49029c68ad24a0110e32929ec26b2760" />
+	</machine>
+	<machine name="freedos13rc1">
+		<description>FreeDOS 1.3 Release Candidate 1</description>
+		<year>2019</year>
+		<publisher>The FreeDOS Project</publisher>
+		<disk name="fd13lgcy" sha1="6e7f457b161df9400c0f1dde0e0a209c6edb21d6" />
+		<disk name="fd13live1" sha1="0eea3f4a33a47a3425f44377e521579d954781d7" />
+		<disk name="fd13live2" sha1="859562545a8ea1c11378e4422756a7dbb1b1171c" />
+	</machine>
+	<machine name="freedos13rc2">
+		<description>FreeDOS 1.3 Release Candidate 2</description>
+		<year>2019</year>
+		<publisher>The FreeDOS Project</publisher>
+		<disk name="fd13lgcy" sha1="5a6bd7eed9700e18b3207c4af828b6da7138db60" />
+		<disk name="fd13live" sha1="183f63a9a35d95b10e1befa9b92060bf7a290726" />
+	</machine>
+	<machine name="freedos13rc3">
+		<description>FreeDOS 1.3 Release Candidate 3</description>
+		<year>2020</year>
+		<publisher>The FreeDOS Project</publisher>
+		<disk name="fd13lgcy" sha1="4f8c9809b335e5f8910edf4ce9c6fd1e5c53ebf5" />
+		<disk name="fd13live" sha1="df8e74fbf7328f522bcbc677697bbbb9dd300c8b" />
+	</machine>
+	<machine name="freedos13rc4">
+		<description>FreeDOS 1.3 Release Candidate 4</description>
+		<year>2021</year>
+		<publisher>The FreeDOS Project</publisher>
+		<disk name="fd13bns" sha1="1fe2a984fffe11c4587e625f845200c219a0893d" />
+		<disk name="fd13lgcy" sha1="34be19cb2465925f1a5576c1eb3144f315621882" />
+		<disk name="fd13live" sha1="85bdfb46bc8cb955aa5bc6df1850b03aa0cef1e0" />
+	</machine>
+	<machine name="fwmigolf">
+		<description>Fuzzy's World of Miniature Space Golf</description>
+		<year>2000</year>
+		<publisher>Manaccom</publisher>
+		<disk name="fuzzy's world of miniature space golf (2000)(manaccom)" sha1="24759143001f23279037226779a90476de3df4c3" />
+	</machine>
+	<machine name="geo">
+		<description>GEO ~The Iron Age~ (Japan)</description>
+		<year>1999</year>
+		<publisher>Bakuretsukoubou / ASCII</publisher>
+		<disk name="geo" sha1="08458018473f8d6e1ddd98b30c30bd955264fd75" />
+	</machine>
+	<machine name="geolight">
+		<description>Geo Light Moon (Japan v1.00)</description>
+		<year>1997</year>
+		<publisher>Nihon Softec / J-Ware</publisher>
+		<disk name="geolight" sha1="e49202c3ff76db5f7fb5f794655d40cc91acb4d9" />
+	</machine>
+	<machine name="goblins3">
+		<description>Goblins 3 (Europe, Sierra Originals release)</description>
+		<year>1993</year>
+		<publisher>Sierra On-Line</publisher>
+		<disk name="Goblins 3 (Europe) (En,Fr,De,Es)" sha1="e791e74efea12222e993b4f29fffce1965822b9c" />
+		<disk name="Goblins 3 (Italy) (Rerelease)" sha1="46dcc872b728539c928d51aabd27633e424977f0" />
+	</machine>
+	<machine name="goblins">
+		<description>Gobliiins (Italy, Collezione Cd-Rom)</description>
+		<year>1998</year>
+		<publisher>C.T.O.</publisher>
+		<disk name="Gobliiins (Italy) (En,Fr,De,Es,It)" sha1="20e6a259f4d5525d52a869aec6da4778b9135566" />
+		<disk name="Gobliiins (USA)" sha1="dca4f53106ee6a5c2f094ddc0a5067ec06dd31ed" />
+	</machine>
+	<machine name="gods">
+		<description>Gods (Europe)</description>
+		<year>1999</year>
+		<publisher>Crucial Entertainment</publisher>
+		<disk name="Gods (Europe)" sha1="d6eb85be4d0f49e6ec6bc16b310b512b297cc0da" />
+	</machine>
+	<machine name="gollygoal">
+		<description>Golly! Ghosts! Goal! (Japan)</description>
+		<year>1996</year>
+		<publisher>Namco</publisher>
+		<disk name="ggg" sha1="ab7babc13b5ffb4536fc7a553753a9d12ec41103" />
+	</machine>
+	<machine name="heartdrkj">
+		<description>Heart of Darkness (Japan v1.1.05)</description>
+		<year>1998</year>
+		<publisher>Infogrames / Amazing Studio / Sammy / Spike</publisher>
+		<disk name="hod" sha1="455fb25c0610b321b3356570c5062eda05c9b659" />
+	</machine>
+	<machine name="heavybarrelcd">
+		<description>Heavy Barrel (1995 CD release)</description>
+		<year>1995</year>
+		<publisher>GT Interactive</publisher>
+		<disk name="heavybarrel_cd" sha1="0d6ea927d897d36f71d49950ccb805e807b92857" />
+	</machine>
+	<machine name="hocuspoc">
+		<description>Hocus Pocus (Europe)</description>
+		<year>1995</year>
+		<publisher>Kixx XL</publisher>
+		<disk name="Hocus Pocus (Europe)" sha1="bfd4f851c81965448daf9e2087723c50ec8a7ed8" />
+		<disk name="Hocus Pocus (Germany)" sha1="d52bdffdb451b91f5bd65c880ba8009198ff5856" />
+		<disk name="Hocus Pocus (Germany) (Demo)" sha1="9fde44d5eb760c1c5847c14165894a8c6073b78f" />
+		<disk name="Hocus Pocus (Spain) (Rerelease)" sha1="7f54622d68dd68da0b5185d6a5475f083315ded3" />
+		<disk name="Hocus Pocus (USA)" sha1="2635c948b4b0503bd616e71a950b5a02d0c40578" />
+		<disk name="Hocus Pocus (USA) (Alt 2)" sha1="46799b8b4e1fa697c23ebee08db3dc00818839a3" />
+		<disk name="Hocus Pocus (USA) (Alt)" sha1="04711c1e225b6127e13cda3358fb7a314c1c0b39" />
+		<disk name="Hocus Pocus (USA) (Rerelease)" sha1="7e7a696f365f79304ed68bf98bb46bcaa2dcdd13" />
+	</machine>
+	<machine name="humans12">
+		<description>Humans 1 and 2 (Europe, OEM)</description>
+		<year>1993</year>
+		<publisher>GameTek</publisher>
+		<disk name="Humans 1 and 2 (Europe) (En,Fr,De,Es,It) (OEM)" sha1="8db38e6429216415c79bfa1757a3847b1e4e8c54" />
+		<disk name="Humans 1 and 2 (Europe) (En,Fr,De,Es,It) (Rerelease)" sha1="78117340601a859927ee88f3c5afc4539e78e6a6" />
+	</machine>
+	<machine name="humans">
+		<description>The Humans (Europe)</description>
+		<year>1993</year>
+		<publisher>GameTek</publisher>
+		<disk name="Humans, The (Europe) (En,Fr,De,Es,It)" sha1="eb442ad703800a643e8e3e6481f7f651c30f2fed" />
+		<disk name="Humans, The (USA)" sha1="39cc0d7ff27b7b467768579a1341e92e24a24b93" />
+	</machine>
+	<machine name="idanthol">
+		<description>id Anthology (rev 1)</description>
+		<year>1996</year>
+		<publisher>id Software</publisher>
+		<disk name="id Anthology (USA) (Disc 1) (Vintage)" sha1="f2e0dcc8252d0b11cc770452f6513fc1d2653452" />
+		<disk name="id Anthology (USA) (Disc 2) (Doom)" sha1="b32a547d78a19d2e0a47fdfc64e270b2ecfa000e" />
+		<disk name="id Anthology (USA) (Disc 2) (Doom) (Rev 1)" sha1="0cc44f09c53368ac0a5360db9b16d5d1ddf4380b" />
+	</machine>
+	<machine name="ignition">
+		<description>Ignition (USA)</description>
+		<year>1997</year>
+		<publisher>Interplay</publisher>
+		<disk name="cd-c95-1063-0" sha1="48bad304857689acb3fc7fcc9e22c2c7e9d8b45f" />
+	</machine>
+	<machine name="indy3">
+		<description>Indiana Jones and the Last Crusade (Europe)</description>
+		<year>1997</year>
+		<publisher>Lucasfilm Games</publisher>
+		<disk name="Indiana Jones and the Last Crusade (Europe)" sha1="dcb4caa38e32a99f4efc66740b53233fbee3ac19" />
+	</machine>
+	<machine name="ironbld">
+		<description>Iron Blood</description>
+		<year>1996</year>
+		<publisher>Microforum</publisher>
+		<disk name="ironbld" sha1="45f44fa1a8feb98daba2b7befb6a8360ad39b352" />
+	</machine>
+	<machine name="iwadejig">
+		<description>Iwatobi Penguin Rocky &amp; Hopper DeJig Puzzle (Japan)</description>
+		<year>199?</year>
+		<publisher>Polygon Pictures</publisher>
+		<disk name="dejig lite" sha1="1300dbaf3aa961a7b5f490b03884e95124048a7d" />
+	</machine>
+	<machine name="jagdead">
+		<description>Jagged Alliance: Deadly Games (v1.00)</description>
+		<year>1996</year>
+		<publisher>Sir-Tech</publisher>
+		<disk name="jagged_alliance_deadly_games_(sir-tech_software)(version_1.0)(master_cd)" sha1="084200cf87bc3f3f6d4bff4d9b5e5d9da9975aff" />
+		<disk name="jagged_alliance_deadly_games_(sir-tech_software)(version_1.0)(multiplayer_cd)" sha1="8e4b601266c597a4dfe4b261c773b07dab4bc5bf" />
+	</machine>
+	<machine name="jakebrstj">
+		<description>Jake Burst (Japan)</description>
+		<year>1997</year>
+		<publisher>Sierra / Pioneer Inc</publisher>
+		<disk name="jake_b" sha1="5efd03633979db40cd37a4c1ba1176cdb8b35c83" />
+	</machine>
+	<machine name="jaxis">
+		<description>Jaxis (Japan)</description>
+		<year>2002</year>
+		<publisher>Jamie System Development</publisher>
+		<disk name="jaxis" sha1="749981bb810b64df141c752daf5b47a64ec0acc9" />
+	</machine>
+	<machine name="karnovcd">
+		<description>Karnov (1995 CD release)</description>
+		<year>1995</year>
+		<publisher>GT Interactive</publisher>
+		<disk name="karnov_cd" sha1="6fb90bf33a608b855b917c8dfe94c900b10c47a9" />
+	</machine>
+	<machine name="keycad">
+		<description>Key CAD Complete Creations (v6.0)</description>
+		<year>1996</year>
+		<publisher>SoftKey</publisher>
+		<disk name="cad creations (1996)(softkey)" sha1="15586355d3cdb4aac612dac765e88cc682324fb2" />
+	</machine>
+	<machine name="kingsq6e">
+		<description>King's Quest VI (Windows 3.1 enhanced)</description>
+		<year>1993</year>
+		<publisher>Sierra</publisher>
+		<disk name="kings_quest_6_enhanced" sha1="0d237ee8c2d15be3b47f3676eddce41a00bca094" />
+	</machine>
+	<machine name="kingsq8i">
+		<description>King's Quest - La Maschera dell'Eternità (Italy)</description>
+		<year>1998</year>
+		<publisher>Sierra</publisher>
+		<disk name="mask" sha1="07c511088e8b7e5773b3126a72b4781af5c3c5df" />
+	</machine>
+	<machine name="kotobuki">
+		<description>Kotobuki (Japan)</description>
+		<year>1997</year>
+		<publisher>C's Ware</publisher>
+		<disk name="kotobuki" sha1="7b0afa327d4b4d4be2c1069e60d9679900db93b8" />
+	</machine>
+	<machine name="krondor">
+		<description>Betrayal at Krondor (1994 release, CDDA)</description>
+		<year>1994</year>
+		<publisher>Dynamix</publisher>
+		<disk name="betrayal_at_krondor" sha1="f0d0907edccfc4f6ab4f181b0d2e9a3b18f81e73" />
+		<disk name="betrayal_at_krondor_1998" sha1="d58acdb5bc10c2ad9a4b6dd51438102785c44216" />
+	</machine>
+	<machine name="ku2impact">
+		<description>KU2 Impact (Japan)</description>
+		<year>1995</year>
+		<publisher>Panther Software</publisher>
+		<disk name="ku2impact" sha1="2e1f1c8ce81065fcdf2081daa97c72180243f1e0" />
+	</machine>
+	<machine name="larry">
+		<description>Leisure Suit Larry in the Land of the Lounge Lizards (USA, SierraOriginals release)</description>
+		<year>1995</year>
+		<publisher>Sierra On-line</publisher>
+		<disk name="Leisure Suit Larry in the Land of the Lounge Lizards (USA)" sha1="5f1ca791067c47357e35aa105ad9b1da5b34f38f" />
+	</machine>
+	<machine name="letlaw">
+		<description>Buichi Terasawa's Takeru - Letter of the Law</description>
+		<year>1996</year>
+		<publisher>Sunsoft</publisher>
+		<disk name="buichi terasawa's takeru - letter of the law (1996)(sunsoft)(disc 1 of 2)[chapter 1 &amp; 2]" sha1="340477ad38fc6dd0ddd8d47ac16e50281bf22b44" />
+		<disk name="buichi terasawa's takeru - letter of the law (1996)(sunsoft)(disc 2 of 2)[chapter 3]" sha1="ed0568d749cda155717289ab29d48013a9dfe9b5" />
+	</machine>
+	<machine name="lexz22z32">
+		<description>Lexmark Z22 / Z32 Color Jetprinter</description>
+		<year>2000</year>
+		<publisher>Lexmark</publisher>
+		<disk name="Lexmark Z22 Z32" sha1="e8e39d2a15ffb1c7d675b98d06fb7c8bad5892e5" />
+	</machine>
+	<machine name="lomax">
+		<description>Lomax (Europe)</description>
+		<year>1997</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="lomax" sha1="d2a24858266e0d906d93d3027bfc89634c125556" />
+	</machine>
+	<machine name="managerd">
+		<description>Bundesliga Manager Professional (Germany)</description>
+		<year>1996</year>
+		<publisher>Software 2000</publisher>
+		<disk name="bundesliga manager professional (1996)(software 2000)(de)[budget]" sha1="9a9454d2aead703de329499d2292dd0bd8495257" />
+	</machine>
+	<machine name="monkisl3">
+		<description>The Curse of Monkey Island</description>
+		<year>1997</year>
+		<publisher>LucasArts</publisher>
+		<disk name="curse of monkey island, the (1997)(lucasarts)(disc 1 of 2)[lucasarts classic]" sha1="66fed1c67175c01eeb570c71d8c65e4c424a0266" />
+		<disk name="curse of monkey island, the (1997)(lucasarts)(disc 2 of 2)[lucasarts classic]" sha1="424d5197c9ed6f6fcf5803612d670aea9bbe05a0" />
+	</machine>
+	<machine name="moon">
+		<description>Moon (Japan)</description>
+		<year>1998</year>
+		<publisher>Over Rise</publisher>
+		<disk name="moon" sha1="fbed194fc5a070dd7be8dc20f990dda9e73a2322" />
+	</machine>
+	<machine name="moondrg">
+		<description>Moon Dragon (Japan)</description>
+		<year>1997</year>
+		<publisher>Gaea</publisher>
+		<disk name="moondrg" sha1="fc79ee0bbc66f22c32fa4a171ba7c97094b195e6" />
+	</machine>
+	<machine name="muscan">
+		<description>Mustek Power of Scanning</description>
+		<year>1997</year>
+		<publisher>Mustek</publisher>
+		<disk name="mustek_scanner" sha1="5f708270ed5885c07a49fadc79ab3ffed420af52" />
+	</machine>
+	<machine name="myst">
+		<description>Myst (v1.0.3)</description>
+		<year>1995</year>
+		<publisher>Brøderbund</publisher>
+		<disk name="myst" sha1="de9e11e5b52753229d64a6940a9de866aaf26791" />
+	</machine>
+	<machine name="nasfdu12">
+		<description>NASLite NAS Server Operating System (v1.x)</description>
+		<year>2004</year>
+		<publisher>Server Elements</publisher>
+		<disk name="naslite-fdu-v1.2" sha1="cb996013c327fd6d5c323fd03f8e9c8061cb4820" />
+	</machine>
+	<machine name="noiangi">
+		<description>Noi Siamo Angeli (Italy)</description>
+		<year>1997</year>
+		<publisher>Smile Interactive / Simulmondo</publisher>
+		<disk name="970618_1330" sha1="29ea81c4760934194099fbd0c2a94239b487a400" />
+		<disk name="bud" sha1="053ed238459721e9b62b9c045af6d8931a223095" />
+	</machine>
+	<machine name="notes33exp_os2">
+		<description>Lotus Notes Express v3.30 for OS2, Special Promotion Copy NFR</description>
+		<year>1995</year>
+		<publisher>Lotus Development Corporation</publisher>
+		<disk name="lotus_notes_express_v3_30_for_os2_special_promotion_copy_nfr_27h9175_lotus_development_corporation_1995" sha1="00b6e6eb8132065c967ba4a967ea403fb3cec14d" />
+	</machine>
+	<machine name="odosmrs701">
+		<description>Caldera OpenDOS Machine Readable Source Kit (M.R.S) 7.01</description>
+		<year>1997</year>
+		<publisher>Caldera</publisher>
+		<disk name="opendosmrs" sha1="f2fb6ad42d42aed26f54e2494ca92ba779458ace" status="baddump" />
+	</machine>
+	<machine name="orgaslave">
+		<description>Orgaslave (Japan)</description>
+		<year>1996</year>
+		<publisher>Kuki</publisher>
+		<disk name="cd1" sha1="60c4be022959c6b108c096780451ba102b488b00" />
+		<disk name="cd2" sha1="11e9986c9b33aeee9cc42fc623f2909f9883ae49" />
+	</machine>
+	<machine name="orpheocr">
+		<description>Are You Afraid of the Dark - The Tale of Orpheo's Curse</description>
+		<year>1994</year>
+		<publisher>Viacom New Media / Nickelodeon</publisher>
+		<disk name="are you afraid of the dark - the tale of orpheo's curse (1994)(viacom new media)" sha1="487f7f1fc8a30507f1ec990bf7ccfc102657a123" />
+	</machine>
+	<machine name="os2demopkg">
+		<description>IBM DEMOpkg for OS2 - First Edition 99Q3</description>
+		<year>1999</year>
+		<publisher>IBM</publisher>
+		<disk name="cd1_setup_installation" sha1="1ac98794670346b1fb0fb866f8060f61500fabf6" />
+		<disk name="cd2_data_management" sha1="caf7a162e7ebcb8ec822b6ec44caf400628ba2d7" />
+		<disk name="cd3_java" sha1="9b4d9fa06f682395ef6198a0a22b5269cf1e93ac" />
+		<disk name="cd4_lotus_products" sha1="997e98788ac69a5a3d6e0d972ca3eee225552a7e" />
+		<disk name="cd5_miscellaneous" sha1="92a4a37d96f064eeee3c4601cc64255d552fe3ac" />
+		<disk name="cd6_networking" sha1="f0bcc3c1b75d14effe4656a8bde7ce62e1b94052" />
+		<disk name="cd7_warp_server" sha1="4561f06b8c56a523e0e2b45cdc3c09aafd7f0b87" />
+		<disk name="cd8_warp_server_installation" sha1="4dba7d9093a76fedb7a37b94c397c591db189bf5" />
+		<disk name="cd9_workspace_on_demand" sha1="6a7906230637d67cff6560e61dbec6a336965a81" />
+	</machine>
+	<machine name="os2special">
+		<description>OS/2 Warp Special CD - november 1995</description>
+		<year>1995</year>
+		<publisher>IBM</publisher>
+		<disk name="os2_warp_special_cd" sha1="0959b6949fc7baab26df6c162ddbd22856701db7" status="baddump" />
+	</machine>
+	<machine name="os2warp3cb">
+		<description>OS/2 Warp Connect with Win-OS/2</description>
+		<year>1995</year>
+		<publisher>IBM</publisher>
+		<disk name="bpcdrom" sha1="d1bee4f3b18368fb9e811959e16f851460f143e2" />
+		<disk name="lanclnt" sha1="594cc9ce2788b51c43686eede95676100715773a" />
+	</machine>
+	<machine name="os2warp3">
+		<description>OS/2 Warp</description>
+		<year>1994</year>
+		<publisher>IBM</publisher>
+		<disk name="bonuspak" sha1="8c874361fd00458a9bdf730fe6b57cc56b2d840e" />
+		<disk name="os2_cd_rom" sha1="8337e382b724ed398e98e881df91ef5d17fab237" />
+		<disk name="os2cdrom" sha1="e316dd95d88d6e63da84b3751dbf9521f87a6bc8" />
+	</machine>
+	<machine name="os2warp4">
+		<description>OS/2 Warp 4</description>
+		<year>1996</year>
+		<publisher>IBM</publisher>
+		<disk name="ibm_os2_warp_4" sha1="4f296b68748882cd1207a555866cf509e01fdb38" />
+	</machine>
+	<machine name="paranasalibm">
+		<description>Paranasal Sinuses &amp; Anterior Skull Base</description>
+		<year>1993</year>
+		<publisher>Elsevier Science B.V.</publisher>
+		<disk name="paranasal sinuses &amp; anterior skull base (1993)(elsevier science b.v.)(windows 3.1 disc)" sha1="fddedb4f78bc5687d65f11fd4e18463e1fc4edda" />
+	</machine>
+	<machine name="paulymou">
+		<description>Pauly Mouse (Japan)</description>
+		<year>1995</year>
+		<publisher>CDWare / Fuji International Enterprises</publisher>
+		<disk name="pmouse" sha1="c135e153fc7f9accfa4d1c2fa9213e8587af24fc" />
+	</machine>
+	<machine name="pcdos2k">
+		<description>PC DOS 2000</description>
+		<year>1998</year>
+		<publisher>IBM</publisher>
+		<disk name="pcdos2k" sha1="ae69e305e82f24d908296ba9f45a1321a1c9dd58" />
+	</machine>
+	<machine name="pcdos7">
+		<description>PC DOS 7</description>
+		<year>1995</year>
+		<publisher>IBM</publisher>
+		<disk name="pcdos70" sha1="38004dc0ee6142ec0498034b09b493d2ca8c1e19" />
+	</machine>
+	<machine name="pcrally">
+		<description>PC Rally (Europe)</description>
+		<year>1997</year>
+		<publisher>Golden Zone</publisher>
+		<disk name="PC Rally (Europe)" sha1="118b16f5d128b4f521e214e64710d06c07d69977" />
+	</machine>
+	<machine name="pipemaniacd">
+		<description>Pipe Mania (1995 CD release)</description>
+		<year>1995</year>
+		<publisher>GT Interactive</publisher>
+		<disk name="pipemaniacd" sha1="be7d5677f92a9820b5114980f70ab153f9e9b7b7" />
+	</machine>
+	<machine name="plumber">
+		<description>Plumbers don't Wear Ties</description>
+		<year>1993</year>
+		<publisher>Kirin Entertainment</publisher>
+		<disk name="plumber" sha1="275872f0cf2f5ebcf05ff91865b341e73dbf1972" />
+	</machine>
+	<machine name="poipon">
+		<description>PoiPon (Japan)</description>
+		<year>1997</year>
+		<publisher>Witty Wolf</publisher>
+		<disk name="poipon" sha1="91c230bd6e14551794a1c28fd65c901187ce7786" />
+	</machine>
+	<machine name="pompei">
+		<description>Pompei A.D. LXXIX (Italy)</description>
+		<year>1995</year>
+		<publisher>Finson / Antinomia</publisher>
+		<disk name="pompei" sha1="964c914b8580a21b2f1a54e9329336ead243598b" />
+	</machine>
+	<machine name="ppersia2">
+		<description>Prince of Persia 2 - The Shadow and the Flame (USA)</description>
+		<year>1998</year>
+		<publisher>Red Orb Entertainment</publisher>
+		<disk name="Prince of Persia 2 - The Shadow and the Flame (France) (Rerelease)" sha1="59c3a46126ff4c92a63047c9c2afacec9fb769ad" />
+		<disk name="Prince of Persia 2 - The Shadow and the Flame (USA) (Rerelease)" sha1="1fb551690b318cc60b492d4d2c6ab83ea3e83238" />
+	</machine>
+	<machine name="ppersia">
+		<description>Prince of Persia CD Collection (Europe)</description>
+		<year>1995</year>
+		<publisher>Brøderbund Software</publisher>
+		<disk name="Prince of Persia CD Collection (Europe)" sha1="970a9bd9e8be6ec9795ea74dee65f721551ac0f1" />
+		<disk name="Prince of Persia CD Collection (USA)" sha1="f608bd49af44e218755c232a1663a74410a67e13" />
+	</machine>
+	<machine name="ppersiale">
+		<description>Prince of Persia Collection: Limited Edition (Europe)</description>
+		<year>1999</year>
+		<publisher>Red Orb Entertainment</publisher>
+		<disk name="Prince of Persia Collection - Limited Edition (Brazil)" sha1="4c9f759058b9b7575188c85b37847351eb18211e" />
+		<disk name="Prince of Persia Collection - Limited Edition (Europe)" sha1="878acef14a973ef7e988457bfec8bf46d13b7ffb" />
+		<disk name="Prince of Persia Collection - Limited Edition (Europe) (Alt)" sha1="182794044998b3fe675c88e49e6fc5ae8da73c4d" />
+		<disk name="Prince of Persia Collection - Limited Edition (Netherlands) (Rerelease)" sha1="d36627f993f53deb01907aeddbeb0791f0a5dac8" />
+		<disk name="Prince of Persia Collection - Limited Edition (USA)" sha1="96a8f1963484af003ce0bd6a964862fdf903cd8b" />
+	</machine>
+	<machine name="prinmak2">
+		<description>Princess Maker 2 (Japan)</description>
+		<year>1995</year>
+		<publisher>Gainax</publisher>
+		<disk name="princess_maker_2_(win31)" sha1="5f7d1af8f9f4c9841893c50c48d765d66a84013d" />
+	</machine>
+	<machine name="prototyp">
+		<description>Prototype</description>
+		<year>1995</year>
+		<publisher>Neo</publisher>
+		<disk name="prototyp" sha1="0cdfabab37e5e9b219b3c8a381c937ae52749bb1" />
+	</machine>
+	<machine name="pyrotech">
+		<description>Pyrotechnica (USA)</description>
+		<year>1995</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="Pyrotechnica (USA) (En,Fr,De,Es,It)" sha1="7529b4b0701b9cbd8756181b4a4806d9b100d9bb" />
+	</machine>
+	<machine name="qracrally">
+		<description>Network Q RAC Rally (USA)</description>
+		<year>1996</year>
+		<publisher>Europress Software</publisher>
+		<disk name="Network Q RAC Rally (USA)" sha1="953ab84ace809f851ba536bf66df86618c9add29" />
+	</machine>
+	<machine name="quake">
+		<description>Quake (shareware v1.01)</description>
+		<year>1996</year>
+		<publisher>id Software</publisher>
+		<disk name="quake" sha1="b32fa2c83512819f3c36d052d591cc2f26a0fdeb" />
+	</machine>
+	<machine name="rayman">
+		<description>Rayman (US v1.21)</description>
+		<year>1995</year>
+		<publisher>Ubi Soft</publisher>
+		<disk name="rayman" sha1="7e2eeda69210a4d862f3f3b29c8b984d4aa443fd" />
+	</machine>
+	<machine name="redalert">
+		<description>Command &amp; Conquer - Red Alert</description>
+		<year>1996</year>
+		<publisher>Virgin / Westwood Studios</publisher>
+		<disk name="command &amp; conquer - red alert (1996)(dice)(nl)(disc 1 of 2)" sha1="447c8e11a29b9ce76d5088ef6be416da389dac26" />
+		<disk name="command &amp; conquer - red alert (1996)(dice)(nl)(disc 2 of 2)" sha1="3262e3c2991e0ef9d25a69053f0c80b5954868ab" />
+		<disk name="command &amp; conquer - red alert (1996)(sold out)(disc 1 of 2)[budget]" sha1="583b3e6a9f504681cf35c5e8cc1643d2f7a60f1c" />
+		<disk name="command &amp; conquer - red alert (1996)(sold out)(disc 2 of 2)[budget]" sha1="82da2a8a7ebb16d35ae1a2d3b066d3ba2176f32c" />
+		<disk name="Command &amp; Conquer - Red Alert (1996)(Virgin)(Disc 1 of 2)" sha1="30e980766b5de27296c4f49cd41a7baec50736c4" />
+		<disk name="Command &amp; Conquer - Red Alert (1996)(Virgin)(Disc 2 of 2)" sha1="1e51fd94731a631903603207bae5d4313757fb92" />
+		<disk name="command &amp; conquer teil 2 - alarmstufe rot (1996)(virgin)(de)(disc 1 of 2)" sha1="14295fc24d0be6b63132ccb11c41ff5564b76151" />
+		<disk name="command &amp; conquer teil 2 - alarmstufe rot (1996)(virgin)(de)(disc 2 of 2)" sha1="d80439cd151fe0d4225233ec83624fc5630626b2" />
+	</machine>
+	<machine name="rise2dc">
+		<description>Rise 2 Resurrection - Director's Cut</description>
+		<year>1995</year>
+		<publisher>Acclaim</publisher>
+		<disk name="rise 2 resurrection - director's cut (disc 1)" sha1="cd62b2bde9355b2625d8bdeaece3ec2ccfff5310" />
+		<disk name="rise 2 resurrection - director's cut (disc 2)" sha1="e6c6c4876d18fbb5916ed13885f1ea614aad05eb" />
+	</machine>
+	<machine name="roadrashi">
+		<description>Road Rash (Italy)</description>
+		<year>1996</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="roadrash" sha1="8029d895fda77b46fa9ca3b34a52dd5cb2a72fad" />
+	</machine>
+	<machine name="sasuberi">
+		<description>Saru Suberi (Japan)</description>
+		<year>1997</year>
+		<publisher>Witty Wolf</publisher>
+		<disk name="sarusuberi" sha1="44b9dac3e60169b45a774a2e3f1986275309c4df" />
+	</machine>
+	<machine name="sb16">
+		<description>Sound Blaster 16 CD driver</description>
+		<year>1996</year>
+		<publisher>Creative Labs</publisher>
+		<disk name="sb16" sha1="c87097c58d1c3fcea03e5e4b50d2cafdcb870f16" />
+	</machine>
+	<machine name="segata">
+		<description>Segata Sanshirou Choujin Densetsu</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<disk name="segata" sha1="0d7a6d9a7143d0309d44c1356f68c15a05949257" />
+	</machine>
+	<machine name="seraphim">
+		<description>Seraphim Saigo No Tenshi (Japan)</description>
+		<year>1997</year>
+		<publisher>Soeishinsha</publisher>
+		<disk name="seraphim" sha1="ebf5dfec275ff0427ac8bcff34ddf84972636602" />
+	</machine>
+	<machine name="shangmom">
+		<description>Shanghai: Great Moments</description>
+		<year>1995</year>
+		<publisher>Activision</publisher>
+		<disk name="shanghai" sha1="1d3cd20e23a94c6d5568687da3fc56579e2b6a26" />
+	</machine>
+	<machine name="sideline">
+		<description>Sideline</description>
+		<year>1996</year>
+		<publisher>EMAG Soft</publisher>
+		<disk name="sideline" sha1="5e6b52aa5cb9df8a65362901ac60a98f8f6ab464" />
+	</machine>
+	<machine name="silicon">
+		<description>Silicon Scream (Japan)</description>
+		<year>1995</year>
+		<publisher>JVC Advanced Media / NEC Interchannel / Off-World Communications</publisher>
+		<disk name="silicon" sha1="b20f8e685d17a0a4def35a5a11672e6779846b30" />
+	</machine>
+	<machine name="silkroad">
+		<description>Silkroad Hoshi no Shima no Monogatari (Japan)</description>
+		<year>1998</year>
+		<publisher>Anjin / Sprite</publisher>
+		<disk name="silkroad" sha1="e1b532b3acaf6dfb16d7165e6cbebbf92e98ee49" />
+	</machine>
+	<machine name="simcit2k">
+		<description>SimCity 2000</description>
+		<year>1994</year>
+		<publisher>Maxis</publisher>
+		<disk name="simcity_2000_dos" sha1="a8c90e9cb27d3bb8e265bfc96cd31f4e9a04a034" />
+	</machine>
+	<machine name="simcity">
+		<description>SimCity Classic (v2.0)</description>
+		<year>1995</year>
+		<publisher>Maxis</publisher>
+		<disk name="sc_classic" sha1="0e76c55926803a3fb9c6de9650902965d025847e" />
+	</machine>
+	<machine name="sk">
+		<description>Sonic &amp; Knuckles Collection</description>
+		<year>1997</year>
+		<publisher>Sega / Expert Software</publisher>
+		<disk name="sonic_and_knuckles_collection" sha1="09c2d79046710745bc122b3b326ef572af988b3e" />
+	</machine>
+	<machine name="skulcrck">
+		<description>Skull Cracker (Windows)</description>
+		<year>1996</year>
+		<publisher>GTE Entertainment</publisher>
+		<disk name="skull cracker (1996)(gte)" sha1="a15057c0648695daf6939220c3fd285be3fb1d91" />
+	</machine>
+	<machine name="skynet">
+		<description>SkyNET</description>
+		<year>1996</year>
+		<publisher>Bethesda Softworks</publisher>
+		<disk name="skynet" sha1="0b9059f48d86c651bcd0e8b8112983b84fc489a6" />
+	</machine>
+	<machine name="slamdtyp">
+		<description>Slam Dunk Typing</description>
+		<year>1997</year>
+		<publisher>Creative Wonders</publisher>
+		<disk name="slamdunktyping" sha1="0a1fa31c6d9d2a3bf7cfb6bc24e870d7c666a9f6" />
+	</machine>
+	<machine name="soccerkd">
+		<description>Soccer Kid (Europe)</description>
+		<year>1994</year>
+		<publisher>Krisalis</publisher>
+		<disk name="Soccer Kid (Europe) (En,Fr,De,Es,It)" sha1="eb7a0e21e42688b43e6b6821e381c03a03548e54" />
+	</machine>
+	<machine name="spaceinv">
+		<description>Space Invaders for Windows</description>
+		<year>1997</year>
+		<publisher>Wiz / Taito</publisher>
+		<disk name="si_4" sha1="0827a8a8f6602fd0947396b9ef96e449eb7a4d5c" />
+	</machine>
+	<machine name="ssuite_os2">
+		<description>Lotus SmartSuite for OS/2 Warp 4</description>
+		<year>1998</year>
+		<publisher>Lotus Development Corporation</publisher>
+		<disk name="ssuiteos2" sha1="0cd1718ee6ce9876c57e5c700122f1209d5ea2ae" />
+	</machine>
+	<machine name="stg">
+		<description>S.T.G.</description>
+		<year>1999</year>
+		<publisher>GameLand / DaiCom Software</publisher>
+		<disk name="stg" sha1="553a04c67860c49d2c5fa1da983c4bc3ab5267fd" />
+	</machine>
+	<machine name="strmrisk">
+		<description>Sturmtruppen: Risiken? (Italy)</description>
+		<year>1997</year>
+		<publisher>G&amp;T Multimedia</publisher>
+		<disk name="sturmtruppen_risiken" sha1="e8b4884c95df5101beee68dbc5b45c92ddc08c3e" />
+	</machine>
+	<machine name="supaplex">
+		<description>Supaplex (Europe)</description>
+		<year>1995</year>
+		<publisher>Action Sixteen</publisher>
+		<disk name="Supaplex (Europe)" sha1="24aae2c6eb6aed18550a8d86803c1e122c26bf12" />
+	</machine>
+	<machine name="t2gmchess">
+		<description>Terminator 2: Judgment Day - Chess Wars / Grandmaster Chess</description>
+		<year>1993</year>
+		<publisher>Capstone Software</publisher>
+		<disk name="t2_cdrom" sha1="9bbb9362fe6a4895c7b1e3e34c179fdd7436c070" />
+	</machine>
+	<machine name="tagteamcd">
+		<description>Tag Team Wrestling (1995 CD release)</description>
+		<year>1995</year>
+		<publisher>GT Interactive</publisher>
+		<disk name="tagteam_cd" sha1="33eaebcca48c8a4382dc3ac87e346e393f47b2d8" />
+	</machine>
+	<machine name="telstar10">
+		<description>Telstar 10 CD ROM Box Set</description>
+		<year>1993</year>
+		<publisher>Telstar Fun &amp; Games</publisher>
+		<disk name="10 Game CD ROM (Europe)" sha1="1bfe41e2d2b59c8aa640b52ef5ee2aa38e62282d" />
+	</machine>
+	<machine name="term2029dx">
+		<description>The Terminator: 2029 - Deluxe CD Edition</description>
+		<year>1994</year>
+		<publisher>Bethesda Softworks</publisher>
+		<disk name="2029_cd" sha1="8bcadedb9f8f24b699a0847edcb1bc1fa1222b7a" />
+	</machine>
+	<machine name="termfs">
+		<description>The Terminator: Future Shock</description>
+		<year>1995</year>
+		<publisher>Bethesda Softworks</publisher>
+		<disk name="future_shock" sha1="db390639f1c7ae57f1aa43083bdd37c08c3e3e10" />
+	</machine>
+	<machine name="termramp">
+		<description>The Terminator: Rampage</description>
+		<year>1997</year>
+		<publisher>Bethesda Softworks</publisher>
+		<disk name="rampage" sha1="cb91ee2e34e3b7391169079d6787c75712b1d97f" />
+	</machine>
+	<machine name="tplay98">
+		<description>Triple Play '98</description>
+		<year>1997</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="ea-tripleplay98-win95" sha1="304492fab8e65add0ae3516633fcbd4ed7755902" />
+	</machine>
+	<machine name="turricn2">
+		<description>Turrican II - The Final Fight</description>
+		<year>1996</year>
+		<publisher>Factor 5</publisher>
+		<disk name="turricn2" sha1="7efd6bd06b9c05ea1be1d2f2f7538954e044b5c9" />
+	</machine>
+	<machine name="twinbeep">
+		<description>Twinbee Paradise In Donburi Shima (Japan)</description>
+		<year>1998</year>
+		<publisher>Konami</publisher>
+		<disk name="twinbee_p" sha1="a8b07f5cbbef3f88e4c17a5ec323a0a5bff6a961" />
+		<disk name="twinscr" sha1="2597aef2821200fd218a1ae86d38122d4b9b049b" />
+	</machine>
+	<machine name="uffvmus">
+		<description>Uffizi Virtual Museums</description>
+		<year>1995</year>
+		<publisher>Opera Multimedia</publisher>
+		<disk name="uffizi_e1_09" sha1="5121f95753bdf9ffdc5e564259d153088953ac67" />
+	</machine>
+	<machine name="ultima7">
+		<description>The Complete Ultima VII</description>
+		<year>1995</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="complete ultima vii, the (1995)(electronic arts)" sha1="f4b80a35d8a1c395a13f5fa7bd6da7076313fd08" />
+		<disk name="complete ultima vii, the (1995)(electronic arts)(m3)[budget cd-rom classics]" sha1="240b3a30d288bf1c51b054bb27187f0457d5a012" />
+	</machine>
+	<machine name="ultraexp">
+		<description>The UltraSound Experience</description>
+		<year>1994</year>
+		<publisher>Advanced Gravis</publisher>
+		<disk name="ultraexp" sha1="145027e33e8ed4f342209ec41f9f13e7b8d5ba26" />
+	</machine>
+	<machine name="ultrasnd">
+		<description>The UltraSound CD</description>
+		<year>1995</year>
+		<publisher>Advanced Gravis</publisher>
+		<disk name="ultrasnd_cd" sha1="3fe3d683131e5f94bebf25a69c0cd4e496d4891e" />
+	</machine>
+	<machine name="v16imagine">
+		<description>Viper -V16- Imagine (International)</description>
+		<year>2001</year>
+		<publisher>Sogna / Hobibox Europe</publisher>
+		<disk name="GX" sha1="5de4abf4a883a56ec389bb255d176b5a39a63420" />
+	</machine>
+	<machine name="v16rise">
+		<description>Viper -V16- RISE (International)</description>
+		<year>2001</year>
+		<publisher>Sogna / Hobibox Europe</publisher>
+		<disk name="GX4" sha1="a600a961b5127d3a5ee368c20d9f54e6ede23b81" />
+	</machine>
+	<machine name="vcyondo">
+		<description>Awesome Adventures of Victor Vector &amp; Yondo, The - The Cyberplasm Formula</description>
+		<year>1994</year>
+		<publisher>Sanctuary Woods</publisher>
+		<disk name="awesome adventures of victor vector &amp; yondo, the - the cyberplasm formula (1994)(sanctuary woods)" sha1="e359d345ec6657122b50f5904d5c4324c32a2658" />
+	</machine>
+	<machine name="vf">
+		<description>Virtua Fighter PC</description>
+		<year>1996</year>
+		<publisher>Sega / Expert Software</publisher>
+		<disk name="virtua_fighter_pc" sha1="bfba831a59114475082953ff189b957e8ca1ca96" />
+	</machine>
+	<machine name="whoshoti">
+		<description>Who Shot Johnny Rock (Italy)</description>
+		<year>1993</year>
+		<publisher>American Laser Games</publisher>
+		<disk name="who shot johnny rock [DOS IT]" sha1="eb68c0469a43bd16d412180dc0022cb260a31773" />
+	</machine>
+	<machine name="win2kps4">
+		<description>Windows 2000 Professional (with Service Pack 4) (en 5.00.2195.6717)</description>
+		<year>1999</year>
+		<publisher>Microsoft</publisher>
+		<disk name="en_win2000_pro_sp4" sha1="9344cce041f092f0194944bdc690af7df7185cf6" />
+	</machine>
+	<machine name="win30me">
+		<description>Windows Multimedia Extensions 1.0</description>
+		<year>1992</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win30me" sha1="0ef02709c3ed3544fc01983921eaace878cf5d80" />
+	</machine>
+	<machine name="win31ddk">
+		<description>Windows Device Development Kit Version 3.1</description>
+		<year>1992</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win31ddk" sha1="0208c3299cb206ea8b9b7d99e75131661898bae2" />
+	</machine>
+	<machine name="win31rk">
+		<description>Windows Resource Kit for Operating System Version 3.1</description>
+		<year>1992</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win31rk" sha1="0813d90cf00e296676ecd0259cd425ab50670e8a" />
+	</machine>
+	<machine name="win31sdk">
+		<description>Windows Software Development Kit Version 3.1</description>
+		<year>1992</year>
+		<publisher>Microsoft</publisher>
+		<disk name="050-151-320" sha1="4840cb3624e4032456434e099cd0362bc278e680" />
+	</machine>
+	<machine name="win95a">
+		<description>Windows 95 OSR1 (en 4.00.950.osr1)</description>
+		<year>1996</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win95_4.00.950_osr1_en" sha1="bc43d85ea8d0ee65b6102ac7cd425c57398c09ce" />
+	</machine>
+	<machine name="win95b">
+		<description>Windows 95 OSR2 (en 4.00.1111.osr2)</description>
+		<year>1996</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win95_4.00.1111_osr2_en" sha1="e15bd9a4e2c930bd4913996a2d9d11d1567635f5" />
+	</machine>
+	<machine name="win95c">
+		<description>Windows 95 OSR2.5 (en 4.03.1216.osr2.5)</description>
+		<year>1997</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win95_4.03.1216_osr2_5_en" sha1="b000931531cedcbb3f9a00d13d315406cf7c2d52" />
+	</machine>
+	<machine name="win95">
+		<description>Windows 95 (en 4.00.950)</description>
+		<year>1995</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win95_4.00.950_en" sha1="ef1b482b5f6e746b673def87724d9e7ff833ac43" />
+	</machine>
+	<machine name="win98se">
+		<description>Windows 98 Second Edition (en 4.10.2222) (Retail Full)</description>
+		<year>1999</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 98 se (en 4.10.2222 retail full)" sha1="3d9b3e69d03aef2ed5e54c3c73702d1e9b53255c" />
+	</machine>
+	<machine name="win98sejp">
+		<description>Windows 98 Second Edition (jp 4.10.2222) (Retail Full)</description>
+		<year>1999</year>
+		<publisher>Microsoft</publisher>
+		<disk name="microsoft windows 98se" sha1="eb0bdd209334b3709fa31043f390838351127bc0" />
+	</machine>
+	<machine name="win98">
+		<description>Windows 98 (en 4.10.1998) (Retail Full)</description>
+		<year>1998</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows 98 (en 4.10.1998 retail full)" sha1="1e725b0a7ea471e2b91500d09f242d05330b4f50" />
+	</machine>
+	<machine name="winme">
+		<description>Windows ME (en 4.90.3000) (Retail Full)</description>
+		<year>2000</year>
+		<publisher>Microsoft</publisher>
+		<disk name="windows me (en 4.90.3000 retail full)" sha1="3bb9b89f2b5918b7dbe393d250a8f1a530a175ef" />
+	</machine>
+	<machine name="winnt31w">
+		<description>Windows NT 3.1 Workstation (3.10.511.1)</description>
+		<year>1993</year>
+		<publisher>Microsoft</publisher>
+		<disk name="en_winnt_3_1_wks" sha1="0a542add03b6c9ab130421d24f94731c4992e0a7" />
+	</machine>
+	<machine name="winnt351w">
+		<description>Windows NT 3.51 Workstation (3.51.1057.1)</description>
+		<year>1995</year>
+		<publisher>Microsoft</publisher>
+		<disk name="en_winnt_3_51_wks" sha1="5a5d3cf9d244b6b24b007271be478b94a9c349f4" />
+	</machine>
+	<machine name="wpressure">
+		<description>W.Pressure (Japan)</description>
+		<year>1995</year>
+		<publisher>Millenium Interactive / Efecto Caos / Starhill Productions</publisher>
+		<disk name="wpressure" sha1="77b464665b1d827551a3bcd09b4f32c7cb621d17" />
+	</machine>
+	<machine name="wrathdem">
+		<description>Wrath of the Demon (USA)</description>
+		<year>1992</year>
+		<publisher>ReadySoft</publisher>
+		<disk name="Wrath of the Demon (USA)" sha1="60bf39c525e4be184bbb4658cf8c84679f26b516" />
+	</machine>
+	<machine name="zombiewrj">
+		<description>Halloween Harry in Zombie Wars (Japan ver 1.0R)</description>
+		<year>1996</year>
+		<publisher>Gee Whiz! Entertainment / G.A.M. Corporation</publisher>
+		<disk name="zwgam01" sha1="5b79550e2b5f4f1342c1bad105712e3e5c01d925" />
+	</machine>
+	<machine name="zool2">
+		<description>Zool 2</description>
+		<year>1994</year>
+		<publisher>Gremlin Interactive</publisher>
+		<disk name="Zool 2 (Europe)" sha1="7609f9de95f75227849b307b590063a9d34f3d31" />
+	</machine>
+	<machine name="zool">
+		<description>Zool: Ninja of the "Nth" Dimension</description>
+		<year>1996</year>
+		<publisher>Gremlin Interactive</publisher>
+		<disk name="Zool - Ninja of the Nth Dimension (Europe)" sha1="eaf97c3fbf6f78a55fabf316c258f14201bf4be1" />
+	</machine>
+	<machine name="zyclunt">
+		<description>Zyclunt</description>
+		<year>1995</year>
+		<publisher>Phantagram</publisher>
+		<disk name="zyclunt" sha1="cc6e69cdd5bdda70361778c3515571114a97b662" />
+	</machine>
+</datafile>

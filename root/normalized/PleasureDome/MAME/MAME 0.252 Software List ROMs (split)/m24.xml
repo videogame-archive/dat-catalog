@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>m24</name>
+		<description>Olivetti M24 floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="pcosm24">
+		<description>Olivetti PCOS 1.0 (for Olivetti M24)</description>
+		<year>19??</year>
+		<publisher>Olivetti</publisher>
+		<rom name="pcos_m24.td0" size="137326" crc="e3681337" sha1="85de143c84b9015af899d59ccd7614bb2c219f69" />
+	</machine>
+</datafile>

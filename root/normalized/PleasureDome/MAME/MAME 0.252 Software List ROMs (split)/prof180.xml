@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>prof180</name>
+		<description>Conitec PROF-180 floppy disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm22">
+		<description>CP/M 2.2</description>
+		<year>1985</year>
+		<publisher>CONITEC</publisher>
+		<rom name="prof003.td0" size="723227" crc="79dde297" sha1="7ac8ff275cde1d9be946101226072f86ff529334" />
+		<rom name="prof_001.td0" size="772270" crc="e4e1ac49" sha1="de355846929add60c4998280a53f8c7b5dfe46d2" />
+	</machine>
+	<machine name="cpm30">
+		<description>CP/M 3.0</description>
+		<year>1985</year>
+		<publisher>CONITEC</publisher>
+		<rom name="prof002.td0" size="662339" crc="fc26fd91" sha1="32aa0ff903ba792cc3c0531a6078302bb6c4398f" />
+	</machine>
+</datafile>

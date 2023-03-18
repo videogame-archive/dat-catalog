@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>octopus</name>
+		<description>LSI Octopus floppy disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cdos41">
+		<description>Concurrent DOS v4.1</description>
+		<year>198?</year>
+		<publisher>LSI / Digital Research</publisher>
+		<rom name="octcd411.imd" size="292255" crc="6099fb99" sha1="84f8174a9f23215af9cc33aa16781e96e9a5b836" />
+		<rom name="octcd412.imd" size="362833" crc="e3fbde01" sha1="0d47bd2d570ce0495d59eab0bf97981438a13e44" />
+		<rom name="octcd413.imd" size="322953" crc="8fbeac42" sha1="5cfbe41d874b528d45378697cf850f16fb6bdc14" />
+		<rom name="octcd414.imd" size="158250" crc="3a44bfd9" sha1="7daa294df18029f09040879c2697fafd54e615ee" />
+		<rom name="octcd415.imd" size="310680" crc="ce13d027" sha1="ccd888b22db4e5f051707192af38d4aa25672ac3" />
+		<rom name="octcd416.imd" size="164406" crc="dda2eb61" sha1="f9fad795f3830454df609701624e0b852f19c5fd" />
+		<rom name="octcd417.imd" size="163383" crc="62f1707c" sha1="5837acbfcd6b5545d432cdaa6d6d023844bd944c" />
+	</machine>
+	<machine name="cdos52">
+		<description>Concurrent DOS v5.2</description>
+		<year>1987</year>
+		<publisher>LSI / Digital Research</publisher>
+		<rom name="octcd521.imd" size="267678" crc="8f7d6f1d" sha1="491f1bcb99cec3d95de9c5ee6e5c95fab19b534c" />
+		<rom name="octcd522.imd" size="325980" crc="be76fb95" sha1="6d260edc67441f6446e137fcc0e2d8b88b19f254" />
+		<rom name="octcd523.imd" size="330072" crc="b91c30f9" sha1="fb5a38c7d8ce4ad20126644d6a85d70f55f81703" />
+	</machine>
+	<machine name="diag">
+		<description>Octopus Diagnostic Disk</description>
+		<year>198?</year>
+		<publisher>LSI</publisher>
+		<rom name="octdiag.imd" size="217527" crc="8366eb38" sha1="50689555508351e268a7f5ab5569a298768d7573" />
+	</machine>
+	<machine name="msdos211">
+		<description>MS-DOS v2.11</description>
+		<year>1983</year>
+		<publisher>LSI / Microsoft</publisher>
+		<rom name="octmsdos.imd" size="203952" crc="20921e6d" sha1="28ac96c7f8b0855309f9d8bbff29974b1e74bfa6" />
+	</machine>
+</datafile>

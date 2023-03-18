@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>intellect02</name>
+		<description>Intellect-02 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="chess2">
+		<description>Chess (4 levels)</description>
+		<year>1989</year>
+		<publisher>BREA Research Institute</publisher>
+		<rom name="chess2.bin" size="8192" crc="7058e18f" sha1="f1e61eeb752aafbd3c9f4d288ee3e73cc9a74496" />
+	</machine>
+	<machine name="chess">
+		<description>Chess (3 levels)</description>
+		<year>1986</year>
+		<publisher>BREA Research Institute</publisher>
+		<rom name="chess.bin" size="8192" crc="81691aac" sha1="2f358fd8f1f1b0d886a728155a01ce61f0d6c39b" />
+	</machine>
+</datafile>

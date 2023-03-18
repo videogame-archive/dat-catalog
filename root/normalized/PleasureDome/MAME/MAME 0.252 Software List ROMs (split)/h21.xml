@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>h21</name>
+		<description>TRQ Video Computer H-21 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="comefrut">
+		<description>Come frutas</description>
+		<year>198?</year>
+		<publisher>TRQ</publisher>
+		<rom name="comefrutas.bin" size="4096" crc="f66c8e3a" sha1="c695bd36b572dff2c8f6c49edfcfda6dda3675c1" />
+	</machine>
+</datafile>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vector06_flop</name>
+		<description>Vector-06C disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="card">
+		<description>Card Game</description>
+		<year>1994</year>
+		<publisher>S.E.S., VM Group</publisher>
+		<rom name="card.fdd" size="839680" crc="334e1379" sha1="2c15dac696942b0f3abe051a30bd954169344ad7" />
+	</machine>
+	<machine name="cdpacman">
+		<description>CD-Pacman</description>
+		<year>1995</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cdpacman.fdd" size="839680" crc="c429fa01" sha1="4513907202e22e795eb6c6af7eb9a4795795275e" />
+	</machine>
+	<machine name="game15">
+		<description>Game 15 Part 1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game-15.fdd" size="839680" crc="259fcb8e" sha1="4cec8e06d147b74a43784c7389ed86ba02bdf952" />
+	</machine>
+	<machine name="gt">
+		<description>Great Battle Super Tank</description>
+		<year>2000</year>
+		<publisher>gDW</publisher>
+		<rom name="gt.fdd" size="839680" crc="2f439145" sha1="1889cf5e9ac50af752be3159280dd135e729a464" />
+	</machine>
+	<machine name="incubus">
+		<description>Incubus</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="incubus.fdd" size="839680" crc="04b01bf7" sha1="5ad6b4787aa2baa1412f9db38fb6a1051e8e45ae" />
+	</machine>
+	<machine name="komrab">
+		<description>Kombat Rabbits</description>
+		<year>1995</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="komrab.fdd" size="839680" crc="59f8d7ee" sha1="ba95d78add7bf0cda05694763f0c72abcc6737de" />
+	</machine>
+	<machine name="lemmings">
+		<description>Lemmings</description>
+		<year>1996</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="lemmings.fdd" size="839680" crc="06ac97ba" sha1="3c6e7e226ae5dc7fd57bdf48bda17a50f5c21943" />
+	</machine>
+	<machine name="lines">
+		<description>Color Lines</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="lines.fdd" size="839680" crc="d21ed39f" sha1="2a073ab4dd6cb3bc587dd50c1ec3a40fb1be1632" />
+	</machine>
+	<machine name="mreversi">
+		<description>Reversi Master</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="mreversi.fdd" size="839680" crc="0175f570" sha1="c13eed04a92da8dd814dae0bc3079c2689c8cbb3" />
+	</machine>
+	<machine name="ost34">
+		<description>MicroDOS v3.1 BIOS T-34</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="os-t34.fdd" size="839680" crc="6405dafa" sha1="c3b0503c06b541641ae7501ff1123758a7e7d8ab" />
+	</machine>
+	<machine name="ost72">
+		<description>MicroDOS v3.1M BIOS T-72</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="os-t72.fdd" size="839680" crc="cbb25106" sha1="ca2d3fa54cebe2fe29fb9b4bcd9bf7a54977ee50" />
+	</machine>
+	<machine name="puzznic">
+		<description>Puzznic</description>
+		<year>1996</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="puzznic.fdd" size="839680" crc="5c228353" sha1="8ab681e04045af9a5614f09546b281e73576730a" />
+	</machine>
+	<machine name="robocop">
+		<description>Robocop</description>
+		<year>1995</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="robocop.fdd" size="839680" crc="52dcfa15" sha1="ed2dd0a48a2cdbfc08c1036d62ac48fb8ae69b11" />
+	</machine>
+	<machine name="rpm">
+		<description>Real Player demo</description>
+		<year>1997</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="rpm.fdd" size="839680" crc="f3712988" sha1="99709cff59e185cbe9cf0f0d84a8af17afd220d3" />
+	</machine>
+	<machine name="tet3d">
+		<description>Tetris 3D</description>
+		<year>1996</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="tet3d.fdd" size="839680" crc="1d17f27f" sha1="47f2ffb350650974de0a1e992b6eda5346e81426" />
+	</machine>
+	<machine name="trex">
+		<description>T.Rex 0.5: Take One</description>
+		<year>19??</year>
+		<publisher>S.E.S.</publisher>
+		<rom name="t-rex-05.fdd" size="839680" crc="e090320d" sha1="822d4fc3537e4c4a86d46c349f8fac88bb08cfc1" />
+	</machine>
+	<machine name="zoo">
+		<description>Zoo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zoo.fdd" size="839680" crc="7def2d07" sha1="80b8103b2c349d7993e5365453ca88c7685753d7" />
+	</machine>
+</datafile>

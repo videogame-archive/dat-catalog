@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>videopac</name>
+		<description>Philips Videopac / Odyssey 2 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="2aswbat">
+		<description>Air-Sea War / Battle (Europe, US)</description>
+		<year>1978</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_04.bin" size="2048" crc="5ae57a8c" sha1="086a29eb625c935295157ce62ca9717dffff2af0" />
+	</machine>
+	<machine name="2bllcrss">
+		<description>Catch the Ball / Noughts and Crosses (Europe)</description>
+		<year>1979</year>
+		<publisher>Philips</publisher>
+		<rom name="2mlajogo\br_19.bin" size="2048" crc="e39500a6" sha1="68de402f57eb0c8afefdbc46d80d2bc5520afc68" />
+		<rom name="vp_19.bin" size="2048" crc="a57e1724" sha1="671a43595b867b7877e723be18825e9e5d5c4ee9" />
+	</machine>
+	<machine name="2bwlbskt">
+		<description>Ten Pin Bowling / Basketball (Europe, US)</description>
+		<year>1978</year>
+		<publisher>Philips</publisher>
+		<rom name="2bsktbwlpl\jo_jfa_e03.bin" size="8192" crc="b5fb1416" sha1="c341ed24346546b75de2ab24af1a9223ca2d1aac" />
+		<rom name="2bwlbsktpl\vp_06pl.bin" size="8192" crc="e5fb4260" sha1="29d5c9b252e65d257f1472e343039ed8c47eeb05" />
+		<rom name="2qllbskt\vp_06_f.bin" size="2048" crc="a7e97958" sha1="30cbbec570fa0872c13e89ddc312b2f74e3749fb" />
+		<rom name="vp_06.bin" size="2048" crc="084ee035" sha1="2630c304b6beb0f8021578277be68e837202895d" />
+	</machine>
+	<machine name="2dpthmrk">
+		<description>Depth Charge / Marksman (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="2bmbalvo\br_16.bin" size="2048" crc="b1109a09" sha1="e15f778efeb95530f8108854b14c404cf63f213a" />
+		<rom name="vp_16.bin" size="2048" crc="2dcb77f0" sha1="95ccda2010f756069645e50269142a063c9aabc2" />
+	</machine>
+	<machine name="2hckyscr">
+		<description>Electronic Ice Hockey / Electronic Soccer (Europe, US)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="2fblhcky\vp_36_f.bin" size="2048" crc="f00f9dba" sha1="d7593ade4d60a6e314e4f18711e8ea59e3c8c3ad" />
+		<rom name="vp_36.bin" size="2048" crc="39989464" sha1="f39c9801984f97d5a685a4b7a1accd0164a49b43" />
+	</machine>
+	<machine name="2lbsprmd">
+		<description>A Labyrinth Game / Supermind (Europe)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_32.bin" size="2048" crc="d158eeba" sha1="85c567c8f38239350a5d04f8cfd9dd7872f448c9" />
+	</machine>
+	<machine name="2missprg">
+		<description>Missão Impossível / Viagem Programada (Brazil)</description>
+		<year>198?</year>
+		<publisher>Ectron Eletrônica Ltda.</publisher>
+		<rom name="pr_mission-impossible.bin" size="2048" crc="655fdf57" sha1="7ff030e8ba236c9f354b903b89b283886c7455d7" />
+	</machine>
+	<machine name="2mthecho">
+		<description>Mathematician / Echo (Europe, US)</description>
+		<year>1978</year>
+		<publisher>Philips</publisher>
+		<rom name="2mthechf\vp_07_f.bin" size="2048" crc="0c4e4b0a" sha1="d96c65670b9a3a4feedcb720807292708951fcd5" />
+		<rom name="vp_07.bin" size="2048" crc="dc5afaa2" sha1="4dac55de1afadc1af2ac9166d7d47c462a8e797a" />
+	</machine>
+	<machine name="2wrldrsc">
+		<description>Out of this World! / Helicopter Rescue! (US)</description>
+		<year>1979</year>
+		<publisher>Magnavox</publisher>
+		<rom name="o2_19.bin" size="2048" crc="0c2e4811" sha1="c6a79e721ee501d82d9a1c4f71f98bc23f1e7c7e" />
+	</machine>
+	<machine name="3prspclg">
+		<description>Pairs / Space Rendezvous / Logic (Europe)</description>
+		<year>1978</year>
+		<publisher>Philips</publisher>
+		<rom name="3mkrbzlg\o2_07.bin" size="2048" crc="bbf276a0" sha1="908387d2446f4c62019017fe262b412dfa040d10" />
+		<rom name="vp_02.bin" size="2048" crc="a69c2c93" sha1="7ea8e5ff3b9f86914774de2aa6f7a4652adcf47a" />
+	</machine>
+	<machine name="3rcsocpt">
+		<description>Race / Spin-Out / Cryptogram (Europe, US)</description>
+		<year>1978</year>
+		<publisher>Philips</publisher>
+		<rom name="3csaucpt\vp_01_f.bin" size="2048" crc="3b24e1ee" sha1="9e44ca9fc9e5def58c61b24274f0cbfb57d559ee" />
+		<rom name="3csaucptpl\vp_01pl_f.bin" size="8192" crc="9bc04ebb" sha1="e69e524eba10976310333787eafef1d18da6d568" />
+		<rom name="3rcsocptpl\vp_01pl.bin" size="8192" crc="ee3ee642" sha1="69a73208c0c0a6d1b879e62d0ccf3a5a534510bd" />
+		<rom name="vp_01.bin" size="2048" crc="4eda4917" sha1="29d078f587be2afa4612800c64a5af72705e5681" />
+	</machine>
+	<machine name="4in1">
+		<description>4 in 1 Row (Europe)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="4en1\vp_40_f.bin" size="4096" crc="9b5e9356" sha1="0831c3212a9e0a588a242dcd2b136e350aaceac9" />
+		<rom name="vp_40.bin" size="4096" crc="3bfef56b" sha1="e9a8996c4fb87120d8620ab8876b90ddb48335db" />
+	</machine>
+	<machine name="acrobat">
+		<description>Jumping Acrobats (Europe, set 1)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="acrobata\vp_33_alt.bin" size="2048" crc="e7b26a56" sha1="ee5c0471fc192570fe4575ca65882d3d7b85350d" />
+		<rom name="ptbarnum\o2_43.bin" size="4096" crc="874f36a4" sha1="661a73bd490cc592815f742eb33b2d3f0066be41" />
+		<rom name="vp_33.bin" size="2048" crc="6cebab74" sha1="a44587d48e76117838cb6a4cf964321d37efcde1" />
+	</machine>
+	<machine name="airbattl">
+		<description>Air Battle (Europe, plus)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="airbattlp\pr_airbattle.bin" size="8192" crc="1eeb88f5" sha1="50eba68915b0ccc95f07719f80d9011ca2cf67c9" />
+		<rom name="airbattlpa\pr_airbattle_alt.bin" size="8192" crc="5c4f35d3" sha1="2fc0080d132e0063e21fd72d501eef94d3eefab8" />
+		<rom name="barao\br_58.bin" size="8192" crc="4103ee95" sha1="b6842b9264b722e2b39c8647b7963e513a0cde16" />
+		<rom name="vp_58pl.bin" size="12288" crc="d94d4109" sha1="66837bbd0b9df12c89215f533a1ec8b5a42d5610" />
+	</machine>
+	<machine name="amok">
+		<description>AMOK!</description>
+		<year>1998</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="amokpd.bin" size="4096" crc="2247405e" sha1="31c1b0e10d9f56a6d885e6db5a55aa35c407b740" />
+	</machine>
+	<machine name="atlantis">
+		<description>Atlantis (Europe, US)</description>
+		<year>1983</year>
+		<publisher>Imagic</publisher>
+		<rom name="im_atlantis.bin" size="4096" crc="a7344d1f" sha1="6975cf9fed3ee1a2567477921eb851a669d42446" />
+	</machine>
+	<machine name="backgamm">
+		<description>Backgammon (Europe)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_48.bin" size="8192" crc="9d2c45dc" sha1="bcb420dc1cc6fa5cf13dc46c546145953fb11643" />
+	</machine>
+	<machine name="baseball">
+		<description>Baseball (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="baseballpl\o3_08.bin" size="8192" crc="0e039f31" sha1="3ae76c107bb26c31d9a27d9484b3c915111e8304" />
+		<rom name="vp_08.bin" size="2048" crc="b07748e7" sha1="14a37a38c582d8822cb78fb0aace221a2fa9a44c" />
+	</machine>
+	<machine name="baskgame">
+		<description>Basket Game (Europe, US)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_26.bin" size="2048" crc="239df97d" sha1="ffd525d5c6023409afdcdb2afbda227bc4568304" />
+	</machine>
+	<machine name="bastion">
+		<description>Bastion (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="pr_bastion.bin" size="4096" crc="48ed8408" sha1="00b23edd4aa76a50905a6321c2503d7e413242af" />
+	</machine>
+	<machine name="battlef">
+		<description>Battlefield (Europe, US)</description>
+		<year>1979</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_30.bin" size="2048" crc="58fa6766" sha1="e56b674c832e5a7cad977cc76779548fdd2f338e" />
+	</machine>
+	<machine name="bees">
+		<description>Killer Bees! (US)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="beesp\pr_killerbees.bin" size="4096" crc="f308018d" sha1="15880a92e42258776801fdae4239f3e529662913" />
+		<rom name="beespa\pr_killerbees_alt.bin" size="4096" crc="9bec21c2" sha1="5f38cdc587091cb149364d20d508e800c860d82d" />
+		<rom name="beespl\vp_52pl.bin" size="8192" crc="dee70b33" sha1="9253586337917bda0b7c43dbb251999b6c974f30" />
+		<rom name="beesplu\o3_47.bin" size="8192" crc="3026e732" sha1="a944e7d6c5c8924dcbd9ef08e0f74b4bca1177c3" />
+		<rom name="infernal\vp_52pl_f.bin" size="8192" crc="20e2f7be" sha1="34f91468bf42b26eb237af342164043c16d173ca" />
+		<rom name="o2_47.bin" size="8192" crc="b096654e" sha1="b446a2730aefafe71394dbb9850d43c5cf01d367" />
+	</machine>
+	<machine name="billiard">
+		<description>Electronic Billiards (Europe, US)</description>
+		<year>1978</year>
+		<publisher>Philips</publisher>
+		<rom name="billamer\vp_35_f.bin" size="2048" crc="a674ea27" sha1="283ae5fa1d6e89a5ac921c7f2e21a89a67dd138c" />
+		<rom name="billardpl\jo_jxa_d03.bin" size="8192" crc="4cec1404" sha1="004ea921b691db6b310f5b51c495df9b86be3aa8" />
+		<rom name="billiardpl\vp_35pl.bin" size="8192" crc="3c949a57" sha1="4c7f1dc569e9abe829e36dbe42d91d39419bfd60" />
+		<rom name="vp_35.bin" size="2048" crc="24d53e2c" sha1="8abd1057202ebac12acf3822ed4d965bba02b7de" />
+	</machine>
+	<machine name="blackjck">
+		<description>Blackjack (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="blackjckf\vp_05_f.bin" size="2048" crc="6381e402" sha1="9ec331ce8e50ef60de93e615c18327f08b4a24fb" />
+		<rom name="vp_05.bin" size="2048" crc="6f66b1f7" sha1="3e10fc687b1d07612305f680f24590f99842e62b" />
+	</machine>
+	<machine name="blobbers">
+		<description>Blobbers (Europe)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_57.bin" size="8192" crc="9d72d4e9" sha1="cae4e1f3ee090ec423aff89102f359b9e14dba41" />
+	</machine>
+	<machine name="calc">
+		<description>Calculator!</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="new_calculator.bin" size="4096" crc="eccd03be" sha1="b1327cdc079edfaef5eea4314912072801e77d6b" />
+	</machine>
+	<machine name="chess">
+		<description>Chess Module (Europe)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_c7010.bin" size="2048" crc="77066338" sha1="7162359313f66fe759bdd8a34755a5f62f3cadfb" />
+		<rom name="z80_c7010.bin" size="8192" crc="45080245" sha1="fff3e6449a0e82e8e4ff45e5830c98fc38a8848e" />
+	</machine>
+	<machine name="chezmxme">
+		<description>Chez Maxime (France)</description>
+		<year>198?</year>
+		<publisher>Brandt</publisher>
+		<rom name="jo_vxt_a08.bin" size="4096" crc="0f46cf66" sha1="cd58d267fe5bab82f5dab01dbb08d5adf0053108" />
+	</machine>
+	<machine name="chifflet">
+		<description>Des Chiffres et des Lettres (France)</description>
+		<year>198?</year>
+		<publisher>Brandt</publisher>
+		<rom name="jo_jft_d03.bin" size="8192" crc="248bf33e" sha1="5c86921225b93d87bfd63bc13dd22dddab4e8826" />
+	</machine>
+	<machine name="chinese">
+		<description>Chinese Logic (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="desafio\br_17.bin" size="2048" crc="838a2d1e" sha1="241160f0691a394afe632b5b29969dae2d8f2d34" />
+		<rom name="vp_17.bin" size="2048" crc="11edf25b" sha1="431bd5b4ee86e62500eab263e073a585656d16c6" />
+	</machine>
+	<machine name="claypig">
+		<description>Clay Pigeon! (Brazil)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="claypigpl\pr_clay-pigeon_pl.bin" size="8192" crc="6fabcb7e" sha1="3f6dbef6bf13427a52f4f7324d9c33cfce52adb0" />
+		<rom name="claypigpla\pr_clay-pigeon_pl_alt.bin" size="8192" crc="7c989567" sha1="431547d04d5c57b0730b1136f8e68b0ac44b755f" />
+		<rom name="br_clay-pigeon.bin" size="4096" crc="fd179f6d" sha1="c07c1206db8d4fb5142b38ead52082d4682d70be" />
+	</machine>
+	<machine name="cobra">
+		<description>Super Cobra (Europe)</description>
+		<year>1983</year>
+		<publisher>Parker Brothers</publisher>
+		<rom name="cobrab\br_super-cobra.bin" size="8192" crc="e58aa0ac" sha1="46716a927b902759bfe252022f84186098fb5863" />
+		<rom name="pb_super-cobra.bin" size="8192" crc="95936b07" sha1="5521ff83e3be32c38205472b2df49eb507249dc2" />
+	</machine>
+	<machine name="comando">
+		<description>Comando Noturno! (Brazil)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="night\pr_nightfighter.bin" size="8192" crc="7be6f1ef" sha1="ec364634c2a8160da1916a43246b76d78932be1d" />
+		<rom name="br_comando-noturno.bin" size="8192" crc="26517e77" sha1="e0aa46211967c880bf7ff39836fe5e73c0302460" />
+	</machine>
+	<machine name="compprog">
+		<description>Computer Programmer (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="compintr\o2_06.bin" size="2048" crc="95efa98b" sha1="f93c448243db428a4c9e2354596844ed07bb7530" />
+		<rom name="vp_09.bin" size="2048" crc="b590cf14" sha1="913c1961dfa17b5873428f57429e3809580ff906" />
+	</machine>
+	<machine name="conquest">
+		<description>Conquest of the World (Europe, US)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_41.bin" size="4096" crc="afc093fd" sha1="508d1475670ba561e7ddf961a4f0cf6d139d168c" />
+	</machine>
+	<machine name="cosmic">
+		<description>Cosmic Conflict (Europe, set 1)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="cosmica\vp_11_alt.bin" size="2048" crc="2a5f0b2b" sha1="9f8f10c9e6e1a5e07eb5a6eee4e0fe19fcaee17f" />
+		<rom name="cosmicpl\vp_11pl.bin" size="8192" crc="a8dbed92" sha1="99932be5496a0daa7dffc70c7a3ab85bfa726043" />
+		<rom name="cosmicu\o2_11.bin" size="2048" crc="c049e79e" sha1="dccbf881e21dd02cbaf15ec049e0801118fb9c96" />
+		<rom name="cosmospl\vp_11pl_f.bin" size="8192" crc="105231f8" sha1="9220dc32d3bb9225292f3e709d1320b9b1052140" />
+		<rom name="guerresp\vp_11_f.bin" size="2048" crc="2f6e4b46" sha1="e54fe13ee27884524255063aa6fd69e4598a5104" />
+		<rom name="vp_11.bin" size="2048" crc="f4c2075e" sha1="a22f99dcc4aba3126f5b5bbbf2a3890878ac953b" />
+	</machine>
+	<machine name="crazyc">
+		<description>Crazy Chase (Europe, US)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_44.bin" size="4096" crc="a6909a8b" sha1="3391e48c0048a2f588d8238bb202e2ec346a6ad4" />
+	</machine>
+	<machine name="dambust">
+		<description>Dam Buster (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="magique\vp_29_f.bin" size="2048" crc="d38153f6" sha1="ff0ebe9efc275011a0534fd98ca1f4112dae3dab" />
+		<rom name="vp_29.bin" size="2048" crc="fb83171e" sha1="00ef6868724a6826534da620f34dad207fcb3800" />
+	</machine>
+	<machine name="deathrac">
+		<description>Death Race (US)</description>
+		<year>2014</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="deathracp\drace_rc04_pal.bin" size="2048" crc="0ca8c961" sha1="3918d6c2c324fba55e8b90acc8d38e540e4ec5c6" />
+		<rom name="drace_rc04_ntsc.bin" size="2048" crc="91a767de" sha1="26a044c68ff08f574f6649b731b82caca8c0e797" />
+	</machine>
+	<machine name="demon">
+		<description>Demon Attack (Europe, US)</description>
+		<year>1983</year>
+		<publisher>Imagic</publisher>
+		<rom name="demonpl\jo_jxt_c07.bin" size="8192" crc="50af9d45" sha1="cfd1337c8d5a40f2f4e1ab49158a8963764919da" />
+		<rom name="im_demon-attack.bin" size="4096" crc="9bfc3e01" sha1="2d78ccbb56e8b43bb8101b2a1932f5e778b9dbc3" />
+	</machine>
+	<machine name="englouti">
+		<description>Le Tresor Englouti+ (France)</description>
+		<year>1984</year>
+		<publisher>Brandt</publisher>
+		<rom name="jo_jft_a10.bin" size="8192" crc="b2f0f0b4" sha1="c0fcaef6a18026e0acc04c3d48443d768043cb03" />
+	</machine>
+	<machine name="exojet">
+		<description>Exojet+ (France)</description>
+		<year>1983</year>
+		<publisher>Brandt</publisher>
+		<rom name="jo_jxt_c05.bin" size="8192" crc="cfca6f39" sha1="8aafcd055a2ef45c3d85804c8a3ea04d9a9732ab" />
+	</machine>
+	<machine name="flashp">
+		<description>Flash Point (US, prototype)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="flashph\pal_flashpoint.bin" size="8192" crc="06861a9c" sha1="6810ccc1508244216860271417a866618a731ae2" />
+		<rom name="o3_flash.bin" size="8192" crc="e8e985d4" sha1="2fc340ae3dfe656becde77857618e7c4f27d6dfe" />
+	</machine>
+	<machine name="flipper">
+		<description>Flipper Game (Europe, US)</description>
+		<year>1979</year>
+		<publisher>Philips</publisher>
+		<rom name="flipperf\vp_24_f.bin" size="2048" crc="54bf4750" sha1="d12a242d273c4f4417806c3bcd868a9a0f553854" />
+		<rom name="flipperpl\jo_jfa_d01.bin" size="8192" crc="ac5c74e6" sha1="215439c1044b93888b71bd6a210ebfda93d97c22" />
+		<rom name="flipperpla\vp_24pl.bin" size="8192" crc="2fce9245" sha1="6510b54e3e9bf9bc7ae558d1d16fa73294701ddb" />
+		<rom name="vp_24.bin" size="2048" crc="2c9d1715" sha1="d0070e12d6b0f406dab6e1fa550ab01509c9362e" />
+	</machine>
+	<machine name="football">
+		<description>American Football (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_03.bin" size="2048" crc="f9084aa3" sha1="364504ffce1108bcf09a5cc784f7ea2cf141f7b8" />
+	</machine>
+	<machine name="freedom">
+		<description>Freedom Fighters (Europe, US)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="freedompl\vp_39pl.bin" size="8192" crc="1931f5c5" sha1="3f8d6cd5bed5244b400c69640065c77ec103a6cd" />
+		<rom name="freedomplu\o3_36.bin" size="8192" crc="3150a9bf" sha1="e1f78160d273a19f4c322423bc28a566fa668e71" />
+		<rom name="vp_39.bin" size="4096" crc="54736b74" sha1="ad11f3fad2dfd3716445fef3b7d83d479edee0ed" />
+	</machine>
+	<machine name="frogger">
+		<description>Frogger (Europe)</description>
+		<year>1983</year>
+		<publisher>Parker Brothers</publisher>
+		<rom name="froggerb\br_frogger.bin" size="8192" crc="a57d84f3" sha1="bedb714c88b9aa7a02da9ebcde12446ec8350d18" />
+		<rom name="pb_frogger.bin" size="8192" crc="d0bc4ee6" sha1="0beda7b36259b3be84d34206a77a35cd3f04892f" />
+	</machine>
+	<machine name="golf">
+		<description>Golf (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="compgolf\o2_10.bin" size="2048" crc="0f870806" sha1="c8736250ebf376543256d85cf853e825475e0af6" />
+		<rom name="vp_10.bin" size="2048" crc="14b6cc76" sha1="c2bf8d92b8827e3071d6ce4c43e34b21afc54f8d" />
+	</machine>
+	<machine name="gtwallst">
+		<description>The Great Wall Street Fortune Hunt (Europe, US)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="wallst\br_46.bin" size="4096" crc="228842df" sha1="af9db337a2edbb3fe79a3d50f1b4ec1b007f4a52" />
+		<rom name="vp_46.bin" size="4096" crc="881ceae4" sha1="d54b1d5667bf90368dddab55a91955b1789f177c" />
+	</machine>
+	<machine name="gunfight">
+		<description>Gunfighter (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="showdown\o2_16.bin" size="2048" crc="9487c920" sha1="7163c3e0d0e926287df670bfa5d5d5c42b5b3cf6" />
+		<rom name="vp_14.bin" size="2048" crc="abe368bf" sha1="b5ec5ed9373372de6d70620094af06282c48968d" />
+	</machine>
+	<machine name="hawksp">
+		<description>Terrahawks (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="pr_terrahawks2.bin" size="8192" crc="9d1c529c" sha1="9ff605a8318a67fc13c852493322d55bf4a098d0" />
+	</machine>
+	<machine name="helicopt">
+		<description>Helicopter Rescue (Europe)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_59pl.bin" size="16384" crc="c4134df8" sha1="7369a2d3fb81ddc4c8086bbcd245c11ea7aaa331" />
+	</machine>
+	<machine name="himalaya">
+		<description>Himalaya (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="pr_himalaya.bin" size="8192" crc="b7734475" sha1="71f8509173359d6c4f027ff13d53de23204c5077" />
+	</machine>
+	<machine name="homecomp">
+		<description>Home Computer Module (Europe)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_c7420.bin" size="2048" crc="8e824b98" sha1="60dfc1eea93c25f30d25e549f32f837e22735224" />
+		<rom name="z80_c7420.bin" size="16384" crc="939f0e4c" sha1="24c334ba4321f3dd30ac659d35e43f74283ad93b" />
+	</machine>
+	<machine name="interpol">
+		<description>Interpol (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>GST Video</publisher>
+		<rom name="pr_interpol.bin" size="4096" crc="69d21f8f" sha1="c0b10b79461bc1939e08e4c05166126d2b8d7dda" />
+	</machine>
+	<machine name="ktaa">
+		<description>Kill the Attacking Aliens</description>
+		<year>2003</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="ktaa.bin" size="12288" crc="4e2cc6d3" sha1="42ad0c57bd16b7f24c242f60b5c0e9988d8dfba8" />
+	</machine>
+	<machine name="laser">
+		<description>Laser War (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="guerrela\vp_18_f.bin" size="2048" crc="ca8ab259" sha1="12f08273e6c5e97e0a35c4033bd7527bb8a559d3" />
+		<rom name="invaders\o2_14.bin" size="2048" crc="ad7a9a11" sha1="00032798bd4cc01323e663e98634b82a74b0dc53" />
+		<rom name="vp_18.bin" size="2048" crc="17be749b" sha1="3d188d49d4a2409f66ac86bcf58d90d35908032b" />
+	</machine>
+	<machine name="lasvegas">
+		<description>Las Vegas Gambling (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="lasvegasf\vp_23_f.bin" size="2048" crc="a0620082" sha1="b83463b7c40367d4310f142fa15d06d12061f3be" />
+		<rom name="vp_23.bin" size="2048" crc="bb6e7135" sha1="052bc62eb03e2673a802bab866dd0ab3c39fd584" />
+	</machine>
+	<machine name="linguaduc">
+		<description>Linguaduc (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Carba</publisher>
+		<rom name="pr_linguaduc.bin" size="2048" crc="bd623665" sha1="d33dedd4b880f0cb655faa2396ab05c619799269" />
+	</machine>
+	<machine name="loony">
+		<description>Loony Balloon (Europe, plus)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="balao\br_54.bin" size="4096" crc="5b6e741a" sha1="73bf363400fece63d1a10b6b8cd9413612a1a126" />
+		<rom name="loonyp\vp_54.bin" size="4096" crc="ca23f40c" sha1="3cb324b047cbac8ec4381150b1c2aee98573841b" />
+		<rom name="vp_54pl.bin" size="8192" crc="b932d584" sha1="8dd1cba7ce6622aaf5e1b432ab8d47e395d211f2" />
+	</machine>
+	<machine name="martian">
+		<description>Martian Threat (Europe, prototype, set 1)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="martiana\pr_martian-threat_alt.bin" size="8192" crc="335481f1" sha1="d6a3f2def966b798099dbf3c754ab12f69bb4ee8" />
+		<rom name="pr_martian-threat.bin" size="8192" crc="39e31bf0" sha1="4266ca9aa34ace118edd8153e2847cfa94a9a2f0" />
+	</machine>
+	<machine name="moneyrun">
+		<description>Take the Money and Run (Europe, US)</description>
+		<year>1978</year>
+		<publisher>Philips</publisher>
+		<rom name="prendre\vp_12_f.bin" size="2048" crc="ad89f799" sha1="2a55d179acfd9fe31b5f8f0ed0e2379b584f7c8a" />
+		<rom name="vp_12.bin" size="2048" crc="11ff50ad" sha1="8c181f4835d53a358ecb8e4385e087ee942b4b4f" />
+	</machine>
+	<machine name="monkey">
+		<description>Monkeyshines (Europe, US)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_37.bin" size="4096" crc="fee664f3" sha1="6d6659539934255711357537d4fa6e969c3c4754" />
+	</machine>
+	<machine name="morse">
+		<description>Morse (Europe)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="morsef\vp_45_f.bin" size="2048" crc="510416b7" sha1="11065dfbc22dd9ed7609cbcc7f8c6d3bc5b004ee" />
+		<rom name="vp_45.bin" size="2048" crc="2122012c" sha1="8431f56359d80ff6a67c83c50c12fa5d8bc46ff3" />
+	</machine>
+	<machine name="motocras">
+		<description>Moto-Crash+ (France)</description>
+		<year>1984</year>
+		<publisher>Brandt</publisher>
+		<rom name="jo_jxt_e05.bin" size="8192" crc="68560dc7" sha1="f6de2f95e5cf4849a4d7071b1a470c3ef0634e5f" />
+	</machine>
+	<machine name="mousing">
+		<description>The Mousing Cat (Europe)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="chat\vp_47_f.bin" size="4096" crc="61a350e6" sha1="afa67f2110647753de9dfacb268d96e75d6d8657" />
+		<rom name="vp_47.bin" size="4096" crc="f390bfec" sha1="f9727e6c5a941518187c08e5f5d104460ac3b3e3" />
+	</machine>
+	<machine name="mrroboto">
+		<description>Mr. Roboto!</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="mrroboto.bin" size="8192" crc="a030b990" sha1="bcd2deeeed9283ff585d644993494961f0acc46d" />
+	</machine>
+	<machine name="munchkin">
+		<description>Munchkin (Europe)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="kcmunch\o2_35.bin" size="4096" crc="7108e058" sha1="d273cf993dfcbca3b65cd4959b45a3009f242bc6" />
+		<rom name="vp_38.bin" size="4096" crc="4a3e2dc8" sha1="83d06385fd74e3f7c19309e6908a975fa8856f32" />
+	</machine>
+	<machine name="musician">
+		<description>Musician (Europe)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_31.bin" size="4096" crc="afb23f89" sha1="7445f4df9017c4d2ea94542d0db335dc18c9d7ed" />
+	</machine>
+	<machine name="neutron">
+		<description>Neutron Star (Europe, plus)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="buraco\br_55.bin" size="8192" crc="25874b04" sha1="8414605a62e78753e3f8474fa020035596292583" />
+		<rom name="neutronp\vp_55.bin" size="8192" crc="d03efa86" sha1="0a91bdb293f52ac37414a63f71d90c6338a4a91a" />
+		<rom name="vp_55pl" size="12288" crc="be11157c" sha1="fde3e0791b9cbef91a8462764ebf09a457ffe038" />
+	</machine>
+	<machine name="newscast">
+		<description>Newscaster (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="keyboard\o2_33.bin" size="2048" crc="688fad11" sha1="8276ca41e571478eae2dd6add7f79bc7f8bd60de" />
+		<rom name="vp_a.bin" size="2048" crc="85dfcdd7" sha1="183b3b1b70db58cc9ada575cc324353f2e89c2ce" />
+	</machine>
+	<machine name="nightmar">
+		<description>Nightmare (Europe, plus)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="phantom\vp_53.bin" size="8192" crc="313547eb" sha1="3cc218587116eb105e95ffce9eb1b5e268258d4a" />
+		<rom name="vp_53pl.bin" size="8192" crc="26b0ff5b" sha1="c8988f13c2af7632de6ef326ed617279bf6c8221" />
+	</machine>
+	<machine name="nimble">
+		<description>Nimble Numbers Ned! (US)</description>
+		<year>1982</year>
+		<publisher>Magnavox</publisher>
+		<rom name="o2_39.bin" size="4096" crc="cf2f8e7a" sha1="01dd021a1bcdafb58cb2bcca051934f05e978c53" />
+	</machine>
+	<machine name="norseman">
+		<description>Norseman (Europe)</description>
+		<year>1983</year>
+		<publisher>GST Video</publisher>
+		<rom name="vp_56pl.bin" size="8192" crc="a75c42f8" sha1="8e8fe23225631eef673517f3e2970eade15b7a5c" />
+	</machine>
+	<machine name="pharaohs">
+		<description>Secret of the Pharaohs (Europe)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="farao\br_21.bin" size="4096" crc="16c574c8" sha1="ba42f5e642f5dc7be231bb0e230ffa77a766c805" />
+		<rom name="vp_21.bin" size="2048" crc="7394e82c" sha1="9ff434312fa9d3b7b63909a9ece01d4e3e87f3b7" />
+	</machine>
+	<machine name="pickaxe">
+		<description>Pickaxe Pete (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="pickaxepl\vp_43pl.bin" size="8192" crc="b2ffb353" sha1="182829b4cd5184ab3705d26f75e3d8c497b5abf6" />
+		<rom name="vp_43.bin" size="4096" crc="d62814a3" sha1="b979ed0c2b8947f764786fcf4444463b3d3ae87d" />
+	</machine>
+	<machine name="pinball">
+		<description>Pinball! (US, prototype)</description>
+		<year>1979</year>
+		<publisher>Philips</publisher>
+		<rom name="pr_pinball.bin" size="2048" crc="6ef2471a" sha1="350a9e3f95dbf2d5e7aa1ddbd5e531300ddeeee4" />
+	</machine>
+	<machine name="plander">
+		<description>Planet Lander</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="plander.bin" size="2048" crc="6cb1de16" sha1="a878fec75b0b2e60fa81e1eda01a15f7ceebf659" />
+	</machine>
+	<machine name="playtag">
+		<description>Play Tag (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="pr_playtag.bin" size="4096" crc="a29f0fd4" sha1="759dc0efb9dbf64034d9fd78c12207206b173c0c" />
+	</machine>
+	<machine name="pong">
+		<description>Pong for Videopac and Odyssey²!</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="new_pong_all.bin" size="4096" crc="c06a3880" sha1="c559c05de321f794e4b63c625f6023fdbde3a3aa" />
+	</machine>
+	<machine name="popeye">
+		<description>Popeye (Europe)</description>
+		<year>1983</year>
+		<publisher>Parker Brothers</publisher>
+		<rom name="popeyeb\br_popeye.bin" size="8192" crc="1b188870" sha1="d12197942a99d5902de1352bbb5475ab4396c7d0" />
+		<rom name="pb_popeye.bin" size="8192" crc="5216771a" sha1="a13e7b338ba15820949f51eb862b381ddc6870af" />
+	</machine>
+	<machine name="powerlrd">
+		<description>Power Lords (US, set 1)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="powerlrda\o2_48_alt.bin" size="4096" crc="bbeb1bd2" sha1="d6b2c274082a42634d08f514cf0fa30c5360a462" />
+		<rom name="o2_48.bin" size="4096" crc="40ae062d" sha1="e81570282b8ade6b7c0d126c819a95c7011cd063" />
+	</machine>
+	<machine name="ppp">
+		<description>Puzzle Piece Panic!</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="ppp.bin" size="8192" crc="72674adb" sha1="13d5af4dfb100724b8ca42d65cd1849e470784cd" />
+	</machine>
+	<machine name="psmaths">
+		<description>Playschool Maths (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_13.bin" size="2048" crc="1c8368e7" sha1="498cb0882d8a692042889e83775a83cf267a1837" />
+	</machine>
+	<machine name="qbert">
+		<description>Q*bert (Europe)</description>
+		<year>1983</year>
+		<publisher>Parker Brothers</publisher>
+		<rom name="pb_q-bert.bin" size="8192" crc="202f2749" sha1="80d76d5c56fc716a8f7a55166390658c320e4c34" />
+	</machine>
+	<machine name="quest">
+		<description>The Quest for the Rings (Europe, US)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="laquete\vp_42_f.bin" size="4096" crc="a21da732" sha1="04543bdbea8112f7cc55caef5da9445d08d65e46" />
+		<rom name="vp_42.bin" size="4096" crc="9451be1e" sha1="32759c8d502cd8b959da5f03351db7cd46c8f96a" />
+	</machine>
+	<machine name="rally">
+		<description>Trans American Rally (Europe)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_60pl.bin" size="16384" crc="0d2d721d" sha1="be8a9f2aa66acb4f5e288d1a77afada9565b530a" />
+	</machine>
+	<machine name="rash">
+		<description>Rash</description>
+		<year>2016</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="rash.bin" size="2048" crc="79adab3c" sha1="e04c817c112f3617c657fcb6c79d8f66b13ce158" />
+	</machine>
+	<machine name="robot">
+		<description>Robot City (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="pr_robot-city.bin" size="8192" crc="ef9e9c3b" sha1="ff92b024ef80919146e822ce947882d0744ac09f" />
+	</machine>
+	<machine name="route66">
+		<description>Route 66</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="new_route66.bin" size="2048" crc="abe9b016" sha1="21f0210ec8c25a37cc728aba195bad9cad904061" />
+	</machine>
+	<machine name="samurai">
+		<description>Samurai (Europe)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="dynasty\o2_21.bin" size="2048" crc="dc30ad3d" sha1="20c6e4035ce8dd5a8f331c18ceef1056dc9ce818" />
+		<rom name="vp_15.bin" size="2048" crc="7810bad5" sha1="fd354b726bd86dcbe97bcc284cf1e09485dd81ac" />
+	</machine>
+	<machine name="satellit">
+		<description>Satellite Attack (Europe)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="satellitpl\vp_34pl.bin" size="8192" crc="b4735e6b" sha1="8bec213886d026040ed2037f01e8e9f81fa395b9" />
+		<rom name="ufo\o2_30.bin" size="2048" crc="2b1e9e19" sha1="0e819a4b0f17520da24ff79901197f5397cb9a26" />
+		<rom name="vp_34.bin" size="2048" crc="395629e1" sha1="e0383dd98b85dc2156a859e731ff904b6ebad95b" />
+	</machine>
+	<machine name="shark">
+		<description>Shark Hunter (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="pr_shark-hunter.bin" size="8192" crc="df36683f" sha1="eca31e4d8a9e198a8661f6b6e63b33c184e9b22b" />
+	</machine>
+	<machine name="sherlock">
+		<description>The Adventures of Sherlock Holmes (US, prototype)</description>
+		<year>198?</year>
+		<publisher>Magnavox</publisher>
+		<rom name="pr_sherlock.bin" size="8192" crc="245dd6a5" sha1="3046caec84ea4b4b5c84ff7e3d1fd38231367f94" />
+	</machine>
+	<machine name="sidspell">
+		<description>Sid the Spellbinder! (US)</description>
+		<year>1982</year>
+		<publisher>Magnavox</publisher>
+		<rom name="o2_38.bin" size="4096" crc="1b9f2f16" sha1="dfed128d213d4192313f85fe2b8716579c2fc995" />
+		<rom name="spr128-004.bin" size="16384" crc="e79dfb75" sha1="37f33d79ffd1739d7c2f226b010a1eac28d74ca0" />
+	</machine>
+	<machine name="ski">
+		<description>Skiing (Europe, US)</description>
+		<year>1979</year>
+		<publisher>Philips</publisher>
+		<rom name="skif\vp_25_f.bin" size="2048" crc="e129490d" sha1="a6e07b727b4f48d13ce21442911995eb46b99c5d" />
+		<rom name="vp_25.bin" size="2048" crc="4663c4b6" sha1="9e7e16744b44fa83fa14c211b2365cf04604e06e" />
+	</machine>
+	<machine name="soundtool">
+		<description>Sound Tool (Europe)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="soundtool.bin" size="2048" crc="3e454bbe" sha1="976bbac3557e6daa262439645511e280b7c740fe" />
+	</machine>
+	<machine name="spacemon">
+		<description>Space Monster (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_22.bin" size="2048" crc="71ae8533" sha1="9ba0737fdee2918375725bb5230d075a2f847159" />
+	</machine>
+	<machine name="spider">
+		<description>Spider-Man (Europe, prototype, set 1)</description>
+		<year>198?</year>
+		<publisher>Parker Brothers</publisher>
+		<rom name="spidera\pr_spiderman_alt.bin" size="8192" crc="3e5f71f3" sha1="69661c91c984aa26bb971e989fe3aaca93ab718c" />
+		<rom name="pr_spiderman.bin" size="8192" crc="35ace4e8" sha1="4b1d675cb1fbf72ed35681e2b2e6e99fed7154cd" />
+	</machine>
+	<machine name="stone">
+		<description>Stone Sling (Europe)</description>
+		<year>1981</year>
+		<publisher>Philips</publisher>
+		<rom name="smither\o2_41.bin" size="4096" crc="67069924" sha1="fc798f3cf770e8bf5f9a4064b6a4ca66e5a4eb71" />
+		<rom name="stonepl\vp_20pl.bin" size="8192" crc="2391c2fb" sha1="d358fcc6a0fa6469d7063114aa0dc143af14e3e9" />
+		<rom name="vp_20.bin" size="2048" crc="44d1a8a5" sha1="50763429d12206d7bf9fad6a6bd6076a34d54b51" />
+	</machine>
+	<machine name="superbee">
+		<description>Super Bee (Europe)</description>
+		<year>1983</year>
+		<publisher>GST Video</publisher>
+		<rom name="superbeeb\br_50.bin" size="4096" crc="02743352" sha1="98c1f3a9726fe1ba880d43f0ba004821c4cbec6c" />
+		<rom name="vp_50.bin" size="4096" crc="9585d511" sha1="dfcfd9c019773e703aa130bc55f5b2f972ece8f0" />
+	</machine>
+	<machine name="syracuse">
+		<description>Syracuse (France)</description>
+		<year>1981</year>
+		<publisher>Brandt</publisher>
+		<rom name="jo_vxt_a07.bin" size="4096" crc="280d08f4" sha1="37aa11cbf0a32ece89d1d2c500b74660830377df" />
+	</machine>
+	<machine name="tablefb">
+		<description>Electronic Table Football (Europe, US)</description>
+		<year>1980</year>
+		<publisher>Philips</publisher>
+		<rom name="vp_27.bin" size="2048" crc="89c6de2c" sha1="3a032c9be1081db58f28f906940641d74d6bae2b" />
+	</machine>
+	<machine name="terminal">
+		<description>Terminal Program (US, prototype)</description>
+		<year>1983</year>
+		<publisher>Philips</publisher>
+		<rom name="o3_terminal.bin" size="2048" crc="e5d2cf23" sha1="3e6e4f407a8f37636336029950acf7d46253e50a" />
+	</machine>
+	<machine name="testcart">
+		<description>Service Test Cartridge (Europe)</description>
+		<year>198?</year>
+		<publisher>Philips</publisher>
+		<rom name="testcart.bin" size="2048" crc="3fb92bf1" sha1="e5e24c7fcdacde54ea433cb024e89ac0983917b1" />
+	</machine>
+	<machine name="timelord">
+		<description>Attack of the Timelord! (US)</description>
+		<year>1983</year>
+		<publisher>Magnavox</publisher>
+		<rom name="hawks\vp_51pl.bin" size="8192" crc="764894a1" sha1="0c01df9799b6d0235fef3c86fec1beac5b0b2d74" />
+		<rom name="timelordpl\o3_45.bin" size="8192" crc="5987097e" sha1="654bd7460bc31f48f9c29c21d3e10fcb86b8db61" />
+		<rom name="o2_45.bin" size="4096" crc="fc5a7f08" sha1="c63ad4e9aaa903ded9fcf185caf24e76f8aaf3a9" />
+	</machine>
+	<machine name="turtles">
+		<description>Turtles (Europe)</description>
+		<year>1982</year>
+		<publisher>Philips</publisher>
+		<rom name="turtlesu\o2_46.bin" size="8192" crc="9e42e766" sha1="ee456305397ecbd54fffa0bb7a894f53976d2a7c" />
+		<rom name="vp_49.bin" size="8192" crc="1c750349" sha1="1fdca749675f62212d0b79c5f0911bcabc4e4e11" />
+	</machine>
+	<machine name="tutank">
+		<description>Tutankham (Europe, prototype)</description>
+		<year>198?</year>
+		<publisher>Parker Brothers</publisher>
+		<rom name="pr_tutankham.bin" size="8192" crc="0b2deb61" sha1="c4985a344be7da3d78656b6473a3a1ad3ebe6497" />
+	</machine>
+	<machine name="typetell">
+		<description>Type &amp; Tell! (US)</description>
+		<year>1982</year>
+		<publisher>Magnavox</publisher>
+		<rom name="o2_40.bin" size="4096" crc="b936bd78" sha1="40458eaf84a71f509b4069775e49551ce5152697" />
+	</machine>
+	<machine name="voice">
+		<description>The Voice (US)</description>
+		<year>1979?</year>
+		<publisher>Magnavox</publisher>
+		<rom name="sp0256b-019.bin" size="2048" crc="4bb43724" sha1="49f5326ad45392dc96c89d1d4e089a20bd21e609" />
+		<rom name="spr128-003.bin" size="16384" crc="509367b5" sha1="0f31f46bc02e9272885779a6dd7102c78b18895b" />
+	</machine>
+	<machine name="volley">
+		<description>Electronic Volleyball (Europe, US)</description>
+		<year>1979</year>
+		<publisher>Philips</publisher>
+		<rom name="volleyf\vp_28_f.bin" size="2048" crc="551e38a2" sha1="9ea8d921ca03699f74e53e25b139632391838c7d" />
+		<rom name="vp_28.bin" size="2048" crc="d3b09fec" sha1="830c9b3628f2e9c4f8c882024dd912b9d7610765" />
+	</machine>
+	<machine name="vrkrspl1">
+		<description>Verkehrsspiele 1 (Germany)</description>
+		<year>1982</year>
+		<publisher>CSV/Philips</publisher>
+		<rom name="kndrvrkr\vp_v.bin" size="2048" crc="9c9dddf9" sha1="9b73685f7d2008467d4449a3bfedef6e763b5948" />
+		<rom name="csv1.bin" size="2048" crc="45e62222" sha1="e90f2a33e41d9bd4c50e96eacc483bc99e53993b" />
+	</machine>
+	<machine name="vrkrspl2">
+		<description>Verkehrsspiele 2 (Germany)</description>
+		<year>1982</year>
+		<publisher>CSV/Philips</publisher>
+		<rom name="csv2.bin" size="2048" crc="69893f7f" sha1="0904ea45c011d12857477db04b4d1c87544f27e6" />
+	</machine>
+</datafile>

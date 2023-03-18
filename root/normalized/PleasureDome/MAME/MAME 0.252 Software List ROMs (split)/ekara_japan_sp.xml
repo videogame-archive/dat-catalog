@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_sp</name>
+		<description>Takara e-kara (Japan) Super Cartridge series (SP-xx)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="sp02">
+		<description>Super Cartridge: Best Hit (Japan) (SP-02)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="sp02.u1" size="2097152" crc="c8a84ded" sha1="02ffa04cdc7732fd3ab75505c5cc68bda130c7ee" />
+	</machine>
+	<machine name="sp03">
+		<description>Super Cartridge: TV Pop Junior (Japan) (SP-03)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="sp03.u1" size="2097152" crc="cd7dbbaf" sha1="cc62c10f8f83015e4c472bc41e9a1fd7ac497655" />
+	</machine>
+	<machine name="sp04">
+		<description>Super Cartridge: Best Hit (Japan) (SP-04)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="sp04.u1" size="2097152" crc="77818ddb" sha1="708980b1ae30864bd3395ef663de1c57ecbc113c" />
+	</machine>
+	<machine name="sp05">
+		<description>Super Cartridge: TV Pop Junior (Japan) (SP-05)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="sp05.u1" size="2097152" crc="f5ae63b2" sha1="d471ee862aa2ab790defb57873a10862531fd76b" />
+	</machine>
+</datafile>

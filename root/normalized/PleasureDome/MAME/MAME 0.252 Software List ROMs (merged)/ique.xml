@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ique</name>
+		<description>Nintendo iQue depot downloads</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dongwu">
+		<description>Dòngwù Sēnlín (version 8)</description>
+		<year>2006</year>
+		<publisher>Nintendo</publisher>
+		<rom name="2104108.bin" size="16138240" crc="0f86effe" sha1="8d009e1266fdbabcab307dfca39c8eb2ce2fe047" />
+	</machine>
+	<machine name="drmario">
+		<description>Mǎlìōu Yīshēng (version 4)</description>
+		<year>2003</year>
+		<publisher>Nintendo</publisher>
+		<rom name="drmariom2\6101902.bin" size="294912" crc="7ce72e9b" sha1="36fb571c18d73472a89e02f26cdaea6cde937afb" />
+		<rom name="drmariom4\6101904.bin" size="393216" crc="107ba311" sha1="828ea9a8b7666f2d8eae950359812fd5c3e4f276" />
+		<rom name="drmariot\22000001.bin" size="13374918" crc="a5f929f2" sha1="ff0024156a32f628c569e4d614c4102c49bdda19" />
+		<rom name="6101104.bin" size="3358720" crc="e5a3741e" sha1="964fe2891d3351499e5f2d9ee117d87330ae7412" />
+	</machine>
+	<machine name="fzerox">
+		<description>F-Zero X Wèilái Sàichē (version 3)</description>
+		<year>2004</year>
+		<publisher>Nintendo</publisher>
+		<rom name="fzeroxm2\5202902.bin" size="180224" crc="ceb2944c" sha1="871953819ce2a2d0cd7dfab57f95e966827744eb" />
+		<rom name="fzeroxm4\5202904.bin" size="294912" crc="6737c794" sha1="a01cd9da8beeac44f44f08fa98cec603232d7ea4" />
+		<rom name="fzeroxt\26000001.bin" size="12891544" crc="02d1cc96" sha1="e5e8b362ae873e5c3cd5d7c553ee1a601009411c" />
+		<rom name="5202103.bin" size="16334848" crc="909367b3" sha1="2920132524aa877792f03fab3e2957385aae41e7" />
+	</machine>
+	<machine name="iqueclub">
+		<description>iQue Club (version 3)</description>
+		<year>200?</year>
+		<publisher>Nintendo</publisher>
+		<rom name="iqueclub1\10000001.bin" size="557056" crc="15da7cec" sha1="11e8bed976037bc4ccf77998cbd24f9b2d4db9c7" />
+		<rom name="iqueclub2\10000002.bin" size="557056" crc="3399854a" sha1="fe5e9a312d902e921730f96625207fdf99dc2cc8" />
+		<rom name="10000003.bin" size="573440" crc="638fd248" sha1="0eed6b76f3ee7015b309a0e2db51642599b7df3f" />
+	</machine>
+	<machine name="mariokrt">
+		<description>Mǎlìōu Kǎdīngchē (version 5)</description>
+		<year>2003</year>
+		<publisher>Nintendo</publisher>
+		<rom name="mariokrt4\5201104.bin" size="12533760" crc="884b13bd" sha1="c9d341daa59b196031a457fbb768f9d9457b539c" />
+		<rom name="mariokrtm2\5201902.bin" size="245760" crc="9eb74f64" sha1="018f08ef7aa62fa343774090856adc7eee3556ec" />
+		<rom name="mariokrtm6\5201906.bin" size="425984" crc="b6696482" sha1="65f930785b9ff5be19ca37eed0c042dee60fd951" />
+		<rom name="mariokrtt\25000001.bin" size="14887542" crc="a4982815" sha1="55b1def947aaef82268903548e77d827503657c2" />
+		<rom name="5201105.bin" size="12533760" crc="7c2e7213" sha1="a6e1dc67ab968f4bbcf15b761bc72387a3d2fe3a" />
+	</machine>
+	<machine name="smashbro">
+		<description>Rèntiāntáng Míngxīng Dà Luàn Dǒu (version 5)</description>
+		<year>2005</year>
+		<publisher>Nintendo</publisher>
+		<rom name="1201105.bin" size="16793600" crc="ad6ca836" sha1="7fcb59d677c25859c4a00b82cae846590f2d0ee7" />
+	</machine>
+	<machine name="smashbrom">
+		<description>Rèntiāntáng Míngxīng Dà Luàn Dǒu (manual, version 1)</description>
+		<year>2005</year>
+		<publisher>Nintendo</publisher>
+		<rom name="1201901.bin" size="294912" crc="2bd85517" sha1="aca3ddc7f1b939337cc73f9eefee6c5268c41d4d" />
+	</machine>
+	<machine name="smique">
+		<description>Shén Yóu Mǎlìōu (version 4)</description>
+		<year>2003</year>
+		<publisher>Nintendo</publisher>
+		<rom name="smiquem2\1101902.bin" size="212992" crc="ffe7f77e" sha1="84d89fc95ec39ffafff1ee38c507b0dd31637a88" />
+		<rom name="smiquem6\1101906.bin" size="409600" crc="12e05e8f" sha1="d784cefd9ebebe005625d405a643d0efa5322d57" />
+		<rom name="smiquet1\20000001.bin" size="9742586" crc="db8f2d64" sha1="a1b8b047e153868d459f365da288466edf08bfae" />
+		<rom name="smiquet2\20000002.bin" size="12466444" crc="81174c45" sha1="73768135f786e295975dc22283d642754151c201" />
+		<rom name="1101104.bin" size="8060928" crc="47dbf0d2" sha1="0891c8118466413ab0130a4e6a2c79cd5c684e64" />
+	</machine>
+	<machine name="waverace">
+		<description>Shuǐ Shàng Mótuō (version 4)</description>
+		<year>2003</year>
+		<publisher>Nintendo</publisher>
+		<rom name="waveracem2\5101902.bin" size="311296" crc="4e3a7574" sha1="c731962c2989d082e016f2ddb194a01ebc084692" />
+		<rom name="waveracem4\5101904.bin" size="491520" crc="2d1444e6" sha1="7c484eddac6c935089f15d19becb9d37fe97632d" />
+		<rom name="waveracet1\21000001.bin" size="10017052" crc="cfbbce90" sha1="4bbe3e42cd1edb332c7517ce4600b28820ad5a8f" />
+		<rom name="waveracet2\21000002.bin" size="12198546" crc="95f1990b" sha1="0758ad464197138f37e236fb76ee6d2b0d7943c8" />
+		<rom name="5101104.bin" size="8159232" crc="4b4963bb" sha1="c77dd1c861fe335eb8d72bcb1a3eec1bf227b5fc" />
+	</machine>
+	<machine name="zeldaoot">
+		<description>Sàiěrdá Chuánshuō: Shíguāng zhī Dí (version 4)</description>
+		<year>2003</year>
+		<publisher>Nintendo</publisher>
+		<rom name="zeldaoot1\2106101.bin" size="29868032" crc="955079bb" sha1="770e21955d043ac7f277eb0ba67a8e1b462800b3" />
+		<rom name="zeldaootm2\2101902.bin" size="278528" crc="e1e4940d" sha1="d2c97bf8ed7e30c5112c5c0e1e585052562ad4b3" />
+		<rom name="zeldaootm4\2101904.bin" size="425984" crc="e50a4c5c" sha1="d13c93a6cea784304a2bd148040deb4a65c92cf6" />
+		<rom name="zeldaoott\24000001.bin" size="11813196" crc="66e55dde" sha1="84d12d53676dfb7bd7783148b802331017093863" />
+		<rom name="2101104.bin" size="29868032" crc="45baa341" sha1="47bad44eb197b619fa7eb534f763267cf4437b08" />
+	</machine>
+</datafile>

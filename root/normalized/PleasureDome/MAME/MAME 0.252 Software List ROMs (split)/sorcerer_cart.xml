@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sorcerer_cart</name>
+		<description>Exidy Sorcerer cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic11">
+		<description>Exidy Standard Basic v1.1</description>
+		<year>1980</year>
+		<publisher>Exidy</publisher>
+		<rom name="basic11a.rom" size="2048" crc="795c6b54" sha1="7984560f202d935af7ea72bfb2129609675caa21" />
+		<rom name="basic11b.rom" size="2048" crc="1068a3f8" sha1="6395f2c9829d537d68b75a750acbf27145f1bbad" />
+		<rom name="basic11c.rom" size="2048" crc="84a9bfe6" sha1="33132660ea52de7d5b17757a6a1f99508475a069" />
+		<rom name="basic11d.rom" size="2048" crc="91446784" sha1="2467f007a8e55b0e37edd026df74ebff7db01089" />
+	</machine>
+	<machine name="basicb">
+		<description>Basic (Rev. B)</description>
+		<year>1980</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="basic rev.b.rom" size="8192" crc="792ce8ad" sha1="ebf00fdcf028ce9131ca62d81b8fd80a9055d114" />
+	</machine>
+	<machine name="basicmod">
+		<description>Exidy Standard Modified Basic v1.01</description>
+		<year>1980</year>
+		<publisher>Software Source</publisher>
+		<rom name="basic mod v.101.rom" size="8192" crc="638ee239" sha1="cc21fddcccc7005f1a4390448897f7250a965f62" />
+	</machine>
+	<machine name="basicpac">
+		<description>Exidy Standard Basic v1.0</description>
+		<year>1978</year>
+		<publisher>Exidy</publisher>
+		<rom name="exidy standard basic v1.rom" size="8192" crc="3468d561" sha1="d9e6d50b97b6777720ca32c31760ed3d62dbe3fd" />
+	</machine>
+	<machine name="devpac">
+		<description>Exidy Z80 Development Pac</description>
+		<year>1979</year>
+		<publisher>Exidy</publisher>
+		<rom name="exidy z80 development pac.rom" size="8192" crc="dc738618" sha1="fe5290c4e8a5fd40f5d7263f7a32c67159904723" />
+	</machine>
+	<machine name="scanpack">
+		<description>Compudata Scan 6.1 Test Pack v1.0</description>
+		<year>1983</year>
+		<publisher>Compudata</publisher>
+		<rom name="compudata_scan61.rom" size="8192" crc="6ab4f151" sha1="0f86f34a55b216b38a4ad664fc15ca6da2148950" />
+	</machine>
+	<machine name="ssbasic">
+		<description>System Software Basic v1.1</description>
+		<year>1982</year>
+		<publisher>System Software</publisher>
+		<rom name="ssbasic1.bin" size="2048" crc="46f00e0d" sha1="9fff640a3bc1737815cdfa81ced73f4ff961817e" />
+		<rom name="ssbasic2.bin" size="2048" crc="28b30777" sha1="34fecf68ee18ef897405313eb74eb7dc6ca28278" />
+		<rom name="ssbasic3.bin" size="2048" crc="1601f617" sha1="1c4d24cfade2920820ba89bae05b9b5b969b96ee" />
+		<rom name="ssbasic4.bin" size="2048" crc="486fdee7" sha1="c98b0fc5146c17b43086461e7c290a178ede796b" />
+	</machine>
+	<machine name="wordpac">
+		<description>Exidy Word Processor Pac</description>
+		<year>1978</year>
+		<publisher>Exidy</publisher>
+		<rom name="exidy word processor pack.rom" size="8192" crc="da999745" sha1="6acd340b4030c42f2292568a097aea11c7f17152" />
+	</machine>
+</datafile>

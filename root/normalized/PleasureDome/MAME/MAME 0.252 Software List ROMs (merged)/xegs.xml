@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>xegs</name>
+		<description>Atari XE Game System cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="1on1">
+		<description>One-on-One</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="one-on-one (atari)(1987)(rx8093).rom" size="32768" crc="ab060567" sha1="d7eb0ed496db4de878c0f1688aa06ade2e3a4bb2" />
+	</machine>
+	<machine name="aceoface">
+		<description>Ace of Aces</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="ace of aces (atari)(1988)(rx8099).rom" size="131072" crc="ebad3ddb" sha1="7d87658412d983b368b9f6c75d3d6be05485acf9" />
+	</machine>
+	<machine name="airball">
+		<description>Airball</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="airball (atari)(1988)(rx8109).rom" size="131072" crc="a0ccb3c1" sha1="e397ec3fd8ebfb9626c56e63c9186846f87ad57b" />
+	</machine>
+	<machine name="archon">
+		<description>Archon: The Light and the Dark</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="archon (atari)(1987)(rx8092).rom" size="32768" crc="2636829f" sha1="bfb2782a117cf3efd5b71e225052f737658864c4" />
+	</machine>
+	<machine name="ballblaz">
+		<description>Ballblazer</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="ballblazer (atari)(1987)(rx8064).rom" size="65536" crc="820e5ce5" sha1="16820a57a10fd779ed160e8a25471882e23a719b" />
+	</machine>
+	<machine name="barnblst">
+		<description>Barnyard Blaster</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="barnyard blaster (atari)(1987)(rx8086).rom" size="131072" crc="13ae30ed" sha1="e4b22790fce8e2e0f7c972960aec692b7fd5e016" />
+	</machine>
+	<machine name="beefdrop">
+		<description>Beef Drop</description>
+		<year>2005</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="beef drop (wip 2005-02-16).rom" size="32768" crc="6dd9e838" sha1="e95467917f873820580b5aca6b683bd0d13f1df6" />
+	</machine>
+	<machine name="bluemax">
+		<description>Blue Max</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="blue max (atari)(1987)(rx8081).rom" size="32768" crc="003f41ac" sha1="e25be072ae435588724ac9c5d314baf77efd3d96" />
+	</machine>
+	<machine name="brucelee">
+		<description>Bruce Lee (Reproduction)</description>
+		<year>1984</year>
+		<publisher>Video 61 / Datasoft</publisher>
+		<rom name="bruce lee (proto).rom" size="65536" crc="255dfc59" sha1="cad3ca79d8233df5068f3af99666889603c6dab2" />
+	</machine>
+	<machine name="bughunt">
+		<description>Bug Hunt</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="bug hunt (atari)(1987)(rx8087).rom" size="65536" crc="246f3872" sha1="48eeec190dbb27e1311938498b087088077dd530" />
+	</machine>
+	<machine name="bzone">
+		<description>BattleZone</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="battlezone (atari)(1987)(rx8077).rom" size="65536" crc="692515f2" sha1="de57b3d79a5bb44e7d0af66abe3b9d643865b360" />
+	</machine>
+	<machine name="ccastles">
+		<description>Crystal Castles</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="crystal castles (atari)(1988)(rx8102).rom" size="32768" crc="998fa803" sha1="be8532d6f1c4024bc13bf7ea01832f07d387623d" />
+	</machine>
+	<machine name="ccrisis">
+		<description>Castle Crisis</description>
+		<year>2003</year>
+		<publisher>Atari Age</publisher>
+		<rom name="castle crisis.rom" size="32768" crc="7bc6e6dc" sha1="a8e73ef44a1a95ff21e763c9118a1ef49f178132" />
+	</machine>
+	<machine name="choplift">
+		<description>Choplifter!</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="choplifter (atari)(1987)(rx8096).rom" size="65536" crc="d426eccc" sha1="03600f288ecedaa61fe7976dfe32ce9a6fdfe03e" />
+	</machine>
+	<machine name="commando">
+		<description>Commando (Prototype)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="commando (atari)(1988)(proto).rom" size="131072" crc="28288df4" sha1="fe546d4a7be4644e85dd1eef55a8cf273f6b2aaa" />
+	</machine>
+	<machine name="crimbstr">
+		<description>Crime Buster</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="crime buster (atari)(1988)(rx8104).rom" size="131072" crc="143fbad9" sha1="d936dee2676d4fb8ea84960bf6c7cef707dc45a2" />
+	</machine>
+	<machine name="crossbow">
+		<description>Crossbow</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="crossbow (atari)(1988)(rx8088).rom" size="131072" crc="0557a91f" sha1="7778002227315ab9fa3410b3a686634877cdd22e" />
+	</machine>
+	<machine name="darkcham">
+		<description>Dark Chambers</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="dark chambers (atari)(1988)(rx8101).rom" size="65536" crc="fa2f132c" sha1="cc602bee2c589e78332f729dfe08832763aec714" />
+	</machine>
+	<machine name="deflektr">
+		<description>Deflektor (Prototype)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="deflektor (atari)(1988)(proto).rom" size="65536" crc="e4ed154e" sha1="44949d6ac68b3c155a58461292cccbe9bded5a21" />
+	</machine>
+	<machine name="dsrtflcn">
+		<description>Desert Falcon</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="desert falcon (atari)(1988)(rx8089).rom" size="65536" crc="a8f9324d" sha1="fd4666796a4498339835d75ddb63c7b99d1d93bb" />
+	</machine>
+	<machine name="eaglnest">
+		<description>Into the Eagle's Nest</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="into the eagle's nest (atari)(1988)(rx8114).rom" size="32768" crc="f31321c2" sha1="61d6f9264947481bc49cd47441e8fa5c8ed5fc55" />
+	</machine>
+	<machine name="fightn">
+		<description>Fight Night</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="fight night (atari)(1987)(rx8085).rom" size="131072" crc="4440d167" sha1="e6d26417365c6ed89b84683a73b31a7423b1a1fb" />
+	</machine>
+	<machine name="foodf">
+		<description>Food Fight</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="food fight (atari)(1987)(rx8079).rom" size="32768" crc="4236f0ea" sha1="79aafc04d41d5167502b4ea74c531f9c2e706580" />
+	</machine>
+	<machine name="fractal">
+		<description>Rescue on Fractalus!</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="rescue on fractalus (atari)(1987)(rx8063).rom" size="65536" crc="1ca549ad" sha1="36bc00b2e4452855d0681c50cdec2403ffb2a6bb" />
+	</machine>
+	<machine name="fsim2">
+		<description>Flight Simulator 2</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="fsim2d\flight simulator 2 (demo).rom" size="65536" crc="5133a213" sha1="d1087e8d47a106555670d0aa40d97e90d0cd407a" />
+		<rom name="flight simulator 2 (atari)(1987)(rx8091).rom" size="131072" crc="10cfc489" sha1="2b3a785d134251272ab606e6b9b2cd9eb25f6714" />
+	</machine>
+	<machine name="gato">
+		<description>GATO Submarine Simulation</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="gato (atari)(1987)(rx8090).rom" size="131072" crc="ab06a3f5" sha1="cabb1effa554d915521b2a49961d8e61b67ec9b3" />
+	</machine>
+	<machine name="hardball">
+		<description>Hardball!</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="hardball (atari)(1987)(rx8084).rom" size="65536" crc="bf0c6df2" sha1="8a8556b2398168a557bc04e37f1f3a26bc066147" />
+	</machine>
+	<machine name="karateka">
+		<description>Karateka</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="karateka (atari)(1988)(rx8095).rom" size="131072" crc="97646f16" sha1="23d1ab351201d5a7aaeade45bd64860ff3af90f5" />
+	</machine>
+	<machine name="ldrun">
+		<description>Lode Runner</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="lode runner (atari)(1987)(rx8082).rom" size="65536" crc="b9a89bbd" sha1="9c59cf69f1c248fb673a3712ec7e35b1a0c42523" />
+	</machine>
+	<machine name="mario">
+		<description>Mario Bros.</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="mario bros. (atari)(1988)(rx8103).rom" size="65536" crc="7ba07c34" sha1="7acfd4a8205cbfe9528ab86bb53c2bb791a69bd6" />
+	</machine>
+	<machine name="mean18">
+		<description>Mean 18 (Prototype)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="mean 18 (atari)(1988)(proto).rom" size="131072" crc="0ee74a89" sha1="4597d669cd1551a4459cba8e023a7fae8e9a9c18" />
+	</machine>
+	<machine name="midimaze">
+		<description>MIDI Maze (Reproduction)</description>
+		<year>199?</year>
+		<publisher>Video 61 / Atari</publisher>
+		<rom name="midimazep\midi maze (atari)(1988)(proto).rom" size="131072" crc="193a53f6" sha1="9748bd366a8b79a2c962104098b03916501d005e" />
+		<rom name="midi maze.rom" size="131072" crc="4695522f" sha1="8ed0e6b7afad565ea3adc8844a2e6840f7393b73" />
+	</machine>
+	<machine name="midmagic">
+		<description>David's Midnight Magic</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="david's midnight magic (atari)(1987)(rx8083).rom" size="65536" crc="b7ca61a2" sha1="cf7b224a4477597c872da00aebb3dcf11955b569" />
+	</machine>
+	<machine name="necroman">
+		<description>Necromancer</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="necromancer (atari)(1988)(rx8108).rom" size="16384" crc="39250ff2" sha1="995d78c380697118b4e2a030844994015385262a" />
+	</machine>
+	<machine name="sinistar">
+		<description>Sinistar (Reproduction)</description>
+		<year>199?</year>
+		<publisher>Video 61 / Atari</publisher>
+		<rom name="sinistar.rom" size="32768" crc="6092c611" sha1="3993362cc0efa2325a5d72484bb05bb398e2655a" />
+	</machine>
+	<machine name="starrai2">
+		<description>Star Raiders II</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="star raiders ii (atari)(1987)(rx8078).rom" size="32768" crc="737d4196" sha1="7e04d33d17a5dfcab5e41fca4ae6880730583dce" />
+	</machine>
+	<machine name="sumgames">
+		<description>Summer Games</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="summer games (atari)(1987)(rx8098).rom" size="131072" crc="95e6932d" sha1="7082c5304cfdb2ecc2421a4feb36f4dfc0c62132" />
+	</machine>
+	<machine name="tapper">
+		<description>Tapper (Reproduction)</description>
+		<year>20??</year>
+		<publisher>Video 61 / Bally Midway</publisher>
+		<rom name="tapper.rom" size="65536" crc="eff12440" sha1="f1be77d3b2e8e46a4b8acafe3a599341e308fb46" />
+	</machine>
+	<machine name="thundfox">
+		<description>Thunderfox</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="thunderfox (atari)(1988)(rx8113).rom" size="65536" crc="b15ccef2" sha1="6ce6431474d7189f30820768f3cafee54d1ddf6e" />
+	</machine>
+	<machine name="towertop">
+		<description>Tower Toppler (Prototype)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="tower toppler (atari)(1988)(proto).rom" size="65536" crc="6b5333bd" sha1="adc0fee6f79ac00b357b3cab76fcaa872647f1c9" />
+	</machine>
+	<machine name="vanguard">
+		<description>Vanguard (5200 Conversion)</description>
+		<year>199?</year>
+		<publisher>Video 61 / Atari</publisher>
+		<rom name="vanguard.rom" size="65536" crc="688ef8bd" sha1="3a47fc61a9f4c1a22c9fe180da3fd5057f186d67" />
+	</machine>
+	<machine name="xenophob">
+		<description>Xenophobe (Reproduction)</description>
+		<year>2010</year>
+		<publisher>Video 61 / Atari</publisher>
+		<rom name="xenophobe (repro).bin" size="131072" crc="68466666" sha1="109271ce4333b6a7d3030ea5c82a5e63eb4a99df" />
+	</machine>
+</datafile>

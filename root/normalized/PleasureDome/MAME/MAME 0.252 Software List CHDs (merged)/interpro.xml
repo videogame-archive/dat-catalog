@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>interpro</name>
+		<description>Intergraph InterPro software</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="iss">
+		<description>Intergraph System Software</description>
+		<year>1999</year>
+		<publisher>Intergraph</publisher>
+		<disk name="iss_050599_1" sha1="5d556b4df2dccdc681095fedcf836a5b0a7782a0" />
+		<disk name="iss_050599_2" sha1="3813db83871668eed97b43f2384b7e95a649598a" />
+		<disk name="iss_050599_3" sha1="c8b08cd45ef1614b3db1cd0fb8e6539e3bcc5725" />
+		<disk name="iss_050599_4" sha1="2681b4cd8d355b6abfcfebb1b40a6d8a5ef37fe9" />
+	</machine>
+	<machine name="mech">
+		<description>Intergraph Mechanical Software</description>
+		<year>1997</year>
+		<publisher>Intergraph</publisher>
+		<disk name="mech_081797_1" sha1="a03f9a9b08d6220b49f1be8a50a2032323f69fb8" />
+		<disk name="mech_081797_2" sha1="a269113a742c8dbf081855bcf2135b70c42738ef" />
+	</machine>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>casio_rompack</name>
+		<description>Casio ROM Packs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ro251">
+		<description>How to Play your Casio ROM Keyboard (RO-251)</description>
+		<year>1984</year>
+		<publisher>Casio</publisher>
+		<rom name="ro251.bin" size="6144" crc="6bfd4921" sha1="6b57f18f2f170c01dc929f60b55a0535e041a09d" />
+	</machine>
+	<machine name="ro551">
+		<description>World Songs (RO-551)</description>
+		<year>198?</year>
+		<publisher>Casio</publisher>
+		<rom name="casiorompackro551.bin" size="6144" crc="85d88a29" sha1="943c9c89f0fb79e55714c8d7e103b77449add1f1" />
+	</machine>
+</datafile>

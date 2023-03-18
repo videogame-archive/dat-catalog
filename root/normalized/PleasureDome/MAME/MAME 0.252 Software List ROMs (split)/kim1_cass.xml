@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>kim1_cass</name>
+		<description>KIM-1 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="mchess">
+		<description>Microchess</description>
+		<year>1976</year>
+		<publisher>Micro-ware Ltd</publisher>
+		<rom name="microchess (1976)(micro-ware ltd).wav" size="22961384" crc="e4eb54e3" sha1="44037ea1e736e9ea9336093cc8abc7dc23cc567a" />
+	</machine>
+</datafile>

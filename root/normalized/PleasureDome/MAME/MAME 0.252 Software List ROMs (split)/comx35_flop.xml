@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>comx35_flop</name>
+		<description>COMX-35 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dos">
+		<description>DOS 1.40</description>
+		<year>198?</year>
+		<publisher>COMX</publisher>
+		<rom name="dos.1.4+f&amp;m.disk.tools.img" size="143360" crc="40945c5c" sha1="eb725c09c669010433ef68bbaa3e2f1f3b399ed7" />
+	</machine>
+</datafile>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>icanpian</name>
+		<description>Fisher-Price / Mattel I Can Play Piano cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="aitts">
+		<description>American Idol Take the Stage (K4655)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppamericanidoltakethestage.bin" size="8388608" crc="908a965d" sha1="9faca7bb85ca395e2f8cd444884f0a74ce22d151" />
+	</machine>
+	<machine name="barbie">
+		<description>Barbie Princess Enchanted Sounds (J7526)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppbarbieprincessenchantedsounds.bin" size="8388608" crc="393beea8" sha1="a0a74e6cbceaff5c0f2b0b5f08ac65774d784051" />
+	</machine>
+	<machine name="dora">
+		<description>Dora the Explorer Musical Adventure (J7523)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppdoratheexplorermusicaladventure.bin" size="8388608" crc="9136a225" sha1="489c7f0df999fa13e92d3c661cdad5d19d5ef513" />
+	</machine>
+	<machine name="dpmagic">
+		<description>Disney Princess Magical Melodies (K4656)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppmagicalmelodies.bin" size="8388608" crc="c5f4c7eb" sha1="d47feebba010c498cd11cd6019df6c7680840ee5" />
+	</machine>
+	<machine name="holidaywl">
+		<description>Holiday Wonderland (J7528)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppholidaywonderland.bin" size="8388608" crc="12efca09" sha1="99a6d5591ba6ebe52127d8838e8ee71952ebf59e" />
+	</machine>
+	<machine name="jjs">
+		<description>Jammin' Jungle Safari (Disney's The Lion King, Jungle Book, Tarzan) (K4653)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppjamminjunglesafari.bin" size="8388608" crc="6408abb6" sha1="9c9c050e919222a80369d2a116a85db6cc4d7acb" />
+	</machine>
+	<machine name="jungboog">
+		<description>Jungle Boogie (J7524)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppjungleboogie.bin" size="8388608" crc="632ab0a3" sha1="ec8b56cc0eaec0ac31f7c224167449e691c07bc6" />
+	</machine>
+	<machine name="pianfav">
+		<description>Piano Favorites (J7522)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icpppianofavorites.bin" size="8388608" crc="cca31d78" sha1="4724df29c008e9518345ec4fc77288b7ec138c29" />
+	</machine>
+	<machine name="pophits">
+		<description>Pop Hits (K0653)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icpppophits.bin" size="8388608" crc="c15ccdad" sha1="f4a058c83b1a90a1c8c5cfa766429330ce34409d" />
+	</machine>
+	<machine name="rdp">
+		<description>Rockin' Dance Party (J8715)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icpprockindanceparty.bin" size="8388608" crc="00d597d3" sha1="603c8d9d11f5e1d075a1b524e99b581d859b43ba" />
+	</machine>
+	<machine name="scoobymm">
+		<description>Scooby-Doo! Monster Mayhem (J7525)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppscoobydoomonstermayhem.bin" size="8388608" crc="e16c715e" sha1="3f6322ea9404b87620d924f0c0b0ad405f50f674" />
+	</machine>
+	<machine name="showtune">
+		<description>Nicktoons Show Tunes (J7527)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppshowtunes.bin" size="8388608" crc="c95836fd" sha1="c07b500f241fc6b3a3302b580794bb2eb86977c7" />
+	</machine>
+	<machine name="wizardoz">
+		<description>The Wizard of Oz - We're Off to Play the Piano (K4654)</description>
+		<year>2005</year>
+		<publisher>Fisher-Price</publisher>
+		<rom name="icppwizardofoz.bin" size="8388608" crc="4c004177" sha1="415463532e760542cacdc833ed1d201df70e18d3" />
+	</machine>
+</datafile>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>evio</name>
+		<description>Tomy evio Media cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="em1">
+		<description>evio Selection 01</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em01.bin" size="524288" crc="01cfd6aa" sha1="e91f947bc7601af08d7e7395b7d14f7c32a22c51" />
+	</machine>
+	<machine name="em2">
+		<description>evio Selection 02</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em02.bin" size="524288" crc="f4c25b10" sha1="97627f6753bf21f30ec497656dbae3eaf4ca8386" />
+	</machine>
+	<machine name="em3">
+		<description>Anime Mix 1</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em03.bin" size="524288" crc="2aa0107f" sha1="1f2302b0121819b8ea02409e23a7c21402e2632e" />
+	</machine>
+	<machine name="em4">
+		<description>I Love Classic 1</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em04.bin" size="524288" crc="22ad3e5b" sha1="e25269b1957e10cff6bb7590b912db9e62864c2d" />
+	</machine>
+	<machine name="em5">
+		<description>Healing Air 1</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em05.bin" size="524288" crc="7ac2d917" sha1="9ff3da60c5333a5d97791dfcdf8ffc20244fc553" />
+	</machine>
+	<machine name="em6">
+		<description>Drama Mix 1</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em06.bin" size="524288" crc="7f67ff20" sha1="e94685b112c03615d6b27c21460a69c2b69c3419" />
+	</machine>
+	<machine name="em7">
+		<description>Pure Kiss 1</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em07.bin" size="524288" crc="b507b926" sha1="af2872b738e57a42e22904c3f6df15b2bf5ead87" />
+	</machine>
+	<machine name="em8">
+		<description>Hard Soul 1</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em08.bin" size="524288" crc="f41469c0" sha1="381e43b2a2fd716f3d91d47c7e899f02b2f52b91" />
+	</machine>
+	<machine name="em9">
+		<description>evio Selection 03</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em09.bin" size="524288" crc="17818b14" sha1="84058d60567972a336b36d8c406b1649956c8a2a" />
+	</machine>
+	<machine name="em10">
+		<description>Anime Special - Pocket Monsters</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em10.bin" size="524288" crc="573d49ef" sha1="e2d528a2aa149d8ccbadf0c75ed5f75ca0e6bf9b" />
+	</machine>
+	<machine name="em15">
+		<description>evio Selection 04</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em15.bin" size="524288" crc="d3a12cc2" sha1="29fff4c9c6aedd156c9c9b3f3773c05916c6d5d6" />
+	</machine>
+	<machine name="em16">
+		<description>Chisako Takashima Selection</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em16.bin" size="524288" crc="39c86418" sha1="8442cb3923e1f09b369ece58ca52bbb2f0a7ab19" />
+	</machine>
+	<machine name="em17">
+		<description>Minna no evio</description>
+		<year>2003</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em17.bin" size="524288" crc="5e41cde0" sha1="bee48cf8f41f715c5ba762c243cbfdd8bafeb3b5" />
+	</machine>
+	<machine name="em18">
+		<description>evio Challenge!</description>
+		<year>2004</year>
+		<publisher>Tomy</publisher>
+		<rom name="evio_em18.bin" size="1048576" crc="725a5720" sha1="062316f860cb6ca3c29d9c1e63ea4973b1eebcd8" />
+	</machine>
+</datafile>

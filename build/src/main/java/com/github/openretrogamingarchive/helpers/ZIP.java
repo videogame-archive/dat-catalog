@@ -98,7 +98,7 @@ public final class ZIP implements Closeable {
     }
 
     private static Pattern extPattern = Pattern.compile("(?<!^)[.][^.]*$");
-    private static Pattern extPatternAll = Pattern.compile("(?<!^)[.].*");
+    private static Pattern extPatternAll = Pattern.compile("(?<!^)[.][a-zA-Z0-9.]*$");
 
     public static String basename(Path path) {
         return basename(path.getFileName().toString(), true);

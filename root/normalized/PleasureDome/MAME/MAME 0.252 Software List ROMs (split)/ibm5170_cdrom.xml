@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ibm5170_cdrom</name>
+		<description>IBM PC/AT CD-ROM images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="acercpr">
+		<description>Acer CPR</description>
+		<year>1995</year>
+		<publisher>Acer America Corporation</publisher>
+		<rom name="acer cpr.img" size="1474560" crc="6f88a82a" sha1="a0afd6dcddbf6ae67d5c28c068af2fa9843dcb5f" status="baddump" />
+	</machine>
+</datafile>

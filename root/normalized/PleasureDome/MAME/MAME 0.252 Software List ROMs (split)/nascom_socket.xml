@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>nascom_socket</name>
+		<description>Nascom internal sockets</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="nasdos">
+		<description>NAS-DOS</description>
+		<year>1982</year>
+		<publisher>Lucas Control Systems</publisher>
+		<rom name="nasdos.rom" size="4096" crc="54a36f6d" sha1="1d063d04be5024f128bd589e6edc066e9a63fc1b" />
+	</machine>
+	<machine name="naspen">
+		<description>NAS-Pen 1.0</description>
+		<year>1980</year>
+		<publisher>Lucas Logic</publisher>
+		<rom name="naspen.rom" size="2048" crc="279a100d" sha1="6e69b3eb679f1b6c7363aa1b751f3b17aac284b1" />
+	</machine>
+	<machine name="nasprint">
+		<description>NAS-Print 80</description>
+		<year>1981</year>
+		<publisher>Program Power</publisher>
+		<rom name="nasprint.rom" size="2048" crc="086aa1a9" sha1="9d4a912d7b4fda49690cb44ea317983cf12d6974" />
+	</machine>
+	<machine name="odebdis">
+		<description>Super-Debug 3.1 &amp; Nas-Dis</description>
+		<year>1980</year>
+		<publisher>Nascom</publisher>
+		<rom name="odebdis.rom" size="4096" crc="b0dce113" sha1="545466ab12bcf2ab613d6aff90946efa319bd943" />
+	</machine>
+	<machine name="sysex">
+		<description>Sys-Ex</description>
+		<year>1983</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="sysex.rom" size="2048" crc="6c144399" sha1="3e8b9dcd1f42db00a11f68cde2fbc43aa3498646" />
+	</machine>
+	<machine name="zeap">
+		<description>ZEAP 2.1</description>
+		<year>1980</year>
+		<publisher>Sigma Software</publisher>
+		<rom name="zeap21.rom" size="4096" crc="87ce8f68" sha1="e6dff4c30eecc9a5557395088d1d83776b9b4514" />
+	</machine>
+</datafile>

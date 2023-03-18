@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>midi_flop</name>
+		<description>Standard MIDI floppy disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dansband3">
+		<description>Dansbandshits nr 3 (Sweden)</description>
+		<year>1996</year>
+		<publisher>Melo-Disc</publisher>
+		<rom name="dansbandshits nr 3.imd" size="329738" crc="5a8ec4b1" sha1="b9894ef4d15457c7f77234fb383afa55603a0dd5" />
+	</machine>
+	<machine name="hikari_fl90">
+		<description>Hikari Navigation (FL-90) (Japan)</description>
+		<year>1999</year>
+		<publisher>Casio</publisher>
+		<rom name="hikari navigation fl-90.img" size="1474560" crc="f7172a29" sha1="8060339739e899f247e09386d99c129152074776" />
+	</machine>
+</datafile>

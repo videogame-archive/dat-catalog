@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>m5_flop</name>
+		<description>Sord m5 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bb">
+		<description>Booting diskette for CP/M.[Brno mod]</description>
+		<year>1989</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="brno_boot_cpm.dsk" size="860416" crc="9484f399" sha1="efd1e664d5f4b80a7d49078cc80d187f72f4bc2f" />
+	</machine>
+</datafile>

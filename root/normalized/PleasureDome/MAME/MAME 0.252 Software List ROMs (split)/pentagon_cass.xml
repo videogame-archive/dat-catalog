@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pentagon_cass</name>
+		<description>Pentagon (ZX Spectrum clone) cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bouldmix">
+		<description>Boulder Mix (Russia)</description>
+		<year>1996</year>
+		<publisher>Firesoft</publisher>
+		<rom name="boulder mix (19xx)(firesoft)(ru)[pentagon 128].tzx" size="45895" crc="dd36b3bf" sha1="26430d66baaf04c2e7757f23169ffb201190d5c6" />
+	</machine>
+	<machine name="oldtwrp">
+		<description>Old Tower</description>
+		<year>2018</year>
+		<publisher>RetroSouls</publisher>
+		<rom name="oldtowerpentagon.tap" size="101080" crc="a68f6ac1" sha1="7e397cd79d8444bc36e7dc27c7fc511ffc5236b9" />
+	</machine>
+</datafile>

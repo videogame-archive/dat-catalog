@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>aquarius_cass</name>
+		<description>Mattel Aquarius cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3dbzone">
+		<description>3D Battle Zone</description>
+		<year>1984</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="BATTLE_A.caq" size="8130" crc="0d180c56" sha1="05b93fc52ba8e09af86e6d85b13923d70c625757" />
+		<rom name="BATTLE_BAS.caq" size="146" crc="c814617f" sha1="c58c1b6d330a0a216a79030f5cd4cf984c3119bb" />
+	</machine>
+	<machine name="adva">
+		<description>Adventure A: The Planet of Death</description>
+		<year>201?</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="ADV_A.caq" size="12285" crc="93c43426" sha1="ff88a69631bf25d7d4c47c384ced5e4677c91990" />
+		<rom name="ADV_BAS.caq" size="147" crc="fe837c45" sha1="1e87e2050d42a80c7c64446f54c742ad33d104d1" />
+	</machine>
+	<machine name="aliens">
+		<description>Aliens</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="ALIENS_A.caq" size="2006" crc="b22853dc" sha1="120831c93280e8f5a21301734884476db9add33e" />
+		<rom name="ALIENS_BAS.caq" size="145" crc="a53a7fa1" sha1="acc04fe86188661aa14ef59cac0b0542f881cef4" />
+	</machine>
+	<machine name="blocks">
+		<description>Fall of the Eastern Blocks</description>
+		<year>1999</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="BLOCKS.caq" size="14005" crc="aba3c3a0" sha1="b6359960df8ea83e8e244e91231d32262a1862b3" />
+	</machine>
+	<machine name="bounder">
+		<description>Bounder</description>
+		<year>1984</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="BOUND_A.caq" size="2786" crc="7fd21646" sha1="93acbe56313a5001f99fdf1120f7767478b77b36" />
+		<rom name="BOUND_BAS.caq" size="145" crc="aa7fd815" sha1="0adf241c0554b0530190f1bed5658fd3d8b8ef8b" />
+	</machine>
+	<machine name="breakout">
+		<description>Break Out</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="BREAK_A.caq" size="5054" crc="f1dc4b6e" sha1="52da860a8094cecd2db4336018bef9d26a16b9bd" />
+		<rom name="BREAK_BAS.caq" size="146" crc="ddfd4267" sha1="52bc1835a680a5bc00abdb6a6b9ec0886acd9c74" />
+	</machine>
+	<machine name="chess">
+		<description>Chess</description>
+		<year>198?</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="CHESS_A.caq" size="7284" crc="e59ba603" sha1="7ff52635f46816fe772e6df8a1573c5f428023bf" />
+		<rom name="CHESS_BAS.caq" size="921" crc="8f43f128" sha1="631a91c7b2fc8eb1934a3e4db1027d6d0570db25" />
+	</machine>
+	<machine name="chuckman">
+		<description>Chuckman</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="CHUCK_A.caq" size="5878" crc="4e13945d" sha1="8c8cd2a2e00086d9810128174b46a43a41631244" />
+		<rom name="CHUCK_BAS.caq" size="146" crc="3881292e" sha1="4059247e8e6b0125a1d56e2580ed99a630a88085" />
+	</machine>
+	<machine name="demo">
+		<description>Demo Cassette</description>
+		<year>1983</year>
+		<publisher>Radofin Electronics</publisher>
+		<rom name="ALIEN.caq" size="145" crc="5dd79191" sha1="df36c0c9d72d593d6f0179288c8764898845e48f" />
+		<rom name="ALIEN_A.caq" size="1506" crc="689f7866" sha1="7d547d591398687544d71c7cf9e1b30a13f596eb" />
+		<rom name="CUBES.caq" size="145" crc="11332b7b" sha1="439b353129e4861e804b3a64fe537bf05865935e" />
+		<rom name="CUBES_A.caq" size="1378" crc="c06bb781" sha1="bef3fb1d8f7868f558ea8b1b6a1d3323e2c2bbb6" />
+		<rom name="MACHO.caq" size="145" crc="218ccb45" sha1="6d4c95af9d3c4e3820e23fc9165e142a4c24cf34" />
+		<rom name="MACHO_A.caq" size="1518" crc="0556d6bb" sha1="6779fbfda46ac8753b82f1d8a11cd3eb6c240d1c" />
+		<rom name="MOULD.caq" size="145" crc="608efa0a" sha1="2dba75bd99879d86150e7e8591c9a2d71c513629" />
+		<rom name="MOULD_A.caq" size="1502" crc="931d2378" sha1="a27df4400d2cca4c141fc5cc7151b832a6ebe654" />
+		<rom name="STALAC.caq" size="145" crc="a99430b3" sha1="1d6fa376e5df5f0ec553131ffe0ffe03cc274633" />
+		<rom name="STALAC_A.caq" size="1474" crc="97db4daf" sha1="c12c380d92a350d3487adf532dae320cf9581a0a" />
+		<rom name="TORMENT.caq" size="145" crc="9674f096" sha1="fbea5a3d59b542a267720740f387e75daabdb19f" />
+		<rom name="TORMENT_A.caq" size="1382" crc="53b0fdf1" sha1="0aadc22f53d8f60cecc2e19558219d1d0ce4cef5" />
+	</machine>
+	<machine name="dfender">
+		<description>D-Fenders</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="dfendera\D-FENDR_A.caq" size="9530" crc="5cdbca64" sha1="b3b2a7bcf041a0fb556c5136e1780786eed70b94" />
+		<rom name="dfendera\D-FENDR_BAS.caq" size="146" crc="a56de012" sha1="fe979ce036449a44b027e8705b6a1c6fa38a5d0a" />
+		<rom name="DEFEND_A.caq" size="9754" crc="e4204461" sha1="a42b036a4b37d4c1829a53a4f0cca583456de24e" />
+		<rom name="DEFEND_BAS.caq" size="146" crc="3264697c" sha1="37debd9a562837bfda79d861bdcd957a3480f876" />
+	</machine>
+	<machine name="disco">
+		<description>Disco Fever</description>
+		<year>1984</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="DISCO_A.caq" size="8054" crc="1b072527" sha1="13959fd353f17ab767c28c117bb73910a9fafcd9" />
+		<rom name="DISCO_BAS.caq" size="146" crc="b55c8c8d" sha1="ee900f5bbba1f489ab1d1a38e4c99c631d23b47c" />
+	</machine>
+	<machine name="doomsday">
+		<description>Doomsday Defender</description>
+		<year>2022</year>
+		<publisher>Cronosoft</publisher>
+		<rom name="DDv50DR.caq" size="16803" crc="ef1fd7a8" sha1="d2685ad2d989f5f5ac0b526c9188606bfcc00333" />
+	</machine>
+	<machine name="edon">
+		<description>Ed-On</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="ED-ON_A.caq" size="5674" crc="5fe187f0" sha1="c815848c126ceb730d1737f34d610a965882ac17" />
+		<rom name="ED-ON_BAS.caq" size="146" crc="00d17c04" sha1="7240d20ba1206d39195a5dd496233fb665edff43" />
+	</machine>
+	<machine name="gamespk1">
+		<description>Games Pack 1</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="MACHO.caq" size="145" crc="218ccb45" sha1="6d4c95af9d3c4e3820e23fc9165e142a4c24cf34" />
+		<rom name="MACHO_A.caq" size="1518" crc="0556d6bb" sha1="6779fbfda46ac8753b82f1d8a11cd3eb6c240d1c" />
+		<rom name="MUTANT.caq" size="145" crc="fc45571a" sha1="889d673ee50aa7fa714f8ca787149b19814680ff" />
+		<rom name="MUTANT_A.caq" size="1462" crc="5e6cd8c1" sha1="f4487322621e735da3734b2666c323e70662219d" />
+		<rom name="OTHELL.caq" size="145" crc="6fc8e6d8" sha1="d5e28fc95643122d9b9ac36013af10c434e47037" />
+		<rom name="OTHELL_A.caq" size="1534" crc="c938ebd3" sha1="46d4cc22673bbc4c45365e2a61de116e01a0774a" />
+		<rom name="STALAC.caq" size="145" crc="a99430b3" sha1="1d6fa376e5df5f0ec553131ffe0ffe03cc274633" />
+		<rom name="STALAC_A.caq" size="1474" crc="97db4daf" sha1="c12c380d92a350d3487adf532dae320cf9581a0a" />
+	</machine>
+	<machine name="gamespk2">
+		<description>Games Pack 2</description>
+		<year>1984</year>
+		<publisher>Custom Cables International</publisher>
+		<rom name="BOMBER_A.caq" size="1242" crc="4726ca97" sha1="e476e196892059e5abd8f220444624f6f3a74f06" />
+		<rom name="BOMBER_BAS.caq" size="145" crc="c993bb65" sha1="8be6e276f2c300c1389e3b768cd80cc0dfd1c852" />
+		<rom name="BOUND_A.caq" size="1242" crc="e0c82b2a" sha1="6b693b79a06eb835cfb885f639353d33412dff73" />
+		<rom name="BOUND_BAS.caq" size="145" crc="28adee38" sha1="f0497e92b42dee8f2792dbbbe2e55bd7445e8064" />
+		<rom name="BREAK_A.caq" size="1426" crc="013376d8" sha1="850ae9d96e430344cf5d5f2a68f50fbd1552e8c3" />
+		<rom name="BREAK_BAS.caq" size="145" crc="206d95fc" sha1="019b538ced149631648d6249184194b861c4c4fe" />
+		<rom name="DRIVER_A.caq" size="1462" crc="8a4d028b" sha1="806e9a07d99de8c0d0948781416b39681c4b77f6" />
+		<rom name="DRIVER_BAS.caq" size="145" crc="141f5bde" sha1="c08e4c1e505215aa8d7b2a13fec21072b4a02092" />
+	</machine>
+	<machine name="gamespk4">
+		<description>Games Pack 4</description>
+		<year>1984</year>
+		<publisher>Custom Cables International</publisher>
+		<rom name="ALIEN_A.caq" size="1354" crc="9b33b07f" sha1="ce027afd2d78e2216a3e240c113bce695cb27449" />
+		<rom name="ALIEN_BAS.caq" size="145" crc="ee00ddec" sha1="c1da3e499790b1fd60eb5dc84dce80b4f992186d" />
+		<rom name="GRAND_A.caq" size="1298" crc="8ed00307" sha1="caad7e447d733434fa55df1d7412a40bedbc70fb" />
+		<rom name="GRAND_BAS.caq" size="145" crc="bc5959f2" sha1="be79dae8f0a37935c84706fdc83622dbacb32f18" />
+		<rom name="PAINT_A.caq" size="1510" crc="8c7b65f4" sha1="43c1a47306ffca743928bb0fa716ecdea185bc87" />
+		<rom name="PAINT_BAS.caq" size="145" crc="e9019d3e" sha1="58b7ebf61b36c3f75afa4d48b70a7f687740cbae" />
+		<rom name="PONTOO_A.caq" size="1522" crc="8712a6ba" sha1="c277c25ada90c816f00be888e94e3047bb095a9e" />
+		<rom name="PONTOO_BAS.caq" size="145" crc="e8a9ba7a" sha1="c8c25b976a304b96d5c6c7eefb1c455aaed861f8" />
+	</machine>
+	<machine name="gridbug">
+		<description>Grid Bug</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="GRID_A.caq" size="3078" crc="912ff4fe" sha1="d995e9622c92d97b66e3a87b7e8d317c3a7b9385" />
+		<rom name="GRID_BAS.caq" size="145" crc="79b51b77" sha1="cb2c55af74d2cadaa9f96f1769bd8c772b6270ed" />
+	</machine>
+	<machine name="invaders">
+		<description>Invaders</description>
+		<year>1984</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="INVADERS_BAS1.caq" size="1612" crc="13fd3166" sha1="6e502e278490f91629b3a7439996871f8a515bc4" />
+		<rom name="INVADERS_PART2.caq" size="913" crc="5a9208d1" sha1="fb977bd8501a64d9ba7c1e1403cd593cc2a72494" />
+		<rom name="INVADERS_PART3.caq" size="1833" crc="cd60006b" sha1="4f98d7b2cd77fe8c152d374c02d2745f81116d41" />
+	</machine>
+	<machine name="kronos">
+		<description>Kronos Europea Cassette</description>
+		<year>1984</year>
+		<publisher>Radofin Electronics</publisher>
+		<rom name="GAMBLE_BAS.caq" size="1548" crc="c52a3090" sha1="5c2f55267c625a15fd18783207761b475e751cb3" />
+		<rom name="GUNFIG_BAS.caq" size="1614" crc="e7b58158" sha1="18763384fa322552c02b4ba7a991671a3f905350" />
+		<rom name="OUTLIN_A.caq" size="1322" crc="ad40288a" sha1="fe5474a2bd5db97cca190d5b42e6327fb7cc8462" />
+		<rom name="OUTLIN_BAS.caq" size="145" crc="6bf42107" sha1="79834059180bd8791862abeca805646ca769ee0b" />
+	</machine>
+	<machine name="mathsarm">
+		<description>Maths Armada</description>
+		<year>1984</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="MATHSARMADA_A.caq" size="6805" crc="89dff2d6" sha1="c98bb031e7767cc084c4a3c5edac3686cc5c0da9" />
+		<rom name="MATHSARMADA_BAS.caq" size="921" crc="8f43f128" sha1="631a91c7b2fc8eb1934a3e4db1027d6d0570db25" />
+	</machine>
+	<machine name="mazantics">
+		<description>Mazantics</description>
+		<year>1984</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="MAZAN_A.caq" size="11982" crc="f8538136" sha1="06da25c958ceaccfbc0712079118080ea64679ce" />
+		<rom name="MAZAN_BAS.caq" size="146" crc="bac5773c" sha1="84eb6303c8116dd9950a8d640b07f4595ca59311" />
+	</machine>
+	<machine name="millypede">
+		<description>Millypede</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="MILLY_A.caq" size="4394" crc="6423ac3c" sha1="fb1c509d691ac791968293db8db6085356ec747c" />
+		<rom name="MILLY_BAS.caq" size="146" crc="2d5b7ad8" sha1="c41b8095b6ef42c47e0cf98f8ae609a88d51e325" />
+	</machine>
+	<machine name="modem">
+		<description>Modem Program</description>
+		<year>1983</year>
+		<publisher>Mattel Electronics</publisher>
+		<rom name="MODEM_A.caq" size="1583" crc="3702dd58" sha1="feff67a97717db21f4e7b680944cffa9af2962d9" />
+		<rom name="MODEM_BAS.caq" size="449" crc="56ffd32e" sha1="b154174dced51ca5bd9cdb0b45ac1dee643395a4" />
+	</machine>
+	<machine name="nvaders">
+		<description>N-Vaders</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="N-VADE_A.caq" size="5254" crc="6bcaa4f8" sha1="d4f3bbbcb4ad6cd75fa2bfcf42e65ed79d6dde5b" />
+		<rom name="N-VADE_BAS.caq" size="146" crc="1491ccf0" sha1="68519f921a35f1b392a0a76ac2ef55e8b885de23" />
+	</machine>
+	<machine name="pacmr">
+		<description>Pac Mr</description>
+		<year>1983</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="pacmro\OHSHIT_A.caq" size="9938" crc="b24e3ecd" sha1="2ee0cefbd7be797432d08cc7a0523ff51c81601a" />
+		<rom name="pacmro\OHSHIT_BAS.caq" size="146" crc="7e8e7b56" sha1="102a9713b3308d4fdadd781978a78f67cdf997e8" />
+		<rom name="PACMR_A.caq" size="6202" crc="90d94a50" sha1="08156755413d99b03c477467e147fc993f8a08fa" />
+		<rom name="PACMR_BAS.caq" size="146" crc="ae9ef7b5" sha1="1d1cf43f0db36f4250a6cc1806c5e658fa110355" />
+	</machine>
+	<machine name="phrogger">
+		<description>Phrogger</description>
+		<year>1984</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="FROGGY_BAS.caq" size="5025" crc="898ce184" sha1="465ef5b994ab9d14c8753b6f362ec8a2449c4d6b" />
+	</machine>
+	<machine name="postman">
+		<description>Postman Pot</description>
+		<year>1984</year>
+		<publisher>Add-On Electronics</publisher>
+		<rom name="POSTIE_A.caq" size="10846" crc="5c955d42" sha1="fb8452cba0f46397a046e853d73579fc676f4c02" />
+		<rom name="POSTIE_BAS.caq" size="146" crc="fcba8a36" sha1="9efd37bc202748839c541ad0c14068d8a4f07030" />
+	</machine>
+	<machine name="pries">
+		<description>Pries BASIC v1.02</description>
+		<year>1983</year>
+		<publisher>Priers Inc.</publisher>
+		<rom name="PRIES_BAS.caq" size="1733" crc="03b25b02" sha1="bcfe8e4762edc47cafaffc9d167a061ffe8b9bdb" />
+	</machine>
+	<machine name="readit">
+		<description>Read-It</description>
+		<year>1984</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="READ-IT_A.caq" size="4848" crc="d2d30da5" sha1="eb3bfafe4c499f089c1224c105b2b868a5ac9396" />
+		<rom name="READ-IT_BAS.caq" size="3771" crc="34828f30" sha1="b95da04ee19b30c34df5af61a4ca04abf13c2f43" />
+	</machine>
+	<machine name="spaceram">
+		<description>Space Ram</description>
+		<year>1984</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="SPACERAM_BAS.caq" size="1668" crc="21ca223d" sha1="07d303f58455b7ecb87a254a616f699ebe4f9dcc" />
+		<rom name="SPACERAM_PART2.caq" size="913" crc="5a9208d1" sha1="fb977bd8501a64d9ba7c1e1403cd593cc2a72494" />
+		<rom name="SPACERAM_PART3.caq" size="1181" crc="3cf38b15" sha1="757a2c09926e5fa5a58a4f86a6fb21c373cf0663" />
+		<rom name="SPACERAM_PART4.caq" size="1810" crc="c5983078" sha1="2f3809ac7365c710b2b09337f3baa11579bc5d80" />
+	</machine>
+	<machine name="spellit">
+		<description>Spell-It</description>
+		<year>1984</year>
+		<publisher>Dick Smith Electronics</publisher>
+		<rom name="SPELL-IT_A.caq" size="5585" crc="a08af250" sha1="760b511725a783aef0363e7c82948ee065b8e695" />
+		<rom name="SPELL-IT_BAS.caq" size="3567" crc="40e90438" sha1="cb8e50b7d912bf74eaab96c6c8167aee160a2297" />
+	</machine>
+	<machine name="spheli">
+		<description>Space Helicopter</description>
+		<year>1985</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="URRON_BAS.caq" size="10735" crc="57542ed2" sha1="ae835e4be42c3f033e3e44ceb53ef4e790545c51" />
+	</machine>
+	<machine name="toh">
+		<description>Tablets of Hippocrates</description>
+		<year>1984</year>
+		<publisher>Fawkes Computing</publisher>
+		<rom name="TOH_BAS.caq" size="14047" crc="41c62fbe" sha1="d7928c9230f2dbf18fe347280f4a9fc4cbe380a0" />
+	</machine>
+	<machine name="yakfm">
+		<description>Yie Ar Kung Fu Music</description>
+		<year>198?</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="YAKF_A.caq" size="6903" crc="5260cd13" sha1="71d25231c4b6fd2d67502dcb4fd325cba393feda" />
+		<rom name="YAKF_BAS.caq" size="2323" crc="8e21c8e5" sha1="d0f4eafac53f8c5c66c86194efd38965162baf0e" />
+	</machine>
+</datafile>

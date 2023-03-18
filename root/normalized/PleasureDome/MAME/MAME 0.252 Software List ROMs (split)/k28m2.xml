@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>k28m2</name>
+		<description>K28 model 7-232 modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="m1">
+		<description>Expansion Module 1</description>
+		<year>1986?</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="cm62086.vsm" size="16384" crc="0349798b" sha1="afdad242f9c7dec0c5fd83670e3d8f1637140e76" />
+	</machine>
+	<machine name="m2">
+		<description>Expansion Module 2</description>
+		<year>1986</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="cm62216.vsm" size="16384" crc="1c99306f" sha1="7bfadeec79bdc231c4e3447149e2f6542cfe077d" />
+	</machine>
+	<machine name="m3">
+		<description>Expansion Module 3</description>
+		<year>1986</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="cm62215.vsm" size="16384" crc="f2deb9a2" sha1="9fb264b869d1298ebd76811931bed83ac122fe4b" />
+	</machine>
+	<machine name="m4">
+		<description>Expansion Module 4</description>
+		<year>1986</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="cm62217.vsm" size="16384" crc="995936b2" sha1="8bd0fea4ade9972d1d6cb521f9367c971c7eead6" />
+	</machine>
+	<machine name="m6">
+		<description>Expansion Module 6</description>
+		<year>1987</year>
+		<publisher>Tiger Electronics</publisher>
+		<rom name="cm62219.vsm" size="16384" crc="177b5cb5" sha1="2ed44fea8f931fc8aa46dafdda1c6c30b8c9dc01" />
+	</machine>
+</datafile>

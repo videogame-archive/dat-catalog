@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pv2000</name>
+		<description>Casio PV-2000 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>Real Number Basic</description>
+		<year>198?</year>
+		<publisher>Casio</publisher>
+		<rom name="Rom1.bin" size="8192" crc="43ac2c5b" sha1="a56989d02db54974a64136a6abe0cd1861b38245" />
+		<rom name="Rom2.bin" size="8192" crc="4725e98d" sha1="3e55de11c66ae91eb40c586c73c3035fd7bcffac" />
+	</machine>
+	<machine name="excitem2">
+		<description>Excite Mahjong 2</description>
+		<year>1983</year>
+		<publisher>Casio</publisher>
+		<rom name="Rom1.bin" size="8192" crc="2671b9d8" sha1="9a5972c35e144904f5267e8ef94798ee38ac6fef" />
+		<rom name="Rom2.bin" size="8192" crc="bf6945fd" sha1="349a5a4153eda5239d6b9b7801ca6ed67f94db4c" />
+	</machine>
+	<machine name="exjockey">
+		<description>Exciting Jockey</description>
+		<year>1984</year>
+		<publisher>Casio</publisher>
+		<rom name="Exciting Jockey.bin" size="16384" crc="450174c3" sha1="97a5200f801ffd800b2328f0e1a224d5ed6904e0" />
+	</machine>
+	<machine name="frontlin">
+		<description>Front Line</description>
+		<year>1983</year>
+		<publisher>Casio / Taito</publisher>
+		<rom name="frntline.bin" size="8192" crc="86692c58" sha1="5891483952658589102f396b260fadf33ce9c32b" />
+	</machine>
+	<machine name="galaga">
+		<description>Galaga</description>
+		<year>1981</year>
+		<publisher>Casio / Namco</publisher>
+		<rom name="galaga.bin" size="8192" crc="e5befcf6" sha1="e3b4c7b1dc1a741eb098709ac41297a2c91ea444" />
+	</machine>
+	<machine name="mrpackn">
+		<description>Mr. Packn</description>
+		<year>1982</year>
+		<publisher>Casio / Namco</publisher>
+		<rom name="mrpackn.bin" size="8192" crc="ee0d3948" sha1="fd311a46b87ddd6263c4f12e88178d9e2150ea5a" />
+	</machine>
+	<machine name="pachiufo">
+		<description>Pachinko - UFO</description>
+		<year>1983</year>
+		<publisher>Casio</publisher>
+		<rom name="pachiufo.bin" size="16384" crc="1261e766" sha1="0c7a3f865e72fc8b3f39f66c0b48bf60cd2de599" />
+	</machine>
+	<machine name="pooyan">
+		<description>Pooyan</description>
+		<year>1982</year>
+		<publisher>Casio</publisher>
+		<rom name="pooyan.bin" size="16384" crc="3c16027b" sha1="a0bdf3160b61342cdc1611d866aa8c4b39da4506" />
+	</machine>
+	<machine name="rakugaki">
+		<description>Rakugaki Special</description>
+		<year>1983</year>
+		<publisher>Casio</publisher>
+		<rom name="Rom1.bin" size="8192" crc="08704dda" sha1="038decee4f74f01e37882175cf0aa8f101f2ff7d" />
+		<rom name="Rom2.bin" size="8192" crc="c1b3e57d" sha1="10df247dc6084ebd3c4e21a09ee5e7be0c5ff85e" />
+	</machine>
+	<machine name="rocnrope">
+		<description>Roc'n Rope</description>
+		<year>1983</year>
+		<publisher>Casio / Konami</publisher>
+		<rom name="rocnrope.bin" size="8192" crc="f8c9c2d9" sha1="2744e448f9537fbca1e65cbd3646678100777de3" />
+	</machine>
+	<machine name="scobra">
+		<description>Super Cobra</description>
+		<year>1981</year>
+		<publisher>Casio</publisher>
+		<rom name="suprcobr.bin" size="8192" crc="c382390f" sha1="fd8b85e5a58d0449908ae8f1bf7a32230a39d5eb" />
+	</machine>
+	<machine name="skicomm">
+		<description>Ski Command</description>
+		<year>198?</year>
+		<publisher>Casio</publisher>
+		<rom name="skicmmnd.bin" size="16384" crc="07bf1f44" sha1="5608311721d486b0cffccdfef40d51443a283490" />
+	</machine>
+</datafile>

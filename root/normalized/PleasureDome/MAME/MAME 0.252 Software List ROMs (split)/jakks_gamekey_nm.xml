@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jakks_gamekey_nm</name>
+		<description>JAKKS Pacific 'NM' Game Keys</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="nrxdig">
+		<description>New Rally X &amp; Dig Dug (01 APR 2005 A SKU E)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific Inc / Namco / HotGen Ltd</publisher>
+		<rom name="jakksdigdugnewrallyxgk.bin" size="1048576" crc="2a0e958a" sha1="2e09d87a8fdf115f13aaa8fd2c48f9eaf3c82bac" />
+	</machine>
+	<machine name="pacbos">
+		<description>Pac-Man &amp; Bosconian (01 APR 2005 A SKU G)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific Inc / Namco / HotGen Ltd</publisher>
+		<rom name="pacmanbosconiangk.bin" size="1048576" crc="036a99ed" sha1="75dd2744636c1ab4825ba8c31d63658eefe62cc5" />
+	</machine>
+	<machine name="pacbosrx">
+		<description>Pac-Man &amp; Bosconian &amp; Rally X (11 JUL 2005 A SKU I)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific Inc / Namco / HotGen Ltd</publisher>
+		<rom name="jakksnamcopacmanbosconianrallyxgk.bin" size="1048576" crc="751f0268" sha1="2fe374650b74924c439477605373df5a47072f41" />
+	</machine>
+</datafile>

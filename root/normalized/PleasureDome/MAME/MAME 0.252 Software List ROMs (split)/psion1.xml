@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>psion1</name>
+		<description>Psion Organiser I Datapack</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="construc">
+		<description>Construction Pack</description>
+		<year>198?</year>
+		<publisher>Wessex</publisher>
+		<rom name="wessex.op1" size="15063" crc="44a1d7ef" sha1="3c5e0d103952aafd55c456692e9eaad1eb0f0ceb" />
+	</machine>
+	<machine name="financep">
+		<description>Finance Pack</description>
+		<year>198?</year>
+		<publisher>Psion</publisher>
+		<rom name="finance.op1" size="16390" crc="5e4b1e5a" sha1="b2bf3f2a79597dfaed454d97bcc5ff2740b32b3c" />
+	</machine>
+	<machine name="linkup">
+		<description>Link Up Pack</description>
+		<year>198?</year>
+		<publisher>Psion</publisher>
+		<rom name="link-up.op1" size="4299" crc="f6cd6491" sha1="12ed6ab4e05fd068e91736826ec7473824fdc54a" />
+	</machine>
+	<machine name="mathspac">
+		<description>Maths Pack</description>
+		<year>198?</year>
+		<publisher>Psion</publisher>
+		<rom name="maths.op1" size="16317" crc="5dc289af" sha1="31c08efc37313e866b4876be4114a0ebe5fb7979" />
+	</machine>
+	<machine name="restaur">
+		<description>Restaurant Guide</description>
+		<year>198?</year>
+		<publisher>Psion</publisher>
+		<rom name="restguide.op1" size="11343" crc="7224f817" sha1="37d2548f18556bd2fbb7d592fe2a36811a1b1aaf" />
+	</machine>
+	<machine name="sciencep">
+		<description>Science Pack</description>
+		<year>198?</year>
+		<publisher>Psion</publisher>
+		<rom name="science1.op1" size="16390" crc="374728d0" sha1="55f1e1517640d694e05102d72dd01f2dcb852664" />
+		<rom name="science2.op1" size="16390" crc="6f9a3006" sha1="0f33b5f413fc658dc5c33623845e8236374cea0f" />
+	</machine>
+	<machine name="softpack">
+		<description>Software Pack</description>
+		<year>198?</year>
+		<publisher>Psion</publisher>
+		<rom name="software.op1" size="16390" crc="df02f390" sha1="aebfe3a74409b2c52b009d8d4f9d4c4d5732e222" />
+	</machine>
+	<machine name="utilityp">
+		<description>Utility Pack</description>
+		<year>198?</year>
+		<publisher>Psion</publisher>
+		<rom name="utility1.op1" size="8198" crc="62460a38" sha1="ca299aebdafa5d80d6e6f838e0d4de5900db511d" />
+		<rom name="utility2.op1" size="8105" crc="5fded4c4" sha1="65f44d0ce0885fbbb219b3cdc2f48269a997b4f5" />
+	</machine>
+</datafile>
