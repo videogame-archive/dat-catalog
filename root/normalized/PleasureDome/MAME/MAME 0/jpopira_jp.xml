@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jpopira_jp</name>
+		<description>Takara Jumping Popira (Japan) JP-xx series cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="jp01">
+		<description>JP-01 (Japan)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="jp1.bin" size="2097152" crc="106544c5" sha1="1bff363ce13c0eaf344a8f36ed004c78e0ddd007" />
+	</machine>
+	<machine name="jp02">
+		<description>JP-02 (Japan)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="jp2.bin" size="2097152" crc="f66d8ee8" sha1="3624c89197b1579fc60d5c40ff30bca248428a6c" />
+	</machine>
+</datafile>

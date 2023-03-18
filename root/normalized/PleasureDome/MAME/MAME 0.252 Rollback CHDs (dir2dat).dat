@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>MAME 0.252 Rollback CHDs</name>
+		<description>MAME 0.252 Rollback CHDs</description>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="MAME (v0.102u4) - gauntdl">
+		<description>MAME (v0.102u4) - gauntdl</description>
+		<rom name="gauntdl.chd" size="1602514380" crc="aa9e85ff" sha1="9654e9c47cfd5298e1021bcba1c9192fb463769e"/>
+	</machine>
+	<machine name="MAME (v0.102u4) - gauntl12">
+		<description>MAME (v0.102u4) - gauntl12</description>
+		<rom name="gauntl12.chd" size="1107530289" crc="060cc23c" sha1="16b1d349a6fd01881f57707496429d75641b26c1"/>
+	</machine>
+	<machine name="MAME (v0.102u4) - gauntleg">
+		<description>MAME (v0.102u4) - gauntleg</description>
+		<rom name="gauntleg.chd" size="1110910826" crc="9f9c6742" sha1="3c7c1c444f2bfdd660de463108201dd1282bea24"/>
+	</machine>
+	<machine name="MAME (v0.106) - susume">
+		<description>MAME (v0.106) - susume</description>
+		<rom name="susume.chd" size="451355017" crc="990cf920" sha1="0ebc987ab8ecba3cf7f2bd3808b4ccbca4caf619"/>
+	</machine>
+	<machine name="MAME (v0.109u4) - konam80j">
+		<description>MAME (v0.109u4) - konam80j</description>
+		<rom name="gc826jaa.chd" size="8495791" crc="3d462c99" sha1="1b996fb6140b307c94b2c04c19194164f0e1aea2"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - choko">
+		<description>MAME (v0.111u2) - choko</description>
+		<rom name="choko.chd" size="4311864325" crc="652614fe" sha1="a5c38ca1beeff79d8e82f8907e1102e3cab82501"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - csclubj">
+		<description>MAME (v0.111u2) - csclubj</description>
+		<rom name="csclubj.chd" size="4311864204" crc="b01b5138" sha1="a8c2c035e130225782f76fb90f50bdb694ccd696"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - jyangoku">
+		<description>MAME (v0.111u2) - jyangoku</description>
+		<rom name="jyangoku.chd" size="4311864219" crc="6c1f36fc" sha1="2969940959419a0139a2391fce9c042ce001ac40"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - pzloop2">
+		<description>MAME (v0.111u2) - pzloop2</description>
+		<rom name="pzloop2.chd" size="4311864142" crc="b4646601" sha1="0bb851d55b273ab164b6e1b0749247567696c35c"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - sfzj">
+		<description>MAME (v0.111u2) - sfzj</description>
+		<rom name="sfzj.chd" size="4311864270" crc="3112d75e" sha1="5adc620eaefa08ba64588db13c9e1b36a6427864"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - xmcota">
+		<description>MAME (v0.111u2) - xmcota</description>
+		<rom name="xmcota.chd" size="4311864278" crc="b0f54034" sha1="c48b3385aa1e01e0b2771a3ffb01f6bc970c1b60"/>
+	</machine>
+	<machine name="MAME (v0.118u4) - ddr2m">
+		<description>MAME (v0.118u4) - ddr2m</description>
+		<rom name="895ja.chd" size="606638332" crc="eb91a5d4" sha1="b2defebee66e215a123d986e411a215f6c908e27"/>
+	</machine>
+	<machine name="MAME (v0.118u4) - ddrja">
+		<description>MAME (v0.118u4) - ddrja</description>
+		<rom name="845jab02.chd" size="235740753" crc="850ef62e" sha1="a942b8d40980a69c58fabcda7e110fd25d69eae1"/>
+	</machine>
+	<machine name="MAME (v0.130) - a51site4">
+		<description>MAME (v0.130) - a51site4</description>
+		<rom name="a51site4.chd" size="736499609" crc="f6434e07" sha1="c99999627f20ed521d06fd553713848f0f87e911"/>
+	</machine>
+	<machine name="MAME (v0.130) - area51">
+		<description>MAME (v0.130) - area51</description>
+		<rom name="area51.chd" size="542757759" crc="e21ae727" sha1="43c2a75ef985cbeb22119dbcad4667875c2a86b9"/>
+	</machine>
+	<machine name="MAME (v0.130) - area51mx">
+		<description>MAME (v0.130) - area51mx</description>
+		<rom name="area51mx.chd" size="1777220045" crc="4e657f39" sha1="e2f3a168e7f81a8743b115bfc547d0aa94ba5852"/>
+	</machine>
+	<machine name="MAME (v0.130) - area51t">
+		<description>MAME (v0.130) - area51t</description>
+		<rom name="area51t.chd" size="546424630" crc="44db874f" sha1="6ab553c8b349ab02d5ccb10ea02738a251fd7f78"/>
+	</machine>
+	<machine name="MAME (v0.130) - bam2">
+		<description>MAME (v0.130) - bam2</description>
+		<rom name="bam2.chd" size="884367321" crc="2744a69e" sha1="b2c21cc0674d198f7e41e3adecec25b2c0a64b23"/>
+	</machine>
+	<machine name="MAME (v0.130) - bassangl">
+		<description>MAME (v0.130) - bassangl</description>
+		<rom name="765jaa02.chd" size="25849288" crc="1e01c401" sha1="2c8bec94f3e3210c3bf261d96bfe66b6308b34d8"/>
+	</machine>
+	<machine name="MAME (v0.130) - biofreak">
+		<description>MAME (v0.130) - biofreak</description>
+		<rom name="biofreak.chd" size="94405844" crc="dc7026f0" sha1="78cad8cd952bffe27ca3b7fdd9c3ec4fcbdfd571"/>
+	</machine>
+	<machine name="MAME (v0.130) - blitz">
+		<description>MAME (v0.130) - blitz</description>
+		<rom name="blitz.chd" size="274827422" crc="8590a23f" sha1="e88a086b7ff69abce133a260a2f61556f7dc3ad1"/>
+	</machine>
+	<machine name="MAME (v0.130) - blitz2k">
+		<description>MAME (v0.130) - blitz2k</description>
+		<rom name="blitz2k.chd" size="619474133" crc="e99e8865" sha1="adcb0717664635498b5bb742553b3afcf3cc2204"/>
+	</machine>
+	<machine name="MAME (v0.130) - blitz99">
+		<description>MAME (v0.130) - blitz99</description>
+		<rom name="blitz99.chd" size="380075964" crc="80fa6573" sha1="91790e9c0b4c96f02a07b1558834b7e3a0c0fc0f"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm1stmix">
+		<description>MAME (v0.130) - bm1stmix</description>
+		<rom name="753jaa11.chd" size="192236205" crc="bd396f1a" sha1="90bd9b7abf87886b8444c8143f3cbf43b87034c2"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm2ndmix">
+		<description>MAME (v0.130) - bm2ndmix</description>
+		<rom name="853jaa11.chd" size="381686640" crc="fc546e0c" sha1="4a3482abfd49ccf3ec8d048b69a24d83462df3d2"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm3rdmix">
+		<description>MAME (v0.130) - bm3rdmix</description>
+		<rom name="825jaa11.chd" size="381424949" crc="fec062c9" sha1="c24f2b06883e1ecbc656d848d44b7286c684a5ea"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm4thmix">
+		<description>MAME (v0.130) - bm4thmix</description>
+		<rom name="847jaa11.chd" size="357337337" crc="d6728323" sha1="ddd1a888d467e1437c8b887566cb256190dc89ef"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm5thmix">
+		<description>MAME (v0.130) - bm5thmix</description>
+		<rom name="981jaa11.chd" size="652910763" crc="0a7f8e3c" sha1="73ecf84ba8c6f3133d284f5748167f9b81f5b7f1"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm6thmix">
+		<description>MAME (v0.130) - bm6thmix</description>
+		<rom name="a21jaa11.chd" size="429339338" crc="56b89226" sha1="1613e6952ba0e46bc3e2417b15c7366bcfaaaf60"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm7thmix">
+		<description>MAME (v0.130) - bm7thmix</description>
+		<rom name="b07jaa11.chd" size="961306247" crc="3de8ed26" sha1="d2cd7653bc5225cbb2226fee0ea0c5dcb9a9a843"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmcompm2">
+		<description>MAME (v0.130) - bmcompm2</description>
+		<rom name="988jaa11.chd" size="1158771925" crc="cd00f078" sha1="ca0e2bbfd7bcb678bce6fc51e861f0d3abbe9ba0"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmcompmx">
+		<description>MAME (v0.130) - bmcompmx</description>
+		<rom name="858jaa11.chd" size="650477324" crc="8e7fbb88" sha1="b343bba7789732617a49b9757b4b1965e41ed854"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmcorerm">
+		<description>MAME (v0.130) - bmcorerm</description>
+		<rom name="a05jaa11.chd" size="718931730" crc="9b587aed" sha1="18f7219b5e1bbbc5ce39c78459e60e7f275c9503"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmdct">
+		<description>MAME (v0.130) - bmdct</description>
+		<rom name="995jaa11.chd" size="474052910" crc="314d5122" sha1="70c991016cbb5106dbbb6ddd7bc6ead9fe90ea62"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmfinal">
+		<description>MAME (v0.130) - bmfinal</description>
+		<rom name="c01jaa11.chd" size="3042765230" crc="de8fd08c" sha1="48206b80529c114eed73daca1913d11210d55224"/>
+	</machine>
+	<machine name="MAME (v0.130) - boxingm">
+		<description>MAME (v0.130) - boxingm</description>
+		<rom name="a45jaa02.chd" size="39998732" crc="582ce609" sha1="8c42ae51e1d8ad494765f09ecb9bd831b92384e4"/>
+	</machine>
+	<machine name="MAME (v0.130) - btchamp">
+		<description>MAME (v0.130) - btchamp</description>
+		<rom name="btchamp.chd" size="211264840" crc="34f4755d" sha1="78d0b3946f7c8cca7da5a4188c96d5953e13123c"/>
+	</machine>
+	<machine name="MAME (v0.130) - btltryst">
+		<description>MAME (v0.130) - btltryst</description>
+		<rom name="btltryst.chd" size="267875353" crc="77e4fb6d" sha1="5bc6a535e644c65c7b40a9362644fc0303f9e347"/>
+	</machine>
+	<machine name="MAME (v0.130) - calspeda">
+		<description>MAME (v0.130) - calspeda</description>
+		<rom name="calspeda.chd" size="511316095" crc="c8d87d24" sha1="ee50dfc4bbdb8010081866998ac18a6ad88b38ef"/>
+	</machine>
+	<machine name="MAME (v0.130) - calspeed">
+		<description>MAME (v0.130) - calspeed</description>
+		<rom name="calspeed.chd" size="525720024" crc="7054f4b4" sha1="8e3d6750eca1472a2037084893015d6921cb208d"/>
+	</machine>
+	<machine name="MAME (v0.130) - carnevi1">
+		<description>MAME (v0.130) - carnevi1</description>
+		<rom name="carnevi1.chd" size="1620917074" crc="15928279" sha1="9790dfd2ead4114ce789ef94d982382ceb44fae7"/>
+	</machine>
+	<machine name="MAME (v0.130) - carnevil">
+		<description>MAME (v0.130) - carnevil</description>
+		<rom name="carnevil.chd" size="1625437954" crc="69a277dd" sha1="567e46878a72c0156805980d5d8a6def98b7d205"/>
+	</machine>
+	<machine name="MAME (v0.130) - cartfury">
+		<description>MAME (v0.130) - cartfury</description>
+		<rom name="cartfury.chd" size="638452178" crc="6cf9aaaf" sha1="5025d4e3e5b2fbf8d9184e82210acf5627331000"/>
+	</machine>
+	<machine name="MAME (v0.130) - chocomk">
+		<description>MAME (v0.130) - chocomk</description>
+		<rom name="gdl-0014a.chd" size="109660225" crc="a7305b59" sha1="77cac9c2ca310ed39c287719215274950e4a099c"/>
+	</machine>
+	<machine name="MAME (v0.130) - cndypuzl">
+		<description>MAME (v0.130) - cndypuzl</description>
+		<rom name="cndypuzl.chd" size="15871142" crc="f33ffabd" sha1="5a7d03c3d6c2b73a81aee279600fec98a5f44ad1"/>
+	</machine>
+	<machine name="MAME (v0.130) - code1d">
+		<description>MAME (v0.130) - code1d</description>
+		<rom name="gk922d02.chd" size="53158816" crc="384ede90" sha1="d5ff7acedf07b58bc6b5d501691df0617c83515b"/>
+	</machine>
+	<machine name="MAME (v0.130) - code1db">
+		<description>MAME (v0.130) - code1db</description>
+		<rom name="gk922b02.chd" size="26513109" crc="eab165c7" sha1="41afbcd31e48df22acd726c45ac9548f6f25ae3a"/>
+	</machine>
+	<machine name="MAME (v0.130) - comebaby">
+		<description>MAME (v0.130) - comebaby</description>
+		<rom name="comebaby.chd" size="568803296" crc="e307da91" sha1="30b7758155e6006785a38fdb600498f3826251e0"/>
+	</machine>
+	<machine name="MAME (v0.130) - cr589fw">
+		<description>MAME (v0.130) - cr589fw</description>
+		<rom name="700b04.chd" size="142845" crc="5be193be" sha1="0f3dd888aaaf1702dd059ae8f9dcee2b7a72d237"/>
+	</machine>
+	<machine name="MAME (v0.130) - cr589fwa">
+		<description>MAME (v0.130) - cr589fwa</description>
+		<rom name="700a04.chd" size="140350" crc="b4f2c9aa" sha1="a42c8bc671f46a4765204093fbd2f34ee14f680a"/>
+	</machine>
+	<machine name="MAME (v0.130) - cryptklr">
+		<description>MAME (v0.130) - cryptklr</description>
+		<rom name="420uaa04.chd" size="186689704" crc="e371b245" sha1="cec908427b87c6dfa7311f2b5465d90acd57b020"/>
+	</machine>
+	<machine name="MAME (v0.130) - cubeqst">
+		<description>MAME (v0.130) - cubeqst</description>
+		<rom name="cubeqst.chd" size="11517456457" crc="8694e544" sha1="c902da27c2644e3a4ac74e3ad3b420ace0eab0ae"/>
+	</machine>
+	<machine name="MAME (v0.130) - cvs2gd">
+		<description>MAME (v0.130) - cvs2gd</description>
+		<rom name="gdl-0007a.chd" size="152574097" crc="11151693" sha1="b5fd12aa88383f4f5a47547b3fa4bd4d25bf781f"/>
+	</machine>
+	<machine name="MAME (v0.130) - cvsgd">
+		<description>MAME (v0.130) - cvsgd</description>
+		<rom name="gdl-0004.chd" size="174474170" crc="526ed5e6" sha1="f1a8d36761781fb140734daae5068a7357ec56e3"/>
+	</machine>
+	<machine name="MAME (v0.130) - darkhleg">
+		<description>MAME (v0.130) - darkhleg</description>
+		<rom name="706jaa02.chd" size="234987673" crc="71626a00" sha1="910091663b1d78dffebbbc761873acefa263336b"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2m">
+		<description>MAME (v0.130) - ddr2m</description>
+		<rom name="895jaa02.chd" size="609225511" crc="e7c6c741" sha1="3758699c341f2872e702f989c28c161a164aaa10"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2mc">
+		<description>MAME (v0.130) - ddr2mc</description>
+		<rom name="896jaa01.chd" size="15773054" crc="cbfc81d2" sha1="ea90acf3fa4e176bee5c2f39bedd877b2c09dd4f"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2mc2">
+		<description>MAME (v0.130) - ddr2mc2</description>
+		<rom name="984jaa01.chd" size="16440784" crc="d6cfcdce" sha1="86cc96144b21f42799a5e2b47fff14b60a4aca78"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2ml">
+		<description>MAME (v0.130) - ddr2ml</description>
+		<rom name="885jaa02.chd" size="667610654" crc="9370607e" sha1="7eb0d8519ca8698bbb03306a28ae2fb05d8b78ea"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3ma">
+		<description>MAME (v0.130) - ddr3ma</description>
+		<rom name="887aaa02.chd" size="161422282" crc="987878f1" sha1="538edf474a705f4b8a93080136fb8c9f8e713364"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mj">
+		<description>MAME (v0.130) - ddr3mj</description>
+		<rom name="887jaa02.chd" size="176659040" crc="6c417204" sha1="dac1462ba221f000f510a5e54829a7d8c02e9051"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mk">
+		<description>MAME (v0.130) - ddr3mk</description>
+		<rom name="887kba02.chd" size="198991671" crc="b3876757" sha1="15c0d456ea89fc737be1a8d6373a126eb667be0b"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mka">
+		<description>MAME (v0.130) - ddr3mka</description>
+		<rom name="887kaa02.chd" size="176638585" crc="4e884fd2" sha1="3135163601f4310975f0a9bcc513fc854f7afbec"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mp">
+		<description>MAME (v0.130) - ddr3mp</description>
+		<rom name="a22jaa02.chd" size="212094255" crc="bb042f01" sha1="0f170067de0f31b58efb9c5247c44b7a770980d0"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr4m">
+		<description>MAME (v0.130) - ddr4m</description>
+		<rom name="a33aaa02.chd" size="271462241" crc="45221409" sha1="dc36d5aed7361ddcf648ca783b46f0bad3210e17"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr4mj">
+		<description>MAME (v0.130) - ddr4mj</description>
+		<rom name="a33jaa02.chd" size="297272500" crc="fca731f0" sha1="78422219d496d9a39da39d70a3725bac80804b72"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr4mp">
+		<description>MAME (v0.130) - ddr4mp</description>
+		<rom name="a34jaa02.chd" size="331003244" crc="927df78e" sha1="f22d553f0e84dd90d8dd26c1bd6a607284e67874"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr5m">
+		<description>MAME (v0.130) - ddr5m</description>
+		<rom name="a27jaa02.chd" size="279413626" crc="505b2795" sha1="5e5e2009c93c2552f02219cb0ff4b7970fce309e"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddra">
+		<description>MAME (v0.130) - ddra</description>
+		<rom name="845aaa02.chd" size="282901457" crc="8f5a6a30" sha1="638655cfc275b03cad776658d1f6cae16f8cc26e"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrbocd">
+		<description>MAME (v0.130) - ddrbocd</description>
+		<rom name="892jaa01.chd" size="13024518" crc="f976dc15" sha1="9477e5794821875f08138afaa45268530814c2c0"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrextrm">
+		<description>MAME (v0.130) - ddrextrm</description>
+		<rom name="c36jaa02.chd" size="680139154" crc="a7239ae0" sha1="c5dc29d9a71fa84ad0559eddf0e5c7ab4c9100ca"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrj">
+		<description>MAME (v0.130) - ddrj</description>
+		<rom name="845jba02.chd" size="289070679" crc="43ffe1fb" sha1="67ab9b1bfaeb4d5ac7c58f8406907c394f4eb01a"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrja">
+		<description>MAME (v0.130) - ddrja</description>
+		<rom name="845jaa02.chd" size="254412866" crc="8bcdb5e9" sha1="d542eb8f03a6528444781eae242827aff35da127"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrjb">
+		<description>MAME (v0.130) - ddrjb</description>
+		<rom name="845jab02.chd" size="235899022" crc="516f3f75" sha1="70bf1dbf0828874804d22bcaeb72b8f7fe61c371"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrmax">
+		<description>MAME (v0.130) - ddrmax</description>
+		<rom name="b19jaa02.chd" size="309465894" crc="b7ef2271" sha1="85a739e71a0165f1e29bcd716b417c19f72d204f"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrmax2">
+		<description>MAME (v0.130) - ddrmax2</description>
+		<rom name="b20jaa02.chd" size="654212409" crc="9eedf52d" sha1="0b70dd389fb4969ee2436116c5dbda262bd6e65c"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrs2k">
+		<description>MAME (v0.130) - ddrs2k</description>
+		<rom name="905aaa02.chd" size="126263748" crc="b083f33b" sha1="2b72b6ecf1df20088d6a1ed5fd90fdd0178dc63a"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrs2kj">
+		<description>MAME (v0.130) - ddrs2kj</description>
+		<rom name="905jaa02.chd" size="149295173" crc="f193e3f8" sha1="4c8b6396abdb3aa5c7006e864b221e88d05e5a51"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrsbm">
+		<description>MAME (v0.130) - ddrsbm</description>
+		<rom name="894jaa02.chd" size="99404248" crc="5160cdc5" sha1="cc9061187900bcc8aa1547572a6ffab5c9e46a1f"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrusa">
+		<description>MAME (v0.130) - ddrusa</description>
+		<rom name="a44uaa02.chd" size="77658944" crc="619f1049" sha1="3b9eace39ea89be6112622b13e97149c0eaca8ca"/>
+	</machine>
+	<machine name="MAME (v0.130) - dmx">
+		<description>MAME (v0.130) - dmx</description>
+		<rom name="874jaa.chd" size="84232018" crc="d24f0f94" sha1="6d45271fb6edf9c27d47364521127d81cf860aec"/>
+	</machine>
+	<machine name="MAME (v0.130) - dmx2m">
+		<description>MAME (v0.130) - dmx2m</description>
+		<rom name="a39jaa02.chd" size="352941542" crc="c105cb4d" sha1="3a9220df35deb5ce02e6a93e0e16e213cce7751e"/>
+	</machine>
+	<machine name="MAME (v0.130) - dmx2majp">
+		<description>MAME (v0.130) - dmx2majp</description>
+		<rom name="a38jaa02.chd" size="427469225" crc="a57c0fad" sha1="18a1de14785461765d7c73fd81bcef6abff48628"/>
+	</machine>
+	<machine name="MAME (v0.130) - dncfrks">
+		<description>MAME (v0.130) - dncfrks</description>
+		<rom name="874kaa.chd" size="100315460" crc="1a345c6f" sha1="e45008503d6b29047c1ed6f4b503ecee01e6426b"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn">
+		<description>MAME (v0.130) - drmn</description>
+		<rom name="881jad01.chd" size="15768627" crc="cb599718" sha1="0619be8154d22eb951c2d536b37ce2085aada4ec"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn2m">
+		<description>MAME (v0.130) - drmn2m</description>
+		<rom name="912jab.chd" size="212897790" crc="3594d16c" sha1="eb2e1a7f181833f4b807a96b9bb608d4aa9e4b73"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn2mpu">
+		<description>MAME (v0.130) - drmn2mpu</description>
+		<rom name="912za01.chd" size="99344" crc="bff939ad" sha1="47b563a9a202642e098b3f7a4324e1cc24c22b12"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn3m">
+		<description>MAME (v0.130) - drmn3m</description>
+		<rom name="a23jaa02.chd" size="409535896" crc="912645fd" sha1="ba1828156a6a807ca4b0435d143bca356331577e"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsem">
+		<description>MAME (v0.130) - dsem</description>
+		<rom name="936eaa.chd" size="86288027" crc="123cd922" sha1="8769dc23902139f50bb9d760c20c8d27505faa7e"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsem2">
+		<description>MAME (v0.130) - dsem2</description>
+		<rom name="c23eaa02.chd" size="332910634" crc="6a0b5bea" sha1="7f219905d9c4a542b68ef2a8a0d905aa6d7ac4bd"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsfdct">
+		<description>MAME (v0.130) - dsfdct</description>
+		<rom name="910jca02.chd" size="40764946" crc="69fba3a4" sha1="79ba41582d38bc5362ac8f356f80a98cab3f4009"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsfdcta">
+		<description>MAME (v0.130) - dsfdcta</description>
+		<rom name="910jaa02.chd" size="296196189" crc="da648963" sha1="a77770b8e838c08a83df9360b5afcc770e9e5907"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsftkd">
+		<description>MAME (v0.130) - dsftkd</description>
+		<rom name="884jaa02.chd" size="265825175" crc="50140ccb" sha1="e56d7ba4a541b216176817ed00c161bb69c1906a"/>
+	</machine>
+	<machine name="MAME (v0.130) - dstage">
+		<description>MAME (v0.130) - dstage</description>
+		<rom name="845ea.chd" size="291654215" crc="6209d2ad" sha1="f78fc97d9d21a511426dcff55fd71c23657c8153"/>
+	</machine>
+	<machine name="MAME (v0.130) - dygolf">
+		<description>MAME (v0.130) - dygolf</description>
+		<rom name="gds-0009.chd" size="114362385" crc="ee6a3d66" sha1="35f183a92d975ca33b6d01cebb97ad6653d12653"/>
+	</machine>
+	<machine name="MAME (v0.130) - fbait2bc">
+		<description>MAME (v0.130) - fbait2bc</description>
+		<rom name="865uab02.chd" size="34921590" crc="74b62056" sha1="a61d5c9367adb2fce932fbc94afe176211c95cfd"/>
+	</machine>
+	<machine name="MAME (v0.130) - fbaitbc">
+		<description>MAME (v0.130) - fbaitbc</description>
+		<rom name="765uab02.chd" size="22431401" crc="4cb14222" sha1="795d779f55f9667d99cc53bdf90f2f8306036349"/>
+	</machine>
+	<machine name="MAME (v0.130) - fbaitmc">
+		<description>MAME (v0.130) - fbaitmc</description>
+		<rom name="889ea.chd" size="10585858" crc="22ad69de" sha1="60145ef34407c0a283517e019350c3c8d6d0cf4c"/>
+	</machine>
+	<machine name="MAME (v0.130) - firefox">
+		<description>MAME (v0.130) - firefox</description>
+		<rom name="firefox.chd" size="12634225683" crc="0accb7c7" sha1="23df739108c2653226446ea4c662f0ef0ec5b3c0"/>
+	</machine>
+	<machine name="MAME (v0.130) - gamecst2">
+		<description>MAME (v0.130) - gamecst2</description>
+		<rom name="gamecst2.chd" size="5247351359" crc="659b776e" sha1="e065b969b714ed35be20ded591103f90da458dc7"/>
+	</machine>
+	<machine name="MAME (v0.130) - gamecstl">
+		<description>MAME (v0.130) - gamecstl</description>
+		<rom name="gamecstl.chd" size="3042650555" crc="9d0d0fee" sha1="308db0645671d946cf3be6f8061665bf54d69fa3"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntd24">
+		<description>MAME (v0.130) - gauntd24</description>
+		<rom name="gauntd24.chd" size="1602514178" crc="9a8f2d3e" sha1="7fd20208433588e40639212aa28a03008a2bc36c"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntdl">
+		<description>MAME (v0.130) - gauntdl</description>
+		<rom name="gauntdl.chd" size="1650983361" crc="6f87223b" sha1="f8b58919c601c1e340eff699e0af011163b7624f"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntl12">
+		<description>MAME (v0.130) - gauntl12</description>
+		<rom name="gauntl12.chd" size="1107530151" crc="37d5e9e6" sha1="e3987527f1fb8c4aa6589e63bb78f3892bd31c56"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntleg">
+		<description>MAME (v0.130) - gauntleg</description>
+		<rom name="gauntleg.chd" size="1110910657" crc="1d138220" sha1="37a3d26377e298a0ce4e1e521e108bf62de2794c"/>
+	</machine>
+	<machine name="MAME (v0.130) - ggxx">
+		<description>MAME (v0.130) - ggxx</description>
+		<rom name="gdl-0011.chd" size="318719730" crc="4469dece" sha1="f8a140f13df78c399c8c10c932f2f7036f81ae9e"/>
+	</machine>
+	<machine name="MAME (v0.130) - ggxxrl">
+		<description>MAME (v0.130) - ggxxrl</description>
+		<rom name="gdl-0019a.chd" size="324010297" crc="05daf4f7" sha1="0d059bf77c4a0b05e7d207458b617b3b72894f88"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtfrk11m">
+		<description>MAME (v0.130) - gtfrk11m</description>
+		<rom name="d39jaa02.chd" size="660181670" crc="7fc53dd6" sha1="c30a43ec98856065ac9e013ccc04d2310dfaf4b0"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtfrk3mb">
+		<description>MAME (v0.130) - gtfrk3mb</description>
+		<rom name="949jaz02.chd" size="28792" crc="ed09e522" sha1="c4dd35cffd448938ee30a7dfd0dd0c46b0d1246a"/>
+	</machine>
+	<machine name="MAME (v0.130) - gticlub2">
+		<description>MAME (v0.130) - gticlub2</description>
+		<rom name="gm941b02.chd" size="22508944" crc="352e5525" sha1="993bb56b58250e618914f0ba017ca29884521adb"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk2m">
+		<description>MAME (v0.130) - gtrfrk2m</description>
+		<rom name="929jbb02.chd" size="697849613" crc="9d8a08c1" sha1="ad88daf985acb26bcdd048963b01ceb60c6816ae"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk3m">
+		<description>MAME (v0.130) - gtrfrk3m</description>
+		<rom name="949jab02.chd" size="275791097" crc="5082aa7d" sha1="573113bcb057dad2aa04ac87ce65dd52db75aa21"/>
+		<rom name="949jac01.chd" size="24308939" crc="ad50ba5c" sha1="0df5b7275ef9a064bdf597b5beb8c51f5cc65918"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk4m">
+		<description>MAME (v0.130) - gtrfrk4m</description>
+		<rom name="a24jaa02.chd" size="429299499" crc="e5efb515" sha1="6d14654d196b50931b71ed4c49b8397a92aadfd9"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk5m">
+		<description>MAME (v0.130) - gtrfrk5m</description>
+		<rom name="a26jaa02.chd" size="608444128" crc="8afd6d07" sha1="aff47f8da50c587db3d0ace7ccff56762bf1808f"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk6m">
+		<description>MAME (v0.130) - gtrfrk6m</description>
+		<rom name="b06jaa02.chd" size="618003124" crc="8477706d" sha1="eb8e630190eb21bb47460f9688e1677991786b79"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk7m">
+		<description>MAME (v0.130) - gtrfrk7m</description>
+		<rom name="b17jaa02.chd" size="501012335" crc="96a9acf4" sha1="2e8cecf519a6e213ac4950aab43161d262839962"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrks">
+		<description>MAME (v0.130) - gtrfrks</description>
+		<rom name="886ea.chd" size="613531013" crc="c9c0ff64" sha1="ec8cffd094dcba28a79599748985e9a92b4f49ba"/>
+	</machine>
+	<machine name="MAME (v0.130) - gundmgd">
+		<description>MAME (v0.130) - gundmgd</description>
+		<rom name="gdl-0001.chd" size="196387866" crc="abc5c2db" sha1="d16fd7abf5143892c5a7571f5fc6b7a70adc912e"/>
+	</machine>
+	<machine name="MAME (v0.130) - gundmxgd">
+		<description>MAME (v0.130) - gundmxgd</description>
+		<rom name="gdl-0006.chd" size="233042294" crc="9d94163e" sha1="a7d4f7f86ef06a2b8233aa7c87561f9eccab02b1"/>
+	</machine>
+	<machine name="MAME (v0.130) - haremchl">
+		<description>MAME (v0.130) - haremchl</description>
+		<rom name="haremchl.chd" size="121985867" crc="767dd9ba" sha1="5894cc59f731003866ed2222c0b4af9ed79bd3ea"/>
+	</machine>
+	<machine name="MAME (v0.130) - heatof11">
+		<description>MAME (v0.130) - heatof11</description>
+		<rom name="heatof11.chd" size="245902491" crc="b7e9a6a3" sha1="cea6d0ed1beeb49f4ad3919d83d6505b9df9a78e"/>
+	</machine>
+	<machine name="MAME (v0.130) - hellngt">
+		<description>MAME (v0.130) - hellngt</description>
+		<rom name="810eaa02.chd" size="462552907" crc="d96427a2" sha1="cc6fe81f2485a8f8fbc754daafc0cc099fe99339"/>
+	</machine>
+	<machine name="MAME (v0.130) - hyperath">
+		<description>MAME (v0.130) - hyperath</description>
+		<rom name="hyperath.chd" size="186953016" crc="e6302352" sha1="5e61582b4375fdd73c89f3413a8898786f47f8f7"/>
+	</machine>
+	<machine name="MAME (v0.130) - hyprdriv">
+		<description>MAME (v0.130) - hyprdriv</description>
+		<rom name="hyprdriv.chd" size="376355774" crc="f32c3312" sha1="10f053ba09588617db4ff86f3e516220591a2514"/>
+	</machine>
+	<machine name="MAME (v0.130) - ikaruga">
+		<description>MAME (v0.130) - ikaruga</description>
+		<rom name="gdl-0010.chd" size="80785390" crc="f40be168" sha1="315b7860909088bbd800c9c44d80ffd7741c906d"/>
+	</machine>
+	<machine name="MAME (v0.130) - initd">
+		<description>MAME (v0.130) - initd</description>
+		<rom name="gds-0020b.chd" size="230089950" crc="59b87f88" sha1="e6e6a85fdd8619e1dad4c86c4d359adae5015a6d"/>
+	</machine>
+	<machine name="MAME (v0.130) - jdredd">
+		<description>MAME (v0.130) - jdredd</description>
+		<rom name="jdreddc.chd" size="433070512" crc="5a9b270b" sha1="e71ea8860ce245d35d540cdbcd8ff59044ea53b3"/>
+	</machine>
+	<machine name="MAME (v0.130) - jdreddb">
+		<description>MAME (v0.130) - jdreddb</description>
+		<rom name="jdreddb.chd" size="433070455" crc="018af411" sha1="d37c4fb7a4c327ad3737af0dd4fdd87f64fb0505"/>
+	</machine>
+	<machine name="MAME (v0.130) - jojo">
+		<description>MAME (v0.130) - jojo</description>
+		<rom name="cap-jjk-160.chd" size="53553213" crc="645c0858" sha1="7e2d0ed62783c05e23aaf06e610a8cf3398bb899"/>
+	</machine>
+	<machine name="MAME (v0.130) - jojoa">
+		<description>MAME (v0.130) - jojoa</description>
+		<rom name="jjk000.chd" size="45110952" crc="904b8df1" sha1="efca661e521c2aff9b0f32cb4b4a0c8c8c886ec5"/>
+	</machine>
+	<machine name="MAME (v0.130) - jojoba">
+		<description>MAME (v0.130) - jojoba</description>
+		<rom name="jjm000.chd" size="52907030" crc="627b5603" sha1="206eecb4d109e6ca14feee9775203a2a3da8b07d"/>
+	</machine>
+	<machine name="MAME (v0.130) - jpark3">
+		<description>MAME (v0.130) - jpark3</description>
+		<rom name="b41c02.chd" size="36864914" crc="e2695ca3" sha1="ab33929f5b6f14e66bf35d98a45366128ce2616f"/>
+	</machine>
+	<machine name="MAME (v0.130) - kbm">
+		<description>MAME (v0.130) - kbm</description>
+		<rom name="974jaa02.chd" size="444207553" crc="a808c6b1" sha1="20995d14d8f3efc60493f95f3dce85cb34029b2a"/>
+		<rom name="974jac01.chd" size="420496034" crc="03b32bb7" sha1="c1df99d9bef6aac00a7f5c4d68f32f05dab6dd30"/>
+	</machine>
+	<machine name="MAME (v0.130) - kbm2nd">
+		<description>MAME (v0.130) - kbm2nd</description>
+		<rom name="a01jaa01.chd" size="676478419" crc="c142c216" sha1="15832d6cdea4db77fa7c898bc0b6fe5db73b222a"/>
+		<rom name="a01jaa02.chd" size="586460295" crc="f6e9285d" sha1="10354392a95d04e7bb193bd9d9fb3b6d360ace1b"/>
+	</machine>
+	<machine name="MAME (v0.130) - kbm3rd">
+		<description>MAME (v0.130) - kbm3rd</description>
+		<rom name="a12jaa01.chd" size="567342891" crc="ba598459" sha1="c1534b50a1b2c22159cfc4f2d70bd33125e853fe"/>
+		<rom name="a12jaa02.chd" size="716752264" crc="f00cf33b" sha1="60fcc7e6f03765667f20d9e026839a223082c3c9"/>
+	</machine>
+	<machine name="MAME (v0.130) - kdeadeye">
+		<description>MAME (v0.130) - kdeadeye</description>
+		<rom name="kdeadeye.chd" size="497191443" crc="ac35aff1" sha1="3833d2ea149d85deee48b91c6f8b0a7628c01d00"/>
+	</machine>
+	<machine name="MAME (v0.130) - kinst">
+		<description>MAME (v0.130) - kinst</description>
+		<rom name="kinst.chd" size="95627930" crc="c6b4b597" sha1="77ec1dcd7d41ece81be4dd44682a1a82e27b6330"/>
+	</machine>
+	<machine name="MAME (v0.130) - kinst2">
+		<description>MAME (v0.130) - kinst2</description>
+		<rom name="kinst2.chd" size="135796416" crc="ed9c1617" sha1="f4a6a2e7a4d03106732d218d60b1cbc2a2327054"/>
+	</machine>
+	<machine name="MAME (v0.130) - konam80s">
+		<description>MAME (v0.130) - konam80s</description>
+		<rom name="826eaa01.chd" size="11368082" crc="c97ef970" sha1="263baa32b67b053ce6a5423712bffa64ea20bae2"/>
+	</machine>
+	<machine name="MAME (v0.130) - landhigh">
+		<description>MAME (v0.130) - landhigh</description>
+		<rom name="landhigh.chd" size="211774485" crc="d287fef1" sha1="483280fbafcbec5deb1f0bfc9e5cd48b2bfa17fc"/>
+	</machine>
+	<machine name="MAME (v0.130) - lasstixx">
+		<description>MAME (v0.130) - lasstixx</description>
+		<rom name="lasstixx.chd" size="141469993" crc="9c1b01da" sha1="4a0bfc066bd311b38e91e75a35cec2ac4b034344"/>
+	</machine>
+	<machine name="MAME (v0.130) - lsrquiz">
+		<description>MAME (v0.130) - lsrquiz</description>
+		<rom name="lsrquiz.chd" size="342025461" crc="c4f75ba6" sha1="6cd71c6d6267938a8c12f5de00fcbe43eae92edf"/>
+	</machine>
+	<machine name="MAME (v0.130) - lsrquiz2">
+		<description>MAME (v0.130) - lsrquiz2</description>
+		<rom name="lsrquiz2.chd" size="293282951" crc="6f7cb63f" sha1="a065be74ea40cbebd0515542fcf2accbd331506e"/>
+	</machine>
+	<machine name="MAME (v0.130) - mace">
+		<description>MAME (v0.130) - mace</description>
+		<rom name="mace.chd" size="132097326" crc="5e5b7f0e" sha1="f224efff83ab409230454d3f7812d8c97e2d09ef"/>
+	</machine>
+	<machine name="MAME (v0.130) - macea">
+		<description>MAME (v0.130) - macea</description>
+		<rom name="macea.chd" size="139810256" crc="ee36edc4" sha1="f3cbbd629c1f6b1600f55bddce15609e55101dd3"/>
+	</machine>
+	<machine name="MAME (v0.130) - mach3">
+		<description>MAME (v0.130) - mach3</description>
+		<rom name="mach3.chd" size="14836949512" crc="12081775" sha1="5602dfeb18b7b32ae6b18fa78b358f6b7bdb3a9e"/>
+	</machine>
+	<machine name="MAME (v0.130) - maxforce">
+		<description>MAME (v0.130) - maxforce</description>
+		<rom name="maxforce.chd" size="1170169412" crc="155f606c" sha1="d92ab8604978d9c9364bbbb5fdfabd1624b783f9"/>
+	</machine>
+	<machine name="MAME (v0.130) - meltybld">
+		<description>MAME (v0.130) - meltybld</description>
+		<rom name="gdl-0028c.chd" size="283015617" crc="100f6e74" sha1="ffd0156ead2ba4c3b40919ec4479682d9a3eb5bc"/>
+	</machine>
+	<machine name="MAME (v0.130) - mfightc">
+		<description>MAME (v0.130) - mfightc</description>
+		<rom name="c09jad04.chd" size="44004654" crc="bf555baf" sha1="e1225626f642005f6290efa2550fd92a972839a2"/>
+	</machine>
+	<machine name="MAME (v0.130) - mfightcc">
+		<description>MAME (v0.130) - mfightcc</description>
+		<rom name="c09jac04.chd" size="43993884" crc="24a85fd7" sha1="ec4606b71ad655130073ced9f4cce38efeb8bae8"/>
+	</machine>
+	<machine name="MAME (v0.130) - mgprem11">
+		<description>MAME (v0.130) - mgprem11</description>
+		<rom name="mgprem11.chd" size="164442536" crc="fc8f46a0" sha1="8bf0ea6ca14a34b3608068e15bd9e58b5a70ef59"/>
+	</machine>
+	<machine name="MAME (v0.130) - mocapb">
+		<description>MAME (v0.130) - mocapb</description>
+		<rom name="a29b02.chd" size="16668674" crc="ac54ccac" sha1="55494693ecc5c7e7ac2faf896ca6db084e8ac5b0"/>
+	</machine>
+	<machine name="MAME (v0.130) - mocapbj">
+		<description>MAME (v0.130) - mocapbj</description>
+		<rom name="a29a02.chd" size="16695290" crc="11e7ead0" sha1="ad4316eb928862f7dadeff8baa09496cc4c556de"/>
+	</machine>
+	<machine name="MAME (v0.130) - mocapglf">
+		<description>MAME (v0.130) - mocapglf</description>
+		<rom name="b33a02.chd" size="38073499" crc="914b6f3e" sha1="1eb3f8680a3491ce377b6fc531cb971e77bbc914"/>
+	</machine>
+	<machine name="MAME (v0.130) - nagano98">
+		<description>MAME (v0.130) - nagano98</description>
+		<rom name="nagano98.chd" size="420026264" crc="84cf960c" sha1="97e27d53fbe451d8b65adfd2e03ec817ba3f0187"/>
+	</machine>
+	<machine name="MAME (v0.130) - nbanfl">
+		<description>MAME (v0.130) - nbanfl</description>
+		<rom name="nbanfl.chd" size="787324460" crc="f046f262" sha1="c92090c25ca9ed51def261303efe6a4b42a18336"/>
+	</machine>
+	<machine name="MAME (v0.130) - nbashowt">
+		<description>MAME (v0.130) - nbashowt</description>
+		<rom name="nbashowt.chd" size="596600037" crc="98d74283" sha1="1900d87fff849d65b7c36cbb0f871fd5426aba3a"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911">
+		<description>MAME (v0.130) - p911</description>
+		<rom name="a00aad02.chd" size="21632505" crc="1b3f597f" sha1="b928020103a55e3a107071170e730b313d306fcd"/>
+	</machine>
+	<machine name="MAME (v0.130) - p9112">
+		<description>MAME (v0.130) - p9112</description>
+		<rom name="b11a02.chd" size="40528829" crc="c890d993" sha1="795ccaf0b7ec64e79b7e1e621af7895fd8789a16"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911e">
+		<description>MAME (v0.130) - p911e</description>
+		<rom name="a00eaa02.chd" size="21971674" crc="2da13121" sha1="5134235a0b396377025cb10d7b63696682e14c10"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911j">
+		<description>MAME (v0.130) - p911j</description>
+		<rom name="a00jac02.chd" size="21518692" crc="c455d959" sha1="697a77d9139123fdb20fea90e0f0f1d0507f939d"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911uc">
+		<description>MAME (v0.130) - p911uc</description>
+		<rom name="a00aac02.chd" size="21414280" crc="3b1c7929" sha1="c8f7efb1d0b13997b2140a13173b767a01b0e30a"/>
+	</machine>
+	<machine name="MAME (v0.130) - pbball96">
+		<description>MAME (v0.130) - pbball96</description>
+		<rom name="pbball96.chd" size="149911926" crc="b67bdd1a" sha1="538bef45a63202541bef041dcafecf8736d727ac"/>
+	</machine>
+	<machine name="MAME (v0.130) - pbballex">
+		<description>MAME (v0.130) - pbballex</description>
+		<rom name="802jab02.chd" size="15715048" crc="1eefbad6" sha1="b6ac9cedfbd5bacea105d1e792f7216240bd8420"/>
+	</machine>
+	<machine name="MAME (v0.130) - pcnfrk3m">
+		<description>MAME (v0.130) - pcnfrk3m</description>
+		<rom name="a23kaa02.chd" size="405405768" crc="5adfac31" sha1="8dcac2f82127f135f8761a03fe8a6b185f76a879"/>
+	</machine>
+	<machine name="MAME (v0.130) - polystar">
+		<description>MAME (v0.130) - polystar</description>
+		<rom name="623jaa02.chd" size="142414060" crc="a94e29ed" sha1="d5bf2e28c2f564916cae34464e227226c292b926"/>
+	</machine>
+	<machine name="MAME (v0.130) - popn7">
+		<description>MAME (v0.130) - popn7</description>
+		<rom name="b00jaa02.chd" size="2892411285" crc="c6bd63f4" sha1="6e4d92268c78d855ca0c9357c3c699d3fe7c3577"/>
+		<rom name="b00jab01.chd" size="158130353" crc="2857cd6c" sha1="eb032533fe961c23294d59fa33216983c6edae59"/>
+	</machine>
+	<machine name="MAME (v0.130) - popn9">
+		<description>MAME (v0.130) - popn9</description>
+		<rom name="c00jab.chd" size="15323430" crc="27a849ae" sha1="e6efdb3118c4ce404ace93b5d68901e31c9f485e"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppd">
+		<description>MAME (v0.130) - ppd</description>
+		<rom name="977kaa01.chd" size="376626969" crc="bec9c4f4" sha1="056cb2f65c39f18b7afe3e428006764d7460ac29"/>
+		<rom name="977kaa02.chd" size="486770357" crc="315ebccc" sha1="866a423675812f7afe5ce8fd2bc33eaa6200bb6a"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppp">
+		<description>MAME (v0.130) - ppp</description>
+		<rom name="977jaa01.chd" size="255290800" crc="9ce8db1d" sha1="4719e20ccb33e3835539e7a142ebdfbba99bd3ee"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppp11">
+		<description>MAME (v0.130) - ppp11</description>
+		<rom name="gc977jaa01.chd" size="349886364" crc="a003e600" sha1="c338acb4ee3c3f225f02f27718fe77c1e7d431e2"/>
+		<rom name="gc977jaa02.chd" size="487013956" crc="55fe3384" sha1="e9e6315edefae9da7bed92b2c07b1fdba39bc0b5"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppp2nd">
+		<description>MAME (v0.130) - ppp2nd</description>
+		<rom name="ppp2nd.chd" size="384987273" crc="2d9bc8a3" sha1="79d05398f27cfa36ffd58bf4c0adf98b899c97be"/>
+	</machine>
+	<machine name="MAME (v0.130) - primrag2">
+		<description>MAME (v0.130) - primrag2</description>
+		<rom name="primrag2.chd" size="584384111" crc="304f8bd0" sha1="ec221123c5303169f435e48372ba8f306115648a"/>
+	</machine>
+	<machine name="MAME (v0.130) - psattack">
+		<description>MAME (v0.130) - psattack</description>
+		<rom name="psattack.chd" size="185702510" crc="905355c6" sha1="4091faddc897ae31e5eb250a2ee0b127f7d07c1e"/>
+	</machine>
+	<machine name="MAME (v0.130) - qdrmfgp">
+		<description>MAME (v0.130) - qdrmfgp</description>
+		<rom name="gq460a08.chd" size="365415360" crc="cf59b4b8" sha1="d5287a4a1c3bed56b281c8bf8990198c75203c8d"/>
+	</machine>
+	<machine name="MAME (v0.130) - qdrmfgp2">
+		<description>MAME (v0.130) - qdrmfgp2</description>
+		<rom name="ge557a09.chd" size="378655406" crc="3be99637" sha1="41cc4c9cfa2960161bdbac1745b69ecfe9a6b863"/>
+	</machine>
+	<machine name="MAME (v0.130) - queen">
+		<description>MAME (v0.130) - queen</description>
+		<rom name="pqiidediskonmodule.chd" size="27825293" crc="bacb81cc" sha1="8dd513beabcd79dfa0f77b90ee27e660be1abcf7"/>
+	</machine>
+	<machine name="MAME (v0.130) - quizqgd">
+		<description>MAME (v0.130) - quizqgd</description>
+		<rom name="gdl-0017.chd" size="188359114" crc="c18b0a2a" sha1="a4db01739b45bfc290f940af0febd0537c76e7d6"/>
+	</machine>
+	<machine name="MAME (v0.130) - redearth">
+		<description>MAME (v0.130) - redearth</description>
+		<rom name="wzd000.chd" size="37162971" crc="1124d433" sha1="79a8fc0f57281566da44bad2ca1f553905ff035b"/>
+	</machine>
+	<machine name="MAME (v0.130) - roadburn">
+		<description>MAME (v0.130) - roadburn</description>
+		<rom name="roadburn.chd" size="414404299" crc="82cacbda" sha1="8418c41775a9cd60e252a579c96ebef7f7074c94"/>
+	</machine>
+	<machine name="MAME (v0.130) - salarymc">
+		<description>MAME (v0.130) - salarymc</description>
+		<rom name="a18ja.chd" size="6726074" crc="4bbf49a9" sha1="bc52a1a74e079a2ba10fea82cddd1cae99385097"/>
+	</machine>
+	<machine name="MAME (v0.130) - senko">
+		<description>MAME (v0.130) - senko</description>
+		<rom name="gdl-0030a.chd" size="313724269" crc="5d97c67e" sha1="908660931a25db4a2a21aca9a8f80e4641cdbd0c"/>
+	</machine>
+	<machine name="MAME (v0.130) - sf2049">
+		<description>MAME (v0.130) - sf2049</description>
+		<rom name="sf2049.chd" size="938130228" crc="c8f33b82" sha1="d4b72f227d628711d4f5d32b76794a999f82110a"/>
+	</machine>
+	<machine name="MAME (v0.130) - sf2049se">
+		<description>MAME (v0.130) - sf2049se</description>
+		<rom name="sf2049se.chd" size="1384006887" crc="c6c95d56" sha1="a264abde8b0a723b59c61314d3a9b688d0d0fc79"/>
+	</machine>
+	<machine name="MAME (v0.130) - sf2049te">
+		<description>MAME (v0.130) - sf2049te</description>
+		<rom name="sf2049te.chd" size="1489145987" crc="655e6f22" sha1="f884bf6bb1ea610b8a0d4767a6eb4b6a37dedd7e"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii">
+		<description>MAME (v0.130) - sfiii</description>
+		<rom name="sf3000.chd" size="37715715" crc="b9ac93dd" sha1="c26eaa92690993a0d3371cbd2d6130af0815f415"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii2">
+		<description>MAME (v0.130) - sfiii2</description>
+		<rom name="3ga000.chd" size="43246653" crc="9bc807cd" sha1="dff7b6321e736fa934475cdc1e1e08cd3e251193"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii3">
+		<description>MAME (v0.130) - sfiii3</description>
+		<rom name="cap-33s-2.chd" size="81458761" crc="d734c2c9" sha1="98b3317df4c53d0171ebc79719d21a6d552728ce"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii3a">
+		<description>MAME (v0.130) - sfiii3a</description>
+		<rom name="33s000.chd" size="67850966" crc="5a9461c8" sha1="3110c58c26b59838eb42211941120f08138e733a"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfish2">
+		<description>MAME (v0.130) - sfish2</description>
+		<rom name="sfish2.chd" size="575353951" crc="0a515e1e" sha1="84cb88998f83ae68c6f87ba81e305d373b23a773"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfrush">
+		<description>MAME (v0.130) - sfrush</description>
+		<rom name="sfrush.chd" size="56461757" crc="bf7c13a0" sha1="ab7bc8f80f4984a8205eedf6609ef01cf0f30b47"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfrushrk">
+		<description>MAME (v0.130) - sfrushrk</description>
+		<rom name="sfrushrk.chd" size="143996718" crc="eb62eee4" sha1="1f6ffe8988e9184bb5992047272dd4160269050b"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfz3ugd">
+		<description>MAME (v0.130) - sfz3ugd</description>
+		<rom name="gdl-0002.chd" size="167126443" crc="1cbcb82a" sha1="373074edb8097ad58106e7ca8cb8407004e7acb2"/>
+	</machine>
+	<machine name="MAME (v0.130) - shikgam2">
+		<description>MAME (v0.130) - shikgam2</description>
+		<rom name="gdl-0021.chd" size="159955298" crc="b7be9ee3" sha1="ac7ff1174576edd91065a28d49df4a2ba2131f6e"/>
+	</machine>
+	<machine name="MAME (v0.130) - simpbowl">
+		<description>MAME (v0.130) - simpbowl</description>
+		<rom name="simpbowl.chd" size="27413745" crc="44c985da" sha1="db485435463d0d784d5f867f0067169bfb00c1d7"/>
+	</machine>
+	<machine name="MAME (v0.130) - slashout">
+		<description>MAME (v0.130) - slashout</description>
+		<rom name="gds-0004.chd" size="188407987" crc="8333535f" sha1="6491dd22ad1c16bf3a7415512534ddbc6f629097"/>
+	</machine>
+	<machine name="MAME (v0.130) - sogeki">
+		<description>MAME (v0.130) - sogeki</description>
+		<rom name="a13b02.chd" size="36854897" crc="abf3697e" sha1="df2597f2c8aa04ad676e36d1b54236b00d3765be"/>
+	</machine>
+	<machine name="MAME (v0.130) - spkrbtl">
+		<description>MAME (v0.130) - spkrbtl</description>
+		<rom name="gds-0005.chd" size="203023556" crc="87773889" sha1="c15babe2b73f5f4f37caafb7aebda22fcfdacf18"/>
+	</machine>
+	<machine name="MAME (v0.130) - sprtjam">
+		<description>MAME (v0.130) - sprtjam</description>
+		<rom name="gds-0003.chd" size="178393363" crc="a3b01cd1" sha1="e9df7efe9a2df74c863148e111046275c652f457"/>
+	</machine>
+	<machine name="MAME (v0.130) - ss2005">
+		<description>MAME (v0.130) - ss2005</description>
+		<rom name="gdl-0031a.chd" size="105854473" crc="a02950b2" sha1="d57a44278a9acf251ba7c9c4860997908a4e08ed"/>
+	</machine>
+	<machine name="MAME (v0.130) - sscopex">
+		<description>MAME (v0.130) - sscopex</description>
+		<rom name="gka13c02.chd" size="37028575" crc="8a906cfa" sha1="4a75246a5f274c3f256a070781e5b6a6e2905c8a"/>
+	</machine>
+	<machine name="MAME (v0.130) - susume">
+		<description>MAME (v0.130) - susume</description>
+		<rom name="gv027j1.chd" size="453280224" crc="63f0b306" sha1="0ab911fd7f27917efd10aab629f87f46003f505b"/>
+	</machine>
+	<machine name="MAME (v0.130) - tenthdeg">
+		<description>MAME (v0.130) - tenthdeg</description>
+		<rom name="tenthdeg.chd" size="771595500" crc="8ed6f82a" sha1="f4029c6ab7673d06cdf3b4689ef7dec682bdaf07"/>
+	</machine>
+	<machine name="MAME (v0.130) - thrild2">
+		<description>MAME (v0.130) - thrild2</description>
+		<rom name="gma41b02.chd" size="20753586" crc="8e668b33" sha1="055ae1f5c2d7437a1217d667d4721ee993e5a75f"/>
+	</machine>
+	<machine name="MAME (v0.130) - thrild2a">
+		<description>MAME (v0.130) - thrild2a</description>
+		<rom name="gma41a02.chd" size="20753555" crc="68bf2af3" sha1="c1d796027f0cb33431adfafcbcf43eab48ce80ec"/>
+	</machine>
+	<machine name="MAME (v0.130) - tokimosh">
+		<description>MAME (v0.130) - tokimosh</description>
+		<rom name="755jaa01.chd" size="158486809" crc="64f55aaa" sha1="5e36d955eecaf089936208c454e225ce3ddd13c7"/>
+	</machine>
+	<machine name="MAME (v0.130) - tokimosp">
+		<description>MAME (v0.130) - tokimosp</description>
+		<rom name="756jab01.chd" size="193713734" crc="b8f897d6" sha1="d1779d661a32ae46f22767061b1826cee69b6e8f"/>
+	</machine>
+	<machine name="MAME (v0.130) - totlvice">
+		<description>MAME (v0.130) - totlvice</description>
+		<rom name="639jad01.chd" size="22903623" crc="aa6a5e92" sha1="cf8c8330c427ef894661cc0c45242d369e5b90ff"/>
+	</machine>
+	<machine name="MAME (v0.130) - tsurugi">
+		<description>MAME (v0.130) - tsurugi</description>
+		<rom name="a30eab02.chd" size="48233235" crc="9dd9ed75" sha1="3c474b85f3f668417dff8cf76ac127d8fbccad88"/>
+	</machine>
+	<machine name="MAME (v0.130) - tsurugij">
+		<description>MAME (v0.130) - tsurugij</description>
+		<rom name="a30jac02.chd" size="47694375" crc="b796f88b" sha1="5d01fcb8158037df396cda73b1ec9a5039c29f0e"/>
+	</machine>
+	<machine name="MAME (v0.130) - usvsthem">
+		<description>MAME (v0.130) - usvsthem</description>
+		<rom name="usvsthem.chd" size="14556748625" crc="caa7eaac" sha1="336b035b4e3d28cd700b7d30635ea4e9e89ea8d3"/>
+	</machine>
+	<machine name="MAME (v0.130) - vaportrp">
+		<description>MAME (v0.130) - vaportrp</description>
+		<rom name="vaportrp.chd" size="547666836" crc="f75c9b2f" sha1="9143dcc197c81ab056cd5fb0bc1dff37c6fd7561"/>
+	</machine>
+	<machine name="MAME (v0.130) - vaportrx">
+		<description>MAME (v0.130) - vaportrx</description>
+		<rom name="vaportrx.chd" size="1318172469" crc="69401665" sha1="9af4dc73e3bf70fb2d1fa06de195b929d1e66843"/>
+	</machine>
+	<machine name="MAME (v0.130) - vathlete">
+		<description>MAME (v0.130) - vathlete</description>
+		<rom name="gds-0019.chd" size="135632735" crc="7c0babc9" sha1="e160836ba5101f2117cf2ea05b62b1a48e5fa484"/>
+	</machine>
+	<machine name="MAME (v0.130) - vcircle">
+		<description>MAME (v0.130) - vcircle</description>
+		<rom name="vcircle.chd" size="558119354" crc="ea0aadf7" sha1="334cd8080f38c4c0a9515a249151d64cba934d1b"/>
+	</machine>
+	<machine name="MAME (v0.130) - vf4">
+		<description>MAME (v0.130) - vf4</description>
+		<rom name="gds-0012.chd" size="274741455" crc="349e6635" sha1="1d9c6455f633d03a8d8384c0d20ad9678801da3c"/>
+	</machine>
+	<machine name="MAME (v0.130) - vstrik3">
+		<description>MAME (v0.130) - vstrik3</description>
+		<rom name="gds-0006.chd" size="199408614" crc="d5eeb8b7" sha1="181e0cffac8e6e215752f7715905baed6aafc652"/>
+	</machine>
+	<machine name="MAME (v0.130) - warfa">
+		<description>MAME (v0.130) - warfa</description>
+		<rom name="warfa.chd" size="886497307" crc="0be5a5c7" sha1="715c6814efa68d4ceb69326ff503907faccf63c9"/>
+	</machine>
+	<machine name="MAME (v0.130) - wargods">
+		<description>MAME (v0.130) - wargods</description>
+		<rom name="wargods.chd" size="62836734" crc="6e034fea" sha1="9a77ba262f509005f103b6df74a801d322900df7"/>
+	</machine>
+	<machine name="MAME (v0.130) - wcombaj">
+		<description>MAME (v0.130) - wcombaj</description>
+		<rom name="c22a02.chd" size="67384333" crc="bbcc7caa" sha1="0bcc6abc193dc107e7dcb78264de6a58efaf3a4d"/>
+	</machine>
+	<machine name="MAME (v0.130) - wcombak">
+		<description>MAME (v0.130) - wcombak</description>
+		<rom name="c22c02.chd" size="67609907" crc="55290378" sha1="882c0ae0bb90152b8634e185c7d0dd95b8fee87d"/>
+	</machine>
+	<machine name="MAME (v0.130) - wcombat">
+		<description>MAME (v0.130) - wcombat</description>
+		<rom name="c22d02.chd" size="67609947" crc="04db3c67" sha1="02f71e07d41205aa5b1da128486093e60045703d"/>
+	</machine>
+	<machine name="MAME (v0.130) - weddingr">
+		<description>MAME (v0.130) - weddingr</description>
+		<rom name="weddingr.chd" size="14207374" crc="0fa1429b" sha1="3791143df47c0bac3583f5eed75e923dd548e8fc"/>
+	</machine>
+	<machine name="MAME (v0.130) - wg3dh">
+		<description>MAME (v0.130) - wg3dh</description>
+		<rom name="wg3dh.chd" size="97212473" crc="bfce70fe" sha1="ee4e35a8f87220d95dd755cc4cfd90b14bc27e16"/>
+	</machine>
+	<machine name="MAME (v0.130) - wsbbgd">
+		<description>MAME (v0.130) - wsbbgd</description>
+		<rom name="gds-0010.chd" size="212923158" crc="d2ec5231" sha1="b50523ce906f2470dc8c00aa2ee8643a4f67b0b9"/>
+	</machine>
+	<machine name="MAME (v0.130) - xtrial">
+		<description>MAME (v0.130) - xtrial</description>
+		<rom name="b4xb02.chd" size="40301969" crc="ec9e1184" sha1="de96e1525e06a9e5efc152984a2d926868712875"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - cvs2gd">
+		<description>MAME (v0.130u1) - cvs2gd</description>
+		<rom name="gdl-0007a.chd" size="152574085" crc="09579344" sha1="ab88fcf985ca32f16a03934ca581e96d826d25c5"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - nightrai">
+		<description>MAME (v0.130u1) - nightrai</description>
+		<rom name="nightrai.chd" size="24013478" crc="4eb2846e" sha1="987a169e078651663dbcd4ed60ef9a80667d1cd2"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - psyvaria">
+		<description>MAME (v0.130u1) - psyvaria</description>
+		<rom name="psyvaria.chd" size="21472470" crc="b66da4f7" sha1="b0cd2626600d927ba74cc57cd251b31db0bbf4dd"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - psyvarrv">
+		<description>MAME (v0.130u1) - psyvarrv</description>
+		<rom name="psyvarrv.chd" size="22835537" crc="94913dca" sha1="9b75333da7b97dc979b19b25c1936382135b4b32"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - xiistag">
+		<description>MAME (v0.130u1) - xiistag</description>
+		<rom name="xiistag.chd" size="17080572" crc="c0cb7f9a" sha1="06bee89f6c668282a34bfd87e0ba23998b8d3b9a"/>
+	</machine>
+	<machine name="MAME (v0.131u2) - psattack">
+		<description>MAME (v0.131u2) - psattack</description>
+		<rom name="psattack.chd" size="185702498" crc="11902dd3" sha1="b6f073ad8ae0af19306d8fdb71030d5fbf922094"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx4">
+		<description>MAME (v0.131u3) - bmiidx4</description>
+		<rom name="a03jaa01.chd" size="38053168" crc="f0be39c6" sha1="c4bfb27391ba5d3ae43f5484534e6cd4829015e3"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx6">
+		<description>MAME (v0.131u3) - bmiidx6</description>
+		<rom name="b4ujaa01.chd" size="58951580" crc="74bf82da" sha1="044188d0cdd0d06877d180865caef089eca815d2"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx7">
+		<description>MAME (v0.131u3) - bmiidx7</description>
+		<rom name="b44jaa01.chd" size="79038900" crc="75c27395" sha1="da00e7e8c39d2cec1644286aaa99fbe9204c7d5c"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx8">
+		<description>MAME (v0.131u3) - bmiidx8</description>
+		<rom name="c44jaa01.chd" size="66357698" crc="e5b34248" sha1="5e62c8bc0afbd48be74b352c7147ed4ee7e2ad39"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidxc">
+		<description>MAME (v0.131u3) - bmiidxc</description>
+		<rom name="896jaabm.chd" size="8142268" crc="82c4450f" sha1="531280770d9035961a5bb638577cb67c0e7329b9"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidxc2">
+		<description>MAME (v0.131u3) - bmiidxc2</description>
+		<rom name="984a01bm.chd" size="9522614" crc="75509b7f" sha1="adb9eea2600145923256c10a138f783b930d393f"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidxca">
+		<description>MAME (v0.131u3) - bmiidxca</description>
+		<rom name="896jabbm.chd" size="8156767" crc="3543a182" sha1="be083541ebeda13142d69d9509a2d69db91f1b70"/>
+	</machine>
+	<machine name="MAME (v0.132u2) - drmn2m">
+		<description>MAME (v0.132u2) - drmn2m</description>
+		<rom name="912jab.chd" size="212897778" crc="a78225d9" sha1="b379dbf216247918e96036218b45f9a3ba597c21"/>
+	</machine>
+	<machine name="MAME (v0.132u2) - drmn2mpu">
+		<description>MAME (v0.132u2) - drmn2mpu</description>
+		<rom name="912za01.chd" size="99332" crc="e9be1da4" sha1="318181079b244c0cb79648545d907918a89d2b74"/>
+	</machine>
+	<machine name="MAME (v0.132u3) - p911uc">
+		<description>MAME (v0.132u3) - p911uc</description>
+		<rom name="a00aac02.chd" size="21414268" crc="844cdee5" sha1="6a429d24bc7f835056c33f032d1afd780e6fb9a3"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - boxingm">
+		<description>MAME (v0.132u4) - boxingm</description>
+		<rom name="a45jaa02.chd" size="39998720" crc="f2e9fb69" sha1="ff43dec6d31be9c9284c2613819419fd505e8023"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - code1d">
+		<description>MAME (v0.132u4) - code1d</description>
+		<rom name="gk922d02.chd" size="26661562" crc="1f3f541b" sha1="54867773626354bec690b932dc6858c51c6f4c5c"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - code1db">
+		<description>MAME (v0.132u4) - code1db</description>
+		<rom name="gk922b02.chd" size="26513097" crc="a0bd04b9" sha1="b2908e9fdb1548f5b2e36cb523d4c50ae8874eeb"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - gticlub2">
+		<description>MAME (v0.132u4) - gticlub2</description>
+		<rom name="gm941b02.chd" size="22508932" crc="9cfdcbb5" sha1="d16b83ca68e96dfd0ffd6d4f24eadbce334c6da4"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - jpark3">
+		<description>MAME (v0.132u4) - jpark3</description>
+		<rom name="b41c02.chd" size="36864902" crc="f1b958e6" sha1="2df8a704f563a11688724b3421d8909eb724972f"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mfightc">
+		<description>MAME (v0.132u4) - mfightc</description>
+		<rom name="c09jad04.chd" size="44004642" crc="1c86f3ae" sha1="9521d806afd31a41c50fbae148981dac9549b291"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mfightcc">
+		<description>MAME (v0.132u4) - mfightcc</description>
+		<rom name="c09jac04.chd" size="43993872" crc="661b3316" sha1="d4d6da8f8e117afc512a9a457eb6e1bc7daf865f"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mocapb">
+		<description>MAME (v0.132u4) - mocapb</description>
+		<rom name="a29b02.chd" size="16668662" crc="2ba3fb8f" sha1="84a5313918fd1322a98bcddef0fd01f5b722d91d"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mocapbj">
+		<description>MAME (v0.132u4) - mocapbj</description>
+		<rom name="a29a02.chd" size="16695278" crc="9f43bd47" sha1="c5b90fb2b3963adfd62fe9b476cc9b8023b64a59"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mocapglf">
+		<description>MAME (v0.132u4) - mocapglf</description>
+		<rom name="b33a02.chd" size="38073487" crc="678dfca5" sha1="1d019667abfe7bec8e3b9e529d6311c14159b0e9"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p911">
+		<description>MAME (v0.132u4) - p911</description>
+		<rom name="a00aad02.chd" size="21632493" crc="c9f1370b" sha1="69789aa54634f25c94f6658a0f31361f4a68fc48"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p9112">
+		<description>MAME (v0.132u4) - p9112</description>
+		<rom name="b11a02.chd" size="40528817" crc="96de6c71" sha1="248344942b8dd9cb17f098d9bc000079088e2bec"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p911e">
+		<description>MAME (v0.132u4) - p911e</description>
+		<rom name="a00eaa02.chd" size="21971662" crc="1d0abdd0" sha1="0c9f96984dbf5e1990543df52afccdab5afc03eb"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p911j">
+		<description>MAME (v0.132u4) - p911j</description>
+		<rom name="a00jac02.chd" size="21518680" crc="477d6753" sha1="c061091132f8d6403d62b2cc8583a649c654f79f"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - sogeki">
+		<description>MAME (v0.132u4) - sogeki</description>
+		<rom name="a13b02.chd" size="36854885" crc="cb8c2b47" sha1="518637dc407608cb284ca18c55ccf93fb62609e2"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - sscopex">
+		<description>MAME (v0.132u4) - sscopex</description>
+		<rom name="gka13c02.chd" size="37028563" crc="f0a19aea" sha1="8fcb01d7556d4f49cf3bac429e91fdfab9e4c361"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - thrild2">
+		<description>MAME (v0.132u4) - thrild2</description>
+		<rom name="gma41b02.chd" size="20753574" crc="03af1b8e" sha1="1155159da430ed6815fbee5494ba2f6be556a742"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - thrild2a">
+		<description>MAME (v0.132u4) - thrild2a</description>
+		<rom name="gma41a02.chd" size="20753543" crc="40acc3b2" sha1="788939bae3a0fdd532d26ddb726cfc40af0fc7db"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - tsurugi">
+		<description>MAME (v0.132u4) - tsurugi</description>
+		<rom name="a30eab02.chd" size="48233223" crc="bc9f984a" sha1="44696f905ed346a19d8c02050729c76b20240491"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - tsurugij">
+		<description>MAME (v0.132u4) - tsurugij</description>
+		<rom name="a30jac02.chd" size="47694363" crc="ec10d0f2" sha1="d87550547ac7cb9d674a737426e6a4976a92f26f"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - xtrial">
+		<description>MAME (v0.132u4) - xtrial</description>
+		<rom name="b4xb02.chd" size="40301957" crc="0f8f1ef4" sha1="865237d209f71d3acb493a4b47ad0040d163adca"/>
+	</machine>
+	<machine name="MAME (v0.133u4) - bmclubmx">
+		<description>MAME (v0.133u4) - bmclubmx</description>
+		<rom name="993hdda01.chd" size="769877624" crc="00a2d076" sha1="918be587f2bd60560a923d5403f82c21d07b49bd"/>
+	</machine>
+	<machine name="MAME (v0.133u4) - popn2">
+		<description>MAME (v0.133u4) - popn2</description>
+		<rom name="831jhdda01.chd" size="488076083" crc="09c07d43" sha1="35bd00395f09941332ca0d09c689846768cfb2a3"/>
+	</machine>
+	<machine name="MAME (v0.141u2) - gtrfrks">
+		<description>MAME (v0.141u2) - gtrfrks</description>
+		<rom name="886ea.chd" size="613532935" crc="083a761d" sha1="177d662936eced33583a8933e0daad3823342fc2"/>
+	</machine>
+	<machine name="MAME (v0.141u2) - salarymc">
+		<description>MAME (v0.141u2) - salarymc</description>
+		<rom name="a18ja.chd" size="6723728" crc="8827c196" sha1="ef146bf908ffe0f816d84f1144b4ce1b4b4d0893"/>
+	</machine>
+	<machine name="MAME (v0.142u6) - specfrce">
+		<description>MAME (v0.142u6) - specfrce</description>
+		<rom name="sf010101.chd" size="200283854" crc="18f1e1eb" sha1="905038a747e59d7d9814b5532b0935857ec965d7"/>
+	</machine>
+	<machine name="MAME (v0.144u3) - calchase">
+		<description>MAME (v0.144u3) - calchase</description>
+		<rom name="calchase.chd" size="39652025" crc="08dc6a6d" sha1="18813bb2d3acbc8f72bce3dc702a41b865ff8636"/>
+	</machine>
+	<machine name="MAME (v0.145) - a51site4">
+		<description>MAME (v0.145) - a51site4</description>
+		<rom name="a51site4.chd" size="736499597" crc="073a0d0c" sha1="fbf2d929c3c89226340c009d4102b1a13f3a1ed9"/>
+	</machine>
+	<machine name="MAME (v0.145) - alien">
+		<description>MAME (v0.145) - alien</description>
+		<rom name="alien.chd" size="114298265" crc="a3f21f2a" sha1="cdb140ba837d486b48f462e5550630e342373ce5"/>
+	</machine>
+	<machine name="MAME (v0.145) - arctthnd">
+		<description>MAME (v0.145) - arctthnd</description>
+		<rom name="arctthnd.chd" size="507448795" crc="1464bbc0" sha1="7fd15b24873e587573778d9919b63dae91776fa5"/>
+	</machine>
+	<machine name="MAME (v0.145) - arctthndult">
+		<description>MAME (v0.145) - arctthndult</description>
+		<rom name="uarctict.chd" size="586746790" crc="b4920471" sha1="ce81c226dcd92cc902959bbd89896883b45bef91"/>
+	</machine>
+	<machine name="MAME (v0.145) - area51">
+		<description>MAME (v0.145) - area51</description>
+		<rom name="area51.chd" size="542757747" crc="88f8547b" sha1="2493f4e9d0b080eb453bc162db0010d50db95105"/>
+	</machine>
+	<machine name="MAME (v0.145) - area51mx">
+		<description>MAME (v0.145) - area51mx</description>
+		<rom name="area51mx.chd" size="1777220033" crc="21154e10" sha1="5e0d06fa5b2dfc70ea9e36f2ac66f3707e09f0bd"/>
+	</machine>
+	<machine name="MAME (v0.145) - area51t">
+		<description>MAME (v0.145) - area51t</description>
+		<rom name="area51t.chd" size="546424618" crc="d2c21fe0" sha1="49314135ad328a7b718e0bdd166cafbe28883cef"/>
+	</machine>
+	<machine name="MAME (v0.145) - atronic">
+		<description>MAME (v0.145) - atronic</description>
+		<rom name="atronic.chd" size="7121803" crc="93f74373" sha1="b2c19800d8315fbd2e3923768e74beac50ba9e52"/>
+	</machine>
+	<machine name="MAME (v0.145) - bam2">
+		<description>MAME (v0.145) - bam2</description>
+		<rom name="bam2.chd" size="884367309" crc="950b29ee" sha1="506507e434c7a9cf08d29fd3735ebcfd1becd1dc"/>
+	</machine>
+	<machine name="MAME (v0.145) - batlgear">
+		<description>MAME (v0.145) - batlgear</description>
+		<rom name="batlgear.chd" size="243624852" crc="a3e82770" sha1="17f045dc0aa4e09727a5497b74ef878feed1dc6a"/>
+	</machine>
+	<machine name="MAME (v0.145) - batlgr2">
+		<description>MAME (v0.145) - batlgr2</description>
+		<rom name="bg2_204j.chd" size="608813804" crc="a554df5e" sha1="fca7714eee1bdf78544f33fb3e0129eec5864aa4"/>
+	</machine>
+	<machine name="MAME (v0.145) - bikiniko">
+		<description>MAME (v0.145) - bikiniko</description>
+		<rom name="bikiniko.chd" size="706146003" crc="dbb6dee1" sha1="5504e5438716f65e465c544a4c2e7024abb20ac3"/>
+	</machine>
+	<machine name="MAME (v0.145) - biofreak">
+		<description>MAME (v0.145) - biofreak</description>
+		<rom name="biofreak.chd" size="94405832" crc="7d668991" sha1="8ea35c68ed7bdd6ee11d821ef9bba167ac47c23f"/>
+	</machine>
+	<machine name="MAME (v0.145) - blitz">
+		<description>MAME (v0.145) - blitz</description>
+		<rom name="blitz.chd" size="274827410" crc="095a3cb1" sha1="b6eff446f27e54fb4e4ec1b6ddff75fc3f837a91"/>
+	</machine>
+	<machine name="MAME (v0.145) - blitz2k">
+		<description>MAME (v0.145) - blitz2k</description>
+		<rom name="blitz2k.chd" size="619474121" crc="560cac47" sha1="acce38a5d2e492570711d0c8384c63cebb59f726"/>
+	</machine>
+	<machine name="MAME (v0.145) - blitz99">
+		<description>MAME (v0.145) - blitz99</description>
+		<rom name="blitz99.chd" size="380075952" crc="b62a1745" sha1="176cdc87c302b7c53e828129c44863f0bb0d3d8c"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm1stmix">
+		<description>MAME (v0.145) - bm1stmix</description>
+		<rom name="753jaa11.chd" size="192236193" crc="fe23d1f8" sha1="db267fc7ff0c3a62161dd34f8fa65c77c7405b6f"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm2ndmix">
+		<description>MAME (v0.145) - bm2ndmix</description>
+		<rom name="853jaa11.chd" size="381686628" crc="938cf223" sha1="dc2799f72f9a84c53a7ff3a06e6ed90f9775ffd5"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm3rdmix">
+		<description>MAME (v0.145) - bm3rdmix</description>
+		<rom name="825jaa11.chd" size="381424937" crc="b702ed21" sha1="ce92cc758fd841a708b01ae7ac24fd77fc927ea4"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm4thmix">
+		<description>MAME (v0.145) - bm4thmix</description>
+		<rom name="847jaa11.chd" size="357337325" crc="c261f47c" sha1="0f53d61d6148af62aef6a92599ad8c9144d41d19"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm5thmix">
+		<description>MAME (v0.145) - bm5thmix</description>
+		<rom name="981jaa11.chd" size="652910751" crc="73b091da" sha1="a9af741cf78b43181e382c548f8c7c6d8dc2bb71"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm6thmix">
+		<description>MAME (v0.145) - bm6thmix</description>
+		<rom name="a21jaa11.chd" size="429339326" crc="03cf75bc" sha1="d7e4a05ba31047ede8455cd1e5e8e29728d895d4"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm7thmix">
+		<description>MAME (v0.145) - bm7thmix</description>
+		<rom name="b07jaa11.chd" size="961306235" crc="436b173c" sha1="58b5abcf00a9a89aa454a953127a3deef1da2e4d"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmclubmx">
+		<description>MAME (v0.145) - bmclubmx</description>
+		<rom name="993hdda01.chd" size="769877641" crc="da8bb434" sha1="6adc43e417b017b6d0686805c7afa97b195a4660"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmcompm2">
+		<description>MAME (v0.145) - bmcompm2</description>
+		<rom name="988jaa11.chd" size="1158771913" crc="c6c19460" sha1="3c5ab80136679f4127e1baf73a4c10c1ddf3d4f9"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmcompmx">
+		<description>MAME (v0.145) - bmcompmx</description>
+		<rom name="858jaa11.chd" size="650477312" crc="74e2754c" sha1="a455369fe93cae7c927777c79849a98a4c41bd21"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmcorerm">
+		<description>MAME (v0.145) - bmcorerm</description>
+		<rom name="a05jaa11.chd" size="718931718" crc="d41de45c" sha1="109b7abc1281c302684cf5ad1210823d77aec22a"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmdct">
+		<description>MAME (v0.145) - bmdct</description>
+		<rom name="995jaa11.chd" size="474052898" crc="9ddcc160" sha1="51a89f1c00b9a5c0c0ffdbc3ce2657f6940d83b3"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmfinal">
+		<description>MAME (v0.145) - bmfinal</description>
+		<rom name="c01jaa11.chd" size="3042765218" crc="1519a4dd" sha1="4c4bf4b00a80434988e6ed633665f582f62edab1"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmiidx">
+		<description>MAME (v0.145) - bmiidx</description>
+		<rom name="c44jaa03.chd" size="4716442606" crc="9375adde" sha1="6aa8a2905b5ebeb482912a6a54921fa943308bfa"/>
+	</machine>
+	<machine name="MAME (v0.145) - bntyhunt">
+		<description>MAME (v0.145) - bntyhunt</description>
+		<rom name="bntyhunt.chd" size="477327739" crc="93691a0c" sha1="4481efc48620ee72a16c5508a941667dd09bed2f"/>
+	</machine>
+	<machine name="MAME (v0.145) - boxingm">
+		<description>MAME (v0.145) - boxingm</description>
+		<rom name="a45a02.chd" size="40026239" crc="ac452752" sha1="55ca97361a80c2dc906b39d6240dfd83cb55733b"/>
+	</machine>
+	<machine name="MAME (v0.145) - bujutsu">
+		<description>MAME (v0.145) - bujutsu</description>
+		<rom name="645c04.chd" size="278457730" crc="b2cc2b48" sha1="3dc7dd6f07b925c1c5d45766e2b1d75cebfbb40d"/>
+	</machine>
+	<machine name="MAME (v0.145) - c3_rtime">
+		<description>MAME (v0.145) - c3_rtime</description>
+		<rom name="rtimes.chd" size="522698521" crc="7b7cab28" sha1="5ad2d980ffa7e63a6225a2997cc1c467e8ba17fa"/>
+	</machine>
+	<machine name="MAME (v0.145) - c3_telly">
+		<description>MAME (v0.145) - c3_telly</description>
+		<rom name="telly.chd" size="413300632" crc="fed97220" sha1="112285539604a7e7fca8d3c15567c8072cfadcc4"/>
+	</machine>
+	<machine name="MAME (v0.145) - calchase">
+		<description>MAME (v0.145) - calchase</description>
+		<rom name="calchase.chd" size="39676025" crc="8b6db9b4" sha1="29fb43ff4e8b6ee9cf1ed226609608b48d5b12f2"/>
+	</machine>
+	<machine name="MAME (v0.145) - calspeed">
+		<description>MAME (v0.145) - calspeed</description>
+		<rom name="calspeed.chd" size="525720012" crc="ece3e8a1" sha1="15ae5462743a6c51f0f34f97a51535ac0c51eb03"/>
+	</machine>
+	<machine name="MAME (v0.145) - calspeeda">
+		<description>MAME (v0.145) - calspeeda</description>
+		<rom name="calspeda.chd" size="511316083" crc="055c0aae" sha1="6e5e5843d15f77533c1cb4fdf5eddc9951332db7"/>
+	</machine>
+	<machine name="MAME (v0.145) - carnevil">
+		<description>MAME (v0.145) - carnevil</description>
+		<rom name="carnevil.chd" size="1625437942" crc="d1c344b3" sha1="034236fca1acfb4e02db4c730b717a0417ea0ce4"/>
+	</machine>
+	<machine name="MAME (v0.145) - carnevil1">
+		<description>MAME (v0.145) - carnevil1</description>
+		<rom name="carnevi1.chd" size="1620917062" crc="4c218936" sha1="5c9320f792fe2aecd0bcd03199476d1135b0ebc6"/>
+	</machine>
+	<machine name="MAME (v0.145) - cartfury">
+		<description>MAME (v0.145) - cartfury</description>
+		<rom name="cartfury.chd" size="638452166" crc="0dcc2529" sha1="7f00a1637450f62160d20ed9c1a3bee3943eefa4"/>
+	</machine>
+	<machine name="MAME (v0.145) - chaoshea">
+		<description>MAME (v0.145) - chaoshea</description>
+		<rom name="chaosheat.chd" size="17485312" crc="edbdf2db" sha1="c79b595c0aa3b8e7514ea30b6966814f53a7a501"/>
+	</machine>
+	<machine name="MAME (v0.145) - chaosheaj">
+		<description>MAME (v0.145) - chaosheaj</description>
+		<rom name="chaosheatj.chd" size="18479851" crc="a9131a68" sha1="cd66a214ff0096236df8a1e1ae678b304eaa804f"/>
+	</machine>
+	<machine name="MAME (v0.145) - cliffhgr">
+		<description>MAME (v0.145) - cliffhgr</description>
+		<rom name="cliffhgr.chd" size="14260920493" crc="ffbc14dc" sha1="5753e6d631d6aed67906a94281b87188fecf9b29"/>
+	</machine>
+	<machine name="MAME (v0.145) - cobra">
+		<description>MAME (v0.145) - cobra</description>
+		<rom name="cobra.chd" size="14683783131" crc="03edf96f" sha1="bd389725f117ddc14041ec8b14ec74a713d3bad2"/>
+	</machine>
+	<machine name="MAME (v0.145) - code1d">
+		<description>MAME (v0.145) - code1d</description>
+		<rom name="922d02.chd" size="27115781" crc="f1fe383a" sha1="b61d7f374c5afe2c167fad32fb43b44e8dc16710"/>
+	</machine>
+	<machine name="MAME (v0.145) - code1db">
+		<description>MAME (v0.145) - code1db</description>
+		<rom name="922b02.chd" size="26676554" crc="c95f5ae6" sha1="9739a16d15021ba3fea8f78f914bacbcb7e0027f"/>
+	</machine>
+	<machine name="MAME (v0.145) - comebaby">
+		<description>MAME (v0.145) - comebaby</description>
+		<rom name="comebaby.chd" size="568803284" crc="0b5a8ed7" sha1="b83e63ea9794465a9beee260b2234c86ca3daea2"/>
+	</machine>
+	<machine name="MAME (v0.145) - crtaxihr">
+		<description>MAME (v0.145) - crtaxihr</description>
+		<rom name="gdx-0002b.chd" size="418766392" crc="640c0b10" sha1="78f259e36750f843a543e89e033b8aa21b96b4b5"/>
+	</machine>
+	<machine name="MAME (v0.145) - cryptklr">
+		<description>MAME (v0.145) - cryptklr</description>
+		<rom name="420uaa04.chd" size="186689692" crc="879e5e6f" sha1="04e42ab1db082b1de40ab142723ec20ba3338e4e"/>
+	</machine>
+	<machine name="MAME (v0.145) - csplayh5">
+		<description>MAME (v0.145) - csplayh5</description>
+		<rom name="csplayh5.chd" size="204128041" crc="3699ea90" sha1="462f0884b8cf8566e86b17f1dfd670fbc2bf3a31"/>
+	</machine>
+	<machine name="MAME (v0.145) - csplayh7">
+		<description>MAME (v0.145) - csplayh7</description>
+		<rom name="csplayh7.chd" size="578813684" crc="4744cd95" sha1="e70a90ab519d0a65cc74406c92d49f18b230bc90"/>
+	</machine>
+	<machine name="MAME (v0.145) - cubeqst">
+		<description>MAME (v0.145) - cubeqst</description>
+		<rom name="cubeqst.chd" size="11517456445" crc="89fdc00c" sha1="c49a2b838b7fa51ef49a26f9b1282c715708130f"/>
+	</machine>
+	<machine name="MAME (v0.145) - ddr2ml">
+		<description>MAME (v0.145) - ddr2ml</description>
+		<rom name="885jab01.chd" size="11111777" crc="3f1ac1ce" sha1="ea0cb8f551c2bf0345f3388facf3adbb43c58169"/>
+	</machine>
+	<machine name="MAME (v0.145) - ep_pharo">
+		<description>MAME (v0.145) - ep_pharo</description>
+		<rom name="ep_pharo.chd" size="56495913" crc="3f96c541" sha1="57421f3a79fd2a5a30da0c92bfbf570b9f7f7122"/>
+	</machine>
+	<machine name="MAME (v0.145) - evilngt">
+		<description>MAME (v0.145) - evilngt</description>
+		<rom name="810uba02.chd" size="440479110" crc="684ff4bd" sha1="705216cfa575b8238ee81c092357e35706e19419"/>
+	</machine>
+	<machine name="MAME (v0.145) - eztouch">
+		<description>MAME (v0.145) - eztouch</description>
+		<rom name="szz_cf.chd" size="311919369" crc="540a52bd" sha1="75fef0178a51a01f8e9bf2d050fb554422238dae"/>
+	</machine>
+	<machine name="MAME (v0.145) - firefox">
+		<description>MAME (v0.145) - firefox</description>
+		<rom name="firefox.chd" size="12634225671" crc="e7ea0161" sha1="02fa467277db3f8bf39305162f5ef2f3820e9632"/>
+	</machine>
+	<machine name="MAME (v0.145) - flipmaze">
+		<description>MAME (v0.145) - flipmaze</description>
+		<rom name="flipmaze.chd" size="25995517" crc="2876a47a" sha1="18711e124eea0b0196af429e4b55a8f10d61b0c3"/>
+	</machine>
+	<machine name="MAME (v0.145) - fuudol">
+		<description>MAME (v0.145) - fuudol</description>
+		<rom name="fuudol.chd" size="865782139" crc="2b0d0ec8" sha1="b6d8033de1b71a3e47116694394901de73346516"/>
+	</machine>
+	<machine name="MAME (v0.145) - gamecst2">
+		<description>MAME (v0.145) - gamecst2</description>
+		<rom name="gamecst2.chd" size="5247351347" crc="3340abf4" sha1="1ee8e98c4d38a7ddca2f29361314ba7f6e174337"/>
+	</machine>
+	<machine name="MAME (v0.145) - gamecstl">
+		<description>MAME (v0.145) - gamecstl</description>
+		<rom name="gamecstl.chd" size="3042650543" crc="cc1fd7e6" sha1="6dcbb19692724d668fcd9daa154600ec405b6527"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntdl">
+		<description>MAME (v0.145) - gauntdl</description>
+		<rom name="gauntdl.chd" size="1650983349" crc="5954d559" sha1="36edccedf1453bdbd7fa9edf7cb57c75d9566caf"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntdl24">
+		<description>MAME (v0.145) - gauntdl24</description>
+		<rom name="gauntd24.chd" size="1602514166" crc="9a044de1" sha1="0b51f632384d08ea738f1f44ed066e5357244b34"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntleg">
+		<description>MAME (v0.145) - gauntleg</description>
+		<rom name="gauntleg.chd" size="1110910645" crc="1865da6f" sha1="e1b8e096e3170f7a8757cdeafd2305e6eb31dfb6"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntleg12">
+		<description>MAME (v0.145) - gauntleg12</description>
+		<rom name="gauntl12.chd" size="1107530139" crc="d08bef3c" sha1="cd2a148423822f6f0d0329e8d957752792006ade"/>
+	</machine>
+	<machine name="MAME (v0.145) - gobyrc">
+		<description>MAME (v0.145) - gobyrc</description>
+		<rom name="gobyrc.chd" size="15710678" crc="4fe54183" sha1="de48ed85947cd9de187853fc2e2f6d7ae1939b4c"/>
+	</machine>
+	<machine name="MAME (v0.145) - gticlub2">
+		<description>MAME (v0.145) - gticlub2</description>
+		<rom name="941b02.chd" size="48109631" crc="811aa064" sha1="de86950bb671c2a1da17041fe58c908ab8c52fed"/>
+	</machine>
+	<machine name="MAME (v0.145) - gundamos">
+		<description>MAME (v0.145) - gundamos</description>
+		<rom name="gdx-0013.chd" size="361439593" crc="fd97d30a" sha1="b216f70760636aa489dfe7a57e5b70da68e2690a"/>
+	</machine>
+	<machine name="MAME (v0.145) - gundzaft">
+		<description>MAME (v0.145) - gundzaft</description>
+		<rom name="sed1dvd0.chd" size="574867100" crc="21b2d884" sha1="218f50d6f6a3effb83f0eea187429a533a3de465"/>
+	</machine>
+	<machine name="MAME (v0.145) - hydrthnd">
+		<description>MAME (v0.145) - hydrthnd</description>
+		<rom name="hydro.chd" size="216842211" crc="45ac86ae" sha1="07c7b34386ce2dcae50cfdd37a2617f89b1bc84b"/>
+	</machine>
+	<machine name="MAME (v0.145) - hyprdriv">
+		<description>MAME (v0.145) - hyprdriv</description>
+		<rom name="hyprdriv.chd" size="376355762" crc="310d3257" sha1="91fd9ffaf370287ac757e146f30117c12102e04f"/>
+	</machine>
+	<machine name="MAME (v0.145) - initdv2e">
+		<description>MAME (v0.145) - initdv2e</description>
+		<rom name="gds-0027.chd" size="272294574" crc="9e86bda5" sha1="4700de92b60622c5fbdeecad3e5710e72b6bcd46"/>
+	</machine>
+	<machine name="MAME (v0.145) - initdv2j">
+		<description>MAME (v0.145) - initdv2j</description>
+		<rom name="gds-0026b.chd" size="275296826" crc="6e8cbf2c" sha1="99d56ccf96db64be95b830e03c5f1a757d5765ae"/>
+	</machine>
+	<machine name="MAME (v0.145) - initdv3j">
+		<description>MAME (v0.145) - initdv3j</description>
+		<rom name="gds-0032c.chd" size="305243981" crc="d6629a92" sha1="2b6c320d72a834d2aff3b10d01379c1a7b8f48cb"/>
+	</machine>
+	<machine name="MAME (v0.145) - jdredd">
+		<description>MAME (v0.145) - jdredd</description>
+		<rom name="jdreddc.chd" size="433070500" crc="9517b48c" sha1="d8ad2fc93df03364cdc9de36524bf29685ca3fba"/>
+	</machine>
+	<machine name="MAME (v0.145) - jdreddb">
+		<description>MAME (v0.145) - jdreddb</description>
+		<rom name="jdreddb.chd" size="433070443" crc="1ab287e1" sha1="429eb5cc42002b6060123b6a22236787b5348251"/>
+	</machine>
+	<machine name="MAME (v0.145) - jnero">
+		<description>MAME (v0.145) - jnero</description>
+		<rom name="jn010108.chd" size="724300239" crc="2ecdb3ea" sha1="a2b11ae265e24e751976931a70778fbb2b8b3dd6"/>
+	</machine>
+	<machine name="MAME (v0.145) - jpark3">
+		<description>MAME (v0.145) - jpark3</description>
+		<rom name="b41c02.chd" size="36899920" crc="db68d862" sha1="67d29887a3b53cc90c79911bb8d3dc8a6e650eeb"/>
+	</machine>
+	<machine name="MAME (v0.145) - junai">
+		<description>MAME (v0.145) - junai</description>
+		<rom name="junai.chd" size="861097163" crc="7afbcd03" sha1="f5967f564c727f308abff85201316d86fd16747f"/>
+	</machine>
+	<machine name="MAME (v0.145) - junai2">
+		<description>MAME (v0.145) - junai2</description>
+		<rom name="junai2.chd" size="786933403" crc="91995a1e" sha1="33ae47ed23d9e770bf156d5d62660225493106ac"/>
+	</machine>
+	<machine name="MAME (v0.145) - kinniku">
+		<description>MAME (v0.145) - kinniku</description>
+		<rom name="kn1-b.chd" size="339186223" crc="c3810be8" sha1="b9c154c208cfebb2059e7cefcb53ba5162c8939b"/>
+	</machine>
+	<machine name="MAME (v0.145) - kinst">
+		<description>MAME (v0.145) - kinst</description>
+		<rom name="kinst.chd" size="95627918" crc="37444a21" sha1="a1c11e304eaf4232d5afcdcefc6215b4e3e0936f"/>
+	</machine>
+	<machine name="MAME (v0.145) - kinst2">
+		<description>MAME (v0.145) - kinst2</description>
+		<rom name="kinst2.chd" size="135796404" crc="7e275ef1" sha1="416f711de98decc6a8e074b7731b0c5ba4bcde0d"/>
+	</machine>
+	<machine name="MAME (v0.145) - kollon">
+		<description>MAME (v0.145) - kollon</description>
+		<rom name="kollon.chd" size="17010611" crc="66340f11" sha1="8793214e7ad8ac71ac0e3f3fdfea5f04ebec6509"/>
+	</machine>
+	<machine name="MAME (v0.145) - kollonc">
+		<description>MAME (v0.145) - kollonc</description>
+		<rom name="kollonc.chd" size="6599489" crc="586fee1b" sha1="bb978eea72bdf6ec2fe25d598ba7ff2b0bbd7c12"/>
+	</machine>
+	<machine name="MAME (v0.145) - landhigh">
+		<description>MAME (v0.145) - landhigh</description>
+		<rom name="landhigh.chd" size="211774473" crc="8ea27ca1" sha1="4b0cc26a3d450aa20943d52f282212eb67da76a1"/>
+	</machine>
+	<machine name="MAME (v0.145) - mace">
+		<description>MAME (v0.145) - mace</description>
+		<rom name="mace.chd" size="132097314" crc="65fe9e9e" sha1="37b39c96d15adc247e34023ddc40f718ee16c0b2"/>
+	</machine>
+	<machine name="MAME (v0.145) - macea">
+		<description>MAME (v0.145) - macea</description>
+		<rom name="macea.chd" size="139810244" crc="a1366b2b" sha1="b1986a1e5baeebe80ae31dba2f8b2128d706e5a2"/>
+	</machine>
+	<machine name="MAME (v0.145) - mach3">
+		<description>MAME (v0.145) - mach3</description>
+		<rom name="mach3.chd" size="14836949500" crc="24b3d1a7" sha1="5ee0cc0801689ce92564941455e0b7663f57a8b6"/>
+	</machine>
+	<machine name="MAME (v0.145) - mahjngoh">
+		<description>MAME (v0.145) - mahjngoh</description>
+		<rom name="mahjngoh.chd" size="25059882" crc="acc572bd" sha1="8efd39e4365d30e02ea789c53131b0d962b491a1"/>
+	</machine>
+	<machine name="MAME (v0.145) - mamboagg">
+		<description>MAME (v0.145) - mamboagg</description>
+		<rom name="a40jab02.chd" size="168298188" crc="3cb4af15" sha1="4752b2a8b41207d5899c0c0f4377f5bc8ecdaba4"/>
+	</machine>
+	<machine name="MAME (v0.145) - maxforce">
+		<description>MAME (v0.145) - maxforce</description>
+		<rom name="maxforce.chd" size="1170169400" crc="f42faf12" sha1="73b2fb163e4c7111b832edff2514eb8020de38d1"/>
+	</machine>
+	<machine name="MAME (v0.145) - mfightc">
+		<description>MAME (v0.145) - mfightc</description>
+		<rom name="c09d04.chd" size="44002055" crc="9e94287a" sha1="b9ea4335f9e715890a523f822c7b11e45497795b"/>
+	</machine>
+	<machine name="MAME (v0.145) - mfightcc">
+		<description>MAME (v0.145) - mfightcc</description>
+		<rom name="c09c04.chd" size="44089891" crc="49644947" sha1="d547bbd0b8b16b2d03ae08d628d4e84d6e24c668"/>
+	</machine>
+	<machine name="MAME (v0.145) - mjmania">
+		<description>MAME (v0.145) - mjmania</description>
+		<rom name="mjmania.chd" size="294848691" crc="654a42f8" sha1="495cee29278a20b59b877e0ed8d9cbcab18f69e1"/>
+	</machine>
+	<machine name="MAME (v0.145) - mocapb">
+		<description>MAME (v0.145) - mocapb</description>
+		<rom name="a29b02.chd" size="16833787" crc="593b9586" sha1="80916ed00f20f31a24f43aae72339d1d2201ea06"/>
+	</machine>
+	<machine name="MAME (v0.145) - mocapbj">
+		<description>MAME (v0.145) - mocapbj</description>
+		<rom name="a29a02.chd" size="16859847" crc="0edd07f7" sha1="74eebda2eac59ac66b0ddfd7662538225f811363"/>
+	</machine>
+	<machine name="MAME (v0.145) - mocapglf">
+		<description>MAME (v0.145) - mocapglf</description>
+		<rom name="b33a02.chd" size="38105457" crc="eb286958" sha1="e92327048c32142d71380ac0fa7f287a5b1ed06f"/>
+	</machine>
+	<machine name="MAME (v0.145) - mrtlbeat">
+		<description>MAME (v0.145) - mrtlbeat</description>
+		<rom name="b47jxb02.chd" size="468894903" crc="80767dc7" sha1="f60d1e036283a6eb7be439499313a231f85eb303"/>
+	</machine>
+	<machine name="MAME (v0.145) - nbanfl">
+		<description>MAME (v0.145) - nbanfl</description>
+		<rom name="nbanfl.chd" size="787324448" crc="1bbe5c73" sha1="1968f8f84d7995186409daffb3e678a0726020bb"/>
+	</machine>
+	<machine name="MAME (v0.145) - nbashowt">
+		<description>MAME (v0.145) - nbashowt</description>
+		<rom name="nbashowt.chd" size="596600025" crc="766379c1" sha1="79615580bd00baa8b01316889d91f5134e63d6a7"/>
+	</machine>
+	<machine name="MAME (v0.145) - netchu02">
+		<description>MAME (v0.145) - netchu02</description>
+		<rom name="npy1cd0b.chd" size="208607465" crc="33d522d3" sha1="02127dffc291e4e3e6fe0fc7d75eb629059393e4"/>
+	</machine>
+	<machine name="MAME (v0.145) - nightrai">
+		<description>MAME (v0.145) - nightrai</description>
+		<rom name="nightrai.chd" size="24013480" crc="737ffa59" sha1="986d9d6a5bd5b524602a3530984dd1b9666396e2"/>
+	</machine>
+	<machine name="MAME (v0.145) - offrthnd">
+		<description>MAME (v0.145) - offrthnd</description>
+		<rom name="offrthnd.chd" size="1372445816" crc="8177e547" sha1="4bbf04fcd08a26dd3045fd7d1827ab62f94df27d"/>
+	</machine>
+	<machine name="MAME (v0.145) - ollie">
+		<description>MAME (v0.145) - ollie</description>
+		<rom name="gdx-0007.chd" size="794103261" crc="123ce966" sha1="b97ec9fadcdba6ea44d9c27dac2e585467ad5900"/>
+	</machine>
+	<machine name="MAME (v0.145) - orbatak">
+		<description>MAME (v0.145) - orbatak</description>
+		<rom name="orbatak.chd" size="103962833" crc="97a1df3a" sha1="6535a93f942cb74f1d697ca44bea133c199b6954"/>
+	</machine>
+	<machine name="MAME (v0.145) - otenamhf">
+		<description>MAME (v0.145) - otenamhf</description>
+		<rom name="otenamhf.chd" size="14209339" crc="5a15a50b" sha1="a3ec3943ab19a728669cb4f49213276f687e9d87"/>
+	</machine>
+	<machine name="MAME (v0.145) - otenamih">
+		<description>MAME (v0.145) - otenamih</description>
+		<rom name="otenamih.chd" size="6274105" crc="6131e15d" sha1="1b55654961938ec1a62751566f0a8fc345d2e03a"/>
+	</machine>
+	<machine name="MAME (v0.145) - otenki">
+		<description>MAME (v0.145) - otenki</description>
+		<rom name="otenki.chd" size="12225021" crc="dc3c9ee0" sha1="81c6c682e42fe9de8e69b132f77dbff5c7f3b807"/>
+	</machine>
+	<machine name="MAME (v0.145) - outr2">
+		<description>MAME (v0.145) - outr2</description>
+		<rom name="gdx-0004a.chd" size="866249361" crc="ebbcf437" sha1="f30410a705422535baacead6c7c1d7dbd48b12b2"/>
+	</machine>
+	<machine name="MAME (v0.145) - outr2st">
+		<description>MAME (v0.145) - outr2st</description>
+		<rom name="gdx-0014a.chd" size="1152791036" crc="adc62526" sha1="2190700a02a600812749d3103a6b9d6847ff80e1"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911">
+		<description>MAME (v0.145) - p911</description>
+		<rom name="a00uad02.chd" size="21790721" crc="4752987f" sha1="246352fa81455d30defe3f1bcd5b93b1bf6210d8"/>
+	</machine>
+	<machine name="MAME (v0.145) - p9112">
+		<description>MAME (v0.145) - p9112</description>
+		<rom name="b11a02.chd" size="40563891" crc="f600cf7b" sha1="94e3f8ac01310ff327b9db71467df2195dda205a"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911e">
+		<description>MAME (v0.145) - p911e</description>
+		<rom name="a00eaa02.chd" size="22133107" crc="21f0adb4" sha1="b612a7f81968502633aedcd5069aa81188659cc8"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911j">
+		<description>MAME (v0.145) - p911j</description>
+		<rom name="a00jac02.chd" size="21681031" crc="cff49c7d" sha1="554da426e77f6e14965ac14bd8c6d05f80910f98"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911kc">
+		<description>MAME (v0.145) - p911kc</description>
+		<rom name="a00kac02.chd" size="21865717" crc="732dae4a" sha1="a05fdc483d4862212369e674c92b2e9e764f0f53"/>
+	</machine>
+	<machine name="MAME (v0.145) - photoply">
+		<description>MAME (v0.145) - photoply</description>
+		<rom name="pp201.chd" size="280973165" crc="bff47a05" sha1="68e21f3f74b83563fe96ca8160c4bcbad496f526"/>
+	</machine>
+	<machine name="MAME (v0.145) - popn2">
+		<description>MAME (v0.145) - popn2</description>
+		<rom name="831jhdda01.chd" size="488076122" crc="0beb39e0" sha1="7309c06e1916bf31d90509f7e10fc5cd7b5adde1"/>
+	</machine>
+	<machine name="MAME (v0.145) - popn5">
+		<description>MAME (v0.145) - popn5</description>
+		<rom name="a04jaa01.chd" size="43598310" crc="c5346c0d" sha1="a1b6f8352d7a8401cd9f072038ff316d46e5b967"/>
+		<rom name="a04jaa02.chd" size="1322218949" crc="490c6170" sha1="7a48461b61c525f4bda7b5bbb71aa292a6abf25f"/>
+	</machine>
+	<machine name="MAME (v0.145) - popn9">
+		<description>MAME (v0.145) - popn9</description>
+		<rom name="c00jab.chd" size="15323418" crc="f0a71047" sha1="91ccfcdda154fcfb2bce895174b6e618198b190b"/>
+	</machine>
+	<machine name="MAME (v0.145) - ppp2nd">
+		<description>MAME (v0.145) - ppp2nd</description>
+		<rom name="ppp2nd.chd" size="384987261" crc="3735cfdf" sha1="959cb00571698b30ad9d5cd3bc7c705a6c1a8b25"/>
+	</machine>
+	<machine name="MAME (v0.145) - primrag2">
+		<description>MAME (v0.145) - primrag2</description>
+		<rom name="primrag2.chd" size="584384099" crc="ab07ea27" sha1="2fae636ac31310724c64c69b2658afc30ea7303d"/>
+	</machine>
+	<machine name="MAME (v0.145) - psattack">
+		<description>MAME (v0.145) - psattack</description>
+		<rom name="psattack.chd" size="188307433" crc="4a42acea" sha1="57429dee28126d2931770d0178b1836d061d1684"/>
+	</machine>
+	<machine name="MAME (v0.145) - psyvaria">
+		<description>MAME (v0.145) - psyvaria</description>
+		<rom name="psyvaria.chd" size="21470486" crc="fc4f069e" sha1="6f681a867f7b06048943e814abbedb72c2d5f6e6"/>
+	</machine>
+	<machine name="MAME (v0.145) - psyvarrv">
+		<description>MAME (v0.145) - psyvarrv</description>
+		<rom name="psyvarrv.chd" size="22830486" crc="6851295b" sha1="7642a8a42ef721a38ed30103e8feef17dd392753"/>
+	</machine>
+	<machine name="MAME (v0.145) - qdrmfgp">
+		<description>MAME (v0.145) - qdrmfgp</description>
+		<rom name="gq460a08.chd" size="365415348" crc="d7fd8d0b" sha1="f3564e30e4685a769d1ed5f54c6ea77161669f4a"/>
+	</machine>
+	<machine name="MAME (v0.145) - qdrmfgp2">
+		<description>MAME (v0.145) - qdrmfgp2</description>
+		<rom name="ge557a09.chd" size="378655394" crc="fb583045" sha1="184ec7db8e265e5636c6b386f742f597784dd21d"/>
+	</machine>
+	<machine name="MAME (v0.145) - quake">
+		<description>MAME (v0.145) - quake</description>
+		<rom name="quakeat.chd" size="236438387" crc="36519cfe" sha1="4e4d8a08e890a2fef1ced72a910571e6901960fb"/>
+	</machine>
+	<machine name="MAME (v0.145) - queen">
+		<description>MAME (v0.145) - queen</description>
+		<rom name="pqiidediskonmodule.chd" size="27825281" crc="2f3a9245" sha1="1019090c79ceabc999320d59b30bbf7edc1687b1"/>
+	</machine>
+	<machine name="MAME (v0.145) - racjamdx">
+		<description>MAME (v0.145) - racjamdx</description>
+		<rom name="676a04.chd" size="507128152" crc="6a0981bb" sha1="a3f2dd26b8e92240ed4d81f5560f97f7823452fc"/>
+	</machine>
+	<machine name="MAME (v0.145) - raycris">
+		<description>MAME (v0.145) - raycris</description>
+		<rom name="raycris.chd" size="16702665" crc="7fcac4f9" sha1="42a701587c84d2b7c388ed11c81137616c2da7d8"/>
+	</machine>
+	<machine name="MAME (v0.145) - rcdego">
+		<description>MAME (v0.145) - rcdego</description>
+		<rom name="rcdego.chd" size="16847468" crc="7ef00eb5" sha1="18fed45b2320fff5a2e8061f992054af1cc10db5"/>
+	</machine>
+	<machine name="MAME (v0.145) - redeartha">
+		<description>MAME (v0.145) - redeartha</description>
+		<rom name="cap-wzd-3.chd" size="44391337" crc="6adf47b7" sha1="b53a81c155a16cb45281b1eebc8749473e0fd2dc"/>
+	</machine>
+	<machine name="MAME (v0.145) - roadburn">
+		<description>MAME (v0.145) - roadburn</description>
+		<rom name="roadburn.chd" size="414404287" crc="e7e6cb4e" sha1="72e8b2d99040b2b9e5bbce382e21027a49ce0c9d"/>
+	</machine>
+	<machine name="MAME (v0.145) - rrvac">
+		<description>MAME (v0.145) - rrvac</description>
+		<rom name="rrv1-a.chd" size="196298128" crc="0475f614" sha1="6f2b7d308d7b5d081094870d7fa29c21e6902c8e"/>
+	</machine>
+	<machine name="MAME (v0.145) - salarymc">
+		<description>MAME (v0.145) - salarymc</description>
+		<rom name="gca18jaa.chd" size="8259528" crc="f55de08b" sha1="a114deec711988350bda8ca453cf55a975a192f4"/>
+	</machine>
+	<machine name="MAME (v0.145) - savquest">
+		<description>MAME (v0.145) - savquest</description>
+		<rom name="savquest.chd" size="427935757" crc="6e60273f" sha1="a33e89b0e7228dd34a7b449bc24a8fb102773052"/>
+	</machine>
+	<machine name="MAME (v0.145) - scg06nt">
+		<description>MAME (v0.145) - scg06nt</description>
+		<rom name="gdx-0018a.chd" size="909683103" crc="5999c489" sha1="248f423a634dbcb93360003824567e4ae009c072"/>
+	</machine>
+	<machine name="MAME (v0.145) - scptour">
+		<description>MAME (v0.145) - scptour</description>
+		<rom name="scp1cd0.chd" size="69621942" crc="354f58ab" sha1="cd954dc2298db4dce33565174a841fd00789611f"/>
+	</machine>
+	<machine name="MAME (v0.145) - sf2049">
+		<description>MAME (v0.145) - sf2049</description>
+		<rom name="sf2049.chd" size="938130216" crc="0c74ea58" sha1="fe99b24302173e46db3ad0377c40ea94032abb40"/>
+	</machine>
+	<machine name="MAME (v0.145) - sf2049se">
+		<description>MAME (v0.145) - sf2049se</description>
+		<rom name="sf2049se.chd" size="1384006875" crc="2afcee63" sha1="586a02ff787f40d99bd1d1c09e3d6d1a4a33abfe"/>
+	</machine>
+	<machine name="MAME (v0.145) - sf2049te">
+		<description>MAME (v0.145) - sf2049te</description>
+		<rom name="sf2049te.chd" size="1489145975" crc="cb042b7f" sha1="3685fa68d4e05b89e41a136c6a089232fc7403e4"/>
+	</machine>
+	<machine name="MAME (v0.145) - sfrush">
+		<description>MAME (v0.145) - sfrush</description>
+		<rom name="sfrush.chd" size="56461745" crc="3d81057e" sha1="12d1f991cccec269d49310c786c96e6ea42184b5"/>
+	</machine>
+	<machine name="MAME (v0.145) - sfrushrk">
+		<description>MAME (v0.145) - sfrushrk</description>
+		<rom name="sfrushrk.chd" size="143996706" crc="dc12d3b0" sha1="d24bca7c63564e3ac0e3d7902972153eca22ba99"/>
+	</machine>
+	<machine name="MAME (v0.145) - shaktamb">
+		<description>MAME (v0.145) - shaktamb</description>
+		<rom name="gds-0016.chd" size="238362728" crc="94063ad3" sha1="9acf0e8783b3b9a2f08e1fc106f38a0b489e2c29"/>
+	</machine>
+	<machine name="MAME (v0.145) - shanghss">
+		<description>MAME (v0.145) - shanghss</description>
+		<rom name="shanghss.chd" size="18500558" crc="2ed70920" sha1="c31a80a58d53b45ca6615cf0aad7fb2cb2628a76"/>
+	</machine>
+	<machine name="MAME (v0.145) - shangtou">
+		<description>MAME (v0.145) - shangtou</description>
+		<rom name="shanghaito.chd" size="25587222" crc="a1d5e5e9" sha1="f9725b96d2bebc9519d6948b8a3f6ef92a66f1b4"/>
+	</machine>
+	<machine name="MAME (v0.145) - shikigam">
+		<description>MAME (v0.145) - shikigam</description>
+		<rom name="shikigam.chd" size="27188860" crc="a5ebb8fd" sha1="15d2862f1933b1c82b77634653e3f0de981ffac9"/>
+	</machine>
+	<machine name="MAME (v0.145) - sianniv">
+		<description>MAME (v0.145) - sianniv</description>
+		<rom name="sianniv.chd" size="30088456" crc="eb322035" sha1="cf1ee4c459b21c825975a78d11e63a2151cc7f31"/>
+	</machine>
+	<machine name="MAME (v0.145) - sogeki">
+		<description>MAME (v0.145) - sogeki</description>
+		<rom name="a13b02.chd" size="47682995" crc="2a9d575b" sha1="38d9395769d17490a38c2a3fc6690d8dd50da0fd"/>
+	</machine>
+	<machine name="MAME (v0.145) - soulclb2">
+		<description>MAME (v0.145) - soulclb2</description>
+		<rom name="sc21-dvd0d.chd" size="771980091" crc="d0f204c2" sha1="ba719ebb5ed228a090bff167b523b6c967c4e7af"/>
+	</machine>
+	<machine name="MAME (v0.145) - soulclb3">
+		<description>MAME (v0.145) - soulclb3</description>
+		<rom name="sc31001-na-dvd0-b.chd" size="1333895992" crc="27dbeb20" sha1="b6ef9e1474584fb62eb0ef9c6b6337b4bf7a56ed"/>
+	</machine>
+	<machine name="MAME (v0.145) - soutenry">
+		<description>MAME (v0.145) - soutenry</description>
+		<rom name="soutenry.chd" size="31167933" crc="d65d1b71" sha1="1c08e199028fa06b5fe5e55dd039e79a97630bb2"/>
+	</machine>
+	<machine name="MAME (v0.145) - specfrce">
+		<description>MAME (v0.145) - specfrce</description>
+		<rom name="sf010101.chd" size="200283842" crc="87bcee85" sha1="6544a4939d94661c96a362b6393fef1f0b758d52"/>
+	</machine>
+	<machine name="MAME (v0.145) - speeddrv">
+		<description>MAME (v0.145) - speeddrv</description>
+		<rom name="speeddrv.chd" size="350612119" crc="df59b7f5" sha1="0b1100901cd1d43d9c134efa1e4e2c81a063cdbc"/>
+	</machine>
+	<machine name="MAME (v0.145) - spuzbobl">
+		<description>MAME (v0.145) - spuzbobl</description>
+		<rom name="spuzbobl.chd" size="15429728" crc="c1bad697" sha1="7b3af521d3bd61467f92aa4bd851ccf1e3ce6091"/>
+	</machine>
+	<machine name="MAME (v0.145) - spuzboblj">
+		<description>MAME (v0.145) - spuzboblj</description>
+		<rom name="spuzbobj.chd" size="15437394" crc="5b84bcf1" sha1="1adc356badb963d3c8855cc5c734b6b1e8e82011"/>
+	</machine>
+	<machine name="MAME (v0.145) - sscopex">
+		<description>MAME (v0.145) - sscopex</description>
+		<rom name="a13c02.chd" size="49090922" crc="6012aae6" sha1="5e4308dac9c044e7bfe9d3512e46221bfc27d00a"/>
+	</machine>
+	<machine name="MAME (v0.145) - sukuinuf">
+		<description>MAME (v0.145) - sukuinuf</description>
+		<rom name="hm-in2.chd" size="191034952" crc="6eba983b" sha1="1ddad65825c63bc9603744bc2e3d3319c09ccb05"/>
+	</machine>
+	<machine name="MAME (v0.145) - taiko10">
+		<description>MAME (v0.145) - taiko10</description>
+		<rom name="tk10100-1-na-dvd0-a.chd" size="578285286" crc="7ae42438" sha1="ceda78c512ed2a48302e43622c0f2e141304c2dc"/>
+	</machine>
+	<machine name="MAME (v0.145) - taiko9">
+		<description>MAME (v0.145) - taiko9</description>
+		<rom name="tk9100-1-na-dvd0-a.chd" size="552105673" crc="6b6fcc36" sha1="072edce6c6d26017d35edd5905c8ddb3c6dbc77c"/>
+	</machine>
+	<machine name="MAME (v0.145) - tekken4">
+		<description>MAME (v0.145) - tekken4</description>
+		<rom name="tef1dvd0.chd" size="759925421" crc="0adbd42a" sha1="9ac5d91b947f2feb461799c83cb7e88a124e9345"/>
+	</machine>
+	<machine name="MAME (v0.145) - tekken51">
+		<description>MAME (v0.145) - tekken51</description>
+		<rom name="te51-dvd0.chd" size="507493962" crc="910744d8" sha1="e7129c4dff31c1dadcfba7ab3f9d2e2c2f279ced"/>
+	</machine>
+	<machine name="MAME (v0.145) - tenthdeg">
+		<description>MAME (v0.145) - tenthdeg</description>
+		<rom name="tenthdeg.chd" size="771595488" crc="5f13da5c" sha1="6157d3e77d59bf7f6704aa2b56a594baab75a133"/>
+	</machine>
+	<machine name="MAME (v0.145) - thenanpa">
+		<description>MAME (v0.145) - thenanpa</description>
+		<rom name="thenanpa.chd" size="834247952" crc="62dffbd8" sha1="bcaa798e5cc7b48e2dd84b9dd24520ab3e4ddaf6"/>
+	</machine>
+	<machine name="MAME (v0.145) - thrild2">
+		<description>MAME (v0.145) - thrild2</description>
+		<rom name="a41b02.chd" size="21209625" crc="af6267a2" sha1="191a2dcb6fd782cb63c3371d669d8dae95ac90b2"/>
+	</machine>
+	<machine name="MAME (v0.145) - thrild2a">
+		<description>MAME (v0.145) - thrild2a</description>
+		<rom name="a41a02.chd" size="20916365" crc="50fad8c1" sha1="1fd3d1636646a016d082e644c005a705d75985d0"/>
+	</machine>
+	<machine name="MAME (v0.145) - thrild2c">
+		<description>MAME (v0.145) - thrild2c</description>
+		<rom name="a41c02.chd" size="21084316" crc="e9968ce0" sha1="5b08308ad25cb951d738eb41f2dcc9d3006b4cc3"/>
+	</machine>
+	<machine name="MAME (v0.145) - timecrs3">
+		<description>MAME (v0.145) - timecrs3</description>
+		<rom name="tst1dvd0.chd" size="2414994097" crc="afa6b260" sha1="51a2d6323963001ce7786e14dcdaa3fdd44a8114"/>
+	</machine>
+	<machine name="MAME (v0.145) - tokyocop">
+		<description>MAME (v0.145) - tokyocop</description>
+		<rom name="tokyocop.chd" size="261540432" crc="0b21bb15" sha1="3d04e5025330d5bf810f76eb1946dcfef96d7b01"/>
+	</machine>
+	<machine name="MAME (v0.145) - truckk">
+		<description>MAME (v0.145) - truckk</description>
+		<rom name="tkk2-a.chd" size="382041497" crc="a39b5eff" sha1="852d1fdcaeb3ccc0c930e529b5729da77d1ad95b"/>
+	</machine>
+	<machine name="MAME (v0.145) - tsurugi">
+		<description>MAME (v0.145) - tsurugi</description>
+		<rom name="a30b02.chd" size="48260935" crc="f703aa1e" sha1="cb84bf7b0d9dc7d3d8490c7e265abdf3c367f79c"/>
+	</machine>
+	<machine name="MAME (v0.145) - tsurugij">
+		<description>MAME (v0.145) - tsurugij</description>
+		<rom name="a30c02.chd" size="47722904" crc="ea76f34c" sha1="f0d727ce08065b8d35c7b1ac1c0e282914801c29"/>
+	</machine>
+	<machine name="MAME (v0.145) - turrett">
+		<description>MAME (v0.145) - turrett</description>
+		<rom name="turrett.chd" size="2002649335" crc="0c08283a" sha1="36d2f7863e4a0e35e4e915f7a2b3dc33a9937932"/>
+	</machine>
+	<machine name="MAME (v0.145) - usagi">
+		<description>MAME (v0.145) - usagi</description>
+		<rom name="usagi.chd" size="17655973" crc="3b9fea96" sha1="1ac74c92513a1ac92ddf1f88f6782d832abacc5d"/>
+	</machine>
+	<machine name="MAME (v0.145) - usvsthem">
+		<description>MAME (v0.145) - usvsthem</description>
+		<rom name="usvsthem.chd" size="14556748613" crc="250829c8" sha1="125fe29bb5c704084e35d5c34c3902497cac4fb6"/>
+	</machine>
+	<machine name="MAME (v0.145) - vaportrx">
+		<description>MAME (v0.145) - vaportrx</description>
+		<rom name="vaportrx.chd" size="1318172457" crc="836cd41b" sha1="e3de3a4c3cefccc13a7ce4ef74fb178e88665679"/>
+	</machine>
+	<machine name="MAME (v0.145) - vaportrxp">
+		<description>MAME (v0.145) - vaportrxp</description>
+		<rom name="vaportrp.chd" size="547666824" crc="7b96a828" sha1="0d73976907785a0d1978d04bc39ca36daa6b23b4"/>
+	</machine>
+	<machine name="MAME (v0.145) - vcircle">
+		<description>MAME (v0.145) - vcircle</description>
+		<rom name="vcircle.chd" size="558119342" crc="41aadd4a" sha1="52d654d439f94b895272a1240e77cf5c3896f7a2"/>
+	</machine>
+	<machine name="MAME (v0.145) - wangmd2b">
+		<description>MAME (v0.145) - wangmd2b</description>
+		<rom name="gdx-0016a.chd" size="934552379" crc="ffee9a43" sha1="2cbbe1c1cfebaaa8c672d026d3232c29458e5fb6"/>
+	</machine>
+	<machine name="MAME (v0.145) - warfa">
+		<description>MAME (v0.145) - warfa</description>
+		<rom name="warfa.chd" size="886497295" crc="fd944c46" sha1="65b709a260831211c49f46146846248562cf64db"/>
+	</machine>
+	<machine name="MAME (v0.145) - wargods">
+		<description>MAME (v0.145) - wargods</description>
+		<rom name="wargods.chd" size="62836722" crc="29f780c0" sha1="681b9797e668b2ea6443626fe5344407648db610"/>
+	</machine>
+	<machine name="MAME (v0.145) - wcombat">
+		<description>MAME (v0.145) - wcombat</description>
+		<rom name="c22d02.chd" size="67609935" crc="52fc137e" sha1="b38a0cfd4716b0d1457b44783ee8bba0ba4545e5"/>
+	</machine>
+	<machine name="MAME (v0.145) - wcombatj">
+		<description>MAME (v0.145) - wcombatj</description>
+		<rom name="c22a02.chd" size="67384321" crc="29f2cebf" sha1="054ca8825e9134a14b11466277d75060f892d566"/>
+	</machine>
+	<machine name="MAME (v0.145) - wcombatk">
+		<description>MAME (v0.145) - wcombatk</description>
+		<rom name="c22c02.chd" size="67609895" crc="1f5e15fe" sha1="49f003af8802540111b9e51f04e2f1d1718961b1"/>
+	</machine>
+	<machine name="MAME (v0.145) - wg3dh">
+		<description>MAME (v0.145) - wg3dh</description>
+		<rom name="wg3dh.chd" size="97212461" crc="e5b17f3c" sha1="7716a55cef3d2162cb313e01522d17d664fc26ec"/>
+	</machine>
+	<machine name="MAME (v0.145) - xiistag">
+		<description>MAME (v0.145) - xiistag</description>
+		<rom name="xiistag.chd" size="21375855" crc="a817ed26" sha1="b5cd37cc248dd2a012aaaa1b5e21434a9d0a5b3f"/>
+	</machine>
+	<machine name="MAME (v0.145) - xtrial">
+		<description>MAME (v0.145) - xtrial</description>
+		<rom name="b4xb02.chd" size="40335217" crc="a3eea727" sha1="6f88555776a1a8980fd8bd23c39e2068c9925692"/>
+	</machine>
+	<machine name="MAME (v0.145) - zgundm">
+		<description>MAME (v0.145) - zgundm</description>
+		<rom name="zga1dvd0.chd" size="511073024" crc="8dc965e0" sha1="48120b716eaa880a4fe14172942c03117bdc552e"/>
+	</machine>
+	<machine name="MAME (v0.145) - zgundmdx">
+		<description>MAME (v0.145) - zgundmdx</description>
+		<rom name="zdx1dvd0.chd" size="738061748" crc="a9cd89f9" sha1="772d81d69c78298c58073d283a7fc69c88694e21"/>
+	</machine>
+	<machine name="MAME (v0.145) - zokuoten">
+		<description>MAME (v0.145) - zokuoten</description>
+		<rom name="zokuoten.chd" size="21400251" crc="b1961ab4" sha1="d625c2bf1001d8046b839267a4309cb633d00a2b"/>
+	</machine>
+	<machine name="MAME (v0.145) - zooo">
+		<description>MAME (v0.145) - zooo</description>
+		<rom name="zooo.chd" size="12313454" crc="f17fd6cc" sha1="264aedd912f2fafd40755e226546787097e4e277"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - hyperath">
+		<description>MAME (v0.145u1) - hyperath</description>
+		<rom name="hyperath.chd" size="186951794" crc="275c52d6" sha1="ee2abedeaa9da494ab79ed9990f583de7c77bef3"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - kdeadeye">
+		<description>MAME (v0.145u1) - kdeadeye</description>
+		<rom name="kdeadeye.chd" size="497189827" crc="eb58731e" sha1="1b0bb2ee1221a8fe705273e9a739aa6886ae8507"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - nagano98">
+		<description>MAME (v0.145u1) - nagano98</description>
+		<rom name="nagano98.chd" size="420026854" crc="72ab79d9" sha1="c04e7aa19d38ccea67ae76180100f1d92808e092"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - pbball96">
+		<description>MAME (v0.145u1) - pbball96</description>
+		<rom name="pbball96.chd" size="149910021" crc="62590575" sha1="c7feb58004fb0dfb8842a0cfd1f53d7bfc49161f"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - simpbowl">
+		<description>MAME (v0.145u1) - simpbowl</description>
+		<rom name="simpbowl.chd" size="27411398" crc="a37b0c9f" sha1="e2a5581d772ddabc65db03685bd442670d1392fc"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - susume">
+		<description>MAME (v0.145u1) - susume</description>
+		<rom name="gv027j1.chd" size="453280019" crc="c20efeda" sha1="024ecd8320912341ec85bbd5f5110157cad51ef7"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - tokimosh">
+		<description>MAME (v0.145u1) - tokimosh</description>
+		<rom name="755jaa01.chd" size="158486797" crc="367a4aa7" sha1="241d0f603fe2600fc321b8ff19189150fadd4ddc"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - tokimosp">
+		<description>MAME (v0.145u1) - tokimosp</description>
+		<rom name="756jab01.chd" size="193713722" crc="e2e36c1e" sha1="a9ce07d993ea056a367f08334dbecf3383951113"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - weddingr">
+		<description>MAME (v0.145u1) - weddingr</description>
+		<rom name="weddingr.chd" size="14205090" crc="6a4353b6" sha1="f74e394eaa0978a118d1508afad743168870c6c3"/>
+	</machine>
+	<machine name="MAME (v0.145u3) - undefeat">
+		<description>MAME (v0.145u3) - undefeat</description>
+		<rom name="gdl-0035.chd" size="205483764" crc="42bf1cb6" sha1="f2c2054a7f3113dd2abab02a8607dddd32b18f76"/>
+	</machine>
+	<machine name="MAME (v0.145u7) - azumanga">
+		<description>MAME (v0.145u7) - azumanga</description>
+		<rom name="gdl-0018.chd" size="129154992" crc="66d9d15e" sha1="6915c750b75cb841668a8b1f7be10aedeebd633e"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - bdrdown">
+		<description>MAME (v0.146u4) - bdrdown</description>
+		<rom name="gdl-0023a.chd" size="267726488" crc="9b694649" sha1="683bcfb6ed7417ceed15d6e15c56a427b945d88c"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - chocomk">
+		<description>MAME (v0.146u4) - chocomk</description>
+		<rom name="gdl-0014a.chd" size="109660213" crc="74a0b93f" sha1="1dcb1141ba813a1c05a0db2a6c19c490498322f1"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - ikaruga">
+		<description>MAME (v0.146u4) - ikaruga</description>
+		<rom name="gdl-0010.chd" size="80785378" crc="ea59a01d" sha1="acd582b76d7bb2fdafe60941388322be2571864f"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - karous">
+		<description>MAME (v0.146u4) - karous</description>
+		<rom name="gdl-0040.chd" size="180261051" crc="f859700c" sha1="40a3fb431e51ef46ef0cf8f0c0f595ed9cd032f7"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - psyvar2">
+		<description>MAME (v0.146u4) - psyvar2</description>
+		<rom name="gdl-0024.chd" size="189174381" crc="90189530" sha1="c4cef48834d89fdf25b3c75f151ce1f7d56a7c75"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - puyofev">
+		<description>MAME (v0.146u4) - puyofev</description>
+		<rom name="gds-0031.chd" size="204799728" crc="80b43d08" sha1="6afa28f85935a88adbd332c8d6c3033c575773a1"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - senko">
+		<description>MAME (v0.146u4) - senko</description>
+		<rom name="gdl-0030a.chd" size="313724257" crc="af3b55bc" sha1="be9b403d337153fb19d5d7ebf21e8e79fd9c8574"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - shikgam2">
+		<description>MAME (v0.146u4) - shikgam2</description>
+		<rom name="gdl-0021.chd" size="159955286" crc="75346651" sha1="64775a3d3c8f5508c3198681d32ae8680ed8289b"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - starseek">
+		<description>MAME (v0.146u4) - starseek</description>
+		<rom name="gdl-0005.chd" size="73086667" crc="eaa2eb5a" sha1="7f699e9a88c97cc9dbd514ea6dba9886da8b2d33"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - trgheart">
+		<description>MAME (v0.146u4) - trgheart</description>
+		<rom name="gdl-0036a.chd" size="139302312" crc="9a60b303" sha1="bd3d469e2eb2d1c2b346cdc058901d127a794959"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - trizeal">
+		<description>MAME (v0.146u4) - trizeal</description>
+		<rom name="gdl-0026.chd" size="185132897" crc="0d996dc1" sha1="dece732ed78ae848d3852e5d4cf212fb9146a94e"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - vf4tuned">
+		<description>MAME (v0.146u4) - vf4tuned</description>
+		<rom name="gds-0036f.chd" size="512628439" crc="c0c4a723" sha1="bc9949efa4436774c9d2b2366bc11dffec7c2644"/>
+	</machine>
+	<machine name="MAME (v0.147u3) - popn7">
+		<description>MAME (v0.147u3) - popn7</description>
+		<rom name="b00jaa02.chd" size="2892411273" crc="8458dc88" sha1="add8761dbf481780772ef4274d564ab0d4956077"/>
+		<rom name="b00jab01.chd" size="158130341" crc="e89d8000" sha1="1dff2de7ae95d83eeb7b1b3361154c78f6e0992b"/>
+	</machine>
+	<machine name="MAME (v0.147u3) - ppd">
+		<description>MAME (v0.147u3) - ppd</description>
+		<rom name="977kaa02.chd" size="486770345" crc="b65cfbf7" sha1="55ecefeb9b99867d7000eaa77ce43e51abb857e1"/>
+	</machine>
+	<machine name="MAME (v0.147u3) - ppp11">
+		<description>MAME (v0.147u3) - ppp11</description>
+		<rom name="gc977jaa01.chd" size="349886352" crc="013a0401" sha1="fcb080348c7b0e557f15005500d3e8f4fda20ab5"/>
+		<rom name="gc977jaa02.chd" size="487013944" crc="58c03bf5" sha1="169a8d99b3e1873f1d00d46b75900311bcef7a19"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - confmiss">
+		<description>MAME (v0.148u3) - confmiss</description>
+		<rom name="gds-0001.chd" size="177406690" crc="433a83c6" sha1="21601f3ff1f7847c531ed3b142f8b606c36be60f"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - cvs2gd">
+		<description>MAME (v0.148u3) - cvs2gd</description>
+		<rom name="gdl-0007a.chd" size="211824166" crc="4c76724f" sha1="341eea90b0d86f8e10931e315de4a6aca4146900"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - dygolf">
+		<description>MAME (v0.148u3) - dygolf</description>
+		<rom name="gds-0009a.chd" size="114362373" crc="3a1f597d" sha1="a61abd4be28362eb93094ef5d873f58736aeb483"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - initdexp">
+		<description>MAME (v0.148u3) - initdexp</description>
+		<rom name="gds-0025.chd" size="228024952" crc="701754f3" sha1="7cde41aa4e23d0f52b8498bae4e6ef2959c47097"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - initdv3e">
+		<description>MAME (v0.148u3) - initdv3e</description>
+		<rom name="gds-0033.chd" size="240573953" crc="9ea72b3e" sha1="a6d78a42380419fa06a73b0d4fba284640a5a23e"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - initdv3j">
+		<description>MAME (v0.148u3) - initdv3j</description>
+		<rom name="gds-0032c.chd" size="246333992" crc="f9b1c139" sha1="0f3805b48658f8b9212775c1a7ee276cb0a2ab04"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - mok">
+		<description>MAME (v0.148u3) - mok</description>
+		<rom name="gds-0022.chd" size="196764062" crc="45355fe1" sha1="7271577038f33fd791b558fdca2a92a138c24b85"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - ngdup23a">
+		<description>MAME (v0.148u3) - ngdup23a</description>
+		<rom name="gds-0023a.chd" size="51776890" crc="5aa56ae6" sha1="247f9da1e9f688acfa53e21a1167db6ffca83ab8"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - senkoo">
+		<description>MAME (v0.148u3) - senkoo</description>
+		<rom name="gdl-0030.chd" size="291125774" crc="dfb9ecfc" sha1="cf727b10ae2b2b29646bc55192d629114ffbfc3b"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - senkosp">
+		<description>MAME (v0.148u3) - senkosp</description>
+		<rom name="gdl-0038.chd" size="306036448" crc="9c0a5021" sha1="263e6725f79ae3c7cf2354c08417121281deea44"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - shaktamb">
+		<description>MAME (v0.148u3) - shaktamb</description>
+		<rom name="gds-0016.chd" size="185804393" crc="685aab3d" sha1="a8dd462cf28120940af0456a1bd1abbf827756c4"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - sprtjam">
+		<description>MAME (v0.148u3) - sprtjam</description>
+		<rom name="gds-0003.chd" size="178393351" crc="9d306a75" sha1="c425fe4d9c83de59ac841e9931df468559907f05"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - ss2005">
+		<description>MAME (v0.148u3) - ss2005</description>
+		<rom name="gdl-0031.chd" size="104494395" crc="3cf0872a" sha1="09c00944440ef89f46028675c5e44941adbf3a4f"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - vf4evo">
+		<description>MAME (v0.148u3) - vf4evo</description>
+		<rom name="gds-0024b.chd" size="249407293" crc="af163ac9" sha1="428e9e81344a5168fb0b4136ec9ab39d6abbe459"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - vstrik3">
+		<description>MAME (v0.148u3) - vstrik3</description>
+		<rom name="gds-0006.chd" size="199408602" crc="8397014d" sha1="c8210b1216e645bc2d96f595ada201fff99956cb"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - vtennis2">
+		<description>MAME (v0.148u3) - vtennis2</description>
+		<rom name="gds-0015a.chd" size="174727045" crc="9baca276" sha1="fd2e9b42ead92c5824e7792735c5317a49db2403"/>
+	</machine>
+	<machine name="MAME (v0.148u4) - sfish2">
+		<description>MAME (v0.148u4) - sfish2</description>
+		<rom name="sfish2.chd" size="575351732" crc="e3dcdeba" sha1="24b064f3d314b03b1b2accc7ad467002c84cb91d"/>
+	</machine>
+	<machine name="MAME (v0.149) - savquest">
+		<description>MAME (v0.149) - savquest</description>
+		<rom name="savquest.chd" size="308353531" crc="1979e206" sha1="edee2e9c42d294f5cb5a16805041522194c44bb9"/>
+	</machine>
+	<machine name="MAME (v0.149) - wcombat">
+		<description>MAME (v0.149) - wcombat</description>
+		<rom name="c22d02.chd" size="65097709" crc="1518915d" sha1="7533e5d7c4b8fd601436aa4f96bda6ea54798772"/>
+	</machine>
+	<machine name="MAME (v0.151) - bassangl">
+		<description>MAME (v0.151) - bassangl</description>
+		<rom name="765jaa02.chd" size="25847004" crc="2808d10a" sha1="dac534cb8865780a0c3c20ce643eb63d020de664"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidx">
+		<description>MAME (v0.151) - bmiidx</description>
+		<rom name="863jaa01.chd" size="7911684" crc="94a0f7f4" sha1="44b29286a1e470ce56778f32406dd227b0086fc1"/>
+		<rom name="863jaa04.chd" size="333324658" crc="69369dc5" sha1="e8e9738c7a950f6938c486a7697d6d84b9e9c751"/>
+		<rom name="c44jaa03.chd" size="4224513615" crc="8bc0a2be" sha1="cff6875907944e5cb1300515b893893e31b56ea7"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidx4">
+		<description>MAME (v0.151) - bmiidx4</description>
+		<rom name="a03jaa01.chd" size="19215680" crc="23f8f27f" sha1="02c51ff32174d3a040cd01bfab8700b6b8757a69"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidx7">
+		<description>MAME (v0.151) - bmiidx7</description>
+		<rom name="b44jaa01.chd" size="79038888" crc="436590b7" sha1="f341740d3224dd18b9dc42594cbc8ba22999b831"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidxc">
+		<description>MAME (v0.151) - bmiidxc</description>
+		<rom name="896jaabm.chd" size="8142256" crc="af240098" sha1="2fe19c0d1dd738403996b3ff93d137a84fcdb5dd"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidxc2">
+		<description>MAME (v0.151) - bmiidxc2</description>
+		<rom name="984a01bm.chd" size="9522602" crc="9f29acf1" sha1="f66ec654a61191916914d9b9da946d6182c81f57"/>
+	</machine>
+	<machine name="MAME (v0.151) - btltryst">
+		<description>MAME (v0.151) - btltryst</description>
+		<rom name="btltryst.chd" size="267873070" crc="5e7c6de2" sha1="43bba07d8c78e7173b94876d3f49937f48ad79fc"/>
+	</machine>
+	<machine name="MAME (v0.151) - darkhleg">
+		<description>MAME (v0.151) - darkhleg</description>
+		<rom name="706jaa02.chd" size="234986205" crc="1769d088" sha1="9d1f8e4696f516f1b2b34bcb0916492b6b5a5397"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr2mc2">
+		<description>MAME (v0.151) - ddr2mc2</description>
+		<rom name="984jaa01.chd" size="16440772" crc="445864c4" sha1="bfd81ad2688bd3c6503f2c0cc79434f0c1eae1d1"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr2ml">
+		<description>MAME (v0.151) - ddr2ml</description>
+		<rom name="885jaa02.chd" size="667613466" crc="c511a76c" sha1="b0945ae0322cb7d3892e53194c30a05309aca94c"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3ma">
+		<description>MAME (v0.151) - ddr3ma</description>
+		<rom name="887aaa02.chd" size="161419941" crc="21f31d67" sha1="754c5b87c4d2b39b16316114eb3d34cf26ce9607"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mj">
+		<description>MAME (v0.151) - ddr3mj</description>
+		<rom name="887jaa02.chd" size="176656699" crc="056e2379" sha1="0e467ab56bc9d7862644a7280328ba411aac16ad"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mk">
+		<description>MAME (v0.151) - ddr3mk</description>
+		<rom name="887kba02.chd" size="198989330" crc="99c004d2" sha1="b48e4a7ddcaf881833df662d639963ca6d464292"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mka">
+		<description>MAME (v0.151) - ddr3mka</description>
+		<rom name="887kaa02.chd" size="176636244" crc="ac598a55" sha1="afb53514595345654362b17ffc036f0af38978bc"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mp">
+		<description>MAME (v0.151) - ddr3mp</description>
+		<rom name="a22jaa02.chd" size="212094243" crc="d1a2efa1" sha1="ada7ea81eb49a6e8b6de3011c483f487c6693af7"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr4mp">
+		<description>MAME (v0.151) - ddr4mp</description>
+		<rom name="a34jaa02.chd" size="331003232" crc="59cecb1b" sha1="7d82c46f908dce7cbae624488cfd6d1a28176ac8"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr5m">
+		<description>MAME (v0.151) - ddr5m</description>
+		<rom name="a27jaa02.chd" size="279413614" crc="4e9bdeac" sha1="14985c8fb2b2e66e5d11cc0806b9627e5fe79c81"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddra">
+		<description>MAME (v0.151) - ddra</description>
+		<rom name="845aaa02.chd" size="282901182" crc="73a18bed" sha1="ec6084107379765476e53b1fb36285f9b925af23"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrj">
+		<description>MAME (v0.151) - ddrj</description>
+		<rom name="845jba02.chd" size="289070215" crc="55ba3129" sha1="8fb3eea6a7487e0ab8b03574fa99f3997064c113"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrjb">
+		<description>MAME (v0.151) - ddrjb</description>
+		<rom name="845jab02.chd" size="235899010" crc="932fb179" sha1="fff13da57deedd2de467ff4a1e89dac66dae209e"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrmax">
+		<description>MAME (v0.151) - ddrmax</description>
+		<rom name="b19jaa02.chd" size="309463554" crc="e9c59775" sha1="1c5e29bd23d8e48dc097ea339cf36acc89c9ed9a"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrmax2">
+		<description>MAME (v0.151) - ddrmax2</description>
+		<rom name="b20jaa02.chd" size="654212397" crc="e847b197" sha1="23429ad7df1042a9394861e6c977823ab6b30fbf"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrs2kj">
+		<description>MAME (v0.151) - ddrs2kj</description>
+		<rom name="905jaa02.chd" size="149292832" crc="5c011ead" sha1="bac25ca8ca2838e6b7b989d21b95ec0fd411f88d"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrsbm">
+		<description>MAME (v0.151) - ddrsbm</description>
+		<rom name="894jaa02.chd" size="99401907" crc="0dd8baad" sha1="eb03ebbc4d3a2d82729f82c82b79228c8aaebd6f"/>
+	</machine>
+	<machine name="MAME (v0.151) - dmx2majp">
+		<description>MAME (v0.151) - dmx2majp</description>
+		<rom name="a38jaa02.chd" size="427469213" crc="c451b79b" sha1="3cd622962eb3fc4ff35e4714008f3b262bda3101"/>
+	</machine>
+	<machine name="MAME (v0.151) - drmn7m">
+		<description>MAME (v0.151) - drmn7m</description>
+		<rom name="c07jca02.chd" size="368224792" crc="6f50be25" sha1="bf89eaaa810ab75952e216163d86d870501aba4e"/>
+	</machine>
+	<machine name="MAME (v0.151) - evilngt">
+		<description>MAME (v0.151) - evilngt</description>
+		<rom name="810uba02.chd" size="276523966" crc="743788ad" sha1="f9e4f28efa2244a7e54b252e25b122f864f3415a"/>
+	</machine>
+	<machine name="MAME (v0.151) - gtrfrk7m">
+		<description>MAME (v0.151) - gtrfrk7m</description>
+		<rom name="b17jaa02.chd" size="501012323" crc="64ba79bf" sha1="df20612c1c5d3866ae922f46e2279e30b6f71ae2"/>
+	</machine>
+	<machine name="MAME (v0.151) - hellngt">
+		<description>MAME (v0.151) - hellngt</description>
+		<rom name="810eaa02.chd" size="462552895" crc="2f46986f" sha1="a108859c53daa27a0b13efd4fa9803da6d9c0f52"/>
+	</machine>
+	<machine name="MAME (v0.151) - hyperath">
+		<description>MAME (v0.151) - hyperath</description>
+		<rom name="hyperath.chd" size="127120302" crc="d906e420" sha1="eea64397805cb788d15f90189ee62e1557c18a46"/>
+	</machine>
+	<machine name="MAME (v0.151) - kbm3rd">
+		<description>MAME (v0.151) - kbm3rd</description>
+		<rom name="a12jaa01.chd" size="567340547" crc="65901711" sha1="d1b2240bf8eff75eef8bfff9dcaf8cf2a55a0d77"/>
+		<rom name="a12jaa02.chd" size="716754688" crc="28807d4c" sha1="3caa3725a8c36d0963e5bf63cba2e69d88e8fd6e"/>
+	</machine>
+	<machine name="MAME (v0.151) - mamboagg">
+		<description>MAME (v0.151) - mamboagg</description>
+		<rom name="a40jab02.chd" size="167919851" crc="8f14b4fc" sha1="8f17a728ffebcca2182893827a1de951f0783186"/>
+	</machine>
+	<machine name="MAME (v0.151) - pnchmna">
+		<description>MAME (v0.151) - pnchmna</description>
+		<rom name="918jab02.chd" size="43635478" crc="560d3abb" sha1="5d0249bf3cf0ce0ad564fba838deaba90875b97a"/>
+	</machine>
+	<machine name="MAME (v0.151) - polystar">
+		<description>MAME (v0.151) - polystar</description>
+		<rom name="623jaa02.chd" size="142413177" crc="1e9c7a9a" sha1="f8a3e27c57536cea29a3aa6c041acf893aa44a69"/>
+	</machine>
+	<machine name="MAME (v0.151) - powyakex">
+		<description>MAME (v0.151) - powyakex</description>
+		<rom name="802jab02.chd" size="15712764" crc="b704740c" sha1="37774b6fabf5446708c6c84c50f7448385e5828f"/>
+	</machine>
+	<machine name="MAME (v0.151) - salarymc">
+		<description>MAME (v0.151) - salarymc</description>
+		<rom name="gca18jaa.chd" size="6421539" crc="eb98513c" sha1="92199d80ecbafa3de3f5ec1c010992bab82d0356"/>
+	</machine>
+	<machine name="MAME (v0.151) - tokimosh">
+		<description>MAME (v0.151) - tokimosh</description>
+		<rom name="755jaa01.chd" size="146629914" crc="cb166979" sha1="34d9e299582895b16f899b936cccd18ec12dd503"/>
+	</machine>
+	<machine name="MAME (v0.151) - tokimosp">
+		<description>MAME (v0.151) - tokimosp</description>
+		<rom name="756jab01.chd" size="147121054" crc="2561d672" sha1="f8143947e0e68ec813bca956628069727d44c9bc"/>
+	</machine>
+	<machine name="MAME (v0.152) - beachspi">
+		<description>MAME (v0.152) - beachspi</description>
+		<rom name="gds-0014.chd" size="192689973" crc="83e6deec" sha1="fd55edae87fed0a88d14d8885d2125968964c3ac"/>
+	</machine>
+	<machine name="MAME (v0.152) - cfield">
+		<description>MAME (v0.152) - cfield</description>
+		<rom name="gdl-0025.chd" size="135760031" crc="0bfee276" sha1="0a93182c1c11d3346ef8f6603c88318c56b1bdbd"/>
+	</machine>
+	<machine name="MAME (v0.152) - cvsgd">
+		<description>MAME (v0.152) - cvsgd</description>
+		<rom name="gdl-0004.chd" size="174474158" crc="1012e9e7" sha1="ecf7945ac1c17572abfb75a28f8bab8ec4433c26"/>
+	</machine>
+	<machine name="MAME (v0.152) - ggxx">
+		<description>MAME (v0.152) - ggxx</description>
+		<rom name="gdl-0011.chd" size="318719718" crc="ea87fa35" sha1="26e03290057084760869714b30e651007604d475"/>
+	</machine>
+	<machine name="MAME (v0.152) - ggxxrl">
+		<description>MAME (v0.152) - ggxxrl</description>
+		<rom name="gdl-0019a.chd" size="324010285" crc="94e723bb" sha1="d18fd461369ed0fce43f4511e065c60a56ae1960"/>
+	</machine>
+	<machine name="MAME (v0.152) - ggxxsla">
+		<description>MAME (v0.152) - ggxxsla</description>
+		<rom name="gdl-0033a.chd" size="318108086" crc="334197f9" sha1="467f6ec84276493b74a55677efc21b9aee9c65d6"/>
+	</machine>
+	<machine name="MAME (v0.152) - gundmgd">
+		<description>MAME (v0.152) - gundmgd</description>
+		<rom name="gdl-0001.chd" size="196387854" crc="64ab3824" sha1="6ffdaf22a484330f9aa7bf05a8eb9b1780bb3f4a"/>
+	</machine>
+	<machine name="MAME (v0.152) - gundmxgd">
+		<description>MAME (v0.152) - gundmxgd</description>
+		<rom name="gdl-0006.chd" size="233042282" crc="d5fdbc48" sha1="85df0a2ce750723dcf6609d6ffe31d905033fc7a"/>
+	</machine>
+	<machine name="MAME (v0.152) - meltybld">
+		<description>MAME (v0.152) - meltybld</description>
+		<rom name="gdl-0028c.chd" size="283015605" crc="cfaef2f3" sha1="73b8e61a0e16fc1f1bd1127719eadf8ab287c68f"/>
+	</machine>
+	<machine name="MAME (v0.152) - quizqgd">
+		<description>MAME (v0.152) - quizqgd</description>
+		<rom name="gdl-0017.chd" size="188359102" crc="822add06" sha1="613ddd9a124fe617584052aa942dccba73c0b4b0"/>
+	</machine>
+	<machine name="MAME (v0.152) - sfz3ugd">
+		<description>MAME (v0.152) - sfz3ugd</description>
+		<rom name="gdl-0002.chd" size="167126431" crc="7feb1979" sha1="6473452eae81f233af8786635eba4c0112144bee"/>
+	</machine>
+	<machine name="MAME (v0.152) - slashout">
+		<description>MAME (v0.152) - slashout</description>
+		<rom name="gds-0004.chd" size="188407975" crc="ee43d259" sha1="c4dba8ce8e998f512d52f5d6d84fcd6809e17be1"/>
+	</machine>
+	<machine name="MAME (v0.152) - spkrbtl">
+		<description>MAME (v0.152) - spkrbtl</description>
+		<rom name="gds-0005.chd" size="203023544" crc="1d261179" sha1="db52f292b2bfe649227828f33474678d2f55aba4"/>
+	</machine>
+	<machine name="MAME (v0.152) - vathlete">
+		<description>MAME (v0.152) - vathlete</description>
+		<rom name="gds-0019.chd" size="135632723" crc="d321d255" sha1="a2d3ec7153cd2e6ae2a04e0b99f5f934f0e77526"/>
+	</machine>
+	<machine name="MAME (v0.152) - vf4c">
+		<description>MAME (v0.152) - vf4c</description>
+		<rom name="gds-0012c.chd" size="185287867" crc="7d203ba8" sha1="33b5ecfc2f8acf4c1ad21d7968973de7c58f7844"/>
+	</machine>
+	<machine name="MAME (v0.152) - vf4evoa">
+		<description>MAME (v0.152) - vf4evoa</description>
+		<rom name="gds-0024a.chd" size="179216366" crc="a9589b46" sha1="4e5c28499ab2478fd663f77a6cf4eb57d5b0f06d"/>
+	</machine>
+	<machine name="MAME (v0.152) - vtennisg">
+		<description>MAME (v0.152) - vtennisg</description>
+		<rom name="gds-0011.chd" size="93499961" crc="91cc31bf" sha1="9dc876877835c71604ade0c6c68df762edb2e29c"/>
+	</machine>
+	<machine name="MAME (v0.152) - wsbbgd">
+		<description>MAME (v0.152) - wsbbgd</description>
+		<rom name="gds-0010.chd" size="212923146" crc="c8e912b2" sha1="51fe9b84e32b930ee5c07ea6520a9849d4f0c7f2"/>
+	</machine>
+	<machine name="MAME (v0.153) - azumanga">
+		<description>MAME (v0.153) - azumanga</description>
+		<rom name="gdl-0018.chd" size="114661865" crc="193bff2e" sha1="4402f208b066aa6468e5017ec177e51742e61cda"/>
+	</machine>
+	<machine name="MAME (v0.153) - bdrdown">
+		<description>MAME (v0.153) - bdrdown</description>
+		<rom name="gdl-0023a.chd" size="252806642" crc="baa4d9c9" sha1="8aaa97e20e76b6b7a5672a0f040687be6892b3e8"/>
+	</machine>
+	<machine name="MAME (v0.153) - beachspi">
+		<description>MAME (v0.153) - beachspi</description>
+		<rom name="gds-0014.chd" size="131369947" crc="5733e0b1" sha1="0a7df90bb719f70da16b907ee1a4417c680dbffa"/>
+	</machine>
+	<machine name="MAME (v0.153) - cfield">
+		<description>MAME (v0.153) - cfield</description>
+		<rom name="gdl-0025.chd" size="142936723" crc="d6e95887" sha1="2fad267a1df1bb65c6d263b98590740a4085de71"/>
+	</machine>
+	<machine name="MAME (v0.153) - chocomk">
+		<description>MAME (v0.153) - chocomk</description>
+		<rom name="gdl-0014a.chd" size="94365479" crc="f5bc8b16" sha1="eded4a8f98b34e8be48ab2198b12f32305aeb7c6"/>
+	</machine>
+	<machine name="MAME (v0.153) - confmiss">
+		<description>MAME (v0.153) - confmiss</description>
+		<rom name="gds-0001.chd" size="125704286" crc="c7870e39" sha1="95de4defb4857ced393873c0053591131f814411"/>
+	</machine>
+	<machine name="MAME (v0.153) - crtaxihr">
+		<description>MAME (v0.153) - crtaxihr</description>
+		<rom name="gdx-0002b.chd" size="340238198" crc="5bb805ff" sha1="4d11f0cf5c17cd2f4619304aac1d4863c8ece175"/>
+	</machine>
+	<machine name="MAME (v0.153) - cvs2gd">
+		<description>MAME (v0.153) - cvs2gd</description>
+		<rom name="gdl-0007a.chd" size="158176340" crc="63d48d6c" sha1="de400c5a57c98bcf58afb703cf2b265798285455"/>
+	</machine>
+	<machine name="MAME (v0.153) - cvsgd">
+		<description>MAME (v0.153) - cvsgd</description>
+		<rom name="gdl-0004.chd" size="124365887" crc="43197912" sha1="babfb729a4f3e39c4d3962a14a71adaa5928ca43"/>
+	</machine>
+	<machine name="MAME (v0.153) - dygolf">
+		<description>MAME (v0.153) - dygolf</description>
+		<rom name="gds-0009a.chd" size="67113576" crc="3b7e33c7" sha1="32fc10e08a3650eba19a8e7661ddaa634fe6530a"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxx">
+		<description>MAME (v0.153) - ggxx</description>
+		<rom name="gdl-0011.chd" size="255514829" crc="2e1ece88" sha1="6ad32f106ece76c859f729120645f51321dca0c5"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxxac">
+		<description>MAME (v0.153) - ggxxac</description>
+		<rom name="gdl-0041.chd" size="324388951" crc="f0cfeb87" sha1="90470772f52db3478ba6026bb7332f7f92a29862"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxxrl">
+		<description>MAME (v0.153) - ggxxrl</description>
+		<rom name="gdl-0019a.chd" size="260343461" crc="70b18d4f" sha1="7a47bb14f8360b1cdb456d8d6e5aa4415f279fd3"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxxsla">
+		<description>MAME (v0.153) - ggxxsla</description>
+		<rom name="gdl-0033a.chd" size="254905804" crc="b26fb4da" sha1="2dab26a136b0342023d4ef7aa7502d14c75f1fbb"/>
+	</machine>
+	<machine name="MAME (v0.153) - gundmgd">
+		<description>MAME (v0.153) - gundmgd</description>
+		<rom name="gdl-0001.chd" size="140875373" crc="1eaa777d" sha1="705d7f40682b7f7d7766a6904bbbec5f2c9ce36f"/>
+	</machine>
+	<machine name="MAME (v0.153) - gundmxgd">
+		<description>MAME (v0.153) - gundmxgd</description>
+		<rom name="gdl-0006.chd" size="172963371" crc="730bb900" sha1="580669dcf6e32dd175c1c05c9e929f2b3483b630"/>
+	</machine>
+	<machine name="MAME (v0.153) - ikaruga">
+		<description>MAME (v0.153) - ikaruga</description>
+		<rom name="gdl-0010.chd" size="63063799" crc="4bc2457a" sha1="b72e2b598c63b0d176155769c11b9c0224bd591f"/>
+	</machine>
+	<machine name="MAME (v0.153) - inidv3cy">
+		<description>MAME (v0.153) - inidv3cy</description>
+		<rom name="gds-0039b.chd" size="287425640" crc="11d5709c" sha1="3fa1924212c338358294de1172e8b1865d22c845"/>
+	</machine>
+	<machine name="MAME (v0.153) - initdexp">
+		<description>MAME (v0.153) - initdexp</description>
+		<rom name="gds-0025.chd" size="168876822" crc="414c784a" sha1="842bb29014200eafe9a089289da6051393b94f2d"/>
+	</machine>
+	<machine name="MAME (v0.153) - initdv3e">
+		<description>MAME (v0.153) - initdv3e</description>
+		<rom name="gds-0033.chd" size="236933110" crc="c55ef797" sha1="9dd96a566382f05fee17956a45d49359ed076843"/>
+	</machine>
+	<machine name="MAME (v0.153) - initdv3j">
+		<description>MAME (v0.153) - initdv3j</description>
+		<rom name="gds-0032c.chd" size="242678671" crc="414a4e04" sha1="82a4df65959ef1293261720cfcc7b7b72cc52dcc"/>
+	</machine>
+	<machine name="MAME (v0.153) - karous">
+		<description>MAME (v0.153) - karous</description>
+		<rom name="gdl-0040.chd" size="164571831" crc="c5e0264f" sha1="1b3c081beae91a716aadab33bbc1bb14681f1f88"/>
+	</machine>
+	<machine name="MAME (v0.153) - kurucham">
+		<description>MAME (v0.153) - kurucham</description>
+		<rom name="gdl-0034.chd" size="27837953" crc="f9fb92e4" sha1="7f84a7cfe378460c9d5fdfcb9956fd8e585023fc"/>
+	</machine>
+	<machine name="MAME (v0.153) - meltyba">
+		<description>MAME (v0.153) - meltyba</description>
+		<rom name="gdl-0039a.chd" size="269449695" crc="cc153686" sha1="63178b2235140d7f4c5957317f1ca0097b4ac902"/>
+	</machine>
+	<machine name="MAME (v0.153) - meltybld">
+		<description>MAME (v0.153) - meltybld</description>
+		<rom name="gdl-0028c.chd" size="218504259" crc="c565ef45" sha1="4e912056204f660438ddd66280a16ed98a848f49"/>
+	</machine>
+	<machine name="MAME (v0.153) - mj3f">
+		<description>MAME (v0.153) - mj3f</description>
+		<rom name="gdx-0017f.chd" size="1049850373" crc="53d36570" sha1="0cb77227f1c88decff46bd0f8854286b1483deb0"/>
+	</machine>
+	<machine name="MAME (v0.153) - mok">
+		<description>MAME (v0.153) - mok</description>
+		<rom name="gds-0022.chd" size="139888782" crc="c1ed867d" sha1="a95192816177d4451e2e4535e0ec72eb9b5d7d9c"/>
+	</machine>
+	<machine name="MAME (v0.153) - ndcfboxa">
+		<description>MAME (v0.153) - ndcfboxa</description>
+		<rom name="gds-0042a.chd" size="13294335" crc="043d2b8b" sha1="146dfab865d9ebaf2b62bf23f8ffe5a9ead8c19c"/>
+	</machine>
+	<machine name="MAME (v0.153) - ngdup23a">
+		<description>MAME (v0.153) - ngdup23a</description>
+		<rom name="gds-0023a.chd" size="14062172" crc="a4f68bd8" sha1="d4339d98609c3a771c848bd97da41fda5db97152"/>
+	</machine>
+	<machine name="MAME (v0.153) - ngdup23c">
+		<description>MAME (v0.153) - ngdup23c</description>
+		<rom name="gds-0023c.chd" size="6947902" crc="5aeaa78e" sha1="05a9dc922697c52562d91b40f0195af05f13b3e7"/>
+	</machine>
+	<machine name="MAME (v0.153) - ngdup23e">
+		<description>MAME (v0.153) - ngdup23e</description>
+		<rom name="gds-0023e.chd" size="12491197" crc="1f2c4ed1" sha1="039f711dc22e82c511eef64aef705c8eaf525c1d"/>
+	</machine>
+	<machine name="MAME (v0.153) - psyvar2">
+		<description>MAME (v0.153) - psyvar2</description>
+		<rom name="gdl-0024.chd" size="175795699" crc="1e698fcb" sha1="6272882fd2aa97e49132dc114a84a4e6d30aeaef"/>
+	</machine>
+	<machine name="MAME (v0.153) - puyofev">
+		<description>MAME (v0.153) - puyofev</description>
+		<rom name="gds-0031.chd" size="190396027" crc="b3613b39" sha1="2c9e99a560f23fbc6c79d8109d75f7c611ebd2f8"/>
+	</machine>
+	<machine name="MAME (v0.153) - quizqgd">
+		<description>MAME (v0.153) - quizqgd</description>
+		<rom name="gdl-0017.chd" size="134027017" crc="9a948091" sha1="64197b91709f9ec5ec53a322693d2570784abc88"/>
+	</machine>
+	<machine name="MAME (v0.153) - radirgya">
+		<description>MAME (v0.153) - radirgya</description>
+		<rom name="gdl-0032a.chd" size="172234942" crc="cb2a1345" sha1="27de2504edaa4a0eed892759756b61af4515356a"/>
+	</machine>
+	<machine name="MAME (v0.153) - senko">
+		<description>MAME (v0.153) - senko</description>
+		<rom name="gdl-0030a.chd" size="299394707" crc="1d13eba6" sha1="2c37e2b5a855a4ecf5963bc66faead3ccc847eba"/>
+	</machine>
+	<machine name="MAME (v0.153) - senkoo">
+		<description>MAME (v0.153) - senkoo</description>
+		<rom name="gdl-0030.chd" size="227193468" crc="2e6c3c17" sha1="870b7aec10bd89444febfd0e127768e3f793db7d"/>
+	</machine>
+	<machine name="MAME (v0.153) - senkosp">
+		<description>MAME (v0.153) - senkosp</description>
+		<rom name="gdl-0038.chd" size="242348375" crc="0579c8b2" sha1="99d888331a99a6353c22a561f89fcca7f8f94358"/>
+	</machine>
+	<machine name="MAME (v0.153) - sfz3ugd">
+		<description>MAME (v0.153) - sfz3ugd</description>
+		<rom name="gdl-0002.chd" size="110668541" crc="fcb9f62e" sha1="4cf14912d95c1d288212e1762aa58002e7a6b0f6"/>
+	</machine>
+	<machine name="MAME (v0.153) - shaktamb">
+		<description>MAME (v0.153) - shaktamb</description>
+		<rom name="gds-0016.chd" size="182110732" crc="30a0e8ee" sha1="f34bbbf0fc8b22f7bc5203699266e8d4059f25fb"/>
+	</machine>
+	<machine name="MAME (v0.153) - shaktmsp">
+		<description>MAME (v0.153) - shaktmsp</description>
+		<rom name="gds-0013.chd" size="175444285" crc="f5891192" sha1="0d2e2efc0654adac5a857468fa1bb85284f7890b"/>
+	</machine>
+	<machine name="MAME (v0.153) - shikgam2">
+		<description>MAME (v0.153) - shikgam2</description>
+		<rom name="gdl-0021.chd" size="144846496" crc="abe09c22" sha1="e004d412aeb5040d5ddfd43fbffd11ec972447a9"/>
+	</machine>
+	<machine name="MAME (v0.153) - slashout">
+		<description>MAME (v0.153) - slashout</description>
+		<rom name="gds-0004.chd" size="137216329" crc="fb2db9e1" sha1="c2d03acb5b64b1a346cc54a6d1b9bee0435332f2"/>
+	</machine>
+	<machine name="MAME (v0.153) - spkrbtl">
+		<description>MAME (v0.153) - spkrbtl</description>
+		<rom name="gds-0005.chd" size="147597429" crc="134477c6" sha1="25087effa6f3c7014a9c8fbfae818fdf264b4206"/>
+	</machine>
+	<machine name="MAME (v0.153) - sprtjam">
+		<description>MAME (v0.153) - sprtjam</description>
+		<rom name="gds-0003.chd" size="123524257" crc="5438574d" sha1="c007927671f4c572ab3bc32e4af5ad374ac691d4"/>
+	</machine>
+	<machine name="MAME (v0.153) - ss2005">
+		<description>MAME (v0.153) - ss2005</description>
+		<rom name="gdl-0031.chd" size="58281836" crc="9d05ee04" sha1="5bb153603d252966fac3ed1da62fce572d00f011"/>
+	</machine>
+	<machine name="MAME (v0.153) - starseek">
+		<description>MAME (v0.153) - starseek</description>
+		<rom name="gdl-0005.chd" size="57606352" crc="9ce70bf4" sha1="171b485dca86d9f009202b5058a6eb27cfdacf39"/>
+	</machine>
+	<machine name="MAME (v0.153) - tetkiwam">
+		<description>MAME (v0.153) - tetkiwam</description>
+		<rom name="gdl-0020.chd" size="52296075" crc="b747a6b8" sha1="39f107ae2a403c7b12341e1ccd3d8e1071a7c989"/>
+	</machine>
+	<machine name="MAME (v0.153) - trgheart">
+		<description>MAME (v0.153) - trgheart</description>
+		<rom name="gdl-0036a.chd" size="123367223" crc="96203401" sha1="1c299f8f386d31a386213b5fc274cf538af25f43"/>
+	</machine>
+	<machine name="MAME (v0.153) - trizeal">
+		<description>MAME (v0.153) - trizeal</description>
+		<rom name="gdl-0026.chd" size="169523668" crc="a3d18ed1" sha1="d724a954a2581d9e7550a0d0f405376ad605427e"/>
+	</machine>
+	<machine name="MAME (v0.153) - undefeat">
+		<description>MAME (v0.153) - undefeat</description>
+		<rom name="gdl-0035.chd" size="190983547" crc="f0b0cd42" sha1="fa5b3729dbff26ddee35f5f720c61a0132f8d7ed"/>
+	</machine>
+	<machine name="MAME (v0.153) - vathlete">
+		<description>MAME (v0.153) - vathlete</description>
+		<rom name="gds-0019.chd" size="83677268" crc="8cd805ba" sha1="2930d600271321913acf13590e0f362dfa0e1c3e"/>
+	</machine>
+	<machine name="MAME (v0.153) - vcop3">
+		<description>MAME (v0.153) - vcop3</description>
+		<rom name="gdx-0003a.chd" size="1018845340" crc="2f27f6f8" sha1="4a31b5d54a94f1d185b462045bd87d996839f870"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4c">
+		<description>MAME (v0.153) - vf4c</description>
+		<rom name="gds-0012c.chd" size="216357785" crc="05f11b6d" sha1="95370fb2de0da1e436656a46235c683cdaa317c8"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4evo">
+		<description>MAME (v0.153) - vf4evo</description>
+		<rom name="gds-0024b.chd" size="190728500" crc="85aa32b7" sha1="28ac9f79a53578fc6d7184e3170caacf9a556de2"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4evoa">
+		<description>MAME (v0.153) - vf4evoa</description>
+		<rom name="gds-0024a.chd" size="190689565" crc="47c666eb" sha1="6ec355fa87dc6ff4b3cdfe879c72e0bcac285ed7"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4tuned">
+		<description>MAME (v0.153) - vf4tuned</description>
+		<rom name="gds-0036f.chd" size="500996060" crc="4c1bfbf1" sha1="b523b9edf4f3b5a6922f2db06404a05bc268fa2b"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4tuneda">
+		<description>MAME (v0.153) - vf4tuneda</description>
+		<rom name="gds-0036a.chd" size="206212326" crc="a9b5ecaa" sha1="fda0529cdcb38d22279153986712afdb03b0dbaf"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4tunedd">
+		<description>MAME (v0.153) - vf4tunedd</description>
+		<rom name="gds-0036d.chd" size="206215476" crc="d1037c6d" sha1="5f05d6ba36a97dea223991ebd42df97db851061f"/>
+	</machine>
+	<machine name="MAME (v0.153) - vs2002ex">
+		<description>MAME (v0.153) - vs2002ex</description>
+		<rom name="gdt-0002.chd" size="310373443" crc="d14bfb5d" sha1="8be2639cd6c8a666e831da4bbed5ddff41cd3ec1"/>
+	</machine>
+	<machine name="MAME (v0.153) - vs4">
+		<description>MAME (v0.153) - vs4</description>
+		<rom name="gdt-0015.chd" size="396664858" crc="6914d079" sha1="6248c505d0d2fe3259aba39f6da8bb7a1017febb"/>
+	</machine>
+	<machine name="MAME (v0.153) - vs4j">
+		<description>MAME (v0.153) - vs4j</description>
+		<rom name="gdt-0013e.chd" size="385489420" crc="1aad06dc" sha1="842eb00be5c492487f699eba4834be17231b1a0a"/>
+	</machine>
+	<machine name="MAME (v0.153) - vstrik3">
+		<description>MAME (v0.153) - vstrik3</description>
+		<rom name="gds-0006.chd" size="146045136" crc="2ee94560" sha1="72248de84241fd1db26aae6ed319b2fa5db5759c"/>
+	</machine>
+	<machine name="MAME (v0.153) - vtennis2">
+		<description>MAME (v0.153) - vtennis2</description>
+		<rom name="gds-0015a.chd" size="120591430" crc="537f89b7" sha1="f58ad7693e3fd938689bb381d0e193187d9218f5"/>
+	</machine>
+	<machine name="MAME (v0.153) - vtennisg">
+		<description>MAME (v0.153) - vtennisg</description>
+		<rom name="gds-0011.chd" size="48195684" crc="f45a3228" sha1="d6519aa994b25d51db3af915009e187ad893048a"/>
+	</machine>
+	<machine name="MAME (v0.153) - wsbbgd">
+		<description>MAME (v0.153) - wsbbgd</description>
+		<rom name="gds-0010.chd" size="158625709" crc="a2d698ff" sha1="48d38690f2f434f3e5e5fbcedc3891266c195a52"/>
+	</machine>
+	<machine name="MAME (v0.154) - bmiidx5">
+		<description>MAME (v0.154) - bmiidx5</description>
+		<rom name="a17jaa01.chd" size="25781586" crc="ec503200" sha1="5b44d3490abd901995d58ed418a9d73751c49995"/>
+		<rom name="a17jaa02.chd" size="556920723" crc="6696c497" sha1="5401905ee44380d412e288e1bd7ab7b0e103d577"/>
+	</machine>
+	<machine name="MAME (v0.154) - initdv2j">
+		<description>MAME (v0.154) - initdv2j</description>
+		<rom name="gds-0026b.chd" size="216468386" crc="bab435e8" sha1="54d0bdd5f61b1de030013b2e459f76fa343cab0d"/>
+	</machine>
+	<machine name="MAME (v0.156) - meltyb">
+		<description>MAME (v0.156) - meltyb</description>
+		<rom name="gdl-0039.chd" size="264302637" crc="cc45bbd2" sha1="98300d4e82bc038fe852721c05937613cdca463a"/>
+	</machine>
+	<machine name="MAME (v0.158) - avalon13">
+		<description>MAME (v0.158) - avalon13</description>
+		<rom name="gdt-0010c.chd" size="505410510" crc="8ad05384" sha1="c7fa0f71cddaca548dde54895812aaa46bb094bc"/>
+	</machine>
+	<machine name="MAME (v0.158) - avalons">
+		<description>MAME (v0.158) - avalons</description>
+		<rom name="gdt-0005c.chd" size="363664022" crc="7dc98c85" sha1="81df1b053da9a9403e556c85f44dbe3aff7aa6e8"/>
+	</machine>
+	<machine name="MAME (v0.158) - gekpurya">
+		<description>MAME (v0.158) - gekpurya</description>
+		<rom name="gdt-0008c.chd" size="410959490" crc="5af0230b" sha1="1e7046607aff6bbacfa7e1a039347b466b1fd233"/>
+	</machine>
+	<machine name="MAME (v0.158) - outr2">
+		<description>MAME (v0.158) - outr2</description>
+		<rom name="gdx-0004a.chd" size="755131966" crc="1f6442a3" sha1="18a30733dbd2ab875bec303c4bb538b344b02b7b"/>
+	</machine>
+	<machine name="MAME (v0.158) - vs2002j">
+		<description>MAME (v0.158) - vs2002j</description>
+		<rom name="gdt-0001.chd" size="235268067" crc="896d95bc" sha1="502d9b10f4e1ee6872d50d803e0ad7273c62b6f6"/>
+	</machine>
+	<machine name="MAME (v0.158) - wangmid">
+		<description>MAME (v0.158) - wangmid</description>
+		<rom name="gdx-0009b.chd" size="866729416" crc="8042190f" sha1="8df954e3129dc42a687760747ccef768abb12645"/>
+	</machine>
+	<machine name="MAME (v0.164) - gauntleg12">
+		<description>MAME (v0.164) - gauntleg12</description>
+		<rom name="gauntl12.chd" size="949014008" crc="a91e05d6" sha1="124b150164d82c8771fe6f7b7a748cf10a5c4dc7"/>
+	</machine>
+	<machine name="MAME (v0.165) - drmn8m">
+		<description>MAME (v0.165) - drmn8m</description>
+		<rom name="c38jaa02.chd" size="372734113" crc="52b7c4a3" sha1="9dfe9f3d0b85446f995173c76b05d1e63d0c52cd"/>
+		<rom name="c38jba02.chd" size="430594041" crc="5ae55650" sha1="94ea1289b9135306d0bea0dafb1a2e08316a0a96"/>
+	</machine>
+	<machine name="MAME (v0.165) - gtrfrk9m">
+		<description>MAME (v0.165) - gtrfrk9m</description>
+		<rom name="c39jaa02.chd" size="631229732" crc="0e2fac40" sha1="6c580a45a09bf4c37d29f20e553da0862484f658"/>
+	</machine>
+	<machine name="MAME (v0.165) - initd">
+		<description>MAME (v0.165) - initd</description>
+		<rom name="gds-0020b.chd" size="230089938" crc="04fa8b76" sha1="1e4129dac9c7791a38cc47aa79dbca64a933165c"/>
+	</machine>
+	<machine name="MAME (v0.165) - initdv2jo">
+		<description>MAME (v0.165) - initdv2jo</description>
+		<rom name="gds-0026.chd" size="275432131" crc="50007043" sha1="478f5c10aa77d543ee962a91754ea6b0544b6e01"/>
+	</machine>
+	<machine name="MAME (v0.165) - jingystm">
+		<description>MAME (v0.165) - jingystm</description>
+		<rom name="gdl-0037.chd" size="193899763" crc="51f0a217" sha1="b699a189b0d51d3c066218cb6dfa2afb330fd4a3"/>
+	</machine>
+	<machine name="MAME (v0.165) - keyboard">
+		<description>MAME (v0.165) - keyboard</description>
+		<rom name="gds-0017.chd" size="22155209" crc="33482c52" sha1="4c6f3bde54884ce7cf7b0dc240cb915ae34c2b15"/>
+	</machine>
+	<machine name="MAME (v0.165) - luptype">
+		<description>MAME (v0.165) - luptype</description>
+		<rom name="gds-0021a.chd" size="208926095" crc="2d9bf8ed" sha1="3258210560f3d4b5d79f6ec47f7c92e9464914fb"/>
+	</machine>
+	<machine name="MAME (v0.165) - moeru">
+		<description>MAME (v0.165) - moeru</description>
+		<rom name="gdl-0013.chd" size="148713897" crc="d8efe200" sha1="9114156a378c7422b35d63f974677a413090d121"/>
+	</machine>
+	<machine name="MAME (v0.165) - soulcl2w">
+		<description>MAME (v0.165) - soulcl2w</description>
+		<rom name="sc21-dvd0b.chd" size="736424920" crc="ebfa408f" sha1="62a2fef8018c25e595560a7a678c7ffd79c07238"/>
+	</machine>
+	<machine name="MAME (v0.165) - ss2005a">
+		<description>MAME (v0.165) - ss2005a</description>
+		<rom name="gdl-0031a.chd" size="105854461" crc="76285fa8" sha1="183a963f65c18d7bf7e520cc6cfe6e6ee3218cf1"/>
+	</machine>
+	<machine name="MAME (v0.165) - usagiym">
+		<description>MAME (v0.165) - usagiym</description>
+		<rom name="gdl-0022.chd" size="105337849" crc="621b446a" sha1="c65b1c48d42fe41685e8cdb9769d6fc2ae05279d"/>
+	</machine>
+	<machine name="MAME (v0.165) - vf4">
+		<description>MAME (v0.165) - vf4</description>
+		<rom name="gds-0012.chd" size="274741443" crc="6f3bd572" sha1="3f9d81c55945854a8ee5528039aec480e71da275"/>
+	</machine>
+	<machine name="MAME (v0.170) - mj2g">
+		<description>MAME (v0.170) - mj2g</description>
+		<rom name="gdx-0006g.chd" size="232082353" crc="696da812" sha1="5b521302701b3129b18736ad93691329edc13825"/>
+	</machine>
+	<machine name="MAME (v0.170) - snowboar">
+		<description>MAME (v0.170) - snowboar</description>
+		<rom name="snowboar.chd" size="60067375" crc="10696e45" sha1="bf8a7f51644a1e2890e91c139ab2afe7b3af7455"/>
+	</machine>
+	<machine name="MAME (v0.170) - wcombatj">
+		<description>MAME (v0.170) - wcombatj</description>
+		<rom name="c22a02.chd" size="64846351" crc="97a74be3" sha1="9a3a77f92e6111ab03eecbd4d2b90750e2e0291b"/>
+	</machine>
+	<machine name="MAME (v0.183) - ollie">
+		<description>MAME (v0.183) - ollie</description>
+		<rom name="gdx-0007.chd" size="660890678" crc="d8c91d64" sha1="eb7460b305831eb95edd0ac9f371ecb4ce4d0ea9"/>
+	</machine>
+	<machine name="MAME (v0.183) - takoron">
+		<description>MAME (v0.183) - takoron</description>
+		<rom name="gdl-0042.chd" size="93437916" crc="ae9e25d8" sha1="b984ff17de0af587545793b62ab872169709c6be"/>
+	</machine>
+	<machine name="MAME (v0.183) - vf4b">
+		<description>MAME (v0.183) - vf4b</description>
+		<rom name="gds-0012b.chd" size="196003492" crc="419c7ed8" sha1="4a3a6a54b9599a3c77c29a17275e13a60751a0fb"/>
+	</machine>
+	<machine name="MAME (v0.184) - avalon20">
+		<description>MAME (v0.184) - avalon20</description>
+		<rom name="gdt-0017b.chd" size="752624579" crc="755b150e" sha1="26330a3002b9ea92869a2941a7feb6303551ea2f"/>
+	</machine>
+	<machine name="MAME (v0.184) - cleoftp">
+		<description>MAME (v0.184) - cleoftp</description>
+		<rom name="gdl-0012.chd" size="110731452" crc="4b862953" sha1="cbbbed359cb30f41e34ba6fb6ef06f962936464f"/>
+	</machine>
+	<machine name="MAME (v0.184) - ghostsqu">
+		<description>MAME (v0.184) - ghostsqu</description>
+		<rom name="gdx-0012a.chd" size="976544205" crc="127732f9" sha1="906fca7b6ce8ba4ab9d8544314861f64867238bb"/>
+	</machine>
+	<machine name="MAME (v0.184) - gundamos">
+		<description>MAME (v0.184) - gundamos</description>
+		<rom name="gdx-0013.chd" size="271388484" crc="4f227d68" sha1="8943364b5768358a973af788fc853a83b09eeb2b"/>
+	</machine>
+	<machine name="MAME (v0.184) - hotd3">
+		<description>MAME (v0.184) - hotd3</description>
+		<rom name="gdx-0001.chd" size="449018731" crc="5b52f549" sha1="93c91640e2b6116964840f07d7e3931824e1564f"/>
+	</machine>
+	<machine name="MAME (v0.184) - initdv2e">
+		<description>MAME (v0.184) - initdv2e</description>
+		<rom name="gds-0027.chd" size="214378433" crc="4cd2c07f" sha1="a7f15d1e0cc4ed2a4b8e58474b3a9d2cc7feaf25"/>
+	</machine>
+	<machine name="MAME (v0.184) - initdv3jb">
+		<description>MAME (v0.184) - initdv3jb</description>
+		<rom name="gds-0032b.chd" size="305188953" crc="88c6567b" sha1="0cf41d8c0b1e4c914a515f6d76381b7a203e7248"/>
+	</machine>
+	<machine name="MAME (v0.184) - jnero">
+		<description>MAME (v0.184) - jnero</description>
+		<rom name="jn010108.chd" size="502722988" crc="9df85c54" sha1="9bd06f6884512a18d8441182203c36f6a92c1611"/>
+	</machine>
+	<machine name="MAME (v0.184) - kov3hd">
+		<description>MAME (v0.184) - kov3hd</description>
+		<rom name="kov3hd_v105.chd" size="3256373204" crc="09c2f925" sha1="68b163aa7adf153f05a513fa767cd80a9c3095e2"/>
+	</machine>
+	<machine name="MAME (v0.184) - lupinsho">
+		<description>MAME (v0.184) - lupinsho</description>
+		<rom name="gds-0018.chd" size="271771062" crc="9fb1aa6a" sha1="9101e22e5e8cae0fc746c883a39f3aed84f8999f"/>
+	</machine>
+	<machine name="MAME (v0.184) - mj2c">
+		<description>MAME (v0.184) - mj2c</description>
+		<rom name="gdx-0006c.chd" size="697684385" crc="6429bcc6" sha1="a9cac7f80259732ccc97c191c9e5086dcccdacdc"/>
+	</machine>
+	<machine name="MAME (v0.184) - mj3d">
+		<description>MAME (v0.184) - mj3d</description>
+		<rom name="gdx-0017d.chd" size="1044273347" crc="7aa792bc" sha1="91c6145c150dfac28b6d1d5bb466ff12264dce2d"/>
+	</machine>
+	<machine name="MAME (v0.184) - monkeyba">
+		<description>MAME (v0.184) - monkeyba</description>
+		<rom name="gds-0008.chd" size="126507494" crc="1ea413f3" sha1="9faa1630c8302ee0e67e26ca134f47a61e5f1e34"/>
+	</machine>
+	<machine name="MAME (v0.184) - outr2st">
+		<description>MAME (v0.184) - outr2st</description>
+		<rom name="gdx-0014a.chd" size="1015190999" crc="f57d3281" sha1="e53ee622a03006b611407cfeaf989ac538ad6894"/>
+	</machine>
+	<machine name="MAME (v0.184) - radirgyo">
+		<description>MAME (v0.184) - radirgyo</description>
+		<rom name="gdl-0032.chd" size="187841196" crc="58500a0e" sha1="a49ae4d740fbd63cdb7c794d12fd8e96cb2fffb1"/>
+	</machine>
+	<machine name="MAME (v0.184) - scg06nt">
+		<description>MAME (v0.184) - scg06nt</description>
+		<rom name="gdx-0018a.chd" size="791484022" crc="3e9b810a" sha1="880768366a871810c3162dea692dca29eb2170a2"/>
+	</machine>
+	<machine name="MAME (v0.184) - tfupdate">
+		<description>MAME (v0.184) - tfupdate</description>
+		<rom name="gdt-0011.chd" size="54316474" crc="edef1178" sha1="5eeeb495bf54be1117310f2ab050de164c804b8b"/>
+	</machine>
+	<machine name="MAME (v0.184) - wangmid2">
+		<description>MAME (v0.184) - wangmid2</description>
+		<rom name="gdx-0016a.chd" size="793669198" crc="9ae33a69" sha1="8343394377222fbd6ff7251a0614b236d71bd125"/>
+	</machine>
+	<machine name="MAME (v0.184) - wangmid2j">
+		<description>MAME (v0.184) - wangmid2j</description>
+		<rom name="gdx-0015.chd" size="936077235" crc="fb3451fe" sha1="fc3a06c7bbf5d2fdf6564693457b222e2caaac3c"/>
+	</machine>
+	<machine name="MAME (v0.188) - vs42006">
+		<description>MAME (v0.188) - vs42006</description>
+		<rom name="gdt-0020d.chd" size="387223137" crc="bd056378" sha1="04c8fb62e359d36ed78a3bd475734e4d43c3455c"/>
+	</machine>
+	<machine name="MAME (v0.197) - pingu">
+		<description>MAME (v0.197) - pingu</description>
+		<rom name="pingu.chd" size="18143864" crc="cb945496" sha1="23f01a164b991098cb1ffe004bd39822c0a0bc57"/>
+	</machine>
+	<machine name="MAME (v0.198) - pingu">
+		<description>MAME (v0.198) - pingu</description>
+		<rom name="pingu.chd" size="18144392" crc="f63be03f" sha1="18def473778ecb1e27a0cb40c4672212cd93b749"/>
+	</machine>
+	<machine name="MAME (v0.202) - superdbz">
+		<description>MAME (v0.202) - superdbz</description>
+		<rom name="db1.chd" size="184782637" crc="2aa3ed18" sha1="370068c6a10725d0e4ae358ce3f550999b127672"/>
+	</machine>
+	<machine name="MAME (v0.209) - totlvice">
+		<description>MAME (v0.209) - totlvice</description>
+		<rom name="639aab01.chd" size="327747476" crc="f18a4820" sha1="7783af32ffb3ff590aeb42042e0a95a2bb13315d"/>
+	</machine>
+	<machine name="MAME (v0.212) - simpbowl">
+		<description>MAME (v0.212) - simpbowl</description>
+		<rom name="simpbowl.chd" size="26923363" crc="bac88a3d" sha1="773199eff73d3a6caf91f791f248317375b742c4"/>
+	</machine>
+	<machine name="MAME (v0.213) - ggxxsla">
+		<description>MAME (v0.213) - ggxxsla</description>
+		<rom name="gdl-0033a.chd" size="253461553" crc="a3cef3dd" sha1="53904769abb6beec5e20f00fa835e03eba6fcaf2"/>
+	</machine>
+	<machine name="MAME (v0.213) - initdv2j">
+		<description>MAME (v0.213) - initdv2j</description>
+		<rom name="gds-0026a.chd" size="202825815" crc="e5c441e0" sha1="0df90dabe7b923951ebb24245bdf93e288c9a08e"/>
+	</machine>
+	<machine name="MAME (v0.213) - jojo">
+		<description>MAME (v0.213) - jojo</description>
+		<rom name="cap-jjk000.chd" size="45108605" crc="0c3fdec0" sha1="525ae12e7874e45ad1eab435540f96787bc59990"/>
+		<rom name="cap-jjk-2.chd" size="53553201" crc="b2ba5a9e" sha1="83097a71ccd705514f6c36d5fe8cb2fe5856513b"/>
+	</machine>
+	<machine name="MAME (v0.213) - redearth">
+		<description>MAME (v0.213) - redearth</description>
+		<rom name="cap-wzd-5.chd" size="37160624" crc="5e59a938" sha1="167ac99f20b599c3f97570f634717cbb4b7bf659"/>
+	</machine>
+	<machine name="MAME (v0.213) - sfiii">
+		<description>MAME (v0.213) - sfiii</description>
+		<rom name="cap-sf3-3.chd" size="37713368" crc="0f750258" sha1="197c7dd269c686a5c16f42de5ecc6382138984df"/>
+	</machine>
+	<machine name="MAME (v0.213) - sfiii2">
+		<description>MAME (v0.213) - sfiii2</description>
+		<rom name="cap-3ga000.chd" size="43244306" crc="36ce299d" sha1="cec491181bf053aa4b40c3954a9123a99ed26a9f"/>
+	</machine>
+	<machine name="MAME (v0.213) - sfiii3">
+		<description>MAME (v0.213) - sfiii3</description>
+		<rom name="cap-33s-1.chd" size="67848619" crc="241a55c0" sha1="0fe0de2d53810addd250ead2b031481682408bb4"/>
+		<rom name="cap-33s-2.chd" size="81458749" crc="f958c3d5" sha1="957eda3242f9940754662b48b4ffcb86125fa486"/>
+	</machine>
+	<machine name="MAME (v0.214) - jojoba">
+		<description>MAME (v0.214) - jojoba</description>
+		<rom name="cap-jjm-0.chd" size="52904683" crc="7a363145" sha1="81235285ee79cee618a78bcd90b6d4e5fcdef219"/>
+	</machine>
+	<machine name="MAME (v0.214) - tfupdate">
+		<description>MAME (v0.214) - tfupdate</description>
+		<rom name="gdt-0011.chd" size="15408640" crc="b6f8de11" sha1="dc653e0e1c428586837baa5c92c34a7411fc4602"/>
+	</machine>
+	<machine name="MAME (v0.220) - ngdup23a">
+		<description>MAME (v0.220) - ngdup23a</description>
+		<rom name="gds-0023a.chd" size="12648994" crc="7cb5260a" sha1="c93a9c3578ca5e40e6ccbaad5dbc3c30cd8c60e9"/>
+	</machine>
+	<machine name="MAME (v0.221) - vs4j">
+		<description>MAME (v0.221) - vs4j</description>
+		<rom name="gdt-0013c.chd" size="282589525" crc="7c4ea576" sha1="e572ae1ee66c46214f418f2683e88452c9d2eb5e"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidx3">
+		<description>MAME (v0.229) - bmiidx3</description>
+		<rom name="gc992-jaa01.chd" size="13326583" crc="9e24d389" sha1="cc680eefa175cbcb27065a7ade90c2588d6afb62"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidx6">
+		<description>MAME (v0.229) - bmiidx6</description>
+		<rom name="b4ujaa01.chd" size="58951568" crc="6e4ffbec" sha1="a994bb8644664fe611cc7ed0072e95a72c6c8a00"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidx8">
+		<description>MAME (v0.229) - bmiidx8</description>
+		<rom name="c44jaa01.chd" size="66357686" crc="608224b9" sha1="e1b3a5e30dcc70c86e1bc330228fe296ee3ef380"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidxc">
+		<description>MAME (v0.229) - bmiidxc</description>
+		<rom name="896jabbm.chd" size="8156755" crc="54223a3e" sha1="cfe9eb6ab46f044e933e3cbe77517682da46905a"/>
+	</machine>
+	<machine name="MAME (v0.229) - kbm">
+		<description>MAME (v0.229) - kbm</description>
+		<rom name="974jaa02.chd" size="444207541" crc="6ad31478" sha1="9bab8d80a55d041f4bae97a8d699c0689d19a4f1"/>
+		<rom name="974jac01.chd" size="420496022" crc="b69bd936" sha1="8431e87b327d43ded41c301d0e546f2c5ecfccce"/>
+	</machine>
+	<machine name="MAME (v0.229) - kbm2nd">
+		<description>MAME (v0.229) - kbm2nd</description>
+		<rom name="a01jaa01.chd" size="676478407" crc="ab648d61" sha1="4700498cf6b15f1a97cd8569c61f63e63ce52ef1"/>
+		<rom name="a01jaa02.chd" size="586460283" crc="af0a8772" sha1="879b9b24533bcf1d27c590a261aa4ade734af979"/>
+	</machine>
+	<machine name="MAME (v0.231) - pcnfrk4m">
+		<description>MAME (v0.231) - pcnfrk4m</description>
+		<rom name="a25aaa02.chd" size="284983783" crc="ad72605d" sha1="5dc573b5a75140afe45df8cd409a07a92499b9eb"/>
+	</machine>
+	<machine name="MAME (v0.247) - cobrata">
+		<description>MAME (v0.247) - cobrata</description>
+		<rom name="cbr1-ha.chd" size="1945214896" crc="bbd924e9" sha1="055536cd9fbe1b096cfc67a8dd93bd8ca8e050cc"/>
+	</machine>
+	<machine name="MAME (v0.251) - gmfamily">
+		<description>MAME (v0.251) - gmfamily</description>
+		<rom name="gamesfamily_1.1.chd" size="7448098523" crc="4ef63010" sha1="3948147dda6e3d080fdc3fa9ffcf9974b562769b"/>
+	</machine>
+	<machine name="MAME (v0.251) - neomania">
+		<description>MAME (v0.251) - neomania</description>
+		<rom name="neomania.chd" size="919765823" crc="bdf85a15" sha1="0d3d53bcd1281ced0a1c5ce3a17922605318f3ab"/>
+	</machine>
+	<machine name="MAME (v0.251) - plycntrchtr">
+		<description>MAME (v0.251) - plycntrchtr</description>
+		<rom name="playcenter_epox_9.3_tournament.chd" size="655635259" crc="d1c92696" sha1="3b9f2ab9dd62a1936ec15a2f7eede6be48de83e3"/>
+	</machine>
+	<machine name="MAME (v0.77) - blitz99">
+		<description>MAME (v0.77) - blitz99</description>
+		<rom name="blitz99.chd" size="384095944" crc="02d177e5" sha1="baa3a5a7fd567102f682d383c6790328d072ae35"/>
+	</machine>
+	<machine name="MAME (v0.77u1) - mace">
+		<description>MAME (v0.77u1) - mace</description>
+		<rom name="mace.chd" size="1224320006" crc="01a64cbf" sha1="607790df49d2af15dee23f68cc6e8eeea846a9bf"/>
+	</machine>
+	<machine name="MAME (v0.82u3) - bmcompmx">
+		<description>MAME (v0.82u3) - bmcompmx</description>
+		<rom name="858jaa11.chd" size="648169622" crc="06396cbc" sha1="a030d524c90eb890d414b8577c3bc16880197e58"/>
+	</machine>
+	<machine name="MAME (v0.82u3) - bmcorerm">
+		<description>MAME (v0.82u3) - bmcorerm</description>
+		<rom name="a05jaa11.chd" size="708896619" crc="b634e73b" sha1="16572591690024ccaabd529fb784afe903531a9e"/>
+	</machine>
+	<machine name="MAME (v0.88u6) - hmcompm2">
+		<description>MAME (v0.88u6) - hmcompm2</description>
+		<rom name="988jaa11.chd" size="1158768171" crc="91f6b6eb" sha1="ba605f700f0a1380a4963bdf601ae04fc555182a"/>
+	</machine>
+</datafile>

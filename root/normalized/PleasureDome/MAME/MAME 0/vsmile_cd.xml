@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vsmile_cd</name>
+		<description>VTech V.Flash/V.Smile Pro V.Disc images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bratz">
+		<description>Bratz - Fashion Pixiez - The Secret Necklace (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093160_000" sha1="4f5a1ab3254de3840be6b9c8edd4aefec1f1f301" />
+		<disk name="093167_000" sha1="371369ad911912be3cf82129bfe105b071b342d0" />
+	</machine>
+	<machine name="carsr1">
+		<description>Disney/Pixar Cars - In the Fast Lane (USA, Rev. 1)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093100_000" sha1="47edbad81f59bc0cebd51bc7e51137ca949890de" />
+		<disk name="093100_001" sha1="584bf1cdd17e33ab8f729f27e47426aa0ab2789a" />
+		<disk name="093100_003" sha1="138f0203d1279b6656b1eeb7cc61705c2f728845" />
+		<disk name="093104_000" sha1="7347c93144f06648973a60f0fef74c74db69ddf9" />
+		<disk name="093107_000" sha1="af1261e0e309e144b4a5f335c368fae12c2d7034" />
+	</machine>
+	<machine name="incredib">
+		<description>Disney/Pixar The Incredibles - Mission Incredible (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093020_000" sha1="b300be746222691d0235551ef582eb221863c50a" />
+		<disk name="093024" sha1="09b80c8899a3c18776626225d662d7f084a44d2d" />
+		<disk name="093027_000" sha1="f804204b4b7ce7ba111a3099c4f8a3f821ea53a6" />
+	</machine>
+	<machine name="msportg">
+		<description>Multisports (Germany)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093204_000" sha1="eb89c8b5cacb619c1fbcb700b971ad2791f1c5b6" />
+	</machine>
+	<machine name="princess">
+		<description>Disney Princess - The Crystal Ball Adventure (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093000_000" sha1="04b9d84635a5271a8639a460fc7148ad3e215bf7" />
+		<disk name="093004" sha1="62d5ed13ddf7ccb2b32613e4ef44399957535355" />
+		<disk name="093007_000" sha1="eaf2998e561fe238a07d9410ab320c63af0673fd" />
+	</machine>
+	<machine name="scooby">
+		<description>Scooby-Doo! Ancient Adventure (USA, Rev. 1)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093080_001" sha1="aec5cc394d1e7d2e660a1d765f23ae3cabe0147d" />
+		<disk name="093087_000" sha1="1b8f4e54ec2cfb709e82212275f5efc7075a34c0" />
+	</machine>
+	<machine name="shrek3">
+		<description>Shrek the Third - The Search for Arthur (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093140_000" sha1="cf8711eb19be0843f0fc2bf7fa999cc1f9a5d890" />
+		<disk name="093143_000" sha1="8f1294e2b862bb5803757149c33ca3564054231e" />
+		<disk name="093144_000" sha1="ab7f8d57e235a12c23cc2e72dc263530d0deb016" />
+		<disk name="093147_000" sha1="2a310736185336e93e8cf5e3a2d0a6e4949e11d3" />
+	</machine>
+	<machine name="spidermnr2">
+		<description>The Amazing Spider-Man - Countdown to Doom (USA, Rev. 2)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093060_001" sha1="b41bfab381ec4e1a2ceab56aa10d71b17c8a31bb" />
+		<disk name="093060_002" sha1="79fbb95a0c313097d09199a0ff9d0648436afff5" />
+		<disk name="093064_000" sha1="b0455f89a4ca9abd0351b7307a9b0702cc1344c3" />
+		<disk name="093067_000" sha1="083d2808f46f7e9d8a6f7f419241356d1f8405ea" />
+	</machine>
+	<machine name="spongeisr2">
+		<description>Nickelodeon SpongeBob Squarepants - Idea Sponge (USA, Rev. 2)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093040_001" sha1="feabc1d3eac7045fb4c0ef29c1a137d7a5c07619" />
+		<disk name="093040_002" sha1="22e5d08eeb01d660e9662c3663c5b1b26a2e57fb" />
+		<disk name="093040" sha1="2ede68aa9df7712a1060e8f3b1be3307c38abd80" />
+		<disk name="093044_000" sha1="8edf7d8398bcc7e26144044801fc72155230c65f" />
+		<disk name="093047_000" sha1="37dd91c9321f8a631e269034569958d400dd7b98" />
+	</machine>
+	<machine name="wackyracr3">
+		<description>Wacky Race on Jumpin' Bean Island (USA, Rev. 3)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<disk name="093120_002" sha1="84f658c990f6c69754092aa4d9314ebee7026c6a" />
+		<disk name="093120_003" sha1="e6abe437961eb4f1e024dd744f23bb2611e65c39" />
+		<disk name="093123_000" sha1="430b54111c22fdf12b10bc7d04c2b097f9f97f6f" />
+		<disk name="093124_000" sha1="90b2723c68da81de677b82d565c7e0364a7cbb53" />
+		<disk name="093127_000" sha1="c3c98b37c6d235815698aaf67e796a34fb7ab577" />
+	</machine>
+</datafile>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>megaduck</name>
+		<description>Creatronic Mega Duck cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="2ndspace">
+		<description>2nd Space</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="028.bin" size="131072" crc="43272949" sha1="b2b54faa87996d614941630c7f098431bf699b58" />
+	</machine>
+	<machine name="aforce">
+		<description>Armour Force</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="014.bin" size="65536" crc="eca6c0ad" sha1="aa2c3774eb48df0854d4b61997653f79a810f4cc" />
+	</machine>
+	<machine name="antsoldr">
+		<description>Ant Soldiers</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="026.bin" size="131072" crc="4907c1d8" sha1="52f087a0156c1ef42e03427b405911f5be423b16" />
+	</machine>
+	<machine name="arczone">
+		<description>Arctic Zone</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="006.bin" size="32768" crc="f88f2d25" sha1="4f3022126f33964e0fb5505fa0caeaa13b995309" />
+	</machine>
+	<machine name="bftale">
+		<description>Black Forest Tale</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="bftale.bin" size="65536" crc="211d268b" sha1="3d62acc2db46bb7b6a2909d640dec6ce095aeec3" />
+	</machine>
+	<machine name="bombdisp">
+		<description>Bomb Disposer</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="003.bin" size="32768" crc="cac582ad" sha1="ba17489d8b753d51bed183459b3de5167e514c65" />
+	</machine>
+	<machine name="brckwall">
+		<description>The Brick Wall</description>
+		<year>1993</year>
+		<publisher>Timlex International</publisher>
+		<rom name="001.bin" size="32768" crc="58efe338" sha1="9b050e41b9aa18dbf5c043f19b7c945c89811cc1" />
+	</machine>
+	<machine name="bstfgtr">
+		<description>Beast Fighter</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="021.bin" size="131072" crc="2adb7253" sha1="9ff96b40e8636fad37b1b95f83f3a9584f3dfe3e" />
+	</machine>
+	<machine name="c5in1">
+		<description>Commin 5 in 1</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="036.bin" size="65536" crc="ff0da355" sha1="fb4ba6c9823808c2705f597294b784837342cbcb" />
+	</machine>
+	<machine name="captkk">
+		<description>Captain Knick Knack</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="011.bin" size="131072" crc="a17de1a3" sha1="3496ef24a27bbf4050783e090344b0e3275ee862" />
+	</machine>
+	<machine name="duckadv">
+		<description>Duck Adventures</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="031.bin" size="131072" crc="cc9c6d10" sha1="b0ddee2de1032fc21c379ada1c891543aa130860" />
+	</machine>
+	<machine name="magictwr">
+		<description>Magical Tower</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="029.bin" size="65536" crc="98694021" sha1="6eefbf8742eba1279f943c321b5d55e45a727a67" />
+	</machine>
+	<machine name="md4in1">
+		<description>Mega Duck 4 in 1 Game</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="035.bin" size="65536" crc="8046ea70" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438" />
+	</machine>
+	<machine name="mmaze">
+		<description>Magic Maze</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="007.bin" size="32768" crc="93c878be" sha1="5c765a8c5875b237a1af8f7766ca3f0defb9ce10" />
+	</machine>
+	<machine name="pilewndr">
+		<description>Pile Wonder</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="010.bin" size="32768" crc="d71f1770" sha1="69222a0c5c3920d0784d0e58c3407b74c1b2bfe8" />
+	</machine>
+	<machine name="pilewndra">
+		<description>Pile Wonder (alt)</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="010a.bin" size="32768" crc="61c81e06" sha1="13d8882371823e5dfb74191ef0addafc43aa1de4" />
+	</machine>
+	<machine name="puptkngt">
+		<description>Puppet Knight</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="008.bin" size="65536" crc="35fb1616" sha1="4849cd6f881b5b78e1d3a08edb727e79c77f9d39" />
+	</machine>
+	<machine name="railway">
+		<description>Railway</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="019.bin" size="65536" crc="2bb6aeb9" sha1="f1a9a8365f1b78057ed5cc647fd68efafc0c49e8" />
+	</machine>
+	<machine name="snakeroy">
+		<description>Snake Roy</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="018.bin" size="65536" crc="315ef9f2" sha1="c76a57047f0f72252cddd7974a3b694392753469" />
+	</machine>
+	<machine name="srider">
+		<description>Street Rider</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="002.bin" size="32768" crc="74c3377f" sha1="9b7d69f9b0a44eeaa36971aabec553ebd3bfdc0e" />
+	</machine>
+	<machine name="trapturn">
+		<description>Trap &amp; Turn</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="009.bin" size="32768" crc="2b58d9a4" sha1="946e1fc387b4eb9114d82cd4471ea9064c3497ce" />
+	</machine>
+	<machine name="treasure">
+		<description>Suleiman's Treasure</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="005.bin" size="65536" crc="cd2730ac" sha1="022d7e635ea64c6a525db5d31c30a7d8636f4c18" />
+	</machine>
+	<machine name="vex">
+		<description>Vex</description>
+		<year>1993</year>
+		<publisher>Commin</publisher>
+		<rom name="004.bin" size="32768" crc="b26bb405" sha1="b750a4c303342e302e5c20556b5e1761deac7c99" />
+	</machine>
+	<machine name="wormvstr">
+		<description>Worm Visitor</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="030.bin" size="65536" crc="da4743e7" sha1="81d7c74f2f029a8b15c3d4fcb8567870b387c60d" />
+	</machine>
+	<machine name="zipball">
+		<description>Zipball</description>
+		<year>1993</year>
+		<publisher>Sachen</publisher>
+		<rom name="037.bin" size="65536" crc="2004c1fb" sha1="5a9615ace92ea7ad96a02c73dc99ebdd01cefb94" />
+	</machine>
+</datafile>

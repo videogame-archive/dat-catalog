@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>excalibur64</name>
+		<description>Excalibur 64 floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="boot">
+		<description>Boot disk</description>
+		<year>1984</year>
+		<publisher>BGR Computers</publisher>
+		<rom name="excalibur_cpm_system.dsk" size="860416" crc="a74a850e" sha1="6f66edcc2f22c0f06eca45f576c3b6bda4e9eacb" />
+	</machine>
+</datafile>

@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>fmtowns_cd</name>
+		<description>Fujitsu FM Towns CD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3dgolfel">
+		<description>New 3D Golf Simulation - Eight Lakes G.C.</description>
+		<year>1990</year>
+		<publisher>ティーアンドイーソフト (T&amp;E Soft)</publisher>
+		<rom name="new3dgolf_systemdisk.mfm" size="3577399" crc="02c52d10" sha1="97091496c01bb68ac44a7090e85de08dbc82389f" />
+	</machine>
+	<machine name="3dgolfha">
+		<description>New 3D Golf Simulation - Harukanaru Augusta</description>
+		<year>1990</year>
+		<publisher>ティーアンドイーソフト (T&amp;E Soft)</publisher>
+		<rom name="new3dgolf_systemdisk.mfm" size="3577399" crc="02c52d10" sha1="97091496c01bb68ac44a7090e85de08dbc82389f" />
+	</machine>
+	<machine name="airmanag">
+		<description>Air Management - Oozora ni Kakeru</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="air management - oozora ni kakeru (japan) (user disk).hdm" size="1261568" crc="1095e60c" sha1="a4f27fedb0d4c5b1aeaf39bbf2fbbd104c40760b" />
+	</machine>
+	<machine name="airwar11o">
+		<description>Air Warrior V1.1 (1992-03-16)</description>
+		<year>1992</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="fujitsu_air_warrior_v1.1_1992-03-16.hdm" size="1261568" crc="3387f260" sha1="ebeacf861162b24c9ea5530d06fc7fa2e4259aaf" />
+	</machine>
+	<machine name="airwar11">
+		<description>Air Warrior V1.1 (1992-04-09)</description>
+		<year>1992</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="fujitsu_air_warrior_v1.1_1992-04-09.hdm" size="1261568" crc="1b2ef9de" sha1="9abf50374c6c8ce3d6c577e65c042845c93719f9" />
+	</machine>
+	<machine name="airwar21">
+		<description>Air Warrior V2.1L10</description>
+		<year>1995</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="fujitsu air warrior v2 - version 2.1 level 10 (japan) (2mb-marty kidou disk).hdm" size="1261568" crc="feda4609" sha1="db2dbf8123d918c7fe07dea1c7bcf1e9dbcb94ec" />
+		<rom name="fujitsu air warrior v2 - version 2.1 level 10 (japan) (4mb kidou disk).hdm" size="1261568" crc="f3da6f23" sha1="c9ba702fc6d0a90fe53d4e712078627c2f30ea2d" />
+	</machine>
+	<machine name="airwar1210">
+		<description>Air Warrior V1.2L10</description>
+		<year>1993</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="fujitsu_air_warrior_v1.2l10.hdm" size="1261568" crc="f38664a6" sha1="3f3abd3cb145bca79414d32c08a98ae7250d4b6f" />
+	</machine>
+	<machine name="airwar1211">
+		<description>Air Warrior V1.2L11</description>
+		<year>1993</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="fujitsu_air_warrior_v1.2l11_fmtowns.hdm" size="1261568" crc="78bdbda9" sha1="295f8c47497f8bb86fbb26cc957c8ddfbb205000" />
+		<rom name="fujitsu_air_warrior_v1.2l11_marty.hdm" size="1261568" crc="68c7efca" sha1="93c9db6bb8d0dbce9c7a15e86ba0f9fcf46c6c69" />
+	</machine>
+	<machine name="akikogld">
+		<description>Akiko Gold</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="akiko_gold_disk_a.hdm" size="1261568" crc="fd3d3924" sha1="f52b8c76fcf77c9f2d14938e65e99d2fea25db1f" />
+	</machine>
+	<machine name="alice2">
+		<description>Alice no Yakata CD II</description>
+		<year>1992</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="alice_no_yakata_2.hdm" size="1261568" crc="a05edc06" sha1="90da65a58d50fd00891f4166765c90ff973965d6" />
+	</machine>
+	<machine name="amarant3">
+		<description>Amaranth III</description>
+		<year>1994</year>
+		<publisher>風雅システム (Fuga System)</publisher>
+		<rom name="amaranth_iii.hdm" size="1261568" crc="05955c2f" sha1="dd81ce76b439af9b93f7c524dce4dab12c31e728" />
+	</machine>
+	<machine name="ambivalz">
+		<description>AmbivalenZ - Niritsu Haihan</description>
+		<year>1994</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="ambivalenz-systemdisk.hdm" size="1261568" crc="7f3d6d6e" sha1="61c23afc9dc3b3ceaf2c28d6ab571d9bc83720fa" />
+	</machine>
+	<machine name="angel">
+		<description>Angel</description>
+		<year>1993</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="angel (save disk).hdm" size="1261568" crc="8ea3389b" sha1="60792d763d3cac54d19b04673b1f1811cf19b9a8" />
+	</machine>
+	<machine name="aressh4o">
+		<description>AIV - A Ressha de Ikou 4 (1993-12-15 01:00:00)</description>
+		<year>1993</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="a-iv-systemdisk_old.hdm" size="1261568" crc="01b1da33" sha1="6aa1850972b6c8bf7ef82a9bbcba022b777a6df8" />
+	</machine>
+	<machine name="aressh4">
+		<description>AIV - A Ressha de Ikou 4 (1993-12-15 04:00:00)</description>
+		<year>1993</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="a-iv-systemdisk_new.hdm" size="1261568" crc="09173db4" sha1="9b007c8cbdb46596bef5235daf3be94f22da3967" />
+	</machine>
+	<machine name="asu120ex">
+		<description>Asuka 120% Burning Fest. Excellent</description>
+		<year>1994</year>
+		<publisher>ファミリーソフト (Family Soft)</publisher>
+		<rom name="asuka 120 burning fest. excellent (boot disk).hdm" size="1261568" crc="12c7d6e2" sha1="0eb696be9666300d76863ae08882485eb69725d4" />
+	</machine>
+	<machine name="atlas2">
+		<description>The Atlas II</description>
+		<year>1993</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="atlas ii, the (japan) (system disk).hdm" size="1261568" crc="b1f326e8" sha1="681163e4d8c702c86d743f13697388cdbf2f5eca" />
+	</machine>
+	<machine name="ayumi">
+		<description>Ayumi-chan Monogatari</description>
+		<year>1993</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="ayumi-chan monogatari.hdm" size="1261568" crc="9bf209ba" sha1="cc2be00834492b0ccf5b25a1b0a5ceb810a2e330" />
+	</machine>
+	<machine name="bandkun">
+		<description>Band-kun</description>
+		<year>1991</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="band-kun.hdm" size="1261568" crc="840bd27f" sha1="6bb01bcd936060ebe58961b2b5d69f0b7aa5d33e" status="baddump" />
+	</machine>
+	<machine name="bfmaria">
+		<description>Ballade for Maria</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="ballade for maria (disk a).hdm" size="1261568" crc="200678ab" sha1="c658fd357318eb5f1522c88ea333f70bda75a72a" />
+	</machine>
+	<machine name="biblemas2">
+		<description>Bible Master 2 - The Chaos of Aglia</description>
+		<year>1995</year>
+		<publisher>グローディア (Glodia)</publisher>
+		<rom name="biblemaster2-systemdisk.hdm" size="1261568" crc="f7cbb663" sha1="2e6789e1964500bf729cd78c8095c9c2386fd133" />
+	</machine>
+	<machine name="biblemas">
+		<description>Bible Master - Crash of the BlleotRutz</description>
+		<year>1993</year>
+		<publisher>グローディア (Glodia)</publisher>
+		<rom name="bible master (system disk).hdm" size="1261568" crc="6c6415bc" sha1="8338b813203ba455285334a127f938f2f56de672" />
+	</machine>
+	<machine name="calxpart">
+		<description>California X Party - Joshi Daisei Himitsu Club</description>
+		<year>1994</year>
+		<publisher>エイチオーピー (HOP)</publisher>
+		<rom name="california_x_party.hdm" size="1261568" crc="babe0a6f" sha1="1b2e158c7a38ba3f3c5fb10f7dbf81019eea9f0a" />
+	</machine>
+	<machine name="chiemi">
+		<description>Chiemi &amp; Naomi</description>
+		<year>1993</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="chiemi-and-naomi.hdm" size="1261568" crc="7b3706d4" sha1="a63be0d0426e54291586f8d246c4fab58630026d" />
+	</machine>
+	<machine name="cm1denwa">
+		<description>Custom Mate + Denwa no Bell ga...</description>
+		<year>1994</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="custommate.hdm" size="1261568" crc="769d513d" sha1="b09a09b655cf7d68be18f0f46dc990eac2fc79d8" />
+	</machine>
+	<machine name="cm2itsuk">
+		<description>Custom Mate 2 + Itsuka dokoka de</description>
+		<year>1995</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="custommate2.hdm" size="1261568" crc="7ea7f95a" sha1="23be34e523e56b51934b0428f4afeeda1243cdca" />
+	</machine>
+	<machine name="crystalr">
+		<description>Crystal Rinal - Ouma no Meikyuu</description>
+		<year>1994</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<rom name="crystal_rinal.hdm" size="1261568" crc="c1ce9e3e" sha1="33a14ab80dcbb22d1c55ce7886aff91f089b92d2" />
+	</machine>
+	<machine name="cybrcity">
+		<description>Cybercity</description>
+		<year>1989</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="cybercity (boot disk).hdm" size="1261568" crc="384203a7" sha1="8e332eae5055a911c87dd2038f550ec614c30111" />
+	</machine>
+	<machine name="cybrmotn">
+		<description>Cyber Motion V1.0</description>
+		<year>1993</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="cyber motion v1.0.hdm" size="1261568" crc="1094490c" sha1="3016dc7894768814d7544a89899af2a56123f250" />
+	</machine>
+	<machine name="daikok2">
+		<description>Daikoukai Jidai II</description>
+		<year>1993</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="daikoukai jidai 2 (save disk).hdm" size="1261568" crc="53f2a3fb" sha1="5523e3ecd3748461a208b4b9e4778bf3e98e831f" />
+	</machine>
+	<machine name="daikokai">
+		<description>Daikoukai Jidai</description>
+		<year>1990</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="daikoukai jidai (save disk).hdm" size="1261568" crc="a70bd7c7" sha1="887b11e25a7f07644245b3764b62bab6e14839bd" />
+	</machine>
+	<machine name="daisenr3">
+		<description>Daisenryaku III '90</description>
+		<year>1991</year>
+		<publisher>ペガサスジャパン (Pegasus Japan)</publisher>
+		<rom name="daisenryaku iii '90 (game disk).hdm" size="1261568" crc="d6fae63a" sha1="b55b1e005c22bf68ef523e81695146e6b7180376" />
+	</machine>
+	<machine name="dalk">
+		<description>Dalk</description>
+		<year>1993</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="dalk (boot disk).hdm" size="1261568" crc="64570ac2" sha1="c3b288ed90f57c218b3cfd9f7d962fd61063e88a" />
+	</machine>
+	<machine name="dalka">
+		<description>Dalk (alt floppy disk)</description>
+		<year>1993</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="dalk.hdm" size="1261568" crc="61bfa42c" sha1="6fa5c82bb8caa68ba8b39a2da825d049f237eb5d" />
+	</machine>
+	<machine name="dante">
+		<description>Tamashii no Mon - Dante "Shinkyoku" yori</description>
+		<year>1993</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="tamashii_no_mon.hdm" size="1261568" crc="a80ca050" sha1="9c99bac43cc237f7b8845676104b08fdf2fcd7d3" />
+	</machine>
+	<machine name="debut">
+		<description>Tanjou - Debut</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="tanjou - debut (key disk).hdm" size="1261568" crc="d731671d" sha1="7da7523a000aee0e4a3ee7cd73ee78109f54ea85" />
+	</machine>
+	<machine name="deep">
+		<description>Deep</description>
+		<year>1995</year>
+		<publisher>ジャスト (JAST)</publisher>
+		<rom name="deep (boot disk).hdm" size="1261568" crc="31dd276f" sha1="2e06321ed8faeaf450623311c4b69e34a1ae3539" />
+	</machine>
+	<machine name="demo90f">
+		<description>FM Towns Demonstration CD-ROM '90. Fuyu - The Galaxy of FM Towns</description>
+		<year>1990</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="fm towns demonstration cd-rom '90. fuyu - the galaxy of fm towns (japan) (floppy 0).hdm" size="1261568" crc="256383c4" sha1="1f65a0b58e04ad1c4eb7c5be4bf456defd734c0b" />
+	</machine>
+	<machine name="denurse2">
+		<description>Dengeki Nurse 2 - More Sexy</description>
+		<year>1994</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="dengeki_nurse_2_disk_a.hdm" size="1261568" crc="66dce100" sha1="368eb88d1da7120f19036ff4e95e533dd0b0dde4" />
+	</machine>
+	<machine name="diamondp">
+		<description>Diamond Players</description>
+		<year>1993</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="diamond_players.hdm" size="1261568" crc="e36732a6" sha1="08ef60cb6eb109d8f60ff2e9c7330dca50210345" status="baddump" />
+	</machine>
+	<machine name="dokivact">
+		<description>Doki Doki Vacation - Kirameku Kisetsu no Naka de</description>
+		<year>1995</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="doki_doki_vacation_disk_a.hdm" size="1261568" crc="4ac3ba75" sha1="21996fd03ddf22159a7552f99fd622c251d2a935" />
+	</machine>
+	<machine name="dyneng3ub">
+		<description>Dynamic English 3 - Upper Basic</description>
+		<year>1991</year>
+		<publisher>ダインエドジャパン (DynEd Japan)</publisher>
+		<rom name="dynamic_english_3_upper_basic.hdm" size="1261568" crc="e1a17802" sha1="e68855807a82dfa02c09aeed3fdc67f9096092ce" />
+	</machine>
+	<machine name="emeraldd">
+		<description>Emerald Dragon</description>
+		<year>1992</year>
+		<publisher>グローディア (Glodia)</publisher>
+		<rom name="emerald dragon (system disk).hdm" size="1261568" crc="35b0d7c1" sha1="55689ee69dc51816b2e2529c67ff9b14380571d5" />
+	</machine>
+	<machine name="emit1a">
+		<description>Emit Vol. 1 - Toki no Maigo (Version 1.30 Release 2.00, 1994-04-26)</description>
+		<year>1994</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="emit1_v1.30_r2.00_1994-04-26.hdm" size="1261568" crc="eca37c28" sha1="58d7f1add8ad84ce7200b0661f380608d8d0639a" />
+	</machine>
+	<machine name="emit1o">
+		<description>Emit Vol. 1 - Toki no Maigo (Version 1.20 Release 1.00)</description>
+		<year>1994</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="emit1_v1.20_r1.00.hdm" size="1261568" crc="49b1a035" sha1="1b0f1886a587e6b9e4bacdfd90145837a3eb6cc0" />
+	</machine>
+	<machine name="emit1">
+		<description>Emit Vol. 1 - Toki no Maigo (Version 1.30 Release 2.00, 1995-01-20)</description>
+		<year>1994</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="emit1_v1.30_r2.00_1995-01-20.hdm" size="1261568" crc="68c2fd3b" sha1="aa76ef1e43a943622abe942022b58a24fe64a6bb" />
+	</machine>
+	<machine name="emit2">
+		<description>Emit Vol. 2 - Inochigake no Tabi</description>
+		<year>1994</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="emit2.hdm" size="1261568" crc="b0e599e6" sha1="a7ba288dd17aa136e3fad5d5d070d5c87c61d5b6" />
+	</machine>
+	<machine name="emit3">
+		<description>Emit Vol. 3 - Watashi ni Sayonara o</description>
+		<year>1994</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="emit3.hdm" size="1261568" crc="4e00e431" sha1="8feb87e951bb4030c085a3a37add7091533c7272" />
+	</machine>
+	<machine name="empereur">
+		<description>L'Empereur</description>
+		<year>1991</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="l_empereur.hdm" size="1261568" crc="0a253a52" sha1="736db4e33ff329f100e1b9607e8ac4c11f5232e5" />
+	</machine>
+	<machine name="engerrn2">
+		<description>Engage Errands II - Hikari o Ninau Mono</description>
+		<year>1995</year>
+		<publisher>ポニーテールソフト (Ponytail Soft)</publisher>
+		<rom name="engage_errands_2.hdm" size="1261568" crc="be2392d0" sha1="b78c26c423cf98bf35b84ba5a1c9b26228ab8306" />
+	</machine>
+	<machine name="eurosens">
+		<description>Europa Sensen</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="europa_sensen.hdm" size="1261568" crc="b6355674" sha1="28ed4ad10c4ba16567cbab278b51ca148587be15" />
+	</machine>
+	<machine name="f29ret">
+		<description>F29 Retaliator</description>
+		<year>1993</year>
+		<publisher>イマジニア (Imagineer)</publisher>
+		<rom name="f29-retaliator.hdm" size="1261568" crc="5556e184" sha1="12f5be30c8122e493f5fcd6f6b2679dfea62621f" />
+	</machine>
+	<machine name="funnybee">
+		<description>Uchuu Kaitou Funny Bee</description>
+		<year>1994</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="uchuu kaitou funny bee (boot disk).hdm" size="1261568" crc="4bcc3120" sha1="f721efe9534554a1a9e4e2201b8f7c4102987b29" />
+	</machine>
+	<machine name="g5o">
+		<description>G5 (HMA-206)</description>
+		<year>1989</year>
+		<publisher>エー・エム・アール (AMR)</publisher>
+		<rom name="g5.hdm" size="1261568" crc="be71541a" sha1="b6686763b1d4774a623c88bf86eee029224657c7" />
+	</machine>
+	<machine name="genchohi">
+		<description>Aoki Ookami to Shiroki Mejika - Genchou Hishi</description>
+		<year>1993</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="aoki ookami to shiroki mejika - genchou hishi (system disk).hdm" size="1261568" crc="fd062028" sha1="8153620634e8ae88ca07394c74bafc5f44729e68" />
+	</machine>
+	<machine name="ginga3sp">
+		<description>Ginga Eiyuu Densetsu III SP</description>
+		<year>1993</year>
+		<publisher>ボーステック (Bothtec)</publisher>
+		<rom name="gingaed3sp_gamedisk.hdm" size="1261568" crc="44a6fe22" sha1="f85fe21a0ffb344f8cb24abb87ab6bd853267aca" />
+	</machine>
+	<machine name="goh2">
+		<description>Goh II Towns Special</description>
+		<year>1993</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="goh ii towns special (system disk).hdm" size="1261568" crc="b694cf42" sha1="a9084609cd53c81263c05f1310946cbd5a561059" />
+	</machine>
+	<machine name="gulfwar">
+		<description>Gulf War - Soukouden</description>
+		<year>1993</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="gulfwar_systemdisk.hdm" size="1261568" crc="00f642ac" sha1="27f9c0e58446d1f026f8e2eba514d8f871aa37e2" />
+	</machine>
+	<machine name="habitat1110">
+		<description>Fujitsu Habitat V1.1 L10</description>
+		<year>1990</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="habitatv1.1l10.hdm" size="1261568" crc="50c7b10b" sha1="914e848878470fa6c8e4adcebbb7af79a5ff6bb1" />
+	</machine>
+	<machine name="habitat">
+		<description>Fujitsu Habitat V2.1L10</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="habitatv2.1l10.hdm" size="1261568" crc="4dc2691b" sha1="a99ada487e1970240a284eb67f7420b13c45f265" />
+	</machine>
+	<machine name="halfmoon">
+		<description>Half Moon ni Kawaru made - Ramiya Ryou no Nijiiro Tamatebako</description>
+		<year>1995</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="half_moon_ni_kawaru_made.hdm" size="1261568" crc="664957f7" sha1="24dc3bf141e174e52869f29309a0aee1db08ade8" />
+	</machine>
+	<machine name="hanapon">
+		<description>Hanafuda de Pon!</description>
+		<year>1996</year>
+		<publisher>アクティブ (Active)</publisher>
+		<rom name="hanafuda de pon (boot disk).hdm" size="1261568" crc="cad3cfe6" sha1="3d4eb251057b7a82cabb683114731013ced571ad" />
+	</machine>
+	<machine name="hiouden2">
+		<description>Hiouden II</description>
+		<year>1994</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="hiouden ii (japan) (system disk).hdm" size="1261568" crc="0e78d3a2" sha1="b610c81e548fe3ed78ba8b79e7766ec7b50f2bd3" />
+	</machine>
+	<machine name="hypland">
+		<description>Hyper Land - Doubutsu no Sekai</description>
+		<year>1993</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper_land.hdm" size="1261568" crc="c462df32" sha1="8852be06fb139615085ea542a17ed6b13046e90f" />
+	</machine>
+	<machine name="hyplanet">
+		<description>Hyper Planet (1992-02-14)</description>
+		<year>1992</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper_planet_1992-02-14.hdm" size="1261568" crc="14bc0b4f" sha1="2aa9ac7e8e655599f19611c8160430867d035d70" />
+	</machine>
+	<machine name="hyplanetm">
+		<description>Hyper Planet for Marty</description>
+		<year>1993</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper_planet_marty.hdm" size="1261568" crc="bff17a79" sha1="139be75e703aefe0a3eb1131967de02e1af559e7" />
+	</machine>
+	<machine name="hyplaneto2">
+		<description>Hyper Planet (1990-09-15)</description>
+		<year>1990</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper-planet-19900915.hdm" size="1261568" crc="ec701443" sha1="345ba017d784e42d926dc73548e8149c3a10c6c1" />
+	</machine>
+	<machine name="hyplaneto">
+		<description>Hyper Planet (1990-09-20)</description>
+		<year>1990</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper-planet-19900920.hdm" size="1261568" crc="29830434" sha1="90f294023993e778d06a90fb802618a668e0a23e" />
+	</machine>
+	<machine name="hypnote">
+		<description>Hyper Note (1992-03-03)</description>
+		<year>1991</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper_note_1992-03-03.hdm" size="1261568" crc="a5d9788b" sha1="7179eef7ab264ba7e15b5cd159e7ed817e35fe17" />
+	</machine>
+	<machine name="hypnoteo">
+		<description>Hyper Note (1991-12-12)</description>
+		<year>1991</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper_note_1991-12-12.hdm" size="1261568" crc="985f94b6" sha1="af4704239151af3b1e80b528d11ad5d9198f99f3" />
+	</machine>
+	<machine name="hypraddr2">
+		<description>Hyper Address Ver. 2.0</description>
+		<year>1991</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper_address_ver_2.0.hdm" size="1261568" crc="b547457c" sha1="a86f9f2200f5f54a42504f8ddc228fb99404495a" />
+	</machine>
+	<machine name="hypraddr">
+		<description>Hyper Address (HMB-106A)</description>
+		<year>1990</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper address (japan) (rev a) (system disk).hdm" size="1261568" crc="78e49f11" sha1="4f628a06f80ccd049a0da22998475d4e263b6dd1" />
+	</machine>
+	<machine name="hypraddro">
+		<description>Hyper Address (HMB-106)</description>
+		<year>1990</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="hyper address (system disk).hdm" size="1261568" crc="9f587fde" sha1="4344771e7f36b8a3461c9d69ea8cb6057fab19f4" />
+	</machine>
+	<machine name="idolproj">
+		<description>Idol Project (1995-06-16 17:22:18)</description>
+		<year>1995</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<rom name="idol project (system disk) (1995-06-16 17-22-18).hdm" size="1261568" crc="59d7e80e" sha1="91c06dc48b2b25bae7050066e115694729efd861" />
+	</machine>
+	<machine name="idolprojo">
+		<description>Idol Project (1995-06-16 15:06:42)</description>
+		<year>1995</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<rom name="idol project (system disk) (1995-06-16 15-06-42).hdm" size="1261568" crc="333c3b70" sha1="1bb2803ff13314b69bc8fd9705ec2bc6a7737c12" />
+	</machine>
+	<machine name="igohonka">
+		<description>Igo Doujou - Honkakuha Yose Tsumego Shinan</description>
+		<year>1989</year>
+		<publisher>富士通OA (Fujitsu OA)</publisher>
+		<rom name="igo_doujou_mondai_disk_dai-2-shuu.mfm" size="3444632" crc="9cfe32cf" sha1="91a66e690b71758708c05b2dca217256d582c466" />
+	</machine>
+	<machine name="inindo">
+		<description>Inindou - Datou Nobunaga</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="inindou_datou_nobunaga.hdm" size="1261568" crc="357c74fd" sha1="29ef6aa58cff7779a8e6e98e67970f0e2e501200" />
+	</machine>
+	<machine name="iris">
+		<description>Iris-tei Serenade</description>
+		<year>1992</year>
+		<publisher>アグミックス (Agumix)</publisher>
+		<rom name="iris-tei_serenade_disk_a.hdm" size="1261568" crc="33b53c9d" sha1="b07e99791bf2c52948e796ac392f0a588d88d4ce" />
+	</machine>
+	<machine name="ishin">
+		<description>Ishin no Arashi</description>
+		<year>1990</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="ishin.d88" size="1281968" crc="5885c76c" sha1="29b0773c95d1f69d943c1ee47e957f7b7eb6cb55" />
+	</machine>
+	<machine name="jinmon">
+		<description>Jinmon Yuugi</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="jinmon_yuugi.hdm" size="1261568" crc="20ec80fc" sha1="401b3a1ab93f35ff3cff14e473cc87bf250102ac" />
+	</machine>
+	<machine name="joshisei">
+		<description>Joshikou Seifuku Monogatari</description>
+		<year>1995</year>
+		<publisher>ケイエスエス (KSS)</publisher>
+		<rom name="joshikou_seifuku_monogatari.hdm" size="1261568" crc="3fdba734" sha1="8e8aed41e329bd02479e6b55675110ddc29b33f2" />
+	</machine>
+	<machine name="kidpixjr">
+		<description>Kid Pix Jr.</description>
+		<year>1993</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="kid_pix_jr_sample_data_disk.hdm" size="1261568" crc="5e39a314" sha1="7f3eba701dff9f54013ace974e93f7e2e5d5e599" />
+	</machine>
+	<machine name="kikoshid2">
+		<description>Kikou Shidan - Panzer Division II</description>
+		<year>1993</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="kikou_shidan_2.hdm" size="1261568" crc="7aaae0e5" sha1="0394f33fe88ceadf6e86e0851775c33b9169fe65" status="baddump" />
+	</machine>
+	<machine name="koryuki">
+		<description>Kouryuuki</description>
+		<year>1993</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="kouryuuki.hdm" size="1261568" crc="c37a6cb0" sha1="a152158d4d74cf7172f5e53ece8f3ddddf88ce45" />
+	</machine>
+	<machine name="kyrandia">
+		<description>The Legend of Kyrandia</description>
+		<year>1993</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="the legend of kyrandia (user disk).hdm" size="1261568" crc="da0241b6" sha1="12e125595d6a87496cf891bba1f67034d110b9e8" />
+	</machine>
+	<machine name="landlore">
+		<description>Lands of Lore - The Throne of Chaos</description>
+		<year>1995</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="lands_of_lore.hdm" size="1261568" crc="eaf15ec6" sha1="6a00499b09999b878c89a3db9ab27ee54ca2b11c" />
+	</machine>
+	<machine name="ldawn2">
+		<description>Lunatic Dawn II</description>
+		<year>1994</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="lunatic_dawn_ii (system disk).hdm" size="1261568" crc="337421e0" sha1="fd563cc8bece3aa0a1589daa2d6e4a8003e7c251" />
+	</machine>
+	<machine name="leadingc">
+		<description>Leading Company</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="leading company.hdm" size="1261568" crc="c4ab1147" sha1="8a3e197458a190daa505868338cac65129515d4b" />
+	</machine>
+	<machine name="lettuce2">
+		<description>Lettuce Cooking - Tanoshiku Tsukureru Obentou</description>
+		<year>1990</year>
+		<publisher>Seibu Time</publisher>
+		<rom name="lettuce_cooking_2.bin" size="1261568" crc="abe1d915" sha1="7bf0774280992df81fe962cf0328f15899331b98" />
+	</machine>
+	<machine name="lettuce">
+		<description>Lettuce Cooking - 365-nichi, Kyou no Ippin</description>
+		<year>1989</year>
+		<publisher>Seibu Time</publisher>
+		<rom name="lettuce cooking.bin" size="1261568" crc="76845bb0" sha1="9d7227621f94375c105e3ee8f2cc7d5ebdd60147" />
+	</machine>
+	<machine name="lipsadv3">
+		<description>Lip 3 - Lipstick Adventure 3</description>
+		<year>1993</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="lip3_disk_a.hdm" size="1261568" crc="4a24ddcb" sha1="a51f7bf887728cbc47f0b71b41190a3510433d7a" />
+	</machine>
+	<machine name="lodoss2">
+		<description>Record of Lodoss War II - Goshiki no Maryuu</description>
+		<year>1994</year>
+		<publisher>ハミングバード (HummingBird)</publisher>
+		<rom name="record of lodoss war ii - goshiki no maryuu (system disk).hdm" size="1261568" crc="f9bc36bb" sha1="1507af913dec0ab7430c9d12f02b49aa3331f554" />
+	</machine>
+	<machine name="lodoss">
+		<description>Record of Lodoss War - Haiiro no Majo</description>
+		<year>1994</year>
+		<publisher>ハミングバード (HummingBird)</publisher>
+		<rom name="record of lodoss war - haiiro no majo (system disk).hdm" size="1261568" crc="4303f8cc" sha1="e5d6580d4b56d8b25a401f566dd07157866de128" />
+	</machine>
+	<machine name="lotr2">
+		<description>J. R. R. Tolkien's The Lord of the Rings, Vol. II - The Two Towers</description>
+		<year>1993</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="lotr2_game_disk.bin" size="1261568" crc="2b2eb562" sha1="96cb6baeccbce2e1cb37b59066415c9e3f92626b" />
+	</machine>
+	<machine name="manami">
+		<description>Manami - Ai to Koukan no Hibi</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="manami_disk_a.hdm" size="1261568" crc="ee0f4c44" sha1="7077b77783ee1ccd629c2f767de22e69ee2989cc" />
+	</machine>
+	<machine name="martych">
+		<description>Taiken Shiyou! Marty Channel</description>
+		<year>1993</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="taiken_shiyou_marty_channel.hdm" size="1261568" crc="1055aa90" sha1="3455b8831a63cd5b231e171a339a1f8b1dad3ebd" />
+	</machine>
+	<machine name="msdet1m">
+		<description>Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (FM Towns Marty version)</description>
+		<year>1992</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="ms_detective_1_marty.hdm" size="1261568" crc="3e70fc8c" sha1="05d3f256874fec6deccf8f3a4f80d143182f3846" />
+	</machine>
+	<machine name="msdet2">
+		<description>Ms. Detective File #2 - Sugata-naki Irainin</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="ms. detective file #2 - sugata-naki irainin (japan) (user disk).bin" size="1261568" crc="b1d1b54f" sha1="7bf144014a2c44985115fa88cebcb836a6fbddf9" />
+	</machine>
+	<machine name="nhkzkei1">
+		<description>NHK Zoku Kiso Eigo - Dai-1-kan</description>
+		<year>1991</year>
+		<publisher>CRI</publisher>
+		<rom name="nhk_zoku_kiso_eigo_1.hdm" size="1261568" crc="1bfd75bc" sha1="27bf306f1f46a617249c51c234daf8805d4424f1" />
+	</machine>
+	<machine name="nhkzkei2">
+		<description>NHK Zoku Kiso Eigo - Dai-2-kan</description>
+		<year>1991</year>
+		<publisher>CRI</publisher>
+		<rom name="nhk_zoku_kiso_eigo_2.hdm" size="1261568" crc="2ce8038a" sha1="ccabd046714c9f613653c6541bfb7326c93053ab" />
+	</machine>
+	<machine name="nhkzkei3">
+		<description>NHK Zoku Kiso Eigo - Dai-3-kan</description>
+		<year>1991</year>
+		<publisher>CRI</publisher>
+		<rom name="nhk_zoku_kiso_eigo_3.hdm" size="1261568" crc="e24c6072" sha1="fea5dcc8d4944ea2c0db97858c24163cc12abc17" />
+	</machine>
+	<machine name="nobubufu">
+		<description>Nobunaga no Yabou - Bushou Fuuunroku</description>
+		<year>1991</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobunaga_no_yabou-bushou_fuuunroku.hdm" size="1261568" crc="91024e24" sha1="28c5f0d822915935b5d3103fd7bd2d47bbf14772" />
+	</machine>
+	<machine name="nobuhao">
+		<description>Nobunaga no Yabou - Haouden</description>
+		<year>1993</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobunaga no yabou - haou-den.hdm" size="1261568" crc="d426a880" sha1="4194c61909c37fdf83daae77dcd84ad996237b0c" />
+	</machine>
+	<machine name="nobuseng">
+		<description>Nobunaga no Yabou - Sengoku Gun'yuuden</description>
+		<year>1989</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobunaga no yabou - sengoku gunyuuden.hdm" size="1261568" crc="fe18e2c2" sha1="aed75199e9d8288d41373aa3600b997e69a58265" />
+	</machine>
+	<machine name="nobutens">
+		<description>Nobunaga no Yabou - Tenshouki</description>
+		<year>1995</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobunaga no yabou - tenshouki.hdm" size="1261568" crc="e8b01342" sha1="8ce902407676e6a2121df0e82361759fe2f5da9e" />
+	</machine>
+	<machine name="nsangel">
+		<description>Noushuku Angel 120%</description>
+		<year>1995</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="nsangel_disk_a.hdm" size="1261568" crc="ba5a137b" sha1="b64d6bc1c303d281ff8ed9f81dbfbaa02ffde8a9" />
+	</machine>
+	<machine name="oasyswin">
+		<description>OASYS/Win v2.0</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="oasys_win_install_disk.hdm" size="737280" crc="5c31e788" sha1="5f8fac6c35206e4994ea2d84dfffe527cb650c36" />
+	</machine>
+	<machine name="ongaku56">
+		<description>FM Towns Shougaku Ongaku (5-6-nensei-you)</description>
+		<year>1991</year>
+		<publisher>教育出版 (Kyouiku Shuppan)</publisher>
+		<rom name="shougaku_ongaku_5-6.hdm" size="1261568" crc="bc8592f0" sha1="e831950f62852b978fab34dc92e8961265bcadbe" />
+	</machine>
+	<machine name="pharmony">
+		<description>Planet Harmony</description>
+		<year>1993</year>
+		<publisher>ダットジャパン (Datt Japan)</publisher>
+		<rom name="planet_harmony.hdm" size="1261568" crc="288d749b" sha1="dcc91a12ab684dff71a165602c933850005f0bdf" />
+	</machine>
+	<machine name="powdoll">
+		<description>Power DoLLS</description>
+		<year>1994</year>
+		<publisher>工画堂 (Kogado)</publisher>
+		<rom name="power dolls (system disk).hdm" size="1261568" crc="5f6c44c7" sha1="721dd113dc6bedfb2d212e3a4de15260c41805f7" />
+	</machine>
+	<machine name="prostudg">
+		<description>Pro Student G (ALS-0004)</description>
+		<year>1993</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="pro-student-g.hdm" size="1261568" crc="b3786aa4" sha1="1b0f9cfcf93a15c7d063872877b1fcdeb6fd1d44" />
+	</machine>
+	<machine name="prvslave">
+		<description>Private Slave</description>
+		<year>1993</year>
+		<publisher>ラクーン (Raccoon)</publisher>
+		<rom name="private_slave.hdm" size="1261568" crc="6a178afb" sha1="37c99495d915448c0b68a576c0b34b5d5ff36c0a" />
+	</machine>
+	<machine name="psydet1r">
+		<description>Psychic Detective Series Vol. 1 - Invitation (DCCS remake)</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic_detective_series_vol_1_invitation_remake.hdm" size="1261568" crc="9f790046" sha1="e4737890d114f3afb00e956246ac27c9c8217281" />
+	</machine>
+	<machine name="psydet3r">
+		<description>Psychic Detective Series Vol. 3 - Aya (DCCS remake)</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic_detective_series_vol_3_aya_remake.hdm" size="1261568" crc="8780e213" sha1="f5873104bc886a392231d41a6f22b902f36734de" />
+	</machine>
+	<machine name="psydet4r">
+		<description>Psychic Detective Series Vol. 4 - Orgel (DCCS remake)</description>
+		<year>1994</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic_detective_series_vol_4_orgel_remake.hdm" size="1261568" crc="bbf0a03e" sha1="4f4f6161b5fa0b8f1c4e6f0874a8c476aaa42e4f" />
+	</machine>
+	<machine name="psydet4">
+		<description>Psychic Detective Series Vol. 4 - Orgel</description>
+		<year>1991</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic detective series vol. 4 - orgel.hdm" size="1261568" crc="81a557bf" sha1="e32d7a6b60a2265a7035a05f8272ac7938cf82bf" />
+	</machine>
+	<machine name="psydet5r">
+		<description>Psychic Detective Series Vol. 5 - Nightmare (DCCS remake)</description>
+		<year>1995</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic_detective_series_vol_5_nightmare_remake.hdm" size="1261568" crc="ab3cb7c5" sha1="25adac22fbca5c6c0d422554030ebb2295615004" status="baddump" />
+	</machine>
+	<machine name="psydet5">
+		<description>Psychic Detective Series Vol. 5 - Nightmare</description>
+		<year>1991</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic detective series vol. 5 - nightmare (system disk).hdm" size="1261568" crc="4fae09fe" sha1="2aaa1339b51b09f87a3c1738c76ab67c29649188" />
+	</machine>
+	<machine name="psydetf1">
+		<description>Psychic Detective Series Final - Solitude Joukan</description>
+		<year>1992</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic detective series final - solitude joukan.hdm" size="1261568" crc="96b42a43" sha1="8eab2884ad8416bb3a8a2219c8e41b267f0682c6" />
+	</machine>
+	<machine name="psydetf2">
+		<description>Psychic Detective Series Final - Solitude Gekan</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="psychic detective series final - solitude gekan.hdm" size="1261568" crc="1e6f92b3" sha1="a0c3e96599e546c0c212091f52d42adbb2dbbb5b" />
+	</machine>
+	<machine name="railtycn">
+		<description>Sid Meier's Railroad Tycoon</description>
+		<year>1993</year>
+		<publisher>マイクロプローズジャパン (MicroProse Japan)</publisher>
+		<rom name="railroad_boot.bin" size="1261568" crc="12182b7a" sha1="00094bab0b9969524ec3694a38b1fa3cd1993d8b" />
+	</machine>
+	<machine name="rance4">
+		<description>Rance IV - Kyoudan no Isan</description>
+		<year>1994</year>
+		<publisher>アリスソフト (AliceSoft)</publisher>
+		<rom name="rance iv (boot disk).hdm" size="1261568" crc="47d59131" sha1="85a17df16d612b9d6bf0c3d1b2bec45c4e378d70" />
+	</machine>
+	<machine name="royalbld">
+		<description>Royal Blood</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="royal_blood.hdm" size="1261568" crc="9c068cfe" sha1="f3ad4b97516b3efcdb936887c80517494975f09c" />
+	</machine>
+	<machine name="sangoku2">
+		<description>Sangokushi II</description>
+		<year>1990</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="sango2.d88" size="1281968" crc="40a7015d" sha1="79ae6709d7ee2c7f35c07f967e032f790565278b" />
+	</machine>
+	<machine name="sangoku3">
+		<description>Sangokushi III</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="sangokushi_iii.hdm" size="1261568" crc="d6cca565" sha1="4f9fe3054193216855309147f4e4e721bbaaab99" />
+	</machine>
+	<machine name="sangoku4">
+		<description>Sangokushi IV</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="sangokushi_4.hdm" size="1261568" crc="ef3e8441" sha1="fc1c9db8be644d413c1a6ef0ada6d3f37bf80676" />
+	</machine>
+	<machine name="scholar">
+		<description>Scholar Movie Magazine Soukan-gou</description>
+		<year>1994</year>
+		<publisher>King Records</publisher>
+		<rom name="scholar movie magazine (boot disk).hdm" size="1261568" crc="6351e1a6" sha1="57e30fa44927653d88d30da0df3236852c669394" />
+	</machine>
+	<machine name="schwarzs">
+		<description>Schwarzschild</description>
+		<year>1991</year>
+		<publisher>工画堂 (Kogado)</publisher>
+		<rom name="schwarzschild (game disk).hdm" size="1261568" crc="6a3658a7" sha1="e70e032a9ffe0f1454366a0d15fb2fb0ef224117" />
+	</machine>
+	<machine name="scruisr2">
+		<description>Star Cruiser II - The Odysseus Project</description>
+		<year>1994</year>
+		<publisher>JHV</publisher>
+		<rom name="star_cruiser_2.hdm" size="1261568" crc="81b77ac2" sha1="9d022e5582aeb05ace35d300cf18cf13c5c70c0f" />
+	</machine>
+	<machine name="sensangl">
+		<description>Sensual Angels</description>
+		<year>1994</year>
+		<publisher>JHV</publisher>
+		<rom name="sensual_angels.hdm" size="1261568" crc="18190c59" sha1="bb996d3d071d85e286b69deb7273f04df66b2d53" />
+	</machine>
+	<machine name="shamhat">
+		<description>Shamhat - The Holy Circlet</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="shamhat - the holy circlet (user disk).hdm" size="1261568" crc="77ae1f06" sha1="b95dae61c620f289d30378774afbd069658ef935" />
+	</machine>
+	<machine name="shamhatm">
+		<description>Shamhat - The Holy Circlet (FM Towns Marty version)</description>
+		<year>1993</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="shamhat - the holy circlet (user disk) (marty version).hdm" size="1261568" crc="2acf7fea" sha1="4ad6670d633eaf158a24d5aa1fc9a3bcec0bbc0e" />
+	</machine>
+	<machine name="shinjuku">
+		<description>Shinjuku Labyrinth</description>
+		<year>1994</year>
+		<publisher>徳間書店インターメディア (Tokuma Shoten Intermedia)</publisher>
+		<rom name="shinjuku labyrinth (master disk).mfm" size="3583660" crc="78b7c26c" sha1="778befacd1534dc22edffccaebb2957823e488e7" />
+	</machine>
+	<machine name="silentsr">
+		<description>The Silent Service - Chinmoku no Kantai</description>
+		<year>1992</year>
+		<publisher>ジーエーエム (GAM)</publisher>
+		<rom name="silent_service.hdm" size="1261568" crc="0545c966" sha1="08fa7728486ff44608476fc0643160ad0507f3f6" />
+	</machine>
+	<machine name="softhard2">
+		<description>Soft de Hard na Monogatari 2</description>
+		<year>1989</year>
+		<publisher>システムサコム (System Sacom)</publisher>
+		<rom name="soft de hard na monogatari 2 (utility disk).hdm" size="1261568" crc="79c5faa6" sha1="6495eb561352706c45ef1c512d84e6335be91bf7" />
+	</machine>
+	<machine name="softhard">
+		<description>Soft de Hard na Monogatari</description>
+		<year>1989</year>
+		<publisher>システムサコム (System Sacom)</publisher>
+		<rom name="soft de hard na monogatari (utility disk).hdm" size="1261568" crc="697505f7" sha1="da19fcc432fbeff6b2252e66b3ac09c09ade68ff" />
+	</machine>
+	<machine name="sotsu93o">
+		<description>Sotsugyou '93 - Graduation (older floppy disk)</description>
+		<year>1993</year>
+		<publisher>JHV</publisher>
+		<rom name="sotsugyou '93 - graduation (play disk, older).hdm" size="1261568" crc="7fd6c788" sha1="3709f921e7ebeaa9c69ed658beb704606fe89f54" />
+	</machine>
+	<machine name="sotsu93">
+		<description>Sotsugyou '93 - Graduation (newer floppy disk)</description>
+		<year>1993</year>
+		<publisher>JHV</publisher>
+		<rom name="sotsugyou '93 - graduation (play disk).hdm" size="1261568" crc="fb4ac4d8" sha1="9ac7edfd20421df85d8fd469f45c3805a307023b" />
+	</machine>
+	<machine name="speechtr">
+		<description>Speech Trainer V1.0 L10</description>
+		<year>1993</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="speech_trainer_install_disk.hdm" size="1261568" crc="8c6fc5da" sha1="e98f419ad058d911d3fd29cff66b50bb3ea500f4" />
+	</machine>
+	<machine name="sspirits">
+		<description>Samurai Spirits</description>
+		<year>1995</year>
+		<publisher>JHV</publisher>
+		<rom name="samurai spirits (boot disk).bin" size="1261568" crc="7d10e903" sha1="5893035421003ce336e7516863c3c17a3ed86c0b" />
+	</machine>
+	<machine name="suikoden">
+		<description>Suikoden - Tenmei no Chikai</description>
+		<year>1990</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="suikoden_tenmei_no_chikai.hdm" size="1261568" crc="7315aacc" sha1="43aa869d5053f3ee0d242b431827a6ebdde836ba" />
+	</machine>
+	<machine name="suzaku">
+		<description>Suzaku</description>
+		<year>1992</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="suzaku (system disk).hdm" size="1261568" crc="c1e9ad9e" sha1="cd9d6e6a6198ebc536cfef5082076083596affc9" />
+	</machine>
+	<machine name="taikoris">
+		<description>Taikou Risshiden</description>
+		<year>1992</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="taikou_risshiden.hdm" size="1261568" crc="82c56347" sha1="62f0cb66a1784c147e65f850b62d048e3a6bc2ca" />
+	</machine>
+	<machine name="tccgmus">
+		<description>Multimedia Communication Virtual Town - TC-Station - Computer Graphics &amp; Music</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="tc_station_computer_graphics.hdm" size="1261568" crc="e85e9429" sha1="24182a597114ea21085bd397de2042a84355877a" />
+		<rom name="tc_station_music.hdm" size="1261568" crc="35e00b2a" sha1="c7bab85f6348f83dc9b6ca6e139afefc597dd4a5" />
+	</machine>
+	<machine name="tcgaku">
+		<description>Multimedia Communication Virtual Town - TC-Station - Computer Gakushuu Program</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="tc_station_computer_gakushuu_program.hdm" size="1261568" crc="b1ac63cc" sha1="bdb1df429e2759de8702e6a3cf96747a4b515c5b" />
+	</machine>
+	<machine name="tcgame">
+		<description>Multimedia Communication Virtual Town - TC-Station - Game Collection</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="tc_station_game_collection.hdm" size="1261568" crc="81c4d7dd" sha1="497b7cb6544dd91d24554674a8d266965affd460" />
+	</machine>
+	<machine name="tcphoto">
+		<description>Multimedia Communication Virtual Town - TC-Station - Photo Collection</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="tc_station_photo_collection.hdm" size="1261568" crc="b2debf74" sha1="7b6de051be578cba2a50b0409dd361db646943a2" />
+	</machine>
+	<machine name="tctsuu">
+		<description>Multimedia Communication Virtual Town - TC-Station - Virtual Town Tsuushin Program</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="tc_station_communication_log.hdm" size="1261568" crc="9f5a3679" sha1="2775fb888b3614c5adcde329057c2ac9e6488593" />
+		<rom name="tc_station_game_library_log.hdm" size="1261568" crc="b67211ba" sha1="43ca268574e6a66fe54b7489fbfa0f918ed04c10" />
+		<rom name="tc_station_gazou_souko_log.hdm" size="1261568" crc="30f0b828" sha1="d6332ef8ce40509872aeabdb4407c76d976dfcdc" />
+		<rom name="tc_station_id_floppy.hdm" size="1261568" crc="fdb64656" sha1="e8edbca97c6e72d00d27141422b3c69c7d886661" />
+		<rom name="tc_station_kuruma_uranai_log.hdm" size="1261568" crc="930a0de8" sha1="e044140455ecbbbf21c14fee5a245e4556f24862" />
+		<rom name="tc_station_tc_yobikou_log.hdm" size="1261568" crc="2ec35ef6" sha1="85b9bf8aeaaaab318716c9689119697a1bd92647" />
+	</machine>
+	<machine name="tcwpro">
+		<description>Multimedia Communication Virtual Town - TC-Station - Marty WorPro &amp; Marty Hyoukeisan</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="tc_station_hyoukeisan.hdm" size="1261568" crc="1162c1de" sha1="97c8c8a7294369f6587072a19aa0ac99cd5c8dc5" />
+		<rom name="tc_station_worpro.hdm" size="1261568" crc="4d112556" sha1="28ea14fd4b2d10ac76ff28b0a29d532edeaeeb6a" />
+	</machine>
+	<machine name="teata10">
+		<description>TEATA - Vision - Recording &amp; Playback System V1.0</description>
+		<year>1993</year>
+		<publisher>軟軒工房 (Nanken Koubou)</publisher>
+		<rom name="teata_vision_v1.0.hdm" size="1261568" crc="4e7a10aa" sha1="4849a639c174f923743b4b63cc6e9e9362fa2962" />
+	</machine>
+	<machine name="teata11">
+		<description>TEATA - Vision - Recording &amp; Playback System V1.1</description>
+		<year>1993</year>
+		<publisher>軟軒工房 (Nanken Koubou)</publisher>
+		<rom name="teata_vision_v1.1.hdm" size="1261568" crc="7ed2829a" sha1="4317b1c763ef8e801c278213bf66dd36c8040e01" />
+	</machine>
+	<machine name="teata12">
+		<description>TEATA - Vision - Recording &amp; Playback System V1.2</description>
+		<year>1993</year>
+		<publisher>軟軒工房 (Nanken Koubou)</publisher>
+		<rom name="teata_vision_v1.2.hdm" size="1261568" crc="88d6b334" sha1="f6784951f3dbcb2704a52ee40240e633263f90bf" />
+	</machine>
+	<machine name="teikets2">
+		<description>Teitoku no Ketsudan II</description>
+		<year>1994</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="teitoku no ketsudan ii.hdm" size="1261568" crc="aabcd4f9" sha1="5079e129b96836f6d19503528633ee66e29cfebc" />
+	</machine>
+	<machine name="teiketsu">
+		<description>Teitoku no Ketsudan</description>
+		<year>1990</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="teitoku_no_ketsudan.hdm" size="1261568" crc="c944d154" sha1="84c54646887e644e590328608583509f4f8940f6" />
+	</machine>
+	<machine name="telop">
+		<description>Towns-Telop</description>
+		<year>1989</year>
+		<publisher>ラムダシステム (Lambda System)</publisher>
+		<rom name="townstelopv100.hdm" size="1261568" crc="b7b525b2" sha1="43fbba547a73a85ee7dbca8777728b31c3a4de44" />
+	</machine>
+	<machine name="tenkagom">
+		<description>Tenka Gomen</description>
+		<year>1994</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="tenka gomen (system disk).hdm" size="1261568" crc="ed6a772a" sha1="b67203849d45824fcb6afac6610621ca95b23966" />
+	</machine>
+	<machine name="tenranma">
+		<description>Tenshin Ranma</description>
+		<year>1992</year>
+		<publisher>エルフ (Elf)</publisher>
+		<rom name="tenshin_ranma_disk_a.hdm" size="1261568" crc="f2af4301" sha1="f6c9e5a32203672113bab7135756baa7528e9253" />
+	</machine>
+	<machine name="teo20">
+		<description>Teo - Mou Hitotsu no Chikyuu - Version 2.0</description>
+		<year>1996</year>
+		<publisher>富士通パレックス (Fujitsu Parex)</publisher>
+		<rom name="teo_v2.0-elmo_no_mi.mfm" size="3445721" crc="e93fe47c" sha1="7c183c952acc8ee4b0cdfaa849b7e837717383da" />
+	</machine>
+	<machine name="tokio">
+		<description>Tokio - Tokyo-to Dai-24-ku</description>
+		<year>1992</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="tokio (system disk).hdm" size="1261568" crc="664f6038" sha1="d2ceb4c0488cf252edf8eb912d707270c886747e" />
+	</machine>
+	<machine name="touchmus">
+		<description>Touch the Music by Casiopea</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="touch_the_music_key_disk.hdm" size="1261568" crc="36eb0122" sha1="5936f982ffb13e3dd14e0ae9a9cfc0213c9fc9ba" />
+	</machine>
+	<machine name="tqodga">
+		<description>The Queen of Duellist Gaiden + Gaiden Alpha (1994-03-10)</description>
+		<year>1994</year>
+		<publisher>アグミックス (Agumix)</publisher>
+		<rom name="qd_alpha_gaiden_1994-03-10.hdm" size="1261568" crc="59de99dc" sha1="27a4bc28ed4f36e32cc1d62a73a5ac8c1858708a" />
+	</machine>
+	<machine name="tqodgao">
+		<description>The Queen of Duellist Gaiden + Gaiden Alpha (1994-03-02)</description>
+		<year>1994</year>
+		<publisher>アグミックス (Agumix)</publisher>
+		<rom name="qd_alpha_gaiden_1994-03-02.hdm" size="1261568" crc="61cf360d" sha1="6e3dd6a2881f6249d8347df418cf47bf6e9f8842" />
+	</machine>
+	<machine name="tqodo">
+		<description>The Queen of Duellist (HME-166)</description>
+		<year>1993</year>
+		<publisher>アグミックス (Agumix)</publisher>
+		<rom name="the queen of duellist (user disk).hdm" size="1261568" crc="4be69833" sha1="b41753c9994b71a4c6634807fe437b465defde5a" />
+	</machine>
+	<machine name="truheart">
+		<description>True Heart</description>
+		<year>1995</year>
+		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<rom name="true_heart_disk_a.hdm" size="1261568" crc="bc249ca9" sha1="8471b573e6c33b3c32de79b4c8b36f3e72d6f6cc" status="baddump" />
+	</machine>
+	<machine name="tsexyave">
+		<description>Tokyo Sexy Ave. - Tokyo Genshi Machi</description>
+		<year>1994</year>
+		<publisher>エイチオーピー (HOP)</publisher>
+		<rom name="tokyo_sexy_ave.hdm" size="1261568" crc="e9800125" sha1="cf6a5685426eb7407673eda4cbb2294afae07a4a" status="baddump" />
+	</machine>
+	<machine name="uwaki">
+		<description>Uwaki na Anata - Switch o Irete</description>
+		<year>1994</year>
+		<publisher>エイチオーピー (HOP)</publisher>
+		<rom name="uwaki na anata (boot disk).hdm" size="1261568" crc="27b0fc8b" sha1="4010114d203a210175b59e3d4dc46df0cf805f03" />
+	</machine>
+	<machine name="vaindrem">
+		<description>Vain Dream</description>
+		<year>1993</year>
+		<publisher>グローディア (Glodia)</publisher>
+		<rom name="vain dream (system disk).hdm" size="1261568" crc="193225c1" sha1="2d3ee819482517b3b9d5d5c6e3877f2def4fbc20" />
+	</machine>
+	<machine name="vaindrm2">
+		<description>Vain Dream II</description>
+		<year>1993</year>
+		<publisher>グローディア (Glodia)</publisher>
+		<rom name="vain dream ii (system disk).hdm" size="1261568" crc="a95283e8" sha1="a61fd855e256c7216a8d8d5b7f72dcaed319e727" />
+	</machine>
+	<machine name="vipergts">
+		<description>Viper GTS</description>
+		<year>1995</year>
+		<publisher>ソニア (Sogna)</publisher>
+		<rom name="viper_gts.hdm" size="1261568" crc="b3b89caa" sha1="926b28bafc53edf095d778ec91c12b7a61925c8c" />
+	</machine>
+	<machine name="vircall2">
+		<description>Virtuacall 2</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="virtuacall 2 (japan) (disk a).hdm" size="1261568" crc="3aaa7ce2" sha1="55247f3cad3696323c13ccbebb50400f2736bab6" />
+	</machine>
+	<machine name="vircall">
+		<description>Virtuacall</description>
+		<year>1995</year>
+		<publisher>フェアリーテール (Fairytale)</publisher>
+		<rom name="virtuacall (disk a).hdm" size="1261568" crc="ebdfc4b9" sha1="b4240a3b28093c832a38be17cf72495f4f094f88" />
+	</machine>
+	<machine name="vkoubou1310">
+		<description>Video Koubou V1.3 L10</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="videokoubou_systemdisk.hdm" size="1261568" crc="19b8d70a" sha1="a025b5f0ac23fda0509605efc81294855f7cb158" status="baddump" />
+	</machine>
+	<machine name="wang3">
+		<description>Wrestle Angels 3 - Mezasu wa Saikyou Dantai!</description>
+		<year>1994</year>
+		<publisher>グレイト (Great)</publisher>
+		<rom name="wrestle angels 3 (save disk).hdm" size="1261568" crc="c29e2e9c" sha1="1f4d99366200b8938cc3a1868bc2540a20720740" />
+	</machine>
+	<machine name="wangs">
+		<description>Wrestle Angels Special</description>
+		<year>1994</year>
+		<publisher>グレイト (Great)</publisher>
+		<rom name="wrestle angels special (user disk).hdm" size="1261568" crc="7df5c0a6" sha1="09c2ecaba12aabc2b2cf8f4527f491ccd257faac" />
+	</machine>
+	<machine name="win30">
+		<description>Nihongo Microsoft Windows V3.0 with Multimedia Extensions V1.0 L10</description>
+		<year>1992</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="windows_3.0_mme_1.0l20.hdm" size="1261568" crc="e8a3ab4b" sha1="dde6910aff5e45d031541071f29a635b3d558d47" />
+	</machine>
+	<machine name="win31l10">
+		<description>Microsoft Windows Version 3.1 L10</description>
+		<year>1993</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="microsoft windows version 3.1 l10 operating system (japan) (setup disk - model mx-ma).hdm" size="1261568" crc="e5847c37" sha1="522aaa5a467af715226850a602c063aab94a43c7" />
+		<rom name="microsoft windows version 3.1 l10 operating system (japan) (setup disk).hdm" size="1261568" crc="645fbefd" sha1="092d686e5748b36e223ca7c4ebc0b09698d7f8b4" />
+	</machine>
+	<machine name="win31l11">
+		<description>Microsoft Windows Version 3.1 L11</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="microsoft windows version 3.1 l11 operating system (japan) (setup disk).hdm" size="1261568" crc="3f97a96e" sha1="3e01bef486f7f0bc34c61c05cf9bc029acfb05fd" />
+	</machine>
+	<machine name="win31l12">
+		<description>Microsoft Windows Version 3.1 L12</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="microsoft windows version 3.1 l12 operating system (japan) (setup disk).hdm" size="1261568" crc="6703b021" sha1="55161fea07a7d4da4a744707a11c8a5942bc53c5" />
+	</machine>
+	<machine name="winpost">
+		<description>Winning Post</description>
+		<year>1993</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="winning_post.hdm" size="1261568" crc="839cf8d5" sha1="2a9f89106e318ac122b2f05d036c81bf8d391121" />
+	</machine>
+	<machine name="wizardr5">
+		<description>Wizardry V - Heart of the Maelstrom</description>
+		<year>1990</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="wizardry v - heart of the maelstrom (user disk).d88" size="1089776" crc="0cd772c2" sha1="149e7bc2ab3537444f71b565330e1ecea911dafa" />
+	</machine>
+	<machine name="wizardr6">
+		<description>Wizardry - Bane of the Cosmic Forge</description>
+		<year>1991</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="wizardry vi - bane of the cosmic forge (user disk).hdm" size="1261568" crc="0092a1da" sha1="557e3bedbd8c3f546ac30fe9d8ce9fd386eda90e" />
+	</machine>
+	<machine name="wyatt">
+		<description>The 4th Unit 7 - Wyatt</description>
+		<year>1992</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="the 4th unit 7 - wyatt (boot disk).hdm" size="1261568" crc="a516f2c4" sha1="f5ae3995c8a8358b88bb716bb9c88ee8d4083d1d" />
+	</machine>
+	<machine name="wyattd">
+		<description>The 4th Unit 7 - Wyatt (demo)</description>
+		<year>1992</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="wyatt_demo.hdm" size="1261568" crc="2e4a5209" sha1="3179cd145554e0b61a3fabc16ff57b1d4bd8f619" />
+	</machine>
+	<machine name="yamikets">
+		<description>Yami no Ketsuzoku Special - The Predestined Homicides</description>
+		<year>1991</year>
+		<publisher>システムサコム (System Sacom)</publisher>
+		<rom name="yami no ketsuzoku special (utility disk).hdm" size="1261568" crc="62e6f35a" sha1="ee1e86547bac53e5e9dc7a010bc60f3b511965b6" />
+	</machine>
+	<machine name="yuuwaku">
+		<description>Yuuwaku</description>
+		<year>1996</year>
+		<publisher>ティーツー (T2)</publisher>
+		<rom name="yuuwaku (user disk).hdm" size="1261568" crc="985a282d" sha1="fbdbf25410b554156becc935fbf34ea103870c42" />
+	</machine>
+	<machine name="zan2o">
+		<description>Zan II - Towns Special (1992-03-19)</description>
+		<year>1992</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="zan ii towns special (user disk) (1992-03-19).hdm" size="1261568" crc="863e02e3" sha1="28622691fd1a431055f4c586cfe585e0920a6153" />
+	</machine>
+	<machine name="zan2">
+		<description>Zan II - Towns Special (1992-04-23)</description>
+		<year>1992</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="zan ii towns special (user disk) (1992-04-23).hdm" size="1261568" crc="ef5e668d" sha1="cc7120bd32053775b2916ab24d2edf2312e26cca" />
+	</machine>
+	<machine name="zan3">
+		<description>Zan III - Ten'un Ware ni Ari</description>
+		<year>1994</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="zan3 system disk.d88" size="1281968" crc="cbe7152b" sha1="eed29400e2d84788871027d3fc88c2297aa6a8b7" />
+	</machine>
+</datafile>

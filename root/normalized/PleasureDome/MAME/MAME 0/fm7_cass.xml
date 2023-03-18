@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>fm7_cass</name>
+		<description>Fujitsu FM-7 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3dgolf">
+		<description>3D Golf Simulation</description>
+		<year>1983</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="golf.t77" size="4150660" crc="9f244c8f" sha1="c7efcc07b2a1fd132938f0ac5f0b8ded9ab1335c" />
+	</machine>
+	<machine name="3dufo">
+		<description>3D UFO</description>
+		<year>1984</year>
+		<publisher>Compac</publisher>
+		<rom name="3d_ufo(1984_compac).t77" size="538862" crc="77966c67" sha1="9eaddab8412f944111cd19f3547353d69755951a" />
+	</machine>
+	<machine name="alien">
+		<description>The Alien</description>
+		<year>1983</year>
+		<publisher>富士音響マイコンセンターRAM (Fuji Onkyo RAM)</publisher>
+		<rom name="ali.t77" size="2728122" crc="4d038af1" sha1="bb020cb8d64c02abc1e37bc0f2570827f07d5228" />
+	</machine>
+	<machine name="alienfld">
+		<description>Alien Field in 7</description>
+		<year>1983</year>
+		<publisher>CPU</publisher>
+		<rom name="ali.t77" size="301842" crc="7e52bc75" sha1="7972dc3783150a76702a69e3d030f8809aa95a11" />
+	</machine>
+	<machine name="amtruck">
+		<description>American Truck</description>
+		<year>1985</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="ame.t77" size="6037920" crc="ae5c40f8" sha1="646ed1cef2b3d57336a77146aadad83dff0aff69" />
+	</machine>
+	<machine name="anko">
+		<description>Rukteu Dark Castle - Dragon Angel's Miracle Voyage (Vol. 1)</description>
+		<year>1984</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="anko_a.t77" size="5857184" crc="905a90da" sha1="cf5b91a356f915a6ee10fd8554da3f6e7d95427f" />
+		<rom name="anko_b.t77" size="4009486" crc="640ee586" sha1="275456a29cd7017f43c66c5c6eabbcfd760355aa" />
+	</machine>
+	<machine name="ankosei">
+		<description>Star Arthur Densetsu II - Ankoku Seiun</description>
+		<year>1983</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="ankok_1.t77" size="7912676" crc="1ca151cb" sha1="db32ce1a5e50c49c0fef36be0baf463bfd901093" />
+		<rom name="ankok_2.t77" size="6607226" crc="e5609290" sha1="003ace1059c9642be34c45eb62f66f3b5e79b894" />
+		<rom name="ankok_3.t77" size="6714164" crc="b941fcfd" sha1="deceba5849499c55fbaee616d2bb01ef18182eeb" />
+	</machine>
+	<machine name="backgamm">
+		<description>Backgammon</description>
+		<year>1985</year>
+		<publisher>新企画社 (Shinkikakusha)</publisher>
+		<rom name="b.t77" size="903036" crc="b612c0f4" sha1="6fc700aebc5e7a9a7ff860f1a7712b7a1fae8433" />
+	</machine>
+	<machine name="battlep">
+		<description>Battle Pod</description>
+		<year>1984</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="bat.t77" size="1403934" crc="a4ecf4ca" sha1="6700ae58952c628a3df96b8e3cde558029b98e89" />
+	</machine>
+	<machine name="bdash">
+		<description>Boulder Dash</description>
+		<year>1984</year>
+		<publisher>コンプティーク (Comptiq)</publisher>
+		<rom name="baldush.t77" size="2343550" crc="23287d88" sha1="cfdf3354867c55bc557c47df6929a23f00f4f791" />
+	</machine>
+	<machine name="biotek">
+		<description>Biotek</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="biotek.t77" size="1344030" crc="646ffb7d" sha1="ea5b75451ca19e3a280b6c3714b3b8b357ad3b2c" />
+	</machine>
+	<machine name="blckonyx">
+		<description>The Black Onyx</description>
+		<year>1985</year>
+		<publisher>B·P·S (Bullet-Proof Software)</publisher>
+		<rom name="1black.t77" size="718778" crc="f82ac536" sha1="4e9beeb8494d5a728c8b3d0f629b8eea1498e31e" />
+		<rom name="2black.t77" size="54404" crc="397b6606" sha1="d0d41c345a01d9b346ff220d4a3edbe4adb4332a" />
+		<rom name="3black.t77" size="1212926" crc="8dd23629" sha1="b71414802ac127da3a81b1b43638f570dfcad8fa" />
+		<rom name="4black.t77" size="1354056" crc="520d15bd" sha1="8c4350a41e8d297e611d6f60f153fc84942e7f71" />
+		<rom name="azusa.t77" size="42132" crc="e4459a46" sha1="53903cd0f6c8bb578b12a2a4f4b0a5d57af11c46" />
+		<rom name="azusa_chara.t77" size="16" crc="24b4d6c4" sha1="0f397f343cc74993777e10deffe6f9579713fb8e" />
+		<rom name="black1.t77" size="359192" crc="903bb455" sha1="266df720f1cfc8238075becbab039279be3e2c7e" />
+		<rom name="black2.t77" size="465338" crc="9e6cc4b1" sha1="4282d03af22baed072cebff76df30c1fed17245e" />
+		<rom name="chiduru.t77" size="84292" crc="9235862c" sha1="af0ebc5a44e5ca8c8b7dd3f35a74f678b629bf7f" />
+		<rom name="hatune.t77" size="42132" crc="30c18af2" sha1="0189582d161cb1ae0b242fca54e9d3f3f6a4a444" />
+		<rom name="kaede.t77" size="42132" crc="766c4ced" sha1="71bb858ffd65d162fb4fbf24bb61dee6da483f96" />
+		<rom name="koichi.t77" size="42176" crc="b2687127" sha1="835bdb552646d24c401bf9aac5e6685f22d6a8e3" />
+		<rom name="test.t77" size="42000" crc="9a99d305" sha1="e02813d6880c301a55a096aa7515044de88c7894" />
+		<rom name="unk1.t77" size="42090" crc="9375f5bd" sha1="a29c84d111b6ce4d200bc6abb839ffa5a7c4f0db" />
+		<rom name="unk2.t77" size="42000" crc="01afc0c0" sha1="0d7565fae3eb2aa4c763fae3f48735b08cf20e03" />
+		<rom name="unk3.t77" size="42044" crc="7dcf38d2" sha1="09af331550e003c18ffe185df1c07c95b26c3df7" />
+		<rom name="unk4.t77" size="42088" crc="c49401f3" sha1="70536aab0b0117789aa99e20a0871c08d9689668" />
+		<rom name="unk5.t77" size="42044" crc="9b9b239a" sha1="b7cea888bf66f9ef2dc5129cae1a7d0cd2215a3d" />
+	</machine>
+	<machine name="bokosuka">
+		<description>Bokosuka Wars</description>
+		<year>1985</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="bokosuka.t77" size="2218190" crc="c6989ade" sha1="72c0592d0a38faee036720b48218357bb1eab1f1" />
+	</machine>
+	<machine name="castle">
+		<description>The Castle</description>
+		<year>1985</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="cas.t77" size="3810142" crc="33349e08" sha1="eb86133a232960bcb0c5426c2fbb6854b77c8aef" />
+	</machine>
+	<machine name="cball">
+		<description>Crash Ball</description>
+		<year>1984</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="crash ball.t77" size="1807930" crc="0136eff6" sha1="5c7e5733db08f00e9197455a3980f66d96224d0d" />
+	</machine>
+	<machine name="chackn">
+		<description>Chack'n Pop</description>
+		<year>1984</year>
+		<publisher>ニデコム (Nidecom)</publisher>
+		<rom name="cha.t77" size="2818296" crc="0e89cbef" sha1="fe4509bb8305ef1dbeb65befa5bb41f7ccfc8dd9" />
+	</machine>
+	<machine name="chackna">
+		<description>Chack'n Pop (Alt)</description>
+		<year>1984</year>
+		<publisher>ニデコム (Nidecom)</publisher>
+		<rom name="chackn.t77" size="2770776" crc="f5ec39f2" sha1="80a795eea0cf18f30c80f926a82560eea6e332b4" />
+	</machine>
+	<machine name="chima">
+		<description>Youkai Tantei Chima Chima</description>
+		<year>1985</year>
+		<publisher>ボーステック (Bothtec)</publisher>
+		<rom name="chi.t77" size="3000980" crc="7275cc2c" sha1="7a996aa47a2a828f6fcab7695c7485e9c8b673f3" />
+	</machine>
+	<machine name="choplift">
+		<description>Choplifter</description>
+		<year>1984</year>
+		<publisher>ソフトプロ (Soft Pro)</publisher>
+		<rom name="chop.t77" size="2073552" crc="cf49f0a8" sha1="899e5d4a8e1d8e7dc1d5014979f9928066c9b856" />
+	</machine>
+	<machine name="cockpit">
+		<description>The Cockpit</description>
+		<year>1984</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="fli.t77" size="987856" crc="76fe23af" sha1="ec50d145be3eed6b1d1da43c4e6d25e7023784f9" />
+	</machine>
+	<machine name="coron">
+		<description>Coron</description>
+		<year>1985</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="cor.t77" size="1846176" crc="f1b3dbdc" sha1="183c10eb58baa16f0124df9eb253ad9fe8dd2b54" />
+	</machine>
+	<machine name="daidasso">
+		<description>Dai Dassou</description>
+		<year>1985</year>
+		<publisher>キャリーラボ (Carry Lab)</publisher>
+		<rom name="dattu.t77" size="3748336" crc="00b8d39e" sha1="8b809e249ba495afc6f24ec68c387d0ed9f5da5c" />
+	</machine>
+	<machine name="dezeni">
+		<description>Dezeni Land</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="dezeni1.t77" size="55598" crc="63299423" sha1="ee0c36ffd66ba06a59108dbb840e185773aca606" />
+		<rom name="dezeni2.t77" size="77226" crc="794b7036" sha1="22dc3a598e5a4af5034b928a45e27d55960ee08b" />
+		<rom name="dezeni3.t77" size="1957108" crc="2b4b13fb" sha1="23e5ca6254dacd33797c3d43aba45e7bd98671e0" />
+		<rom name="dezeni4.t77" size="100032" crc="af1fce02" sha1="ba53f40bd8f10d86bad5a42625c7f621f57ba3ff" />
+		<rom name="dezeni5.t77" size="1263534" crc="22233597" sha1="3946f744af8d2966edf4fd61e98d8fb18d361bab" />
+		<rom name="dezeni6.t77" size="123322" crc="af7efb74" sha1="40f3fd15520c0e3545b751d962b080b0b24286fc" />
+		<rom name="dezeni7.t77" size="146564" crc="f4d580ad" sha1="4deacea31a3f0bf72e515ba10c5a5b07fd9e088b" />
+		<rom name="dezeni8.t77" size="1472154" crc="b1a4bcf0" sha1="b347801da32e49a2bb6a8773ea304185ab2eb02a" />
+		<rom name="dezeni9.t77" size="166450" crc="c6be6a20" sha1="9b2ce37f87a726e43553a9a6737dfcaa70cfb59c" />
+		<rom name="dezenia.t77" size="116668" crc="3df81e1f" sha1="f706d529bc9d1fdeb0cedad61b39030cda2001a4" />
+		<rom name="dezenib.t77" size="908214" crc="9a6dd476" sha1="11c3b86d3d98c8e74549c3a95b82d42ab68c34cd" />
+		<rom name="dezenic.t77" size="192308" crc="18c4b74c" sha1="b16f82c6fe10cf7e7f944b02fa021eb9ecd662e4" />
+		<rom name="dezenid.t77" size="88942" crc="41ac406f" sha1="f8db3843f946376070dce723da831ef86060c7d1" />
+		<rom name="dezenie.t77" size="1658938" crc="2161a161" sha1="4aa37f7b49d352f6c80507014d73e9b50fab4f95" />
+		<rom name="savedisk2.t77" size="34030" crc="5901992e" sha1="8bc20f85750e9fc2c322ee313398f741a62d9a32" />
+		<rom name="savedisk.t77" size="68044" crc="9bc582f5" sha1="3e83bf18ada35e17cb8b45673d879b55ef32066f" />
+	</machine>
+	<machine name="digdug">
+		<description>Dig Dug</description>
+		<year>1984</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="dig.t77" size="4500408" crc="a1c6d6ec" sha1="660ddb5ec6dd60a76055a092d73aa79b79adfd3f" />
+	</machine>
+	<machine name="doordmk2">
+		<description>Door Door mkII</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="door door mkii (1985).t77" size="5236124" crc="688e59c4" sha1="22415c5b6618a87fbef5d3bc27b87706e2059e12" />
+	</machine>
+	<machine name="dslayer">
+		<description>Dragon Slayer</description>
+		<year>1984</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="dragon.t77" size="3586648" crc="407ffcdf" sha1="a85453807a4cc7e11c2a6193cf53f31fc9465a71" />
+	</machine>
+	<machine name="earthbnd">
+		<description>Earthbound</description>
+		<year>1983</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="earthbou.t77" size="4055314" crc="840c5f73" sha1="b225e8fd97eed419380e03e21dbd259a057c5dbf" />
+	</machine>
+	<machine name="eggbomb">
+		<description>Egg Bomb</description>
+		<year>1983</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="egg.t77" size="904832" crc="aa938b89" sha1="50cb41c0b2def21bed19032b9c3f3f81d6f4a521" />
+	</machine>
+	<machine name="enterprs">
+		<description>Enterprise</description>
+		<year>1983</year>
+		<publisher>MIA</publisher>
+		<rom name="ent.t77" size="1368186" crc="4e89f220" sha1="9e65c2c23d23f6a37af7658c74c3bfdf2b144862" />
+	</machine>
+	<machine name="explorer">
+		<description>Explorer</description>
+		<year>1983</year>
+		<publisher>日本ソフト (Nihon Soft) / ハード (Hard)</publisher>
+		<rom name="exp.t77" size="1425504" crc="dfcb722e" sha1="b77e76996717aeb501ae0aa16449abe0d7225e2b" />
+	</machine>
+	<machine name="f2gp">
+		<description>F2 Grand Prix</description>
+		<year>1985</year>
+		<publisher>キャリーラボ (Carry Lab)</publisher>
+		<rom name="f2.t77" size="3464088" crc="b0434032" sha1="e0eb5518ed1d45b17a8d321eb80c0c7d59f62b22" />
+	</machine>
+	<machine name="fieldwar">
+		<description>Field Wars</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="field.t77" size="1071104" crc="2fe91960" sha1="97e492727545fe72981fd0717468b95ea3d9b325" />
+	</machine>
+	<machine name="firecrys">
+		<description>The Fire Crystal</description>
+		<year>1986?</year>
+		<publisher>B·P·S (Bullet-Proof Software)</publisher>
+		<rom name="fire1.t77" size="5482702" crc="4a58f1d5" sha1="7143cafc29201997fcd5b2725e686cdfc041416d" />
+		<rom name="fire.t77" size="3464338" crc="53bf942e" sha1="51f3a4ea88c827113d25e308559094c1ad1b599a" />
+	</machine>
+	<machine name="flappy">
+		<description>Flappy</description>
+		<year>1984</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="flap.t77" size="5613848" crc="5e5f9a17" sha1="7f6e46a3f3c1932dd31b3aa31440e4ec26afc039" />
+	</machine>
+	<machine name="fm7demo">
+		<description>FM-7 Demo</description>
+		<year>19??</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="demo.t77" size="2162424" crc="b3308220" sha1="0d997aafbe880cc588b56384a1b1364d434d120a" />
+	</machine>
+	<machine name="fmdemo">
+		<description>FM Ongen Demo</description>
+		<year>19??</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="fm.t77" size="14937776" crc="7ee3790a" sha1="19353756c375acd03f0dbe0078eb8ce703d33144" />
+	</machine>
+	<machine name="fmracer">
+		<description>FM Racer</description>
+		<year>19??</year>
+		<publisher>Compac</publisher>
+		<rom name="fm racer.t77" size="468334" crc="1b75bc95" sha1="bcd70ec0d5c62ecf4cb9a85ec0972e620d0cf762" />
+	</machine>
+	<machine name="frontlin">
+		<description>Front Line</description>
+		<year>1983</year>
+		<publisher>ニデコム (Nidecom)</publisher>
+		<rom name="fr6nt.t77" size="3739772" crc="ae6ddb27" sha1="bb78020c903e29b5a0f0c15ea2ae40206f61705e" />
+	</machine>
+	<machine name="fsim">
+		<description>Flight Simulator</description>
+		<year>1983</year>
+		<publisher>キャリーラボ (Carry Lab)</publisher>
+		<rom name="sim.t77" size="2267792" crc="3ca69955" sha1="80a24fc8a82b88ffb8b5a4fb72ed68c724b5b983" />
+	</machine>
+	<machine name="galaga">
+		<description>Galaga</description>
+		<year>1985</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="gal.t77" size="3843814" crc="0b446605" sha1="61944b8c94dd394accd6fa4ca8f52bdf2ab89ecb" />
+	</machine>
+	<machine name="galaxy">
+		<description>Galaxy Fly</description>
+		<year>1983</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="gala.t77" size="400880" crc="1fb3ba9f" sha1="d70de0bb8fdc66de4aec8781df7bb1f98f41682e" />
+	</machine>
+	<machine name="gbank">
+		<description>Gutchan Bank</description>
+		<year>1985</year>
+		<publisher>日本ソフトバンク (Nihon SoftBank)</publisher>
+		<rom name="gbank.t77" size="2345284" crc="03aeaf4b" sha1="df1d1772f27235dbc526218658ca9766a6a7b8a6" />
+	</machine>
+	<machine name="gbanka">
+		<description>Gutchan Bank (Alt)</description>
+		<year>1985</year>
+		<publisher>日本ソフトバンク (Nihon SoftBank)</publisher>
+		<rom name="gbankalt.t77" size="2407350" crc="b5b66db4" sha1="7498c5b8f25eb5aa3a8dfd2972d75f7af22dce1a" />
+	</machine>
+	<machine name="gorg">
+		<description>Kyoshin Gorg</description>
+		<year>1985</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="gorg.t77" size="3978352" crc="d8434671" sha1="4b8e3f1d364f28cffd4d702bf03b5f7a7feab561" />
+	</machine>
+	<machine name="gundam">
+		<description>Kidou Senshi Gundam - Jet Stream Attack</description>
+		<year>1984</year>
+		<publisher>バンダイ (Bandai)</publisher>
+		<rom name="gun.t77" size="2693198" crc="1f6d8270" sha1="5e2d665ea152baf866015fb3a1a8587e5cce38fe" />
+	</machine>
+	<machine name="gunman">
+		<description>Gunman</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="gunman.t77" size="1256418" crc="43a1c580" sha1="551f6d24c6ab4ef3e86c4056c3a266ae439b8e30" />
+	</machine>
+	<machine name="hanafuda">
+		<description>Hanafuda Kyo</description>
+		<year>1984</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="hanafuda1.t77" size="84398" crc="986babe7" sha1="f66f2d069649bb68bb815f3074766b922f8f36a0" />
+		<rom name="hanafuda2.t77" size="77740" crc="7ee2b47c" sha1="841ee25eedd90529f405c3aee1b2aa55ef0c10f6" />
+		<rom name="hanafuda31.t77" size="2449528" crc="2c4382eb" sha1="fa8a2529cf63c21a8d249aa9cba9ebe2cb645500" />
+	</machine>
+	<machine name="hisha">
+		<description>Hisha</description>
+		<year>1985</year>
+		<publisher>キャリーラボ (Carry Lab)</publisher>
+		<rom name="ous.t77" size="1408932" crc="b49bbcc1" sha1="16a839d74a0ae410c3a01cdfca708fe48a343dab" />
+	</machine>
+	<machine name="hitsuji">
+		<description>Hitsuji Yaai</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="hitsuji yaai.t77" size="1183688" crc="f5d2eafc" sha1="8f925d4c88df85fc61f415c3c0782b62e4460611" />
+	</machine>
+	<machine name="hydlide2a">
+		<description>Hydlide II - Shine of Darkness (Alt)</description>
+		<year>1986</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlide2_0.t77" size="1080668" crc="47314feb" sha1="f4000fdcd61bd3d63d0f64f4e96b63cd0823ca1a" />
+		<rom name="hydlide2_1.t77" size="2808176" crc="898a7385" sha1="a45cebf5d8c11c2d72efd95b35da01fe711f41b2" />
+		<rom name="hydlide2_2.t77" size="2812446" crc="2ad9aaab" sha1="35e4c337fabe81228b6ba919e4e47c07ed9c913b" />
+	</machine>
+	<machine name="hydlide2">
+		<description>Hydlide II - Shine of Darkness</description>
+		<year>1986</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hyd2_1.t77" size="1403954" crc="4b2dc372" sha1="d477b0d6847a08d6154c206f57d2b0d4be806953" />
+		<rom name="hyd2_2.t77" size="2799212" crc="553253f9" sha1="2dfee19fa7d3d073a8bd6d17b894ae57b55800b4" />
+		<rom name="hyd2_3.t77" size="2808106" crc="141dcc48" sha1="19615e591b4bf04b587358918cdd83db92cef6e3" />
+	</machine>
+	<machine name="hydlide">
+		<description>Hydlide</description>
+		<year>1985</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlide.t77" size="3282720" crc="0db66952" sha1="d21fc6d686aae43c98cc7285144e5c0444907550" />
+	</machine>
+	<machine name="hydlidea">
+		<description>Hydlide (Alt)</description>
+		<year>1985</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hyd.t77" size="3442312" crc="47f22a6e" sha1="e02afefa7c865cc76ae6b42e99ca15e2ebe88596" />
+	</machine>
+	<machine name="inoue">
+		<description>Inoue's Dragon Slayer</description>
+		<year>1985</year>
+		<publisher>Tadanobu Inoue</publisher>
+		<rom name="inoue.t77" size="1270216" crc="571b270e" sha1="1176818e42976a04ec6800c91ac97b6f0f6ffb37" />
+	</machine>
+	<machine name="ixion">
+		<description>Ixion</description>
+		<year>1985</year>
+		<publisher>トライベース (Try-Base)</publisher>
+		<rom name="exio.t77" size="2381806" crc="fbb52bf9" sha1="7aa6ec2d4a039d5f3a403bd83d20e96ee4f7e70e" />
+	</machine>
+	<machine name="jelda2">
+		<description>Jelda 2</description>
+		<year>1984</year>
+		<publisher>キャリーラボ (Carry Lab)</publisher>
+		<rom name="g2_1.t77" size="445632" crc="852c8110" sha1="a209a1ebdf1d29b12bddee153c1e2069bad8a1c3" />
+		<rom name="g2_2.t77" size="3139232" crc="3ecd7879" sha1="499165ac7a0cd429b4f09cc02b6702f673c3258a" />
+	</machine>
+	<machine name="kaito">
+		<description>Karei Naru Kaitou</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="kaito.t77" size="969610" crc="4af88a53" sha1="d24549e5ca4b4919ac5b0b61edc2fe7507db9181" />
+	</machine>
+	<machine name="kamuiken">
+		<description>Kamui no Ken</description>
+		<year>1985</year>
+		<publisher>コンプティーク (Comptiq)</publisher>
+		<rom name="kam1a_b.t77" size="2390932" crc="f486a854" sha1="c6c1ba1213f409e4aaf62a2ef49c8260acb13167" />
+		<rom name="kam1b_b.t77" size="2163186" crc="9a3e9b1b" sha1="39b9fdfffe7596a0f361a663a5f19dd8773ecc20" />
+		<rom name="kam2a_b.t77" size="2503218" crc="aea66803" sha1="7411efa2bf1e443e1b106c210a68b335ce7ad5b9" />
+		<rom name="kam2b_b.t77" size="1322118" crc="c113837d" sha1="0276162d5a6d8e28b0b0698a3ed9635560d2b812" />
+	</machine>
+	<machine name="karuizaw">
+		<description>Karuizawa Yuukai Annai</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="karu1.t77" size="2670614" crc="157131a0" sha1="586ca6b034a3edbea9452545a6072a9d26140e55" />
+		<rom name="karu4.t77" size="3008788" crc="44d687ee" sha1="8f75b541a5b8e687e38e91fd511028e6636e8f4e" />
+		<rom name="karu23.t77" size="4249780" crc="5080c507" sha1="fac0c99b4fd79eef6fda323644b0b41050db02d6" />
+		<rom name="karu56.t77" size="6190056" crc="869d5660" sha1="2e141488afb14d03ec72ad7c594140963a3e2b24" />
+	</machine>
+	<machine name="killerst">
+		<description>Killer Station</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="killer station.t77" size="620566" crc="24fc2978" sha1="f1611f7b02a61a5256dc2115d5e2fc6f533361b6" />
+	</machine>
+	<machine name="kinasai">
+		<description>Kinasai</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="kinasai.t77" size="1056526" crc="435b8399" sha1="c5ce79465e3e7c59c9bbf66a6c378dbfc51cbf2d" />
+	</machine>
+	<machine name="kokushi">
+		<description>Kokushi Musou</description>
+		<year>1983</year>
+		<publisher>ポニカ (Pony Canyon)</publisher>
+		<rom name="kok.t77" size="2162090" crc="072a8753" sha1="fce7ad1a32e31398df17f445f4faa6b1b567e617" />
+	</machine>
+	<machine name="kscope">
+		<description>Kaleidoscope</description>
+		<year>1985</year>
+		<publisher>HOT・B</publisher>
+		<rom name="kalei_1.t77" size="2301426" crc="97929d83" sha1="1a778667fa55ca82cb4fc07366408efafb3300f4" />
+		<rom name="kalei_2.t77" size="2303336" crc="277e7862" sha1="8d71c160aa7414eee40a826d74d50a6bd261bf1a" />
+		<rom name="kalei_s.t77" size="1124694" crc="6ee69eb0" sha1="57947f1195834f2089b453d1bfaf7133ee5bdfbd" />
+	</machine>
+	<machine name="ldrun">
+		<description>Lode Runner</description>
+		<year>1984</year>
+		<publisher>ソフトプロ (Soft Pro)</publisher>
+		<rom name="lode.t77" size="2258856" crc="557ce206" sha1="5c779ff3449384ad391f0e024b454b758d167bd2" />
+		<rom name="lode_a.t77" size="2607808" crc="9e31bb88" sha1="16f17e86d4fd21d45538e04e4da12d7219f76464" />
+		<rom name="lode_b.t77" size="2488640" crc="05e2c70f" sha1="d3e90b7a20306a15b0ec183e3bd65f51507d187a" />
+		<rom name="lode_c.t77" size="2451542" crc="129a586d" sha1="ad72608eeb02c36007af0ed22ff273003c68bb6b" />
+	</machine>
+	<machine name="littleg">
+		<description>Little Gang</description>
+		<year>1983</year>
+		<publisher>日本ソフト (Nihon Soft) / ハード (Hard)</publisher>
+		<rom name="littleg.t77" size="1425834" crc="3b9e282e" sha1="0dc0b0aaa87397c40d72b1c59dc4435f1a3946ea" />
+	</machine>
+	<machine name="lizard">
+		<description>Lizard</description>
+		<year>1985</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="liz.t77" size="2444224" crc="234f49df" sha1="70c0b95ee43161b53841e79f89bebc30f616e992" />
+	</machine>
+	<machine name="lupin3">
+		<description>Lupin the 3</description>
+		<year>1983</year>
+		<publisher>CPU</publisher>
+		<rom name="lupin.t77" size="387298" crc="e36dec5e" sha1="60f413ed19952a179f4897e2eb8e65c129d7923b" />
+	</machine>
+	<machine name="magus">
+		<description>Magus</description>
+		<year>1985</year>
+		<publisher>ソフトプロ (Soft Pro)</publisher>
+		<rom name="magus.t77" size="4615868" crc="261f3f41" sha1="a30fd1386ee3c657537342e9496fc38501a5a686" />
+	</machine>
+	<machine name="mainroyl">
+		<description>Main Royal</description>
+		<year>1984</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="main.t77" size="1227180" crc="448b5b8c" sha1="388fbd175d5587447ecd1d84d5b3a795e1fcaec8" />
+	</machine>
+	<machine name="mappy">
+		<description>Mappy</description>
+		<year>1986</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="mappy.t77" size="2808984" crc="a717ec9f" sha1="b4523ab657564925ec7f910caff8a574ed40c660" />
+	</machine>
+	<machine name="mariosp">
+		<description>Mario Bros. Special</description>
+		<year>1984</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="mariobrs.t77" size="2453598" crc="6da2355e" sha1="e1af54a873dce91a4bca2f75c1c628af74891424" />
+	</machine>
+	<machine name="mazinger">
+		<description>Mazinger Z</description>
+		<year>1984</year>
+		<publisher>バンダイ (Bandai)</publisher>
+		<rom name="majin.t77" size="3789260" crc="3aa0b3da" sha1="f28e2d3c0eb564c55114e43cc8bd393d499c3454" />
+	</machine>
+	<machine name="mephius">
+		<description>Star Arthur Densetsu I - Wakusei Mephius</description>
+		<year>1983</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="star1.t77" size="7767610" crc="1b9705da" sha1="eded63326c0881412a8b4c5e32acc0ceb525f5a4" />
+	</machine>
+	<machine name="molemole">
+		<description>Mole Mole</description>
+		<year>1985</year>
+		<publisher>クロスメディアソフト (Cross Media Soft)</publisher>
+		<rom name="mole.t77" size="3875684" crc="5156b6ee" sha1="ae006f9047abac7b4d5fe732870bd4c5849e7d43" />
+	</machine>
+	<machine name="mrbatfry">
+		<description>Mr. Butterfly</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="mr_bat.t77" size="1102476" crc="abb98b5c" sha1="57e56b8c62a78a3942298aa824427dfe680c36fc" />
+	</machine>
+	<machine name="muscat">
+		<description>Muscat Arrange</description>
+		<year>1984</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="asc1.t77" size="1236938" crc="408b4006" sha1="bdefaa50da786e8c8c58dd4a1b697b99dceea31f" />
+	</machine>
+	<machine name="mysteryh">
+		<description>Mystery House</description>
+		<year>1983</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="mystery.t77" size="1742136" crc="8a4f3c6b" sha1="a036c565fa3753ac581ebec9fa6a409b7c1b6a97" />
+	</machine>
+	<machine name="new7demo">
+		<description>FM-NEW7 Demo</description>
+		<year>19??</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<rom name="demo.t77" size="5718960" crc="9416ca8a" sha1="8b0feed6648c3c264d6ce1b8a78e97b541924c4a" />
+	</machine>
+	<machine name="nihon">
+		<description>Nihon Kaikaisen</description>
+		<year>1983</year>
+		<publisher>ソフトネット (Soft Net)</publisher>
+		<rom name="nihon.t77" size="1064148" crc="29e895e6" sha1="ea8b398c673eeb8de9882f354984b8e14f68642b" />
+	</machine>
+	<machine name="ninjakun">
+		<description>Ninja-kun</description>
+		<year>1986</year>
+		<publisher>日本デクスタ (Nihon Dexter)</publisher>
+		<rom name="ninjakun.t77" size="6740260" crc="13d364c3" sha1="cd988e2e12653a77c2933279d625160d872300cd" />
+	</machine>
+	<machine name="ninjakuna">
+		<description>Ninja-kun (Alt)</description>
+		<year>1986</year>
+		<publisher>日本デクスタ (Nihon Dexter)</publisher>
+		<rom name="ninjya.t77" size="2716494" crc="17bdb4f1" sha1="b5e30d4f39395d0e7d3f33a78d94fad993041ca4" />
+	</machine>
+	<machine name="nobunaga">
+		<description>Nobunaga no Yabou</description>
+		<year>1983</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobu.t77" size="1390214" crc="bd35fdbe" sha1="a3e7eda42ab9c04330b28d471dd87997eef240a3" />
+	</machine>
+	<machine name="oozumou">
+		<description>Oozumou</description>
+		<year>19??</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="oozumou.t77" size="1507920" crc="b88fbacc" sha1="a044c1b22a95cba419dd4ff1043aad71cff94dbc" />
+	</machine>
+	<machine name="ougon">
+		<description>Ougon no Haka</description>
+		<year>1983</year>
+		<publisher>マジカルズゥ (MagicalZoo)</publisher>
+		<rom name="ogon.t77" size="7402016" crc="12a27634" sha1="ab18df8858e9d6eb121915dd7b1a4c51b24bdfa1" />
+	</machine>
+	<machine name="oushou">
+		<description>Oushou</description>
+		<year>1983</year>
+		<publisher>キャリーラボ (Carry Lab)</publisher>
+		<rom name="a.t77" size="789194" crc="dfe924d6" sha1="abc7ee2c30a9378c7edac0cab22ea086d08bc5f4" />
+	</machine>
+	<machine name="pacman">
+		<description>Pac-Man</description>
+		<year>1984</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="pac.t77" size="1126162" crc="03b4e2a9" sha1="8bf1931c788f0ec442603c6965a9103d801c9cb1" />
+	</machine>
+	<machine name="penguin">
+		<description>Penguin-kun</description>
+		<year>1983</year>
+		<publisher>日本ソフト (Nihon Soft) / ハード (Hard)</publisher>
+		<rom name="pen.t77" size="1289414" crc="c8dc8d16" sha1="dbf3abd721d2652a409aa19bebc5832ebefccf74" />
+	</machine>
+	<machine name="perseus">
+		<description>Corageous Perseus</description>
+		<year>1984?</year>
+		<publisher>コスモスコンピュータ (Cosmos Computer)</publisher>
+		<rom name="per1.t77" size="2893534" crc="268b76f5" sha1="cfa9b20b93fb56bd5079410c9996d69b642045ab" />
+		<rom name="per.t77" size="42158" crc="83b6ced1" sha1="da468ffc4d331fdb8c4584e11349d093281a301d" />
+	</machine>
+	<machine name="portopia">
+		<description>Portopia Renzoku Satsujin Jiken</description>
+		<year>1983</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="portopia1.t77" size="55320" crc="c828949f" sha1="5a45ca2c832eb41122816bed92f76af0bac605b7" />
+		<rom name="portopia2.t77" size="184340" crc="6f37dae0" sha1="91cf9c2969309c94f95dce0c7dfe79f693904fed" />
+		<rom name="portopia3.t77" size="1467646" crc="0d9ffa8a" sha1="9f31ae89d2f54c9eb8615d73a60156022683e882" />
+	</machine>
+	<machine name="private">
+		<description>Joshidai-sei Private</description>
+		<year>1984</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="priv.t77" size="2097526" crc="6b81e064" sha1="a619775d7b380db5fe918066b739d5058e9080cf" />
+	</machine>
+	<machine name="proyakyu">
+		<description>Pro Yakyuu Super Simulation</description>
+		<year>1983</year>
+		<publisher>JDS</publisher>
+		<rom name="pro.t77" size="2627702" crc="40e064e3" sha1="ab1c1fbe5093c47a84e5c012c12f5ef9bea4ded3" />
+	</machine>
+	<machine name="psychic">
+		<description>Psychic City</description>
+		<year>1984</year>
+		<publisher>HOT・B</publisher>
+		<rom name="data.t77" size="222184" crc="4fe8ca64" sha1="9353a973bec6774daa92273486f65883b9346f11" />
+		<rom name="p_c.t77" size="598580" crc="eef07871" sha1="bfc0590467c861103517aa63a0f1c5896bff8ec0" />
+		<rom name="p_g.t77" size="3083098" crc="3b7c3795" sha1="eee05e37f48810ba3f778c590828a6153295a789" />
+	</machine>
+	<machine name="punchbal">
+		<description>Punch Ball Mario Bros.</description>
+		<year>1984</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="punchbal.t77" size="1857252" crc="d2355b5b" sha1="c60d5403bd4691802d9f264871eafc40e24f5427" />
+	</machine>
+	<machine name="punchbala">
+		<description>Punch Ball Mario Bros. (Alt)</description>
+		<year>1984</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="punch.t77" size="2132424" crc="df66e659" sha1="37f81f05983f5d68ccfa56da82cb686ddec5a134" />
+	</machine>
+	<machine name="pushpul2">
+		<description>Push Pull II</description>
+		<year>1985</year>
+		<publisher>Compac</publisher>
+		<rom name="push pull ii (1985)(compac).t77" size="1570538" crc="40cd4fcb" sha1="b3919c5b46d4d840b45650ddee1f16c722c1accd" />
+	</machine>
+	<machine name="rallyx">
+		<description>Rally-X</description>
+		<year>1984</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="rally x.t77" size="1260288" crc="1204cf6b" sha1="dd66cddb9e69250c208bb4184818a231c4f94328" />
+	</machine>
+	<machine name="rallyxa">
+		<description>Rally-X (Alt)</description>
+		<year>1984</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="rally-x2.t77" size="608492" crc="eb1cf4cc" sha1="1f29ed8311089678e80767c6df578af8d88dd6df" />
+		<rom name="rally-x3.t77" size="532828" crc="e77567b0" sha1="31078430218f915f4fcd8142171bea49899fea91" />
+		<rom name="rally-x.t77" size="122012" crc="06b08db8" sha1="a6d96dfdf3c55f5325149b50f95e42347f00f664" />
+	</machine>
+	<machine name="rayieza">
+		<description>The Earth Fighter Rayieza</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="raizer1-b.t77" size="11572022" crc="e57be037" sha1="f175a46b9b9bc7e277696106c6046066e48c1a21" />
+		<rom name="raizer1_a.t77" size="3385768" crc="c2d37bbb" sha1="62092c3517445bb1d98ab4fd0f8d7741dec510cb" />
+		<rom name="raizer2-a.t77" size="8048982" crc="d4dbaadb" sha1="39291e3586011238ed874041f13c61aea6cfa5af" />
+		<rom name="raizer2-b.t77" size="7194616" crc="e03d64bf" sha1="3890c4605c97d03a4b79050b3ab747c4749e7179" />
+	</machine>
+	<machine name="riglas">
+		<description>Riglas</description>
+		<year>1986</year>
+		<publisher>ランダムハウス (Random House)</publisher>
+		<rom name="riguras1.t77" size="8374364" crc="4bee872a" sha1="ddad41626e967e40e8f981f1b92c183ca976e969" />
+		<rom name="riguras2.t77" size="7266100" crc="7010b731" sha1="8daeeb77648ffd25dea7f536d5b3785b702163f3" />
+	</machine>
+	<machine name="ringnoue">
+		<description>Ring no Ue wa - Dai Sawagi</description>
+		<year>1984</year>
+		<publisher>日本ソフトバンク (Nihon SoftBank)</publisher>
+		<rom name="ringnoue.t77" size="3383716" crc="f80c7887" sha1="e9bc0609204a2b1d96d1e6df36cfc1ffa4c59223" />
+	</machine>
+	<machine name="sbasebal">
+		<description>Super Baseball</description>
+		<year>1983</year>
+		<publisher>サワダデンキ (Sawada Denki)</publisher>
+		<rom name="bas.t77" size="1217884" crc="db17a54b" sha1="7d302e32aa45d834d4d4086d2affd221932c5611" />
+	</machine>
+	<machine name="serapis">
+		<description>Serapis no Shinden</description>
+		<year>1984</year>
+		<publisher>T.I.P.</publisher>
+		<rom name="ser.t77" size="1521974" crc="3c023dfa" sha1="6356caad4c17ca4ef27f447b8145d53ab88e94d1" />
+	</machine>
+	<machine name="sfighter">
+		<description>Space Fighter</description>
+		<year>1982</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="fig.t77" size="875804" crc="d213688d" sha1="1b53ac3843d53492e704c72f352057197838245e" />
+	</machine>
+	<machine name="sokoban">
+		<description>Sokoban</description>
+		<year>1982</year>
+		<publisher>シンキングラビット (Thinking Rabbit)</publisher>
+		<rom name="soko.t77" size="1292496" crc="43d2305e" sha1="d186c7b109996d81d996bd195f06ccce7c1c24bf" />
+	</machine>
+	<machine name="sokobana">
+		<description>Sokoban (alt)</description>
+		<year>1982</year>
+		<publisher>シンキングラビット (Thinking Rabbit)</publisher>
+		<rom name="sokoban (alt).t77" size="1293548" crc="e7fa1407" sha1="dc8de2da31d30d90a429294c5abfd7556d7d325a" />
+	</machine>
+	<machine name="sonic">
+		<description>Sonic Boom</description>
+		<year>1985</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="son.t77" size="3569132" crc="6d5ec3dd" sha1="e23d352dced43c546698f89ec79bd81c6e8bf007" />
+	</machine>
+	<machine name="southern">
+		<description>Southern Cross</description>
+		<year>1984</year>
+		<publisher>バンダイ (Bandai)</publisher>
+		<rom name="clear data (side 1).t77" size="26822" crc="35003f53" sha1="144fcf3a183ccb789637abda933d100b0171c2e9" />
+		<rom name="clear data (side 2).t77" size="26822" crc="4bf5c41b" sha1="28201fc26b5eb575e28037f7c3d820dfabe5fc2c" />
+		<rom name="sou2.t77" size="2045554" crc="7a5e4b05" sha1="61a1503c5dbfdc250045a89f8f6e1fef5a44c885" />
+		<rom name="sou3.t77" size="2071816" crc="f67cdbfc" sha1="c1f3b2090ed6241648e904b2e3b89963b3930c26" />
+		<rom name="south_a.t77" size="5914222" crc="7a10dec6" sha1="16df4c0712f5f7ed5fc43734b5bce80688f5d19d" />
+		<rom name="south_b.t77" size="3441188" crc="70f88102" sha1="a0d53ed41f6921981fad53b192076e2676a7832a" />
+	</machine>
+	<machine name="spacebee">
+		<description>Space Bee</description>
+		<year>1983</year>
+		<publisher>キャリーラボ (Carry Lab)</publisher>
+		<rom name="spb.t77" size="1481242" crc="4ae55fd5" sha1="1bda789f415a7cb851e63318e3dfd403ede7f897" />
+	</machine>
+	<machine name="spc2030">
+		<description>Space 2030</description>
+		<year>1983</year>
+		<publisher>ブレーンコンピュータ (Brain Computer)</publisher>
+		<rom name="sp2030.t77" size="3992296" crc="94bdc1c7" sha1="ef01b0cb28cd31ab01f2ec0a4725b1cdb4b0a52f" />
+	</machine>
+	<machine name="spcwarp">
+		<description>Space Warp</description>
+		<year>1984</year>
+		<publisher>スターパック (Star Pack)</publisher>
+		<rom name="spa.t77" size="238484" crc="0a1507c3" sha1="0526b5972c0acbe7b3ccedfae0466da8e6b37f8c" />
+	</machine>
+	<machine name="spcwarpa">
+		<description>Space Warp (alt)</description>
+		<year>1984</year>
+		<publisher>スターパック (Star Pack)</publisher>
+		<rom name="space warp (alt).t77" size="238518" crc="fed6ae1e" sha1="8dba0f7842f02643eae54c94fa143fbd0f3e27d5" />
+	</machine>
+	<machine name="sphinx">
+		<description>Sphinx</description>
+		<year>1984</year>
+		<publisher>ツクモ (Tsukumo)</publisher>
+		<rom name="sphinx.t77" size="1723374" crc="e21d57c0" sha1="107c5ca0142c59cc23dd482d83e7fedef4c320b6" />
+	</machine>
+	<machine name="strhouse">
+		<description>Strange House</description>
+		<year>1984</year>
+		<publisher>スターパック (Star Pack)</publisher>
+		<rom name="str.t77" size="1212934" crc="88069cef" sha1="2f98669dc652b9d139d6902133ecae7175604d35" />
+	</machine>
+	<machine name="tdown">
+		<description>Touch Down</description>
+		<year>1985</year>
+		<publisher>ウィンキーソフト (Winky Soft)</publisher>
+		<rom name="tac.t77" size="1409672" crc="653feb50" sha1="5e1314a9a8b1fa3f56dd695219d85532fe8630cf" />
+	</machine>
+	<machine name="ter4001">
+		<description>Star Arthur Densetsu III - Terra 4001</description>
+		<year>1984</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="tera_1.t77" size="5392962" crc="5f45f75f" sha1="6223a4f21d2d2f6155aa34514c8df1d707e02421" />
+		<rom name="tera_2.t77" size="3795992" crc="41c27e0b" sha1="d2d673bf709de4aa5670dd8fb15867404a4b3862" />
+		<rom name="tera_3.t77" size="3896138" crc="e5f83f27" sha1="c5d5f0e59e63c7ff4cb037e2d9d6a0eaae018f99" />
+	</machine>
+	<machine name="tforce">
+		<description>Thunder Force</description>
+		<year>1984</year>
+		<publisher>テクノソフト (Tecno Soft)</publisher>
+		<rom name="tforce.t77" size="2329036" crc="4297c768" sha1="7c534329d6550f0b00ad8f7d9cdb8ee861a16b60" />
+	</machine>
+	<machine name="tforcea">
+		<description>Thunder Force (Alt)</description>
+		<year>1984</year>
+		<publisher>テクノソフト (Tecno Soft)</publisher>
+		<rom name="thunder.t77" size="2698972" crc="6cd37c96" sha1="c68807be6346bce0bed787288cb10091d95a7947" />
+	</machine>
+	<machine name="thestars">
+		<description>The Stars</description>
+		<year>1983</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="the stars side a.t77" size="1203520" crc="2696d903" sha1="50be050f25faa886478ce9dc1f0fa6fc918c8dc2" />
+		<rom name="the stars side b.t77" size="1156262" crc="33dc0a40" sha1="13211a17706b2258604ef4ad18a6e10c3267437e" />
+	</machine>
+	<machine name="tokyons">
+		<description>Tokyo Nampa Street</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="a.t77" size="1403264" crc="bfbfc212" sha1="b6a16445886c993e07599abe73582ebecb2b30ae" />
+		<rom name="nan_a.t77" size="2665584" crc="20e8cf54" sha1="88d768698fccefbc03678075309ed6bc8437cb1c" />
+		<rom name="nan_c.t77" size="2124608" crc="eb6d20fa" sha1="97af2df7b7f04e596e45a4889a5ef47e6616578e" />
+	</machine>
+	<machine name="tomathim">
+		<description>Salad no Kuni no Tomato Hime</description>
+		<year>1984</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="clear data (side 1).t77" size="34030" crc="bb3ad189" sha1="1a959989704b3616e9e9ea8112595a86e6e2936c" />
+		<rom name="salada1.t77" size="4538496" crc="8a378bec" sha1="00fb9bd58caca28669f8249e8a84621a41a711de" />
+		<rom name="salada2.t77" size="4628654" crc="9f71b75d" sha1="289c5cbd54649aba25616e2f53e2ce3cdaf10b2f" />
+	</machine>
+	<machine name="triton">
+		<description>Triton</description>
+		<year>1986</year>
+		<publisher>ザインソフト (Sein Soft)</publisher>
+		<rom name="tri1.t77" size="194560" crc="c4a686f7" sha1="2ffbba4b9ff644c4e1c7237c66dd32d9dbc93eb4" />
+		<rom name="tri2.t77" size="4592020" crc="9a83e839" sha1="809466c8b29cf6bca65b87048780799eb23cf1b4" />
+	</machine>
+	<machine name="udice">
+		<description>Ultra Dice</description>
+		<year>1984</year>
+		<publisher>スターパック (Star Pack)</publisher>
+		<rom name="ult.t77" size="447614" crc="c7f51123" sha1="5c3286552b0b2b572b531834a4ea8ea7c4bc9c8a" />
+	</machine>
+	<machine name="uootoy">
+		<description>Uootoy</description>
+		<year>1984</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="uootoy.t77" size="1882972" crc="3bf4d54c" sha1="73e072daadbac3fe36325bec0489a42323cb8afe" />
+		<rom name="uootoy_cnst.t77" size="1139276" crc="e9fbd7a3" sha1="30a34e5577beeae0cd4d20f4d3882695c624a410" />
+	</machine>
+	<machine name="vip">
+		<description>VIP - Simplified Language</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="vip.t77" size="1030788" crc="cff9cb8a" sha1="986e705617f0401a506b310715366b89cda61de4" />
+	</machine>
+	<machine name="volguard">
+		<description>Volguard</description>
+		<year>1984</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="vol.t77" size="3893070" crc="1ce19974" sha1="b4fbd549d81f92fac2b83b395a9abff21c09a037" />
+	</machine>
+	<machine name="wedding">
+		<description>Wedding Race</description>
+		<year>1983</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="wed.t77" size="899396" crc="45958fc1" sha1="5916a44bc3b54eb33628accd1c5998dd9ee623b1" />
+	</machine>
+	<machine name="weird2">
+		<description>Weird 2</description>
+		<year>1985</year>
+		<publisher>ポリシー (Policy)</publisher>
+		<rom name="chara.t77" size="45960" crc="90a10946" sha1="d2e9f50ee9abb04a707c286999add53d52fa3bb8" />
+		<rom name="wir2.t77" size="3114060" crc="3e27a3ba" sha1="31401d73bfbba1e52b5f704de55aaeebb87a39be" />
+	</machine>
+	<machine name="wife">
+		<description>Holland Tsuma wa Denki Unagi no Yume wo Miruka?</description>
+		<year>1985</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="wife.t77" size="5823560" crc="063a1cf5" sha1="688f322a9b60799b8011aae7ef07aa1878e30512" />
+	</machine>
+	<machine name="worldglf">
+		<description>World Golf</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="golf2.t77" size="10127064" crc="9e7bea91" sha1="0bc7dc5603394abc8d704977b205b4993a3e7a31" />
+		<rom name="golf.t77" size="8156366" crc="065b7dc1" sha1="f98a36ea743ef60b0aea6069f583622740f96902" />
+	</machine>
+	<machine name="yakyukyo">
+		<description>Yakyuu Kyou</description>
+		<year>1985</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="yakyu.t77" size="2945320" crc="02cf29fb" sha1="adc85a3c81d524ea21aca33aa15124484f8d642f" />
+	</machine>
+	<machine name="yumepyak">
+		<description>Yume no Pro Yakyuu</description>
+		<year>1983</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="yume no pro yakyuu.t77" size="1117458" crc="958d52ec" sha1="49b4851d5267dcd3a83c002acfa63c8e9b1fe54a" />
+	</machine>
+	<machine name="zero">
+		<description>Zerosen</description>
+		<year>1984</year>
+		<publisher>バンダイ (Bandai)</publisher>
+		<rom name="zero.t77" size="2977554" crc="c317096e" sha1="cb71110c08b2c59c0c2cad3570a7ab09da1b96c5" />
+	</machine>
+	<machine name="zgundam">
+		<description>Mobile Suit Z Gundam</description>
+		<year>1985</year>
+		<publisher>バンダイ (Bandai)</publisher>
+		<rom name="zgun.t77" size="5088378" crc="4990921e" sha1="b6be73ac2463902f2af3071af06c63a710c969e8" />
+	</machine>
+</datafile>

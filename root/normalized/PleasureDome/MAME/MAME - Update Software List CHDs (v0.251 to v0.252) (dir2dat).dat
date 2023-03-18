@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME - Update Software List CHDs (v0.251 to v0.252)</name>
+		<description>MAME - Update Software List CHDs (v0.251 to v0.252)</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="ibm5170_cdrom">
+		<description>ibm5170_cdrom</description>
+		<rom name="actuasoc\sw6lfull.chd" size="275555981" crc="e74470b1" sha1="e10387ddc06c2d93904c56a7dcfed93a099fc3d1"/>
+		<rom name="advdudan\adventures_of_down_under_dan,_the_(1995)(guildsoft).chd" size="66851967" crc="dc7cb3c9" sha1="00a65694a2517f9650f3b5b2f4b47aa55953c69c"/>
+		<rom name="aitd2\Alone in the Dark 2 (Europe) (En,Fr,De,Es,It).chd" size="230769304" crc="82405698" sha1="1a5f7c8fe2307d91174d8fcaebcd0f072c742749"/>
+		<rom name="aitd2_fr\Alone in the Dark 2 (France).chd" size="246988654" crc="42743945" sha1="d008ad624ae244bbb14523a0592877b6e9a4d5f5"/>
+		<rom name="aitd2a\Alone in the Dark 2 (Europe).chd" size="255212578" crc="35dd2d8e" sha1="e2390b398c17a3dcd83f948809fc108bc3a5f6a3"/>
+		<rom name="aitd\Alone in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1).chd" size="143401963" crc="c0099832" sha1="3f29dbada6ccaf23f2ad5e36f388eb4bdd0d7acb"/>
+		<rom name="aitda\Alone in the Dark (Europe) (En,Fr,De,It).chd" size="128684108" crc="16edfb60" sha1="7c6123c1b048f6988067d08d2dcbbee966d391f6"/>
+		<rom name="aitdb\Alone in the Dark (Europe) (Pay as You Play Version) (PC Power).chd" size="147030003" crc="24b92f2e" sha1="2db272505ef8e693a15ca1473e064ff21252c268"/>
+		<rom name="aitdc\Alone in the Dark (Europe) (Pay as You Play Version) (CD-ROM User).chd" size="143097059" crc="5b0f16af" sha1="d700c0c0755fdaae45968dcf6a567cc810a506a2"/>
+		<rom name="alieninca\Alien Incident (Europe).chd" size="110009758" crc="210e32e3" sha1="cac3abd329776f3d2314dec844758edf542b91e0"/>
+		<rom name="archdyn\ad.chd" size="527553280" crc="298e787d" sha1="1ae8424c9b7458c7989f2fb59f028dcf38f6a9c0"/>
+		<rom name="bnbhvs\beavis_and_butthead_-_virtual_stupidity_(1995)(viacom_new_media).chd" size="225036040" crc="bede8143" sha1="c5f0ff06eb08a297ec7a334bacae703975760871"/>
+		<rom name="bssky_us\Beneath a Steel Sky (USA) (En,Fr,De,Es,It,Pt,Sv) (Rerelease).chd" size="67977418" crc="4009c898" sha1="d7943d19ba877c44db030e4d66ce1702921b15f9"/>
+		<rom name="carmnspc\Where in Space Is Carmen Sandiego (USA) (Deluxe Edition).chd" size="5118714" crc="f9e971f5" sha1="1fe903e5a309c8680de0d29f59b14d535da711af"/>
+		<rom name="cdraw6\corel_draw_6_cd1.chd" size="302028574" crc="d0cba752" sha1="a4ec0b522db6e2c28c2329ba471f70fffedc3c72"/>
+		<rom name="cdraw6\corel_draw_6_cd2.chd" size="179940975" crc="b7518f4f" sha1="220c76d101a12b6ff4b9dcbd26ab6a4d42cbae50"/>
+		<rom name="cdraw6\corel_draw_6_cd3.chd" size="402874650" crc="64ef4b65" sha1="2fdf51760a39669e3de34e984b63a06d53c60588"/>
+		<rom name="cdraw6\corel_draw_6_cd4.chd" size="207279526" crc="c356a6c1" sha1="d5552f68528c946492949f56e4180034094f0e81"/>
+		<rom name="civ2\civilization2pc.chd" size="380762215" crc="129e2a02" sha1="40d9e171c38451c39d7f2353bb683ee249c219da"/>
+		<rom name="dd2\dd2_pc.chd" size="453189515" crc="700b5aac" sha1="57ec3bab68cce597df8498b79167f27b0842bd55"/>
+		<rom name="diablo\diablo.chd" size="585040873" crc="6044476e" sha1="980889e2d16a9ae4e40452065b0b729868d81c1d"/>
+		<rom name="duke3d\3d_realms_-_duke_nukem_3d_(shareware_version).chd" size="14120079" crc="a5291dd1" sha1="3c969c6e3dee95204f6511ae4473b136dc0caa1c"/>
+		<rom name="epicpinb\Epic Pinball (Europe) (v2.1).chd" size="7396053" crc="e7c418f6" sha1="8855e67b9799a79e486ae8ef6b2628b404a679f9"/>
+		<rom name="epicpinbus\Epic Pinball (USA) (Rerelease) (19970206).chd" size="26947017" crc="8f352729" sha1="ab337f43abeda7043fd6d6cb74b56d3fd66d8922"/>
+		<rom name="f1gp_nl\Formula One Grand Prix (Netherlands) (Crucial).chd" size="48567150" crc="7aae588a" sha1="48b45c56758e6dafacc075e0148916a34606a972"/>
+		<rom name="goblins3\Goblins 3 (Europe) (En,Fr,De,Es).chd" size="228298234" crc="e9fe0717" sha1="acc914b62d2c1d9090b3e176f486ad29daff9d9c"/>
+		<rom name="goblins3it\Goblins 3 (Italy) (Rerelease).chd" size="238373327" crc="5291fa01" sha1="b260e7fb947397b3ef8559547fb69cb14dc64c08"/>
+		<rom name="goblins\Gobliiins (Italy) (En,Fr,De,Es,It).chd" size="153675802" crc="f760a6fc" sha1="67c678edf4d6feb56143755e01f285cbba5e44b4"/>
+		<rom name="goblins_us\Gobliiins (USA).chd" size="140793592" crc="715a1e5a" sha1="064b76d9717845559ec217963d7febbfd6a253e9"/>
+		<rom name="gods\Gods (Europe).chd" size="13308344" crc="9f8902fb" sha1="70aa9e93f3d811b73f1a93421735cb1d6584d571"/>
+		<rom name="humans12\Humans 1 and 2 (Europe) (En,Fr,De,Es,It) (OEM).chd" size="13778301" crc="1ec4b087" sha1="fedd0de5311579b5b9e396bc052008211a272069"/>
+		<rom name="humans12a\Humans 1 and 2 (Europe) (En,Fr,De,Es,It) (Rerelease).chd" size="13772698" crc="ae66fd9f" sha1="d5c7f41c2d1d9c45a316c05ee786034c3136f13f"/>
+		<rom name="humans\Humans, The (Europe) (En,Fr,De,Es,It).chd" size="13771603" crc="cf499919" sha1="a7b9a0943c2dfe7dd3213d835dffbe224391fe6d"/>
+		<rom name="humans_us\Humans, The (USA).chd" size="5497033" crc="79d71cb9" sha1="13649e1763574a378db641d97a075282f3864762"/>
+		<rom name="indy3\Indiana Jones and the Last Crusade (Europe).chd" size="3290921" crc="c5cd8a22" sha1="8c770d112d84204049695a07be699df946d5895f"/>
+		<rom name="jagdead\jagged_alliance_deadly_games_(sir-tech_software)(version_1.0)(master_cd).chd" size="375655935" crc="3517be51" sha1="583b79e316f6c67e238164f6e9ccdaf66b4bc21b"/>
+		<rom name="jagdead\jagged_alliance_deadly_games_(sir-tech_software)(version_1.0)(multiplayer_cd).chd" size="387844728" crc="16c7972e" sha1="88b7fa8b28c19272d0aea1f52c970480478fc208"/>
+		<rom name="larry\Leisure Suit Larry in the Land of the Lounge Lizards (USA).chd" size="3288240" crc="f7b2a527" sha1="e523318cc73ad2aaaec8f45389edb5daa854e785"/>
+		<rom name="lomax\lomax.chd" size="397604313" crc="b3ec830c" sha1="aa4746b9df588638faffccef9a211b86627253ce"/>
+		<rom name="myst\myst.chd" size="446678943" crc="89e98c15" sha1="b6aa4e044b6be38a7979947c73de189e8b399a4e"/>
+		<rom name="pcrally\PC Rally (Europe).chd" size="42545832" crc="b4dd2383" sha1="9acf3722a47c413554bde25e6c921be6ae1a1af5"/>
+		<rom name="ppersia2\Prince of Persia 2 - The Shadow and the Flame (USA) (Rerelease).chd" size="345225432" crc="e4cf507c" sha1="1804e598b875169fbd27d1ddb8abc0ac5be11762"/>
+		<rom name="ppersia2fr\Prince of Persia 2 - The Shadow and the Flame (France) (Rerelease).chd" size="103666979" crc="74eb9d00" sha1="ba58814194e08aa7195f071d31cc24024f6fa713"/>
+		<rom name="ppersia\Prince of Persia CD Collection (Europe).chd" size="15367503" crc="8ca39cda" sha1="8f02564f0407578284d6569227c3a9911cf9b366"/>
+		<rom name="ppersiale\Prince of Persia Collection - Limited Edition (Europe).chd" size="498014865" crc="8db7e824" sha1="b8f87d29fcde3ee83e2326392a98bfe40a2f56e4"/>
+		<rom name="ppersiale_br\Prince of Persia Collection - Limited Edition (Brazil).chd" size="487732486" crc="ab3e5c97" sha1="5164ff8d336929c77edfeee3df0b9fde2831420a"/>
+		<rom name="ppersiale_nl\Prince of Persia Collection - Limited Edition (Netherlands) (Rerelease).chd" size="509447574" crc="4c64633e" sha1="358c3352e16d7fe0d766cf8c8e999db0aa9ae939"/>
+		<rom name="ppersiale_us\Prince of Persia Collection - Limited Edition (USA).chd" size="488533186" crc="9e5845c8" sha1="1c481263f9c88703f38727515d80641eb009df85"/>
+		<rom name="ppersialea\Prince of Persia Collection - Limited Edition (Europe) (Alt).chd" size="498017179" crc="f24362ab" sha1="a1df3aa57f8619b65c0a15dff586443b02840df2"/>
+		<rom name="ppersiau\Prince of Persia CD Collection (USA).chd" size="15362165" crc="415656ea" sha1="854abebb89ac8f5be03746de29a42a52280a9972"/>
+		<rom name="prinmak2\princess_maker_2_(win31).chd" size="146852422" crc="9dd0fc03" sha1="9a45b381e74e3a717d8724d0a5d5f543b08901a3"/>
+		<rom name="pyrotech\Pyrotechnica (USA) (En,Fr,De,Es,It).chd" size="6446406" crc="06ea788f" sha1="476b79edd3e3216b6248ef91c86a2acc34912d5a"/>
+		<rom name="quake\quake.chd" size="97707980" crc="4beed63c" sha1="c9d6f58426550a594a5f52b82e06229dfc486833"/>
+		<rom name="roadrashi\roadrash.chd" size="432311711" crc="5496d7c8" sha1="32f69b82733a975b96f93f09b96111ba161f6833"/>
+		<rom name="shangmom\shanghai.chd" size="449159364" crc="1b134717" sha1="c7b20cff8d6931af2e26809ef77fa7eecca9a185"/>
+		<rom name="simcit2k\simcity_2000_dos.chd" size="2775386" crc="eabacbaa" sha1="0fbdd9bff702314da30e87f822358e27c6c1c9cc"/>
+		<rom name="simcity\sc_classic.chd" size="32483631" crc="a8555e4e" sha1="77cfeca5b18cc45de988ea3a42a5e0e933448d52"/>
+		<rom name="sk\sonic_and_knuckles_collection.chd" size="162620743" crc="7d678fbf" sha1="2f12ccf5fc42e97a03a8a547de42142381fe197c"/>
+		<rom name="skulcrck\skull cracker (1996)(gte).chd" size="278635329" crc="56aaa647" sha1="d0ea043f6b4e1f3ca166596c7ab7482c6123393a"/>
+		<rom name="slamdtyp\slamdunktyping.chd" size="223549277" crc="6b662f69" sha1="6478e2fd873b7ecd881a95182b55ff01dc67b803"/>
+		<rom name="soccerkd\Soccer Kid (Europe) (En,Fr,De,Es,It).chd" size="388891434" crc="20f74ae4" sha1="34ca7faf615d776303afaf81f0264871a51db308"/>
+		<rom name="strmrisk\sturmtruppen_risiken.chd" size="193188312" crc="36c3af9e" sha1="86d4d492d5b96f4fc6d93e0da00256512c10e5c1"/>
+		<rom name="telstar10\10 Game CD ROM (Europe).chd" size="5566480" crc="2a1484b4" sha1="1863a45df358676a34b6181df9c09ffe931b60c9"/>
+		<rom name="tplay98\ea-tripleplay98-win95.chd" size="485763221" crc="6f3123a7" sha1="96a1e746b46b0d2edd6251ee0815ce3c125b7127"/>
+		<rom name="uffvmus\uffizi_e1_09.chd" size="325689691" crc="ba783e16" sha1="c81f15032d592d5bf99c835118a87aadb1386c47"/>
+		<rom name="vf\virtua_fighter_pc.chd" size="451031013" crc="a9310585" sha1="b25b73462861cf04e2919ebc9d220f75c184b60a"/>
+		<rom name="wrathdem\Wrath of the Demon (USA).chd" size="2161430" crc="cd98e912" sha1="7b6c0328eab235a5999541cfc49ac429a55a5ede"/>
+	</machine>
+	<machine name="ibm5170_hdd">
+		<description>ibm5170_hdd</description>
+		<rom name="win98se\win98se_eng.chd" size="129425798" crc="5cdd2470" sha1="9a78ca77af74334c6ec31c88d84c700a9a97715e"/>
+	</machine>
+	<machine name="sgi_mips">
+		<description>sgi_mips</description>
+		<rom name="onyx2demo1\sgi-onyx2-demo-1.chd" size="624092713" crc="ae76218f" sha1="128d6a508d7a97327ad11c017c39d4ba64a39809"/>
+		<rom name="onyx2demo2\sgi-onyx2-demo-2.chd" size="552843260" crc="f94c9017" sha1="cf1ab422401ff293f4e3b4e168215f164cae2d97"/>
+		<rom name="onyx2demo3\sgi-onyx2-demo-3.chd" size="587765811" crc="ca48602d" sha1="dd7c43e4b892dc4f4f4992bd18561b06a934ea94"/>
+	</machine>
+</datafile>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pc8001mk2_flop</name>
+		<description>NEC PC-8001mkII (N80 BASIC) disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cranstonmk2">
+		<description>Cranston Manor</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cranston manor (mkii) (disk 1) {run mk2}.d88" size="344496" crc="cae808d0" sha1="27a3f9d322217fb6f9c00c8056bc9a79419e484c" />
+		<rom name="cranston manor (mkii) (disk 2).d88" size="348848" crc="e1f04287" sha1="1fb1f14763b97058bc19c6bc18bb075f99baee85" />
+	</machine>
+	<machine name="gamepc">
+		<description>Game-PC (Collection)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="[os] game-pc (mkii).d88" size="31424" crc="a2f5c72e" sha1="702734c1f92f7a765db2b49a1a67215ff9ba662d" />
+	</machine>
+	<machine name="n80diskb">
+		<description>N80 Disk BASIC</description>
+		<year>1983</year>
+		<publisher>NEC / Microsoft</publisher>
+		<rom name="n-basic.d88" size="348848" crc="0ed0a4c8" sha1="2e80b0b4fc38eb1f81fd27f6828249c764091a55" />
+	</machine>
+	<machine name="n80mkii">
+		<description>N80 BASIC system disk</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="[os] n80 basic system disk (pc-8001mkii).d88" size="348848" crc="ff9416a4" sha1="3321c6a723545ef7f413a372683a1e40ef7ea4ef" />
+	</machine>
+	<machine name="n80mkiia">
+		<description>N80 BASIC system disk (alt)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="[os] n80 basic system disk (pc-8001mkii) [alt 1].d88" size="348848" crc="452088aa" sha1="991dad9039b17ff3b1c5c234e47c96f1068cce53" />
+	</machine>
+	<machine name="n80n88">
+		<description>N80 and N88 Disk BASIC Utility Collection</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="[utility] n80 and n88 disk basic utility collection (disk 1 - n mode).d88" size="348304" crc="ab1128ca" sha1="83bc1d6db510553be4aeec800209e3bb529a2fb0" />
+		<rom name="[utility] n80 and n88 disk basic utility collection (disk 2 - n88 mode #1).d88" size="348848" crc="8b8a9f73" sha1="0296440ad00804a559027a61e099410565d8eff4" />
+		<rom name="[utility] n80 and n88 disk basic utility collection (disk 3 - n88 mode #2).d88" size="348848" crc="156e257a" sha1="d525cc3ccc6684841608dd4d4aa4c435948fa691" />
+		<rom name="[utility] n80 and n88 disk basic utility collection (disk 4 - n80 mode).d88" size="348848" crc="9a05a7e4" sha1="746947ebb38e28304cd431927a33cfd4d95370b2" />
+		<rom name="[utility] n80 and n88 disk basic utility collection (disk 5).d88" size="591408" crc="08c6485e" sha1="7277009da28f955651896d6a779988910f08478e" />
+	</machine>
+	<machine name="pc80sys">
+		<description>PC-8001mkII System Disk</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="pc-8001mkii system disk.d88" size="348832" crc="3fc9a80e" sha1="8e65e5b7376799553bbc3ae41223b36c7e807cee" />
+	</machine>
+	<machine name="ulyssesmk2">
+		<description>Ulysses and the Golden Fleece</description>
+		<year>1983</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="ulysses (mkii) (disk 1).d88" size="344496" crc="c8cda3c8" sha1="3afe306f81b0a031ac3847567951cd3ec70f9dbd" />
+		<rom name="ulysses (mkii) (disk 2).d88" size="348848" crc="afc8ea36" sha1="a80ad911aeaea4bc6f903d87ce8d66abdcfc318f" />
+	</machine>
+</datafile>

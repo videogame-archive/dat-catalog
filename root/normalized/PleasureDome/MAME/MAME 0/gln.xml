@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gln</name>
+		<description>VTech Genius Leader Notebook cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="diktate">
+		<description>Diktate</description>
+		<year>200?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5777-00" size="262144" crc="d77e0d64" sha1="f368c6880475064b187e41b9802740f070cda7e2" />
+	</machine>
+	<machine name="franzosis">
+		<description>Französisch Total</description>
+		<year>200?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5460-00" size="262144" crc="cbacea9d" sha1="d5659266ed25233080996c43ebf9ccb6156cd1cc" />
+	</machine>
+	<machine name="swg">
+		<description>Sport-Wissen-Geschichte</description>
+		<year>200?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5664-00" size="131072" crc="5afee6c1" sha1="578605d2649c1140f38dcaeae07a1d25f795a85e" />
+	</machine>
+</datafile>

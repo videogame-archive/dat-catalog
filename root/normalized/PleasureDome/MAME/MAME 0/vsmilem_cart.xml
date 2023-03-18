@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vsmilem_cart</name>
+		<description>VTech V.Smile Motion cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="actnmniam4">
+		<description>Action Mania (USA, rev. 4?)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84000-4.bin" size="8388608" crc="9732d6c4" sha1="6973e473fc9b274fe8e1151a27bdd02df67a23eb" />
+	</machine>
+	<machine name="actnmniam6">
+		<description>Action Mania (USA, rev. 6?)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84000-6.bin" size="8388608" crc="ea4aeb1a" sha1="74807f9306ccc691735acdca66588a80467bebbd" />
+	</machine>
+	<machine name="actnmniam">
+		<description>Action Mania (USA)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="vmotion80-084000.bin" size="8388608" crc="c3ca971e" sha1="5c63215280ec3fdb01e8b4a0c151496718b6bc0a" />
+	</machine>
+	<machine name="actnmniama1">
+		<description>Action Mania (USA, alt 1)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="ACTION Mania 80-084000(US) (Motion) [ALT1].bin" size="8388608" crc="790f097f" sha1="d1ff028837b4190173a0823ac518a58deee171b8" />
+	</machine>
+	<machine name="actnmniama2">
+		<description>Action Mania (USA, alt 2)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="ACTION Mania 80-084000(US) (Motion) [ALT2].bin" size="8388608" crc="65b5a102" sha1="336bab256596756931d7821244d9d659e55992e8" />
+	</machine>
+	<machine name="actnmniamcn">
+		<description>Yingyu Yundongyuan (China)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="[80-084008(CHN)] (Yingyu Yundongyuan) [Action Mania] (CN).bin" size="8388608" crc="e9fab386" sha1="9f2b3ab9c3c217ae50c398a6ea080141efabc1fc" />
+	</machine>
+	<machine name="actnmniamfr">
+		<description>Sporti'Folies (France)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="084005 - SportiFolies (MOTION) (FR).bin" size="8388608" crc="c6aee288" sha1="b8d96d0b1c0e8e41ab39d9d6bc1fc39060af4f26" />
+	</machine>
+	<machine name="actnmniamge">
+		<description>Sportskanone (Germany)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084004 - Sportskanone (GER) (Motion).bin" size="8388608" crc="004ad4e5" sha1="7cbc9e5a27fac455ea2b03cebad7f1694937f790" />
+	</machine>
+	<machine name="actnmniamnl">
+		<description>Sport Games (Netherlands)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084002 - Sport Games (NL) (Motion).bin" size="8388608" crc="d7e6412b" sha1="01296d41ce277573688bec470241ca75449ba61a" />
+	</machine>
+	<machine name="actnmniamsp">
+		<description>Action Manía (Spain)</description>
+		<year>201?</year>
+		<publisher>VTech</publisher>
+		<rom name="84007 G.u1" size="8388608" crc="c14a04d2" sha1="6db09fd90f88773aafd5d95c4ea403dacddc9e58" />
+	</machine>
+	<machine name="cars2m">
+		<description>Disney/Pixar Cars 2 (USA)</description>
+		<year>2011</year>
+		<publisher>VTech</publisher>
+		<rom name="Cars 2 80-084580(US) (Motion) HIGH.bin" size="8388608" crc="05c42207" sha1="89b89f312477fc56ff53c8ba7ce89ace7671e2cd" />
+		<rom name="Cars 2 80-084580(US) (Motion) LOW.bin" size="8388608" crc="6d78ae05" sha1="cdb2656be1d6e4fd24f2dd443680152fdeeab2a2" />
+	</machine>
+	<machine name="cars2mfr">
+		<description>Disney/Pixar Cars 2 (France)</description>
+		<year>2011</year>
+		<publisher>VTech</publisher>
+		<rom name="084585 - Cars 2 (MOTION) (FR).bin" size="16777216" crc="9455eff9" sha1="0ff3fe336369f95dec640a5ca691daabacbc5332" />
+	</machine>
+	<machine name="cars2mge">
+		<description>Disney/Pixar Cars 2 (Germany)</description>
+		<year>2011</year>
+		<publisher>VTech</publisher>
+		<rom name="cars2_high.bin" size="8388608" crc="7a5b9ead" sha1="8c01a52ed392b50f2a7e91ae628ae4f6f06a5fc3" />
+		<rom name="cars2_low.bin" size="8388608" crc="8d5eeb71" sha1="f53867b360464c12d905ca90aaf03855ca5fa455" />
+	</machine>
+	<machine name="cars2mp">
+		<description>Disney/Pixar Cars 2 (Pocket version, USA)</description>
+		<year>2011</year>
+		<publisher>VTech</publisher>
+		<rom name="Cars 2 80-084581(US) (Motion) (Pocket) HIGH.bin" size="8388608" crc="7eb714a4" sha1="dd03301ec4b74706d3ffa64b51bef33b7bd56ba9" />
+		<rom name="Cars 2 80-084581(US) (Motion) (Pocket) LOW.bin" size="8388608" crc="3947439a" sha1="0d3ac108a48c64ec456145e7ddb31448425d27f5" />
+	</machine>
+	<machine name="carsm">
+		<description>Disney/Pixar Cars - Rev It Up in Radiator Springs (USA)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="Cars - Rev It Up in Radiator Springs 80-084400(US) (Motion).bin" size="8388608" crc="1e6363ef" sha1="5db9fe5626ebae102ee0ec8e6b42c7987c7df686" />
+	</machine>
+	<machine name="carsmfr">
+		<description>Disney/Pixar Cars - Quatre Roues (France)</description>
+		<year>2009?</year>
+		<publisher>VTech</publisher>
+		<rom name="084405 - Cars (MOTION) (FR).bin" size="8388608" crc="9a206452" sha1="f76538de9b6c730e0b9dec7dd35b37e6ed3c94d2" />
+	</machine>
+	<machine name="carsmge">
+		<description>Disney/Pixar Cars - Vollgas in Radiator Springs (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="A84404(2).u1" size="8388608" crc="beaa1b6a" sha1="c6e68da7935642035e13cc7922b0193cc6e5272c" />
+	</machine>
+	<machine name="carsmsp">
+		<description>Disney/Pixar Cars - Acelera el Motor en Radiador Springs (Spain)</description>
+		<year>20??</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084407 - Cars - Acelera el Motor en Radiador Springs (SP) (Motion).bin" size="8388608" crc="0adff74e" sha1="7110d97905c955467d2c1529b91b83633f963086" />
+	</machine>
+	<machine name="cinderlamfr">
+		<description>Walt Disney Cendrillon - Le rêve enchanté de Cendrillon (France)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="084605 - Cendrillon (Motion) (FR).bin" size="8388608" crc="d594cf40" sha1="69350029a2382b1849efd73c7a4429da5564d28f" />
+	</machine>
+	<machine name="cinderlamge2">
+		<description>Disneys Princess Cinderella - Lernen im Märchenland (Germany, rev. 2?)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084604.bin" size="8388608" crc="9170597a" sha1="2c3235e7e8986b1c62af6b218a8ba49bb3571345" />
+	</machine>
+	<machine name="cinderlamge">
+		<description>Disneys Princess Cinderella - Lernen im Märchenland (Germany)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="C84604.u1" size="8388608" crc="0229cf3a" sha1="9c08e6370ecf08992924f067b64dd1950e3a2c6c" />
+	</machine>
+	<machine name="doram3">
+		<description>Nickelodeon Dora the Explorer - Dora's Fix It Adventure (USA, rev. 3?)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84020-3.bin" size="8388608" crc="73a3c852" sha1="8ca7255ab3e45ef670d09cfb4959bc8769415dc2" />
+	</machine>
+	<machine name="doram">
+		<description>Nickelodeon Dora the Explorer - Dora's Fix It Adventure (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Dora the Explorer - Dora's Fix-it Adventure 80-084020(US) (Motion).bin" size="8388608" crc="04d168f0" sha1="1ffb35bf7a1884c9ae3be1ce0c9bb9472d889f10" />
+	</machine>
+	<machine name="doramfr">
+		<description>Nickelodeon Dora L'Exploratrice - Les adventures de Dora Apprentie Mécano (France)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="084025 - Dora (MOTION) (FR).bin" size="8388608" crc="f8b731f2" sha1="1deaff6b5b7c6bea2e627015f875ef60e3b09d38" />
+	</machine>
+	<machine name="doramg2">
+		<description>Nick Dora - Doras Reparatur-Abenteuer (Germany, rev. 2)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="84024 OK.u1" size="8388608" crc="7848fa93" sha1="567a337f27cc5ff0ce832afa903efafc8a305f17" />
+	</machine>
+	<machine name="doramge">
+		<description>Nick Dora - Doras Reparatur-Abenteuer (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="84024 OK.u1" size="8388608" crc="6769cb8b" sha1="615177d959983cdb67acdb8f3be063b3d09cb5db" />
+	</machine>
+	<machine name="doramnl">
+		<description>Nick Jr Dora - Dora's Reparatie Avontuur (Netherlands)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084022 - Dora's Reparatie Avontuur (NL) (Motion).bin" size="8388608" crc="0ed6ba5e" sha1="48adad64724a57ee231d01129099e8419b75c083" />
+	</machine>
+	<machine name="doramsp">
+		<description>Nickelodeon Dora La Exploradora - La Aventura Arregla-Todo de Dora (Spain)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084027 - Dora La Exploradora - La Aventura Arregla-Todo De Dora (Spain).bin" size="8388608" crc="6394e5c0" sha1="a1df78187d167cf4bf15322cc4fa6b5a669217c2" />
+	</machine>
+	<machine name="findnemomfr">
+		<description>Le Monde de Nemo - Nemo à la decourverte de l'océan (France)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="084625 - Nemo (MOTION) (FR).bin" size="8388608" crc="9c0074ff" sha1="1541117ae29196b797976a8ebf47c5099a4feb08" />
+	</machine>
+	<machine name="hmannym">
+		<description>Disney Handy Manny (USA, rev. 2?)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84360-2.bin" size="8388608" crc="a6ee705b" sha1="50a94ca17efbeb3a69decab948c945df272f9c69" />
+	</machine>
+	<machine name="hmannymfr">
+		<description>Disney Manny et ses outils (France)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="084365 - MannyEtSesOutils (MOTION) (FR).bin" size="8388608" crc="a664071e" sha1="6900419492aa7424290b3db4b37c47b14a17ab61" />
+	</machine>
+	<machine name="hmannymge">
+		<description>Disney Meister Manny's Werkzeugkiste (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="Meister Mannys Werkzeugkiste (Motion) (GER).bin" size="8388608" crc="e7832bf7" sha1="e0a0d1158dabc6b9fed07b28e697e1877ed7eda0" />
+	</machine>
+	<machine name="kfpandam">
+		<description>DreamWorks Kung Fu Panda - Path of the Panda (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Kung Fu Panda - Path of the Panda 80-084120(US) (Motion).bin" size="8388608" crc="bcfdfdf6" sha1="759645680e63624b773c569f15b360c0079db839" />
+	</machine>
+	<machine name="kfpandamfr">
+		<description>DreamWorks Kung Fu Panda - La mission de Po (France)</description>
+		<year>2008?</year>
+		<publisher>VTech</publisher>
+		<rom name="084125 - KungFuPanda (MOTION) (FR).bin" size="8388608" crc="58d7ad17" sha1="f854a42b64a90ab9b8ea08ebfb57264654f108a8" />
+	</machine>
+	<machine name="kfpandamge">
+		<description>DreamWorks Kung Fu Panda - Der Weg des Panda (Germany)</description>
+		<year>2008?</year>
+		<publisher>VTech</publisher>
+		<rom name="84124 OK.u1" size="8388608" crc="16493095" sha1="07c75e46c294901ee9309d98c925a39dc1b5e384" />
+	</machine>
+	<machine name="ltleinstnm2">
+		<description>Disney's Little Einsteins (USA, rev. 2?)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84160-2.bin" size="8388608" crc="add7cc23" sha1="561e496ecbbc1e387ec343069ac19ae9aa2f234e" />
+	</machine>
+	<machine name="ltleinstnm5">
+		<description>Disney's Little Einsteins (USA, rev. 5?)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84160-5.bin" size="8388608" crc="e81159c9" sha1="dc96120d27de83e37edae6620ac40ab11b56d871" />
+	</machine>
+	<machine name="ltleinstnmg2">
+		<description>Disney's Kleine Einsteins (Germany, rev. 2?)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084164.bin" size="8388608" crc="6bb78a9b" sha1="341d773b774af3153e2490605d8d3d9d88fb6903" />
+	</machine>
+	<machine name="ltleinstnmge">
+		<description>Disney's Kleine Einsteins (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084164.bin" size="8388608" crc="b0ec807e" sha1="e947c84efd3f061cbf10f73e412d4cfdd474bade" />
+	</machine>
+	<machine name="mickeychm">
+		<description>Disney Mickey Mouse Clubhouse (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84180.bin" size="8388608" crc="2538c1d2" sha1="481af1fe5de995854068329aabf08ae9c197d175" />
+	</machine>
+	<machine name="mickeychma">
+		<description>Disney Mickey Mouse Clubhouse (alt, USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Mickey Mouse Clubhouse 80-084180(US) (Motion) [ALT].bin" size="8388608" crc="2ac1da77" sha1="6f6cc0a67e0a0392658c5062bffa581ffe715c1c" />
+	</machine>
+	<machine name="mickeychmf005">
+		<description>Disney La Maison de Mickey (France, rev. 005)</description>
+		<year>2009?</year>
+		<publisher>VTech</publisher>
+		<rom name="084185-005 - LaMaisonDeMickey (MOTION) (FR).bin" size="8388608" crc="7d77f657" sha1="90cea293ebd539ac22baa343a1efb771d91ffe4d" />
+	</machine>
+	<machine name="mickeychmge">
+		<description>Disney Micky Maus Wunderhaus (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084184 - Micky Maus Wunderhaus (GER) (Motion).bin" size="8388608" crc="64dcc828" sha1="5759bf07ba4b79d58baec9418e3cd9b9f5f9fa7f" />
+	</machine>
+	<machine name="mickeychmsp">
+		<description>Disney La Casa de Mickey Mouse (Spain)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084187 - La Casa de Mickey Mouse (SP) (Motion).bin" size="8388608" crc="d0acb307" sha1="ff777127884649e62413aac03228a60b073f23c4" />
+	</machine>
+	<machine name="monvsalienm">
+		<description>DreamWorks Monsters vs. Aliens (USA, rev. 3?)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84440-3.bin" size="8388608" crc="81f7affb" sha1="3208b5f2d6616396b2bd3a5446bd4e3ee277dc9a" />
+	</machine>
+	<machine name="monvsalienmfr">
+		<description>DreamWorks Monstres contre Aliens (France)</description>
+		<year>2009?</year>
+		<publisher>VTech</publisher>
+		<rom name="084445 - Monstres Contre Aliens (MOTION) (FR).bin" size="8388608" crc="62b63a0a" sha1="0012b363e643b386908d912df74b38d276cdc4c5" />
+	</machine>
+	<machine name="monvsalienmge">
+		<description>DreamWorks Monsters vs. Aliens (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084444 - Monsters vs Aliens (GER) (Motion).bin" size="8388608" crc="25760320" sha1="6cddb7a2b733b366609e33e1ebec3385e10a834e" />
+	</machine>
+	<machine name="monvsalienmsp">
+		<description>DreamWorks Monstruos contra Alienígenas (Spain)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084447 - Monstruos contra Alienigenas (SP) (Motion).bin" size="8388608" crc="f82735b3" sha1="86e1b7fea38ecce40f526163d3f7557c15604484" />
+	</machine>
+	<machine name="mypuppymfr">
+		<description>Mon Youtou tout fou! (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="084265 - MonToutouToutFou (MOTION) (FR).bin" size="8388608" crc="d4bf54aa" sha1="2a411d6bf8c46e67ed29c308ede2b0c740a9d083" />
+	</machine>
+	<machine name="mypuppymge">
+		<description>Mein erster Hund (Germany)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="C84264.u1" size="8388608" crc="ca98e437" sha1="8c4964a671c6c3d3c8bd5859b14143b901d54021" />
+	</machine>
+	<machine name="mypuppymnl">
+		<description>Mijn Puppy! (Netherlands)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084262 - Mijn Puppy (NL) (Motion).bin" size="8388608" crc="1a2b6da1" sha1="ca346f0b8e9d4cdea83b57e66b86ddc4c0eca88a" />
+	</machine>
+	<machine name="nascarm">
+		<description>NASCAR Academy - Race Car Superstar (USA)</description>
+		<year>2009?</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84200.bin" size="8388608" crc="55db5a32" sha1="8345985019ceaeb26bad1d0fa1236807ba054fac" />
+	</machine>
+	<machine name="nascarma">
+		<description>NASCAR Academy - Race Car Superstar (alt, USA)</description>
+		<year>2009?</year>
+		<publisher>VTech</publisher>
+		<rom name="NASCAR Academy - Race Car Superstar 80-084200(US) (Motion).bin" size="8388608" crc="030e3f19" sha1="77ddb6463ade16975dd7780593677ca4b01cc93c" />
+	</machine>
+	<machine name="nihaoklm">
+		<description>Nickelodeon Ni Hao Kai Lan - Happy Chinese New Year! (USA)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84240.bin" size="8388608" crc="3c3ddb1a" sha1="1a37f28f8893e130f55e6cae964490a9b3a60528" />
+	</machine>
+	<machine name="nihaoklmfr">
+		<description>Nickelodeon Ni Hao Kai Lan - Joyeux Nouvel an chinois! (France)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="084245 - Ni Hao Kai Lan (MOTION) (FR).bin" size="8388608" crc="2e0596e1" sha1="b55e6f7c3eab9636cf12da29e0a8c3cd77916fe7" />
+	</machine>
+	<machine name="noddymfr">
+		<description>Oui-Oui - Détective d'un Jour (France)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="084465 - OuiOui (MOTION) (FR).bin" size="8388608" crc="f60bd69b" sha1="3f80d4bce478b57efcd3da965963d5374042f288" />
+	</machine>
+	<machine name="poohm">
+		<description>Disney Winnie the Pooh - The Honey Hunt (USA)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="Winnie the Pooh - The Honey Hunt 80-084380(US) (Motion).bin" size="8388608" crc="5ffb0e13" sha1="44dfc7ea047d3d8ae2e36f8906a5053db16f2d8d" />
+	</machine>
+	<machine name="poohmfr">
+		<description>Disney Winnie L'ourson - La Chasse au miel de Winnie (France)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="084385 - Winnie L Ourson (MOTION) (FR).bin" size="8388608" crc="c71c2280" sha1="f59a96402eadba3f937e13a4569c4b309fdec7b8" />
+	</machine>
+	<machine name="poohmge">
+		<description>Winnie Puuh - Die Honigjagd (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="84384.u1" size="8388608" crc="60649955" sha1="2eda79cbf138e25ffb33281987cc885ec98e9b04" />
+	</machine>
+	<machine name="poohmsp">
+		<description>Disney Winnie the Pooh - En busca de la miel (Spain)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084387 - Winnie the Pooh - En busca de la miel (SP) (Motion).bin" size="8388608" crc="4e6da62d" sha1="be1021edc2106dc3db1c783258a414b387196ce1" />
+	</machine>
+	<machine name="prinfrogm">
+		<description>Disney Princess - The Princess and the Frog - Tiana's Big Dream (USA)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="The Princess and the Frog - Tiana's Big Dream 80-084480(US) (Motion).bin" size="8388608" crc="90fde71c" sha1="a081771ff3610b65a91af545b0d0f7f3896bd45b" />
+	</machine>
+	<machine name="prinfrogmfr">
+		<description>Disney Princess - Disney La Princesse Et La Grenouille - Le grand rêve de Tiana (France)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="084485 - LaPrincesseEtLaGrenouille (MOTION) (FR).bin" size="8388608" crc="1e1e84a2" sha1="01543d05122809e6bb5e8bdac213eedc22f442bd" />
+	</machine>
+	<machine name="prinfrogmge">
+		<description>Disney Princess - Disney Küss den Frosch - Tianas großer Traum (Germany)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="C84484.bin" size="8388608" crc="8abc088c" sha1="3637de0af0371a4bb473ae28b35141b10bbb047f" />
+	</machine>
+	<machine name="prinfrogmuk">
+		<description>Disney Princess - The Princess and the Frog - Tiana's Big Dream (UK)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084483 - Disney Princess - The Princess and the Frog (UK) (Motion).bin" size="8388608" crc="b4405317" sha1="9d016ece3cb62b2ca6c5fd7d2e3717fddf0d7034" />
+	</machine>
+	<machine name="scoobyffm">
+		<description>Scooby-Doo! - Funland Frenzy (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Scooby-Doo - Funland Frenzy 80-084040(US) (Motion).bin" size="8388608" crc="aaa1293d" sha1="bef9409a1045c1a4367006b75c0dfc80da052372" />
+	</machine>
+	<machine name="scoobyffma">
+		<description>Scooby-Doo! - Funland Frenzy (alt, USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Scooby-Doo - Funland Frenzy 80-084040(US) (Motion) [ALT].bin" size="8388608" crc="d7471a76" sha1="3621dcee24dc0ec3771e8e312673f192bbe3762b" />
+	</machine>
+	<machine name="scoobyffmfr">
+		<description>Scooby-Doo! - Panique à Funland (France)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="084045 - Scooby Doo (MOTION) (FR).bin" size="8388608" crc="7531dda5" sha1="8e9bbf17219df98bcad56241d367ebe35f3cc5a8" />
+	</machine>
+	<machine name="scoobyffmsp">
+		<description>¡¡Scooby-Doo!! - Misterio en el parque (Spain)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084047 - Scooby-Doo - Misterio en el parque (SP) (Motion).bin" size="8388608" crc="154c4c55" sha1="8826480a9771c432671d849f920fb009dd733519" />
+	</machine>
+	<machine name="shrekfam">
+		<description>Shrek Forever After (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84500.blob1.bin" size="8388608" crc="175117f1" sha1="48231caf853e27856eb033d14937b7eb7e74198c" />
+		<rom name="vsmile84500.blob2.bin" size="8388608" crc="5dc681ea" sha1="1a3a2ff08bd52ad74183b09059082b492000e571" />
+	</machine>
+	<machine name="shrekfamfr">
+		<description>Shrek 4 - Il était une fin (France)</description>
+		<year>2010?</year>
+		<publisher>VTech</publisher>
+		<rom name="084505 - Shrek 4 (MOTION) (FR)_blob1.bin" size="8388608" crc="bb3d3e09" sha1="539f0948ec1dad3b2465990fcf053f2cacc7e766" />
+		<rom name="084505 - Shrek 4 (MOTION) (FR)_blob2.bin" size="8388608" crc="7c633e07" sha1="a07b2439473be97bc1a785ae4050297ae0e5244a" />
+	</machine>
+	<machine name="shrekfamge">
+		<description>Für immer Shrek (Germany)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84504.blob1.bin" size="8388608" crc="3f1c79e2" sha1="1b12b9b379dd942356e6ee6594c8b80dbb9db781" />
+		<rom name="vsmile84504.blob2.bin" size="8388608" crc="78cf731b" sha1="9b1d1eed7bd216f4feca3160c31912b7c81e4efd" />
+	</machine>
+	<machine name="snowparkcge">
+		<description>Wintersport (Germany)</description>
+		<year>2009?</year>
+		<publisher>VTech</publisher>
+		<rom name="80-84224.bin" size="8388608" crc="76e0952f" sha1="fd4bed2303a0e98af85645a477edb34281a5d17d" />
+	</machine>
+	<machine name="snowparkcm">
+		<description>Snow Park Challenge (USA)</description>
+		<year>2009?</year>
+		<publisher>VTech</publisher>
+		<rom name="Snow Park Challenge 80-084220(US) (Motion).bin" size="8388608" crc="67b2d1c4" sha1="9991f60711c533276a4cae451202881033c2b1a8" />
+	</machine>
+	<machine name="soccerchm">
+		<description>Soccer Challenge (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="vmotion80-084300.bin" size="8388608" crc="4d0dd939" sha1="b5411b036fa91daf56f654be4ce71b4ac15541ca" />
+	</machine>
+	<machine name="soccerchmfr">
+		<description>Football Challenge (France)</description>
+		<year>20??</year>
+		<publisher>VTech</publisher>
+		<rom name="084305 - FootballChallenge (MOTION) (FR).bin" size="8388608" crc="bca67fe6" sha1="9949f36d4584290371b0126b59b7bd0b96a7c77b" />
+	</machine>
+	<machine name="soccerchmge">
+		<description>Fußball Meisterschaft (Germany)</description>
+		<year>20??</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084304 - Fussball Meisterschaft (GER) (Motion).bin" size="8388608" crc="17ff1dd6" sha1="2a071d6bc43c9b2922ec82739ba4b3b661c7cf57" />
+	</machine>
+	<machine name="spidermnm">
+		<description>Marvel Spider-Man &amp; Friends - Secret Missions (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="vmotion80-084140.bin" size="8388608" crc="be4f9c32" sha1="9f7d77f1cdf64ab993a5d07b91d435a861c91758" />
+	</machine>
+	<machine name="spidermnmfr">
+		<description>Marvel Spider-Man &amp; ses amis - Missions Secrètes (France)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="084145 - SpidermanMissionsSecretes (MOTION) (FR).bin" size="8388608" crc="e5bf01a9" sha1="0216559867626205a8c00c6d64cf64eb239be641" />
+	</machine>
+	<machine name="spidermnmge">
+		<description>Marvel Spider-Man &amp; Freunde - Geheime Missionen (Germany)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="C84144.u1" size="8388608" crc="93d129ef" sha1="8e67e2ad36104c34b6fd944e25bbfbf0313a1d7c" />
+	</machine>
+	<machine name="spongebmge">
+		<description>Nickelodeon Spongebob Schwammkopf - Der Tag des Schwamms (Germany)</description>
+		<year>2011</year>
+		<publisher>VTech</publisher>
+		<rom name="C84644.u1" size="8388608" crc="c89d9c51" sha1="11836295ebfd0a8c62e0d5f482a3c7dc18b71d1f" />
+	</machine>
+	<machine name="superwhym">
+		<description>Super WHY! - The Beach Day Mystery (USA)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="Super WHY - The Beach Day Mystery 80-084540(US) (Motion) HIGH.bin" size="8388608" crc="3021694d" sha1="5b9c8391d421a0e936de27c7f51642745d165c7c" />
+		<rom name="Super WHY - The Beach Day Mystery 80-084540(US) (Motion) LOW.bin" size="8388608" crc="84a81df8" sha1="2b161b8e709d4dc1517fb57d346d72ec28338ef7" />
+	</machine>
+	<machine name="thomasm">
+		<description>Thomas &amp; Friends - Engines Working Together (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Thomas and Friends - Engines Working Together 80-084060(US) (Motion).bin" size="8388608" crc="37ac541b" sha1="5f75fc5e006986b086fb58b522ffb3db0f5822eb" />
+	</machine>
+	<machine name="thomasmge">
+		<description>Thomas - Freunde halten zusammen (Germany)</description>
+		<year>2007?</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084064.bin" size="8388608" crc="40b28ac8" sha1="ed67e92e25dbc64c78a6e0d28c9632e9b57bd60b" />
+	</machine>
+	<machine name="tinkerm">
+		<description>TinkerBell (USA, rev. 2?)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84320-2.bin" size="8388608" crc="fa8d9640" sha1="23a69fbc2b70658b827f1b8196ee55e3efd85ef5" />
+	</machine>
+	<machine name="tinkermfr">
+		<description>La fée Clochette (France)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="084325 - La Fee Clochette (Motion) (FR).bin" size="8388608" crc="0b2645fd" sha1="8ad3b1f8082852c947c1c5a22a82e954861a0cc5" />
+	</machine>
+	<machine name="tinkermge">
+		<description>TinkerBell (Germany)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="C84324.u1" size="8388608" crc="9e207566" sha1="bb3e180a2c69306b56f08909a05dc83309be0f09" />
+	</machine>
+	<machine name="tinkermsp">
+		<description>Campanilla (Spain)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084327 - Campanilla (SPAIN).bin" size="8388608" crc="dc99e5b3" sha1="9104605d6a5f2828bdccbf719de255c45511dc99" />
+	</machine>
+	<machine name="toystor3m">
+		<description>Disney/Pixar Toy Story 3 (USA)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="Toy Story 3 80-084420(US) (Motion) HIGH.bin" size="8388608" crc="fccf046f" sha1="124c88e2b6db5a57339a6fc72d698dcfe42c49a8" />
+		<rom name="Toy Story 3 80-084420(US) (Motion) LOW.bin" size="8388608" crc="0e2ded61" sha1="cec5b6ff4f0810ca9c91c3661cbcb2828e1fc41c" />
+	</machine>
+	<machine name="toystor3mfr">
+		<description>Disney/Pixar Toy Story 3 (France)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="084425 - Toy Story 3 (MOTION) (FR).bin" size="16777216" crc="2cb9d987" sha1="1ba5162181b29757335ab92451c3e164919e9c74" />
+	</machine>
+	<machine name="toystor3mge">
+		<description>Disney/Pixar Toy Story 3 (Germany)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84424.blob1.bin" size="8388608" crc="845bbb46" sha1="1b11bb1a119715073560b40d65b77894043dd67a" />
+		<rom name="vsmile84424.blob2.bin" size="8388608" crc="c006e9b6" sha1="2f4b32ba578117caa53bb0bf9db717d8d9dd8a13" />
+	</machine>
+	<machine name="toystor3msp">
+		<description>Disney/Pixar Toy Story 3 (Spain)</description>
+		<year>2010</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084427 - Toy Story 3 (SP) (Motion).u1" size="8388608" crc="a26c152a" sha1="ba5d3557787ed77cd1cae491d64201a2e7f52952" />
+		<rom name="80-084427 - Toy Story 3 (SP) (Motion).u2" size="8388608" crc="8ab8e24b" sha1="eaa28b3e7f36c3e85abd7dceeeda382d70047742" />
+	</machine>
+	<machine name="upm">
+		<description>Disney/Pixar Up (USA)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="Up 80-084340(US) (Motion).bin" size="8388608" crc="82a312d8" sha1="aae0883f3e6439296ce434a3fbbe90836d9a0634" />
+	</machine>
+	<machine name="upmfr">
+		<description>Disney/Pixar Là-Haut (France)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="084345 - La-Haut (MOTION) (FR).bin" size="8388608" crc="57bf92d0" sha1="4fb3f99392bb2c9c45c0b64041a766156d1a2292" />
+	</machine>
+	<machine name="upmsp">
+		<description>Disney/Pixar UP (Spain)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084347 - UP (SP) (Motion).bin" size="8388608" crc="781b9e60" sha1="b16b7ffbb7828313fdbdbe1b60f016e1572cb79e" />
+	</machine>
+	<machine name="wallem">
+		<description>Disney/Pixar Wall-E (USA, rev. 2?)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="vsmile84080-2.bin" size="8388608" crc="63b0ae95" sha1="0ae362c743e690175d07b61822f897fc16094eb9" />
+	</machine>
+	<machine name="wallemfr">
+		<description>Disney/Pixar Wall-E (France)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="084085 - Wall E (MOTION) (FR).bin" size="8388608" crc="7f9f5395" sha1="4af7cbd4807c818b6c56aa09447c16c4643178c1" />
+	</machine>
+	<machine name="wallemge">
+		<description>Disney/Pixar Wall-E (Germany)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084084 - Wall-E (Ger) (Motion).bin" size="8388608" crc="038dd57c" sha1="698bbe384d9019217b58efefe927262e40d34e1b" />
+	</machine>
+	<machine name="wallemsp">
+		<description>Disney/Pixar Wall-E (Spain)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084087 - Wall-E (SP) (Motion).bin" size="8388608" crc="f2782e64" sha1="09ccd0f5184b47ae730f1803c3a4373bca571b85" />
+	</machine>
+	<machine name="wldwavesm">
+		<description>Wild Waves (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="Wild Waves 80-084280(US) (Motion).bin" size="8388608" crc="358506ff" sha1="ed99c63d6b1f2d6303fa96512f2e15d04d2eabc7" />
+	</machine>
+	<machine name="wldwavesmfr">
+		<description>Martin Le Dauphin (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="084285 - MartinLeDauphin (MOTION) (FR).bin" size="8388608" crc="0b224331" sha1="1f93ddd81648058312640c95682069267e06de9e" />
+	</machine>
+	<machine name="wonderpetm">
+		<description>Nickelodeon Wonder Pets! - Save the Animals! (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Wonder Pets - Save the Animals 80-084100(US) (Motion).bin" size="8388608" crc="111cede7" sha1="fe586130706003646a436f2a1782cba36f424cf2" />
+	</machine>
+	<machine name="wonderpetmuk">
+		<description>Nickelodeon Wonder Pets! - Save the Animals! (UK)</description>
+		<year>2009</year>
+		<publisher>VTech</publisher>
+		<rom name="80-084103 - Wonder Pets - Save the Animals (UK) (Motion).bin" size="8388608" crc="29650608" sha1="66ec3ce1316265dec08f91dcca5709b57ee554cc" />
+	</machine>
+</datafile>

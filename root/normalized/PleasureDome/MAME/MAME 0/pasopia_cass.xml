@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pasopia_cass</name>
+		<description>Toshiba Personal Computer Pasopia PA7010 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="derby">
+		<description>Pasopia Derby</description>
+		<year>1982</year>
+		<publisher>Hudson</publisher>
+		<rom name="t-1030.wav" size="13059875" crc="0c2702f7" sha1="544e120e0dc5d226072371841e5e1982f015353b" />
+	</machine>
+	<machine name="gameshuu">
+		<description>Pasopia Game-shuu</description>
+		<year>1982</year>
+		<publisher>Toshiba</publisher>
+		<rom name="pa6002.wav" size="68596062" crc="f8a3ea13" sha1="01436203bb2e7a1b7f3adec812f6d2edebcb2cc7" />
+	</machine>
+	<machine name="golf">
+		<description>The Golf</description>
+		<year>1982</year>
+		<publisher>Micro Cabin</publisher>
+		<rom name="t-201.wav" size="19156507" crc="916e814e" sha1="2e2c61129cc2359b35e1aa9d88130326b7b5ca66" />
+	</machine>
+	<machine name="hilight">
+		<description>Pasopia Game Highlight</description>
+		<year>1982</year>
+		<publisher>Toshiba</publisher>
+		<rom name="pza-410.wav" size="80066535" crc="5849a0f8" sha1="7c64bb429033b0f39a703524546bc96ae706d3cf" />
+	</machine>
+	<machine name="parttime">
+		<description>Part-Timer no Kyuuyo Keisan</description>
+		<year>1982</year>
+		<publisher>Hudson</publisher>
+		<rom name="t-3010.wav" size="14950165" crc="d7c6745d" sha1="fc0ae43e62128e02000bf534c156ac1c0eebb63b" />
+	</machine>
+	<machine name="smpleprg">
+		<description>Sample Program PA7010-you</description>
+		<year>1982</year>
+		<publisher>Toshiba</publisher>
+		<rom name="pza-383.wav" size="22310064" crc="98069673" sha1="7500579c6b43736fdcb17d6929af8a7077ca72e8" />
+	</machine>
+</datafile>

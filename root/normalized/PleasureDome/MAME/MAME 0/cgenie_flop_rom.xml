@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cgenie_flop_rom</name>
+		<description>EACA Colour Genie EG2000 ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cdosintf">
+		<description>Colour DOS Interface</description>
+		<year>1997</year>
+		<publisher>&lt;homebrew?&gt;</publisher>
+		<rom name="newe000.bin" size="2772" crc="953491a7" sha1="8d6a739a9058b3834897a15bcda5348b94008f5a" />
+	</machine>
+	<machine name="colmon2">
+		<description>Colour-Monitor 2.0</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="colour_monitor_2.bin" size="4096" crc="a6b08d4d" sha1="2398f8ea430468dbd29fb0fabe89b2c21c2404f7" />
+	</machine>
+</datafile>

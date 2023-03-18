@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>e01_flop</name>
+		<description>Acorn FileStore Discs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="fsinit">
+		<description>FileStore Initial Disc</description>
+		<year>198?</year>
+		<publisher>Acorn</publisher>
+		<rom name="filestore_initial_disc.adl" size="655360" crc="9e758dec" sha1="4750e6cf1d4d948b3a88d0c96e17fef684dbb41a" />
+	</machine>
+	<machine name="fsutil">
+		<description>FileStore Utility Disc</description>
+		<year>198?</year>
+		<publisher>Acorn</publisher>
+		<rom name="filestore_utility_disc.adl" size="655360" crc="1e41ad3a" sha1="509b353bc9956917a854df9af868aac874869a23" />
+	</machine>
+</datafile>

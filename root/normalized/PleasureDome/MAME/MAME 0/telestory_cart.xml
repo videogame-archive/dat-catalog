@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>telestory_cart</name>
+		<description>JAKKS Pacific Telestory cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cinder">
+		<description>Cinderella - Cinderella / Beauties in Bloom (USA)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / Handheld Games</publisher>
+		<rom name="telestorycinderella.bin" size="8388608" crc="c95f6cad" sha1="5f361480cbd4f12aacaaed55da113065fd4308d3" />
+	</machine>
+	<machine name="cinders">
+		<description>La Cenicienta - Bellezas en Flor / Cinderella - Beauties in Bloom (Spain)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / Handheld Games</publisher>
+		<rom name="telestorycinderellasp.bin" size="4194304" crc="e1b2fd69" sha1="0f3109f30672dacbf52668d485eeed51829993a9" />
+	</machine>
+	<machine name="dora">
+		<description>Dora the Explorer - At the Carnival / Dora Goes to School (USA)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / HotGen</publisher>
+		<rom name="telestorydora.bin" size="4194304" crc="8221c5ec" sha1="77ebe2d351cab78db82a0d88bcdfd25e0b1bf084" />
+	</machine>
+	<machine name="doras">
+		<description>Dora the Explorer - En la feria ambulante / Dora va a la escuela (Spanish)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / HotGen</publisher>
+		<rom name="telestory_dora.bin" size="4194304" crc="79334d40" sha1="8e326e14f16fc93e494afdb2557ffdf751b7faf8" />
+	</machine>
+	<machine name="lionking">
+		<description>The Lion King - The Lion King / The Lion King II - Simba's Pride (USA)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / Handheld Games</publisher>
+		<rom name="telestorylionking.bin" size="8388608" crc="f8ea0ee9" sha1="f63d9637c3ae715e89760d8a39c828f73d26d397" />
+	</machine>
+	<machine name="lionkings">
+		<description>El Rey León II - El orgullo de Simba / The Lion King II - Simba's Pride (Spain)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / Handheld Games</publisher>
+		<rom name="telestorylionkingsp.bin" size="8388608" crc="459ed493" sha1="8528d4fd5d4a7ff457935d618527621b8ec2a100" />
+	</machine>
+	<machine name="pooh">
+		<description>Winnie the Pooh - Bounce Tigger Bounce / Pooh's Honey Tree (USA)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / Handheld Games</publisher>
+		<rom name="telestorypooh.bin" size="4194304" crc="a05653ab" sha1="e9d13ba57e9d6bf1e1e2a1e0eef52be74db35637" />
+	</machine>
+	<machine name="poohs">
+		<description>Winnie the Pooh - Salta, Tigger, Salta / Winnie the Pooh - Bounce, Tigger, Bounce (Spain)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / Handheld Games</publisher>
+		<rom name="telestorypoohsp.bin" size="4194304" crc="f0ef00e8" sha1="bc407c127a64f6b5cfcf3239f1af3d7896d5a6c2" />
+	</machine>
+	<machine name="prmystic">
+		<description>Power Rangers Mystic Force - Code Busters / Whispering Voices (UK / USA?)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / HotGen</publisher>
+		<rom name="telestory_powerrangers.bin" size="8388608" crc="6da57a64" sha1="3f2d22188baefee07b11e7cd986188533a5faa4f" />
+	</machine>
+	<machine name="spongeb">
+		<description>SpongeBob SquarePants - Ice-Cream Dreams / Stop the Presses! (USA)</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / HotGen</publisher>
+		<rom name="telestoryspongebob.bin" size="8388608" crc="fe969a30" sha1="05945f07ad45032328336b8d10475d06553507fa" />
+	</machine>
+	<machine name="thomas">
+		<description>Thomas &amp; Friends - Thomas Visits the Toy Shop / Thomas' Milkshake Mix</description>
+		<year>2006</year>
+		<publisher>JAKKS Pacific / Toymax / HotGen</publisher>
+		<rom name="telestory_thomasvisitstoyshop_milkshakemix.bin" size="8388608" crc="4b99c75d" sha1="a3885e435b0bf5a87f3952da2880c36d118af17e" />
+	</machine>
+</datafile>

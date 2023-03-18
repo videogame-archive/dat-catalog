@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>bbc_flop_arm</name>
+		<description>Acorn ARM Co-Processor discs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="armevals">
+		<description>ARM Evaluation System Discs</description>
+		<year>1986</year>
+		<publisher>Acorn Computers</publisher>
+		<rom name="armevaluationsystem-disc1.adl" size="655360" crc="82fe3687" sha1="494bf65dcf070a198512115fa42456315a86e535" />
+		<rom name="armevaluationsystem-disc2.adl" size="655360" crc="600e6976" sha1="f6f29281668e9673da7dee9a4fc9dec2b8c40343" />
+		<rom name="armevaluationsystem-disc3.adl" size="655360" crc="44fa03a3" sha1="f5114ff744f6f742da3959a91a1b98af0bd1db5d" />
+		<rom name="armevaluationsystem-disc4.adl" size="655360" crc="99b8850d" sha1="aba50d169c63088a11e5ef106a86f26dd9e65db3" />
+		<rom name="armevaluationsystem-disc5.adl" size="655360" crc="c4756884" sha1="171f86f0c5591a8ee5388e42db76f81d30ab0484" />
+		<rom name="armevaluationsystem-disc6.adl" size="655360" crc="3545ff34" sha1="88a74bfe6eb864574be41e09a6f338f5895bc980" />
+	</machine>
+</datafile>

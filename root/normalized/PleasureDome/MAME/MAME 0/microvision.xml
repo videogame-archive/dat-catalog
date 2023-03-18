@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>microvision</name>
+		<description>Milton Bradley Microvision cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="alienrdr">
+		<description>Alien Raiders</description>
+		<year>1981</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="m34009-n1" size="2048" crc="b1632712" sha1="515040a3bf6386590c025e12a9512c98efdd7e1e" />
+	</machine>
+	<machine name="baseball">
+		<description>Baseball</description>
+		<year>1980</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3479-n1nll_4063" size="2048" crc="40e3327a" sha1="c1b52a081c7fe6a51c5cfe41a4d446f1f8cfe24e" />
+	</machine>
+	<machine name="blckbstr">
+		<description>Block Buster</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3450a" size="2048" crc="fd18ea6d" sha1="30203278d7f2b0817e59bdf7e451be2d64a90f5a" />
+	</machine>
+	<machine name="bomber">
+		<description>Bomber</description>
+		<year>2014</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="bomber.bin" size="2048" crc="badbd0f8" sha1="3c31c24b58b1d6ac1c7313b690ec796cc5010cb7" />
+	</machine>
+	<machine name="bowling">
+		<description>Bowling</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3475nll_4972" size="2048" crc="460ac30e" sha1="93ffb75b82d1f48f451e0e1158d5a8d1cd465fe5" />
+	</machine>
+	<machine name="connect4o">
+		<description>Connect Four (8021 version)</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="4971" size="1024" crc="bdd8660b" sha1="971f9117dc809f7b9796134208b47ea34990ae71" />
+	</machine>
+	<machine name="connect4">
+		<description>Connect Four (TMS1100 version)</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3481" size="2048" crc="6a4cf60b" sha1="e93d848784205ab49234ad26718e04d267b776ed" />
+	</machine>
+	<machine name="cosmichu">
+		<description>Cosmic hunter</description>
+		<year>1981</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="m34017-n1" size="2048" crc="d8ba1377" sha1="a8dabd296aefc46849db2b7d2d8e0de7c77b5b38" />
+	</machine>
+	<machine name="invaders">
+		<description>Space Invaders</description>
+		<year>2014</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="invaders.bin" size="2048" crc="d520ff6e" sha1="c979d7004fc205ee050045f13e2d6f2c31e2083e" />
+	</machine>
+	<machine name="microbrd">
+		<description>MicroBird</description>
+		<year>2018</year>
+		<publisher>Ayza</publisher>
+		<rom name="microbrd.bin" size="1024" crc="475a093d" sha1="6e3d2f47c836c43e8a3e74fffe30a64964e8df8c" />
+	</machine>
+	<machine name="mindbstr">
+		<description>Mindbuster</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3457nll_4976" size="2048" crc="d5dc1f7d" sha1="9e53bd7e9b718ced3bffbdd50cf9ea1547183ea3" />
+	</machine>
+	<machine name="phsrstrk">
+		<description>Star Trek: Phaser Strike</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3454" size="2048" crc="c7768d04" sha1="e477d49fc835649164cff5ed158ee31dcf244efc" />
+	</machine>
+	<machine name="pinball">
+		<description>Pinball</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3455nll_4974" size="2048" crc="906544ea" sha1="7ba8460369e1bb0708b0ef076342774059fd03d2" />
+	</machine>
+	<machine name="seaduel">
+		<description>Sea Duel</description>
+		<year>1980</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3496-n1_4064" size="2048" crc="77a8f71b" sha1="1f95ecf3b1ec6a17db92e1ae903be269aa0b47d8" />
+	</machine>
+	<machine name="sprblock">
+		<description>Super Blockbuster</description>
+		<year>1982</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="m34047-n2ll_4241" size="2048" crc="796660e3" sha1="1b758369849cc7dea3918774244f747895607377" />
+	</machine>
+	<machine name="tetris">
+		<description>Tetris (TMS1100 version)</description>
+		<year>2019</year>
+		<publisher>Ayza</publisher>
+		<rom name="tetris.bin" size="2048" crc="f08ebfe3" sha1="a1318228235189c9dcdc567a4b71bc82301ee5b4" />
+	</machine>
+	<machine name="tetriso">
+		<description>Tetris (8021 version)</description>
+		<year>2018</year>
+		<publisher>Ayza</publisher>
+		<rom name="tetriso.bin" size="1024" crc="1170e3e7" sha1="0ce4fd165e12585ca70b86333262576ec2edc880" />
+	</machine>
+	<machine name="vegasslt">
+		<description>Vegas Slots</description>
+		<year>1979</year>
+		<publisher>Milton Bradley</publisher>
+		<rom name="mp3474nll_4975" size="2048" crc="4500c1d9" sha1="d49522dbe265e71b86488b5533d01bc9050811c9" />
+	</machine>
+</datafile>

@@ -14,6 +14,7 @@ import java.util.List;
 
 import com.github.openretrogamingarchive.helpers.HTTP;
 import com.github.openretrogamingarchive.helpers.Util;
+import com.github.openretrogamingarchive.helpers.HTTP.ZIPMode;
 
 public class Redump extends Updater {
 
@@ -119,7 +120,7 @@ public class Redump extends Updater {
         if (!Files.exists(normalizedSystemDir)) {
             Files.createDirectory(normalizedSystemDir);
         }
-        Path datPath = HTTP.downloadToFolder(new URI(DOMAIN + downloadURL), normalizedSystemDir, true);
+        Path datPath = HTTP.downloadToFolder(new URI(DOMAIN + downloadURL), normalizedSystemDir, ZIPMode.ALL);
 
         // # Basic
         if (downloadType == DownloadType.Subchannels) {

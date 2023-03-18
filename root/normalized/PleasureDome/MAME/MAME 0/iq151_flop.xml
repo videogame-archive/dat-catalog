@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>iq151_flop</name>
+		<description>IQ-151 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="mikros">
+		<description>MIKROS v2.2</description>
+		<year>198?</year>
+		<publisher>VÚVT Žilina</publisher>
+		<rom name="iq151_fdd1.iqd" size="256256" crc="47d0473d" sha1="43952153a1417ce5a35c2838d878e2b9d6710c17" />
+		<rom name="iq151_fdd2.iqd" size="256256" crc="5f1c5cc2" sha1="51184fc9e705eccb600d6db255959ecb94a6305c" />
+	</machine>
+</datafile>

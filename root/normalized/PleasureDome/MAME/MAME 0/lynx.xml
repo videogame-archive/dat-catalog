@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>lynx</name>
+		<description>Atari Lynx cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="alpineg">
+		<description>Alpine Games</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="AlpineGames.bin" size="524288" crc="95a1ea09" sha1="fb71ad96f0730f88acd7d51eaa761e475a015d6c" />
+	</machine>
+	<machine name="apb">
+		<description>A.P.B. (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="a.p.b. - all points bulletin (euro, usa).bin" size="262144" crc="f6fb48fb" sha1="c2bf00de769895cbed03c056eb9c8fa1a7ea59ef" />
+	</machine>
+	<machine name="avsp">
+		<description>Alien vs Predator (USA, prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="alien vs predator (usa) (prototype).bin" size="262144" crc="540e9bb7" sha1="27427ed186d034d71e100cbff5d0072a717af9e0" />
+	</machine>
+	<machine name="awesomeg">
+		<description>Awesome Golf (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="awesome golf (euro, usa).bin" size="262144" crc="0483cd2a" sha1="74441b96ce5bf2be68945fbe93bda259f97816b7" />
+	</machine>
+	<machine name="batmanrn">
+		<description>Batman Returns (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="batman returns (euro, usa).bin" size="262144" crc="277f82c2" sha1="2e25b17a221d4d9598811fbf84ab0da3016f26e4" />
+	</machine>
+	<machine name="bbheroes">
+		<description>Baseball Heroes (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="baseball heroes (euro, usa).bin" size="262144" crc="3943c116" sha1="b30a1fe12dc3e69e1a179a5e4d1799d93996fc24" />
+	</machine>
+	<machine name="beast">
+		<description>Shadow of the Beast (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="shadow of the beast (euro, usa).bin" size="262144" crc="eb78baa3" sha1="8b891b5dafba71740294c8dc818717d3b00be3a5" />
+	</machine>
+	<machine name="billted">
+		<description>Bill &amp; Ted's Excellent Adventure (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="bill &amp; ted's excellent adventure (euro, usa).bin" size="262144" crc="143a313e" sha1="f09ce08d93a479feaceceb79eb48b337aff49fae" />
+	</machine>
+	<machine name="blockout">
+		<description>Block Out (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="block out (euro, usa).bin" size="131072" crc="3cd75df3" sha1="ae177cf76953b7e0a56b03096bb5c9c9c9051177" />
+	</machine>
+	<machine name="bluelght">
+		<description>Blue Lightning (Europe, USA)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="blue lightning (euro, usa).bin" size="131072" crc="daf587b1" sha1="be08076586f76db368db1769380dcbb6de2a6513" />
+	</machine>
+	<machine name="bluelghtd">
+		<description>Blue Lightning (USA, demo)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="blue lightning (usa) (demo).bin" size="131072" crc="bfe36525" sha1="57ece74ac94d65d86a960a44d9896e17b816bbde" />
+	</machine>
+	<machine name="bsktbrwl">
+		<description>Basketbrawl (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="basketbrawl (euro, usa).bin" size="131072" crc="4161bb4a" sha1="46ae8e1504e2944525d535280a3ed32e0873788a" />
+	</machine>
+	<machine name="bubtroub">
+		<description>Bubble Trouble (Europe, USA)</description>
+		<year>1994</year>
+		<publisher>Telegames</publisher>
+		<rom name="bubble trouble (euro, usa).bin" size="262144" crc="333daece" sha1="cb9f78ffb02216979a03abb66301e4d3a8f01bfe" />
+	</machine>
+	<machine name="bwheels">
+		<description>Battle Wheels (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Beyond Games</publisher>
+		<rom name="battle wheels (euro, usa).bin" size="131072" crc="779faece" sha1="4577550d20a22cb685d51b411396d5085a852be6" />
+	</machine>
+	<machine name="bzone2k">
+		<description>Battlezone 2000 (Europe, USA)</description>
+		<year>1995</year>
+		<publisher>Atari</publisher>
+		<rom name="battlezone 2000 (euro, usa).bin" size="262144" crc="30fee726" sha1="fb50ddee638aa316c7eae6d50961e3b69b112c4f" />
+	</machine>
+	<machine name="cabal">
+		<description>Cabal (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="cabal.bin" size="262144" crc="f8158766" sha1="e7acc3d4f69f31028c0df7b9da1a434baf60e8e8" />
+	</machine>
+	<machine name="calgames">
+		<description>California Games (Europe, USA)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="california games (euro, usa).bin" size="131072" crc="a08f0b59" sha1="f13e010102ca527a9c393acb52bb949a1ba93e3e" />
+	</machine>
+	<machine name="centiped">
+		<description>Centipede (USA, prototype)</description>
+		<year>199?</year>
+		<publisher>Shadowsoft</publisher>
+		<rom name="centipede (usa) (prototype).bin" size="131072" crc="97501709" sha1="59a5185203e3550b1cad7b28489915bc8de80851" />
+	</machine>
+	<machine name="chekflag">
+		<description>Checkered Flag (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="checkered flag (euro, usa).bin" size="262144" crc="19c5a7a5" sha1="f115bb5f98992d98c8d11b1daa68bb1961b59660" />
+	</machine>
+	<machine name="chipchal">
+		<description>Chip's Challenge (Europe, USA)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="chip's challenge (euro, usa).bin" size="131072" crc="6a5f53ed" sha1="6a90e6627086e13d99bacbcaafea7ab2f6aba8a0" />
+	</machine>
+	<machine name="cmines2bt">
+		<description>Crystal Mines II - Buried Treasure (Europe, USA)</description>
+		<year>2003</year>
+		<publisher>Songbird Productions</publisher>
+		<rom name="crystal mines ii - buried treasure.bin" size="262144" crc="122ec861" sha1="c0977ce9f22b0182b332af96290a36f0e7b8fbe6" />
+	</machine>
+	<machine name="cmines2">
+		<description>Crystal Mines II (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="crystal mines ii (euro, usa).bin" size="131072" crc="aec474c8" sha1="3364bde38508c5c4fed5575295cc80c6f72edebe" />
+	</machine>
+	<machine name="connors">
+		<description>Jimmy Connors' Tennis (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Atari</publisher>
+		<rom name="jimmy connors' tennis (euro, usa).bin" size="524288" crc="2455b6cf" sha1="d9c4220653b2dfbd6b26c0a0c81c40cb3108ee85" />
+	</machine>
+	<machine name="conquest">
+		<description>Conquest of Zow</description>
+		<year>1996</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="conquest of zow (1996).bin" size="262144" crc="b02821fa" sha1="87b683653dfe76af02a1920582b6362ee11a3715" />
+	</machine>
+	<machine name="daemongt">
+		<description>Daemonsgate (USA, prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="daemonsgate (usa) (prototype).bin" size="262144" crc="99729395" sha1="5a3a21eb5de37367d294e057f70a1f325bf23c4a" />
+	</machine>
+	<machine name="daemongta">
+		<description>Daemonsgate (USA, prototype, alt)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="daemon's gate.bin" size="262144" crc="ef529ed4" sha1="4bd08d8edd5f551782eedc4d32cf627b9fb16c8b" />
+	</machine>
+	<machine name="ddragon">
+		<description>Double Dragon (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Telegames</publisher>
+		<rom name="double dragon (euro, usa).bin" size="262144" crc="fbfc0f05" sha1="7fc3663bec878b138cfc51f14154823f9701c9e7" />
+	</machine>
+	<machine name="dinolymp">
+		<description>Dinolympics (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="dinolympics (euro, usa).bin" size="262144" crc="50386cfa" sha1="0dad2286934c6a317407db066f00233c27f54bbe" />
+	</machine>
+	<machine name="dirtylar">
+		<description>Dirty Larry - Renegade Cop (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="dirty larry - renegade cop (euro, usa).bin" size="262144" crc="d565fbb7" sha1="ca856dc880663d7f105ae5aa2ff160b9fc209f92" />
+	</machine>
+	<machine name="dracula">
+		<description>Dracula the Undead (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="dracula the undead (euro, usa).bin" size="262144" crc="33bb74c7" sha1="8f393f0fa8ce832e6298db72f539ce4b961700e2" />
+	</machine>
+	<machine name="dragnet">
+		<description>Dragnet Sound Demo</description>
+		<year>1995</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="dragnet (1995).bin" size="262144" crc="5598a4c9" sha1="fc802b8b6a62312e6f68065881d0e4f23a967451" />
+	</machine>
+	<machine name="dstrike">
+		<description>Desert Strike - Return to the Gulf (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Telegames</publisher>
+		<rom name="desert strike - return to the gulf (euro, usa).bin" size="262144" crc="b9ac1fe5" sha1="3149d8ba5661fd61dc94d518a0cb6d7b3a8f319f" />
+	</machine>
+	<machine name="electroc">
+		<description>Electrocop (Europe, USA)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="electrocop (euro, usa).bin" size="131072" crc="bd97116b" sha1="5bd6614bc98a882ec2f465278fe4f1ed6a4e972b" />
+	</machine>
+	<machine name="eurosocc">
+		<description>European Soccer Challenge (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Telegames</publisher>
+		<rom name="european soccer challenge (euro, usa).bin" size="131072" crc="f83397f9" sha1="f1d0390a36055ef2b7cb5f7ce44f622a63d82e80" />
+	</machine>
+	<machine name="eyebehol">
+		<description>Eye of the Beholder (USA, prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="eye of the beholder.bin" size="524288" crc="ae8c70f0" sha1="c06fc630278f618b09388ebf05e4f131cb3b8794" />
+	</machine>
+	<machine name="eyebehola">
+		<description>Eye of the Beholder (USA, prototype, early)</description>
+		<year>199?</year>
+		<publisher>NuFX</publisher>
+		<rom name="eye of the beholder (usa) (prototype).bin" size="131072" crc="6bceaa9c" sha1="65c0517a59e0e93bad91245ee8085b3483428707" />
+	</machine>
+	<machine name="fatbobby">
+		<description>Fat Bobby (Europe, USA)</description>
+		<year>199?</year>
+		<publisher>Telegames</publisher>
+		<rom name="fat bobby (euro, usa).bin" size="262144" crc="9034ee27" sha1="766ed1a28528535338e176559a145afaffacf3ef" />
+	</machine>
+	<machine name="fidelity">
+		<description>The Fidelity Ultimate Chess Challenge (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Telegames</publisher>
+		<rom name="fidelity ultimate chess challenge, the (euro, usa).bin" size="131072" crc="7e4b5945" sha1="f6afa50f161fffe5975cf5688a9314b8039d940f" />
+	</machine>
+	<machine name="friendly">
+		<description>Friendly (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="friendly.bin" size="131072" crc="68b0a428" sha1="d792813ce2f752a2f583c54d056703506c5acedc" />
+	</machine>
+	<machine name="fullcp">
+		<description>Full Court Press (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="full court press.bin" size="262144" crc="ff9e0126" sha1="6419332f565cf090313044c1815e540c72d8dd8a" />
+	</machine>
+	<machine name="gatezend">
+		<description>Gates of Zendocon (Europe, USA)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="gates of zendocon, the (euro, usa).bin" size="131072" crc="494cc568" sha1="4eb4d3eb29231b2e36d8ef6ede64a568f469c5fe" />
+	</machine>
+	<machine name="gauntlet">
+		<description>Gauntlet - The Third Encounter (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="gauntlet - the third encounter (euro, usa).bin" size="131072" crc="7f0ec7ad" sha1="41d27f0717a93d05a9d3d1110f571f791d330f55" />
+	</machine>
+	<machine name="geoduel">
+		<description>Geoduel (prototype)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="geoduel.bin" size="262144" crc="bd4bf2b0" sha1="0b304f14d0fdc1387e51b2c8a8546c88e5e12d11" />
+	</machine>
+	<machine name="gordo106">
+		<description>Gordo 106 - The Mutated Lab Monkey (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Atari</publisher>
+		<rom name="gordo 106 - the mutated lab monkey (euro, usa).bin" size="262144" crc="d20a85fc" sha1="298163cf4355d0e8aaba264cd7dcd828b1fc6bec" />
+	</machine>
+	<machine name="gsod">
+		<description>Guardians Storm Over Doria (prototype)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="guardians storm over doria.bin" size="262144" crc="8f0e72c6" sha1="31cadc20427c6be236db6024bcd280fc1661c235" />
+	</machine>
+	<machine name="gsoda">
+		<description>Guardians Storm Over Doria (prototype, alt)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="guardians storm over doria (alt).bin" size="262144" crc="0e335aa8" sha1="9f02145a5640c4c373f45dcb5566e5ac36f32851" />
+	</machine>
+	<machine name="harddriv">
+		<description>Hard Drivin' (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="hard drivin' (euro, usa).bin" size="131072" crc="6df63834" sha1="6d33abd50d46f900e8762d6e64b51e647ea98b07" />
+	</machine>
+	<machine name="hockey">
+		<description>Hockey (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="hockey (euro, usa).bin" size="262144" crc="e8b45707" sha1="707af2b63c75b777ec519b63f0b8e86565356357" />
+	</machine>
+	<machine name="hydra">
+		<description>Hydra (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="hydra (euro, usa).bin" size="262144" crc="e3041c6c" sha1="fc0c7cabf3a2ee821f7441b71d19d52205f97721" />
+	</machine>
+	<machine name="ishido">
+		<description>Ishido - The Way of Stones (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="ishido - the way of stones (euro, usa).bin" size="131072" crc="5cf8bbf0" sha1="78c295af3a57b5bd7d7e1d13ab13ad67885c4e89" />
+	</machine>
+	<machine name="joust">
+		<description>Joust (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Williams Entertainment</publisher>
+		<rom name="joust (euro, usa).bin" size="131072" crc="5dba792a" sha1="ead01f532bcaf535065dfd66b26d04b484d0066e" />
+	</machine>
+	<machine name="klax">
+		<description>Klax (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="klax (euro, usa).bin" size="262144" crc="a53649f1" sha1="a1d2dc0771f4a30e539ab3261a21cc71adc71550" />
+	</machine>
+	<machine name="klaxp">
+		<description>Klax (prototype)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="klax pre-release" size="262144" crc="4d5d94f4" sha1="b6cb710964a5fdd0a236bf38069be40aa4037b6b" />
+	</machine>
+	<machine name="krazyace">
+		<description>Krazy Ace - Miniature Golf (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Telegames</publisher>
+		<rom name="krazy ace - miniature golf (euro, usa).bin" size="262144" crc="bed5ba2b" sha1="20e9011c922f06d9c8823f15c71e005ac2268295" />
+	</machine>
+	<machine name="kungfood">
+		<description>Kung Food (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="kung food (euro, usa).bin" size="262144" crc="cd1bd405" sha1="ae1bd18b30dd9ae67472c4c532f4d65d23324555" />
+	</machine>
+	<machine name="lcasino">
+		<description>Lynx Casino (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="lynx casino (euro, usa).bin" size="262144" crc="1091a268" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" />
+	</machine>
+	<machine name="lemmings">
+		<description>Lemmings (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Atari</publisher>
+		<rom name="lemmings (euro, usa).bin" size="262144" crc="39b9b8cc" sha1="4d430b1aacf207a631f81b2089688b82267d0394" />
+	</machine>
+	<machine name="lexis">
+		<description>Lexis (Europe, USA)</description>
+		<year>1999</year>
+		<publisher>Songbird Productions</publisher>
+		<rom name="lexis (euro, usa).bin" size="262144" crc="0271b6e9" sha1="b973cee4a58dbae5ab2d540b38db90aae78ba323" />
+	</machine>
+	<machine name="loopz">
+		<description>Loopz (USA, prototype, 19921105)</description>
+		<year>2004</year>
+		<publisher>Songbird Productions</publisher>
+		<rom name="loopz (usa) (prototype).bin" size="262144" crc="b1c25ef1" sha1="b43b0841a5d315d8e515ceaece29875ba6f9afbb" />
+	</machine>
+	<machine name="loopza">
+		<description>Loopz (USA, prototype, 19920916)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="loopz v0.04 evaluation.bin" size="262144" crc="d2b07d4d" sha1="f9e2ece48ed2eab61743836922fa8805c3332b89" />
+	</machine>
+	<machine name="lynx2tst">
+		<description>Lynx II Production Test Program V0.02 (prototype)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="lynx ii production test program v0.02 (usa) (prototype).bin" size="262144" crc="28ada019" sha1="c0d35fcfac44437cf3d6d56e6f8cea0dcb12a296" />
+	</machine>
+	<machine name="malibu">
+		<description>Malibu Bikini Volleyball (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Atari</publisher>
+		<rom name="malibu bikini volleyball (euro, usa).bin" size="262144" crc="aba6da3d" sha1="9c3d8037d347c0ff23d941eff8b575a4f2f051da" />
+	</machine>
+	<machine name="marlboro">
+		<description>Marlboro Go! (Europe, prototype)</description>
+		<year>1993</year>
+		<publisher>Digital Image</publisher>
+		<rom name="marlboro go (euro) (prototype).bin" size="262144" crc="c3fa0d4d" sha1="26b18b706359b093d0b1bbca4dba9cd2d73e0372" />
+	</machine>
+	<machine name="marlborog">
+		<description>Marlboro Go! (Germany, prototype)</description>
+		<year>1993</year>
+		<publisher>Atari</publisher>
+		<rom name="marlboro go.bin" size="262144" crc="b17a36ad" sha1="d3fc3ff1843c3ad431ad053ade9dbbe4a8f34822" />
+	</machine>
+	<machine name="megapak">
+		<description>MegaPak 1 (Europe, USA)</description>
+		<year>2007</year>
+		<publisher>Songbird Productions</publisher>
+		<rom name="Mega Pak 1.bin" size="262144" crc="ca7cf30b" sha1="c961b618021e37cf71104f4f7a04f5ea3e0ccb06" />
+	</machine>
+	<machine name="mspacman">
+		<description>Ms. Pac-Man (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="ms. pac-man (euro, usa).bin" size="131072" crc="7de3783a" sha1="ff644034cd840f8c13b643c44ec2c685290e0326" />
+	</machine>
+	<machine name="nflfoot">
+		<description>NFL Football (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="nfl football (euro, usa).bin" size="262144" crc="006fd398" sha1="caea445bddcf75bcbe13920718279220d1acb869" />
+	</machine>
+	<machine name="ngaiden3">
+		<description>Ninja Gaiden III - The Ancient Ship of Doom (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Atari</publisher>
+		<rom name="ninja gaiden iii - the ancient ship of doom (euro, usa).bin" size="524288" crc="f3e3f811" sha1="37861cc3025d9addbace8d07c8f65961cba29eaa" />
+	</machine>
+	<machine name="ngaiden">
+		<description>Ninja Gaiden (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="ninja gaiden (euro, usa).bin" size="262144" crc="22d47d51" sha1="a40b5dabff9c2f6114fdbc587c72312704d7fabb" />
+	</machine>
+	<machine name="ninjanerd">
+		<description>Ninja Nerd (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="ninja nerd.bin" size="262144" crc="f428008d" sha1="69f51159b6b4c1a454ddf78bd3cef94548f4db49" />
+	</machine>
+	<machine name="othello">
+		<description>Lynx Othello</description>
+		<year>1999</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="othello.bin" size="524288" crc="d659adf8" sha1="5470950f9348c8edcab4f5063cf20d3252443ac0" />
+	</machine>
+	<machine name="pacland">
+		<description>Pac-Land (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="pac-land (euro, usa).bin" size="131072" crc="aa50dd22" sha1="58b57835703e3145a54e1c0ada38c9218bf4cd3d" />
+	</machine>
+	<machine name="paperboy">
+		<description>Paperboy (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="paperboy (euro, usa).bin" size="131072" crc="4cdfbd57" sha1="537bae2c336dc9925f10505d4040965ca7434f5d" />
+	</machine>
+	<machine name="pinballj">
+		<description>Pinball Jam (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="pinball jam (euro, usa).bin" size="262144" crc="14d38ca7" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e" />
+	</machine>
+	<machine name="pitfight">
+		<description>Pit-Fighter - The Ultimate Competition (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="pit fighter - the ultimate competition (euro, usa).bin" size="524288" crc="2393135f" sha1="30f8c7acf41a988578768b251e88b636462752cb" />
+	</machine>
+	<machine name="pitfightp">
+		<description>Pit-Fighter - The Ultimate Competition (prototype 19921013)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="pit fighter (oct 13, 1992 prototype).bin" size="524288" crc="e7a5a4d0" sha1="457a97a914ad90f11b6fcbe6eda11d29d9d4e016" />
+	</machine>
+	<machine name="poker">
+		<description>Poker (France, prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="poker.bin" size="131072" crc="c45bcd62" sha1="2f15242d1d144ec8970b6700630932def0e4203a" />
+	</machine>
+	<machine name="ponx">
+		<description>Ponx</description>
+		<year>1999</year>
+		<publisher>Songbird Productions</publisher>
+		<rom name="ponx.bin" size="262144" crc="341c88e2" sha1="3254f5c3d347d444dc1bf4cdb07523cc0241d979" />
+	</machine>
+	<machine name="pounce">
+		<description>Pounce! (prototype)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="pounce.bin" size="262144" crc="5d1abfe7" sha1="77649c82e5aad890676700025976bcba0c1eff09" />
+	</machine>
+	<machine name="powfactr">
+		<description>Power Factor (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="power factor (euro, usa).bin" size="262144" crc="99c42034" sha1="1ad5386f43f60d848a40ee1237e5bd153faea23f" />
+	</machine>
+	<machine name="qix">
+		<description>Qix (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Telegames</publisher>
+		<rom name="qix (euro, usa).bin" size="131072" crc="b9881423" sha1="30b8369ea396347d4847990691d880c313aacae7" />
+	</machine>
+	<machine name="raiden">
+		<description>Raiden (USA, v3.0)</description>
+		<year>1997</year>
+		<publisher>Telegames</publisher>
+		<rom name="raiden (usa) (v3.0).bin" size="262144" crc="bcd10c3a" sha1="df48f69a7257a40844812e5b0bda9efdf093b7f6" />
+	</machine>
+	<machine name="ramcart">
+		<description>Ram Cart (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="ram cart.bin" size="131072" crc="74ec2b2b" sha1="2beb2d2c8ea53ba299c0b10450a05e26276042da" />
+	</machine>
+	<machine name="rampage">
+		<description>Rampage (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="rampage (euro, usa).bin" size="262144" crc="b10b7c8e" sha1="771dbf246386da37670324d34066671f3f43ac0e" />
+	</machine>
+	<machine name="rampart">
+		<description>Rampart (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="rampart (euro, usa).bin" size="262144" crc="139f301d" sha1="3c3a0729bb4ddecf5e5fd2d9ced4671d2e0e702e" />
+	</machine>
+	<machine name="roadblst">
+		<description>RoadBlasters (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="roadblasters (euro, usa).bin" size="262144" crc="6867e80c" sha1="20233381f12a48bc61b2c4b7a8f602a2c8ebc8ba" />
+	</machine>
+	<machine name="roadriot">
+		<description>Road Riot 4WD (USA, prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="road riot 4wd (usa) (prototype).bin" size="262144" crc="69959a3b" sha1="63978dfd86782acc101266d7bab8677e32d7ea8f" />
+	</machine>
+	<machine name="roadriota">
+		<description>Road Riot 4WD (USA, prototype, alt)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="road riot.bin" size="262144" crc="bfecefc3" sha1="9a6b92eeca38c5333b1025730055190fe3be4b64" />
+	</machine>
+	<machine name="robosqua">
+		<description>Robo-Squash (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="robo-squash (euro, usa).bin" size="131072" crc="d1dff2b2" sha1="144e4aa67babc8f3e24c5547f8664c3c6cff8601" />
+	</machine>
+	<machine name="robotron">
+		<description>Robotron: 2084 (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Williams Entertainment</publisher>
+		<rom name="robotron 2084 (euro, usa).bin" size="131072" crc="7a6049b5" sha1="04048aa47c0ff99647608d4d1ccf48ba881a0f89" />
+	</machine>
+	<machine name="robotronp">
+		<description>Robotron: 2084 (prototype)</description>
+		<year>1991</year>
+		<publisher>Williams Entertainment</publisher>
+		<rom name="robotron 2084.u2" size="131072" crc="6e7b014f" sha1="d9d112806aa11e6d6a7b995c726079daf494b5cd" />
+	</machine>
+	<machine name="rthunder">
+		<description>Rolling Thunder (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="rolling thunder.bin" size="262144" crc="467f8fd9" sha1="3a9ce2f7ef7889a993c9a8690d66e651b2a118d4" />
+	</machine>
+	<machine name="rygar">
+		<description>Rygar - Legendary Warrior (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="rygar - legendary warrior (euro, usa).bin" size="262144" crc="67e5bdba" sha1="8743769af583af681fd1d96aadb533d26b1b510d" />
+	</machine>
+	<machine name="scrapdog">
+		<description>Scrapyard Dog (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="scrapyard dog (euro, usa).bin" size="262144" crc="be166f3b" sha1="df57cd7f119fa6af8f9b24942f0f12314b301075" />
+	</machine>
+	<machine name="shanghai">
+		<description>Shanghai (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="shanghai (euro, usa).bin" size="131072" crc="192bcd04" sha1="9e67e05545934a7d375597b0e8c469468c5748a4" />
+	</machine>
+	<machine name="slimew">
+		<description>Todd's Adventures in Slime World (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="todd's adventures in slime world (euro, usa).bin" size="131072" crc="ae267e29" sha1="2b9c665456d17726ea57fd06ce2754a14382dc99" />
+	</machine>
+	<machine name="spacewar">
+		<description>Spacewar (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="spacewar demo.bin" size="131072" crc="59510cb3" sha1="2aba7cc0506a040c97fb58e77b7f7393d60b9983" />
+	</machine>
+	<machine name="steeltal">
+		<description>Steel Talons (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="steel talons (euro, usa).bin" size="262144" crc="5b2308ed" sha1="773946365ecf3c862cfa21167750140e4b1adad2" />
+	</machine>
+	<machine name="stunrun">
+		<description>S.T.U.N. Runner (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="s.t.u.n. runner (euro, usa).bin" size="262144" crc="8595c40b" sha1="aa570dbbf4682da3297286fc69617c3c9aca2f18" />
+	</machine>
+	<machine name="supaster">
+		<description>Super Asteroids - Missile Command (Europe, USA)</description>
+		<year>1995</year>
+		<publisher>Atari</publisher>
+		<rom name="super asteroids, missile command (euro, usa).bin" size="131072" crc="2da7e2a8" sha1="d15c7382346cae6296e83ef494a8aec3adaf949c" />
+	</machine>
+	<machine name="superoff">
+		<description>Super Off-Road (Europe, USA)</description>
+		<year>1993</year>
+		<publisher>Telegames</publisher>
+		<rom name="super off-road (euro, usa).bin" size="262144" crc="690caeb0" sha1="9bf10edfedde85467f159afb48d02f1ca43be8f4" />
+	</machine>
+	<machine name="supskwek">
+		<description>Super Skweek (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="super skweek (euro, usa).bin" size="262144" crc="dfa61571" sha1="d6c18bf5e625cbac7434ef0d600ad0da667f24cd" />
+	</machine>
+	<machine name="switchb2">
+		<description>Switchblade II (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="switchblade ii (euro, usa).bin" size="262144" crc="13657705" sha1="256d55e8e9478c53e340321c858df6710a9f69a6" />
+	</machine>
+	<machine name="tcyberbl">
+		<description>Tournament Cyberball 2072 (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="tournament cyberball 2072 (euro, usa).bin" size="262144" crc="0590a9e3" sha1="e63cc54e34840a4e3c1aa5bbce4e406895e44534" />
+	</machine>
+	<machine name="toki">
+		<description>Toki (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="toki (euro, usa).bin" size="262144" crc="156a4a4c" sha1="242fee76ea2ae263511df5d8bd3f7b0ddc81757d" />
+	</machine>
+	<machine name="turbosub">
+		<description>Turbo Sub (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="turbo sub (euro, usa).bin" size="131072" crc="a4b924d6" sha1="1186b3216830c5bbeac6b39aab1039eef27f0785" />
+	</machine>
+	<machine name="viking">
+		<description>Viking Child (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="viking child (euro, usa).bin" size="262144" crc="8d56828b" sha1="47c32e4d816dde797b6bba2019f2e296bdad02dd" />
+	</machine>
+	<machine name="vindictr">
+		<description>Vindicators (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="vindicators.bin" size="131072" crc="6e084b3a" sha1="750014090b3a74b1d65c7706097ed5268f6fa331" />
+	</machine>
+	<machine name="warbirds">
+		<description>Warbirds (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="warbirds (euro, usa).bin" size="131072" crc="b946ba49" sha1="2c376581ac20fb5de8538b51820e1f007cca8260" />
+	</machine>
+	<machine name="wcsoccer">
+		<description>World Class Soccer (Europe, USA)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="world class soccer (euro, usa).bin" size="262144" crc="91233794" sha1="40100a0db681b4efca4a491c88bf76a19105336f" />
+	</machine>
+	<machine name="weltensc">
+		<description>Weltenschlächter</description>
+		<year>2016</year>
+		<publisher>Luchs Soft</publisher>
+		<rom name="weltenschlacht.lyx" size="524288" crc="a0c59271" sha1="dbba003684efe249b6f17a070b3b008b09c67d3f" />
+	</machine>
+	<machine name="wolfman">
+		<description>Wolfman Slideshow (prototype, 19920319)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="wolfman slideshow.bin" size="262144" crc="c5ebd679" sha1="eaefa72c184c010aa32e1cdc60fae9acf543cda1" />
+	</machine>
+	<machine name="xenophob">
+		<description>Xenophobe (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="xenophobe (euro, usa).bin" size="131072" crc="9bed736d" sha1="a1b4f7a4697310cafea1271bd4b41eeafae60ffa" />
+	</machine>
+	<machine name="xybots">
+		<description>Xybots (Europe, USA)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="xybots (euro, usa).bin" size="262144" crc="89e2a595" sha1="5ff3c39a6919db6d2270bb22e80e7680550c47ba" />
+	</machine>
+	<machine name="yastuna1">
+		<description>Yastuna Vol.1 - The Alchemy of Cubes</description>
+		<year>2008</year>
+		<publisher>Fadest</publisher>
+		<rom name="yastuna1.bin" size="262144" crc="a6fe24af" sha1="78ab610f29e97b111cfe4c48b681a416d5e79d42" />
+	</machine>
+	<machine name="yastuna2">
+		<description>Yastuna Vol.2 - The Space Incident</description>
+		<year>2008</year>
+		<publisher>Fadest</publisher>
+		<rom name="yastuna2.bin" size="262144" crc="6b09d810" sha1="e38728654920868905e2a7b1e98985acaa9d21ae" />
+	</machine>
+	<machine name="zaku">
+		<description>Zaku</description>
+		<year>2009</year>
+		<publisher>Super Fighter Team / Penguinet</publisher>
+		<rom name="Zaku.bin" size="524288" crc="4ea845da" sha1="2723c29b4e00dd76402e9fc4dc50cb59b673b507" />
+	</machine>
+	<machine name="zakud">
+		<description>Zaku (demo)</description>
+		<year>2009</year>
+		<publisher>Penguinet</publisher>
+		<rom name="zakudemo.bin" size="262144" crc="b3747c71" sha1="530ea8c0a820746425017cbcc9f766531f5c6333" />
+	</machine>
+	<machine name="zarlor">
+		<description>Zarlor Mercenary (Europe, USA)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="zarlor mercenary (euro, usa).bin" size="131072" crc="cb27199d" sha1="7005cdfa0a2e4a9611266ce50493cbb32351e069" />
+	</machine>
+</datafile>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>snes_strom</name>
+		<description>Nintendo SNES - Sufami Turbo cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="carrangr">
+		<description>Gekisou Sentai Carranger - Zenkai! Racer Senshi</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="gekisou sentai carranger - zenkai racer senshi (japan).st" size="524288" crc="14c66fca" sha1="50b9d6ebf0e3f4b9dad5d0660d6c834820cbe391" />
+	</machine>
+	<machine name="crayon">
+		<description>Crayon Shin-chan - Nagagutsu Dobon!!</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="crayon shin-chan - nagagutsu dobon (japan).st" size="524288" crc="8eb753f3" sha1="98a99807a958c1175a2b257166d7b08b2be6d442" />
+	</machine>
+	<machine name="gegege">
+		<description>GeGeGe no Kitarou - Youkai Donjara</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="gegege no kitarou - youkai donjara (japan).st" size="524288" crc="4296500d" sha1="965b2582b13ee361eca93937b1b093049bc8d958" />
+	</machine>
+	<machine name="poipoi">
+		<description>Poi Poi Ninja World</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="poi poi ninja world (japan).st" size="524288" crc="32b2b3dd" sha1="ae7421b87a9f4cc7c189680dfbb39453905aa5e6" />
+	</machine>
+	<machine name="sailrfp2">
+		<description>Bishoujo Senshi Sailormoon Sailorstars - Fuwafuwa Panic 2</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="bishoujo senshi sailormoon sailorstars - fuwafuwa panic 2 (japan).st" size="1048576" crc="bb5c4238" sha1="f72ea67468cf34360042bdd7974fd588a2407566" />
+	</machine>
+	<machine name="sdgunas">
+		<description>SD Gundam Generation - Axis Senki</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd gundam generation - axis senki (japan).st" size="524288" crc="72b4235f" sha1="6f5be110a606f34bb797a30c1f07b84b2ff38425" />
+	</machine>
+	<machine name="sdgunbks">
+		<description>SD Gundam Generation - Babylonia Kenkoku Senki</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd gundam generation - babylonia kenkoku senki (japan).st" size="524288" crc="792d884c" sha1="f18f680b981077cfa025161cfe6c9594b6d18078" />
+	</machine>
+	<machine name="sdgunck">
+		<description>SD Gundam Generation - Colony Kakutouki</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd gundam generation - colony kakutouki (japan).st" size="524288" crc="c5dfa8fd" sha1="0a335ef645d058c2da5389ad622c62d0bffce944" />
+	</machine>
+	<machine name="sdgungs">
+		<description>SD Gundam Generation - Gryps Senki</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd gundam generation - gryps senki (japan).st" size="524288" crc="48ecae44" sha1="f280004dd92b70b1bf4518e054b4181a9bbba245" />
+	</machine>
+	<machine name="sdgunis">
+		<description>SD Gundam Generation - Ichinen Sensouki</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd gundam generation - ichinen sensouki (japan).st" size="524288" crc="afd74dcb" sha1="adc7716a4b081aba5cde3525881c51ee6d600396" />
+	</machine>
+	<machine name="sdgunzs">
+		<description>SD Gundam Generation - Zanscare Senki</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd gundam generation - zanscare senki (japan).st" size="524288" crc="efd3a865" sha1="d0ebe3cfcc76ec275151c3b9392fc2ff5d3b50da" />
+	</machine>
+	<machine name="ubattle7">
+		<description>SD Ultra Battle - Seven Densetsu</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd ultra battle - seven densetsu (japan).st" size="524288" crc="43ad5a45" sha1="bfe85a6e6e8c24584ed5983dbf56048c4c8f2287" />
+	</machine>
+	<machine name="ubattleu">
+		<description>SD Ultra Battle - Ultraman Densetsu</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd ultra battle - ultraman densetsu (japan).st" size="524288" crc="04939d14" sha1="5527fcc136ff0c0ef53a1c9c2756d4a27afa1526" />
+	</machine>
+</datafile>

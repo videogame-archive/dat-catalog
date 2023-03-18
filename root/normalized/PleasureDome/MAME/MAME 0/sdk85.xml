@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sdk85</name>
+		<description>SDK-85 expansion ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ap29">
+		<description>AP-29 Serial I/O Routines</description>
+		<year>1977</year>
+		<publisher>Intel</publisher>
+		<rom name="ap29.bin" size="2048" crc="c17c3020" sha1="d96dd85fd47ad4af41366a4df758a421b1c39d49" />
+	</machine>
+	<machine name="mmind">
+		<description>Mastermind</description>
+		<year>2019</year>
+		<publisher>hack (Peter Naszvadi)</publisher>
+		<rom name="mastermind.a15" size="2048" crc="0538e162" sha1="c351975e2cf515cee29fcaeb04ef47189afe5250" />
+	</machine>
+</datafile>

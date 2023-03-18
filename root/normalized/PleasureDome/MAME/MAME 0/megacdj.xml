@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>megacdj</name>
+		<description>Sega Mega CD (Japan) CD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3rdww">
+		<description>The IIIrd World War (Japan)</description>
+		<year>1993</year>
+		<publisher>Micronet</publisher>
+		<disk name="iiird world war, the (1993)(micronet)(ntsc)(jp)" sha1="b1d25f9d8bdddfe06f9b2aab5b7050726c0e4f37" />
+	</machine>
+	<machine name="3x3eyes">
+		<description>Seima Densetsu 3x3 Eyes (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="seima densetsu 3x3 eyes (japan)" sha1="8a850d7cf8db54c48adb8ae8f485143cd27df8c6" />
+	</machine>
+	<machine name="aburner3">
+		<description>After Burner III (Japan)</description>
+		<year>1992</year>
+		<publisher>CRI</publisher>
+		<disk name="after burner iii (japan)" sha1="679964728d2ccc9ddbb298b96d9cd9ebb09bb9db" />
+	</machine>
+	<machine name="afterarm">
+		<description>After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="after armageddon gaiden - majuu toushouden eclipse (1994)(sega)(ntsc)(jp)" sha1="1e86a6fbb394519c6248eaeff2421af8b50b61e2" />
+	</machine>
+	<machine name="aislelrd">
+		<description>Aisle Lord (Japan)</description>
+		<year>1992</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="aisle lord (1992)(wolf team)(ntsc)(jp)" sha1="f887450ea288247c4e38ff5b5dbded05f446a857" />
+	</machine>
+	<machine name="alshark">
+		<description>Alshark (Japan)</description>
+		<year>1993</year>
+		<publisher>Polydor K.K.</publisher>
+		<disk name="alshark (1993)(polydor k.k.)(ntsc)(jp)" sha1="5bc6cb84f7d664f2d3b10894bbce88bfb71a2e7c" />
+	</machine>
+	<machine name="anettfut">
+		<description>Anett Futatabi (Japan)</description>
+		<year>1993</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="anett futatabi (1993)(wolf team)(ntsc)(jp)(en)" sha1="3b86f9d737a36266a72b46f148dbdb369356ff9b" />
+	</machine>
+	<machine name="arank">
+		<description>A-Rank Thunder Tanjouhen (Japan)</description>
+		<year>1993</year>
+		<publisher>Nihon Telenet</publisher>
+		<disk name="a-rank thunder tanjouhen (1993)(riot)(ntsc)(jp)" sha1="e143c4044521b8ade18161f8f2767145967e4041" />
+	</machine>
+	<machine name="arcus123">
+		<description>Arcus I-II-III (Japan)</description>
+		<year>1993</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="arcus i-ii-iii (1993)(wolf team)(ntsc)(jp)" sha1="a0190fafe2618845356336998bdb849ea63624f2" />
+	</machine>
+	<machine name="arslan">
+		<description>Arslan Senki - The Heroic Legend of Arslan (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="arislan senki - the heroic legend of arslan (1993)(sega)(ntsc)(jp)" sha1="e424b94599fd05d786c0b66e9c33809bb7df31d2" />
+	</machine>
+	<machine name="ax101">
+		<description>AX-101 (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="ax-101 (japan)" sha1="0307a310f28bdca4407eea6424ab59750581be57" />
+	</machine>
+	<machine name="bakuden">
+		<description>Baku-den - The Unbalanced Zone (Japan)</description>
+		<year>1994</year>
+		<publisher>Sony Music Entertainment</publisher>
+		<disk name="baku-den - the unbalanced zone (1994)(sony)(ntsc)(jp)" sha1="abf00751f618aa8373757194fa2b8d9f8452f1dd" />
+	</machine>
+	<machine name="bariarm">
+		<description>Bari-Arm (Japan)</description>
+		<year>1993</year>
+		<publisher>Human Entertainment</publisher>
+		<disk name="bari-arm (japan)" sha1="a14d376efd556bf05f37e696c01664b7dfa13dbe" />
+	</machine>
+	<machine name="batlfant">
+		<description>Battle Fantasy (Japan)</description>
+		<year>1994</year>
+		<publisher>Micronet</publisher>
+		<disk name="battle fantasy (1994)(micronet)(ntsc)(jp)" sha1="763d75175e1a1fac6368c42b95c6260fbf14e865" />
+	</machine>
+	<machine name="beast2">
+		<description>Shadow of the Beast II - Juushin no Jubaku (Japan)</description>
+		<year>1994</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="shadow of the beast ii - juushin no jubaku (japan)" sha1="87dffb24d18d1e0f61907fd8b25f85c25f1968d8" />
+	</machine>
+	<machine name="blckhole">
+		<description>Black Hole Assault (Japan)</description>
+		<year>1992</year>
+		<publisher>Micronet</publisher>
+		<disk name="black hole assault (1992)(micronet)(ntsc)(jp)" sha1="230a773feb5520186f8dbe1985b9a1e3e679fdb6" />
+	</machine>
+	<machine name="btlcorps">
+		<description>Battlecorps - 3D Mechanical Battle Simulator (Japan)</description>
+		<year>1994</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="battlecorps - 3d mechanical battle simulator (1994)(victor)(ntsc)(jp)" sha1="f901e3fcfa56c4c22b7384bfe471954c7eb6e661" />
+	</machine>
+	<machine name="burai">
+		<description>Burai - Yatsudama no Yuushi Densetsu (Japan)</description>
+		<year>1992</year>
+		<publisher>Sega</publisher>
+		<disk name="burai - hachigyoku no yuushi densetsu (japan)" sha1="fb036bacef4520c93cd3b9d3d2aaa64975e4a113" />
+	</machine>
+	<machine name="cfstory">
+		<description>Cosmic Fantasy Stories (Japan)</description>
+		<year>1992</year>
+		<publisher>Nihon Telenet</publisher>
+		<disk name="cosmic fantasy stories (japan)" sha1="62bed0d8e461b8b118ce9d7dfc49d7944edf1c23" />
+	</machine>
+	<machine name="ctsuba">
+		<description>Captain Tsubasa (Japan)</description>
+		<year>1994</year>
+		<publisher>Tecmo</publisher>
+		<disk name="captain tsubasa (1994)(tecmo)(ntsc)(jp)" sha1="60bf853778b6beedf2b715978b35b1aeed6181c0" />
+	</machine>
+	<machine name="cyborg9">
+		<description>Cyborg 009 (Japan)</description>
+		<year>1993</year>
+		<publisher>Nihon Telenet</publisher>
+		<disk name="cyborg 009 (japan)" sha1="19cdb90db8c92f6baafc188b83e8ea7a67adb6f1" />
+	</machine>
+	<machine name="daihoush">
+		<description>Daihoushinden (Japan)</description>
+		<year>1995</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="daihoushinden (1995)(victor)(ntsc)(jp)" sha1="a46faeab35697cf9e1aaed18e84b678d8cb3374c" />
+	</machine>
+	<machine name="darkwiz">
+		<description>Dark Wizard - Yomigaeri Shiyami no Madoushi (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="dark wizard - yomigaeri shiyami no madoushi (1993)(sega)(ntsc)(jp)" sha1="e0260d65c223d9edc22992c09833143b8d67a9a0" />
+	</machine>
+	<machine name="dblswtch">
+		<description>Double Switch (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<disk name="double switch (1995)(sega)(ntsc)(jp)" sha1="b09e3b24662b3d9a683fb9996cc83a2ea3a455a2" />
+	</machine>
+	<machine name="deathbrn">
+		<description>Death Bringer - Himerata Monshou - The Knight of Darkness (Japan)</description>
+		<year>1992</year>
+		<publisher>Nihon Telenet</publisher>
+		<disk name="death bringer - himerata monshou - the knight of darkness (1992)(riot)(ntsc)(jp)" sha1="a308691aa84df7033b5836ed569391c454198145" />
+	</machine>
+	<machine name="dennin">
+		<description>Dennin Aleste - Nobunaga and His Ninja Force (Japan)</description>
+		<year>1992</year>
+		<publisher>Compile</publisher>
+		<disk name="dennin aleste - nobunaga and his ninja force (japan)" sha1="3c8289dc95e288e1d2e720828cef2177543100f2" />
+	</machine>
+	<machine name="detonatr">
+		<description>Detonator Orgun (Japan)</description>
+		<year>1992</year>
+		<publisher>Hot-B</publisher>
+		<disk name="detonator orgun (japan)" sha1="80a99c378610c903453fbb8efac9325f04db7700" />
+	</machine>
+	<machine name="devastat">
+		<description>Devastator (Japan)</description>
+		<year>1993</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="devastator (japan)" sha1="3859b4eed02a3b9ccbddfe750285f755d85316cb" />
+	</machine>
+	<machine name="dlair">
+		<description>Dragon's Lair (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="dragon's lair (japan) (en,ja,fr,de,it)" sha1="2277ebfb61ac13ba4c63b7a24c7e9d546c1923be" />
+	</machine>
+	<machine name="dmaster2">
+		<description>Dungeon Master II - Skullkeep (Japan, v1.0)</description>
+		<year>1994</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="dungeon master ii - skullkeep v1.0 (1994)(victor)(ntsc)(jp)" sha1="baa47cdb0ae5a1c3499e64a7131f12235a2ec6d8" />
+	</machine>
+	<machine name="dynamicc">
+		<description>Dynamic Country Club (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="dynamic country club (japan)" sha1="04e213ea91c03b9aa8a354a2b5f9d42003ca5dbf" />
+	</machine>
+	<machine name="earnest">
+		<description>Earnest Evans (Japan)</description>
+		<year>1991</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="earnest evans (japan)" sha1="9f0e70f629e32134a529b2784786cdac07e55780" />
+	</machine>
+	<machine name="ecco2">
+		<description>Ecco the Dolphin CD (Japan, Disc 2 - Ecco the Dolphin II)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<disk name="ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 2 of 2)[ecco the dolphin ii]" sha1="06100e6a07e30a7d075b99ffb4455f4ee069fc83" />
+	</machine>
+	<machine name="ecco">
+		<description>Ecco the Dolphin CD (Japan, Disc 1 - Ecco the Dolphin)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<disk name="ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 1 of 2)[ecco the dolphin]" sha1="efc86eeefd7c25dbd9f9301850db79212e53252e" />
+	</machine>
+	<machine name="eyebehol">
+		<description>Eye of the Beholder (Japan)</description>
+		<year>1994</year>
+		<publisher>Pony Canyon</publisher>
+		<disk name="eye of the beholder (1994)(pony canyon)(ntsc)(jp)" sha1="2d8919d9972d953cebe3016221b869566e6ef910" />
+	</machine>
+	<machine name="f1circus">
+		<description>F1 Circus CD (Japan)</description>
+		<year>1994</year>
+		<publisher>Nichibutsu</publisher>
+		<disk name="f1 circus cd (japan)" sha1="e13e963d3386cd38143334011b6a4c239a871bfa" />
+	</machine>
+	<machine name="fahrenhe">
+		<description>Fahrenheit (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<disk name="fahrenheit (1995)(sega)(ntsc)(jp)" sha1="daf0c50a88b4f0a270215eb8ac8605aa2879fc8b" />
+	</machine>
+	<machine name="ffightcd">
+		<description>Final Fight CD (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="final fight cd (japan)" sha1="a67ff6f71659ad6159ab220fa977ea9316ac9f3a" />
+	</machine>
+	<machine name="fheyarea">
+		<description>Seirei Shinseiki - Fhey Area (Japan)</description>
+		<year>1992</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="seirei shinseiki - fhey area (1992)(wolf team)(ntsc)(jp)[t-32034p-00009-r1k]" sha1="ade3853c78d5b6a0fb12b07377f470875b253609" />
+		<disk name="seirei shinseiki - fhey area (1992)(wolf team)(ntsc)(jp)[t-32034p-00009-r2k]" sha1="5d0fe93b926309238040c94f55c010fb3673851a" />
+		<disk name="seirei shinseiki - fhey area (japan)" sha1="0eb59654214bf37e8493ec48f6d4f6cd5077fbb2" />
+	</machine>
+	<machine name="funkband">
+		<description>Wakusei Woodstock - Funky Horror Band (Japan)</description>
+		<year>1991</year>
+		<publisher>Sega</publisher>
+		<disk name="wakusei woodstock - funky horror band (japan)" sha1="1bc0d49763960db4e7cd53661f07e9a4cd9f2f7b" />
+	</machine>
+	<machine name="gambler2">
+		<description>Gambler Jikochuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan)</description>
+		<year>1992</year>
+		<publisher>Game Arts</publisher>
+		<disk name="gambler jiko chuushinha 2 - gekitou tokyo mahjongland hen (japan)" sha1="12cb45fafb9f63b41551150dc313eba51fa639c9" />
+	</machine>
+	<machine name="gamenk1">
+		<description>Game no Kandume Vol.1 (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="game no kandume vol.1 (japan)" sha1="88a441b47cc53a088de1b95cc624176895882478" />
+	</machine>
+	<machine name="gamenk2">
+		<description>Game no Kandume Vol.2 (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="game no kandume vol.2 (japan)" sha1="093b5a17ea088fe6714e4a095f5240cb6d918fcd" />
+	</machine>
+	<machine name="garousp">
+		<description>Garou Densetsu Special (Japan)</description>
+		<year>1995</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="garou densetsu special (japan)" sha1="f1cf0e587163a0df04e2f8b4c35c2607ec1e1182" />
+	</machine>
+	<machine name="genchohi">
+		<description>Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)</description>
+		<year>1993</year>
+		<publisher>Koei</publisher>
+		<disk name="aoki ookami to shiroki mejika - genchou hishi (1993)(koei)(ntsc)(jp)" sha1="465f91122ad1f5d42bb7833a060af74b8dd12f09" />
+	</machine>
+	<machine name="heavenly">
+		<description>Heavenly Symphony (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="heavenly symphony (japan)" sha1="0b2cbbb78603bd1b9110ffaa6035f89dbb78085a" />
+	</machine>
+	<machine name="heavynov">
+		<description>Heavy Nova (Japan)</description>
+		<year>1991</year>
+		<publisher>Micronet</publisher>
+		<disk name="heavy nova (japan)" sha1="aa7a040fc2b8c8d8264f82573dc5e16d31e2ed57" />
+	</machine>
+	<machine name="heimdall">
+		<description>Heimdall (Japan)</description>
+		<year>1994</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="heimdall (japan)" sha1="88033b6ffa90da2f8f4c0f7df58c6f1697508a56" />
+	</machine>
+	<machine name="illcity">
+		<description>Illusion City - Genei Toshi (Japan)</description>
+		<year>1993</year>
+		<publisher>Micro Cabin</publisher>
+		<disk name="denei toshi - illusion city (1993)(micro cabin)(ntsc)(jp)[t-51014p-00066-r2m]" sha1="8035db298e1d4b5713443a07b1285377c5b59cab" />
+	</machine>
+	<machine name="ishiihis">
+		<description>Ishii Hisaichi no Daisekai (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="ishii hisaichi no daisekai (1994)(sega)(ntsc)(jp)" sha1="fa3f5f6529510fca2888960eb1d3fbfb160aa82c" />
+	</machine>
+	<machine name="jagxj220">
+		<description>Jaguar XJ220 (Japan)</description>
+		<year>1993</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="jaguar xj220 (japan) (en,ja)" sha1="ff48724c0c0c7cc4fd831cc8954497c8da8448cb" />
+	</machine>
+	<machine name="jangouwc">
+		<description>Jangou World Cup (Japan)</description>
+		<year>1993</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="jangou world cup (japan)" sha1="5ce7ade2f0d4ca8b2919db189f5f9e8bfb7aebe4" />
+	</machine>
+	<machine name="jpark">
+		<description>Jurassic Park (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="jurassic park (1992)(sega)(ntsc)(jp)" sha1="087cd2ddb228c8f731d3e62cd4929b766f3169a8" />
+	</machine>
+	<machine name="kamenrzo">
+		<description>Kamen Rider ZO (Japan)</description>
+		<year>1994</year>
+		<publisher>Toei Animation</publisher>
+		<disk name="kamen rider zo (japan)" sha1="c5129e3a90f4456bd76fac0f460281da18f8003c" />
+	</machine>
+	<machine name="keio">
+		<description>Keiou Yuugekitai (Japan)</description>
+		<year>1993</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="keiou yuugekitai (japan)" sha1="ef5af443f78c67caba7ec02590a3f3f0af93d387" />
+	</machine>
+	<machine name="le2">
+		<description>Lethal Enforcers II - The Western (Japan)</description>
+		<year>1994</year>
+		<publisher>Konami</publisher>
+		<disk name="lethal enforcers ii - the western (1994)(konami)(ntsc)(jp)(en)" sha1="63127c8eac149ac3e032f21d98dbe343fff44942" />
+	</machine>
+	<machine name="lethalen">
+		<description>Lethal Enforcers (Japan)</description>
+		<year>1993</year>
+		<publisher>Konami</publisher>
+		<disk name="lethal enforcers (1993)(konami)(ntsc)(jp)(en)" sha1="c10e5002a4d4086b1c49c57a9a15e7cf3d6fda50" />
+	</machine>
+	<machine name="lodoss">
+		<description>Lodoss Tou Senki - Eiyuu Sensou (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="lodoss tou senki - eiyuu sensou (japan)" sha1="15ed554b0a63e78648cf496c8b249be35c18420c" />
+		<disk name="lodoss tou senki - eiyuu sensou - record of lodoss war (demo) (1994)(sega)(ntsc)(jp)" sha1="71ce3e984a13c444999a1abf13efc431a80f5be1" />
+	</machine>
+	<machine name="lunar2">
+		<description>Lunar - Eternal Blue (Japan, set 1)</description>
+		<year>1994</year>
+		<publisher>Game Arts</publisher>
+		<disk name="lunar - eternal blue (1994)(game arts)(ntsc)(jp)[t-45074p-00271-r1m]" sha1="1aae24f5646879641f47273db530093648093699" />
+		<disk name="lunar - eternal blue (1994)(game arts)(ntsc)(jp)[t-45074p-00271a-r1m]" sha1="dfe1a6c27af88d8202f5b77aaa81c6661ce8e05f" />
+		<disk name="lunar - eternal blue (japan)" sha1="86472573584d0d94bfb8f13e0f08bc2401d110da" />
+		<disk name="lunar - eternal blue - premium cd (1994)(game arts)(jp)[lunar - eternal blue, t-45074][cd-audio]" sha1="2b22660e21e1262414424df90ec30eac8df638c6" />
+	</machine>
+	<machine name="lunar">
+		<description>Lunar - The Silver Star (Japan)</description>
+		<year>1992</year>
+		<publisher>Game Arts</publisher>
+		<disk name="lunar - the silver star (1992)(game arts)(ntsc)(jp)[t-45014p-00017-r1m]" sha1="5edd3e7a2f928f830abc682375309e78c6b74b1e" />
+		<disk name="lunar - the silver star (1992)(game arts)(ntsc)(jp)[t-45014p-00017-r2m]" sha1="ee5947838910555eedbe419705ecbda732ff641b" />
+		<disk name="lunar - the silver star (japan)" sha1="ec2bfebf47f6b894f8add0d78962a4e491e4e3ca" />
+	</machine>
+	<machine name="megaschw">
+		<description>Mega Schwarzschild (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="mega schwarzschild (1993)(sega)(ntsc)(jp)" sha1="63e2e6732a74856bd7b432f7ffeac62197caee6f" />
+	</machine>
+	<machine name="microcos">
+		<description>Microcosm (Japan)</description>
+		<year>1994</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="microcosm (japan)" sha1="7caf9207625e436f1c738e5d3e8705f9a3ed8e1c" />
+	</machine>
+	<machine name="mightmg3">
+		<description>Might and Magic III - Isles of Terra (Japan)</description>
+		<year>1993</year>
+		<publisher>CRI</publisher>
+		<disk name="might and magic iii - isles of terra (1993)(cri)(ntsc)(jp)" sha1="d3c5769e5c7ca147806db7d2e3de2b4d8b28d7e6" />
+	</machine>
+	<machine name="mk">
+		<description>Mortal Kombat (Japan)</description>
+		<year>1994</year>
+		<publisher>Acclaim Japan</publisher>
+		<disk name="mortal kombat (1994)(acclaim)(ntsc)(jp)(en)" sha1="f0f41dab302241fe7d6b78b10b133e1265e9fed0" />
+	</machine>
+	<machine name="monkey">
+		<description>The Secret of Monkey Island - Monkey Island Yurei - Kaizoku Oosoudou! (Japan)</description>
+		<year>1993</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="secret of monkey island, the - monkey island yurei - kaizoku oosoudou (1993)(victor)(ntsc)(jp)" sha1="66a95bf6f661e60fc2b00a2fa679ae1f7559d471" />
+	</machine>
+	<machine name="nbajam">
+		<description>NBA Jam (Japan)</description>
+		<year>1993</year>
+		<publisher>Acclaim Japan</publisher>
+		<disk name="nba jam (1993)(acclaim)(ntsc)(jp)(en)" sha1="a8d30422e8f620c98a4ac672507a6844cfcd4ece" />
+	</machine>
+	<machine name="ninjawar">
+		<description>The Ninjawarriors (Japan)</description>
+		<year>1993</year>
+		<publisher>Taito</publisher>
+		<disk name="ninjawarriors, the (1993)(taito)(ntsc)(jp)(en)" sha1="54139589ce904ddba72f9379949f3b6d0bfef2f6" />
+	</machine>
+	<machine name="nobuhao">
+		<description>Nobunaga no Yabou - Haouden (Japan)</description>
+		<year>1994</year>
+		<publisher>Koei</publisher>
+		<disk name="nobunaga no yabou - haouden (1994)(koei)(ntsc)(jp)" sha1="33be72040603a63d7f4f7cffba7a5e7654c3209a" />
+	</machine>
+	<machine name="nost1907">
+		<description>Nostalgia 1907 (Japan)</description>
+		<year>1991</year>
+		<publisher>Takeru</publisher>
+		<disk name="nostalgia 1907 (japan)" sha1="c6718f18b5720b3c48abf9c8accdf6d7572e4a63" />
+		<disk name="nostalgia 1907 in north atlantic sea - original sound track ver. 2 (1991)(takeru)(jp)[cd-audio]" sha1="412a33f70581ae445681a39897e42ea9fbf60c50" />
+	</machine>
+	<machine name="nstriker">
+		<description>Night Striker (Japan, Korea)</description>
+		<year>1993</year>
+		<publisher>Taito</publisher>
+		<disk name="night striker (japan, korea)" sha1="0c8ba1a5ca12ec52de6b2febac14abd5d1126c84" />
+	</machine>
+	<machine name="ntrap">
+		<description>Night Trap (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="night trap (japan) (disc 1)" sha1="1d2bd06468ce64f34e06a1ff36cdcf5a8652d65e" />
+		<disk name="night trap (japan) (disc 2)" sha1="5d208bbfc2fbe233d53bd9dc6ef2e6d07e2cbc74" />
+	</machine>
+	<machine name="popmail">
+		<description>Popful Mail (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="popful mail (japan)" sha1="319c69ab64d586ef46a6a2f9c8790c7e94722674" />
+	</machine>
+	<machine name="ppersia">
+		<description>Prince of Persia (Japan)</description>
+		<year>1992</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="prince of persia (japan)" sha1="db90a82cc35f49356218aa649929d4b1f588ed8b" />
+	</machine>
+	<machine name="prizefig">
+		<description>Prize Fighter (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<disk name="prize fighter (1993)(sega)(ntsc)(jp)(disc 1 of 2)" sha1="c8d895e85dc2b1e6a9f0aa606f98d7013bad0db4" />
+		<disk name="prize fighter (1993)(sega)(ntsc)(jp)(disc 2 of 2)" sha1="342fd9fad3d5ae6530ea6ce756a2ba6b88858dfc" />
+	</machine>
+	<machine name="proyakcd">
+		<description>Pro Yakyuu Super League CD (Japan)</description>
+		<year>1992</year>
+		<publisher>Sega</publisher>
+		<disk name="pro yakyuu super league cd (japan)" sha1="87cf208ad060b8ef6ace3db18824152f45dc91b5" />
+	</machine>
+	<machine name="psychic3">
+		<description>Psychic Detective Series vol.3 - AYA (Japan)</description>
+		<year>1993</year>
+		<publisher>Data West</publisher>
+		<disk name="psychic detective series vol.3 - aya (1993)(data west)(ntsc)(jp)" sha1="0db9939af75a9c15079c93e0ed46790d1e67c43a" />
+	</machine>
+	<machine name="psychic4">
+		<description>Psychic Detective Series vol.4 - Orgel (Japan)</description>
+		<year>1993</year>
+		<publisher>Data West</publisher>
+		<disk name="psychic detective series vol.4 - orgel (1993)(data west)(ntsc)(jp)" sha1="6b541e9ba6843f2f2005c2c8b3a2a54aca96fc64" />
+	</machine>
+	<machine name="quizss">
+		<description>Quiz Scramble Special (Japan, rev. B)</description>
+		<year>1992</year>
+		<publisher>Sega</publisher>
+		<disk name="quiz scramble special (1992)(sega)(ntsc)(jp)[g-6003p-00014b-r1m]" sha1="48f5a84eca3432e0a7d145f7543f300ed326b01a" />
+		<disk name="quiz scramble special (1992)(sega)(ntsc)(jp)[g-6003p-00014b-r2m]" sha1="6b39a0b8ea9ee7860b228e5cdb0109421b9a89e9" />
+		<disk name="quiz scramble special (japan) (rev b)" sha1="cc636ce3a99a01cdf3d34d93df74b143b6d239b7" />
+	</machine>
+	<machine name="quiztono">
+		<description>Quiz Tonosama no Yabou (Japan)</description>
+		<year>1992</year>
+		<publisher>SIMS</publisher>
+		<disk name="capcom no quiz - tonosama no yabou (japan)" sha1="9f09efae7369a1439cd85616c89f5d42a2eb741a" />
+	</machine>
+	<machine name="ranma">
+		<description>Ranma ½ - Byakuranaika (Japan)</description>
+		<year>1993</year>
+		<publisher>NCS</publisher>
+		<disk name="ranma 1-2 - byakuranaika (japan)" sha1="89f733676137b26b304d21eab6c5e50c4ee48389" />
+	</machine>
+	<machine name="rbfx">
+		<description>Road Blaster FX (Japan)</description>
+		<year>1992</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="road blaster fx (1992)(wolf team)(ntsc)(jp)(en)" sha1="851df6a824f8c20984574f8fae781b347c3644ba" />
+	</machine>
+	<machine name="risedrag">
+		<description>Rise of the Dragon - A Blade Hunter Mystery (Japan)</description>
+		<year>1992</year>
+		<publisher>Sega</publisher>
+		<disk name="rise of the dragon - a blade hunter mystery (japan)" sha1="24a8afdc4f413494cd8efd78b035dbdbe25c679c" />
+	</machine>
+	<machine name="salesman">
+		<description>Warau Salesman (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="warau salesman (1993)(sega)(ntsc)(jp)" sha1="d84726de55de147264af5f5b00cd36a316d0c391" />
+	</machine>
+	<machine name="sangoku3">
+		<description>Sangokushi III (Japan)</description>
+		<year>1993</year>
+		<publisher>Koei</publisher>
+		<disk name="sangokushi iii (japan)" sha1="4745bf0906999474645e1b4d515bc1b1902ca422" />
+	</machine>
+	<machine name="segaac">
+		<description>Sega Classic Arcade Collection - Limited Edition (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="sega classic arcade collection (japan)" sha1="c69c436b0159b2e1e5ffaadad37167d2210d8767" />
+		<disk name="sega classic arcade collection - limited edition (1992)(sega)(ntsc)(jp)[compilation][r1m]" sha1="95a970944ed0dd6a27d3795cbf695b0b2b0647e4" />
+		<disk name="sega classic arcade collection - limited edition (1992)(sega)(ntsc)(jp)[compilation][r2m]" sha1="7f7e5172ee1263bd3eaf927cf488ec2d6657cbff" />
+	</machine>
+	<machine name="sengoku">
+		<description>Sengoku Denshou (Japan)</description>
+		<year>1993</year>
+		<publisher>Sammy</publisher>
+		<disk name="sengoku denshou (1993)(sammy)(ntsc)(jp)" sha1="a7068e9594b65c665796689bfe16c7ee0ecba041" />
+	</machine>
+	<machine name="shadowrn">
+		<description>Shadowrun (Japan)</description>
+		<year>1996</year>
+		<publisher>Compile</publisher>
+		<disk name="shadowrun (1996)(compile)(ntsc)(jp)" sha1="d2a3b3c4950abe9051971aa53cb9c4921b145e14" />
+	</machine>
+	<machine name="shinfrce">
+		<description>Shining Force CD (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="shining force cd (japan)" sha1="b6b05a27fddbb742149216961f6e9b917442b768" />
+	</machine>
+	<machine name="shinmt">
+		<description>Shin Megami Tensei (Japan)</description>
+		<year>1994</year>
+		<publisher>SIMS</publisher>
+		<disk name="shin megami tensei (japan)" sha1="4ef3c263e909471ac27757c16423e66009726544" />
+	</machine>
+	<machine name="silkylip">
+		<description>Mahou no Shoujo - Silky Lip (Japan, R2M)</description>
+		<year>1992</year>
+		<publisher>Nihon Telenet</publisher>
+		<disk name="mahou no shoujo - silky lip (1992)(riot)(ntsc)(jp)[t-49024p-00016-r1m]" sha1="a432d30104f55e6fc051cc40e0ce6d416bd7b3fc" />
+		<disk name="mahou no shoujo - silky lip (1992)(riot)(ntsc)(jp)[t-49024p-00016-r2m]" sha1="38f2f195e4c95e27ff7ceb2f8a554ca71f61b004" />
+	</machine>
+	<machine name="silpheed">
+		<description>Silpheed (Japan)</description>
+		<year>1993</year>
+		<publisher>Game Arts</publisher>
+		<disk name="silpheed (japan)" sha1="3f06c3f2b13f28312748336d324d1b8563a30d86" />
+	</machine>
+	<machine name="simearth">
+		<description>SimEarth (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="simearth (1993)(sega)(ntsc)(jp)" sha1="9869519d4d0b23b4ac60e0745395e3f90df399da" />
+	</machine>
+	<machine name="sing">
+		<description>Sing! Teddyboy Blues [MP3-sourced]</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<disk name="singteddy (mp3-sourced)" sha1="f12ade8f77fc0331d824ab5d70af5bb89b677f59" status="baddump" />
+	</machine>
+	<machine name="solfeace">
+		<description>Sol-Feace (Japan)</description>
+		<year>1991</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="sol-feace (japan)" sha1="953987cbb5031e1bc6b4efc2f0e25ced3ca79b1e" />
+	</machine>
+	<machine name="soniccd">
+		<description>Sonic The Hedgehog CD (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="sonic the hedgehog cd (japan)" sha1="5501a5b2b4d324558918f22f9dca0ef8080d0836" />
+	</machine>
+	<machine name="soulstar">
+		<description>SoulStar (Japan)</description>
+		<year>1994</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="soulstar (1994)(victor)(ntsc)(jp)(en)" sha1="32e08fa3f612f2906ab2a44c811d8f928ed68bd1" />
+	</machine>
+	<machine name="starblad">
+		<description>Starblade (Japan)</description>
+		<year>1994</year>
+		<publisher>Namco</publisher>
+		<disk name="starblade (japan)" sha1="bb1b7beb8e9b20dc18e1031ed57930eaae78c8cb" />
+	</machine>
+	<machine name="supleag">
+		<description>Egawa Suguru no Super League CD (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="egawa suguru no super league cd (japan)" sha1="4062f8fbc43963cc9305e14530379989f9543a30" />
+	</machine>
+	<machine name="switch">
+		<description>Switch (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="switch (japan)" sha1="19fcbae4e4089774fb76b66592b634f15a77765f" />
+	</machine>
+	<machine name="swra">
+		<description>Star Wars - Rebel Assault (Japan)</description>
+		<year>19??</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="star wars - rebel assault (japan)" sha1="5bcc151caa5257bd7bf98bb881069a6fa218c01b" />
+	</machine>
+	<machine name="tcataly">
+		<description>Tomcat Alley (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="tomcat alley (1994)(sega)(ntsc)(jp)" sha1="419d407e3b49a646f04a9e294189b88c33cf3ead" />
+	</machine>
+	<machine name="tenbu">
+		<description>Tenbu Mega CD Special (Japan)</description>
+		<year>1992</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="tenbu mega cd special (1992)(wolf team)(jp)[tenbu mega cd special, t-32084][cd-audio]" sha1="816cfd9864245f68d1eec716d54d882b448f349f" />
+		<disk name="tenbu mega cd special (japan)" sha1="e973a5a3d51455b394eecccd99c7b62d407c1a82" />
+	</machine>
+	<machine name="tenkafub">
+		<description>Tenkafubu - Eiyuutachi no Houkou (Japan)</description>
+		<year>1991</year>
+		<publisher>Game Arts</publisher>
+		<disk name="tenkafubu - eiyuutachi no houkou (japan)" sha1="9a97b0c278d0a5ba7c2df8e7343811f9a0ccd3f2" />
+	</machine>
+	<machine name="thawk">
+		<description>Thunderhawk (Japan)</description>
+		<year>1993</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="thunderhawk (japan)" sha1="0e729497bb3ab8c0614c32d1a3f4668584518356" />
+	</machine>
+	<machine name="timegal">
+		<description>Time Gal (Japan)</description>
+		<year>1992</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="time gal (japan)" sha1="32fffda2ccc83602a0e6d96a18bb3355a4c3d3d5" />
+	</machine>
+	<machine name="tstormfx">
+		<description>Thunder Storm FX (Japan)</description>
+		<year>1992</year>
+		<publisher>Wolf Team</publisher>
+		<disk name="thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r1m]" sha1="ffbb3832ad9873afa1e5d257e2f93fb3d07ca3e3" />
+		<disk name="thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r2m]" sha1="992cb2f5fd2209dd959b351c5d2f7cc548981dc7" />
+		<disk name="thunder storm fx (japan)" sha1="8fa31b15432af06c7471b0ec63c5c9a11a00f2af" />
+	</machine>
+	<machine name="uruseiya">
+		<description>Urusei Yatsura - Dear My Friends (Japan)</description>
+		<year>1994</year>
+		<publisher>Game Arts</publisher>
+		<disk name="urusei yatsura - dear my friends (japan)" sha1="3d3e05daf5f3c4fe36c1d08eec1017daaac06c9e" />
+	</machine>
+	<machine name="vay">
+		<description>Vay - Ryuusei no Yoroi (Japan)</description>
+		<year>1993</year>
+		<publisher>SIMS</publisher>
+		<disk name="vay - ryuusei no yoroi (japan)" sha1="6579a8763ae92f61e363b389f4bf1e4da9eb57e8" />
+	</machine>
+	<machine name="wingcomm">
+		<description>Wing Commander (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<disk name="wing commander (japan)" sha1="3056c26fda647bc377c9f266df9bc7bda2cd10e4" />
+	</machine>
+	<machine name="winpost">
+		<description>Winning Post (Japan)</description>
+		<year>1993</year>
+		<publisher>Koei</publisher>
+		<disk name="winning post (japan)" sha1="85f6dfa7125b37f9471206898d3b51e0ea2857f7" />
+	</machine>
+	<machine name="wmcol">
+		<description>WonderMega Collection - Game Garden [MP3-sourced]</description>
+		<year>19??</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="wondermegacol (mp3-sourced)" sha1="e75c2b1b68ae201f0b2c0556e87409dcf1d79b8c" status="baddump" />
+	</machine>
+	<machine name="wolfchld">
+		<description>Wolfchild (Japan)</description>
+		<year>1993</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="wolfchild (japan)" sha1="42a1505540c34d268809f0199152deaea1ac85dc" />
+	</machine>
+	<machine name="wonderdg">
+		<description>Wonder Dog (Japan)</description>
+		<year>1992</year>
+		<publisher>Victor Entertainment</publisher>
+		<disk name="wonder dog (japan)" sha1="04abf554ddfb92e80593787d38018e1673437a99" />
+	</machine>
+	<machine name="yumemi">
+		<description>Yumemi Yakata no Monogatari (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<disk name="yumemi yakata no monogatari (japan)" sha1="dc7c2fbcdb1de77601d4f447a88f0ca6cc9a63f1" />
+	</machine>
+	<machine name="yumimimx">
+		<description>Yumimi Mix (Japan)</description>
+		<year>1993</year>
+		<publisher>Game Arts</publisher>
+		<disk name="yumimi mix (japan)" sha1="4adc66b222b7a26a3f00be9692a81ad343b07b41" />
+	</machine>
+</datafile>

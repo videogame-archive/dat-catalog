@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>easy_karaoke_cart</name>
+		<description>IVL Technologies Easy Karaoke cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ekgg3">
+		<description>Golden Greats Vol.3</description>
+		<year>2004</year>
+		<publisher>IVL Technologies</publisher>
+		<rom name="MX29LV040.U3" size="524288" crc="163e6f6d" sha1="baa95437161459d3874fe0576a813907d2ee7869" />
+	</machine>
+	<machine name="ekgg4">
+		<description>Golden Greats Vol.4</description>
+		<year>2004</year>
+		<publisher>IVL Technologies</publisher>
+		<rom name="MX29LV040.U3" size="524288" crc="41587eea" sha1="efe29e7dfae91c1f5d0fd196197c3021e8907b58" />
+	</machine>
+	<machine name="ekmh2">
+		<description>Mega Hits Vol.2</description>
+		<year>2004</year>
+		<publisher>IVL Technologies</publisher>
+		<rom name="29lv040.u4" size="524288" crc="3affd9b1" sha1="658f35d664779041d445e085f8bbcf2301dac3e8" />
+	</machine>
+</datafile>

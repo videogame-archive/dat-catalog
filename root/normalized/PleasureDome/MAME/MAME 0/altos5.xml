@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>altos5</name>
+		<description>Altos Series 5 floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="altdiag">
+		<description>Altos Diag. Exec. v3.0</description>
+		<year>198?</year>
+		<publisher>Digital Research</publisher>
+		<rom name="adx5-00367.td0" size="134797" crc="3f92f689" sha1="af0182e7b305fd3a9142e7463f2b4a12a33371a2" />
+	</machine>
+	<machine name="cpm220so">
+		<description>CP/M v2.20SO</description>
+		<year>198?</year>
+		<publisher>Digital Research</publisher>
+		<rom name="25-3709.td0" size="82277" crc="29f2dbf5" sha1="52bc049028ecd646cf7b27c1593ddc3a271377e6" />
+	</machine>
+	<machine name="mpm210so">
+		<description>MP-M v2.10SO rev.B</description>
+		<year>1982</year>
+		<publisher>Digital Research</publisher>
+		<rom name="25-1941.td0" size="500437" crc="269cb851" sha1="2c5e448bee307e61d3565a63544d00be50da3c77" />
+	</machine>
+</datafile>

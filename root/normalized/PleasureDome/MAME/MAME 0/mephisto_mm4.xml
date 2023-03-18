@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mephisto_mm4</name>
+		<description>Mephisto MM IV Modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="hg440">
+		<description>Mephisto HG 440 Opening Library</description>
+		<year>1987</year>
+		<publisher>Hegener + Glaser</publisher>
+		<rom name="hg_440" size="16384" crc="81ffcdfd" sha1="b0f7bcc11d1e821daf92cde31e3446c8be0bbe19" />
+	</machine>
+</datafile>

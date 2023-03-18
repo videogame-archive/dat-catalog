@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ibm5150</name>
+		<description>IBM PC floppy disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bcquest">
+		<description>BC's Quest for Tires</description>
+		<year>1984</year>
+		<publisher>Sierra On-Line</publisher>
+		<rom name="BC's Quest for Tires [Sierra] [1984] [5.25SS] [Disk 1 of 1].mfm" size="546696" crc="618773e7" sha1="f788a214b4ded233f4f4cd4237fee9d046fbee8a" />
+	</machine>
+	<machine name="bublbobl">
+		<description>Bubble Bobble (5.25")</description>
+		<year>1989</year>
+		<publisher>Taito Software</publisher>
+		<rom name="Bubble Bobble [Taito] [1989] [5.25DD] [Disk 1 of 2].mfm" size="1161863" crc="04c951b7" sha1="2e51bdf39df0ab091ab5a90af55167086e479b95" />
+	</machine>
+	<machine name="buckdoom">
+		<description>Buck Rogers: Countdown to Doomsday</description>
+		<year>1990</year>
+		<publisher>SSI</publisher>
+		<rom name="Buck Rogers - Countdown to Doomsday [SSI] [1990] [5.25DD] [Disk 1 of 3].img" size="368640" crc="b5cef79d" sha1="402baabb800cc9c60507fd29b5f3772e0c5773e9" />
+		<rom name="Buck Rogers - Countdown to Doomsday [SSI] [1990] [5.25DD] [Disk 2 of 3].img" size="368640" crc="0c4c1a1e" sha1="727e9b3a7c471801c147fa4aaa86c5eb293cbd80" />
+		<rom name="Buck Rogers - Countdown to Doomsday [SSI] [1990] [5.25DD] [Disk 3 of 3].img" size="368640" crc="7a71b302" sha1="38b51886b2a1eb5c2da2b19ac0d449868a1a6768" />
+	</machine>
+	<machine name="cycles">
+		<description>The Cycles: International Grand Prix Racing (5.25")</description>
+		<year>1989</year>
+		<publisher>Accolade</publisher>
+		<rom name="Cycles [Accolade] [1989] [5.25DD] [Disk 1 of 2] [Program].img" size="368640" crc="8b06b67b" sha1="e6c61ef4f555889af3720ab51672edb28ba96a2a" />
+		<rom name="Cycles [Accolade] [1989] [5.25DD] [Disk 2 of 2] [Master].img" size="368640" crc="7cd9f8b0" sha1="6ad3e23766629f51bc36941ac1de938351b10784" />
+	</machine>
+	<machine name="firepowr">
+		<description>Fire Power</description>
+		<year>1988</year>
+		<publisher>MicroIllusions</publisher>
+		<rom name="Fire Power [MicroIllusions] [1988] [5.25DD] [Disk 1 on 2].img" size="368640" crc="d04075f0" sha1="084905e9ec4482eeed565c78d8c3031f2f2d37fd" />
+		<rom name="Fire Power [MicroIllusions] [1988] [5.25DD] [Disk 2 on 2].img" size="368640" crc="715d21ce" sha1="9cc3f46947ca258591558ce252fde13555d6ef3b" />
+	</machine>
+	<machine name="lsl35">
+		<description>Leisure Suit Larry in the Land of the Lounge Lizards (3.5")</description>
+		<year>1987</year>
+		<publisher>Sierra On-Line</publisher>
+		<rom name="Leisure Suit Larry [Sierra] [1987] [3.5DD] [Disk 1 of 1].mfm" size="2189776" crc="453d9dcf" sha1="c3e1800c4b58addb5e10749686406180d9050a74" />
+	</machine>
+	<machine name="mandealr">
+		<description>Manhattan Dealers (Europe, The 16-bit Pocket Power Collection release)</description>
+		<year>1988</year>
+		<publisher>Prism Leisure Corporation</publisher>
+		<rom name="Manhattan Dealers [Prism Leisure] [1988] [3.5DD] [Disk 1 of 1].img" size="737280" crc="a3ba68cd" sha1="5a12f9f0c009d2fcb7af1e777a4e394f29c45d03" />
+	</machine>
+	<machine name="prehist">
+		<description>Prehistorik</description>
+		<year>1991</year>
+		<publisher>Titus</publisher>
+		<rom name="Prehistorik [Titus] [1991] [5.25DD] [Disk 1 of 2].mfm" size="1110795" crc="13b3e230" sha1="030ed0d219bc2970fe275258d0e44560f4d001dd" />
+		<rom name="Prehistorik [Titus] [1991] [5.25DD] [Disk 2 of 2].mfm" size="1110773" crc="0a7a5637" sha1="7a620dc2afd66bffd8b63b5df47f45efaa04e659" />
+	</machine>
+	<machine name="skiordie">
+		<description>Ski or Die</description>
+		<year>1990</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="Ski or Die [Electronic Arts] [1990] [5.25DD] [1 of 2].img" size="368640" crc="f83391ec" sha1="2d7bdb6a8ebc904d2fdc2c45ed7bb28949a60e44" />
+		<rom name="Ski or Die [Electronic Arts] [1990] [5.25DD] [2 of 2].img" size="368640" crc="5f5ae1a7" sha1="63409d157a6b576e5478222c83df07ac805f571c" />
+	</machine>
+	<machine name="spce1889">
+		<description>Space 1889</description>
+		<year>1990</year>
+		<publisher>Paragon Software</publisher>
+		<rom name="Space 1889 [Paragon] [1990] [5.25DD] [Disk 1 of 5].img" size="368640" crc="168f8883" sha1="1f0eb5b935aab8ab8318aa2085214a332feed3fe" />
+		<rom name="Space 1889 [Paragon] [1990] [5.25DD] [Disk 2 of 5].img" size="368640" crc="fbb761c3" sha1="cec831600a37f0b88c8e6eee87783fec431cebf9" />
+		<rom name="Space 1889 [Paragon] [1990] [5.25DD] [Disk 3 of 5].img" size="368640" crc="a829050d" sha1="03489e55f6f08e9f6a950c7f5c7f853d532e45ab" />
+		<rom name="Space 1889 [Paragon] [1990] [5.25DD] [Disk 4 of 5].img" size="368640" crc="86341c79" sha1="998095f71c50729697388a0e5c31b7bc99bef6fa" />
+		<rom name="Space 1889 [Paragon] [1990] [5.25DD] [Disk 5 of 5].img" size="368640" crc="30945dfd" sha1="12d84cab917ce21fdd0ccb35daaaae7c3f4247a2" />
+	</machine>
+	<machine name="superski35a">
+		<description>Super Ski (3.5", alt)</description>
+		<year>1988</year>
+		<publisher>Microïds</publisher>
+		<rom name="Super Ski [Microids] [1989] [3.5DD] [Disk 1 of 1].img" size="737280" crc="311923c3" sha1="0211c841557187af7b3ac51c5152d50bf8be1dbe" />
+	</machine>
+	<machine name="superski35b">
+		<description>Super Ski (3.5", alt 2)</description>
+		<year>1988</year>
+		<publisher>Microïds</publisher>
+		<rom name="Super Ski (Europe) [Microids] [1989] [3.5DD] [Disk 1 of 1].img" size="737280" crc="e6113c15" sha1="402fdd9912fcfaa3b750617fda4fb30b688508f0" />
+	</machine>
+	<machine name="superski">
+		<description>Super Ski (5.25")</description>
+		<year>1989</year>
+		<publisher>Microïds</publisher>
+		<rom name="Super Ski [Microids] [1989] [5.25DD] [Disk 1 of 2].img" size="368640" crc="5e10ad30" sha1="9becbe1b6d0a56ff0bdd4c07564f1932baf64051" />
+		<rom name="Super Ski [Microids] [1989] [5.25DD] [Disk 2 of 2].img" size="368640" crc="2bf1c28b" sha1="681639bdd3dc3b06951b09ac85db928e9680ecb2" />
+	</machine>
+</datafile>

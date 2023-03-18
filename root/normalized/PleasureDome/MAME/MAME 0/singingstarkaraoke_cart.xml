@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>singingstarkaraoke_cart</name>
+		<description>Taikee Singing Star Karaoke cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="karaokd1">
+		<description>Karao Kids Songs 1 (Spain)</description>
+		<year>200?</year>
+		<publisher>Taikee / Imaginarium / ItsMagical</publisher>
+		<rom name="karaokidssongs1.bin" size="2097152" crc="7fe29b9f" sha1="6cba45ff2f57c92f978d4bba51ab0f7e59d4c450" />
+	</machine>
+	<machine name="karaokd2">
+		<description>Karao Kids Songs 2 (Spain)</description>
+		<year>200?</year>
+		<publisher>Taikee / Imaginarium / ItsMagical</publisher>
+		<rom name="karaokidssongs2.bin" size="2097152" crc="7a1f455c" sha1="13bb5949629df64f5940923b224d930a4adf23ff" />
+	</machine>
+	<machine name="origkara">
+		<description>Original Karaoke</description>
+		<year>200?</year>
+		<publisher>Taikee</publisher>
+		<rom name="originalkaraokeredo.bin" size="2097152" crc="59129a14" sha1="e45f212e0f6a2e6e8b573b4e62752c9173def056" />
+	</machine>
+</datafile>

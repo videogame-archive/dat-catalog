@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>digilog320</name>
+		<description>Digilog 320 Disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="320ez">
+		<description>320 E-Z Menu</description>
+		<year>198?</year>
+		<publisher>Digilog</publisher>
+		<rom name="320_ez-menu.imd" size="139291" crc="b6783cd6" sha1="8b289dc0ea47d196db0c37d6e524f7b00609893a" status="baddump" />
+	</machine>
+	<machine name="320ezr">
+		<description>320 E-Z Menu (restored)</description>
+		<year>198?</year>
+		<publisher>Digilog</publisher>
+		<rom name="320_ez-menu_restored.mfm" size="2002527" crc="67f4759f" sha1="96045b94f1b85864985370daecbd69d79b7a1a42" />
+	</machine>
+</datafile>

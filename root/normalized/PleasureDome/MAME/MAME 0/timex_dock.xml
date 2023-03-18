@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>timex_dock</name>
+		<description>Timex Sinclair TS-2068 DOCK cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="android">
+		<description>Androids</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="androids.bin" size="8192" crc="fec4c2b4" sha1="52b1d4c8316adf74aeb685f54c789a90015215d6" />
+	</machine>
+	<machine name="backgamm">
+		<description>Backgammon</description>
+		<year>1983</year>
+		<publisher>Sinclair Research</publisher>
+		<rom name="backgammon.bin" size="16384" crc="2c125684" sha1="20d8be438259958a1f0eb0a3852b39fbd4c02c8c" />
+	</machine>
+	<machine name="budgeter">
+		<description>Budgeter</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="budgeter.bin" size="16384" crc="9b5e4565" sha1="bead4247e05f22a26cdc6a835a62b1277685b709" />
+	</machine>
+	<machine name="casino1">
+		<description>Casino1</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="casino1.bin" size="24576" crc="3da6d3c9" sha1="f84ba979b94baf092bae70cfa1ec8f276b48885f" />
+	</machine>
+	<machine name="chess">
+		<description>Chess</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="chess.bin" size="16384" crc="e64367ef" sha1="cf7e02a6c20ee0d027f4676e2a1e7aed5d6ced95" />
+	</machine>
+	<machine name="crazybug">
+		<description>Crazy Bugs</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="crazy bugs.bin" size="8192" crc="a440e8f2" sha1="c0f63b7492e542a3bb955a787e7394dc5a3e6fde" />
+	</machine>
+	<machine name="etoolkit">
+		<description>eToolkit (Toolkit EPROM)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="etoolkit.bin" size="24576" crc="e647e94f" sha1="c41455daa08ba47d4eb7501c3ed73593a65255d7" />
+	</machine>
+	<machine name="fsim">
+		<description>Flight Simulator</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="flight simulator.bin" size="32768" crc="e1f2e4cc" sha1="30a78405f88041d36f43e2526fb01539bb469458" />
+	</machine>
+	<machine name="gyruss">
+		<description>Gyruss</description>
+		<year>1984</year>
+		<publisher>Parker Software</publisher>
+		<rom name="gyruss.bin" size="16384" crc="b2719977" sha1="d950810bf6b729edbc8a92e1e6bdc609cb4d5895" />
+	</machine>
+	<machine name="horace">
+		<description>Hungry Horace</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="hungry horace.bin" size="16384" crc="1b31125f" sha1="429270c85b5692d9cdb173a7ce6f297b8f35c4c3" />
+	</machine>
+	<machine name="horacesp">
+		<description>Horace &amp; the Spiders</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="horace and the spiders.bin" size="16384" crc="86e3366d" sha1="904f4e566911b242f967f7d13a16fd81ff1255cd" />
+	</machine>
+	<machine name="jedi">
+		<description>Return Of The Jedi - Death Star Battle</description>
+		<year>1984</year>
+		<publisher>Parker Software</publisher>
+		<rom name="return of the jedi - death star battle.bin" size="8192" crc="0fafa2b8" sha1="27a50cf2a3272092f3bd350cb0d53619940f4453" />
+	</machine>
+	<machine name="jupitace">
+		<description>Jupiter ACE Emulator</description>
+		<year>1985</year>
+		<publisher>Paul Farrow</publisher>
+		<rom name="jupiter ace emulator.bin" size="16384" crc="905c71fc" sha1="88544ccbc8acdf23adbfb0a37f34283702b09348" />
+	</machine>
+	<machine name="locomotn">
+		<description>Loco Motion</description>
+		<year>1984</year>
+		<publisher>Parker Software</publisher>
+		<rom name="loco motion.bin" size="16384" crc="0e0302ca" sha1="0974f75f99d2acb2f3e767c26a2efbef5eb93235" />
+	</machine>
+	<machine name="montezum">
+		<description>Montezuma's Revenge</description>
+		<year>1984</year>
+		<publisher>Parker Software</publisher>
+		<rom name="montezuma's revenge.bin" size="8192" crc="683f9f93" sha1="406e1ba6eeb94142696d22293782bfd067b2233c" />
+	</machine>
+	<machine name="mterm">
+		<description>MTERM - Smart Terminal Program</description>
+		<year>1983</year>
+		<publisher>Westridge Communications</publisher>
+		<rom name="mterm.bin" size="8192" crc="8e0be19f" sha1="8b18268601c895dc90e79ec9605ed40925832979" />
+	</machine>
+	<machine name="penetrat">
+		<description>Penetrator</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="penetrator.bin" size="32768" crc="19cb2f78" sha1="826d03e2cfc176047a2e913315115d5f71c9ae2a" />
+	</machine>
+	<machine name="pinball">
+		<description>Pro Pinball</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="pinball.bin" size="24576" crc="2fb6a452" sha1="ab74fbe21df513e52aef960be018369ebfb3c33f" />
+	</machine>
+	<machine name="planet">
+		<description>Planetoids</description>
+		<year>1983</year>
+		<publisher>Sinclair Research</publisher>
+		<rom name="planetoids.bin" size="16384" crc="a6c9cc94" sha1="70e05f2d1aaad79cfa2d90111ba0a58cca4cacd9" />
+	</machine>
+	<machine name="popeye">
+		<description>Popeye</description>
+		<year>1984</year>
+		<publisher>Parker Software</publisher>
+		<rom name="popeye.bin" size="8192" crc="dae064c0" sha1="dc0ab2c30a86647529d92a737d24f51f4de7ae19" />
+	</machine>
+	<machine name="qbert">
+		<description>Q*Bert</description>
+		<year>1984</year>
+		<publisher>Parker Software</publisher>
+		<rom name="qbert.bin" size="8192" crc="58b45e9d" sha1="d748e5b504f3ea4e0cf472dca1746c2654361863" />
+	</machine>
+	<machine name="rwp32">
+		<description>rWP32</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="rwp32.bin" size="8192" crc="a833d73b" sha1="d1348382e6d50ad528577d22200c3455d59e2566" />
+	</machine>
+	<machine name="spacerai">
+		<description>Space Raiders</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="space raiders.bin" size="16384" crc="86d7a08b" sha1="8e1da4c183e9af2ba11b0745820fff4017cbad19" />
+	</machine>
+	<machine name="starwars">
+		<description>Star Wars - The Arcade Game</description>
+		<year>1984</year>
+		<publisher>Parker Software</publisher>
+		<rom name="star wars - the arcade game.bin" size="16384" crc="22cd482b" sha1="c12f38c382fa2a07430fe6daaa3acd96820aa76d" />
+	</machine>
+	<machine name="statecap">
+		<description>States and Capitals</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="states and capitals.bin" size="32768" crc="04bf4a3b" sha1="0ea77fb538bce31cd90f8f926deda7b90d99cf99" />
+	</machine>
+	<machine name="superhzd">
+		<description>Super Hot-Z Disassembler v2.51 (AROS)</description>
+		<year>19??</year>
+		<publisher>Ray Kingsley</publisher>
+		<rom name="superhotzdisassemblerv2.51-aros.bin" size="24576" crc="7bf239be" sha1="7c04c6e861b4b82ee3fd5bf21b17d6dd7d893386" />
+	</machine>
+	<machine name="swordfgt">
+		<description>Swordfight</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="swordfight.bin" size="24576" crc="95155511" sha1="69e7e0111ed8d8925314deb661990bf8c9eb5cc4" />
+	</machine>
+	<machine name="tasword2">
+		<description>Tasword II</description>
+		<year>1983</year>
+		<publisher>Tasman Software</publisher>
+		<rom name="tasword ii.bin" size="16384" crc="7b2a0e31" sha1="2bdf3c10a70e4a02410d4f20cbc1c0aaa444d1e2" />
+	</machine>
+	<machine name="timeword">
+		<description>TimeWord</description>
+		<year>1986</year>
+		<publisher>TMX Portugal</publisher>
+		<rom name="timeword.bin" size="16384" crc="a767d39e" sha1="5c606380234f867aafd3d215982eabf374553118" />
+	</machine>
+	<machine name="unicorn">
+		<description>Shadow of the Unicorn</description>
+		<year>1985</year>
+		<publisher>Mikro-Gen</publisher>
+		<rom name="shadow of the unicorn.bin" size="65536" crc="9f7af8ef" sha1="676c9142e11b3b706f64b7606aa084f1bb217d67" />
+	</machine>
+	<machine name="vucalc">
+		<description>VU-Calc</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="vu-calc.bin" size="8192" crc="7bbcc167" sha1="efc626c55125b8a8da527bd986ed9d4065973e8c" />
+	</machine>
+	<machine name="vufile">
+		<description>VU-File</description>
+		<year>1983</year>
+		<publisher>Timex Computer</publisher>
+		<rom name="vu-file.bin" size="16384" crc="94dafab6" sha1="1007aba595085bc46c406f933484a4dbbd0154bb" />
+	</machine>
+	<machine name="zebraos">
+		<description>Zebra OS 64</description>
+		<year>1985</year>
+		<publisher>Zebra Systems</publisher>
+		<rom name="zebra os 64.bin" size="16384" crc="928a8207" sha1="335d2f858d5bbe63989a2df1620ab5838337cfbd" />
+	</machine>
+</datafile>

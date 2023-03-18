@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>st_flop</name>
+		<description>Atari ST disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="5thgear">
+		<description>5th Gear (Euro)</description>
+		<year>1989</year>
+		<publisher>Hewson</publisher>
+		<rom name="5th gear (europe).ipf" size="520242" crc="61e3ea6d" sha1="998216d5d304bbb67ddb23b3981403c9b97a3b8f" />
+	</machine>
+	<machine name="7gatejam">
+		<description>The Seven Gates of Jambala (Euro)</description>
+		<year>1989</year>
+		<publisher>Grandslam</publisher>
+		<rom name="seven gates of jambala, the (europe) (disk 1).ipf" size="170330" crc="ec1e520e" sha1="07978e715e4d095890677d363358fecfd46a4079" />
+		<rom name="seven gates of jambala, the (europe) (disk 2).ipf" size="522145" crc="82addda0" sha1="6e2dc4b9c4bb00f4e5bedc5db710099f49c2c4a1" />
+	</machine>
+	<machine name="10frame">
+		<description>10th Frame - Pro Bowling Simulator (Euro)</description>
+		<year>1987</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="10th frame (europe).ipf" size="468252" crc="d866745b" sha1="011c930e119495a760beabf9edba16b3291a201e" />
+	</machine>
+	<machine name="500gp">
+		<description>500cc Grand Prix (Euro)</description>
+		<year>1987</year>
+		<publisher>Microids</publisher>
+		<rom name="500cc grand prix (europe).ipf" size="471664" crc="bf9eac7a" sha1="365b28bd7fff6d4599c23af7a1c3d2f29a919c2e" />
+	</machine>
+	<machine name="1943">
+		<description>1943 (Euro)</description>
+		<year>1987</year>
+		<publisher>Kixx</publisher>
+		<rom name="1943.mfm" size="3133369" crc="ff64e5f9" sha1="65a442c6812245e3842fdad5e60c9ccb17b0f80d" />
+	</machine>
+	<machine name="aburner">
+		<description>Afterburner (Euro)</description>
+		<year>1988</year>
+		<publisher>Activision</publisher>
+		<rom name="afterburner (europe) (disk a).ipf" size="939974" crc="0d5c8b14" sha1="001f3a2863ca580dd86b93ee941e487ad38dc3ff" />
+		<rom name="afterburner (europe) (disk b).ipf" size="520252" crc="2eff90b6" sha1="15fbd34d94ae34ac8c99a304d8f8a2a3aa008db7" />
+	</machine>
+	<machine name="academy">
+		<description>Academy (Euro)</description>
+		<year>1987</year>
+		<publisher>CRL</publisher>
+		<rom name="academy - tau ceti ii (europe).ipf" size="468252" crc="381d824d" sha1="4583ee64dba9d72d3969044982d1cf23765ccb0a" />
+	</machine>
+	<machine name="actionfg">
+		<description>Action Fighter (Euro)</description>
+		<year>1989</year>
+		<publisher>Firebird</publisher>
+		<rom name="action fighter (europe).ipf" size="468252" crc="4de0b420" sha1="5322b37521fbddea1977a83921af4ccd44dc390d" />
+	</machine>
+	<machine name="actnserv">
+		<description>Action Service (Euro)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="action service (europe).ipf" size="521027" crc="c066dd76" sha1="b49e9eec355ef12069a66e0ecf0ec541554a450b" />
+	</machine>
+	<machine name="addiball">
+		<description>Addictaball (Euro)</description>
+		<year>1987</year>
+		<publisher>Alligata</publisher>
+		<rom name="addictaball (europe).ipf" size="468252" crc="d12b34d0" sha1="256c9206e99c7a8e8083fe0ec0c0bd22fd9755d9" />
+	</machine>
+	<machine name="advfruit">
+		<description>Advanced Fruit Machine Simulator (Euro)</description>
+		<year>1991</year>
+		<publisher>Codemasters</publisher>
+		<rom name="advanced fruit machine simulator (europe).ipf" size="520242" crc="5194583f" sha1="15c62d409a7159a0ef382e05eca2932f71c19e98" />
+	</machine>
+	<machine name="advrobin">
+		<description>The Adventures of Robin Hood (Euro)</description>
+		<year>1991</year>
+		<publisher>Millennium</publisher>
+		<rom name="adventures of robin hood, the (europe) (en,fr,de,it).ipf" size="918252" crc="266ae29a" sha1="b00d85c37decb71d4511b5e3e1b86b1b65d3010f" />
+	</machine>
+	<machine name="advrugby">
+		<description>Advanced Rugby Simulator (Euro)</description>
+		<year>1988</year>
+		<publisher>Codemasters</publisher>
+		<rom name="advanced rugby simulator (europe).ipf" size="517627" crc="8bb377e4" sha1="991fa6d717a4780ed2a0071eaa598e7ff5e02d87" />
+	</machine>
+	<machine name="alienwrl">
+		<description>Alien World (Euro)</description>
+		<year>1992</year>
+		<publisher>HiTec Software</publisher>
+		<rom name="alien world (europe).ipf" size="930177" crc="5df7f24f" sha1="ea4c8384d730d3c30b5b4366f2c8e81c38647f8b" />
+	</machine>
+	<machine name="altreal">
+		<description>Alternate Reality (Euro, v3.0)</description>
+		<year>1986</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="alternate reality - the city (europe) (v3.0).ipf" size="468252" crc="946b71d3" sha1="aa7272a47814f95d8d146d4bee0572c7062697df" />
+	</machine>
+	<machine name="anarchy">
+		<description>Anarchy (Euro)</description>
+		<year>1990</year>
+		<publisher>Psyclapse</publisher>
+		<rom name="anarchy (europe).ipf" size="830127" crc="2383838c" sha1="9752df7e558bc63a11ce1ee636baec50dc385dc5" />
+	</machine>
+	<machine name="anotherw">
+		<description>Another World (Euro)</description>
+		<year>1991</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="another world (europe) (disk a).ipf" size="918252" crc="c488e5d2" sha1="2a7ea841314d2543954ed272b408738539d35b2f" />
+		<rom name="another world (europe) (disk b).ipf" size="918252" crc="a5675a82" sha1="dd8e1f16b4c0e8654961481ffcb45888abf5ba47" />
+	</machine>
+	<machine name="apprent">
+		<description>Apprentice (Euro)</description>
+		<year>1990</year>
+		<publisher>Rainbow Arts</publisher>
+		<rom name="apprentice (europe).ipf" size="1018252" crc="a89c8fe2" sha1="6db663c1c7bbcb4eaed2aa855daf3d68de68e5c4" />
+	</machine>
+	<machine name="archipel">
+		<description>Archipelagos (Euro)</description>
+		<year>1989</year>
+		<publisher>Logotron</publisher>
+		<rom name="archipelagos (europe).ipf" size="517627" crc="d2f671de" sha1="9cf425deba18ef912cf277227f2fa4a9480a4dc3" />
+	</machine>
+	<machine name="arctfox">
+		<description>Arcticfox (Euro)</description>
+		<year>1986</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="arcticfox (europe).ipf" size="469246" crc="4c15f718" sha1="97c8ff01349161d15bc79616132f2d49eaccf843" />
+	</machine>
+	<machine name="artdream">
+		<description>Artificial Dreams (Euro)</description>
+		<year>1988</year>
+		<publisher>Addictive</publisher>
+		<rom name="artificial dreams (europe).ipf" size="518254" crc="919fd6ee" sha1="b34210360a336dad82094a26f361dfccda4c4d3f" />
+	</machine>
+	<machine name="atax">
+		<description>Atax (Euro)</description>
+		<year>1988</year>
+		<publisher>Ramware</publisher>
+		<rom name="atax (europe).ipf" size="518252" crc="45c9c841" sha1="3be4f157c07891e20909e9a5c3e3a2d4ee1712c3" />
+	</machine>
+	<machine name="atomix">
+		<description>Atomix (Euro)</description>
+		<year>1989</year>
+		<publisher>Thalion</publisher>
+		<rom name="atomix (europe).ipf" size="522812" crc="c9e3437c" sha1="5ed73e1a75d508c5a92d63ad657ad8bd6313781f" />
+	</machine>
+	<machine name="backgamm">
+		<description>Backgammon Royale (Euro, v2.50 19910104)</description>
+		<year>1991</year>
+		<publisher>CP Software</publisher>
+		<rom name="backgammon royale (europe) (en,fr,de) (v2.50 4 jan 91).ipf" size="468252" crc="3f1c40a2" sha1="aecc70389395a35dae32dace15196c0f39c9d171" />
+	</machine>
+	<machine name="ballistx">
+		<description>Ballistix (Euro)</description>
+		<year>1989</year>
+		<publisher>Psyclapse</publisher>
+		<rom name="ballistix (europe).ipf" size="517627" crc="a3be4e27" sha1="1ba4df50a837cfd9563332115c31e306aceb8c53" />
+	</machine>
+	<machine name="balpow90">
+		<description>Balance of Power - The 1990 Edition (Euro)</description>
+		<year>1989</year>
+		<publisher>Mindscape</publisher>
+		<rom name="balance of power - the 1990 edition (europe).ipf" size="927372" crc="144e8ce2" sha1="b757bd1956c2dad4aeebabd363aac15754f43fb7" />
+	</machine>
+	<machine name="barbpal">
+		<description>Barbarian (Euro, Palace)</description>
+		<year>1987</year>
+		<publisher>Palace</publisher>
+		<rom name="barbarian - the ultimate warrior (europe).ipf" size="468877" crc="95f647ed" sha1="eb04c214363dd13dd3e96ac8968f961de1ec000e" />
+	</machine>
+	<machine name="bchvolly">
+		<description>Beach Volley (Euro)</description>
+		<year>1991</year>
+		<publisher>Ocean</publisher>
+		<rom name="beach volley (europe) (disk 1).ipf" size="520242" crc="7ac39a4f" sha1="cf96c8340e0f58d1877e164c02a6a71d36f01522" />
+		<rom name="beach volley (europe) (disk 2).ipf" size="520242" crc="3a4b4821" sha1="1db7e182abf69879f48523f8368b215e252e5ee5" />
+	</machine>
+	<machine name="beastlrd">
+		<description>Beastlord (Euro)</description>
+		<year>1993</year>
+		<publisher>Grandslam</publisher>
+		<rom name="beastlord (europe) (disk 1).ipf" size="1016196" crc="f9f84b83" sha1="b915c95d986a00e91033712dd4b61ee7716356cf" />
+		<rom name="beastlord (europe) (disk 2).ipf" size="1016196" crc="a371fafd" sha1="96c85354157713eff0fc55e47ff94a99691984a4" />
+	</machine>
+	<machine name="bhawk42">
+		<description>Battlehawks 1942 (Euro, v1.0 19890301)</description>
+		<year>1989</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="battlehawks 1942 (europe) (v1.0 3.1.89) (disk 1).ipf" size="468252" crc="8da94a8a" sha1="b2898f6a86dc105ca474d77f0f6a8af0681544bd" />
+		<rom name="battlehawks 1942 (europe) (v1.0 3.1.89) (disk 2).ipf" size="468252" crc="946c16ff" sha1="bf8e15305ce2bad6aa3db0df50b7d3d45248b9c1" />
+	</machine>
+	<machine name="bhcats">
+		<description>Top Cat Starring in Beverly Hills Cats (Euro)</description>
+		<year>1991</year>
+		<publisher>HiTec Software</publisher>
+		<rom name="top cat starring in beverly hills cats (europe).ipf" size="518252" crc="b22c9b87" sha1="f6bee6b766d85c87721ed4a16c0bca602440ead3" />
+	</machine>
+	<machine name="blktiger">
+		<description>Black Tiger (Euro, Les Chevaliers)</description>
+		<year>1990</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="black tiger (europe) (compilation - les chevaliers).ipf" size="1010945" crc="ac0c4cdf" sha1="f6752873b7decd89eb31e0b8658e7c259cdbd429" />
+	</machine>
+	<machine name="blockout">
+		<description>Blockout (Euro)</description>
+		<year>1990</year>
+		<publisher>Rainbow Arts</publisher>
+		<rom name="blockout (europe).ipf" size="468252" crc="1f437363" sha1="46d0b2dbfa45d730f90f419f611ce43ff3807e9e" />
+	</machine>
+	<machine name="bloodmon">
+		<description>Blood Money (Euro, Budget)</description>
+		<year>1989</year>
+		<publisher>Sizzlers</publisher>
+		<rom name="blood money (europe) (budget - sizzlers) (disk 1).ipf" size="517627" crc="bd492808" sha1="afb31d83e5266ec2e9a263e1f851a3a14843b27f" />
+		<rom name="blood money (europe) (budget - sizzlers) (disk 2).ipf" size="487002" crc="02d3cf47" sha1="675b4cb67ef93eb8776eb57e92dc9b02b7bcd21e" />
+	</machine>
+	<machine name="blstroid">
+		<description>Blasteroids (Euro)</description>
+		<year>1988</year>
+		<publisher>Image Works</publisher>
+		<rom name="blasteroids (europe) (disk 1).ipf" size="556258" crc="c3ed000e" sha1="798e20c0417a74ea7f7ca0c2ed7bef3b53773c6d" />
+		<rom name="blasteroids (europe) (disk 2).ipf" size="518252" crc="414cff4c" sha1="ef9fdd20685a731927fa6db70dc7ec70b3ffaafd" />
+	</machine>
+	<machine name="bluesb">
+		<description>The Blues Brothers (Euro)</description>
+		<year>1991</year>
+		<publisher>Titus</publisher>
+		<rom name="blues brothers, the (europe).ipf" size="521914" crc="edc0f2bb" sha1="80e32887bf33a21c7a2b1b3a732f8fd072f2e922" />
+	</machine>
+	<machine name="blzthndr">
+		<description>Blazing Thunder (Euro)</description>
+		<year>1991</year>
+		<publisher>HiTec Software</publisher>
+		<rom name="blazing thunder (europe).ipf" size="848162" crc="d2e24d3b" sha1="9f1c81fa8ee6eb2c069f7ce5f5489b9354a2eae8" />
+	</machine>
+	<machine name="bmx">
+		<description>BMX Simulator (Euro)</description>
+		<year>1988</year>
+		<publisher>Codemasters</publisher>
+		<rom name="bmx simulator (europe).ipf" size="517195" crc="1c1ef32a" sha1="a98536453124c1fcd59d2af479b58d4a94a5c312" />
+	</machine>
+	<machine name="bobwinnr">
+		<description>Bob Winner (Euro)</description>
+		<year>1987</year>
+		<publisher>Loriciel</publisher>
+		<rom name="bob winner (europe).ipf" size="486734" crc="5bede1bc" sha1="04b26fdfbbab28de0afb65528391af7cd2f7b3ee" />
+	</machine>
+	<machine name="bombjack">
+		<description>Bomb Jack (Euro, Budget)</description>
+		<year>1988</year>
+		<publisher>Encore</publisher>
+		<rom name="bomb jack (europe) (budget - encore).ipf" size="518254" crc="817937b1" sha1="ff51804b7d84036f94a1d18dd46befffd50bbc3b" />
+	</machine>
+	<machine name="bridgema">
+		<description>Bridge Master (Euro)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="bridge master (europe).ipf" size="467820" crc="ea0174bb" sha1="691caf4b464aa05e4954857da96089a00af8f0e9" />
+	</machine>
+	<machine name="bridgepl">
+		<description>Bridge Player 2000 with Tutor (Euro)</description>
+		<year>1987</year>
+		<publisher>CP Software</publisher>
+		<rom name="bridge player 2000 with tutor (europe).ipf" size="468252" crc="77b7b1b7" sha1="d51fcb431af891772d122ad4ea7311317dd25611" />
+	</machine>
+	<machine name="btlchess">
+		<description>Battle Chess (Euro)</description>
+		<year>1989</year>
+		<publisher>Interplay</publisher>
+		<rom name="battle chess (europe) (animation disk).ipf" size="518252" crc="e061cbf4" sha1="5f067484e9d29ee8e727bd98b409e798605c8211" />
+		<rom name="battle chess (europe) (startup disk).ipf" size="518252" crc="92996e4d" sha1="338ff1b456fba8598d73d97b51dc966c85e53d65" />
+	</machine>
+	<machine name="btlprobe">
+		<description>Battle Probe (Euro)</description>
+		<year>1988</year>
+		<publisher>Crysys</publisher>
+		<rom name="battle probe (europe).ipf" size="518252" crc="0298b567" sha1="83ba2d8f81454eae99144a1bc7cb7227b9b8cf12" />
+	</machine>
+	<machine name="bumpy">
+		<description>Bumpy (Euro)</description>
+		<year>1989</year>
+		<publisher>Loriciel</publisher>
+		<rom name="bumpy (europe).ipf" size="521109" crc="124b77b8" sha1="910d0099f08db3c4dc1877a8e5ff925d7666b1b9" />
+	</machine>
+	<machine name="burgermn">
+		<description>Burger Man (Euro)</description>
+		<year>1991</year>
+		<publisher>Byte Back</publisher>
+		<rom name="burger man (europe).ipf" size="627858" crc="6f665589" sha1="b9f8c1f44fbed8d9132bc8ea06fef358be1a2a07" />
+	</machine>
+	<machine name="camelot">
+		<description>Conquests of Camelot (Euro, v1.019)</description>
+		<year>1990</year>
+		<publisher>Sierra</publisher>
+		<rom name="conquests of camelot - the search for the grail (europe) (v1.019) (disk 1).ipf" size="918252" crc="0769e262" sha1="3c55788f87ef3d50318f783860e5fa1c8b6c3df0" />
+		<rom name="conquests of camelot - the search for the grail (europe) (v1.019) (disk 2).ipf" size="918252" crc="b4dc0f47" sha1="110c1940a8390ddf74c11fe1187662ce4f2c9bf2" />
+		<rom name="conquests of camelot - the search for the grail (europe) (v1.019) (disk 3).ipf" size="918252" crc="5d50534f" sha1="3669a8886282e2f0728e7488291c3e3f268d7844" />
+		<rom name="conquests of camelot - the search for the grail (europe) (v1.019) (disk 4).ipf" size="918252" crc="ce890c56" sha1="8f9401912d330dd8651d4b91c11324d4de8ba1a6" />
+	</machine>
+	<machine name="capblood">
+		<description>Captain Blood (Euro)</description>
+		<year>1988</year>
+		<publisher>Exxos</publisher>
+		<rom name="captain blood (europe) (disk 1).ipf" size="471232" crc="21b83ee2" sha1="8500b6072b87aed8d1274ed09c0131b90ba40acf" />
+		<rom name="captain blood (europe) (disk 2).ipf" size="471232" crc="d7a70b6d" sha1="4315e2222e06fa3c4d09cefc53bd4e0321fede81" />
+	</machine>
+	<machine name="capfizz">
+		<description>Captain Fizz (Euro)</description>
+		<year>1988</year>
+		<publisher>Psyclapse</publisher>
+		<rom name="captain fizz meets the blaster-trons (europe) (en,fr,de).ipf" size="517627" crc="11d1421c" sha1="d182416684e0082a031ece194bbb42e90296bfeb" />
+	</machine>
+	<machine name="carrierc">
+		<description>Carrier Command (Euro)</description>
+		<year>1988</year>
+		<publisher>Rainbird</publisher>
+		<rom name="carrier command (europe) (en,fr,de).ipf" size="1018252" crc="a4c09db8" sha1="200e85a3362a08e589acc034888dd9a285b94656" />
+	</machine>
+	<machine name="cartncap">
+		<description>Cartoon Capers (Euro)</description>
+		<year>1990</year>
+		<publisher>Mandarin</publisher>
+		<rom name="cartoon capers (europe) (disk 1).ipf" size="1030752" crc="df42b229" sha1="782efbe096c42aa6b86e3a1e1fe8516fd595ed5a" />
+		<rom name="cartoon capers (europe) (disk 2).ipf" size="518252" crc="692f5a1f" sha1="89467c3ee1d87788fd9cee7f967e185370da08ef" />
+	</machine>
+	<machine name="catch23">
+		<description>Catch 23 (Euro)</description>
+		<year>1987</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="catch 23 (europe).ipf" size="512002" crc="75c10f22" sha1="9d57b61f82bf75114f789c287083ea3563399cc9" />
+	</machine>
+	<machine name="ccastles">
+		<description>Crystal Castles (Euro)</description>
+		<year>1986</year>
+		<publisher>Atari</publisher>
+		<rom name="crystal castles (europe).ipf" size="468252" crc="b3fdc6b5" sha1="001562942440750c6be41ad2644301703ff5666e" />
+	</machine>
+	<machine name="champbb">
+		<description>Championship Baseball (Euro)</description>
+		<year>1987</year>
+		<publisher>Gamestar</publisher>
+		<rom name="championship baseball (europe).ipf" size="468808" crc="20153397" sha1="a503f17056d7d4778c5917b06af711ee33f6f395" />
+	</machine>
+	<machine name="champcrk">
+		<description>Championship Cricket (Euro)</description>
+		<year>1988</year>
+		<publisher>Crysys</publisher>
+		<rom name="championship cricket (europe).ipf" size="468252" crc="b861d4d1" sha1="8ca3de589e689142cb3f66f4b5742a5bc4855355" />
+	</machine>
+	<machine name="champwrs">
+		<description>Championship Wrestling (Euro)</description>
+		<year>1986</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="championship wrestling (europe).ipf" size="518615" crc="f3ff3775" sha1="f664eac6d793aa156f5a2952d9c62ab1cb486a29" />
+	</machine>
+	<machine name="chase">
+		<description>Chase (Euro)</description>
+		<year>1988</year>
+		<publisher>Mastertronic</publisher>
+		<rom name="chase (europe).ipf" size="468252" crc="ae3ab247" sha1="931a84d2eb20fc9d410032497d97844a514fbde3" />
+	</machine>
+	<machine name="chasehq">
+		<description>Chase H.Q. (Euro)</description>
+		<year>1989</year>
+		<publisher>Ocean</publisher>
+		<rom name="chase h.q. (europe).ipf" size="520242" crc="f95ee17a" sha1="ce4d71db6789b07b35297d4e22284ff8a7350424" />
+	</machine>
+	<machine name="chesssim">
+		<description>Chess Simulator (Euro)</description>
+		<year>1990</year>
+		<publisher>Infogrames</publisher>
+		<rom name="chess simulator (europe) (en,fr).ipf" size="918252" crc="91f09736" sha1="9fdfe5d714586eb70d8b5936f671227de502620f" />
+	</machine>
+	<machine name="chicag30">
+		<description>Chicago 30's (Euro)</description>
+		<year>1989</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="chicago 30's (europe).ipf" size="468252" crc="48f61002" sha1="f21d800bda5ba013ff2793f09da0f423baedf5db" />
+	</machine>
+	<machine name="chipchal">
+		<description>Chip's Challenge (Euro)</description>
+		<year>1990</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="chip's challenge (europe).ipf" size="517195" crc="76561c0c" sha1="a75d1bd89997eff25cb1f04645c05f1b5f63505f" />
+	</machine>
+	<machine name="chsp2150a">
+		<description>Chess Player 2150 (Euro, TenStar Pack)</description>
+		<year>1989</year>
+		<publisher>Oxford Softworks</publisher>
+		<rom name="chess player 2150 (europe) (compilation - tenstar pack).ipf" size="468252" crc="a3da4220" sha1="1d4bb34a8deda9577a1ad1df56d576783efc8a8c" />
+	</machine>
+	<machine name="chsp2150">
+		<description>Chess Player 2150 (Euro)</description>
+		<year>1989</year>
+		<publisher>Oxford Softworks</publisher>
+		<rom name="chess player 2150 (europe).ipf" size="468252" crc="7f2a5755" sha1="e391d32fa692a6c1209639897702fe4559e82314" />
+	</machine>
+	<machine name="chuckie2">
+		<description>Chuckie Egg II (Euro)</description>
+		<year>1989</year>
+		<publisher>Pick &amp; Choose</publisher>
+		<rom name="chuckie egg ii (europe).ipf" size="468252" crc="ce0f05aa" sha1="080b1a79a14c5d87b1b4a306d89d6035fbd22941" />
+	</machine>
+	<machine name="chuckie">
+		<description>Chuckie Egg (Euro)</description>
+		<year>1988</year>
+		<publisher>Pick &amp; Choose</publisher>
+		<rom name="chuckie egg (europe).ipf" size="468252" crc="ac75f2fa" sha1="cd8637b24fff0da0c72f2b5d89609e2410cab9d8" />
+	</machine>
+	<machine name="cloudkng">
+		<description>Cloud Kingdoms (Euro)</description>
+		<year>1990</year>
+		<publisher>Millennium</publisher>
+		<rom name="cloud kingdoms (europe).ipf" size="520242" crc="243b0ec8" sha1="4dfedc0fc04895a3298bc84bdaf1101aa26625e8" />
+	</machine>
+	<machine name="cm2000">
+		<description>The Chessmaster 2000 (Euro)</description>
+		<year>1987</year>
+		<publisher>The Software Toolworks</publisher>
+		<rom name="chessmaster 2000, the (europe) (games disk).ipf" size="468252" crc="eccf742f" sha1="9148ee62183e73e3e2fbd079fb2fd38110c03c72" />
+		<rom name="chessmaster 2000, the (europe).ipf" size="468877" crc="0e515780" sha1="f37c5e84e4343eaea78067082105e86db71ca1ce" />
+	</machine>
+	<machine name="contcirc">
+		<description>Continental Circus (Euro)</description>
+		<year>1989</year>
+		<publisher>Virgin Mastertronic</publisher>
+		<rom name="continental circus (europe) (disk 1).ipf" size="517627" crc="e0220682" sha1="9d2f045fd1e0b4abe837050be22f1e6ba265c354" />
+		<rom name="continental circus (europe) (disk 2).ipf" size="517627" crc="3a16a48f" sha1="75db0a292eca775e6a143fe738be3b7c68af1ea5" />
+	</machine>
+	<machine name="corruptn">
+		<description>Corruption (Euro, v1.9)</description>
+		<year>1988</year>
+		<publisher>Rainbird</publisher>
+		<rom name="corruption (europe) (v1.9).ipf" size="472992" crc="479f85aa" sha1="6e13d65cc896c4087ca7b47466f12066d342af02" />
+	</machine>
+	<machine name="cquest2">
+		<description>Chrono Quest II (Euro)</description>
+		<year>1990</year>
+		<publisher>Psygnosis</publisher>
+		<rom name="chrono quest ii (europe) (dual sided) (disk 1).ipf" size="918252" crc="5bfe7489" sha1="402e2b66616a48a51018c3c2b8d89a4c1bc6642c" />
+		<rom name="chrono quest ii (europe) (dual sided) (disk 2).ipf" size="918252" crc="415e69d3" sha1="636734ced65b6d3f4708eb53b8e26a63266d998d" />
+		<rom name="chrono quest ii (europe) (dual sided) (disk 3).ipf" size="1018252" crc="fb239020" sha1="1ed6d5c7b7fae7866a7d6f931fdb5c37b7440001" />
+	</machine>
+	<machine name="cricketc">
+		<description>Cricket Captain (Euro, v1.5 1991)</description>
+		<year>1991?</year>
+		<publisher>D &amp; H Games</publisher>
+		<rom name="cricket captain (europe) (v1.5 1991).ipf" size="518252" crc="afb091dd" sha1="fad79781d9a9e6848c059eb35a2c068c5df14a3f" />
+	</machine>
+	<machine name="crkdown">
+		<description>Crack Down (Euro, Budget)</description>
+		<year>1990</year>
+		<publisher>KIXX</publisher>
+		<rom name="crack down (europe) (budget - kixx).ipf" size="1107413" crc="9d27dda5" sha1="91752b32d4c93391ad707a030e1305bd110850b2" />
+	</machine>
+	<machine name="cyberbal">
+		<description>Cyberball (Euro)</description>
+		<year>1990</year>
+		<publisher>Domark</publisher>
+		<rom name="cyberball (europe) (disk 1).ipf" size="520242" crc="6c9674d8" sha1="cc7d8f5b20df483f98f690f9ff534afec81743ba" />
+		<rom name="cyberball (europe) (disk 2).ipf" size="518252" crc="3789ff91" sha1="b4580b64ca61c07f1159e04a102ea638e613eaf9" />
+	</machine>
+	<machine name="cybercn3">
+		<description>Cybercon III (Euro, 19910406)</description>
+		<year>1991</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="cybercon iii (europe) (4.6.91).ipf" size="518252" crc="6e5122a9" sha1="05e0cdc691f5358581d90816e3a2aead283b66b8" />
+	</machine>
+	<machine name="damesim">
+		<description>Dames Simulator (Fra)</description>
+		<year>1990</year>
+		<publisher>Infogrames</publisher>
+		<rom name="dames simulator (france).ipf" size="471664" crc="f9cb88e4" sha1="c586cae6010a4bfbdf32845606cc8ebab0ee9617" />
+	</machine>
+	<machine name="dariusp">
+		<description>Darius+ (Euro)</description>
+		<year>1989</year>
+		<publisher>The Edge</publisher>
+		<rom name="darius+ (europe) (disk 1).ipf" size="520242" crc="ea61b191" sha1="82fc90af1c1735eb290e05bbd98a94d8327ab2ab" />
+		<rom name="darius+ (europe) (disk 2).ipf" size="518252" crc="6d7c5ff3" sha1="46ddfb0a89e64cf55d84f385058a6ade1cf29478" />
+	</machine>
+	<machine name="dayviper">
+		<description>Day of the Viper (Euro)</description>
+		<year>1989</year>
+		<publisher>Accolade</publisher>
+		<rom name="day of the viper (europe) (disk 1).ipf" size="518252" crc="b8c71f9f" sha1="d2093d19e4c5610d8a9f563aec70682aa6d51b1e" />
+		<rom name="day of the viper (europe) (disk 2).ipf" size="518252" crc="22073bc6" sha1="5e24999628c8d24ab59817523d4f9d78c8d2a39b" />
+	</machine>
+	<machine name="ddragon2">
+		<description>Double Dragon II - The Revenge (Euro, v1.2, Budget)</description>
+		<year>1989</year>
+		<publisher>16 Blitz</publisher>
+		<rom name="double dragon ii - the revenge (europe) (v1.2) (budget - 16 blitz) (disk 1).ipf" size="1017627" crc="3d3168a6" sha1="76a4365aa9e0f86a3f65489b7e7edf28bf2aa3fb" />
+		<rom name="double dragon ii - the revenge (europe) (v1.2) (budget - 16 blitz) (disk 2).ipf" size="517627" crc="37cc6451" sha1="696bb3f9c945ab6f103c76603e7dccbcc1cc424f" />
+	</machine>
+	<machine name="ddragon">
+		<description>Double Dragon (Euro, Magnum 4)</description>
+		<year>1989</year>
+		<publisher>Melbourne House</publisher>
+		<rom name="double dragon (europe) (compilation - magnum 4) (disk 1).ipf" size="517195" crc="6527a8d3" sha1="c8e374850ad918a6859a7464f16100377972e58b" />
+		<rom name="double dragon (europe) (compilation - magnum 4) (disk 2).ipf" size="517195" crc="c1ebe2ca" sha1="06c4d138d62d0a74bc77c4b4495d735c6fd2cd53" />
+	</machine>
+	<machine name="deep">
+		<description>The Deep (Euro)</description>
+		<year>1988</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="the deep (europe) (disk 1).ipf" size="944012" crc="94b0deb7" sha1="cf6177b716e66ae092e57f6dda3219134be695d2" />
+		<rom name="the deep (europe) (disk 2).ipf" size="481132" crc="bd61496f" sha1="a806be4c264d970a2ea77b6643c19e17df77e1bc" />
+	</machine>
+	<machine name="dejavu">
+		<description>Deja Vu - A Nightmare Comes True (Euro)</description>
+		<year>1987</year>
+		<publisher>Mirrorsoft</publisher>
+		<rom name="deja vu - a nightmare comes true (europe) (disk 1).ipf" size="468337" crc="5ff6e90a" sha1="2c759e4d137490eec8670b01f4b117e7546594d5" />
+		<rom name="deja vu - a nightmare comes true (europe) (disk 2).ipf" size="468252" crc="9bc3f029" sha1="6db0c129ced88b76dcba6dee7184e03ee04a7b82" />
+	</machine>
+	<machine name="deliver">
+		<description>Deliverance (Euro)</description>
+		<year>1992</year>
+		<publisher>21st Century</publisher>
+		<rom name="deliverance (europe) (disk 1).ipf" size="1018252" crc="b909ad7a" sha1="76884f2ccf1a4ddedbe23374802c784d63d4e1fd" />
+		<rom name="deliverance (europe) (disk 2).ipf" size="1018252" crc="90e37c76" sha1="7c4c04aefd011bc998db30a332002626e4c83033" />
+	</machine>
+	<machine name="demonblu">
+		<description>Demon Blue (Euro)</description>
+		<year>19??</year>
+		<publisher>Micro-Value</publisher>
+		<rom name="demon blue (europe).ipf" size="468252" crc="f1d37025" sha1="a390cc5ad5c5a26972705756ba2e52b371762093" />
+	</machine>
+	<machine name="demoniak">
+		<description>Demoniak (Euro, v1.0)</description>
+		<year>1991</year>
+		<publisher>Palace</publisher>
+		<rom name="demoniak (europe) (v1.0).ipf" size="918252" crc="b66460b1" sha1="f9c71b55650d08e8d09a4ccf383d35c218a0aa21" />
+	</machine>
+	<machine name="dicktr">
+		<description>Dick Tracy (Euro)</description>
+		<year>1990</year>
+		<publisher>Titus</publisher>
+		<rom name="dick tracy (europe) (en,fr,de,es,it) (disk a).ipf" size="521914" crc="b02524fd" sha1="c620c7e995ad9f4e1d3b636f43a1161b031c941a" />
+		<rom name="dick tracy (europe) (en,fr,de,es,it) (disk b).ipf" size="518252" crc="48fbca9e" sha1="42c7a132610366bfafb41964e2c9f97a0068232f" />
+	</machine>
+	<machine name="disc">
+		<description>Disc (Euro, Budget)</description>
+		<year>1991</year>
+		<publisher>Action Sixteen</publisher>
+		<rom name="disc (europe) (budget - action sixteen).ipf" size="1014859" crc="ab7ffc6b" sha1="d29a4835ba85d55778fded6b59cee7d5c3552afc" />
+	</machine>
+	<machine name="dizzydic">
+		<description>Dizzy Dice (Euro, Budget)</description>
+		<year>1990</year>
+		<publisher>Smash 16</publisher>
+		<rom name="dizzy dice (europe) (budget - smash 16).ipf" size="518252" crc="34a1d807" sha1="8a9dcec0065a8a4ed8ec03ce6f974acb4d9d25b1" />
+	</machine>
+	<machine name="drakkhen">
+		<description>Drakkhen (Euro, v1.1)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="drakkhen (europe) (v1.1) (disk 1).ipf" size="916039" crc="2bfc80d2" sha1="c003db10f5eac58ac1eed1fa7c3dfebd94221637" />
+		<rom name="drakkhen (europe) (v1.1) (disk 2).ipf" size="918252" crc="c7c2fdd2" sha1="5c0c24859f6b644f4c07f16ab91a1c96fd3b7bd5" />
+		<rom name="drakkhen (europe) (v1.1) (disk 3).ipf" size="468252" crc="be27d4c4" sha1="29721b32cdc407dc37df6cf8ea3e88b3e61f22dc" />
+	</machine>
+	<machine name="driller">
+		<description>Driller (Euro)</description>
+		<year>1988</year>
+		<publisher>Incentive</publisher>
+		<rom name="driller (europe) (en,fr,de,it).ipf" size="918252" crc="acbe8cc3" sha1="51a2e73f07d981b6a3ac75df9a16cb2b4d39f322" />
+	</machine>
+	<machine name="dspirit">
+		<description>Dragon Spirit (Euro)</description>
+		<year>1990</year>
+		<publisher>Domark</publisher>
+		<rom name="dragon spirit (europe) (disk 1).ipf" size="520242" crc="456940a5" sha1="0a68160f44d4565f5380a503deab9a77213b5ac5" />
+		<rom name="dragon spirit (europe) (disk 2).ipf" size="518252" crc="150f235e" sha1="5b1dcd00495f933cccbd0de180cd123f43b53749" />
+	</machine>
+	<machine name="dynawars">
+		<description>Dynasty Wars (Euro, Les Chevaliers)</description>
+		<year>1990</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="dynasty wars (europe) (compilation - les chevaliers).ipf" size="1010945" crc="d263dcd9" sha1="91910e0ad7eb7e589be557a579b7d326a31f8788" />
+	</machine>
+	<machine name="eastwest">
+		<description>East vs. West Berlin 1948 (Euro)</description>
+		<year>1990</year>
+		<publisher>Rainbow Arts</publisher>
+		<rom name="east vs. west berlin 1948 (europe) (disk 1).ipf" size="518252" crc="1cfe15a0" sha1="ac090eb750035531fab06ead25dad1d4d0fa576a" />
+		<rom name="east vs. west berlin 1948 (europe) (disk 2).ipf" size="518252" crc="9da3c5f1" sha1="a7e97cd7a6860e1e65d92ad36024f826b4a3442d" />
+	</machine>
+	<machine name="elementl">
+		<description>Elemental (Euro)</description>
+		<year>1988</year>
+		<publisher>Lankhor</publisher>
+		<rom name="elemental (europe) (en,fr,de).ipf" size="521039" crc="bbda28a7" sha1="f37c23bd0f7cf07d47a866381e5437abb61527c2" />
+	</machine>
+	<machine name="elfmv">
+		<description>Elf (Euro, MicroValue)</description>
+		<year>1988</year>
+		<publisher>MicroValue</publisher>
+		<rom name="elf (europe) (microvalue).ipf" size="517627" crc="93197887" sha1="e1885ab604fefffdd4b8e3c59f7b203847ebe415" />
+	</machine>
+	<machine name="elite">
+		<description>Elite (Euro)</description>
+		<year>1988</year>
+		<publisher>Firebird</publisher>
+		<rom name="elite (europe).ipf" size="468252" crc="acd85762" sha1="ca756d5ab4df383e7ac1fd108ead3bea28c03578" />
+	</machine>
+	<machine name="enterpr">
+		<description>Enterprise (Euro)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="enterprise (europe).ipf" size="468252" crc="e4eacdf7" sha1="fc75d0177800f9c9b13d886dab5e661cc2a03ee6" />
+	</machine>
+	<machine name="erik">
+		<description>Erik (Euro)</description>
+		<year>1992</year>
+		<publisher>Atlantis Software</publisher>
+		<rom name="erik (europe).ipf" size="562652" crc="004f5576" sha1="df50e0bbc03e9dfc071f767fdbd4a184e349b840" />
+	</machine>
+	<machine name="esb">
+		<description>Star Wars - The Empire Strikes Back (Euro, The Star Wars Trilogy)</description>
+		<year>1989</year>
+		<publisher>Domark</publisher>
+		<rom name="star wars - the empire strikes back (europe) (compilation - the star wars trilogy).ipf" size="518252" crc="c0c4329f" sha1="04de6eaf22f5db39485847ba6afd8875b68b1a19" />
+	</machine>
+	<machine name="everton">
+		<description>The Official Everton F.C. Intelligensia (Euro)</description>
+		<year>1990</year>
+		<publisher>Amfas</publisher>
+		<rom name="official everton f.c. intelligensia, the (europe).ipf" size="918252" crc="f435f18c" sha1="d7000e73518f0b07c8f5c229b7b18f073f625b16" />
+	</machine>
+	<machine name="exolon">
+		<description>Exolon (Euro)</description>
+		<year>1988</year>
+		<publisher>Hewson</publisher>
+		<rom name="exolon (europe).ipf" size="520242" crc="f5e1e276" sha1="a28b71d9792bfb35f756e9253f46c1554670c010" />
+	</machine>
+	<machine name="eyehorus">
+		<description>Eye of Horus (Euro)</description>
+		<year>1989</year>
+		<publisher>Logotron</publisher>
+		<rom name="eye of horus (europe).ipf" size="517627" crc="e166e8a4" sha1="9656690bf558939cd62941f3906d30ab93f01630" />
+	</machine>
+	<machine name="f19sf">
+		<description>F-19 Stealth Fighter (Euro, v1.02)</description>
+		<year>1990</year>
+		<publisher>Microprose</publisher>
+		<rom name="f-19 stealth fighter (europe) (v1.02) (disk a).ipf" size="1018252" crc="cdaf4ce4" sha1="95af9be68b3e86ce62ce08505921c61f5b7161ec" />
+		<rom name="f-19 stealth fighter (europe) (v1.02) (disk b).ipf" size="518252" crc="563e0b5d" sha1="c08bdfc7ade7c2137ae8f2bd500fc127f68a2ce3" />
+		<rom name="f-19 stealth fighter (europe) (v1.02) (disk c).ipf" size="518252" crc="cb78569c" sha1="f30b6f6d7de8a78b9ef77df93312af29756e45fb" />
+	</machine>
+	<machine name="faceoff">
+		<description>Face-Off (Euro)</description>
+		<year>1991</year>
+		<publisher>Krisalis</publisher>
+		<rom name="face-off ice hockey (europe) (en,fr,de,es,it).ipf" size="1017627" crc="23c5a571" sha1="8a35355973c6014b872c01e733adc1c24ab5edf6" />
+	</machine>
+	<machine name="faceoffa">
+		<description>Face Off (Euro)</description>
+		<year>1989</year>
+		<publisher>Anco</publisher>
+		<rom name="ice hockey aka face off (europe).ipf" size="517627" crc="d459dfca" sha1="5552cd3c140657511689725bba31ed9ac3b8c534" />
+	</machine>
+	<machine name="fbmang2">
+		<description>Football Manager 2 (Euro)</description>
+		<year>1988</year>
+		<publisher>Addictive</publisher>
+		<rom name="football manager 2 (europe).ipf" size="518254" crc="08363b8c" sha1="54c09068d7d6f0a355d54adf0644c61efc3cb602" />
+	</machine>
+	<machine name="ferrari">
+		<description>Ferrari Formula One (Euro)</description>
+		<year>1989</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="e02431xl(1).mfm" size="2377383" crc="97032905" sha1="e7448484dd03f68ccb01e8188e29404953ab28cb" />
+		<rom name="e02431xl(2).mfm" size="2377453" crc="1eeea420" sha1="7234349114f2bb077d4d2ba8da5e6368c6caa475" />
+	</machine>
+	<machine name="firefor2">
+		<description>Fire and Forget II - The Death Convoy (Euro)</description>
+		<year>1990</year>
+		<publisher>Titus</publisher>
+		<rom name="fire and forget ii - the death convoy (europe).ipf" size="521914" crc="6cb31e61" sha1="a6ebdeb913d3f6ec67699c2893e8621da1af14c7" />
+	</machine>
+	<machine name="flimboqs">
+		<description>Flimbo's Quest (Euro)</description>
+		<year>1990</year>
+		<publisher>System 3</publisher>
+		<rom name="flimbo's quest (europe).ipf" size="1026092" crc="7117917a" sha1="91f44c8a7bfc0d46724771f7ad44678688e739b2" />
+	</machine>
+	<machine name="foundwst">
+		<description>Foundation's Waste (Euro, Budget)</description>
+		<year>1988</year>
+		<publisher>Klassix</publisher>
+		<rom name="foundation's waste (europe) (budget - klassix).ipf" size="562172" crc="1c4935e3" sha1="0da037c8e8a1784d0afa7f4b8a0cd191ec1bae7a" />
+	</machine>
+	<machine name="foundwstc">
+		<description>Foundation's Waste (Euro, Coverdisk)</description>
+		<year>1990</year>
+		<publisher>&lt;coverdisk&gt;</publisher>
+		<rom name="foundation's waste (europe) (coverdisk - the one - issue 22) (amiga + st).ipf" size="1034145" crc="8cc8484f" sha1="c51cc0cf5005fa6f422383e7f84a00f6bac5915c" />
+	</machine>
+	<machine name="fullmp">
+		<description>Full Metal Planete (Euro)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="full metal planete (europe).ipf" size="915607" crc="cda1bf50" sha1="f4eca005f4459e2016e48b6cd15523843d330d2a" />
+	</machine>
+	<machine name="futbaskt">
+		<description>Future Basketball (Euro)</description>
+		<year>1990</year>
+		<publisher>Hewson</publisher>
+		<rom name="future basketball (europe).ipf" size="1022242" crc="52b04291" sha1="b5096b59ca5bc1cda170932a80321f81f42b139d" />
+	</machine>
+	<machine name="futwars">
+		<description>Future Wars - Time Travellers (Euro)</description>
+		<year>1989</year>
+		<publisher>Palace</publisher>
+		<rom name="future wars - time travellers (europe) (disk 1).ipf" size="978252" crc="6f61c2fb" sha1="e93900c57c6798bd86e6c0cdd41c0e97b5206412" />
+		<rom name="future wars - time travellers (europe) (disk 2).ipf" size="973212" crc="fb037ef8" sha1="ab9c5483fa5d38e282423c9274e539ba290f4ef1" />
+		<rom name="future wars - time travellers (europe) (disk 3).ipf" size="978252" crc="05e3600f" sha1="5e18adb57870a4edd11a132a012e7c8c72c93df3" />
+	</machine>
+	<machine name="fwdizzy">
+		<description>Fantasy World Dizzy (Euro)</description>
+		<year>1991</year>
+		<publisher>Codemasters</publisher>
+		<rom name="fantasy world dizzy.mfm" size="2111192" crc="0e3bc56e" sha1="dd941a52b47a3c078b02c2c9ee8b566a94622a1f" />
+	</machine>
+	<machine name="gameovr2">
+		<description>Game Over II (Euro)</description>
+		<year>1988</year>
+		<publisher>Dinamic</publisher>
+		<rom name="game over ii (europe).ipf" size="468252" crc="a56489c4" sha1="9fd4eb2dfa35ac27dc08f6c44a14791e95f0c4d1" />
+	</machine>
+	<machine name="gazza">
+		<description>Gazza's Super Soccer (Euro)</description>
+		<year>1989</year>
+		<publisher>Empire Interactive</publisher>
+		<rom name="gazza's super soccer (europe) (en,fr,it).ipf" size="520242" crc="1395f810" sha1="d9d2706e09dc547b4f3f8a10d6b441eeb835f837" />
+	</machine>
+	<machine name="gemiwing">
+		<description>Gemini Wing (Euro)</description>
+		<year>1989</year>
+		<publisher>Virgin Mastertronic</publisher>
+		<rom name="gemini wing (europe) (disk 1).ipf" size="517627" crc="11e27e40" sha1="4a7ebb61e0f86f6b2e832a4e83e2e40a0fbb76fb" />
+		<rom name="gemini wing (europe) (disk 2).ipf" size="468252" crc="2ab50f0c" sha1="4e23619d81a22f37923a827c1499edbf449cd520" />
+	</machine>
+	<machine name="getdextr">
+		<description>Get Dexter (Euro)</description>
+		<year>1987</year>
+		<publisher>Ere Informatique</publisher>
+		<rom name="get dexter (europe) (en,fr,de,es).ipf" size="468252" crc="be17f03a" sha1="1425bea8d03f2253fccb689ea34848a26e17083b" />
+	</machine>
+	<machine name="gflchafb">
+		<description>GFL Championship Football (Euro)</description>
+		<year>1987</year>
+		<publisher>Gamestar</publisher>
+		<rom name="gfl championship football (europe).ipf" size="468808" crc="da4f2ce4" sha1="6fe6569173eac9c4fec578c1a4d87961cafcfba3" />
+	</machine>
+	<machine name="gforce2">
+		<description>Galaxy Force II (Euro)</description>
+		<year>1990</year>
+		<publisher>Activision</publisher>
+		<rom name="galaxy force ii (europe) (disk a).ipf" size="520242" crc="ba065e10" sha1="c8d5a812b693c82be989a1677bae1545cb585731" />
+		<rom name="galaxy force ii (europe) (disk b).ipf" size="520242" crc="86b551a9" sha1="295c60fad88020b6cbc4871f2ab98a56539710b7" />
+	</machine>
+	<machine name="ghouls">
+		<description>Ghouls 'n' Ghosts (Euro, Les Chevaliers)</description>
+		<year>1989</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="ghouls 'n' ghosts (europe) (compilation - les chevaliers) (disk 1).ipf" size="467820" crc="1411f18e" sha1="db958f37ad39fee617234c17b402a44859939138" />
+		<rom name="ghouls 'n' ghosts (europe) (compilation - les chevaliers) (disk 2).ipf" size="467820" crc="610b63db" sha1="eee2cca489d6eee05a868c128a93277530abed7a" />
+	</machine>
+	<machine name="gng">
+		<description>Ghosts 'n' Goblins (Euro, Finale)</description>
+		<year>1990</year>
+		<publisher>Elite</publisher>
+		<rom name="ghosts 'n' goblins (europe) (compilation - finale).ipf" size="1022242" crc="c569ce88" sha1="0008dffe8d909a6ef1d6bc11bb5cd51e1b9cbf6a" />
+	</machine>
+	<machine name="gomoku">
+		<description>Gomoku and Renju (Euro)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="go-moku + renju (europe).ipf" size="468252" crc="15130dbc" sha1="564bf033b47c583586fe8bc7a80ae31ef7e5f28a" />
+	</machine>
+	<machine name="goofyexp">
+		<description>Goofy's Railway Express (Euro)</description>
+		<year>1989</year>
+		<publisher>Disney Software</publisher>
+		<rom name="goofy's railway express (europe) (en,fr,de,es,it).ipf" size="518252" crc="b232592f" sha1="5b8da2b90b283468b39902e3a981321f66737581" />
+	</machine>
+	<machine name="goplayer">
+		<description>The Oxford Softworks Go Player (Euro)</description>
+		<year>1991</year>
+		<publisher>Oxford Softworks</publisher>
+		<rom name="oxford softworks go player, the (europe) (en,fr,de).ipf" size="468252" crc="9190ad7d" sha1="4a0a64dce055869706e6468f070da4edb90da404" />
+	</machine>
+	<machine name="gravity">
+		<description>Gravity (Euro)</description>
+		<year>1990</year>
+		<publisher>Image Works</publisher>
+		<rom name="gravity (europe) (disk 1).ipf" size="1022252" crc="0781e784" sha1="05db6ea6eaa05de372e29e11cecae814dee9b373" />
+		<rom name="gravity (europe) (disk 2).ipf" size="473292" crc="1561c03b" sha1="5062ed885dbd8c6707d5a4d8eeed3514c25b23ea" />
+	</machine>
+	<machine name="growth">
+		<description>Growth (Euro)</description>
+		<year>1988</year>
+		<publisher>Axxiom</publisher>
+		<rom name="growth (europe).ipf" size="518252" crc="eeb70ac4" sha1="184146571f4d141311838b670620e5bb58895d6e" />
+	</machine>
+	<machine name="guardang">
+		<description>The Guardian Angel (Euro)</description>
+		<year>1989</year>
+		<publisher>Codemasters</publisher>
+		<rom name="guardian angel (europe).ipf" size="520242" crc="10d281ce" sha1="06e6c754d29967e940885bdb9692392f62c1501e" />
+	</machine>
+	<machine name="guildthv">
+		<description>The Guild of Thieves (Euro, v1.0)</description>
+		<year>1987</year>
+		<publisher>Firebird</publisher>
+		<rom name="guild of thieves, the (europe) (v1.0).ipf" size="472560" crc="e23d02d4" sha1="22aa02b8f4ec650113d1084e94f314158e8ab85f" />
+	</machine>
+	<machine name="hacker2">
+		<description>Hacker II - The Doomsday Papers (Euro)</description>
+		<year>1986</year>
+		<publisher>Activision</publisher>
+		<rom name="hacker ii - the doomsday papers (europe).ipf" size="468954" crc="b7c73077" sha1="5695b9a86850f3e5b310c78685b87083390009a3" />
+	</machine>
+	<machine name="hammrfst">
+		<description>Hammerfist (Euro)</description>
+		<year>1990</year>
+		<publisher>Activision</publisher>
+		<rom name="hammerfist (europe).ipf" size="520242" crc="5697bf95" sha1="96cdb163a785ed752ab36a2010d49c6bac9a5373" />
+	</machine>
+	<machine name="hannabar">
+		<description>The HiTEC Hanna-Barbera Cartoon Character Collection (Euro)</description>
+		<year>1991</year>
+		<publisher>HiTec Software</publisher>
+		<rom name="hi-tec hanna-barbera cartoon character collection, the (europe).ipf" size="711762" crc="a290a478" sha1="3416160e0d78e9d57c19ced5ce53981da5656b93" />
+	</machine>
+	<machine name="hardball">
+		<description>HardBall! (Euro, Accolade All Time Favourites)</description>
+		<year>1987</year>
+		<publisher>Accolade</publisher>
+		<rom name="hardball (europe) (compilation - accolade all time favourites).ipf" size="469240" crc="9d654a14" sha1="d3b6c7dc9f90b0c47851d752e78168fdb8cb60a1" />
+	</machine>
+	<machine name="hardnova">
+		<description>Hard Nova (Euro)</description>
+		<year>1991</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="hard nova (europe) (earth disk).ipf" size="1018252" crc="8fda212c" sha1="2734753da4cd73c332cf0d003c71464feaf8aeb4" />
+		<rom name="hard nova (europe) (install disk).ipf" size="1018252" crc="b71e7a4c" sha1="1035b16f952990f6240a0a01aab75e2e5169736a" />
+	</machine>
+	<machine name="harley">
+		<description>Harley-Davidson - The Road to Sturgis (Euro)</description>
+		<year>1990</year>
+		<publisher>Mindscape</publisher>
+		<rom name="harley-davidson - the road to sturgis (europe) (disk 1).ipf" size="518252" crc="c230cfa7" sha1="4a98c84c745601cf24a720de4f8872080913efde" />
+		<rom name="harley-davidson - the road to sturgis (europe) (disk 2).ipf" size="518252" crc="d440e665" sha1="21dbb886ec29cfc675667b7c8f479352d01b6a52" />
+	</machine>
+	<machine name="hellraid">
+		<description>Hellraider (Euro)</description>
+		<year>1989</year>
+		<publisher>ARC</publisher>
+		<rom name="hellraider (europe).ipf" size="1018252" crc="1d05bbb1" sha1="33ba1b904f3f9d8b58f0657fcab1f2f3e5ede675" />
+	</machine>
+	<machine name="herolanc">
+		<description>Heroes of the Lance (Euro)</description>
+		<year>1988</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="advanced dungeons &amp; dragons - heroes of the lance - a dragonlance action game (europe) (disk 1).ipf" size="518252" crc="39fcd937" sha1="4a51636512db9cf873d97a2e034984e77f4b9d41" />
+		<rom name="advanced dungeons &amp; dragons - heroes of the lance - a dragonlance action game (europe) (disk 2).ipf" size="518252" crc="a24dbf0d" sha1="5b8bf3fcc1ba64c81165074a9cf7004fa541604f" />
+		<rom name="advanced dungeons &amp; dragons - heroes of the lance - a dragonlance action game (europe) (disk 3).ipf" size="518252" crc="97a5a85f" sha1="b612c27696a21175937d87492080fe58b988da4b" />
+	</machine>
+	<machine name="highwaye">
+		<description>Highway Encounter (unreleased)</description>
+		<year>1990</year>
+		<publisher>Vortex Software</publisher>
+		<rom name="highway.st" size="737280" crc="3a83b6b2" sha1="d6db24f519690e2481926fc5fb89b1e6b7b24601" />
+	</machine>
+	<machine name="hillstrt">
+		<description>Hill Street Blues (Euro, v1.11 19910326, Budget)</description>
+		<year>1991</year>
+		<publisher>Buzz</publisher>
+		<rom name="hill street blues (europe) (en,fr,de,es,it) (v1.11 26.3.1991) (budget - buzz).ipf" size="517627" crc="bae8eb8f" sha1="aab8e7f8ebf1b47e3c28ac5286b6df5b1f7f4fa4" />
+	</machine>
+	<machine name="hostages">
+		<description>Hostages (Euro)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="hostages (europe) (disk 1).ipf" size="518243" crc="c791c3d5" sha1="a0bff29b3b111ff031a2183cec4b8c6f809fe212" />
+		<rom name="hostages (europe) (disk 2).ipf" size="518243" crc="63d40194" sha1="1478edcb715b00f8253975fad0220d89974e8877" />
+	</machine>
+	<machine name="hotshot">
+		<description>Hotshot (Euro)</description>
+		<year>1988</year>
+		<publisher>Addictive</publisher>
+		<rom name="hotshot (europe).ipf" size="467822" crc="8f1e98bb" sha1="eaebfe4f66473025e0ca1637547fcf0a5747d61f" />
+	</machine>
+	<machine name="houndshd">
+		<description>The Hound of Shadow (Euro)</description>
+		<year>1989</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="hound of shadow, the (europe) (disk a - character generation disk).ipf" size="518252" crc="96a61552" sha1="cf5530f7464a0faa5bf0a4b502046c23af408d1a" />
+		<rom name="hound of shadow, the (europe) (disk b - scenario disk).ipf" size="468252" crc="2a4a4ab7" sha1="c828759288af87ce20b9ea45df1333d7608b9948" />
+		<rom name="hound of shadow, the (europe) (disk c - data disk).ipf" size="518252" crc="a076b61f" sha1="706cbb0b3598b9c0bf7ccc4e456253ef5efbfd41" />
+	</machine>
+	<machine name="huntrklr">
+		<description>Hunter Killer (Euro, v1.01, Budget)</description>
+		<year>1990</year>
+		<publisher>16 Blitz</publisher>
+		<rom name="hunter killer (europe) (v1.01) (budget - 16 blitz).ipf" size="918252" crc="ab7def25" sha1="309a2c3233cd3a3e2c277a9d673e4d20e2c23d17" />
+	</machine>
+	<machine name="hyperbwl">
+		<description>Hyperbowl (Euro)</description>
+		<year>1987</year>
+		<publisher>Virgin Mastertronic</publisher>
+		<rom name="hyperbowl (europe).ipf" size="517627" crc="374a9589" sha1="7ff1ea21cf1953079abaac21eecb3eea51efe5c0" />
+	</machine>
+	<machine name="iball">
+		<description>I, Ball (Euro)</description>
+		<year>1987</year>
+		<publisher>British Telecom</publisher>
+		<rom name="i, ball (europe).ipf" size="518254" crc="0a1fc72f" sha1="9ab201a633323ca5ee79905ddd6db577db85b496" />
+	</machine>
+	<machine name="icepalac">
+		<description>Beyond the Ice Palace (Euro)</description>
+		<year>1988</year>
+		<publisher>Elite</publisher>
+		<rom name="beyond the ice palace (europe).ipf" size="518254" crc="d6f3964f" sha1="efb6688ecd655c0070ad5a869aba6aa1bad0e336" />
+	</machine>
+	<machine name="immortal">
+		<description>The Immortal (Euro)</description>
+		<year>1990</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="the immortal (europe) (boot disk).ipf" size="918252" crc="d30a006a" sha1="6e6aabf329a8f653c266881055fb3f662880b925" />
+		<rom name="the immortal (europe) (play disk).ipf" size="918252" crc="ef08f2b4" sha1="79270ec026ad3f139d0469d9a7410f623f6536ee" />
+	</machine>
+	<machine name="indy">
+		<description>Indiana Jones and the Temple of Doom (USA)</description>
+		<year>1989</year>
+		<publisher>Mindscape</publisher>
+		<rom name="indiana jones and the temple of doom (usa).ipf" size="518615" crc="f1ef6832" sha1="9a55a3f7a87d6a9aa947787a9bac75a8e93447e2" />
+	</machine>
+	<machine name="ininjarb">
+		<description>International Ninja Rabbits (Euro)</description>
+		<year>1991</year>
+		<publisher>Micro-Value</publisher>
+		<rom name="international ninja rabbits (europe).ipf" size="517195" crc="ea4f6222" sha1="bb83f01888f7b3aaca2d970f5ed8ce7c2d61875d" />
+	</machine>
+	<machine name="intphase">
+		<description>Interphase (Euro)</description>
+		<year>1989</year>
+		<publisher>Image Works</publisher>
+		<rom name="interphase (europe).ipf" size="520242" crc="dfff1304" sha1="a90a650723abfbfdeed13aac22101fa2f6a56915" />
+	</machine>
+	<machine name="inttruck">
+		<description>International Truck Racing (Euro)</description>
+		<year>1992</year>
+		<publisher>Zeppelin Games</publisher>
+		<rom name="international truck racing (europe).ipf" size="1018252" crc="fc377e1e" sha1="7207409265332dbdb31805878cfe46c90e13e968" />
+	</machine>
+	<machine name="italy90">
+		<description>Italy 1990 (Euro, The Lineker Collection)</description>
+		<year>1990</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="italy 1990 (europe) (compilation - the lineker collection).ipf" size="1011377" crc="61f64a85" sha1="b38bb59164358eb8364e8a28d4d8229d7c32725e" />
+	</machine>
+	<machine name="ivanhoe">
+		<description>Ivanhoe (Euro)</description>
+		<year>1990</year>
+		<publisher>Ocean</publisher>
+		<rom name="ivanhoe (europe) (disk 1).ipf" size="1022242" crc="85395e61" sha1="3bc3fcf447e8fd5a0afab1bed18c6696322c7a94" />
+		<rom name="ivanhoe (europe) (disk 2).ipf" size="520242" crc="0f24f086" sha1="e5e17d124f76d2741e35c11fff299c6233253b06" />
+	</machine>
+	<machine name="jedi">
+		<description>Return of the Jedi (Euro, The Star Wars Trilogy)</description>
+		<year>1989</year>
+		<publisher>Domark</publisher>
+		<rom name="star wars - return of the jedi (europe) (compilation - the star wars trilogy).ipf" size="518252" crc="e3ca5fa2" sha1="b9afbddd1300154fa65f0b7dedfc0df7c8d8e024" />
+	</machine>
+	<machine name="jeweldrk">
+		<description>Jewels of Darkness (Euro)</description>
+		<year>1986</year>
+		<publisher>Rainbird</publisher>
+		<rom name="jewels of darkness (europe).ipf" size="467820" crc="7e9839db" sha1="3068cce142264a581cf040b5d878a3aa19d29f89" />
+	</machine>
+	<machine name="jpond">
+		<description>James Pond - Underwater Agent (Euro)</description>
+		<year>1990</year>
+		<publisher>Millennium</publisher>
+		<rom name="james pond - underwater agent (europe).ipf" size="1017627" crc="1dc744f0" sha1="b41fb5563f6f1d24f2a20ef07d29e405bc3a8860" />
+	</machine>
+	<machine name="kickoff2fw">
+		<description>Kick Off 2 - The Final Whistle (Euro, v2.1e)</description>
+		<year>1991</year>
+		<publisher>Anco</publisher>
+		<rom name="kick off 2 - the final whistle (europe) (v2.1e).ipf" size="1018722" crc="ef51c120" sha1="be2989b691e945569e41c409cfb148a4c8812ae1" />
+	</machine>
+	<machine name="kickoff2re">
+		<description>Kick Off 2 - Return to Europe (Euro, v2.1e)</description>
+		<year>1991</year>
+		<publisher>Anco</publisher>
+		<rom name="kick off 2 - return to europe (europe) (v2.1e).ipf" size="1018722" crc="b14d2140" sha1="64c21cb535770caaa86fdf3a57a4753a35e9833d" />
+	</machine>
+	<machine name="kickoff2wt">
+		<description>Kick Off 2 - Winning Tactics (Euro)</description>
+		<year>1991</year>
+		<publisher>Anco</publisher>
+		<rom name="kick off 2 - winning tactics (europe).ipf" size="1018722" crc="7330c891" sha1="da909c688c711bbb0e8f6f990b54a6fe752b9380" />
+	</machine>
+	<machine name="kickoff2">
+		<description>Kick Off 2 (Euro, v1.4e)</description>
+		<year>1990</year>
+		<publisher>Anco</publisher>
+		<rom name="kick off 2 (europe) (v1.4e).ipf" size="569370" crc="4cc10f6d" sha1="7182022240cd7a6b56f02fe37b8cdd26fa1836c6" />
+	</machine>
+	<machine name="kilcloud">
+		<description>The Killing Cloud (Euro)</description>
+		<year>1991</year>
+		<publisher>Image Works</publisher>
+		<rom name="killing cloud, the (europe) (en,fr,de) (disk a).ipf" size="918252" crc="a65d58dd" sha1="bc8f742c8643ba84000cfcdefe7b6303eb89ed69" />
+		<rom name="killing cloud, the (europe) (en,fr,de) (disk b).ipf" size="918252" crc="c0e702a8" sha1="50c4066626bc7a30e429675928a346c2045be62f" />
+	</machine>
+	<machine name="kingqst3">
+		<description>King's Quest III - To Heir is Human (Euro, v1.02 19861118)</description>
+		<year>1989</year>
+		<publisher>Sierra</publisher>
+		<rom name="king's quest iii - to heir is human (europe) (v1.02 11.18.86) (disk 1).ipf" size="462195" crc="a51082bc" sha1="319da503466dfdf178320e595d1efbd15027a7d3" />
+		<rom name="king's quest iii - to heir is human (europe) (v1.02 11.18.86) (disk 2).ipf" size="462195" crc="687fe7da" sha1="a22201508b8781c12f0b9d479247e12c6ecea57c" />
+		<rom name="king's quest iii - to heir is human (europe) (v1.02 11.18.86) (disk 3).ipf" size="462195" crc="c28052a6" sha1="8265e0353bfc57a468684dcff83ddbf6147fde99" />
+	</machine>
+	<machine name="klax">
+		<description>Klax (Euro)</description>
+		<year>1990</year>
+		<publisher>Domark</publisher>
+		<rom name="klax (europe).ipf" size="1022242" crc="fd4fb012" sha1="021aa27199cc30f7737b02fc471fbf14bf1a3541" />
+	</machine>
+	<machine name="lasersqd">
+		<description>Laser Squad (Euro)</description>
+		<year>1989</year>
+		<publisher>Blade</publisher>
+		<rom name="laser squad (europe).ipf" size="517627" crc="7f458cd8" sha1="3c1feff969345c21bda71681d64263f4af82bdea" />
+	</machine>
+	<machine name="lastnin3">
+		<description>Last Ninja 3 (Euro, Budget)</description>
+		<year>1991</year>
+		<publisher>KIXX</publisher>
+		<rom name="last ninja 3 (europe) (budget - kixx) (disk 1).ipf" size="1025660" crc="65a6e699" sha1="45323a4e1cf55a2b7e8ec9228cc2fb32992dca9e" />
+		<rom name="last ninja 3 (europe) (budget - kixx) (disk 2).ipf" size="1025660" crc="cfa3d6d2" sha1="7864b3bfd3c09865c7b7f7bfa83b4bd9990219d4" />
+	</machine>
+	<machine name="leadbg">
+		<description>Leader Board Pro Golf Simulator (Euro)</description>
+		<year>1986</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="leader board (europe).ipf" size="468252" crc="e30dcfb2" sha1="9485340898b0196e4bf77f78ce425c577817e2be" />
+	</machine>
+	<machine name="leadbgt1">
+		<description>Leader Board Pro Golf Simulator - Tournament Disk #1 (Euro, Leader Board Birdie)</description>
+		<year>1986</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="leader board tournament (europe) (compilation - leader board birdie) (disk 2).ipf" size="468252" crc="0caa8be5" sha1="99d6bc3b456a4e1f7488f31a98286ab96e4f674d" />
+	</machine>
+	<machine name="leviathan">
+		<description>Leviathan (Euro)</description>
+		<year>1987</year>
+		<publisher>English Software</publisher>
+		<rom name="leviathan.mfm" size="3133311" crc="8ba6fcfb" sha1="340b866b34bdb99a96d4fe3784d32672c65d1165" />
+	</machine>
+	<machine name="lightcor">
+		<description>The Light Corridor (Euro)</description>
+		<year>1990</year>
+		<publisher>Infogrames</publisher>
+		<rom name="light corridor, the (europe).ipf" size="471664" crc="f4c91add" sha1="785cf66c33f5fa0202954d24b95d604a12b821a1" />
+	</machine>
+	<machine name="locomotn">
+		<description>Locomotion (Euro)</description>
+		<year>1991</year>
+		<publisher>Byte Back</publisher>
+		<rom name="locomotion (europe) (byte back).ipf" size="518252" crc="e85b531e" sha1="19be92dc4c84293d88ced646a6b4befeb1e7045f" />
+	</machine>
+	<machine name="logical">
+		<description>Logical (Euro)</description>
+		<year>1991</year>
+		<publisher>Rainbow Arts</publisher>
+		<rom name="logical (europe).ipf" size="518252" crc="ef80321e" sha1="66776e6f33fc7cceffee706fe4fccfce60fb47c0" />
+	</machine>
+	<machine name="lslarry">
+		<description>Leisure Suit Larry in The Land of the Lounge Lizards (Euro, v1.04 19870618)</description>
+		<year>1987</year>
+		<publisher>Sierra</publisher>
+		<rom name="leisure suit larry in - the land of the lounge lizards (europe) (v1.04 6.18.87) (disk 1).ipf" size="462195" crc="ba699e27" sha1="feeb4dbb6da4ddb39d8949f0d413b58a02bc1510" />
+		<rom name="leisure suit larry in - the land of the lounge lizards (europe) (v1.04 6.18.87) (disk 2).ipf" size="467820" crc="788f6758" sha1="cf108c4fb0d32f1a31518fd12078d126f6d17a3c" />
+	</machine>
+	<machine name="luretemp">
+		<description>Lure of the Temptress (Fra, 19920617)</description>
+		<year>1992</year>
+		<publisher>Virgin</publisher>
+		<rom name="lure of the temptress (france) (17.6.1992) (boot disk).ipf" size="917820" crc="4ff7c491" sha1="f78d53fba9e93c5344b455c2384496cc16b74e96" />
+		<rom name="lure of the temptress (france) (17.6.1992) (disk a).ipf" size="917820" crc="4803ebf7" sha1="fd11e96297fa2112f387ba829f73b49ac7f8da68" />
+		<rom name="lure of the temptress (france) (17.6.1992) (disk b).ipf" size="917820" crc="ab3a5029" sha1="d6f37329d148d27ee74c64d4e39bc98f2af591ca" />
+		<rom name="lure of the temptress (france) (17.6.1992) (disk c).ipf" size="917820" crc="0dde23f5" sha1="006cb14b59fde4a35180fade8c7ff6e4efc9cfc8" />
+	</machine>
+	<machine name="lurkinh">
+		<description>The Lurking Horror (Euro, r203)</description>
+		<year>1987</year>
+		<publisher>Infocom</publisher>
+		<rom name="lurking horror, the (europe) (r203).ipf" size="468252" crc="810fd34b" sha1="5b64bb062db9bc31feefb2770e283d59e7b4e7ef" />
+	</machine>
+	<machine name="lxcess">
+		<description>Lethal Xcess (Euro)</description>
+		<year>1991</year>
+		<publisher>Eclipse</publisher>
+		<rom name="lethal xcess - wings of death ii (europe) (amiga + st) (disk a).ipf" size="1004597" crc="33cc029d" sha1="54a268710716f3510918cd8767d9d248798c4ed0" />
+		<rom name="lethal xcess - wings of death ii (europe) (amiga + st) (disk b).ipf" size="1008380" crc="7c53b994" sha1="8b8cefdb0dbd7e4a515c95235526ed909fe499c7" />
+	</machine>
+	<machine name="mach3">
+		<description>Mach 3 (Euro)</description>
+		<year>1987</year>
+		<publisher>Loriciel</publisher>
+		<rom name="mach 3 (europe) (disk a).ipf" size="468252" crc="6f7f65b1" sha1="eb6abe32b462c7dda970137333b82f4c1578aed4" />
+		<rom name="mach 3 (europe) (disk b).ipf" size="471664" crc="f00af809" sha1="2f6857a65826b9f35f1ea715fa5dd96a77699020" />
+	</machine>
+	<machine name="mafdet">
+		<description>Mafdet and the Book of the Dead (Euro)</description>
+		<year>1988</year>
+		<publisher>Software Horizons</publisher>
+		<rom name="mafdet and the book of the dead (europe).ipf" size="518252" crc="2760d237" sha1="ddf1280e0c97dc698e19dfb67ffa823edd4018c2" />
+	</machine>
+	<machine name="manhdeal">
+		<description>Manhattan Dealers (Euro)</description>
+		<year>1988</year>
+		<publisher>Silmarils</publisher>
+		<rom name="manhattan dealers (europe) (disk a).ipf" size="518255" crc="960ccce2" sha1="4a77c5532fe8f7f23554eb68842caf3dbbd44145" />
+		<rom name="manhattan dealers (europe) (disk b).ipf" size="518252" crc="3c4cfaee" sha1="d31ffbb1d18228561a1db2a54e7e12c919e13deb" />
+	</machine>
+	<machine name="mansell">
+		<description>Nigel Mansell's World Championship (Euro)</description>
+		<year>1992</year>
+		<publisher>Gremlin</publisher>
+		<rom name="nigel mansell's world championship (europe).ipf" size="918252" crc="0321e01f" sha1="2d76db1251811591b489ae892173eb28828ff28e" />
+	</machine>
+	<machine name="manutd">
+		<description>Manchester United - The Official Computer Game (Euro)</description>
+		<year>1990</year>
+		<publisher>Krisalis</publisher>
+		<rom name="manchester united - the official computer game (europe) (en,fr,de,es,it,sv) (disk 1).ipf" size="1017627" crc="dbcf1ad6" sha1="8272efb5036e0e7f6f0c8d6f9742512e2607e633" />
+		<rom name="manchester united - the official computer game (europe) (en,fr,de,es,it,sv) (disk 2).ipf" size="518252" crc="7af2b6f1" sha1="c0020a1a77382cc9d35a4145e654bb30e1fe9587" />
+	</machine>
+	<machine name="matrixmr">
+		<description>Matrix Marauders (Euro)</description>
+		<year>1990</year>
+		<publisher>Psyclapse</publisher>
+		<rom name="matrix marauders (europe).ipf" size="522604" crc="b1034c7d" sha1="361299b42c1414b0643f328284314b2be38523de" />
+	</machine>
+	<machine name="mean18">
+		<description>Mean 18 + Famous Courses Disk Volume I &amp; Volume II (Euro, Accolade All Time Favourites)</description>
+		<year>1986</year>
+		<publisher>Accolade</publisher>
+		<rom name="mean 18 (europe) (compilation - accolade all time favourites) (famous courses disk - volume i).ipf" size="468252" crc="509f1ea3" sha1="5b5346fa658d909cad7a377c5846e000eba271e6" />
+		<rom name="mean 18 (europe) (compilation - accolade all time favourites) (famous courses disk - volume ii).ipf" size="468252" crc="515e3b9f" sha1="4aae2d4d2c1073da8ffa9f47ef6ee9507f4f0a6b" />
+		<rom name="mean 18 (europe) (compilation - accolade all time favourites) (program disk).ipf" size="469240" crc="33565a50" sha1="a365d46f75c032e13128b726155e2a7e8fd3453f" />
+	</machine>
+	<machine name="megatwin">
+		<description>Mega Twins (Euro)</description>
+		<year>1991</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="mega twins (europe) (disk 1).ipf" size="1010945" crc="761faeed" sha1="2c8140aceec92a3b70cb7eb2aa377421be67f687" />
+		<rom name="mega twins (europe) (disk 2).ipf" size="1017820" crc="bd95d263" sha1="21aca72ac1317ab7348f9274a6f800f5db0fdf0f" />
+	</machine>
+	<machine name="mercenry">
+		<description>Mercenary - Escape from Targ &amp; The Second City (Euro, Premier Collection II)</description>
+		<year>1988</year>
+		<publisher>Novagen</publisher>
+		<rom name="mercenary - escape from targ &amp; the second city (europe) (compilation - premier collection ii).ipf" size="468252" crc="7a448e10" sha1="4538fb322a8faf2a7a95c7dae5da565083a8a8e8" />
+	</machine>
+	<machine name="metrox">
+		<description>Metro-Cross (Euro)</description>
+		<year>1987</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="metro-cross (europe).ipf" size="527932" crc="cd252332" sha1="7a296cb6301a0e087da4c1ee8b01e3976606dac9" />
+	</machine>
+	<machine name="midwintr">
+		<description>Midwinter (Euro)</description>
+		<year>1992</year>
+		<publisher>Kixx XL</publisher>
+		<rom name="midwinter.mfm" size="2150273" crc="8486d6b0" sha1="c6500e99a3b2af9dae1cc7681ffc0c1c7f3b8061" />
+	</machine>
+	<machine name="mindwhel">
+		<description>Mindwheel (Euro)</description>
+		<year>1985</year>
+		<publisher>Brøderbund</publisher>
+		<rom name="mindwheel (europe).ipf" size="468252" crc="7c99fce7" sha1="6e5f7a529b67839061d4ed3399cb9d66f6a234cf" />
+	</machine>
+	<machine name="missgeno">
+		<description>Mission Genocide (Euro)</description>
+		<year>1987</year>
+		<publisher>Firebird</publisher>
+		<rom name="mission genocide (europe).ipf" size="517822" crc="060d37dc" sha1="e105683beeaa7bbdd06520fcb3923b11def5a4dd" />
+	</machine>
+	<machine name="missing">
+		<description>Missing: One Droid (Euro)</description>
+		<year>1986</year>
+		<publisher>Bug-Byte</publisher>
+		<rom name="missing - one droid (europe).ipf" size="243252" crc="a4cf2e54" sha1="be458a296eb4d3474172fcd008f44af3e7807e3e" />
+	</machine>
+	<machine name="monstbus">
+		<description>Monster Business (Euro)</description>
+		<year>1991</year>
+		<publisher>Eclipse</publisher>
+		<rom name="monster business (europe) (amiga + st).ipf" size="1009109" crc="be6095a0" sha1="c6d0706c363f3fd7f5e40864b49568ac9e157c8b" />
+	</machine>
+	<machine name="mortviel">
+		<description>Le Manoir de Mortevielle (Fra)</description>
+		<year>1988</year>
+		<publisher>Lankhor</publisher>
+		<rom name="manoir de mortevielle, le (france) (disk 1).ipf" size="467820" crc="6cc703af" sha1="e9dab1580f71b9916f027f125910d6120fa4342e" />
+		<rom name="manoir de mortevielle, le (france) (disk 2).ipf" size="471232" crc="559d3c83" sha1="fa26914c2588b9da0d3daac34e1aa25247ee973c" />
+	</machine>
+	<machine name="nevermnd">
+		<description>Never Mind (Euro)</description>
+		<year>1989</year>
+		<publisher>Psyclapse</publisher>
+		<rom name="never mind (europe) (disk 1).ipf" size="517627" crc="177eeb16" sha1="00ff4d36ef12eff72dea285e58eea3cd4a4e72fa" />
+		<rom name="never mind (europe) (disk 2).ipf" size="517627" crc="5808b98a" sha1="6e1b5bdcbdea244a46e4dc58a3b6b3672ba6083c" />
+	</machine>
+	<machine name="nightwlk">
+		<description>Night Walk (Euro)</description>
+		<year>1988</year>
+		<publisher>Alternative Software</publisher>
+		<rom name="night walk (europe).ipf" size="517627" crc="bfe03968" sha1="d3563e282cede1c604208a88f0521aff5f878ea4" />
+	</machine>
+	<machine name="ninjarab">
+		<description>Ninja Rabbits (Euro)</description>
+		<year>1991</year>
+		<publisher>MicroValue</publisher>
+		<rom name="ninja rabbits (europe) (disk 1).ipf" size="517627" crc="a48eebb2" sha1="872e9b3f9a064d016ad89c4469e8129ac08b4e53" />
+		<rom name="ninja rabbits (europe) (disk 2).ipf" size="517627" crc="677fd5ad" sha1="70e1aa09918a8bcd050c164b542561439e8f67ed" />
+	</machine>
+	<machine name="nitrobc">
+		<description>Nitro Boost Challenge (Euro)</description>
+		<year>1989</year>
+		<publisher>Codemasters</publisher>
+		<rom name="nitro boost challenge (europe).ipf" size="517627" crc="017b04b1" sha1="3452f036b3bdb4d1933717ddde10f7bda072ed03" />
+	</machine>
+	<machine name="noexcuse">
+		<description>No Excuses (Euro)</description>
+		<year>1988</year>
+		<publisher>Arcana</publisher>
+		<rom name="no excuses (europe) (en,fr,de,it).ipf" size="468252" crc="40cf641e" sha1="b37dedecfc4840a65c7c7969d6b3102db5dbdd67" />
+	</machine>
+	<machine name="northns">
+		<description>North and South (Euro)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="north and south (europe) (en,fr,de,es,it).ipf" size="916039" crc="de3bab95" sha1="979e8375cda1a2bab00902ae7e3055c137248533" />
+	</machine>
+	<machine name="nshift">
+		<description>Night Shift (Euro)</description>
+		<year>1990</year>
+		<publisher>Lucasfilm</publisher>
+		<rom name="night shift (europe) (disk 1).ipf" size="918252" crc="66a14e52" sha1="555f97987efeea59b2a82696e19a480aeb94f515" />
+		<rom name="night shift (europe) (disk 2).ipf" size="918252" crc="52770c02" sha1="7a9525672540556234de031772265e7262b3b66e" />
+	</machine>
+	<machine name="obliter">
+		<description>Obliterator (Euro)</description>
+		<year>1988</year>
+		<publisher>Psygnosis</publisher>
+		<rom name="obliterator (europe) (disk a).ipf" size="446377" crc="e75b59c8" sha1="ecd181d33e38d98dd8bd014376b5cb900e79680a" />
+		<rom name="obliterator (europe) (disk b).ipf" size="333252" crc="269eb800" sha1="777184fb895e43a783852e5e68e7f0fa9dd9e8a3" />
+	</machine>
+	<machine name="oharrier">
+		<description>Operation Harrier (Euro)</description>
+		<year>1990</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="operation harrier (europe).ipf" size="1018252" crc="0984b4b8" sha1="42726a1a7dad4ca28c84e95f7eac93e8361729ca" />
+	</machine>
+	<machine name="orbit2k">
+		<description>Orbit 2000 (Euro)</description>
+		<year>1991</year>
+		<publisher>Byte Back</publisher>
+		<rom name="orbit 2000 (europe).ipf" size="518252" crc="74879679" sha1="8192052f7e8ac1e152cfa0c696866b730e715f62" />
+	</machine>
+	<machine name="orgames">
+		<description>Oriental Games (Euro)</description>
+		<year>1990</year>
+		<publisher>MicroStyle</publisher>
+		<rom name="oriental games (europe) (boot disk a).ipf" size="1018252" crc="db75a97b" sha1="5a2dcb6500af55dea5e5e2ff1ca7e51eba56fcf4" />
+		<rom name="oriental games (europe) (games disk b).ipf" size="518252" crc="955df886" sha1="2754df54bb9acbc1fe5b980d00ebb6e37eb55b9a" />
+	</machine>
+	<machine name="ostealth">
+		<description>Operation Stealth (Fra)</description>
+		<year>1990</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="operation stealth (france) (disk 1).ipf" size="917820" crc="131371cd" sha1="b9707c93b593daff3977a51d9f447ad533c6eee5" />
+		<rom name="operation stealth (france) (disk 2).ipf" size="917820" crc="b6cbd908" sha1="44b2d40c3bfb66ec9adf80be8063a2e9a4d07544" />
+		<rom name="operation stealth (france) (disk 3).ipf" size="917820" crc="43c10368" sha1="ae82ee854995113d5d4c8b1714f3dfa73ed33a2a" />
+	</machine>
+	<machine name="othunder">
+		<description>Operation Thunderbolt (Euro)</description>
+		<year>1989</year>
+		<publisher>Ocean</publisher>
+		<rom name="operation thunderbolt (europe) (disk 1).ipf" size="1022242" crc="1b45de73" sha1="decf64e666bdd69c673360147d72502e3090e3ed" />
+		<rom name="operation thunderbolt (europe) (disk 2).ipf" size="1022242" crc="e5477eef" sha1="a0dadde3474494dd3e0036a3d83380df87141620" />
+		<rom name="operation thunderbolt (europe) (disk 3).ipf" size="1022242" crc="f5bd3c85" sha1="f629ababb85e0cd8ffe7cbff93a932c545cfaebf" />
+	</machine>
+	<machine name="outcast">
+		<description>Outcast (Euro)</description>
+		<year>1987</year>
+		<publisher>Mastertronic</publisher>
+		<rom name="outcast (europe).ipf" size="468252" crc="52444471" sha1="6e6abbcd1dfffd3c39167b8662ab3fbb8feb3c54" />
+	</machine>
+	<machine name="overland">
+		<description>Overlander (Euro)</description>
+		<year>1988</year>
+		<publisher>Elite</publisher>
+		<rom name="overlander (europe).ipf" size="468254" crc="f4548c59" sha1="6edbc8b1bd89c8cf60e836cbd690a47966f5cf80" />
+	</machine>
+	<machine name="overlanda">
+		<description>Overlander (Euro, Finale)</description>
+		<year>1988</year>
+		<publisher>Elite</publisher>
+		<rom name="overlander (europe) (compilation - finale).ipf" size="520242" crc="66c2e498" sha1="ba0a6f3f48002c254b20e74b38efcffd4353bdce" />
+	</machine>
+	<machine name="pacmania">
+		<description>Pac-Mania (Euro)</description>
+		<year>1989</year>
+		<publisher>Grandslam</publisher>
+		<rom name="pac-mania (europe).ipf" size="518252" crc="eaa700c3" sha1="5e60bc1be307627bc1db8e944d92db184094136c" />
+	</machine>
+	<machine name="pandora">
+		<description>Pandora (Euro)</description>
+		<year>1988</year>
+		<publisher>Firebird</publisher>
+		<rom name="pandora (europe).ipf" size="518254" crc="c13b362f" sha1="a425e0c33500ae04352c35f7f9e9af01601b1722" />
+	</machine>
+	<machine name="paperboy">
+		<description>Paperboy (Euro, Finale)</description>
+		<year>1989</year>
+		<publisher>Elite</publisher>
+		<rom name="paperboy (europe) (compilation - finale).ipf" size="520242" crc="1f431b44" sha1="c7623602de34ae813958b8b5c840fc8a15bc9488" />
+	</machine>
+	<machine name="passwnd2">
+		<description>Passengers on the Wind 2 (Euro)</description>
+		<year>1988</year>
+		<publisher>Infogrames</publisher>
+		<rom name="passengers on the wind 2 (europe).ipf" size="468258" crc="bec7e827" sha1="0f234ef8f8400f89807e852a8116bd10bfbcd8e3" />
+	</machine>
+	<machine name="pawn">
+		<description>The Pawn (Euro, v2.1)</description>
+		<year>1986</year>
+		<publisher>Rainbird</publisher>
+		<rom name="pawn, the (europe) (v2.1).ipf" size="472560" crc="5a863ad1" sha1="9da4b05d4825fdfa6118fae68ccff9f1c881a279" />
+	</machine>
+	<machine name="pharaoh3">
+		<description>Pharaoh III (Euro)</description>
+		<year>1989</year>
+		<publisher>Digita International</publisher>
+		<rom name="pharaoh iii (europe).ipf" size="518252" crc="40279d1a" sha1="c0dd0bfd288bbd484aa5043ee8e1c4df682b0f18" />
+	</machine>
+	<machine name="piction">
+		<description>Pictionary - The Game of Quick Draw (Euro)</description>
+		<year>1989</year>
+		<publisher>Domark</publisher>
+		<rom name="pictionary - the game of quick draw (europe).ipf" size="468252" crc="7f06eab5" sha1="f62a9390308a001a07fcdaafbb41f470ca235420" />
+	</machine>
+	<machine name="pirabarb">
+		<description>Pirates of the Barbary Coast (Euro)</description>
+		<year>1987</year>
+		<publisher>Cascade Games</publisher>
+		<rom name="pirates of the barbary coast (europe).ipf" size="468252" crc="0dc48ed2" sha1="731c51bd3d0500a9ae4e91d94c3107ba3154fab1" />
+	</machine>
+	<machine name="pmanger">
+		<description>Player Manager (Euro, Football Crazy Challenge)</description>
+		<year>1990</year>
+		<publisher>Anco</publisher>
+		<rom name="player manager (europe) (compilation - football crazy challenge).ipf" size="519442" crc="938060a7" sha1="3bef25fdbea9f68a049e5b0586a139ce43a5adf5" />
+	</machine>
+	<machine name="populopl">
+		<description>Populous - The Promised Lands (Euro)</description>
+		<year>1989</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="populous - the promised lands (europe) (addon) (amiga + st).ipf" size="1037012" crc="de09f0a3" sha1="21301177eb04122183aa716c081e8a4fda35cff8" />
+	</machine>
+	<machine name="pquest">
+		<description>Police Quest - In Pursuit of the Death Angel (Euro, v2.0G 19870312)</description>
+		<year>1987</year>
+		<publisher>Sierra</publisher>
+		<rom name="police quest - in pursuit of the death angel (europe) (v2.0g 12.3.87) (disk 1).ipf" size="468252" crc="86a631be" sha1="769d3b223b2dcfba8a753f34e0588d1d7ed573fc" />
+		<rom name="police quest - in pursuit of the death angel (europe) (v2.0g 12.3.87) (disk 2).ipf" size="468252" crc="f16d4a27" sha1="5df35f53937ed2c0837f0376bb92c157e1ca9345" />
+		<rom name="police quest - in pursuit of the death angel (europe) (v2.0g 12.3.87) (disk 3).ipf" size="468252" crc="ffddfa40" sha1="c9759deff7b74807b21b8585e65cd94fab768bd9" />
+	</machine>
+	<machine name="presidnt">
+		<description>The President is Missing (Euro)</description>
+		<year>1988</year>
+		<publisher>MicroProse</publisher>
+		<rom name="president is missing, the (europe).ipf" size="518252" crc="82fe6664" sha1="fb8ac7c4c96860c2e8f43d978d559377e9cce304" />
+	</machine>
+	<machine name="prince">
+		<description>Prince (Euro)</description>
+		<year>1989</year>
+		<publisher>ARC</publisher>
+		<rom name="prince (europe).ipf" size="1022242" crc="cd245f0f" sha1="7718e05befff092806c53de4003e0785d0025822" />
+	</machine>
+	<machine name="prison">
+		<description>Prison (Euro)</description>
+		<year>1989</year>
+		<publisher>Krisalis</publisher>
+		<rom name="prison (europe) (en,fr,de,it) (disk 1).ipf" size="517627" crc="00025bcc" sha1="f1420804cdb7119330c24d1c747df08ea8978073" />
+		<rom name="prison (europe) (en,fr,de,it) (disk 2).ipf" size="518252" crc="402e8c1e" sha1="3ae6968596250b2645d93593e1013b1db93fab97" />
+	</machine>
+	<machine name="puzznic">
+		<description>Puzznic (Euro)</description>
+		<year>1990</year>
+		<publisher>Ocean</publisher>
+		<rom name="puzznic (europe).ipf" size="1022242" crc="bf30e373" sha1="f0d0ea8620bc19e988af26c99fda87cae0372535" />
+	</machine>
+	<machine name="quink">
+		<description>Quink (USA)</description>
+		<year>1984</year>
+		<publisher>Mindscape</publisher>
+		<rom name="quink (usa).ipf" size="469240" crc="ba6001ee" sha1="60f50797be41e19229254c6c7b8960e9e73cb233" />
+	</machine>
+	<machine name="raffles">
+		<description>Raffles (Euro)</description>
+		<year>1989</year>
+		<publisher>The Edge</publisher>
+		<rom name="raffles (europe).ipf" size="918252" crc="ae0dc018" sha1="4a1bd0fd4f61e6f549cb560e46b4ae3bc7da2749" />
+	</machine>
+	<machine name="rallyx">
+		<description>Rally Cross (Euro)</description>
+		<year>1989</year>
+		<publisher>Anco</publisher>
+		<rom name="rally cross challenge (europe).ipf" size="520242" crc="8aba62dc" sha1="1229664b54b4182754d9159f277b2ec4a5eef7d5" />
+	</machine>
+	<machine name="redheat">
+		<description>Red Heat (Euro)</description>
+		<year>1989</year>
+		<publisher>Ocean</publisher>
+		<rom name="red heat (europe) (disk 1).ipf" size="517627" crc="f4003f59" sha1="9be95d4c98b5020c1a9864d04f0c4a8ede7ddaf7" />
+		<rom name="red heat (europe) (disk 2).ipf" size="517627" crc="612d962a" sha1="3f2250d72f1196b05a33ff2eb08fc6ef5b6384c8" />
+	</machine>
+	<machine name="redstorm">
+		<description>Red Storm Rising (Euro, v743.01)</description>
+		<year>1990</year>
+		<publisher>MicroProse</publisher>
+		<rom name="red storm rising (europe) (v743.01) (disk a).ipf" size="518616" crc="66ac3e11" sha1="e2bc52fcca5101c65af4ad60ef41e337ea833f0f" />
+		<rom name="red storm rising (europe) (v743.01) (disk b).ipf" size="518252" crc="09ca6acd" sha1="7293b8e99b849b2b834fb8fd1487dacbb45a3a6b" />
+	</machine>
+	<machine name="resol101">
+		<description>Resolution 101 (Euro)</description>
+		<year>1990</year>
+		<publisher>Millennium</publisher>
+		<rom name="resolution 101 (europe).ipf" size="519810" crc="c2035bd0" sha1="640729e6be35556973174ea0cc774dd0af26eec4" />
+	</machine>
+	<machine name="revmutcm">
+		<description>Revenge of the Mutant Camels II (Euro)</description>
+		<year>1988</year>
+		<publisher>Mastertronic</publisher>
+		<rom name="revenge ii - revenge of the mutant camels ii (europe).ipf" size="517627" crc="7f0fe084" sha1="4bd9af5151f3e12503621e560f5e259e7e0107bd" />
+	</machine>
+	<machine name="rghostb">
+		<description>The Real Ghostbusters (Euro)</description>
+		<year>1988</year>
+		<publisher>Activision</publisher>
+		<rom name="real ghostbusters, the (europe).ipf" size="557852" crc="f2447ee4" sha1="8cada93ef9663e339d6a028cbd5fced1d0d45e08" />
+	</machine>
+	<machine name="roadwars">
+		<description>Road Wars (Euro)</description>
+		<year>1987</year>
+		<publisher>Melbourne House</publisher>
+		<rom name="roadwars (europe).ipf" size="517627" crc="48cf06af" sha1="f8fc1fa34fca68686dd279a7f2b39df6af68f67b" />
+	</machine>
+	<machine name="robocod">
+		<description>James Pond II - Codename RoboCod (Euro)</description>
+		<year>1991</year>
+		<publisher>Millennium</publisher>
+		<rom name="james pond ii - codename robocod (europe).ipf" size="1011377" crc="81a35719" sha1="9c07c5ac2b6136a4fcb257546795e5c81939a4b8" />
+	</machine>
+	<machine name="robocop">
+		<description>RoboCop (Euro)</description>
+		<year>1989</year>
+		<publisher>Ocean</publisher>
+		<rom name="robocop (europe) (disk 1).ipf" size="468252" crc="edf76c34" sha1="61a1b3c375f512f80160e0e9a84094106743a8b6" />
+		<rom name="robocop (europe) (disk 2).ipf" size="517627" crc="695db228" sha1="6fd5c7cb8678e61c236387a3ce5f27f1f234d892" />
+	</machine>
+	<machine name="rockstar">
+		<description>Rock Star Ate My Hamster (Euro)</description>
+		<year>1989</year>
+		<publisher>Codemasters</publisher>
+		<rom name="rock star ate my hamster (europe).ipf" size="520242" crc="1226738e" sha1="04213fe88c6255d5288aed6293ffb99ca845c575" />
+	</machine>
+	<machine name="rodymas3">
+		<description>Rody &amp; Mastico III (Fra)</description>
+		<year>1991</year>
+		<publisher>Lankhor</publisher>
+		<rom name="rody et mastico iii (france).ipf" size="520607" crc="846a8e73" sha1="e5440806ab3e9a54ae23dd261365cc1d61d73b60" />
+	</machine>
+	<machine name="rotor">
+		<description>Rotor (Euro)</description>
+		<year>1989</year>
+		<publisher>Arcana</publisher>
+		<rom name="rotor (europe).ipf" size="517627" crc="4cb9efae" sha1="fce7b61b9d3c3bd3ab4d94fe46c18657ab96bbea" />
+	</machine>
+	<machine name="sargon3">
+		<description>Sargon III (Euro)</description>
+		<year>1988</year>
+		<publisher>Logotron</publisher>
+		<rom name="sargon iii (europe).ipf" size="465752" crc="778ea9ab" sha1="52e1231b236d4c52f08abce13436b28217d4d20e" />
+	</machine>
+	<machine name="sascombs">
+		<description>SAS Combat Simulator (Euro)</description>
+		<year>1990</year>
+		<publisher>Codemasters</publisher>
+		<rom name="sas combat simulator (europe).ipf" size="520242" crc="00afc741" sha1="b40dfc1c65cfca8624f3331caa38c5542ca2b631" />
+	</machine>
+	<machine name="sf2">
+		<description>Street Fighter II: The World Warrior (Euro)</description>
+		<year>1992</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="Street Fighter 2 Disk 1.mfm" size="2131682" crc="2712b1aa" sha1="9fc407a84590f18d2c5225e3ad25cc9800281936" />
+		<rom name="Street Fighter 2 Disk 2.mfm" size="2141960" crc="9d569238" sha1="658ea036f65fa9ff0b9ec06cec40c3a36860de51" />
+		<rom name="Street Fighter 2 Disk 3.mfm" size="2139383" crc="526ec0bd" sha1="a13c85ec80e06b35055ca70b85f6c519e44e8fd4" />
+		<rom name="Street Fighter 2 Disk 4.mfm" size="2139380" crc="eda4a515" sha1="be40cb13b26bd22f3b10fc798fd1803ef675287d" />
+	</machine>
+	<machine name="shadgate">
+		<description>Shadowgate (Euro)</description>
+		<year>1987</year>
+		<publisher>Mindscape</publisher>
+		<rom name="shadowgate (europe) (disk 1).ipf" size="468337" crc="a6068cc8" sha1="023ca53a43b778c2c420074bf69ecceee2cd283d" />
+		<rom name="shadowgate (europe) (disk 2).ipf" size="468252" crc="3690e0d4" sha1="eeeaeb7fc2ac80bb69dd473d489bd6f339ff0be4" />
+	</machine>
+	<machine name="sharrie2">
+		<description>Space Harrier II (Euro)</description>
+		<year>1990</year>
+		<publisher>Grandslam</publisher>
+		<rom name="space harrier ii (europe) (disk 1).ipf" size="1018252" crc="c4ef520d" sha1="0b9fe3d8f172d78ca1f89aaca35857482aed66ab" />
+		<rom name="space harrier ii (europe) (disk 2).ipf" size="1018252" crc="f02028c8" sha1="18c4e91a2fb5e2a1b925701504b477e3b8689fdd" />
+	</machine>
+	<machine name="sharrier">
+		<description>Space Harrier (Euro)</description>
+		<year>1988</year>
+		<publisher>Elite</publisher>
+		<rom name="space harrier (europe) (disk 1).ipf" size="1018252" crc="3fc2438e" sha1="a0b5c506368d7b51c65dbb1393e392db42047ef7" />
+		<rom name="space harrier (europe) (disk 2).ipf" size="1018252" crc="63de23bb" sha1="ea88096bcd30c92af9d4b61fb64a8aa542ab7e3d" />
+	</machine>
+	<machine name="sharriera">
+		<description>Space Harrier (Euro, Finale)</description>
+		<year>1988</year>
+		<publisher>Elite</publisher>
+		<rom name="space harrier (europe) (compilation - finale).ipf" size="1018252" crc="7b3415e4" sha1="146d50a9635b45783373482a68c14ae7c769c528" />
+	</machine>
+	<machine name="sidewind">
+		<description>SideWinder (Euro)</description>
+		<year>1988</year>
+		<publisher>Mastertronic</publisher>
+		<rom name="sidewinder (europe) (disk a).ipf" size="517627" crc="9e9fd1a3" sha1="fb7490f603962a00d305dfd77bda2c895dffaf69" />
+		<rom name="sidewinder (europe) (disk b).ipf" size="517627" crc="16bbcc50" sha1="b4ceb752b6584dbb7e015654134fa66a0db1bdf6" />
+	</machine>
+	<machine name="silkworm">
+		<description>Silkworm (Euro)</description>
+		<year>1990</year>
+		<publisher>Virgin Mastertronic</publisher>
+		<rom name="silkworm (europe).ipf" size="517627" crc="bee632c4" sha1="b062f1d048855b8f259fcea2a7e87f0d2d84d46d" />
+	</machine>
+	<machine name="sinbad">
+		<description>Sinbad and the Throne of the Falcon (Euro)</description>
+		<year>1988</year>
+		<publisher>Mirror Image</publisher>
+		<rom name="sinbad and the throne of the falcon (europe) (reel 1).ipf" size="468254" crc="84e27ae5" sha1="9eecd49c9c362cdbabd5b345eb6e5bc43c975715" />
+		<rom name="sinbad and the throne of the falcon (europe) (reel 2).ipf" size="468252" crc="5e49f880" sha1="e26ccb4631ab481ac1728acbb66b8fba5073f1a9" />
+		<rom name="sinbad and the throne of the falcon (europe) (reel 3).ipf" size="468252" crc="579fcdce" sha1="8ff68a0fc2f53d00d6987873f223551c059bd936" />
+	</machine>
+	<machine name="sphericl">
+		<description>Spherical (Euro)</description>
+		<year>1989</year>
+		<publisher>Rainbow Arts</publisher>
+		<rom name="spherical (europe) (disk a).ipf" size="524502" crc="a7f705fc" sha1="ae674e73163c0f82ca9eb9e37b4ce892349e3775" />
+		<rom name="spherical (europe) (disk b).ipf" size="569457" crc="c0bbcdc0" sha1="749bf3489f92b932ebe6e22af6d3da58bb9fd818" />
+	</machine>
+	<machine name="spidertr1">
+		<description>Spidertronic (Euro, Smash 16)</description>
+		<year>1990</year>
+		<publisher>Smash 16</publisher>
+		<rom name="spidertronic.mfm" size="3133401" crc="57607130" sha1="4dc1ee4efacd52e5ba9a5c74c3b82618783b35aa" />
+	</machine>
+	<machine name="spidertr">
+		<description>Spidertronic (Euro)</description>
+		<year>1988</year>
+		<publisher>ERE</publisher>
+		<rom name="spidertronic (europe).ipf" size="471664" crc="f1e6df96" sha1="f52b44f4e27eb1cc76408cafb678812a5fc269df" />
+	</machine>
+	<machine name="spitfr40">
+		<description>Spitfire 40 (Euro)</description>
+		<year>1988</year>
+		<publisher>Mirrorsoft</publisher>
+		<rom name="spitfire 40 (europe).ipf" size="517627" crc="9fb5f1ba" sha1="b223275e72f0d54ee1fe7f8736fbd53fd9ace4e7" />
+	</machine>
+	<machine name="spitimag">
+		<description>Spitting Image (Euro)</description>
+		<year>1988</year>
+		<publisher>Domark</publisher>
+		<rom name="spitting image (europe).ipf" size="480127" crc="8bfe0283" sha1="6624dfdd592087ea837d62675307b9d9a46f7bba" />
+	</machine>
+	<machine name="starblaz">
+		<description>Starblaze (Euro)</description>
+		<year>1989</year>
+		<publisher>Logotron</publisher>
+		<rom name="starblaze (europe).ipf" size="517627" crc="feaa81e0" sha1="f3d054d299e41b8f751a0040f745675519e4873c" />
+	</machine>
+	<machine name="starfl">
+		<description>Starflight (Euro)</description>
+		<year>1989</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="starflight (europe) (disk a).ipf" size="468252" crc="503ae67c" sha1="076e971f9a23e31c04022b9e51c79cd641670c01" />
+		<rom name="starflight (europe) (disk b).ipf" size="468252" crc="9d44d8d5" sha1="98a8c13d21f5b6ee4c7a7c9bb613d0df90d43a28" />
+	</machine>
+	<machine name="stargld2">
+		<description>Starglider 2 (Euro)</description>
+		<year>1988</year>
+		<publisher>Rainbird</publisher>
+		<rom name="starglider 2 (europe) (en,fr,de) (amiga + st).ipf" size="1019021" crc="ed38c67f" sha1="c2cb4b2f517e2f20205577b8ba16331920660160" />
+	</machine>
+	<machine name="starglid">
+		<description>Starglider (Euro)</description>
+		<year>1987</year>
+		<publisher>Rainbird</publisher>
+		<rom name="starglider (europe).ipf" size="517820" crc="b0472c8c" sha1="aae5e32c2bbd5c31631d65da238d947d1a749c5c" />
+	</machine>
+	<machine name="starwrek">
+		<description>Star Wrek (Euro)</description>
+		<year>1989</year>
+		<publisher>Castlesoft</publisher>
+		<rom name="star wrek (europe).ipf" size="472812" crc="e1cc5280" sha1="0af3a592992cea6701b2e5a13e6958538b3c35f7" />
+	</machine>
+	<machine name="steel">
+		<description>Steel (Euro)</description>
+		<year>1989</year>
+		<publisher>Hewson</publisher>
+		<rom name="steel (europe).ipf" size="520242" crc="6ac8b3b0" sha1="3c562fba4b6654ad28835ebeebd7eecbb7e22af2" />
+	</machine>
+	<machine name="stelang">
+		<description>STE Language Disk (Swe, Rev. B)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="ca400607-012 rev. b.img" size="737280" crc="87f39639" sha1="16de1678dd4f0fe1295f51ff4307fc0c09290249" />
+	</machine>
+	<machine name="stormstr">
+		<description>Storm Master (Euro)</description>
+		<year>1992</year>
+		<publisher>Silmarils</publisher>
+		<rom name="storm master (europe).ipf" size="1014649" crc="1fc8c46c" sha1="f442bab4751112a0c60ebf3ec68d9d77cc65f796" />
+	</machine>
+	<machine name="strider">
+		<description>Strider (Euro, Les Chevaliers)</description>
+		<year>1989</year>
+		<publisher>U.S. Gold</publisher>
+		<rom name="strider (europe) (compilation - les chevaliers).ipf" size="1010945" crc="508fbd09" sha1="1042302ce7a68f39e8a862a66544a61d3c61977f" />
+	</machine>
+	<machine name="strike">
+		<description>Strike (Euro)</description>
+		<year>1987</year>
+		<publisher>Mastertronic</publisher>
+		<rom name="strike (europe).ipf" size="517627" crc="43013dcd" sha1="98836048190c82466f39dbad065d38b0682759ce" />
+	</machine>
+	<machine name="striker">
+		<description>Striker (Euro)</description>
+		<year>1993</year>
+		<publisher>Gremlin Graphics</publisher>
+		<rom name="striker.mfm" size="2150288" crc="f4145309" sha1="af26fd1b75bedd50f2a58fbb0eb4acf1f37f3d19" />
+	</machine>
+	<machine name="strquake">
+		<description>Starquake (Euro)</description>
+		<year>1988</year>
+		<publisher>Mandarin</publisher>
+		<rom name="starquake (europe).ipf" size="468252" crc="cd1aee1b" sha1="ddff723f14c56a2591ca5fa74670ceff2499d4c7" />
+	</machine>
+	<machine name="stryx">
+		<description>Stryx (Euro)</description>
+		<year>1989</year>
+		<publisher>Psyclapse</publisher>
+		<rom name="stryx (europe) (disk a).ipf" size="517627" crc="30e13f1d" sha1="ecf46d4eb22a937695d36db6f9797d28ec4f7b8b" />
+		<rom name="stryx (europe) (disk b).ipf" size="517627" crc="24eaf056" sha1="95c1463e2f86f9d95bb4043966e06a0fcacb4e13" />
+	</machine>
+	<machine name="sundog">
+		<description>Sundog - Frozen Legacy (Euro)</description>
+		<year>1988</year>
+		<publisher>Mirrorsoft</publisher>
+		<rom name="sundog - frozen legacy (europe).ipf" size="468877" crc="46f0ae7e" sha1="512b89b7bece87df8ffc7c3a3fb6f22496ff69a7" />
+	</machine>
+	<machine name="swap">
+		<description>Swap (Euro, Budget)</description>
+		<year>1991</year>
+		<publisher>Fox Hits</publisher>
+		<rom name="swap (europe) (budget - fox hits).ipf" size="918252" crc="c1af7fdd" sha1="e3e4e972b05d23d9784b495d1fd081bac5e40344" />
+	</machine>
+	<machine name="taipan">
+		<description>Tai-Pan (Euro)</description>
+		<year>1987</year>
+		<publisher>Ocean</publisher>
+		<rom name="tai-pan (europe).ipf" size="520092" crc="8ce5a8a6" sha1="529a47fc044410f0bd8b8ffa36449146448781fe" />
+	</machine>
+	<machine name="tasstime">
+		<description>Tass Times in Tonetown (Euro)</description>
+		<year>1986</year>
+		<publisher>Activision</publisher>
+		<rom name="tass times in tonetown (europe) (disk 1).ipf" size="469240" crc="0ff0f9a2" sha1="ab72d80f0d826ec6d4e54202a0b602f5c2300a67" />
+		<rom name="tass times in tonetown (europe) (disk 2).ipf" size="468252" crc="61755523" sha1="8786204acae66159f2c14c999629f5d8b8481157" />
+	</machine>
+	<machine name="tauceti">
+		<description>Tau Ceti (Euro)</description>
+		<year>1987</year>
+		<publisher>Electronic Arts</publisher>
+		<rom name="tau ceti (europe).ipf" size="468252" crc="bff7a431" sha1="1d6715f7cd019a0e78da3d0907791cd58f708378" />
+	</machine>
+	<machine name="tburner">
+		<description>Thunder Burner (Euro)</description>
+		<year>1992</year>
+		<publisher>Loriciel</publisher>
+		<rom name="thunder burner (europe).ipf" size="1014859" crc="6f8e0512" sha1="ce97963bbf852945295c44bb1a3c276b2b9de99b" />
+	</machine>
+	<machine name="tdriv">
+		<description>Test Drive (Euro, Accolade All Time Favourites)</description>
+		<year>1987</year>
+		<publisher>Accolade</publisher>
+		<rom name="test drive (europe) (compilation - accolade all time favourites) (disk 1).ipf" size="518615" crc="4576bca7" sha1="870248fb519a31efb673ccde625817f5a44716d8" />
+		<rom name="test drive (europe) (compilation - accolade all time favourites) (disk 2).ipf" size="518615" crc="c293654b" sha1="eb1defacbc6ee1edc8700b548e4745c4d9c28460" />
+	</machine>
+	<machine name="tenniscp">
+		<description>Tennis Cup (Euro, Budget)</description>
+		<year>1990</year>
+		<publisher>Action Sixteen</publisher>
+		<rom name="tennis cup (europe) (budget - action sixteen).ipf" size="1023233" crc="47e02070" sha1="c802950995652c2a0b2d330193445d1b8ac78f79" />
+	</machine>
+	<machine name="terramex">
+		<description>Terramex (Euro)</description>
+		<year>1987</year>
+		<publisher>Grandslam</publisher>
+		<rom name="terramex (europe) (disk 1).ipf" size="518252" crc="0c42d259" sha1="08b690e780433288bf41bd66937eee8cc677f0af" />
+		<rom name="terramex (europe) (disk 2).ipf" size="518252" crc="dd8a2902" sha1="53ca6ac10552da078e9aeb72e19d4da8b22c80c4" />
+	</machine>
+	<machine name="thdrcats">
+		<description>ThunderCats (Euro, Budget)</description>
+		<year>1988</year>
+		<publisher>Encore</publisher>
+		<rom name="thundercats (europe) (budget - encore).ipf" size="468254" crc="3ae4ef28" sha1="41481fd1d7afd83e8c543b3a8c407150ef0c6d4f" />
+	</machine>
+	<machine name="thdrwing">
+		<description>ThunderWing (Euro)</description>
+		<year>1989</year>
+		<publisher>Artronic Products</publisher>
+		<rom name="thunderwing (europe).ipf" size="512002" crc="8039ccd0" sha1="c05b20e3501a7738164607503759021086389645" />
+	</machine>
+	<machine name="thrust">
+		<description>Thrust (Euro)</description>
+		<year>1989</year>
+		<publisher>Firebird</publisher>
+		<rom name="thrust (europe).ipf" size="518254" crc="e2a2f206" sha1="4d89490441faffca7952c0b38701159718b2be4b" />
+	</machine>
+	<machine name="tiebreak">
+		<description>Adidas Championship Tie Break (Euro)</description>
+		<year>1990</year>
+		<publisher>Ocean</publisher>
+		<rom name="adidas championship tie break (europe).ipf" size="512061" crc="d479f726" sha1="e7c1f393c0e63703ffae10b60be00a070a3f4fa8" />
+	</machine>
+	<machine name="timeblst">
+		<description>Time Blast (Euro)</description>
+		<year>19??</year>
+		<publisher>Micro-Value</publisher>
+		<rom name="timeblast (europe).ipf" size="468252" crc="d2b9af2b" sha1="868edc2c1aa97138392fd1b06cdbdd0dbf3e3039" />
+	</machine>
+	<machine name="timemag">
+		<description>Time and Magik (Euro)</description>
+		<year>1988</year>
+		<publisher>Mandarin</publisher>
+		<rom name="time and magik (europe) (disk 1).ipf" size="518252" crc="e41bb508" sha1="a876fe2d7b00f45934b6de666da3670dd1135149" />
+		<rom name="time and magik (europe) (disk 2).ipf" size="518252" crc="85832646" sha1="748c71c0ebdc5281db6304f397df1e9eb5af6333" />
+	</machine>
+	<machine name="tintin">
+		<description>Tintin on the Moon (Euro)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="tintin on the moon (europe) (en,fr,de).ipf" size="918252" crc="46500bf0" sha1="8cf545d304ac6c9d41cbfe3800d1c20429f58b9f" />
+	</machine>
+	<machine name="toiacidg">
+		<description>Toi Acid Game (unreleased)</description>
+		<year>1990</year>
+		<publisher>Iber Software</publisher>
+		<rom name="toiacidgame.msa" size="420014" crc="aaff7c21" sha1="99694f3d78bce3aa985a14753fbc69425025dc5c" />
+	</machine>
+	<machine name="toobin">
+		<description>Toobin' (Euro)</description>
+		<year>1989</year>
+		<publisher>Domark</publisher>
+		<rom name="toobin' (europe).ipf" size="520242" crc="894947e5" sha1="e11e91bfd4573eed471ed9fa7b8716dbc6413b91" />
+	</machine>
+	<machine name="toutrun">
+		<description>Turbo Out Run (Euro, Budget)</description>
+		<year>1989</year>
+		<publisher>KIXX</publisher>
+		<rom name="turbo outrun (europe) (budget - kixx).ipf" size="1095692" crc="93ae44b1" sha1="07c058d0eb50f06a5ce682a0ead7146483f888c6" />
+	</machine>
+	<machine name="towbabel">
+		<description>Tower of Babel (Euro)</description>
+		<year>1990</year>
+		<publisher>Rainbird</publisher>
+		<rom name="tower of babel (europe).ipf" size="520242" crc="dc83d3fb" sha1="47e73c3522e53194cfd6ff538e2d0813682e41d5" />
+	</machine>
+	<machine name="tparkmys">
+		<description>Theme Park Mystery - Variations on a Theme (Euro)</description>
+		<year>1991</year>
+		<publisher>Image Works</publisher>
+		<rom name="theme park mystery (europe).ipf" size="1021810" crc="adafa9ca" sha1="eed220be58a12d2affc3535417558ed60b360cfa" />
+	</machine>
+	<machine name="trailblz">
+		<description>Trailblazer (Euro)</description>
+		<year>1987</year>
+		<publisher>Gremlin</publisher>
+		<rom name="trailblazer (europe).ipf" size="519292" crc="05edff74" sha1="bf48ebeec193f9baefdddb5f67282f8754e1bfdc" />
+	</machine>
+	<machine name="traksuit">
+		<description>Track Suit Manager (Euro)</description>
+		<year>1989</year>
+		<publisher>Again Again</publisher>
+		<rom name="track suit manager.mfm" size="2993999" crc="4ed508ad" sha1="4e2d765b06efa87a80362439566da96f367993e0" />
+	</machine>
+	<machine name="trasheap">
+		<description>Trash Heap (Euro)</description>
+		<year>1987</year>
+		<publisher>Robtek</publisher>
+		<rom name="trash heap (europe) (disk 1).ipf" size="468252" crc="5ede6877" sha1="4015625130704d9f3ae59eba70d56b98cb51cd59" />
+		<rom name="trash heap (europe) (disk 2).ipf" size="468252" crc="6072083f" sha1="e48b97286d969311a78ffd5163309acbff295e5c" />
+	</machine>
+	<machine name="trauma">
+		<description>Trauma (Euro)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="trauma (europe) (disk 1).ipf" size="471664" crc="02e9d19e" sha1="bbfae77bc29a8369a2a7ec8d4773544c45d254e0" />
+		<rom name="trauma (europe) (disk 2).ipf" size="468252" crc="24d09513" sha1="50eb573ab8c1a191a7490b746e29930a4988ecd4" />
+	</machine>
+	<machine name="treblech">
+		<description>Treble Champions (Euro, v1.0)</description>
+		<year>1990</year>
+		<publisher>Challenge Software</publisher>
+		<rom name="treble champions (europe) (v1.0).ipf" size="518252" crc="ca67cf86" sha1="52481690d88f9f77736ea36251d8334bb3e84465" />
+	</machine>
+	<machine name="trinity">
+		<description>Trinity (Euro, r11)</description>
+		<year>1986</year>
+		<publisher>Infocom</publisher>
+		<rom name="trinity (europe) (r11).ipf" size="467820" crc="9d9283ad" sha1="4aeeb5ff209c7c78b928d2114cc69693c7de42b7" />
+	</machine>
+	<machine name="trivianb">
+		<description>Trivial Pursuit - A New Beginning (Euro)</description>
+		<year>1988</year>
+		<publisher>Domark</publisher>
+		<rom name="trivial pursuit - a new beginning (europe).ipf" size="518252" crc="28c85cd1" sha1="b7f24d9a884f5812f5b30ef21b146bb0de5cf5f9" />
+	</machine>
+	<machine name="turbogt">
+		<description>Turbo GT (Euro)</description>
+		<year>1989</year>
+		<publisher>Infogrames</publisher>
+		<rom name="turbo gt (europe).ipf" size="468252" crc="58193517" sha1="6d0711d422ead8bfdb529ffe713a16da82ca2e84" />
+	</machine>
+	<machine name="turricn2">
+		<description>Turrican II (Euro, Budget)</description>
+		<year>1991</year>
+		<publisher>KIXX</publisher>
+		<rom name="turrican ii - the final fight (europe) (budget - kixx).ipf" size="1019827" crc="1c16f12e" sha1="f0b2e01d9ec7dce0a33a14caf63d0dda5705f778" />
+	</machine>
+	<machine name="tvfootbl">
+		<description>TV Sports Football (Euro)</description>
+		<year>1989</year>
+		<publisher>Mirrorsoft</publisher>
+		<rom name="tv sports football (europe).ipf" size="520242" crc="c1630d7a" sha1="4fbd579361f68fe20bbc881e53b07873447893b7" />
+	</machine>
+	<machine name="twylyte">
+		<description>Twylyte (Euro)</description>
+		<year>1989</year>
+		<publisher>Wicked</publisher>
+		<rom name="twylyte (europe).ipf" size="518252" crc="af320fb0" sha1="01f07eb08bee89999de4735267cf19ebe46c385e" />
+	</machine>
+	<machine name="ums">
+		<description>UMS - The Universal Military Simulator (Euro)</description>
+		<year>1988</year>
+		<publisher>Rainbird</publisher>
+		<rom name="ums - the universal military simulator (europe).ipf" size="468252" crc="1afe1220" sha1="2e28e66236b56578591431eb08a3f486690a6b74" />
+	</machine>
+	<machine name="univers3">
+		<description>Universe 3 (Euro, v1.0)</description>
+		<year>1990</year>
+		<publisher>Impressions</publisher>
+		<rom name="universe 3 (europe) (v1.0) (data disk).ipf" size="918252" crc="9191ed09" sha1="d5480fd0c2b32249d6d82d4a1b967e8498c125db" />
+		<rom name="universe 3 (europe) (v1.0) (game disk).ipf" size="918252" crc="b58abf6c" sha1="c21ac500f72528e457a1c0dbb594db2c79ef98d9" />
+	</machine>
+	<machine name="untouch">
+		<description>The Untouchables (Euro)</description>
+		<year>1990</year>
+		<publisher>Ocean</publisher>
+		<rom name="untouchables, the (europe) (disk 1).ipf" size="517627" crc="5a75c57a" sha1="93de98e2b1e6ddb41ca2c6ab7863d4412ee798cd" />
+		<rom name="untouchables, the (europe) (disk 2).ipf" size="518252" crc="dbf2471a" sha1="2c4e942dfa5e5d14de34cb75ffbd219d283b817e" />
+		<rom name="untouchables, the (europe) (disk 3).ipf" size="518252" crc="78a88d78" sha1="02fc45c232a2840a2f10f14d7f750941cd07f3b2" />
+	</machine>
+	<machine name="vectball">
+		<description>Vectorball (Euro)</description>
+		<year>1988</year>
+		<publisher>MAD</publisher>
+		<rom name="vectorball (europe).ipf" size="517627" crc="08506a17" sha1="a66f3904ae26eea2d0bae25fb5d6c2fe9c697819" />
+	</machine>
+	<machine name="vindictr">
+		<description>Vindicators (Euro)</description>
+		<year>1989</year>
+		<publisher>Domark</publisher>
+		<rom name="vindicators (europe) (disk 1).ipf" size="518252" crc="b4b2e13d" sha1="d0909a0a2ff4b0275fd974d61fb0c26d8e36736e" />
+		<rom name="vindicators (europe) (disk 2).ipf" size="518252" crc="7b3c62d3" sha1="0de576c14c1d5d806d8f5c11105913a2856ecb50" />
+	</machine>
+	<machine name="virus">
+		<description>Virus (Euro)</description>
+		<year>1988</year>
+		<publisher>Firebird</publisher>
+		<rom name="virus (europe).ipf" size="175752" crc="28ae7efb" sha1="108882d71030cfed99ccf6e51d59b29da07c85f3" />
+	</machine>
+	<machine name="wander3d">
+		<description>Wanderer 3D (Euro, Budget)</description>
+		<year>1988</year>
+		<publisher>Encore</publisher>
+		<rom name="wanderer 3d (europe) (budget - encore).ipf" size="468254" crc="7eb28e97" sha1="29bbdfd5c88375db134111962fd096342e092dff" />
+	</machine>
+	<machine name="wanted">
+		<description>Wanted (Euro)</description>
+		<year>1988</year>
+		<publisher>Infogrames</publisher>
+		<rom name="wanted (europe) (disk 1).ipf" size="471664" crc="5e92ccb2" sha1="d4b9b062acefe6ce59ecdac1ac33a7b661770bc6" />
+		<rom name="wanted (europe) (disk 2).ipf" size="468252" crc="6c4325f7" sha1="8b5d36e943b1a91c6686b29a0fee671c80d0c96e" />
+	</machine>
+	<machine name="warhawk">
+		<description>Warhawk (Euro)</description>
+		<year>1988</year>
+		<publisher>Silverbird</publisher>
+		<rom name="warhawk (europe).ipf" size="518254" crc="85d4beef" sha1="f52b5659cc52461564f8a8081b19a95181b710e2" />
+	</machine>
+	<machine name="warlock">
+		<description>Warlock's Quest (Euro, Budget)</description>
+		<year>1988</year>
+		<publisher>Pocket Soft</publisher>
+		<rom name="warlock's quest (europe) (budget - pocket soft).ipf" size="471664" crc="c911962e" sha1="3cb786659a2c53e8a986d5e51561eca5775ae0e3" />
+	</machine>
+	<machine name="warlocke">
+		<description>Warlock (Euro, The Edge)</description>
+		<year>19??</year>
+		<publisher>The Edge</publisher>
+		<rom name="warlock (europe) (the edge).ipf" size="468252" crc="d2fd5a69" sha1="6e1d2626020e409efba790322cdb25f73ca64eb5" />
+	</machine>
+	<machine name="warmidle">
+		<description>War in Middle Earth (Euro)</description>
+		<year>1989</year>
+		<publisher>Melbourne House</publisher>
+		<rom name="war in middle earth (europe) (disk 1).ipf" size="518252" crc="faedb2c9" sha1="ceafaa35b893940b4cf8c7027134fcca5eaaa924" />
+		<rom name="war in middle earth (europe) (disk 2).ipf" size="518252" crc="8a08cec6" sha1="54e0832a4e3f25fd4853df4f73477f3cc2006848" />
+		<rom name="war in middle earth (europe) (disk 3).ipf" size="518252" crc="ab404366" sha1="a7da2854fa95f93e44f224329b3cc501956bf8b4" />
+	</machine>
+	<machine name="wcbox">
+		<description>World Championship Boxing Manager (Euro)</description>
+		<year>1990</year>
+		<publisher>Krisalis</publisher>
+		<rom name="world championship boxing manager (europe) (disk 1).ipf" size="518252" crc="e2e0c94c" sha1="ce737e5941faaefc43a7d66c3b6bd1ad30ed3e67" />
+		<rom name="world championship boxing manager (europe) (disk 2).ipf" size="518252" crc="5e9b73d5" sha1="66af89e80aa0288be835ae46d161fef4ab93ce51" />
+	</machine>
+	<machine name="wclead">
+		<description>World Class Leader Board (Euro, Budget)</description>
+		<year>1990</year>
+		<publisher>Klassix</publisher>
+		<rom name="world class leader board (europe) (budget - klassix).ipf" size="517627" crc="cc8a9a06" sha1="97289ac4f0e7a2d083edfeb96f1500dc83bbc5a4" />
+	</machine>
+	<machine name="whirligg">
+		<description>Whirligig (Euro)</description>
+		<year>1988</year>
+		<publisher>Firebird</publisher>
+		<rom name="whirligig (europe).ipf" size="468252" crc="ce2a4c3d" sha1="8daae90f3677674510a5c95bad6cbe1be244214b" />
+	</machine>
+	<machine name="wildstrt">
+		<description>Wild Streets (Euro, Budget)</description>
+		<year>1990</year>
+		<publisher>Fox Hits</publisher>
+		<rom name="wild streets (europe) (budget - fox hits).ipf" size="1025674" crc="723f49ed" sha1="c5d7fec78f1e0f630f44a469f554be4e35cad873" />
+	</machine>
+	<machine name="wrangler">
+		<description>Wrangler (Euro)</description>
+		<year>1988</year>
+		<publisher>Alternative Software</publisher>
+		<rom name="wrangler (europe).ipf" size="517627" crc="74bc5a25" sha1="a0babad97a71be52b7f48839f8962649d67acda1" />
+	</machine>
+	<machine name="wtsstill">
+		<description>Where Time Stood Still (Euro)</description>
+		<year>1988</year>
+		<publisher>Ocean</publisher>
+		<rom name="where time stood still (europe) (en,de).ipf" size="517002" crc="8829de66" sha1="bfed208fab0cdfe8c8a5de5ff99003a93ce4b0c2" />
+	</machine>
+	<machine name="xenon">
+		<description>Xenon (Euro, Budget)</description>
+		<year>1988</year>
+		<publisher>16 Blitz</publisher>
+		<rom name="xenon (europe) (budget - 16 blitz).ipf" size="518252" crc="ecf4be37" sha1="f3ac6a228aa620137eba057a591ea05031e68030" />
+	</machine>
+	<machine name="xout">
+		<description>X-Out (Euro)</description>
+		<year>1990</year>
+		<publisher>Rainbow Arts</publisher>
+		<rom name="x-out (europe) (disk 1).ipf" size="525628" crc="1ebeff5a" sha1="4e2606baab7875219576bf76c7794c6c09b2f299" />
+		<rom name="x-out (europe) (disk 2).ipf" size="518252" crc="dad5c809" sha1="630ae878c1c03ca8a5af88de724c77e85c7beff0" />
+	</machine>
+</datafile>

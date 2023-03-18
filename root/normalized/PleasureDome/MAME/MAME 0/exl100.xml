@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>exl100</name>
+		<description>Exelvision EXL 100 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="capmenkr">
+		<description>Capitaine Menkar</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="capitaine menkar.bin" size="16384" crc="4e44c913" sha1="38533b3ff84320c28c02f57819420f5bec38c137" />
+	</machine>
+	<machine name="exelbas">
+		<description>ExelBASIC</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exelbasic.bin" size="32256" crc="1e92fe55" sha1="96b02b357f647be250603367091055ae7b8b5cc0" />
+	</machine>
+	<machine name="exelbasp">
+		<description>ExelBASIC+</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exelbasic+.bin" size="32256" crc="a0300b3c" sha1="4f6769ab44e79bb579bbdf6cd90a9fe4aedb464a" />
+	</machine>
+	<machine name="exeldrum">
+		<description>Exeldrums</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exeldrums.bin" size="16384" crc="8f757196" sha1="9d7c60fc7734f15f26e94ba95a77c5123538831f" />
+	</machine>
+	<machine name="exelmax">
+		<description>Exelmax v1.6</description>
+		<year>1986</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exelmax v1.6.bin" size="32256" crc="5e031175" sha1="4299cde83cf6bd6a85cf99788cd8a77f79489c29" />
+	</machine>
+	<machine name="exelogo">
+		<description>Exelogo v1.0</description>
+		<year>1985</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exelogo v1.0.bin" size="32256" crc="2f7e8074" sha1="6277961f4c755ffa0c1a094a9edb3b2f77f1d9f3" />
+	</machine>
+	<machine name="exeltext">
+		<description>Exeltexte</description>
+		<year>1985</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exeltexte.bin" size="32768" crc="165b6003" sha1="40a20ef4fa11ab3b735e5aa7e928f875bb64d67e" />
+	</machine>
+	<machine name="exlmodem">
+		<description>Exelmodem</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exelmodem.bin" size="32256" crc="884ce574" sha1="e5f06ef7e839abbdb2bd2691749791c21730fb46" />
+	</machine>
+	<machine name="exlpaint">
+		<description>Exelpaint v1.0</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="exelpaint v1.0.bin" size="32768" crc="9f0e6866" sha1="929d9406a38d5c8e0d3389adecaae46ca165f053" />
+	</machine>
+	<machine name="guppy">
+		<description>Guppy</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="guppy.bin" size="8192" crc="c3a3e6d9" sha1="29747fc1d3e0d86704ee8f7d05baaf8086f2f176" />
+	</machine>
+	<machine name="imagix">
+		<description>Imagix</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="imagix.bin" size="8192" crc="e5aa6d0b" sha1="a424f891b83aa43e768c6e95b45d13ea48bdaaf3" />
+	</machine>
+	<machine name="pindo">
+		<description>Pindo</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="pindo.bin" size="16384" crc="d090c951" sha1="541ae8e261b05c3f3c67e770f04a059c2a959aea" />
+	</machine>
+	<machine name="quizzy">
+		<description>Quizzy</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="quizzy.bin" size="16384" crc="162b7584" sha1="0408145d920f41e9cd0da870f9867be22f5ecba8" />
+	</machine>
+	<machine name="tennis">
+		<description>Tennis</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="tennis.bin" size="32256" crc="fd2b49e2" sha1="807f5ae71c9dbb1376d4a64e4ca1d9c24a376290" />
+	</machine>
+	<machine name="virus">
+		<description>Virus</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="virus.bin" size="16384" crc="cf1df2a4" sha1="21031068425fb6875c28398634d3c58facdd1fef" />
+	</machine>
+	<machine name="wizord">
+		<description>Wizord</description>
+		<year>198?</year>
+		<publisher>Exelvision</publisher>
+		<rom name="wizord.bin" size="8192" crc="5ed04a2c" sha1="5338e5e34613ca73ee42b4a76348e9f5fa6ecb0b" />
+	</machine>
+</datafile>

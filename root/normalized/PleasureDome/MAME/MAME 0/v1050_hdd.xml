@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>v1050_hdd</name>
+		<description>Visual Technology Visual 1050 hard disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm3hd10">
+		<description>CP/M Plus v3.0 (BIOS 2.0, 10MB)</description>
+		<year>1982</year>
+		<publisher>Digital Research</publisher>
+		<disk name="cm-5412" sha1="65708f2c715ac6e887bf1a5ebc940cc842b0d9e1" />
+		<disk name="tm501" sha1="05be122ba238b47b700554bf8bfa0dd39bf920fb" />
+	</machine>
+</datafile>

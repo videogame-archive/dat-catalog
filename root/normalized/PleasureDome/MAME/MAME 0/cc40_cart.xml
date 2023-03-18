@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cc40_cart</name>
+		<description>CC-40 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="aee">
+		<description>Advanced Electrical Engineering</description>
+		<year>1983</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="aee.bin" size="32768" crc="0ebf8f90" sha1="609cb2f5e235995eea66e9da0f06ca80e736e290" />
+	</machine>
+	<machine name="ea">
+		<description>Editor/Assembler</description>
+		<year>1983</year>
+		<publisher>Texas Instruments (unreleased)</publisher>
+		<rom name="ea.bin" size="65536" crc="42c5b541" sha1="565a00d688d6aac6eb688e3570d42e0236d2fcb2" />
+	</machine>
+	<machine name="finance">
+		<description>Finance</description>
+		<year>1983</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="finance.bin" size="32768" crc="d1671acc" sha1="a4a6da5504bea2b37b289c83e4af012ed8f4ad9b" />
+	</machine>
+	<machine name="games1">
+		<description>Games I</description>
+		<year>1983</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="games1.bin" size="32768" crc="54b52a26" sha1="1ad4c414b3aba73e10e30a2c2a2de8e92f96d46b" />
+	</machine>
+	<machine name="maths">
+		<description>Mathematics</description>
+		<year>1983</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="mathematics.bin" size="32768" crc="f0f7a65a" sha1="88af8b822d296a774a275e26ed4c91140c93b074" />
+	</machine>
+	<machine name="memoproc">
+		<description>Memo Processor</description>
+		<year>1983</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="memo_processor.bin" size="32768" crc="817f77db" sha1="13541d447b30834efdb23718eb30ce243a32c7d5" />
+	</machine>
+	<machine name="pascal">
+		<description>Learn Pascal</description>
+		<year>1983</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="pascal.bin" size="32768" crc="e9bced03" sha1="770944a521bc8c1ad72c3aabdcfdc5929131c658" />
+	</machine>
+	<machine name="stats">
+		<description>Statistics</description>
+		<year>1983</year>
+		<publisher>Texas Instruments</publisher>
+		<rom name="statistics.bin" size="32768" crc="2c0e5c22" sha1="73c2b3512ba8eaacdc529d4df80ae3673a53589d" />
+	</machine>
+</datafile>

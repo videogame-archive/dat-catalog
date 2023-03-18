@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3do_m2</name>
+		<description>3DO M2 CD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="imsarcng">
+		<description>IMSA Racing (Unreleased)</description>
+		<year>199?</year>
+		<publisher>3DO</publisher>
+		<disk name="imsa racing" sha1="533f8ed17f684b2798c9fae5d7e834a7d4d81147" />
+	</machine>
+	<machine name="olds">
+		<description>Oldsmobile (USA)</description>
+		<year>199?</year>
+		<publisher>GM</publisher>
+		<disk name="oldsmobile (disc 2)" sha1="b1f5ad85818ca628c5d7e41d7dd321e69934cf2a" />
+	</machine>
+	<machine name="shootr2d">
+		<description>Shooter 2D</description>
+		<year>2008</year>
+		<publisher>Games That Weren't</publisher>
+		<disk name="shootr2d" sha1="b53e4186fcb496282584bead5cdaad9fef2293d9" />
+	</machine>
+</datafile>

@@ -50,23 +50,28 @@ public final class ZIP implements Closeable {
         return path;
     }
 
-    public void extractSmart(Path parent) throws IOException {
+    public Path extractSmart(Path parent) throws IOException {
         final var lastParentFolder = parent.getFileName();
         final Optional<String> zipbasename = name.map(ZIP::basename);
         final var skipSmart = zipbasename.map(n -> n.equals(lastParentFolder.toString())).orElse(true);    // skip smart if zip basename is equal to parent last folder name
         boolean firstEntry = true;
+        boolean insertBasename = false;
         ZipEntry ze;
+        Path path = null;
         while ((ze = zis.getNextEntry()) != null) {
             final var entryPath = Path.of(ze.getName());
-            Path path = parent.resolve(entryPath.getParent());
-            if (Boolean.FALSE.equals(skipSmart)) {
+            if (Boolean.FALSE.equals(skipSmart) && !ze.isDirectory()) {
                 // zip basename become intermediate folder if first entry basename is not of the same as zip basename
                 if (firstEntry) {
                     if (zipbasename.isPresent() && !zipbasename.get().equals(basename(entryPath)))
-                        path = parent.resolve(zipbasename.get()).resolve(entryPath.getParent());
+                    	insertBasename = true;
                     firstEntry = false;
                 }
             }
+            if(insertBasename)
+            	path = parent.resolve(zipbasename.get()).resolve(entryPath);
+            else
+                path = parent.resolve(entryPath);
             if (ze.isDirectory()) {
                 Files.createDirectories(path);
             } else {
@@ -76,6 +81,7 @@ public final class ZIP implements Closeable {
                 }
             }
         }
+        return path;
     }
 
     public static Map<String, byte[]> extractInMemory(InputStream is) throws IOException {
@@ -95,11 +101,11 @@ public final class ZIP implements Closeable {
     private static Pattern extPatternAll = Pattern.compile("(?<!^)[.].*");
 
     public static String basename(Path path) {
-        return basename(path.getFileName().toString(), false);
+        return basename(path.getFileName().toString(), true);
     }
 
     public static String basename(String filename) {
-        return basename(filename, false);
+        return basename(filename, true);
     }
 
     public static String basename(String filename, boolean removeAllExtensions) {

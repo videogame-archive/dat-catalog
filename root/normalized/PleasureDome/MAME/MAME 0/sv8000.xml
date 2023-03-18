@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sv8000</name>
+		<description>Bandai Super Vision 8000 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="beamgala">
+		<description>Beamgalaxian</description>
+		<year>1980</year>
+		<publisher>Bandai</publisher>
+		<rom name="beamgalaxian.bin" size="4096" crc="009f9567" sha1="78b0d57e83f0a428befac57d5c0869eeefc35953" />
+	</machine>
+	<machine name="gunprof">
+		<description>Gun Fighter</description>
+		<year>1980</year>
+		<publisher>Bandai</publisher>
+		<rom name="gunprofessional.bin" size="4096" crc="05db65c0" sha1="09dd817ba35103507d50d44583ddcbb74e463dc8" />
+	</machine>
+	<machine name="misvader">
+		<description>Missilevader</description>
+		<year>1979</year>
+		<publisher>Bandai</publisher>
+		<rom name="missilevader.bin" size="4096" crc="a634a472" sha1="ac4d4a6adae0c7bf19b3c70e70d6541e0814ab34" />
+	</machine>
+	<machine name="othello">
+		<description>Othello</description>
+		<year>1980</year>
+		<publisher>Bandai</publisher>
+		<rom name="othello.bin" size="4096" crc="fb3c070e" sha1="9df64c78d32f5d31caea936877f47f8d1cdf538b" />
+	</machine>
+	<machine name="pacpac">
+		<description>Pac Pac Bird</description>
+		<year>1980</year>
+		<publisher>Bandai</publisher>
+		<rom name="pacpacbird.bin" size="4096" crc="b550e119" sha1="57923a51f8d52f341fe4bec0401189058875fc69" />
+	</machine>
+	<machine name="spfire">
+		<description>Space Fire</description>
+		<year>1980</year>
+		<publisher>Bandai</publisher>
+		<rom name="spacefire.bin" size="4096" crc="85ce4a88" sha1="3bd00bd4978bc1d27a8e31da00f3f24bcb4f76fd" />
+	</machine>
+	<machine name="submar">
+		<description>Submarine</description>
+		<year>1980</year>
+		<publisher>Bandai</publisher>
+		<rom name="submarine.bin" size="4096" crc="b7d67a05" sha1="1f4929c019608342363bc6337650cc8e763c4430" />
+	</machine>
+</datafile>

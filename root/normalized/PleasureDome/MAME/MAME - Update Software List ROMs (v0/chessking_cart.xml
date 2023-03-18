@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>chessking_cart</name>
+		<description>Chess King cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="chn_dic">
+		<description>English-Chinese Dictionary</description>
+		<year>1994</year>
+		<publisher>I-Star Co., Ltd.</publisher>
+		<rom name="et-mate_chn-dic.u1" size="2097152" crc="9de03037" sha1="6b7d399c98ffbb6c633cbc5e18e1d6ed0a05b06e" />
+	</machine>
+</datafile>

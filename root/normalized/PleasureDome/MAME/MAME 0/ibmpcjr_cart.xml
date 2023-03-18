@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ibmpcjr_cart</name>
+		<description>IBM PC Jr cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>Cartridge BASIC</description>
+		<year>1983</year>
+		<publisher>Microsoft</publisher>
+		<rom name="basic.bin" size="32768" crc="8fc2a724" sha1="216915e954d393e42a30d1eb8666371439dcbd38" />
+	</machine>
+	<machine name="colorpnt">
+		<description>ColorPaint</description>
+		<year>1984</year>
+		<publisher>IBM</publisher>
+		<rom name="colorpnt.bin" size="65536" crc="0dcdef20" sha1="5aeee32a4ec4dd1aeea9a02b3d174a2f294d13b9" />
+	</machine>
+	<machine name="demonatk">
+		<description>Demon Attack</description>
+		<year>1983</year>
+		<publisher>Imagic</publisher>
+		<rom name="demon01.bin" size="8192" crc="9aa1599b" sha1="0ff6309d8c6fc6163ac08f028d83805b0dcd2a67" />
+		<rom name="demon02.bin" size="8192" crc="85c373c3" sha1="a786a43815b72bc20ce95392235ca02d4f0ee3f6" />
+	</machine>
+	<machine name="fracfevr">
+		<description>Fraction Fever</description>
+		<year>1983</year>
+		<publisher>Spinnaker</publisher>
+		<rom name="fraction.bin" size="8192" crc="28bb80e0" sha1="2ab31a435fa2f0c07226f3f7cf073f2b2a6c1c2c" />
+	</machine>
+	<machine name="lotus123">
+		<description>Lotus 123jr</description>
+		<year>1984</year>
+		<publisher>Lotus Development</publisher>
+		<rom name="disk1.img" size="184320" crc="6a568d95" sha1="db165cb9bf2b2abbf5fa826dfe3a8f9819ce7ea5" />
+		<rom name="help and utility.img" size="368640" crc="a791d674" sha1="001bfa1f571b8f6c5257521ede65552d6a96b324" />
+		<rom name="lotus123.a" size="65536" crc="d8f642fd" sha1="a2fcc7e50ed156b3e2cb085329523c7a79696dbe" />
+		<rom name="lotus123.b" size="65536" crc="7b2c1f81" sha1="0a47fe8f99a6362d756d0648f0eefbd4d3ca9223" />
+		<rom name="printgraph.img" size="368640" crc="edb3c740" sha1="b503e24b86ba50a10e5b394b9c66fbbe810c02b2" />
+		<rom name="tutorial disk.img" size="368640" crc="f4e70b7c" sha1="d3f76f58a2a11d59b6346c7c3d2810854ec38be8" />
+	</machine>
+	<machine name="mineshft">
+		<description>Mine Shaft</description>
+		<year>1983</year>
+		<publisher>Sierra On-Line</publisher>
+		<rom name="mineshft.bin" size="8192" crc="ed70ef88" sha1="73ee013a3ae3d5648e712718b2414e87edbadb1c" />
+	</machine>
+	<machine name="mouser">
+		<description>Mouser</description>
+		<year>1983</year>
+		<publisher>Gebelli</publisher>
+		<rom name="mouser.bin" size="8192" crc="cf392a67" sha1="cbcdcf8c7d5d4e143145ab1dd7fdc04948ebc194" />
+	</machine>
+	<machine name="msurg">
+		<description>Microsurgeon</description>
+		<year>1983</year>
+		<publisher>Imagic</publisher>
+		<rom name="msurg01.bin" size="8192" crc="b05cd784" sha1="f354b7ce9471324dab944cc499203e027b88dd85" />
+		<rom name="msurg02.bin" size="8192" crc="c541759c" sha1="5add9d325550f2018304931a40f132aa6ba90ef3" />
+	</machine>
+	<machine name="pc_id">
+		<description>PC ID</description>
+		<year>19??</year>
+		<publisher>Racore</publisher>
+		<rom name="pc_id.bin" size="65536" crc="08898215" sha1="399a30a6ef60d5dc21a4bf869e56a1730696d173" />
+	</machine>
+	<machine name="pitfall2">
+		<description>Pitfall II</description>
+		<year>1984</year>
+		<publisher>Activision</publisher>
+		<rom name="pitfall2.bin" size="16384" crc="5359b9f8" sha1="a4a5e8bee86a6824869996cfe3bba24dd7b31a14" />
+	</machine>
+	<machine name="riveraid">
+		<description>River Raid</description>
+		<year>1984</year>
+		<publisher>Activision</publisher>
+		<rom name="rivrraid.bin" size="16384" crc="7c122e43" sha1="b1e425ebe03b50688a3f78b4dc11d89b26e1441d" />
+	</machine>
+	<machine name="scubavnt">
+		<description>ScubaVenture</description>
+		<year>1983</year>
+		<publisher>Gebelli</publisher>
+		<rom name="scubavnt.bin" size="8192" crc="5d400806" sha1="af8ce72fe1348114dddd89a32540c19e85a9144c" />
+	</machine>
+	<machine name="xfire">
+		<description>CrossFire</description>
+		<year>1983</year>
+		<publisher>Sierra On-Line</publisher>
+		<rom name="crosfire.bin" size="8192" crc="8c52b5ca" sha1="6a012cddb8188f157790f9ff633862f514ecdf8f" />
+	</machine>
+</datafile>

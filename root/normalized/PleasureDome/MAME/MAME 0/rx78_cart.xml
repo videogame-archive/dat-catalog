@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>rx78_cart</name>
+		<description>Gundam RX-78 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="abcword">
+		<description>ABC Word Game</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3128h00-3h1.ic1.bin" size="16384" crc="c258f5a1" sha1="0b9b142eb6153742bfd1289d396c514ba1f1ccc1" />
+	</machine>
+	<machine name="aerial">
+		<description>Aerial</description>
+		<year>2021</year>
+		<publisher>Inufuto</publisher>
+		<rom name="aerial.bin" size="11644" crc="64406f92" sha1="eee0b9584c2d09c5a8dff0ceaadd654b34aab608" />
+	</machine>
+	<machine name="basic">
+		<description>BS-BASIC 1.0</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="bs-basic.bin" size="16384" crc="e52b383f" sha1="6ebbff7eb718822cad3c1216882df5d9f2d3a03f" />
+	</machine>
+	<machine name="battlot">
+		<description>Battlot</description>
+		<year>2021</year>
+		<publisher>Inufuto</publisher>
+		<rom name="battlot.bin" size="12102" crc="d1236463" sha1="25375a30b32ce6a083273d27d46ccac3b271bd31" />
+	</machine>
+	<machine name="bootskell">
+		<description>Bootskell</description>
+		<year>2021</year>
+		<publisher>Inufuto</publisher>
+		<rom name="bootskell.bin" size="12212" crc="8c9b02e9" sha1="6eb1c4345636c17cb72cba6590bb07ac8bfee31b" />
+	</machine>
+	<machine name="burger">
+		<description>Burger Shop</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="burgershop.bin" size="8192" crc="2428ad88" sha1="a773125aeb85646a6e3d15c4c2f2685d9e5232c9" />
+	</machine>
+	<machine name="cavit">
+		<description>Cavit</description>
+		<year>2021</year>
+		<publisher>Inufuto</publisher>
+		<rom name="cavit.bin" size="13271" crc="6c3c5729" sha1="32eb81614672a66fe7e672c01e121dedf2777fca" />
+	</machine>
+	<machine name="chlgolf">
+		<description>Challenge Golf</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3128c62-3g1.ic1.bin" size="16384" crc="e4edf5c3" sha1="25322dbf6b8f80604aebe87cc375e5a63b98b6d6" />
+	</machine>
+	<machine name="cracer">
+		<description>Champion Racer</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3128c66-3g1.ic1.bin" size="16384" crc="f32aa1ac" sha1="cfd4454f013af20d4c139af7d965d45a253f695b" />
+	</machine>
+	<machine name="creatgr">
+		<description>Creative Graphics</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="364c94-3j1.ic2.bin" size="8192" crc="80873b44" sha1="38b7aadf16cc0273f7fd735867d4d3987d0772aa" />
+	</machine>
+	<machine name="exbaseb">
+		<description>Excite Baseball</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="72.ic2.bin" size="8192" crc="06e91723" sha1="b0bff97cd5569dbba7b88aef2914fc6b248a171f" />
+		<rom name="73.ic1.bin" size="8192" crc="6237e902" sha1="0f7c236b9425508b3f22664ce7a5f10fc1b991b3" />
+	</machine>
+	<machine name="extennis">
+		<description>Excite Tennis</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="90.ic2.bin" size="8192" crc="ba91681d" sha1="2d78b8aee850be723db74699029a31f2c07d0b0e" />
+		<rom name="91.ic1.bin" size="8192" crc="e9a0e30e" sha1="be04289e704e589b49bacc1986b5b80b5f7be0ea" />
+	</machine>
+	<machine name="gundam">
+		<description>Mobile Suit Gundam: Lunar 2 no Tatakai</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3128c76-3k1.ic1.bin" size="16384" crc="4f90b7c7" sha1="c836f02876533dbd92fbef1b2237d47bd914ab50" />
+	</machine>
+	<machine name="lift">
+		<description>Lift</description>
+		<year>2021</year>
+		<publisher>Inufuto</publisher>
+		<rom name="lift.bin" size="9781" crc="fe79dd47" sha1="2d165c4e32e4c5c81b7c05df18a51b92ba9a8951" />
+	</machine>
+	<machine name="neuras">
+		<description>Neuras</description>
+		<year>2021</year>
+		<publisher>Inufuto</publisher>
+		<rom name="neuras.bin" size="11267" crc="3a7758ef" sha1="0043e72dd22c8adccd8e7f7bc3ab85322ecfe024" />
+	</machine>
+	<machine name="pmahjongg">
+		<description>Perfect Mah-jongg</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3128c61-3g1.ic1.bin" size="16384" crc="98335879" sha1="b696bb189e3b812fcbd7b2ab798f6e28c76c0fe0" />
+	</machine>
+	<machine name="rengo">
+		<description>Rengo Kantai</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3256d53-4b3.ic1.bin" size="32768" crc="23bd3075" sha1="a58b91d62d2e062130ff974b763ebc28867c629c" />
+	</machine>
+	<machine name="ruptus">
+		<description>Ruptus</description>
+		<year>2021</year>
+		<publisher>Inufuto</publisher>
+		<rom name="ruptus.bin" size="14246" crc="6b903647" sha1="a5d4dbf22bbe55efdd27b8237ad39074bb80b822" />
+	</machine>
+	<machine name="seki">
+		<description>Sekigahara</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3256d54-4b1.ic1.bin" size="32768" crc="a1a1c686" sha1="5c35750fd2bedae5f5d4d8b4d7bb7b13d22dc3b6" />
+	</machine>
+	<machine name="senemy">
+		<description>Space Enemy</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="77.ic2.bin" size="8192" crc="2fee4171" sha1="f06a68b1a844f390378a78b363c8a62d6c161073" />
+		<rom name="78.ic1.bin" size="8192" crc="d9ff07dd" sha1="6397ce1a301e1e2a7d30e1fe76621373e3f74ea8" />
+	</machine>
+	<machine name="smc">
+		<description>Super Motocross</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="smc1.bin" size="8192" crc="a5f1dff6" sha1="f58f1d266753cddddc44949bbab882870506a879" />
+		<rom name="smc2.bin" size="8192" crc="06febfde" sha1="18edde0e3af1f3b9b013348a701652d81bdddbc9" />
+	</machine>
+	<machine name="theprowr">
+		<description>The Prowrestling</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="3128d06-3j1.ic1.bin" size="16384" crc="1f1b1b35" sha1="b1efe7cbfb70455d86ff0da1fb3f242593a40ffd" />
+	</machine>
+	<machine name="ultraman">
+		<description>Ultraman</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="364_c85-3j1.ic1.bin" size="8192" crc="f7bc2394" sha1="e124c7325044abc615b807c0b670bbaa35d94264" />
+	</machine>
+	<machine name="xchase">
+		<description>Xchase</description>
+		<year>2021</year>
+		<publisher>Fabrizio Caruso</publisher>
+		<rom name="xchase.bin" size="16384" crc="51c0eeec" sha1="95c4703dda69ab624f22ceb086bea1e2195776c6" />
+	</machine>
+	<machine name="zerosen">
+		<description>Zerosen</description>
+		<year>1983</year>
+		<publisher>Bandai</publisher>
+		<rom name="84.ic2.bin" size="8192" crc="a569048f" sha1="7d9a37b7347dddca7e16b14689d0bbbc9079afbd" />
+		<rom name="85.ic1.bin" size="8192" crc="acfcf43f" sha1="c7da59a6222f8664a7ef423af3b7d658627fda39" />
+	</machine>
+</datafile>

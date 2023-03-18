@@ -1,0 +1,2505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>x1_flop</name>
+		<description>Sharp X1 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="4thunit">
+		<description>Dai4 no Unit - The 4th Unit</description>
+		<year>1988</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="4th unit, the (19xx)(data west)(jp)(disk 1 of 2).2d" size="327680" crc="885edcf7" sha1="d6a536bd4fb8553dbe9c0467cbfe1d70e2fff342" />
+		<rom name="4th unit, the (19xx)(data west)(jp)(disk 2 of 2).2d" size="327680" crc="c5247061" sha1="1f310be1cc9abc2146346ad718f86dc7a6d2d7a5" />
+	</machine>
+	<machine name="5sdream">
+		<description>Five Sweet Dream.</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="disk_a.2d" size="327680" crc="e59a8698" sha1="837808bf5f987fa7f0f53ce76190d7b1e3849df0" />
+		<rom name="disk_b.2d" size="327680" crc="8467dc7b" sha1="150e1aa389a32f8c58ea9b34b5dad971ef94f159" />
+	</machine>
+	<machine name="177">
+		<description>177</description>
+		<year>1986</year>
+		<publisher>マカダミアソフト (Macadamia Soft)</publisher>
+		<rom name="177 (1986)(macadamia).2d" size="327680" crc="ec0a7d2f" sha1="c7f99f04a720ad4f7aeba52ab806efb30be5ffbf" />
+	</machine>
+	<machine name="1942">
+		<description>1942</description>
+		<year>1987</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="1942.d88" size="348848" crc="f9b366f2" sha1="4b67e7041c1a06e2e2452e63960b8860b1813f5a" />
+	</machine>
+	<machine name="advfant">
+		<description>Advanced Fantasian - Quest for Lost Sanctuary</description>
+		<year>1989</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="advfant_main.d88" size="348848" crc="64291b34" sha1="5c5fe39a1dc43d00ab738974988c532df80d3b3b" />
+		<rom name="advfant_scenario.d88" size="348848" crc="a4fd9761" sha1="aa91bf27b183a5e24605c06dc63c26e5ec353df9" />
+	</machine>
+	<machine name="advfantd">
+		<description>Advanced Fantasian - Quest for Lost Sanctuary (Demo)</description>
+		<year>1989</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="advfant_demo.d88" size="348848" crc="8493aed0" sha1="a4a7b7dc0b7f884d55ff05b581b587cc6a27e27d" />
+	</machine>
+	<machine name="afterdrk">
+		<description>Harajuku After Dark</description>
+		<year>1988</year>
+		<publisher>工画堂スタジオ (Kogado Studio)</publisher>
+		<rom name="hara-1.d88" size="348848" crc="cada8571" sha1="d6b03aa7915f9dc7d64aecdb04e8de6e9d7590fb" />
+		<rom name="hara-2.d88" size="348848" crc="4b22323f" sha1="cb9ba8e2a8b189759e33a690f3c34529993c6903" />
+		<rom name="hara-3.d88" size="348848" crc="44cdf827" sha1="0ffd16f7a6fca1a79e903c8a725dacc9f13de920" />
+		<rom name="hara-u.d88" size="348848" crc="65f5a15a" sha1="4874a2fd1604925dc1ff05330f3ea6db8d0c5d77" />
+	</machine>
+	<machine name="albatros">
+		<description>Albatross</description>
+		<year>1986</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="albatrossdisk1.d88" size="348848" crc="c3185ff5" sha1="0fa2a82e578c779c3be55c94a805abd531127a1b" />
+		<rom name="albatrossdisk2.d88" size="348848" crc="1250ac13" sha1="1cf2b0449df16ccf3f4be0ad5125fff0dbd04e70" />
+		<rom name="albatrossdisk3.d88" size="348848" crc="36db42ec" sha1="aa9b19ee3e39be7a2d130ab34ddd34db6852a1e4" />
+	</machine>
+	<machine name="albatrosjc">
+		<description>Albatross Meimon Course 2 - Jun Classic</description>
+		<year>1987</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="albatross_jun_1.d88" size="348848" crc="e1327e6a" sha1="5c1d90e54e82f8e8096285d2a484218ddc4865af" />
+		<rom name="albatross_jun_2.d88" size="348848" crc="6e6cf0e4" sha1="a4216e32f7e60a50dc2e1c226381a3845d115e21" />
+	</machine>
+	<machine name="albatrosv">
+		<description>Albatross Kakuchou Course - Visual Course</description>
+		<year>1986</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="albatrossvisualcoursephoto.d88" size="322736" crc="8268ae8f" sha1="b2ee6e0a87dd5f321954a40ae4e7017fcf6242c0" />
+		<rom name="albatrossvisualcoursespacy.d88" size="322464" crc="e78a5205" sha1="30efab9e7e80abbcf140ac5d2d682cf6f0e14c9c" />
+	</machine>
+	<machine name="albatrosw">
+		<description>Albatross Kakuchou Course - World Course</description>
+		<year>1986</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="albatrossworldcourseantak.d88" size="322736" crc="0413daf2" sha1="15741244cb22194425d5f2cc29a7bc35343f67b8" />
+		<rom name="albatrossworldcoursearc.d88" size="322736" crc="97a4a2c3" sha1="4b0b9237a5230d4ccbb3065b82bca3d836218263" />
+	</machine>
+	<machine name="albatrosx">
+		<description>Albatross Kakuchou Course - Expert Course</description>
+		<year>1986</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="albatrossexpertcoursepro1.d88" size="322736" crc="30ca2c62" sha1="cad45af3700f33db1be6c136d8add9a99cc0a19b" />
+		<rom name="albatrossexpertcoursepro2.d88" size="322736" crc="e0b65944" sha1="1b1a9b826efcded618ad51e4ae7b7fe752224d7c" />
+	</machine>
+	<machine name="algarna">
+		<description>Algarna</description>
+		<year>1989</year>
+		<publisher>M.N.M. Software</publisher>
+		<rom name="algarna_a.d88" size="348848" crc="e7abfb9e" sha1="96d5fa047b9b888aa236917c87499012e60dae05" />
+		<rom name="algarna_b.d88" size="348848" crc="d9f19f8e" sha1="1ff08969231ec4479a24fa814f64c29588bafa86" />
+		<rom name="algarna_p.d88" size="348576" crc="6072e867" sha1="e42fbd030528620fd08d84ac6fb603de2c714384" />
+	</machine>
+	<machine name="alpha">
+		<description>Alpha</description>
+		<year>1986</year>
+		<publisher>スクウェア (Square)</publisher>
+		<rom name="alpha.2d" size="327680" crc="0827e727" sha1="09af0a7649daa80d3eb11dd109f0030e9cd53efa" />
+	</machine>
+	<machine name="amtruck">
+		<description>American Truck</description>
+		<year>1985</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="american truck.d88" size="348848" crc="b6e33150" sha1="f4cc9c33eb8a984120fc6978c11bb0c546db337c" />
+	</machine>
+	<machine name="aokiooka">
+		<description>Aoki Ookami to Shiroki Mejika</description>
+		<year>1986</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="aoi ookami to shiroki (turbo).d88" size="348848" crc="144e36c6" sha1="8ab505bb4461015e69745a1f3c63f042f678bb91" />
+	</machine>
+	<machine name="arctic">
+		<description>Arctic</description>
+		<year>1988</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="arcteac.d88" size="348848" crc="ca77e6bd" sha1="09de89a6ef8f264cd3984ecb3e20cada77e8d6b7" />
+	</machine>
+	<machine name="arcus">
+		<description>Arcus</description>
+		<year>1988</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="arcus-1.d88" size="454272" crc="faa78950" sha1="5669facfe5cd7fe24634de3ed334891d333512bf" />
+		<rom name="arcus-2.d88" size="458928" crc="3719e235" sha1="ec1e121ea389d01746448865d8d5355f3259bfe6" />
+		<rom name="arcus-3.d88" size="458928" crc="66e3dc6b" sha1="81ccb3ed49a53da537dc9a72cff7d775a92ead83" />
+		<rom name="arcus-4.d88" size="458928" crc="6801c2b5" sha1="e87b984b2b447770200a6abe0bee86ef862f4ef1" />
+		<rom name="arcus-5.d88" size="458928" crc="796dfb17" sha1="099567a7b61e4dd1f1a6afa8570d8d5179eef76a" />
+	</machine>
+	<machine name="aressha">
+		<description>A-Ressha de Ikou</description>
+		<year>1986</year>
+		<publisher>アートディンク (Artdink)</publisher>
+		<rom name="a-train.d88" size="348848" crc="d5743f56" sha1="2674e2faa7873385d2e097ee8f50b9b9a8471336" />
+	</machine>
+	<machine name="argo">
+		<description>Argo</description>
+		<year>1987</year>
+		<publisher>呉ソフトウェア工房 (Kure Software Koubou)</publisher>
+		<rom name="argos_1.2d" size="327680" crc="4c63544e" sha1="c7da6aeb8879a3cf81b7c774ad2e9e9ccd0d8878" />
+		<rom name="argos_2.2d" size="327680" crc="eb210fa5" sha1="dc5e281f12e14455cf6149edb1db2825459a595d" />
+	</machine>
+	<machine name="arion">
+		<description>Arion</description>
+		<year>1986</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="arion_a.2d" size="327680" crc="cb5fd818" sha1="e33c9e162b9a38cc2f832a977b393d77af0633f7" />
+		<rom name="arion_b.2d" size="327680" crc="c7403c98" sha1="0c885bcc371d907a48365ddf6ca3382a8a21f74c" />
+	</machine>
+	<machine name="aspicsp">
+		<description>Aspic Special</description>
+		<year>1987</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="aspic_np.2d" size="327680" crc="c56d230b" sha1="5d2e11e7e5234ee11076ab13f87a8f42684197d6" />
+	</machine>
+	<machine name="asteka2">
+		<description>Taiyou no Shinden - Asteka II</description>
+		<year>1986</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="disk1.d88" size="415840" crc="57353bdb" sha1="567ed54b51b7e97465fa3f419bc1910c9ad7a219" />
+		<rom name="disk2.d88" size="415840" crc="f92dcbae" sha1="acd01e2c8e93806d506e8abe9bb4b053e3558e2d" />
+		<rom name="user.d88" size="392368" crc="c3c0069b" sha1="69c2cb9187200bfaa63dae9c17ad233b1eb0ee81" />
+	</machine>
+	<machine name="asteka">
+		<description>Asteka</description>
+		<year>1985</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="asteka.d88" size="436912" crc="86e6bca1" sha1="8f4a50fd616a7141c85007fce5ec85c6c83cc2e5" />
+	</machine>
+	<machine name="aztec">
+		<description>Aztec</description>
+		<year>1985</year>
+		<publisher>コンプティーク (Comptiq)</publisher>
+		<rom name="aztec.d88" size="392368" crc="be5c8f9e" sha1="55626d13c1a7211fe9e46da544d785563d590f0d" />
+	</machine>
+	<machine name="balonfgt">
+		<description>Balloon Fight</description>
+		<year>198?</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="balloonfight.d88" size="43360" crc="6433f03a" sha1="6f93a89fab698df4f2e7843d7633715eff29e5f7" />
+	</machine>
+	<machine name="basic1">
+		<description>BASIC Pack 1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="basic1.2d" size="327680" crc="153f7873" sha1="c0c3c444881e59dc7ac4b05e53284370f9858070" />
+	</machine>
+	<machine name="basic2">
+		<description>BASIC Pack 2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="basic2.2d" size="327680" crc="95b278aa" sha1="7eca1379c6f67f58937d2c3645efb6f00d307ead" />
+	</machine>
+	<machine name="bastard">
+		<description>Bastard Special</description>
+		<year>1988?</year>
+		<publisher>ザインソフト (Xain Soft)</publisher>
+		<rom name="bastard sp.d88" size="348848" crc="63c7fe77" sha1="b3de0bfc6aa1079d5079907ebfbd44455f9a2df5" />
+	</machine>
+	<machine name="batlcity">
+		<description>Battle City</description>
+		<year>1986</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="battle_city.2d" size="327680" crc="32d516fb" sha1="10f5134fbc1fd5b0c66f59ec73a47960bfaf9be2" />
+	</machine>
+	<machine name="bbreaker">
+		<description>Brain Breaker</description>
+		<year>1986</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="brain breaker (1985)(enix).2d" size="327680" crc="03fc29ac" sha1="5cdade4d5808e59b4f4154bc12c574a638e85e2f" />
+	</machine>
+	<machine name="bgorilla">
+		<description>Battle Gorilla</description>
+		<year>1988</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="battle gorilla disk1.d88" size="348848" crc="ed20dd15" sha1="057f2fde335869f15209ad33672393471230b14e" />
+		<rom name="battle gorilla disk2.d88" size="348848" crc="1600f910" sha1="b2c0092e62ff0374308aba55007c7f15db7b5de0" />
+	</machine>
+	<machine name="blank">
+		<description>Blank Disk?</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="brank.2d" size="327680" crc="166f974a" sha1="27c77f2d2eb6898e0c388b1f5a6b5c6a76575385" />
+	</machine>
+	<machine name="blassty">
+		<description>Cruise Chaser - Blassty</description>
+		<year>1986</year>
+		<publisher>スクウェア (Square)</publisher>
+		<rom name="cruise chaser blassty1.d88" size="413296" crc="139fab07" sha1="c43f29007304045ae4db8a844d7b2188af9518d6" />
+		<rom name="cruise chaser blassty2.d88" size="413296" crc="717e7ff0" sha1="716dafb2c4aec1fc34fb9f6467f402daf0c25fe3" />
+	</machine>
+	<machine name="blckonyx">
+		<description>The Black Onyx</description>
+		<year>1985</year>
+		<publisher>B·P·S (Bullet-Proof Software)</publisher>
+		<rom name="black onyx1.d88" size="350304" crc="2a76412f" sha1="f35d20ab66c371fb3b23dd91d3ab873c31610dd3" />
+		<rom name="black onyx1u.d88" size="315120" crc="4efc6fba" sha1="9685c2a166306ca802b73c3efd66b7a35bd2171a" />
+	</machine>
+	<machine name="bokensha">
+		<description>Bokensha-tachi - Kenja no Yuigon</description>
+		<year>1987</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="kenja no yuigon 1.d88" size="530688" crc="ce8222f6" sha1="f4c45e154d5bc6b21185f9301a940e8654842bca" />
+		<rom name="kenja no yuigon 2.d88" size="538544" crc="842907a9" sha1="507d365648ea8c0392be1e80c3d2a3d700e984a5" />
+	</machine>
+	<machine name="bosco">
+		<description>Bosconian</description>
+		<year>1987</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="bosconian.d88" size="348848" crc="be8c44ce" sha1="65e9eba74ffde0823a74d15cecab645a4294788f" />
+	</machine>
+	<machine name="bshashsc">
+		<description>Bishoujo Shashinkan - Studio Cut</description>
+		<year>1987?</year>
+		<publisher>ハード (Hard)</publisher>
+		<rom name="studio cut (19xx)(hard)(jp).2d" size="327680" crc="b6f0148b" sha1="9c618d0eee0cb27d20316b75a195fedda8d10afe" />
+	</machine>
+	<machine name="btanuki">
+		<description>Batten Tanuki no Daibouken</description>
+		<year>1986</year>
+		<publisher>テクノソフト (Techno Soft)</publisher>
+		<rom name="batten tanuki.d88" size="346080" crc="9a14255f" sha1="953ac2be0b6bb262e396a294bde5aeef2d94f48d" />
+	</machine>
+	<machine name="byaku">
+		<description>Byakuya Monogatari - Winchester-ke no Matsuei</description>
+		<year>1988</year>
+		<publisher>イーストキューブ (East Cube)</publisher>
+		<rom name="byakuya1.d88" size="349392" crc="5812264d" sha1="4db4de9280e9579dda3f794173295873523d9cb0" />
+		<rom name="byakuya2.d88" size="348848" crc="d493790f" sha1="863dd90fa8ea59404a922b54099922f02e54bbfb" />
+		<rom name="byakuya3.d88" size="348848" crc="5ca007dd" sha1="77e0abc173c0dee9a3b446b4791124e9fb601f7c" />
+	</machine>
+	<machine name="carmine">
+		<description>Carmine X1</description>
+		<year>1987</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="carmine1.d88" size="374048" crc="dca5449f" sha1="7bcd1816b633ce9d2edc8762931cff673e041924" />
+		<rom name="carmine2.d88" size="380848" crc="dfd8e180" sha1="2bb085ab8fe285b2ce41f4a62d72bec16b00a726" />
+	</machine>
+	<machine name="casablan">
+		<description>Casablanca</description>
+		<year>1986</year>
+		<publisher>シンキングラビット (Thinking Rabbit)</publisher>
+		<rom name="casablanca a.d88" size="413296" crc="bbf765e5" sha1="d054a88b3f77f8a68f356a0a03610da2f57161c3" />
+		<rom name="casablanca b.d88" size="416688" crc="1f11b796" sha1="53df2cd5fe4736c55f186645d6b8291c8e739a9f" />
+	</machine>
+	<machine name="casgame1">
+		<description>Cassette Games Pack 1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="casgame1.d88" size="348848" crc="26e2cac3" sha1="4bd5081f42933a2288244091b46e06b64351af22" />
+	</machine>
+	<machine name="casgame2">
+		<description>Cassette Games Pack 2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="casgame2.d88" size="348848" crc="73fc260d" sha1="8ae457c4c947203c0fae69a90557c220ee425b17" />
+	</machine>
+	<machine name="chackn">
+		<description>Chack'n Pop</description>
+		<year>1985</year>
+		<publisher>ニデコム (Nidecom)</publisher>
+		<rom name="chackn.d88" size="348848" crc="257df7de" sha1="2bd62b1c1bdeacdeeef80d603b1e1b34a99cbaa0" />
+	</machine>
+	<machine name="cpm22">
+		<description>CP/M v2.2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cp_mv2.2.d88" size="348848" crc="68c42add" sha1="cdb4e7c9f38bd5e8f43866df5d7891bd0ec867df" />
+	</machine>
+	<machine name="cprowsp">
+		<description>Champion ProWres Special</description>
+		<year>1985</year>
+		<publisher>マイクロネット (Micronet)</publisher>
+		<rom name="champ_p.d88" size="348288" crc="25977c4c" sha1="fc53b372d4e6535c31db6a1140541c4f6b9f8b60" />
+	</machine>
+	<machine name="crimson">
+		<description>Crimson</description>
+		<year>1988</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="crimson (1988)(xtalsoft)(jp)(disk 1 of 3).d88" size="348848" crc="050b0fe6" sha1="05eb7831b328890291e79e9325009ea0415fb31d" />
+		<rom name="crimson (1988)(xtalsoft)(jp)(disk 2 of 3).d88" size="348848" crc="e2674825" sha1="4972e93bfe3dbe4e1b2f358df22f41a54126b234" />
+		<rom name="crimson (1988)(xtalsoft)(jp)(disk 3 of 3).d88" size="348848" crc="3eeaae89" sha1="460e405c18beac1593ee851d86a2d1dfe4315b34" />
+	</machine>
+	<machine name="crimsona">
+		<description>Crimson (alt Disk 1)</description>
+		<year>1988</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="crimsonb (disk 1).d88" size="348848" crc="26125d32" sha1="274dc32c55b678635a4b7cbabc334a6cd78dfe5c" />
+	</machine>
+	<machine name="csoldier">
+		<description>Cosmic Soldier</description>
+		<year>1985</year>
+		<publisher>工画堂スタジオ (Kogado Studio)</publisher>
+		<rom name="cosmics.d88" size="376928" crc="afa30003" sha1="a75324488debe364017d3414cdb2f06b1422b6c0" />
+	</machine>
+	<machine name="daisenr">
+		<description>Daisenryaku X1</description>
+		<year>1987</year>
+		<publisher>システムソフト (System Soft)</publisher>
+		<rom name="daisenryaku x1 map_disk.2d" size="327680" crc="1de291a6" sha1="ffa3e0e2db07c82d723187d66f25917562ff820a" />
+		<rom name="daisenryaku x1disk_a.2d" size="327680" crc="3108fd55" sha1="399dfe13569bb610a02597fc3bdffff4f14b805e" />
+	</machine>
+	<machine name="daisenra">
+		<description>Daisenryaku X1 (alt)</description>
+		<year>1987</year>
+		<publisher>システムソフト (System Soft)</publisher>
+		<rom name="daisenx1.d88" size="348848" crc="cf06fac8" sha1="19024c98bdd96842c8e035b7869de0df7ff03b39" />
+	</machine>
+	<machine name="daiva">
+		<description>Daiva Story 3: Trial of Nirvana</description>
+		<year>1987</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="daiva1.d88" size="348848" crc="9a4c6b41" sha1="e57e772e89dbafce891c6f14dbb4747eb9ade59a" />
+		<rom name="daiva2.d88" size="348848" crc="487b2157" sha1="306a2538d37f7d8e18376219e26cc67304b23aec" />
+	</machine>
+	<machine name="daivaa">
+		<description>Daiva Story 3: Trial of Nirvana (alt)</description>
+		<year>1987</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="daivaa1.d88" size="348304" crc="dfe64250" sha1="e3e2bc53ad128bfd42b41184d0fa616335328fcd" />
+		<rom name="daivaa2.d88" size="348848" crc="703fbdd8" sha1="1bf3067dfd7b25865178833a801144a59f7f5516" />
+	</machine>
+	<machine name="dalk">
+		<description>The Cave of Dalk</description>
+		<year>1990?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="the cave of dalk_original.d88" size="348848" crc="7aa80627" sha1="a26362d0e80ab3f7c30c1d1dcf88ea78e1a6f211" />
+		<rom name="the cave of dalk_x1.d88" size="348848" crc="2540f4f9" sha1="7cd598fe9ea3faebee64b899e73398e2ddb1da67" />
+	</machine>
+	<machine name="darkstrm">
+		<description>Darkstorm - Demon Crystal III</description>
+		<year>1988?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="darkstorm - demon crystal iii.2d" size="327680" crc="c48459d6" sha1="9ccac539f38cddfc4b7c5cee7a7bc8676790e272" />
+	</machine>
+	<machine name="davinci">
+		<description>Da Vinci</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="da vinci.d88" size="348304" crc="2fed7a78" sha1="ff92efd27e7bee2883b09bc219c3f5fcb80f4d08" />
+	</machine>
+	<machine name="dbbasic">
+		<description>db-BASIC</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="db-basic.2d" size="327680" crc="437e3774" sha1="5b67a1170a9480288f7ba341cfbbb1f8f588579f" />
+	</machine>
+	<machine name="dbuster">
+		<description>Dragon Buster</description>
+		<year>1987</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="dragon buster (19xx)(namco)(jp).2d" size="327680" crc="89507318" sha1="4a720dbf241d87e3c260022ddab930295af10498" />
+	</machine>
+	<machine name="dezalis">
+		<description>Dezalis</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="dezalis.2d" size="327680" crc="d9ba6eb6" sha1="6a6a564b2eabc35dbc1591abb8efcf6a9e98bd10" />
+	</machine>
+	<machine name="dezeni">
+		<description>Dezeni Land</description>
+		<year>1983?</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="dezeni land.d88" size="284752" crc="2502df21" sha1="454a351d00907bc439e7bf600355083bce582539" />
+	</machine>
+	<machine name="dezenia">
+		<description>Dezeni Land (?)</description>
+		<year>1983?</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="dezeni_l.d88" size="284752" crc="0d3a751e" sha1="8db16b328eca8eaffd631aa08a85212b198c6a4f" />
+	</machine>
+	<machine name="dezeniwl">
+		<description>Dezeni World</description>
+		<year>1986</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="dezeni_w.d88" size="271824" crc="702797b3" sha1="240ba477420b6045eba36612cb20e7fb3d1e9e68" />
+	</machine>
+	<machine name="diablo">
+		<description>Diablo</description>
+		<year>1988</year>
+		<publisher>ブローダーバンドジャパン (Brøderbund Japan)</publisher>
+		<rom name="diablo.d88" size="348848" crc="7c2da151" sha1="94c4c1c8940614f17d9e37f60f09d4b33f735ee0" />
+	</machine>
+	<machine name="dialide">
+		<description>Dialide</description>
+		<year>1989?</year>
+		<publisher>CATsoft</publisher>
+		<rom name="dialide_01.2d" size="327680" crc="cf25ac18" sha1="b06d6aba7fde74befcfb5b0e729bdfaf995e640a" />
+		<rom name="dialide_02.2d" size="327680" crc="0ab95d61" sha1="73f0648420fee619cec4ce79eea323aed8862c24" />
+	</machine>
+	<machine name="dialidea">
+		<description>Dialide (alt?)</description>
+		<year>1989?</year>
+		<publisher>CATsoft</publisher>
+		<rom name="dialide2.d88" size="348848" crc="c5c4041c" sha1="722289227a606e99cc26d210d0e904b46636cab3" />
+		<rom name="dialide.d88" size="348848" crc="ccf0c49c" sha1="1b55edcfe542663eff2587145b830810a4fc8e5e" />
+	</machine>
+	<machine name="dione">
+		<description>Dione</description>
+		<year>1987?</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="dione-1.d88" size="348848" crc="bb7a6bb2" sha1="02b561da7bb493b40e280c611f6775cb012785fa" />
+		<rom name="dione-2.d88" size="348848" crc="3217a3c8" sha1="0ecf44a858dc764809ad1a2e1eb779efc6ceb4f5" />
+	</machine>
+	<machine name="dkong3dg">
+		<description>Donkey Kong 3 - Dai Gyakushuu</description>
+		<year>1985</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="donkey kong 3 dai gyakushuu.d88" size="339648" crc="2fd68d39" sha1="cfe4c16b972ec00fc8e2380d1219bdf5d75fa11f" />
+	</machine>
+	<machine name="dokkin">
+		<description>Dokkin Minako Sensei</description>
+		<year>1988?</year>
+		<publisher>テクトハウス (Tect House)</publisher>
+		<rom name="minako (disk a).2d" size="327680" crc="847ffb04" sha1="56dc77544b700da9ad61c3b5259fbebde95d02a4" />
+		<rom name="minako (disk b).2d" size="327680" crc="cbb456eb" sha1="85dcab4b41a7305742c8266423bc23355dcc42b6" />
+	</machine>
+	<machine name="dome">
+		<description>The Dome</description>
+		<year>1988</year>
+		<publisher>システムサコム (System Sacom)</publisher>
+		<rom name="dome-1.d88" size="415840" crc="a73bb6b0" sha1="a060a4995729a15fff4d5c49462fffcce13e5114" />
+		<rom name="dome-2.d88" size="415840" crc="74b0332c" sha1="c057c9a0f988e4f03841e9b5b1d16d85f6ef467c" />
+		<rom name="dome-3.d88" size="415840" crc="92f3a1eb" sha1="fcb8142df55827f99bb25784b46cefb35cc100d7" />
+		<rom name="dome-4.d88" size="415840" crc="7ec45e74" sha1="601b47a5db17eeeebe2ddbb70d0733152158da65" />
+		<rom name="dome-5.d88" size="415840" crc="ea3da082" sha1="fe4ec4c48cf127e6ee88add39cb916ecda5bd5d0" />
+	</machine>
+	<machine name="donjuan">
+		<description>Don Juan</description>
+		<year>1984</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="donjuan.d88" size="348848" crc="41b5113c" sha1="f07c0ce9136e7e49b3c856c773a46fadd6ffe0e3" />
+	</machine>
+	<machine name="druaga">
+		<description>Tower of Druaga</description>
+		<year>1986</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="tower of druaga (19xx)(namco).2d" size="327680" crc="8bae2c5f" sha1="d0dd2b97ec4e17bfac70ae860fcbc430ce36074b" />
+	</machine>
+	<machine name="dside">
+		<description>D-Side - Lagrange L-2 Part II</description>
+		<year>1986</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="zzz-unk-d-side.d88" size="392368" crc="d77f7a6b" sha1="009908575c5e31e6d1c510b4600e2df5c5c15e25" />
+	</machine>
+	<machine name="dskanlzr">
+		<description>Expert X-1 Disk Analyzer</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zzz-unk-expertx1.2d" size="327680" crc="03017ab1" sha1="a1a0cf7690ff0c85c3980b2e60f11fbc880e89a5" />
+	</machine>
+	<machine name="dslayer">
+		<description>Dragon Slayer (Login Version)</description>
+		<year>1986?</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="dragon slayer.d88" size="415840" crc="b31b6641" sha1="ba4ebddb8ea9994bd21b5281a976eb20e0b7754b" />
+	</machine>
+	<machine name="eggyd">
+		<description>Eggy Demo</description>
+		<year>1985</year>
+		<publisher>ボーステック (Bothtec)</publisher>
+		<rom name="eggydemo.d88" size="348848" crc="abe1ee54" sha1="ea088af453003b04b67bc44b54661b6dece58f0a" />
+	</machine>
+	<machine name="elthlead">
+		<description>Elthlead</description>
+		<year>1987</year>
+		<publisher>NCS</publisher>
+		<rom name="elthlead senshi.d88" size="348848" crc="f30ced0e" sha1="aa9c9635f101037ce601fe094ef5f888b8c0ed3f" />
+	</machine>
+	<machine name="emono1">
+		<description>Utsukushiki Emono-Tachi 1</description>
+		<year>1987?</year>
+		<publisher>グレイト (Great)</publisher>
+		<rom name="emonotachi 1.2d" size="327680" crc="52d62c6b" sha1="0c2af1fb20943ddb872691b58c0951ab64d54f0c" />
+	</machine>
+	<machine name="euphory">
+		<description>Euphory</description>
+		<year>1988</year>
+		<publisher>システムサコム (System Sacom)</publisher>
+		<rom name="euphory.d88" size="382448" crc="891919bc" sha1="e46418234326b013bf2de68fc6acae2786ad44fc" />
+		<rom name="euphory_u.d88" size="2048" crc="38b964e0" sha1="1e815a391f8d7c2e7fe503bc64b8102e46e81c70" />
+	</machine>
+	<machine name="exoa2">
+		<description>Exoa II - Warroid</description>
+		<year>1985</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="exoa ii-warroid (1984)(ascii).2d" size="327680" crc="ebbf0a25" sha1="22fe5179e8350c60a3f411dd83dbfad8aa5561ca" />
+	</machine>
+	<machine name="expertx1">
+		<description>Expert X-1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zzz-unk-expertf1.2d" size="327680" crc="a9dc8d15" sha1="4f56d5c5e90654d811a3e41a69f3660af01ea0fc" />
+		<rom name="zzz-unk-expertf2.2d" size="327680" crc="01c39dd8" sha1="1f875fc69bf04e832a516b5610469dd5eddb9a22" />
+	</machine>
+	<machine name="extrahyp">
+		<description>Extra Hyper</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="extrahyper_data.d88" size="348848" crc="f0ef51bd" sha1="ead6d7e35a1a43f1a0e96a0b57d8f314ee424b4c" />
+		<rom name="extrahyper_system.d88" size="26800" crc="a69b99d1" sha1="d98eeb70fb4c8fecd08cffbb16ccb7187726c129" />
+	</machine>
+	<machine name="extrahypa">
+		<description>Extra Hyper (alt Data?)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="extrahyper_game.d88" size="348576" crc="4f579ef3" sha1="d2db498e13c51e8d1225254ad05a01a61a1ab29b" />
+	</machine>
+	<machine name="fairires">
+		<description>Faerie's Residence</description>
+		<year>1986?</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="fairiesa.2d" size="327680" crc="573c4145" sha1="9663371e9b31710e322658bbfd05d6cb603ec46e" />
+		<rom name="fairiesb.2d" size="327680" crc="97156c13" sha1="9edbedd72177756e8783e4a74918bd0ed7f045fa" />
+	</machine>
+	<machine name="fantsian">
+		<description>Fantasian X1</description>
+		<year>1985</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="fantsia.d88" size="347984" crc="82f0febf" sha1="82876fc26ccc00430b02f527d0c642585c735dee" />
+		<rom name="fantsiau.d88" size="380048" crc="42968404" sha1="f7903402a402ee54db3d14645b4eb4eef0afcf13" />
+	</machine>
+	<machine name="filemast">
+		<description>The File Master x1 (v0.8)</description>
+		<year>1987</year>
+		<publisher>Kyoto Media</publisher>
+		<rom name="file master x1, the v0.8 (1987)(kyoto media).2d" size="327680" crc="cc83176a" sha1="4610045f801b049baa6e71855f839f0e5d0b9038" />
+	</machine>
+	<machine name="fmdata">
+		<description>FM data</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zzz-unk-fm_data.d88" size="348848" crc="3c3e7e3a" sha1="9b113bf140e80a105c69422d780822970a32764d" />
+	</machine>
+	<machine name="frontlin">
+		<description>Front Line</description>
+		<year>19??</year>
+		<publisher>ニデコム (Nidecom) / タイトー (Taito)</publisher>
+		<rom name="frontline.d88" size="305872" crc="02089748" sha1="b86e5221c1199251f55d28c60a184850d8864e1a" />
+	</machine>
+	<machine name="fzone">
+		<description>Final Zone</description>
+		<year>1986</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="final zone 1.d88" size="416928" crc="43c0de82" sha1="267738187bda3c4d5c7eb67a50304af86ece12c2" />
+		<rom name="final zone 2.d88" size="417216" crc="b74d794a" sha1="bf67e28ac5ba18358d9b6eb5179ec8131a047938" />
+	</machine>
+	<machine name="fzonea">
+		<description>Final Zone (alt)</description>
+		<year>1986</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="f_zone_a.d88" size="420192" crc="fb52dcb2" sha1="c26133233c520535f1869c68317fc6cb347945e1" />
+		<rom name="f_zone_b.d88" size="436640" crc="544c71ce" sha1="e84502e2c9344df02f8aef3617f7b88b3d051076" />
+	</machine>
+	<machine name="gaiamons">
+		<description>Gaia no Monshou</description>
+		<year>1987</year>
+		<publisher>NCS</publisher>
+		<rom name="gaia (19xx)(-)(jp)(disk 1 of 2).2d" size="327680" crc="070d7587" sha1="f31d55f5e45de9f9e7a00e7e9c591dbf6e6ac678" />
+		<rom name="gaia (19xx)(-)(jp)(disk 2 of 2).2d" size="327680" crc="2164d869" sha1="df7d5a536d0a0002463814ee1c97851a24322098" />
+	</machine>
+	<machine name="gaiflame">
+		<description>Gai Flame</description>
+		<year>1988</year>
+		<publisher>NCS</publisher>
+		<rom name="gaiflame1.d88" size="348848" crc="64d87757" sha1="8e194aee99fef686fe807af88a52d4e99ae258a8" />
+		<rom name="gaiflame2.d88" size="348848" crc="57e869b6" sha1="5c5ea55b1125e213d8a5b387a6fa79466f3457eb" />
+	</machine>
+	<machine name="galaga">
+		<description>Galaga</description>
+		<year>198?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="galaga.2d" size="327680" crc="e78a43a0" sha1="92dd612cd53be19e34405f2ae80a211cdb02bb51" />
+	</machine>
+	<machine name="galaxian">
+		<description>Galaxian X-1</description>
+		<year>198?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="galaxian x-1 (19xx)(namco).2d" size="327680" crc="0d2f49dc" sha1="7529a5483f526ee9318d4eeb08850f8cd39f3c77" />
+	</machine>
+	<machine name="galforce">
+		<description>Gall Force - Eternal Story</description>
+		<year>1987</year>
+		<publisher>スキャップトラスト (Scap Trust)</publisher>
+		<rom name="gall force - eternal story (19xx)(-)(jp)(disk 1 of 3).d88" size="414992" crc="f4037636" sha1="61ad2cb8c591997b9504f38f237070d2235aecaa" />
+		<rom name="gall force - eternal story (19xx)(-)(jp)(disk 2 of 3).d88" size="416688" crc="5423190b" sha1="58dbf990dd682bb561349e82df5c5accc56dca9e" />
+		<rom name="gall force - eternal story (19xx)(-)(jp)(disk 3 of 3).d88" size="416688" crc="6d04e66c" sha1="d93086f0f704684a15fa5d292d32f76f1d4cd4df" />
+	</machine>
+	<machine name="gambler2">
+		<description>Gambler Jikochuushinha 2</description>
+		<year>1987</year>
+		<publisher>ゲームアーツ (Game Arts)</publisher>
+		<rom name="gyajiko2.d88" size="348848" crc="81a7c4eb" sha1="71c15c75f46810ac8159b4784a4500c54e85b198" />
+	</machine>
+	<machine name="gambler">
+		<description>Gambler Jikochuushinha</description>
+		<year>1987</year>
+		<publisher>ゲームアーツ (Game Arts)</publisher>
+		<rom name="gyajiko1.d88" size="348848" crc="5063936e" sha1="76649c85bf4b7bd97428bacfa455ec1e33e43723" />
+	</machine>
+	<machine name="game01">
+		<description>Game 01</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_01.2d" size="327680" crc="6d98ff9a" sha1="481888cd82c2eccc5cd4057e4204b0ea87adeb55" />
+	</machine>
+	<machine name="game02">
+		<description>Game 02</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_02.2d" size="327680" crc="dba36517" sha1="e2ea769253024195e1b362abf7146559b82200b2" />
+	</machine>
+	<machine name="game03">
+		<description>Game 03</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_03.2d" size="327680" crc="c07d519f" sha1="78f8891c6a2d79471ff7130a0bb79e1d1cf3ad7d" />
+	</machine>
+	<machine name="game04">
+		<description>Game 04</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_04.2d" size="327680" crc="b23ab1af" sha1="89db946ef4ac23d9fc539766381aa1eca8ad7c6f" />
+	</machine>
+	<machine name="game05">
+		<description>Game 05</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_05.2d" size="327680" crc="613941ef" sha1="62289383aa4ab49034db20dbeab23dbbbd249cc2" />
+	</machine>
+	<machine name="game6">
+		<description>Game Pack 6</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game6.2d" size="327680" crc="8d5c79b5" sha1="3400a20f9d4f824f0e754287912135cb90a15958" />
+	</machine>
+	<machine name="game06">
+		<description>Game 06</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_06.2d" size="327680" crc="b89ac1fd" sha1="1c354d10778a8f40a6efaf0d0b7aa3e6cd40fffb" />
+	</machine>
+	<machine name="game07">
+		<description>Game 07</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_07.2d" size="327680" crc="a0d6c9f9" sha1="41e3357fef70afab316303e0d558a6690ac5884d" />
+	</machine>
+	<machine name="game08">
+		<description>Game 08</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_08.2d" size="327680" crc="f6c0ff72" sha1="de49d9efda165e19a3a044ff43c90d014d25568b" />
+	</machine>
+	<machine name="game09">
+		<description>Game 09</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_09.2d" size="327680" crc="53d85caa" sha1="4c56ba2567e224e517ac6ee9a54df7f74911b71b" />
+	</machine>
+	<machine name="game10">
+		<description>Game 10</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_10.2d" size="327680" crc="9b745227" sha1="50fc0d71702c8a04b33562e10dcb8b0ae7cdf52f" />
+	</machine>
+	<machine name="game11">
+		<description>Game 11</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_11.2d" size="327680" crc="c4c5f3f0" sha1="37662737785829a297abc86c379fa50300f920ed" />
+	</machine>
+	<machine name="game12">
+		<description>Game 12</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_12.2d" size="327680" crc="f6a508a4" sha1="496e16ce9cfa7b6771163333db8d7aabe7ecf54b" />
+	</machine>
+	<machine name="game13">
+		<description>Game 13</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_13.2d" size="327680" crc="da2ecb04" sha1="5032638e71e23f7ecbd4ceed6c9a47a4b3a6851d" />
+	</machine>
+	<machine name="game14">
+		<description>Game 14</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_14.2d" size="327680" crc="8a3f6bb1" sha1="163ae5373ac388488bae396f94f95997ef22330c" />
+	</machine>
+	<machine name="game15">
+		<description>Game 15</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_15.2d" size="327680" crc="0f96a21b" sha1="366e742df63164d64f97545931a9f30755448f36" />
+	</machine>
+	<machine name="game16">
+		<description>Game 16</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_16.2d" size="327680" crc="0683b075" sha1="3664ae8b6b5120c3871e0abc10055df42b58552d" />
+	</machine>
+	<machine name="game17">
+		<description>Game 17</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_17.2d" size="327680" crc="2c3b1b78" sha1="616fb20bed8332d6ea315ac80125f2223ceb3fea" />
+	</machine>
+	<machine name="game18">
+		<description>Game 18</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_18.2d" size="327680" crc="7f3985a3" sha1="111f1e4ecdc69073814bd16442559ce30a4f1c0e" />
+	</machine>
+	<machine name="game19">
+		<description>Game 19</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_19.2d" size="327680" crc="68d4493c" sha1="7e163be4b494d3ba16744a5f884f94ed42bbc849" />
+	</machine>
+	<machine name="game20">
+		<description>Game 20</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_20.2d" size="327680" crc="0eb7a5b3" sha1="8c5399136569aad47c622644070b6cc68d47e443" />
+	</machine>
+	<machine name="gamee">
+		<description>Game E</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_e.2d" size="327680" crc="8a3f6bb1" sha1="163ae5373ac388488bae396f94f95997ef22330c" />
+	</machine>
+	<machine name="gameea">
+		<description>Game E (alt)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game_e (a).2d" size="327680" crc="37517fa3" sha1="0bb9b80153398e12ab48e6c9f77c747be60f5b90" />
+	</machine>
+	<machine name="gamepck1">
+		<description>Game Pack 1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="gamepack1.2d" size="327680" crc="29f3f564" sha1="4c87621161fa506da982be5e6f4a640d206ddd72" />
+	</machine>
+	<machine name="gamepck2">
+		<description>Game Pack 2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="gamepack2.2d" size="327680" crc="637ef194" sha1="2c6a0c9d7ab19ba8d9414712656c0c4cb4f5493b" />
+	</machine>
+	<machine name="gamepck3">
+		<description>Game Pack 3</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="gamepack3.2d" size="327680" crc="0eb7a5b3" sha1="8c5399136569aad47c622644070b6cc68d47e443" />
+	</machine>
+	<machine name="gamepck4">
+		<description>Game Pack 4</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="gamepack4.2d" size="327680" crc="226ffdc4" sha1="5cc1bec2a5982e0c496719ad267c0631dbb0b056" />
+	</machine>
+	<machine name="gamepk1">
+		<description>GAMEPK1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="gamepk1.2d" size="327680" crc="e9f5d4a3" sha1="e4f77849b55aabfebf3cb83e128d8a3bba683f05" />
+	</machine>
+	<machine name="gamepk2">
+		<description>GAMEPK2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="gamepk2.2d" size="327680" crc="68d4493c" sha1="7e163be4b494d3ba16744a5f884f94ed42bbc849" />
+	</machine>
+	<machine name="gamma5">
+		<description>Gamma 5</description>
+		<year>1986</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="gamma5.2d" size="327680" crc="23c1ba19" sha1="4040b902c7657598eb4ccb9e01f3ccd031f75ac9" />
+	</machine>
+	<machine name="gandhara">
+		<description>Gandhara</description>
+		<year>1987</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="gandhara a.d88" size="348848" crc="a5caa4e3" sha1="9717c0c861e8ffb0da59c216ba25bc9278f118df" />
+		<rom name="gandhara b.d88" size="348848" crc="9b2123b5" sha1="40de6a3c81e3aaea6012fb9169e865b09083b90b" />
+	</machine>
+	<machine name="gatlabyr">
+		<description>Gate of Labyrinth</description>
+		<year>1987?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="gate of labyrinth (1987)(ymcat).2d" size="327680" crc="4488121c" sha1="c9bddf91d51cbc124fd1a580a2c69b003d2bdd2a" />
+	</machine>
+	<machine name="gilgasor">
+		<description>Gilgamesh Sorcerian</description>
+		<year>1990</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="sorcerian gilgmsh1.d88" size="415840" crc="5d01cd50" sha1="57bdb6226a8ab6600b22b93a011f64edce507d5b" />
+		<rom name="sorcerian gilgmsh2.d88" size="415840" crc="a13ed601" sha1="8fdbeb6606655e96dd6b3191472b955d779da2a9" />
+	</machine>
+	<machine name="golques">
+		<description>Golques</description>
+		<year>1987</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="golques1.d88" size="348848" crc="40ac983c" sha1="21fb7fc3433dc7798d1a87b6f5e93a65e861b7c1" />
+		<rom name="golques2.d88" size="348848" crc="7d985e6d" sha1="0b732983f04df51f88484c1b31d108b3bb702d99" />
+	</machine>
+	<machine name="goonies">
+		<description>The Goonies</description>
+		<year>1986</year>
+		<publisher>コナミ (Konami)</publisher>
+		<rom name="goonies, the (1986)(konami).2d" size="327680" crc="fcc2c759" sha1="a69c74f0fa287eca7cafdc77495877add5ec4b88" />
+	</machine>
+	<machine name="gradius">
+		<description>Gradius</description>
+		<year>1987</year>
+		<publisher>コナミ (Konami)</publisher>
+		<rom name="gradius (19xx)(konami).2d" size="327680" crc="7314366b" sha1="22c8083dfc59e97cacb52001d68999e0338f6ab8" />
+	</machine>
+	<machine name="gradiusa">
+		<description>Gradius (alt)</description>
+		<year>1987</year>
+		<publisher>コナミ (Konami)</publisher>
+		<rom name="gradius.d88" size="348848" crc="d773ad0e" sha1="17fd1e80d7b5ea0d9ccd4c4776dc75d0c221cf22" />
+	</machine>
+	<machine name="gradiusb">
+		<description>Gradius (alt 2)</description>
+		<year>1987</year>
+		<publisher>コナミ (Konami)</publisher>
+		<rom name="gradius.2d" size="327680" crc="79a4fe41" sha1="58049302219bd22f3d7c164ec1b94404ae01c04f" />
+	</machine>
+	<machine name="gradiusk">
+		<description>Gradius Kai</description>
+		<year>19??</year>
+		<publisher>コナミ (Konami)</publisher>
+		<rom name="gra_kai.d88" size="348848" crc="008bada3" sha1="b19eee31909e555e8f96900bcf49469e1891cd37" />
+	</machine>
+	<machine name="graphtol">
+		<description>Graphic Tool</description>
+		<year>19??</year>
+		<publisher>シャープ (Sharp) ~ Zeit</publisher>
+		<rom name="graphic tool.d88" size="1089776" crc="97817d8a" sha1="3a5dbdc20584d2a7b25803ffc308e89ee0ff5f42" />
+	</machine>
+	<machine name="gruppe">
+		<description>Gruppe</description>
+		<year>1985</year>
+		<publisher>SPS</publisher>
+		<rom name="gruppe.d88" size="348848" crc="a50dfd33" sha1="551749d2ec4deb3919f2111d234450fd4f90d54a" />
+	</machine>
+	<machine name="gyrodine">
+		<description>Gyrodine</description>
+		<year>1986</year>
+		<publisher>ニデコム (Nidecom)</publisher>
+		<rom name="gyrodine.d88" size="349648" crc="ff88e87c" sha1="4ee3138fce73e4dda2446ce1359d9e87011fba96" />
+	</machine>
+	<machine name="hajafuin">
+		<description>Haja no Fuuin</description>
+		<year>1986</year>
+		<publisher>工画堂スタジオ (Kogado Studio)</publisher>
+		<rom name="haja no fuuin (19xx)(kgd software productions)(jp).2d" size="327680" crc="0cc7e3ac" sha1="4bce058304f10cdfed23e4ba4e434c2a124b1094" />
+		<rom name="user disk.d88" size="348848" crc="1b004277" sha1="b325e950a5ad275528237eb421b021bf1db27849" />
+	</machine>
+	<machine name="hayato">
+		<description>Hayato</description>
+		<year>1987</year>
+		<publisher>タケル (Takeru)</publisher>
+		<rom name="hayatoa.d88" size="348848" crc="33935c73" sha1="17d59dd9b05996e7f7cef84789b136e383a96b72" />
+		<rom name="hayatob.d88" size="348848" crc="bbce5e88" sha1="d27a0cab55f321e7d255354b518460def0eb7eda" />
+	</machine>
+	<machine name="herzog">
+		<description>Herzog</description>
+		<year>1988</year>
+		<publisher>テクノソフト (Techno Soft)</publisher>
+		<rom name="herzog.d88" size="415840" crc="92b7eaf1" sha1="0c56ffbb40672773eae72628db4a38a9437fb294" />
+	</machine>
+	<machine name="hfox2">
+		<description>Hurry Fox - Yuki no Maou hen</description>
+		<year>1986</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="hfoxmaoa.d88" size="348848" crc="c55429b5" sha1="15f8906fd6a100528848bfd887b84c9379849ee3" />
+		<rom name="hfoxmaob.d88" size="348848" crc="1666a385" sha1="bc5995af18a06b9da734a85557c0ed907f5baca6" />
+	</machine>
+	<machine name="hfox">
+		<description>Hurry Fox X1</description>
+		<year>1985</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="hurry fox.d88" size="348848" crc="493c9699" sha1="0fa37d988d20dd698d096025b645994b874ca8cb" />
+	</machine>
+	<machine name="hfoxa">
+		<description>Hurry Fox X1 (alt)</description>
+		<year>1985</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="hfox.d88" size="348848" crc="d4731ad9" sha1="00604fa48d3f45234b9d12d9f2df46baa8a3e2b3" />
+	</machine>
+	<machine name="hokuto">
+		<description>Hokuto no Ken</description>
+		<year>1986</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="hokuto_disk1.d88" size="348848" crc="81427baa" sha1="90e6d835e32b8329f08cc97e71d6345e72d6de8e" />
+		<rom name="hokuto_disk2.d88" size="352928" crc="ad2831c2" sha1="e337b8f8139a82a754ee592e6f7c43a42c0cdc7d" />
+	</machine>
+	<machine name="hotdog">
+		<description>Hotdog</description>
+		<year>1985</year>
+		<publisher>ボーステック (Bothtec)</publisher>
+		<rom name="hotdog.d88" size="348848" crc="544c507b" sha1="49f6bb0581c79f6c5336085eadad9ec05887acb9" />
+	</machine>
+	<machine name="hubasic1">
+		<description>HuBASIC CZ-8FB01 (v1.0, Disk vers.)</description>
+		<year>19??</year>
+		<publisher>シャープ (Sharp)</publisher>
+		<rom name="8fb01v10.2d" size="327680" crc="f567794d" sha1="38cda7667d3ba9c5d51161f6b0d2f500ec1947b7" />
+	</machine>
+	<machine name="hubasic2">
+		<description>HuBASIC CZ-8FB01 (v2.0, Disk vers.)</description>
+		<year>19??</year>
+		<publisher>シャープ (Sharp)</publisher>
+		<rom name="8fb01v20.d88" size="347488" crc="21f89c4a" sha1="709faeaba3a9ae5524a1c1650f5480543bce2e2e" />
+	</machine>
+	<machine name="hydlide2a">
+		<description>Hydlide II - Shine of Darkness (alt)</description>
+		<year>1985</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="game.d88" size="348848" crc="aba63500" sha1="7ec04863fb6b7659348e0f3bbeccfe2d35db169b" />
+		<rom name="user.d88" size="348848" crc="8349e963" sha1="77bef6b513f8f7109a35774bacd1365e194b112e" />
+	</machine>
+	<machine name="hydlide2b">
+		<description>Hydlide II - Shine of Darkness (alt 2)</description>
+		<year>1985</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlide2bu.d88" size="348848" crc="c18dea85" sha1="db11c27c85c758c0ac12287826d9667c88851415" />
+	</machine>
+	<machine name="hydlide2">
+		<description>Hydlide II - Shine of Darkness</description>
+		<year>1985</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlide2.d88" size="348848" crc="e5127048" sha1="6e9b8ad2b6ef674d5a03a5f2bd1ccd238765a3ca" />
+		<rom name="hydlide2u.d88" size="348848" crc="fb0cd3a5" sha1="05026c6cd41d4a867eb3e901740e0d19fb8ddf32" />
+	</machine>
+	<machine name="hydlide3a">
+		<description>Hydlide 3 - The Space Memories (alt)</description>
+		<year>1988</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlid3aa.d88" size="392368" crc="8a54c5a2" sha1="b56d1952dd81dec1ac110b98ed87dd3cb4434261" />
+		<rom name="hydlid3au.d88" size="393216" crc="8bf178e1" sha1="b5654c6abd1930b3ca1bd9661beaafbd5751c614" />
+	</machine>
+	<machine name="hydlide3b">
+		<description>Hydlide 3 - The Space Memories (alt 2)</description>
+		<year>1988</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlide 3 - space memories, the (19xx)(-)(disk 2 of 4).d88" size="392368" crc="a086e570" sha1="330e658a81d3c5517c5a21520757577b175d28c4" />
+		<rom name="hydlide 3 - space memories, the (19xx)(-)(disk 4 of 4).d88" size="353472" crc="1591a945" sha1="8a8fd86ea9e49f47efea4751ff84c84494177c68" />
+	</machine>
+	<machine name="hydlide3">
+		<description>Hydlide 3 - The Space Memories</description>
+		<year>1988</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlid3a.d88" size="392368" crc="9fe31b0f" sha1="b075776790b10c8d1e3c3f7c8d45f4004dd4af49" />
+		<rom name="hydlid3b.d88" size="393216" crc="a3cc2840" sha1="dfa0b4e7a2d90b9498009746a16ca41680a7f292" />
+		<rom name="hydlid3u.d88" size="393216" crc="6477b5ef" sha1="1bc9cf5110566266de0c41fc11dfc8d062146748" />
+	</machine>
+	<machine name="hydlide">
+		<description>Hydlide</description>
+		<year>1985</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlide.d88" size="353472" crc="1591a945" sha1="8a8fd86ea9e49f47efea4751ff84c84494177c68" />
+	</machine>
+	<machine name="hydlidea">
+		<description>Hydlide (alt)</description>
+		<year>1985</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="hydlidea.d88" size="353472" crc="95eeee72" sha1="d17f75b97126e28692fdd7ed0cfc4eee52097539" />
+	</machine>
+	<machine name="hyperdsk">
+		<description>Hyper Disk Monitor</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="hyper disk monitor.d88" size="346400" crc="ccb4afc0" sha1="5e5226eb667c9597a34c4269b2ddd0470efbf755" />
+	</machine>
+	<machine name="hyprol84">
+		<description>Hyper Olympics '84</description>
+		<year>1984?</year>
+		<publisher>デービーソフト (dB-Soft)?</publisher>
+		<rom name="hyper olympic 84.2d" size="327680" crc="a4b2f2f5" sha1="064ed54ce40487f07d805ce04b7007e8cb4088b1" />
+	</machine>
+	<machine name="irohanih">
+		<description>Irohanihoheto</description>
+		<year>1988?</year>
+		<publisher>全流通 (Zenryutsu)? / Angel?</publisher>
+		<rom name="irohamioedo (19xx)(-)(jp)(disk 1 of 2).d88" size="413296" crc="ded12e38" sha1="cfffdea2f2445d6996cc24014c9af81f866f59d9" />
+		<rom name="irohamioedo (19xx)(-)(jp)(disk 2 of 2).d88" size="416688" crc="659f6d64" sha1="386ccf1e36e4ceebf5d29cb2fd37020f1e3e3801" />
+	</machine>
+	<machine name="ishinara">
+		<description>Ishin no Arashi</description>
+		<year>1989</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="ishin_a.d88" size="380864" crc="b7247c22" sha1="bfa79e8cf49bc4cd9eb5aed2fc2ca6027890f4c5" />
+		<rom name="ishin_b.d88" size="380848" crc="385e9a88" sha1="f4eaeccd2c80768367bbc985e76d13f701078525" />
+		<rom name="ishin_c.d88" size="380848" crc="9b5d5072" sha1="0c91b2a0d991f7d1e80d967432e85eb08933635a" />
+	</machine>
+	<machine name="issural">
+		<description>The Issural - Story of Calvan</description>
+		<year>1988</year>
+		<publisher>Freedom Soft</publisher>
+		<rom name="issural - story of calvan, the (1988)(freedom soft)(jp)(disk 1 of 2).2d" size="327680" crc="d7956fad" sha1="4a49154375e102eca4c27ffb0cb3b581f2d06764" />
+		<rom name="issural - story of calvan, the (1988)(freedom soft)(jp)(disk 2 of 2).2d" size="327680" crc="d76ef05c" sha1="e92995790bd02e585a700ada04cb6b7dfbfec315" />
+	</machine>
+	<machine name="jesus">
+		<description>Jesus</description>
+		<year>1987</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="jesus_1.d88" size="367616" crc="0c27763d" sha1="54833ea2cc0bad516aad9e4a7cb723a7edf5f8e6" />
+		<rom name="jesus_2.d88" size="348848" crc="87eab1e7" sha1="b82f423f66188db1498f1c904d6b335ba6ddff15" />
+		<rom name="jesus_3.d88" size="348848" crc="ba4a6d72" sha1="f098d2ef3097057f937b7e60bbb983e6290e6ab1" />
+	</machine>
+	<machine name="jesusd">
+		<description>Jesus (Demo)</description>
+		<year>1987</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="jesus-1.d88" size="367888" crc="e3d420c0" sha1="8b38eb3a8240c31fcef0550307ab21d7540cf06a" />
+		<rom name="jesus-2.d88" size="348848" crc="5e125051" sha1="eac0c464d902a5507907f92a6d2cef28bd0c18ff" />
+	</machine>
+	<machine name="jetterm">
+		<description>Jet Turbo Terminal (v1.1)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="jet turbo terminal ver1.1.d88" size="379264" crc="7a423e74" sha1="68103847d1ddd1fce7af915038103ce0502b47aa" />
+	</machine>
+	<machine name="jodanos">
+		<description>Jodan-OS</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="jodan.d88" size="348848" crc="3b1ceebf" sha1="a02029058b5c0d20c3ae08e0b2c6da869bed903c" />
+	</machine>
+	<machine name="jodanosa">
+		<description>Jodan-OS (alt?)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="jodan-dos.2d" size="327680" crc="1713d1a0" sha1="f24bbe51e84e9b8ce915bee73be57488b414b11d" />
+	</machine>
+	<machine name="jodanpk1">
+		<description>JODANPK1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="jodanpk1.d88" size="348848" crc="4eaf4e99" sha1="1ce7bd45b9857bcee792884d97fcc490ab6cdda5" />
+	</machine>
+	<machine name="jotunn">
+		<description>Jotunn</description>
+		<year>1988</year>
+		<publisher>ザインソフト (Xain Soft)</publisher>
+		<rom name="jotunn-a.d88" size="348848" crc="e6e9b297" sha1="b26f26220efbf13995ed261ca48fbddca99a892e" />
+		<rom name="jotunn-b.d88" size="348848" crc="0184d7b4" sha1="e87c7c05d7b0a06c7994f2676557815c92a9a6d4" />
+	</machine>
+	<machine name="kaleidos">
+		<description>Kaleidoscope</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="kaleid-1.d88" size="392368" crc="0d277fb1" sha1="624f95de386289d45e107f8d14760a0bd336ea52" />
+		<rom name="kaleid-s.d88" size="392368" crc="c0b8b7c7" sha1="ead424de83dabd7a9a5cad574a2c838e4632da31" />
+	</machine>
+	<machine name="karuizaw">
+		<description>Karuizawa Yuukai Annai</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="karuizawa yukai annai.2d" size="327680" crc="b246d81c" sha1="c9a0e24fb0ef333bcf3018f1578bee9b42b2efd2" />
+	</machine>
+	<machine name="kingkngt">
+		<description>King's Knight Special</description>
+		<year>1987</year>
+		<publisher>スクウェア (Square)</publisher>
+		<rom name="kknight1.d88" size="348848" crc="0a5c7f51" sha1="62a1c17a421fdd201e61cff5a10da969ff7c486c" />
+		<rom name="kknight2.d88" size="348848" crc="39a7d294" sha1="2b8f91bd72a8e7e7929c9fd2cd7c662d82607774" />
+	</machine>
+	<machine name="kissmurd">
+		<description>Kiss of Murder - Satsui no Seppun</description>
+		<year>1987</year>
+		<publisher>リバーヒルソフト (Riverhill Software)</publisher>
+		<rom name="satsui no seppun.d88" size="415840" crc="4e15f9dd" sha1="327961bce05e487aa2a4a13ed4423cd21edbe79a" />
+	</machine>
+	<machine name="knither">
+		<description>Knither - Demon Crystal II</description>
+		<year>1987?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="knither.2d" size="327680" crc="c64e3046" sha1="9a26bd5b299f6890a847a9d04ced8e686ab26a94" />
+	</machine>
+	<machine name="kohakuir">
+		<description>Kohakuiro no Yuigon - Seiyou Karuta Renzoku Satsujin Jiken</description>
+		<year>1988</year>
+		<publisher>リバーヒルソフト (Riverhill Software)</publisher>
+		<rom name="kohaku1.d88" size="415840" crc="b3bbee13" sha1="d9d989427ddeb37c8e0d348d7b278569bc169fa5" />
+		<rom name="kohaku2.d88" size="415840" crc="d0b91e08" sha1="e892fa5065ff64a2d528a461a72385741f6dac78" />
+		<rom name="kohaku3.d88" size="415856" crc="e8d9100d" sha1="c8b39ec0974158e6d4e50bac64c5414a837bb864" />
+		<rom name="kohaku4.d88" size="415072" crc="7d202c23" sha1="d9765f35fe6cadda60039c65844878dc6e524979" />
+	</machine>
+	<machine name="kudokika">
+		<description>Kudokikata Oshiemasu</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="disk a.2d" size="327680" crc="d3eb3603" sha1="9b6a480fdd39a471ed602aa07f7323df345699dc" />
+		<rom name="disk b.2d" size="327680" crc="81ac150e" sha1="89b9f95dc284e116f92b9f408b640b2e8c570705" />
+	</machine>
+	<machine name="kugyokud">
+		<description>Kugyokuden</description>
+		<year>1986</year>
+		<publisher>テクノソフト (Techno Soft)</publisher>
+		<rom name="ku gyoku den a.d88" size="348848" crc="53de7ada" sha1="ecd020fce0f35fc11f5d11d21a0537dc19a6aaa7" />
+		<rom name="ku gyoku den b.d88" size="348576" crc="86988be6" sha1="49b7ddd67e0d849281e6fb15bf518aa00d0029c8" />
+	</machine>
+	<machine name="kugyokuda">
+		<description>Kugyokuden (alt)</description>
+		<year>1986</year>
+		<publisher>テクノソフト (Techno Soft)</publisher>
+		<rom name="kugyokuda.d88" size="348848" crc="5731aeaa" sha1="a2572e660319c7744dcfada26b8e0d79ccb2d1f1" />
+	</machine>
+	<machine name="labyrint">
+		<description>Labyrinth</description>
+		<year>1986?</year>
+		<publisher>パックインビデオ (Pack-in Video)</publisher>
+		<rom name="labyrintha.d88" size="348848" crc="7e56f2d1" sha1="199a6a7fe3bf6689069a979cf111133f0c7dfb67" />
+		<rom name="labyrinthb.d88" size="348848" crc="7acf62d0" sha1="37871e38fc84f4dcd18dcc9ca2841ff04f6cbe20" />
+	</machine>
+	<machine name="lagrange">
+		<description>Lagrange L-2 - Escape from the Space Colony</description>
+		<year>1985</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="zzz-unk-lagrange.d88" size="349120" crc="d0cda086" sha1="edf6e03b7a241939ca44ecc4bc51b6f97fb245a1" />
+	</machine>
+	<machine name="laplace">
+		<description>Laplace no Ma</description>
+		<year>1987</year>
+		<publisher>ハミングバード (HummingBird)</publisher>
+		<rom name="disk1.d88" size="421040" crc="1bd1fcee" sha1="79d71844a34aed3e88f8fed8e2ea87b7c2a37e8c" />
+		<rom name="disk2.d88" size="415840" crc="42670edc" sha1="98ec24213a6c170b79136150006c2b93db0b3fe8" />
+		<rom name="disk3.d88" size="416688" crc="7aa2c5b4" sha1="e7263df70443790965e70b8df38b8119e9442944" />
+	</machine>
+	<machine name="laptick">
+		<description>Laptick</description>
+		<year>1985</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="laptick.d88" size="349136" crc="f0809c85" sha1="e9652972d6492acbeb9551b259cf85d6e1b2cbf6" />
+	</machine>
+	<machine name="lastarmg">
+		<description>Last Armageddon</description>
+		<year>1988</year>
+		<publisher>ブレイングレイ (Brain Gray)</publisher>
+		<rom name="diska.d88" size="425392" crc="6c238b5c" sha1="932b71419f859553a28ad2dd0f924bb97349dd49" />
+		<rom name="diskb.d88" size="425392" crc="ff80f144" sha1="fbd0ebbcc5447124b889ab0076340c69c79e510f" />
+		<rom name="diskc.d88" size="425392" crc="f784b936" sha1="72a2fe351c5df26e67e6aaa99293123f07c65afb" />
+		<rom name="diskd.d88" size="425392" crc="0b6b0a54" sha1="cd3974c218d52344d982c1bf134810a6276bc468" />
+		<rom name="diske.d88" size="425392" crc="a2231d69" sha1="562d6d2fd64af5fe7b7ee22b51108fbe413fb625" />
+		<rom name="diskf.d88" size="425392" crc="82cb86f5" sha1="f53c570465972232033d4e335f2a4562fc634f04" />
+		<rom name="diskg.d88" size="425392" crc="68ae46aa" sha1="67278343a1c78f46b0f49d566897eb5ad419afdd" />
+	</machine>
+	<machine name="lastwar">
+		<description>Last War</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="lastwar.d88" size="349888" crc="ccd75715" sha1="811b8b37457e7885b04c435ef8d5d845f213700e" />
+	</machine>
+	<machine name="lasvegas">
+		<description>Las Vegas</description>
+		<year>1987</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="lasveg1.d88" size="348848" crc="8274e66a" sha1="103fff2aba73d430f26ec77582cdd13e15423799" />
+		<rom name="lasveg2.d88" size="348848" crc="0160028c" sha1="db6272a189e9f40529cd4d04e61fc48f4894eca6" />
+		<rom name="lasveg3.d88" size="348848" crc="487bb622" sha1="6b276482352fa381ec91c4c47e730a455963d34b" />
+	</machine>
+	<machine name="ldrun">
+		<description>Lode Runner</description>
+		<year>1985</year>
+		<publisher>ソフトプロ (Soft Pro)</publisher>
+		<rom name="lode runner (1984)(broderbund).d88" size="405664" crc="4917241d" sha1="addbbbb28c0a5f361a4533a26ee82b29aa57a200" />
+	</machine>
+	<machine name="legend">
+		<description>Legend</description>
+		<year>1987</year>
+		<publisher>クエイザーソフト (Quasar Soft)</publisher>
+		<rom name="legend-a (quasarsoft).d88" size="348848" crc="73f4012b" sha1="a63a3eab953cd2241f688d1e97be0fb4d298c76a" />
+		<rom name="legend-b (quasarsoft).d88" size="348848" crc="82bbbac1" sha1="e2b88780da40dcd878dca1b730e4fabb29da6a1d" />
+	</machine>
+	<machine name="legkage">
+		<description>Kage no Densetsu - The Legend of Kage</description>
+		<year>1987</year>
+		<publisher>ニデコム (Nidecom)</publisher>
+		<rom name="legend of kage.d88" size="348848" crc="1b4fd2e1" sha1="ba078d57c1d544dedecd5ebe358d346015724ac0" />
+	</machine>
+	<machine name="lizard">
+		<description>Lizard</description>
+		<year>1984?</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="lizard.d88" size="346032" crc="e0df6f30" sha1="eb4875b56604ba1a6300576de606676cd382aaf1" />
+	</machine>
+	<machine name="lostpow">
+		<description>Lost Power</description>
+		<year>1986</year>
+		<publisher>ウィンキーソフト (Winky Soft)</publisher>
+		<rom name="disk_a.2d" size="327680" crc="f3e360fb" sha1="598be1cf51d967d73f921d46f9c89734b87936b3" />
+		<rom name="disk_b.2d" size="327680" crc="763b9e52" sha1="c971b99c95455f90c3d7d3005847ed0391dfa96a" />
+	</machine>
+	<machine name="lovechas">
+		<description>Love Chaser</description>
+		<year>1987?</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="lovec_1.d88" size="348848" crc="cafd770e" sha1="20cccd3a493a05fbc2966fa950239483d46e6149" />
+		<rom name="lovec_2.d88" size="348848" crc="335974a8" sha1="663648d550fc2f76f2986112971d307d6ee16e17" />
+	</machine>
+	<machine name="lovechasa">
+		<description>Love Chaser (alt)</description>
+		<year>1987?</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="loveca_1.d88" size="348848" crc="17b20908" sha1="a1aa3f1e506923aae8d8a67fc12600fcbe8d7d21" />
+	</machine>
+	<machine name="lunacity">
+		<description>Luna City Satsujin Jiken</description>
+		<year>1987</year>
+		<publisher>ボンドソフト (Bond Soft)</publisher>
+		<rom name="luna city.d88" size="396336" crc="272d2792" sha1="2babbe0051d37b8fb35b3e14cc8b6f5ab6044278" />
+	</machine>
+	<machine name="lupin">
+		<description>Lupin the Third - Cagliostro no Shiro</description>
+		<year>1986</year>
+		<publisher>東宝 (Toho)</publisher>
+		<rom name="lupin_a.2d" size="327680" crc="35c95439" sha1="ecdc08ac7ed57d0e2436237754bc1b7cad24c61b" />
+		<rom name="lupin_b.2d" size="327680" crc="44adde21" sha1="e85330ede6e7ac59b08dd20c8a950c14d3ff53b9" />
+	</machine>
+	<machine name="luxsor">
+		<description>Luxsor</description>
+		<year>1987</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="luxsor1.d88" size="415840" crc="5ee805c2" sha1="59c40085bfa00b9a37304e0196ff3b4dbf289568" />
+		<rom name="luxsor2.d88" size="415840" crc="fd5066c8" sha1="4a3cda4df96671be44f3a7e1bdd9d4677e640fbc" />
+	</machine>
+	<machine name="madelein">
+		<description>Madeleine</description>
+		<year>1987</year>
+		<publisher>シンキングラビット (Thinking Rabbit)</publisher>
+		<rom name="madeleine-1.d88" size="410944" crc="92ca4ee2" sha1="7c6954d14ce3d573fdfaea2728425fc215f01c88" />
+		<rom name="madeleine-2.d88" size="416688" crc="ce63669f" sha1="bb8d9d2d53939d858917fd09450de42a080ba322" />
+	</machine>
+	<machine name="maidum">
+		<description>Maidum</description>
+		<year>1986</year>
+		<publisher>NCS</publisher>
+		<rom name="maidum (19xx)(ncs)(disk 1 of 2).2d" size="327680" crc="6a03bfba" sha1="09bdd81f8f42e6e0515ff11ce33878afd84149e0" />
+		<rom name="maidum (19xx)(ncs)(disk 2 of 2).2d" size="327680" crc="5b26691b" sha1="f67293b3848102daa45265e8d63578a21067620b" />
+	</machine>
+	<machine name="maiduma">
+		<description>Maidum (alt)</description>
+		<year>1986</year>
+		<publisher>NCS</publisher>
+		<rom name="maidum (19xx)(ncs)(disk 1 of 2)[a].2d" size="327680" crc="91b9c287" sha1="405ff1c3acd474ddb49122e4f71af7fd7076f4ce" />
+	</machine>
+	<machine name="majavent">
+		<description>Majaventure - Negi Mahjong</description>
+		<year>1986</year>
+		<publisher>徳間コミュニケーションズ (Tokuma Communications)</publisher>
+		<rom name="disk1.d88" size="348848" crc="3c17cce4" sha1="defff082c7ba49ac0f5e807c3cd1e9a9f4c7f1ab" />
+		<rom name="disk2.d88" size="348848" crc="50f1b9c7" sha1="1b1bfbe1cd1b1891be78c78dba6f44b735a78b48" />
+	</machine>
+	<machine name="makaifuk">
+		<description>Makai Fukkatsu</description>
+		<year>1987</year>
+		<publisher>ソフトスタジオWING (Soft Studio Wing)</publisher>
+		<rom name="makai_a.d88" size="344496" crc="0ed68b0c" sha1="d2e9a9f9478971bc9c677c01c0628d12e0ba5556" />
+		<rom name="makai_b.d88" size="348848" crc="e54022b3" sha1="59105b04d45580324d0f257bf300a30fbdee5573" />
+	</machine>
+	<machine name="manhatrq">
+		<description>J.B. Harold Series #2 - Manhattan Requiem - Angels Flying in the Dark</description>
+		<year>1987</year>
+		<publisher>リバーヒルソフト (Riverhill Software)</publisher>
+		<rom name="manhat-a.d88" size="415840" crc="562434c8" sha1="6b01a3ce6db792dd17a48434cf78ca1e00f60d3c" />
+		<rom name="manhat-b.d88" size="416688" crc="35ec0ab9" sha1="79521479209d6ff4826f288ce3cd835819e8e8fb" />
+	</machine>
+	<machine name="manilove">
+		<description>The Man I Love</description>
+		<year>1987</year>
+		<publisher>シンキングラビット (Thinking Rabbit)</publisher>
+		<rom name="the man i love (disk 1).d88" size="359520" crc="76f54932" sha1="41e4d82da2b482b496a6d56a7f715322d4591bc0" />
+		<rom name="the man i love (disk 2).d88" size="359248" crc="79b9c679" sha1="278383e57bfd268474e597f758cf0ea455f9435b" />
+		<rom name="the man i love (disk 3).d88" size="359248" crc="2daa8353" sha1="5eb5b011315f6ea01944afe29ab80ed712e5f9eb" />
+		<rom name="the man i love (disk 4).d88" size="473776" crc="2232089a" sha1="db3310cdbf3a7f56e96cc81b47c26ae43a6ffb2f" />
+		<rom name="the man i love (disk 5).d88" size="473776" crc="211c2f0e" sha1="f5a30bfe9b0f6ba830a86e740ffa0d23493b9453" />
+	</machine>
+	<machine name="mappy">
+		<description>Mappy</description>
+		<year>1986</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="mappynew.2d" size="327680" crc="6d38e061" sha1="07df9bc45d348e73267948862132b5b7a1666a65" />
+	</machine>
+	<machine name="mars">
+		<description>The Curse of Mars</description>
+		<year>1988?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="the curse of mars.2d" size="327680" crc="2d7eceae" sha1="e50d56313904d5c246abddac3293a0dd51aeca36" />
+	</machine>
+	<machine name="marsa">
+		<description>The Curse of Mars (alt)</description>
+		<year>1988?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="mars.2d" size="327680" crc="7a879e8c" sha1="476ede9ca7a83d57eaf6e14d06cfb7592f75988c" />
+	</machine>
+	<machine name="marsb">
+		<description>The Curse of Mars (alt 2?)</description>
+		<year>1988?</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="mars (a).2d" size="327680" crc="f0d9f6c2" sha1="2feb02d2805fc3f9e29f0dce303b118ec7033e82" />
+	</machine>
+	<machine name="marvels">
+		<description>Marvelous</description>
+		<year>1986?</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="marvelous.2d" size="327680" crc="af21a06c" sha1="db9f47962dc93b736c5f3b081becb6def989e14d" />
+	</machine>
+	<machine name="marvelsa">
+		<description>Marvelous (alt)</description>
+		<year>1986?</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="merveros.2d" size="327680" crc="3e5447af" sha1="b27f428183e59d22cc81256f794d5d9d2a782b3d" />
+	</machine>
+	<machine name="marvelsb">
+		<description>Marvelous (alt 2)</description>
+		<year>1986?</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="merveros_alt.2d" size="327680" crc="c93d71ec" sha1="27a695d2a039d604aff3a2f37ac6c83be4ef6cd5" />
+	</machine>
+	<machine name="mbm">
+		<description>Micro BASIC Magazine - Program-shuu</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="game1.2d" size="327680" crc="a4bf39a2" sha1="52950278b7e419a31affeae73a04078b9ab67471" />
+		<rom name="game2.2d" size="327680" crc="a371f382" sha1="711d9cd9f6cffd32eb61e9ae655a2c2992d3b5cd" />
+		<rom name="game3.2d" size="327680" crc="eeb78b37" sha1="4302dcc2d8cd7e79c79121e4003d272abebc3acc" />
+		<rom name="x1-basic.2d" size="327680" crc="f509de90" sha1="d71af4c1639143b5f5c56b0bfb62a8982c0cbb5b" />
+	</machine>
+	<machine name="megamit">
+		<description>Digital Devil Monogatari - Megami Tensei</description>
+		<year>1987</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="dds_a.d88" size="414992" crc="b4d6d461" sha1="d42c398e983d2f14b3960cd6504a98c3361a1985" />
+		<rom name="dds_b.d88" size="415840" crc="1cbe5ddb" sha1="bb6d516cda5e47c6d11f74106d1227f4d9e731af" />
+	</machine>
+	<machine name="megamita">
+		<description>Digital Devil Monogatari - Megami Tensei (alt)</description>
+		<year>1987</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="megat_a.d88" size="414992" crc="bca112b8" sha1="e20ca20804b3b3a88d8c37cf3362e693f1dbdac6" />
+		<rom name="megat_b.d88" size="415840" crc="c3b94473" sha1="b4cc22c010ee71d7ffb4e5dc9f4ad229f286c0bd" />
+	</machine>
+	<machine name="megamitb">
+		<description>Digital Devil Monogatari - Megami Tensei (alt Disk 1)</description>
+		<year>1987</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="dds_a (alt).d88" size="414992" crc="3b4ede0e" sha1="1892e0f16afb13cc88ae5562d281f41f3d8f0a90" />
+	</machine>
+	<machine name="melonsod">
+		<description>Melon Soda</description>
+		<year>1987</year>
+		<publisher>パスカル2 (Pascal2)</publisher>
+		<rom name="melonsoda1(cz8fb02).d88" size="348848" crc="8b600959" sha1="0686f026b9cf7d7eeafadde0499cd528264e8cc9" />
+		<rom name="melonsoda2.d88" size="348848" crc="57b0e4d8" sha1="14faabd54c836bce58aad463a94c5cc3f93b7344" />
+	</machine>
+	<machine name="mightmag">
+		<description>Might and Magic</description>
+		<year>1988</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="m&amp;m_a.2d" size="327680" crc="4e1e46b4" sha1="b26ba11132ed87dd0c7892192fad30fefe2a95c8" />
+		<rom name="m&amp;m_b.2d" size="327680" crc="8de9d36f" sha1="6eeea8cb9dd914bd27c7cb23a75d839191201730" />
+		<rom name="m&amp;m_c.2d" size="327680" crc="6dd18458" sha1="b5362e6447cdba0c92ae617f83c323a844e08d7d" />
+		<rom name="m&amp;m_d.2d" size="327680" crc="162f6345" sha1="2181273ebeab3e36096d085450428a2d26ff3e96" />
+	</machine>
+	<machine name="mikichan">
+		<description>Ganbare! Miki-chan</description>
+		<year>1986?</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="mikichan.2d" size="327680" crc="06965b19" sha1="b33c79c4444f53419beb5db300ef536d1df9d432" />
+	</machine>
+	<machine name="mikkoku">
+		<description>Maison Ikkoku - Omoide no Photograph</description>
+		<year>1987</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="disk1.d88" size="378448" crc="450703c5" sha1="90e4594be5c22823f64fbb96b03d84fc0a771b5f" />
+		<rom name="disk2.d88" size="380848" crc="d0858a0c" sha1="2066a6d352dfd60157ed656f0b371e0e9d7c482a" />
+		<rom name="disk3.d88" size="350448" crc="27d0f232" sha1="43a6ee9e445b4112dce1079a747ef09eea12815c" />
+	</machine>
+	<machine name="mikkokuk">
+		<description>Maison Ikkoku Kanketsu Hen - Sayonara Soshite</description>
+		<year>1988</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="disk1.d88" size="377936" crc="12db7383" sha1="09c928b69b78b90ada339af66482eebc15c2cf1c" />
+		<rom name="disk2.d88" size="380848" crc="e95732d9" sha1="415c90e8ed61188992db0b4ce0a932b4d70e58d7" />
+		<rom name="disk3.d88" size="380848" crc="de116245" sha1="c5489340c3fa6d294770087234420fc21952bb53" />
+		<rom name="disk4.d88" size="380848" crc="dee3af09" sha1="7f0704af4162dc7f8a381c56e62fcce6ce246d96" />
+	</machine>
+	<machine name="mjkyojs">
+		<description>Mahjong Kyo Jidai Special</description>
+		<year>1988</year>
+		<publisher>マイクロネット (Micronet)</publisher>
+		<rom name="mahjong kyo jidai special (disk a).d88" size="414144" crc="9b311819" sha1="bebaa9bfcf36bedde90ef8cf51f19b9d66cc215b" />
+		<rom name="mahjong kyo jidai special (disk b).d88" size="416688" crc="b76b529b" sha1="0fa69cce2672d984723b6a9f8d6c226a01319d5b" />
+	</machine>
+	<machine name="moritash">
+		<description>Kazuo Morita no Shougi</description>
+		<year>1985?</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="morita shogi.2d" size="327680" crc="9a0bf69c" sha1="6b2d15bdfd64cd069712b3b9df2f0dbba5a88143" />
+	</machine>
+	<machine name="mrproy88">
+		<description>Mr. Pro Yakyu '88 Data Shuu</description>
+		<year>1987</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="mr. pro yakyuu 88.d88" size="348848" crc="74c034a4" sha1="571c5cc7307c13821b7a3df337676b020e637fbf" />
+	</machine>
+	<machine name="mugen2">
+		<description>Mugen no Shinzo II</description>
+		<year>1986</year>
+		<publisher>クリスタルソフト (Xtal Soft)</publisher>
+		<rom name="mugen2_p.2d" size="327680" crc="630cf8ba" sha1="5e7621f481a27fe3c4cb74e9273c9a54805ab7e7" />
+		<rom name="mugen2_s.2d" size="327680" crc="a88981a2" sha1="91501b01928771f4d4ac7ffa16d32c4a9b3b0765" />
+		<rom name="mugen2_u.2d" size="327680" crc="d24b63eb" sha1="afe334aef39856147697b71ffe616178c21cd68b" />
+	</machine>
+	<machine name="mule">
+		<description>M.U.L.E.</description>
+		<year>1988</year>
+		<publisher>B·P·S (Bullet-Proof Software)</publisher>
+		<rom name="mule.2d" size="327680" crc="1d133e27" sha1="96cc53baa599962bf6bb3f0aff85835b3ced52e7" />
+	</machine>
+	<machine name="mulea">
+		<description>M.U.L.E. (alt)</description>
+		<year>1988</year>
+		<publisher>B·P·S (Bullet-Proof Software)</publisher>
+		<rom name="mulea.d88" size="348576" crc="5c2715cd" sha1="17b790e9e1c9a8e9171eacdd8f37d83ac7be10cc" />
+	</machine>
+	<machine name="murdclub">
+		<description>Final Mystery Murder Club - Satsujin Club</description>
+		<year>1986</year>
+		<publisher>リバーヒルソフト (Riverhill Software)</publisher>
+		<rom name="mclub_a.d88" size="415840" crc="4c1ef214" sha1="3c4bce0d8008037e577804b2dd9b5934c95a01e1" />
+		<rom name="mclub_b.d88" size="416688" crc="8004eb2b" sha1="e741df924d0fa188912034123745c661ea1b5a11" />
+	</machine>
+	<machine name="namcovgm">
+		<description>Namco Video Game Music Library vol.1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="video game music disk a.2d" size="327680" crc="6017899c" sha1="e2bcfbf554d4be7f5e7c24ede1e596c243c1f78b" />
+		<rom name="video game music disk b.2d" size="327680" crc="bce68298" sha1="d84a4e90cefff6f42ef9db50d799392781424fa9" />
+	</machine>
+	<machine name="newfmdrv">
+		<description>New FM Driver</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="new fm driver.2d" size="327680" crc="9902518d" sha1="09192f98690c70f3bb5128bc165f9115627fc70c" />
+	</machine>
+	<machine name="newtype">
+		<description>Newtype X-1</description>
+		<year>1986?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="newtype x1.2d" size="327680" crc="3b55231a" sha1="537f7332e9179f664ca733bd5a9ef6d19a8584c7" />
+	</machine>
+	<machine name="newtypea">
+		<description>Newtype X-1 (alt)</description>
+		<year>1986?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zzz-unk-newtype.2d" size="327680" crc="63089017" sha1="a32d831f15f2e0796d0f839494d74d984ef94556" />
+	</machine>
+	<machine name="nobunaga">
+		<description>Nobunaga no Yabou</description>
+		<year>1987</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobunaga.d88" size="348848" crc="a0aff643" sha1="ac6c6f5647f588c6056ee95c77c9d7898701e38e" />
+	</machine>
+	<machine name="nobuseng">
+		<description>Nobunaga no Yabou - Sengoku Gunyuuden</description>
+		<year>1989</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobu_ seng. guny (turbo) a.d88" size="380864" crc="b6c32127" sha1="f7c33011105b4c5e3a9b4478a41f7ab2500b596b" />
+		<rom name="nobu_ seng. guny (turbo) b.d88" size="380848" crc="07a86231" sha1="d4f049c9faf7d88e917855c03a0cfa6cfb3d32b9" />
+		<rom name="nobu_ seng. guny (turbo) c.d88" size="380864" crc="26571779" sha1="819ed0cf78fe400c1209b769d2dd805fcfca885f" />
+	</machine>
+	<machine name="nobuzenk">
+		<description>Nobunaga no Yabou - Zenkokuban</description>
+		<year>1987</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="nobu no y. zengokuban_a.2d" size="327680" crc="0d5718cb" sha1="175d06fa29a470be0605fc794e1103a45ce5b925" />
+		<rom name="nobu no y. zengokuban_b.2d" size="327680" crc="6fdc4296" sha1="3053a6cdf05b73723d57a5e211829a7a5e7d132e" />
+	</machine>
+	<machine name="nukenind">
+		<description>Nukenin Densetsu</description>
+		<year>1987</year>
+		<publisher>ブレイングレイ (Brain Gray)</publisher>
+		<rom name="nnds-gen.d88" size="425392" crc="d4f40d65" sha1="35b872a478163d051b9ada4fb189ebcad9eaa9a3" />
+		<rom name="nnds-jya.d88" size="425392" crc="b109d202" sha1="bcd659ba5c725ced49792f2d97b1c312fcca85e6" />
+		<rom name="nnds-kog.d88" size="425392" crc="f4bc8249" sha1="fad12bfe6e2e983d2373f632920177353e9ada12" />
+		<rom name="nnds-kyo.d88" size="425392" crc="ed324b84" sha1="69cfe7550b1126f71b34284e7d65973fb6f2b93c" />
+		<rom name="nnds-op.d88" size="425392" crc="db16a74c" sha1="9235c2faaf2103c39fb5437f5b767deeda6f90a8" />
+	</machine>
+	<machine name="ojibinbm">
+		<description>Ouji Binbin Monogatari</description>
+		<year>1988</year>
+		<publisher>イーストキューブ (East Cube)</publisher>
+		<rom name="ouji_a.2d" size="327680" crc="5f17343b" sha1="8290d9fe662567170e4737692cd2efb3a78ea2ff" />
+		<rom name="ouji_b.2d" size="327680" crc="a3c2343e" sha1="90c23a947f9deaa7f0c98499b34599a1bfd2db69" />
+	</machine>
+	<machine name="ojibinbma">
+		<description>Ouji Binbin Monogatari (alt)</description>
+		<year>1988</year>
+		<publisher>イーストキューブ (East Cube)</publisher>
+		<rom name="zzz-unk-ouji_b.2d" size="327680" crc="09859d99" sha1="5c809b4f926059e65755291328f089e2a89a2ecf" />
+	</machine>
+	<machine name="ojibinbmb">
+		<description>Ouji Binbin Monogatari (alt 2)</description>
+		<year>1988</year>
+		<publisher>イーストキューブ (East Cube)</publisher>
+		<rom name="unk_disk1_a.d88" size="348848" crc="2aa58976" sha1="3640c60c8b54961de8ef20e6f2cb0c668c88bcd1" />
+		<rom name="unk_disk1_b.d88" size="348848" crc="8de42d9f" sha1="20bfecef331af8496dfea010a5c271ca6cb03b6d" />
+	</machine>
+	<machine name="orbit3">
+		<description>Orbit III</description>
+		<year>1985</year>
+		<publisher>テクノソフト (Techno Soft)</publisher>
+		<rom name="orbit3.d88" size="350384" crc="8f8c40f2" sha1="a56132052912c5ef56f0d2e0e5489d49b07bdbcc" />
+	</machine>
+	<machine name="outroyd">
+		<description>Outroyd</description>
+		<year>1986</year>
+		<publisher>ストラットフォードC.C.C. (Stratford)</publisher>
+		<rom name="outroyd.d88" size="348848" crc="34c7df8c" sha1="c54103e3e3df00ee6417b80fe1d8f3ae4dd64b82" />
+	</machine>
+	<machine name="outroyda">
+		<description>Outroyd (alt)</description>
+		<year>1986</year>
+		<publisher>ストラットフォードC.C.C. (Stratford)</publisher>
+		<rom name="outroyda.d88" size="348848" crc="5037a384" sha1="2446acfe701129a8d3f81d48f81ad5c08307fb20" />
+	</machine>
+	<machine name="penguinw">
+		<description>Penguin-kun Wars</description>
+		<year>1985</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="pw.d88" size="348848" crc="96909c3c" sha1="da8a03405ee5f84a86bf0f79233936972ee5a733" />
+	</machine>
+	<machine name="phantas">
+		<description>Phantasie - Jerunoa no Shu</description>
+		<year>1987</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="phantasie1_playerdisk.d88" size="348848" crc="b8b60e50" sha1="dfad5d552ddd9509414a88e5ba19b76ce1abe3a7" />
+		<rom name="phantasie1_programdisk.d88" size="348848" crc="4fdac684" sha1="4238f1f15fa5f898c2681134ecd637235a0ed5fe" />
+	</machine>
+	<machine name="poplemon">
+		<description>Pop Lemon</description>
+		<year>1986?</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="poplem_a.2d" size="327680" crc="29b09279" sha1="1d12cfd7778bc1c52412947adc895006ca15a3b3" />
+		<rom name="poplem_b.2d" size="327680" crc="c301f28f" sha1="b899ea351d9b8b168d3d67198188c2e1197de14d" />
+	</machine>
+	<machine name="portopia">
+		<description>Portopia Renzoku Satsujin Jiken</description>
+		<year>1983?</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="zzz-unk-portpia.2d" size="327680" crc="6699bf3d" sha1="5be59558474e4f8709949821cdf8495dd66ed7b3" />
+	</machine>
+	<machine name="powermj">
+		<description>Kon'yamo Asamade Powerful Mahjong</description>
+		<year>1988</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="power mahjong_a.d88" size="348848" crc="1e298a72" sha1="fc381d5e4ad809a5ad88c45a69f4b5feb2fab734" />
+		<rom name="power mahjong_b.d88" size="348848" crc="74eddd8d" sha1="c1a5d7d7e8fa99c824dc5d106bb49f268bf73074" />
+	</machine>
+	<machine name="produce">
+		<description>Produce</description>
+		<year>1987</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="produce.d88" size="348848" crc="a57a9bdc" sha1="a4d9d802369da8886fe4389bc36c3e4f093a861a" />
+	</machine>
+	<machine name="profmj">
+		<description>Professional Mahjong</description>
+		<year>1985</year>
+		<publisher>シャノアール (Chat Noir)</publisher>
+		<rom name="professional mahjong.2d" size="327680" crc="bc91c664" sha1="c26f5492a4d4b65640d76c43235fc84afcb8654d" />
+	</machine>
+	<machine name="pstar2">
+		<description>Polar Star 2</description>
+		<year>1983?</year>
+		<publisher>SPS</publisher>
+		<rom name="polar star 2.2d" size="327680" crc="e8b8bdb6" sha1="97b9099d2cfde575410d5c1db40a43833108d0f6" />
+	</machine>
+	<machine name="psyoblad">
+		<description>Psy-O-Blade</description>
+		<year>1989</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="psy-a.d88" size="392368" crc="bd0cd71f" sha1="dd5aef2daf1d79e6409ff7e1fbb14fddacd699ce" />
+		<rom name="psy-b.d88" size="392368" crc="67322f16" sha1="e64c1bea2c2d894dfa243a1895e94d0e73f3bf07" />
+		<rom name="psy-c.d88" size="392368" crc="9e088573" sha1="9a8e8014bec3a02433352b01b58863386c1a9e09" />
+		<rom name="psy-d.d88" size="392368" crc="73d2c58a" sha1="87e4925ffac0c151a8a237ea4f5bb133f863ac8b" />
+		<rom name="psy-p.d88" size="392368" crc="3ef3fe30" sha1="e839e3949f7a4cd23705f50ab32d39e4809976c1" />
+		<rom name="psy-u.d88" size="392368" crc="e923271d" sha1="edffcae5b90c8eb2ed951065a71de527341f6fda" />
+	</machine>
+	<machine name="punchbal">
+		<description>Punch Ball Mario Bros.</description>
+		<year>1984?</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="panch.d88" size="348848" crc="bf089114" sha1="330399d0c1f1caad98fc445b3768a217a7572559" />
+	</machine>
+	<machine name="rebirth">
+		<description>Re-Birth</description>
+		<year>1986</year>
+		<publisher>SPS</publisher>
+		<rom name="rebirth1.d88" size="416112" crc="ce4cce01" sha1="83a95b1704ae933c34cf49b4e13db2c543ac41a7" />
+		<rom name="rebirth2.d88" size="416960" crc="86ad24bc" sha1="04502503fe6dc463f52a5388133ad5366504e970" />
+		<rom name="rebirth3.d88" size="416960" crc="2b8c3ad7" sha1="02c94cf2856cf0bd8680bb93926af3397f1ac506" />
+		<rom name="rebirth4.d88" size="416960" crc="4d0959c0" sha1="7439805b38090c528501dfe5ebd6cb2d1e96eac6" />
+	</machine>
+	<machine name="relics">
+		<description>Relics</description>
+		<year>1986</year>
+		<publisher>ボーステック (Bothtec)</publisher>
+		<rom name="in the world of relics (19xx)(-)(jp)(disk 1 of 2).d88" size="348848" crc="a73b8e0e" sha1="4d1f9c43c728fc50b69dc9910ea268827f45544f" />
+		<rom name="in the world of relics (19xx)(-)(jp)(disk 2 of 2).d88" size="348848" crc="47f40ce3" sha1="8988f9f31507ea0622ae4b8123fbe48d3a6cccf1" />
+	</machine>
+	<machine name="reviver">
+		<description>Reviver</description>
+		<year>1987</year>
+		<publisher>アルシスソフト (Arsys Soft)</publisher>
+		<rom name="reviver (19xx)(arsys)(jp)(disk 1 of 3).d88" size="414992" crc="ad204439" sha1="ae84a4c8bf079a6e6d4f3d60a6bf8f0bc668b6ea" />
+		<rom name="reviver (19xx)(arsys)(jp)(disk 2 of 3).d88" size="414992" crc="db05c075" sha1="1f845ff087ebebc88bdd0bdbf248a2061717a75b" />
+		<rom name="reviver (19xx)(arsys)(jp)(disk 3 of 3)(data disk).d88" size="414992" crc="b9d5c227" sha1="862cb0d643859ca9a0aded6bebb9054b88f2c06b" />
+	</machine>
+	<machine name="revolty2">
+		<description>Revolty 2</description>
+		<year>1989</year>
+		<publisher>風雅システム (Fuga System)</publisher>
+		<rom name="revolty0.d88" size="348848" crc="061a0c1e" sha1="f3149987092ffdc83312f06db1e805fb93122aaf" />
+		<rom name="revolty1.d88" size="348848" crc="c99a4bc3" sha1="71fc3334328e43dcc3a787c10df2cbed8dcb0984" />
+		<rom name="revolty2.d88" size="348848" crc="f36239ce" sha1="7cc8317ca80e80007da78d48a8cea660922f3ddc" />
+		<rom name="revolty3.d88" size="348848" crc="aa0f50dc" sha1="a34ebf5293cd0e0c6cb22ae21a22efec0c630348" />
+	</machine>
+	<machine name="riglas">
+		<description>Riglas</description>
+		<year>1986</year>
+		<publisher>ランダムハウス (Random House)</publisher>
+		<rom name="riglas (1985)(random house).d88" size="379920" crc="f869bad8" sha1="7602f4cf512cdec440e39b2d3b4a6f771a5c4106" />
+	</machine>
+	<machine name="robowres">
+		<description>RoboWres 2001</description>
+		<year>1986</year>
+		<publisher>マイクロネット (Micronet)</publisher>
+		<rom name="robowres.d88" size="732704" crc="201b3048" sha1="b5cf3ece345e8b84941169da886fb09f4afebf86" />
+	</machine>
+	<machine name="romancia">
+		<description>Romancia</description>
+		<year>1986</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="romancia.d88" size="379680" crc="a861ac82" sha1="b5e7116c47fc28b279543c1b931d92932722a457" />
+	</machine>
+	<machine name="romanciaa">
+		<description>Romancia (alt)</description>
+		<year>1986</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="romanciaa.d88" size="380224" crc="7a85ed48" sha1="e6c60fe9e50fcd884e35ae16634cd6f441e6ad64" />
+	</machine>
+	<machine name="rwings">
+		<description>Right Wings</description>
+		<year>1990?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="r_wings.2d" size="327680" crc="22b9263b" sha1="5476b474996593da2b5b35edb293a372fdf70014" />
+	</machine>
+	<machine name="sangoku2a">
+		<description>Sangokushi II Turbo</description>
+		<year>1990</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="sangokushi_2 turbo a.d88" size="380864" crc="1aa46e57" sha1="1e2290a465aaa713b7d94e9e6ea51cfef033750f" />
+		<rom name="sangokushi_2 turbo b.d88" size="380848" crc="766ed5b9" sha1="02d95c7665bd5948976881be57c1c7e89394471e" />
+		<rom name="sangokushi_2 turbo c.d88" size="380848" crc="cbea36da" sha1="ad0f393cc7b7caa3ba1c7ba545ab1c59c83b2af4" />
+	</machine>
+	<machine name="sangoku2">
+		<description>Sangokushi II</description>
+		<year>1990</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="sangokushi_2 a.d88" size="380864" crc="9cd180a5" sha1="b39099e442fe77547ffe0a9c3cd7ba801e9a797e" />
+		<rom name="sangokushi_2 b .d88" size="380848" crc="f6c1830e" sha1="04a4225c01e4469705a06655416620ab9c51210a" />
+		<rom name="sangokushi_2 c.d88" size="380848" crc="d2481921" sha1="51fb15f884b887866a147fc3213fad52ed82c7ac" />
+	</machine>
+	<machine name="sangoku">
+		<description>Sangokushi</description>
+		<year>1985</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="sangok_a.2d" size="327680" crc="e8a6be1d" sha1="cd33bfad3c146a68131211eb8005cbd4f219caa5" />
+		<rom name="sangok_b.2d" size="327680" crc="b269d889" sha1="277aeac334efca9663e4d3df6dce6134bef67fe2" />
+	</machine>
+	<machine name="satsujin">
+		<description>Satsujin wa Tegami ni Notte</description>
+		<year>1988</year>
+		<publisher>ツインソフト (Twin Soft)</publisher>
+		<rom name="satu-a.d88" size="344496" crc="7d03c298" sha1="8fff26bef8afff72beebb2accd16f08fe33806fa" />
+		<rom name="satu-b.d88" size="348848" crc="f3870d1d" sha1="eaea51ba3cc9102818a48a3ac7b5483d6998d59c" />
+		<rom name="satu-c.d88" size="348848" crc="59023ed2" sha1="9160977e6ff8c970d429010a043948cbef32e845" />
+	</machine>
+	<machine name="sayaka">
+		<description>Yumeshojo Sayaka</description>
+		<year>1988?</year>
+		<publisher>パスカル2 (Pascal2)</publisher>
+		<rom name="disk a.2d" size="327680" crc="87b217b7" sha1="984b83846d61cda4d9e1f9f5d2ec7a7c00c9c216" />
+		<rom name="disk b.2d" size="327680" crc="37728ac4" sha1="71d54496baae18bf82016d361e88eac8069e4e22" />
+	</machine>
+	<machine name="saziri">
+		<description>Sa・Zi・Ri</description>
+		<year>1988?</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="saziri (turbo)-a.d88" size="423312" crc="267efc66" sha1="52b8a0e121430bd15d6352eb8e48ac2c275c1861" />
+		<rom name="saziri (turbo)-b.d88" size="415840" crc="f258f894" sha1="6930bba5c33b93383591ea250bd9a754916d654b" />
+		<rom name="saziri (turbo)-d.d88" size="415840" crc="68b137dd" sha1="9957fa0158e170b6caecc0d15c2d1de2751e51cf" />
+	</machine>
+	<machine name="saziria">
+		<description>Sa・Zi・Ri (alt)</description>
+		<year>1988?</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="murasaki x1 (disk a).d88" size="414992" crc="e38fcbcc" sha1="7b61912e322cb4a17b82b62e25d9a2c1b896fd1d" />
+		<rom name="murasaki x1 (disk b).d88" size="415840" crc="ef7b083b" sha1="d3d863381bf8e6e6b8928334aeca8a1eb506c3f8" />
+	</machine>
+	<machine name="screamer">
+		<description>The Screamer</description>
+		<year>1986</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="the screamer data 1.d88" size="415840" crc="5ed7c4cf" sha1="7764365c5603923c62c967b9a865d6cef8a1f796" />
+		<rom name="the screamer data 2.d88" size="415840" crc="098b403d" sha1="fe0a943724e6df673dff18eceb1018817bd24e07" />
+		<rom name="the screamer system.d88" size="415792" crc="ee7c9ddb" sha1="4f42b5ac6eaa60290841038029ea5b6a9db96e99" />
+	</machine>
+	<machine name="scruiser">
+		<description>Star Cruiser</description>
+		<year>1988</year>
+		<publisher>アルシスソフト (Arsys Soft)</publisher>
+		<rom name="star cruiser_a.d88" size="415840" crc="4f14d512" sha1="9ec80df7e152d86f38da50a461cf0e44bbffc525" />
+		<rom name="star cruiser_b.d88" size="415840" crc="2e349dad" sha1="14a24aaecdc795cbee24b34ee76eae3eabbc8132" />
+	</machine>
+	<machine name="seijoden">
+		<description>Seijo Densetsu</description>
+		<year>1986</year>
+		<publisher>コスモスコンピュータ (Cosmos Computer)</publisher>
+		<rom name="5 holy girls (19xx)(studio blue)(jp).2d" size="327680" crc="bf7ba3de" sha1="83954161250da40cdf77ca6e7f215ccc8cb21819" />
+	</machine>
+	<machine name="seijodena">
+		<description>Seijo Densetsu (alt)</description>
+		<year>1986</year>
+		<publisher>コスモスコンピュータ (Cosmos Computer)</publisher>
+		<rom name="5hgirlsa.2d" size="327680" crc="815a292a" sha1="7884106ca86d5c807ba670ddaf0207334f802c83" />
+	</machine>
+	<machine name="seijopan">
+		<description>Seijo Panic</description>
+		<year>1987</year>
+		<publisher>コスモスコンピュータ (Cosmos Computer)</publisher>
+		<rom name="zzz-unk-seijopan.2d" size="327680" crc="0682a628" sha1="323852592d63456a33d0e2fdedabb3a767b7ef94" />
+	</machine>
+	<machine name="seijopana">
+		<description>Seijo Panic (alt)</description>
+		<year>1987</year>
+		<publisher>コスモスコンピュータ (Cosmos Computer)</publisher>
+		<rom name="seijodena.2d" size="327680" crc="de58f222" sha1="96fbfad4565c04a6d96b6d48b8078fb36ddc868e" />
+	</machine>
+	<machine name="sf3dopv">
+		<description>S.F.3.D Original Operation V</description>
+		<year>1985</year>
+		<publisher>クロスメディアソフト (Cross Media Soft)</publisher>
+		<rom name="sf3d.d88" size="354288" crc="0987b97d" sha1="24ab8dbb7c53ac9fea4137db258407f38c6d2469" />
+	</machine>
+	<machine name="shanghai">
+		<description>Shanghai</description>
+		<year>1987</year>
+		<publisher>システムソフト (System Soft)</publisher>
+		<rom name="shanghai (1986-87)(activision).2d" size="327680" crc="df6e1b9a" sha1="4741455ece85b6a157a47be5ddd55a170ef90e5b" />
+	</machine>
+	<machine name="shanghaia">
+		<description>Shanghai (alt)</description>
+		<year>1987</year>
+		<publisher>システムソフト (System Soft)</publisher>
+		<rom name="shanghai.2d" size="327680" crc="0e4a28c0" sha1="6b1eb1e990f89c4d333345b7ad3b2d39807c20a6" />
+	</machine>
+	<machine name="sharrier">
+		<description>Space Harrier</description>
+		<year>1988</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="space harrier (19xx)(sega)(disk 1 of 2).2d" size="327680" crc="34c70022" sha1="e27c164be98e8a4d2b8b1f70aa53335b5bc81847" />
+		<rom name="space harrier (19xx)(sega)(disk 2 of 2).2d" size="327680" crc="0a6234b7" sha1="a46143ec6f288a7b84e15b6c39b0cd5e45ff86de" />
+	</machine>
+	<machine name="sharriera">
+		<description>Space Harrier (alt)</description>
+		<year>1988</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="sphari_a.d88" size="348848" crc="7e40e4e1" sha1="d3be30ef1c0302be8c77cd44849e9a7ec4282a97" />
+		<rom name="sphari_b.d88" size="348848" crc="30fe74c5" sha1="fd21f230a448b060c451f2fcaf6f17c3cc260d3a" />
+	</machine>
+	<machine name="shintake">
+		<description>Shin Taketori Monogatari</description>
+		<year>1985</year>
+		<publisher>クロスメディアソフト (Cross Media Soft)</publisher>
+		<rom name="shin take to monogatari.d88" size="363536" crc="b16b9f10" sha1="c049117e2243c51fa5d6133dc4fcfd9da0102086" />
+	</machine>
+	<machine name="silvergh">
+		<description>Silver Ghost</description>
+		<year>1988</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="silvg_a.d88" size="348848" crc="5d1d0c30" sha1="d2a6da19f3de7ef1107464db23ab66995d298490" />
+		<rom name="silvg_b.d88" size="348848" crc="a6deb67e" sha1="a270196300208b0c1b6f7b82d433ed5afc88ab00" />
+		<rom name="silvg_c.d88" size="348848" crc="19ba7c04" sha1="d8595aa2488930c0e78d69816cd7749b42face80" />
+	</machine>
+	<machine name="sirius1">
+		<description>Sirius 1 (Hacked to disk?)</description>
+		<year>19??</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="extrahyper_system.d88" size="26800" crc="a69b99d1" sha1="d98eeb70fb4c8fecd08cffbb16ccb7187726c129" />
+		<rom name="sirius1.d88" size="348848" crc="9751d5a6" sha1="7ca0bedd1c6c9d8378a2e43bc977868a97efee91" />
+	</machine>
+	<machine name="skugyokd">
+		<description>Shin Kugyokuden</description>
+		<year>1988</year>
+		<publisher>テクノソフト (Techno Soft)</publisher>
+		<rom name="shin9_1.d88" size="665440" crc="4a009e39" sha1="9c7e5f5d6d4cf0865c31358c36d6f6677df1ccdb" />
+	</machine>
+	<machine name="slaydock">
+		<description>Super Laydock - Mission Striker</description>
+		<year>1988</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="super laydock - mission striker (19xx)(t&amp;e soft)(disk 1 of 2).d88" size="348848" crc="4ddca46f" sha1="0bf76ad1ace3ddd9aded427056414278437c161d" />
+		<rom name="super laydock - mission striker (19xx)(t&amp;e soft)(disk 2 of 2).d88" size="348848" crc="2166a47c" sha1="cf427e77500868b4684c2153f872f6f2650f1802" />
+	</machine>
+	<machine name="slaydocka">
+		<description>Super Laydock - Mission Striker (alt)</description>
+		<year>1988</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="super laydock 2.d88" size="348848" crc="50eb607a" sha1="bf029a4928beebbe9c1383d71d147de7b3bf9906" />
+	</machine>
+	<machine name="slaydocm">
+		<description>Super Laydock Muteki</description>
+		<year>19??</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="super laydock muteki 1.d88" size="348848" crc="4292964b" sha1="42807f4aec38fa2f792cf4bbcb327aaf038d73ef" />
+		<rom name="super laydock muteki 2.d88" size="348848" crc="f8ef70ef" sha1="fc6165e758939cc6f90f2c5af30d2adef0c6b025" />
+	</machine>
+	<machine name="smbsp">
+		<description>Super Mario Bros. Special</description>
+		<year>1986</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="super mario.2d" size="327680" crc="0a54b15e" sha1="5972b491be0a25eae4b9ad8719aa988a76514ba4" />
+	</machine>
+	<machine name="smbspa">
+		<description>Super Mario Bros. Special (alt)</description>
+		<year>1986</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="s_mario.d88" size="348848" crc="46abbc86" sha1="77156b7021529d7b18cb3a8fb346606be95a364d" />
+	</machine>
+	<machine name="sofia">
+		<description>Sofia</description>
+		<year>1987</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="sofia.2d" size="327680" crc="848fa384" sha1="0308723c0d47760bcecd8696f711690b7a037a02" />
+	</machine>
+	<machine name="sorcer">
+		<description>Sorcerian</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sor-1.d88" size="415840" crc="be74169d" sha1="e17f79d4b383a46ce6081868e2e39f1693c4dfdd" />
+		<rom name="sor-2.d88" size="415840" crc="01d79758" sha1="34581d971b5ac27dfcc3582be782f3ed6f7effe9" />
+		<rom name="sor-3.d88" size="415840" crc="3f30018c" sha1="9c4f5e1b4cd9d041797f6671d8bf3a3bb58beedc" />
+		<rom name="sor-sys.d88" size="415840" crc="fe07e879" sha1="dd0c68dbb2ab0faef9f679f7a8593d334196dbdf" />
+		<rom name="sor-u.d88" size="415840" crc="489ae663" sha1="f37f5c78ec5e0f393c99c00dcb452047ae4be4de" />
+	</machine>
+	<machine name="sorcera">
+		<description>Sorcerian (alt?)</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sorcerian program.d88" size="426240" crc="caa598da" sha1="fa2b90f78517f203e81f4b604db3d52b6c0090bd" />
+		<rom name="sorcerian sce1.d88" size="426240" crc="8a683088" sha1="0bba730d8dfabc8aa7306b0e67fa6d43f44312c1" />
+		<rom name="sorcerian sce2.d88" size="436640" crc="465cd9c1" sha1="ebb97e9f32a7db4937dbb9c4dfdf7400b41408d9" />
+		<rom name="sorcerian sce3.d88" size="426240" crc="b257337e" sha1="0790e7f3b7357a7a33567d8f9832a15c78bf046f" />
+		<rom name="sorcerian user.d88" size="426240" crc="7b50393a" sha1="b1b9bb5bcc9fe5ce48a2d34d7442542b0262aa82" />
+	</machine>
+	<machine name="sorcerexp2">
+		<description>Sorcerian Tsuika Scenario 2 - Sengoku Sorcerian</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sorcerian (scenario sengoku 1).d88" size="415840" crc="e172a575" sha1="f4a2d29440f5c59b1da5831a9436a8562b6bdc9e" />
+		<rom name="sorcerian (scenario sengoku 2).d88" size="415840" crc="7e0ad313" sha1="a73603222b0f85adf0fc5d9dd885b4f852585796" />
+	</machine>
+	<machine name="sorcerexp3">
+		<description>Sorcerian Tsuika Scenario 3 - Pyramid Sorcerian</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sorcerian pyramid1.d88" size="415840" crc="456eb3e4" sha1="f9426a7593e1b54b3e6068c2ef225984090659dc" />
+		<rom name="sorcerian pyramid2.d88" size="415840" crc="f2ed78b9" sha1="8f230ee814460d63ee6e51b397396549b100215b" />
+	</machine>
+	<machine name="sorcerexp4">
+		<description>Sorcerian New Scenario Vol.1 - Uchuu kara no Houmonsha</description>
+		<year>1989</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="sorcerian new 1.d88" size="415840" crc="9b28d783" sha1="f8f1b61fbd5ae64a3f423448ba260a0f7686944a" />
+		<rom name="sorcerian new 2.d88" size="415840" crc="dcadb025" sha1="9623a3381afc62141dca10a04c7b07e62a3dec2b" />
+	</machine>
+	<machine name="sorcerexp">
+		<description>Sorcerian Tsuika Scenario</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sorcerian (scenario extended vol.1).d88" size="415840" crc="efab86b0" sha1="1a48a9317b0b286190499776a336426488f608fe" />
+	</machine>
+	<machine name="sorcermd">
+		<description>Sorcerian Music Disk</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sorcerian music mode.d88" size="415840" crc="4aa12458" sha1="c5561c1990c0d98b64614b51bc68ec1f60c1f7df" />
+	</machine>
+	<machine name="sorcersel1">
+		<description>Selected Sorcerian 1</description>
+		<year>1989</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="selected sorcerian s1.d88" size="415840" crc="dd4aaee5" sha1="be4b32768b41ae7079130c0f157efde49e5c2e00" />
+		<rom name="selected sorcerian u1.d88" size="415840" crc="d3069f37" sha1="2a8cd962daa4653c2aaf8fcc7d658d18c16f9e1b" />
+	</machine>
+	<machine name="sorcersel2">
+		<description>Selected Sorcerian 2</description>
+		<year>1990</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="selected sorcerian s2.d88" size="415840" crc="8f69ae0d" sha1="642bd40af3882ae395a454d43392dd41efd78ac9" />
+		<rom name="selected sorcerian u2.d88" size="425344" crc="8eea57ac" sha1="665cce3f774327b07b2cc42b2ffb2c9a8a2f9c94" />
+	</machine>
+	<machine name="sorcersel3">
+		<description>Selected Sorcerian 3</description>
+		<year>1990</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="selected sorcerian s3.d88" size="415840" crc="53f2b6ab" sha1="36cbba04bdf7ff7311d19aee49f999d5918aa3b6" />
+		<rom name="selected sorcerian u3.d88" size="415840" crc="e16800fe" sha1="4dde05572578cecd381e718e8450ebedd80edc13" />
+	</machine>
+	<machine name="sorcersel4">
+		<description>Selected Sorcerian 4</description>
+		<year>1990</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="selected sorcerian s4.d88" size="415840" crc="f85f03c0" sha1="d88b138b0223d33d6610853b500bb8048e7d29d0" />
+		<rom name="selected sorcerian u4.d88" size="415840" crc="a8754859" sha1="017ecf5609f8498e3af9b1091b3c2f57f0aec427" />
+	</machine>
+	<machine name="sorcersel5">
+		<description>Selected Sorcerian 5</description>
+		<year>1990</year>
+		<publisher>ブラザー工業 (Brother Kougyou)</publisher>
+		<rom name="selected sorcerian s5.d88" size="415840" crc="1ca45702" sha1="c315ebc3fc6a652ffd73677006ae9ec0005adb81" />
+		<rom name="selected sorcerian u5.d88" size="415840" crc="c32ec992" sha1="9793ce6862d5bf6165815e6107e8e996228d4eb5" />
+	</machine>
+	<machine name="sorcerutil">
+		<description>Sorcerian Utility Disk Vol.1</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sorcerian uty_vol1.d88" size="415840" crc="eaaa6af8" sha1="ba5087471e93717bf776081c1708f3c5453c11e7" />
+	</machine>
+	<machine name="sorcerutila">
+		<description>Sorcerian Utility Disk Vol.1 (alt)</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="sorcerian utility.d88" size="415840" crc="5f95c2ca" sha1="dc6df63472b1e09396f815252d2439f7e4d5f78b" />
+	</machine>
+	<machine name="spchange">
+		<description>Spare Change</description>
+		<year>1985</year>
+		<publisher>ソフトプロ (Soft Pro)</publisher>
+		<rom name="spare change (1983)(soft pro international).d88" size="349616" crc="03735e64" sha1="31c428c63dbcafa132ff20db0ddd3b9bdfbac50e" />
+	</machine>
+	<machine name="spyvsspy">
+		<description>Spy vs Spy</description>
+		<year>1986</year>
+		<publisher>HOT・B</publisher>
+		<rom name="spyvsspy.d88" size="366256" crc="dd6b65ae" sha1="0fa80da5767b985be9b202c6a21f1005806c847f" />
+	</machine>
+	<machine name="srambo">
+		<description>Super Rambo</description>
+		<year>1986</year>
+		<publisher>パックインビデオ (Pack-in Video)</publisher>
+		<rom name="s-rambo.d88" size="348848" crc="73fe526d" sha1="cc0fbfbd210fc81d639a47d2a4f1d9f33bb8c7be" />
+	</machine>
+	<machine name="srdemo">
+		<description>SR Demo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="sr_demo.d88" size="348848" crc="de25efe7" sha1="6ee78c3c231ef33bd7dd259c7edb1b10f2b56fdf" />
+	</machine>
+	<machine name="startrap">
+		<description>Cream Lemon - Star Trap</description>
+		<year>1987</year>
+		<publisher>ジャスト (Jast)</publisher>
+		<rom name="startrap-a.d88" size="414128" crc="a537e078" sha1="0a9f717e4877be0457f33b416605fb5213b0680d" />
+		<rom name="startrap-b.d88" size="414128" crc="a4edcccb" sha1="4955563e59d653c1531daa2fb9a7550ca262091f" />
+	</machine>
+	<machine name="state">
+		<description>State</description>
+		<year>19??</year>
+		<publisher>JR Soft?</publisher>
+		<rom name="state_01.2d" size="327680" crc="e096b557" sha1="dba05559e3dc0c114e1e7bfb7d56b676805ccd5e" />
+		<rom name="state_02.2d" size="327680" crc="73391142" sha1="646657b525b17d392e2e236df597fc24aff50ac9" />
+	</machine>
+	<machine name="suikoden">
+		<description>Suikoden - Tenmei no Chikai</description>
+		<year>1989</year>
+		<publisher>光栄 (Koei)</publisher>
+		<rom name="suikoden (turbo)_a.d88" size="380880" crc="9cfee564" sha1="4577565f450c8c842ebf6b55f39bdb65dbe18e7d" />
+		<rom name="suikoden (turbo)_b.d88" size="380864" crc="1211d3f9" sha1="908418cd67d9950b33c9c2dbe4dd962a84c56021" />
+		<rom name="suikoden (turbo)_c.d88" size="380864" crc="286becd8" sha1="63559c99ee26ba389e133bfa4bfec53c7b0288ee" />
+	</machine>
+	<machine name="swordos">
+		<description>Sword-OS for x1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="sword-os for x1.2d" size="327680" crc="a0076da0" sha1="9674f2f7256e62b474acb2ad93621983cfab13a3" />
+	</machine>
+	<machine name="swordosa">
+		<description>Sword-OS (alt)?</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="swordosa.d88" size="348848" crc="c2307ad2" sha1="7c497eeed68e8e7f6e3e0f9608017ae7c78bd65e" />
+	</machine>
+	<machine name="tankent2">
+		<description>Tankentai 2 - Makyou Amazon no Okuchi ni Ougon Densetsu o Mita!</description>
+		<year>1985</year>
+		<publisher>データウエスト (Data West)</publisher>
+		<rom name="tankentai 2 - makyo amazon disk1.2d" size="327680" crc="0898c771" sha1="da338bbe824525110e2572632efac18ebd912f52" />
+		<rom name="tankentai 2 - makyo amazon disk2.2d" size="327680" crc="76efd447" sha1="17f7b97914d304bdd0df56664e46f8d51b4e5022" />
+	</machine>
+	<machine name="tap2dsk">
+		<description>TAP2DSK</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="tap2dsk.2d" size="327680" crc="7b7e57a5" sha1="9f5161d13b387f131cf1208ec75a23f79dd8b84c" />
+	</machine>
+	<machine name="tapbas">
+		<description>HuBASIC CZ-8CB01 (v1.0, Tape vers.)</description>
+		<year>19??</year>
+		<publisher>シャープ (Sharp)</publisher>
+		<rom name="cz8cb01.2d" size="327680" crc="36719812" sha1="d016b8b87d890f35d622082c1b23ae128bb39b2f" />
+	</machine>
+	<machine name="tenshit">
+		<description>Tenshi-tachi no Gogo</description>
+		<year>1985?</year>
+		<publisher>ジャスト (Jast)</publisher>
+		<rom name="tenshi-tachi no gogo.2d" size="327680" crc="44c8af0c" sha1="b76c80b27607cb952ee3b71f5d8f581dcbd77ef6" />
+	</machine>
+	<machine name="tetris">
+		<description>Tetris</description>
+		<year>1988</year>
+		<publisher>B·P·S (Bullet-Proof Software)</publisher>
+		<rom name="tetris.2d" size="327680" crc="07c7c30f" sha1="849bef506e601a93a58cad9178c9e42ea1a4b6cb" />
+	</machine>
+	<machine name="tforce">
+		<description>Thunder Force</description>
+		<year>1984?</year>
+		<publisher>テクノソフト (Techno Soft)</publisher>
+		<rom name="tf1.d88" size="348816" crc="ac41f8fe" sha1="119e9931eea60dc4468dfcfbdd7abd502add9c41" />
+	</machine>
+	<machine name="thexder">
+		<description>Thexder</description>
+		<year>1985</year>
+		<publisher>スクウェア (Square)</publisher>
+		<rom name="thexder.d88" size="349920" crc="757472e8" sha1="4c7c5b468c1f85ad927e5bca9945b67732d57b9f" />
+	</machine>
+	<machine name="thndrbal">
+		<description>Thunder Ball</description>
+		<year>1986</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="thndrbal.2d" size="327680" crc="b59a446c" sha1="e71b1eba1125ebceb475b1884b56b18f3df91298" />
+	</machine>
+	<machine name="timepara">
+		<description>Time Paradox</description>
+		<year>1987</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="timeparadox (19xx)(-)(jp)(disk 1 of 2).2d" size="327680" crc="9297b758" sha1="c5bf5971877c85f969858cd55660a78e213006ba" />
+		<rom name="timeparadox (19xx)(-)(jp)(disk 2 of 2).2d" size="327680" crc="22985847" sha1="ac7b35a2d414b74798da2139af64376cfbfd5b56" />
+	</machine>
+	<machine name="tokyo">
+		<description>Tokyo</description>
+		<year>1987</year>
+		<publisher>スタークラフト (Starcraft)</publisher>
+		<rom name="to ky o disk1.d88" size="348848" crc="3a0aa58c" sha1="bd0dcfa082897ba47969e223fb5ad56dd7845ef4" />
+		<rom name="to ky o disk2.d88" size="348848" crc="9e3fa63a" sha1="a9faf8bbd612fe5e793cf681efbc5cf14021b33f" />
+	</machine>
+	<machine name="tokyons">
+		<description>Tokyo Nampa Street</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="tokyo nampa street (19xx)(enix)(jp).2d" size="327680" crc="031770e4" sha1="446ae4ccc09c0b77365fbb141a3f2baf52053990" />
+	</machine>
+	<machine name="topzip">
+		<description>Topple Zip</description>
+		<year>1986</year>
+		<publisher>ボーステック (Bothtec)</publisher>
+		<rom name="topplezip.d88" size="348848" crc="d9bf3c11" sha1="fe83af9a99e67402e1132b713e25779317f06f35" />
+	</machine>
+	<machine name="toypop">
+		<description>Toy Pop</description>
+		<year>1989</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="toypop.2d" size="327680" crc="72a42036" sha1="b579b31cf407a59498f538cf61b25fe48cb3bb0e" />
+	</machine>
+	<machine name="triton">
+		<description>Triton</description>
+		<year>1985</year>
+		<publisher>ザインソフト (Sein Soft)</publisher>
+		<rom name="tritorn.d88" size="339328" crc="39e54886" sha1="6897a741430cc9372d5b440bb40c7fff2f242181" />
+	</machine>
+	<machine name="triviaq">
+		<description>Trivia Q</description>
+		<year>1985?</year>
+		<publisher>クロスメディアソフト (Cross Media Soft)</publisher>
+		<rom name="trivia q.d88" size="396176" crc="8d660b88" sha1="eee0ab2e898c6968b43da4fac6e9625b74053192" />
+	</machine>
+	<machine name="trumpkyo">
+		<description>Trump Kyo</description>
+		<year>1985</year>
+		<publisher>ハドソン (Hudson Soft)</publisher>
+		<rom name="trumpkyo.2d" size="327680" crc="9dae7bd0" sha1="8413c08a9f39a6b8c817b91da5461438d56cc9aa" />
+	</machine>
+	<machine name="turbobas">
+		<description>Turbo BASIC CZ-8FB02</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cz-8fb02 turbo basic.d88" size="1089776" crc="228f1da3" sha1="6a4cbaf9be49b8b5433a4cb453a15929f2fd30cd" />
+	</machine>
+	<machine name="turbobasa">
+		<description>Turbo BASIC CZ-8FB02 (alt)</description>
+		<year>19??</year>
+		<publisher>シャープ (Sharp)</publisher>
+		<rom name="zzz-unk-cz8fb02.2d" size="327680" crc="48bcb22e" sha1="0ee3f7de9b172544115560b6333a2d88618f56c4" />
+	</machine>
+	<machine name="turbzbas">
+		<description>Turbo-Z BASIC CZ-8FB03</description>
+		<year>19??</year>
+		<publisher>シャープ (Sharp)</publisher>
+		<rom name="cz-8fb03 turboz basic.d88" size="1089776" crc="01215aa3" sha1="cc15f2d6dfe561e53f3ee642034e412f5a321264" />
+	</machine>
+	<machine name="uedabgm1">
+		<description>Junichi Ueda BGM Collection Vol.1 for X1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="bgmx1v1.d88" size="422160" crc="3769cff2" sha1="12bf9219340eeacf3088c342e6a2be2a194fdbeb" />
+	</machine>
+	<machine name="uedabgm2">
+		<description>Junichi Ueda BGM Collection Vol.2 for X1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="bgmx1v2.d88" size="422160" crc="150d1d60" sha1="ab835259ba6ec3bcfc6cb6cdc7a67b66d3bb4cc6" />
+	</machine>
+	<machine name="ultima4a">
+		<description>Ultima IV - Quest of the Avatar (alt)</description>
+		<year>1987</year>
+		<publisher>ポニカ (PonyCa)</publisher>
+		<rom name="ultima4_a.d88" size="348848" crc="22800fee" sha1="2b123ff38df56801482bdc785655137892b411ac" />
+		<rom name="ultima4_b.d88" size="348848" crc="1878379e" sha1="31b7fa096e2476b250b93c6044a8f289927e6dcd" />
+		<rom name="ultima4_c.d88" size="348848" crc="0674d3b6" sha1="88c3b7a22ecb0bfabdb6d35b2d7e2e8747027c9c" />
+		<rom name="ultima4_d.d88" size="348848" crc="890ce733" sha1="16e6e4cdfbebc0bd06fb4549a13017fbcc8cd0c0" />
+	</machine>
+	<machine name="ultima4">
+		<description>Ultima IV - Quest of the Avatar</description>
+		<year>1987</year>
+		<publisher>ポニカ (PonyCa)</publisher>
+		<rom name="ultim4b.d88" size="359248" crc="4b3982ca" sha1="63d7b4ad39b44848dd06333a90b071703a51880e" />
+		<rom name="ultim4d.d88" size="369648" crc="ebbee205" sha1="8740388d47ac0ab28f735a3bb036eabb2b65a538" />
+		<rom name="ultim4t.d88" size="359248" crc="99613c8f" sha1="d21a7cc1289f7a9219a7a5bc5c317d78ea26e96f" />
+		<rom name="ultim41.d88" size="359248" crc="ddc8a174" sha1="0df3eb964e92944c12835d4d6f81e7c8466614a2" />
+	</machine>
+	<machine name="unk_fl1">
+		<description>Unknown Disk</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="unk_disk.d88" size="348848" crc="821d3e69" sha1="8de8f1855fa97a2381b9a3328c331c14d3d79300" />
+	</machine>
+	<machine name="uootoy">
+		<description>Uootoy</description>
+		<year>1986</year>
+		<publisher>コムパック (Compaq)</publisher>
+		<rom name="uootoy.d88" size="348848" crc="0923d396" sha1="11cabc256653b12858f17f97df7e3d0284b602d7" />
+	</machine>
+	<machine name="uruseiya">
+		<description>Urusei Yatsura</description>
+		<year>1987</year>
+		<publisher>マイクロキャビン (Micro Cabin)</publisher>
+		<rom name="uruseiyatsura1.d88" size="380064" crc="f1ef904a" sha1="955a9e56422e3f5a18e44816d9b914b53c19cabe" />
+		<rom name="uruseiyatsura2.d88" size="380848" crc="3663d607" sha1="d8395b6ba6d98e06c895102ab99a3d3802f281d2" />
+		<rom name="uruseiyatsura3.d88" size="380848" crc="35f8de26" sha1="9e2df38666ce5ef43be4dc394920647a83e91d7f" />
+	</machine>
+	<machine name="valis">
+		<description>Mugen Senshi Valis</description>
+		<year>1986</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="valis_a.d88" size="415840" crc="68ae043f" sha1="acdd3fb2569f1e26d9d8a30379eeb6a5f32e6128" />
+		<rom name="valis_b.d88" size="415840" crc="421acab7" sha1="d9e24da0187c2ee2800da80f163d3c78d035108b" />
+	</machine>
+	<machine name="victnine">
+		<description>Victorious Nine</description>
+		<year>1985</year>
+		<publisher>ニデコム (Nidecom)</publisher>
+		<rom name="victorious nine.d88" size="350560" crc="2fc94dfd" sha1="e29f55bed953e0304d88b8eed9448f31eb888298" />
+	</machine>
+	<machine name="vip">
+		<description>V.I.P. - Visual Instrument Player</description>
+		<year>19??</year>
+		<publisher>Kamiya</publisher>
+		<rom name="vip_a.2d" size="327680" crc="3101d7c6" sha1="39fb6b8c32cd296562f7f3e354927dbd00be4d84" />
+		<rom name="vip_b.2d" size="327680" crc="9c96c016" sha1="d037d6057e01c4b33f13bc12a8ee860c16ef42be" />
+	</machine>
+	<machine name="vipa">
+		<description>V.I.P. - Visual Instrument Player (alt)</description>
+		<year>19??</year>
+		<publisher>Kamiya</publisher>
+		<rom name="vip_data.2d" size="327680" crc="6e5c4da5" sha1="c947190495ded49a9f279f7ead61b6bcec4c2e13" />
+		<rom name="vip_sys.2d" size="327680" crc="f8708a8f" sha1="2a9f0afee23a11ad3f0354bb1eaa22ae25a47f92" />
+	</machine>
+	<machine name="vipb">
+		<description>V.I.P. - Visual Instrument Player (alt 2)</description>
+		<year>19??</year>
+		<publisher>Kamiya</publisher>
+		<rom name="zzz-unk-fmmusic.d88" size="348848" crc="41628a04" sha1="bade85f8ddc44822474b7bdfa1406dc9b59a7988" />
+	</machine>
+	<machine name="vipc">
+		<description>V.I.P. - Visual Instrument Player (alt 3?)</description>
+		<year>19??</year>
+		<publisher>Kamiya</publisher>
+		<rom name="system_z.d88" size="1089776" crc="f3e03a73" sha1="321c6631ba11ca04cd2dfdbd95d2b941b6cc6fd4" />
+	</machine>
+	<machine name="vipd">
+		<description>Music Tool V.I.P.</description>
+		<year>19??</year>
+		<publisher>シャープ (Sharp)</publisher>
+		<rom name="fm ongen.d88" size="1089776" crc="3676fbc2" sha1="483023bae28c20c9de8cdba005ceeebd063fa5ae" />
+	</machine>
+	<machine name="wibarm">
+		<description>Wibarm</description>
+		<year>1986</year>
+		<publisher>アルシスソフト (Arsys Soft)</publisher>
+		<rom name="wibarm.d88" size="414992" crc="05e830ad" sha1="a4e42f3edb83ee4957c85e5b448a4e0355f7da39" />
+		<rom name="wibarm_u.d88" size="414992" crc="db73c7f5" sha1="a111e372133dcee25b513168449248012fe8f3a5" />
+	</machine>
+	<machine name="wibarma">
+		<description>Wibarm (alt)</description>
+		<year>1986</year>
+		<publisher>アルシスソフト (Arsys Soft)</publisher>
+		<rom name="wibarma_u.d88" size="414992" crc="8d154f9c" sha1="057980ddf6a0b86f3c344ec7aa0bf8b25dd31dd2" />
+	</machine>
+	<machine name="will">
+		<description>Will - The Death Trap II</description>
+		<year>1985</year>
+		<publisher>スクウェア (Square)</publisher>
+		<rom name="will 2.d88" size="350432" crc="b5def050" sha1="00d52f469e2831a08ef7a56e1bfe7a2f01a9f60f" />
+	</machine>
+	<machine name="wingman2">
+		<description>Wingman 2 - Kitakura no Fukkatsu</description>
+		<year>1986</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="wingman_2a.2d" size="327680" crc="33b40f6c" sha1="151398381fa5999a55e1ddea9987251ec9319f72" />
+		<rom name="wingman_2b.2d" size="327680" crc="f3075652" sha1="7de0dc36e065521f2819c1f86ef8f9a3af15dcad" />
+	</machine>
+	<machine name="wingman">
+		<description>Wingman</description>
+		<year>1985</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="wingman.d88" size="327680" crc="862579ae" sha1="79d625917e776bcf71afe8678f897942352fc0bf" />
+	</machine>
+	<machine name="wizardr2">
+		<description>Wizardry 2 - The Knight of Diamonds</description>
+		<year>1987</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="wiz2.d88" size="380048" crc="ca77dfd2" sha1="c80e5f6306a820da69cdee243ed5d31ea85e6d50" />
+	</machine>
+	<machine name="wizardr3">
+		<description>Wizardry 3 - The Legacy of Llylgamyn</description>
+		<year>1987?</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="wiz3.d88" size="380048" crc="df710fae" sha1="00a9c50a16a8cd31133e0d5535c919dd8eacdf09" />
+	</machine>
+	<machine name="wizardr4">
+		<description>Wizardry 4 - The Return of Werdna</description>
+		<year>1989</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="wiz4_a.d88" size="380048" crc="3a56199c" sha1="1a1247cbb5ce78a3f74d4423109cb48c0d165f39" />
+		<rom name="wiz4_b.d88" size="380048" crc="32fec3b0" sha1="c5db0e8b93bc493ee17b312eac12924ca3eebf4a" />
+		<rom name="wiz4_c.d88" size="380048" crc="2067eb69" sha1="ce183720bcc9ce25c3ac15b7aefe73917d0042c5" />
+	</machine>
+	<machine name="wizardry">
+		<description>Wizardry - Proving Grounds of the Mad Overlord!</description>
+		<year>1986</year>
+		<publisher>アスキー (ASCII)</publisher>
+		<rom name="wiz1.d88" size="380048" crc="4a06e565" sha1="7997956888d581fef9997843d4b59e6a89a0ca9f" />
+	</machine>
+	<machine name="woodypoc">
+		<description>Woody Poco</description>
+		<year>1986</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="woody poco (1986)(db-soft).2d" size="327680" crc="53fd0c2a" sha1="09077953ec3f7421d1b35edd22e3be9d29585e63" />
+	</machine>
+	<machine name="woodypoca">
+		<description>Woody Poco (alt)</description>
+		<year>1986</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="u_poko.d88" size="348848" crc="80cc71b2" sha1="a905ec6c4ea1900a4f397eac448f63c84c88f85e" />
+	</machine>
+	<machine name="woodypocb">
+		<description>Woody Poco (alt 2)</description>
+		<year>1986</year>
+		<publisher>デービーソフト (dB-Soft)</publisher>
+		<rom name="wodydata.d88" size="537520" crc="3ff620b9" sha1="0a6682318141c08c3e8c0f8865d824a44417da44" />
+		<rom name="wodypoco.d88" size="348848" crc="6c9dc652" sha1="0003c6916a1d2b5b1ac8f09a7be046d29eeaade6" />
+	</machine>
+	<machine name="worldgl2">
+		<description>World Golf II</description>
+		<year>1988</year>
+		<publisher>エニックス (Enix)</publisher>
+		<rom name="wg2_a.d88" size="348848" crc="ca6a24cb" sha1="00f4ea939f51adab6cfb480aaff50dd96be1134e" />
+		<rom name="wg2_b.d88" size="348848" crc="a84fc806" sha1="bda26c531de6ec0ce475465b628da5444772b5f0" />
+	</machine>
+	<machine name="x1cdemo">
+		<description>X1c Demo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="d_x1c.d88" size="178304" crc="b2d606fd" sha1="5fe86856d1bc6265ec7b6e3ac3a0d243a4804014" />
+	</machine>
+	<machine name="x1demo">
+		<description>X1 Demo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="x1_demo.d88" size="348848" crc="e20e2d4f" sha1="6643931a25c8875aa61d5f9e6672d04af2e2e015" />
+	</machine>
+	<machine name="x1demoa">
+		<description>X1 Demo (alt)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="x1demo.2d" size="327680" crc="25aed298" sha1="2029d60b44cd615906f25e39ac7b1dafcf8e72aa" />
+	</machine>
+	<machine name="x1fdemo">
+		<description>X1f Demo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="d_x1f.d88" size="348848" crc="71c6389d" sha1="a105c7fb5605133e89d16d830af6a29b9ac5292a" />
+	</machine>
+	<machine name="x1gdemo">
+		<description>X1g Demo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="d_x1g.d88" size="348848" crc="2d54731b" sha1="84c549f64245d307ce534f42255b4a990d2a07e9" />
+	</machine>
+	<machine name="x1gdemoa">
+		<description>X1g Demo (alt)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="x1g_demo.2d" size="327680" crc="cc491eb4" sha1="10c934d2dc40793ca119c782dce326041f0742a4" />
+	</machine>
+	<machine name="x1gmpk1">
+		<description>X1GM Pack 1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="x1gm_pk1.d88" size="348848" crc="36b58bdf" sha1="cba2847cbba633eaaca5a7c049f42e7730af1ad0" />
+	</machine>
+	<machine name="x1gmpk2">
+		<description>X1GM Pack 2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="x1gm_pk2.d88" size="348848" crc="9bbeaa1d" sha1="e8792976965706ee4e1fa6babb4e66d883f7bd05" />
+	</machine>
+	<machine name="x1gmpk3">
+		<description>X1GM Pack 3</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="x1gm_pk3.d88" size="348848" crc="319650a3" sha1="138b400c7b32bae2238f5bc5257c13507ada2e8c" />
+	</machine>
+	<machine name="x1tdemo">
+		<description>X1 TurboII Demo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="d_x1t2.d88" size="348848" crc="59a8bb12" sha1="44c0c729ec13ecbc39fbed82fa991baf59ab4c9f" />
+	</machine>
+	<machine name="xanadu2">
+		<description>Xanadu Scenario II - The Resurrection of Dragon</description>
+		<year>1986</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="xanadu2_c(user).d88" size="416384" crc="c5c5cb83" sha1="6e5eef268f058f89acb9e4cca21aeb4f1f676208" />
+		<rom name="xanadu2_d.d88" size="413760" crc="a7f49097" sha1="8af076393a5796ca6ce6443cb10da80d0bd9077d" />
+		<rom name="xanadu2_e.d88" size="415840" crc="498c4b7e" sha1="8ef8545ebbb88df5068d6f0a96c38e519441fa07" />
+		<rom name="xanadu-a(opm)_magickai.d88" size="415840" crc="68698e73" sha1="53bff37252461c30f23b3f00aa1e4fe12b36c42d" />
+		<rom name="xanadu-b(opm).d88" size="415840" crc="7be52008" sha1="97cbd99ff3c6904849c86ea5992ac7d88b1cc4d3" />
+	</machine>
+	<machine name="xanadu">
+		<description>Xanadu</description>
+		<year>1985</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="xanadu_a.d88" size="415840" crc="89ff1612" sha1="a1e9abfde29f169841a6e77267cf85f1a69475cd" />
+		<rom name="xanadu_b.d88" size="415840" crc="40bf59ac" sha1="3586dee49739d72ffe827435bf8fa3211d0b5cca" />
+		<rom name="xanadu_c(user).d88" size="416384" crc="e3d2cff7" sha1="bc2bb8b7a145462b5233e353f500d9be1f5397f8" />
+	</machine>
+	<machine name="xdos">
+		<description>X-DOS</description>
+		<year>1990</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="xdos_sys.d88" size="422160" crc="a35c4f89" sha1="52d503c349132af1a5bf8bbca2ba480e4b5a8d6e" />
+		<rom name="xdosutil.d88" size="422160" crc="73617547" sha1="0cee25e4ef6bf9723687e8427ea0ce6892bdfd03" />
+	</machine>
+	<machine name="xevious">
+		<description>Xevious</description>
+		<year>19??</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="xevious (19xx)(namco).d88" size="344768" crc="dc93900d" sha1="f81545b62068d8eb91f209caf5a57df252b930c2" />
+	</machine>
+	<machine name="xeviousa">
+		<description>Xevious (alt)</description>
+		<year>19??</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="xevious.2d" size="327680" crc="ae2009bf" sha1="85ac12e13b493d3d4e146eaa213ed8ce1e113fa1" />
+	</machine>
+	<machine name="yaksadem">
+		<description>Yaksa Demo?</description>
+		<year>1987</year>
+		<publisher>ウルフチーム (WolfTeam)</publisher>
+		<rom name="yaksa_demo.d88" size="416416" crc="d6cf37e4" sha1="4e325055da184724b6f1a6638bfb8dddb2b7601b" />
+	</machine>
+	<machine name="ys2">
+		<description>Ys II - Ancient Ys Vanished The Final Chapter</description>
+		<year>1988</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="ys2_a.d88" size="415840" crc="077dd07e" sha1="9f4c4293674472937a8cb37f3866e5f5ad27e0ca" />
+		<rom name="ys2_b.d88" size="415840" crc="201e1aa6" sha1="e2937beff3097cf5827a57861e4ed901e7c37e36" />
+		<rom name="ys2_p.d88" size="415840" crc="9cd578d2" sha1="5099b8860580de76ac224d4fc11b7e42aeae340c" />
+		<rom name="ys2_u.d88" size="33952" crc="ab6d4913" sha1="cfeba57cb4edf4dfe7cab9b3c339b84236bdb5dd" />
+	</machine>
+	<machine name="ys3">
+		<description>Wanderers from Ys</description>
+		<year>1989?</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="ys3_d1.d88" size="415840" crc="7ce0c5f0" sha1="a9db94fd74038d1cba8a338a1319830e9b3f4aaa" />
+		<rom name="ys3_d2.d88" size="415840" crc="d632dc9d" sha1="8927ee49cff3bb95b68e4de5a338f661614f6369" />
+		<rom name="ys3_prg.d88" size="415840" crc="6698bb78" sha1="cbdd1c7c2df31b7b7e0ca86a647ed499e347d4fc" />
+		<rom name="ys3_sce.d88" size="415840" crc="753ac584" sha1="8a76ea1111f7be920581e9999af63597bc2881dd" />
+	</machine>
+	<machine name="ys">
+		<description>Ys - Ancient Ys Vanished Omen</description>
+		<year>1987</year>
+		<publisher>日本ファルコム (Nihon Falcom)</publisher>
+		<rom name="user.d88" size="348848" crc="97e1d16a" sha1="cfcf4d849b90fe99c4f300d03ca9b9faeae0ad97" />
+		<rom name="ys_a.d88" size="415840" crc="b439fdc2" sha1="1fe34ce088740b348145008997dd65dd8050110f" />
+		<rom name="ys_b.d88" size="415840" crc="04bcaf77" sha1="26a6a06af93108a1d67fe40d22497825764e6a48" />
+	</machine>
+	<machine name="zeliard">
+		<description>Zeliard X1</description>
+		<year>1988</year>
+		<publisher>ゲームアーツ (Game Arts)</publisher>
+		<rom name="zeliard x1_a.d88" size="392368" crc="fc506b6f" sha1="a39a684eedcfb1299ff42ac894b7ecff31fffd0b" />
+		<rom name="zeliard x1_b.d88" size="392368" crc="deede0f8" sha1="2ddbd1dc2307d59588d348fb4cd6df6227af759a" />
+		<rom name="zeliard x1_c.d88" size="392368" crc="185e17d2" sha1="8fc594149dfd62ed3fc0290f1d86e5c7ebe79ffb" />
+		<rom name="zeliard x1_datamake.d88" size="392368" crc="dd8def36" sha1="4810d20dcebec4084ccae4c4aa89324415affbf2" />
+	</machine>
+	<machine name="zeta5">
+		<description>Zeta Dai 5 Go</description>
+		<year>1987?</year>
+		<publisher>チャンピオンソフト (Champion Soft)</publisher>
+		<rom name="zeta 5 (19xx)(championsoft)(jp)(disk 1 of 2).2d" size="327680" crc="4e6f66f4" sha1="0b2c0e708ebd9df2d24e6ade3694ed3e0882746b" />
+		<rom name="zeta 5 (19xx)(championsoft)(jp)(disk 2 of 2).2d" size="327680" crc="d8c88983" sha1="5a8fa6acbc4f031fccf47d8e7c2140f86c7bab3a" />
+	</machine>
+	<machine name="zgundam">
+		<description>Z Gundam</description>
+		<year>198?</year>
+		<publisher>バンダイ (Bandai)</publisher>
+		<rom name="z-gundam.d88" size="348848" crc="3390e684" sha1="fbf53c79d6db251f98f4a8f6ccbf49641289a867" />
+	</machine>
+</datafile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>lk3000</name>
+		<description>LK-3000 Cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="calc">
+		<description>Calculator</description>
+		<year>1979</year>
+		<publisher>Lexicon</publisher>
+		<rom name="sc80249p_lk3900m" size="2048" crc="192edfcf" sha1="527216b6e15b9ab5f83742f437a5a8d8eef14ce2" />
+	</machine>
+	<machine name="german">
+		<description>English-German</description>
+		<year>1979</year>
+		<publisher>Lexicon</publisher>
+		<rom name="lk_3080_r1" size="4096" crc="1712568d" sha1="24db112e0845fcf8451721a1f9a043aed4995d98" />
+		<rom name="lk_3080_r2" size="4096" crc="669479d1" sha1="3bae1d6fc80781053c127908b8154e16bee933b9" />
+		<rom name="sc80236p_lk3080m" size="2048" crc="69019491" sha1="d452d1c7b70310c1da9cea2e8b2b1369e1e4cc92" />
+	</machine>
+	<machine name="notebook">
+		<description>Electronic Notebook</description>
+		<year>1980</year>
+		<publisher>Lexicon</publisher>
+		<rom name="sc80293p_lk3500m" size="2048" crc="ec8e7d7c" sha1="13e0b174647ecea8f0db5511b7b93df504e91aa9" />
+	</machine>
+</datafile>

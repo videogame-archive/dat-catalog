@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jb3000_flop</name>
+		<description>Panasonic JB-3000 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dos125">
+		<description>MS-DOS v1.25</description>
+		<year>1982</year>
+		<publisher>Microsoft</publisher>
+		<rom name="JB-3000 MS-DOS (8-inch).imd" size="200914" crc="8aba9f35" sha1="7dba4f64296039d88c35098c71f30ab32e9e081e" />
+	</machine>
+</datafile>

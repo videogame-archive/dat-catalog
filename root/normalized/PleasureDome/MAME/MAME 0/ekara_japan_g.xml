@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_g</name>
+		<description>Takara e-kara (Japan) Gold Cartridge series (G-xx / GCxxxx-)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="gc0001">
+		<description>Best Artist Volume 1 (Morning Musume, Petit Moni, Tanpopo) (Japan) (GC0001-BAT)</description>
+		<year>2000</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0001-bat.u1" size="1048576" crc="226224f3" sha1="d2609f342e19b0cd38678d2709866baa041658e7" />
+	</machine>
+	<machine name="gc0002">
+		<description>Best Hit Volume 1 (Japan) (GC0002-BHT)</description>
+		<year>2000</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0002-bht.u1" size="1048576" crc="eae1cb3b" sha1="d1e594858eecde5409898684654caab0555ac1b4" />
+	</machine>
+	<machine name="gc0003">
+		<description>Best Artist Volume 2 (Utada Hikaru) (Japan) (GC0003-BAT)</description>
+		<year>2000</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0003-bat.u1" size="1048576" crc="49536d5a" sha1="c112b6ac62f586fc1d1615406362fc659e587772" />
+	</machine>
+	<machine name="gc0004">
+		<description>Best Hit Volume 2 (Japan) (GC0004-BHT)</description>
+		<year>2000</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0004-bht.u1" size="1048576" crc="6d2e9711" sha1="0478578c297f14d78a6612ecd61387129bd6df42" />
+	</machine>
+	<machine name="gc0005">
+		<description>TV Pop Junior Volume 1 (Japan) (GC0005-TPJ)</description>
+		<year>2000</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0005-tpj.u1" size="1048576" crc="b1fda1a4" sha1="a135226aa400c5a78060b08d5f64eb6a06c990e7" />
+	</machine>
+	<machine name="gc0006">
+		<description>Best Hit Volume 3 (Japan) (GC0006-BHT)</description>
+		<year>2000</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0006-bht.u1" size="1048576" crc="76bbefae" sha1="a2a41f58b5750fafa92d6e3094562dd05a5d9029" />
+	</machine>
+	<machine name="gc0007">
+		<description>Best Artist Volume 3 (Morning Musume, San-nin Matsuri, 7-nin Matsuri, 10-nin Matsuri) (Japan) (GC0007-BAT)</description>
+		<year>2000</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0007-bat.u1" size="1048576" crc="27b49bdb" sha1="2b64d978fc5df5869bc3c27d16642727e2d38999" />
+	</machine>
+	<machine name="gc0008a">
+		<description>mini-moni (Japan) (GC0008-MIN) (set 2)</description>
+		<year>2001</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0008-min(alt).u1" size="2097152" crc="b34d1721" sha1="3621f02423f55c43d1b16855c01189719ddbcb6e" />
+	</machine>
+	<machine name="gc0008">
+		<description>mini-moni (Japan) (GC0008-MIN) (set 1)</description>
+		<year>2001</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0008-min.u1" size="2097152" crc="8414c402" sha1="340c432eec8eb2108b8364b5936dd22dc34b51a9" />
+	</machine>
+	<machine name="gc0010">
+		<description>Best Artist Volume 4 (Morning Musume, Tanpopo, Petit Moni, Gotō Maki) (Japan) (GC0010-BAT)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0010-bat.u1" size="1048576" crc="c08be376" sha1="28cb6baacf64e0382fd9c8bb7167d7fdd96f57ee" />
+	</machine>
+	<machine name="gc0011">
+		<description>TV Pop Junior Volume 4 (Japan) (GC0011-TPJ)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0011-tpj.u1" size="1048576" crc="4ca23131" sha1="297cea5f456c90820adc97cf0f8a40b058edb0b5" />
+	</machine>
+	<machine name="gc0014">
+		<description>mini-moni Volume 2 (GC0014-MIN)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0014-min.u1" size="2097152" crc="309e0337" sha1="ac68ad33fd15d7c2cc507efc645a04a2e6d08d49" />
+	</machine>
+	<machine name="gc0015">
+		<description>Best Artist Volume 5 (Morning Musume, Petit Moni, Tanpopo) (Japan) (GC0015-BAT)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0015-bat.u1" size="1048576" crc="a839b745" sha1="a02bd29383baf1f92b3573aaa6343cc309a6f589" />
+	</machine>
+	<machine name="gc0016">
+		<description>TV Pop Junior Volume 5 (Japan) (GC0016-TPJ)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0016-tpj.u1" size="1048576" crc="52d81c55" sha1="c2fad86a2507589625cb507c3e1395cb662f9e34" />
+	</machine>
+	<machine name="gc0017">
+		<description>TV Pop Junior Volume 6 (Japan) (GC0017-TPJ)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0017-tpj.u1" size="1048576" crc="2c7d00a2" sha1="5976b9f3a95afb3b23f1d1d996de0b7aa41ee25c" />
+	</machine>
+	<machine name="gc0018">
+		<description>TV Pop Junior Volume 7 (Japan) (GC0018-TPJ)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="gc0018-tpj.u1" size="1048576" crc="5e7fee64" sha1="14ebc6e47808f30de4724ec720c49223c2c6f22d" />
+	</machine>
+</datafile>

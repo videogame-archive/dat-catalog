@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HBMAME 0.245.10 Rollback CHDs</name>
+		<description>HBMAME 0.245.10 Rollback CHDs</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>newuzer</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="HBMAME (v0.208) - jojo">
+		<description>HBMAME (v0.208) - jojo</description>
+		<rom name="cap-jjk-3.chd" size="38788434" crc="45c90cf5" sha1="a437fe1aa78f9e6a2ea06821a393f0aafb91a2c5"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - jojoba">
+		<description>HBMAME (v0.208) - jojoba</description>
+		<rom name="cap-jjm-1.chd" size="48188980" crc="1e3b0e8d" sha1="2b6e65d646d55a2b37492607a0365a7deede392f"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - sfiii">
+		<description>HBMAME (v0.208) - sfiii</description>
+		<rom name="cap-sf3-3.chd" size="37713368" crc="0f750258" sha1="197c7dd269c686a5c16f42de5ecc6382138984df"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - sfiii2">
+		<description>HBMAME (v0.208) - sfiii2</description>
+		<rom name="cap-3ga000.chd" size="43244306" crc="36ce299d" sha1="cec491181bf053aa4b40c3954a9123a99ed26a9f"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - sfiii3">
+		<description>HBMAME (v0.208) - sfiii3</description>
+		<rom name="cap-33s-2.chd" size="81458749" crc="f958c3d5" sha1="957eda3242f9940754662b48b4ffcb86125fa486"/>
+	</machine>
+</datafile>

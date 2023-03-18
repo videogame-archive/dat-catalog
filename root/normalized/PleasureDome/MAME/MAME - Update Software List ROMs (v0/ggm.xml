@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ggm</name>
+		<description>GGM Cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="capas">
+		<description>Capablanca-S Edition: Master Chess Endgame</description>
+		<year>1982</year>
+		<publisher>Applied Concepts</publisher>
+		<rom name="capablanca-s.6" size="8192" crc="24ab74e0" sha1="473d91458db7f4c771f694934f95ed9d2ab5471a" />
+		<rom name="capablanca-s.e" size="8192" crc="f42700e4" sha1="80cf7da34784865ff3e82b19c0aa269ef778df66" />
+	</machine>
+	<machine name="gruen">
+		<description>Gruenfeld Edition: Master Chess Openings</description>
+		<year>1981</year>
+		<publisher>Applied Concepts</publisher>
+		<rom name="gruenfeld.4" size="4096" crc="4399306d" sha1="e3af32559c34bd91924ddfeb23c4797c90f1279d" />
+		<rom name="gruenfeld.5" size="4096" crc="66eddf41" sha1="8a1957f89e7b8a97c17c26fa755f9b640fba0760" />
+	</machine>
+	<machine name="lasvegas">
+		<description>Las Vegas 21: Master Blackjack</description>
+		<year>1980</year>
+		<publisher>Applied Concepts</publisher>
+		<rom name="0077042xxx" size="4096" crc="26541ac5" sha1="8a3304b4528570d23a7441629efa8de10c37f49e" />
+	</machine>
+	<machine name="odin">
+		<description>Odin Edition: Master Reversi</description>
+		<year>1981</year>
+		<publisher>Applied Concepts</publisher>
+		<rom name="0_odin_12_31" size="4096" crc="e40e33d0" sha1="55217755f08bce628c072a5ca950d20052d154a9" />
+		<rom name="1_odin_12_31" size="4096" crc="1dd4033d" sha1="6f252766b73ef88e5f8e93a5d0d7cf0182739f03" />
+	</machine>
+</datafile>

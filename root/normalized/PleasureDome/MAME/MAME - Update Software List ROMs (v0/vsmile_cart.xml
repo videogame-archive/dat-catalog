@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vsmile_cart</name>
+		<description>VTech V.Smile cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="aladdinuk">
+		<description>Disney's Aladdin - Aladdin's Wonders of the World (UK)</description>
+		<year>2005</year>
+		<publisher>VTech</publisher>
+		<rom name="52-92203- Disney Aladdin - Wonders of the World (UK).bin" size="8388608" crc="244eb37a" sha1="c8131f488e563ef1a7f045ef3601670d02ca404e" />
+	</machine>
+	<machine name="alphaprkuk">
+		<description>Alphabet Park Adventure (UK)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="092003.u2" size="2097152" crc="60cfb1b4" sha1="f37ad4dd774c26abb998f616ab7ad0adce83359d" />
+	</machine>
+	<machine name="carsuka">
+		<description>Disney/Pixar Cars - Rev It Up in Radiator Springs (UK, alt)</description>
+		<year>2006</year>
+		<publisher>VTech</publisher>
+		<rom name="Cars(UK).bin" size="8388608" crc="d88af931" sha1="04dab1eccde66a80fc252b30e91d8718ace5a525" />
+	</machine>
+	<machine name="dorauk">
+		<description>Nick Jr. Dora the Explorer - Dora's Fix-it Adventure (UK, 2005)</description>
+		<year>2005</year>
+		<publisher>VTech</publisher>
+		<rom name="52-92283 - Dora's Fix-it Adventure (UK).bin" size="8388608" crc="055e3351" sha1="b9232fd8b9792e1ecd4349924515cc72e27f7af0" />
+	</machine>
+	<machine name="mickymaguk">
+		<description>Disney's Mickey Mouse - Mickey's Magical Adventure (UK)</description>
+		<year>2004?</year>
+		<publisher>VTech</publisher>
+		<rom name="52-92083.u1" size="4194304" crc="1036ec3b" sha1="78aae01287a10986e10918db1e5dfaab693c1871" />
+		<rom name="52-92083.u2" size="2097152" crc="d2939ca7" sha1="a674aca956dc3d856e34995dae668911523362ee" />
+	</machine>
+	<machine name="poohukr103">
+		<description>Disney's Winnie the Pooh - The Honey Hunt (UK)</description>
+		<year>2004?</year>
+		<publisher>VTech</publisher>
+		<rom name="Winnie the Pooh - The Honey Hunt - 092063-103 (UK).bin" size="8388608" crc="ecb06a3f" sha1="a92f0dd178f8ab73bc4b805440f89e99a13df264" />
+	</machine>
+	<machine name="spidermisuk">
+		<description>Marvel Spider-Man &amp; Friends - Secret Missions (UK)</description>
+		<year>2004</year>
+		<publisher>VTech</publisher>
+		<rom name="092143.u1" size="4194304" crc="987d99d6" sha1="78901c0029d0c4df7f151c7654c86bc43147e4cd" />
+		<rom name="092143.u2" size="2097152" crc="3eae10c6" sha1="1124233305e3b28753007c57ef356a2351cbd117" />
+	</machine>
+	<machine name="zayzaeauk">
+		<description>Zayzoo - My Alien Classmate (UK)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="52-92363(UK) - Zayzoo My Alien Classmate(UK).bin" size="8388608" crc="6ac6206a" sha1="6983b400b869f1193ff0de81af117923a2a5f3f7" />
+	</machine>
+</datafile>

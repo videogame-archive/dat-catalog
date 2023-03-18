@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jakks_gamekey_dp</name>
+		<description>JAKKS Pacific 'DP' Game Keys</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="snowwhit">
+		<description>Snow White and the Seven Dwarfs - Memory Chase &amp; Rescue Race</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Taniko</publisher>
+		<rom name="jakksdisneyprincessmemorychaserescueracegk.bin" size="2097152" crc="affca84b" sha1="f3b3a4c2db48c2c93cd616db18094470ec070068" />
+	</machine>
+</datafile>

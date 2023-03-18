@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>smarttv_cart</name>
+		<description>WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="amuseprk">
+		<description>Amusement Park</description>
+		<year>200?</year>
+		<publisher>WinFun</publisher>
+		<rom name="kidconnectionamusementpark.bin" size="4194304" crc="360f6306" sha1="72f9f9ba1498cdefd35956daf21b2668048e9af3" />
+	</machine>
+</datafile>

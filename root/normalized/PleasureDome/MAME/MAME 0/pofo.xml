@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pofo</name>
+		<description>Atari Portfolio cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="fileman">
+		<description>File Manager/Tutorial</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="ca400702-001 rev. b" size="131072" crc="924ab9f5" sha1="9b0de07a28ce058fc125d4fd7ea65074440d8393" />
+	</machine>
+</datafile>

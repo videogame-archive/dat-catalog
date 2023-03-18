@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>hyperscan</name>
+		<description>HyperScan CD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ben101">
+		<description>Ben 10 (USE1)</description>
+		<year>2006</year>
+		<publisher>Mattel</publisher>
+		<disk name="ben101" sha1="b9ca64097a69d40c10f4b6412396ec06fcf8179b" />
+	</machine>
+	<machine name="ben102">
+		<description>Ben 10 (USE2)</description>
+		<year>2006</year>
+		<publisher>Mattel</publisher>
+		<disk name="ben102" sha1="fa34cf65d91251cead457acbb1aa0cb51a26daff" />
+	</machine>
+	<machine name="iwluse1">
+		<description>IWL - Interstellar Wrestling League (USE1)</description>
+		<year>2006</year>
+		<publisher>Mattel</publisher>
+		<disk name="iwluse1" sha1="ed2751a003d2b1f05153ede4557d6179b20c9444" />
+	</machine>
+	<machine name="iwluse2">
+		<description>IWL - Interstellar Wrestling League (USE2)</description>
+		<year>2006</year>
+		<publisher>Mattel</publisher>
+		<disk name="iwluse2" sha1="eb61153a60c2df4f08496b072e0ef5df6b181aa6" />
+	</machine>
+	<machine name="marvelh">
+		<description>Marvel Heroes (USE2)</description>
+		<year>2006</year>
+		<publisher>Mattel</publisher>
+		<disk name="marvelh" sha1="df8094339255ca9c2e44004177fb8cc3737beb2e" />
+	</machine>
+	<machine name="spidrman">
+		<description>Spider-Man (USE1)</description>
+		<year>2006</year>
+		<publisher>Mattel</publisher>
+		<disk name="spidrman" sha1="41e9419601963883eb12e723e9f7184e983d09af" />
+	</machine>
+	<machine name="xmen">
+		<description>X-Men (USE)</description>
+		<year>2006</year>
+		<publisher>Mattel</publisher>
+		<disk name="xmen" sha1="d2316c228c42474b429b8b8078f517022c850188" />
+	</machine>
+</datafile>

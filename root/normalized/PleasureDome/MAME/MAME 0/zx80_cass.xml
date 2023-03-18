@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>zx80_cass</name>
+		<description>Sinclair ZX80 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="breakout">
+		<description>1K Breakout</description>
+		<year>1980</year>
+		<publisher>Macronics</publisher>
+		<rom name="Breakout (Macronics 1980).o" size="842" crc="e2843c13" sha1="a70d60f82affa744ae219b1a808d73e09430fd32" />
+	</machine>
+	<machine name="dbrkout">
+		<description>Double Breakout</description>
+		<year>1981</year>
+		<publisher>Beam Software</publisher>
+		<rom name="ZX80 Double Breakout (Beam Software 1981).o" size="726" crc="de689c74" sha1="d380dc5bbda27212e7d7c6ca281c04a8ea7742cb" />
+	</machine>
+	<machine name="mstrmind">
+		<description>Master Mind</description>
+		<year>2006</year>
+		<publisher>MadAxe</publisher>
+		<rom name="Mastermind.o" size="3950" crc="daf6da5b" sha1="18eae1df9d719fcd13703a392d29bdee46e675eb" />
+	</machine>
+	<machine name="spaceinv1">
+		<description>1K Space Invaders</description>
+		<year>1980</year>
+		<publisher>Macronics</publisher>
+		<rom name="Space Invaders 1K (Macronics 1981) Reconstruction.o" size="676" crc="38a1e5df" sha1="e68e867cbb8364e8b651e16f35e4a8b0f68fcd86" />
+	</machine>
+	<machine name="spaceinv3">
+		<description>3K Space Invaders</description>
+		<year>1980</year>
+		<publisher>Macronics</publisher>
+		<rom name="Space Invaders 3K (Macronics 1981).o" size="1878" crc="ae9cefbe" sha1="043c8102118ac179959f57bc31997fcbd9d8837d" />
+	</machine>
+	<machine name="supinvsn">
+		<description>Super Invasion</description>
+		<year>1981</year>
+		<publisher>Beam Software</publisher>
+		<rom name="ZX80 Super Invasion 1K (Beam Software 1981).o" size="900" crc="bd61a8c2" sha1="e3381f600eedf2a5309fec4baa4ebfe2eacd8ee9" />
+		<rom name="ZX80 Super Invasion 2K (Beam Software 1981).o" size="1268" crc="d7d99f55" sha1="456fa58fd684592c02d911c1745fd958e13fa5a4" />
+	</machine>
+</datafile>

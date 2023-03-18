@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>hp9831_rom</name>
+		<description>HP 9831 Option ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="mass">
+		<description>Mass storage ROM for 9831</description>
+		<year>1977</year>
+		<publisher>Hewlett-Packard</publisher>
+		<rom name="98218a.bin" size="8192" crc="6aada59b" sha1="8d17e41ed68f0653f69beb70757d5e68b0c96887" />
+	</machine>
+</datafile>

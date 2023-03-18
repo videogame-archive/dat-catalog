@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>roland_tnsc1</name>
+		<description>Roland TN-SC1 Music Style Cards</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="tnsc102">
+		<description>50's and 60's (TN-SC1-02)</description>
+		<year>19??</year>
+		<publisher>Roland</publisher>
+		<rom name="rolandtnsc102.bin" size="32768" crc="d6169516" sha1="3fe56446d3ccd43a7165f34c0b0f3e8909f576fd" />
+	</machine>
+	<machine name="tnsc103">
+		<description>70's and 80's (TN-SC1-03)</description>
+		<year>19??</year>
+		<publisher>Roland</publisher>
+		<rom name="rolandtnsc103.bin" size="32768" crc="856b233b" sha1="b01dec3807d9e98085e5849fce897d13ff4556ff" />
+	</machine>
+	<machine name="tnsc105">
+		<description>Around the World 2 (TN-SC1-05)</description>
+		<year>19??</year>
+		<publisher>Roland</publisher>
+		<rom name="rolandtnsc105.bin" size="32768" crc="2cab6491" sha1="5d6cf11097919c2f636e86a1f182cdbf00be6abf" />
+	</machine>
+	<machine name="tnsc106">
+		<description>Piano Bar (TN-SC1-06)</description>
+		<year>19??</year>
+		<publisher>Roland</publisher>
+		<rom name="rolandtnsc106.bin" size="32768" crc="55745bfc" sha1="badd297924a150e310cc8dc26d46126136e4a052" />
+	</machine>
+	<machine name="tnsc107">
+		<description>Latin (TN-SC1-07)</description>
+		<year>19??</year>
+		<publisher>Roland</publisher>
+		<rom name="rolandtnsc107.bin" size="32768" crc="3da7d8f7" sha1="20a8f4a39a897135906fb20ef601dee3fafee1fe" />
+	</machine>
+</datafile>

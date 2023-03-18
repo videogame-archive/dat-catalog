@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>plus4_cart</name>
+		<description>Commodore Plus/4 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="atomicmi">
+		<description>Atomic Mission</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317042-01.u1" size="16384" crc="a059fccb" sha1="e919531d016596ec1a2fd349bbe6691716297f35" />
+	</machine>
+	<machine name="basic7">
+		<description>Octasoft BASIC 7.0 (Hun)</description>
+		<year>1988</year>
+		<publisher>Novotrade</publisher>
+		<rom name="basic7" size="16384" crc="e900a1d5" sha1="5f96bdeffa42c18e869d9d045df65d98a4e561eb" />
+	</machine>
+	<machine name="burnin">
+		<description>Burn In</description>
+		<year>1988</year>
+		<publisher>Commodore</publisher>
+		<rom name="325201-01" size="8192" crc="27119f88" sha1="8276558f6c2a519dd668fa17dd5e8787acde1de7" />
+	</machine>
+	<machine name="c16kbtut">
+		<description>Commodore 16 Keyboard Tutorial</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="kb-hi" size="16384" crc="a617e188" sha1="8754ecc8b6ce2652eea4b997fb1f3ff9d3d7c9cb" />
+		<rom name="kb-lo" size="16384" crc="c999369c" sha1="fea0b7df5ccec5ce05390c650ff5f4ea878bd468" />
+	</machine>
+	<machine name="calcplus">
+		<description>Calc/Plus</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="calc-hi" size="16384" crc="772803a9" sha1="49810afc29476cc2b2750d96beabd003cffbd5a6" />
+		<rom name="calc-lo" size="16384" crc="8a085df6" sha1="2b8c748d7be725a1e4106b9cca167bd85786b809" />
+	</machine>
+	<machine name="diag264n">
+		<description>Diag 264 (NTSC)</description>
+		<year>2012</year>
+		<publisher>crock</publisher>
+		<rom name="diag264c_ntsc.bin" size="16384" crc="9398ae1c" sha1="d75a28a1a9727914620d57157768c3a84b23544a" />
+	</machine>
+	<machine name="diag264p">
+		<description>Diag 264 (PAL)</description>
+		<year>2012</year>
+		<publisher>crock</publisher>
+		<rom name="diag264c_pal.bin" size="16384" crc="c314c674" sha1="4acadaf84ecc3eb252ad765fdab583c45e771fd0" />
+	</machine>
+	<machine name="diagtest">
+		<description>Diagnostic Test</description>
+		<year>1988</year>
+		<publisher>Commodore</publisher>
+		<rom name="325062-01" size="8192" crc="c3d81a03" sha1="b5997e44f9d6d5b4aaa9f2e607f1532caeb01b08" />
+	</machine>
+	<machine name="finadvis">
+		<description>Financial Advisor</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317048-01.u1" size="16384" crc="5b0e82ae" sha1="0f1b8b20331c8c502fed507eca5d66683667757b" />
+	</machine>
+	<machine name="jackattk">
+		<description>Jack Attack</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317040-01.u1" size="16384" crc="6b624fec" sha1="ba54810ef1089fdf56b74536f9d679a80ace2dc1" />
+	</machine>
+	<machine name="logo">
+		<description>LOGO: A Language for Learning</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317046-01.u1" size="16384" crc="216fc5a8" sha1="6e22c082ef2659af4eb10f8acb14175941c9edc9" />
+		<rom name="317047-01.u2" size="16384" crc="4b7e5c5a" sha1="f2d4fdafef12762c96b88f06bb5d91644f54e5c7" />
+		<rom name="utility.d64" size="174848" crc="f4d84692" sha1="2850fb13b27b400167d80f2d755481835e3033b5" />
+	</machine>
+	<machine name="piratead">
+		<description>Pirate Adventure</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317041-01.u1" size="16384" crc="a903dc53" sha1="410ccb6b304ca30e852fdc6ec33d9dacd7de3493" />
+	</machine>
+	<machine name="scriptpl">
+		<description>Script/Plus</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317051-01.u1" size="16384" crc="d1679eea" sha1="d6d0d8f7feb16cdba650696683c02fcf62422f4a" />
+		<rom name="317052-01.u2" size="16384" crc="ad0696d9" sha1="5d7c6d0f2c732c92ca8f8f98486e08137824a4a4" />
+	</machine>
+	<machine name="speedy">
+		<description>Speedy</description>
+		<year>1988</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="speedy.u1" size="8192" crc="74f180bc" sha1="79a4b19c50bc9a85c0356a3d2d7453b2d1d8266f" />
+	</machine>
+	<machine name="strngeod">
+		<description>Strange Odyssey</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317043-01.u1" size="16384" crc="994c9b98" sha1="30a0707efe24f58525bffc228085f412d574fa3b" />
+	</machine>
+	<machine name="turbopls">
+		<description>TurboPlus</description>
+		<year>1987</year>
+		<publisher>Kingsoft</publisher>
+		<rom name="turboplus.u1" size="8192" crc="88b40daf" sha1="bb02e863193b9f7731e9bf5b554bb1e743a0a573" />
+	</machine>
+	<machine name="viduzzle">
+		<description>Viduzzles</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="317050-02.u1" size="16384" crc="eaaa44ed" sha1="97c269ab7b57a5ddfe65a06c29986c6ccb3aeb2b" />
+	</machine>
+</datafile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gimix</name>
+		<description>Gimix 6809 System disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="flex33">
+		<description>GMX Flex-09 3.3</description>
+		<year>1981</year>
+		<publisher>Technical System Consultants / Gimix Inc.</publisher>
+		<rom name="gfx33dma.dsk" size="102400" crc="5548dd85" sha1="0e0a94908478cbcf1d9ab7430189bdf43e12355b" />
+	</machine>
+	<machine name="flex36">
+		<description>GMX Flex-09 3.6</description>
+		<year>1981</year>
+		<publisher>Technical System Consultants / Gimix Inc.</publisher>
+		<rom name="gflx_36.dsk" size="161280" crc="6cdd4198" sha1="307b635a3abb487c1295d8ef75afeecec9e61c39" />
+	</machine>
+	<machine name="flex43">
+		<description>GMX Flex-09 4.3</description>
+		<year>1981</year>
+		<publisher>Technical System Consultants / Gimix Inc.</publisher>
+		<rom name="flex_v4.3.imd" size="103190" crc="2685ca76" sha1="b297f8e774cf4253a2d2259cb1959c74911ceda3" />
+	</machine>
+	<machine name="os9l1_12">
+		<description>OS-9 GMX I</description>
+		<year>1981</year>
+		<publisher>Microware Systems Corp. / Gimix Inc.</publisher>
+		<rom name="os9_v1.2.imd" size="116070" crc="aa3791b9" sha1="29036b5a6d1e63801b7b9fe9b99f5a4b536f9f3d" />
+	</machine>
+</datafile>

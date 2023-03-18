@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>partner_flop</name>
+		<description>Partner-01.01 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="disk1">
+		<description>DISK1</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="disk1.cpm" size="819200" crc="98e7a956" sha1="348ecc7a7f77a20f26e1f36c79dde5cc303807ce" />
+	</machine>
+	<machine name="disk2">
+		<description>DISK2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="disk2.cpm" size="819200" crc="c687b93e" sha1="a4dfb26d207976bf7cd5b9901df54bd854aeba52" />
+	</machine>
+</datafile>

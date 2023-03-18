@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mindset_flop</name>
+		<description>Mindset Corporation Mindset Floppy Discs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="vyper">
+		<description>Vyper</description>
+		<year>1984</year>
+		<publisher>Synapse Software</publisher>
+		<rom name="vyper.imd" size="133536" crc="2b64537e" sha1="203a880a034659199f99716cac9c3592031f9f3c" />
+		<rom name="vyper.scp" size="6524462" crc="e625f90f" sha1="bd69f346a49926742e37b98d3946020ab814d53c" />
+	</machine>
+</datafile>

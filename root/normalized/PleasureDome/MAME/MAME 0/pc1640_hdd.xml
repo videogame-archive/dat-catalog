@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pc1640_hdd</name>
+		<description>Amstrad PC1640 hard disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="hd20">
+		<description>Amstrad PC1640 HD20</description>
+		<year>1987</year>
+		<publisher>Amstrad</publisher>
+		<disk name="40095" sha1="d3c8b579e40063e98331e667caf7bd3667b18d1c" />
+	</machine>
+</datafile>

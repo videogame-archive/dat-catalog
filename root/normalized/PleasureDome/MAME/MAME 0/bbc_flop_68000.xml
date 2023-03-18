@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>bbc_flop_68000</name>
+		<description>Casper 68000 2nd Processor discs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="casper">
+		<description>Casper Support Discs</description>
+		<year>1986</year>
+		<publisher>Delcomm</publisher>
+		<rom name="casper system disc version 2_2.ssd" size="204800" crc="fa48e7e1" sha1="a3dffefdc13e4a44ec4e57b1cad27e912abdcd15" />
+		<rom name="casper test disc version 2_2.ssd" size="204800" crc="67c43659" sha1="83b0361ab7908584aaedb9f5a42e9cf5c3cc6c1d" />
+	</machine>
+	<machine name="controlc">
+		<description>Control 'C'</description>
+		<year>1986</year>
+		<publisher>Delcomm</publisher>
+		<rom name="casper control c version 0_1.ssd" size="204800" crc="f92958ef" sha1="3b68a54befb002e26c7a30a1d8f42dfae2b2f501" />
+	</machine>
+</datafile>

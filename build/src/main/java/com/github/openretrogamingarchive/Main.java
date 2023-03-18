@@ -5,6 +5,7 @@ import java.nio.file.Path;
 
 import com.github.openretrogamingarchive.helpers.Modified;
 import com.github.openretrogamingarchive.updaters.NoIntro;
+import com.github.openretrogamingarchive.updaters.PD;
 import com.github.openretrogamingarchive.updaters.Redump;
 import com.github.openretrogamingarchive.updaters.TOSEC;
 import com.github.openretrogamingarchive.updaters.Updater;
@@ -12,7 +13,7 @@ import com.github.openretrogamingarchive.updaters.Updater;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-        Updater[] updaters = new Updater[]{new NoIntro(), new Redump(), new TOSEC()};
+        Updater[] updaters = new Updater[]{new NoIntro(), new Redump(), new TOSEC(), new PD()};
         boolean update = false;
         for (Updater updater : updaters) {
             try {

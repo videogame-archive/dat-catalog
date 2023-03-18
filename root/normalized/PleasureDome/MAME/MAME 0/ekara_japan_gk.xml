@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_gk</name>
+		<description>Takara e-kara (Japan) Game and Karaoke Cartridge series (GK-xx)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="gk1">
+		<description>GK-1 - Detective Conan (Japan)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="gk1.bin" size="2097152" crc="775608cd" sha1="8b53fd4e8ced709df2716c839abfd7e41cc719d2" />
+	</machine>
+	<machine name="gk2">
+		<description>GK-2 - Disney Princess: Princess Debut (Japan)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="gk2.u1" size="2097152" crc="d4413f35" sha1="ef9999422adfea77c7ca4abd4f2f21e75d66be77" />
+	</machine>
+	<machine name="gk3">
+		<description>GK-3 - Tinkerbell to Tinkle Star Uranai (Japan)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="gk3.u1" size="2097152" crc="5877877b" sha1="c789b96ffcb3c303d552b236e01fd5fb587df7d3" />
+	</machine>
+</datafile>

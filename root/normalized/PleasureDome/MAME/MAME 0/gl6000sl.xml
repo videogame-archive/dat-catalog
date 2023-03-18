@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gl6000sl</name>
+		<description>VTech Genius Leader 6000SL cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="tabellen">
+		<description>Tabellenkalkulation</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5776-00" size="131072" crc="454761e0" sha1="04741e121d8f22e86f39375a11f2e38ad382af57" />
+	</machine>
+	<machine name="update">
+		<description>Update - Rechtschreibreform</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-05985-000-000.u1" size="524288" crc="139906cd" sha1="69072eaa70d9cf80f08a3f67b5755967a96deb01" />
+	</machine>
+</datafile>

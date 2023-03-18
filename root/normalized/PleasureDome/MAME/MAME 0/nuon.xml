@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>nuon</name>
+		<description>NUON DVD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ballstic">
+		<description>Ballistic</description>
+		<year>2000</year>
+		<publisher>VM Labs, Inc.</publisher>
+		<disk name="ballstic" sha1="92b386f176eecc7d3b1e13675ccaf0b60a543175" />
+	</machine>
+	<machine name="freefall">
+		<description>FreeFall 3050 A.D.</description>
+		<year>200?</year>
+		<publisher>VM Labs, Inc.</publisher>
+		<disk name="freefall" sha1="56540609dcdf3d5234a1d045b28cba58ba6adae8" />
+	</machine>
+	<machine name="is3">
+		<description>Iron Soldier 3</description>
+		<year>2001</year>
+		<publisher>VM Labs, Inc.</publisher>
+		<disk name="is3" sha1="47dec1bbb819342cf8bc2fee98fc7b18d1302503" />
+	</machine>
+	<machine name="merlinr">
+		<description>Merlin Racing</description>
+		<year>200?</year>
+		<publisher>VM Labs, Inc.</publisher>
+		<disk name="merlinr" sha1="80116c3c9440492678f8f072c5fabd2cedb3034e" />
+	</machine>
+	<machine name="spacinvx">
+		<description>Space Invaders XL</description>
+		<year>200?</year>
+		<publisher>VM Labs, Inc.</publisher>
+		<disk name="spacinvx" sha1="76518e106ab04819f6b85cc3e1eea08968b7b249" />
+	</machine>
+	<machine name="tempest3">
+		<description>Tempest 3000</description>
+		<year>200?</year>
+		<publisher>VM Labs, Inc.</publisher>
+		<disk name="tempest3" sha1="48e44d3de2642bb7b4fc5a044caf4cb2e8ad5c25" />
+	</machine>
+	<machine name="toshsamp">
+		<description>Toshiba Sampler (11-1-2000)</description>
+		<year>200?</year>
+		<publisher>VM Labs, Inc.</publisher>
+		<disk name="toshsamp" sha1="e312c9cec7f11a4594c1a3340fbcc9f66a65e9b1" />
+	</machine>
+</datafile>

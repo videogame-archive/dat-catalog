@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>HBMAME - Update ROMs (v0.245.9 to v0.245.10)</name>
+		<description>HBMAME - Update ROMs (v0.245.9 to v0.245.10)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="240ptest">
+		<description>240p Test Suite</description>
+		<year>2022</year>
+		<manufacturer>Dasutin/Artemio</manufacturer>
+		<rom name="600.c1" size="1048576" crc="7f0e11b9" sha1="302d82521c90017b84782bc4e50676b38be96dbf" />
+		<rom name="600.c2" size="1048576" crc="223c113c" sha1="8e43ce378aaf0a445fe6f68a71d32f8ca9746082" />
+		<rom name="600.m1" size="65536" crc="92065500" sha1="040bf5a293c4140dd9a5c2a9592cf3fb5835a119" />
+		<rom name="600.p1" size="1048576" crc="5ce36ff3" sha1="c59beaed2e82955dc2954f844ce9be93b0024bdf" />
+		<rom name="600.s1" size="131072" crc="5023f1ee" sha1="7bbf9fa1a93daf1d4e3a28b0bc12d228efbdea36" />
+		<rom name="600.v1" size="262144" crc="727a6292" sha1="57666210b311c9f366203cfe88eaf10507eca143" />
+	</machine>
+	<machine name="ckongpt2s01">
+		<description>Crazy Kong Part II with DK colours and graphics</description>
+		<year>2023</year>
+		<manufacturer>Paul Goes</manufacturer>
+		<rom name="1s01.11a" size="2048" crc="b8873065" sha1="24677b74136bf5c064f7de2b62ad6edf9f14f2e6" />
+		<rom name="2s01.11c" size="2048" crc="eeb3360a" sha1="3dcf6a2c35b46fe06af008083900d305f18df15e" />
+		<rom name="3s01.11h" size="4096" crc="bac1e8a5" sha1="a06d17e3a18709e82283bcf641989fb4dcff9d53" />
+		<rom name="4s01.11k" size="4096" crc="a9e9ebc2" sha1="b631ee88061e3889ea65e9c1d3448e64d98a6412" />
+		<rom name="5s01.11l" size="4096" crc="090b509a" sha1="e83a4f05a622e04b712244bb146c734fc5a4ae92" />
+		<rom name="6s01.11n" size="4096" crc="b6201ddb" sha1="4aa1ed5273aedc78e55e9401f6f17705a264aa58" />
+		<rom name="7s01.5d" size="4096" crc="8dcf7df0" sha1="78807b5d97c2a3cb0572774226ecbb4deeb04473" />
+		<rom name="8s01.5e" size="4096" crc="8930f958" sha1="568e4825f1488a93c36dd210f8666efc90eddf1a" />
+		<rom name="10s01.5k" size="4096" crc="a12afa47" sha1="8ccf76efbbee2645f11b88a6101a6216a464bd8c" />
+		<rom name="11s01.5l" size="4096" crc="c6f2913e" sha1="5ff0cb5b9c4616cdf870a45cae5833cb0c3b3556" />
+		<rom name="12s01.5n" size="4096" crc="34c7a93b" sha1="10897cdb946b520f18021fba07d559a9cc0fb4de" />
+		<rom name="s01.t6" size="32" crc="cccec69c" sha1="a8681ec247342ea18d3823d6c2475cf3b9fbcfb9" />
+		<rom name="s01.u6" size="32" crc="d488c634" sha1="2c33cec23528d6eae01ab8207078e256de0f8f36" />
+		<rom name="s01.v6" size="32" crc="fc2b00f0" sha1="56b6f78324b51ad7ba8a9da49b9f748b1a9a55e3" />
+	</machine>
+	<machine name="looptrsp">
+		<description>Looptris Plus (2022-12-24)</description>
+		<year>2022</year>
+		<manufacturer>Blastar</manufacturer>
+		<rom name="434.m1" size="131072" crc="249bba11" sha1="e8248ff9bc391b1163746c256b137928a9d81fe0" />
+		<rom name="434.p1" size="524288" crc="894bb290" sha1="f33ed9fe75ca7b5a6da00fe5bff76e26cba85e08" />
+		<rom name="434.v1" size="524288" crc="c9f86637" sha1="edb712d5cce180e1d5b6e338e9abfab1125c5581" />
+		<rom name="434.v2" size="524288" crc="41b3e17a" sha1="ef216379dbdbbea04cfffa47123436213a8cf26e" />
+		<rom name="434.v3" size="524288" crc="1ed4e538" sha1="921913be499194236535052ed3140fb7169d16e9" />
+		<rom name="434.v4" size="524288" crc="705e7065" sha1="a5eea38afa58db69c0f17e0379da3d819639971f" />
+	</machine>
+	<machine name="m1comm" isdevice="yes" runnable="no">
+		<description>Model-1 Communication Board</description>
+		<rom name="epr-15112.17" size="131072" crc="4950e771" sha1="99014124e0324dd114cb22f55159d18b597a155a" />
+		<rom name="epr-15624.17" size="131072" crc="9b3ba315" sha1="0cd0983cc8b2f2d6b41617d0d0a24cc6c188e62a" />
+	</machine>
+	<machine name="pitfall2u01">
+		<description>Pitfall II Trainer (2002-10-15)</description>
+		<year>2002</year>
+		<manufacturer>Sekret</manufacturer>
+		<rom name="epr-6454a.117" size="16384" crc="a5d96780" sha1="e0571f6fd031bbe2d971c3be7b96a017b0ea4be9" />
+		<rom name="epr-6455.05" size="16384" crc="32ee64a1" sha1="21743f78735fc9105fbbfac420bdaa2965b4b56f" />
+		<rom name="epr-6462.120" size="8192" crc="86bb9185" sha1="89add2e3784e8f5a20b895fb2c4466bdd6c34b0c" />
+		<rom name="epr-6469a.65" size="8192" crc="e4ac6921" sha1="f95e3b368c2c6dbf8265fb314d73019fe7dcce22" />
+		<rom name="epr-6470a.66" size="8192" crc="1439729f" sha1="54ea6ef54be6dcc2a5d00f7f817fd8836a02b3b9" />
+		<rom name="epr-6471a.63" size="8192" crc="d5bc805c" sha1="520afa7617e8dfd09bf469c01ac606a4a3acdc5e" />
+		<rom name="epr-6472a.64" size="8192" crc="e0f34a11" sha1="b7a96a1867f8bd3cc1251b5fd12991c406e62a37" />
+		<rom name="epr-6473a.61" size="8192" crc="8e53b8dd" sha1="23e04589f2b523d6b8e46d16f40e59685e27f522" />
+		<rom name="epr-6474a.62" size="8192" crc="9f1711b9" sha1="c652010a8b19828f81fd101aa1ea781e250c4ec2" />
+		<rom name="epr-6623s01.116" size="16384" crc="217e9902" sha1="a83d73b65a92d5676e519fb2cb787378a7e19fa0" />
+		<rom name="epr-6624s01.109" size="16384" crc="825b70b8" sha1="adf90f01d4a5461a4201c7dc0d725ccf8b317015" />
+		<rom name="epr-6625.96" size="16384" crc="dc5484ba" sha1="62fffff7d935c104def5f09e9dc4a26fa4ce4f94" />
+	</machine>
+	<machine name="pitfall2">
+		<description>Pitfall II (315-5093)</description>
+		<year>1985</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-6456a.116" size="16384" crc="bcc8406b" sha1="2e5c76886fce2c9863db7a914b85b088971aceef" />
+		<rom name="epr-6457a.109" size="16384" crc="a016fd2a" sha1="866f82066466bc5eaf6ab1b6f85a1c173692a1f7" />
+		<rom name="epr-6458a.96" size="16384" crc="5c30b3e8" sha1="9048091ebf054d0ba0c6a92520ddfac38a479034" />
+	</machine>
+	<machine name="pollen">
+		<description>Pollen Angel</description>
+		<year>2023</year>
+		<manufacturer>Arlasoft</manufacturer>
+		<rom name="pollen.5e" size="4096" crc="c360bb29" sha1="f220959c11a17d3f443743f88435553f9d7916c4" />
+		<rom name="pollen.5f" size="4096" crc="b049f6cd" sha1="69bea38cf4c133c7f6ce8b52824d214e8d726c7c" />
+		<rom name="pollen.6e" size="4096" crc="cafb430f" sha1="9ac81affec3c9f1dfbec722712f7e907905f5662" />
+		<rom name="pollen.6f" size="4096" crc="9ca9850b" sha1="b2d48cba1a58e28f450aa4556139ac5021f7fa61" />
+		<rom name="pollen.6h" size="4096" crc="04108eb0" sha1="4773af22762b2da2f992867bee706325a999c2b0" />
+	</machine>
+	<machine name="sf2mix">
+		<description>Street Fighter II: Champion Edition (Mix 1.3)</description>
+		<year>2023</year>
+		<manufacturer>Zero800</manufacturer>
+		<rom name="sf2mix.p1" size="524288" crc="478d09c6" sha1="accd9c96077381471a07afecf1d44f55930ce8cc" />
+		<rom name="sf2mix.p2" size="524288" crc="23212fb2" sha1="f34660ef8cbe4ad5b09f8290ef70b351228bd1c6" />
+		<rom name="sf2mix.p3" size="524288" crc="d3d77d12" sha1="d9f99607325a8df9126f0e165dea037b7fefc996" />
+	</machine>
+	<machine name="vr01">
+		<description>Virtua Racing Rival Edition V7 (2023-02-22)</description>
+		<year>2023</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="93c45.bin" size="128" crc="65aac303" sha1="17687fedf1578e977cae4e7c3f5c00cad4aa490d" />
+		<rom name="315-5571.bin" size="8192" crc="1233db2a" sha1="06760409d40f3d9117fd3e7c7ab62dfd70aa2a4d" />
+		<rom name="315-5572.bin" size="8192" crc="66785906" sha1="d94a51eced65b0073fb39625927782bf264d271a" />
+		<rom name="315-5573.bin" size="8192" crc="3335a19b" sha1="72eedfcc799ec4c7534fd7415de6631087ff6731" />
+		<rom name="epr-14870a.7" size="131072" crc="919d9b75" sha1="27be79881cc9a2b5cf37e18f1e2d87251426b428" />
+		<rom name="epr-14878as01.4" size="131072" crc="e91bc1c2" sha1="3d46eeb7113cf23455f2de7d19fe71fe04724f04" />
+		<rom name="epr-14879a.5" size="131072" crc="d45af9dd" sha1="48f2bf940c78e3ae4273a56e9f32371d870e41e0" />
+		<rom name="epr-14882s01.14" size="524288" crc="8feb7b38" sha1="bb66b57d2532271ca659727be9b8e3af1c80f1af" />
+		<rom name="epr-14883s01.15" size="524288" crc="3f018329" sha1="41fa7c30d241e3dfda84bb0198f6564895742a7d" />
+		<rom name="mpr-14873s01.32" size="2097152" crc="6629109f" sha1="2c7c26f003e6a514c0662bd918af9fa988eb3865" />
+		<rom name="mpr-14876s01.4" size="2097152" crc="df847688" sha1="d2254ab1b73efc43e109cb91841a1f2f0d7c5a7d" />
+		<rom name="mpr-14880s01.6" size="524288" crc="d4744106" sha1="5e4c8d38e2b33d6d969c5c75b1f8af3520d331d1" />
+		<rom name="mpr-14881s01.7" size="524288" crc="aa65d6ef" sha1="8bbea9fdfd2661aa3b2e6144c7ae27b0e9e3d82b" />
+		<rom name="mpr-14884.8" size="524288" crc="6cf9c026" sha1="f4d717958dba6b6402f5ffe7638fe0bf353b61ed" />
+		<rom name="mpr-14885.9" size="524288" crc="f65c9262" sha1="511a22bcfaf199737bfc5a809fd66cb4439dd386" />
+		<rom name="mpr-14886.10" size="524288" crc="92868734" sha1="e1dfb134dc3ba7e0b1d40681621e09ac5a222518" />
+		<rom name="mpr-14887.11" size="524288" crc="10c7c636" sha1="c77d55460bba4354349e473e129f21afeed05e91" />
+		<rom name="mpr-14888.12" size="524288" crc="04bfdc5b" sha1="bb8788a761620d0440a62ae51c3b41f70a04b5e4" />
+		<rom name="mpr-14889.13" size="524288" crc="c49f0486" sha1="cc2bb9059c016ba2c4f6e7508bd1687df07b8b48" />
+		<rom name="mpr-14890.26" size="2097152" crc="dcbe006b" sha1="195be7fabec405ca1b4e1338d3b8d7bb4a06dd73" />
+		<rom name="mpr-14891.27" size="2097152" crc="25832b38" sha1="a8d74538149c92bae661334e327b031eaca2a8f2" />
+		<rom name="mpr-14892s01.28" size="2097152" crc="d8388798" sha1="32680a72febd06b698c33b850f78c72177c45fe6" />
+		<rom name="mpr-14893.29" size="2097152" crc="1c531ada" sha1="8b373ac97a3649c64f48eb3d1dd95c5833f330b6" />
+		<rom name="mpr-14894.30" size="2097152" crc="830a71bc" sha1="884378e8a5afeb819daf5285d0d205986d566340" />
+		<rom name="mpr-14895.31" size="2097152" crc="af027ac5" sha1="523f03d90358ddb7d0e96fd06b9a65cebfc09f24" />
+		<rom name="mpr-14896s01.32" size="2097152" crc="7505ce40" sha1="fcf8a4ecf83d7148a3254a55c2ca3966b7efa840" />
+		<rom name="mpr-14897s01.33" size="2097152" crc="3b3e3b65" sha1="f0bf45815f34789c7db612ef966e19eec066b797" />
+		<rom name="mpr-14898.39" size="524288" crc="61da2bb6" sha1="7a12ba522d64a1aeec1ca6f5a87ee063692131f9" />
+		<rom name="mpr-14899.40" size="524288" crc="2cd58bee" sha1="73defec823de4244a387af55fea7210edc1b314f" />
+		<rom name="mpr-14900.41" size="524288" crc="aa7c017d" sha1="0fa2b59a8bb5f5907b2b2567e69d11c73b398dc1" />
+		<rom name="mpr-14901.42" size="524288" crc="175b7a9a" sha1="c86602e771cd49bab425b4ba7926d2f44858bd39" />
+		<rom name="opr14742.bin" size="131072" crc="446a1085" sha1="51b3f4d3a35a36087ea0ba4e26d6e7d17b6418e2" />
+		<rom name="opr14743.bin" size="131072" crc="e8953554" sha1="1499f8e30ac15affc66e6f04ae031bb8680d9260" />
+		<rom name="opr14748.bin" size="131072" crc="4a532cb8" sha1="23280ebbcd6b2bc8a8e643a2d07a58d6598301b8" />
+	</machine>
+	<machine name="vr">
+		<description>Virtua Racing</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-14878a.4" size="131072" crc="6d69e695" sha1="12d3612d3dfd474b8020cdfb8ffc5dcc64e2e1a3" />
+		<rom name="epr-14882.14" size="524288" crc="547d75ad" sha1="a57c11966886c37de1d7df131ad60457669231dd" />
+		<rom name="epr-14883.15" size="524288" crc="6bfad8b1" sha1="c1f780e456b405abd42d92f4e03e40aad88f8c22" />
+		<rom name="mpr-14873.32" size="2097152" crc="b1965190" sha1="fc47e9ed4a44d48477bd9a35e42c26508c0f4a0c" />
+		<rom name="mpr-14876.4" size="2097152" crc="ba6b2327" sha1="02285520624a4e612cb4b65510e3458b13b1c6ba" />
+		<rom name="mpr-14880.6" size="524288" crc="adc7c208" sha1="967b6f522011f17fd2821ccbe20bcb6d4680a4a0" />
+		<rom name="mpr-14881.7" size="524288" crc="e5ab89df" sha1="873dea86628457e69f732158e3efb05d133eaa44" />
+		<rom name="mpr-14892.28" size="2097152" crc="5136f3ba" sha1="ce8312975764db09bbfa2068b99559a5c1798a36" />
+		<rom name="mpr-14896.32" size="2097152" crc="382091dc" sha1="efa266f0f6bfe36ad1c365e588fff33b01e166dd" />
+		<rom name="mpr-14897.33" size="2097152" crc="74873195" sha1="80705ec577d14570f9bba77cc26766f831c41f42" />
+	</machine>
+	<machine name="xeviousn">
+		<description>Xevious (beta 1, 2023-03-07)</description>
+		<year>2023</year>
+		<manufacturer>tcdev</manufacturer>
+		<rom name="401.c1" size="1048576" crc="f963e5b6" sha1="e80dd61476028de3ff8369e14b6fb1bb7561e370" />
+		<rom name="401.c2" size="1048576" crc="c97c4e64" sha1="d33f26dbc569c69bdbf95cdde908d7700843bde7" />
+		<rom name="401.m1" size="65536" crc="6f31c601" sha1="9b89e7d205ee497f7b495e93328cf35eab6e56b2" />
+		<rom name="401.p1" size="1048576" crc="11dff034" sha1="ac8ebbdc96f4d2f74d1c820c1536ca1ccdc936b6" />
+		<rom name="401.s1" size="131072" crc="f41d121a" sha1="ad30e7fde4c7e7ad7e4c32d14bf1df3b3089eaa8" />
+		<rom name="401.v1" size="1048576" crc="37ef6dc5" sha1="3d50197e22d8727a8395564b8645ed1e0e2a5d26" />
+	</machine>
+</datafile>

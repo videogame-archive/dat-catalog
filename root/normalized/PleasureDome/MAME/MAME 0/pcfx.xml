@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pcfx</name>
+		<description>NEC PC-FX CD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="amateur">
+		<description>Amateur Teikyou CD-ROM</description>
+		<year>1994</year>
+		<publisher>NEC</publisher>
+		<disk name="amateur teikyou cd-rom (japan)" sha1="ce2f6509a2bebcd36a1063ca6233d3d6150b7419" />
+	</machine>
+	<machine name="angeliq">
+		<description>Fushigi no Kuni no Angelique</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<disk name="fushigi no kuni no angelique (japan)" sha1="4d838cd6b5123d86b415bc4ab405714a16bacfad" />
+	</machine>
+	<machine name="batlheat">
+		<description>Battle Heat</description>
+		<year>1994</year>
+		<publisher>Hudson Soft</publisher>
+		<disk name="battle heat (japan)" sha1="1a73ab8064ddfaebd5e555f51e4c153da6027fd7" />
+	</machine>
+	<machine name="cancandx">
+		<description>Can Can Bunny Extra DX</description>
+		<year>1996</year>
+		<publisher>Cocktail Soft</publisher>
+		<disk name="can can bunny extra dx (japan)" sha1="9153147469b2b9ecadebb9990c707f4c3d3f6587" />
+	</machine>
+	<machine name="carrot">
+		<description>Pia Carrot e Youkuso!! - We've Been Waiting for You</description>
+		<year>1997</year>
+		<publisher>Cocktail Soft</publisher>
+		<disk name="pia carrot e youkoso weve been waiting for you (japan)" sha1="95a5c2f20d406dcaa0ab5e0ff692e3ee2cd4ad76" />
+	</machine>
+	<machine name="dknight4">
+		<description>Dragon Knight IV</description>
+		<year>1997</year>
+		<publisher>NEC</publisher>
+		<disk name="dragon knight 4 (japan)" sha1="c0a81f9b38f6acbccc03c0d5fdad39e1bc834122" />
+	</machine>
+	<machine name="doukyuu2">
+		<description>Doukyuusei 2</description>
+		<year>1996</year>
+		<publisher>ELF</publisher>
+		<disk name="doukyuusei 2 (japan)" sha1="b20af9f1d3d2abad58656efcafa4f981f6bdb22b" />
+	</machine>
+	<machine name="farland">
+		<description>Farland Story FX</description>
+		<year>1996</year>
+		<publisher>NEC</publisher>
+		<disk name="farland story fx (japan)" sha1="9c9689a0d06a9276bb87a2f1a616bc6e93334b75" />
+	</machine>
+	<machine name="firewomn">
+		<description>Fire Woman Matoigumi</description>
+		<year>1996</year>
+		<publisher>Tokuma Shoten</publisher>
+		<disk name="fire woman matoigumi (japan)" sha1="1e31207f18c16ea61b9485d99fe9af3da0a3e2d0" />
+	</machine>
+	<machine name="langriss">
+		<description>Der Langrisser FX</description>
+		<year>1996</year>
+		<publisher>NCS</publisher>
+		<disk name="langrisser fx, der (japan)" sha1="15e757fa66c46570f038a27d59b0709d1cf9d4bf" />
+	</machine>
+	<machine name="megamip2">
+		<description>Megami Paradise II</description>
+		<year>1996</year>
+		<publisher>NEC</publisher>
+		<disk name="megami paradise ii (japan)" sha1="86ac2e526c9c7821708b0e47e9ebb317b79c790b" />
+	</machine>
+	<machine name="sotsugy2">
+		<description>Sotsugyou II FX - Neo Generation</description>
+		<year>1994</year>
+		<publisher>Riverhill Soft</publisher>
+		<disk name="sotsugyou ii fx - neo generation (japan)" sha1="8a9e5f269c854d1daa4114ba68a3e89598f26e81" />
+	</machine>
+</datafile>

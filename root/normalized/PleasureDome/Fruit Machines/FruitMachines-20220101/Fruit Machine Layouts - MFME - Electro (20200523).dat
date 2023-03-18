@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MFME - Electro</name>
+		<description>MFME - Electro</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="zip"/>
+	</header>
+	<machine name="Hot Dog (Bellfruit) [Electro Mechanical) [c]">
+		<description>Hot Dog (Bellfruit) [Electro Mechanical) [c]</description>
+		<rom name="Hot_Dog_(Bellfruit)_[Electro_Mechanical]_[C01_100jp]_[c].fml" size="2297823" crc="fd7e8bb3" sha1="f182e472e7a3421afd1391e2b5d51fa3656a0248"/>
+		<rom name="Hot_Dog_(Bellfruit)_[Electro_Mechanical]_[C01_100jp]_[c].gam" size="350" crc="6a89be17" sha1="e9042060bde1b36c29cc851fc80751024e5fb23b"/>
+		<rom name="Hot_Dog_(Bellfruit)_[Electro_Mechanical]_[C01_100jp]_[c].txt" size="102971" crc="8beab8fa" sha1="65324b638d3ca9f42e40f69a2a35ff277e457a1d"/>
+	</machine>
+	<machine name="Pool Play (JPM) [Electro Mechanical]">
+		<description>Pool Play (JPM) [Electro Mechanical]</description>
+		<rom name="Pool_Play_(JPM)_[Electro_Mechanical]_[C01_1jp].fml" size="8060451" crc="43b650a2" sha1="3f834de39cee1176b55a065b0db675eef8de1877"/>
+		<rom name="Pool_Play_(JPM)_[Electro_Mechanical]_[C01_1jp].gam" size="291" crc="c92503c4" sha1="32a194911e39dc1eb1192c0c156888d9ed2ce033"/>
+		<rom name="Pool_Play_(JPM)_[Electro_Mechanical]_[C01_1jp].txt" size="49017" crc="e469c00b" sha1="cf0c17ec25ecad2c6ccf39a818834d803fab0982"/>
+		<rom name="Pool_Play_(JPM)_[Electro_Mechanical]_[Dx01_1jp].fml" size="6403927" crc="2fef827d" sha1="5718ec9ca48e1c44472db16355b837a614cbe561"/>
+		<rom name="Pool_Play_(JPM)_[Electro_Mechanical]_[Dx01_1jp].gam" size="291" crc="70a3db99" sha1="ad643e8f11e86016b284c28f9fa33dde46939003"/>
+		<rom name="Pool_Play_(JPM)_[Electro_Mechanical]_[Dx01_1jp].txt" size="49017" crc="e469c00b" sha1="cf0c17ec25ecad2c6ccf39a818834d803fab0982"/>
+	</machine>
+	<machine name="Super Nudge Gambler (Bellfruit) [Electro Mechanical)">
+		<description>Super Nudge Gambler (Bellfruit) [Electro Mechanical)</description>
+		<rom name="Super_Nudge_Gambler_(Bellfruit)_[Electro_Mechanical]_[C01_1jp].fml" size="613376" crc="744b3dc1" sha1="ee5ecc06765fa1d26a2342ed1055c11bbebf4d07"/>
+		<rom name="Super_Nudge_Gambler_(Bellfruit)_[Electro_Mechanical]_[C01_1jp].gam" size="351" crc="d8134baa" sha1="6722a1341bd7fcb3435b89be947ff31ffe53b829"/>
+		<rom name="Super_Nudge_Gambler_(Bellfruit)_[Electro_Mechanical]_[C01_1jp].txt" size="62700" crc="0c44cb6d" sha1="ad29278e733687394ae03bbc6941aa984a33cf5e"/>
+		<rom name="Super_Nudge_Gambler_(Bellfruit)_[Electro_Mechanical]_[Dx01_1jp].fml" size="2937059" crc="3487a038" sha1="815fa129f5283d1fc5e37cd2551c27b3dbbdb80c"/>
+		<rom name="Super_Nudge_Gambler_(Bellfruit)_[Electro_Mechanical]_[Dx01_1jp].gam" size="356" crc="be6f2c9e" sha1="769eb590807ad607c9dce21f234cf80ff3780a85"/>
+		<rom name="Super_Nudge_Gambler_(Bellfruit)_[Electro_Mechanical]_[Dx01_1jp].txt" size="62803" crc="f4e70a3e" sha1="bdccb345057d0d1928cf5f7f2a497bc36659406d"/>
+	</machine>
+	<machine name="Ten Up (Bellfruit) [Electro_Mechanical]">
+		<description>Ten Up (Bellfruit) [Electro_Mechanical]</description>
+		<rom name="Ten_Up_(Bellfruit)_[Electro_Mechanical]_[Dx01_1jp].fml" size="3166597" crc="8053cf07" sha1="2691216f9d702df475747d9c351318c309454d30"/>
+		<rom name="Ten_Up_(Bellfruit)_[Electro_Mechanical]_[Dx01_1jp].gam" size="319" crc="08ebf38a" sha1="cea8fbc136cb9b0aeeab2cf20685e969e8877d98"/>
+		<rom name="Ten_Up_(Bellfruit)_[Electro_Mechanical]_[Dx01_1jp].txt" size="56005" crc="f28c3ec1" sha1="2abf5a8d69e5a29528e12c676f4be05f91203cf4"/>
+	</machine>
+</datafile>

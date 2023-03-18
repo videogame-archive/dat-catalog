@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>JPeMu</name>
+		<description>JPeMu</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="zip"/>
+	</header>
+	<machine name="Ace Of Clubs (Crystal)">
+		<description>Ace Of Clubs (Crystal)</description>
+		<rom name="Ace_Of_Clubs_(Crystal)_[C01_1024_250jp]_[c].jel" size="190840" crc="5992cc47" sha1="2f150d8d074b87912bbe892c3db69fea33267baf"/>
+		<rom name="Ace_Of_Clubs_(Crystal)_[C01_1024_250jp]_[c].jpm" size="679" crc="e29c9877" sha1="d8587166aa2db4023331747ef7f4b64a74d9f401"/>
+	</machine>
+	<machine name="Aces High (Ace)">
+		<description>Aces High (Ace)</description>
+		<rom name="Aces_High_(Ace)_[C01_800_15jp].jel" size="229298" crc="78ab4c21" sha1="48b344b8ca34e79f7f83ffd6cacd7f505cb50d3d"/>
+		<rom name="Aces_High_(Ace)_[C01_800_15jp].jpm" size="699" crc="bcfc730b" sha1="f54ddf5935cd8802c41af6d30c0e735df8312f1a"/>
+	</machine>
+	<machine name="Arcadia (Jpm)">
+		<description>Arcadia (Jpm)</description>
+		<rom name="Arcadia_(Jpm)_[C01_v1-0_1024_15jp].jel" size="169704" crc="a63cb044" sha1="519f558bf1364db264d418a211730afb593d5190"/>
+		<rom name="Arcadia_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="344" crc="c62f1d8d" sha1="ebcfdf5ef6b4f93dc0290c5f09bd9caabe909799"/>
+		<rom name="Arcadia_(Jpm)_[Dx01_1024_25jp].jel" size="2544948" crc="d628d7f5" sha1="19d47134084a34b071992b52625dba1e1e05e399"/>
+		<rom name="Arcadia_(Jpm)_[Dx01_1024_25jp].jpm" size="347" crc="5792cdd3" sha1="e1cec24a4e3d17acae5d484a5d74f55bd42cfe34"/>
+		<rom name="Arcadia_(Jpm)_[Dx02_v1-0_1024_15jp].jel" size="3814201" crc="3977c575" sha1="b7120c27cafca94d9404f5d1d0640fa4658e1381"/>
+		<rom name="Arcadia_(Jpm)_[Dx02_v1-0_1024_15jp].jpm" size="346" crc="274064d3" sha1="ed0496d1054dfba6f0c12021c68ce2518d1b5beb"/>
+		<rom name="Arcadia_(Jpm)_[Dx03_1024_25jp].jel" size="1996699" crc="43b1e030" sha1="e424648d84d94592cd0db74b0e15ae8aa557d1a3"/>
+		<rom name="Arcadia_(Jpm)_[Dx03_1024_25jp].jpm" size="542" crc="9355ea6c" sha1="9aa487ad4d9ec6f49ff58e49c8a62fb0800b1099"/>
+	</machine>
+	<machine name="Big 50 (Jpm)">
+		<description>Big 50 (Jpm)</description>
+		<rom name="Big_50_(Jpm)_[C01_v1-0_1024_10jp].jel" size="194984" crc="7613ab16" sha1="98f01a159d54cddf4b226435f3da1c47c169600c"/>
+		<rom name="Big_50_(Jpm)_[C01_v1-0_1024_10jp].jpm" size="323" crc="75b7df7e" sha1="f654594c02424290bb8f27f3cf586c310a8c0466"/>
+	</machine>
+	<machine name="Big Banker (Jpm)">
+		<description>Big Banker (Jpm)</description>
+		<rom name="Big_Banker_(Jpm)_[C01_v1-0_1024_6jp].jel" size="97428" crc="8442cb6a" sha1="8b43b613969a9bf5133e17278a3f6aac0211f60a"/>
+		<rom name="Big_Banker_(Jpm)_[C01_v1-0_1024_6jp].jpm" size="334" crc="062d5a42" sha1="4bb8292f76cc736beb722afa3d0e33e38393cec3"/>
+		<rom name="Big_Banker_(Jpm)_[C02_v1-1_1024_6jp].jel" size="148621" crc="918ac1a0" sha1="228c9200c6f11cdf7beae71dd9baa6d994848c64"/>
+		<rom name="Big_Banker_(Jpm)_[C02_v1-1_1024_6jp].jpm" size="334" crc="c789eaa3" sha1="b8e3d0375381e8ffac547e02dc4879bc8ee39a97"/>
+		<rom name="Big_Banker_(Jpm)_[Dx01_1024_6jp].jel" size="2522705" crc="14a5c668" sha1="b327dc3d7f0338e77fa1aee694a2ba9fefe0d30d"/>
+		<rom name="Big_Banker_(Jpm)_[Dx01_1024_6jp].jpm" size="339" crc="b06da0cf" sha1="4172399862c6b332b884513712bf1051d5194fa0"/>
+		<rom name="Big_Banker_(Jpm)_[Dx02_1024_6jp].jel" size="2527810" crc="7590dfa5" sha1="d0597db5fc14c75e664bd102419b212343c6cc19"/>
+		<rom name="Big_Banker_(Jpm)_[Dx02_1024_6jp].jpm" size="339" crc="32f47255" sha1="bcdc52810626039a7a55086017c21afac4a4ba87"/>
+	</machine>
+	<machine name="Big Bucks (Jpm)">
+		<description>Big Bucks (Jpm)</description>
+		<rom name="Big_Bucks_(Jpm)_[C01_v1-0_1024_8jp].jel" size="383627" crc="3f9025b2" sha1="64caf10d198dd9a8fe073d461314b69c316a9092"/>
+		<rom name="Big_Bucks_(Jpm)_[C01_v1-0_1024_8jp].jpm" size="334" crc="b8c038cc" sha1="89735706254bb48bf9eb79ea24d16048266f1244"/>
+		<rom name="Big_Bucks_(Jpm)_[Dx01_1024_8jp].jel" size="2082715" crc="75f083fc" sha1="3ab8ed67517379686938aff8c9ef2b9d0291e650"/>
+		<rom name="Big_Bucks_(Jpm)_[Dx01_1024_8jp].jpm" size="335" crc="9c8ea611" sha1="08bf35f77fda4b9a30905a912db25d4cce4aa8be"/>
+	</machine>
+	<machine name="Big Bucks Christmas Edition (Big Bucks Hybrid)">
+		<description>Big Bucks Christmas Edition (Big Bucks Hybrid)</description>
+		<rom name="Big_Bucks_Christmas_Edition_(Big_Bucks_Hybrid)_[C01_1024_8jp].jel" size="117900" crc="c292ed67" sha1="39ef7d042ec73e2ad1d806e8efc3b8a4abe83162"/>
+		<rom name="Big_Bucks_Christmas_Edition_(Big_Bucks_Hybrid)_[C01_1024_8jp].jpm" size="669" crc="8fd461fc" sha1="51d6c84a3b699d12f4e4e0886b8e2b91607470c8"/>
+		<rom name="Big_Bucks_Christmas_Edition_(Big_Bucks_Hybrid)_[Pdx01_1024_8jp].jel" size="687392" crc="aea40dd8" sha1="0452b8857ee2ef786b86073bf4022cad27c3e2ec"/>
+		<rom name="Big_Bucks_Christmas_Edition_(Big_Bucks_Hybrid)_[Pdx01_1024_8jp].jpm" size="673" crc="8ccbb87c" sha1="47c78dfae8eb32f6b23d8d2f95d4b6b104df17a1"/>
+	</machine>
+	<machine name="Big Cash Machine (Empire)">
+		<description>Big Cash Machine (Empire)</description>
+		<rom name="Big_Cash_Machine_(Empire)_[C01_1024_15jp].jel" size="68140" crc="cd5dd4b6" sha1="b9cc988b52a6676f7e5422d1970a2497eaacee30"/>
+		<rom name="Big_Cash_Machine_(Empire)_[C01_1024_15jp].jpm" size="384" crc="be2b17d9" sha1="adde76f6b8539d55d01d917e78d07e208865ec86"/>
+		<rom name="Big_Cash_Machine_(Empire)_[Dx01_1024_15jp].jel" size="3023018" crc="e0bbaa64" sha1="635d3048ac8762ab2dc6d078b07d26f373e2d813"/>
+		<rom name="Big_Cash_Machine_(Empire)_[Dx01_1024_15jp].jpm" size="387" crc="aa8731e7" sha1="1bd660719eab1772a079b55f1c6ba018e83d6694"/>
+		<rom name="Big_Cash_Machine_(Empire)_[Dx02_1024_15jp].jel" size="2007296" crc="78307b60" sha1="fb99bfd57b805b3f68e9629cfd3fb7f93cdb1904"/>
+		<rom name="Big_Cash_Machine_(Empire)_[Dx02_1024_15jp].jpm" size="705" crc="963648d0" sha1="3beecab917bd2ccda0d7c0d498673c40920b5c3a"/>
+		<rom name="Big_Cash_Machine_(Empire)_[Dx03_1280_15jp].jel" size="3282375" crc="f1cedc0c" sha1="ebf853777ab0dee7a5dfaf8fd0de1c669bf21cfc"/>
+		<rom name="Big_Cash_Machine_(Empire)_[Dx03_1280_15jp].jpm" size="772" crc="e7a69d4f" sha1="d2db94fc02325365afd2b5860598349b7729d785"/>
+	</machine>
+	<machine name="Big Money Club (Crystal) [c]">
+		<description>Big Money Club (Crystal) [c]</description>
+		<rom name="Big_Money_Club_(Crystal)_[C01_v1-0_1024_250jp]_[c].jel" size="180578" crc="201aae4b" sha1="68f19b78e2c56580524db086bdf7dee6f4560705"/>
+		<rom name="Big_Money_Club_(Crystal)_[C01_v1-0_1024_250jp]_[c].jpm" size="355" crc="c323312a" sha1="4c6060d09a2999b4f700d511a9cce2353726d064"/>
+		<rom name="Big_Money_Club_(Crystal)_[Dx01_1280_250jp]_[c].jel" size="4287275" crc="991131c9" sha1="ce0ba5e72849c6e707313ae68d0a5e4732e038dd"/>
+		<rom name="Big_Money_Club_(Crystal)_[Dx01_1280_250jp]_[c].jpm" size="553" crc="01e86f78" sha1="5114a90c6127240c6dae3fb92f3d313c8af4e5d7"/>
+		<rom name="Big_Money_Club_(Crystal)_[Dx02_1024_250jp]_[c].jel" size="1563726" crc="0788757f" sha1="9464c31d5f107517274033a66b3c3532ad6e45e0"/>
+		<rom name="Big_Money_Club_(Crystal)_[Dx02_1024_250jp]_[c].jpm" size="490" crc="fc16dfd7" sha1="a944b210cfe317593edca311a96bdaaf237ac23d"/>
+	</machine>
+	<machine name="Big Nite Out (Crystal) [c]">
+		<description>Big Nite Out (Crystal) [c]</description>
+		<rom name="Big_Nite_Out_(Crystal)_[Dx01_1280_250jp]_[c].jel" size="1228333" crc="7c0dc599" sha1="6dd79cd76869bda9902758179069424a55035c5f"/>
+		<rom name="Big_Nite_Out_(Crystal)_[Dx01_1280_250jp]_[c].jpm" size="402" crc="7666d0bd" sha1="e8eb17ea4db27950965e7a98bdf69dd30c87c254"/>
+		<rom name="Big_Nite_Out_(Crystal)_[Dx02_1280_250jp]_[c].jel" size="1687788" crc="82d57ebc" sha1="8facd4e9ce7de99bc2e89871f5e0eb8e38eaed50"/>
+		<rom name="Big_Nite_Out_(Crystal)_[Dx02_1280_250jp]_[c].jpm" size="402" crc="804148b3" sha1="0fc8577d95565013313e7009a898e9989fa09aa0"/>
+	</machine>
+	<machine name="Big Top Club (Jpm) [c]">
+		<description>Big Top Club (Jpm) [c]</description>
+		<rom name="Big_Top_Club_(Jpm)_[C01_1024_1000jp]_[c].jel" size="1200432" crc="5e7a1d40" sha1="8b67f08728aabbd4d2554b3b39c0e04691eae7ec"/>
+		<rom name="Big_Top_Club_(Jpm)_[C01_1024_1000jp]_[c].jpm" size="350" crc="ba8a179d" sha1="a52e2c3bd57ef19134bac613ef788c116f796142"/>
+		<rom name="Big_Top_Club_(Jpm)_[C02_800_1000jp]_[c].jel" size="1550812" crc="c3a26c1f" sha1="256df80657b9da294e4d2e85a6ef9cbed2c92fc3"/>
+		<rom name="Big_Top_Club_(Jpm)_[C02_800_1000jp]_[c].jpm" size="391" crc="9c4b56f8" sha1="e173d2159733b990e0d33cf1875292637fd81144"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx01_1024_1000jp]_[c].jel" size="3748735" crc="510c70e2" sha1="a89201816297d330fd63116097e553f284ff4370"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx01_1024_1000jp]_[c].jpm" size="352" crc="91b3e0de" sha1="c26bccf7bd549c5b000a236eafc52daa540ac928"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx02_1280_250jp]_[c].jel" size="1777816" crc="a64e80d1" sha1="155d74da36e23dc188162f64e7f834f32eb78246"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx02_1280_250jp]_[c].jpm" size="494" crc="48df6170" sha1="b8455e6e2b20b28a27abff6f088ec3a09885c044"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx03_1280_250jp]_[c].jel" size="1778191" crc="a53566c9" sha1="c1ae3f85a26bce1a8ac57f23716ebf851da9e4da"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx03_1280_250jp]_[c].jpm" size="564" crc="02e9efd1" sha1="b3c43e4a962d9bfa0266faf3f14ca0a484c97992"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx04_1280_250jp]_[c].jel" size="1777905" crc="d1d97cd7" sha1="e4983d2a5a3c770cddfe8664521ec80997f9c1a5"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx04_1280_250jp]_[c].jpm" size="564" crc="fcae335a" sha1="a68c978461109ac9b99c2d106b57880b5cdc8326"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx05_1280_250jp]_[c].jel" size="1778399" crc="ed289316" sha1="f5d282f407ec57341df7ab8c0f0d991a0b670cdf"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx05_1280_250jp]_[c].jpm" size="564" crc="ba6dd3b7" sha1="00b36dc1fb50d81e4a85c667537d6b41c0c50a8f"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx06_1280_500jp]_[c].jel" size="1779694" crc="14ab7765" sha1="f6d4b1f76d8b67395954fe594040d2c8199a7c11"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx06_1280_500jp]_[c].jpm" size="494" crc="8dcff209" sha1="232dd8dbe9a9282e3a7410a65e3e47cd104e3a7b"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx07_1280_500jp]_[c].jel" size="1779723" crc="39da262b" sha1="f275809b3e0caca72b66d38abccea386806bfbe6"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx07_1280_500jp]_[c].jpm" size="494" crc="7405d220" sha1="7effc0b9a35a8fda2a768cb3616c4b3a20398f04"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx08_1280_1000jp]_[c].jel" size="1789140" crc="314e2c80" sha1="bb469275a73c910d16224e6080f645c0352bf33b"/>
+		<rom name="Big_Top_Club_(Jpm)_[Dx08_1280_1000jp]_[c].jpm" size="565" crc="3e0ea4b9" sha1="dfd8e37776a6c111d909f765f175901043483008"/>
+	</machine>
+	<machine name="Big Wheel (Jpm)">
+		<description>Big Wheel (Jpm)</description>
+		<rom name="Big_Wheel_(Jpm)_[C01_v1-0_1024_8jp].jel" size="112241" crc="374f0e2d" sha1="671297fdd0d6e7349fcb851b170766b183bca12c"/>
+		<rom name="Big_Wheel_(Jpm)_[C01_v1-0_1024_8jp].jpm" size="341" crc="967c810f" sha1="4f7aef939931734bb0063094e4a7b85754924086"/>
+		<rom name="Big_Wheel_(Jpm)_[Dx01_1280_8jp].jel" size="2781568" crc="cbaf06c5" sha1="5337c0d78752228c33fcc10042cd3f072afe8172"/>
+		<rom name="Big_Wheel_(Jpm)_[Dx01_1280_8jp].jpm" size="695" crc="1db94219" sha1="b96bee29f43d56b2eab22f663ba7d8881c6df167"/>
+	</machine>
+	<machine name="Bonanza (Jpm)">
+		<description>Bonanza (Jpm)</description>
+		<rom name="Bonanza_(Jpm)_[C01_1024_6jp].jel" size="944878" crc="a4eab760" sha1="fae88f362c956960b57b1ecda4c1315824c91ab1"/>
+		<rom name="Bonanza_(Jpm)_[C01_1024_6jp].jpm" size="331" crc="40e52dc7" sha1="274ff52a271c26403119e68c2188d62befced268"/>
+		<rom name="Bonanza_(Jpm)_[C02_v2-00_1024_6jp].jel" size="939432" crc="290c335f" sha1="37eb8e51e050e8aef4dd5ee17ef7e6e227bca946"/>
+		<rom name="Bonanza_(Jpm)_[C02_v2-00_1024_6jp].jpm" size="337" crc="10ad8aa3" sha1="e5236d7e0535358c1118a47cdf6357b89e40f521"/>
+		<rom name="Bonanza_(Jpm)_[C03_1024_6jp].jel" size="144950" crc="edddf0ce" sha1="9fcc46851315c50690af6da4d7811e97d50dd9f5"/>
+		<rom name="Bonanza_(Jpm)_[C03_1024_6jp].jpm" size="509" crc="38df8e43" sha1="3c65d8219ab3b925fb0357f4e2a0b5549042276f"/>
+		<rom name="Bonanza_(Jpm)_[Dx01_1280_8jp].jel" size="2716751" crc="33ff0c07" sha1="4a418cba25f948e5f0cfd19e42cc6373e4a21c68"/>
+		<rom name="Bonanza_(Jpm)_[Dx01_1280_8jp].jpm" size="553" crc="aef56382" sha1="e1955bd3a377ae9242816a068997c6bf7bcec560"/>
+		<rom name="Bonanza_(Jpm)_[Dx01_v3-2_1280_8jp].jel" size="2838437" crc="792e827f" sha1="a42d343a71b8d8d43e48ae2d9a029aa6c314b3b5"/>
+		<rom name="Bonanza_(Jpm)_[Dx01_v3-2_1280_8jp].jpm" size="586" crc="d9572dd5" sha1="c742d83d9a292da7e520fea88a691b16b5dbacb4"/>
+		<rom name="Bonanza_(Jpm)_[Dx02_1024_8jp].jel" size="1338673" crc="403887d7" sha1="e2a8fe9737c3451e6fc6964ff9903b04a43ca0af"/>
+		<rom name="Bonanza_(Jpm)_[Dx02_1024_8jp].jpm" size="425" crc="94437c45" sha1="eb031fb651af2bead8abc56a194bbbfcf972a1c4"/>
+	</machine>
+	<machine name="Breakout (Jpm) [Czech]">
+		<description>Breakout (Jpm) [Czech]</description>
+		<rom name="Breakout_(Jpm)_[Czech]_[Pdx01_1024].jel" size="1421527" crc="9c3c7ad2" sha1="f819f9fa801b4e2f711064f4dcb2d1c19cd8132e"/>
+		<rom name="Breakout_(Jpm)_[Czech]_[Pdx01_1024].jpm" size="351" crc="577265fb" sha1="a746e165dd325da28f72b32b4946329b334ae317"/>
+	</machine>
+	<machine name="Bucks Fizz (Ace)">
+		<description>Bucks Fizz (Ace)</description>
+		<rom name="Bucks_Fizz_(Ace)_[C01_1024_25jp].jel" size="1142409" crc="c090fd34" sha1="cec988560c7d66d712f71cf9686938883ff7a15d"/>
+		<rom name="Bucks_Fizz_(Ace)_[C01_1024_25jp].jpm" size="657" crc="70342d6d" sha1="fa1f36a674de0dec46cc1b806b2f43c6e38d47d8"/>
+	</machine>
+	<machine name="Caesar's Palace (Ace)">
+		<description>Caesar's Palace (Ace)</description>
+		<rom name="Caesar's_Palace_(Ace)_[C01_v1-00_1024_15jp].jel" size="986292" crc="ff047162" sha1="e4f3a925bf69e93275c25e39de484c4aad662989"/>
+		<rom name="Caesar's_Palace_(Ace)_[C01_v1-00_1024_15jp].jpm" size="347" crc="5f10168d" sha1="d1cec982d31b80ec40587f07bb45a0c37aba8f3e"/>
+		<rom name="Caesar's_Palace_(Ace)_[C02_v1-01_1024_15jp].jel" size="985113" crc="cba554dc" sha1="62fc2ed5dadd915ff877c3400673c5c644f15983"/>
+		<rom name="Caesar's_Palace_(Ace)_[C02_v1-01_1024_15jp].jpm" size="347" crc="edb3125f" sha1="7856222be7d8c075b483ade94e2311543da5c5d7"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx01_1024_15jp].jel" size="2827218" crc="ab2e84bd" sha1="69cd32973564a3634dd7c018d17c5b9c0b9339b1"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx01_1024_15jp].jpm" size="341" crc="6bd9cc7e" sha1="a981a270c0dfe280429e8d7a57920aa5542ad11e"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx02_1024_15jp].jel" size="2009806" crc="31f135f0" sha1="d36c6af635dfd76be24af919b18b0d53b1b90848"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx02_1024_15jp].jpm" size="346" crc="83cd6f83" sha1="17d7a655089c4b1eb22e15b5d66db913c078fb92"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx03_1024_15jp].jel" size="2009551" crc="a8fca5a4" sha1="0dba32367b4d12dc25cdbf1c7f127eee426c391d"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx03_1024_15jp].jpm" size="346" crc="9c0da5f1" sha1="17430002070805e0fb91a8bdd420711caf922ddc"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx04_1024_15jp].jel" size="1900168" crc="0c512933" sha1="5432e096d4c7b8b81c1a7ca846511b17080faa9d"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx04_1024_15jp].jpm" size="346" crc="15317662" sha1="8bb1e19c08e05ba3231410d2fa9d622c6c679b3b"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx05_1280_15jp].jel" size="2384555" crc="30210bd6" sha1="119e4476dfa0cb2aab0c50f59448d0d0f271dc0d"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx05_1280_15jp].jpm" size="540" crc="81dda69f" sha1="89ac0555b273d01e111ba5c2f27784815b21524b"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx06_1280_15jp].jel" size="2380429" crc="3955739a" sha1="b09b226e093365aef31077458b89b6bb39ae5b9d"/>
+		<rom name="Caesar's_Palace_(Ace)_[Dx06_1280_15jp].jpm" size="540" crc="8f5be39a" sha1="b00d5098dbf8137a71a67c32f45d5a17027192ff"/>
+		<rom name="Caesar's_Palace_(Ace)_[Pdx01_1280_15jp].jel" size="2632712" crc="02c61083" sha1="f7b496d601f0555c35756db9ccd59422523eeef3"/>
+		<rom name="Caesar's_Palace_(Ace)_[Pdx01_1280_15jp].jpm" size="625" crc="c10f2d2f" sha1="8166e554f0e6d13d81e72e2e2b008e3a4a4ae9cd"/>
+	</machine>
+	<machine name="Caesar's Palace Club (Crystal) [c]">
+		<description>Caesar's Palace Club (Crystal) [c]</description>
+		<rom name="Caesar's_Palace_Club_(Crystal)_[C01_1024_200jp]_[c].jel" size="391017" crc="1d4e7262" sha1="7c08e9de803681430b9b7c3e614e2a19412549ff"/>
+		<rom name="Caesar's_Palace_Club_(Crystal)_[C01_1024_200jp]_[c].jpm" size="394" crc="b0732c2a" sha1="829893cd03f9c1838d8d588248810327d85df692"/>
+	</machine>
+	<machine name="Camelot (Jpm)">
+		<description>Camelot (Jpm)</description>
+		<rom name="Camelot_(Jpm)_[C01_v1-0_1024_10jp].jel" size="138570" crc="61445c51" sha1="3160c25e86887373cba33514d3f7c51cc877a5e4"/>
+		<rom name="Camelot_(Jpm)_[C01_v1-0_1024_10jp].jpm" size="336" crc="15a74223" sha1="edd140b75c72db20baebebb4f23c15b015ab9ae0"/>
+		<rom name="Camelot_(Jpm)_[Dx01_v1-0_1024_10jp].jel" size="3239335" crc="4737de3f" sha1="8f0f1282d1904ced811032029292827069eb9996"/>
+		<rom name="Camelot_(Jpm)_[Dx01_v1-0_1024_10jp].jpm" size="341" crc="3c7d1db4" sha1="6db495cdab9958988553086b96ca172ac0e699ea"/>
+		<rom name="Camelot_(Jpm)_[Dx02_1024_10jp].jel" size="3454611" crc="60e13811" sha1="8c43038e7343e768131aebb2b7677b3a570730eb"/>
+		<rom name="Camelot_(Jpm)_[Dx02_1024_10jp].jpm" size="530" crc="fbdaae51" sha1="7075ebde5ddbfb831c851c39eaa58695709f7937"/>
+		<rom name="Camelot_(Jpm)_[Dx03_1280_10jp].jel" size="1708165" crc="101c008d" sha1="d197aa843e12f6084e9423dc2e5edb2aef5cb508"/>
+		<rom name="Camelot_(Jpm)_[Dx03_1280_10jp].jpm" size="532" crc="cd200930" sha1="27ef233aa2a685fb9eccae231876f42cfbdf5eb6"/>
+	</machine>
+	<machine name="Captain Scarlet (Ace)">
+		<description>Captain Scarlet (Ace)</description>
+		<rom name="Captain_Scarlet_(Ace)_[C01_V1-0_1024_25jp].jel" size="282079" crc="ec522578" sha1="13fc031153fd2048722e26eb2f9ec6691c3de143"/>
+		<rom name="Captain_Scarlet_(Ace)_[C01_V1-0_1024_25jp].jpm" size="526" crc="2819229e" sha1="4390d1dc034ee98621935667a39a58cd2f0854db"/>
+		<rom name="Captain_Scarlet_(Ace)_[Dx01_V1-0_1152_25jp].jel" size="4208514" crc="370dcbd5" sha1="6c6d57ef9da911a92f3d6aa676a4da7c1fcd23d0"/>
+		<rom name="Captain_Scarlet_(Ace)_[Dx01_V1-0_1152_25jp].jpm" size="577" crc="bb8f66d2" sha1="0945742dd38b2b7f252836d82de83af52be640e1"/>
+	</machine>
+	<machine name="Cash Box Club (Empire) [c]">
+		<description>Cash Box Club (Empire) [c]</description>
+		<rom name="Cash_Box_Club_(Empire)_[C01_800_250jp]_[c].jel" size="153486" crc="da641970" sha1="ada03086834dad407775276cec149a55ca342b60"/>
+		<rom name="Cash_Box_Club_(Empire)_[C01_800_250jp]_[c].jpm" size="703" crc="a107df2f" sha1="77eda15bad7bf8c9f9e0fb68f8cb1ae163979499"/>
+		<rom name="Cash_Box_Club_(Empire)_[Dx01_1280_250jp]_[c].jel" size="3358420" crc="a4286182" sha1="23c9a660195607b0f12a11948e273e551826dfd9"/>
+		<rom name="Cash_Box_Club_(Empire)_[Dx01_1280_250jp]_[c].jpm" size="733" crc="a269fa40" sha1="972415a76b1650fb8c3d0b7f7cd06c2370a47860"/>
+	</machine>
+	<machine name="Cash Buster (Jpm)">
+		<description>Cash Buster (Jpm)</description>
+		<rom name="Cash_Buster_(Jpm)_[C01_1024_15jp].jel" size="672712" crc="4c42c0f4" sha1="6f5e8fd5f611549dacb34bd151da82c20b3f5f94"/>
+		<rom name="Cash_Buster_(Jpm)_[C01_1024_15jp].jpm" size="528" crc="31c4ed6d" sha1="1da006c092b3f82bb8c674e47eeef7f6042b1653"/>
+	</machine>
+	<machine name="Cash Countdown (Jpm) [Czech]">
+		<description>Cash Countdown (Jpm) [Czech]</description>
+		<rom name="Cash_Countdown_(Jpm)_[Czech]_[Dx01_1024].jel" size="1079958" crc="0cc5213c" sha1="a4a3b9ec6eea467619507d24c1754d903b7ebf6b"/>
+		<rom name="Cash_Countdown_(Jpm)_[Czech]_[Dx01_1024].jpm" size="357" crc="44f15647" sha1="7f0fb1d62f068c62f66e8a3c97ba242c9d8815f0"/>
+		<rom name="Cash_Countdown_(Jpm)_[Czech]_[Dx02_1024].jel" size="945427" crc="ae98c86f" sha1="7ef01a00023cc997049fdae523814d4dfd45119f"/>
+		<rom name="Cash_Countdown_(Jpm)_[Czech]_[Dx02_1024].jpm" size="363" crc="410a618d" sha1="9ac3824bdb4649c88ed9456f360754ada038432c"/>
+	</machine>
+	<machine name="Cash Crusade (Jackpot Justice Hybrid)">
+		<description>Cash Crusade (Jackpot Justice Hybrid)</description>
+		<rom name="Cash_Crusade_(Jackpot_Justice_Hybrid)_[Dx01_1280_25jp].jel" size="2648024" crc="9a4d0cb2" sha1="14aad2831180aeb2222167f039ee8ac01dd93452"/>
+		<rom name="Cash_Crusade_(Jackpot_Justice_Hybrid)_[Dx01_1280_25jp].jpm" size="788" crc="6b5a83fa" sha1="b1846726409e1e93010d3e4e34c3a36b94e85670"/>
+	</machine>
+	<machine name="Cash Raider (Ace)">
+		<description>Cash Raider (Ace)</description>
+		<rom name="Cash_Raider_(Ace)_[Dx01_1024_15jp].jel" size="5650977" crc="eb8226c0" sha1="77214f8fb9bc4f66e354b47819c216c0d81fd0e9"/>
+		<rom name="Cash_Raider_(Ace)_[Dx01_1024_15jp].jpm" size="343" crc="58e6aa75" sha1="1299cb4743880389ee5c7797eca4294e839b27a9"/>
+		<rom name="Cash_Raider_(Ace)_[Dx02_1280_15jp].jel" size="2600472" crc="ebfaa77b" sha1="9c905068ca93b325ed7c2b9c3458238433f3475a"/>
+		<rom name="Cash_Raider_(Ace)_[Dx02_1280_15jp].jpm" size="550" crc="6e318eb3" sha1="ac83d9b8b06d02bd79bc27314eb75196e3f0a979"/>
+		<rom name="Cash_Raider_(Ace)_[Dx03_1024_15jp].jel" size="4756660" crc="2c6b2821" sha1="5f8b6a256b98dff110488512ab5a778a6ef9f675"/>
+		<rom name="Cash_Raider_(Ace)_[Dx03_1024_15jp].jpm" size="540" crc="ac2b2497" sha1="f66bded230f72a42fcda9dd213ec40b11d054f2e"/>
+		<rom name="Cash_Raider_(Ace)_[Dx04_1280_15jp].jel" size="2573999" crc="86c94c89" sha1="1965971eded401ff9016d90ba5e115fdbf5028a2"/>
+		<rom name="Cash_Raider_(Ace)_[Dx04_1280_15jp].jpm" size="541" crc="debc654b" sha1="08a3c50f377241c687fbc8005ee8f42dce61814c"/>
+		<rom name="Cash_Raider_(Ace)_[Dx05_1024_15jp].jel" size="2785418" crc="31cad3b4" sha1="b5d6f9b3429ef300f2bf982f3ab516a09e7dd48e"/>
+		<rom name="Cash_Raider_(Ace)_[Dx05_1024_15jp].jpm" size="698" crc="f0fb6776" sha1="bcbe44c3d09600f9f6ae42bcce04659bd2404642"/>
+	</machine>
+	<machine name="Cash Towers (Jpm)">
+		<description>Cash Towers (Jpm)</description>
+		<rom name="Cash_Towers_(Jpm)_[C01_v1-0_1024_15jp].jel" size="161987" crc="c146d661" sha1="5703375a96b45597516f2e84ec2c039825bcfcba"/>
+		<rom name="Cash_Towers_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="393" crc="2de1ade9" sha1="4458dbadc7f06d290a87d60e710848e075acd788"/>
+	</machine>
+	<machine name="Cash Vegas Strip (Jpm)">
+		<description>Cash Vegas Strip (Jpm)</description>
+		<rom name="Cash_Vegas_Strip_(Jpm)_[C01_v1-0_1024_25jp].jel" size="156772" crc="6c9fdd3c" sha1="ec5348ab3c72d620e62af2e904ab8a8a4f53787f"/>
+		<rom name="Cash_Vegas_Strip_(Jpm)_[C01_v1-0_1024_25jp].jpm" size="385" crc="4ab0f68a" sha1="7a08d14bf125e6f066c5d3479398ea9a23bfc196"/>
+		<rom name="Cash_Vegas_Strip_(Jpm)_[Dx01_1280_25jp].jel" size="5849026" crc="9b1386e2" sha1="aa2382fd49000724cbf50e38c7655e061a3fae08"/>
+		<rom name="Cash_Vegas_Strip_(Jpm)_[Dx01_1280_25jp].jpm" size="667" crc="f272796b" sha1="3a4076d4b7b5a9da99f46311af5c4aa5d3ea8aca"/>
+	</machine>
+	<machine name="Casino 5 Liner (Jpm)">
+		<description>Casino 5 Liner (Jpm)</description>
+		<rom name="Casino_5_Liner_(Jpm)_[C01_1024_15jp].jel" size="591139" crc="2573d6c1" sha1="508487293f3f91dd745d56d1b29fd52ce7946f69"/>
+		<rom name="Casino_5_Liner_(Jpm)_[C01_1024_15jp].jpm" size="336" crc="25ac31d3" sha1="8f63e6dfea795b515418090408b452404fe3081b"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx01_1024_15jp].jel" size="2223419" crc="405da0b3" sha1="f2996f38d7c8ed528f2f31fae3aa38b94194c89d"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx01_1024_15jp].jpm" size="341" crc="a6f65f5c" sha1="2a12a3ce2c3b89cbd43d60d6b005e90227efd7bf"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx02_1024_15jp].jel" size="3000795" crc="98276f2b" sha1="394097e6a0d2436ec42c42e99f3b1a8e1aadf9e7"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx02_1024_15jp].jpm" size="381" crc="77582d8b" sha1="a88f0f93b6d6a3b1c323127e2593d8ff58eed3e0"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx03_1280_15jp].jel" size="4942959" crc="4ad2d592" sha1="d4e51d04c56ca5cc5cf01da846a6fa4d1a5889aa"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx03_1280_15jp].jpm" size="380" crc="7de2ce0f" sha1="4e0fc52cfc8d9d433df1c2c3fb4c5b6ed65c67fe"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx04_1280_15jp].jel" size="3174423" crc="5448c930" sha1="9f2e4d024c0ef2ee9f7b53e2acfb8a21d16159f5"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx04_1280_15jp].jpm" size="644" crc="a88383f8" sha1="15eae58627e64f8ff99db6be4213d9d570285123"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx05_1024_15jp].jel" size="3806472" crc="eb864f95" sha1="b5fa12501107adc6867f303d4ca2eac44a47398d"/>
+		<rom name="Casino_5_Liner_(Jpm)_[Dx05_1024_15jp].jpm" size="687" crc="129ce9f9" sha1="d0a9a1a8beacceb38a7b54a51fa8c21b39e3e1f3"/>
+	</machine>
+	<machine name="Casino Crazy (Jpm Hybrid)">
+		<description>Casino Crazy (Jpm Hybrid)</description>
+		<rom name="Casino_Crazy_(Jpm Hybrid)_[Dx01_1024_15jp].jel" size="1636631" crc="2f3e3542" sha1="2443d7ca44570a949e40a53c5626a0f0c3bfc64b"/>
+		<rom name="Casino_Crazy_(Jpm Hybrid)_[Dx01_1024_15jp].jpm" size="340" crc="bdf274cf" sha1="8c684e78844ecb9320141f3da88ba1d5ec0add17"/>
+	</machine>
+	<machine name="Casino Crazy (Jpm Hybrid) [c]">
+		<description>Casino Crazy (Jpm Hybrid) [c]</description>
+		<rom name="Casino_Crazy_(Jpm Hybrid)_[Dx01_1280_200jp]_[c].jel" size="4476204" crc="4905b2fa" sha1="9211fc7aeb51b418b741b5346df11cd3ca5ad365"/>
+		<rom name="Casino_Crazy_(Jpm Hybrid)_[Dx01_1280_200jp]_[c].jpm" size="390" crc="ec858ca9" sha1="fe8a85d30c564528fd1c55282f4c5f799cc3c808"/>
+		<rom name="Casino_Crazy_(Jpm Hybrid)_[Dx02_1024_200jp]_[c].jel" size="2732721" crc="9373b7c2" sha1="05b139cf0053c47c2d731b2451d9b3f9cabccccf"/>
+		<rom name="Casino_Crazy_(Jpm Hybrid)_[Dx02_1024_200jp]_[c].jpm" size="391" crc="a7cf4dc2" sha1="000fa862b173d647d16cb5cd4870d9ab23690449"/>
+	</machine>
+	<machine name="Casino Crazy (Jpm)">
+		<description>Casino Crazy (Jpm)</description>
+		<rom name="Casino_Crazy_(Jpm)_[C01_v1-01_1024_8jp].jel" size="5514799" crc="bdbf930a" sha1="af6e110f1c1678003ec62b4ebe9ba12094e71bfc"/>
+		<rom name="Casino_Crazy_(Jpm)_[C01_v1-01_1024_8jp].jpm" size="531" crc="bd1c45ae" sha1="771cd8d3dee720b0c2b5b09147900904c33753ff"/>
+		<rom name="Casino_Crazy_(Jpm)_[C02_v1-01_1024_8jp].jel" size="1623012" crc="34235f50" sha1="0485c80974d41e1dc328e02d9d0d15b147ae49b4"/>
+		<rom name="Casino_Crazy_(Jpm)_[C02_v1-01_1024_8jp].jpm" size="340" crc="6fd7f2a0" sha1="ae927e97fa4fd5b07ad8693f793b4a84f5801b48"/>
+		<rom name="Casino_Crazy_(Jpm)_[C03_1024_15jp].jel" size="286556" crc="db50b2b3" sha1="52f2d11c7494e32576f44c203b8f7f4b1414bf51"/>
+		<rom name="Casino_Crazy_(Jpm)_[C03_1024_15jp].jpm" size="336" crc="030c409d" sha1="7a2ffde1bf8262bef708086886418cbf97c24e58"/>
+	</machine>
+	<machine name="Casino Crazy (Jpm) [c]">
+		<description>Casino Crazy (Jpm) [c]</description>
+		<rom name="Casino_Crazy_(Jpm)_[C01_1024_200jp]_[c].jel" size="266299" crc="73326b16" sha1="9add2735003e15e5259bc9b55ddac7c218c95a19"/>
+		<rom name="Casino_Crazy_(Jpm)_[C01_1024_200jp]_[c].jpm" size="372" crc="642d2714" sha1="c7cb58f363d6f48b66def84e9bae3277c80172c1"/>
+		<rom name="Casino_Crazy_(Jpm)_[C02_1024_250jp]_[c].jel" size="165480" crc="bf4d2fdc" sha1="a98a56de85ce192b0f59e408eac70c31c4f20d03"/>
+		<rom name="Casino_Crazy_(Jpm)_[C02_1024_250jp]_[c].jpm" size="340" crc="3a38868f" sha1="a3ec7bd7013497e4a4f6657f3d50bc8b4b8434f8"/>
+	</machine>
+	<machine name="Casino Las Vegas (Jpm)">
+		<description>Casino Las Vegas (Jpm)</description>
+		<rom name="Casino_Las_Vegas_(Jpm)_[C01_800_10jp].jel" size="990547" crc="ae52da98" sha1="c73a3190fff7704418a518afc5dee061e7895366"/>
+		<rom name="Casino_Las_Vegas_(Jpm)_[C01_800_10jp].jpm" size="683" crc="3b50ae30" sha1="64991f907d6d19d7b5d1b23800378082acf455af"/>
+	</machine>
+	<machine name="Cheque Mate (Jpm)">
+		<description>Cheque Mate (Jpm)</description>
+		<rom name="Cheque_Mate_(Jpm)_[C01_1024_25jp].jel" size="1146140" crc="6fe3fdab" sha1="d36be55adb62444b3a38de126e2b1486093ed52b"/>
+		<rom name="Cheque_Mate_(Jpm)_[C01_1024_25jp].jpm" size="662" crc="7756dbae" sha1="2c51fd02f26ccba9aeae6071286301a08e4b9ebf"/>
+	</machine>
+	<machine name="Club Banker (Jpm) [c]">
+		<description>Club Banker (Jpm) [c]</description>
+		<rom name="Club_Banker_(Jpm)_[C01_800_250jp]_[c].jel" size="838277" crc="a866c761" sha1="9c6cf4cbdfb4f9bb3063eb129c1806bae27c7d93"/>
+		<rom name="Club_Banker_(Jpm)_[C01_800_250jp]_[c].jpm" size="649" crc="da405084" sha1="ead232634037607c960570b7857768ad25819eb2"/>
+	</machine>
+	<machine name="Club Cluedo (Jpm) [c]">
+		<description>Club Cluedo (Jpm) [c]</description>
+		<rom name="Club_Cluedo_(Jpm)_[C01_800_250jp]_[c].jel" size="5198658" crc="118fe5bf" sha1="ac32bad3dc54379c4533658f670b6bf30c6d589c"/>
+		<rom name="Club_Cluedo_(Jpm)_[C01_800_250jp]_[c].jpm" size="586" crc="5f41248b" sha1="8059b744f3670aa639aa65352b03e36af5f6e114"/>
+		<rom name="Club_Cluedo_(Jpm)_[Dx01_1280_250jp]_[c].jel" size="4894338" crc="27939953" sha1="8f07a304b6c4556667b6fac6b78a4d0bb3234df4"/>
+		<rom name="Club_Cluedo_(Jpm)_[Dx01_1280_250jp]_[c].jpm" size="631" crc="f6115ac9" sha1="bd1bcabd597e1df22ae3ceed1388ec801242f471"/>
+		<rom name="Club_Cluedo_(Jpm)_[Dx02_1024_250jp]_[c].jel" size="3280226" crc="4a796e6e" sha1="d88b1150d63c0454536f737937109252b8621bdc"/>
+		<rom name="Club_Cluedo_(Jpm)_[Dx02_1024_250jp]_[c].jpm" size="711" crc="22e2327d" sha1="5f1c3c5e978473fafdccc7315511699ab627a57b"/>
+	</machine>
+	<machine name="Club Crazy Fruits (Club Fast Fruits Hybrid) [c]">
+		<description>Club Crazy Fruits (Club Fast Fruits Hybrid) [c]</description>
+		<rom name="Club_Crazy_Fruits_(Club_Fast_Fruits_Hybrid)_[Pdx01_1024_250jp]_[c].jel" size="1782634" crc="74f4fa67" sha1="59ef79c230ae74565ae4bd464fdaadc93af81cdf"/>
+		<rom name="Club_Crazy_Fruits_(Club_Fast_Fruits_Hybrid)_[Pdx01_1024_250jp]_[c].jpm" size="400" crc="f84618f9" sha1="395ee2088250232054feab40459912fb6660fb7b"/>
+		<rom name="Club_Crazy_Fruits_(Club_Fast_Fruits_Hybrid)_[Pdx02_1280_250jp]_[c].jel" size="4304739" crc="a259697d" sha1="344a5fbe97d32c65be0da38554e3eeddbd689cfd"/>
+		<rom name="Club_Crazy_Fruits_(Club_Fast_Fruits_Hybrid)_[Pdx02_1280_250jp]_[c].jpm" size="399" crc="69cb4b4b" sha1="c51332b7b904e696c73a3fec5dc8c14464224cb3"/>
+		<rom name="Club_Crazy_Fruits_(Club_Fast_Fruits_Hybrid)_[Pdx03_1024_250jp]_[c].jel" size="1571737" crc="149fefbb" sha1="86c56189e5083fc8de93ab6380f363078ce1494f"/>
+		<rom name="Club_Crazy_Fruits_(Club_Fast_Fruits_Hybrid)_[Pdx03_1024_250jp]_[c].jpm" size="594" crc="ee44c20f" sha1="5867d2f1799dbf512d02a00cde715688fb217dc2"/>
+	</machine>
+	<machine name="Club Fast Fruits (Qps) [c]">
+		<description>Club Fast Fruits (Qps) [c]</description>
+		<rom name="Club_Fast_Fruits_(Qps)_[C01_1024_250jp]_[c].jel" size="640368" crc="787237c3" sha1="bb2422469403ad1397e57d74ebc98c07b24413b0"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[C01_1024_250jp]_[c].jpm" size="375" crc="69711463" sha1="10ec59941257acd81fbcb47d3261990c04d50462"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[C02_1024_250jp]_[c].jel" size="640551" crc="8f0cba48" sha1="0c7b9a2f521d9091f0fcb82251485400980fe44a"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[C02_1024_250jp]_[c].jpm" size="376" crc="06daf19e" sha1="1310942e2dccd61e22c82ebf5410f89379c2b5a1"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[C03_1024_250jp]_[c].jel" size="640551" crc="8f0cba48" sha1="0c7b9a2f521d9091f0fcb82251485400980fe44a"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[C03_1024_250jp]_[c].jpm" size="376" crc="a686a475" sha1="86da6ac8a66d6308ba02e160feae5e37134867a3"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx01_1024_250jp]_[c].jel" size="1237689" crc="f3f6f588" sha1="abae9674ce2b073313942730d9a5338b6ec582a2"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx01_1024_250jp]_[c].jpm" size="377" crc="49c951dc" sha1="5a91d42ff86d187e2fdb9ad47ec342988b1589a2"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx02_1024_250jp]_[c].jel" size="1400824" crc="f8a9698b" sha1="c5d2b7264d142652450f6dbbdebc895c9809b808"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx02_1024_250jp]_[c].jpm" size="377" crc="54bc271c" sha1="31e40019767cbb496d6bbe3f1c05a84b4ead8503"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx03_1024_250jp]_[c].jel" size="1236831" crc="1940bff0" sha1="baf0b15aa594908371372277d907179a991fa49d"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx03_1024_250jp]_[c].jpm" size="377" crc="4537fa9a" sha1="06315c5834c973c6356b65aeed2f1a82978a83ca"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx04_1024_250jp]_[c].jel" size="2254840" crc="29479284" sha1="b5531739ecdd9a7691c8c56eb4089446baa2957e"/>
+		<rom name="Club_Fast_Fruits_(Qps)_[Dx04_1024_250jp]_[c].jpm" size="377" crc="401690cd" sha1="d3c4e8e17a5eaddb201889ce53e857fc270c9f3e"/>
+	</machine>
+	<machine name="Coliseum Cash (Jpm)">
+		<description>Coliseum Cash (Jpm)</description>
+		<rom name="Coliseum_Cash_(Jpm)_[C01_1024_15jp].jel" size="888656" crc="a2eb7ed8" sha1="1b8a34bf878dfe26f99fa5019e2793308966e59f"/>
+		<rom name="Coliseum_Cash_(Jpm)_[C01_1024_15jp].jpm" size="353" crc="a08bba98" sha1="ce08621c773e3dc6cf59b9c094d0b4ce53f2edec"/>
+		<rom name="Coliseum_Cash_(Jpm)_[Dx01_1280_15jp].jel" size="4233975" crc="bd963dd3" sha1="a348be89093cf6d82d892c2c9a58acacdedc98fc"/>
+		<rom name="Coliseum_Cash_(Jpm)_[Dx01_1280_15jp].jpm" size="354" crc="263cb6db" sha1="cd3bf7baa7735cc570ce4127bf04d9c4117bfc16"/>
+		<rom name="Coliseum_Cash_(Jpm)_[Dx02_1024_15jp].jel" size="3176683" crc="41e39f3a" sha1="43d557a8d2c22dc24896a384365f8e02bf366a08"/>
+		<rom name="Coliseum_Cash_(Jpm)_[Dx02_1024_15jp].jpm" size="585" crc="32754e53" sha1="a68af5fada73840961761089b9ae3b9dc420050d"/>
+	</machine>
+	<machine name="Colour Of Money (Jpm)">
+		<description>Colour Of Money (Jpm)</description>
+		<rom name="Colour_Of_Money_(Jpm)_[C01_1024_15jp].jel" size="91558" crc="177fb3ca" sha1="64ee198871ad404349cc2dae26c3bdb0a88bebbd"/>
+		<rom name="Colour_Of_Money_(Jpm)_[C01_1024_15jp].jpm" size="359" crc="50e23281" sha1="1b13a752d2dd7dca4ca40061ea4e1dbc8fa97fbf"/>
+	</machine>
+	<machine name="Cops 'n' Robbers (Qps)">
+		<description>Cops 'n' Robbers (Qps)</description>
+		<rom name="Cops_'n'_Robbers_(Qps)_[C01_v1-01_1024_15jp].jel" size="718408" crc="04f28885" sha1="5c62c634feed0a30c1bd43b3559e34cc8e655bc7"/>
+		<rom name="Cops_'n'_Robbers_(Qps)_[C01_v1-01_1024_15jp].jpm" size="560" crc="a10975c7" sha1="a62d48d5e8c2cd7a08208bfbad8ec8e872e49a71"/>
+		<rom name="Cops_'n'_Robbers_(Qps)_[C02_1024_15jp].jel" size="723456" crc="da7234b3" sha1="26859820691c00b1b0bcb41c88d88a1f9a86b05c"/>
+		<rom name="Cops_'n'_Robbers_(Qps)_[C02_1024_15jp].jpm" size="595" crc="da615fc7" sha1="06e0554dccdc17b658b4d580ff15ebdf9e1c08ba"/>
+		<rom name="Cops_'n'_Robbers_(Qps)_[Dx01_1024_15jp].jel" size="2672317" crc="a4f4bbd2" sha1="ad7f52170171e274de7d8bf36885e708bc038342"/>
+		<rom name="Cops_'n'_Robbers_(Qps)_[Dx01_1024_15jp].jpm" size="639" crc="d167b176" sha1="55ecae69b78d51628f8098e3c4a2dde6107078fd"/>
+	</machine>
+	<machine name="Cracker (Jpm)">
+		<description>Cracker (Jpm)</description>
+		<rom name="Cracker_(Jpm)_[C01_1024_15jp].jel" size="136761" crc="a6efbf04" sha1="52fd62c3626a27c07d0a42c80178ea454c7b9955"/>
+		<rom name="Cracker_(Jpm)_[C01_1024_15jp].jpm" size="381" crc="dda64f9d" sha1="c9d7370e4687072484bd5b6a9ebed5f7845c10c2"/>
+		<rom name="Cracker_(Jpm)_[Dx01_1024_15jp].jel" size="3100321" crc="aa53af1c" sha1="6684a5454998fefa676ffdcf3999abccc9a4e26d"/>
+		<rom name="Cracker_(Jpm)_[Dx01_1024_15jp].jpm" size="382" crc="2450d321" sha1="1a0effb651bbbbf04135750aa51ec3a4134397bb"/>
+		<rom name="Cracker_(Jpm)_[Dx02_1280_15jp].jel" size="1991119" crc="ea0ecbbc" sha1="55efe5783dfa0416c3e253f79ae5042cbb0858d7"/>
+		<rom name="Cracker_(Jpm)_[Dx02_1280_15jp].jpm" size="381" crc="a74d7bb0" sha1="cefc4b5e8efca7fa60141b992108ea534a751f3e"/>
+		<rom name="Cracker_(Jpm)_[Dx03_1024_15jp].jel" size="2776827" crc="d2a96c4e" sha1="278eb4251429d9ab589a14f92502aa9a21e7facf"/>
+		<rom name="Cracker_(Jpm)_[Dx03_1024_15jp].jpm" size="571" crc="6a2931f7" sha1="42b4c16d84aa0fddb662c331531631841d96ab59"/>
+	</machine>
+	<machine name="Cross Fire (Jpm) [Czech]">
+		<description>Cross Fire (Jpm) [Czech]</description>
+		<rom name="Cross_Fire_(Jpm)_[Czech]_[Dx01_1024].jel" size="1177780" crc="ded03ed0" sha1="ea1aec6ee71bce93f796d5d6f870676b79c2f1b7"/>
+		<rom name="Cross_Fire_(Jpm)_[Czech]_[Dx01_1024].jpm" size="354" crc="abda7188" sha1="5bc849d484fc5e30b2495a7b0e679c89292d1546"/>
+		<rom name="Cross_Fire_(Jpm)_[Czech]_[Dx02_1280].jel" size="2246418" crc="2757e463" sha1="fd79f25d554fa80cab1655d9c1024c09023061d3"/>
+		<rom name="Cross_Fire_(Jpm)_[Czech]_[Dx02_1280].jpm" size="359" crc="7902184d" sha1="1b58bf7b61162c148d01a9e62d3d0b319c383e7a"/>
+		<rom name="Cross_Fire_(Jpm)_[Czech]_[Dx03_1280].jel" size="2784426" crc="38262618" sha1="17b272399544ddf29df0eb3c39bfdc50a43b3140"/>
+		<rom name="Cross_Fire_(Jpm)_[Czech]_[Dx03_1280].jpm" size="688" crc="ed6323e1" sha1="7019db5f4b9ac685f4b909a2ae91d1a4262e2593"/>
+	</machine>
+	<machine name="Dambusters (Vindaloot Hybrid)">
+		<description>Dambusters (Vindaloot Hybrid)</description>
+		<rom name="Dambusters_(Vindaloot_Hybrid)_[Dx01_1280_25jp].jel" size="1921217" crc="91dfa516" sha1="889e594ca29e0b37722c5fb39b943bf87b489ada"/>
+		<rom name="Dambusters_(Vindaloot_Hybrid)_[Dx01_1280_25jp].jpm" size="728" crc="57e5da81" sha1="609da07c609d0cacbf853136111a660d2ecfc408"/>
+	</machine>
+	<machine name="Daytona Gold (Jpm) [Czech]">
+		<description>Daytona Gold (Jpm) [Czech]</description>
+		<rom name="Daytona_Gold_(Jpm)_[Czech]_[Dx01_1280].jel" size="2313295" crc="02f9feff" sha1="47b7dc33aaac27fe9ad06b64d5f00310b7faf0eb"/>
+		<rom name="Daytona_Gold_(Jpm)_[Czech]_[Dx01_1280].jpm" size="628" crc="d5676595" sha1="0e66b56422473b565fdbb51bdcb70f0d92ad1e1f"/>
+	</machine>
+	<machine name="Daytona Millenium (Jpm) [Czech]">
+		<description>Daytona Millenium (Jpm) [Czech]</description>
+		<rom name="Daytona_Millenium_(Jpm)_[Czech]_[Dx01_1024].jel" size="1584188" crc="5f6d579c" sha1="ce63daec4f77152e8725e7f3e300a86e56defc9f"/>
+		<rom name="Daytona_Millenium_(Jpm)_[Czech]_[Dx01_1024].jpm" size="369" crc="530d074e" sha1="1233f525bd390f72dc5f578e5f06c189e367d272"/>
+	</machine>
+	<machine name="Demon Jokers (Jpm) [Czech]">
+		<description>Demon Jokers (Jpm) [Czech]</description>
+		<rom name="Demon_Jokers_(Jpm)_[Czech]_[Dx01_1024].jel" size="1822743" crc="ba428914" sha1="a094209b830d7d75fe0e9a10801a8b91a080f084"/>
+		<rom name="Demon_Jokers_(Jpm)_[Czech]_[Dx01_1024].jpm" size="376" crc="99d97da7" sha1="bca86eb73e88b2f81d900acfea86f7ac2faa7830"/>
+	</machine>
+	<machine name="Diamond Geezer (Jpm)">
+		<description>Diamond Geezer (Jpm)</description>
+		<rom name="Diamond_Geezer_(Jpm)_[C01_1024_25jp].jel" size="764898" crc="023ea445" sha1="eff27bf2c234c2ecdf9e5d12e4903f31f8baf1cf"/>
+		<rom name="Diamond_Geezer_(Jpm)_[C01_1024_25jp].jpm" size="645" crc="e235340b" sha1="7c3f2523eb9bf0c85020e64514707ffd337fd508"/>
+		<rom name="Diamond_Geezer_(Jpm)_[Dx01_1600_25jp].jel" size="3306219" crc="15c6fa10" sha1="e4621122720ea2e4d57058f01919a65a58fbbb49"/>
+		<rom name="Diamond_Geezer_(Jpm)_[Dx01_1600_25jp].jpm" size="646" crc="ed56172f" sha1="f7811beccce819c3d6e3689b805858637b30ff9f"/>
+		<rom name="Diamond_Geezer_(Jpm)_[Dx02_1280_25jp].jel" size="1205849" crc="c8df9180" sha1="bc106da8d6bed8cb777b5ca55c13413a6cc3add4"/>
+		<rom name="Diamond_Geezer_(Jpm)_[Dx02_1280_25jp].jpm" size="674" crc="c0eba8ff" sha1="e8c5f174c6ceb2371c007cc1475c4c0ef750ae64"/>
+		<rom name="Diamond_Geezer_(Jpm)_[Dx03_1024_25jp].jel" size="1205849" crc="c8df9180" sha1="bc106da8d6bed8cb777b5ca55c13413a6cc3add4"/>
+		<rom name="Diamond_Geezer_(Jpm)_[Dx03_1024_25jp].jpm" size="674" crc="d6bac428" sha1="d4b19f546f7b6a7e4d529ff9917b1114cd457068"/>
+	</machine>
+	<machine name="Do You Feel Lucky (Jpm)">
+		<description>Do You Feel Lucky (Jpm)</description>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[C01_v1-0_1024_15jp].jel" size="134991" crc="6f8c1023" sha1="18fdfb7d071de07d6a4ed6fffb9febe4a1ae3075"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="401" crc="ed036f9f" sha1="a98f47d600270ab78d8b597d616de1f1128aa8df"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx01_1024_15jp].jel" size="3141648" crc="e930da72" sha1="7c9f3e55c8fd3bb5162e21f03f6cfe8160f07a0b"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx01_1024_15jp].jpm" size="402" crc="ac8e5fb1" sha1="4ff559ce150796b0d1540a1d5368086ce28714fb"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx02_1280_15jp].jel" size="3684660" crc="cd4e7af5" sha1="7dc685799a18cb44f655f1b37dda6c1469271e25"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx02_1280_15jp].jpm" size="403" crc="5ac8c211" sha1="ebeefddc17ab731e30d98e20d5dfc2564e8943f9"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx03_v1-1_1024_15jp].jel" size="2036408" crc="a143bfa7" sha1="ab896bc42e45c5dd428f1d818344026da3e0b2ff"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx03_v1-1_1024_15jp].jpm" size="405" crc="6d96e9dd" sha1="65baa0a9935a5ab14e9e5f75f54843b2fa8f0221"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx04_1024_15jp].jel" size="3516967" crc="79aae074" sha1="0ab9a34c0c81c22d5100a10d693ea6e61f121fd8"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx04_1024_15jp].jpm" size="599" crc="40ad8ffe" sha1="4edff69066a29663551823bd57eb29fc88350a75"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx05_1280_15jp].jel" size="3616804" crc="46e877d9" sha1="aa65397722fd6886e1d22ee176a9709d3b08a3ef"/>
+		<rom name="Do_You_Feel_Lucky_(Jpm)_[Dx05_1280_15jp].jpm" size="598" crc="5bb4cae5" sha1="c25dd7e745c24512e972b9f0b379c9006d0465f5"/>
+	</machine>
+	<machine name="Dr Dough (Qps)">
+		<description>Dr Dough (Qps)</description>
+		<rom name="Dr_Dough_(Qps)_[C01_v1-0_1024_25jp].jel" size="154823" crc="0b10128f" sha1="488ab15fbe9b87311c4129ec87530fd0f99b3463"/>
+		<rom name="Dr_Dough_(Qps)_[C01_v1-0_1024_25jp].jpm" size="350" crc="539f64cf" sha1="48dd53a0723f2d381e17e3988fbf2afa71a2eb64"/>
+	</machine>
+	<machine name="Each Way Nudger MKIII (Jpm Hybrid)">
+		<description>Each Way Nudger MKIII (Jpm Hybrid)</description>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[C01_800_2jp].jel" size="512725" crc="a38dcb1c" sha1="69ccb748f3c014744af8466bb32453bf3bec2684"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[C01_800_2jp].jpm" size="348" crc="96e3834c" sha1="ccad58dc78aaeb4672aca6b90c09e8444cf1c483"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Dx01_1280_15jp].jel" size="3472924" crc="9ce464cf" sha1="33947c59fa52a58851b8a0df81253b50a9261c83"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Dx01_1280_15jp].jpm" size="352" crc="57ad821e" sha1="588e51170ad3279407867468ba221271478da60d"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Dx02_1024_5jp].jel" size="1905400" crc="20518c00" sha1="901d6952154af9f202983eed7abd675101fb7855"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Dx02_1024_5jp].jpm" size="679" crc="75becb96" sha1="78aa8682704e224ec78542ee3b3726be0d979952"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Dx03_1024_5jp].jel" size="2691872" crc="ef006163" sha1="8ca42a0ee3cd3029b3ba8b66996b25524f03fdfe"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Dx03_1024_5jp].jpm" size="679" crc="a07e2936" sha1="2d7b77a23a96dd3fe4ef6d6865c2a5900a9a87d5"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Pdx01_1024_15jp].jel" size="1194246" crc="79e198af" sha1="f7acd13154c2e71509e85c87bc4af76419ec02be"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Pdx01_1024_15jp].jpm" size="349" crc="817c2ba4" sha1="6d83f8601edf3a5078b8751aefab45ab4834a467"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Pdx02_1280_15jp].jel" size="2634248" crc="0f89d69a" sha1="bfd6b4e97206e9e3c0eee05a41410584b9f531c3"/>
+		<rom name="Each_Way_Nudger_MKIII_(Jpm Hybrid)_[Pdx02_1280_15jp].jpm" size="547" crc="3ecdf44b" sha1="237ab7d0ea84576191f192db6a1d70968e6359d9"/>
+	</machine>
+	<machine name="Easy Money (Crystal)">
+		<description>Easy Money (Crystal)</description>
+		<rom name="Easy_Money_(Crystal)_[C01_1280_15jp].jel" size="581963" crc="87825628" sha1="09c8cd509fdc723eb4a235c9510a360b387bd869"/>
+		<rom name="Easy_Money_(Crystal)_[C01_1280_15jp].jpm" size="674" crc="94603ddd" sha1="a2696a2301e88e710b92e71f47af62ac7e4ea895"/>
+		<rom name="Easy_Money_(Crystal)_[Dx01_1280_15jp].jel" size="1830609" crc="172fbbb0" sha1="0c35f109c3bf5b62185645ae16e528097f50689b"/>
+		<rom name="Easy_Money_(Crystal)_[Dx01_1280_15jp].jpm" size="703" crc="5eab0708" sha1="fbe6aaa29f4a83e349502f4e3b95ddfe499182ab"/>
+		<rom name="Easy_Money_(Crystal)_[Dx02_1024_5jp].jel" size="2055390" crc="c4924845" sha1="32774354b7a9fde9e75f88a897853159101cc313"/>
+		<rom name="Easy_Money_(Crystal)_[Dx02_1024_5jp].jpm" size="384" crc="8ba679b2" sha1="979f4a654a7dc648686fb2e2cc6871028b426f7c"/>
+	</machine>
+	<machine name="Euphoria (Ace)">
+		<description>Euphoria (Ace)</description>
+		<rom name="Euphoria_(Ace)_[C01_1024_25jp].jel" size="328094" crc="5d98d3b0" sha1="66c8812af82ab4bf1ec91a1c7af9ae01b94e2825"/>
+		<rom name="Euphoria_(Ace)_[C01_1024_25jp].jpm" size="348" crc="fd3cc3fb" sha1="836131eb4d25ce6d599590567fe450eeb425e30b"/>
+		<rom name="Euphoria_(Ace)_[Dx01_1280_25jp].jel" size="3425266" crc="cd946deb" sha1="705f83a094b497431426ae84f717e694859bce6f"/>
+		<rom name="Euphoria_(Ace)_[Dx01_1280_25jp].jpm" size="350" crc="5f3a10b1" sha1="dcfc09b888b4c6117853794fabf07bb4f9fad1ef"/>
+		<rom name="Euphoria_(Ace)_[Dx02_1024_25jp].jel" size="2638796" crc="ae6e1846" sha1="dae72a8b627b1a70ff6b3a77f7e9f32fa180f70f"/>
+		<rom name="Euphoria_(Ace)_[Dx02_1024_25jp].jpm" size="679" crc="dc2de81b" sha1="be4097a695e562612e975900036b48d0f6e151da"/>
+	</machine>
+	<machine name="Fast Trak (Jpm)">
+		<description>Fast Trak (Jpm)</description>
+		<rom name="Fast_Trak_(Jpm)_[C01_1024_15jp].jel" size="717011" crc="a74bb61b" sha1="d5e07cc75265abcef3b650c2535496c9a3297484"/>
+		<rom name="Fast_Trak_(Jpm)_[C01_1024_15jp].jpm" size="624" crc="9292616c" sha1="56910d6639585f025ea81599a8c044986945e085"/>
+	</machine>
+	<machine name="Filthy Rich (Jpm) [c]">
+		<description>Filthy Rich (Jpm) [c]</description>
+		<rom name="Filthy_Rich_(Jpm)_[C01_v1-0_1024_250jp]_[c].jel" size="191779" crc="98c33d71" sha1="cf8cb45c66272e22e9a4c21c74becfd8be749a8d"/>
+		<rom name="Filthy_Rich_(Jpm)_[C01_v1-0_1024_250jp]_[c].jpm" size="351" crc="90f8cfbc" sha1="27edbd1bbf38171efe10d697c105877dfcae40a1"/>
+	</machine>
+	<machine name="Firecracker (Jpm)">
+		<description>Firecracker (Jpm)</description>
+		<rom name="Firecracker_(Jpm)_[Dx01_1280_25jp].jel" size="4811720" crc="df45ec55" sha1="3dd48db2e49feaf280f0c20a576fa93b4d15843c"/>
+		<rom name="Firecracker_(Jpm)_[Dx01_1280_25jp].jpm" size="672" crc="71371524" sha1="6963fdbfb65d639abc6381ce6520ed1dc411048f"/>
+		<rom name="Firecracker_(Jpm)_[Dx02_1600_25jp].jel" size="4532698" crc="8e8c546d" sha1="bb8585f26247f868bcfb4c4af3ba362678b5e1fb"/>
+		<rom name="Firecracker_(Jpm)_[Dx02_1600_25jp].jpm" size="702" crc="e82faf05" sha1="f96a34e0eda788fc7f0d361a236a33a7eca81a1b"/>
+	</machine>
+	<machine name="Firecracker Club (Jpm) [c]">
+		<description>Firecracker Club (Jpm) [c]</description>
+		<rom name="Firecracker_Club_(Jpm)_[Dx01_1280_250jp]_[c].jel" size="5363323" crc="d08e64c1" sha1="b39c71813b3bedfc7a9e60643a153df5c034ef46"/>
+		<rom name="Firecracker_Club_(Jpm)_[Dx01_1280_250jp]_[c].jpm" size="562" crc="2833f9a9" sha1="45d2ab12fa3ebd73ddf50519931d2ce71187753f"/>
+		<rom name="Firecracker_Club_(Jpm)_[Dx01_plus_1280_250jp]_[c].jel" size="6737803" crc="c7f086d5" sha1="c17e0d9ebe9218e773ecac796cf0563568c60cbc"/>
+		<rom name="Firecracker_Club_(Jpm)_[Dx01_plus_1280_250jp]_[c].jpm" size="568" crc="b3b173cb" sha1="b098f1cc167cafac928f07f0b9e9d28a91b4e15a"/>
+	</machine>
+	<machine name="Five Alive (Jpm) [c]">
+		<description>Five Alive (Jpm) [c]</description>
+		<rom name="Five_Alive_(Jpm)_[C01_v1-0_1024_1000jp]_[c].jel" size="141850" crc="6a4067b2" sha1="969a80660aa591907305e187500fde9dbec5093f"/>
+		<rom name="Five_Alive_(Jpm)_[C01_v1-0_1024_1000jp]_[c].jpm" size="337" crc="0de727e9" sha1="effa8537c964f5736efbacc3db7fe802bbc8d00d"/>
+		<rom name="Five_Alive_(Jpm)_[Dx01_1024_1000jp]_[c].jel" size="3687064" crc="b4fc3d36" sha1="db42451e0d573a37eda2e3220e6f67e1c1923364"/>
+		<rom name="Five_Alive_(Jpm)_[Dx01_1024_1000jp]_[c].jpm" size="376" crc="4cb48494" sha1="51a851c783b21b2ab76f4a46d6522842caa48fab"/>
+	</machine>
+	<machine name="Five Liner (Jpm)">
+		<description>Five Liner (Jpm)</description>
+		<rom name="Five_Liner_(Jpm)_[C01_v1-0_1024_15jp].jel" size="210988" crc="2b860bfc" sha1="56c929c621d7abdf0245b2aeb4377829b9a00043"/>
+		<rom name="Five_Liner_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="374" crc="2c21f604" sha1="849e7e3227241b80991a5c0d162b7a4306a70c63"/>
+		<rom name="Five_Liner_(Jpm)_[Dx01_1280_15jp].jel" size="1851402" crc="2759c347" sha1="c11348243b282f6a07c9644a9775ac3d59f397fd"/>
+		<rom name="Five_Liner_(Jpm)_[Dx01_1280_15jp].jpm" size="371" crc="f7afeae2" sha1="8901f3a45f020819221d6262e6b88c15aa111acb"/>
+		<rom name="Five_Liner_(Jpm)_[Dx02_1024_15jp].jel" size="1120708" crc="a2a08ab3" sha1="7d53a7f15768f365df23c8c27506148e8cb23e8a"/>
+		<rom name="Five_Liner_(Jpm)_[Dx02_1024_15jp].jpm" size="564" crc="637eadd0" sha1="4441fe956d2636284672b9f20823e5ea4e71d5d4"/>
+		<rom name="Five_Liner_(Jpm)_[Dx03_1024_15jp].jel" size="1894791" crc="2e636909" sha1="2b493ec6098e6790ed9ad970c4505fc9c393b0c4"/>
+		<rom name="Five_Liner_(Jpm)_[Dx03_1024_15jp].jpm" size="567" crc="0bf085fc" sha1="12805ba104902e2c35a1f2e3ac596d7096deba90"/>
+	</machine>
+	<machine name="Football Crazy (Jpm)">
+		<description>Football Crazy (Jpm)</description>
+		<rom name="Football_Crazy_(Jpm)_[C01_1024_10jp].jel" size="274504" crc="326a5701" sha1="ee2ab9c560bfcee892c5bfdd312e5e8d1370c341"/>
+		<rom name="Football_Crazy_(Jpm)_[C01_1024_10jp].jpm" size="329" crc="c4e33c39" sha1="4c4139d3cfb37ef9a180ac58abb81a1544567420"/>
+		<rom name="Football_Crazy_(Jpm)_[C02_1024_10jp].jel" size="274469" crc="0972ad72" sha1="785f3b81deb1a01bcb3927d46f1816f6fd259c46"/>
+		<rom name="Football_Crazy_(Jpm)_[C02_1024_10jp].jpm" size="525" crc="87fdaf50" sha1="3638b294a5703714ceeef99020d581fc33eaa80d"/>
+	</machine>
+	<machine name="Force 10 (Jpm)">
+		<description>Force 10 (Jpm)</description>
+		<rom name="Force_10_(Jpm)_[C01_1024_15jp].jel" size="1368547" crc="a8488605" sha1="63580db6ea8f0e62975d9c3a8fe4c8a24f7cb0e9"/>
+		<rom name="Force_10_(Jpm)_[C01_1024_15jp].jpm" size="529" crc="418167ff" sha1="b674295bb7d2ebb7280096acd44a8b8de08edde6"/>
+	</machine>
+	<machine name="Fruit Machine, The (Jpm)">
+		<description>Fruit Machine, The (Jpm)</description>
+		<rom name="Fruit_Machine,_The_(Jpm)_[C01_v1-0_1024_25jp].jel" size="241365" crc="c0b48aa9" sha1="182a574e8437bb3e87897b2ac58f601e70772a6a"/>
+		<rom name="Fruit_Machine,_The_(Jpm)_[C01_v1-0_1024_25jp].jpm" size="651" crc="70ec9e35" sha1="ce830cae573063df3605c7e1afea705dc250c76c"/>
+		<rom name="Fruit_Machine,_The_(Jpm)_[C01_v1-0b_1024_25jp].jel" size="241285" crc="56c3ea8b" sha1="6da67a3b6cb58e751f3559f1aad216e010c64eb4"/>
+		<rom name="Fruit_Machine,_The_(Jpm)_[C01_v1-0b_1024_25jp].jpm" size="652" crc="37a95439" sha1="8e35921fe7a2b3a7fae7954523aa6df2afdf4938"/>
+		<rom name="Fruit_Machine,_The_(Jpm)_[Dx01_1280_25jp].jel" size="3966812" crc="293ffc5f" sha1="e8791754da66a138a8f2063a2af50958808d536a"/>
+		<rom name="Fruit_Machine,_The_(Jpm)_[Dx01_1280_25jp].jpm" size="648" crc="663eabe9" sha1="a8535f679f8e5c08b1dc7340ce527727b1f52632"/>
+		<rom name="Fruit_Machine,_The_(Jpm)_[Dx02_1600_25jp].jel" size="4970243" crc="c46241ed" sha1="e8349cd3509daff67959ed77016ce48bbc036da9"/>
+		<rom name="Fruit_Machine,_The_(Jpm)_[Dx02_1600_25jp].jpm" size="647" crc="b1cf23df" sha1="1b63c0012b21e8773b5548e4ee5295333055d184"/>
+	</machine>
+	<machine name="Fruit Pots (Qps)">
+		<description>Fruit Pots (Qps)</description>
+		<rom name="Fruit_Pots_(Qps)_[C01_v1-0_1024_25jp].jel" size="146325" crc="56d3bd74" sha1="4f83085c642b93e4cbde6e03de0557f12fe3528a"/>
+		<rom name="Fruit_Pots_(Qps)_[C01_v1-0_1024_25jp].jpm" size="390" crc="972bc6ad" sha1="5120b38eb035243d4a2988c3184ea23533f51511"/>
+	</machine>
+	<machine name="G Force (Jpm)">
+		<description>G Force (Jpm)</description>
+		<rom name="G_Force_(Jpm)_[C01_v1-0_1024_15jp].jel" size="1007356" crc="f4e074a8" sha1="087a34b4d17a55ecefb59b74770ca475a0230336"/>
+		<rom name="G_Force_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="538" crc="8f6ae0ce" sha1="ca505a9026fde19074f29b0ca57f7de5dbd85877"/>
+		<rom name="G_Force_(Jpm)_[Dx01_1024_15jp].jel" size="2635598" crc="f707b510" sha1="82dc7045fb85ccd6329d0cce1e31bd7d8c9eba28"/>
+		<rom name="G_Force_(Jpm)_[Dx01_1024_15jp].jpm" size="346" crc="0a4378d6" sha1="55ca4ae31f0d700525fa78b148128c631413ddc8"/>
+		<rom name="G_Force_(Jpm)_[Dx02_v1-0_1024_15jp].jel" size="3282847" crc="33a91094" sha1="86fb24a76d1b161f8959d47612ea40f388a4e588"/>
+		<rom name="G_Force_(Jpm)_[Dx02_v1-0_1024_15jp].jpm" size="352" crc="52830961" sha1="dee04edfbd55a75a07e1cde967cf15be7b516819"/>
+		<rom name="G_Force_(Jpm)_[Dx03_1024_15jp].jel" size="3542586" crc="7c2693dd" sha1="3497707f909f7be46dc39d1aaf67861a3e8bb8de"/>
+		<rom name="G_Force_(Jpm)_[Dx03_1024_15jp].jpm" size="512" crc="d8c0dcbe" sha1="edef61dcb55481322a671aaa11b25dfc46af3d81"/>
+	</machine>
+	<machine name="G.I. Dough (Ace)">
+		<description>G.I. Dough (Ace)</description>
+		<rom name="G_I_Dough_(Ace)_[C01_v1_1280_25jp].jel" size="440012" crc="fcd1d4ce" sha1="7f3acd96a688315a323535069e7730bb9a2e6c03"/>
+		<rom name="G_I_Dough_(Ace)_[C01_v1_1280_25jp].jpm" size="626" crc="6f42ae37" sha1="5afeae5d5e8a6f93bb47d7c2ce961ec75fba770d"/>
+		<rom name="G_I_Dough_(Ace)_[C01_v2_1280_25jp].jel" size="533199" crc="ad614439" sha1="dd3cc1bd9549162e229ec652f7ab2ebbb065420f"/>
+		<rom name="G_I_Dough_(Ace)_[C01_v2_1280_25jp].jpm" size="626" crc="84818f02" sha1="1f609c1c2f1b51db07c03af561e269651c37adc2"/>
+		<rom name="G_I_Dough_(Ace)_[C01_v3_1280_25jp].jel" size="542457" crc="a7f73991" sha1="97faaf29322e6730f552d0defc0298245e874d82"/>
+		<rom name="G_I_Dough_(Ace)_[C01_v3_1280_25jp].jpm" size="626" crc="1363ea8c" sha1="7a79fe270e12a02c44b7bf1559daae6e39b59a0a"/>
+		<rom name="G_I_Dough_(Ace)_[C01_v4_1280_25jp].jel" size="542342" crc="de119811" sha1="d04242b816f305c09dae4a48f37e505e3ce5b21b"/>
+		<rom name="G_I_Dough_(Ace)_[C01_v4_1280_25jp].jpm" size="628" crc="bed24412" sha1="826bb24b55120c188a40b298c60e03cb0fda9fa6"/>
+	</machine>
+	<machine name="Give Us A Break (Jpm)">
+		<description>Give Us A Break (Jpm)</description>
+		<rom name="Give_Us_A_Break_(Jpm)_[C01_v1-0_1024_8jp].jel" size="156373" crc="fed5c806" sha1="9300587ac5252fa578286d65cf44931e0e268bca"/>
+		<rom name="Give_Us_A_Break_(Jpm)_[C01_v1-0_1024_8jp].jpm" size="340" crc="fb82bd54" sha1="2105af48d0c01bb32e1f01b93b42380b9e790b61"/>
+	</machine>
+	<machine name="Give Us A Break (Jpm) [c]">
+		<description>Give Us A Break (Jpm) [c]</description>
+		<rom name="Give_Us_A_Break_(Jpm)_[C01_v1-0_1024_250jp]_[c].jel" size="130015" crc="38493f0a" sha1="f7039110925290afd1aaca5cc2a418492e953077"/>
+		<rom name="Give_Us_A_Break_(Jpm)_[C01_v1-0_1024_250jp]_[c].jpm" size="388" crc="bf6a01a2" sha1="77611fe4fc86bc87ebe93fb99f70c2c5dd52b52a"/>
+		<rom name="Give_Us_A_Break_(Jpm)_[Dx01_1024_250jp]_[c].jel" size="2527725" crc="acf47269" sha1="0672cc9eb62d9e378ba38c51168a54bb01234345"/>
+		<rom name="Give_Us_A_Break_(Jpm)_[Dx01_1024_250jp]_[c].jpm" size="382" crc="4b3bff79" sha1="3bf8b1f82475fc56adbfa5a11f4e3c800feb8571"/>
+		<rom name="Give_Us_A_Break_(Jpm)_[Dx02_1280_250jp]_[c].jel" size="4836435" crc="be647ee7" sha1="79f88993a197fa738dd7f1d513449db115463375"/>
+		<rom name="Give_Us_A_Break_(Jpm)_[Dx02_1280_250jp]_[c].jpm" size="580" crc="936da7fd" sha1="f14d6c9097462af5e9e9b00803e480a4d94ecf81"/>
+	</machine>
+	<machine name="Gladiator Club (Jpm) [c]">
+		<description>Gladiator Club (Jpm) [c]</description>
+		<rom name="Gladiator_Club_(Jpm)_[C01_1024_250jp]_[c].jel" size="130676" crc="58997459" sha1="4ca4665ec8a47a41f32e5b8bb1f10dacab9fe409"/>
+		<rom name="Gladiator_Club_(Jpm)_[C01_1024_250jp]_[c].jpm" size="598" crc="61362722" sha1="4d59d3d1dd3c9235a11850ec5b4d1ccb291f34a3"/>
+		<rom name="Gladiator_Club_(Jpm)_[Dx01_1280_1000jp]_[c].jel" size="3342664" crc="91d72644" sha1="5838ee0eb192ca5ab2771704f4d004318cc8a61b"/>
+		<rom name="Gladiator_Club_(Jpm)_[Dx01_1280_1000jp]_[c].jpm" size="667" crc="1897d5c8" sha1="09d822c2b151c08b9b7c6bdb78ce983a59564c8c"/>
+	</machine>
+	<machine name="Go For Gold (Jpm)">
+		<description>Go For Gold (Jpm)</description>
+		<rom name="Go_For_Gold_(Jpm)_[Dx01_v1-0_1024_15jp].jel" size="3525639" crc="f390acb3" sha1="b269de5741f3061d7ae1d984428e232070655f2a"/>
+		<rom name="Go_For_Gold_(Jpm)_[Dx01_v1-0_1024_15jp].jpm" size="383" crc="5591a348" sha1="0f13fbd6c5f9f454f256721e1762e1e85f71f55f"/>
+		<rom name="Go_For_Gold_(Jpm)_[Dx02_1280_15jp].jel" size="3127507" crc="14e0227e" sha1="ebef1f5d9e92bf5f7eab70b1859fe35ef2ee186e"/>
+		<rom name="Go_For_Gold_(Jpm)_[Dx02_1280_15jp].jpm" size="384" crc="c83db7dc" sha1="e497a91e42fd2aa6f40c517bb812e512c74ec9c8"/>
+	</machine>
+	<machine name="Gold Mine (Empire)">
+		<description>Gold Mine (Empire)</description>
+		<rom name="Gold_Mine_(Empire)_[C01_800_5jp].jel" size="365626" crc="d9ad4547" sha1="69cad88e165ed91591751172899a51e73a9afbed"/>
+		<rom name="Gold_Mine_(Empire)_[C01_800_5jp].jpm" size="688" crc="87ac2f5a" sha1="c2da8fa81d0cdcf48a2ef436916a7717612ccf40"/>
+		<rom name="Gold_Mine_(Empire)_[Dx01_beta_1024_5jp].jel" size="2562903" crc="728ce963" sha1="c21c5cfeefad5968cb25819cca1726fc2bd593e4"/>
+		<rom name="Gold_Mine_(Empire)_[Dx01_beta_1024_5jp].jpm" size="577" crc="fa5a70a9" sha1="81e32984eb6c81465297f8b971e41204c5baade8"/>
+		<rom name="Gold_Mine_(Empire)_[Dx02_1024_5jp].jel" size="2275000" crc="f36ce8bd" sha1="86f1be8ff1ca7e0dcd2a047541aa514983f2b124"/>
+		<rom name="Gold_Mine_(Empire)_[Dx02_1024_5jp].jpm" size="670" crc="df46932c" sha1="b43e3d08927d35eb83755512ab0549c582948f4c"/>
+		<rom name="Gold_Mine_(Empire)_[Dx03_1024_5jp].jel" size="1408082" crc="d2a8e4ee" sha1="da35ba66830abbdc0e850e6c7ff1dfaaefac5dfc"/>
+		<rom name="Gold_Mine_(Empire)_[Dx03_1024_5jp].jpm" size="670" crc="d06b0de6" sha1="bbfa9f917efecf3b8c267b3474549f93ada83534"/>
+		<rom name="Gold_Mine_(Empire)_[Dx04_1280_5jp].jel" size="2893854" crc="77e1291e" sha1="aefe478d05509ddf550f25c2dcf0b89d2986dcca"/>
+		<rom name="Gold_Mine_(Empire)_[Dx04_1280_5jp].jpm" size="693" crc="73b09aeb" sha1="cb0bd2cc59e63208c7d404cc1238d0d0fe461950"/>
+	</machine>
+	<machine name="Golden Demons (Jpm) [Czech]">
+		<description>Golden Demons (Jpm) [Czech]</description>
+		<rom name="Golden_Demons_(Jpm)_[Czech]_[Dx01_1024].jel" size="2799464" crc="92f5061c" sha1="a260c6bc0b40c0c68d2b261bc3164f50613eae3b"/>
+		<rom name="Golden_Demons_(Jpm)_[Czech]_[Dx01_1024].jpm" size="391" crc="38625f7a" sha1="fc2f867e91db94b33a585744e9a0ad4e2e4db7c1"/>
+	</machine>
+	<machine name="Golden Goal (Jpm)">
+		<description>Golden Goal (Jpm)</description>
+		<rom name="Golden_Goal_(Jpm)_[C01_1024_25jp].jel" size="1213271" crc="ddcccc0d" sha1="3a1cb3b4dd3a2ee03c157a729a7f03f3fcca1d7e"/>
+		<rom name="Golden_Goal_(Jpm)_[C01_1024_25jp].jpm" size="353" crc="5b9dd364" sha1="b7796a9200222edb304136aa6fca52dbc8a8fbcf"/>
+		<rom name="Golden_Goal_(Jpm)_[C02_1024_25jp].jel" size="1248848" crc="9e68cf97" sha1="084360f66f1f11fde06ba2d43f7e2c87a9e59939"/>
+		<rom name="Golden_Goal_(Jpm)_[C02_1024_25jp].jpm" size="582" crc="ea573dea" sha1="1b2d00a1d7d173f374a4418a8445b63fbf295765"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx01_1280_25jp].jel" size="3775186" crc="bd2c6d68" sha1="925ed56c5af775f60a0dbb6a3af9abcd20abcea2"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx01_1280_25jp].jpm" size="658" crc="fdc30887" sha1="c003386d09676bf77860f2be61be56ca454db94d"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx01_v1-0_1280_25jp].jel" size="3775780" crc="54af6af7" sha1="c7d329b50dda9633153f2a72110eefb772ddc8ee"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx01_v1-0_1280_25jp].jpm" size="663" crc="9413123c" sha1="74d1471c2edd0cce35a22b23508ae8272e5b7fb5"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx02_1280_25jp].jel" size="3862565" crc="686cc5b6" sha1="4a17f882954dd74e86ff93551ee1b0ff59d0857a"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx02_1280_25jp].jpm" size="660" crc="cbe1d72c" sha1="a928d5157fa68483584e79427cdc9f00d7f763e0"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx03_1280_25jp].jel" size="2723412" crc="11f3a706" sha1="c93081e8d92afe167ca05b0a1f3625eb5d2684bb"/>
+		<rom name="Golden_Goal_(Jpm)_[Dx03_1280_25jp].jpm" size="394" crc="669a3de2" sha1="f3225247ba62ed844e6d65b58bd4cb02ad23471c"/>
+	</machine>
+	<machine name="Hi Flyer (Ace)">
+		<description>Hi Flyer (Ace)</description>
+		<rom name="Hi_Flyer_(Ace)_[C01_800_15jp].jel" size="165967" crc="1feaca4e" sha1="820763bde572a29def90b0e388be30be4a35ad7e"/>
+		<rom name="Hi_Flyer_(Ace)_[C01_800_15jp].jpm" size="647" crc="c12ed1b7" sha1="0d1690acabd2745220d3bff119a2c02665f57b74"/>
+	</machine>
+	<machine name="Hi Flyer (Crystal)">
+		<description>Hi Flyer (Crystal)</description>
+		<rom name="Hi_Flyer_(Crystal)_[Dx01_1280_15jp].jel" size="3469176" crc="23445855" sha1="900ef02efe185368b89001bb40facca93d96cf74"/>
+		<rom name="Hi_Flyer_(Crystal)_[Dx01_1280_15jp].jpm" size="735" crc="4d18cb9d" sha1="6a448150a386e3248af8c58663e049a0f9d55626"/>
+	</machine>
+	<machine name="Hi Impact (Jpm)">
+		<description>Hi Impact (Jpm)</description>
+		<rom name="Hi_Impact_(Jpm)_[C01_v1-00_1024_15jp].jel" size="652408" crc="788aa51e" sha1="093efd531d43f3f3de57d27e30dc594d67ee619b"/>
+		<rom name="Hi_Impact_(Jpm)_[C01_v1-00_1024_15jp].jpm" size="544" crc="e81745ef" sha1="60945bd3b3b3085fdc64f1e021b5c31d4edb0393"/>
+		<rom name="Hi_Impact_(Jpm)_[C02_v1-01_1024_15jp].jel" size="652700" crc="a6b3bd88" sha1="4835010daef9dac66f9b3640cb051ed427a4369f"/>
+		<rom name="Hi_Impact_(Jpm)_[C02_v1-01_1024_15jp].jpm" size="352" crc="e42f3991" sha1="696495e80c0c2c37e7b9453fafe79a8dd0b4dc30"/>
+		<rom name="Hi_Impact_(Jpm)_[C03_1024_15jp].jel" size="917670" crc="ff1db001" sha1="8215c27a59e0e60cff7977b46442a2202a7bfecf"/>
+		<rom name="Hi_Impact_(Jpm)_[C03_1024_15jp].jpm" size="383" crc="a891583f" sha1="ce0be2414a8e70cf5cfc8291009eab33334a2998"/>
+		<rom name="Hi_Impact_(Jpm)_[C04_v1-0_1024_15jp].jel" size="111695" crc="82ccf683" sha1="4080f490575da106b51b85b6518a2d3ecf84fc04"/>
+		<rom name="Hi_Impact_(Jpm)_[C04_v1-0_1024_15jp].jpm" size="384" crc="fc1f2bf0" sha1="ad5a88177535a860d8c95557c0502343d31ebcdf"/>
+		<rom name="Hi_Impact_(Jpm)_[C04_v1-1_1024_15jp].jel" size="185886" crc="43adb69a" sha1="826fba7aa0db702f3015d49ce0e2c57d2a6b1733"/>
+		<rom name="Hi_Impact_(Jpm)_[C04_v1-1_1024_15jp].jpm" size="384" crc="cfd7e3a7" sha1="df274ef146285abece8fe53aef34e57c0b86223c"/>
+		<rom name="Hi_Impact_(Jpm)_[Dx01_v1-0_1024_15jp].jel" size="3119746" crc="dd6815c7" sha1="984f449795cbf51d81ffc14c9480f81e2692e0e8"/>
+		<rom name="Hi_Impact_(Jpm)_[Dx01_v1-0_1024_15jp].jpm" size="385" crc="41ee0149" sha1="6b292c6b6f30b2a9606f69f1d8e18e1093db8887"/>
+		<rom name="Hi_Impact_(Jpm)_[Dx02_1024_15jp].jel" size="3323490" crc="4aa74178" sha1="08bba896546e597f382c1e1547b0d90bb33c1698"/>
+		<rom name="Hi_Impact_(Jpm)_[Dx02_1024_15jp].jpm" size="551" crc="716965dc" sha1="461459fa99ea5b88afd37091527c6fe9bf7fb724"/>
+	</machine>
+	<machine name="Hi Karate (Crystal)">
+		<description>Hi Karate (Crystal)</description>
+		<rom name="Hi_Karate_(Crystal)_[Dx01_1280_5jp].jel" size="4730662" crc="a5ad1f98" sha1="9a4352491acd68a1d08a6684c75051de68525a5b"/>
+		<rom name="Hi_Karate_(Crystal)_[Dx01_1280_5jp].jpm" size="536" crc="bd931d16" sha1="da71301e0a8ab66a77e84abb058151873a06f76a"/>
+	</machine>
+	<machine name="Hi Lo Silver (Crystal)">
+		<description>Hi Lo Silver (Crystal)</description>
+		<rom name="Hi_Lo_Silver_(Crystal)_[C01_800_15jp].jel" size="213858" crc="20bf4677" sha1="df75b43493d91637bb89a997dd0372a8b1621406"/>
+		<rom name="Hi_Lo_Silver_(Crystal)_[C01_800_15jp].jpm" size="535" crc="62eeacd5" sha1="2725efd4843bd810b1a48f3389718af6b99b0850"/>
+		<rom name="Hi_Lo_Silver_(Crystal)_[C02_800_15jp].jel" size="270514" crc="e8050a9a" sha1="5cf4976d1cfb14894548f4539bc784ab6fd74644"/>
+		<rom name="Hi_Lo_Silver_(Crystal)_[C02_800_15jp].jpm" size="578" crc="cbe9ce48" sha1="172f7ab76670288c3c8f0109eb0eb21a222d365b"/>
+		<rom name="Hi_Lo_Silver_(Crystal)_[Dx01_1024_5jp].jel" size="2052208" crc="0b2899e8" sha1="d43603cb68a80eb175d2cf063233601750deab72"/>
+		<rom name="Hi_Lo_Silver_(Crystal)_[Dx01_1024_5jp].jpm" size="585" crc="aa117b9d" sha1="e12b2b7cd8565a7368482aa4e91152bed4c0122f"/>
+		<rom name="Hi_Lo_Silver_(Crystal)_[Dx02_1280_5jp].jel" size="3749784" crc="32793bbb" sha1="865ac8283048d96918c4df8ad828e8a7852ca67f"/>
+		<rom name="Hi_Lo_Silver_(Crystal)_[Dx02_1280_5jp].jpm" size="540" crc="6d229354" sha1="9122335a17cdc8a0aeb9848907fa3aae19cecf77"/>
+	</machine>
+	<machine name="Hi Roller (Jpm)">
+		<description>Hi Roller (Jpm)</description>
+		<rom name="Hi_Roller_(Jpm)_[C01_v1-0_1024_15jp].jel" size="101315" crc="650a1b7a" sha1="75e4e13cdc84d7f57a3756b67cc8a3a9156b5187"/>
+		<rom name="Hi_Roller_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="344" crc="0f4be9ad" sha1="a6b55dd3cd0e2c54ce9e8f1e6dea2fd87b1ad5c6"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx01_v1-0_1024_15jp].jel" size="3132514" crc="de8393b8" sha1="1a590b89599e8dd4cd4377579a49503bfda1336c"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx01_v1-0_1024_15jp].jpm" size="346" crc="919c87f7" sha1="62b08cf539de05b2a270ddb428b4ae5bfbb172d1"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx02_1024_15jp].jel" size="1306561" crc="0f1a40d7" sha1="58a1d52ab5938af7b740a1df1955bbe763feec0b"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx02_1024_15jp].jpm" size="347" crc="3b63558a" sha1="df5aa4c6e0358717a50779a61c9f1fb96322d141"/>
+	</machine>
+	<machine name="Hi Roller (Jpm) [c]">
+		<description>Hi Roller (Jpm) [c]</description>
+		<rom name="Hi_Roller_(Jpm)_[C01_v1-0_1024_1000jp]_[c].jel" size="101994" crc="b29023f4" sha1="999d3b5f778ffe27f308769122cf0ecb191208d4"/>
+		<rom name="Hi_Roller_(Jpm)_[C01_v1-0_1024_1000jp]_[c].jpm" size="388" crc="652f859b" sha1="b83df939c3795f3dc6344e26b95bccc13276d1ac"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx01_1024_250jp]_[c].jel" size="1494376" crc="c9e8d284" sha1="6053fb556efe7a52d9d28d41e00437bc06c65718"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx01_1024_250jp]_[c].jpm" size="634" crc="ecbf1f8b" sha1="c65c3db65b1f8a77cedb57327122523afb03bb42"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx02_1280_250jp]_[c].jel" size="4270229" crc="bb1f3e88" sha1="724ae8d96aebfd3cc95bcba7e1624d3ccffc0424"/>
+		<rom name="Hi_Roller_(Jpm)_[Dx02_1280_250jp]_[c].jpm" size="698" crc="eef6e615" sha1="937cb5b4202ca77b986f7561c774358912ba41a9"/>
+	</machine>
+	<machine name="Hi Stakes (Qps)">
+		<description>Hi Stakes (Qps)</description>
+		<rom name="Hi_Stakes_(Qps)_[C01_v1-0_1024_15jp].jel" size="127186" crc="6ab7db2a" sha1="64318ca55d75b2e644034cfc816a0c64097a8fa1"/>
+		<rom name="Hi_Stakes_(Qps)_[C01_v1-0_1024_15jp].jpm" size="386" crc="cfad4657" sha1="f43d690da9d7c08ed50861b096e4e2906b5a9004"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx01_1024_15jp].jel" size="1551316" crc="cf2290db" sha1="268daa8b7fd4ad7c7d58ba5309032edfbc96b1fc"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx01_1024_15jp].jpm" size="387" crc="1d63fb2b" sha1="a2d7a14d63716c9badcfd7bc000d72327472c405"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx02_1280_15jp].jel" size="3279284" crc="037c6125" sha1="190f9f79911901dd1c148df0ad51eee5d5cceb3c"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx02_1280_15jp].jpm" size="580" crc="7e4ba32c" sha1="474cee60fbf237c094062f68453e45d012aec482"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx03_1280_15jp].jel" size="3433568" crc="8bdeac1a" sha1="5443f5aed5818f6e89a7cdedfd86801ddb9ca8d9"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx03_1280_15jp].jpm" size="579" crc="83b06484" sha1="2a0681955c4d1280fd3c283d68fc732a5775381e"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx04_1024_15jp].jel" size="1490216" crc="f6c3e485" sha1="6533ca3696a031ab594c61e0377ed70b57bd2b8a"/>
+		<rom name="Hi_Stakes_(Qps)_[Dx04_1024_15jp].jpm" size="631" crc="ca32d641" sha1="c4bacbe82738924c292eab8f4649d184850004da"/>
+	</machine>
+	<machine name="Hot Shot (Ace)">
+		<description>Hot Shot (Ace)</description>
+		<rom name="Hot_Shot_(Ace)_[Dx01_1024_15jp].jel" size="4038741" crc="79bd6231" sha1="b51a4c683453db3d154b993458d6633545b7c076"/>
+		<rom name="Hot_Shot_(Ace)_[Dx01_1024_15jp].jpm" size="340" crc="179d4299" sha1="78090aacfbafbadd7cd27a4fe06271916d508f9f"/>
+		<rom name="Hot_Shot_(Ace)_[Dx02_1024_15jp].jel" size="3433215" crc="7ff0a9e1" sha1="5a69ea1613549a3d149aa13ba439a6253393a27c"/>
+		<rom name="Hot_Shot_(Ace)_[Dx02_1024_15jp].jpm" size="536" crc="0f68e65a" sha1="54e37851c996673c8fe21d97519948f062d907fa"/>
+		<rom name="Hot_Shot_(Ace)_[Dx03_1024_15jp].jel" size="2961665" crc="abfcc475" sha1="fa8d2e7f58ed0f7cfcecd6a63125de0fcfd8dfc4"/>
+		<rom name="Hot_Shot_(Ace)_[Dx03_1024_15jp].jpm" size="537" crc="fbb9bc5f" sha1="52ce7d8920f07577e559a3cec0c00f8b383fb993"/>
+	</machine>
+	<machine name="Impulse (Jpm)">
+		<description>Impulse (Jpm)</description>
+		<rom name="Impulse_(Jpm)_[C01_v1-0_1024_15jp].jel" size="144758" crc="b0b6ab11" sha1="decf97ba162362c5f25ccb3a2e8ff315b71b9040"/>
+		<rom name="Impulse_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="344" crc="3da08d10" sha1="72da9b77ed9cb7c606bae1cb70deb8e5df2a5522"/>
+		<rom name="Impulse_(Jpm)_[Dx01_1024_15jp].jel" size="3282822" crc="6b638e92" sha1="47e97925039c1f70660ef0000d6007efe9996202"/>
+		<rom name="Impulse_(Jpm)_[Dx01_1024_15jp].jpm" size="317" crc="ec366023" sha1="ce59622d99cbc43ab3d999bc9659ee1890586c33"/>
+		<rom name="Impulse_(Jpm)_[Dx02_1280_15jp].jel" size="3184070" crc="ed7cc3ea" sha1="b682e97090ed50a54fe8cffc329b185d5e99ccc9"/>
+		<rom name="Impulse_(Jpm)_[Dx02_1280_15jp].jpm" size="386" crc="9fa216b8" sha1="b6107257ddf2adac0fc2d496abd0f14fda0e1c96"/>
+		<rom name="Impulse_(Jpm)_[Dx03_1024_15jp].jel" size="2273937" crc="c53898b2" sha1="55e2523f84134f53d56249de2dce2732816f15ae"/>
+		<rom name="Impulse_(Jpm)_[Dx03_1024_15jp].jpm" size="470" crc="8d53775f" sha1="c43576d9348738c21a6465fab67aaa5e87e4172d"/>
+	</machine>
+	<machine name="Indiana Jones (Jpm)">
+		<description>Indiana Jones (Jpm)</description>
+		<rom name="Indiana_Jones_(Jpm)_[C01_1024_8jp].jel" size="1637681" crc="41fe6f48" sha1="a74a32ccadb8f99bcbda205499a9439bc39bd2be"/>
+		<rom name="Indiana_Jones_(Jpm)_[C01_1024_8jp].jpm" size="332" crc="02954b2e" sha1="25e6eaab750a8a9084a2c357bf849a8c92c22072"/>
+		<rom name="Indiana_Jones_(Jpm)_[C02_v1-03_1024_8jp].jel" size="255632" crc="70b0c395" sha1="cb94aa25fd5ae49b302254e6cd196ca8a94fa3d6"/>
+		<rom name="Indiana_Jones_(Jpm)_[C02_v1-03_1024_8jp].jpm" size="260" crc="41bbf22b" sha1="26a4a6cfa3cdd98f5256ace7173e55d8f43ac23b"/>
+		<rom name="Indiana_Jones_(Jpm)_[C03_800_8jp].jel" size="262024" crc="8d2d9043" sha1="5eabcef699e3b43a3e035737447c7b9762042af6"/>
+		<rom name="Indiana_Jones_(Jpm)_[C03_800_8jp].jpm" size="523" crc="71ab8da2" sha1="f573cbc45b958241d22d78b0ac913caeeb26d05f"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx01_1024_8jp].jel" size="2346263" crc="49a369b0" sha1="3926c14ae0e54e7155a845af3a6259b96a7fbdaa"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx01_1024_8jp].jpm" size="334" crc="5950e2d3" sha1="ec5e48753ff5403f2c242f170b8090798c229f12"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx02_v1-0_1280_6jp].jel" size="3066111" crc="f34b099d" sha1="43ab3c21e4702f7f3cd5f2d68d923bd03e28383e"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx02_v1-0_1280_6jp].jpm" size="588" crc="97d12f6f" sha1="7a62688372b8f884d8fed144f4fb6a68a0a43a5b"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx02_v1-1_1280_6jp].jel" size="3083151" crc="99f6e86d" sha1="4980e8ccb0b253d2d378927190518e725fc28b2e"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx02_v1-1_1280_6jp].jpm" size="587" crc="80f142b4" sha1="9a8388609fc42253e1a41ef64f07245977a039a2"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx03_1600_6jp].jel" size="2310759" crc="a9421a5e" sha1="84cafd2cad1df4f9e44df31fda300491dda0c40c"/>
+		<rom name="Indiana_Jones_(Jpm)_[Dx03_1600_6jp].jpm" size="517" crc="0ff51dea" sha1="7e24ec364c18e2b20308918476c90b60af059a6e"/>
+	</machine>
+	<machine name="It's Showtime (Jpm)">
+		<description>It's Showtime (Jpm)</description>
+		<rom name="It's_Showtime_(Jpm)_[C01_v1-0_1024_15jp].jel" size="220904" crc="4a134d94" sha1="d5e71c425b3250a8031d4a9d750590289296fe1a"/>
+		<rom name="It's_Showtime_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="399" crc="a4d14c6d" sha1="f6811d2b03db31ab00621dd73ff887d2b50f5967"/>
+	</machine>
+	<machine name="Jackpot Justice (Qps)">
+		<description>Jackpot Justice (Qps)</description>
+		<rom name="Jackpot_Justice_(Qps)_[C01_1024_25jp].jel" size="252262" crc="d3e5e2b3" sha1="bfc7d84115c3c226dfe1efdd518cf2f62ce2a53a"/>
+		<rom name="Jackpot_Justice_(Qps)_[C01_1024_25jp].jpm" size="381" crc="8d9c88cf" sha1="ee31f5bcedf43789b987c629cc7308397a5136fc"/>
+		<rom name="Jackpot_Justice_(Qps)_[C02_1024_25jp].jel" size="252388" crc="c1da9605" sha1="d38e1c85ad0fffef79ceffe07386fd4c900d9dc8"/>
+		<rom name="Jackpot_Justice_(Qps)_[C02_1024_25jp].jpm" size="382" crc="7a8e5785" sha1="3fb8115b27b5df2adaa171d6219cbc13e51b594a"/>
+		<rom name="Jackpot_Justice_(Qps)_[C03_1280_25jp].jel" size="252241" crc="ea33e56e" sha1="f59c30d80485c9c0fb0f309599bea1fcdfbc047e"/>
+		<rom name="Jackpot_Justice_(Qps)_[C03_1280_25jp].jpm" size="382" crc="f4ca4424" sha1="3185c81ad85de52168fd930ba815c4b83f54a450"/>
+	</machine>
+	<machine name="Jokers Wild (Jpm) [Dutch]">
+		<description>Jokers Wild (Jpm) [Dutch]</description>
+		<rom name="Jokers_Wild_(Jpm)_[Dutch]_[Dx01_1280].jel" size="3253837" crc="e05baef5" sha1="239707c66e3731456b99d78e0a9e19bc2857db55"/>
+		<rom name="Jokers_Wild_(Jpm)_[Dutch]_[Dx01_1280].jpm" size="699" crc="4400d03a" sha1="91b5c104ad308dbfb3f6849ab16012415fe331d1"/>
+	</machine>
+	<machine name="Kameleon (Jpm) [Dutch]">
+		<description>Kameleon (Jpm) [Dutch]</description>
+		<rom name="Kameleon_(Jpm)_[Dutch]_[Dx01_1024].jel" size="796525" crc="a91dcb74" sha1="7060c573f3676685a3f99e590df8ca30e617f4e0"/>
+		<rom name="Kameleon_(Jpm)_[Dutch]_[Dx01_1024].jpm" size="353" crc="3005382d" sha1="b7c39e3f2c90f91bac0a0c4b129846ac03a6f389"/>
+	</machine>
+	<machine name="Kapang (Crystal)">
+		<description>Kapang (Crystal)</description>
+		<rom name="Kapang_(Crystal)_[C01_800_25jp].jel" size="1062257" crc="afd95ac0" sha1="e101e25a342d73f4fdf7197fc4a1f9674969ccc9"/>
+		<rom name="Kapang_(Crystal)_[C01_800_25jp].jpm" size="521" crc="b4548114" sha1="cbb88b9e757d89a28d047c059bc0065301d72cb1"/>
+		<rom name="Kapang_(Crystal)_[Dx01_1280_25jp].jel" size="2545155" crc="08dfa670" sha1="b9b1f22abb9655183cd42a73fde0cea2b9daeb0d"/>
+		<rom name="Kapang_(Crystal)_[Dx01_1280_25jp].jpm" size="682" crc="da55abc0" sha1="3470cda4ef28db2f2712543f68ee61f33de315c8"/>
+	</machine>
+	<machine name="Kung Fu (Ace)">
+		<description>Kung Fu (Ace)</description>
+		<rom name="Kung_Fu_(Ace)_[C01_1024_10jp].jel" size="170803" crc="50e83aee" sha1="e34d9e2976e2a24a6427a5cf9c375b9fa715c462"/>
+		<rom name="Kung_Fu_(Ace)_[C01_1024_10jp].jpm" size="338" crc="d68b6fa4" sha1="acf6f5dc87c4265e36463ca58e31dbb5e55d7975"/>
+		<rom name="Kung_Fu_(Ace)_[C02_1024_10jp].jel" size="170678" crc="a387e57f" sha1="64771ea3054bee65f3fdae4d01e2938b84d4c478"/>
+		<rom name="Kung_Fu_(Ace)_[C02_1024_10jp].jpm" size="338" crc="99c8e0db" sha1="8bc9ea15f28d2e20cde1df362b51f8caae688808"/>
+		<rom name="Kung_Fu_(Ace)_[Dx01_1024_10jp].jel" size="1717886" crc="bc0fb680" sha1="01fa08c88bfc5db221987cdc33e322533760cb79"/>
+		<rom name="Kung_Fu_(Ace)_[Dx01_1024_10jp].jpm" size="339" crc="be6c9cef" sha1="8f3629eb11cd7307982c2d717cc19af62a831a91"/>
+		<rom name="Kung_Fu_(Ace)_[Dx02_1024_10jp].jel" size="1729145" crc="d2df906e" sha1="6b0f8e70962331290bfb3eb63e49d31a6598e13c"/>
+		<rom name="Kung_Fu_(Ace)_[Dx02_1024_10jp].jpm" size="526" crc="3de16d56" sha1="5166e05380732be0f817b7062788dff5621bfa63"/>
+		<rom name="Kung_Fu_(Ace)_[Dx03_1280_10jp].jel" size="2495645" crc="38b8b96b" sha1="8267fe27c32402f153c397ff34af9b41b4445918"/>
+		<rom name="Kung_Fu_(Ace)_[Dx03_1280_10jp].jpm" size="697" crc="d1804886" sha1="965831c3ac76f156114db686cfdb359f958a2410"/>
+	</machine>
+	<machine name="Kung Fu Club (Crystal) [c]">
+		<description>Kung Fu Club (Crystal) [c]</description>
+		<rom name="Kung_Fu_Club_(Crystal)_[Dx01_1280_250jp]_[c].jel" size="4427386" crc="d97bec2b" sha1="1d5048467620b6f750f1a2b77be337db250230b3"/>
+		<rom name="Kung_Fu_Club_(Crystal)_[Dx01_1280_250jp]_[c].jpm" size="362" crc="be18e14d" sha1="44aad71d4d3f5a307bc14bca95171fdc72e2ec38"/>
+		<rom name="Kung_Fu_Club_(Crystal)_[Dx02_1152_250jp]_[c].jel" size="3108244" crc="da5caf17" sha1="74155a116b4faf86e7a790e17680ee820811b380"/>
+		<rom name="Kung_Fu_Club_(Crystal)_[Dx02_1152_250jp]_[c].jpm" size="528" crc="169ce59d" sha1="0d18edb90f224f26be0ad946f33c2d547369d167"/>
+		<rom name="Kung_Fu_Club_(Crystal)_[Dx03_1280_250jp]_[c].jel" size="3898968" crc="c7bd3f8e" sha1="8998a4b98d119c71f5e1700476e75e59ad05407a"/>
+		<rom name="Kung_Fu_Club_(Crystal)_[Dx03_1280_250jp]_[c].jpm" size="749" crc="7433ef2b" sha1="c10bde2da3296665e76b8f82c365d6d6400cbeec"/>
+	</machine>
+	<machine name="Maverick (Jpm)">
+		<description>Maverick (Jpm)</description>
+		<rom name="Maverick_(Jpm)_[C01_1024_15jp].jel" size="711724" crc="b466d569" sha1="cca86f6baa1c8d8254c529121589581c5fbc51b5"/>
+		<rom name="Maverick_(Jpm)_[C01_1024_15jp].jpm" size="328" crc="38a18f60" sha1="cbc9eb3c514e26bdfc323aca860fb28a779690d1"/>
+		<rom name="Maverick_(Jpm)_[Dx01_1280_15jp].jel" size="3321425" crc="3baf79f4" sha1="7142ddc1a2ac301fea9c0ddd7c08e44e87a15962"/>
+		<rom name="Maverick_(Jpm)_[Dx01_1280_15jp].jpm" size="441" crc="459f383a" sha1="3b2f509ac56b2227ee3f89092d73dfff5d3455bf"/>
+	</machine>
+	<machine name="Maximum Overdrive (Jpm)">
+		<description>Maximum Overdrive (Jpm)</description>
+		<rom name="Maximum_Overdrive_(Jpm)_[C01_v1-0_800_15jp].jel" size="200667" crc="d769a73f" sha1="bd12b84739bac3ae176a5e14db124d8eda47d9d8"/>
+		<rom name="Maximum_Overdrive_(Jpm)_[C01_v1-0_800_15jp].jpm" size="544" crc="5c7c11f2" sha1="a110e138942c304085b56688314f37e2327a7839"/>
+		<rom name="Maximum_Overdrive_(Jpm)_[Dx01_v1-0_1280_15jp].jel" size="3304801" crc="4f489681" sha1="2bcd95b02d36f6ba47f0e1b5c01d6f6b6629fa82"/>
+		<rom name="Maximum_Overdrive_(Jpm)_[Dx01_v1-0_1280_15jp].jpm" size="547" crc="8949c21d" sha1="ed603fb4d09bfa56d7974b00dbd050f91ded87d6"/>
+		<rom name="Maximum_Overdrive_(Jpm)_[Dx02_1280_15jp].jel" size="3655997" crc="8d2244d0" sha1="257a81fcc820de727e3de7bb9f0987ea8da52e95"/>
+		<rom name="Maximum_Overdrive_(Jpm)_[Dx02_1280_15jp].jpm" size="550" crc="e0345dd1" sha1="969c14473f663b8ba8d19491376ae9879059f692"/>
+		<rom name="Maximum_Overdrive_(Jpm)_[Dx03_1024_15jp].jel" size="1519173" crc="df77cc97" sha1="9d73b4be821c6add1d14a24146f487bbee0cfaeb"/>
+		<rom name="Maximum_Overdrive_(Jpm)_[Dx03_1024_15jp].jpm" size="648" crc="5c75949b" sha1="3ef61671dd0f2a948bf1734d342e8e63d969da20"/>
+	</machine>
+	<machine name="Medallion Job (Qps)">
+		<description>Medallion Job (Qps)</description>
+		<rom name="Medallion_Job_(Qps)_[Dx01_1280_5jp].jel" size="2300328" crc="45d5a900" sha1="0f92826026ffa6a52a9d141b793dcf9f2b47a168"/>
+		<rom name="Medallion_Job_(Qps)_[Dx01_1280_5jp].jpm" size="589" crc="8d44cb22" sha1="b3d8474bd08a6a9b10a861138fd6e1e146eef8bf"/>
+	</machine>
+	<machine name="Mega Bucks (Jpm)">
+		<description>Mega Bucks (Jpm)</description>
+		<rom name="Mega_Bucks_(Jpm)_[C01_v1-0_1024_15jp].jel" size="152827" crc="c291051c" sha1="7ff5673058d47c4a1fae469b499cd1d11baf7c7d"/>
+		<rom name="Mega_Bucks_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="347" crc="7d56a3d5" sha1="0c06fc9a928e535cec3bc89def28a88e88439bd8"/>
+		<rom name="Mega_Bucks_(Jpm)_[Dx01_v1-0_1024_15jp].jel" size="2281078" crc="1001ded7" sha1="305749bb07097849ab5038d8b9dbb607c5f3468e"/>
+		<rom name="Mega_Bucks_(Jpm)_[Dx01_v1-0_1024_15jp].jpm" size="355" crc="9c7ba9ca" sha1="bef62c3b05faf42c9acb51a066dc93dbd2872e5e"/>
+		<rom name="Mega_Bucks_(Jpm)_[Dx02_1024_15jp].jel" size="2831438" crc="f76dcbeb" sha1="4b1f812baeeee8f31f66a62bd2c051a40398e3b0"/>
+		<rom name="Mega_Bucks_(Jpm)_[Dx02_1024_15jp].jpm" size="579" crc="f286bc9a" sha1="f0e145219e95497a2e8234b49eeb5f26f94c851a"/>
+	</machine>
+	<machine name="Money Talks (Jpm)">
+		<description>Money Talks (Jpm)</description>
+		<rom name="Money_Talks_(Jpm)_[C01_v1-0_1024_6jp].jel" size="172056" crc="dac0a5b8" sha1="0648c3bb7ecd773c2ba036a0c09abf5c2c3bfdfb"/>
+		<rom name="Money_Talks_(Jpm)_[C01_v1-0_1024_6jp].jpm" size="376" crc="a05670f6" sha1="2f4db9236580739fb195f600616a5d9d75419b20"/>
+		<rom name="Money_Talks_(Jpm)_[Dx01_1024_6jp].jel" size="1306698" crc="526bac32" sha1="2ec9eab756126b7cf07cd8c25e10945c95a9baa1"/>
+		<rom name="Money_Talks_(Jpm)_[Dx01_1024_6jp].jpm" size="333" crc="033d640d" sha1="4fd19e825a7818fc4c017e43a51180851d531245"/>
+	</machine>
+	<machine name="Monopoly 60th Anniversary Edition (Jpm)">
+		<description>Monopoly 60th Anniversary Edition (Jpm)</description>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[C01_1024_8jp].jel" size="4990771" crc="1634d864" sha1="821eda3e193c532c676d70b1849fb5fa3e9a9755"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[C01_1024_8jp].jpm" size="353" crc="3a6e0e95" sha1="ec9d6fd460c39cb97277526dfc7fdafb6d6f2cc3"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[C02_v1-04_1024_8jp].jel" size="635777" crc="e2b6e4d3" sha1="a4b17094390e5b74f7c1d1b5cc8ffa3d22ac70b1"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[C02_v1-04_1024_8jp].jpm" size="359" crc="a3915124" sha1="2914962aff157bfc7eb3495bf15c6e7c9af5debb"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[C03_1024_8jp].jel" size="661671" crc="06ff418f" sha1="77ad14b757054cb2e319fc8f4f7c5df6b7075025"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[C03_1024_8jp].jpm" size="505" crc="0bbc6eff" sha1="ccf840b1993f7b1090ac942d7b81ca0066adaddd"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[Dx01_1024_10jp].jel" size="4837787" crc="f01da7f9" sha1="790b0b9d650b123ac62d28c4f1000405eaae7949"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[Dx01_1024_10jp].jpm" size="356" crc="9a998e78" sha1="b330ca83b0ab39a8cacc73a14b5b57a478574357"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[Dx02_1024_8jp].jel" size="1544488" crc="b375a6c2" sha1="db8cc67bf4f374cdf1ce9de4a58772d548a1210e"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[Dx02_1024_8jp].jpm" size="361" crc="2c23cc5d" sha1="0f52fa316d85a18ece706c425220f0a907247890"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[Dx03_1024_8jp].jel" size="1492704" crc="0055acca" sha1="ba5b700d95775961e31f62c438427ba408f67830"/>
+		<rom name="Monopoly_60th_Anniversary_Edition_(Jpm)_[Dx03_1024_8jp].jpm" size="361" crc="c3818d7c" sha1="08023eb7f90d44fadc553d721ba43279881e9a43"/>
+	</machine>
+	<machine name="Outlaw (Jpm) [c]">
+		<description>Outlaw (Jpm) [c]</description>
+		<rom name="Outlaw_(Jpm)_[C01_v1-0_1024_250jp]_[c].jel" size="129870" crc="2c66f67f" sha1="95546f27d6c220d8ab94e41d274b2b5e93f73933"/>
+		<rom name="Outlaw_(Jpm)_[C01_v1-0_1024_250jp]_[c].jpm" size="428" crc="88db9b9c" sha1="fa2ccda9102374237a1df6314b53e5374dbaf27e"/>
+		<rom name="Outlaw_(Jpm)_[Dx01_1280_250jp]_[c].jel" size="2268121" crc="6fe7d441" sha1="9126db6ede8187d5fe60d8c3f6c0e205c88359ef"/>
+		<rom name="Outlaw_(Jpm)_[Dx01_1280_250jp]_[c].jpm" size="665" crc="46aaed12" sha1="4c61ddc53c24fec83c63f0c3c9be427ec515f259"/>
+		<rom name="Outlaw_(Jpm)_[Pdx01_1024_250jp]_[c].jel" size="1341602" crc="c9ad67fe" sha1="0f0ae570975df9ce39c2cf9e7068cf007c39b118"/>
+		<rom name="Outlaw_(Jpm)_[Pdx01_1024_250jp]_[c].jpm" size="746" crc="f39e205f" sha1="4fd058b752bc75af2f271878b709c152ccf5a17a"/>
+	</machine>
+	<machine name="Oxo Bingo (Jpm)">
+		<description>Oxo Bingo (Jpm)</description>
+		<rom name="Oxo_Bingo_(Jpm)_[C01_1024_8jp].jel" size="17354" crc="81646210" sha1="b9fe97c36a26985b97c4599338c7c7c46b0a4c1d"/>
+		<rom name="Oxo_Bingo_(Jpm)_[C01_1024_8jp].jpm" size="380" crc="e8b2cc8e" sha1="c25145ce76d4769f36353fdc8ea83abc5a825571"/>
+	</machine>
+	<machine name="Pac Man Plus (Qps)">
+		<description>Pac Man Plus (Qps)</description>
+		<rom name="Pac_Man_Plus_(Qps)_[C01_1024_15jp].jel" size="478650" crc="fbda8e8a" sha1="81db1cd12bc26c08302fca3f81c71ccf889db2f6"/>
+		<rom name="Pac_Man_Plus_(Qps)_[C01_1024_15jp].jpm" size="376" crc="f66677d3" sha1="3f519c3efbe2c597e5ae8158d8f16e1d8871fda4"/>
+		<rom name="Pac_Man_Plus_(Qps)_[Dx01_1024_15jp].jel" size="1932859" crc="042b2fcd" sha1="c0af54e787ec173bc97487489a6e89378bc96323"/>
+		<rom name="Pac_Man_Plus_(Qps)_[Dx01_1024_15jp].jpm" size="339" crc="6f508caf" sha1="823accd062d2040ba67361856fc23ac7513d1cb8"/>
+		<rom name="Pac_Man_Plus_(Qps)_[Dx02_1280_15jp].jel" size="2217359" crc="15f1008d" sha1="5ba05ae6749042386edaeef6a4276c0eb90abf2f"/>
+		<rom name="Pac_Man_Plus_(Qps)_[Dx02_1280_15jp].jpm" size="558" crc="55d4f899" sha1="8d42aa6017d4071548fc26812d99e9f63f31cfb5"/>
+	</machine>
+	<machine name="Paparazzi (Empire)">
+		<description>Paparazzi (Empire)</description>
+		<rom name="Paparazzi_(Empire)_[C01_800_5jp].jel" size="432024" crc="2f327058" sha1="8963a768611a6285709b3b4bf7a88a55cb1dd087"/>
+		<rom name="Paparazzi_(Empire)_[C01_800_5jp].jpm" size="375" crc="72298b52" sha1="442a57e79443964771f40e79141ceca58ad8fa09"/>
+		<rom name="Paparazzi_(Empire)_[C02_800_25jp].jel" size="431779" crc="c0e9ca34" sha1="4ec483c1417ddf251e0540846d8e3c2c9e78341e"/>
+		<rom name="Paparazzi_(Empire)_[C02_800_25jp].jpm" size="612" crc="8a2847d3" sha1="d7d80df85faac63e7797763f62bd1c0fe4b05c4c"/>
+		<rom name="Paparazzi_(Empire)_[Dx01_1024_15jp].jel" size="2067738" crc="46dc56b1" sha1="0aedf6e7c271bfa389a70ba4430e2e8139c06466"/>
+		<rom name="Paparazzi_(Empire)_[Dx01_1024_15jp].jpm" size="382" crc="8a810750" sha1="4751e0a8716c5977911ca1277db0575db5a1f2a4"/>
+		<rom name="Paparazzi_(Empire)_[Dx02_1280_15jp].jel" size="2962537" crc="6e45e1c8" sha1="70454bddd82f84e2befe7b15965d8d16234846a4"/>
+		<rom name="Paparazzi_(Empire)_[Dx02_1280_15jp].jpm" size="709" crc="11fb399c" sha1="c95d79463c1f4c1b30ab90ce00b33489420c7c11"/>
+	</machine>
+	<machine name="Phoenix Gold (Jpm) [Czech]">
+		<description>Phoenix Gold (Jpm) [Czech]</description>
+		<rom name="Phoenix_Gold_(Jpm)_[Czech]_[Dx01_1280].jel" size="2816967" crc="1b3b526c" sha1="01ccb02383a5515e8e0588c21d9939f6d602b069"/>
+		<rom name="Phoenix_Gold_(Jpm)_[Czech]_[Dx01_1280].jpm" size="653" crc="2685d727" sha1="82d1a9a5376029127f8d81bb82485b164cb8b029"/>
+		<rom name="Phoenix_Gold_(Jpm)_[Czech]_[Pdx01_1024].jel" size="1085622" crc="20ac2051" sha1="083494a8e360056b70da7711d507f959f8febb9a"/>
+		<rom name="Phoenix_Gold_(Jpm)_[Czech]_[Pdx01_1024].jpm" size="349" crc="bc712c35" sha1="6a85f343697453c45d899c3c9c4f422999c86653"/>
+		<rom name="Phoenix_Gold_(Jpm)_[Czech]_[Pdx02_1024].jel" size="517035" crc="aebdb184" sha1="a324289dc8120f7b464933db6f24fd200a5ee060"/>
+		<rom name="Phoenix_Gold_(Jpm)_[Czech]_[Pdx02_1024].jpm" size="393" crc="2145f4fc" sha1="67c4ad30f09b2b431d30c0a15ce0d5245a2073ae"/>
+	</machine>
+	<machine name="Phoenix Millennium (Jpm) [Czech]">
+		<description>Phoenix Millennium (Jpm) [Czech]</description>
+		<rom name="Phoenix_Millennium_(Jpm)_[Czech]_[Dx01_1024].jel" size="2192542" crc="58a78b35" sha1="2cc3c6540248245d780092814992ec540e6df380"/>
+		<rom name="Phoenix_Millennium_(Jpm)_[Czech]_[Dx01_1024].jpm" size="665" crc="3760261e" sha1="3157d963a6efca426ad4df8d5010f2bb6537330e"/>
+	</machine>
+	<machine name="Pinball Fever (Crystal)">
+		<description>Pinball Fever (Crystal)</description>
+		<rom name="Pinball_Fever_(Crystal)_[C01_800_25jp].jel" size="822935" crc="51eddf3d" sha1="976360cfb7a2dd4060f1b0e4ef0ddaafe181ff7f"/>
+		<rom name="Pinball_Fever_(Crystal)_[C01_800_25jp].jpm" size="517" crc="d3483918" sha1="5ab5f1c8348907e64f205af61f66167c4ab1d5bd"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx01_1280_25jp].jel" size="2277071" crc="6c6223cb" sha1="7c56a37b0bb0ba6e2debcaa9914b0a56c3293dd8"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx01_1280_25jp].jpm" size="569" crc="a3657526" sha1="4fd4481dbd42db4f4c6b87bc612bec6300f78f4f"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx02_1024_25jp].jel" size="2372294" crc="246202ad" sha1="addca5f8d8fb5be059a9ff33fdf8cd5beb565b01"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx02_1024_25jp].jpm" size="570" crc="84b5d248" sha1="576c020fb6f7a3755fca388ef50bba206748f6c3"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx03_1024_25jp].jel" size="3011411" crc="deb19b64" sha1="9b286246bdfe1a27c8b1e44c486dd754be3c4601"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx03_1024_25jp].jpm" size="600" crc="1c9a0d3e" sha1="62be28ee2a8d1adf04479258d390106dc5e5ea5a"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx04_1280_25jp].jel" size="4126239" crc="b0e82c68" sha1="4a3576a2bc6fe83e7691c584ebf22782491fdf84"/>
+		<rom name="Pinball_Fever_(Crystal)_[Dx04_1280_25jp].jpm" size="712" crc="02333227" sha1="39b25463cd66c952c3f9fa5b71052c6ca4767b86"/>
+	</machine>
+	<machine name="Pinball Wizard (Jpm)">
+		<description>Pinball Wizard (Jpm)</description>
+		<rom name="Pinball_Wizard_(Jpm)_[C01_800_15jp].jel" size="1129163" crc="b33f0527" sha1="60c46c0ee0bf1ad16c1ec3a2db496313228918dd"/>
+		<rom name="Pinball_Wizard_(Jpm)_[C01_800_15jp].jpm" size="349" crc="f6364d21" sha1="ff24649888184c2f637b82d9e19f2f79dca73062"/>
+		<rom name="Pinball_Wizard_(Jpm)_[Dx01_1024_15jp].jel" size="1877695" crc="5d1ae997" sha1="6a4e7e5d3465064b9224c4a6324a1fe22ce1cc2c"/>
+		<rom name="Pinball_Wizard_(Jpm)_[Dx01_1024_15jp].jpm" size="353" crc="abaa281a" sha1="1898b1c6b67c96a4c05f79fdf002ef734c5d686d"/>
+		<rom name="Pinball_Wizard_(Jpm)_[Dx02_1024_15jp].jel" size="1877695" crc="3d8c6ab7" sha1="dcf13e08e8abacb6424170e9fb4eaea7cd1ff491"/>
+		<rom name="Pinball_Wizard_(Jpm)_[Dx02_1024_15jp].jpm" size="353" crc="a6782e60" sha1="0c01d327690d12333b72ca035db3142c0acba8a8"/>
+		<rom name="Pinball_Wizard_(Jpm)_[Dx03_1280_15jp].jel" size="4778824" crc="e9db76fe" sha1="48787c70ab9f35d76043a4628d6b898dead3b9fa"/>
+		<rom name="Pinball_Wizard_(Jpm)_[Dx03_1280_15jp].jpm" size="548" crc="273403c8" sha1="b6f8afa65994da37a2d5fca53ccd5caa0cd603ec"/>
+	</machine>
+	<machine name="Pirates Gold (Jpm) [Czech]">
+		<description>Pirates Gold (Jpm) [Czech]</description>
+		<rom name="Pirates_Gold_(Jpm)_[Czech]_[Dx01_1024].jel" size="1462964" crc="0ac93166" sha1="0c4dad79c2b13100fd6a25b54a1b87bc1de2eade"/>
+		<rom name="Pirates_Gold_(Jpm)_[Czech]_[Dx01_1024].jpm" size="367" crc="d5330054" sha1="d6fa509b8a8240bd050cc371c2d42e5cd2073d55"/>
+	</machine>
+	<machine name="Popeye And Olive (Jpm)">
+		<description>Popeye And Olive (Jpm)</description>
+		<rom name="Popeye_And_Olive_(Jpm)_[C01_v1-0_1024_8jp].jel" size="91188" crc="e93ffcc5" sha1="0a0b7316b6363aad3000263cbf83ec8fb21f74f6"/>
+		<rom name="Popeye_And_Olive_(Jpm)_[C01_v1-0_1024_8jp].jpm" size="332" crc="1ef15691" sha1="47d0999f34bcd2ed3736448fcf75b33fc590ef3b"/>
+	</machine>
+	<machine name="Pot Of Gold (Ace)">
+		<description>Pot Of Gold (Ace)</description>
+		<rom name="Pot_Of_Gold_(Ace)_[C01_v1-0_1024_10jp].jel" size="297801" crc="5f7dee9c" sha1="964ce890f17ac30a34cfd1c5264d665363485e95"/>
+		<rom name="Pot_Of_Gold_(Ace)_[C01_v1-0_1024_10jp].jpm" size="356" crc="6e71e65c" sha1="351a8e6f6b16ef004491aad18a69225718d0217b"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx01_1024_10jp].jel" size="2821569" crc="ec9ef327" sha1="ea2254a8b0ba5f4e9ce3793c661604ef6e77a91a"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx01_1024_10jp].jpm" size="398" crc="347fce3d" sha1="bceba8b333bdd38998ed142ed2b345450cd8b7ed"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx02_1280_10jp].jel" size="3446436" crc="a2bfc0a2" sha1="bcf0e0a6b85e7e45ab445eeb6eab28a176eb4930"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx02_1280_10jp].jpm" size="592" crc="5c972825" sha1="e0a27fa1fcc9b25fd78d68740c1ca2fe018112f9"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx03_1024_10jp].jel" size="1727149" crc="8ed28a84" sha1="ec8ba4c49f78554313ddff837fdb4129ad703044"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx03_1024_10jp].jpm" size="729" crc="8cd9e930" sha1="081d6e1ddbd89564f94e56535ef863d39dbe2865"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx03_1280_10jp].jel" size="2884265" crc="b0c3e7d4" sha1="389d6d1eb493b88707fab82f82629ee9a0b99fc6"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx03_1280_10jp].jpm" size="729" crc="6348917f" sha1="9ea8d52bbdbea6644d511b10717f54104b239a9f"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx04_1024_15jp].jel" size="3037577" crc="b725ad76" sha1="857d4e78255fc136433ee1ca26b0f28e1392f8df"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx04_1024_15jp].jpm" size="781" crc="d799cff4" sha1="6a423746c139d6392d859eeae381b8a5ec219522"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx04_1280_15jp].jel" size="3418638" crc="9c0e431f" sha1="88d846b5518f448a7260bf59edd8444cf6f1f430"/>
+		<rom name="Pot_Of_Gold_(Ace)_[Dx04_1280_15jp].jpm" size="781" crc="7b2ebea4" sha1="198b8ac90715fd0a27afbb4cbce6c8682da59d0f"/>
+	</machine>
+	<machine name="Power Lines (Jpm) [Czech]">
+		<description>Power Lines (Jpm) [Czech]</description>
+		<rom name="Power_Lines_(Jpm)_[Czech]_[Dx01_1024].jel" size="1419052" crc="77413889" sha1="a3635a60a35e4a90b3115764a9604c6de048b86a"/>
+		<rom name="Power_Lines_(Jpm)_[Czech]_[Dx01_1024].jpm" size="375" crc="e98d66d6" sha1="8b2b2029e8d8cba332fe7d92f47e6f7a4c726304"/>
+	</machine>
+	<machine name="Powerspin (Jpm)">
+		<description>Powerspin (Jpm)</description>
+		<rom name="Powerspin_(Jpm)_[C01_v1-0_1024_15jp].jel" size="178568" crc="87e506ef" sha1="0436b286890d6fb06cada8e40a9d8f1b28f83999"/>
+		<rom name="Powerspin_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="344" crc="d85b9544" sha1="65704e684d20f86c5062691b8ba8d52a2cc4f9ec"/>
+		<rom name="Powerspin_(Jpm)_[Dx01_1024_15jp].jel" size="2206409" crc="086a1984" sha1="1004fc498ca6f7f2099efcebe3c3381a67bab3be"/>
+		<rom name="Powerspin_(Jpm)_[Dx01_1024_15jp].jpm" size="428" crc="da52cb50" sha1="a71df446e555d155acd017ead533f1f0dcb7af34"/>
+		<rom name="Powerspin_(Jpm)_[Dx02_v1-0_1024_15jp].jel" size="2925253" crc="219429e9" sha1="bee60874f3265688389c76b4927af1c9f582a4e1"/>
+		<rom name="Powerspin_(Jpm)_[Dx02_v1-0_1024_15jp].jpm" size="347" crc="439e5dc0" sha1="2e2efd28cc966815cae459bb3ca96ea50fb2ffa4"/>
+		<rom name="Powerspin_(Jpm)_[Dx03_1024_15jp].jel" size="2113005" crc="c45f2fea" sha1="19a2f55dd80920da1146ccf0ef691b100cc76f81"/>
+		<rom name="Powerspin_(Jpm)_[Dx03_1024_15jp].jpm" size="652" crc="50d04075" sha1="740ad50920a0dd041bc6a3465039fb3a8693e6f2"/>
+		<rom name="Powerspin_(Jpm)_[Dx04_1280_15jp].jel" size="2932381" crc="812ac2f9" sha1="c52eada65f6a56f253977f8d3d449ed4994f9aee"/>
+		<rom name="Powerspin_(Jpm)_[Dx04_1280_15jp].jpm" size="512" crc="22d00ad6" sha1="86f0147c4093ce8c31bd8a47f3010dad2eaf6d5d"/>
+	</machine>
+	<machine name="Pycckoe (Daytona Millenium Hybrid) [Czech]">
+		<description>Pycckoe (Daytona Millenium Hybrid) [Czech]</description>
+		<rom name="Pycckoe_(Daytona_Millenium_Hybrid)_[Czech]_[Dx01_1280].jel" size="1418552" crc="5986394c" sha1="2d79377132cf5aedc2546f3240ae1216f49671a7"/>
+		<rom name="Pycckoe_(Daytona_Millenium_Hybrid)_[Czech]_[Dx01_1280].jpm" size="420" crc="c2634987" sha1="da4246031bf31a39b00228254ce3edda6d98bf15"/>
+	</machine>
+	<machine name="Quantum Leap (Jpm)">
+		<description>Quantum Leap (Jpm)</description>
+		<rom name="Quantum_Leap_(Jpm)_[C01_800_15jp].jel" size="123964" crc="15abcc62" sha1="8e9d6a347e02fe0503d5d9fe6891f419e50d20a0"/>
+		<rom name="Quantum_Leap_(Jpm)_[C01_800_15jp].jpm" size="538" crc="9aa674b9" sha1="85ce00c0498a9f8b15c70995426dec72aeee9f56"/>
+		<rom name="Quantum_Leap_(Jpm)_[Dx01_1280_15jp].jel" size="4993665" crc="b411ac2b" sha1="eb4cded6819e06afad7f1ea0f8b61517cc63e4cd"/>
+		<rom name="Quantum_Leap_(Jpm)_[Dx01_1280_15jp].jpm" size="540" crc="6f3f959b" sha1="4133c82e524dec457da25b89aa85f6b0b56f7c91"/>
+		<rom name="Quantum_Leap_(Jpm)_[Dx02_1024_15jp].jel" size="3078960" crc="30fb2b9b" sha1="7dc3d0cb1e9aa5720812014ed1f31ffd51189b9a"/>
+		<rom name="Quantum_Leap_(Jpm)_[Dx02_1024_15jp].jpm" size="535" crc="d9e47640" sha1="ec6443844d731073b955499556392a49841ae40a"/>
+		<rom name="Quantum_Leap_(Jpm)_[Dx03_1024_15jp].jel" size="3051066" crc="93e6481f" sha1="a154787620d706b046a2b0d713912d84cb1d8c82"/>
+		<rom name="Quantum_Leap_(Jpm)_[Dx03_1024_15jp].jpm" size="535" crc="5725cdf2" sha1="459608e2bee587a056943232afc7f7877ce28dc7"/>
+	</machine>
+	<machine name="Quicksilver (RAL)">
+		<description>Quicksilver (RAL)</description>
+		<rom name="Quicksilver_(RAL)_[C01_v1-0_1024_8jp].jel" size="171133" crc="694ceb77" sha1="9e8047f9ea72fcd818b0e0d190160dac6361f0d9"/>
+		<rom name="Quicksilver_(RAL)_[C01_v1-0_1024_8jp].jpm" size="643" crc="a591590d" sha1="d37c9e2dc6bb0bb19a8ecbc903d67a32f58f4a34"/>
+		<rom name="Quicksilver_(RAL)_[C01_v1-1_1024_8jp].jel" size="171297" crc="6ead3c53" sha1="4b8b969117db6c67e549f935204ad820b0ccbea1"/>
+		<rom name="Quicksilver_(RAL)_[C01_v1-1_1024_8jp].jpm" size="642" crc="8e49ad02" sha1="c0f153d5e0bad0e9d66396e670e9a3e548452e20"/>
+	</machine>
+	<machine name="Rameses' Riches (Crystal) [c]">
+		<description>Rameses' Riches (Crystal) [c]</description>
+		<rom name="Rameses'_Riches_(Crystal)_[Dx01_1280_250jp]_[c].jel" size="5712869" crc="53ee325c" sha1="7a52d823039e7ad20e35e923e8aacbf89d55e369"/>
+		<rom name="Rameses'_Riches_(Crystal)_[Dx01_1280_250jp]_[c].jpm" size="713" crc="5ddd5556" sha1="fa6682161e6bf173afa0633101268b496a5b8e45"/>
+	</machine>
+	<machine name="Ready To Rumble (Crystal)">
+		<description>Ready To Rumble (Crystal)</description>
+		<rom name="Ready_To_Rumble_(Crystal)_[Dx01_1280_15jp].jel" size="4622307" crc="95c90ed1" sha1="d6057f21c4a25a73e5d6e7bd4d953029fc88af2f"/>
+		<rom name="Ready_To_Rumble_(Crystal)_[Dx01_1280_15jp].jpm" size="539" crc="5f864bb4" sha1="ca21732b68edeb35129e6a5b5715a2984b0e2096"/>
+		<rom name="Ready_To_Rumble_(Crystal)_[Dx02_1280_5jp].jel" size="3670959" crc="1a7fa685" sha1="52a9551b6a8b229ee85d9b1395254aa053434081"/>
+		<rom name="Ready_To_Rumble_(Crystal)_[Dx02_1280_5jp].jpm" size="624" crc="d9c17007" sha1="71cb5cf63a8e8052b69f2c273357f495a638cd4d"/>
+		<rom name="Ready_To_Rumble_(Crystal)_[Dx03_1024_5jp].jel" size="3781113" crc="a95ac15f" sha1="77d74caca2d160bfcb1630bded4af2bfa258f9a6"/>
+		<rom name="Ready_To_Rumble_(Crystal)_[Dx03_1024_5jp].jpm" size="675" crc="7fa6435b" sha1="d8e044e4495207f3a382875583229fe03a946fa9"/>
+	</machine>
+	<machine name="Red Alert (Jpm)">
+		<description>Red Alert (Jpm)</description>
+		<rom name="Red_Alert_(Jpm)_[C01_v1-0_1024_15jp].jel" size="574943" crc="41ff0e30" sha1="df5d45ab5d24f21fe74c9a9d18018c2ee970bd55"/>
+		<rom name="Red_Alert_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="384" crc="434f9d39" sha1="51303da6a4bbba4bbe8b070605dd236f8c5f7559"/>
+		<rom name="Red_Alert_(Jpm)_[C02_1024_15jp].jel" size="576373" crc="199715f0" sha1="fec4a36dc6943957798dfa48943d5cb2b03e5475"/>
+		<rom name="Red_Alert_(Jpm)_[C02_1024_15jp].jpm" size="564" crc="3928f962" sha1="42a7dcfe34f5016d904872f6fea003b2d97e49b7"/>
+		<rom name="Red_Alert_(Jpm)_[Dx01_1024_15jp].jel" size="2763014" crc="b8847c41" sha1="51a3df20b2635690986a1cff21d2e9fdf3381051"/>
+		<rom name="Red_Alert_(Jpm)_[Dx01_1024_15jp].jpm" size="382" crc="7ded9126" sha1="b92b1588f0ac35ca863fe896eba722d9834b00df"/>
+		<rom name="Red_Alert_(Jpm)_[Dx02_1024_15jp].jel" size="3131093" crc="103e23b9" sha1="ffd0c2fa8c841c0151b3d50029539d95756334b0"/>
+		<rom name="Red_Alert_(Jpm)_[Dx02_1024_15jp].jpm" size="615" crc="f9130590" sha1="065b901c6411f71bcb6ebace6989d8e018cc9736"/>
+		<rom name="Red_Alert_(Jpm)_[Dx03_1280_15jp].jel" size="4293706" crc="4f5903d1" sha1="27bedf484ffa44f5709f771117f54f2d2b334e4f"/>
+		<rom name="Red_Alert_(Jpm)_[Dx03_1280_15jp].jpm" size="566" crc="3d6ffb75" sha1="3e36cd65b8b8906b3a08b92aafcf145f410653c2"/>
+		<rom name="Red_Alert_(Jpm)_[Dx04_1600_15jp].jel" size="5450381" crc="6152fe9f" sha1="a4b83390e6f49ec446728725fdfd3f6abf6d9a47"/>
+		<rom name="Red_Alert_(Jpm)_[Dx04_1600_15jp].jpm" size="521" crc="ee52163a" sha1="5752ab8dc17ed758251e006cfb28be85022d5fa1"/>
+		<rom name="Red_Alert_(Jpm)_[Dx05_1024_15jp].jel" size="3429275" crc="03c4e776" sha1="5119ed920df3096751ea726c3817f2db2c713050"/>
+		<rom name="Red_Alert_(Jpm)_[Dx05_1024_15jp].jpm" size="620" crc="72fbb9cf" sha1="5bf07cdaa3f67a8854addb6814ec3ef9bb05b2f0"/>
+		<rom name="Red_Alert_(Jpm)_[Dx06_1024_15jp].jel" size="3083301" crc="bbf7ce00" sha1="20fb0413168c4cfd0082a1b80acb0c0028e5a4ca"/>
+		<rom name="Red_Alert_(Jpm)_[Dx06_1024_15jp].jpm" size="587" crc="0247af90" sha1="6a039cd6242cf02d634a5a390acdfecba3bbd4f4"/>
+		<rom name="Red_Alert_(Jpm)_[Dx07_1024_15jp].jel" size="3514734" crc="2d70d5df" sha1="76ffbee7e5b32988b5d9d1894455492627b9b30e"/>
+		<rom name="Red_Alert_(Jpm)_[Dx07_1024_15jp].jpm" size="580" crc="0994981b" sha1="2a7b0d0a80e553c9863945cfa39e0639110065b9"/>
+	</machine>
+	<machine name="Red Alert (Jpm) [c]">
+		<description>Red Alert (Jpm) [c]</description>
+		<rom name="Red_Alert_(Jpm)_[C01_v1-0_1024_250jp]_[c].jel" size="232997" crc="97623002" sha1="478761046eb6faf42de0c2f2621e7ee1578621aa"/>
+		<rom name="Red_Alert_(Jpm)_[C01_v1-0_1024_250jp]_[c].jpm" size="389" crc="134abfa1" sha1="5cbd8028481b6385d88f1568ecec26f131e97d29"/>
+		<rom name="Red_Alert_(Jpm)_[Dx01_1280_250jp]_[c].jel" size="2862747" crc="9a88d914" sha1="fcfea1a10672e5445196621cbc76efd6215e7ff1"/>
+		<rom name="Red_Alert_(Jpm)_[Dx01_1280_250jp]_[c].jpm" size="664" crc="5cefcdda" sha1="185fe06a7bf1ecaf97a39bb4cb367f6e9e2bdf22"/>
+	</machine>
+	<machine name="Red Arrow (Jpm)">
+		<description>Red Arrow (Jpm)</description>
+		<rom name="Red_Arrow_(Jpm)_[C01_v1-0_1024_15jp].jel" size="223908" crc="7f260b6a" sha1="6a296f8ce723ddb8c4226d6fcac1a4dde8246304"/>
+		<rom name="Red_Arrow_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="386" crc="435e3484" sha1="b9d8e9db1ae71c918c5e9f8991f47f9084134fca"/>
+		<rom name="Red_Arrow_(Jpm)_[Dx01_v1-0_1024_15jp].jel" size="3115354" crc="ec8fbc63" sha1="431bff8579479663f792a726f4c2c7db72110e16"/>
+		<rom name="Red_Arrow_(Jpm)_[Dx01_v1-0_1024_15jp].jpm" size="387" crc="2cd038d8" sha1="aec4628e6c7b7cd398d20b0380fe9b90994f9a18"/>
+		<rom name="Red_Arrow_(Jpm)_[Dx02_v1-0_1280_15jp].jel" size="3397279" crc="972335b1" sha1="b43d694d138043c02ab1afa92b3be3f88ba84119"/>
+		<rom name="Red_Arrow_(Jpm)_[Dx02_v1-0_1280_15jp].jpm" size="556" crc="83eb3515" sha1="be5b7b49cef1555d26686bffefe21a1f313b0911"/>
+		<rom name="Red_Arrow_(Jpm)_[Dx03_1024_15jp].jel" size="2783957" crc="2d672098" sha1="94bd2a89c1fd0bd3612745de3d9c6d90f1f26428"/>
+		<rom name="Red_Arrow_(Jpm)_[Dx03_1024_15jp].jpm" size="577" crc="d28567be" sha1="01c389af88e95f889b9c57a3f81162160f666300"/>
+	</machine>
+	<machine name="Red Demon (Demon Joker Hybrid) [Dutch]">
+		<description>Red Demon (Demon Joker Hybrid) [Dutch]</description>
+		<rom name="Red_Demon_(Demon_Joker_Hybrid)_[Dutch]_[Pdx01_1024].jel" size="1214344" crc="12cc35e0" sha1="a49beac462d42b9d87bc1827ef00d6f088a09718"/>
+		<rom name="Red_Demon_(Demon_Joker_Hybrid)_[Dutch]_[Pdx01_1024].jpm" size="390" crc="39a52292" sha1="178db623bbfe7c3a3872941345d12d01729fae05"/>
+	</machine>
+	<machine name="Reel Money (Jpm)">
+		<description>Reel Money (Jpm)</description>
+		<rom name="Reel_Money_(Jpm)_[C01_v1-0_1024_10jp].jel" size="173762" crc="bbdfd176" sha1="66995291a2f33fdef8a35d24da808c51d7cb879d"/>
+		<rom name="Reel_Money_(Jpm)_[C01_v1-0_1024_10jp].jpm" size="376" crc="df257c7e" sha1="d7c741a54415045f8fa9fe60b3008ddd764ba4cf"/>
+		<rom name="Reel_Money_(Jpm)_[C01_v1-1_1024_10jp].jel" size="195247" crc="c7c6aa33" sha1="13707eda6e10d398b12bb944d5587d9b9ad921df"/>
+		<rom name="Reel_Money_(Jpm)_[C01_v1-1_1024_10jp].jpm" size="377" crc="1024cb64" sha1="d356f331ec2aaa97189ed011d4abeaf688de66e1"/>
+	</machine>
+	<machine name="Reel Thing (Ace)">
+		<description>Reel Thing (Ace)</description>
+		<rom name="Reel_Thing_(Ace)_[C01_1024_15jp].jel" size="1260025" crc="386aa7bb" sha1="abe6db022661e63951a68fcceb2aa9b901fadb01"/>
+		<rom name="Reel_Thing_(Ace)_[C01_1024_15jp].jpm" size="651" crc="eda2a5df" sha1="1b7c87a87d1164b93a4f791d1a56c3ff2b48b0f1"/>
+		<rom name="Reel_Thing_(Ace_-_Crystal_Glass)_[Dx01_1280_15jp].jel" size="3758536" crc="9a397c4f" sha1="942439e4d4c9dc011ddb3c25f5ff1c56e24bfd08"/>
+		<rom name="Reel_Thing_(Ace_-_Crystal_Glass)_[Dx01_1280_15jp].jpm" size="605" crc="7458847d" sha1="507ff5b144938922f6a5923a557c3e9a26a08f18"/>
+		<rom name="Reel_Thing_(Ace_-_Crystal_Glass)_[Dx02_1280_15jp].jel" size="4278103" crc="b8142865" sha1="9855773e178da92d8863d1120eda888381a61aac"/>
+		<rom name="Reel_Thing_(Ace_-_Crystal_Glass)_[Dx02_1280_15jp].jpm" size="606" crc="0c7963fc" sha1="8f2086f5033e450215c8d53875d2dcd9159abe0b"/>
+		<rom name="Reel_Thing_(Ace_-_Crystal_Glass_Alt)_[Dx03_1280_15jp].jel" size="3285202" crc="22d12712" sha1="72c910d4c1db251c22757baf7f845142e3229aea"/>
+		<rom name="Reel_Thing_(Ace_-_Crystal_Glass_Alt)_[Dx03_1280_15jp].jpm" size="674" crc="e1c66a22" sha1="7334f8ab0e12c9e4346ab55feccad37a1cf68ed0"/>
+	</machine>
+	<machine name="Ricochet (Jpm)">
+		<description>Ricochet (Jpm)</description>
+		<rom name="Ricochet_(Jpm)_[C01_v1-0_1024_8jp].jel" size="181637" crc="d92fddc2" sha1="405925a73e7a8450da02f48ce52c72acaefc19ee"/>
+		<rom name="Ricochet_(Jpm)_[C01_v1-0_1024_8jp].jpm" size="341" crc="125ced93" sha1="2480d56c77c7cc115c247cc5ce11b1cd1678089a"/>
+		<rom name="Ricochet_(Jpm)_[Dx01_1024_10jp].jel" size="2407312" crc="c04b46ea" sha1="3d5efd53fe87818cd7e39563120c71de4bab75ba"/>
+		<rom name="Ricochet_(Jpm)_[Dx01_1024_10jp].jpm" size="345" crc="ebd460a9" sha1="7051776f335b588cca897652fbd7f553612be611"/>
+	</machine>
+	<machine name="Robin Hood (Ace - Whitbread)">
+		<description>Robin Hood (Ace - Whitbread)</description>
+		<rom name="Robin_Hood_(Ace_-_Whitbread)_[C01_v1-0_1024_15jp].jel" size="803069" crc="e6c8c9d3" sha1="d4ae064328d2e27371355187d9edd0bd3d892bce"/>
+		<rom name="Robin_Hood_(Ace_-_Whitbread)_[C01_v1-0_1024_15jp].jpm" size="557" crc="5f414669" sha1="a25b31ee3572e0540064927b99c067a5607bf6e5"/>
+	</machine>
+	<machine name="Robin Hood (Ace)">
+		<description>Robin Hood (Ace)</description>
+		<rom name="Robin_Hood_(Ace)_[C01_v1-0_1024_15jp].jel" size="803069" crc="e6c8c9d3" sha1="d4ae064328d2e27371355187d9edd0bd3d892bce"/>
+		<rom name="Robin_Hood_(Ace)_[C01_v1-0_1024_15jp].jpm" size="340" crc="f3ee18d7" sha1="03f5fba695d33baa8c520c68ae58b9a8326826d6"/>
+	</machine>
+	<machine name="Roller Coaster (Jpm)">
+		<description>Roller Coaster (Jpm)</description>
+		<rom name="Roller_Coaster_(Jpm)_[C01_v1-0_1024_8jp].jel" size="643324" crc="eb856b3e" sha1="9768c8f1c0b7b680f8b8c6e55ad14f3699647243"/>
+		<rom name="Roller_Coaster_(Jpm)_[C01_v1-0_1024_8jp].jpm" size="347" crc="a314c7c3" sha1="e18d8a327d4b446f5a3bfc81f024466dad8fff2e"/>
+		<rom name="Roller_Coaster_(Jpm)_[C02_1024_15jp].jel" size="4341796" crc="39ec12ee" sha1="b727277297bf04f5e95d1f6276a3b58b0dac9128"/>
+		<rom name="Roller_Coaster_(Jpm)_[C02_1024_15jp].jpm" size="533" crc="46de30d0" sha1="8f0a3d41045f0e2b15f58c58c9dc7433c12c5c1d"/>
+		<rom name="Roller_Coaster_(Jpm)_[C03_v1-0_1024_15jp].jel" size="642950" crc="03037071" sha1="1c872517d9562f8ef33f04bc0679b3961044f0e9"/>
+		<rom name="Roller_Coaster_(Jpm)_[C03_v1-0_1024_15jp].jpm" size="540" crc="ee13fba9" sha1="ebfcc2ae6328a2421577033012f508365c2a5bef"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx01_1024_8jp].jel" size="9478917" crc="d8b89a60" sha1="aa6f6f63f90adc04c358c0901c866ec493c19b66"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx01_1024_8jp].jpm" size="531" crc="32b42523" sha1="e876aaac88d4ac1cb12a7c0aead690038855aef1"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx02_1024_8jp].jel" size="2101610" crc="5b73eca0" sha1="92ae572a8a4c09eebf9d8e78db84e4b619b43866"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx02_1024_8jp].jpm" size="346" crc="84793cd9" sha1="4f899dfbb2880bc28ef2923551414330bc700fc5"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx03_1600_8jp].jel" size="4593829" crc="51eb106d" sha1="3e9a84e083fcdb98bc433dc9b2848a57f83784cc"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx03_1600_8jp].jpm" size="711" crc="63638c27" sha1="edc00c010b4d7f36e7f2786ae6168f5733a4fc69"/>
+	</machine>
+	<machine name="Roller Coaster (Jpm) [c]">
+		<description>Roller Coaster (Jpm) [c]</description>
+		<rom name="Roller_Coaster_(Jpm)_[C01_1024_100jp]_[c].jel" size="243835" crc="c714ec6d" sha1="5330a581258fe8193ae65aab8909acb566302705"/>
+		<rom name="Roller_Coaster_(Jpm)_[C01_1024_100jp]_[c].jpm" size="534" crc="7d25b4b7" sha1="a9b07c88241d58a3343a658242079ece6f404d6f"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx01_1024_200jp]_[c].jel" size="1976522" crc="6076f54b" sha1="4bfdd27bf7e64a6fc4f8473620efb69782d2a53d"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx01_1024_200jp]_[c].jpm" size="651" crc="73ebc3de" sha1="8867c623280e9b5352f5dab4220848f9e49ffc75"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx02_1024_200jp]_[c].jel" size="1983623" crc="a7768d39" sha1="dba7dd27555ef43a0ffef8c1ad785144d8538cb7"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx02_1024_200jp]_[c].jpm" size="651" crc="e8418e5b" sha1="a579d8463df918dbb91fc6d81faf4fa955f421dd"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx03_1024_200jp]_[c].jel" size="1971958" crc="1eb73090" sha1="83af76f5549d36a37440240fa692838abb932afd"/>
+		<rom name="Roller_Coaster_(Jpm)_[Dx03_1024_200jp]_[c].jpm" size="533" crc="68d804fe" sha1="0de7c1dce11324c857d8908ef6985dbf5818785b"/>
+	</machine>
+	<machine name="Royal Flush (Jpm) [c]">
+		<description>Royal Flush (Jpm) [c]</description>
+		<rom name="Royal_Flush_(Jpm)_[Dx01_1280_250jp]_[c].jel" size="4061519" crc="935cc90b" sha1="e321c0df0495283e1f5cf52fef3191e79f9af4f9"/>
+		<rom name="Royal_Flush_(Jpm)_[Dx01_1280_250jp]_[c].jpm" size="541" crc="ce0b745d" sha1="b353750f6ac301fe20a12940a3a951bcce42ed8a"/>
+		<rom name="Royal_Flush_(Jpm)_[Dx02_1280_250jp]_[c].jel" size="4128062" crc="7333c7a1" sha1="e1ea2d1c1eac5eb64ec68fbb88392caf94c67e24"/>
+		<rom name="Royal_Flush_(Jpm)_[Dx02_1280_250jp]_[c].jpm" size="535" crc="bef4779b" sha1="32386de6539570b22b1f75868abcb639bbc7c2e4"/>
+		<rom name="Royal_Flush_(Jpm)_[Dx03_1024_250jp]_[c].jel" size="3450233" crc="cb9393c5" sha1="fdb49ccfdbc54c75de96b2eb65f6f9cb6e8705c7"/>
+		<rom name="Royal_Flush_(Jpm)_[Dx03_1024_250jp]_[c].jpm" size="541" crc="4b76b681" sha1="106d49e4f2e43b545c6ae8070269e1635f13d5bc"/>
+		<rom name="Royal_Flush_(Jpm)_[Dx04_1024_250jp]_[c].jel" size="6542971" crc="d3fbf040" sha1="c5f3834a2bb4454377e080225e3f1f99bcef38d2"/>
+		<rom name="Royal_Flush_(Jpm)_[Dx04_1024_250jp]_[c].jpm" size="340" crc="ab1351b6" sha1="8f3f31b115fa365b8d30d51b6bfaed2f9a7cd4f7"/>
+	</machine>
+	<machine name="Sidewinder (Jpm)">
+		<description>Sidewinder (Jpm)</description>
+		<rom name="Sidewinder_(Jpm)_[C01_v1-0_1024_8jp].jel" size="120760" crc="87f16956" sha1="97fded5d1bdd394089ef3ff3f93c807cb3830bbe"/>
+		<rom name="Sidewinder_(Jpm)_[C01_v1-0_1024_8jp].jpm" size="391" crc="f93ca2cd" sha1="fcbd7cee28fe352ae817dd795a78d35dafd127d4"/>
+		<rom name="Sidewinder_(Jpm)_[Dx01_1024_10jp].jel" size="1899579" crc="fa0897e9" sha1="a5ab7986ea311b4665de18372e3fd935b6c3c200"/>
+		<rom name="Sidewinder_(Jpm)_[Dx01_1024_10jp].jpm" size="388" crc="8032c32b" sha1="eb84555274ecae65a291928f88d7973493b06c8d"/>
+	</machine>
+	<machine name="Silver Ghost (Jpm)">
+		<description>Silver Ghost (Jpm)</description>
+		<rom name="Silver_Ghost_(Jpm)_[C01_v1-0_1024_10jp].jel" size="355145" crc="92920ec1" sha1="990085170ed7aa32ac421df186c3338814b8d890"/>
+		<rom name="Silver_Ghost_(Jpm)_[C01_v1-0_1024_10jp].jpm" size="367" crc="37c4b4c9" sha1="60aeb2f855e76294e0cf32291856c0e2b38fa849"/>
+	</machine>
+	<machine name="Snakes &amp; Ladders (Jpm)">
+		<description>Snakes &amp; Ladders (Jpm)</description>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[C01_800_10jp].jel" size="698659" crc="96707485" sha1="a3d8e9d86bac326906d66cdd62b90708b7ba03e1"/>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[C01_800_10jp].jpm" size="335" crc="83766018" sha1="692ea25217a248d2cd46fccbc014e8f4125bf905"/>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[C02_1024_15jp].jel" size="104737" crc="1d947f3a" sha1="622018c8af41d927dc56cf366609ab93a88fc853"/>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[C02_1024_15jp].jpm" size="346" crc="1ee83f1c" sha1="3b0b80b2cba2b48e1306a9d9d9de45241b38db26"/>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[Dx01_1024_10jp].jel" size="4087722" crc="e6d36d2c" sha1="0d8d687336de2614c14df6035996523f6b05ba6c"/>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[Dx01_1024_10jp].jpm" size="343" crc="2b45331f" sha1="04a186761095dcbc4040595f1ad0b09439ebcfbb"/>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[Dx02_1024_10jp].jel" size="1540537" crc="c76c0aa5" sha1="cf8aa847035a667994fd76ed0c9c2d6fcf22c577"/>
+		<rom name="Snakes_&amp;_Ladders_(Jpm)_[Dx02_1024_10jp].jpm" size="347" crc="651fdebe" sha1="dbc019205be963c607c3ed665cdb896397bcef4f"/>
+	</machine>
+	<machine name="Snakes &amp; Ladders Slides Again (Crystal)">
+		<description>Snakes &amp; Ladders Slides Again (Crystal)</description>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[C01_1024_15jp].jel" size="1309464" crc="f6e51898" sha1="afba8f4e863fe84024811ff36e0603586f783f5e"/>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[C01_1024_15jp].jpm" size="697" crc="f8f0670b" sha1="e8b281d02355aa1d4d09e5eab25bd7c89a83739c"/>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[Dx01_1280_15jp].jel" size="6226669" crc="45857b1f" sha1="c985c7009e62b37bac8eeec7dc81bee0b74bfa4f"/>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[Dx01_1280_15jp].jpm" size="562" crc="7446a726" sha1="5c9d527ad351f4993187265c938023fbdd9b5e4d"/>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[Dx02_1280_15jp].jel" size="7039849" crc="130afd20" sha1="49278aa51c7f05293b9234c33876fd04d22265a3"/>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[Dx02_1280_15jp].jpm" size="648" crc="e2fa2ff2" sha1="939e1740cb46355282394534e16c7ce7d0c50b21"/>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[Dx03_1600_15jp].jel" size="5188487" crc="c7aea2b5" sha1="62318059e153968a0313a29637be6b4ad8cb75f3"/>
+		<rom name="Snakes_&amp;_Ladders_Slides_Again_(Crystal)_[Dx03_1600_15jp].jpm" size="699" crc="18de4774" sha1="60cc1b997981d2aa5a4989b4502e98c97118650a"/>
+	</machine>
+	<machine name="Sonic The Hedgehog (Jpm)">
+		<description>Sonic The Hedgehog (Jpm)</description>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[C01_1024_15jp].jel" size="389954" crc="113abf95" sha1="e2e0eff10f34b406e1c1954f728c7ede931a03b4"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[C01_1024_15jp].jpm" size="693" crc="04a6c5b3" sha1="e51bf04fc53804ada63c82d59ec9b12123811226"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx01_1024_10jp].jel" size="7090103" crc="e73c789c" sha1="f9936492769444f2af9d4ef36df31cb406d48204"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx01_1024_10jp].jpm" size="646" crc="71fdbd3c" sha1="7e69c8a82b66dbf094374ab410843e6d29cb1eaa"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx02_1280_10jp].jel" size="3919078" crc="6847ade5" sha1="80da932b08aee92ffa4e5d24e0d52f46f352b33d"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx02_1280_10jp].jpm" size="652" crc="60d05236" sha1="61adcd89baa9ef9793496fce9b230209416a0039"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx03_1280_10jp].jel" size="2952094" crc="f1716198" sha1="2129c69825337ebb6a61ced2d96c8483ef04d1ce"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx03_1280_10jp].jpm" size="646" crc="a8f3dd56" sha1="9da0b0af3aa1eca7247e492a7c4e6327699478cc"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx04_1600_10jp].jel" size="2472935" crc="872c7f3e" sha1="c033d6f1afa47f3768a556ed7d696428e33b5c68"/>
+		<rom name="Sonic_The_Hedgehog_(Jpm)_[Dx04_1600_10jp].jpm" size="494" crc="2d99e65d" sha1="7a8a2d7107983e8659569f6a1b5c6a0f61d07217"/>
+	</machine>
+	<machine name="Space Invaders (Crystal)">
+		<description>Space Invaders (Crystal)</description>
+		<rom name="Space_Invaders_(Crystal)_[C01_800_25jp].jel" size="687401" crc="b2bb024f" sha1="cf3f593c9e911ec7dada028bce589bb1d0b1879d"/>
+		<rom name="Space_Invaders_(Crystal)_[C01_800_25jp].jpm" size="484" crc="bc592d3a" sha1="4ad14e75ba96d48ad0abcbe6d7635b2d8b4c0176"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx01_1280_25jp].jel" size="2847699" crc="46bb2a5e" sha1="ea717a8024b3ebded225c0b4aeda9943eb6632b0"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx01_1280_25jp].jpm" size="531" crc="4e682dbd" sha1="905e4197089512e2f96a974bc4ad53a97563dbd7"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx02_1280_25jp].jel" size="2872897" crc="747d4799" sha1="607341b94af66663f702a9caa18f8b85ae825fb0"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx02_1280_25jp].jpm" size="640" crc="c424de82" sha1="efad193cee5fd278bb02ed096ae731b36b04e7fc"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx03_1280_25jp].jel" size="3857945" crc="f0a68e35" sha1="4118609d170e5c653cc0fe106dab99f2ffcf17f1"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx03_1280_25jp].jpm" size="678" crc="f68f4460" sha1="f34889457447a51a490fbb3f037a60ccfca6e5c5"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx04_1280_25jp].jel" size="3331303" crc="82a0acab" sha1="6c74f7511c030679c335f270e5827f84ef02aeef"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx04_1280_25jp].jpm" size="691" crc="1cc1e236" sha1="15c9e02d3dad6e496781d0e45f50bc7d1b71470a"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx05_1280_25jp].jel" size="3504560" crc="8cf009ef" sha1="982b17642b9a0fb526c0d47badadd45d4d673121"/>
+		<rom name="Space_Invaders_(Crystal)_[Dx05_1280_25jp].jpm" size="720" crc="bc50b3c7" sha1="f6cd7370b213fcfa1373ed343d1640191f712547"/>
+	</machine>
+	<machine name="Stardust (Jpm)">
+		<description>Stardust (Jpm)</description>
+		<rom name="Stardust_(Jpm)_[C01_1024_10jp].jel" size="882043" crc="34332df4" sha1="a7f2605a0023a107cd4518bc05a43c6201d1f762"/>
+		<rom name="Stardust_(Jpm)_[C01_1024_10jp].jpm" size="525" crc="578d6f42" sha1="b86b7bd3c94cdd03a19229f007f041c774135720"/>
+	</machine>
+	<machine name="Super Breakout (Jpm)">
+		<description>Super Breakout (Jpm)</description>
+		<rom name="Super_Breakout_(Jpm)_[C01_v1-0_1024_15jp].jel" size="138453" crc="2f3e66ff" sha1="9ab4f04b1cca68afa5e759749abc176f601da9bc"/>
+		<rom name="Super_Breakout_(Jpm)_[C01_v1-0_1024_15jp].jpm" size="352" crc="5291e587" sha1="a4bdbaf5ab260ac0cf07b7d9394b23b21537ccb4"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx01_1024_15jp].jel" size="2637162" crc="35edb1ef" sha1="9f3adac3da55917e20efa8cf6491a76dea740b28"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx01_1024_15jp].jpm" size="352" crc="810949ad" sha1="7594d4c924bfd6c7b4aef110610720227409195c"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx02_1024_15jp].jel" size="2533856" crc="2c0e16e5" sha1="4f42fc5c4feac4c8f613dbe77a7a06e97773fd8e"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx02_1024_15jp].jpm" size="353" crc="d664c613" sha1="32eb25ffe079f18716e4705ab846fe0088452a21"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx03_1280_15jp].jel" size="2185981" crc="85720392" sha1="3b2df1c39fa43a26b1057a06242f3128d788a894"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx03_1280_15jp].jpm" size="353" crc="9c4e5522" sha1="16f2e4ef19ebddfd9e37ea013858d46a3087c274"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx04_1280_15jp].jel" size="2523256" crc="92fe03b0" sha1="0c0e70dfa14f46e890c34982d55512bdd3f0d986"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx04_1280_15jp].jpm" size="533" crc="f7b11c95" sha1="94931a4618672759bbf3e0420be635b2855ea33d"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx05_1280_15jp].jel" size="2144365" crc="ba393840" sha1="53d0555282e5b770303c4fd898754e1359658eff"/>
+		<rom name="Super_Breakout_(Jpm)_[Dx05_1280_15jp].jpm" size="660" crc="2f07e4fc" sha1="fbf59acb761bd60fa41906d24a4f16c99d0c67bb"/>
+	</machine>
+	<machine name="Swop Till Ya Drop (Jpm)">
+		<description>Swop Till Ya Drop (Jpm)</description>
+		<rom name="Swop_Till_Ya_Drop_(Jpm)_[C01_1024_25jp].jel" size="334587" crc="292a5d98" sha1="7a72a85d170828d547ac8e014e4b42f3b24a716d"/>
+		<rom name="Swop_Till_Ya_Drop_(Jpm)_[C01_1024_25jp].jpm" size="674" crc="16db33f1" sha1="02f6121d0ac7ef47795dd2c9aae48900934578d1"/>
+		<rom name="Swop_Till_Ya_Drop_(Jpm)_[C02_1024_25jp].jel" size="755943" crc="d6399715" sha1="6779f94f63a79ddcab8d427c01d3df56fff984ad"/>
+		<rom name="Swop_Till_Ya_Drop_(Jpm)_[C02_1024_25jp].jpm" size="678" crc="c2df76b8" sha1="4374031dd152cf3113c199ca87090d2fbe81451b"/>
+	</machine>
+	<machine name="Three Bags Full (Jpm)">
+		<description>Three Bags Full (Jpm)</description>
+		<rom name="Three_Bags_Full_(Jpm)_[C01_1024_15jp].jel" size="700076" crc="b949c326" sha1="fb55f933ad4bfbbf3edcd4c25a7c57ca4d646aaa"/>
+		<rom name="Three_Bags_Full_(Jpm)_[C01_1024_15jp].jpm" size="592" crc="14496187" sha1="b2ddac81986ea1c00411afe758b737f29b4e9c90"/>
+		<rom name="Three_Bags_Full_(Jpm)_[C02_1024_15jp].jel" size="965632" crc="ee882f2f" sha1="aea52a4e37017b49b1bbc22fbd6576a90643039f"/>
+		<rom name="Three_Bags_Full_(Jpm)_[C02_1024_15jp].jpm" size="734" crc="894184e3" sha1="46ec5eb0c8f75e373176c863b3fe4370440a3591"/>
+	</machine>
+	<machine name="Thriller (Crystal)">
+		<description>Thriller (Crystal)</description>
+		<rom name="Thriller_(Crystal)_[Dx01_1280_5jp].jel" size="2892098" crc="c1a305f5" sha1="5570ba131d526460c4ec814b52f7f5e4b977d13a"/>
+		<rom name="Thriller_(Crystal)_[Dx01_1280_5jp].jpm" size="661" crc="12349c6b" sha1="d25c636358a2449fd66095313086fcf3fe99f562"/>
+	</machine>
+	<machine name="Thunderbirds (Crystal)">
+		<description>Thunderbirds (Crystal)</description>
+		<rom name="Thunderbirds_(Crystal)_[C01_v1-0_1024_25jp].jel" size="177532" crc="97a42b6c" sha1="4d3b3b0bf0664c0f833c5a47cb8a10d8391f7187"/>
+		<rom name="Thunderbirds_(Crystal)_[C01_v1-0_1024_25jp].jpm" size="352" crc="6ac700ac" sha1="e1b0c32473d71e57301e12168f11fcea6779b2a8"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx01_1024_25jp].jel" size="1902495" crc="f7dcae96" sha1="18537d5ffed4ddf86ce50d40a52543aed067243e"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx01_1024_25jp].jpm" size="356" crc="91009dcd" sha1="d24664ac4a0b43ee1119eb001b5d57a19e2cc19b"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx02_v1-1_1024_25jp].jel" size="3939507" crc="af9440b0" sha1="40b55684ff2547855e236bf1e3530ed14b3bc0f0"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx02_v1-1_1024_25jp].jpm" size="360" crc="7b3c9662" sha1="ca7ad764e585c9e28e22d35f6f7f47aa5e64c878"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx03_1024_25jp].jel" size="1902495" crc="f7dcae96" sha1="18537d5ffed4ddf86ce50d40a52543aed067243e"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx03_1024_25jp].jpm" size="356" crc="c6140d96" sha1="03884eb2d8cfed114a880a4d2a0ef26a90fafd3d"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx04_1280_25jp].jel" size="3177181" crc="c2c6d653" sha1="b6105331739ba42bb78a848b40964ce7ac82385d"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx04_1280_25jp].jpm" size="356" crc="dc535db5" sha1="ebe181a733013a52c39d7354d77adad0bb65c7fd"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx05_1024_25jp].jel" size="1941185" crc="f49194c5" sha1="1388a47f841c4c6956d3d04c9feb0f60c831adb8"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx05_1024_25jp].jpm" size="356" crc="b4623610" sha1="4af324571889144af296ce6cc2b6999304440407"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx06_1280_25jp].jel" size="3177181" crc="c2c6d653" sha1="b6105331739ba42bb78a848b40964ce7ac82385d"/>
+		<rom name="Thunderbirds_(Crystal)_[Dx06_1280_25jp].jpm" size="356" crc="8b47cdee" sha1="5e96e439c23761a38e6f373b3c21fe2902cc35e2"/>
+	</machine>
+	<machine name="Thunderbirds (Jpm - Predator)">
+		<description>Thunderbirds (Jpm - Predator)</description>
+		<rom name="Thunderbirds_(Jpm_-_Predator)_[Dx01_1024_25jp].jel" size="2018323" crc="b65dd006" sha1="99d8a0b56897efbf0b499fc84ef34689912ea3fa"/>
+		<rom name="Thunderbirds_(Jpm_-_Predator)_[Dx01_1024_25jp].jpm" size="355" crc="47a14037" sha1="e3f026c7d8056138c0f5a50e659c9fcb37ebcc51"/>
+	</machine>
+	<machine name="Thunderbirds (Jpm) [c]">
+		<description>Thunderbirds (Jpm) [c]</description>
+		<rom name="Thunderbirds_(Jpm)_[C01_v1-01_1024_100jp]_[c].jel" size="920473" crc="4271a69f" sha1="638634bc582bb32792a300ac4ccb44afbb080b38"/>
+		<rom name="Thunderbirds_(Jpm)_[C01_v1-01_1024_100jp]_[c].jpm" size="358" crc="20189a7b" sha1="7f81f32c7c387a673b61d2f34b5e9cb00c1950e3"/>
+		<rom name="Thunderbirds_(Jpm)_[C02_v1-01_1024_250jp]_[c].jel" size="920571" crc="11d2a2e0" sha1="21b40e726dbbf971546203431a11a503bcfe5dbf"/>
+		<rom name="Thunderbirds_(Jpm)_[C02_v1-01_1024_250jp]_[c].jpm" size="358" crc="959f0ed3" sha1="f18256f52ad7f48868fa90563fd5acee9bc0e6fa"/>
+		<rom name="Thunderbirds_(Jpm)_[C03_v1-01_blue_1024_1000jp]_[c].jel" size="920309" crc="f93c3110" sha1="6c039ec16302a8d87ec49778f59fc79035a4fb64"/>
+		<rom name="Thunderbirds_(Jpm)_[C03_v1-01_blue_1024_1000jp]_[c].jpm" size="362" crc="e10dc294" sha1="dbee7890350237218b66322f8e80783a73164478"/>
+		<rom name="Thunderbirds_(Jpm)_[C04_v1-01_yellow_1024_1000jp]_[c].jel" size="1074803" crc="bd5dd7c1" sha1="29012dbd9e211691c3a9292d316895a4641aa0f1"/>
+		<rom name="Thunderbirds_(Jpm)_[C04_v1-01_yellow_1024_1000jp]_[c].jpm" size="365" crc="478c0ff9" sha1="42d53b36cb9bd40a1e92ca7e1396bbbcd3ee1e70"/>
+		<rom name="Thunderbirds_(Jpm)_[Dx01_1024_250jp]_[c].jel" size="2911958" crc="85044e7d" sha1="93d382c358c39a6dd293cacc6e28ee671a70b3d5"/>
+		<rom name="Thunderbirds_(Jpm)_[Dx01_1024_250jp]_[c].jpm" size="354" crc="8a9903f1" sha1="fba3af82e033f211ffbaeb43cf43a29aa0d62706"/>
+		<rom name="Thunderbirds_(Jpm)_[Dx02_1024_1000jp]_[c].jel" size="3208708" crc="eb4c2c12" sha1="92719e4151d6bd0090849489e4c36c51e49296bf"/>
+		<rom name="Thunderbirds_(Jpm)_[Dx02_1024_1000jp]_[c].jpm" size="353" crc="1cb855cc" sha1="6c999aea7a01fe68739980c80471ae8f047b4321"/>
+	</machine>
+	<machine name="Tomb Raider (Jpm)">
+		<description>Tomb Raider (Jpm)</description>
+		<rom name="Tomb_Raider_(Jpm)_[C01_1024_25jp].jel" size="910277" crc="90e89755" sha1="b3dc22f737bb1272266fd4811292123ad481cd28"/>
+		<rom name="Tomb_Raider_(Jpm)_[C01_1024_25jp].jpm" size="336" crc="aa2aa300" sha1="a7fb5bcfcd7f4dfbca0f812ecb9f258f15c1e9bb"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx01_v1-1_1024_25jp].jel" size="3319045" crc="5da2ad80" sha1="6f3801617eee88f609762b3cc32e60193e89e6aa"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx01_v1-1_1024_25jp].jpm" size="343" crc="580c80cd" sha1="16146ff2d3a96ee242b6b0221e0808c5d8ff4d08"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx02_1024_25jp].jel" size="4578090" crc="5df9c309" sha1="9518c72f79b3057eaaa6a21ebe4a8e6db45d8131"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx02_1024_25jp].jpm" size="337" crc="06229f5b" sha1="f85ddba8ab705cbff300e9a2e1fe377b60d13013"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx03_v1-1_1024_25jp].jel" size="3790504" crc="4cba6d00" sha1="44443ab402284b7e1be8a6c660c7257d2859ed1c"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx03_v1-1_1024_25jp].jpm" size="344" crc="35eb0f62" sha1="28efa0298b9da23ac631fd1e930326c5ce49aa85"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx04_1600_25jp].jel" size="3109419" crc="3a979e81" sha1="0af938ef1b54c0f86bff645c502f3f4a8b159f7b"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx04_1600_25jp].jpm" size="617" crc="2162460c" sha1="959717c882af4ee3a92998e16e85a5a06b3461f8"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx05_1280_25jp].jel" size="3693021" crc="798c2bc5" sha1="a5dafa116f24b56069e41eb03a82ed520594909e"/>
+		<rom name="Tomb_Raider_(Jpm)_[Dx05_1280_25jp].jpm" size="618" crc="fea9501b" sha1="fe46bf49b3cdfc75d2ec33852202cfd3a29c8b31"/>
+	</machine>
+	<machine name="Top Flight (Ace)">
+		<description>Top Flight (Ace)</description>
+		<rom name="Top_Flight_(Ace)_[C01_1024_25jp].jel" size="904530" crc="191571fd" sha1="aa5ef64b2d243d325ad7301a8991211ffc819ca3"/>
+		<rom name="Top_Flight_(Ace)_[C01_1024_25jp].jpm" size="656" crc="c6475105" sha1="6a1bd659a4584508975ce63144de054931da5ced"/>
+	</machine>
+	<machine name="Treasure Quest (Crystal)">
+		<description>Treasure Quest (Crystal)</description>
+		<rom name="Treasure_Quest_(Crystal)_[C01_1600_15jp].jel" size="1188376" crc="fcb8e489" sha1="41e296f955be16ad782dacb649a2103297201900"/>
+		<rom name="Treasure_Quest_(Crystal)_[C01_1600_15jp].jpm" size="394" crc="8908c529" sha1="f362fc024aa6c49def5d55ade4625a353dd8ca2c"/>
+		<rom name="Treasure_Quest_(Crystal)_[C02_1024_15jp].jel" size="815491" crc="711c4bef" sha1="a7a630ca9ab38e70587cc8eb06a8daa020517818"/>
+		<rom name="Treasure_Quest_(Crystal)_[C02_1024_15jp].jpm" size="565" crc="927653fc" sha1="6faac21a07cce7d76b021c2590b8dea7fcfa7bcf"/>
+		<rom name="Treasure_Quest_(Crystal)_[Dx01_1280_15jp].jel" size="4560087" crc="bf1c1e38" sha1="a0f5dbf9e9ce4ef788a1719718ab8b35ab8a5f65"/>
+		<rom name="Treasure_Quest_(Crystal)_[Dx01_1280_15jp].jpm" size="395" crc="f0d4c0a7" sha1="24baf9b775dab8a747c521d595f577627aa68c5f"/>
+		<rom name="Treasure_Quest_(Crystal)_[Dx02_1024_15jp].jel" size="3561495" crc="518c0e90" sha1="4eeced79bc1019b42653bf1f8b3309a4c3e4a582"/>
+		<rom name="Treasure_Quest_(Crystal)_[Dx02_1024_15jp].jpm" size="552" crc="b4574fbe" sha1="3b982a1b7a0ec02f7e7e41d2b8347d6161bb1b98"/>
+		<rom name="Treasure_Quest_(Crystal)_[Dx03_1280_15jp].jel" size="5023207" crc="996d7fe4" sha1="8a85afda48eaf9b32adbb1004b3900dab2bbad83"/>
+		<rom name="Treasure_Quest_(Crystal)_[Dx03_1280_15jp].jpm" size="675" crc="e137c0b3" sha1="eca1878ebe592bb76937ee0b884e937a715d0971"/>
+	</machine>
+	<machine name="Tutti Frutti (Qps)">
+		<description>Tutti Frutti (Qps)</description>
+		<rom name="Tutti_Frutti_(Qps)_[Dx01_1280_8jp].jel" size="3002351" crc="0d5e845b" sha1="f001ecaf6808b3fcc49cdbe06779c8484232d606"/>
+		<rom name="Tutti_Frutti_(Qps)_[Dx01_1280_8jp].jpm" size="597" crc="2d980745" sha1="840df38222bf1f32eca7b67194065eec84339538"/>
+	</machine>
+	<machine name="Twister (Ace)">
+		<description>Twister (Ace)</description>
+		<rom name="Twister_(Ace)_[C01_1280_25jp].jel" size="539410" crc="5b5ae37e" sha1="365549b2f221a44f445fb1710372c2cca655ed93"/>
+		<rom name="Twister_(Ace)_[C01_1280_25jp].jpm" size="641" crc="ea092270" sha1="52ff47ccc047903cedb35de4d1ca7cb095f935c4"/>
+		<rom name="Twister_(Ace)_[C01_v2_1280_25jp].jel" size="539439" crc="588d673a" sha1="28967c27c287c41441e1218727dac99ef0289580"/>
+		<rom name="Twister_(Ace)_[C01_v2_1280_25jp].jpm" size="653" crc="cfaea0c3" sha1="76d0abbbe697fbdafbeff3f76a8d392b845be11f"/>
+	</machine>
+	<machine name="Up Pompay (Ace - Whitbread)">
+		<description>Up Pompay (Ace - Whitbread)</description>
+		<rom name="Up_Pompay_(Ace_-_Whitbread)_[C01_v1-0_1024_15jp].jel" size="781275" crc="2e02d951" sha1="92f81b6c72ebd763106ce2b5ac23c754b09711bd"/>
+		<rom name="Up_Pompay_(Ace_-_Whitbread)_[C01_v1-0_1024_15jp].jpm" size="542" crc="2cec6264" sha1="0b57de5867cc312ebade8a3d1bbe65dcaa02d8cf"/>
+	</machine>
+	<machine name="Up Pompay (Ace)">
+		<description>Up Pompay (Ace)</description>
+		<rom name="Up_Pompay_(Ace)_[C01_v1-0_1024_15jp].jel" size="781275" crc="2e02d951" sha1="92f81b6c72ebd763106ce2b5ac23c754b09711bd"/>
+		<rom name="Up_Pompay_(Ace)_[C01_v1-0_1024_15jp].jpm" size="338" crc="2c881a54" sha1="74c71a0f9f31254aee14557431f057f18baa9a4d"/>
+	</machine>
+	<machine name="Vindaloot (Jpm)">
+		<description>Vindaloot (Jpm)</description>
+		<rom name="Vindaloot_(Jpm)_[C01_1024_25jp].jel" size="750304" crc="fbfb93cf" sha1="250af3d436f41c7ec9ffd9c340b848ba95a9417a"/>
+		<rom name="Vindaloot_(Jpm)_[C01_1024_25jp].jpm" size="651" crc="2d071122" sha1="b6e116ba1276e9672c00c9751cff3782535bc788"/>
+		<rom name="Vindaloot_(Jpm)_[C02_1024_25jp].jel" size="147221" crc="331516aa" sha1="5587d5e72034b0010202aa0f246b4d528f9ff30a"/>
+		<rom name="Vindaloot_(Jpm)_[C02_1024_25jp].jpm" size="629" crc="c3f2baca" sha1="1e910e9e15c633ac84b7a63218feae9737611081"/>
+		<rom name="Vindaloot_(Jpm)_[Dx01_1280_25jp].jel" size="4644782" crc="6f0b4121" sha1="41cd133d9444244e120018967294712997407c4c"/>
+		<rom name="Vindaloot_(Jpm)_[Dx01_1280_25jp].jpm" size="710" crc="5c999329" sha1="16b18567dde9f869a25a029cd7618f2876fd959c"/>
+		<rom name="Vindaloot_(Jpm)_[Dx02_1280_25jp].jel" size="5194593" crc="72506c73" sha1="f7040d668d71b138ccef7d5e0a6d7a9a6a897da4"/>
+		<rom name="Vindaloot_(Jpm)_[Dx02_1280_25jp].jpm" size="631" crc="bcd01815" sha1="53bf38dfd93af324aaea9eccb5ec8f68f513a3d6"/>
+	</machine>
+	<machine name="Viva Rock Vegas (Jpm)">
+		<description>Viva Rock Vegas (Jpm)</description>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C01_1024_15jp].jel" size="866493" crc="e3aade68" sha1="3e180172a7c1bd33eec821660e5040c93d8acea5"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C01_1024_15jp].jpm" size="393" crc="d85573be" sha1="e5a76970a5a492789287f686e2d51b8103960dca"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C02_1024_15jp].jel" size="168249" crc="b83a7707" sha1="b1a659bcad144590c14eadf5ad19bee89e0a22ff"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C02_1024_15jp].jpm" size="393" crc="0920a8ad" sha1="bdeead0098d71aa228f2cb5e1aa36d7c50eeed92"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C03_1024_15jp].jel" size="866335" crc="17e6c807" sha1="e08a47eb95a161242923ee662faecade382851b3"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C03_1024_15jp].jpm" size="394" crc="9bc0b576" sha1="b9dfc45897e87e6916a339e8142ca08e49ed5d1a"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx01_v1-1_1024_15jp].jel" size="3714415" crc="4c79e987" sha1="249532d036d5a3d06fb99d1c192251b5a029cbf5"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx01_v1-1_1024_15jp].jpm" size="400" crc="d193c522" sha1="87c189b9df5bd0ff23d4225b36cf78d3b0981739"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx02_1280_15jp].jel" size="3786813" crc="9620146b" sha1="9268083d37e6b84d284a232d11efd97bbc8f9024"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx02_1280_15jp].jpm" size="561" crc="29bd6d7e" sha1="5fc2d430851ca6ddd2ebbff8c719de8039f22f02"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx03_1024_15jp].jel" size="3046941" crc="bc581873" sha1="a098fe0f00e49fabc3a2924f68a515a5c2e24707"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx03_1024_15jp].jpm" size="585" crc="96fbbc64" sha1="040c78946f12a71720749d366666d7078185ca49"/>
+	</machine>
+	<machine name="Viva Rock Vegas (Jpm) [c]">
+		<description>Viva Rock Vegas (Jpm) [c]</description>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C01_1024_1000jp]_[c].jel" size="932447" crc="911cf8f1" sha1="a42064dcc6221aeed5aea7e4e35479d044fe8aa4"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[C01_1024_1000jp]_[c].jpm" size="552" crc="2865294a" sha1="27e92baf0f42ae45f74b42af18ba0daa9a92fe57"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx01_1024_1000jp]_[c].jel" size="3264438" crc="dc2e3fc4" sha1="15f4b27edd2195c94178cdebfc7b5f3c458f786c"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx01_1024_1000jp]_[c].jpm" size="360" crc="7a5ad869" sha1="2e320e63ac17b60471f3a3cf9f64f90ae6ae5156"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx02_1280_1000jp]_[c].jel" size="5608251" crc="346b25b0" sha1="5fab787a7e9fee432f6a6116707d0db0c10fd667"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx02_1280_1000jp]_[c].jpm" size="359" crc="692ae6eb" sha1="47d66822d6004b98da28b911f79e0b25dd96c72f"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx03_1280_1000jp]_[c].jel" size="3772333" crc="bf8816a5" sha1="73c45e1c771b7e6e4f59c69948154a6a97f1a60d"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx03_1280_1000jp]_[c].jpm" size="470" crc="1fec837f" sha1="9147beaba220b4eb3d9ea727da89936f1dbd6bb8"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx04_1024_1000jp]_[c].jel" size="2417368" crc="cedc5dd6" sha1="7d61ea2569b6a0c13dd67e33e1caba21c722c6eb"/>
+		<rom name="Viva_Rock_Vegas_(Jpm)_[Dx04_1024_1000jp]_[c].jpm" size="554" crc="ba9fbc97" sha1="a3f7d4810b79e64f29a4e765260f298856bde330"/>
+	</machine>
+	<machine name="Wild King Club (Jpm) [c]">
+		<description>Wild King Club (Jpm) [c]</description>
+		<rom name="Wild_King_Club_(Jpm)_[C01_v1-0_1024_250jp]_[c].jel" size="157428" crc="caa057c6" sha1="d74522cd4ca83f8029a3870e182528017071464d"/>
+		<rom name="Wild_King_Club_(Jpm)_[C01_v1-0_1024_250jp]_[c].jpm" size="392" crc="c2d0471d" sha1="281c0ef68f3d895ea5c11575ad605c1229f95a89"/>
+	</machine>
+	<machine name="Wild Thing (Empire)">
+		<description>Wild Thing (Empire)</description>
+		<rom name="Wild_Thing_(Empire)_[C01_800_25jp].jel" size="2332646" crc="60b92fe7" sha1="4c741c2d1f66085f8e604ce7ad6891309db4526b"/>
+		<rom name="Wild_Thing_(Empire)_[C01_800_25jp].jpm" size="681" crc="19e9386b" sha1="4e36b17ae8eafd635c701d0f7b731488e8816a0a"/>
+		<rom name="Wild_Thing_(Empire)_[Dx01_v1-0_1280_25jp].jel" size="4084795" crc="067343a1" sha1="1bc6f18a8f77fde1488cf2002f480f0dacdd181d"/>
+		<rom name="Wild_Thing_(Empire)_[Dx01_v1-0_1280_25jp].jpm" size="691" crc="e367e013" sha1="2d8d5ecfa408b6b8ff4f7965ab2c4ef63978de79"/>
+		<rom name="Wild_Thing_(Empire)_[Dx02_1280_15jp].jel" size="2526455" crc="9f55dfb5" sha1="843417e980083b4413ad97501bf24fa7a57e5c66"/>
+		<rom name="Wild_Thing_(Empire)_[Dx02_1280_15jp].jpm" size="642" crc="175e4a76" sha1="b570bf67431ecd20f2a0f2fcf4fd3c092f0a6344"/>
+		<rom name="Wild_Thing_(Empire)_[Dx03_1280_15jp].jel" size="2801089" crc="8e4b36ea" sha1="567bdfd1a68f2da92e0707448c27ae3b5e1a749a"/>
+		<rom name="Wild_Thing_(Empire)_[Dx03_1280_15jp].jpm" size="646" crc="bbce5a92" sha1="88516a68aa5cc77e08e038d1a1ed4f986cc953d9"/>
+		<rom name="Wild_Thing_(Empire)_[Dx04_1280_15jp].jel" size="2813124" crc="66795d8c" sha1="00e9846d290aa1eb6861301b691a66ab5816e114"/>
+		<rom name="Wild_Thing_(Empire)_[Dx04_1280_15jp].jpm" size="648" crc="aa3386ef" sha1="d2cbe6e18d9a23e8345ebc5400c38e404e6439f9"/>
+		<rom name="Wild_Thing_(Empire)_[Dx05_1024_15jp].jel" size="2836361" crc="43cd47f9" sha1="1c237993018c7c4c795f742beca17c07984b34f0"/>
+		<rom name="Wild_Thing_(Empire)_[Dx05_1024_15jp].jpm" size="699" crc="b5f0cecf" sha1="5f4e288f8068cf445cc85885fa46452ba38281bc"/>
+		<rom name="Wild_Thing_(Empire)_[Dx06_1280_15jp].jel" size="3101143" crc="b8c80149" sha1="e8c3a7e070fdbdce61da230aa8e48b27154d3f40"/>
+		<rom name="Wild_Thing_(Empire)_[Dx06_1280_15jp].jpm" size="699" crc="121b79a5" sha1="f8b51c9b40c0042f2ba85c5d18fef7e9cc4911ba"/>
+		<rom name="Wild_Thing_(Empire)_[Dx07_1280_15jp].jel" size="3117483" crc="4350c65b" sha1="6f1435cd23f89e0f3403008d52d515c572543c9c"/>
+		<rom name="Wild_Thing_(Empire)_[Dx07_1280_15jp].jpm" size="727" crc="f9dd7beb" sha1="412efabd485994070b148ca6b42071808ee40dd9"/>
+	</machine>
+	<machine name="Wild West (Ace)">
+		<description>Wild West (Ace)</description>
+		<rom name="Wild_West_(Ace)_[C01_800_15jp].jel" size="742291" crc="62324209" sha1="bd075424d6a86edbfbc1146a5a93f91ac3579bd1"/>
+		<rom name="Wild_West_(Ace)_[C01_800_15jp].jpm" size="530" crc="09e35834" sha1="c57fb25ff89212b5662b4b50888d7074a319ce61"/>
+		<rom name="Wild_West_(Ace)_[Dx01_1280_15jp].jel" size="1905022" crc="fb099960" sha1="aeef8adf82d7111131e82e9d73a2cf071c3dd1f5"/>
+		<rom name="Wild_West_(Ace)_[Dx01_1280_15jp].jpm" size="644" crc="03b310a6" sha1="f4c922f025ac5ae2fbaa9b97cc5891890ad24a3c"/>
+	</machine>
+	<machine name="Wizard Of Odds (Jpm)">
+		<description>Wizard Of Odds (Jpm)</description>
+		<rom name="Wizard_Of_Odds_(Jpm)_[C01_800_10jp].jel" size="451248" crc="851d7898" sha1="ed2402f21435b6d8ae8167bd953602b6ae22a2ab"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[C01_800_10jp].jpm" size="343" crc="04b836b2" sha1="9d406e4ef81a9f5e9e8d0fe1cb987fa3ff98a5c3"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx01_1024_10jp].jel" size="3410008" crc="b3e7bdd3" sha1="f96a4df464ddf8c8b0354bdc2e28d3fd334af34f"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx01_1024_10jp].jpm" size="342" crc="6c3fc004" sha1="7d07ad21768638d06553400ce29df95717ac2ba1"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx02_1280_10jp].jel" size="3406169" crc="064a6094" sha1="238eccb50e28db51583976ccf9ec83bdee93e74a"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx02_1280_10jp].jpm" size="342" crc="50f83a2a" sha1="67d8d00d0c5c595bcf3a9620f290954b60019d50"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx03_1024_10jp].jel" size="2830380" crc="24d259b6" sha1="d16fbe3a056b7fcd37415afbf1d1076b82b0580b"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx03_1024_10jp].jpm" size="538" crc="33278f62" sha1="036a64c4c6b3423d35b8e9f4b5c11b3b24cc66c3"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx04_1280_10jp].jel" size="3188981" crc="57e8547e" sha1="03fb6237bce5f9831c82e261c41ce15e1809a00a"/>
+		<rom name="Wizard_Of_Odds_(Jpm)_[Dx04_1280_10jp].jpm" size="538" crc="205b9297" sha1="343f27492fad60bf3e650c9c62ff37ace87d6389"/>
+	</machine>
+	<machine name="Your Lucky Knight (Jpm)">
+		<description>Your Lucky Knight (Jpm)</description>
+		<rom name="Your_Lucky_Knight_(Jpm)_[C01_800_25jp].jel" size="732041" crc="fafcf654" sha1="0e69663291aad1132662a83d0da7d76d0f11515e"/>
+		<rom name="Your_Lucky_Knight_(Jpm)_[C01_800_25jp].jpm" size="563" crc="4abe5afe" sha1="ef644122f981c32f81ae4226bcdff7d4e2dd6df5"/>
+		<rom name="Your_Lucky_Knight_(Jpm)_[Dx01_1280_25jp].jel" size="4959054" crc="d45d3e2b" sha1="ff0462ace5a4bc7058a068862bc26af838c8b15c"/>
+		<rom name="Your_Lucky_Knight_(Jpm)_[Dx01_1280_25jp].jpm" size="681" crc="786d3c61" sha1="6db6ae178cebb2769b7a3212277f0e78a8514262"/>
+		<rom name="Your_Lucky_Knight_(Jpm)_[Dx02_1280_25jp].jel" size="4954373" crc="95e03719" sha1="b124ac08baf8510262251248922b0a2558575e6a"/>
+		<rom name="Your_Lucky_Knight_(Jpm)_[Dx02_1280_25jp].jpm" size="706" crc="0e1736a3" sha1="522fc0db615419eb8ddd6974c5bf69c15bed27f2"/>
+	</machine>
+</datafile>

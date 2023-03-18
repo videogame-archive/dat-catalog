@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>MAME - Update ROMs (v0.251 to v0.252)</name>
+		<description>MAME - Update ROMs (v0.251 to v0.252)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="andromed">
+		<description>Andromeda SS (Japan?)</description>
+		<year>1980</year>
+		<manufacturer>Irem</manufacturer>
+		<rom name="am8" size="1024" crc="57294dff" sha1="3ef8d561e33434dce6e7d45e4739ca3b333681a8" />
+	</machine>
+	<machine name="anpanman2a">
+		<description>Soreike! Anpanman Popcorn Koujou 2 (Rev A)</description>
+		<year>2003</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-24049a.ic11" size="4194304" crc="ef7fe4ba" sha1="cef005d5e3f4a7a3e0b93730378d462997c2a4e5" />
+	</machine>
+	<machine name="apple2gsmt">
+		<description>Apple IIgs (1991 Mark Twain prototype)</description>
+		<year>1991</year>
+		<manufacturer>Apple Computer</manufacturer>
+		<rom name="mtrom.bin" size="524288" crc="d75414c5" sha1="7054915f5e5f9f3bb2cbecf6830d4f80793694a6" />
+		<rom name="mtscsi.bin" size="32768" crc="7426c880" sha1="1c16310e5c180701a05089d69c6e72e9dc7434f6" />
+	</machine>
+	<machine name="bankpt">
+		<description>Bank Panic (Tecfri bootleg)</description>
+		<year>1984</year>
+		<manufacturer>bootleg (Tecfri)</manufacturer>
+		<rom name="9.bin" size="16384" crc="08a8137b" sha1="1dbda68825101d5474eecc58ff9b5f9fe79b0b33" />
+		<rom name="11.bin" size="16384" crc="056755ce" sha1="7375b856a5757b8b6336ccc16df460a79c3f25a7" />
+	</machine>
+	<machine name="bchopper">
+		<description>Battle Chopper (World)</description>
+		<year>1987</year>
+		<manufacturer>Irem</manufacturer>
+		<rom name="mh_c-pr-b.ic1" size="4096" crc="9d201fea" sha1="20fca55c46d756784b341bbe204388b9d836e76d" />
+	</machine>
+	<machine name="bformula2" ismechanical="yes">
+		<description>Baby Formula 2</description>
+		<year>1988</year>
+		<manufacturer>Recreativos Franco</manufacturer>
+		<rom name="recreativos_franco_m-000031-b_001744_90_pa.ic44" size="32768" crc="3c4ae129" sha1="e68e7a403596a9f2d34e6b8d2631d2716010e982" />
+		<rom name="recreativos_franco_m-000031-b_001744_90_pc.ic32" size="32768" crc="b593c6bc" sha1="c01b61b4ea60b9f2bca3200b4b90af1c4027f9df" />
+	</machine>
+	<machine name="bnstlkr" ismechanical="yes">
+		<description>Bonus Talker</description>
+		<year>198?</year>
+		<manufacturer>Cleartone Leisure Ltd.</manufacturer>
+		<rom name="bt0" size="2048" crc="16706c53" sha1="0b430685dd38f1e03b40e2225628b648fdc2197c" />
+		<rom name="bt1" size="2048" crc="2b0c6a1f" sha1="e194ed4f48d681a170b8a25ed449e5e43dab7238" />
+		<rom name="bt2" size="2048" crc="5a740f8f" sha1="26bf00e190f7818f98f848c887c398eede781924" />
+		<rom name="bt3" size="2048" crc="b0d50dcd" sha1="2b5a5321b83cd11278b02b03d21fa3935c66f6eb" />
+		<rom name="bt4" size="2048" crc="4383608c" sha1="4b1491fc08f8ac2f9fd76a98e238c0472f07f89a" />
+		<rom name="bt5" size="2048" crc="28ea9225" sha1="baf85ab7869dcf6ea38c9f5c705ee5d6aa1f07ae" />
+		<rom name="bt6" size="2048" crc="acbc9256" sha1="e3f5e7b86a01961cced9d128cde0c69db21072be" status="baddump" />
+		<rom name="bt7" size="2048" crc="b88be97f" sha1="f335140ac7dc4842832dfcd2e3aebabc8d8edc82" />
+		<rom name="e1 top.ic13" size="2048" crc="4677461e" sha1="36e4e4513341676204fe8df673b997c0adcdf473" />
+		<rom name="e2 middle.ic15" size="2048" crc="3b8e1e22" sha1="435baa3cd77c1e63be7a4e6fdaa6645dc15a7e3a" />
+		<rom name="e3 bottom.ic37" size="2048" crc="82d9b633" sha1="d9e98f095b84d1fc3e3602e74bddd6d49370f5f2" />
+	</machine>
+	<machine name="borntofia">
+		<description>Born To Fight (set 2)</description>
+		<year>19??</year>
+		<manufacturer>International Games</manufacturer>
+		<rom name="1.bin" size="65536" crc="0a65ab53" sha1="10da49a32d8898b6e11aed7a483a83fe8153dc80" />
+	</machine>
+	<machine name="bowlgum">
+		<description>Bowling Gum</description>
+		<year>1992?</year>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
+		<rom name="bb.ic19" size="32768" crc="cdf78197" sha1="1aaad919f506ea42345d9d1ee789b19f1fef41a7" />
+		<rom name="bg.ic18" size="32768" crc="b7ab5c2e" sha1="efe281bbabaef834d3c00ef504503d4c91e2c925" />
+		<rom name="br.ic17" size="32768" crc="b87bc6e9" sha1="1fb29a933b7683965db9d76640dc4fe2651ae19e" />
+		<rom name="copy.ic52" size="32768" crc="42d70078" sha1="bc37bfb7e50547250df020872f935c8ab9c3ff9a" />
+	</machine>
+	<machine name="bsuprem" ismechanical="yes">
+		<description>Baby Suprem</description>
+		<year>198?</year>
+		<manufacturer>Andra / Vifico</manufacturer>
+		<rom name="andra_baby_suprem.u4" size="16384" crc="71e4ae62" sha1="3aa4e7125ea03464c58187eb85fb706b5392b9b5" />
+	</machine>
+	<machine name="chesskng">
+		<description>Chess King (Model ET-6)</description>
+		<year>1994</year>
+		<manufacturer>I-Star Co., Ltd.</manufacturer>
+		<rom name="etmate-cch.u6" size="262144" crc="a4d1764b" sha1="ccfae1e985f6ad316ff192206fbc0f8bcd4e44d5" />
+	</machine>
+	<machine name="cosflash" ismechanical="yes">
+		<description>Cosmic Flash</description>
+		<year>1985</year>
+		<manufacturer>Bell Games</manufacturer>
+		<rom name="cf-sound.532" size="4096" crc="7fda4f13" sha1="9993ba890e91613014bad0950511bcff522b8dbd" status="baddump" />
+	</machine>
+	<machine name="cothello">
+		<description>Computer Othello</description>
+		<year>1978</year>
+		<manufacturer>Nintendo</manufacturer>
+		<rom name="11.ic11" size="1024" crc="dea6486e" sha1="4e11699dfee0e34c67872427372ea0b33bd16d09" />
+		<rom name="12.ic12" size="1024" crc="293eee03" sha1="d3bf755104f2fcbc99ebdc9556b3f42cdfacf94e" />
+		<rom name="13.ic13" size="1024" crc="c4b2802b" sha1="b7e568c3503722143815b051de2dd3b60cde635a" />
+	</machine>
+	<machine name="djgirl">
+		<description>DJ Girl (Promat license)</description>
+		<year>1993</year>
+		<manufacturer>Soft Art Co. / Promat</manufacturer>
+		<rom name="djgirl.u2" size="65536" crc="95912ee3" sha1="0e3dba93de550f2af7978af324b0ab514e44ebd1" />
+		<rom name="djgirl.u5" size="262144" crc="39abacac" sha1="3558334abb2b0d6cbccc2a07125c13e978ef9d26" />
+		<rom name="djgirl.u46" size="262144" crc="3853d794" sha1="4746c660c57d44dc4fb2793c2660c30d3185efc4" />
+		<rom name="djgirl.u49" size="262144" crc="b3f580c5" sha1="807380bed3773495de4b7c4b26a8aa97d4e83d64" />
+		<rom name="djgirl.u50" size="262144" crc="02a52a90" sha1="b1c6f9b4f02f498109ea57f5bc37277f6cc4c11e" />
+		<rom name="djgirl.u78" size="65536" crc="746bcf74" sha1="597a8ce18c2a9dd04d9d3999fe0721d491726c38" />
+		<rom name="djgirl.u79" size="65536" crc="a17e04f8" sha1="94bb0f958c83f8287b9a83858c153f009db109ef" />
+		<rom name="djgirl.u80" size="65536" crc="74f18c8b" sha1="af6fb8927a8b8b85b65259bcd0d6f29e3c72b66b" />
+		<rom name="djgirl.u81" size="65536" crc="077ccd1c" sha1="43fc03bf88f35804069be843f6df9be74ea905c7" />
+	</machine>
+	<machine name="doodlejmp">
+		<description>Doodle Jump Arcade (v1.16)</description>
+		<year>2013</year>
+		<manufacturer>ICE / Raw Thrills (Lima Sky licensed)</manufacturer>
+		<rom name="m2n68-asus-1001.rom" size="1048576" crc="6f4ff699" sha1="d43baae25fcfb442ccf2cc716e6051b3795296cd" />
+	</machine>
+	<machine name="drwrt400">
+		<description>DreamWriter T400</description>
+		<year>1996</year>
+		<manufacturer>NTS</manufacturer>
+		<rom name="t4_ir_3.1_e588.ic303" size="1048576" crc="1724ceb2" sha1="101effc8cfa2f084c09b25c4074f684aeb97d044" />
+	</machine>
+	<machine name="dtc03">
+		<description>DECtalk DTC-03</description>
+		<year>1985</year>
+		<manufacturer>Digital Equipment Corporation</manufacturer>
+		<rom name="23-028e6.e50" size="32768" crc="2788190e" sha1="13af6d1cf5a69a0fc160ebd75ce891f7938a9cad" />
+		<rom name="23-029e6.e44" size="32768" crc="49d0ff90" sha1="7398c50cf10bc918ca8de55aec3032bf0d00e5c4" />
+		<rom name="23-032e6.e29" size="32768" crc="d6f4edd0" sha1="1268a938c44f2332173edab4a3b41a9fb58f31ae" />
+		<rom name="23-033e6.e21" size="32768" crc="38516d0c" sha1="228c6d644b8e3d9b9e649b3de2e24780a189e661" />
+		<rom name="23-114e6.e60" size="32768" crc="122c69c0" sha1="d6a2b6c57c966d07c3cfee346d3d0b4baca2426e" />
+		<rom name="23-115e6.e56" size="32768" crc="21c4c6f8" sha1="6796adfec81fa0bfa83f5f61c81e57dae97085c7" />
+		<rom name="23-116e6.e41" size="32768" crc="3641f5e2" sha1="6c93a697caf59f027d8a23ac34e5e356a1cba524" />
+		<rom name="23-117e6.e33" size="32768" crc="3c65dfab" sha1="d430fe04172f30aa196ef9480545575c7ec8fbb1" />
+		<rom name="23-229f4.82s191.e18" size="2048" crc="0beddc21" sha1="5eb4948c49ee40613dce93f2017ba55ba2b59767" />
+		<rom name="23-230f4.82s191.e11" size="2048" crc="e32aff61" sha1="7c014a988c9e583096ef1cfc142c7c0a4444168e" />
+		<rom name="23-305e6.e60" size="32768" crc="1c7fd2a0" sha1="d64cb27a2583b33857ccfb0babc3e528d7bd5c1d" />
+		<rom name="23-306e6.e56" size="32768" crc="83411f4d" sha1="c0844fc2777b79f3997f97948f1cf1bc2a568fe9" />
+		<rom name="23-307e6.e41" size="32768" crc="aea1d679" sha1="dae9a599c411c7c757c74f3ececa55209b0bf066" />
+		<rom name="23-308e6.e33" size="32768" crc="8e12680a" sha1="d7b5870ded2568d5d9bad0cafa3996995e3bc3c5" />
+		<rom name="23-425e6.e60" size="32768" crc="a7c11541" sha1="b0b5b8633849369d9a50a04498ebdf3597b74051" />
+		<rom name="23-426e6.e56" size="32768" crc="7191c670" sha1="32e18f00b459e868189a084abe528868f07705f5" />
+		<rom name="23-427e6.e41" size="32768" crc="8e45da49" sha1="64e0b840365e1094e574841f22e9107a754dd70c" />
+		<rom name="23-428e6.e33" size="32768" crc="23a12574" sha1="44c87987f7b6c8d7e5bec4bf39259ff7edc986ed" />
+	</machine>
+	<machine name="espgal2">
+		<description>Espgaluda II (2005/11/14.MASTER VER.)</description>
+		<year>2005</year>
+		<manufacturer>Cave (AMI license)</manufacturer>
+		<rom name="espgal2_u4" size="2097152" crc="2cb37c03" sha1="da438efc497f72aa345d2cdb0143d269e51576d3" />
+	</machine>
+	<machine name="felega1">
+		<description>Elegance Chess Challenger (model AS12, set 2)</description>
+		<year>1984</year>
+		<manufacturer>Fidelity Electronics</manufacturer>
+		<rom name="felega1.8000" size="8192" crc="8ddd71fb" sha1="d856b42706df0a0e6ec7f44c49ec38d84155c1ef" />
+	</machine>
+	<machine name="felega">
+		<description>Elegance Chess Challenger (model AS12, set 1)</description>
+		<year>1984</year>
+		<manufacturer>Fidelity Electronics</manufacturer>
+		<rom name="felega.8000" size="8192" crc="e86453ed" sha1="8279cf9a7f471f893922d53d901dae65fabbd33f" />
+		<rom name="felega.c000" size="4096" crc="4a2b6946" sha1="fd7d11e2589e654f91f7c2f667b927075bd49339" />
+		<rom name="felega.e000" size="8192" crc="823083ad" sha1="4ea6a679edc7c149f1467113e9e5736ee0d5f643" />
+	</machine>
+	<machine name="fgtlayer">
+		<description>Fighting Layer (Asia, FTL3/VER.A)</description>
+		<year>1998</year>
+		<manufacturer>Arika / Namco</manufacturer>
+		<rom name="ftl3vera.2e" size="2097152" crc="17c23471" sha1="22b5a25569c085f059c1c846cf628a1f140035e9" />
+	</machine>
+	<machine name="findouta">
+		<description>Find Out (Version 4.04, set 2)</description>
+		<year>1989</year>
+		<manufacturer>Elettronolo</manufacturer>
+		<rom name="0" size="16384" crc="4d1306a0" sha1="cc403c280a2cefbe943e6e0e4d7ee42e339a274d" />
+		<rom name="am27s13.4g" size="512" crc="71df3345" sha1="3d64c47b2ce093afad56d8963c151a7854451236" />
+		<rom name="basket.2" size="8192" crc="7cc369e0" sha1="b589707c8186a661f6565a5ae164d7169b9493d8" />
+		<rom name="calcio_a.5" size="8192" crc="60839c64" sha1="5269e76f890b285768417f8e58609162c913c271" />
+		<rom name="cinema.3" size="8192" crc="65d78d41" sha1="200ffb837dce352349842c37e0a3ebd8234ad254" />
+		<rom name="findouta.nvram" size="2048" crc="a0e19083" sha1="76ebba4627667904e618d9fac71c415e852d7c24" />
+		<rom name="findouta.sig" size="8" crc="5c126c66" sha1="12dbda545b2b2bf4ad9152e37e6316c6cd49a4e5" />
+		<rom name="musica.4" size="8192" crc="a063f7bf" sha1="15c82b188e730a89eead0d4c74c916a58733be66" />
+		<rom name="pal10h8cn.2o" size="44" crc="24d06342" sha1="9b2392a99587958db6e037e02c0b713ef530dad5" />
+		<rom name="pal10l8cn" size="44" crc="338cb46a" sha1="2e0872da385fc13ee800f1cfcd17bca734420ea9" />
+		<rom name="sport.1" size="8192" crc="6139b2d7" sha1="1aa5b25a7807806f6018cedf91f95f9172750867" />
+	</machine>
+	<machine name="frtgenie">
+		<description>Fruit Genie (Version 1-1-03)</description>
+		<year>2003</year>
+		<manufacturer>Global</manufacturer>
+		<rom name="fruit_genie_rom2_va1_1.03.u14" size="262144" crc="627c9dfd" sha1="c4e393c61911a3d646b53fc2742e8b7495509567" />
+		<rom name="fruit_genie_rom3_va1_1.03.u15" size="262144" crc="747099c3" sha1="99f4aa6814ed2868d9758ad94b4497fd4c3142dc" />
+		<rom name="fruit_genie_rom_1.u99" size="262144" crc="28b0c8fb" sha1="5cdf59dcbed7da9b882c7dcf27020c1c37dd22cc" />
+		<rom name="fruit_genie_rom_4.u58" size="524288" crc="b3b467b6" sha1="f1a64af7a8fe22c7ef76617aba359df11e4af737" />
+		<rom name="fruit_genie_rom_5.u59" size="524288" crc="5c4497ed" sha1="ed326867edb3a0e841a6d1ab9d6f238e9f7281b7" />
+		<rom name="fruit_genie_rom_6.u60" size="524288" crc="2f66583e" sha1="08a8a4266c7e118183784bfdca796da803d3a2dd" />
+	</machine>
+	<machine name="galpanic">
+		<description>Gals Panic (unprotected, ver. 2.0)</description>
+		<year>1990</year>
+		<manufacturer>Kaneko</manufacturer>
+		<rom name="ver.2.0_pm_111-subic6.subic6" size="131072" crc="6dc4b075" sha1="41a529a0e5808f902f6ac11681daae7545739ab0" />
+		<rom name="ver.2.0_pm_112-subic5.subic5" size="131072" crc="8bf38add" sha1="fc31fbe1c449a776175a4e3ecbed08ec5551a9ae" />
+	</machine>
+	<machine name="gapluse">
+		<description>Gaplus (GP7)</description>
+		<year>1984</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="gp7_2.8b" size="8192" crc="12e47097" sha1="acec140475147c7297c29f55451b11f33eb73bea" />
+		<rom name="gp7_3.8c" size="8192" crc="6674c6b7" sha1="287bd826119cdbe0f83827c42612580b5acde579" />
+		<rom name="gp7_4.8d" size="8192" crc="d7faeafa" sha1="39e5293099e5214a7c9d9fd25e61b979d8a67747" />
+		<rom name="gp7_6.11b" size="8192" crc="c0b80680" sha1="57a14eff70d9239d71feac9b51ebd511006f4ea4" />
+	</machine>
+	<machine name="hotd2p">
+		<description>The House of the Dead 2 (prototype)</description>
+		<year>1998</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="rom21.ic21s" size="8388608" crc="256603d7" sha1="382ed2e593400f0eae1acefeaecc2be56d868722" />
+	</machine>
+	<machine name="hp7596a">
+		<description>HP 7596A DraftMaster II</description>
+		<year>1988</year>
+		<manufacturer>Hewlett-Packard</manufacturer>
+		<rom name="07595-18095_u28.bin" size="65536" crc="3588c029" sha1="cc4b4838531b9309a3fc27102c19393653b08ae4" />
+		<rom name="07595-18096_u37.bin" size="65536" crc="b1df8181" sha1="d7ef1edf3f4b9f5a7e0fdca0bf6b72a3118da9c2" />
+	</machine>
+	<machine name="imac">
+		<description>iMac (Bondi blue)</description>
+		<year>1998</year>
+		<manufacturer>Apple Computer</manufacturer>
+		<rom name="imacboot.u3" size="1048576" crc="80d3174b" sha1="e7a0c71822ec1e08435099af87b38bc82d315ed5" />
+	</machine>
+	<machine name="imgfightjb">
+		<description>Image Fight (Japan, bootleg)</description>
+		<year>1988</year>
+		<manufacturer>Irem</manufacturer>
+		<rom name="ic111.9e" size="65536" crc="6aae3a46" sha1="87fe2e13b4dd98c6cbec03ec52dfae1980403125" />
+	</machine>
+	<machine name="junglekj2a">
+		<description>Jungle King (Japan, earlier, alt)</description>
+		<year>1982</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<rom name="kn26.bin" size="4096" crc="4b5adca2" sha1="00040491a57e5247a051eacbe57e30763109ef13" />
+		<rom name="kn37.bin" size="4096" crc="60d13095" sha1="c9a3bdc3a5432945cd09588708b8a24ff7d772c3" />
+		<rom name="kn38.bin" size="4096" crc="6950413d" sha1="263472a25213f411a8be7d30f5dec6aec186c1d4" />
+	</machine>
+	<machine name="labtam_3232" isdevice="yes" runnable="no">
+		<description>Labtam 3232</description>
+		<rom name="sash_0__i87.rom0" size="16384" crc="52d760bb" sha1="bb5d281cc27799827433c6d30570db84e3dfd5b0" />
+		<rom name="sash_1__i87.rom1" size="16384" crc="a6e8bf4b" sha1="c4435d1b0692040b0e515dd1944784c1efd853dc" />
+		<rom name="sash_2__i87.rom2" size="16384" crc="5346c475" sha1="3651b6afc9712efd181221c56dd3d2f954d226cd" />
+		<rom name="sash_3__i87.rom3" size="16384" crc="ec3c0c5b" sha1="0959d9257e94caa2f18aeb00f55824426084b8c8" />
+	</machine>
+	<machine name="labtam_8086cpu" isdevice="yes" runnable="no">
+		<description>Labtam 8086 CPU</description>
+		<rom name="slave_1__0.u34" size="8192" crc="f5007dd0" sha1="2362852d88bf32ce605ad394244dc6e21a6df5c6" />
+		<rom name="slave_1__1.u44" size="8192" crc="2de2e667" sha1="c575d5d53f2fe99569af002c636754dedca09e3b" />
+	</machine>
+	<machine name="labtam_vducom" isdevice="yes" runnable="no">
+		<description>Labtam 8086 VDU COMM</description>
+		<rom name="vdu_com__l83.3_0.u26" size="16384" crc="2ff53d1d" sha1="034a89f25dd03e43bdeae710f55d948483624dbe" />
+		<rom name="vdu_com__l83.3_1.u39" size="16384" crc="5c425046" sha1="baad928d3189ed6112ed1849511ce230ddb66166" />
+		<rom name="vdu_com__l83.3_2.u34" size="16384" crc="2ed84e20" sha1="36fdf5e83b1e8f9b706a221930cec1aa2c587a96" />
+		<rom name="vdu_com__l83.3_3.u44" size="16384" crc="c601c308" sha1="61503b5109183a5814be3fcaa393fde8f5bd5359" />
+	</machine>
+	<machine name="labtam_z80sbc" isdevice="yes" runnable="no">
+		<description>Labtam Z80 SBC</description>
+		<rom name="z80_boot__c85_0.u59" size="8192" crc="472b39ad" sha1="689c194dee29f895fb4f3e901adab3267e0e2823" />
+		<rom name="z80_boot__c85_1.u53" size="8192" crc="8cb2374d" sha1="20f6ec9ba9c8fb453f6497ffa0fb1dc3611e7d7f" />
+	</machine>
+	<machine name="mspacmanbgc">
+		<description>Ms. Pac-Man ('Made in Greece' Enavi bootleg)</description>
+		<year>1992</year>
+		<manufacturer>bootleg (Enavi)</manufacturer>
+		<rom name="9cl.g5" size="32768" crc="a846bd10" sha1="d585462d99a99014051f2dbbefee197127d9ec9e" />
+	</machine>
+	<machine name="mutacion">
+		<description>Mutacion (Explomatic Spanish Moon Cresta bootleg)</description>
+		<year>1980?</year>
+		<manufacturer>bootleg (Explomatic)</manufacturer>
+		<rom name="mutacion_i.1" size="4096" crc="b622b601" sha1="3bb006dd12239eb3a9fa45699b5cf1cc580d5668" />
+		<rom name="mutacion_i.2" size="4096" crc="f6121da2" sha1="a6b3777989086290f8e5c49ed7643e7e86a694c2" />
+		<rom name="mutacion_i.3" size="4096" crc="c47a4d04" sha1="4d2886de4b8644ff52f00f9e69c19deb951ad077" status="baddump" />
+		<rom name="mutacion_i.4" size="4096" crc="78290f7e" sha1="20eb70f4c846873d178d55ef45a0add535891104" />
+		<rom name="mutacion_i.f2" size="2048" crc="91664e98" sha1="dbc192785bf35d0c45ee0f5a690d4c484f32330f" />
+	</machine>
+	<machine name="mvme180" isdevice="yes" runnable="no">
+		<description>Motorola MVME180</description>
+		<rom name="51_w5110b19_u34__8846__180bug_2.5.u34" size="65536" crc="9b4e483a" sha1="c9b1e9e1735a015c38eb223ab126c40c40a9f89d" />
+		<rom name="51_w5110b20_u35__8846__180bug_2.5.u35" size="65536" crc="1170b048" sha1="ab8e2917c7150e4f74be600507690aa35444244c" />
+		<rom name="51_w5110b21_u36__8846__180bug_2.5.u36" size="65536" crc="270fbc7b" sha1="a61b8701c5f1133f930320f313309008ff5d5504" />
+		<rom name="51_w5110b22_u37__8846__180bug_2.5.u37" size="65536" crc="67a60a6c" sha1="0105317abf0105216078c94c02c223dd1cd61068" />
+	</machine>
+	<machine name="mvme181" isdevice="yes" runnable="no">
+		<description>Motorola MVME181</description>
+		<rom name="181bug_a0.read.bin" size="131072" crc="79018bdb" sha1="c52bfea145a56d2ad8765a508292557f096c4208" />
+		<rom name="181bug_a1.read.bin" size="131072" crc="a5ac2d78" sha1="feb16d3767cd382094de78b1043c702e29cde2ee" />
+		<rom name="181bug_a2.read.bin" size="131072" crc="ddb90610" sha1="30bd0cba86436689f8994c448515dd409e66d895" />
+		<rom name="181bug_a3.read.bin" size="131072" crc="646d301f" sha1="5871b5194e7fc623923f5df005b0463002e85626" />
+	</machine>
+	<machine name="mvme327a" isdevice="yes" runnable="no">
+		<description>Motorola MVME327A</description>
+		<rom name="5527c29a.u34" size="65536" crc="2ef4cc9a" sha1="0e80e208756995cb34c006d2f1e84a5978ad17d6" />
+		<rom name="5527c30a.u42" size="65536" crc="7be983d0" sha1="ec5fc0709d8e91119d39231ace66f4fcbdb457e9" />
+	</machine>
+	<machine name="nabu_keyboard" isdevice="yes" runnable="no">
+		<description>NABU PC keyboard</description>
+		<rom name="nabukeyboard-90020070-reva-2716.bin" size="2048" crc="eead3abc" sha1="2f6ff63ca2f2ac90f3e03ef4f2b79883205e8a4e" />
+	</machine>
+	<machine name="nabupc">
+		<description>NABU PC</description>
+		<year>1982</year>
+		<manufacturer>NABU</manufacturer>
+		<rom name="nabupc-u53-90020060-reva-2732.bin" size="4096" crc="8110bde0" sha1="57e5f34645df06d7cb6c202a6d35a442776af2cb" />
+		<rom name="nabupc-u53-90020060-revb-2764.bin" size="8192" crc="3088f21b" sha1="bf2f1eb5d9f5a8e9d022ce0056f2a5a8526b830e" />
+		<rom name="nabupc-u53-90037150-ver29-2764.bin" size="8192" crc="3c484e3d" sha1="dd10ad6e0a59c54561335272d3c808b0543ba0ef" />
+		<rom name="nabupc-u53-ver14-2732.bin" size="4096" crc="ca5e1ae9" sha1="d713abd5d387a63a287d4ea51196ba5de42db052" />
+		<rom name="nabupc-u53-ver17-2732.bin" size="4096" crc="24d4f1fa" sha1="1b9533c709604a21aa5fcc32071d0b0630e89c20" />
+	</machine>
+	<machine name="nds">
+		<description>DS</description>
+		<year>2004</year>
+		<manufacturer>Nintendo</manufacturer>
+		<rom name="fw64b19d.bin" size="262144" crc="93487f12" sha1="3af896a05736cc0385d0f858b431ff719164caf6" />
+		<rom name="fw0802d6.bin" size="262144" crc="18e137df" sha1="d51be561a6538941f8f43d6db9cdb964a383080a" />
+	</machine>
+	<machine name="omegrace3">
+		<description>Omega Race (set 3, 7/27)</description>
+		<year>1981</year>
+		<manufacturer>Midway</manufacturer>
+		<rom name="omega_2_7-27.l7" size="4096" crc="9c3edb1a" sha1="d2487a402586339969070545e4ab24ced2e7243a" />
+	</machine>
+	<machine name="partner1fg">
+		<description>Partner 1F/G</description>
+		<year>1987</year>
+		<manufacturer>Iskra Delta</manufacturer>
+		<rom name="partner1fg.e51" size="2048" crc="571e297a" sha1="05379c75d6ceb338e49958576f3a1c844f202a00" />
+	</machine>
+	<machine name="partnerwfg">
+		<description>Partner WF/G</description>
+		<year>1987</year>
+		<manufacturer>Iskra Delta</manufacturer>
+		<rom name="partnerwfg.e51" size="2048" crc="81a2a3db" sha1="22b23969d38cf2b400be0042dbdd6f8cff2536be" />
+	</machine>
+	<machine name="pikkaric">
+		<description>Pikkari Chance</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<rom name="952-a01.bin" size="524288" crc="976d34e5" sha1="cb5757adcba452b44ebf0ae61a14b1c9040e496f" />
+		<rom name="952-a02.bin" size="524288" crc="4a203be8" sha1="3f9df850616297d6e7102ca55a44d765193602bc" />
+		<rom name="952-a06.bin" size="524288" crc="d82cd5e2" sha1="ad14ad993f32a7657bcc82e1551b8ffdba1e4d76" />
+		<rom name="952-a07.bin" size="524288" crc="25c800ff" sha1="485e76e59d16725b4585b11e1cf4c64d35ee9c2b" />
+		<rom name="952-b05.bin" size="524288" crc="f07dd20e" sha1="aec7b1d1971f9463f07bf503c867c7c67d7ee426" />
+	</machine>
+	<machine name="plus1">
+		<description>Plus One</description>
+		<year>1980</year>
+		<manufacturer>Milton Bradley</manufacturer>
+		<rom name="cop410l_b_nne" size="512" crc="dbde3864" sha1="8e7284b526dc6b99b9d921c9ad608972a761dc36" />
+	</machine>
+	<machine name="primusex">
+		<description>Primus Expert mit Stimme</description>
+		<year>198?</year>
+		<manufacturer>Yeno</manufacturer>
+		<rom name="mtrom.u11" size="524288" crc="b35f8e80" sha1="aa79175f0e590201b62ba1c19492833064e69f71" />
+	</machine>
+	<machine name="pushman">
+		<description>Pushman (Korea, set 1)</description>
+		<year>1990</year>
+		<manufacturer>Comad</manufacturer>
+		<rom name="ep600pc-3.ic193.11l" size="815" crc="e2659b20" sha1="2f0448d9e1bdd7e98a6e6ddfb6039824271961af" />
+		<rom name="hy18cv8s-30.ic245.20p" size="341" crc="c7b824f7" sha1="70c166b74fabcd1502b446b0b24100324c0f06e1" />
+		<rom name="pal16r8acn.ic35.16b" size="260" crc="bfe1accc" sha1="d9d779457f59ff4d9b33af20bdcab2012fda06e0" />
+		<rom name="pal16r8acn.ic52.17c" size="260" crc="5d032a7b" sha1="11a3bea070bed09a419a5a5de69b50f7faf8349c" />
+	</machine>
+	<machine name="pwrmacg3">
+		<description>Power Macintosh G3</description>
+		<year>1997</year>
+		<manufacturer>Apple Computer</manufacturer>
+		<rom name="pmacg3_79d68d63.bin" size="4194304" crc="74a3badf" sha1="e7fc183f62addc6499350c727252d3348184955e" />
+	</machine>
+	<machine name="raiden2au">
+		<description>Raiden II (Australia)</description>
+		<year>1993</year>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<rom name="2.u0212" size="524288" crc="396410f9" sha1="a3f737ae1fb6229388d3ebec93e880218d09fed5" />
+	</machine>
+	<machine name="satsf3d">
+		<description>Saturn: Space Fighter 3D</description>
+		<year>1979</year>
+		<manufacturer>Data East</manufacturer>
+		<rom name="b0-1.5k" size="1024" crc="c79a8346" sha1="a46a66e080603c2cee09378f59f52986f48c6151" />
+		<rom name="b1-1.5h" size="1024" crc="53e32287" sha1="9a924dfc3c175641c15b759302ddcc4edf44fe74" />
+		<rom name="b2-1.4k" size="1024" crc="84cb830c" sha1="ddc67c48ae80f8833330517015fac66433a65759" />
+		<rom name="b3-1.4h" size="1024" crc="cc4ecb1b" sha1="8ecf39c62ec6a4a8a7bf02a044c9cc492070e1aa" />
+		<rom name="b4-1.5f" size="1024" crc="d68b9c7a" sha1="b03322557be60d14d56b624a120807bcaa18a905" />
+		<rom name="b5-2.5e" size="1024" crc="0af82ccf" sha1="7924b6be2a71361a1f054bf7cb95a00367516267" />
+		<rom name="b6-1.4f" size="1024" crc="56735767" sha1="73cd8a4dfa88de4d9e9451b36440688984af79a4" />
+		<rom name="b7-1.4e" size="1024" crc="6235c388" sha1="57645eeffea61b06e38819e5f17fbeaa412f673d" />
+		<rom name="b8-2.5d" size="1024" crc="4f0fc817" sha1="b4fed244f93425107d36fa8f61ada5dc92034716" />
+	</machine>
+	<machine name="sfxphasor">
+		<description>Sound FX Phasor</description>
+		<year>1981</year>
+		<manufacturer>Electroplay</manufacturer>
+		<rom name="pic_1655a-522" size="1024" crc="0af77e83" sha1="49b089681149254041c14a740cad19a619725c3c" />
+	</machine>
+	<machine name="sonicfgt">
+		<description>SegaSonic Cosmo Fighter (World)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-17176.ic4" size="262144" crc="4211745d" sha1="710f7dab436bf0551b95786efc5ea4303c0fd5ec" />
+		<rom name="epr-17177.ic31" size="262144" crc="7c2ec4eb" sha1="f74f21f5dcfbf6ee902c2a44fed908a628d60363" />
+		<rom name="epr-17178.ic32" size="262144" crc="e05b7388" sha1="38fd175c265986a14d1365e3a403e12fbc6c73c3" />
+	</machine>
+	<machine name="spacian2">
+		<description>T.T Spacian Part-2</description>
+		<year>1979</year>
+		<manufacturer>Namco / Taito</manufacturer>
+		<rom name="an4.7f" size="2048" crc="232dd045" sha1="4f07538462a6cb8824571954438ccf28fda7e68f" />
+		<rom name="an5.7l" size="2048" crc="e80fec29" sha1="cdc1b2df14051f56bd8f55d5f379e5f60fc23d66" />
+		<rom name="an-1g.1h" size="2048" crc="a32b7270" sha1="1cd160b71fa79329cd1116ded16a6ed594d19c56" />
+		<rom name="an-2g.1k" size="2048" crc="b4784fac" sha1="9a8c398afdc72ac7b6af975f8d29e0757d6f14a6" />
+	</machine>
+	<machine name="spetrix">
+		<description>Super Petrix (ver. 1P)</description>
+		<year>199?</year>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
+		<rom name="u2" size="65536" crc="e84cf453" sha1="5ab3aff3e91de486c5791c2917443ee4b94706d6" />
+		<rom name="u7" size="65536" crc="d1bd325e" sha1="0b4836356304145761dc894e308fa467c1ca9882" />
+		<rom name="u15" size="131072" crc="3becd06b" sha1="6ea84577ec363062692bb7ad79698bbe93603abb" />
+		<rom name="u16" size="131072" crc="39d33d9b" sha1="b8c13f7c18f3f064fad05cac07409fd6753df911" />
+		<rom name="u18" size="131072" crc="2cb619f0" sha1="f58ec59ea50ea6a12c3be08c635876058c1cdf22" />
+		<rom name="u19" size="131072" crc="0f84fad3" sha1="d74553498f12cb77d9bef525524a7c75c3427e50" />
+		<rom name="u39" size="262144" crc="eaaedf14" sha1="b1a9dcbf3ee0542d61b1691d5f70375a44c06e21" />
+	</machine>
+	<machine name="spirulo" ismechanical="yes">
+		<description>Super Pirulo</description>
+		<year>1988</year>
+		<manufacturer>Oper Coin</manufacturer>
+		<rom name="super_pirulo_b-1785.u18" size="32768" crc="d6cafc7c" sha1="74cd142c606a6daf10b09be1a4f7dac4da654fa0" />
+	</machine>
+	<machine name="stmpc">
+		<description>STM PC</description>
+		<year>1984</year>
+		<manufacturer>STM Electronics</manufacturer>
+		<rom name="200000447_rev_b.u50" size="8192" crc="15f3a2d1" sha1="cf061b596cbec96195ea6224ab6295f4df1fabeb" />
+		<rom name="200000889_rev_2_odd.u126" size="8192" crc="90b12ca0" sha1="19a775562c42b3e9972d4f156a3538b70e3671e8" />
+		<rom name="200000890_rev_2_even.u98" size="8192" crc="5e6b9212" sha1="4790d4adee408ba85fcb6b1c52d59c2a5217a25a" />
+	</machine>
+	<machine name="stmpcp">
+		<description>STM PC (prototype?)</description>
+		<year>1984</year>
+		<manufacturer>STM Electronics</manufacturer>
+		<rom name="200000445_rev_e_odd.u126" size="8192" crc="9d86f7ed" sha1="7367697505f256cd82569865c39b208fe16a233f" />
+		<rom name="200000446_rev_e_even.u98" size="8192" crc="168cdf3e" sha1="a2d7524ceabbaeca1f1bb17b015ddb42946bcf34" />
+		<rom name="200000447_rev_a.u50" size="8192" crc="4a6001a2" sha1="36c10195f0655bdc8e10ceee06d176cebeb7383d" />
+	</machine>
+	<machine name="suprbowl" ismechanical="yes">
+		<description>Super Bowl</description>
+		<year>1984</year>
+		<manufacturer>Bell Games</manufacturer>
+		<rom name="suprbowl.snd" size="4096" crc="04f37a2a" sha1="9d07661e67593e865364f5883be4dcd2ca084060" />
+	</machine>
+	<machine name="swrds_lg2" ismechanical="yes">
+		<description>Swords of Fury (LG-2) Germany</description>
+		<year>1988</year>
+		<manufacturer>Williams</manufacturer>
+		<rom name="swrd_u27g.l2" size="32768" crc="ef7194d4" sha1="45b4fc316b603921fdafaf2638a46a94e6efc190" />
+	</machine>
+	<machine name="tekken2ua">
+		<description>Tekken 2 (US, TES3/VER.A)</description>
+		<year>1995</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="tes3vera.2j" size="1048576" crc="80e9b5ec" sha1="2f6313492f0d78b9745303418cd77347d14acc8c" />
+		<rom name="tes3vera.2l" size="1048576" crc="0276680b" sha1="508bb1c8a0ce929181508108ad3797e67ddd3df8" />
+	</machine>
+	<machine name="tekken3c">
+		<description>Tekken 3 (World, TET2/VER.C)</description>
+		<year>1996</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="tet2verc.2e" size="2097152" crc="4483d76e" sha1="c43b7e445acb77ddeb8a647bef1fc509ced0412e" />
+		<rom name="tet2verc.2j" size="2097152" crc="3b4fee42" sha1="b71b2969b0416e6fd348297876fc55d44e14ebef" />
+	</machine>
+	<machine name="tnshc08">
+		<description>TNS HC-08</description>
+		<year>1988</year>
+		<manufacturer>JZD Slušovice</manufacturer>
+		<rom name="chargen.ic42" size="4096" crc="e607ff0f" sha1="0c787593e26398d856c3d7c44250e462b138b424" />
+		<rom name="fl1_29.ic53" size="2048" crc="e6581b55" sha1="fb5ce8b30518f06b144a7c204a3b72fde9cab17c" />
+		<rom name="fl2_29.ic54" size="2048" crc="c44d65e7" sha1="395968b16398dbd89f3fc4b18b4f2f173496eeda" />
+	</machine>
+	<machine name="tokyocop">
+		<description>Tokyo Cop (US, dedicated version)</description>
+		<year>2003</year>
+		<manufacturer>Gaelco</manufacturer>
+		<rom name="al1 49lf004a.u10" size="524288" crc="db8e4a37" sha1="9ef4bf1d72955a89e7dc9b984e76ce86c824b461" />
+	</machine>
+	<machine name="tp881v" isdevice="yes" runnable="no">
+		<description>Tadpole Technology TP881V</description>
+		<rom name="881v__5.04h.bin" size="131072" crc="74de0772" sha1="8e5bfd427c0bdea4ab350333fd5a814712014302" />
+		<rom name="881v__5.04l.bin" size="131072" crc="d9027c64" sha1="88cca011dee005d273a1cd7048480ff3fac9c06a" />
+	</machine>
+	<machine name="usg251">
+		<description>Games V25.1</description>
+		<year>1991</year>
+		<manufacturer>U.S. Games, Inc.</manufacturer>
+		<rom name="bb_rom0.251_4e36_u12.u12" size="32768" crc="b9c6e9c6" sha1="a8772bc8bd167b97ff6d31e810eb5189978389ce" />
+	</machine>
+	<machine name="virnbap">
+		<description>Virtua NBA (prototype)</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="rom1.ic1s" size="8388608" crc="0ea48727" sha1="30a3b0e8ee36f6d542e2d413f7a59d4a3f177e3f" />
+		<rom name="rom2.ic2s" size="8388608" crc="2941a358" sha1="3ea6c4fdbc45361162b1ade9c2a84d524d17e9b4" />
+		<rom name="rom3.ic3s" size="8388608" crc="0fa29eef" sha1="0fbdb9b5d5bb7c556dcd596e43844a4e27f90eee" />
+		<rom name="rom4.ic4s" size="8388608" crc="5cbcd7a5" sha1="bdee4ec869c204b9a718c51cacba19a6e8eb0c5f" />
+		<rom name="rom5.ic5s" size="8388608" crc="f026bf67" sha1="7fee531b32eac4633d8968e6bff3861475c8fcb9" />
+		<rom name="rom11.ic11s" size="8388608" crc="d55234c4" sha1="4b631cef5ec2cab60b59eb638ea8b2d57f73b053" />
+		<rom name="rom15.ic15s" size="8388608" crc="e4d59ed3" sha1="dd1590c9e289a91167d7bb9bd516bddca438a746" />
+		<rom name="rom16.ic16s" size="8388608" crc="9f7a587b" sha1="4ca78d5c00db553ac5551ec3556a737774603e22" />
+		<rom name="rom17.ic17s" size="8388608" crc="18b7df45" sha1="c8059fff981cefcc7e2d44845bf3bd6cea54df67" />
+		<rom name="rom18.ic18s" size="8388608" crc="27eae4d8" sha1="eb25300ea44192cc6c99ba102afef0a7f8125436" />
+		<rom name="rom19.ic19s" size="8388608" crc="7bb7ff29" sha1="ba7614718bbad3b966519ccb632ad717545bc40b" />
+		<rom name="rom20.ic20s" size="8388608" crc="9a08015e" sha1="c15dcc8254675d74db67bd9282ad92d3f096dff0" />
+		<rom name="sflash.ic37" size="132" crc="598dac05" sha1="2f0f3187dbe753ec5046af8e50053a13729c73d8" />
+	</machine>
+	<machine name="vscaptfl">
+		<description>Vs. Super Captain Flag (Japan)</description>
+		<year>1993</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="pr92027b.ic31" size="279" crc="bebd5200" sha1="6ce078daf44b7839536dae0e6539388228f4ff47" />
+		<rom name="vs-cf92128_1.ic18" size="1048576" crc="50c99a47" sha1="c0c4ac24eebdd462176a5cbaf9e33918c6d54e10" />
+		<rom name="vs-cf92128_2.ic19" size="1048576" crc="7629969c" sha1="94b391f230f5b5f9498bc967beaed1e6c95a028f" />
+		<rom name="vs-cf92128_6_ver1.0.ic55" size="131072" crc="55c8db06" sha1="499c0de2202e873eeca98c2f0932569f3df01a21" />
+		<rom name="vs-gp9189_7_ver1.0.ic15" size="524288" crc="63459f84" sha1="1956ceab56f7266329b4e276876363f2334f0287" />
+		<rom name="vs-gp9189_8_ver1.0.ic16" size="524288" crc="ed40b351" sha1="9fca6ec3f364ee80729d59e617b2341d39326f2b" />
+		<rom name="vs-gp9189_9_ver1.0.ic21" size="524288" crc="eb20c7d4" sha1="64956c672fec1e96a97e25144b351bc24c32aa4f" />
+		<rom name="vs-gp9189_10_ver1.0.ic22" size="524288" crc="5e24c3b0" sha1="714418a48d66782798abfb9394b3a527e63ad9c5" />
+		<rom name="vs.s.c.f-cf-92128-3_ver.1.3.ic40" size="262144" crc="a52595af" sha1="6a7b3172c256015a0b46394dc1d0bf92ef826a90" />
+		<rom name="vs.s.c.f-cf-92128-4_ver.1.3.ic46" size="262144" crc="1d015f55" sha1="652d8c3e5c71ae149ff95a008a15d067bcdd8293" />
+	</machine>
+	<machine name="yoyospel">
+		<description>YoYo Spell (prototype)</description>
+		<year>1992</year>
+		<manufacturer>Inder</manufacturer>
+		<rom name="yo-yo_0.u27" size="131072" crc="5aeeac9a" sha1="a3b149fb92075d19aaf9bcd3319d9ae32208fac2" />
+		<rom name="yo-yo_1.u38" size="131072" crc="3f09bbf3" sha1="842a1d11090c91f8b1d14b209d51da4323c82894" />
+		<rom name="yo-yo_2.u26" size="131072" crc="f578e99b" sha1="026b6a243ef3ab345ff6be8bad679f64a081b768" />
+		<rom name="yo-yo_3.u37" size="131072" crc="1af108b9" sha1="36e2d6044781e2b0d37003418eae02b949d3758a" />
+		<rom name="yo-yo_4.u25" size="131072" crc="7e3219c6" sha1="15c9bb1a3ff8e48e1d9a3fb50293d083a54b705c" />
+		<rom name="yo-yo_5.u36" size="131072" crc="d1ebd4a4" sha1="c19bbd39456394acc4d72c0d6cb5eeda50701def" />
+		<rom name="yo-yo_6.u24" size="131072" crc="b1066c4c" sha1="eb0c95eeaf1e4b57d1bb08b110951ba044300361" />
+		<rom name="yo-yo_7.u35" size="131072" crc="3139630c" sha1="39992169bc65590edb209b516af59206ab9f550a" />
+		<rom name="yo-yo_8.u21" size="131072" crc="9f350036" sha1="be42ced534faf850f0b2780d77dda7df9b08cdcc" />
+		<rom name="yo-yo_9.u32" size="131072" crc="7de27e36" sha1="a32e79ab5a6c55df0056710c05ef714e25eda3d4" />
+		<rom name="yo-yo_son_0.u35" size="8192" crc="7f9a2dcf" sha1="37a28fedc690e0486c13eb85c20610e695d7dce3" />
+		<rom name="yo-yo_son_1.u39" size="131072" crc="a075806e" sha1="e0cf67cd22651a450646a35c87dffbf057dc5c21" />
+		<rom name="yo-yo_son_2.u38" size="131072" crc="b31ad4a1" sha1="a464301cf8ca152c23fb206eb52ba0910e1fd02e" />
+	</machine>
+</datafile>

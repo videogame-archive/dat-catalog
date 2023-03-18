@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ngp</name>
+		<description>SNK Neo Geo Pocket cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bstars">
+		<description>Pocket Sports Series - Baseball Stars (Europe, Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="baseball stars (japan, europe) (en,ja).bin" size="1048576" crc="4781ae84" sha1="8ece00f21ae49ed4777a9c990b2782465ef95380" />
+	</machine>
+	<machine name="kof_mlon">
+		<description>King of Fighters R-1 &amp; Melon-chan no Seichou Nikki (Japan, prototype)</description>
+		<year>199?</year>
+		<publisher>SNK</publisher>
+		<rom name="king of fighters r-1 &amp; melon-chan no seichou nikki (japan) (beta).bin" size="2097152" crc="2660bfc4" sha1="a02d1b1113dbeac895832f1501029e40d9aab493" />
+	</machine>
+	<machine name="kofr1">
+		<description>Pocket Fighting Series - King of Fighters R-1 (Europe, Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="king of fighters r-1 (japan, europe) (en,ja).bin" size="2097152" crc="dceb7e11" sha1="4a7adbcccb05b6047a38bb861523cbae7d956bfa" />
+	</machine>
+	<machine name="melonchn">
+		<description>Melon-chan no Seichou Nikki (Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="melon-chan no seichou nikki (japan).bin" size="1048576" crc="cb42cfa4" sha1="2dbf9c40ab0167ff172f10354d4674e5e6c901d5" />
+	</machine>
+	<machine name="neocher">
+		<description>Pocket Casino Series - Neo Cherry Master (Europe, Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="neo cherry master - real casino series (japan, europe) (en,ja).bin" size="1048576" crc="5c067579" sha1="c171d8d22d667d713bfc73c2b1c04bc77aacbb5c" />
+	</machine>
+	<machine name="neocup98">
+		<description>Pocket Sports Series - Neo Geo Cup '98 (Europe, Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="neo geo cup '98 (japan, europe) (en,ja).bin" size="1048576" crc="33add5bd" sha1="445743119c65a6765a0bdc849a12e9038192840c" />
+	</machine>
+	<machine name="ptennis">
+		<description>Pocket Sports Series - Pocket Tennis (Europe, Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="pocket tennis - pocket sports series (japan, europe) (en,ja).bin" size="524288" crc="4b1eed05" sha1="67826f4c8e488938f7e1b26e331f79ebf0aa2565" />
+	</machine>
+	<machine name="samsho">
+		<description>Pocket Fighting Series - Samurai Spirit! (Japan) ~ Samurai Shodown! (Europe)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="samurai shodown - pocket fighting series (japan, europe) (en,ja).bin" size="2097152" crc="32e4696a" sha1="2c6adfa69e7aeada7d4198b373436eee35b70d01" />
+	</machine>
+	<machine name="shougi">
+		<description>Shougi no Tatsujin (Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="shougi no tatsujin (japan).bin" size="524288" crc="f34d0c9b" sha1="ab0c33236f72d2b317d91d034756b56cfca1b0b4" />
+	</machine>
+	<machine name="tsunapn">
+		<description>Renketsu Puzzle Tsunagete Pon! (Japan)</description>
+		<year>1998</year>
+		<publisher>SNK</publisher>
+		<rom name="renketsu puzzle tsunagete pon (japan).bin" size="524288" crc="ce09f534" sha1="cbe53b08d03ef684c08fc6ee28fca168a3d091a7" />
+	</machine>
+</datafile>

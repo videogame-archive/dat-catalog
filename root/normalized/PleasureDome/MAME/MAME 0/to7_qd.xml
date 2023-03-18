@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>to7_qd</name>
+		<description>Thomson TO7 &amp; TO7/70 QD disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="aigleor">
+		<description>L'Aigle d'Or (bad?)</description>
+		<year>1985</year>
+		<publisher>Loriciels</publisher>
+		<rom name="aigleor.qd" size="51200" crc="9bd93158" sha1="71802bcfa261ff32016ab664d9bb39a6ca423822" />
+	</machine>
+	<machine name="beachead">
+		<description>Beach Head</description>
+		<year>1985</year>
+		<publisher>France Image Logiciel (FIL)</publisher>
+		<rom name="beachead.qd" size="51200" crc="a74a5003" sha1="b786d6182af7dda71b8ef89d262d97c7ff300948" />
+	</machine>
+	<machine name="bluewar">
+		<description>Blue War</description>
+		<year>1986</year>
+		<publisher>Free Game Blot</publisher>
+		<rom name="bluewar.qd" size="51200" crc="1e4ef5f7" sha1="27d6336b660a20f514125f1133b7caf14bd35057" />
+	</machine>
+	<machine name="erebus">
+		<description>Erebus</description>
+		<year>1986</year>
+		<publisher>EH Services</publisher>
+		<rom name="erebus1a.qd" size="51200" crc="8bd3f65c" sha1="2c0d9e3abdb0003bd9341a2bcc439517c4a574ab" />
+		<rom name="erebus1b.qd" size="51200" crc="c3c0a0a6" sha1="ffa8696cfbefdfaf497ca3694fbea0c32747982f" />
+		<rom name="erebus2a.qd" size="51200" crc="804f4d94" sha1="1be13476dd5f203c2c89ac035d99455ee2a4790c" />
+		<rom name="erebus2b.qd" size="51200" crc="0a97ab6f" sha1="704e57de58c4663b26d424fa95270d7076bf48e5" />
+	</machine>
+	<machine name="histheat">
+		<description>Histoire de Theatre</description>
+		<year>1985</year>
+		<publisher>Free Game Blot</publisher>
+		<rom name="histheat.qd" size="51200" crc="ee4f562d" sha1="f3f48023c0293d7c2d67df983951489fd7e0aa4e" />
+	</machine>
+	<machine name="histheata">
+		<description>Histoire de Theatre (alt)</description>
+		<year>1985</year>
+		<publisher>Free Game Blot</publisher>
+		<rom name="histheata.qd" size="51200" crc="c2549a06" sha1="ceb6c707f415a2c04d3d0b6f24e30184e838746f" />
+	</machine>
+	<machine name="karate">
+		<description>Karate</description>
+		<year>1985</year>
+		<publisher>Infogrames</publisher>
+		<rom name="karate.qd" size="51200" crc="64d50122" sha1="c740c5ea101ea0e7ee0a73838644322a27dd2d99" />
+	</machine>
+	<machine name="karatea">
+		<description>Karate (alt)</description>
+		<year>1985</year>
+		<publisher>Infogrames</publisher>
+		<rom name="karatea.qd" size="51200" crc="802f4d9d" sha1="7ed3274bd7f6209814ae138150ff0cdd2fbeb262" />
+	</machine>
+	<machine name="lasvegas">
+		<description>Las Vegas</description>
+		<year>1985</year>
+		<publisher>Infogrames</publisher>
+		<rom name="lasvegas1a.qd" size="51200" crc="5d8dec98" sha1="ff5a3d75fdbea267ad70387bf578e546a6048748" />
+		<rom name="lasvegas1b.qd" size="51200" crc="5bf3ae67" sha1="691683069b450ebf98ac6db5e2de7bc31cbc77db" />
+		<rom name="lasvegas2a.qd" size="51200" crc="45b4bafa" sha1="79399bd9dabe54c25a644d0c7784106feb18c738" />
+		<rom name="lasvegas2b.qd" size="51200" crc="ef0d8f9e" sha1="cf5cc651fc2dbb87d14b551fb4ed67fcc954f6c3" />
+	</machine>
+	<machine name="malthaar">
+		<description>La Malediction de Thaar</description>
+		<year>1986</year>
+		<publisher>Coktel Vision</publisher>
+		<rom name="malthaar.qd" size="51200" crc="efd93c89" sha1="f4639a4a6202ef97f59f471c89f823e120edaf0b" />
+	</machine>
+	<machine name="mbridge">
+		<description>Mini Bridge</description>
+		<year>1986</year>
+		<publisher>Edition Informatique Logiciel (EDIL)</publisher>
+		<rom name="mbridge.qd" size="51200" crc="2eef446b" sha1="babbb621e6b227fb5c249afd804e976a327c9a87" />
+	</machine>
+	<machine name="mbridgea">
+		<description>Mini Bridge (alt)</description>
+		<year>1986</year>
+		<publisher>Edition Informatique Logiciel (EDIL)</publisher>
+		<rom name="mbridgea.qd" size="51200" crc="02f48840" sha1="4a84044a9cece29ceeb940257060c0eed82527a4" />
+	</machine>
+	<machine name="meurtatl">
+		<description>Meurtres sur l'Atlantique</description>
+		<year>1986</year>
+		<publisher>Cobrasoft</publisher>
+		<rom name="meurtatl1a.qd" size="51200" crc="c55d6ae7" sha1="0be2e312bee30bb1b44ae278c263adcab5535dee" />
+		<rom name="meurtatl1b.qd" size="51200" crc="37f261bd" sha1="9ccecf4eef1384f3f4c3d0b5009a38ad22ef4fd8" />
+	</machine>
+	<machine name="minediam">
+		<description>La Mine aux Diamants</description>
+		<year>1986</year>
+		<publisher>Infogrames</publisher>
+		<rom name="minediam.qd" size="51200" crc="462df387" sha1="52351f30119d17d4b385b18a79ae8489a4070bea" />
+	</machine>
+	<machine name="poseidon">
+		<description>Poseidon</description>
+		<year>1985</year>
+		<publisher>Coktel Vision</publisher>
+		<rom name="poseidon.qd" size="51200" crc="fa5ef752" sha1="9cafeaf09230945c5c5686958a5e0633422e8a1a" />
+	</machine>
+	<machine name="sanpablo">
+		<description>San Pablo</description>
+		<year>1985</year>
+		<publisher>Coktel Vision</publisher>
+		<rom name="sanpablo.qd" size="51200" crc="bdb21fe6" sha1="5b290a45ae698795bfd7934d61cad727d87dc17e" />
+	</machine>
+	<machine name="sydney">
+		<description>L'Affaire Sydney</description>
+		<year>1986</year>
+		<publisher>Infogrames</publisher>
+		<rom name="sydney1.qd" size="51200" crc="7e8f6e02" sha1="a6dba6ecc7d352b1226a0ed0663dccc93fc10938" />
+		<rom name="sydney2.qd" size="51200" crc="0474c138" sha1="73fa47083029c9db46e5c37c0d957c7e69d7f482" />
+	</machine>
+	<machine name="transfer">
+		<description>Transfer</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="transfer.qd" size="51200" crc="28b91794" sha1="a82e85de2c1d5e83827a5d9d40ef54450bc7eac9" />
+	</machine>
+</datafile>

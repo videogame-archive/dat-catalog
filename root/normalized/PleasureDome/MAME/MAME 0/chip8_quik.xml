@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>chip8_quik</name>
+		<description>CHIP8 quickload</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="addition">
+		<description>Addition Problems</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Addition.c8" size="168" crc="c20dc1ab" sha1="feaa2b999737630a6402e990df4d0558f79ba43e" />
+	</machine>
+	<machine name="airplane">
+		<description>Airplane</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Airplane.c8" size="356" crc="6fd89b3d" sha1="fca71182a8838b686573e69b22aff945d79fe1d0" />
+	</machine>
+	<machine name="animal">
+		<description>Animal Race</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Animal Race.c8" size="1194" crc="6465acef" sha1="a27dcf88a931f70c3ccf3c01a5410b263bac48bc" />
+	</machine>
+	<machine name="astro">
+		<description>Astro Dodge</description>
+		<year>2009</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Astro Dodge09.c8" size="1337" crc="50b589a2" sha1="0b1040d556cba3b8e086f44ea76f78e26fd28093" />
+	</machine>
+	<machine name="astrof">
+		<description>Astro Dodge (fix)</description>
+		<year>2008</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Astro Dodge (fix).c8" size="1119" crc="13a1bdaa" sha1="048659b97e0cf9506eba85ef7baaf21ada22c6f2" />
+	</machine>
+	<machine name="bio">
+		<description>Biorhythm</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Biorhythm.c8" size="910" crc="b197ce7a" sha1="3368d56efeb584c509bafb548f1ee5e71ac1bc70" />
+	</machine>
+	<machine name="blackjack">
+		<description>Blackjack</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Blackjack.c8" size="1166" crc="daed7dc5" sha1="2b711cf58008f03168d0547063fe8e3c72f65ae3" />
+	</machine>
+	<machine name="blinky">
+		<description>Blinky (fix)</description>
+		<year>1991</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Blinky (fix).c8" size="2388" crc="8156ea3f" sha1="5370ecf9ae444c71b63dab9b1f9968a4fe67c9dd" />
+	</machine>
+	<machine name="blitz">
+		<description>Blitz</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="blitz.c8" size="391" crc="d106c808" sha1="6f6509f38220e057a7e32ebb22dd353c1078e3e7" />
+	</machine>
+	<machine name="bowling">
+		<description>Bowling</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Bowling.c8" size="1194" crc="0aeff5a0" sha1="b3fed4ed1eb0ed693c9731dbe53b29a76236c781" />
+	</machine>
+	<machine name="breakout">
+		<description>Breakout</description>
+		<year>1979</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Breakout.c8" size="232" crc="fe8c859b" sha1="193915dcde1365ae054c4eaa21a35baa27cd3356" />
+	</machine>
+	<machine name="brick">
+		<description>Brick</description>
+		<year>1990</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Brick.c8" size="286" crc="3bfced42" sha1="91442577a6bbf8c3267f2df95fdfc50baebe176d" />
+	</machine>
+	<machine name="brix">
+		<description>Brix</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="brix.c8" size="280" crc="aaa44d0b" sha1="f13766c14aeb02ad8d4d103cb5eadd282d20cddc" />
+	</machine>
+	<machine name="cave">
+		<description>Cave</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cave.c8" size="882" crc="3bc80ce8" sha1="5c82520906073287a3ef781746c67207ca084d93" />
+	</machine>
+	<machine name="clock">
+		<description>Clock Program</description>
+		<year>1981</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Clock Program.c8" size="280" crc="04291dd8" sha1="016345d75eef34448840845a9590d41e6bfdf46a" />
+	</machine>
+	<machine name="craps">
+		<description>Craps</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Craps.c8" size="192" crc="21a982fc" sha1="35158696bd94ea22ef34e899fff1f15f7154d4fd" />
+	</machine>
+	<machine name="deflect">
+		<description>Deflection</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Deflection.c8" size="1024" crc="3b2aea72" sha1="8e5f19d8ae9f3346779613359610967a5ed95fa8" />
+	</machine>
+	<machine name="dreaminv">
+		<description>Dream Invaders</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="dreaminvaders.bin" size="1280" crc="31462058" sha1="840078131513dbefc56f08124d5c54ac3ac8cdf5" />
+	</machine>
+	<machine name="fifteen">
+		<description>Fifteen Puzzle</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="15puzzle.c8" size="384" crc="4e8693f1" sha1="ea9af3c09b0d9e265fcd92bcc5d51a2939fdf27a" />
+	</machine>
+	<machine name="figures">
+		<description>Figures</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Figures.c8" size="290" crc="67a9c567" sha1="3b2bf5dc7ffb5f3fbe168e802079f79730535ca8" />
+	</machine>
+	<machine name="filter">
+		<description>Filter</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Filter.c8" size="198" crc="fb592cc5" sha1="ae71a7b081a947f1760cdc147759803aea45e751" />
+	</machine>
+	<machine name="guess">
+		<description>Guess</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="guess.c8" size="148" crc="432e2fe1" sha1="5260f8931e0e9f41e555b382a14a88368e3ed886" />
+	</machine>
+	<machine name="hidden">
+		<description>Hidden</description>
+		<year>1996</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="hidden.c8" size="850" crc="61861ae5" sha1="050f07a54371da79f924dd0227b89d07b4f2aed0" />
+	</machine>
+	<machine name="hiddenf">
+		<description>Hidden (fix)</description>
+		<year>1996</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="hiddenf.c8" size="858" crc="e89c05ab" sha1="9b72b6656cb714cd64de00ac78dc7bf8374adec6" />
+	</machine>
+	<machine name="hilo">
+		<description>Hi-Lo</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Hi-Lo.c8" size="170" crc="6e9ccb66" sha1="dbb52193db4063149c3d8768ab47dd740d90955c" />
+	</machine>
+	<machine name="kaleid2">
+		<description>Kaleidoscope (alt)</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Kaleidoscope.c8" size="122" crc="c73ba60c" sha1="fc724ae0125f5f1ac94a79fe3afc6318b1f57556" />
+	</machine>
+	<machine name="kaleid">
+		<description>Kaleidoscope</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="kaleid.c8" size="120" crc="08a93fae" sha1="d6fa9dc9005dc0496f39ba52fef56f9fd0a5a158" />
+	</machine>
+	<machine name="landing">
+		<description>Landing</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Landing.c8" size="276" crc="804d282c" sha1="72fb3e0a4572bdb81f484df7948a8bc736fe78d0" />
+	</machine>
+	<machine name="life">
+		<description>Life</description>
+		<year>1980</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Life.c8" size="256" crc="fd978291" sha1="efa6bc8f1f35baaa16700d68a83dc4919797e2fe" />
+	</machine>
+	<machine name="llander">
+		<description>Lunar Lander</description>
+		<year>1979</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Lunar Lander.c8" size="1792" crc="f0ec9a3d" sha1="72e8f3a10a32bd7fb91322ecab87249f95e81e57" />
+	</machine>
+	<machine name="mdg">
+		<description>Most Dangerous Game</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Most Dangerous Game.c8" size="1010" crc="e941c6d7" sha1="fa7c04f68d78e0faf6d136a3babe3943fc2e02f1" />
+	</machine>
+	<machine name="merlin">
+		<description>Merlin</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="merlin.c8" size="345" crc="1096c3d5" sha1="d979858bb9ffd07b48f52f92a8bcac0199f3623e" />
+	</machine>
+	<machine name="missile">
+		<description>Missile</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="missile.c8" size="180" crc="6e485c29" sha1="0d0cc129dad3c45ba672f85fec71a668232212cc" />
+	</machine>
+	<machine name="mmind">
+		<description>Mastermind FourRow</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Mastermind FourRow.c8" size="292" crc="2b450d6a" sha1="669e32b6f42f52da658e428f501aabcdfa37fb2e" />
+	</machine>
+	<machine name="nim">
+		<description>Nim</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Nim.c8" size="182" crc="1b459fa0" sha1="4031dae5c7545a1adc160a661be36f19fc1d47b2" />
+	</machine>
+	<machine name="paddles">
+		<description>Paddles</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Paddles.c8" size="560" crc="5c786254" sha1="a18f1e3897416180b32e47ddc82cba9aca2c8d52" />
+	</machine>
+	<machine name="pong1">
+		<description>Pong (1 player)</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Pong (1 player).c8" size="246" crc="841fde23" sha1="607c4f7f4e4dce9f99d96b3182bfe7e88bb090ee" />
+	</machine>
+	<machine name="pong">
+		<description>Pong</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="pong.c8" size="246" crc="7d75a857" sha1="b232ef880bd6060fb45fa6effed7edf0ae95670e" />
+	</machine>
+	<machine name="ponga">
+		<description>Pong (alt)</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Pong (alt).c8" size="264" crc="69970ad2" sha1="a60611339661e3ab2d8af024ad1da5880a6f8665" />
+	</machine>
+	<machine name="ps">
+		<description>Programmable Spacefighters</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Programmable Spacefighters.c8" size="1020" crc="cc8eec70" sha1="726cb39afa7e17725af7fab37d153277d86bff77" />
+	</machine>
+	<machine name="puzzle">
+		<description>Puzzle</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="puzzle.c8" size="184" crc="040ca946" sha1="1293db0ccccbe7dd3fc5a09a2abc5d7b175e18e0" />
+	</machine>
+	<machine name="reversi">
+		<description>Reversi</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Reversi.c8" size="578" crc="02393966" sha1="ff639eceaf221ae66151a03779b41fae7118d2d8" />
+	</machine>
+	<machine name="rocket">
+		<description>Rocket</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Rocket.c8" size="130" crc="428c1e4d" sha1="3d1d029d6e31206d245c0ba881c0d1f003953bad" />
+	</machine>
+	<machine name="rocketl">
+		<description>Rocket Launch</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Rocket Launch.c8" size="494" crc="bb286fea" sha1="5e70f91ca08e9b9e9de61670492e3db2d7f7d57a" />
+	</machine>
+	<machine name="rroul">
+		<description>Russian Roulette</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Russian Roulette.c8" size="156" crc="dd68f8d1" sha1="24960090b2afc9de2a4cb3ee7daf6a21456bb49b" />
+	</machine>
+	<machine name="rushhour2">
+		<description>Rush Hour</description>
+		<year>2006</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Rush Hour (alt).c8" size="3582" crc="a423f9e7" sha1="29a41ab4d0aa3bc0d6a9d2fa71d533fe463344b3" />
+	</machine>
+	<machine name="rushhour">
+		<description>Rush Hour (v1.1)</description>
+		<year>2008</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Rush Hour.c8" size="3582" crc="050a0a72" sha1="4639f86beb0a203ae512b85d3b56d813b2dea7b4" />
+	</machine>
+	<machine name="sflight">
+		<description>Space Flight</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Space Flight.c8" size="716" crc="dbc74090" sha1="aa4f1a282bd64a2364102abf5737a4205365a2b4" />
+	</machine>
+	<machine name="sinter">
+		<description>Space Intercept</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="ufo.c8" size="192" crc="8c99c724" sha1="ed829190e37815771e7a8c675ba0074996a2ddb0" />
+	</machine>
+	<machine name="slide">
+		<description>Slide</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Slide.c8" size="388" crc="746a9de0" sha1="7623fa0fa915979226566b24107360e7537735f4" />
+	</machine>
+	<machine name="snafu">
+		<description>Snafu</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="snafu.c8" size="469" crc="de286f9b" sha1="97a65f7c877f923a93e7b423ad39187e91e938fd" />
+	</machine>
+	<machine name="soccer">
+		<description>Soccer</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Soccer.c8" size="334" crc="017884e3" sha1="6df358d77961a0bf21e98876f9f616791cba31e3" />
+	</machine>
+	<machine name="squash">
+		<description>Squash</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Squash.c8" size="211" crc="801843e0" sha1="a58ec7cc63707f9e7274026de27c15ec1d9945bd" />
+	</machine>
+	<machine name="sshoot">
+		<description>Sequence Shoot</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Sequence Shoot.c8" size="324" crc="5a83ff48" sha1="448f9d30d2157ab42679b809d4fb0b43d145f74f" />
+	</machine>
+	<machine name="sstars">
+		<description>Shooting Stars</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Shooting Stars.c8" size="204" crc="200382c1" sha1="443550abf646bc7f475ef0466f8e1232ec7474f3" />
+	</machine>
+	<machine name="submarine">
+		<description>Submarine</description>
+		<year>1978</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Submarine.c8" size="288" crc="cb331b6a" sha1="89aadf7c28bcd1c11e71ad9bd6eeaf0e7be474f3" />
+	</machine>
+	<machine name="syzygy">
+		<description>Syzygy</description>
+		<year>1990</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="syzygy.c8" size="946" crc="67e4bf9c" sha1="1bdb4ddaa7049266fa3226851f28855a365cfd12" />
+	</machine>
+	<machine name="tank">
+		<description>Tank</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="tank.c8" size="560" crc="a929cb73" sha1="18b9d15f4c159e1f0ed58c2d8ec1d89325d3a3b6" />
+	</machine>
+	<machine name="tapeworm">
+		<description>Tapeworm</description>
+		<year>1999</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Tapeworm.c8" size="284" crc="c77a1852" sha1="775e82a36c93f1b41b42eca94b55acbc4a48cebe" />
+	</machine>
+	<machine name="tetris">
+		<description>Tetris</description>
+		<year>1991</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="tetris.c8" size="494" crc="0ce70772" sha1="5f518084744bf3cb8733f6e5454dfd1634320563" />
+	</machine>
+	<machine name="tictactoef">
+		<description>Tic-Tac-Toe (fix)</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Tic-Tac-Toe (fix).c8" size="490" crc="64225f6a" sha1="40329847cb898f9b34a6aea1095be0a1be0b4546" />
+	</machine>
+	<machine name="timebomb">
+		<description>Timebomb</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Timebomb.c8" size="144" crc="4db1c26c" sha1="67996195539c0ddcd98533a01dffeec6a53a6da1" />
+	</machine>
+	<machine name="tron">
+		<description>Tron</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Tron.c8" size="382" crc="e5b40a11" sha1="a6a6cb2351c20b8f904da07c0ce91bd8161e9317" />
+	</machine>
+	<machine name="ufo">
+		<description>UFO</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="ufo.c8" size="224" crc="331413e7" sha1="bdb92475acfe11bc7814a2f5eade13fcd09b756a" />
+	</machine>
+	<machine name="vbrix">
+		<description>V-brix</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="vbrix.c8" size="507" crc="608c6ab0" sha1="da710f631f8e35534d0b9170bcf892a60f49c43d" />
+	</machine>
+	<machine name="vddg">
+		<description>Video Display Drawing Game</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Video Display Drawing Game.c8" size="80" crc="1f91e53b" sha1="12fccf60004f685c112fe3db3d3bcfba104cbcb1" />
+	</machine>
+	<machine name="vers">
+		<description>Vers</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="vers.c8" size="230" crc="0dbf7208" sha1="ade839585ddeb0e3633177df03c1d91589e629eb" />
+	</machine>
+	<machine name="wipeoff">
+		<description>Wipeoff</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="wipeoff.c8" size="206" crc="b2696048" sha1="d666688a8fce468a7d88b536bc1ef5f35ba12031" />
+	</machine>
+	<machine name="wormv4">
+		<description>Worm V4</description>
+		<year>2007</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="Worm V4.c8" size="677" crc="fcfbe07d" sha1="a1c1e0e7b01004be3ee77c69030e6b536cb316e6" />
+	</machine>
+	<machine name="xmirror">
+		<description>X-Mirror</description>
+		<year>????</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="X-Mirror.c8" size="106" crc="15965766" sha1="bc158d819890f16f105b8a316eeeefe4a0bad875" />
+	</machine>
+	<machine name="xrayf">
+		<description>X-Ray (fix)</description>
+		<year>1980</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="X-Ray (fix).c8" size="3584" crc="bf0da612" sha1="4701417c61d80d40fe6e3ae06d891cbe730c0dc7" />
+	</machine>
+</datafile>

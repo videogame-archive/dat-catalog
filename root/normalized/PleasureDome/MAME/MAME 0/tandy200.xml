@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>tandy200</name>
+		<description>Tandy 200 Option ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="r2c">
+		<description>ROM2/Cleuseau</description>
+		<year>198?</year>
+		<publisher>Polar Engineering</publisher>
+		<rom name="r2c200.bin" size="32768" crc="f0fb2d77" sha1="48c07cf283c327b5f703acc51c844cc347c8ecf6" />
+	</machine>
+	<machine name="tsdos">
+		<description>TS-DOS v4.00</description>
+		<year>1987</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="tsdos200.bin" size="32768" crc="94444744" sha1="0580347ca123ad88e0042eb94d4393a9bc133a15" />
+	</machine>
+	<machine name="tword">
+		<description>T-Word with Sardine v1.33</description>
+		<year>1986</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="sard200.bin" size="32768" crc="3e853cf6" sha1="30b2b1ce50d00f75364a9ecd7a4283a6bc26c70d" />
+	</machine>
+	<machine name="ur2">
+		<description>The Ultimate ROM II v2.11</description>
+		<year>1986</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="ur2200.bin" size="32768" crc="771d4fdf" sha1="09bbe0c8cf690a62748ab1c9ffd82ba4c9388305" />
+	</machine>
+</datafile>

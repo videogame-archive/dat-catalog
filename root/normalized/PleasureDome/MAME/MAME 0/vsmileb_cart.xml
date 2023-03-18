@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vsmileb_cart</name>
+		<description>VTech V.Smile Baby cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="babyeins">
+		<description>Baby Einstein - World of Discoveries (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="Baby Einstein (U) 099040 (Baby).bin" size="8388608" crc="9510fdba" sha1="ab7790b26b17fe000b9cef716e9c2aaa95b570f6" />
+	</machine>
+	<machine name="babyeinsa">
+		<description>Baby Einstein - World of Discoveries (USA, alt)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="Baby Einstein (U) (Baby).bin" size="8388608" crc="d8f964e4" sha1="b3bb1be91e51b9d19f2d03aeff7d8c3d05f38d74" />
+	</machine>
+	<machine name="babyeinsfr">
+		<description>Baby Einstein - Un monde de découvertes (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="099045 - Baby Einstein (BABY) (FR).bin" size="8388608" crc="d0690ae6" sha1="bde281db67b477798974983a505bed7497e25763" />
+	</machine>
+	<machine name="backyardi">
+		<description>Nickelodeon The Backyardigans - Big Backyard Adventure (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="The Backyardigans (U) 099240 (Baby).bin" size="8388608" crc="2a1d80a4" sha1="aeab9a3458f2740a959a05e0ffe8103ecfcee3bf" />
+	</machine>
+	<machine name="barney">
+		<description>Barney - Let's Go to a Party (USA)</description>
+		<year>2007</year>
+		<publisher>VTech</publisher>
+		<rom name="Barney (U) 099120 (Baby).bin" size="8388608" crc="77867487" sha1="5c7be12b4767f2679e1148d0ffd4b7232f4f7563" />
+	</machine>
+	<machine name="carebear">
+		<description>Care Bears - Play Day (USA)</description>
+		<year>2008</year>
+		<publisher>VTech</publisher>
+		<rom name="Care Bears (U) 099220 (Baby).bin" size="8388608" crc="4a791d18" sha1="39d70dbeccd6ddf4fcbe3cee5c0630ea9059c3ac" />
+	</machine>
+	<machine name="dayfarm">
+		<description>A Day on the Farm (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="A Day on the Farm (U) (Baby).bin" size="8388608" crc="7f93ea7b" sha1="a130881e45c6a6a6158f64c2e7fb51d55fb2a15f" />
+	</machine>
+	<machine name="dayfarmfr">
+		<description>Un jour à la ferme (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="099065 - Un Jour A La Ferme (BABY) (FR).bin" size="8388608" crc="a2777808" sha1="bbd2ae83d7ff43caa1e1d74b050d6130a0cd5e6f" />
+	</machine>
+	<machine name="dayfarmge">
+		<description>Mein erster Bauernhof (Germany)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="27-08788-000.u4" size="8388608" crc="581e16f9" sha1="330b309644db9f017d275b9df0ffe7530ed5bcef" />
+	</machine>
+	<machine name="dayfarmsp">
+		<description>Un Día en la Granja (Spain)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="99067 - Un Dia en la Granja (SP).bin" size="8388608" crc="03735215" sha1="228dc683ba1f7f7f4a61a34b29d61fe9077d2cab" />
+	</machine>
+	<machine name="dbabymi">
+		<description>Discovery with Baby Mickey &amp; Friends (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="Disney Baby - Discovery with Baby Mickey and Friends (U) (Baby).bin" size="8388608" crc="8b694c2c" sha1="7d3ac29cda9728545bd040af182cb78f9a7b7c02" />
+	</machine>
+	<machine name="dbabymifr">
+		<description>Les découvertes de Mickey et ses amis (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="099165 - MickeyEtSesAmis (BABY) (FR).bin" size="8388608" crc="2d1e5884" sha1="9b3b00e8a7c29155ce2dfab28c6bc09b0ffa11b8" />
+	</machine>
+	<machine name="learndhfr">
+		<description>La Maison Des Animaux (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="099005 - La Maison Des Animaux (BABY) (FR).bin" size="8388608" crc="4ab4d311" sha1="584a5b359010636286de626a51c71c0c5bdcb864" />
+	</machine>
+	<machine name="learndhge">
+		<description>Meine kleinen Tierfreunde (Germany)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="99004.u4" size="8388608" crc="7b48544b" sha1="a736ef1313762c493a366990406c3a7393457b6e" />
+	</machine>
+	<machine name="learndhnl">
+		<description>Dierenhuis (Netherlands)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="99002 - Dierenhuis (NL).bin" size="8388608" crc="77adb3aa" sha1="0c9f96effb9e113c5e5050b074620ed27013d71f" />
+	</machine>
+	<machine name="mothergoo">
+		<description>Mother Goose (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="Mother Goose (U) 099200 (Baby).bin" size="8388608" crc="1ef9e246" sha1="2093034c442c5bd7ace376eb9aa4e9c8378c75a4" />
+	</machine>
+	<machine name="noahark">
+		<description>Noah's Ark - Animal Adventures (USA)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="Noah's Ark Animal Adventures (U) 99100 (Baby).bin" size="8388608" crc="039d0465" sha1="826fd675f300fb14293344f6f180abc38b794e40" />
+	</machine>
+	<machine name="noaharkfr">
+		<description>L'arche de Noé - L'aventure des animaux (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="099105 - ArcheDeNoe (BABY) (FR).bin" size="8388608" crc="745f97b3" sha1="a1d82044e215730a4c8ad7440360ee6336e01b01" />
+	</machine>
+	<machine name="poohhawa">
+		<description>Pooh's Hundred Acre Wood Adventure (USA)</description>
+		<year>2007</year>
+		<publisher>VTech</publisher>
+		<rom name="Disney Baby - Pooh's Hundred Acre Wood Adventure (U) 099020 (Baby).bin" size="8388608" crc="31e6ccc5" sha1="2379b95910b171aa984d41b3a11d295639e5c8da" />
+	</machine>
+	<machine name="poohhawase">
+		<description>Nalle Puhs Äventyr i Sjumilaskogen (Sweden)</description>
+		<year>2007?</year>
+		<publisher>VTech</publisher>
+		<rom name="99034.u4" size="8388608" crc="5dbe1c20" sha1="51f56cedbe99fc7438429a4c02c08f65d2313790" />
+	</machine>
+	<machine name="teletub">
+		<description>Teletubbies - Time for Teletubbies (USA)</description>
+		<year>2007</year>
+		<publisher>VTech</publisher>
+		<rom name="Teletubbies - Time for Teletubbies (U) 099140 (Baby).bin" size="8388608" crc="f4950adb" sha1="92b1d5ca2c6c249872a17a3820082eb24aa0ebe3" />
+	</machine>
+	<machine name="teletubfr">
+		<description>Teletubbies - C'est l'heure des Teletubbies (France)</description>
+		<year>2007?</year>
+		<publisher>VTech</publisher>
+		<rom name="099145 - Teletubbies (BABY) (FR).bin" size="8388608" crc="374cc936" sha1="462bf0a16eb16bd4ca008d9e57a914f88986920b" />
+	</machine>
+</datafile>

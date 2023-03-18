@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME - Update CHDs (v0.251 to v0.252)</name>
+		<description>MAME - Update CHDs (v0.251 to v0.252)</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="doodlejmp">
+		<description>doodlejmp</description>
+		<rom name="doodlejump_recover_dvd_1_16.chd" size="2357121896" crc="5ed4f974" sha1="bc531228ac098d00c61bb7a6cabc68d5a19e975a"/>
+	</machine>
+	<machine name="gmfamily">
+		<description>gmfamily</description>
+		<rom name="gamesfamily_1.1.chd" size="7447991447" crc="c8ddcea3" sha1="89874bf554fc992aea03c8fbdba8b740f3429650"/>
+	</machine>
+	<machine name="hydrthnd100d">
+		<description>hydrthnd100d</description>
+		<rom name="hydro_100d.chd" size="172609411" crc="f0f7ae25" sha1="7b040743a5d471d6bf7d00c48014a39d609e3801"/>
+	</machine>
+	<machine name="hydrthnd101b">
+		<description>hydrthnd101b</description>
+		<rom name="hydro_101b.chd" size="173238947" crc="adac17b3" sha1="e0bbd0ace54fce1a1cc672236d791091dfe70e63"/>
+	</machine>
+	<machine name="neomania">
+		<description>neomania</description>
+		<rom name="neomania.chd" size="919767880" crc="8b638974" sha1="d40997e25bcb5912f738b87cc7c003dd54e8330b"/>
+	</machine>
+	<machine name="plycntrchtr">
+		<description>plycntrchtr</description>
+		<rom name="playcenter_epox_9.3_tournament.chd" size="655618170" crc="1cfefc6d" sha1="b0802461a3d1874757a8b571f6da962cc271ffff"/>
+	</machine>
+	<machine name="plycntrchtrc">
+		<description>plycntrchtrc</description>
+		<rom name="playcenter_celeron_9.3_tournament.chd" size="624582010" crc="2e07b108" sha1="1299fe1941daf78f27dc7aea64f524311e048302"/>
+	</machine>
+	<machine name="plycntrchtrk">
+		<description>plycntrchtrk</description>
+		<rom name="playcenter_k6_9.3_tournament.chd" size="658647269" crc="6d893bb1" sha1="d14da061547b748ebf00406e433bb9091624cf14"/>
+	</machine>
+</datafile>

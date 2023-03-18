@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>fmtowns_flop_cracked</name>
+		<description>Fujitsu FM Towns cracked floppy disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="asuka120">
+		<description>Asuka 120% Burning Fest. (cracked)</description>
+		<year>1994</year>
+		<publisher>ファミリーソフト (Family Soft)</publisher>
+		<rom name="asuka 120 burning fest. (disk a).hdm" size="1261568" crc="46a5074d" sha1="8efb863ea0878f9236082f7d7935f494c4522899" />
+		<rom name="asuka 120 burning fest. (disk b).hdm" size="1261568" crc="2a448e8f" sha1="3b57fd0a2fecec56a3362884de0770ec4538f5eb" />
+		<rom name="asuka 120 burning fest. (disk c).hdm" size="1261568" crc="ac9a582e" sha1="726b05d573e0776006cee6aa8c71009b1e66b5cc" />
+	</machine>
+	<machine name="cameltry">
+		<description>Cameltry (cracked)</description>
+		<year>1994</year>
+		<publisher>電波新聞社 (Dempa Shinbunsha)</publisher>
+		<rom name="cameltry_fixed.bin" size="1261568" crc="8d98efc1" sha1="1537ea0addb4398b846a7582b54895533a984dd1" />
+	</machine>
+	<machine name="columns">
+		<description>Columns (cracked)</description>
+		<year>1990</year>
+		<publisher>日本テレネット (Nihon Telenet)</publisher>
+		<rom name="columns.hdm" size="1261568" crc="312d2c79" sha1="1c60aaa0028eb6570ecd2303e63e86598362226e" />
+	</machine>
+	<machine name="supdaisn">
+		<description>Super Daisenryaku (cracked?)</description>
+		<year>1990</year>
+		<publisher>システムソフト (SystemSoft)</publisher>
+		<rom name="superdaisen_1.xdf" size="1261568" crc="49aa5147" sha1="39be212fbef4ef4a93642f6e47dd6d1bae3cb937" />
+		<rom name="superdaisen_2.xdf" size="1261568" crc="c7f7f2d3" sha1="394ac85565728e69c30c3cf974d4a3031267f86d" />
+	</machine>
+</datafile>

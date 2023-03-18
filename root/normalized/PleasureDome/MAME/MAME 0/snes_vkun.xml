@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>snes_vkun</name>
+		<description>Voicer-kun audio compact discs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="angelvf">
+		<description>Angelique - Voice Fantasy (Jpn)</description>
+		<year>1996</year>
+		<publisher>Koei</publisher>
+		<disk name="angelvf" sha1="97aa958bc0ae6cbb9ede9b00dd54e1e1750077aa" status="baddump" />
+	</machine>
+</datafile>

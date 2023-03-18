@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pcd_flop</name>
+		<description>Siemens PC-D disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dos31">
+		<description>MS-DOS 3.1 boot disk</description>
+		<year>198?</year>
+		<publisher>Siemens</publisher>
+		<rom name="D310B540.td0" size="453436" crc="fd86dd0a" sha1="5916eeee276cab00c6a516bc22d297d5b8b35852" />
+	</machine>
+	<machine name="dos211">
+		<description>MS-DOS 2.11 boot disk</description>
+		<year>198?</year>
+		<publisher>Siemens</publisher>
+		<rom name="TEST.td0" size="331560" crc="7a518009" sha1="5d5c212d3b82f43eafd86bc6becdf88425def3db" />
+	</machine>
+	<machine name="lern">
+		<description>Lernprogramme</description>
+		<year>1986</year>
+		<publisher>Siemens</publisher>
+		<rom name="lernpcd1.td0" size="323511" crc="bb65e283" sha1="c20d06d1f0c1106dc751557c497d2e321a51cead" />
+		<rom name="lernpcd2.td0" size="606404" crc="91eb3a80" sha1="37380f5becd5753292789c9436d2cf651d76debb" />
+	</machine>
+	<machine name="tds">
+		<description>TDS diagnostics</description>
+		<year>1987</year>
+		<publisher>Siemens</publisher>
+		<rom name="TDS32_1.td0" size="371986" crc="b551339b" sha1="84d5377ee7e1e89b2bd4e5aebd2a1afd22fb49b2" />
+		<rom name="TDS32_2.td0" size="381220" crc="50068d32" sha1="b7a451c264f11385e7c71567f12d3fd4058480f9" />
+	</machine>
+</datafile>

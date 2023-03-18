@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME Reference Sets Samples</name>
+		<description>MAME Reference Sets Samples</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="zip"/>
+	</header>
+	<machine name="005">
+		<description>005</description>
+		<rom name="dropbomb.wav" size="83958" crc="720a9937" sha1="430cb344ac862508d6e75526dccd17e89b139f8f"/>
+		<rom name="heilcopt.wav" size="238716" crc="2fe46b63" sha1="886127a67ade43ca3b05cedde3b0501fc13e28c9"/>
+		<rom name="helicopt.wav" size="238716" crc="2fe46b63" sha1="886127a67ade43ca3b05cedde3b0501fc13e28c9"/>
+		<rom name="lexplode.wav" size="116072" crc="732e14fc" sha1="c6a4a5a32c37c0467c5980489fba7543894e23bc"/>
+		<rom name="missile.wav" size="92926" crc="db4f47b3" sha1="008fd9f10daa85af294c1bf8f9cc8ffa9cbac6bd"/>
+		<rom name="sexplode.wav" size="54192" crc="1f71b538" sha1="9f3349235608cab5f8b21b8989b5a782e6fcfdf3"/>
+		<rom name="shoot.wav" size="21836" crc="030b6a18" sha1="625fb54b0671f6c073d4182c54c2a0d9c9dd313c"/>
+		<rom name="whistle.wav" size="332556" crc="6f0dddd1" sha1="711be78233fc7ce8ba66896b0287645c355038b7"/>
+	</machine>
+	<machine name="3bagflvt">
+		<description>3bagflvt</description>
+		<rom name="tick.wav" size="386" crc="52ad2b5a" sha1="b3e7f6c5d07072bb137206e9c3caeee31df947d2"/>
+	</machine>
+	<machine name="alphamc07">
+		<description>alphamc07</description>
+		<rom name="bongo1.wav" size="8684" crc="0b5efba3" sha1="6d482e9d305e000c74e554622f6e52e48a1c3b0f"/>
+		<rom name="bongo2.wav" size="12652" crc="e7d09141" sha1="fb1e25bb0e6bb5438a621f5cd164eb176febc8a0"/>
+		<rom name="bongo3.wav" size="16492" crc="964fdf19" sha1="5a66655cb2df690e48da2a935619732714abd151"/>
+	</machine>
+	<machine name="aristmk4">
+		<description>aristmk4</description>
+		<rom name="tick.wav" size="386" crc="52ad2b5a" sha1="b3e7f6c5d07072bb137206e9c3caeee31df947d2"/>
+	</machine>
+	<machine name="armora">
+		<description>armora</description>
+		<rom name="BEEP.WAV" size="266" crc="ae7c76e9" sha1="606b835ba5817f6c28727be7f93c4df367afa6f7"/>
+		<rom name="CHOPPER.WAV" size="238716" crc="2fe46b63" sha1="886127a67ade43ca3b05cedde3b0501fc13e28c9"/>
+		<rom name="HIEXP.WAV" size="301100" crc="0b7a3b15" sha1="a956d573b77eb4d268f791059133b04efa9a6879"/>
+		<rom name="JEEPFIRE.WAV" size="100996" crc="0daf0fe4" sha1="2b04d3d65886b1720e52d0e4d6fd040372af871e"/>
+		<rom name="LOEXP.WAV" size="336108" crc="c858abf7" sha1="4e2a4f8df9a68f336a39368302531438030fd22f"/>
+		<rom name="readme.txt" size="35" crc="b8f95fd8" sha1="6df72225dc495ed03f52a1fffa6244ffe9d86a6a"/>
+		<rom name="TANKENG.WAV" size="140332" crc="223347cf" sha1="053e35283987f1f0804135147da4d4f6ef44528f"/>
+		<rom name="TANKFIRE.WAV" size="262364" crc="4b10c75b" sha1="1eadd9bb4514e5928a3c920808704a03c9d86fab"/>
+	</machine>
+	<machine name="astdelux">
+		<description>astdelux</description>
+		<rom name="explode1.wav" size="9575" crc="5ab4cda9" sha1="4a51a8b6c9154becf628a13026dc9c7749c32608"/>
+		<rom name="explode2.wav" size="10948" crc="90c014d5" sha1="9e1a3006758790b3c88beb2a53c3d01f0a84efd1"/>
+		<rom name="explode3.wav" size="9575" crc="48876edf" sha1="97c9d4e3ff78f5604941a00b03807ebef1a9d6a0"/>
+		<rom name="thrust.wav" size="1002" crc="96358a76" sha1="8096fd4861bc5103bcbf8c639b2260d1714b2fc1"/>
+	</machine>
+	<machine name="asteroid">
+		<description>asteroid</description>
+		<rom name="explode1.wav" size="9575" crc="5ab4cda9" sha1="4a51a8b6c9154becf628a13026dc9c7749c32608"/>
+		<rom name="explode2.wav" size="10948" crc="90c014d5" sha1="9e1a3006758790b3c88beb2a53c3d01f0a84efd1"/>
+		<rom name="explode3.wav" size="9575" crc="48876edf" sha1="97c9d4e3ff78f5604941a00b03807ebef1a9d6a0"/>
+		<rom name="fire.wav" size="2719" crc="d9072ca7" sha1="02376fa30d978a541870ade17acd43db6909b5e1"/>
+		<rom name="life.wav" size="15059" crc="f7a26cb0" sha1="43530a835a0f663fed27e3959bd6b774860392c7"/>
+		<rom name="lsaucer.wav" size="1908" crc="db12d9ae" sha1="dd27ef07e22bd40e01c5d6aac3ea312b024b5352"/>
+		<rom name="sfire.wav" size="2581" crc="ea42e651" sha1="3d3f0588e41b73f0fca489b31ee5e52cae350597"/>
+		<rom name="ssaucer.wav" size="1422" crc="39fbf81f" sha1="71a0084b312044731996fa14ac26f706985fefd7"/>
+		<rom name="thrust.wav" size="1002" crc="96358a76" sha1="8096fd4861bc5103bcbf8c639b2260d1714b2fc1"/>
+		<rom name="thumphi.wav" size="867" crc="376b3730" sha1="083f5cdaf583e434e5d136123d7eb6494e53af60"/>
+		<rom name="thumplo.wav" size="798" crc="02fcaf43" sha1="965cb26e11d7bd1d0d3d2ef521a22e85bdcafcd8"/>
+	</machine>
+	<machine name="astrob">
+		<description>astrob</description>
+		<rom name="01.wav" size="21462" crc="750b08c9" sha1="c359641e21b42afdc763ab2441f30f624c347446"/>
+		<rom name="02.wav" size="54624" crc="393896fb" sha1="98308f482887470551a6f108cdb58a708ff4b8ec"/>
+		<rom name="03.wav" size="23954" crc="586081fc" sha1="ff05218f3a4aef0a7519f3ae53795ea9d84371f4"/>
+		<rom name="04.wav" size="44702" crc="42bbd222" sha1="47c915078678e72c9b8d4814a682c12868a63cc7"/>
+		<rom name="05.wav" size="39106" crc="7dba7be5" sha1="db2d612a5dac3ca96c71b4dae7e08adfca4d00b1"/>
+		<rom name="06.wav" size="48286" crc="ebf9f9e5" sha1="f2a3b2b69a856ca4f956e605457e7902b085754b"/>
+		<rom name="07.wav" size="80018" crc="d964a860" sha1="4a46c1e0deb733953fefcf389b3ac610a61c1e8d"/>
+		<rom name="08.wav" size="76696" crc="67ad4cde" sha1="7b11c0e2fa5e5f48f58a5af210a7349c00b3cf2f"/>
+		<rom name="09.wav" size="45958" crc="fcfcfc65" sha1="7fde0dc954f39f0930a963cc2545c4128b252c6e"/>
+		<rom name="0a.wav" size="26690" crc="df2a1a52" sha1="d8cbdce035cc248156098544ca5a9a904eea5118"/>
+		<rom name="0b.wav" size="40214" crc="75792baa" sha1="f1649bf0cae0d7f557f1048b610bedbfb637924f"/>
+		<rom name="0c.wav" size="30834" crc="0f312443" sha1="a6b83ccf47e5a14b716ea5488abde0d0ad6a75da"/>
+		<rom name="0d.wav" size="18012" crc="4f3f0dd3" sha1="b8fc0ff765e0ffaefdcd303f964796633cbc875e"/>
+		<rom name="0e.wav" size="11224" crc="99e05616" sha1="ec3cee8799832d7313eedfa34d1dfa359f33d879"/>
+		<rom name="0f.wav" size="25276" crc="08c0402e" sha1="37dd9b59a80156c5f5b54e1a72f83d167902c9c6"/>
+		<rom name="10.wav" size="27096" crc="c5c5678b" sha1="d00ad5ef886b8731e72f1f231dc4b3b6efc1617d"/>
+		<rom name="11.wav" size="33004" crc="64f3a41a" sha1="93f8bacf048b6950d74db3cf18b0666c01bd8820"/>
+		<rom name="12.wav" size="29972" crc="2f88bc47" sha1="13b78510bad1b5f19c9182405f557de892bb0c92"/>
+		<rom name="13.wav" size="33278" crc="c03ee0d2" sha1="fe440bd2a3be2e077a30c39fc65ac7df5d7ad8e8"/>
+		<rom name="14.wav" size="19668" crc="09a3701a" sha1="70296e1fe1fbc1b9d94c31bd0cd3bb678ad34f48"/>
+		<rom name="15.wav" size="28948" crc="d8f80c4b" sha1="33a42f011096fe6937b96840ff7b6fc2ace3a32a"/>
+		<rom name="16.wav" size="17004" crc="e9b7f4aa" sha1="f9fd9219d9e1343240bf4cd171ee77b190e27027"/>
+		<rom name="17.wav" size="26824" crc="7d3bbc07" sha1="4fd201f41c62808ce08e812ec4d9ef2d97dbe147"/>
+		<rom name="18.wav" size="21626" crc="a0b2f1fc" sha1="f483e0108f3fdec67821c453d68bdfb9f1b338e2"/>
+		<rom name="19.wav" size="26666" crc="9b568f8b" sha1="08105ee266dd50f48239807e1d61e8942123860b"/>
+		<rom name="1a.wav" size="23358" crc="e5ed2501" sha1="8be9db308443832f99ed6f7508dd3ccfdc02bd6e"/>
+		<rom name="1b.wav" size="21154" crc="2d43df6e" sha1="b51b038e9fb762062c4b02cc8baf8a911a7d0e30"/>
+		<rom name="1c.wav" size="20126" crc="e1b0753c" sha1="0a515a65ed896c3f7f1e8e4c9d96044bedb9e2eb"/>
+		<rom name="1d.wav" size="24124" crc="8fe89a6b" sha1="0e133136860d487c88af4c1d4ab73a60a65bbc4d"/>
+		<rom name="1e.wav" size="23314" crc="41236c96" sha1="456ffb168b361f28cde59139a6f09183d46d2e19"/>
+		<rom name="1f.wav" size="96272" crc="be2abcdf" sha1="9af4c2c4731b1bc0eb703d765f98ce39cd80077c"/>
+		<rom name="20.wav" size="65832" crc="f03eb33e" sha1="6267e9f504a3ef7010ee06f8927a18848e19fc44"/>
+		<rom name="22.wav" size="58340" crc="800d4d6f" sha1="5eedafd9edbc38fa9b1d72479d71f32b7bd47b77"/>
+		<rom name="23.wav" size="44940" crc="348a8da1" sha1="7db3d8a33f70e6db251fc67dbaf75e5754aed14d"/>
+		<rom name="asteroid.wav" size="15242" crc="b73939cb" sha1="b5427bbb825f87de47c230b25113b912804c07c8"/>
+		<rom name="deedle.wav" size="139716" crc="d9af1ea3" sha1="2f30b1960ad7848e166e0db211d035cba6774f21"/>
+		<rom name="ebullet.wav" size="14746" crc="c59e0d03" sha1="9c840d1da36a543a9a0a1ece246497c197d8e756"/>
+		<rom name="eexplode.wav" size="16624" crc="30ffa10a" sha1="54469c3ae6a5d228836dd13a3a0ba2d83b28e27a"/>
+		<rom name="invadr1.wav" size="35626" crc="d9735c5d" sha1="a0dcea035933a52ba6137a9268ea8bbcd3637087"/>
+		<rom name="invadr2.wav" size="6530" crc="e4b36d91" sha1="741ed1d04078eaa94f546df954b50659b5b645f1"/>
+		<rom name="invadr3.wav" size="57328" crc="b9adcd0f" sha1="b83e39a976270915b7f9b196bcc0f290bd127111"/>
+		<rom name="invadr4.wav" size="36352" crc="ad89f8ed" sha1="1ba63645e5011330517889969459c5c50ae05786"/>
+		<rom name="pbullet.wav" size="13272" crc="494e86ef" sha1="5e244e01b78522afba0ff6a5eba477232e427ff1"/>
+		<rom name="pexplode.wav" size="133122" crc="c73a41f0" sha1="3a1a2ee5f62a4269397350c38e79159fd3a3dc6f"/>
+		<rom name="refuel.wav" size="308126" crc="96139830" sha1="482f812f6f9ad6633899d08ed6a921a741a56f0a"/>
+		<rom name="sonar.wav" size="64792" crc="4127796f" sha1="06614f588b63f489aa60a21acc30c0c2eecbb3ce"/>
+		<rom name="winvadr1.wav" size="95568" crc="7b5bc42f" sha1="ed00d64b8ae21af487f0c8e80933b7921ca26195"/>
+		<rom name="winvadr2.wav" size="6424" crc="08f3fc29" sha1="110a22aeae4666d033057b4d70fa5d85429fc129"/>
+		<rom name="winvadr3.wav" size="59574" crc="1b662cf9" sha1="d548f97059ec2cfb8f769695a4567bedc6d593b4"/>
+		<rom name="winvadr4.wav" size="19762" crc="3a449a6a" sha1="dc8071fddf3c1c9f8c04f5b9e46db40e88486aff"/>
+	</machine>
+	<machine name="astrof">
+		<description>astrof</description>
+		<rom name="bossfire.wav" size="59420" crc="efb94581" sha1="01b2d453de4fca9e74811dfc363210eef26c9f89"/>
+		<rom name="bosshit.wav" size="102378" crc="b0728026" sha1="18a685e2d2c4840d70be75ba6cea6db4146b1a2b"/>
+		<rom name="bosskill.wav" size="385054" crc="e4a546eb" sha1="82fbe52a6c47fc19c1abe54b384bf82ec12c780c"/>
+		<rom name="death.wav" size="183278" crc="246cb37d" sha1="614ee54f6664a31c15d6e301e2c03cb4800c64e1"/>
+		<rom name="ekilled.wav" size="31568" crc="9a049610" sha1="745b4a7dbae7f41a041d93d63a8355fbab0f3225"/>
+		<rom name="fire.wav" size="20324" crc="577d96ae" sha1="eb866fafce7094aff747cf8da80c68ec62d7e586"/>
+		<rom name="fuel.wav" size="39686" crc="2b97eb24" sha1="dbb4acb5a6eeb2a4b0fe511bbcf399f0248b960e"/>
+		<rom name="wave1.wav" size="3554" crc="840d6e34" sha1="52ba115d188c90065f5f640d3c7d8393482fbbf2"/>
+		<rom name="wave2.wav" size="3476" crc="0826cc24" sha1="02de60d02a6f0134a66d0ba3ab151b915a97dd9f"/>
+		<rom name="wave3.wav" size="3458" crc="5830092a" sha1="c288e68d557567ed72af23597f5dd38b0cd25475"/>
+		<rom name="wave4.wav" size="3434" crc="b194a28d" sha1="c1f6603d23a05398ef15de6edce216187fc47f8b"/>
+	</machine>
+	<machine name="barrier">
+		<description>barrier</description>
+		<rom name="enemmove.wav" size="15476" crc="ebed6b8d" sha1="d67ba150c1077825e906c24500aa57819af4bdb4"/>
+		<rom name="playmove.wav" size="9972" crc="351a8e38" sha1="4140b4783a30cb9caa60f539708392c8e9bf52c5"/>
+		<rom name="playrdie.wav" size="184660" crc="38123aac" sha1="aaf3cd7dac425d582de12e00a6d31b920459cb92"/>
+	</machine>
+	<machine name="battles">
+		<description>battles</description>
+		<rom name="explo1.wav" size="210882" crc="740c1a6e" sha1="2bfc49cff91024134376b85b9ff530f25b7b7f1c"/>
+		<rom name="explo2.wav" size="298264" crc="afb249b3" sha1="e308a2c1cad9f49b00f8016139177a6a5ad9ec45"/>
+	</machine>
+	<machine name="berzerk">
+		<description>berzerk</description>
+		<rom name="01.wav" size="7046" crc="03202b24" sha1="833772408a598c72e3f1e726337a4dd945c264eb"/>
+		<rom name="02.wav" size="7677" crc="525ebc2d" sha1="8d06b34ba3e74cdce5d098a0adbac71e152ef39f"/>
+		<rom name="03.wav" size="8520" crc="715182ab" sha1="99e48fccf39c27b8f508e2d934976be5d52b6df4"/>
+		<rom name="04.wav" size="8283" crc="540bb1f1" sha1="96e71757d4d5b1bf0ecf462daa0cbec7faa82a2c"/>
+		<rom name="05.wav" size="5281" crc="abc217fb" sha1="9b110326d9d5a5d643459e3919a7af3b9b825678"/>
+		<rom name="06.wav" size="5678" crc="9035a042" sha1="c75fbc905cbdec29b7ae99184d4e0ff131bf22f3"/>
+		<rom name="08.wav" size="7180" crc="be55b800" sha1="39c44b5a73503132d6a357599c594f1fb480b0ad"/>
+		<rom name="09.wav" size="11673" crc="231a892f" sha1="bfd07c0b0ee2fd0ba5046855b38d40c972b03ceb"/>
+		<rom name="10.wav" size="6859" crc="7af11eee" sha1="d9558bb81aa3fd680f63e70639255e673cef8491"/>
+		<rom name="11.wav" size="7547" crc="8e10f46e" sha1="137674fcd59c9a0c3a716b4efdfcf588ea63b312"/>
+		<rom name="12.wav" size="3882" crc="b5db3911" sha1="b51b511e4a21d3014593fa7682e6937d4296e92a"/>
+		<rom name="15.wav" size="13850" crc="99be1988" sha1="7036d5ffd888802f1a0c3bde5b8a88c72f357f42"/>
+		<rom name="16.wav" size="9484" crc="7747188c" sha1="865b16ca2038c7da0920b585bad50f344e77f372"/>
+		<rom name="17.wav" size="7828" crc="b28f8979" sha1="59e580c47c156555a480b137d27239ddc58e0db1"/>
+		<rom name="18.wav" size="11934" crc="fa3e4215" sha1="12f1c6afaa572c1a67bc1d2cae912d06c7444da1"/>
+		<rom name="20.wav" size="9791" crc="44a530a8" sha1="8ec83bce1cc2ff6a21ba7c68902430bfc2985f40"/>
+		<rom name="21.wav" size="12425" crc="76247a2c" sha1="fcfea8eb32c2ed234de44cc280ad975f4a94cd9f"/>
+		<rom name="22.wav" size="5938" crc="61123ac9" sha1="6bae01cdfd99ab1d6c470adcae7562d4b4504e10"/>
+		<rom name="23.wav" size="4865" crc="ee020864" sha1="f695647b1f21e73e200ae78f472f3fc477d36637"/>
+		<rom name="24.wav" size="8700" crc="6cab6ab7" sha1="f83f26d4b205ab9b8a762294cd4ffaf39e519caf"/>
+		<rom name="25.wav" size="4907" crc="f6de2f27" sha1="93826dfb08c3a553345ded69b9e21676815c1f56"/>
+		<rom name="26.wav" size="6017" crc="942b82c6" sha1="b2834ced94a446c51d056aa305aed36566a99abd"/>
+		<rom name="27.wav" size="5772" crc="c6f2db1c" sha1="e68b30716af3d7ed707730497a688153459d481b"/>
+		<rom name="28.wav" size="11117" crc="d3c54d7e" sha1="36d99fe6c8d23837a110fd640e1c7e2b02988ec9"/>
+		<rom name="30.wav" size="20837" crc="0976f0c5" sha1="aa56829bdb8f69606275f4c559e4fae9bdcd58f7"/>
+		<rom name="31.wav" size="15537" crc="210d55f8" sha1="82d1fe347a7a18cb6d84b3105d34194bc4ed2f73"/>
+		<rom name="32.wav" size="17253" crc="3df074bb" sha1="2762bc87de33da8f6225c9962755a1944d310868"/>
+		<rom name="33.wav" size="16247" crc="1a957533" sha1="60a2070bc07b9f6f5ded1190973d16afc7d454c6"/>
+		<rom name="34.wav" size="54645" crc="c07303a1" sha1="b721888998f9ba4deee5c9db2bb155cd9975ece1"/>
+	</machine>
+	<machine name="blockade">
+		<description>blockade</description>
+		<rom name="BOOM.wav" size="38174" crc="3d4b48e1" sha1="e7c58d44bb3384c3d980949f2e1bf1271ccdf7d4"/>
+	</machine>
+	<machine name="boothill">
+		<description>boothill</description>
+		<rom name="addcoin.wav" size="32713" crc="46fbdee8" sha1="dc9cdaa3fd4609f5c06da0f360ad2e1beb692385"/>
+		<rom name="endgame.wav" size="207793" crc="f5424ac7" sha1="e21c4382a58fbb13c135fee45c49812a5b397931"/>
+		<rom name="gunshot.wav" size="5476" crc="7ff18527" sha1="aa1731b57202b62b0a9c66a85ffb27f14e06bf9d"/>
+		<rom name="killed.wav" size="110907" crc="125fcdbd" sha1="9504a43a1ccbef847bcf9228b87c0f0d8ef6fa2f"/>
+	</machine>
+	<machine name="bosco">
+		<description>bosco</description>
+		<rom name="bigbang.wav" size="39366" crc="7098ec25" sha1="a9be20195b494508e78cb6684069438b7a8d2ddb"/>
+		<rom name="midbang.wav" size="58051" crc="a615409a" sha1="1138fa41031999b6dd4e5895114b8bcc4742448b"/>
+		<rom name="shot.wav" size="21388" crc="bab37398" sha1="1a00960a65d25ac51a7c16fedbc171b9869a87d0"/>
+	</machine>
+	<machine name="bowl3d">
+		<description>bowl3d</description>
+		<rom name="cheering.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="crash.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="footstep.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="roll.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="rollback.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="sweep.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+	</machine>
+	<machine name="boxingb">
+		<description>boxingb</description>
+		<rom name="beetle.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="bell.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="bounce.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="bugdie.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="bugpusha.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="bugpushb.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="cannon.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="chirp.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="eggcrack.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="loudexpl.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="music.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="softexpl.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+	</machine>
+	<machine name="buckrog">
+		<description>buckrog</description>
+		<rom name="alarm0.wav" size="9588" crc="f81692b1" sha1="41037ed638b78362a56e2fce1d441a803f097a93"/>
+		<rom name="alarm1.wav" size="3132" crc="6a24d1b4" sha1="a00f14117eb5e6f643cac29af181978dd25044d1"/>
+		<rom name="alarm2.wav" size="12114" crc="ac0bc40d" sha1="fc527622437088f33c04ba44b1ee97d54ae5eb0b"/>
+		<rom name="alarm3.wav" size="22404" crc="8f04a044" sha1="e27acfc18e1c2549f0e9d19f9ce4ed2b0a2266ed"/>
+		<rom name="exp.wav" size="164136" crc="f5c345b8" sha1="78084ab401082224378edc16945e643963e835bc"/>
+		<rom name="fire.wav" size="92926" crc="db4f47b3" sha1="008fd9f10daa85af294c1bf8f9cc8ffa9cbac6bd"/>
+		<rom name="hit.wav" size="190512" crc="75a21412" sha1="cb4945a4861e92378fb1bd8673622d36bd566f42"/>
+		<rom name="rebound.wav" size="126926" crc="61f445b2" sha1="75ccf1660edf94838a117fb7c0c3f802d7534375"/>
+		<rom name="shipsnd1.wav" size="102840" crc="78d3de40" sha1="aa5b1c8bdf1ee036f507037852496b8f4d1f3254"/>
+		<rom name="shipsnd2.wav" size="140902" crc="465c0bc1" sha1="b0e0d48dba38137fd1f78cd959c895a339db930a"/>
+		<rom name="shipsnd3.wav" size="130042" crc="82806098" sha1="c92941543a126c516b4b77221f863196de9d3ff5"/>
+	</machine>
+	<machine name="carnival">
+		<description>carnival</description>
+		<rom name="bear.wav" size="20122" crc="3bd7fb3d" sha1="ba198d857f9acc1aa74c93b1b88e72b3d3b441b8"/>
+		<rom name="bonus1.wav" size="338628" crc="b5884504" sha1="3e30a7a3ca41df9312a33096d37397d0f66c7682"/>
+		<rom name="bonus2.wav" size="37692" crc="268b993f" sha1="7952f63dadc7b867faa21177f2da666d1ec5cf7d"/>
+		<rom name="clang.wav" size="32450" crc="064e8aa0" sha1="707fe80ac4b617eace783fe6ce3710c5be108419"/>
+		<rom name="duck1.wav" size="22468" crc="2e7bed9e" sha1="089eef579d42b8c19db2abcab7c8d76697130ff6"/>
+		<rom name="duck2.wav" size="16784" crc="1163621d" sha1="7d3c402faa9188d39e2bcfbb6744ebf0acc28f98"/>
+		<rom name="duck3.wav" size="42434" crc="5dc0d9af" sha1="4dcdbe1bd104d1f354a1c5e543dd1ffd7d7ba7fd"/>
+		<rom name="pipehit.wav" size="32898" crc="2b7d6b2e" sha1="52b08b17a802c839265ef6911f80dcc00d4948ce"/>
+		<rom name="ranking.wav" size="28590" crc="5ce203ed" sha1="75232edacc084743469d68ce55e5c7087fd3be4f"/>
+		<rom name="rifle.wav" size="46950" crc="d8be6931" sha1="ea51f3ddb7076d9bcdd777a2e4dd38bd0ce2507d"/>
+	</machine>
+	<machine name="circus">
+		<description>circus</description>
+		<rom name="bounce.wav" size="94164" crc="d1ea79d8" sha1="27d356384bc17496cfed1b9ca9b69283356e1a64"/>
+		<rom name="miss.wav" size="46012" crc="9f5348f3" sha1="85ce80b3ac4ff5d189cee7205501298d3f6eabad"/>
+		<rom name="pop.wav" size="31788" crc="03fb5cdd" sha1="55b7d7f106d4680701be4c936c1cfd0eec94e1f1"/>
+	</machine>
+	<machine name="clowns">
+		<description>clowns</description>
+		<rom name="miss.wav" size="46012" crc="9f5348f3" sha1="85ce80b3ac4ff5d189cee7205501298d3f6eabad"/>
+	</machine>
+	<machine name="congo">
+		<description>congo</description>
+		<rom name="bass.wav" size="16092" crc="125f7a71" sha1="7fc1985eadb2562c057316f222ecbdbb50035522"/>
+		<rom name="congaa.wav" size="10860" crc="fb4c9df5" sha1="95684105a85848a07b7abf632e827bc4c83fcb0a"/>
+		<rom name="congab.wav" size="9916" crc="7b56b3f1" sha1="03db6865348c0d6dc5187aba434a07b0a817fcf5"/>
+		<rom name="congah.wav" size="15816" crc="31c9f720" sha1="92410d33d5783e6338cd59a718136bbce83ee2a3"/>
+		<rom name="congal.wav" size="16080" crc="662cee03" sha1="60dbfae118e259d09e6595445a6b7c3d8ad92a87"/>
+		<rom name="gorilla.wav" size="20020" crc="d6f74eda" sha1="70969b5783b7584335899ab69abd2e104614f6b8"/>
+		<rom name="rim.wav" size="3038" crc="02f5dc1f" sha1="e11a417fb186bba392da2f422838da1d63fd4d3e"/>
+	</machine>
+	<machine name="cosmica">
+		<description>cosmica</description>
+		<rom name="backgr.wav" size="163014" crc="96f5d44f" sha1="50bb1ddab6391179e5c1a235bc0649cdbed6bb60"/>
+		<rom name="coin.wav" size="44202" crc="462242ca" sha1="7212a2da377d7632c9f47011f3edb96742dbe864"/>
+		<rom name="divea.wav" size="227590" crc="27449ea6" sha1="8ff7a2424df216184f300a3f8cf1429d2b913166"/>
+		<rom name="diveb1.wav" size="164614" crc="dc5b09b5" sha1="22bf658dd034598160c37c2dd347d626b138cfad"/>
+		<rom name="diveb2.wav" size="153078" crc="9120a8c9" sha1="7a328bba6a9aa6227288b71f584650cb14fcad09"/>
+		<rom name="diveb3.wav" size="149354" crc="6d7dcc58" sha1="4617003e421ed43b5c107ef72b147988534aa9c2"/>
+		<rom name="diveb4.wav" size="164210" crc="47c141f9" sha1="f383af90bedb4b6172fbf91cdcb94059a74da1a5"/>
+		<rom name="diveb5.wav" size="150082" crc="35af1242" sha1="5dc2474308ec086bacf74f8de83237b1e86fc45e"/>
+		<rom name="diveb6.wav" size="134314" crc="20e3647e" sha1="29fea9e8b7269b6fa473f421e213615f82a10361"/>
+		<rom name="extend.wav" size="76" crc="7bb1cf6d" sha1="5362c82c3e00dda03fae5bd3ac1567188f1ce4f7"/>
+		<rom name="fire.wav" size="55188" crc="a02bed02" sha1="06cdd74f6e9fcde37461c15ab1997012e44f4b1c"/>
+		<rom name="loudexp.wav" size="205296" crc="246da73e" sha1="659404efd96b70a8a7e87c95bc7f7a2679b03e57"/>
+		<rom name="smallexp.wav" size="23200" crc="cb2474fd" sha1="3c0f91d9e0b1ae5abcf9767228c2123a71af8d8f"/>
+	</machine>
+	<machine name="cosmicg">
+		<description>cosmicg</description>
+		<rom name="cg_att.wav" size="163750" crc="e1d4bbbb" sha1="0bc5bfd45b6360f74d493be546c0ca1e6bcfc275"/>
+		<rom name="cg_chnc.wav" size="11160" crc="c9d6640a" sha1="6535540ebfbdbae5fcdeb0c23d8b17cfcf5d46ac"/>
+		<rom name="cg_dest.wav" size="336512" crc="4c43a047" sha1="6e277d478ca2a9c4e48b71e94944ffff28038f9c"/>
+		<rom name="cg_ext.wav" size="43916" crc="2752151f" sha1="35983782061b0f848c87b6d33d0a67c7bcb48f47"/>
+		<rom name="cg_gotb.wav" size="69900" crc="6ee3795c" sha1="d9b21a4a17c6de77605e5769750a75b5520d78e4"/>
+		<rom name="cg_gotm.wav" size="21460" crc="0caa83d7" sha1="682ed506590c96253d1638bacb07bd14443a0512"/>
+		<rom name="cg_gun.wav" size="17420" crc="0e401fa8" sha1="480c8352c0aa4e18546bec9daa8d8c5c0f5c5bff"/>
+		<rom name="cg_m0.wav" size="7352" crc="12aa723b" sha1="ddcd65c940781d4b07fcad38ef57567d02e459aa"/>
+		<rom name="cg_m1.wav" size="7630" crc="9f15559f" sha1="bc5cebbc1becd09e0c1e58e6b6cd0d86309393eb"/>
+		<rom name="cg_m2.wav" size="7620" crc="32435a68" sha1="b61bddb1142232744f24615d7ed0578025e66494"/>
+		<rom name="cg_m3.wav" size="7454" crc="ce11e224" sha1="fba5a1cf0707e3867f4305ef3d07e920ad9cc08c"/>
+		<rom name="cg_m4.wav" size="7590" crc="083261bf" sha1="4a9dd6bfafc7a2cd5dc3a1896ccf66b0af160518"/>
+		<rom name="cg_m5.wav" size="7606" crc="84e86f45" sha1="5c928072ea18c4a8cef82809a3bce15f7e4ffdd5"/>
+		<rom name="cg_m6.wav" size="7650" crc="ad56e7f0" sha1="f9c1ac5881362148262848e51daf6bb04049a23e"/>
+		<rom name="cg_m7.wav" size="7376" crc="71f56c1e" sha1="78cbff404362a2d4f2c0c8c66001273271eba724"/>
+	</machine>
+	<machine name="crash">
+		<description>crash</description>
+		<rom name="crash.wav" size="19858" crc="ba3a7450" sha1="60a11a28cd65b668f661d72043bfd0cecd8d579c"/>
+	</machine>
+	<machine name="dai3wksi">
+		<description>dai3wksi</description>
+		<rom name="1.wav" size="4434" crc="c946f2f6" sha1="f53358b96b6931282e43e9c0944e02ad32eaa340"/>
+		<rom name="2.wav" size="19720" crc="c6a5173c" sha1="cf4bedde931a2b6d21e345d482e52f3f370fd45f"/>
+		<rom name="3-2.wav" size="54790" crc="e1d43661" sha1="7f8cd407bf2371fba45730eee23e786d80bfcb95"/>
+		<rom name="3.wav" size="64486" crc="94b83fb5" sha1="78a0e1d9a272884b5bc566e88800bb9567793c2e"/>
+		<rom name="4.wav" size="235334" crc="8de81aa0" sha1="df65955d78b9bb5a03290b261673879ef64197da"/>
+		<rom name="5.wav" size="19580" crc="afef9cbe" sha1="8bbb10e0e634410f83afb590a892e751cc92566e"/>
+		<rom name="6-2.wav" size="62536" crc="25facf9b" sha1="f0776a189726789818c279bd4c5bc2644418272a"/>
+		<rom name="6.wav" size="63290" crc="26faf9c9" sha1="00ab30021e13ba76a4cfb0a5837e7ce870179dff"/>
+	</machine>
+	<machine name="depthch">
+		<description>depthch</description>
+		<rom name="longex.wav" size="372470" crc="17890636" sha1="e6fac1b7a8d1897fc507a762465279bcede1b1a2"/>
+		<rom name="shortex.wav" size="4512" crc="d9603c30" sha1="721ef616e23ea822ed767e1cc4e69b36c2b850a9"/>
+		<rom name="sonar.wav" size="129030" crc="c2d3966c" sha1="11406ca3c66e3ff2fce5cb55729355b201d97bba"/>
+		<rom name="sonarena.wav" size="78938" crc="b020383f" sha1="e4a02515c4774ac3ae7c1a40546d10eec86e5f15"/>
+		<rom name="spray.wav" size="350636" crc="d616d7f5" sha1="429b01ea1c15f9eb400a84486a4f5283a91bb1df"/>
+	</machine>
+	<machine name="dkong">
+		<description>dkong</description>
+		<rom name="dkstomp.wav" size="6014" crc="9ead5199" sha1="92704fdfad82831add41348a950e2f06418b8260"/>
+		<rom name="effect00.wav" size="14208" crc="9da19ae5" sha1="637644839a7d6c38180449f051c3effc8d948bca"/>
+		<rom name="effect01.wav" size="61812" crc="c78f5c8c" sha1="ea0208d5b5a32bc4f0a5f198df0c9efdc075b08c"/>
+		<rom name="effect02.wav" size="46954" crc="49f980d2" sha1="a3f181578dd44dbfea26471d8f228ce2a11abc45"/>
+		<rom name="jump.wav" size="7765" crc="cfa918a0" sha1="5a7fa50b45bebf314219b246a86035f30f76eef0"/>
+		<rom name="run01.wav" size="2122" crc="caf55061" sha1="7df64932a12109190c5926608fa656d3624996a2"/>
+		<rom name="run02.wav" size="2104" crc="66f43eb6" sha1="a7af46924297a9e06575b6029b6382ee7a6f0c9e"/>
+		<rom name="run03.wav" size="2138" crc="24c0f4bd" sha1="b782b01f7c818f0ea966fecba06e9655d337dc2c"/>
+	</machine>
+	<machine name="dkongjr">
+		<description>dkongjr</description>
+		<rom name="climb.wav" size="8870" crc="c968d9f9" sha1="ee6ca7b3b2aa5ac2d2b4a83f6806aca40d7e0758"/>
+		<rom name="climb0.wav" size="8870" crc="02ebb4cb" sha1="3dd6360180f963185403965c6cbb8ada891cf4de"/>
+		<rom name="climb1.wav" size="8870" crc="c968d9f9" sha1="ee6ca7b3b2aa5ac2d2b4a83f6806aca40d7e0758"/>
+		<rom name="climb2.wav" size="8870" crc="8891311b" sha1="12ad1973cb0a7a5fff5c2cf416572c37108b73c6"/>
+		<rom name="death.wav" size="91356" crc="96135f65" sha1="aed44acb87d0b1a397d806557a9cbd29cf3a0d0c"/>
+		<rom name="drop.wav" size="80120" crc="afc48ba9" sha1="863bbeff39a8d60cbb02ad7a5bdf3bdccffba2c8"/>
+		<rom name="jump.wav" size="37872" crc="6b70c44e" sha1="5a66cb4fc1b9f523d025dd50fb05dff3ceb9800f"/>
+		<rom name="land.wav" size="29110" crc="6bad6a81" sha1="924774f83f707f38ecec23c8b6cdb9639b56fc9a"/>
+		<rom name="roar.wav" size="24116" crc="20662fec" sha1="ef70a73189a7c53fa336dd4f97125ffa7043674a"/>
+		<rom name="snapjaw.wav" size="12562" crc="8f0bf3d8" sha1="7608a48dbabc79851cade857b15809788c28cbf7"/>
+		<rom name="walk.wav" size="8866" crc="22530fb3" sha1="35f6b0abc6c4c04fbe92919eb05403b2e7d44f54"/>
+		<rom name="walk0.wav" size="8866" crc="22530fb3" sha1="35f6b0abc6c4c04fbe92919eb05403b2e7d44f54"/>
+		<rom name="walk1.wav" size="8866" crc="d4e59835" sha1="0a433c50fdb2eee0c3a83d92089c2326e958ff45"/>
+		<rom name="walk2.wav" size="8866" crc="f1987a02" sha1="283b53f8cf273ce0d4175aaffec2552692adfc36"/>
+	</machine>
+	<machine name="elim2">
+		<description>elim2</description>
+		<rom name="elim1.wav" size="90784" crc="97dc87cd" sha1="51ee51bd195a6998f9c3e19d72cc3c2bc976fa69"/>
+		<rom name="elim10.wav" size="104504" crc="e83e206c" sha1="f9a825db49ade6d12118f388453045091d6030f3"/>
+		<rom name="elim11.wav" size="86486" crc="0a110a5f" sha1="b3204b4c08a7fd5ad57fb9f95c256c5bb5484cb6"/>
+		<rom name="elim12.wav" size="200468" crc="ea44986c" sha1="72f38490387c373cf1f15addcd38cc1f2700d447"/>
+		<rom name="elim2.wav" size="41918" crc="28f7db98" sha1="188fd33799675263a6a7ce95e2eb9e5c40b5baf6"/>
+		<rom name="elim3.wav" size="94256" crc="d2f3c0d3" sha1="579d9444fcbdaa7e0dc3b9645bd7988556228474"/>
+		<rom name="elim4.wav" size="18554" crc="01066e4d" sha1="654dadade634a4e9631ee3cf4ede27284d08d907"/>
+		<rom name="elim5.wav" size="95856" crc="c4a85aa4" sha1="cd346e592dde67f63e3b29c476c8dd2613c1a8fe"/>
+		<rom name="elim6.wav" size="16394" crc="aa484cd1" sha1="adec21c6ffc6f344524812060e03488dd1a73daa"/>
+		<rom name="elim7.wav" size="18554" crc="2d2cbe60" sha1="0cab7b84fcdfc25d90da9ced60934f9afe772b45"/>
+		<rom name="elim8.wav" size="95856" crc="c4a85aa4" sha1="cd346e592dde67f63e3b29c476c8dd2613c1a8fe"/>
+		<rom name="elim9.wav" size="99786" crc="9063bc9c" sha1="027a7b6ed027243828650818a989878ffb761f87"/>
+	</machine>
+	<machine name="equites">
+		<description>equites</description>
+		<rom name="bongo1.wav" size="8684" crc="0b5efba3" sha1="6d482e9d305e000c74e554622f6e52e48a1c3b0f"/>
+		<rom name="bongo2.wav" size="12652" crc="e7d09141" sha1="fb1e25bb0e6bb5438a621f5cd164eb176febc8a0"/>
+		<rom name="bongo3.wav" size="16492" crc="964fdf19" sha1="5a66655cb2df690e48da2a935619732714abd151"/>
+	</machine>
+	<machine name="fantasy">
+		<description>fantasy</description>
+		<rom name="ft_voi-0.wav" size="208428" crc="624622b2" sha1="7de4d8881b109864e38aa06afeb2ec6bdf36495c"/>
+		<rom name="ft_voi-1.wav" size="188460" crc="0ed69a0d" sha1="9e812ab9c6158369d6d6b356d5ebe5c0b9893388"/>
+		<rom name="ft_voi-2.wav" size="224300" crc="f153f6fc" sha1="ef67c69109acf408988987d99fddf37954e402ea"/>
+		<rom name="ft_voi-3.wav" size="189484" crc="bc5144f1" sha1="d0f8dccbe1941d1d0e76e89ab85c982a4cfb58f8"/>
+		<rom name="ft_voi-4.wav" size="203820" crc="07728b73" sha1="fd8de004453c41aa5eee485f503504696a2a568c"/>
+		<rom name="ft_voi-5.wav" size="62508" crc="f13bc666" sha1="64fe7765e665ac4813dc3f2accc3ecdd0586359c"/>
+		<rom name="ft_voi-6.wav" size="116780" crc="c61d1b88" sha1="d4d5c69592dfc9ccf5a110c40e5edcb6e11aaebd"/>
+		<rom name="ft_voi-7.wav" size="50220" crc="cfbdb91e" sha1="3695de6ebac39975c29a620f1643c72ea19067ec"/>
+		<rom name="ft_voi-8.wav" size="102444" crc="9f80fe09" sha1="d15710f5845fdac7f103c7224699f8671042ac3a"/>
+		<rom name="ft_voi-9.wav" size="141356" crc="25b9e1eb" sha1="ac792f7bc557862796056813407488d4900adf61"/>
+		<rom name="ft_voi-a.wav" size="109612" crc="bf623ab3" sha1="575f8cde0e0c0120bc623b2bb45658015e1a1d57"/>
+		<rom name="ft_voi-b.wav" size="29740" crc="ba412c06" sha1="2796eeb864eca9d8afc6a2ae1d78322e42af49e6"/>
+	</machine>
+	<machine name="frogs">
+		<description>frogs</description>
+		<rom name="boing.wav" size="92716" crc="ccf6c76d" sha1="8878d7f777a29e55d5b88bf0d1cc03b2061af1cb"/>
+		<rom name="buzzz.wav" size="1058624" crc="44c9756a" sha1="f0c7b90c3e33f18cf946a343247ef3b58e2337d4"/>
+		<rom name="croak.wav" size="385498" crc="953fa302" sha1="7abe6841ad78c80a5abea3427d566638dcff3ee0"/>
+		<rom name="hop.wav" size="13996" crc="2ad104e3" sha1="2d2e9e40587b4c468e745dd40614b77b57173f23"/>
+		<rom name="splash.wav" size="40748" crc="84aa2263" sha1="57407910966c180a712df7be1f5eba464adc54f7"/>
+		<rom name="zip.wav" size="19708" crc="ffcd13cf" sha1="1669aeadaead7be9e1bbcd0941383fe953c3da0d"/>
+	</machine>
+	<machine name="ftaerobi">
+		<description>ftaerobi</description>
+		<rom name="00.wav" size="378030" crc="d2375f08" sha1="06bf992519d72743dc507e6ee2568110513457e5"/>
+		<rom name="01.wav" size="145582" crc="861d5594" sha1="17243274babc5cb3b880e0cf1946a0654d956e01"/>
+		<rom name="02.wav" size="114606" crc="d7cafbbd" sha1="e4cb2172905fe415c7452aa8dd1d520d314f6c0c"/>
+		<rom name="03.wav" size="311470" crc="fa0db354" sha1="232d761ddff41318382a4abd5df1307ed1add968"/>
+		<rom name="04.wav" size="94382" crc="33bec42a" sha1="fed7c58429927e42fc8e036e69c75dd3ec284dcf"/>
+		<rom name="05.wav" size="95404" crc="8a53401c" sha1="efc454741d89fbea6afa4b2c1e9bd12931c0e51a"/>
+		<rom name="06.wav" size="98476" crc="fe4f3daf" sha1="c2a19619759420d438fa7aaa14919b79241dd3b6"/>
+		<rom name="07.wav" size="90284" crc="6dc91abd" sha1="ad9aed9a52134e469a7856e43d81985a9368ddbe"/>
+	</machine>
+	<machine name="galaga">
+		<description>galaga</description>
+		<rom name="bang.wav" size="88301" crc="3b7bfb9b" sha1="0e532223d11c1b13ad35d2000fdebe237824b7b0"/>
+		<rom name="init.wav" size="240706" crc="99f79ade" sha1="bf3dd6477f62e795b6b6bace087ad3908842759a"/>
+	</machine>
+	<machine name="galaxian">
+		<description>galaxian</description>
+		<rom name="death.wav" size="33531" crc="cf692f7a" sha1="baccad070cf683cd75a27bd16b17f37b7b702934"/>
+		<rom name="readme.txt" size="68" crc="ec543fe4" sha1="a23c9540ce67702bbeac527f967799c73d3e37aa"/>
+		<rom name="shot.wav" size="19781" crc="644fe8be" sha1="1799e494c3249e6246dc8abaabc490c539572a6b"/>
+	</machine>
+	<machine name="gaplus">
+		<description>gaplus</description>
+		<rom name="bang.wav" size="116982" crc="5ee62d76" sha1="7ebc688424f9a966964d3a96e5224c24fd036c09"/>
+	</machine>
+	<machine name="genpin">
+		<description>genpin</description>
+		<rom name="bumper.wav" size="27302" crc="b9cf6e37" sha1="c8e02b9e3f69a98af6cf4aa7b4b22cfa9cb3d88f"/>
+		<rom name="chime1.wav" size="102568" crc="7bb6c77c" sha1="10033625b884814b34912d9586f8789da9dec1bd"/>
+		<rom name="chime2.wav" size="102258" crc="884c4656" sha1="87779e74f2a2656267e342bbf8fb2242fa44d93f"/>
+		<rom name="chime3.wav" size="107836" crc="b2da3212" sha1="a7ef3760a6b9e0d08fda37d808b2491f509cf9e3"/>
+		<rom name="chime4.wav" size="69292" crc="622494c5" sha1="406dd2ea60d83c0c7d6892749db9e293c1287354"/>
+		<rom name="coil_coinlockout_engage.wav" size="38370" crc="ae952be3" sha1="b7f4349ba5cfed4f98bc2edba238eddbacbb59d2"/>
+		<rom name="coil_coinlockout_release.wav" size="34062" crc="3154e18a" sha1="af43cb03535f3b20456c8c360a9ca9dce69467ba"/>
+		<rom name="coinin.wav" size="83394" crc="bd96d047" sha1="8c3b9372f3872f9171b285bf78679815cc449037"/>
+		<rom name="drop_target_reset.wav" size="71806" crc="51d4caf5" sha1="900306f2e2f037e26a8f3018355d12881620238e"/>
+		<rom name="hole.wav" size="7486" crc="e368e736" sha1="975a01a95fd0b47ab844decf97a60d28d470bc20"/>
+		<rom name="kickback.wav" size="52594" crc="de9567f3" sha1="dd0c2f37f817f862cd18149ac602515dc856bb37"/>
+		<rom name="knocker.wav" size="18216" crc="8559267b" sha1="f2800d62cfd85691e5d6f3001a49c2988d929c3d"/>
+		<rom name="outhole.wav" size="90190" crc="faeadb2e" sha1="e7e0ebc96ed8a0f264c7c2a7ea3ea5b70b4810d7"/>
+		<rom name="relay_engage.wav" size="38946" crc="0b98a6f7" sha1="5a65345424bba0e4a13b45af25131b71893ad9d0"/>
+		<rom name="relay_release.wav" size="32874" crc="e1868953" sha1="c45c6dd6092f46c5feff4dc1f71287d448bdb4fb"/>
+		<rom name="sling.wav" size="3180" crc="f8585c33" sha1="751794a51bd5b072fa9c082c6fe730ff7c384c89"/>
+		<rom name="solenoid_engage.wav" size="23094" crc="65d69ae5" sha1="d8cfb43dad3e262f3ef0a7d496b167f5b6dfb575"/>
+		<rom name="solenoid_release.wav" size="23072" crc="fcb52273" sha1="076f0c3dc5194e07b17dd29922d6feb7d4264595"/>
+	</machine>
+	<machine name="gladiatr">
+		<description>gladiatr</description>
+		<rom name="ATIRENE.WAV" size="11476" crc="928ff304" sha1="7688b216be2730aaf57e29d96a37a19cc72baf37"/>
+		<rom name="ATIRENE2.WAV" size="7205" crc="c1715f45" sha1="1301ae5ce75f4ad9232c823f8c2649cba97e762e"/>
+		<rom name="DTIRENE.WAV" size="6860" crc="7094b519" sha1="28395ef762242c78e5bc06ad4f0b64d7677ddf6a"/>
+	</machine>
+	<machine name="gmissile">
+		<description>gmissile</description>
+		<rom name="1.wav" size="3307" crc="08d24e2c" sha1="205009f7e948874002c957bdcbee10527b91455d"/>
+		<rom name="2.wav" size="7797" crc="45de95cd" sha1="30f70dbe18c832f66aa0d00aeed788d08fe10136"/>
+	</machine>
+	<machine name="gorf">
+		<description>gorf</description>
+		<rom name="a.wav" size="6722" crc="4d149364" sha1="8906e42a6a8b80359ec0ecfb09320fececdd6900"/>
+		<rom name="again.wav" size="19732" crc="fa0f24f0" sha1="5b8a6a3e0533d25e810ff731c2035d43bd0eb566"/>
+		<rom name="all.wav" size="128072" crc="aa3c3c43" sha1="94dd5dd4daf9e8fec3da1fb2bafb488b3cea232d"/>
+		<rom name="am.wav" size="9870" crc="8f711cab" sha1="4ce487e39b2708a9c0d92750e242ffe0b670da29"/>
+		<rom name="and.wav" size="6560" crc="1024ad9f" sha1="c09021c75981c8a886bc0579c1411cd70938d133"/>
+		<rom name="anhilatn.wav" size="25184" crc="4d047623" sha1="30c8cf12d2e63cec0299a0017e0e84107a080a05"/>
+		<rom name="another.wav" size="15396" crc="d3baec88" sha1="08a181954acf5270f47d00e09dc237b6cab112b8"/>
+		<rom name="are.wav" size="7768" crc="23b41a18" sha1="fd738ebfcf1d8f61f41320d845d6021100edfdeb"/>
+		<rom name="attack.wav" size="13200" crc="b33d59ba" sha1="ff25ba5e4d6f68387b9e0fb9d41990d1965e9000"/>
+		<rom name="avenger.wav" size="20692" crc="5bdba39e" sha1="c7e7350da0e158d5b5850c0bb10dddc6b672d13c"/>
+		<rom name="bad.wav" size="9938" crc="af2a80bc" sha1="053269ba7083f27acfd7325b4aee193eef0c7e80"/>
+		<rom name="be.wav" size="6330" crc="7314b9c2" sha1="54f8417f93417cb927adaf57a8a9c406619eae46"/>
+		<rom name="been.wav" size="7304" crc="1091e731" sha1="9d3862afd9cef92b1faa9b94ee6ee909492e9d3b"/>
+		<rom name="bite.wav" size="10162" crc="43154cbf" sha1="0812018a236c394fe5d5d13a938b02a16c040173"/>
+		<rom name="but.wav" size="7902" crc="339a19d2" sha1="afa82335f5766d56c49729b98b7568313d45d130"/>
+		<rom name="button.wav" size="13212" crc="6d143305" sha1="a394f0c9492a907ca0ab00da2338bdf7bdf3ad90"/>
+		<rom name="cadet.wav" size="10666" crc="9bdfc47e" sha1="fe48483bbbce2d3c04f362c3f339c0a9890d85c0"/>
+		<rom name="cannot.wav" size="10462" crc="5be97123" sha1="89d64698994a0332a253db1d0f09d4605cd63886"/>
+		<rom name="captain.wav" size="13848" crc="c4aad812" sha1="a894b407053cd304426d1424edd2d518d1909b86"/>
+		<rom name="chronicl.wav" size="20040" crc="0ebaf279" sha1="cdb82bed9a85c4fcf5ad088a18602f06bff78c42"/>
+		<rom name="coin.wav" size="13620" crc="32ea6506" sha1="17de8561eaf8e4fb6d5f80501cd0610a07d2d0ac"/>
+		<rom name="coins.wav" size="14418" crc="9df69130" sha1="50160051590958854722d66621d3d842fd1a744b"/>
+		<rom name="colonel.wav" size="11564" crc="4cbc4547" sha1="89f82079775bc43387ceccb4da8c203e14160d26"/>
+		<rom name="conquer.wav" size="11420" crc="d9a702d8" sha1="ee847c0e18b2b36aba965e4220012fcbd7a1dbff"/>
+		<rom name="consciou.wav" size="24242" crc="b2f3004f" sha1="d4ccd5f3b7c1fc9a27d632dbe42796720dec4f99"/>
+		<rom name="defender.wav" size="16540" crc="ec5c8903" sha1="22f680709feefe1c65abac2a5783f9d0173540f1"/>
+		<rom name="destroy.wav" size="19202" crc="8318e227" sha1="565581eee1fffca27f2222cdf2dbcc10ddf64bf3"/>
+		<rom name="destroyd.wav" size="20344" crc="257144bd" sha1="f75eca9948f6a58a178797a652b38a53a5c7beb9"/>
+		<rom name="devour.wav" size="13980" crc="49b5c3e9" sha1="1ba8d0f6a823a22d0ec4f0baeea46480d0289f77"/>
+		<rom name="doom.wav" size="10758" crc="bcbfdd75" sha1="0506259f6cda04c390d91ed6c712cc71e7762754"/>
+		<rom name="draws.wav" size="8486" crc="a6c3400c" sha1="f5d3f4152dcecb5e11ebc112e7bdb0f6cb5874f7"/>
+		<rom name="dust.wav" size="9676" crc="9fdf60b7" sha1="7feacbf9af9d084297ade7f0f6244b94abe01bea"/>
+		<rom name="emperor.wav" size="0" crc="-"/>
+		<rom name="empire.wav" size="18276" crc="5be41ca9" sha1="2e64ddf161a910d54c6190c0d79b7846f5c78d71"/>
+		<rom name="end.wav" size="8688" crc="4b2481b1" sha1="4fb56f477be1f1522b16cfa3d0f69f2068c8995c"/>
+		<rom name="enemy.wav" size="13446" crc="c1a3571d" sha1="c5a25dc548d1fe7e0c5f6a95c84f7136b81c5dec"/>
+		<rom name="escape.wav" size="15152" crc="20ede02d" sha1="3e0dcaad8c7c42b5bdd4c54315a8935a0cd1a9b7"/>
+		<rom name="flagship.wav" size="21984" crc="ab74c6ec" sha1="ac70acd41f7116fa63dc64c750c9cd7cf0b28151"/>
+		<rom name="for.wav" size="8704" crc="63c4d646" sha1="d5bcbc7a6ab73f519f586b432191c953331f4079"/>
+		<rom name="galactic.wav" size="19024" crc="f01fa8d6" sha1="18c9e5e26da03ee8d7f5b17565de985e428f378a"/>
+		<rom name="galaxy.wav" size="16426" crc="0d314c93" sha1="646d34b8d1bd2cf8ab93d1dfb3ed4880a11bfe0f"/>
+		<rom name="general.wav" size="13254" crc="4b860cb7" sha1="2d18d698547530797f17203f78b77f6ffadf5c1b"/>
+		<rom name="gorf.wav" size="15080" crc="e4bc224e" sha1="c9a58ec23c9971657774af034c015ac5a61ae6ab"/>
+		<rom name="gorph.wav" size="15080" crc="e4bc224e" sha1="c9a58ec23c9971657774af034c015ac5a61ae6ab"/>
+		<rom name="gorphian.wav" size="15824" crc="fad95bbd" sha1="619336cfa118a7edd949a656c47b9edf5ffe3659"/>
+		<rom name="gorphins.wav" size="17514" crc="33e5913c" sha1="d0b4a2a4ce8e1f9b18d64a2669387069e7bd1dc7"/>
+		<rom name="got.wav" size="7512" crc="f17a4bf0" sha1="a51ecee40c63b827af7a26b2366a7650d002905a"/>
+		<rom name="hahahahu.wav" size="22100" crc="b10577ef" sha1="0ba1d29bd5e0567336a7b1fa28c66485bd057792"/>
+		<rom name="hahaher.wav" size="0" crc="-"/>
+		<rom name="hail.wav" size="0" crc="-"/>
+		<rom name="harder.wav" size="12630" crc="9c7dc530" sha1="18e629f99e38623f78cd3b0fec2d870b97eaea06"/>
+		<rom name="have.wav" size="9846" crc="f4bcae22" sha1="8dcf32780cd7c193c5301812e0e5bf65a4982cbf"/>
+		<rom name="hitting.wav" size="0" crc="-"/>
+		<rom name="i.wav" size="8944" crc="876ed453" sha1="9207dabdd19eae04152d6d7f9ed088af2db2b1fa"/>
+		<rom name="impossib.wav" size="0" crc="-"/>
+		<rom name="in.wav" size="6410" crc="831185dd" sha1="b74eba2368b201c83092fabb1b2b0ea8feeda300"/>
+		<rom name="insert.wav" size="15170" crc="a3836e19" sha1="e9d3f4531ac6bb870175eb508e5d472ffa75cef9"/>
+		<rom name="is.wav" size="0" crc="-"/>
+		<rom name="live.wav" size="0" crc="-"/>
+		<rom name="long.wav" size="18080" crc="b2ce2a24" sha1="bb258e3405f317055be8751ce1c03858a3445aa8"/>
+		<rom name="meet.wav" size="10870" crc="50b04d2c" sha1="2bfa6051e5f1599ca40433ad7854bd8c473f8d1a"/>
+		<rom name="move.wav" size="11954" crc="7c34b01e" sha1="3360212cebc9ae1587c217e2e0a470209b90e367"/>
+		<rom name="my.wav" size="10894" crc="b5cd0b67" sha1="cd32c30175019a5d6525fa51c3cc5f2f5ccd1b9d"/>
+		<rom name="near.wav" size="9082" crc="4f3c63ec" sha1="4ce62ac3de0c8073e08ec02e62df0d3e360a4c26"/>
+		<rom name="next.wav" size="14946" crc="10d5823d" sha1="2bc00eea72c0683e9fad788af83a6b389722db85"/>
+		<rom name="nice.wav" size="10626" crc="e9435e53" sha1="f763b76f722ff929169fdd6bb08d040148fb6b6e"/>
+		<rom name="no.wav" size="7150" crc="d701e01b" sha1="b0116f7f1bece3bdf12228472d2252594ee73a8c"/>
+		<rom name="now.wav" size="12806" crc="8c06d751" sha1="c84f649b1057d3f6b59a13b16c8c4086afdbdca6"/>
+		<rom name="pause.wav" size="486" crc="a5284221" sha1="a472c50de1588d5ddcefe8c4c2942f2dcd7198ef"/>
+		<rom name="player.wav" size="10168" crc="3b7329e6" sha1="ba11e9bca46c8c9c333c0e64f0fb211ab6652a1a"/>
+		<rom name="power.wav" size="0" crc="-"/>
+		<rom name="prepare.wav" size="34424" crc="84c0e5ec" sha1="4d902fd45964e6d05dd5231b6e5f17b8aba23f1b"/>
+		<rom name="prisonrs.wav" size="18410" crc="e1675245" sha1="95249877e67ec21cc101b2ba88cf5606781c6d51"/>
+		<rom name="promoted.wav" size="16342" crc="0e1e164c" sha1="1c8dad78b69c9dbf959dd16afa18184a246c0d34"/>
+		<rom name="push.wav" size="7746" crc="05aa456e" sha1="feea8a638f3eba98a85ada464e96a242746320cd"/>
+		<rom name="readme.txt" size="186" crc="a336cb26" sha1="1fd0018f71d830912bd2222cc8ebb90e77205527"/>
+		<rom name="robot.wav" size="14946" crc="4e6c4c0a" sha1="3a42fb65e2d69feb27e9bcdfcaa94755891914f4"/>
+		<rom name="robots.wav" size="20430" crc="79f44743" sha1="ab8c3934cb86f1f05519676f226bdaf871e8cf68"/>
+		<rom name="s.wav" size="0" crc="-"/>
+		<rom name="seek.wav" size="8264" crc="083a47a4" sha1="2addb01cabc80758b615f9fd14316e5e3d93cc8e"/>
+		<rom name="ship.wav" size="9744" crc="7ffc0acf" sha1="e8b4112d66b847d84fe2cba4f9d65ebf61cc2b44"/>
+		<rom name="shot.wav" size="9868" crc="3928fd0c" sha1="eb6b9bfa116f89d2d726235fd075beef64455f92"/>
+		<rom name="some.wav" size="8962" crc="c6e752cd" sha1="00eba13d8f59d161a9aa932fea0623083bb97c93"/>
+		<rom name="space.wav" size="13070" crc="29bc1696" sha1="0a4b9f2e4c4732f8286bedc7beb4408e3e020246"/>
+		<rom name="spause.wav" size="378" crc="e689f12b" sha1="4518bddf44e6cbee94c6b660d01d501d204eddf0"/>
+		<rom name="supreme.wav" size="15382" crc="47c2b767" sha1="730c43dc6bc68ee8b2a9b51eec13bc7e20113a65"/>
+		<rom name="survival.wav" size="48982" crc="6f85128e" sha1="972b088a2ce059b1acf9c361a315eb2dbd04ce2b"/>
+		<rom name="take.wav" size="6976" crc="7a48aefd" sha1="f694555530c0b0c71ee191c17f5bb100df078d92"/>
+		<rom name="the.wav" size="4792" crc="54ad206e" sha1="ffc16048cd7327ab4393e08c9c20936f3f9c7667"/>
+		<rom name="time.wav" size="0" crc="-"/>
+		<rom name="to.wav" size="4628" crc="e0cede6c" sha1="7a1509acf81f1ac4af2cc56f30211a5824141fb5"/>
+		<rom name="try.wav" size="10016" crc="2400b414" sha1="8147d7d5fb0053edcfba2d76c4b6c59652580f28"/>
+		<rom name="unbeatab.wav" size="20738" crc="9b3b781b" sha1="06016390170ecba89e402ad67c1b0bebcbb571a7"/>
+		<rom name="warrior.wav" size="20678" crc="08daaf70" sha1="77fbe4dfadb32077bdfc8d5b6980a73e033a9483"/>
+		<rom name="warriors.wav" size="19418" crc="b4b77847" sha1="62ca306f658dc6b4c6a6e95b0843eab27d4cba52"/>
+		<rom name="will.wav" size="8976" crc="e3d6a487" sha1="da790abf47115b0115d72b5c20f9c83b257eee69"/>
+		<rom name="you.wav" size="7896" crc="02693a67" sha1="9b692fb1c667996d6a40f4aff84b32d3802fafdf"/>
+		<rom name="your.wav" size="8118" crc="4555424b" sha1="d52c79f6d73e31f9f4375fa35cd3b6af903a7ddb"/>
+		<rom name="yourself.wav" size="0" crc="-"/>
+	</machine>
+	<machine name="gorf_older2">
+		<description>gorf_older2</description>
+		<rom name="a.wav" size="4264" crc="4dd6d2c8" sha1="4fe2814a3c75f0a00fbf558036b67d6fe131f92c"/>
+		<rom name="again.wav" size="7914" crc="b17cc71e" sha1="fd06a5fd1dcaf25390ac12ebe9fb7266fa31cc6b"/>
+		<rom name="all.wav" size="3689" crc="f5773230" sha1="d68fcdeae0fe5ed7a104d3b644394d1c87babe44"/>
+		<rom name="am.wav" size="4324" crc="1953f797" sha1="9a6a27da58a67908358c4ecb455604100f221d35"/>
+		<rom name="and.wav" size="4241" crc="f993c413" sha1="54278da9f585aab68ea977f19e500ae9d0a128d8"/>
+		<rom name="anhilatn.wav" size="12296" crc="abd88265" sha1="81dd5ed94e7733b8e77ce9cb972fc7b634faa75b"/>
+		<rom name="another.wav" size="5333" crc="6128b6bc" sha1="f8957341b84b018ec47b2e75fbb7d29ded864f40"/>
+		<rom name="are.wav" size="2564" crc="76072d4e" sha1="8b21d4349fdf06145848f86fa9d67c6d041489e3"/>
+		<rom name="attack.wav" size="5130" crc="706326f4" sha1="b55145aab11902a01f9165c432232bc3d705f68d"/>
+		<rom name="avenger.wav" size="12905" crc="76cd2bb4" sha1="e8358224a251c1f248375bdcce31894ed374312e"/>
+		<rom name="bad.wav" size="4400" crc="edb6f17c" sha1="0ed4b1824ee14172c11effe62d88b6dea053933c"/>
+		<rom name="be.wav" size="3408" crc="988b3af2" sha1="b6cbfbaa7a64d800b2c29c0e000dfadc43f48c2f"/>
+		<rom name="been.wav" size="4529" crc="57df923c" sha1="2a245ef16065b70e466b205a4c8951cc7e41e745"/>
+		<rom name="bite.wav" size="4508" crc="997ea532" sha1="92b0737e38649c1b833933cd60c9c126b9898c9d"/>
+		<rom name="but.wav" size="4313" crc="d50094d2" sha1="c8b73125aa36bc4f0fa46df5138881430e1872e8"/>
+		<rom name="button.wav" size="6900" crc="60526f27" sha1="579716884cad4e1ab0512b771362a402ca6e22ea"/>
+		<rom name="cadet.wav" size="4168" crc="012f9d6e" sha1="17da1484903c6c03557ae7e7c2c22aefd24b98bd"/>
+		<rom name="cannot.wav" size="5108" crc="fdc88488" sha1="9899d81268f9ec8f002182e5c5a4cd29c26d19f8"/>
+		<rom name="captain.wav" size="7167" crc="2098016f" sha1="10893eae33aade118a449fb495c30a9ef6a86f4c"/>
+		<rom name="chronicl.wav" size="10989" crc="93890eab" sha1="7d864996c830c86274958fea78ad028467fa8099"/>
+		<rom name="coin.wav" size="6482" crc="386bec57" sha1="7cf40597a90f5cdf123fb4e126ce2e7f9d57777e"/>
+		<rom name="coins.wav" size="6466" crc="7b63d2dd" sha1="7b8e451d49470d4481b4e85cef748fe881a60952"/>
+		<rom name="colonel.wav" size="6036" crc="f903712b" sha1="287ba59a32c3baddd4d05ead64f0a314f957eaae"/>
+		<rom name="conquer.wav" size="5921" crc="1bfdfc2d" sha1="f55ec6ab14dfbe5c11f4c6cf1ace87a33b672d98"/>
+		<rom name="consciou.wav" size="11636" crc="90a6397e" sha1="224fe332671bfc93d4614830d9b39ed4ff6d0260"/>
+		<rom name="defender.wav" size="7828" crc="be651633" sha1="120d457357466fd9f5bc9c40b4ffe315f6a39dfe"/>
+		<rom name="destroy.wav" size="9989" crc="4bc6dfca" sha1="97ac3b795390d76d879aad5482e9c9d2ab53d02f"/>
+		<rom name="destroyd.wav" size="9904" crc="0203ee7f" sha1="17d575a8aee77744722adec87997c2fbdb868cc3"/>
+		<rom name="devour.wav" size="8028" crc="b2dda6d6" sha1="6c1542bc054d6609240ac44fa2e023d069bc308e"/>
+		<rom name="doom.wav" size="6239" crc="299bbd35" sha1="7ceda47137b504a2cae743af38021dd3b47d19c8"/>
+		<rom name="draws.wav" size="4021" crc="b401825f" sha1="5c99384c7e098d0873b91a26c9d599d36eccd7ba"/>
+		<rom name="dust.wav" size="4051" crc="38e73aac" sha1="12a1f8db6d3217264857bee2c393b41bfd7e8b50"/>
+		<rom name="emperor.wav" size="188" crc="afded41e" sha1="7ad7c4434521e6b893cebf405e08b63bd3073211"/>
+		<rom name="empire.wav" size="10485" crc="99a1dac9" sha1="c953b4a4e5bde9049a12369122117c5bf3a545f6"/>
+		<rom name="end.wav" size="5038" crc="c707da81" sha1="8e521ba574fc0c94551b2a834d9d44fd7230736f"/>
+		<rom name="enemy.wav" size="6484" crc="32eeda74" sha1="e440125ddeb09af872ae5f001052c996ee721037"/>
+		<rom name="escape.wav" size="6753" crc="33b2366b" sha1="62f85ad23a200b1308e9ae6041c183bd7d61da41"/>
+		<rom name="flagship.wav" size="8739" crc="492eec4b" sha1="a20af8b588f6fe2a7d03113ab478caf205bed1bf"/>
+		<rom name="for.wav" size="4709" crc="d72b7e51" sha1="1d65ca1e49b75a705882c6e81e48e88260846f28"/>
+		<rom name="galactic.wav" size="9795" crc="cf82c7cf" sha1="7785bdda188fa4e64184306e7d50996248ce1992"/>
+		<rom name="galaxy.wav" size="8921" crc="c320007e" sha1="7f63e62efab84cfb2d41b353eefbaa0bb732a7b7"/>
+		<rom name="general.wav" size="6464" crc="305a2339" sha1="415a33bfeabe1de48dfd374feb41c6abd99567ef"/>
+		<rom name="gorf.txt" size="1301" crc="d9abdbda" sha1="439bb849e42254b202e053fe7576a08f070c339c"/>
+		<rom name="gorf.wav" size="7074" crc="e1175b6c" sha1="c742099e180082d4eae755dab9f87409e3cd7b2d"/>
+		<rom name="gorph.wav" size="7074" crc="e1175b6c" sha1="c742099e180082d4eae755dab9f87409e3cd7b2d"/>
+		<rom name="gorphian.wav" size="7783" crc="3273520d" sha1="cdd8c4168623384aeadb62116bb60eccffb55d93"/>
+		<rom name="gorphins.wav" size="9160" crc="a3f54971" sha1="3487a3fee1b8c609617b92819296628d94958276"/>
+		<rom name="got.wav" size="3350" crc="e6d53f26" sha1="d4e4d11453ad470df4fae9b2ffff310b61193017"/>
+		<rom name="hahahahu.wav" size="11103" crc="2628996c" sha1="3cf38e7b68be84a5caede7250a0dc713bb4aed75"/>
+		<rom name="hahaher.wav" size="8403" crc="418a9044" sha1="64989740ce4955d634908428d2fc21b512c2f860"/>
+		<rom name="hail.wav" size="4712" crc="4601de35" sha1="bfd37536fd5f598d270fbfb7152664b2bfba6844"/>
+		<rom name="harder.wav" size="5768" crc="4d14dbbf" sha1="f96cb2ecbb2666f2233173c5d55c89fa37c8a9a6"/>
+		<rom name="have.wav" size="3609" crc="e9b5b9c1" sha1="65ce5497c1a55f3a8f3b6f0908dc898dd5fd0ebf"/>
+		<rom name="hitting.wav" size="7032" crc="f76fa90a" sha1="c05300320ab4f8e992fe9d005d0af79342f79196"/>
+		<rom name="i.wav" size="3800" crc="4cd9b15a" sha1="11fe488bae9e058df5f243327eb3e4dd7af7cc88"/>
+		<rom name="impossib.wav" size="10825" crc="dd82363c" sha1="ba3659d0fb1480dfff79cfcf8c57c787862a7831"/>
+		<rom name="in.wav" size="2479" crc="2156800c" sha1="2d3b9de487c62f6a5276f4807e444d084c9795a1"/>
+		<rom name="insert.wav" size="6999" crc="3549bcbb" sha1="9d4d391903724963cfdfe02a9aa3190d758d6266"/>
+		<rom name="is.wav" size="3032" crc="cfd7ecc9" sha1="2be489619fa2841f7953ab85b77c61caa76eb2c9"/>
+		<rom name="live.wav" size="3755" crc="a806020d" sha1="e1e833295627fa9c7388cb9fa2760f874c5c9858"/>
+		<rom name="long.wav" size="5140" crc="b1eab9f9" sha1="aa14f88cef31a7b832f6d6967578a5c3080e6387"/>
+		<rom name="meet.wav" size="4820" crc="72822f4c" sha1="75384363c8e0392279ec83e739dc2b64b014bccb"/>
+		<rom name="move.wav" size="5894" crc="6d4f941d" sha1="a7b1d6603bda74541aa8d22cf47d7348957c56ac"/>
+		<rom name="my.wav" size="2891" crc="a5f88255" sha1="0f979b8c271639526a548c259236de2dfcd34db7"/>
+		<rom name="near.wav" size="3978" crc="1adc7550" sha1="cdcac529623c5f64504519d40952a89e7cb5934f"/>
+		<rom name="next.wav" size="6830" crc="496c27f4" sha1="2106c9c1f23c4629b474d6d195ad8e9b9b333fd0"/>
+		<rom name="nice.wav" size="4913" crc="f270fe59" sha1="1049d52fb9c68e6bf651ecef41db37074592d214"/>
+		<rom name="no.wav" size="3700" crc="f63d1c56" sha1="5133cbf317991cdcd9b935e513fcb5676d5ef223"/>
+		<rom name="now.wav" size="6509" crc="8ca677e7" sha1="b1c2108def81bb0fe218845a023510a760162cdd"/>
+		<rom name="pause.wav" size="3118" crc="ddf73316" sha1="3b6b76129a88d26425b0a2e84d02a69e2962e93e"/>
+		<rom name="player.wav" size="5166" crc="069adad0" sha1="e2ac726bce43153ba80f6c9a57ebc282503698f4"/>
+		<rom name="power.wav" size="4684" crc="de63cd26" sha1="a43f4c2b284ada7c53f3f988441317eaa983b22b"/>
+		<rom name="prepare.wav" size="7032" crc="bd799b8d" sha1="64a708a93bfa5af9fc50d8e1a1b1cd44c459d905"/>
+		<rom name="prisonrs.wav" size="9071" crc="adac2162" sha1="96247a54fde90c693cd0300050ddcde1b94a0a1b"/>
+		<rom name="promoted.wav" size="8931" crc="37057432" sha1="a8f8c6cd69870fdde406cd0fc75f4bb08ef2bed6"/>
+		<rom name="push.wav" size="3786" crc="bad8d47a" sha1="348b88a282f17bdb3ff3fdf4aac8b73cd6d34bf8"/>
+		<rom name="robot.wav" size="7517" crc="332c3cb8" sha1="6b84007edefb3a8c1febcf19b0493d616abd6b5c"/>
+		<rom name="robots.wav" size="9415" crc="43dee916" sha1="733ae1e3fb04272ba1660a7039006c41ccd774f1"/>
+		<rom name="s.wav" size="2147" crc="c9b69b65" sha1="b75dd5098668fc314f28d99af61006c5a46aabc5"/>
+		<rom name="seek.wav" size="3765" crc="fdb2c770" sha1="b8a022d24c536309de169d41e5ddc2e3065b9c27"/>
+		<rom name="ship.wav" size="3323" crc="f195ba8f" sha1="ca4ee92908175e90cd38af573d1639f24a5367e3"/>
+		<rom name="shot.wav" size="4940" crc="bf6337bf" sha1="5f13cbeb2a1c8898892994aa5062027d48eca593"/>
+		<rom name="some.wav" size="4179" crc="8510f79d" sha1="bd3eb3c6eae0beadfeca6cdaa4cae504f0c82a6d"/>
+		<rom name="space.wav" size="6580" crc="fc28a9c0" sha1="c0abfe7eca043cc5505e7aa6926cac4aa74e0e3a"/>
+		<rom name="spause.wav" size="557" crc="fe57a448" sha1="89289486ffbbe1cf2bc727dda828294bbcdac553"/>
+		<rom name="supreme.wav" size="7355" crc="f8e91280" sha1="6c72c067476554ccbefd68864b965977c014267d"/>
+		<rom name="survival.wav" size="9684" crc="d7e1485d" sha1="58812c417aa74debc3b7bec58863f1af8759d6f4"/>
+		<rom name="take.wav" size="2797" crc="b63a6167" sha1="9fc4815e5fc1c8d4e927f20a8bccf9a3f8d44017"/>
+		<rom name="the.wav" size="3437" crc="3f007198" sha1="90ebf0cbed2a5da81d673252082ef7a31e9f2c54"/>
+		<rom name="time.wav" size="4584" crc="c393eed6" sha1="8b96678606bd2efa85920857cb520c16027e6024"/>
+		<rom name="to.wav" size="2300" crc="08a86f34" sha1="15fa0386e678f70a0aa0aa6edc8f83c214d966e2"/>
+		<rom name="try.wav" size="4241" crc="edcff68a" sha1="7a00df6232bba821963d319d8dd463386789eafe"/>
+		<rom name="unbeatab.wav" size="9698" crc="2cef68f2" sha1="5f8b9abac5e45e4cd8322a52e4a7e3c55c02236f"/>
+		<rom name="warrior.wav" size="7796" crc="dc513975" sha1="3ba3c49e9f22f2311b19d0b9c04b547d16ab5e47"/>
+		<rom name="warriors.wav" size="9106" crc="76b8872c" sha1="0eae1712176a8b8f30bd389f48f4e47791f20cb3"/>
+		<rom name="will.wav" size="3371" crc="1aa4b892" sha1="40dc85ef875a3bcd0d19e6c04663567877721a58"/>
+		<rom name="you.wav" size="4611" crc="eadc5887" sha1="f89da84819f9e3cbe84b5042796860e6d81e74cc"/>
+		<rom name="your.wav" size="4101" crc="7bae8883" sha1="a78b947a00e5910fa3caa1a1da0f56f2a86f8d05"/>
+		<rom name="yourself.wav" size="9852" crc="dae27b53" sha1="a0d2b79011e3ed406700b12906dcc46a338e7e96"/>
+	</machine>
+	<machine name="gotya">
+		<description>gotya</description>
+		<rom name="01.wav" size="612100" crc="f0cfa42b" sha1="36ee1529d959e526aab909d39cd0801067f89910"/>
+		<rom name="02.wav" size="2818" crc="9a3e5de3" sha1="45e5f11291e6060a9bf90b116d1a346b36f33808"/>
+		<rom name="03.wav" size="3620" crc="f7e3a72a" sha1="31bc67b3e14ecc78712e16b6ad9d820d0dfdac83"/>
+		<rom name="05.wav" size="5770" crc="52b0d1d2" sha1="6fcb20b924f6cf73a0fcc693dc88a2c5aaadfc93"/>
+		<rom name="06.wav" size="34446" crc="7ae6b3f5" sha1="c8d0f8e61af3c39e40e7286b2a2f510294dfb971"/>
+		<rom name="07.wav" size="43378" crc="49c9f066" sha1="af7b8a70d7e9a1a242ead9710307333bd6e5def6"/>
+		<rom name="08.wav" size="618232" crc="bb9cddd4" sha1="35b79886aecdd0c66eb45fb1f2f56b556a27ea51"/>
+		<rom name="0a.wav" size="89150" crc="7f157b88" sha1="c999ad878bfd5a5d9c5e640a0c41aaf7022e0955"/>
+		<rom name="0b.wav" size="98044" crc="92106622" sha1="612ad7229d88d22971707fe4e33e572ae876cdad"/>
+		<rom name="10.wav" size="33856" crc="af6fd79b" sha1="636ba005a3223c3627d9cdfae02a032b4a9778a9"/>
+		<rom name="11.wav" size="25930" crc="b18ee953" sha1="0659ecf7a46eb0d7936bfbd6640025742cfcc965"/>
+		<rom name="12.wav" size="24704" crc="0f3a2431" sha1="3e6b750129e1da40d9fab1997fe87a1348a437d3"/>
+		<rom name="13.wav" size="8138" crc="d77a73e2" sha1="fb54e2aa55854a6b203770ac36718af23f0bc09d"/>
+		<rom name="14.wav" size="12926" crc="35f66317" sha1="ac28610441d4a712cdc37642c15a17db53a44b4e"/>
+		<rom name="15.wav" size="12420" crc="1ededd0d" sha1="725f2b84d29754e75316dd1e2671cf4d7ab0c913"/>
+		<rom name="16.wav" size="25272" crc="f01c5eb7" sha1="af1ce0cbbaaf32447051cac15bda731fe546812f"/>
+		<rom name="17.wav" size="27306" crc="1819a53e" sha1="a8f944403971ea2b4ce65fadf7b73019a00247b3"/>
+		<rom name="18.wav" size="24538" crc="393fbc6b" sha1="6bd0928090eca3e1e503582b6eba476659c6babb"/>
+		<rom name="19.wav" size="16044" crc="992ee574" sha1="91a267a72580c8cf8df4fdf7bfebb1d5967f36d7"/>
+		<rom name="1a.wav" size="19516" crc="ee53e9fe" sha1="acbfdbc8b2ac7902e8027a103c1a3ad8f9f989cb"/>
+	</machine>
+	<machine name="gridlee">
+		<description>gridlee</description>
+		<rom name="bounce1.wav" size="12002" crc="c0e95ac3" sha1="21afb7bd3409e3d6e35189146976e739a018e5c3"/>
+		<rom name="bounce2.wav" size="5366" crc="6f7e99f7" sha1="d42a3aea9c4d6492c2bb46b3220490304a039053"/>
+	</machine>
+	<machine name="gunfight">
+		<description>gunfight</description>
+		<rom name="gunshot.wav" size="5476" crc="7ff18527" sha1="aa1731b57202b62b0a9c66a85ffb27f14e06bf9d"/>
+		<rom name="killed.wav" size="110907" crc="125fcdbd" sha1="9504a43a1ccbef847bcf9228b87c0f0d8ef6fa2f"/>
+	</machine>
+	<machine name="homerun">
+		<description>homerun</description>
+		<rom name="00.wav" size="30014" crc="e6528d9e" sha1="f16d6f074a5373f890a87924c002d965a9592491"/>
+		<rom name="01.wav" size="17842" crc="ac9441db" sha1="c8d09758369574429140210eead0b36fb8a7ffc8"/>
+		<rom name="02.wav" size="63640" crc="580b4e60" sha1="e7e137ca93af51df599a5cdd0cfabb42a0eb39b3"/>
+		<rom name="03.wav" size="40464" crc="87a820aa" sha1="e7f0172094f9a36fff1f85c0f456d5cdcaa6d169"/>
+		<rom name="04.wav" size="66338" crc="f1b68a58" sha1="590ef769b9727d9873ee760840878f9bc8a6feec"/>
+		<rom name="05.wav" size="56082" crc="ccf9619d" sha1="5d1a18b16c52c984e175ad1aed66280e188eabeb"/>
+		<rom name="06.wav" size="303500" crc="d4fbd156" sha1="b703b58a6fc43cbe4f20ae8a23871db8a818ab5b"/>
+		<rom name="07.wav" size="43378" crc="49c9f066" sha1="af7b8a70d7e9a1a242ead9710307333bd6e5def6"/>
+		<rom name="08.wav" size="104736" crc="67b30407" sha1="49d59017c38d4b0835b2c206c6e595d1b3e22de9"/>
+		<rom name="09.wav" size="820214" crc="068e7e36" sha1="e62f966e6d52daf8e5a5fc2de8d64199ba43d2ea"/>
+		<rom name="10.wav" size="169014" crc="01725aaa" sha1="110dd2b67de2598a42ee95744934313591bfa22d"/>
+		<rom name="11.wav" size="154188" crc="9f0e6086" sha1="97f6a5990dffca5e72fd7dd1afa493f4306e4415"/>
+		<rom name="12.wav" size="24704" crc="0f3a2431" sha1="3e6b750129e1da40d9fab1997fe87a1348a437d3"/>
+		<rom name="13.wav" size="8138" crc="d77a73e2" sha1="fb54e2aa55854a6b203770ac36718af23f0bc09d"/>
+		<rom name="14.wav" size="12926" crc="35f66317" sha1="ac28610441d4a712cdc37642c15a17db53a44b4e"/>
+		<rom name="15.wav" size="12420" crc="1ededd0d" sha1="725f2b84d29754e75316dd1e2671cf4d7ab0c913"/>
+	</machine>
+	<machine name="hyperspt">
+		<description>hyperspt</description>
+		<rom name="00.wav" size="18599" crc="e35632b6" sha1="2c725e52a8a45f4481e2998ac8aa32f86ae56fe3"/>
+		<rom name="01.wav" size="15990" crc="3dcce8cf" sha1="2c88587310a056e1c115c9a3829468006f15d1f7"/>
+		<rom name="02.wav" size="8614" crc="aa24dcca" sha1="a59f34aef237f71736f677466d5427c6b73f6c10"/>
+		<rom name="03.wav" size="7746" crc="57a42115" sha1="5a4aa18d09e4552b8ce0a4f4cf717fa1f8053e00"/>
+		<rom name="04.wav" size="7323" crc="0ae4cb55" sha1="f9b010b47c4353f299e2636ef4cc5c50e9a6658b"/>
+		<rom name="05.wav" size="9917" crc="2edf8ba6" sha1="ad53826031abfe829c19b423ef6d273ee99fe813"/>
+		<rom name="06.wav" size="9927" crc="fd67b8f8" sha1="fcbfc7a765375095071249db84cf1888cd1454e8"/>
+		<rom name="07.wav" size="11232" crc="22fdf1a6" sha1="f99ceda1ceda76ecd8ec8aa2b4eb8eaff56f66a3"/>
+		<rom name="08.wav" size="7336" crc="035f4f42" sha1="d927137c430f0271f2747869fb05cc5facd0f0c1"/>
+		<rom name="09.wav" size="6464" crc="a1206637" sha1="bdd510a82dcd293eb4a3e236cea028201ba625e1"/>
+		<rom name="0a.wav" size="6898" crc="918acdef" sha1="197efc68b45b8c85729e66559adda9acb1520994"/>
+		<rom name="0b.wav" size="10808" crc="36541f73" sha1="67a1060e38d590eaf07f1367920598099882ffb2"/>
+		<rom name="0c.wav" size="9916" crc="3765955c" sha1="a1fab3fb1fd8b1d98d10fba967845e319fccbcf7"/>
+		<rom name="0d.wav" size="15994" crc="cdd2a522" sha1="c4ecc7168d2b25d080ba4c9b8e33729e38f17eca"/>
+		<rom name="0e.wav" size="10783" crc="82aeeec2" sha1="3e9593fb3289ff85703f7d50b48140c4181a2929"/>
+		<rom name="0f.wav" size="6892" crc="aaa9e920" sha1="6238b0a28a18d795ce461b649a0d9c76edb8cc4d"/>
+		<rom name="10.wav" size="10357" crc="21df3f91" sha1="756d1c2c938faf6fbd4ca17741027352bd14c863"/>
+		<rom name="11.wav" size="13380" crc="554ac0a8" sha1="da73ba6274f5ff238938b9dd5e24b3938dd481b0"/>
+		<rom name="12.wav" size="19477" crc="59ce4f2c" sha1="244bdb98b3e52fbfbcd583f999e5eb936e32e6da"/>
+		<rom name="13.wav" size="7308" crc="d45894d9" sha1="5081cbf970b7c27d659c70ae53c92f8e45430149"/>
+		<rom name="14.wav" size="8215" crc="178a8d8a" sha1="e5d99c833b9bcb9e2db1c026221c2e53a506c707"/>
+		<rom name="15.wav" size="12087" crc="5f36c5cc" sha1="77d4c7c4ad06926fb5f596dadc52260e65a56ce6"/>
+		<rom name="16.wav" size="17319" crc="80af7ad1" sha1="4158e5d00d2a7d7cff215c0760e0a6f67c4b36a1"/>
+		<rom name="17.wav" size="4734" crc="fd438981" sha1="235fa03e379e59dc908039d9025d67184c273cab"/>
+		<rom name="18.wav" size="10820" crc="26d16269" sha1="967250db299b72e9aa19f4db55d5ee16db4c8e84"/>
+		<rom name="19.wav" size="4297" crc="cc5c7012" sha1="cb7672c8c3af259c5e4e3ade583510085f8ab701"/>
+		<rom name="1a.wav" size="5623" crc="4e0595e0" sha1="7b70e021eae205b88fc7c873c3679b9affed8ee2"/>
+		<rom name="1b.wav" size="8610" crc="376e7435" sha1="a63c3e5b879908b819fb93a4284e43543e11fb73"/>
+		<rom name="1c.wav" size="7308" crc="eb8d393f" sha1="6254048132c9495a5553f20fa24ea0b62c933b45"/>
+		<rom name="1d.wav" size="7774" crc="13f78aae" sha1="b600ea4444555be83028a57a364229f2e756f1e1"/>
+		<rom name="1e.wav" size="8200" crc="16d22c8e" sha1="fe1e87223d74e8937c52f4deddb4ec654259a418"/>
+		<rom name="1f.wav" size="9068" crc="5e7a5429" sha1="d9fab54979d4629ec04719b46b928f2d3d6a92f1"/>
+		<rom name="20.wav" size="9499" crc="67c095c6" sha1="c8e102eda79d4fc57be1109b66c65d20604248ed"/>
+		<rom name="21.wav" size="11227" crc="7ee3e770" sha1="abde7eb7bd54f4d4afe2d52511987f1f28608355"/>
+		<rom name="22.wav" size="9036" crc="1fe171c9" sha1="75e75255e5f1299a4245a2c3e09f6a596fb7a345"/>
+		<rom name="23.wav" size="10788" crc="0960ec6c" sha1="b585cac3fdd3e56d84ac98ddc4d159f5fdc95546"/>
+		<rom name="24.wav" size="6457" crc="bd695ac4" sha1="147c2ed52e67523bc4cd2137cbb9522ee6c17a7e"/>
+		<rom name="25.wav" size="13376" crc="bf35dbb3" sha1="620994d764f7e2055d30ef043ac0bd5fcf23d0a0"/>
+		<rom name="26.wav" size="9054" crc="11c93cd2" sha1="998262cb573d9523fc436e00bb70bd808d837569"/>
+		<rom name="27.wav" size="12526" crc="e46f8390" sha1="1ef7f0409f91ca3b7e9f64c51b2faa4586f010c4"/>
+		<rom name="28.wav" size="6038" crc="944b2beb" sha1="f8e4588decc050dbd5307f79a18c98b914c0b52e"/>
+		<rom name="29.wav" size="6025" crc="6313936f" sha1="2b8cdd86edf19f6eeccec24a9a64534c2f1dc848"/>
+		<rom name="2a.wav" size="5584" crc="7268b17f" sha1="a16aa1b254c443d2d9df4ee8c9ffbcf8098358b1"/>
+		<rom name="2b.wav" size="15137" crc="e56f8da7" sha1="c5bd8f0358341aab3b41d681b5f9011a06f0e49d"/>
+		<rom name="2c.wav" size="6015" crc="3145bd8a" sha1="c90d7f46a79e80018a29497180a1dbc981c22261"/>
+		<rom name="2d.wav" size="7747" crc="c8af479b" sha1="712045836d1d31365674d7387044dc7f7bd0514c"/>
+		<rom name="2e.wav" size="6014" crc="15ccc2bf" sha1="397eeec5460a5725c275a719d20140a555342a59"/>
+		<rom name="2f.wav" size="10786" crc="04d64d27" sha1="a7414f04eaf7ec010a35eaf982b6f0b8faa808ff"/>
+		<rom name="30.wav" size="6895" crc="8d26f2f0" sha1="5d689259678af1a62e50de77a32fb995b31e913e"/>
+		<rom name="31.wav" size="6447" crc="95039c94" sha1="63722883e7bc2d6ca0eeb9b13762241ddfce86d3"/>
+		<rom name="32.wav" size="6471" crc="b95bd69e" sha1="291a06ec0bbbc33dd4219197a8d08d551dce1ab7"/>
+		<rom name="33.wav" size="34652" crc="e5ada3ed" sha1="ed779427172365013e47c331bdd154085b310bf0"/>
+		<rom name="34.wav" size="12981" crc="681796f0" sha1="ad2fcd1d66dc631d863293e94ab781401ccb0428"/>
+		<rom name="35.wav" size="12537" crc="a15dd43d" sha1="6a696c0bce671348bbacbd4bb3462297d17d3382"/>
+		<rom name="36.wav" size="11648" crc="c95dd558" sha1="42953334cfd7c4df57cc83c118d9dbf5dd3bc87a"/>
+		<rom name="37.wav" size="5157" crc="0f1efd3f" sha1="0ccb6c8c6b586e4141589dfbde4116b2e6618be7"/>
+		<rom name="38.wav" size="7328" crc="2107ad7a" sha1="74dab341649668cd7e635da07e626672b5968781"/>
+		<rom name="39.wav" size="5577" crc="ad37dd7b" sha1="4cbc038be86e9dcd093ee7c6704fee5273cdaf71"/>
+		<rom name="3a.wav" size="6006" crc="b005c027" sha1="6ddf93826ea1c052c5a1d4f75032c07939f1584c"/>
+		<rom name="3b.wav" size="5138" crc="ddc4291e" sha1="e2bda23f4765975db970ac9a276db570b5bb1fb3"/>
+		<rom name="3c.wav" size="4296" crc="38e69ba4" sha1="1c29f1b4676b15d92116517806afbc94558b2903"/>
+		<rom name="3d.wav" size="8156" crc="4ff4934d" sha1="d59f54c34e3b2203ede7771036c71c8c990deacd"/>
+		<rom name="3e.wav" size="16015" crc="f3ec44c6" sha1="717eccaacae2e8cea9d8df19c0d5f95eb50ef94a"/>
+		<rom name="3f.wav" size="9060" crc="c61aa7c0" sha1="3c000792c35e729434088899f5ae7dc9b28ecb65"/>
+		<rom name="40.wav" size="8185" crc="dac7996a" sha1="1fbbfc71358222f73be2a47f0cf35cb565b1c384"/>
+		<rom name="41.wav" size="6014" crc="01d5e26a" sha1="99b8b746429f51d3c39c0a4d64a8a1dde33c4527"/>
+		<rom name="42.wav" size="7326" crc="67ee6d74" sha1="6adea946833cee3c055a6ba6000da053d577142e"/>
+		<rom name="43.wav" size="7309" crc="612ae2b4" sha1="0d0667a47f5e0b1b971643f06eaed220900e9e36"/>
+		<rom name="44.wav" size="8634" crc="b7808c7e" sha1="39e90564ef6063156f2ea19954650e833090d8f5"/>
+		<rom name="45.wav" size="9465" crc="3f81648a" sha1="dafc2ee3230b852fbc4e2e65a725766e65a292f6"/>
+		<rom name="46.wav" size="9056" crc="7cfa82df" sha1="04d91f5882da50b11d32584fe951052176028300"/>
+		<rom name="47.wav" size="9923" crc="1d3083a8" sha1="fc997284e6f1e523adec682844d8f6792e9b7b29"/>
+		<rom name="48.wav" size="3426" crc="bf1f9e20" sha1="3e1e9ffe2dbe5e33fb49b6316086df18127ccce0"/>
+		<rom name="49.wav" size="6888" crc="0feea596" sha1="3d6e16bd556c9420304001a322fb8f682f5de090"/>
+	</machine>
+	<machine name="invaders">
+		<description>invaders</description>
+		<rom name="0.wav" size="1801" crc="f6a16d61" sha1="16d26645d637339d5f7aecaa8ab5f10f739a82f5"/>
+		<rom name="1.wav" size="3307" crc="08d24e2c" sha1="205009f7e948874002c957bdcbee10527b91455d"/>
+		<rom name="11.wav" size="13296" crc="c1de352d" sha1="260294d1d78c7e5c4842779f7500b1244b2f8045"/>
+		<rom name="12.wav" size="26930" crc="cd481e1e" sha1="a370116d31bc217a33a56db4c3faab69845a089c"/>
+		<rom name="13.wav" size="28078" crc="e5842b18" sha1="38f3205dace670c75cc9bf1ab4d444f871d383c5"/>
+		<rom name="14.wav" size="853" crc="42bd9cfe" sha1="7fe5b61f4fcc1fc5c0d0178887235ddaf3202b61"/>
+		<rom name="15.wav" size="769" crc="86f238b5" sha1="a145217020ad7ff5a31f6792bc62ee881736c108"/>
+		<rom name="16.wav" size="807" crc="e1dd0ede" sha1="6cfb1c648657fd29d827a6ba52a706cb78d5cf64"/>
+		<rom name="17.wav" size="862" crc="9c665765" sha1="256d82f5d3c2d3ea52a2b58611de040f72da7e26"/>
+		<rom name="18.wav" size="96276" crc="7cd68c93" sha1="91ea0a145390bb7bb68d7029f1d29d546a498f23"/>
+		<rom name="2.wav" size="7797" crc="45de95cd" sha1="30f70dbe18c832f66aa0d00aeed788d08fe10136"/>
+		<rom name="3.wav" size="3913" crc="b396d6ff" sha1="f1caee13a6aad97a04f28127cb8f04d482225129"/>
+		<rom name="4.wav" size="853" crc="42bd9cfe" sha1="7fe5b61f4fcc1fc5c0d0178887235ddaf3202b61"/>
+		<rom name="5.wav" size="769" crc="86f238b5" sha1="a145217020ad7ff5a31f6792bc62ee881736c108"/>
+		<rom name="6.wav" size="807" crc="e1dd0ede" sha1="6cfb1c648657fd29d827a6ba52a706cb78d5cf64"/>
+		<rom name="7.wav" size="862" crc="9c665765" sha1="256d82f5d3c2d3ea52a2b58611de040f72da7e26"/>
+		<rom name="8.wav" size="24917" crc="8cc97e86" sha1="f44692fe5a5c577d640e889d09565c8e72bd4ed8"/>
+		<rom name="9.wav" size="43696" crc="c1a9c0fa" sha1="dc38d3ae45adc7142081d106fc42e11afeba6a8b"/>
+	</machine>
+	<machine name="invinco">
+		<description>invinco</description>
+		<rom name="fire.wav" size="40336" crc="dd4b6d7e" sha1="cdda1f0ec1ec32e0b0c365427d3832949742a987"/>
+		<rom name="invhit.wav" size="32016" crc="fc832bde" sha1="da6e7e3d45fcdd18191e237b5226a72be52a75f8"/>
+		<rom name="move1.wav" size="24956" crc="8154ca3d" sha1="196134ea58ebb3e2a0902465880a86a7b87149a7"/>
+		<rom name="move2.wav" size="19830" crc="0c2a1843" sha1="b2bd77a0619ab52acda493c31d247fa054ed525b"/>
+		<rom name="move3.wav" size="27366" crc="488894ab" sha1="88edeaee15f1c5ef02297ff2887851c04b62fb5e"/>
+		<rom name="move4.wav" size="24780" crc="3265b57e" sha1="93f985e217f6ebe1dd8a1b098ded8592af73a86e"/>
+		<rom name="saucer.wav" size="41978" crc="dc986cb3" sha1="f2beed3945a67f94d31396ce65bd7bee74cb84dc"/>
+		<rom name="shiphit.wav" size="170796" crc="381e4784" sha1="c8aa524fcdd950de1f8017288ecd30e5a2fbb540"/>
+	</machine>
+	<machine name="ipminvad">
+		<description>ipminvad</description>
+		<rom name="0.wav" size="1801" crc="f6a16d61" sha1="16d26645d637339d5f7aecaa8ab5f10f739a82f5"/>
+		<rom name="1.wav" size="3307" crc="08d24e2c" sha1="205009f7e948874002c957bdcbee10527b91455d"/>
+		<rom name="2.wav" size="7797" crc="45de95cd" sha1="30f70dbe18c832f66aa0d00aeed788d08fe10136"/>
+		<rom name="3.wav" size="3913" crc="b396d6ff" sha1="f1caee13a6aad97a04f28127cb8f04d482225129"/>
+		<rom name="4.wav" size="853" crc="42bd9cfe" sha1="7fe5b61f4fcc1fc5c0d0178887235ddaf3202b61"/>
+		<rom name="5.wav" size="769" crc="86f238b5" sha1="a145217020ad7ff5a31f6792bc62ee881736c108"/>
+		<rom name="6.wav" size="807" crc="e1dd0ede" sha1="6cfb1c648657fd29d827a6ba52a706cb78d5cf64"/>
+		<rom name="7.wav" size="862" crc="9c665765" sha1="256d82f5d3c2d3ea52a2b58611de040f72da7e26"/>
+		<rom name="8.wav" size="24917" crc="8cc97e86" sha1="f44692fe5a5c577d640e889d09565c8e72bd4ed8"/>
+		<rom name="9.wav" size="43696" crc="c1a9c0fa" sha1="dc38d3ae45adc7142081d106fc42e11afeba6a8b"/>
+	</machine>
+	<machine name="journey">
+		<description>journey</description>
+		<rom name="sepways.wav" size="16213036" crc="fc2b78b7" sha1="05c6fc2fb0b6b99e7fbb40b0c2b540da03e1f2a2"/>
+	</machine>
+	<machine name="lrescue">
+		<description>lrescue</description>
+		<rom name="alienexplosion.wav" size="35994" crc="8193ddd1" sha1="2001c5a5eab56a96b76d831100586972642fdad1"/>
+		<rom name="beamgun.wav" size="63858" crc="7dcf7666" sha1="8be9aed48ac9a28fd7e7d1904d53d41c6eb323dd"/>
+		<rom name="bonus2.wav" size="7380" crc="0469ff15" sha1="bcb4f79cc9169efd3a6ea8e1ba396460b25a378d"/>
+		<rom name="bonus3.wav" size="247156" crc="1348b8bb" sha1="cec9f3ea77a5f9693cd6398102ba7b614fcf96fe"/>
+		<rom name="rescueshipexplosion.wav" size="154938" crc="4586bae0" sha1="6d2948cf2b99b2ad4509e29f7dd4d5939b3aa4d9"/>
+		<rom name="shootingstar.wav" size="148664" crc="c8ebcc8b" sha1="81dd12e775ff5b08ddf899bc981adde50851470d"/>
+		<rom name="steph.wav" size="11806" crc="cba86842" sha1="5a97ccc444f0fd7d15283c13d5e65afc3bdaeeb6"/>
+		<rom name="stepl.wav" size="10304" crc="c4728e5d" sha1="fcbca4ae014846cf0feb68a827f330e5de1f284f"/>
+		<rom name="thrust.wav" size="215194" crc="9d4422a3" sha1="8d8583fe755cf38fff218be5bcae9b808954336e"/>
+	</machine>
+	<machine name="lupin3">
+		<description>lupin3</description>
+		<rom name="bark.wav" size="15204" crc="0f34df2c" sha1="16b8bd14859370bdbd1efd95634eb6bd02c23cc8"/>
+		<rom name="cap.wav" size="26930" crc="cd481e1e" sha1="a370116d31bc217a33a56db4c3faab69845a089c"/>
+		<rom name="extend.wav" size="37692" crc="268b993f" sha1="7952f63dadc7b867faa21177f2da666d1ec5cf7d"/>
+		<rom name="kick.wav" size="22212" crc="6d7479af" sha1="002c7e9db9259366ab5f0af1b737d9a766757d6e"/>
+		<rom name="walk1.wav" size="5790" crc="27e2ffc8" sha1="286e96f4f011e9c590868678a2ef20ba13a117c6"/>
+		<rom name="walk2.wav" size="5778" crc="921bd5b6" sha1="a356721ae87fd8482d926ee066d017518a7408d7"/>
+		<rom name="warp.wav" size="24917" crc="8cc97e86" sha1="f44692fe5a5c577d640e889d09565c8e72bd4ed8"/>
+	</machine>
+	<machine name="m4">
+		<description>m4</description>
+		<rom name="1.wav" size="3307" crc="08d24e2c" sha1="205009f7e948874002c957bdcbee10527b91455d"/>
+		<rom name="2.wav" size="7797" crc="45de95cd" sha1="30f70dbe18c832f66aa0d00aeed788d08fe10136"/>
+	</machine>
+	<machine name="mario">
+		<description>mario</description>
+		<rom name="coin.wav" size="23580" crc="32569211" sha1="0eb19d2100dd7d114cb25d0ecdd3f60ca17d2abd"/>
+		<rom name="ice.wav" size="22212" crc="6d7479af" sha1="002c7e9db9259366ab5f0af1b737d9a766757d6e"/>
+		<rom name="luigirun.wav" size="5790" crc="27e2ffc8" sha1="286e96f4f011e9c590868678a2ef20ba13a117c6"/>
+		<rom name="run.wav" size="5778" crc="921bd5b6" sha1="a356721ae87fd8482d926ee066d017518a7408d7"/>
+		<rom name="skid.wav" size="10722" crc="0993eb03" sha1="8ea406ca8ed0865211cb5e788dba307150fbb26c"/>
+	</machine>
+	<machine name="mm1_keyboard">
+		<description>mm1_keyboard</description>
+		<rom name="beep.wav" size="63128" crc="efa96020" sha1="69d53ef82a43f98598dab610a14134d6c583a641"/>
+		<rom name="power_switch.wav" size="154308" crc="58123572" sha1="db15987c3a8db90b8db66439a8cebd8fe23ac80a"/>
+	</machine>
+	<machine name="moepro">
+		<description>moepro</description>
+		<rom name="00.wav" size="60848" crc="edc36901" sha1="1b74c4bb6e9cc837899c4ea52fc15bf80eeb0f95"/>
+		<rom name="01.wav" size="37296" crc="48c88ce4" sha1="52fab1fdb4a55d97ddb0401f176fafc84943e57a"/>
+		<rom name="02.wav" size="45742" crc="729c1316" sha1="0c9428d948926c3aa482a428078a60db3f7ef91e"/>
+		<rom name="03.wav" size="75950" crc="6e77d4bf" sha1="fd268be49fd638147b1f7218ae1c40657680ccfd"/>
+		<rom name="04.wav" size="59056" crc="0df7d2d7" sha1="3b6199db98d320d5bb2ea8691d30227e7ed118db"/>
+		<rom name="05.wav" size="52402" crc="aa3e3004" sha1="92a0159ad88105b78dd42430307f8a98dd6976f3"/>
+		<rom name="06.wav" size="25644" crc="8d7e1653" sha1="d1fd28c8be92a1aed763153da0697640d91d0cdc"/>
+		<rom name="07.wav" size="58796" crc="60e7d7b5" sha1="a26a951feba976a83ebfd0fff3818085840d5aa7"/>
+		<rom name="08.wav" size="61104" crc="5c3925d5" sha1="7eee02c56b24ae23ed02ef84a9811a733d07c803"/>
+		<rom name="09.wav" size="79024" crc="779db9f3" sha1="5b31c4b303d05afc804587836709f47718bd3307"/>
+		<rom name="10.wav" size="55986" crc="dc50bda8" sha1="974fd66cfbb53b525fd2158101e25a8309a471cd"/>
+		<rom name="11.wav" size="59310" crc="975306a4" sha1="20a7f931f614e9d2b5e9d7cf108604c62acfbb98"/>
+		<rom name="12.wav" size="33198" crc="931cb4a9" sha1="45ff533fa8f99e3225a20a370bb2cde1c1405377"/>
+		<rom name="13.wav" size="49714" crc="4c0c2fbd" sha1="f228ba0b8862ea0b57f193a0719ce4346585e93d"/>
+		<rom name="14.wav" size="35246" crc="cc8168f4" sha1="bd20174499ce3167ba2f90a33fbe4465d0c39d42"/>
+		<rom name="15.wav" size="267952" crc="6ede7af3" sha1="4f8256764b5d41ef3a7385dcd1aa872efc337d80"/>
+	</machine>
+	<machine name="moepro88">
+		<description>moepro88</description>
+		<rom name="00.wav" size="25132" crc="fc9dfa6c" sha1="f8b567102356e811ec6e2bc7597d3a824ba56094"/>
+		<rom name="01.wav" size="29874" crc="6ae4424a" sha1="0857f5f60907b6c0f74e750c56955f9329299958"/>
+		<rom name="02.wav" size="25454" crc="fbaeeec5" sha1="a15c041a9fec99b7ca573a497dc9c534c7ccfc42"/>
+		<rom name="03.wav" size="26028" crc="6303e3e9" sha1="360dd1ca6c2ec85d46fcb65492ffc6fd29e99513"/>
+		<rom name="04.wav" size="36144" crc="5bdfad7e" sha1="6113543e0dbcc1054f31ae6ea5958fd01f9f9896"/>
+		<rom name="05.wav" size="35884" crc="cecebdda" sha1="d0798d0e52c64a854735dffd2d2acb648fba8438"/>
+		<rom name="06.wav" size="34990" crc="72539661" sha1="0314c1f5cea4f42cd2fb3e8bdb5bee97fd5cf21e"/>
+		<rom name="07.wav" size="49580" crc="3745864e" sha1="aa203345b22e061423a9c79eb863915fe6154f4b"/>
+		<rom name="08.wav" size="49966" crc="b6b35a6f" sha1="b6cb08d400c59d004ad48515a4843620e13c7417"/>
+		<rom name="09.wav" size="49716" crc="1bdbb738" sha1="77b8866343f1df80209753a45f01b89801b19e36"/>
+		<rom name="10.wav" size="56752" crc="bf59755e" sha1="c75ca7eeb03f83d52c94eab2910d2cc8338cdd31"/>
+		<rom name="11.wav" size="58542" crc="9f6a9201" sha1="b56aa41c1a7b8e916006f1bec91091017e92561c"/>
+		<rom name="12.wav" size="34994" crc="89c6465b" sha1="8bbe02be18839d75a6e45097ff510a1deba14de4"/>
+		<rom name="13.wav" size="31410" crc="176fc425" sha1="2ca976d877a8b7c7b5d3e70409c10d8c356dcf4d"/>
+		<rom name="14.wav" size="128176" crc="a3d01ff7" sha1="54d198f58430fae05ed156c3fb44ecf24a74d27f"/>
+		<rom name="15.wav" size="26416" crc="9892be14" sha1="8728ea5b384732883a1829cdf98de6e1ceb4d0ca"/>
+		<rom name="16.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="17.wav" size="25390" crc="60054579" sha1="c6d2242fccde849977cc1602b8fbed55ae1a9526"/>
+		<rom name="18.wav" size="28590" crc="60d41b81" sha1="bde661ddbcd8b1e20dd36b89161d726fb01b74b7"/>
+		<rom name="19.wav" size="269490" crc="38416af8" sha1="07ba02cbee4e065a7b2100c8288e954ec42ddc56"/>
+	</machine>
+	<machine name="moepro90">
+		<description>moepro90</description>
+		<rom name="00.wav" size="30640" crc="e4bab6a3" sha1="c79afb06a3acc5981ec2094447705673b5b3f372"/>
+		<rom name="01.wav" size="26032" crc="cc6adc33" sha1="9696e7dce577cdef136da29fc6381de70e151993"/>
+		<rom name="02.wav" size="27500" crc="b355fc94" sha1="27e7a567694742bfc4c2d4acc0aec63ff41993b4"/>
+		<rom name="03.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="04.wav" size="31666" crc="7a026de5" sha1="61891a5742f9b793786aaef1d2d18d48b81ecc8a"/>
+		<rom name="05.wav" size="32944" crc="4d859ed6" sha1="538eabbc0f878a79b03f2bf909d10bf71cf4f51d"/>
+		<rom name="06.wav" size="35444" crc="58d85691" sha1="0c305fac11f5eb65f9b419fb007e46f67f962822"/>
+		<rom name="07.wav" size="66738" crc="a5684843" sha1="5892b0329bf8df0aa2416baa7281410ec268b2e4"/>
+		<rom name="08.wav" size="41648" crc="8474d155" sha1="73e127ea65f12abb6d15ba9472602d90c31d4701"/>
+		<rom name="09.wav" size="49334" crc="a819c975" sha1="2def297678d4a63c76373fbcf1ba6c6871b4ac3e"/>
+		<rom name="10.wav" size="58028" crc="a704532c" sha1="633dfc7c04edf84a78d6e36b9f7b4d64f25a8b10"/>
+		<rom name="11.wav" size="58800" crc="4578bddd" sha1="aef1a066695190c4a96e0dbfee5bb5ec166947a4"/>
+		<rom name="12.wav" size="32172" crc="4fdb60b7" sha1="7cee61380091e070790d5e89ad7977738a6d1323"/>
+		<rom name="13.wav" size="29614" crc="e9931271" sha1="3eee40d71c76b098b90fd0e5270bcee05fadd51b"/>
+		<rom name="14.wav" size="109746" crc="185780a1" sha1="1e66e4a5625a1ff75fb5d64da8be6004dc690417"/>
+		<rom name="15.wav" size="28274" crc="edc85d0b" sha1="456c9eec7f497aca975ed5a1dcb797a36e9bb7e3"/>
+		<rom name="16.wav" size="27056" crc="f7f5b5ad" sha1="edb9d6c2949ce8b235ca3597ad57ea7762498944"/>
+		<rom name="17.wav" size="28974" crc="cea59eae" sha1="b140b397bffe5616be385fab5baf00633ec156f7"/>
+		<rom name="18.wav" size="33714" crc="a304bd8f" sha1="6723f2521bf1730c7e669f0989113a006cbbc773"/>
+		<rom name="19.wav" size="261298" crc="ea9dff56" sha1="f64316e4f2d0fba6977d5d34603e9c65b569eb96"/>
+	</machine>
+	<machine name="monsterb">
+		<description>monsterb</description>
+		<rom name="jumpdown.wav" size="9666" crc="115def20" sha1="17f8df37fe1889b8a0098b98f90cf950f8153d1a"/>
+		<rom name="zap.wav" size="10558" crc="8028a187" sha1="602d8f3729bc7112c045c3d1cf4f160643a50697"/>
+	</machine>
+	<machine name="mpsaikyo">
+		<description>mpsaikyo</description>
+		<rom name="00.wav" size="27824" crc="4ebf5a27" sha1="19c1328d4f20b0de506afdbee90b536fbd33b1c9"/>
+		<rom name="01.wav" size="29872" crc="10dc55ee" sha1="6d3eb283e7456876aa9e930e1a13e01ba4710f1b"/>
+		<rom name="02.wav" size="26668" crc="74c07b20" sha1="9dee1d495b13939e6dd605f415c48aa654d6d9da"/>
+		<rom name="03.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="04.wav" size="29360" crc="6be61c3f" sha1="bf7f58351c93c2536af76bed05ea542dde383b89"/>
+		<rom name="05.wav" size="33328" crc="b980fe87" sha1="8ec96d9207d4420efae2dc2690df3633fa968b23"/>
+		<rom name="06.wav" size="32176" crc="feba322d" sha1="587ecad2966504a889549eada2573ad3b65fa61d"/>
+		<rom name="07.wav" size="68784" crc="3b8f9d20" sha1="6d5fb1ccc198f7f3bf2e3ff9622aba9bdd697dc5"/>
+		<rom name="08.wav" size="37680" crc="0add07e0" sha1="edeb99241a8dcb85fe6eb1da6daf467d3d0d74b9"/>
+		<rom name="09.wav" size="97454" crc="91bf495d" sha1="ee414bd3b1640636dbc9b274ec074a4f8cce844e"/>
+		<rom name="10.wav" size="71344" crc="9e45fe59" sha1="c1fd8fc8f324f3cdb6cef0674c7319c40616c249"/>
+		<rom name="11.wav" size="77746" crc="1eae8dcd" sha1="25592e5445181f8284688e5e563dc24641a973ff"/>
+		<rom name="12.wav" size="37102" crc="510e85bb" sha1="bb96ac7905120e247593ade51d25bc4fb6ee1fe8"/>
+		<rom name="13.wav" size="34482" crc="eb3e71b3" sha1="54016839ea606a7f6d7404bdfd6623a22f9fed70"/>
+		<rom name="14.wav" size="117938" crc="6e639b21" sha1="4dcb2ff864bf5cced8b7dc4388415ae48dd46a0e"/>
+		<rom name="15.wav" size="31920" crc="a145423d" sha1="9dbfdafcb21f126d6fa577312b91b56970c1745b"/>
+		<rom name="16.wav" size="23660" crc="4fb2ac32" sha1="a4d8e853d1030402b481951d7ccf38f02a0ac13a"/>
+		<rom name="17.wav" size="28462" crc="c46b2265" sha1="b5db67afc0c8bad26d7ed808c4f12685de220c0e"/>
+		<rom name="18.wav" size="30956" crc="1a3b3938" sha1="fb0316f4177d0d585229945fb478fb593546f6ad"/>
+		<rom name="19.wav" size="285874" crc="f330a7ce" sha1="09ef81055d2957bec2c9e5521a2bf5700297373b"/>
+	</machine>
+	<machine name="mptennis">
+		<description>mptennis</description>
+		<rom name="00.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="01.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="02.wav" size="58796" crc="b74f99ba" sha1="fe31302c9ea88867b695b98bfaf9eefefdabd55c"/>
+		<rom name="03.wav" size="57260" crc="8c5703c0" sha1="091d6f2937c2623c9a367c2e518fa3cb482d7763"/>
+		<rom name="04.wav" size="42412" crc="7ef14eac" sha1="070844d19896ec801af711e3588f9073f0a9e320"/>
+		<rom name="05.wav" size="39724" crc="5382f4c5" sha1="e172e6f6df89a1144a6a96f1f21c107fbe0e3a7c"/>
+		<rom name="06.wav" size="82732" crc="05c414f0" sha1="aee63e58e12a60063ac8867d88f3ae36d32a1f49"/>
+		<rom name="07.wav" size="58028" crc="1dd24f6b" sha1="c9be7b35ef33afad5e4f51555268754cf6448bfc"/>
+		<rom name="08.wav" size="66732" crc="609899c4" sha1="f02e19872ba68325624764d3b2a3a1bcbaa35460"/>
+		<rom name="09.wav" size="57132" crc="94261f63" sha1="9e1676e1c6bddf1c82b376849d1489eb7b15daa1"/>
+		<rom name="10.wav" size="50860" crc="f3e6fa04" sha1="db6765a86441e18f24e80216fb0cf76fc0968766"/>
+		<rom name="11.wav" size="53490" crc="9910958f" sha1="c9959e4557e36f4aca8d69fefe2718707eab1029"/>
+		<rom name="12.wav" size="54572" crc="7521a030" sha1="c506ed3cbeb845a13289dd43d307ffec6c757e3a"/>
+		<rom name="13.wav" size="271406" crc="75f41508" sha1="742d43677acbb31d3d5fa0f85c516f669ea15a19"/>
+		<rom name="14.wav" size="46510" crc="89da9c3b" sha1="9dc641f4dbe747ff4c0a6f45741eb74fc84241b1"/>
+		<rom name="15.wav" size="41900" crc="8a235a5b" sha1="8037dbd1b9145d1ba80ce4792c84b441dc7542ca"/>
+		<rom name="16.wav" size="47532" crc="dad7592a" sha1="52549dc98c47518bbaf8b5aa301aa6c2f69059fe"/>
+		<rom name="17.wav" size="31664" crc="2c264bf8" sha1="5928470e1d2128ba55d94d997ac272443841275c"/>
+		<rom name="18.wav" size="58924" crc="7f04309f" sha1="6c03f293381976075f8ba305f473194727e64fd0"/>
+		<rom name="19.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+	</machine>
+	<machine name="natodef">
+		<description>natodef</description>
+		<rom name="crash.wav" size="51747" crc="537a1b4a" sha1="55cad1202dd66295597ed629919c4f5b9327c902"/>
+		<rom name="talk.wav" size="7875189" crc="2a161606" sha1="3193f7d7f3e4fb2ff0c7802f6eb5727b8ac34964"/>
+	</machine>
+	<machine name="panic">
+		<description>panic</description>
+		<rom name="coin.wav" size="44202" crc="462242ca" sha1="7212a2da377d7632c9f47011f3edb96742dbe864"/>
+		<rom name="death.wav" size="87104" crc="a46dc6fe" sha1="deab05ffaf4faa57348cad5012d92dfbabefd1b9"/>
+		<rom name="ekilled.wav" size="98988" crc="a1564579" sha1="6e5f464802397f1e0683bab66ab46da816b48e0b"/>
+		<rom name="elaugh.wav" size="245034" crc="83f36c95" sha1="be2b8c26d3a778a8205319e194d8944dababf537"/>
+		<rom name="escaping.wav" size="210530" crc="d0127f49" sha1="cf1fde478f90e296c19cb66ac9a25aa300dbc0a1"/>
+		<rom name="extral.wav" size="152998" crc="385a7fb9" sha1="e0878a361fc69d373eba349129696bfab5fd3227"/>
+		<rom name="falling.wav" size="246618" crc="a802c1e4" sha1="a15bf87b8a0b876b40e8dda213c7a4c639591357"/>
+		<rom name="oxygen.wav" size="243758" crc="b38a899d" sha1="571d2ee67045fc43c93d39eb81eb850b3bef8b15"/>
+		<rom name="trapped.wav" size="37408" crc="d374e0ad" sha1="a315849ff0fe509a3a25f00eb58702f3360a7af3"/>
+		<rom name="upordown.wav" size="8624" crc="1862e0f5" sha1="62097030f3991b8007e55b2cd47207a120fecdb2"/>
+		<rom name="walk.wav" size="8084" crc="13d3f1b5" sha1="be5221298d3da5f6ade02b7518106671d800cbdf"/>
+	</machine>
+	<machine name="phantom2">
+		<description>phantom2</description>
+		<rom name="1.wav" size="3307" crc="08d24e2c" sha1="205009f7e948874002c957bdcbee10527b91455d"/>
+		<rom name="2.wav" size="7797" crc="45de95cd" sha1="30f70dbe18c832f66aa0d00aeed788d08fe10136"/>
+	</machine>
+	<machine name="phoenix">
+		<description>phoenix</description>
+		<rom name="death8.wav" size="24689" crc="5c60dcba" sha1="38b54d0c655e19b5645c70f9719fa5849799b5a1"/>
+		<rom name="phoenix1.wav" size="230260" crc="72f621b4" sha1="ac74bf125ad9c81809da707b357dc7886d779cd0"/>
+		<rom name="phoenix2.wav" size="482965" crc="c0d6fec5" sha1="721f90344feee245f0f16837d44624d86a806b2a"/>
+		<rom name="shot8.wav" size="6876" crc="47551e6b" sha1="bc6e158b4b3f7df73dee811efc81dc912839d480"/>
+	</machine>
+	<machine name="polepos">
+		<description>polepos</description>
+		<rom name="pp2_17.wav" size="94928" crc="83a37a95" sha1="e1ec1be19e970f20a9f1506327f5df703c51feed"/>
+		<rom name="pp2_18.wav" size="270972" crc="7593c646" sha1="a7f6db706cefe87c1e77e3a7ca3fcf9a4204d145"/>
+	</machine>
+	<machine name="pulsar">
+		<description>pulsar</description>
+		<rom name="alienhit.wav" size="20700" crc="deb5e0f2" sha1="7cd533e17c0a7660c1cdaf783dc4841051c8ee58"/>
+		<rom name="ashoot.wav" size="38362" crc="e95c59da" sha1="8b2a39e28507f17108d9c300bf6942e3ad4162c8"/>
+		<rom name="birth.wav" size="202978" crc="fefab9fb" sha1="e1153876197967dcadf35f6dde5a9075a5271cbd"/>
+		<rom name="bonus.wav" size="156452" crc="a5d619ec" sha1="088edd885d7d4894edf06fdc01fb58cba59f21c4"/>
+		<rom name="clang.wav" size="62190" crc="b4076995" sha1="e80ca34bab72727f15ffb1947cc89600b8e000c7"/>
+		<rom name="gate.wav" size="65806" crc="1cbf6435" sha1="aa66a2d1dfe886d66d085fe57e21b243ec0db6dd"/>
+		<rom name="hbeat.wav" size="25324" crc="4a5967ee" sha1="71ee2d671cf58b7335d8d9fadb8b6fd8f9b5c610"/>
+		<rom name="key.wav" size="24708" crc="57e77934" sha1="098591cd2048a6fac3a8073a531120419dc02d7c"/>
+		<rom name="movmaze.wav" size="20678" crc="31c240dc" sha1="ccdd6074a0f49af1238f7380815b6803129ec082"/>
+		<rom name="phit.wav" size="36786" crc="065a08e5" sha1="e4eeb479c823078786608fdc467419a5b1bc4a51"/>
+		<rom name="pshoot.wav" size="7256" crc="4b0984d0" sha1="12babdca86c58d3f440c636efc7b2231b6984c23"/>
+		<rom name="sizzle.wav" size="68186" crc="0460dc16" sha1="0652b62c51af0c3886265a6863fd42a71736100b"/>
+	</machine>
+	<machine name="punchout">
+		<description>punchout</description>
+		<rom name="00.wav" size="8656" crc="6d92a896" sha1="6a9893b48246a09061e5967eae838942e46b4dfb"/>
+		<rom name="01.wav" size="22081" crc="5f956ec8" sha1="ef7afb411f4a80e42de6120f43ac1c24cf68972e"/>
+		<rom name="02.wav" size="6896" crc="d6db8387" sha1="76f0eb6953b49b00eb69b0de25038939d98598ed"/>
+		<rom name="03.wav" size="1254" crc="354510cf" sha1="585763e2300421fdf931870dfa29dbfa5de0d61a"/>
+		<rom name="04.wav" size="24255" crc="18c4a70b" sha1="1ed94efe72817d71a8088724220bf9aafa4479c6"/>
+		<rom name="05.wav" size="51578" crc="f524aad1" sha1="66a5746aca7fbe921da3f22f74525b031ef0bf00"/>
+		<rom name="06.wav" size="58954" crc="20e8d1d9" sha1="cbcac209908c8b6e9a3301c253d974584933c20b"/>
+		<rom name="07.wav" size="19046" crc="9956b66f" sha1="1bf225f4fe70c688a133c0e01217187e135ed28f"/>
+		<rom name="08.wav" size="113608" crc="83fe2611" sha1="03f5028e60d6a1300b727e305d7d2af030ba2817"/>
+		<rom name="09.wav" size="83680" crc="1d798626" sha1="1dfc5b356bb3c5de011a1eb4e5a2aec997cc2922"/>
+		<rom name="0a.wav" size="58951" crc="36694662" sha1="269294eceed0d1854a35b86de6b7ac8d5b20b013"/>
+		<rom name="0b.wav" size="35535" crc="1e752e77" sha1="e25dd523432e57e4ec3862d9897389fa39c01b24"/>
+		<rom name="0c.wav" size="20778" crc="44952263" sha1="4cc1006ef64dbcdb88d8cd3a08202ddc4bbb9f97"/>
+		<rom name="0d.wav" size="19904" crc="b5619647" sha1="50b4e3c4bf4fe0a6786c262eb03c347ff5319bf2"/>
+		<rom name="0e.wav" size="9941" crc="2326f356" sha1="8d5ae8699ae1f30b32315789399f01580e4a0da5"/>
+		<rom name="0f.wav" size="16857" crc="c2b92f1c" sha1="9af0e7d909877b4fd76ce3404e3561f245b84cd0"/>
+		<rom name="10.wav" size="11669" crc="20cb76c9" sha1="0555563a506fc1229460a9b1ab74c32860683999"/>
+		<rom name="11.wav" size="8202" crc="8fd2b4eb" sha1="f42be307cf7383f534ae17a52a5a6961bd40ddaf"/>
+		<rom name="12.wav" size="12975" crc="dea01e0b" sha1="72dae07aff974c83b5c55c2082aa951250b635e0"/>
+		<rom name="13.wav" size="6039" crc="7cf5d80d" sha1="1ddf08254eb24af472cb0f7857642981890cf880"/>
+		<rom name="14.wav" size="12533" crc="1fd2e1a9" sha1="33e00ee81980d46aa21f67ce2cc1e8a89ed301cd"/>
+		<rom name="15.wav" size="12548" crc="eb74bce0" sha1="801a4038a4ec66b24a538fcf14b169d7e6b9a0dd"/>
+		<rom name="16.wav" size="17754" crc="563db68a" sha1="c8c825e20d8a60f4a891fd90bfeb29bb06f66cc9"/>
+		<rom name="17.wav" size="15997" crc="0137b794" sha1="ff03a5e5db5c697ae46bfb4c9e1fc42e998765d6"/>
+		<rom name="18.wav" size="18177" crc="19db3b32" sha1="096243c2f5bb5cca5ace847757d213d8eae0d5bf"/>
+		<rom name="19.wav" size="15121" crc="e19ac607" sha1="96607805945b3b708de851427f77c55d4dd41cb1"/>
+		<rom name="1a.wav" size="34681" crc="d77543d5" sha1="f6346d4fd247201faaa9060694f53b798156b8a8"/>
+		<rom name="1b.wav" size="47659" crc="3c578cfa" sha1="240b0c196d93a49d05484ec19c7e01d548fd82d4"/>
+		<rom name="1c.wav" size="39865" crc="7e77b8b0" sha1="2617edf4a7d28eed722173c5699306973840f070"/>
+		<rom name="1d.wav" size="30318" crc="a412b529" sha1="72a3acef85bac0379cb32178b84b7e9e584e9247"/>
+		<rom name="1e.wav" size="50726" crc="b19db6df" sha1="b39b3c353c5b85c098f58cdc52d9ac124cd298c5"/>
+		<rom name="1f.wav" size="52869" crc="c3e25ee1" sha1="8c750fac10aa3b27cabad19a7ef5c1b8ffc38dc6"/>
+		<rom name="20.wav" size="52448" crc="175cbe33" sha1="f366a68e577e44752e216aa418cc310816b6b496"/>
+		<rom name="21.wav" size="41173" crc="bd6c5291" sha1="734eb141fadbbf1d50e62352f4b5d18df87fbfe4"/>
+		<rom name="22.wav" size="45052" crc="9a68f384" sha1="0918b3759a77a2bd3b505c5815c58fa82181a5e9"/>
+		<rom name="23.wav" size="60674" crc="38178198" sha1="2a0e3e2fbc1fbec6b01fb01fccc0ccca6445e763"/>
+		<rom name="24.wav" size="68055" crc="07d1f907" sha1="c04d2b7803d7ab5510266a873c3850321b804f62"/>
+		<rom name="25.wav" size="6893" crc="409a7e10" sha1="34d6412d07e744aa3887d6a98fe14e037135e09d"/>
+		<rom name="26.wav" size="13394" crc="eb535545" sha1="917031804d115b46544920260efcc5f8bca107b6"/>
+		<rom name="27.wav" size="4738" crc="97cc48e5" sha1="1c66f998116d9ec5d14b03d00ae8ebdf3b3d419f"/>
+		<rom name="28.wav" size="11670" crc="c6dde626" sha1="5702f8d1cdffd4a615b04b340cd72f98c13b31b0"/>
+		<rom name="29.wav" size="28165" crc="993d7882" sha1="da5853bd19ba0faf53e3e5a186624bfc4666a95b"/>
+		<rom name="2a.wav" size="8205" crc="323c9f3e" sha1="f8d1bbb191a0e7316b7e92c72ce7c822e8e6ebc6"/>
+		<rom name="2b.wav" size="8206" crc="7ab8ea35" sha1="b371d84c338cfb95efb58e3fc984cdb5118a3ddc"/>
+	</machine>
+	<machine name="qbert">
+		<description>qbert</description>
+		<rom name="fx_17a.wav" size="17056" crc="d4dccca0" sha1="bade2371b08e2808fa5417c04533d6fd6c26016f"/>
+		<rom name="fx_17b.wav" size="18178" crc="b2c5ef7c" sha1="93030599602f93c3d2386ed91ca30600cb209d9a"/>
+		<rom name="fx_17c.wav" size="20106" crc="55ed07df" sha1="259873cdf285fc1aafb8acc9959f66e8f42fb1b5"/>
+		<rom name="fx_17d.wav" size="23526" crc="eb93dedd" sha1="f31d7b5ef9b0f8fae7ed1445ae39b44ed9e40b69"/>
+		<rom name="fx_17e.wav" size="21058" crc="fd24c534" sha1="8a6cce783058b67bddaa94c8c1f07238412b0d67"/>
+		<rom name="fx_17f.wav" size="19662" crc="10126352" sha1="7d81a781d793c0d7e376397a1e7bf1b21d8562e1"/>
+		<rom name="fx_17g.wav" size="18070" crc="ded38c11" sha1="f5f686f0bebe878417faf8cbb9fa4ee51239209b"/>
+		<rom name="fx_17h.wav" size="20070" crc="bb818dd4" sha1="b91eabef72fecfe8decb0d6b9b39035a004a7c02"/>
+		<rom name="fx_18a.wav" size="16780" crc="0d222bca" sha1="38eb7652a2d31d0085ad8ff12eacf16e10e5edb0"/>
+		<rom name="fx_18b.wav" size="17572" crc="8e4ea5f6" sha1="20222612bf7b93c7705b8eae4f2d8b96e5d7a613"/>
+		<rom name="fx_18c.wav" size="23330" crc="287649fc" sha1="89ae109a347e0237da48db682e98f7770f9f295e"/>
+		<rom name="fx_18d.wav" size="13346" crc="40595f9b" sha1="998701972df7162075bf3e140e8427be4c882ce8"/>
+		<rom name="fx_18e.wav" size="15996" crc="c3eb5170" sha1="30a30aa6159989e832283beadc18d341e2e22931"/>
+		<rom name="fx_18f.wav" size="18000" crc="4aab36d8" sha1="a205edf1c6543975f7e2e4fa629eebde968659a9"/>
+		<rom name="fx_18g.wav" size="22272" crc="0c954d02" sha1="7a00c4c47920130403f5eb842cd65d932e29ff39"/>
+		<rom name="fx_18h.wav" size="16842" crc="c8821662" sha1="21fb93496910d9a0ccffae5d0d2001d2e4dff44d"/>
+		<rom name="fx_19a.wav" size="15244" crc="4be318e7" sha1="97884add0cd4481e759e944dbbafa8836fa6599b"/>
+		<rom name="fx_19b.wav" size="22884" crc="2a2b3200" sha1="1fcbfdbcafcc7db3f0c4e23e7728c6423dc507f8"/>
+		<rom name="fx_19c.wav" size="21070" crc="b37f736a" sha1="19357f9d0d35418181d460992dda12dd086a7c19"/>
+		<rom name="fx_19d.wav" size="15540" crc="3bf2b818" sha1="0586880445dd3d998f217f5b0dee30ccf7d24383"/>
+		<rom name="fx_19e.wav" size="21520" crc="86c3d4c3" sha1="2af13271a6e3b8a975550d4d01a95924d259369b"/>
+		<rom name="fx_19f.wav" size="22462" crc="2951b731" sha1="9b178bb799c1307adeccf33a83a5597dfe88a9a5"/>
+		<rom name="fx_19g.wav" size="19272" crc="3aac85bd" sha1="291df36bb72d0c2a9c9c6670596e93657035c359"/>
+		<rom name="fx_19h.wav" size="21248" crc="c7ea2e03" sha1="c5e2e8b324958b9548d836e1e41c1c49d30172fe"/>
+		<rom name="fx_20a.wav" size="27502" crc="74c246dc" sha1="dc9a85a317138f517f6fec7b715bad36c25c4cb9"/>
+		<rom name="fx_20b.wav" size="21872" crc="ccd6e3fb" sha1="72999438eca5a4c7cc3fef3d5102a45679ca600f"/>
+		<rom name="fx_20c.wav" size="24090" crc="320bac19" sha1="dffec0f73beabad5a11860a1de81cc7c356c3a31"/>
+		<rom name="fx_20d.wav" size="15908" crc="1dbd1863" sha1="6ce96b59255d8f4ad89063e589b73707bb5a618c"/>
+		<rom name="fx_20e.wav" size="19928" crc="65391837" sha1="a5655498fc49133b1a6a6ad9e497158c361a0779"/>
+		<rom name="fx_20f.wav" size="20338" crc="e9a4c29a" sha1="5aee08ca751dba72b6b8c5682146ecf6dd92d27e"/>
+		<rom name="fx_20g.wav" size="13558" crc="24a0ee19" sha1="e35311a14e083ad4b44b11fcf916c0a74f4cc804"/>
+		<rom name="fx_20h.wav" size="15790" crc="33c76d27" sha1="34ae56a3d2773077307afb52da01ec9f8871c793"/>
+		<rom name="fx_21a.wav" size="21406" crc="46f506de" sha1="cb2e5a8d9cfd9c47667e79cbf0aaeeacb7401d0f"/>
+		<rom name="fx_21b.wav" size="19256" crc="588126fb" sha1="0e6ff920e1cde3c8dc43ab63bfb4a934824a4eb7"/>
+		<rom name="fx_21c.wav" size="18148" crc="0276d0fe" sha1="0719ad7b65ba8e572c182e00a22876460d651eec"/>
+		<rom name="fx_21d.wav" size="13712" crc="69dd8541" sha1="91342611c2e0db6d10515055b2e853cff37427dd"/>
+		<rom name="fx_21e.wav" size="19260" crc="6957d4a9" sha1="24d68953d7c6102058f1c67b6d2325ef68c99ca4"/>
+		<rom name="fx_21f.wav" size="18210" crc="4a12aa69" sha1="37fc1bda57003283616cc778f64bacaaa39c0eb3"/>
+		<rom name="fx_21g.wav" size="22714" crc="567bcad7" sha1="a9cc2d976547cc2623c83415de755929952c6ec4"/>
+		<rom name="fx_21h.wav" size="12352" crc="61cac127" sha1="82c5179a3f69b83b2e806bafe8ee883e7a60baeb"/>
+		<rom name="fx_22.wav" size="43288" crc="1c966770" sha1="bae881330035375256019ee582be079d9ec5b37c"/>
+		<rom name="fx_23.wav" size="53730" crc="a21bf895" sha1="30a47985963a743d75f8eab9bd42fbc2e1cc2168"/>
+		<rom name="fx_28.wav" size="32342" crc="fcca4ad4" sha1="812ec05dd94797b86448dcefc935b860c152c044"/>
+		<rom name="fx_36.wav" size="9546" crc="594fd851" sha1="4297c628f3ab8792d816c38ac84feff6a471f0c9"/>
+		<rom name="knocker.wav" size="6472" crc="ae3fb77f" sha1="f04a4a4dfa6f829c8e2b0d392a1291814dacb16d"/>
+	</machine>
+	<machine name="radarsc1">
+		<description>radarsc1</description>
+		<rom name="10.wav" size="26560" crc="6969ee29" sha1="37ed8500ff7338806748d1b5753f66e1968af505"/>
+		<rom name="12.wav" size="57840" crc="6c3ace08" sha1="4a29e17fe24ad55b0d6f462b6e4b19c8d13c7787"/>
+		<rom name="14.wav" size="78132" crc="394877f3" sha1="50544be73185d1754283f6950e41b06ef0846f9d"/>
+		<rom name="16.wav" size="11718" crc="8a3f34e1" sha1="0b9b6fc54d83b99db4e9bea4ffd58d9e77303a6d"/>
+		<rom name="18.wav" size="14616" crc="c3557d83" sha1="da29f5bc213f87e86fa01fac1efb75aabb826835"/>
+		<rom name="1A.wav" size="16144" crc="1916de6f" sha1="6243a031c43b0da8c7128c0422ffa79fefc0da5d"/>
+		<rom name="1C.wav" size="39122" crc="62147cd8" sha1="1c5bbffd72e47c36d78d9a7ccabb5fea39f02e63"/>
+		<rom name="1E.wav" size="53440" crc="752597ab" sha1="0f95cdac3eec8bc21690d88a094d236e2e651694"/>
+		<rom name="20.wav" size="57032" crc="47c41d6d" sha1="9e6910c6bbbc80a7f0420df62e7a6b0d9f585179"/>
+	</machine>
+	<machine name="rallyx">
+		<description>rallyx</description>
+		<rom name="bang.wav" size="79006" crc="c1373563" sha1="388c49757e48c5a4aa1bf6a28b485772f68fc211"/>
+	</machine>
+	<machine name="reactor">
+		<description>reactor</description>
+		<rom name="fx_31.wav" size="32434" crc="eb417fa2" sha1="b79bc77d436df8c83ee61b528bde15400064c468"/>
+		<rom name="fx_39a.wav" size="18262" crc="e6ff5bda" sha1="c882b042f3d5d710f89b8d96f9c128c0c896a9b3"/>
+		<rom name="fx_39b.wav" size="23676" crc="f1fec27f" sha1="c73d1bb2a9a80061f68a44b083cab91acaad8acc"/>
+		<rom name="fx_39c.wav" size="19274" crc="3b24e5c0" sha1="44b9d712fefff564ada79a900fd3666f3d8656c7"/>
+		<rom name="fx_39d.wav" size="25588" crc="5323ccc2" sha1="efa18ac26a8263b725e38d7b597a4f62749dfad9"/>
+		<rom name="fx_39e.wav" size="26266" crc="22d5aa8d" sha1="0615335278de6bcd0b490acc5598f68ccd63f957"/>
+		<rom name="fx_39f.wav" size="30552" crc="1e038bb9" sha1="6d3f838131ba481aa1bcce97b325a239c948f388"/>
+		<rom name="fx_39g.wav" size="25130" crc="73e229d7" sha1="4aae553cfd84f3754362c40678fed5b0d1120351"/>
+		<rom name="fx_39h.wav" size="29396" crc="02246aa3" sha1="05a9936b45a5d80bb5aea427e78e4f6f1dfd4163"/>
+		<rom name="fx_39i.wav" size="25906" crc="75f7c8b9" sha1="8976ce51564bd1926db0d98d4c3d83bf79acc1d0"/>
+		<rom name="fx_39j.wav" size="32502" crc="ee31e51c" sha1="6649a09d793e7877b20c0849bf54df14a3fcab28"/>
+		<rom name="fx_39k.wav" size="26130" crc="2aae66c3" sha1="33d005cb39537ab12adaabda7f360cb4988e04fb"/>
+		<rom name="fx_39l.wav" size="32752" crc="1d0c2855" sha1="9766713a1e837acdf49a9f60be0742e82f5cb926"/>
+		<rom name="fx_53.wav" size="21476" crc="97a81a7a" sha1="c63a9b02ffaa65c370e3fe73f7bcbf5d78935736"/>
+		<rom name="fx_54.wav" size="25606" crc="84cef240" sha1="a13b532bbe5c1c57688cfef5b29a327a169581dc"/>
+		<rom name="fx_55.wav" size="29800" crc="50113406" sha1="e0fd2cde61e21e43d079d2675ae45406cbe602da"/>
+		<rom name="fx_56.wav" size="26896" crc="55615aba" sha1="98a2681e1da9caf6ac0cca7657b83a3af9e5c64e"/>
+		<rom name="fx_57.wav" size="23158" crc="5ca20fff" sha1="4e335723ee869670a071b033749a7b870b89ea0f"/>
+		<rom name="fx_58.wav" size="38210" crc="1d89786b" sha1="1c18f319e6b37d43da4a33cb12804863c710d21e"/>
+		<rom name="fx_59.wav" size="10942" crc="9da469dc" sha1="221ff920a4f6a4d65cdd452bfe5da36f52493eb3"/>
+	</machine>
+	<machine name="redbaron">
+		<description>redbaron</description>
+		<rom name="EXPLODE1.WAV" size="56364" crc="496b3d71" sha1="8f5ff1b8dc5e98fd4708b2f78217ec5b3009ad3f"/>
+		<rom name="FIRE.WAV" size="21836" crc="030b6a18" sha1="625fb54b0671f6c073d4182c54c2a0d9c9dd313c"/>
+		<rom name="SPIN.WAV" size="7020" crc="f755fecc" sha1="67e4cd953a077e5ad88c51c744287516b392b1d5"/>
+	</machine>
+	<machine name="ripcord">
+		<description>ripcord</description>
+		<rom name="chute.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="scream.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="splash.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="whistle.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+	</machine>
+	<machine name="ripoff">
+		<description>ripoff</description>
+		<rom name="bg1.wav" size="16254" crc="0b2f8814" sha1="3e878ba298d885612ed540e5db8854a77db81166"/>
+		<rom name="bg2.wav" size="12676" crc="4e1e676c" sha1="dd084ab73f041d43eeda58384fa6232d2c6b1bb7"/>
+		<rom name="bg3.wav" size="12682" crc="b31e9ac2" sha1="e721cebec3eb2c5de409587647c0ce7721fe5f16"/>
+		<rom name="bg4.wav" size="9040" crc="33d33b68" sha1="a686b3b3cdb68146354b235a8d70cb60c46f2309"/>
+		<rom name="bg5.wav" size="8228" crc="bda175ce" sha1="380897303a661757ac7ca42b32e0ceff94d1921e"/>
+		<rom name="bg6.wav" size="7340" crc="b47c1c02" sha1="ea405de689dfbe868c3b6d71e684011bba3c8828"/>
+		<rom name="bg7.wav" size="5976" crc="ec25e1e7" sha1="fa98a102abb79b90ce368700e7a568c4c508526c"/>
+		<rom name="bg8.wav" size="4186" crc="30bc45ef" sha1="58e57b355c1c257a352dbbbcecf910ae8493b165"/>
+		<rom name="bonuslvl.wav" size="4780" crc="83bb6ddd" sha1="d7c7738de1163ecdd63f6ba80105dc6f530cb526"/>
+		<rom name="eattack.wav" size="56364" crc="8f6dab70" sha1="d792b4a43b59fc7e7de6cd192e791b68b214db2b"/>
+		<rom name="efire.wav" size="13476" crc="0667b1d9" sha1="9ae5fad9e9878057a69ccf2a9644bffeba78a6e6"/>
+		<rom name="explosn.wav" size="82798" crc="12391842" sha1="12312ffbddd837c9539d82ed5e0637ff1edb7e3d"/>
+		<rom name="shipfire.wav" size="15982" crc="073eff7e" sha1="0617a6bbf03567783481ad49f17d7d28acc9f9ae"/>
+	</machine>
+	<machine name="robotbwl">
+		<description>robotbwl</description>
+		<rom name="balldrop.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="demerit.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="hit.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="reward.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+		<rom name="roll.wav" size="44" crc="44a894f9" sha1="b8000eada705cf56630266b151564d054d3e2a06"/>
+	</machine>
+	<machine name="safarir">
+		<description>safarir</description>
+		<rom name="sound1-1.wav" size="18692" crc="8bf7028f" sha1="fb42798786ef993647329f305fff65feedf08f48"/>
+		<rom name="sound1-2.wav" size="12806" crc="2e2cd582" sha1="c5c7e5e60a30c3cc67592d3b448e66549e977d66"/>
+		<rom name="sound2.wav" size="1880" crc="2870686d" sha1="2b587b6bf6a991485c11e69ac90f5561f5dc621b"/>
+		<rom name="sound3.wav" size="19308" crc="8f8bceee" sha1="237228354a0ca728d5db9fa5e69251d31485e436"/>
+		<rom name="sound4-1.wav" size="49670" crc="1e23a7db" sha1="43fe8f16c5a5b50681255c3e9d6a63396b76853d"/>
+		<rom name="sound4-2.wav" size="49778" crc="3c0ee527" sha1="1a3dc3e0bfd828632e239a74e2bdf3b309c01558"/>
+		<rom name="sound5-1.wav" size="150258" crc="7cb17f57" sha1="801d3a2d3540deade86dc6575843b909e593d99a"/>
+		<rom name="sound5-2.wav" size="25312" crc="1bfb0f00" sha1="704d6d7e6440c3672a977165e458ff0a13cdcaa7"/>
+		<rom name="sound6.wav" size="386370" crc="1953bb91" sha1="e7ebdf9356608e728a92dafd00fc330af269fb66"/>
+		<rom name="sound7.wav" size="12572" crc="d1a2ed3a" sha1="7c244be9033c48c5114fa9f238be3424155c4db5"/>
+		<rom name="sound8.wav" size="182576" crc="b9d21ba2" sha1="b23d2db1de50612effbfe8196f5012497d56b446"/>
+	</machine>
+	<machine name="sasuke">
+		<description>sasuke</description>
+		<rom name="boss_attack.wav" size="36396" crc="abad9227" sha1="e0ae7706f617ac4afc779ed07ad0d5ee0487f203"/>
+		<rom name="boss_start.wav" size="403500" crc="d73184ac" sha1="19a3c6ffbd366c3372dd4153195277805482c76d"/>
+		<rom name="hit.wav" size="18348" crc="ea2de77b" sha1="ab120e9ab63d9207da59de44640634110aab861e"/>
+		<rom name="shot.wav" size="67884" crc="64da86df" sha1="12f31f9a420db35da8c2ff4348feef5e02b3bc8f"/>
+	</machine>
+	<machine name="sbasketb">
+		<description>sbasketb</description>
+		<rom name="00.wav" size="7753" crc="2f14078c" sha1="899055c58177ecfe874135b424ce415eb7c9d919"/>
+		<rom name="01.wav" size="17312" crc="204ac0dd" sha1="22a1bc9c3cb9c17b86ef25eba1f6b671f8699139"/>
+		<rom name="02.wav" size="11235" crc="7a566f75" sha1="3af1dca425532481dccfa348aaa8f5d3e20efeb3"/>
+		<rom name="03.wav" size="12109" crc="bde03247" sha1="be7824e51448d877900ac17d112e0bcfc02184e0"/>
+		<rom name="04.wav" size="15998" crc="7375d716" sha1="00b47edafa075a69a2dbda569ad672c1ca42dc71"/>
+		<rom name="05.wav" size="16009" crc="4643e08e" sha1="2dba5f9e828e9d1816d308432a5f6b98811f6770"/>
+		<rom name="06.wav" size="9079" crc="b60db76c" sha1="fe7d4c8fd77027de44c01614bd3761b5830e1ef4"/>
+		<rom name="07.wav" size="25104" crc="13e72749" sha1="d95aa3ce5b7c008e00a25fb6969d1d211cc662c3"/>
+		<rom name="08.wav" size="10371" crc="930d9104" sha1="533616b1a88482cfe1a79c7428c3af65fd8444ee"/>
+		<rom name="09.wav" size="10802" crc="15aaed6a" sha1="362c62b9caa28b6afe6eef9a6ff65ecf9d2ad254"/>
+		<rom name="0a.wav" size="10368" crc="b9f6338c" sha1="cf9b808b40152c19126966f231f6f145c1bbd283"/>
+		<rom name="0b.wav" size="9511" crc="0bd51ecf" sha1="fb17edab447ce2393d74be68af01dae7d689550f"/>
+		<rom name="0c.wav" size="10800" crc="79aab655" sha1="5b315b9589e52f03398c80144d9772849caef2a7"/>
+		<rom name="0d.wav" size="10361" crc="4b629795" sha1="a058c314929fce7c06582dd2ba3ff305e9dccea8"/>
+		<rom name="0e.wav" size="11235" crc="b8c3d994" sha1="4aa123cdfefdcaa8faaf9b7902fcbe6fbd5481b9"/>
+		<rom name="0f.wav" size="6891" crc="b363ef0e" sha1="3fed41680a2acc126941a5a07a75347b525ad632"/>
+		<rom name="10.wav" size="6455" crc="ad108247" sha1="03f6eb1b19c784ec06cf6c20f85a69bdb758c8e6"/>
+		<rom name="11.wav" size="12983" crc="b161f812" sha1="171d9943aa11053c1d2338de636f56cedb853cc8"/>
+		<rom name="12.wav" size="10366" crc="6aacc540" sha1="fdda695b4c54135211ffdbcbe7130c7c45b1de43"/>
+		<rom name="13.wav" size="17297" crc="3a9575b3" sha1="1edb1859d6a2b7d48719c3616d0c7da127fb5ee2"/>
+		<rom name="14.wav" size="22511" crc="31d557db" sha1="844b4db2803ddb9d5a08d46d0ae1d76de935ef7f"/>
+		<rom name="15.wav" size="9501" crc="bb61d831" sha1="693449772d6af318fb5b9bc052fcff3111aee48e"/>
+		<rom name="16.wav" size="17319" crc="dcb985f4" sha1="440afb2196bd7fc970cedb2170d57e94c1bfa964"/>
+		<rom name="17.wav" size="2134" crc="074ac9df" sha1="06c3b8de88b11480190fa48a5df334635eafcc08"/>
+		<rom name="18.wav" size="9073" crc="44de5aec" sha1="d43ca096fbc663da4d8e9a071291517f1f581502"/>
+		<rom name="19.wav" size="19490" crc="01b53501" sha1="0f398d2c4455e71f7dcfe851807e23680c026d70"/>
+		<rom name="1a.wav" size="5179" crc="88e004d9" sha1="d279849692c26927b0f00c99496a89d0ef760748"/>
+		<rom name="1b.wav" size="10365" crc="d1159ce1" sha1="f5b78a78b41b57a9df680c7a3ada99c42b390549"/>
+		<rom name="1c.wav" size="8620" crc="f6403045" sha1="df956896dd759bd823870c4a60ea3a44fa136580"/>
+		<rom name="1d.wav" size="1763" crc="44b809bf" sha1="695041d7ce8e3753687c603f2a1b93fadb254697"/>
+		<rom name="1e.wav" size="1700" crc="75ff1e90" sha1="95b00d2cd0c2f5c2f92ae0fc1398f0d211f918b9"/>
+		<rom name="1f.wav" size="12964" crc="67af4dbe" sha1="0b42a735c54a06165fa48b6114f7a919d5e9f836"/>
+		<rom name="20.wav" size="30338" crc="1708d321" sha1="51b0fa5d7db29f0a5b2f1c48cbc7ca25acd6740a"/>
+		<rom name="21.wav" size="34650" crc="be57e18c" sha1="0251bf469b71b33f2ec86035e2ca02ca3c28f5dc"/>
+		<rom name="22.wav" size="10374" crc="9bd840d7" sha1="088b006587ead10f716c68c5c545e9b29b403fef"/>
+		<rom name="23.wav" size="15582" crc="d1f22743" sha1="4be1c23e4b31fb4cc26f116c56d3d64a296fff64"/>
+		<rom name="24.wav" size="6890" crc="0000dec7" sha1="e51df8556aea7eb958bb389541e5838c4be3084e"/>
+		<rom name="25.wav" size="20786" crc="54ca5f64" sha1="fd70372d3415b92a1f36b6cfef3d93b29b7a652f"/>
+		<rom name="26.wav" size="21228" crc="aecd523b" sha1="0f0319c14f17e79a84003b9b7d0a0985f16bd2e4"/>
+		<rom name="27.wav" size="5161" crc="8cee9508" sha1="6a9434e803ebf5d4645ef099d0d6ad4f28d771d0"/>
+		<rom name="28.wav" size="4728" crc="e98fd856" sha1="ba066fcec8edac0d076e5ed83f0cdcd3375bca61"/>
+		<rom name="29.wav" size="13827" crc="b330413c" sha1="ddd5dfb385210b7fab1d394fef1da34381884fcc"/>
+		<rom name="2a.wav" size="4299" crc="6c4e00c4" sha1="e4a7909c0e30769fc47c914046272346e57a2c6a"/>
+		<rom name="2b.wav" size="9079" crc="cdbf8911" sha1="364dd21b4391e1ea25324823500dd1645d931351"/>
+		<rom name="2c.wav" size="6470" crc="37a685e7" sha1="5d420553d81012503e89f256b91aec5444d63e59"/>
+		<rom name="2d.wav" size="11692" crc="a7ce95af" sha1="efa52fcc10a8658d6405b5af34ba03870e46e565"/>
+		<rom name="2e.wav" size="4308" crc="ca94f486" sha1="16e9ae9ae7867ae0d2aec06be75f66e0046ecdc6"/>
+		<rom name="2f.wav" size="11677" crc="e5c16f45" sha1="96c3880bed16a8f799cad743ad3d6ec1ce8ce8be"/>
+		<rom name="30.wav" size="1752" crc="a72a9dae" sha1="d25e68e91afc82a908d79175042733415f90388f"/>
+		<rom name="31.wav" size="13411" crc="008fd38a" sha1="b08c815a90d66f271717b9f07f28e11f5b066fb1"/>
+		<rom name="32.wav" size="24696" crc="379ab8a6" sha1="4085f7727e529d6f750ff2e565790a2d6400c037"/>
+		<rom name="33.wav" size="22075" crc="3a56274d" sha1="f04e322cc851d08d7a5566deb2a18cf172afa5a7"/>
+	</machine>
+	<machine name="seawolf">
+		<description>seawolf</description>
+		<rom name="dive.wav" size="220104" crc="71557aa8" sha1="e4053e068418fed0279ce8a87ed7607513f15160"/>
+		<rom name="minehit.wav" size="308342" crc="3a068d60" sha1="3ca9483f0b89576e5b54ea28cc7c67b137e45dc0"/>
+		<rom name="shiphit.wav" size="431222" crc="e62894fb" sha1="9d10e78f04e2a620072cdf700d3d567a117542bc"/>
+		<rom name="sonar.wav" size="857206" crc="2dd44702" sha1="05d9187883857b80b5a76438394a6172bac711e2"/>
+		<rom name="torpedo.wav" size="534646" crc="ebc9ff88" sha1="1a7d6a9c9b4aa608b99d15ec1b0d6b1999e6e6f3"/>
+	</machine>
+	<machine name="sharkatt">
+		<description>sharkatt</description>
+		<rom name="crash.wav" size="450656" crc="fdd971f4" sha1="bfd82e1e4527d0f04ab667042c225d5d462fad9e"/>
+		<rom name="talk.wav" size="1977024" crc="076efcfb" sha1="1d4fe1e593771a01c4552eed1aa767d4d9141f9e"/>
+	</machine>
+	<machine name="smoepro">
+		<description>smoepro</description>
+		<rom name="00.wav" size="20942" crc="fc98b490" sha1="5e9ac5a002eb39b38494bfd6b581b078fb14e8ab"/>
+		<rom name="01.wav" size="22446" crc="e2eb3e50" sha1="403ccd51bc9839c2a8d2fd738948aacbcf7f52ab"/>
+		<rom name="02.wav" size="29228" crc="83ada297" sha1="4e031f02b6c2d0755621ce13d9bf65ad4556ab3d"/>
+		<rom name="03.wav" size="32628" crc="70ff1508" sha1="4dc7ee00eeacdb8df0923d448b95d4765ce9f8bf"/>
+		<rom name="04.wav" size="40814" crc="877128ae" sha1="851c6b08738b84c968210c62622499cbde9295c0"/>
+		<rom name="05.wav" size="22190" crc="3e2bb48b" sha1="8243ad1d4d17bc9098968c6dd6ccbf8f971dba07"/>
+		<rom name="06.wav" size="30830" crc="9b525b3a" sha1="1f83fcafec7420df9e1d58d454c70166b23a7832"/>
+		<rom name="07.wav" size="70834" crc="b7ae2478" sha1="94d51b3aa6964d3053190ff57bbe3c1bcf83552e"/>
+		<rom name="08.wav" size="44208" crc="be037372" sha1="612ae25f45d4dab2d87f26b200e39d2305c43bc4"/>
+		<rom name="09.wav" size="66996" crc="d4a20aa1" sha1="6a7a6c3c94cb3a0c53c1c094869b5f26de1f03e7"/>
+		<rom name="10.wav" size="59182" crc="ee255c07" sha1="b18c8adc4c5c8c0dbcbe21d6f952e09fa949d572"/>
+		<rom name="11.wav" size="70702" crc="1505dad7" sha1="4ab661976d560c16a5d4e4bb9ccca81d3781dc67"/>
+		<rom name="12.wav" size="52592" crc="2039c2b2" sha1="8e89809675fe436e78a37dc948e3f9986d4d1849"/>
+		<rom name="13.wav" size="30640" crc="ffc74ce0" sha1="a993afea9f67cfed2b14eb4be7d94f05089cfe5a"/>
+		<rom name="14.wav" size="109234" crc="8c28e8c9" sha1="3a7e3c2aad1586d8b803ec928e2baaf5ffe3cda4"/>
+		<rom name="15.wav" size="29172" crc="26de6d4c" sha1="a94cb8781c76d9e90861a37f65c0add8e2ba4802"/>
+		<rom name="16.wav" size="19916" crc="6432c010" sha1="0d71aab4130777976fe3b696dd9c602583e574cd"/>
+		<rom name="17.wav" size="22958" crc="447ae494" sha1="ecb73588359f7da9ba64a22304b48d7f0add1009"/>
+		<rom name="18.wav" size="29804" crc="c2d31739" sha1="0625184b5fe4e59048a3e30e0eff9ab82ed07fa1"/>
+		<rom name="19.wav" size="240056" crc="8f759303" sha1="c58db29c3b552d5e5176c885be65046197ad866c"/>
+	</machine>
+	<machine name="solarq">
+		<description>solarq</description>
+		<rom name="bigexpl.wav" size="101542" crc="4c503be5" sha1="2a434b59236630774e7f11ce61ced8923f42f023"/>
+		<rom name="lthrust.wav" size="75158" crc="a2d5d94f" sha1="52054b016c2a88c9e040dfab8a41532bd1ff0b6c"/>
+		<rom name="music.wav" size="88246" crc="81855470" sha1="a05b64d17c3afc3b8e6c8671ae924081792eefa2"/>
+		<rom name="nuke1.wav" size="61236" crc="f5c65f40" sha1="11655813a72c74e5663591ca3b2318b214b082c7"/>
+		<rom name="nuke2.wav" size="51996" crc="85323cd0" sha1="8d52eb62da93f58708c4a10f6c76e184cf9dc92e"/>
+		<rom name="pickup.wav" size="4512" crc="1806ac0a" sha1="79359d68a115ae76a0d8d54e66200b89926a67a2"/>
+		<rom name="slaser.wav" size="40334" crc="fc07c43e" sha1="a7b96f22e3a6173fe1b61f347e4be178d66081a5"/>
+		<rom name="smexpl.wav" size="31620" crc="bfddda7b" sha1="49c2b2bb67df98c32b737f37b83c88427a08c968"/>
+	</machine>
+	<machine name="spacefb">
+		<description>spacefb</description>
+		<rom name="ekilled.wav" size="282522" crc="1188ebf0" sha1="1376703fa6d879d2325e9cefcef46a2616e7cccb"/>
+		<rom name="explode1.wav" size="221114" crc="8eeac18d" sha1="99c591e028f8af6f1c533a53f07b4cbd27454df3"/>
+		<rom name="explode2.wav" size="95138" crc="e197befd" sha1="6683746ddbd64feba3607f31dc5b017def69cb8b"/>
+		<rom name="shipfire.wav" size="194164" crc="b4db6b4b" sha1="f23e80100d92a1cda3181ce6a3de4a4df1e24f05"/>
+	</machine>
+	<machine name="spaceod">
+		<description>spaceod</description>
+		<rom name="accel.wav" size="430746" crc="52387fd3" sha1="182c1e2e7796b1a3219a45e4341161d98e9ac7e1"/>
+		<rom name="birth.wav" size="23488" crc="a17673bf" sha1="115d7e8949013e5bfe32006ebefec67f24460cc4"/>
+		<rom name="bomb.wav" size="83958" crc="720a9937" sha1="430cb344ac862508d6e75526dccd17e89b139f8f"/>
+		<rom name="damaged.wav" size="49474" crc="2d5760cc" sha1="9ab2cde2b4cfebf7e1972d9e2956b39a29bd0884"/>
+		<rom name="eexplode.wav" size="167278" crc="8c2aa95a" sha1="0809bc79b958616d36d2c72df7b4533f04151ac5"/>
+		<rom name="erocket.wav" size="108438" crc="111f2d58" sha1="eb15f127f6261d0bdb815e189bf4739846e0429f"/>
+		<rom name="fire.wav" size="70992" crc="cd66b0a1" sha1="06203ffdd1830cce784250f7fccd1f2f61b4b30f"/>
+		<rom name="pexplode.wav" size="188580" crc="ed516ffb" sha1="1ae5115c2bb9e10ae6dcbf759d91492d0e8144a0"/>
+		<rom name="scoreup.wav" size="1538" crc="80e97959" sha1="7376f8753380cd89862caf4ffcb0f4c33bb973e2"/>
+		<rom name="ssound.wav" size="73578" crc="e390e72b" sha1="e88f59c72637e17df29bccb88e2ec51ed61cfde3"/>
+		<rom name="warp.wav" size="210464" crc="81894868" sha1="0064986f69009c5fd094fe93537b295dde9f46b2"/>
+	</machine>
+	<machine name="spacewar">
+		<description>spacewar</description>
+		<rom name="explode1.wav" size="84734" crc="550a290b" sha1="96b56697cdbd68403a197e648386cfbe6645dcfc"/>
+		<rom name="explode2.wav" size="92176" crc="51b3704b" sha1="11f5421f6b9a0b71439f4321e78ee089c9f07ffd"/>
+		<rom name="fire1.wav" size="12436" crc="a106eb10" sha1="ddff76a1fd237f5449fb0d0d38e0552cb7c9eff3"/>
+		<rom name="fire2.wav" size="12582" crc="e108b917" sha1="6a5b11ccd9325d82d9bca265f708a7e13494f7df"/>
+		<rom name="idle.wav" size="22608" crc="1679c9b5" sha1="c3407eb5b078229e4c9e729b171fdc92c19813fb"/>
+		<rom name="pop.wav" size="210" crc="016e1774" sha1="8f66953907d3d31e3321b6a3dd495468f51f3c02"/>
+		<rom name="thrust1.wav" size="20890" crc="e1350392" sha1="24c449fa69ae8e93894350e7f299cc4ca32bf93c"/>
+		<rom name="thrust2.wav" size="17816" crc="1294cb41" sha1="27fd979debfcea9c5a3fc8d57968a55ad079797d"/>
+	</machine>
+	<machine name="spacfury">
+		<description>spacfury</description>
+		<rom name="sf01.wav" size="46498" crc="bb838305" sha1="61ecd99adfdcb1801531cbb21d9f055fc477e02f"/>
+		<rom name="sf02.wav" size="115994" crc="67158446" sha1="ad53d27c0b3c130bcc86fd13f74fcb04b377f928"/>
+		<rom name="sf03.wav" size="69462" crc="8ec78e9b" sha1="afa7cadd238a98baa87b33d2d349fb5d22d2e98f"/>
+		<rom name="sf04.wav" size="77926" crc="389e3548" sha1="9e6dde979eda890675d56a35be9ca4d3c9fcb20a"/>
+		<rom name="sf05.wav" size="133278" crc="ae427e00" sha1="73d13e249f0e7fa431e6c30da0635ccaf7e41cd5"/>
+		<rom name="sf06.wav" size="150516" crc="34539a01" sha1="6459dbb074eacf34accaf1362d3a53c9cfbeaa86"/>
+		<rom name="sf07.wav" size="147364" crc="4a8f3ea8" sha1="a76e4329ac260640bf55d5a6c24268318451b418"/>
+		<rom name="sf08.wav" size="38346" crc="c2943856" sha1="fd4bcfb023ed7a308dd3f879b3efad8578bb227c"/>
+		<rom name="sf09.wav" size="150280" crc="42897134" sha1="59308036fe49564046712c0f72a36baa848fcc8b"/>
+		<rom name="sf0a.wav" size="43204" crc="f4359110" sha1="929d055123f6f07a523a1d3b7f9488abb561b7a4"/>
+		<rom name="sf0b.wav" size="124622" crc="6673787a" sha1="70ecd179f760f7b37fc455112d723380c8fbff71"/>
+		<rom name="sf0c.wav" size="130870" crc="770d7da5" sha1="516a5d898bcaff1db094dbb74aafb01a441380c7"/>
+		<rom name="sf0d.wav" size="166762" crc="e4256af8" sha1="bd3415030755d0383a51e050352cc874a0fedbdb"/>
+		<rom name="sf0e.wav" size="112418" crc="cb6bfc38" sha1="bd727264fbb18c3069e79dd3617d8778d744a404"/>
+		<rom name="sf0f.wav" size="34466" crc="504a48c1" sha1="1d8f54acb07a4177397ef9d3348234f89c52fe08"/>
+		<rom name="sf10.wav" size="49146" crc="e3cc4f71" sha1="7a0dfca93bbd08ecbb08ba9d7ea5a18aa80e7abe"/>
+		<rom name="sf11.wav" size="43348" crc="e43ed51e" sha1="9ec2a967a1d80c43f96f58e4cfcef228055973f2"/>
+		<rom name="sf12.wav" size="45730" crc="1d4360f9" sha1="c3922553ded88efdb40d87f6d715db568fe8dd04"/>
+		<rom name="sf13.wav" size="46398" crc="d0191ece" sha1="78f3ade52ea5a60b1cee43daf09b94f987448b55"/>
+		<rom name="sf14.wav" size="61556" crc="0a9501db" sha1="ef3ad220b46b85b47f99c44b85ba137e007f80f0"/>
+		<rom name="sf15.wav" size="28470" crc="f8f0cf2b" sha1="a6f0313e696068c25b076879596e0684d012d123"/>
+		<rom name="sfury1.wav" size="211130" crc="2ff4092c" sha1="3208f72b5e3be66bb1c787f43e3eee377cd3cb54"/>
+		<rom name="sfury10.wav" size="105678" crc="3abdb88b" sha1="a6b2e3c8d2f16bcaa45f2720e85fc6b219a4f50e"/>
+		<rom name="sfury2.wav" size="26094" crc="d76def33" sha1="01b12095a395af8bc7eef635120b35eac4ad8038"/>
+		<rom name="sfury3.wav" size="38228" crc="6ec32007" sha1="fc81400bfaa2f34df8296c0de828d6afb9c7c8da"/>
+		<rom name="sfury4.wav" size="10730" crc="2cf76b6f" sha1="2b15d120520f7dbd69cc30781edf2476d0991543"/>
+		<rom name="sfury5.wav" size="12290" crc="caac4bdd" sha1="b213255066f1f4ebbc119fdcae1e3767b2e5f3a3"/>
+		<rom name="sfury6.wav" size="34176" crc="512c5c48" sha1="691617578895b2848372e95ea841630df2acffdc"/>
+		<rom name="sfury7.wav" size="20890" crc="0f9db259" sha1="00222049d1d166af11a38fe66170af3395a5bf70"/>
+		<rom name="sfury8.wav" size="76560" crc="c0adf635" sha1="fbeb307e7acbb3f24f5b11be5d7f7e0f2095cd87"/>
+		<rom name="sfury9.wav" size="104848" crc="e159c13b" sha1="68f3abfa76b6fbdbd350c28ab6fa78f8920afcf8"/>
+	</machine>
+	<machine name="speedfrk">
+		<description>speedfrk</description>
+		<rom name="crash.wav" size="61252" crc="1745a9b7" sha1="0b94d650023b815fbd170ebd39c1c45629ecf153"/>
+		<rom name="engine spound sample higher gears.wav" size="752074" crc="bd70773a" sha1="d17564f168e4e179084ff0cc5c1cd4c856817f7c"/>
+		<rom name="engine spound sample.wav" size="283008" crc="d3bdd0b8" sha1="7bdf454ec1674ce2bff01ec93a534f93d790557e"/>
+		<rom name="engine.wav" size="3718" crc="99f66e69" sha1="10922857bf12b47f91b20c8a1c32b4b1be4a9b51"/>
+		<rom name="horn.wav" size="65022" crc="3164f4dd" sha1="37c03b69a8e114219b395a49ae79741c74a255b7"/>
+		<rom name="offroad.wav" size="15978" crc="02c47838" sha1="5e63bb80a97d71dc3fd62db1c6caf12d0159e320"/>
+	</machine>
+	<machine name="starcas">
+		<description>starcas</description>
+		<rom name="cfire.wav" size="137062" crc="c955331b" sha1="cf430f4c536c9c627cf286a403726d0b373459c5"/>
+		<rom name="drone.wav" size="43128" crc="64349988" sha1="86a682ba5fb0c385ca609cab015c451360d198c7"/>
+		<rom name="lexplode.wav" size="146774" crc="cd7ff0b2" sha1="99ee00ee0e0a44904b32af5fd6e2c82dd16e243b"/>
+		<rom name="pfire.wav" size="13840" crc="8578a51e" sha1="638c18e9d6e70703b9ccd5c0d934530510e68577"/>
+		<rom name="sexplode.wav" size="54192" crc="1f71b538" sha1="9f3349235608cab5f8b21b8989b5a782e6fcfdf3"/>
+		<rom name="shield.wav" size="9818" crc="08f08cfd" sha1="9692542d773df117f74e7e3339f4402a7b799eac"/>
+		<rom name="star.wav" size="13508" crc="9ca8c49e" sha1="b79a2fd5e31d0eeedcd52fc87446472069a74ef7"/>
+		<rom name="thrust.wav" size="35202" crc="be5dd017" sha1="1e8327ebf6fd243c2f95cff422d266b6a63a0043"/>
+	</machine>
+	<machine name="starcrus">
+		<description>starcrus</description>
+		<rom name="engine.wav" size="131702" crc="3a0c3f5a" sha1="dd8bccfb923c55f14932459701d68d4724e3e005"/>
+		<rom name="explos1.wav" size="131248" crc="6cc8bbb8" sha1="e77e381744ce4cd33d6efdc809c59e840a70e447"/>
+		<rom name="explos2.wav" size="106178" crc="152f7bdf" sha1="5657694c7573cca50c55a767d7cfc57111d0228c"/>
+		<rom name="launch.wav" size="58924" crc="11816d73" sha1="e73fd8f2bc0e402a672dd9b63a1e5f7dc0df86c5"/>
+	</machine>
+	<machine name="starfire">
+		<description>starfire</description>
+		<rom name="explosion.wav" size="89522" crc="e445dc46" sha1="cd16796defa6874ee2ecc4a00428298040355444"/>
+		<rom name="laser.wav" size="55204" crc="5a80f813" sha1="0c6d35662f0ef535ce864caa0d5bff7869b9e50c"/>
+		<rom name="lock.wav" size="19072" crc="9f38289e" sha1="6f42d22840173777c3b69ad4f8285c84778da32a"/>
+		<rom name="overheat.wav" size="44278" crc="a016a504" sha1="79552411e2cc4eae8f15e920532a9961780f34a6"/>
+		<rom name="scanner.wav" size="28302" crc="3f9dcd8f" sha1="96416a1fa2f3ae4453a589a781695ef20c863b1c"/>
+		<rom name="size.wav" size="88174" crc="509ed9ce" sha1="94bcdcae72e89e9a9864a513fa153d00701c85e9"/>
+		<rom name="tie.wav" size="203152" crc="26e1510b" sha1="44ccdcb5cac5baa7aaf664a7108eab9db4d0957e"/>
+		<rom name="track.wav" size="33026" crc="e8d8d506" sha1="92e2b9d35da42fc5d547fcd10d8d6da98d6b4151"/>
+	</machine>
+	<machine name="starhawk">
+		<description>starhawk</description>
+		<rom name="explode.wav" size="220822" crc="0c0a8b7a" sha1="ee94eaa0c528fb0e94ca53e808cae736ed8aabc9"/>
+		<rom name="k.wav" size="91754" crc="c7bc8de1" sha1="eab0ebc5e3aa08aa1f5eea60dbecc44b2baac104"/>
+		<rom name="kexit.wav" size="139214" crc="923d727f" sha1="1cdd76f48deffd91fb27432ea9374f85df905a32"/>
+		<rom name="llaser.wav" size="36784" crc="ee7d52f8" sha1="ee4aa5e211fdd3b06c17eb4ae065cae27ea3a9a1"/>
+		<rom name="master.wav" size="20890" crc="e1350392" sha1="24c449fa69ae8e93894350e7f299cc4ca32bf93c"/>
+		<rom name="rlaser.wav" size="36784" crc="ee7d52f8" sha1="ee4aa5e211fdd3b06c17eb4ae065cae27ea3a9a1"/>
+	</machine>
+	<machine name="startrek">
+		<description>startrek</description>
+		<rom name="st01.wav" size="132478" crc="160e09e6" sha1="59196619d8d01a38924fea71e60d6c3e77c04e6c"/>
+		<rom name="st02.wav" size="167646" crc="f8a4005d" sha1="23a2647521566e8e66302b6ca7359d9fb48a8e10"/>
+		<rom name="st03.wav" size="163316" crc="71e4c9bc" sha1="b5ade1ea2d6aad29697051c2fe5e61563b8c1c03"/>
+		<rom name="st04.wav" size="101660" crc="ffb1dbb0" sha1="3c8da9d5a644b3c36840a153119ab8bc4fe05f7e"/>
+		<rom name="st05.wav" size="132444" crc="e30a5de0" sha1="9401c173a2c7bdd8f33ce7de67dc97d939f8b751"/>
+		<rom name="st06.wav" size="120592" crc="3e674a39" sha1="a7a7855495c2eb2c058beff8bbc48e4d7366df3e"/>
+		<rom name="st07.wav" size="105360" crc="221fefb1" sha1="7caecc556868a57abbbad42a9e87a6176ff9c11c"/>
+		<rom name="st08.wav" size="88286" crc="541f2af7" sha1="e36dce75f20b0b321ecd1be057a9bd7363c78220"/>
+		<rom name="st09.wav" size="300156" crc="ab1f9b54" sha1="3014aa066a0fdcd3143457e82bc3532c3bea1b1a"/>
+		<rom name="st0a.wav" size="132534" crc="5a6dbc2c" sha1="16e87ce0e47d1c1bea5da709290b7ce71f77d2ba"/>
+		<rom name="st0b.wav" size="37881" crc="10734a42" sha1="7f1ed7c9a413c7c6be82066fe17e0625ca50cdeb"/>
+		<rom name="st0c.wav" size="30678" crc="f88b6b92" sha1="f0b4dc1e046a65cf386ab91d00eb87bcdd01107f"/>
+		<rom name="st0d.wav" size="17684" crc="b81b39a4" sha1="b186fd2a9ad1f5c00496fe306d8e75198493c22e"/>
+		<rom name="st0e.wav" size="19271" crc="21acb789" sha1="0a4187abac42643c30b2053456bb39713b4fc944"/>
+		<rom name="st0f.wav" size="15096" crc="70129106" sha1="9cd76f8826cc121b2cd038a1b47ca4072f98b2cb"/>
+		<rom name="st10.wav" size="10692" crc="1866cbd6" sha1="f1f0921d1a70d85420c8c50b9df5460b8e9f2a56"/>
+		<rom name="st11.wav" size="15759" crc="ccc1ef29" sha1="3a60f8ab6a9ff2eac95dd258a966e43e15d000f3"/>
+		<rom name="st12.wav" size="17935" crc="11ede3c6" sha1="f184e633bd2acf77c3b9a78aa260ea13f5645e41"/>
+		<rom name="st13.wav" size="16641" crc="3011d8d0" sha1="215f7883667c047d43435d4aeef7276d4749a115"/>
+		<rom name="st14.wav" size="16053" crc="d3719da4" sha1="e40215d25099824adc567c984174acd0a95e23a1"/>
+		<rom name="st15.wav" size="14936" crc="c9e07fb6" sha1="6042b97026f81d035cf74128c6baabae892112ee"/>
+		<rom name="st16.wav" size="16994" crc="a7843ab3" sha1="157dcbde7bb13a9d463e427ed1103cde6969b958"/>
+		<rom name="st17.wav" size="10962" crc="39068f0a" sha1="31cdb1c075586cc6a69bfd38cf9d8350fd39f4df"/>
+		<rom name="trek1.wav" size="32348" crc="169bcc4f" sha1="f4d37aabe9a0a09b81f6002bc34506cc233988b6"/>
+		<rom name="trek10.wav" size="57552" crc="d1884a83" sha1="aca3456ac1ba725fc843700effbcc2282d23c15b"/>
+		<rom name="trek11.wav" size="188054" crc="9b1b74f3" sha1="b161a116e0a120bbf78cad6eba86c12badb60f11"/>
+		<rom name="trek12.wav" size="107226" crc="d6757036" sha1="afbeac9e8bcc9fc02de91b96ffcbb2a6ffa8c248"/>
+		<rom name="trek13.wav" size="88344" crc="a66f3fbc" sha1="da39456ebacd5368b92e2511ed3ea4bba06d08fa"/>
+		<rom name="trek14.wav" size="105988" crc="89f75fdc" sha1="1d179442a429fafda2eb28d04b757a1ab9b27de1"/>
+		<rom name="trek15.wav" size="127516" crc="a01f844e" sha1="8346bd1891c133bf5df35d52b07559a3c464dfc5"/>
+		<rom name="trek16.wav" size="90932" crc="85175fd2" sha1="f246f98d6dc91d4331472f5835bc1eeee6623347"/>
+		<rom name="trek17.wav" size="203544" crc="f82f38a4" sha1="3a2513095ac69284a091faf637f75226c986788a"/>
+		<rom name="trek18.wav" size="224600" crc="fdd00baa" sha1="8c85bd76e9bae8989e73138e94db0852ac9faf65"/>
+		<rom name="trek19.wav" size="22334" crc="8904775b" sha1="7bbc352521b3dfda7017bd2a8553455b67cfd336"/>
+		<rom name="trek2.wav" size="86742" crc="78aa88b9" sha1="903a6e44ef0a4d38d7cf88e68073c1a3b6749942"/>
+		<rom name="trek20.wav" size="264746" crc="be4a669c" sha1="84de99097153f8c6cf74c696b414902de096cff4"/>
+		<rom name="trek21.wav" size="212124" crc="da68f5b5" sha1="caace2daba0cb866ad5033687d83e00d3d3a3271"/>
+		<rom name="trek22.wav" size="173006" crc="e531e489" sha1="6dda35c6a757eb8551ad2045d360ab01d0e5fd1d"/>
+		<rom name="trek23.wav" size="173176" crc="76197ded" sha1="1ce09fc269c19a11f77372997dd9b1558feaf26f"/>
+		<rom name="trek24.wav" size="40096" crc="8107d06e" sha1="ff71ad7269af7ebaaab6737dd5cb58a0959b4656"/>
+		<rom name="trek25.wav" size="172896" crc="8f1310fc" sha1="59b2fb22beb37a61347bbaadda9e5299192df01d"/>
+		<rom name="trek26.wav" size="173006" crc="c7922839" sha1="50b7e86655be47237b73e3af4eeef26f4ff4278c"/>
+		<rom name="trek27.wav" size="618484" crc="b74ac8bf" sha1="c7d5186a49d4e0cded998302cfdc5f20999f6841"/>
+		<rom name="trek28.wav" size="551144" crc="7ba5e781" sha1="7ca51b5a83276060351bc1b6c0994cee666068ad"/>
+		<rom name="trek3.wav" size="6258" crc="a3b48d04" sha1="affe8abcd9d7e30a7e53f193dd08e44f7917d502"/>
+		<rom name="trek4.wav" size="33568" crc="47e3dbcd" sha1="70f1232e03c1715c8c7c77b9faf9924a26f12ac4"/>
+		<rom name="trek5.wav" size="45980" crc="17e1639e" sha1="1b9302ee5eafb8b3f823dd739eec6bb155efcfed"/>
+		<rom name="trek6.wav" size="77830" crc="ce124634" sha1="98a4481f1e78681517ea82300def39d633f9b32d"/>
+		<rom name="trek7.wav" size="184450" crc="986fbe53" sha1="312edfb00683b718064d90320a963a605b691959"/>
+		<rom name="trek8.wav" size="98336" crc="dc456917" sha1="cbd203dc80bb97d0a42f00277de280a095d804b0"/>
+		<rom name="trek9.wav" size="176932" crc="b7d99f94" sha1="458dd562c78e3b3ad8a2140f12a7d30f76907759"/>
+	</machine>
+	<machine name="subroc3d">
+		<description>subroc3d</description>
+		<rom name="01.wav" size="87478" crc="dd402575" sha1="c1d230c101c8ed25315333f9e494baf5718ba510"/>
+		<rom name="02.wav" size="81530" crc="2cecf150" sha1="b1511a9e700882aa6cad3b00df137ea16c71c6e5"/>
+		<rom name="03.wav" size="89124" crc="8b73c339" sha1="13951070236184a4c07cc2454044082590c8bae9"/>
+		<rom name="04.wav" size="87454" crc="a15773c6" sha1="8e764e5cac098a800197c9aed6d5bd36e57febb8"/>
+		<rom name="05.wav" size="87962" crc="3dfcdcaf" sha1="c1232debe2cb8b657d89acda8f2d86741e0eea2b"/>
+		<rom name="06.wav" size="70338" crc="4b8c37e7" sha1="d86957bf9f9052353d1199c221497cf4b71e0d1f"/>
+		<rom name="07.wav" size="85936" crc="16a19f38" sha1="194ad2e4cb45706ec1954be736bb492f83c269cc"/>
+		<rom name="08.wav" size="34940" crc="6e6e78e1" sha1="c6f95ef002928aa1073c848869133a9cb2cb8776"/>
+		<rom name="09.wav" size="820214" crc="068e7e36" sha1="e62f966e6d52daf8e5a5fc2de8d64199ba43d2ea"/>
+		<rom name="11.wav" size="6496" crc="3d76a6a4" sha1="8f5b08158a1845f3e227a4738483ee55c284a862"/>
+		<rom name="12.wav" size="13964" crc="ae301c30" sha1="8538528077876d079555a3eb2f90c056a8d3de29"/>
+	</machine>
+	<machine name="sundance">
+		<description>sundance</description>
+		<rom name="BONG.WAV" size="118646" crc="38344033" sha1="da92c093e4de9cdee09fb313ecd418e3f35d297d"/>
+		<rom name="EXPLSION.WAV" size="293014" crc="eb476cec" sha1="71f4709b7a9f5646e6d8ab10025e452c5148df36"/>
+		<rom name="HATCH.WAV" size="50182" crc="81654b05" sha1="4dfc1f627418ee726f0439c222816399dd19dd90"/>
+		<rom name="PING1.WAV" size="39716" crc="877efafd" sha1="552753c566d9db635ff54210723572fe2b1e9e26"/>
+		<rom name="PING2.WAV" size="33986" crc="e7862960" sha1="a0b2df2306aa8b4061d9413daddb5888b2a5c0c4"/>
+		<rom name="WHOOSH.WAV" size="93046" crc="4feffe94" sha1="1e4f9e030735d57b4a031bcabb3999cfd845c387"/>
+	</machine>
+	<machine name="tacscan">
+		<description>tacscan</description>
+		<rom name="01.wav" size="504902" crc="a6d97b11" sha1="e5189158f9f411453472212c893eae6798209d60"/>
+		<rom name="02.wav" size="110206" crc="4a9114c5" sha1="13c8bf6c2e00655ea25c48eb9ef6b54587e98b3a"/>
+		<rom name="03.wav" size="132396" crc="f70802a2" sha1="fd5aa54d259f87913f7a2a1f0a37c6f433956962"/>
+		<rom name="1up.wav" size="91704" crc="bdd79ece" sha1="94fc6f6d3ed0e1417b2a1b35f786e3376185ba74"/>
+		<rom name="credit.wav" size="91704" crc="bdd79ece" sha1="94fc6f6d3ed0e1417b2a1b35f786e3376185ba74"/>
+		<rom name="eexpl.wav" size="75062" crc="3cfde50c" sha1="f257ba75c524ce841cb316780a1a98c13748dcaf"/>
+		<rom name="eshot.wav" size="34104" crc="b6cefc2a" sha1="e59021a8c63b7f589e4c8b4fd8fd6864fd3a9284"/>
+		<rom name="flight1.wav" size="210454" crc="d19faf49" sha1="8ee96cda61f5f00f99047398dde5d0d47b9bf09f"/>
+		<rom name="flight2.wav" size="184426" crc="1af72743" sha1="eb772e41bf95a0b7f6d4635bfcf013b5ea6dc108"/>
+		<rom name="flight3.wav" size="218336" crc="37b1e7c4" sha1="7b8cf02108e93c79e8909d837adaade6c75cc118"/>
+		<rom name="flight4.wav" size="179336" crc="39fb974a" sha1="fe4bd2b6d05887f097054dca2f7ce4386e14514b"/>
+		<rom name="flight5.wav" size="202470" crc="732263fd" sha1="8de8f6aca4c618198284305bdf8e0d3b9b3666d1"/>
+		<rom name="formatn.wav" size="150464" crc="222ce387" sha1="720ea50bb0b12ff7a848aed4013adb629163aab3"/>
+		<rom name="pexpl.wav" size="33574" crc="61e8ccd4" sha1="f61bcd36ffd70f1f40832f05a3e742651b9735f9"/>
+		<rom name="plaser.wav" size="49544" crc="29a0498b" sha1="dcb60f343d9dd1005f6bf97e1d1211d367697f5a"/>
+		<rom name="pship.wav" size="48598" crc="8f9469a4" sha1="f15fc3c779e497111d1b597541be86a966d81926"/>
+		<rom name="sexpl.wav" size="167538" crc="7e5007c1" sha1="d2580c17dfac90180de4e5b39a5ff60f03fd8362"/>
+		<rom name="slaser.wav" size="199968" crc="37f741b0" sha1="dae5a28d167a11017a650de296a00bb56b33cd9f"/>
+		<rom name="sthrust.wav" size="400190" crc="90bdffa6" sha1="381ff999e68196e30eb5b5b4a9e84a73a2b3f1b6"/>
+		<rom name="tunnelh.wav" size="15792" crc="4c481015" sha1="ecb95662f2a420b3cfcd28b31901765bb95e58e1"/>
+		<rom name="tunnelw.wav" size="43108" crc="18ff4120" sha1="b405cbe87af6a9dd479150dd4c72958f67b79f4f"/>
+		<rom name="warp.wav" size="492716" crc="ae6199ca" sha1="8f3dbd90190d074d876c41989a6d462429592229"/>
+	</machine>
+	<machine name="tailg">
+		<description>tailg</description>
+		<rom name="bounce.wav" size="62834" crc="8ebd74c5" sha1="0a3dd62af9c2509f332d22e6f5f710700936ddae"/>
+		<rom name="hypersp.wav" size="84986" crc="fae1b227" sha1="4643039811256e8c3dc31ab21d2597c23a411aac"/>
+		<rom name="sexplode.wav" size="100278" crc="22d34417" sha1="37e15732a5cd5ce1bf525c641fd7130297a8a1a1"/>
+		<rom name="shield.wav" size="43290" crc="b2665004" sha1="7e3fb698eb0e117a512c5b555cb0f15b6e3ad27a"/>
+		<rom name="slaser.wav" size="22956" crc="03756ddf" sha1="a9174049cb8d75a9660d0094b9dfb29e6fc6bd7c"/>
+		<rom name="thrust1.wav" size="20890" crc="e1350392" sha1="24c449fa69ae8e93894350e7f299cc4ca32bf93c"/>
+	</machine>
+	<machine name="tankbatt">
+		<description>tankbatt</description>
+		<rom name="engine1.wav" size="7020" crc="f755fecc" sha1="67e4cd953a077e5ad88c51c744287516b392b1d5"/>
+		<rom name="engine2.wav" size="4812" crc="6fb9f16f" sha1="6d855ceff4259de26c3b684b71d409028e918f88"/>
+		<rom name="explode1.wav" size="56364" crc="496b3d71" sha1="8f5ff1b8dc5e98fd4708b2f78217ec5b3009ad3f"/>
+		<rom name="fire.wav" size="21836" crc="030b6a18" sha1="625fb54b0671f6c073d4182c54c2a0d9c9dd313c"/>
+	</machine>
+	<machine name="targ">
+		<description>targ</description>
+		<rom name="expl.wav" size="109100" crc="b079c8aa" sha1="ac5be79bd6c20ea9786450f2cbcb3c190fc21927"/>
+		<rom name="sexpl.wav" size="38956" crc="895c4310" sha1="5ed2b05a43b245af446d0f974a2dcc4a55134328"/>
+		<rom name="shot.wav" size="14828" crc="c861fb4e" sha1="59c6faf73e349930a0f33976df3e75d5c9c94a8e"/>
+		<rom name="spfast.wav" size="18605" crc="7864ca01" sha1="b1db11943716216fbeceb383b736830350f09b7a"/>
+		<rom name="spslow.wav" size="37420" crc="77449f42" sha1="af7404421c89ea5df37fe35c78dc4dc23d4caa7d"/>
+	</machine>
+	<machine name="terao">
+		<description>terao</description>
+		<rom name="00.wav" size="90798" crc="d20356bb" sha1="20b7b3e2323e69e693070b468ecd155e72c8d137"/>
+		<rom name="01.wav" size="54700" crc="6f6be103" sha1="bbf5de2ba467281dc81f836d04be8b347dcbdec5"/>
+		<rom name="02.wav" size="48044" crc="3d708021" sha1="d10e446d888c759fb7481957b6d448802885de88"/>
+		<rom name="03.wav" size="83634" crc="fc0180cf" sha1="c7ba780c28a68dd84cad9455d091d4ca5cb07612"/>
+		<rom name="04.wav" size="77740" crc="645a4df2" sha1="40c1a36528eb45a4c6a20211501380258c392ce8"/>
+		<rom name="05.wav" size="80812" crc="93bd8276" sha1="875f12a1ede52c4353cab2c414b3d3506cafd333"/>
+	</machine>
+	<machine name="thehand">
+		<description>thehand</description>
+		<rom name="01.wav" size="612100" crc="f0cfa42b" sha1="36ee1529d959e526aab909d39cd0801067f89910"/>
+		<rom name="02.wav" size="2818" crc="9a3e5de3" sha1="45e5f11291e6060a9bf90b116d1a346b36f33808"/>
+		<rom name="03.wav" size="3620" crc="f7e3a72a" sha1="31bc67b3e14ecc78712e16b6ad9d820d0dfdac83"/>
+		<rom name="05.wav" size="5770" crc="52b0d1d2" sha1="6fcb20b924f6cf73a0fcc693dc88a2c5aaadfc93"/>
+		<rom name="06.wav" size="34446" crc="7ae6b3f5" sha1="c8d0f8e61af3c39e40e7286b2a2f510294dfb971"/>
+		<rom name="07.wav" size="43378" crc="49c9f066" sha1="af7b8a70d7e9a1a242ead9710307333bd6e5def6"/>
+		<rom name="08.wav" size="618232" crc="bb9cddd4" sha1="35b79886aecdd0c66eb45fb1f2f56b556a27ea51"/>
+		<rom name="0a.wav" size="89150" crc="7f157b88" sha1="c999ad878bfd5a5d9c5e640a0c41aaf7022e0955"/>
+		<rom name="0b.wav" size="98044" crc="92106622" sha1="612ad7229d88d22971707fe4e33e572ae876cdad"/>
+		<rom name="10.wav" size="33856" crc="af6fd79b" sha1="636ba005a3223c3627d9cdfae02a032b4a9778a9"/>
+		<rom name="11.wav" size="25930" crc="b18ee953" sha1="0659ecf7a46eb0d7936bfbd6640025742cfcc965"/>
+		<rom name="12.wav" size="24704" crc="0f3a2431" sha1="3e6b750129e1da40d9fab1997fe87a1348a437d3"/>
+		<rom name="13.wav" size="8138" crc="d77a73e2" sha1="fb54e2aa55854a6b203770ac36718af23f0bc09d"/>
+		<rom name="14.wav" size="12926" crc="35f66317" sha1="ac28610441d4a712cdc37642c15a17db53a44b4e"/>
+		<rom name="15.wav" size="12420" crc="1ededd0d" sha1="725f2b84d29754e75316dd1e2671cf4d7ab0c913"/>
+		<rom name="16.wav" size="25272" crc="f01c5eb7" sha1="af1ce0cbbaaf32447051cac15bda731fe546812f"/>
+		<rom name="17.wav" size="27306" crc="1819a53e" sha1="a8f944403971ea2b4ce65fadf7b73019a00247b3"/>
+		<rom name="18.wav" size="24538" crc="393fbc6b" sha1="6bd0928090eca3e1e503582b6eba476659c6babb"/>
+		<rom name="19.wav" size="16044" crc="992ee574" sha1="91a267a72580c8cf8df4fdf7bfebb1d5967f36d7"/>
+		<rom name="1a.wav" size="19516" crc="ee53e9fe" sha1="acbfdbc8b2ac7902e8027a103c1a3ad8f9f989cb"/>
+	</machine>
+	<machine name="thief">
+		<description>thief</description>
+		<rom name="crash.wav" size="24347" crc="37e9a4e7" sha1="e7f34f21c5e0b5cd2ec06b441bae3b299f5243c9"/>
+		<rom name="talk.wav" size="5456543" crc="acd4cf69" sha1="053ab0b9079c4fcf64219c05e303c1776e09d85e"/>
+	</machine>
+	<machine name="trackfld">
+		<description>trackfld</description>
+		<rom name="00.wav" size="18614" crc="f5d53677" sha1="33e6d84b7ac081f3ddf136b6d765acb91a20be14"/>
+		<rom name="01.wav" size="16012" crc="bf3aa0b2" sha1="200b38342150948bce5f1641e9d39f94dd271c67"/>
+		<rom name="02.wav" size="8625" crc="61b069d4" sha1="0079e19db5e4c41e33a59002edb722ea167fcb9e"/>
+		<rom name="03.wav" size="7767" crc="5552ed65" sha1="49e3b0f0ce2f2ad0f43e18d8794344e9926116ef"/>
+		<rom name="04.wav" size="9055" crc="bc471455" sha1="bfdcbeadd82736c2f35ff79680e36b35fcc32446"/>
+		<rom name="05.wav" size="8209" crc="eb044971" sha1="2b163be93c8e3861d3df5a0dc956b854fa87e132"/>
+		<rom name="06.wav" size="12537" crc="f5aac555" sha1="a743647697b24d066e3863b004d28fc9b5befdde"/>
+		<rom name="07.wav" size="11249" crc="09979d0e" sha1="3e3c74d4f47d44d24266489e8f3938b26e5fd45d"/>
+		<rom name="08.wav" size="9940" crc="665c7da0" sha1="7ef4755163c61afe546f38c27374bab80848d808"/>
+		<rom name="09.wav" size="6051" crc="3d7b3ae9" sha1="152618fc2fc5e32480c6f4af282775225824de97"/>
+		<rom name="0a.wav" size="15158" crc="3f5ccf85" sha1="07dd823ed3062e39f4771ce7f3f6d6642db50ea3"/>
+		<rom name="0b.wav" size="14689" crc="f05b37f8" sha1="842ba48579f7b6c7012fdd3bb9438223d3f23906"/>
+		<rom name="0c.wav" size="9499" crc="9507bf74" sha1="acb5f0452b614611d5afad866dd9062ee35451be"/>
+		<rom name="0d.wav" size="9515" crc="350e4645" sha1="820f5b7e5406c58d5393c32b2254654248def991"/>
+		<rom name="0e.wav" size="12107" crc="344fb58b" sha1="8acffb015042808dc21c3c52715060aa7f82a87b"/>
+		<rom name="0f.wav" size="9925" crc="09739480" sha1="c82a21929b7c2e5b0627b7a0bcb45fc2ac555422"/>
+		<rom name="10.wav" size="13829" crc="2cc8d860" sha1="8a0ca56d35898789ab4fad7a9c5c0236e7986a94"/>
+		<rom name="11.wav" size="12566" crc="014af464" sha1="afe9a062c542e62f571860892343734dd2be1347"/>
+		<rom name="12.wav" size="19476" crc="8b718705" sha1="f29038147cc3754c96e744bb4590597d64aa8c9c"/>
+		<rom name="13.wav" size="7325" crc="c5aa0e9d" sha1="6d97d21fe105efde98cbbf8e1d1f96e3fa90d72a"/>
+		<rom name="14.wav" size="6907" crc="979738e5" sha1="79eaf576693d50739ac75975145beab342d3d41e"/>
+		<rom name="15.wav" size="12096" crc="a56a7e46" sha1="b8b2ab80253b4c5c562da642f15d2da902f6c907"/>
+		<rom name="16.wav" size="17298" crc="3c582559" sha1="9329a3215379a113906e41ac93bc96e403beb223"/>
+		<rom name="17.wav" size="11209" crc="09ae4d87" sha1="b39753536bfda90d641f5bdcca483c17390151bb"/>
+		<rom name="18.wav" size="7341" crc="101f9427" sha1="9f8d14e88ec253439751544cb931c09e1fb398c1"/>
+		<rom name="19.wav" size="8624" crc="cfb0d70d" sha1="6e726a39cc8c22760f79aef9571acf531731525a"/>
+		<rom name="1a.wav" size="5584" crc="5ad5421b" sha1="29218a1e8956aeb95418d186ce450c700d8b23ef"/>
+		<rom name="1b.wav" size="8627" crc="b1d16985" sha1="60981d16efab169a325c4ac2f1475f8200f23871"/>
+		<rom name="1c.wav" size="7339" crc="95cdbf4d" sha1="70627794850370058e4ab9f249bb10d082de71c7"/>
+		<rom name="1d.wav" size="7742" crc="2ab63462" sha1="9d61a5ce9c600f0f68ae9537db6bcfdb04e2d13d"/>
+		<rom name="1e.wav" size="8198" crc="ded43a9e" sha1="4a9252e740d79192686f15e2997d9f6706717287"/>
+		<rom name="1f.wav" size="9066" crc="68f0cbd1" sha1="cebdf764ed5e358fa337d325bad7b09afdc797f9"/>
+		<rom name="20.wav" size="9502" crc="9aaa9780" sha1="0c4c9e88ad60ff267b674b18d409f26d2ce0258e"/>
+		<rom name="21.wav" size="11241" crc="6186dd28" sha1="a0b72e2ce2aca3c221e13048b46b8051aec9b058"/>
+		<rom name="22.wav" size="9010" crc="03758e7f" sha1="df4ee6ec248eec06c343a6f3e3407557ec1ed2f5"/>
+		<rom name="23.wav" size="10769" crc="64078079" sha1="e8d97f43061babc3e827d10cfcc6bc8dd8b31c27"/>
+		<rom name="24.wav" size="6454" crc="3719250f" sha1="d27b0eef5acd67e984e62b8ec73b7624512dd92f"/>
+		<rom name="25.wav" size="13388" crc="f58420b8" sha1="dce36f42366570e8369eb0f783cb1805f6aade43"/>
+		<rom name="26.wav" size="9020" crc="346c7441" sha1="7ac664df68c48441c231470cd93c067159fbde90"/>
+		<rom name="27.wav" size="12520" crc="8d182453" sha1="88b73fbe06533ac5ef7ab2826f56559f568ac63c"/>
+		<rom name="28.wav" size="6017" crc="d7aac1d1" sha1="49044568c4e064ad5072b076338568d79e09423f"/>
+		<rom name="29.wav" size="6010" crc="0c044284" sha1="90adfffa13eaa2d549eb9f559ed841789d4c2ccd"/>
+		<rom name="2a.wav" size="5587" crc="13f0e102" sha1="46b47fa8f5196677570727e40454e72511d48177"/>
+		<rom name="2b.wav" size="15116" crc="12dbc2dc" sha1="396c7d2bd9c353934f7776536fab4c48428f7277"/>
+		<rom name="2c.wav" size="6029" crc="dfad74dd" sha1="bec5e2956f1ad2274316a9be32f29f1013e88199"/>
+		<rom name="2d.wav" size="7754" crc="033bd41e" sha1="9aaa2b2951a116d8bdabcbb997470bc430e0c30e"/>
+		<rom name="2e.wav" size="6010" crc="b4190604" sha1="b2d78b3524b354d97bb1ca89be94020767119d6e"/>
+		<rom name="2f.wav" size="10775" crc="31589aae" sha1="438a713dd75c678ed24cc7e87868e094804bd6b7"/>
+		<rom name="30.wav" size="6893" crc="4baa1efe" sha1="57e4db0ef4c77688ed0452dadcfadfe79299aa81"/>
+		<rom name="31.wav" size="6440" crc="cd6a2f63" sha1="c34e92e69295b939b16ec5419d2c683af09a49c7"/>
+		<rom name="32.wav" size="10323" crc="2a693ec0" sha1="6cbc6cb43311cb01c27772a324a84263d1de6750"/>
+		<rom name="33.wav" size="34651" crc="4458d3cb" sha1="0361b37a22e1fa79b0bfc3bb0844144f3f4eb5fc"/>
+		<rom name="34.wav" size="23378" crc="0455aac9" sha1="964d1d3441a1f7ebc34127f0af790c0d58557d05"/>
+		<rom name="35.wav" size="9438" crc="ed82a913" sha1="01c593c1f00c9d0f10d7b51bddb1f5335b485ecc"/>
+		<rom name="36.wav" size="11243" crc="8b50636c" sha1="35f55c30f7d3873228c22ad01cfcdb01b296345c"/>
+		<rom name="37.wav" size="5119" crc="23834f92" sha1="6174545b18ed2a3a882a7147a3f6aed2e1657ecb"/>
+		<rom name="38.wav" size="7316" crc="df9d8196" sha1="e3082adf2d334983e545cc6a8195510f42e9d2aa"/>
+		<rom name="39.wav" size="5559" crc="6ea834fb" sha1="76e61635255a3f602ce0726c7899bff687f63749"/>
+		<rom name="3a.wav" size="5996" crc="e2d01631" sha1="40290a9d86fff710faea43ef07d9c3339aee0a85"/>
+		<rom name="3b.wav" size="7754" crc="35744944" sha1="eba7918ca923289753d56971d1b516eada77534a"/>
+		<rom name="3c.wav" size="3841" crc="5c2e422e" sha1="425ca74613eae81ce26940fdc2a4d0399eed032e"/>
+		<rom name="3d.wav" size="14675" crc="e8f8b92a" sha1="d9b61b6a241fbed45e89b2caf81fa59cfcda5ce0"/>
+	</machine>
+	<machine name="triplhnt">
+		<description>triplhnt</description>
+		<rom name="bear_rac.wav" size="884780" crc="35c91b79" sha1="04d59f7afb3bb26916323a46c97267429672f0bd"/>
+		<rom name="witch.wav" size="18213356" crc="86de5bf3" sha1="ae0a439cccf56b8ea5f842378e78451f04c2f64d"/>
+	</machine>
+	<machine name="turbo">
+		<description>turbo</description>
+		<rom name="01.wav" size="1348" crc="c4e4dad7" sha1="55332c45b15f0828d1befd33c4c5ec89ef981fb8"/>
+		<rom name="02.wav" size="11444" crc="5d29f340" sha1="c173a8152ba528a35feb8d5055b3262439c0e3af"/>
+		<rom name="03.wav" size="40856" crc="f2d6aba0" sha1="2c105700536fc3f9b865450dce3d33c76b930def"/>
+		<rom name="04.wav" size="12460" crc="454fcf11" sha1="b346d24c2141e4eb7e364c746f364fa836a7698e"/>
+		<rom name="05.wav" size="5680" crc="a5b6ac22" sha1="6481d9fab0292224d73628bd18ba846a9ad07f9e"/>
+		<rom name="06.wav" size="303500" crc="d4fbd156" sha1="b703b58a6fc43cbe4f20ae8a23871db8a818ab5b"/>
+		<rom name="ambulanc.wav" size="27588" crc="3db36094" sha1="3a409a0891dc2a1e983b31013df860b65b3ca7cd"/>
+		<rom name="idle.wav" size="199782" crc="4f012a71" sha1="2410da336b9d72075d85ba1fc98e86a81253d673"/>
+		<rom name="skidding.wav" size="50186" crc="0e1ea005" sha1="f0432ed504787b7654bf39c31f8b3f26ff4269c6"/>
+	</machine>
+	<machine name="twotiger">
+		<description>twotiger</description>
+		<rom name="left.wav" size="82325562" crc="e13573a8" sha1="c277b9ea2417774759b75a9b48da447c17d52a84"/>
+		<rom name="right.wav" size="82325562" crc="0d88c194" sha1="ec8252af617a2906ec35ef726255571db51135e5"/>
+	</machine>
+	<machine name="vanguard">
+		<description>vanguard</description>
+		<rom name="explsion.wav" size="12788" crc="39f463b0" sha1="99eed3697a743a10fc66fe44ca1e68d54bb2e004"/>
+		<rom name="fire.wav" size="4748" crc="e50eb92b" sha1="2ff896646daea6a3ab921d916ee089c156b9eb00"/>
+		<rom name="vg_voi-0.wav" size="300076" crc="b69ba04d" sha1="20994ec49767f57f6533a9417fcf582b5643e153"/>
+		<rom name="vg_voi-1.wav" size="117292" crc="994436aa" sha1="288e68b4c95cad01044e1c318f7431bcce174c01"/>
+		<rom name="vg_voi-2.wav" size="79916" crc="6780d0e6" sha1="5b9bb2c5a2b284854bed139cacc90f1a3088efaf"/>
+		<rom name="vg_voi-3.wav" size="80940" crc="f8040659" sha1="6a5512c23c81a51db60eed65fc8b19c6776daaa8"/>
+		<rom name="vg_voi-4.wav" size="93228" crc="8b9f51a2" sha1="8cda8bb582754ea875b1cef9bb23357ab3800b0f"/>
+		<rom name="vg_voi-5.wav" size="104492" crc="04f8a67e" sha1="ccdc6a713a5c362441cadb611236110d86ba6b2f"/>
+		<rom name="vg_voi-6.wav" size="111660" crc="3e63e535" sha1="483214240f53187ace8a31c3d8ff5d955a4efbaf"/>
+		<rom name="vg_voi-7.wav" size="99884" crc="b4d0f418" sha1="66d0f3dbb9ec886399fb310556bc6d8ea13c99f5"/>
+		<rom name="vg_voi-8.wav" size="117292" crc="68a250fa" sha1="852ece2962a2b995a93b52e0cf70f779707a937e"/>
+		<rom name="vg_voi-9.wav" size="135724" crc="61f62caa" sha1="3903d35cc45ae02532b99df1315a61f903141016"/>
+		<rom name="vg_voi-a.wav" size="71724" crc="8fa2e75c" sha1="bb692dd3eeff43cea4ae0cf49ef3061c44e98501"/>
+		<rom name="vg_voi-b.wav" size="84012" crc="5b54bfd0" sha1="4b66284f3265103478496f3e9972a0dca1cd46fc"/>
+		<rom name="vg_voi-c.wav" size="93228" crc="7f617547" sha1="a23d9d00007bfb80bfd982a3538a2ef7890cdc65"/>
+		<rom name="vg_voi-d.wav" size="92204" crc="920e3fd1" sha1="203148d16433dc0face0ab002dcfce4b2d951d77"/>
+		<rom name="vg_voi-e.wav" size="98348" crc="3245cd3a" sha1="70e33de82e6ec47b730b9dc9fbc946a4d0f1eb81"/>
+		<rom name="vg_voi-f.wav" size="100908" crc="8c38230b" sha1="37fe483fb0759970a2e1bcf51f5f1a6925181438"/>
+	</machine>
+	<machine name="warrior">
+		<description>warrior</description>
+		<rom name="appear.wav" size="194802" crc="5650d3ba" sha1="a935bf33df761aef1fec4bae7208631b1f4fe506"/>
+		<rom name="bgmhum1.wav" size="74338" crc="586de4a5" sha1="ed3f92a0e83d5f92fd1b7d2eb1a3be94a8988ce6"/>
+		<rom name="bgmhum2.wav" size="73082" crc="2ce3aa32" sha1="af82f5b0ad6f0e40cc830e7687eaac1f9dd48e74"/>
+		<rom name="fall.wav" size="192164" crc="77361954" sha1="7bd942d9ba4f7e4dff1704682b5b2204ffea364f"/>
+		<rom name="killed.wav" size="274286" crc="7c436b5c" sha1="69c63fedfecb202100cf7348d5688ab58a23c555"/>
+	</machine>
+	<machine name="wotw">
+		<description>wotw</description>
+		<rom name="cfire.wav" size="137062" crc="c955331b" sha1="cf430f4c536c9c627cf286a403726d0b373459c5"/>
+		<rom name="drone.wav" size="43128" crc="64349988" sha1="86a682ba5fb0c385ca609cab015c451360d198c7"/>
+		<rom name="lexplode.wav" size="146774" crc="cd7ff0b2" sha1="99ee00ee0e0a44904b32af5fd6e2c82dd16e243b"/>
+		<rom name="pfire.wav" size="13840" crc="8578a51e" sha1="638c18e9d6e70703b9ccd5c0d934530510e68577"/>
+		<rom name="sexplode.wav" size="54192" crc="1f71b538" sha1="9f3349235608cab5f8b21b8989b5a782e6fcfdf3"/>
+		<rom name="shield.wav" size="35202" crc="be5dd017" sha1="1e8327ebf6fd243c2f95cff422d266b6a63a0043"/>
+		<rom name="star.wav" size="13508" crc="9ca8c49e" sha1="b79a2fd5e31d0eeedcd52fc87446472069a74ef7"/>
+		<rom name="thrust.wav" size="35202" crc="be5dd017" sha1="1e8327ebf6fd243c2f95cff422d266b6a63a0043"/>
+	</machine>
+	<machine name="wotwc">
+		<description>wotwc</description>
+		<rom name="cfire.wav" size="137062" crc="c955331b" sha1="cf430f4c536c9c627cf286a403726d0b373459c5"/>
+		<rom name="drone.wav" size="43128" crc="64349988" sha1="86a682ba5fb0c385ca609cab015c451360d198c7"/>
+		<rom name="lexplode.wav" size="146774" crc="cd7ff0b2" sha1="99ee00ee0e0a44904b32af5fd6e2c82dd16e243b"/>
+		<rom name="pfire.wav" size="13840" crc="8578a51e" sha1="638c18e9d6e70703b9ccd5c0d934530510e68577"/>
+		<rom name="sexplode.wav" size="54192" crc="1f71b538" sha1="9f3349235608cab5f8b21b8989b5a782e6fcfdf3"/>
+		<rom name="shield.wav" size="35202" crc="be5dd017" sha1="1e8327ebf6fd243c2f95cff422d266b6a63a0043"/>
+		<rom name="star.wav" size="13508" crc="9ca8c49e" sha1="b79a2fd5e31d0eeedcd52fc87446472069a74ef7"/>
+		<rom name="thrust.wav" size="35202" crc="be5dd017" sha1="1e8327ebf6fd243c2f95cff422d266b6a63a0043"/>
+	</machine>
+	<machine name="wow">
+		<description>wow</description>
+		<rom name="a.wav" size="6628" crc="f7729a0e" sha1="72ce283a569f9adbaaa73ee40982876547a1130f"/>
+		<rom name="again.wav" size="11482" crc="b292e186" sha1="b6f1f5d2879c4389bb6e9bf71318049e7bf88d7d"/>
+		<rom name="ahh.wav" size="116448" crc="b3a5eae9" sha1="22664ce48a775181e911b92c9634ac67d21a216a"/>
+		<rom name="am.wav" size="7062" crc="e3e74f9e" sha1="53b39a5a5f10d5231f284e5796f191b4188de150"/>
+		<rom name="and.wav" size="7384" crc="462d0024" sha1="05945264291d4f98d1a7a4ec9e3b358b68dff182"/>
+		<rom name="anew.wav" size="12798" crc="08614ea3" sha1="da66bf0d45b742d38c3c8a2f104ed24e2a9d07f2"/>
+		<rom name="another.wav" size="15256" crc="7a99a2ea" sha1="4b608a6cb6d7e77f42db7d49822dfdb0af62819c"/>
+		<rom name="any.wav" size="8274" crc="e339e383" sha1="513f9b39e09e714bbc852e03a4788c204d787939"/>
+		<rom name="anyone.wav" size="19134" crc="26af3050" sha1="bbb50e5fe58c1bb62934a396ab11ff08710fae4c"/>
+		<rom name="appear.wav" size="11642" crc="17d43806" sha1="6f3f0729fe57b68e734aff4567d7f7bdf89e29ae"/>
+		<rom name="are.wav" size="7200" crc="b7b79b91" sha1="0a2e7f67512a8f8e5de84983834846257375e225"/>
+		<rom name="babies.wav" size="14750" crc="3af21ad1" sha1="67fe1db65a365d29fc5f4fe6cd484526c27e198c"/>
+		<rom name="back.wav" size="7580" crc="5e0148b1" sha1="3a53166c9cce2dc69148dd620ea7a6b386a87adf"/>
+		<rom name="beat.wav" size="7462" crc="12cb8863" sha1="24c3a2b29dfffed7f8962c1899f73a963e79985f"/>
+		<rom name="become.wav" size="15000" crc="982991b5" sha1="ad19263712bd0a199418f523f3012f0ae232bf47"/>
+		<rom name="best.wav" size="9232" crc="eb03751d" sha1="e401499996772bd33b00e8bd14b05d95ba55f721"/>
+		<rom name="better.wav" size="8934" crc="5c1c1d34" sha1="686ebbef342f75becdf7e27b92e64cb9ded33d26"/>
+		<rom name="bite.wav" size="10988" crc="3d424df5" sha1="21621cb30c620ad579f9e290a56bbbe14383030d"/>
+		<rom name="bones.wav" size="11902" crc="538a1e92" sha1="fcb87c9cf7399235c343445f2994a2d722495390"/>
+		<rom name="breath.wav" size="12628" crc="a460a461" sha1="061f4992d73ad07a608b115ba4f03c6863ff7bcc"/>
+		<rom name="but.wav" size="8692" crc="261c6a33" sha1="78b20dfd47b3187a43b59dfed73ec6c951d9b6a2"/>
+		<rom name="can.wav" size="7272" crc="64989295" sha1="186dc85794c17aca6f8571765a4edf8c34ad540d"/>
+		<rom name="cant.wav" size="12486" crc="6385c79e" sha1="fc3871b87de588b6c214c11b951ed0ffdde187b8"/>
+		<rom name="chance.wav" size="11370" crc="aa307931" sha1="8ba7db7fadf89a00097cdd8615d3c62c48533c1f"/>
+		<rom name="chest.wav" size="8500" crc="7bae6b65" sha1="77973864c68cef97952803da9776f14620a06593"/>
+		<rom name="coin.wav" size="10532" crc="208c2d85" sha1="3e8738701a0a54e45cae27171b57c657620d41e8"/>
+		<rom name="coin1.wav" size="11112" crc="7699cf9b" sha1="b4349f461b0a572a6acafe686985c3094c7445d9"/>
+		<rom name="dance.wav" size="10572" crc="f77f5f8d" sha1="f83abc01d969cdce9f7e749eacfba6bfd4de6f7b"/>
+		<rom name="destroy.wav" size="17660" crc="955b68e7" sha1="60ca340045b2596f11e6d8504a82ad12fba1ce48"/>
+		<rom name="develop.wav" size="16586" crc="9ecdeed0" sha1="6c7475255dce94689e6d2a6ad6878e96efd222bd"/>
+		<rom name="do.wav" size="5918" crc="62be0c9e" sha1="403e93d50cb42a83381369e719e5d3d67205e2df"/>
+		<rom name="dont.wav" size="9684" crc="e51fbd33" sha1="44580d978194715419cfc1b43079b0aa0d085357"/>
+		<rom name="doom.wav" size="13024" crc="ba9164ee" sha1="ccd6c190bb5003b46118460747f7eff41daada2f"/>
+		<rom name="door.wav" size="10274" crc="001c0520" sha1="a209bf44ee0449484a888be0e61d53d4eaba7a74"/>
+		<rom name="draw.wav" size="8650" crc="1891d830" sha1="e603612fc6ccb9bd8c1d7420b66cbb6c2d5aea39"/>
+		<rom name="dungeon.wav" size="12918" crc="32d7e0fb" sha1="2849c98a65c463e303f53dcd72ae3696246ff3cc"/>
+		<rom name="dungeons.wav" size="16840" crc="a022797a" sha1="b58dd4a2b87326f50db8f092227fb5239ae4275b"/>
+		<rom name="each.wav" size="6878" crc="2e569ba7" sha1="01c8b6c259243e2e59b0f7d1b7d64a30db90c292"/>
+		<rom name="eaten.wav" size="10598" crc="76b1eabd" sha1="e87a99ce6a99aad23e132b9cef7f83e6901a7e0d"/>
+		<rom name="escape.wav" size="19288" crc="b4d5ba82" sha1="c928d0d191d8e0f8af86055ab16fbcb53f60e391"/>
+		<rom name="explode.wav" size="24238" crc="87859b1c" sha1="3d1fafb5623e4fa24d68110217ff391fab5829ba"/>
+		<rom name="fear.wav" size="7682" crc="62b60dc6" sha1="3d18a1ddcff6453d0acd97a07f6ba431045b13e3"/>
+		<rom name="find.wav" size="12072" crc="56f4b982" sha1="82dba69966db260e4d4361bef1dccdb0b9d56def"/>
+		<rom name="fire.wav" size="9996" crc="b2f203d1" sha1="73592685d08cdfb2a1c6bbd3b024f85522b8f253"/>
+		<rom name="for.wav" size="7418" crc="9b6b0361" sha1="e93f650e8ec0311ab4eee0f5386ebc969592afa4"/>
+		<rom name="for_1.wav" size="6186" crc="ef365c32" sha1="f74a942697880a1ec0b7a01cfdbd9502b407406b"/>
+		<rom name="for_2.wav" size="5248" crc="d475c217" sha1="fbc70ebc33a3ab99618d5538917aa8d79c2b2108"/>
+		<rom name="from.wav" size="13128" crc="010432fd" sha1="eed0ba16ea2d306286a3bcc47c5e3868ff7f51da"/>
+		<rom name="garwor.wav" size="14636" crc="057caed8" sha1="dfe4868ed430bddce4bc39b0472390ee7d59d8ab"/>
+		<rom name="get.wav" size="10054" crc="34c20112" sha1="2232c91dcbc5ceca66ab2723f1f9f5b2b5c7146f"/>
+		<rom name="get_1.wav" size="7024" crc="c8edef37" sha1="436c9b0f8ac20de3dffda7da87f674b930239781"/>
+		<rom name="getting.wav" size="15764" crc="ee56f6a3" sha1="d11ef9f06a6cdf791ad998c5018f19ecaf53400d"/>
+		<rom name="good.wav" size="8878" crc="edec03d9" sha1="c7e8715e5d42e623c2d46ac0cd1af739c5bcf021"/>
+		<rom name="hahahaha.wav" size="21386" crc="1a9ad5c3" sha1="f9dcf761af19190eb1d924d7c2e93c6b93c9afae"/>
+		<rom name="harder.wav" size="12038" crc="2efdffec" sha1="0d8c7ce28f60c24e6edebcf4e60f03e2f380d0e4"/>
+		<rom name="hasnt.wav" size="10576" crc="171472fe" sha1="e32ee7a51f5b869e14090c0867aa829550f83da0"/>
+		<rom name="have.wav" size="7106" crc="e8c707db" sha1="b3443bb8c383ae01faab760b37e6c2d306b4adce"/>
+		<rom name="heavyw.wav" size="22126" crc="cad4029a" sha1="6db5c4ef619b4c3387b46d244f4f7e88e37a8b40"/>
+		<rom name="heavyw_1.wav" size="22126" crc="cad4029a" sha1="6db5c4ef619b4c3387b46d244f4f7e88e37a8b40"/>
+		<rom name="hey.wav" size="11112" crc="7699cf9b" sha1="b4349f461b0a572a6acafe686985c3094c7445d9"/>
+		<rom name="hope.wav" size="8612" crc="6001201d" sha1="098143a81a0c22aac7eeb3c88cf39bbc47defb06"/>
+		<rom name="hungry.wav" size="13412" crc="0922caab" sha1="07ed53fcf96b8d2684cfc3977cd00ff71411a020"/>
+		<rom name="hurry.wav" size="9544" crc="1198b609" sha1="aa50683e54b9d7f0d8c331c9894bf2de4e362971"/>
+		<rom name="i.wav" size="7798" crc="003c7fcf" sha1="5e6ce481f9cad3bb93fb81bec83a1666ff56768f"/>
+		<rom name="i1.wav" size="8924" crc="e9ff934b" sha1="e41ae01899e705e0b45bcd8d36885a56a52acd11"/>
+		<rom name="if.wav" size="7064" crc="a178781b" sha1="64785fe0b79c639329057eb1a1c849aed48c500b"/>
+		<rom name="ill.wav" size="11372" crc="290beacc" sha1="5fe4b213522ed497c391259f9deb99404bde2655"/>
+		<rom name="im.wav" size="67826" crc="85d621ff" sha1="235f97d3b25194668aad82c6bd1e4a2338d8e245"/>
+		<rom name="in.wav" size="5444" crc="6ab37b4e" sha1="d134d5a7e2043d3a591eabb6c04682de65e8dc36"/>
+		<rom name="in_1.wav" size="6696" crc="832a49ed" sha1="baf95402c2f7340e9d6daecb78daf6082b6272ff"/>
+		<rom name="insert.wav" size="15156" crc="bc9c211d" sha1="7cdf110a0f9d5e3bb9955d8b9d25c52c6e3b7a47"/>
+		<rom name="invisibl.wav" size="21330" crc="c34f6785" sha1="2be7049f64a23ed4a29225e9e3e4918fe83ffda5"/>
+		<rom name="it.wav" size="5758" crc="8c7534f3" sha1="030f05425d6ca5112db44c46388123a67133be1d"/>
+		<rom name="lie.wav" size="9002" crc="c745fc17" sha1="74f5597afce0a2c3aba4783e2ef87c9623164a83"/>
+		<rom name="magic.wav" size="12394" crc="513c0397" sha1="1c094bd097f89b960a0880bd34fb48337464def2"/>
+		<rom name="magical.wav" size="17374" crc="b467c606" sha1="f41250a443fd76e8bfaf7a59861959ad50412740"/>
+		<rom name="me.wav" size="11558" crc="a4964d75" sha1="c714f0db7d93fea9a5f46af76a6015940bc9b98f"/>
+		<rom name="meet.wav" size="11660" crc="bcdce9c8" sha1="d00ca0ff2d9ac55689584b453e239fb4630d7f8f"/>
+		<rom name="months.wav" size="15488" crc="6021d84d" sha1="e8701fa80f9e0315a684b69246560bebcda3f74a"/>
+		<rom name="my.wav" size="10024" crc="83247560" sha1="e9e4f106949f646916632c1978d5503f27012870"/>
+		<rom name="my_1.wav" size="11692" crc="c2c070bc" sha1="2b96929d01e0e9dae0ef964bd9d8e56595f5b2e3"/>
+		<rom name="myself.wav" size="22682" crc="b67af909" sha1="4bb069104cbad889852c8bfb379fae71dee2a4b6"/>
+		<rom name="near.wav" size="9152" crc="ed9e55ab" sha1="f92ff06009170b277f88fbd2a05cbd5fd2059f69"/>
+		<rom name="never.wav" size="12430" crc="dc0620b3" sha1="14537c7697096271e3d8d2d9ed5d880145fc875b"/>
+		<rom name="now.wav" size="8584" crc="3d54b108" sha1="7af07cfb69e27d15672c2c7449e21ccfaa3912b6"/>
+		<rom name="now_1.wav" size="8424" crc="a5624bdf" sha1="23c1a89e54d7caa3a808abd85be270f31bffb419"/>
+		<rom name="now_2.wav" size="12490" crc="44ce47e0" sha1="524e056c5578c5fd7212604c1281d4ccf26d036a"/>
+		<rom name="of.wav" size="7244" crc="03a67dc7" sha1="bca2ec2c4a698478e33930a624ffdcc620566395"/>
+		<rom name="of_1.wav" size="6232" crc="d31bb9aa" sha1="373cbd95a7657dac0e293c3788b791bf5e5599e7"/>
+		<rom name="off.wav" size="7568" crc="eecaf354" sha1="f50435b8d4f7f660fce984e946c13caf07fca974"/>
+		<rom name="one.wav" size="8918" crc="18c67fad" sha1="973e1d836ae4d4cd2da9749ebfcfe5ec2fa82d39"/>
+		<rom name="only.wav" size="12184" crc="8d31cfaa" sha1="4801c12c19588e78e7fde29a0e563f26d01fdbe5"/>
+		<rom name="oven.wav" size="12772" crc="1e834419" sha1="cf7f6acfde156f1124552ee16b575207d4d3f91f"/>
+		<rom name="pause.wav" size="2248" crc="cab541b6" sha1="d41c2a136b6b8c04c850a2676729a6fde39ba638"/>
+		<rom name="pets.wav" size="9176" crc="a476072a" sha1="69728bbb88b47fccc0315f8cb4e7b22e833bfce8"/>
+		<rom name="pop.wav" size="6462" crc="f9eb35c5" sha1="71dc7f04f9706e6a5657b485e2bed0c7f9b78937"/>
+		<rom name="powerful.wav" size="18554" crc="59d30f6b" sha1="2967db7b247ce2c4ab7945d28a447dfd4a3e7f9b"/>
+		<rom name="radar.wav" size="13822" crc="da15597f" sha1="f72a53ed63284667788a6b02969f059b2553fb56"/>
+		<rom name="ready.wav" size="11678" crc="509cbd86" sha1="e34012f1f68dd28bc15f01e0fb1efe5b27d66220"/>
+		<rom name="rest.wav" size="11212" crc="8067731a" sha1="34eaf8ce58610af6939019bedf9103e08ad9f3f5"/>
+		<rom name="say.wav" size="8194" crc="d08ee7f6" sha1="1e9e2330d463ff318ce8f8781a207858009a2f9e"/>
+		<rom name="science.wav" size="18840" crc="72a42639" sha1="a6b0dcccd59fb7aa8d83ab36ddcc916f927c3074"/>
+		<rom name="see.wav" size="7668" crc="344ea8f8" sha1="a4e048f63980bdf32abeaf350c145f6fe3e7d975"/>
+		<rom name="spause.wav" size="2240" crc="473cf902" sha1="125bc814ac2fb70401e247e373790e74aeceeee4"/>
+		<rom name="start.wav" size="11028" crc="2baaca6e" sha1="fa4787228e992872aa67d61f171a8718bc3650e8"/>
+		<rom name="the.wav" size="5764" crc="d7eabc76" sha1="116c139cdfd95bfa81c1d6432b93ec63a45abd8a"/>
+		<rom name="the_1.wav" size="4022" crc="339f4283" sha1="1e605b1ec2e5499895aef0bb5fd5648b86f1d61d"/>
+		<rom name="the_2.wav" size="7072" crc="3683210c" sha1="2e1f3e9ff6e49b67dcd6f283ab99f1def32b99c3"/>
+		<rom name="the_3.wav" size="4018" crc="8dbd4f78" sha1="4f0095aab47ab939f8fbfba490d9de39ea6a5ba3"/>
+		<rom name="then.wav" size="7862" crc="24737c17" sha1="259a47987fa2d07d87374ee547f5b646addccdb8"/>
+		<rom name="through.wav" size="10864" crc="7df55a03" sha1="00577bc83e829122667aa0d8514ae04115a22641"/>
+		<rom name="thurwor.wav" size="15344" crc="dfd4a623" sha1="aa545c6a9d46010f811b8f96c27f27f652e6b9b6"/>
+		<rom name="thurwor_1.wav" size="16240" crc="e005c661" sha1="f6062b6416688ccd6af0b5d9843d94082fb7e20a"/>
+		<rom name="time.wav" size="9698" crc="ea7323b7" sha1="84e31b06f002d70f09edac37c83251c60d242297"/>
+		<rom name="to.wav" size="4268" crc="7424b111" sha1="87bc66fd688ed965649bcc46c5615e4cae7748e7"/>
+		<rom name="treasure.wav" size="11072" crc="9cfa36f3" sha1="b00b69b5b460b3aa94979c0e4d2a56e7264b4d5e"/>
+		<rom name="try.wav" size="10898" crc="957ebecc" sha1="9e937a0b896fcde3e50e52bbfbbe8d82ebf6cc49"/>
+		<rom name="very.wav" size="12332" crc="6bf647c7" sha1="3dbd156e07e6598afe819504f5aab205dfbd7fa1"/>
+		<rom name="wait.wav" size="12556" crc="52083a65" sha1="f8c33c93525c82e9184e95cef54218ad01bb5454"/>
+		<rom name="war.wav" size="11528" crc="dcbf7c78" sha1="a39097bd04cd9d8a12bcb477d1c8d130799f8ec3"/>
+		<rom name="warrior.wav" size="15952" crc="f15ea8ef" sha1="63f8a29ff051f2274d11eb8f779b6c2927eabf45"/>
+		<rom name="warrior1.wav" size="15564" crc="01daee78" sha1="9f21d93c1bf2f614a4b0901023e822e911e7556f"/>
+		<rom name="watch.wav" size="11010" crc="56c4d147" sha1="18ed24afa13bfeb94d298d0fbec1c556d61bd858"/>
+		<rom name="we.wav" size="7284" crc="39de9a86" sha1="2929d64de24fe2f5d8bd1e936951c363cfd9d09e"/>
+		<rom name="welcome.wav" size="18810" crc="2040a350" sha1="895a71ee9c1952201b1ec5766162fec167e174a6"/>
+		<rom name="were.wav" size="7950" crc="d90ac41f" sha1="18b13ce5aa7c234dd71972d0ddc594ddfa0fb646"/>
+		<rom name="while.wav" size="10686" crc="8672ac93" sha1="8779089913bcccd5c48cb5d27f52db8d2c3c51fa"/>
+		<rom name="will.wav" size="9344" crc="65b311b7" sha1="0af869b3d9a1f374f1def46d35b80d412c52c7d9"/>
+		<rom name="with.wav" size="9038" crc="ef14fa12" sha1="06bfc8e044d7d6ce6978db8d6a8269b4b3542c90"/>
+		<rom name="wizard.wav" size="11862" crc="52144bc4" sha1="eb50ab7de6f1cb033111c837be456d4bf1dadd5b"/>
+		<rom name="wizard1.wav" size="14554" crc="745066bb" sha1="abc5fdf6791a86e260535e35ba8e872e4f9ae065"/>
+		<rom name="wont.wav" size="9752" crc="4f359673" sha1="81a9cf54a33ea01d655fc72b9a9c7c8b89df2134"/>
+		<rom name="wor.wav" size="10204" crc="8c7197aa" sha1="2694e2568750d62382fefe9ebd5eacf40c575238"/>
+		<rom name="wor1.wav" size="13542" crc="a1705f20" sha1="55b53ce5d6b943ac860e4fce984f6a8e1aebd90a"/>
+		<rom name="world.wav" size="12254" crc="3deb0b59" sha1="a0ff5fd0af5964a418351b43a4ea9f040c3450f6"/>
+		<rom name="worlings.wav" size="20288" crc="6b860637" sha1="284fad1e63aacb05613971bc621e1a445e2d3d77"/>
+		<rom name="worlock.wav" size="17912" crc="5e40e88a" sha1="e3905fc764e5d0585c4c765a4e980b8208739b86"/>
+		<rom name="you.wav" size="8292" crc="5e28c992" sha1="b3f0c094053507dae2f30eeef332a5645a0f46f8"/>
+		<rom name="you_1.wav" size="8372" crc="fce177ea" sha1="4833e4d4ad3e881020e5adf2612079e129c37e87"/>
+		<rom name="you_2.wav" size="11786" crc="4af43d5c" sha1="430b9fed49405377f29ccec561e7756d45b18c60"/>
+		<rom name="youd.wav" size="10790" crc="7a5dbaea" sha1="ffd7649ea21a9c46cff90bb4c61cc0dc5b47542a"/>
+		<rom name="youl.wav" size="10610" crc="026b7e34" sha1="3a620ca0f411e3fcdb02de109a028d1ca9b30d1f"/>
+		<rom name="your.wav" size="8896" crc="4b47a8b6" sha1="d2554153bf4176038b3b16892971f3ab87c13e0f"/>
+		<rom name="your_1.wav" size="8726" crc="cffb0fab" sha1="efbefad87bf852fecf0a2b4ef490a46e3d4afe8c"/>
+		<rom name="your_2.wav" size="9110" crc="afa5a33d" sha1="7bfeb865cb5d82b3105df5801f7a95fd10268d6d"/>
+		<rom name="your_3.wav" size="9104" crc="db818d17" sha1="a618dcd02b7835c80038c3a946e77921655bf285"/>
+	</machine>
+	<machine name="wow(original)">
+		<description>wow(original)</description>
+		<rom name="a.wav" size="2427" crc="affd6857" sha1="74a120668dfc013c284b8044bf7f81e23fda26fb"/>
+		<rom name="again.wav" size="7927" crc="43447ecb" sha1="a65638e2e4fb3455a6676b509c3821450f903423"/>
+		<rom name="ahh.wav" size="4432" crc="c54a417b" sha1="9425f8416106ea603c69c19cdcbae1e290a4a3aa"/>
+		<rom name="am.wav" size="5115" crc="61e68565" sha1="36d2334dc3f44202119f332d9db6143cfe3acd71"/>
+		<rom name="and.wav" size="3972" crc="71d0f575" sha1="aa9c0d8212ce2a933c781026689960467ee6d5a3"/>
+		<rom name="anew.wav" size="6392" crc="16892a4f" sha1="4984257c9f320dbb535448fb29e4301e584a9af9"/>
+		<rom name="another.wav" size="7555" crc="06847c84" sha1="87d811a73a80187315bb18543df80fda0e0ddd5e"/>
+		<rom name="ANY.WAV" size="10166" crc="f7658d49" sha1="e9ce11f5da3bb9a167fb915a0c4e9a626fb91904"/>
+		<rom name="anyone.wav" size="9046" crc="cc5760a1" sha1="10b87b2ecedcc5815bc09deabd2c7563543a91e8"/>
+		<rom name="appear.wav" size="6085" crc="4b4a3a8c" sha1="7a3f7b9c8b18ce662404734e958cd4135c0bcb2a"/>
+		<rom name="are.wav" size="2522" crc="a19e0197" sha1="745604c33b023e0633cf988b3fc6d335525fe79e"/>
+		<rom name="BABIES.WAV" size="19140" crc="57f48e38" sha1="7a562bfd9f742ab70e38f3a53a5899f64d1dd577"/>
+		<rom name="BACK.WAV" size="14588" crc="c14f9915" sha1="a9215c25781267d07a31e88e028832ef9ce943e6"/>
+		<rom name="BEAT.WAV" size="12660" crc="60687c07" sha1="ac8652efd1fd62ddcf85da8567b9c750181454a1"/>
+		<rom name="become.wav" size="7991" crc="700956dd" sha1="bf05d24730e0af815433ff2f115524f36591bd38"/>
+		<rom name="BEST.WAV" size="12948" crc="9c13e6d5" sha1="e8e23d1ce629e92b7415bcceb68f1862da0c7ea7"/>
+		<rom name="better.wav" size="5272" crc="e0df01f8" sha1="a07368b374d1dfd4ce36ed732460222dba58310f"/>
+		<rom name="BITE.WAV" size="11996" crc="20c48855" sha1="e1c911295f7789ee6e09934f8a3b08544549fafc"/>
+		<rom name="bones.wav" size="5748" crc="3dda5ff9" sha1="f43cc5b51c64a6daf56fffdc7460ccf5c18f5ef6"/>
+		<rom name="breath.wav" size="14458" crc="96a4c6c2" sha1="e68500729bfccf2035d648a8ff312c4db1784e41"/>
+		<rom name="but.wav" size="3425" crc="db8d235f" sha1="5b5f364c1b51920d1f1bb5b59819b6d0886e6ffe"/>
+		<rom name="can.wav" size="3175" crc="8005d793" sha1="e5466d0a2a48670163948cfc69a655781d3adc90"/>
+		<rom name="CANT.WAV" size="12298" crc="bef02f90" sha1="9ba819f0b12abf7c5b425b248fc9c2020655c013"/>
+		<rom name="chance.wav" size="5296" crc="c4cc2085" sha1="0bdf463edf5627080c9bfe5a6ae10d4c40f3ccb8"/>
+		<rom name="chest.wav" size="4423" crc="a7aa9844" sha1="ccca7ee1d4cc434d7df55f4e4c1f87437b1aa01a"/>
+		<rom name="coin.wav" size="7108" crc="b11ca0c3" sha1="829c96c560c26f16939cf6f39f4b5069e54de842"/>
+		<rom name="coin1.wav" size="5805" crc="bfad835d" sha1="84af597212a2b9415d76f06d329d64a8df4d2d7a"/>
+		<rom name="dance.wav" size="5443" crc="2b3bdc35" sha1="fc5ee8150934850317f9af77932aefaff20b12aa"/>
+		<rom name="DESTROY.WAV" size="22762" crc="95f46190" sha1="71197ca4a2732a15bf7057f3b36ce77d4152fca0"/>
+		<rom name="develop.wav" size="7396" crc="976ac168" sha1="74bf3f16bc236eb7407b7ced8b0c215a88be2feb"/>
+		<rom name="DO.WAV" size="10018" crc="d096a542" sha1="efb1b4219d9f68f1634a676d24d4658b0e5ca2e4"/>
+		<rom name="dont.wav" size="5365" crc="4d511aaf" sha1="d58d004617d232757edbd8c0900dd7dad81adcd5"/>
+		<rom name="DOOM.WAV" size="15474" crc="dfdbd7f3" sha1="9fc232f22355667d2db0a556e60cf5e08baa47cd"/>
+		<rom name="DOOR.WAV" size="14180" crc="216db94f" sha1="5c27946b8bc578358d3e6a48df781c58d3372af8"/>
+		<rom name="draw.wav" size="3857" crc="270746dd" sha1="eb131ee4682307e89a612df4b20d1b124d156787"/>
+		<rom name="dungeon.wav" size="6571" crc="000790e4" sha1="3ad58b0dedff79169813fc7fcc6b7a0b47b2df7d"/>
+		<rom name="dungeons.wav" size="6993" crc="c4dc5a86" sha1="8f6a4ebce5073ab494ffec364ff261c48eb26683"/>
+		<rom name="each.wav" size="4474" crc="7ed55105" sha1="61b4109a922ecc4980c8723bd16b0f5ed30c6be9"/>
+		<rom name="eaten.wav" size="4869" crc="8ab0c9d5" sha1="793f06049d8d98b3fbb80306355c76961d0004e6"/>
+		<rom name="ESCAPE.WAV" size="19812" crc="b1cf59f7" sha1="e82ba6418eb3f667e4765efd95fc9af36f3fa0ea"/>
+		<rom name="EXPLODE.WAV" size="25722" crc="5d7d47cc" sha1="a32fa242c8674b6fdc222f665f35ae607eacb5ef"/>
+		<rom name="fear.wav" size="4400" crc="9d519e29" sha1="0e58ee02fbff39558651425e2bd51bbc9fa1ff9b"/>
+		<rom name="find.wav" size="5024" crc="1a7919ce" sha1="d2391cef7d50f68dae4315b1c77bacb5b6f6ef3c"/>
+		<rom name="fire.wav" size="15642" crc="38db1977" sha1="36e0f19d94dc5b749fad7c85194175b45124e321"/>
+		<rom name="for.wav" size="3737" crc="82b91273" sha1="be3e4fd9e79d13b21b3bab6979a222e5eaf78da3"/>
+		<rom name="for_1.wav" size="3435" crc="86f5c3b2" sha1="b6b618a1cc9a1137eb12132790af93ae0491fa05"/>
+		<rom name="for_2.wav" size="3097" crc="16c863b4" sha1="22ef09a79458af8c750e8d9b57882312f20b1cb9"/>
+		<rom name="FROM.WAV" size="14184" crc="6633a1cd" sha1="0bcc902acbbe9ab568689cc1d0c2ef39172a311f"/>
+		<rom name="garwor.wav" size="6732" crc="f25b019f" sha1="afaaf83ce2cc1dfb01ef956d896872662826f6fb"/>
+		<rom name="get.wav" size="4178" crc="2fdf936f" sha1="2dc22b2573ce42fd46b48dd68916626d3ea48cfa"/>
+		<rom name="get_1.wav" size="3690" crc="94167e62" sha1="838f69d9c6312e5c72e105497b1a517a2f197726"/>
+		<rom name="getting.wav" size="7156" crc="a75bd222" sha1="bff91178cb0170f3f56ae1f372acb4d0927ae654"/>
+		<rom name="good.wav" size="6266" crc="1f19cf0d" sha1="e6111d2d2f4a73002748fdb69eae904dc0ac7752"/>
+		<rom name="hahahaha.wav" size="9738" crc="6ba7c331" sha1="590dc84ad74284df6bcb5267a489ca5e459dbe8f"/>
+		<rom name="HARDER.WAV" size="17284" crc="98b18917" sha1="1fd23d1e076ab64bc8e74632f57101a50a69e9db"/>
+		<rom name="hasnt.wav" size="5539" crc="3acd3488" sha1="27dea5885da6e30fdefb20e9a16ce19f369164a2"/>
+		<rom name="have.wav" size="4260" crc="25bb7645" sha1="d3357b2f867562be7b0c69c50c5f6c9cf91d13b5"/>
+		<rom name="heavyw.wav" size="12434" crc="409fbcbc" sha1="fdb98aa909ffd07db24719c01a596534f2429883"/>
+		<rom name="heavyw_1.wav" size="12446" crc="6821df97" sha1="1223d02cb408d30d1658386c60da2feecfbe26b6"/>
+		<rom name="hey.wav" size="5009" crc="9f1ad7d5" sha1="e9283934167a8a1fccb726cf283abef43f43c309"/>
+		<rom name="hope.wav" size="4118" crc="e0b92a61" sha1="a19b2e68b26adaa2035fb041df1c6d5868a690d2"/>
+		<rom name="hungry.wav" size="7931" crc="2d46bcd8" sha1="ce29900856a7acf2fda85f7222cf822038cf9f2b"/>
+		<rom name="hurry.wav" size="12888" crc="2fff0a93" sha1="54261774d4dbdb345350e718c4025c97d7112045"/>
+		<rom name="i.wav" size="3768" crc="7d89656c" sha1="9af58029032348a9fb121216f9512e4666514c82"/>
+		<rom name="i1.wav" size="5301" crc="479e9a0d" sha1="55aba562f2bfb052d581db56f36d778473dc9ab4"/>
+		<rom name="IF.WAV" size="9648" crc="74042c7a" sha1="85272de743c01fe6b3a54316a9c9c2603a01a08f"/>
+		<rom name="ill.wav" size="7072" crc="f0c27d7d" sha1="82a05fe4a202e7971dd2c56d2cf3655fbaddd341"/>
+		<rom name="im.wav" size="7525" crc="377b0cd1" sha1="3aa17506064bfc0a716ba1311ddded1c284e2246"/>
+		<rom name="in.wav" size="4009" crc="d670afdc" sha1="ccc8abc0e13ac608841a619e14b1548b8b153f3d"/>
+		<rom name="in_1.wav" size="3503" crc="8aaa5868" sha1="00c02d8609d65ccc1ee9ffc75f3f2dd623644a1d"/>
+		<rom name="insert.wav" size="7639" crc="8bb05b82" sha1="b8d1c2899669e3c43fb6b5d1d439e7458fd7b4bb"/>
+		<rom name="invisibl.wav" size="9861" crc="4b993676" sha1="da7e067f941eafc5da478aa426e7fef6647f4f7b"/>
+		<rom name="it.wav" size="3054" crc="8f1f9b36" sha1="6e76f94e64efbf1ef3d0e25a8c2c03de0370083b"/>
+		<rom name="lie.wav" size="4515" crc="d42f1823" sha1="9a2c05a97edf941e9d20223b4e15029d5f39e0ed"/>
+		<rom name="magic.wav" size="6505" crc="b551f27f" sha1="81175c7f794f2dfda735f34c458e8df790b7e660"/>
+		<rom name="magical.wav" size="7903" crc="0118feb1" sha1="bcdf63d37d8f4becd61276e02fc6a6622bf717cf"/>
+		<rom name="me.wav" size="5381" crc="d67b52fb" sha1="437272459895af2c65e0577187bba761ff5d2063"/>
+		<rom name="MEET.WAV" size="13848" crc="54dc08fd" sha1="cadbea8ff2f240c2f424eb4d0a456159cf69c5ec"/>
+		<rom name="months.wav" size="6479" crc="a6968313" sha1="75912ea2789b50d89dbc271f761211afa1c2ddf3"/>
+		<rom name="my.wav" size="5678" crc="37cae320" sha1="79dcdb92a0b66334b09cd28646bfe9d2b1f8b8d8"/>
+		<rom name="my_1.wav" size="4462" crc="f68066a4" sha1="0ad270396ef42944ef100bc66941459849bd5319"/>
+		<rom name="MYSELF.WAV" size="17412" crc="9afb4329" sha1="ddd232e404cacef42c3f809492bfecad1a05b7a2"/>
+		<rom name="near.wav" size="4344" crc="44a74e9e" sha1="a6162011bc3e4c94ee7f04b9b63c6973109f39f6"/>
+		<rom name="NEVER.WAV" size="14636" crc="9fe358a3" sha1="c048f6499f4e65afacfb6765c8ba6ac3225583e9"/>
+		<rom name="now.wav" size="4293" crc="12aaea31" sha1="7f2491214f03679241ba89a13b7d352aeae6982d"/>
+		<rom name="now_1.wav" size="3543" crc="8677735d" sha1="c8d93590ad4c05fba59d15128413130e780ea3bf"/>
+		<rom name="now_2.wav" size="4220" crc="944a990a" sha1="b952753a4a38e329251e09443a897a3a63788dd1"/>
+		<rom name="of.wav" size="2326" crc="6464047d" sha1="8ee4721d9a5a46d212bddfe28da26a4bfbde84c5"/>
+		<rom name="of_1.wav" size="3366" crc="031299e1" sha1="f59309532c3f03278dcf6e94839916a3d364aa19"/>
+		<rom name="off.wav" size="3630" crc="c4f40ee6" sha1="a23cdc91d57369f6eb92dc8eee5e9a22bb3541b8"/>
+		<rom name="one.wav" size="11122" crc="a08dcdb7" sha1="449a71f004b795b74922ba57e1d582a801420e96"/>
+		<rom name="ONLY.WAV" size="16382" crc="117e5d64" sha1="3462bbd68c95df0ad4c8fd3a87ce17dda8966d2b"/>
+		<rom name="OVEN.WAV" size="14670" crc="101bd0a8" sha1="ce5c29d87a6860f22b2b96cfd249341e037e5375"/>
+		<rom name="pause.wav" size="3118" crc="ddf73316" sha1="3b6b76129a88d26425b0a2e84d02a69e2962e93e"/>
+		<rom name="pets.wav" size="5084" crc="34e58198" sha1="2445d4e816f56f2d94581730fc3735713f7b210e"/>
+		<rom name="POP.WAV" size="11318" crc="cc0c4af7" sha1="ee5e48fa3aec8fc84192a5720dc04c76f70bae6c"/>
+		<rom name="POWERFUL.WAV" size="18332" crc="f6983757" sha1="11a53d36eb54f0be0e935392ac7fef39140bcb4a"/>
+		<rom name="radar.wav" size="7297" crc="f51825b6" sha1="458ef2b07707a5c722aaf37f42e5d55e8dbf82f7"/>
+		<rom name="READY.WAV" size="12498" crc="48db6a6b" sha1="ce4768b5837638622dfb924b8cb389418f1e22ad"/>
+		<rom name="REST.WAV" size="15178" crc="05b87e2c" sha1="db84b5169f5e6295f2f1c25db9051caf45ec3e6d"/>
+		<rom name="say.wav" size="2586" crc="ccaa9a4b" sha1="49e858b283a421530202837097eb7d9a46e273b9"/>
+		<rom name="science.wav" size="9580" crc="966aaaa7" sha1="53ce327b353c823854dc4b750ec6045da360252a"/>
+		<rom name="see.wav" size="4131" crc="524cabf0" sha1="f4c3f1ecb4c5065965e5129577176defda219f63"/>
+		<rom name="spause.wav" size="3118" crc="52ca70b1" sha1="e92b0d3f04c82656ea2e04f9c667762c17f14f03"/>
+		<rom name="start.wav" size="5785" crc="06e19436" sha1="2bd7150793306d94954a48d71e41602ced8cd257"/>
+		<rom name="the.wav" size="2490" crc="6522b1f7" sha1="2b1b3516b97e6627feacf5384c5da405664932a6"/>
+		<rom name="the_1.wav" size="2871" crc="3fdc130c" sha1="49ff0d6cb2479b88cc730d21a6e67a9ff12ef849"/>
+		<rom name="the_2.wav" size="2285" crc="beec7b80" sha1="5502fb5be103952bdc8e0fbcb36d2fb7b00e4f2b"/>
+		<rom name="the_3.wav" size="2859" crc="c76492a8" sha1="afe91f32b54eb23f1aabeda45019fb1dc70d2ebe"/>
+		<rom name="THEN.WAV" size="14472" crc="da784ccc" sha1="38aabb1907f3e361988f6b9e9b93b9774be88e7d"/>
+		<rom name="through.wav" size="4759" crc="6e1bb982" sha1="25ea170823c81212880935e0e73fbfe0d9776043"/>
+		<rom name="thurwor.wav" size="8106" crc="def44b0c" sha1="87c42beb2059e5776b2376a2fbe2394ce97d9f87"/>
+		<rom name="thurwor1.wav" size="9525" crc="543ba625" sha1="fd225f767a421212057e873ca80931a9c76a727d"/>
+		<rom name="time.wav" size="4424" crc="c0ad7cef" sha1="65e5326a50f6eccd74b8672786b905ae1f54b214"/>
+		<rom name="to.wav" size="2585" crc="231fe9e4" sha1="3424e80ab21e6d3c5145a041a08a65dafaa24694"/>
+		<rom name="treasure.wav" size="6349" crc="a86e5bb0" sha1="943a442ce49e8354ccc23e3d196782d39ab738a2"/>
+		<rom name="TRY.WAV" size="12980" crc="aa41e7d8" sha1="00754d3ba9966a807c39d2a2c65a0ed3cfbf0e99"/>
+		<rom name="VERY.WAV" size="16372" crc="be08af3d" sha1="cb2acc6437525f343e7e87f676593ad6dedce222"/>
+		<rom name="WAIT.WAV" size="12990" crc="10982fde" sha1="e9b502f4cf33f385e667c5d13a10054ebbcacda3"/>
+		<rom name="war.wav" size="6569" crc="88e0dfcf" sha1="ebd7d3e606006a40c41c7c7a57ff23533e7e3de1"/>
+		<rom name="warrior.wav" size="8983" crc="22ccd752" sha1="54ffc6e9a189d6b8d0d33fc89c6f5abef9022b47"/>
+		<rom name="warrior1.wav" size="8059" crc="3916a228" sha1="b0554e4130d0415f92a936349d2fcfce0a06208c"/>
+		<rom name="watch.wav" size="5438" crc="1c6208f2" sha1="8259c83b57e21977a437de634c2edf614ab76e38"/>
+		<rom name="we.wav" size="4190" crc="c77263f6" sha1="77475843a0ade59455e31b2b62ef6284cdd221ce"/>
+		<rom name="welcome.wav" size="8924" crc="38d82a61" sha1="e54e932753b52cc63b9ed20dee9601030e21d940"/>
+		<rom name="were.wav" size="4052" crc="abb53adc" sha1="d2615aade6f60450a1af90ede4e8c816fb772b8b"/>
+		<rom name="while.wav" size="5701" crc="5bfebceb" sha1="77152bcc27f0796de1baa749f1ced529d7437ea8"/>
+		<rom name="will.wav" size="4555" crc="7b288344" sha1="d65dd5fa0737b91fd968f97dd61f5b9ccb110fd1"/>
+		<rom name="WITH.WAV" size="11994" crc="7a1420c8" sha1="7dc40e75c38ad2c82b1dc2f2c158378fd075746b"/>
+		<rom name="wizard.wav" size="5638" crc="d2ef6cfb" sha1="8b065e786ca664c6a44932172484b9e757144311"/>
+		<rom name="wizard1.wav" size="5969" crc="39574e42" sha1="ad66ee384a9adaf470b3a44afd5bcd99fac1fa0a"/>
+		<rom name="wont.wav" size="3687" crc="d8fe6f6a" sha1="e6226b861cb071713b1a889e0a1a6198d8a26199"/>
+		<rom name="wor.wav" size="7467" crc="9997c6f7" sha1="e915ed64a492ce2cea233f6278a2019ef5d42cdc"/>
+		<rom name="wor1.wav" size="7441" crc="496010fd" sha1="f639c795f0fabfdcc1f272ae055b926d949aaddc"/>
+		<rom name="world.wav" size="5265" crc="85586d00" sha1="3b978654bdcda78ded9eae62fdb89544112e01d3"/>
+		<rom name="WORLINGS.WAV" size="19880" crc="85140209" sha1="6722b1c681fbe343e3bc4d15f776a813b1798d9e"/>
+		<rom name="WORLOCK.WAV" size="16260" crc="707d41bf" sha1="ff822edb31624a608192381cddf9efcf2f85f45a"/>
+		<rom name="you.wav" size="4292" crc="b52a663e" sha1="4cc0b252f7b3b8a9d0bc8b68682682e433a5831a"/>
+		<rom name="you_1.wav" size="4210" crc="e6b5019d" sha1="94a07c568c8aaaf1ca1ef9fa4c89f41c2f01edd0"/>
+		<rom name="you_2.wav" size="4271" crc="2d1d93c2" sha1="226f61c898f55c80f6a0dd4c73b3f304c6ce1b41"/>
+		<rom name="youd.wav" size="5458" crc="471944e0" sha1="5a52d4883ff1de5350e0c741f40b88356d6bc4d7"/>
+		<rom name="YOUL.WAV" size="11898" crc="1e3bd645" sha1="17a8183bc756848169b1dcd465ab7f7f6808a7d3"/>
+		<rom name="your.wav" size="4864" crc="d4511d74" sha1="f654e38bf2a580590620d7fdfb1e63ac960d296a"/>
+		<rom name="your_1.wav" size="3601" crc="0aa36d68" sha1="834485ca2df0c461497a5128cffb69d79031706c"/>
+		<rom name="your_2.wav" size="4148" crc="27a3a14d" sha1="38a958b4af313686bfc7ad895098cf7f9d312d7d"/>
+		<rom name="your_3.wav" size="4383" crc="eebc07a7" sha1="92ce9ab667abe46b7f3dab7cad7910eaf0ffa233"/>
+	</machine>
+	<machine name="xevios">
+		<description>xevios</description>
+		<rom name="explo1.wav" size="122654" crc="cf67fa63" sha1="d752aa8b96d1749fde4cdbfc2a9f0e74820fb8b3"/>
+	</machine>
+	<machine name="xevious">
+		<description>xevious</description>
+		<rom name="explo1.wav" size="86884" crc="c0b38f22" sha1="212a805890f72a3433297a6ed4f7b8e970907235"/>
+		<rom name="explo2.wav" size="158376" crc="aa8047e6" sha1="048661e653dcf987f77a9290eed4236bcf7ebbfd"/>
+		<rom name="explo3.wav" size="45318" crc="e921caad" sha1="ffe452f8c85e68a44b870fc08df5a748fcb3aa5f"/>
+		<rom name="explo4.wav" size="92744" crc="d1aac5de" sha1="92e6a14f98ab467cb32512f2b9b5dbf9aaef8d58"/>
+	</machine>
+	<machine name="ym3812">
+		<description>ym3812</description>
+		<rom name="bassdrum.wav" size="11718" crc="6065f9c6" sha1="723bae9d9a5bda95a0ca7a6921196e16a0fb46aa"/>
+		<rom name="hihat.wav" size="8206" crc="0dc30455" sha1="795c4ba3273f6c3b863dd683f900aa801fb7271e"/>
+		<rom name="readme.txt" size="78" crc="226dd6cf" sha1="a756393d7ca63690dc149cfddaa5df0760cd9ae1"/>
+		<rom name="snardrum.wav" size="37538" crc="b61b9552" sha1="e816f355d0b78a6b7beed10f7296510238cd5e02"/>
+		<rom name="tomtom.wav" size="35286" crc="2abebf49" sha1="341bfcbfbe0a89fca32cc35dd0a39c3fa5fbcaf8"/>
+		<rom name="topcmbal.wav" size="213290" crc="ce1fad6d" sha1="d683b0b9661b3be0f6f42c512f77db4a7add4d4a"/>
+	</machine>
+	<machine name="zaxxon">
+		<description>zaxxon</description>
+		<rom name="00.wav" size="30014" crc="e6528d9e" sha1="f16d6f074a5373f890a87924c002d965a9592491"/>
+		<rom name="01.wav" size="17842" crc="ac9441db" sha1="c8d09758369574429140210eead0b36fb8a7ffc8"/>
+		<rom name="02.wav" size="63640" crc="580b4e60" sha1="e7e137ca93af51df599a5cdd0cfabb42a0eb39b3"/>
+		<rom name="03.wav" size="40464" crc="87a820aa" sha1="e7f0172094f9a36fff1f85c0f456d5cdcaa6d169"/>
+		<rom name="04.wav" size="66338" crc="f1b68a58" sha1="590ef769b9727d9873ee760840878f9bc8a6feec"/>
+		<rom name="05.wav" size="56082" crc="ccf9619d" sha1="5d1a18b16c52c984e175ad1aed66280e188eabeb"/>
+		<rom name="08.wav" size="104736" crc="67b30407" sha1="49d59017c38d4b0835b2c206c6e595d1b3e22de9"/>
+		<rom name="10.wav" size="169014" crc="01725aaa" sha1="110dd2b67de2598a42ee95744934313591bfa22d"/>
+		<rom name="11.wav" size="154188" crc="9f0e6086" sha1="97f6a5990dffca5e72fd7dd1afa493f4306e4415"/>
+		<rom name="20.wav" size="4172" crc="1ceba559" sha1="e856f40bacd6b1a60e339d20397dc283d11e7234"/>
+		<rom name="21.wav" size="6898" crc="2adcdfbb" sha1="3823636a7fd836aca2428cd6afd595c50413dd81"/>
+		<rom name="23.wav" size="87022" crc="6afde55b" sha1="1e0ec8be6ad2c160b1e1842723d32267f62a7606"/>
+	</machine>
+	<machine name="zektor">
+		<description>zektor</description>
+		<rom name="elim1.wav" size="90784" crc="97dc87cd" sha1="51ee51bd195a6998f9c3e19d72cc3c2bc976fa69"/>
+		<rom name="elim10.wav" size="104504" crc="e83e206c" sha1="f9a825db49ade6d12118f388453045091d6030f3"/>
+		<rom name="elim11.wav" size="86486" crc="0a110a5f" sha1="b3204b4c08a7fd5ad57fb9f95c256c5bb5484cb6"/>
+		<rom name="elim2.wav" size="41918" crc="28f7db98" sha1="188fd33799675263a6a7ce95e2eb9e5c40b5baf6"/>
+		<rom name="elim3.wav" size="94256" crc="d2f3c0d3" sha1="579d9444fcbdaa7e0dc3b9645bd7988556228474"/>
+		<rom name="elim4.wav" size="18554" crc="01066e4d" sha1="654dadade634a4e9631ee3cf4ede27284d08d907"/>
+		<rom name="elim5.wav" size="95856" crc="c4a85aa4" sha1="cd346e592dde67f63e3b29c476c8dd2613c1a8fe"/>
+		<rom name="elim6.wav" size="16394" crc="aa484cd1" sha1="adec21c6ffc6f344524812060e03488dd1a73daa"/>
+		<rom name="elim7.wav" size="18554" crc="2d2cbe60" sha1="0cab7b84fcdfc25d90da9ced60934f9afe772b45"/>
+		<rom name="elim8.wav" size="95856" crc="c4a85aa4" sha1="cd346e592dde67f63e3b29c476c8dd2613c1a8fe"/>
+		<rom name="elim9.wav" size="99786" crc="9063bc9c" sha1="027a7b6ed027243828650818a989878ffb761f87"/>
+		<rom name="zk01.wav" size="129348" crc="331851e3" sha1="0299b8403aadef32d20f817959dcf08d34f4e9c5"/>
+		<rom name="zk02.wav" size="84798" crc="276b645d" sha1="de912d1aa7c88510d147e02dbfa6ea48871eb36c"/>
+		<rom name="zk03.wav" size="87640" crc="2342420b" sha1="fa844b6929c4a94d4027efe944484ec1a8493728"/>
+		<rom name="zk04.wav" size="127042" crc="2729cf83" sha1="8618dd25b3e35a481e4cbc87b6d7b72bea3300c0"/>
+		<rom name="zk05.wav" size="138158" crc="15f37d3d" sha1="f9516f4061066fa2fef15a029f4b8ab7e512c7e9"/>
+		<rom name="zk06.wav" size="101314" crc="ed2e5064" sha1="e6db6ce72833bea8246b261e66ceb6739bf6c81e"/>
+		<rom name="zk07.wav" size="166814" crc="95b6302c" sha1="32fc470ca126eb55dc3f735611fa2cbb1c57f158"/>
+		<rom name="zk08.wav" size="36984" crc="a9c042c5" sha1="6ce10736fc54a5aeb4b3a1c2e9fa06c543f54d14"/>
+		<rom name="zk09.wav" size="52112" crc="7b242f7d" sha1="401a1a72040c2c1dff023800bda2668da6d1bcde"/>
+		<rom name="zk0a.wav" size="30992" crc="83c2ca74" sha1="d1145278f4e6e18db1fac9acdb154fd8b7d924a7"/>
+		<rom name="zk0b.wav" size="24092" crc="be7e3d53" sha1="ed1842ba66d0b9806ce45f7f1b15a98c07e4644d"/>
+		<rom name="zk0c.wav" size="25328" crc="c62a6a0e" sha1="0ad0e984b2b640b35090738d29aa74894addca24"/>
+		<rom name="zk0d.wav" size="28856" crc="fbc8687e" sha1="b17abe5e612053e915729ef15ff14c8ad278bda5"/>
+		<rom name="zk0e.wav" size="218738" crc="94215e92" sha1="04beeee35c8009eda8fa6b383dc29e408555dd56"/>
+		<rom name="zk0f.wav" size="94064" crc="27453583" sha1="3190c8f3e6612ecdb9c86c19fbc3b9875dae7996"/>
+		<rom name="zk10.wav" size="103588" crc="497d88f4" sha1="63104f83280cd2a958b3f413d700f35fe87d26f5"/>
+		<rom name="zk11.wav" size="125404" crc="5c50d041" sha1="cc5311a9ecaabf2547ac869ff589a6b82c3e90fc"/>
+		<rom name="zk12.wav" size="132388" crc="d1557078" sha1="3b92c0623687eb2ccac5ce767690681f3967a01f"/>
+		<rom name="zk13.wav" size="134818" crc="e43e6f9e" sha1="ba849fe9102b7881b9139185eb2b405c96f8b412"/>
+	</machine>
+</datafile>

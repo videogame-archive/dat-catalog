@@ -1,0 +1,2804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile debug="no">
+	<header>
+		<name>MAME 0.160 CHDs (merged)</name>
+		<description>MAME 0.160 CHDs (merged)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="2spicy">
+		<description>2 Spicy</description>
+		<year>2007</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0027a" sha1="da1aacee9e32e813844f4d434981e69cc5c80682" />
+	</machine>
+	<machine name="a51site4">
+		<description>Area 51: Site 4 (HD Rev 2.01, September 7, 1998)</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="a51site4-2_0" sha1="4de421e4d1708ecbdfb50730000814a1ea36a044" />
+		<disk name="a51site4-2_01" sha1="48496666d1613700ae9274f9a5361ea5bbaebea0" />
+	</machine>
+	<machine name="alien">
+		<description>Alien: The Arcade Medal Edition</description>
+		<year>2005</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="alien" sha1="0328f12765db41a9ef5c8bfb88d4983345093072" />
+	</machine>
+	<machine name="arctthnd">
+		<description>Arctic Thunder (v1.002)</description>
+		<year>2001</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="arctthnd" sha1="f4373e57c3f453ac09c735b5d8d99ff811416a23" />
+		<disk name="uarctict" sha1="8557a1d7ae8dc41c879350cb1c228f4c27a0dd09" />
+	</machine>
+	<machine name="area51mx">
+		<description>Area 51 / Maximum Force Duo v2.0</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="area51mx" sha1="5ff10f4e87094d4449eabf3de7549564ca568c7e" />
+	</machine>
+	<machine name="area51">
+		<description>Area 51 (R3000)</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="area51t" sha1="d2865cc7b1bb08a4393a72013a90e18d8a8f9860" />
+		<disk name="area51" sha1="3b303bc37e206a6d7339352c869f050d04186f11" />
+	</machine>
+	<machine name="atronic">
+		<description>Atronic SetUp/Clear Chips (Russia, set 1)</description>
+		<year>1999</year>
+		<manufacturer>Atronic</manufacturer>
+		<disk name="atronic" sha1="3335e9f8f67f1b176e043f078456d2b13178b7ef" />
+	</machine>
+	<machine name="avalnc13">
+		<description>The Key Of Avalon 1.3 - Chaotic Sabbat (client) (Rev C) (GDT-0010C)</description>
+		<year>2004</year>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<disk name="gdt-0010a" sha1="a82f803a2097890c29e44ef30d97ad1fcf550435" />
+		<disk name="gdt-0010c" sha1="c7a3fdb467ccd03b5b9b9e8e290faabcbbc77546" />
+	</machine>
+	<machine name="avalns13">
+		<description>The Key Of Avalon 1.3 - Chaotic Sabbat (server) (Rev C) (GDT-0009C)</description>
+		<year>2004</year>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<disk name="gdt-0009a" sha1="abeb242cb7f55d003eb7ca6d42dccdb5d8080bf1" />
+		<disk name="gdt-0009c" sha1="b960815d85e255521fc26bd4a9e4b7e5c4469487" />
+	</machine>
+	<machine name="avalon20">
+		<description>The Key Of Avalon 2.0 - Eutaxy and Commandment (client) (Rev B) (GDT-0017B)</description>
+		<year>2004</year>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<disk name="gdt-0017b" sha1="e2dd32c322ffcaf38b82275d2721b71bb3dfc1f2" status="baddump" />
+	</machine>
+	<machine name="avalonc">
+		<description>The Key Of Avalon - The Wizard Master (client) (Rev G) (GDT-0006G)</description>
+		<year>2003</year>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<disk name="gdt-0006e" sha1="59aeb7d767d390b3ee7f079d3d1a31df3e92773b" />
+		<disk name="gdt-0006f" sha1="35c98e41095273326ac0c6fe633c3f6e8b328f63" />
+		<disk name="gdt-0006g" sha1="96e1db3f395152a62d0b344c350f38306ab1e0ae" />
+	</machine>
+	<machine name="avalons">
+		<description>The Key Of Avalon - The Wizard Master (server) (Rev G) (GDT-0005G)</description>
+		<year>2003</year>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<disk name="gdt-0005c" sha1="37b848ed131e8357ba57474f7c2aa6ab51b01781" />
+		<disk name="gdt-0005e" sha1="a888a045c323f374b53295404262a3bb80a533c0" />
+		<disk name="gdt-0005f" sha1="3752e406a5542a912f8b1ef48096ed30e7d28279" />
+		<disk name="gdt-0005g" sha1="f2dca7ecd6c07ff098ac91e353ffc3fd843054e3" />
+	</machine>
+	<machine name="azumanga">
+		<description>Azumanga Daioh Puzzle Bobble (GDL-0018)</description>
+		<year>2002</year>
+		<manufacturer>MOSS (Taito license)</manufacturer>
+		<disk name="gdl-0018" sha1="749a56dd64ab697f17470d8ae797f7e20e9eb646" />
+	</machine>
+	<machine name="bam2">
+		<description>Bust a Move 2 (Japanese ROM ver. 1999/07/17 10:00:00)</description>
+		<year>1999</year>
+		<manufacturer>Metro / Enix / Namco</manufacturer>
+		<disk name="bam2" sha1="634d9a745a82c567fc4d7ce48e3570d88326c5f9" />
+	</machine>
+	<machine name="batlgear">
+		<description>Battle Gear</description>
+		<year>1999</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="batlgear" sha1="eab283839ad3e0a3e6be11f6482570db334eacca" />
+	</machine>
+	<machine name="batlgr2">
+		<description>Battle Gear 2 (v2.04J)</description>
+		<year>2000</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="bg2_201j" sha1="542d12682bd0f95143368578461c6a4fcc492fcc" />
+		<disk name="bg2_204j" sha1="7ac100fba39ae0b93980c0af2f0212a731106912" />
+	</machine>
+	<machine name="bdrdown">
+		<description>Border Down (Rev A) (GDL-0023A)</description>
+		<year>2003</year>
+		<manufacturer>G.Rev</manufacturer>
+		<disk name="gdl-0023a" sha1="1bd2594ca5be9423aad1a848f14d8891c0b2806a" />
+	</machine>
+	<machine name="beachspi">
+		<description>Beach Spikers (GDS-0014)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0014" sha1="2d784ed2f5c00189af8480c9ab5ae9d8b7a152d2" />
+	</machine>
+	<machine name="bhead2k2">
+		<description>Beach Head 2002 Install - 05/27/03</description>
+		<year>2002</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="beachhead2002_5-27-2003" sha1="c58e62363387b76b4f03432b543498d4560d27a9" />
+	</machine>
+	<machine name="bhead2k3">
+		<description>Beach Head 2003 Desert War Install - 05/27/03</description>
+		<year>2003</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="beachhead2003desertwar_5-27-2003" sha1="fed23a6496836050eb1d4f69b91da09adbd9d973" />
+	</machine>
+	<machine name="bhead2k">
+		<description>Beach Head 2000 Install - 05/27/03</description>
+		<year>2000</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="beachhead2000_5-27-2003" sha1="d4473a7fb9820f2e517a1e0609ec9e12f326fc06" />
+	</machine>
+	<machine name="bhead2ka">
+		<description>Beach Head 2000 Install - 09/16/01</description>
+		<year>2000</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="beachhead2000_9-16-2001" sha1="2151c0aff39a5279adb422e97f00c610d21c48e8" />
+	</machine>
+	<machine name="bikiniko">
+		<description>BiKiNikko - Okinawa de Ippai Shichaimashita (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Nichibutsu/eic</manufacturer>
+		<disk name="bikiniko" sha1="2189b676746dd848b9b5eb69f9663d6dccd63787" />
+	</machine>
+	<machine name="biofreak">
+		<description>BioFreaks (prototype)</description>
+		<year>1997</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="biofreak" sha1="711241642f92ded8eaf20c418ea748989183fe10" />
+	</machine>
+	<machine name="bldyr3b">
+		<description>Bloody Roar 3 (bootleg)</description>
+		<year>2001</year>
+		<manufacturer>bootleg</manufacturer>
+		<disk name="bldyr3b" sha1="1de9b14107a7a37ed31bccba17c1d062f0af5065" />
+	</machine>
+	<machine name="blitz2k">
+		<description>NFL Blitz 2000 Gold Edition</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="blitz2k" sha1="e89b7fbd4b4a9854d47ae97493e0afffbd1f69e7" />
+	</machine>
+	<machine name="blitz99">
+		<description>NFL Blitz '99</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="blitz99" sha1="19877e26ffce81dd525031e9e2b4f83ff982e2d9" />
+	</machine>
+	<machine name="blitz">
+		<description>NFL Blitz (boot ROM 1.2)</description>
+		<year>1997</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="blitz" sha1="9131c7888e89b3c172780156ed3fe1fe46f78b0a" />
+	</machine>
+	<machine name="bm1stmix">
+		<description>beatmania (ver JA-B)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="753jaa11" sha1="2e70cf31a853322f29f99b6f292c187a2cf33015" />
+	</machine>
+	<machine name="bm2ndmix">
+		<description>beatmania 2nd MIX (ver JA-B)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="853jaa11" sha1="9683ff8462491252b6eb2e5b3aa6496884c01506" />
+	</machine>
+	<machine name="bm3final">
+		<description>Beatmania III The Final</description>
+		<year>2003</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gcc01jca01" sha1="3e7af83670d791591ad838823422959987f7aab9" />
+		<disk name="gcc01jca02" sha1="823e29bab11cb67069d822f5ffb2b90b9d3368d2" />
+	</machine>
+	<machine name="bm3rdmix">
+		<description>beatmania 3rd MIX (ver JA-A)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="825jaa11" sha1="048919977232bbce046406a7212586cf39b77cf2" />
+	</machine>
+	<machine name="bm4thmix">
+		<description>beatmania 4th MIX (ver JA-A)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="847jaa11" sha1="8cad631531b5616d6a4b0a99d988f4b525932dc7" />
+	</machine>
+	<machine name="bm5thmix">
+		<description>beatmania 5th MIX (ver JA-A)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="981jaa11" sha1="dc7353fa436d96ae174a58d3a38ca9928a63727f" />
+	</machine>
+	<machine name="bm6thmix">
+		<description>beatmania 6th MIX (ver JA-A)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a21jaa11" sha1="ed0a07212a360e75934fc22c56265842cf0829b6" />
+	</machine>
+	<machine name="bm7thmix">
+		<description>beatmania 7th MIX (ver JA-B)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b07jaa11" sha1="e4925494f0a801abb4d3aa6524c379eb445d8dff" />
+	</machine>
+	<machine name="bm37th">
+		<description>Beatmania III Append 7th Mix</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gcb07jca01" sha1="f906379bdebee314e2ca97c7756259c8c25897fd" />
+		<disk name="gcb07jca02" sha1="6b8e17635825a6a43dc8d2721fe2eb0e0f39e940" />
+	</machine>
+	<machine name="bmclubmx">
+		<description>beatmania Club MIX (ver JA-A)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="993hdda01" sha1="f5d4df1dd27ce6ee2d0897852342691d55b63bfb" />
+	</machine>
+	<machine name="bmcompm2">
+		<description>beatmania complete MIX 2 (ver JA-A)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="988jaa11" sha1="12a0988c631dd3331e54b8417a9659402afe168b" />
+	</machine>
+	<machine name="bmcompmx">
+		<description>beatmania complete MIX (ver JA-B)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="858jaa11" sha1="bc590472046336a1000f29901fe3fd7b29747e47" />
+	</machine>
+	<machine name="bmcorerm">
+		<description>beatmania CORE REMIX (ver JA-A)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a05jaa11" sha1="7ebc41cc3e9a0a922b49201b34e29201522eb726" />
+	</machine>
+	<machine name="bmdct">
+		<description>beatmania featuring Dreams Come True (ver JA-A)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="995jaa11" sha1="8fec3c4d97f64f48b9867230a97cda4347496075" />
+	</machine>
+	<machine name="bmfinal">
+		<description>beatmania THE FINAL (ver JA-A)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c01jaa11" sha1="0a53c4412a72a886f5fb98c12c529d056d625244" />
+	</machine>
+	<machine name="bmiidx2">
+		<description>beatmania IIDX 2nd style (GC985 JAA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gc985a01" sha1="0b783f11317f64552ebf3323459139529e7f315f" />
+		<disk name="gc985a04" sha1="4306417f61eb1ea92894d288cdb7c385eb4610f2" />
+	</machine>
+	<machine name="bmiidx3">
+		<description>beatmania IIDX 3rd style (GC992 JAC)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gc992-jaa01" sha1="7e5389735dff379bb286ba3744edf59b7dfcc74b" status="baddump" />
+		<disk name="gc992-jaa04" sha1="66d0b9ac793ff3fdddd0aa2aa5f2809d0c295944" />
+		<disk name="gc992-jac01" sha1="c02d6e58439be678ec0d7171eae2dfd53a21acc7" />
+	</machine>
+	<machine name="bmiidx4">
+		<description>beatmania IIDX 4th style (GCA03 JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a03jaa01" sha1="f54fc778c2187ccd950402a159babef956b71492" />
+		<disk name="a03jaa02" sha1="d6f01d666e8de285a02215f7ef987073e2b25019" />
+		<disk name="a03jaa03" sha1="a9814c60d2ed98b8c4f6e11ea762518a1712e7b5" />
+	</machine>
+	<machine name="bmiidx5">
+		<description>beatmania IIDX 5th style (GCA17 JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a17jaa01" sha1="5ac46973b42b2c66ae63297d1a7fd69b33ef4d1d" />
+		<disk name="a17jaa02" sha1="cc24a4c3f5e7c77dbeee7db94c0cc8a330e2b51b" />
+	</machine>
+	<machine name="bmiidx6">
+		<description>beatmania IIDX 6th style (GCB4U JAB)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b4ujaa01" sha1="d8f5d56b8728bea761dc4cdbc04851094d276bd6" status="baddump" />
+		<disk name="b4ujaa02" sha1="70c85f6df6f21b96c02e4eefc224593edcaf9e63" />
+		<disk name="b4ujaa03" sha1="cfcbdfab157a864cbd4ac83247be5d62218f5b72" />
+		<disk name="b4ujab01" sha1="aaae77f473c4a44ce6838da3ef6dab27e4afa0e4" />
+	</machine>
+	<machine name="bmiidx7">
+		<description>beatmania IIDX 7th style (GCB44 JAA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b44jaa01" sha1="57fb0312d8102e959658e48a97e46aa16e592b60" />
+		<disk name="b44jaa02" sha1="a45726d99025f4d824ec143ef92957c76c08a13a" />
+		<disk name="b44jaa03" sha1="1adb8e4874e26e8ccd9822e6f9dd12f6e6f8af05" />
+	</machine>
+	<machine name="bmiidx8">
+		<description>beatmania IIDX 8th style (GCC44 JAA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c44jaa01" sha1="8b544c81bc56b19e4aa1649e68824811d6d51ce5" status="baddump" />
+		<disk name="c44jaa02" sha1="f4c454a6360c507a122888d5bc3311eed5ce083b" />
+		<disk name="c44jaa03" sha1="14df5039a4f5a648f1a2d12a35c16f56d0f9cd28" />
+	</machine>
+	<machine name="bmiidx">
+		<description>beatmania IIDX (863 JAB)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="863hdda01" sha1="0b8dbf1c9caf4abf965dbc6e1a8e6329d48b1c90" />
+		<disk name="gq863-jab01" sha1="331f80b40ed560c7e017621b7daeeb8275d92b9a" />
+		<disk name="gq863a01" sha1="07fc467f6500504729becbaf77dabc093a134e65" />
+		<disk name="gq863a04" sha1="25359f0eaff3749a6194a6b9d93f6aec67d94819" />
+	</machine>
+	<machine name="bmiidxc2">
+		<description>beatmania IIDX Substream with DDR 2nd Club Version 2 (984 A01 BM)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="983hdda01" sha1="bcbbf55acf8bebc5773ffc5769420a0129f4da57" />
+		<disk name="ge984a01(bm)" sha1="03b083ba09652dfab6f328000c3c9de2a7a4e618" />
+	</machine>
+	<machine name="bmiidxc">
+		<description>beatmania IIDX with DDR 2nd Club Version (896 JAB)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="863hdda01" sha1="0b8dbf1c9caf4abf965dbc6e1a8e6329d48b1c90" />
+		<disk name="896jaabm" sha1="ea7205f86543d9273efcc226666ab530c32b23c1" />
+		<disk name="896jabbm" sha1="117ae4c876207bbaf9e8fe0fdf5bb161155c1bdb" status="baddump" />
+	</machine>
+	<machine name="bmiidxs">
+		<description>beatmania IIDX Substream (983 JAA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="983hdda01" sha1="bcbbf55acf8bebc5773ffc5769420a0129f4da57" />
+		<disk name="gc983a04" sha1="73454f2acb5a1e6b9e21140eb7b93a4827072d63" />
+	</machine>
+	<machine name="bntyhunt">
+		<description>Bounty Hunter (GCTech Co., LTD)</description>
+		<year>200?</year>
+		<manufacturer>GCTech Co., LTD</manufacturer>
+		<disk name="bntyhunt" sha1="e50937d14d5c6adfb5e0012db5a7df090eebc2e1" />
+	</machine>
+	<machine name="boxingm">
+		<description>Boxing Mania (ver JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a45a02" sha1="9af2481f53de705ae48fad08d8dd26553667c2d0" />
+	</machine>
+	<machine name="btchamp">
+		<description>Beat the Champ (GV053 UAA01)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="btchamp" sha1="c9c858e9034826e1a12c3c003dd068a49a3577e1" status="baddump" />
+	</machine>
+	<machine name="btltryst">
+		<description>Battle Tryst (ver JAC)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="636jac02" sha1="d36556a3a4b91058100924a9e9f1a58983399c6e" />
+	</machine>
+	<machine name="bujutsu">
+		<description>Fighting Bujutsu</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="645c04" sha1="c0aabe69f6eb4e4cf748d606ae50674297af6a04" />
+	</machine>
+	<machine name="c3_rtime">
+		<description>Radio Times (Bellfruit) (Cobra 3)</description>
+		<year>199?</year>
+		<manufacturer>BFM</manufacturer>
+		<disk name="rtimes" sha1="20accfe236a0c85108cd2a205399ed8959f1a638" />
+	</machine>
+	<machine name="c3_telly">
+		<description>Telly Addicts (Bellfruit) (Cobra 3)</description>
+		<year>199?</year>
+		<manufacturer>BFM</manufacturer>
+		<disk name="telly" sha1="6675b8ed6ea47bfb89fbd10a2740e1e0a3faec54" />
+	</machine>
+	<machine name="calchase">
+		<description>California Chase</description>
+		<year>1999</year>
+		<manufacturer>The Game Room</manufacturer>
+		<disk name="calchase" sha1="6ae51a9b3f31cf4166322328a98c0235b0874eb3" status="baddump" />
+	</machine>
+	<machine name="calspeed">
+		<description>California Speed (Version 2.1a, 4/17/98)</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="calspeda" sha1="6b1c3a7530195ef7309b06a651b01c8b3ece92c6" />
+		<disk name="calspeed" sha1="08d411c591d4b8bbdd6437ea80d01c4cec8516f8" />
+	</machine>
+	<machine name="carnevil">
+		<description>CarnEvil (v1.0.3)</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="carnevi1" sha1="94532727512280930a100fe473bf3a938fe2d44f" status="baddump" />
+		<disk name="carnevil" sha1="5cffb0de63ad36eb01c5951bab04d3f8a9e23e16" />
+	</machine>
+	<machine name="carnking">
+		<description>Carnival King (v1.00.11)</description>
+		<year>2002</year>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<disk name="carnival_king_v_1.00.11" sha1="c819af66d36df173ab17bf42f4045c7cca3203d8" />
+	</machine>
+	<machine name="cartfury">
+		<description>Cart Fury</description>
+		<year>2000</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="cartfury" sha1="4c5bc2803297ea9a191bbd8b002d0e46b4ae1563" />
+	</machine>
+	<machine name="ccfboxa">
+		<description>Chihiro Firmware Update For Compact Flash Box (Rev A) (GDX-0024A)</description>
+		<year>2009</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0024a" sha1="79d8c0faeec7cf6882f014760b8af938800b7e52" />
+	</machine>
+	<machine name="cfield">
+		<description>Chaos Field (GDL-0025)</description>
+		<year>2004</year>
+		<manufacturer>Able</manufacturer>
+		<disk name="gdl-0025" sha1="a43ea67bcba2a32fc99dd2739653564f85f700a3" />
+	</machine>
+	<machine name="chaosbrk">
+		<description>Chaos Breaker (v2.02J)</description>
+		<year>2004</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<disk name="chaosbreaker_v2_02j" sha1="8fe7bdc20a8d9e81f08cef60324ed9ac978a16e9" />
+	</machine>
+	<machine name="chaoshea">
+		<description>Chaos Heat (V2.09O)</description>
+		<year>1998</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="chaosheat" sha1="c13b7d7025eee05f1f696d108801c7bafb3f1356" />
+		<disk name="chaosheatj" sha1="2f211ac08675ea8ec33c7659a13951db94eaa627" />
+	</machine>
+	<machine name="chasehq2">
+		<description>Chase H.Q. 2 (v2.0.6.JP)</description>
+		<year>2006</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<disk name="chase_hq_2_v2.0.6.jp" sha1="900620e27c1465dff4ced4b6ae479356c9a785e0" />
+	</machine>
+	<machine name="chocomk">
+		<description>Musapey's Choco Marker (Rev A) (GDL-0014A)</description>
+		<year>2002</year>
+		<manufacturer>Ecole Software</manufacturer>
+		<disk name="gdl-0014a" sha1="5b7d9c091e033cbd1bb27eea7c91d54086449496" />
+	</machine>
+	<machine name="cleoftp">
+		<description>Cleopatra Fortune Plus (GDL-0012)</description>
+		<year>2002</year>
+		<manufacturer>Altron</manufacturer>
+		<disk name="gdl-0012" sha1="aae4c1321fdee37d5405c6cbe648e0596624ed13" status="baddump" />
+	</machine>
+	<machine name="cliffhgr">
+		<description>Cliff Hanger (set 1)</description>
+		<year>1983</year>
+		<manufacturer>Stern Electronics</manufacturer>
+		<disk name="cliffhgr" sha1="4442995c824d7891a2a19c607bb3301d696fbdc8" />
+	</machine>
+	<machine name="cndypuzl">
+		<description>Candy Puzzle (v1.0)</description>
+		<year>1995</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="cndypuzl" sha1="5f41ed3521b3e05d233ac1245b78cb0b118b2b90" status="baddump" />
+	</machine>
+	<machine name="cobra">
+		<description>Cobra Command (Data East LD, set 1)</description>
+		<year>1984</year>
+		<manufacturer>Data East</manufacturer>
+		<disk name="cobra" sha1="8390498294aca97a5d1769032e7b115d1a42f5d3" />
+	</machine>
+	<machine name="code1d">
+		<description>Code One Dispatch (ver D)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="922b02" sha1="4d288b5dcfab3678af662783e7083a358eee99ce" />
+		<disk name="922d02" sha1="01f35e324c9e8567da0f51b3e68fff1562c32116" />
+	</machine>
+	<machine name="comebaby">
+		<description>Come On Baby</description>
+		<year>2000</year>
+		<manufacturer>ExPotato</manufacturer>
+		<disk name="comebaby" sha1="ea57919319c0b6a1d4abd7822cff028855bf082f" />
+	</machine>
+	<machine name="confmiss">
+		<description>Confidential Mission (GDS-0001)</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0001" sha1="ccad52a642dc31ad37df90a1434e468d5386e82f" />
+	</machine>
+	<machine name="cps3boot">
+		<description>CPS3 Multi-game bootleg for HD6417095 type SH2</description>
+		<year>1999</year>
+		<manufacturer>bootleg</manufacturer>
+		<disk name="no-battery_multi-game_bootleg_cd_for_dead_security_cart" sha1="1ede2f1ba197ee787208358a13eae7185a5ae3b2" />
+		<disk name="no-battery_multi-game_bootleg_cd_for_dead_security_cart_older" sha1="4b0b673b45dac94da018576c0a7f8644653fc564" />
+		<disk name="no-battery_multi-game_bootleg_cd_for_hd6417095_sh2_older" sha1="123f2fcb0f3dd3d6b859e82a51d0127e46763776" />
+		<disk name="no-battery_multi-game_bootleg_cd_for_hd6417095_sh2" sha1="6057cc3ec7991c0c00a7ab9da6ac2f92c9fb1aed" />
+		<disk name="sfiii_2nd_impact_converted_for_standard_sh2_older" sha1="8a8e4138c3bf12435933ab9d9ace510513200843" />
+		<disk name="sfiii_2nd_impact_converted_for_standard_sh2_v3" sha1="8f180d159e88042a1e819cefd39eef67f5e86e3d" />
+	</machine>
+	<machine name="cr589fw">
+		<description>CD-ROM Drive Updater 2.0 (700B04)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="700b04" sha1="2f65f62eb7ae202153a8544989675989ed33316f" status="baddump" />
+	</machine>
+	<machine name="cr589fwa">
+		<description>CD-ROM Drive Updater (700A04)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="700a04" sha1="554481f48eeb5daf8b4e7be2d66840d6c8454a52" status="baddump" />
+	</machine>
+	<machine name="crtaxihr">
+		<description>Crazy Taxi High Roller (Rev B) (GDX-0002B)</description>
+		<year>2003</year>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<disk name="gdx-0002b" sha1="e77d31aea9d4bf150e427aecf29b97855c2096f6" />
+	</machine>
+	<machine name="cryptklr">
+		<description>Crypt Killer (GQ420 UAA)</description>
+		<year>1995</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="420uaa04" sha1="67cb1418fc0de2a89fc61847dc9efb9f1bebb347" />
+	</machine>
+	<machine name="csplayh1">
+		<description>Super CD Dai8dan Mahjong Hanafuda Cosplay Tengoku (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Sphinx/AV Japan/Astro System Japan</manufacturer>
+		<disk name="csplayh1" sha1="d6514882c2626e62c5079df9ac68ecb70fc33209" />
+	</machine>
+	<machine name="csplayh5">
+		<description>Mahjong Hanafuda Cosplay Tengoku 5 (Japan)</description>
+		<year>1998</year>
+		<manufacturer>Nichibutsu</manufacturer>
+		<disk name="csplayh5" sha1="ce4883ce1351ce5299e41bfbd9a5ae8078b82b8c" />
+	</machine>
+	<machine name="csplayh7">
+		<description>Cosplay Tengoku 7 - Super Kogal Grandprix (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Nichibutsu/eic</manufacturer>
+		<disk name="csplayh7" sha1="f81e772745b0c62b17d91bd294993e49fe8da4d9" />
+	</machine>
+	<machine name="cubeqst">
+		<description>Cube Quest (01/04/84)</description>
+		<year>1983</year>
+		<manufacturer>Simutrek</manufacturer>
+		<disk name="cubeqst" sha1="d0e24bb5d0ae424e0816110ec7d6b21189044d57" />
+	</machine>
+	<machine name="cvs2gd">
+		<description>Capcom Vs. SNK 2 Millionaire Fighting 2001 (Rev A) (GDL-0007A)</description>
+		<year>2001</year>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<disk name="gdl-0007a" sha1="2c7969edc7ce9af1101d4803b47b321dc05503e8" />
+	</machine>
+	<machine name="cvsgd">
+		<description>Capcom Vs. SNK Millennium Fight 2000 Pro (GDL-0004)</description>
+		<year>2001</year>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<disk name="gdl-0004" sha1="3a9c7c4a97461a354addc645a1c275ae6a17daa7" />
+	</machine>
+	<machine name="darkhleg">
+		<description>Dark Horse Legend (GX706 VER. JAA)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="706jaa02" sha1="10101952fad80b7a10b1299158081bf86ce8cbe6" />
+	</machine>
+	<machine name="ddr2m">
+		<description>Dance Dance Revolution 2nd Mix (GN895 VER. JAA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="885jaa02" sha1="f02bb09f41533c6ec496a662d815e85b304fcc72" />
+		<disk name="885jab01" sha1="c2bbb9e2e6f34e07f57e7076726af81df39f55c9" />
+		<disk name="892jaa01" sha1="46ace0feef48a2a6643c3cb4ac9164ba0beeea94" status="baddump" />
+		<disk name="895jaa02" sha1="cfe3a6f3ed62ba388b07045e29e22472d17dcfe4" status="baddump" />
+		<disk name="896jaa01" sha1="f802a0e2ba0147eb71c54d92af409c3010a5715f" status="baddump" />
+		<disk name="ge984a01(ddr)" sha1="badd15656f2316f81b0a45026b5ef10287d1480b" />
+	</machine>
+	<machine name="ddr3mk">
+		<description>Dance Dance Revolution 3rd Mix - Ver.Korea2 (GN887 VER. KBA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="887aaa02" sha1="6f9a0e9dd046a1fc0c81be9eeb45c136574a4472" />
+		<disk name="887jaa02" sha1="8736818f42822f77e3484ea46a9e63faa7f8517a" />
+		<disk name="887kaa02" sha1="d002f2c98c012d67ad0587553e1d0f45c0ae470e" />
+		<disk name="887kba02" sha1="9f2c6a4e7ad0de44295dc09b9b054afb044238a9" />
+	</machine>
+	<machine name="ddr3mp">
+		<description>Dance Dance Revolution 3rd Mix Plus (G*A22 VER. JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a22jaa02" sha1="dc3c1223882716d47b4f4db45b5dd2e988cba64c" />
+	</machine>
+	<machine name="ddr4m">
+		<description>Dance Dance Revolution 4th Mix (G*A33 VER. AAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a33aaa02" sha1="cc7349cbee37bfb101480497e99f1f52acb4ffa1" status="baddump" />
+		<disk name="a33jaa02" sha1="9d9fb5e65f1532f358e9c273c56d11389d11fd79" status="baddump" />
+	</machine>
+	<machine name="ddr4mp">
+		<description>Dance Dance Revolution 4th Mix Plus (G*A34 VER. JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a34jaa02" sha1="c33e43192ce49845f8901c505f1c7867bc643a0b" />
+	</machine>
+	<machine name="ddr4mps">
+		<description>Dance Dance Revolution 4th Mix Plus Solo (G*A34 VER. JBA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a34jba02" sha1="c33e43192ce49845f8901c505f1c7867bc643a0b" status="baddump" />
+	</machine>
+	<machine name="ddr4ms">
+		<description>Dance Dance Revolution 4th Mix Solo (G*A33 VER. ABA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a33aba02" sha1="cc7349cbee37bfb101480497e99f1f52acb4ffa1" status="baddump" />
+		<disk name="a33jba02" sha1="9d9fb5e65f1532f358e9c273c56d11389d11fd79" status="baddump" />
+	</machine>
+	<machine name="ddr5m">
+		<description>Dance Dance Revolution 5th Mix (G*A27 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a27jaa02" sha1="70465669dfd48abf806cb58b2410ff4f1781f5f1" />
+	</machine>
+	<machine name="ddrextrm">
+		<description>Dance Dance Revolution Extreme (G*C36 VER. JAA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c36jaa02" sha1="edeb45fff0e66151b1ba2fd67542064ccddb031e" status="baddump" />
+	</machine>
+	<machine name="ddrmax2">
+		<description>DDR Max 2 - Dance Dance Revolution 7th Mix (G*B20 VER. JAA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b20jaa02" sha1="ef6579192b86cfea08debe82f54fc4aae5985c92" />
+	</machine>
+	<machine name="ddrmax">
+		<description>DDR Max - Dance Dance Revolution 6th Mix (G*B19 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b19jaa02" sha1="fe8a6731a2163fe7864cd3c4457034768eb98caa" />
+	</machine>
+	<machine name="ddrs2k">
+		<description>Dance Dance Revolution Solo 2000 (GC905 VER. AAA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="905aaa02" sha1="1fc0f3fcc7d5d23711967023ff02c1fc76479024" status="baddump" />
+		<disk name="905jaa02" sha1="a78cf628fb2ba823e1ca35cbd611938273ab82ac" />
+	</machine>
+	<machine name="ddrsbm">
+		<description>Dance Dance Revolution Solo Bass Mix (GQ894 VER. JAA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="894jaa02" sha1="d6872078a87ee00280a627675540676fb8b10f60" />
+	</machine>
+	<machine name="ddrusa">
+		<description>Dance Dance Revolution USA (G*A44 VER. UAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a44uaa02" sha1="2cdbe1c62d16a2be65adb7e11331fce5c8e45504" status="baddump" />
+	</machine>
+	<machine name="deathsm2">
+		<description>Deathsmiles II: Makai no Merry Christmas (2009/10/14 MASTER VER 4.00)</description>
+		<year>2009</year>
+		<manufacturer>Cave</manufacturer>
+		<disk name="cave_ds2_usb" sha1="b601985c7f6e6a20b0b7999167b7ccdd12ab80d0" />
+		<disk name="ds2_4.0" sha1="111c2c7a3b987d47f4b6666a8ba9c5d9552b9653" />
+	</machine>
+	<machine name="dmx2m">
+		<description>Dance Maniax 2nd Mix (G*A39 VER. JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a39jaa02" sha1="3d021448df857c12f6d46a20e14ae0fc6d342dcc" status="baddump" />
+	</machine>
+	<machine name="dmx2majp">
+		<description>Dance Maniax 2nd Mix Append J-Paradise (G*A38 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a38jaa02" sha1="27fbecefb634ce282ca3bf09500c0c9e8155a7ef" />
+	</machine>
+	<machine name="dncfrks">
+		<description>Dance Freaks (G*874 VER. KAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="874jaa" sha1="3338a784efdca4f8bdcc83d2c9a6bbe7f7046d5c" status="baddump" />
+		<disk name="874kaa" sha1="4d1e843417ea96635eeba0cef944e83fdb72565c" status="baddump" />
+	</machine>
+	<machine name="drmn2m">
+		<description>DrumMania 2nd Mix (GE912 VER. JAB)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="912jab02" sha1="19dfae94b63468d3e16d3cc4a3eeae60d5dff1d7" status="baddump" />
+		<disk name="912za01" sha1="033a310006efe164cc6a8276de42a5d555f9fea9" status="baddump" />
+	</machine>
+	<machine name="drmn4m">
+		<description>DrumMania 4th Mix (G*A25 VER. JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a25jaa02" sha1="8a0b761d1c282d927e2daf92519654a1c91ee1ab" status="baddump" />
+		<disk name="a25jba02" sha1="5f4aae359da610352c1004cfa1a32064d8f55d0e" status="baddump" />
+	</machine>
+	<machine name="drmn5m">
+		<description>DrumMania 5th Mix (G*B05 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b05jaa02" sha1="7a6e7940d1441cff1d9be1bc3affc029fe6dc9e4" status="baddump" />
+		<disk name="b05jba02" sha1="822149db553ca78ad8174719a657dbbd2776b922" status="baddump" />
+	</machine>
+	<machine name="drmn6m">
+		<description>DrumMania 6th Mix (G*B16 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b16jaa02" sha1="fa0862a9bd3a48d4f6e7b44b11ad387acc05037e" status="baddump" />
+		<disk name="b16jba02" sha1="07de74a3ca384407d99c433110085208a458653e" status="baddump" />
+	</machine>
+	<machine name="drmn7m">
+		<description>DrumMania 7th Mix power-up ver. (G*C07 VER. JBA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c07jaa02" sha1="96c410745d1fd14059bf11987655ed998a9b79dd" status="baddump" />
+		<disk name="c07jba02" sha1="25e1a3ff7886c409d16e40ca1798b01b11546755" status="baddump" />
+		<disk name="c07jca02" sha1="a81a35360933ab8a7630cf5e8a8c6988714cfa0d" />
+		<disk name="c07jda02" sha1="7c22ebbda11bdaf85c3441d7a6f3497994cd957f" status="baddump" />
+	</machine>
+	<machine name="drmn8m">
+		<description>DrumMania 8th Mix (G*C07 VER. JAA)</description>
+		<year>2003</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c38jaa02" sha1="d19ae541557405a4484145f4237f3c868375c72e" status="baddump" />
+		<disk name="c38jba02" sha1="d963064678978d489474d1ca22c1f249c6f60232" status="baddump" />
+	</machine>
+	<machine name="drmn9m">
+		<description>DrumMania 9th Mix (G*D09 VER. JAA)</description>
+		<year>2003</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="d09jaa02" sha1="33f3e48ed5a8becd8c4714413e454328d8d5baae" status="baddump" />
+	</machine>
+	<machine name="drmn10m">
+		<description>DrumMania 10th Mix (G*D40 VER. JAA)</description>
+		<year>2004</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="d40jaa02" sha1="68b2038f0cd2d461f608945d1e243f2b6979efaa" status="baddump" />
+		<disk name="d40jba02" sha1="0ded9e0a6c77b181e7b6beb1dbdfa17dee4acd90" status="baddump" />
+	</machine>
+	<machine name="drmn">
+		<description>DrumMania (GQ881 VER. JAD)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="881jad01" sha1="7d9d47bef636dbaa8d578f34ea9489e349d3d6df" status="baddump" />
+	</machine>
+	<machine name="dsem2">
+		<description>Dancing Stage Euro Mix 2 (G*C23 VER. EAA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c23eaa02" sha1="46868c97530db5be1b43ffa32744e3e12495c243" status="baddump" />
+	</machine>
+	<machine name="dsem">
+		<description>Dancing Stage Euro Mix (G*936 VER. EAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="936eaa" sha1="7cacc15ae065d47af31f1008374ec8241dba0d55" status="baddump" />
+	</machine>
+	<machine name="dsfdct">
+		<description>Dancing Stage featuring Dreams Come True (GC910 VER. JCA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="910jaa02" sha1="70851c383e3876c4a697a99706fbaae2dafcb0e0" status="baddump" />
+		<disk name="910jca02" sha1="0c868f3c9f696d291e8f27687e3ad83e453a4894" status="baddump" />
+	</machine>
+	<machine name="dsfdr">
+		<description>Dancing Stage Featuring Disney's Rave (GCA37JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a37jaa02" sha1="c6a23b910e884aa0d4afc388dbc8379e0d09611a" status="baddump" />
+	</machine>
+	<machine name="dsftkd">
+		<description>Dancing Stage featuring TRUE KiSS DESTiNATiON (G*884 VER. JAA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="884jaa02" sha1="80f02fcb7ea5b6394a2a58f12b73d87a1826d7f4" status="baddump" />
+	</machine>
+	<machine name="dstage">
+		<description>Dancing Stage - Internet Ranking Ver (GC845 VER. EBA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="845aaa02" sha1="9b786de9b1085009c088de0d40425976c1f8df7b" />
+		<disk name="845jaa02" sha1="37ca16be25bee39a5692dee2fa5f0fa0addfaaca" status="baddump" />
+		<disk name="845jab02" sha1="bac74acaffd9d00e4105e13f32492f5d0fc5a2e1" />
+		<disk name="845jba02" sha1="e4be989f6a655857af8e7336c9a7acf82e51f123" />
+		<disk name="845uaa02" sha1="d3f9290d4dadb5e9b82ebe77abf7b99d1a89f716" status="baddump" />
+		<disk name="gc845eba" sha1="0b7b100ceb37ac30cc1d309e5fe11fde5e1192d0" status="baddump" />
+	</machine>
+	<machine name="dygolf">
+		<description>Dynamic Golf / Virtua Golf (Rev A) (GDS-0009A)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0009a" sha1="ee94d7b7f0b84517a8e1662b477be0be7e04dd1c" />
+	</machine>
+	<machine name="eggsplc">
+		<description>Eggs Playing Chicken</description>
+		<year>2002</year>
+		<manufacturer>The Game Room</manufacturer>
+		<disk name="eggsplc" sha1="fa38dd6b0d25cde644f68cf639768f137c607eb5" />
+	</machine>
+	<machine name="ep_pharo" ismechanical="yes">
+		<description>Pharaoh's Treasure (Maygay) (EPOCH) (set 1)</description>
+		<year>199?</year>
+		<manufacturer>Maygay</manufacturer>
+		<disk name="ep_pharo" sha1="daf56705178bb2b6f3547418a98c361478702aed" />
+	</machine>
+	<machine name="evilngt">
+		<description>Evil Night (ver UBA)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="810eaa02" sha1="d701b900eddc7674015823b2cb33e887bf107fa8" />
+		<disk name="810uba02" sha1="e570470c1cbfe187d5bba8125616412f386264ba" />
+	</machine>
+	<machine name="eztouch">
+		<description>EZ Touch (v116 China)</description>
+		<year>200?</year>
+		<manufacturer>IGS</manufacturer>
+		<disk name="szz_cf" sha1="d02cb1af0f03ce83719870d8a66244dde9795b2e" />
+	</machine>
+	<machine name="fateulc">
+		<description>Fate: Unlimited Codes (FUD1 ver. A)</description>
+		<year>2008</year>
+		<manufacturer>Capcom / Namco</manufacturer>
+		<disk name="fateulcb" sha1="073e67a5219ad53292716093b8c35deb20761c04" />
+		<disk name="fud-hdd0-a" sha1="1189863ae0e339e11708b9660521f86b3b97bc9e" />
+	</machine>
+	<machine name="fbait2bc">
+		<description>Fisherman's Bait 2 - A Bass Challenge (GE865 VER. UAB)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="865jaa02" sha1="b98d9aa54f13aa73bea580d6494cb6a7f3217be3" status="baddump" />
+		<disk name="865uab02" sha1="d14dc066d4c16fba1e9b31d5f042ad249c4b5137" status="baddump" />
+	</machine>
+	<machine name="fbaitbc">
+		<description>Fisherman's Bait - A Bass Challenge (GE765 VER. UAB)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="765jaa02" sha1="dfcf62581e0d0e994945cc2c37ef86827d511628" />
+		<disk name="765uab02" sha1="07b09e763e4b90108aa924b518221b16667a7133" status="baddump" />
+	</machine>
+	<machine name="fbaitmc">
+		<description>Fisherman's Bait - Marlin Challenge (GX889 VER. EA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="889ea" sha1="0b567bf2f03ee8089e0b021ea502a53b3f6fe7ac" status="baddump" />
+	</machine>
+	<machine name="fghtjam">
+		<description>Capcom Fighting Jam (JAM1 Ver. A)</description>
+		<year>2004</year>
+		<manufacturer>Capcom / Namco</manufacturer>
+		<disk name="jam1-dvd0" sha1="c3a5814c2391a0727b7ebf5f52f08ac8b429733f" />
+	</machine>
+	<machine name="fghtmn">
+		<description>Fighting Mania (QG918 VER. EAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="918jab02" sha1="8b8cb806a4e15b4687456a5a4482ea7e1373bbf6" />
+		<disk name="918xxb02" sha1="8ced8952fff3e70ce0621a491f0973af5a6ccd82" status="baddump" />
+	</machine>
+	<machine name="firefox">
+		<description>Fire Fox (set 1)</description>
+		<year>1984</year>
+		<manufacturer>Atari</manufacturer>
+		<disk name="firefox" sha1="3c4be40f55b44d0352b64c0861b6d1b650451ce7" />
+	</machine>
+	<machine name="flipmaze">
+		<description>Flip Maze (V2.04J)</description>
+		<year>1999</year>
+		<manufacturer>MOSS / Taito</manufacturer>
+		<disk name="flipmaze" sha1="423b6c06f4f2d9a608ce20b61a3ac11687d22c40" />
+	</machine>
+	<machine name="fruitpc">
+		<description>Fruit Land</description>
+		<year>2006</year>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
+		<disk name="fruit" sha1="df250ff06a97fa141a4144034f7035ac2947c53c" />
+	</machine>
+	<machine name="fuudol">
+		<description>Fuudol (Japan)</description>
+		<year>2000</year>
+		<manufacturer>Nichibutsu/eic</manufacturer>
+		<disk name="fuudol" sha1="fabab43543ed14da4fe7c63a2a2cc4e68936938a" />
+	</machine>
+	<machine name="fzeroax">
+		<description>F-Zero AX (Rev E) (GDT-0004E)</description>
+		<year>2003</year>
+		<manufacturer>Sega / Amusement Vision / Nintendo</manufacturer>
+		<disk name="gdt-0004c" sha1="f51691a26745afc36110e5d433eb216f108a43d4" />
+		<disk name="gdt-0004e" sha1="9910d321690d8e5c1927a558c23a0b3394061e4d" />
+	</machine>
+	<machine name="gamecstl">
+		<description>GameCristal</description>
+		<year>2002</year>
+		<manufacturer>Cristaltec</manufacturer>
+		<disk name="gamecst2" sha1="14e1b311cb474801c7bdda3164a0c220fb102159" />
+		<disk name="gamecstl" sha1="b431af3c42c48ba07972d77a3d24e60ee1e4359e" />
+	</machine>
+	<machine name="gammagic">
+		<description>Game Magic</description>
+		<year>1999</year>
+		<manufacturer>Bally Gaming Co.</manufacturer>
+		<disk name="99bottles" sha1="0b874178c8dd3cfc451deb53dc7936dc4ad5a04f" />
+		<disk name="gammagic" sha1="caa8fc885d84dbc07fb0604c76cd23c873a65ce6" />
+	</machine>
+	<machine name="gauntdl">
+		<description>Gauntlet Dark Legacy (version DL 2.52)</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="gauntd24" sha1="3e055794d23d62680732e906cfaf9154765de698" />
+		<disk name="gauntdl" sha1="ba3af48171e727c2f7232c06dcf8411cbcf14de8" />
+	</machine>
+	<machine name="gauntleg">
+		<description>Gauntlet Legends (version 1.6)</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="gauntl12" sha1="c8208e3ce3b02a271dc6b089efa98dd996b66ce0" />
+		<disk name="gauntleg" sha1="66eb70e2fba574a7abe54be8bd45310654b24b08" />
+	</machine>
+	<machine name="gdvsgd">
+		<description>Gundam vs. Gundam (GVS1 Ver. A)</description>
+		<year>2008</year>
+		<manufacturer>Capcom / Bandai</manufacturer>
+		<disk name="gvs1dvd0b" sha1="3cf9ade5495982fcb8e106e7be4067429530f864" />
+	</machine>
+	<machine name="gdvsgdnx">
+		<description>Gundam vs. Gundam Next</description>
+		<year>2009</year>
+		<manufacturer>Capcom / Bandai</manufacturer>
+		<disk name="gnx100-1na-a" sha1="a2344f533895793a2e13198c7de0c759f0dbf817" />
+	</machine>
+	<machine name="gekpurya">
+		<description>Gekitou Pro Yakyuu Mizushima Shinji All Stars vs. Pro Yakyuu (Rev C) (GDT-0008C)</description>
+		<year>2003</year>
+		<manufacturer>Sega / Wow Entertainment</manufacturer>
+		<disk name="gdt-0008b" sha1="ecbf8589fc973bf121b53c3c27122a7c6ff22d8d" />
+		<disk name="gdt-0008c" sha1="722e2e2702a2f55b93cdc8b2fac3f920fbc81977" />
+	</machine>
+	<machine name="ggxx">
+		<description>Guilty Gear XX (GDL-0011)</description>
+		<year>2002</year>
+		<manufacturer>Arc System Works</manufacturer>
+		<disk name="gdl-0011" sha1="642177a24a14a1b9afd0aab59a3e0074dfa6e5b8" />
+	</machine>
+	<machine name="ggxxac">
+		<description>Guilty Gear XX Accent Core (GDL-0041)</description>
+		<year>2006</year>
+		<manufacturer>Arc System Works</manufacturer>
+		<disk name="gdl-0041" sha1="a18b75415ef316023665fa9f5d4c95ef2ff27d7b" />
+	</machine>
+	<machine name="ggxxrl">
+		<description>Guilty Gear XX #Reload (Rev A) (GDL-0019A)</description>
+		<year>2003</year>
+		<manufacturer>Arc System Works</manufacturer>
+		<disk name="gdl-0019a" sha1="95b017c2faedf19cabfd1e6cd99a67ac27d76422" />
+		<disk name="gdl-0019" sha1="1915534f366934110e7cd6641bb817f47000150f" />
+	</machine>
+	<machine name="ggxxsla">
+		<description>Guilty Gear XX Slash (Rev A) (GDL-0033A)</description>
+		<year>2005</year>
+		<manufacturer>Arc System Works</manufacturer>
+		<disk name="gdl-0033a" sha1="c2a6b57b11f2528a212e186f9fa2127120aca111" />
+	</machine>
+	<machine name="ghostsev">
+		<description>Ghost Squad Evolution</description>
+		<year>2007</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0029a" sha1="256d9e8a6d61e1bcf65b17b8ed70fbc58796f7b1" />
+	</machine>
+	<machine name="ghostsqu">
+		<description>Ghost Squad (Rev A) (GDX-0012A)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0012a" sha1="d7d78ce4992cb16ee5b4ac6ca7a37c46b07e8c14" status="baddump" />
+		<disk name="gdx-0012" sha1="ad5d08cc3b8cfd0890feb152670b429c28659512" />
+	</machine>
+	<machine name="gobyrc">
+		<description>Go By RC (V2.03O)</description>
+		<year>1999</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="gobyrc" sha1="0bee1f495fc8b033fd56aad9260ae94abb35eb58" />
+		<disk name="rcdego" sha1="9e177f2a3954cfea0c8c5a288e116324d10f5dd1" />
+	</machine>
+	<machine name="goketsuj">
+		<description>Goketsuji Ichizoku: Matsuri Senzo Kuyou (v200906230)</description>
+		<year>2009</year>
+		<manufacturer>Atlus</manufacturer>
+		<disk name="goketsuji_v200906230" sha1="f0733fbb42994208e18c6afe67f1e9746351a3a2" />
+	</machine>
+	<machine name="gtfore02">
+		<description>Golden Tee Fore! 2002 (v2.01.04 UMV)</description>
+		<year>2001</year>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<disk name="golf_fore_2002_v2.00.00" sha1="d789ef86837a5012beb224c487537dd563d93886" />
+		<disk name="golf_fore_2002_v2.01.04_umv" sha1="e902b91bd739daee0b95b10e5cf33700dd63a76b" />
+	</machine>
+	<machine name="gtfore04">
+		<description>Golden Tee Fore! 2004</description>
+		<year>2003</year>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<disk name="gt2004" sha1="739a52d6ce13bb6ac7a543ee0e8086fb66be19b9" />
+	</machine>
+	<machine name="gtfore05">
+		<description>Golden Tee Fore! 2005</description>
+		<year>2004</year>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<disk name="gt2005" sha1="d8de569d8cf97b5aaada10ce896eb3c75f1b37f1" />
+	</machine>
+	<machine name="gtfrk10m">
+		<description>Guitar Freaks 10th Mix (G*D10 VER. JAB)</description>
+		<year>2003</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="d10jaa02" sha1="d4e4460ca3edc1b365af593757557c6cf5b7b3ec" status="baddump" />
+		<disk name="d10jab01" sha1="c84858b412f0798a65cf3059c743501f32ad7280" status="baddump" />
+		<disk name="d10jba02" sha1="80893da422268cc1f89688289cdec981c4f9feb2" status="baddump" />
+	</machine>
+	<machine name="gtfrk11m">
+		<description>Guitar Freaks 11th Mix (G*D39 VER. JAA)</description>
+		<year>2004</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="d39jaa02" sha1="7a87ee331ba0301bb8724c398e6c77cfb9c172a7" status="baddump" />
+	</machine>
+	<machine name="gticlub2">
+		<description>GTI Club 2 (ver JAB)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="941b02" sha1="943bc9b1ea7273a8382b94c8a75010dfe296df14" />
+	</machine>
+	<machine name="gtrfrk2m">
+		<description>Guitar Freaks 2nd Mix Ver 1.01 (GQ883 VER. JAD)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="929jbb02" sha1="4f6bb0150ad6ed574dd7583ccd60604028663b2a" status="baddump" />
+	</machine>
+	<machine name="gtrfrk3m">
+		<description>Guitar Freaks 3rd Mix (GE949 VER. JAC)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="949jab02" sha1="ad629c9bafbdc4bf6c679918a5fae2bcfdb39332" status="baddump" />
+		<disk name="949jac01" sha1="ff017dd5c0ecbdb8935d0d4656a45e9fab10ef82" status="baddump" />
+		<disk name="949jaz02" sha1="b0c786ba420a34fcbd16bc36a137f6ae87b7dfa8" status="baddump" />
+	</machine>
+	<machine name="gtrfrk4m">
+		<description>Guitar Freaks 4th Mix (G*A24 VER. JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a24jaa02" sha1="bc0303f5a6a19484cd35890cc9934ee0bcabb2ad" status="baddump" />
+	</machine>
+	<machine name="gtrfrk5m">
+		<description>Guitar Freaks 5th Mix (G*A26 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a26jaa02" sha1="9909e08abff780db6fd7a5fbcc57ffbe14ae08ce" status="baddump" />
+	</machine>
+	<machine name="gtrfrk6m">
+		<description>Guitar Freaks 6th Mix (G*B06 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b06jaa02" sha1="2ea53ef492da63183a28c54afde07fce323fe42e" status="baddump" />
+	</machine>
+	<machine name="gtrfrk7m">
+		<description>Guitar Freaks 7th Mix (G*B17 VER. JAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b17jaa02" sha1="daf23982abbab882882f89b3a9d985df36252cae" />
+	</machine>
+	<machine name="gtrfrk8m">
+		<description>Guitar Freaks 8th Mix power-up ver. (G*C08 VER. JBA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c08jaa02" sha1="7a1d97f74ec4d643ff7d3981d66b551cbf9e57f0" status="baddump" />
+		<disk name="c08jba02" sha1="8e352ed8ade581b7c9bb579fc56003ea1831202c" status="baddump" />
+	</machine>
+	<machine name="gtrfrk9m">
+		<description>Guitar Freaks 9th Mix (G*C39 VER. JAA)</description>
+		<year>2003</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c39jaa02" sha1="d0696b29976a6bc01c3a1fefe09dbee721ff3ffb" status="baddump" />
+	</machine>
+	<machine name="gtrfrks">
+		<description>Guitar Freaks (GQ886 VER. EAC)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="886__c02" sha1="80293512c4b914ef98acb1bbc7e3a2ed944a0dad" status="baddump" />
+	</machine>
+	<machine name="gundamos">
+		<description>Gundam Battle Operating Simulator (GDX-0013)</description>
+		<year>2005</year>
+		<manufacturer>Banpresto</manufacturer>
+		<disk name="gdx-0013" sha1="96b3dafcc2d2d6803fe3bf43a245d43ee5e0e5a6" status="baddump" />
+	</machine>
+	<machine name="gundmgd">
+		<description>Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001)</description>
+		<year>2001</year>
+		<manufacturer>Capcom / Banpresto</manufacturer>
+		<disk name="gdl-0001" sha1="0430b7c8e6cc82998ded511bc52a9fb2a10002cd" />
+	</machine>
+	<machine name="gundmxgd">
+		<description>Mobile Suit Gundam: Federation Vs. Zeon DX  (GDL-0006)</description>
+		<year>2001</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="gdl-0006" sha1="4f3e37363a8533995a4579137c7ea01252f8faca" />
+	</machine>
+	<machine name="gundzaft">
+		<description>Gundam Seed: Federation vs. Z.A.F.T. (SED1 Ver. A)</description>
+		<year>2005</year>
+		<manufacturer>Capcom / Banpresto</manufacturer>
+		<disk name="sed1dvd0" sha1="0e6db61d94f66a4ddd7d4a3013983a838d256c5d" />
+	</machine>
+	<machine name="gvrxpsup">
+		<description>Global VR XP OS Update/Install - 06/11/02</description>
+		<year>2002</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="vr_xp_system_6-11-2002" sha1="c2b586a0106632bcaddc1df8077ee9c226537d2b" />
+	</machine>
+	<machine name="gvrxpsys">
+		<description>Global VR XP OS Install - 09/30/01</description>
+		<year>2001</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="globalvr_xp_system" sha1="83a784fe038acbd651544b3fa3b17ceb11bbeeab" />
+	</machine>
+	<machine name="gwinggen">
+		<description>Giga Wing Generations (v2.02J)</description>
+		<year>2004</year>
+		<manufacturer>Takumi Corporation</manufacturer>
+		<disk name="gigawing_v2_02j" sha1="e09a2e5019111765689cb205cc94e7868c55e9ca" />
+	</machine>
+	<machine name="haremchl">
+		<description>Harem Challenge</description>
+		<year>1995</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="haremchl" sha1="abbab347c0d7c5eef0465d0eee770754a452e874" status="baddump" />
+	</machine>
+	<machine name="heatof11">
+		<description>Heat of Eleven '98 (ver EAA)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="heatof11" sha1="5a0a2782cd8676d3f6dfad4e0f805b309e230d8b" status="baddump" />
+	</machine>
+	<machine name="homura">
+		<description>Homura (v2.04J)</description>
+		<year>2005</year>
+		<manufacturer>SKonec Entertainment</manufacturer>
+		<disk name="homura_v2_04jpn" sha1="0d9d24583fa786b82bf27447408111bd4686033e" />
+	</machine>
+	<machine name="hostinv">
+		<description>Host Invaders</description>
+		<year>1998</year>
+		<manufacturer>The Game Room</manufacturer>
+		<disk name="hostinv" sha1="3cb86c62e80be98a717172b717f7276a0e5f6830" />
+	</machine>
+	<machine name="hotd3">
+		<description>The House of the Dead III (GDX-0001)</description>
+		<year>2002</year>
+		<manufacturer>Sega / Wow Entertainment</manufacturer>
+		<disk name="gdx-0001" sha1="174c72f851d0c97e8993227467f16b0781ed2f5c" status="baddump" />
+	</machine>
+	<machine name="hotd4">
+		<description>House of the Dead 4 (Export)</description>
+		<year>2005</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0003a" sha1="46544e28735f55418dd78bd19446093874438264" />
+	</machine>
+	<machine name="hotgmkmp">
+		<description>Taisen Hot Gimmick Mix Party</description>
+		<year>2005</year>
+		<manufacturer>XNauts</manufacturer>
+		<disk name="wdc wd400eb-11cpf0" sha1="15f8cf77b5bdc516a891022462a42521be1d7553" />
+	</machine>
+	<machine name="hydrthnd">
+		<description>Hydro Thunder</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="hydro" sha1="d481d178782943c066b41764628a419cd55f676d" />
+	</machine>
+	<machine name="hypbbc2p">
+		<description>Hyper Bishi Bashi Champ - 2 Player (GX908 1999/08/24 VER. JAA)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="908a02" sha1="573194ca9938c30415fc88dcc0c0152dd3024d71" status="baddump" />
+	</machine>
+	<machine name="hyperath">
+		<description>Hyper Athlete (GV021 Japan 1.00)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gv021-j1" sha1="579442444025b18da658cd6455c51459fbc3de0e" />
+	</machine>
+	<machine name="hyperv2a">
+		<description>Hyper V2 (Global VR) Install - 09/30/01</description>
+		<year>2001</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="hyperv2_pqi_9-30-01" sha1="7a8c201a83a45609d0242a20441891f5204d7dd1" />
+	</machine>
+	<machine name="hyperv2">
+		<description>Hyper V2 (Global VR) Install - 06/12/02</description>
+		<year>2002</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="hyperv2_pqi_6-12-02" sha1="44473f2950c0e108acb0961579a46f4765e379f7" />
+	</machine>
+	<machine name="hyprdriv">
+		<description>Hyperdrive</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="hyprdriv" sha1="8cfa343797575b32f46cc24150024be48963a03e" />
+	</machine>
+	<machine name="ikaruga">
+		<description>Ikaruga (GDL-0010)</description>
+		<year>2001</year>
+		<manufacturer>Treasure</manufacturer>
+		<disk name="gdl-0010" sha1="58a592ba217847808940608548a1bfdf0ae9e713" />
+	</machine>
+	<machine name="inidv3cy">
+		<description>Initial D Arcade Stage Ver. 3 Cycraft Edition (Rev. B) (GDS-0039B)</description>
+		<year>2006</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0039b" sha1="b5eaae06ee3c81d57c0190bd709c690372a4cca6" />
+	</machine>
+	<machine name="initd">
+		<description>Initial D Arcade Stage (Rev B) (Japan) (GDS-0020B)</description>
+		<year>2002</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0020b" sha1="c0e901623ef4fcd97b7e4d29ae556e6f2e91b8ad" status="baddump" />
+		<disk name="gds-0020" sha1="e1766340da8191ab51a67477876d1806f2153a7e" />
+	</machine>
+	<machine name="initdexp">
+		<description>Initial D Arcade Stage (Export) (Rev A) (GDS-0025A)</description>
+		<year>2002</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0025a" sha1="d6ec4295122e3d69b9e109778ab1cb0cb0dfc839" />
+		<disk name="gds-0025" sha1="00f4c62a16862e814798df9fa6ed0471745760b7" />
+	</machine>
+	<machine name="initdv2j">
+		<description>Initial D Arcade Stage Ver. 2 (Japan) (Rev. B) (GDS-0026B)</description>
+		<year>2002</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0026b" sha1="54cc643e1f850cfaea7d39f6778b662125cba111" />
+		<disk name="gds-0026" sha1="253acede106b7fbf49e24458e7fda868720e9549" status="baddump" />
+		<disk name="gds-0027" sha1="44746f0ceb1a3bbcd1db11a35c78c93a030f02de" status="baddump" />
+	</machine>
+	<machine name="initdv3e">
+		<description>Initial D Arcade Stage Ver. 3 (Export) (GDS-0033)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0033" sha1="98fb1bd119fc33ef14fcaba3eb2347836469a75b" />
+	</machine>
+	<machine name="initdv3j">
+		<description>Initial D Arcade Stage Ver. 3 (Japan) (Rev. C) (GDS-0032C)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0032b" sha1="568411aa72ca308a03a6b5b61c79833464b88bc6" status="baddump" />
+		<disk name="gds-0032c" sha1="d92bca7c8a7920c99b23710f5bdbeed1fbec12d2" />
+	</machine>
+	<machine name="initiad4">
+		<description>Initial D4 (Rev D)</description>
+		<year>2007</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0030c" sha1="b1919f28539afec4c4bc52357e5210a090b5ae32" />
+		<disk name="dvp-0030d" sha1="e43e6d22fab4eceb81db8309e4634e049d9c41e6" />
+	</machine>
+	<machine name="jdredd">
+		<description>Judge Dredd (Rev C Dec. 17 1997)</description>
+		<year>1996</year>
+		<manufacturer>Acclaim</manufacturer>
+		<disk name="jdreddb" sha1="20f696fa6e1fbf97793bac2a794631c5dd4fb39a" />
+		<disk name="jdreddc" sha1="eee205f83e5f590f8baf36452c873d7063156bd0" />
+	</machine>
+	<machine name="jingystm">
+		<description>Jingi Storm - The Arcade (GDL-0037)</description>
+		<year>2006</year>
+		<manufacturer>Atrativa Japan</manufacturer>
+		<disk name="gdl-0037" sha1="99ffe2987e3002b3871daf276d2be45f2e9c6e74" status="baddump" />
+	</machine>
+	<machine name="jnero">
+		<description>Johnny Nero Action Hero</description>
+		<year>2004</year>
+		<manufacturer>ICE/Play Mechanix</manufacturer>
+		<disk name="jn010108" sha1="4f3e9c6349c9be59213df1236dba7d79e7cd704e" />
+	</machine>
+	<machine name="jojo">
+		<description>JoJo's Venture (USA 990128)</description>
+		<year>1998</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="cap-jjk000" sha1="09869f6d8c032b527e02d815749dc8fab1289e86" status="baddump" />
+		<disk name="cap-jjk-2" sha1="0f5c09171409213e191a607ee89ca3a91fe9c96a" status="baddump" />
+		<disk name="cap-jjk-3" sha1="dc6e74b5e02e13f62cb8c4e234dd6061501e49c1" />
+	</machine>
+	<machine name="jojoba">
+		<description>JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)</description>
+		<year>1999</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="cap-jjm-0" sha1="0678a0baeb853dcff1d230c14f0873cc9f143d7b" status="baddump" />
+		<disk name="cap-jjm-1" sha1="8628d3fa555fbd5f4121082e925c1834b76c5e65" />
+	</machine>
+	<machine name="jpark3">
+		<description>Jurassic Park 3 (ver EBC)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b41c02" sha1="fb6b0b43a6f818041d644bcd711f6a727348d3aa" />
+	</machine>
+	<machine name="junai2">
+		<description>Junai 2 - White Love Story (Japan)</description>
+		<year>1998</year>
+		<manufacturer>Nichibutsu/eic</manufacturer>
+		<disk name="junai2" sha1="dc9633a101f20f03fd9b4414c10274d2539fb7c2" />
+	</machine>
+	<machine name="junai">
+		<description>Junai - Manatsu no First Kiss (Japan)</description>
+		<year>1998</year>
+		<manufacturer>Nichibutsu/eic</manufacturer>
+		<disk name="junai" sha1="0491533e0ce3e4d2af608ea0b9d9646316b512bd" />
+	</machine>
+	<machine name="karous">
+		<description>Karous (GDL-0040)</description>
+		<year>2006</year>
+		<manufacturer>Milestone</manufacturer>
+		<disk name="gdl-0040" sha1="16db8962307a7259e4a5321be7e3b76ac391b539" />
+	</machine>
+	<machine name="kbm2nd">
+		<description>Keyboardmania 2nd Mix</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a01jaa01" sha1="37bc3879719b3d3c6bc8a5691abd7aa4aec87d45" status="baddump" />
+		<disk name="a01jaa02" sha1="a3fdeee0f85a7a9718c0fb1cc642ac22d3eff8db" status="baddump" />
+	</machine>
+	<machine name="kbm3rd">
+		<description>Keyboardmania 3rd Mix</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a12jaa01" sha1="ea30bf1273bce772f09063bfc8a74df360c743a7" />
+		<disk name="a12jaa02" sha1="6bf7adbd637a0ce0c19b57187d3e46fabea99363" />
+	</machine>
+	<machine name="kbm">
+		<description>Keyboardmania</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="974jaa02" sha1="3b9946083239eb5687f66a49df24568bffa4fbbd" status="baddump" />
+		<disk name="974jac01" sha1="c6145d7090e44c87f71ba626620d2ae2596a75ca" status="baddump" />
+	</machine>
+	<machine name="kdeadeye">
+		<description>Dead Eye (GV054 UAA01)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="kdeadeye" sha1="3c737c51717925be724dcb93d30769649029b8ce" status="baddump" />
+	</machine>
+	<machine name="keyboard">
+		<description>La Keyboard (GDS-0017)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0017" sha1="fb86eff3ef38de7fd78cfde897d5332d2092c172" status="baddump" />
+	</machine>
+	<machine name="kinniku2">
+		<description>Kinnikuman Muscle Grand Prix 2 (KN2 Ver. A)</description>
+		<year>2007</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="kn2" sha1="3e1b773cc584911b673d46f9296a5b1a2cef9a45" />
+	</machine>
+	<machine name="kinniku">
+		<description>Kinnikuman Muscle Grand Prix (KN1 Ver. A)</description>
+		<year>2006</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="kn1-b" sha1="2f0f9ebe74cdafe3713890221532b4d1dc18c74f" />
+	</machine>
+	<machine name="kinst2">
+		<description>Killer Instinct 2 (v1.4)</description>
+		<year>1995</year>
+		<manufacturer>Rare</manufacturer>
+		<disk name="kinst2" sha1="e7c9291b4648eae0012ea0cc230731ed4987d1d5" />
+	</machine>
+	<machine name="kinst">
+		<description>Killer Instinct (v1.5d)</description>
+		<year>1994</year>
+		<manufacturer>Rare</manufacturer>
+		<disk name="kinst" sha1="81d833236e994528d1482979261401b198d1ca53" />
+	</machine>
+	<machine name="kof98um">
+		<description>The King of Fighters '98: Ultimate Match (v1.00)</description>
+		<year>2008</year>
+		<manufacturer>SNK</manufacturer>
+		<disk name="kof98um_v1_00" sha1="cf21747ddcdf802d766a2bd6a3d75a965e89b2cf" />
+	</machine>
+	<machine name="kokoroj2">
+		<description>Kokoroji 2</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="cdp-00146" sha1="0b37e0ea2380ecd9abef2ccd6a8096d76d2ba344" />
+	</machine>
+	<machine name="kollon">
+		<description>Kollon (V2.04J)</description>
+		<year>2003</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="kollon" sha1="d8ea5b5b0ee99004b16ef89883e23de6c7ddd7ce" />
+		<disk name="kollonc" sha1="ce62181659701cfb8f7c564870ab902be4d8e060" />
+	</machine>
+	<machine name="konam80s">
+		<description>Konami 80's AC Special (GC826 VER. EAA)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="826eaa01" sha1="be5f8b31fd18ba631fe98c2132c56abf20193419" status="baddump" />
+	</machine>
+	<machine name="kurucham">
+		<description>Kurukuru Chameleon (GDL-0034)</description>
+		<year>2006</year>
+		<manufacturer>Able</manufacturer>
+		<disk name="gdl-0034" sha1="48a7d20811a6658d749c495db8aa802d1172a8db" />
+	</machine>
+	<machine name="lacrazyc">
+		<description>Let's Attack Crazy Cross (GV027 Asia 1.10)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gv027-a1" sha1="840d0d4876cf1b814c9d8db975aa6c92e1fe4039" status="baddump" />
+		<disk name="gv027j1" sha1="e7e6749ac65de7771eb8fed7d5eefaec3f902255" status="baddump" />
+	</machine>
+	<machine name="landhigh">
+		<description>Landing High Japan</description>
+		<year>1999</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="landhigh" sha1="7cea4ea5c3899e6ac774a4eb12821f44541d9c9c" />
+	</machine>
+	<machine name="lasstixx">
+		<description>Laser Strixx 2</description>
+		<year>1995</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="lasstixx" sha1="b8f6138e1f1840c193e786c56dab03c512f3e21f" status="baddump" />
+	</machine>
+	<machine name="lbvbiosu">
+		<description>VBios updater</description>
+		<year>200?</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0021b" sha1="362ac028ba19ba4762678953a033034a5ee8ad53" />
+	</machine>
+	<machine name="lindbios" isbios="yes">
+		<description>Sega Lindbergh Bios</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="mda-c0004a_revb_lindyellow_v2.4.20_mvl31a_boot_2.01" sha1="e13da5f827df852e742b594729ee3f933b387410" />
+	</machine>
+	<machine name="lsrquiz2">
+		<description>Laser Quiz 2 Italy (v1.0)</description>
+		<year>1995</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="lsrquiz2" sha1="78e261df1c548fa492e6cf37a9469640bb8816bf" status="baddump" />
+	</machine>
+	<machine name="lsrquiz">
+		<description>Laser Quiz Italy</description>
+		<year>1995</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="lsrquiz" sha1="41fb6cd0c9d36bd77e9c3db69d36801edc791e96" status="baddump" />
+	</machine>
+	<machine name="lupinsho">
+		<description>Lupin The Third - The Shooting (GDS-0018)</description>
+		<year>2001</year>
+		<manufacturer>Sega / Eighting</manufacturer>
+		<disk name="gds-0018" sha1="0633a99a666f363ab30450a76b9753685d6b1f57" status="baddump" />
+	</machine>
+	<machine name="luptype">
+		<description>Lupin The Third - The Typing (Rev A) (GDS-0021A)</description>
+		<year>2002</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0021a" sha1="15c6f9434494a31693cbb8e33da36e0e8a8f7c62" status="baddump" />
+	</machine>
+	<machine name="mace">
+		<description>Mace: The Dark Age (boot ROM 1.0ce, HDD 1.0b)</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="mace" sha1="96ec8d3ff5dd894e21aa81403bcdbeba44bb97ea" />
+		<disk name="macea" sha1="9bd4a60627915d71932cab24f89c48ea21f4c1cb" status="baddump" />
+	</machine>
+	<machine name="mach3">
+		<description>M.A.C.H. 3</description>
+		<year>1983</year>
+		<manufacturer>Mylstar</manufacturer>
+		<disk name="mach3" sha1="d0f72bded7feff5c360f8749d6c27650a6964847" />
+	</machine>
+	<machine name="mahjngoh">
+		<description>Mahjong Oh (V2.06J)</description>
+		<year>1999</year>
+		<manufacturer>Warashi / Mahjong Kobo / Taito</manufacturer>
+		<disk name="mahjngoh" sha1="3ef1110d15582d7c0187438d7ad61765dd121cff" />
+	</machine>
+	<machine name="mamboagg">
+		<description>Mambo A Go-Go (GQA40 VER. JAB)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a40jab02" sha1="2e4ed217a7e9f7c79abc9a1798556cc3649db30e" />
+	</machine>
+	<machine name="maxforce">
+		<description>Maximum Force v1.05</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="maxforce" sha1="d54e7a8f3866bb2a1d28ae637e7c92ffa4dbe558" />
+	</machine>
+	<machine name="meltyb">
+		<description>Melty Blood Act Cadenza Version B (GDL-0039)</description>
+		<year>2006</year>
+		<manufacturer>Ecole Software</manufacturer>
+		<disk name="gdl-0039a" sha1="5a405492fbb77f7b7ba1ba14f0e19e19fcce571e" />
+		<disk name="gdl-0039" sha1="f78ba3b0c6c75fc5a1447a1e6cb13168974c5416" />
+	</machine>
+	<machine name="meltybld">
+		<description>Melty Blood Act Cadenza Ver. A (GDL-0028C)</description>
+		<year>2005</year>
+		<manufacturer>Ecole Software</manufacturer>
+		<disk name="gdl-0028c" sha1="9759abdb822b5bff8ad064ebf3a79417c128d377" />
+		<disk name="gdl-0028" sha1="203eb63166cc71d734288ea58799425c7feb07cc" />
+	</machine>
+	<machine name="mfightc">
+		<description>Mahjong Fight Club (ver JAD)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c09c04" sha1="bf5f7447d74399d34edd4eb6dfcca7f6fc2154f2" />
+		<disk name="c09d04" sha1="7395b7a33e953f65827aea44461e49f8388464fb" />
+	</machine>
+	<machine name="mgnumber">
+		<description>Magic Number</description>
+		<year>1995</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="magicnumber" sha1="60e1fadc42694742d19cc0ac2b6e99e9e33faa3d" status="baddump" />
+	</machine>
+	<machine name="mgprem11">
+		<description>Magic Premium (v1.1)</description>
+		<year>1996</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="mgprem11" sha1="7808db33d5949f6c86d12b32bc388c12377e7038" status="baddump" />
+	</machine>
+	<machine name="mj2">
+		<description>Sega Network Taisen Mahjong MJ 2 (Rev G) (GDX-0006G)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0006c" sha1="505653117a73ed8b256ccf19450e7573a4dc57e9" status="baddump" />
+		<disk name="gdx-0006f" sha1="d3900ca5135f9001e642c78b4d323d353880b41b" />
+		<disk name="gdx-0006g" sha1="e306837d5c093fdf1e9ff02239a8563535b1c181" />
+	</machine>
+	<machine name="mj3">
+		<description>Sega Network Taisen Mahjong MJ 3 (Rev F) (GDX-0017F)</description>
+		<year>2005</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0017d" sha1="cfbbd452c8f4efe0e99f398f5521fc3574b913bb" status="baddump" />
+		<disk name="gdx-0017f" sha1="8641be9b2e1d8eb33cf27d3444956c0117debc2f" />
+	</machine>
+	<machine name="mjmania">
+		<description>Mahjong Mania - Kairakukan e Youkoso (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Sphinx/Just&amp;Just</manufacturer>
+		<disk name="mjmania" sha1="7117f2045fd04a3d8f8e06a6a98e8f585c4da301" />
+	</machine>
+	<machine name="mocapb">
+		<description>Mocap Boxing (ver AAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a29a02" sha1="00afad399737652b3e17257c70a19f62e37f3c97" />
+		<disk name="a29b02" sha1="f0c04310caf2cca804fde20805eb30a44c5a6796" />
+	</machine>
+	<machine name="mocapglf">
+		<description>Mocap Golf (ver UAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b33a02" sha1="819d8fac5d2411542c1b989105cffe38a5545fc2" />
+	</machine>
+	<machine name="moeru">
+		<description>Moeru Casinyo (GDL-0013)</description>
+		<year>2002</year>
+		<manufacturer>Altron</manufacturer>
+		<disk name="gdl-0013" sha1="c8869069c28bc8eec96d820886bc388d69d46143" status="baddump" />
+	</machine>
+	<machine name="mok">
+		<description>The Maze of the Kings (GDS-0022)</description>
+		<year>2002</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0022" sha1="ddd6bf6a93f44f04199b278149ded19b26cdcab4" />
+	</machine>
+	<machine name="monkeyba">
+		<description>Monkey Ball (GDS-0008)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0008" sha1="2fadcd141bdbde77b2b335b270959a516af44d99" status="baddump" />
+	</machine>
+	<machine name="mrtlbeat">
+		<description>Martial Beat (G*B47 VER. JBA)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b47jxb02" sha1="6bbe8d6169ef692bd8995da564bd5a97b6bf0b31" />
+	</machine>
+	<machine name="mwskins">
+		<description>Skins Game (1.06)</description>
+		<year>2000</year>
+		<manufacturer>Midway</manufacturer>
+		<disk name="mwskins104" sha1="6917f66718999c144c854795c5856bf5659b85fa" />
+		<disk name="mwskins" sha1="5cb293a6fdb2478293f48ddfc93cdd018acb2bb5" />
+		<disk name="mwskinsa" sha1="72497917b31156eb11a46bbcc6f22a254dcec044" />
+	</machine>
+	<machine name="nagano98">
+		<description>Nagano Winter Olympics '98 (GX720 EAA)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="720jaa01" sha1="437160996551ef4dfca43899d1d14beca62eb4c9" />
+		<disk name="nagano98" sha1="1be7bd4531f249ff2233dd40a206c8d60054a8c6" status="baddump" />
+	</machine>
+	<machine name="nbanfl">
+		<description>NBA Showtime / NFL Blitz 2000</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="nbanfl" sha1="f60c627f85f1bf58f2ea674063736a1e516e7e9e" />
+	</machine>
+	<machine name="nbashowt">
+		<description>NBA Showtime: NBA on NBC</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="nbashowt" sha1="f7c56bc3dcbebc434de58034986179ae01127f87" />
+	</machine>
+	<machine name="ndcfboxa">
+		<description>Naomi DIMM Firmware Update for CF-BOX (Rev A) (GDS-0042A)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0042a" sha1="a6f9d402c9f57fc8a5378090e6ff7d2d58810454" />
+	</machine>
+	<machine name="netchu02">
+		<description>Netchuu Pro Yakyuu 2002 (NPY1 Ver. A)</description>
+		<year>2002</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="npy1cd0b" sha1="514adcd2d4205873b3d144a05c033822344798e3" />
+	</machine>
+	<machine name="nfsug">
+		<description>Need For Speed: Underground Install (2 Discs) (v1.1)</description>
+		<year>2005</year>
+		<manufacturer>Global VR</manufacturer>
+		<disk name="nfsug1_1-disc1" sha1="25a9f0606ac3909bd7c4f3f3a59c6782e3c84712" />
+		<disk name="nfsug1_1-disc2" sha1="5b0be45eb3fcd27ba513baca1da633f9e9a4c5ef" />
+	</machine>
+	<machine name="ngdup23a">
+		<description>Naomi DIMM Firmware Updater (Rev A) (GDS-0023A)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0023a" sha1="cfd49a1f56e4ddd198f2237a87d412d48c1251e1" />
+	</machine>
+	<machine name="ngdup23c">
+		<description>Naomi DIMM Firmware Updater (Rev C) (GDS-0023C)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0023c" sha1="a2885169cb5bedbf2352e9f34947e40a8ec93552" />
+	</machine>
+	<machine name="ngdup23e">
+		<description>Naomi DIMM Firmware Updater (Rev E) (GDS-0023E)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0023e" sha1="ec5d6dea6ca7b0e461f4d4571ece40cb755b9249" />
+	</machine>
+	<machine name="nightrai">
+		<description>Night Raid (V2.03J)</description>
+		<year>2001</year>
+		<manufacturer>Takumi</manufacturer>
+		<disk name="nightrai" sha1="74d0458f851cbcf10453c5cc4c47bb4388244cdf" />
+	</machine>
+	<machine name="odeontw2">
+		<description>Odeon Twister 2 (v202.19)</description>
+		<year>1999</year>
+		<manufacturer>CD Express</manufacturer>
+		<disk name="odeontw2" sha1="f39e09f35b65a6ae9f1eba4a22f970626b7d3b71" status="baddump" />
+	</machine>
+	<machine name="offrthnd">
+		<description>Offroad Thunder</description>
+		<year>2000</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="offrthnd" sha1="d88f1c5b75361a1e310565a8a5a09c674a4a1a22" />
+	</machine>
+	<machine name="ollie">
+		<description>Ollie King (GDX-0007)</description>
+		<year>2004</year>
+		<manufacturer>Sega / Amusement Vision</manufacturer>
+		<disk name="gdx-0007" sha1="8898a571a427936bffcecd3ef27cb79087d22798" status="baddump" />
+	</machine>
+	<machine name="orbatak">
+		<description>Orbatak (prototype)</description>
+		<year>199?</year>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
+		<disk name="orbatak" sha1="25cb3b889cf09dbe5faf2b0ca4aae5e03453da00" />
+	</machine>
+	<machine name="otenamhf">
+		<description>Otenami Haiken Final (V2.07JC)</description>
+		<year>2005</year>
+		<manufacturer>Success / Warashi</manufacturer>
+		<disk name="otenamhf" sha1="5b15c33bf401e5546d78e905f538513d6ffcf562" />
+	</machine>
+	<machine name="otenamih">
+		<description>Otenami Haiken (V2.04J)</description>
+		<year>1999</year>
+		<manufacturer>Success</manufacturer>
+		<disk name="otenamih" sha1="b3babe3a1876c43745616ee1e7d87276ce7dad0b" />
+	</machine>
+	<machine name="otenki">
+		<description>Otenki Kororin (V2.01J)</description>
+		<year>2001</year>
+		<manufacturer>Takumi</manufacturer>
+		<disk name="otenki" sha1="7e745ca4c4570215f452fd09cdd56a42c39caeba" />
+	</machine>
+	<machine name="outr2st">
+		<description>Out Run 2 Special Tours (Rev A) (GDX-0014A)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0014a" sha1="4f9656634c47631f63eab554a13d19b15558217e" status="baddump" />
+	</machine>
+	<machine name="outr2">
+		<description>Out Run 2 (Rev A) (GDX-0004A)</description>
+		<year>2003</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0004a" sha1="055a13a5dc4f54e6b6bdf5ce29dbda14cc9741d7" />
+	</machine>
+	<machine name="p911">
+		<description>Police 911 (ver UAD)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a00eaa02" sha1="81565a2dce2e2b0a7927078a784354948af1f87c" />
+		<disk name="a00jac02" sha1="d962d3a8ea84c380767d0fe336296911c289c224" />
+		<disk name="a00kac02" sha1="b268789416dbf8886118a634b911f0ee254970de" />
+		<disk name="a00uac02" sha1="b268789416dbf8886118a634b911f0ee254970de" />
+		<disk name="a00uad02" sha1="6acb8dc41920e7025b87034a3a62b185ef0109d9" />
+	</machine>
+	<machine name="p9112">
+		<description>Police 911 2 (VER. UAA:B)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b11a02" sha1="57665664321b78c1913d01f0d2c0b8d3efd42e04" />
+	</machine>
+	<machine name="pcnfrk3m">
+		<description>Percussion Freaks 3rd Mix (G*A23 VER. KAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a23jaa02" sha1="89e365f61a4db889621d7d9d9917bcfa2c09704e" status="baddump" />
+		<disk name="a23kaa02" sha1="5b853cc25eb583ed36d8cd402235b4f5c9ce065a" status="baddump" />
+	</machine>
+	<machine name="photoply">
+		<description>Photo Play 2000 (v2.01)</description>
+		<year>199?</year>
+		<manufacturer>Funworld</manufacturer>
+		<disk name="pp201" sha1="23e1940d485d19401e7d0ad912ddad2cf2ea10b4" />
+	</machine>
+	<machine name="pnchmn2">
+		<description>Punch Mania 2: Hokuto No Ken (GQA09 JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a09jaa02" sha1="b085fbe76d5ef87578744b45b874b5f79147e586" status="baddump" />
+	</machine>
+	<machine name="polystar">
+		<description>Tobe! Polystars (ver JAA)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="623jaa02" sha1="e7d9e628a3e0e085e084e4e3630fa5e3a7345547" />
+	</machine>
+	<machine name="popn1">
+		<description>Pop'n Music 1 (ver AA-A)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="803aaa11" sha1="8684c1a1f0de9496bac0333c0302e35359173d8a" />
+	</machine>
+	<machine name="popn2">
+		<description>Pop'n Music 2 (ver JA-A)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="831jhdda01" sha1="ef62d5fcc1a36235fc932e6ecef71dc845d1d72d" />
+	</machine>
+	<machine name="popn3">
+		<description>Pop'n Music 3 (ver JA-A)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="980hdda01" sha1="57ece2b63c32d194d4e41b4e4a45aaab30150fd4" />
+	</machine>
+	<machine name="popn4">
+		<description>Pop'n Music 4</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gq986jaa01" sha1="e5368ac029b0bdf29943ae66677b5521ae1176e1" />
+		<disk name="gq986jaa02" sha1="53367d3d5f91422fe386c42716492a0ae4332390" />
+	</machine>
+	<machine name="popn5">
+		<description>Pop'n Music 5</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a04jaa01" sha1="87136ddad1d786b4d5f04381fcbf679ab666e6c9" />
+		<disk name="a04jaa02" sha1="49a017dde76f84829f6e99a678524c40665c3bfd" />
+	</machine>
+	<machine name="popn6">
+		<description>Pop'n Music 6</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gqa16jaa01" sha1="7a7e475d06c74a273f821fdfde0743b33d566e4c" />
+		<disk name="gqa16jaa02" sha1="e39067300e9440ff19cb98c1abc234fa3d5b26d1" />
+	</machine>
+	<machine name="popn7">
+		<description>Pop'n Music 7</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b00jaa02" sha1="c8ce2f8ee6aeeedef9c110a59e68fcec7b669ad6" />
+		<disk name="b00jab01" sha1="259c733ca4d30281205b46b7bf8d60c9d01aa818" />
+	</machine>
+	<machine name="popn8">
+		<description>Pop'n Music 8</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gqb30jaa01" sha1="0ff3e40e3717ce23337b3a2438bdaca01cba9e30" />
+		<disk name="gqb30jaa02" sha1="f067d502c23efe0267aada5706f5bc7a54605942" />
+	</machine>
+	<machine name="popn9">
+		<description>Pop'n Music 9 (ver JAB)</description>
+		<year>2003</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c00jab" sha1="3763aaded9b45388a664edd84a3f7f8ff4101be4" status="baddump" />
+	</machine>
+	<machine name="popnanm2">
+		<description>Pop'n Music Animelo 2</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gea02jaa01" sha1="e81203b6812336c4d00476377193340031ef11b1" />
+		<disk name="gea02jaa02" sha1="7212e399779f37a5dcb8317a8f635a3b3f620aa9" />
+	</machine>
+	<machine name="powyak96">
+		<description>Jikkyou Powerful Pro Yakyuu '96 (GV017 Japan 1.03)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="powyak96" sha1="ebd0ea18ff9ce300ea1e30d66a739a96acfb0621" status="baddump" />
+	</machine>
+	<machine name="powyakex">
+		<description>Jikkyou Powerful Pro Yakyuu EX (GX802 VER. JAB)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="802jab02" sha1="460cc9f0b2514ec1da06b0a1d7b52fe43220d181" />
+	</machine>
+	<machine name="ppd">
+		<description>ParaParaDancing</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="977kaa01" sha1="7af9f4949ffa10ea5fc18b6c88c2abc710df3cf9" status="baddump" />
+		<disk name="977kaa02" sha1="0feb5ac56269ad4a8401fcfe3bb98b01a0169177" />
+	</machine>
+	<machine name="ppp2nd">
+		<description>ParaParaParadise 2nd Mix</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="ppp2nd" sha1="b8b90483d515c83eac05ffa617af19612ea990b0" />
+	</machine>
+	<machine name="ppp11">
+		<description>ParaParaParadise v1.1</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gc977jaa01" sha1="7ed1f4b55105c93fec74468436bfb1d540bce944" />
+		<disk name="gc977jaa02" sha1="74ce8c90575fd562807def7d561392d0f91f2bc6" />
+	</machine>
+	<machine name="ppp">
+		<description>ParaParaParadise</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="977jaa01" sha1="59c03d8eb366167feef741d42d9d8b54bfeb3c1e" status="baddump" />
+		<disk name="977jaa02" sha1="bd07c25ee3e1edc962997f6a5bb1700897231fb2" />
+		<disk name="a11jaa01" sha1="539ec6f1c1d198b0d6ce5543eadcbb4d9917fa42" />
+		<disk name="a11jaa02" sha1="575069570cb4a2b58b199a1329d45b189a20fcc9" />
+	</machine>
+	<machine name="prdgp03">
+		<description>Pride GP 2003 (PR21 Ver. A)</description>
+		<year>2003</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="pr21dvd0" sha1="6bad5c25996bbe68da71199fbe8377b51fe78d81" />
+	</machine>
+	<machine name="primevah">
+		<description>Primeval Hunt</description>
+		<year>2008</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0048a" sha1="0c3b87b7309cf67ece54fc5cd5bbcfc7dc04083f" />
+	</machine>
+	<machine name="primrag2">
+		<description>Primal Rage 2 (Ver 0.36a)</description>
+		<year>1996</year>
+		<manufacturer>Atari</manufacturer>
+		<disk name="primrag2" sha1="bc615068ddf4fd967f770ee01c02f285c052c4c5" />
+	</machine>
+	<machine name="psattack">
+		<description>P's Attack</description>
+		<year>2004</year>
+		<manufacturer>Uniana</manufacturer>
+		<disk name="psattack" sha1="e99cd0dafc33ec13bf56061f81dc7c0a181594ee" />
+	</machine>
+	<machine name="psyvar2">
+		<description>Psyvariar 2 - The Will To Fabricate (GDL-0024)</description>
+		<year>2003</year>
+		<manufacturer>Success</manufacturer>
+		<disk name="gdl-0024" sha1="4898b21fb1f44f34fcf1730f64cb0491e9195327" />
+	</machine>
+	<machine name="psyvaria">
+		<description>Psyvariar -Medium Unit- (V2.04J)</description>
+		<year>2000</year>
+		<manufacturer>Success</manufacturer>
+		<disk name="psyvaria" sha1="b981a42a10069322b77f7a268beae1d409b4156d" />
+	</machine>
+	<machine name="psyvarrv">
+		<description>Psyvariar -Revision- (V2.04J)</description>
+		<year>2000</year>
+		<manufacturer>Success</manufacturer>
+		<disk name="psyvarrv" sha1="277c4f52502bcd7acc1889840962ec80d56465f3" />
+	</machine>
+	<machine name="puyofev">
+		<description>Puyo Puyo Fever (GDS-0031)</description>
+		<year>2003</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0031" sha1="500146b9023522fd2798e3e72de4ebfa54e9bf32" />
+	</machine>
+	<machine name="pwrshovl">
+		<description>Power Shovel ni Norou!! - Power Shovel Simulator</description>
+		<year>1999</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="pwrshovl" sha1="360f63b39f645851c513b4644fb40601b9ba1412" />
+	</machine>
+	<machine name="qdrmfgp2">
+		<description>Quiz Do Re Mi Fa Grand Prix 2 - Shin-Kyoku Nyuukadayo (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="ge557a09" sha1="1ef8093b542fe0bf8240a5fd64e5af3839b6a04c" />
+	</machine>
+	<machine name="qdrmfgp">
+		<description>Quiz Do Re Mi Fa Grand Prix (Japan)</description>
+		<year>1994</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gq460a08" sha1="2f142f986fa3c79d5c4102e800980d1706c35f75" />
+	</machine>
+	<machine name="qgundam">
+		<description>Quiz Mobile Suit Gundam: Monsenshi (QG1 Ver. A)</description>
+		<year>2006</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="qg1" sha1="80fe5cb325c7cfa439d66e9d264337c01559d0e5" />
+	</machine>
+	<machine name="quake">
+		<description>Quake Arcade Tournament (Release Beta 2)</description>
+		<year>1998</year>
+		<manufacturer>Lazer-Tron / iD Software</manufacturer>
+		<disk name="quakeat" sha1="c44695b9d521273c9d3c0e18c88f0dca0185bd7b" />
+	</machine>
+	<machine name="queen">
+		<description>Queen?</description>
+		<year>2002?</year>
+		<manufacturer>STG</manufacturer>
+		<disk name="pqiidediskonmodule" sha1="a56efcc711b1c5a2e63160b3088001a8c4fb56c2" />
+	</machine>
+	<machine name="quizard">
+		<description>Quizard 3.2</description>
+		<year>1996</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrd32" sha1="31e9fa2169aa44d799c37170b238134ab738e1a1" status="baddump" />
+	</machine>
+	<machine name="quizqgd">
+		<description>Quiz Keitai Q mode (GDL-0017)</description>
+		<year>2002</year>
+		<manufacturer>Amedio (Taito license)</manufacturer>
+		<disk name="gdl-0017" sha1="2cdf36ca3a1bd25aa1f68240da3e318df375c652" />
+	</machine>
+	<machine name="quizrd12">
+		<description>Quizard 1.2</description>
+		<year>1995</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrd12" sha1="6e41683b96b74e903040842aeb18437ad7813c82" status="baddump" />
+	</machine>
+	<machine name="quizrd17">
+		<description>Quizard 1.7</description>
+		<year>1995</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrd17" sha1="4bd698f076505b4e17be978481bce027eb47123b" status="baddump" />
+	</machine>
+	<machine name="quizrd18">
+		<description>Quizard 1.8</description>
+		<year>1995</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrd18" sha1="ede873b22957f2a707bbd3039e962ef2ca5aedbd" status="baddump" />
+	</machine>
+	<machine name="quizrd22">
+		<description>Quizard 2.2</description>
+		<year>1995</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrd22" sha1="03c8fdcf27ead6e221691111e8c679b551099543" status="baddump" />
+	</machine>
+	<machine name="quizrd23">
+		<description>Quizard 2.3</description>
+		<year>1995</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrd23" sha1="cd909d9a54275d6f2d36e03e83eea996e781b4d3" status="baddump" />
+	</machine>
+	<machine name="quizrd34">
+		<description>Quizard 3.4</description>
+		<year>1995</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrd34" sha1="37ad49b72b5175afbb87141d57bc8604347fe032" status="baddump" />
+	</machine>
+	<machine name="quizrr40">
+		<description>Quizard Rainbow 4.0</description>
+		<year>1997</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrr40" sha1="288cc37a994e4f1cbd47aa8c92342879c6fc0b87" status="baddump" />
+	</machine>
+	<machine name="quizrr41">
+		<description>Quizard Rainbow 4.1</description>
+		<year>1998</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrr41" sha1="2c0484c6545aac8e00b318328c6edce6f5dde43d" status="baddump" />
+	</machine>
+	<machine name="quizrr42">
+		<description>Quizard Rainbow 4.2</description>
+		<year>1998</year>
+		<manufacturer>TAB Austria</manufacturer>
+		<disk name="quizrr42" sha1="a5d5c8950b4650b8753f9119dc7f1ccaa2aa5442" status="baddump" />
+	</machine>
+	<machine name="racjamdx">
+		<description>Racing Jam DX</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="676a04" sha1="8e89d3e5099e871b99fccba13adaa3cf8a6b71f0" />
+	</machine>
+	<machine name="radirgy">
+		<description>Radirgy (GDL-0032)</description>
+		<year>2005</year>
+		<manufacturer>Milestone</manufacturer>
+		<disk name="gdl-0032a" sha1="9316e0ff90fab69f57b23afbb60de7e6344c2a45" />
+		<disk name="gdl-0032" sha1="ebd7a40e59082e660ebf9a2d4ae7cb64371dae8d" status="baddump" />
+	</machine>
+	<machine name="raiden3">
+		<description>Raiden III (v2.01J)</description>
+		<year>2005</year>
+		<manufacturer>MOSS / Seibu Kaihatsu</manufacturer>
+		<disk name="raiden3_v2_01j" sha1="60142f765a0706e938b91cc41dc14eb67bd78615" />
+	</machine>
+	<machine name="raiden4">
+		<description>Raiden IV (v1.00J)</description>
+		<year>2007</year>
+		<manufacturer>MOSS / Seibu Kaihatsu</manufacturer>
+		<disk name="raiden4_v1_00j" sha1="f5ad509f57067089e0217df6d05036484b06a41a" />
+	</machine>
+	<machine name="raizpin">
+		<description>Raizin Ping Pong</description>
+		<year>2002</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="raizpin" sha1="883ebcda03026df31da1cdb95af521e100c171ed" />
+	</machine>
+	<machine name="rambo">
+		<description>Rambo (Export)</description>
+		<year>2008</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0069" sha1="1f3401b652c45db2b843360aff9cda862c2832c0" />
+	</machine>
+	<machine name="raycris">
+		<description>Ray Crisis (V2.03J)</description>
+		<year>1998</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="raycris" sha1="015cb0e6c4421cc38809de28c4793b4491386aee" />
+	</machine>
+	<machine name="redearth">
+		<description>Red Earth (Euro 961121)</description>
+		<year>1996</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="cap-wzd-3" sha1="a6ff67093db6bc80ee5fc46e4300e0177b213a52" />
+		<disk name="cap-wzd-5" sha1="e5676752b08283dc4a98c3d7b759e8aa6dcd0679" status="baddump" />
+	</machine>
+	<machine name="roadburn">
+		<description>Road Burners</description>
+		<year>1999</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="roadburn" sha1="a62870cceafa6357d7d3505aca250c3f16087566" />
+	</machine>
+	<machine name="rotr">
+		<description>Rise of the Robots (prototype)</description>
+		<year>1994</year>
+		<manufacturer>BFM/Mirage</manufacturer>
+		<disk name="rotr" sha1="d67d7feb52d8c7ba1d2a190a40d97e84871f2d80" />
+	</machine>
+	<machine name="rrvac">
+		<description>Ridge Racer V Arcade Battle (RRV3 Ver. A)</description>
+		<year>2001</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="rrv1-a" sha1="77bb70407511cbb12ab999410e797dcaf0779229" />
+	</machine>
+	<machine name="salarymc">
+		<description>Salary Man Champ (GCA18 VER. JAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a18jaa02" sha1="740cc93ec65433098153684fdfc418a098a43736" />
+	</machine>
+	<machine name="samspsen">
+		<description>Samurai Spirits Sen (v1.00)</description>
+		<year>2008</year>
+		<manufacturer>SNK Playmore</manufacturer>
+		<disk name="samurai spirits sen.v1.00" sha1="5c687604066301a5b7c60f7fc778f0961efce0b6" />
+	</machine>
+	<machine name="savquest">
+		<description>Savage Quest</description>
+		<year>1999</year>
+		<manufacturer>Interactive Light</manufacturer>
+		<disk name="savquest" sha1="b7c8901172b66706a7ab5f5c91e6912855153fa9" />
+	</machine>
+	<machine name="sbxc">
+		<description>Sengoku Basara X Cross</description>
+		<year>2008</year>
+		<manufacturer>Capcom / Arc System Works</manufacturer>
+		<disk name="bax1_dvd0" sha1="56d58e66eeaa57ff07668000491360853b064936" />
+	</machine>
+	<machine name="scg06nt">
+		<description>Sega Club Golf 2006 Next Tours (Rev A) (GDX-0018A)</description>
+		<year>2005</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0018a" sha1="e6f3dc8066392854ad7d83f81d3cbc81a5e340b3" status="baddump" />
+	</machine>
+	<machine name="scptour">
+		<description>Smash Court Pro Tournament (SCP1)</description>
+		<year>2002</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="scp1cd0" sha1="19fa70ba22787704c40f0a8f27bc841218bbc99b" />
+	</machine>
+	<machine name="segartv">
+		<description>Sega Race-TV (Export)</description>
+		<year>2007</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0044" sha1="914aa23ece8aaf0f1942f77272b3a87d10f7a7db" />
+	</machine>
+	<machine name="senko">
+		<description>Senko No Ronde (Rev A) (GDL-0030A)</description>
+		<year>2005</year>
+		<manufacturer>G.Rev</manufacturer>
+		<disk name="gdl-0030a" sha1="50813f6bde947c5b045a67827ba86b6ab0c29f5c" />
+		<disk name="gdl-0030" sha1="2ea7d93343b2826a25363642bc4d378dca531638" />
+	</machine>
+	<machine name="senkosp">
+		<description>Senko No Ronde Special (GDL-0038)</description>
+		<year>2006</year>
+		<manufacturer>G.Rev</manufacturer>
+		<disk name="gdl-0038" sha1="15955788d403a1991aa1be26ed9ace60fd909622" />
+	</machine>
+	<machine name="sf2049">
+		<description>San Francisco Rush 2049</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="sf2049se" sha1="7b27a8ce2a953050ce267548bb7160b41f3e8054" />
+		<disk name="sf2049te" sha1="625aa36436587b7bec3e7db1d19793b760e2ea51" />
+		<disk name="sf2049" sha1="9e0661b8566a6c78d18c59c11cd3a6628d025405" />
+	</machine>
+	<machine name="sfiii2">
+		<description>Street Fighter III 2nd Impact: Giant Attack (USA 970930)</description>
+		<year>1997</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="cap-3ga000" sha1="4e162885b0b3265a56e0265037bcf247e820f027" status="baddump" />
+	</machine>
+	<machine name="sfiii3">
+		<description>Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)</description>
+		<year>1999</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="cap-33s-1" sha1="2f4a9006a31903114f9f9dc09465ae253e565c51" status="baddump" />
+		<disk name="cap-33s-2" sha1="41b0e246db91cbfc3f8f0f62d981734feb4b4ab5" status="baddump" />
+	</machine>
+	<machine name="sfiii">
+		<description>Street Fighter III: New Generation (Euro 970204)</description>
+		<year>1997</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="cap-sf3-3" sha1="606e62cc5f46275e366e7dbb412dbaeb7e54cd0c" status="baddump" />
+	</machine>
+	<machine name="sfish2">
+		<description>Sport Fishing 2 (UET 951106 V1.10e)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="cdp-00386b" sha1="2cb357a930bb7fa668949717ec6daaad2669d137" />
+		<disk name="cdp-00428" sha1="166cb5518fa5e0ab15d40dade70fa8913089dcd2" />
+	</machine>
+	<machine name="sfrush">
+		<description>San Francisco Rush</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="sfrush" sha1="e2db0270a707fb2115207f988d5751081d6b4994" />
+	</machine>
+	<machine name="sfrushrk">
+		<description>San Francisco Rush: The Rock</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="sfrushrk" sha1="e763f26aca67ebc17fe8b8df4fba91d492cf7837" />
+	</machine>
+	<machine name="sfz3ugd">
+		<description>Street Fighter Zero 3 Upper (GDL-0002)</description>
+		<year>2001</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="gdl-0002" sha1="fceb1014a1c673c91a4529fff75aebfd734d5f4e" />
+	</machine>
+	<machine name="shaktam">
+		<description>Shakatto Tambourine (Rev B) (GDS-0002B)</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0002b" sha1="c656497b44d5ca4743aa1a8d836af2bfa3484dd5" />
+	</machine>
+	<machine name="shaktamb">
+		<description>Shakatto Tambourine Cho Powerup Chu (2K1 AUT) (GDS-0016)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0016" sha1="c44f50ded8054d7d89b00c720120ccc6dd9686e0" />
+	</machine>
+	<machine name="shaktmsp">
+		<description>Shakatto Tambourine Motto Norinori Shinkyoku Tsuika (2K1 SPR) (GDS-0013)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0013" sha1="5a40ba644ffb7650e8f9774a9d583b30874e9dee" />
+	</machine>
+	<machine name="shanghss">
+		<description>Shanghai Shoryu Sairin (V2.03J)</description>
+		<year>2000</year>
+		<manufacturer>Warashi</manufacturer>
+		<disk name="shanghss" sha1="7964f71ec5c81d2120d83b63a82f97fbad5a8e6d" />
+	</machine>
+	<machine name="shangtou">
+		<description>Shanghai Sangokuhai Tougi (Ver 2.01J)</description>
+		<year>2002</year>
+		<manufacturer>Warashi / Sunsoft / Taito</manufacturer>
+		<disk name="shanghaito" sha1="9901db5a9aae77e3af4157aa2c601eaab5b7ca85" />
+	</machine>
+	<machine name="shikgam2">
+		<description>Shikigami No Shiro II / The Castle of Shikigami II (GDL-0021)</description>
+		<year>2003</year>
+		<manufacturer>Alfa System</manufacturer>
+		<disk name="gdl-0021" sha1="c88bfabcd6ec74fa99c7a6e5cec50f526f074ed2" />
+	</machine>
+	<machine name="shikiga3">
+		<description>Shikigami no Shiro III (v2.06J)</description>
+		<year>2006</year>
+		<manufacturer>Alfa System/SKonec Entertainment</manufacturer>
+		<disk name="shikigami3_v2_06jpn" sha1="4bf41ab1a3f2cd51cd2b1e6183959d2a4878449d" />
+	</machine>
+	<machine name="shikigam">
+		<description>Shikigami no Shiro (V2.03J)</description>
+		<year>2001</year>
+		<manufacturer>Alfa System / Taito</manufacturer>
+		<disk name="shikigam" sha1="fa49a0bc47f5cb7c30d7e49e2c3696b21bafb840" />
+	</machine>
+	<machine name="sianniv">
+		<description>Space Invaders Anniversary (V2.02J)</description>
+		<year>2003</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="sianniv" sha1="1e08b813190a9e1baf29bc16884172d6c8da7ae3" />
+	</machine>
+	<machine name="simpbowl">
+		<description>Simpsons Bowling (GQ829 UAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="simpbowl" sha1="72b32a863e6891ad3bfc1fdfe9cb90a2bd334d71" status="baddump" />
+	</machine>
+	<machine name="slashout">
+		<description>Slashout (GDS-0004)</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0004" sha1="afcaa4f5efaf9ffad3a687d1d5bd9270bbf94281" />
+	</machine>
+	<machine name="soulclb2">
+		<description>Soul Calibur II (SC23 Ver. A)</description>
+		<year>2002</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="sc21-dvd0b" sha1="883170f759b4d53c4031e00ff29bcd1a4d3fea97" />
+		<disk name="sc21-dvd0d" sha1="9a7b1ea836adc9d78481928a3067530e0f8d74a6" />
+	</machine>
+	<machine name="soulclb3">
+		<description>Soul Calibur III (SC31001-NA-A)</description>
+		<year>2005</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="sc31001-na-dvd0-b" sha1="b46ee35083f8fcc091ce562951c55fbdbb929e4b" />
+	</machine>
+	<machine name="soutenry">
+		<description>Soutenryu (V2.07J)</description>
+		<year>2000</year>
+		<manufacturer>Warashi</manufacturer>
+		<disk name="soutenry" sha1="9204d0be833d29f37b8cd3fbdf09da69b622254b" />
+	</machine>
+	<machine name="specfrce">
+		<description>Special Forces Elite Training</description>
+		<year>2002</year>
+		<manufacturer>ICE/Play Mechanix</manufacturer>
+		<disk name="sf010101" sha1="59b5e3d8e1d5537204233598830be2066aad0556" />
+	</machine>
+	<machine name="speeddrv">
+		<description>Speed Driver</description>
+		<year>2004</year>
+		<manufacturer>IGS</manufacturer>
+		<disk name="speeddrv" sha1="88712a37b75d84cf9b5a4bee9386285d1b3760b3" />
+	</machine>
+	<machine name="spicaadv">
+		<description>Spica Adventure (v2.03J)</description>
+		<year>2005</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<disk name="spicaadventure_v2_03j" sha1="218ee0670a7b895f42480f0fe6719ecd4f4ba9e6" />
+	</machine>
+	<machine name="spkrbtl">
+		<description>Spikers Battle (GDS-0005)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0005" sha1="a3abd6df5cbe3ec4eadf54c8471caee31dd8c452" />
+	</machine>
+	<machine name="sprtjam">
+		<description>Sports Jam (GDS-0003)</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0003" sha1="79a0d8e1aa3e6f660ef4f302d9d54c1a6d2057e3" />
+	</machine>
+	<machine name="spuzbobl">
+		<description>Super Puzzle Bobble (V2.05O)</description>
+		<year>1999</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="spuzbobj" sha1="dac433cf88543d2499bf797d7406b82ae4338726" />
+		<disk name="spuzbobl" sha1="1b1c72fb7e5656021485fefaef8f2ba48e2b4ea8" />
+	</machine>
+	<machine name="ss2005">
+		<description>Super Shanghai 2005 (GDL-0031)</description>
+		<year>2005</year>
+		<manufacturer>Starfish</manufacturer>
+		<disk name="gdl-0031a" sha1="6091525845fc2042ed43cae5a1b60c603e16cf97" status="baddump" />
+		<disk name="gdl-0031" sha1="1fdc3084b95bfdb64a77461f34b471e464573160" />
+	</machine>
+	<machine name="sscopex">
+		<description>Silent Scope EX (ver UAA)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a13b02" sha1="c25a61b76d365794c2da4a9e7de88a5519e944ec" />
+		<disk name="a13c02" sha1="d740784fa51a3f43695ea95e23f92ef05f43284a" />
+	</machine>
+	<machine name="starseek">
+		<description>Doki Doki Idol Star Seeker (GDL-0005)</description>
+		<year>2001</year>
+		<manufacturer>G.Rev</manufacturer>
+		<disk name="gdl-0005" sha1="04bb039110950a5ec99f79a3a2e114fe3cbb86a6" />
+	</machine>
+	<machine name="styphp">
+		<description>Stunt Typhoon Plus</description>
+		<year>2000</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="styphp" sha1="c232d3460e37523346132544b8e23a5f9b447150" />
+	</machine>
+	<machine name="sukuinuf">
+		<description>Quiz and Variety Suku Suku Inufuku 2 (IN2 Ver. A)</description>
+		<year>2004</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="hm-in2" sha1="4e2d95798a2bcc6f93bc82c364379a3936d68986" />
+	</machine>
+	<machine name="superdbz">
+		<description>Super Dragon Ball Z (DB1 Ver. B)</description>
+		<year>2005</year>
+		<manufacturer>Banpresto / Spike</manufacturer>
+		<disk name="db1" sha1="5f4031e2beda9c1cd4a5a9a07740fa50946b73f2" />
+	</machine>
+	<machine name="taiko9">
+		<description>Taiko No Tatsujin 9 (TK91001-NA-A)</description>
+		<year>2006</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="tk9100-1-na-dvd0-a" sha1="6bd40b2c19f30a81689601c3dd46b6dac6d0a2f1" />
+	</machine>
+	<machine name="taiko10">
+		<description>Taiko No Tatsujin 10 (T101001-NA-A)</description>
+		<year>2007</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="tk10100-1-na-dvd0-a" sha1="9aef4a6b64295a6684d56334904b4c92a20abe15" />
+	</machine>
+	<machine name="takoron">
+		<description>Noukone Puzzle Takoron (GDL-0042)</description>
+		<year>2006</year>
+		<manufacturer>Compile</manufacturer>
+		<disk name="gdl-0042" sha1="984a4fa012d83dd8c748304958c847c9867f4125" status="baddump" />
+	</machine>
+	<machine name="tcfboxa">
+		<description>Triforce Firmware Update For Compact Flash Box (Rev A) (GDT-0022A)</description>
+		<year>2006</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdt-0022a" sha1="14973058d87eff93782f59878ec856a7be994b6e" />
+	</machine>
+	<machine name="tekken4">
+		<description>Tekken 4 (TEF3 Ver. C)</description>
+		<year>2002</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="tef1dvd0" sha1="f39aa37156245f622a6e19e8a0e081418e247b36" />
+	</machine>
+	<machine name="tekken5d">
+		<description>Tekken 5 Dark Resurrection (TED1 Ver. A)</description>
+		<year>2005</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="ted1dvd0b" sha1="5940cc628a1555763ef2055e518f840f9a44d123" />
+	</machine>
+	<machine name="tekken51">
+		<description>Tekken 5.1 (TE51 Ver. B)</description>
+		<year>2005</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="te51-dvd0" sha1="2a0ac3723725572c1810b0ef4bcfa7aa114062f8" />
+	</machine>
+	<machine name="tenthdeg">
+		<description>Tenth Degree (prototype)</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="tenthdeg" sha1="41a1a045a2d118cf6235be2cc40bf16dbb8be5d1" />
+	</machine>
+	<machine name="tetkiwam">
+		<description>Tetris Kiwamemichi (GDL-0020)</description>
+		<year>2004</year>
+		<manufacturer>Success</manufacturer>
+		<disk name="gdl-0020" sha1="55813b6487b303da544611f16b9d74b23184590c" />
+	</machine>
+	<machine name="tfupdate">
+		<description>Triforce DIMM Updater (GDT-0011)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdt-0011" sha1="71bfa8f53d211085c020d54f55eeeabf85212a0b" status="baddump" />
+	</machine>
+	<machine name="thenanpa">
+		<description>The Nanpa (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Nichibutsu/Love Factory/eic</manufacturer>
+		<disk name="thenanpa" sha1="72bf8c75189e877508c5a64d5591738d23ed7e96" />
+	</machine>
+	<machine name="thrild2">
+		<description>Thrill Drive 2 (ver EBB)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a41a02" sha1="bbb71e23bddfa07dfa30b6565a35befd82b055b8" />
+		<disk name="a41b02" sha1="0426f4bb9001cf457f44e2c22e3d7575b8049aa3" />
+		<disk name="a41c02" sha1="ab3020e8709768c0fd2467573e92b679a05944e5" />
+	</machine>
+	<machine name="timecrs3">
+		<description>Time Crisis 3 (TST1)</description>
+		<year>2003</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="tst1dvd0" sha1="f8a447d9a4224282516bea590f5217c751bdc4ae" />
+	</machine>
+	<machine name="timecrs4">
+		<description>Time Crisis 4</description>
+		<year>2006</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="tsf1-ha" sha1="8ba7eec0d1add2192a115b295a32265c8d084aea" />
+	</machine>
+	<machine name="tmosh">
+		<description>Tokimeki Memorial Oshiete Your Heart (GQ673 JAA)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="673jaa01" sha1="eaa76073749f9db48c1bee3dff9bea955683c8a8" />
+	</machine>
+	<machine name="tmoshs">
+		<description>Tokimeki Memorial Oshiete Your Heart Seal Version (GE755 JAA)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="755jaa01" sha1="fc742a0b763ba38350ba7eb5d775948632aafd9d" />
+	</machine>
+	<machine name="tmoshsp">
+		<description>Tokimeki Memorial Oshiete Your Heart Seal Version Plus (GE756 JAB)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="756jaa01" sha1="5e6d349ad1a22c0dbb1ec26aa05febc830254339" status="baddump" />
+		<disk name="756jab01" sha1="b2c59b9801debccbbd986728152f314535c67e53" />
+	</machine>
+	<machine name="tokyocop">
+		<description>Tokyo Cop (Italy)</description>
+		<year>2003</year>
+		<manufacturer>Gaelco</manufacturer>
+		<disk name="tokyocop" sha1="a3cf011c8ef8ec80724c28e1534191b40ae8515d" />
+	</machine>
+	<machine name="totlvice">
+		<description>Total Vice (ver UAC)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="639aab01" sha1="bb99db2eeaecabfda8f20b7b06f714605bbd5b7c" />
+		<disk name="639jad01" sha1="39d41d5a9d1c40636d174c8bb8172b1121e313f8" status="baddump" />
+		<disk name="639uac01" sha1="88431b8a0ce83c156c8b19efbba1af901b859404" status="baddump" />
+	</machine>
+	<machine name="trbwtchs">
+		<description>Trouble Witches AC (v1.00J)</description>
+		<year>2008</year>
+		<manufacturer>Adventure Planning Service/Studio SiestA</manufacturer>
+		<disk name="troublewitches_ac_v1.00j" sha1="733ecbae040dd32447230d3fc81e6f8614715ee5" />
+	</machine>
+	<machine name="trgheart">
+		<description>Trigger Heart Exelica (Rev A) (GDL-0036A)</description>
+		<year>2006</year>
+		<manufacturer>Warashi</manufacturer>
+		<disk name="gdl-0036a" sha1="05b0d6fde7282db97fb58ad941090e356e02934c" />
+	</machine>
+	<machine name="trizeal">
+		<description>Trizeal (GDL-0026)</description>
+		<year>2004</year>
+		<manufacturer>Taito</manufacturer>
+		<disk name="gdl-0026" sha1="9288904f376a07177975b7c453e2ad2bf491c3e2" />
+	</machine>
+	<machine name="truckk">
+		<description>Truck Kyosokyoku (Japan, TKK2/VER.A)</description>
+		<year>2000</year>
+		<manufacturer>Metro / Namco</manufacturer>
+		<disk name="tkk2-a" sha1="6b7c3686b22a508c44f67295b188504b757dd482" />
+	</machine>
+	<machine name="tsurugi">
+		<description>Tsurugi (ver EAB)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a30b02" sha1="d2be83b7323c365ba445de7697c3fb8eb83d0212" />
+		<disk name="a30c02" sha1="533b5669b00884a800df9ba29651777a76559862" />
+	</machine>
+	<machine name="turrett">
+		<description>Turret Tower</description>
+		<year>2001</year>
+		<manufacturer>Dell Electronics (Namco license)</manufacturer>
+		<disk name="turrett" sha1="b0c98c5876870dd8b3e37a38fe35846c9e011df4" status="baddump" />
+	</machine>
+	<machine name="undefeat">
+		<description>Under Defeat (GDL-0035)</description>
+		<year>2005</year>
+		<manufacturer>G.Rev</manufacturer>
+		<disk name="gdl-0035" sha1="cee38c3953fad9f05dbbc669eebb465fc4c9db8b" />
+	</machine>
+	<machine name="usagi">
+		<description>Usagi (V2.02J)</description>
+		<year>2001</year>
+		<manufacturer>Warashi / Mahjong Kobo / Taito</manufacturer>
+		<disk name="usagi" sha1="edf9dd271957f6cb06feed238ae21100514bef8e" />
+	</machine>
+	<machine name="usagiol">
+		<description>Usagi Online (v2.04J)</description>
+		<year>2005</year>
+		<manufacturer>Taito Corporation/Warashi</manufacturer>
+		<disk name="usagionline_v2_04j" sha1="6d4a780c40ee5c9b0192932e926f144d76b87262" />
+	</machine>
+	<machine name="usagiym">
+		<description>Usagi - Yamashiro Mahjong Hen (GDL-0022)</description>
+		<year>2003</year>
+		<manufacturer>Warashi / Mahjong Kobo / Taito</manufacturer>
+		<disk name="gdl-0022" sha1="45deba05a12abbf6390c0fc0e4cdeaedfa7d2ca5" status="baddump" />
+	</machine>
+	<machine name="usvsthem">
+		<description>Us vs. Them</description>
+		<year>1984</year>
+		<manufacturer>Mylstar</manufacturer>
+		<disk name="usvsthem" sha1="c52530319dc70486f5ced95c121f1cab872e66d8" />
+	</machine>
+	<machine name="vaportrx">
+		<description>Vapor TRX</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="vaportrp" sha1="6c86637c442ebd6994eee8c0ae0dce343c35dbe9" />
+		<disk name="vaportrx" sha1="fe53ca7643d2ed2745086abb7f2243c69678cab1" />
+	</machine>
+	<machine name="vathlete">
+		<description>Virtua Athletics / Virtua Athlete (GDS-0019)</description>
+		<year>2002</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0019" sha1="ab062cfc0e731ddb1c6bb3acf83650b20b3f7b4a" />
+	</machine>
+	<machine name="vcircle">
+		<description>Vicious Circle (prototype)</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="vcircle" sha1="bfa79c4cacdc9c2cd6362f62a23056b3e35a2034" />
+	</machine>
+	<machine name="vcop3">
+		<description>Virtua Cop 3 (Rev A) (GDX-0003A)</description>
+		<year>2003</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdx-0003a" sha1="04cd12bec50a9e9f1f05e7b7c2ef396800a385dd" />
+	</machine>
+	<machine name="vf4evo">
+		<description>Virtua Fighter 4 Evolution (Rev B) (GDS-0024B)</description>
+		<year>2002</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0024a" sha1="92fa11005708d7b1c1d2608dfc3033c30a885b47" />
+		<disk name="gds-0024b" sha1="42fba5d95454750ad80df2ce0db2996f71307914" />
+	</machine>
+	<machine name="vf4tuned">
+		<description>Virtua Fighter 4 Final Tuned (Rev F) (GDS-0036F)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0036a" sha1="b6c9cbe09b4cbe0faefe0bb09f429a6856663eaa" />
+		<disk name="gds-0036d" sha1="2a2737e035f690946897bbb25943f2c5230eca99" />
+		<disk name="gds-0036f" sha1="68edece4239e5adfef9df143defb711ff2b4db72" />
+	</machine>
+	<machine name="vf4">
+		<description>Virtua Fighter 4 (GDS-0012)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0012b" sha1="9b8e05c3d28a09323b13c198dfcc2b771bba67cd" status="baddump" />
+		<disk name="gds-0012c" sha1="dcaeddea0dc089eadda8ba4579328aca3a613c4b" />
+		<disk name="gds-0012" sha1="c34588f59c6091cd1c3ef235171dad8d5247e707" status="baddump" />
+	</machine>
+	<machine name="vnight">
+		<description>Vampire Night (VPN3 Ver. B)</description>
+		<year>2001</year>
+		<manufacturer>Sega / Namco</manufacturer>
+		<disk name="vpn1cd0" sha1="714bd19eee3b31a060223003e4567e405ce04cd7" />
+	</machine>
+	<machine name="voyager">
+		<description>Star Trek: Voyager</description>
+		<year>2002</year>
+		<manufacturer>Team Play/Game Refuge/Monaco Entertainment</manufacturer>
+		<disk name="voyager" sha1="8b94f2420f6abb40148e4ba6eed8819d8e85dbde" />
+	</machine>
+	<machine name="vs4j">
+		<description>Virtua Striker 4 (Japan) (Rev E) (GDT-0013E)</description>
+		<year>2005</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdt-0013e" sha1="8f839d3ade4019131f18bb327e69087ed52e1cc4" />
+	</machine>
+	<machine name="vs4">
+		<description>Virtua Striker 4 (Export) (GDT-0015)</description>
+		<year>2004</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdt-0015" sha1="3fa43fdab579b657cb8aeebb315d98cf0d24f921" />
+	</machine>
+	<machine name="vs42k6ex">
+		<description>Virtua Striker 4 Ver.2006 (Export) (GDT-0021)</description>
+		<year>2006</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdt-0021" sha1="fa1511d3a0f7755df77ec535f78beff0c5a7fcbe" />
+	</machine>
+	<machine name="vs2002ex">
+		<description>Virtua Striker 2002 (GDT-0002)</description>
+		<year>2002</year>
+		<manufacturer>Sega / Amusement Vision</manufacturer>
+		<disk name="gdt-0002" sha1="e7bd72799b26900db77a545e0823c2dd607c5bd1" />
+	</machine>
+	<machine name="vs2002j">
+		<description>Virtua Striker 2002 (GDT-0001)</description>
+		<year>2002</year>
+		<manufacturer>Sega / Amusement Vision</manufacturer>
+		<disk name="gdt-0001" sha1="6c513f45561ccb8a76a7dbef38de7dbae83d6925" />
+	</machine>
+	<machine name="vs42006">
+		<description>Virtua Striker 4 Ver.2006 (Japan) (Rev D) (GDT-0020D)</description>
+		<year>2006</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gdt-0020d" sha1="db256d094b9754d452d7a2b8a370699d21141c1f" status="baddump" />
+	</machine>
+	<machine name="vstrik3">
+		<description>Virtua Striker 3 Ver. 2002 (GDS-0006)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0006" sha1="44bfd24f44272c8fd7f5f9294005c6cc53222ef3" />
+	</machine>
+	<machine name="vtennis2">
+		<description>Virtua Tennis 2 / Power Smash 2 (Rev A) (GDS-0015A)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0015a" sha1="5db1ef70b6db63f8a15e1d64cdf0170e80209eb4" />
+	</machine>
+	<machine name="vtennis3">
+		<description>Virtua Tennis 3 (Japan)</description>
+		<year>2006</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="dvp-0005c" sha1="1fd689753c4b70dff0286cb7f623ee7fd439db62" />
+	</machine>
+	<machine name="vtennisg">
+		<description>Virtua Tennis / Power Smash (GDS-0011)</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0011" sha1="5ae669832805139f973dc86ab7cab66aa8166ac0" />
+	</machine>
+	<machine name="wanganmd">
+		<description>Wangan Midnight (WMN1 Ver. A)</description>
+		<year>2001</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="wmn1" sha1="4254e987e71d0d4038a87f11dc1a304396b3dffc" />
+	</machine>
+	<machine name="wangmd2b">
+		<description>Wangan Midnight Maximum Tune 2 (Japan) (Rev A) (GDX-0015A)</description>
+		<year>2005</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="gdx-0015a" sha1="cb306df60550bbd8df312634cb97014bb39f1631" status="baddump" />
+	</machine>
+	<machine name="wangmid2">
+		<description>Wangan Midnight Maximum Tune 2 (Export) (GDX-0016)</description>
+		<year>2005</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="gdx-0016" sha1="259483fd211a70c23205ffd852316d616c5a2740" status="baddump" />
+	</machine>
+	<machine name="wangmid">
+		<description>Wangan Midnight Maximum Tune (Export) (Rev B) (GDX-0009B)</description>
+		<year>2004</year>
+		<manufacturer>Namco</manufacturer>
+		<disk name="gdx-0009b" sha1="6fcbebb95b53eaabbc5da6ee08fbe15c2922b8d4" />
+	</machine>
+	<machine name="warfa">
+		<description>War: The Final Assault</description>
+		<year>1999</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="warfa" sha1="87f8a8878cd6be716dbd6c68fb1bc7f564ede484" />
+	</machine>
+	<machine name="wargods">
+		<description>War Gods (HD 10/09/1996 - Dual Resolution)</description>
+		<year>1995</year>
+		<manufacturer>Midway</manufacturer>
+		<disk name="wargods_08-15-1996" sha1="5dee00be40c315fbb1d6e3994dae8e498ab87fb2" />
+		<disk name="wargods_10-09-1996" sha1="7585bc65b1038589cb59d3e7c56e08ca9d7015b8" />
+		<disk name="wargods_12-11-1995" sha1="141063f95867fdcc4b15c844e510696604a70c6a" />
+	</machine>
+	<machine name="wcombat">
+		<description>World Combat (ver UAA?)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c22a02" sha1="b607fb2ddfd0bd552b7a736cea4ac1aa3ea021bd" status="baddump" />
+		<disk name="c22c02" sha1="8bd1dfbf926ad5b28fa7dafd7e31c475325ec569" status="baddump" />
+		<disk name="c22d02" sha1="69a24c9e36b073021d55bec27d89fcc0254a60cc" />
+	</machine>
+	<machine name="weddingr">
+		<description>Wedding Rhapsody (GX624 JAA)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="weddingr" sha1="4e7122b191747ab7220fe4ce1b4483d62ab579af" status="baddump" />
+	</machine>
+	<machine name="wg3dh">
+		<description>Wayne Gretzky's 3D Hockey</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="wg3dh" sha1="4fc6f25d7f043d9bcf8743aa8df1d9be3cbc375b" />
+	</machine>
+	<machine name="wontmuch">
+		<description>Won!Tertainment Music Channel (v1.00)</description>
+		<year>2006</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="wontmuch_v1.00" sha1="fcc9719aa68234e3df5e8cb9cd7bcb1b0dcb66b1" />
+	</machine>
+	<machine name="wsbbgd">
+		<description>Super Major League / World Series Baseball (GDS-0010)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="gds-0010" sha1="581a44fb2afab1f8a384ed58559fd6308e787864" />
+	</machine>
+	<machine name="wswe2k3">
+		<description>World Soccer Winning Eleven Arcade Game 2003</description>
+		<year>2003</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c27jaa03" sha1="9b2aa900711d88cf5effb3ba6be18726ea006ac4" />
+	</machine>
+	<machine name="wswe">
+		<description>World Soccer Winning Eleven Arcade Game Style</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="c18jaa03" sha1="b47190aa38f1f3a499b817758e3f29fac54391bd" />
+	</machine>
+	<machine name="xiistag">
+		<description>XII Stag (V2.01J)</description>
+		<year>2002</year>
+		<manufacturer>Triangle Service</manufacturer>
+		<disk name="xiistag" sha1="586e37c8d926293b2bd928e5f0d693910cfb05a2" />
+	</machine>
+	<machine name="xtrial">
+		<description>Xtrial Racing (ver JAB)</description>
+		<year>2002</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="b4xb02" sha1="d8d54f3f16b762bf0187fe29b2f8696015c0a940" />
+	</machine>
+	<machine name="yuyuhaku">
+		<description>The Battle of Yu Yu Hakusho: Shitou! Ankoku Bujutsukai!</description>
+		<year>2006</year>
+		<manufacturer>Banpresto</manufacturer>
+		<disk name="yh1" sha1="ffdf1333d2c235e5fcec3780480f110afd20a7df" />
+	</machine>
+	<machine name="zgundm">
+		<description>Mobile Suit Z-Gundam: A.E.U.G. vs Titans (ZGA1 Ver. A)</description>
+		<year>2003</year>
+		<manufacturer>Capcom / Banpresto</manufacturer>
+		<disk name="zga1dvd0" sha1="7930e5a65f6079851438669dfb1f0e5f9e11329a" />
+	</machine>
+	<machine name="zgundmdx">
+		<description>Mobile Suit Z-Gundam: A.E.U.G. vs Titans DX (ZDX1 Ver. A)</description>
+		<year>2004</year>
+		<manufacturer>Capcom / Banpresto</manufacturer>
+		<disk name="zdx1dvd0" sha1="fa21626f771106e2441c4515a0e5dff478187ccd" />
+	</machine>
+	<machine name="zokuoten">
+		<description>Zoku Otenamihaiken (V2.03J)</description>
+		<year>2000</year>
+		<manufacturer>Success</manufacturer>
+		<disk name="zokuoten" sha1="5ce13db00518f96af64935176c71ec68d2a51938" />
+	</machine>
+	<machine name="zooo">
+		<description>Zooo (V2.01J)</description>
+		<year>2004</year>
+		<manufacturer>Success</manufacturer>
+		<disk name="zooo" sha1="e275b3141b2bc49142990e6b497a5394a314a30b" />
+	</machine>
+</datafile>

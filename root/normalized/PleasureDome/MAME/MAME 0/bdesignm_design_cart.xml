@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>bdesignm_design_cart</name>
+		<description>Bandai Design Master 'Design / Media' cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dbzm">
+		<description>Dragon Ball Z (design)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="m01_dragonballz.bin" size="131072" crc="5a514a14" sha1="e79f215255b230bec5835e229f415d277dd8d762" />
+	</machine>
+	<machine name="rockmanm">
+		<description>Rockman X3 Buster Battle (design)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="m04_rockman.bin" size="131072" crc="54c0e613" sha1="2927224268b0ef0a99513d8fda10be23395cabf6" />
+	</machine>
+	<machine name="sf2m">
+		<description>Super Street Fighter 2 (design)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="m03_streetfighterii.bin" size="131072" crc="f4a59015" sha1="a607628a4fbae143e34294a4363c286feb21d770" />
+	</machine>
+	<machine name="shonen">
+		<description>Weekly Shonen Jump Special (design)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="weekly_shonen_jump_special.bin" size="131072" crc="eb255397" sha1="c16b4f7194dbf486775ace47a54afee198565a80" />
+	</machine>
+	<machine name="slamdunkm">
+		<description>From TV Animation Slam Dunk (design)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="m02_slamdunk.bin" size="131072" crc="7771b8b3" sha1="e133f61202e31424ce2c4638a65f11e14ace6f6e" />
+	</machine>
+</datafile>

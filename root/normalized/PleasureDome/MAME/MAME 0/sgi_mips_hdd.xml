@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sgi_mips_hdd</name>
+		<description>Hard disk images for SGI MIPS</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="irix_5_2_hdd">
+		<description>IRIX 5.2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_2_hdd" sha1="e32910287c9f9ca5b4efe6a328a7c71bdbaed235" />
+	</machine>
+	<machine name="irix_5_3_hdd">
+		<description>IRIX 5.3</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_3_hdd" sha1="22de8751b85fd5f5ff002657e0f475cce719ee52" />
+	</machine>
+	<machine name="irix_6_2_hdd">
+		<description>IRIX 6.2</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_hdd" sha1="d5ebffe77590551ff18d3107751983b62e059af3" />
+	</machine>
+	<machine name="irix_6_5_22_hdd">
+		<description>IRIX 6.5.22</description>
+		<year>2003</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_22_hdd" sha1="02a015321dc31a08a08ff4751687bc474583190a" />
+	</machine>
+	<machine name="irix_6_5_hdd">
+		<description>IRIX 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_5_hdd" sha1="87ab8431fb9be519d05343f6fc735a1730cff49d" />
+	</machine>
+</datafile>

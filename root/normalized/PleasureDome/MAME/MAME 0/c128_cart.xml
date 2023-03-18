@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>c128_cart</name>
+		<description>Commodore 128 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="c128dg40a">
+		<description>C128/40 Diagnostic (Rev 789010)</description>
+		<year>198?</year>
+		<publisher>Commodore</publisher>
+		<rom name="c128diag_789010.bin" size="8192" crc="3b5fcdbd" sha1="da8851745b90dfafe4e05b2bf4e8e224b553170a" />
+	</machine>
+	<machine name="c128dg40">
+		<description>C128/40 Diagnostic (Rev 588121)</description>
+		<year>198?</year>
+		<publisher>Commodore</publisher>
+		<rom name="c128diag_588121.bin" size="8192" crc="b11107be" sha1="c7149ed420d95faa1ab2ecb4a536f5e6effd45e3" />
+	</machine>
+	<machine name="c128diag">
+		<description>C-128 Diagnostic (v1.1)</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="c128diag.bin" size="8192" crc="584f6750" sha1="b3cfd8508b887e9c7e72ed2b0c44fe63e6b44ac4" />
+	</machine>
+	<machine name="c128diaga">
+		<description>C-128 Diagnostic (v1.4)</description>
+		<year>198?</year>
+		<publisher>Commodore</publisher>
+		<rom name="325099-01.u1" size="16384" crc="285e5bf8" sha1="a110dd331eefe251effdcfa272faf5680db51973" />
+	</machine>
+	<machine name="c128diagb">
+		<description>C128/C128D Diagnostic (Rev 785260)</description>
+		<year>198?</year>
+		<publisher>Commodore</publisher>
+		<rom name="c128_785260.bin" size="8192" crc="d4a4e162" sha1="2c861c89be4e556982435d076b012362545f03ca" />
+	</machine>
+	<machine name="c128diagdcr">
+		<description>C-128DCR Integral Diag 1.0</description>
+		<year>198?</year>
+		<publisher>Commodore</publisher>
+		<rom name="325109-10.u1" size="16384" crc="6aed47f6" sha1="30493c1e2d3345898bd105ea9f3a03d2de1f7054" />
+	</machine>
+	<machine name="comal128">
+		<description>COMAL 80</description>
+		<year>1985</year>
+		<publisher>Commodore</publisher>
+		<rom name="comal80.u1" size="32768" crc="65358f73" sha1="14b032b55d65b4c692ec4f0c0c5da07b28a5822d" />
+		<rom name="comal80.u2" size="32768" crc="2f9da033" sha1="8dcb465cb7b32af996d43c8a15d70e35e5c7d321" />
+		<rom name="comal80.u3" size="32768" crc="2f9da033" sha1="8dcb465cb7b32af996d43c8a15d70e35e5c7d321" status="baddump" />
+	</machine>
+	<machine name="mach128_2a">
+		<description>MACH 128 (v.2A)</description>
+		<year>1985</year>
+		<publisher>Access Software</publisher>
+		<rom name="mach_128_v2a.bin" size="8192" crc="fc60d92e" sha1="7f487134d314b4c5158954ad057e01c0da32a468" />
+	</machine>
+	<machine name="mach128">
+		<description>MACH 128 (v.1A)</description>
+		<year>1985</year>
+		<publisher>Access Software</publisher>
+		<rom name="mach_128_utilities.d64" size="174848" crc="5fb309f5" sha1="2f5e6c5c028654500425be7a703ba5d9bf72bdab" />
+		<rom name="mach_128_v1a.bin" size="8192" crc="f91ed380" sha1="6f04d73fcde8b28903075e3adcd2d7ff49d2518a" />
+	</machine>
+	<machine name="partn128">
+		<description>PARTNER 128</description>
+		<year>1985</year>
+		<publisher>Timeworks</publisher>
+		<rom name="partner 128.g64" size="287512" crc="9b2ac8d5" sha1="8143cafa623bb53b92a37d7ee2cc7d77080d80ea" />
+		<rom name="partner 128" size="16384" crc="686a6881" sha1="53d4bcf7aff40f1642bc143626b63beb3c8478dc" />
+	</machine>
+	<machine name="vstar128">
+		<description>VizaStar 128: The Information Processor</description>
+		<year>1984</year>
+		<publisher>Viza</publisher>
+		<rom name="vizastar 128.g64" size="333744" crc="f45ef840" sha1="456480c22cb9204c50d8586fe988903fefd52257" />
+	</machine>
+	<machine name="vwrit128">
+		<description>VizaWrite 128</description>
+		<year>1985</year>
+		<publisher>Viza</publisher>
+		<rom name="vizawrite 128.bin" size="8192" crc="b4846e5d" sha1="ab250d5bd264faacffea68fd0791d9956e7282e8" />
+		<rom name="vizawrite 128.d81" size="819200" crc="e0ea7b98" sha1="2b1acf1f3916883df9216b593e64a98b03e7b957" />
+	</machine>
+</datafile>

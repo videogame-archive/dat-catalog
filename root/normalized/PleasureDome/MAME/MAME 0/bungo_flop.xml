@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>bungo_flop</name>
+		<description>NEC Bungo disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="pwp50sx">
+		<description>Bungo Utilities (pwp50sx)</description>
+		<year>1991</year>
+		<publisher>NEC</publisher>
+		<rom name="pwp50sx-auxiliary-disk.imd" size="613572" crc="f83c3e57" sha1="c57aa9bb02fbc4be2e4e28de809d1eabe386ac6b" />
+		<rom name="pwp50sx-font-disk.imd" size="615616" crc="11a42466" sha1="16ef33e0d708245a69c6f8fa7b8c6f13b27461dd" />
+		<rom name="pwp50sx-sample-disk.imd" size="707085" crc="12f681f4" sha1="8b1a8ad7fd1c4ed08067296ab7d389cf51d94d1b" status="baddump" />
+		<rom name="pwp50sx-spreadsheet-disk.imd" size="185865" crc="3ed7c387" sha1="89972768f57d798597aebaefc938d3ca9ba99351" />
+	</machine>
+	<machine name="tetris">
+		<description>Tetris (Mini5)</description>
+		<year>1991</year>
+		<publisher>Tokyo System House</publisher>
+		<rom name="mini5-tetris.imd" size="355203" crc="d369f80b" sha1="156a339746057b483e0f104dc69a3bf70cd18a26" />
+	</machine>
+</datafile>

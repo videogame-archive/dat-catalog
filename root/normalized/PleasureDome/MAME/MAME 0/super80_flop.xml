@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>super80_flop</name>
+		<description>Dick Smith Super-80 floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm">
+		<description>CP/M boot disk</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cpm.imd" size="470469" crc="5f244055" sha1="1fd601efba719d2ee2fb58671f8584aca0e473b0" />
+	</machine>
+	<machine name="dos">
+		<description>Super-80 DOS disk</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="s80dos.imd" size="69347" crc="42b3b094" sha1="52ae93b07b9c6a8492bdcf56cbb13685fff47ec5" />
+	</machine>
+	<machine name="dosgames">
+		<description>Super-80 DOS disk with games</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="s80dosb0.imd" size="558331" crc="2a437bd3" sha1="be2125fee65d4b3f4da59f9ad76598e2bd7d95af" />
+	</machine>
+</datafile>

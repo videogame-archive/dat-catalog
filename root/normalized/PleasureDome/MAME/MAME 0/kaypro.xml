@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>kaypro</name>
+		<description>Kaypro CP/M disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="calc">
+		<description>Perfect Calc v1.00</description>
+		<year>1982</year>
+		<publisher>Perfect Software</publisher>
+		<rom name="perfect calc v1.00 (1982)(perfect software).imd" size="163451" crc="d7c79f18" sha1="3666da3855bfc9c82a328fee67906ac04b6bd75b" />
+	</machine>
+	<machine name="cpm22f">
+		<description>CP/M 2.2F (81-292)</description>
+		<year>19??</year>
+		<publisher>Digital Research</publisher>
+		<rom name="k4f-292.td0" size="270208" crc="8309cabe" sha1="7eb6829aaadae67b71bf4bfa19ce72f1e780747e" />
+	</machine>
+	<machine name="cpm22g">
+		<description>CP/M 2.2G (81-292-A)</description>
+		<year>19??</year>
+		<publisher>Digital Research</publisher>
+		<rom name="kp22gdsd.td0" size="202620" crc="6ab35630" sha1="106fb294b719d620abd82ee74f0f16130264e3d1" />
+	</machine>
+	<machine name="cpm22">
+		<description>CP/M 2.2</description>
+		<year>19??</year>
+		<publisher>Digital Research</publisher>
+		<rom name="cp-m 2.2 (19xx)(digital research).imd" size="188479" crc="602c4f18" sha1="c4158b4f84066514af2b74cb6d0915f661402819" />
+	</machine>
+	<machine name="cpmboot">
+		<description>CP/M 2.2 Boot Disk (Ger)</description>
+		<year>19??</year>
+		<publisher>Digital Research</publisher>
+		<rom name="cp-m 2.2 boot disk (19xx)(digital research)(de).td0" size="139911" crc="ab5d7ae0" sha1="b73622c17306e32b42cef31d58616378329605ef" />
+	</machine>
+	<machine name="k28422g">
+		<description>CP/M 2.2G</description>
+		<year>19??</year>
+		<publisher>Digital Research</publisher>
+		<rom name="k284-22g.td0" size="111880" crc="d80ce9a0" sha1="0d3da88129ad7ff04079b2a7fe73f19f5da21681" />
+	</machine>
+	<machine name="kay10a0s">
+		<description>CP/M 2.2F</description>
+		<year>19??</year>
+		<publisher>Digital Research</publisher>
+		<rom name="kay10a0s.imd" size="357406" crc="adfb4421" sha1="684758a5ddf467aba3be46c62f59bebcb97bbc1b" />
+	</machine>
+	<machine name="kay10games">
+		<description>Kaypro 10 Games</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="kay10b0a.imd" size="382955" crc="f52ac968" sha1="1acc4d20bc1bfd3db8adbc28226bffdf3940c350" />
+	</machine>
+	<machine name="kiv22">
+		<description>CP/M 2.2 for Kaypro IV</description>
+		<year>19??</year>
+		<publisher>Digital Research</publisher>
+		<rom name="kiv-22.imd" size="353849" crc="99182539" sha1="d4b5a6a0a0038fc12aa39a7dd17006f1c71198df" />
+	</machine>
+	<machine name="profit">
+		<description>Profit Plan</description>
+		<year>1982</year>
+		<publisher>Chang Laboratories</publisher>
+		<rom name="profit plan (1982)(chang laboratories).imd" size="113909" crc="1d967882" sha1="03d00c14e57e0e84e0e1fa127ab36b47d1731ea4" />
+	</machine>
+	<machine name="speller">
+		<description>Perfect Speller</description>
+		<year>1982</year>
+		<publisher>Perfect Software</publisher>
+		<rom name="perfect speller (1982)(perfect software).imd" size="150160" crc="c03fc828" sha1="4a405c65a55b5ba9be17b638cfe9c0b539698fbc" />
+	</machine>
+	<machine name="synhcs">
+		<description>Synergy Host Control System 10/11/85</description>
+		<year>1985</year>
+		<publisher>Digital Keyboards</publisher>
+		<rom name="synhcs.imd" size="191031" crc="c87f1400" sha1="550c6c35e7605956498345df3c151b6abd89b62d" />
+	</machine>
+	<machine name="teach">
+		<description>Select - Teach</description>
+		<year>1981</year>
+		<publisher>Select Information Systems</publisher>
+		<rom name="select - teach (1981)(select information systems).imd" size="148661" crc="459b51f0" sha1="7bb16452689cbb39a9c8a2088306a98b2f3ca31a" />
+	</machine>
+	<machine name="wordstar">
+		<description>WordStar v3.3</description>
+		<year>1983</year>
+		<publisher>MicroPro</publisher>
+		<rom name="wordstar v3.3 (1983)(micropro).imd" size="202296" crc="64e0f3d6" sha1="6abf468d538e65e82bc0b85cc5d656282048ce3c" />
+	</machine>
+	<machine name="workproc">
+		<description>Select - Work Processor</description>
+		<year>1981</year>
+		<publisher>Select Information Systems</publisher>
+		<rom name="select - work processor (1981)(select information systems).imd" size="106254" crc="ebcb98c5" sha1="1c8d1a3228e6ac5fdffe7409d921499db22fea72" />
+	</machine>
+	<machine name="writer">
+		<description>Perfect Writer</description>
+		<year>1982</year>
+		<publisher>Perfect Software</publisher>
+		<rom name="perfect writer (1982)(perfect software).imd" size="197701" crc="43cb00ac" sha1="67145d125f3f50e660ae8b2e299aad8200d59a7f" />
+	</machine>
+	<machine name="writerdoc">
+		<description>Perfect Writer - Docs and Utilities</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="perfect writer - docs and utilities (198x)(-).imd" size="151202" crc="94cda75d" sha1="46348510ff682ef3a8a1e5a27f1625beae21980e" />
+	</machine>
+	<machine name="writerless">
+		<description>Perfect Writer - Lessons</description>
+		<year>198?</year>
+		<publisher>Perfect Software</publisher>
+		<rom name="perfect writer - lessons (198x)(perfect software).imd" size="180829" crc="b8bba8ca" sha1="6e18f014337efcb70248b8cff2483bc1d5c8ec4f" />
+	</machine>
+</datafile>

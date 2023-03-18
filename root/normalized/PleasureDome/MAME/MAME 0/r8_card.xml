@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>r8_card</name>
+		<description>Roland R-8 PCM memory cards</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="sn_r8_01">
+		<description>SN-R8-01 Contemporary Percussion</description>
+		<year>1989</year>
+		<publisher>Roland</publisher>
+		<rom name="sn-r8-01.bin" size="524288" crc="2a9826a7" sha1="96d07c4a6507a06999d5563fb31c03ac8ed1bef7" />
+	</machine>
+	<machine name="sn_r8_02">
+		<description>SN-R8-02 Jazz Brush</description>
+		<year>1989</year>
+		<publisher>Roland</publisher>
+		<rom name="sn-r8-02.bin" size="524288" crc="e7a87f57" sha1="ee248e0230f10a09b7524f5951ba87ae3756c26a" />
+	</machine>
+</datafile>

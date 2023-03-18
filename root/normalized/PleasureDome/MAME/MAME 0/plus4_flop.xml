@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>plus4_flop</name>
+		<description>Commodore Plus/4 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="1551demo">
+		<description>Commodore 1551 Test Demo</description>
+		<year>198?</year>
+		<publisher>Commodore</publisher>
+		<rom name="1551-demo.d64" size="174848" crc="bf6da2a0" sha1="67b694cf6551991d6b87f7bdc03f8f58aa55dbce" />
+	</machine>
+	<machine name="ace">
+		<description>ACE: Air Combat Emulator</description>
+		<year>1985</year>
+		<publisher>Cascade</publisher>
+		<rom name="ace[cascade_1985](plus4).g64" size="333744" crc="ecaab593" sha1="40d0edd9ced2a7e40b39dce13176615985267bc4" />
+	</machine>
+	<machine name="typingpr">
+		<description>Typing Professor</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="typing_professor[cbm_1984](plus4).g64" size="333744" crc="cbd6750a" sha1="f6963a92d9ebaa1125a0203c16e1293fe3d38852" />
+	</machine>
+	<machine name="zork2">
+		<description>Zork II: The Wizard of Frobozz (R48)</description>
+		<year>1984</year>
+		<publisher>Commodore</publisher>
+		<rom name="zork_ii[infocom_1984](r48)(plus4).g64" size="333744" crc="053bfe1a" sha1="b55d2be8ca179d758fad8871bba55e3b84a9f5ee" />
+	</machine>
+</datafile>

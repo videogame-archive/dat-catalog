@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>leapster</name>
+		<description>LeapFrog Leapster cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="1stgrade">
+		<description>1st Grade (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11000.bin" size="8388608" crc="db36283f" sha1="9f9509313a0ebdac84c2dc02566fedf04ea0eee7" />
+	</machine>
+	<machine name="2ndgrade">
+		<description>2nd Grade - Musical Menace (USA)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="2nd Grade [500-10957-A].bin" size="8388608" crc="597418d4" sha1="b3933dca626e930fa89001fb256b5765e4d0a1f6" />
+	</machine>
+	<machine name="adibou">
+		<description>Adibou - A La Recherche De Robitoc (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12475-a.bin" size="8388608" crc="b0ba6d76" sha1="d5bf632b9c2a7850f9a6e1ce855ac48af366f859" />
+	</machine>
+	<machine name="amuspark">
+		<description>My Amusement Park (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13682-a.bin" size="8388608" crc="2fc77c9d" sha1="266e08439be2c91fbc9942c3620f49459c157fcc" />
+	</machine>
+	<machine name="backyard">
+		<description>Nick Jr. The Backyardigans (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="The Backyardigans [500-12100-A].bin" size="8388608" crc="d5c3876f" sha1="38f3a493c0312595a84ef9df2a93c8a95f3b9d40" />
+	</machine>
+	<machine name="backyarda">
+		<description>Nick Jr. The Backyardigans (USA, alt)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13453-a.bin" size="8388608" crc="de5fb26e" sha1="2a1df737ec907d1f1b837f9b58323ee908cb45a9" />
+	</machine>
+	<machine name="batmanmdc">
+		<description>The Batman - Multiply, Divide and Conquer (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Batman - Multiply, Divide and Conquer [500-11203-A].bin" size="8388608" crc="bf60ee5f" sha1="37b98a1bbb53fb0372c6c4e500d255c59d7585dd" />
+	</machine>
+	<machine name="batmanmdcg">
+		<description>The Batman - Multipliziere, dividiere und regiere (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11972-a.bin" size="8388608" crc="a0a362aa" sha1="442455a0bf2c3ca4c1084a1e8761eb80a4cd71e2" />
+	</machine>
+	<machine name="batmansn">
+		<description>The Batman - Strength in Numbers (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12711-a.bin" size="8388608" crc="7c934681" sha1="8db48ba9caa2f87922cb289520acd97d9931a178" />
+	</machine>
+	<machine name="batmansns">
+		<description>The Batman - El Poder De Los Números (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12830-a.bin" size="8388608" crc="6a7afd1c" sha1="3ae1372253b852b2cef8bfd549050b324375bda9" />
+	</machine>
+	<machine name="bratzwjs">
+		<description>Bratz World - The Jet Set (USA)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Bratz World The Jet Set [500-11201-A].bin" size="8388608" crc="5d4f7cd0" sha1="7af7c31ed911918f4ceab8394696cb76c42ad2fc" />
+	</machine>
+	<machine name="brunobls">
+		<description>Lernst du Malen &amp; Schreiben - Mit Bruno Bleistift (Germany)</description>
+		<year>2004?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11493-a.bin" size="8388608" crc="e58eac06" sha1="a2f8c6df81fd5f72f6894b153306fd871fd20aac" />
+	</machine>
+	<machine name="cars2">
+		<description>Cars 2 (USA)</description>
+		<year>2011</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-14320-A - Cars 2 (US).bin" size="8388608" crc="29af42ba" sha1="01263c4b6b178599eca818a514f9a668bdf9081d" />
+	</machine>
+	<machine name="cars">
+		<description>Cars (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12098-a.bin" size="8388608" crc="d4a7e5d4" sha1="c831db237e73e61e863e4f477dcc0298488b3d69" />
+	</machine>
+	<machine name="carsf">
+		<description>Cars (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12414-a.bin" size="8388608" crc="b6aabb7b" sha1="82cc91536be8c18c10089c4ad85b9a82e63b824b" />
+	</machine>
+	<machine name="carsg">
+		<description>Cars (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12171-a.bin" size="8388608" crc="c7b62602" sha1="bbc2b70e588710b2096741046ae3e08095397ee9" />
+	</machine>
+	<machine name="carss">
+		<description>Cars (Spain)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12223-a.bin" size="8388608" crc="2a704606" sha1="069f0e139231a3786472ab139e3d28bb2f2e098e" />
+	</machine>
+	<machine name="carssc">
+		<description>Cars - Supercharged (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12712-a.bin" size="8388608" crc="beca3909" sha1="8cda80251d6e45427dba6acbae5dff306eb84d34" />
+	</machine>
+	<machine name="clifread">
+		<description>Clifford - The Big Red Dog - Reading (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12466-a.bin" size="8388608" crc="0134af49" sha1="29c3e2e9d56aeee09c752776bfd8c096e02b75c5" />
+	</machine>
+	<machine name="cosmicmt">
+		<description>Cosmic Math - Arcade-Style Learning! (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11994-a.bin" size="4194304" crc="979346d5" sha1="ecd8d3f7bae4fea1710ee99c5637224180021dd6" />
+	</machine>
+	<machine name="cosmicmtg">
+		<description>Weltraum-Mathe - Lernen im Arcade-Stil! (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12140-a.bin" size="4194304" crc="75164c8e" sha1="6bebaef0d3b6f8a1a4b2bb957a00a0cce4ed65a2" />
+	</machine>
+	<machine name="crayolaaa">
+		<description>Crayola - Art Adventure (USA)</description>
+		<year>2011</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Crayola Art Adventure [500-14464-A].bin" size="8388608" crc="0eec61a7" sha1="fee48855b67de532f64848dabaf41b6390841060" />
+	</machine>
+	<machine name="createcr">
+		<description>Creature Create (USA)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12677-A - Creature Create (US).bin" size="8388608" crc="9f08d02a" sha1="82a408b87ff5df6f17d314af17cd20ff4847b30f" />
+	</machine>
+	<machine name="demo">
+		<description>Demo - Herbst 2004 II (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11603-a.bin" size="8388608" crc="71062cd7" sha1="eaf0656d29f61d89b97c6d66e73a2fa7021a92e3" />
+	</machine>
+	<machine name="diegogo">
+		<description>Go Diego Go! - Animal Rescuer (USA)</description>
+		<year>2007?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13447-a.bin" size="8388608" crc="ebbf83a0" sha1="2412607b40f8e46881368607b4fe15ecf2f2e9eb" />
+	</machine>
+	<machine name="digdino">
+		<description>Scholastic - Digging for Dinosaurs (USA)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13681-a.bin" size="8388608" crc="822ca3da" sha1="ff0ac7f5fded346553e1a4697b45c27fc04ee3fe" />
+	</machine>
+	<machine name="dispixcoll">
+		<description>The Disney-Pixar Collection (USA)</description>
+		<year>2011</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-14492-A - The Disney-Pixar Collection (US).bin" size="8388608" crc="d8ac1a09" sha1="bb6ae8a09a69133a116bd6ffc2b2bf23724b6da5" />
+	</machine>
+	<machine name="doraar">
+		<description>Nick Jr. Dora the Explorer - Animal Rescuer (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Dora the Explorer - Animal Rescuer [500-01171].bin" size="8388608" crc="635f07e6" sha1="cd1772d874e5a3c1b9a82a420d251c7da473d525" />
+	</machine>
+	<machine name="doraarf">
+		<description>Dora L'Exploratrice - Au Secours Des Animaux (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12339-a.bin" size="8388608" crc="e557c760" sha1="964150dfd525188a0e8d6bcbc715f9a40e4c6779" />
+	</machine>
+	<machine name="doraarg">
+		<description>Nick Jr. Dora - Retter der Wildnis (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12562-b.bin" size="8388608" crc="242907d4" sha1="262ee3e208fff0fc362bc879416cbdf31bf38304" />
+	</machine>
+	<machine name="doraca">
+		<description>Nick Jr. Dora the Explorer - Camping Adventure (USA)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13405-a.bin" size="8388608" crc="71778536" sha1="9f8c5e02519def049078614dacc76b990e911add" />
+	</machine>
+	<machine name="dorapp">
+		<description>Nick Jr. Dora the Explorer - Piñata Party! - Arcade Style Learning! (USA)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12161-a.bin" size="4194304" crc="ea544030" sha1="a9aaf73e5259db303f8bfc39bd6d7b40bddb127f" />
+	</machine>
+	<machine name="dorawr">
+		<description>Nick Jr. Dora the Explorer - Wildlife Rescue (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Dora the Explorer - Wildlife Rescue [500-11001] 152-11577.bin" size="8388608" crc="991ced60" sha1="6cbf763c0e74438ac266501d20987b05cf8a3125" />
+	</machine>
+	<machine name="dorawra">
+		<description>Nick Jr. Dora the Explorer - Wildlife Rescue (USA, alt)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Dora the Explorer - Wildlife Rescue [500-11001] 152-10401.bin" size="8388608" crc="2a20cbbb" sha1="0ba77d84b84db63035688626dd3df6b10a676e17" />
+	</machine>
+	<machine name="dorawrf">
+		<description>Dora L'Exploratrice - Le Pont Casse (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12392-a.bin" size="4194304" crc="b6607eee" sha1="278e89cdc99bdd9284447f31a1fd23de36eb8dca" />
+	</machine>
+	<machine name="dorawrlmx">
+		<description>Nick Jr. Dora the Explorer - Wildlife Rescue (USA, L-MAX)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11904-A.bin" size="8388608" crc="74af5d57" sha1="0436c64cc08089e9ca96b006d54bf00120685e6e" />
+	</machine>
+	<machine name="fairies">
+		<description>Disney Fairies (USA)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Disney Fairies [500-13748-A].bin" size="8388608" crc="8a605512" sha1="5f22ab2fd695795267fba88bba19ddea3a2bf9f5" />
+	</machine>
+	<machine name="fairiess">
+		<description>Disney Fairies (Spain)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13763-a.bin" size="8388608" crc="d2f560c7" sha1="7a9a8f78eb245c3b8600b0658f1d1b1fa99e6a5c" />
+	</machine>
+	<machine name="findnemo">
+		<description>Disney·Pixar Finding Nemo (USA)</description>
+		<year>2005?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10775-a.bin" size="8388608" crc="1895f946" sha1="8baf4f44f64d17333a82ce29e59c62e51e45c0c0" />
+	</machine>
+	<machine name="findnemoa">
+		<description>Disney·Pixar Finding Nemo (USA, alt)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Finding Nemo [500-10775-A].bin" size="8388608" crc="dd62dd31" sha1="5c28cddf6eb4271c2bd98a3545f1b9c0de164c15" />
+	</machine>
+	<machine name="findnemog">
+		<description>Disney·Pixar Findet Nemo (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11495-a.bin" size="8388608" crc="6a5e20ba" sha1="984638e1d9b869611de8900d8f5a6a760cd40539" />
+	</machine>
+	<machine name="findnemos">
+		<description>Disney·Pixar Buscando a Nemo - Leer Bajo el Mar (Spain)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12227-A - Buscando a Nemo (Spa).bin" size="8388608" crc="7aa17c75" sha1="798e2bf0d2decc08430ff5d3009b60dffa341aba" />
+	</machine>
+	<machine name="getpuzld">
+		<description>Get Puzzled! (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12692-a.bin" size="8388608" crc="05b608f0" sha1="04b3181f39e88b6cd47e39a7efb50fa14618ff2c" />
+	</machine>
+	<machine name="grund1">
+		<description>Grundschule 1 (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10935-a.bin" size="8388608" crc="6fd44f1a" sha1="fe6e8e1aaf72901820ee99d22dcc40a01d627fac" />
+	</machine>
+	<machine name="grund2">
+		<description>Grundschule 2 - Musik in Gefahr (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11494-a.bin" size="8388608" crc="96d30f93" sha1="61dd156ae456a370a021061da9b3a4e33bda371e" />
+	</machine>
+	<machine name="hugenose">
+		<description>Reading with Phonics - Mole's Huge Nose (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10829-a.bin" size="8388608" crc="2c6e623e" sha1="c298181f00109b7f863fdb12b5bd462085c4ff4f" />
+	</machine>
+	<machine name="imagfrnd">
+		<description>Foster's Home for Imaginary Friends (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12715-a.bin" size="8388608" crc="e62d1684" sha1="e43820efe9dbd8dddf6312493a7967c75a29431a" />
+	</machine>
+	<machine name="incredibles">
+		<description>The Incredibles (USA)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="The Incredibles [500-10812-A].bin" size="8388608" crc="f1d6db36" sha1="ecb356d64b386b8f5a1aa8145995ef5ab0818b31" />
+	</machine>
+	<machine name="ispy">
+		<description>I Spy - Treasure Hunt (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13298-a.bin" size="8388608" crc="7c716016" sha1="35512ea5c267f5540cbfa64a4d35ebc54464fd31" />
+	</machine>
+	<machine name="ispychl">
+		<description>Scholastic - I Spy - Challenger (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11929-A - Scholastic I Spy - Challenger (US).bin" size="8388608" crc="da56181c" sha1="952a3135131b6543b7e6b4f784c7a239cfd6e75a" />
+	</machine>
+	<machine name="jedimath">
+		<description>Star Wars - Jedi Math (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13306-a.bin" size="8388608" crc="27000674" sha1="a7e8e63ab74931ad9546aba20755714df572badb" />
+	</machine>
+	<machine name="jedimaths">
+		<description>Star Wars - Matemáticas Jedi (Spain)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13417-a.bin" size="8388608" crc="cf835b84" sha1="31ab97019d5e1fafa05cdb3a359e3c512a089b01" />
+	</machine>
+	<machine name="kinderga">
+		<description>Kindergarten (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10999 - Kindergarten (US).bin" size="8388608" crc="db262164" sha1="2ece5050d65d020cce70e220af3c11c9827029ac" />
+	</machine>
+	<machine name="kindergaa">
+		<description>Kindergarten (USA, alt)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Kindergarten [500-01170].bin" size="8388608" crc="70bfed0f" sha1="8eafada11a49c6c36f0c168e31984aa92c4516d1" />
+	</machine>
+	<machine name="kirikou">
+		<description>Dis Pourquoi Kirikou (France)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13366-a.bin" size="8388608" crc="fdcd1321" sha1="fbe422df83608a75f96168f83b32f45b700dacd5" />
+	</machine>
+	<machine name="lernleap">
+		<description>Learning with Leap (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10093 - Learning with Leap (US).bin" size="8388608" crc="2c1fcf40" sha1="ee9dbfa8aabda493cc2a34dc82b253122fa96c91" />
+	</machine>
+	<machine name="lernleapg">
+		<description>Lernen mit Leap (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11078-a.bin" size="8388608" crc="e1f505e7" sha1="935eb17d3b6f9df2115a12445b3c8c977005481a" />
+	</machine>
+	<machine name="letrfactry">
+		<description>Letter Factory (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Letter Factory [500-10587].bin" size="16777216" crc="9d1c2f35" sha1="9623c50017499e52458fc23887b24db3649d1d75" />
+	</machine>
+	<machine name="letrpilr10">
+		<description>Letterpillar (USA, v1.0)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11995-A - Letterpillar (v1.0) (US).bin" size="4194304" crc="fa919dff" sha1="dfb24dda3c2ca692495d9ad78f209645bf6e1b67" />
+	</machine>
+	<machine name="letrpilr">
+		<description>Letterpillar (USA, v1.1)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12350-A - Letterpillar (US).bin" size="4194304" crc="9b86a0fb" sha1="c7d5381205340f85b302342cbe518f20c959a193" />
+	</machine>
+	<machine name="lettontllmx">
+		<description>Letters on the Loose (USA, L-MAX)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11779-A.bin" size="8388608" crc="b186a3bf" sha1="10bfa48a7627905bd9ba6af8399f70d35f814ded" />
+	</machine>
+	<machine name="madagasclmx">
+		<description>Madagascar (USA, L-MAX)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11202-A.bin" size="8388608" crc="a9c75d90" sha1="3509eb76178a20037fb277d2d0cf062dedbaba47" />
+	</machine>
+	<machine name="mathbsbl">
+		<description>Math Baseball (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Math Baseball [500-10441].bin" size="8388608" crc="fe8bd3fd" sha1="83c2cbc82826ba4aa8320463060b203641c86940" />
+	</machine>
+	<machine name="mrpencil">
+		<description>Mr. Pencil's Learn to Draw &amp; Write (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11003.bin" size="8388608" crc="dbb767cc" sha1="280b18a8cdf3ae09c5c7b32b8e592a8e2890302c" />
+	</machine>
+	<machine name="mrpencila">
+		<description>Mr. Pencil's Learn to Draw &amp; Write (USA, alt)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Mr. Pencils Learn to Draw and Write [500-11003] 152-11702.bin" size="8388608" crc="4e88e131" sha1="703d09b5b6c7c04cc892b0fbd2ade8854fe1e300" />
+	</machine>
+	<machine name="mrpencils">
+		<description>Don Lápiz - Aprender a Dibujar y Escribir (Spain)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12206-A - Don Lapiz - Aprender a Dibujar y Escribir (Spa).bin" size="8388608" crc="e6e50c84" sha1="9fb971ac661618bad549f37fbad28ffdd3873a30" />
+	</machine>
+	<machine name="nascarlmx">
+		<description>NASCAR (USA, L-MAX)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12099-A.bin" size="8388608" crc="95c78f34" sha1="91619b2f1297b8d07c6122b92b8ff33f6f6c1629" />
+	</machine>
+	<machine name="nihaokail">
+		<description>nihao, kai-lan (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Ni Hao Kai-Lan [500-13629-A].bin" size="8388608" crc="365b09bc" sha1="dae6108eec5498635332113aeccbfa4edfa86dac" />
+	</machine>
+	<machine name="noddyf">
+		<description>Oui-Oui - Aventures Au Pays Des Jouets (France)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12799-a.bin" size="8388608" crc="24c28bcd" sha1="f6af3d9629d66d71fcb0acf731bd0295e1142135" />
+	</machine>
+	<machine name="numbrunlmx">
+		<description>Numbers on the Run - Counting on Zero (USA, L-MAX)</description>
+		<year>2005?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11777-a.bin" size="8388608" crc="01f12ce7" sha1="6e468f68b57d93777347d6a2e8ce15b79ccefb7f" />
+	</machine>
+	<machine name="numraid">
+		<description>Number Raiders - Arcade-Style Learning (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11993-A - Number Raiders (US).bin" size="4194304" crc="0f6d55cf" sha1="f30e7d55c5222e85aca08819ff613343b91138a4" />
+	</machine>
+	<machine name="numraidf">
+		<description>A La Conquête Des Nombres - Un Jeu D'Arcade Éducatif! (France)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12413-a.bin" size="4194304" crc="c12334cf" sha1="b601d42a0cca30e3a4595cdd7f4ad24e89b82e41" />
+	</machine>
+	<machine name="numraidg">
+		<description>Zahlenjäger - Lernen im Arcade-Stil! (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12141-a.bin" size="4194304" crc="334ab5d0" sha1="00eb76e267bfaded25fdf8361e933dc4ec72d059" />
+	</machine>
+	<machine name="numraids">
+		<description>La Conquista de los Números (Spain)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12202-A - La Conquista de los Numeros (Spa).bin" size="4194304" crc="2fb737c6" sha1="6490a57d98f83ef96b0f4f783632a97c0fa460e4" />
+	</machine>
+	<machine name="penguins">
+		<description>Nickelodeon The Penguins of Madagascar - Race for 1st Place! (USA)</description>
+		<year>2010</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="The Penguins of Madagascar [500-14007-B].bin" size="8388608" crc="076ad299" sha1="bcab8dc869c8e90bb54257fe0a030f4a8599a1b6" />
+	</machine>
+	<machine name="petpals">
+		<description>Pet Pals (USA)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Pet Pals [500-12676-A].bin" size="8388608" crc="5a013b83" sha1="87df54e89d788716fe3a651a20d517b0c4c80654" />
+	</machine>
+	<machine name="petpalsa">
+		<description>Pet Pals (USA, alt)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13446-a.bin" size="8388608" crc="3c428a13" sha1="b90cdd518178849efabf7e3e17bf99072d964fad" />
+	</machine>
+	<machine name="petpalss">
+		<description>Perrito Club - ¡Adopta Un Nuevo Amiguito Y Aprende! (Spain)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12824-a.bin" size="8388608" crc="b6d630e0" sha1="680508d157425523b8b0da3d99408e68c241acd0" />
+	</machine>
+	<machine name="princefrog">
+		<description>The Princess and the Frog (USA)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="The Princess and the Frog [500-13556-A].bin" size="8388608" crc="c29a72e2" sha1="f9e010565fee6d96a2b97a67fc3b960e2c754fee" />
+	</machine>
+	<machine name="princel">
+		<description>Disney Princess - Enchanted Learning (USA)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Disney Princess - Enchanted Learning [500-10810-A].bin" size="8388608" crc="8c2fe2e8" sha1="e4400ec8d505ff1e8def76757ed3d9251086f176" />
+	</machine>
+	<machine name="princelf">
+		<description>Disney Princesse - La Magie D'Apprendre (France)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12411-a.bin" size="8388608" crc="69eaa1ea" sha1="a7072e5fe5d143ad65fb16ad13bf738b1b43552f" />
+	</machine>
+	<machine name="princelg">
+		<description>Disney Prinzessinnen - Zauberhaftes Lernen (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11496-a.bin" size="8388608" crc="bb6d5375" sha1="743d07ee756b54e2c72bf94da56dd8d18c4cd106" />
+	</machine>
+	<machine name="princels">
+		<description>Disney Princesa - La Magia De Aprender (Spain)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12218-a.bin" size="8388608" crc="5a52d3f0" sha1="072353a79c124855c5904137f15e8a84ad622914" />
+	</machine>
+	<machine name="princess">
+		<description>Disney Princess (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13514-a.bin" size="8388608" crc="5ccb2ad3" sha1="42740f6597f4a2eb878a54ddbf75452a2cca301d" />
+	</machine>
+	<machine name="princwen">
+		<description>Disney Princess - Worlds of Enchantment (USA)</description>
+		<year>2007?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13448-a.bin" size="8388608" crc="2465f01d" sha1="d37d7ea21cf8ed01ecf497c3c99185529aee59af" />
+	</machine>
+	<machine name="princwena">
+		<description>Disney Princess - Worlds of Enchantment (USA, alt)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Disney Princess - Worlds of Enchantment [500-12713-A].bin" size="8388608" crc="96a19f32" sha1="d338b4eee7c94f8647576288995623c7493d6dcc" />
+	</machine>
+	<machine name="ratat">
+		<description>Ratatouille (USA)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13445-A - Ratatouille (US).bin" size="8388608" crc="d0c4de47" sha1="372c61285eee5c8ce2670d12bedb09150fdaaa45" />
+	</machine>
+	<machine name="ratata">
+		<description>Ratatouille (USA, alt)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Ratatouille [500-12654-A].bin" size="8388608" crc="b8920c83" sha1="e3f2393e193a981305e738ea3314be5593a035b3" />
+	</machine>
+	<machine name="ratatf">
+		<description>Ratatouille (France)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12674-a.bin" size="8388608" crc="8f835af7" sha1="f3a67125ac50ce793a80ac2978e4e656b6696642" />
+	</machine>
+	<machine name="ratatg">
+		<description>Ratatouille (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12738-a.bin" size="8388608" crc="df729fe7" sha1="af3c6b80d075f469388395cb065efa8bd6aeeab1" />
+	</machine>
+	<machine name="riviere">
+		<description>La Rivière Des Lapins + L'Atelier De Peinture (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12393-a.bin" size="4194304" crc="e8c84241" sha1="dfdf21c90ce5807459c90d515f28f838effacde6" />
+	</machine>
+	<machine name="rrabbitf">
+		<description>Lapin Malin - Danse Avec Les Mots (France)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12800-a.bin" size="8388608" crc="680f3323" sha1="fc28a2b4e86cbdbf5f3218bd36fb7b72d9bd44d3" />
+	</machine>
+	<machine name="scanimalgn">
+		<description>Scholastic - Animal Genius (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Scholastic Animal Genius [500-12293-A].bin" size="8388608" crc="af063ba4" sha1="af22fdbb0466e1a078e68fe26752e606b529fcca" />
+	</machine>
+	<machine name="scmathmis">
+		<description>Scholastic - Math Missions (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Scholastic Math Missions [500-11898-A].bin" size="8388608" crc="df2cd38c" sha1="fa6f4ec1beb132dea9163a1b078c90e7e3a664ca" />
+	</machine>
+	<machine name="scoobsnk">
+		<description>Scooby-Doo! - Spooky Snacks! (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12160-A - Scooby Doo - Spooky Snacks (US).bin" size="4194304" crc="19da3dd8" sha1="8966d8d1e65ea0f778c9b435de94da793a874efe" />
+	</machine>
+	<machine name="scoobsnkf">
+		<description>Scooby-Doo! - Et Les Nombres Fous! (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12629-a.bin" size="4194304" crc="648e3ee5" sha1="b483b8e04a287f3b6c2a80deabfd5812963b413b" />
+	</machine>
+	<machine name="scooby">
+		<description>Scooby Doo! (USA)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-14005-A - Scooby Doo (US).bin" size="8388608" crc="4cd2c497" sha1="9f06cb4aba2399464a799910be9df1d5678bb23a" />
+	</machine>
+	<machine name="scoutwit">
+		<description>Scholastic - OutWit! (USA)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13299-A.bin" size="8388608" crc="9e69c26a" sha1="395de47ca1e89eb63f4ff316d15da9b0425488d1" />
+	</machine>
+	<machine name="scramerrock">
+		<description>School House Rock! - America Rock (USA)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Schoolhouse Rock - America Rock [500-11529-A].bin" size="16777216" crc="43bb0b63" sha1="ca66e8229c622f0216246fa1504bbeef95b99668" />
+	</machine>
+	<machine name="scrgramrock">
+		<description>School House Rock! - Grammar Rock (USA)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Schoolhouse Rock - Grammar Rock [500-11528-A].bin" size="16777216" crc="53c9d9b2" sha1="3dc06fcb257cb8a6e7e14c4b1fce078dd41a0bb5" />
+	</machine>
+	<machine name="sonicx">
+		<description>SonicX (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12296-a.bin" size="8388608" crc="a9d2cdbd" sha1="e239b209239252f0f6cd2a4c71d2a46a3abfd5eb" />
+	</machine>
+	<machine name="spidermn">
+		<description>Marvel Spider-Man - The Case of the Sinister Speller (USA)</description>
+		<year>2004</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10825-a.bin" size="8388608" crc="0ef61cbb" sha1="ff00b91ca8bcd2a5d1ead2c353d6d1c048994d69" />
+	</machine>
+	<machine name="spidermnf">
+		<description>Spider-Man - L'Affaire Des Mots Mystères (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12416-a.bin" size="8388608" crc="cbe0de6f" sha1="12245cfacd1b67fb4cb0cc176789a5b7c1de698a" />
+	</machine>
+	<machine name="spidermng">
+		<description>Spider-Man - Schachmatt den Schildersaboteuren! (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11497-a.bin" size="8388608" crc="9dc2e5f6" sha1="089e6739142edaaa5c0e72ba7faf6f443e1ddc59" />
+	</machine>
+	<machine name="spidermnlmx">
+		<description>Spider-Man - The Case of the Sinister Speller (USA, L-MAX)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11903-A.bin" size="8388608" crc="2eee5925" sha1="e5cd4a48d027fef14bbfc1c1304ebe9138353110" />
+	</machine>
+	<machine name="spidermns">
+		<description>Spider-Man - El Caso de Las Letras Revueltas (Spain)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12210-A - Spider-Man - El Caso de Las Letras Revueltas (Spa).bin" size="8388608" crc="96468ab9" sha1="24fab31e1b0aec1c963867da485d22b97da10660" />
+	</machine>
+	<machine name="spongeb">
+		<description>Spongebob Squarepants - Saves the Day (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="SpongeBob SquarePants Saves the Day [500-13451-A].bin" size="8388608" crc="5fcfcf3c" sha1="6cc9f4d06ec24678aba1f2c9c856c1f4e25cd612" />
+	</machine>
+	<machine name="spongeba">
+		<description>Spongebob Squarepants - Saves the Day (USA, alt)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11002.bin" size="8388608" crc="0f2ad725" sha1="258e5b006086a7fd4cfa4460f3008604a5d87e1d" />
+	</machine>
+	<machine name="spongebf">
+		<description>Bob Leponge - Heros D'un Jour (France)</description>
+		<year>2006</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12415-a.bin" size="8388608" crc="7ccf1715" sha1="000a2658a787fb56a7b4597b8170a1ee4459bb1d" />
+	</machine>
+	<machine name="spongebg">
+		<description>Spongebob Schwammkopf Hat Alles im Griff (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10933-a.bin" size="8388608" crc="d11e7c30" sha1="71a844d9f38f7bc915e716d3d5485f558e9bffe9" />
+	</machine>
+	<machine name="spongeblmx">
+		<description>Spongebob Squarepants - Saves the Day (USA, L-MAX)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11905-A.bin" size="8388608" crc="4d893b32" sha1="b108972cbd1408aa395af64ef0760e99cb956d28" />
+	</machine>
+	<machine name="spongewrm">
+		<description>Spongebob Squarepants - Through The Wormhole (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12719-a.bin" size="4194304" crc="6b24a3ef" sha1="34dfb9ddef02731440085f3a1dad80654ad29c76" />
+	</machine>
+	<machine name="spongewrmg">
+		<description>Spongebob Schwammkopf - Zeitreise durch das Wurmloch (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13273-a.bin" size="4194304" crc="8761fc61" sha1="90b0e1faf6964ec74643a45b46f0b064ebf9ea8a" />
+	</machine>
+	<machine name="swjedir">
+		<description>Star Wars - Jedi Reading (USA)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13472-A - Star Wars - Jedi Reading (US).bin" size="8388608" crc="6239a178" sha1="55c09dbeaabfd21a12369aefa8eae6b7a8d7c1f3" />
+	</machine>
+	<machine name="talkingw">
+		<description>Talking WORDS Factory (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11006.bin" size="16777216" crc="58d08f36" sha1="14932442f9970ff0352e50a72c7e0cb18a64948d" />
+	</machine>
+	<machine name="tangled">
+		<description>Disney Tangled (USA)</description>
+		<year>2010</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Tangled [500-14190-A].bin" size="8388608" crc="ce9ce136" sha1="c13e3928456323935925a427dd74b55999582f28" />
+	</machine>
+	<machine name="tfcall">
+		<description>Thomas &amp; Friends - Calling all Engines! (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-11204-A - Thomas and Friends - Calling all Engines (US).bin" size="8388608" crc="5303d366" sha1="a7a65b5027d742634dd0860d3db44981c2351a05" />
+	</machine>
+	<machine name="toystor3">
+		<description>Disney·Pixar Toy Story 3 (USA)</description>
+		<year>2010</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13982-a.bin" size="8388608" crc="a72c61fd" sha1="3524a9167e6139101a27fccef4a97ef30dd928fe" />
+	</machine>
+	<machine name="tspbeeswax">
+		<description>Top-Secret Personal Beeswax - Share a journal with Junie B. (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Top-Secret Personal Beeswax [500-10777-A].bin" size="8388608" crc="78fce75a" sha1="7551e6e68daef057a2170d4dc9500af137ab4821" />
+	</machine>
+	<machine name="up">
+		<description>Up (USA)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13563-A - Up (US).bin" size="8388608" crc="1e2a5031" sha1="ab74239918208cc7dfa7377549086b59e6c40818" />
+	</machine>
+	<machine name="ups">
+		<description>Up (Spain)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13643-a.bin" size="8388608" crc="975a0a85" sha1="d89e05c3afb2377efcdddf3099819541c28ee640" />
+	</machine>
+	<machine name="vorschul">
+		<description>Vorschule (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-10934-a.bin" size="8388608" crc="4c5e775e" sha1="87819e1a95f0d435fc94697423fcfca13f463a34" />
+	</machine>
+	<machine name="walle">
+		<description>Wall-E (USA)</description>
+		<year>2007</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13272-A - Wall-E (US).bin" size="8388608" crc="c71cff35" sha1="ac31af80cf3dedf13ddb94595e2914377f85f819" />
+	</machine>
+	<machine name="walleg">
+		<description>Wall-E (Germany)</description>
+		<year>2008?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13441-a.bin" size="8388608" crc="ee2c39ea" sha1="3606a63fb783ba1e16d0466766dd456eb84b4116" />
+	</machine>
+	<machine name="walles">
+		<description>Wall-E (Spain)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13414-a.bin" size="8388608" crc="c10ab3dd" sha1="001d00815e42cd01c650d4cce81ea2a9de6d422c" />
+	</machine>
+	<machine name="wolverin">
+		<description>Wolverine and the X-Men (USA)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13744-a.bin" size="8388608" crc="67bd4a6a" sha1="70c35a12e368e19956ff43101f7125f9c5679cb2" />
+	</machine>
+	<machine name="wrdchsrs">
+		<description>Word Chasers - Arcade-Style Learning! (USA)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Word Chasers [500-12353-A].bin" size="4194304" crc="f5a3052a" sha1="9fbc15da1fbec24c8d37aeaf759619cb129d542a" />
+	</machine>
+	<machine name="wrdchsrsa">
+		<description>Word Chasers - Arcade-Style Learning! (USA, alt)</description>
+		<year>2005</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="Word Chasers [500-11996-A].bin" size="4194304" crc="9be0f98d" sha1="c86dcf16eae29d6fdf0277f2b1af63ed445082be" />
+	</machine>
+	<machine name="wrdchsrsg">
+		<description>Wörterjäger - Lernen im Arcade-Stil! (Germany)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12142-a.bin" size="4194304" crc="a707de61" sha1="76689979f08d8c585576a138579fcfb147449db5" />
+	</machine>
+	<machine name="wrdchsrss">
+		<description>El Laberinto de las Letras (Spain)</description>
+		<year>2003</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-12259-A - El Laberinto de las Letras (Spa).bin" size="4194304" crc="4a999f60" sha1="91f79a22a8f9f1af6d8ab11f7dc03858b58510d1" />
+	</machine>
+</datafile>

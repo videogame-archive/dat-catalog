@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>saitek_schess</name>
+		<description>Sensor Chess Modules</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="csss">
+		<description>Classical Style Super Strong</description>
+		<year>1982</year>
+		<publisher>SciSys</publisher>
+		<rom name="c45046_y02_mb" size="4096" crc="caff380d" sha1="5b227f0d9e457c56642bd217192744f8df60e685" />
+	</machine>
+	<machine name="strong">
+		<description>Strong Play Module</description>
+		<year>1981</year>
+		<publisher>SciSys</publisher>
+		<rom name="c69055_2316by02ma" size="2048" crc="6bae40e6" sha1="f89c769b5b6eb25909e39d9c41efbfc9f275bcd4" />
+	</machine>
+</datafile>

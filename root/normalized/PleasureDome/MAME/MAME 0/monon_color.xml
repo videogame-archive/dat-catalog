@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>monon_color</name>
+		<description>M&amp;D Monon Color cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="armorwr">
+		<description>Kǎijiǎ yǒngshì dàluàn dòu</description>
+		<year>2015</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="205.bin" size="16777216" crc="6ac78f44" sha1="fef56b0db4b8e8ff08b5cffda561ef7377063aab" />
+	</machine>
+	<machine name="bigwolf">
+		<description>Xǐyángyáng yǔ huītàiláng-juézhàn miē xīng</description>
+		<year>2015</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="302.bin" size="8388608" crc="3cd4190c" sha1="3d910389e345f2b6ac38fce3571d74fc8cbcfabb" />
+	</machine>
+	<machine name="drgnbma">
+		<description>Lóngzhū-wǔdào dàhuì</description>
+		<year>2015</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="303.bin" size="16777216" crc="9c65f7fb" sha1="41bdf33ac66df06229175e8f03500dcfa169dbbc" />
+	</machine>
+	<machine name="ielts">
+		<description>Yǎsī tǎ dà màoxiǎn</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="108.bin" size="8388608" crc="73c5d04b" sha1="e4fd91d8b86860c2ed973bc6114099a5cea41555" />
+	</machine>
+	<machine name="ironmnhs">
+		<description>Gāngtiě xiá-yīngxióng fǎnjí zhàn</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="106.bin" size="8388608" crc="837e77fc" sha1="e9e560005ce12a1e2cdbfcb98b10df923102768a" />
+	</machine>
+	<machine name="labmath">
+		<description>Àoshù shíyàn shì</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="207.bin" size="4194304" crc="51728461" sha1="aad4bb82c20ab4706c64826c2f09bf59286255f0" />
+	</machine>
+	<machine name="logicft">
+		<description>Luójí pīn yī pīn</description>
+		<year>2015</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="301.bin" size="4194304" crc="e13f48ba" sha1="dbcb52c52c8ae8e6897b981d76207b0bdd926753" />
+	</machine>
+	<machine name="lolfight">
+		<description>Yīngxióng liánméng-zhōngjí gédòu</description>
+		<year>2015</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="304.bin" size="16777216" crc="df16649c" sha1="d545e6bac47fe29a3cca3eded687bafcb34b4a1b" />
+	</machine>
+	<machine name="mechcycl">
+		<description>Jī jiǎ xuànfēng-gédòu dàshī (set 1)</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="103.bin" size="8388608" crc="e9c41a3b" sha1="6f9803235c30f521ee0936b63acad5b0a9b825ed" />
+	</machine>
+	<machine name="mechcycla">
+		<description>Jī jiǎ xuànfēng-gédòu dàshī (set 2)</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="103_alt.bin" size="8388608" crc="ce65c15d" sha1="4623e0e6bca06642c536e267d2d009c541ef1e84" />
+	</machine>
+	<machine name="rocoba">
+		<description>Luòkè wángguó-dà màoxiǎn</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="201.bin" size="16777216" crc="f2561252" sha1="a7092d6b8ad0f3e224dbfc5879965f98b9d981f0" />
+	</machine>
+	<machine name="rocobadg">
+		<description>Luòkè wángguó-wángzhě huīzhāng</description>
+		<year>2015</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="206.bin" size="16777216" crc="8cf5a3b6" sha1="608604f3701dfc7870ac24426c9bb6e5591d5f0a" />
+	</machine>
+	<machine name="rococard">
+		<description>Luòkè wángguó-kǎ pái zhàn jì</description>
+		<year>2015</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="204.bin" size="16777216" crc="0015d25c" sha1="50de7d969bead2df60e8ea4051f8518dd8989633" />
+	</machine>
+	<machine name="rocofire">
+		<description>Luòkè wángguó-hēi zhī yán</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="203.bin" size="16777216" crc="bb5d201f" sha1="ee57692fcb0271900d6ec6214820b32c2591ce74" />
+	</machine>
+	<machine name="rocoice">
+		<description>Luòkè wángguó-bīng zhī lán</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="202.bin" size="16777216" crc="e5f1e94f" sha1="ca95171b8b01367f05156656397789c66f0e0ffb" />
+	</machine>
+	<machine name="rocomagi">
+		<description>Luòkè wángguó-mófǎ zhèn</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="102.bin" size="8388608" crc="1bff052f" sha1="c459f86fe60e3ea77c4005873b38c04b52447d47" />
+	</machine>
+	<machine name="seereb">
+		<description>Sài ěr hào-néngyuán dà zuòzhàn</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="105.bin" size="4194304" crc="fd51cb0a" sha1="38dda18b48114a75f1d0fdf96a31f217d6584b30" />
+	</machine>
+	<machine name="seerfs">
+		<description>Sài ěr hào: Zhànshén dòu hún</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="101.bin" size="8388608" crc="8fee70c4" sha1="ada5e0d25d704602423594d3e8db1acbbdf0d247" />
+	</machine>
+	<machine name="ultbrain">
+		<description>Nǎolì liánlián kàn</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="109.bin" size="4194304" crc="7e78ed72" sha1="cd2ce46b60fd2d76671e43d69e7fc1938422bd2a" />
+	</machine>
+	<machine name="zinba">
+		<description>Shén pò-shīluò de yíjī</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="104.bin" size="8388608" crc="57339d56" sha1="b3bb9ea5a713e58ac7564d3a9272a8d27b587496" />
+	</machine>
+	<machine name="zombhunt">
+		<description>Jiāngshī lièrén</description>
+		<year>2014</year>
+		<publisher>M&amp;D</publisher>
+		<rom name="107.bin" size="16777216" crc="817f3292" sha1="6ed2e65fce9daf6f53c523610be03630f5742284" />
+	</machine>
+</datafile>

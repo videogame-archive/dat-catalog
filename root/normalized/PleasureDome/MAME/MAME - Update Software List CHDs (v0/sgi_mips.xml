@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sgi_mips</name>
+		<description>SGI MIPS/IRIX software</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="onyx2demo1">
+		<description>Onyx2 - As Real As it Gets Demo CD - Volume 1</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sgi-onyx2-demo-1" sha1="42a6d6e968e1c97be0aa28e32834fd127a423ccb" />
+	</machine>
+	<machine name="onyx2demo2">
+		<description>Onyx2 - As Real As it Gets Demo CD - Volume 2</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sgi-onyx2-demo-2" sha1="65f883c17c32a8d18d90872da424ec5a2d255d03" />
+	</machine>
+	<machine name="onyx2demo3">
+		<description>Onyx2 - As Real As it Gets Demo CD - Volume 3</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sgi-onyx2-demo-3" sha1="a4798ad293b23b904149bd7d72708c01a729c1be" />
+	</machine>
+</datafile>

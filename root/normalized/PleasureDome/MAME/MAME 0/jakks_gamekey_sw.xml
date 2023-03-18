@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jakks_gamekey_sw</name>
+		<description>JAKKS Pacific 'SW' Game Keys</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cscfp">
+		<description>Catamaran Strike &amp; Coruscant Fire Patrol (Jun 2 2005, prototype)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Griptonite Games</publisher>
+		<rom name="catamaranstrike_coruscantfirepatrol_prototype.bin" size="4194304" crc="9204cb1b" sha1="f94ac47faf5fcc98fc4b5166e51a61c9f890f375" />
+	</machine>
+	<machine name="igefcc">
+		<description>Imperial Gunner &amp; Escape From Cloud City (Dec 22 2005, prototype)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Amaze Entertainment</publisher>
+		<rom name="imerialgunner_escapefromcloudcity_prototype.bin" size="4194304" crc="93b20a57" sha1="85c53930907d5b2ddaba32dd01e060054ab62c9b" />
+	</machine>
+	<machine name="tdyoda">
+		<description>Turret Defense &amp; Yoda's Escape</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Griptonite Games</publisher>
+		<rom name="jakksswgkyodaturret.bin" size="2097152" crc="78f663f6" sha1="375763e6b6ccf290d9a37f0d849f72bea7b25722" />
+	</machine>
+	<machine name="tdyodap">
+		<description>Turret Defense &amp; Yoda's Escape (prototype)</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Griptonite Games</publisher>
+		<rom name="turretdefense_yodasescape_prototype.bin" size="4194304" crc="f87cb070" sha1="570ab1eb37a6b6d9ab8c49b86f335389167c3697" />
+	</machine>
+</datafile>

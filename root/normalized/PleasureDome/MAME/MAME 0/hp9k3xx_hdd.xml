@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>hp9k3xx_hdd</name>
+		<description>HP9000/300 hard disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="hpux_9_10">
+		<description>HP-UX Release 9.10 for Series 300/400</description>
+		<year>1995</year>
+		<publisher>Hewlett-Packard</publisher>
+		<disk name="hpux_9_10" sha1="85898db956bb5539832817c0203354b4299b381e" />
+	</machine>
+</datafile>

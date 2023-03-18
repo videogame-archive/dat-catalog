@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mc1502_flop</name>
+		<description>MC-1502 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ots14">
+		<description>One Track System 1.4 (alternate OS)</description>
+		<year>1991</year>
+		<publisher>MMV</publisher>
+		<rom name="one-track-system.imd" size="694040" crc="62d4ef70" sha1="962e15ec0501d1bd249d05984efd9e9871fa2ce9" />
+	</machine>
+	<machine name="sfdos">
+		<description>Sigma Four DOS (modified MS-DOS x.xx)</description>
+		<year>19??</year>
+		<publisher>Sigma Four</publisher>
+		<rom name="sigma-four-dos.ima" size="737280" crc="ad8008ec" sha1="d354bdcb4d5480e0cc8245a2c3c2fd61ada701ed" />
+	</machine>
+</datafile>

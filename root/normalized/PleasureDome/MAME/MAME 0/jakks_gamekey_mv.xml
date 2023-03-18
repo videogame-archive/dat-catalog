@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>jakks_gamekey_mv</name>
+		<description>JAKKS Pacific 'MV' Game Keys</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bcatdoc">
+		<description>Black Cat &amp; Doc Ock</description>
+		<year>2005</year>
+		<publisher>JAKKS Pacific / Digital Eclipse</publisher>
+		<rom name="jakksspidermanblackcatdocockgk.bin" size="2097152" crc="34645c17" sha1="0112a0c16350ac02204486492d8cae7b7df5e011" />
+	</machine>
+</datafile>

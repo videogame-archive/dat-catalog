@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>novag_ssensor4</name>
+		<description>Super Sensor IV expansion ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="clock">
+		<description>Quartz Chess Clock</description>
+		<year>1981</year>
+		<publisher>Novag</publisher>
+		<rom name="5613_1j_blue" size="4096" crc="51ee10f2" sha1="d0e4b8a0e5df1a81958e9c290e21ec6ada0811f1" />
+	</machine>
+</datafile>

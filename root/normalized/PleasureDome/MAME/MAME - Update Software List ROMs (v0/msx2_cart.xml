@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>msx2_cart</name>
+		<description>MSX2 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="msxdos2e">
+		<description>MSX-DOS 2.20 (Europe)</description>
+		<year>1989</year>
+		<publisher>H.S.H.</publisher>
+		<rom name="mdos22de.dsk" size="368640" crc="9be0bfd1" sha1="22e88a2ec002f652ffb216bc6e257578ec08b501" />
+		<rom name="msxdos220.rom" size="65536" crc="1c430991" sha1="c36c9e0f96738a340381e23b4f97245388801a46" />
+	</machine>
+	<machine name="msxdos2j">
+		<description>Japanese MSX-DOS 2.20 (Japan, 256KB)</description>
+		<year>1989</year>
+		<publisher>ASCII</publisher>
+		<rom name="ascii_msxdos22.rom" size="65536" crc="47eea028" sha1="42f4e3360eb134857b0efa82c1abedf342680124" />
+		<rom name="mdos22dj.dsk" size="368640" crc="d9ef5567" sha1="92f151e4a2220d502f085256fe8091b01dba3327" />
+	</machine>
+	<machine name="msxdos2j_0">
+		<description>Japanese MSX-DOS 2.20 (Japan)</description>
+		<year>1988</year>
+		<publisher>ASCII</publisher>
+		<rom name="mdos22v1.rom" size="65536" crc="93cccc2d" sha1="ac26be7fc8386d12ed6a3de4f05fd462967599a8" />
+	</machine>
+	<machine name="msxdos2ja">
+		<description>Japanese MSX-DOS 2.20 (Japan, 256KB, alt)</description>
+		<year>1989</year>
+		<publisher>ASCII</publisher>
+		<rom name="mdos22v3.rom" size="65536" crc="845f5ab6" sha1="6dcf76a0076f8c7f025979d7d060367fb5ed56bc" />
+	</machine>
+	<machine name="msxdos2jb">
+		<description>Japanese MSX-DOS 2.20 (Japan, 256KB, alt 2)</description>
+		<year>1989</year>
+		<publisher>ASCII</publisher>
+		<rom name="mdos22v2.rom" size="65536" crc="8687c4f1" sha1="9155145d3e8522daf33f821f1ab68ce165960c1a" />
+	</machine>
+</datafile>

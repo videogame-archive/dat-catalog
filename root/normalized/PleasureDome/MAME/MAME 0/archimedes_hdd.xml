@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>archimedes_hdd</name>
+		<description>Acorn Archimedes hard disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ros311_apps">
+		<description>RISC OS 3.11 Applications</description>
+		<year>1992</year>
+		<publisher>Acorn Computers</publisher>
+		<disk name="riscos311_apps" sha1="d69e2fb15d82f83d32786a29dd3321a37a9dbb36" />
+	</machine>
+</datafile>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gameking3</name>
+		<description>TimeTop GameKing 3 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="adventr">
+		<description>Adventure</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="adventure.gk3" size="524288" crc="70082274" sha1="83b164719b2c2d5c133ca05c9fac0102b0d88e4c" />
+	</machine>
+	<machine name="falconc">
+		<description>Falcon Corps</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="falcon corps.gk3" size="524288" crc="44f328aa" sha1="37dfafcacc02db182880fb21b38d06c25a1b8024" />
+	</machine>
+	<machine name="flycar">
+		<description>Fly Car</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="fly_car.gk3" size="524288" crc="da314211" sha1="ea901fe7a7aea203afe6fe0d33e374163cec0262" />
+	</machine>
+	<machine name="panzer">
+		<description>Panzer</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="panzer.gk3" size="524288" crc="54c7389e" sha1="1fe26d743ad02b466d045aa53706b13c8be2fe2e" />
+	</machine>
+	<machine name="searcha">
+		<description>Search Action</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="search action.gk3" size="524288" crc="32db01ff" sha1="b9fb8c85d724866daaeadadc1ce91afa124ba6c9" />
+	</machine>
+	<machine name="urgent">
+		<description>Urgent Action</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="urgenaction.gk3" size="524288" crc="dcf935f8" sha1="9c1375c622caab9e328ee66434087a18a16ea036" />
+	</machine>
+	<machine name="vagrant">
+		<description>Vagrant</description>
+		<year>200?</year>
+		<publisher>TimeTop</publisher>
+		<rom name="vagrant.gk3" size="524288" crc="db50e1c9" sha1="80f27ec7973d336e12ee506f090440db35ecf183" />
+	</machine>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>nes_ntbrom</name>
+		<description>Nintendo Entertainment System - Nantettatte!! Baseball mini-cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ntb_91">
+		<description>Nantettatte!! Baseball '91 Kaimaku Hen (Jpn)</description>
+		<year>1991</year>
+		<publisher>Sunsoft</publisher>
+		<rom name="nantettatte baseball '91 kaimaku hen (j) [u].bin" size="16384" crc="fdb61142" sha1="134d2999eca761133236d7abc7cafbd703c628b7" status="baddump" />
+	</machine>
+	<machine name="ntb_ob">
+		<description>Nantettatte!! Baseball OB Allstar Hen (Jpn)</description>
+		<year>1991</year>
+		<publisher>Sunsoft</publisher>
+		<rom name="nantettatte baseball ob allstar hen (j) [u].bin" size="16384" crc="dc0bd3c3" sha1="89ba2b4bf7ba7f7db4f902e4ce20c6dee526433b" status="baddump" />
+	</machine>
+</datafile>

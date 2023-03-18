@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>studio2</name>
+		<description>RCA Studio II / Victory MPT-02 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="asteroids">
+		<description>Asteroids (homebrew)</description>
+		<year>2013</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="asteroids.u1" size="1024" crc="e2b984f0" sha1="a19c8e1dae87714b64126ba0fdaa992363cb9e32" />
+		<rom name="asteroids.u2" size="1024" crc="f360668f" sha1="7feb6ffe25e7953f42cda93963a14ab50162a146" />
+	</machine>
+	<machine name="baseball">
+		<description>TV Arcade IV: Baseball</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="baseball.u1" size="512" crc="1731bd3e" sha1="1baec96cd086db46fcd6f4638989d44b4ad3080e" />
+		<rom name="baseball.u2" size="512" crc="dab57a30" sha1="3910d7a83bf2d11d6a5e2748a5f67a399a45108a" />
+	</machine>
+	<machine name="baseballa">
+		<description>Baseball (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="baseball.bin" size="1024" crc="d7fdedaa" sha1="fa1e3089d05503b7b1d5e98552318d5836c1798a" />
+	</machine>
+	<machine name="berzerk">
+		<description>Berzerk (homebrew)</description>
+		<year>2013</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="berzerk.u1" size="1024" crc="32e1af2f" sha1="b97cb52961844fd5b9718a68691badc6b0b1e57a" />
+		<rom name="berzerk.u2" size="1024" crc="4c5a7eeb" sha1="869eae42d5a011cc0c91608e49269bf480d41eb4" />
+	</machine>
+	<machine name="bingo">
+		<description>TV Casino II: Bingo</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="bingo.u1" size="512" crc="48a7fb02" sha1="8e86d01f10d4a9c21ea50949c6c959c4f082d934" />
+		<rom name="bingo.u2" size="512" crc="b2aa7578" sha1="5c3eb80066420002bc3dcc7ca4ab6efad7ed4ae5" />
+	</machine>
+	<machine name="bingoa">
+		<description>Bingo (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="mg-201-bingo.rom" size="1024" crc="39ddc4ab" sha1="5e16b9572fda5d8b203df9318b8f1e250bea7432" />
+	</machine>
+	<machine name="biorhyth">
+		<description>TV Mystic Series: Biorhythm</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="86624.u1" size="512" crc="535877b7" sha1="868ccb4c1a1c9a129732d5a7f05db696e2044f60" />
+		<rom name="86625.u2" size="512" crc="ed40d6ff" sha1="ba3e5d570932454ee6272b88b5ce375e32ce7016" />
+	</machine>
+	<machine name="biorhytha">
+		<description>Biorhythm (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="biorhythm.bin" size="1024" crc="6dcbc525" sha1="9fdab1be5d83aa0ccacf7e9ae2837b2b9e10be1c" />
+	</machine>
+	<machine name="bjack">
+		<description>TV Casino I: Blackjack</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="blackjack.u1" size="512" crc="04536fc0" sha1="7e6e5319f68f87dfdb0a5087308ff9aa261277f5" />
+		<rom name="blackjack.u2" size="512" crc="6110893f" sha1="238f541457fd647240ccffcaedebfdc6b1f8d7dd" />
+	</machine>
+	<machine name="climber">
+		<description>Climber (homebrew)</description>
+		<year>2013</year>
+		<publisher>Lee Romanow</publisher>
+		<rom name="climber.u1" size="1024" crc="aa64eb89" sha1="7c5b38adf0600f84de2b2df8f12643700f9ca8cc" />
+	</machine>
+	<machine name="combat">
+		<description>Combat (homebrew)</description>
+		<year>2000</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="combat.u1" size="1024" crc="f7d1f301" sha1="85400a9d9b8ed5bdc4893756429ef0c8f90d7358" />
+	</machine>
+	<machine name="compquiz">
+		<description>TV School House I: Computer Quiz</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="85718.u1" size="512" crc="cf08aa66" sha1="1d709a7f6b0a3d67d184ae0d94b1cb198f9c8a6a" />
+	</machine>
+	<machine name="conmatch">
+		<description>Concentration Match (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="87484.u1" size="1024" crc="28e21408" sha1="df2b2c7b5ec4c2d33321934ffff29cb41c2b6f68" />
+	</machine>
+	<machine name="demo">
+		<description>RCA demo</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="demo.u1" size="512" crc="b1bb37ed" sha1="821080efec555c36642193238799f7f332573566" />
+		<rom name="demo.u2" size="512" crc="fd363ae0" sha1="6e0c75a0e5f412ebfeffbc80d89d43169672eb57" />
+	</machine>
+	<machine name="fifteen">
+		<description>Fifteen (homebrew)</description>
+		<year>2017</year>
+		<publisher>Lee Romanow</publisher>
+		<rom name="fifteen.u1" size="1024" crc="14143610" sha1="f42f37a19ed0c397be32e19344d776fa09b30150" />
+	</machine>
+	<machine name="fourspts">
+		<description>Four Sports (homebrew)</description>
+		<year>2000</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="fourspts.u1" size="1024" crc="f40cd42f" sha1="e5d8de160baa6b324d98ff9e1a407aa289fca29a" />
+	</machine>
+	<machine name="funwnum">
+		<description>TV Arcade II: Fun with Numbers</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="85717.u1" size="512" crc="26ebe344" sha1="ede8731283d49666ddb63c1a52d6d270973d6dc8" />
+	</machine>
+	<machine name="grandpak">
+		<description>Grand Pack (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="86677b.u1" size="1024" crc="82a2d29e" sha1="37e02089d611db10bad070d89c8801de41521189" />
+		<rom name="87201.u2" size="1024" crc="8006a1e3" sha1="b67612d98231485fce55d604915abd19b6d64eac" />
+	</machine>
+	<machine name="gunfight">
+		<description>TV Arcade Series: Gunfighter/Moonship Battle</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="86195.u1" size="512" crc="15a4ba12" sha1="009fadd3ba8bbcfc51b065849be991a05d16e4de" />
+		<rom name="86196.u2" size="512" crc="a62d38b2" sha1="4685ed315301fac3d792be233f3a3b6f4ecb6021" />
+	</machine>
+	<machine name="gunfighta">
+		<description>Gunfighter / Moonship Battle (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="gunfighter-moonship battle.bin" size="1024" crc="989d2c67" sha1="82f37ec5b7599e9169873da6c269c0c092395458" />
+	</machine>
+	<machine name="invaders">
+		<description>Invaders (homebrew)</description>
+		<year>2000</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="invaders.u1" size="1024" crc="090db76e" sha1="811fa649eff9c3c56aa531826a2a2f680ee4d8d0" />
+	</machine>
+	<machine name="invasion">
+		<description>The Invasion (homebrew)</description>
+		<year>2019</year>
+		<publisher>Lee Romanow</publisher>
+		<rom name="invasion.u1" size="1024" crc="90cccb05" sha1="535743edc7e652f97c885d80735562fc764a7f3d" />
+	</machine>
+	<machine name="kaboom">
+		<description>Kaboom (homebrew)</description>
+		<year>2013</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="kaboom.u1" size="1024" crc="09efcdb8" sha1="5305bd3eb2b856e1d583f146217b79e374149ea5" />
+	</machine>
+	<machine name="mathfun">
+		<description>TV School House II: Math Fun</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="86344.u1" size="512" crc="143b053b" sha1="96673348df7fe37dd179047ac3e3891c7ea0cdc8" />
+		<rom name="86345.u2" size="512" crc="a4f6a46f" sha1="c11e381a004d0817e97373f32fca3971d70c680a" />
+	</machine>
+	<machine name="mathfuna">
+		<description>School House II Math Fun (MPT-02)</description>
+		<year>1977</year>
+		<publisher>Hanimex</publisher>
+		<rom name="87476.u1" size="1024" crc="9ab5af96" sha1="12a013e483af253d75845adf0d9e86672b161f94" />
+	</machine>
+	<machine name="outbreak">
+		<description>Outbreak (homebrew)</description>
+		<year>2013</year>
+		<publisher>Lee Romanow</publisher>
+		<rom name="invasion.u1" size="1024" crc="f0b582d5" sha1="0763da26ceaa5a8a40d7de123e444864c983d582" />
+	</machine>
+	<machine name="pacman">
+		<description>Pacman (homebrew)</description>
+		<year>2013</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="pacman.u1" size="1024" crc="93c402dd" sha1="3e1f329c91d3cbda0d153c9b110ce84daebb83e9" />
+		<rom name="pacman.u2" size="1024" crc="daae27ab" sha1="096cd5bab1c173818de5f823b03e660019db872e" />
+	</machine>
+	<machine name="pinball">
+		<description>Pinball (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="87330.u1" size="1024" crc="9f7f692e" sha1="6afd1252d72df39482699c1ee76fa28669c7db80" />
+	</machine>
+	<machine name="rocket">
+		<description>Rocket (homebrew)</description>
+		<year>2010</year>
+		<publisher>Lee Romanow</publisher>
+		<rom name="rocket.u1" size="512" crc="d2192f34" sha1="d2f33a5fe5d2cd4f0ce778c368bd228b7658a6f1" />
+	</machine>
+	<machine name="scramble">
+		<description>Scramble (homebrew)</description>
+		<year>2013</year>
+		<publisher>Paul Robson</publisher>
+		<rom name="scramble.u1" size="1024" crc="56f077a0" sha1="bc3600d7849e38a326a2fb3f4ea26f6259343853" />
+		<rom name="scramble.u2" size="1024" crc="4b26376b" sha1="dcc496bb5a3f4dc687ac9566f1cb9f24d1b9f0ba" />
+	</machine>
+	<machine name="spacewar">
+		<description>TV Arcade I: Spacewar</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="spacewar.bin" size="512" crc="021551f2" sha1="4878ae6d313743d7e3bd45e05c6e5e0582d9febb" />
+	</machine>
+	<machine name="speedway">
+		<description>TV Arcade Series V: Speedway/Tag</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="speedway_tag.bin" size="512" crc="a80379e2" sha1="5bc93a1a7ea05411f607ed56241da88b1f8468c5" />
+	</machine>
+	<machine name="speedwaya">
+		<description>Speedway / Tag (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="mg-211-speedway-tag.rom" size="1024" crc="b9f6ac68" sha1="4e544fb4105a45e979dd7a007da1540996300f3d" />
+	</machine>
+	<machine name="starwars">
+		<description>Star Wars (MPT-02)</description>
+		<year>1978</year>
+		<publisher>Hanimex</publisher>
+		<rom name="87331.u1" size="1024" crc="92b55eb4" sha1="63ec52fdf1a5e04ced74560809de550c527ecd38" />
+	</machine>
+	<machine name="tennis">
+		<description>TV Arcade III: Tennis/Squash</description>
+		<year>1977</year>
+		<publisher>RCA</publisher>
+		<rom name="tennis-squash.bin" size="512" crc="a21590c8" sha1="c573e8cd7d1aa423d26e64a4da781a5989e4ed1d" />
+	</machine>
+	<machine name="tvar2012">
+		<description>TV Arcade 2012 (homebrew)</description>
+		<year>2012</year>
+		<publisher>Lee Romanow</publisher>
+		<rom name="tvar2012.u1" size="1024" crc="dcfb2488" sha1="9feebd75ac277574ea3d674473c265299a82ca16" />
+	</machine>
+</datafile>

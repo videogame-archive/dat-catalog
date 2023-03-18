@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_web</name>
+		<description>Takara e-kara (Japan) Web cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ekaraweb12a">
+		<description>e-kara Web cartridge 12M (used, with 7 songs) (Japan)</description>
+		<year>2003</year>
+		<publisher>Takara</publisher>
+		<rom name="ekaraweb3.bin" size="1048576" crc="a6a095b9" sha1="709d7edb5799b97127502408bec698663b902462" />
+	</machine>
+	<machine name="ekaraweb12b">
+		<description>e-kara Web cartridge 12M (used, with 12 songs) (Japan)</description>
+		<year>2003</year>
+		<publisher>Takara</publisher>
+		<rom name="ekaraweb4.bin" size="1048576" crc="23df7749" sha1="cfd3f9f0b9f4713d560700c4e463d0e9d94c9447" />
+	</machine>
+	<machine name="ekaraweb12">
+		<description>e-kara Web cartridge 12M (blank) (Japan)</description>
+		<year>2003</year>
+		<publisher>Takara</publisher>
+		<rom name="ekaraweb2.bin" size="1048576" crc="9149a3a8" sha1="01277650706c1b168c5125b0ddcceacbd207be25" />
+	</machine>
+	<machine name="ekaraweb28">
+		<description>e-kara Web cartridge 28M (blank) (Japan)</description>
+		<year>2003</year>
+		<publisher>Takara</publisher>
+		<rom name="web.u1" size="2097152" crc="69bb06bf" sha1="dafa4fde7b59cb547e1f3af0b29606b33cb76fd0" />
+	</machine>
+</datafile>

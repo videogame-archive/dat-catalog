@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pencil2</name>
+		<description>Hanimex Pencil II cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>SD-BASIC v2.0</description>
+		<year>1983</year>
+		<publisher>Soundic Electronics</publisher>
+		<rom name="1-or.bin" size="4096" crc="1ddedccd" sha1="5fc0d30b5997224b67bf286725468194359ced5a" />
+		<rom name="202.bin" size="8192" crc="5171097d" sha1="171999bc04dc98c74c0722b2866310d193dc0f82" />
+		<rom name="203.bin" size="8192" crc="f502175c" sha1="cb2190e633e98586758008577265a7a2bc088233" />
+	</machine>
+	<machine name="treasure">
+		<description>Treasure Hunt / Le Plongeur a la Recherche du Tresor</description>
+		<year>1983</year>
+		<publisher>Soundic Electronics</publisher>
+		<rom name="pen702a.bin" size="8192" crc="9879e2ff" sha1="159b3d50abff42bd53351a13f316bef993b019e7" />
+		<rom name="pen702b.bin" size="4096" crc="ddfd95fc" sha1="8d33e7b2821d2e26af3b8721be3732455baeb757" />
+	</machine>
+</datafile>

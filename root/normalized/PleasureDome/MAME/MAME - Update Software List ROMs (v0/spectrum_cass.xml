@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>spectrum_cass</name>
+		<description>Sinclair ZX Spectrum cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="critical">
+		<description>Critical Mass</description>
+		<year>1985</year>
+		<publisher>Durell Software</publisher>
+		<rom name="critical mass (durell) - side 1.tzx" size="46342" crc="ce1a934f" sha1="9eae8426af412965cfe87f87f1adc6c5c87b21ff" />
+		<rom name="critical mass (durell) - side 2.tzx" size="44932" crc="947410b7" sha1="2856410ec09c0af2196956e3fdb03932e704f041" />
+	</machine>
+	<machine name="critical_d">
+		<description>Critical Mass (Erbe, medium case)</description>
+		<year>1985</year>
+		<publisher>Erbe Software</publisher>
+		<rom name="critical mass - medium case (Erbe).tzx" size="45953" crc="f1208a71" sha1="b0491f099ad010edb6d0597ea4877b3a8432fda3" />
+	</machine>
+	<machine name="globgame">
+		<description>A Global Games Adventure</description>
+		<year>198?</year>
+		<publisher>Global Games</publisher>
+		<rom name="number 6 - once upon a lilly pad - global games - side a.tzx" size="47902" crc="bef71947" sha1="15f9901e9605fa14eb19b777a71c6268b1a7022b" />
+		<rom name="number 6 - once upon a lilly pad - global games - side b.tzx" size="35110" crc="106a2c44" sha1="b4e354e7189369d1670bc4442d8ec26ca0b7ac93" />
+	</machine>
+	<machine name="gricko">
+		<description>Gricko</description>
+		<year>1983</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="gricko.tzx" size="8856" crc="91600edb" sha1="0f2811fc35074b7db52427586be2e869361e192a" />
+	</machine>
+	<machine name="mithos_a">
+		<description>Mithos (small cardboard case)</description>
+		<year>1988</year>
+		<publisher>Mark R. Jones</publisher>
+		<rom name="mithos - small cardboard case - side 1.tzx" size="49292" crc="e1a446d1" sha1="a72a893ab429e952de11579eb347597b3c999ce7" />
+		<rom name="mithos - small cardboard case - side 2.tzx" size="49354" crc="6aed24af" sha1="ec9217c21bc5d1f646f187124e56c45a7279bf9e" />
+	</machine>
+	<machine name="mixandma">
+		<description>Mix And Match With Maggie</description>
+		<year>1991</year>
+		<publisher>Scetlander</publisher>
+		<rom name="mix and match with maggie - scetlander.tzx" size="45716" crc="5965c47a" sha1="45606090e9648c0e6832f4bbd85723aab2b705ec" />
+	</machine>
+	<machine name="shake03">
+		<description>Shake! (issue 03)</description>
+		<year>1987</year>
+		<publisher>Keep Publishing</publisher>
+		<rom name="shake (issue 03) - side 1.tzx" size="77118" crc="913986a5" sha1="5b22bebbc4f5c38c1ebe436f284fb7697990363a" />
+		<rom name="shake (issue 03) - side 2.tzx" size="6983" crc="77b46d2f" sha1="dd25890e6a96c4be1cf3e583553edf135e24a4be" />
+	</machine>
+	<machine name="shake09">
+		<description>Shake! (issue 09)</description>
+		<year>1987</year>
+		<publisher>Keep Publishing</publisher>
+		<rom name="shake (issue 09) - side 1.tzx" size="88907" crc="d8ef6893" sha1="9a2766f36d123a5d8f93a5ce96b4f5925694c45d" />
+		<rom name="shake (issue 09) - side 2.tzx" size="7018" crc="472f0fba" sha1="c398ebe66d55a97642b6b516fa65a3addd42a474" />
+	</machine>
+	<machine name="squinuts">
+		<description>The Squirrel's Nuts</description>
+		<year>19??</year>
+		<publisher>Simon Avery</publisher>
+		<rom name="the squirrel's nuts 1 - side a.tzx" size="65395" crc="801b15b4" sha1="cb7b177ee5c29ce2c4105f84e7067a38396db663" />
+		<rom name="the squirrel's nuts 1 - side b.tzx" size="54811" crc="2c72ecb4" sha1="5ca9168684ea73b0f736f50e926589e509eb8ec0" />
+		<rom name="the squirrel's nuts 2 - side a.tzx" size="61509" crc="2d7b9ef8" sha1="e3a332c8d77e747a43400853a604805c08032d6d" />
+		<rom name="the squirrel's nuts 2 - side b.tzx" size="59583" crc="9b30eea9" sha1="f11e475219c4fca34840dd1fce825c1d957a9792" />
+		<rom name="the squirrel's nuts 3 - side a.tzx" size="67513" crc="8f6de0bb" sha1="05d9198c4a92f4d5c4fb0cfdfaf2231216f43ee0" />
+		<rom name="the squirrel's nuts 3 - side b.tzx" size="65728" crc="b1135390" sha1="7d89556c2398e7cea3da6b66b175c409ac57fa73" />
+		<rom name="the squirrels nuts - side 1.tzx" size="61363" crc="909bca27" sha1="2dbb8c6412506bdcdbd19942c335912fa97c1ea9" />
+		<rom name="the squirrels nuts - side 2.tzx" size="72905" crc="9d9410f6" sha1="1f8424da5030be593baa499ac6eb88e79b5cac79" />
+	</machine>
+	<machine name="su133">
+		<description>Sinclair User (Issue 133)</description>
+		<year>1993</year>
+		<publisher>Magazine Sinclair User</publisher>
+		<rom name="sinclair user (issue 133) - atac.tzx" size="38326" crc="c3d17a4e" sha1="2fe78b80ac5b74c832be041cf8a61dac59d9253b" />
+		<rom name="sinclair user (issue 133) - dinosaurs.tzx" size="28362" crc="3a583152" sha1="3d3f4026a841365d1985b2b3820085be6cbce100" />
+		<rom name="sinclair user (issue 133) - pokemania 133.tzx" size="9855" crc="10011746" sha1="89321c213433c783fa45ca244d5ba1c6ceb937f6" />
+		<rom name="sinclair user (issue 133) - the axe of kolt - part 3.tzx" size="36968" crc="330f7b88" sha1="430986e78b303ca954ff2f8b772dd38569829a57" />
+		<rom name="sinclair user (issue 133) - theo's music demo.tzx" size="20100" crc="6a161eb7" sha1="5790520c59ca5f98f06de635dbd661dcfc807198" />
+	</machine>
+	<machine name="suc03">
+		<description>Sinclair User Club (Issue 03)</description>
+		<year>1983</year>
+		<publisher>Sinclair User</publisher>
+		<rom name="sinclair user club (issue 03) - side 1.tzx" size="12818" crc="46da729c" sha1="b3826e7bef98bf6411d968380c91cddb07d4b950" />
+		<rom name="sinclair user club (issue 03) - side 2.tzx" size="14482" crc="d26438a0" sha1="bafed39b11654253d7eb2c069c501a9cea219923" />
+	</machine>
+	<machine name="suc04">
+		<description>Sinclair User Club (Issue 04)</description>
+		<year>1983</year>
+		<publisher>Sinclair User</publisher>
+		<rom name="sinclair user club (issue 04) - side 1.tzx" size="17315" crc="ff53e443" sha1="d7708f684d0d502874195c8833f2f5e2ad281c9a" />
+		<rom name="sinclair user club (issue 04) - side 2.tzx" size="14120" crc="9b864a69" sha1="76f8a099f449d4a035659ce342b1706a8903bf2c" />
+	</machine>
+	<machine name="thesnowq_a">
+		<description>The Snow Queen (alt)</description>
+		<year>1986</year>
+		<publisher>Mosaic Publishing</publisher>
+		<rom name="the snow queen (alt).tzx" size="91352" crc="9772eb90" sha1="00a7fc4c668b0f71acce8219c390ca153663b806" />
+	</machine>
+</datafile>

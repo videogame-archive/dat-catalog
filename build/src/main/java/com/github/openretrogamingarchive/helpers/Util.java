@@ -1,9 +1,11 @@
 package com.github.openretrogamingarchive.helpers;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class Util {
@@ -40,4 +42,9 @@ public class Util {
         link.getParent().toFile().mkdirs(); // create the directory hierarchy if any folder is not available
         Files.createSymbolicLink(link, relativeSrc); // create symbolic link.
     }
-}
+    
+    public static void deleteRecursive(Path pathToBeDeleted) throws IOException
+    {
+    	Files.walk(pathToBeDeleted).sorted(Comparator.reverseOrder()).map(Path::toFile).forEach(File::delete);
+    }
+ }

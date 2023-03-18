@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>itt3030</name>
+		<description>ITT 3030 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="master">
+		<description>Master boot disk</description>
+		<year>1984</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="3030MAST.TD0" size="409420" crc="342fb02c" sha1="e54491bfa64c1c8dded1508a39a9623139780bb2" />
+	</machine>
+	<machine name="system">
+		<description>System boot disk</description>
+		<year>1982</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="3030SYS.TD0" size="491220" crc="fe111b60" sha1="e41bc33e3f7beca5d4f7f4510e5598f91faa2100" />
+	</machine>
+</datafile>

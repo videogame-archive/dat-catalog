@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>wizard_cart</name>
+		<description>Sharp Wizard series cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3dssheet">
+		<description>3 Dimensional Spreadsheet (IQ-8B01)</description>
+		<year>1990</year>
+		<publisher>PCSG</publisher>
+		<rom name="3dssheet.bin" size="131072" crc="c0440ad2" sha1="f7bb4eb99755ff0cc2496724e55d7be70552069a" />
+		<rom name="3dssheet_sram.bin" size="65536" crc="25920e43" sha1="8581044402aca56da9147f13abd8a58af861c473" />
+	</machine>
+	<machine name="8ltransl">
+		<description>8-Language Translator (IQ-703A)</description>
+		<year>1988</year>
+		<publisher>Sharp Corporation</publisher>
+		<rom name="8ltransl.bin" size="262144" crc="eb755572" sha1="bf2a43c30cdee042824f1ffb5063e23c183c5c29" />
+	</machine>
+	<machine name="timeexpm">
+		<description>Time Expense Manager (IQ-701A)</description>
+		<year>1988</year>
+		<publisher>Traveling Software, Inc.</publisher>
+		<rom name="timeexpm.bin" size="65536" crc="16d8d9e3" sha1="37eb163e86a0b57fc87c68d09e77020b26b217e5" />
+		<rom name="timeexpm_sram.bin" size="32768" crc="f82cdc90" sha1="b0a2626c4d18a1b255548e0b1a61265b0aaa9656" status="baddump" />
+	</machine>
+</datafile>

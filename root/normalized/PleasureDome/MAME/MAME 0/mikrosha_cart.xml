@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mikrosha_cart</name>
+		<description>Mikrosha cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="micron">
+		<description>BASIC-Micron, ED.Micron, Assembler</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="micron.rom" size="16384" crc="42ac7739" sha1="ca7ac6e0f38d54274db14d1dd4141722908b2d8b" />
+	</machine>
+</datafile>

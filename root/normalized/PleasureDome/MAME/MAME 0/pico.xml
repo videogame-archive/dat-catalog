@@ -1,0 +1,2659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pico</name>
+		<description>Sega Pico cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3chometm">
+		<description>3-choume no Tama Momo-chan wa Doko! (Japan, rev. A)</description>
+		<year>1999</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17020a-u.ic1" size="524288" crc="238dd68a" sha1="c8a5aeab3451617a11b4ecb7e43d78ad9d0daaa2" />
+	</machine>
+	<machine name="3chometma">
+		<description>3-choume no Tama Momo-chan wa Doko! (Japan)</description>
+		<year>1999</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17020-h.ic1" size="524288" crc="b0473895" sha1="2f30b7017a02db7ffe483b36388a8d2747732aa1" />
+	</machine>
+	<machine name="101dalma">
+		<description>Math Antics With 101 Dalmatians (USA, Korea)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="math antics with disney's 101 dalmatians (usa).bin" size="1048576" crc="d271f727" sha1="bbbb351396ae9c636092efc6780dd1f80f4ca854" />
+	</machine>
+	<machine name="101dalmaj">
+		<description>101piki Wanchan - Wanchan Dai Koushin (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-19623 j32.ic1" size="1048576" crc="27bb0b0a" sha1="f9e2bde5351f34cd565c03a1cad3d1baedd8c7c3" />
+	</machine>
+	<machine name="101dalmajp">
+		<description>101piki Wanchan - Wanchan Dai Koushin (Japan, prototype, 19960817)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 piki wan-chan rev 19960817 (1996)(appaloosa interactive - sega)(jp)(beta).bin" size="1048576" crc="cdc4dba2" sha1="ee1b794f03ee02124e22c4050f686f4f7b6e06df" />
+	</machine>
+	<machine name="101dalmap1">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960817-U)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - aug 17, 1996 - u).bin" size="1048576" crc="602e237a" sha1="915d44cbc0d0f04be485609c1367a1d47f140942" />
+	</machine>
+	<machine name="101dalmap2">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960816)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - aug 16, 1996).bin" size="1048576" crc="f0269662" sha1="7f7186de1a79427078a682aeca222e7df9994ffc" />
+	</machine>
+	<machine name="101dalmap3">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960814)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - aug 14, 1996).bin" size="1048576" crc="16d9431c" sha1="e37c7b85b9c57301a9223507457ca0a78f7e4b24" />
+	</machine>
+	<machine name="101dalmap4">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960718)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - jul 18, 1996).bin" size="1048576" crc="849abcb2" sha1="950888fd46a956c93baa3e938ee264b2de58055e" />
+	</machine>
+	<machine name="101dalmap5">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960705)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - jul 05, 1996).bin" size="1048576" crc="3d17bfdc" sha1="8aef447eb11567ba3663d89ad417987a6d5b8cbf" />
+	</machine>
+	<machine name="101dalmap6">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960703)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - jul 03, 1996).bin" size="1048576" crc="29d31f1e" sha1="7f8cfd2778876dd7ca03fa0a89a0da66bd7cf483" />
+	</machine>
+	<machine name="101dalmap7">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960531)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - may 31, 1996).bin" size="1048576" crc="ea6fe243" sha1="15d9a25c6350640aae1a65b41d293bde436252d9" />
+	</machine>
+	<machine name="101dalmap8">
+		<description>Math Antics With 101 Dalmatians (prototype, 19960521)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="101 dalmatians (prototype - may 21, 1996).bin" size="1048576" crc="2c5eee07" sha1="1a909fb832d2b04d062f5c35f7ab1ed106573a5a" />
+	</machine>
+	<machine name="6000ni1">
+		<description>6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1 (Japan)</description>
+		<year>1999</year>
+		<publisher>Sega</publisher>
+		<rom name="6000-nin no sensei-tachi ga tsukutta tanoshii shougakkou tanken 1 (j).bin" size="2097152" crc="d62e3372" sha1="71804b391ca24d6de1775cfdf0d5a21f7d90b768" />
+	</machine>
+	<machine name="6000ni2">
+		<description>6000-nin no Sensei Tachiga Tsukutta Tanoshii Shougakkou Tanken 2 (Japan)</description>
+		<year>1999?</year>
+		<publisher>Sega</publisher>
+		<rom name="9k0-0005-s.ic1" size="2097152" crc="9c058e95" sha1="2dd8b5e6510a71b75494ff9f3bf9963a21b2c7a9" />
+	</machine>
+	<machine name="abarangr">
+		<description>Bakuryuu Sentai Abaranger (Japan)</description>
+		<year>2003</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="0bd73cf6" sha1="df12e28a2f1e49f51d2d8968d38993f2f93b648c" />
+	</machine>
+	<machine name="aendiwa">
+		<description>Aendiwa Billieui Suhaktamheom (Korea)</description>
+		<year>1997</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9731g.ic1" size="1048576" crc="b7f5a628" sha1="5682e8714f8b48959962cc885ead9b1cb6012fbc" />
+	</machine>
+	<machine name="ahirupek">
+		<description>Ahiru no Pekkle no Kazoete Miyou (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18196 j22.ic1" size="1048576" crc="6ff09f8e" sha1="4b496b47aa0d0ea74c85712515c76d3e99f28fb4" />
+	</machine>
+	<machine name="alpongka">
+		<description>Allowa Pongka (Korea)</description>
+		<year>1995</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9516s.ic1" size="1048576" crc="68bc6c65" sha1="94d3c164524fd9b5667bcba7a6533993b673366a" />
+	</machine>
+	<machine name="animalte">
+		<description>Do Re Mi Fa Animals no Tanoshii Ensoukai (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-16826-h.ic1" size="524288" crc="7048409f" sha1="e79b11753822a14b6abe5654cdd768ec144e3ca9" />
+	</machine>
+	<machine name="animaltek">
+		<description>Dorehmipa Dongmooleumakhwoe (Korea, rev. A)</description>
+		<year>1995?</year>
+		<publisher>Samsung</publisher>
+		<rom name="mpr-18083a-t.ic1" size="524288" crc="9c4af8d8" sha1="73ea5de987b3bc7c66c2e7f53a930eb2d36dc1f4" />
+	</machine>
+	<machine name="anpanchi">
+		<description>Gakken Anpanman to Chinou Up! (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="2a8da73b" sha1="eff1447d20fa7532af948df8267261e51d14589c" />
+	</machine>
+	<machine name="anpanman">
+		<description>Soreike! Anpanman - Anpanman to Denwa de Asobou! (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="anpanman no moshimoshi pico set with soreike anpanman anpanman to denwa de asobou (japan).bin" size="2097152" crc="f2e1d899" sha1="b5b06d19a41c677afa046e47ad674242c765de06" />
+	</machine>
+	<machine name="anpanmcw">
+		<description>Soreike! Anpanman - Anpanman no Chie no World (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="4194304" crc="1f633203" sha1="f663e6dc7e5919773571e84b27e1882160dd1c01" />
+	</machine>
+	<machine name="anpanmdk">
+		<description>Soreike! Anpanman no Minna de Kyousou Anpanman! (Japan)</description>
+		<year>1997</year>
+		<publisher>Bandai</publisher>
+		<rom name="soreike anpanman no minna de kyousou anpanman (j).bin" size="524288" crc="3822c958" sha1="23cc8f96fe41b45a666e87959297eee7d6e26ddb" />
+	</machine>
+	<machine name="anpanme2">
+		<description>Soreike! Anpanman - Eigo to Nakayoshi 2 - Tanoshii Carnival (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17522 j13.ic1" size="1048576" crc="1b28d597" sha1="b61bb5b7ef0572b50c806d4a7ea01f8db04f814d" />
+	</machine>
+	<machine name="anpanmen">
+		<description>Soreike! Anpanman - Eigo to Nakayoshi - Youchien de ABC (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17021 j07.ic1" size="1048576" crc="700e90db" sha1="fc07a121ca26e6ccb32e09b15e55bc72c3a83848" />
+	</machine>
+	<machine name="anpanmentw">
+		<description>Soreike! Anpanman - Eigo Tanosii Kanibaru (Taiwan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20357 j51.ic1" size="1048576" crc="d2f15d6f" sha1="a2014920d3c255130738f687c49c2ade3cd37331" />
+	</machine>
+	<machine name="anpanmga">
+		<description>Soreike! Anpanman no Game de Asobou Anpanman (Japan)</description>
+		<year>1994</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-16369-h.ic1" size="524288" crc="75bd0685" sha1="bd721f6aa96d1c258019b93cf041354887cae389" />
+	</machine>
+	<machine name="anpanmhd">
+		<description>Soreike! Anpanman - Anpanman no Hitori de Dekichatta! (Japan)</description>
+		<year>2005</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="0ee99056" sha1="af10335af9c0a61fc6d6390ef648038e7776a57a" />
+	</machine>
+	<machine name="anpanmka">
+		<description>Soreike! Anpanman - Anpanman to Kotoba Asobi (Japan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-21837-s.ic1" size="2097152" crc="9ccd5cae" sha1="99bcf3eb0ca4671629739bd575e2356634cee466" />
+	</machine>
+	<machine name="anpanmm2a">
+		<description>Soreike! Anpanman no Medalympic World 2 (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="soreike anpanman no medalympic world 2 (j).bin" size="524288" crc="3c57e47d" sha1="4335e65d238c46a286e2d0ce8d821d35799ab76a" />
+	</machine>
+	<machine name="anpanmm2">
+		<description>Soreike! Anpanman no Medalympic World 2 (Japan, Best Selection)</description>
+		<year>2004</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block ic1.ic1" size="524288" crc="8dab2ec3" sha1="6ee0ce5db07c4f3feba319f77f714a399176e72e" />
+	</machine>
+	<machine name="anpanmmw">
+		<description>Soreike! Anpanman no Medalympic World (Japan)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-18483-u.ic1" size="524288" crc="eda45344" sha1="d7a63c7fe9682c3271452fdaab816ed51cb9da17" />
+	</machine>
+	<machine name="anpanmod">
+		<description>Soreike! Anpanman no Ohanashi Daisuki Anpanman (Japan)</description>
+		<year>1994</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-17100-h.ic1" size="524288" crc="6ed63704" sha1="b443d6d5ec4109c3239b860eac5ab024ffb68d1e" />
+	</machine>
+	<machine name="anpanmsa">
+		<description>Soreike! Anpanman - Anpanman to Suuji Asobi (Japan)</description>
+		<year>199?</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="515ac6ad" sha1="b79329d8a4327c6627713d533d5e108ea5fbbee4" />
+	</machine>
+	<machine name="anpanmtd">
+		<description>Soreike! Anpanman - Anpanman to Tanoshii Drive! (Japan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-21077-s.ic1" size="1048576" crc="ad3ef418" sha1="000808ad7fa7120976f2d579c23ce8662e721b92" />
+	</machine>
+	<machine name="anpanpc">
+		<description>Anpanman to Pasokon Renshuu! (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0050.ic1" size="2097152" crc="7080cc7a" sha1="0df483eaa1ab7d1c56b0a2ede6b385ed14393e46" />
+	</machine>
+	<machine name="anpanwpk">
+		<description>Anpanman Pico Wakuwaku Pan Koujou (Japan)</description>
+		<year>2001</year>
+		<publisher>Bandai</publisher>
+		<rom name="0 - 0001.png" size="25146736" crc="bb9bf256" sha1="64ee0df89f8995b8cf847b0a3381e624e48ee1a4" />
+		<rom name="0 - 0002.png" size="26243330" crc="9aabec1a" sha1="044748f6af5becc08650935136749e855258c938" />
+		<rom name="0 - 0003.png" size="25927952" crc="43fdc28c" sha1="04e7df5119a04940ca5b217cc7814438a1a66852" />
+		<rom name="0 - 0004.png" size="27207842" crc="291b9b5f" sha1="abcef241c2065d22342f276096590bc01a5082a5" />
+		<rom name="0 - 0005.png" size="28869718" crc="4a435395" sha1="1748c5aa0f0a5d0a7efaf0e2a9735659d637e255" />
+		<rom name="0 - 0006.png" size="29680612" crc="1e1287a7" sha1="cc92ef1bb6f20c06ee61287da02eb4e147484f1d" />
+		<rom name="0 - 0007.png" size="27665504" crc="6562d21c" sha1="f0d66aca4178aa0ac45ad91271c0bd863e117774" />
+		<rom name="9k0-0041a-rv.ic1" size="1048576" crc="a10118a5" sha1="b9fce10b2558f73048d30398410b0e3340e87610" />
+	</machine>
+	<machine name="ariel">
+		<description>Disney Princess Ariel (Japan)</description>
+		<year>2004</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="disney princess ariel (j).bin" size="2097152" crc="581361f7" sha1="921ad22eee062dd053c24590cbf05a9c4d591882" />
+	</machine>
+	<machine name="bakabon">
+		<description>Heisei Tensai Bakabon - Minna de Family Resturant ni Ikunoda! (Japan)</description>
+		<year>199?</year>
+		<publisher>GE</publisher>
+		<rom name="mpr-17717-h.ic1" size="524288" crc="3656af85" sha1="708cd58d6182a4f2448be3d2db97943c063a04f9" />
+	</machine>
+	<machine name="barbapap">
+		<description>Barbapapa no Uchuu Ryokou (Japan)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18873-t.ic1" size="524288" crc="d9ad6eff" sha1="3b1d65cf77c1c70011d9b12c8531ceaeebd0e98d" />
+	</machine>
+	<machine name="berenstb">
+		<description>The Berenstain Bears' A School Day (USA)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17854 j03.ic1" size="1048576" crc="e92af9f1" sha1="f4ae09a8a0e11cd8bec95ec3ac3908ce6da7a30f" />
+	</machine>
+	<machine name="berenstbi">
+		<description>Un Giorno di Scuola degli Orsi Berenstain (Italy)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18708 j04.ic1" size="1048576" crc="61b889a2" sha1="64b537616207b3e98dfb700f98b63e61284ced13" />
+	</machine>
+	<machine name="berenstbk">
+		<description>Yuchiwonehseoeui Haru (Korea)</description>
+		<year>1995?</year>
+		<publisher>Samsung</publisher>
+		<rom name="mpr-18199 j31.ic1" size="1048576" crc="482ad64b" sha1="82a8061ff13198bf125b51205b05303fe86673b3" />
+	</machine>
+	<machine name="berenstbp1">
+		<description>The Berenstain Bears' A School Day (prototype, 19950106)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="berenstain bears' a school day, the rev 19950106 (1995)(realtime associates - sega)(beta).bin" size="1048576" crc="5dac3ecf" sha1="246e18fcbc271798f531944a6291ac6c9bb5840c" />
+	</machine>
+	<machine name="berenstbp2">
+		<description>The Berenstain Bears' A School Day (prototype, 19950113)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="berenstain bears' a school day, the rev 19950113 (1995)(realtime associates - sega)(beta).bin" size="1048564" crc="291aa0bd" sha1="5677d64a2fd2ffa2baa1fd434f419407b5d47b5e" />
+	</machine>
+	<machine name="berenstbp3">
+		<description>The Berenstain Bears' A School Day (prototype, 19950116)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="berenstain bears' a school day, the rev 19950116 (1995)(realtime associates - sega)(beta).bin" size="1048564" crc="56173be7" sha1="ccce25815ccff4468b42f8317025b5b66916645e" />
+	</machine>
+	<machine name="berenstbp4">
+		<description>The Berenstain Bears' A School Day (prototype, 19950126)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="berenstain bears' a school day, the rev 19950126 (1995)(realtime associates - sega)(beta).bin" size="1048564" crc="098c3510" sha1="ab20a8063cd3650158a20572ae08048dc979a3e1" />
+	</machine>
+	<machine name="berenstbp5">
+		<description>The Berenstain Bears' A School Day (prototype, 19950127)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="berenstain bears' a school day, the rev 19950127 (1995)(realtime associates - sega)(beta).bin" size="1048564" crc="4709d1cf" sha1="a6c0f0df6bb69aafcbdb49fd0ff5ef3ca7585cd9" />
+	</machine>
+	<machine name="berenstbp6">
+		<description>The Berenstain Bears' A School Day (prototype, 19950130)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="berenstain bears' a school day, the rev 19950130 (1995)(realtime associates - sega)(beta).bin" size="1048564" crc="7b53784f" sha1="7128cea20f0695b69d552d5220097f4f4993ebef" />
+	</machine>
+	<machine name="berenstbp">
+		<description>The Berenstain Bears' A School Day (prototype, 19941220)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="berenstain bears' a school day, the rev 19941220 (1995)(realtime associates - sega)(beta).bin" size="1048576" crc="2994dcee" sha1="6019bf5829925389b44414697e7329f8c2056437" />
+	</machine>
+	<machine name="berenstbs">
+		<description>Un Día en la Escuela con los Ositos Berenstain (Spain)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18581 j39.ic1" size="1048576" crc="0ec21b68" sha1="06bb9053e3a9a6eb3e56475964ad4d745f92617f" />
+	</machine>
+	<machine name="bfighter">
+		<description>BF B-Fighter Kabuto (Japan)</description>
+		<year>1996</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-19069-t.ic1" size="524288" crc="88c8e104" sha1="d40e1d4daf6fc7ed8f07e362033c329204ba5553" />
+	</machine>
+	<machine name="bioneun">
+		<description>Bioneun Nal (Korea)</description>
+		<year>1998?</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9839g.ic1" size="1048576" crc="d074b19e" sha1="970d04fd31f7a1ac88531a0df7ce3cd6453628d8" />
+	</machine>
+	<machine name="biroboka">
+		<description>Bi-Robo Kabutakku (Japan)</description>
+		<year>1997</year>
+		<publisher>Bandai</publisher>
+		<rom name="bi-robo kabutakku (japan).bin" size="524288" crc="df504ee6" sha1="392128b92f38b7aabb59c0253bc2a85b34ab677c" />
+	</machine>
+	<machine name="bugslife">
+		<description>A Bug's Life (Japan)</description>
+		<year>1999?</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0007.ic1" size="2097152" crc="96ee02a2" sha1="aff437671cbfa0119b1828c47e538ff32db3a0db" />
+	</machine>
+	<machine name="bugslifek">
+		<description>Bug's Life (Korea)</description>
+		<year>2001?</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-bugs.ic1" size="2097152" crc="63e37ab9" sha1="a7ff319deaffbb27d732d86ad42458f26e4fcb12" />
+	</machine>
+	<machine name="carcarnt">
+		<description>Drive Pico with Go Go! Car Navi Touring! (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="2097152" crc="e29f2af2" sha1="8149b48140515b12d466181a45819b043caaf0ca" />
+	</machine>
+	<machine name="carrangr">
+		<description>Gekisou Sentai CarRanger (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-18883-t.ic1" size="524288" crc="8ed536bc" sha1="b4f276d4ecc300b38b73bf1d7030f6820786fe55" />
+	</machine>
+	<machine name="changern">
+		<description>Choukou Senshi Changerion (Japan)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-19094-t.ic1" size="524288" crc="763cbcf4" sha1="68a592ebe972a984eb6c631a363bd60c384ed5af" />
+	</machine>
+	<machine name="chibim">
+		<description>Chibi Maruko-chan - Issho ni Asobou yo (Japan)</description>
+		<year>1995</year>
+		<publisher>Takara</publisher>
+		<rom name="mpr-18117-h.ic1" size="524288" crc="c81acb46" sha1="d4a51f8894157dc8ef845931366d2ab482d43839" />
+	</machine>
+	<machine name="clouwizd">
+		<description>The Cloud is Wizard (Korea)</description>
+		<year>1997</year>
+		<publisher>Sega / Samsung</publisher>
+		<rom name="samsung km23c8100dg pico-9837g.u1" size="1048576" crc="70b7440e" sha1="d6f7b9c9e5714afebfdb116480f73976eae23d17" />
+	</machine>
+	<machine name="comphero">
+		<description>Ganbare! Bokura no Compati Heroes (Japan)</description>
+		<year>1996</year>
+		<publisher>Banpresto</publisher>
+		<rom name="mpr-19067-t.ic1" size="524288" crc="bbae26f2" sha1="eb28ad4558efd2b20e5b26ba0ccd81781a275fe0" />
+	</machine>
+	<machine name="conveni">
+		<description>Conveni de Okaimono! (Japan)</description>
+		<year>2001</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0032-rv.ic1" size="2097152" crc="c95a4ef3" sha1="24d03589c4192e139f0eb33ce6e4b4a87c949a9b" />
+	</machine>
+	<machine name="cookpico">
+		<description>Cooking Pico (Japan)</description>
+		<year>1999</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="0 - 0001.png" size="26511733" crc="a1dc0a41" sha1="67ec8a3f88cbe8512b6375cace94cb8ae8cd4686" />
+		<rom name="0 - 0002.png" size="25239655" crc="e2c78528" sha1="a258003c48def8d6a0005e069795497dcdd92878" />
+		<rom name="0 - 0003.png" size="28739986" crc="40545907" sha1="89a898e6183e0c4e8399c5713e08adf6775068ac" />
+		<rom name="0 - 0004.png" size="29404938" crc="5575999c" sha1="b312e3198a16b6d70a55a6dbbd34459cf85e7a33" />
+		<rom name="0 - 0005.png" size="29654672" crc="d3cfe54c" sha1="b473266eee621a23d825524c65451400a259630d" />
+		<rom name="0 - 0006.png" size="30111054" crc="d897e4b6" sha1="b00de9e37c4a90f722eb49b203afcb1888033288" />
+		<rom name="0 - 0007.png" size="28981434" crc="5455c241" sha1="edcdcaed03062095541326184a28ccba1b62f5b2" />
+		<rom name="9k0-0001a-rv.ic1" size="2097152" crc="b94f7d54" sha1="dabeb440adbb7477cc880c51fb0cfc1e5f99d23b" />
+	</machine>
+	<machine name="cookpicok">
+		<description>Cooking Pico (Korea)</description>
+		<year>1999</year>
+		<publisher>Sega Toys / Samsung</publisher>
+		<rom name="samsung pico-cook.u1" size="2097152" crc="c8fd3ad4" sha1="6d35b3411df37222acb3a36e4c7830e92a8e3fba" />
+	</machine>
+	<machine name="crayola">
+		<description>Crayola - Create a World (USA)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18444-mx.ic1" size="524288" crc="04fc1c21" sha1="88738c2b5b6302385fbaad60af1221cf70cf0f93" />
+	</machine>
+	<machine name="crayolak">
+		<description>Crayola - Kurehyolla (Korea)</description>
+		<year>1996?</year>
+		<publisher>Samsung</publisher>
+		<rom name="mpr-18816-t.ic1" size="524288" crc="a89bf6cd" sha1="22400747517689b90003f16407c8fde3e3d67ee6" />
+	</machine>
+	<machine name="crayon">
+		<description>Crayon Shin-chan no Ora to Issho ni Asobou yo! (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-16370-h.ic1" size="524288" crc="966002fb" sha1="07c0acdc0871a962d9bfcc79178a1c8e8fec4953" />
+	</machine>
+	<machine name="crayonon">
+		<description>Crayon Shin-chan Oekaki Note (Japan)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-17599-h.ic1" size="524288" crc="843c3af4" sha1="878733ffb5b0464f82f102f8500650bfe0b4add4" />
+	</machine>
+	<machine name="crayononp1">
+		<description>Crayon Shin-chan Oekaki Note (Japan, prototype 1)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="crayon shinchan oekaki note (1995)(bandai)(jp)(beta).bin" size="1048576" crc="60656906" sha1="1e816a3f775b2bb5a5ae9b432ee026e65dad54d6" />
+	</machine>
+	<machine name="crayononp2">
+		<description>Crayon Shin-chan Oekaki Note (Japan, prototype 2)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="crayon shinchan oekaki note (1995)(bandai)(jp)(beta)[a2].bin" size="524288" crc="39d4c64b" sha1="52e115feb9d303993ca46aa36aa94a427f0ee141" />
+	</machine>
+	<machine name="cssbattl">
+		<description>Ninja Sentai Hurricanger &amp; Hyakujuu Sentai Gaoranger - Chou Sentai Super Battle (Japan)</description>
+		<year>2002</year>
+		<publisher>Bandai</publisher>
+		<rom name="ninja sentai hurricanger &amp; hyakujuu sentai gaoranger chou sentai super battle (japan).bin" size="1048576" crc="e3da2ace" sha1="006f5442ab0798cff18067ad948265a22595fe35" />
+	</machine>
+	<machine name="curkids">
+		<description>Smart Alex and Smart Alice - Curious Kids (USA)</description>
+		<year>199?</year>
+		<publisher>Sega?</publisher>
+		<rom name="smart alex and smart alice - curious kids (u).bin" size="524288" crc="8b5e7490" sha1="1d809139fd2926107a9fae6270b10615c6f6477f" />
+	</machine>
+	<machine name="cuteyhon">
+		<description>Cutey Honey (Japan)</description>
+		<year>1997</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-19960-s.ic1" size="524288" crc="f5c3fe17" sha1="02aa1df927a9a1ffed62ad042f348afe2810a509" />
+	</machine>
+	<machine name="dancehoc">
+		<description>Dance Pico with Hashitte Odotte Chou Happy! (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block ic1.u1" size="2097152" crc="412f06fc" sha1="e53362675c66762c3046bc03d03c22cf2c745c01" />
+	</machine>
+	<machine name="dekrangr">
+		<description>Tokusou Sentai Dekaranger (Japan)</description>
+		<year>2004</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="9d5067a3" sha1="79a09c334b518357d380d09350bc31f0df0ae243" />
+	</machine>
+	<machine name="dendaish">
+		<description>Densha Daishuugou! (Japan)</description>
+		<year>1997</year>
+		<publisher>Yonezawa</publisher>
+		<rom name="mpr-18814-t.ic1" size="524288" crc="faee3efa" sha1="3c4d76549cefb8ac8aa66f24ad347198b819ee1a" />
+	</machine>
+	<machine name="dolucky">
+		<description>Dolucky no Oekaki House (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-17804-h.ic1" size="524288" crc="4ce7b75d" sha1="aa906392c97cb12792a8cd026fdcb12d61490cf8" />
+	</machine>
+	<machine name="donaldgj">
+		<description>Donalds Gespensterjagd (Germany, prototype)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="donalds gespensterjagd (germany) (proto).bin" size="524288" crc="45c2177a" sha1="2d8591fc2e1e90033faebc0c0670e981c695daf9" />
+	</machine>
+	<machine name="donaldot">
+		<description>Donald no Obake Taiji (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-15812-h.ic1" size="524288" crc="d660d6fa" sha1="342916b5f08e90fae7ee9bd77a3ffd98286bf2f8" />
+	</machine>
+	<machine name="donaldota">
+		<description>Hajimema Series 1 - Donald no Obake Taiji (Japan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-21002-s.ic1" size="524288" crc="e3a5db51" sha1="568c7a64bec6e88f0b4d8366861f779c48d8f120" />
+	</machine>
+	<machine name="donaldts">
+		<description>Donald no Terebi Show (Japan, rev. 2)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18678 j43.ic1" size="1048576" crc="c11a2b37" sha1="9d3d17c0ec4798730bba4670bef1723ed6a46b98" />
+	</machine>
+	<machine name="doraabc">
+		<description>Doraemon - Eigo de Asobou ABC! (Japan)</description>
+		<year>199?</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="efd5d261" sha1="5addf4ea6cd6c022286a7979f758478eec0331f0" />
+	</machine>
+	<machine name="doraeiu10th">
+		<description>Doraemon Ensoku-Imohori-Undoukai (Japan, 10th Anniversary Edition Reprint)</description>
+		<year>2003</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="5adcb456" sha1="9609c98dd34e6d5e5d0389d019c3017b9f244aff" />
+	</machine>
+	<machine name="doraeiu">
+		<description>Doraemon Ensoku-Imohori-Undoukai (Japan)</description>
+		<year>199?</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="mpr-20221 j50.ic1" size="1048576" crc="7d9ebcee" sha1="cf626fe6f25435e42ce0c4cdfc8a4d335f64fe76" />
+	</machine>
+	<machine name="dorahika">
+		<description>Doraemon - Yometayo-Kaketayo Hiragana Katakana (Japan)</description>
+		<year>1999</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="9k0-0004-s.ic1" size="2097152" crc="67eae2d0" sha1="7c1d2f216ebcb28261e3a28e119266318b834ff1" />
+	</machine>
+	<machine name="dorakkkt">
+		<description>Doraemon Kazoete-Kanzan Kazu Tokei (Japan)</description>
+		<year>199?</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="c603fb1b" sha1="44ab8ac936683446a9b2a438ab22e878521ec32c" />
+	</machine>
+	<machine name="doraland">
+		<description>Doraemon - Chiiku Asobi Dora-Land (Japan)</description>
+		<year>2003</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="doraemon - chiiku asobi dora-land (j).bin" size="2097152" crc="a83470ca" sha1="e37f722d4c04cb965bbebd3da22b9f97f836c315" />
+	</machine>
+	<machine name="dorangkr">
+		<description>Ddoddo-rang Koko-rang (Korea)</description>
+		<year>1995</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9507s.ic1" size="524288" crc="042520ce" sha1="5dd748a1bdfc661d0b96f6a1d26babc6a0ae7f2d" />
+	</machine>
+	<machine name="doranmdt">
+		<description>Doraemon - Nobita no Machinaka Dokidoki Tanken! (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-16701-mx.ic1" size="524288" crc="314f6cb4" sha1="69d3c5754ccbcde0737455bf7bf0eee4ec610972" />
+	</machine>
+	<machine name="doranmk">
+		<description>Doraemon - Nobita to Maigo no Kyouryuu (Japan, rev. B)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-15701b-h.ic1" size="524288" crc="190dadbe" sha1="4ba7a3b30033f1c5b5adfd3ec7a1500ac912790d" />
+	</machine>
+	<machine name="doratimm">
+		<description>Doraemon - Time Machine de Daibouken (Japan)</description>
+		<year>1995</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="mpr-18312-t.ic1" size="524288" crc="7010775a" sha1="acfa501eddbad82dffbc75a988c7413b97b952c2" />
+	</machine>
+	<machine name="doratimmtw">
+		<description>Doraemon Machinaka (Taiwan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20358-t.ic1" size="524288" crc="cdc2855a" sha1="c9f8da3b87491543f9b9784136dbd433b2970978" />
+	</machine>
+	<machine name="dorawwk">
+		<description>Doraemon no Utatte Pico Set with Issho ni Utaou! Doraemon Wakuwaku Karaoke (Japan)</description>
+		<year>1999</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-21586-s.ic1" size="2097152" crc="17d36259" sha1="69f191db6bccb53c81561a5d3c3e47d7fcc45da9" />
+	</machine>
+	<machine name="dorayuta">
+		<description>Doraemon - Youchien wa Tanoshii na (Japan)</description>
+		<year>199?</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="mpr-19942 j45.ic1" size="1048576" crc="c68c35c0" sha1="df2a97a73cff3c097d16a18cd673177d6824c7ab" />
+	</machine>
+	<machine name="drmtour">
+		<description>Dreamland Tour (Korea)</description>
+		<year>1997</year>
+		<publisher>Sega / Samsung</publisher>
+		<rom name="samsung km23c8100dg pico-9728g.u1" size="1048576" crc="7d2aaa9a" sha1="17060b1d622fa8dffe0db2de748472c21aaac364" />
+	</machine>
+	<machine name="dumbo">
+		<description>Nurie Daisuki! Dumbo no Wakuwaku Saakasu! (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-19728 j37.ic1" size="1048576" crc="d86dc4dc" sha1="d0c490db4080e276de1b1b20d5137613a6b620c8" />
+	</machine>
+	<machine name="ecc1">
+		<description>ECC Junior no Hajimete Eigo Vol. 1 - Patty And Her Family - Patty-chan Family (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="4194304" crc="2650e0c1" sha1="2e69a43afe121ad394667fb784bc7203d9df2a12" />
+	</machine>
+	<machine name="ecc2">
+		<description>ECC Junior no Hajimete Eigo Vol. 2 - Patty Goes On A Picnic - Patty-chan no Picnic (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="4194304" crc="c867237a" sha1="f69cc420cc178d1efd9c76c853a9aa8d8cc24091" />
+	</machine>
+	<machine name="ecc3">
+		<description>ECC Junior no Hajimete Eigo Vol. 3 - Happy Birthday, Patty! - Patty-chan no o-Tanjoubi (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0059.ic1" size="4194304" crc="a7faf67c" sha1="25527816ebea51395b1abf011e3784eb24662d78" />
+	</machine>
+	<machine name="ecc4">
+		<description>ECC Junior no Hajimete Eigo Vol. 4 - Patty Loves Animals - Doubutsu Daisuki, Patty-chan (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0067.ic1" size="4194304" crc="d412c517" sha1="9cd14906040c3c5f5e4232bbd91daba5bfe2670a" />
+	</machine>
+	<machine name="ecc5">
+		<description>ECC Junior no Hajimete Eigo Vol. 5 - Merry Christmas, Patty! - Merry Christmas, Patty-chan (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0068-mx-32.ic1" size="4194304" crc="7aed02a7" sha1="9a4f2b0a0c0c8ae0bbb5977c6743e18bc65c39e0" />
+	</machine>
+	<machine name="ecc6">
+		<description>ECC Junior no Hajimete Eigo Vol. 6 - Patty Goes to the Amusement Park - Patty-chan Yuuenchi ni Iku (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0069-mx-32.ic1" size="4194304" crc="8f3335a8" sha1="7a9910d88c25197ae31f70b80f9a336dd133cba7" />
+	</machine>
+	<machine name="eccojr">
+		<description>Ecco Jr. and the Great Ocean Treasure Hunt! (Europe)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17734-h.ic1" size="524288" crc="19d01424" sha1="e958de86e66fca658e59e55207621ca8226b8831" />
+	</machine>
+	<machine name="eccojrb">
+		<description>Ecco Jr. - No fundo do mar! (Brazil)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18318-u.ic1" size="524288" crc="557670cf" sha1="fc8936611b4fb868838fd1ad60fba4944e4f8822" />
+	</machine>
+	<machine name="eccojrf">
+		<description>Ecco Jr. et la Chasse au Trésor Sous-marine! (France)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17736-mx.ic1" size="524288" crc="1b7b3825" sha1="64706b5f1240941a4989db96dab432aed6009e0a" />
+	</machine>
+	<machine name="eccojrg">
+		<description>Ecco Jr. und die große Schatzsuche im Ozean! (Germany)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="ecco jr. und die grosse schatzsuche im ozean (germany).bin" size="524288" crc="470af94e" sha1="f57b18e13d44eb1a1dc85701757e5cdafcf43faa" />
+	</machine>
+	<machine name="eccojri">
+		<description>Ecco Jr. e la Grande Caccia al Tesoro nell'Oceano! (Italy)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17738-h.ic1" size="524288" crc="03ca1014" sha1="64e5d8f749e9e6c839b3655c9e8cf38e699c058d" />
+	</machine>
+	<machine name="eccojrj">
+		<description>Ecco Jr. and the Great Ocean Treasure Hunt! (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-17853-h.ic1" size="524288" crc="8130f126" sha1="fa9b1f7602dca7d3ac3d579421b41da4ceb943a7" />
+	</machine>
+	<machine name="eccojrk">
+		<description>Ehko Junieoeui Shinbiroun Badayeohaeng (Korea)</description>
+		<year>1995?</year>
+		<publisher>Samsung</publisher>
+		<rom name="mpr-18018-t.ic1" size="524288" crc="989f59cc" sha1="83572706b7fc6a5fbece845f51425179442b184a" />
+	</machine>
+	<machine name="eccojrs">
+		<description>Ecco Jr. y la Gran Búsqueda del Tesoro en el Océano! (Spain)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17735-h.ic1" size="524288" crc="f11b9f3f" sha1="7b518e8c6b97cc68958084b65cbe3a74f34df914" />
+	</machine>
+	<machine name="eccojru">
+		<description>Ecco Jr. and the Great Ocean Treasure Hunt! (USA)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17007-h.ic1" size="524288" crc="c8862213" sha1="0eaa54e3e67469efbdb3737c8dee3b1f11fd04ed" />
+	</machine>
+	<machine name="fishpico">
+		<description>Fishing Pico - Donald no Adventure (Japan)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0015.ic1" size="2097152" crc="5bc3be15" sha1="2bbdce0aabf19ce1bde30efd39de83b1ad4b9970" />
+	</machine>
+	<machine name="futaripc">
+		<description>Futari wa Pretty Cure (Japan)</description>
+		<year>2004</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="9b99dc02" sha1="a57f509065126118abf065edf2c4189631aeeb73" />
+	</machine>
+	<machine name="gabucho">
+		<description>Gabucho Tsuri Gakkou Yatta ne! Boku Hatsuri Meijn (Japan)</description>
+		<year>1998</year>
+		<publisher>Yonezawa</publisher>
+		<rom name="mpr-20458 j53.ic1" size="1048576" crc="33a61b64" sha1="9f0a87a6baf060323b1f7b08fa905ce76cf5c1c9" />
+	</machine>
+	<machine name="gakkeabc">
+		<description>Gakken no Obenkyou Soft - Eigo ABC (Japan)</description>
+		<year>199?</year>
+		<publisher>Gakken</publisher>
+		<rom name="mpr-19309 j15.ic1" size="1048576" crc="1259f360" sha1="82ffe0b0b6b0131f06e4f4cb6b535ee45559f0f4" />
+	</machine>
+	<machine name="gakkehir">
+		<description>Gakken no Obenkyou Soft - Hiragana (Japan)</description>
+		<year>199?</year>
+		<publisher>Gakken</publisher>
+		<rom name="mpr-18684 j06.ic1" size="1048576" crc="1eb0ba1c" sha1="8ab5239a99ce2c97cfe0c4ec786538c8a153a71d" />
+	</machine>
+	<machine name="gakkekak">
+		<description>Gakken no Obenkyou Soft - Kakezan Kuku (Japan)</description>
+		<year>199?</year>
+		<publisher>Gakken</publisher>
+		<rom name="mpr-18698 j37.ic1" size="1048576" crc="6470b56e" sha1="6f5af8dfcdcea5f79a451e611e23b3e88432ef81" />
+	</machine>
+	<machine name="gakkekan">
+		<description>Gakken no Obenkyou Soft - Kanji (Japan)</description>
+		<year>199?</year>
+		<publisher>Gakken</publisher>
+		<rom name="mpr-17508-t.ic1" size="524288" crc="68aacb63" sha1="40ae0e0b6f644511e8864acd1d1965de8151c7a6" />
+	</machine>
+	<machine name="gakkekaz">
+		<description>Gakken no Obenkyou Soft - Kazu-Suuji (Japan)</description>
+		<year>1995</year>
+		<publisher>Gakken</publisher>
+		<rom name="mpr-18585-16mx.ic1" size="1048576" crc="1c828987" sha1="c12f22a7d2a99c01cd0fb70154eee07b41420d30" />
+	</machine>
+	<machine name="gakkemoj">
+		<description>Gakken Hajimete no Moji-Kotoba (Japan)</description>
+		<year>2001</year>
+		<publisher>Gakken</publisher>
+		<rom name="9k0-0034-rv.ic1" size="2097152" crc="e1f3f407" sha1="948685170cb41200e255d10db23e73d33f92b92a" />
+	</machine>
+	<machine name="gakkohik">
+		<description>Gakken no Obenkyou Soft - Tashizan Hikizan (Japan)</description>
+		<year>1995</year>
+		<publisher>Gakken</publisher>
+		<rom name="mpr-17620-s.u1" size="524288" crc="25639a73" sha1="d0a768236e21d05ea1734691ab9031ea7a4b3e47" />
+	</machine>
+	<machine name="gccaper">
+		<description>The Great Counting Caper with The 3 Blind Mice (USA)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="mpr-18459 j27.ic1" size="1048576" crc="06dc8145" sha1="76a27504a36f7d4b68892e56f7586a26326d0878" />
+	</machine>
+	<machine name="gccaperk">
+		<description>Sootjanara Yeohaeng! (Korea)</description>
+		<year>1996</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9618i.ic1" size="1048576" crc="d0ff9b7d" sha1="5370e95ac01f005bd810d8dc84e765335d64603c" />
+	</machine>
+	<machine name="gegege">
+		<description>Gegege no Kitarou (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-19091-t.ic1" size="524288" crc="f1e31a7b" sha1="8f4636e2181132715e068a4251064cf120e91d66" />
+	</machine>
+	<machine name="geumdokk">
+		<description>Geumdokki Eundokki (Korea)</description>
+		<year>1995?</year>
+		<publisher>Samsung</publisher>
+		<rom name="1242401.ic1" size="1048576" crc="b27663e5" sha1="9343306c6f021274e1fb67cfebf1b4b19587724e" />
+	</machine>
+	<machine name="godzilla">
+		<description>Godzilla - Dokidoki Kaijuu Shima (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18194 j16.ic1" size="1048576" crc="fd8a2715" sha1="47c8357c16d76dd067063c4fe61e579c8bc0e13c" />
+	</machine>
+	<machine name="gogonori">
+		<description>Norimono Studio - Go Go! Noristar Asobi Maccho (Japan)</description>
+		<year>1994</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="1b126912" sha1="092f458cc6bd53de74c54533dbde0e485a726fb1" />
+	</machine>
+	<machine name="goldran">
+		<description>Ougon Yuusha Goldran Himitsu Daihyakka (Japan)</description>
+		<year>1995</year>
+		<publisher>Takara</publisher>
+		<rom name="mpr-18207-h.ic1" size="524288" crc="9a167a43" sha1="a5c3da1403fc8a17abefa68b8dbcde751cfa74a9" />
+	</machine>
+	<machine name="gsoy">
+		<description>Game wo Shinagara Oboe You! Kantan Wakuwaku Keyboard (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="game wo shinagara oboe you kantan wakuwaku keyboard (japan).bin" size="1048576" crc="57e973f7" sha1="ffd6289f41a95ed04cb04ef40041fa9fcc4f1661" />
+	</machine>
+	<machine name="guchoko">
+		<description>Gu~chokorantan - Minna de Oekaki! Tanoshii Asobi mo Ippai! (Japan)</description>
+		<year>2001</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0033-mx.ic1" size="2097152" crc="40764bcf" sha1="9143b0688dca4c9557e8a1d05e2810cad818fafb" />
+	</machine>
+	<machine name="hairsaln">
+		<description>Oshare Pico Suteki ni Henshin! Naruchan no Oshare Hair Salon (Japan)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0025-rv.ic1" size="2097152" crc="376cfa05" sha1="ff7b03a62620ea668ab41fe731af07b78db984fc" />
+	</machine>
+	<machine name="hamstlnd">
+		<description>Doubutsu Pico Hamster Land ~Shokai Gentei-Hamster Ningyou Fuzoku~ (Japan)</description>
+		<year>2002</year>
+		<publisher>Bandai</publisher>
+		<rom name="9k0-0052-rv08.ic1" size="1048576" crc="8ff36cde" sha1="07ceac76997cb9442be45ffb8e23c226f699359b" />
+	</machine>
+	<machine name="hamtchan">
+		<description>Tottoko Hamtaro - Oekaki Ippai! Ham Chance! (Japan)</description>
+		<year>199?</year>
+		<publisher>Shogakukan</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="c71101d8" sha1="6e7c1ceeedf9c8ed641a7332fb1fe1a06d48fc17" />
+	</machine>
+	<machine name="hamtnaka">
+		<description>Tottoko Hamtaro - Haru-Natsu-Aki-Fuyu - Tottoko Nakayoshi! Ham Chance! (Japan)</description>
+		<year>2001</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="71f39f19" sha1="faa6a6c997c9a5a8f9da30b0db44df01097c12b8" />
+	</machine>
+	<machine name="hamttano">
+		<description>Tottoko Hamtaro - Tottoko Tanoshiku Aiueo - Maboroshi no Hikaru Tane wo Mitsukeru no Datsu! (Japan)</description>
+		<year>2004</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="037b7dfb" sha1="b001e0d43194dce3cb9aa7136c67e54c19fffa05" />
+	</machine>
+	<machine name="hatakuru">
+		<description>Hataraku Kuruma Daiya Pet Daishuugou (Japan)</description>
+		<year>1995</year>
+		<publisher>Yonezawa</publisher>
+		<rom name="mpr-18303-t.ic1" size="524288" crc="48ff9900" sha1="7bc48b393c815d7a596d8d8a422ed1e99172679e" />
+	</machine>
+	<machine name="hatanori">
+		<description>Exciting! Hataraku Norimono-tachi (Japan)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="exciting hataraku norimono-tachi (j).bin" size="1048576" crc="eaf2b204" sha1="3d572469af1e38b748452894a55566ac23892523" />
+	</machine>
+	<machine name="heiseijr">
+		<description>Heisei Kyouiku Iinkai Jr. Mezase Yuutousei (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18565-t.ic1" size="524288" crc="8ba23bbe" sha1="85e6ed98f5e7bfa04c1b099bba79ddd34ccdd40e" />
+	</machine>
+	<machine name="hellokcs">
+		<description>Hello Kitty no Castelo (Brazil)</description>
+		<year>19??</year>
+		<publisher>Tec Toy</publisher>
+		<rom name="mpr-18316-t.ic1" size="524288" crc="788de189" sha1="c58a8b64d6372e85199b03c379aae2cfb0308a62" />
+	</machine>
+	<machine name="hellokmc">
+		<description>Hello Kitty to McDonald de Asobo! (Japan)</description>
+		<year>2001</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0044-mk.ic1" size="2097152" crc="829a4ec5" sha1="22b8a709f88cd9a7d22c5538fd39d253af3f98c1" />
+	</machine>
+	<machine name="hellokmo">
+		<description>Hello Kitty no Machi he Odekake (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-17859 j19.ic1" size="1048576" crc="3f336747" sha1="28e866688fed6e7c0a82c3f1e91f205600afcf68" />
+	</machine>
+	<machine name="hellokso">
+		<description>Hello Kitty no Suteki na Outanjoubi (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-19639 j34.ic1" size="1048576" crc="45ded176" sha1="a451d2674a3d7aa88b8a0befb96f48b55ff77bc1" />
+	</machine>
+	<machine name="hellokst">
+		<description>Hello Kitty no Suteki na Takaramono (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18178 j14.ic1" size="1048576" crc="6262f11d" sha1="9a6293f12a47d403b950b96e0fb9d2b9ed769804" />
+	</machine>
+	<machine name="helloktb">
+		<description>Hello Kitty no Tanoshii Butoukai (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-15645-h.ic1" size="524288" crc="18256466" sha1="1dffea9f1087cdf4c92c1091f9033bd97f2e28e3" />
+	</machine>
+	<machine name="hellokto">
+		<description>Hello Kitty no Tanoshii Omiseyasan (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="d56d174d" sha1="b563b40f5b8975c01cbf468e6398930fd1830643" />
+	</machine>
+	<machine name="hiraponk">
+		<description>Hirake! Ponkikki Party wo Hirakou! (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-15646-h.bin" size="524288" crc="369d5e12" sha1="13d3c6d97cd703a7450272b44ad37e38c5339dee" />
+	</machine>
+	<machine name="hkiinkai">
+		<description>Heisei Kyouiku Iinkai Jr. (Japan)</description>
+		<year>1996</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-17860 j21.ic1" size="1048576" crc="cb3f7654" sha1="9ba109e6eda70e0a5d0885f746e22574c33b81f1" />
+	</machine>
+	<machine name="hkiinkaip">
+		<description>Heisei Kyouiku Iinkai Jr. (Japan, prototype)</description>
+		<year>1995</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="heisei kyouiku iinkai jr. (1995)(-)(jp)(beta).bin" size="524288" crc="6e3e29b9" sha1="93c46585343e48e089ede74896f66b0006896c66" />
+	</machine>
+	<machine name="hucklowl">
+		<description>Richard Scarry's - Huckle and Lowly's Busiest Day Ever (Europe)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17777 j09.ic1" size="1048576" crc="e9604594" sha1="24c892b87c0a55aa10b5a8559c3eddbaa15af69a" />
+	</machine>
+	<machine name="hucklowlf">
+		<description>Richard Scarry's - Une Journee Bien Remplie pour Cassis et Asticot (France)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17779 j19.ic1" size="1048576" crc="53f94256" sha1="9d9cdd8281e7dadb6668f35692e42fbde74d6349" />
+	</machine>
+	<machine name="hucklowlg">
+		<description>Richard Scarry's - Viel zu tun für Huckleberry und Egon. (Germany)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17780 j20.ic1" size="1048576" crc="659d7fee" sha1="d1e3e9d3dba32c39d53cfbe76f0d233ec36bab79" />
+	</machine>
+	<machine name="hucklowli">
+		<description>Richard Scarry's - La Giornata Indaffaratissima di Sandrino e Zigo-Zago (Italy)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17781 j03.ic1" size="1048576" crc="2573131a" sha1="0e5c14fe1fd3360b9269fdf219decb7ef4480304" />
+	</machine>
+	<machine name="hucklowlj">
+		<description>Richard Scarry's - Huckle to Lowly (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-17858 j02.ic1" size="1048576" crc="1b46e52f" sha1="83f33c26ec829d85b3226f85b2e0da78f7f65ff2" />
+	</machine>
+	<machine name="hucklowlk">
+		<description>Heokulwa Rollineun Babbayo (Korea)</description>
+		<year>1995?</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9515i.ic1" size="1048576" crc="c7eb7f24" sha1="5058640eb70268345e6e630ac78958c99121e294" />
+	</machine>
+	<machine name="hucklowlp">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19941004)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19941004 (1994)(realtime associates - sega)(beta).bin" size="1048472" crc="f0d08ce0" sha1="46213ef731dc66325e824b620e05577b1b4a9718" />
+	</machine>
+	<machine name="hucklowlpa">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940919)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940919 (1994)(realtime associates - sega)(beta).bin" size="1048472" crc="74cadb40" sha1="7a87c09d5827df096ad8572da3a67a3913762589" />
+	</machine>
+	<machine name="hucklowlpb">
+		<description>La Journee La Plus Occupee de Huckle et Lowly (France, prototype, 19940721)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever (prototype - jul 21, 1994) (f).bin" size="1023740" crc="026ca6f0" sha1="0e2898a56cf47576e68db772639c23a7efcaf026" />
+	</machine>
+	<machine name="hucklowlpd">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940509-D)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940509 (1994)(realtime associates - sega)(beta)[a3].bin" size="1048576" crc="9a128886" sha1="c28b84f3ea1ada7accbc777683b55c3831c4ec9b" />
+	</machine>
+	<machine name="hucklowlpe">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940509-C)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940509 (1994)(realtime associates - sega)(beta)[a2].bin" size="1048576" crc="bdd9c8fb" sha1="99223589cb5117cd8a82d780033545dcf0e53c8a" />
+	</machine>
+	<machine name="hucklowlpf">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940509-B)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940509 (1994)(realtime associates - sega)(beta)[a].bin" size="1048576" crc="782ea694" sha1="0f17bdd2747faf6a2c3bfe7846279b6ec02b8f60" />
+	</machine>
+	<machine name="hucklowlpg">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940509)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940509 (1994)(realtime associates - sega)(beta).bin" size="1048576" crc="a6bf6009" sha1="930cebb1af06fff37f0b03a1f5eb695f2581ffa5" />
+	</machine>
+	<machine name="hucklowlph">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940506-B)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940506 (1994)(realtime associates - sega)(beta)[a].bin" size="1048576" crc="98840154" sha1="73df6e4fbf2f40efd73fa2268833c9a59e9398a1" />
+	</machine>
+	<machine name="hucklowlpi">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940506-A)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940506 (1994)(realtime associates - sega)(beta).bin" size="1048576" crc="a271864c" sha1="8acead7e6af488b320d4abb7fce51d2fa0fd49b6" />
+	</machine>
+	<machine name="hucklowlpj">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940503-D)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940503 (1994)(realtime associates - sega)(beta)[a3].bin" size="1048576" crc="3491bda7" sha1="a8ba90e9f5071e7191c334ba1ce968fcef9d8ff8" />
+	</machine>
+	<machine name="hucklowlpk">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940503-C)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940503 (1994)(realtime associates - sega)(beta)[a2].bin" size="1048576" crc="828c773f" sha1="9c99abeac92bb7a536ea9c12c4f061ad13201261" />
+	</machine>
+	<machine name="hucklowlpl">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940503-B)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940503 (1995)(realtime associates - sega)(beta).bin" size="1048576" crc="a79e8c5a" sha1="baf0ec378647144948db072d32f926f188bf69e7" />
+	</machine>
+	<machine name="hucklowlpm">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940503-A)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940503 (1994)(realtime associates - sega)(beta)[a].bin" size="1048576" crc="61b37530" sha1="10ce4256b5843c0323835a760f91d1f176e7db24" />
+	</machine>
+	<machine name="hucklowlpn">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940427)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940427 (1994)(realtime associates - sega)(beta).bin" size="1048576" crc="11f32054" sha1="310683305721f63cd2a50db9464b5cf27fd877ad" />
+	</machine>
+	<machine name="hucklowlpo">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940426-E)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940426 (1994)(realtime associates - sega)(beta)[a2].bin" size="1048576" crc="fbc61621" sha1="c6392ccd79f1140739c42e476fd0c878a3680f75" />
+	</machine>
+	<machine name="hucklowlpp">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940426-D, Lower Half Broken)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever (prototype - apr 26, 1994 - d) (lower half broken).bin" size="524288" crc="5ea4c99c" sha1="86971ce70727fd3d8b52ba37fa9b7fe2d462037d" />
+	</machine>
+	<machine name="hucklowlpq">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940426-B)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940426 (1994)(realtime associates - sega)(beta)[a].bin" size="1048576" crc="f20535c5" sha1="f2dc08c8b0e4be40fec865e6530ffca7a474b6db" />
+	</machine>
+	<machine name="hucklowlpr">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940426-A)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940426 (1994)(realtime associates - sega)(beta).bin" size="1048576" crc="f325ab55" sha1="efaab9cb359acb46034b5e21ce8f5a4c2f8450e5" />
+	</machine>
+	<machine name="hucklowlps">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940424)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940424 (1994)(realtime associates - sega)(beta).bin" size="1048472" crc="4e032111" sha1="7e0966ef8dfd19102a8682f1d8f6ebd41a6903f0" />
+	</machine>
+	<machine name="hucklowlpt">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940422)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940422 (1994)(realtime associates - sega)(beta).bin" size="1048576" crc="2bfb25ac" sha1="227a2b1c36044ea4141d49eba006e927ecdd3337" />
+	</machine>
+	<machine name="hucklowlpu">
+		<description>Huckle and Lowly's Busiest Day Ever (prototype, 19940302)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="huckle and lowly's busiest day ever rev 19940502 (1994)(realtime associates - sega)(beta).bin" size="667784" crc="265ad2d0" sha1="de457d6e1c6037a2c165c0f65037aadd9c73042c" />
+	</machine>
+	<machine name="hucklowls">
+		<description>Richard Scarry's - El Día Más Ajetreado de las Vidas de Felipe y Gusy (Spain)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17778 j18.ic1" size="1048576" crc="d529aacd" sha1="e65c808a51499c254ec24cbf9fb611a10e7505ff" />
+	</machine>
+	<machine name="hucklowlu">
+		<description>Richard Scarry's - Huckle and Lowly's Busiest Day Ever (USA)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-16714 j02.ic1" size="1048576" crc="42007e92" sha1="ce0b387427226baa4067d6eacebe90cef760a18e" />
+	</machine>
+	<machine name="ihthomas">
+		<description>Issho ni Hashirou Kikansha Thomas (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-18697-t.ic1" size="524288" crc="e5b93c6c" sha1="bf542822f90bd5c5590b8ae637b85c5ea982688c" />
+	</machine>
+	<machine name="imagtrn">
+		<description>Image Training for the Right Side of the Brain - The Arithmetic &amp; ABC Fight vs Mojars (Japan)</description>
+		<year>2004</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="sansuu - eigo de mojars ni chousen - image training for the right side of the brain (j).bin" size="2097152" crc="42a578a8" sha1="5ca5f0ef8741acb5d58ce0f61e6789ec2adb00ea" />
+	</machine>
+	<machine name="itsudemo">
+		<description>Itsudemo Issho Doraemon Set (Japan)</description>
+		<year>199?</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="mpr-9k0-0009-mx.u1" size="2097152" crc="da7e56dc" sha1="fac2a89ed72a7fb85c6d02a46048a062de67486d" />
+	</machine>
+	<machine name="jackjill">
+		<description>Adventures in Letterland with Jack &amp; Jill (USA)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="mpr-18588-u.ic1" size="1048576" crc="e846858b" sha1="fe4412ba81673894167841f47780a3f67d93c4e7" />
+	</machine>
+	<machine name="jackjillk">
+		<description>Geuljanara Yeohaeng! (Korea)</description>
+		<year>1996</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9619i.ic1" size="1048576" crc="7fb65731" sha1="d31699afc125338eacbbbf8a0e45ce786888e2a8" />
+	</machine>
+	<machine name="jeulgeop">
+		<description>Jeulgeo-oon Pati-leul Yeolja! (Korea)</description>
+		<year>199?</year>
+		<publisher>Samsung?</publisher>
+		<rom name="mpr-17862-h.ic1" size="524288" crc="311a471e" sha1="d89bcc9111e7a2fa2fb85b77ea6c79c622bbd440" />
+	</machine>
+	<machine name="kamen555">
+		<description>Kamen Rider Fives 555 (Japan)</description>
+		<year>2003</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="2194fad5" sha1="944f588cc0bcf2311852e83dfc4a67387aada3af" />
+	</machine>
+	<machine name="kamenrid">
+		<description>Kamen Rider Agito &amp; Kuuga - Wild Battle (Japan)</description>
+		<year>2001</year>
+		<publisher>Bandai</publisher>
+		<rom name="kamen rider agito &amp; kuuga wild battle (japan).bin" size="1048576" crc="316596dc" sha1="18dc0756e0c61a397fe88d06c5915d543440d16e" />
+	</machine>
+	<machine name="kanshuno">
+		<description>Kanshuu Unou Image Training - Hiragana - Katakana (Japan)</description>
+		<year>2000</year>
+		<publisher>Pony Canyon</publisher>
+		<rom name="9ko-0019-mk-08.ic1" size="1048576" crc="8e12c06d" sha1="88d1f8ce5ef824f1a989bed02f4dbf9b7861ee05" />
+	</machine>
+	<machine name="kanshunobs">
+		<description>Kanshuu Unou Image Training - Hiragana - Katakana (Best Selection, Japan)</description>
+		<year>2005</year>
+		<publisher>Pony Canyon</publisher>
+		<rom name="shichida makoto kanshuu unou image training hiragana katakana casino de moja vegas dream best selection (j).bin" size="2097152" crc="f7dc86dc" sha1="d3ff8969d9262688a92ee51c8cd3fc9d48f027c9" />
+	</machine>
+	<machine name="kawai3s">
+		<description>Kawaii Nakama wo Sodate you! 3-tsu no Shippo (Japan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20905-s.ic1" size="2097152" crc="a6dea807" sha1="0a5cb3a917880b755465d3bd9d110dffcb52a2a3" />
+	</machine>
+	<machine name="kerohar">
+		<description>Kero Kero Keroppi no Harikiri Undoukai (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-16165-h.bin" size="524288" crc="8386ab4c" sha1="6e424a9f3ce358b93a5dcd29315dd2db809c6989" />
+	</machine>
+	<machine name="keroiro">
+		<description>Kero Kero Keroppi no Irokatachi (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18013 j11.ic1" size="1048576" crc="37dae2f5" sha1="874e8d0466e0585fa7db3b70df871875ddf29cb2" />
+	</machine>
+	<machine name="keyboard">
+		<description>Keyboard Pico (Korea)</description>
+		<year>2001?</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-kbd.ic2" size="1048576" crc="92f13c50" sha1="5657fa083c1bc64aac721a97877c80cb40cb3172" />
+	</machine>
+	<machine name="keybord2">
+		<description>Keyboard Pico 2 Set with Sawatte Miyou! Yoiko no Hajimete Keyboard (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20136 j48.ic2" size="1048576" crc="01b0869e" sha1="95dd0c0517bfa468486a14959ebb1b10a70227d7" />
+	</machine>
+	<machine name="kikilala">
+		<description>Kiki &amp; Lala - Hoshi no Kazu Asobi (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="8250f8d6" sha1="c1322828a22148cc678fa637f156cb56d49e50a4" />
+	</machine>
+	<machine name="kitchenp">
+		<description>Oryouri Daisuki! Kitchen Pico (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="2097152" crc="9a74e63f" sha1="3525ca7bba4e2c747734ae5cf0d4673052c3874c" />
+	</machine>
+	<machine name="kitereda">
+		<description>Kiteretsu Daihyakka - Edo ni Itte Kiteretsu Saisamaniau Nari (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17436-h.ic1" size="524288" crc="85f80871" sha1="e13ad62f7dbd270f74a4dbbe881d1ca619899d31" />
+	</machine>
+	<machine name="kittykbd">
+		<description>Kitty to Minna no Keyboard Pico Sanrio Puroland ni Ikou! (Japan)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0014-mx.ic2" size="2097152" crc="3df93ffe" sha1="06df86055b9d4cd06d91406ad6639d9729ccde97" />
+	</machine>
+	<machine name="konichan">
+		<description>Go! Go! Koni-chan! Dokidoki World (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-19727-t.ic1" size="524288" crc="b8d9a5cc" sha1="0727fe4c7050e9ef3baa74bf153258c435232ac6" />
+	</machine>
+	<machine name="kosumemk">
+		<description>Kosume Pico Motto Kawaiku Naritai na (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="bfc8fa4b" sha1="07c4ee9f8cd73ff64ea9c18fc8573e1bf57a4d5f" />
+	</machine>
+	<machine name="kpkuruma">
+		<description>Race ni de Youyo! Ken-chan to Pepe Boku no Kuruma de Daibouken (Japan)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="race ni deyou yo ken-chan to pepe boku no kuruma de daibouken (japan).bin" size="1048576" crc="466c69db" sha1="af6dde5231081e91e88235765ab3d340d783ddd3" />
+	</machine>
+	<machine name="kpwdrive">
+		<description>Saa Shuppatsuda! Ken-chan to Pepe no Wanpaku Drive (Japan)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="saashuppatsuda ken-chan to pepe no wanpaku drive (japan).bin" size="1048576" crc="1eb9b7f6" sha1="bed4ce255b139f0e71eb3197a058075e0c051aa1" />
+	</machine>
+	<machine name="kpwdrivek">
+		<description>Jeulgeoun Deuraibeu (Korea)</description>
+		<year>1996?</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9627l.ic1" size="1048576" crc="2a7574b6" sha1="0d1a3b02f33b1fddc90ba70785873b148f0a8fd2" />
+	</machine>
+	<machine name="kumon1k">
+		<description>Kumon no Sukusuku Ressun 1-Kara 30-made no Suuji (Japan)</description>
+		<year>2001</year>
+		<publisher>Kumon</publisher>
+		<rom name="9k0-0040.ic1" size="4194304" crc="2019bb5b" sha1="c8828068b6fb15cdcbd116860390241f5743c140" />
+	</machine>
+	<machine name="legofun">
+		<description>Lego Fun to Build (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18686-u.ic1" size="1048576" crc="cbcc377c" sha1="2f269325deef0db0a14e3b0d3cdf9a0c06436a70" />
+	</machine>
+	<machine name="liccachn">
+		<description>Licca-chan ni Naritai! (Japan)</description>
+		<year>2001</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k2-0047-rv.ic1" size="2097152" crc="a0e18b3e" sha1="a1ac56d43eeade0fa57ee3791f43a5447a8da824" />
+	</machine>
+	<machine name="lionking">
+		<description>The Lion King - Adventures at Pride Rock (Europe)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18460 j30.ic1" size="1048576" crc="a7b92dc1" sha1="7f20cd3bec73624f93c8235887ad82f33a78077e" />
+	</machine>
+	<machine name="lionkingb">
+		<description>O Rei Leão - As Aventuras de Simba (Brazil)</description>
+		<year>19??</year>
+		<publisher>Tec Toy</publisher>
+		<rom name="mpr-18809 j47.ic1" size="1048576" crc="e0e0fef1" sha1="32c18f081935a2752c942a1570aedb9b9b4ade18" />
+	</machine>
+	<machine name="lionkingf">
+		<description>Les Aventures du Roi Lion (France)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18557-u.ic1" size="1048576" crc="f8a95177" sha1="8c1853e1c6eba378cb2efc71039462cbb021c0ed" />
+	</machine>
+	<machine name="lionkingg">
+		<description>Die Abenteuer des Löwen Königs (Germany)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18568 j33.ic1" size="1048576" crc="1102c039" sha1="d0a352378c5ce9baacb9d161cb04f63d4913ce50" />
+	</machine>
+	<machine name="lionkingk">
+		<description>Peuraideu Rokeui Moheom (Korea)</description>
+		<year>2001?</year>
+		<publisher>Samsung</publisher>
+		<rom name="1262401.ic1" size="1048576" crc="6dfc0fe5" sha1="adb29bf6f37a028db9f3c677596921af96e52d43" />
+	</machine>
+	<machine name="lionkingp1">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950616)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950616 (1995)(realtime associates - sega)(beta).bin" size="1048576" crc="66d90805" sha1="6f571135acf76fa540b25c1670410d5d9fe016d8" />
+	</machine>
+	<machine name="lionkingp2">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950615)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950615 (1995)(realtime associates - sega)(beta).bin" size="1036340" crc="0588d13c" sha1="0814754b867eb61f1e546910c4fd063960a85e62" />
+	</machine>
+	<machine name="lionkingp3">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950522)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950522 (1995)(realtime associates - sega)(beta).bin" size="1048576" crc="3ad71894" sha1="92f6f45a4f635d42824fb6fb23b34854d47cf82d" />
+	</machine>
+	<machine name="lionkingp4">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950517)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950517 (1995)(realtime associates - sega)(beta).bin" size="1036340" crc="f943083f" sha1="fc2bb183b0aed8ad6134fd345d83d43fef924a27" />
+	</machine>
+	<machine name="lionkingp5">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950516)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950516 (1995)(realtime associates - sega)(beta).bin" size="1036340" crc="6fbfd61b" sha1="35b1ff9b842271055fea434406eb6d0d2dafcb0f" />
+	</machine>
+	<machine name="lionkingp6">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950501)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950501 (1995)(realtime associates - sega)(beta).bin" size="1042622" crc="d5ecd5fd" sha1="29f505bb944cec4b09e6a2baf7dd72427f9d1574" />
+	</machine>
+	<machine name="lionkingp7">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950425)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950425 (1995)(realtime associates - sega)(beta).bin" size="1048576" crc="b948be65" sha1="0a7a95ef14997bc617b137e4e7da5cc3762bc516" />
+	</machine>
+	<machine name="lionkingp8">
+		<description>The Lion King - Adventures At Pride Rock (prototype, 19950419)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="lion king, the - adventures at pride rock rev 19950419 (1995)(realtime associates - sega)(beta).bin" size="1048576" crc="97effc7b" sha1="9df5d484be194516604b901349dee19fa30ee2f7" />
+	</machine>
+	<machine name="lionkings">
+		<description>Las Aventuras del Rey León (Spain)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18571 j32.ic1" size="1048576" crc="ca5534bc" sha1="f3eb0844b49329e2f522e595d887adee7171e88b" />
+	</machine>
+	<machine name="lionkingsw">
+		<description>Lejonkungen - Äventyr (Sweden)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18578-u.ic1" size="1048576" crc="c515eb6e" sha1="f72f9037c7f21a6ba5bebd7f835ae74be352d29a" />
+	</machine>
+	<machine name="lionkingu">
+		<description>The Lion King - Adventure at Pride Rock (USA)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18098 j15.ic1" size="1048576" crc="2c0db3b9" sha1="2da72b5ab41d95675163850bab11e38d7e8a098d" />
+	</machine>
+	<machine name="magiccra">
+		<description>Magic Crayons (Europe)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17729-h.ic1" size="524288" crc="8f97e8fb" sha1="c03f33fabf77989f0177a20b786447728eaae96e" />
+	</machine>
+	<machine name="magiccrab">
+		<description>Cores Mágicas (Brazil)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18319-t.ic1" size="524288" crc="81046d4d" sha1="ca2ffba211e088a9b1f0047e86013e65e2948b04" />
+	</machine>
+	<machine name="magiccraf">
+		<description>Crayons Magiques (France)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17731-h.ic1" size="524288" crc="dc2aeb72" sha1="34ff47646eb90f243b4a793ecff3591ee85a71d0" />
+	</machine>
+	<machine name="magiccrag">
+		<description>Zauberbuntstifte (Germany)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="zauberbuntstifte (germany).bin" size="524288" crc="3218ba97" sha1="40f6585ea1a79ce96097388115c639cf8c4ccdc3" />
+	</machine>
+	<machine name="magiccrap1">
+		<description>Magic Crayons (prototype, 19940614)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons rev 19940614 (1994)(sega)(beta).bin" size="514778" crc="8d4c66f4" sha1="f9f8a87a19ba36e2852f9f5c8a062345f2a4d7a6" />
+	</machine>
+	<machine name="magiccrap2">
+		<description>Magic Crayons (prototype, 19940623)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons rev 19940623 (1994)(sega)(beta).bin" size="515290" crc="d4604e6e" sha1="ea7f41f2e6f0a24c6c06531cb20e40139ae0efb8" />
+	</machine>
+	<machine name="magiccrap3">
+		<description>Magic Crayons (prototype, 19940630)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons rev 19940630 (1994)(sega)(beta).bin" size="524288" crc="51a06b4e" sha1="402cedcc402a72222f2e718493e38bf9a206df84" />
+	</machine>
+	<machine name="magiccrap4">
+		<description>Magic Crayons (prototype, 19940926)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons rev 19940926 (1994)(sega)(beta).bin" size="515222" crc="579ca72b" sha1="eb755371b32e5c83bb347942e84b3f9e5fb8fd4c" />
+	</machine>
+	<machine name="magiccrap5">
+		<description>Magic Crayons (prototype, 19941006)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons rev 19941006 (1994)(sega)(beta).bin" size="515222" crc="864d2c7c" sha1="718975648c1184954ed2aa6fbefc724fb99b98a5" />
+	</machine>
+	<machine name="magiccrap6">
+		<description>Magic Crayons (prototype, 19941011)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons rev 19941011 (1994)(sega)(beta).bin" size="524288" crc="f9d086fd" sha1="8e22b5d6153da0f5458a5cd38c5169baa82df540" />
+	</machine>
+	<machine name="magiccrap7">
+		<description>Magic Crayons (prototype, 19941012)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons rev 19941012 (1994)(sega)(beta).bin" size="524288" crc="efa0da47" sha1="5b234db6399a72c718bc60ff8fa6e39b88420322" />
+	</machine>
+	<machine name="magiccrap">
+		<description>Magic Crayons (prototype)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="magic crayons (1994)(sega)(beta).bin" size="524288" crc="f4ba1e9b" sha1="8d77011f2349eb14b51e76c08474817a0f318f99" />
+	</machine>
+	<machine name="magiccras">
+		<description>Lápices de Colores Mágicos (Spain)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17730-h.ic1" size="524288" crc="7fe5394e" sha1="5e40b09d2f14fdac6069c09118a6af8c76f488b8" />
+	</machine>
+	<machine name="magiccrau">
+		<description>Magic Crayons (USA)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17005-h.ic1" size="1048576" crc="a443512b" sha1="08a3236fa54a6a4993baf5cf4c1ffbd77739c6bf" />
+	</machine>
+	<machine name="magschol">
+		<description>Scholastic's The Magic School Bus (USA)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18587-t.ic1" size="524288" crc="e6ef55f9" sha1="927e48f24745732235de4745d3acf1656750e12b" />
+	</machine>
+	<machine name="mcdonald">
+		<description>McDonald de Asobo! (Japan)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0002.ic1" size="2097152" crc="474d946e" sha1="3615cf2f28133c3d35003bef16a517d5379e9c20" />
+	</machine>
+	<machine name="megarang">
+		<description>Denji Sentai Megaranger (Japan)</description>
+		<year>1997</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-19856-t.ic1" size="524288" crc="b69b31ba" sha1="f1fd7787e6bcbba207dbb8b0a43960fe8618c2e4" />
+	</machine>
+	<machine name="mickblst1">
+		<description>Mickey's Blast Into the Past (prototype, 19940608)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mickey's blast into the past rev 19940608 (1994)(sega)(beta).bin" size="1048576" crc="a9dbf978" sha1="f6fba5c1992a4b5f7109845706f02a76184bf3ba" />
+	</machine>
+	<machine name="mickblst2">
+		<description>Mickey's Blast Into the Past (prototype, 19940721)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mickey's blast into the past rev 19940721 (1994)(sega)(beta).bin" size="1048576" crc="a0ae9860" sha1="595c464b9aa104db104a58f9b5d73f006e438c9f" />
+	</machine>
+	<machine name="mickblst3">
+		<description>Mickey's Blast Into the Past (prototype, 19940723)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mickey's blast into the past rev 19940723 (1994)(sega)(beta).bin" size="1048576" crc="d78baabc" sha1="baf6ccf28557b148f984ed58cafca1c55496e245" />
+	</machine>
+	<machine name="mickblst4">
+		<description>Mickey's Blast Into the Past (prototype, 19940725)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mickey's blast into the past rev 19940725 (1994)(sega)(beta).bin" size="524288" crc="1a2760fe" sha1="d19812e54b2a0c6b086bea861c4209841eb0adac" />
+	</machine>
+	<machine name="mickblst5">
+		<description>Mickey's Blast Into the Past (prototype, 19940801)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mickey's blast into the past rev 19940801 (1994)(sega)(beta).bin" size="524288" crc="90b047f6" sha1="8596cdb62ff03a2f602344a16b61a1f487fa7c96" />
+	</machine>
+	<machine name="mickblst6">
+		<description>Mickey's Blast Into the Past (prototype, 19940809)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mickey's blast into the past rev 19940809 (1994)(sega)(beta).bin" size="524288" crc="08f46903" sha1="c0414c1524567fef2ddbff1762b8cce9803b81a0" />
+	</machine>
+	<machine name="mickblst">
+		<description>Mickey's Blast into the Past (Europe)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17782-h.ic1" size="524288" crc="28d87851" sha1="82482636109e42135ae7db677d92ff814a684633" />
+	</machine>
+	<machine name="mickblstb">
+		<description>Mickey Viajando no Tempo (Brazil)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18315-t.ic1" size="524288" crc="a1d63b9a" sha1="b1912dd0ddd19c38cc5dfeb92e669535b2e1619f" />
+	</machine>
+	<machine name="mickblstf">
+		<description>Mickey - Fait un Voyage Eclair Dans Le Passé (France)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17784-h.ic1" size="524288" crc="fafee898" sha1="6cacd57339ad8dcdbc40f08abffb6fa0f00b5ae5" />
+	</machine>
+	<machine name="mickblstg">
+		<description>Mickey - Ausflug in die Vergangenheit (Germany)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17785-h.ic1" size="524288" crc="627ea96c" sha1="eab3c41aef6c30adc82e92e143ffc0360118b99e" />
+	</machine>
+	<machine name="mickblsti">
+		<description>Lancio di Topolino nel Passato (Italy)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17786-t.ic1" size="524288" crc="6e406f2c" sha1="16702ae751798a59e7c81c3e373ceb247b1ea0c3" />
+	</machine>
+	<machine name="mickblsts">
+		<description>Mickey - Le Echa un Vistazo al Pasado (Spain)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17783-h.ic1" size="524288" crc="64809150" sha1="76a7a97d11b7a86e68e88e6bb1238c9c3b998b35" />
+	</machine>
+	<machine name="mickblstu">
+		<description>Mickey's Blast into the Past (USA)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17008-h.ic1" size="524288" crc="2628f6ef" sha1="1d04a40d353f71061b206d893d2d8e7864a2faee" />
+	</machine>
+	<machine name="mickbmt">
+		<description>Mickey no Boku wa Meitantei (Japan)</description>
+		<year>2000</year>
+		<publisher>Kodansha</publisher>
+		<rom name="9ko-0021-mx.ic1" size="2097152" crc="2eb957b3" sha1="b11e35b71a3d24fddad746b60c1f79ea011d39c1" />
+	</machine>
+	<machine name="mickbmttw">
+		<description>Mickey to Ookina Furudokei (Taiwan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20642 j54.ic1" size="1048576" crc="27b74c2d" sha1="459b9c49124894e0a3e5124d13ce34ff109ff076" />
+	</machine>
+	<machine name="mickdsr">
+		<description>Mickey no Tokyo Disneyland Stamp Rally (Japan, rev. A)</description>
+		<year>199?</year>
+		<publisher>Kodansha</publisher>
+		<rom name="mpr-19068a-t.ic1" size="524288" crc="f3d95a84" sha1="25d7b87e42e69e49d813b7f49888696dd5924c51" />
+	</machine>
+	<machine name="mickdsra">
+		<description>Mickey no Tokyo Disneyland Stamp Rally (Japan)</description>
+		<year>199?</year>
+		<publisher>Kodansha</publisher>
+		<rom name="mpr-19068-t.ic1" size="524288" crc="bbd0d994" sha1="94ba4902c9675cd9bf9e6f0449ee87c34c90072b" />
+	</machine>
+	<machine name="mickladv">
+		<description>Mickys Lustiges Abenteuer (Germany, prototype)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mickys lustiges abenteuer (germany) (proto).bin" size="524288" crc="c301a37f" sha1="7ba83b5b8cd085989e0be0c773e0699e278fe47e" />
+	</machine>
+	<machine name="mickofrd">
+		<description>Mickey to Ooki na Furudokei (Japan, rev. 2)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17900 j04.ic1" size="1048576" crc="cb331903" sha1="c790d72aef37a835e977231e8097c1f4950a1b11" />
+	</machine>
+	<machine name="mickuts">
+		<description>Mickey to Utau Tori no Shima (Japan)</description>
+		<year>1998</year>
+		<publisher>Kodansha</publisher>
+		<rom name="mpr-21120-s.ic1" size="1048576" crc="643700aa" sha1="d47298e7dab451218cede56fd758401e356e6b2b" />
+	</machine>
+	<machine name="mickybk">
+		<description>Mickey no Yukai na Bouken (Japan, rev. A)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-15644a-h.ic1" size="524288" crc="a07db677" sha1="2d385f42d609b3f0c1b9c392a3dc2195e89fbcd3" />
+	</machine>
+	<machine name="mickybka">
+		<description>Mickey no Yukai na Bouken (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-15644-h.ic1" size="524288" crc="5a6767a9" sha1="bb35a699c883121dbe5b16877531c2ba8e1d2242" />
+	</machine>
+	<machine name="mickybkk">
+		<description>Mikiwa Moheom-eul Ddeonayo (Korea, rev. 1?)</description>
+		<year>199?</year>
+		<publisher>Samsung?</publisher>
+		<rom name="mpr-17861a-t.ic1" size="524288" crc="bb51f4ca" sha1="d3f635960540e8554eb99e58b319e6c4ac1ecec6" />
+	</machine>
+	<machine name="mimitata">
+		<description>Miimi to Taata no Waiwai Oekaki Doubutsuen (Japan)</description>
+		<year>1993</year>
+		<publisher>Sega</publisher>
+		<rom name="opr-16285.ic1" size="524288" crc="070cb5d6" sha1="b056919eed642d3838c4d9cd71750bce9bf3a999" />
+	</machine>
+	<machine name="minimoea">
+		<description>Mini Moni. - Eigo de Asobundapyon! (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="9cedfac5" sha1="dea9772e3503180a844b4728e3ed8eeb0911a978" />
+	</machine>
+	<machine name="minimosn">
+		<description>Mini Moni. Shougakkou he Iku Ndapyon! (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="bfe1ceb5" sha1="b0f82f3b7ad188656a048dd24fff8b844ca6068c" />
+	</machine>
+	<machine name="minimotd">
+		<description>Mini Moni. - Terebi ni Derundapyon! (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="67069e42" sha1="f508bc6891d1dd2cbe52007c1d0645de685b478a" />
+	</machine>
+	<machine name="mkaraoke">
+		<description>Minna de Karaoke! Issho ni Utaou Suki na Uta! (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20207 j49.ic1" size="1048576" crc="68c7d517" sha1="a7ddcc4e3fc2e2504bb063c9c9cd4aba37fa4c57" />
+	</machine>
+	<machine name="moomin">
+		<description>Jidou Eiken Taiou Soft Moomin to Eigo Tanjoubi no Okurimono (Japan)</description>
+		<year>1995</year>
+		<publisher>Obunsha</publisher>
+		<rom name="mpr-18011 j10.ic1" size="1048576" crc="5ced9954" sha1="0c7fdafefac1cf2b536faaac8a551529ab171b29" />
+	</machine>
+	<machine name="moshimos">
+		<description>Moshimoshi Pico Set with Dare ga Deru kana? Moshimoshi Pico de TV to Oshaberi! (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-19765 j44.u1" size="1048576" crc="13df7314" sha1="22f0d1c6a37eff02ee3a277ea9df018304557ccf" />
+	</machine>
+	<machine name="mottodrm">
+		<description>Mo~tto! Ojamajo Doremi (Japan)</description>
+		<year>2001</year>
+		<publisher>Bandai</publisher>
+		<rom name="9k0-0039-rv.ic1" size="1048576" crc="42d8aad2" sha1="807eba6e44cb941b295f4f047ef949eea63f82fc" />
+	</machine>
+	<machine name="muattago">
+		<description>Muat Tago Galka (Korea)</description>
+		<year>1998</year>
+		<publisher>Sega / Samsung</publisher>
+		<rom name="samsung km23c8100dg pico-9840g.u1" size="1048576" crc="9974d421" sha1="7026dec346ce459ad5e81f3c4d209e2480d6626c" />
+	</machine>
+	<machine name="mukabana">
+		<description>Nihon Mukashi Banashi (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-17803-h.ic1" size="524288" crc="b62514d0" sha1="5c128fcc3ce49434e1e3c834a9fcec7b28c5480e" />
+	</machine>
+	<machine name="muppetgo">
+		<description>The Muppets on the Go! (USA)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18874-t.ic1" size="524288" crc="d686b96e" sha1="731ad3ab65f1681f48594cad86e1a1adb9f57829" />
+	</machine>
+	<machine name="muppetgop1">
+		<description>The Muppets on the Go! (prototype 19950721)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19950721.bin" size="110702" crc="0c46ce64" sha1="bcac49c86efcfed1c9118c4474db613d3a6cdd45" />
+	</machine>
+	<machine name="muppetgop2">
+		<description>The Muppets on the Go! (prototype 19960301)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960301.bin" size="512310" crc="40c166a8" sha1="4cba6235d7313dd6e29baca19d3da12254543f65" />
+	</machine>
+	<machine name="muppetgop3">
+		<description>The Muppets on the Go! (prototype 19960313)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960313.bin" size="520855" crc="78c4ca77" sha1="1dee90992fc6bb3107320ae8b5c3049d6282cd28" />
+	</machine>
+	<machine name="muppetgop4">
+		<description>The Muppets on the Go! (prototype 19960322, set 1)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960322-1.bin" size="522092" crc="5ccc16bb" sha1="76aa37de7502e09c1aaeb94d2cae9877abd574fd" />
+	</machine>
+	<machine name="muppetgop5">
+		<description>The Muppets on the Go! (prototype 19960322, set 2)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960322-2.bin" size="522092" crc="46424c1e" sha1="026af855e55ce53c351798375d8c8cb38f756b6c" />
+	</machine>
+	<machine name="muppetgop6">
+		<description>The Muppets on the Go! (prototype 19960324)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960324.bin" size="523960" crc="73c3bd73" sha1="286ca64d8e17f3ccc2b3802184f087e6a53837e8" />
+	</machine>
+	<machine name="muppetgop7">
+		<description>The Muppets on the Go! (prototype 19960329)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960329.bin" size="520292" crc="f40d01d1" sha1="205adadb250a5d448b87f1826961bfd40b960d42" />
+	</machine>
+	<machine name="muppetgop8">
+		<description>The Muppets on the Go! (prototype 19960330, set 1)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960330-1.bin" size="520340" crc="bfc3bbf0" sha1="9454341cd62bc9366a9f798cdeed66baf809048c" />
+	</machine>
+	<machine name="muppetgop9">
+		<description>The Muppets on the Go! (prototype 19960330, set 2)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="the muppets on the go prototype 19960330-2.bin" size="520362" crc="9abda6e4" sha1="cbf212d45b92dca2042b9c71231acfaae0992dbc" />
+	</machine>
+	<machine name="mushikin">
+		<description>Mushiking Atsumete Asobou Kouchuu Zukan (Japan)</description>
+		<year>2005</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="37c59a71" sha1="2ba57037e9155d3537c2d204de5f873f67a8a3a6" />
+	</machine>
+	<machine name="musiczoo1">
+		<description>Musical Zoo (prototype, 19950217)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="musical zoo rev 19950217 (1995)(sega)(beta)[a].bin" size="519992" crc="6159cbe2" sha1="16650fa84e5fcb4ffaf9a8ae4abbeb5920ef41c4" />
+	</machine>
+	<machine name="musiczoo2">
+		<description>Musical Zoo (prototype, 19950209)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="musical zoo rev 19950209 (1995)(sega)(beta).bin" size="519992" crc="7fda0399" sha1="62e5e5d86d6e9854c9498af44235f4d205c66f14" />
+	</machine>
+	<machine name="musiczoo3">
+		<description>Musical Zoo (prototype, 19950208)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="musical zoo rev 19950208 (1995)(sega)(beta).bin" size="524288" crc="7bb5a2a0" sha1="a0f69509ac85a761b1f52b752608c9ac1806dea8" />
+	</machine>
+	<machine name="musiczoo4">
+		<description>Musical Zoo (prototype, 19950105)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="musical zoo rev 19950105 (1995)(sega)(beta).bin" size="519992" crc="5591682a" sha1="9573036713284a579e3df4506b70f03e9cf224e8" />
+	</machine>
+	<machine name="musiczoo5">
+		<description>Musical Zoo (prototype, 19950104)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="musical zoo rev 19950104 (1995)(sega)(beta).bin" size="519992" crc="1c5ddba2" sha1="e1cdf0b23c09b3ebe74032d533aeb4be4c495a2a" />
+	</machine>
+	<machine name="musiczoo6">
+		<description>Musical Zoo (prototype, 19941220)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="musical zoo rev 19941220 (1995)(sega)(beta).bin" size="524238" crc="f3f402a1" sha1="7be6d664097d8608a3ebb0513d83e6c55692b5f8" />
+	</machine>
+	<machine name="musiczoo">
+		<description>Musical Zoo (USA)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17810-h.ic1" size="524288" crc="35add3d0" sha1="a9f0f50c0631c4be34b6e71f76d67ef156ac2552" />
+	</machine>
+	<machine name="nadja">
+		<description>Ashita no Nadja (Japan)</description>
+		<year>2003</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="0a7f07cc" sha1="19dd2e42ee1d785dfe52ec334ab5b226259f9ba5" />
+	</machine>
+	<machine name="nintama">
+		<description>Nintama Rantarou (Japan)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-18810-t.ic1" size="524288" crc="eb563723" sha1="ecb68ef756dacbf15b100ba29f62f0588c05457b" />
+	</machine>
+	<machine name="nontanis">
+		<description>Nontan to Issho Waiwai Nihon (Japan)</description>
+		<year>1996</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18107 j12.ic1" size="1048576" crc="c41e801f" sha1="dc13f49af69fc3137fba2e535fdfe09aca495b49" />
+	</machine>
+	<machine name="oekarobo">
+		<description>Oekaki Robokon!! (Japan)</description>
+		<year>1999</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-21840-s.ic1" size="524288" crc="e4116dc0" sha1="78b17719d1d3dc81394509ac6f988c05d50b638a" />
+	</machine>
+	<machine name="ojadrm">
+		<description>Ojamajo Doremi# (Japan)</description>
+		<year>2000</year>
+		<publisher>Bandai</publisher>
+		<rom name="9k0-0022-mx.ic1" size="1048576" crc="b4858fff" sha1="44bf0ee3d134174a736703e0e1354b4544a681e7" />
+	</machine>
+	<machine name="ojadrmdn">
+		<description>Ojamajo Doremi Dokka~n! (Japan)</description>
+		<year>2002</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="9c31107f" sha1="f96f74adbff56dfd1685fd769828dcc56429404e" />
+	</machine>
+	<machine name="ojarumar">
+		<description>Ojarumaru (Japan)</description>
+		<year>1999</year>
+		<publisher>Bandai</publisher>
+		<rom name="9k0-0008.ic1" size="524288" crc="ea435ada" sha1="ad87574e303a6792743409599bba25c56d777f88" />
+	</machine>
+	<machine name="okaissai">
+		<description>NHK Okaasan to Issho Do Re Mi Fa Do~nuts! Asobi Ippai Utaippai! (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-17877-h.ic1" size="524288" crc="a26f6ceb" sha1="7a13953f214dc56caa2565317ce984ab6c302b37" />
+	</machine>
+	<machine name="okaissgk">
+		<description>NHK Okaasan to Issho Genki na Ko Atsumare! (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18559-u.ic1" size="1048576" crc="6275cc32" sha1="f9d2f7a3b88cbffb1f77d595d2eb151a5fdeec92" />
+	</machine>
+	<machine name="okaissod">
+		<description>NHK Okaasan to Issho Do Re Mi Fa Do~nuts! Oekaki Daisuki! Omoshiro Oekaki Daishuugou! (Japan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-21338-s.ic1" size="1048576" crc="d3172171" sha1="1fd236710576ca69a5f361ee721fc26f64c00f4b" />
+	</machine>
+	<machine name="origami">
+		<description>Satonaka Machiko no Tanoshii Origami (Japan)</description>
+		<year>1995</year>
+		<publisher>Nayuta</publisher>
+		<rom name="mpr-18566-u.ic1" size="524288" crc="90d39634" sha1="531db0b4bce64d312e73b97341e4eaf134506068" />
+	</machine>
+	<machine name="osewashi">
+		<description>o-Sewa Shimasho! Aka-chan Pico (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="2097152" crc="1e843a86" sha1="3494b01637c5546c537839edac0471a1105797bb" />
+	</machine>
+	<machine name="oz">
+		<description>Minna de Odorou - Oz no Mahoutsukai (Japan)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18878 e11.ic1" size="2097152" crc="b2c17f1b" sha1="0c60d4ff8cef472bb9ec01af21d503a5bf8cfaa6" />
+	</machine>
+	<machine name="padding">
+		<description>Paddington no Sekai Ryokou (Japan)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18889 j49.ic1" size="1048576" crc="ac96a86d" sha1="58a8f00c0156271c5de7fa890c88a3aeaef6397e" />
+	</machine>
+	<machine name="paketto2">
+		<description>Paketto 2 - Yukai na Nakama to Game de Kazu Asobi (Japan)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20212 e61.ic1" size="2097152" crc="6dd450f5" sha1="56579b02774ec28521e1b25f16debe43bc43149f" />
+	</machine>
+	<machine name="pbasebal">
+		<description>Pico Baseball (Japan, prototype)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="pico baseball (1994)(sega)(jp)(beta).bin" size="1048576" crc="a9802c1e" sha1="e966e16409bfeaa369362625c59aab216b65b6c6" />
+	</machine>
+	<machine name="pcpico">
+		<description>Pet to Issho ni Tanoshiku Asobo - Pasokon Pico (Japan)</description>
+		<year>2004</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="2097152" crc="bdad4962" sha1="60c7404a81edcf1d558dbbd97eda0d93fc4227d9" />
+	</machine>
+	<machine name="pecola">
+		<description>Pecola no Daibouken Maboroshi no Ice Cream wo Sagase! (Japan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-21235-s.ic1" size="1048576" crc="8b393840" sha1="e89f1bcd17d4d3ba6f97bd16a13336e094b90210" />
+	</machine>
+	<machine name="penguki">
+		<description>Penguin Ukiuki Bikkuri Suizokukan Meiro Puzzle (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-16587-h.ic1" size="524288" crc="502ccaa3" sha1="92efda23d282ba2d2d7bfb5490442b55795ab9ce" />
+	</machine>
+	<machine name="pengukip">
+		<description>Penguin Ukiuki Bikkuri Suizokukan Meiro Puzzle (Japan, prototype, 19950210)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="pengin ukiuki bi kkurisuizokukan meiropazuru rev 19950210 (1994)(sega)(jp)(beta).bin" size="1048576" crc="a4a143cb" sha1="a17a6524f382b771f4f7ac1f46d7e45836300dda" />
+	</machine>
+	<machine name="pepepuzl">
+		<description>Pepe's Puzzles (USA)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17811-h.ic1" size="524288" crc="41e5618a" sha1="faf327f39af6e6f8957b307eacbd940fd02919a4" />
+	</machine>
+	<machine name="pepepuzlp1">
+		<description>Pepe's Puzzles (prototype, 19950220)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="pepe's puzzles rev 19950220 (1995)(sega)(beta).bin" size="544254" crc="e0618f30" sha1="493e165f8bcf98f98039b9c56d4a8dcf744cb178" />
+	</machine>
+	<machine name="pepepuzlp2">
+		<description>Pepe's Puzzles (prototype, 19950210)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="pepe's puzzles rev 19950218 (1995)(sega)(beta).bin" size="603388" crc="f32f45e5" sha1="26900e4f0a7b7c25b6acdc33a1a7c819fe1a543a" />
+	</machine>
+	<machine name="pepepuzlp">
+		<description>Pepe's Puzzles (prototype, 19950224)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="pepe's puzzles rev 19950224 (1995)(sega)(beta).bin" size="523930" crc="e72d9d76" sha1="4f91ed645a177d41ff145a9b4b4a7024ea9025e5" />
+	</machine>
+	<machine name="petapeta">
+		<description>Petapeta Chokkin Asoberu Zukan ~Doubutsu~ (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18300-t.ic1" size="524288" crc="4f0edce3" sha1="9782459dca47ac06890789f5299bcc0bf7466bc8" />
+	</machine>
+	<machine name="peterpan10th">
+		<description>Peter Pan - Neverland e Ikou! (Japan, 10th Anniversary Edition Reprint)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="e0ea39c0" sha1="ae35761b41632dfbe4f1a6f3065a5db2514d5558" />
+	</machine>
+	<machine name="peterpan">
+		<description>Peter Pan - Neverland e Ikou! (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20085-s.ic1" size="1048576" crc="e91ef80a" sha1="68acb94634912e38d3d25385bd00b3832042eedc" />
+	</machine>
+	<machine name="picogak1">
+		<description>Gakken Pico de Gakushuu 1-nensei (Japan)</description>
+		<year>2002</year>
+		<publisher>Gakken</publisher>
+		<rom name="9ko-0051-rv16.ic1" size="2097152" crc="242172ff" sha1="bd3695ea269ebb584129d59d18ff14cb46246003" />
+	</machine>
+	<machine name="picokag1">
+		<description>Gakken Pico de Kagaku 1 - Hakken Mushi no Himitsu (Japan)</description>
+		<year>199?</year>
+		<publisher>Gakken</publisher>
+		<rom name="9ko-0043-rv.ic1" size="2097152" crc="26029ad3" sha1="6c01cf26acc58307ac2f0f74a6c64a96318db3bb" />
+	</machine>
+	<machine name="picosamp1">
+		<description>Pico Storyware Sampler (prototype, 19960614)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="pico storyware sampler rev 19960614 (1996)(novotrade - sega)(beta).bin" size="1048576" crc="fa847f2c" sha1="a18ecc5e20d1f1c076ac76b77e2258e8045968f1" />
+	</machine>
+	<machine name="picosamp2">
+		<description>Pico Storyware Sampler (prototype, 19960607)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="pico storyware sampler rev 19960607 (1996)(novotrade - sega)(beta).bin" size="1048576" crc="3cccf1d5" sha1="9eb71e27714efa060d1d70753376f5e4ba7c203c" />
+	</machine>
+	<machine name="picosamp">
+		<description>Pico Storyware Sampler (prototype, 19960625)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="pico storyware sampler rev 19960625 (1996)(novotrade - sega)(beta).bin" size="1048576" crc="85c4f26b" sha1="d3342d20002fed586b43e26b29aefe15138d98ae" />
+	</machine>
+	<machine name="pippirtm">
+		<description>Rhythm Pico Pippi-chan to Rhythm Asobi (Japan)</description>
+		<year>1999</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="mpr-21600-s.ic2" size="2097152" crc="1652ea8d" sha1="f99a6701e6295edb41e887f50474a873cac3db57" />
+	</machine>
+	<machine name="plarail">
+		<description>Plarail Pico - Plarail de Asobou! (Japan)</description>
+		<year>2001</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0046.ic1" size="2097152" crc="442298ee" sha1="e40812561106e177b7874e6f7827aaad26b1740d" />
+	</machine>
+	<machine name="pocahont">
+		<description>Pocahontas (Europe)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18579 j34.ic1" size="1048576" crc="deefbfd9" sha1="8376f01619def050fa7a2f53d48aa32ab0e860cd" />
+	</machine>
+	<machine name="pocahontb">
+		<description>Pocahontas (Brazil)</description>
+		<year>199?</year>
+		<publisher>Tec Toy</publisher>
+		<rom name="mpr-18808 j46.ic1" size="1048576" crc="752114c8" sha1="f1ca449a2aab70f1f4aeb4430e9ee0f7384d6364" />
+	</machine>
+	<machine name="pocahontu">
+		<description>Pocahontas - Riverbend Adventures (USA)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="pocahontas - riverbend adventures (u).bin" size="1048576" crc="edf2218b" sha1="b2c70bb26f9fed925b6beab27db73d8fc7e21cd7" />
+	</machine>
+	<machine name="pokehkk">
+		<description>Pocket Monsters Advance Generation - Hiragana Katakana Kakechatta! (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="ada52e72" sha1="1fac4b9c373d441c0ba27e8a976b113cadaddfc3" />
+	</machine>
+	<machine name="pokemon">
+		<description>Pocket Monsters Suuji wo Tsukamaeyou! (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="bb46bb44" sha1="42f0b341e99ebf1596d7c4f239425ebe2e9cfb77" />
+	</machine>
+	<machine name="pokewai">
+		<description>Pocket Monsters Advance Generation - Minna De Pico - Pokemon Waiwai Battle! (Japan)</description>
+		<year>2004</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="pocket monsters advance generation minna de pico pokemon waiwai battle (japan).bin" size="2097152" crc="c3b77d13" sha1="97b88d0b09376b108d611e036e415c37d67bb943" />
+	</machine>
+	<machine name="poohcorn">
+		<description>A Year At Pooh Corner (Europe)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17787-h.ic1" size="524288" crc="6c9ea7fc" sha1="c063e2dc2789db0d72fe478bea010ac6841f3aab" />
+	</machine>
+	<machine name="poohcornb">
+		<description>Puff e as Quatro Estações (Brazil)</description>
+		<year>199?</year>
+		<publisher>Tec Toy</publisher>
+		<rom name="mpr-18334-t.ic1" size="524288" crc="88d92655" sha1="02b84b7bf5fad09ea83ee63bfd4c4296050ad8a0" />
+	</machine>
+	<machine name="poohcornf">
+		<description>Une Année en Compagnie de Winnie l'Ourson (France)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17789-h.ic1" size="524288" crc="4e4c17bc" sha1="e07a568f90a5db13bae314bfd310488320122439" />
+	</machine>
+	<machine name="poohcorng">
+		<description>Ein Jahr in Winnie Puuhs Leben (Germany)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17790-h.ic1" size="524288" crc="b4120752" sha1="3c3af9d643060e5a5477210c67528923ff107751" />
+	</machine>
+	<machine name="poohcorni">
+		<description>Un Anno con Winny Puh (Italy)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17791-t.ic1" size="524288" crc="b9594101" sha1="f03ed21a23a7777dbcd9d816712542730b6968cf" />
+	</machine>
+	<machine name="poohcornj1">
+		<description>Pooh-san no Ichi Nichi (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18115-t.ic1" size="524288" crc="654cc2a0" sha1="8d88b726a9558f1925398b561616ed3bfee3d1b2" />
+	</machine>
+	<machine name="poohcornj">
+		<description>Pooh-san no Ichi Nichi (Japan, rev. 1)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="epoxy block ic1.ic1" size="524288" crc="bd9626b7" sha1="6d9dd74c9b1b22bd173d00be88ce87d3e32bde55" />
+	</machine>
+	<machine name="poohcornjp">
+		<description>A Year At Pooh Corner (Japan, prototype)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="a year at pooh corner (1995)(sega)(jp)(beta).bin" size="524288" crc="a47878a1" sha1="16ab6f13bc8da6161f20600434db4111a16044d2" />
+	</machine>
+	<machine name="poohcornk">
+		<description>Gomdori Puooeui Sagyejeol (Korea)</description>
+		<year>1995?</year>
+		<publisher>Samsung</publisher>
+		<rom name="pico-9508i.ic1" size="524288" crc="d0641699" sha1="66a746cdc3ca9afd6a0251daf97e608130deeb44" />
+	</machine>
+	<machine name="poohcornp1">
+		<description>A Year At Pooh Corner (prototype, 19940725)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="a year at pooh corner rev 19940725 (1994)(sega)(beta).bin" size="514644" crc="93915a98" sha1="d76c9d3ded9e7374c128569470f9744a9a76e308" />
+	</machine>
+	<machine name="poohcornp2">
+		<description>A Year At Pooh Corner (prototype, 19940723)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="a year at pooh corner rev 19940723 (1994)(sega)(beta).bin" size="524288" crc="6379c899" sha1="819bfe1214b0ef9897380b657d264558792c4a43" />
+	</machine>
+	<machine name="poohcornp3">
+		<description>A Year At Pooh Corner (prototype, 19940721)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="a year at pooh corner rev 19940721 (1994)(sega)(beta).bin" size="524288" crc="eb81b2d3" sha1="0bec28cd6215c77e389c8d4214ab32255b26aeff" />
+	</machine>
+	<machine name="poohcornp4">
+		<description>A Year At Pooh Corner (prototype, 19940711)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="a year at pooh corner rev 19940711 (1994)(sega)(beta).bin" size="524288" crc="640feed2" sha1="0eacbc0dcb43de09aaa18764988056a839a3577e" />
+	</machine>
+	<machine name="poohcornp5">
+		<description>A Year At Pooh Corner (prototype, 19940608)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="a year at pooh corner rev 19940608 (1994)(sega)(beta).bin" size="1048576" crc="d4881455" sha1="48f104073567c96ccf8451dc5fc9c85bcbebf0ec" />
+	</machine>
+	<machine name="poohcornp">
+		<description>A Year At Pooh Corner (prototype, 19940809)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="a year at pooh corner rev 19940809 (1994)(sega)(beta).bin" size="524288" crc="56ad7b29" sha1="0cdfb0a8b07c9d0169aa70f1f9fa3520d6bd65f7" />
+	</machine>
+	<machine name="poohcorns">
+		<description>Un año en la esquina de Pooh (Spain)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17788-h.ic1" size="524288" crc="804448bb" sha1="826800f8edd285cd156ea53989b634a7881d6354" />
+	</machine>
+	<machine name="poohcornsw">
+		<description>Ett år med Nalle Puh (Sweden)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="0.png" size="31345139" crc="33fbbbb4" sha1="30534e90d2f0fdb17d66dce66fbaa9e03b2d5295" />
+		<rom name="mpr-18576-t.ic1" size="524288" crc="0a48bbb9" sha1="a702d91a72066bea72e7cff9013f1b94f2623761" />
+	</machine>
+	<machine name="poohcorntw">
+		<description>Zai Weini Tiandilide Yinian (Taiwan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20692-t.ic1" size="524288" crc="072a429a" sha1="fadfb37537389fa636ba1c1da0d5cdceaaf35f06" />
+	</machine>
+	<machine name="poohcornu">
+		<description>A Year At Pooh Corner (USA)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17009-h.ic1" size="524288" crc="333e88d2" sha1="65581aa9b77a5011039ff88a5b282c77ef0c9e81" />
+	</machine>
+	<machine name="poohcrs">
+		<description>Kuma no Pooh-san - Christopher Robin wo Sagase (Japan)</description>
+		<year>1998</year>
+		<publisher>Kodansha</publisher>
+		<rom name="mpr-21835-s.ic1" size="1048576" crc="40e2cdfc" sha1="14f757263f138cbe02e03c48748935224805edf1" />
+	</machine>
+	<machine name="poohhaji">
+		<description>Pooh-san no Hajimete no Eigo (Japan, rev. 1)</description>
+		<year>2001</year>
+		<publisher>Kodansha</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="265a764a" sha1="a6fc3b973518678caf89605f841cad6407c7e861" />
+	</machine>
+	<machine name="poohhajia">
+		<description>Pooh-san no Hajimete no Eigo (Japan)</description>
+		<year>2001</year>
+		<publisher>Kodansha</publisher>
+		<rom name="pooh-san no hajimete no eigo (j).bin" size="2097152" crc="7e4f093c" sha1="29bffce1aecaa7cc439ad18a23ecb4d5c919ad65" />
+	</machine>
+	<machine name="poohtano">
+		<description>Pooh-san to Tanoshii na Kamatachi (Japan)</description>
+		<year>199?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20691-t.ic1" size="524288" crc="4811d334" sha1="7321cdecb77d27e7fde6cd3937a24d24de6d35df" />
+	</machine>
+	<machine name="poohtth">
+		<description>Kuma no Pooh-san - Tanoshii Tashizan - Hikizan (Japan)</description>
+		<year>2004</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="eda6b93c" sha1="5dc53a2b40bb3f11181862c819a9fd4d02e77d9c" />
+	</machine>
+	<machine name="princehk">
+		<description>Disney Princess Suteki ni Lesson! Hiragana-Katakana (Japan)</description>
+		<year>2004</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="761e7d3c" sha1="f7e35cb1084130b95ca5add40e263d15dc54b6a5" />
+	</machine>
+	<machine name="princess">
+		<description>Disney Princesses - Princesses ni Naritai! (Japan, rev. 1)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1__alt__.ic1" size="2097152" crc="5d8d1eda" sha1="31d47cad551aa46d78565a17a78914dab3ab58ed" />
+	</machine>
+	<machine name="princessa">
+		<description>Disney Princesses - Princesses ni Naritai! (Japan)</description>
+		<year>2003</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.ic1" size="2097152" crc="64b1906b" sha1="0d2f19d9d2d96faf97aafca82f2e05fe9fc1ace8" />
+	</machine>
+	<machine name="profpico">
+		<description>Professor Pico and the Paintbox Puzzle (Europe)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17935-t.ic1" size="524288" crc="2e81a633" sha1="a32376e294d0b7f0cc2043965891784bbe614e09" />
+	</machine>
+	<machine name="profpicof">
+		<description>Professeur Pico et la Machine a Couleurs (France)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17937-u.ic1" size="524288" crc="2870805c" sha1="cec40575c1ddbb9c73241346b9e6510820c28b7a" />
+	</machine>
+	<machine name="profpicog">
+		<description>Professor Pico und das Malkasten Puzzle (Germany)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="professor pico und das malkasten puzzle (germany).bin" size="524288" crc="d2b063ed" sha1="429777d4b1204e3341bb83d72e0eb361a9f3623e" />
+	</machine>
+	<machine name="profpicoi">
+		<description>Professor Pico e l'Enigma della Scatola di Pastelli (Italy)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17939-u.ic1" size="524288" crc="8aa99b73" sha1="831816248c39133f5251b0a4bf5d92515932d536" />
+	</machine>
+	<machine name="profpicos">
+		<description>El Profesor Pico en el Mundo de los Colores (Spain)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17936-u.ic1" size="524288" crc="1596dc6a" sha1="56c27945258c46bad7f6b71f57838184349d5882" />
+	</machine>
+	<machine name="proyakyu">
+		<description>Mezase Pro Yakyuu (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17979 j05.ic1" size="1048576" crc="c66d53d2" sha1="8989810067e9aabc8fe01646fe2e6d9fca4a7059" />
+	</machine>
+	<machine name="psoccer">
+		<description>Pico Soccer - Mezase Soccer Senshu (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17844 j17.ic1" size="1048576" crc="02c3c4fd" sha1="94a10f18bcf6bea864f8223638850a55aa2be285" />
+	</machine>
+	<machine name="psoccerp">
+		<description>Pico Soccer Mezase Soccer Senshu (Japan, prototype)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="pico soccer mezase soccer senshu (1995)(sega)(jp)(beta).bin" size="524288" crc="d9849eb8" sha1="ba61a1c98aa5d03958ba745282086637680b13b2" />
+	</machine>
+	<machine name="quizdora">
+		<description>Quiz ni Challenge! Doraemon (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17530-u.ic1" size="1048576" crc="876a43a8" sha1="50214e02c82f9d85efc2dcbca6e1c82dd86b7854" />
+	</machine>
+	<machine name="rayearth">
+		<description>Magic Knight Rayearth (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17994 j06.ic1" size="1048576" crc="5e3762e2" sha1="86ced0eb5329c1cebfffc5cd977f7988a6e0c0a9" />
+	</machine>
+	<machine name="sailors">
+		<description>Bishoujo Senshi Sailor Moon S (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-16916-h.ic1" size="524288" crc="44502cc9" sha1="2706bd45dafe7470e5504485877d23864caf7277" />
+	</machine>
+	<machine name="sailorss">
+		<description>Bishoujo Senshi Sailor Moon SuperS (Japan)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-18311-t.ic1" size="524288" crc="a616e7b3" sha1="773ca5ef704a17227f25318d6e5113c0a72bf5e8" />
+	</machine>
+	<machine name="sailortp">
+		<description>Bishoujou Senshi Sailor Moon - Sailor Stars Tokimeki Party (Japan)</description>
+		<year>199?</year>
+		<publisher>Bandai</publisher>
+		<rom name="sailor stars tokimeki party (japan).bin" size="524288" crc="a503503d" sha1="6737ba2590e6dc48b125ff9725a55430465f707c" />
+	</machine>
+	<machine name="sainttl">
+		<description>Kaitou Saint Tail - Saint Tail to One, Two, Three! (Japan)</description>
+		<year>1996?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18799 j42.ic1" size="1048576" crc="e1abf964" sha1="174f46776f27d133e947ddd6dc8929f29b76d071" />
+	</machine>
+	<machine name="sanouk1a">
+		<description>Sanou Kaihatsu Series 1 Zukei Ninshiki (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18197-h.ic1" size="524288" crc="6080779d" sha1="5be121b25ab4cda4c7859707107ec04b42f25469" />
+	</machine>
+	<machine name="sanouk1">
+		<description>Sanou Kaihatsu Series 1 Zukei Ninshiki (Japan, rev. A)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18197a-u.ic1" size="524288" crc="836f6478" sha1="6194c99ac07ac343dc98fee23a8d77aa7049d779" />
+	</machine>
+	<machine name="sanouk3">
+		<description>Sanou Kaihatsu Series 3 Hikaku - Bunrui (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18304-t.ic1" size="524288" crc="c8a23b22" sha1="03dc707836be4ceaeea1ddedc5b909d8c577b504" />
+	</machine>
+	<machine name="sanouk4">
+		<description>Sanou Kaihatsu Series 4 Suiri - Kousei (Japan, rev. A)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18457a-u.ic1" size="524288" crc="2a34282a" sha1="aa0b7e4c9dac198214fcc25d3ee185b63bd1813d" />
+	</machine>
+	<machine name="sanouk5">
+		<description>Sanou Kaihatsu Series 5 Meiro - Kioku (Japan, CD Tsuki)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18458-t.ic1" size="524288" crc="6340c18a" sha1="101d5652ffd704788f1f44b671be843e3430e58a" />
+	</machine>
+	<machine name="sanouk6">
+		<description>Sanou Kaihatsu Series 6 Ouyoumondai (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-18474-mx.ic1" size="524288" crc="0444049f" sha1="cbfbbc8aea7116e319582ecd340fabae855881d0" />
+	</machine>
+	<machine name="sanriocd">
+		<description>Ai to Yume no Kuni - Sanrio Puroland - Chanto Dekirukana? Minna to Tanoshii Oyuugikai (Japan)</description>
+		<year>1998</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20986-s.ic1" size="1048576" crc="0087112a" sha1="ce47f2a5d941597475ea1565d76d7d6c0fbf1338" />
+	</machine>
+	<machine name="sanrioct">
+		<description>Sanrio Carnival Tanoshii Card Dukuri (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18573-t.ic1" size="524288" crc="732373f6" sha1="7dad2ad9f60e508d264efd048686788cfdd2f73f" />
+	</machine>
+	<machine name="sanriodc">
+		<description>Sanrio Puroland de Dance Carnival - Minna de Oryouri Osaihou (Japan, 10th Anniversary Edition Reprint, rev. 1)</description>
+		<year>2003</year>
+		<publisher>Sega</publisher>
+		<rom name="epoxy block ic1.ic1" size="1048576" crc="a947a477" sha1="80cf679b4d542e0c9dde7d026f4a37bd8dcb7c29" />
+	</machine>
+	<machine name="sanriodca">
+		<description>Sanrio Puroland de Dance Carnival - Minna de Oryouri Osaihou (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="minna de o-ryouri o-saihou (j).bin" size="1048576" crc="b69e3baa" sha1="ea7b9e819e282d7be83b07a5ca6258f01fb77541" />
+	</machine>
+	<machine name="sanriopl">
+		<description>Ai to Yume to Bouken Sanrio Puroland (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17109 j09.ic1" size="1048576" crc="6befd952" sha1="3da7124a74f53330d87d25eb5032b41eca022ff1" />
+	</machine>
+	<machine name="sekaimg">
+		<description>Sekai Meisaku Gekijou (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18118 j13.ic1" size="1048576" crc="c9334ac9" sha1="8da44d61ada02fc56b528948be443dea00709a07" />
+	</machine>
+	<machine name="sesame">
+		<description>Sesame Street - Alphabet Avenue (USA)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="sesame street - alphabet avenue (usa).bin" size="1048576" crc="ca1bbeef" sha1="62ce7f387eb9f61bdef3f74df8aff98106b022da" />
+	</machine>
+	<machine name="shimatan">
+		<description>Shima Shima Tora no Shimajiro - Tanoshii Ichi Nichi (Japan)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0024-mx.ic1" size="2097152" crc="d228a783" sha1="1b2c4a81c88a86274f0a24f63ae4ee59339b8e67" />
+	</machine>
+	<machine name="shimayum">
+		<description>Shimajiro to Yume no Kuni he Daibouken! (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block u1.u1" size="4194304" crc="00239298" sha1="606f6794cc18120684eff36f06e29a3d2f373b93" />
+	</machine>
+	<machine name="shimayuma">
+		<description>Shimajiro to Yume no Kuni he Daibouken! (Japan, alt?)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="shima shima tora no shimajirou - shimajirou to yume no kuni e daibouken (j).bin" size="4194304" crc="9782b08f" sha1="d95bdc33fa3108e6e60a9b4bccf6d53c7b36329d" />
+	</machine>
+	<machine name="shinuher">
+		<description>Shin Ultrahero (Japan)</description>
+		<year>1998</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-21326-s.ic1" size="524288" crc="92097565" sha1="db7648dd4b9c54f46b5248ee9c726848ae59998b" />
+	</machine>
+	<machine name="shirayuk">
+		<description>Shirayukihime (Japan)</description>
+		<year>1999</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0006.ic1" size="2097152" crc="6b2493a2" sha1="daad822ffbcf1784f5cda10984d4fc62352b7844" />
+	</machine>
+	<machine name="snoopy">
+		<description>Snoopy no Gakugeikai (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17636-u.ic1" size="524288" crc="b76cd97c" sha1="6d6b49249cd4513d59e1c863fed5f273113d7e9b" />
+	</machine>
+	<machine name="snoopyod">
+		<description>Ongaku Daisuki Snoopy (Japan)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18792 j43.ic1" size="1048576" crc="287e866f" sha1="28c9dc463534e7e152890e0c2a105f149dca34cd" />
+	</machine>
+	<machine name="sodatete">
+		<description>Sodatete Manabu - Doubutsu Oukoku! (Japan)</description>
+		<year>1996</year>
+		<publisher>Yonezawa</publisher>
+		<rom name="sodatete manabu doubutsu oukoku (japan).bin" size="524288" crc="40d9252e" sha1="6783a8a25bf1f71ceb7b109ddce89c94e5f492b7" />
+	</machine>
+	<machine name="sonicgam1">
+		<description>Sonic the Hedgehog's Gameworld (USA, prototype, 19960808, 07.46)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="sonic the hedgehog's gameworld rev 19960808-0746 (1996)(sega)(us)(beta).bin" size="524288" crc="4363a1e2" sha1="935b925c7a6ed36519b756f33aa2ce2240610471" />
+	</machine>
+	<machine name="sonicgam2">
+		<description>Sonic the Hedgehog's Gameworld (USA, prototype, 19960802, 08.08)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="sonic the hedgehog's gameworld rev 19960802-0808 (1996)(sega)(us)(beta).bin" size="524288" crc="c2cbfe99" sha1="c0d0eb5db0d34aa75f9be68d75f3b99d0aa2e193" />
+	</machine>
+	<machine name="sonicgam3">
+		<description>Sonic the Hedgehog's Gameworld (USA, prototype, 19960719, 01.27)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="sonic the hedgehog's gameworld rev 19960719-0127 (1996)(sega)(us)(beta).bin" size="524288" crc="ef774132" sha1="3a6dc10517df2d037f716e59c13675bebf0e4246" />
+	</machine>
+	<machine name="sonicgam4">
+		<description>Sonic the Hedgehog's Gameworld (USA, prototype, 19960701, 11.05)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="sonic the hedgehog's gameworld rev 19960701-1105 (1996)(sega)(us)(beta).bin" size="524288" crc="ddcdf94b" sha1="7ebab6cd9fc42a598082f2ab442700b414e41d9b" />
+	</machine>
+	<machine name="sonicgam">
+		<description>Sonic the Hedgehog's Gameworld (USA)</description>
+		<year>1996</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-19297-t.ic1" size="524288" crc="e472a795" sha1="839d8be99eabf371bb992166471c877db6f6e265" />
+	</machine>
+	<machine name="sonigamj">
+		<description>Sonic the Hedgehog's Gameworld (Japan, rev. 1)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17004a-u.ic1" size="524288" crc="b8f507fa" sha1="a2f920ea5737eb24591274f84b28da97db72a151" />
+	</machine>
+	<machine name="sonigamja">
+		<description>Sonic the Hedgehog's Gameworld (Japan)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="sonic the hedgehog's gameworld (j).bin" size="524288" crc="df7a9599" sha1="6af6bf20056ccac6ecdc0ebad323eaf4bffb5963" />
+	</machine>
+	<machine name="sshuttle">
+		<description>Space Pico - Uchuu Bouken Space Shuttle Pilot Set (Japan)</description>
+		<year>1997</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-20984-s.ic1" size="1048576" crc="e77f3c70" sha1="2dce1d752a922fc94d9f580a605714ffdcfbd042" />
+	</machine>
+	<machine name="susiechn">
+		<description>Susie-chan to Marvy o-Tetsudai Da~isuki! (Japan)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9ko-0027-mx.ic1" size="2097152" crc="178fd129" sha1="87c129ae9c253df476a4b588fdaa8afc0e4ecf67" />
+	</machine>
+	<machine name="sylvan">
+		<description>Silvanian Families - Mori no Nakama to Tanoshii Otanjoubikai (Japan)</description>
+		<year>2001</year>
+		<publisher>Epoch</publisher>
+		<rom name="9k0-0036-rv.ic1" size="2097152" crc="badac589" sha1="e253ef8d3695cd62621451a168818f8ebde69873" />
+	</machine>
+	<machine name="tailsmm">
+		<description>Tails and the Music Maker (Europe)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17724-h.ic1" size="524288" crc="3fd2c406" sha1="e44e6f6520b5a9b07ea2f3cadf6114d746897595" />
+	</machine>
+	<machine name="tailsmmb">
+		<description>Tails no Mundo da Música (Brazil)</description>
+		<year>19??</year>
+		<publisher>Tec Toy</publisher>
+		<rom name="mpr-18317-u.ic1" size="524288" crc="2bc80b15" sha1="4206d0264edc636d8a4d435baa87070fb8cbee5a" />
+	</machine>
+	<machine name="tailsmmf">
+		<description>Tails et le Faiseur de Musique (France)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17726-h.ic1" size="524288" crc="8cec50fa" sha1="3f1ec0e7e55c7b1c1e4577f516c24ab1068d77ef" />
+	</machine>
+	<machine name="tailsmmg">
+		<description>Tails und der Musikant (Germany)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17727-h.ic1" size="524288" crc="8edf7d4c" sha1="0b477e485a143b5bab7d26925bd587b0f3da2695" />
+	</machine>
+	<machine name="tailsmmj">
+		<description>Tails and the Music Maker (Japan)</description>
+		<year>1995</year>
+		<publisher>Imagineer</publisher>
+		<rom name="mpr-17852-h.ic1" size="524288" crc="0a9665e7" sha1="6b5f6e8775188e93a4ff572163c8d3452fe8fe13" />
+	</machine>
+	<machine name="tailsmmp1">
+		<description>Tails and the Music Maker (prototype 0927, 19940927, 14.20)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="tails and the music maker rev 0927-19940927-1420 (1994)(sega)(beta).bin" size="495190" crc="beb97cf3" sha1="3b6b392f5845a61f018d8edb5121b293ab1f32c9" />
+	</machine>
+	<machine name="tailsmmp2">
+		<description>Tails and the Music Maker (prototype 0725, 19940626, 10.44)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="tails and the music maker rev 0725-19940626-1044 (1994)(sega)(beta).bin" size="495126" crc="ebbae9ce" sha1="02dbbf88a190f6c068d3f4e39488010cd2a2601a" />
+	</machine>
+	<machine name="tailsmmp3">
+		<description>Tails and the Music Maker (prototype 0722, 19940722, 21.49)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="tails and the music maker rev 0722-19940722-2149 (1994)(sega)(beta).bin" size="524288" crc="f8246157" sha1="4f011b6055e484ddfe81acd03da8fff436b824f2" />
+	</machine>
+	<machine name="tailsmmp5">
+		<description>Tails and the Music Maker (prototype 0623, 19940624, 07.55)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="tails and the music maker rev 0623-19940624-0755 (1994)(sega)(beta).bin" size="524288" crc="17a8af59" sha1="e7e69600262eda55a9be6bde248c6f9401d5833f" />
+	</machine>
+	<machine name="tailsmmp6">
+		<description>Tails and the Music Maker (prototype 0608, 19940608, 16.55)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="tails and the music maker rev 0608-19940608-1655 (1994)(sega)(beta).bin" size="524288" crc="f83ec5e8" sha1="39914965a38350b1bef720d39576d20943e8e4a4" />
+	</machine>
+	<machine name="tailsmmp">
+		<description>Tails and the Music Maker (prototype 1004, 19941005, 12.55)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="tails and the music maker rev 1004-19941005-1255 (1994)(sega)(beta).bin" size="495190" crc="57714ba7" sha1="3dfb122ab384847712dbd3fd41c6509f7d19c363" />
+	</machine>
+	<machine name="tailsmms">
+		<description>Tails y el Músico (Spain)</description>
+		<year>19??</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17725-h.ic1" size="524288" crc="1281c3a4" sha1="832a77f8e6c59b8d0e3bbc606b6b93aa303857b6" />
+	</machine>
+	<machine name="tailsmmu">
+		<description>Tails and the Music Maker (USA)</description>
+		<year>1994</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-17006-h.ic1" size="524288" crc="982154ab" sha1="807ee1ed88ffdd780754043d836a848864155844" />
+	</machine>
+	<machine name="tanoason">
+		<description>Tanoshi ku Asonde Nouryoku Appu!! Tanoshii Youchien '95-nendoban (Japan)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-18095-h.ic1" size="524288" crc="5ac3927e" sha1="f2a6ae4c7728dd6d8052d6f9425bc06e5764941a" />
+	</machine>
+	<machine name="tanoyouc">
+		<description>4 5 6 Tanoshii Youchien (Japan)</description>
+		<year>1994</year>
+		<publisher>Bandai</publisher>
+		<rom name="tanoshi ku asonde nouryoku appu tanoshii youchien (japan).bin" size="524288" crc="ae02801d" sha1="19c061ba15c32ac4a9ee321263e36a87bb48157d" />
+	</machine>
+	<machine name="thomas">
+		<description>Kikansha Thomas ni Notte (Japan)</description>
+		<year>1994</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-17817-h.ic1" size="524288" crc="32f926ac" sha1="cf7cce404c013c57bfb0e80c5da3213af64dd505" />
+	</machine>
+	<machine name="thomasdx">
+		<description>Unten Thomas Deluxe Set (Japan)</description>
+		<year>2000</year>
+		<publisher>Bandai</publisher>
+		<rom name="9k0-0020-mx.ic1" size="1048576" crc="cf027dda" sha1="0c4a456b14ec345784517ad8339fb9b9b341cf86" />
+	</machine>
+	<machine name="tingahtt">
+		<description>Tinga-wa Haenggo-eui Toongtang Toongtang Doshi (Korea)</description>
+		<year>1996?</year>
+		<publisher>Samsung</publisher>
+		<rom name="1262413.ic1" size="1048576" crc="9cb9d32b" sha1="e6022562d2b1c7448835d47b749ed57144397c9a" />
+	</machine>
+	<machine name="tokyodtt">
+		<description>Tokyo Disneyland Toon Town - Mickey no Boku wa Untenshu (Japan)</description>
+		<year>200?</year>
+		<publisher>Kodansha</publisher>
+		<rom name="mpr-20209-s.ic1" size="1048576" crc="029c2d9f" sha1="301b2db8dca36b6aaeaa6d00e91c2f0b870b08cf" />
+	</machine>
+	<machine name="tokyosea">
+		<description>Tokyo DisneySea - Mickey to Asobou! (Japan)</description>
+		<year>2002</year>
+		<publisher>Kodansha</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="38b713b3" sha1="ad29728e7421d4b7505159dc69ba5978964c6c35" />
+	</machine>
+	<machine name="tomica">
+		<description>Tomica Pico - Bokura no Machi Tomica Town de Asobou! (Japan, rev. A)</description>
+		<year>2000</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0023a-mx.u1" size="2097152" crc="a1ace3b8" sha1="57c3da145e97ffd94397c2c265efd05ae4e43dd9" />
+	</machine>
+	<machine name="tomicarp">
+		<description>Tomica Pico Rescue Parking - Shokai-Tomica Fuzoku (Japan)</description>
+		<year>2002</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9b1-0014ar2.u1" size="2097152" crc="3e53c515" sha1="fff0d70882c10adab3065bebe4ce07aee690f674" />
+	</machine>
+	<machine name="toystor2k">
+		<description>Toy Story 2 (Korea)</description>
+		<year>199?</year>
+		<publisher>Sega Toys / Samsung</publisher>
+		<rom name="samsung pico-toy2.u1" size="2097152" crc="27ef458e" sha1="e4f908d235d25d21390a8965416a34c91b880b63" />
+	</machine>
+	<machine name="toystor2">
+		<description>Toy Story 2 - Woody Sousaku Daisakusen!! (Japan)</description>
+		<year>199?</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="epoxy block ic1.ic1" size="2097152" crc="dcea1ca1" sha1="fb1618898e0b3ea860bf5e4b6cf6ec257f4c5da9" />
+	</machine>
+	<machine name="ultradd">
+		<description>Ultraman Dyna (Japan)</description>
+		<year>1998</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-20688-s.ic1" size="524288" crc="501e97d9" sha1="b1bec7fa1fca53205fc7fec2547c8da4da4928b2" />
+	</machine>
+	<machine name="ultraden">
+		<description>Shinseiki Ultraman Densetsu (Japan)</description>
+		<year>2002</year>
+		<publisher>Bandai</publisher>
+		<rom name="epoxy block u1.ic1" size="1048576" crc="cfd50a38" sha1="971706bd87e7d611ddf379ad87fad7b3560f0ecb" />
+	</machine>
+	<machine name="ultrafgt">
+		<description>Shin Ultraman Pico Ultraman Fighting Best (Japan)</description>
+		<year>2001</year>
+		<publisher>Bandai</publisher>
+		<rom name="9k0-0048-mk-08.ic1" size="1048576" crc="203dc701" sha1="4d2d17bddb03b4ab179f4db1ffa2482137b51a29" />
+	</machine>
+	<machine name="ultraher">
+		<description>UltraHero (Japan)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-18218-h.ic1" size="524288" crc="a6cbd22e" sha1="4a6731fdfde7f65d3d8b481ff54b6cad922a335a" />
+	</machine>
+	<machine name="ultrakds">
+		<description>Ultraman Kids - Tobidase! Space Picnic (Japan)</description>
+		<year>1995</year>
+		<publisher>GE</publisher>
+		<rom name="mpr-18560-mx.ic1" size="524288" crc="093357d5" sha1="4a9bf5f5352933bb18da5f7a33da83589a04241c" />
+	</machine>
+	<machine name="ultratig">
+		<description>Ultraman Tiga (Japan)</description>
+		<year>1997</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-19657-t.ic1" size="524288" crc="35be2a19" sha1="7270c0594f0e18a3c6cf2b2a190c2999b643cd19" />
+	</machine>
+	<machine name="ultravkg">
+		<description>Ultraman vs. Kaijuu Gundan!! (Japan)</description>
+		<year>1994</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-17507-h.ic1" size="524288" crc="7f90e769" sha1="e650590a209a396fff6f3ebd7cd22ac9a62e42db" />
+	</machine>
+	<machine name="yasaclin">
+		<description>Yasashiku Oteate Pico Clinic! Kangofu-san Pico (Japan)</description>
+		<year>2001</year>
+		<publisher>Sega Toys</publisher>
+		<rom name="9k0-0042-rv.ic1" size="2097152" crc="8eb4bb04" sha1="665dcb0b332d5bd9fcc1f7de3dae4cfd8bdde899" />
+	</machine>
+	<machine name="yobedora">
+		<description>Yobeba Kotaeru Doraemon - Nobita to Himitsu Dougu wo Mitsukeyou! (Japan)</description>
+		<year>1995?</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-19549 j35.ic1" size="1048576" crc="39f38a22" sha1="df0f45c8b229e648347bc932225f185c0fe2465f" />
+	</machine>
+	<machine name="yosoolkp">
+		<description>Yosool Keure-paseu (Korea)</description>
+		<year>199?</year>
+		<publisher>Samsung?</publisher>
+		<rom name="mpr-18084-t.ic1" size="524288" crc="6521ef2d" sha1="97d3d39b006579ceb62ee68ab02f8b44f0c76069" />
+	</machine>
+	<machine name="yukaimp">
+		<description>Yukai na Mori no Paketto (Japan)</description>
+		<year>1995</year>
+		<publisher>Sega</publisher>
+		<rom name="mpr-18804 j41.ic1" size="1048576" crc="d130d765" sha1="97c99f623285af22a1f3201b7b1a2665c7bbb649" />
+	</machine>
+	<machine name="yumecray">
+		<description>Yume no Crayon Oukoku (Japan)</description>
+		<year>1998</year>
+		<publisher>Bandai</publisher>
+		<rom name="mpr-20816-t.ic1" size="524288" crc="0518d160" sha1="85f7569c2ea7956998c677e5b6947ca22d3da5eb" />
+	</machine>
+</datafile>

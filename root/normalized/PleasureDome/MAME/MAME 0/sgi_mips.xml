@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>sgi_mips</name>
+		<description>SGI MIPS/IRIX software</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="1600sw_doc">
+		<description>Silicon Graphics 1600SW Flat Panel Monitor Owner's Manual</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="silicon_graphics_1600sw_flat_panel_monitor" sha1="520d338215f0870c42e28bf801036bc6fba1a9f1" />
+	</machine>
+	<machine name="ada95_1_1">
+		<description>Ada95 Compiler 1.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="ada95_compiler_1_1" sha1="af44b8bda05558b12dffa31939bedc14d3fe37b7" />
+	</machine>
+	<machine name="ada95_1_2">
+		<description>Ada95 Compiler 1.2 for IRIX 5.3, 6.2 and 6.3</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="ada95_compiler_1_2_for_irix_5_3_6_2_and_6_3" sha1="da889295efedd168c62eaf71d9ed5bac927627ca" />
+	</machine>
+	<machine name="ada95_1_3">
+		<description>Ada95 Compiler 1.3 for IRIX 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="ada95_compiler_1_3_for_irix_6_2_6_3_6_4_and_6_5" sha1="f984bfece5748c31de0d05f3acf85338650308d8" />
+	</machine>
+	<machine name="adv_vis_4_2">
+		<description>Alias|Wavefront Advanced Visualizer 4.2</description>
+		<year>199?</year>
+		<publisher>Alias|Wavefront</publisher>
+		<disk name="alias_wavefront_advanced_visualizer_4_2" sha1="1f048130f8df40cceb15dddc276f973ab96819fc" />
+	</machine>
+	<machine name="apps_6_2_aug_96">
+		<description>IRIX 6.2 Applications August 1996</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_applications_august_1996" sha1="f0d844608715403cd59b7cc99ad8b5bb93a1396c" />
+	</machine>
+	<machine name="apps_6_2_may_96">
+		<description>IRIX 6.2 Applications May 1996</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_applications_may_1996" sha1="fb83213d4c88cd53b8f7f3e8fc81491260e96266" />
+	</machine>
+	<machine name="apps_6_3_aug_97">
+		<description>IRIX 6.3 Applications August 1997</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="IRIX_6_3_Applications_August_1997" sha1="f5563dab406d4751ab52ef10a2cf97bf33750bf0" />
+	</machine>
+	<machine name="apps_6_4_aug_97">
+		<description>IRIX 6.4 Applications August 1997</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_4_applications_august_1997" sha1="f727caed36fc2526732ddd2849bdae759c75f99d" />
+	</machine>
+	<machine name="aux_apps_6_2">
+		<description>IRIX 6.2 Auxiliary Applications</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_auxiliary_applications" sha1="148b6535461596a144cb4ba03abe1e3a808aa813" />
+	</machine>
+	<machine name="barco_7_2">
+		<description>Barco Creator 7.2</description>
+		<year>1999</year>
+		<publisher>Barco Graphics</publisher>
+		<disk name="barco_creator_v7_2" sha1="175388b0b3303e48ddff735d99a950844f1be307" />
+	</machine>
+	<machine name="catia_5_16">
+		<description>CATIA V5R16</description>
+		<year>2005</year>
+		<publisher>Dassault Systèmes</publisher>
+		<disk name="catia_5_16_cd1" sha1="a7162036ee07550a4dc79ca507d1a2289ff9fb5d" />
+		<disk name="catia_5_16_cd2" sha1="b36ae40e2f11ccf489346afa83f7528315e1f73a" />
+	</machine>
+	<machine name="cde_4_3">
+		<description>Common Desktop Environment 4.3</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="common_desktop_environment_4_3" sha1="5d365a5dbaef2a2a2303136325a2bf27340ad267" />
+	</machine>
+	<machine name="chalice_1_5_12">
+		<description>Chalice 1.5.12</description>
+		<year>1998</year>
+		<publisher>Silicon Grail</publisher>
+		<disk name="chalice_1_5_12" sha1="e747549772d3947582d2a66b70760376b97a5753" />
+	</machine>
+	<machine name="chalice_1_6_1">
+		<description>Chalice 1.6.1</description>
+		<year>1999</year>
+		<publisher>Silicon Grail</publisher>
+		<disk name="chalice_1_6_1" sha1="2cd47e3686be21b2a8dbdf08c69d6ab3622ef8a7" />
+	</machine>
+	<machine name="chalice_2_0">
+		<description>Chalice 2.0</description>
+		<year>2000</year>
+		<publisher>Silicon Grail</publisher>
+		<disk name="chalice_2_0" sha1="188b9180acdc7714b45b8ea1d62c914b407788ef" status="baddump" />
+	</machine>
+	<machine name="comp_eoe_7_3">
+		<description>Compiler Execution Environment 7.3 for IRIX 6.5 through 6.5.4</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="compiler_execution_environment_7_3_for_irix_6_5_through_6_5_4" sha1="8f0e9b10e37e57823b0814241dad05fd9dd57829" />
+	</machine>
+	<machine name="cosmo_1_1_1">
+		<description>Cosmo Compress 1.1.1</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="cosmo_compress_1_1_1" sha1="155b5a7df796ca60db44a9af32977fd0cde25fa0" />
+	</machine>
+	<machine name="cosmo_soft">
+		<description>Cosmo Software for IRIX 5.3, 6.2, 6.3 and 6.4</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="cosmo_software_may_1996_for_irix_5_3_6_2_6_3_and_6_4" sha1="1ea335c3332210d323ed5417378c0deebecfec4d" />
+	</machine>
+	<machine name="cosmo_suite">
+		<description>Cosmo Suite</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="cosmo_suite_august_1998" sha1="4f5c9d23b571464afb042f0be2849e584751db8f" />
+	</machine>
+	<machine name="cpp_trans_2_1_1">
+		<description>C++ Translator 2.1.1</description>
+		<year>1991</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0001_003_cpp_translator_2_1_1_nov1991" sha1="72b5331fd142bdb52b8d0a2fa93f2265d22611a0" />
+	</machine>
+	<machine name="cpp_trans_3_0_1">
+		<description>C++ Translator 3.0.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0001_005_cpp_translator_3_0_1_may1993" sha1="5a86aacd863530443daacf2c3d80518d254f5bf1" />
+	</machine>
+	<machine name="cpp_trans_3_1">
+		<description>C++ Translator 3.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0130_001_cpp_translator_3_1_mar1993" sha1="f87a391fa4af5fe80f94f830e4f170f24281fc3a" />
+	</machine>
+	<machine name="cpp_trans_3_2">
+		<description>C++ Translator 3.2</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0130_003_cpp_translator_3_2_aug1993" sha1="8b1f809f61a95211b328105d9093ea9278de1c41" />
+	</machine>
+	<machine name="cpp_trans_4_0">
+		<description>C++ Translator 4.0</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0130_005_cpp_translator_4_0_nov1994" sha1="609147e2d214bc54ed8ce652c639e86d3359d1ea" />
+	</machine>
+	<machine name="dba_3_0">
+		<description>Database Accelerator 3.0</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="database_accelerator_3_0" sha1="5485a93d19ae3e42bbe48e07ad35b0900eb6f38e" />
+	</machine>
+	<machine name="dce_1_2_2">
+		<description>DCE 1.2.2 Base Executive/Client for IRIX 6.5.2</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="dce_1_2_2_base_executive_client" sha1="6eeb0a6abd1a22b4319548560c3ff813049c07ce" />
+	</machine>
+	<machine name="deskse_1_0">
+		<description>Desktop Special Edition 1.0</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Desktop_Special_Edition_1_0" sha1="4ed0c83fd7d53112da5e3ec210d767cf3d29f41b" />
+	</machine>
+	<machine name="deskse_1_1">
+		<description>Desktop Special Edition 1.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="desktop_special_edition_1_1" sha1="4f740d11eb60da5fadcd4a3003aca88ff81d7ae3" />
+	</machine>
+	<machine name="desktopse_1_0">
+		<description>Desktop Special Edition 1.0 for Support Customers</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Desktop_Special_Edition_1_0_for_Support_Customers" sha1="66141b941c4789cf3b91620e871fd344862dafa0" />
+	</machine>
+	<machine name="dev_6_2_fnd_1_2">
+		<description>IRIX Development Foundation 1.2 for IRIX 6.2</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_development_foundation_1_2_for_irix_6_2" sha1="22b86896aa314e4c9fbe06204b7bb8c5d2c3d559" />
+	</machine>
+	<machine name="dev_6_2_found">
+		<description>IRIX 6.2 Development Foundation</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_development_foundation" sha1="b48dffb32a1952f103b91a66e58cefd7622567c5" />
+	</machine>
+	<machine name="dev_6_2_libs">
+		<description>IRIX 6.2 Development Libraries</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_development_libraries" sha1="23491a0a8956ac3d77eb8f98a2f2d55acd718c81" />
+	</machine>
+	<machine name="dev_6_3_fnd_1_2">
+		<description>IRIX 6.3 Development Foundation 1.2 for IRIX 6.3</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_development_foundation_1_2_for_irix_6_3" sha1="8d336d4d50446dad704ef8cb24c06f63d20b13d4" />
+	</machine>
+	<machine name="dev_6_3_found">
+		<description>IRIX 6.3 Development Foundation</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_3_development_foundation" sha1="88c2f2d44f8d221a1bb4023c109723c7fecaa61b" />
+	</machine>
+	<machine name="dev_6_3_libs">
+		<description>IRIX 6.3 Development Libraries</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_3_development_libraries" sha1="da2935f1448f495c829bf5ce57c259eeb29eba50" />
+	</machine>
+	<machine name="dev_6_4_fnd_1_2">
+		<description>IRIX Development Foundation 1.2 for IRIX 6.4</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_development_foundation_1_2_for_irix_6_4" sha1="4cc8650b30e894014424941fa9e266ddebdc7141" />
+	</machine>
+	<machine name="dev_6_4_found">
+		<description>IRIX 6.4 Development Foundation</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_4_development_foundation" sha1="70cc45eca255c808a3f343ab7c3f1bf547a645e4" />
+	</machine>
+	<machine name="dev_6_4_libs">
+		<description>IRIX 6.4 Development Libraries</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_4_development_libraries" sha1="2af9fd330f08d2c2c1628b7323d8c582bd2d007c" />
+	</machine>
+	<machine name="dev_6_5_fnd_1_2">
+		<description>IRIX Development Foundation 1.2 for IRIX 6.5</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_development_foundation_1_2_for_irix_6_5" sha1="aa070e5f09ff382eff20a0b2ca5188d5f284c2df" />
+	</machine>
+	<machine name="dev_6_5_fnd_1_3">
+		<description>IRIX Development Foundation 1.3 for IRIX 6.5</description>
+		<year>2002</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_development_foundation_1_3_for_irix_6_5" sha1="b50988113150a8aca8c4dc6497a66ccd6c207d38" />
+	</machine>
+	<machine name="dev_6_5_libs">
+		<description>IRIX 6.5 Development Libraries</description>
+		<year>2002</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_5_development_libraries" sha1="2893833519e16d35dcdb3c428ca2af3919dedcfd" />
+	</machine>
+	<machine name="dev_toolbox_42">
+		<description>Developer Toolbox 4.2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="devtoolbox42" sha1="9b85e8d9d35635794408a8ce7d168af96e14bc47" />
+	</machine>
+	<machine name="dev_toolbox_61">
+		<description>Developer Toolbox 6.1</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="devtoolbox61-0" sha1="191db2ed342be4f514e9be29e8793fbc5718bf77" />
+		<disk name="devtoolbox61-1" sha1="c978ecf1333446424d952646d95ce52b2c20496e" />
+		<disk name="devtoolbox61-2" sha1="928cfe53e856de90a554fe1b82594b119b7b255c" />
+	</machine>
+	<machine name="diag_4_0_5j">
+		<description>Diagnostics 4.0.5J</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="diagnostics_4_0_5j" sha1="02178e1d209f5f69b1d8d94b811648154d528232" />
+	</machine>
+	<machine name="diag_5_3">
+		<description>Diagnostics 5.3</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="diagnostics_5_3" sha1="e86cc207b1770b3e29180511c088bdc1486f84e8" />
+	</machine>
+	<machine name="diag_6_0_1">
+		<description>Diagnostics 6.0.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="diagnostics_6_0_1" sha1="09a50e3126bbc40a8e40ef3a0aee16fb02f3d818" />
+	</machine>
+	<machine name="diag_6_0">
+		<description>Diagnostics 6.0</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="diagnostics_6_0" sha1="5e6058366af588c8f7c51b20637cb887996b42d7" />
+	</machine>
+	<machine name="dmdo_1_1">
+		<description>Digital Media Dev Option 1.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0108_002_digital_media_dev_option_1_1_mar1993" sha1="c9c6bbea6d3c04c8ee1afdd55f44a21b399898f5" />
+	</machine>
+	<machine name="dmedia_3_0">
+		<description>Digital Media 3.0</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="digital_media_3_0" sha1="0dd46d20cbe58d5f6ca3e2441b8fa0121a46e2bc" />
+	</machine>
+	<machine name="docwb_4_1_3">
+		<description>Documenter's Workbench 4.1.3</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="documenters_workbench_4_1_3" sha1="20246838d518381eeb66013838ed67d7429e31fd" />
+	</machine>
+	<machine name="effect_6_1_3">
+		<description>Discreet Effect 6.1.3</description>
+		<year>2000</year>
+		<publisher>Discreet</publisher>
+		<disk name="discreet_effect_6_1_3_irix" sha1="869b62d2f9042034601ce4b08ff7113af564941c" />
+	</machine>
+	<machine name="enldsm_1_1">
+		<description>ENlightenDSM 1.1 for UNIX and NT</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="enlightendsm_1_1" sha1="22dc0a8c6b3a5a30606dd58ad13093c47abd342f" />
+	</machine>
+	<machine name="enldsm_3_1">
+		<description>ENlightenDSM 3.1 for UNIX and NT</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="enlightendsm_3_1_for_unix_and_nt" sha1="c4b86677d186b9c01910eeba08bf81b07466dfe9" />
+	</machine>
+	<machine name="eurlang_1_1">
+		<description>European Language Module 1.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="european_language_module_1_1" sha1="0fb2bcfd2796d24baf4328bc12bce8571f992253" />
+	</machine>
+	<machine name="eurlang_1_2">
+		<description>European Language Module 1.2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="european_language_module_1_2" sha1="ae869fd7623d2624b569b365239cfa173788a481" />
+	</machine>
+	<machine name="eurlang_1_3_1">
+		<description>European Language Module 1.3.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="European_Language_Module_1_3_1" sha1="9c4931ef0d3030ed4998f2992c6c3a70338136f7" />
+	</machine>
+	<machine name="eurlang_1_3">
+		<description>European Language Module 1.3</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="European_Language_Module_1_3" sha1="9d4ef603308722130a8bf548f1e227c842690885" />
+	</machine>
+	<machine name="f77_3_4">
+		<description>FORTRAN 77 Compiler 3.4</description>
+		<year>1991</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="fortran_77_compiler_3_4" sha1="e884a030c04797be870b4549da07b3c1c3172a90" />
+	</machine>
+	<machine name="f77_3_5_1">
+		<description>FORTRAN 77 Compiler 3.5.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="fortran_77_compiler_3_5_1" sha1="05f0ffd5fb4bc765f32e8d8f4647c89fbf693acb" />
+	</machine>
+	<machine name="f77_3_6_1">
+		<description>FORTRAN 77 Compiler 3.6.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="fortran_77_compiler_3_6_1" sha1="a5226618d9fcc956c753a0dbabe9a5f85c7d6c1e" />
+	</machine>
+	<machine name="f77_4_0_1">
+		<description>FORTRAN 77 Compiler 4.0.1</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="fortran_77_compiler_4_0_1" sha1="1d214d44deb8d68833e334628e333a54f7ce7c04" />
+	</machine>
+	<machine name="f77_4_0_2">
+		<description>FORTRAN 77 Compiler 4.0.2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="fortran_77_compiler_4_0_2" sha1="2f3292d9ac482ce458a10e47e1ad9c4b8d0311ba" />
+	</machine>
+	<machine name="f77_4_0_plus">
+		<description>FORTRAN 77 Compiler 4.0+</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="fortran_77_compiler_4_0_plus" sha1="7a1f8dc99eca38849e1aff270c38c09d57ccb166" />
+	</machine>
+	<machine name="f90_6_1">
+		<description>Fortran 90 Compiler 6.1 (August 1995)</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0402_002_fortran_90_compiler_6_1_aug1995" sha1="170304d1b5284e60d9b4e275353e3f0740388200" />
+	</machine>
+	<machine name="flame_4_0_2">
+		<description>Discreet Flame 4.0.2</description>
+		<year>1996</year>
+		<publisher>Discreet Logic</publisher>
+		<disk name="flame402" sha1="ce03c782b5947c2f4795f8dde63687da1567e15f" />
+	</machine>
+	<machine name="flame_7_6">
+		<description>Discreet Flame 7.6</description>
+		<year>2002</year>
+		<publisher>Discreet Logic</publisher>
+		<disk name="flame7_6" sha1="c27275a052bf56c720f31d20c21ef66e0a016426" />
+	</machine>
+	<machine name="framemaker_5_0">
+		<description>Adobe FrameMaker 5 and Adobe Frame Developer's Kit</description>
+		<year>1996</year>
+		<publisher>Adobe</publisher>
+		<disk name="frame_products" sha1="270cad068d237e69684a82b036eaae26ff861ebb" />
+	</machine>
+	<machine name="framemaker_5_5_6">
+		<description>Adobe FrameMaker 5.5.6</description>
+		<year>1998</year>
+		<publisher>Adobe</publisher>
+		<disk name="framemaker_5_5_6" sha1="19c77eeec5858303113dfc69512fed5fa56602c9" status="baddump" />
+	</machine>
+	<machine name="freeware_2_0">
+		<description>Freeware 2.0 - Unsupported Software compatible with IRIX 6.2 and later</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Freeware_2_0_Unsupported_Software_compatible_with_IRIX_6_2_and_later" sha1="0bcaee07cc0d0c47646fa4639ae5231efc7fc6e0" />
+	</machine>
+	<machine name="gauntlet_4_1_i">
+		<description>Gauntlet 4.1 INTERNATIONAL for IRIX 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="gauntlet_4_1_international" sha1="ef75e8aa98c58d0e47efe9d6c27bfbdb6aae5563" />
+	</machine>
+	<machine name="hotmix_1">
+		<description>Hot Mix Volume 1</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_1" sha1="3d55993a7ebf9b9d607edda155ac90e78f8c8e09" />
+	</machine>
+	<machine name="hotmix_2">
+		<description>Hot Mix Volume 2</description>
+		<year>199?</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_2" sha1="da0e0f5bf52d6a7c490b003afbc31ca8034e962c" />
+	</machine>
+	<machine name="hotmix_3">
+		<description>Hot Mix Volume 3</description>
+		<year>199?</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_3" sha1="555b6e582c9163fa05f9f842b08e7ee86419db1b" />
+	</machine>
+	<machine name="hotmix_4">
+		<description>Hot Mix 4</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_4" sha1="02568e80964b4954ff58b690e6471570a4142614" />
+	</machine>
+	<machine name="hotmix_5">
+		<description>Hot Mix 5</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_5" sha1="06e221fda5bb09c0ffcd23cbffa73cc1b503a980" />
+	</machine>
+	<machine name="hotmix_7">
+		<description>Hot Mix 7</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_7" sha1="cd2af0d9d29c288c85c3308ec5c2a6cc25b698cc" />
+	</machine>
+	<machine name="hotmix_8">
+		<description>Hot Mix Volume 8</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_volume_8" sha1="ee725db3a52ff482e03b7806889763619f584859" />
+	</machine>
+	<machine name="hotmix_9">
+		<description>Hot Mix Volume 9</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_9" sha1="0cac323851e8502eee63283e737d541bf806fa09" />
+	</machine>
+	<machine name="hotmix_10">
+		<description>Hot Mix Volume 10</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_10" sha1="97b2604f21474fa376c94ca66f6e465e730e7123" />
+	</machine>
+	<machine name="hotmix_11">
+		<description>Hot Mix Volume 11</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_volume_11" sha1="fa371c5dd27f8ba4235e4200299d08b210491788" />
+	</machine>
+	<machine name="hotmix_12">
+		<description>Hot Mix Volume 12</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_volume_12" sha1="34f76d048973a2b4a7ae8471420f87ab2ac4d762" />
+		<disk name="hotmix12cd1" sha1="f3da12cc5ed571e8f46b1373bc43927d2ed02169" />
+		<disk name="hotmix12cd2developermagic" sha1="6cd240e75282cec9dcf3def781485684f42a8e9d" />
+	</machine>
+	<machine name="hotmix_13">
+		<description>Hot Mix Volume 13</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_13" sha1="36360aac69a12728b6716d5f584768db5fad1400" />
+	</machine>
+	<machine name="hotmix_14">
+		<description>Hot Mix Volume 14</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_14" sha1="3e3a962260923f58edafd3052b9133789057998c" />
+	</machine>
+	<machine name="hotmix_15">
+		<description>Hot Mix Volume 15</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_15" sha1="173163f1366fd729d80857f097fd0b9c1f8778f4" />
+	</machine>
+	<machine name="hotmix_16">
+		<description>Hot Mix Volume 16</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_16" sha1="47b4d2ad094d204d726c3d9fb2a181e11af7422f" />
+	</machine>
+	<machine name="hotmix_17">
+		<description>Hot Mix Volume 17</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_volume_17" sha1="38556d496390edf9232cae0a10701452c5b07c67" />
+	</machine>
+	<machine name="hotmix_18">
+		<description>Hot Mix 18</description>
+		<year>199?</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Hot_Mix_18_Explore_Tools_and_Technologies_for_Silicon_Graphics" sha1="fc697b2c6b518ef2f760b8196f0884d8abd32900" />
+		<disk name="hot_mix_18" sha1="cee0ea521f66d876d4b6a43f92567b1634159956" />
+	</machine>
+	<machine name="hotmix_19">
+		<description>Hot Mix 19</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="hot_mix_19" sha1="37d5f6e7324f0cf9ebde4a65bae06ee3b562c96d" />
+	</machine>
+	<machine name="i2ivideo_6_5">
+		<description>Indigo2 IMPACT Video for IRIX 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="indigo2_impact_video_for_irix_6_5" sha1="95c940a293ed6d364cfdfbee682c77f3c51e24e8" />
+	</machine>
+	<machine name="ideas_6">
+		<description>I-DEAS Master Series Release 6</description>
+		<year>1998</year>
+		<publisher>SDRC</publisher>
+		<disk name="i_deas_master_series_volume_1" sha1="ca8d9c1d4c9370766e373289afdd2e90f810b613" />
+		<disk name="i_deas_master_series_volume_2" sha1="7ca9c238dbbdff5eb27c02ad1c4121e210eb4e0e" />
+		<disk name="i_deas_master_series_volume_3" sha1="97e556c28857ab0cb9b23c543ccd10c882bc58d2" />
+	</machine>
+	<machine name="idemos_6_2">
+		<description>IMPACT Demos CD 6.2</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="impact_demos_cd_6_2" sha1="7c8bda4a31698518a930d47d9249074bce551084" />
+	</machine>
+	<machine name="idmedia_2_1">
+		<description>IMPACT Digital Media 2.1</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="impact_digital_media_2_1" sha1="f83d3a881087dad31d1b6bc0eda2e013aa9e5496" />
+	</machine>
+	<machine name="ido_4_0_1">
+		<description>IRIS Development Option 4.0.1</description>
+		<year>1991</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_4_0_1" sha1="e3c7b56d4b567d3e2bce83717c911cbbafa93a86" />
+	</machine>
+	<machine name="ido_4_0">
+		<description>IRIS Development Option 4.0</description>
+		<year>1991</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_4_0" sha1="344382b7e2eb722852a35c3422d1b273f823686b" />
+	</machine>
+	<machine name="ido_4_1_1">
+		<description>IRIS Development Option 4.1.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0017_006_iris_development_option_4_1_1_may1993" sha1="4b03948b6504d910009eb2807ff11c54f88ce993" />
+	</machine>
+	<machine name="ido_5_0">
+		<description>IRIS Development Option 5.0</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_5_0" sha1="ebc09b055774696fb92a8af7c5aeed9a3cceae94" />
+	</machine>
+	<machine name="ido_5_1">
+		<description>IRIS Development Option 5.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_5_1" sha1="d149bdb0bcbadb0b3417d8c3f1d498b92f8df3ee" />
+	</machine>
+	<machine name="ido_5_2">
+		<description>IRIS Development Option 5.2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_5_2" sha1="b011702ba853d744e047dcf28091a75a06fcf972" />
+	</machine>
+	<machine name="ido_5_3">
+		<description>IRIS Development Option 5.3</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_5_3" sha1="6611de8e239ceb8432a449ff96193907a7f50319" />
+	</machine>
+	<machine name="ido_6_0">
+		<description>IRIS Development Option 6.0</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_6_0" sha1="d685b8dcc30e003eeac74a2f449036dc307d9c6c" />
+	</machine>
+	<machine name="ido_6_1">
+		<description>IRIS Development Option 6.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_6_1" sha1="8c9e5382d85d5296b309b6d32750d80b6f852652" />
+	</machine>
+	<machine name="ido_6_2">
+		<description>IRIS Development Option 6.2</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_development_option_6_2" sha1="eabaa5238a3515f1c71d693efc2781b4d1675cf9" />
+	</machine>
+	<machine name="illustr_5_5">
+		<description>Adobe Illustrator 5.5</description>
+		<year>1995</year>
+		<publisher>Adobe</publisher>
+		<disk name="illustrator5_5_irix" sha1="a5cbb6a2d609a769e1f12b504b91b895cc0098bc" />
+	</machine>
+	<machine name="imagevis_2_5">
+		<description>ImageVision Library 2.5</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="imagevision_library_2_5" sha1="8ca1053b9a8ca96663be9a48eb28d6f78257f67d" />
+	</machine>
+	<machine name="imagevis_3_2_1">
+		<description>ImageVision Library 3.2.1</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="imagevision_library_3_2_1_development_option_for_irix_6_5" sha1="289f3f9bddd4faac4ab4df1e66efbc9cea3de954" />
+	</machine>
+	<machine name="imagevis_3_2">
+		<description>ImageVision Library 3.2</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="imagevision_library_3_2_development_option_for_irix_6_2_and_later" sha1="9f5e91b8327ed4dc1c7f52c4361b13965bba8c32" />
+		<disk name="imagevision_library_3_2_runtimes_for_irix_6_2_and_later" sha1="d5de6527678fced6070c1b44257d93cb8e49f7c7" />
+	</machine>
+	<machine name="impressario_1_1">
+		<description>Impressario 1.1 Developer's Kit</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="impressario_developers_kit_1_1" sha1="cb2ad36f54734c2b12bc84e7b17f8504d6ce7290" />
+	</machine>
+	<machine name="impressario_1_2">
+		<description>Impressario 1.2 Developer's Kit</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="impressario_developers_kit_1_2" sha1="93baab41eb190f10005819b13e2cd9d07a5aaf71" />
+	</machine>
+	<machine name="indizone_1_1">
+		<description>IndiZone 1.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="indizone_1_1" sha1="a534bba52ce0eff4be54e8a7d2603dc1295763b4" status="baddump" />
+	</machine>
+	<machine name="indizone_1">
+		<description>IndiZone 1.0</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="indizone_1" sha1="1ea7db165ddba9f91e6ad46c9c12ab842a366c5c" />
+	</machine>
+	<machine name="indizone_2">
+		<description>IndiZone^2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="indizone_2" sha1="f48a7809271c3279d4d7791937e4fb28fc1e7033" />
+	</machine>
+	<machine name="indizone_3">
+		<description>IndiZone^3</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="indizone_3" sha1="16b006b8423457262d1e709d0c7f410901bd7d8b" />
+	</machine>
+	<machine name="intranetjunction">
+		<description>Intranet Junction 1.0.2 for IRIX 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="intranet_junction_1_0_2" sha1="1dfedcbd84a56adea8a0aa58a088256927780f49" />
+	</machine>
+	<machine name="io4_prom_patch">
+		<description>IO4 PROM and flashio Patches</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="io4_prom_and_flashio_patches" sha1="da990089bc83e99edd7d8403d56087a2813c28de" />
+	</machine>
+	<machine name="iperf_2_0">
+		<description>IRIS PERFORMER 2.0</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_performer_2_0" sha1="ecd4481a972a607c908da3416c4fc862243c9ecf" />
+	</machine>
+	<machine name="iperf_2_2_demo1">
+		<description>IRIS Performer 2.2 Friends Demo CD for IRIX 6.2 and later</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_performer_2_2_friends_demo_cd_for_irix_6_2_and_later" sha1="4b6e3680b924a66879ff84c1aab54251da57137e" />
+	</machine>
+	<machine name="iperf_2_2_demo2">
+		<description>IRIS Performer 2.2 Yosemite Demo CD for IRIX 6.2 and later</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_performer_2_2_yosemite_demo_cd_for_irix_6_2_and_later" sha1="a745bbd88f305a32444ba8910a968482bff71b66" />
+	</machine>
+	<machine name="iperf_2_2">
+		<description>IRIS Performer 2.2 for IRIX 6.2 and later</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="iris_performer_2_2_for_irix_6_2_and_later" sha1="943362a9fa775e27eb73355a70ec46ada877e261" />
+	</machine>
+	<machine name="irisinv_1_1_2">
+		<description>IRIS Inventor 1.1.2</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0136_003_iris_inventor_1_1_2_sep93" sha1="86d22528711db9bf209627324dd5a0e7ce2d6d37" />
+	</machine>
+	<machine name="irix_4_0_1">
+		<description>IRIX 4.0.1</description>
+		<year>1991</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_execution_plus_maintenance_4_0_1" sha1="093ae0ccd14b0a3dae173d4ee342466c7c40b052" />
+		<disk name="network_file_system_4_0_1" sha1="911a5e995c5b313b455c9a4a1151a1ec7817fc29" />
+	</machine>
+	<machine name="irix_4_0_2">
+		<description>IRIX 4.0.2</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_4_0_2_maintenance" sha1="75a7e70d524dbc0308bd6c931ebcbac5f0985862" />
+		<disk name="irix_4_0_2" sha1="01db58ba0e825e240558a47bba2f959028ee792b" />
+	</machine>
+	<machine name="irix_4_0_4">
+		<description>IRIX 4.0.4</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_4_0_4_b" sha1="82fef7df16ef4fd6c70d3d5a5116ce1fb7c37cb5" />
+		<disk name="irix_4_0_4" sha1="92f842b646ca635d563e14b99fb62853f23f5070" />
+		<disk name="irix_maintenance_4_0_4" sha1="98f0af2e83f3a6f8eb9797c370b6be33b3a0060c" />
+	</machine>
+	<machine name="irix_4_0_5">
+		<description>IRIX 4.0.5</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0064_012_irix_4_0_5f_sep1992" sha1="5af0c913a054d359c760174b01b4cd29548166a1" />
+		<disk name="812_0064_018_irix_4_0_5h_apr1993" sha1="2ee9569414abd697f992db99e10efa75222fa5e0" />
+		<disk name="812_0078_010_irix_maintenance_4_0_5f_sep1992" sha1="2b41b5ab8bc224a4a77953cd932cc63cb1b9c44d" />
+		<disk name="812_0078_015_irix_maintenance_4_0_5h_mar1993" sha1="15eefb2b31e8e6246adeacfaac35dbe70f638e8c" />
+		<disk name="irix_4_0_5_maintenance" sha1="05313b412c3922b0550970d58a921538442ef190" />
+		<disk name="irix_4_0_5" sha1="00426f55450990a9def6258787fcb0a1db6a01cd" />
+	</machine>
+	<machine name="irix_5_0">
+		<description>IRIX 5.0</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_0" sha1="5e300887334bacf9b40112ef5eca64b159892ef5" />
+	</machine>
+	<machine name="irix_5_1_1">
+		<description>IRIX 5.1.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0119_004_irix_5_1_1_sep1993" sha1="a6a49200a93b244f2fa598f030dfaabd89582ecc" />
+		<disk name="indy_irix_5_1_1" sha1="e041bee239367f926ce0cef0d16830bdbe49ea01" />
+	</machine>
+	<machine name="irix_5_2_b_2">
+		<description>IRIX 5.2 Beta II</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_2_beta_ii" sha1="fef317d81dc2ce3c111d5751e60c68517478b19a" />
+	</machine>
+	<machine name="irix_5_2_patches">
+		<description>IRIX 5.2 Patches</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_2_patches" sha1="fb7e6b45f0cc96d40f9e2634882345f4846bfb60" />
+	</machine>
+	<machine name="irix_5_2">
+		<description>IRIX 5.2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_2_for_indy_r4600pc_and_challenge_sx" sha1="972cffffe22668cf2383a335718afd3083cb5965" />
+		<disk name="irix_5_2_for_indy_r4600sc_xz_and_presenter" sha1="5f81496d2291e80d8d0bd5b0c470725fc6214ab4" />
+		<disk name="irix_5_2" sha1="455b49a0707cb8b9dbd41263177aa65acd8f9014" />
+	</machine>
+	<machine name="irix_5_3">
+		<description>IRIX 5.3</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_3_all_indigo2_impact" sha1="3928d2bc3e31065c32693148b265ed6c4b76d8a7" />
+		<disk name="irix_5_3_for_indigo2_impact" sha1="a857dc23fa68817ca1f2f18584b87f12b148db65" />
+		<disk name="irix_5_3_for_indy_including_r5000" sha1="99361caca3d5b8211d57f4244adeff570fce4805" />
+		<disk name="irix_5_3_for_indy_r4400_175mhz" sha1="dcc05e3637e4ab20c4fceb43bded2f1f2bd64518" />
+		<disk name="irix_5_3_with_175mhz_and_2mb_cache_support" sha1="f1bb565b742c2cbfcda1a1ba9e4eb9fcbdd6b826" />
+		<disk name="irix_5_3" sha1="98e9439cd50fb28583063d980b2f19953b87f855" />
+	</machine>
+	<machine name="irix_6_0_1">
+		<description>IRIX 6.0.1</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_0_1" sha1="ca0631350206be5158ea353e690fb5a8a4fc1ac0" />
+	</machine>
+	<machine name="irix_6_0">
+		<description>IRIX 6.0</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_0" sha1="b3796b241e488934e1ad5381db85e647e11c956c" />
+	</machine>
+	<machine name="irix_6_1">
+		<description>IRIX 6.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_1" sha1="1ca17a5276dc4c39385abb11cef3fd530ea96e27" />
+	</machine>
+	<machine name="irix_6_2">
+		<description>IRIX 6.2</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_part_1_of_2" sha1="714ad598cde6a48132005e4728e7e7d18fdbbb1b" />
+		<disk name="irix_6_2_part_2_of_2" sha1="521a97cadc91f3380245b59e65ca0f7ad113193f" />
+		<disk name="irix_6_2_with_indigo_impact_10000_part_1_of_2" sha1="b96f6a259717f17dce0b94ca25f90a7627884c8d" />
+		<disk name="irix_6_2_with_indigo_impact_10000_part_2_of_2" sha1="4415d90fb313e0c70949dedae17e075035aeced8" />
+	</machine>
+	<machine name="irix_6_3">
+		<description>IRIX 6.3 for O2, Including R10000</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_3" sha1="7133fead312d71f1915a740ae2659c24df9a3bd1" />
+	</machine>
+	<machine name="irix_6_4">
+		<description>IRIX 6.4 for Origin, Onyx2 and OCTANE</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_4_applications" sha1="9c52fb237c3cf562562f0254627841474367f0b7" />
+		<disk name="irix_6_4_for_origin_onyx2_and_octane" sha1="884729e6240430454c3b95061114a71dfadb11ce" />
+	</machine>
+	<machine name="irix_6_5_1">
+		<description>IRIX 6.5.1</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_5_1_1_of_2_installation_tools_and_overlays_august_1998" sha1="b4173925aeadd0bf27bf2ef98b1e0560652f81c5" />
+		<disk name="irix_6_5_1_2_of_2_overlays_august_1998" sha1="1f77d674d848f8200c35887140c23d9452ef9765" />
+	</machine>
+	<machine name="irix_6_5_2">
+		<description>IRIX 6.5.2</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="freeware_nov_1998" sha1="2cf8ae50416924f1e62fa600fbe8b8c4cbd5316a" />
+		<disk name="irix_6_5_2_base_documentation_nov_1998" sha1="4c413dca07bd0945455b85a622d25c4c69dd00ed" />
+		<disk name="irix_6_5_2_installation_tools_and_overlays_1_of_2_nov_1998" sha1="aa72ef36a053bb4f0f9cf83044c14264b09987fc" />
+		<disk name="irix_6_5_2_overlays_2_of_2_nov_1998" sha1="11ca50b9f7ccf9405fa8fddff3f68e3cae7fd16b" />
+		<disk name="irix_6_5_applications_nov_1998" sha1="52eb2a7e35b33e1b8b5f42f06b0124e7a037ae8a" />
+	</machine>
+	<machine name="irix_6_5_3">
+		<description>IRIX 6.5.3</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_5_3_apps" sha1="f01bf6fe323847b160aa05d0b3ab2c7e80712c5d" />
+		<disk name="irix_6_5_3_doc" sha1="fa8a92aef8d7f36a482476a2010ec5fec5dde1c5" />
+		<disk name="irix_6_5_3_install_and_overlays_1of2" sha1="5a7cfab0b41c1e4446f5a6ca240bdda5282b92bd" />
+		<disk name="irix_6_5_3_overlays_2of2" sha1="fdfad22b10753b75aa5e3c318cf2b915599243c9" />
+	</machine>
+	<machine name="irix_6_5_4">
+		<description>IRIX 6.5.4</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="freeware_may_1999" sha1="7f3a6050ea5a2079349798b3caaab449ecc98d87" />
+		<disk name="irix_6_5_4_applications_may_1999" sha1="5823291ca9caa171133efd4b0a6d62bf5041b045" />
+		<disk name="irix_6_5_4_doc" sha1="885d39c482a46c32f0382c61ae4a0815f0340b59" />
+		<disk name="irix_6_5_4_overlays_1_2_may_1999" sha1="a5aa3e54848bed8d2c047a8384e2dcf2872971cb" />
+		<disk name="irix_6_5_4_overlays_2_2_may_1999" sha1="f5d8423e82a9eb8bae748d9df6f92644e79b941b" />
+		<disk name="ONC3_NFS_Version_3" sha1="8db528aa63f4dde1e5832e9085358c47c93dc257" />
+		<disk name="worldview_japanese_6_5_4" sha1="24c590192217a3e87a4e48e4cfcc583f8f186425" />
+	</machine>
+	<machine name="irix_6_5_5">
+		<description>IRIX 6.5.5</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="freeware_aug_1999" sha1="53b24f2436a6b50f7603536acbb55d7e81d4e4bb" />
+		<disk name="irix_6_5_5_base_documentation" sha1="378c206d4496b24c9e30163a33a43e93b77865ef" />
+		<disk name="IRIX_6_5_5_Installation_Tools_and_Overlays_1_of_2_August_1999" sha1="47b8dc05a432417b88720f2758a4d2f3a2591e9c" />
+		<disk name="IRIX_6_5_5_Overlays_2_of_2_August_1999" sha1="9537a84a9783deca4403863cf8d748b920daaa69" />
+		<disk name="IRIX_6_5_Applications_August_1999" sha1="1191d01b5111a12ea16f9599f26671a121d8ad04" />
+	</machine>
+	<machine name="irix_6_5_6">
+		<description>IRIX 6.5.6</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="freeware_part_1_of_2_november_1999" sha1="1dc5d59e55605c7960d1a21b40cf0fa774e229cc" />
+		<disk name="freeware_part_2_of_2_november_1999" sha1="fae80ca4de334d1a17d91ebeb0690a47ee069e53" />
+		<disk name="irix_6_5_6_base_documentation_november_1999" sha1="614685d575ccd3b1e62709cccb41d4bf7fe1b666" />
+		<disk name="irix_6_5_6_installation_tools_and_overlays_1_of_2_november_1999" sha1="c67b67441ef683a6e12e14bd10970f3ca8cf5a14" />
+		<disk name="irix_6_5_6_overlays_2_of_2_november_1999" sha1="f5a5848d294eb8a84ea4c13fe0c39ac60742a4fe" />
+		<disk name="irix_6_5_applications_november_1999" sha1="cf211e56075bef7ed8af3dfd588b1f79a980ec56" />
+	</machine>
+	<machine name="irix_6_5_7">
+		<description>IRIX 6.5.7</description>
+		<year>2000</year>
+		<publisher>SGI</publisher>
+		<disk name="freeware_feb_2000_part_1_of_2" sha1="7cca55c9c29bc6107f70f59179594fb47b13a446" />
+		<disk name="freeware_feb_2000_part_2_of_2" sha1="db18616335a417e8960704ca159a01873b0319cb" />
+		<disk name="irix_6_5_7_base_documentation" sha1="844a704bc1cf303e918c4647da3da8d80011e637" />
+		<disk name="IRIX_6_5_7_Installation_Tools_and_Overlays_1_of_2_February_2000" sha1="1cee0deaace987e83ce8fa8c07a7bad9f05f38e3" />
+		<disk name="IRIX_6_5_7_Overlays_2_of_2_February_2000" sha1="44ae8b5c8b3c7ccc9300b45b4c7be96b3a46d5a1" />
+		<disk name="IRIX_6_5_Applications_February_2000" sha1="ad06bdb146790817bde38e1786db6038f2088d59" />
+	</machine>
+	<machine name="irix_6_5_8">
+		<description>IRIX 6.5.8</description>
+		<year>2000</year>
+		<publisher>SGI</publisher>
+		<disk name="freeware_part_1_of_2_may_2000" sha1="9b27202272b00c48b7257a7f0ad46f5a8cfaeb1b" />
+		<disk name="freeware_part_2_of_2_may_2000" sha1="76a0246639f4f982508dee19dbd2e44172878e39" />
+		<disk name="irix_6_5_8_applications_may_2000" sha1="ac6f283eb7a476703bdba843e36b737cc15788df" />
+		<disk name="irix_6_5_8_overlays_1_of_3_may_2000" sha1="52af3fd505845873117ba85ddaa199f86cf8431f" />
+		<disk name="irix_6_5_8_overlays_2_of_3_may_2000" sha1="f3365858fa3e80c9e556bdcc1d86a50755706983" />
+		<disk name="irix_6_5_8_overlays_3_of_3_may_2000" sha1="1c26a87f6674ff4fc29d86964fd053154b0a16b7" />
+		<disk name="worldview_japanese_6_5_8" sha1="bacaead2cbfd2a0795c5ddfcb04b6b836cd57991" />
+	</machine>
+	<machine name="irix_6_5_9">
+		<description>IRIX 6.5.9</description>
+		<year>2000</year>
+		<publisher>SGI</publisher>
+		<disk name="freeware_aug_2000_part_1_of_2" sha1="e22d7e6596e629d82e7b8db0b129c68912c3f3cc" />
+		<disk name="freeware_aug_2000_part_2_of_2" sha1="e3adcbf9ec830d045e48f4529fc1a7221a7a5792" />
+		<disk name="irix_6.5.9_basedocs" sha1="e7c4db947982f39ce21fe8f40d3af18496825401" />
+		<disk name="IRIX_6_5_9_Installation_Tools_and_Overlays_1_of_3_August_2000" sha1="4dd005d51aa59e2161710cc699bab81d21ec9213" />
+		<disk name="IRIX_6_5_9_Overlays_2_of_3_August_2000" sha1="5eb62bd26084e625537c7c3feabbebfff11e2ee4" />
+		<disk name="IRIX_6_5_9_Overlays_3_of_3_August_2000" sha1="f7c00ec9da4ac3de7bb8fce62fac601b1c032815" />
+		<disk name="IRIX_6_5_Applications_August_2000" sha1="5a13268abafa687fc7d313c42de54f3cfe579ff3" />
+	</machine>
+	<machine name="irix_6_5_10">
+		<description>IRIX 6.5.10</description>
+		<year>2000</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_10_apps" sha1="4c31286dacf204555156968e1bb5d9150ed9d90d" />
+		<disk name="irix_6_5_10_installation_tools_and_overlays_nov_2000__1of3__812_0818_010" sha1="23adba376ab4d1fdd4117c7b43caf8c46d1eea5f" />
+		<disk name="irix_6_5_10_overlays_nov_2000__2of3__812_0819_010" sha1="1723efac3a7535771314a59a90b2f6885a549643" />
+		<disk name="irix_6_5_10_overlays_nov_2000__3of3__812_0817_010" sha1="fe9e932f9004478de60c4644674b717391ad3e70" />
+		<disk name="worldview_japanese_6_5_10" sha1="4fcdc9a553812569c016e641103ac732a2f36282" />
+	</machine>
+	<machine name="irix_6_5_11">
+		<description>IRIX 6.5.11</description>
+		<year>2001</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_11_apps" sha1="5977690ad28a628e865a0aa2762e857e0092dbce" />
+		<disk name="irix_6_5_11_installation_tools_and_overlays_feb_2001__1of3__812_0818_011" sha1="2848a40bdcc783829e4e110b273edbc2a9808cca" />
+		<disk name="irix_6_5_11_overlays_feb_2001__2of3__812_0819_011" sha1="02d2064bfa6cc497eb375dd5cd6acbe827850d27" />
+		<disk name="irix_6_5_11_overlays_feb_2001__3of3__812_0817_011" sha1="33b53f68a571d38966970b1b8a70b242fbcc8688" />
+	</machine>
+	<machine name="irix_6_5_12">
+		<description>IRIX 6.5.12</description>
+		<year>2001</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_12_apps" sha1="1ea1b1ef707fc4f3a3f240d1567fb5960cfe79d1" />
+		<disk name="irix_6_5_12_doc" sha1="bbb386a773f7c7f7ed65d00f387181d5e59bf765" />
+		<disk name="irix_6_5_12_freeware1" sha1="be9eadd547bf61b022ae97e740e711c8f7636284" />
+		<disk name="irix_6_5_12_freeware2" sha1="519ad2ed46dbb4ab56d4b166e2ac63b351ebf965" />
+		<disk name="irix_6_5_12_freeware3" sha1="92430c4dc20149017311dec019cd889754593e96" />
+		<disk name="irix_6_5_12_install_and_overlays_1of3" sha1="8cf028f27e0fc6662d12a595fb1a040d3bcb9af2" />
+		<disk name="irix_6_5_12_overlays_2of3" sha1="04d777a2252e86273784c22461d1a08c2fe20e08" />
+		<disk name="irix_6_5_12_overlays_3of3" sha1="f9d8a42fc5f27f78602bb5bea980b0bc07db3520" />
+		<disk name="worldview_japanese_6_5_12" sha1="5ab5acb9b85c4380623f6668e71bb3893451bce9" />
+	</machine>
+	<machine name="irix_6_5_13">
+		<description>IRIX 6.5.13</description>
+		<year>2001</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_13_installation_tools_and_overlays_aug_2001__1of3__812_0818_013" sha1="87e04c0c8f735eb6d862102deff4c4341ea00bb1" />
+		<disk name="IRIX_6_5_13_Overlays_2_of_3_August_2001" sha1="6a9fb3dd54ff3341642d25b2fb7a635da4756df4" />
+		<disk name="IRIX_6_5_13_Overlays_3_of_3_August_2001" sha1="dba394a0ae8e82d7f0746c1e9669babcde56d974" />
+		<disk name="IRIX_6_5_Applications_August_2001" sha1="a73ae9f7d0c5e42b948580463c8bc2c741c9629a" />
+	</machine>
+	<machine name="irix_6_5_14">
+		<description>IRIX 6.5.14</description>
+		<year>2001</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_14_apps" sha1="e29e314cdbf08c38c52d6cd81b7bed4cdff79144" />
+		<disk name="irix_6_5_14_doc" sha1="987d78464a9ac7ba03829c864f36e67c96d73b52" />
+		<disk name="irix_6_5_14_installation_tools_and_overlays_nov_2001__1of3__812_0818_014" sha1="404a3ff74d1ff22ed046b5fde63d14c967a748d2" />
+		<disk name="irix_6_5_14_overlays_nov_2001__2of3__812_0819_014" sha1="2e99eebfc27080ad4157b19e09bb7390ae3dd189" />
+		<disk name="irix_6_5_14_overlays_nov_2001__3of3__812_0817_014" sha1="f03be4d6a53743681e296739a84aa6ba615995b0" />
+	</machine>
+	<machine name="irix_6_5_15">
+		<description>IRIX 6.5.15</description>
+		<year>2002</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_15_apps" sha1="0f2c0ae01f99c833adbb97236af0601d97c45878" />
+		<disk name="irix_6_5_15_base_documentation" sha1="ab62455565265f1aec72910588e84ce60521384b" />
+		<disk name="irix_6_5_15_overlays_1" sha1="3e361eb694ca4a58089d42cf4bc41b8ad757263c" />
+		<disk name="irix_6_5_15_overlays_2" sha1="2c3fac7b47d0cace4465c7b162c18670bd7e14f8" />
+		<disk name="irix_6_5_15_overlays_3" sha1="5f06bc1f8b5db7f638abdcb577c9285f226a1776" />
+		<disk name="irix_6_5_15_overlays_4" sha1="8bde51d4c91d20c3a848fffd9c71a542c6edae00" />
+	</machine>
+	<machine name="irix_6_5_16">
+		<description>IRIX 6.5.16</description>
+		<year>2002</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_16_apps" sha1="4cce33be75e4225fbd6c839810582718887ebee7" />
+		<disk name="irix_6_5_16_freeware3" sha1="90fe6a1724be614d15de1319d6f1a48acec65384" />
+		<disk name="irix_6_5_16_installation_tools_and_overlays_may_2002__1of4__812_0818_016" sha1="e02eb72233dac56151825db21ab8e5d48a248fa5" />
+		<disk name="irix_6_5_16_overlays_may_2002__2of4__812_0819_016" sha1="bb229ccd84ef3f186e9ab7bdd2e72bf496ad6e23" />
+		<disk name="irix_6_5_16_overlays_may_2002__3of4__812_0817_016" sha1="f546f4f45a36d088e59a4470d94547449c9a04f1" />
+		<disk name="irix_6_5_16_overlays_may_2002__4of4__812_1123_016" sha1="9b14c32f307994378db12f7925ed48995ae918ec" />
+	</machine>
+	<machine name="irix_6_5_17">
+		<description>IRIX 6.5.17</description>
+		<year>2002</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_17_apps" sha1="c2146f004a497a9c30b936888d9f92934b1c9128" />
+		<disk name="irix_6_5_17_installation_tools_and_overlays_aug_2002__1of4__812_0818_017" sha1="a890b3082e9c252b6afd7c316fe869607a410034" />
+		<disk name="irix_6_5_17_overlays_aug_2002__2of4__812_0819_017" sha1="5965521457db2ccdf78188f31bca34fbd5076556" />
+		<disk name="irix_6_5_17_overlays_aug_2002__3of4__812_0817_017" sha1="33b6d8f55eb884441e2a5c0ccab2cab6a9a3c8d7" />
+		<disk name="irix_6_5_17_overlays_aug_2002__4of4__812_1123_017" sha1="5a164e0772c4b3d19d845b9b93cc18848596550a" />
+	</machine>
+	<machine name="irix_6_5_18">
+		<description>IRIX 6.5.18</description>
+		<year>2002</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_18_base_documentation_november_2002" sha1="83b0fbb5a2b1c5b9f41d4c8093a91dd08d478d09" />
+		<disk name="irix_6_5_18_freeware1" sha1="50ec58670f07e17e0668aa8e894380784eb46d3b" />
+		<disk name="irix_6_5_18_freeware2" sha1="a0715941b6968ed3c5ad9fa7721be06108adfd65" />
+		<disk name="irix_6_5_18_freeware3" sha1="8dbba8fea4fa6b5c8fbfcafde87dc428c8e3dd7e" />
+		<disk name="irix_6_5_18_freeware4" sha1="d3325c1b2099ae943858f1ecfafb3696f171a54f" />
+		<disk name="irix_6_5_18_installation_tools_and_overlays__1_of_4__november_2002" sha1="11e7b11e3ab2acacf4cbda483390727e0afb5801" />
+		<disk name="irix_6_5_18_overlays__2_of_4__november_2002" sha1="67e08552bd7c9cb3df861c58e81ce6678375057b" />
+		<disk name="irix_6_5_18_overlays__3_of_4__november_2002" sha1="7938d31777f0db8dbe886de399155517a69f9883" />
+		<disk name="irix_6_5_18_overlays__4_of_4__november_2002" sha1="a97d2f6a4be90546e0c33de7756f9b17c9f8bd70" />
+		<disk name="irix_6_5_applications_november_2002" sha1="4e8a58554df07c511e30438be779185c59786226" />
+	</machine>
+	<machine name="irix_6_5_19">
+		<description>IRIX 6.5.19</description>
+		<year>2003</year>
+		<publisher>SGI</publisher>
+		<disk name="freeware_part_1_of_4" sha1="9a875278a0a3bae9883cd69306fd75abf1ca412c" />
+		<disk name="freeware_part_2_of_4" sha1="60933e32cd3b2f2da8aa49c5070a05082c8e9d2f" />
+		<disk name="freeware_part_3_of_4" sha1="fcb1d992b26d7e19952dfaffac076c319af1f508" />
+		<disk name="freeware_part_4_of_4" sha1="c270b7181a080f44f4384d2d28c042a476fac8f4" />
+		<disk name="irix_6_5_19_apps" sha1="a3f24351eff3320847152bf095d12d4b482de182" />
+		<disk name="irix_6_5_19_base_documentation" sha1="32337db1b3894207cb826f37d8d6a79b0f7aee5a" />
+		<disk name="irix_6_5_19_installation_tools_and_overlays_1_of_4" sha1="bf125d76296927cc6f24fd2ea3b806de9a992ad2" />
+		<disk name="irix_6_5_19_overlays_2_of_4" sha1="42b99d8667f199f74600585f5ba334cd7da98034" />
+		<disk name="irix_6_5_19_overlays_3_of_4" sha1="8ee7979cfac23a76f3414ebbee22357efbc31c75" />
+		<disk name="irix_6_5_19_overlays_4_of_4" sha1="4ed9a9590c6916c19bbce488b2deb8fb3c4bf9b9" />
+	</machine>
+	<machine name="irix_6_5_20">
+		<description>IRIX 6.5.20</description>
+		<year>2003</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_20_apps" sha1="2608006bfa61715b33281dc15aa143dd3edef9f9" />
+		<disk name="irix_6_5_20_doc" sha1="6014f7962b2c92335970cb206a20a514b0aef9c1" />
+		<disk name="irix_6_5_20_freeware1" sha1="9129df5da7d8999e610ee50f2a7170e22b95a412" />
+		<disk name="irix_6_5_20_freeware2" sha1="373b9eae9f0ab662d1ad1d3d3ae8cde122f20ce9" />
+		<disk name="irix_6_5_20_freeware3" sha1="6e223a63724e36dc04876581b30b9ebac46fb571" />
+		<disk name="irix_6_5_20_freeware4" sha1="d14db62cb82c61012ce7b37fbbc6a84c69aeb8b2" />
+		<disk name="irix_6_5_20_ovl1" sha1="2c5f7e20133866117faf04e458e64cf36cdeef9b" />
+		<disk name="irix_6_5_20_ovl2" sha1="6f5686c8ad2463b15443dafc9a1975cef9687a9f" />
+		<disk name="irix_6_5_20_ovl3" sha1="6f8853e25d4834497fe033236fbdd2194f984380" />
+		<disk name="irix_6_5_20_ovl4" sha1="57d5ca1e27e29b989641cf9d20b9fd7e9a3cc355" />
+	</machine>
+	<machine name="irix_6_5_21">
+		<description>IRIX 6.5.21</description>
+		<year>2003</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_21_apps" sha1="2601b88e9acc444a264fc3820bb9580f8b9f6b77" />
+		<disk name="irix_6_5_21_installation_tools_and_overlays_aug_2003__1of4__812_0818_021" sha1="d4c3797985f30c84f49e89ea6c0e6e6a544a942e" />
+		<disk name="irix_6_5_21_overlays_aug_2003__2of4__812_0819_021" sha1="c3d9ade779c298d2bea185fdd63c366799127b0b" />
+		<disk name="irix_6_5_21_overlays_aug_2003__3of4__812_0817_021" sha1="c85dbeb8a40da2afcf52de54c46ea45609d8fb9e" />
+		<disk name="irix_6_5_21_overlays_aug_2003__4of4__812_1123_021" sha1="c2e6f1e8f72dbf2880dd4e5b31df46e00fb8c4ee" />
+	</machine>
+	<machine name="irix_6_5_22">
+		<description>IRIX 6.5.22</description>
+		<year>2003</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_22_applications_11_03" sha1="672b328fab0d93010d284d5196c60514b19727b3" />
+		<disk name="irix_6_5_22_capps" sha1="1bb24f68a342bc87d4429eba3eec2048f64d4233" />
+		<disk name="irix_6_5_22_overlay_1" sha1="4936bf1a69e909c20b512fae19da4ac181ccfb5d" />
+		<disk name="irix_6_5_22_overlay_2" sha1="c04e1abdf480cfe93658a92c07b25437d92ca240" />
+		<disk name="irix_6_5_22_overlay_3" sha1="8a659ccfa248738e50c4a4357bfc208a0e19f217" />
+	</machine>
+	<machine name="irix_6_5_23">
+		<description>IRIX 6.5.23</description>
+		<year>2004</year>
+		<publisher>SGI</publisher>
+		<disk name="install_1" sha1="2a47acdb7bedf3ccc844358384dec71829d6aefd" />
+		<disk name="install_2" sha1="70e2f097fd0fe797f59c2efaa3bef7dc18932127" />
+		<disk name="install_3" sha1="08c8141b485195672501158de9995cf5a8156e30" />
+		<disk name="irix_6_5_23_apps" sha1="b828e59b8c1f588e219bd6a32b6d27cdb6edd8ac" />
+		<disk name="irix_6_5_23_capps" sha1="9bcd91eb75f7578ab3bda5e3e15b397ca56d9e33" />
+	</machine>
+	<machine name="irix_6_5_24">
+		<description>IRIX 6.5.24</description>
+		<year>2004</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_24_apps" sha1="fbfe26adb5bbc37cc781e03fe55b21c3ce5e8598" />
+		<disk name="irix_6_5_24_capps" sha1="e19212592ef2822d73407780470eb9284cd39499" />
+		<disk name="irix_6_5_24_doc" sha1="485d983f6e6319fce85ff459dda6a92b33666fef" />
+		<disk name="irix_6_5_24_freeware1" sha1="925a8c51edc0528eeafca502b911ff475b68e26d" status="baddump" />
+		<disk name="irix_6_5_24_freeware2" sha1="dc5127d393420610652089e39f73dad6c0975ed2" status="baddump" />
+		<disk name="irix_6_5_24_freeware3" sha1="2569be5c28025aa57a376b6006f85a2252da2b9c" status="baddump" />
+		<disk name="irix_6_5_24_freeware4" sha1="aea02e21f69e2b0aca2c3491040f1ff8b9192097" status="baddump" />
+		<disk name="irix_6_5_24_ovl1" sha1="9f0f952a8abe808e368735bd55f44663b837b65d" />
+		<disk name="irix_6_5_24_ovl2" sha1="cc49982d9e83b44f463c0e972ccaa32a06cff7c7" />
+		<disk name="irix_6_5_24_ovl3" sha1="3361217c92b0c101e55243d9b9833f8ae93b80b2" />
+	</machine>
+	<machine name="irix_6_5_25">
+		<description>IRIX 6.5.25</description>
+		<year>2004</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_25_apps" sha1="60c3641f00feaf581ef134d3f7b5c76607eece21" />
+		<disk name="irix_6_5_25_capps" sha1="dfa5541d0bc4690cd2c482352d52c37ead2f021e" />
+		<disk name="irix_6_5_25_ovl1" sha1="866523e9925416ff16e9e1403724f98a766d408d" />
+		<disk name="irix_6_5_25_ovl2" sha1="7b05e61628d9a574708c46aa63fb5128a7ed0730" />
+		<disk name="irix_6_5_25_ovl3" sha1="0c8ac96173313ba0de9b250bf6949940fb8d0b38" />
+	</machine>
+	<machine name="irix_6_5_26">
+		<description>IRIX 6.5.26</description>
+		<year>2004</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_26_applications_nov_2004" sha1="82b74ea043a9109fdb65b6619768d558eee3aec6" />
+		<disk name="irix_6_5_26_complementary_applications_nov_2004" sha1="de981848caba122485df12ff60466a762f2f6a3a" />
+		<disk name="irix_6_5_26_install_tools_and_overlays_nov_2004" sha1="51939394e12386094f91aca6e176278b66cd9f22" />
+		<disk name="irix_6_5_26_overlays_2_of_3_nov_2004" sha1="aaeb070731b6d1c030def9e4d744c73058a260fd" />
+		<disk name="irix_6_5_26_overlays_3_of_3_nov_2004" sha1="03a6c646a17a7df386b9f0476a5f1f6eceebd53e" />
+	</machine>
+	<machine name="irix_6_5_27">
+		<description>IRIX 6.5.27</description>
+		<year>2005</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_27_installation_tools_and_overlays_1_of_3" sha1="7da18d1b279f41d1d7c2792894fdaaa6bb2e12bb" />
+		<disk name="irix_6_5_27_overlays_2_of_3" sha1="68d8cbcc0a101c6ff9acffe51269cc360a0f682d" />
+		<disk name="irix_6_5_27_overlays_3_of_3" sha1="abb8417de35fdc84ea59b932a90e623e1dc21629" />
+	</machine>
+	<machine name="irix_6_5_28">
+		<description>IRIX 6.5.28</description>
+		<year>2005</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_28_apps" sha1="c1ca6cab605ed0b86e04685b4d63a0c35ede2e7e" />
+		<disk name="irix_6_5_28_capps" sha1="247a10190cbe6d520f7b2772cdd078770d31f55f" />
+		<disk name="irix_6_5_28_doc" sha1="9e1c66e277c56be1181a3fdf789a808f19110069" />
+		<disk name="irix_6_5_28_installation_tools_and_overlays_1_of_3" sha1="3c057a4f0a40e87eb622420b7caf4ac597127d1c" />
+		<disk name="irix_6_5_28_overlays_2_of_3" sha1="07d49d85359a67ad82979ae35c765cbae14e731b" />
+		<disk name="irix_6_5_28_overlays_3_of_3" sha1="13fd947241b8a01efaeeac965e42add12f00fa7e" />
+	</machine>
+	<machine name="irix_6_5_29">
+		<description>IRIX 6.5.29</description>
+		<year>2006</year>
+		<publisher>SGI</publisher>
+		<disk name="irix_6_5_29_base_documentation_feb_06" sha1="5d5318218a4f1a7b3d13cc336ce18d0b13719790" />
+		<disk name="irix_6_5_29_installation_tools_and_overlays_1_of_3_feb_06" sha1="0416e9c1cae8667384eadc87920e20949676822a" />
+		<disk name="irix_6_5_29_overlays_2_of_3_feb_06" sha1="db5d9bd11b678daa64d4aa69441234cbe04b739c" />
+		<disk name="irix_6_5_29_overlays_3_of_3_feb_06" sha1="ae1f7af2432dffa8346cec37ed95cfd9ac1836d9" />
+		<disk name="irix_6_5_applications_feb_06" sha1="f8b43380bf32a6340da6fce974e158421b83fc38" />
+		<disk name="irix_6_5_complementary_applications_feb_06" sha1="d551be62c2ae713ab6ed783e2e84a1e0a8494b8e" />
+	</machine>
+	<machine name="irix_6_5_30">
+		<description>IRIX 6.5.30</description>
+		<year>2006</year>
+		<publisher>SGI</publisher>
+		<disk name="applications" sha1="2b9aa84b81e866889ad8327c89a3e253e0e609f1" />
+		<disk name="complementary_applications" sha1="c609b24ae9973894509e753a039665371733c572" />
+		<disk name="instalation_tools_and_overlays_1" sha1="01dcd708d662b8a6bdef04670202ea361ae6e634" />
+		<disk name="irix_6_5_30_doc" sha1="795dd124fdb2cc32eac0e44187718902e42b87d3" />
+		<disk name="overlays_2" sha1="62e5267a40481c4e4526b463c140eedbeebfadf9" />
+		<disk name="overlays_3" sha1="57031f06a69f8197e356d175b1ec68538db61f59" />
+	</machine>
+	<machine name="irix_6_5_beta">
+		<description>IRIX 6.5 Beta</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_5_beta_applications" sha1="6640a6b668de811d681bb8b17c16a44d67529c33" />
+		<disk name="irix_6_5_beta_base_documentation" sha1="37fd308d630aa02fa8db2eeff985eed2a1e579cd" />
+		<disk name="irix_6_5_beta_compiler_foundation" sha1="77a7258a058c43d86e36fed3cab943d2f5b3fe11" />
+		<disk name="irix_6_5_beta_development" sha1="d0fa1ace37586089c39db3931f5e21e19e808aef" />
+		<disk name="irix_6_5_beta_foundation_1_of_2" sha1="41676f43b4d69970ac37c625353368ae7e506583" />
+		<disk name="irix_6_5_beta_foundation_2_of_2" sha1="ec276b125cf6dc13fd0fd76b645ed957a0dc8357" />
+		<disk name="irix_6_5_beta_installation" sha1="a23a9e3df51c1ea3f348da6389bc73854e82646b" />
+		<disk name="irix_6_5_beta_o2_demos" sha1="c954caa735d92dcf4a6aba620c8d7ad44cf3b0bb" />
+		<disk name="irix_6_5_beta_octane_demos" sha1="36e73c26249bb816cb156a10dbd3118d589428ca" />
+	</machine>
+	<machine name="irix_6_5">
+		<description>IRIX 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Freeware_June_1998" sha1="51746305bc29cd962eee316ce40fc8e819ade42c" />
+		<disk name="IRIX_6_5_Applications_June_1998" sha1="34e81089f83f4b92a70d530b60d0315b20501378" />
+		<disk name="irix_6_5_base_documentation_june_1998" sha1="01f5bb16d49ef08154ea9b429100ad5c66f3b7cf" />
+		<disk name="irix_6_5_development_foundation" sha1="220786e41c11349591a65a0ec078063d23f388a3" />
+		<disk name="irix_6_5_development_libraries" sha1="762bf97ac6837be081d915d89ed50ac83ae417d4" />
+		<disk name="irix_6_5_foundation_1" sha1="6d6009e45d067238d363ec3c490f9fa1548e383b" />
+		<disk name="irix_6_5_foundation_2" sha1="e606152a6293febe00b0aaef6bf97054ef3c6a7a" />
+		<disk name="irix_6_5_installation_tools_june_1998" sha1="2123c5477c3533214a95dc7c801b7306d821d184" />
+		<disk name="ONC3_NFS_Version_3_for_IRIX_6_2_6_3_6_4_and_6_5" sha1="2c9422d70f3255fa8de5cb01e747c6197fc123e4" />
+		<disk name="SNMP_Access_for_HP_UX_MIB_1_1_2_for_IRIX_6_2_6_3_6_4_and_6_5" sha1="f30a731f14e1490aa9bb0beff419a7e4f0c9f4ca" />
+	</machine>
+	<machine name="maint_3_10_comp">
+		<description>3.10 Compilers Maintenance Update for IRIX 4.0.5</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="3_10_compiler_maintenance_update" sha1="e66c03a7f8b651d26adc968a3ff2298fcf32deb1" />
+	</machine>
+	<machine name="mathematica_5_2">
+		<description>Mathematica 5.2</description>
+		<year>2005</year>
+		<publisher>Wolfram</publisher>
+		<disk name="mathematica_5_2_all_unix" sha1="fffc51ad8bf28c68c64ca834e52f8bcbd3423b0a" />
+	</machine>
+	<machine name="maya_comp_5_5">
+		<description>Alias|Wavefront Maya Composer 5.5</description>
+		<year>1999</year>
+		<publisher>Alias|Wavefront</publisher>
+		<disk name="alias_wavefront_maya_composer5_5" sha1="2443df75803449d3d5603beebf4536ab79a1a401" />
+	</machine>
+	<machine name="megadev_3_0">
+		<description>MegaDev 3.0</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="megadev_3_0" sha1="dc764316673e388afe693243e4566c136e0cf8f5" />
+	</machine>
+	<machine name="midk_1_1">
+		<description>Molecular Inventor Development Kit 1.1</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="molecular_inventor_development_kit_1_1_for_irix_5_3_6_2_6_3_and_6_4" sha1="7e2e13713a7ed08844799f22e8a2f60e2ea505fc" />
+	</machine>
+	<machine name="mineset_2_0_1">
+		<description>MineSet 2.0.1 for IRIX 6.2 and later</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="mineset_2_0_1_for_irix_6_2_and_later" sha1="9b990f493057c26aa00427460aaffcc0d8825bf1" />
+	</machine>
+	<machine name="mipspro_6_1">
+		<description>MIPSpro 6.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0400_001_mipspro_cpp_6_1_jul1995" sha1="4eb6d33e9666e5d8b5ada2dbe9fa3b71620b77fa" />
+		<disk name="812_0402_001_fortran_90_compiler_6_1_jul1995" sha1="56c216f27b7a43ab0c9c8d353358b6b11c48265d" />
+		<disk name="812_0403_001_fortran_77_compiler_6_1_jul1995" sha1="452560cdc588027cc99580671280bd31fb7c4f95" />
+	</machine>
+	<machine name="mipspro_6_2">
+		<description>MIPSpro 6.2</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0400_002_mipspro_cpp_6_2_mar1996" sha1="da667906b46340d8aec0338473b1c8d3fcc20ca6" />
+	</machine>
+	<machine name="mipspro_7_2_1">
+		<description>MIPSpro 7.2.1 Compiler Patches June 1998 for IRIX 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="mipspro_7_2_1_compiler_patches_jun1998" sha1="7f1842ebbdae7f942f6fbb6d5628550607758198" />
+	</machine>
+	<machine name="mipspro_7_2">
+		<description>MIPSpro 7.2</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="mipspro_c_compiler_7_2_for_irix_6_2_6_3_and_6_4" sha1="8c7ecb95744ee92ba46ff7f5831f690b2620892f" />
+		<disk name="mipspro_cpp_7_2_for_irix_6_2_6_3_and_6_4" sha1="e3f8e53ae8050c47eaf046cef0c9a092d8a7777c" />
+		<disk name="mipspro_fortran_77_7_2_for_irix__6_2_6_3_and_6_4" sha1="a9aa291507fb6b6f7fa1bdeda2d9b49217a2da3e" />
+		<disk name="mipspro_fortran_90_7_2_for_irix_6_2_6_3_and_6_4" sha1="1b3beeb371a834264959b07f3f50a4ace6d557a2" />
+	</machine>
+	<machine name="mipspro_7_3">
+		<description>MIPSpro 7.3</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0400_009_mipspro_cpp_compiler_7_3_may1999" sha1="6ed7fe6b555ff28081d4822a8fd0df7b2e39da81" />
+		<disk name="812_0403_009_mipspro_fortran_77_compiler_7_3_may1999" sha1="2d99ebf064d46926d484db7a3179d5615f803485" />
+		<disk name="812_0707_003_mipspro_c_compiler_7_3_may1999" sha1="5ed637b7bd5db751b18aee7b97aad3af1e335d22" />
+		<disk name="812_0924_001_compiler_execution_environment_7_3_may1999" sha1="7b48080b5f0551c03725115be61166ae4ebfc7a8" />
+	</machine>
+	<machine name="mipspro_7_4">
+		<description>MIPSpro 7.4</description>
+		<year>2002</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0400_010_mipspro_cpp_compiler_7_4_nov2002" sha1="5046c2f41762857ebd6c7d3df170ed95576412ab" />
+		<disk name="812_0403_010_mipspro_fortran_77_compiler_7_4_nov2002" sha1="f149de4cb7e85febc7ba4b2538fdcc172b4af0ff" />
+		<disk name="812_0707_010_mipspro_c_compiler_7_4_nov2002" sha1="24918ce875c7f79d88103312269f01ba71f236ac" />
+		<disk name="812_0924_002_compiler_execution_environment_7_4_nov2002" sha1="3cf848658dc3570b4c384068e3ed99cc26d96d76" />
+	</machine>
+	<machine name="mipspro_may_99">
+		<description>MIPSpro All-Compiler CD May 1999 for IRIX 6.5 and later</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="mipspro_all_compiler_cd_may_1999_for_irix_6_5_and_later" sha1="6257a45e2a656da0aeaeaeae3d91fdaed5135a8a" />
+	</machine>
+	<machine name="multilink_doc">
+		<description>Silicon Graphics MultiLink Adapter Documentation</description>
+		<year>2000</year>
+		<publisher>SGI</publisher>
+		<disk name="silicon_graphics_multilink_adapter_documentation" sha1="cebf60ea23f3fb404a085fb6b41928bc3afaa8ee" />
+	</machine>
+	<machine name="netbsd_1_6_2">
+		<description>NetBSD 1.6.2</description>
+		<year>2004</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd" sha1="dd58f16cda1510a59ec64b02e6fb0b6b308587ad" />
+		<disk name="sourcecd" sha1="a542d0b3397632c125c279e4b50df0fa431b5fd9" />
+	</machine>
+	<machine name="netbsd_2_0_2">
+		<description>NetBSD 2.0.2</description>
+		<year>2005</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd" sha1="45b78a683010aa75476ca987e48fa469b4cfa127" />
+		<disk name="sourcecd" sha1="e74be0fe637d4ddc8e5bbe818d6c3876fce2f6ae" />
+	</machine>
+	<machine name="netbsd_2_0">
+		<description>NetBSD 2.0</description>
+		<year>2004</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd" sha1="d8960cfffc55d87f8e83074346e0f670b7a7f024" />
+		<disk name="sourcecd" sha1="073ceaa3db068938e11a4893fcec81ce533e1016" />
+	</machine>
+	<machine name="netbsd_2_1">
+		<description>NetBSD 2.1</description>
+		<year>2005</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd" sha1="dd160526c51fc4976639a5ca872b6a38f8da9088" />
+		<disk name="sourcecd" sha1="9c1dd6ae595aa44f68b21b574e4ede12ad23a6b1" />
+	</machine>
+	<machine name="netbsd_3_0_1">
+		<description>NetBSD 3.0.1</description>
+		<year>2006</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd_3_0_1" sha1="8c9fbcdfe31006d19c43cf1afdafa6a0926f868a" />
+		<disk name="sourcecd_3_0_1" sha1="476c37f1154169a1443a82baf4cf5cde6847f1e1" />
+	</machine>
+	<machine name="netbsd_3_0_2">
+		<description>NetBSD 3.0.2</description>
+		<year>2006</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd_3_0_2" sha1="8785e73b09d99ee9eab7a6821c61fd6154ad1f0c" />
+		<disk name="sourcecd_3_0_2" sha1="86038dcdfeb5a4ad74c83a7cf0d37e2bfbc2e9f2" />
+	</machine>
+	<machine name="netbsd_3_0">
+		<description>NetBSD 3.0</description>
+		<year>2005</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd_3_0" sha1="ce20c8a04f2013bf826bad0535931082535d564e" />
+		<disk name="sourcecd_3_0" sha1="9ab700a635e1816a8f1120b915b97875299686c7" />
+	</machine>
+	<machine name="netbsd_3_1">
+		<description>NetBSD 3.1</description>
+		<year>2006</year>
+		<publisher>The NetBSD Project</publisher>
+		<disk name="sgimipscd_3_1" sha1="0258964ef25771d5c0107612be4190081568d689" />
+		<disk name="sourcecd_3_1" sha1="55c55fe766674c84ba7db132f5e05cabc77ee5b0" />
+	</machine>
+	<machine name="networker_4_1_3">
+		<description>IRIX Networker 4.1.3</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_networker_4_1_3" sha1="6071494d71557d6f14001534f59f980b556eba06" />
+	</machine>
+	<machine name="networker_4_2_5">
+		<description>NetWorker 4.2.5 for IRIX 5.3, 6.2, 6.3 and 6.4</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="networker_4_2_5_for_irix_5_3_6_2_6_3_and_6_4" sha1="2ccd939f8469989624bea38c9125c9ae6461237b" />
+		<disk name="networker_4_2_5_for_irix_6_2_6_3_and_6_4" sha1="7aca6407fd1d10f2c9bf211e67ade11dc5cc9903" />
+	</machine>
+	<machine name="networker_4_2_9">
+		<description>NetWorker 4.2.9 for IRIX 6.2, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="networker_4_2_9" sha1="23c7e86b96bb853ff2d873c5d1e8fce77b8d6022" />
+	</machine>
+	<machine name="nfs_5_0_1">
+		<description>Network File System 5.0.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="network_file_system_5_0_1" sha1="a45f59bc0e74c959aadbad7c71d24d252d4365b9" />
+	</machine>
+	<machine name="nfs_5_0">
+		<description>Network File System 5.0</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="network_file_system_5_0" sha1="ab90a707c6c23ca6fc3d808dc8aba2845c4277bf" />
+	</machine>
+	<machine name="nfs_5_1">
+		<description>Network File System 5.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="network_file_system_5_1" sha1="56f61ad635f9198f566f3a75e039ecba8c701baa" />
+	</machine>
+	<machine name="nfs_5_2">
+		<description>Network File System 5.2</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="network_file_system_5_2" sha1="c283b86048d6e2a2aaf5caa656d5c0842bbccf13" />
+	</machine>
+	<machine name="nfs_5_3">
+		<description>Network File System 5.3</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Network_File_System_5_3" sha1="f31d02963961f1e3c687af0674c8d9a857daa4ee" />
+	</machine>
+	<machine name="nfs_6_0">
+		<description>Network File System 6.0</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="network_file_system_6_0" sha1="e298a2a02a6407ef33b20fc054f13f55aaaf9a7c" />
+	</machine>
+	<machine name="nfs_6_1">
+		<description>Network File System 6.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="network_file_system_6_1" sha1="37ea5cac02f6f2e7a641c8629157841e667b540c" />
+	</machine>
+	<machine name="o2_oobe">
+		<description>O2 Out of Box Experience 2.1</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="o2_insert_first" sha1="d6c9b26e7345248facdd9864c380fe5f55261be2" />
+	</machine>
+	<machine name="o2_oobe_2_2">
+		<description>O2 Out of Box Experience 2.2 for IRIX 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="o2_out_of_box_experience_2_2" sha1="41caadce118b481fc700905530ff2f9599689b33" />
+	</machine>
+	<machine name="o2_oobe_96">
+		<description>O2 Out of Box Experience</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="o2_out_of_box_experience" sha1="551cc176b81fb191c4b1334e99a39f40513a6077" />
+	</machine>
+	<machine name="o2demos_1_0">
+		<description>O2 Demos 1.0 for IRIX 6.3 including R10000</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="o2_demos_1_0" sha1="72e590b3395d2b6d4cd3305285813b796d414d3e" />
+	</machine>
+	<machine name="o2demos_1_1_1">
+		<description>O2 Demos 1.1.1 for IRIX 6.3 including R10000</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="O2_Demos_1_1_1_for_IRIX_6_3_including_R10000" sha1="2a9331a5646e8cd8aab7475da374fa14192b6066" />
+	</machine>
+	<machine name="o2demos_1_3">
+		<description>O2 Demos 1.3 for IRIX 6.5 and later</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="o2_demos_1_3" sha1="6d41022f6f62d3ed83772f1f19f685a12ca4b9d0" />
+	</machine>
+	<machine name="o2oobe_2_4">
+		<description>O2 Out of Box Experience 2.4 for IRIX 6.5 and later</description>
+		<year>2000</year>
+		<publisher>SGI</publisher>
+		<disk name="o2_out_of_box_experience_2_4" sha1="6cb1158e45b87a37e09786f6d3179fde6b7a4864" />
+	</machine>
+	<machine name="oct2_demos_1_0">
+		<description>OCTANE Demos 1.3 and OCTANE2 Demos 1.0 for IRIX 6.5.9 and later</description>
+		<year>2000</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="octane2_demos_1_0" sha1="006de465f11a088f462d1668701cd9cad23bbd51" />
+	</machine>
+	<machine name="oct2_vpro_patch1">
+		<description>Octane2 VPro Patches 3927 for 6.5.8m and 3928 for 6.5.8f</description>
+		<year>2000</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="octane2_vpro_patches_3927_3928" sha1="a8462671b0fe4c3a5d39b3791b372ec198c9ef6b" />
+	</machine>
+	<machine name="oct2_vpro_patch3">
+		<description>Octane2 VPro Patches 4103 for 6.5.10m and 4104 for 6.5.10f</description>
+		<year>2000</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="octane2_vpro_patches_4103_4104" sha1="8713c6c1b262260500062574f3e622a60a25cc3d" />
+	</machine>
+	<machine name="oct_demos_1_3">
+		<description>OCTANE Demos 1.3 for IRIX 6.5 and later</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="octane_demos_1_3" sha1="5c9864a6595ba46d4f04fa743497f8ee11043e02" />
+	</machine>
+	<machine name="onc3nfs_1_2">
+		<description>ONC3/NFS for IRIX 6.2 Version 1.2</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="onc3_nfs_for_irix_6_2_version_1_2" sha1="86f44b190dbbe8b8a55f6a8250e7a9d42905b70a" />
+	</machine>
+	<machine name="onc3nfs_1">
+		<description>ONC3/NFS for IRIX 6.2 Version 1</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="onc3_nfs_for_irix_6_2_version_1" sha1="e2e85307864dff08189d5271fbc66b2ae3fae954" />
+	</machine>
+	<machine name="onc3nfs_2">
+		<description>ONC3/NFS Version 2, for IRIX 6.2, 6.3 and 6.4</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="ONC3_NFS_Version_2_for_IRIX_6_2_6_3_and_6_4" sha1="29567c0545c2d7698d35e6f3a23d4ec1a8b9f129" />
+	</machine>
+	<machine name="onc3nfs_ind">
+		<description>ONC3/NFS for IRIX 6.2 with Indigo2 IMPACT 10000 Version 1</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="onc3_nfs_for_irix_6_2_with_indigo2_impact_10000_version_1" sha1="49171c4968606047af96fbce7fbde5f685c8d130" />
+	</machine>
+	<machine name="onyx2demo1">
+		<description>Onyx2 - As Real As it Gets Demo CD - Volume 1</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sgi-onyx2-demo-1" sha1="42a6d6e968e1c97be0aa28e32834fd127a423ccb" />
+	</machine>
+	<machine name="onyx2demo2">
+		<description>Onyx2 - As Real As it Gets Demo CD - Volume 2</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sgi-onyx2-demo-2" sha1="65f883c17c32a8d18d90872da424ec5a2d255d03" />
+	</machine>
+	<machine name="onyx2demo3">
+		<description>Onyx2 - As Real As it Gets Demo CD - Volume 3</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sgi-onyx2-demo-3" sha1="a4798ad293b23b904149bd7d72708c01a729c1be" />
+	</machine>
+	<machine name="openinv_2_1_2">
+		<description>Open Inventor 3D Toolkit 2.1.2</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="open_inventor_3d_toolkit_2_1_2" sha1="0aa0616d5156e2555b89df459b75c9fc4a33b331" />
+	</machine>
+	<machine name="openinv_2_1_5">
+		<description>Open Inventor 2.1.5 for IRIX 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="open_inventor_2_1_5" sha1="2c9aea80d336df6ae2b67960bcd71230364184fb" />
+	</machine>
+	<machine name="pascal_1_3_1">
+		<description>Pascal Compiler 1.3.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0003_004_pascal_compiler_1_3_1_may1993" sha1="62598d4bf5780b859b0a2a5274e74f39a0b44a24" />
+	</machine>
+	<machine name="pascal_1_4_3">
+		<description>Pascal Compiler 1.4.3</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0131_004_pascal_compiler_1_4_3_mar1994" sha1="d3da4d33871967f754a062a4274d96fe64733611" />
+	</machine>
+	<machine name="pascal_1_4_4">
+		<description>Pascal Compiler 1.4.4</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0131_005_pascal_compiler_1_4_4_nov1994" sha1="11527b09d689163e5699c8f45a16b6a8e5cc1895" />
+	</machine>
+	<machine name="patch_4_0_5h">
+		<description>IRIX 4.0.5H and 4.0.5IOP R4400 Patch</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0250_002_4_0_5h_4_5iop_r4400_patch_dec1993" sha1="508fa7867abd8ee6ab9a45a1e78c1a15d531136f" />
+	</machine>
+	<machine name="patch_5_1_1_1">
+		<description>IRIX Patch 5.1.1.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0238_001_irix_patch_5_1_1_1_sep1993" sha1="769fef8f67a42049541eb1f9e8357e7e769377a2" />
+	</machine>
+	<machine name="patch_5_1_1_2">
+		<description>IRIX Patch 5.1.1.2</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_patch_5_1_1_2" sha1="29092ce7dd4682393e1ac0d2ffbbd8d0f9a6e90b" />
+	</machine>
+	<machine name="patch_5_1_1_3">
+		<description>IRIX Patch 5.1.1.3</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_patch_5_1_1_3" sha1="445f36a88a9d8205cfc7e2208c9508519660e69b" />
+	</machine>
+	<machine name="patch_5_2_2">
+		<description>IRIX 5.2 Patches #2</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_2_patches_2" sha1="bebb68aa3d276732bc570d8954c5bf7122e4bc4a" />
+	</machine>
+	<machine name="patch_5_3_dec_97">
+		<description>IRIX 5.3 Current Patches December 1997</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_3_current_patches_december_1997" sha1="a2de6e6abe88a73c04e3c77ef9f79eaef1d9cc8a" />
+	</machine>
+	<machine name="patch_5_3_indigo">
+		<description>IRIX 5.3 Patches for Indigo2 250MHz R4400 EX/XZ/XL December 1995</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_3_indigo2_patches_december_1995" sha1="4536397a55670232c53868c065df5bc927c1b9fd" />
+	</machine>
+	<machine name="patch_5_3_onyx">
+		<description>IRIX 5.3 Onyx RE/REII Patch December 1994</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_3_onyx_re_reii_patch_december_1994" sha1="561e518b99fe9443ebe3714cebfc06f57c3e5a75" />
+	</machine>
+	<machine name="patch_5_3_sep_97">
+		<description>IRIX 5.3 Recommended/Required Patches September 1997</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_3_recommended_required_patches_september_1997" sha1="88d3233671483a82b4f524e4b91fb465fb44ca5b" />
+	</machine>
+	<machine name="patch_5_3_xfs">
+		<description>IRIX 5.3 with XFS Patch CD</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_3_with_xfs_patch_cd" sha1="01eb55e30a4739e106af8a0de3ac1207fde0765d" />
+	</machine>
+	<machine name="patch_5_x_ip19">
+		<description>IRIX 5.2, 5.3 and 5.3XFS IP19 Required Patch Set May 1996</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_5_2_5_3_ip19_required_patch_set_may1996" sha1="4028f2163b1c1d5bd82de246b32d1b5ad03d4202" />
+	</machine>
+	<machine name="patch_6_2_aug_96">
+		<description>Patches for IRIX 6.2 with Indigo2 8/96</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="patches_for_irix_6_2_with_indigo2_8_96" sha1="01540a1d57ff72775a0d857ef9bd76ace01daa6f" />
+	</machine>
+	<machine name="patch_6_2_feb_97">
+		<description>IP19/IP21/IP25 Patchsets 2/97 for IRIX 6.2</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="patchsets_ip19_ip21_ip25_for_6_2_feb1997" sha1="57eebfdbc5acebbaacd349e9d0bdc5bedbfe9b3e" />
+	</machine>
+	<machine name="patch_6_2_fof">
+		<description>IRIX 6.2 Fix on Fail Patches</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_2_fix_on_fail_patches_1_of_2" sha1="d697bc983791eb8a3d3b7981b616958ff6aa11b1" />
+		<disk name="irix_6_2_fix_on_fail_patches_2_of_2" sha1="dae4c24648c87e71e6d5ef2f0baabba42e827ba0" />
+	</machine>
+	<machine name="patch_6_4_aug_97">
+		<description>Octane I/O Patches for IRIX 6.4</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="octane_io_patches_aug_1997" sha1="2529887bf404d72d2948466559297b753d553a44" />
+	</machine>
+	<machine name="patch_6_4_gbit">
+		<description>IRIX 6.4 Gigabit Ethernet Patches</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_4_gigabit_ethernet_patches_jun1998" sha1="3130ad35248b797f3670a7c78bc21bffab83d492" />
+	</machine>
+	<machine name="patch_6_4_sep_99">
+		<description>IRIX 6.4 Recommended/Required Patches September 1999</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_6_4_recommended_required_patches_sep1999_1_of_2" sha1="fe79ae50632d7fec5bb5aca5c79ac8036611b905" />
+		<disk name="irix_6_4_recommended_required_patches_sep1999_2_of_2" sha1="5b1c80e46ad981bb007dfc127ded636562231711" />
+	</machine>
+	<machine name="patch_aug_97">
+		<description>O2 IRIX 6.3 Recommended/Required Patches August 1997</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="O2_IRIX_6_3_Recommended_Required_Patches_August_1997" sha1="8befb7c4ab10abc41caf5cbf3e7fb385601155e4" />
+	</machine>
+	<machine name="patch_oct_97">
+		<description>IRIX 6.3 and 6.4 Recommended/Required Patches October 1997</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="IRIX_6_3_and_6_4_Recommended_Required_Patches_October_1997" sha1="79e5e5d94d9f0887b5ed2f9ee48c1fb4bbcc0d5d" />
+	</machine>
+	<machine name="patch_sg0000466">
+		<description>Patch SG0000466</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Patch_SG0000466" sha1="830782ab34d8e6b1014e1d9af59c345819f92041" />
+	</machine>
+	<machine name="patch_sup_jul_98">
+		<description>Origin/Onyx2 Patch Supplement for IRIX 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="origin_onyx2_patch_supplement_july_1998" sha1="58ed589c47d833297ed4a0b0e45c95e6d9d8b75c" />
+	</machine>
+	<machine name="patch_sys_may_98">
+		<description>Origin and Onyx2 System Disk Patches</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="origin_and_onyx2_system_disk_patches_may_1998" sha1="b936ab7880e0a3dacfca7a42539bda18f8884e90" />
+	</machine>
+	<machine name="pdfgenerator_1_2">
+		<description>PDF Generator 1.2 for IRIX 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="pdf_generator_1_2" sha1="cdb0bb0abb41f31973231a4706a9acc496011e8f" />
+	</machine>
+	<machine name="perfcop_1_3">
+		<description>Performance Co-Pilot 1.3 for IRIX 5.3, 6.2, 6.3 and 6.4</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="performance_co_pilot_1_3_for_irix_5_3_6_2_6_3_and_6_4" sha1="423d0ecb0152d021dffe17783a66d96206ebe366" />
+	</machine>
+	<machine name="perfcop_2_1">
+		<description>Performance Co-Pilot 2.1 for IRIX 6.2, 6.3, 6.4 and 6.5.5</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="performance_co_pilot_2_1_for_irix_5_3_6_2_6_3_6_4_and_6_5_5" sha1="e7d0ee548494faf09ca90964846942d09aea1b41" />
+	</machine>
+	<machine name="perfcop_orcl">
+		<description>Performance Co-Pilot for Oracle 2.0 for IRIX 5.3, 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="performance_co_pilot_for_oracle_2_0_for_irix_5_3_6_2_6_3_6_4_and_6_5" sha1="c25abb9f7ea694b6de6d0fbaf74a9bdc48e762f4" />
+	</machine>
+	<machine name="perfcop_web_1_1">
+		<description>Performance Co-Pilot for WebServers 1.1</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="performance_co_pilot_for_webservers_1_1" sha1="558a7cc0c98d91566ed28558dbf0bbfed636e1f7" />
+	</machine>
+	<machine name="perfcop_web_2_0">
+		<description>Performance Co-Pilot for Web Servers 2.0 for IRIX 5.3, 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="performance_co_pilot_for_web_servers_2_0_for_irix_5_3_6_2_6_3_6_4_and_6_5" sha1="aedfdc3f911d25579be715c920ad72c1914ceed5" />
+	</machine>
+	<machine name="photoshop_2_5_2">
+		<description>Adobe Photoshop 2.5.2</description>
+		<year>1993</year>
+		<publisher>Adobe</publisher>
+		<disk name="adobe_photoshop_2_5_2" sha1="ef3c8c902827496d34a641bd2e69acc718d965a0" />
+	</machine>
+	<machine name="photoshop_3_0_1">
+		<description>Adobe Photoshop 3.0.1</description>
+		<year>1994</year>
+		<publisher>Adobe</publisher>
+		<disk name="adobe_photoshop_3_0_1" sha1="8b6200fe6ba840ff917d79d1994ffeaac8dec320" />
+	</machine>
+	<machine name="power_anim_7_51">
+		<description>Alias|Wavefront PowerAnimator 7.51</description>
+		<year>1996</year>
+		<publisher>Alias|Wavefront</publisher>
+		<disk name="alias_wavefront_poweranimator_7_51_oct_1996" sha1="1065292902536290278d1d9571501def43806256" />
+	</machine>
+	<machine name="power_anim_8_2">
+		<description>Alias|Wavefront PowerAnimator 8.2</description>
+		<year>1997</year>
+		<publisher>Alias|Wavefront</publisher>
+		<disk name="v08_2_irix_cd_1_of_2" sha1="77fd71891480f826ae455543d0a9f9583c9de00b" />
+		<disk name="v08_2_irix_cd_2_of_2" sha1="2927c3aa5d7bd74709fa465401b11dab2ff7f723" />
+	</machine>
+	<machine name="power_c_2_0">
+		<description>Power C 2.0</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0043_002_power_c_2_0" sha1="ee1c70e5b19254b4c463e361998e117e44920a71" />
+	</machine>
+	<machine name="power_c_2_1_1">
+		<description>Power C 2.1.1</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0043_004_power_c_2_1_1" sha1="271ff07593f7df5a9a31942dc7cb2186085743f6" />
+	</machine>
+	<machine name="power_f77_4_0_1a">
+		<description>Power Fortran Accelerator 4.0.1 03/1994</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0134_004_power_fortran_4_0_1_mar1994" sha1="824cf26ca96d4e582f79fc2bf98bc7b53824ed67" />
+	</machine>
+	<machine name="power_f77_4_0_1b">
+		<description>Power Fortran Accelerator 4.0.1 04/1994</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0134_005_power_fortran_4_0_1_apr1994" sha1="d6aa34c3b82e0b52f7009813ee96a9e6567d8758" />
+	</machine>
+	<machine name="power_f77_6_0">
+		<description>MIPSpro Power Fortran 77 6.0</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0294_001_power_fortran_77_6_0_aug1994" sha1="6e2027da97ab64edcf29c59e90d61bb325c6bd52" />
+	</machine>
+	<machine name="power_f77_6_1">
+		<description>MIPSpro Power Fortran 77 6.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0395_001_power_fortran_77_6_1_jul1995" sha1="2b82800e92231b546335317d68f2e3489ed2d442" />
+	</machine>
+	<machine name="prisms_6_4">
+		<description>PRISMS 6.4</description>
+		<year>1997</year>
+		<publisher>Side Effects Software</publisher>
+		<disk name="prisms_6_4" sha1="dc777c86168394b44f71dcbaaf2a8c15932a971f" />
+	</machine>
+	<machine name="prodev_2_5_1">
+		<description>ProDev Workshop 2.5.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="prodev_workshop_2_5_1" sha1="a0b3c29153a57a896d5a31cce7024122b363b8ca" />
+	</machine>
+	<machine name="prodev_2_6_5">
+		<description>ProDev Workshop 2.6.5 for IRIX 6.2, 6.3 and 6.4</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="prodev_workshop_2_6_5_for_irix_6_2_6_3_and_6_4" sha1="a41a0237186373af15181e086d942ba3618835a8" />
+	</machine>
+	<machine name="prodev_2_9_1">
+		<description>ProDev Workshop 2.9.1</description>
+		<year>2001</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="prodev_workshop_2_9_1" sha1="bcced19fe2e955447fe380c5cc29db0663aad796" />
+	</machine>
+	<machine name="prodev_2_9_2">
+		<description>ProDev Workshop 2.9.2</description>
+		<year>2002</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="prodev_workshop_2_9_2" sha1="46e0d62297d264c1e690ba6656ac1573ffe0e929" />
+	</machine>
+	<machine name="prodev_suite">
+		<description>ProDev Developers Suite</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0768_003_prodev_developers_suite_may1999" sha1="d12dff7e5a7a1f67cf3f4965cf3abe30815cf4bd" />
+	</machine>
+	<machine name="rapidapp_1_1">
+		<description>RapidApp 1.1</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="rapidapp_1_1" sha1="5b9e1d9f3a3f8b2f6bf17596272a1433da82f7e6" />
+	</machine>
+	<machine name="rayz_2_2_12">
+		<description>RAYZ 2.2.12</description>
+		<year>200?</year>
+		<publisher>Silicon Grail</publisher>
+		<disk name="rayz_2_2_12" sha1="0c33586e0b0fa86742d8a47b1292fddcc17c22e9" status="baddump" />
+	</machine>
+	<machine name="rayz_2_2">
+		<description>RAYZ 2.2</description>
+		<year>2002</year>
+		<publisher>Silicon Grail</publisher>
+		<disk name="rayz_2_2" sha1="f53cab16b7bed7a89abe46a9595ac9b068f4b1f9" />
+	</machine>
+	<machine name="sadvantage_3_94">
+		<description>Support Advantage Int'l 3/94</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="support_advantage_intl_3_94" sha1="3079331e1f47f6d9537d1a1dcda9c00ad3a6b0af" />
+	</machine>
+	<machine name="sadvantage_6_95">
+		<description>Support Advantage 6/95</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Support_Advantage_IRIX_Patches_6_95" sha1="e458a0076039d4fb1fe2cc5f6475670a86025087" />
+		<disk name="Support_Advantage_Support_Libraries_6_95" sha1="e24c4af01b54bf1a6ccae6a6291df53b116ffbcd" />
+	</machine>
+	<machine name="sadvantage_9_95">
+		<description>Support Advantage 9/95</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Support_Advantage_IRIX_Patches_9_95" sha1="057c9c63ccfd692e30b6325e6bcbc7aefdae58cb" />
+		<disk name="Support_Advantage_Support_Libraries_9_95" sha1="5cac63ac4127aa0c97797d746166a1178953c733" />
+	</machine>
+	<machine name="sadvantage_10_94">
+		<description>Support Advantage 10/94</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Support_Advantage_Support_Libraries_10_94" sha1="643371e46dffed73f1d493a623d920233d79c5b1" />
+	</machine>
+	<machine name="sadvantage_11_93">
+		<description>Support Advantage Int'l 11/93</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="support_advantage_intl_11_93" sha1="36324701f84531b965046a17ed7aebfa4e8bf7ca" />
+	</machine>
+	<machine name="sadvantage_12_95">
+		<description>Support Advantage 12/95</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Support_Advantage_IRIX_Patches_12_95" sha1="f0b8e3958a05d0ef9a9b38424706e7eb29bdfb0a" />
+		<disk name="Support_Advantage_Support_Libraries_12_95" sha1="3c2a70f3c1d0e4f7fbd4c5be6c9e79c276011641" />
+	</machine>
+	<machine name="samba_2_0_0">
+		<description>Samba 2.0.0 for IRIX for IRIX 6.5 and later</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="samba_2_0_0_for_irix" sha1="7d2a2c3236471fc08e53c81f05a7224998f4d237" />
+	</machine>
+	<machine name="scsl_1_2">
+		<description>SCSL Scientific Library 1.2 for IRIX 6.4 and 6.5</description>
+		<year>1999</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="scsl_scientific_library_1_2_for_irix_6_4_and_6_5" sha1="a6dd9f596b523d748b3a55902de07c87f921453b" />
+	</machine>
+	<machine name="scsl_1_3">
+		<description>SCSL Scientific Library 1.3 for IRIX 6.4 and 6.5</description>
+		<year>2000</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="scsl_scientific_library_1_3_for_irix_6_4_and_6_5" sha1="80395066fcc68a110df51f1da9871ba37ca79c51" />
+	</machine>
+	<machine name="sfolio_2_97">
+		<description>SupportFolio 2/97</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="supportfolio_irix_5_3_6_3_and_6_4_patches_2_97" sha1="42eefd43f7377ae1e2a0d318b8118a67ae56b2df" />
+		<disk name="supportfolio_irix_6_2_patches_2_97" sha1="4687cdc28d14a4d59a1887a6873119805a1c64aa" />
+	</machine>
+	<machine name="sfolio_4_97">
+		<description>SupportFolio 4/97</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="supportfolio_irix_5_3_6_3_and_6_4_patches_4_97" sha1="b33cc43486fe375d126b8e39178f69072b0310d3" />
+		<disk name="supportfolio_irix_6_2_patches_4_97" sha1="36a7630cc2b50cdbf059a3d167a04eb4d3aec6d2" />
+	</machine>
+	<machine name="sfolio_5_96">
+		<description>SupportFolio 5/96</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="SupportFolio_Information_Resources_5_96" sha1="0bc454826a392016d94ad5ac958b54c341780237" />
+		<disk name="SupportFolio_IRIX_Patches_5_96" sha1="4b5a4ca28466bbbde48268c1a1aae3cb352be3f5" />
+	</machine>
+	<machine name="sfolio_6_96">
+		<description>SupportFolio June 96</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="SupportFolio_Information_Resources_6_96" sha1="5e9af5a94a094e040266cbcb48234b8da5f5ec6d" />
+		<disk name="SupportFolio_IRIX_Patches_6_96" sha1="80b9576f41bb00922960aa019924c34ff220a97b" />
+	</machine>
+	<machine name="sfolio_10_96">
+		<description>SupportFolio 10/96</description>
+		<year>1996</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="supportfolio_information_resources_10_96" sha1="d01876973667216e044bb8a959f6530575fdd70e" />
+		<disk name="supportfolio_irix_5_3_and_6_1_patches_10_96" sha1="0f1d18a85a85fc97cfc69aaf8f6d1a8f8b500d71" />
+		<disk name="supportfolio_irix_6_2_patches_10_96" sha1="55209bec451eb43fa27e8c65fe90d4b2c3157b73" />
+	</machine>
+	<machine name="sgi_demos_6_5_12">
+		<description>Silicon Graphics General and Platform Demos 6.5.12</description>
+		<year>2001</year>
+		<publisher>SGI</publisher>
+		<disk name="silicon_graphics_general_and_platform_demos_6_5_12_1_of_2" sha1="624a9beb802b9fb310cbbf158debdfe6c89a65b6" />
+		<disk name="silicon_graphics_general_and_platform_demos_6_5_12_2_of_2" sha1="ff7531c20bf5d52f9f199968e2dc8a96af477b8f" />
+	</machine>
+	<machine name="sgimeet_1_0">
+		<description>SGImeeting 1.0 for IRIX 6.5.2</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sgimeeting_1_0" sha1="4a14e3c051c784605f09e74d00b81a788d84dfbd" />
+	</machine>
+	<machine name="silicon_artfx">
+		<description>Silicon ArtFX - Produced by the Multimedia Design Group of the Corporate Marketing Division</description>
+		<year>199?</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="silicon_art_fx" sha1="4b0069a100926cac8ddabb828e7af8df1fab6c4c" />
+	</machine>
+	<machine name="sirius_video_6_0">
+		<description>Sirius Video 6.0</description>
+		<year>1994</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="sirius_video_6_0" sha1="85c31f427d7172fbb1bc2817224825c304e059f8" />
+	</machine>
+	<machine name="softwin95_4_0">
+		<description>Insignia SoftWindows 95 4.0 for IRIX 6.3 and 6.4</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="Insignia_SoftWindows_95_4_0_for_IRIX_6_3_and_6_4" sha1="59419295ccceb168b58408f8ed62f50d14d27c52" />
+	</machine>
+	<machine name="softwin95_5_0">
+		<description>Insignia SoftWindows 95 5.0 for IRIX 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="softwindows95_v5_0_for_irix_6_5" sha1="89fab878248514f0e4e98f073f28e778803d1f81" />
+	</machine>
+	<machine name="sybyl_7_2">
+		<description>Tripos SYBYL 7.2</description>
+		<year>2006</year>
+		<publisher>Tripos, Inc.</publisher>
+		<disk name="sybyl_7_2_cd1" sha1="4ee395eeeca2dfa3f0ff42e1f4973e49e9a7cbf7" />
+		<disk name="sybyl_7_2_cd2" sha1="91f4e7fad5acab29847beaafa5bc10d6366bda1b" />
+		<disk name="sybyl_7_2_cd3" sha1="c073cf3042b4816bff033cb76cd08983b8d9cf0d" />
+		<disk name="sybyl_7_2_cd4_pr" sha1="e158700f39cd7f61ddb15fa8f8d9ac6983a418a1" status="baddump" />
+	</machine>
+	<machine name="teleffect_1_0">
+		<description>Teleffect 1.0 for IRIX 6.2, 6.3, 6.4, 6.5 for Microsoft NT 4.0</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="teleffect_1_0" sha1="c5e26c5ad1d844650567a7917091887bd7d64e90" />
+	</machine>
+	<machine name="tido_4_0_5epl">
+		<description>Trusted IRIS Development Option 4.0.5 EPL</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="trusted_iris_development_option_4_0_5_epl" sha1="725ccab5e805f4a1ab763bff68e6a88a2f203f57" />
+	</machine>
+	<machine name="tirix_4_0_4">
+		<description>Trusted IRIX /B 4.0.4</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="trusted_irix_b_4_0_4" sha1="4fb9bc877714fcc0eda844811feabdcfeb1ffa8c" />
+	</machine>
+	<machine name="tirix_4_0_5epl">
+		<description>Trusted IRIX /B 4.0.5 EPL</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="trusted_irix_b_4_0_5_epl" sha1="b6f24f0a046a242804da720022de87b35d4ac582" />
+	</machine>
+	<machine name="update_4_0_1">
+		<description>IRIX W4D Update 4.0.1</description>
+		<year>1991</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_w4d_update_4_0_1" sha1="a436d8122751e111e6df07132e71b531d60e7927" />
+	</machine>
+	<machine name="update_4_0_4">
+		<description>IRIX Update 4.0.4</description>
+		<year>1992</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="irix_update_4_0_4" sha1="34a4a68e4db1abd1eb247708cfcf8d113c4f0c7a" />
+	</machine>
+	<machine name="varsity_up_08_98">
+		<description>Varsity Update August 1998 for IRIX 6.2, 6.3, 6.4 and 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="varsity_update_aug1998" sha1="daaed02460b34fdeaff43b69660e9ab54d86a0d0" />
+	</machine>
+	<machine name="vismagic_1_0">
+		<description>Visual Magic Tools 1.0</description>
+		<year>1993</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="812_0212_001_visual_magic_tools_1_0_jun93" sha1="68aac17a349af6ee9639dba9df629397d1287edf" />
+	</machine>
+	<machine name="wavefront_3_5_1">
+		<description>Wavefront Composer 3.5.1 Visualizer Paint 3.5.1</description>
+		<year>1995</year>
+		<publisher>Wavefront Technologies</publisher>
+		<disk name="wavefront_composer_3_5_1_visualizer_paint_3_1_5_1995" sha1="69633b22b547bf3384f3805e5fb0a902d956c5a2" />
+	</machine>
+	<machine name="wavefront_4_5">
+		<description>Alias|Wavefront Composer 4.5</description>
+		<year>1997</year>
+		<publisher>Walias|Wavefront, Inc.</publisher>
+		<disk name="wavefront_composer_4_5" sha1="ae5e0f16a4370ad83a26c2286be791fe81759ca1" />
+	</machine>
+	<machine name="webforce_aug_98">
+		<description>Media Value Pack WebFORCE August 1998 for IRIX 6.5</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="webforce_august_1998" sha1="587208016f769555a06e70947879075b4ef40bfa" />
+	</machine>
+	<machine name="webforce_feb_98">
+		<description>WebFORCE February 1998</description>
+		<year>1998</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="webforce_1_of_2_february_1998" sha1="309f83493bfc49e2326eeb07d74be2826f65673a" />
+		<disk name="webforce_2_of_2_february_1998" sha1="42f14378b5e635228a4febd032a74a5b89402eef" />
+	</machine>
+	<machine name="workshop_mpf_2_5">
+		<description>WorkShop Pro MPF 2.5</description>
+		<year>1995</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="workshop_pro_mpf_2_5_ada_extensions_1_1" sha1="7de9bb3f4f759d3082c8bd7ef80757c289438041" />
+		<disk name="workshop_pro_mpf_2_5" sha1="f2c5c129c7931d5c41662e53b7b021409ed5fcd2" />
+	</machine>
+	<machine name="workshop_mpf_2_7">
+		<description>WorkShop Pro MPF 2.7 for IRIX 6.2, 6.3 and 6.4</description>
+		<year>1997</year>
+		<publisher>Silicon Graphics</publisher>
+		<disk name="workshop_pro_mpf_2_7_for_irix_6_2_6_3_and_6_4" sha1="f9f8bbce870bd971344b5eaca3285e754718344c" />
+	</machine>
+</datafile>

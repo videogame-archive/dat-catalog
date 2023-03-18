@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>triton_rom</name>
+		<description>Transam Triton ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="fastvdu">
+		<description>Fast VDU</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="fastvdu.bin" size="1024" crc="e2c12ef1" sha1="e5121ecffd02b52a44d269f3b28ff36c6c634fd0" />
+	</machine>
+</datafile>

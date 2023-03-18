@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>juicebox</name>
+		<description>Mattel Juice Box SmartMedia Flash ROM</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="jbm_2709">
+		<description>Juicebox Music Video - Liz Phair, Stacie Orrico, Skye Sweetnam (H2709)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_musicvideo_h2709_matrix11252_9873.smc" size="17302528" crc="d9ff5ee4" sha1="fdcb32a7ff8534357521f340ec16b01ec887de5c" />
+	</machine>
+	<machine name="jbm_6226">
+		<description>Juicebox Music Video - Ashlee Simpson, The Cure, Vanessa Carlton, fan_3, Ashlee Simpson (H6226)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_musicvideo_h6226_matrix11247_9875.smc" size="34604032" crc="c53ed7ac" sha1="c91eaaf3bdfba2badf4498d419dbc0bca8c89bac" status="baddump" />
+	</machine>
+	<machine name="jbm_6228">
+		<description>Juicebox Music Video - Avril Lavigne, The Calling, Avril Lavigne, Clay Aiken, Ruben Studdard (H6228)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_musicvideo_h6228_matrix11247_9875.smc" size="34604032" crc="0bd04da3" sha1="8a05663e0d3c40ac963ca1b1a41339cfa5142694" />
+	</machine>
+	<machine name="jbm_6230a">
+		<description>Juicebox Music Video - Baha Men, Jump5, Jump5, Beu Sisters, ZOEgirl (H6230A)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_musicvideo_h6230a_matrix11247_9875.smc" size="34604032" crc="d8ce26c4" sha1="02b3bdec5ba1002264663e79ecbe2444a92efdfc" />
+	</machine>
+	<machine name="jbm_6232">
+		<description>Juicebox Music Video - ZOEgirl, Jump5, Jump5, Baha Men, Atomic Kitten (H6232)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_musicvideo_h6232_matrix11247_9875.smc" size="34604032" crc="27b85bb6" sha1="673937106788dd6c4a3647454f4583e97eb2d1a9" />
+	</machine>
+	<machine name="knd1">
+		<description>Codename: Kids Next Door Volume 1 (H2683)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="kidsnedo.smc" size="34604032" crc="e917e1f2" sha1="42c56a8b9a2ae076956b98e8bd71e1dfd841d002" />
+	</machine>
+	<machine name="megasv1">
+		<description>Megas XLR Volume 1 (H2697)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_megas-xlr_vol1_h2697_matrix11247_9875.smc" size="34604032" crc="385b0402" sha1="fd761af3c8eaa522db0b4c224d37440d47c26c8a" />
+	</machine>
+	<machine name="plmv1">
+		<description>Vans Pipeline Masters Volume 1 (H2690)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_pipelinemasters_vol1_h2690_matrix11247_9875.smc" size="34604032" crc="e8cca1d4" sha1="5cd2b29bc28d20d9c9b455edb750fbbb530b8e5b" />
+	</machine>
+	<machine name="sbcv1">
+		<description>Streetball Classics Volume 1 (H7416)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_streetball-classics-vol1_h7416_matrix11247_9875.smc" size="34604032" crc="ada20763" sha1="b973e18d390a7d1a530e3737562722f96163d593" />
+	</machine>
+	<machine name="tmnt1">
+		<description>Teenage Mustant Ninja Turtles Volume 1 (H2692)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_tmnt_vol1_h2692_matrix11247_9875.smc" size="34604032" crc="dccdff36" sha1="57332cd1fc90cdb6433af79f1f27863e3f68cdf2" />
+	</machine>
+	<machine name="tmnte36">
+		<description>Teenage Mustant Ninja Turtles Episode 36 (H6260)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_tmnt_ep36_h6260_matrix11247_9875.smc" size="34604032" crc="a494fe28" sha1="5c64f229979823276ca5da95e4c4c395b85242b9" />
+	</machine>
+	<machine name="winxe103">
+		<description>Winx Club Episode 103 (H6258)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_winxclub_ep103_h6258_matrix11252_9873.smc" size="17302528" crc="d7e370ba" sha1="b24a9e1b1a7c3a830976cc6c28451cec9eefa31d" />
+	</machine>
+	<machine name="winxv1">
+		<description>Winx Club Volume 1 (H2686)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_winxclub_vol1_h2686_matrix11247_9875.smc" size="34604032" crc="0d8e6f6d" sha1="f45cd8cdbd7b0d28a2bd5a2503bae52190112db6" />
+	</machine>
+	<machine name="yugie175">
+		<description>Yu-Gi-Oh! Episode 175 (H8084)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_yugioh_ep175_h8084_matrix11252_9873.smc" size="17302528" crc="04b2c825" sha1="977e9c20384bdbc65c2b90ed32d09624e95a0e0a" />
+	</machine>
+	<machine name="yugie176">
+		<description>Yu-Gi-Oh! Episode 176 (H8143)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="jb_yugioh_ep176_h8143_matrix11252_9873.smc" size="17302528" crc="f1a0edd4" sha1="553e74100f9969117f0240f98e84515823cce108" />
+	</machine>
+	<machine name="yugiv1">
+		<description>Yu-Gi-Oh! Volume 1 (H2685)</description>
+		<year>2004</year>
+		<publisher>4Kids Entertainment</publisher>
+		<rom name="yugioh.smc" size="34604032" crc="0a97c7d6" sha1="1b2375c9ef1bbd5cae0c3f0ac20511a36523e86a" />
+	</machine>
+</datafile>

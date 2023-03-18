@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>eti660_quik</name>
+		<description>ETI-660 quickload</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="maze">
+		<description>Maze 2</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="maze.ch8" size="38" crc="002ca8c4" sha1="ec617d44bd64e5decc7dce3d8e9797b5852c015c" />
+	</machine>
+	<machine name="musicm">
+		<description>Music Maker</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="musicm.ch8" size="510" crc="c84e7543" sha1="d813e28e122faa3aad99357da37ae0df8fff9b7c" />
+	</machine>
+	<machine name="pong">
+		<description>Pong</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="pong.ch8" size="246" crc="9d86b621" sha1="551faa5787451200838be0a3a0a8e4114e5aaa48" />
+	</machine>
+	<machine name="spaceinv">
+		<description>Space Invaders</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="spaceinv.ch8" size="400" crc="4cda1787" sha1="1133f02166486a7ed973dc635e4f7a222735ab29" />
+	</machine>
+	<machine name="wipeout">
+		<description>Wipeout</description>
+		<year>1982</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="wipeout.c8" size="606" crc="cf30e8eb" sha1="2fb4c14104b58b0df28368393b3fc0aaabe9e8ae" />
+	</machine>
+</datafile>

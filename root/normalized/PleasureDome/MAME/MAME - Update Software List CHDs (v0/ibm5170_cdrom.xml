@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ibm5170_cdrom</name>
+		<description>IBM PC/AT CD-ROM images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="actuasoc">
+		<description>Actua Soccer (OEM v1.29)</description>
+		<year>1996</year>
+		<publisher>Gremlin</publisher>
+		<disk name="sw6lfull" sha1="362044da3185e971785f2c99250bbeb6617797c2" />
+	</machine>
+	<machine name="advdudan">
+		<description>The Adventures of Down Under Dan (v1.1)</description>
+		<year>1995</year>
+		<publisher>Guildsoft Games</publisher>
+		<disk name="adventures_of_down_under_dan,_the_(1995)(guildsoft)" sha1="d76706ca2e75df32d0e508b3b14217ae96c69c3c" />
+	</machine>
+	<machine name="aitd2_fr">
+		<description>Alone in the Dark 2 (France)</description>
+		<year>1994</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark 2 (France)" sha1="2ddde837124b3825c908f3e2f8b95ed8622e6cfc" />
+	</machine>
+	<machine name="aitd2a">
+		<description>Alone in the Dark 2 (Europe, English only)</description>
+		<year>1994</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark 2 (Europe)" sha1="74917c1f04d3f8fbb322c50215ec112d3058300f" />
+	</machine>
+	<machine name="aitd2">
+		<description>Alone in the Dark 2 (Europe)</description>
+		<year>1994</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark 2 (Europe) (En,Fr,De,Es,It)" sha1="546e39d75dd5ace9325bc1903272ce38ebd7e7c3" />
+	</machine>
+	<machine name="aitd">
+		<description>Alone in the Dark (Europe, rev. 1)</description>
+		<year>1993</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1)" sha1="2d6af2d12690f06ebdcf5d6babcf1a53522bc58e" />
+	</machine>
+	<machine name="aitda">
+		<description>Alone in the Dark (Europe)</description>
+		<year>1993</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark (Europe) (En,Fr,De,It)" sha1="ee49e92e021b6feb2fbe7780a3a307e18cc7fd52" />
+	</machine>
+	<machine name="aitdb">
+		<description>Alone in the Dark (Europe, Pay as You Play version, PC Power)</description>
+		<year>1994</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark (Europe) (Pay as You Play Version) (PC Power)" sha1="a67bdbf781d5f8b763a3e562e45f5f4b8fe31b4a" />
+	</machine>
+	<machine name="aitdc">
+		<description>Alone in the Dark (Europe, Pay as You Play version, CD-ROM User)</description>
+		<year>1994</year>
+		<publisher>Infogrames</publisher>
+		<disk name="Alone in the Dark (Europe) (Pay as You Play Version) (CD-ROM User)" sha1="f7cc8fcee13bf7af5ff1cc297d9713a672e77328" />
+	</machine>
+	<machine name="alieninca">
+		<description>Alien Incident (Europe, v1.01)</description>
+		<year>1996</year>
+		<publisher>Gametek</publisher>
+		<disk name="Alien Incident (Europe)" sha1="2c2571ab9a6c71cf578338b4cc991d922abd5ad3" />
+	</machine>
+	<machine name="archdyn">
+		<description>Archimedean Dynasty (v1.115)</description>
+		<year>1996</year>
+		<publisher>Blue Byte</publisher>
+		<disk name="ad" sha1="95040b06a50373ef052c37261ca6b91d42fa5af7" />
+	</machine>
+	<machine name="bnbhvs">
+		<description>Beavis and Butthead - Virtual Stupidity</description>
+		<year>1995</year>
+		<publisher>Viacom New Media</publisher>
+		<disk name="beavis_and_butthead_-_virtual_stupidity_(1995)(viacom_new_media)" sha1="0c5169899f8ccc5e02df1bebc7e814d6945aa915" />
+	</machine>
+	<machine name="bssky_us">
+		<description>Beneath a Steel Sky (USA, Slash release)</description>
+		<year>1996</year>
+		<publisher>Slash</publisher>
+		<disk name="Beneath a Steel Sky (USA) (En,Fr,De,Es,It,Pt,Sv) (Rerelease)" sha1="c95f573726cf073cceef0d5b6467c0b6ed211ed1" />
+	</machine>
+	<machine name="carmnspc">
+		<description>Where in Space is Carmen Sandiego? (USA, Deluxe Edition)</description>
+		<year>1996</year>
+		<publisher>Brøderbund Software</publisher>
+		<disk name="Where in Space Is Carmen Sandiego (USA) (Deluxe Edition)" sha1="72999bcaaa96b970010855e18c6c400742e88d34" />
+	</machine>
+	<machine name="cdraw6">
+		<description>Corel DRAW! 6</description>
+		<year>1995</year>
+		<publisher>Corel Corporation</publisher>
+		<disk name="corel_draw_6_cd1" sha1="db1f485ff98d9e80bd3c0d4b61945c7f6290ae1f" />
+		<disk name="corel_draw_6_cd2" sha1="bcee744ad708dcf1b25c56a6e5b0be1709d1389b" />
+		<disk name="corel_draw_6_cd3" sha1="cccb1d014ed22aa60ae1af9f43f979e630c0f3a0" />
+		<disk name="corel_draw_6_cd4" sha1="7e88e8537ee0587554e60a77aeb4b2ecaad62f71" />
+	</machine>
+	<machine name="civ2">
+		<description>Sid Meier's Civilization II (Europe)</description>
+		<year>1996</year>
+		<publisher>MicroProse</publisher>
+		<disk name="civilization2pc" sha1="253fba35b28c7a8d121365383ad46873ade921ac" />
+	</machine>
+	<machine name="dd2">
+		<description>Destruction Derby 2 (Europe)</description>
+		<year>1996</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="dd2_pc" sha1="934d21c1172848110c3198463f5a5261175263a3" />
+	</machine>
+	<machine name="diablo">
+		<description>Diablo (v1.00)</description>
+		<year>1996</year>
+		<publisher>Blizzard Entertainment</publisher>
+		<disk name="diablo" sha1="c9d7819a9a9b3fe0927c89a9d9d220b0b7307300" />
+	</machine>
+	<machine name="duke3d">
+		<description>Duke Nukem 3D (shareware v1.1)</description>
+		<year>1996</year>
+		<publisher>FormGen</publisher>
+		<disk name="3d_realms_-_duke_nukem_3d_(shareware_version)" sha1="60ac890bd8269b2dbaed687bff45aa009b48cab3" />
+	</machine>
+	<machine name="epicpinb">
+		<description>Epic Pinball (Europe, Romware release)</description>
+		<year>1994</year>
+		<publisher>Epic Megagames</publisher>
+		<disk name="Epic Pinball (Europe) (v2.1)" sha1="40b39fefca47ce13f1037dfd9b7c72d55b6e668d" />
+	</machine>
+	<machine name="epicpinbus">
+		<description>Epic Pinball (USA, mail order release)</description>
+		<year>1997</year>
+		<publisher>Epic Megagames</publisher>
+		<disk name="Epic Pinball (USA) (Rerelease) (19970206)" sha1="0842e7966aa883434b4eac8567f7b38bb6772965" />
+	</machine>
+	<machine name="f1gp_nl">
+		<description>Formula One Grand Prix (Netherlands)</description>
+		<year>1999</year>
+		<publisher>Crucial Entertainment</publisher>
+		<disk name="Formula One Grand Prix (Netherlands) (Crucial)" sha1="03b22b58db9eb73171cd4ed3f342ddc2303aad1b" />
+	</machine>
+	<machine name="goblins3it">
+		<description>Goblins 3 (Italy, Collezione Cd-Rom)</description>
+		<year>1997</year>
+		<publisher>C.T.O.</publisher>
+		<disk name="Goblins 3 (Italy) (Rerelease)" sha1="46dcc872b728539c928d51aabd27633e424977f0" />
+	</machine>
+	<machine name="goblins3">
+		<description>Goblins 3 (Europe, Sierra Originals release)</description>
+		<year>1993</year>
+		<publisher>Sierra On-Line</publisher>
+		<disk name="Goblins 3 (Europe) (En,Fr,De,Es)" sha1="e791e74efea12222e993b4f29fffce1965822b9c" />
+	</machine>
+	<machine name="goblins">
+		<description>Gobliiins (Italy, Collezione Cd-Rom)</description>
+		<year>1998</year>
+		<publisher>C.T.O.</publisher>
+		<disk name="Gobliiins (Italy) (En,Fr,De,Es,It)" sha1="20e6a259f4d5525d52a869aec6da4778b9135566" />
+	</machine>
+	<machine name="goblins_us">
+		<description>Gobliiins (USA, Sierra Originals release)</description>
+		<year>1995</year>
+		<publisher>Sierra On-Line</publisher>
+		<disk name="Gobliiins (USA)" sha1="dca4f53106ee6a5c2f094ddc0a5067ec06dd31ed" />
+	</machine>
+	<machine name="gods">
+		<description>Gods (Europe)</description>
+		<year>1999</year>
+		<publisher>Crucial Entertainment</publisher>
+		<disk name="Gods (Europe)" sha1="d6eb85be4d0f49e6ec6bc16b310b512b297cc0da" />
+	</machine>
+	<machine name="humans12a">
+		<description>Humans 1 and 2 (Europe, re-release)</description>
+		<year>1993</year>
+		<publisher>GameTek</publisher>
+		<disk name="Humans 1 and 2 (Europe) (En,Fr,De,Es,It) (Rerelease)" sha1="78117340601a859927ee88f3c5afc4539e78e6a6" />
+	</machine>
+	<machine name="humans12">
+		<description>Humans 1 and 2 (Europe, OEM)</description>
+		<year>1993</year>
+		<publisher>GameTek</publisher>
+		<disk name="Humans 1 and 2 (Europe) (En,Fr,De,Es,It) (OEM)" sha1="8db38e6429216415c79bfa1757a3847b1e4e8c54" />
+	</machine>
+	<machine name="humans">
+		<description>The Humans (Europe)</description>
+		<year>1993</year>
+		<publisher>GameTek</publisher>
+		<disk name="Humans, The (Europe) (En,Fr,De,Es,It)" sha1="eb442ad703800a643e8e3e6481f7f651c30f2fed" />
+	</machine>
+	<machine name="humans_us">
+		<description>The Humans (USA)</description>
+		<year>1993</year>
+		<publisher>GameTek</publisher>
+		<disk name="Humans, The (USA)" sha1="39cc0d7ff27b7b467768579a1341e92e24a24b93" />
+	</machine>
+	<machine name="indy3">
+		<description>Indiana Jones and the Last Crusade (Europe)</description>
+		<year>1997</year>
+		<publisher>Lucasfilm Games</publisher>
+		<disk name="Indiana Jones and the Last Crusade (Europe)" sha1="dcb4caa38e32a99f4efc66740b53233fbee3ac19" />
+	</machine>
+	<machine name="jagdead">
+		<description>Jagged Alliance: Deadly Games (v1.00)</description>
+		<year>1996</year>
+		<publisher>Sir-Tech</publisher>
+		<disk name="jagged_alliance_deadly_games_(sir-tech_software)(version_1.0)(master_cd)" sha1="084200cf87bc3f3f6d4bff4d9b5e5d9da9975aff" />
+		<disk name="jagged_alliance_deadly_games_(sir-tech_software)(version_1.0)(multiplayer_cd)" sha1="8e4b601266c597a4dfe4b261c773b07dab4bc5bf" />
+	</machine>
+	<machine name="larry">
+		<description>Leisure Suit Larry in the Land of the Lounge Lizards (USA, SierraOriginals release)</description>
+		<year>1995</year>
+		<publisher>Sierra On-line</publisher>
+		<disk name="Leisure Suit Larry in the Land of the Lounge Lizards (USA)" sha1="5f1ca791067c47357e35aa105ad9b1da5b34f38f" />
+	</machine>
+	<machine name="lomax">
+		<description>Lomax (Europe)</description>
+		<year>1997</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="lomax" sha1="d2a24858266e0d906d93d3027bfc89634c125556" />
+	</machine>
+	<machine name="myst">
+		<description>Myst (v1.0.3)</description>
+		<year>1995</year>
+		<publisher>Brøderbund</publisher>
+		<disk name="myst" sha1="de9e11e5b52753229d64a6940a9de866aaf26791" />
+	</machine>
+	<machine name="pcrally">
+		<description>PC Rally (Europe)</description>
+		<year>1997</year>
+		<publisher>Golden Zone</publisher>
+		<disk name="PC Rally (Europe)" sha1="118b16f5d128b4f521e214e64710d06c07d69977" />
+	</machine>
+	<machine name="ppersia2fr">
+		<description>Prince of Persia 2 - The Shadow and the Flame (France)</description>
+		<year>1999</year>
+		<publisher>Pointsoft</publisher>
+		<disk name="Prince of Persia 2 - The Shadow and the Flame (France) (Rerelease)" sha1="59c3a46126ff4c92a63047c9c2afacec9fb769ad" />
+	</machine>
+	<machine name="ppersia2">
+		<description>Prince of Persia 2 - The Shadow and the Flame (USA)</description>
+		<year>1998</year>
+		<publisher>Red Orb Entertainment</publisher>
+		<disk name="Prince of Persia 2 - The Shadow and the Flame (USA) (Rerelease)" sha1="1fb551690b318cc60b492d4d2c6ab83ea3e83238" />
+	</machine>
+	<machine name="ppersia">
+		<description>Prince of Persia CD Collection (Europe)</description>
+		<year>1995</year>
+		<publisher>Brøderbund Software</publisher>
+		<disk name="Prince of Persia CD Collection (Europe)" sha1="970a9bd9e8be6ec9795ea74dee65f721551ac0f1" />
+	</machine>
+	<machine name="ppersiale">
+		<description>Prince of Persia Collection: Limited Edition (Europe)</description>
+		<year>1999</year>
+		<publisher>Red Orb Entertainment</publisher>
+		<disk name="Prince of Persia Collection - Limited Edition (Europe)" sha1="878acef14a973ef7e988457bfec8bf46d13b7ffb" />
+	</machine>
+	<machine name="ppersiale_br">
+		<description>Prince of Persia Collection: Limited Edition (Brazil, Senha Pôster Ano 1 № 1)</description>
+		<year>1999</year>
+		<publisher>Senha Pôster</publisher>
+		<disk name="Prince of Persia Collection - Limited Edition (Brazil)" sha1="4c9f759058b9b7575188c85b37847351eb18211e" />
+	</machine>
+	<machine name="ppersiale_nl">
+		<description>Prince of Persia Collection: Limited Edition (Netherlands)</description>
+		<year>1999</year>
+		<publisher>Red Orb Entertainment</publisher>
+		<disk name="Prince of Persia Collection - Limited Edition (Netherlands) (Rerelease)" sha1="d36627f993f53deb01907aeddbeb0791f0a5dac8" />
+	</machine>
+	<machine name="ppersiale_us">
+		<description>Prince of Persia Collection: Limited Edition (USA)</description>
+		<year>1999</year>
+		<publisher>Red Orb Entertainment</publisher>
+		<disk name="Prince of Persia Collection - Limited Edition (USA)" sha1="96a8f1963484af003ce0bd6a964862fdf903cd8b" />
+	</machine>
+	<machine name="ppersialea">
+		<description>Prince of Persia Collection: Limited Edition (Europe, alt)</description>
+		<year>1999</year>
+		<publisher>Red Orb Entertainment</publisher>
+		<disk name="Prince of Persia Collection - Limited Edition (Europe) (Alt)" sha1="182794044998b3fe675c88e49e6fc5ae8da73c4d" />
+	</machine>
+	<machine name="ppersiau">
+		<description>Prince of Persia CD Collection (USA)</description>
+		<year>1995</year>
+		<publisher>Brøderbund Software</publisher>
+		<disk name="Prince of Persia CD Collection (USA)" sha1="f608bd49af44e218755c232a1663a74410a67e13" />
+	</machine>
+	<machine name="prinmak2">
+		<description>Princess Maker 2 (Japan)</description>
+		<year>1995</year>
+		<publisher>Gainax</publisher>
+		<disk name="princess_maker_2_(win31)" sha1="5f7d1af8f9f4c9841893c50c48d765d66a84013d" />
+	</machine>
+	<machine name="pyrotech">
+		<description>Pyrotechnica (USA)</description>
+		<year>1995</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="Pyrotechnica (USA) (En,Fr,De,Es,It)" sha1="7529b4b0701b9cbd8756181b4a4806d9b100d9bb" />
+	</machine>
+	<machine name="quake">
+		<description>Quake (shareware v1.01)</description>
+		<year>1996</year>
+		<publisher>id Software</publisher>
+		<disk name="quake" sha1="b32fa2c83512819f3c36d052d591cc2f26a0fdeb" />
+	</machine>
+	<machine name="roadrashi">
+		<description>Road Rash (Italy)</description>
+		<year>1996</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="roadrash" sha1="8029d895fda77b46fa9ca3b34a52dd5cb2a72fad" />
+	</machine>
+	<machine name="shangmom">
+		<description>Shanghai: Great Moments</description>
+		<year>1995</year>
+		<publisher>Activision</publisher>
+		<disk name="shanghai" sha1="1d3cd20e23a94c6d5568687da3fc56579e2b6a26" />
+	</machine>
+	<machine name="simcit2k">
+		<description>SimCity 2000</description>
+		<year>1994</year>
+		<publisher>Maxis</publisher>
+		<disk name="simcity_2000_dos" sha1="a8c90e9cb27d3bb8e265bfc96cd31f4e9a04a034" />
+	</machine>
+	<machine name="simcity">
+		<description>SimCity Classic (v2.0)</description>
+		<year>1995</year>
+		<publisher>Maxis</publisher>
+		<disk name="sc_classic" sha1="0e76c55926803a3fb9c6de9650902965d025847e" />
+	</machine>
+	<machine name="sk">
+		<description>Sonic &amp; Knuckles Collection</description>
+		<year>1997</year>
+		<publisher>Sega / Expert Software</publisher>
+		<disk name="sonic_and_knuckles_collection" sha1="09c2d79046710745bc122b3b326ef572af988b3e" />
+	</machine>
+	<machine name="skulcrck">
+		<description>Skull Cracker (Windows)</description>
+		<year>1996</year>
+		<publisher>GTE Entertainment</publisher>
+		<disk name="skull cracker (1996)(gte)" sha1="a15057c0648695daf6939220c3fd285be3fb1d91" />
+	</machine>
+	<machine name="slamdtyp">
+		<description>Slam Dunk Typing</description>
+		<year>1997</year>
+		<publisher>Creative Wonders</publisher>
+		<disk name="slamdunktyping" sha1="0a1fa31c6d9d2a3bf7cfb6bc24e870d7c666a9f6" />
+	</machine>
+	<machine name="soccerkd">
+		<description>Soccer Kid (Europe)</description>
+		<year>1994</year>
+		<publisher>Krisalis</publisher>
+		<disk name="Soccer Kid (Europe) (En,Fr,De,Es,It)" sha1="eb7a0e21e42688b43e6b6821e381c03a03548e54" />
+	</machine>
+	<machine name="strmrisk">
+		<description>Sturmtruppen: Risiken? (Italy)</description>
+		<year>1997</year>
+		<publisher>G&amp;T Multimedia</publisher>
+		<disk name="sturmtruppen_risiken" sha1="e8b4884c95df5101beee68dbc5b45c92ddc08c3e" />
+	</machine>
+	<machine name="telstar10">
+		<description>Telstar 10 CD ROM Box Set</description>
+		<year>1993</year>
+		<publisher>Telstar Fun &amp; Games</publisher>
+		<disk name="10 Game CD ROM (Europe)" sha1="1bfe41e2d2b59c8aa640b52ef5ee2aa38e62282d" />
+	</machine>
+	<machine name="tplay98">
+		<description>Triple Play '98</description>
+		<year>1997</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="ea-tripleplay98-win95" sha1="304492fab8e65add0ae3516633fcbd4ed7755902" />
+	</machine>
+	<machine name="uffvmus">
+		<description>Uffizi Virtual Museums</description>
+		<year>1995</year>
+		<publisher>Opera Multimedia</publisher>
+		<disk name="uffizi_e1_09" sha1="5121f95753bdf9ffdc5e564259d153088953ac67" />
+	</machine>
+	<machine name="vf">
+		<description>Virtua Fighter PC</description>
+		<year>1996</year>
+		<publisher>Sega / Expert Software</publisher>
+		<disk name="virtua_fighter_pc" sha1="bfba831a59114475082953ff189b957e8ca1ca96" />
+	</machine>
+	<machine name="wrathdem">
+		<description>Wrath of the Demon (USA)</description>
+		<year>1992</year>
+		<publisher>ReadySoft</publisher>
+		<disk name="Wrath of the Demon (USA)" sha1="60bf39c525e4be184bbb4658cf8c84679f26b516" />
+	</machine>
+</datafile>

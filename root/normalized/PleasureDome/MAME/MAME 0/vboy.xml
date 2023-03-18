@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vboy</name>
+		<description>Nintendo Virtual Boy cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="3dtetris">
+		<description>3-D Tetris (USA)</description>
+		<year>1996</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vpbe-0.u1" size="1048576" crc="bb71b522" sha1="5177015a91442e56bd76af39447bca365e06c272" />
+	</machine>
+	<machine name="boundh">
+		<description>Bound High! (Japan, USA, prototype)</description>
+		<year>1996</year>
+		<publisher>Nintendo</publisher>
+		<rom name="bound high (ju).bin" size="2097152" crc="e81a3703" sha1="1196ef8b9a96a0ff2f3634f8eb1c4865c0fb6b01" />
+	</machine>
+	<machine name="galactic">
+		<description>Galactic Pinball (Japan, USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vgpj-0.u1" size="1048576" crc="c9710a36" sha1="93a25abf4f86e71a49c1c3a470140bb40cb693d6" />
+	</machine>
+	<machine name="golf">
+		<description>Golf (USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vvge-0.u1" size="2097152" crc="2199af41" sha1="23ce3c174789cdd306497d86cb2c4e76ba8b06e5" />
+	</machine>
+	<machine name="hyperfgt">
+		<description>Hyper Fighting (pirate)</description>
+		<year>2013?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="hyper fighting.bin" size="4194304" crc="3f2a6ba2" sha1="578355de83822ce67522033dd7545631124a71ab" />
+	</machine>
+	<machine name="insmouse">
+		<description>Insmouse no Yakata (Japan)</description>
+		<year>1995</year>
+		<publisher>I'Max</publisher>
+		<rom name="insmouse no yakata (japan).bin" size="1048576" crc="83cb6a00" sha1="37e06e53ce2810e870835c48decdd6c72079bfda" />
+	</machine>
+	<machine name="jackbros">
+		<description>Jack Bros. (USA)</description>
+		<year>1995</year>
+		<publisher>Atlus</publisher>
+		<rom name="vue-vjbe-0.u1" size="1048576" crc="a44de03c" sha1="0e086d7ef2bd8b97315196943fd0b71da07aa8f1" />
+	</machine>
+	<machine name="jackbrosj">
+		<description>Jack Bros. no Meiro de Hiihoo! (Japan)</description>
+		<year>1995</year>
+		<publisher>Atlus</publisher>
+		<rom name="jack bros. no meiro de hiihoo (japan).bin" size="1048576" crc="cab61e8b" sha1="a973406590382ee503037271330d68d2834b79db" />
+	</machine>
+	<machine name="mariocla">
+		<description>Mario Clash (Japan, USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vmcj-0.u1" size="1048576" crc="a47de78c" sha1="7556a778b60490bdb81774bcbaa7413fc84cb985" />
+	</machine>
+	<machine name="marioten">
+		<description>Mario's Tennis (Japan, USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vmtj-0.u1" size="524288" crc="7ce7460d" sha1="5162f7fa9e3eae4338c53ccba641ba080c768754" />
+	</machine>
+	<machine name="nesterfb">
+		<description>Nester's Funky Bowling (USA)</description>
+		<year>1996</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vnfe-0.u1" size="2097152" crc="df4d56b4" sha1="f4a4c7928f15102cf14c90c5f044e5f7cc7c32f9" />
+	</machine>
+	<machine name="nikochan">
+		<description>Niko-chan Battle (Japan, prototype)</description>
+		<year>1996</year>
+		<publisher>Bullet-Proof Software</publisher>
+		<rom name="nikochan battle (j)(prototype).bin" size="1048576" crc="f3cd40dd" sha1="217ca062f65d4e8b2848085918af5ac4b33b12d4" />
+	</machine>
+	<machine name="panicbom">
+		<description>Panic Bomber (USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vh2e-0.u1" size="524288" crc="19bb2dfb" sha1="80216b2874cf162f301d571bb8aebc98d80b4f3e" />
+	</machine>
+	<machine name="redalarm">
+		<description>Red Alarm (USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vree-0.u1" size="1048576" crc="aa10a7b4" sha1="494fa60cb8997880b4e8cd3270b21d6c2768a48a" />
+	</machine>
+	<machine name="redalarmj">
+		<description>Red Alarm (Japan)</description>
+		<year>1995</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="red alarm (japan).bin" size="1048576" crc="7e85c45d" sha1="f5057fa9bfd9d60b9dcfc004cfdd12aa8eb1cb4a" />
+	</machine>
+	<machine name="sdgundam">
+		<description>SD Gundam - Dimension War (Japan)</description>
+		<year>1995</year>
+		<publisher>Bandai</publisher>
+		<rom name="sd gundam - dimension war (japan).bin" size="1048576" crc="44788197" sha1="1a67f6bdb45db46e22b8aadea754a68ad379ae29" />
+	</machine>
+	<machine name="spaceinv">
+		<description>Space Invaders - Virtual Collection (Japan)</description>
+		<year>1995</year>
+		<publisher>Taito</publisher>
+		<rom name="space invaders - virtual collection (japan).bin" size="524288" crc="fa44402d" sha1="16ad904faafd24642dfd056d10a768e81f0d9bfa" />
+	</machine>
+	<machine name="spacepin">
+		<description>Space Pinball (Japan, prototype)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="space pinball prototype (j).bin" size="2097152" crc="44c2b723" sha1="dc182360c7c8d26323db8921f09db76638e81ced" />
+	</machine>
+	<machine name="ssquash">
+		<description>Space Squash (Japan)</description>
+		<year>1995</year>
+		<publisher>Coconuts Japan Entertainment</publisher>
+		<rom name="space squash (japan).bin" size="524288" crc="60895693" sha1="3f08cae2b6f9e386529949ff954220860db1af64" />
+	</machine>
+	<machine name="telerobo">
+		<description>Teleroboxer (Japan, USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vtbj-0.u1" size="1048576" crc="36103000" sha1="c59e020f9674774c5cbc022317ebba0eb1d744f7" />
+	</machine>
+	<machine name="tobidase">
+		<description>Tobidase! Panibon (Japan)</description>
+		<year>1995</year>
+		<publisher>Hudson</publisher>
+		<rom name="tobidase panibon (japan).bin" size="524288" crc="40498f5e" sha1="b8a12a9677afa5cbce6ed43eb0effb5a02875534" />
+	</machine>
+	<machine name="vbowling">
+		<description>Virtual Bowling (Japan)</description>
+		<year>1995</year>
+		<publisher>Athena</publisher>
+		<rom name="virtual bowling (japan).bin" size="1048576" crc="20688279" sha1="a5be7654037050f0a781e70efea0191f43d26f06" />
+	</machine>
+	<machine name="vfishing">
+		<description>Virtual Fishing (Japan)</description>
+		<year>1995</year>
+		<publisher>Pack-In-Video</publisher>
+		<rom name="vue-vvfj-0.u1" size="1048576" crc="526cc969" sha1="583b409b7215159219d08e789db46140062095f2" />
+	</machine>
+	<machine name="vforce">
+		<description>Vertical Force (USA)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vh3e-0.u1" size="1048576" crc="4c32ba5e" sha1="38f9008f60b09deef1151d46b905b090a0338200" />
+	</machine>
+	<machine name="vforcej">
+		<description>Vertical Force (Japan)</description>
+		<year>1995</year>
+		<publisher>Hudson</publisher>
+		<rom name="vertical force (japan).bin" size="1048576" crc="9e9b8b92" sha1="c7204ba5cfe7d26394b5e22badc580c8ed8c0b37" />
+	</machine>
+	<machine name="vgolf">
+		<description>T&amp;E Virtual Golf (Japan)</description>
+		<year>1995</year>
+		<publisher>T&amp;E Soft</publisher>
+		<rom name="t&amp;e virtual golf (japan).bin" size="2097152" crc="6ba07915" sha1="c595285d42c69f14b2b418c1edfbe4a7f9a624b6" />
+	</machine>
+	<machine name="vlab">
+		<description>Virtual Lab (Japan)</description>
+		<year>1995</year>
+		<publisher>J-Wing</publisher>
+		<rom name="vue-vjvj-0.u1" size="1048576" crc="8989fe0a" sha1="d96c9f8aac5b4ea012a8fe659bb68fb1159a9c6d" />
+	</machine>
+	<machine name="vleague">
+		<description>Virtual League Baseball (USA)</description>
+		<year>1995</year>
+		<publisher>Kemco</publisher>
+		<rom name="vue-vvpe-0.u1" size="1048576" crc="736b40d6" sha1="266fe615ee3df1160a20b456824699f16810fa28" />
+	</machine>
+	<machine name="vproyak">
+		<description>Virtual Pro Yakyuu '95 (Japan)</description>
+		<year>1995</year>
+		<publisher>Kemco</publisher>
+		<rom name="virtual pro yakyuu '95 (japan).bin" size="1048576" crc="9ba8bb5e" sha1="ab8fa82b79512eefefccdccea6768078a374c4aa" />
+	</machine>
+	<machine name="vtetris">
+		<description>V-Tetris (Japan)</description>
+		<year>1995</year>
+		<publisher>Bullet-Proof Software</publisher>
+		<rom name="vue-vtrj-0.u1" size="524288" crc="3ccb67ae" sha1="ff7d4dfc467e6e0d3fe8517102132a65a9d17589" />
+	</machine>
+	<machine name="wariolnd">
+		<description>Virtual Boy Wario Land (USA) ~ Virtual Boy Wario Land - Awazon no Hihou (Japan)</description>
+		<year>1995</year>
+		<publisher>Nintendo</publisher>
+		<rom name="vue-vwcj-0.u1" size="2097152" crc="133e9372" sha1="274c328fbd904f20e69172ab826bf8f94ced1bdb" />
+	</machine>
+	<machine name="waterwld">
+		<description>Waterworld (USA)</description>
+		<year>1995</year>
+		<publisher>Ocean</publisher>
+		<rom name="vue-vwee-0.u1" size="2097152" crc="82a95e51" sha1="dcc46484bd0acab0ac1ea178f425a0f5ccfb8dc2" />
+	</machine>
+</datafile>

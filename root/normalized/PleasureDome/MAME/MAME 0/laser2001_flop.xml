@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>laser2001_flop</name>
+		<description>V-Tech Laser 2001 / Salora Manager disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="kaarme">
+		<description>Käärmepeli (Finland)</description>
+		<year>198?</year>
+		<publisher>Salora</publisher>
+		<rom name="kaarmepeli.img" size="143360" crc="5c32d1ee" sha1="0ab36be0f2bb9c690b5210b20b95a1159246abb6" />
+	</machine>
+</datafile>

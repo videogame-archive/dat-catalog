@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>hx20_rom</name>
+		<description>Epson HX-20 Optional ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="forth">
+		<description>Forth</description>
+		<year>1982</year>
+		<publisher>HCCS Associates</publisher>
+		<rom name="forth.bin" size="8192" crc="1319f181" sha1="72af6cf0a30fee45aea31c8ae1031bba5ad9f62d" />
+	</machine>
+	<machine name="skiwritr">
+		<description>SkiWriter</description>
+		<year>1983</year>
+		<publisher>SkiSoft</publisher>
+		<rom name="skiwriter_1983.bin" size="8192" crc="28fe9f30" sha1="6c5f0a4d08cb347b87b57db8aef250b78343a81b" />
+	</machine>
+</datafile>

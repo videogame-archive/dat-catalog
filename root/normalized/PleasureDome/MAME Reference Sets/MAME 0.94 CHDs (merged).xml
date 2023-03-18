@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>MAME 0.94 CHDs (merged)</name>
+		<description>MAME 0.94 CHDs (merged)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="area51mx">
+		<description>Area 51 / Maximum Force Duo v2.0</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="area51mx" sha1="7e629045eb5baa8cd522273befffbf8520828938" />
+	</machine>
+	<machine name="area51">
+		<description>Area 51 (R3000)</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="area51t" sha1="fee528eef8a256f87af299499ecf5817218f5202" />
+		<disk name="area51" sha1="9ea749404c9a5d44f407cdb8803293ec0d61410d" />
+	</machine>
+	<machine name="biofreak">
+		<description>BioFreaks (prototype)</description>
+		<year>1997</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="biofreak" sha1="88b87cb651b97eac117c9342127938e30dc8c138" />
+	</machine>
+	<machine name="blitz2k">
+		<description>NFL Blitz 2000 Gold Edition</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="blitz2k" sha1="153a7df368833cd5f5a52c3fe17045c5549a0c17" />
+	</machine>
+	<machine name="blitz99">
+		<description>NFL Blitz '99</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="blitz99" sha1="4675751875943b756c8db6997fd288938a7999bb" />
+	</machine>
+	<machine name="blitz">
+		<description>NFL Blitz</description>
+		<year>1997</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="blitz" sha1="0f001488b3709d40cee5e278603df2bbae1116b8" />
+	</machine>
+	<machine name="bm1stmix">
+		<description>beatmania (ver JA-B)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="753jaa11" sha1="71d200d1bd3f1f3a01f4daa78dc9abcca8b8a1fb" />
+	</machine>
+	<machine name="bm2ndmix">
+		<description>beatmania 2nd MIX (ver JA-B)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="853jaa11" sha1="03d6cc5aea5920163fbaba34c4f838ca605a87e3" />
+	</machine>
+	<machine name="bm4thmix">
+		<description>beatmania 4th MIX (ver JA-A)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="847jaa11" sha1="374d5d5340d4a8818577f9ae81021651d6ee3429" />
+	</machine>
+	<machine name="bm5thmix">
+		<description>beatmania 5th MIX (ver JA-A)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="981jaa11" sha1="bee71c31978ac186e5e933adcf0220a70496ca6c" />
+	</machine>
+	<machine name="bm6thmix">
+		<description>beatmania 6th MIX (ver JA-A)</description>
+		<year>2001</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a21jaa11" sha1="9e9fb8000cfb53686d94060d7391fb2950265510" />
+	</machine>
+	<machine name="bmcompm2">
+		<description>beatmania complete MIX 2 (ver JA-A)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="988jaa11" sha1="00a2e258d66585002413a999afb695a3f3fe30cb" />
+	</machine>
+	<machine name="bmcompmx">
+		<description>beatmania complete MIX (ver JA-B)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="858jaa11" sha1="05a3f2359d089f47dcaa28ee7bc65a23efecda94" />
+	</machine>
+	<machine name="bmcorerm">
+		<description>beatmania CORE REMIX (ver JA-A)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="a05jaa11" sha1="95f8e5d29cc9f9af2b1c9397a26217f685f9d5a7" />
+	</machine>
+	<machine name="bmdct">
+		<description>beatmania f. Dreams Come True (ver JA-A)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="995jaa11" sha1="deed0fca533f3e56e04f9967f3f76145ca106f06" />
+	</machine>
+	<machine name="btchamp">
+		<description>Beat the Champ (GV053 UAA01)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="btchamp" sha1="e1a75a034d83cffa44268eb30653ba334cc6252d" />
+	</machine>
+	<machine name="calspeed">
+		<description>California Speed</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="calspeed" sha1="e6cbc8290af2df9704838a925cb43b6972b80d95" />
+	</machine>
+	<machine name="carnevil">
+		<description>CarnEvil</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="carnevil" sha1="5e6524d4b97de141c38e301a17e8af15661cb5d6" />
+	</machine>
+	<machine name="cartfury">
+		<description>Cart Fury</description>
+		<year>2000</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="cartfury" sha1="98597d79ea25c0e74a575ba636abccc68fd5d301" />
+	</machine>
+	<machine name="cryptklr">
+		<description>Crypt Killer (GQ420 UAA)</description>
+		<year>1995</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="420uaa04" sha1="18fe867c44982bacf0d3ff8453487cd06425a6b7" />
+	</machine>
+	<machine name="gauntdl">
+		<description>Gauntlet Dark Legacy</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="gauntdl" sha1="5e73de969a2d6896bcd01d075370520e063e8cc5" />
+	</machine>
+	<machine name="gauntleg">
+		<description>Gauntlet Legends (version 1.5)</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="gauntl12" sha1="bd01508ffd8fee497c8a75eacddff816147fd8c2" />
+		<disk name="gauntleg" sha1="2e01dc43186578384207dc0b630efbc46427dd46" />
+	</machine>
+	<machine name="hyperath">
+		<description>Hyper Athlete (GV021 JAPAN 1.00)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="hyperath" sha1="dfe0a68258cf33ca09639a752611302b361698e8" />
+	</machine>
+	<machine name="hyprdriv">
+		<description>Hyperdrive</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="hyprdriv" sha1="2e42fecbb8722c736cccdca7ed3b21fbc75e345a" />
+	</machine>
+	<machine name="jdredd">
+		<description>Judge Dredd (Rev C Dec. 17 1997)</description>
+		<year>1996</year>
+		<manufacturer>Acclaim</manufacturer>
+		<disk name="jdreddb" sha1="9b810e3a16de62cabfc8271b6606574c7034cf41" />
+		<disk name="jdreddc" sha1="83ed8df25d100b1c060f4dde2f162ba31803db7d" />
+	</machine>
+	<machine name="jojo">
+		<description>JoJo's Venture</description>
+		<year>1998</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="jojo" sha1="d5a11315ac21e573ffe78e63602ec2cb420f361f" />
+	</machine>
+	<machine name="jojoba">
+		<description>JoJo's Bizarre Adventure</description>
+		<year>1999</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="jojoba" sha1="688520bb83ccbf4b31c3bfe26bd0cc8292a8c558" />
+	</machine>
+	<machine name="kdeadeye">
+		<description>Dead Eye (Konami)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="kdeadeye" sha1="2b413a2a22e1959fb4f71b67ba51c6c8e0d58970" />
+	</machine>
+	<machine name="kinst2">
+		<description>Killer Instinct 2 (v1.4)</description>
+		<year>1995</year>
+		<manufacturer>Rare</manufacturer>
+		<disk name="kinst2" sha1="ab0242233d2eaf9d907abe246a54e09a8a2561a5" />
+	</machine>
+	<machine name="kinst">
+		<description>Killer Instinct (v1.5d)</description>
+		<year>1994</year>
+		<manufacturer>Rare</manufacturer>
+		<disk name="kinst" sha1="a37a2c5e52ea936a715210d237874dd573bb002f" />
+	</machine>
+	<machine name="mace">
+		<description>Mace: The Dark Age</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="mace" sha1="e2cce4ff2e15267b7008422252bdf62b188cf743" />
+	</machine>
+	<machine name="maxforce">
+		<description>Maximum Force v1.05</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="maxforce" sha1="59d77280afdb2d1f801ee81786aa7d3166ec2695" />
+	</machine>
+	<machine name="nbanfl">
+		<description>NBA Showtime / NFL Blitz 2000</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="nbanfl" sha1="4256c7487a55fd0d0e4241f595cc886d4402fd7d" />
+	</machine>
+	<machine name="nbashowt">
+		<description>NBA Showtime: NBA on NBC</description>
+		<year>1998</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="nbashowt" sha1="bf60b8f74647dc911f78f364a72ef0301ae0167a" />
+	</machine>
+	<machine name="pbball96">
+		<description>Powerful Baseball '96 (GV017 JAPAN 1.03)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="pbball96" sha1="a056138fc68bd1580b1de89b622b159150413a3f" />
+	</machine>
+	<machine name="primrag2">
+		<description>Primal Rage 2 (Ver 0.36a)</description>
+		<year>1996</year>
+		<manufacturer>Atari</manufacturer>
+		<disk name="primrag2" sha1="d79b2dad16fbdb174bcd34eb70025a53ebdb0e51" />
+	</machine>
+	<machine name="qdrmfgp2">
+		<description>Quiz Do Re Mi Fa Grand Prix2 - Shin-Kyoku Nyuukadayo (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="ge557a09" sha1="5e836dbace34c9c1b107cce6a50071a4205a1534" />
+	</machine>
+	<machine name="qdrmfgp">
+		<description>Quiz Do Re Mi Fa Grand Prix (Japan)</description>
+		<year>1994</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="gq460a08" sha1="0cae7769fbb603d3c3e3627dde84a6c5a9b1062d" />
+	</machine>
+	<machine name="roadburn">
+		<description>Road Burners</description>
+		<year>1999</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="roadburn" sha1="1c971c9ed573d178d9f318ccd88d305d8146de2d" />
+	</machine>
+	<machine name="sfiii2">
+		<description>Street Fighter III 2nd Impact - Giant Attack</description>
+		<year>1998</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="sfiii2" sha1="76e9fdef020c4b85a10aa8828a63e67c7dca22bd" />
+	</machine>
+	<machine name="sfiii3">
+		<description>Street Fighter III 3rd Strike - Fight for the Future</description>
+		<year>1999</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="sfiii3" sha1="47c7ae0f2dc47c7d28bdf66d378a3aaba4c99c75" />
+	</machine>
+	<machine name="sfiii">
+		<description>Street Fighter III - New Generation</description>
+		<year>1997</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="sfiii" sha1="cc72c9eb2096f4d51f2cf6df18f29fd79d05067c" />
+	</machine>
+	<machine name="sfish2">
+		<description>Sport Fishing 2 (UET 951106 V1.10e)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="sfish2" sha1="d07e0aa09a0858b308cc2218996b2242885a2609" />
+	</machine>
+	<machine name="sfru2049">
+		<description>San Francisco Rush 2049</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="sfru2049" sha1="e08d026ab2745cac6b8c820f010b28dffd5388dd" />
+	</machine>
+	<machine name="sfrush">
+		<description>San Francisco Rush</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="sfrush" sha1="0e5805e255e91f08c9802a04b42056d61ba5eb41" />
+	</machine>
+	<machine name="sfrushrk">
+		<description>San Francisco Rush: The Rock</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="sfrushrk" sha1="75aba7be869996ff522163466c97f88f78904fe0" />
+	</machine>
+	<machine name="simpbowl">
+		<description>Simpsons Bowling (GQ829 UAA)</description>
+		<year>2000</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="simpbowl" sha1="791ce11b0645fd5c3f5b30483bad879f26bb97db" />
+	</machine>
+	<machine name="susume">
+		<description>Susume! Taisen Puzzle-Dama (GV027 JAPAN 1.20)</description>
+		<year>1996</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="susume" sha1="2e83d3a0b45ed740e2ab27d259347b20b87a3eaf" />
+	</machine>
+	<machine name="tenthdeg">
+		<description>Tenth Degree</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="tenthdeg" sha1="5ba31d22c0fa29897b45e01c4f1afed8b906f500" />
+	</machine>
+	<machine name="vaportrx">
+		<description>Vapor TRX</description>
+		<year>1998</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="vaportrp" sha1="75e2eaf81c69d2a337736dbead804ac339fd0675" />
+		<disk name="vaportrx" sha1="f6ddb8eb66d979d49799e39fa4d749636693a1b0" />
+	</machine>
+	<machine name="vcircle">
+		<description>Vicious Circle (prototype)</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="vcircle" sha1="f1d3e3d081d10ec42d07cd695d52b44812264983" />
+	</machine>
+	<machine name="warfa">
+		<description>War: The Final Assault</description>
+		<year>1999</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="warfa" sha1="9ce1d4a3115329b9b6fb6482b11b22b52a7fef79" />
+	</machine>
+	<machine name="wargods">
+		<description>War Gods</description>
+		<year>1995</year>
+		<manufacturer>Midway</manufacturer>
+		<disk name="wargods" sha1="4b02f8f33027a0e7b2c750c10da1fe22222b3e1e" />
+	</machine>
+	<machine name="warzard">
+		<description>Warzard</description>
+		<year>1996</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="warzard" sha1="6d4e6b7fff4ff3f04e349479fa5a1cbe63e673b8" />
+	</machine>
+	<machine name="weddingr">
+		<description>Wedding Rhapsody (GX624 JAA)</description>
+		<year>1997</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="weddingr" sha1="e6481c367ad24aa285e51c01221a169b1b74b15f" />
+	</machine>
+	<machine name="wg3dh">
+		<description>Wayne Gretzky's 3D Hockey</description>
+		<year>1996</year>
+		<manufacturer>Atari Games</manufacturer>
+		<disk name="wg3dh" sha1="c12875036487a9324734012e601d1f234d2e783e" />
+	</machine>
+</datafile>

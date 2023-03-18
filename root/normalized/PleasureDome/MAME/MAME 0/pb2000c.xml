@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pb2000c</name>
+		<description>Casio PB-2000C memory cards</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="basic">
+		<description>BASIC interpreter (OM-53B)</description>
+		<year>1989</year>
+		<publisher>Casio</publisher>
+		<rom name="basic.bin" size="65536" crc="dd9cc2bd" sha1="b89741d208ee43d0b177ce1ffaf11395bbaa8e24" />
+	</machine>
+	<machine name="prolog">
+		<description>PROLOG interpreter (OM-51P)</description>
+		<year>1989</year>
+		<publisher>Casio</publisher>
+		<rom name="prolog.bin" size="65536" crc="c64243bc" sha1="8f3fc028a81d844127a95a4839739a0e10340ca9" />
+	</machine>
+</datafile>

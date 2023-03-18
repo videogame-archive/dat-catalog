@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>aleste</name>
+		<description>Patisonic Aleste 520EX floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="magicsnd">
+		<description>Magic Sound Tracker Player</description>
+		<year>1993</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="magplayer.dsk" size="737280" crc="3fbebfe8" sha1="f9abaec938c0be7ed1bf3851f0a35a358df35fd3" />
+	</machine>
+	<machine name="msxdos">
+		<description>MSX-DOS + Developer Tools</description>
+		<year>1993</year>
+		<publisher>Microsoft - Patisonic</publisher>
+		<rom name="alestedos-dev.dsk" size="737280" crc="7b2b64a9" sha1="2307eb72478a01a461e231d2dcae28249145c38f" />
+	</machine>
+	<machine name="msxgames">
+		<description>MSX Games</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="msx games.dsk" size="737280" crc="4dad43d8" sha1="57c40c44e8bc23193008aee77903f8b8021c3968" />
+	</machine>
+</datafile>

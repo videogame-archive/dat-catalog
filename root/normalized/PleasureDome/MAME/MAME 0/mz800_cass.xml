@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mz800_cass</name>
+		<description>Sharp MZ-800 cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="800demo">
+		<description>MZ-800 Demo</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="opening 800.mzf" size="17505" crc="2c32b173" sha1="588499857c136e0a8000afc8bfc04d5673359e8b" />
+		<rom name="opening data.mzf" size="2176" crc="d0f0f533" sha1="afd08932f01dc6880b22906707d412c2145f33cf" />
+	</machine>
+	<machine name="abusimbl">
+		<description>Abu Simbel</description>
+		<year>19??</year>
+		<publisher>Dynamic Soft Program / Alco%.Soft</publisher>
+		<rom name="abu simbel.mzf" size="38784" crc="b439197c" sha1="d63605b437f6468f4c5cf03cf3f7b2c0557faac2" />
+	</machine>
+	<machine name="adrsdata">
+		<description>Adress Data</description>
+		<year>19??</year>
+		<publisher>BBG Software</publisher>
+		<rom name="adressdata.mzf" size="4907" crc="0c6693c7" sha1="ff107695629a2e21ba75339062508a80273ecd67" />
+	</machine>
+	<machine name="breakout">
+		<description>Break out-800</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="break out-800.mzf" size="6786" crc="bc569aa0" sha1="2dac626d921e7be058c8db0bc17e6594213ec72d" />
+	</machine>
+	<machine name="cyrus">
+		<description>Cyrus is Chess</description>
+		<year>1987</year>
+		<publisher>Intelligent Software</publisher>
+		<rom name="cyrus is chess.mzf" size="15793" crc="54a2d5f8" sha1="8320c396430b6f73d9dc769dbbfec42314c2fa76" />
+	</machine>
+	<machine name="egg">
+		<description>Intellectual Game - Egg</description>
+		<year>1984</year>
+		<publisher>dB-SOFT</publisher>
+		<rom name="egg.bas.mzf" size="18896" crc="bd2da937" sha1="40d9683591824f369f705015e4188e4eaa2c16f6" />
+		<rom name="egg.obj.mzf" size="959" crc="eb6d293d" sha1="1a4a1e1841b921d9a01fdf2cc54c26bd3291c776" />
+	</machine>
+	<machine name="gps2">
+		<description>Grand Prix Simulator 2</description>
+		<year>19??</year>
+		<publisher>Proton Software</publisher>
+		<rom name="g.p.s. program.mzf" size="48256" crc="16bba2ba" sha1="7b4394bc88a1f0d37ddcb0951addfdca7f683b90" />
+	</machine>
+	<machine name="highway">
+		<description>Highway</description>
+		<year>19??</year>
+		<publisher>Vortex Software/Ladinek Software</publisher>
+		<rom name="highway.mzf" size="32934" crc="1a874748" sha1="e3d1efce5b5be6161d9c10de5f76a8403a852cab" />
+	</machine>
+	<machine name="james">
+		<description>James v1.0c (Cz)</description>
+		<year>19??</year>
+		<publisher>Pilsoft</publisher>
+		<rom name="jamesv1.0c.mzf" size="20096" crc="c1d09b07" sha1="eac93ed135bf1e66a8a3c8b5f5a0c6c86d73d3a6" />
+	</machine>
+	<machine name="mucmac">
+		<description>Muc Mac</description>
+		<year>19??</year>
+		<publisher>BBG Software</publisher>
+		<rom name="mucmac8oo.mzf" size="20896" crc="fab9b721" sha1="524e8855ae1dd36f013c4050924d0540f920d90d" />
+	</machine>
+	<machine name="pcgrally">
+		<description>PCG Rally</description>
+		<year>1983</year>
+		<publisher>Namco/HAL Laboratory</publisher>
+		<rom name="pcgrally.mzf" size="11856" crc="cbdc2558" sha1="711aea4d33feab497c2f6888489fc31d504719e2" />
+	</machine>
+	<machine name="uridium">
+		<description>Uridium</description>
+		<year>1990</year>
+		<publisher>Hewson</publisher>
+		<rom name="uridium.mzf" size="44672" crc="1664e09b" sha1="780bff6accaac67982e5580b59b72b26d58df130" />
+	</machine>
+	<machine name="wayotef">
+		<description>The Way of the Exploding Fist (Cz)</description>
+		<year>1987</year>
+		<publisher>MiKrSoft</publisher>
+		<rom name="exploding fist.mzf" size="37904" crc="14171ece" sha1="8a3567095f13b607c770e18c4e0f44e2cd4dcfec" />
+	</machine>
+</datafile>

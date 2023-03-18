@@ -57,15 +57,15 @@ public class HTTP {
 
     private static final Pattern contentDisposition = Pattern.compile("filename=\"(.*?)\"");
 
-    public static final Optional<String> extractFilename(HttpHeaders header) {
-        return header.firstValue("content-disposition").map(value -> {
-            final var matcher = contentDisposition.matcher(value);
-            if (matcher.find() && matcher.groupCount() == 1) {
-                return matcher.group(1);
-            }
-            return null;
-        });
-    }
+	public static final Optional<String> extractFilename(HttpHeaders header, URI uri) {
+		return header.firstValue("content-disposition").map(value -> {
+			final var matcher = contentDisposition.matcher(value);
+			if (matcher.find() && matcher.groupCount() == 1) {
+				return matcher.group(1);
+			}
+			return null;
+		}).or(() -> Optional.of(Path.of(uri.getPath()).getFileName().toString()));
+	}
 
     public static final void writeToFile(HttpResponse<InputStream> resp, Path file) throws IOException {
         try (final var out = Files.newOutputStream(file)) {
@@ -82,13 +82,19 @@ public class HTTP {
         return new HTTP().getExpectInputStream(new URI(uri)).body();
     }
 
-    public static Path downloadToFolder(URI uri, Path parent, boolean unZip) throws IOException, InterruptedException {
+    public enum ZIPMode {
+    	NONE, ALL, SMART 
+    }
+    
+    public static Path downloadToFolder(URI uri, Path parent, ZIPMode zipMode) throws IOException, InterruptedException {
 
         final var download = new HTTP().getExpectInputStream(uri);
-        final var filename = extractFilename(download.headers());
+        final var filename = extractFilename(download.headers(), uri);
 
-        if (unZip && hasZip(download.headers())) {
+        if (zipMode!=ZIPMode.NONE && hasZip(download.headers())) {
             try (final var zip = new ZIP(download.body(), filename)) {
+            	if(zipMode==ZIPMode.SMART)
+            		return zip.extractSmart(parent);
                 return zip.extractAll(parent);
             }
         } else {

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_d</name>
+		<description>Takara e-kara (Japan) Dream Cartridge series (D-xx / DCxxxx-)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dc0001">
+		<description>Dream Cartridge: Best Hit Vol.8 (Japan) (DC0001-BHT)</description>
+		<year>2003</year>
+		<publisher>Takara</publisher>
+		<rom name="dc0001-bht.u1" size="1048576" crc="bd0c4044" sha1="496f9270c0285480ad513c2628260a5ed629dfd6" />
+	</machine>
+	<machine name="dc0002">
+		<description>Dream Cartridge: Best Artist Vol.6 (Morning Musume, 7AIR, SALT5, 11WATER, mini-moni, Gotō Maki, Matsuura Aya) (Japan) (DC0002-BAT)</description>
+		<year>2003</year>
+		<publisher>Takara</publisher>
+		<rom name="dc0002-bat.u1" size="1048576" crc="bb4e13a7" sha1="f9d3a669de1b7ad3080eb428575905ee2170458c" />
+	</machine>
+	<machine name="dc0003">
+		<description>Dream Cartridge: Best Hit Vol.9 (Japan) (DC0003-BHT)</description>
+		<year>2003</year>
+		<publisher>Takara</publisher>
+		<rom name="dc0003-bht.u1" size="1048576" crc="fd15d60f" sha1="c017d3fa1e10ad13cc130b92bd149a347d5c996c" />
+	</machine>
+	<machine name="dc0005">
+		<description>Dream Cartridge: TV Pop Junior Vol.9 (Japan) (DC0005-TPJ)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="dc0005-tpj.u1" size="1048576" crc="515c125f" sha1="a7c7bf758b1afecb8fb55eb5766343325c1acc89" />
+	</machine>
+</datafile>

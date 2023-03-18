@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pet_hdd</name>
+		<description>Commodore PET hard disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="d9060">
+		<description>Commodore D9060</description>
+		<year>1983</year>
+		<publisher>Commodore</publisher>
+		<disk name="tm602s" sha1="9125cb84213ffbeafaa2868b79ffcda5a29fad7a" />
+	</machine>
+	<machine name="d9090">
+		<description>Commodore D9090</description>
+		<year>1983</year>
+		<publisher>Commodore</publisher>
+		<disk name="tm603s" sha1="6ef9e04bd7e6a128d07a75ce4fd0af9258bd2e9f" />
+	</machine>
+	<machine name="softbox">
+		<description>SoftBox CP/M 2.2</description>
+		<year>1981</year>
+		<publisher>Small Systems Engineering</publisher>
+		<disk name="imi5012h" sha1="ae7bdad4dfeee1351e67ffcbf8c634006c03697f" />
+	</machine>
+</datafile>

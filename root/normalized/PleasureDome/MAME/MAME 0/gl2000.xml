@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>gl2000</name>
+		<description>VTech Genius Leader 2000 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bol">
+		<description>Berühmte Orte und Leute</description>
+		<year>1993</year>
+		<publisher>Video Technology</publisher>
+		<rom name="80-1587" size="131072" crc="55eef702" sha1="52923c2b337a49a006affbd30f953c406dc745c6" />
+	</machine>
+	<machine name="englisha">
+		<description>Englisch für Anfänger</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5585-00" size="131072" crc="e583cee5" sha1="9ae1c0fc5327ae3abb8e37a6cf979cba1250d9aa" />
+	</machine>
+	<machine name="englishf">
+		<description>Englisch für Fortgeschrittene</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5775-01" size="131072" crc="2d1c0575" sha1="b5c2c3655d650c3901b6f966fd3af9fde1c06b2c" />
+	</machine>
+	<machine name="franzosi">
+		<description>Französisch für Anfänger</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5919-00" size="131072" crc="40f8908d" sha1="c27c842e806233aa27baa586837e4f24e367bd1a" />
+	</machine>
+	<machine name="schrkurs">
+		<description>Schreibmaschinenkurs</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="27-5775-00" size="131072" crc="04d231af" sha1="1dc39539b212336a64721e0f353678d00c5be250" />
+	</machine>
+	<machine name="snws">
+		<description>Super Naturwissenschaften</description>
+		<year>199?</year>
+		<publisher>Video Technology</publisher>
+		<rom name="80-1587" size="131072" crc="55eef702" sha1="52923c2b337a49a006affbd30f953c406dc745c6" />
+	</machine>
+</datafile>

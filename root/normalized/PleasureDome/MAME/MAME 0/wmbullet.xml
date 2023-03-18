@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>wmbullet</name>
+		<description>WaveMate Bullet disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm22">
+		<description>CP/M 2.2</description>
+		<year>198?</year>
+		<publisher>Digital Research Inc.</publisher>
+		<rom name="cpm22wmb.imd" size="326976" crc="e7f29a98" sha1="f3e4387ab30bc62464d843ea8d6750f210093eb6" />
+	</machine>
+	<machine name="cpm30">
+		<description>CP/M 3.0</description>
+		<year>198?</year>
+		<publisher>Digital Research Inc.</publisher>
+		<rom name="wmb_org.imd" size="552583" crc="358fa850" sha1="ec068ac527fe58f5cedd2ef5d3cb2b61342298d9" />
+	</machine>
+	<machine name="wmate3">
+		<description>CP/M 3.0 (alt 1)</description>
+		<year>198?</year>
+		<publisher>Digital Research Inc.</publisher>
+		<rom name="wmate3_1024_5s_80t.imd" size="601731" crc="9e010803" sha1="7873e242d65c15ae40ac692da9257481035a2744" />
+	</machine>
+	<machine name="wmate4">
+		<description>CP/M 3.0 (alt 2)</description>
+		<year>198?</year>
+		<publisher>Digital Research Inc.</publisher>
+		<rom name="wmate4_1024_5s_80t.imd" size="565921" crc="8086198c" sha1="055c6cb5e7798d9b9b275bae042bbba65400a09d" />
+	</machine>
+</datafile>

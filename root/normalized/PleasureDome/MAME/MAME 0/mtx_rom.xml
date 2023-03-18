@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mtx_rom</name>
+		<description>Memotech MTX ROM extensions</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="newword">
+		<description>MTX Colour NewWord</description>
+		<year>1984</year>
+		<publisher>NewStar Software</publisher>
+		<rom name="newword0.rom" size="8192" crc="5433bd01" sha1="56897f385476864337b7b994c1b46f50eaa57128" />
+		<rom name="newword1.rom" size="8192" crc="10980c03" sha1="8245c42fb1eda43b67fa483e50e4ee3bc5f3f29f" />
+		<rom name="newword2.rom" size="8192" crc="cbff7130" sha1="b4ab27def6020ba8e32959a1b988fce77bcc1d7f" />
+		<rom name="newword3.rom" size="8192" crc="e6bbc33b" sha1="26faa4a8d952c4659f610e94608b630456ab89aa" />
+	</machine>
+	<machine name="pascal11">
+		<description>Hisoft PASCAL</description>
+		<year>1984</year>
+		<publisher>Hisoft</publisher>
+		<rom name="pascal0.rom" size="8192" crc="fcdf9cd9" sha1="fd8409659bc89f9cf1df367b7160bab396ddd88b" />
+		<rom name="pascal1.rom" size="8192" crc="39d105ca" sha1="21ed29f79388c41d1f87268cab478e174536a208" />
+	</machine>
+	<machine name="pascal">
+		<description>Hisoft PASCAL V1.4</description>
+		<year>1984</year>
+		<publisher>Hisoft</publisher>
+		<rom name="pascal_140.rom" size="8192" crc="eef114f4" sha1="32d9b92da8129f6e70016be3ad42251bd2543d09" />
+		<rom name="pascal_141.rom" size="8192" crc="27058f6e" sha1="9424e30ac2d0a5e5e4d1e05957143afa1f206cdf" />
+	</machine>
+</datafile>

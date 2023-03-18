@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>leapfrog_zippity_cart</name>
+		<description>LeapFrog Zippity Cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cars">
+		<description>The World of Cars - Driven to Learn (UK)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13589-B - The World of Cars - Driven to Learn.bin" size="69206016" crc="f52e613e" sha1="81da432cbdf6f80ac1a42656978d4027b50e0587" />
+	</machine>
+	<machine name="disprin">
+		<description>Disney Princess - Magical Movement &amp; Learning (UK)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13590-A - DisneyPrincess - Magical Movement &amp; Learning.bin" size="69206016" crc="d060a223" sha1="00f454b629d7bcc7f58a43dd453d410a8ed60a99" />
+	</machine>
+	<machine name="prinfrog">
+		<description>The Princess and the Frog - Magical Bayou Adventure (UK)</description>
+		<year>2009</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13779-A - The Princess and the Frog - Magical Bayou Adventure.bin" size="69206016" crc="f41715d0" sha1="c6654f021ac0b12fecb056f1d21058957a6e1e30" />
+	</machine>
+</datafile>

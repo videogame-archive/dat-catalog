@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>MAME - Update CHDs (v0.251 to v0.252)</name>
+		<description>MAME - Update CHDs (v0.251 to v0.252)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="doodlejmp">
+		<description>Doodle Jump Arcade (v1.16)</description>
+		<year>2013</year>
+		<manufacturer>ICE / Raw Thrills (Lima Sky licensed)</manufacturer>
+		<disk name="doodlejump_recover_dvd_1_16" sha1="67f2bc3d9d71fc924f8f784e62eaf3dd39c88f45" />
+	</machine>
+	<machine name="gmfamily">
+		<description>Games Family</description>
+		<year>200?</year>
+		<manufacturer>bootleg</manufacturer>
+		<disk name="gamesfamily_1.1" sha1="0410c24cea2a5dc816f4972df65cb1cb0bf1d730" />
+	</machine>
+	<machine name="hydrthnd100d">
+		<description>Hydro Thunder (v1.00d)</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="hydro_100d" sha1="5462f7197b3c510b791093e938a614e706aaed4a" />
+	</machine>
+	<machine name="hydrthnd101b">
+		<description>Hydro Thunder (v1.01b)</description>
+		<year>1999</year>
+		<manufacturer>Midway Games</manufacturer>
+		<disk name="hydro_101b" sha1="182a7966c40676031c92dbfbd1b8e594a505a930" />
+	</machine>
+	<machine name="neomania">
+		<description>Neo Mania (Portugal)</description>
+		<year>2003</year>
+		<manufacturer>bootleg (Hyper M.A.R.)</manufacturer>
+		<disk name="neomania" sha1="4338be8214ca5a9aa6808a94d73e0820a4d34b98" />
+	</machine>
+	<machine name="plycntrchtr">
+		<description>PlayCenter Champions Tournament (v9.3, 'Epox' hardware)</description>
+		<year>2000</year>
+		<manufacturer>Recreativos Presas / Undergaming</manufacturer>
+		<disk name="playcenter_epox_9.3_tournament" sha1="93a73d32c5b12e1e34e691c6a96717b0da709eee" />
+	</machine>
+	<machine name="plycntrchtrc">
+		<description>PlayCenter Champions Tournament (v9.3, 'Celeron' hardware)</description>
+		<year>2000</year>
+		<manufacturer>Recreativos Presas / Undergaming</manufacturer>
+		<disk name="playcenter_celeron_9.3_tournament" sha1="eb98f6af20a98d4bf6dc7311035431467ad56605" />
+	</machine>
+	<machine name="plycntrchtrk">
+		<description>PlayCenter Champions Tournament (v9.3, 'K6' hardware)</description>
+		<year>2000</year>
+		<manufacturer>Recreativos Presas / Undergaming</manufacturer>
+		<disk name="playcenter_k6_9.3_tournament" sha1="7e8935c45c52eb1e28cd3ea18f9f58f8262ffeb3" />
+	</machine>
+</datafile>

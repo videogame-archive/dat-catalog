@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vtech_innotv_cart</name>
+		<description>VTech InnoTV / InnoTAB MAX cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dcgcr">
+		<description>DC Comics - Gotham City Robots (80-274803 UK)</description>
+		<year>2015</year>
+		<publisher>VTech</publisher>
+		<rom name="TC58NVG1S3HTA00.u1" size="285212672" crc="b259c996" sha1="5d8382e31fa5555ec31d2f35864db1368e8501c3" />
+	</machine>
+	<machine name="finddory">
+		<description>Finding Dory (80-274903 UK)</description>
+		<year>2015</year>
+		<publisher>VTech</publisher>
+		<rom name="TC58NVG1S3HTA00.u1" size="285212672" crc="9f8e1d8b" sha1="c0dc79f8b9e723150b76afb8439d4531871c2128" />
+	</machine>
+	<machine name="liongrd">
+		<description>The Lion Guard (80-275203 UK)</description>
+		<year>2015</year>
+		<publisher>VTech</publisher>
+		<rom name="TC58NVG1S3HTA00.u1" size="285212672" crc="3363c8c4" sha1="e5bd3b709eaa0a03743ce4e4df6482c35e8abb75" />
+	</machine>
+	<machine name="pawpatrl">
+		<description>Paw Patrol - Pups Save a UFO! (80-274103 UK)</description>
+		<year>2015</year>
+		<publisher>VTech</publisher>
+		<rom name="TC58NVG1S3HTA00.u1" size="285212672" crc="4b7a801c" sha1="818e5261b37ef01f4dab26392db60563c602a14c" />
+	</machine>
+</datafile>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>amiga_workbench</name>
+		<description>Commodore Amiga Workbench disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="wb10">
+		<description>Workbench 1.0</description>
+		<year>1985</year>
+		<publisher>Commodore</publisher>
+		<rom name="327245-01_workbench.adf" size="901120" crc="d6ef5192" sha1="c7ea69ed5e85ec599165ab201619646c9b5729ba" status="baddump" />
+	</machine>
+	<machine name="wb11">
+		<description>Workbench 1.1</description>
+		<year>1985</year>
+		<publisher>Commodore</publisher>
+		<rom name="316167-01_extras.adf" size="901120" crc="9c9fb14c" sha1="45a2506556ce3b13404194b26d04f451984c689a" />
+		<rom name="327245-02_workbench.adf" size="901120" crc="a629bd97" sha1="d8cc4e0a66d284aab499ff81c9527048bb47ff91" status="baddump" />
+	</machine>
+	<machine name="wb12_3361">
+		<description>Workbench 1.2 Rev. 33.61 A500/A2000</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="unkpn_extras_12.adf" size="901120" crc="08f6785b" sha1="2edfbec0a82f8f5d133526365544a2e78f916c7b" />
+		<rom name="unkpn_workbench_12r3361.adf" size="901120" crc="f1674acf" sha1="6c5a7d91ea638cd001d3c52fac55bafb0a3ae890" />
+	</machine>
+	<machine name="wb12_a500_de">
+		<description>Workbench 1.2 Rev. 33.56 A500 (De)</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="380706-10_extras.adf" size="901120" crc="af130813" sha1="f7a38640155cfd4d369769349f02aa7686973bcf" />
+	</machine>
+	<machine name="wb12_a500">
+		<description>Workbench 1.2 Rev. 33.56 A500</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="317608-03_workbench.adf" size="901120" crc="94318e6a" sha1="bf8f1542aa525847e22bd3e913247848eb540da0" />
+	</machine>
+	<machine name="wb12_a2000_de">
+		<description>Workbench 1.2 Rev. 33.56 A2000 (De)</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="380724-10_workbench.adf" size="901120" crc="4ac89111" sha1="73f8dea3b56bb337a22d5c5f8b447df4f10a4fb0" />
+	</machine>
+	<machine name="wb12">
+		<description>Workbench 1.2 Rev. 33.56 A500/A2000</description>
+		<year>1987</year>
+		<publisher>Commodore</publisher>
+		<rom name="316391-01_workbench.adf" size="901120" crc="bfbf5df9" sha1="7ede18dcd66de3b1e1f87a5869c21294823da214" />
+		<rom name="380706-05_extras.adf" size="901120" crc="7763563b" sha1="51ca15f3ebb4360aabad32014174c411a00b0ecb" />
+	</machine>
+	<machine name="wb133_uk">
+		<description>Workbench 1.3.3 (UK)</description>
+		<year>1988</year>
+		<publisher>Commodore</publisher>
+		<rom name="317789-04_workbench.adf" size="901120" crc="f0ac4901" sha1="598a61b0d41fd16f8af5166067337ceda350c2b5" status="baddump" />
+	</machine>
+</datafile>

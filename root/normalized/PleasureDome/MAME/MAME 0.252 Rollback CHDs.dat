@@ -1,0 +1,2899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>MAME 0.252 Rollback CHDs</name>
+		<description>MAME 0.252 Rollback CHDs</description>
+		<category></category>
+		<version></version>
+		<author></author>
+		<comment></comment>
+	</header>
+	<machine name="MAME (v0.77) - blitz99">
+		<description>MAME (v0.77) - blitz99</description>
+		<disk name="blitz99" md5="678d10f1089539b026d6e5570ea8749b"/>
+	</machine>
+	<machine name="MAME (v0.77u1) - mace">
+		<description>MAME (v0.77u1) - mace</description>
+		<disk name="mace" md5="08d8982d818ec70554e2b66e4efcb4bc" sha1="e1abceddb52aeddb58c385916c853054f10f0b7f"/>
+	</machine>
+	<machine name="MAME (v0.82u3) - bmcompmx">
+		<description>MAME (v0.82u3) - bmcompmx</description>
+		<disk name="858jaa11" md5="e7b26f6f03f807a32b2e5e291324d582" sha1="86f8bb393d3db3c3f492f007a5b4eaec58dfca09"/>
+	</machine>
+	<machine name="MAME (v0.82u3) - bmcorerm">
+		<description>MAME (v0.82u3) - bmcorerm</description>
+		<disk name="a05jaa11" md5="180f7b1b2145fab2d2ba717780f2ca26" sha1="1a45e99667c158517d8edcd66453cd56631b5f6a"/>
+	</machine>
+	<machine name="MAME (v0.88u6) - hmcompm2">
+		<description>MAME (v0.88u6) - hmcompm2</description>
+		<disk name="988jaa11" md5="cc21d58d6bee58f1c4baf08f345fe2c5" sha1="9ccc04973b035d20dada83842c8ee5387472870e"/>
+	</machine>
+	<machine name="MAME (v0.102u4) - gauntdl">
+		<description>MAME (v0.102u4) - gauntdl</description>
+		<disk name="gauntdl" md5="002cbaf85806be0dbd21949bf8ce83c2" sha1="5e73de969a2d6896bcd01d075370520e063e8cc5"/>
+	</machine>
+	<machine name="MAME (v0.102u4) - gauntl12">
+		<description>MAME (v0.102u4) - gauntl12</description>
+		<disk name="gauntl12" md5="52e4b984ae722da56ff6cf623e296a32" sha1="bd01508ffd8fee497c8a75eacddff816147fd8c2"/>
+	</machine>
+	<machine name="MAME (v0.102u4) - gauntleg">
+		<description>MAME (v0.102u4) - gauntleg</description>
+		<disk name="gauntleg" md5="2d814e48ef612fa387df671466824c97" sha1="2e01dc43186578384207dc0b630efbc46427dd46"/>
+	</machine>
+	<machine name="MAME (v0.106) - susume">
+		<description>MAME (v0.106) - susume</description>
+		<disk name="susume" md5="6645e48204b32d8619b5ba3169f515ab" sha1="2e83d3a0b45ed740e2ab27d259347b20b87a3eaf"/>
+	</machine>
+	<machine name="MAME (v0.109u4) - konam80j">
+		<description>MAME (v0.109u4) - konam80j</description>
+		<disk name="gc826jaa" md5="df608c5ad79138ac1ce3d2b31fa9a7f4" sha1="07afbae1c34de0fddd2eb536e73d8a6bc5cfc14c"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - choko">
+		<description>MAME (v0.111u2) - choko</description>
+		<disk name="choko" md5="3397f958562e9cd7370e005315c52b66" sha1="4111565be6b9c73acce8875158d481e8a82607cf"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - csclubj">
+		<description>MAME (v0.111u2) - csclubj</description>
+		<disk name="csclubj" md5="096b479d494ddf5a939d8a1154c452a5" sha1="95bfc863a8c1a99d250edc8bee98a953207078ea"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - jyangoku">
+		<description>MAME (v0.111u2) - jyangoku</description>
+		<disk name="jyangoku" md5="41a772700bc83d5fb9f5c5a2e8e69cf6" sha1="d632f2bf1bf37fc6b9ed40440f75877c8cc95fe9"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - pzloop2">
+		<description>MAME (v0.111u2) - pzloop2</description>
+		<disk name="pzloop2" md5="531fced60d35a5b3ddcc24c4695ebf76" sha1="f7322042a4ce36568fa457dd564fbe84baa8c9fb"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - sfzj">
+		<description>MAME (v0.111u2) - sfzj</description>
+		<disk name="sfzj" md5="52662d0264bf265cefd3d5d7282f6794" sha1="8532c3d42ceae7210c6a04b688ed8402246da65a"/>
+	</machine>
+	<machine name="MAME (v0.111u2) - xmcota">
+		<description>MAME (v0.111u2) - xmcota</description>
+		<disk name="xmcota" md5="e1946c96adcc4a5e7d189c677e5bfeb0" sha1="155cb5ec132d9cd81ff3cbb5e78a33bf53b4ab1f"/>
+	</machine>
+	<machine name="MAME (v0.112u3) - ddrja">
+		<description>MAME (v0.112u3) - ddrja</description>
+		<disk name="845jab02" md5="8f6f136824f7ea605be4e97eea9395be" sha1="841e7d8be9442af45652b2fbc0bbd949cedb18b6"/>
+	</machine>
+	<machine name="MAME (v0.113u4) - bm7thmix">
+		<description>MAME (v0.113u4) - bm7thmix</description>
+		<disk name="b07jab11" md5="0e9440787ca69567792095085e2a3619"/>
+	</machine>
+	<machine name="MAME (v0.113u4) - bmclubmx">
+		<description>MAME (v0.113u4) - bmclubmx</description>
+		<disk name="993jaa11" md5="e26eb62d7cf3357585f5066da6063143"/>
+	</machine>
+	<machine name="MAME (v0.113u4) - bmfinal">
+		<description>MAME (v0.113u4) - bmfinal</description>
+		<disk name="c01jaa11" md5="8bb7e6b6bc63cac8a4f2997307c25748"/>
+	</machine>
+	<machine name="MAME (v0.113u4) - popn1">
+		<description>MAME (v0.113u4) - popn1</description>
+		<disk name="803jaa11" md5="54a8ac87857d81740621c622e27736d7"/>
+	</machine>
+	<machine name="MAME (v0.113u4) - popn3">
+		<description>MAME (v0.113u4) - popn3</description>
+		<disk name="980jaa11" md5="6e5cc17a6bc75cac0256192cc700215c"/>
+	</machine>
+	<machine name="MAME (v0.113u4) - popnstex">
+		<description>MAME (v0.113u4) - popnstex</description>
+		<disk name="970jba11" md5="1616905838fdb2b521d53499c6c2a7a4"/>
+	</machine>
+	<machine name="MAME (v0.118u4) - ddr2m">
+		<description>MAME (v0.118u4) - ddr2m</description>
+		<disk name="895ja" md5="2013c3aac0d7fdbae10eadf1aaa8a174" sha1="03e64fc507d42d3fd6fec288893ec065e4313b00" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.118u4) - ddrja">
+		<description>MAME (v0.118u4) - ddrja</description>
+		<disk name="845jab02" md5="2ef6cbc2289f9a6b23afa59129a1ac04" sha1="6ee7f1c576a6248d3bb6833bd3bb500e538d3ade"/>
+	</machine>
+	<machine name="MAME (v0.130) - a51site4">
+		<description>MAME (v0.130) - a51site4</description>
+		<disk name="a51site4" md5="be0dd1a6f0bba175c25da3d056fa426d" sha1="49dee1b903a37b99266cc3e19227942c3cf75821"/>
+	</machine>
+	<machine name="MAME (v0.130) - area51">
+		<description>MAME (v0.130) - area51</description>
+		<disk name="area51" md5="130b330eff59403f8fc3433ff501852b" sha1="9ea749404c9a5d44f407cdb8803293ec0d61410d"/>
+	</machine>
+	<machine name="MAME (v0.130) - area51mx">
+		<description>MAME (v0.130) - area51mx</description>
+		<disk name="area51mx" md5="fce1a0954759fa22e50747959716823d" sha1="7e629045eb5baa8cd522273befffbf8520828938"/>
+	</machine>
+	<machine name="MAME (v0.130) - area51t">
+		<description>MAME (v0.130) - area51t</description>
+		<disk name="area51t" md5="60d051da941d76aafd47c862e3b6e209" sha1="fee528eef8a256f87af299499ecf5817218f5202"/>
+	</machine>
+	<machine name="MAME (v0.130) - bam2">
+		<description>MAME (v0.130) - bam2</description>
+		<disk name="bam2" md5="bda5db36e18a41183dfb2459abfd3f3b" sha1="cc4662f0eb988807b74a71d6c95eb54c81d672ed"/>
+	</machine>
+	<machine name="MAME (v0.130) - bassangl">
+		<description>MAME (v0.130) - bassangl</description>
+		<disk name="765jaa02" md5="11693b1234458c238ed613ef37f71245" sha1="d820f8166b7d5ffcf41e7a70c8c4c4d1c207c1bd"/>
+	</machine>
+	<machine name="MAME (v0.130) - biofreak">
+		<description>MAME (v0.130) - biofreak</description>
+		<disk name="biofreak" md5="f4663a3fd0ceed436756710b97d283e4" sha1="88b87cb651b97eac117c9342127938e30dc8c138"/>
+	</machine>
+	<machine name="MAME (v0.130) - blitz">
+		<description>MAME (v0.130) - blitz</description>
+		<disk name="blitz" md5="9cec59456c4d239ba05c7802082489e4" sha1="0f001488b3709d40cee5e278603df2bbae1116b8"/>
+	</machine>
+	<machine name="MAME (v0.130) - blitz2k">
+		<description>MAME (v0.130) - blitz2k</description>
+		<disk name="blitz2k" md5="7778a82f35c05ed797b315439843246c" sha1="153a7df368833cd5f5a52c3fe17045c5549a0c17"/>
+	</machine>
+	<machine name="MAME (v0.130) - blitz99">
+		<description>MAME (v0.130) - blitz99</description>
+		<disk name="blitz99" md5="4bb6caf8f985e90d99989eede5504188" sha1="4675751875943b756c8db6997fd288938a7999bb"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm1stmix">
+		<description>MAME (v0.130) - bm1stmix</description>
+		<disk name="753jaa11" md5="d56ec7b9877d1f26d7fc1cabed404947" sha1="71d200d1bd3f1f3a01f4daa78dc9abcca8b8a1fb"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm2ndmix">
+		<description>MAME (v0.130) - bm2ndmix</description>
+		<disk name="853jaa11" md5="37281741b748bea7dfa711a956649d1e" sha1="03d6cc5aea5920163fbaba34c4f838ca605a87e3"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm3rdmix">
+		<description>MAME (v0.130) - bm3rdmix</description>
+		<disk name="825jaa11" md5="3276e3ed57f1a6d9a18365054b0439ba" sha1="dc10d8d281dd8153aeb620228e397aba0bbac198"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm4thmix">
+		<description>MAME (v0.130) - bm4thmix</description>
+		<disk name="847jaa11" md5="47cb5c1b856aa11cf38f0c7ea4a7d1c3" sha1="374d5d5340d4a8818577f9ae81021651d6ee3429"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm5thmix">
+		<description>MAME (v0.130) - bm5thmix</description>
+		<disk name="981jaa11" md5="0058bbdcb5db054adff1c4148ef4211e" sha1="bee71c31978ac186e5e933adcf0220a70496ca6c"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm6thmix">
+		<description>MAME (v0.130) - bm6thmix</description>
+		<disk name="a21jaa11" md5="d7a02bd5db4f6fbefaceb1781d35d7a6" sha1="9e9fb8000cfb53686d94060d7391fb2950265510"/>
+	</machine>
+	<machine name="MAME (v0.130) - bm7thmix">
+		<description>MAME (v0.130) - bm7thmix</description>
+		<disk name="b07jaa11" md5="8ee59f074ee79eb7a435a54b6745387c" sha1="91957d353d2978ce46c5232dd182c056206eb722"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmcompm2">
+		<description>MAME (v0.130) - bmcompm2</description>
+		<disk name="988jaa11" md5="e7d1bcc21a56db62c47f3293fbdf80d9" sha1="00a2e258d66585002413a999afb695a3f3fe30cb"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmcompmx">
+		<description>MAME (v0.130) - bmcompmx</description>
+		<disk name="858jaa11" md5="6c573b432c5d8b5a4fb857b0fab26cb8" sha1="05a3f2359d089f47dcaa28ee7bc65a23efecda94"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmcorerm">
+		<description>MAME (v0.130) - bmcorerm</description>
+		<disk name="a05jaa11" md5="bf63321a1bb167f35f1a1111c02874b6" sha1="95f8e5d29cc9f9af2b1c9397a26217f685f9d5a7"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmdct">
+		<description>MAME (v0.130) - bmdct</description>
+		<disk name="995jaa11" md5="8f5936d2b0b0914b5c88f5432c6cac21" sha1="deed0fca533f3e56e04f9967f3f76145ca106f06"/>
+	</machine>
+	<machine name="MAME (v0.130) - bmfinal">
+		<description>MAME (v0.130) - bmfinal</description>
+		<disk name="c01jaa11" md5="ab47c58c0eda12c591d20013e16525f0" sha1="f7e19e590005201d859f9a4ced8edf7fe88099f6"/>
+	</machine>
+	<machine name="MAME (v0.130) - boxingm">
+		<description>MAME (v0.130) - boxingm</description>
+		<disk name="a45jaa02" md5="db0e9de39e2b4e6bd9f6f768472ab24a" sha1="046c766fdb1b6607e794c598d5d603215b8e81a3"/>
+	</machine>
+	<machine name="MAME (v0.130) - btchamp">
+		<description>MAME (v0.130) - btchamp</description>
+		<disk name="btchamp" md5="edc387207bc878b3a4044441e77d25f7" sha1="e1a75a034d83cffa44268eb30653ba334cc6252d"/>
+	</machine>
+	<machine name="MAME (v0.130) - btltryst">
+		<description>MAME (v0.130) - btltryst</description>
+		<disk name="btltryst" md5="4286d25a896d1450705f742cccd26ef2" sha1="becc606b8480f6a09365b611565d83cfdc82b0b3"/>
+	</machine>
+	<machine name="MAME (v0.130) - calspeda">
+		<description>MAME (v0.130) - calspeda</description>
+		<disk name="calspeda" md5="dc8c919af86a1ab88a0b05ea2b6c74b3" sha1="e6cbc8290af2df9704838a925cb43b6972b80d95"/>
+	</machine>
+	<machine name="MAME (v0.130) - calspeed">
+		<description>MAME (v0.130) - calspeed</description>
+		<disk name="calspeed" md5="1b79ff4ecaa52693bdb19c720332dd59" sha1="94af22d5797dbbaf6178fba1194257a603fda9ee"/>
+	</machine>
+	<machine name="MAME (v0.130) - carnevi1">
+		<description>MAME (v0.130) - carnevi1</description>
+		<disk name="carnevi1" md5="6eafae86091c0a915cf8cfdc3d73adc2" sha1="5e6524d4b97de141c38e301a17e8af15661cb5d6" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - carnevil">
+		<description>MAME (v0.130) - carnevil</description>
+		<disk name="carnevil" md5="cba5ecd6c59b6fb56f574558f4f2b509" sha1="ba32b7ef9721d730ce58bd753d47fb947b6ae9b6"/>
+	</machine>
+	<machine name="MAME (v0.130) - cartfury">
+		<description>MAME (v0.130) - cartfury</description>
+		<disk name="cartfury" md5="d8e9d2616f8d70155f1068f884aa39e5" sha1="98597d79ea25c0e74a575ba636abccc68fd5d301"/>
+	</machine>
+	<machine name="MAME (v0.130) - chocomk">
+		<description>MAME (v0.130) - chocomk</description>
+		<disk name="gdl-0014a" md5="1e5a028b0ae5cf3c5602cdc657fa2bc4" sha1="ee71e76f136b1a25855233a614d5c60a6a3e587d"/>
+	</machine>
+	<machine name="MAME (v0.130) - cndypuzl">
+		<description>MAME (v0.130) - cndypuzl</description>
+		<disk name="cndypuzl" md5="dcb6cdd7d81d5468c1290a3baf4265cb" sha1="21093753a1875dc4fb97f23232ed3d8776b48c06"/>
+	</machine>
+	<machine name="MAME (v0.130) - code1d">
+		<description>MAME (v0.130) - code1d</description>
+		<disk name="gk922d02" md5="c2713080273300a963fbf96dc22f70d7" sha1="fcf451e8d49a93ca25a2177f2eb014da6ca6bcb3"/>
+	</machine>
+	<machine name="MAME (v0.130) - code1db">
+		<description>MAME (v0.130) - code1db</description>
+		<disk name="gk922b02" md5="c1a9b406300c2e258be1cca00746ad6c" sha1="ce949cdbe16ff8539e7fa46ccc58a06a90c7edde"/>
+	</machine>
+	<machine name="MAME (v0.130) - comebaby">
+		<description>MAME (v0.130) - comebaby</description>
+		<disk name="comebaby" md5="ed1c8e13a34bbf348493d2848d351849" sha1="e187db3d99f7a2b0f1c33727ad6716e695ac250e"/>
+	</machine>
+	<machine name="MAME (v0.130) - cr589fw">
+		<description>MAME (v0.130) - cr589fw</description>
+		<disk name="700b04" md5="4847e008189b7c700f2129ecb362b924" sha1="13ac92eb242de48317924b9c725f9f693a263cf5"/>
+	</machine>
+	<machine name="MAME (v0.130) - cr589fwa">
+		<description>MAME (v0.130) - cr589fwa</description>
+		<disk name="700a04" md5="211850ed73d05ccbf5951f1fe19a6767" sha1="bf7865629775a34a8f8b628053e97f25b51ade2e"/>
+	</machine>
+	<machine name="MAME (v0.130) - cryptklr">
+		<description>MAME (v0.130) - cryptklr</description>
+		<disk name="420uaa04" md5="179464886f58a2e14b284e3813227a86" sha1="18fe867c44982bacf0d3ff8453487cd06425a6b7"/>
+	</machine>
+	<machine name="MAME (v0.130) - cubeqst">
+		<description>MAME (v0.130) - cubeqst</description>
+		<disk name="cubeqst" md5="d2e6010f9b9d36ba50664096ec331f8d" sha1="5266a0a43963628464fac1719e1cefec627042a4"/>
+	</machine>
+	<machine name="MAME (v0.130) - cvs2gd">
+		<description>MAME (v0.130) - cvs2gd</description>
+		<disk name="gdl-0007a" md5="1f434e6f610987987d1d130e454f5c74" sha1="e8f199f2743a63765bcbcd533bbe5eed82f959a8"/>
+	</machine>
+	<machine name="MAME (v0.130) - cvsgd">
+		<description>MAME (v0.130) - cvsgd</description>
+		<disk name="gdl-0004" md5="2d17eaf881c06bd95847e54878bc2ba9" sha1="8f8651527463aa01d40c280c0d9b03b7a0650a32"/>
+	</machine>
+	<machine name="MAME (v0.130) - darkhleg">
+		<description>MAME (v0.130) - darkhleg</description>
+		<disk name="706jaa02" md5="4f096051df039b0d104d4c0fff5dadb8" sha1="4c8d976096c2da6d01804a44957daf9b50103c90"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2m">
+		<description>MAME (v0.130) - ddr2m</description>
+		<disk name="895jaa02" md5="f83ea1459c51aba2e16830b775444db3" sha1="f1d47440ec7ba902f0fc5cad241729613f24fce1"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2mc">
+		<description>MAME (v0.130) - ddr2mc</description>
+		<disk name="896jaa01" md5="3cab3bc6d9459360da8f6784dd861067" sha1="cb99e52eac5223509e914648d9b5dec59ed242f8"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2mc2">
+		<description>MAME (v0.130) - ddr2mc2</description>
+		<disk name="984jaa01" md5="945de47f526007f7c607c398b9b6275a" sha1="da257e5a553a75439970393bdafc581f6971f946"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr2ml">
+		<description>MAME (v0.130) - ddr2ml</description>
+		<disk name="885jaa02" md5="696e39fa7113f61181875bffca13a1b4" sha1="ece1d34a3bdbe07b608429abe30802bc7327a94a"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3ma">
+		<description>MAME (v0.130) - ddr3ma</description>
+		<disk name="887aaa02" md5="20a95a94413dfba836fd1b0d7923dbfc" sha1="75500b4393519f1f9bce7c9bdfd45ef365a8672c"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mj">
+		<description>MAME (v0.130) - ddr3mj</description>
+		<disk name="887jaa02" md5="c2241d1277a98d6a8cafd3aed0c9b9da" sha1="04f639c3e72aa6dd546ea5b5b84fb3fcb10acc46"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mk">
+		<description>MAME (v0.130) - ddr3mk</description>
+		<disk name="887kba02" md5="3ebd603c800158697c968caf187a7cc6" sha1="8feb5dcada45e6f6aa0695439dc718fafb978b4d"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mka">
+		<description>MAME (v0.130) - ddr3mka</description>
+		<disk name="887kaa02" md5="9ecee52213411d4a518f4724c87ee9d3" sha1="10af2af753c5a54d1d3ac40a9ccc3e0324183f4d"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr3mp">
+		<description>MAME (v0.130) - ddr3mp</description>
+		<disk name="a22jaa02" md5="b386ecc1d54e2ac73c16057af9220aa6" sha1="cc4fba48dfff96f0ac85a438dab95e00891aeac5"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr4m">
+		<description>MAME (v0.130) - ddr4m</description>
+		<disk name="a33aaa02" md5="d843cba35726f3b0af357f712b8870a4" sha1="40456e772c39c339828dd4726766ef2e0981d3a1" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr4mj">
+		<description>MAME (v0.130) - ddr4mj</description>
+		<disk name="a33jaa02" md5="855456931374d1c99dfd44c52a0a3178" sha1="ad7672bf30becc9030c4fa097cc60deecad6f36d"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr4mp">
+		<description>MAME (v0.130) - ddr4mp</description>
+		<disk name="a34jaa02" md5="d8292d7f1e359d308b779e44fd0809ef" sha1="23aadca5274bff5f130357701c1ab269943b387d"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddr5m">
+		<description>MAME (v0.130) - ddr5m</description>
+		<disk name="a27jaa02" md5="502ecebf4d2e931f6b75b6a22b7d620c" sha1="2edb3a0160c2783db6b0ddfce0f7c9ebb35b481f"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddra">
+		<description>MAME (v0.130) - ddra</description>
+		<disk name="845aaa02" md5="2ab58fc647d35673861788a78df2afba" sha1="fe2d18cdab7a3088f7c876ce531d64a2f3ae9294"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrbocd">
+		<description>MAME (v0.130) - ddrbocd</description>
+		<disk name="892jaa01" md5="b29b63bafdd35f38662ff8daf5fc59f7" sha1="c929c488d206e055e756ca506c3b1ff430a46aaa"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrextrm">
+		<description>MAME (v0.130) - ddrextrm</description>
+		<disk name="c36jaa02" md5="83fa51031d826d603c0371b18180aeda" sha1="a1591cb4f1da7e460de57afb17a85592719243e0"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrj">
+		<description>MAME (v0.130) - ddrj</description>
+		<disk name="845jba02" md5="314f64301c3429312770ecdeb975d285" sha1="8ebd9a68bbea3d9947a95d896347b0fea2145e4a"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrja">
+		<description>MAME (v0.130) - ddrja</description>
+		<disk name="845jaa02" md5="045237b7ba76f393f69dd95eae14b61a" sha1="eb59d00300424be89817ce3f8d7e68b8cf0f7943"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrjb">
+		<description>MAME (v0.130) - ddrjb</description>
+		<disk name="845jab02" md5="ebaaf265a1a7efae93cd745a67ea2cb2" sha1="10ee3081065ebf5a814abbd30c8dee91b384a849"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrmax">
+		<description>MAME (v0.130) - ddrmax</description>
+		<disk name="b19jaa02" md5="0f080892f7e5ad0d83e6db70e4cb80d7" sha1="59361e85641f2deda88ccbc2cd1634523f1c1a3b"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrmax2">
+		<description>MAME (v0.130) - ddrmax2</description>
+		<disk name="b20jaa02" md5="2d57e32a263b355391a94f45c145d0fe" sha1="e43c34bd113ef20e579ce7c6248288a257a5ccde"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrs2k">
+		<description>MAME (v0.130) - ddrs2k</description>
+		<disk name="905aaa02" md5="8b753bae1b4cbd5c8b641eb723b660a1" sha1="cfd40cee9380588dc2ced107ace2a7486d91944d"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrs2kj">
+		<description>MAME (v0.130) - ddrs2kj</description>
+		<disk name="905jaa02" md5="098496f8d9b5ac0357f093a62d6d59f0" sha1="37f9aff936a51b3482ae4717227993106be8b476"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrsbm">
+		<description>MAME (v0.130) - ddrsbm</description>
+		<disk name="894jaa02" md5="05f3cd86796f41353528999ac3fbd26b" sha1="5b65ac6bc2497b3ab99542f5acae3a64895f221d"/>
+	</machine>
+	<machine name="MAME (v0.130) - ddrusa">
+		<description>MAME (v0.130) - ddrusa</description>
+		<disk name="a44uaa02" md5="f9694956bab44593784fa728c6b53712" sha1="e40b52ce3b1e90e3ec9190b83ba875c4ab1b0f2f"/>
+	</machine>
+	<machine name="MAME (v0.130) - dmx">
+		<description>MAME (v0.130) - dmx</description>
+		<disk name="874jaa" md5="457f6e55aec68537ae47c6045de1ee26" sha1="ff6332e032b1528691a87c5001bf808d6a8f5ef7" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - dmx2m">
+		<description>MAME (v0.130) - dmx2m</description>
+		<disk name="a39jaa02" md5="3106d45c868ad30e47f7873ea1dffc8a" sha1="20df1b5636622d8c0e45623bd1af6bc1249fec65"/>
+	</machine>
+	<machine name="MAME (v0.130) - dmx2majp">
+		<description>MAME (v0.130) - dmx2majp</description>
+		<disk name="a38jaa02" md5="3c4070547d17605db68a3db333865eb0" sha1="e9fe714bb0a5354b199b1fb7b33f366db502c03a"/>
+	</machine>
+	<machine name="MAME (v0.130) - dncfrks">
+		<description>MAME (v0.130) - dncfrks</description>
+		<disk name="874kaa" md5="5e02c8dba12f949ce99834e597d8d08d" sha1="659281e1b63c5ff0616b27d7f87a4e7f1c493372" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn">
+		<description>MAME (v0.130) - drmn</description>
+		<disk name="881jad01" md5="8191ad7747f5ac87a40534f53a2a6cd4" sha1="61bfd356d262f53f1ab55654aba2981fb8eb1420"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn2m">
+		<description>MAME (v0.130) - drmn2m</description>
+		<disk name="912jab" md5="60dadc836f00f22d50b5b634250aa624" sha1="5316b2e2e89af7bc038a3febc91525edac91fe7e" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn2mpu">
+		<description>MAME (v0.130) - drmn2mpu</description>
+		<disk name="912za01" md5="1d3fa130a3a6c8433c276e609b373e4f" sha1="121ca6df16084a01c88ef26167b13053c9adc7ce" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - drmn3m">
+		<description>MAME (v0.130) - drmn3m</description>
+		<disk name="a23jaa02" md5="3b6477be8e66e447cc3f94047c28a2a2" sha1="4c607eb2b212785520d1c6dc21d013fe6f489741"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsem">
+		<description>MAME (v0.130) - dsem</description>
+		<disk name="936eaa" md5="1b3fea5748aec4b8efdc0aa42a84a56a" sha1="eb824ea9593ea4a84440ff1032055d85e6c9e025" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsem2">
+		<description>MAME (v0.130) - dsem2</description>
+		<disk name="c23eaa02" md5="e7275ba9f53334ac528afaa278df7153" sha1="661f0b53ab64fc746b8e3b7ff3dd32d2bed852ac"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsfdct">
+		<description>MAME (v0.130) - dsfdct</description>
+		<disk name="910jca02" md5="c909982a234dbd59388892bd627a466e" sha1="687ce1d480eb13e78289171b6c56fd5b1e7d5d9e"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsfdcta">
+		<description>MAME (v0.130) - dsfdcta</description>
+		<disk name="910jaa02" md5="e5380280b5cbb10822391f74866f8bee" sha1="3d17320f56be7edb1be6b1bd53269d452f71123d"/>
+	</machine>
+	<machine name="MAME (v0.130) - dsftkd">
+		<description>MAME (v0.130) - dsftkd</description>
+		<disk name="884jaa02" md5="d73444ab74efb8587c2bf455e3ec0d13" sha1="92522380b92333b10d401fda4f81592073f3e601"/>
+	</machine>
+	<machine name="MAME (v0.130) - dstage">
+		<description>MAME (v0.130) - dstage</description>
+		<disk name="845ea" md5="32d52ee2b37559d7413788c87085f37c" sha1="e82610e1a34fba144499f9ee892ac882d1e96853" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - dygolf">
+		<description>MAME (v0.130) - dygolf</description>
+		<disk name="gds-0009" md5="e553e1811f28b67fd57fa8e34d978d87" sha1="d58a42586c65dcb44282bf930631ea8b663c6aa7"/>
+	</machine>
+	<machine name="MAME (v0.130) - fbait2bc">
+		<description>MAME (v0.130) - fbait2bc</description>
+		<disk name="865uab02" md5="5a253a58417539f9b0cb9726311f73d5" sha1="86ccbaac30e9e2d7d0ad6ae65a4f53f606f50525"/>
+	</machine>
+	<machine name="MAME (v0.130) - fbaitbc">
+		<description>MAME (v0.130) - fbaitbc</description>
+		<disk name="765uab02" md5="56d8a23bb592932631f8f81b9797fce6" sha1="dda131b8655e3c4394e50749fe3a1e468f9df353"/>
+	</machine>
+	<machine name="MAME (v0.130) - fbaitmc">
+		<description>MAME (v0.130) - fbaitmc</description>
+		<disk name="889ea" md5="43eae52edd38019f0836897ea8def527" sha1="2e6937c265c222ac2cea50fbf32201ade425ee30" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - firefox">
+		<description>MAME (v0.130) - firefox</description>
+		<disk name="firefox" md5="73fb69fd20adf2800b28dc1ab58be2d4" sha1="b500a834fa505e4c0649d8e5e6b7d40d4deef48d"/>
+	</machine>
+	<machine name="MAME (v0.130) - gamecst2">
+		<description>MAME (v0.130) - gamecst2</description>
+		<disk name="gamecst2" md5="ef880a411521e0c6e10f715ad9dd796e" sha1="8243d7d2eacedf358334821c9401c1b945524a69"/>
+	</machine>
+	<machine name="MAME (v0.130) - gamecstl">
+		<description>MAME (v0.130) - gamecstl</description>
+		<disk name="gamecstl" md5="501ddbebb530b8fd67eb64a4a2de3e35" sha1="2477468ef1c1d4529057064a319ebfe9fd8facd7"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntd24">
+		<description>MAME (v0.130) - gauntd24</description>
+		<disk name="gauntd24" md5="1faed82ad08aba21be061ccca709e691" sha1="d6d9b15f3e20e3456431a6799aceeb2c0b4336aa"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntdl">
+		<description>MAME (v0.130) - gauntdl</description>
+		<disk name="gauntdl" md5="3a83b244543f0076fc0cbc8eb6c742b8" sha1="30bfc810debeca6a4fccd954d0b68c1185f2c384"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntl12">
+		<description>MAME (v0.130) - gauntl12</description>
+		<disk name="gauntl12" md5="d5712ae31835bcae086ec7259c2541e0" sha1="40ba1b8464ffd4003aac5511306b4c34bfa227ea"/>
+	</machine>
+	<machine name="MAME (v0.130) - gauntleg">
+		<description>MAME (v0.130) - gauntleg</description>
+		<disk name="gauntleg" md5="e8c0c5fafbf004ab2e5808bcd80bfb07" sha1="fa042d9b565282e69192096bd6f66d8af5aacd2e"/>
+	</machine>
+	<machine name="MAME (v0.130) - ggxx">
+		<description>MAME (v0.130) - ggxx</description>
+		<disk name="gdl-0011" md5="25ab6d42bf07dd26e7033cf201322d9c" sha1="c08a19acb5641d2fd14b54cc149459c345dae013"/>
+	</machine>
+	<machine name="MAME (v0.130) - ggxxrl">
+		<description>MAME (v0.130) - ggxxrl</description>
+		<disk name="gdl-0019a" md5="b09c865e3e06e6e4467acf45b04e9caa" sha1="50ec9bba5a7ba71f8543763cb139bab46dc487a5"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtfrk11m">
+		<description>MAME (v0.130) - gtfrk11m</description>
+		<disk name="d39jaa02" md5="4730dd81132cdac6f0cb7cc4c9753329" sha1="b9425ab6bc7305eac2fef9799b7d46b18462ea84"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtfrk3mb">
+		<description>MAME (v0.130) - gtfrk3mb</description>
+		<disk name="949jaz02" md5="22f7e1e61ea5f627e28c32f2209b5138" sha1="62bd62cafb4bd4a1e393071f5e55d5ab57e3a880"/>
+	</machine>
+	<machine name="MAME (v0.130) - gticlub2">
+		<description>MAME (v0.130) - gticlub2</description>
+		<disk name="gm941b02" md5="8403c7f5fa5c254a30d87b59f8d1fedc" sha1="217ef1628e8a377d22f537507dbe18fa9fe01fa2"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk2m">
+		<description>MAME (v0.130) - gtrfrk2m</description>
+		<disk name="929jbb02" md5="dfe595184dd55046da6fe93bb14b83be" sha1="c76d5c11422b2ef1750e92a1edac2812666aadae" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk3m">
+		<description>MAME (v0.130) - gtrfrk3m</description>
+		<disk name="949jab02" md5="331a7516a33d9cf9f04b8c9aa5de5fc1" sha1="9aae90c6b0f5c31f47a420f876c0dbc81d43b756"/>
+		<disk name="949jac01" md5="0f78f8e06edd3b8fa0abed22155d06d9" sha1="3e43a5018aa88ed78c9e2fb50f65489a6c7de093"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk4m">
+		<description>MAME (v0.130) - gtrfrk4m</description>
+		<disk name="a24jaa02" md5="1e113d8f5601b0b4f38852894717e486" sha1="f0748312663a9683fd5a115c16f135cb58b993b1"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk5m">
+		<description>MAME (v0.130) - gtrfrk5m</description>
+		<disk name="a26jaa02" md5="885b18ce273770330aefa0276911c046" sha1="635aee062df45c83b080612d29101fe70c14979d"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk6m">
+		<description>MAME (v0.130) - gtrfrk6m</description>
+		<disk name="b06jaa02" md5="8191da2660bb645fcfee9fb60baef242" sha1="e8be8bdc0cbfb95a0a56ab89f39de3089d31f305"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrk7m">
+		<description>MAME (v0.130) - gtrfrk7m</description>
+		<disk name="b17jaa02" md5="65b47fbf7d682e8dc8b2a3137aaab9b7" sha1="bf8eb8f857c08595bb1c19f470ac689400ee0cab"/>
+	</machine>
+	<machine name="MAME (v0.130) - gtrfrks">
+		<description>MAME (v0.130) - gtrfrks</description>
+		<disk name="886ea" md5="b8b39a6e48867fdad640bd256273bdfc" sha1="2277c6268b8327be8d7636d4812920e5d3b353cd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - gundmgd">
+		<description>MAME (v0.130) - gundmgd</description>
+		<disk name="gdl-0001" md5="dcba598e76646a5a6b6e6da70552a7c5" sha1="f525111e2762e5895fd0016a9bd41210c1125499"/>
+	</machine>
+	<machine name="MAME (v0.130) - gundmxgd">
+		<description>MAME (v0.130) - gundmxgd</description>
+		<disk name="gdl-0006" md5="90b1980605e7f53b38292ae32d547c8b" sha1="b95bc07e61e57a62e276ba7fef0ae9a5c19667d9"/>
+	</machine>
+	<machine name="MAME (v0.130) - haremchl">
+		<description>MAME (v0.130) - haremchl</description>
+		<disk name="haremchl" md5="00adbd944c05747e9445446306f904be" sha1="4d5df2b64b376e8d0574100110f3471d3190765c"/>
+	</machine>
+	<machine name="MAME (v0.130) - heatof11">
+		<description>MAME (v0.130) - heatof11</description>
+		<disk name="heatof11" md5="1eef9f191439f13d1a867629226b0230" sha1="87599d03aecadf5d119d05173bdef2940bcce515"/>
+	</machine>
+	<machine name="MAME (v0.130) - hellngt">
+		<description>MAME (v0.130) - hellngt</description>
+		<disk name="810eaa02" md5="250a1b9cc2a25aed6c27321dd8f4f8a2" sha1="d2f48a389f8091e03ada81c255231c7957d1aee3"/>
+	</machine>
+	<machine name="MAME (v0.130) - hyperath">
+		<description>MAME (v0.130) - hyperath</description>
+		<disk name="hyperath" md5="a777d62bc998768e53d3d764d96cd990" sha1="dfe0a68258cf33ca09639a752611302b361698e8"/>
+	</machine>
+	<machine name="MAME (v0.130) - hyprdriv">
+		<description>MAME (v0.130) - hyprdriv</description>
+		<disk name="hyprdriv" md5="480c43735b0b83eb10c0223283d4226c" sha1="2e42fecbb8722c736cccdca7ed3b21fbc75e345a"/>
+	</machine>
+	<machine name="MAME (v0.130) - ikaruga">
+		<description>MAME (v0.130) - ikaruga</description>
+		<disk name="gdl-0010" md5="83f1877b979b0e5fd77ebfa1ddd9fd56" sha1="3b853be7208f523100690e12a661173d023af9c1"/>
+	</machine>
+	<machine name="MAME (v0.130) - initd">
+		<description>MAME (v0.130) - initd</description>
+		<disk name="gds-0020b" md5="b085005215e2766e0fc1e3bd16b2fd95" sha1="5f386183e856722fee4a6ddb0146350b73349181"/>
+	</machine>
+	<machine name="MAME (v0.130) - jdredd">
+		<description>MAME (v0.130) - jdredd</description>
+		<disk name="jdreddc" md5="b66074f3df1e90ec4e3ff09dcdf33033" sha1="83ed8df25d100b1c060f4dde2f162ba31803db7d"/>
+	</machine>
+	<machine name="MAME (v0.130) - jdreddb">
+		<description>MAME (v0.130) - jdreddb</description>
+		<disk name="jdreddb" md5="0da1d048d7223df74fca4f349473cefa" sha1="9b810e3a16de62cabfc8271b6606574c7034cf41"/>
+	</machine>
+	<machine name="MAME (v0.130) - jojo">
+		<description>MAME (v0.130) - jojo</description>
+		<disk name="cap-jjk-160" md5="93cc16f11a88c8f5268cb96baebc0a13" sha1="74fb14d838d98c3e10baa08e6f7b2464d840dcf0"/>
+	</machine>
+	<machine name="MAME (v0.130) - jojoa">
+		<description>MAME (v0.130) - jojoa</description>
+		<disk name="jjk000" md5="05440ecf90e836207a27a99c817a3328" sha1="d5a11315ac21e573ffe78e63602ec2cb420f361f"/>
+	</machine>
+	<machine name="MAME (v0.130) - jojoba">
+		<description>MAME (v0.130) - jojoba</description>
+		<disk name="jjm000" md5="bf6b90334bf1f6bd8dbfed737face2d6" sha1="688520bb83ccbf4b31c3bfe26bd0cc8292a8c558"/>
+	</machine>
+	<machine name="MAME (v0.130) - jpark3">
+		<description>MAME (v0.130) - jpark3</description>
+		<disk name="b41c02" md5="4909b6c4007cc24f8cc514aa0ea26170" sha1="386059033832c70063ff38363d473050162835e9"/>
+	</machine>
+	<machine name="MAME (v0.130) - kbm">
+		<description>MAME (v0.130) - kbm</description>
+		<disk name="974jaa02" md5="5cb0100791294559fedccc2a9a46fd86" sha1="8d78a91d98967a232c4b98628e2db25df0a7f8bd"/>
+		<disk name="974jac01" md5="cb68cf69e55aa33429f149f474e2c96e" sha1="18179bf23519d5b0c82c72e8f47dfaa4d2c4a3e2"/>
+	</machine>
+	<machine name="MAME (v0.130) - kbm2nd">
+		<description>MAME (v0.130) - kbm2nd</description>
+		<disk name="a01jaa01" md5="0eff2ca8ebef1fd8815d1d7cb0c2383a" sha1="87c21dc6b9fe8d9f696985cfd9dc14a23f0932fe"/>
+		<disk name="a01jaa02" md5="25679474e987d0dd83a0db2bad24bc14" sha1="fabfcc02f97c867c361df7b9539e6b77f369b73f"/>
+	</machine>
+	<machine name="MAME (v0.130) - kbm3rd">
+		<description>MAME (v0.130) - kbm3rd</description>
+		<disk name="a12jaa01" md5="130a11bd229d9c30bd6d9ffeaf94926e" sha1="6b595b17260b0ca17d04d7911616d5ff88158f26"/>
+		<disk name="a12jaa02" md5="10ff654cf3d9b833ecbe72a395e7bb60" sha1="4adddc8e028111169889bfb99007238da5f4d330"/>
+	</machine>
+	<machine name="MAME (v0.130) - kdeadeye">
+		<description>MAME (v0.130) - kdeadeye</description>
+		<disk name="kdeadeye" md5="5109d61ab8791a6d622499b51e613a8c" sha1="2b413a2a22e1959fb4f71b67ba51c6c8e0d58970"/>
+	</machine>
+	<machine name="MAME (v0.130) - kinst">
+		<description>MAME (v0.130) - kinst</description>
+		<disk name="kinst" md5="6d4c2f152c9a18ab3a9b05b8804306a8" sha1="a37a2c5e52ea936a715210d237874dd573bb002f"/>
+	</machine>
+	<machine name="MAME (v0.130) - kinst2">
+		<description>MAME (v0.130) - kinst2</description>
+		<disk name="kinst2" md5="2563b089b316f2c8636d78af661ac656" sha1="ab0242233d2eaf9d907abe246a54e09a8a2561a5"/>
+	</machine>
+	<machine name="MAME (v0.130) - konam80s">
+		<description>MAME (v0.130) - konam80s</description>
+		<disk name="826eaa01" md5="456f683c5d47dd73cfb73ce80b8a7351" sha1="452c94088ffefe42e61c978b48d425e7094a5af6" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - landhigh">
+		<description>MAME (v0.130) - landhigh</description>
+		<disk name="landhigh" md5="46e05e74f055548d1d981be152bacf9c" sha1="c6b417a546db4b82870f49aaa66c8aba74195972"/>
+	</machine>
+	<machine name="MAME (v0.130) - lasstixx">
+		<description>MAME (v0.130) - lasstixx</description>
+		<disk name="lasstixx" md5="6242dd8a3c0b15ef9eafb930b7a7e87f" sha1="29c2525d43a696da54648caffac9952cec85fd37"/>
+	</machine>
+	<machine name="MAME (v0.130) - lsrquiz">
+		<description>MAME (v0.130) - lsrquiz</description>
+		<disk name="lsrquiz" md5="12a94f573fe5d218db510166b86fdda5" sha1="4250c94ab77504104005229b28f24cfabe7c9e48"/>
+	</machine>
+	<machine name="MAME (v0.130) - lsrquiz2">
+		<description>MAME (v0.130) - lsrquiz2</description>
+		<disk name="lsrquiz2" md5="df63c32aca815f6c97889e08c10b77bc" sha1="ea92df0e53bf36bb86d99ad19fca21c6129e61d7"/>
+	</machine>
+	<machine name="MAME (v0.130) - mace">
+		<description>MAME (v0.130) - mace</description>
+		<disk name="mace" md5="668f6216114fe4c7c265b3d13398e71e" sha1="6761c9a3da1f0b6b82b146ff2debd04986b8f460"/>
+	</machine>
+	<machine name="MAME (v0.130) - macea">
+		<description>MAME (v0.130) - macea</description>
+		<disk name="macea" md5="276577faa5632eb23dc5a97c11c0a1b1" sha1="e2cce4ff2e15267b7008422252bdf62b188cf743" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - mach3">
+		<description>MAME (v0.130) - mach3</description>
+		<disk name="mach3" md5="591ba5ad458a051249eb4fcfa79e7c19" sha1="8e4ef0110832a7b7bf6dbeceb395682c1e7f8ed6"/>
+	</machine>
+	<machine name="MAME (v0.130) - maxforce">
+		<description>MAME (v0.130) - maxforce</description>
+		<disk name="maxforce" md5="b0a214c7b3f8ba9d592396332fc974c9" sha1="59d77280afdb2d1f801ee81786aa7d3166ec2695"/>
+	</machine>
+	<machine name="MAME (v0.130) - meltybld">
+		<description>MAME (v0.130) - meltybld</description>
+		<disk name="gdl-0028c" md5="b3318abacfea682605aaa24c756f225d" sha1="bbe95fd6bb39a33e979a0d9d8a63c0f2df1e9e96"/>
+	</machine>
+	<machine name="MAME (v0.130) - mfightc">
+		<description>MAME (v0.130) - mfightc</description>
+		<disk name="c09jad04" md5="a858ca8f04838e8b5b603ea12526016c" sha1="97e9b57c72787737c976cf9d7e997aee50befd53"/>
+	</machine>
+	<machine name="MAME (v0.130) - mfightcc">
+		<description>MAME (v0.130) - mfightcc</description>
+		<disk name="c09jac04" md5="3d502e1f9c8dbd7a9179ffd754a3de1b" sha1="d27f04cc25df9955c014b7b97f768324f8e47c5c"/>
+	</machine>
+	<machine name="MAME (v0.130) - mgprem11">
+		<description>MAME (v0.130) - mgprem11</description>
+		<disk name="mgprem11" md5="e0e4d00c6f981c19a1d20d5e7090b0db" sha1="a8a32d10148ba968b57b8186fdf4d4cd378fb0d5"/>
+	</machine>
+	<machine name="MAME (v0.130) - mocapb">
+		<description>MAME (v0.130) - mocapb</description>
+		<disk name="a29b02" md5="18f7070bbde3c3ca38d71425bdc074ab" sha1="167b4b9f0960503db37c22e81ce4149925c5ec71"/>
+	</machine>
+	<machine name="MAME (v0.130) - mocapbj">
+		<description>MAME (v0.130) - mocapbj</description>
+		<disk name="a29a02" md5="ba06338534dbad61071d39907a3aed85" sha1="8ab0b63f6e4d1401380a286736964f0cd668a70e"/>
+	</machine>
+	<machine name="MAME (v0.130) - mocapglf">
+		<description>MAME (v0.130) - mocapglf</description>
+		<disk name="b33a02" md5="5e7d62ab51dae4e9ace35d7e52b08b5d" sha1="a56df1917fb476cbacfe24f1a2f2cacc770eb80a"/>
+	</machine>
+	<machine name="MAME (v0.130) - nagano98">
+		<description>MAME (v0.130) - nagano98</description>
+		<disk name="nagano98" md5="cbedbd2953b70f214e72179b2cc0dcd8" sha1="21d14864cdd34c6e052f3577f8d805dce49fcab6"/>
+	</machine>
+	<machine name="MAME (v0.130) - nbanfl">
+		<description>MAME (v0.130) - nbanfl</description>
+		<disk name="nbanfl" md5="9e3748957c672f6d7a1e464546f46b15" sha1="4256c7487a55fd0d0e4241f595cc886d4402fd7d"/>
+	</machine>
+	<machine name="MAME (v0.130) - nbashowt">
+		<description>MAME (v0.130) - nbashowt</description>
+		<disk name="nbashowt" md5="2dab719f8f0fdeb8ac1db3844ed8c1e4" sha1="bf60b8f74647dc911f78f364a72ef0301ae0167a"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911">
+		<description>MAME (v0.130) - p911</description>
+		<disk name="a00aad02" md5="894ec7584841d7e1775e76edc53e739e" sha1="2fc73fdaf9bc9ab6942672458206517bf8d851e1"/>
+	</machine>
+	<machine name="MAME (v0.130) - p9112">
+		<description>MAME (v0.130) - p9112</description>
+		<disk name="b11a02" md5="7ddf6139577bce2062b2f9a9ac99e56a" sha1="56d9c47f3c7fceb2d8c36a8fa205c90595923c6f"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911e">
+		<description>MAME (v0.130) - p911e</description>
+		<disk name="a00eaa02" md5="5c870c38a408591e080516ae6a5f28e5" sha1="8ff93666c33c7ee3ac2e4eeca9077c8296036187"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911j">
+		<description>MAME (v0.130) - p911j</description>
+		<disk name="a00jac02" md5="6c4b7c934159a54c93d5aa386e44969a" sha1="80217103ad96b06855a57763c702140cbe4a2494"/>
+	</machine>
+	<machine name="MAME (v0.130) - p911uc">
+		<description>MAME (v0.130) - p911uc</description>
+		<disk name="a00aac02" md5="c1d1a18932490c9d6185d0c3b55b50cf" sha1="5cbdfce13ce2cb5c45ea66e20e092d5a5fe69c5d"/>
+	</machine>
+	<machine name="MAME (v0.130) - pbball96">
+		<description>MAME (v0.130) - pbball96</description>
+		<disk name="pbball96" md5="5962a38e2af6299659f53613956cd9ed" sha1="a056138fc68bd1580b1de89b622b159150413a3f"/>
+	</machine>
+	<machine name="MAME (v0.130) - pbballex">
+		<description>MAME (v0.130) - pbballex</description>
+		<disk name="802jab02" md5="52bb53327ba48f87dcb030d5e50fe94f" sha1="67ddce1ad7e436c18e08d5a8c77f3259dbf30572"/>
+	</machine>
+	<machine name="MAME (v0.130) - pcnfrk3m">
+		<description>MAME (v0.130) - pcnfrk3m</description>
+		<disk name="a23kaa02" md5="26a270851944d86d0b00db5a302de5ce" sha1="5feaedf614c68932accc441f77c05c7bce67b2f3"/>
+	</machine>
+	<machine name="MAME (v0.130) - polystar">
+		<description>MAME (v0.130) - polystar</description>
+		<disk name="623jaa02" md5="6071c1b70c190fa7c50676eb5308e024" sha1="a7dc6086d0244b5472f61b41992623c7a9dc2e9c"/>
+	</machine>
+	<machine name="MAME (v0.130) - popn7">
+		<description>MAME (v0.130) - popn7</description>
+		<disk name="b00jaa02" md5="cf4c4f7c2321fcca6d86e8c144261752" sha1="fea9439f14304d865830fb34f8781346d95a1df7"/>
+		<disk name="b00jab01" md5="af9a249b23783d53ff27ea7dc7e6735c" sha1="7462586f67b5c3b015ac581ad0afc089fcd6f537"/>
+	</machine>
+	<machine name="MAME (v0.130) - popn9">
+		<description>MAME (v0.130) - popn9</description>
+		<disk name="c00jab" md5="f16cfaae05d29fdeeb7289265bf45712" sha1="fd5b374731975e956b6e4e7102bc8350bfd8b5f4"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppd">
+		<description>MAME (v0.130) - ppd</description>
+		<disk name="977kaa01" md5="f499cb458d823200dc96fe9cef5c08c8" sha1="7069c1e42bf994ccdfcf6ff0dda9c5de94f1cc65"/>
+		<disk name="977kaa02" md5="b58978a81931058fe28825b6147b1bed" sha1="45d5cda77f789351260bbd6f9c47a5fa93998133"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppp">
+		<description>MAME (v0.130) - ppp</description>
+		<disk name="977jaa01" md5="9abc766b72dab28db920f3d264fc2254" sha1="05bce40c3b241cd1f634d6688ec179a86f57da9f"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppp11">
+		<description>MAME (v0.130) - ppp11</description>
+		<disk name="gc977jaa01" md5="161ab0096d8def5ef133eec872afc645" sha1="aa43526971dad6502e4b9583d8f5c18d93ced820"/>
+		<disk name="gc977jaa02" md5="9cb7cb79d2f0a47e994cfb91847ca190" sha1="4a0edf424e091c33db91b00edf7c7246754cc8bb"/>
+	</machine>
+	<machine name="MAME (v0.130) - ppp2nd">
+		<description>MAME (v0.130) - ppp2nd</description>
+		<disk name="ppp2nd" md5="06012243d4b64ebd9b81e9781fb5624d" sha1="54b45e2df3f4239191000900181a94227a351c67"/>
+	</machine>
+	<machine name="MAME (v0.130) - primrag2">
+		<description>MAME (v0.130) - primrag2</description>
+		<disk name="primrag2" md5="618a56ce62a5f7a94a7781b994a201e4" sha1="d79b2dad16fbdb174bcd34eb70025a53ebdb0e51"/>
+	</machine>
+	<machine name="MAME (v0.130) - psattack">
+		<description>MAME (v0.130) - psattack</description>
+		<disk name="psattack" md5="880d79cffca06cd71e7e29746dd83970" sha1="5faa2525b159d3107d516e1d73a24bf689ffac92"/>
+	</machine>
+	<machine name="MAME (v0.130) - qdrmfgp">
+		<description>MAME (v0.130) - qdrmfgp</description>
+		<disk name="gq460a08" md5="b79eebad38782e6713ab0bd7560817a2" sha1="0cae7769fbb603d3c3e3627dde84a6c5a9b1062d"/>
+	</machine>
+	<machine name="MAME (v0.130) - qdrmfgp2">
+		<description>MAME (v0.130) - qdrmfgp2</description>
+		<disk name="ge557a09" md5="df5039dc4e9dbb1f02ec408d839a42db" sha1="5e836dbace34c9c1b107cce6a50071a4205a1534"/>
+	</machine>
+	<machine name="MAME (v0.130) - queen">
+		<description>MAME (v0.130) - queen</description>
+		<disk name="pqiidediskonmodule" md5="fffff5010746e9e49b2f3d55ac9ffcb8" sha1="9134791a72c2218ddfd0e575e4c06743a02d0edc"/>
+	</machine>
+	<machine name="MAME (v0.130) - quizqgd">
+		<description>MAME (v0.130) - quizqgd</description>
+		<disk name="gdl-0017" md5="af4be08bf65cbddf2177ccf838c0df20" sha1="b6f3fbc81d9aea18551134b93ba3b612254bbc43"/>
+	</machine>
+	<machine name="MAME (v0.130) - redearth">
+		<description>MAME (v0.130) - redearth</description>
+		<disk name="wzd000" md5="028ff12a4ce34118dd0091e87c8cdd08" sha1="6d4e6b7fff4ff3f04e349479fa5a1cbe63e673b8"/>
+	</machine>
+	<machine name="MAME (v0.130) - roadburn">
+		<description>MAME (v0.130) - roadburn</description>
+		<disk name="roadburn" md5="ce4710671f4266389e7d71f1fc0da81d" sha1="1c971c9ed573d178d9f318ccd88d305d8146de2d"/>
+	</machine>
+	<machine name="MAME (v0.130) - salarymc">
+		<description>MAME (v0.130) - salarymc</description>
+		<disk name="a18ja" md5="51d6cd5e34b6ee5601d8519a50be5cdc" sha1="364a927a45ff83ee3cac66637359d6cfb44ea2fc" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.130) - senko">
+		<description>MAME (v0.130) - senko</description>
+		<disk name="gdl-0030a" md5="12885cd794d8a5a839699aef4769b2dd" sha1="bb9727f69f7e5452e09b151c1198d006a81aeb0e"/>
+	</machine>
+	<machine name="MAME (v0.130) - sf2049">
+		<description>MAME (v0.130) - sf2049</description>
+		<disk name="sf2049" md5="2f56375670c0f72b69c1b5ec6a54ba70" sha1="e08d026ab2745cac6b8c820f010b28dffd5388dd"/>
+	</machine>
+	<machine name="MAME (v0.130) - sf2049se">
+		<description>MAME (v0.130) - sf2049se</description>
+		<disk name="sf2049se" md5="3ea8c0f8394cb73e96176b1a70c03219" sha1="b195f98756d9d7cde71b6467409faed33134a2d7"/>
+	</machine>
+	<machine name="MAME (v0.130) - sf2049te">
+		<description>MAME (v0.130) - sf2049te</description>
+		<disk name="sf2049te" md5="476abcfbeb0d2817cb38ca36e78cddc6" sha1="c01972f1b642f013d760f29f1e2ed7dcf78896c4"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii">
+		<description>MAME (v0.130) - sfiii</description>
+		<disk name="sf3000" md5="cdc5c5423bd8c053de7cdd927dc60da7" sha1="cc72c9eb2096f4d51f2cf6df18f29fd79d05067c"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii2">
+		<description>MAME (v0.130) - sfiii2</description>
+		<disk name="3ga000" md5="941c7e8d0838db9880ea7bf169ad310d" sha1="76e9fdef020c4b85a10aa8828a63e67c7dca22bd"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii3">
+		<description>MAME (v0.130) - sfiii3</description>
+		<disk name="cap-33s-2" md5="cf63f3dbcc2653b95709133fe79c7225" sha1="24e78b8c66fb1573ffd642ee51607f3b53ed40b7"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfiii3a">
+		<description>MAME (v0.130) - sfiii3a</description>
+		<disk name="33s000" md5="f159ad85cc94ced3ddb9ef5e92173a9f" sha1="47c7ae0f2dc47c7d28bdf66d378a3aaba4c99c75"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfish2">
+		<description>MAME (v0.130) - sfish2</description>
+		<disk name="sfish2" md5="3c95f7e19c5475d0ffa0d89cc45a36e5" sha1="d07e0aa09a0858b308cc2218996b2242885a2609"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfrush">
+		<description>MAME (v0.130) - sfrush</description>
+		<disk name="sfrush" md5="7a77addb141fc11fd5ca63850382e0d1" sha1="0e5805e255e91f08c9802a04b42056d61ba5eb41"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfrushrk">
+		<description>MAME (v0.130) - sfrushrk</description>
+		<disk name="sfrushrk" md5="425c83a4fd389d820aceabf2c72e6107" sha1="75aba7be869996ff522163466c97f88f78904fe0"/>
+	</machine>
+	<machine name="MAME (v0.130) - sfz3ugd">
+		<description>MAME (v0.130) - sfz3ugd</description>
+		<disk name="gdl-0002" md5="6340b2527673a8cf387dcda52ecae0ca" sha1="6e7cb0df5feea41ae0b5eb72a92adcd8966595dc"/>
+	</machine>
+	<machine name="MAME (v0.130) - shikgam2">
+		<description>MAME (v0.130) - shikgam2</description>
+		<disk name="gdl-0021" md5="ba448900dd5cbc9f1f75f285f5d72231" sha1="ca6a9f78b2f6b18be3fb926ebcd20c2e90923882"/>
+	</machine>
+	<machine name="MAME (v0.130) - simpbowl">
+		<description>MAME (v0.130) - simpbowl</description>
+		<disk name="simpbowl" md5="47702fc060f3f1fbb2dba84ea3544a4a" sha1="791ce11b0645fd5c3f5b30483bad879f26bb97db"/>
+	</machine>
+	<machine name="MAME (v0.130) - slashout">
+		<description>MAME (v0.130) - slashout</description>
+		<disk name="gds-0004" md5="f5228f26e661ab0cb67414f51fe1a5bc" sha1="ec1758f5ae359bcb3c66c7ce9ebcb7443c4fd967"/>
+	</machine>
+	<machine name="MAME (v0.130) - sogeki">
+		<description>MAME (v0.130) - sogeki</description>
+		<disk name="a13b02" md5="b476764d13ebf3fc3ec52e1fc2b36f96" sha1="16965f5f164f4f8191e93274f8c99d84def15c70"/>
+	</machine>
+	<machine name="MAME (v0.130) - spkrbtl">
+		<description>MAME (v0.130) - spkrbtl</description>
+		<disk name="gds-0005" md5="a8a05ce6ab7d9ea67e015cd4853a5b80" sha1="ca6e7ed2e161acad8600898e1b83aded9bb31d3b"/>
+	</machine>
+	<machine name="MAME (v0.130) - sprtjam">
+		<description>MAME (v0.130) - sprtjam</description>
+		<disk name="gds-0003" md5="3a8d3cbc4067f9b5f50be9b9abdc689b" sha1="bfabb0da1d4f0422e0b62d8a7bb67dbcdb0d5954"/>
+	</machine>
+	<machine name="MAME (v0.130) - ss2005">
+		<description>MAME (v0.130) - ss2005</description>
+		<disk name="gdl-0031a" md5="1a83930f2083397868172745d3ab2926" sha1="09a47ce506b9696d7bdf4d7c95aa3182cc0d9efa"/>
+	</machine>
+	<machine name="MAME (v0.130) - sscopex">
+		<description>MAME (v0.130) - sscopex</description>
+		<disk name="gka13c02" md5="994ced1f61dfe5ea10eac4b407359392" sha1="179145b0e98c2ab5a7fc5c93cbc0c5398f961f65"/>
+	</machine>
+	<machine name="MAME (v0.130) - susume">
+		<description>MAME (v0.130) - susume</description>
+		<disk name="gv027j1" md5="4443754686d399c3ad12349ac2565f94" sha1="36676b7bd63e20ce6126280a3f7a3e3ea0a4b8c0"/>
+	</machine>
+	<machine name="MAME (v0.130) - tenthdeg">
+		<description>MAME (v0.130) - tenthdeg</description>
+		<disk name="tenthdeg" md5="be653883b640f540945e9c8ab8f72463" sha1="5ba31d22c0fa29897b45e01c4f1afed8b906f500"/>
+	</machine>
+	<machine name="MAME (v0.130) - thrild2">
+		<description>MAME (v0.130) - thrild2</description>
+		<disk name="gma41b02" md5="a3c39be28464fa737390e2e1e2aeb683" sha1="0a451e33f5a6b708a54b70cc247e4d49ada0025a"/>
+	</machine>
+	<machine name="MAME (v0.130) - thrild2a">
+		<description>MAME (v0.130) - thrild2a</description>
+		<disk name="gma41a02" md5="e73843d28afaef6c6af2513b6cf064e6" sha1="abdaba1f539cf5d723fa51e939c0ffcbf5cdf28f"/>
+	</machine>
+	<machine name="MAME (v0.130) - tokimosh">
+		<description>MAME (v0.130) - tokimosh</description>
+		<disk name="755jaa01" md5="221a0e871de10b50947c8fcd8820eafa" sha1="d633937885b6f7c1615a9aa97f79cfc1f817c955"/>
+	</machine>
+	<machine name="MAME (v0.130) - tokimosp">
+		<description>MAME (v0.130) - tokimosp</description>
+		<disk name="756jab01" md5="3c814208a8d9aafdb4989369f4222dba" sha1="3766e0750484cd5d9da0c570aee4639300da5399"/>
+	</machine>
+	<machine name="MAME (v0.130) - totlvice">
+		<description>MAME (v0.130) - totlvice</description>
+		<disk name="639jad01" md5="bc3156be374e7a99040763bf0cea7ad3" sha1="c4503d9954c72dd8f70521f313f0338528116c26"/>
+	</machine>
+	<machine name="MAME (v0.130) - tsurugi">
+		<description>MAME (v0.130) - tsurugi</description>
+		<disk name="a30eab02" md5="81593f4d5a10f7dea124bef0b02d15e6" sha1="2202d8f8fa7cc752d4ebae16eac6818a5de06b98"/>
+	</machine>
+	<machine name="MAME (v0.130) - tsurugij">
+		<description>MAME (v0.130) - tsurugij</description>
+		<disk name="a30jac02" md5="c7400ccdb4b045bbf2de4fa9d63a9e87" sha1="64cc19941c2f3b39cbbe158042f3b312a678752d"/>
+	</machine>
+	<machine name="MAME (v0.130) - usvsthem">
+		<description>MAME (v0.130) - usvsthem</description>
+		<disk name="usvsthem" md5="e19bd2f819de35222a41ef676a8add98" sha1="2018dd0dce6df51a83c9300f04c43c114341d52a"/>
+	</machine>
+	<machine name="MAME (v0.130) - vaportrp">
+		<description>MAME (v0.130) - vaportrp</description>
+		<disk name="vaportrp" md5="fac4d37e049bc649696f4834044860e6" sha1="75e2eaf81c69d2a337736dbead804ac339fd0675"/>
+	</machine>
+	<machine name="MAME (v0.130) - vaportrx">
+		<description>MAME (v0.130) - vaportrx</description>
+		<disk name="vaportrx" md5="eb8dcf83fe8b7122481d24ad8fbc8a9a" sha1="f6ddb8eb66d979d49799e39fa4d749636693a1b0"/>
+	</machine>
+	<machine name="MAME (v0.130) - vathlete">
+		<description>MAME (v0.130) - vathlete</description>
+		<disk name="gds-0019" md5="67499591f2c61cda14fa581db9294315" sha1="2167bbdde987c16949c5814ab7cff6eefd9f9326"/>
+	</machine>
+	<machine name="MAME (v0.130) - vcircle">
+		<description>MAME (v0.130) - vcircle</description>
+		<disk name="vcircle" md5="fc316bd92363573d60083514223c6816" sha1="f1d3e3d081d10ec42d07cd695d52b44812264983"/>
+	</machine>
+	<machine name="MAME (v0.130) - vf4">
+		<description>MAME (v0.130) - vf4</description>
+		<disk name="gds-0012" md5="5a18300646a68f2994ed8c81abe9bdd8" sha1="d68436ee72ea5db40e184b7ff38903a9cadb6df7"/>
+	</machine>
+	<machine name="MAME (v0.130) - vstrik3">
+		<description>MAME (v0.130) - vstrik3</description>
+		<disk name="gds-0006" md5="060d9fef55d8f0fc1986ecc991478942" sha1="293b84c7f4547060f57598b796b6fc49513cc839"/>
+	</machine>
+	<machine name="MAME (v0.130) - warfa">
+		<description>MAME (v0.130) - warfa</description>
+		<disk name="warfa" md5="01035f301d84d665f7c4bf7e3554c516" sha1="9ce1d4a3115329b9b6fb6482b11b22b52a7fef79"/>
+	</machine>
+	<machine name="MAME (v0.130) - wargods">
+		<description>MAME (v0.130) - wargods</description>
+		<disk name="wargods" md5="9a41ae319a67fc626377b6d9ea34c860" sha1="4b02f8f33027a0e7b2c750c10da1fe22222b3e1e"/>
+	</machine>
+	<machine name="MAME (v0.130) - wcombaj">
+		<description>MAME (v0.130) - wcombaj</description>
+		<disk name="c22a02" md5="0df54ceaa46c00e9b849af4bea6df1eb" sha1="63ba75403ff714b2169f3c2e8ae3246a035da2d3"/>
+	</machine>
+	<machine name="MAME (v0.130) - wcombak">
+		<description>MAME (v0.130) - wcombak</description>
+		<disk name="c22c02" md5="e108a01a0a3ada065f42b0b4b16a4480" sha1="6caff33b9b22fc56a619d58cfb8fb5aca2ecd289"/>
+	</machine>
+	<machine name="MAME (v0.130) - wcombat">
+		<description>MAME (v0.130) - wcombat</description>
+		<disk name="c22d02" md5="f3b63ac0b2f613c9183356e7cf966ba6" sha1="f7a6e8eba877f213075bd4836a62a898f17a27dc"/>
+	</machine>
+	<machine name="MAME (v0.130) - weddingr">
+		<description>MAME (v0.130) - weddingr</description>
+		<disk name="weddingr" md5="cacc28156b037e13098f3624ae92ab85" sha1="e6481c367ad24aa285e51c01221a169b1b74b15f"/>
+	</machine>
+	<machine name="MAME (v0.130) - wg3dh">
+		<description>MAME (v0.130) - wg3dh</description>
+		<disk name="wg3dh" md5="424dbda376e8c45ec873b79194bdb924" sha1="c12875036487a9324734012e601d1f234d2e783e"/>
+	</machine>
+	<machine name="MAME (v0.130) - wsbbgd">
+		<description>MAME (v0.130) - wsbbgd</description>
+		<disk name="gds-0010" md5="bfb8c5ead5ac9e2a82bca9114390a99f" sha1="8ce36c9710a8d55e8c19d7f218500b7074b66dec"/>
+	</machine>
+	<machine name="MAME (v0.130) - xtrial">
+		<description>MAME (v0.130) - xtrial</description>
+		<disk name="b4xb02" md5="c915e4946231fee8d3df00d5be08c177" sha1="8631efafc19cc34ab8fbee2ed912d35de1f8b161"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - cvs2gd">
+		<description>MAME (v0.130u1) - cvs2gd</description>
+		<disk name="gdl-0007a" sha1="d6da7a404e5f22df6d4bb049143391cf4505c492"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - nightrai">
+		<description>MAME (v0.130u1) - nightrai</description>
+		<disk name="nightrai" sha1="7a4d62018fd19ccbdec12b6d24052d49f8a8359e"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - psyvaria">
+		<description>MAME (v0.130u1) - psyvaria</description>
+		<disk name="psyvaria" sha1="a80e164c09d795085b65659d1df60710530549c3"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - psyvarrv">
+		<description>MAME (v0.130u1) - psyvarrv</description>
+		<disk name="psyvarrv" sha1="c12f0d5cbb6ec7f906e3dcdc3047c22de36457a5"/>
+	</machine>
+	<machine name="MAME (v0.130u1) - xiistag">
+		<description>MAME (v0.130u1) - xiistag</description>
+		<disk name="xiistag" sha1="8e0b2ee88edf0b45b3b4063d65eae236c12ee8ff"/>
+	</machine>
+	<machine name="MAME (v0.131u2) - psattack">
+		<description>MAME (v0.131u2) - psattack</description>
+		<disk name="psattack" sha1="c2ed467c73d46aacff7a740e2e5aada4be204750"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx4">
+		<description>MAME (v0.131u3) - bmiidx4</description>
+		<disk name="a03jaa01" md5="dccbe0158236453c27a9768d185ee275" sha1="ee0f5989ed2bec3d174150a072e188bc10c15dcb" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx6">
+		<description>MAME (v0.131u3) - bmiidx6</description>
+		<disk name="b4ujaa01" md5="c9397ff1399b268ceac98732e4d7b16d" sha1="1e723c74fd93140881c00c5af402249e0a8b3f2f" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx7">
+		<description>MAME (v0.131u3) - bmiidx7</description>
+		<disk name="b44jaa01" md5="3078c73d050bb6a513b329f3844e1208" sha1="5910e557816ced2c5162c5458b5ccf6f8e6839f0" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidx8">
+		<description>MAME (v0.131u3) - bmiidx8</description>
+		<disk name="c44jaa01" md5="43ae8f40ba8974d7d135e83c8e09112a" sha1="b116775e47c7d5e2578b92811dccdc84f1cafe43" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidxc">
+		<description>MAME (v0.131u3) - bmiidxc</description>
+		<disk name="896jaabm" md5="f842277762e330d500fa3eb6755c1547" sha1="965772160177df43ce7a94f0e12d8cf676e57228"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidxc2">
+		<description>MAME (v0.131u3) - bmiidxc2</description>
+		<disk name="984a01bm" md5="61ada5db9fcbfa01971c5f06253ab5e1" sha1="98d5e120d0cd08e8598bfde75b16ba62bf67a15b"/>
+	</machine>
+	<machine name="MAME (v0.131u3) - bmiidxca">
+		<description>MAME (v0.131u3) - bmiidxca</description>
+		<disk name="896jabbm" md5="46f8bd83e8fbe527f6e4512804b2ce1e" sha1="b7fcf3e6b9c1cebedacbc65c77aa3509c66984a9"/>
+	</machine>
+	<machine name="MAME (v0.132u2) - drmn2m">
+		<description>MAME (v0.132u2) - drmn2m</description>
+		<disk name="912jab" sha1="294d2b70d48f888704ad24e47ef9c122172941d5" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.132u2) - drmn2mpu">
+		<description>MAME (v0.132u2) - drmn2mpu</description>
+		<disk name="912za01" sha1="916c34b91a984f3f6e7248088b3b946e3d5682a6" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.132u3) - p911uc">
+		<description>MAME (v0.132u3) - p911uc</description>
+		<disk name="a00aac02" sha1="dc665581d854cb7f69621927beff145676926af7"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - boxingm">
+		<description>MAME (v0.132u4) - boxingm</description>
+		<disk name="a45jaa02" sha1="3aaf9bc713c9ea8922d8f8acfeab5b4bdf058f41"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - code1d">
+		<description>MAME (v0.132u4) - code1d</description>
+		<disk name="gk922d02" sha1="99b199e061621ecdd48ca125250c52656c814f38"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - code1db">
+		<description>MAME (v0.132u4) - code1db</description>
+		<disk name="gk922b02" sha1="d1ecbfe3c76ba482638982879c96874537b89995"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - gticlub2">
+		<description>MAME (v0.132u4) - gticlub2</description>
+		<disk name="gm941b02" sha1="5f7e023d2ed0df5fa6876ac086864ffd69e9aa5a"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - jpark3">
+		<description>MAME (v0.132u4) - jpark3</description>
+		<disk name="b41c02" sha1="ad7c42b06b9a75c2d28a2368387fe55fbec36a70"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mfightc">
+		<description>MAME (v0.132u4) - mfightc</description>
+		<disk name="c09jad04" sha1="d81930829619bb95fa718c591be1ecb4a54d2af5"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mfightcc">
+		<description>MAME (v0.132u4) - mfightcc</description>
+		<disk name="c09jac04" sha1="9c6177b9f38a23ee0d1614622bd9e576fd8a446f"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mocapb">
+		<description>MAME (v0.132u4) - mocapb</description>
+		<disk name="a29b02" sha1="017d2fb91dbef4ade0e3a02ee046b18e3d741f23"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mocapbj">
+		<description>MAME (v0.132u4) - mocapbj</description>
+		<disk name="a29a02" sha1="900899cd0e5adc1fe28382b22f25a3ee447e7986"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - mocapglf">
+		<description>MAME (v0.132u4) - mocapglf</description>
+		<disk name="b33a02" sha1="6c52cd8d52a5282c1650ee5aac088b293915d32c"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p911">
+		<description>MAME (v0.132u4) - p911</description>
+		<disk name="a00aad02" sha1="c9b92bd53e62cc83c30db32d6cf329273af4ca8d"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p9112">
+		<description>MAME (v0.132u4) - p9112</description>
+		<disk name="b11a02" sha1="412dfdf065fa2bf59256a1ec84c7c130a0182069"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p911e">
+		<description>MAME (v0.132u4) - p911e</description>
+		<disk name="a00eaa02" sha1="9763c4c05da9dae0b9abe3ee979773443102dd19"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - p911j">
+		<description>MAME (v0.132u4) - p911j</description>
+		<disk name="a00jac02" sha1="24ba15af85342eb30951e9aa74049a1127f30d7d"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - sogeki">
+		<description>MAME (v0.132u4) - sogeki</description>
+		<disk name="a13b02" sha1="d518111819cde7f78de8d4702a04f93871da4f8d"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - sscopex">
+		<description>MAME (v0.132u4) - sscopex</description>
+		<disk name="gka13c02" sha1="53ae5cd4ff38581816502b0fe7d0fcf1b6364a93"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - thrild2">
+		<description>MAME (v0.132u4) - thrild2</description>
+		<disk name="gma41b02" sha1="03b59d2662b8e37228450acb075b46e96191681e"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - thrild2a">
+		<description>MAME (v0.132u4) - thrild2a</description>
+		<disk name="gma41a02" sha1="6c7d31bddd79c61785aea8bbbd5170885a1002d8"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - tsurugi">
+		<description>MAME (v0.132u4) - tsurugi</description>
+		<disk name="a30eab02" sha1="b6b3dbcf52ea5da54ccc5e14c08174eef4d02c30"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - tsurugij">
+		<description>MAME (v0.132u4) - tsurugij</description>
+		<disk name="a30jac02" sha1="62a6d8572fa65c62c70e41ade51aac4269da2081"/>
+	</machine>
+	<machine name="MAME (v0.132u4) - xtrial">
+		<description>MAME (v0.132u4) - xtrial</description>
+		<disk name="b4xb02" sha1="27be96c5ea534d51b2e6d052e98c30e5848e572c"/>
+	</machine>
+	<machine name="MAME (v0.133u4) - bmclubmx">
+		<description>MAME (v0.133u4) - bmclubmx</description>
+		<disk name="993hdda01" sha1="34a94b499adc3c09a18bc2cb98291591ed4fc757"/>
+	</machine>
+	<machine name="MAME (v0.133u4) - popn2">
+		<description>MAME (v0.133u4) - popn2</description>
+		<disk name="831jhdda01" sha1="24734177a517898ad5797ffd6974a45b073efc23"/>
+	</machine>
+	<machine name="MAME (v0.141u2) - gtrfrks">
+		<description>MAME (v0.141u2) - gtrfrks</description>
+		<disk name="886ea" sha1="c0118b5539902e75853403a4979869d18c3d1b86" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.141u2) - salarymc">
+		<description>MAME (v0.141u2) - salarymc</description>
+		<disk name="a18ja" sha1="bb147b9a4871f1ddd108e3e503479221d87ec545" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.142u6) - specfrce">
+		<description>MAME (v0.142u6) - specfrce</description>
+		<disk name="sf010101" sha1="2fc4e02d08163d8ed28b00f590240d550eaa6015"/>
+	</machine>
+	<machine name="MAME (v0.144u3) - calchase">
+		<description>MAME (v0.144u3) - calchase</description>
+		<disk name="calchase" sha1="487e304ffeed23ca618fa936258136605ce9d1a1"/>
+	</machine>
+	<machine name="MAME (v0.145) - a51site4">
+		<description>MAME (v0.145) - a51site4</description>
+		<disk name="a51site4" sha1="48496666d1613700ae9274f9a5361ea5bbaebea0"/>
+	</machine>
+	<machine name="MAME (v0.145) - alien">
+		<description>MAME (v0.145) - alien</description>
+		<disk name="alien" sha1="0328f12765db41a9ef5c8bfb88d4983345093072"/>
+	</machine>
+	<machine name="MAME (v0.145) - arctthnd">
+		<description>MAME (v0.145) - arctthnd</description>
+		<disk name="arctthnd" sha1="f4373e57c3f453ac09c735b5d8d99ff811416a23"/>
+	</machine>
+	<machine name="MAME (v0.145) - arctthndult">
+		<description>MAME (v0.145) - arctthndult</description>
+		<disk name="uarctict" sha1="8557a1d7ae8dc41c879350cb1c228f4c27a0dd09"/>
+	</machine>
+	<machine name="MAME (v0.145) - area51">
+		<description>MAME (v0.145) - area51</description>
+		<disk name="area51" sha1="3b303bc37e206a6d7339352c869f050d04186f11"/>
+	</machine>
+	<machine name="MAME (v0.145) - area51mx">
+		<description>MAME (v0.145) - area51mx</description>
+		<disk name="area51mx" sha1="5ff10f4e87094d4449eabf3de7549564ca568c7e"/>
+	</machine>
+	<machine name="MAME (v0.145) - area51t">
+		<description>MAME (v0.145) - area51t</description>
+		<disk name="area51t" sha1="d2865cc7b1bb08a4393a72013a90e18d8a8f9860"/>
+	</machine>
+	<machine name="MAME (v0.145) - atronic">
+		<description>MAME (v0.145) - atronic</description>
+		<disk name="atronic" sha1="3335e9f8f67f1b176e043f078456d2b13178b7ef"/>
+	</machine>
+	<machine name="MAME (v0.145) - bam2">
+		<description>MAME (v0.145) - bam2</description>
+		<disk name="bam2" sha1="634d9a745a82c567fc4d7ce48e3570d88326c5f9"/>
+	</machine>
+	<machine name="MAME (v0.145) - batlgear">
+		<description>MAME (v0.145) - batlgear</description>
+		<disk name="batlgear" sha1="eab283839ad3e0a3e6be11f6482570db334eacca"/>
+	</machine>
+	<machine name="MAME (v0.145) - batlgr2">
+		<description>MAME (v0.145) - batlgr2</description>
+		<disk name="bg2_204j" sha1="7ac100fba39ae0b93980c0af2f0212a731106912"/>
+	</machine>
+	<machine name="MAME (v0.145) - bikiniko">
+		<description>MAME (v0.145) - bikiniko</description>
+		<disk name="bikiniko" sha1="2189b676746dd848b9b5eb69f9663d6dccd63787"/>
+	</machine>
+	<machine name="MAME (v0.145) - biofreak">
+		<description>MAME (v0.145) - biofreak</description>
+		<disk name="biofreak" sha1="711241642f92ded8eaf20c418ea748989183fe10"/>
+	</machine>
+	<machine name="MAME (v0.145) - blitz">
+		<description>MAME (v0.145) - blitz</description>
+		<disk name="blitz" sha1="9131c7888e89b3c172780156ed3fe1fe46f78b0a"/>
+	</machine>
+	<machine name="MAME (v0.145) - blitz2k">
+		<description>MAME (v0.145) - blitz2k</description>
+		<disk name="blitz2k" sha1="e89b7fbd4b4a9854d47ae97493e0afffbd1f69e7"/>
+	</machine>
+	<machine name="MAME (v0.145) - blitz99">
+		<description>MAME (v0.145) - blitz99</description>
+		<disk name="blitz99" sha1="19877e26ffce81dd525031e9e2b4f83ff982e2d9"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm1stmix">
+		<description>MAME (v0.145) - bm1stmix</description>
+		<disk name="753jaa11" sha1="2e70cf31a853322f29f99b6f292c187a2cf33015"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm2ndmix">
+		<description>MAME (v0.145) - bm2ndmix</description>
+		<disk name="853jaa11" sha1="9683ff8462491252b6eb2e5b3aa6496884c01506"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm3rdmix">
+		<description>MAME (v0.145) - bm3rdmix</description>
+		<disk name="825jaa11" sha1="048919977232bbce046406a7212586cf39b77cf2"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm4thmix">
+		<description>MAME (v0.145) - bm4thmix</description>
+		<disk name="847jaa11" sha1="8cad631531b5616d6a4b0a99d988f4b525932dc7"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm5thmix">
+		<description>MAME (v0.145) - bm5thmix</description>
+		<disk name="981jaa11" sha1="dc7353fa436d96ae174a58d3a38ca9928a63727f"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm6thmix">
+		<description>MAME (v0.145) - bm6thmix</description>
+		<disk name="a21jaa11" sha1="ed0a07212a360e75934fc22c56265842cf0829b6"/>
+	</machine>
+	<machine name="MAME (v0.145) - bm7thmix">
+		<description>MAME (v0.145) - bm7thmix</description>
+		<disk name="b07jaa11" sha1="e4925494f0a801abb4d3aa6524c379eb445d8dff"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmclubmx">
+		<description>MAME (v0.145) - bmclubmx</description>
+		<disk name="993hdda01" sha1="f5d4df1dd27ce6ee2d0897852342691d55b63bfb"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmcompm2">
+		<description>MAME (v0.145) - bmcompm2</description>
+		<disk name="988jaa11" sha1="12a0988c631dd3331e54b8417a9659402afe168b"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmcompmx">
+		<description>MAME (v0.145) - bmcompmx</description>
+		<disk name="858jaa11" sha1="bc590472046336a1000f29901fe3fd7b29747e47"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmcorerm">
+		<description>MAME (v0.145) - bmcorerm</description>
+		<disk name="a05jaa11" sha1="7ebc41cc3e9a0a922b49201b34e29201522eb726"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmdct">
+		<description>MAME (v0.145) - bmdct</description>
+		<disk name="995jaa11" sha1="8fec3c4d97f64f48b9867230a97cda4347496075"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmfinal">
+		<description>MAME (v0.145) - bmfinal</description>
+		<disk name="c01jaa11" sha1="0a53c4412a72a886f5fb98c12c529d056d625244"/>
+	</machine>
+	<machine name="MAME (v0.145) - bmiidx">
+		<description>MAME (v0.145) - bmiidx</description>
+		<disk name="c44jaa03" sha1="53e9bd25d1674a04aeec81c0224b4e4e44af802a"/>
+	</machine>
+	<machine name="MAME (v0.145) - bntyhunt">
+		<description>MAME (v0.145) - bntyhunt</description>
+		<disk name="bntyhunt" sha1="f5c737aaf3da5b57de3fb6bb5dfb85f8f3d4b1b1"/>
+	</machine>
+	<machine name="MAME (v0.145) - boxingm">
+		<description>MAME (v0.145) - boxingm</description>
+		<disk name="a45a02" sha1="9af2481f53de705ae48fad08d8dd26553667c2d0"/>
+	</machine>
+	<machine name="MAME (v0.145) - bujutsu">
+		<description>MAME (v0.145) - bujutsu</description>
+		<disk name="645c04" sha1="c0aabe69f6eb4e4cf748d606ae50674297af6a04"/>
+	</machine>
+	<machine name="MAME (v0.145) - c3_rtime">
+		<description>MAME (v0.145) - c3_rtime</description>
+		<disk name="rtimes" sha1="20accfe236a0c85108cd2a205399ed8959f1a638"/>
+	</machine>
+	<machine name="MAME (v0.145) - c3_telly">
+		<description>MAME (v0.145) - c3_telly</description>
+		<disk name="telly" sha1="6675b8ed6ea47bfb89fbd10a2740e1e0a3faec54"/>
+	</machine>
+	<machine name="MAME (v0.145) - calchase">
+		<description>MAME (v0.145) - calchase</description>
+		<disk name="calchase" sha1="6ae51a9b3f31cf4166322328a98c0235b0874eb3"/>
+	</machine>
+	<machine name="MAME (v0.145) - calspeed">
+		<description>MAME (v0.145) - calspeed</description>
+		<disk name="calspeed" sha1="08d411c591d4b8bbdd6437ea80d01c4cec8516f8"/>
+	</machine>
+	<machine name="MAME (v0.145) - calspeeda">
+		<description>MAME (v0.145) - calspeeda</description>
+		<disk name="calspeda" sha1="6b1c3a7530195ef7309b06a651b01c8b3ece92c6"/>
+	</machine>
+	<machine name="MAME (v0.145) - carnevil">
+		<description>MAME (v0.145) - carnevil</description>
+		<disk name="carnevil" sha1="5cffb0de63ad36eb01c5951bab04d3f8a9e23e16"/>
+	</machine>
+	<machine name="MAME (v0.145) - carnevil1">
+		<description>MAME (v0.145) - carnevil1</description>
+		<disk name="carnevi1" sha1="94532727512280930a100fe473bf3a938fe2d44f"/>
+	</machine>
+	<machine name="MAME (v0.145) - cartfury">
+		<description>MAME (v0.145) - cartfury</description>
+		<disk name="cartfury" sha1="4c5bc2803297ea9a191bbd8b002d0e46b4ae1563"/>
+	</machine>
+	<machine name="MAME (v0.145) - chaoshea">
+		<description>MAME (v0.145) - chaoshea</description>
+		<disk name="chaosheat" sha1="c13b7d7025eee05f1f696d108801c7bafb3f1356"/>
+	</machine>
+	<machine name="MAME (v0.145) - chaosheaj">
+		<description>MAME (v0.145) - chaosheaj</description>
+		<disk name="chaosheatj" sha1="2f211ac08675ea8ec33c7659a13951db94eaa627"/>
+	</machine>
+	<machine name="MAME (v0.145) - cliffhgr">
+		<description>MAME (v0.145) - cliffhgr</description>
+		<disk name="cliffhgr" sha1="4442995c824d7891a2a19c607bb3301d696fbdc8"/>
+	</machine>
+	<machine name="MAME (v0.145) - cobra">
+		<description>MAME (v0.145) - cobra</description>
+		<disk name="cobra" sha1="8390498294aca97a5d1769032e7b115d1a42f5d3"/>
+	</machine>
+	<machine name="MAME (v0.145) - code1d">
+		<description>MAME (v0.145) - code1d</description>
+		<disk name="922d02" sha1="01f35e324c9e8567da0f51b3e68fff1562c32116"/>
+	</machine>
+	<machine name="MAME (v0.145) - code1db">
+		<description>MAME (v0.145) - code1db</description>
+		<disk name="922b02" sha1="4d288b5dcfab3678af662783e7083a358eee99ce"/>
+	</machine>
+	<machine name="MAME (v0.145) - comebaby">
+		<description>MAME (v0.145) - comebaby</description>
+		<disk name="comebaby" sha1="ea57919319c0b6a1d4abd7822cff028855bf082f"/>
+	</machine>
+	<machine name="MAME (v0.145) - crtaxihr">
+		<description>MAME (v0.145) - crtaxihr</description>
+		<disk name="gdx-0002b" sha1="4056ebd5587d6c897f475240bc5a4075a995aa8c"/>
+	</machine>
+	<machine name="MAME (v0.145) - cryptklr">
+		<description>MAME (v0.145) - cryptklr</description>
+		<disk name="420uaa04" sha1="67cb1418fc0de2a89fc61847dc9efb9f1bebb347"/>
+	</machine>
+	<machine name="MAME (v0.145) - csplayh5">
+		<description>MAME (v0.145) - csplayh5</description>
+		<disk name="csplayh5" sha1="ce4883ce1351ce5299e41bfbd9a5ae8078b82b8c"/>
+	</machine>
+	<machine name="MAME (v0.145) - csplayh7">
+		<description>MAME (v0.145) - csplayh7</description>
+		<disk name="csplayh7" sha1="f81e772745b0c62b17d91bd294993e49fe8da4d9"/>
+	</machine>
+	<machine name="MAME (v0.145) - cubeqst">
+		<description>MAME (v0.145) - cubeqst</description>
+		<disk name="cubeqst" sha1="d0e24bb5d0ae424e0816110ec7d6b21189044d57"/>
+	</machine>
+	<machine name="MAME (v0.145) - ddr2ml">
+		<description>MAME (v0.145) - ddr2ml</description>
+		<disk name="885jab01" sha1="c2bbb9e2e6f34e07f57e7076726af81df39f55c9"/>
+	</machine>
+	<machine name="MAME (v0.145) - ep_pharo">
+		<description>MAME (v0.145) - ep_pharo</description>
+		<disk name="ep_pharo" sha1="daf56705178bb2b6f3547418a98c361478702aed"/>
+	</machine>
+	<machine name="MAME (v0.145) - evilngt">
+		<description>MAME (v0.145) - evilngt</description>
+		<disk name="810uba02" sha1="ca3b957e3e33435391fbf630f9ed89aa08a70c8f"/>
+	</machine>
+	<machine name="MAME (v0.145) - eztouch">
+		<description>MAME (v0.145) - eztouch</description>
+		<disk name="szz_cf" sha1="2f19b68b1db8a0b5e85ad43dc3b5bf651d465bd9"/>
+	</machine>
+	<machine name="MAME (v0.145) - firefox">
+		<description>MAME (v0.145) - firefox</description>
+		<disk name="firefox" sha1="3c4be40f55b44d0352b64c0861b6d1b650451ce7"/>
+	</machine>
+	<machine name="MAME (v0.145) - flipmaze">
+		<description>MAME (v0.145) - flipmaze</description>
+		<disk name="flipmaze" sha1="423b6c06f4f2d9a608ce20b61a3ac11687d22c40"/>
+	</machine>
+	<machine name="MAME (v0.145) - fuudol">
+		<description>MAME (v0.145) - fuudol</description>
+		<disk name="fuudol" sha1="fabab43543ed14da4fe7c63a2a2cc4e68936938a"/>
+	</machine>
+	<machine name="MAME (v0.145) - gamecst2">
+		<description>MAME (v0.145) - gamecst2</description>
+		<disk name="gamecst2" sha1="14e1b311cb474801c7bdda3164a0c220fb102159"/>
+	</machine>
+	<machine name="MAME (v0.145) - gamecstl">
+		<description>MAME (v0.145) - gamecstl</description>
+		<disk name="gamecstl" sha1="b431af3c42c48ba07972d77a3d24e60ee1e4359e"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntdl">
+		<description>MAME (v0.145) - gauntdl</description>
+		<disk name="gauntdl" sha1="ba3af48171e727c2f7232c06dcf8411cbcf14de8"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntdl24">
+		<description>MAME (v0.145) - gauntdl24</description>
+		<disk name="gauntd24" sha1="3e055794d23d62680732e906cfaf9154765de698"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntleg">
+		<description>MAME (v0.145) - gauntleg</description>
+		<disk name="gauntleg" sha1="66eb70e2fba574a7abe54be8bd45310654b24b08"/>
+	</machine>
+	<machine name="MAME (v0.145) - gauntleg12">
+		<description>MAME (v0.145) - gauntleg12</description>
+		<disk name="gauntl12" sha1="c8208e3ce3b02a271dc6b089efa98dd996b66ce0"/>
+	</machine>
+	<machine name="MAME (v0.145) - gobyrc">
+		<description>MAME (v0.145) - gobyrc</description>
+		<disk name="gobyrc" sha1="0bee1f495fc8b033fd56aad9260ae94abb35eb58"/>
+	</machine>
+	<machine name="MAME (v0.145) - gticlub2">
+		<description>MAME (v0.145) - gticlub2</description>
+		<disk name="941b02" sha1="943bc9b1ea7273a8382b94c8a75010dfe296df14"/>
+	</machine>
+	<machine name="MAME (v0.145) - gundamos">
+		<description>MAME (v0.145) - gundamos</description>
+		<disk name="gdx-0013" sha1="96b3dafcc2d2d6803fe3bf43a245d43ee5e0e5a6"/>
+	</machine>
+	<machine name="MAME (v0.145) - gundzaft">
+		<description>MAME (v0.145) - gundzaft</description>
+		<disk name="sed1dvd0" sha1="0e6db61d94f66a4ddd7d4a3013983a838d256c5d"/>
+	</machine>
+	<machine name="MAME (v0.145) - hydrthnd">
+		<description>MAME (v0.145) - hydrthnd</description>
+		<disk name="hydro" sha1="d481d178782943c066b41764628a419cd55f676d"/>
+	</machine>
+	<machine name="MAME (v0.145) - hyprdriv">
+		<description>MAME (v0.145) - hyprdriv</description>
+		<disk name="hyprdriv" sha1="8cfa343797575b32f46cc24150024be48963a03e"/>
+	</machine>
+	<machine name="MAME (v0.145) - initdv2e">
+		<description>MAME (v0.145) - initdv2e</description>
+		<disk name="gds-0027" sha1="44746f0ceb1a3bbcd1db11a35c78c93a030f02de"/>
+	</machine>
+	<machine name="MAME (v0.145) - initdv2j">
+		<description>MAME (v0.145) - initdv2j</description>
+		<disk name="gds-0026b" sha1="8ddc3ccd32ab3416fbe2921f6d6617d6c9f23203"/>
+	</machine>
+	<machine name="MAME (v0.145) - initdv3j">
+		<description>MAME (v0.145) - initdv3j</description>
+		<disk name="gds-0032c" sha1="005b93f9785c76a778f90f04d74d4b3cc1785a01"/>
+	</machine>
+	<machine name="MAME (v0.145) - jdredd">
+		<description>MAME (v0.145) - jdredd</description>
+		<disk name="jdreddc" sha1="eee205f83e5f590f8baf36452c873d7063156bd0"/>
+	</machine>
+	<machine name="MAME (v0.145) - jdreddb">
+		<description>MAME (v0.145) - jdreddb</description>
+		<disk name="jdreddb" sha1="20f696fa6e1fbf97793bac2a794631c5dd4fb39a"/>
+	</machine>
+	<machine name="MAME (v0.145) - jnero">
+		<description>MAME (v0.145) - jnero</description>
+		<disk name="jn010108" sha1="4f3e9c6349c9be59213df1236dba7d79e7cd704e"/>
+	</machine>
+	<machine name="MAME (v0.145) - jpark3">
+		<description>MAME (v0.145) - jpark3</description>
+		<disk name="b41c02" sha1="fb6b0b43a6f818041d644bcd711f6a727348d3aa"/>
+	</machine>
+	<machine name="MAME (v0.145) - junai">
+		<description>MAME (v0.145) - junai</description>
+		<disk name="junai" sha1="0491533e0ce3e4d2af608ea0b9d9646316b512bd"/>
+	</machine>
+	<machine name="MAME (v0.145) - junai2">
+		<description>MAME (v0.145) - junai2</description>
+		<disk name="junai2" sha1="dc9633a101f20f03fd9b4414c10274d2539fb7c2"/>
+	</machine>
+	<machine name="MAME (v0.145) - kinniku">
+		<description>MAME (v0.145) - kinniku</description>
+		<disk name="kn1-b" sha1="2f0f9ebe74cdafe3713890221532b4d1dc18c74f"/>
+	</machine>
+	<machine name="MAME (v0.145) - kinst">
+		<description>MAME (v0.145) - kinst</description>
+		<disk name="kinst" sha1="81d833236e994528d1482979261401b198d1ca53"/>
+	</machine>
+	<machine name="MAME (v0.145) - kinst2">
+		<description>MAME (v0.145) - kinst2</description>
+		<disk name="kinst2" sha1="e7c9291b4648eae0012ea0cc230731ed4987d1d5"/>
+	</machine>
+	<machine name="MAME (v0.145) - kollon">
+		<description>MAME (v0.145) - kollon</description>
+		<disk name="kollon" sha1="d8ea5b5b0ee99004b16ef89883e23de6c7ddd7ce"/>
+	</machine>
+	<machine name="MAME (v0.145) - kollonc">
+		<description>MAME (v0.145) - kollonc</description>
+		<disk name="kollonc" sha1="ce62181659701cfb8f7c564870ab902be4d8e060"/>
+	</machine>
+	<machine name="MAME (v0.145) - landhigh">
+		<description>MAME (v0.145) - landhigh</description>
+		<disk name="landhigh" sha1="7cea4ea5c3899e6ac774a4eb12821f44541d9c9c"/>
+	</machine>
+	<machine name="MAME (v0.145) - mace">
+		<description>MAME (v0.145) - mace</description>
+		<disk name="mace" sha1="96ec8d3ff5dd894e21aa81403bcdbeba44bb97ea"/>
+	</machine>
+	<machine name="MAME (v0.145) - macea">
+		<description>MAME (v0.145) - macea</description>
+		<disk name="macea" sha1="9bd4a60627915d71932cab24f89c48ea21f4c1cb"/>
+	</machine>
+	<machine name="MAME (v0.145) - mach3">
+		<description>MAME (v0.145) - mach3</description>
+		<disk name="mach3" sha1="d0f72bded7feff5c360f8749d6c27650a6964847"/>
+	</machine>
+	<machine name="MAME (v0.145) - mahjngoh">
+		<description>MAME (v0.145) - mahjngoh</description>
+		<disk name="mahjngoh" sha1="3ef1110d15582d7c0187438d7ad61765dd121cff"/>
+	</machine>
+	<machine name="MAME (v0.145) - mamboagg">
+		<description>MAME (v0.145) - mamboagg</description>
+		<disk name="a40jab02" sha1="a914842442b2f63465e16f979f06da0b78a5f13e"/>
+	</machine>
+	<machine name="MAME (v0.145) - maxforce">
+		<description>MAME (v0.145) - maxforce</description>
+		<disk name="maxforce" sha1="d54e7a8f3866bb2a1d28ae637e7c92ffa4dbe558"/>
+	</machine>
+	<machine name="MAME (v0.145) - mfightc">
+		<description>MAME (v0.145) - mfightc</description>
+		<disk name="c09d04" sha1="7395b7a33e953f65827aea44461e49f8388464fb"/>
+	</machine>
+	<machine name="MAME (v0.145) - mfightcc">
+		<description>MAME (v0.145) - mfightcc</description>
+		<disk name="c09c04" sha1="bf5f7447d74399d34edd4eb6dfcca7f6fc2154f2"/>
+	</machine>
+	<machine name="MAME (v0.145) - mjmania">
+		<description>MAME (v0.145) - mjmania</description>
+		<disk name="mjmania" sha1="7117f2045fd04a3d8f8e06a6a98e8f585c4da301"/>
+	</machine>
+	<machine name="MAME (v0.145) - mocapb">
+		<description>MAME (v0.145) - mocapb</description>
+		<disk name="a29b02" sha1="f0c04310caf2cca804fde20805eb30a44c5a6796"/>
+	</machine>
+	<machine name="MAME (v0.145) - mocapbj">
+		<description>MAME (v0.145) - mocapbj</description>
+		<disk name="a29a02" sha1="00afad399737652b3e17257c70a19f62e37f3c97"/>
+	</machine>
+	<machine name="MAME (v0.145) - mocapglf">
+		<description>MAME (v0.145) - mocapglf</description>
+		<disk name="b33a02" sha1="819d8fac5d2411542c1b989105cffe38a5545fc2"/>
+	</machine>
+	<machine name="MAME (v0.145) - mrtlbeat">
+		<description>MAME (v0.145) - mrtlbeat</description>
+		<disk name="b47jxb02" sha1="6bbe8d6169ef692bd8995da564bd5a97b6bf0b31"/>
+	</machine>
+	<machine name="MAME (v0.145) - nbanfl">
+		<description>MAME (v0.145) - nbanfl</description>
+		<disk name="nbanfl" sha1="f60c627f85f1bf58f2ea674063736a1e516e7e9e"/>
+	</machine>
+	<machine name="MAME (v0.145) - nbashowt">
+		<description>MAME (v0.145) - nbashowt</description>
+		<disk name="nbashowt" sha1="f7c56bc3dcbebc434de58034986179ae01127f87"/>
+	</machine>
+	<machine name="MAME (v0.145) - netchu02">
+		<description>MAME (v0.145) - netchu02</description>
+		<disk name="npy1cd0b" sha1="514adcd2d4205873b3d144a05c033822344798e3"/>
+	</machine>
+	<machine name="MAME (v0.145) - nightrai">
+		<description>MAME (v0.145) - nightrai</description>
+		<disk name="nightrai" sha1="74d0458f851cbcf10453c5cc4c47bb4388244cdf"/>
+	</machine>
+	<machine name="MAME (v0.145) - offrthnd">
+		<description>MAME (v0.145) - offrthnd</description>
+		<disk name="offrthnd" sha1="d88f1c5b75361a1e310565a8a5a09c674a4a1a22"/>
+	</machine>
+	<machine name="MAME (v0.145) - ollie">
+		<description>MAME (v0.145) - ollie</description>
+		<disk name="gdx-0007" sha1="8898a571a427936bffcecd3ef27cb79087d22798"/>
+	</machine>
+	<machine name="MAME (v0.145) - orbatak">
+		<description>MAME (v0.145) - orbatak</description>
+		<disk name="orbatak" sha1="25cb3b889cf09dbe5faf2b0ca4aae5e03453da00"/>
+	</machine>
+	<machine name="MAME (v0.145) - otenamhf">
+		<description>MAME (v0.145) - otenamhf</description>
+		<disk name="otenamhf" sha1="5b15c33bf401e5546d78e905f538513d6ffcf562"/>
+	</machine>
+	<machine name="MAME (v0.145) - otenamih">
+		<description>MAME (v0.145) - otenamih</description>
+		<disk name="otenamih" sha1="b3babe3a1876c43745616ee1e7d87276ce7dad0b"/>
+	</machine>
+	<machine name="MAME (v0.145) - otenki">
+		<description>MAME (v0.145) - otenki</description>
+		<disk name="otenki" sha1="7e745ca4c4570215f452fd09cdd56a42c39caeba"/>
+	</machine>
+	<machine name="MAME (v0.145) - outr2">
+		<description>MAME (v0.145) - outr2</description>
+		<disk name="gdx-0004a" sha1="27acd2d0680e6bafa0d052f60b4372adc37224fd"/>
+	</machine>
+	<machine name="MAME (v0.145) - outr2st">
+		<description>MAME (v0.145) - outr2st</description>
+		<disk name="gdx-0014a" sha1="4f9656634c47631f63eab554a13d19b15558217e"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911">
+		<description>MAME (v0.145) - p911</description>
+		<disk name="a00uad02" sha1="6acb8dc41920e7025b87034a3a62b185ef0109d9"/>
+	</machine>
+	<machine name="MAME (v0.145) - p9112">
+		<description>MAME (v0.145) - p9112</description>
+		<disk name="b11a02" sha1="57665664321b78c1913d01f0d2c0b8d3efd42e04"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911e">
+		<description>MAME (v0.145) - p911e</description>
+		<disk name="a00eaa02" sha1="81565a2dce2e2b0a7927078a784354948af1f87c"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911j">
+		<description>MAME (v0.145) - p911j</description>
+		<disk name="a00jac02" sha1="d962d3a8ea84c380767d0fe336296911c289c224"/>
+	</machine>
+	<machine name="MAME (v0.145) - p911kc">
+		<description>MAME (v0.145) - p911kc</description>
+		<disk name="a00kac02" sha1="b268789416dbf8886118a634b911f0ee254970de"/>
+	</machine>
+	<machine name="MAME (v0.145) - photoply">
+		<description>MAME (v0.145) - photoply</description>
+		<disk name="pp201" sha1="23e1940d485d19401e7d0ad912ddad2cf2ea10b4"/>
+	</machine>
+	<machine name="MAME (v0.145) - popn2">
+		<description>MAME (v0.145) - popn2</description>
+		<disk name="831jhdda01" sha1="ef62d5fcc1a36235fc932e6ecef71dc845d1d72d"/>
+	</machine>
+	<machine name="MAME (v0.145) - popn5">
+		<description>MAME (v0.145) - popn5</description>
+		<disk name="a04jaa01" sha1="87136ddad1d786b4d5f04381fcbf679ab666e6c9"/>
+		<disk name="a04jaa02" sha1="49a017dde76f84829f6e99a678524c40665c3bfd"/>
+	</machine>
+	<machine name="MAME (v0.145) - popn9">
+		<description>MAME (v0.145) - popn9</description>
+		<disk name="c00jab" sha1="3763aaded9b45388a664edd84a3f7f8ff4101be4"/>
+	</machine>
+	<machine name="MAME (v0.145) - ppp2nd">
+		<description>MAME (v0.145) - ppp2nd</description>
+		<disk name="ppp2nd" sha1="b8b90483d515c83eac05ffa617af19612ea990b0"/>
+	</machine>
+	<machine name="MAME (v0.145) - primrag2">
+		<description>MAME (v0.145) - primrag2</description>
+		<disk name="primrag2" sha1="bc615068ddf4fd967f770ee01c02f285c052c4c5"/>
+	</machine>
+	<machine name="MAME (v0.145) - psattack">
+		<description>MAME (v0.145) - psattack</description>
+		<disk name="psattack" sha1="e99cd0dafc33ec13bf56061f81dc7c0a181594ee"/>
+	</machine>
+	<machine name="MAME (v0.145) - psyvaria">
+		<description>MAME (v0.145) - psyvaria</description>
+		<disk name="psyvaria" sha1="b981a42a10069322b77f7a268beae1d409b4156d"/>
+	</machine>
+	<machine name="MAME (v0.145) - psyvarrv">
+		<description>MAME (v0.145) - psyvarrv</description>
+		<disk name="psyvarrv" sha1="277c4f52502bcd7acc1889840962ec80d56465f3"/>
+	</machine>
+	<machine name="MAME (v0.145) - qdrmfgp">
+		<description>MAME (v0.145) - qdrmfgp</description>
+		<disk name="gq460a08" sha1="2f142f986fa3c79d5c4102e800980d1706c35f75"/>
+	</machine>
+	<machine name="MAME (v0.145) - qdrmfgp2">
+		<description>MAME (v0.145) - qdrmfgp2</description>
+		<disk name="ge557a09" sha1="1ef8093b542fe0bf8240a5fd64e5af3839b6a04c"/>
+	</machine>
+	<machine name="MAME (v0.145) - quake">
+		<description>MAME (v0.145) - quake</description>
+		<disk name="quakeat" sha1="c44695b9d521273c9d3c0e18c88f0dca0185bd7b"/>
+	</machine>
+	<machine name="MAME (v0.145) - queen">
+		<description>MAME (v0.145) - queen</description>
+		<disk name="pqiidediskonmodule" sha1="a56efcc711b1c5a2e63160b3088001a8c4fb56c2"/>
+	</machine>
+	<machine name="MAME (v0.145) - racjamdx">
+		<description>MAME (v0.145) - racjamdx</description>
+		<disk name="676a04" sha1="8e89d3e5099e871b99fccba13adaa3cf8a6b71f0"/>
+	</machine>
+	<machine name="MAME (v0.145) - raycris">
+		<description>MAME (v0.145) - raycris</description>
+		<disk name="raycris" sha1="015cb0e6c4421cc38809de28c4793b4491386aee"/>
+	</machine>
+	<machine name="MAME (v0.145) - rcdego">
+		<description>MAME (v0.145) - rcdego</description>
+		<disk name="rcdego" sha1="9e177f2a3954cfea0c8c5a288e116324d10f5dd1"/>
+	</machine>
+	<machine name="MAME (v0.145) - redeartha">
+		<description>MAME (v0.145) - redeartha</description>
+		<disk name="cap-wzd-3" sha1="a6ff67093db6bc80ee5fc46e4300e0177b213a52"/>
+	</machine>
+	<machine name="MAME (v0.145) - roadburn">
+		<description>MAME (v0.145) - roadburn</description>
+		<disk name="roadburn" sha1="a62870cceafa6357d7d3505aca250c3f16087566"/>
+	</machine>
+	<machine name="MAME (v0.145) - rrvac">
+		<description>MAME (v0.145) - rrvac</description>
+		<disk name="rrv1-a" sha1="77bb70407511cbb12ab999410e797dcaf0779229"/>
+	</machine>
+	<machine name="MAME (v0.145) - salarymc">
+		<description>MAME (v0.145) - salarymc</description>
+		<disk name="gca18jaa" sha1="8adcc8ef76cbfb9f47fec5702b0b200565b5c561"/>
+	</machine>
+	<machine name="MAME (v0.145) - savquest">
+		<description>MAME (v0.145) - savquest</description>
+		<disk name="savquest" sha1="b20cacf45e093b533c538bf4fc08f05f9475d640"/>
+	</machine>
+	<machine name="MAME (v0.145) - scg06nt">
+		<description>MAME (v0.145) - scg06nt</description>
+		<disk name="gdx-0018a" sha1="e6f3dc8066392854ad7d83f81d3cbc81a5e340b3"/>
+	</machine>
+	<machine name="MAME (v0.145) - scptour">
+		<description>MAME (v0.145) - scptour</description>
+		<disk name="scp1cd0" sha1="19fa70ba22787704c40f0a8f27bc841218bbc99b"/>
+	</machine>
+	<machine name="MAME (v0.145) - sf2049">
+		<description>MAME (v0.145) - sf2049</description>
+		<disk name="sf2049" sha1="9e0661b8566a6c78d18c59c11cd3a6628d025405"/>
+	</machine>
+	<machine name="MAME (v0.145) - sf2049se">
+		<description>MAME (v0.145) - sf2049se</description>
+		<disk name="sf2049se" sha1="7b27a8ce2a953050ce267548bb7160b41f3e8054"/>
+	</machine>
+	<machine name="MAME (v0.145) - sf2049te">
+		<description>MAME (v0.145) - sf2049te</description>
+		<disk name="sf2049te" sha1="625aa36436587b7bec3e7db1d19793b760e2ea51"/>
+	</machine>
+	<machine name="MAME (v0.145) - sfrush">
+		<description>MAME (v0.145) - sfrush</description>
+		<disk name="sfrush" sha1="e2db0270a707fb2115207f988d5751081d6b4994"/>
+	</machine>
+	<machine name="MAME (v0.145) - sfrushrk">
+		<description>MAME (v0.145) - sfrushrk</description>
+		<disk name="sfrushrk" sha1="e763f26aca67ebc17fe8b8df4fba91d492cf7837"/>
+	</machine>
+	<machine name="MAME (v0.145) - shaktamb">
+		<description>MAME (v0.145) - shaktamb</description>
+		<disk name="gds-0016" sha1="59bac62db4a536c63fec3464c665e00633fcf1a3"/>
+	</machine>
+	<machine name="MAME (v0.145) - shanghss">
+		<description>MAME (v0.145) - shanghss</description>
+		<disk name="shanghss" sha1="7964f71ec5c81d2120d83b63a82f97fbad5a8e6d"/>
+	</machine>
+	<machine name="MAME (v0.145) - shangtou">
+		<description>MAME (v0.145) - shangtou</description>
+		<disk name="shanghaito" sha1="9901db5a9aae77e3af4157aa2c601eaab5b7ca85"/>
+	</machine>
+	<machine name="MAME (v0.145) - shikigam">
+		<description>MAME (v0.145) - shikigam</description>
+		<disk name="shikigam" sha1="fa49a0bc47f5cb7c30d7e49e2c3696b21bafb840"/>
+	</machine>
+	<machine name="MAME (v0.145) - sianniv">
+		<description>MAME (v0.145) - sianniv</description>
+		<disk name="sianniv" sha1="1e08b813190a9e1baf29bc16884172d6c8da7ae3"/>
+	</machine>
+	<machine name="MAME (v0.145) - sogeki">
+		<description>MAME (v0.145) - sogeki</description>
+		<disk name="a13b02" sha1="c25a61b76d365794c2da4a9e7de88a5519e944ec"/>
+	</machine>
+	<machine name="MAME (v0.145) - soulclb2">
+		<description>MAME (v0.145) - soulclb2</description>
+		<disk name="sc21-dvd0d" sha1="9a7b1ea836adc9d78481928a3067530e0f8d74a6"/>
+	</machine>
+	<machine name="MAME (v0.145) - soulclb3">
+		<description>MAME (v0.145) - soulclb3</description>
+		<disk name="sc31001-na-dvd0-b" sha1="b46ee35083f8fcc091ce562951c55fbdbb929e4b"/>
+	</machine>
+	<machine name="MAME (v0.145) - soutenry">
+		<description>MAME (v0.145) - soutenry</description>
+		<disk name="soutenry" sha1="9204d0be833d29f37b8cd3fbdf09da69b622254b"/>
+	</machine>
+	<machine name="MAME (v0.145) - specfrce">
+		<description>MAME (v0.145) - specfrce</description>
+		<disk name="sf010101" sha1="59b5e3d8e1d5537204233598830be2066aad0556"/>
+	</machine>
+	<machine name="MAME (v0.145) - speeddrv">
+		<description>MAME (v0.145) - speeddrv</description>
+		<disk name="speeddrv" sha1="88712a37b75d84cf9b5a4bee9386285d1b3760b3"/>
+	</machine>
+	<machine name="MAME (v0.145) - spuzbobl">
+		<description>MAME (v0.145) - spuzbobl</description>
+		<disk name="spuzbobl" sha1="1b1c72fb7e5656021485fefaef8f2ba48e2b4ea8"/>
+	</machine>
+	<machine name="MAME (v0.145) - spuzboblj">
+		<description>MAME (v0.145) - spuzboblj</description>
+		<disk name="spuzbobj" sha1="dac433cf88543d2499bf797d7406b82ae4338726"/>
+	</machine>
+	<machine name="MAME (v0.145) - sscopex">
+		<description>MAME (v0.145) - sscopex</description>
+		<disk name="a13c02" sha1="d740784fa51a3f43695ea95e23f92ef05f43284a"/>
+	</machine>
+	<machine name="MAME (v0.145) - sukuinuf">
+		<description>MAME (v0.145) - sukuinuf</description>
+		<disk name="hm-in2" sha1="4e2d95798a2bcc6f93bc82c364379a3936d68986"/>
+	</machine>
+	<machine name="MAME (v0.145) - taiko10">
+		<description>MAME (v0.145) - taiko10</description>
+		<disk name="tk10100-1-na-dvd0-a" sha1="9aef4a6b64295a6684d56334904b4c92a20abe15"/>
+	</machine>
+	<machine name="MAME (v0.145) - taiko9">
+		<description>MAME (v0.145) - taiko9</description>
+		<disk name="tk9100-1-na-dvd0-a" sha1="6bd40b2c19f30a81689601c3dd46b6dac6d0a2f1"/>
+	</machine>
+	<machine name="MAME (v0.145) - tekken4">
+		<description>MAME (v0.145) - tekken4</description>
+		<disk name="tef1dvd0" sha1="f39aa37156245f622a6e19e8a0e081418e247b36"/>
+	</machine>
+	<machine name="MAME (v0.145) - tekken51">
+		<description>MAME (v0.145) - tekken51</description>
+		<disk name="te51-dvd0" sha1="2a0ac3723725572c1810b0ef4bcfa7aa114062f8"/>
+	</machine>
+	<machine name="MAME (v0.145) - tenthdeg">
+		<description>MAME (v0.145) - tenthdeg</description>
+		<disk name="tenthdeg" sha1="41a1a045a2d118cf6235be2cc40bf16dbb8be5d1"/>
+	</machine>
+	<machine name="MAME (v0.145) - thenanpa">
+		<description>MAME (v0.145) - thenanpa</description>
+		<disk name="thenanpa" sha1="72bf8c75189e877508c5a64d5591738d23ed7e96"/>
+	</machine>
+	<machine name="MAME (v0.145) - thrild2">
+		<description>MAME (v0.145) - thrild2</description>
+		<disk name="a41b02" sha1="0426f4bb9001cf457f44e2c22e3d7575b8049aa3"/>
+	</machine>
+	<machine name="MAME (v0.145) - thrild2a">
+		<description>MAME (v0.145) - thrild2a</description>
+		<disk name="a41a02" sha1="bbb71e23bddfa07dfa30b6565a35befd82b055b8"/>
+	</machine>
+	<machine name="MAME (v0.145) - thrild2c">
+		<description>MAME (v0.145) - thrild2c</description>
+		<disk name="a41c02" sha1="ab3020e8709768c0fd2467573e92b679a05944e5"/>
+	</machine>
+	<machine name="MAME (v0.145) - timecrs3">
+		<description>MAME (v0.145) - timecrs3</description>
+		<disk name="tst1dvd0" sha1="f8a447d9a4224282516bea590f5217c751bdc4ae"/>
+	</machine>
+	<machine name="MAME (v0.145) - tokyocop">
+		<description>MAME (v0.145) - tokyocop</description>
+		<disk name="tokyocop" sha1="a3cf011c8ef8ec80724c28e1534191b40ae8515d"/>
+	</machine>
+	<machine name="MAME (v0.145) - truckk">
+		<description>MAME (v0.145) - truckk</description>
+		<disk name="tkk2-a" sha1="6b7c3686b22a508c44f67295b188504b757dd482"/>
+	</machine>
+	<machine name="MAME (v0.145) - tsurugi">
+		<description>MAME (v0.145) - tsurugi</description>
+		<disk name="a30b02" sha1="d2be83b7323c365ba445de7697c3fb8eb83d0212"/>
+	</machine>
+	<machine name="MAME (v0.145) - tsurugij">
+		<description>MAME (v0.145) - tsurugij</description>
+		<disk name="a30c02" sha1="533b5669b00884a800df9ba29651777a76559862"/>
+	</machine>
+	<machine name="MAME (v0.145) - turrett">
+		<description>MAME (v0.145) - turrett</description>
+		<disk name="turrett" sha1="b0c98c5876870dd8b3e37a38fe35846c9e011df4"/>
+	</machine>
+	<machine name="MAME (v0.145) - usagi">
+		<description>MAME (v0.145) - usagi</description>
+		<disk name="usagi" sha1="edf9dd271957f6cb06feed238ae21100514bef8e"/>
+	</machine>
+	<machine name="MAME (v0.145) - usvsthem">
+		<description>MAME (v0.145) - usvsthem</description>
+		<disk name="usvsthem" sha1="c52530319dc70486f5ced95c121f1cab872e66d8"/>
+	</machine>
+	<machine name="MAME (v0.145) - vaportrx">
+		<description>MAME (v0.145) - vaportrx</description>
+		<disk name="vaportrx" sha1="fe53ca7643d2ed2745086abb7f2243c69678cab1"/>
+	</machine>
+	<machine name="MAME (v0.145) - vaportrxp">
+		<description>MAME (v0.145) - vaportrxp</description>
+		<disk name="vaportrp" sha1="6c86637c442ebd6994eee8c0ae0dce343c35dbe9"/>
+	</machine>
+	<machine name="MAME (v0.145) - vcircle">
+		<description>MAME (v0.145) - vcircle</description>
+		<disk name="vcircle" sha1="bfa79c4cacdc9c2cd6362f62a23056b3e35a2034"/>
+	</machine>
+	<machine name="MAME (v0.145) - wangmd2b">
+		<description>MAME (v0.145) - wangmd2b</description>
+		<disk name="gdx-0016a" sha1="cb306df60550bbd8df312634cb97014bb39f1631"/>
+	</machine>
+	<machine name="MAME (v0.145) - warfa">
+		<description>MAME (v0.145) - warfa</description>
+		<disk name="warfa" sha1="87f8a8878cd6be716dbd6c68fb1bc7f564ede484"/>
+	</machine>
+	<machine name="MAME (v0.145) - wargods">
+		<description>MAME (v0.145) - wargods</description>
+		<disk name="wargods" sha1="141063f95867fdcc4b15c844e510696604a70c6a"/>
+	</machine>
+	<machine name="MAME (v0.145) - wcombat">
+		<description>MAME (v0.145) - wcombat</description>
+		<disk name="c22d02" sha1="85d2a8b5ec4cfd932190486cad991f0c180ca6b3"/>
+	</machine>
+	<machine name="MAME (v0.145) - wcombatj">
+		<description>MAME (v0.145) - wcombatj</description>
+		<disk name="c22a02" sha1="b607fb2ddfd0bd552b7a736cea4ac1aa3ea021bd"/>
+	</machine>
+	<machine name="MAME (v0.145) - wcombatk">
+		<description>MAME (v0.145) - wcombatk</description>
+		<disk name="c22c02" sha1="8bd1dfbf926ad5b28fa7dafd7e31c475325ec569"/>
+	</machine>
+	<machine name="MAME (v0.145) - wg3dh">
+		<description>MAME (v0.145) - wg3dh</description>
+		<disk name="wg3dh" sha1="4fc6f25d7f043d9bcf8743aa8df1d9be3cbc375b"/>
+	</machine>
+	<machine name="MAME (v0.145) - xiistag">
+		<description>MAME (v0.145) - xiistag</description>
+		<disk name="xiistag" sha1="586e37c8d926293b2bd928e5f0d693910cfb05a2"/>
+	</machine>
+	<machine name="MAME (v0.145) - xtrial">
+		<description>MAME (v0.145) - xtrial</description>
+		<disk name="b4xb02" sha1="d8d54f3f16b762bf0187fe29b2f8696015c0a940"/>
+	</machine>
+	<machine name="MAME (v0.145) - zgundm">
+		<description>MAME (v0.145) - zgundm</description>
+		<disk name="zga1dvd0" sha1="7930e5a65f6079851438669dfb1f0e5f9e11329a"/>
+	</machine>
+	<machine name="MAME (v0.145) - zgundmdx">
+		<description>MAME (v0.145) - zgundmdx</description>
+		<disk name="zdx1dvd0" sha1="fa21626f771106e2441c4515a0e5dff478187ccd"/>
+	</machine>
+	<machine name="MAME (v0.145) - zokuoten">
+		<description>MAME (v0.145) - zokuoten</description>
+		<disk name="zokuoten" sha1="5ce13db00518f96af64935176c71ec68d2a51938"/>
+	</machine>
+	<machine name="MAME (v0.145) - zooo">
+		<description>MAME (v0.145) - zooo</description>
+		<disk name="zooo" sha1="e275b3141b2bc49142990e6b497a5394a314a30b"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - hyperath">
+		<description>MAME (v0.145u1) - hyperath</description>
+		<disk name="hyperath" sha1="8638dcb27d53a30ea66c09349f6ff0b78910bf79"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - kdeadeye">
+		<description>MAME (v0.145u1) - kdeadeye</description>
+		<disk name="kdeadeye" sha1="55a86ad568069f3799125b47253d579793276fab"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - nagano98">
+		<description>MAME (v0.145u1) - nagano98</description>
+		<disk name="nagano98" sha1="efe09a23dfbb957574b8989b5672af1ab5e27640"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - pbball96">
+		<description>MAME (v0.145u1) - pbball96</description>
+		<disk name="pbball96" sha1="6d47624e86f97c0b8ea4ebb84cc5446aa4f11fcf"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - simpbowl">
+		<description>MAME (v0.145u1) - simpbowl</description>
+		<disk name="simpbowl" sha1="476f100b6c420343e16a18575bbedf1f15fbd274"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - susume">
+		<description>MAME (v0.145u1) - susume</description>
+		<disk name="gv027j1" sha1="ad474c60ee68202324a31cc106f2054dc465f4b7"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - tokimosh">
+		<description>MAME (v0.145u1) - tokimosh</description>
+		<disk name="755jaa01" sha1="f7f1545658b430f60edccf448b2832dab9984b19"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - tokimosp">
+		<description>MAME (v0.145u1) - tokimosp</description>
+		<disk name="756jab01" sha1="ef76fc27e43f7e4cff16bf88458e7ee327c11ca3"/>
+	</machine>
+	<machine name="MAME (v0.145u1) - weddingr">
+		<description>MAME (v0.145u1) - weddingr</description>
+		<disk name="weddingr" sha1="798686b410cb43b60d6ae91507d034db2db1b185"/>
+	</machine>
+	<machine name="MAME (v0.145u3) - a51site4a">
+		<description>MAME (v0.145u3) - a51site4a</description>
+		<disk name="a51site4a" sha1="a0962b35c265154e571f973a819efdd06109e543"/>
+	</machine>
+	<machine name="MAME (v0.145u3) - undefeat">
+		<description>MAME (v0.145u3) - undefeat</description>
+		<disk name="gdl-0035" sha1="91da482a6a082e48bee5b3bd20d9c92d23936965"/>
+	</machine>
+	<machine name="MAME (v0.145u7) - azumanga">
+		<description>MAME (v0.145u7) - azumanga</description>
+		<disk name="gdl-0018" sha1="3e40ca7d43173fe7048d199fdc127b9411e10360" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - bdrdown">
+		<description>MAME (v0.146u4) - bdrdown</description>
+		<disk name="gdl-0023a" sha1="caac915104d61f2122f5afe27da1ef5fa9cf9f9a" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - chocomk">
+		<description>MAME (v0.146u4) - chocomk</description>
+		<disk name="gdl-0014a" sha1="f88d8203c8692f51c9492d5549a3ad7d9583dc6f" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - ikaruga">
+		<description>MAME (v0.146u4) - ikaruga</description>
+		<disk name="gdl-0010" sha1="65dcc22dd9e9b70975096464ad8e31a4a73dc5fd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - karous">
+		<description>MAME (v0.146u4) - karous</description>
+		<disk name="gdl-0040" sha1="a62c8d4b6c5be44a4aeeea1a1a94f3d0fe542593" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - psyvar2">
+		<description>MAME (v0.146u4) - psyvar2</description>
+		<disk name="gdl-0024" sha1="d346762036fb1c40a261a434b50e63459f306f14" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - puyofev">
+		<description>MAME (v0.146u4) - puyofev</description>
+		<disk name="gds-0031" sha1="da2d421da9472b149619b6931bb2fe624be75fa2" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - senko">
+		<description>MAME (v0.146u4) - senko</description>
+		<disk name="gdl-0030a" sha1="1f7ade47e37a0026451b5baf3ba746400de8d156" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - shikgam2">
+		<description>MAME (v0.146u4) - shikgam2</description>
+		<disk name="gdl-0021" sha1="f5036711a28a211e8d71400a8322db3172c5733f" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - starseek">
+		<description>MAME (v0.146u4) - starseek</description>
+		<disk name="gdl-0005" sha1="f5513c88528741798ee49f936b9b69480360f103" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - trgheart">
+		<description>MAME (v0.146u4) - trgheart</description>
+		<disk name="gdl-0036a" sha1="91f1e19136997cb1e2edfb1ad342b9427d1d3bfb" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - trizeal">
+		<description>MAME (v0.146u4) - trizeal</description>
+		<disk name="gdl-0026" sha1="e4c1e51292a7923b25bfc61d38fe386bf596002a" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.146u4) - vf4tuned">
+		<description>MAME (v0.146u4) - vf4tuned</description>
+		<disk name="gds-0036f" sha1="ea35d6ecdf94e5c9a545952758da80f658755df0" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.147u3) - popn7">
+		<description>MAME (v0.147u3) - popn7</description>
+		<disk name="b00jaa02" sha1="9e226f6b377ea72514d58dd350578b7dad12a70a" status="baddump"/>
+		<disk name="b00jab01" sha1="604fd460befcb5c53ae230155b83dec3a0b668d7" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.147u3) - ppd">
+		<description>MAME (v0.147u3) - ppd</description>
+		<disk name="977kaa02" sha1="cfca3cbc41c6203c3f3b482a6be5f63d33a8a966" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.147u3) - ppp11">
+		<description>MAME (v0.147u3) - ppp11</description>
+		<disk name="gc977jaa01" sha1="6b93dd38029ea68f9572126e48d618edce68fbce" status="baddump"/>
+		<disk name="gc977jaa02" sha1="b853a6f4edcaceb609fe2a3d6a18d4ac62bd3822" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - confmiss">
+		<description>MAME (v0.148u3) - confmiss</description>
+		<disk name="gds-0001" sha1="bd05f197ba8643577883dd25d9d5a74c91b27ca9" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - cvs2gd">
+		<description>MAME (v0.148u3) - cvs2gd</description>
+		<disk name="gdl-0007a" sha1="56510390667b39b3915d8bc078660cbe093cf566" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - dygolf">
+		<description>MAME (v0.148u3) - dygolf</description>
+		<disk name="gds-0009a" sha1="d502155ddaf881c2c9505528004b9904aa32a59c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - initdexp">
+		<description>MAME (v0.148u3) - initdexp</description>
+		<disk name="gds-0025" sha1="8ea92cf6b493f21b9453832edad7cbc5e5b350c1" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - initdv3e">
+		<description>MAME (v0.148u3) - initdv3e</description>
+		<disk name="gds-0033" sha1="8908238a0211c6343ce6f3f27729e33c4e276d35" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - initdv3j">
+		<description>MAME (v0.148u3) - initdv3j</description>
+		<disk name="gds-0032c" sha1="005b93f9785c76a778f90f04d74d4b3cc1785a01" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - mok">
+		<description>MAME (v0.148u3) - mok</description>
+		<disk name="gds-0022" sha1="70b41745225006e7876176cbd239edecd4c3f8b6" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - ngdup23a">
+		<description>MAME (v0.148u3) - ngdup23a</description>
+		<disk name="gds-0023a" sha1="cd9d808b59eb8f40673ec4353d476f2b9c7f783c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - senkoo">
+		<description>MAME (v0.148u3) - senkoo</description>
+		<disk name="gdl-0030" sha1="c7f25c05f47a490c5da9369c588b6136e93c280e" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - senkosp">
+		<description>MAME (v0.148u3) - senkosp</description>
+		<disk name="gdl-0038" sha1="430572f7e76c4fe009e2de91bf891d85613366b7" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - shaktamb">
+		<description>MAME (v0.148u3) - shaktamb</description>
+		<disk name="gds-0016" sha1="59bac62db4a536c63fec3464c665e00633fcf1a3" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - sprtjam">
+		<description>MAME (v0.148u3) - sprtjam</description>
+		<disk name="gds-0003" sha1="caaba214c1faca78b3370bcd4190eb2853d7f825" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - ss2005">
+		<description>MAME (v0.148u3) - ss2005</description>
+		<disk name="gdl-0031" sha1="83697f45f0ffbb964f0504b19171c554499cd709" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - vf4evo">
+		<description>MAME (v0.148u3) - vf4evo</description>
+		<disk name="gds-0024b" sha1="a829169542f3bed76095ad6bfbbde7d494d04d72" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - vstrik3">
+		<description>MAME (v0.148u3) - vstrik3</description>
+		<disk name="gds-0006" sha1="aca09a88506f5e462ad3fb33eac5478a2a010609" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u3) - vtennis2">
+		<description>MAME (v0.148u3) - vtennis2</description>
+		<disk name="gds-0015a" sha1="c6e9c9901bd4f075454b7f18baf08df81bc2f1ad" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.148u4) - sfish2">
+		<description>MAME (v0.148u4) - sfish2</description>
+		<disk name="sfish2" sha1="a10073d83bbbe16e16f69ad48565821576557d61" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.149) - savquest">
+		<description>MAME (v0.149) - savquest</description>
+		<disk name="savquest" sha1="b20cacf45e093b533c538bf4fc08f05f9475d640"/>
+	</machine>
+	<machine name="MAME (v0.149) - wcombat">
+		<description>MAME (v0.149) - wcombat</description>
+		<disk name="c22d02" sha1="85d2a8b5ec4cfd932190486cad991f0c180ca6b3" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - bassangl">
+		<description>MAME (v0.151) - bassangl</description>
+		<disk name="765jaa02" sha1="4291711b1025733cb97f6da5dc3b03c189fcc37c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidx">
+		<description>MAME (v0.151) - bmiidx</description>
+		<disk name="863jaa01" sha1="aee12de1dc5dd44e5bf7b62133ed695b80999390" status="baddump"/>
+		<disk name="863jaa04" sha1="8f6a0d2e191153032c9388b5298d8ee531b22a41" status="baddump"/>
+		<disk name="c44jaa03" sha1="53e9bd25d1674a04aeec81c0224b4e4e44af802a"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidx4">
+		<description>MAME (v0.151) - bmiidx4</description>
+		<disk name="a03jaa01" sha1="2a587b5524bac6f03d26b55247a0acd22aad6c3a" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidx7">
+		<description>MAME (v0.151) - bmiidx7</description>
+		<disk name="b44jaa01" sha1="a21610f3dc090e39e125d063442ed877fa056146" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidxc">
+		<description>MAME (v0.151) - bmiidxc</description>
+		<disk name="896jaabm" sha1="af008e5bcf18da4e9aea752a712c843e37a74be5" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - bmiidxc2">
+		<description>MAME (v0.151) - bmiidxc2</description>
+		<disk name="984a01bm" sha1="d9b7d74a72a76e4e9cf7725e0fb8dafcc1c87187" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - btltryst">
+		<description>MAME (v0.151) - btltryst</description>
+		<disk name="btltryst" sha1="c76326b0a0fcfe696a2ca019170d3abde40e773e" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - darkhleg">
+		<description>MAME (v0.151) - darkhleg</description>
+		<disk name="706jaa02" sha1="58bd06855988250028086cba6b3670372b9d96a0" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr2mc2">
+		<description>MAME (v0.151) - ddr2mc2</description>
+		<disk name="984jaa01" sha1="5505c28be27bfa9648060fd799bcf0c2c5f608ed" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr2ml">
+		<description>MAME (v0.151) - ddr2ml</description>
+		<disk name="885jaa02" sha1="5d187aea247eefc5c065566ab277acd8c942ba27" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3ma">
+		<description>MAME (v0.151) - ddr3ma</description>
+		<disk name="887aaa02" sha1="c4136305b97123f5dfe3ecd34a10ddda0180da3d" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mj">
+		<description>MAME (v0.151) - ddr3mj</description>
+		<disk name="887jaa02" sha1="2d1bf2a1566292dc869afaa6486f5ecd3973ff62" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mk">
+		<description>MAME (v0.151) - ddr3mk</description>
+		<disk name="887kba02" sha1="92a3844fab24f46c16dd96f9474d95fd001df603" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mka">
+		<description>MAME (v0.151) - ddr3mka</description>
+		<disk name="887kaa02" sha1="a80930dd66c2e2326e8792f2e7cf9116d9cd752c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr3mp">
+		<description>MAME (v0.151) - ddr3mp</description>
+		<disk name="a22jaa02" sha1="2bf07d08f6acee562024b418b453d654fc40f8dd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr4mp">
+		<description>MAME (v0.151) - ddr4mp</description>
+		<disk name="a34jaa02" sha1="1d5f9eb633f054ddbf9fba55d53e4ee263ba91dd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddr5m">
+		<description>MAME (v0.151) - ddr5m</description>
+		<disk name="a27jaa02" sha1="0324973c98b82b72b22d2f0cd43e1924b83be667" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddra">
+		<description>MAME (v0.151) - ddra</description>
+		<disk name="845aaa02" sha1="839e2f8698a1561ac364998b8b3158ef0dee6998" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrj">
+		<description>MAME (v0.151) - ddrj</description>
+		<disk name="845jba02" sha1="2d10378c89fe85682f262f0987f8366b9ea72f11" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrjb">
+		<description>MAME (v0.151) - ddrjb</description>
+		<disk name="845jab02" sha1="7bdcef37bf376c23153dfd1580de5666cc681335" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrmax">
+		<description>MAME (v0.151) - ddrmax</description>
+		<disk name="b19jaa02" sha1="a156ebdef395747c64e1829237e4e7932ae251a8" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrmax2">
+		<description>MAME (v0.151) - ddrmax2</description>
+		<disk name="b20jaa02" sha1="3f378e922e3182f980d07d6b2b524e33c5a00549" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrs2kj">
+		<description>MAME (v0.151) - ddrs2kj</description>
+		<disk name="905jaa02" sha1="84931345611574afd53976a0807f4163348e3c15" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - ddrsbm">
+		<description>MAME (v0.151) - ddrsbm</description>
+		<disk name="894jaa02" sha1="3b2e061996d12f0e7367a579208eb746d849e070" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - dmx2majp">
+		<description>MAME (v0.151) - dmx2majp</description>
+		<disk name="a38jaa02" sha1="d26c481ef8a70bba75bcdf41f9ceb3a49c245986" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - drmn7m">
+		<description>MAME (v0.151) - drmn7m</description>
+		<disk name="c07jca02" sha1="1f27e0a22c7f4f37ec3a09984ce197e390340d27" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - evilngt">
+		<description>MAME (v0.151) - evilngt</description>
+		<disk name="810uba02" sha1="ca3b957e3e33435391fbf630f9ed89aa08a70c8f" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - gtrfrk7m">
+		<description>MAME (v0.151) - gtrfrk7m</description>
+		<disk name="b17jaa02" sha1="d38dc22011b71b0e4167f1728a8794ea4b9c5396" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - hellngt">
+		<description>MAME (v0.151) - hellngt</description>
+		<disk name="810eaa02" sha1="c407bad498cb87788ce332dbef5e8c6e19c1fd16" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - hyperath">
+		<description>MAME (v0.151) - hyperath</description>
+		<disk name="hyperath" sha1="694ef6200c61d3052316100cd9251b495eab88a1" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - kbm3rd">
+		<description>MAME (v0.151) - kbm3rd</description>
+		<disk name="a12jaa01" sha1="10f2284248e51b1adf0fde173df72ad97fe0e5c8" status="baddump"/>
+		<disk name="a12jaa02" sha1="1256ce9d71350d355a256f83c7b319f0e6e84525" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - mamboagg">
+		<description>MAME (v0.151) - mamboagg</description>
+		<disk name="a40jab02" sha1="a914842442b2f63465e16f979f06da0b78a5f13e"/>
+	</machine>
+	<machine name="MAME (v0.151) - pnchmna">
+		<description>MAME (v0.151) - pnchmna</description>
+		<disk name="918jab02" sha1="8e59b07f6f4b67afb1109200da01d177a537d1be" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - polystar">
+		<description>MAME (v0.151) - polystar</description>
+		<disk name="623jaa02" sha1="cd542931cdac95d05344d34421e223dd6e371bb5" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - powyakex">
+		<description>MAME (v0.151) - powyakex</description>
+		<disk name="802jab02" sha1="bcc2b6c3515e2420eef9fdf8b28115368a428a92" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - salarymc">
+		<description>MAME (v0.151) - salarymc</description>
+		<disk name="gca18jaa" sha1="8adcc8ef76cbfb9f47fec5702b0b200565b5c561"/>
+	</machine>
+	<machine name="MAME (v0.151) - tokimosh">
+		<description>MAME (v0.151) - tokimosh</description>
+		<disk name="755jaa01" sha1="4af080f9650e34d1ddb91bb763469d5fb3c754bd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.151) - tokimosp">
+		<description>MAME (v0.151) - tokimosp</description>
+		<disk name="756jab01" sha1="7bd974d908ae5a7bfa8d30db185ab01ac38dff28" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - beachspi">
+		<description>MAME (v0.152) - beachspi</description>
+		<disk name="gds-0014" sha1="1ebb3695196c11a86276e034df2e1c8d7fa6b96f" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - cfield">
+		<description>MAME (v0.152) - cfield</description>
+		<disk name="gdl-0025" sha1="be0d88eb4f48403a2ceaa7ef588ed60b96ba93bf" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - cvsgd">
+		<description>MAME (v0.152) - cvsgd</description>
+		<disk name="gdl-0004" sha1="7a7fba0fbbc769c5120b08e6d692f1ac63a42225" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - ggxx">
+		<description>MAME (v0.152) - ggxx</description>
+		<disk name="gdl-0011" sha1="b7328eb2c588d55284bdcea0fe89bb8e629a8669" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - ggxxrl">
+		<description>MAME (v0.152) - ggxxrl</description>
+		<disk name="gdl-0019a" sha1="d44906505ff698eda6feee6c2b9402e19f64e5d3" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - ggxxsla">
+		<description>MAME (v0.152) - ggxxsla</description>
+		<disk name="gdl-0033a" sha1="29de69ae97a9099b1bbe936dfa965bb4a3195f68" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - gundmgd">
+		<description>MAME (v0.152) - gundmgd</description>
+		<disk name="gdl-0001" sha1="615e19c22f32096f3aad557019a14313b60a4070" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - gundmxgd">
+		<description>MAME (v0.152) - gundmxgd</description>
+		<disk name="gdl-0006" sha1="b28d6598711b5a9c744bbf07ad03fc60962d2e28" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - meltybld">
+		<description>MAME (v0.152) - meltybld</description>
+		<disk name="gdl-0028c" sha1="66de09738551e351784cc9695a58b35fdf6b6c4b" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - quizqgd">
+		<description>MAME (v0.152) - quizqgd</description>
+		<disk name="gdl-0017" sha1="94a9319633388968611892e36691b45c94b4f83f" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - sfz3ugd">
+		<description>MAME (v0.152) - sfz3ugd</description>
+		<disk name="gdl-0002" sha1="af4669fdd7ce8e6ec4a170748d401e322a3d7ae8" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - slashout">
+		<description>MAME (v0.152) - slashout</description>
+		<disk name="gds-0004" sha1="3cce788393ed194ba9b603f9896ff893691d6b00" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - spkrbtl">
+		<description>MAME (v0.152) - spkrbtl</description>
+		<disk name="gds-0005" sha1="d1c3fb2350e4a89372373e7f629c42b741af29b3" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - vathlete">
+		<description>MAME (v0.152) - vathlete</description>
+		<disk name="gds-0019" sha1="955d3c0cb991be3057138c562cff69c5ef887787" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - vf4c">
+		<description>MAME (v0.152) - vf4c</description>
+		<disk name="gds-0012c" sha1="0ec149d7edfb326777cdc45a2ac8ad578a32aba1" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - vf4evoa">
+		<description>MAME (v0.152) - vf4evoa</description>
+		<disk name="gds-0024a" sha1="6225e778d73db18be26f882d4f9cd3b3a136d1c9" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - vtennisg">
+		<description>MAME (v0.152) - vtennisg</description>
+		<disk name="gds-0011" sha1="b778403d73c8cdd13383691c9be2094ddfc1ba84" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.152) - wsbbgd">
+		<description>MAME (v0.152) - wsbbgd</description>
+		<disk name="gds-0010" sha1="c3135ede3a8bdadab91aed49abacbfbde8037069" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - azumanga">
+		<description>MAME (v0.153) - azumanga</description>
+		<disk name="gdl-0018" sha1="857d405b733c1de3534275a91afb939aec4e1279"/>
+	</machine>
+	<machine name="MAME (v0.153) - bdrdown">
+		<description>MAME (v0.153) - bdrdown</description>
+		<disk name="gdl-0023a" sha1="b8b8c8aeb09e2657095268bd54e71461b1af2abe"/>
+	</machine>
+	<machine name="MAME (v0.153) - beachspi">
+		<description>MAME (v0.153) - beachspi</description>
+		<disk name="gds-0014" sha1="40adbf9c7b1cc3549d6c6eab0101201a5a112a2a"/>
+	</machine>
+	<machine name="MAME (v0.153) - cfield">
+		<description>MAME (v0.153) - cfield</description>
+		<disk name="gdl-0025" sha1="a57ad350fd0b7a18f204629aa9418ed7533f8057"/>
+	</machine>
+	<machine name="MAME (v0.153) - chocomk">
+		<description>MAME (v0.153) - chocomk</description>
+		<disk name="gdl-0014a" sha1="f2e94fef622e3142aaaf95c8a013356eb72eae82"/>
+	</machine>
+	<machine name="MAME (v0.153) - confmiss">
+		<description>MAME (v0.153) - confmiss</description>
+		<disk name="gds-0001" sha1="bc06dca75393c60d6cc349ff30caca6d5b40d5ce"/>
+	</machine>
+	<machine name="MAME (v0.153) - crtaxihr">
+		<description>MAME (v0.153) - crtaxihr</description>
+		<disk name="gdx-0002b" sha1="4056ebd5587d6c897f475240bc5a4075a995aa8c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - cvs2gd">
+		<description>MAME (v0.153) - cvs2gd</description>
+		<disk name="gdl-0007a" sha1="c76e76f7c21322c9006d91d283c81d7e18a9c8d4"/>
+	</machine>
+	<machine name="MAME (v0.153) - cvsgd">
+		<description>MAME (v0.153) - cvsgd</description>
+		<disk name="gdl-0004" sha1="a2f3321a191d90cba7af9c2970211f495a0708d3"/>
+	</machine>
+	<machine name="MAME (v0.153) - dygolf">
+		<description>MAME (v0.153) - dygolf</description>
+		<disk name="gds-0009a" sha1="eaf0e18cbe7c65cec1e22215d3c2982c7c246677"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxx">
+		<description>MAME (v0.153) - ggxx</description>
+		<disk name="gdl-0011" sha1="2083bcdb090034822c1c4d49ee1c3f890fd070f8"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxxac">
+		<description>MAME (v0.153) - ggxxac</description>
+		<disk name="gdl-0041" sha1="3a589e1c79ead971c821a7566032b0187e339684" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxxrl">
+		<description>MAME (v0.153) - ggxxrl</description>
+		<disk name="gdl-0019a" sha1="f6253bf2f49a7feb7079f6a262d87634415bdaa0"/>
+	</machine>
+	<machine name="MAME (v0.153) - ggxxsla">
+		<description>MAME (v0.153) - ggxxsla</description>
+		<disk name="gdl-0033a" sha1="50659d60fcca9bb2e2a05eb90fa1a13aaa04a161"/>
+	</machine>
+	<machine name="MAME (v0.153) - gundmgd">
+		<description>MAME (v0.153) - gundmgd</description>
+		<disk name="gdl-0001" sha1="dbb307167d0aa306dcea0c132e80f45dc06f7deb"/>
+	</machine>
+	<machine name="MAME (v0.153) - gundmxgd">
+		<description>MAME (v0.153) - gundmxgd</description>
+		<disk name="gdl-0006" sha1="fa159c2208517a09b8018390120128b5226b9146"/>
+	</machine>
+	<machine name="MAME (v0.153) - ikaruga">
+		<description>MAME (v0.153) - ikaruga</description>
+		<disk name="gdl-0010" sha1="cdae4618adfd8eab5a06fbb491ce18a0286e3cae"/>
+	</machine>
+	<machine name="MAME (v0.153) - inidv3cy">
+		<description>MAME (v0.153) - inidv3cy</description>
+		<disk name="gds-0039b" sha1="49521709c44a4eee1b384455940b3fec6e03e8fe"/>
+	</machine>
+	<machine name="MAME (v0.153) - initdexp">
+		<description>MAME (v0.153) - initdexp</description>
+		<disk name="gds-0025" sha1="db480a414e7dd507b62cf519c2eafa3d9427340a"/>
+	</machine>
+	<machine name="MAME (v0.153) - initdv3e">
+		<description>MAME (v0.153) - initdv3e</description>
+		<disk name="gds-0033" sha1="f7a9e02c0949c3e2db1f013e94f2a6ef9efc439d"/>
+	</machine>
+	<machine name="MAME (v0.153) - initdv3j">
+		<description>MAME (v0.153) - initdv3j</description>
+		<disk name="gds-0032c" sha1="3f8920531145f3061c44219c6d2b35920d570167"/>
+	</machine>
+	<machine name="MAME (v0.153) - karous">
+		<description>MAME (v0.153) - karous</description>
+		<disk name="gdl-0040" sha1="a3ca75c20aff34c35bc8e0af609b7353cb9123d9"/>
+	</machine>
+	<machine name="MAME (v0.153) - kurucham">
+		<description>MAME (v0.153) - kurucham</description>
+		<disk name="gdl-0034" sha1="10fd7edb0b620133c003d686e5af2ed27004fa09" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - meltyba">
+		<description>MAME (v0.153) - meltyba</description>
+		<disk name="gdl-0039a" sha1="e6aa3d65b43a20606e6754bcb8665438770a1f8c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - meltybld">
+		<description>MAME (v0.153) - meltybld</description>
+		<disk name="gdl-0028c" sha1="b24a36bf73145837d1722eb9f7ad0f227dbc053a"/>
+	</machine>
+	<machine name="MAME (v0.153) - mj3f">
+		<description>MAME (v0.153) - mj3f</description>
+		<disk name="gdx-0017f" sha1="a859313c80c5303bba5514ff734a7205cd12e456"/>
+	</machine>
+	<machine name="MAME (v0.153) - mok">
+		<description>MAME (v0.153) - mok</description>
+		<disk name="gds-0022" sha1="9bf37f5831e8c7f6f97a665bd66078b30324322f"/>
+	</machine>
+	<machine name="MAME (v0.153) - ndcfboxa">
+		<description>MAME (v0.153) - ndcfboxa</description>
+		<disk name="gds-0042a" sha1="619fd9ebd52fb418526f741ddacbd3edf7dcb4f5"/>
+	</machine>
+	<machine name="MAME (v0.153) - ngdup23a">
+		<description>MAME (v0.153) - ngdup23a</description>
+		<disk name="gds-0023a" sha1="d7589613890c8f4d0e137d80ac4fefc8ceb07f74"/>
+	</machine>
+	<machine name="MAME (v0.153) - ngdup23c">
+		<description>MAME (v0.153) - ngdup23c</description>
+		<disk name="gds-0023c" sha1="1fcb5530748886f4c4f45487d047859182ff7496" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - ngdup23e">
+		<description>MAME (v0.153) - ngdup23e</description>
+		<disk name="gds-0023e" sha1="cc592e5b32273f93866c4447e1fb56751911992c"/>
+	</machine>
+	<machine name="MAME (v0.153) - psyvar2">
+		<description>MAME (v0.153) - psyvar2</description>
+		<disk name="gdl-0024" sha1="f7046f901ede9c70f40d3ff6c022116380c95bd5"/>
+	</machine>
+	<machine name="MAME (v0.153) - puyofev">
+		<description>MAME (v0.153) - puyofev</description>
+		<disk name="gds-0031" sha1="2b7f1861cd68dbbe9fce51aa87a366540da391e5"/>
+	</machine>
+	<machine name="MAME (v0.153) - quizqgd">
+		<description>MAME (v0.153) - quizqgd</description>
+		<disk name="gdl-0017" sha1="a47ed967d038beac720219add6a2efd133363566"/>
+	</machine>
+	<machine name="MAME (v0.153) - radirgya">
+		<description>MAME (v0.153) - radirgya</description>
+		<disk name="gdl-0032a" sha1="c7873c8b2281e3b5123d3dff360d471415f8fc48"/>
+	</machine>
+	<machine name="MAME (v0.153) - senko">
+		<description>MAME (v0.153) - senko</description>
+		<disk name="gdl-0030a" sha1="85503fc0793b883f84b191f5ea50c763773c6f59"/>
+	</machine>
+	<machine name="MAME (v0.153) - senkoo">
+		<description>MAME (v0.153) - senkoo</description>
+		<disk name="gdl-0030" sha1="8a532a28d32ff100aac872b07b2641f4b5843518"/>
+	</machine>
+	<machine name="MAME (v0.153) - senkosp">
+		<description>MAME (v0.153) - senkosp</description>
+		<disk name="gdl-0038" sha1="841c7a233cfdb2dbb43032f34e3b99cfaa01c32b"/>
+	</machine>
+	<machine name="MAME (v0.153) - sfz3ugd">
+		<description>MAME (v0.153) - sfz3ugd</description>
+		<disk name="gdl-0002" sha1="dfaa96d79bff884388b441da862853b0a8c0bae6"/>
+	</machine>
+	<machine name="MAME (v0.153) - shaktamb">
+		<description>MAME (v0.153) - shaktamb</description>
+		<disk name="gds-0016" sha1="59772dd03074b2411c963c1d3c44fa10ffd453e2"/>
+	</machine>
+	<machine name="MAME (v0.153) - shaktmsp">
+		<description>MAME (v0.153) - shaktmsp</description>
+		<disk name="gds-0013" sha1="47372ae3bd5ada0981e549f9b4d974f0112ce4c8"/>
+	</machine>
+	<machine name="MAME (v0.153) - shikgam2">
+		<description>MAME (v0.153) - shikgam2</description>
+		<disk name="gdl-0021" sha1="ca572f71d559b36206a5d70bdeb2db9aebcb227b"/>
+	</machine>
+	<machine name="MAME (v0.153) - slashout">
+		<description>MAME (v0.153) - slashout</description>
+		<disk name="gds-0004" sha1="b5bcec8a7c4983e1c7ebddd54cbf708213d62c08"/>
+	</machine>
+	<machine name="MAME (v0.153) - spkrbtl">
+		<description>MAME (v0.153) - spkrbtl</description>
+		<disk name="gds-0005" sha1="916cfd1ef7fc16877ec7e8d16b0098843ca1cf24"/>
+	</machine>
+	<machine name="MAME (v0.153) - sprtjam">
+		<description>MAME (v0.153) - sprtjam</description>
+		<disk name="gds-0003" sha1="1f7e2d0d37f92c70a333ac86c4393d631680a12a"/>
+	</machine>
+	<machine name="MAME (v0.153) - ss2005">
+		<description>MAME (v0.153) - ss2005</description>
+		<disk name="gdl-0031" sha1="3af2e1f24e57c0767a6c4f6e281d83caf8e256ba"/>
+	</machine>
+	<machine name="MAME (v0.153) - starseek">
+		<description>MAME (v0.153) - starseek</description>
+		<disk name="gdl-0005" sha1="9778c00e063f29cb401d1877f277e97ec84c7dc4"/>
+	</machine>
+	<machine name="MAME (v0.153) - tetkiwam">
+		<description>MAME (v0.153) - tetkiwam</description>
+		<disk name="gdl-0020" sha1="7b2ef47ca2038d6a93615b760b03e8f7cb1b83c2" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - trgheart">
+		<description>MAME (v0.153) - trgheart</description>
+		<disk name="gdl-0036a" sha1="82bc92b0485f6db74465dbe257cf28f9e92ac0fc"/>
+	</machine>
+	<machine name="MAME (v0.153) - trizeal">
+		<description>MAME (v0.153) - trizeal</description>
+		<disk name="gdl-0026" sha1="2aacd8400d91db8bb1c103b915f6d808e9aef333"/>
+	</machine>
+	<machine name="MAME (v0.153) - undefeat">
+		<description>MAME (v0.153) - undefeat</description>
+		<disk name="gdl-0035" sha1="3beade0a544b549ee06be5b51536950e3eaabe71"/>
+	</machine>
+	<machine name="MAME (v0.153) - vathlete">
+		<description>MAME (v0.153) - vathlete</description>
+		<disk name="gds-0019" sha1="66df07df458b3b557354adeee6f8fc91ed9d4a99"/>
+	</machine>
+	<machine name="MAME (v0.153) - vcop3">
+		<description>MAME (v0.153) - vcop3</description>
+		<disk name="gdx-0003a" sha1="cdfec1d2ef02ae9e29cb1462f08904177bc4c9ea" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4c">
+		<description>MAME (v0.153) - vf4c</description>
+		<disk name="gds-0012c" sha1="cd90baf7cf3011144abb48677a473242d22c4601"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4evo">
+		<description>MAME (v0.153) - vf4evo</description>
+		<disk name="gds-0024b" sha1="dddd9ab674dc0e7ad5b63b24b132b351a271650d"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4evoa">
+		<description>MAME (v0.153) - vf4evoa</description>
+		<disk name="gds-0024a" sha1="948f1ed9f4f2fa09c005c76b04de58b1789e65a8"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4tuned">
+		<description>MAME (v0.153) - vf4tuned</description>
+		<disk name="gds-0036f" sha1="197ee1b09531f9bf204033de182e39ec5128d9f6"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4tuneda">
+		<description>MAME (v0.153) - vf4tuneda</description>
+		<disk name="gds-0036a" sha1="cd630fc4e8f7ed5641b85c609584d7efe0eac137" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - vf4tunedd">
+		<description>MAME (v0.153) - vf4tunedd</description>
+		<disk name="gds-0036d" sha1="2f7654307a4c978c5af6c8238c44e70275dd34f9" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - vs2002ex">
+		<description>MAME (v0.153) - vs2002ex</description>
+		<disk name="gdt-0002" sha1="471e896d43167c93cc229cfc94ff7ac6de7cf9a4" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - vs4">
+		<description>MAME (v0.153) - vs4</description>
+		<disk name="gdt-0015" sha1="1f83712b2b170d6edf4a27c15b6f763cc3cc4b71" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - vs4j">
+		<description>MAME (v0.153) - vs4j</description>
+		<disk name="gdt-0013e" sha1="b69cc5cab889114eda5c6e9ddcca42de9bc235b3" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.153) - vstrik3">
+		<description>MAME (v0.153) - vstrik3</description>
+		<disk name="gds-0006" sha1="4acaff18a46cc14df27be1dcf07dedfb976d39cf"/>
+	</machine>
+	<machine name="MAME (v0.153) - vtennis2">
+		<description>MAME (v0.153) - vtennis2</description>
+		<disk name="gds-0015a" sha1="352d2d8e4bd352ae649170bfce6bd839189b8527"/>
+	</machine>
+	<machine name="MAME (v0.153) - vtennisg">
+		<description>MAME (v0.153) - vtennisg</description>
+		<disk name="gds-0011" sha1="57740cc5eee8f9f09479a4e2794812254fb4c38a"/>
+	</machine>
+	<machine name="MAME (v0.153) - wsbbgd">
+		<description>MAME (v0.153) - wsbbgd</description>
+		<disk name="gds-0010" sha1="413521b3e10568bcb386aaac7d1bac5b402a6d89"/>
+	</machine>
+	<machine name="MAME (v0.154) - bmiidx5">
+		<description>MAME (v0.154) - bmiidx5</description>
+		<disk name="a17jaa01" sha1="9f552eaa0acbdbddf93cabe99f8f829afbf29e02" status="baddump"/>
+		<disk name="a17jaa02" sha1="767554dcc879bfc87df0d86384d8c850bafefad2" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.154) - initdv2j">
+		<description>MAME (v0.154) - initdv2j</description>
+		<disk name="gds-0026b" sha1="8ddc3ccd32ab3416fbe2921f6d6617d6c9f23203" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.156) - meltyb">
+		<description>MAME (v0.156) - meltyb</description>
+		<disk name="gdl-0039" sha1="ffc7f6e113ad69422a4f22f318bdf9b1dc5c25db" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.158) - avalon13">
+		<description>MAME (v0.158) - avalon13</description>
+		<disk name="gdt-0010c" sha1="716c441d8dc9036a13c66ef0048cd6d32ac63c4e" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.158) - avalons">
+		<description>MAME (v0.158) - avalons</description>
+		<disk name="gdt-0005c" sha1="9edb3d9ff492d2207d57bfdb6859e796f76c5e0c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.158) - gekpurya">
+		<description>MAME (v0.158) - gekpurya</description>
+		<disk name="gdt-0008c" sha1="2c1bdb8324efc216edd771fe45c680ac726111a0" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.158) - outr2">
+		<description>MAME (v0.158) - outr2</description>
+		<disk name="gdx-0004a" sha1="27acd2d0680e6bafa0d052f60b4372adc37224fd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.158) - vs2002j">
+		<description>MAME (v0.158) - vs2002j</description>
+		<disk name="gdt-0001" sha1="1b4b16b0715fa5717904f0b3141cc48cca99b7a4" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.158) - wangmid">
+		<description>MAME (v0.158) - wangmid</description>
+		<disk name="gdx-0009b" sha1="e032b9fd8d5d09255592f02f7531a608e8179c9c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.164) - gauntleg12">
+		<description>MAME (v0.164) - gauntleg12</description>
+		<disk name="gauntl12" sha1="c8208e3ce3b02a271dc6b089efa98dd996b66ce0"/>
+	</machine>
+	<machine name="MAME (v0.165) - drmn8m">
+		<description>MAME (v0.165) - drmn8m</description>
+		<disk name="c38jaa02" sha1="d19ae541557405a4484145f4237f3c868375c72e" status="baddump"/>
+		<disk name="c38jba02" sha1="d963064678978d489474d1ca22c1f249c6f60232" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - gtrfrk9m">
+		<description>MAME (v0.165) - gtrfrk9m</description>
+		<disk name="c39jaa02" sha1="d0696b29976a6bc01c3a1fefe09dbee721ff3ffb" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - initd">
+		<description>MAME (v0.165) - initd</description>
+		<disk name="gds-0020b" sha1="c0e901623ef4fcd97b7e4d29ae556e6f2e91b8ad" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - initdv2jo">
+		<description>MAME (v0.165) - initdv2jo</description>
+		<disk name="gds-0026" sha1="253acede106b7fbf49e24458e7fda868720e9549" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - jingystm">
+		<description>MAME (v0.165) - jingystm</description>
+		<disk name="gdl-0037" sha1="99ffe2987e3002b3871daf276d2be45f2e9c6e74" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - keyboard">
+		<description>MAME (v0.165) - keyboard</description>
+		<disk name="gds-0017" sha1="fb86eff3ef38de7fd78cfde897d5332d2092c172" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - luptype">
+		<description>MAME (v0.165) - luptype</description>
+		<disk name="gds-0021a" sha1="15c6f9434494a31693cbb8e33da36e0e8a8f7c62" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - moeru">
+		<description>MAME (v0.165) - moeru</description>
+		<disk name="gdl-0013" sha1="c8869069c28bc8eec96d820886bc388d69d46143" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - soulcl2w">
+		<description>MAME (v0.165) - soulcl2w</description>
+		<disk name="sc21-dvd0b" sha1="883170f759b4d53c4031e00ff29bcd1a4d3fea97"/>
+	</machine>
+	<machine name="MAME (v0.165) - ss2005a">
+		<description>MAME (v0.165) - ss2005a</description>
+		<disk name="gdl-0031a" sha1="6091525845fc2042ed43cae5a1b60c603e16cf97" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - usagiym">
+		<description>MAME (v0.165) - usagiym</description>
+		<disk name="gdl-0022" sha1="45deba05a12abbf6390c0fc0e4cdeaedfa7d2ca5" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.165) - vf4">
+		<description>MAME (v0.165) - vf4</description>
+		<disk name="gds-0012" sha1="c34588f59c6091cd1c3ef235171dad8d5247e707" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.170) - mj2g">
+		<description>MAME (v0.170) - mj2g</description>
+		<disk name="gdx-0006g" sha1="e306837d5c093fdf1e9ff02239a8563535b1c181" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.170) - snowboar">
+		<description>MAME (v0.170) - snowboar</description>
+		<disk name="snowboar" sha1="fecf611bd9289d24a0b1cabaaf030e2cee322cfa"/>
+	</machine>
+	<machine name="MAME (v0.170) - wcombatj">
+		<description>MAME (v0.170) - wcombatj</description>
+		<disk name="c22a02" sha1="b607fb2ddfd0bd552b7a736cea4ac1aa3ea021bd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.183) - ollie">
+		<description>MAME (v0.183) - ollie</description>
+		<disk name="gdx-0007" sha1="8898a571a427936bffcecd3ef27cb79087d22798" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.183) - takoron">
+		<description>MAME (v0.183) - takoron</description>
+		<disk name="gdl-0042" sha1="984a4fa012d83dd8c748304958c847c9867f4125" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.183) - vf4b">
+		<description>MAME (v0.183) - vf4b</description>
+		<disk name="gds-0012b" sha1="9b8e05c3d28a09323b13c198dfcc2b771bba67cd" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - avalon20">
+		<description>MAME (v0.184) - avalon20</description>
+		<disk name="gdt-0017b" sha1="e2dd32c322ffcaf38b82275d2721b71bb3dfc1f2" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - cleoftp">
+		<description>MAME (v0.184) - cleoftp</description>
+		<disk name="gdl-0012" sha1="aae4c1321fdee37d5405c6cbe648e0596624ed13" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - ghostsqu">
+		<description>MAME (v0.184) - ghostsqu</description>
+		<disk name="gdx-0012a" sha1="d7d78ce4992cb16ee5b4ac6ca7a37c46b07e8c14" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - gundamos">
+		<description>MAME (v0.184) - gundamos</description>
+		<disk name="gdx-0013" sha1="96b3dafcc2d2d6803fe3bf43a245d43ee5e0e5a6" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - hotd3">
+		<description>MAME (v0.184) - hotd3</description>
+		<disk name="gdx-0001" sha1="174c72f851d0c97e8993227467f16b0781ed2f5c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - initdv2e">
+		<description>MAME (v0.184) - initdv2e</description>
+		<disk name="gds-0027" sha1="44746f0ceb1a3bbcd1db11a35c78c93a030f02de" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - initdv3jb">
+		<description>MAME (v0.184) - initdv3jb</description>
+		<disk name="gds-0032b" sha1="568411aa72ca308a03a6b5b61c79833464b88bc6" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - jnero">
+		<description>MAME (v0.184) - jnero</description>
+		<disk name="jn010108" sha1="4f3e9c6349c9be59213df1236dba7d79e7cd704e"/>
+	</machine>
+	<machine name="MAME (v0.184) - kov3hd">
+		<description>MAME (v0.184) - kov3hd</description>
+		<disk name="kov3hd_v105" sha1="c185888c59880805bb76b5c0a42b05c614dcff37"/>
+	</machine>
+	<machine name="MAME (v0.184) - lupinsho">
+		<description>MAME (v0.184) - lupinsho</description>
+		<disk name="gds-0018" sha1="0633a99a666f363ab30450a76b9753685d6b1f57" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - mj2c">
+		<description>MAME (v0.184) - mj2c</description>
+		<disk name="gdx-0006c" sha1="505653117a73ed8b256ccf19450e7573a4dc57e9" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - mj3d">
+		<description>MAME (v0.184) - mj3d</description>
+		<disk name="gdx-0017d" sha1="cfbbd452c8f4efe0e99f398f5521fc3574b913bb" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - monkeyba">
+		<description>MAME (v0.184) - monkeyba</description>
+		<disk name="gds-0008" sha1="2fadcd141bdbde77b2b335b270959a516af44d99" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - outr2st">
+		<description>MAME (v0.184) - outr2st</description>
+		<disk name="gdx-0014a" sha1="4f9656634c47631f63eab554a13d19b15558217e" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - radirgyo">
+		<description>MAME (v0.184) - radirgyo</description>
+		<disk name="gdl-0032" sha1="ebd7a40e59082e660ebf9a2d4ae7cb64371dae8d" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - scg06nt">
+		<description>MAME (v0.184) - scg06nt</description>
+		<disk name="gdx-0018a" sha1="e6f3dc8066392854ad7d83f81d3cbc81a5e340b3" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - tfupdate">
+		<description>MAME (v0.184) - tfupdate</description>
+		<disk name="gdt-0011" sha1="71bfa8f53d211085c020d54f55eeeabf85212a0b" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - wangmid2">
+		<description>MAME (v0.184) - wangmid2</description>
+		<disk name="gdx-0016a" sha1="cb306df60550bbd8df312634cb97014bb39f1631" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.184) - wangmid2j">
+		<description>MAME (v0.184) - wangmid2j</description>
+		<disk name="gdx-0015" sha1="259483fd211a70c23205ffd852316d616c5a2740" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.188) - vs42006">
+		<description>MAME (v0.188) - vs42006</description>
+		<disk name="gdt-0020d" sha1="db256d094b9754d452d7a2b8a370699d21141c1f" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.197) - pingu">
+		<description>MAME (v0.197) - pingu</description>
+		<disk name="pingu" sha1="9163fb1d4dd96ef4417cad458f2270bf7bd58f01" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.198) - pingu">
+		<description>MAME (v0.198) - pingu</description>
+		<disk name="pingu" sha1="bab4f005f779cc2cc804ef1fce29cb17c7d613b9" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.202) - superdbz">
+		<description>MAME (v0.202) - superdbz</description>
+		<disk name="db1" sha1="5f4031e2beda9c1cd4a5a9a07740fa50946b73f2"/>
+	</machine>
+	<machine name="MAME (v0.209) - totlvice">
+		<description>mame (v0.209) - totlvice</description>
+		<disk name="639aab01" sha1="bb99db2eeaecabfda8f20b7b06f714605bbd5b7c"/>
+	</machine>
+	<machine name="MAME (v0.212) - simpbowl">
+		<description>MAME (v0.212) - simpbowl</description>
+		<disk name="simpbowl" sha1="72b32a863e6891ad3bfc1fdfe9cb90a2bd334d71" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.213) - ggxxsla">
+		<description>MAME (v0.213) - ggxxsla</description>
+		<disk name="gdl-0033a" sha1="c2a6b57b11f2528a212e186f9fa2127120aca111"/>
+	</machine>
+	<machine name="MAME (v0.213) - initdv2j">
+		<description>MAME (v0.213) - initdv2j</description>
+		<disk name="gds-0026a" sha1="f56a85ebb842838561c15cb53ce81eb341e91300"/>
+	</machine>
+	<machine name="MAME (v0.213) - jojo">
+		<description>MAME (v0.213) - jojo</description>
+		<disk name="cap-jjk000" sha1="09869f6d8c032b527e02d815749dc8fab1289e86" status="baddump"/>
+		<disk name="cap-jjk-2" sha1="0f5c09171409213e191a607ee89ca3a91fe9c96a" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.213) - redearth">
+		<description>MAME (v0.213) - redearth</description>
+		<disk name="cap-wzd-5" sha1="e5676752b08283dc4a98c3d7b759e8aa6dcd0679" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.213) - sfiii">
+		<description>MAME (v0.213) - sfiii</description>
+		<disk name="cap-sf3-3" sha1="606e62cc5f46275e366e7dbb412dbaeb7e54cd0c" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.213) - sfiii2">
+		<description>MAME (v0.213) - sfiii2</description>
+		<disk name="cap-3ga000" sha1="4e162885b0b3265a56e0265037bcf247e820f027" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.213) - sfiii3">
+		<description>MAME (v0.213) - sfiii3</description>
+		<disk name="cap-33s-1" sha1="2f4a9006a31903114f9f9dc09465ae253e565c51" status="baddump"/>
+		<disk name="cap-33s-2" sha1="41b0e246db91cbfc3f8f0f62d981734feb4b4ab5" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.214) - jojoba">
+		<description>MAME (v0.214) - jojoba</description>
+		<disk name="cap-jjm-0" sha1="0678a0baeb853dcff1d230c14f0873cc9f143d7b" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.214) - tfupdate">
+		<description>MAME (v0.214) - tfupdate</description>
+		<disk name="gdt-0011" sha1="834e261f2752883ceac0220a0305f9b09c3b5a9b"/>
+	</machine>
+	<machine name="MAME (v0.220) - ngdup23a">
+		<description>MAME (v0.220) - ngdup23a</description>
+		<disk name="gds-0023a" sha1="cfd49a1f56e4ddd198f2237a87d412d48c1251e1"/>
+	</machine>
+	<machine name="MAME (v0.221) - vs4j">
+		<description>MAME (v0.221) - vs4j</description>
+		<disk name="gdt-0013c" sha1="9010371eac31bd8d211838ab7b73fc4887ee0b1c"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidx3">
+		<description>MAME (v0.229) - bmiidx3</description>
+		<disk name="gc992-jaa01" sha1="7e5389735dff379bb286ba3744edf59b7dfcc74b" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidx6">
+		<description>MAME (v0.229) - bmiidx6</description>
+		<disk name="b4ujaa01" sha1="d8f5d56b8728bea761dc4cdbc04851094d276bd6" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidx8">
+		<description>MAME (v0.229) - bmiidx8</description>
+		<disk name="c44jaa01" sha1="8b544c81bc56b19e4aa1649e68824811d6d51ce5" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.229) - bmiidxc">
+		<description>MAME (v0.229) - bmiidxc</description>
+		<disk name="896jabbm" sha1="117ae4c876207bbaf9e8fe0fdf5bb161155c1bdb" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.229) - kbm">
+		<description>MAME (v0.229) - kbm</description>
+		<disk name="974jaa02" sha1="3b9946083239eb5687f66a49df24568bffa4fbbd" status="baddump"/>
+		<disk name="974jac01" sha1="c6145d7090e44c87f71ba626620d2ae2596a75ca" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.229) - kbm2nd">
+		<description>MAME (v0.229) - kbm2nd</description>
+		<disk name="a01jaa01" sha1="37bc3879719b3d3c6bc8a5691abd7aa4aec87d45" status="baddump"/>
+		<disk name="a01jaa02" sha1="a3fdeee0f85a7a9718c0fb1cc642ac22d3eff8db" status="baddump"/>
+	</machine>
+	<machine name="MAME (v0.231) - pcnfrk4m">
+		<description>MAME (v0.231) - pcnfrk4m</description>
+		<disk name="a25aaa02" sha1="72876091b753b9697c48f51cfd0c512c28e173a6" status="baddump" />
+	</machine>
+	<machine name="MAME (v0.247) - cobrata">
+		<description>MAME (v0.247) - cobrata</description>
+		<disk name="cbr1-ha" sha1="a20d4ace91a2f2caab0804ebdf62c87ab267239b" />
+	</machine>
+	<machine name="MAME (v0.251) - gmfamily">
+		<description>MAME (v0.251) - gmfamily</description>
+		<disk name="gamesfamily_1.1" sha1="cd6b8d19f430c510a95a838d7b8c578f89ccf834"/>
+	</machine>
+	<machine name="MAME (v0.251) - neomania">
+		<description>MAME (v0.251) - neomania</description>
+		<disk name="neomania" sha1="4a865d1ed67901b98b37f94cfdd591fad38b404a"/>
+	</machine>
+	<machine name="MAME (v0.251) - plycntrchtr">
+		<description>MAME (v0.251) - plycntrchtr</description>
+		<disk name="playcenter_epox_9.3_tournament" sha1="64a88d4ab10d82ba0bd175511242ba6771cfc5ce"/>
+	</machine>
+</datafile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mk14_quik</name>
+		<description>MK-14 quickloads</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="fallman">
+		<description>Falling Man</description>
+		<year>1979</year>
+		<publisher>Practical Electronics</publisher>
+		<rom name="fallman.bin" size="140" crc="1fc5a224" sha1="36b8fcc5491f336dd45b0863f654553920ce07cd" />
+	</machine>
+	<machine name="invaders">
+		<description>Invaders</description>
+		<year>2022</year>
+		<publisher>Realtime</publisher>
+		<rom name="invaders.bin" size="1020" crc="cdea9e08" sha1="5a7ab0822b3d703cd8fb964e26297c05cc9dcfde" />
+	</machine>
+	<machine name="pong">
+		<description>Pong</description>
+		<year>2022</year>
+		<publisher>Milan Humpolik</publisher>
+		<rom name="pong.bin" size="570" crc="1df23d1e" sha1="c3ccf8891b4d317d694e1b5089c729592e54a9b0" />
+	</machine>
+</datafile>

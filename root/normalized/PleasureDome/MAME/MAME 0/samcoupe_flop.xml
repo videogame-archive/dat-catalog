@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>samcoupe_flop</name>
+		<description>SAM Coupé floppy disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="5trislnd">
+		<description>Five on a Treasure Island</description>
+		<year>1990</year>
+		<publisher>Enigma Variations</publisher>
+		<rom name="fiveonatreasureisland.dsk" size="860416" crc="5307cd36" sha1="f9400b504045629200b4a751fe6abcb4009ceac9" />
+	</machine>
+	<machine name="batnball">
+		<description>Batz 'n Balls</description>
+		<year>1992</year>
+		<publisher>Revelation Software</publisher>
+		<rom name="batznballs.dsk" size="910336" crc="3f9528e9" sha1="453ffae4da3cce3b5c7424ce4da1ae5bc7a6b274" />
+	</machine>
+	<machine name="boing">
+		<description>Boing!</description>
+		<year>1992</year>
+		<publisher>Noesis Software</publisher>
+		<rom name="boing.dsk" size="819200" crc="c7f81167" sha1="7305db3c9db95980d5e167e4b71aa680edef6055" />
+	</machine>
+	<machine name="castle">
+		<description>Castle</description>
+		<year>1991</year>
+		<publisher>John Hawkins</publisher>
+		<rom name="castle.mgt" size="819200" crc="1a3de955" sha1="a8cad869d31c05a46306973dffc3b289aa366f51" />
+	</machine>
+	<machine name="defenders">
+		<description>Defenders Of The Earth</description>
+		<year>1990</year>
+		<publisher>Enigma Variations</publisher>
+		<rom name="defenders of the earth.dsk" size="819200" crc="ba7dc965" sha1="13a7ac6b437433604ad6044238380c322b87fc43" />
+	</machine>
+	<machine name="dominobx">
+		<description>Domino Box</description>
+		<year>1997</year>
+		<publisher>Supplement Software</publisher>
+		<rom name="dominobox.dsk" size="819200" crc="23abd828" sha1="7eda0ecab957db7df4cff9ae8c8f24e3cfe57c86" />
+	</machine>
+	<machine name="doubletp">
+		<description>Double Top</description>
+		<year>1993</year>
+		<publisher>Supplement Software</publisher>
+		<rom name="doubletop.mgt" size="819200" crc="f8b4c583" sha1="b6cff3ab3aa0df571b376588217d3c7e27bed976" />
+	</machine>
+	<machine name="exodus">
+		<description>Exodus</description>
+		<year>1993</year>
+		<publisher>Apex Developments</publisher>
+		<rom name="exodus - disk 1 - intro.dsk" size="860416" crc="ea97bd4b" sha1="8797e7b92f8c4e803ee6a3c58b4b0f3dfab711ec" />
+		<rom name="exodus - disk 2 - game.dsk" size="860416" crc="da163757" sha1="cf25b0f4ed68370cccc8a156ce585186d954aaa8" />
+	</machine>
+	<machine name="lemmings">
+		<description>Lemmings</description>
+		<year>1993</year>
+		<publisher>FRED Publishing</publisher>
+		<rom name="lemmings.dsk" size="961280" crc="61918f08" sha1="0fa73ae3f07145b21b387e3cb88267226582002d" />
+	</machine>
+	<machine name="manic">
+		<description>Manic Miner (2 Level Demo)</description>
+		<year>1991</year>
+		<publisher>Revelation Software / Software Projects</publisher>
+		<rom name="manic miner (1992) (revelation software) (demo).dsk" size="819200" crc="02708a54" sha1="a2d5634f5e64960db21eed38c1cef79bd2e13e7a" />
+	</machine>
+	<machine name="ppersia">
+		<description>Prince of Persia</description>
+		<year>1990</year>
+		<publisher>Revelation Software</publisher>
+		<rom name="prince of persia.dsk" size="857856" crc="29020c84" sha1="e75292191c9c403bc8422cb490ad189b4b9dc5cc" />
+	</machine>
+	<machine name="quizball">
+		<description>Quizball</description>
+		<year>1991</year>
+		<publisher>Revelation Software</publisher>
+		<rom name="QuizBall.dsk" size="860416" crc="20661bbc" sha1="33dd733d50a6ff82ce876299fd15853c9dc411d6" />
+	</machine>
+	<machine name="samdos1">
+		<description>Sam Coupe System Disk (SAMDOS v1.1)</description>
+		<year>1990</year>
+		<publisher>Miles Gordon Technology</publisher>
+		<rom name="sam coupe system disk (SAMDOS v1.1).dsk" size="819200" crc="2d871850" sha1="6982d32a0a4b45e9bcb7239b2207e62a7de343dd" />
+	</machine>
+	<machine name="samdos2">
+		<description>Sam Coupe System Disk (SAMDOS v2.0)</description>
+		<year>1990</year>
+		<publisher>Miles Gordon Technology</publisher>
+		<rom name="sam coupe system disk (SAMDOS v2.0).dsk" size="819200" crc="6634f061" sha1="a0b6696ea81356bff052daeb7fc49cc4a9f7ff17" />
+	</machine>
+	<machine name="samstrikes">
+		<description>Sam Strikes Out!</description>
+		<year>1990</year>
+		<publisher>Enigma Variations</publisher>
+		<rom name="sam strikes out.dsk" size="819200" crc="c11bbd22" sha1="6f6bdd9add07e6ce319fa93c83177d0ab9221829" />
+	</machine>
+	<machine name="sophistry">
+		<description>Sophistry</description>
+		<year>1994</year>
+		<publisher>Revelation Software</publisher>
+		<rom name="sophistry.dsk" size="860416" crc="d562c025" sha1="de7dae507b26a1ef80b6ee70bb1e59ce5197b10d" />
+	</machine>
+	<machine name="spellmst">
+		<description>Spell Master</description>
+		<year>1992</year>
+		<publisher>FRED Publishing</publisher>
+		<rom name="spellmaster.dsk" size="819200" crc="7b30e3c4" sha1="408ed5a9e8ff245eb746dc306d515b6faf62a7e6" />
+	</machine>
+	<machine name="sphera">
+		<description>Sphera</description>
+		<year>1990</year>
+		<publisher>Enigma Variations</publisher>
+		<rom name="sphera.dsk" size="819200" crc="6e8cc190" sha1="5502ae252d570129a82aecc8e17b1a4d197ab4ff" />
+	</machine>
+	<machine name="splat">
+		<description>Splat!</description>
+		<year>1991</year>
+		<publisher>Revelation Software</publisher>
+		<rom name="splat.dsk" size="860416" crc="4b429c21" sha1="71963862173fff0b5b1bafe3145e50d8fe5e90ac" />
+	</machine>
+</datafile>

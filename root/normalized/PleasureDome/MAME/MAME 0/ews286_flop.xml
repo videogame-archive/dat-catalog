@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ews286_flop</name>
+		<description>Ericsson PC AT WS286 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="dos310c">
+		<description>DOS v3.10C</description>
+		<year>1986</year>
+		<publisher>Microsoft/Ericsson</publisher>
+		<rom name="ews286dos3_10c.imd" size="324574" crc="7e6d22ef" sha1="fed510b64b9e1b20ca66ecc8baa195f2dca3ca9c" />
+	</machine>
+	<machine name="emp410">
+		<description>Ericsson Maintenance Program v4.10</description>
+		<year>1986</year>
+		<publisher>Ericsson</publisher>
+		<rom name="ews286maintenance4_10.imd" size="301579" crc="3ce8632a" sha1="5b51587504318257c87e1856476f07e5df279abe" />
+	</machine>
+	<machine name="sup310c">
+		<description>DOS Supplemental Programs v3.10C</description>
+		<year>1986</year>
+		<publisher>Microsoft/Ericsson</publisher>
+		<rom name="ews286dossup3_10c.imd" size="267342" crc="be271f65" sha1="597598b3aaa2db56a580ddfc90734bd9bceecb74" />
+	</machine>
+</datafile>

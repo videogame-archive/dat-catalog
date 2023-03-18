@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>prof80</name>
+		<description>Conitec PROF-80 floppy disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm30">
+		<description>CP/M 3.0</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cpm-a.td0" size="536773" crc="27a3018a" sha1="baec93eee25bbd341ed3ffd76c8dbf5e0d14f3b8" />
+		<rom name="prof80_3.td0" size="256891" crc="4108cb30" sha1="7d73c08a098bcb3a289d25a6300d35d1547b1ea0" />
+	</machine>
+</datafile>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SWP Machine Roms</name>
+		<description>SWP Machine Roms</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="zip"/>
+	</header>
+	<machine name="Adders &amp; Ladders (Barcrest) [Rom]">
+		<description>Adders &amp; Ladders (Barcrest) [Rom]</description>
+		<rom name="al.p1" size="65536" crc="97579eb2" sha1="68f08ab73e0c8044de32f7eea1b3abc1fefff830"/>
+		<rom name="al.p2" size="65536" crc="ca877046" sha1="7d0e1bb471b7acc89d04953ee5e0b34f64d58325"/>
+		<rom name="al.p3" size="65536" crc="92b5e1c4" sha1="910126527ddb9d83f5c9c29caf2424ae4ebbc640"/>
+		<rom name="al.p4" size="65536" crc="5e0e3b23" sha1="3862e7b873a1e2762032151289ce2ad886a8cc3c"/>
+		<rom name="al.q1" size="65536" crc="b9b50b70" sha1="1887ab00ee004e3f27902d6880fa31277a981891"/>
+		<rom name="al.q2" size="65536" crc="1bed86ac" sha1="8e6563b5441ad9ddd468a3d9ae906733fed7912a"/>
+		<rom name="al.q3" size="65536" crc="294d8f28" sha1="9f9aca491ba6c4dc5cfb91da867990a9610c3a28"/>
+		<rom name="al.q4" size="65536" crc="aa3e9fbd" sha1="59d0868f4c8b3f56ca31a11d2e6af83b202bb735"/>
+		<rom name="al.q5" size="65536" crc="503f4193" sha1="86df379c736598ba59446961bf0666e155164e1d"/>
+		<rom name="al.q6" size="65536" crc="9fd77e52" sha1="d8fdebb0fd57ab9ea9797dd386168581a45ebc62"/>
+		<rom name="al.q7" size="65536" crc="cf3fa7c7" sha1="fa1edf09c6d3a8b5737474117b0306ef64f7741c"/>
+		<rom name="al.q8" size="65536" crc="55058a63" sha1="cf9edef5264f4301be4ee11f221ab67a5183a603"/>
+		<rom name="al.q9" size="65536" crc="22274191" sha1="9bee5709edcd853e96408f37447c0f5324610903"/>
+		<rom name="al.qa" size="65536" crc="1fe98b4d" sha1="533afeaea42903905f6f1206bba1a023b141bdd9"/>
+	</machine>
+	<machine name="Aladdin's Cave (Maygay) [Rom]">
+		<description>Aladdin's Cave (Maygay) [Rom]</description>
+		<rom name="sw8-322.u27" size="131072" crc="9a159893" sha1="7289261f9956392e9823791bf9c979c47d7def44"/>
+		<rom name="sw8-322.u28" size="131072" crc="5dcf60f5" sha1="b3f5a1bcdf95c2476b4ab57293fd676e1a31f8f6"/>
+		<rom name="sw8-323.u27" size="131072" crc="9a159893" sha1="7289261f9956392e9823791bf9c979c47d7def44"/>
+		<rom name="sw8-323.u28" size="131072" crc="0d439b33" sha1="12f8e9e466da52e91208363000f8271293f08c8a"/>
+	</machine>
+	<machine name="Believe It Or Not (Maygay) [Rom]">
+		<description>Believe It Or Not (Maygay) [Rom]</description>
+		<rom name="sw3-418.u15" size="131072" crc="0716a47b" sha1="acbe903c270d2bb20c408d378007136803f96805"/>
+		<rom name="sw3-418.u16" size="131072" crc="0d02369b" sha1="4acbffb31bf6e98156e0b581e4e81459b33a845e"/>
+		<rom name="sw3-418.u17" size="131072" crc="f1ddf287" sha1="c1f7e92188995e9dbf47d50947bb7941b523b916"/>
+		<rom name="sw3-418.u18" size="131072" crc="b81dbac9" sha1="9549596169cff9b2bbbe12db551122e4d874b274"/>
+	</machine>
+	<machine name="Big Break (Maygay) [Rom]">
+		<description>Big Break (Maygay) [Rom]</description>
+		<rom name="656u27" size="131072" crc="b9992edb" sha1="7a5a0e029b6aaa94c32560f1170bdee0d42ddd62"/>
+		<rom name="656u28" size="131072" crc="19004505" sha1="992d66d2e35c2f232cc01aaca656cccbd55bc401"/>
+		<rom name="657u27" size="131072" crc="26532336" sha1="cdf21b6d20b93065a38868834fd49642c3f87443"/>
+		<rom name="657u28" size="131072" crc="8d1406bf" sha1="570a208152c51e647eb9cef61009e848cb144ae7"/>
+	</machine>
+	<machine name="Blox On Barquest (Bwb) [Rom]">
+		<description>Blox On Barquest (Bwb) [Rom]</description>
+		<rom name="blxv___2.0_0" size="16384" crc="b399b85e" sha1="d36391fee4e3126754d6a0fa5f52fe05bc676930"/>
+		<rom name="blxv___2.0_1" size="65536" crc="68134eda" sha1="b324ae1243164c7be7f5eced7ff93760e2176a4e"/>
+		<rom name="blxv___2.0_2" size="65536" crc="6b1f8588" sha1="e8a443f062555f1ed228e1bfed2031927bcd7015"/>
+		<rom name="blxv___2.0_3" size="65536" crc="c62d704b" sha1="bea0c9519063f1601f70372ccb49fb892fbd6e76"/>
+		<rom name="blxv___2.0_4" size="65536" crc="e431471a" sha1="cf90dc48be3bc5e3c5a8efea5818dbc15fa442e9"/>
+		<rom name="blxv___2.0_5" size="65536" crc="98ac6bc7" sha1="9575014ba21fa4330138a34f53e13d30d312bc8b"/>
+		<rom name="blxv___2.0_6" size="65536" crc="a3d92b5b" sha1="1e7042d5eae4a19a01a3ef7d806c434886dc9f4d"/>
+		<rom name="blxv_d_2.0_0" size="16384" crc="2e0891e1" sha1="3e8ffd0d41227a8a1e311ca0c0bde7590e06dfbd"/>
+	</machine>
+	<machine name="Brain Box (Bellfruit) [Rom]">
+		<description>Brain Box (Bellfruit) [Rom]</description>
+		<rom name="bbb10.bin" size="65536" crc="76d061ba" sha1="d2d5cb9c24ef04a13c649781fe7c67b13415aa4b"/>
+	</machine>
+	<machine name="Brain Box 2 (Bellfruit) [Rom]">
+		<description>Brain Box 2 (Bellfruit) [Rom]</description>
+		<rom name="39360122.p1" size="32768" crc="949778b3" sha1="b40e2ca1bfe91b93165df38ddf84a1d5a6cf6ce2"/>
+		<rom name="39361122.p1" size="32768" crc="597bea46" sha1="23cb9ce90508525c84befefafc171841989f6c38"/>
+		<rom name="bboxint" size="32768" crc="ecd2a1d1" sha1="f9e77fb63f20748f644ab270b56a68e9e53b77f9"/>
+	</machine>
+	<machine name="Cluedo (Jpm) [Rom]">
+		<description>Cluedo (Jpm) [Rom]</description>
+		<rom name="1214.bin" size="524288" crc="fe43aeae" sha1="017a471af5766ef41fa46982c02941fb4fc35174"/>
+		<rom name="6977.bin" size="524288" crc="6030dfc1" sha1="8746909b0b7f7eb99cf5388ac85db6addb6deee3"/>
+		<rom name="6978.bin" size="524288" crc="21e30e06" sha1="4e97baa9e39663b662dd202bbaf34be0e29930de"/>
+		<rom name="6979.bin" size="524288" crc="5575162a" sha1="27f7b5f4ee7d95319b03e2414a25d5b1a6c54fc7"/>
+		<rom name="6980.bin" size="524288" crc="968224df" sha1="726c278622681206a7f34bafe1b5bb4421232cc4"/>
+		<rom name="6981.bin" size="524288" crc="2ad3ee20" sha1="9370dab84a255864f40254772199211884d8557b"/>
+		<rom name="6982.bin" size="524288" crc="7478e91b" sha1="158b473b46aeccf011669cb58dc3a1596370d8f1"/>
+		<rom name="7322.bin" size="524288" crc="049ad02d" sha1="10297dd466d0019e8d6c162028a23dd235494fb4"/>
+		<rom name="7323.bin" size="524288" crc="47ce9c40" sha1="596a1628142d3c81f2c4ab11ed421f27d082d5f6"/>
+		<rom name="7324.bin" size="524288" crc="5946bd75" sha1="cc4ffa1e4c3628de6b60027d95df413b6d94e669"/>
+		<rom name="7325.bin" size="524288" crc="416843ab" sha1="0d758f7df96384a04596366b1864d5005ca540ee"/>
+		<rom name="7326.bin" size="524288" crc="6c6b523e" sha1="3a140aff92c00da45433698c3c946fc0134b4863"/>
+		<rom name="clugrb1" size="524288" crc="176ae2df" sha1="135fd2640c255e5321b1a6ba35f72fa2ba8f04b8"/>
+		<rom name="clugrb2" size="524288" crc="06ab2f78" sha1="4325fd9096e73956310e97e244c7fe1ee8d27f5c"/>
+	</machine>
+	<machine name="Coronation Street (Jpm) [Rom]">
+		<description>Coronation Street (Jpm) [Rom]</description>
+		<rom name="20824.bin" size="524288" crc="f5cc07cb" sha1="45b83829ba9bd5f22c2978bbde9c0e25c476e719"/>
+		<rom name="20825.bin" size="524288" crc="2e749edf" sha1="12b24836a71085aef8ca1bc61e6671f8d6e1908c"/>
+		<rom name="20826.bin" size="524288" crc="9d3d85d8" sha1="a6ab622fac9ece04f9b255e10eac7812549afb8a"/>
+	</machine>
+	<machine name="Crossword Quiz (Maygay) [Rom]">
+		<description>Crossword Quiz (Maygay) [Rom]</description>
+		<rom name="sw2-319.u15" size="131072" crc="0a591eb7" sha1="dad833711a5779300757e3e0fbe8f55073470724"/>
+		<rom name="sw2-319.u16" size="131072" crc="8460cb55" sha1="793c7e31619e5a30ad8bf851253c8cfcbddefbd7"/>
+		<rom name="sw2-319.u17" size="131072" crc="f065c219" sha1="b83a835a107740e2e846d31b4988237f1e60db78"/>
+		<rom name="sw2-319.u18" size="131072" crc="0c291cb3" sha1="aa7740a7a34e653e9b39a0ce64b344ace9d74e19"/>
+		<rom name="sw2-320.u15" size="131072" crc="02679239" sha1="9c3f2ca7048a6ef716dbdd20f9a921e1d505638f"/>
+		<rom name="sw2-320.u16" size="131072" crc="8460cb55" sha1="793c7e31619e5a30ad8bf851253c8cfcbddefbd7"/>
+		<rom name="sw2-320.u17" size="131072" crc="f065c219" sha1="b83a835a107740e2e846d31b4988237f1e60db78"/>
+		<rom name="sw2-320.u18" size="131072" crc="0c291cb3" sha1="aa7740a7a34e653e9b39a0ce64b344ace9d74e19"/>
+	</machine>
+	<machine name="Crystal Maze, The (Barcrest) [Rom]">
+		<description>Crystal Maze, The (Barcrest) [Rom]</description>
+		<rom name="am1g.p1" size="524288" crc="e8cf8203" sha1="e9f42e5c18b97807f51284ad2416346578ed73c4"/>
+		<rom name="am1g.p2" size="524288" crc="7b036151" sha1="7b0040c296059b1e1798ddedf0ecb4582d67ee70"/>
+		<rom name="am1g.p3" size="524288" crc="48f17b20" sha1="711c46fcfd86ded8ff7da883188d70560d20e42f"/>
+		<rom name="am1g.p4" size="524288" crc="2b3d9a97" sha1="7468fffd90d840d245a70475b42308f1e48c5017"/>
+		<rom name="am1g.p5" size="524288" crc="68286bb1" sha1="c307e3ad1e0fd92314216c8e554aafa949559452"/>
+		<rom name="am1g.p6" size="524288" crc="a6b498ad" sha1="117e1a4ec7e2d3c7d530c5a56cbc1d24b0ddc747"/>
+		<rom name="am1g.p7" size="524288" crc="15882699" sha1="b29a331e51a37554323b91330a7c2b62b33a943a"/>
+		<rom name="am1g.p8" size="524288" crc="6f0f855b" sha1="ab411d1af0f88049a6c435bafd4b1fa63f5519b1"/>
+		<rom name="am1z.p1" size="524288" crc="d2fdda6d" sha1="96c27dedc3cf1dd478e6169200844d418a276f14"/>
+		<rom name="am1z.p2" size="524288" crc="1637170f" sha1="fd17a0e7794f01bf4ad7a16b185f87cb060c70ab"/>
+		<rom name="cry.gr5" size="524288" crc="20f73433" sha1="593b40ac17591ac312ad41b4d3a5772626137bba"/>
+		<rom name="cry.gr6" size="524288" crc="835da1f2" sha1="f93e075916d370466832871410591570ad7b9f3b"/>
+		<rom name="cry.gr7" size="524288" crc="c0e442ee" sha1="a3877b200538642fe2bc96cfe8b33f04d8a82a98"/>
+		<rom name="cry.gr8" size="524288" crc="500172fa" sha1="d83a37612daa79ba8425fdb28f39b8324b5736b6"/>
+		<rom name="cry.p1" size="524288" crc="40fbde50" sha1="91bd21c0aaffb9c9b89a114affbc485b12ae9bb4"/>
+		<rom name="cry.p2" size="524288" crc="fa7d006f" sha1="ecc03b4d7a4089feccc53ad05313c35b33e061d7"/>
+		<rom name="cry.p3" size="524288" crc="e8cf8203" sha1="e9f42e5c18b97807f51284ad2416346578ed73c4"/>
+		<rom name="cry.p4" size="524288" crc="7b036151" sha1="7b0040c296059b1e1798ddedf0ecb4582d67ee70"/>
+		<rom name="cry.p5" size="524288" crc="48f17b20" sha1="711c46fcfd86ded8ff7da883188d70560d20e42f"/>
+		<rom name="cry.p6" size="524288" crc="2b3d9a97" sha1="7468fffd90d840d245a70475b42308f1e48c5017"/>
+		<rom name="cry.p7" size="524288" crc="20f73433" sha1="593b40ac17591ac312ad41b4d3a5772626137bba"/>
+		<rom name="cry.p8" size="524288" crc="835da1f2" sha1="f93e075916d370466832871410591570ad7b9f3b"/>
+		<rom name="cry.p9" size="524288" crc="c0e442ee" sha1="a3877b200538642fe2bc96cfe8b33f04d8a82a98"/>
+		<rom name="cry.pa" size="524288" crc="500172fa" sha1="d83a37612daa79ba8425fdb28f39b8324b5736b6"/>
+		<rom name="cryd.p1" size="524288" crc="b245f661" sha1="85a8baca8797fea74bc36eea077be56bde8e54a9"/>
+		<rom name="crys.p1" size="524288" crc="40fbde50" sha1="91bd21c0aaffb9c9b89a114affbc485b12ae9bb4"/>
+	</machine>
+	<machine name="Crystal Maze, The - Now Featuring Ocean Zone! (Barcrest) [Rom]">
+		<description>Crystal Maze, The - Now Featuring Ocean Zone! (Barcrest) [Rom]</description>
+		<rom name="am2g.p1" size="524288" crc="115402db" sha1="250f2eded1b88a1abf82febb009eadbb90936f8a"/>
+		<rom name="am2g.p2" size="524288" crc="5d804fbb" sha1="8dc02eb9329f9c29d4bcc9a0315ae96085625d3e"/>
+		<rom name="am2g.p3" size="524288" crc="5ead0c06" sha1="35d9aefc60e2c391e32f8119a6dc44434d91c09e"/>
+		<rom name="am2g.p4" size="524288" crc="de4fb542" sha1="4bf8f8f6850fd819d91827d3c474bd488e61e5ac"/>
+		<rom name="am2g.p5" size="524288" crc="80b01ce2" sha1="4a3a4bcff4bd9affd1a5eeca5781b6af05bbcc16"/>
+		<rom name="am2g.p6" size="524288" crc="3e134ecc" sha1="1f8cdce62e693eb07c4620b64cc467339c0563de"/>
+		<rom name="am2g.p7" size="524288" crc="6eb36f1d" sha1="08b9ec184d64bdbdfa61d3e991a3647e74a7756f"/>
+		<rom name="am2g.p8" size="524288" crc="dda353ef" sha1="56a5b43f0b0bd9dbf348946a5758ebe63eadb8cf"/>
+		<rom name="am2z.p1" size="524288" crc="f27e02f0" sha1="8637904c201ece4f08ad63b4fd6d06a860fa762f"/>
+		<rom name="am2z.p2" size="524288" crc="4d24f482" sha1="9e3687db9d0233e56999017f3ed59ec543bce303"/>
+		<rom name="cr2.p3" size="524288" crc="88324715" sha1="c6c8de4e5aeda14232ec7b026da389774b3c7bb1"/>
+		<rom name="cr2.p4" size="524288" crc="8d54a81d" sha1="37753cf8595647aaf8b8267ca177b6744de9c6d4"/>
+		<rom name="cr2.p5" size="524288" crc="5cf8a2bf" sha1="2514e78e82842fa5c85d26de35637269cd08b21d"/>
+		<rom name="cr2.p6" size="524288" crc="cf793d2d" sha1="579c759f57fb6bb87aa27c9d5fb684058913dedc"/>
+		<rom name="cr2.p7" size="524288" crc="008aa4b0" sha1="b4cec6d11abd0e111c295533700595398ff59075"/>
+		<rom name="cr2.p8" size="524288" crc="bac04f5a" sha1="130721b7abf28dea1f8162705c8bfc5a4bb78152"/>
+		<rom name="cr22_2.1" size="524288" crc="2bcdff56" sha1="5ae4d4960db032ec9b8d66c53bc151830d009f61"/>
+		<rom name="cr22_2.2" size="524288" crc="92126def" sha1="531593dee05954000d9836018aeff9460aecbd26"/>
+		<rom name="cr22_2.3" size="524288" crc="88324715" sha1="c6c8de4e5aeda14232ec7b026da389774b3c7bb1"/>
+		<rom name="cr22_2.4" size="524288" crc="8d54a81d" sha1="37753cf8595647aaf8b8267ca177b6744de9c6d4"/>
+		<rom name="cr22_2.5" size="524288" crc="5cf8a2bf" sha1="2514e78e82842fa5c85d26de35637269cd08b21d"/>
+		<rom name="cr22_2.6" size="524288" crc="cf793d2d" sha1="579c759f57fb6bb87aa27c9d5fb684058913dedc"/>
+		<rom name="cr22_2.7" size="524288" crc="008aa4b0" sha1="b4cec6d11abd0e111c295533700595398ff59075"/>
+		<rom name="cr22_2.8" size="524288" crc="bac04f5a" sha1="130721b7abf28dea1f8162705c8bfc5a4bb78152"/>
+		<rom name="cr2d.p1" size="524288" crc="a150027b" sha1="f737b0e3b8954c1589a929b7e567cb55df4a3997"/>
+		<rom name="cr2d.p2" size="524288" crc="84ed6bce" sha1="7a11473e7ec277508952f7ae6cfc7ed28e1b5c99"/>
+		<rom name="cr2s.p1" size="524288" crc="2bcdff56" sha1="5ae4d4960db032ec9b8d66c53bc151830d009f61"/>
+		<rom name="cr2s.p2" size="524288" crc="92126def" sha1="531593dee05954000d9836018aeff9460aecbd26"/>
+	</machine>
+	<machine name="Crystal Maze, The - Team Challenge (Barcrest) [Rom]">
+		<description>Crystal Maze, The - Team Challenge (Barcrest) [Rom]</description>
+		<rom name="am3g.p1" size="524288" crc="49fe36af" sha1="7c39223b07f53ff57a56c3817299734491372170"/>
+		<rom name="am3g.p2" size="524288" crc="b8823cbd" sha1="206d3b1b2daff1979f97841041661f8407c35d4d"/>
+		<rom name="am3g.p3" size="524288" crc="b1870f17" sha1="54c6cabb56e4daa4ccf801d5e44b2789b116d562"/>
+		<rom name="am3g.p4" size="524288" crc="c015d446" sha1="669007e841afeb1084d9062d0a47c159e4c83cc9"/>
+		<rom name="am3g.p5" size="524288" crc="9de3802e" sha1="ec792f115a0708d68046ba0beb314b7e1f1eb422"/>
+		<rom name="am3g.p6" size="524288" crc="1e6e60b0" sha1="5e71714747073dd89852a84585642388ee440325"/>
+		<rom name="am3g.p7" size="524288" crc="a4611e29" sha1="91b164eea5dbdd1129ad12d7af2dbdb3cd68bcec"/>
+		<rom name="am3g.p8" size="524288" crc="1a10c22e" sha1="8533a5db3922b80b6e9f74e4e432a2b64bc24fc0"/>
+		<rom name="am3z.p1" size="524288" crc="9484e656" sha1="3c35a8ebeddea56d73ce8db4e93c51cdd9546d59"/>
+		<rom name="am3z.p2" size="524288" crc="1865ee80" sha1="b3ff8e1631d811b8e88664dd84ae82231ce1f5aa"/>
+		<rom name="cm3.p1" size="524288" crc="2d2edee5" sha1="0281ec97aaaaf4c7969340bd5995ac1541dbad54"/>
+		<rom name="cm3.p2" size="524288" crc="c223d7b9" sha1="da9d730716a30d0e93f2a02c1efa7f19457ae010"/>
+		<rom name="cm3.p3" size="524288" crc="2959c77b" sha1="8de533bfad48ad19a635dddcafa2a0825133b4de"/>
+		<rom name="cm3.p4" size="524288" crc="b7873e9a" sha1="a71fac883e02d5f49aee0a20f92dbdb00640ce8d"/>
+		<rom name="cm3.p5" size="524288" crc="c8375070" sha1="da2ba6591d8765f896c40d6526da8e945d02a182"/>
+		<rom name="cm3.p6" size="524288" crc="1ea36938" sha1="43f62935b21232d23f662e1e124663267edb1283"/>
+		<rom name="cm3.p7" size="524288" crc="9de3802e" sha1="ec792f115a0708d68046ba0beb314b7e1f1eb422"/>
+		<rom name="cm3.p8" size="524288" crc="1e6e60b0" sha1="5e71714747073dd89852a84585642388ee440325"/>
+		<rom name="cm3.p9" size="524288" crc="bfba55a7" sha1="22eb9b1f9fe83d3b424fd521b68e2976a1940df9"/>
+		<rom name="cm3.pa" size="524288" crc="07edda81" sha1="e94525be03f30e407051992925bb0d693f3d809b"/>
+		<rom name="cm3d.p1" size="524288" crc="245f00fa" sha1="ff5ae1a2ae024dfc0b4104360626e4106f4cd36f"/>
+		<rom name="cm3d.p2" size="524288" crc="091adbcb" sha1="1466b036d06f6335c90426095ad0f60ea958a29d"/>
+		<rom name="cm3s.p1" size="524288" crc="2d2edee5" sha1="0281ec97aaaaf4c7969340bd5995ac1541dbad54"/>
+		<rom name="cm3s.p2" size="524288" crc="c223d7b9" sha1="da9d730716a30d0e93f2a02c1efa7f19457ae010"/>
+	</machine>
+	<machine name="Every Second Counts (Bellfruit) [Rom]">
+		<description>Every Second Counts (Bellfruit) [Rom]</description>
+		<rom name="esc12int" size="32768" crc="741a1fe6" sha1="e741d0ae0d2f11036a358120381e4b0df4a560a1"/>
+		<rom name="esccobpa" size="65536" crc="d8eadeb7" sha1="9b94f1454e6a17bf8321b0ef4ddd0ed1a56150f7"/>
+		<rom name="escint1b" size="32768" crc="fde413c9" sha1="18724a1b771ba4c72e571c356591c5be32948d7a"/>
+	</machine>
+	<machine name="Eyes Down (Barcrest) [Rom]">
+		<description>Eyes Down (Barcrest) [Rom]</description>
+		<rom name="ed.p2" size="65536" crc="8804b926" sha1="cf9d49ca090a435819f2cd2d32dec3a6767f9e10"/>
+		<rom name="ed.p3" size="65536" crc="969d2264" sha1="b55f6881852f81ec9fb2c57c8137c872f4714710"/>
+		<rom name="ed.p4" size="65536" crc="80d9addd" sha1="f6359354c928e69a90cdf6d4f514c4992d3fa64c"/>
+		<rom name="edd.p1" size="65536" crc="369a145c" sha1="c54305690798086b4f809f38d1a6454d1d34fd0c"/>
+		<rom name="eds.p1" size="65536" crc="bd4f4c5d" sha1="4ad34d92d45c0b8c70af8454525dd669cab94c5c"/>
+	</machine>
+	<machine name="Find The Queen (Jpm) [Rom]">
+		<description>Find The Queen (Jpm) [Rom]</description>
+		<rom name="findthequeen.bin" size="32768" crc="9bd37775" sha1="9e4587124648008d144d1eac46a542056e55e270"/>
+	</machine>
+	<machine name="Give Us A Break (Jpm) [Rom]">
+		<description>Give Us A Break (Jpm) [Rom]</description>
+		<rom name="guab1a1.rom" size="32768" crc="f23a9d7d" sha1="f933e131bdcf21cfa6001c8e20fd11d94c7a9450"/>
+		<rom name="guab1b1.rom" size="32768" crc="af3b5492" sha1="6fd7f29e6ed2fadccc9246f1ebd049c3f9aeff13"/>
+		<rom name="guab2a1.rom" size="32768" crc="ae7a162c" sha1="d69721818b8e4daba776a678b62bc7f44f371a3f"/>
+		<rom name="guab2b1.rom" size="32768" crc="29aa26a0" sha1="8d425ad845ccfcd8995dbf6adc1ca17989a5d3ea"/>
+		<rom name="guab_questions.dsk" size="737280" crc="ecb41e06" sha1="2900a95046b38312c6035ea394b04b62c1d29f42"/>
+	</machine>
+	<machine name="Give Us A Clue (Maygay) [Rom]">
+		<description>Give Us A Clue (Maygay) [Rom]</description>
+		<rom name="sw3-146.u15" size="131072" crc="faa7ffa9" sha1="db7e555727d126c266b6e973b61d1df205256c38"/>
+		<rom name="sw3-146.u16" size="131072" crc="1f7209d9" sha1="b512e28cef973c9b6e0a8b630500a5de08206f32"/>
+		<rom name="sw3-146.u17" size="131072" crc="0ecdd43b" sha1="f666281d4c2a67675d75fc07f7dfd6b53558468a"/>
+		<rom name="sw3-146.u18" size="131072" crc="a107f3a9" sha1="35de6636f2ca07e5db0fc7527b6d94940242e2a3"/>
+		<rom name="sw3-147.u15" size="131072" crc="c2d420ad" sha1="3fe046fbb5eb51e85926707662e6009732f2d588"/>
+		<rom name="sw3-147.u16" size="131072" crc="1f7209d9" sha1="b512e28cef973c9b6e0a8b630500a5de08206f32"/>
+		<rom name="sw3-147.u17" size="131072" crc="0ecdd43b" sha1="f666281d4c2a67675d75fc07f7dfd6b53558468a"/>
+		<rom name="sw3-147.u18" size="131072" crc="a107f3a9" sha1="35de6636f2ca07e5db0fc7527b6d94940242e2a3"/>
+	</machine>
+	<machine name="Greek Skill (Hitech Amusement) [Rom]">
+		<description>Greek Skill (Hitech Amusement) [Rom]</description>
+		<rom name="greekskill.bin" size="65536" crc="ac5b7f65" sha1="9fd73c53173b3291684de3d1067a115e5f78a336"/>
+	</machine>
+	<machine name="Guinness Book Of Records (Maygay) [Rom]">
+		<description>Guinness Book Of Records (Maygay) [Rom]</description>
+		<rom name="16c55.u5" size="9215" crc="0bd92c3e" sha1="596f4d0a83ebc879ec64ba3038d2e9448d2f8901"/>
+		<rom name="16c64.u6" size="36863" crc="6ae364a2" sha1="56dde3d270c2cf81d9592c7c2284767188409b56"/>
+		<rom name="da70014.u05" size="524288" crc="5aceb7d6" sha1="c3099d3c83be2f5dd3e474557ca17a2c5385ed1f"/>
+		<rom name="da70014.u11" size="524288" crc="6cd1adcd" sha1="a803a4b9945498cc1a772b6b9d6948669782149d"/>
+		<rom name="dg70014.u01" size="524288" crc="ea24d687" sha1="6b2a069681236eed67f54ed6b1117416db7de9aa"/>
+		<rom name="dg70014.u02" size="524288" crc="31e151aa" sha1="2dd99973d829910a6af54d0a46ab37ba36b159b1"/>
+		<rom name="dg70014.u03" size="524288" crc="18ea3cf1" sha1="5a20597906b0209666bf937e0a4975a250eaaced"/>
+		<rom name="dg70014.u04" size="524288" crc="96a05459" sha1="cdc12733dfd9ae50c2d33397a2cf3831c1b275bf"/>
+		<rom name="dg70014.u07" size="524288" crc="602d79f1" sha1="ea873c42e93faff6df8c05a98b52b79e52caa28b"/>
+		<rom name="dg70014.u08" size="524288" crc="eb12693d" sha1="8d894a56bd7e280ab3d4456ef180c42ee87d6f3b"/>
+		<rom name="dg70014.u09" size="524288" crc="85534e69" sha1="1165e43c02dce8fe048dfb863b9eb61be7f68a48"/>
+		<rom name="dg70014.u10" size="524288" crc="6174f684" sha1="33ef0e28f69b810f3df899b15ac36577025b7b59"/>
+		<rom name="dig1127.u2" size="524288" crc="220b38fe" sha1="8ff20a9353736cda44ec11a99ac94b36f9db7430"/>
+		<rom name="dig1127.u3" size="524288" crc="45a2275d" sha1="8af08b5c007bb2bfe927df53bd167ea6045d8694"/>
+		<rom name="dq70014.u06" size="524288" crc="568ad7c7" sha1="078fceef241ac4c74b20a07718837973ee6402a5"/>
+		<rom name="dq70014.u12" size="524288" crc="7bd17c0b" sha1="395a0f72db64648bd5d953868aa42ed6a4c9e2ec"/>
+		<rom name="std951d.u28" size="131072" crc="d4a8686a" sha1="d25d4c7ed32874f33da787dfae1f661d06531359"/>
+		<rom name="std961d.u27" size="131072" crc="f52fa8da" sha1="80168d379d396b1fd76200caa203b0fd0f280b78"/>
+		<rom name="sw8-146.u27" size="131072" crc="af217e4e" sha1="5fcf72cc186f29641c7f9f50a35ad89dfc76d56f"/>
+		<rom name="sw8-146.u28" size="131072" crc="68c66f9b" sha1="76dc54e506dc05e66ce9d52a2e2cd2af0a365854"/>
+		<rom name="sw8-147.u27" size="131072" crc="9c428128" sha1="39d76d307bee7b4dce90ad4aa52a14a460b5ba35"/>
+		<rom name="sw8-147.u28" size="131072" crc="384a945d" sha1="761b35130574c108b8da40b0b1779cbda5797172"/>
+	</machine>
+	<machine name="Hangman (Jpm) [Rom]">
+		<description>Hangman (Jpm) [Rom]</description>
+		<rom name="20264.bin" size="524288" crc="50074528" sha1="8128b2270518af873df4b94d50c5c9849dda3e42"/>
+		<rom name="20265.bin" size="524288" crc="a0a6985c" sha1="ed960e6e88df111aebf208d7105dc241aa916684"/>
+		<rom name="20266.bin" size="524288" crc="38f6c73b" sha1="71bdeee0656686bd420d9cf1928a8118372c57e4"/>
+		<rom name="hang-gr1.bin" size="1048576" crc="5919344c" sha1="b5c1f98ebfc65743fa2f6c264179ed7115532a6b"/>
+		<rom name="hang-gr2.bin" size="1048576" crc="3194c6d4" sha1="11d5e7bfe60912b0eab2a1d06d1a74853ec23567"/>
+		<rom name="hang-q1.bin" size="524288" crc="0be99a57" sha1="49fe7faeccd3f9608927ff333fd5783e3cd7d266"/>
+		<rom name="hang-q2.bin" size="524288" crc="71328f71" sha1="59481b27dbcad109070cc4fd5c9c93f948991f03"/>
+		<rom name="hang-q3.bin" size="524288" crc="3fabeb81" sha1="67b4561ec4ac8c00728c86e2bce66f432c5f1e86"/>
+		<rom name="hang-q4.bin" size="524288" crc="64fbf56b" sha1="c5077f9995b890925ef608742ba77ef995de5a3b"/>
+		<rom name="hang-q5.bin" size="524288" crc="283e0c7f" sha1="64ed626e181d851d3ffd4a1c0e613cd769e0ae31"/>
+		<rom name="hang-q6.bin" size="524288" crc="9a6d3667" sha1="b4706d77dcd43e6f75e3e5e8bd1fbeebe84b8f60"/>
+		<rom name="hang-so1.bin" size="524288" crc="5efe1712" sha1="e4e7a73a1b1897ed6e96306f99d234fb3b47c59b"/>
+	</machine>
+	<machine name="Inquizitor (Bellfruit) [Rom]">
+		<description>Inquizitor (Bellfruit) [Rom]</description>
+		<rom name="inqvypp1" size="65536" crc="9bac8c6e" sha1="15e24d60c2f3997e637694f60daa552b22628766"/>
+		<rom name="inqvypp2" size="65536" crc="f9cd196c" sha1="0ac31d87462cbee6f41e19aefe740d876910bdf5"/>
+	</machine>
+	<machine name="Krypton Factor (Maygay) [Rom]">
+		<description>Krypton Factor (Maygay) [Rom]</description>
+		<rom name="sw6-099.u27" size="131072" crc="ea5b6583" sha1="70f1fd73d6e422cf0e9d39c8fcd9650085801953"/>
+		<rom name="sw6-099.u28" size="131072" crc="bb5a36b8" sha1="71562eba7975cefd5868ba1db6a9eeac27666cef"/>
+		<rom name="sw6-100.u27" size="131072" crc="ea5b6583" sha1="70f1fd73d6e422cf0e9d39c8fcd9650085801953"/>
+		<rom name="sw6-100.u28" size="131072" crc="a90f949b" sha1="4d8d92e78da69628b12e418e61a073f17d97ed8a"/>
+	</machine>
+	<machine name="London Underground (Maygay) [Rom]">
+		<description>London Underground (Maygay) [Rom]</description>
+		<rom name="lond09g0" size="131072" crc="2d3343e0" sha1="7618ab08c23f8f0e748a7b85ec3c7a52f1f64602"/>
+		<rom name="lond09g1" size="131072" crc="0f36cfbb" sha1="61c9df9247ede89734f24a2838c49f5e44884993"/>
+		<rom name="msa02176.g0" size="131072" crc="12c5414a" sha1="a570093adb67da2c7a3bdab38a419848ee188cdc"/>
+		<rom name="msa02176.g1" size="131072" crc="c2aae470" sha1="51e0523b68b0c45e80a7553ae5cadc74b7497b19"/>
+		<rom name="msa02177.g0" size="131072" crc="a97b9047" sha1="362ad27401fc2ae889761349af7dcf403318a6b6"/>
+		<rom name="msa02177.g1" size="131072" crc="8f0d6b71" sha1="83d81c528e72d5c0a754e47b0f0cbde7156ad908"/>
+		<rom name="sw8-232.u27" size="131072" crc="38c91eb5" sha1="5a9a7d97999e8e261854fb9e8cf4ff056c351e87"/>
+		<rom name="sw8-232.u28" size="131072" crc="5766291f" sha1="715a1269576a8b83a75be4922ef92976c96e70f7"/>
+		<rom name="sw8-233.u27" size="131072" crc="13fca198" sha1="8e259ffaba795bcbe7097a44049966b63e743413"/>
+		<rom name="sw8-233.u28" size="131072" crc="72f12dae" sha1="d0f41a164647f4b375baa35a929c5d1e9c9b82f4"/>
+	</machine>
+	<machine name="Mating Game (Barcrest) [Rom]">
+		<description>Mating Game (Barcrest) [Rom]</description>
+		<rom name="matd.p1" size="524288" crc="e660909f" sha1="0acd990264fd7faf1f91a796d2438e8c2c7b83d1"/>
+		<rom name="matd.p2" size="524288" crc="a4c7e9b4" sha1="30148c0257181bb88159e02d2b7cd79995ee84a7"/>
+		<rom name="matg.p3" size="524288" crc="571f4e8e" sha1="51babacb5d9fb1cc9e1e56a3b2a355597d04f178"/>
+		<rom name="matg.p4" size="524288" crc="52d8657b" sha1="e44e1db13c4abd4fedcd72df9dce1df594f74e44"/>
+		<rom name="matg.p5" size="524288" crc="9f0c9552" sha1="8b1197f20853e18841a8f64fd5ff58cdd0bd1dbd"/>
+		<rom name="matg.p6" size="524288" crc="59f2b6a8" sha1="4921cf1fc4c3bc50d2598b63726f61f68b41658c"/>
+		<rom name="matg.p7" size="524288" crc="64c0031a" sha1="a519addd5d8f4696967ec84c163d28cb81ff9f32"/>
+		<rom name="matg.p8" size="524288" crc="22370dae" sha1="72b1686b458750b5ee9dfe5599c308329d2c79d5"/>
+		<rom name="matq.p10" size="262144" crc="90364c3c" sha1="6a4d2a3dd2cf9040887503888e6f38341578ad64"/>
+		<rom name="matq.p9" size="262144" crc="2d42e982" sha1="80e476d5d65662059daa93a2fd383aecb74903c1"/>
+		<rom name="mats.p1" size="524288" crc="ebc7ea7e" sha1="11015489a803ba5c8dbdafd632424bbd6080aece"/>
+		<rom name="mats.p2" size="524288" crc="a4c7e9b4" sha1="30148c0257181bb88159e02d2b7cd79995ee84a7"/>
+		<rom name="matsnd.p1" size="524288" crc="f16df9e3" sha1="fd9b82d73e18e635a9ea4aabd8c0b4aa2c8c6fdb"/>
+		<rom name="matsnd.p2" size="524288" crc="0c041621" sha1="9156bf17ef6652968d9fbdc0b2bde64d3a67459c"/>
+		<rom name="matsnd.p3" size="524288" crc="c7435af9" sha1="bd6080afaaaecca0d65e6d4125b46849aa4d1f33"/>
+		<rom name="matsnd.p4" size="524288" crc="d7e65c5b" sha1="5575fb9f948158f2e94c986bf4bca9c9ee66a489"/>
+	</machine>
+	<machine name="Millionaire (Jpm) [Rom]">
+		<description>Millionaire (Jpm) [Rom]</description>
+		<rom name="pljm-f_1.bin" size="131072" crc="a4a9c5b8" sha1="2fa9f4a7ef05352498b91c2b7bcf4d9ca20614a5"/>
+		<rom name="pljm-f_2.bin" size="131072" crc="71f303b2" sha1="7fba05cb6107296cea9b5be575569daf98f2b9c1"/>
+	</machine>
+	<machine name="Monopoly (Jpm) [Rom]">
+		<description>Monopoly (Jpm) [Rom]</description>
+		<rom name="6538.bin" size="262144" crc="ccdd4ce3" sha1="dbb24682cea8081a447ca2c53395964fc46e7f56"/>
+		<rom name="6668.bin" size="524288" crc="30bf082a" sha1="29ba67a86e82f0eb4feb816a2031d62028eb11b0"/>
+		<rom name="6669.bin" size="524288" crc="85d38c2d" sha1="2f1a394df243e5fbbad31507b9074c997c473106"/>
+		<rom name="6670.bin" size="524288" crc="66e2a5e1" sha1="04d4b55d6ad121cdc3592d33e9d953affa24f01a"/>
+		<rom name="6671.bin" size="524288" crc="b2a3cedd" sha1="e3a5dd028b0769e08a796a96665b31491c3b18ca"/>
+		<rom name="7398.bin" size="524288" crc="62c80f20" sha1="322514f920d6cb48887b624786b52af34bdb8e5f"/>
+		<rom name="7399.bin" size="524288" crc="5f410eb6" sha1="f9949b5cba64db77187c1723a52570bdb182ce5c"/>
+		<rom name="7400.bin" size="524288" crc="d6f1f98c" sha1="f20c788a31a8fe339aed701866180a3eb16fafb9"/>
+		<rom name="mono4e1" size="524288" crc="0338b165" sha1="fdc0fcf0fddcf88d593a22885779e8224484e7e4"/>
+		<rom name="mono4e2" size="524288" crc="c8aa21d8" sha1="257ecf85e1d41b15bb2bbe2157e9d3f72b7e0317"/>
+		<rom name="monov3p1" size="524288" crc="a66fc610" sha1="fddd3b37a6aebf5c402942d26a2fa1fa130326dd"/>
+		<rom name="monov3p2" size="524288" crc="2d629723" sha1="c5584113e50dc5f636dbcf80e4689d2bbfe98e71"/>
+		<rom name="monov4p2" size="524288" crc="3c2dd9b7" sha1="01c87584b3599763a0c37040199014c2902dc6f3"/>
+	</machine>
+	<machine name="Monopoly Classic (Jpm) [Rom]">
+		<description>Monopoly Classic (Jpm) [Rom]</description>
+		<rom name="7401.bin" size="524288" crc="eec11426" sha1="b732a5a64d3fba676134942768b823d088792a1f"/>
+		<rom name="7402.bin" size="524288" crc="c4c43269" sha1="3cad3a66aae25308e8709f8eb3f29d6858b87791"/>
+		<rom name="7403.bin" size="524288" crc="95dbacb6" sha1="bd551ccad95440a669a547092ab126178b0d0bf9"/>
+	</machine>
+	<machine name="Monopoly Deluxe (Jpm) [Rom]">
+		<description>Monopoly Deluxe (Jpm) [Rom]</description>
+		<rom name="7401.bin" size="524288" crc="eec11426" sha1="b732a5a64d3fba676134942768b823d088792a1f"/>
+		<rom name="7402.bin" size="524288" crc="c4c43269" sha1="3cad3a66aae25308e8709f8eb3f29d6858b87791"/>
+		<rom name="7403.bin" size="524288" crc="95dbacb6" sha1="bd551ccad95440a669a547092ab126178b0d0bf9"/>
+		<rom name="mdlxv1p1" size="524288" crc="48ab1691" sha1="6df2aad02548d5239e3974a11228bc9aad8c9170"/>
+		<rom name="mdlxv1p2" size="524288" crc="107c3e65" sha1="e298b3a2826f92ba6119348a36bc4735e1799797"/>
+		<rom name="mdlxv1p4" size="524288" crc="e3fd1a27" sha1="6bba70ff27a6d068febcbdfa1b1f8ff2ef86ef03"/>
+		<rom name="modl-snd.bin" size="524288" crc="f761da41" sha1="a07d1b4cb7ce7a24b6fb84843543b95c3aec470f"/>
+	</machine>
+	<machine name="Phrase That Pays, The (Bellfruit) [Rom]">
+		<description>Phrase That Pays, The (Bellfruit) [Rom]</description>
+		<rom name="95400687.hi" size="524288" crc="56080e1c" sha1="49391059b5a758690d4972abad04d7e7aef23423"/>
+		<rom name="95400687.lo" size="524288" crc="8b2c9c3d" sha1="921c900447870f6ae51a4f3baeb60ce94e732291"/>
+	</machine>
+	<machine name="Pinball Wizard (Maygay) [Rom]">
+		<description>Pinball Wizard (Maygay) [Rom]</description>
+		<rom name="sw8-148.u27" size="131072" crc="d416dbd8" sha1="114d8529807f2895123e9438c6a3b3a0a3be5d4a"/>
+		<rom name="sw8-148.u28" size="131072" crc="e51287bc" sha1="526a01376f836bff5f00bb8e8130e3022752c280"/>
+		<rom name="sw8-149.u27" size="131072" crc="4f9745f4" sha1="358119937423ee9687bf99ce8a473f4d88bf0699"/>
+		<rom name="sw8-149.u28" size="131072" crc="0a9f0fd6" sha1="7841cbb4997e0f244164072790b8936d49910879"/>
+	</machine>
+	<machine name="Question Of Sport (Bellfruit) [Rom]">
+		<description>Question Of Sport (Bellfruit) [Rom]</description>
+		<rom name="39360107.p1" size="32768" crc="20844655" sha1="b67c7f7bbabf6d5139b8ad8cbb5f8cc3f28e9cc7"/>
+		<rom name="95000338.rm0" size="524288" crc="96918aae" sha1="849ce7b8eccc89c45aacc840a73935f95788a141"/>
+		<rom name="95000339.rm1" size="524288" crc="b4c6dcc0" sha1="56d8761766dfbd5b0e71f8c3ca575e88f1bc9929"/>
+		<rom name="95000340.rm2" size="524288" crc="66d121fd" sha1="ac65cc0ac6b0a41e78a3159c21ee44f765bdb5c8"/>
+		<rom name="95000341.rm3" size="524288" crc="ef13658d" sha1="240bc589900214eac79c91a531f254a9ac2f4ef6"/>
+		<rom name="qos_nondata_68f4.bin" size="32768" crc="5f40005a" sha1="180017acf6b432bc135d1090099fdf99f1e3583a"/>
+		<rom name="qosrom0" size="524288" crc="4f150634" sha1="beb1d3c212b189f3baa08fe454e83f30108be08e"/>
+		<rom name="qosrom1" size="524288" crc="94611c03" sha1="81f545ff96ff3d44285315400da94d870c89f896"/>
+		<rom name="qosrom2" size="524288" crc="c39737db" sha1="ccfdb19dab3af064db44e6022248aef98749bc97"/>
+		<rom name="qosrom3" size="524288" crc="785b8ff9" sha1="61b31e0e60c31ecb4b179bfe008a96155d939709"/>
+		<rom name="qossnd1" size="65536" crc="888a29f8" sha1="0e5aa9db54e783708ece1e8c7bffb10d994ab384"/>
+		<rom name="qossnd2" size="65536" crc="d7874a47" sha1="5bbd4040c7c0299e8cc135e6c6cd05370b260e9b"/>
+		<rom name="questionofsportrom0_306.bin" size="524288" crc="c26c8f83" sha1="6949027e1fe241cbb2e1cbbce18e47bcb0d84550"/>
+		<rom name="questionofsportrom1_307.bin" size="524288" crc="94611c03" sha1="81f545ff96ff3d44285315400da94d870c89f896"/>
+		<rom name="questionofsportrom2_308.bin" size="524288" crc="f5572726" sha1="e109265c5571d21213a6f405a13459e7bc6699bc"/>
+		<rom name="questionofsportrom3_309.bin" size="524288" crc="1b5edfa8" sha1="348488debd4aa52f064e351ed0c082274da1db2b"/>
+		<rom name="snd1_218.ic7" size="65536" crc="061f496d" sha1="653d16454d909c034191813b37d14010da7258c6"/>
+		<rom name="snd2_219.ic8" size="65536" crc="d7874a47" sha1="5bbd4040c7c0299e8cc135e6c6cd05370b260e9b"/>
+	</machine>
+	<machine name="Quid Grid (Barcrest) [Rom]">
+		<description>Quid Grid (Barcrest) [Rom]</description>
+		<rom name="q2g.p2" size="65536" crc="9bf74ae3" sha1="11e75acad496a9304f612714afbef90e48d1b9cb"/>
+		<rom name="q2g.p3" size="65536" crc="78555155" sha1="e1218fc00f08c19a0cafb203e46044efa617ac16"/>
+		<rom name="q2g.p4" size="65536" crc="2a4295b6" sha1="2aa0b5dbe6b934a7a4c8069c91fd6d85cae02836"/>
+		<rom name="q2gd.p1" size="65536" crc="26185449" sha1="921d355020788d53e8ffa83af44223dbe5a2dd5e"/>
+		<rom name="q2gs.p1" size="65536" crc="6d4b92c0" sha1="05777e0ecc8bf9f3564d8395bb7bfa245498d132"/>
+		<rom name="qg.p2" size="65536" crc="e4d74b11" sha1="d23ccc57c54823ffaa7869ca824e049dc80f8945"/>
+		<rom name="qg.p3" size="65536" crc="5dda7cd8" sha1="246a801e862990aade98fa358477e53707714b42"/>
+		<rom name="qg.p4" size="65536" crc="2106cf5d" sha1="2073589775139ad92daef05a67afb2c70ece168c"/>
+		<rom name="qgd.p1" size="65536" crc="c8d37bdf" sha1="e39a41015dd551fd62efa52faf2c5106bf7d23ac"/>
+		<rom name="qgs.p1" size="65536" crc="e6d072a9" sha1="b2d656818c2fb12a26ef8a170152087336c00c66"/>
+	</machine>
+	<machine name="Quintoon (Bellfruit) [Rom]">
+		<description>Quintoon (Bellfruit) [Rom]</description>
+		<rom name="95750206.p1" size="65536" crc="05f4bfad" sha1="22751573f3a51a9fd2d2a75a7d1b20d78112e0bb"/>
+		<rom name="95750231.bin" size="65536" crc="1227367f" sha1="b6249db6b3a814fed1cf11713b70a17be8d6e3d0"/>
+		<rom name="95751206.p1" size="65536" crc="63def707" sha1="d016df74f4f83cd72b16f9ccbe78cc382bf056c8"/>
+		<rom name="qublcy351rp.bin" size="524288" crc="bd6b0c8b" sha1="a79626de03e5e432f81eb93ff2dc38a7510733ba"/>
+		<rom name="quin20p" size="65536" crc="037ef2d0" sha1="6958624e29629a7639a80e8929b833a8b0201833"/>
+		<rom name="quinp132" size="131072" crc="63896a7f" sha1="81aa56874a15faa3aabdfc0fc524b2e25b751f22"/>
+		<rom name="quinp233" size="131072" crc="3d4ebecf" sha1="b339cf16797ccf7a1ec20fcebf52b6edad9a1047"/>
+	</machine>
+	<machine name="Quizvaders (Bellfruit) [Rom]">
+		<description>Quizvaders (Bellfruit) [Rom]</description>
+		<rom name="qvadrint" size="32768" crc="4c729943" sha1="ab4e0fb6cfc66540ea1e9e36eebdf85f65c5fd2a"/>
+	</machine>
+	<machine name="Radio Times (Bellfruit) [CD]">
+		<description>Radio Times (Bellfruit) [CD]</description>
+		<rom name="radiotimes.bin" size="550410240" crc="e02d16f0" sha1="dc6199a9e4ebe864ba89610369749c8df3c83b2a"/>
+		<rom name="radiotimes.cue" size="76" crc="40993d51" sha1="b3e06a3cf9e3be49f0b895a695ad4a5cccd989df"/>
+	</machine>
+	<machine name="Radio Times (Bellfruit) [Rom]">
+		<description>Radio Times (Bellfruit) [Rom]</description>
+		<rom name="95004056.bin" size="524288" crc="24e8f9fb" sha1="0d484a8f368b0f2140f148a1dc84db85a100af38"/>
+		<rom name="95004057.bin" size="524288" crc="f73c92d6" sha1="08c7db2baccb703f99efb81f618719a7789ca564"/>
+		<rom name="95400009.bin" size="524288" crc="a5e0a5ca" sha1="e7063ddfb436152f15267fde2aa7695c8a262191"/>
+		<rom name="95400010.bin" size="524288" crc="03fd5f72" sha1="379cfc4ef5087f24989bc1f2246b6056e33fd472"/>
+		<rom name="95400063.lhs" size="524288" crc="eecb5f3b" sha1="a1c6ad61a65c5361c38aaae2a064983a978c45ea"/>
+		<rom name="95400064.rhs" size="524288" crc="251689f5" sha1="4589a409c6b0f2869f99a08df8d76223e54d5b3c"/>
+		<rom name="95401063.lhs" size="524288" crc="ea98c159" sha1="6f665d80b71af57b31194fdc981707822e62053e"/>
+		<rom name="95401063.pcl" size="54481" crc="d83bb6f7" sha1="ee6408837b9520fc41d64744f83662973a346d17"/>
+		<rom name="95401064.rhs" size="524288" crc="bc125897" sha1="a83fdb54349d3ea5d183754bf4b9fee1f0b73be3"/>
+		<rom name="radtimes.lhs" size="524288" crc="c6574297" sha1="bd9744c4b08f9ae35fe1523ebcd68c52a36a32e0"/>
+		<rom name="radtimes.rhs" size="524288" crc="ed2c24f0" sha1="5f06b2de7e2b2dccee7763ea0938849d67256ff2"/>
+		<rom name="rt017.lhs" size="524288" crc="d2272c39" sha1="f583fe39c153dca2e86e875ca39056a8756e0d2c"/>
+		<rom name="rt018.rhs" size="524288" crc="52999d03" sha1="21d1e9034a26f6f73109e9e83272dcff104993e5"/>
+	</machine>
+	<machine name="Risk (Maygay) [Rom]">
+		<description>Risk (Maygay) [Rom]</description>
+		<rom name="sw9-025.u27" size="131072" crc="80777622" sha1="48dfeb39b443d4b1d8052c44ea3a42f25feddba0"/>
+		<rom name="sw9-025.u28" size="131072" crc="d635d214" sha1="2979ab5aebda2a96ec8bbe926ab5c4d3899691c4"/>
+		<rom name="sw9-026.u27" size="131072" crc="78552a94" sha1="90ad61882aa89e90e2733ee4a0eb6750c06bcdc2"/>
+		<rom name="sw9-026.u28" size="131072" crc="0ed451dd" sha1="9778718a9a2bd13b1ad1500f7cb0c08a68766609"/>
+	</machine>
+	<machine name="Scrabble (Jpm) [Rom]">
+		<description>Scrabble (Jpm) [Rom]</description>
+		<rom name="1562.bin" size="524288" crc="d7303b98" sha1="46e8ed04c8fdc092b7d8910d3e3f6cc62f691646"/>
+		<rom name="1563.bin" size="524288" crc="77f61ba1" sha1="276dc8b2c23880740309c456d4e4b2eae249cdde"/>
+		<rom name="1564.bin" size="524288" crc="bfc1b98b" sha1="09278f06efa18c1578f61e9b1bfed0f4f6657cb6"/>
+		<rom name="scra-g1.bin" size="1048576" crc="04a17df9" sha1="c215c90d8add3ff608c24aac242369874f6bf9d7"/>
+		<rom name="scra-g2.bin" size="1048576" crc="724375e6" sha1="709211a2d7b86f4e83c94a37010fe61ef9a734de"/>
+		<rom name="scra-q1.bin" size="524288" crc="bcbc6328" sha1="cbf8901e80e7bc1f82f6f7d4d5f6a658af98a6f9"/>
+		<rom name="scra-q2.bin" size="524288" crc="c2147999" sha1="f21dc0f3f4ba0d6304801bc492a759534447d747"/>
+		<rom name="scra-q3.bin" size="524288" crc="622cebb9" sha1="9b7c2204462d4912462bad6c4dcf096abe1381bb"/>
+		<rom name="scra-q4.bin" size="524288" crc="fd4b587b" sha1="e29512a075fbc511271d6902c8900a9b0261355c"/>
+		<rom name="scra-q5.bin" size="524288" crc="fbc28978" sha1="ce2549da858888d49677ec982ab3c21cf292939b"/>
+		<rom name="scra-q6.bin" size="524288" crc="8b792c9c" sha1="9a5cc6c4d7e807cbabd174ab7454cdaa93dc3cec"/>
+		<rom name="scra-snd.bin" size="524288" crc="287759ef" sha1="bd37500689b7b2fb4fbc65056e92486c0c00ff61"/>
+		<rom name="scravfp1" size="524288" crc="e1941639" sha1="ae8e5428eb28edba5bd25f496479d8e3e9b00d86"/>
+	</machine>
+	<machine name="Shop Window (Bwb) [Rom]">
+		<description>Shop Window (Bwb) [Rom]</description>
+		<rom name="sw_20___.2_0" size="65536" crc="c1b49d81" sha1="dcb077734beb814002046d36091a6407644c1393"/>
+		<rom name="sw______.2_1" size="65536" crc="3346ee38" sha1="29659ba8173b86bb52057f75dc874465048ef6d9"/>
+		<rom name="sw______.2_2" size="65536" crc="2c5293c8" sha1="e0b5fa629e8dbbc6164f16cbbe19d0e42467d281"/>
+		<rom name="sw______.2_3" size="65536" crc="09144ac0" sha1="d55658a361ebec0e054e3a9d99eba61c81fde619"/>
+		<rom name="sw______.2_4" size="65536" crc="a23db51a" sha1="9516a9655c5f7f000475df03f05f332c5ec09959"/>
+	</machine>
+	<machine name="Skill '98 (Amcoe) [Rom]">
+		<description>Skill '98 (Amcoe) [Rom]</description>
+		<rom name="sk98133.bin" size="65536" crc="77a5dd54" sha1="e693f477b42b83f1f5e45fb7c56486119bf91856"/>
+		<rom name="sk98h.bin" size="65536" crc="0574357b" sha1="96a846f6d49dd67ad078ad9240e632f79ae1b437"/>
+		<rom name="sk98l.bin" size="65536" crc="ebe802a4" sha1="178542c204fd1027874e6d2c099edaa7878c993f"/>
+		<rom name="sk98t.bin" size="131072" crc="8598b059" sha1="9e031e30e58a9c1b3d029004ee0f1616711fa2ae"/>
+		<rom name="sk98u19.bin" size="256" crc="796c7960" sha1="0f64a8119fd4809a5ac79585b415b34b2a83e9dc"/>
+		<rom name="sk98u20.bin" size="256" crc="a0862663" sha1="e27c3bba5f87b51a19ea8068f2ce7b82a6f0eedb"/>
+		<rom name="sku1920.bin" size="256" crc="a8c86d5e" sha1="d19cd5e57ac8fdd685540c1bb2e1474d1326362b"/>
+	</machine>
+	<machine name="Skill Cash (Barcrest) [Rom]">
+		<description>Skill Cash (Barcrest) [Rom]</description>
+		<rom name="scs.p1" size="65536" crc="3181524e" sha1="e801a036b9d509d8e2e5f7c9c6ccd9d9ddf76b2f"/>
+		<rom name="scs.p2" size="65536" crc="a7596804" sha1="f27fc3ee7a17904ea08baa421e14d02226428c42"/>
+		<rom name="scs.p3" size="65536" crc="b3ded2bc" sha1="39cb15fde4aea1187668120d548bfe022835b600"/>
+		<rom name="scs.p4" size="65536" crc="2ce2e9d1" sha1="c492fea2e179796a360131c19a9cba5bbfe3c7fd"/>
+	</machine>
+	<machine name="Skill Cherry '97 (Amcoe) [Rom]">
+		<description>Skill Cherry '97 (Amcoe) [Rom]</description>
+		<rom name="sc352.bin" size="65536" crc="d3857d85" sha1="e97b2634f0993631023c08f6baf800461abfad12"/>
+		<rom name="sc352c4.bin" size="65536" crc="44f55f6e" sha1="8b6e8618281de480979de37c7b36a0e68a524f47"/>
+		<rom name="sc97h.bin" size="65536" crc="def39ee2" sha1="5e6817bd947ebf16d0313285a00876b796b71cab"/>
+		<rom name="sc97l.bin" size="65536" crc="6f4d6aea" sha1="6809c26e6975cac97b0f8c01a508d4e022859b1a"/>
+		<rom name="sc97t.bin" size="131072" crc="8598b059" sha1="9e031e30e58a9c1b3d029004ee0f1616711fa2ae"/>
+		<rom name="sc97u19.bin" size="256" crc="6a01caca" sha1="9b3e9eebb9fcc8770f7e92f0f1c0434516ee613d"/>
+		<rom name="sc97u20.bin" size="256" crc="5899c1d5" sha1="c335b99bb58da3a11005a8952a15d9f43bdff157"/>
+		<rom name="scu1920.bin" size="256" crc="3aa291dd" sha1="f35c916b5463ff9ec6e57048af29a746148a13af"/>
+	</machine>
+	<machine name="Skill Fruit Bonus (Amcoe) [Rom]">
+		<description>Skill Fruit Bonus (Amcoe) [Rom]</description>
+		<rom name="skfb16.bin" size="262144" crc="bfd53646" sha1="bd58f8c6d5386649a6fc0f4bac46d1b6cd6248b1"/>
+		<rom name="skfb17.bin" size="262144" crc="e28ede82" sha1="f320c4c9c30ec280ee2437d1ad4d2b6270580916"/>
+		<rom name="skfbrom2.bin" size="131072" crc="3823a36e" sha1="4136e380b63546b9490033ad26d776f326eb9290"/>
+		<rom name="skfbrom3.bin" size="524288" crc="36119517" sha1="241bb256ab3ba595dcb0c81fd2e60ed35dd7c197"/>
+		<rom name="skfbrom4.bin" size="524288" crc="a655bac1" sha1="0faea01c09409f9182f08370dcc0b466a799f17f"/>
+		<rom name="skfbrom5.bin" size="524288" crc="752e6e3b" sha1="46c3a1bbbf1a2afe36fa5333b6e74459e17e9bae"/>
+		<rom name="skfbrom5a.bin" size="524288" crc="ed07a635" sha1="a31ee06d8cb78c43affa9d899e9cec87a0875934"/>
+		<rom name="skfbrom6.bin" size="524288" crc="30df6b6a" sha1="7a180fa8ee64b9efb0321baffad72f0a9485d568"/>
+		<rom name="skfbrom6a.bin" size="524288" crc="b9a39e5a" sha1="cb875db25d8bccf48542bd6dbecc474b1205563b"/>
+	</machine>
+	<machine name="Skill Trek (Barcrest) [Rom]">
+		<description>Skill Trek (Barcrest) [Rom]</description>
+		<rom name="st.p1" size="65536" crc="d9de47a5" sha1="625bf40780203293fc34cd8cea8278b4b4a52a75"/>
+		<rom name="st.p2" size="65536" crc="b62575c2" sha1="06d75e8a364750663d329650720021279e195236"/>
+		<rom name="st.p3" size="65536" crc="9506da76" sha1="6ef28ab8ec1af455be8ecfab20243f0823dca7c1"/>
+		<rom name="st.p4" size="65536" crc="6ab447bc" sha1="d01c209dbf4d19a6a7f878fa54ff1cb51e7dcba5"/>
+		<rom name="st.q1" size="65536" crc="4faca475" sha1="69b498c543600b8e37ab0ed1863ba57845648f3c"/>
+		<rom name="st.q2" size="65536" crc="9f2c5938" sha1="85527c4c0b7a1e66576d56607d89750fab082580"/>
+		<rom name="st.q3" size="65536" crc="6b6cb194" sha1="aeac5dcc0827c17e758e3e821ae8a78a3a16ddce"/>
+		<rom name="st.q4" size="65536" crc="ec57bc17" sha1="d9f522739dbb190fb941ca654299bbedbb8fb703"/>
+		<rom name="st.q5" size="65536" crc="7740a88b" sha1="d9a683d3e0d6c1b4b59520f90f825124b7a61168"/>
+		<rom name="st.q6" size="65536" crc="95e97796" sha1="f1a8de0ad02aca31f79a4fe8ba5044546163e3c4"/>
+		<rom name="st.q7" size="65536" crc="f3b8fe7f" sha1="52d5be3f8cab419103f4727d0fb9d30f34c8f651"/>
+		<rom name="st.q8" size="65536" crc="b85e75a2" sha1="b7b03b090c0ec6d92e9a25abb7fec0507356bdfc"/>
+		<rom name="st.q9" size="65536" crc="835f6001" sha1="2cd9084c102d74bcb578c8ea22bbc9ea58f0ceab"/>
+		<rom name="st.qa" size="65536" crc="3fc62a0e" sha1="0628de4b962d3fcca3757cd4e89b3005c9bfd218"/>
+		<rom name="sw.p2" size="65536" crc="2598ba38" sha1="30509bd2f987949bb423600e13a464edaa7f9ce5"/>
+		<rom name="sw.p3" size="65536" crc="1290cef3" sha1="5cf63940c164becf64902846aa4fd5bc628f9ebe"/>
+		<rom name="sw.p4" size="65536" crc="176f23c3" sha1="e64460818329f23e449f65781e3dc56d3a1710a3"/>
+		<rom name="sws.p1" size="65536" crc="a96f11ea" sha1="5e5c548e96674f8f98c1c4eb0a590979371f6f10"/>
+	</machine>
+	<machine name="Snakes &amp; Ladders (Jpm) [Rom]">
+		<description>Snakes &amp; Ladders (Jpm) [Rom]</description>
+		<rom name="8718.bin" size="524288" crc="599ca023" sha1="fe6792ac97d18e2a04dbe8700d9f16b95be0f486"/>
+		<rom name="8719.bin" size="524288" crc="155156dc" sha1="7f43d52413c31c5f44907ebb9eb419ccb8047c68"/>
+		<rom name="8720.bin" size="524288" crc="316d2230" sha1="f2e330bcbc55dc0a47571f10d8c31e0e272ef8a9"/>
+		<rom name="slswpsnd.bin" size="524288" crc="9a48b772" sha1="d8fbaa60f09a1d31cf6c61c6dd02ad1bd7b7ffc9"/>
+	</machine>
+	<machine name="Space Invaders (Bwb) [Rom]">
+		<description>Space Invaders (Bwb) [Rom]</description>
+		<rom name="in2-20p1.1" size="65536" crc="f34d9001" sha1="2bae06f4a5a5510b15b918261ecb0de9e34a6b53"/>
+		<rom name="in2-20p1.2" size="65536" crc="1dc931b4" sha1="c46626183edd52c7938c5edee2395aacb49e0730"/>
+		<rom name="in2-20p1.3" size="65536" crc="107aa448" sha1="7b3d4053aaae3b97136cddefbc9edd5e61713ff7"/>
+		<rom name="in2-20p1.4" size="65536" crc="04933278" sha1="97462aef782f7fe82b60f4bddcad0e6a6b50f3df"/>
+		<rom name="in220mpu4.p1" size="16384" crc="75ff4b1f" sha1="a3adaad9a91c30fe6ff42dc2003c34a199b28807"/>
+	</machine>
+	<machine name="Strike It Lucky (Barcrest) [Rom]">
+		<description>Strike It Lucky (Barcrest) [Rom]</description>
+		<rom name="sil.p2" size="131072" crc="1afc07b7" sha1="38777d56192b640b003d8dbf4b793cee0c81d9b2"/>
+		<rom name="sil.p3" size="131072" crc="40f5851c" sha1="0e3dc0dd2a257a955a1f250556d047481ae87269"/>
+		<rom name="sil.p4" size="131072" crc="657e297e" sha1="306f40376115ca40099a0010650b5edc183a2c57"/>
+		<rom name="sil.p5" size="131072" crc="28bced09" sha1="7ba5013f1e0f4e921581b23c4a1d4c005a043b66"/>
+		<rom name="sil.p6" size="131072" crc="6f5fc296" sha1="bd32a937581df6b5a4f08e6ef40c37a2b4278936"/>
+		<rom name="sil3.p1" size="131072" crc="51c22f94" sha1="dbdd30e67df4662d13b32a1df6cfabef2cf9471f"/>
+		<rom name="sil3d.p1" size="131072" crc="82def1b5" sha1="d3e90e8e4e905a3779889305bb6441907d9169f1"/>
+		<rom name="sild.p1" size="131072" crc="6886e7c8" sha1="9ef0895c9a8df762d17a3ea036bf0c6c2a440582"/>
+		<rom name="sils.p1" size="131072" crc="66ed6696" sha1="a6aa68eb212254213db5573dfb9da1e9e06a8e39"/>
+	</machine>
+	<machine name="Strike It Rich (Maygay) [Rom]">
+		<description>Strike It Rich (Maygay) [Rom]</description>
+		<rom name="sa3-265.bin" size="65536" crc="1b674002" sha1="9f8d839371290ceb8bdc936d82f1e6180783d169"/>
+		<rom name="sa3-269.bin" size="65536" crc="d490b5fa" sha1="fc86cad55387f3cc4e0803f1669d670998247dc5"/>
+		<rom name="sa4-104.bin" size="65536" crc="298e0d6e" sha1="969825784c9e793bf88cf355a70bbc1907126a2f"/>
+		<rom name="sa4-105.bin" size="65536" crc="c1669088" sha1="96ede015a26d75f2b85d615df0ffbce4a5f9f8d4"/>
+		<rom name="strikerich1_1.bin" size="32768" crc="8b3295c5" sha1="2f228575e96e574f28627668cb979cdd58307e12"/>
+		<rom name="strikerich2.1" size="32768" crc="ee75ebcb" sha1="968b8a0bff9779681b16456f9399b0d122b1796c"/>
+	</machine>
+	<machine name="Super Clue (Maygay) [Rom]">
+		<description>Super Clue (Maygay) [Rom]</description>
+		<rom name="sw8-152.u27" size="131072" crc="e3bf141f" sha1="04869f7bec38fa93b9c81946d15c7f94987704a5"/>
+		<rom name="sw8-152.u28" size="131072" crc="da716d37" sha1="be87bcf660e385fd543d62a382d149e743c4433a"/>
+		<rom name="sw8-153.u27" size="131072" crc="e3bf141f" sha1="04869f7bec38fa93b9c81946d15c7f94987704a5"/>
+		<rom name="sw8-153.u28" size="131072" crc="8afd96f1" sha1="db3b4ef58c293cddddefeed9e3ba8b936d682dc4"/>
+	</machine>
+	<machine name="Telly Addicts (Bellfruit) [Rom]">
+		<description>Telly Addicts (Bellfruit) [Rom]</description>
+		<rom name="95400021.p1" size="524288" crc="5c969746" sha1="7458c613d7a3e7cf6a21e55f74dcdc052404f29c"/>
+		<rom name="95400022.p2" size="524288" crc="fa1fdb7b" sha1="eff87c197a62dba49d95810e8669026db2edb187"/>
+		<rom name="95400023.lhs" size="524288" crc="b79279b8" sha1="010edf0c299b0b01ab43f52dce540ff0847fb4c5"/>
+		<rom name="95400024.rhs" size="524288" crc="835d25fd" sha1="6d780332f6016d6e1404922e0ac439a499211be3"/>
+		<rom name="95401021.p1" size="524288" crc="24a334d3" sha1="672f16cbd2ddf627213de71024b6fbaa28f526a5"/>
+		<rom name="95401022.p2" size="524288" crc="90af3767" sha1="e529ad7eef5e6d2a6951d46e77aaad2087890445"/>
+		<rom name="95401023.lhs" size="524288" crc="85b95b56" sha1="106e617fc92f95a6b3769db1fd4e5ab47c752c08"/>
+		<rom name="95401024.rhs" size="524288" crc="835d25fd" sha1="6d780332f6016d6e1404922e0ac439a499211be3"/>
+		<rom name="tadd13lh" size="524288" crc="2d6ed08c" sha1="efa39b9ff5605c2e29971fb5e874c9a0c178b1f0"/>
+		<rom name="tadd14rh" size="524288" crc="26dd6ed6" sha1="553f29017494b6f7ecc98940d527f498316ea55e"/>
+	</machine>
+	<machine name="Time Machine (Barcrest) [Rom]">
+		<description>Time Machine (Barcrest) [Rom]</description>
+		<rom name="tm.p1" size="65536" crc="6919697c" sha1="786d7b9ab218dbf54ff839d1f83580c409c725b3"/>
+		<rom name="tm.p2" size="65536" crc="d13b56e4" sha1="623e73995da93c07b51ce0a5843dba1f853529dd"/>
+		<rom name="tm.p3" size="65536" crc="efd3ae64" sha1="9d2a3b65048e04842205751c6921d2550f38bd52"/>
+		<rom name="tm.p4" size="65536" crc="602ba3fb" sha1="7243f58df9a26adfd1a149a1e60630b187787dd0"/>
+		<rom name="tm.q1" size="65536" crc="6af4d58b" sha1="ee547dad30cd9940f0b017caac97aeb046604f22"/>
+		<rom name="tm.q2" size="65536" crc="b01b7687" sha1="99db448d7e40c2ec16afef3c10abc8a9493f2ab4"/>
+		<rom name="tm.q3" size="65536" crc="e97f14eb" sha1="9163d11e1bc5a13d5002a13bc18b65a91e1738c7"/>
+		<rom name="tm.q4" size="65536" crc="6134d918" sha1="e4b4d6b08d94729d4dcca474d4c7bdcb267530a8"/>
+		<rom name="tm.q5" size="65536" crc="6c07814b" sha1="a97feada5cfa1bb059837b292637fbad9c7137ac"/>
+		<rom name="tm.q6" size="65536" crc="5f16a536" sha1="3435282bfb940604fb44e06dc4748e668768f286"/>
+		<rom name="tm.q7" size="65536" crc="9afdce0b" sha1="a969038d9ce2a2cff1e1a75959c05a3f03f08235"/>
+		<rom name="tm.q8" size="65536" crc="f1878251" sha1="b6a8527112bcdf21b9a0acab4d8fa507a96aaba7"/>
+		<rom name="tm.q9" size="65536" crc="ace01faa" sha1="79d6247a74e1bce0d76ea3788d0022d9e50173c4"/>
+		<rom name="tm.qa" size="65536" crc="021f4523" sha1="10884665f5700c147c7035d0c98f3889917ff015"/>
+		<rom name="tmd.p1" size="65536" crc="e21045e0" sha1="c4d0e80970ec8558db777a882edc5a0c80767375"/>
+		<rom name="tms.p1" size="65536" crc="6919697c" sha1="786d7b9ab218dbf54ff839d1f83580c409c725b3"/>
+	</machine>
+	<machine name="Top Of The Pops (Bellfruit) [Rom]">
+		<description>Top Of The Pops (Bellfruit) [Rom]</description>
+		<rom name="95400101.lo" size="524288" crc="c95164c7" sha1="7b2fada6a3208666219a53cba08f7acad015763d"/>
+		<rom name="95400102.hi" size="524288" crc="5ebba159" sha1="34bcf48140261cd87d81a32581e965d722f42f71"/>
+		<rom name="95401101.lo" size="524288" crc="97d2d90a" sha1="d4a2afd3cc551986e76f107beb66e8c660a6ee1d"/>
+		<rom name="95401102.hi" size="524288" crc="3599427f" sha1="16d915553b2b490a047888c64ebcf952714b3168"/>
+		<rom name="ttopint" size="32768" crc="cc798f90" sha1="c3f541ebbb3a2c29cc4f00bbd47e289bcff50ecb"/>
+		<rom name="ttopsnd1" size="65536" crc="e85367a5" sha1="695fd95ddeecdb16602f7b0f075cf5128a2fb808"/>
+		<rom name="ttopsnd2" size="65536" crc="8bda2c5e" sha1="79aab5a2af7a5add5fe9132dc13bcc3705c6faf3"/>
+	</machine>
+	<machine name="Treble Top (Bellfruit) [Rom]">
+		<description>Treble Top (Bellfruit) [Rom]</description>
+		<rom name="ttpcob.pa" size="65536" crc="391181d4" sha1="42c499ae78f38ccfec572701b3c99b7cf200ff98"/>
+		<rom name="ttpcob.pb" size="65536" crc="f42016c0" sha1="7067d018cb4bdcfba777267fb01cddf44e4216c3"/>
+		<rom name="ttpint20" size="32768" crc="aca1980b" sha1="3d4ed1dc545cc80f56d7daa13028fb10a12a718b"/>
+	</machine>
+	<machine name="Trivial Pursuit (Jpm) [Rom]">
+		<description>Trivial Pursuit (Jpm) [Rom]</description>
+		<rom name="1422.bin" size="524288" crc="5e39c946" sha1="bae7f572a32e90d716813271f03e7868be603086"/>
+		<rom name="1423.bin" size="524288" crc="bb48c225" sha1="b479f0bdb69ad11af17b5457c02a9d9618ede455"/>
+		<rom name="1424.bin" size="524288" crc="36c84b55" sha1="c01dc797bd578dfe5979f39a6acfdb3c5744b298"/>
+	</machine>
+	<machine name="Turn Over (Barcrest) [Rom]">
+		<description>Turn Over (Barcrest) [Rom]</description>
+		<rom name="to.p10" size="65536" crc="fadd11a2" sha1="2b2fbb0769ef6035688d495464f3ea3bc8c7c660"/>
+		<rom name="to.p11" size="65536" crc="2d72a61a" sha1="ce455ab6fea452f96a3ad365178e0e5a0b437867"/>
+		<rom name="to.p12" size="65536" crc="a14eedb6" sha1="219b887a334ff28a88ed2e50f0caff4b510cd549"/>
+		<rom name="to.p13" size="65536" crc="3f66ef6b" sha1="60be6d3f8da1f3084db15ac1bb2470e55c0271de"/>
+		<rom name="to.p14" size="65536" crc="127ba65d" sha1="e34dcd19efd31dc712daac940277bb17694ea61a"/>
+		<rom name="to.p15" size="65536" crc="ad787e31" sha1="314ba312adfc71e4b3b2d52355ec692c192b74eb"/>
+		<rom name="to.p16" size="65536" crc="e635c942" sha1="08f8b5fdb738647bc0b49938da05533be42a2d60"/>
+		<rom name="to.p2" size="65536" crc="4bc4659a" sha1="0e282134c4fe4e8c1cc7b16957903179e23c7abc"/>
+		<rom name="to.p3" size="65536" crc="273c7c14" sha1="71feb555a05a0ff1ec674505cab72d93c9fbdf65"/>
+		<rom name="to.p4" size="65536" crc="83d29546" sha1="cef90455b9d8a92424fe1aa10f20fd075d0e3091"/>
+		<rom name="to.p5" size="65536" crc="dceac511" sha1="7a6d65464e23d832943f771c4cf580aabc6f0e44"/>
+		<rom name="to.p6" size="65536" crc="54c6afb7" sha1="b724b87b6f4e47d220310b38c97be2fa73dcd617"/>
+		<rom name="to.p7" size="65536" crc="acf19542" sha1="ad46ffb3c2c078a8e3712eff27aa61f0d1a7c059"/>
+		<rom name="to.p8" size="65536" crc="a5ca385d" sha1="8df26a33ea7f5b577761c6f9d2fa4eaed74661f8"/>
+		<rom name="to.p9" size="65536" crc="6e85fde3" sha1="14868d58829e13987e66f52e1899c4385987a87b"/>
+		<rom name="to3.p1" size="65536" crc="09751994" sha1="72d4aa40f14411ef8064822de3f5a13bcc84aea3"/>
+		<rom name="todo.p1" size="65536" crc="9111e702" sha1="fa408e1c8fa56a96ffc3422335f105ef328a6edd"/>
+		<rom name="too.p1" size="65536" crc="919b5207" sha1="770be6e3b00e666c6f939167d35d43bb2d793e14"/>
+		<rom name="tos.p1" size="65536" crc="4044dbeb" sha1="3aa553055c56f14564b1e33e1c1975337e639f70"/>
+	</machine>
+	<machine name="Video Rom (Barcrest) [Rom]">
+		<description>Video Rom (Barcrest) [Rom]</description>
+		<rom name="vid.p1" size="65536" crc="e996bc18" sha1="49798165640627eb31024319353da04380787b10"/>
+	</machine>
+	<machine name="Who Wants To Be A Millionaire (Jpm) [Rom]">
+		<description>Who Wants To Be A Millionaire (Jpm) [Rom]</description>
+		<rom name="ljc-g1.bin" size="131072" crc="518088da" sha1="d144ab37d17a8ea2174a7ed2dd32b37f3d112dcd"/>
+		<rom name="ljc-g2.bin" size="131072" crc="e42c5cc0" sha1="612973ba3dac2b1098dd746fd4fd6e7bb0246949"/>
+	</machine>
+	<machine name="Zillionare's Challenge (Pure Leisure) [Rom]">
+		<description>Zillionare's Challenge (Pure Leisure) [Rom]</description>
+		<rom name="zillprgh.bin" size="524288" crc="6f831f6d" sha1="6ab6d7f1752d27bc216bc11533b90178ce188715"/>
+		<rom name="zillprog.bin" size="524288" crc="0f730bab" sha1="3ea82c8f7d62c70897a5c132273820c9f192cd72"/>
+		<rom name="zillsnd.bin" size="524288" crc="171ed677" sha1="25d63f4d9c64f13bec4feffa265c5b0c5f6be4ec"/>
+	</machine>
+</datafile>

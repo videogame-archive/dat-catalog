@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>poisk1_flop</name>
+		<description>Poisk-1 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ots14">
+		<description>One Track System 1.4 (alternate OS)</description>
+		<year>1991</year>
+		<publisher>MMV</publisher>
+		<rom name="one-track-system.imd" size="694040" crc="62d4ef70" sha1="962e15ec0501d1bd249d05984efd9e9871fa2ce9" />
+	</machine>
+	<machine name="sound">
+		<description>Software for B623 sound card</description>
+		<year>1991</year>
+		<publisher>Electronmash ???</publisher>
+		<rom name="sound.imd" size="690901" crc="539747fa" sha1="6ab8ae313b0801c2ddf3a1429b75cb9fe8f7bf55" />
+	</machine>
+</datafile>

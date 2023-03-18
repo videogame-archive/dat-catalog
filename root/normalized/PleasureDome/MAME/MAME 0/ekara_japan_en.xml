@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_japan_en</name>
+		<description>Takara e-kara (Japan) EN-xx series cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="en3">
+		<description>Enka-shū Dai San-hen (Japan) (EN-3)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="en-3.u1" size="1048576" crc="e3686ff4" sha1="e7e9a53a778739c406b2b226300d2f525cd9676b" />
+	</machine>
+	<machine name="en4">
+		<description>Enka-shū Dai Yon-hen (Japan) (EN-4)</description>
+		<year>2004</year>
+		<publisher>Takara</publisher>
+		<rom name="en-4.u1" size="1048576" crc="4e9e00fd" sha1="4cc2b6e39a4ceb1c1753463dd6d559331d75848f" />
+	</machine>
+</datafile>

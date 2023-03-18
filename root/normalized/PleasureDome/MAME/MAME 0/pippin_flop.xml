@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pippin_flop</name>
+		<description>Pippin disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="adaptera">
+		<description>Atmark Adapter-A (Jpn)</description>
+		<year>1996</year>
+		<publisher>Apple</publisher>
+		<rom name="adaptera.img" size="351232" crc="95bdbe7b" sha1="a32f3b81828ba8dec4251a2ca07629b07d3e9b70" />
+	</machine>
+</datafile>

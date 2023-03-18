@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>trs80_flop</name>
+		<description>Radio Shack TRS-80 floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm22">
+		<description>CP/M 2.2</description>
+		<year>1982</year>
+		<publisher>Digital Research</publisher>
+		<rom name="cpm.imd" size="169414" crc="f483e444" sha1="63e814c8679b426515517b2a640db268ef851e60" />
+	</machine>
+	<machine name="ldos531">
+		<description>LDOS 5.3.1</description>
+		<year>1991</year>
+		<publisher>Misosys</publisher>
+		<rom name="ld1-531.jv1" size="89600" crc="ce54fb23" sha1="373d0887bc4946df010f39842e768bf911cb2813" />
+	</machine>
+	<machine name="lensman">
+		<description>Lensman/DOS</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="lensman.jv3" size="193024" crc="700be6cb" sha1="caecf3f9d04860c503c2f9df5bbc9259685ace0e" />
+	</machine>
+	<machine name="trs621">
+		<description>TRSDOS 6.21</description>
+		<year>1986</year>
+		<publisher>Radio Shack</publisher>
+		<rom name="trs621.dmk" size="256016" crc="6e19896e" sha1="e98d0e4509e1e316caf5c50920fd3ddcc715cf49" />
+	</machine>
+</datafile>

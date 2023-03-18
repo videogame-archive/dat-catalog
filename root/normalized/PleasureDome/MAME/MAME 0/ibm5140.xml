@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ibm5140</name>
+		<description>IBM PC 5140 Convertible disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="advdiags">
+		<description>IBM PC Convertible Advanced Diagnostics</description>
+		<year>1986</year>
+		<publisher>IBM</publisher>
+		<rom name="advanced diags.ima" size="737280" crc="bd4d7f93" sha1="a11216975cc3f31d10c91b9dd575206b49caa18d" />
+	</machine>
+	<machine name="diags">
+		<description>IBM PC Convertible Diagnostics/Update Diskette (v1.03)</description>
+		<year>1986</year>
+		<publisher>IBM</publisher>
+		<rom name="ibm_pc_convertible_diagnostics_103_image.dsk" size="737280" crc="656a3428" sha1="de97423357fbac2ce492121cb1e02a9f3def3aad" />
+	</machine>
+	<machine name="startup101">
+		<description>IBM PC Convertible Start-Up Diskette (v1.01)</description>
+		<year>1986</year>
+		<publisher>IBM</publisher>
+		<rom name="5140 starter disk with app selector.ima" size="737280" crc="7ab4d598" sha1="b6ba39970db4cb1628d080a7b070e3ca4fb39ee5" />
+	</machine>
+	<machine name="startup">
+		<description>IBM PC Convertible Start-Up Diskette (v1.03)</description>
+		<year>1986</year>
+		<publisher>IBM</publisher>
+		<rom name="ibm_pc_convertible_startup_103_image.dsk" size="737280" crc="3504808e" sha1="36668799d41c63c950e4b3153a4bf96746a713ac" />
+	</machine>
+</datafile>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>c2color_cart</name>
+		<description>C2 Color cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="agree">
+		<description>Dì 1 dàn: Dài Lóngwáng Fēngyìn</description>
+		<year>2014</year>
+		<publisher>Baiyi Animation</publisher>
+		<rom name="game1_agree.bin" size="8388608" crc="e520140f" sha1="4059f9a142238c7976ae59008e92e86170c2eed5" />
+	</machine>
+	<machine name="darkones">
+		<description>Dì 4 dàn: Ànhēi Shìlì Zài Lín</description>
+		<year>2014</year>
+		<publisher>Baiyi Animation</publisher>
+		<rom name="game4_darkones.bin" size="4194304" crc="74acb584" sha1="8c7e8b551dcd801c16bc6db159f0d6c5bf20906a" />
+	</machine>
+	<machine name="firedevl">
+		<description>Dì 3 dàn: Zhī Yīngxióng Dǎo Zhī Lièyàn Mó</description>
+		<year>2014</year>
+		<publisher>Baiyi Animation</publisher>
+		<rom name="game3_firedevl.bin" size="4194304" crc="5b42ec93" sha1="3b2ac207893048ec1a2f1268ccfd7a8e4b64841c" />
+	</machine>
+	<machine name="kingdlnd">
+		<description>Dì 5 dàn: Shénmì De Lóngzú Zhī Wáng</description>
+		<year>2014</year>
+		<publisher>Baiyi Animation</publisher>
+		<rom name="game5_kingdlnd.bin" size="8388608" crc="1e20d906" sha1="323df1ce05ff4fc1aaefe3e0e2b929aec40cc230" />
+	</machine>
+	<machine name="kingwing">
+		<description>Dì 2 dàn: Zhī Yìwáng De Shì Liàn</description>
+		<year>2014</year>
+		<publisher>Baiyi Animation</publisher>
+		<rom name="game2_kingwing.bin" size="4194304" crc="64bd94ca" sha1="7da9bfddb48c83ade523850c1e714d3e6310b5f3" />
+	</machine>
+</datafile>

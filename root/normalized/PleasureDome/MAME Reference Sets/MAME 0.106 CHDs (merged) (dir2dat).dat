@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME 0.106 CHDs (merged)</name>
+		<description>MAME 0.106 CHDs (merged)</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>newuzer</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="a51site4">
+		<description>a51site4</description>
+		<rom name="a51site4.chd" size="736499609" crc="f6434e07" sha1="c99999627f20ed521d06fd553713848f0f87e911"/>
+	</machine>
+	<machine name="area51">
+		<description>area51</description>
+		<rom name="area51.chd" size="542757759" crc="e21ae727" sha1="43c2a75ef985cbeb22119dbcad4667875c2a86b9"/>
+		<rom name="area51t.chd" size="546424630" crc="44db874f" sha1="6ab553c8b349ab02d5ccb10ea02738a251fd7f78"/>
+	</machine>
+	<machine name="area51mx">
+		<description>area51mx</description>
+		<rom name="area51mx.chd" size="1777220045" crc="4e657f39" sha1="e2f3a168e7f81a8743b115bfc547d0aa94ba5852"/>
+	</machine>
+	<machine name="biofreak">
+		<description>biofreak</description>
+		<rom name="biofreak.chd" size="94405844" crc="dc7026f0" sha1="78cad8cd952bffe27ca3b7fdd9c3ec4fcbdfd571"/>
+	</machine>
+	<machine name="blitz">
+		<description>blitz</description>
+		<rom name="blitz.chd" size="274827422" crc="8590a23f" sha1="e88a086b7ff69abce133a260a2f61556f7dc3ad1"/>
+	</machine>
+	<machine name="blitz2k">
+		<description>blitz2k</description>
+		<rom name="blitz2k.chd" size="619474133" crc="e99e8865" sha1="adcb0717664635498b5bb742553b3afcf3cc2204"/>
+	</machine>
+	<machine name="blitz99">
+		<description>blitz99</description>
+		<rom name="blitz99.chd" size="380075964" crc="80fa6573" sha1="91790e9c0b4c96f02a07b1558834b7e3a0c0fc0f"/>
+	</machine>
+	<machine name="bm1stmix">
+		<description>bm1stmix</description>
+		<rom name="753jaa11.chd" size="192236205" crc="bd396f1a" sha1="90bd9b7abf87886b8444c8143f3cbf43b87034c2"/>
+	</machine>
+	<machine name="bm2ndmix">
+		<description>bm2ndmix</description>
+		<rom name="853jaa11.chd" size="381686640" crc="fc546e0c" sha1="4a3482abfd49ccf3ec8d048b69a24d83462df3d2"/>
+	</machine>
+	<machine name="bm4thmix">
+		<description>bm4thmix</description>
+		<rom name="847jaa11.chd" size="357337337" crc="d6728323" sha1="ddd1a888d467e1437c8b887566cb256190dc89ef"/>
+	</machine>
+	<machine name="bm5thmix">
+		<description>bm5thmix</description>
+		<rom name="981jaa11.chd" size="652910763" crc="0a7f8e3c" sha1="73ecf84ba8c6f3133d284f5748167f9b81f5b7f1"/>
+	</machine>
+	<machine name="bm6thmix">
+		<description>bm6thmix</description>
+		<rom name="a21jaa11.chd" size="429339338" crc="56b89226" sha1="1613e6952ba0e46bc3e2417b15c7366bcfaaaf60"/>
+	</machine>
+	<machine name="bmcompm2">
+		<description>bmcompm2</description>
+		<rom name="988jaa11.chd" size="1158771925" crc="cd00f078" sha1="ca0e2bbfd7bcb678bce6fc51e861f0d3abbe9ba0"/>
+	</machine>
+	<machine name="bmcompmx">
+		<description>bmcompmx</description>
+		<rom name="858jaa11.chd" size="650477324" crc="8e7fbb88" sha1="b343bba7789732617a49b9757b4b1965e41ed854"/>
+	</machine>
+	<machine name="bmcorerm">
+		<description>bmcorerm</description>
+		<rom name="a05jaa11.chd" size="718931730" crc="9b587aed" sha1="18f7219b5e1bbbc5ce39c78459e60e7f275c9503"/>
+	</machine>
+	<machine name="bmdct">
+		<description>bmdct</description>
+		<rom name="995jaa11.chd" size="474052910" crc="314d5122" sha1="70c991016cbb5106dbbb6ddd7bc6ead9fe90ea62"/>
+	</machine>
+	<machine name="btchamp">
+		<description>btchamp</description>
+		<rom name="btchamp.chd" size="211264840" crc="34f4755d" sha1="78d0b3946f7c8cca7da5a4188c96d5953e13123c"/>
+	</machine>
+	<machine name="btltryst">
+		<description>btltryst</description>
+		<rom name="btltryst.chd" size="267875353" crc="77e4fb6d" sha1="5bc6a535e644c65c7b40a9362644fc0303f9e347"/>
+	</machine>
+	<machine name="calspeed">
+		<description>calspeed</description>
+		<rom name="calspeda.chd" size="511316095" crc="c8d87d24" sha1="ee50dfc4bbdb8010081866998ac18a6ad88b38ef"/>
+		<rom name="calspeed.chd" size="525720024" crc="7054f4b4" sha1="8e3d6750eca1472a2037084893015d6921cb208d"/>
+	</machine>
+	<machine name="carnevil">
+		<description>carnevil</description>
+		<rom name="carnevil.chd" size="1620917074" crc="15928279" sha1="9790dfd2ead4114ce789ef94d982382ceb44fae7"/>
+	</machine>
+	<machine name="cartfury">
+		<description>cartfury</description>
+		<rom name="cartfury.chd" size="638452178" crc="6cf9aaaf" sha1="5025d4e3e5b2fbf8d9184e82210acf5627331000"/>
+	</machine>
+	<machine name="cryptklr">
+		<description>cryptklr</description>
+		<rom name="420uaa04.chd" size="186689704" crc="e371b245" sha1="cec908427b87c6dfa7311f2b5465d90acd57b020"/>
+	</machine>
+	<machine name="gauntdl">
+		<description>gauntdl</description>
+		<rom name="gauntd24.chd" size="1602514178" crc="9a8f2d3e" sha1="7fd20208433588e40639212aa28a03008a2bc36c"/>
+		<rom name="gauntdl.chd" size="1650983361" crc="6f87223b" sha1="f8b58919c601c1e340eff699e0af011163b7624f"/>
+	</machine>
+	<machine name="gauntleg">
+		<description>gauntleg</description>
+		<rom name="gauntl12.chd" size="1107530151" crc="37d5e9e6" sha1="e3987527f1fb8c4aa6589e63bb78f3892bd31c56"/>
+		<rom name="gauntleg.chd" size="1110910657" crc="1d138220" sha1="37a3d26377e298a0ce4e1e521e108bf62de2794c"/>
+	</machine>
+	<machine name="heatof11">
+		<description>heatof11</description>
+		<rom name="heatof11.chd" size="245902491" crc="b7e9a6a3" sha1="cea6d0ed1beeb49f4ad3919d83d6505b9df9a78e"/>
+	</machine>
+	<machine name="hyperath">
+		<description>hyperath</description>
+		<rom name="hyperath.chd" size="186953016" crc="e6302352" sha1="5e61582b4375fdd73c89f3413a8898786f47f8f7"/>
+	</machine>
+	<machine name="hyprdriv">
+		<description>hyprdriv</description>
+		<rom name="hyprdriv.chd" size="376355774" crc="f32c3312" sha1="10f053ba09588617db4ff86f3e516220591a2514"/>
+	</machine>
+	<machine name="jdredd">
+		<description>jdredd</description>
+		<rom name="jdreddb.chd" size="433070455" crc="018af411" sha1="d37c4fb7a4c327ad3737af0dd4fdd87f64fb0505"/>
+		<rom name="jdreddc.chd" size="433070512" crc="5a9b270b" sha1="e71ea8860ce245d35d540cdbcd8ff59044ea53b3"/>
+	</machine>
+	<machine name="jojo">
+		<description>jojo</description>
+		<rom name="jjk000.chd" size="45110952" crc="904b8df1" sha1="efca661e521c2aff9b0f32cb4b4a0c8c8c886ec5"/>
+	</machine>
+	<machine name="jojoba">
+		<description>jojoba</description>
+		<rom name="jjm000.chd" size="52907030" crc="627b5603" sha1="206eecb4d109e6ca14feee9775203a2a3da8b07d"/>
+	</machine>
+	<machine name="kdeadeye">
+		<description>kdeadeye</description>
+		<rom name="kdeadeye.chd" size="497191443" crc="ac35aff1" sha1="3833d2ea149d85deee48b91c6f8b0a7628c01d00"/>
+	</machine>
+	<machine name="kinst">
+		<description>kinst</description>
+		<rom name="kinst.chd" size="95627930" crc="c6b4b597" sha1="77ec1dcd7d41ece81be4dd44682a1a82e27b6330"/>
+	</machine>
+	<machine name="kinst2">
+		<description>kinst2</description>
+		<rom name="kinst2.chd" size="135796416" crc="ed9c1617" sha1="f4a6a2e7a4d03106732d218d60b1cbc2a2327054"/>
+	</machine>
+	<machine name="mace">
+		<description>mace</description>
+		<rom name="mace.chd" size="132097326" crc="5e5b7f0e" sha1="f224efff83ab409230454d3f7812d8c97e2d09ef"/>
+		<rom name="macea.chd" size="139810256" crc="ee36edc4" sha1="f3cbbd629c1f6b1600f55bddce15609e55101dd3"/>
+	</machine>
+	<machine name="maxforce">
+		<description>maxforce</description>
+		<rom name="maxforce.chd" size="1170169412" crc="155f606c" sha1="d92ab8604978d9c9364bbbb5fdfabd1624b783f9"/>
+	</machine>
+	<machine name="nagano98">
+		<description>nagano98</description>
+		<rom name="nagano98.chd" size="420026264" crc="84cf960c" sha1="97e27d53fbe451d8b65adfd2e03ec817ba3f0187"/>
+	</machine>
+	<machine name="nbanfl">
+		<description>nbanfl</description>
+		<rom name="nbanfl.chd" size="787324460" crc="f046f262" sha1="c92090c25ca9ed51def261303efe6a4b42a18336"/>
+	</machine>
+	<machine name="nbashowt">
+		<description>nbashowt</description>
+		<rom name="nbashowt.chd" size="596600037" crc="98d74283" sha1="1900d87fff849d65b7c36cbb0f871fd5426aba3a"/>
+	</machine>
+	<machine name="pbball96">
+		<description>pbball96</description>
+		<rom name="pbball96.chd" size="149911926" crc="b67bdd1a" sha1="538bef45a63202541bef041dcafecf8736d727ac"/>
+	</machine>
+	<machine name="polystar">
+		<description>polystar</description>
+		<rom name="623jaa02.chd" size="142414060" crc="a94e29ed" sha1="d5bf2e28c2f564916cae34464e227226c292b926"/>
+	</machine>
+	<machine name="primrag2">
+		<description>primrag2</description>
+		<rom name="primrag2.chd" size="584384111" crc="304f8bd0" sha1="ec221123c5303169f435e48372ba8f306115648a"/>
+	</machine>
+	<machine name="qdrmfgp">
+		<description>qdrmfgp</description>
+		<rom name="gq460a08.chd" size="365415360" crc="cf59b4b8" sha1="d5287a4a1c3bed56b281c8bf8990198c75203c8d"/>
+	</machine>
+	<machine name="qdrmfgp2">
+		<description>qdrmfgp2</description>
+		<rom name="ge557a09.chd" size="378655406" crc="3be99637" sha1="41cc4c9cfa2960161bdbac1745b69ecfe9a6b863"/>
+	</machine>
+	<machine name="roadburn">
+		<description>roadburn</description>
+		<rom name="roadburn.chd" size="414404299" crc="82cacbda" sha1="8418c41775a9cd60e252a579c96ebef7f7074c94"/>
+	</machine>
+	<machine name="sf2049">
+		<description>sf2049</description>
+		<rom name="sf2049.chd" size="938130228" crc="c8f33b82" sha1="d4b72f227d628711d4f5d32b76794a999f82110a"/>
+		<rom name="sf2049se.chd" size="1384006887" crc="c6c95d56" sha1="a264abde8b0a723b59c61314d3a9b688d0d0fc79"/>
+		<rom name="sf2049te.chd" size="1489145987" crc="655e6f22" sha1="f884bf6bb1ea610b8a0d4767a6eb4b6a37dedd7e"/>
+	</machine>
+	<machine name="sfiii">
+		<description>sfiii</description>
+		<rom name="sf3000.chd" size="37715715" crc="b9ac93dd" sha1="c26eaa92690993a0d3371cbd2d6130af0815f415"/>
+	</machine>
+	<machine name="sfiii2">
+		<description>sfiii2</description>
+		<rom name="3ga000.chd" size="43246653" crc="9bc807cd" sha1="dff7b6321e736fa934475cdc1e1e08cd3e251193"/>
+	</machine>
+	<machine name="sfiii3">
+		<description>sfiii3</description>
+		<rom name="33s000.chd" size="67850966" crc="5a9461c8" sha1="3110c58c26b59838eb42211941120f08138e733a"/>
+	</machine>
+	<machine name="sfish2">
+		<description>sfish2</description>
+		<rom name="sfish2.chd" size="575353951" crc="0a515e1e" sha1="84cb88998f83ae68c6f87ba81e305d373b23a773"/>
+	</machine>
+	<machine name="sfrush">
+		<description>sfrush</description>
+		<rom name="sfrush.chd" size="56461757" crc="bf7c13a0" sha1="ab7bc8f80f4984a8205eedf6609ef01cf0f30b47"/>
+	</machine>
+	<machine name="sfrushrk">
+		<description>sfrushrk</description>
+		<rom name="sfrushrk.chd" size="143996718" crc="eb62eee4" sha1="1f6ffe8988e9184bb5992047272dd4160269050b"/>
+	</machine>
+	<machine name="simpbowl">
+		<description>simpbowl</description>
+		<rom name="simpbowl.chd" size="27413745" crc="44c985da" sha1="db485435463d0d784d5f867f0067169bfb00c1d7"/>
+	</machine>
+	<machine name="susume">
+		<description>susume</description>
+		<rom name="susume.chd" size="451355017" crc="990cf920" sha1="0ebc987ab8ecba3cf7f2bd3808b4ccbca4caf619"/>
+	</machine>
+	<machine name="tenthdeg">
+		<description>tenthdeg</description>
+		<rom name="tenthdeg.chd" size="771595500" crc="8ed6f82a" sha1="f4029c6ab7673d06cdf3b4689ef7dec682bdaf07"/>
+	</machine>
+	<machine name="vaportrx">
+		<description>vaportrx</description>
+		<rom name="vaportrp.chd" size="547666836" crc="f75c9b2f" sha1="9143dcc197c81ab056cd5fb0bc1dff37c6fd7561"/>
+		<rom name="vaportrx.chd" size="1318172469" crc="69401665" sha1="9af4dc73e3bf70fb2d1fa06de195b929d1e66843"/>
+	</machine>
+	<machine name="vcircle">
+		<description>vcircle</description>
+		<rom name="vcircle.chd" size="558119354" crc="ea0aadf7" sha1="334cd8080f38c4c0a9515a249151d64cba934d1b"/>
+	</machine>
+	<machine name="warfa">
+		<description>warfa</description>
+		<rom name="warfa.chd" size="886497307" crc="0be5a5c7" sha1="715c6814efa68d4ceb69326ff503907faccf63c9"/>
+	</machine>
+	<machine name="wargods">
+		<description>wargods</description>
+		<rom name="wargods.chd" size="62836734" crc="6e034fea" sha1="9a77ba262f509005f103b6df74a801d322900df7"/>
+	</machine>
+	<machine name="warzard">
+		<description>warzard</description>
+		<rom name="wzd000.chd" size="37162971" crc="1124d433" sha1="79a8fc0f57281566da44bad2ca1f553905ff035b"/>
+	</machine>
+	<machine name="weddingr">
+		<description>weddingr</description>
+		<rom name="weddingr.chd" size="14207374" crc="0fa1429b" sha1="3791143df47c0bac3583f5eed75e923dd548e8fc"/>
+	</machine>
+	<machine name="wg3dh">
+		<description>wg3dh</description>
+		<rom name="wg3dh.chd" size="97212473" crc="bfce70fe" sha1="ee4e35a8f87220d95dd755cc4cfd90b14bc27e16"/>
+	</machine>
+</datafile>

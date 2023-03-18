@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cecflop</name>
+		<description>China Education Computer 5.25 inch floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="biochar">
+		<description>Shēngwùzhōng Qūxiàn Jí Xìnggé Zīxún</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="biochar.dsk" size="143360" crc="79e9db10" sha1="df9012c81fab0b44a62ddc89cd16a4ad58d67e84" />
+	</machine>
+	<machine name="cecdos">
+		<description>Zhōnghuájī Xìtǒngpán CEC-DOS</description>
+		<year>1990</year>
+		<publisher>Shaanxi Province Computer Factory</publisher>
+		<rom name="cec-dos.dsk" size="163840" crc="be526468" sha1="68b3ef61f56ae4876ba3577c35ed79be463944f2" />
+	</machine>
+	<machine name="compcons">
+		<description>Jìsuànjī Zīxún Fúwù</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="compcons.dsk" size="143360" crc="a04e8bfa" sha1="9562f4a96984a7e1bc1dad28c03c0f00ac0fa5ad" />
+	</machine>
+	<machine name="compfor">
+		<description>Diànnǎo Suànmìng</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="compfor.dsk" size="143360" crc="f27450a6" sha1="caafef323b523b59915eadb4b6dfe5eec25d290b" />
+	</machine>
+	<machine name="dos33">
+		<description>Apple DOS 3.3 System Master</description>
+		<year>1980</year>
+		<publisher>Apple Computer, Inc.</publisher>
+		<rom name="dos33.dsk" size="143360" crc="10076aa3" sha1="3d560add5d9879f2c811bbd915afe85f51b5d67a" />
+	</machine>
+	<machine name="eccad">
+		<description>Diànzǐ Xiànlù Jìsuànjī Fǔzhù Shèjì</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="eccad1.dsk" size="143360" crc="24db8230" sha1="8700b1b48f39f52533b402bb874693df4ba9251c" />
+		<rom name="eccad2.dsk" size="163840" crc="b89c94ef" sha1="65aa936046d75bd213bb292f9aadc269c1c03cfb" />
+	</machine>
+	<machine name="equityadv">
+		<description>Gǔpiào Zīxún Xìtǒng</description>
+		<year>1994</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="equityadv.dsk" size="163840" crc="f27fbb19" sha1="22bb84cef1424689a8dfcfa796fa9b1b5b2c117c" />
+	</machine>
+	<machine name="flyingaxe">
+		<description>Fēifǔ Shéntóng</description>
+		<year>1984</year>
+		<publisher>Datasoft</publisher>
+		<rom name="flyingaxe1.dsk" size="163840" crc="2357fbda" sha1="a22cfd64b9fb4493d14ef1ad218ab57de9a3d6ca" />
+		<rom name="flyingaxe2.dsk" size="163840" crc="50d602b6" sha1="674ce713832527b4c507c6615ba4c1481f5e17e7" />
+	</machine>
+	<machine name="jackiechan">
+		<description>Chénglóng</description>
+		<year>1985</year>
+		<publisher>Data East</publisher>
+		<rom name="jackiechan.dsk" size="143360" crc="917be3a7" sha1="ab1422a6515a8e5af09a31485965e8180cca0aa9" />
+	</machine>
+	<machine name="learn6502">
+		<description>Gēn Wǒ Xué 6502 Huìbiān</description>
+		<year>1987</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="learn6502.dsk" size="143360" crc="8125accc" sha1="4c64f15ea8e22f9ace9322e7461464d04f243643" />
+	</machine>
+	<machine name="musicbbrd">
+		<description>Yīnyuè Hēibǎn</description>
+		<year>1987</year>
+		<publisher>Chen Wei hai</publisher>
+		<rom name="musicbbrd.dsk" size="143360" crc="03819779" sha1="cf18f0176baab2103608b5d469e9190192868bc4" />
+	</machine>
+	<machine name="primlang">
+		<description>Xiǎoxué Yǔwén</description>
+		<year>1989</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="primlang1.dsk" size="143360" crc="ab9d41a4" sha1="9aef8d2f24662ac3ab7eabdaf08a76c5ac75c042" />
+		<rom name="primlang2.dsk" size="143360" crc="075000c2" sha1="e7ea59b533a5f94ca76a5d38189a98152cdf3f86" />
+	</machine>
+	<machine name="printcart">
+		<description>Zhōnghuájī Dǎyìn Hé</description>
+		<year>1993</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="printcart.dsk" size="143360" crc="7cd9d913" sha1="49fea58db83823e71a4c973b93a7cff2ce689004" />
+	</machine>
+	<machine name="schtxted">
+		<description>Chāojí Hànzì Wénzhāng Biānjí</description>
+		<year>1990</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="schtxted.dsk" size="163840" crc="1e002a4e" sha1="486490c757d2988908af3234c0d44ae51559a5d5" />
+	</machine>
+	<machine name="sherlock">
+		<description>Fú'ěrmósī</description>
+		<year>1985</year>
+		<publisher>Bantam Software</publisher>
+		<rom name="sherlock1.dsk" size="163840" crc="c1465d42" sha1="5ba880b980ab4ba14de1156d7c2e8be71607dbbf" />
+		<rom name="sherlock2.dsk" size="163840" crc="4ea71e51" sha1="675d3103bcd9711a19d2a27851ea11751feb08ad" />
+	</machine>
+	<machine name="softcat">
+		<description>Ruǎnjiàn Mùlù Biānyìn Gōngjù V2.2</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="softcat.dsk" size="143360" crc="79cbe0a6" sha1="658c2bb46b64d009ee9608fd069c1cb4a85de358" />
+	</machine>
+	<machine name="udbms">
+		<description>Tōngyòng Shùjùkù Guǎnlǐ Xìtǒng</description>
+		<year>1989</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="udbms.dsk" size="143360" crc="c0482dd6" sha1="5333ed760918551ad25bb0b2bf8b19a5f0c2d30d" />
+	</machine>
+</datafile>

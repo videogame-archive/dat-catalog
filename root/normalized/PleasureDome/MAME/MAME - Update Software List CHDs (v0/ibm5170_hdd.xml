@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ibm5170_hdd</name>
+		<description>IBM PC/AT hard disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="win98se">
+		<description>Windows 98 Second Edition</description>
+		<year>1999</year>
+		<publisher>Microsoft</publisher>
+		<disk name="win98se_eng" sha1="950aec51ec66fee95da4f85979adc1abfde4a62b" />
+	</machine>
+</datafile>

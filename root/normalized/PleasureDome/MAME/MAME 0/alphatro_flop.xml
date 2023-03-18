@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>alphatro_flop</name>
+		<description>Triumph-Adler Alphatronic PC diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm">
+		<description>56K CP/M 2.2/3.1 System Disk</description>
+		<year>1984</year>
+		<publisher>Triumph-Adler</publisher>
+		<rom name="roycpm.td0" size="128877" crc="bf47c534" sha1="e69cc39d9a6229c5e5a2055e8950d085b34e607d" />
+	</machine>
+	<machine name="dbasic">
+		<description>Disk-Basic Ver. 5.26B</description>
+		<year>1984</year>
+		<publisher>Microsoft</publisher>
+		<rom name="dskbasic.td0" size="64140" crc="38834574" sha1="27a813ba8f7bb7f024ff5ebc49374bd46e005c65" />
+	</machine>
+	<machine name="dbasicb">
+		<description>Disk-Basic Beispielprogramme für hochauflösende Graphik</description>
+		<year>1984</year>
+		<publisher>BiCom</publisher>
+		<rom name="dskbasic_bicom.td0" size="74913" crc="d2028930" sha1="4d676e9a98ee3e07fa5ef069b084411c9484f6c3" />
+	</machine>
+</datafile>

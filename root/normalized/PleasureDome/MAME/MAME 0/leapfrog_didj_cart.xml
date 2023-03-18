@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>leapfrog_didj_cart</name>
+		<description>LeapFrog Didj Cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="andinvasn">
+		<description>Nicktoon Android Invasion (USA)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13290-B - Nicktoons Android Invasion (US).bin" size="69206016" crc="1bdd1865" sha1="a500858c6e701617c5f6e1d0b23b058956a834ee" />
+	</machine>
+	<machine name="indjones">
+		<description>Indiana Jones (USA)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13304-A - Indiana Jones (US).bin" size="69206016" crc="c3bc1813" sha1="95e55b02ffe6e62ee89b44403375fdffcd573510" />
+	</machine>
+	<machine name="schicks">
+		<description>Super Chicks (USA)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13289-B - Super Chicks (US).bin" size="69206016" crc="852646c5" sha1="17a2dd4cf097481b755c7a40da41a62b4fc2b1b7" />
+	</machine>
+	<machine name="spbobfifo">
+		<description>Nickelodeon Spongebob Squarepants - Fists of Foam (USA)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13291-B - Spongebob Squarepants - Fists of Foam (US).bin" size="69206016" crc="4edb2270" sha1="8a6752bcdfa94cb68f05764b808ce1142a8919ac" />
+	</machine>
+	<machine name="swclonewrs">
+		<description>Star Wars - The Clone Wars (USA)</description>
+		<year>2008</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="500-13292-A - Star Wars - The Clone Wars (US).bin" size="69206016" crc="df7e9cc3" sha1="b9f8936bfa9073a8120658669923a1663f839093" />
+	</machine>
+</datafile>

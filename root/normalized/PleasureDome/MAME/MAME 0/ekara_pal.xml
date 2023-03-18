@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ekara_pal</name>
+		<description>Takara e-kara (UK/Europe, PAL) cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="ger_strt">
+		<description>e-kara Germany 5-Songs Starter (GER-M001)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="ger-m001.u1" size="524288" crc="ff2881f3" sha1="3470fc1ed81da5e2c929205fcd290da82d031c4c" />
+	</machine>
+	<machine name="spainvol1">
+		<description>e-kara Spain 10-Songs Volume 1</description>
+		<year>2002</year>
+		<publisher>Takara / newgent</publisher>
+		<rom name="spainvol1.bin" size="1048576" crc="b90366cc" sha1="f6bab71fc8cb420728ffa721d7c12767719099e5" />
+	</machine>
+	<machine name="spainvol2">
+		<description>e-kara Spain 10-Songs Volume 2</description>
+		<year>2002</year>
+		<publisher>Takara / newgent</publisher>
+		<rom name="spainvol2.bin" size="1048576" crc="a60f7b30" sha1="7c7736e692b9f4ce838dc064e214322aa3ae0e6a" />
+	</machine>
+	<machine name="uk_vol1">
+		<description>e-kara UK / Europe Volume 1 (UK-E001)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="uk-e001.u1" size="1048576" crc="fc0ea770" sha1="47e2ef544cbb35431dd138b74d1f9b7290eba02d" />
+	</machine>
+	<machine name="uk_vol2">
+		<description>e-kara UK / Europe Volume 2 (UK-E002)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="uk-e002.u1" size="1048576" crc="ab011ea3" sha1="dd5c9cc330956861b0d172c5a07a72eb315009a2" />
+	</machine>
+	<machine name="uk_vol3">
+		<description>e-kara UK / Europe Volume 3 (UK-E003)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="uk-e003.u1" size="1048576" crc="ee16321c" sha1="cc6d22e164164dc678c75a65e13397fb29024b14" />
+	</machine>
+	<machine name="uk_vol4">
+		<description>e-kara UK / Europe Volume 4 (UK-E004)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="uk-e004.bin" size="1048576" crc="d3739137" sha1="e3c404bc916cac4acccc46b8345defd9495431fa" />
+	</machine>
+	<machine name="uk_vol5">
+		<description>e-kara UK / Europe Volume 5 (UK-E005)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="uk-e005.bin" size="1048576" crc="e8e2c9cd" sha1="d1bdcfe88bb28012e52e51dc1b39c20284d30b26" />
+	</machine>
+	<machine name="uk_vol6">
+		<description>e-kara UK / Europe Volume 6 (UK-E006)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="uk-e006.u1" size="1048576" crc="fad51dc4" sha1="522adfab98c2634bfaa9a01e3b7aebba2f867c1f" />
+	</machine>
+	<machine name="uk_vol7">
+		<description>e-kara UK / Europe Volume 7 (UK-E007)</description>
+		<year>2002</year>
+		<publisher>Takara</publisher>
+		<rom name="uk-e007.u1" size="1048576" crc="753ce591" sha1="e12ac98470f1dbc470f2e3d957f1b72f0a90bee1" />
+	</machine>
+</datafile>

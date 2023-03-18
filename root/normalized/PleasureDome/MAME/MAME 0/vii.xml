@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>vii</name>
+		<description>JungleTac/KenSingTon Vii cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="7in1">
+		<description>VC1 7 in 1</description>
+		<year>2007</year>
+		<publisher>JungleTac/KenSingTon</publisher>
+		<rom name="7in1.bin" size="8388608" crc="b541afaa" sha1="20437027a5d98ad26bb34b575007038b10b93577" />
+	</machine>
+	<machine name="10in1">
+		<description>VC2 10 in 1</description>
+		<year>2007</year>
+		<publisher>JungleTac/KenSingTon</publisher>
+		<rom name="10in1.bin" size="8388864" crc="73914c71" sha1="b3c311e83e62534e61a329c7b373ccf3a743d404" />
+	</machine>
+</datafile>

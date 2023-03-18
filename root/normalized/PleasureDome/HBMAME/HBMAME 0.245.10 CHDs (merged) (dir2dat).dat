@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HBMAME 0.245.10 CHDs (merged) (dir2dat)</name>
+		<description>HBMAME 0.245.10 CHDs (merged) (dir2dat)</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>newuzer</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="primrag2">
+		<description>primrag2</description>
+		<rom name="primrag2.chd" size="549582271" crc="e82993e5" sha1="cff4c9ef1186fd6b071294016d12dffb400aa588"/>
+	</machine>
+</datafile>

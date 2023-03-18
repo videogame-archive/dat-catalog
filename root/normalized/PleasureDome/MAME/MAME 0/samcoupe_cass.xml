@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>samcoupe_cass</name>
+		<description>SAM Coupé cassettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="f16demo">
+		<description>F-16 Combat Pilot (demo)</description>
+		<year>1991</year>
+		<publisher>Digital Integration</publisher>
+		<rom name="f-16 combat pilot (demo).tzx" size="91381" crc="91e9b7f6" sha1="2849059091d59041f13a36db0e8d5dc44020fa48" />
+	</machine>
+	<machine name="snare">
+		<description>Snare</description>
+		<year>1992</year>
+		<publisher>Enigma Software Developments</publisher>
+		<rom name="snare - alternate - side b.tzx" size="67044" crc="3278d671" sha1="9046c7b2ca54c8dd653cc797f7cc2ac6616791af" />
+	</machine>
+</datafile>

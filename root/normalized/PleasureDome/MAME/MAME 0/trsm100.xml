@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>trsm100</name>
+		<description>TRS-80 Model 100 Option ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="bp">
+		<description>Booster Pack</description>
+		<year>198?</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="bp1.bin" size="32768" crc="2a4ea4c8" sha1="fa46c038d6bca5f1f3cf6fac89a4e60dcbb5d3ff" />
+		<rom name="bp2.bin" size="32768" crc="2293043b" sha1="79d2609e9b2bc2e88cccc55a2c57e523b3b66197" />
+		<rom name="sard1bp.bin" size="32768" crc="1e545076" sha1="0e6bb627464ca2fb503dbb5fc31bea81d7cd1cd0" />
+		<rom name="sard2bp.bin" size="32768" crc="4d53a912" sha1="2db1bb726e085ab8b804cbef0ba21615cc12a48b" />
+		<rom name="sard3bp.bin" size="32768" crc="03ec495d" sha1="ee0904599fbcf45b6138f9f28f45ae27a6a67ba2" />
+		<rom name="sard4bp.bin" size="32768" crc="4a06dbf8" sha1="52207043ed236c2c6a378083ddaeabab668db3d5" />
+	</machine>
+	<machine name="cardfile">
+		<description>Card File Program</description>
+		<year>1989</year>
+		<publisher>Tony B. Anderson</publisher>
+		<rom name="crdfil.bin" size="32768" crc="b77a6ec5" sha1="a42291bda195fe567faa6200ba6083771902702b" />
+	</machine>
+	<machine name="is">
+		<description>Interactive Solutions</description>
+		<year>1984</year>
+		<publisher>Tandy/Radio Shack</publisher>
+		<rom name="is100.bin" size="32768" crc="b8e734ec" sha1="338ffe692f29c2e846bbc4343bc958ed3f9d3bc2" />
+	</machine>
+	<machine name="logit">
+		<description>Log-It 100 v1.1</description>
+		<year>1985</year>
+		<publisher>Abby Levine / Barry Minnerly</publisher>
+		<rom name="logit100.bin" size="8192" crc="49561afe" sha1="6a21091fd4ed258d65dce13616d8e961abb1f4b4" />
+	</machine>
+	<machine name="multipln">
+		<description>Microsoft Multiplan v1.00</description>
+		<year>1983</year>
+		<publisher>Tandy/Radio Shack</publisher>
+		<rom name="multipln.bin" size="32768" crc="58e7052d" sha1="02298ab5e319b352dd60f281632b0a8d18f5c916" />
+	</machine>
+	<machine name="r2c">
+		<description>ROM2/Cleuseau</description>
+		<year>198?</year>
+		<publisher>Polar Engineering</publisher>
+		<rom name="r2c100.bin" size="32768" crc="3adacaa6" sha1="6ddf43047a819eb88367ebe6ace1a0166e6dbb03" />
+	</machine>
+	<machine name="ramplus">
+		<description>RAM+ v2.5</description>
+		<year>1985</year>
+		<publisher>PCSG</publisher>
+		<rom name="ramplus.bin" size="8192" crc="1369956a" sha1="d8e55a232ae141a9e56aa9a27b166f10f342fead" />
+	</machine>
+	<machine name="tsdos">
+		<description>TS-DOS v4.00</description>
+		<year>1987</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="tsdos100.bin" size="32768" crc="b359d304" sha1="2b8105b8a46c3f6a90f46f567fffea18fa974c63" />
+	</machine>
+	<machine name="tsrandom">
+		<description>TS-RANDOM v1.3</description>
+		<year>1986</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="rand100.bin" size="32768" crc="87781c9c" sha1="7749c1ecbf877151eba2e25f154b06c57324b25c" />
+	</machine>
+	<machine name="tword">
+		<description>T-Word with Sardine v1.34</description>
+		<year>1986</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="sard100.bin" size="32768" crc="ad08d509" sha1="4488cf7f90f1a121ee68ce1db10d45a75c112934" />
+	</machine>
+	<machine name="ur2">
+		<description>The Ultimate ROM II v2.12</description>
+		<year>1986</year>
+		<publisher>Traveling Software</publisher>
+		<rom name="ur2100.bin" size="32768" crc="2e3ebe41" sha1="b685f58cf3befa3f2ca5d076c4fa90aa348e634a" />
+	</machine>
+</datafile>

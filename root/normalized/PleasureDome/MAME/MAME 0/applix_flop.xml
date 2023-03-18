@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>applix_flop</name>
+		<description>Applix 1616 floppies</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="boot">
+		<description>Boot disk</description>
+		<year>1991</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="applix_001.raw" size="819200" crc="ea95fa95" sha1="bb4f07858152f2502ed150556107b9bc66f29869" />
+	</machine>
+</datafile>

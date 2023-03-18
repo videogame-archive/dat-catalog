@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HBMAME 0.245.10 Rollback CHDs</name>
+		<description>HBMAME 0.245.10 Rollback CHDs (dir2dat)</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="HBMAME (v0.208) - jojo">
+		<description>HBMAME (v0.208) - jojo</description>
+		<disk name="cap-jjk-3" sha1="dc6e74b5e02e13f62cb8c4e234dd6061501e49c1"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - jojoba">
+		<description>HBMAME (v0.208) - jojoba</description>
+		<disk name="cap-jjm-1" sha1="8628d3fa555fbd5f4121082e925c1834b76c5e65"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - sfiii2">
+		<description>HBMAME (v0.208) - sfiii2</description>
+		<disk name="cap-3ga000" sha1="4e162885b0b3265a56e0265037bcf247e820f027" status="baddump"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - sfiii3">
+		<description>HBMAME (v0.208) - sfiii3</description>
+		<disk name="cap-33s-2" sha1="41b0e246db91cbfc3f8f0f62d981734feb4b4ab5" status="baddump"/>
+	</machine>
+	<machine name="HBMAME (v0.208) - sfiii">
+		<description>HBMAME (v0.208) - sfiii</description>
+		<disk name="cap-sf3-3" sha1="606e62cc5f46275e366e7dbb412dbaeb7e54cd0c" status="baddump"/>
+	</machine>
+</datafile>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>tandy2k</name>
+		<description>Tandy 2000 disk images</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="7002701">
+		<description>7002701</description>
+		<year>1987</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="7002701.td0" size="324012" crc="0fb01c13" sha1="f0ef74e6ef3927e6ef213131accb94ec73c4aa88" />
+	</machine>
+	<machine name="lotus123">
+		<description>Lotus 1-2-3</description>
+		<year>1983</year>
+		<publisher>Lotus</publisher>
+		<rom name="123_sys.mfm" size="2002793" crc="89e185f8" sha1="316ae07e5cbf02a4dcdbe322f9f0dced75b5f387" status="baddump" />
+		<rom name="123_tut.td0" size="339830" crc="afee1cf2" sha1="239734ff103219517630aef40a79bbfb7ae524b7" />
+	</machine>
+	<machine name="msdos211">
+		<description>MS-DOS v2.11</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="dos21102.td0" size="360426" crc="1b6def2a" sha1="322289ff80e767031255187dc4268dd8cf6b750f" />
+		<rom name="dos21103.td0" size="479504" crc="692fc4b3" sha1="8482f7b299f0ed9097e9361a5f8974de9bbb8b75" />
+	</machine>
+	<machine name="multipln">
+		<description>Multiplan v1.05</description>
+		<year>198?</year>
+		<publisher>Microsoft</publisher>
+		<rom name="mplan2.td0" size="68466" crc="0ddb4831" sha1="43966cb8f818cf1f343a874f932ee3c8e43114ae" />
+	</machine>
+	<machine name="pfs">
+		<description>pfs</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="pfs-file.td0" size="153125" crc="95694a79" sha1="92877d1cc2053d37ac6ec3a7a0ca4b2180c7e7e4" />
+		<rom name="pfs-rept.td0" size="152989" crc="7c99d32e" sha1="afea3acb1f962f45d1c6e164982235b2700f9d01" />
+		<rom name="pfsfile1.td0" size="153125" crc="95694a79" sha1="92877d1cc2053d37ac6ec3a7a0ca4b2180c7e7e4" />
+	</machine>
+	<machine name="t2kdos">
+		<description>t2kdos</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="t2kdos.td0" size="479504" crc="002a5e90" sha1="e000f946f1c45cdbefe1fb96a504a4f711b12ddd" />
+	</machine>
+	<machine name="wordstar">
+		<description>WordStar v3.31</description>
+		<year>1984</year>
+		<publisher>MicroPro</publisher>
+		<rom name="wdstar1.td0" size="202652" crc="9e918646" sha1="de05c2fb50e1a12ee87a40b37954c6eabc2e21df" />
+		<rom name="wdstar2.td0" size="200916" crc="77140e37" sha1="24d84e69b2bbb7e91f26000fa36b5e77adcd0293" />
+		<rom name="wdstar3.td0" size="181782" crc="4068c73e" sha1="2dbbcef9aee6bff6d47e06416b652a97365d75d8" />
+	</machine>
+</datafile>

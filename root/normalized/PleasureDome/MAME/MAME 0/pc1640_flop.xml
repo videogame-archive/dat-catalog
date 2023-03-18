@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>pc1640_flop</name>
+		<description>Amstrad PC1640 diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="system">
+		<description>Amstrad PC1640 System Discs</description>
+		<year>1987</year>
+		<publisher>Amstrad</publisher>
+		<rom name="47001.img" size="368640" crc="274129d5" sha1="94d225bfd8813c4434ec989f2340623d9496ba49" />
+		<rom name="47002.img" size="368640" crc="5361b69c" sha1="256214d06735b4716321aded23d759f3c0b5b56a" />
+		<rom name="47003.img" size="368640" crc="8f21e56c" sha1="d4a8183cfb7ec5e361dbf549357b9df49672f7fc" />
+		<rom name="47004.img" size="368640" crc="b34d7638" sha1="1f82a0d9789db97f0ce2aa9409871957b355ff5b" />
+	</machine>
+	<machine name="system_fr">
+		<description>Amstrad PC1640 System Discs (Fra)</description>
+		<year>1987</year>
+		<publisher>Amstrad</publisher>
+		<rom name="47001f.img" size="368640" crc="17fdea8d" sha1="b7c9ddb0f44ca1df582382677d5810007aa4c91a" />
+		<rom name="47002f.img" size="368640" crc="1de13292" sha1="b416cbba207ef2de8b1270abc818d7675ff1f6e4" />
+		<rom name="47003f.img" size="368640" crc="a90a5bc2" sha1="51e71ef779e11738b7da0828cb6832c60d150556" />
+		<rom name="47004f.img" size="368640" crc="0a2bbad5" sha1="4ee3bb07e4fdf12ac8e480a3abaf2e07429fac4b" />
+	</machine>
+</datafile>

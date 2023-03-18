@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>a7800</name>
+		<description>Atari 7800 cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="1on1u">
+		<description>One On One (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Electronic Arts</publisher>
+		<rom name="oneonone.bin" size="49152" crc="7d9370fb" sha1="5173f892a8d70aeca6c324c138c56208e0db2b98" />
+	</machine>
+	<machine name="1on1">
+		<description>One On One (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Electronic Arts</publisher>
+		<rom name="oneonoeu.bin" size="49152" crc="7a628295" sha1="01dfc5e4e615cf20ee4f07245285f85684ee445d" />
+	</machine>
+	<machine name="aceoface">
+		<description>Ace of Aces (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari / NOVA Game Design. Inc.</publisher>
+		<rom name="aceofaeu.bin" size="131072" crc="20c5db80" sha1="c43249ba2d38441461e5ffe07ad2e0b46ab1c6df" />
+	</machine>
+	<machine name="aceofaceu">
+		<description>Ace of Aces (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari / NOVA Game Design. Inc.</publisher>
+		<rom name="aceoface.bin" size="131072" crc="05a2b94c" sha1="efd20bd321a81d67fb6430d9ba93d23fb90d8029" />
+	</machine>
+	<machine name="alienbrg">
+		<description>Alien Brigade (PAL)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="alienbeu.bin" size="147456" crc="6a19f0fe" sha1="990711ae451d901a960af8ad9ae70813f16257b1" />
+	</machine>
+	<machine name="alienbrgu">
+		<description>Alien Brigade (NTSC)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="alienbrg.bin" size="147456" crc="c8849d36" sha1="a8629fac962cc20b263a60bb2d2386d605713387" />
+	</machine>
+	<machine name="armora2">
+		<description>Armor Attack II</description>
+		<year>2013</year>
+		<publisher>AtariAge</publisher>
+		<rom name="armor attack ii (20130416).bin" size="16384" crc="08eb2b5a" sha1="56f8bb2bc34ceba0c1107fcacab46dd0d4677075" />
+	</machine>
+	<machine name="astdelux">
+		<description>Asteroids Deluxe (PAL)</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="asteroids deluxe (pal).bin" size="32768" crc="ab72ea89" sha1="341c7be2823e69e95a61567cb79042c140278c4c" />
+	</machine>
+	<machine name="astdeluxu">
+		<description>Asteroids Deluxe (NTSC)</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="asteroids deluxe (ntsc).bin" size="32768" crc="56239d62" sha1="514fb53dcd8c47251fcbe5047bb2d9d13ccf6aef" />
+	</machine>
+	<machine name="asteroid">
+		<description>Asteroids (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="astroids.bin" size="16384" crc="dfb93f40" sha1="d96ec4e043fcdacab367d8a69d29904b3b2896f1" />
+	</machine>
+	<machine name="astrob">
+		<description>Astro Blaster (NTSC)</description>
+		<year>2014</year>
+		<publisher>AtariAge</publisher>
+		<rom name="astro blaster (20140201).bin" size="49152" crc="ff6dd806" sha1="51de38c2e1543d57f0b94edc58c2bb72dfb8b8d2" />
+	</machine>
+	<machine name="astrof">
+		<description>Astro Fighter (NTSC)</description>
+		<year>2015</year>
+		<publisher>AtariAge</publisher>
+		<rom name="astro fighter (20150726).bin" size="32768" crc="d18640f0" sha1="f76de283a1ac539157b9a97870e70addaedaa55d" />
+	</machine>
+	<machine name="ballblaz">
+		<description>Ballblazer (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Lucasfilm</publisher>
+		<rom name="ballbleu.bin" size="32768" crc="aff85565" sha1="1aa1a508ada1521ae1d373a6860681093e3f851c" />
+	</machine>
+	<machine name="ballblazu">
+		<description>Ballblazer (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Lucasfilm</publisher>
+		<rom name="ballblzr.bin" size="32768" crc="a4c4808b" sha1="4eb5424360691a38b199d91a0e2c9095d0862dbe" />
+	</machine>
+	<machine name="barnblst">
+		<description>Barnyard Blaster (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="barnyaeu.bin" size="131072" crc="02764a86" sha1="a5797cf7e747bbd755c99fde6936caa15fbba6b1" />
+	</machine>
+	<machine name="barnblstu">
+		<description>Barnyard Blaster (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="barnyard.bin" size="131072" crc="ed0a587d" sha1="cbcde3d85c8778dea402394568677884cd781de3" />
+	</machine>
+	<machine name="baseball">
+		<description>Baseball (PAL)</description>
+		<year>1989</year>
+		<publisher>Absolute Entertainment, Inc</publisher>
+		<rom name="bseblleu.bin" size="32768" crc="68d48fdc" sha1="c44fe244206590abc26fbbd520a5726353899e35" />
+	</machine>
+	<machine name="baseballu">
+		<description>Pete Rose Baseball (NTSC)</description>
+		<year>1989</year>
+		<publisher>Absolute Entertainment, Inc</publisher>
+		<rom name="peterose.bin" size="32768" crc="f33d4dfa" sha1="ffb4fbed8d8f28ea71668542b7ebd019955c5a11" />
+	</machine>
+	<machine name="beefdrop">
+		<description>Beef Drop (NTSC, added POKEY Chip)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="bd7800demo.bin" size="32768" crc="7873b949" sha1="a3eaff991cec95040aff53e0c26a862c3dfcc05e" />
+	</machine>
+	<machine name="bentley">
+		<description>Bentley Bear's Crystal Quest (NTSC)</description>
+		<year>2015</year>
+		<publisher>AtariAge</publisher>
+		<rom name="bentley bear's crystal quest (20151220).bin" size="147456" crc="d44622b3" sha1="4a850d4b97bea621e9b6df142afeec8b398d6d6c" />
+	</machine>
+	<machine name="bonq">
+		<description>b*nQ (NTSC)</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="bonq.bin" size="49152" crc="3124b41c" sha1="379ae22a8c8a1c518ba5eb29ad0826dd2daca954" />
+	</machine>
+	<machine name="bsktbrwl">
+		<description>Basketbrawl (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="bsktbreu.bin" size="131072" crc="a4265d4b" sha1="e7ef6b11bb6836ff7d11a25f8d4e2c9361fa69b3" />
+	</machine>
+	<machine name="bsktbrwlu">
+		<description>Basketbrawl (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="bsktbrwl.bin" size="131072" crc="c8b9d7b5" sha1="39877a4c88498bf6656451e3d1acaf7e8638bdfd" />
+	</machine>
+	<machine name="centiped">
+		<description>Centipede (PAL)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="centpeeu.bin" size="16384" crc="33f8a8f6" sha1="323f9fc4fde9aa6fcbaac8ae300aaa06bafa745a" />
+	</machine>
+	<machine name="centipedu">
+		<description>Centipede (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="centpede.bin" size="16384" crc="020efe25" sha1="c8377ad7fb6afec5c88c14a23a68e2ecebba4e5a" />
+	</machine>
+	<machine name="choplift">
+		<description>Choplifter! (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Brøderbund</publisher>
+		<rom name="choplieu.bin" size="49152" crc="12efeb07" sha1="f2fe1c82e5b333f4c59f76a28a9d379228596d89" />
+	</machine>
+	<machine name="chopliftu">
+		<description>Choplifter! (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Brøderbund</publisher>
+		<rom name="choplift.bin" size="32768" crc="419bff61" sha1="6df15e73494d0a498dd044753a27544214210b14" />
+	</machine>
+	<machine name="commando">
+		<description>Commando (PAL)</description>
+		<year>1989</year>
+		<publisher>Atari / Data East</publisher>
+		<rom name="commaneu.bin" size="131072" crc="7c211612" sha1="2bdad24967fe4f5492ae294b1ccf8f148930a419" />
+	</machine>
+	<machine name="commandou">
+		<description>Commando (NTSC)</description>
+		<year>1989</year>
+		<publisher>Atari / Data East</publisher>
+		<rom name="commando.bin" size="131072" crc="cd1a98c5" sha1="f8ae7da650ad38675b81675b77096794a9cd52e8" />
+	</machine>
+	<machine name="cracked">
+		<description>Crack'ed (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="crackeu.bin" size="131072" crc="50fd19cb" sha1="0c1a7806e431efbf0c826a11b92d74eb45e08661" />
+	</machine>
+	<machine name="crackedu">
+		<description>Crack'ed (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="cracked.bin" size="131072" crc="e645fd1f" sha1="664d267d1245d5698cbf6ff0622ee0d629da3a11" />
+	</machine>
+	<machine name="crazyotto">
+		<description>Crazy Otto (PAL, Ms. Pac-Man hack)</description>
+		<year>2010</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="crazyotto (pal) (20100612).bin" size="16384" crc="5637c44a" sha1="5fc657219e4e513bc6ef84f093ac17846b11e2c3" />
+	</machine>
+	<machine name="crazyottou">
+		<description>Crazy Otto (NTSC, Ms. Pac-Man hack)</description>
+		<year>2010</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="crazyotto (ntsc) (20100612).bin" size="16384" crc="5049e4be" sha1="c4af478c38d524f0f5c418f0dd51af38ea62c3ea" />
+	</machine>
+	<machine name="crossbow">
+		<description>Crossbow (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari / Exidy</publisher>
+		<rom name="crossbeu.bin" size="147456" crc="e93d8894" sha1="f26d292210a91a714b4b87712ff53b8e49da611e" />
+	</machine>
+	<machine name="crossbowu">
+		<description>Crossbow (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari / Exidy</publisher>
+		<rom name="crossbow.bin" size="147456" crc="d2ea5686" sha1="d5e47da88e232cd9ea059e133e7c0f13d921a04c" />
+	</machine>
+	<machine name="darkcham">
+		<description>Dark Chambers (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="darkcheu.bin" size="131072" crc="c93a563e" sha1="2b888c95b31109ffd0441f586ba18f21a3a4f22e" />
+	</machine>
+	<machine name="darkchamu">
+		<description>Dark Chambers (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="darkchmb.bin" size="131072" crc="366777f1" sha1="848077f15114fec31f8290be2583566f4486fe65" />
+	</machine>
+	<machine name="ddragon">
+		<description>Double Dragon (PAL)</description>
+		<year>1989</year>
+		<publisher>Activision / Technos</publisher>
+		<rom name="dbledreu.bin" size="131072" crc="4d634bf5" sha1="da7d495ac858c3b1f66aeb6e981c25bd08d44bd8" />
+	</machine>
+	<machine name="ddragonu">
+		<description>Double Dragon (NTSC)</description>
+		<year>1989</year>
+		<publisher>Activision / Technos</publisher>
+		<rom name="dbledrgn.bin" size="131072" crc="f20773d5" sha1="df67dad8bbf3813e7b96362c55ed4af40d831277" />
+	</machine>
+	<machine name="devcard">
+		<description>7800 Dev. Card</description>
+		<year>198?</year>
+		<publisher>Atari</publisher>
+		<rom name="devcard.bin" size="16384" crc="3fbe74ce" sha1="4df3657f57e3086bee26fb5c6ea946c509d08553" />
+	</machine>
+	<machine name="diagtest">
+		<description>7800 Pro System Diagnostic Test (v1.0)</description>
+		<year>198?</year>
+		<publisher>Atari</publisher>
+		<rom name="diagtest.bin" size="32768" crc="a1eaa7c1" sha1="76ec76c423d88bdf739e673c051c5b9c174881c6" />
+	</machine>
+	<machine name="diagtestp">
+		<description>7800 Pro System Diagnostic Test (prototype)</description>
+		<year>198?</year>
+		<publisher>Atari</publisher>
+		<rom name="testcart.bin" size="16384" crc="729dd769" sha1="ea4df28c6bedc09f7013013f257c984aed9b5319" />
+	</machine>
+	<machine name="digdug">
+		<description>Dig Dug (PAL)</description>
+		<year>1984</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="digdugeu.bin" size="32768" crc="efab7077" sha1="ce05d3270b0e0d36d80a4f0731d0173cb5921bce" />
+	</machine>
+	<machine name="digdugu">
+		<description>Dig Dug (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="digdugp.bin" size="16384" crc="50cb13f3" sha1="19cee8dc40fabd7022bedc27e4896c09e3cadfdd" />
+	</machine>
+	<machine name="dkong">
+		<description>Donkey Kong (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari / Nintendo</publisher>
+		<rom name="dnkykoeu.bin" size="49152" crc="0a43d1c5" sha1="dc69fa8fdf3fcba8557195358b8d206463652e0f" />
+	</machine>
+	<machine name="dkongjr">
+		<description>Donkey Kong Jr. (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari / Nintendo</publisher>
+		<rom name="dnkykjeu.bin" size="49152" crc="c784dbac" sha1="2626a9cd3326b8ce0ee0e834e17a0eedae005669" />
+	</machine>
+	<machine name="dkongjru">
+		<description>Donkey Kong Jr. (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari / Nintendo</publisher>
+		<rom name="dnkykgjr.bin" size="49152" crc="1c5a1082" sha1="e9392259fff682fcc3476009771a3cfd7d5bdb6d" />
+	</machine>
+	<machine name="dkongu">
+		<description>Donkey Kong (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari / Nintendo</publisher>
+		<rom name="dnkykong.bin" size="49152" crc="065e063f" sha1="820c852caa7957179bf7d6faf2e6922dde5a1a8e" />
+	</machine>
+	<machine name="dkongxm">
+		<description>Donkey Kong (PAL, demo, XM enhanced, V1.2)</description>
+		<year>2012</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="dkxm_demo_v12_pal.bin" size="147456" crc="9f6c0600" sha1="18409eace880dda3646792f9ec050a87a3b1b382" />
+	</machine>
+	<machine name="dkongxmcc">
+		<description>Donkey Kong (PAL/NTSC, demo, XM enhanced, older, for CC2 board)</description>
+		<year>2012</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="dkxm_final_demo.bin" size="147456" crc="fd503bd4" sha1="454d754a0c4603323e476d9418f343a6a1a0d017" />
+	</machine>
+	<machine name="dkongxmo">
+		<description>Donkey Kong (PAL, demo, XM enhanced, older)</description>
+		<year>2012</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="dkxm_final_demo_pal.bin" size="147456" crc="d362712e" sha1="118c462d6698bd23c378785f80062fdd7d65ca00" />
+	</machine>
+	<machine name="dkongxmou">
+		<description>Donkey Kong (NTSC, demo, XM enhanced, older)</description>
+		<year>2012</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="dkxm_final_demo_ntsc.bin" size="147456" crc="6e170055" sha1="f4da231312da06ff9e8af5681b5013b14886b455" />
+	</machine>
+	<machine name="dkongxmps">
+		<description>Donkey Kong (PAL, demo, XM enhanced, V1.2, for ProSystem Emulator)</description>
+		<year>2012</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="dkxm_final_demo_pal_hsc.bin" size="147456" crc="6510b674" sha1="65b723b470d287af51e9888813149c43fb11ac26" />
+	</machine>
+	<machine name="dkongxmu">
+		<description>Donkey Kong (NTSC, demo, XM enhanced, V1.2)</description>
+		<year>2012</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="dkxm_demo_v12_ntsc.bin" size="147456" crc="8b06bb4b" sha1="3129cbc91dc8f223f00db5c3273a4a330320be99" />
+	</machine>
+	<machine name="dkongxmups">
+		<description>Donkey Kong (NTSC, demo, XM enhanced, V1.2, for ProSystem Emulator)</description>
+		<year>2012</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="dkxm_final_demo_ntsc_hsc.bin" size="147456" crc="2c67fea7" sha1="7825c1946e3c7492fa9bbfae33029cd68c0d1135" />
+	</machine>
+	<machine name="dsrtflcn">
+		<description>Desert Falcon (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="dsrtfleu.bin" size="49152" crc="33991ee8" sha1="185d104614e23699e074e850d5ab8c36a159071c" />
+	</machine>
+	<machine name="dsrtflcna">
+		<description>Desert Falcon (NTSC, alternate)</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="dsrtflcp.bin" size="49152" crc="53e277f6" sha1="bbb8aa88879f2ec6039673ccdbbebebc565346bc" />
+	</machine>
+	<machine name="dsrtflcnu">
+		<description>Desert Falcon (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari</publisher>
+		<rom name="dsrtflcn.bin" size="49152" crc="a1dc0899" sha1="725f893f9a98926c627ef37eacc3f241620c3ffc" />
+	</machine>
+	<machine name="f18u">
+		<description>F-18 Hornet (NTSC)</description>
+		<year>1988</year>
+		<publisher>Absolute Entertainment</publisher>
+		<rom name="dei353am-hornt.u4" size="65536" crc="63d1c7c1" sha1="13a18a6b85db6222b01d37800e5e57db616a85a6" />
+	</machine>
+	<machine name="f18">
+		<description>F-18 Hornet (PAL)</description>
+		<year>1988</year>
+		<publisher>Absolute Entertainment</publisher>
+		<rom name="f18horeu.bin" size="65536" crc="e5d714b0" sha1="673d912b2f9ab7a43f95e0e90bd80249b360fe0d" />
+	</machine>
+	<machine name="failsafe">
+		<description>FailSafe (PAL)</description>
+		<year>2010</year>
+		<publisher>AtariAge</publisher>
+		<rom name="failsafe (pal) (20100227).bin" size="49152" crc="56ac5864" sha1="2d810a0e521e06ce560fe42f9e1c15d759071d4d" />
+	</machine>
+	<machine name="failsafeu">
+		<description>FailSafe (NTSC)</description>
+		<year>2010</year>
+		<publisher>AtariAge</publisher>
+		<rom name="failsafe (ntsc) (20100227).bin" size="49152" crc="67ebf1ed" sha1="e3221e285adaee30f36b60e85a35b63cb4d63292" />
+	</machine>
+	<machine name="fatalrun">
+		<description>Fatal Run (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="fatalreu.bin" size="131072" crc="2a0a93be" sha1="f23173d2e42bca0767f3d8ecb6bb1c0d23dde996" />
+	</machine>
+	<machine name="fatalrunu">
+		<description>Fatal Run (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="fatalrun.bin" size="131072" crc="a44df354" sha1="69aab1e6ef332c6844c693ac41965e4c33ff822a" />
+	</machine>
+	<machine name="fightn">
+		<description>Fight Night (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari / Accolade</publisher>
+		<rom name="fghtngeu.bin" size="131072" crc="64d9c4be" sha1="ded89f3a4ac0d95aa158c98302b7939e5b89e4c6" />
+	</machine>
+	<machine name="fightnu">
+		<description>Fight Night (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari / Accolade</publisher>
+		<rom name="fghtnght.bin" size="131072" crc="720ebc74" sha1="1e8a8704a77b15e70cbc72b0ae9bc25fb91d7c21" />
+	</machine>
+	<machine name="foodf">
+		<description>Food Fight (PAL)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="foodfgeu.bin" size="49152" crc="c64549ec" sha1="40b8e5eeb9e9ad7239963ed79dc085092ccbec4c" />
+	</machine>
+	<machine name="foodfu">
+		<description>Food Fight (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="foodfght.bin" size="32768" crc="e64a5cde" sha1="3f5f42d5aaf6ccd4979658a1387aac5933549357" />
+	</machine>
+	<machine name="foodfup">
+		<description>Food Fight (NTSC, prototype)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="ff hi e 8-16-84 845f.u1" size="8192" crc="ea1f5502" sha1="fa2fa3c5aa20ebd5f55d8182dadc822bdbba1ac5" />
+		<rom name="ff lo 8 8-16-84 029e.u2" size="16384" crc="47d02bb1" sha1="48539447a5a247c57faadd7236281844609e8fc0" />
+	</machine>
+	<machine name="fractal">
+		<description>Rescue on Fractalus (NTSC, prototype)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="rescuefr.bin" size="32768" crc="9a74fbf2" sha1="6653022f38e553d475896a918850158eaf8f77ff" />
+	</machine>
+	<machine name="froggie">
+		<description>Froggie</description>
+		<year>2018</year>
+		<publisher>AtariAge</publisher>
+		<rom name="froggie (final release) (20180920).bin" size="32768" crc="224b93d4" sha1="586b43ca3acd35307bb58f32d08649c755944c5e" />
+	</machine>
+	<machine name="galaga">
+		<description>Galaga (PAL)</description>
+		<year>1984</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="galagaeu.bin" size="49152" crc="5990a9f8" sha1="f1ae5df03cf90041380d77c1b49c94611443330b" />
+	</machine>
+	<machine name="galagau">
+		<description>Galaga (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="galagap.bin" size="32768" crc="1a0a3eb3" sha1="33178d682564d70955e13d0633359e87b512253b" />
+	</machine>
+	<machine name="gatop1">
+		<description>GATO (NTSC, prototype, 198801xx)</description>
+		<year>1988</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop1.bin" size="49152" crc="715e1a2f" sha1="e153927b3463148d3fbeef2d28980c281562cc09" />
+	</machine>
+	<machine name="gatop2">
+		<description>GATO (NTSC, prototype, 198712xx)</description>
+		<year>1987</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop2.bin" size="49152" crc="0f2f66f8" sha1="5784f40216dbc487e80dabd532ae89b2de4bdcc4" />
+	</machine>
+	<machine name="gatop3">
+		<description>GATO (NTSC, prototype, 198711xx)</description>
+		<year>1987</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop3.bin" size="49152" crc="3796705f" sha1="b365d2bf0a5b238eff5f1a4cdc9b7ece2cace38d" />
+	</machine>
+	<machine name="gatop4">
+		<description>GATO (NTSC, prototype, 19870727)</description>
+		<year>1987</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop4.bin" size="49152" crc="15de2327" sha1="c5793c362a69c7e82191caffa0a830e67fe21dc5" />
+	</machine>
+	<machine name="gatop5">
+		<description>GATO (NTSC, prototype, 19870623)</description>
+		<year>1987</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop5.bin" size="49152" crc="9fa0fbda" sha1="1c536bb5870f315eecbdea6660beb7de9371f0f8" />
+	</machine>
+	<machine name="gatop6">
+		<description>GATO (NTSC, prototype, 19870611)</description>
+		<year>1987</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop6.bin" size="49152" crc="40b629a1" sha1="f644c5d071c49d75e1487cd06b91da778697ff23" />
+	</machine>
+	<machine name="gatop7">
+		<description>GATO (NTSC, prototype, 19870523)</description>
+		<year>1987</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop7.bin" size="49152" crc="b05cf8d2" sha1="78eaa5c8e89129596f2f9a7a4517e51eefbd857f" />
+	</machine>
+	<machine name="gatop8">
+		<description>GATO (NTSC, prototype, 19870424)</description>
+		<year>1987</year>
+		<publisher>Atari / Spectrum Holobyte</publisher>
+		<rom name="gatop8.bin" size="49152" crc="e51eb3bc" sha1="e8d29920fe466ea8bfe292e0f135c0e24a48aaad" />
+	</machine>
+	<machine name="hangly">
+		<description>Hangly-Man (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="hangly-man.bin" size="16384" crc="8560a801" sha1="f8654387ff648abbe1e6d8f49b8f8b33f803b917" />
+	</machine>
+	<machine name="hattrick">
+		<description>Hat Trick (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Bally Sente</publisher>
+		<rom name="hattrieu.bin" size="49152" crc="057d9c3c" sha1="0e9fa678bb4aedc7bb7cf5d38fe27556c4c2bbbd" />
+	</machine>
+	<machine name="hattricku">
+		<description>Hat Trick (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Bally Sente</publisher>
+		<rom name="hattrick.bin" size="49152" crc="cf6f4a6c" sha1="14c0cfd01df1c725f399c23810e4854a639fce52" />
+	</machine>
+	<machine name="hiscore">
+		<description>High Score Cartridge</description>
+		<year>198?</year>
+		<publisher>Atari</publisher>
+		<rom name="highscre.bin" size="4096" crc="9be408d3" sha1="a3af676991391a6dd716c79022d4947206b78164" />
+	</machine>
+	<machine name="ikari">
+		<description>Ikari Warriors (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="ikariweu.bin" size="131072" crc="cb621cdc" sha1="275cae6c693d9bd1906fdc684460ec596869bbad" />
+	</machine>
+	<machine name="ikariu">
+		<description>Ikari Warriors (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari / SNK</publisher>
+		<rom name="ikariwar.bin" size="131072" crc="8a6c1f15" sha1="e368c6c7ffca5ffac314dec1effea4e2c809519a" />
+	</machine>
+	<machine name="impmiss">
+		<description>Impossible Mission (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Epyx</publisher>
+		<rom name="impssbeu.bin" size="131072" crc="994af6e0" sha1="9770b61472510aba1cf3ea35ceca1859c3493676" />
+	</machine>
+	<machine name="impmissu">
+		<description>Impossible Mission (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Epyx</publisher>
+		<rom name="impssble.bin" size="131072" crc="3b1f2f47" sha1="5437c0efb63a349953ec047efe6ec24144ed6914" />
+	</machine>
+	<machine name="jinks">
+		<description>Jinks (PAL)</description>
+		<year>1989</year>
+		<publisher>Atari / Softgold</publisher>
+		<rom name="jinkseu.bin" size="131072" crc="9207ed3b" sha1="eb16de0c3d5c4e769ae2314ba21c4dd3bca33c88" />
+	</machine>
+	<machine name="jinksu">
+		<description>Jinks (NTSC)</description>
+		<year>1989</year>
+		<publisher>Atari / Softgold</publisher>
+		<rom name="jinks.bin" size="131072" crc="0818d8cd" sha1="472bc12c437b015a9e317bac092529f3295033b8" />
+	</machine>
+	<machine name="joust">
+		<description>Joust (PAL)</description>
+		<year>1984</year>
+		<publisher>Atari / Williams</publisher>
+		<rom name="jousteu.bin" size="49152" crc="9b3be616" sha1="aae5b9ee00c39d577858aba9d1fd791194be2c0c" />
+	</machine>
+	<machine name="joustu">
+		<description>Joust (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari / Williams</publisher>
+		<rom name="joust.bin" size="32768" crc="2c430bce" sha1="1ccd7c232bcfd5a65d26b9decfe4eceadcbe314c" />
+	</machine>
+	<machine name="jrpacman">
+		<description>Jr. Pac-Man (NTSC)</description>
+		<year>2009</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="jr pac-man (ntsc).bin" size="32768" crc="0198aed4" sha1="f6d51d9c0eaf03c47e1e2d3774fd16c3ba3a59e3" />
+	</machine>
+	<machine name="karateka">
+		<description>Karateka (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Brøderbund</publisher>
+		<rom name="karateeu.bin" size="65536" crc="6c8d9e68" sha1="c5f25c88eefe0c7b3571ab3c3ec5185e537eb151" />
+	</machine>
+	<machine name="karatekau">
+		<description>Karateka (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Brøderbund</publisher>
+		<rom name="karateka.bin" size="49152" crc="fec21472" sha1="9fb97bbc7dcc610251cee1695c48b82a087f32d2" />
+	</machine>
+	<machine name="kcmunch">
+		<description>K.C. Munchkin!</description>
+		<year>2014</year>
+		<publisher>AtariAge</publisher>
+		<rom name="kc munchkin (20140408).bin" size="16384" crc="3a935531" sha1="13a19fc0be062952a93359020778d04705b0b75d" />
+	</machine>
+	<machine name="klax">
+		<description>Klax (NTSC, prototype)</description>
+		<year>1992</year>
+		<publisher>Atari</publisher>
+		<rom name="klax.bin" size="131072" crc="f26621e3" sha1="0ea6a04b8f9713040ce57b6f23a6589f98409d46" />
+	</machine>
+	<machine name="kungfum">
+		<description>Kung-Fu Master (PAL)</description>
+		<year>1989</year>
+		<publisher>Absolute / Data East / Irem</publisher>
+		<rom name="kungfueu.bin" size="32768" crc="c1531fc4" sha1="0f0e24246d9e684b7f900a362fb08878b232580c" />
+	</machine>
+	<machine name="kungfumu">
+		<description>Kung-Fu Master (NTSC)</description>
+		<year>1989</year>
+		<publisher>Absolute / Data East / Irem</publisher>
+		<rom name="kungfums.bin" size="32768" crc="297899bb" sha1="8824bffdf4f30a8191e581752a75259a663092ca" />
+	</machine>
+	<machine name="mario">
+		<description>Mario Bros. (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari / Nintendo</publisher>
+		<rom name="mariobeu.bin" size="49152" crc="efad3d9d" sha1="881beff5103713e655fed80b32e0bbd774e78ee8" />
+	</machine>
+	<machine name="mariou">
+		<description>Mario Bros. (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari / Nintendo</publisher>
+		<rom name="mariobro.bin" size="49152" crc="8021a13b" sha1="12e04b67094af622641c536379c69ecad2ee98ed" />
+	</machine>
+	<machine name="matmania">
+		<description>Mat Mania Challenge (PAL)</description>
+		<year>1989</year>
+		<publisher>Atari / Technos</publisher>
+		<rom name="matmaneu.bin" size="131072" crc="065f3873" sha1="119bb784f1a0638cc6778841131ca1766e94a112" />
+	</machine>
+	<machine name="matmaniau">
+		<description>Mat Mania Challenge (NTSC)</description>
+		<year>1989</year>
+		<publisher>Atari / Technos</publisher>
+		<rom name="matmania.bin" size="131072" crc="aba91829" sha1="bb849b603cf1091e4f032936b209ff33fc3b714e" />
+	</machine>
+	<machine name="mean18u">
+		<description>Mean 18 (NTSC)</description>
+		<year>1989</year>
+		<publisher>Atari / Accolade</publisher>
+		<rom name="mean18.bin" size="131072" crc="cf21d9ac" sha1="a3e50c0e56c9675ffb1b6439f40789bc64c606b2" />
+	</machine>
+	<machine name="mean18">
+		<description>Mean 18 (PAL)</description>
+		<year>1989</year>
+		<publisher>Atari / Accolade</publisher>
+		<rom name="mean18eu.bin" size="131072" crc="3cec4be8" sha1="47702ee71c64af4ada09cd41122c779c7d8d94f1" />
+	</machine>
+	<machine name="meltdown">
+		<description>Meltdown (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="meltdoeu.bin" size="131072" crc="177fc850" sha1="ac448f369c3c6334415095e4ff344fdd73b473be" />
+	</machine>
+	<machine name="meltdownu">
+		<description>Meltdown (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="meltdown.bin" size="131072" crc="4a8f2171" sha1="e601c45aaa1cc25f01493867664c8b9fefeca70e" />
+	</machine>
+	<machine name="meteorsh">
+		<description>Meteor Shower (PAL)</description>
+		<year>2012</year>
+		<publisher>AtariAge</publisher>
+		<rom name="meteor shower (pal) (20120218).bin" size="16384" crc="ea240bf3" sha1="5e06ce4a823407234e9c784ba51bbe6edd7ae7cf" />
+	</machine>
+	<machine name="meteorshu">
+		<description>Meteor Shower (NTSC)</description>
+		<year>2012</year>
+		<publisher>AtariAge</publisher>
+		<rom name="meteor shower (ntsc) (20120218).bin" size="16384" crc="1a6b1e88" sha1="fe49cc7b92b3f1d44c91b4f645ee8348ebe7e017" />
+	</machine>
+	<machine name="mia">
+		<description>Missing In Action (prototype)</description>
+		<year>1989</year>
+		<publisher>TNT Games</publisher>
+		<rom name="miaproto.bin" size="147456" crc="ff7a4c60" sha1="26b0b187a43bf9a9397cb5e8b0033e8833f48f88" />
+	</machine>
+	<machine name="midnight">
+		<description>Midnight Mutants (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="midmuteu.bin" size="131072" crc="7ca6d521" sha1="85f0e0556df65c0732f71ab3f2bbde3615355f72" />
+	</machine>
+	<machine name="midnightu">
+		<description>Midnight Mutants (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="c300051-089a.u1" size="131072" crc="187ec84e" sha1="db5ea4c1456f3b403f6b8978432ecbcdac89d432" />
+	</machine>
+	<machine name="mooncrst">
+		<description>Moon Cresta (PAL)</description>
+		<year>2011</year>
+		<publisher>AtariAge</publisher>
+		<rom name="moon cresta (pal) (20111113).bin" size="32768" crc="80ac3695" sha1="916ed56c5b4fe93f7371200a91b6f208894af445" />
+	</machine>
+	<machine name="mooncrstu">
+		<description>Moon Cresta (NTSC)</description>
+		<year>2011</year>
+		<publisher>AtariAge</publisher>
+		<rom name="moon cresta (ntsc) (20111113).bin" size="32768" crc="1e85a87f" sha1="b94a015d2d77d5854bba6c3abfe6141f1af446c9" />
+	</machine>
+	<machine name="mpsycho">
+		<description>Motor Psycho (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="mtrpsyeu.bin" size="131072" crc="38bb45ba" sha1="3b72d6b3e28ca9182f1f25dc57115d2ec33aa63e" />
+	</machine>
+	<machine name="mpsychou">
+		<description>Motor Psycho (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="mtrpsych.bin" size="131072" crc="1e219482" sha1="b9381f4d0413b6c48e27f26ed94c7a9eb1a49624" />
+	</machine>
+	<machine name="mspacatk">
+		<description>Ms. Pac-Attack (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="miss pac-attack.bin" size="16384" crc="b4557dd7" sha1="446660edd243da39602d1b673ff13a84239b66d4" />
+	</machine>
+	<machine name="mspacman">
+		<description>Ms. Pac-Man (PAL)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="mspacmeu.bin" size="32768" crc="8421033a" sha1="a5b0826a130acf8b8dbc59ef980d40b802c22b30" />
+	</machine>
+	<machine name="mspacmanu">
+		<description>Ms. Pac-Man (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari</publisher>
+		<rom name="mspacman.bin" size="16384" crc="e42fc700" sha1="ff22e21fc953a288453c40eb6fc5378d42b871f6" />
+	</machine>
+	<machine name="ninjaglf">
+		<description>Ninja Golf (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="ninjageu.bin" size="131072" crc="2b5382b7" sha1="99ce5711e38ff7ef3311216f954cf0ab70e289cf" />
+	</machine>
+	<machine name="ninjaglfu">
+		<description>Ninja Golf (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="ninjaglf.bin" size="131072" crc="cb48e8dc" sha1="96d0e59e703770eea8d8d9c2c4e5a87ce6f2de76" />
+	</machine>
+	<machine name="paccoll">
+		<description>Pac-Man Collection! (PAL)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="pac-man collection (pal).bin" size="32768" crc="74517c71" sha1="ed0414e4b7c5ac10b0d7a5e19ee9c8e9ee61442f" />
+	</machine>
+	<machine name="paccollu">
+		<description>Pac-Man Collection! (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="pac-man collection (ntsc).bin" size="32768" crc="553ea894" sha1="3b579d8827898a94b16225632a9870d22224b6bc" />
+	</machine>
+	<machine name="pacman">
+		<description>Pac-Man (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="pacman.bin" size="16384" crc="d5d08d7e" sha1="f427806eae13e3c4ab8afdbe366ab1ec219d0047" />
+	</machine>
+	<machine name="pacplus">
+		<description>Pac-Man Plus (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="pac-man plus.bin" size="16384" crc="e2dc056e" sha1="7dd18c8c7e82c813531f80ef2fe981c340f41c20" />
+	</machine>
+	<machine name="pacpolux">
+		<description>Pac-Pollux (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="pac-pollux.bin" size="16384" crc="1b3dd167" sha1="2f079cd0fb6d92fd5261fe567ae0a6407a722f44" />
+	</machine>
+	<machine name="pitfight">
+		<description>Pit Fighter (prototype)</description>
+		<year>199?</year>
+		<publisher>Atari</publisher>
+		<rom name="pitfghtr.bin" size="65536" crc="a5e75537" sha1="378addef67aca55500f0f5f9f0075dcb177406b5" />
+	</machine>
+	<machine name="planetsm">
+		<description>Planet Smashers (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="planeteu.bin" size="131072" crc="95dc7e96" sha1="f12cbb576607ec38d6111f4346412ccc5bfbcf42" />
+	</machine>
+	<machine name="planetsmu">
+		<description>Planet Smashers (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="planetsm.bin" size="131072" crc="4e3b9e64" sha1="503b975fc1f8edc16110ac2c5b884c4e8b2b6efb" />
+	</machine>
+	<machine name="plutos">
+		<description>Plutos (prototype)</description>
+		<year>1990</year>
+		<publisher>Tynesoft</publisher>
+		<rom name="plutos.bin" size="131072" crc="2f211f7f" sha1="fa55d6a366b237917f18487fc51817394839a3bc" />
+	</machine>
+	<machine name="polepos2p">
+		<description>Pole Position II (prototype)</description>
+		<year>198?</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="pole position ii hi.u1" size="16384" crc="547b7906" sha1="f7122f917a37d176960e81bdb0d68e8877cfa5e6" />
+		<rom name="ppii lo.u2" size="16384" crc="ba6d7560" sha1="ae00f45eefd37d39ac26092b2a2c82d252714582" />
+	</machine>
+	<machine name="polepos2u">
+		<description>Pole Position II (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="polepos2.bin" size="32768" crc="a85fb962" sha1="ccfa6f3f83ddbed2a2fb32735fea316a718fbaaa" />
+	</machine>
+	<machine name="polepos2">
+		<description>Pole Position II (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="pleps2eu.bin" size="32768" crc="d751c7a6" sha1="268e53b5b2117bf853e0aae6adb0b2d3aad8ad5c" />
+	</machine>
+	<machine name="prowres">
+		<description>Title Match Pro Wrestling (PAL)</description>
+		<year>1989</year>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<rom name="titlemeu.bin" size="32768" crc="16b54d5b" sha1="7ab281c9b69692823b3b6b594856172363c507b5" />
+	</machine>
+	<machine name="prowresu">
+		<description>Title Match Pro Wrestling (NTSC)</description>
+		<year>1989</year>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<rom name="titlemat.bin" size="32768" crc="bc23c57b" sha1="80d11bcbb953ccd8bf3c3e64162711e7edb95090" />
+	</machine>
+	<machine name="rampage">
+		<description>Rampage (NTSC)</description>
+		<year>1989</year>
+		<publisher>Activision</publisher>
+		<rom name="rampage.bin" size="131072" crc="d2876ee2" sha1="17401f85fe8b453a6b43b3d0035d993b90568efc" />
+	</machine>
+	<machine name="rampart">
+		<description>Rampart (prototype)</description>
+		<year>1991</year>
+		<publisher>Imagitec Design</publisher>
+		<rom name="rampart.bin" size="131072" crc="e8c2a662" sha1="53516794cb442208af5d54760324c006510553b3" />
+	</machine>
+	<machine name="ripoff">
+		<description>Rip-Off (PAL)</description>
+		<year>2012</year>
+		<publisher>AtariAge</publisher>
+		<rom name="rip-off (pal) (20120502).bin" size="16384" crc="b1c8d47d" sha1="52ddb5fdf55c5862dc435dfec37d0c59948dcb19" />
+	</machine>
+	<machine name="ripoffu">
+		<description>Rip-Off (NTSC)</description>
+		<year>2012</year>
+		<publisher>AtariAge</publisher>
+		<rom name="rip-off (ntsc) (20120502).bin" size="16384" crc="ab65a41d" sha1="6c377ef750c8a7eebccde2c6cdaa3c0d0df65852" />
+	</machine>
+	<machine name="robotron">
+		<description>Robotron: 2084 (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari / Williams</publisher>
+		<rom name="robotron.bin" size="32768" crc="cb22305d" sha1="ccc9753cdcbd2a2f8cb7966b8227801ba0bfd41d" />
+	</machine>
+	<machine name="rsbaseb">
+		<description>RealSports Baseball (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="rsbsebll.bin" size="65536" crc="b1508030" sha1="9a9f60251d049630099f56d2d3efb013828b8a2c" />
+	</machine>
+	<machine name="santasim">
+		<description>Santa Simon (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="santa simon.bin" size="49152" crc="30d641ff" sha1="610e08f226c66b15ff699b02c736ce5ce7a8a862" />
+	</machine>
+	<machine name="scramble">
+		<description>Scramble (NTSC)</description>
+		<year>2016</year>
+		<publisher>AtariAge</publisher>
+		<rom name="scramble (ntsc) (20161202).bin" size="49152" crc="ea42ff6e" sha1="65d12610c14a44ab86c481dbb0fa9e562930a0e9" />
+	</machine>
+	<machine name="scrapdog">
+		<description>Scrapyard Dog (PAL)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="scrpyrde.bin" size="131072" crc="46dd9662" sha1="ebfed67cfeebc6a558dbb087e4784e5e5258c2e1" />
+	</machine>
+	<machine name="scrapdogu">
+		<description>Scrapyard Dog (NTSC)</description>
+		<year>1990</year>
+		<publisher>Atari</publisher>
+		<rom name="scrpyard.bin" size="131072" crc="5cc8c34f" sha1="f2249321d0cc296b9f9e516bbc5ecc9aab56ca22" />
+	</machine>
+	<machine name="sentinel">
+		<description>Sentinel (PAL)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="sentineu.bin" size="131072" crc="47340df9" sha1="6d85a73a56d2f02ff439736eace86691aa613444" />
+	</machine>
+	<machine name="sentinelu">
+		<description>Sentinel (NTSC, prototype)</description>
+		<year>1991</year>
+		<publisher>Atari</publisher>
+		<rom name="sentinel.bin" size="131072" crc="2fddad78" sha1="bd7de03a28b168c992bcaa96539c2310f3bfe30c" />
+	</machine>
+	<machine name="sirius">
+		<description>Sirius (prototype)</description>
+		<year>1990</year>
+		<publisher>Tynesoft</publisher>
+		<rom name="sirius.bin" size="131072" crc="65ae616e" sha1="cd9f6dea96f102262065d7472e73121b67f9e244" />
+	</machine>
+	<machine name="spacduel">
+		<description>Space Duel (PAL)</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="space duel (pal).bin" size="32768" crc="0e6a8443" sha1="03d3c7e6255fc6f1b8bbf6dc3ccdbaf51b7eabf7" />
+	</machine>
+	<machine name="spacduelu">
+		<description>Space Duel (NTSC)</description>
+		<year>2007</year>
+		<publisher>Atari Interactive</publisher>
+		<rom name="space duel (ntsc).bin" size="32768" crc="ef2d2560" sha1="199d06cf7f54bb0a1fa328d3cff955f4bcf90450" />
+	</machine>
+	<machine name="spaceinv">
+		<description>Space Invader (PAL)</description>
+		<year>2008</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="spaceinvaders (pal).bin" size="16384" crc="90d7aad3" sha1="0b17368b9f3328f41d29ca4f0d04ab25e1aad55e" />
+	</machine>
+	<machine name="spaceinvu">
+		<description>Space Invader (NTSC)</description>
+		<year>2008</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="spaceinvaders (ntsc).bin" size="16384" crc="9c3086eb" sha1="167c06a5d9364f3359bb531d5533f4ff49283d47" />
+	</machine>
+	<machine name="starwars">
+		<description>Star Wars 7800 (PAL, hack)</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="star wars 7800.bin" size="32768" crc="8678f1c0" sha1="9ac24aa0563be93d72bcf83c52a8acdbbfc63729" />
+	</machine>
+	<machine name="starwarsu">
+		<description>Star Wars 7800 (NTSC, hack)</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="xev78_signed.bin" size="32768" crc="67c8af57" sha1="f76f2a212747e06ac452da8dbeb0ad093b24d793" />
+	</machine>
+	<machine name="sumgames">
+		<description>Summer Games (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Epyx</publisher>
+		<rom name="smmrgame.bin" size="131072" crc="65c6df3f" sha1="31d46b32a2aa8d5bd6028cff1f41037426b22409" />
+	</machine>
+	<machine name="superpac">
+		<description>Super Pac-Man (PAL)</description>
+		<year>2008</year>
+		<publisher>AtariAge</publisher>
+		<rom name="super pac-man (pal) (20081010).bin" size="32768" crc="e920a2dc" sha1="58375542cb3c2ecf2e2800d280c2d56a58804e77" />
+	</machine>
+	<machine name="superpacu">
+		<description>Super Pac-Man (NTSC)</description>
+		<year>2008</year>
+		<publisher>AtariAge</publisher>
+		<rom name="super pac-man (ntsc) (20081010).bin" size="32768" crc="415a28ad" sha1="e1c51fa453b8dc600e5d7f46df1443b99a1507d0" />
+	</machine>
+	<machine name="suphuey">
+		<description>Super Huey (PAL)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="suprhueu.bin" size="49152" crc="6b27ea2c" sha1="469e03ee1e22ef0978c8095a38d662d34a413723" />
+	</machine>
+	<machine name="suphueyu">
+		<description>Super Huey (NTSC)</description>
+		<year>1989</year>
+		<publisher>Atari</publisher>
+		<rom name="suprhuey.bin" size="49152" crc="71846500" sha1="29aea9e90c446942001fd08d3c4c929f4ce048d7" />
+	</machine>
+	<machine name="supskate">
+		<description>Super Skateboardin' (PAL)</description>
+		<year>1988</year>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<rom name="sprskaeu.bin" size="32768" crc="8f167ba9" sha1="fab349584af7b6b3f9b034af3034f43257e2c25f" />
+	</machine>
+	<machine name="supskateu">
+		<description>Super Skateboardin' (NTSC)</description>
+		<year>1988</year>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<rom name="sprskate.bin" size="32768" crc="13b68650" sha1="666d9383c112b66026898e6002b803801e269c51" />
+	</machine>
+	<machine name="tank">
+		<description>Tank Command (NTSC)</description>
+		<year>1988</year>
+		<publisher>Froggo</publisher>
+		<rom name="tankcmnd.bin" size="65536" crc="db91b181" sha1="1d2975d754806416a25a821db6a9fe389bf5d946" />
+	</machine>
+	<machine name="tdown">
+		<description>Touchdown Football</description>
+		<year>1988</year>
+		<publisher>Atari</publisher>
+		<rom name="tchdown.bin" size="131072" crc="aae12695" sha1="364bf0fef8a67f7e66761c76a3a6a0dd186f04aa" />
+	</machine>
+	<machine name="tomcat">
+		<description>Tomcat - The F-14 Fighter Simulator (PAL)</description>
+		<year>1989</year>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<rom name="tomcateu.bin" size="32768" crc="b01205bf" sha1="825381773593365b5ca7eeca968cca00879eee71" />
+	</machine>
+	<machine name="tomcatu">
+		<description>Tomcat - The F-14 Fighter Simulator (NTSC)</description>
+		<year>1989</year>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<rom name="tomcat.bin" size="32768" crc="513cb9ee" sha1="80c615fb60d0004c1accde25e42759572e030928" />
+	</machine>
+	<machine name="towertop">
+		<description>Tower Toppler (PAL)</description>
+		<year>1988</year>
+		<publisher>Atari / U.S. Gold</publisher>
+		<rom name="twrtpleu.bin" size="65536" crc="0f87fd7b" sha1="56e1b795e80382edb376e4536d1dee539d4ac548" />
+	</machine>
+	<machine name="towertopu">
+		<description>Tower Toppler (NTSC)</description>
+		<year>1988</year>
+		<publisher>Atari / U.S. Gold</publisher>
+		<rom name="twrtpllr.bin" size="65536" crc="4407ba04" sha1="53976013986e0ad3694ab9c021420b8172465de7" />
+	</machine>
+	<machine name="ultrapac">
+		<description>Ultra Pac-Man (NTSC)</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="ultra pac-man.bin" size="32768" crc="4baeac35" sha1="63a98f74ada1ce08ee0137e437395cc17b67a4d9" />
+	</machine>
+	<machine name="wasp">
+		<description>Wasp!</description>
+		<year>2009</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="wasp_standard_edition.bin" size="32768" crc="ccdc2dbf" sha1="4e259a2a01e86e970aa58acd94325f8a37eea1cc" />
+	</machine>
+	<machine name="waterski">
+		<description>Water Ski (NTSC)</description>
+		<year>1988</year>
+		<publisher>Froggo</publisher>
+		<rom name="waterski.bin" size="65536" crc="930b30df" sha1="621c67c2228843405445222743ba3d7c1f04a3c4" />
+	</machine>
+	<machine name="wingames">
+		<description>Winter Games (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Epyx</publisher>
+		<rom name="wingames.bin" size="131072" crc="8981b531" sha1="b3725d6f0834c68ac62ce13eb9eb0d01d1124e5e" />
+	</machine>
+	<machine name="wingameso">
+		<description>Winter Games (NTSC, older?)</description>
+		<year>1987</year>
+		<publisher>Atari / Epyx</publisher>
+		<rom name="wingameso.bin" size="131072" crc="cf648e88" sha1="361501982f4795c2d79fb6519e5c56452ebc5774" />
+	</machine>
+	<machine name="worm">
+		<description>Worm!</description>
+		<year>2010</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="worm.07_03_10.1.16.bin" size="16384" crc="39296da2" sha1="d1b7cd5c27c2ec39cba55542eb1f90b027abd50b" />
+	</machine>
+	<machine name="xenophob">
+		<description>Xenophobe (PAL)</description>
+		<year>1987</year>
+		<publisher>Atari / Bally Midway Mfg. Co.</publisher>
+		<rom name="xnophoeu.bin" size="131072" crc="cf0e44f1" sha1="b2cf7d6164d6e5acd47e9f6d7cf60bb0f775b4a3" />
+	</machine>
+	<machine name="xenophobu">
+		<description>Xenophobe (NTSC)</description>
+		<year>1987</year>
+		<publisher>Atari / Bally Midway Mfg. Co.</publisher>
+		<rom name="xnophobe.bin" size="131072" crc="5fd9a141" sha1="867adbfd7539ff81e68726ed6f5ff7326409539f" />
+	</machine>
+	<machine name="xevious">
+		<description>Xevious (PAL)</description>
+		<year>1984</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="xevioeu.bin" size="49152" crc="d5ac738b" sha1="81647c8ce432f891328631b57dd3268dd315f8e8" />
+	</machine>
+	<machine name="xeviousu">
+		<description>Xevious (NTSC)</description>
+		<year>1984</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="xevious.bin" size="32768" crc="75fc124f" sha1="1d4f0335b152239553534fcbbacdca273802e3bd" />
+	</machine>
+	<machine name="xeviousup">
+		<description>Xevious (NTSC, prototype)</description>
+		<year>1984</year>
+		<publisher>Atari / Namco</publisher>
+		<rom name="xevious 5-10 hi.u1" size="16384" crc="9d3622b5" sha1="5cc9585f8c3f5dd0106990fde24883756868f437" />
+		<rom name="xevious 5-10 lo.u2" size="16384" crc="b154c59a" sha1="b94959e60e84c97dabc002f39f03c781376c35f7" />
+	</machine>
+	<machine name="xm">
+		<description>XM Expansion Module</description>
+		<year>2015?</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<rom name="highscre.bin" size="4096" crc="9be408d3" sha1="a3af676991391a6dd716c79022d4947206b78164" />
+	</machine>
+</datafile>

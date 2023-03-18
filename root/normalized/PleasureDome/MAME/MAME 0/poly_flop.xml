@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>poly_flop</name>
+		<description>Poly diskettes</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="cpm1">
+		<description>Proteus Z80 CP/M Operating System (CP/M 2.2, BIOS 3.3)</description>
+		<year>198?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="cpm1-noskew.cpm" size="622592" crc="a96ef84a" sha1="fbddd9a8a0c97f7903a3c7c0586e48eea30f1cb3" />
+	</machine>
+	<machine name="flex">
+		<description>Proteus 6809 FLEX Operating System (Version 2.8:3 - 1.1:2)</description>
+		<year>1982</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<rom name="flex.dsk" size="591360" crc="502feea7" sha1="9449239ff70840446fdd010cf1036daaaf9c644e" />
+	</machine>
+</datafile>

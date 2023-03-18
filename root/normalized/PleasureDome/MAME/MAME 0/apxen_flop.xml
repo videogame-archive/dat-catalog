@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>apxen_flop</name>
+		<description>ACT Apricot XEN floppy disks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="diag">
+		<description>Various Diags, XEEROM</description>
+		<year>1986</year>
+		<publisher>ACT</publisher>
+		<rom name="diag.dsk" size="705879" crc="9d48118f" sha1="2ba690bcc443fd1b02d5eb3017ea12d6172c6985" status="baddump" />
+	</machine>
+	<machine name="diag_cr">
+		<description>Various Diags, XEEROM (cracked)</description>
+		<year>1986</year>
+		<publisher>ACT</publisher>
+		<rom name="diag.dsk" size="705879" crc="e3a6ed93" sha1="9bff5f338c321c29416c89c1680cf69dccb58856" />
+	</machine>
+	<machine name="xenboot">
+		<description>XEN Boot Disk MS-DOS 3.2 BIOS 1.9.0 and Utilities</description>
+		<year>1987</year>
+		<publisher>ACT</publisher>
+		<rom name="xenboot.dsk" size="668733" crc="d4333892" sha1="296ef0a4af096834a5d7d71eb1378786d3e1ed4a" />
+	</machine>
+</datafile>

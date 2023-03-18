@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>msx_softcard</name>
+		<description>MSX1 Astron SoftCards</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="backgamm">
+		<description>Backgammon (UK)</description>
+		<year>1984</year>
+		<publisher>Electric Software</publisher>
+		<rom name="backgammon (europe).rom" size="32768" crc="b3694e5a" sha1="363b5a8c94cdb63a7ee72b9d25f7b5053cab319a" />
+	</machine>
+	<machine name="lemans2">
+		<description>Le Mans 2 (UK)</description>
+		<year>1984</year>
+		<publisher>Electric Software</publisher>
+		<rom name="le mans 2 (europe).rom" size="32768" crc="82dddc34" sha1="f69541b86c2b396cdce765c2dec498e11232b3c9" />
+	</machine>
+	<machine name="wreck">
+		<description>The Wreck (UK)</description>
+		<year>1984</year>
+		<publisher>Electric Software</publisher>
+		<rom name="wreck, the (europe).rom" size="32768" crc="7efde800" sha1="58e335c943d2647c3ff1e689069d9fa5e1c7ff6e" />
+	</machine>
+</datafile>

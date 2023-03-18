@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cdtv</name>
+		<description>Commodore Amiga CDTV CD-ROMs</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="10on10">
+		<description>Ten on Ten Compilation (Europe)</description>
+		<year>1995</year>
+		<publisher>Almathera</publisher>
+		<disk name="almathera clipart &amp; fonts cd, the (europe)" sha1="dba531dac0190bd355b8a7cd4128355c3b077641" />
+		<disk name="almathera comms &amp; networking cd (europe)" sha1="9996f33406c3c26b4e2be9d7f86d59156fdd48d0" />
+		<disk name="almathera photo library cd, the (europe)" sha1="abcba2861161369b3394344792d491c85f6cb24d" />
+		<disk name="cdpd 1 (europe)" sha1="dcb79ff4d466778cc92d5ccd177f2c97ef7f1d02" />
+		<disk name="cdpd 2 (europe)" sha1="9c3f2a0cb7933fd10694d80f75bb93fbab5c755e" />
+		<disk name="demo 1 (europe)" sha1="ef7c7c992fd7bc7fea080ec43357314999e6785b" />
+		<disk name="illustrated works of shakespeare (europe)" sha1="5e54c12eda0c560b48f96df7dfba53990a6cdeea" />
+		<disk name="pandora's cd (europe) (alt)" sha1="488241b997f026533444b05e60357be3b5d78f41" />
+		<disk name="team yankee (europe) (ten on ten)" sha1="70e8946f4b161ca3011c523cb007180196762d8c" />
+		<disk name="world vista (europe)" sha1="7b73c1ac1a25cc7b10b2a91b118dde3684128482" />
+	</machine>
+	<machine name="17bit">
+		<description>17 Bit - Collection for Amiga CDTV (Europe)</description>
+		<year>1993</year>
+		<publisher>Almathera</publisher>
+		<disk name="17 bit - collection for amiga cdtv (europe) (disc a) (the early classics)" sha1="697bc00b482bd4a5f1a11b44dbaf9662919a360b" />
+		<disk name="17 bit - collection for amiga cdtv (europe) (disc b) (the latest batch)" sha1="7439e4a275e563ef26fa5797fca18148d88636c3" />
+	</machine>
+	<machine name="17bitcon">
+		<description>17 Bit - Continuation Disc (Europe)</description>
+		<year>1993</year>
+		<publisher>Almathera</publisher>
+		<disk name="17 bit - continuation disc (europe)" sha1="692c90e4885c51638b1165a643d855c1cd355f44" />
+	</machine>
+	<machine name="advmisys">
+		<description>Advanced Military Systems</description>
+		<year>1991</year>
+		<publisher>Dominion Software &amp; Design</publisher>
+		<disk name="advanced military systems (europe)" sha1="2346440660220d05abf7906a9c107e05eef0eb59" />
+		<disk name="advanced_military_systems" sha1="4b362db61f9bb8e8b78b09303c0b41c6e7338bdd" status="baddump" />
+	</machine>
+	<machine name="amerdict">
+		<description>American Heritage Illustrated Encyclopedic Dictionary (USA, 1991a Edition)</description>
+		<year>1991</year>
+		<publisher>Xïphias</publisher>
+		<disk name="american heritage - illustrated encyclopedic dictionary - 1991a edition (usa)" sha1="92ee48480e671c9cc9e4238a9a1170874df2dfd3" />
+	</machine>
+	<machine name="animot">
+		<description>Animals in Motion</description>
+		<year>1991</year>
+		<publisher>On-line</publisher>
+		<disk name="animals in motion - eadweard muybridge (1991)(on-line)" sha1="5e1860ee342226f0089ac88e0ff0a700dec8e94b" status="baddump" />
+	</machine>
+	<machine name="assass1">
+		<description>The Assassins Ultimate CD Games Collection</description>
+		<year>19??</year>
+		<publisher>Weird Science</publisher>
+		<disk name="assassins" sha1="8d6d2d865c9e3b36c802b480ce8295695f2e47b9" status="baddump" />
+	</machine>
+	<machine name="assass2">
+		<description>The Assassins Ultimate Games Volume 2</description>
+		<year>19??</year>
+		<publisher>Weird Science</publisher>
+		<disk name="assassins 2" sha1="7387d976e96d04fc208493641c56fcfb0c3868ff" status="baddump" />
+	</machine>
+	<machine name="assass3">
+		<description>The Assassins CD 3</description>
+		<year>1997</year>
+		<publisher>Weird Science</publisher>
+		<disk name="assassins 3 - the ultimate games cd (1997)(weird science)[amiga-cd32-cdtv]" sha1="9324ddf7392421d3bb74cbc199c7cd148fd462c6" status="baddump" />
+	</machine>
+	<machine name="assass4">
+		<description>The Assassins CD 4</description>
+		<year>1999</year>
+		<publisher>Weird Science</publisher>
+		<disk name="assassins 4 (1999)(weird science)" sha1="d096be854362bb7053ea9406ffb5f30bc685426e" status="baddump" />
+	</machine>
+	<machine name="asterix1">
+		<description>Apprenez l'Anglais Avec Astérix - Asterix and Son</description>
+		<year>1991</year>
+		<publisher>EuroTalk</publisher>
+		<disk name="apprenez l'anglais avec asterix - asterix and son - disque 1 (1991)(eurotalk)(fr)" sha1="71a9d4130ea8fb8d693befc8d3766df5befcced0" status="baddump" />
+		<disk name="read with asterix - asterix and son (1991)(eurotalk)" sha1="5357aadbd94ee9c7610f858bc8131b9b82e082fd" status="baddump" />
+	</machine>
+	<machine name="barneybu">
+		<description>A Bun for Barney (USA)</description>
+		<year>1991</year>
+		<publisher>MultiMedia Corporation</publisher>
+		<disk name="bun for barney, a (usa)" sha1="39bdb862ef00d3fa16b518ede5b3277484ac08be" />
+	</machine>
+	<machine name="barneycp">
+		<description>Barney Bear Goes Camping</description>
+		<year>1990</year>
+		<publisher>Free Spirit Software</publisher>
+		<disk name="barney bear goes camping (1991)(free spirit software)" sha1="985517e4ec27d4b4a23f364652c2ac8ee9d4b319" status="baddump" />
+	</machine>
+	<machine name="barneysc">
+		<description>Barney Bear Goes to School (USA)</description>
+		<year>1990</year>
+		<publisher>Free Spirit Software</publisher>
+		<disk name="barney bear goes to school (usa)" sha1="12013b203e4b7e1280fd6c0819a8ac6013a0e947" />
+	</machine>
+	<machine name="blkviper">
+		<description>Black Viper (CDTV?)</description>
+		<year>1996</year>
+		<publisher>Neo</publisher>
+		<disk name="black viper (1996)(neo)" sha1="8fed0ebdf54f749d8099560ef2423fbc1493a054" status="baddump" />
+	</machine>
+	<machine name="btlchess">
+		<description>Battle Chess</description>
+		<year>1994</year>
+		<publisher>Interplay</publisher>
+		<disk name="battle chess (1994)(interplay)" sha1="9b19451fb6a6b8a4cb50a64a2dbfcee50b852e9d" status="baddump" />
+	</machine>
+	<machine name="btlstorm">
+		<description>Battlestorm</description>
+		<year>1991</year>
+		<publisher>Titus</publisher>
+		<disk name="battlestorm (1991)(titus)" sha1="0d4b1a414e3284e12f3002db11c30555227a3e66" status="baddump" />
+	</machine>
+	<machine name="casigams">
+		<description>Casino Games</description>
+		<year>1992</year>
+		<publisher>Saen Software</publisher>
+		<disk name="casino games cdtv" sha1="1f02c705e57aff330fc393696e6fae96ed8e61d2" status="baddump" />
+	</machine>
+	<machine name="cautcond">
+		<description>The Case of the Cautious Condor</description>
+		<year>1990</year>
+		<publisher>Tiger Media</publisher>
+		<disk name="case of the cautious condor, the (1990)(tiger media)" sha1="8b8a7476112b8632ef73be74350de430c34761cc" status="baddump" />
+	</machine>
+	<machine name="cdremix2">
+		<description>CD Remix Version II</description>
+		<year>1991</year>
+		<publisher>Microdeal</publisher>
+		<disk name="cd remix version ii (1991)(microdeal)" sha1="cc625b863c8e60c1870f3ccd0b6b7e4eab43f242" status="baddump" />
+		<disk name="cdremix_ii" sha1="f6f482ce6b53b5cb0fc3df0bbb447abea7d5a8ff" status="baddump" />
+	</machine>
+	<machine name="cdremix">
+		<description>CD Remix - The D.J. in a Box</description>
+		<year>1991</year>
+		<publisher>Microdeal</publisher>
+		<disk name="cd remix - the d.j. in a box (1991)(microdeal)" sha1="96ef9c8b676b0c3a56760c27a3be61689d0e1a07" status="baddump" />
+	</machine>
+	<machine name="cdtvd1">
+		<description>Commodore Amiga CDTV, Amiga 600, Amiga 600HD Demo Disc 1</description>
+		<year>1992</year>
+		<publisher>Commodore</publisher>
+		<disk name="commodore amiga cdtv, amiga 600, amiga 600hd demo disc (1992)(commodore)" sha1="34a84c121ea7ea622f863e0325a4f19206df644e" status="baddump" />
+	</machine>
+	<machine name="cdtvd2">
+		<description>Commodore Amiga CDTV, Amiga 600, Amiga 600HD Demo Disc 2</description>
+		<year>1992</year>
+		<publisher>Commodore</publisher>
+		<disk name="commodore amiga cdtv, amiga 600, amiga 600hd demo disc 2 (1992)(commodore)" sha1="e66302b72b31d28328d669ebd70424ac0f04b5cb" status="baddump" />
+	</machine>
+	<machine name="cdtvdemo">
+		<description>CDTV Demo Disc (Europe)</description>
+		<year>1991</year>
+		<publisher>Commodore</publisher>
+		<disk name="cdtv demo disc (europe) (disc 1) (amiga cd psygnosis demo)" sha1="366bd22505dccf00fbb30bbee02d7e33a94e0b76" />
+		<disk name="cdtv demo disc (europe) (disc 2) (amiga cdtv - amiga 600 - amiga 600 hd)" sha1="2041131e0070e36d206afdf2acab5ea9d9c0ec21" />
+	</machine>
+	<machine name="cdtvsale">
+		<description>The CDTV Interactive Point of Sale Compact Disc</description>
+		<year>1991</year>
+		<publisher>Commodore</publisher>
+		<disk name="cdtv interactive point of sale compact disc, the (1991)(commodore)(us)" sha1="03ae3eab31fdd7bc9e85551de56d00c532ff5b07" status="baddump" />
+	</machine>
+	<machine name="chaosand">
+		<description>Chaos in Andromeda - Eyes of the Eagle</description>
+		<year>1992</year>
+		<publisher>On-Line</publisher>
+		<disk name="chaos in andromeda - eyes of the eagle (1992)(on-line)[1122-094-0321]" sha1="a16daf7f0fb59983246eb5a72353d5c2a016a176" status="baddump" />
+		<disk name="chaos_in_andromeda" sha1="573b8b81c336e3a72460ccca226d3ec69993c90e" status="baddump" />
+	</machine>
+	<machine name="cinderel">
+		<description>Cinderella - The Original Fairy Tale (USA)</description>
+		<year>1992</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="cinderella - the original fairy tale (usa) (en,fr,de,es,it)" sha1="3c62af0cb40c98f54a935de70d4fe52f2fedd62c" />
+	</machine>
+	<machine name="clsbg">
+		<description>Classic Board Games</description>
+		<year>1991</year>
+		<publisher>Merit Software</publisher>
+		<disk name="classic board games (europe) (en,ja,fr,de,es,it)" sha1="030e99b691f38279c83dae1a4256bb9dcf9c0081" />
+	</machine>
+	<machine name="connoiss">
+		<description>The Connoisseur - Fine Art Collection</description>
+		<year>1992</year>
+		<publisher>Lascelles Productions</publisher>
+		<disk name="connoisseur, the - fine art collection (1992)(lascelles productions)" sha1="e49faf8b0fab8f06700e1caebe1522236eacd4c9" status="baddump" />
+	</machine>
+	<machine name="covgrlsp">
+		<description>Cover Girl Strip Poker</description>
+		<year>1991</year>
+		<publisher>Emotional Pictures</publisher>
+		<disk name="covergirlstrippoker" sha1="773d750c9d580e17a1f40c1ed05fe3daadeae919" status="baddump" />
+	</machine>
+	<machine name="cubulus">
+		<description>Cubulus &amp; Magic Serpent</description>
+		<year>1991</year>
+		<publisher>Software 2000</publisher>
+		<disk name="cubulus &amp; magic serpent (1991)(software 2000)(de)(en)[compilation]" sha1="1451b1fc9f3a36208c5ed87d70469f810126d01f" status="baddump" />
+		<disk name="cubulus_magic_serpent" sha1="14dcce3ec0536d54d4832ff8acaf3805808b45e2" status="baddump" />
+	</machine>
+	<machine name="cursera">
+		<description>The Curse of Ra (Germany)</description>
+		<year>1992</year>
+		<publisher>Rainbow Arts</publisher>
+		<disk name="curse of ra, the (germany)" sha1="49bffe73647ca8eaf2381e80a5fda5ec746cda7f" />
+	</machine>
+	<machine name="defcrown">
+		<description>Defender of the Crown CDTV (Europe)</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="defender of the crown (europe)" sha1="61e5ac7f19c4569443e1c2f28bbc274d637173f3" />
+	</machine>
+	<machine name="demo2pd">
+		<description>Demo II - Amiga Public Domain Collection</description>
+		<year>1993</year>
+		<publisher>Almathera</publisher>
+		<disk name="demo ii - amiga public domain collection (1993)(almathera)[amiga-cd32-cdtv][80034 demo cd ii cd tv 01]" sha1="991491977f9c3f110204f330f572cf45d1cdec6a" status="baddump" />
+	</machine>
+	<machine name="democdtv">
+		<description>The Demo Collection for Amiga CDTV (Europe, Black Disc)</description>
+		<year>1992</year>
+		<publisher>Almathera</publisher>
+		<disk name="demo collection for amiga cdtv, the (europe) (black disc)" sha1="cf8bb5f1da7dae035d93c4e57d840d065fab6047" />
+	</machine>
+	<machine name="deukomp1">
+		<description>Deutschland Kompakt (Germany)</description>
+		<year>1991</year>
+		<publisher>M&amp;T Software Partner International</publisher>
+		<disk name="deutschland kompakt (germany)" sha1="3c203d8e3dcbf1dbbf6bd951c92de0e8fe03c2a0" />
+	</machine>
+	<machine name="dgheaven">
+		<description>All Dogs Go to Heaven: Talking Electric Crayon</description>
+		<year>1991</year>
+		<publisher>Merit Software</publisher>
+		<disk name="all dogs go to heaven (1991)(merit software)" sha1="7284563156b5b1d8035eae2108df85339b807cfa" status="baddump" />
+	</machine>
+	<machine name="dinohire">
+		<description>Dinosaurs for Hire</description>
+		<year>1991</year>
+		<publisher>Wright Works III</publisher>
+		<disk name="dinosaurs for hire (1992)(wright works iii)" sha1="7cd03f4e0b33462ac5c9358be7dca46481e95a9b" status="baddump" />
+	</machine>
+	<machine name="drwellm">
+		<description>Dr. Wellman - A Guide to Good Health for You and Your Family</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="dr. wellman - a guide to good health for you &amp; your family (1991)(cdtv publishing)" sha1="13e6ab09a6ca7bde28d2f1af1b77ee3d4fbb7b0c" status="baddump" />
+	</machine>
+	<machine name="dunep">
+		<description>Dune (prototype?)</description>
+		<year>1992</year>
+		<publisher>Virgin Multimedia</publisher>
+		<disk name="dunecdtv (only real cdtv)" sha1="7ca35c174377b0110045450c0999ea0b75213999" status="baddump" />
+	</machine>
+	<machine name="dxgalaga">
+		<description>Deluxe Galaga (v2.4)</description>
+		<year>1995</year>
+		<publisher>Edgar Vigdal</publisher>
+		<disk name="galaga_deluxe_cdtv" sha1="03d6c459b152b45350629bb57edf78a01c6a36aa" status="baddump" />
+	</machine>
+	<machine name="essmega">
+		<description>E.S.S. Mega</description>
+		<year>1991</year>
+		<publisher>Coktel</publisher>
+		<disk name="e.s.s. mega" sha1="dfd5d80325c4fadf7deee11b33d24fa42189e325" status="baddump" />
+	</machine>
+	<machine name="falcon">
+		<description>Falcon</description>
+		<year>1991</year>
+		<publisher>Mirrorsoft?</publisher>
+		<disk name="falcon" sha1="bc359735a14b1d2c561fca5800346f81cefe0e24" status="baddump" />
+	</machine>
+	<machine name="fantvoya">
+		<description>Fantastic Voyage (USA)</description>
+		<year>1992</year>
+		<publisher>Centaur</publisher>
+		<disk name="fantastic voyage (usa)" sha1="c35cafd8639c9a19c63d19f2e6765106c83b9b8c" status="baddump" />
+	</machine>
+	<machine name="fractuni">
+		<description>Fractal Universe</description>
+		<year>1992</year>
+		<publisher>Almathera</publisher>
+		<disk name="fractal universe (1992)(almathera)" sha1="255787428bcc560a8e62c094007c9eec2aecbb3c" status="baddump" />
+	</machine>
+	<machine name="funsch30">
+		<description>Fun School 3 for the Under 5s</description>
+		<year>1991</year>
+		<publisher>Database Educational Software</publisher>
+		<disk name="fun school 3 - for the under 5s (1991)(database educational software)" sha1="55d4e3d5e73f4e7aada7ffb27bad2f2c60e3a9d6" status="baddump" />
+	</machine>
+	<machine name="funsch31">
+		<description>Fun School 3 for 5 to 7 Year Olds</description>
+		<year>1991</year>
+		<publisher>Europress Software</publisher>
+		<disk name="fun school 3 - for 5 to 7 year olds (1991)(europress software)" sha1="b5aee2f21709bd372836ce25cc411271b49025a6" status="baddump" />
+	</machine>
+	<machine name="funsch32">
+		<description>Fun School 3 for the Over 7s</description>
+		<year>1991</year>
+		<publisher>Europress Software</publisher>
+		<disk name="fun school 3 - for the over 7s (1991)(europress software)" sha1="4d5806a120acbba0d837e95588a759a8901390e7" status="baddump" />
+	</machine>
+	<machine name="gamerdel">
+		<description>Gamers' Delight (UK, Germany)</description>
+		<year>1994</year>
+		<publisher>GTI - Schatztruhe</publisher>
+		<disk name="gamers' delight (1994)(gti - schatztruhe)(en-de)[amiga-cd32-cdtv]" sha1="3fa256584eed79c90ce7067dd29acf9e3df73878" status="baddump" />
+	</machine>
+	<machine name="gardfaxf">
+		<description>Garden Fax - Fruits, Vegetables, and Herbs (USA)</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="garden fax - fruits, vegetables and herbs (usa)" sha1="23058efa5a7407cadc10f9aba483bb86f024907f" />
+	</machine>
+	<machine name="gardfaxg">
+		<description>Garden Fax - Garden Plants (USA)</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="garden fax - garden plants (usa)" sha1="7083333adb31f8ed7d7eaf1c5092b30a3d8a5584" />
+	</machine>
+	<machine name="gardfaxi">
+		<description>Garden Fax - Indoor Plants (USA)</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="garden fax - indoor plants (usa)" sha1="2571fa8264f6b5d8f8cd02b195b27c52591b2668" />
+	</machine>
+	<machine name="gardfaxt">
+		<description>Garden Fax - Trees, Shrubs, Roses, and Conifers (USA)</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="garden fax - trees, shrubs, roses and conifers (usa)" sha1="5eccf33ae1585323f16551a6118753e137d53c34" />
+	</machine>
+	<machine name="genlockd">
+		<description>Genlock Demo</description>
+		<year>1991</year>
+		<publisher>Commodore</publisher>
+		<disk name="cdtv genlock demo v1.0 (1991)(commodore)" sha1="d52a2e17577beb091c093992842dc1852998f760" status="baddump" />
+	</machine>
+	<machine name="globalch">
+		<description>Global Chaos CDTV</description>
+		<year>1992</year>
+		<publisher>Hex</publisher>
+		<disk name="global chaos (1992)(hex)" sha1="6cb32f1649ee415958392b8a3b748a83fa28f0b6" status="baddump" />
+	</machine>
+	<machine name="guinness">
+		<description>The Guinness CDTV Disc of Records (1991 Edition)</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="guinness cdtv disc of records, the - 1991 edition (1991)(cdtv publishing)" sha1="70f0d929c2510f077aec81b901995e7be3ff6002" status="baddump" />
+	</machine>
+	<machine name="guyspy">
+		<description>Guy Spy and the Crystals of Armageddon (v1.0)</description>
+		<year>1992</year>
+		<publisher>ReadySoft</publisher>
+		<disk name="guy spy and the crystals of armageddon v1.0 (1992)(readysoft)[cdtv-pc]" sha1="210ae3c14d99ee64e1bc93fa7801343968f40eae" status="baddump" />
+	</machine>
+	<machine name="heathr">
+		<description>Heather Hits Her First Home Run</description>
+		<year>1991</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="heather hits her first home run (1991)(discis)(en-es)" sha1="7c40e1b1b6c13f413da6b980bdcb36b6a39a587c" status="baddump" />
+	</machine>
+	<machine name="holmes">
+		<description>Sherlock Holmes on a Disc</description>
+		<year>1991</year>
+		<publisher>Animated Pixels</publisher>
+		<disk name="sherlock holmes on a disc - illustrated sherlock holmes (1991)(animated pixels)(cdtv-pc)" sha1="473239f89f5148db815ed0c73fb290da5861824d" status="baddump" />
+	</machine>
+	<machine name="houndbas">
+		<description>The Hound of the Baskervilles</description>
+		<year>1991</year>
+		<publisher>On-line</publisher>
+		<disk name="hound of the baskervilles, the (1991)(on-line)" sha1="c31e68bd565f7c9b6407757486e5cc83a07a65bd" status="baddump" />
+	</machine>
+	<machine name="hutchins">
+		<description>The Hutchinson Encyclopedia (Europe)</description>
+		<year>1991</year>
+		<publisher>Attica Cybernetics</publisher>
+		<disk name="hutchinson encyclopedia, the (europe)" sha1="46479f2422dba9d70c5ed2a97d2c6967e30322aa" />
+	</machine>
+	<machine name="illbible">
+		<description>The Illustrated Holy Bible</description>
+		<year>1991</year>
+		<publisher>Animated Pixels</publisher>
+		<disk name="illustrated holy bible, the (1991)(animated pixels)[cdtv-pc]" sha1="5a593d17bcdb3b47f7c2db7f38030e523b247b50" status="baddump" />
+	</machine>
+	<machine name="illshake">
+		<description>The Illustrated Works of Shakespeare</description>
+		<year>1990</year>
+		<publisher>Animated Pixels</publisher>
+		<disk name="illustrated works of shakespeare, the (1990)(animated pixels)[cdtv-pc]" sha1="7e88243ab23ece0c50a20ab16c2923e9a8c3906a" status="baddump" />
+	</machine>
+	<machine name="insidino">
+		<description>Insight: Dinosaurs (Europe, v1.0)</description>
+		<year>1994</year>
+		<publisher>Optonica</publisher>
+		<disk name="insight dinosaurs v1.0 (1994)(optonica)[cd32-cdtv]" sha1="460ea3865a821b47d51446acacf39e7aaee2cbb7" status="baddump" />
+	</machine>
+	<machine name="insitech">
+		<description>Insight: Technology</description>
+		<year>1993</year>
+		<publisher>Commodore</publisher>
+		<disk name="insight technology (1993)(commodore)[cd32-cdtv]" sha1="f57c5302abe85c79be6812dba74a5afb767680c7" status="baddump" />
+	</machine>
+	<machine name="itcame">
+		<description>It Came from the Desert</description>
+		<year>1989</year>
+		<publisher>Cinemaware</publisher>
+		<disk name="it came from the desert (1989)(cinemaware)[m]" sha1="025f9b2f5d2e15bff135fd7c33ee95151697ae30" status="baddump" />
+	</machine>
+	<machine name="karaoke1">
+		<description>Karaoke Hits 1</description>
+		<year>1992</year>
+		<publisher>Music Machine Marketing</publisher>
+		<disk name="karaoke hits 1 (1992)(music machine marketing)" sha1="9df8176ab0a47b475eae1ca32bfc3a100e8f2168" status="baddump" />
+	</machine>
+	<machine name="labytime">
+		<description>The Labyrinth of Time</description>
+		<year>1994</year>
+		<publisher>Electronic Arts</publisher>
+		<disk name="labyrinth of time, the (1994)(electronic arts)[amiga-cd32-cdtv]" sha1="82003a6e2d5bfd2b0a9e6573dc89d526849395b8" status="baddump" />
+	</machine>
+	<machine name="langtv">
+		<description>Language TV - English (France)</description>
+		<year>1991</year>
+		<publisher>Jériko</publisher>
+		<disk name="language tv - english (france)" sha1="454079ed073087278320a15b05262fa28328e9cb" />
+	</machine>
+	<machine name="lemmings">
+		<description>Lemmings (Europe)</description>
+		<year>1994</year>
+		<publisher>Psygnosis</publisher>
+		<disk name="lemmings (europe)" sha1="49e5e8932f24c5e0845ce97663419b6892a185c5" />
+	</machine>
+	<machine name="lngranch">
+		<description>A Long, Hard Day at the Ranch (UK, Spain)</description>
+		<year>1991</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="a long hard day at the ranch (1991)(discis)(en-es)" sha1="0305d4ce28b7387199f37712fba679c3fad2c340" status="baddump" />
+	</machine>
+	<machine name="logical">
+		<description>Log!cal (Europe)</description>
+		<year>1992</year>
+		<publisher>Rainbow Arts</publisher>
+		<disk name="logical (europe)" sha1="1a7e3709d8fe8ef98fa0e11a124b8088194ccd7c" />
+	</machine>
+	<machine name="monopoly">
+		<description>Monopoly</description>
+		<year>1994</year>
+		<publisher>Supervision</publisher>
+		<disk name="monopoly" sha1="8b62145a8f5ed6b9585250523f31b998d803f1af" status="baddump" />
+	</machine>
+	<machine name="movstoma">
+		<description>Moving Gives Me a Stomach Ache</description>
+		<year>1992</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="moving gives me a stomach ache (1992)(discis)(m5)[cdrm-734800 3]" sha1="0553e4da3a2afe545daf2999522f3c470fe9d9d6" status="baddump" />
+	</machine>
+	<machine name="mudpuddl">
+		<description>Mud Puddle (USA, Multi 5)</description>
+		<year>1992</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="mud puddle (usa) (en,fr,de,es,it)" sha1="69d622e3ae3e4c2994d194abb7d10b2e88fc4f0a" />
+	</machine>
+	<machine name="musicolr">
+		<description>Musicolor</description>
+		<year>1992</year>
+		<publisher>Virgin Multimedia</publisher>
+		<disk name="musicolor cdtv (disc 1 of 2) cdtv" sha1="65a49c63d995c6761607670979059b39c1313428" status="baddump" />
+		<disk name="musicolor cdtv (disc 2 of 2) cdtv" sha1="db332703aba92c10b118798d0d8a805dec406651" status="baddump" />
+	</machine>
+	<machine name="mypaint">
+		<description>My Paint CDTV - The Paint Program Just for Kids!</description>
+		<year>1990</year>
+		<publisher>Saddleback Graphics</publisher>
+		<disk name="my paint - the paint program just for kids (1991)(saddleback graphics)" sha1="8da1a3c8762e5f6c326e69dfb6c4c13fd79cf18d" status="baddump" />
+	</machine>
+	<machine name="nasa25">
+		<description>Heroic Age of Spaceflight - NASA... The 25th Year</description>
+		<year>1991</year>
+		<publisher>Troika Multimedia</publisher>
+		<disk name="heroic age of spaceflight - nasa... the 25th year (1991)(troika multimedia)" sha1="0cfd2f4ad2c502670fd16dc0374d5dd94f82ad44" status="baddump" />
+	</machine>
+	<machine name="nbxmas">
+		<description>The Night Before Christmas</description>
+		<year>1991</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="night before christmas, the (1991)(discis)(en-es)" sha1="16fa7fdcb8dab59b8ab7b5acb17be786fc47443f" status="baddump" />
+	</machine>
+	<machine name="newbasic">
+		<description>The New Basics Electronic Cookbook (USA, 1991a Edition)</description>
+		<year>1991</year>
+		<publisher>Xïphias</publisher>
+		<disk name="new basics electronic cookbook, the - 1991a edition (usa)" sha1="d64cbb09b28cf2b32102c0f71adb6003a9b61b41" />
+	</machine>
+	<machine name="newgroli">
+		<description>The New Grolier Electronic Encyclopedia</description>
+		<year>1991</year>
+		<publisher>CDTV Publishing</publisher>
+		<disk name="new grolier electronic encyclopedia, the (1991)(cdtv publishing)" sha1="5316ab2211c731e6af7f735593a35c85c5719da5" status="baddump" />
+	</machine>
+	<machine name="northpol">
+		<description>North Polar Expedition (v1.01)</description>
+		<year>1992</year>
+		<publisher>Virgin Multimedia</publisher>
+		<disk name="north polar expedition (1992)(virgin multimedia)" sha1="3373de60a4421058748616b90d5ec9a489b35045" status="baddump" />
+	</machine>
+	<machine name="pandora">
+		<description>Pandora's CD v1.0</description>
+		<year>1993</year>
+		<publisher>Optonica</publisher>
+		<disk name="pandora's cd (europe)" sha1="4a3b76e246bcc245053be1415ac26e7feab3c1aa" />
+		<disk name="pandoras_cd" sha1="1962d53ddf8aefa684fc5b74920432073ceb0699" status="baddump" />
+	</machine>
+	<machine name="paperbag">
+		<description>The Paper Bag Princess</description>
+		<year>1991</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="paper bag princess, the (1992)(discis)(m5)[cdrm-734700 3]" sha1="8c6a7cb96f8edaf7aee912c131ed57caee37d6cd" status="baddump" />
+	</machine>
+	<machine name="pinoc">
+		<description>Pinocchio</description>
+		<year>1993</year>
+		<publisher>Giunti Multimedia</publisher>
+		<disk name="pinocchio (1993)(giunti multimedia)(m6)[amiga-cd32-cdtv]" sha1="1a512bc6e55433db8c5582901c7e21ef9a294e7f" status="baddump" />
+	</machine>
+	<machine name="powerpin">
+		<description>Power Pinball</description>
+		<year>1990</year>
+		<publisher>KarmaSoft</publisher>
+		<disk name="power pinball (1990)(karmasoft)" sha1="d39f2eaeabf3174f9b71fbed0b8dfc3a9df9ca4c" status="baddump" />
+	</machine>
+	<machine name="prehisto">
+		<description>Prehistorik</description>
+		<year>1991</year>
+		<publisher>Titus</publisher>
+		<disk name="prehistorik (1991)(titus)" sha1="657061e0c27c4384860a2cf1f7a286a4a072b939" status="baddump" />
+	</machine>
+	<machine name="psychoki">
+		<description>Psycho Killer (U2A2030UB)</description>
+		<year>1992</year>
+		<publisher>On-line</publisher>
+		<disk name="psycho killer (1992)(on-line)[u2a2030ub]" sha1="7a2c52133b9d3ed4164a90513b1722f7b9f55a27" status="baddump" />
+		<disk name="psycho killer (europe)" sha1="86027a278c35312859e6c1ed778c7b366528f1a1" />
+	</machine>
+	<machine name="raffles">
+		<description>Raffles (Sweden)</description>
+		<year>1991</year>
+		<publisher>Edge</publisher>
+		<disk name="raffles (sweden)" sha1="17a3c1ea794658e5ea08e321ee0800466ad0c1a0" status="baddump" />
+	</machine>
+	<machine name="rotd">
+		<description>Rise of the Dragon</description>
+		<year>1991?</year>
+		<publisher>Dynamix</publisher>
+		<disk name="riseofthedragon(cdtv)" sha1="deb6de7f1b3cd9b97c563e8f2d8ab717191cb101" status="baddump" />
+	</machine>
+	<machine name="scarpoem">
+		<description>Scary Poems for Rotten Kids</description>
+		<year>1991</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="scary poems for rotten kids (1991)(discis)(en-es)" sha1="84673e933254b0cd6f2b1d8af154e26616666aa2" status="baddump" />
+	</machine>
+	<machine name="shiftrix">
+		<description>Shiftrix &amp; Lettrix</description>
+		<year>1991</year>
+		<publisher>Software 2000</publisher>
+		<disk name="shiftrix &amp; lettrix (1991)(software 2000)(de)" sha1="dce97e3440cf678ad2a4fbd2fc4a927ca7989088" status="baddump" />
+		<disk name="shiftrix_lettrix" sha1="696acf15b0e9c30d95195db7c99029692978827d" status="baddump" />
+	</machine>
+	<machine name="simcity">
+		<description>Sim City (Europe, Multi5)</description>
+		<year>1991</year>
+		<publisher>Infogrames</publisher>
+		<disk name="simcity (europe) (en,fr,de,es,it)" sha1="9b500eac8c4272f4bc04c00e967dbd8ca857d777" />
+	</machine>
+	<machine name="snoopy">
+		<description>Snoopy - The Case of the Missing Blanket (Sweden)</description>
+		<year>1991</year>
+		<publisher>Edge</publisher>
+		<disk name="snoopy - the case of the missing blanket (sweden)" sha1="a02bfb81dd9640b492451d53c6c0a387f5cbe577" status="baddump" />
+	</machine>
+	<machine name="spacewar">
+		<description>Space Wars</description>
+		<year>1992</year>
+		<publisher>Odyssey</publisher>
+		<disk name="space wars cdtv" sha1="dd93fa052a9f8e0d717cbf3955a0b4d90baccce1" status="baddump" />
+	</machine>
+	<machine name="spirexa">
+		<description>Spirit of Excalibur</description>
+		<year>1991</year>
+		<publisher>Virgin</publisher>
+		<disk name="spirit of excalibur (1991)(virgin)[ntsc]" sha1="968a6929276ccf0cbd3f09e9115cdd8c83167028" status="baddump" />
+	</machine>
+	<machine name="suprgams">
+		<description>Super Games Pak</description>
+		<year>1991</year>
+		<publisher>Odyssey</publisher>
+		<disk name="super games pak (1991)(odyssey)[compilation]" sha1="1266dc0c5dcfba4603e82ebd3c7b301e87f4ca81" status="baddump" />
+	</machine>
+	<machine name="talbenjb">
+		<description>The Tale of Benjamin Bunny</description>
+		<year>1991</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="tale of benjamin bunny, the (1991)(discis)(en-es)" sha1="453aec25e283a30a9493d34db1a914f9c248e818" status="baddump" />
+	</machine>
+	<machine name="talpeter">
+		<description>The Tale of Peter Rabbit</description>
+		<year>1992</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="tale of peter rabbit, the (1992)(discis)(m5)[cdrm-734900 1]" sha1="94c7cfe32a3fa78e0cd2e7d8d0f8256708b9ac8d" status="baddump" />
+	</machine>
+	<machine name="teamyank">
+		<description>Team Yankee (Europe)</description>
+		<year>1992</year>
+		<publisher>Empire</publisher>
+		<disk name="team yankee (europe)" sha1="8050a55146950f32873237afb8cd814f3c21805c" />
+	</machine>
+	<machine name="thomsnow">
+		<description>Thomas' Snowsuit</description>
+		<year>1991</year>
+		<publisher>Discis Knowledge Research</publisher>
+		<disk name="thomas' snowsuit (1991)(discis)(en-es)" sha1="605b89e18d745235d09fabcf7f7d11cfc1924aa5" status="baddump" />
+	</machine>
+	<machine name="tiebreak">
+		<description>Tie Break</description>
+		<year>1991</year>
+		<publisher>Starbyte</publisher>
+		<disk name="tie break (1991)(starbyte)" sha1="e61de9dceb6be3af0dd81a13d5b9a8d1e58bb69f" status="baddump" />
+	</machine>
+	<machine name="townona">
+		<description>Town With No Name</description>
+		<year>1992</year>
+		<publisher>On-Line</publisher>
+		<disk name="town with no name (1992)(on-line)(m6)[cdtv-towns]" sha1="ac3ffe88d88300277e4edf7aa217b54fa7a6c777" status="baddump" />
+		<disk name="town_with_no_name" sha1="6591cde09a5a24dd3b4f22af98ee6727c1714861" status="baddump" />
+	</machine>
+	<machine name="trivcdtv">
+		<description>Trivial Pursuit - The CDTV Edition (Europe, v1.0a)</description>
+		<year>1992</year>
+		<publisher>Domark</publisher>
+		<disk name="trivial pursuit - the cdtv edition (europe) (disc 1)" sha1="adb6491aa448da224883c294d9a021d36425e91f" />
+		<disk name="trivial pursuit - the cdtv edition (europe) (disc 2)" sha1="9f61d019f3d0ba4b876f880d26eed8b0c3325a9c" />
+	</machine>
+	<machine name="ttohbusi">
+		<description>Time Table of History - Business, Politics &amp; Media (USA, 1991a Edition)</description>
+		<year>1991</year>
+		<publisher>Xïphias</publisher>
+		<disk name="time table of history - business, politics and media - 1991a edition (usa)" sha1="63da7a2eccc43982e0571063b6e015292995ca9b" />
+	</machine>
+	<machine name="ttohsci">
+		<description>Time Table of History - Science and Innovation (USA, 1991a Edition)</description>
+		<year>1991</year>
+		<publisher>Xïphias</publisher>
+		<disk name="time table of history - science and innovation - 1991a edition (1991)(xiphias)" sha1="17b7c982a74fd4b58aaafd0411170652e17a4771" status="baddump" />
+	</machine>
+	<machine name="turrican">
+		<description>Turrican</description>
+		<year>1991</year>
+		<publisher>Rainbow Arts</publisher>
+		<disk name="turrican" sha1="58caee214235e499d94f89f7ef6246cd548a9bd3" status="baddump" />
+		<disk name="turrican (germany)" sha1="48c9423f28ed9b0bae866844c8647321612450e0" />
+	</machine>
+	<machine name="turricn2">
+		<description>Turrican II: The Final Fight</description>
+		<year>1991</year>
+		<publisher>Rainbow Arts</publisher>
+		<disk name="turrican2" sha1="f7d371e43e5f82314330972a3ce531c4b9ae811e" status="baddump" />
+		<disk name="turrican ii - the final fight (germany)" sha1="940d854e943f3c0db3a61168f12b52a029056047" />
+	</machine>
+	<machine name="ultbball">
+		<description>Ultimate Basketball</description>
+		<year>1991</year>
+		<publisher>Context Systems</publisher>
+		<disk name="ultimate basketball (1991)(context systems)" sha1="460ebb7f1ad5322778c34eb227f71e8d2cf0904b" status="baddump" />
+	</machine>
+	<machine name="welcdtvm">
+		<description>Welcome to CDTV Multimedia (USA, CDRM-499000)</description>
+		<year>1991</year>
+		<publisher>Commodore</publisher>
+		<disk name="welcome to cdtv multimedia (1991)(commodore)[367808-01 33]" sha1="bc1a0ea3f0b776f5e73fadd434eb96b8ccf306e9" status="baddump" />
+		<disk name="welcome to cdtv multimedia (usa)" sha1="797b6e6b42b7b5359bfa7b518bdf3a5b39acd6b2" />
+	</machine>
+	<machine name="willbdg1">
+		<description>Will Bridge 1 - Introduction to Bidding (UK)</description>
+		<year>1991</year>
+		<publisher>Will Bridge</publisher>
+		<disk name="will bridge - practice 1 - introduction to bidding (1991)(will bridge)" sha1="1f0fd9443b3c5215a60ab8fded04e94b56a38e0f" status="baddump" />
+		<disk name="will bridge vol. 1 - initiation aux encheres - practice (france)" sha1="565c00a36bf7c39a0d8202280e1c6d56cf9443cf" />
+	</machine>
+	<machine name="willbdg2">
+		<description>Will Bridge 2 - Intermediate (UK)</description>
+		<year>1991</year>
+		<publisher>Will Bridge</publisher>
+		<disk name="will bridge - practice 2 - intermediate (1991)(will bridge)" sha1="285dff0e4595efee49a44bcdfd6d516e0a9afc81" status="baddump" />
+	</machine>
+	<machine name="willbdg3f">
+		<description>Will Bridge 3 - Standard (France)</description>
+		<year>1991</year>
+		<publisher>Will Bridge</publisher>
+		<disk name="will bridge - practice 3 - standard (1991)(will bridge)(fr)" sha1="b011272893cf8c1e703d8e210ae1684a5466c882" status="baddump" />
+	</machine>
+	<machine name="willbdg4">
+		<description>Will Bridge 4 - Competition (UK)</description>
+		<year>1991</year>
+		<publisher>Will Bridge</publisher>
+		<disk name="will bridge - practice 4 - competition (1991)(will bridge)" sha1="56fb85419b20d7940227e8fc167aeeec605cc425" status="baddump" />
+	</machine>
+	<machine name="willbdg5f">
+		<description>Will Bridge 5 - Haute Competition (France)</description>
+		<year>1991</year>
+		<publisher>Will Bridge</publisher>
+		<disk name="will bridge - practice 5 - haute competition (1991)(will bridge)(fr)" sha1="efa6a451b520ee334c20b74a58a11cf2bf1119ee" status="baddump" />
+	</machine>
+	<machine name="womenmot">
+		<description>Eadweard Muybridge's Women in Motion</description>
+		<year>1991</year>
+		<publisher>On-line</publisher>
+		<disk name="women in motion - eadweard muybridge (1991)(on-line)[u29y010ua]" sha1="6919ffc83496fce3c3f820f8cafe8ee33c5046e4" status="baddump" />
+	</machine>
+	<machine name="worldvis">
+		<description>World Vista</description>
+		<year>1991</year>
+		<publisher>Applied Optical Media Corporation</publisher>
+		<disk name="world vista (1991)(applied optical media corporation)" sha1="7619ea13c744eebe6a2d6dbe32cf605f88da67ca" status="baddump" />
+	</machine>
+	<machine name="wrdemon">
+		<description>Wrath of the Demon (USA)</description>
+		<year>1990</year>
+		<publisher>ReadySoft</publisher>
+		<disk name="wrath of the demon (usa)" sha1="8175074606c087b7c15a317a96eb65ae187ab8b5" />
+	</machine>
+	<machine name="xenon2">
+		<description>Xenon 2 - Megablast (Europe)</description>
+		<year>1992</year>
+		<publisher>Image Works</publisher>
+		<disk name="xenon 2 - megablast (europe) (en,fr,de,it)" sha1="609c31fe3d6ff992594d07fcdb8c1b3bdbe36a4d" />
+	</machine>
+</datafile>

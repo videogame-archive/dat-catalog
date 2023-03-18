@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>iqunlim_cart</name>
+		<description>VTech IQ Unlimited cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="efb">
+		<description>Englisch für Anfänger</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<rom name="27-06260-0-0.u2" size="524288" crc="dffcaca3" sha1="e513f4b83b067adb965cb4a4ba0c003b747f1dc7" />
+	</machine>
+</datafile>

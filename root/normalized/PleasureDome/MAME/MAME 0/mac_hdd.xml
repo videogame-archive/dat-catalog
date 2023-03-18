@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>mac_hdd</name>
+		<description>Mac Harddisks</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="mac608">
+		<description>System Software 6.0.8</description>
+		<year>1988</year>
+		<publisher>Apple</publisher>
+		<disk name="mac608" sha1="0eff82806f671484ec0c91cdc95ad90aa3157885" />
+	</machine>
+	<machine name="mac700">
+		<description>System Software 7.0</description>
+		<year>1991</year>
+		<publisher>Apple</publisher>
+		<disk name="mac700" sha1="a4c7777125331339afcd47dda5adca26ff57a427" />
+	</machine>
+	<machine name="mac701">
+		<description>System Software 7.0.1</description>
+		<year>1991</year>
+		<publisher>Apple</publisher>
+		<disk name="mac701" sha1="f867db45d7543ba87ca0e762bc920fe11d2a0753" />
+	</machine>
+	<machine name="mac711">
+		<description>System Software 7.1.1</description>
+		<year>1993</year>
+		<publisher>Apple</publisher>
+		<disk name="mac711" sha1="b1625378d1ba00861a07ebe47f4b6b54c849c61f" />
+	</machine>
+	<machine name="mac750">
+		<description>System Software 7.5</description>
+		<year>1994</year>
+		<publisher>Apple</publisher>
+		<disk name="mac750" sha1="9b59a611f0fddd560bc8b72c1dae07d0f2e10dcc" />
+	</machine>
+	<machine name="mac753">
+		<description>System Software 7.5.3 Revision 2</description>
+		<year>1996</year>
+		<publisher>Apple</publisher>
+		<disk name="mac753" sha1="757e4c69281993871bb7a199583f8f0c042c0ac7" />
+	</machine>
+	<machine name="mac755">
+		<description>System Software 7.5.5</description>
+		<year>1996</year>
+		<publisher>Apple</publisher>
+		<disk name="mac755" sha1="45990ff07419555d576eaa4f2293d62e74d055b6" />
+	</machine>
+	<machine name="mac760">
+		<description>System Software 7.6</description>
+		<year>1997</year>
+		<publisher>Apple</publisher>
+		<disk name="mac760" sha1="7e5ac00619dbf2395611f19658fab8e029d64bc7" />
+	</machine>
+	<machine name="mac761">
+		<description>System Software 7.6.1</description>
+		<year>1997</year>
+		<publisher>Apple</publisher>
+		<disk name="mac761" sha1="fa41734a26c37dea26f5d5590a8545afe26005ac" />
+	</machine>
+</datafile>

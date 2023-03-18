@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>leapfrog_iquest_cart</name>
+		<description>LeapFrog IQuest cartridges</description>
+		<version></version>
+		<author></author>
+	</header>
+	<machine name="scig5">
+		<description>Science Grade 5</description>
+		<year>200?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="iquestsciencegrade5.bin" size="4194304" crc="0ce7729c" sha1="b3585b1f181afe618835742d2dcd05903671c789" />
+	</machine>
+	<machine name="start40">
+		<description>IQuest 4.0 Starter Pack</description>
+		<year>200?</year>
+		<publisher>LeapFrog</publisher>
+		<rom name="iqueststarterpack.bin" size="4194304" crc="f20f1a67" sha1="4bc8533e0266ba6d21d14e45e30af3cdb943c865" />
+	</machine>
+</datafile>
