@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>109</id>
+		<name>iQue - iQue (Decrypted)</name>
+		<description>iQue - iQue (Decrypted)</description>
+		<version>20220521-055741</version>
+		<author>Arctic Circle System, chillerecke, Hiccup, Jhynjhiruu</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Shenyou Julebu (China)" id="0080">
+		<description>[BIOS] Shenyou Julebu (China)</description>
+		<rom name="[BIOS] Shenyou Julebu (China).bin" size="8192" crc="86d12af3" md5="77878ab922428a2f7e9e248bacee1193" sha1="1663efc4f08e1e20c244b38f3572325700d327c1"/>
+	</game>
+	<game name="Dongwu Senlin (China) (v8)" id="0001">
+		<description>Dongwu Senlin (China) (v8)</description>
+		<rom name="Dongwu Senlin (China) (v8).cmd" size="10668" crc="08a40d6a" md5="e17851e2b7b9b1955addbc7f3d9863dd" sha1="19b6f17730b3a3e61808572f43ba172b9c89a055"/>
+		<rom name="Dongwu Senlin (China) (v8).z64" size="16138240" crc="4703c2dd" md5="af83e0cf36298e62e9eb2eb8c89aa710" sha1="b0f25508ccc99551190b86f88da6772942308f85"/>
+	</game>
+	<game name="F-Zero X Weilai Saiche (China) (v2) (Manual)" id="0003">
+		<description>F-Zero X Weilai Saiche (China) (v2) (Manual)</description>
+		<rom name="F-Zero X Weilai Saiche (China) (v2) (Manual).cmd" size="10668" crc="a1b5b819" md5="84928d438008aeb4d5206f24427fbb83" sha1="936352ccd44920d0a43e1ed8291cdaf4605d132a"/>
+		<rom name="F-Zero X Weilai Saiche (China) (v2) (Manual).z64" size="180224" crc="88331ad2" md5="8400c0875e16f599c1b7fc433e339d58" sha1="8199c5b4dec4174bd2ff1c901bb47f356cf16503"/>
+	</game>
+	<game name="F-Zero X Weilai Saiche (China) (v4) (Manual)" id="0004">
+		<description>F-Zero X Weilai Saiche (China) (v4) (Manual)</description>
+		<rom name="F-Zero X Weilai Saiche (China) (v4) (Manual).z64" size="294912" crc="8ebc6ed5" md5="9729fc397e8d178ea974869e07df0502" sha1="26b4f91a0e2ea2e6994bcdc42b54d8c7e2279d98"/>
+		<rom name="F-Zero X Weilai Saiche (China) (v4) (Manual).cmd" size="10668" crc="e602ffd3" md5="bccdf5e43012ebdb41ed235caa94b13f" sha1="24d865e7e995f9186bdf446b1bc2c184e9ec154f"/>
+	</game>
+	<game name="F-Zero X Weilai Saiche (China) (v3)" id="0002">
+		<description>F-Zero X Weilai Saiche (China) (v3)</description>
+		<rom name="F-Zero X Weilai Saiche (China) (v3).cmd" size="10668" crc="6ca6601f" md5="3e14f55f98b1477381b5cbc9552da462" sha1="e5e1fc7c5b3b886e4d6e49197d916e206ba14132"/>
+		<rom name="F-Zero X Weilai Saiche (China) (v3).z64" size="16334848" crc="3d30385a" md5="4024477aaed7dd5ff5ea60bf568123b7" sha1="3c7fa54be9c0124c502f1c8df53765f82d401508"/>
+	</game>
+	<game name="iQue Club (China) (v2)" id="0005">
+		<description>iQue Club (China) (v2)</description>
+		<rom name="iQue Club (China) (v2).cmd" size="10668" crc="5708f3ab" md5="52fe43e343a5e3b35a0831ee0d7c18b5" sha1="8bc79d444938df3eba2c0b32a7f83857544715f1"/>
+		<rom name="iQue Club (China) (v2).z64" size="557056" crc="4d193de7" md5="d12cc0ef13391e5924f61c2b7f8246f6" sha1="c69492d6f163afa089788a44e05c53b5118b5bc2"/>
+	</game>
+	<game name="iQue Club (China) (v3)" id="0006">
+		<description>iQue Club (China) (v3)</description>
+		<rom name="iQue Club (China) (v3).cmd" size="10668" crc="d3d01e79" md5="20dac69d560a848ea104299d3d29dac6" sha1="3529d4ae097cf6dc5baee6b842befa27ee621400"/>
+		<rom name="iQue Club (China) (v3).z64" size="573440" crc="6a2c6dcb" md5="f9190dbaf547d6d3f5f3569accf26061" sha1="da6511a6f75e9770381b6225fc2057ac39e884fc"/>
+	</game>
+	<game name="Maliou Kadingche (China) (v2) (Manual)" id="0009">
+		<description>Maliou Kadingche (China) (v2) (Manual)</description>
+		<rom name="Maliou Kadingche (China) (v2) (Manual).cmd" size="10668" crc="66709a32" md5="dc32fb5453e90a2dff0d94111782dc88" sha1="bd977709ecad24eef0a1779ce34ff82fd2f45642"/>
+		<rom name="Maliou Kadingche (China) (v2) (Manual).z64" size="245760" crc="1ad7f15b" md5="c70af6197e67b310f316c34cced64c19" sha1="d600d06eab14f9d54957b19832120ec3ee515b95"/>
+	</game>
+	<game name="Maliou Kadingche (China) (v4)" id="0010">
+		<description>Maliou Kadingche (China) (v4)</description>
+		<rom name="Maliou Kadingche (China) (v4).cmd" size="10668" crc="98b87d1c" md5="790d392c00eb034aef31a466f540e680" sha1="b68d9d45c0568aa7ae29eebd348d3268a6a8e251"/>
+		<rom name="Maliou Kadingche (China) (v4).z64" size="12533760" crc="ea0813c7" md5="78771beb349d481e69baa9225b36d63a" sha1="219660d0a321fc200ac4295dd79fd3417da3eea8"/>
+	</game>
+	<game name="Maliou Kadingche (China) (v5)" id="0011">
+		<description>Maliou Kadingche (China) (v5)</description>
+		<rom name="Maliou Kadingche (China) (v5).cmd" size="10668" crc="d27e4957" md5="c8413372d6c2365b505d434ccc8c63a3" sha1="d4f44b5c3ca9cc6bb2e87260cc774e0c22e4c5c9"/>
+		<rom name="Maliou Kadingche (China) (v5).z64" size="12533760" crc="47e69f28" md5="5ea0ed74cf1ddaaa964d728a129e7cf9" sha1="d6605879918b0dca3eafa1c75ecbc850a3b2535d"/>
+	</game>
+	<game name="Maliou Kadingche (China) (v6) (Manual)" id="0012">
+		<description>Maliou Kadingche (China) (v6) (Manual)</description>
+		<rom name="Maliou Kadingche (China) (v6) (Manual).cmd" size="10668" crc="386f04c4" md5="c1c16f72d3867a460f34f06b37c299bb" sha1="d42a40b1885d707ddf3288b35fc5544611ee6451"/>
+		<rom name="Maliou Kadingche (China) (v6) (Manual).z64" size="425984" crc="abdbf9f4" md5="76176b237d4f60e59f98d247283d9365" sha1="b966688b8c5e2c8d70c91ec0a1caeeaa519c6170"/>
+	</game>
+	<game name="Maliou Yisheng (China) (v4) (Manual)" id="0015">
+		<description>Maliou Yisheng (China) (v4) (Manual)</description>
+		<rom name="Maliou Yisheng (China) (v4) (Manual).cmd" size="10668" crc="efc16969" md5="e0ae8d5b9e2347a9071f73a19da6b261" sha1="bc56c9e37cea10de96e50616181f957d225fe03f"/>
+		<rom name="Maliou Yisheng (China) (v4) (Manual).z64" size="393216" crc="84a5f66c" md5="b524d10a8a26764eb2198acec3f09948" sha1="4c74e74f8af2a6ae4110aba7dbe542f8add9b61a"/>
+	</game>
+	<game name="Maliou Yisheng (China) (v2) (Manual)" id="0014">
+		<description>Maliou Yisheng (China) (v2) (Manual)</description>
+		<rom name="Maliou Yisheng (China) (v2) (Manual).cmd" size="10668" crc="581d78be" md5="9d9c46f5dac3759cc89825747570a45f" sha1="cba020987a8db69a529861d0cd4c468fd12de084"/>
+		<rom name="Maliou Yisheng (China) (v2) (Manual).z64" size="294912" crc="b862a4fe" md5="fe49420725f9c1cf0f15ba5682d27709" sha1="72e8e15a281b9fc81269f6ebc7ab3be3adeee508"/>
+	</game>
+	<game name="Maliou Yisheng (China) (v4)" id="0013">
+		<description>Maliou Yisheng (China) (v4)</description>
+		<rom name="Maliou Yisheng (China) (v4).cmd" size="10668" crc="c26160c2" md5="87748c80f991d55e48ee78109b1fda0c" sha1="f37ca9c4c589654a9d538974cd43bef3132c8116"/>
+		<rom name="Maliou Yisheng (China) (v4).z64" size="3358720" crc="61848015" md5="dd291b9c65420fd892107f6c665b7a45" sha1="e396df7729acc70c0e7ab988fca2b75ea167632d"/>
+	</game>
+	<game name="Rentiantang Mingxing Daluan Dou (China) (v5)" id="0016">
+		<description>Rentiantang Mingxing Daluan Dou (China) (v5)</description>
+		<rom name="Rentiantang Mingxing Daluan Dou (China) (v5).cmd" size="10668" crc="9bc50650" md5="827ff3f8269a04ace5a157a707b47381" sha1="712bfcee64e4c11776237ae70bedec84381cd7c8"/>
+		<rom name="Rentiantang Mingxing Daluan Dou (China) (v5).z64" size="16793600" crc="d86e2edf" md5="7b815846ec91e6c4a8b8baa0ce4078f0" sha1="926dfad9daede0ddd088d3006bbd1d02ca6222a4"/>
+	</game>
+	<game name="Rentiantang Mingxing Daluan Dou (China) (Manual)" id="0017">
+		<description>Rentiantang Mingxing Daluan Dou (China) (Manual)</description>
+		<rom name="Rentiantang Mingxing Daluan Dou (China) (Manual).cmd" size="10668" crc="ae986738" md5="161e5cb191a6294332ad4a3acd8ee9c2" sha1="d61e2b51ec0474fd1c61bb660acbb0de9afc0df3"/>
+		<rom name="Rentiantang Mingxing Daluan Dou (China) (Manual).z64" size="294912" crc="007f3759" md5="3abc2d34ad3ce623f4ed8f126d30cc80" sha1="85fd084f9b34c5f2b90f5fdb73847e47df9f5667"/>
+	</game>
+	<game name="Saierda Chuanshuo - Shiguang zhi Di (China) (v2) (Manual)" id="0031">
+		<description>Saierda Chuanshuo - Shiguang zhi Di (China) (v2) (Manual)</description>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (v2) (Manual).cmd" size="10668" crc="7b766fda" md5="dcb67001582493f94d72fa06aa4b6a65" sha1="97d58fd30cfaca2c52c1a59abcaf58e36c661f79"/>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (v2) (Manual).z64" size="278528" crc="f8d9250d" md5="9729a68f40f197d4d040fa641ff099e7" sha1="b5ed1ed47e0876bbc0eeb10f5ccc28cd31bed0fa"/>
+	</game>
+	<game name="Saierda Chuanshuo - Shiguang zhi Di (China) (v4)" id="0030">
+		<description>Saierda Chuanshuo - Shiguang zhi Di (China) (v4)</description>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (v4).cmd" size="10668" crc="31edb9bb" md5="d7be2662cca598dcb592f956c0e8ed0b" sha1="d888cf07000655cec66256ef5b93a681c80d99db"/>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (v4).z64" size="29868032" crc="f45c5532" md5="0ab48b2d44a74b3bb2d384f6170c2742" sha1="1015d0f3af34b89149bfd773580bbc66466af54e"/>
+	</game>
+	<game name="Saierda Chuanshuo - Shiguang zhi Di (China) (v4) (Manual)" id="0032">
+		<description>Saierda Chuanshuo - Shiguang zhi Di (China) (v4) (Manual)</description>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (v4) (Manual).cmd" size="10668" crc="08b0b2e5" md5="6891e1d2b0c2135b71ae4ed9a93ae620" sha1="39a47ab26cfa74cf1314eb5f3b084d857d9b6f0e"/>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (v4) (Manual).z64" size="425984" crc="07e6c6e6" md5="912628118e67fea670ed2c63f7a7b003" sha1="5d50125c3f7c916f49e95806c651afb3ed4f74ad"/>
+	</game>
+	<game name="Saierda Chuanshuo - Shiguang zhi Di (China) (Proto)" id="0033">
+		<description>Saierda Chuanshuo - Shiguang zhi Di (China) (Proto)</description>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (Proto).cmd" size="10668" crc="8fd8974f" md5="7bfa95afb5b7921d3e40d31f406b33c2" sha1="c99e59805ef7dbcbaa12be19d85d19999a896c6c"/>
+		<rom name="Saierda Chuanshuo - Shiguang zhi Di (China) (Proto).z64" size="29868032" crc="e8e3575f" md5="a475e9f8615513666a265c464708ae8f" sha1="8668469647423735cc05f55a479c9d3135fbf838"/>
+	</game>
+	<game name="Shenyou Maliou (China) (v6) (Manual)" id="0008">
+		<description>Shenyou Maliou (China) (v6) (Manual)</description>
+		<rom name="Shenyou Maliou (China) (v6) (Manual).cmd" size="10668" crc="f1f145ed" md5="ae33ec83c7a6ddcf651f0d112b13fd51" sha1="d643217bb24190378a473261bde4d80aefd3ccf7"/>
+		<rom name="Shenyou Maliou (China) (v6) (Manual).z64" size="409600" crc="a5b65a64" md5="b4bd31b13e474df29922150e1ef3f328" sha1="a7f90ffbbffa26919e23d24057bcb504ef8a8aa0"/>
+	</game>
+	<game name="Shenyou Maliou (China) (v4)" id="0007">
+		<description>Shenyou Maliou (China) (v4)</description>
+		<rom name="Shenyou Maliou (China) (v4).cmd" size="10668" crc="b3101d93" md5="a0aec73ab016c396dddf7116758759af" sha1="5334317b32e8474d04340492c3943b8d81ebd092"/>
+		<rom name="Shenyou Maliou (China) (v4).z64" size="8060928" crc="08b48ca1" md5="29047fba820695bd14c5bd7aa1aa4400" sha1="2e1db2780985a1f068077dc0444b685f39cd90ec"/>
+	</game>
+	<game name="Shuishang Motuo (China) (v4) (Manual)" id="0020">
+		<description>Shuishang Motuo (China) (v4) (Manual)</description>
+		<rom name="Shuishang Motuo (China) (v4) (Manual).cmd" size="10668" crc="b12a3f7f" md5="471650fb95c8e04aeb100b2bcbd2bdfb" sha1="7d6c535728d1a79af6a341c1fee9d8e614999eb0"/>
+		<rom name="Shuishang Motuo (China) (v4) (Manual).z64" size="491520" crc="3ef9368e" md5="926b1495565435da0af29bb660532da3" sha1="fc2d8b6a2b64104681940ad2557703df44bb9e97"/>
+	</game>
+	<game name="Shuishang Motuo (China) (v2) (Manual)" id="0019">
+		<description>Shuishang Motuo (China) (v2) (Manual)</description>
+		<rom name="Shuishang Motuo (China) (v2) (Manual).cmd" size="10668" crc="79d6a343" md5="e91576b4765c483eae2ac506b8fccbce" sha1="18077e4520e1c747485a4e0c1a09b85170dd875e"/>
+		<rom name="Shuishang Motuo (China) (v2) (Manual).z64" size="311296" crc="b7547f54" md5="a66fee7af89d58b24a25c346a0e90172" sha1="536ed6c8f1ef5a66581efa3c4ae43a2fb7d6dc58"/>
+	</game>
+	<game name="Shuishang Motuo (China) (v4)" id="0018">
+		<description>Shuishang Motuo (China) (v4)</description>
+		<rom name="Shuishang Motuo (China) (v4).cmd" size="10668" crc="01df0de9" md5="67b729c58e215470580348860f73b8ed" sha1="eb127eb1e3cec8976a94eeaefc683685fb0c4dff"/>
+		<rom name="Shuishang Motuo (China) (v4).z64" size="8159232" crc="30f45e87" md5="1f83663b2c84512fc3706a6cacc1a9f3" sha1="19c2e84440ebec5b6a349ec96cdc629e03491a19"/>
+	</game>
+	<game name="Xingji Huohu (China) (v4) (Manual)" id="0022">
+		<description>Xingji Huohu (China) (v4) (Manual)</description>
+		<rom name="Xingji Huohu (China) (v4) (Manual).cmd" size="10668" crc="f667e25b" md5="5cd9be0dd4fc9bc0ec0f78fc0182a0e8" sha1="01a0dea69b6bbd95ee03a7292368954fa9502141"/>
+		<rom name="Xingji Huohu (China) (v4) (Manual).z64" size="229376" crc="28cda0eb" md5="3dcd5e15aa35a73c68db4f56e2670fa2" sha1="12811f1b0f69cad88022bcf36f158865c8f89f32"/>
+	</game>
+	<game name="Xingji Huohu (China) (v4)" id="0021">
+		<description>Xingji Huohu (China) (v4)</description>
+		<rom name="Xingji Huohu (China) (v4).cmd" size="10668" crc="e7e04c55" md5="0e612356e966ee049f211f29de38e9ec" sha1="51082c6e911a8d3c21965f96e6574ca1e79ff3f9"/>
+		<rom name="Xingji Huohu (China) (v4).z64" size="11829248" crc="46522d7a" md5="b00e422f9a8c46ca6270122b29520616" sha1="bd9bc254f884d868190208f05a9fee0646e3690a"/>
+	</game>
+	<game name="Xingji Huohu (China) (v5)" id="0023">
+		<description>Xingji Huohu (China) (v5)</description>
+		<rom name="Xingji Huohu (China) (v5).cmd" size="10668" crc="949da06c" md5="132b960f12be3586d330f366276dc3a1" sha1="a77dcd836b2065f772463dfb48ccc31d81e3482e"/>
+		<rom name="Xingji Huohu (China) (v5).z64" size="11829248" crc="0d28c3ed" md5="b2242070800bf82e78ce33dc92a1db84" sha1="c8a10699dea52f4bb2e2311935c1376dfb352e7a"/>
+	</game>
+	<game name="Yaoxi Gushi (China) (v6) (Manual)" id="0027">
+		<description>Yaoxi Gushi (China) (v6) (Manual)</description>
+		<rom name="Yaoxi Gushi (China) (v6) (Manual).cmd" size="10668" crc="0f36e691" md5="d3f0f66b6f79beddb082c5b5440b493f" sha1="8fbb0f8cca135e978c0bb494a40b384c049493d4"/>
+		<rom name="Yaoxi Gushi (China) (v6) (Manual).z64" size="425984" crc="5cef9b96" md5="85a90c61b65b56334e00950210c6cfc4" sha1="3f2d73aab7732d5448881df99d6f131c7354b6b8"/>
+	</game>
+	<game name="Yaoxi Gushi (China)" id="0024">
+		<description>Yaoxi Gushi (China)</description>
+		<rom name="Yaoxi Gushi (China).cmd" size="10668" crc="549b4b47" md5="dc5375724ee24b5d449832bf9bbc3eb0" sha1="aadfa520242e7bd081e1120282ecc1cd61d25753"/>
+		<rom name="Yaoxi Gushi (China).z64" size="16023552" crc="9a579a29" md5="f7aa4f819f41cb4236792a8145684627" sha1="f04aabaca4d107f3ce35ed234698d30a79394431"/>
+	</game>
+	<game name="Yaoxi Gushi (China) (v2) (Manual)" id="0025">
+		<description>Yaoxi Gushi (China) (v2) (Manual)</description>
+		<rom name="Yaoxi Gushi (China) (v2) (Manual).cmd" size="10668" crc="c58b583a" md5="f76fa5157d571df9935783c1e314d74f" sha1="3814409ff4587b652aa54a235ad73cf3c0e331d9"/>
+		<rom name="Yaoxi Gushi (China) (v2) (Manual).z64" size="196608" crc="4b5ae477" md5="df8164da753c9ef0b7c2611f584e81a9" sha1="9c9635ba9f35f01a55a92153987d831113d454d3"/>
+	</game>
+	<game name="Yaoxi Gushi (China) (v4) (Manual)" id="0026">
+		<description>Yaoxi Gushi (China) (v4) (Manual)</description>
+		<rom name="Yaoxi Gushi (China) (v4) (Manual).cmd" size="10668" crc="1e18393e" md5="2b93162a497f27e8540e12b3e5685f04" sha1="229b08c1246afd655b881e176b80b59eefa740b9"/>
+		<rom name="Yaoxi Gushi (China) (v4) (Manual).z64" size="245760" crc="5d76a1c1" md5="d6778d9d560dec35d8c05af4738e27aa" sha1="7eca70394a089f4058b67b1678e3f33c75fae738"/>
+	</game>
+	<game name="Yueye Motuo (China) (v8)" id="0028">
+		<description>Yueye Motuo (China) (v8)</description>
+		<rom name="Yueye Motuo (China) (v8).cmd" size="10668" crc="50f0e2c0" md5="ce8c6367b030decdec9bdee90eb447b0" sha1="e99573213812b164491d0ff398544610b281e8fc"/>
+		<rom name="Yueye Motuo (China) (v8).z64" size="16072704" crc="d7ad44fd" md5="f4b41863440137c6a3ba22942f3e0da2" sha1="e20d95e7c53c3d7ed7857bb89f0c79c94578bb4f"/>
+	</game>
+	<game name="Yueye Motuo (China) (v2) (Manual)" id="0029">
+		<description>Yueye Motuo (China) (v2) (Manual)</description>
+		<rom name="Yueye Motuo (China) (v2) (Manual).cmd" size="10668" crc="0cae6d7e" md5="46417ee0e69820e2d1c2a79c0ed244a7" sha1="b36d775e7ebdc56f569d3c9aecde789cd0bdca78"/>
+		<rom name="Yueye Motuo (China) (v2) (Manual).z64" size="262144" crc="3863dfe0" md5="876f87c91a4b6339daa8fc1f41eb7acd" sha1="312ee2f121983f148644d49a1f742dad3920f5d7"/>
+	</game>
+	<game name="Zhipian Maliou (China) (v4)" id="0034">
+		<description>Zhipian Maliou (China) (v4)</description>
+		<rom name="Zhipian Maliou (China) (v4).cmd" size="10668" crc="5a40d7ee" md5="b77c40d32dfbb01b239c284ad1aad4f6" sha1="5ac9df914531b76042be7fcaf3b7208b44827c5a"/>
+		<rom name="Zhipian Maliou (China) (v4).z64" size="41943040" crc="18c02ad5" md5="8f8f50ab00c4089ae32c6b9fefd69543" sha1="5c724685085eba796537573dd6f84aaddedc8582"/>
+	</game>
+	<game name="Zhipian Maliou (China) (v2) (Manual)" id="0035">
+		<description>Zhipian Maliou (China) (v2) (Manual)</description>
+		<rom name="Zhipian Maliou (China) (v2) (Manual).cmd" size="10668" crc="83d972ce" md5="56bce641bc97b7ae13e7493470957f3d" sha1="63520311b60a807422a0ce0ea95b4b178cc9c33b"/>
+		<rom name="Zhipian Maliou (China) (v2) (Manual).z64" size="376832" crc="977e9a2f" md5="c4d652425aa4f2fc1d12564df01f8a04" sha1="5dc7d52a4545eeb9daddcae110a60e7e488d755a"/>
+	</game>
+	<game name="Zhipian Maliou (China) (v4) (Manual)" id="0036">
+		<description>Zhipian Maliou (China) (v4) (Manual)</description>
+		<rom name="Zhipian Maliou (China) (v4) (Manual).cmd" size="10668" crc="9e6f2f79" md5="9367d644500b805a3c79df4ce1586162" sha1="3686c066932a5abdd258ee875a4983158c27f682"/>
+		<rom name="Zhipian Maliou (China) (v4) (Manual).z64" size="376832" crc="b370284f" md5="d9597922207298a87fa46878c017e6da" sha1="02a3eb14d2646ea7651f5ad9af58bf374f7bb023"/>
+	</game>
+	<game name="Zuhe Jiqiren (China) (v3)" id="0037">
+		<description>Zuhe Jiqiren (China) (v3)</description>
+		<rom name="Zuhe Jiqiren (China) (v3).cmd" size="10668" crc="672187b1" md5="3eaab8e4a4f92ff02374c0650bd3b7b2" sha1="82857419a0396056b8cf66514bcd33f3b6a23b34"/>
+		<rom name="Zuhe Jiqiren (China) (v3).z64" size="16793600" crc="76742798" md5="33f2bc6847985f96de8177147dcd3b85" sha1="563755afd3cf8d30ec10e100a2e032addf429246"/>
+	</game>
+	<game name="Zui yu Fa - Diqiu de Jicheng Zhe (China) (v3)" id="0038">
+		<description>Zui yu Fa - Diqiu de Jicheng Zhe (China) (v3)</description>
+		<rom name="Zui yu Fa - Diqiu de Jicheng Zhe (China) (v3).cmd" size="10668" crc="e0b7f3dc" md5="acfe8c1b2dc5c608272a7ec4a3f33858" sha1="1ccaf9337ff81d29dee285800a61f528afd5db9b"/>
+		<rom name="Zui yu Fa - Diqiu de Jicheng Zhe (China) (v3).z64" size="33636352" crc="e00db418" md5="5ba3aa2953c47c8b2e615b21e60f2f17" sha1="5b9b53c4d93cf16a73903cfef7fbeb845f10c2e5"/>
+	</game>
+	<game name="Zui yu Fa - Diqiu de Jicheng Zhe (China) (Manual)" id="0039">
+		<description>Zui yu Fa - Diqiu de Jicheng Zhe (China) (Manual)</description>
+		<rom name="Zui yu Fa - Diqiu de Jicheng Zhe (China) (Manual).cmd" size="10668" crc="f1018e5a" md5="2ba7249f5142c3f09ce9a689c05836c9" sha1="70f41f33271adfc523aa873acf7693e16834a3a4"/>
+		<rom name="Zui yu Fa - Diqiu de Jicheng Zhe (China) (Manual).z64" size="245760" crc="f336cc75" md5="9abb0f6f79e01fc9a942d6027719c3e4" sha1="0ac28c05e402820d6b65722a813f8bdb25db890c"/>
+	</game>
+</datafile>

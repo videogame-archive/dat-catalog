@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<id>260</id>
 		<name>Unofficial - Sony - PlayStation 4 (PSN)</name>
@@ -714,6 +714,11 @@
 		<description>UP5420-CUSA24806_00-0000000AVGN12DLX</description>
 		<rom name="Angry Video Game Nerd I and II Deluxe (USA) (En,Fr,De,Es,Es-MX,It,Pt-BR).pkg" size="266207232" crc="bd516c0d" md5="51d57230a3042560122017cabb9ff42f" sha1="7d1e642c2c7cd51b7275956375b5cd0506d5f650" sha256="13a912cb9c2dd9d70a8a6e634ff0ccf1e7740f7e27e069aa7fe4e1b857c08c97"/>
 	</game>
+	<game name="Animus - Revenant (USA) (En,Ja,Zh-Hant,Zh-Hans,Ko)" id="4550">
+		<description>Animus - Revenant (USA) (En,Ja,Zh-Hant,Zh-Hans,Ko)</description>
+		<game_id>UP6021-CUSA29677_00-TENBIRDSGAME0001</game_id>
+		<rom name="Animus - Revenant (USA) (En,Ja,Zh-Hant,Zh-Hans,Ko).pkg" size="1197670400" crc="2e3bce76" md5="c17e9c04992f3a2bf6b7cc59fff78c26" sha1="0aceddd8b76ef4904a8e7823183ab3aa2f9c569a" sha256="276cd7d6e8e19ec13bb4de85d4b1545c9c8eb35672bfb704ec260a178e0cdf50"/>
+	</game>
 	<game name="Another Sight (Europe) (En,Fr,De,Es,It) (Blu-ray)" id="0055">
 		<description>Another Sight (Europe) (En,Fr,De,Es,It) (Blu-ray)</description>
 		<game_id>EP3550-CUSA15304_00-ANOTHSIGHTPS4EU0</game_id>
@@ -793,6 +798,16 @@
 		<game_id>EP2911-CUSA12772_00-ARISETHEGAME00EU</game_id>
 		<rom name="Arise - A Simple Story (Europe) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru,Tr) (v1.03 Merged).pkg" size="5102108672" crc="ffad3067" md5="f8123afdfd3fb16d63ae9ff3a3fb8230" sha1="9a52a58ecca189aee47767f655388acc294e4889" sha256="dd1608aef3e3463e008a35343925dc56eba757feaedff0f32d47ec8668f08dcb"/>
 	</game>
+	<game name="Arkanoid - Eternal Battle (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs) (v1.02 Merged)" id="4455">
+		<description>Arkanoid - Eternal Battle (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs) (v1.02 Merged)</description>
+		<game_id>EP4295-CUSA31975_00-ARKEBPS4000000EU</game_id>
+		<rom name="Arkanoid - Eternal Battle (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs) (v1.02 Merged).pkg" size="349306880" crc="6b6799b4" md5="4dd43acb702bbd53c6a659604487f070" sha1="9d4cc3e2e61e25001175239d7cf9da736f6425ca" sha256="8c7a9e6179b51bd1c4cabaa61a0ff3d4f90cd7237a156c59856eca0ff9e252a8"/>
+	</game>
+	<game name="Arkanoid - Eternal Battle - Space Scout Pack (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs) (v1.02 Merged) (DLC)" id="4456">
+		<description>Arkanoid - Eternal Battle - Space Scout Pack (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs) (v1.02 Merged) (DLC)</description>
+		<game_id>EP4295-CUSA31975_00-ARKEBPS4000000EU</game_id>
+		<rom name="Arkanoid - Eternal Battle - Space Scout Pack (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs) (v1.02 Merged) (DLC).pkg" size="1048576" crc="6de39506" md5="21e0c7c44e268e49009904a2a7f81bac" sha1="93370f6c082391022a24345a8a5fdc429f70d001" sha256="be2a6f64938b9dd5ca3b22bbd83f0ff55c3bbb3fd8f18c2b57412037399f49a5"/>
+	</game>
 	<game name="Art of Balance (Europe) (En,Fr,De,Es)" id="0062">
 		<description>Art of Balance (Europe) (En,Fr,De,Es)</description>
 		<game_id>EP4496-CUSA01464_00-ARTOFBALANCE0000</game_id>
@@ -802,6 +817,11 @@
 		<description>Art of Fighting - Anthology (USA) (v1.00 PS2 Classic)</description>
 		<game_id>UP0576-CUSA03754_00-SLUS214870000001</game_id>
 		<rom name="Art of Fighting - Anthology (USA) (v1.00 PS2 Classic).pkg" size="1432682496" crc="ae9f9261" md5="836d0bf220f98f92f1dcbd92af513d42" sha1="fb6fcbc0d2ef258675c9f808a4925b5563384eaa" sha256="c8c92be7a47e52ad56aec7c1eda85ac3b8e35ac53f755ba2a771be1ea0555b32"/>
+	</game>
+	<game name="Artful Escape, The (Europe) (En,Ja,Fr,De,Es,Es-MX,It,Nl,Pt,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr) (v1.02 Remaster)" id="4469">
+		<description>Artful Escape, The (Europe) (En,Ja,Fr,De,Es,Es-MX,It,Nl,Pt,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr) (v1.02 Remaster)</description>
+		<game_id>EP2333-CUSA30113_00-ARTFULSIEE000000</game_id>
+		<rom name="Artful Escape, The (Europe) (En,Ja,Fr,De,Es,Es-MX,It,Nl,Pt,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr) (v1.02 Remaster).pkg" size="6428426240" crc="4f995922" md5="f833fc63f2e48987c7b1be64033dd5f4" sha1="0db993497ba6d222e3630a3f7be338fec7b41f70" sha256="8a0b15923913c2bba38845414de5dbcf4c16535b850c9947a6f850bf7b9603e8"/>
 	</game>
 	<game name="Ascent, The (USA) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.04 Merged)" id="1871">
 		<description>Ascent, The (USA) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.04 Merged)</description>
@@ -852,6 +872,16 @@
 		<description>Ash of Gods - Redemption (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.02 Patch)</description>
 		<game_id>EP3617-CUSA16018_00-ASHOFGODSGAME0EU</game_id>
 		<rom name="Ash of Gods - Redemption (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.02 Patch).pkg" size="304676864" crc="6d5fa319" md5="a968fd8083e052d56a38f6d0babcf630" sha1="e0ca2fa61da55b2b9f4f864d3cc24ef4740ec963" sha256="9f3c641dc757ab8b0c0516ca76b68b4f12963ea394124dee44fa86da30182a31"/>
+	</game>
+	<game name="Ashen (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hans,Ko,Pl,Ru)" id="4457">
+		<description>Ashen (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hans,Ko,Pl,Ru)</description>
+		<game_id>UP2470-CUSA14332_00-ASHENSIEA1111111</game_id>
+		<rom name="Ashen (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hans,Ko,Pl,Ru).pkg" size="6271401984" crc="f32bd631" md5="a8d5d5b11d700fbe2a7ed8710e90e91b" sha1="5b0ff70e8727dccd2e3f06312422c82215ac48f6" sha256="d858e1d06af61bc53ae4921d89f7551bf5ddbf0ec177cdcf16a4f28ae2caddf2"/>
+	</game>
+	<game name="Ashen (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hans,Ko,Pl,Ru)" id="4458">
+		<description>Ashen (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hans,Ko,Pl,Ru)</description>
+		<game_id>UP2470-CUSA14332_00-ASHENSIEA1111111</game_id>
+		<rom name="Ashen (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hans,Ko,Pl,Ru).pkg" size="1048576" crc="c97c5b5d" md5="1b99396aaa52e6d6c28286e0c20f2319" sha1="1e4df27c845baacd9f2a44573d27b6ba040f4f07" sha256="58d6d7268eee4a2e4c39068ffda6f99906fe1d07a8b85a2b70df5806c189211b"/>
 	</game>
 	<game name="Assassin's Creed - Valhalla (USA) (En,Fr,Es,Es-MX,Pt-BR) (v7.00 Merged)" id="2895">
 		<description>Assassin's Creed - Valhalla (USA) (En,Fr,Es,Es-MX,Pt-BR) (v7.00 Merged)</description>
@@ -1122,6 +1152,11 @@
 		<description>Backbone (USA) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Pl,Ru) (v1.02 Remaster)</description>
 		<game_id>UP2320-CUSA27222_00-BACKBONE00000000</game_id>
 		<rom name="Backbone (USA) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Pl,Ru) (v1.02 Remaster).pkg" size="2307719168" crc="1d7f63fe" md5="c2f7221447cb4c2ea2efa5f32e03e39c" sha1="84edb9a5abefbd730496706bc63410f427a70b93" sha256="082cfb096495b0c1ebb0d4ec646a68f5b9136ff00df57fb2b95b453ee2359096"/>
+	</game>
+	<game name="Bad Dudes vs Dragon Ninja (Europe)" id="4551">
+		<description>Bad Dudes vs Dragon Ninja (Europe)</description>
+		<game_id>EP5537-CUSA29088_00-DATAEAST0S000005</game_id>
+		<rom name="Bad Dudes vs Dragon Ninja (Europe).pkg" size="127401984" crc="9a0c8f77" md5="33a2e562da29776750d0365746f6f5f6" sha1="975495b9b01b7f6dc7a4f1509f29dc4a08c859f3" sha256="2f11ac68780d11b0a14273f8c846ed847b02baae6ec1966c425ce45c39ac98d0"/>
 	</game>
 	<game name="Baldo - The Guardian Owls (Europe) (En,Ja,Fr,Fr-CA,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru,Tr,Ar) (v1.16 Remaster)" id="4349">
 		<description>Baldo - The Guardian Owls (Europe) (En,Ja,Fr,Fr-CA,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru,Tr,Ar) (v1.16 Remaster)</description>
@@ -1516,6 +1551,11 @@
 		<description>Beat Saber (USA) (v1.67 Merged)</description>
 		<game_id>UP4882-CUSA12878_00-BEATSABERFULL000</game_id>
 		<rom name="Beat Saber (USA) (v1.67 Merged).pkg" size="2899181568" crc="9dd74fae" md5="e40f477525b44390f12f79e4cf2b5da4" sha1="f6a89c1656909c3e9d274402659ecd2fa3fe30c7" sha256="286ebff66361ab7c61df01be85856e7564ef7c4700caae0e586b28cc94646dd3"/>
+	</game>
+	<game name="Beat Saber (USA) (v1.65 Remaster)" id="4552">
+		<description>Beat Saber (USA) (v1.65 Remaster)</description>
+		<game_id>UP4882-CUSA12878_00-BEATSABERFULL000</game_id>
+		<rom name="Beat Saber (USA) (v1.65 Remaster).pkg" size="2750414848" crc="5609de5c" md5="da368d79694687a83504ec3070aeae0f" sha1="376fa68f7285c657d0d4187f2722d520bdde5c8a" sha256="0754ebdace7b694614713e2d227bd0a021b0c75401fb0b592f20a2540ddd8db3"/>
 	</game>
 	<game name="Beat Saber (USA) (v1.58 Merged)" id="2687">
 		<description>Beat Saber (USA) (v1.58 Merged)</description>
@@ -3558,6 +3598,11 @@
 		<game_id>UP0438-CUSA03742_00-BNCDEADLINEDGTL1</game_id>
 		<rom name="Breach &amp; Clear - Deadline (USA) (v1.01 Patch).pkg" size="1098514432" crc="91c49208" md5="f0b9cd1f64e9742089c45e899877f883" sha1="4e55dc7172136569149ebaef17d5cb15987d7419" sha256="4256eb033299bd5a4b96f44c3075937dddc1076fcf723f94dbb3d176ec33fca5"/>
 	</game>
+	<game name="Breakers Collection (Europe)" id="4553">
+		<description>Breakers Collection (Europe)</description>
+		<game_id>EP0546-CUSA34161_00-BREAKERSCOLLECEU</game_id>
+		<rom name="Breakers Collection (Europe).pkg" size="532873216" crc="90d551e1" md5="bb261c9869185588c5380e2bf6e0601b" sha1="134f476397989c6606144fb541b26587bdc0ff0d" sha256="145636c4df8f6134d084e767e955842bf13b21fb78fafd4955cc6ff3f781c247"/>
+	</game>
 	<game name="Breathedge (Europe) (En,Ja,Fr,De,Es-MX,Pt-BR,Zh-Hans,Ko,Pl,Ru,Tr) (Blu-ray)" id="0960">
 		<description>Breathedge (Europe) (En,Ja,Fr,De,Es-MX,Pt-BR,Zh-Hans,Ko,Pl,Ru,Tr) (Blu-ray)</description>
 		<game_id>EP4638-CUSA26769_00-7659346165537397</game_id>
@@ -4022,6 +4067,11 @@
 		<description>Call of Duty - Modern Warfare - Remastered (USA) (En,Fr,Es-MX,Pt) (Blu-ray)</description>
 		<game_id>UP0002-CUSA03522_00-CODMWRTHEGAME001</game_id>
 		<rom name="Call of Duty - Modern Warfare - Remastered (USA) (En,Fr,Es-MX,Pt) (Blu-ray).pkg" size="39542128640" crc="2261e89e" md5="009f72992cf2c146fc839a36b987524f" sha1="bf298b1b3a72c0cdf3ced3bcc08083474959a2f4" sha256="c9871f31ae2a09bdf8ca39748374b7b09104aa21845fdb77b33f624b31992b23"/>
+	</game>
+	<game name="Candleman (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Ar)" id="4459">
+		<description>Candleman (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Ar)</description>
+		<game_id>UP1947-CUSA28866_00-2021005000101040</game_id>
+		<rom name="Candleman (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Ar).pkg" size="1785724928" crc="c8c8906e" md5="bb0c54d4ee312874cf4764bd5f08998b" sha1="7f48bd3d54e40f1021e76c674dd47ff2ed77d7ff" sha256="4a5eaa70f4390e97f0e5344d0ba0049d61157df054930d58bf15dd778a51867e"/>
 	</game>
 	<game name="Captain Tsubasa - Rise of New Champions (USA) (En,Ja,Fr,Es-MX,Pt-BR) (v1.02 Patch)" id="0122">
 		<description>Captain Tsubasa - Rise of New Champions (USA) (En,Ja,Fr,Es-MX,Pt-BR) (v1.02 Patch)</description>
@@ -4598,10 +4648,20 @@
 		<game_id>CUSA25087</game_id>
 		<rom name="Clid The Snail (USA) (En,Ja,Fr-FR,De,Es-ES,Es-MX,It,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.04 Patch).pkg" size="2160656384" crc="d16de3d2" md5="f73bbfec57b4732f5e497d4e0d9a7c12" sha1="22323e2528b6fd665521badb72c32e515bc9f4ed" sha256="c7244cd49686d9fe19d550a18ae5bc41e310dc58f3bc786a42529d0856f38881"/>
 	</game>
+	<game name="Clid the Snail (USA) (En,Ja,Fr,De,Es,Es-MX,It,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.04 Remaster)" id="4554">
+		<description>Clid the Snail (USA) (En,Ja,Fr,De,Es,Es-MX,It,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.04 Remaster)</description>
+		<game_id>UP0814-CUSA25087_00-CLIDTHESNAIL2021</game_id>
+		<rom name="Clid the Snail (USA) (En,Ja,Fr,De,Es,Es-MX,It,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.04 Remaster).pkg" size="4348313600" crc="6b031cdf" md5="415067f0bf040de4952b5122d05a9877" sha1="2e44987b2dedd89391dbaac4a7abf8fd7d07af5f" sha256="eff8e9768c73e6f2e6edca48ed1b51c272701558b4d775e81193a06e3ba3c6e5"/>
+	</game>
 	<game name="Close to the Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Blu-ray)" id="0883">
 		<description>Close to the Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Blu-ray)</description>
 		<game_id>UP4382-CUSA15487_00-CLOSETOTHESUN000</game_id>
 		<rom name="Close to the Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Blu-ray).pkg" size="11685527552" crc="9e9fae3f" md5="bc2f430d1f24336efdbeb2d2219298e0" sha1="b5a86fe489ee9f3fd7cf0a5fd5f631669569e390" sha256="c21ccb0442d6302fe50e25f5a37833491ca89d51b01e9073a1ff087d0d1489f3"/>
+	</game>
+	<game name="Coffin Dodgers (Europe) (En,Fr,De,Es,It,Pt,Ru) (v1.02 Remaster)" id="4555">
+		<description>Coffin Dodgers (Europe) (En,Fr,De,Es,It,Pt,Ru) (v1.02 Remaster)</description>
+		<game_id>EP4459-CUSA04036_00-COFFINDODGERSPS4</game_id>
+		<rom name="Coffin Dodgers (Europe) (En,Fr,De,Es,It,Pt,Ru) (v1.02 Remaster).pkg" size="646512640" crc="bd275783" md5="f1524d4a247d587c5025daf6dff87825" sha1="3950d16163d189a6ef6371d459af4852e0107f2a" sha256="9239aab2828f1ce76b7df90acdef5502f25b8149a3875cd508d30b1afd5cebcd"/>
 	</game>
 	<game name="Cold Iron (Europe)" id="0146">
 		<description>Cold Iron (Europe)</description>
@@ -4998,6 +5058,11 @@
 		<game_id>EP2483-CUSA10525_00-RHSDDPS400000RAE</game_id>
 		<rom name="Darkest Dungeon (Europe) (En,Fr,De,Es,It,Pt-BR,Ko,Pl,Ru,Cs) (Blu-ray).pkg" size="1502216192" crc="3ae1257a" md5="11662a99a50557bf57b265a4dea967f1" sha1="8739a4b51657beb942361f8c0e67c7486515fbcc" sha256="7c6198810cf60e115868b458bc1a66abb008417ee02ea3749c54f568e49459ae"/>
 	</game>
+	<game name="DARQ - Ultimate Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pt-BR,Sv,No,Zh-Hans,Ko,Pl,Ru,El,Tr,Hu) (Blu-ray)" id="4460">
+		<description>DARQ - Ultimate Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pt-BR,Sv,No,Zh-Hans,Ko,Pl,Ru,El,Tr,Hu) (Blu-ray)</description>
+		<game_id>EP3385-CUSA34907_00-6443495652050095</game_id>
+		<rom name="DARQ - Ultimate Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pt-BR,Sv,No,Zh-Hans,Ko,Pl,Ru,El,Tr,Hu) (Blu-ray).pkg" size="3316973568" crc="d7636dac" md5="f768ecba845280918722153abcf2acde" sha1="d29ac2e050de3ad74c3d4c9dcbbe5686c4a50689" sha256="8e834a9804d0c64ba34e4199f32a14f3d9e07b469b15c610e7e07eab2360279a"/>
+	</game>
 	<game name="Daymare - 1998 (Japan) (En,Ja,De,Es,It,Pt-BR,Zh-Hans,Ru) (Blu-ray)" id="3291">
 		<description>Daymare - 1998 (Japan) (En,Ja,De,Es,It,Pt-BR,Zh-Hans,Ru) (Blu-ray)</description>
 		<game_id>JP1201-CUSA18168_00-DAYMARE000000000</game_id>
@@ -5051,6 +5116,11 @@
 		<description>Dead Cells (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.43 Remaster)</description>
 		<game_id>UP4016-CUSA11253_00-DEADCELLS0000000</game_id>
 		<rom name="Dead Cells (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.43 Remaster).pkg" size="1853489152" crc="e017a4e8" md5="2ec05f416dc9ff5485cd75a7f3732b9e" sha1="4c9b2df3c9c6956d6f4145b123ff79a2d8a2b881" sha256="a3945ebcc4cef4bc43efc0a5a60cca722b8668003c801ea6536b2479223f4473"/>
+	</game>
+	<game name="Dead Cells (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.45 Remaster)" id="4556">
+		<description>Dead Cells (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.45 Remaster)</description>
+		<game_id>UP4016-CUSA11253_00-DEADCELLS0000000</game_id>
+		<rom name="Dead Cells (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.45 Remaster).pkg" size="2433810432" crc="6e3a48da" md5="57188eab82670d1dd546785bad744bf9" sha1="a78b13e798e8ad1185c334761627e118cb4a0769" sha256="7784285b62c929191d222791f6b33c28972d97406dadfda182e800c566ac4d31"/>
 	</game>
 	<game name="Dead Cells (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Blu-ray)" id="0176">
 		<description>Dead Cells (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Blu-ray)</description>
@@ -5832,6 +5902,141 @@
 		<game_id>EP1410-CUSA06869_00-DISCOVERYVR00000</game_id>
 		<rom name="Discovery (Europe) (En,Fr,De,Es,It,Pt) (v1.02 Patch).pkg" size="134086656" crc="b0048d55" md5="7b4adc9a97fee3ca3b10f7753be4bc26" sha1="6c71199ee2def6a5d99944cdbe79bee684932ff3" sha256="8401007ff165e612f0fc4d0f44c1b8431497a0058713fba6f7e1472aaa0b5c93"/>
 	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance (USA) (En,Ja) (v1.01 Remaster)" id="4557">
+		<description>Disgaea 5 - Alliance of Vengeance (USA) (En,Ja) (v1.01 Remaster)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance (USA) (En,Ja) (v1.01 Remaster).pkg" size="4599316480" crc="4841f388" md5="f4bce34a1e650e46f24351a65a08e0d3" sha1="bc29e149afc43d630aa096739965981484e9efc1" sha256="08c935534e157308b0057a6ee63a5c7724f5877b40548819aa65e94ab4d0f935"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Awaken Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4559">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Awaken Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Awaken Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="b43ff47c" md5="439899380f81e2aa4fee6ec1ae278e5b" sha1="8a926ff6dc468529c1bd610164aad9afe08f7cb3" sha256="043b0a95553b14ac22021a85e829a4a6af272880ba0a70f07e566b419cce0fe8"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Celestial Hostess (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4560">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Celestial Hostess (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Celestial Hostess (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="fffd26f4" md5="93dc54f5be5c0b1afc61f47cc692150e" sha1="3e6589905f2d58f73bed50531cfd64f9283cfbe5" sha256="8cf9570cbce5a6ae95f08ee6b94f1a5380e950820a5923453fd244bb2258adc4"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Destruction Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4561">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Destruction Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Destruction Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="d8e3d6b2" md5="5e686a89211ff62f4692c9f920fa23e1" sha1="3ab13e051629c6b0cf1c1f72547670fa6f5e604f" sha256="41ab8850332570587e2c86a7fadec7e60bbda1395327094bf0b8be25c76634e4"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Evasion Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4562">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Evasion Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Evasion Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="d892da61" md5="0b23f2da337b68bdbe19c9e353d59a9b" sha1="76445549f3014866a01a7b529e0ccb06b5bcdcd7" sha256="9523941f2689cd04ee5a4fbb2886ea37faa86fced981a42f7c1f447734bfef11"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Girl Laharl (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4563">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Girl Laharl (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Girl Laharl (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="d3c21f5a" md5="ece99045869cfdbc38b92d06d7e56e86" sha1="9c9c53d615ad0ba59f8d3f07f1237dc33d2ce93f" sha256="3e33c068590e9a3a0309e7b5575c62045d29c61b4e06cbb468df5d5dc203bb3f"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - H252 Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4564">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - H252 Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - H252 Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="49642d4a" md5="1de4781da80aae7cca88e581475e09d4" sha1="d866ed247bbae2352cb24b4e9d4f4a4f71f72a89" sha256="8265086eade7a0d02db7c1f31a3789af9d6fb53978045fdb3b6c498106d93b47"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Helper Prinny Life (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4565">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Helper Prinny Life (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Helper Prinny Life (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="b320086d" md5="b0e95bac4bcc7af79651de8895a4c533" sha1="806e5bacd809de350fe29722c687950150d67803" sha256="d12fdb3e3e8f50729ceaeaef72557c35d546f4d01a625a9669b34cbc21560427"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Kunoichi (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4566">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Kunoichi (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Kunoichi (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="4e7b9a20" md5="3e678d392e820ff06bf9587758a63ad2" sha1="7b4952ebf3f490445af707fdb3e3a7847cb0d5d3" sha256="9ed6855a722c5f528ecd8f34d12d0a44249abd91021a66b7fe14e8f73945d544"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Magical Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4567">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Magical Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Magical Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="9619aeaf" md5="200c8687050bdf8327c9fb006d50d376" sha1="5193a06c49d091ebeb158f93b29e6d7cc42588ec" sha256="96b9a009d67d07bda9a911b614a531c4bf2cfd68edbf3b44cf33c954d1a23630"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Metalliaa (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4568">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Metalliaa (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Metalliaa (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="726901d0" md5="6c9a3e66e03342e198732d5387e3573e" sha1="ed6d556a2e7568c0f0f54b2cddaf5006d2e13d24" sha256="fbcf45dc595a2240fab369c933895e6aa492b8a3a89ce072322d3305e10d7bc2"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - N2 Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4569">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - N2 Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - N2 Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="7a1608a1" md5="0f5ce4ab695abeaec58da5f56ef1f73c" sha1="510b7d5a06ebed28d0fdbe2b6a089393eaabca21" sha256="4d18c9e0ee4fe04df35672ba7b7b89f4118b667532d505f7ca6d1aeef29a6942"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Nisa (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4570">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Nisa (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Nisa (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="f56903ec" md5="d94552fcce7357135d1564ec9c6ab39e" sha1="3518b39eeceb7044085087853cb38f33a28843b6" sha256="8af438f3bda14998951c18ffb15f509895a2b37c72150648a4536b072ae6719d"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Pleinair (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4558">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Pleinair (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Pleinair (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="6a4fdcff" md5="5f96167bcf360b96365d2d32b0607871" sha1="b6746467556d20846c516b88e9b385da67534049" sha256="07bd961fa71f989204541466b1d33a7fee50141d35627302bf1f2f0355abfa12"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Poor Clever Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4571">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Poor Clever Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Poor Clever Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="c132c18e" md5="e70c8a93dba40f4361d87c2c5ff93008" sha1="8006b58eb1c959f3ae99883ad7ad846baa28577f" sha256="daaa8775fd9f0e5b074c43948c877c9ac9b893ae0b92392a8b7e825e7890728b"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Pringer Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4572">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Pringer Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Pringer Prinny (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="2c285ba3" md5="8129730417dba6bb5f1e6722e7c269c9" sha1="a197d968904abe7dd250343c5d2598efac1c40e5" sha256="11cdc603065538ce1b31386c1da24ada6d0e2dc40dc9208a207cda84fb67bf18"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Character - Sorcerer (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4573">
+		<description>Disgaea 5 - Alliance of Vengeance - Character - Sorcerer (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Character - Sorcerer (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="c5434f90" md5="8e1dd5f57a7e75f07089e9cb72d342ec" sha1="0ad68ae5e9f20d315b129e83da357e286fa0f659" sha256="4e964c8f78cc30e016dfed9f15e399931fb33bfebf8d42a66ee0893a4605e24e"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Gift of Hell (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4574">
+		<description>Disgaea 5 - Alliance of Vengeance - Gift of Hell (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Gift of Hell (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="1afbfabe" md5="165648ea024afd5f184b10ee11402a03" sha1="b44e599c961204e3e59596a2dd8096264678f007" sha256="6f4efd2f2c1df819b930c6bee7bb8cc7fe76060e02fc1f17640b22ef24188c8a"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 2 - Adell Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4575">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 2 - Adell Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 2 - Adell Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="ee59e610" md5="5a175b7ee2d073f5c0b534c1fe5399d0" sha1="a83c20099abd0ec24cf292be29b0897cd19f910c" sha256="7d8129f92e68d212a1b0b0afb5f15705746750cbae29d2a34951a56339cef99b"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 3 - Almaz Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4576">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 3 - Almaz Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 3 - Almaz Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="662bb4d3" md5="83e621bcd4fbd219e474cd7dd0eb3135" sha1="56ae9bce8d993c3056ef30392651e53c410495a6" sha256="26a987b53e9f136188069c23e7483b8b30cdf539b8fc4cb21d5d6ec88478a70e"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 3 - Mao Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4577">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 3 - Mao Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 3 - Mao Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="1ae932c6" md5="8937202bb29a373ddd837f617439b3e6" sha1="79801a189dfc6777bf777097fe990b937df2b23a" sha256="b739d98e6e5e8eaccac5a5e899eabcc3ef7dcc6f68462f90dea778ee2f2e0e05"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 4 - Fuka Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4578">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 4 - Fuka Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 4 - Fuka Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="7da66a8e" md5="4d519d3fbd94a2499dc2f61f8fb58cdd" sha1="c8988fc5b6e633bea867c3ee3d55d74338a24589" sha256="95aa2643b1108de337da6820ec8e62276f694312b35d6dde706b2e795687a263"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 4 - Valvatorez Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4579">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 4 - Valvatorez Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea 4 - Valvatorez Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="c333ffae" md5="dd15e2619b2685e8a305e992e5934a1c" sha1="db9059f64db0adb5adcf05b3a0adcca21ab3449e" sha256="48cf21d7dfc3883ef072871f4ced532a1ce79d5eda585c0ab3d5b021bdce5bd8"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea D2 - Laharl Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4580">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea D2 - Laharl Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - Disgaea D2 - Laharl Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="c89576ce" md5="7617a4b3ed9801375d2a246dcb98b55a" sha1="3c79c1f3b44c2ced777418234631567970684f71" sha256="d6e27fced313726b8b6763cbf9a41832ee41ec445a549ad11bca7f2520263fd2"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - La Pucelle - Priere Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4581">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - La Pucelle - Priere Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - La Pucelle - Priere Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="81c530e4" md5="16d0bd3654a58b1eeb661a1c3543ae39" sha1="6d97dde4eaa37e1a15b3d04439b90175ca3b0f7c" sha256="b72ccb365c3b633ac3ea116ddaee4a6c40b1cdd2ba0c38a9952e6ef665749553"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Scenario - Makai Kingdom - Zetta Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4582">
+		<description>Disgaea 5 - Alliance of Vengeance - Scenario - Makai Kingdom - Zetta Episode (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Scenario - Makai Kingdom - Zetta Episode (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="e8d3f41f" md5="a416e188da23415a5bd6b510c90f0375" sha1="70135b729253bbd4d5d9e106d9e9fbb457ef85cb" sha256="dbd1b331d95bac0d02874418664d591e2570ae8b6582f2cd2026271778998197"/>
+	</game>
+	<game name="Disgaea 5 - Alliance of Vengeance - Weapon Starter Set (USA) (En,Ja) (v1.01 Remaster) (DLC)" id="4583">
+		<description>Disgaea 5 - Alliance of Vengeance - Weapon Starter Set (USA) (En,Ja) (v1.01 Remaster) (DLC)</description>
+		<game_id>UP1063-CUSA02629_00-DISGAEA500000001</game_id>
+		<rom name="Disgaea 5 - Alliance of Vengeance - Weapon Starter Set (USA) (En,Ja) (v1.01 Remaster) (DLC).pkg" size="1114112" crc="9289336b" md5="798541dca35cae8afaf1d816855806b8" sha1="ea66c047956bc6363848e712ba86365ddce70d46" sha256="5faf90a6951343988064c4c325ea7dc1a4f5288ea713455d8470ac92fec58454"/>
+	</game>
 	<game name="Dishonored - Definitive Edition (USA) (En,Fr,Es) (Blu-ray)" id="1010">
 		<description>Dishonored - Definitive Edition (USA) (En,Fr,Es) (Blu-ray)</description>
 		<game_id>UP1003-CUSA02218_00-DISHONOREDGAMENA</game_id>
@@ -6470,15 +6675,15 @@
 		<game_id>UP1018-CUSA03946_00-DLEEGAME00000000</game_id>
 		<rom name="Dying Light - The Following - Enhanced Edition (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged).pkg" size="20653801472" crc="93e7e0a8" md5="f6dcb31a2f331f48711438906e6d6334" sha1="b9104b71ca264507d44726449de2f2854f1afc59" sha256="baba49a767c3128d94c70ab9c08d9d47ef863384901153c8e2c5f350c4f5e628"/>
 	</game>
-	<game name="Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC)" id="2747">
-		<description>Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC)</description>
-		<game_id>UP1018-CUSA03946_00-DLEEGAME00000000</game_id>
-		<rom name="Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC).pkg" size="1048576" crc="3e1561e7" md5="2a8ca44bf38f11b195ebedf609264de1" sha1="2a15c9cf374ba2c60e388091d31bface5cc506fe" sha256="7ea2d22ede1b9578b3848f5411ba77a56145a9cfa2d82a353285ead771d6141b"/>
-	</game>
 	<game name="Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (DLC)" id="0227">
 		<description>Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (DLC)</description>
 		<game_id>EP1018-CUSA00050_00-*</game_id>
 		<rom name="Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (DLC).pkg" size="1048576" crc="013f9ae5" md5="87c37d8b7302d5fdb4359fcb47cc23e0" sha1="d78cab656cb6f1d91acc27c4bed54a1cd009f996" sha256="73c0c9db2252435b7cf0bd76d9b9e1052c37d65ffcc7cf3878c5570676605d89"/>
+	</game>
+	<game name="Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC)" id="2747">
+		<description>Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC)</description>
+		<game_id>UP1018-CUSA03946_00-DLEEGAME00000000</game_id>
+		<rom name="Dying Light - The Following - Enhanced Edition - 5th Anniversary Bundle (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC).pkg" size="1048576" crc="3e1561e7" md5="2a8ca44bf38f11b195ebedf609264de1" sha1="2a15c9cf374ba2c60e388091d31bface5cc506fe" sha256="7ea2d22ede1b9578b3848f5411ba77a56145a9cfa2d82a353285ead771d6141b"/>
 	</game>
 	<game name="Dying Light - The Following - Enhanced Edition - Alienware Outfit (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC)" id="2748">
 		<description>Dying Light - The Following - Enhanced Edition - Alienware Outfit (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged) (DLC)</description>
@@ -6840,15 +7045,25 @@
 		<game_id>UP0700-CUSA28863_00-ELDENRING0000000</game_id>
 		<rom name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.09 Merged).pkg" size="31741247488" crc="0178afd4" md5="893c5fd19e17abb5b6d78e8910ec72c7" sha1="a417d84e56d7578fe74a9e1c4ffbb63a4c986b8f" sha256="ed4661654898368ae228976c18f429cf1db474c809ec26b61acc28732d517953"/>
 	</game>
-	<game name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.10 Merged)" id="3357">
-		<description>Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.10 Merged)</description>
+	<game name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.11 Patch)" id="4584">
+		<description>Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.11 Patch)</description>
 		<game_id>UP0700-CUSA28863_00-ELDENRING0000000</game_id>
-		<rom name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.10 Merged).pkg" size="31862161408" crc="7acc6caa" md5="e1be5e2421b475a867498e2b5356ca10" sha1="7f6f2dd60fa2f4d3938590a46004c04a9d66469f" sha256="a69979c762072544aa7757e114fe2c7d123bac5958e5179984e8c31f2f77d9f1"/>
+		<rom name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.11 Patch).pkg" size="4766105600" crc="fe2624b8" md5="0d443c0a5f082b572178832fc7faa268" sha1="ad0cf67eb354da427bbe3d46c2447a9236692488" sha256="428947a7c727f20ad618e067213a0e42525bf5c11d7290c4fbd09095ebd882e6"/>
+	</game>
+	<game name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.12 Patch)" id="4585">
+		<description>Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.12 Patch)</description>
+		<game_id>UP0700-CUSA28863_00-ELDENRING0000000</game_id>
+		<rom name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.12 Patch).pkg" size="4766105600" crc="4b24ef4a" md5="fd276303d683f4e70d2c4dfb012ea32c" sha1="d09b99f93578bd5c8848e80c2b2a96e19d19d093" sha256="7fec24025e6b72ae217fbef9ddfa7e00d10f1da5b8b9d2025ccb33781ef001df"/>
 	</game>
 	<game name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.05 Merged)" id="1328">
 		<description>Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.05 Merged)</description>
 		<game_id>UP0700-CUSA28863_00-ELDENRING0000000</game_id>
 		<rom name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.05 Merged).pkg" size="31738888192" crc="c99d0235" md5="6a5e5a652877b81a139286ade00eede7" sha1="effeccb6990e354879c50755359bad92c46e71b9" sha256="732f8e1619d76e0a514f7608818a262b8f8a4c0b210b162b466e26f2a05f005e"/>
+	</game>
+	<game name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.10 Merged)" id="3357">
+		<description>Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.10 Merged)</description>
+		<game_id>UP0700-CUSA28863_00-ELDENRING0000000</game_id>
+		<rom name="Elden Ring (USA) (En,Fr,Es,Pt-BR) (v1.10 Merged).pkg" size="31862161408" crc="7acc6caa" md5="e1be5e2421b475a867498e2b5356ca10" sha1="7f6f2dd60fa2f4d3938590a46004c04a9d66469f" sha256="a69979c762072544aa7757e114fe2c7d123bac5958e5179984e8c31f2f77d9f1"/>
 	</game>
 	<game name="Elden Ring - Bonus Gesture - The Ring (USA) (En,Fr,Es,Pt-BR) (DLC)" id="1329">
 		<description>Elden Ring - Bonus Gesture - The Ring (USA) (En,Fr,Es,Pt-BR) (DLC)</description>
@@ -7343,6 +7558,26 @@
 		<game_id>EP0006-CUSA31873_00-FIFAFOOTBALL2023</game_id>
 		<rom name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.01 Patch).pkg" size="1065418752" crc="aca9b999" md5="9a640c6f75e61038d6eb101d9d18d2fe" sha1="ef860d1f1d5e61be8be8d9032907673f5e396e23" sha256="10cbaed6574cf382507f57f2314bf23cc565cc286e4d06e1daceaf6ba3dec19b"/>
 	</game>
+	<game name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.02 Patch &amp; Audio Language Add-ons)" id="4586">
+		<description>FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.02 Patch &amp; Audio Language Add-ons)</description>
+		<game_id>EP0006-CUSA31873_00-FIFAFOOTBALL2023</game_id>
+		<rom name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.02 Patch &amp; Audio Language Add-ons).pkg" size="1192165376" crc="e36b3e1d" md5="8255faaae7d6df5922219c1e5e90d0ff" sha1="40d0b9927d71ce0ee4ec6f01cbf32075c62361d8" sha256="8d658596763409d8f3d74b64c2615f096fb374a00c0ebe90816284f226a2c70b"/>
+	</game>
+	<game name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.07 Patch &amp; Audio Language Add-ons)" id="4587">
+		<description>FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.07 Patch &amp; Audio Language Add-ons)</description>
+		<game_id>EP0006-CUSA31873_00-FIFAFOOTBALL2023</game_id>
+		<rom name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.07 Patch &amp; Audio Language Add-ons).pkg" size="6248726528" crc="4af2fff7" md5="65a4d0877168847c1b680e8000539792" sha1="74fc09339d0b21eff223d5a3ce1bf3b881c34e56" sha256="1bd6171de43f5b90f8682bfd4bcde352d6e18cb59f0c8d4f9e6a9f8d6e9b7805"/>
+	</game>
+	<game name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.09 Patch &amp; Audio Language Add-ons)" id="4588">
+		<description>FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.09 Patch &amp; Audio Language Add-ons)</description>
+		<game_id>EP0006-CUSA31873_00-FIFAFOOTBALL2023</game_id>
+		<rom name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.09 Patch &amp; Audio Language Add-ons).pkg" size="6744309760" crc="7beb21b1" md5="5179e5df83c7f242d0aaf524c47de113" sha1="a4bb3a69d1a058ba38ed12c8292f3fc9ff400e5e" sha256="47efcc221134c6c34825d7bc97d4fdac6d2abee78d665623bdd59416e7c7bac6"/>
+	</game>
+	<game name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.10 Patch &amp; Audio Language Add-ons)" id="4589">
+		<description>FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.10 Patch &amp; Audio Language Add-ons)</description>
+		<game_id>EP0006-CUSA31873_00-FIFAFOOTBALL2023</game_id>
+		<rom name="FIFA 23 (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (v1.10 Patch &amp; Audio Language Add-ons).pkg" size="6765477888" crc="364a224b" md5="b53183bd1b9a9c4a705546d278f5948c" sha1="518651a02e118e3871ed04a0c94d794c902c96c9" sha256="935e4f90ee8aa24a5608e15d6373dfabc37a7e1e4ed201e68ec6945fdabab5ae"/>
+	</game>
 	<game name="FIFA 23 - Brazilian Portuguese Audio (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (Addon)" id="3407">
 		<description>FIFA 23 - Brazilian Portuguese Audio (Europe) (En,Fr,De,Es,It,Nl,Pt-BR,Sv,No,Da) (Addon)</description>
 		<game_id>EP0006-CUSA31873_00-FIFAFOOTBALL2023</game_id>
@@ -7422,11 +7657,6 @@
 		<description>Final Fanasy - Crystal Chronicles - Remastered Edition - Yuris Crystal (World) (DLC)</description>
 		<rom name="Final Fanasy - Crystal Chronicles - Remastered Edition - Yuris Crystal (World) (DLC).pkg" size="1048576" crc="f086d49d" md5="2fb242c42ef5ecebffb39d50f55ed914" sha1="c20b9bcc1ef64d6116d5aa7eedee5c8a6fb09823" sha256="96c6f32b00189ce7a4804b4c046cb5cf66e98c2a5f91a2be84b0b39d3cf9ba13"/>
 	</game>
-	<game name="Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (v1.01 Patch)" id="0241">
-		<description>Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (v1.01 Patch)</description>
-		<game_id>UP0082-CUSA07211_00-FFVIIREMAKE00000</game_id>
-		<rom name="Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (v1.01 Patch).pkg" size="135659520" crc="9a16024b" md5="4230a7ce8fe4811b030ef401011131ab" sha1="8bcb9cf6a8b1033b390a7f78820d1f90c1c07c46" sha256="be5ea686a57ff8e8cedfd627a66f83b435b000831ff963ad041c355926b644c6"/>
-	</game>
 	<game name="Final Fantasy VII Remake (USA) (En,Ja) (Demo)" id="1037">
 		<description>Final Fantasy VII Remake (USA) (En,Ja) (Demo)</description>
 		<game_id>UP0177-CUSA06997_00-YAKUZAKIWAMI0100</game_id>
@@ -7436,6 +7666,11 @@
 		<description>Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (Blu-ray)</description>
 		<game_id>UP0082-CUSA07211_00-FFVIIREMAKE00000</game_id>
 		<rom name="Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (Blu-ray).pkg" size="85757329408" crc="bdd88d2c" md5="cc5e479d87a2520da78975144999eeb6" sha1="3702e39d276c9c50edda465cc6576f209f92d013" sha256="015d999b786b6be968519d5068985cff03aa7ec459381f887e4e31f88fd1a711"/>
+	</game>
+	<game name="Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (v1.01 Patch)" id="0241">
+		<description>Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (v1.01 Patch)</description>
+		<game_id>UP0082-CUSA07211_00-FFVIIREMAKE00000</game_id>
+		<rom name="Final Fantasy VII Remake (USA) (En,Fr,De,Es,It,Pt-BR) (v1.01 Patch).pkg" size="135659520" crc="9a16024b" md5="4230a7ce8fe4811b030ef401011131ab" sha1="8bcb9cf6a8b1033b390a7f78820d1f90c1c07c46" sha256="be5ea686a57ff8e8cedfd627a66f83b435b000831ff963ad041c355926b644c6"/>
 	</game>
 	<game name="Final Fantasy VII Remake - Cactuar Summoning Materia (USA) (En,Fr,De,Es,It,Pt-BR) (DLC)" id="0240">
 		<description>Final Fantasy VII Remake - Cactuar Summoning Materia (USA) (En,Fr,De,Es,It,Pt-BR) (DLC)</description>
@@ -7567,6 +7802,11 @@
 		<game_id>EP3717-CUSA13959_00-APP0990000000022</game_id>
 		<rom name="Forager (Europe) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Ko,Ru,Tr,Th) (v1.02 Patch).pkg" size="88080384" crc="9bf0c29a" md5="828cc6ce3a351f5e78614bdf3acd8a9f" sha1="ecea9df0b141f6eebd7d897f9f6a727422ce7a0a" sha256="e43ed4d87276f12995ef8f66462f4576b5b8b3d525ba8598d834a8b1e2de426d"/>
 	</game>
+	<game name="Foreclosed (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Ko,Ru) (v1.03 Remastered)" id="4590">
+		<description>Foreclosed (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Ko,Ru) (v1.03 Remastered)</description>
+		<game_id>EP1121-CUSA25005_00-FORECLOSED000000</game_id>
+		<rom name="Foreclosed (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Ko,Ru) (v1.03 Remastered).pkg" size="712769536" crc="832468c0" md5="2f22027e36b095ca03961bd552c6adf5" sha1="d31ca67f46d4cbaa95f62f57b4c6fc4012c52d26" sha256="9814a99a1e7e60eba6c31c8a2ca6290811c03f54de4c569325026d62e9255c0f"/>
+	</game>
 	<game name="Forest, The (Europe) (En,Fr,De,Es,It) (v1.15 Merged)" id="0369">
 		<description>Forest, The (Europe) (En,Fr,De,Es,It) (v1.15 Merged)</description>
 		<game_id>EP0238-CUSA12398_00-THEFOREST0000000</game_id>
@@ -7616,6 +7856,11 @@
 		<description>Game Tengoku - CruisinMix Special (USA) (En,Ja) (v1.05 Patch)</description>
 		<game_id>UP1056-CUSA09738_00-GAMETENGOKUUS000</game_id>
 		<rom name="Game Tengoku - CruisinMix Special (USA) (En,Ja) (v1.05 Patch).pkg" size="176488448" crc="3fd8d76f" md5="7af75c6612b722923e5099bdf1224471" sha1="28f357af99b9bff32564e5c3319219757e0e1cb5" sha256="50e26dedb75a9c477a086f8a428dfeb64499a448f071d3caa6743503c85527e3"/>
+	</game>
+	<game name="Ganryu 2 - Hakuma Kojiro (USA) (En,Ja,Fr,De,Es,It,Pt-BR) (v1.05 Merged)" id="4461">
+		<description>Ganryu 2 - Hakuma Kojiro (USA) (En,Ja,Fr,De,Es,It,Pt-BR) (v1.05 Merged)</description>
+		<game_id>UP8016-CUSA32759_00-GANRYUGAMEUSAPS4</game_id>
+		<rom name="Ganryu 2 - Hakuma Kojiro (USA) (En,Ja,Fr,De,Es,It,Pt-BR) (v1.05 Merged).pkg" size="265879552" crc="c3d0a582" md5="55cf2720f9d56189a510332f2c5cac14" sha1="18e22f666c777c7df01a6aecbe0b1bf24b34e813" sha256="31e605668989f6662c0cac854fc3a21e262e9d3895d5499f606db3f0bca4c381"/>
 	</game>
 	<game name="Garou - Mark of the Wolves (USA) (Blu-ray)" id="0253">
 		<description>Garou - Mark of the Wolves (USA) (Blu-ray)</description>
@@ -7741,6 +7986,11 @@
 		<description>Giga Wrecker Alt (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ru) (Blu-ray)</description>
 		<game_id>UP4034-CUSA13806_00-GIGAWRECKERUS000</game_id>
 		<rom name="Giga Wrecker Alt (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ru) (Blu-ray).pkg" size="1152581632" crc="45050fb2" md5="912608acc3ebb390582a51342ceb6725" sha1="e7064e486de586e8c649cfa53bd19a59eaabfc58" sha256="dca3a2f5faadcebffe48c628ba64a95412554ea524edc986d1e375b93478821b"/>
+	</game>
+	<game name="Ginga Force (USA) (En,Fr) (v1.02 Remaster)" id="4591">
+		<description>Ginga Force (USA) (En,Fr) (v1.02 Remaster)</description>
+		<game_id>UP4034-CUSA19572_00-0000000000000000</game_id>
+		<rom name="Ginga Force (USA) (En,Fr) (v1.02 Remaster).pkg" size="2189099008" crc="ce85fbd8" md5="eba62454c81ab1f5efe4b47f172593f6" sha1="703b5ced16fc8d1b164543d2bdbe50a6b53118ba" sha256="6fe6deeae5f7e6aed423f8ab209cc842a4ad434f6be2e8e053a91ac4605e0ca9"/>
 	</game>
 	<game name="Gleamlight (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh-Hans,Ko,Ru)" id="0260">
 		<description>Gleamlight (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh-Hans,Ko,Ru)</description>
@@ -8086,6 +8336,11 @@
 		<description>Green Hell (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Sv,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Vi) (v1.03 Merged)</description>
 		<game_id>UP6469-CUSA26546_00-0000000000000000</game_id>
 		<rom name="Green Hell (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Sv,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Vi) (v1.03 Merged).pkg" size="2021212160" crc="20976670" md5="2eb05b21ffe4958d2b564d2340c5000e" sha1="99cd159240bd179016badb5dc52594e37af58005" sha256="b9d7009295f866850458ebb31ee8947def1ce132134453406fd9e5ce2f801c3c"/>
+	</game>
+	<game name="Green Hell (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Sv,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Vi) (v1.07 Remaster)" id="4462">
+		<description>Green Hell (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Sv,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Vi) (v1.07 Remaster)</description>
+		<game_id>UP6469-CUSA26546_00-0000000000000000</game_id>
+		<rom name="Green Hell (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Sv,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Vi) (v1.07 Remaster).pkg" size="2710568960" crc="ea06d1f6" md5="74689abfd24486d366da522262e06bba" sha1="7e8bdd3d30ed5d65afcacbe62c7457e2f2c4d953" sha256="6e55880a46d6ec90691fd97e1d84f40678e6740821b3f389399286d3950630e8"/>
 	</game>
 	<game name="GRID (USA) (En,Fr,De,Es,It,Pt-BR,Pl) (v3.07 Patch)" id="0929">
 		<description>GRID (USA) (En,Fr,De,Es,It,Pt-BR,Pl) (v3.07 Patch)</description>
@@ -9061,30 +9316,30 @@
 		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
 		<rom name="Horizon Chase Turbo (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (v1.22 Patch).pkg" size="468779008" crc="0a3ec249" md5="191e712978233f86bf26c4b5caae773f" sha1="d47135379b4e712464c0533ef8ce75691d85aaa1" sha256="eec01c0839052682bc11ba566967ed693df72fdb014e6a5e20c081cccce80973"/>
 	</game>
-	<game name="Horizon Chase Turbo (USA) (v2.11 Patch)" id="1082">
-		<description>Horizon Chase Turbo (USA) (v2.11 Patch)</description>
-		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
-		<rom name="Horizon Chase Turbo (USA) (v2.11 Patch).pkg" size="666435584" crc="1e1252aa" md5="5cecb36360c271cf09eb07c05fd74dfb" sha1="887fdd719d4800fa35503d36dda40a5f63463ddf" sha256="5e46f4352c5eb113ba21f62d87381517f477d1a773b7a17951f15396a9c6ead2"/>
-	</game>
 	<game name="Horizon Chase Turbo (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (v2.51 Merged)" id="4439">
 		<description>Horizon Chase Turbo (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (v2.51 Merged)</description>
 		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
 		<rom name="Horizon Chase Turbo (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (v2.51 Merged).pkg" size="670564352" crc="5c095cff" md5="f395a516637c7f93ee5a48f8b41232d7" sha1="ff2d74ddee0041cce9052be741d89f8482f523a4" sha256="1e0d5d55657905613cdf9123ec458ea79e838655863146ffb694f14aa8fc0fca"/>
+	</game>
+	<game name="Horizon Chase Turbo (USA) (v2.11 Patch)" id="1082">
+		<description>Horizon Chase Turbo (USA) (v2.11 Patch)</description>
+		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
+		<rom name="Horizon Chase Turbo (USA) (v2.11 Patch).pkg" size="666435584" crc="1e1252aa" md5="5cecb36360c271cf09eb07c05fd74dfb" sha1="887fdd719d4800fa35503d36dda40a5f63463ddf" sha256="5e46f4352c5eb113ba21f62d87381517f477d1a773b7a17951f15396a9c6ead2"/>
 	</game>
 	<game name="Horizon Chase Turbo (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (v2.50 Merged)" id="3489">
 		<description>Horizon Chase Turbo (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (v2.50 Merged)</description>
 		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
 		<rom name="Horizon Chase Turbo (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (v2.50 Merged).pkg" size="670564352" crc="7b309bda" md5="d36ec73cbfffc1f27705c76d01e683f0" sha1="a5ba0f035c618035a2984fdd758a5d1e07d9292e" sha256="3ac5edab3af35fd39dd55a8a08ed54605abde0c76a0e3e210c0b72bad0325313"/>
 	</game>
-	<game name="Horizon Chase Turbo - Rookie Series (USA) (DLC) (Alt)" id="1083">
-		<description>Horizon Chase Turbo - Rookie Series (USA) (DLC) (Alt)</description>
-		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
-		<rom name="Horizon Chase Turbo - Rookie Series (USA) (DLC) (Alt).pkg" size="1048576" crc="d402139f" md5="0e5247e8ecddbd109bd1189b043c1317" sha1="af28e4c911cf78a65844e805745890f0e7c67761" sha256="4c3588f8c1fbeac20fb1344cfae2cbc32dffb5efabc21baa653e7510139e934b"/>
-	</game>
 	<game name="Horizon Chase Turbo - Rookie Series (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (DLC)" id="0458">
 		<description>Horizon Chase Turbo - Rookie Series (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
 		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
 		<rom name="Horizon Chase Turbo - Rookie Series (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="1048576" crc="a9f96470" md5="ee78705788060e9652030d81120c86b3" sha1="86bbadfc443560dbf663909935a215cfc92bcde5" sha256="e142242683a08ecc89c3ab23f08539456ccc75b176491840ad837dc6cdd137da"/>
+	</game>
+	<game name="Horizon Chase Turbo - Rookie Series (USA) (DLC) (Alt)" id="1083">
+		<description>Horizon Chase Turbo - Rookie Series (USA) (DLC) (Alt)</description>
+		<game_id>UP0040-CUSA11275_00-HORIZONTURBOGAME</game_id>
+		<rom name="Horizon Chase Turbo - Rookie Series (USA) (DLC) (Alt).pkg" size="1048576" crc="d402139f" md5="0e5247e8ecddbd109bd1189b043c1317" sha1="af28e4c911cf78a65844e805745890f0e7c67761" sha256="4c3588f8c1fbeac20fb1344cfae2cbc32dffb5efabc21baa653e7510139e934b"/>
 	</game>
 	<game name="Horizon Chase Turbo - Senna Forever (USA) (DLC)" id="1880">
 		<description>Horizon Chase Turbo - Senna Forever (USA) (DLC)</description>
@@ -9164,6 +9419,11 @@
 		<description>Human - Fall Flat (Europe) (v1.01 Patch)</description>
 		<game_id>EP4395-CUSA07208_00-HUMANFF00SIEEPS4</game_id>
 		<rom name="Human - Fall Flat (Europe) (v1.01 Patch).pkg" size="233308160" crc="182f6360" md5="0530f3c450d3adbd28791fa9a75de1a3" sha1="6c78881df154dcf898ffad652e5c48543fb77689" sha256="eef90efa0005480247825fc31dee48f8ed7634cf68d9a066870cbc6dc22ab90e"/>
+	</game>
+	<game name="Human Fall Flat (Europe) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru) (v1.17 Remaster)" id="4463">
+		<description>Human Fall Flat (Europe) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru) (v1.17 Remaster)</description>
+		<game_id>EP4395-CUSA07208_00-HUMANFF00SIEEPS4</game_id>
+		<rom name="Human Fall Flat (Europe) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru) (v1.17 Remaster).pkg" size="1851523072" crc="06722a68" md5="f6b0df008c22c34f6bb1e58cd3086768" sha1="b0c8fe059b86df21b4bf9f71a8d4166317751170" sha256="845db8ba969d746ad65013be088db4aff6f942d1211a1f81ee3bfb62689746d0"/>
 	</game>
 	<game name="Huntdown (USA) (En,Ja,Fr,De,Es,It,Zh-Hans) (Blu-ray)" id="0463">
 		<description>Huntdown (USA) (En,Ja,Fr,De,Es,It,Zh-Hans) (Blu-ray)</description>
@@ -9919,6 +10179,11 @@
 		<game_id>HP0082-CUSA24519_00-LOMPS4ASIA000001</game_id>
 		<rom name="Legend of Mana - Remastered (Asia) (En,Ja,Fr,De,Es,Zh-Hant,Zh-Hans,Ko) (v1.10 Patch).pkg" size="483000320" crc="46a06d30" md5="c90887c4fde746aa77e5e00b6b618710" sha1="4a0a39206e2155c8322fa8520680a1365635289c" sha256="0d1ce6dd476e1d192e1c842cb784ba2f7479e82af2d86c2643f0eb108920959e"/>
 	</game>
+	<game name="Legends of Ethernal (Europe) (En,Fr-FR,Fr-CA,De,Es,Es-MX,It) (v1.01 Remaster)" id="4447">
+		<description>Legends of Ethernal (Europe) (En,Fr-FR,Fr-CA,De,Es,Es-MX,It) (v1.01 Remaster)</description>
+		<game_id>EP1014-CUSA24879_00-LOEEU00000000001</game_id>
+		<rom name="Legends of Ethernal (Europe) (En,Fr-FR,Fr-CA,De,Es,Es-MX,It) (v1.01 Remaster).pkg" size="862846976" crc="5715251f" md5="2bc0e839e1a0a5205b1d377ec9099b50" sha1="8ea3c89cfb9791b4c3ded9c9e36bd61a8b89341e" sha256="be66e6968b600c1a14cfb76c140e3c7d354d9015c34bd252beab3df23cbe591b"/>
+	</game>
 	<game name="LEGO DC Super-Villains (USA) (En,Fr,De,Es,It,Nl,Da,Pl,Ru,Ar) (v1.08 Patch)" id="0515">
 		<description>LEGO DC Super-Villains (USA) (En,Fr,De,Es,It,Nl,Da,Pl,Ru,Ar) (v1.08 Patch)</description>
 		<game_id>UP1018-CUSA11542_00-LEGODCVILLAINS00</game_id>
@@ -10137,15 +10402,15 @@
 		<description>Madden NFL 21 (World)</description>
 		<rom name="Madden NFL 21 (World).pkg" size="32726056960" crc="fdf784dc" md5="a46f375a11a5b29295f5db1c21cb2986" sha1="af8afdf3f2d59788dcd72ff440195ee5b16eef08" sha256="908c8d92d1494cb949b9b7be4c92be7ff965bfb6e5f2cf187641ab9f44e0cf77"/>
 	</game>
-	<game name="Madden NFL 22 (USA) (v2.04 Merged)" id="1066">
-		<description>Madden NFL 22 (USA) (v2.04 Merged)</description>
-		<game_id>UP0006-CUSA25551_00-MADDENNFL22GAME1</game_id>
-		<rom name="Madden NFL 22 (USA) (v2.04 Merged).pkg" size="46322024448" crc="30c838ce" md5="784d02d06f30e1c4bd632093c7b5d598" sha1="4aa7c2eac34edf432a42588ae0e9789412746f0b" sha256="81c762d1bdebf5bb7181221a1d0ee474740b31b44113277a6ec1891a8075a0dd"/>
-	</game>
 	<game name="Madden NFL 22 (USA) (v2.10 Merged)" id="2814">
 		<description>Madden NFL 22 (USA) (v2.10 Merged)</description>
 		<game_id>UP0006-CUSA25551_00-MADDENNFL22GAME1</game_id>
 		<rom name="Madden NFL 22 (USA) (v2.10 Merged).pkg" size="46847033344" crc="56f4d479" md5="813b89ace699ad374dfbbd77a319c61b" sha1="6c85104ff3fd2e6587b3c68d5fa56565ea2909ff" sha256="7165638317c98a2e1d9dc7e85b7036d461598670b1e0a767169267a15a0bf8b2"/>
+	</game>
+	<game name="Madden NFL 22 (USA) (v2.04 Merged)" id="1066">
+		<description>Madden NFL 22 (USA) (v2.04 Merged)</description>
+		<game_id>UP0006-CUSA25551_00-MADDENNFL22GAME1</game_id>
+		<rom name="Madden NFL 22 (USA) (v2.04 Merged).pkg" size="46322024448" crc="30c838ce" md5="784d02d06f30e1c4bd632093c7b5d598" sha1="4aa7c2eac34edf432a42588ae0e9789412746f0b" sha256="81c762d1bdebf5bb7181221a1d0ee474740b31b44113277a6ec1891a8075a0dd"/>
 	</game>
 	<game name="MADiSON (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Pl,Ru,Tr,Ar,Ro) (v1.25 Remaster)" id="4388">
 		<description>MADiSON (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Pl,Ru,Tr,Ar,Ro) (v1.25 Remaster)</description>
@@ -11695,6 +11960,11 @@
 		<game_id>EP3717-CUSA35014_00-MOONSCARS000PS4E</game_id>
 		<rom name="Moonscars (Europe) (En,Ja,Fr,De,Es-MX,Zh-Hans) (v1.02 Merged).pkg" size="351666176" crc="c7a08683" md5="ad8eceba791e1105d7c6c880c15f908e" sha1="618c8cbc3eff87556a64e160edb4ad19b96b2252" sha256="033cf772a574acc5bbb5bf8b64933ef59694ad2ae6b521370c6a728f7cd9f4e9"/>
 	</game>
+	<game name="Moonscars (Europe) (En,Ja,Fr,De,Es-MX,Zh-Hans) (v1.03 Merged)" id="4464">
+		<description>Moonscars (Europe) (En,Ja,Fr,De,Es-MX,Zh-Hans) (v1.03 Merged)</description>
+		<game_id>EP3717-CUSA35014_00-MOONSCARS000PS4E</game_id>
+		<rom name="Moonscars (Europe) (En,Ja,Fr,De,Es-MX,Zh-Hans) (v1.03 Merged).pkg" size="352845824" crc="1736ffca" md5="a973e1f3cb35c31e994487778a5bd058" sha1="3a8149f0751e2972c9da20fe40455558cb302815" sha256="767e9a068197e69adba00319cb77f7ebc617931550d592211f6b8d011c235bb4"/>
+	</game>
 	<game name="Morbid - The Seven Acolytes (USA) (En,Ja,Fr,De,Es,Zh-Hant,Zh-Hans,Ko,Ru) (v1.05 Remaster)" id="3464">
 		<description>Morbid - The Seven Acolytes (USA) (En,Ja,Fr,De,Es,Zh-Hant,Zh-Hans,Ko,Ru) (v1.05 Remaster)</description>
 		<game_id>UP1260-CUSA20472_00-0000000MORBIDUS1</game_id>
@@ -12045,10 +12315,30 @@
 		<game_id>EP3495-CUSA20133_00-MORTALSHELL00001</game_id>
 		<rom name="Mortal Shell (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (v1.12 Merged).pkg" size="3974889472" crc="33abf917" md5="57c5dfba947d4f13ff966da6f4295ecc" sha1="b9b683e7a421db0c7d613db9889603b81f5731bf" sha256="bd89a2ab528213077d892e5e501c9a9a4031f7a0931066d8f9b84f1c39acddf1"/>
 	</game>
+	<game name="Mortal Shell (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster)" id="4592">
+		<description>Mortal Shell (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster)</description>
+		<game_id>UP3639-CUSA16364_00-MORTALSHELL00001</game_id>
+		<rom name="Mortal Shell (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster).pkg" size="3977052160" crc="a766bd89" md5="f48cd8064ed6964aa9bf712034b40fb9" sha1="0edae0a4096a76247c6881a92ca04cb995a1f9c6" sha256="70361bc9d6e0916c95533a8c15845763b09a44405efdc4d5b0c317d264aa4e6e"/>
+	</game>
 	<game name="Mortal Shell - Rotting Christ Music Pack (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (DLC)" id="0562">
 		<description>Mortal Shell - Rotting Christ Music Pack (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (DLC)</description>
 		<game_id>EP3495-CUSA20133_00-MORTALSHELL00001</game_id>
 		<rom name="Mortal Shell - Rotting Christ Music Pack (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (DLC).pkg" size="33751040" crc="f825d777" md5="719b044485269625b23a930d951a9b96" sha1="245679cdd05cada95e85f90b596a455007f426b9" sha256="b68eeb3b2bddf85ca92068f9bfecdd4e94e502f118bec55492da84d0974008e3"/>
+	</game>
+	<game name="Mortal Shell - Rotting Christ Pack (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster) (DLC)" id="4593">
+		<description>Mortal Shell - Rotting Christ Pack (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster) (DLC)</description>
+		<game_id>UP3639-CUSA16364_00-MORTALSHELL00001</game_id>
+		<rom name="Mortal Shell - Rotting Christ Pack (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster) (DLC).pkg" size="40566784" crc="fdeafb65" md5="279141ea8dcba211076470653720952a" sha1="3ffd46b63476847c1c351148dc3b0544212b9927" sha256="a2430010a97d709f5c6226eac239a79f2f8007874dfad3948a965accf16dd90b"/>
+	</game>
+	<game name="Mortal Shell - The Vicious Cycle (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster) (DLC)" id="4594">
+		<description>Mortal Shell - The Vicious Cycle (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster) (DLC)</description>
+		<game_id>UP3639-CUSA16364_00-MORTALSHELL00001</game_id>
+		<rom name="Mortal Shell - The Vicious Cycle (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.12 Remaster) (DLC).pkg" size="1048576" crc="c504b26f" md5="86817d0a6d6289c63cdda6b24f57e40e" sha1="22e764983b99b8b407def7cfe5fb797bdda4a91e" sha256="617872bed2cefcc2f58d67f9584fd416ff889010b8cfdbfc5e00eaf290efabf7"/>
+	</game>
+	<game name="Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster)" id="3333">
+		<description>Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster)</description>
+		<game_id>EP4151-CUSA10579_00-MOTHERGUNSHIP0EU</game_id>
+		<rom name="Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster).pkg" size="5768347648" crc="5abb1d26" md5="c17f7a936fd098b348664ef1d45dae1e" sha1="eb265775e599846c52993eca1b675c9d6e0daf04" sha256="a451c1a9851457e70e9ad287f934a574f6b2308b60d6f3de99d10c84f6907385"/>
 	</game>
 	<game name="Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (Blu-ray)" id="0563">
 		<description>Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (Blu-ray)</description>
@@ -12060,20 +12350,15 @@
 		<game_id>EP4151-CUSA10579_00-MOTHERGUNSHIP0EU</game_id>
 		<rom name="Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Patch).pkg" size="2757623808" crc="fd09b894" md5="98394bec1fd30545a7b469a7a116e66e" sha1="6a97a58eba226722fb931c3cf6b7fdc94c7695ae" sha256="440dd358da21c69a4f75ada8e0637a0549f3e01667a29699c10aa374e6ebe9ea"/>
 	</game>
-	<game name="Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster)" id="3333">
-		<description>Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster)</description>
+	<game name="Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (DLC)" id="0565">
+		<description>Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (DLC)</description>
 		<game_id>EP4151-CUSA10579_00-MOTHERGUNSHIP0EU</game_id>
-		<rom name="Mothergunship (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster).pkg" size="5768347648" crc="5abb1d26" md5="c17f7a936fd098b348664ef1d45dae1e" sha1="eb265775e599846c52993eca1b675c9d6e0daf04" sha256="a451c1a9851457e70e9ad287f934a574f6b2308b60d6f3de99d10c84f6907385"/>
+		<rom name="Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (DLC).pkg" size="1048576" crc="dd1ec825" md5="2f67cd04de8e3df568cdf7d514e8eb24" sha1="62c5fe865503ebb615211662d60195e18bf41c6f" sha256="d22d78365615a8aa1c7956bca9eb43b73f8937a395c25c916986396b665ed5d2"/>
 	</game>
 	<game name="Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster) (DLC)" id="3334">
 		<description>Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster) (DLC)</description>
 		<game_id>EP4151-CUSA10579_00-MOTHERGUNSHIP0EU</game_id>
 		<rom name="Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.09 Remaster) (DLC).pkg" size="1048576" crc="6d4a4f63" md5="0867640b5ab0926fc2f4161164445127" sha1="acaa2ba36eae1675b9f90b4436ed2244d7164938" sha256="d0a8881ae136ca677ac3d07446972a55e50791bcd6d96822a608ce39f64e6160"/>
-	</game>
-	<game name="Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (DLC)" id="0565">
-		<description>Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (DLC)</description>
-		<game_id>EP4151-CUSA10579_00-MOTHERGUNSHIP0EU</game_id>
-		<rom name="Mothergunship - The Secret Campaign (Europe) (En,Fr,De,Es,It,Pl,Ru) (DLC).pkg" size="1048576" crc="dd1ec825" md5="2f67cd04de8e3df568cdf7d514e8eb24" sha1="62c5fe865503ebb615211662d60195e18bf41c6f" sha256="d22d78365615a8aa1c7956bca9eb43b73f8937a395c25c916986396b665ed5d2"/>
 	</game>
 	<game name="MotoGP 22 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Th) (v1.12 Remaster)" id="3092">
 		<description>MotoGP 22 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Th) (v1.12 Remaster)</description>
@@ -12123,6 +12408,16 @@
 		<description>Mutant Mudds Deluxe (USA) (Blu-ray)</description>
 		<game_id>UP0884-CUSA06432_00-MUTANTMUPS4PSNUS</game_id>
 		<rom name="Mutant Mudds Deluxe (USA) (Blu-ray).pkg" size="33816576" crc="806e16db" md5="8fd0bdaaff7a85fd958078377ef012a3" sha1="1b8c9354a1b8fb1a1fd71d981fd9953d97cbbcb0" sha256="4fc02c3e14948ff76ab07c44efad4bc11c380c8126b49fb2bf1ecbdeeabdbfa6"/>
+	</game>
+	<game name="Mutant Year Zero - Road to Eden (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh,Ko,Pl,Ru) (v1.12 Remaster)" id="4595">
+		<description>Mutant Year Zero - Road to Eden (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh,Ko,Pl,Ru) (v1.12 Remaster)</description>
+		<game_id>UP1850-CUSA12680_00-NAMUTANTYEARZERO</game_id>
+		<rom name="Mutant Year Zero - Road to Eden (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh,Ko,Pl,Ru) (v1.12 Remaster).pkg" size="7023558656" crc="9869241f" md5="d6fb213db7b2bb6ed95b721696542e7c" sha1="ce1a956be8ae1b9658577963676e0f7afd9b0414" sha256="415e46f62b15617b247450ba49f9005b8debcbc2d86b9a0039529971979f2d11"/>
+	</game>
+	<game name="Mutant Year Zero - Road to Eden - Seed of Evil (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh,Ko,Pl,Ru) (v1.12 Remaster) (DLC)" id="4596">
+		<description>Mutant Year Zero - Road to Eden - Seed of Evil (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh,Ko,Pl,Ru) (v1.12 Remaster) (DLC)</description>
+		<game_id>UP1850-CUSA12680_00-NAMUTANTYEARZERO</game_id>
+		<rom name="Mutant Year Zero - Road to Eden - Seed of Evil (USA) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Zh,Ko,Pl,Ru) (v1.12 Remaster) (DLC).pkg" size="1048576" crc="768af701" md5="955a0060752b0a1033ed7c228a207bf7" sha1="30664076b4a8e115fab33a1d954e81fa4da6c38b" sha256="fbcc26f64af915b62cfa5214a6337de42e928148034d710439b97a21291f0ad1"/>
 	</game>
 	<game name="MX vs ATV Legends (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.08 Merged)" id="3267">
 		<description>MX vs ATV Legends (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.08 Merged)</description>
@@ -12199,6 +12494,11 @@
 		<game_id>UP0777-CUSA18441_00-704NASCARHEAT5XX</game_id>
 		<rom name="NASCAR Heat 5 (USA) (Blu-ray).pkg" size="13014269952" crc="7c821a0c" md5="e907a93a09de4d53f97d2dba7e5344db" sha1="f0831258a05af49afc6f4fff243e1560a2dee57e" sha256="0b2fcd25aae143acd8e619db426c861e60291908c38b59346b7f6fac22e1b4aa"/>
 	</game>
+	<game name="Natsuki Chronicles (USA) (En,Ja,De,Es)" id="4448">
+		<description>Natsuki Chronicles (USA) (En,Ja,De,Es)</description>
+		<game_id>UP4034-CUSA26073_00-0000000000000000</game_id>
+		<rom name="Natsuki Chronicles (USA) (En,Ja,De,Es).pkg" size="4755881984" crc="5e0897a7" md5="e9bef02905859b7b1a5d97d13976effc" sha1="09127aee9221ad60d95ac62b8ba336f7acb69f22" sha256="80d6e362e0800156a09ccc7bc619c171b0cc0ad53f9b176a85153939b85033d6"/>
+	</game>
 	<game name="Naught (Europe) (En,Fr,De,Es,It,Ru)" id="0573">
 		<description>Naught (Europe) (En,Fr,De,Es,It,Ru)</description>
 		<game_id>EP3877-CUSA20030_00-NAUGHTBASEGAME00</game_id>
@@ -12272,6 +12572,16 @@
 		<description>Neonwall (USA) (En,Fr,De,Es,It,Pt) (v1.01 Patch)</description>
 		<game_id>UP3252-CUSA12037_00-0000000000000001</game_id>
 		<rom name="Neonwall (USA) (En,Fr,De,Es,It,Pt) (v1.01 Patch).pkg" size="688455680" crc="e2bc55bd" md5="cc8a68929ca859d31b31b3b3e94c9aef" sha1="9dc9a65ec2acc68b8fadf98883a37db77e99c811" sha256="3803d755f08b851b1a2102b943fe4f208199240a4189cd387de7998773c5be11"/>
+	</game>
+	<game name="Neptunia x Senran Kagura - Ninja Wars (Europe) (En,Ja) (v1.02 Remaster)" id="4597">
+		<description>Neptunia x Senran Kagura - Ninja Wars (Europe) (En,Ja) (v1.02 Remaster)</description>
+		<game_id>EP4060-CUSA29604_00-SENRANNINJANEPEU</game_id>
+		<rom name="Neptunia x Senran Kagura - Ninja Wars (Europe) (En,Ja) (v1.02 Remaster).pkg" size="4749656064" crc="4450a257" md5="9d200d99810f544bae0907c37de79296" sha1="a2d5c7b58e4344070a47ccb2345140ea2249d97c" sha256="0ba6ef0170f3e454f4986470304e1e2bfa39cf16b35fdccd5204c8eccdd26c45"/>
+	</game>
+	<game name="Neptunia x Senran Kagura - Ninja Wars - Alternate Costumes (Europe) (En,Ja) (v1.02 Remaster) (DLC)" id="4598">
+		<description>Neptunia x Senran Kagura - Ninja Wars - Alternate Costumes (Europe) (En,Ja) (v1.02 Remaster) (DLC)</description>
+		<game_id>EP4060-CUSA29604_00-SENRANNINJANEPEU</game_id>
+		<rom name="Neptunia x Senran Kagura - Ninja Wars - Alternate Costumes (Europe) (En,Ja) (v1.02 Remaster) (DLC).pkg" size="1048576" crc="8b59c338" md5="10dc110749cead23e12c8ad96f51aa98" sha1="ad388b9d3171a81bd7bcc94d9be7d9bcb913ac11" sha256="e948ca175bd616e57b2f4405173fdee4be228d7e00d583276ea6363588ad4272"/>
 	</game>
 	<game name="Netflix (USA) (v1.41) (App)" id="3526">
 		<description>Netflix (USA) (v1.41) (App)</description>
@@ -12813,6 +13123,21 @@
 		<game_id>UP3864-CUSA18815_00-ONESTEPFROMEDENA</game_id>
 		<rom name="One Step From Eden (USA) (En,Ja,Fr,De,Es,Es-MX,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr) (v1.62 Remaster).pkg" size="537919488" crc="24fcfbbe" md5="d220ff7915d7ce9295e20212b752645f" sha1="59a0aafa067651549a10027d399704b1f5f9b911" sha256="3e3139bf79e9e508dc851a6c92a0ee230a41afd99ad35f2a7ff6be67cad88dbf"/>
 	</game>
+	<game name="Onechanbara Z2 - Chaos (USA) (En,Ja) (Blu-ray)" id="4490">
+		<description>Onechanbara Z2 - Chaos (USA) (En,Ja) (Blu-ray)</description>
+		<game_id>CUSA02159</game_id>
+		<rom name="Onechanbara Z2 - Chaos (USA) (En,Ja) (Blu-ray).pkg" size="3660251136" crc="37c7eaa1" md5="b993ed8b156ae399f13a72fc57788c61" sha1="58bdcd94a635d41c24fc056e996d0259dcf958c8" sha256="c5f6ee61baad455dc671988dd07ec74fa6300c2373f39f07ae31b9abfb466762"/>
+	</game>
+	<game name="Onechanbara Z2 - Chaos (USA) (En,Ja) (v1.01)" id="4491">
+		<description>Onechanbara Z2 - Chaos (USA) (En,Ja) (v1.01)</description>
+		<game_id>CUSA02159</game_id>
+		<rom name="Onechanbara Z2 - Chaos (USA) (En,Ja) (v1.01).pkg" size="74252288" crc="f60b9b02" md5="d70e84a8d295655cf1dfa6ad7a9d58e1" sha1="7cd8c1dc1f36bb9268f959a9e19e71809e7b8454" sha256="403750141ed66081c2d6f0549302c80d5be0ce235296ca603cf0c4a5af720163"/>
+	</game>
+	<game name="Onechanbara Z2 - Chaos (USA) (En,Ja) (v1.01 Remaster)" id="4599">
+		<description>Onechanbara Z2 - Chaos (USA) (En,Ja) (v1.01 Remaster)</description>
+		<game_id>UP1023-CUSA02159_00-ONECHANBARAZ2CHA</game_id>
+		<rom name="Onechanbara Z2 - Chaos (USA) (En,Ja) (v1.01 Remaster).pkg" size="3704881152" crc="90167eb5" md5="719a8436d683b3d431c95ef9ac9c5072" sha1="65376b0ef67250b8653663862629b50a81354068" sha256="14c700d4b0972d59805c0dc5df862aea0dd714f8384187d1aa48cc8000c67ed4"/>
+	</game>
 	<game name="Oniken - Unstoppable Edition (USA)" id="0595">
 		<description>Oniken - Unstoppable Edition (USA)</description>
 		<game_id>UP2187-CUSA14286_00-ONPS4DIGISIEA000</game_id>
@@ -12852,6 +13177,11 @@
 		<description>Outbreak (USA) (Blu-ray)</description>
 		<game_id>UP6088-CUSA24066_00-8472379924025637</game_id>
 		<rom name="Outbreak (USA) (Blu-ray).pkg" size="490733568" crc="9937127f" md5="8e79f76df0b6a55345f0a784f2a1e47e" sha1="c530e2fc4be39ef4d9f7f865ec2614a431e5f992" sha256="0346f0fabf38854a2404c773c0fb4df524817570dae3ed8398c36b25fcd162ce"/>
+	</game>
+	<game name="Outbreak - Endless Nightmares (USA) (v1.10 Remaster)" id="4449">
+		<description>Outbreak - Endless Nightmares (USA) (v1.10 Remaster)</description>
+		<game_id>UP6088-CUSA25847_00-2543755395775640</game_id>
+		<rom name="Outbreak - Endless Nightmares (USA) (v1.10 Remaster).pkg" size="3269591040" crc="fb8f3013" md5="cac1434d75dd75fc02067acfe6ec6c4d" sha1="57fb924a1d2121ef3616a6a017c540b20e4547f5" sha256="42fd6ecaff22fa152e7677b1fc827b49f4a6b300bb7305a80cfcd66868b65b5c"/>
 	</game>
 	<game name="Outbreak - Epidemic (USA) (Blu-ray)" id="1282">
 		<description>Outbreak - Epidemic (USA) (Blu-ray)</description>
@@ -12977,6 +13307,11 @@
 		<description>Override - Mech City Brawl - Super Charged Skin Pack (Europe) (En,Fr,De,Es,It) (DLC)</description>
 		<game_id>EP4908-CUSA13203_00-OVERRIDE*</game_id>
 		<rom name="Override - Mech City Brawl - Super Charged Skin Pack (Europe) (En,Fr,De,Es,It) (DLC).pkg" size="1048576" crc="24daa980" md5="a130d948bd5dbdabe9ff0fee21fa11a6" sha1="87b96b3e2bc69bc2586b149584ee3b984bd87deb" sha256="34526e2fa1caee97e51d67fb644d99e4b87f48bbcf2942c761375ab2bd4ca3f8"/>
+	</game>
+	<game name="Pac-Man World - Re-Pac (Europe) (En,Fr,De,Es,It,Ru) (v1.02 Merged)" id="4450">
+		<description>Pac-Man World - Re-Pac (Europe) (En,Fr,De,Es,It,Ru) (v1.02 Merged)</description>
+		<game_id>EP0700-CUSA32074_00-PACMANWORLDRE005</game_id>
+		<rom name="Pac-Man World - Re-Pac (Europe) (En,Fr,De,Es,It,Ru) (v1.02 Merged).pkg" size="3183280128" crc="574c6178" md5="49ba5588997b13aa789b2d21564bfea2" sha1="3b066e2e28b9c8d0583fa28a9ca0881a20d60354" sha256="b52be4697e23af95af6fc5fd9cc95996e46f8245eed44f5b9f4fb3a30e7fe9a7"/>
 	</game>
 	<game name="Paramount Plus (USA) (v2.00) (App)" id="3527">
 		<description>Paramount Plus (USA) (v2.00) (App)</description>
@@ -13131,6 +13466,11 @@
 		<description>Payday 2 - Crimewave Edition - Yakuza Character Pack (Europe) (En,Fr,De,Es,It) (DLC)</description>
 		<game_id>EP4040-CUSA01761_00-*</game_id>
 		<rom name="Payday 2 - Crimewave Edition - Yakuza Character Pack (Europe) (En,Fr,De,Es,It) (DLC).pkg" size="1572864" crc="c001c6ca" md5="8969d547bfa1e9d762d248b9347263b6" sha1="8e4153b854acfed5a8c89e7484e41a3191b22da1" sha256="a061e1a581fc1d2eea57105ecfee6eaca3b827cb4b81414cf9589245cd1fef5a"/>
+	</game>
+	<game name="PC Building Simulator (Europe) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.50 Remaster)" id="4600">
+		<description>PC Building Simulator (Europe) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.50 Remaster)</description>
+		<game_id>EP5277-CUSA14566_00-0000000000000000</game_id>
+		<rom name="PC Building Simulator (Europe) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hans,Ko,Pl,Ru) (v1.50 Remaster).pkg" size="3320315904" crc="a1f858a2" md5="b52540aa854a320405bd4446b2bb7bf0" sha1="d68357dbe2a7b9902c1c9c3cd0468e6d60d60045" sha256="12c1284eccdf1dcc06e915820810d5f93ce1c9b773bc802d924b0a75b0d3640f"/>
 	</game>
 	<game name="Peacock TV (USA) (v1.06) (App)" id="3528">
 		<description>Peacock TV (USA) (v1.06) (App)</description>
@@ -13398,11 +13738,6 @@
 		<game_id>EP2038-CUSA14559_00-RTYPEDIMENSIONSE</game_id>
 		<rom name="R-Type Dimensions EX (Europe) (En,Ja,Fr,De,Es,It,Pt) (v1.01 Patch).pkg" size="30212096" crc="0ff92051" md5="31a6fb934d15d9e9121ce44a8bc5a29f" sha1="b8e1cba6719b9cefe34f7cb6d643da491455be7d" sha256="965b49466c41e7441adfc6cabb626b82aef67ee55f27aa88da6ebbf227096fa2"/>
 	</game>
-	<game name="R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster)" id="2938">
-		<description>R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster)</description>
-		<game_id>UP1063-CUSA25458_00-RTYPEFINAL200000</game_id>
-		<rom name="R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster).pkg" size="13034848256" crc="76aa9fc1" md5="f5334877c30692d44d7f0d978182d7c0" sha1="312bcfb5ab112ffef1148a1c06debf28b6d3464a" sha256="d8c164033819dd4ca9e5645831e6c779fbf3e940024b1d483228ab9f8ec374fe"/>
-	</game>
 	<game name="R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.15 Merged)" id="3342">
 		<description>R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.15 Merged)</description>
 		<game_id>UP1063-CUSA25458_00-RTYPEFINAL200000</game_id>
@@ -13412,6 +13747,11 @@
 		<description>R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.16 Merged)</description>
 		<game_id>UP1063-CUSA25458_00-RTYPEFINAL200000</game_id>
 		<rom name="R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.16 Merged).pkg" size="14602534912" crc="509ebe83" md5="cd72a5ea4d8b39f53de8941e68218d36" sha1="144bac0819c4eb27261b21ff15078320136979a2" sha256="412542db133a4c39fe5cd8bfbe03125371f91bcced62969d4a59671051a636b4"/>
+	</game>
+	<game name="R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster)" id="2938">
+		<description>R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster)</description>
+		<game_id>UP1063-CUSA25458_00-RTYPEFINAL200000</game_id>
+		<rom name="R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster).pkg" size="13034848256" crc="76aa9fc1" md5="f5334877c30692d44d7f0d978182d7c0" sha1="312bcfb5ab112ffef1148a1c06debf28b6d3464a" sha256="d8c164033819dd4ca9e5645831e6c779fbf3e940024b1d483228ab9f8ec374fe"/>
 	</game>
 	<game name="R-Type Final 2 - Crowdfunding Original R-Craft (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster) (DLC)" id="2939">
 		<description>R-Type Final 2 - Crowdfunding Original R-Craft (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.14 Remaster) (DLC)</description>
@@ -13493,6 +13833,11 @@
 		<game_id>UP4389-CUSA08955_00-RADRODGERSUS0001</game_id>
 		<rom name="Rad Rodgers (USA) (En,Ja,Fr,De,Es,It,Zh-Hans,Ko,Pl,Ru) (Blu-ray).pkg" size="4428726272" crc="5ae75f68" md5="046d7f7d5827e08292c8fca5c40ededa" sha1="e47723862be64554e2e75c7cc588eb7784921dd5" sha256="029c1f3c5997d7c0ee91b4d0e5b29d0e20d60754ee8de103b2159b058130f0fb"/>
 	</game>
+	<game name="Raiden IV x MIKADO Remix (USA)" id="4465">
+		<description>Raiden IV x MIKADO Remix (USA)</description>
+		<game_id>UP1063-CUSA35027_00-RAIDENXMIKADOPS4</game_id>
+		<rom name="Raiden IV x MIKADO Remix (USA).pkg" size="752091136" crc="64170deb" md5="f177d76d44737a1cb7e2db337c242578" sha1="cb37fda4962045d63a83b686c36d691635304aa4" sha256="7c7a344cbae9ae83fa27a145f7c430e7fe180310bca97db09f945d13b3399b77"/>
+	</game>
 	<game name="Raiden V - Director's Cut (USA) (En,Ja,Zh-Hant,Zh-Hans) (Blu-ray)" id="0820">
 		<description>Raiden V - Director's Cut (USA) (En,Ja,Zh-Hant,Zh-Hans) (Blu-ray)</description>
 		<game_id>UP2035-CUSA07673_00-RAIDEN5ENCA70707</game_id>
@@ -13542,21 +13887,6 @@
 		<description>Red Bull TV (Europe) (v1.10) (App)</description>
 		<rom name="Red Bull TV (Europe) (v1.10) (App).pkg" size="99942400" crc="67eb60be" md5="56d817d9949eacafcfeea5b1a664df3e" sha1="61e0f6808c9c6cd86ea0658d91c56a533761959e" sha256="5b239cad6901406d6c68c6d4853e50427cf37d0e5c0ad173bc503cdcf40409c6"/>
 	</game>
-	<game name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.13 Patch)" id="0743">
-		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.13 Patch)</description>
-		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
-		<rom name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.13 Patch).pkg" size="13690667008" crc="95f1818c" md5="019f6a8c53212970c9d2c1f7fc75b9a9" sha1="5224cd82c45c6bd715c216c29fccf5bfdde9cf60" sha256="bbed62e259cd4d5ac37952ca5909245bcc453823bea374aaffdcab0ac1962d33"/>
-	</game>
-	<game name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.19 Patch)" id="0915">
-		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.19 Patch)</description>
-		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
-		<rom name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.19 Patch).pkg" size="16442130432" crc="2fee29cf" md5="638ca3595664b1933b719447ee10be3d" sha1="94c96a7d7d00a4dc18a158477cb87c3f56bad2d5" sha256="11ee582c9261d52e098dbd4654df9113900bd149ddf31c1e30bcf26521ef7183"/>
-	</game>
-	<game name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.24 Patch)" id="0916">
-		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.24 Patch)</description>
-		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
-		<rom name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.24 Patch).pkg" size="18179686400" crc="f8647298" md5="1df0539149906d3b9d0d9e73c2c90c8f" sha1="d480918274291df35c310deb85d772203f2fd628" sha256="c4dd3759027439b78358ab971a9fb5befbc21d2f90cdfe5280bed686be6addc6"/>
-	</game>
 	<game name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (Blu-ray) (Alt)" id="1299">
 		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (Blu-ray) (Alt)</description>
 		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
@@ -13571,6 +13901,21 @@
 		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.29 Patch)</description>
 		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
 		<rom name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.29 Patch).pkg" size="20623982592" crc="b68c4c6e" md5="6b383fd4d915829ccbfe928f739448ba" sha1="90a2fa384c8cbc0cf4ec268763c95bbe66fee5eb" sha256="41b5b68198031648d638a3f80b25f59b51f038186e9966cdbf5d1008187964f0"/>
+	</game>
+	<game name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.13 Patch)" id="0743">
+		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.13 Patch)</description>
+		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
+		<rom name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.13 Patch).pkg" size="13690667008" crc="95f1818c" md5="019f6a8c53212970c9d2c1f7fc75b9a9" sha1="5224cd82c45c6bd715c216c29fccf5bfdde9cf60" sha256="bbed62e259cd4d5ac37952ca5909245bcc453823bea374aaffdcab0ac1962d33"/>
+	</game>
+	<game name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.19 Patch)" id="0915">
+		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.19 Patch)</description>
+		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
+		<rom name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.19 Patch).pkg" size="16442130432" crc="2fee29cf" md5="638ca3595664b1933b719447ee10be3d" sha1="94c96a7d7d00a4dc18a158477cb87c3f56bad2d5" sha256="11ee582c9261d52e098dbd4654df9113900bd149ddf31c1e30bcf26521ef7183"/>
+	</game>
+	<game name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.24 Patch)" id="0916">
+		<description>Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.24 Patch)</description>
+		<game_id>UP1004-CUSA03041_00-REDEMPTION000002</game_id>
+		<rom name="Red Dead Redemption 2 (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.24 Patch).pkg" size="18179686400" crc="f8647298" md5="1df0539149906d3b9d0d9e73c2c90c8f" sha1="d480918274291df35c310deb85d772203f2fd628" sha256="c4dd3759027439b78358ab971a9fb5befbc21d2f90cdfe5280bed686be6addc6"/>
 	</game>
 	<game name="Red Dead Redemption 2 - Pre-Order Bonuses (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (DLC)" id="1298">
 		<description>Red Dead Redemption 2 - Pre-Order Bonuses (USA) (En,Fr,De,Es,Es-XL,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (DLC)</description>
@@ -13636,6 +13981,11 @@
 		<description>Remnant - From the Ashes - Swamps of Corsus (USA) (v1.24 Remaster) (DLC)</description>
 		<game_id>UP1980-CUSA10507_00-REMNANTUS0000001</game_id>
 		<rom name="Remnant - From the Ashes - Swamps of Corsus (USA) (v1.24 Remaster) (DLC).pkg" size="1048576" crc="aee76ddd" md5="ecef59cdbf0ca6196ecf9ad55c53de07" sha1="759bbae7057115ce35b48aba0add5bec90d2178c" sha256="74ad249b4eabad8b0bd9d22c79415380b8949f0612a1ca138970d36b25d75633"/>
+	</game>
+	<game name="Remothered - Broken Porcelain (Europe) (En,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v2.00 Remaster)" id="4451">
+		<description>Remothered - Broken Porcelain (Europe) (En,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v2.00 Remaster)</description>
+		<game_id>EP4908-CUSA18360_00-REMOTHEREDBROPOR</game_id>
+		<rom name="Remothered - Broken Porcelain (Europe) (En,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v2.00 Remaster).pkg" size="4865261568" crc="7e63a978" md5="1cb98a32cb6dd57db03cf7cfba4c6d6f" sha1="05c090b505fb63db14c7b09f3c01717ab277f628" sha256="46deb93883797285d09ddabc946ee7045b955b038edb488fc3f41eceef2227c1"/>
 	</game>
 	<game name="Remothered - Tormented Fathers (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Ar) (Blu-ray)" id="1143">
 		<description>Remothered - Tormented Fathers (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Ar) (Blu-ray)</description>
@@ -13706,6 +14056,11 @@
 		<description>Resident Evil - Village (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Ru,Ar) (v1.01 Patch)</description>
 		<game_id>UP0102-CUSA18017_00-VILLAGEFULLGAMEX</game_id>
 		<rom name="Resident Evil - Village (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Ru,Ar) (v1.01 Patch).pkg" size="479789056" crc="e64f782e" md5="c13b8a47e837e3dbacdb740d4f8ff234" sha1="af0cf9603c71152106f266b2e0abb3a6def8ee68" sha256="da85ebf3fceff9b3db692188a78af863adb66bf7abfe0ef800a14cf5d4552eb5"/>
+	</game>
+	<game name="Resident Evil - Village (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Ru,Ar) (v1.12 Patch)" id="4601">
+		<description>Resident Evil - Village (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Ru,Ar) (v1.12 Patch)</description>
+		<game_id>UP0102-CUSA18017_00-VILLAGEFULLGAMEX</game_id>
+		<rom name="Resident Evil - Village (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Ru,Ar) (v1.12 Patch).pkg" size="730791936" crc="afbc81b7" md5="ed004180e6be007675da5d6023d4ba71" sha1="b7d077ab6a0352e763ba53e937fcf2666a1dc613" sha256="332c17353583d18081b3d5fc469631246960314dc06a3e43c9fe093789c6660e"/>
 	</game>
 	<game name="Resident Evil - Village - Extra Content Shop All Access Voucher (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Ru,Ar) (DLC)" id="1194">
 		<description>Resident Evil - Village - Extra Content Shop All Access Voucher (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Ru,Ar) (DLC)</description>
@@ -13932,6 +14287,11 @@
 		<game_id>EP3114-CUSA13902_00-V0000000S0000000</game_id>
 		<rom name="Richie's Plank Experience (Europe) (v1.05 Merged).pkg" size="553123840" crc="b55f6dd6" md5="98fa869fce87bd46d4448dbf7f792878" sha1="2e05b7eed6f67b5c9ee1c577fcb166177f62752f" sha256="99f1c61f26bba7004b7409c9ad0eb6820234eb069eb7fd901191b0ca3c9b510e"/>
 	</game>
+	<game name="Riddled Corpses EX (USA) (v1.01 Remaster)" id="4452">
+		<description>Riddled Corpses EX (USA) (v1.01 Remaster)</description>
+		<game_id>UP1778-CUSA12156_00-RIDDLED000000000</game_id>
+		<rom name="Riddled Corpses EX (USA) (v1.01 Remaster).pkg" size="96010240" crc="e48ed8cf" md5="01160dfbd46b86e421ad474528076034" sha1="f0fa6a0e96139dc9c950270d374a752f9b5dc5d8" sha256="2b2abaa5aed3189d8cd12b4a519a79dd68362412fc12075bfac78ee8045362ef"/>
+	</game>
 	<game name="Ride 2 (USA) (Blu-ray)" id="1056">
 		<description>Ride 2 (USA) (Blu-ray)</description>
 		<game_id>UP1981-CUSA06019_00-RIDE2FULLGAME000</game_id>
@@ -14057,6 +14417,11 @@
 		<game_id>UP3639-CUSA28304_00-5558780940114914</game_id>
 		<rom name="Rise of the Slime (USA) (v1.01 Remaster).pkg" size="141819904" crc="b74f7df6" md5="5e8ce151a740ea74487f42187630e6f1" sha1="560344c75901cee6bd66573291395cc684b06330" sha256="075e51dc1ba10b66c1edf0f49352202052e2618e4c315223ee584c6ff4e4cf27"/>
 	</game>
+	<game name="Risen (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.02 Merged)" id="4466">
+		<description>Risen (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.02 Merged)</description>
+		<game_id>EP4389-CUSA31481_00-RISENPS4EU000000</game_id>
+		<rom name="Risen (Europe) (En,Fr,De,Es,It,Pl,Ru) (v1.02 Merged).pkg" size="4026073088" crc="264a9fdf" md5="1570550c95190803cd387828ecbdeab2" sha1="6d5830357d27190d4d987bea8a0ef489a3ac8229" sha256="055e9e0b47e2d2ab7da0eef84f651b215d141d97105ba33089cae8c9010cfe95"/>
+	</game>
 	<game name="Risk of Rain 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hans,Ko,Ru,Tr) (Blu-ray)" id="0662">
 		<description>Risk of Rain 2 (USA) (En,Ja,Fr,De,Es,It,Zh-Hans,Ko,Ru,Tr) (Blu-ray)</description>
 		<game_id>UP0292-CUSA16153_00-RISKOFRAIN2SIEA0</game_id>
@@ -14076,6 +14441,16 @@
 		<description>River City Girls (USA) (En,Ja,Fr,De,Es,It,Ru) (v1.01 Patch)</description>
 		<game_id>UP2053-CUSA15878_00-RIVERCITYGIRLSNA</game_id>
 		<rom name="River City Girls (USA) (En,Ja,Fr,De,Es,It,Ru) (v1.01 Patch).pkg" size="79691776" crc="1b757c53" md5="ab46bbd41bd09d572bf20d1cf148bbed" sha1="cbc773da4668e5fba1c3171b4eda45b63d721124" sha256="da7ca1c46ccbb0d90281499a40a125511c6062b5882954ab6ac98c429a9f32e8"/>
+	</game>
+	<game name="River City Girls 2 (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko)" id="4602">
+		<description>River City Girls 2 (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko)</description>
+		<game_id>EP8916-CUSA33173_00-RCG20000PS4EU000</game_id>
+		<rom name="River City Girls 2 (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko).pkg" size="4216324096" crc="50bf30f5" md5="8453f81601fd96634695cb6969cb9d2d" sha1="cf713a5186a5718b6bd2b6f736217dd04ada8384" sha256="4d049fb5a48d8d25e13b42db3afb2f7274dbbd967fc160a077bf635a88691c37"/>
+	</game>
+	<game name="River City Girls 2 (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.02)" id="4603">
+		<description>River City Girls 2 (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.02)</description>
+		<game_id>EP8916-CUSA33173_00-RCG20000PS4EU000</game_id>
+		<rom name="River City Girls 2 (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.02).pkg" size="2211119104" crc="80d08d9c" md5="e7e54bfe3b620b2207d8174ac36cb72d" sha1="d20623d74d669bfc1ccf82fd3e9a8aa2e389cba4" sha256="c9a92ad7d58de0ad59d5b930102982aa670abee49fec2f05dde289b5fc37f90c"/>
 	</game>
 	<game name="River City Melee - Battle Royal Special (USA) (En,Ja,Zh-Hant) (Blu-ray)" id="0666">
 		<description>River City Melee - Battle Royal Special (USA) (En,Ja,Zh-Hant) (Blu-ray)</description>
@@ -14508,6 +14883,106 @@
 		<description>Samurai Bringer (USA) (En,Ja,Zh-Hant,Zh-Hans) (v1.03 Remaster)</description>
 		<game_id>UP0969-CUSA32805_00-SAMURAIBRINGER00</game_id>
 		<rom name="Samurai Bringer (USA) (En,Ja,Zh-Hant,Zh-Hans) (v1.03 Remaster).pkg" size="329973760" crc="b0601aa5" md5="97bdacc0363fe31b5155a02baa213437" sha1="83bb748f488344b1769e8a6e13692aa4e9f592a8" sha256="369c67620bf1f7c9a6b529f1232e92c2e39df9041bab705ceab323b841aac09b"/>
+	</game>
+	<game name="Samurai Maiden (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)" id="4604">
+		<description>Samurai Maiden (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko).pkg" size="3961520128" crc="41aa397b" md5="ac65ae70d0cfee39453b6062b692623b" sha1="64b424ff136c6f5b4c5d40717f9759a0995b4938" sha256="ddc51b1111cba1c417fa35e5d70e9c4f3b1703f2e27be5d57874ffa8afec5259"/>
+	</game>
+	<game name="Samurai Maiden (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (v1.40)" id="4605">
+		<description>Samurai Maiden (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (v1.40)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (v1.40).pkg" size="1470234624" crc="afd899db" md5="8ffa9bf854b1ca12ad7fad4ea3c310c6" sha1="19af6205904511f782a8f7fd4a1f512e534973fc" sha256="2b443cb65265e0362b29d5643b8741b597192f4ff0e69f048f1dd1a6903901a1"/>
+	</game>
+	<game name="Samurai Maiden - Extra BGM - Bullet Girls Special Sound Pack (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4606">
+		<description>Samurai Maiden - Extra BGM - Bullet Girls Special Sound Pack (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Extra BGM - Bullet Girls Special Sound Pack (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="3145728" crc="0792db8e" md5="eca6823e1ba89d524120a220269f7156" sha1="ea9b9454899b7aeaf652bc112303bed8e8a5ee05" sha256="d8a1ccf00f611b307607588ca4bb411e8a3afd33449b3defd6de9efa696a4edd"/>
+	</game>
+	<game name="Samurai Maiden - Extra BGM - Kotonohanisaku - Hagane Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4607">
+		<description>Samurai Maiden - Extra BGM - Kotonohanisaku - Hagane Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Extra BGM - Kotonohanisaku - Hagane Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="34a0a0c6" md5="ab0dd71b61277addfce5240e9439b575" sha1="324623a15e976d661851dad9eb85d0eff1adfd6b" sha256="d82459d0a7a50d5bdc5d18ec6e866b611cc793799fbaddf537a683ea70743dc6"/>
+	</game>
+	<game name="Samurai Maiden - Extra BGM - Kotonohanisaku - Iyo Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4608">
+		<description>Samurai Maiden - Extra BGM - Kotonohanisaku - Iyo Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Extra BGM - Kotonohanisaku - Iyo Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="55081e3a" md5="42f57b1bde6e89d4351d51242c2b9cea" sha1="13488b9f28439fe93f7d3132d7358bbf20631400" sha256="1bf2b36ac61243b70a8f746f12149165e5080fbc9bb0356c433ad6b046702027"/>
+	</game>
+	<game name="Samurai Maiden - Extra BGM - Kotonohanisaku - Komimi Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4609">
+		<description>Samurai Maiden - Extra BGM - Kotonohanisaku - Komimi Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Extra BGM - Kotonohanisaku - Komimi Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="9d52ffed" md5="072756e755a7faccdf5f01d5aa5b5e87" sha1="e27ed90656a91607064f4e8788303df800724937" sha256="609837abf1dfe49c6bfce6519d8f9aabf88f3ce13f6e2af97f454be590aaaf01"/>
+	</game>
+	<game name="Samurai Maiden - Extra BGM - Kotonohanisaku - Tsumugi Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4610">
+		<description>Samurai Maiden - Extra BGM - Kotonohanisaku - Tsumugi Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Extra BGM - Kotonohanisaku - Tsumugi Ver. (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="7eda6c18" md5="97b491c153b58aad899b50d2b4aea6c2" sha1="cda874dc44f5e07966f1fd0f295c81ebb71d6be7" sha256="b6888a2afb8b6ad076a57ebae40bacbe0f6e839b3fc99c8bbb61b42faf37bba9"/>
+	</game>
+	<game name="Samurai Maiden - Hagane's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4611">
+		<description>Samurai Maiden - Hagane's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Hagane's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="32626271" md5="649cb54c7cd30f04111fc88ccde4a4f1" sha1="24e1cfe066a947eb0ea8c0f8638e921b798b3755" sha256="194e2715e26f51e520ad1771d7b68acfc628d2d0f881dc501f5116e61c00a66b"/>
+	</game>
+	<game name="Samurai Maiden - Hagane's Costume - Shogunate Outfit - White &amp; Red (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)" id="4612">
+		<description>Samurai Maiden - Hagane's Costume - Shogunate Outfit - White &amp; Red (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Hagane's Costume - Shogunate Outfit - White &amp; Red (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko).pkg" size="2621440" crc="31ad8a24" md5="43db80a341e261178c96191b1e9ae852" sha1="02ac8f29952240bbe884ee7f8b6f07a5dc9de7f6" sha256="a052fa1edd5cf39c560b94e904497e8a2027b6220b939976d379059f7d3dc703"/>
+	</game>
+	<game name="Samurai Maiden - Hagane's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)" id="4613">
+		<description>Samurai Maiden - Hagane's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Hagane's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko).pkg" size="2621440" crc="3159e408" md5="aa8d87e27f8d742e0a3b7394356d8b48" sha1="5b3f90ee8fea199793558347e0a90032aab1867c" sha256="9a4716dc007c01e25a65532eab13fe4bd7d1d744a468f0b4cd52546bcaafc299"/>
+	</game>
+	<game name="Samurai Maiden - Iyo's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4614">
+		<description>Samurai Maiden - Iyo's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Iyo's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="50da65d2" md5="31d55f8b4faa06f323b8b68221c8db9a" sha1="127d87024aa527d694036a4bd4dddec1afa1a478" sha256="cb9fa333d38bca6961987e8f353eede1e580b3fdb9a4b7e335f3472b7d055b38"/>
+	</game>
+	<game name="Samurai Maiden - Iyo's Costume - Oda Clan Outfit - White (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4615">
+		<description>Samurai Maiden - Iyo's Costume - Oda Clan Outfit - White (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Iyo's Costume - Oda Clan Outfit - White (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="517e9d84" md5="78181a3cade227cdcbf13d89b4649830" sha1="5f2ce515d9fda37de2eed8822294157c049f7d1e" sha256="125b9920f856a457b344471ab4e3fbc0d438a4e26c41dc3c5b5086d8ba0ded7c"/>
+	</game>
+	<game name="Samurai Maiden - Iyo's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4616">
+		<description>Samurai Maiden - Iyo's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Iyo's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="79b1d6a8" md5="3bd95dd14d11584588f2209aa02f4607" sha1="4113304d6b3cc9b10bfdf462dce2bf2dc0d7f7ff" sha256="e6c6930b823b2dd9c9d382aa2dd3d7894ef987894e01fa0fb91ca2328f8cb31e"/>
+	</game>
+	<game name="Samurai Maiden - Komimi's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4617">
+		<description>Samurai Maiden - Komimi's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Komimi's Costume - Matching Uniform 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="4c35c624" md5="34271698d5084de538bd0bd1aa118174" sha1="f700a63c29153fdbd82138c1f85f10fc65dd5242" sha256="c887b2a5ff97d984f4c6a2a90a2b05d329dfc97f6258ec5d1d712a9fe15dae9f"/>
+	</game>
+	<game name="Samurai Maiden - Komimi's Costume - Onmyoji Dress - Purple (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4618">
+		<description>Samurai Maiden - Komimi's Costume - Onmyoji Dress - Purple (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Komimi's Costume - Onmyoji Dress - Purple (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="be8e55fb" md5="e519e8c40fec374c21d558bd30879cfe" sha1="66eb032411fe58300b4a7ed39c9f4c832207851e" sha256="18ac41b5dac1d758c2506ffb561c656b1d7291aa5efcce45d7f388529e7cb5b7"/>
+	</game>
+	<game name="Samurai Maiden - Komimi's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)" id="4619">
+		<description>Samurai Maiden - Komimi's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Komimi's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko).pkg" size="2621440" crc="efe7aa60" md5="f8e9fd71f08aad518e36a384d0d71e3e" sha1="6544dc3a993423af2009015f2baec06c38c6dfba" sha256="b7db001c0c9f026669b5a317a487478a55bc56b6831bcaf861fb4cce7953bb8c"/>
+	</game>
+	<game name="Samurai Maiden - Tsumugi's Costume - Sengoku Samurai Girl 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4620">
+		<description>Samurai Maiden - Tsumugi's Costume - Sengoku Samurai Girl 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Tsumugi's Costume - Sengoku Samurai Girl 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="102f9987" md5="63ad32a1035524dee7557b7e6c17a3ef" sha1="3c7b4f299e71c3e57df88b2307ec7e992261d93d" sha256="62fa46a7ae3372f9ef99763302c11fbb791e4e98ba75bf569628f2e870b53345"/>
+	</game>
+	<game name="Samurai Maiden - Tsumugi's Costume - Uniform - Cool (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4621">
+		<description>Samurai Maiden - Tsumugi's Costume - Uniform - Cool (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Tsumugi's Costume - Uniform - Cool (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="e502a3e7" md5="9e6b2aa65462f7097d3416009564cdb4" sha1="323af73c7bda147a54c05c9f48f937794d650153" sha256="bb64b6f1e5ed4153ea97e0daf330274ad11deca3ace6777dfbffebc142311859"/>
+	</game>
+	<game name="Samurai Maiden - Tsumugi's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)" id="4622">
+		<description>Samurai Maiden - Tsumugi's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Tsumugi's Costume - Victory Swimsuit 4-Color Set (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko).pkg" size="2621440" crc="44cae8fd" md5="f600157eff8f15f969c01fc9faf87d87" sha1="f666bc785b6d5ec51eb43e25d28f1540561a1e69" sha256="a0022c4c1cab72d8edaa058b779af1ff1fa387651eabca24c704920ed74eeda6"/>
+	</game>
+	<game name="Samurai Maiden - Tsumugi's Weapon - Luminous Eliminator (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)" id="4623">
+		<description>Samurai Maiden - Tsumugi's Weapon - Luminous Eliminator (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC)</description>
+		<game_id>EP3036-CUSA35122_00-0000000000000000</game_id>
+		<rom name="Samurai Maiden - Tsumugi's Weapon - Luminous Eliminator (Europe) (En,Ja,Zh-Hant,Zh-Hans,Ko) (DLC).pkg" size="2621440" crc="6d5f6317" md5="221db0d23885e02c539935de9bc23bd5" sha1="9ee44f69ef5040ed7dd8f1c372032966baa500d8" sha256="4f9a68fbc175e3634d0ac8b7b297864bc20194f0290b5a3c5406777044b0cf6f"/>
 	</game>
 	<game name="Samurai Shodown (USA) (En,Ja,Fr,Es-MX,Pt) (v2.00 Patch)" id="0871">
 		<description>Samurai Shodown (USA) (En,Ja,Fr,Es-MX,Pt) (v2.00 Patch)</description>
@@ -15414,6 +15889,11 @@
 		<game_id>UP3643-CUSA08218_00-0000000000000SSC</game_id>
 		<rom name="Serious Sam - Collection (USA) (En,Fr,Es,Pt-BR) (v1.02 Remaster).pkg" size="7335182336" crc="b5492144" md5="ccf595fc99574313dc242cc3af798eee" sha1="231ba17bf5a45c3eafd3b6713ee56b064233e7b1" sha256="cd05dba758f3998686c47f24a1c7889dbcf7cfebe3f90ee81d4ad5cec5eb6424"/>
 	</game>
+	<game name="Severed Steel (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Fi,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Hu) (v1.03 Remaster)" id="4467">
+		<description>Severed Steel (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Fi,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Hu) (v1.03 Remaster)</description>
+		<game_id>EP8925-CUSA30139_00-7478596148800349</game_id>
+		<rom name="Severed Steel (Europe) (En,Ja,Fr,De,Es,It,Pt,Pt-BR,Fi,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Hu) (v1.03 Remaster).pkg" size="1710489600" crc="7a5d80e2" md5="169ca2a6c426f68af05b811d96bd66f2" sha1="6d1e6c8f448b8cc2d8446c2d50662cbe0c874274" sha256="6f4407ebca7eccebc2ac6c160b56681703301ac40488e8ea1e20fb8a862c751b"/>
+	</game>
 	<game name="Shadow Blade - Reload (USA)" id="0692">
 		<description>Shadow Blade - Reload (USA)</description>
 		<game_id>UP0200-CUSA03778_00-SHADOWBLADEREL00</game_id>
@@ -15909,15 +16389,15 @@
 		<game_id>UP4363-CUSA04220_00-SNIPERELITE40000</game_id>
 		<rom name="Sniper Elite 4 (USA) (En,Fr,De,Es,It,Pt-BR,Pl,Ru) (Blu-ray).pkg" size="32388939776" crc="7d1cf3d9" md5="d44e44f0ad87ee3c702e8eb98f9a7126" sha1="882303663c44a1b0f16644564370e70648941241" sha256="321594eafe9e56052529443949414699ce75eb78c768f2736d47dd089d63c89c"/>
 	</game>
-	<game name="Sniper Elite 4 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster)" id="3268">
-		<description>Sniper Elite 4 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster)</description>
-		<game_id>UP4363-CUSA04220_00-SNIPERELITE40000</game_id>
-		<rom name="Sniper Elite 4 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster).pkg" size="41516466176" crc="44ccc911" md5="7e7293be92e7b84f7d8e26aefe1679f8" sha1="27b1d1bb126852d2ae69ae5cbde4857222b9a692" sha256="ccae5237417b6025bc5693e0aade07287fb8a31d24399d88190899e88306d465"/>
-	</game>
 	<game name="Sniper Elite 4 (Europe) (En,Fr,De,Es,It,Pt,Ru) (v1.20)" id="4400">
 		<description>Sniper Elite 4 (Europe) (En,Fr,De,Es,It,Pt,Ru) (v1.20)</description>
 		<game_id>CUSA04099</game_id>
 		<rom name="Sniper Elite 4 (Europe) (En,Fr,De,Es,It,Pt,Ru) (v1.20).pkg" size="9777512448" crc="7dbea05a" md5="7e71f65d810cde37c46353338037b407" sha1="7c709b01a13f42e69661a2e5a9c87f8eb756adff" sha256="38609dd4a2ca0bcc6bf3f7bb9236c8bf79e8dd32cc6aafada0944e6317cd9982"/>
+	</game>
+	<game name="Sniper Elite 4 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster)" id="3268">
+		<description>Sniper Elite 4 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster)</description>
+		<game_id>UP4363-CUSA04220_00-SNIPERELITE40000</game_id>
+		<rom name="Sniper Elite 4 (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster).pkg" size="41516466176" crc="44ccc911" md5="7e7293be92e7b84f7d8e26aefe1679f8" sha1="27b1d1bb126852d2ae69ae5cbde4857222b9a692" sha256="ccae5237417b6025bc5693e0aade07287fb8a31d24399d88190899e88306d465"/>
 	</game>
 	<game name="Sniper Elite 4 - Allied Forces Rifle Pack (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster) (DLC)" id="3269">
 		<description>Sniper Elite 4 - Allied Forces Rifle Pack (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.19 Remaster) (DLC)</description>
@@ -16304,6 +16784,11 @@
 		<game_id>UP2388-CUSA20182_00-0000000000000000</game_id>
 		<rom name="Spiritfarer (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (v1.13 Merged).pkg" size="2255093760" crc="1da49377" md5="3a417a996d70e71b76bb762f97834e7c" sha1="c13457a0e1131fa2b12fbbc6e5ccc63b21bab7e1" sha256="295b45aac9e07f54adcf5247c6560aefd7d6897d28d85658642186dfab59af14"/>
 	</game>
+	<game name="Spooky Chase (Europe) (En,Es,Pt-BR)" id="4468">
+		<description>Spooky Chase (Europe) (En,Es,Pt-BR)</description>
+		<game_id>EP0546-CUSA26004_00-SPOOKYCHQUBYTEEU</game_id>
+		<rom name="Spooky Chase (Europe) (En,Es,Pt-BR).pkg" size="152109056" crc="dfbc9b4a" md5="90fec760b7b75000ca0cb5b167b573ba" sha1="764f250ee1aeeb7dee73542a5c58b9b3b24aca13" sha256="74258e6496782d4d0e18a6849a2c12a6f5a15e5188f5777e22254c312fca6b41"/>
+	</game>
 	<game name="SRX - The Game (USA) (Blu-ray)" id="1061">
 		<description>SRX - The Game (USA) (Blu-ray)</description>
 		<game_id>UP1456-CUSA27116_00-SRXRACINGGAME20A</game_id>
@@ -16479,6 +16964,11 @@
 		<game_id>UP4139-CUSA07740_00-STELLARISPS4US00</game_id>
 		<rom name="Stellaris - Console Edition - Utopia (USA) (En,Fr,Es,Pt-BR) (v6.00 Remaster) (DLC).pkg" size="1048576" crc="e45dbe96" md5="c0e584acbd633d9eae60a30eea91903e" sha1="3b51235eee436e188c50e8ce09f1607e77d8a332" sha256="73530d1209f16513e0e192c6d4203f31b1638b3f9461e69c23457676747240c9"/>
 	</game>
+	<game name="Steven Universe - Unleash the Light (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.06 Remaster)" id="4453">
+		<description>Steven Universe - Unleash the Light (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.06 Remaster)</description>
+		<game_id>UP1985-CUSA25214_00-4522027390669088</game_id>
+		<rom name="Steven Universe - Unleash the Light (USA) (En,Ja,Fr,De,Es,Es-MX,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr) (v1.06 Remaster).pkg" size="471269376" crc="6e13923c" md5="909fded37a070079bdcc9a42464bc39f" sha1="822baf9e02116e91ab1068319e4e8a3d746f4822" sha256="9aa5a03d77f0e7b38a8f4266bfddb076deb34b724f1b92973f6723698ceb57ad"/>
+	</game>
 	<game name="Story of Seasons - Friends of Mineral Town (USA) (En,Fr,De,Es) (v1.01 Patch)" id="0312">
 		<description>Story of Seasons - Friends of Mineral Town (USA) (En,Fr,De,Es) (v1.01 Patch)</description>
 		<game_id>UP1023-CUSA26005_00-0000000000000000</game_id>
@@ -16519,11 +17009,6 @@
 		<game_id>UP4968-CUSA18449_00-STRANDEDDEEPSIEA</game_id>
 		<rom name="Stranded Deep (USA) (En,Fr,De,Es,It) (v1.14 Remaster).pkg" size="947650560" crc="f329ea80" md5="3e092151481afaa9efbcc14638b0a024" sha1="8e42207d9fed99d279704b362aaebb6350ee5d1f" sha256="eea8e92eeb2c3528a31c54b472287976fb3e0292f5bca9fb3d4708e78b54af69"/>
 	</game>
-	<game name="Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.12 Remaster)" id="3133">
-		<description>Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.12 Remaster)</description>
-		<game_id>UP0082-CUSA29578_00-SOPFFORIGIN00000</game_id>
-		<rom name="Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.12 Remaster).pkg" size="34643771392" crc="84dc0796" md5="0f0c2469476c1f9aece9fe9f17316b6f" sha1="8695b2637748b8d78dd075683dfdfa1dffbf89cc" sha256="6197cd59028d857d2ee7dd5202028ebed619e84e340f08a27c8ea3c570593cf0"/>
-	</game>
 	<game name="Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (Blu-ray)" id="1347">
 		<description>Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (Blu-ray)</description>
 		<game_id>UP0082-CUSA29578_00-SOPFFORIGIN00000</game_id>
@@ -16533,6 +17018,11 @@
 		<description>Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.04 Patch)</description>
 		<game_id>UP0082-CUSA29578_00-SOPFFORIGIN00000</game_id>
 		<rom name="Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.04 Patch).pkg" size="1197277184" crc="7b5b8046" md5="f47e11bb1995cb3a69b3d9d3ec22e3bb" sha1="412291d962672022489356a021e6209d4492627f" sha256="6106b36c231579119a35ec2d33427dddae6a711fe0b8b4972abdb92dc1295ca1"/>
+	</game>
+	<game name="Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.12 Remaster)" id="3133">
+		<description>Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.12 Remaster)</description>
+		<game_id>UP0082-CUSA29578_00-SOPFFORIGIN00000</game_id>
+		<rom name="Stranger of Paradise - Final Fantasy Origin (USA) (En,Ja,Fr,Es) (v1.12 Remaster).pkg" size="34643771392" crc="84dc0796" md5="0f0c2469476c1f9aece9fe9f17316b6f" sha1="8695b2637748b8d78dd075683dfdfa1dffbf89cc" sha256="6197cd59028d857d2ee7dd5202028ebed619e84e340f08a27c8ea3c570593cf0"/>
 	</game>
 	<game name="Stranger of Paradise - Final Fantasy Origin - Braveheart and Lustrous Shield (USA) (En,Ja,Fr,Es) (v1.12 Remaster) (DLC)" id="3134">
 		<description>Stranger of Paradise - Final Fantasy Origin - Braveheart and Lustrous Shield (USA) (En,Ja,Fr,Es) (v1.12 Remaster) (DLC)</description>
@@ -16734,6 +17224,11 @@
 		<game_id>UP3126-CUSA19488_00-SUPERLIMINALPS4A</game_id>
 		<rom name="Superliminal (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Ar,Uk) (v1.07 Remaster).pkg" size="4189782016" crc="881c5663" md5="927dfbd6831603378c2a2cf99ee1b813" sha1="fe9fb4ac6fa338991dacfd822e5c696184116c87" sha256="d74a033ba42bce763ca12e2dba64348a2b1022453cf9f7c686cfc06fa141fc70"/>
 	</game>
+	<game name="Surge 2, The (USA) (En,Fr,De) (v1.10 Remaster)" id="4471">
+		<description>Surge 2, The (USA) (En,Fr,De) (v1.10 Remaster)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The (USA) (En,Fr,De) (v1.10 Remaster).pkg" size="6973751296" crc="f8274da3" md5="da1c4a0b748f073acbdacfd48eedddeb" sha1="bcc62a8e03e0ebcdf1e1d4bef76a722095147bee" sha256="be10662265a7dc498787a6126ad2ef47e42ae6f00a3a9d2212d5e3bdc20c50fd"/>
+	</game>
 	<game name="Surge 2, The (Europe) (En,Fr,De,Es,It,Pt-BR,Ko,Pl,Ru) (v1.10 Patch)" id="0388">
 		<description>Surge 2, The (Europe) (En,Fr,De,Es,It,Pt-BR,Ko,Pl,Ru) (v1.10 Patch)</description>
 		<game_id>EP4133-CUSA12567_00-0000000THESURGE2</game_id>
@@ -16743,6 +17238,41 @@
 		<description>Surge 2, The (Europe) (En,Fr,De,Es,It,Pt-BR,Ko,Pl,Ru) (Blu-ray)</description>
 		<game_id>EP4133-CUSA12567_00-0000000THESURGE2</game_id>
 		<rom name="Surge 2, The (Europe) (En,Fr,De,Es,It,Pt-BR,Ko,Pl,Ru) (Blu-ray).pkg" size="5617287168" crc="a6a3a0c2" md5="2210c3345928937b6e3ba3815f2cd105" sha1="d8da2eebb8d296014b507781e0470c0e60f39858" sha256="2be893dbcb8cf16b6566b546c8d500d16888bb1c3a30352fab54755b7203da54"/>
+	</game>
+	<game name="Surge 2, The - BORAX-I Quantum Mace (USA) (En,Fr,De) (v1.10 Remaster) (DLC)" id="4472">
+		<description>Surge 2, The - BORAX-I Quantum Mace (USA) (En,Fr,De) (v1.10 Remaster) (DLC)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The - BORAX-I Quantum Mace (USA) (En,Fr,De) (v1.10 Remaster) (DLC).pkg" size="1048576" crc="bccab03b" md5="19703c22ec3ba2a5104e0e9ef3591b7f" sha1="932c2bfc633a9d83888d9d40fc9afb1e315085ed" sha256="43c048a43aeabf79f8f58d7bae43b5dbe64380af2ad9a1b746174896e56274f9"/>
+	</game>
+	<game name="Surge 2, The - Future Shock Weapon Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)" id="4473">
+		<description>Surge 2, The - Future Shock Weapon Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The - Future Shock Weapon Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC).pkg" size="1048576" crc="62ac3c9f" md5="169a8681fdd75bd6b149982ee11b278e" sha1="db99b671017b18b6802b7caf94488266fb76219b" sha256="a935a102ca7df779f7e2476be9d62cfae9af559755affa2d4a94de71c42efc76"/>
+	</game>
+	<game name="Surge 2, The - JCPD Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)" id="4474">
+		<description>Surge 2, The - JCPD Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The - JCPD Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC).pkg" size="1048576" crc="40e2d9da" md5="6a6485ff0f01fb04c48133384b9831f4" sha1="e5cf7ca9df58b1a30f31458e985faecd89952ea0" sha256="ffbc253a89e1ebdb05c812f30dfb57ec2361ae8f46fd8aa8db07471e7a0cf441"/>
+	</game>
+	<game name="Surge 2, The - Jericho's Legacy Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)" id="4475">
+		<description>Surge 2, The - Jericho's Legacy Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The - Jericho's Legacy Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC).pkg" size="1048576" crc="33703120" md5="dc9ac9247a41759bf0de028e97ed159f" sha1="238599f28b854a7f1604cebc7ea7497d438d51c9" sha256="6695142b679c495af3442505a523f1727fe121ca0dac63e9b247f22b9d4ce7c9"/>
+	</game>
+	<game name="Surge 2, The - Public Enemy Weapon Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)" id="4476">
+		<description>Surge 2, The - Public Enemy Weapon Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The - Public Enemy Weapon Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC).pkg" size="1048576" crc="3f4ac3b7" md5="d22d6c0ff3f3183aed88cadee42c0fc1" sha1="ff76367e13227e2a5ccba4cb17fcc0ce5c998cbb" sha256="3ad0e4e4c7658ab06c7f9f7a5cc06abe49a08a3ce724c51b6471f89d455c6e9a"/>
+	</game>
+	<game name="Surge 2, The - The Kraken Expansion (USA) (En,Fr,De) (v1.10 Remaster) (DLC)" id="4477">
+		<description>Surge 2, The - The Kraken Expansion (USA) (En,Fr,De) (v1.10 Remaster) (DLC)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The - The Kraken Expansion (USA) (En,Fr,De) (v1.10 Remaster) (DLC).pkg" size="1048576" crc="8ba4a64d" md5="bb21f4551b4e556bf94dd56b0406624a" sha1="c1d98bd52e3ccca0383351437076c9ac2d2c8ade" sha256="40a84ea4963b819f2dbff4e64152ec60812f30b46e0a4f3e60f5f8d279d38b02"/>
+	</game>
+	<game name="Surge 2, The - URBN Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)" id="4478">
+		<description>Surge 2, The - URBN Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC)</description>
+		<game_id>UP4133-CUSA12564_00-0000000THESURGE2</game_id>
+		<rom name="Surge 2, The - URBN Gear Pack (USA) (En,Fr,De) (v1.10 Remaster) (DLC).pkg" size="1048576" crc="22a54153" md5="0a28fad6098eed7a824d090740536d6e" sha1="737418e5d620445f3cfee8200ac7b97de811fcf0" sha256="7d5729d635b3ecce17c07637cad72926526df517531519e63c96a2675f2b8eb1"/>
 	</game>
 	<game name="Survivalists, The (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.01 Merged)" id="0389">
 		<description>Survivalists, The (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Pl,Ru) (v1.01 Merged)</description>
@@ -16838,6 +17368,11 @@
 		<description>Sword Art Online - Alicization Lycoris (Europe) (En,Ja,Fr,De,Es,It,Ru) (v1.10 Patch)</description>
 		<game_id>EP0700-CUSA18228_00-SWORDARTAL0000EU</game_id>
 		<rom name="Sword Art Online - Alicization Lycoris (Europe) (En,Ja,Fr,De,Es,It,Ru) (v1.10 Patch).pkg" size="22324117504" crc="8f387fbc" md5="2c1eb5a2323588b4c2294d63949c1546" sha1="7ebc6836a8150e06a3c2461e493a15af78d6e2c2" sha256="748d9b9ff5bf0889665686340138c54bd3cab7637001a8d4e1b727e2f7200861"/>
+	</game>
+	<game name="Swords of Ditto, The - Mormo's Curse (USA) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (v1.17 Remaster)" id="4624">
+		<description>Swords of Ditto, The - Mormo's Curse (USA) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (v1.17 Remaster)</description>
+		<game_id>UP3643-CUSA10443_00-THESWORDSOFDITTO</game_id>
+		<rom name="Swords of Ditto, The - Mormo's Curse (USA) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru) (v1.17 Remaster).pkg" size="814219264" crc="cf51ffde" md5="382dc2271cf6514a081be01822e4e3a7" sha1="82ab8acd287b8b060f41e6afb27f1d165720e3b8" sha256="8a43d287aab0292491922f61571fa8cc01639d22d1e3fa2406520db5d2e65d80"/>
 	</game>
 	<game name="Symmetry (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Pl,Ru)" id="0334">
 		<description>Symmetry (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Pl,Ru)</description>
@@ -18263,6 +18798,11 @@
 		<game_id>EP2647-CUSA07917_00-TOOTHNTAIL00SIEE</game_id>
 		<rom name="Tooth and Tail (Europe) (v1.71 Patch).pkg" size="297926656" crc="b48fda2b" md5="28c9fac1e83d920d894c65d6f1d43339" sha1="c45a1db230dfbec3ea0a4e14e09ccb4c92b6bc48" sha256="78e3b217af8b66f129e7c6bbc198abd351b9f65b83dc67e1245cb6e788dfb013"/>
 	</game>
+	<game name="Torchlight II (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.16 Remaster)" id="4454">
+		<description>Torchlight II (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.16 Remaster)</description>
+		<game_id>UP1980-CUSA15315_00-TORCHLIGHT200000</game_id>
+		<rom name="Torchlight II (USA) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Pl,Ru) (v1.16 Remaster).pkg" size="2028077056" crc="18dbc30a" md5="8dffd671e7fd2536bec5a031141f6bd9" sha1="042e9441051c0a128c8c26de41084e852f4f09d0" sha256="8142bcb1da808c301e95bc4aa3a9520d8ea76d2edda256b7bda115677e989234"/>
+	</game>
 	<game name="Tormented Souls (Europe) (En,Fr,De,Es,It,Pt-BR,Zh-Hans,Ru) (v1.02 Remaster)" id="3132">
 		<description>Tormented Souls (Europe) (En,Fr,De,Es,It,Pt-BR,Zh-Hans,Ru) (v1.02 Remaster)</description>
 		<game_id>EP4293-CUSA29199_00-TORMENTEDSIEEPS4</game_id>
@@ -18732,6 +19272,16 @@
 		<game_id>UP1024-CUSA09405_00-UNIEXEST00000000</game_id>
 		<rom name="Under Night In-Birth - Exe-Late cl-r (USA) (v1.05 Patch).pkg" size="4064411648" crc="07d0d9a3" md5="fcc43f60644f96bcc58cb906982a1b88" sha1="b8265c98087a819ba043a04a91ffe2f092407f2d" sha256="bb97c5e941427b9ef23f0af1f32d2b630cff5e43715aee9f7b0ba3604cdcc42f"/>
 	</game>
+	<game name="Under Night In-Birth Exe - Late - cl-r (USA) (v1.06 Remaster)" id="4625">
+		<description>Under Night In-Birth Exe - Late - cl-r (USA) (v1.06 Remaster)</description>
+		<game_id>UP1024-CUSA16768_00-UNIEXEST20000000</game_id>
+		<rom name="Under Night In-Birth Exe - Late - cl-r (USA) (v1.06 Remaster).pkg" size="4075552768" crc="112c4331" md5="61a4f181d85c8c07a3b8e91dd7b0ea91" sha1="8a99a4a20dfb49e8a1d8c17bbe9bc6ffbd779d14" sha256="6053a13283eb033bbf85fef94016cb339bc7ce8c2dcfd46302dc1ff612c0a79f"/>
+	</game>
+	<game name="Under Night In-Birth Exe - Late - st (USA) (v1.06 Remaster)" id="4626">
+		<description>Under Night In-Birth Exe - Late - st (USA) (v1.06 Remaster)</description>
+		<game_id>UP1024-CUSA09405_00-UNIEXEST00000000</game_id>
+		<rom name="Under Night In-Birth Exe - Late - st (USA) (v1.06 Remaster).pkg" size="4080402432" crc="90ba15ec" md5="ead7598939d0abd3681afc61ea67b947" sha1="a1b417f28e56e1d71fb7b22f4d0af15f05e4577f" sha256="9ff83739dd3a1e1809eae5c1cabb652121cebf0802e9a0ff76c9533b21ad56d5"/>
+	</game>
 	<game name="Undernauts - Labyrinth of Yomi (USA) (En,Ja) (Blu-ray)" id="0415">
 		<description>Undernauts - Labyrinth of Yomi (USA) (En,Ja) (Blu-ray)</description>
 		<game_id>UP1024-CUSA28130_00-UNDERNAUTSLBYOMI</game_id>
@@ -19075,6 +19625,11 @@
 		<description>Wife Quest (Asia) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hant) (Blu-ray)</description>
 		<game_id>HP2005-CUSA27782_00-WIFEQUEST0000000</game_id>
 		<rom name="Wife Quest (Asia) (En,Ja,Fr,De,Es,Pt-BR,Zh-Hant) (Blu-ray).pkg" size="370212864" crc="2b38b695" md5="beecc70879f529203b4da8205fc08e8a" sha1="38faa8dc4cf2ae24708a6feb412a069980ce9e26" sha256="c701d474aa2eba9fc2bde5a8416de63fe1abacd7925e8d6d1d5fe6ade95091a5"/>
+	</game>
+	<game name="Wildcat Gun Machine (USA) (En,Ja,Fr-FR,Fr-CA,De,Es,Es-MX,It,Nl,Pt,Pt-BR,Da,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Ar,Ro,Uk) (v1.02 Remaster)" id="4470">
+		<description>Wildcat Gun Machine (USA) (En,Ja,Fr-FR,Fr-CA,De,Es,Es-MX,It,Nl,Pt,Pt-BR,Da,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Ar,Ro,Uk) (v1.02 Remaster)</description>
+		<game_id>UP1440-CUSA29645_00-0058213943262133</game_id>
+		<rom name="Wildcat Gun Machine (USA) (En,Ja,Fr-FR,Fr-CA,De,Es,Es-MX,It,Nl,Pt,Pt-BR,Da,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu,Th,Ar,Ro,Uk) (v1.02 Remaster).pkg" size="797573120" crc="ead39d11" md5="269e1408c7832b103f4c980bda16dc14" sha1="ecda076560b3d8aa41e7b1a117ecad440ef28a3a" sha256="5f7e686b0c4e8c2fef284d09e67c3f36e5ce2aeb6619c7cddd2a7a5e0641c975"/>
 	</game>
 	<game name="WILL - A Wonderful World (Europe) (En,Ja,Es,Es-MX,Zh-Hant,Zh-Hans,Ru)" id="2887">
 		<description>WILL - A Wonderful World (Europe) (En,Ja,Es,Es-MX,Zh-Hant,Zh-Hans,Ru)</description>
@@ -19484,6 +20039,61 @@
 		<game_id>EP4591-CUSA31347_00-0000000000000000</game_id>
 		<rom name="Yuppie Psycho - Executive Edition (Europe) (En,Ja,Fr,De,Es,It,Pt-BR,Zh-Hant,Zh-Hans,Ko,Ru,Tr,Uk,Gl).pkg" size="1386020864" crc="10fd2ebd" md5="85864a220d2de445ea476d3680ae448e" sha1="5a448d3c58e79c398f2f0dec455ac066c0501cb6" sha256="7a89d317dd7a7dc8ad2c624c2043257a349a5f5ad293f5f8c2ca7517c9ce4cf5"/>
 	</game>
+	<game name="Zaccaria Pinball (USA) (En,Fr,De,Es,It) (v1.02 Remaster)" id="4479">
+		<description>Zaccaria Pinball (USA) (En,Fr,De,Es,It) (v1.02 Remaster)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball (USA) (En,Fr,De,Es,It) (v1.02 Remaster).pkg" size="1003683840" crc="5d90ef5f" md5="97e7ab5f24b678171b87ded96f96bd60" sha1="f31dff047060ea7965844e5a9f6e8d43af755028" sha256="52dbca8f16588979aad877eb265239b7353f4aa71b82afbb8cca603baa0431d4"/>
+	</game>
+	<game name="Zaccaria Pinball - Award Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4480">
+		<description>Zaccaria Pinball - Award Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Award Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="613702c3" md5="6d815af53a36bdbba57e0f60cb1cdaf8" sha1="61f68a74fd06b3a79f60cdd7f15173e7f019e952" sha256="54aa16f851c6f83d560ea7b0359294627990bad700c941de7498ef5649a994e2"/>
+	</game>
+	<game name="Zaccaria Pinball - Campaign Mode (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4481">
+		<description>Zaccaria Pinball - Campaign Mode (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Campaign Mode (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="45e3bac7" md5="7054a99c6c8eca722ad7babd24918beb" sha1="ef3643d75c7e71caa747bd8fdf4423f7fab2fb7a" sha256="83e40d24085206a97792cd859b261d395085992583daeb9d82f5b83871761a13"/>
+	</game>
+	<game name="Zaccaria Pinball - Deluxe Pack 1 (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4482">
+		<description>Zaccaria Pinball - Deluxe Pack 1 (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Deluxe Pack 1 (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="ca613361" md5="1f3737c01e83fc830917f9dafae0ffc1" sha1="7ee054e28a6819ab41af5aa97a4c66c7e0b67cd4" sha256="fc951af855db54bc8e2b1d79144bbe94767381622fc05a27c347c5ddfcb90c09"/>
+	</game>
+	<game name="Zaccaria Pinball - Electro-Mechanical Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4483">
+		<description>Zaccaria Pinball - Electro-Mechanical Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Electro-Mechanical Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="5b9a082f" md5="4102713f5d1e49dd9382e9c0c1e098fd" sha1="7a3a911ebc82c99bddf098f7c8bdb85b17f9feb9" sha256="247a91c555d3bfdc895dafc9956765d1cb8bae6fc1f12a0f279dc22f6ae2aaae"/>
+	</game>
+	<game name="Zaccaria Pinball - Remake Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4484">
+		<description>Zaccaria Pinball - Remake Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Remake Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="95537a5a" md5="75e389724fad27d6f078a2091b4116f4" sha1="52d0d294afce333dd64226a68aa6f8ed139c6742" sha256="d9f975ce97c06c383e003a197a219700996c5fa77d307b045494d7cc7d613396"/>
+	</game>
+	<game name="Zaccaria Pinball - Remake Starter Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4485">
+		<description>Zaccaria Pinball - Remake Starter Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Remake Starter Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="35c45477" md5="a5d4be7ca5c3bf6ec8d303fba14be886" sha1="e632f6ef27134f94f0b93db7af323ea01174779f" sha256="0eb09e0d015f202579030d4eb6c050a4a68e10d57b8b3a2cf27300cebb5e0230"/>
+	</game>
+	<game name="Zaccaria Pinball - Retro Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4486">
+		<description>Zaccaria Pinball - Retro Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Retro Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="2bbabced" md5="c0bc9eef223ed4a99af427c5ec3b53c1" sha1="65fa1975c06d618f5e8e9d13e6eccf066bb57812" sha256="69246a3c3bdda1f8d81e460a2e69c27cdeceaec6ad4fa66ccead7943bc39fc18"/>
+	</game>
+	<game name="Zaccaria Pinball - Solid-State Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4487">
+		<description>Zaccaria Pinball - Solid-State Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Solid-State Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="0c48d902" md5="813dc3c5ada9961bd502e1829521110e" sha1="9bfc8a38f9e10f69bc1657cc69e9b15dfc913c3d" sha256="b8ee3453d3c9f47181e0736ed98d7c9efc8ca401a4b2554ce3b374b1b2b35718"/>
+	</game>
+	<game name="Zaccaria Pinball - Solid-State Starter Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4488">
+		<description>Zaccaria Pinball - Solid-State Starter Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Solid-State Starter Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="01da61f2" md5="a2cf6b11d8c0891da721e979e7581b17" sha1="6b67fbbf55796bda2a85217a2eaeabaf8e18bdfd" sha256="8a41ebb28ededf0c1b2469e0e64fb141a518a256c1b0536419facc70c8d1ddca"/>
+	</game>
+	<game name="Zaccaria Pinball - Zombie Invasion Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)" id="4489">
+		<description>Zaccaria Pinball - Zombie Invasion Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC)</description>
+		<game_id>UP5662-CUSA18557_00-0000000000000001</game_id>
+		<rom name="Zaccaria Pinball - Zombie Invasion Pack (USA) (En,Fr,De,Es,It) (v1.02 Remaster) (DLC).pkg" size="1114112" crc="b115e970" md5="bc936aa57c1d2d5e4cc1a45dc13d36f8" sha1="3bee04c28193c171bc4674e40517ae1ca144208a" sha256="007f95d4268b84a03a5b2e5c32f6e4d46b2045e6c5dfb46b7e237845d2a7b73d"/>
+	</game>
 	<game name="Zen Pinball 2 (USA)" id="1108">
 		<description>Zen Pinball 2 (USA)</description>
 		<game_id>UP4042-CUSA00187_00-ZP2PS40000000001</game_id>
@@ -19623,6 +20233,296 @@
 		<description>zzzUNK - Metronomicon, The - Slay the Dance Floor - METRONOMDLJP0005 (USA) (DLC)</description>
 		<game_id>UP3385-CUSA08001_00-METRONOMGAME0000</game_id>
 		<rom name="zzzUNK - Metronomicon, The - Slay the Dance Floor - METRONOMDLJP0005 (USA) (DLC).pkg" size="15400960" crc="241a9ba4" md5="bdfaacf79c7b0c48c729f0fd14d83e1a" sha1="5c9d3d7e67ec603beb705050f0afbf3a30c69a5d" sha256="08e4f033302c6b999ceb48a94177038ab6936df47026cda152e591b1c464e28c"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM07000 (USA) (En,Ja) (DLC)" id="4492">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM07000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCARM07000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM07000 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="d1405cb8" md5="e631799bfa71957702e4ef168b3c429d" sha1="6efa14afff6f93e162b91bcfa5a87bf642f7b958" sha256="1c7e2022b2e09a477b50567e7159e8a261d06fab64925327256cb55ed3de96c0"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM08000 (USA) (En,Ja) (DLC)" id="4493">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM08000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCARM08000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM08000 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="7027ab41" md5="80561beed8373ddc3de4109177f5c41f" sha1="5398e6fc88666057ea15894f0167e20bb6525e89" sha256="4114de5bc1a887b1b2ecec570822c0bc017d80662dbe45f73f844362b14f018a"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM09000 (USA) (En,Ja) (DLC)" id="4494">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM09000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCARM09000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCARM09000 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="8d244e15" md5="19dd00d68dd20d39840b61d0baa7bc7f" sha1="5c26b9dcdc975a58eff243223354b57e3a504796" sha256="a4d4da168a3df77dbead51368d08cff33f6b8ca262ebf9e3cadf35d165d6bed3"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCBOTTOM07 (USA) (En,Ja) (DLC)" id="4495">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCBOTTOM07 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCBOTTOM07</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCBOTTOM07 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="38553734" md5="b8074725741cf28bf677b17e0ee6cfc3" sha1="7e005b6074574f890a114e86b2e8a10c2c9f863c" sha256="107b0413c0691163ee085fae8bec086e106d317770eec504d7aa1ce9a684dcb4"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCBOTTOM08 (USA) (En,Ja) (DLC)" id="4496">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCBOTTOM08 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCBOTTOM08</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCBOTTOM08 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="81cb2c1d" md5="70622e033b7575c70605d03c5801867b" sha1="c98e3a5587f79982e27ce03edc0095cc62df1bef" sha256="a5a1edd116a755f8428e8a84c39b34d034606684ae654ad315ef88c1f42dad29"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0000 (USA) (En,Ja) (DLC)" id="4497">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0000 (USA) (En,Ja) (DLC).pkg" size="8585216" crc="9044173b" md5="b22ac2cbfd24a8b27560b1ca84ec29d6" sha1="2be6742c605ad29e629bc862f463fc0bb4c1bc6d" sha256="f958694f256a3855baa63b7e24a18c0cd3b26d310a407e57f27fa78ecbcc29e1"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0100 (USA) (En,Ja) (DLC)" id="4498">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0100 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0100</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0100 (USA) (En,Ja) (DLC).pkg" size="3211264" crc="26fb2d5f" md5="be420c2c8ca5a7703286c5ff8d89de49" sha1="c51489d8c5ca2bcfe0d024f7253d52fddda92bbe" sha256="72121d0ea4ae9df372576ab8608630e3a663abba8e9bb7d87a245f911577d97c"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0200 (USA) (En,Ja) (DLC)" id="4499">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0200 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0200</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0200 (USA) (En,Ja) (DLC).pkg" size="5439488" crc="40ddfbbf" md5="bd77b7146997289cce211e86e9dc6bd9" sha1="93147a728aedf0209682135f0d30aad0c6573b46" sha256="b3312148d3963d2b3f79c32dcefa4861c2c0292b489c42d9d3ac7fdbfafc9171"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0300 (USA) (En,Ja) (DLC)" id="4500">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0300 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0300</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0300 (USA) (En,Ja) (DLC).pkg" size="2752512" crc="118ff853" md5="53bf3312149c1d50d7396f35b94bc203" sha1="e274c40d77bd709e7e4f533d1362f4a16fb88df3" sha256="66833972b9091a2a43b31e15d3a986b9cd18e266833925840c93330fc3c5e148"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0500 (USA) (En,Ja) (DLC)" id="4501">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0500 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0500</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0500 (USA) (En,Ja) (DLC).pkg" size="7602176" crc="083b8aea" md5="568a9b42a3daba65e038c2a9ca751167" sha1="6e4513931e0400e427abf106db2bfd4fe8a8927f" sha256="4f15721c089c78b7b5e6972fd74ab6c7e6dbfd43fc17c153d830c63c43f76eea"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0600 (USA) (En,Ja) (DLC)" id="4502">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0600 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0600</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0600 (USA) (En,Ja) (DLC).pkg" size="3211264" crc="6361eb62" md5="b265fbef3462043e6ac925cce3fc0df5" sha1="5383409ab9caeb4a516e9ff709860575c613776f" sha256="2ef74ad1a3ec54db54f72211ae329cb978750407e881935b69e77d489aa16050"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0700 (USA) (En,Ja) (DLC)" id="4503">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0700 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0700</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0700 (USA) (En,Ja) (DLC).pkg" size="5505024" crc="93fb182e" md5="6cc840a46ea9ddcbd03664f8f295faaf" sha1="96306c05e91796b779a67c604ba3e42299662afd" sha256="99c288905ce98c2cb6ecee8f71402d1211131369841690850e3c58f9721fee31"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0800 (USA) (En,Ja) (DLC)" id="4504">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0800 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR0800</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR0800 (USA) (En,Ja) (DLC).pkg" size="2818048" crc="74f33ad2" md5="4a293d0eb95d2b9aa566d86d077600a2" sha1="d0d319b8acdc0623d5e7b1efc69eb02c7360aa7d" sha256="16a8a626ec87c1f6ef1ebe995c9703ea865200521bb67bb6525fdf6d38135b2d"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1000 (USA) (En,Ja) (DLC)" id="4505">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1000 (USA) (En,Ja) (DLC).pkg" size="8323072" crc="ecc1206f" md5="1056faac8bff425b03d786df5518571a" sha1="43a504dd8b66a72693fd2394d3f5690ff35a143c" sha256="4e159a528fa49a24c788d5c297826539ebfc0c74083e46211812d6a0d745b0fc"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1100 (USA) (En,Ja) (DLC)" id="4506">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1100 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1100</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1100 (USA) (En,Ja) (DLC).pkg" size="3014656" crc="ac833b2f" md5="7493ab8fa4f593af932027b8b06fcf7b" sha1="0a78e0419c39bc7fa94855bd5d1933149b417ba2" sha256="a00a05ae4ce51f42c48e4d37a09ebb7864f48f145d848bfcb943cc9c8480128b"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1200 (USA) (En,Ja) (DLC)" id="4507">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1200 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1200</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1200 (USA) (En,Ja) (DLC).pkg" size="4390912" crc="69b87ef1" md5="03f3a1ab52b2f85bdf5a796802657a90" sha1="686a5b07f873e4d75d6defd09c567a512ca021e5" sha256="10b2ae626de58535e623f721bd0c18c78e92d29b3b9ba691714c0e4572956975"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1300 (USA) (En,Ja) (DLC)" id="4508">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1300 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1300</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1300 (USA) (En,Ja) (DLC).pkg" size="2490368" crc="ee6f1507" md5="2914a4fda2f18944d7630ae5232d0157" sha1="a962c4748025200c623464856e536452b6ddf4ff" sha256="70eab1bfa4c47f47a66b262f11af59e81b778d73bcd1e24b50dea0ae7eee6d0e"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1400 (USA) (En,Ja) (DLC)" id="4509">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1400 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1400</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1400 (USA) (En,Ja) (DLC).pkg" size="4456448" crc="a5934523" md5="a31fa2bd1310e3957326c45d068481fa" sha1="5bd01fe09d9517b952a91c03a47fb4c4d6e35b7d" sha256="5db0b0e8a0efa7b2ba7c92fa51df5c2ffeaf4c7f6f8dacebeb98ce59b9967d76"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1500 (USA) (En,Ja) (DLC)" id="4510">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1500 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1500</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1500 (USA) (En,Ja) (DLC).pkg" size="2555904" crc="1b5ac779" md5="fe88ba9c4898cb683d56d5169c99dd1f" sha1="3d7161639261eb2d00113c86fe26cfcc5e376214" sha256="488c5651df2a6812668e816be333f7ed83e93a81dff71a4482a6e29d3b702637"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1600 (USA) (En,Ja) (DLC)" id="4511">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1600 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1600</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1600 (USA) (En,Ja) (DLC).pkg" size="4390912" crc="d5c82c4c" md5="aab993d7881a273d1beb12643ff2347b" sha1="2183e61100bc811d1ca911c73dc337d27872e358" sha256="7b4090e7764fa572f74a0bf115ec370920e09281b16feb2c2bed981834136097"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1700 (USA) (En,Ja) (DLC)" id="4512">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1700 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1700</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1700 (USA) (En,Ja) (DLC).pkg" size="2424832" crc="0efd743f" md5="3f4fe545112bdd2598975a3319921e1e" sha1="b75302d1c2f5b6919e1854080760add1ae420766" sha256="e363baab89a4b98a28d1d146f51738a06e6c8c65bf976f4cf32734e528ae3e56"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1800 (USA) (En,Ja) (DLC)" id="4513">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1800 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1800</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1800 (USA) (En,Ja) (DLC).pkg" size="4521984" crc="4d2898c6" md5="2c8ff1862b28971b82803c0e5860f9a1" sha1="4b90adfb8e50ffa45263542c9bfef53c1a946f15" sha256="7d547593d229268d173a90df2e2b586622254be19c0b37c9946381beedccb016"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1900 (USA) (En,Ja) (DLC)" id="4514">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1900 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR1900</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR1900 (USA) (En,Ja) (DLC).pkg" size="2490368" crc="27f3bcf1" md5="f467d28e0e6b303dcd78a4c00d91dac2" sha1="1194cd589b8a25b11653fa73917780c070faaae9" sha256="01a314035196e99d125af5fe1bf1cd83045da51de712c4613e5ef69f13b2816e"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR2000 (USA) (En,Ja) (DLC)" id="4515">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR2000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR2000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR2000 (USA) (En,Ja) (DLC).pkg" size="11075584" crc="d92ff3ca" md5="9e8a5b25bff9481e068406aee2bf76cf" sha1="b115ac9c478a1219ebf50880dce2aeec5d51fc08" sha256="fb09c830c3e9f65bb9fed7104479ef4a8a0908a6bfb222249db631011375010a"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR2100 (USA) (En,Ja) (DLC)" id="4516">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR2100 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHAIR2100</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHAIR2100 (USA) (En,Ja) (DLC).pkg" size="3407872" crc="b78f2c54" md5="f7c8d1c91ae7d36f7bc79c216d60aa0b" sha1="3c5f950726f872112b479a8b699cdda52982970d" sha256="99ed4f1ea0b797c845e781158a1d9298b73b8546b949d9327bd59309bf693f6b"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2200 (USA) (En,Ja) (DLC)" id="4517">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2200 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD2200</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2200 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="defbd0da" md5="52361abcee7dce2ee7a46f6302bda8ff" sha1="49ad5a1b1da4c1ecb053e2b781ba72048eae55fe" sha256="187f7dc25cadb660535706b5af1ea9ec5a58c6f365cea143e4f72eae90144de5"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2400 (USA) (En,Ja) (DLC)" id="4518">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2400 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD2400</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2400 (USA) (En,Ja) (DLC).pkg" size="1835008" crc="836cfc2c" md5="a20026314693d513e73bc07504b4199e" sha1="15476c3c6ef2f146f10881e607cb6a02ad06aa44" sha256="a3d4d12046e7ba1256d46e61553ee19ff70faddf76472e2d180ca334ab8139dc"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD24E0 (USA) (En,Ja) (DLC)" id="4519">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD24E0 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD24E0</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD24E0 (USA) (En,Ja) (DLC).pkg" size="1835008" crc="f42dc590" md5="5b829f1e7ab6e268f9a8b4e320f25e2c" sha1="d9ef902579f09ae0fdbd8b944f62bda7e6dcab1a" sha256="278e55c9abbbad718f47ff9eda1b5bbf89ea4a7ee39ef2e32c1a61ea1d42f403"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2500 (USA) (En,Ja) (DLC)" id="4520">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2500 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD2500</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2500 (USA) (En,Ja) (DLC).pkg" size="1900544" crc="1745e9d3" md5="90934d40e51aad0c02417c9fb5bf2667" sha1="e11f24b1833d662f0aceccd570984c7e01ea5398" sha256="00cfb98baef963634caefc00384c780939b8a0b22a4b4ed557896735de0d055b"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD25E0 (USA) (En,Ja) (DLC)" id="4521">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD25E0 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD25E0</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD25E0 (USA) (En,Ja) (DLC).pkg" size="1900544" crc="e01be20f" md5="a091188dd8d3ba4d56f109e95c49f3f5" sha1="eb0c322bd89c7477a4ad38b561bc08886cb16ed6" sha256="d6609a7bdbad589ca70566baecacd651d8401c475cf4a320f1caaac12fe59959"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2600 (USA) (En,Ja) (DLC)" id="4522">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2600 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD2600</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2600 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="4911d686" md5="27a00e4af21cfafc16406e1ec24223fd" sha1="3dbdb6c9c3fa1a4eb0b633b6ab093c25eb404847" sha256="bdeeee28f9014c5a8f3a05fee40b99e6a99d5cb2d04ad21c9ff50d0e43a59fa5"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2700 (USA) (En,Ja) (DLC)" id="4523">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2700 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD2700</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2700 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="d59692fa" md5="6757d3a474c4d5aa83a6947210c3710d" sha1="368d20b8019714998c2e2207134a9e32f9ceba04" sha256="729df82250972a8bfdf96f8d457fd0b72ea8a099a5bf5e46904d029b711c054e"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2800 (USA) (En,Ja) (DLC)" id="4524">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2800 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD2800</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2800 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="290d0775" md5="288f28ad9dbee44569c33a4ff5d3b83b" sha1="3f358032f675b06d264a0945317a26f57c1b9db0" sha256="542087d911a880638f13086ea13b8eb074ca3e9e2ee0400c40ca7a152ef4958d"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2900 (USA) (En,Ja) (DLC)" id="4525">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2900 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCHEAD2900</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCHEAD2900 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="13bd40b0" md5="aa1675fe97ed35b8f3a26414676a54f9" sha1="c72bb1893ef1954a9dd0a416367981ecf9200ea4" sha256="1cdae6e765a3e78fe44e9cc6969a5ce6653cafd2b952cf4a6f5ca4f8d2f9d347"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCLEG09000 (USA) (En,Ja) (DLC)" id="4526">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCLEG09000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCLEG09000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCLEG09000 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="b9f34a0b" md5="db8bb46027f3598f3d338bb979cb4ee4" sha1="f1f5774592a49bf747190e1ec277157468202cbf" sha256="742430bc3041d02619040f0697ed23249c72691b8e61fe7bab15b9635db4be68"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCLEG11000 (USA) (En,Ja) (DLC)" id="4527">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCLEG11000 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCLEG11000</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCLEG11000 (USA) (En,Ja) (DLC).pkg" size="1179648" crc="bdcfbe2a" md5="792c8d7f90c910577d67f16a7d42b4f2" sha1="01ecb30b3cfe301fc123d773144830e8d2740029" sha256="528a6295724e3548141fb665f41c8bf06a791bae6399e513e004d53b05d8c4ac"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0000C2 (USA) (En,Ja) (DLC)" id="4528">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0000C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0000C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0000C2 (USA) (En,Ja) (DLC).pkg" size="21364736" crc="466aef5f" md5="d75e60d87faa91230c3a2a2ae4759fc3" sha1="cba5fdf2da8b04415b397dbba4b1ecd74849d47e" sha256="bf196b1cdc0493c25ef8f65f2e66324bd1d218241f4ca74d5b4e35518ce2991a"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0003C1 (USA) (En,Ja) (DLC)" id="4529">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0003C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0003C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0003C1 (USA) (En,Ja) (DLC).pkg" size="14811136" crc="36b3f148" md5="8f45946f58ab3eb83105af7d9e7bb137" sha1="4d96df73291a7f5f07d2cc41c5f0070585972059" sha256="1e30e7da2d62035fea1da0659b3321da93ab6537474872b8c48b990af0db017f"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0003C2 (USA) (En,Ja) (DLC)" id="4530">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0003C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0003C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0003C2 (USA) (En,Ja) (DLC).pkg" size="14876672" crc="2470dac7" md5="425f6b04a100c723b798f5a580ed5625" sha1="b3e34398b09882d9912a4aae1f08327b94a7cce1" sha256="588bc12f32894ba916fbbf3a2f98ca50b79519eb16aad36ecaa1bdd8388da08f"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0004C1 (USA) (En,Ja) (DLC)" id="4531">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0004C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0004C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0004C1 (USA) (En,Ja) (DLC).pkg" size="12845056" crc="5e4dd440" md5="3ede7404fcd569271381f5ef35462e43" sha1="65720ef4e6b7b1c3a021352f744cf56cf29b112d" sha256="98f39c9a51072b15fcade825199eda5c4b2efabef63eb6f562f89fc62e932883"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0004C2 (USA) (En,Ja) (DLC)" id="4532">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0004C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0004C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0004C2 (USA) (En,Ja) (DLC).pkg" size="12976128" crc="8da30509" md5="e3e6a92d7edb9771820f07af92a76057" sha1="22f984f1c1ee60d012e21e26ec50879bc723338c" sha256="60d3b7e9eda4e67795979f9099b2b99333f790262844ae49c51b75885ad570dc"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0100C2 (USA) (En,Ja) (DLC)" id="4533">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0100C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0100C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0100C2 (USA) (En,Ja) (DLC).pkg" size="19070976" crc="fc1d6f3e" md5="62ce373ca93850e03e331d83bdfb6671" sha1="ceffc7199f3d3a6432a3a0be96a55f71efd9081f" sha256="4fd2d26c3feebf9e219b58df6e021a3f334b36ed4e4afe33b8fdea77c733ab8c"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0103C1 (USA) (En,Ja) (DLC)" id="4534">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0103C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0103C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0103C1 (USA) (En,Ja) (DLC).pkg" size="12845056" crc="92d863cb" md5="dd76324d76676921d8ae680fd3e7403d" sha1="1ba68ded5eab508efc184e1758930f0a23d3cdaf" sha256="200c41410c54dfbe33545e26c34f15846e5791eaeb5eaead5805170f7b59e7fe"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0103C2 (USA) (En,Ja) (DLC)" id="4535">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0103C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0103C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0103C2 (USA) (En,Ja) (DLC).pkg" size="15007744" crc="0993a554" md5="7353d4f0e74b0db88883e9f462ca87b8" sha1="484b13a14fc122f2ac821cff7a48c7126ba80754" sha256="d26c089f931205d77f9331ea3537a9764df483b65858a5de477773fe2ab1c74f"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0104C1 (USA) (En,Ja) (DLC)" id="4536">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0104C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0104C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0104C1 (USA) (En,Ja) (DLC).pkg" size="16318464" crc="436fff49" md5="f87d0f17ed080e414ae05da4ec85d221" sha1="7faf03c5a1732009f33a561011fdd2e791c9a727" sha256="303f9759ac2a7c3642507297ff67bd9187875456a598b3bdb11d15e3b83a3657"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0104C2 (USA) (En,Ja) (DLC)" id="4537">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0104C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0104C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0104C2 (USA) (En,Ja) (DLC).pkg" size="13828096" crc="6fe12709" md5="bc544c5ee941912c65f5cf0aa94f7e35" sha1="0487efb11972adc1a9dae2fce0ea2c039b93fac6" sha256="1471e50c1b05093d91c16fa75ea2d7a6d6a59d72995b62c0ccfaff9642a63c5f"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0200C2 (USA) (En,Ja) (DLC)" id="4538">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0200C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0200C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0200C2 (USA) (En,Ja) (DLC).pkg" size="24903680" crc="15c07d66" md5="4d5aba92afe6779b3e294ff6d3b33e90" sha1="c825a9454b4f12c60c82370b8bbd6c5db6338467" sha256="b11b468cc02272f83facde363e4bca14af25a22316881d7240631d2806b98f8c"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0201C1 (USA) (En,Ja) (DLC)" id="4539">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0201C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0201C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0201C1 (USA) (En,Ja) (DLC).pkg" size="14024704" crc="5fc55328" md5="3340fa722bf0cb8577d97ee5bce29416" sha1="3cee630be263df4ef4341c681e559e4197f03673" sha256="1aebb6d69011059caab9a4c7a78af7083eb66f9a6b79b08123e47c2ac3a6fcf8"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0201C2 (USA) (En,Ja) (DLC)" id="4540">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0201C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0201C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0201C2 (USA) (En,Ja) (DLC).pkg" size="14155776" crc="8a63c964" md5="6e8c27dad40611c6387bff482b382941" sha1="8b1f9a0669a78685c5b046bb61e96edff29dc022" sha256="6a5ec7b09c977db48f7d78121db1d8348c9f33059bebc75392a64495bc4582e9"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0202C1 (USA) (En,Ja) (DLC)" id="4541">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0202C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0202C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0202C1 (USA) (En,Ja) (DLC).pkg" size="20512768" crc="92b78e10" md5="fadc62bd62d5e6a248c8df05e06f19d2" sha1="8cc266f0c6e9e0269222903be11327e1638cdb04" sha256="8cdba96c5317706a65ea0f419dcf2bb3293b9a881e3126207165c77be205c5aa"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0202C2 (USA) (En,Ja) (DLC)" id="4542">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0202C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0202C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0202C2 (USA) (En,Ja) (DLC).pkg" size="12976128" crc="544f7873" md5="54eb76de099867f6cc6beac75a0541ca" sha1="5f903df393ae348231636653c4150e721710d53d" sha256="1f211ad5de2634eec8e0048c1eda30d7e05482398a19ee76ee31f2d00bb16008"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0300C2 (USA) (En,Ja) (DLC)" id="4543">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0300C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0300C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0300C2 (USA) (En,Ja) (DLC).pkg" size="14548992" crc="f085dd06" md5="70a1128526098daf404c33c705afbd4f" sha1="93208c09f1b37143f5c3f82f41391ebc4ba04a3d" sha256="fdb105065a55b57ec6885a1946f4dc42dbe868059307a0f96920f0e469eee4cd"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0301C1 (USA) (En,Ja) (DLC)" id="4544">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0301C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0301C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0301C1 (USA) (En,Ja) (DLC).pkg" size="16121856" crc="6bd9d39c" md5="0d526331f78cf126d84c528cac09551d" sha1="240fe41410780b274a73e1f96ff3570a5bac92c5" sha256="4efacc48fdcfaee976b1015b304965f7fdfbd35c25d620738fb4db70ec766e93"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0301C2 (USA) (En,Ja) (DLC)" id="4545">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0301C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0301C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0301C2 (USA) (En,Ja) (DLC).pkg" size="16056320" crc="3d4e6ef0" md5="32f7da0d173f8f0b8e0b0d528b475c4c" sha1="3ec74010a4befe903b6e12172e4971eb8802a3aa" sha256="1192e003f46934febe8d2f6395f700cafdc54b8ddd7a83bd85371dfa2c751adc"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0302C1 (USA) (En,Ja) (DLC)" id="4546">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0302C1 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0302C1</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0302C1 (USA) (En,Ja) (DLC).pkg" size="16056320" crc="17b9aef6" md5="9e775e01064173cabcab23d78f9fdc99" sha1="58e26440daa05e4d096befca3134afbf35d88fe2" sha256="2ddae98c8fae2ecb42c30518914ddce863504463db6da1f56fa3953103b78a99"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0302C2 (USA) (En,Ja) (DLC)" id="4547">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0302C2 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCPL0302C2</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCPL0302C2 (USA) (En,Ja) (DLC).pkg" size="16187392" crc="158ce2d0" md5="0a0da9ce466fb5c6225ea8bac623523b" sha1="696991c5373f8ffbc4ac39ca10c7782c38056cee" sha256="c2cedeef8fffd29fd305296ef6895e321ef16e4789d780b490ec2c75264b690f"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCTOPS1100 (USA) (En,Ja) (DLC)" id="4548">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCTOPS1100 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCTOPS1100</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCTOPS1100 (USA) (En,Ja) (DLC).pkg" size="1048576" crc="67b34805" md5="9ce113570dd0626da7a63c3a91054679" sha1="99eb46577fb1ed3de5e3ef60c29b6232eb144629" sha256="7ec0a9614ffb2fe0cfdc929f917a056b95ace6531201212b878fbf54e43537dd"/>
+	</game>
+	<game name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCTOPS1200 (USA) (En,Ja) (DLC)" id="4549">
+		<description>zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCTOPS1200 (USA) (En,Ja) (DLC)</description>
+		<game_id>UP1023-CUSA02159_00-ANEZ2DLCTOPS1200</game_id>
+		<rom name="zzzUNK - Onechanbara Z2 - Chaos - UP1023-CUSA02159_00-ANEZ2DLCTOPS1200 (USA) (En,Ja) (DLC).pkg" size="1114112" crc="a1a52e2a" md5="e7ca181b0861ca161d3b04f00b33c83b" sha1="1c1fd7bf4598e12fe28d88edc81762fb0cfe7651" sha256="a395a6ebb1782bbab3d2e1d64da800eeeb767d3ab112eb6213c6ea81ccd6e037"/>
 	</game>
 	<game name="zzzUNK - Rock Band 4 - UP8802-CUSA02084_00-GDRBEXPORTXX0004 (USA) (En,Fr,Es) (DLC)" id="1297">
 		<description>zzzUNK - Rock Band 4 - UP8802-CUSA02084_00-GDRBEXPORTXX0004 (USA) (En,Fr,Es) (DLC)</description>

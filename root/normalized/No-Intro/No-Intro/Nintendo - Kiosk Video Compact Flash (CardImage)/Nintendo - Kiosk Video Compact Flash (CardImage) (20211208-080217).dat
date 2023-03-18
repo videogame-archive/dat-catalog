@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>139</id>
+		<name>Nintendo - Kiosk Video Compact Flash (CardImage)</name>
+		<description>Nintendo - Kiosk Video Compact Flash (CardImage)</description>
+		<version>20211208-080217</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="D'entrainement cerebral, Lecons de cuisine, English Training, Methode Mathematique (France)" id="0003">
+		<description>D'entrainement cerebral, Lecons de cuisine, English Training, Methode Mathematique (France)</description>
+		<rom name="D'entrainement cerebral, Lecons de cuisine, English Training, Methode Mathematique (France).img" size="998129664" crc="dcbcc980" md5="f053fb4ff076c05474014f2fef0c664a" sha1="f1617b6a359084b2dbe1c123840fd09f75ed0089" sha256="0aaa0fc00b0467bf505389f65c0e38bb0b637697cb9187bfe06e056284d8dba1"/>
+	</game>
+	<game name="Q4 2009 (USA) (v1)" id="0004">
+		<description>Q4 2009 (USA) (v1)</description>
+		<rom name="Q4 2009 (USA) (v1).img" size="1014644736" crc="e1c318b4" md5="12427e65130b880b91a4a167dc9b42b1" sha1="082fc622e0241b7e486d3a01f0b92897cd29e9f3" sha256="b1435e996c138a93ab7d9fcc7b0d0b39704a2843ee99a6b579754c908b12f15d"/>
+	</game>
+	<game name="Wii Fit (USA)" id="0002">
+		<description>Wii Fit (USA)</description>
+		<rom name="Wii Fit (USA).img" size="1014644736" crc="4f687dbc" md5="f5e55d21a54a8486cfd58e714c73d614" sha1="83cd1a9cb066882394fc4908af892720d68da2b5" sha256="53c3c778d69371a92301ed4d97f8fa6f5113c411799b7e818ee478e0d39b1a1d"/>
+	</game>
+	<game name="Wii Q4 (USA) (v4)" id="0001">
+		<description>Wii Q4 (USA) (v4)</description>
+		<rom name="Wii Q4 (USA) (v4).img" size="1014644736" crc="79aab06d" md5="d4228a3a3db32891e0590af44d62f030" sha1="958392357e93fe006b76b6e8ff2ee86339c2cf9a" sha256="48b9517e2a6857db16df7f07bd6b1d1f58519e854f91370445de7cf716c21e24"/>
+	</game>
+</datafile>

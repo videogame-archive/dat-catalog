@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>279</id>
+		<name>IBM - PC and Compatibles (Flash Media)</name>
+		<description>IBM - PC and Compatibles (Flash Media)</description>
+		<version>20230315-060715</version>
+		<author>Aringon, Hiccup, NovaAurora, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Apotheon (USA) (IndieBox)" id="0005">
+		<description>Apotheon (USA) (IndieBox)</description>
+		<rom name="Apotheon (USA) (IndieBox).bin" size="1006632960" crc="4b011d4a" md5="2fa06349dcbdabb0d619a793d6b0dd57" sha1="3b5156dc853587e5317fbddc8eaf3726b0526782" sha256="6b2cc78a4c91d8f0a6e109d6c979652208c4295a2d808d47955f18a1bf0bf9bc"/>
+	</game>
+	<game name="Armello (USA) (IndieBox)" id="0002">
+		<description>Armello (USA) (IndieBox)</description>
+		<rom name="Armello (USA) (IndieBox).bin" size="1007681536" crc="281031c8" md5="91ec0cd8e834df12c5fde5827e2c0e19" sha1="71c0af9918adb1d3d77576f40bd07da303cde9b4" sha256="f64ff23f0971d4d72ee333893bdb1dea848986a31463d167cfbdecae7ff3d313"/>
+	</game>
+	<game name="Assault Android Cactus (USA) (IndieBox)" id="0020">
+		<category>Games</category>
+		<description>Assault Android Cactus (USA) (IndieBox)</description>
+		<rom name="Assault Android Cactus (USA) (IndieBox).bin" size="2003828736" crc="c283afc3" md5="5103f85c91995fa4bc69c068dbfa4f8b" sha1="fac5aa6249ac6f53122d350713c3b67de80c11f2"/>
+	</game>
+	<game name="Battlefield 2142 - Dog Tag (USA)" id="0011">
+		<description>Battlefield 2142 - Dog Tag (USA)</description>
+		<rom name="Battlefield 2142 - Dog Tag (USA).bin" size="65470464" crc="59346d9a" md5="4a4c450c09459ac3117337ecd5942e77" sha1="3209487976de80c936f6669e6efed3745a32f569"/>
+	</game>
+	<game name="Captain Forever Remix (USA) (IndieBox)" id="0018">
+		<description>Captain Forever Remix (USA) (IndieBox)</description>
+		<rom name="Captain Forever Remix (USA) (IndieBox).bin" size="503316480" crc="7d70790e" md5="b8525128f83cf7fd6ce8371522a836e1" sha1="4225444390112934709969f8a327bd047800b6e5"/>
+	</game>
+	<game name="Dust - An Elysian Tail (USA) (IndieBox)" id="0019">
+		<category>Games</category>
+		<description>Dust - An Elysian Tail (USA) (IndieBox)</description>
+		<rom name="Dust - An Elysian Tail (USA) (IndieBox).bin" size="2003828736" crc="46fde6b2" md5="2c005fdfb2713eedde075a31fd3f3a57" sha1="4cf1eb37eaf9eb2c8b5b048327f5b8d0c43a5ec6"/>
+	</game>
+	<game name="Dyscourse (USA) (IndieBox)" id="0025">
+		<category>Games</category>
+		<description>Dyscourse (USA) (IndieBox)</description>
+		<rom name="Dyscourse (USA) (IndieBox).bin" size="1007681536" crc="2ec0daf7" md5="34dd6e5801f6bcb560a3bea9671e8859" sha1="09a3a20736fe18e418823a9c221dbfe71604a689"/>
+	</game>
+	<game name="Freedom Planet (USA) (IndieBox)" id="0008">
+		<description>Freedom Planet (USA) (IndieBox)</description>
+		<rom name="Freedom Planet (USA) (IndieBox).bin" size="503316480" crc="1b8ac637" md5="ddf1f38d094f16faf2ba3827a8b409dc" sha1="fa74c84a962ff3dd6a3a6c35957f1c5587f2da74" sha256="a7358d6b50f6a3a8d3b2fd3dd1dcff638f446fe5010d5618ccfc98f4b4363153"/>
+	</game>
+	<game name="Game Bytes - Speed Racer (USA)" id="0009">
+		<description>Game Bytes - Speed Racer (USA)</description>
+		<rom name="Game Bytes - Speed Racer (USA).bin" size="552960" crc="60d30468" md5="54312aa78fc59f77a665f04ace2a4fa5" sha1="61045eebc777b51215e9f3ad1f08ed1b694f0f5d"/>
+	</game>
+	<game name="Gameband + Minecraft (USA) (Redstone)" id="0001">
+		<description>Gameband + Minecraft (USA) (Redstone)</description>
+		<rom name="Gameband + Minecraft (USA) (Redstone).bin" size="7906263040" crc="4b524faf" md5="81d85ee080aa0b658d73c7450407d691" sha1="5cb1a25c933843ecff9f0f5423cda4e4fca1b4e9"/>
+	</game>
+	<game name="Lovers in a Dangerous Spacetime (USA) (IndieBox)" id="0023">
+		<category>Games</category>
+		<description>Lovers in a Dangerous Spacetime (USA) (IndieBox)</description>
+		<rom name="Lovers in a Dangerous Spacetime (USA) (IndieBox).bin" size="503316480" crc="b865c1f7" md5="19e689d55c1ce0f11c7cbb31a121b5f3" sha1="cb98fdf145a8f73bac6f88f328005bcb5e1dbf08"/>
+	</game>
+	<game name="Lovers in a Dangerous Spacetime (USA) (IndieBox) (Alt)" id="0021" cloneofid="0023">
+		<category>Games</category>
+		<description>Lovers in a Dangerous Spacetime (USA) (IndieBox) (Alt)</description>
+		<rom name="Lovers in a Dangerous Spacetime (USA) (IndieBox) (Alt).bin" size="503316480" crc="8d29bda2" md5="d263ff0eb24059ef897f82b4c71ef1cf" sha1="68b35b3824b6ea7932e66939223a22ee777a819d"/>
+	</game>
+	<game name="Moon Hunters (USA) (IndieBox)" id="0004">
+		<description>Moon Hunters (USA) (IndieBox)</description>
+		<rom name="Moon Hunters (USA) (IndieBox).bin" size="1007681536" crc="c4ea740c" md5="58f37ba9e17331a85417d9aafa3c2ef9" sha1="db6c271ffce1ef7e789a785261cd4a51d142419a" sha256="a693be1c6c0e005ffa943f664b12c9b03a1790c6ed549f33a910b57b93248bb3"/>
+	</game>
+	<game name="Mystery of Woolley Mountain (United Kingdom)" id="0016">
+		<description>Mystery of Woolley Mountain (United Kingdom)</description>
+		<rom name="Mystery of Woolley Mountain (United Kingdom).img" size="8053063680" crc="5bc88d36" md5="7ff80cc6b03b4ba9bcf3548231d14c76" sha1="f898bd750c42c23e0f3d1e08fde9d6608106142a" sha256="a00a791108cc8ece72e4f86db5c23fa09cbcc0c8aa2d8b5f718a320bbfa7bf11"/>
+	</game>
+	<game name="Next Penelope, The - Race to Odysseus (USA) (IndieBox)" id="0026">
+		<category>Games</category>
+		<description>Next Penelope, The - Race to Odysseus (USA) (IndieBox)</description>
+		<rom name="Next Penelope, The - Race to Odysseus (USA) (IndieBox).bin" size="1006632960" crc="6a12ccce" md5="28ff71098b0abf1ced6e39e386f07307" sha1="b0c29cdbef9443508ad4e791ca99ef518a2bf398"/>
+	</game>
+	<game name="Nuclear Throne (USA) (IndieBox)" id="0022">
+		<category>Games</category>
+		<description>Nuclear Throne (USA) (IndieBox)</description>
+		<rom name="Nuclear Throne (USA) (IndieBox).bin" size="522452992" crc="6f9a6bcb" md5="785445faa9887d706055ea864015294e" sha1="94d46d49968e7bf57730991113ecb244b5c35277"/>
+	</game>
+	<game name="Rogue Legacy (USA) (IndieBox)" id="0010">
+		<description>Rogue Legacy (USA) (IndieBox)</description>
+		<rom name="Rogue Legacy (USA) (IndieBox).bin" size="465567744" crc="fbea321e" md5="695766cdb8a46a6a2ea74a6ce7827054" sha1="89afd48d765b22bcb53f42f7eb416ae1321edb72"/>
+	</game>
+	<game name="Sasudake Anshin PersoCom Kids Key - Doraemon (Japan)" id="0015">
+		<description>Sasudake Anshin PersoCom Kids Key - Doraemon (Japan)</description>
+		<rom name="Sasudake Anshin PersoCom Kids Key - Doraemon (Japan).bin" size="128450560" crc="2faca92c" md5="179b345504005986eb37324bbee79b93" sha1="41c5f3626ef74c978543e944a13e9ee38c790b4a"/>
+	</game>
+	<game name="Sasudake Anshin PersoCom Kids Key - Mickey Mouse (Japan)" id="0014">
+		<description>Sasudake Anshin PersoCom Kids Key - Mickey Mouse (Japan)</description>
+		<rom name="Sasudake Anshin PersoCom Kids Key - Mickey Mouse (Japan).bin" size="128450560" crc="add23b2b" md5="d18423f5291f9c9684b26a2e7a779f00" sha1="ed906041d7d991e7777a072ed3055ed65b3b5ae2"/>
+	</game>
+	<game name="Sasudake Anshin PersoCom Kids Key - Tamagotchi (Japan)" id="0012">
+		<description>Sasudake Anshin PersoCom Kids Key - Tamagotchi (Japan)</description>
+		<rom name="Sasudake Anshin PersoCom Kids Key - Tamagotchi (Japan).bin" size="128450560" crc="6a9767bd" md5="d8894fabd350ddc4b17433564782b696" sha1="caa9e31e73a7581d9418ff4c648673ac838f615f"/>
+	</game>
+	<game name="Sasudake Anshin PersoCom Kids Key - Winnie the Pooh (Japan)" id="0013">
+		<description>Sasudake Anshin PersoCom Kids Key - Winnie the Pooh (Japan)</description>
+		<rom name="Sasudake Anshin PersoCom Kids Key - Winnie the Pooh (Japan).bin" size="128450560" crc="73e8618c" md5="9a20c7bfbb89cba6e7730da0801969e1" sha1="382a4bf96a5a236c87960681fdeccfd7d4b818ca"/>
+	</game>
+	<game name="Super Rare Mixtape Vol. 1 (United Kingdom)" id="0006">
+		<description>Super Rare Mixtape Vol. 1 (United Kingdom)</description>
+		<rom name="Super Rare Mixtape Vol. 1 (United Kingdom).bin" size="8053063680" crc="a6e06134" md5="be3403644d8d87297d519c0d9054f170" sha1="50f1489538788d832299e8cb729c52a1db029771" sha256="308d25370af2ef0e4cd8bc0cf19ae667302fd52e1a1e74966c97f4beb4b539e6"/>
+	</game>
+	<game name="Super Rare Mixtape Vol. 2 (United Kingdom)" id="0007">
+		<description>Super Rare Mixtape Vol. 2 (United Kingdom)</description>
+		<rom name="Super Rare Mixtape Vol. 2 (United Kingdom).bin" size="15728640512" crc="5d08e88b" md5="8909f3f75db31254fe99f0f07978e384" sha1="038b94cd604f2c9d836ad5f4d0bf3717bc0abdf3" sha256="a2266cf818d4b96415de5fdb30fa0e125f12802738f1ecd74e933025feccc9d3"/>
+	</game>
+	<game name="Super Rare Mixtape Vol. 3 (United Kingdom)" id="0017">
+		<description>Super Rare Mixtape Vol. 3 (United Kingdom)</description>
+		<rom name="Super Rare Mixtape Vol. 3 (United Kingdom).bin" size="15728640000" crc="9d347fbb" md5="14e421911ef2cfe63a56d5e20c7ce872" sha1="dfa54b93ad52a0cf8d20bfb466e80317653d8ca1" sha256="25c149f2f5775536822a1f8c3e3ece31bfc082b78e7c4b16f1ab538d4cd05701"/>
+	</game>
+	<game name="Super Win the Game (USA) (IndieBox)" id="0024">
+		<category>Games</category>
+		<description>Super Win the Game (USA) (IndieBox)</description>
+		<rom name="Super Win the Game (USA) (IndieBox).bin" size="129761280" crc="7c5a28f6" md5="db6e88fa323de482e40fa9152e39f4b2" sha1="90d5b90e78a15d03e043841ab5e857307eb7550f"/>
+	</game>
+	<game name="Terraria Pickaxe (Canada) (Xbox 360)" id="0028">
+		<description>Terraria Pickaxe (Canada) (Xbox 360)</description>
+		<rom name="Terraria Pickaxe (Canada) (Xbox 360).bin" size="2014314496" crc="bcd91138" md5="b14132c470bae60f70d7bce0f2d1771b" sha1="21ce4d94c5d5be109fa3806efd6cc76cd891376f"/>
+	</game>
+	<game name="Yu-Gi-Oh Online USB Duelpass Key (USA)" id="0027">
+		<category>Add-Ons</category>
+		<description>Yu-Gi-Oh Online USB Duelpass Key (USA)</description>
+		<rom name="Yu-Gi-Oh Online USB Duelpass Key (USA).img" size="1040384" crc="62f5669f" md5="694647859bb5d4e3e1b7763ea6878aa2" sha1="6f11c0be66469cecd56c944c6d79ccf2c7b6d55d" sha256="385642356bacf7895d40c101b304cef6023a5d303db2fab474f3e2705a4de436" status="verified"/>
+	</game>
+</datafile>

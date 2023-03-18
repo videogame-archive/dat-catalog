@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v2.xsd">
+	<header>
+		<id>240</id>
+		<name>Welback - Mega Duck</name>
+		<description>Welback - Mega Duck</description>
+		<version>20220531-111927</version>
+		<author>SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2nd Space (World)" id="0001">
+		<description>2nd Space (World)</description>
+		<rom name="2nd Space (World).bin" size="131072" crc="43272949" md5="4d35d82d4d0d1c1a4709e39fa2015061" sha1="b2b54faa87996d614941630c7f098431bf699b58"/>
+	</game>
+	<game name="Ant Soldiers (World)" id="0002">
+		<description>Ant Soldiers (World)</description>
+		<rom name="Ant Soldiers (World).bin" size="131072" crc="4907c1d8" md5="d446648d78544497d8a1f654ba19e423" sha1="52f087a0156c1ef42e03427b405911f5be423b16"/>
+	</game>
+	<game name="Arctic Zone (World)" id="0003">
+		<description>Arctic Zone (World)</description>
+		<rom name="Arctic Zone (World).bin" size="32768" crc="f88f2d25" md5="d9206a9aa8a80650dc14467f1c3a1e9e" sha1="4f3022126f33964e0fb5505fa0caeaa13b995309"/>
+	</game>
+	<game name="Armour Force (World)" id="0004">
+		<description>Armour Force (World)</description>
+		<rom name="Armour Force (World).bin" size="65536" crc="eca6c0ad" md5="ddd2e71a525be1ed6605e933b3f1a616" sha1="aa2c3774eb48df0854d4b61997653f79a810f4cc"/>
+	</game>
+	<game name="Beast Fighter (World)" id="0005">
+		<description>Beast Fighter (World)</description>
+		<rom name="Beast Fighter (World).bin" size="131072" crc="2adb7253" md5="51a5520a1757aded4bb3baf5993b5dc8" sha1="9ff96b40e8636fad37b1b95f83f3a9584f3dfe3e"/>
+	</game>
+	<game name="Black Forest Tale (World)" id="0006">
+		<description>Black Forest Tale (World)</description>
+		<rom name="Black Forest Tale (World).bin" size="65536" crc="211d268b" md5="19e82a8a681ffdbdb40b2d2308242830" sha1="3d62acc2db46bb7b6a2909d640dec6ce095aeec3"/>
+	</game>
+	<game name="Bomb Disposer (World)" id="0007">
+		<description>Bomb Disposer (World)</description>
+		<rom name="Bomb Disposer (World).bin" size="32768" crc="cac582ad" md5="e07e5a8e3c65cb78d7dc39d905de8147" sha1="ba17489d8b753d51bed183459b3de5167e514c65"/>
+	</game>
+	<game name="Captain Knick Knack (World)" id="0008">
+		<description>Captain Knick Knack (World)</description>
+		<rom name="Captain Knick Knack (World).bin" size="131072" crc="a17de1a3" md5="97aedcfc742ba7e93d37d9c3096d565d" sha1="3496ef24a27bbf4050783e090344b0e3275ee862"/>
+	</game>
+	<game name="Commin 5 in 1 (World)" id="0009">
+		<description>Commin 5 in 1 (World)</description>
+		<rom name="Commin 5 in 1 (World).bin" size="65536" crc="ff0da355" md5="b9d32795ac1004892e7f75fbbabefcc6" sha1="fb4ba6c9823808c2705f597294b784837342cbcb"/>
+	</game>
+	<game name="Duck Adventures (World)" id="0010">
+		<description>Duck Adventures (World)</description>
+		<rom name="Duck Adventures (World).bin" size="131072" crc="cc9c6d10" md5="08056eec0bd9252dba8e138c886bafe5" sha1="b0ddee2de1032fc21c379ada1c891543aa130860"/>
+	</game>
+	<game name="Magic Maze (World)" id="0011">
+		<description>Magic Maze (World)</description>
+		<rom name="Magic Maze (World).bin" size="32768" crc="93c878be" md5="0f1f07f00d2477bfaea726a00ef9874a" sha1="5c765a8c5875b237a1af8f7766ca3f0defb9ce10"/>
+	</game>
+	<game name="Magical Tower (World)" id="0012">
+		<description>Magical Tower (World)</description>
+		<rom name="Magical Tower (World).bin" size="65536" crc="98694021" md5="fecedeed294a15226bf83f6bdb9bd874" sha1="6eefbf8742eba1279f943c321b5d55e45a727a67"/>
+	</game>
+	<game name="Mega Duck 4 in 1 (World)" id="0013">
+		<description>Mega Duck 4 in 1 (World)</description>
+		<rom name="Mega Duck 4 in 1 (World).bin" size="65536" crc="8046ea70" md5="b69258fca964f04c09217318759a242b" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438"/>
+	</game>
+	<game name="Pile Wonder (World)" id="0014">
+		<description>Pile Wonder (World)</description>
+		<rom name="Pile Wonder (World).bin" size="32768" crc="d71f1770" md5="475ef85a3329c9c7f79db9ea3ac74bd9" sha1="69222a0c5c3920d0784d0e58c3407b74c1b2bfe8"/>
+	</game>
+	<game name="Pile Wonder (World) (Alt)" id="0015">
+		<description>Pile Wonder (World) (Alt)</description>
+		<rom name="Pile Wonder (World) (Alt).bin" size="32768" crc="61c81e06" md5="41f5481a13c8e52aafe8266db52e622f" sha1="13d8882371823e5dfb74191ef0addafc43aa1de4"/>
+	</game>
+	<game name="Puppet Knight (World)" id="0016">
+		<description>Puppet Knight (World)</description>
+		<rom name="Puppet Knight (World).bin" size="65536" crc="35fb1616" md5="f2083d19412a8f1a688eedf3288d438b" sha1="4849cd6f881b5b78e1d3a08edb727e79c77f9d39"/>
+	</game>
+	<game name="Railway (World)" id="0017">
+		<description>Railway (World)</description>
+		<rom name="Railway (World).bin" size="65536" crc="2bb6aeb9" md5="c217738067267475f86eec9bc19f462b" sha1="f1a9a8365f1b78057ed5cc647fd68efafc0c49e8"/>
+	</game>
+	<game name="Snake Roy (World)" id="0018">
+		<description>Snake Roy (World)</description>
+		<rom name="Snake Roy (World).bin" size="65536" crc="315ef9f2" md5="0bd39f37e9589a4dec2b3ebf535ef7b7" sha1="c76a57047f0f72252cddd7974a3b694392753469"/>
+	</game>
+	<game name="Street Rider (World)" id="0019">
+		<description>Street Rider (World)</description>
+		<rom name="Street Rider (World).bin" size="32768" crc="74c3377f" md5="284b8c671a7fb408aaa601be44e1f0b5" sha1="9b7d69f9b0a44eeaa36971aabec553ebd3bfdc0e"/>
+	</game>
+	<game name="Suleiman's Treasure (World)" id="0020">
+		<description>Suleiman's Treasure (World)</description>
+		<rom name="Suleiman's Treasure (World).bin" size="65536" crc="cd2730ac" md5="343da38521cbfb60df79a5e4eb392cf8" sha1="022d7e635ea64c6a525db5d31c30a7d8636f4c18"/>
+	</game>
+	<game name="The Brick Wall (World)" id="0021">
+		<description>The Brick Wall (World)</description>
+		<rom name="The Brick Wall (World).bin" size="32768" crc="58efe338" md5="48170b7d77fc96d4f72adccb51299b87" sha1="9b050e41b9aa18dbf5c043f19b7c945c89811cc1"/>
+	</game>
+	<game name="Trap Turn (World)" id="0022">
+		<description>Trap Turn (World)</description>
+		<rom name="Trap Turn (World).bin" size="32768" crc="2b58d9a4" md5="ae12c30ad7b294c999c935bfcbb94600" sha1="946e1fc387b4eb9114d82cd4471ea9064c3497ce"/>
+	</game>
+	<game name="Vex (World)" id="0023">
+		<description>Vex (World)</description>
+		<rom name="Vex (World).bin" size="32768" crc="b26bb405" md5="7a5162ecd0cbc020bd3d098b75af64de" sha1="b750a4c303342e302e5c20556b5e1761deac7c99"/>
+	</game>
+	<game name="Worm Visitor (World)" id="0024">
+		<description>Worm Visitor (World)</description>
+		<rom name="Worm Visitor (World).bin" size="65536" crc="da4743e7" md5="4b6abd84db818e1ca574f3af9ffcc2d5" sha1="81d7c74f2f029a8b15c3d4fcb8567870b387c60d"/>
+	</game>
+	<game name="Zipball (World)" id="0025">
+		<description>Zipball (World)</description>
+		<rom name="Zipball (World).bin" size="65536" crc="2004c1fb" md5="60a0d647166971c5da6862d1db3916a2" sha1="5a9615ace92ea7ad96a02c73dc99ebdd01cefb94"/>
+	</game>
+</datafile>

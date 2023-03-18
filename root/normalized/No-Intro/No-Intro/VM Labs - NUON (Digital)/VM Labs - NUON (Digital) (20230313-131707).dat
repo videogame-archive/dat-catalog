@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>272</id>
+		<name>VM Labs - NUON (Digital)</name>
+		<description>VM Labs - NUON (Digital)</description>
+		<version>20230313-131707</version>
+		<author>NovaAurora, rarenight</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Samsung DVD-N501 Firmware Update (USA)" id="0001">
+		<description>[BIOS] Samsung DVD-N501 Firmware Update (USA)</description>
+		<rom name="NUON.CD" size="3614412" crc="5a6ddc24" md5="84f23bfd9c7386eb51cc15173f525e35" sha1="3c691cdf9cc6ad80cee0529b016ed79ab14b9f6f"/>
+	</game>
+	<game name="Ambient Monsters (Unknown) (Unl)" id="0005">
+		<description>Ambient Monsters (Unknown) (Unl)</description>
+		<rom name="NUON.CD" size="4047396" crc="dd759d57" md5="16809838a534aba3d0d748276bd5bcda" sha1="298c457442076e84d791556e55cfd9894befb262"/>
+	</game>
+	<game name="Atari &amp; C64 Video Game Music Player (Unknown) (Unl)" id="0006">
+		<description>Atari &amp; C64 Video Game Music Player (Unknown) (Unl)</description>
+		<rom name="NUON.CD" size="4550196" crc="05416a1e" md5="9d20c49d8adf879ddb20922fc454d090" sha1="dd93177384162a84011eb2f440f3d76d3ecf1b02"/>
+	</game>
+	<game name="Atari 2600 Pac-Man (Unknown) (Unl)" id="0011">
+		<description>Atari 2600 Pac-Man (Unknown) (Unl)</description>
+		<rom name="NUON.CD" size="781440" crc="3410a714" md5="7e289ad09cf30227b6c66369210c3563" sha1="c4f2d01c1d3ee18072867dc471622b21f0230e02"/>
+	</game>
+	<game name="Atari 800 Emulator (Unknown) (Unl)" id="0007">
+		<description>Atari 800 Emulator (Unknown) (Unl)</description>
+		<rom name="NUON.CD" size="690540" crc="6ae35cbc" md5="f845263e314d852e4ef1dd8f5ef8328b" sha1="f3ed8258f276e6b355b426d7d767c4861e482cbd"/>
+	</game>
+	<game name="Bomb (Unknown) (Unl)" id="0012">
+		<description>Bomb (Unknown) (Unl)</description>
+		<rom name="level1.pcm" size="4646948" crc="e983faac" md5="5df7c7dc14c35ba64186d7c8252300a5" sha1="b94cc8cb539b17f413cc55a474bc55082bc740ba"/>
+		<rom name="level2.pcm" size="1755420" crc="7aead392" md5="b864f7ddc7d0586e12354f2f2b18f004" sha1="36b5ee951d460c6cde5b6b75b2a36af30fa67e65"/>
+		<rom name="level3.pcm" size="1365324" crc="7f2f7b97" md5="ae128a9974c679869d44e16dca90a4ad" sha1="856b0e5897f70a3973c74a02d1952dee87fd56df"/>
+		<rom name="level4.pcm" size="1820436" crc="4e37651b" md5="90982df9f364a014c841f9e453ceb191" sha1="8caf1cbdec0afa1dea749bb5ed16ec993c013710"/>
+		<rom name="level5.pcm" size="5119992" crc="36287d2b" md5="e0e2575f203264d89e2e89b6e1e4be0b" sha1="bf98ce6a10d118d5b796a253b85df96e56eb4cbe"/>
+		<rom name="NUON.CD" size="1412940" crc="8e3c545c" md5="ae4cf1dec9f8301b6ada63b64849d783" sha1="d4d0c2303c7ed44899796386d87aff46479636f2"/>
+	</game>
+	<game name="Breakout (Unknown) (Unl)" id="0013">
+		<description>Breakout (Unknown) (Unl)</description>
+		<rom name="NUON.CD" size="788592" crc="cc1ce4eb" md5="2d716e4c4b9fa40c278de3394f22a3a1" sha1="3ec253d6932f6278b5232df376b971e55471cf1d"/>
+	</game>
+	<game name="Chomp (USA)" id="0002">
+		<description>Chomp (USA)</description>
+		<rom name="NUON.CD" size="754828" crc="87ff6925" md5="4b6c42233d09c015bb27766c22c0fe65" sha1="69ba9a6ce185daf006e245f8003eb87f50b7c83d"/>
+	</game>
+	<game name="Decaying Orbit (USA) (Unl)" id="0014">
+		<description>Decaying Orbit (USA) (Unl)</description>
+		<rom name="NUON.CD" size="1943416" crc="005eda12" md5="99d7660db49e78d9be04b67c0bab8022" sha1="8ce1bbac43d004f5dde5e9d8d87c028ea3a6fea9"/>
+	</game>
+	<game name="Doom (Unknown) (Unl)" id="0015">
+		<description>Doom (Unknown) (Unl)</description>
+		<rom name="doom1.wad" size="4196020" crc="331ebf07" md5="5f4eb849b1af12887dec04a2a12e5e62" sha1="c6612ac5a8ac2e2a1d707f9b2869af820efb7c50"/>
+		<rom name="NUON.CD" size="679628" crc="65de4717" md5="218e29e82912f3aebecddee6e4d66096" sha1="5c238f7845c205c4f9819c0a7f9ce040040fbf05"/>
+	</game>
+	<game name="Doom (Unknown) (Aries 3) (Unl)" id="0016" cloneofid="0015">
+		<description>Doom (Unknown) (Aries 3) (Unl)</description>
+		<rom name="doom1.wad" size="4196020" crc="331ebf07" md5="5f4eb849b1af12887dec04a2a12e5e62" sha1="c6612ac5a8ac2e2a1d707f9b2869af820efb7c50"/>
+		<rom name="NUON.CD" size="695784" crc="09004141" md5="cd5e48419d95869ab7eaa769e1291a35" sha1="e62af18fe070f812a10b8361f3b85d08feca05d9"/>
+	</game>
+	<game name="KillMinds (Unknown) (Unl)" id="0008">
+		<description>KillMinds (Unknown) (Unl)</description>
+		<rom name="nuon.n16" size="202752" crc="4e113fdc" md5="7b3c15c76dd6ed578054e32d7134bd1c" sha1="2aa8878398c7764bf7e2a80e9da58e85314cfe01"/>
+		<rom name="nuon.run" size="639934" crc="59390d59" md5="bd05a4857c0b2f4672b35d50c97b9f80" sha1="b07f0db04853d9ab1cda318bf8d3a2c0ef026091"/>
+	</game>
+	<game name="NUON Boot Loader (USA) (Unl)" id="0010">
+		<description>NUON Boot Loader (USA) (Unl)</description>
+		<rom name="bootload.dat" size="5501372" crc="fa583017" md5="e86fe2598b2f26bb35301e38db95e044" sha1="ff40407f40f855eef3b941926a161ae21612101d"/>
+		<rom name="NUON.CD" size="655016" crc="7487ece5" md5="976ea5a6040ed758ee9114277e11d85c" sha1="2378f61a2ec79737eb76a4d1acc8af11b44c37c6"/>
+	</game>
+	<game name="NUON Homebrew Disk (World) (Unl)" id="0022">
+		<category>Games</category>
+		<description>NUON Homebrew Disk (World) (Unl)</description>
+		<rom name="NUON Homebrew Disk (World) (Homebrew).iso" size="64684032" crc="c0832a43" md5="5190b7385a2735aa70d95c3555d57c3a" sha1="22a653d3d7e3f3f23e11250e61b6da93b19847b9"/>
+	</game>
+	<game name="NUON Synth Jukebox (USA) (Unl)" id="0017">
+		<description>NUON Synth Jukebox (USA) (Unl)</description>
+		<rom name="NUON.CD.1" size="2716048" crc="0a0248c9" md5="a992e26fa1e6e2058ad41b3b27178aca" sha1="a208e279d9fac7c4e1d404d2d51b9ea5a87ae099"/>
+	</game>
+	<game name="NUON Synth Jukebox (USA) (v2.0) (Unl)" id="0018" cloneofid="0017">
+		<description>NUON Synth Jukebox (USA) (v2.0) (Unl)</description>
+		<rom name="NUON.CD.2" size="2850080" crc="e2d5dce7" md5="a3ffb8e28327fab5648bab643ecab157" sha1="9047e581fd9380521bf1ce5c58725645fed92e0f"/>
+	</game>
+	<game name="Pac-Man (USA) (Unl)" id="0009" cloneofid="0002">
+		<description>Pac-Man (USA) (Unl)</description>
+		<rom name="NUON.CD" size="1204548" crc="ada26838" md5="86d2b4e3f6597784a0b4948fd9605857" sha1="acf3720b69453387182b16f812658933f514de4e"/>
+	</game>
+	<game name="SameGame - Colors (USA)" id="0003">
+		<description>SameGame - Colors (USA)</description>
+		<rom name="NUON.CD" size="1364464" crc="d733a71b" md5="03c3f6dbe5653960c643c6e90fc9e8b6" sha1="0f641497551d0f1a497ff3f53da8c2c258652100"/>
+	</game>
+	<game name="SameGame - Shapes (USA)" id="0004">
+		<description>SameGame - Shapes (USA)</description>
+		<rom name="NUON.CD" size="1501680" crc="c29fdccd" md5="1c85eb7b82758c80e8506e54791274db" sha1="c3fe7404f47538f174892e6f2c591e48722f1ae8"/>
+	</game>
+	<game name="Sheshell's Sea Adventure (Unknown) (Unl)" id="0019">
+		<description>Sheshell's Sea Adventure (Unknown) (Unl)</description>
+		<rom name="NUON.CD" size="2968776" crc="63891aa6" md5="fb1cbb14f394ef19e7f94ac9d0eb6fbe" sha1="217dc4a75035e79353e83f6efbb16d93a3b8f354"/>
+		<rom name="SONG1.PCM" size="4216472" crc="7f690eaf" md5="699170ec77e375603565337fa5339780" sha1="2841e71e8696a6a054f855e22a53b9bdb2e6607e"/>
+		<rom name="SONG2.PCM" size="5141824" crc="1a1edcd9" md5="36401f7fc43014247cc9f4fb9de2a637" sha1="c9d4d289b3eb00fb30b3f5f36264a4718ab5e287"/>
+		<rom name="SONG3.PCM" size="2048000" crc="79cb661e" md5="8cbbaa414b13c65f74a7a1782793c3d3" sha1="5acc2f4ece719b68cdfd9b48756e309912bfb658"/>
+		<rom name="SONG4.PCM" size="4201032" crc="7be47ff8" md5="cff3722fa34b5e792759693d68f0ed6c" sha1="32b8bf5403290009e0e4d56dcc7b8b56f2d791e2"/>
+		<rom name="SONG5.PCM" size="2560140" crc="e18e9487" md5="d167f34b7fff6eb1a78c3e29506f1e0f" sha1="bea6adaa098f5a35b6c557a211f31192408ae726"/>
+		<rom name="SONG6.PCM" size="1181536" crc="ce85020b" md5="7c1c234a9adbb9ac2ea94e8ebe6dad07" sha1="940522d621d69449143022b2c130ee11afc8b49d"/>
+		<rom name="SONG7.PCM" size="1755428" crc="4cd67e8d" md5="d147bf2e0d99b189ca4055ca7bcdcb58" sha1="a73879ed6c58d3fabb1c50a1c45cacc13236d196"/>
+		<rom name="SONG8.PCM" size="2048000" crc="6c17af03" md5="895264512331d2d9fb204455cde9394d" sha1="64cfc9244f13b53d3a6d84472f9ea95a90b69101"/>
+	</game>
+	<game name="Snake (USA) (Unl)" id="0020">
+		<description>Snake (USA) (Unl)</description>
+		<rom name="NUON.CD" size="2872992" crc="1e24f5ac" md5="94d67dd5cc37c33987be1aecbebb2094" sha1="44f2b00a8cd52d1e4cc639298a45ac32fad331f9"/>
+	</game>
+	<game name="Yaroze Classics (USA) (Unl)" id="0021">
+		<description>Yaroze Classics (USA) (Unl)</description>
+		<rom name="bootload.dat" size="5785068" crc="81f2f6dd" md5="d6ad0de17af3a5778e46e4b9ad822c3b" sha1="ea2d9648a51eeef093bfad5ced1692dd45a923bb"/>
+		<rom name="NUON.CD" size="780068" crc="0ce82b42" md5="459f4e871738d32cc17d292157bb7474" sha1="085290aa89a8ce0db9e2bd5fe596a5103dfde696"/>
+	</game>
+</datafile>
