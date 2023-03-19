@@ -1,5 +1,5 @@
-[[BIN]]([BIN]/index.html)
-[[EXE]]([EXE]/index.html)
-[[ISO]]([ISO]/index.html)
-[[Multipart]]([Multipart]/index.html)
-[[PSX]]([PSX]/index.html)
+[[BIN]]([BIN]/index.html)<br>
+[[EXE]]([EXE]/index.html)<br>
+[[ISO]]([ISO]/index.html)<br>
+[[Multipart]]([Multipart]/index.html)<br>
+[[PSX]]([PSX]/index.html)<br>

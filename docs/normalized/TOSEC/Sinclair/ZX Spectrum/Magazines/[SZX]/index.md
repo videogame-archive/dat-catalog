@@ -1,1 +1,1 @@
-[Sinclair ZX Spectrum - Magazines - [SZX]](Sinclair ZX Spectrum - Magazines - [SZX]/index.html)
+[Sinclair ZX Spectrum - Magazines - [SZX]](Sinclair ZX Spectrum - Magazines - [SZX]/index.html)<br>

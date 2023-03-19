@@ -1,3 +1,3 @@
-[Hardware](Hardware/index.html)
-[Software](Software/index.html)
-[Technical](Technical/index.html)
+[Hardware](Hardware/index.html)<br>
+[Software](Software/index.html)<br>
+[Technical](Technical/index.html)<br>

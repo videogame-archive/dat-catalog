@@ -1,8 +1,8 @@
-[Applications](Applications/index.html)
-[Covertapes](Covertapes/index.html)
-[Demos](Demos/index.html)
-[Educational](Educational/index.html)
-[Expansion Carts](Expansion Carts/index.html)
-[Games](Games/index.html)
-[Multimedia](Multimedia/index.html)
-[Operating Systems](Operating Systems/index.html)
+[Applications](Applications/index.html)<br>
+[Covertapes](Covertapes/index.html)<br>
+[Demos](Demos/index.html)<br>
+[Educational](Educational/index.html)<br>
+[Expansion Carts](Expansion Carts/index.html)<br>
+[Games](Games/index.html)<br>
+[Multimedia](Multimedia/index.html)<br>
+[Operating Systems](Operating Systems/index.html)<br>

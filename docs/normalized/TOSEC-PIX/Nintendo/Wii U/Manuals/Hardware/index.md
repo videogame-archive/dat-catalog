@@ -1,1 +1,1 @@
-[Nintendo Wii U - Manuals - Hardware](Nintendo Wii U - Manuals - Hardware/index.html)
+[Nintendo Wii U - Manuals - Hardware](Nintendo Wii U - Manuals - Hardware/index.html)<br>

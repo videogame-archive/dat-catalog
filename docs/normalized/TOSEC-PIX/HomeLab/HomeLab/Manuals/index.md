@@ -1,2 +1,2 @@
-[Hardware (HU)](Hardware (HU)/index.html)
-[Software (HU)](Software (HU)/index.html)
+[Hardware (HU)](Hardware (HU)/index.html)<br>
+[Software (HU)](Software (HU)/index.html)<br>

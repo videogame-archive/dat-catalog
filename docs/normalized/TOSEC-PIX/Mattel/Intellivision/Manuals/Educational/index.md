@@ -1,1 +1,1 @@
-[Mattel Intellivision - Manuals - Educational](Mattel Intellivision - Manuals - Educational/index.html)
+[Mattel Intellivision - Manuals - Educational](Mattel Intellivision - Manuals - Educational/index.html)<br>

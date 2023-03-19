@@ -1,1 +1,1 @@
-[Tandy Radio Shack - Magazines - CLOAD Magazine](Tandy Radio Shack - Magazines - CLOAD Magazine/index.html)
+[Tandy Radio Shack - Magazines - CLOAD Magazine](Tandy Radio Shack - Magazines - CLOAD Magazine/index.html)<br>

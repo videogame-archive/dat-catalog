@@ -1,11 +1,11 @@
-[2600 & VCS](2600 & VCS/index.html)
-[5200](5200/index.html)
-[7800](7800/index.html)
-[8bit](8bit/index.html)
-[Comics](Comics/index.html)
-[Jaguar](Jaguar/index.html)
-[Jaguar CD](Jaguar CD/index.html)
-[Lynx](Lynx/index.html)
-[Magazines](Magazines/index.html)
-[Newsletters](Newsletters/index.html)
-[ST](ST/index.html)
+[2600 & VCS](2600 & VCS/index.html)<br>
+[5200](5200/index.html)<br>
+[7800](7800/index.html)<br>
+[8bit](8bit/index.html)<br>
+[Comics](Comics/index.html)<br>
+[Jaguar](Jaguar/index.html)<br>
+[Jaguar CD](Jaguar CD/index.html)<br>
+[Lynx](Lynx/index.html)<br>
+[Magazines](Magazines/index.html)<br>
+[Newsletters](Newsletters/index.html)<br>
+[ST](ST/index.html)<br>

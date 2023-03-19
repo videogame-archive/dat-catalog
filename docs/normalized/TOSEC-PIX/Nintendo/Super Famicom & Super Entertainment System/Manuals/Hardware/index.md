@@ -1,1 +1,1 @@
-[Nintendo Super Famicom & Super Entertainment System - Manuals - Hardware](Nintendo Super Famicom & Super Entertainment System - Manuals - Hardware/index.html)
+[Nintendo Super Famicom & Super Entertainment System - Manuals - Hardware](Nintendo Super Famicom & Super Entertainment System - Manuals - Hardware/index.html)<br>

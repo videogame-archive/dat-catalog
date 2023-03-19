@@ -1,4 +1,4 @@
-[Bonus Discs](Bonus Discs/index.html)
-[Games](Games/index.html)
-[Homebrew](Homebrew/index.html)
-[Samplers](Samplers/index.html)
+[Bonus Discs](Bonus Discs/index.html)<br>
+[Games](Games/index.html)<br>
+[Homebrew](Homebrew/index.html)<br>
+[Samplers](Samplers/index.html)<br>

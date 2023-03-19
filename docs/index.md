@@ -1,2 +1,2 @@
-[basic](basic/index.html)
-[normalized](normalized/index.html)
+[basic](basic/index.html)<br>
+[normalized](normalized/index.html)<br>

@@ -1,1 +1,1 @@
-[Commodore Amiga - Manuals - Applications](Commodore Amiga - Manuals - Applications/index.html)
+[Commodore Amiga - Manuals - Applications](Commodore Amiga - Manuals - Applications/index.html)<br>

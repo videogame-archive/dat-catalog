@@ -1,2 +1,2 @@
-[[LNX]]([LNX]/index.html)
-[[LYX]]([LYX]/index.html)
+[[LNX]]([LNX]/index.html)<br>
+[[LYX]]([LYX]/index.html)<br>

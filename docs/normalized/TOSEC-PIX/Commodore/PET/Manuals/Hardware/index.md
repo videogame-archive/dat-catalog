@@ -1,1 +1,1 @@
-[Commodore PET - Manuals - Hardware](Commodore PET - Manuals - Hardware/index.html)
+[Commodore PET - Manuals - Hardware](Commodore PET - Manuals - Hardware/index.html)<br>

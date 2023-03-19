@@ -1,1 +1,1 @@
-[Nintendo - Magazines - Club Nintendo (DE)](Nintendo - Magazines - Club Nintendo (DE)/index.html)
+[Nintendo - Magazines - Club Nintendo (DE)](Nintendo - Magazines - Club Nintendo (DE)/index.html)<br>

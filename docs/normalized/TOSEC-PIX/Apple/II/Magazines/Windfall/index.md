@@ -1,1 +1,1 @@
-[Apple II - Magazines - Windfall](Apple II - Magazines - Windfall/index.html)
+[Apple II - Magazines - Windfall](Apple II - Magazines - Windfall/index.html)<br>

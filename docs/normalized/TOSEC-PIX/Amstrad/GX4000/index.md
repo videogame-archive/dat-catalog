@@ -1,2 +1,2 @@
-[Artwork](Artwork/index.html)
-[Manuals](Manuals/index.html)
+[Artwork](Artwork/index.html)<br>
+[Manuals](Manuals/index.html)<br>

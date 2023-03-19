@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Arcadia (JP)](Multi-format - Magazines - Arcadia (JP)/index.html)
+[Multi-format - Magazines - Arcadia (JP)](Multi-format - Magazines - Arcadia (JP)/index.html)<br>

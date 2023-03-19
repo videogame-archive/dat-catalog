@@ -1,1 +1,1 @@
-[Commodore Amiga - Magazines - Amiga Power](Commodore Amiga - Magazines - Amiga Power/index.html)
+[Commodore Amiga - Magazines - Amiga Power](Commodore Amiga - Magazines - Amiga Power/index.html)<br>

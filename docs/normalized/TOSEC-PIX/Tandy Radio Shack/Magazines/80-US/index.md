@@ -1,1 +1,1 @@
-[Tandy Radio Shack - Magazines - 80-US](Tandy Radio Shack - Magazines - 80-US/index.html)
+[Tandy Radio Shack - Magazines - 80-US](Tandy Radio Shack - Magazines - 80-US/index.html)<br>

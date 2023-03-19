@@ -1,1 +1,1 @@
-[Atari ST - Collections - Atari Magazin](Atari ST - Collections - Atari Magazin/index.html)
+[Atari ST - Collections - Atari Magazin](Atari ST - Collections - Atari Magazin/index.html)<br>

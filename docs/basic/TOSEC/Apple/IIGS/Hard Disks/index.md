@@ -1,5 +1,5 @@
-[Applications](Applications/index.html)
-[Games](Games/index.html)
-[Graphics](Graphics/index.html)
-[HyperCard Stacks](HyperCard Stacks/index.html)
-[Operating Systems](Operating Systems/index.html)
+[Applications](Applications/index.html)<br>
+[Games](Games/index.html)<br>
+[Graphics](Graphics/index.html)<br>
+[HyperCard Stacks](HyperCard Stacks/index.html)<br>
+[Operating Systems](Operating Systems/index.html)<br>

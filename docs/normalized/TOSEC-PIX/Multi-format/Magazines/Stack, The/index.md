@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Stack, The](Multi-format - Magazines - Stack, The/index.html)
+[Multi-format - Magazines - Stack, The](Multi-format - Magazines - Stack, The/index.html)<br>

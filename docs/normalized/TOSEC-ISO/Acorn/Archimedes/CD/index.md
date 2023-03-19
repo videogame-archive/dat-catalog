@@ -1,3 +1,3 @@
-[Applications](Applications/index.html)
-[Compilations](Compilations/index.html)
-[Coverdiscs](Coverdiscs/index.html)
+[Applications](Applications/index.html)<br>
+[Compilations](Compilations/index.html)<br>
+[Coverdiscs](Coverdiscs/index.html)<br>

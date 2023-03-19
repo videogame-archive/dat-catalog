@@ -1,1 +1,1 @@
-[Nintendo 64 - Magazines - 64 Magazine](Nintendo 64 - Magazines - 64 Magazine/index.html)
+[Nintendo 64 - Magazines - 64 Magazine](Nintendo 64 - Magazines - 64 Magazine/index.html)<br>

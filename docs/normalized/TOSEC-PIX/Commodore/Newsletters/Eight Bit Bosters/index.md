@@ -1,1 +1,1 @@
-[Commodore - Newsletters - Eight Bit Bosters](Commodore - Newsletters - Eight Bit Bosters/index.html)
+[Commodore - Newsletters - Eight Bit Bosters](Commodore - Newsletters - Eight Bit Bosters/index.html)<br>

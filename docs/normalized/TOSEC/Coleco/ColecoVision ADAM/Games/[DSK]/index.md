@@ -1,1 +1,1 @@
-[Coleco ColecoVision ADAM - Games - [DSK]](Coleco ColecoVision ADAM - Games - [DSK]/index.html)
+[Coleco ColecoVision ADAM - Games - [DSK]](Coleco ColecoVision ADAM - Games - [DSK]/index.html)<br>

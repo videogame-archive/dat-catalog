@@ -1,1 +1,1 @@
-[Nintendo - Magazines - NintendoAGE](Nintendo - Magazines - NintendoAGE/index.html)
+[Nintendo - Magazines - NintendoAGE](Nintendo - Magazines - NintendoAGE/index.html)<br>

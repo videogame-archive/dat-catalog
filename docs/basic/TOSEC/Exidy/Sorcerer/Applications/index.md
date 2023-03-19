@@ -1,3 +1,3 @@
-[[DSK]]([DSK]/index.html)
-[[TAPE]]([TAPE]/index.html)
-[[WAV]]([WAV]/index.html)
+[[DSK]]([DSK]/index.html)<br>
+[[TAPE]]([TAPE]/index.html)<br>
+[[WAV]]([WAV]/index.html)<br>

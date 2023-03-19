@@ -1,2 +1,2 @@
-[Pippin @World & Pippin Atmark](Pippin @World & Pippin Atmark/index.html)
-[Playdia](Playdia/index.html)
+[Pippin @World & Pippin Atmark](Pippin @World & Pippin Atmark/index.html)<br>
+[Playdia](Playdia/index.html)<br>

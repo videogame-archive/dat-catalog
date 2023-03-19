@@ -1,3 +1,3 @@
-[Sega Pro](Sega Pro/index.html)
-[Sega Visions](Sega Visions/index.html)
-[Supergame (BR)](Supergame (BR)/index.html)
+[Sega Pro](Sega Pro/index.html)<br>
+[Sega Visions](Sega Visions/index.html)<br>
+[Supergame (BR)](Supergame (BR)/index.html)<br>

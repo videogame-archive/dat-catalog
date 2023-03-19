@@ -1,1 +1,1 @@
-[Texas Instruments TI-83 - Applications](Texas Instruments TI-83 - Applications/index.html)
+[Texas Instruments TI-83 - Applications](Texas Instruments TI-83 - Applications/index.html)<br>

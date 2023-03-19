@@ -1,1 +1,1 @@
-[SNK Neo-Geo CD - Games - [IMG]](SNK Neo-Geo CD - Games - [IMG]/index.html)
+[SNK Neo-Geo CD - Games - [IMG]](SNK Neo-Geo CD - Games - [IMG]/index.html)<br>

@@ -1,1 +1,1 @@
-[Commodore - Magazines - Commodore (IT)](Commodore - Magazines - Commodore (IT)/index.html)
+[Commodore - Magazines - Commodore (IT)](Commodore - Magazines - Commodore (IT)/index.html)<br>

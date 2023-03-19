@@ -1,3 +1,3 @@
-[Catalogs](Catalogs/index.html)
-[Commercials](Commercials/index.html)
-[Magazines](Magazines/index.html)
+[Catalogs](Catalogs/index.html)<br>
+[Commercials](Commercials/index.html)<br>
+[Magazines](Magazines/index.html)<br>

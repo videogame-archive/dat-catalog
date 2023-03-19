@@ -1,2 +1,2 @@
-[Super-80, Super-80D, Super-80E & Super-80M](Super-80, Super-80D, Super-80E & Super-80M/index.html)
-[Super-80R & Super-80V](Super-80R & Super-80V/index.html)
+[Super-80, Super-80D, Super-80E & Super-80M](Super-80, Super-80D, Super-80E & Super-80M/index.html)<br>
+[Super-80R & Super-80V](Super-80R & Super-80V/index.html)<br>

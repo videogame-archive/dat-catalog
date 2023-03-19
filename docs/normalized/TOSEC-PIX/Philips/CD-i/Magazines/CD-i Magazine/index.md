@@ -1,1 +1,1 @@
-[Philips CD-i - Magazines - CD-i Magazine](Philips CD-i - Magazines - CD-i Magazine/index.html)
+[Philips CD-i - Magazines - CD-i Magazine](Philips CD-i - Magazines - CD-i Magazine/index.html)<br>

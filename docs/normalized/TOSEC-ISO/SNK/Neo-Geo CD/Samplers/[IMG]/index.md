@@ -1,1 +1,1 @@
-[SNK Neo-Geo CD - Samplers - [IMG]](SNK Neo-Geo CD - Samplers - [IMG]/index.html)
+[SNK Neo-Geo CD - Samplers - [IMG]](SNK Neo-Geo CD - Samplers - [IMG]/index.html)<br>

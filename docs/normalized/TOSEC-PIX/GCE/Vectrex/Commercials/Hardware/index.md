@@ -1,1 +1,1 @@
-[GCE Vectrex - Commercials - Hardware](GCE Vectrex - Commercials - Hardware/index.html)
+[GCE Vectrex - Commercials - Hardware](GCE Vectrex - Commercials - Hardware/index.html)<br>

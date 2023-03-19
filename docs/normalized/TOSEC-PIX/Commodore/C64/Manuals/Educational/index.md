@@ -1,1 +1,1 @@
-[Commodore C64 - Manuals - Educational](Commodore C64 - Manuals - Educational/index.html)
+[Commodore C64 - Manuals - Educational](Commodore C64 - Manuals - Educational/index.html)<br>

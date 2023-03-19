@@ -1,3 +1,3 @@
-[Educational](Educational/index.html)
-[Games](Games/index.html)
-[Hardware](Hardware/index.html)
+[Educational](Educational/index.html)<br>
+[Games](Games/index.html)<br>
+[Hardware](Hardware/index.html)<br>

@@ -1,1 +1,1 @@
-[Atari 2600 & VCS - Newsletters - Atari VCS Owners Club Bulletin](Atari 2600 & VCS - Newsletters - Atari VCS Owners Club Bulletin/index.html)
+[Atari 2600 & VCS - Newsletters - Atari VCS Owners Club Bulletin](Atari 2600 & VCS - Newsletters - Atari VCS Owners Club Bulletin/index.html)<br>

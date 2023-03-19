@@ -1,1 +1,1 @@
-[Atari 8bit - Manuals - Hardware](Atari 8bit - Manuals - Hardware/index.html)
+[Atari 8bit - Manuals - Hardware](Atari 8bit - Manuals - Hardware/index.html)<br>

@@ -1,1 +1,1 @@
-[Nintendo Virtual Boy - Manuals - Hardware](Nintendo Virtual Boy - Manuals - Hardware/index.html)
+[Nintendo Virtual Boy - Manuals - Hardware](Nintendo Virtual Boy - Manuals - Hardware/index.html)<br>

@@ -1,1 +1,1 @@
-[Multi-format - Magazines - PAPER soft (IT)](Multi-format - Magazines - PAPER soft (IT)/index.html)
+[Multi-format - Magazines - PAPER soft (IT)](Multi-format - Magazines - PAPER soft (IT)/index.html)<br>

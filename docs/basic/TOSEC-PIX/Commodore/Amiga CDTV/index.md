@@ -1,3 +1,3 @@
-[Artwork](Artwork/index.html)
-[Catalogs](Catalogs/index.html)
-[Manuals](Manuals/index.html)
+[Artwork](Artwork/index.html)<br>
+[Catalogs](Catalogs/index.html)<br>
+[Manuals](Manuals/index.html)<br>

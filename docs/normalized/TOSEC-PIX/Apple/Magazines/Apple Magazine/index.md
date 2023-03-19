@@ -1,1 +1,1 @@
-[Apple - Magazines - Apple Magazine](Apple - Magazines - Apple Magazine/index.html)
+[Apple - Magazines - Apple Magazine](Apple - Magazines - Apple Magazine/index.html)<br>

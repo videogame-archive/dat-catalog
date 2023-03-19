@@ -1,1 +1,1 @@
-[Nintendo Wii U - Manuals - Games](Nintendo Wii U - Manuals - Games/index.html)
+[Nintendo Wii U - Manuals - Games](Nintendo Wii U - Manuals - Games/index.html)<br>

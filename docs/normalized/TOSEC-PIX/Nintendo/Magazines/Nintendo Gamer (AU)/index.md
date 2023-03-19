@@ -1,1 +1,1 @@
-[Nintendo - Magazines - Nintendo Gamer (AU)](Nintendo - Magazines - Nintendo Gamer (AU)/index.html)
+[Nintendo - Magazines - Nintendo Gamer (AU)](Nintendo - Magazines - Nintendo Gamer (AU)/index.html)<br>

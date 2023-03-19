@@ -1,1 +1,1 @@
-[Sinclair ZX Spectrum - Books - [MGT]](Sinclair ZX Spectrum - Books - [MGT]/index.html)
+[Sinclair ZX Spectrum - Books - [MGT]](Sinclair ZX Spectrum - Books - [MGT]/index.html)<br>

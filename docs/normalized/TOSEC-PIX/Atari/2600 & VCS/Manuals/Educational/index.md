@@ -1,1 +1,1 @@
-[Atari 2600 & VCS - Manuals - Educational](Atari 2600 & VCS - Manuals - Educational/index.html)
+[Atari 2600 & VCS - Manuals - Educational](Atari 2600 & VCS - Manuals - Educational/index.html)<br>

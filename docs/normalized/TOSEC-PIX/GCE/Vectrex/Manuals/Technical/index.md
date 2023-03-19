@@ -1,1 +1,1 @@
-[GCE Vectrex - Manuals - Technical](GCE Vectrex - Manuals - Technical/index.html)
+[GCE Vectrex - Manuals - Technical](GCE Vectrex - Manuals - Technical/index.html)<br>

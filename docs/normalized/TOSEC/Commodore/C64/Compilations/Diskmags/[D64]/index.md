@@ -1,1 +1,1 @@
-[Commodore C64 - Compilations - Diskmags - [D64]](Commodore C64 - Compilations - Diskmags - [D64]/index.html)
+[Commodore C64 - Compilations - Diskmags - [D64]](Commodore C64 - Compilations - Diskmags - [D64]/index.html)<br>

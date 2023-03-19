@@ -1,1 +1,1 @@
-[Nintendo Famicom & Entertainment System - Applications - [NES]](Nintendo Famicom & Entertainment System - Applications - [NES]/index.html)
+[Nintendo Famicom & Entertainment System - Applications - [NES]](Nintendo Famicom & Entertainment System - Applications - [NES]/index.html)<br>

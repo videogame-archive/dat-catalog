@@ -1,1 +1,1 @@
-[PTC Sol Terminal Computer SOL-20 - Various - [BAS]](PTC Sol Terminal Computer SOL-20 - Various - [BAS]/index.html)
+[PTC Sol Terminal Computer SOL-20 - Various - [BAS]](PTC Sol Terminal Computer SOL-20 - Various - [BAS]/index.html)<br>

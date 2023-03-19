@@ -1,7 +1,7 @@
-[2600 & VCS](2600 & VCS/index.html)
-[5200](5200/index.html)
-[7800](7800/index.html)
-[8bit](8bit/index.html)
-[Jaguar](Jaguar/index.html)
-[Lynx](Lynx/index.html)
-[ST](ST/index.html)
+[2600 & VCS](2600 & VCS/index.html)<br>
+[5200](5200/index.html)<br>
+[7800](7800/index.html)<br>
+[8bit](8bit/index.html)<br>
+[Jaguar](Jaguar/index.html)<br>
+[Lynx](Lynx/index.html)<br>
+[ST](ST/index.html)<br>

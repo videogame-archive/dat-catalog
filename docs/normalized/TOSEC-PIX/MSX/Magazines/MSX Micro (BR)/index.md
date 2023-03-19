@@ -1,1 +1,1 @@
-[MSX - Magazines - MSX Micro (BR)](MSX - Magazines - MSX Micro (BR)/index.html)
+[MSX - Magazines - MSX Micro (BR)](MSX - Magazines - MSX Micro (BR)/index.html)<br>

@@ -1,1 +1,1 @@
-[Nintendo Switch - Artwork - Games](Nintendo Switch - Artwork - Games/index.html)
+[Nintendo Switch - Artwork - Games](Nintendo Switch - Artwork - Games/index.html)<br>

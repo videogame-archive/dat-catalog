@@ -1,20 +1,20 @@
-[4U](4U/index.html)
-[ACN](ACN/index.html)
-[Atari Inside](Atari Inside/index.html)
-[Atari Journal](Atari Journal/index.html)
-[Atari Magazin](Atari Magazin/index.html)
-[Bitz](Bitz/index.html)
-[Budgie UK](Budgie UK/index.html)
-[Cobra](Cobra/index.html)
-[Delta Labs](Delta Labs/index.html)
-[Diverse](Diverse/index.html)
-[Falcon](Falcon/index.html)
-[FaST Club](FaST Club/index.html)
-[Floppyshop](Floppyshop/index.html)
-[GFA Club](GFA Club/index.html)
-[Heim Special Line](Heim Special Line/index.html)
-[Kontrast](Kontrast/index.html)
-[Poolware](Poolware/index.html)
-[ST Computer](ST Computer/index.html)
-[ST Vision](ST Vision/index.html)
-[XEST](XEST/index.html)
+[4U](4U/index.html)<br>
+[ACN](ACN/index.html)<br>
+[Atari Inside](Atari Inside/index.html)<br>
+[Atari Journal](Atari Journal/index.html)<br>
+[Atari Magazin](Atari Magazin/index.html)<br>
+[Bitz](Bitz/index.html)<br>
+[Budgie UK](Budgie UK/index.html)<br>
+[Cobra](Cobra/index.html)<br>
+[Delta Labs](Delta Labs/index.html)<br>
+[Diverse](Diverse/index.html)<br>
+[Falcon](Falcon/index.html)<br>
+[FaST Club](FaST Club/index.html)<br>
+[Floppyshop](Floppyshop/index.html)<br>
+[GFA Club](GFA Club/index.html)<br>
+[Heim Special Line](Heim Special Line/index.html)<br>
+[Kontrast](Kontrast/index.html)<br>
+[Poolware](Poolware/index.html)<br>
+[ST Computer](ST Computer/index.html)<br>
+[ST Vision](ST Vision/index.html)<br>
+[XEST](XEST/index.html)<br>

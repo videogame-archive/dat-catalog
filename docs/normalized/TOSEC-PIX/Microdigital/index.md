@@ -1,1 +1,1 @@
-[Magazines](Magazines/index.html)
+[Magazines](Magazines/index.html)<br>

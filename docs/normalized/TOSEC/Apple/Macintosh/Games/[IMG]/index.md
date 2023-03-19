@@ -1,1 +1,1 @@
-[Apple Macintosh - Games - [IMG]](Apple Macintosh - Games - [IMG]/index.html)
+[Apple Macintosh - Games - [IMG]](Apple Macintosh - Games - [IMG]/index.html)<br>

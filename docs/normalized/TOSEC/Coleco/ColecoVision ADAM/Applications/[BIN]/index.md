@@ -1,1 +1,1 @@
-[Coleco ColecoVision ADAM - Applications - [BIN]](Coleco ColecoVision ADAM - Applications - [BIN]/index.html)
+[Coleco ColecoVision ADAM - Applications - [BIN]](Coleco ColecoVision ADAM - Applications - [BIN]/index.html)<br>

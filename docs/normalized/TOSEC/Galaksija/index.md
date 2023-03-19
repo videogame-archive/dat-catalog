@@ -1,2 +1,2 @@
-[Galaksija](Galaksija/index.html)
-[Galaksija Plus](Galaksija Plus/index.html)
+[Galaksija](Galaksija/index.html)<br>
+[Galaksija Plus](Galaksija Plus/index.html)<br>

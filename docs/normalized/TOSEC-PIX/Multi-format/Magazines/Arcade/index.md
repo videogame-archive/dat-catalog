@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Arcade](Multi-format - Magazines - Arcade/index.html)
+[Multi-format - Magazines - Arcade](Multi-format - Magazines - Arcade/index.html)<br>

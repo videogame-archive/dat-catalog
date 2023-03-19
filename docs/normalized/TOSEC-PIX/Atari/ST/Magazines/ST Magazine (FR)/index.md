@@ -1,1 +1,1 @@
-[Atari ST - Magazines - ST Magazine (FR)](Atari ST - Magazines - ST Magazine (FR)/index.html)
+[Atari ST - Magazines - ST Magazine (FR)](Atari ST - Magazines - ST Magazine (FR)/index.html)<br>

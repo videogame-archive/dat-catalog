@@ -1,3 +1,3 @@
-[Applications](Applications/index.html)
-[Games](Games/index.html)
-[Hardware](Hardware/index.html)
+[Applications](Applications/index.html)<br>
+[Games](Games/index.html)<br>
+[Hardware](Hardware/index.html)<br>

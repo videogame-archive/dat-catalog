@@ -1,4 +1,4 @@
-[Applications](Applications/index.html)
-[Educational](Educational/index.html)
-[Games](Games/index.html)
-[Magazines](Magazines/index.html)
+[Applications](Applications/index.html)<br>
+[Educational](Educational/index.html)<br>
+[Games](Games/index.html)<br>
+[Magazines](Magazines/index.html)<br>

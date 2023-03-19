@@ -1,1 +1,1 @@
-[Multi-format - Magazines - BBS Magazine](Multi-format - Magazines - BBS Magazine/index.html)
+[Multi-format - Magazines - BBS Magazine](Multi-format - Magazines - BBS Magazine/index.html)<br>

@@ -1,7 +1,7 @@
-[Applications](Applications/index.html)
-[Bonus Discs](Bonus Discs/index.html)
-[Firmware](Firmware/index.html)
-[Games](Games/index.html)
-[Homebrew](Homebrew/index.html)
-[Multimedia](Multimedia/index.html)
-[Samplers](Samplers/index.html)
+[Applications](Applications/index.html)<br>
+[Bonus Discs](Bonus Discs/index.html)<br>
+[Firmware](Firmware/index.html)<br>
+[Games](Games/index.html)<br>
+[Homebrew](Homebrew/index.html)<br>
+[Multimedia](Multimedia/index.html)<br>
+[Samplers](Samplers/index.html)<br>

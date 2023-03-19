@@ -1,1 +1,1 @@
-[Multi-format - Magazines - VideoGame (BR)](Multi-format - Magazines - VideoGame (BR)/index.html)
+[Multi-format - Magazines - VideoGame (BR)](Multi-format - Magazines - VideoGame (BR)/index.html)<br>

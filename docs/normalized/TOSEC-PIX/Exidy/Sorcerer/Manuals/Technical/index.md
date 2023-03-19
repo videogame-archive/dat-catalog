@@ -1,1 +1,1 @@
-[Exidy Sorcerer - Manuals - Technical](Exidy Sorcerer - Manuals - Technical/index.html)
+[Exidy Sorcerer - Manuals - Technical](Exidy Sorcerer - Manuals - Technical/index.html)<br>

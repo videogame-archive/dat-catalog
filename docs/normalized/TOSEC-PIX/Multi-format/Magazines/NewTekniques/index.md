@@ -1,1 +1,1 @@
-[Multi-format - Magazines - NewTekniques](Multi-format - Magazines - NewTekniques/index.html)
+[Multi-format - Magazines - NewTekniques](Multi-format - Magazines - NewTekniques/index.html)<br>

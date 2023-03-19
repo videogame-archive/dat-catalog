@@ -1,1 +1,1 @@
-[IBM PC Compatibles - Magazines - Your Computer](IBM PC Compatibles - Magazines - Your Computer/index.html)
+[IBM PC Compatibles - Magazines - Your Computer](IBM PC Compatibles - Magazines - Your Computer/index.html)<br>

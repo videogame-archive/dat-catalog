@@ -1,1 +1,1 @@
-[Atari - Magazines - AtariUser](Atari - Magazines - AtariUser/index.html)
+[Atari - Magazines - AtariUser](Atari - Magazines - AtariUser/index.html)<br>

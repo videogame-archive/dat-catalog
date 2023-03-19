@@ -1,1 +1,1 @@
-[Multi-format - Magazines - compute II](Multi-format - Magazines - compute II/index.html)
+[Multi-format - Magazines - compute II](Multi-format - Magazines - compute II/index.html)<br>

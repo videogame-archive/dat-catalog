@@ -1,1 +1,1 @@
-[Franklin ACE 1000 - Manuals - Hardware](Franklin ACE 1000 - Manuals - Hardware/index.html)
+[Franklin ACE 1000 - Manuals - Hardware](Franklin ACE 1000 - Manuals - Hardware/index.html)<br>

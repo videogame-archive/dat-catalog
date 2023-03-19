@@ -1,1 +1,1 @@
-[Bandai Gundam RX-78 - Games](Bandai Gundam RX-78 - Games/index.html)
+[Bandai Gundam RX-78 - Games](Bandai Gundam RX-78 - Games/index.html)<br>

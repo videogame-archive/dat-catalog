@@ -1,1 +1,1 @@
-[Galaksija Galaksija Plus - Games - [GTP]](Galaksija Galaksija Plus - Games - [GTP]/index.html)
+[Galaksija Galaksija Plus - Games - [GTP]](Galaksija Galaksija Plus - Games - [GTP]/index.html)<br>

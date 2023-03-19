@@ -1,1 +1,1 @@
-[Apple - Magazines - Applicando (IT)](Apple - Magazines - Applicando (IT)/index.html)
+[Apple - Magazines - Applicando (IT)](Apple - Magazines - Applicando (IT)/index.html)<br>

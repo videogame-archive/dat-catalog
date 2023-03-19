@@ -1,3 +1,3 @@
-[PlayStation](PlayStation/index.html)
-[PlayStation 2](PlayStation 2/index.html)
-[PlayStation Portable](PlayStation Portable/index.html)
+[PlayStation](PlayStation/index.html)<br>
+[PlayStation 2](PlayStation 2/index.html)<br>
+[PlayStation Portable](PlayStation Portable/index.html)<br>

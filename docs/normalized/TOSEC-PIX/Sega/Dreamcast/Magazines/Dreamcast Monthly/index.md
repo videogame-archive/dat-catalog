@@ -1,1 +1,1 @@
-[Sega Dreamcast - Magazines - Dreamcast Monthly](Sega Dreamcast - Magazines - Dreamcast Monthly/index.html)
+[Sega Dreamcast - Magazines - Dreamcast Monthly](Sega Dreamcast - Magazines - Dreamcast Monthly/index.html)<br>

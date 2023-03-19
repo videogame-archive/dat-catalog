@@ -1,1 +1,1 @@
-[Commodore VIC20 - Magazines - [D64]](Commodore VIC20 - Magazines - [D64]/index.html)
+[Commodore VIC20 - Magazines - [D64]](Commodore VIC20 - Magazines - [D64]/index.html)<br>

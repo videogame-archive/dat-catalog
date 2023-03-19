@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Sega Computer](Multi-format - Magazines - Sega Computer/index.html)
+[Multi-format - Magazines - Sega Computer](Multi-format - Magazines - Sega Computer/index.html)<br>

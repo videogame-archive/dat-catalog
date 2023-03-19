@@ -1,2 +1,2 @@
-[GameCube](GameCube/index.html)
-[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)
+[GameCube](GameCube/index.html)<br>
+[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)<br>

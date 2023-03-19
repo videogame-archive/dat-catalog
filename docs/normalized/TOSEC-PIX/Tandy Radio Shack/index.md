@@ -1,7 +1,7 @@
-[Books](Books/index.html)
-[Catalogs](Catalogs/index.html)
-[Comics](Comics/index.html)
-[Commercials](Commercials/index.html)
-[Magazines](Magazines/index.html)
-[Manuals](Manuals/index.html)
-[TRS-80 Color Computer](TRS-80 Color Computer/index.html)
+[Books](Books/index.html)<br>
+[Catalogs](Catalogs/index.html)<br>
+[Comics](Comics/index.html)<br>
+[Commercials](Commercials/index.html)<br>
+[Magazines](Magazines/index.html)<br>
+[Manuals](Manuals/index.html)<br>
+[TRS-80 Color Computer](TRS-80 Color Computer/index.html)<br>

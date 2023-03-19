@@ -1,1 +1,1 @@
-[Sega Game Gear - Manuals - Hardware](Sega Game Gear - Manuals - Hardware/index.html)
+[Sega Game Gear - Manuals - Hardware](Sega Game Gear - Manuals - Hardware/index.html)<br>

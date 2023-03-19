@@ -1,3 +1,3 @@
-[Applications](Applications/index.html)
-[Collections](Collections/index.html)
-[Operating Systems](Operating Systems/index.html)
+[Applications](Applications/index.html)<br>
+[Collections](Collections/index.html)<br>
+[Operating Systems](Operating Systems/index.html)<br>

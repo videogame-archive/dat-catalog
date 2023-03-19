@@ -1,1 +1,1 @@
-[Commodore - Magazines - Commodore Vilag (HU)](Commodore - Magazines - Commodore Vilag (HU)/index.html)
+[Commodore - Magazines - Commodore Vilag (HU)](Commodore - Magazines - Commodore Vilag (HU)/index.html)<br>

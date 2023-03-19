@@ -1,1 +1,1 @@
-[IBM PC Compatibles - Magazines - Full Circle](IBM PC Compatibles - Magazines - Full Circle/index.html)
+[IBM PC Compatibles - Magazines - Full Circle](IBM PC Compatibles - Magazines - Full Circle/index.html)<br>

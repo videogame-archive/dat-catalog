@@ -1,4 +1,4 @@
-[Applications](Applications/index.html)
-[Educational](Educational/index.html)
-[Miscellaneous](Miscellaneous/index.html)
-[Operating Systems](Operating Systems/index.html)
+[Applications](Applications/index.html)<br>
+[Educational](Educational/index.html)<br>
+[Miscellaneous](Miscellaneous/index.html)<br>
+[Operating Systems](Operating Systems/index.html)<br>

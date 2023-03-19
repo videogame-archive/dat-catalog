@@ -1,1 +1,1 @@
-[Atari Jaguar - Applications - [COF]](Atari Jaguar - Applications - [COF]/index.html)
+[Atari Jaguar - Applications - [COF]](Atari Jaguar - Applications - [COF]/index.html)<br>

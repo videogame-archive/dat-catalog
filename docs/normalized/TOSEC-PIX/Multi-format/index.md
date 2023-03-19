@@ -1,12 +1,12 @@
-[Artbooks](Artbooks/index.html)
-[Books](Books/index.html)
-[Catalogs](Catalogs/index.html)
-[Comics](Comics/index.html)
-[Commercials](Commercials/index.html)
-[Game Guides](Game Guides/index.html)
-[Magazines](Magazines/index.html)
-[Manuals](Manuals/index.html)
-[Newsletters](Newsletters/index.html)
-[TV Series](TV Series/index.html)
-[TV Shows](TV Shows/index.html)
-[Video](Video/index.html)
+[Artbooks](Artbooks/index.html)<br>
+[Books](Books/index.html)<br>
+[Catalogs](Catalogs/index.html)<br>
+[Comics](Comics/index.html)<br>
+[Commercials](Commercials/index.html)<br>
+[Game Guides](Game Guides/index.html)<br>
+[Magazines](Magazines/index.html)<br>
+[Manuals](Manuals/index.html)<br>
+[Newsletters](Newsletters/index.html)<br>
+[TV Series](TV Series/index.html)<br>
+[TV Shows](TV Shows/index.html)<br>
+[Video](Video/index.html)<br>

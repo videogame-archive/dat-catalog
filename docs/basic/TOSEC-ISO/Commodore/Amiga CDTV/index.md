@@ -1,8 +1,8 @@
-[Applications](Applications/index.html)
-[Compilations](Compilations/index.html)
-[Educational](Educational/index.html)
-[Entertainment](Entertainment/index.html)
-[Games](Games/index.html)
-[Homebrew](Homebrew/index.html)
-[Multimedia](Multimedia/index.html)
-[Samplers](Samplers/index.html)
+[Applications](Applications/index.html)<br>
+[Compilations](Compilations/index.html)<br>
+[Educational](Educational/index.html)<br>
+[Entertainment](Entertainment/index.html)<br>
+[Games](Games/index.html)<br>
+[Homebrew](Homebrew/index.html)<br>
+[Multimedia](Multimedia/index.html)<br>
+[Samplers](Samplers/index.html)<br>

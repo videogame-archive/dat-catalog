@@ -1,18 +1,18 @@
-[Animations](Animations/index.html)
-[Applications](Applications/index.html)
-[Collections](Collections/index.html)
-[Compilations](Compilations/index.html)
-[Coverdisks](Coverdisks/index.html)
-[Cracktros](Cracktros/index.html)
-[Demos](Demos/index.html)
-[Diskmags](Diskmags/index.html)
-[Docs](Docs/index.html)
-[Educational](Educational/index.html)
-[Firmware](Firmware/index.html)
-[Games](Games/index.html)
-[GEOS](GEOS/index.html)
-[Graphics](Graphics/index.html)
-[Music](Music/index.html)
-[Operating Systems](Operating Systems/index.html)
-[Public Domain](Public Domain/index.html)
-[Sources](Sources/index.html)
+[Animations](Animations/index.html)<br>
+[Applications](Applications/index.html)<br>
+[Collections](Collections/index.html)<br>
+[Compilations](Compilations/index.html)<br>
+[Coverdisks](Coverdisks/index.html)<br>
+[Cracktros](Cracktros/index.html)<br>
+[Demos](Demos/index.html)<br>
+[Diskmags](Diskmags/index.html)<br>
+[Docs](Docs/index.html)<br>
+[Educational](Educational/index.html)<br>
+[Firmware](Firmware/index.html)<br>
+[Games](Games/index.html)<br>
+[GEOS](GEOS/index.html)<br>
+[Graphics](Graphics/index.html)<br>
+[Music](Music/index.html)<br>
+[Operating Systems](Operating Systems/index.html)<br>
+[Public Domain](Public Domain/index.html)<br>
+[Sources](Sources/index.html)<br>

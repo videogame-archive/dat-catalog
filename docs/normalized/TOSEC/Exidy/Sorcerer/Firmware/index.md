@@ -1,1 +1,1 @@
-[Exidy Sorcerer - Firmware](Exidy Sorcerer - Firmware/index.html)
+[Exidy Sorcerer - Firmware](Exidy Sorcerer - Firmware/index.html)<br>

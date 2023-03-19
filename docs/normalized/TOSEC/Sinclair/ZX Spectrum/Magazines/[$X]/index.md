@@ -1,1 +1,1 @@
-[Sinclair ZX Spectrum - Magazines - [$X]](Sinclair ZX Spectrum - Magazines - [$X]/index.html)
+[Sinclair ZX Spectrum - Magazines - [$X]](Sinclair ZX Spectrum - Magazines - [$X]/index.html)<br>

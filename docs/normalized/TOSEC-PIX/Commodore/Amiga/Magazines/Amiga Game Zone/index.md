@@ -1,1 +1,1 @@
-[Commodore Amiga - Magazines - Amiga Game Zone](Commodore Amiga - Magazines - Amiga Game Zone/index.html)
+[Commodore Amiga - Magazines - Amiga Game Zone](Commodore Amiga - Magazines - Amiga Game Zone/index.html)<br>

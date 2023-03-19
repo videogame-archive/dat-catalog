@@ -1,1 +1,1 @@
-[Bandai Playdia - Educational - [ISO]](Bandai Playdia - Educational - [ISO]/index.html)
+[Bandai Playdia - Educational - [ISO]](Bandai Playdia - Educational - [ISO]/index.html)<br>

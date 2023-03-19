@@ -1,1 +1,1 @@
-[Nintendo Game Boy Advance - Magazines - GBX](Nintendo Game Boy Advance - Magazines - GBX/index.html)
+[Nintendo Game Boy Advance - Magazines - GBX](Nintendo Game Boy Advance - Magazines - GBX/index.html)<br>

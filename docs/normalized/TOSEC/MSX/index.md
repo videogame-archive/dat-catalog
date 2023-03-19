@@ -1,4 +1,4 @@
-[MSX](MSX/index.html)
-[MSX2](MSX2/index.html)
-[MSX2+](MSX2+/index.html)
-[TurboR](TurboR/index.html)
+[MSX](MSX/index.html)<br>
+[MSX2](MSX2/index.html)<br>
+[MSX2+](MSX2+/index.html)<br>
+[TurboR](TurboR/index.html)<br>

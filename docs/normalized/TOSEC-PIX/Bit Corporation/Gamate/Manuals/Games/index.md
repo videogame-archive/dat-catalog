@@ -1,1 +1,1 @@
-[Bit Corporation Gamate - Manuals - Games](Bit Corporation Gamate - Manuals - Games/index.html)
+[Bit Corporation Gamate - Manuals - Games](Bit Corporation Gamate - Manuals - Games/index.html)<br>

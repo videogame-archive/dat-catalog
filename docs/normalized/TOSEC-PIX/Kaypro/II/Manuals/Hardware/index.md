@@ -1,1 +1,1 @@
-[Kaypro II - Manuals - Hardware](Kaypro II - Manuals - Hardware/index.html)
+[Kaypro II - Manuals - Hardware](Kaypro II - Manuals - Hardware/index.html)<br>

@@ -1,1 +1,1 @@
-[Atari - Magazines - L'Atarien (FR)](Atari - Magazines - L'Atarien (FR)/index.html)
+[Atari - Magazines - L'Atarien (FR)](Atari - Magazines - L'Atarien (FR)/index.html)<br>

@@ -1,1 +1,1 @@
-[Commodore C64 - Diskmags - Commercial - [ARK]](Commodore C64 - Diskmags - Commercial - [ARK]/index.html)
+[Commodore C64 - Diskmags - Commercial - [ARK]](Commodore C64 - Diskmags - Commercial - [ARK]/index.html)<br>

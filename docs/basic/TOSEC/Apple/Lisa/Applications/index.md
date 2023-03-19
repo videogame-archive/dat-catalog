@@ -1,2 +1,2 @@
-[[A2R]]([A2R]/index.html)
-[[IMAGE]]([IMAGE]/index.html)
+[[A2R]]([A2R]/index.html)<br>
+[[IMAGE]]([IMAGE]/index.html)<br>

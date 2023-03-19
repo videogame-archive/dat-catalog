@@ -1,1 +1,1 @@
-[Apple IIGS - Manuals - Hardware](Apple IIGS - Manuals - Hardware/index.html)
+[Apple IIGS - Manuals - Hardware](Apple IIGS - Manuals - Hardware/index.html)<br>

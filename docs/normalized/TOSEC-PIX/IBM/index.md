@@ -1,2 +1,2 @@
-[PC Compatibles](PC Compatibles/index.html)
-[PCjr](PCjr/index.html)
+[PC Compatibles](PC Compatibles/index.html)<br>
+[PCjr](PCjr/index.html)<br>

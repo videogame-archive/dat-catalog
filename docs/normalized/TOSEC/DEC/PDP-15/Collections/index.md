@@ -1,2 +1,2 @@
-[DEC](DEC/index.html)
-[MainDEC](MainDEC/index.html)
+[DEC](DEC/index.html)<br>
+[MainDEC](MainDEC/index.html)<br>

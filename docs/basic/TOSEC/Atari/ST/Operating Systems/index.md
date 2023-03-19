@@ -1,2 +1,2 @@
-[[IMG]]([IMG]/index.html)
-[[ST]]([ST]/index.html)
+[[IMG]]([IMG]/index.html)<br>
+[[ST]]([ST]/index.html)<br>

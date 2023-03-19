@@ -1,1 +1,1 @@
-[Commodore Amiga - Magazines - Amiga Computing](Commodore Amiga - Magazines - Amiga Computing/index.html)
+[Commodore Amiga - Magazines - Amiga Computing](Commodore Amiga - Magazines - Amiga Computing/index.html)<br>

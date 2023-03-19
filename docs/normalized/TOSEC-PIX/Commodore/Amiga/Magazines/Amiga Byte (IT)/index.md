@@ -1,1 +1,1 @@
-[Commodore Amiga - Magazines - Amiga Byte (IT)](Commodore Amiga - Magazines - Amiga Byte (IT)/index.html)
+[Commodore Amiga - Magazines - Amiga Byte (IT)](Commodore Amiga - Magazines - Amiga Byte (IT)/index.html)<br>

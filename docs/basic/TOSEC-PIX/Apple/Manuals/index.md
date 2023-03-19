@@ -1,2 +1,2 @@
-[Applications](Applications/index.html)
-[Technical](Technical/index.html)
+[Applications](Applications/index.html)<br>
+[Technical](Technical/index.html)<br>

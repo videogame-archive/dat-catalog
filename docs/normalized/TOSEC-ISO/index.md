@@ -1,26 +1,26 @@
-[3DO](3DO/index.html)
-[Acorn](Acorn/index.html)
-[American Laser Games](American Laser Games/index.html)
-[Apple](Apple/index.html)
-[Atari](Atari/index.html)
-[Bandai](Bandai/index.html)
-[Capcom](Capcom/index.html)
-[Commodore](Commodore/index.html)
-[Fujitsu](Fujitsu/index.html)
-[IBM](IBM/index.html)
-[Incredible Technologies](Incredible Technologies/index.html)
-[Konami](Konami/index.html)
-[Mattel](Mattel/index.html)
-[Memorex](Memorex/index.html)
-[Namco-Sega-Nintendo](Namco-Sega-Nintendo/index.html)
-[NEC](NEC/index.html)
-[Nintendo](Nintendo/index.html)
-[Philips](Philips/index.html)
-[Sega](Sega/index.html)
-[Sinclair](Sinclair/index.html)
-[SNK](SNK/index.html)
-[Sony](Sony/index.html)
-[Tomy](Tomy/index.html)
-[VM Labs](VM Labs/index.html)
-[VTech](VTech/index.html)
-[ZAPiT Games](ZAPiT Games/index.html)
+[3DO](3DO/index.html)<br>
+[Acorn](Acorn/index.html)<br>
+[American Laser Games](American Laser Games/index.html)<br>
+[Apple](Apple/index.html)<br>
+[Atari](Atari/index.html)<br>
+[Bandai](Bandai/index.html)<br>
+[Capcom](Capcom/index.html)<br>
+[Commodore](Commodore/index.html)<br>
+[Fujitsu](Fujitsu/index.html)<br>
+[IBM](IBM/index.html)<br>
+[Incredible Technologies](Incredible Technologies/index.html)<br>
+[Konami](Konami/index.html)<br>
+[Mattel](Mattel/index.html)<br>
+[Memorex](Memorex/index.html)<br>
+[Namco-Sega-Nintendo](Namco-Sega-Nintendo/index.html)<br>
+[NEC](NEC/index.html)<br>
+[Nintendo](Nintendo/index.html)<br>
+[Philips](Philips/index.html)<br>
+[Sega](Sega/index.html)<br>
+[Sinclair](Sinclair/index.html)<br>
+[SNK](SNK/index.html)<br>
+[Sony](Sony/index.html)<br>
+[Tomy](Tomy/index.html)<br>
+[VM Labs](VM Labs/index.html)<br>
+[VTech](VTech/index.html)<br>
+[ZAPiT Games](ZAPiT Games/index.html)<br>

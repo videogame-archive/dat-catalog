@@ -1,1 +1,1 @@
-[Magnavox Odyssey - Manuals - Hardware](Magnavox Odyssey - Manuals - Hardware/index.html)
+[Magnavox Odyssey - Manuals - Hardware](Magnavox Odyssey - Manuals - Hardware/index.html)<br>

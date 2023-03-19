@@ -1,1 +1,1 @@
-[Commodore Amiga - Diskmags](Commodore Amiga - Diskmags/index.html)
+[Commodore Amiga - Diskmags](Commodore Amiga - Diskmags/index.html)<br>

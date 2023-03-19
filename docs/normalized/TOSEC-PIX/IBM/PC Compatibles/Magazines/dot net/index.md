@@ -1,1 +1,1 @@
-[IBM PC Compatibles - Magazines - dot net](IBM PC Compatibles - Magazines - dot net/index.html)
+[IBM PC Compatibles - Magazines - dot net](IBM PC Compatibles - Magazines - dot net/index.html)<br>

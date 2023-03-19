@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Atomix (MX)](Multi-format - Magazines - Atomix (MX)/index.html)
+[Multi-format - Magazines - Atomix (MX)](Multi-format - Magazines - Atomix (MX)/index.html)<br>

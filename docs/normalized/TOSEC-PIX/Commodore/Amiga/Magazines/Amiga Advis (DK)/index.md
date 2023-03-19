@@ -1,1 +1,1 @@
-[Commodore Amiga - Magazines - Amiga Advis (DK)](Commodore Amiga - Magazines - Amiga Advis (DK)/index.html)
+[Commodore Amiga - Magazines - Amiga Advis (DK)](Commodore Amiga - Magazines - Amiga Advis (DK)/index.html)<br>

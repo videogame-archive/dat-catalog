@@ -1,1 +1,1 @@
-[Sinclair ZX Spectrum - Magazines - Crash](Sinclair ZX Spectrum - Magazines - Crash/index.html)
+[Sinclair ZX Spectrum - Magazines - Crash](Sinclair ZX Spectrum - Magazines - Crash/index.html)<br>

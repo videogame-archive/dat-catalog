@@ -1,1 +1,1 @@
-[Exidy Sorcerer - Magazines - Sorcerers Apprentice, The](Exidy Sorcerer - Magazines - Sorcerers Apprentice, The/index.html)
+[Exidy Sorcerer - Magazines - Sorcerers Apprentice, The](Exidy Sorcerer - Magazines - Sorcerers Apprentice, The/index.html)<br>

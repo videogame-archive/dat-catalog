@@ -1,3 +1,3 @@
-[[GAL]]([GAL]/index.html)
-[[GTP]]([GTP]/index.html)
-[[WAV]]([WAV]/index.html)
+[[GAL]]([GAL]/index.html)<br>
+[[GTP]]([GTP]/index.html)<br>
+[[WAV]]([WAV]/index.html)<br>

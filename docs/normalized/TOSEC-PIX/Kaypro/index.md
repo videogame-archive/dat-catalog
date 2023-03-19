@@ -1,3 +1,3 @@
-[II](II/index.html)
-[Magazines](Magazines/index.html)
-[Manuals](Manuals/index.html)
+[II](II/index.html)<br>
+[Magazines](Magazines/index.html)<br>
+[Manuals](Manuals/index.html)<br>

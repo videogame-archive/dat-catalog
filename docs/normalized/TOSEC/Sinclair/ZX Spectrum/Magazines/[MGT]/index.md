@@ -1,1 +1,1 @@
-[Sinclair ZX Spectrum - Magazines - [MGT]](Sinclair ZX Spectrum - Magazines - [MGT]/index.html)
+[Sinclair ZX Spectrum - Magazines - [MGT]](Sinclair ZX Spectrum - Magazines - [MGT]/index.html)<br>

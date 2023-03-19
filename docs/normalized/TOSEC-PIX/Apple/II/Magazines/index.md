@@ -1,4 +1,4 @@
-[COMPUTIST](COMPUTIST/index.html)
-[Contact](Contact/index.html)
-[Golden](Golden/index.html)
-[Windfall](Windfall/index.html)
+[COMPUTIST](COMPUTIST/index.html)<br>
+[Contact](Contact/index.html)<br>
+[Golden](Golden/index.html)<br>
+[Windfall](Windfall/index.html)<br>

@@ -1,1 +1,1 @@
-[Commodore PET - Magazines - Pocket PET (IT)](Commodore PET - Magazines - Pocket PET (IT)/index.html)
+[Commodore PET - Magazines - Pocket PET (IT)](Commodore PET - Magazines - Pocket PET (IT)/index.html)<br>

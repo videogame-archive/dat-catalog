@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Vidiot](Multi-format - Magazines - Vidiot/index.html)
+[Multi-format - Magazines - Vidiot](Multi-format - Magazines - Vidiot/index.html)<br>

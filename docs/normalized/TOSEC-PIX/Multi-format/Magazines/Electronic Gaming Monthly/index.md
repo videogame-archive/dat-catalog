@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Electronic Gaming Monthly](Multi-format - Magazines - Electronic Gaming Monthly/index.html)
+[Multi-format - Magazines - Electronic Gaming Monthly](Multi-format - Magazines - Electronic Gaming Monthly/index.html)<br>

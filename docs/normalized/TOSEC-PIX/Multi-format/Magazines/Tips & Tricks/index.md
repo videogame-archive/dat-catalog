@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Tips & Tricks](Multi-format - Magazines - Tips & Tricks/index.html)
+[Multi-format - Magazines - Tips & Tricks](Multi-format - Magazines - Tips & Tricks/index.html)<br>

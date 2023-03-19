@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Various](Multi-format - Magazines - Various/index.html)
+[Multi-format - Magazines - Various](Multi-format - Magazines - Various/index.html)<br>

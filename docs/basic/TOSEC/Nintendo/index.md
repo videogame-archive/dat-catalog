@@ -1,18 +1,18 @@
-[3DS](3DS/index.html)
-[64](64/index.html)
-[64DD](64DD/index.html)
-[DS](DS/index.html)
-[DSi](DSi/index.html)
-[Famicom & Entertainment System](Famicom & Entertainment System/index.html)
-[Famicom Disk System](Famicom Disk System/index.html)
-[Game Boy](Game Boy/index.html)
-[Game Boy Advance](Game Boy Advance/index.html)
-[Game Boy Color](Game Boy Color/index.html)
-[GameCube](GameCube/index.html)
-[Play-Yan](Play-Yan/index.html)
-[Pokemon Mini](Pokemon Mini/index.html)
-[Pokewalker](Pokewalker/index.html)
-[Sufami Turbo](Sufami Turbo/index.html)
-[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)
-[Virtual Boy](Virtual Boy/index.html)
-[Wii](Wii/index.html)
+[3DS](3DS/index.html)<br>
+[64](64/index.html)<br>
+[64DD](64DD/index.html)<br>
+[DS](DS/index.html)<br>
+[DSi](DSi/index.html)<br>
+[Famicom & Entertainment System](Famicom & Entertainment System/index.html)<br>
+[Famicom Disk System](Famicom Disk System/index.html)<br>
+[Game Boy](Game Boy/index.html)<br>
+[Game Boy Advance](Game Boy Advance/index.html)<br>
+[Game Boy Color](Game Boy Color/index.html)<br>
+[GameCube](GameCube/index.html)<br>
+[Play-Yan](Play-Yan/index.html)<br>
+[Pokemon Mini](Pokemon Mini/index.html)<br>
+[Pokewalker](Pokewalker/index.html)<br>
+[Sufami Turbo](Sufami Turbo/index.html)<br>
+[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)<br>
+[Virtual Boy](Virtual Boy/index.html)<br>
+[Wii](Wii/index.html)<br>

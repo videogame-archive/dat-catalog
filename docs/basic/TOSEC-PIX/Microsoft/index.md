@@ -1,5 +1,5 @@
-[Comics](Comics/index.html)
-[TV Series](TV Series/index.html)
-[Xbox](Xbox/index.html)
-[Xbox 360](Xbox 360/index.html)
-[Xbox One](Xbox One/index.html)
+[Comics](Comics/index.html)<br>
+[TV Series](TV Series/index.html)<br>
+[Xbox](Xbox/index.html)<br>
+[Xbox 360](Xbox 360/index.html)<br>
+[Xbox One](Xbox One/index.html)<br>

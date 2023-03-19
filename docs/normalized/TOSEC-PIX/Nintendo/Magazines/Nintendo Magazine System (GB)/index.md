@@ -1,1 +1,1 @@
-[Nintendo - Magazines - Nintendo Magazine System (GB)](Nintendo - Magazines - Nintendo Magazine System (GB)/index.html)
+[Nintendo - Magazines - Nintendo Magazine System (GB)](Nintendo - Magazines - Nintendo Magazine System (GB)/index.html)<br>

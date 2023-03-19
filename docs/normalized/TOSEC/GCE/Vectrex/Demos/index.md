@@ -1,3 +1,3 @@
-[Music](Music/index.html)
-[Slideshows](Slideshows/index.html)
-[Various](Various/index.html)
+[Music](Music/index.html)<br>
+[Slideshows](Slideshows/index.html)<br>
+[Various](Various/index.html)<br>

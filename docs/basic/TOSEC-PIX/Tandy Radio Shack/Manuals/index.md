@@ -1,3 +1,3 @@
-[Audio](Audio/index.html)
-[Hardware](Hardware/index.html)
-[Software](Software/index.html)
+[Audio](Audio/index.html)<br>
+[Hardware](Hardware/index.html)<br>
+[Software](Software/index.html)<br>

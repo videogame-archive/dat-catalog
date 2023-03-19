@@ -1,1 +1,1 @@
-[Multi-format - Comics - Street Fighter](Multi-format - Comics - Street Fighter/index.html)
+[Multi-format - Comics - Street Fighter](Multi-format - Comics - Street Fighter/index.html)<br>

@@ -1,1 +1,1 @@
-[GS Compatibles](GS Compatibles/index.html)
+[GS Compatibles](GS Compatibles/index.html)<br>

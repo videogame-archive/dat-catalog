@@ -1,2 +1,2 @@
-[Hardware](Hardware/index.html)
-[Technical](Technical/index.html)
+[Hardware](Hardware/index.html)<br>
+[Technical](Technical/index.html)<br>

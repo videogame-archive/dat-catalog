@@ -1,1 +1,1 @@
-[Apple IIGS - Hard Disks - HyperCard Stacks](Apple IIGS - Hard Disks - HyperCard Stacks/index.html)
+[Apple IIGS - Hard Disks - HyperCard Stacks](Apple IIGS - Hard Disks - HyperCard Stacks/index.html)<br>

@@ -1,1 +1,1 @@
-[Multi-format - Magazines - ST Amiga Format](Multi-format - Magazines - ST Amiga Format/index.html)
+[Multi-format - Magazines - ST Amiga Format](Multi-format - Magazines - ST Amiga Format/index.html)<br>

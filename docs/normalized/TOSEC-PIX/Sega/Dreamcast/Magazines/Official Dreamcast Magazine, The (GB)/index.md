@@ -1,1 +1,1 @@
-[Sega Dreamcast - Magazines - Official Dreamcast Magazine, The (GB)](Sega Dreamcast - Magazines - Official Dreamcast Magazine, The (GB)/index.html)
+[Sega Dreamcast - Magazines - Official Dreamcast Magazine, The (GB)](Sega Dreamcast - Magazines - Official Dreamcast Magazine, The (GB)/index.html)<br>

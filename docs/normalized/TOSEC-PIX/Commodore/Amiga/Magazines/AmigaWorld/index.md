@@ -1,1 +1,1 @@
-[Commodore Amiga - Magazines - AmigaWorld](Commodore Amiga - Magazines - AmigaWorld/index.html)
+[Commodore Amiga - Magazines - AmigaWorld](Commodore Amiga - Magazines - AmigaWorld/index.html)<br>

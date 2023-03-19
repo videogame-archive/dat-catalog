@@ -1,1 +1,1 @@
-[Sega - Magazines - Sega Visions](Sega - Magazines - Sega Visions/index.html)
+[Sega - Magazines - Sega Visions](Sega - Magazines - Sega Visions/index.html)<br>

@@ -1,1 +1,1 @@
-[Multi-format - Magazines - GamePro](Multi-format - Magazines - GamePro/index.html)
+[Multi-format - Magazines - GamePro](Multi-format - Magazines - GamePro/index.html)<br>

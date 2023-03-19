@@ -1,4 +1,4 @@
-[Compilations](Compilations/index.html)
-[Educational](Educational/index.html)
-[Games](Games/index.html)
-[Operating Systems](Operating Systems/index.html)
+[Compilations](Compilations/index.html)<br>
+[Educational](Educational/index.html)<br>
+[Games](Games/index.html)<br>
+[Operating Systems](Operating Systems/index.html)<br>

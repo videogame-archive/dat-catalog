@@ -1,1 +1,1 @@
-[Multi-format - Magazines - GAME (IT)](Multi-format - Magazines - GAME (IT)/index.html)
+[Multi-format - Magazines - GAME (IT)](Multi-format - Magazines - GAME (IT)/index.html)<br>

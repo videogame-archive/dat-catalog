@@ -1,1 +1,1 @@
-[Jupiter Cantab Jupiter Ace - Manuals - Hardware](Jupiter Cantab Jupiter Ace - Manuals - Hardware/index.html)
+[Jupiter Cantab Jupiter Ace - Manuals - Hardware](Jupiter Cantab Jupiter Ace - Manuals - Hardware/index.html)<br>

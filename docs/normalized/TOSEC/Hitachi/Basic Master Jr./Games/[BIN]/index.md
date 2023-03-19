@@ -1,1 +1,1 @@
-[Hitachi Basic Master Jr. - Games - [BIN]](Hitachi Basic Master Jr. - Games - [BIN]/index.html)
+[Hitachi Basic Master Jr. - Games - [BIN]](Hitachi Basic Master Jr. - Games - [BIN]/index.html)<br>

@@ -1,1 +1,1 @@
-[Commodore - Magazines - Commodore Horizons](Commodore - Magazines - Commodore Horizons/index.html)
+[Commodore - Magazines - Commodore Horizons](Commodore - Magazines - Commodore Horizons/index.html)<br>

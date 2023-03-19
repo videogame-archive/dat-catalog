@@ -1,1 +1,1 @@
-[Sony PlayStation 4 - Magazines - Playmania (ES)](Sony PlayStation 4 - Magazines - Playmania (ES)/index.html)
+[Sony PlayStation 4 - Magazines - Playmania (ES)](Sony PlayStation 4 - Magazines - Playmania (ES)/index.html)<br>

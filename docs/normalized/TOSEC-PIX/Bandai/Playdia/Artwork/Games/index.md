@@ -1,1 +1,1 @@
-[Bandai Playdia - Artwork - Games](Bandai Playdia - Artwork - Games/index.html)
+[Bandai Playdia - Artwork - Games](Bandai Playdia - Artwork - Games/index.html)<br>

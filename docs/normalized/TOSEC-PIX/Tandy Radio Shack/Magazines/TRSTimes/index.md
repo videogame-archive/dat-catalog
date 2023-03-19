@@ -1,1 +1,1 @@
-[Tandy Radio Shack - Magazines - TRSTimes](Tandy Radio Shack - Magazines - TRSTimes/index.html)
+[Tandy Radio Shack - Magazines - TRSTimes](Tandy Radio Shack - Magazines - TRSTimes/index.html)<br>

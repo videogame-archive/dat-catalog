@@ -1,1 +1,1 @@
-[Commodore - Magazines - Ahoy!](Commodore - Magazines - Ahoy!/index.html)
+[Commodore - Magazines - Ahoy!](Commodore - Magazines - Ahoy!/index.html)<br>

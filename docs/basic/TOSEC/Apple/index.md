@@ -1,6 +1,6 @@
-[1](1/index.html)
-[II](II/index.html)
-[IIGS](IIGS/index.html)
-[III](III/index.html)
-[Lisa](Lisa/index.html)
-[Macintosh](Macintosh/index.html)
+[1](1/index.html)<br>
+[II](II/index.html)<br>
+[IIGS](IIGS/index.html)<br>
+[III](III/index.html)<br>
+[Lisa](Lisa/index.html)<br>
+[Macintosh](Macintosh/index.html)<br>

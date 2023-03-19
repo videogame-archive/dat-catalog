@@ -1,1 +1,1 @@
-[Apple II - Diskmags - [EDD]](Apple II - Diskmags - [EDD]/index.html)
+[Apple II - Diskmags - [EDD]](Apple II - Diskmags - [EDD]/index.html)<br>

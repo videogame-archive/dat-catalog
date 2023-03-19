@@ -1,1 +1,1 @@
-[Galaksija Galaksija - Applications](Galaksija Galaksija - Applications/index.html)
+[Galaksija Galaksija - Applications](Galaksija Galaksija - Applications/index.html)<br>

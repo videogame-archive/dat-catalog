@@ -1,1 +1,1 @@
-[Multi-format - Magazines - Hardcore Gamer](Multi-format - Magazines - Hardcore Gamer/index.html)
+[Multi-format - Magazines - Hardcore Gamer](Multi-format - Magazines - Hardcore Gamer/index.html)<br>

@@ -1,1 +1,1 @@
-[IBM PC Compatibles - Magazines - PC Answers](IBM PC Compatibles - Magazines - PC Answers/index.html)
+[IBM PC Compatibles - Magazines - PC Answers](IBM PC Compatibles - Magazines - PC Answers/index.html)<br>

@@ -1,1 +1,1 @@
-[Prologica - Magazines - Geracao Prologica (BR)](Prologica - Magazines - Geracao Prologica (BR)/index.html)
+[Prologica - Magazines - Geracao Prologica (BR)](Prologica - Magazines - Geracao Prologica (BR)/index.html)<br>

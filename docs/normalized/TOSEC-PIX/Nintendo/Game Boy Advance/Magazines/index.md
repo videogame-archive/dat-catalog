@@ -1,2 +1,2 @@
-[GBX](GBX/index.html)
-[Nintendo Power Advance](Nintendo Power Advance/index.html)
+[GBX](GBX/index.html)<br>
+[Nintendo Power Advance](Nintendo Power Advance/index.html)<br>

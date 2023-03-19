@@ -1,1 +1,1 @@
-[Sega 32X - Manuals - Games](Sega 32X - Manuals - Games/index.html)
+[Sega 32X - Manuals - Games](Sega 32X - Manuals - Games/index.html)<br>

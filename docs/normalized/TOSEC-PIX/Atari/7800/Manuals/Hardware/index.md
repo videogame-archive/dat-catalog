@@ -1,1 +1,1 @@
-[Atari 7800 - Manuals - Hardware](Atari 7800 - Manuals - Hardware/index.html)
+[Atari 7800 - Manuals - Hardware](Atari 7800 - Manuals - Hardware/index.html)<br>

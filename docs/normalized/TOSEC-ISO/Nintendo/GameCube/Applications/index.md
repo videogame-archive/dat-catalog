@@ -1,1 +1,1 @@
-[Nintendo GameCube - Applications](Nintendo GameCube - Applications/index.html)
+[Nintendo GameCube - Applications](Nintendo GameCube - Applications/index.html)<br>

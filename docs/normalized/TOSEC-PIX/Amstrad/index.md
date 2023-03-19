@@ -1,6 +1,6 @@
-[Books](Books/index.html)
-[CPC](CPC/index.html)
-[GX4000](GX4000/index.html)
-[Magazines](Magazines/index.html)
-[Manuals](Manuals/index.html)
-[PCW](PCW/index.html)
+[Books](Books/index.html)<br>
+[CPC](CPC/index.html)<br>
+[GX4000](GX4000/index.html)<br>
+[Magazines](Magazines/index.html)<br>
+[Manuals](Manuals/index.html)<br>
+[PCW](PCW/index.html)<br>

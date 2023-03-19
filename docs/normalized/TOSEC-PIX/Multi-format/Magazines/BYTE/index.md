@@ -1,1 +1,1 @@
-[Multi-format - Magazines - BYTE](Multi-format - Magazines - BYTE/index.html)
+[Multi-format - Magazines - BYTE](Multi-format - Magazines - BYTE/index.html)<br>

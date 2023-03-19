@@ -1,1 +1,1 @@
-[IBM PC Compatibles - Magazines - Computer Active](IBM PC Compatibles - Magazines - Computer Active/index.html)
+[IBM PC Compatibles - Magazines - Computer Active](IBM PC Compatibles - Magazines - Computer Active/index.html)<br>

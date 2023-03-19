@@ -1,18 +1,18 @@
-[3DS](3DS/index.html)
-[64](64/index.html)
-[64DD](64DD/index.html)
-[Books](Books/index.html)
-[Commercials](Commercials/index.html)
-[DS](DS/index.html)
-[Famicom & Entertainment System](Famicom & Entertainment System/index.html)
-[Famicom Disk System](Famicom Disk System/index.html)
-[Game Boy](Game Boy/index.html)
-[Game Boy Advance](Game Boy Advance/index.html)
-[GameCube](GameCube/index.html)
-[Magazines](Magazines/index.html)
-[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)
-[Switch](Switch/index.html)
-[Video](Video/index.html)
-[Virtual Boy](Virtual Boy/index.html)
-[Wii](Wii/index.html)
-[Wii U](Wii U/index.html)
+[3DS](3DS/index.html)<br>
+[64](64/index.html)<br>
+[64DD](64DD/index.html)<br>
+[Books](Books/index.html)<br>
+[Commercials](Commercials/index.html)<br>
+[DS](DS/index.html)<br>
+[Famicom & Entertainment System](Famicom & Entertainment System/index.html)<br>
+[Famicom Disk System](Famicom Disk System/index.html)<br>
+[Game Boy](Game Boy/index.html)<br>
+[Game Boy Advance](Game Boy Advance/index.html)<br>
+[GameCube](GameCube/index.html)<br>
+[Magazines](Magazines/index.html)<br>
+[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)<br>
+[Switch](Switch/index.html)<br>
+[Video](Video/index.html)<br>
+[Virtual Boy](Virtual Boy/index.html)<br>
+[Wii](Wii/index.html)<br>
+[Wii U](Wii U/index.html)<br>

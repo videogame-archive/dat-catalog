@@ -1,1 +1,1 @@
-[IBM PC Compatibles - Magazines - PC Format](IBM PC Compatibles - Magazines - PC Format/index.html)
+[IBM PC Compatibles - Magazines - PC Format](IBM PC Compatibles - Magazines - PC Format/index.html)<br>

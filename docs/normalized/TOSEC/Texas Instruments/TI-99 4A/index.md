@@ -1,4 +1,4 @@
-[Applications](Applications/index.html)
-[Command Modules](Command Modules/index.html)
-[Games](Games/index.html)
-[Various](Various/index.html)
+[Applications](Applications/index.html)<br>
+[Command Modules](Command Modules/index.html)<br>
+[Games](Games/index.html)<br>
+[Various](Various/index.html)<br>
