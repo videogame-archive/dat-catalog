@@ -1,0 +1,6 @@
+[Demos](Demos/index.html)
+[Diskmags](Diskmags/index.html)
+[Educational](Educational/index.html)
+[Games](Games/index.html)
+[Music](Music/index.html)
+[Various](Various/index.html)

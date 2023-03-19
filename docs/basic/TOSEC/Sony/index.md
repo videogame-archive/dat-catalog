@@ -1,0 +1,5 @@
+[PlayStation](PlayStation/index.html)
+[PlayStation 2](PlayStation 2/index.html)
+[PlayStation Vita](PlayStation Vita/index.html)
+[PocketStation](PocketStation/index.html)
+[SMC-777](SMC-777/index.html)

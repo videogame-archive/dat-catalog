@@ -1,0 +1,8 @@
+[A.C.E.S.](A.C.E.S./index.html)
+[Berkeley GEOS News](Berkeley GEOS News/index.html)
+[CHUG Gazette](CHUG Gazette/index.html)
+[CPU](CPU/index.html)
+[Eight Bit Bosters](Eight Bit Bosters/index.html)
+[Feedback (AU)](Feedback (AU)/index.html)
+[geoJournal](geoJournal/index.html)
+[geoNews](geoNews/index.html)

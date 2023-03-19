@@ -1,0 +1,8 @@
+[Australian Macworld](Australian Macworld/index.html)
+[Mac Fan (JP)](Mac Fan (JP)/index.html)
+[MacFormat](MacFormat/index.html)
+[Maclife](Maclife/index.html)
+[MacLife (DE)](MacLife (DE)/index.html)
+[MacUser](MacUser/index.html)
+[Macworld](Macworld/index.html)
+[Macworld UK](Macworld UK/index.html)

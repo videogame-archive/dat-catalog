@@ -1,0 +1,7 @@
+[Applications](Applications/index.html)
+[Compilations](Compilations/index.html)
+[Demos](Demos/index.html)
+[Diskmags](Diskmags/index.html)
+[Educational](Educational/index.html)
+[Games](Games/index.html)
+[Operating Systems](Operating Systems/index.html)

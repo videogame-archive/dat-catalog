@@ -1,0 +1,5 @@
+[[BIN]]([BIN]/index.html)
+[[EXE]]([EXE]/index.html)
+[[ISO]]([ISO]/index.html)
+[[Multipart]]([Multipart]/index.html)
+[[PSX]]([PSX]/index.html)

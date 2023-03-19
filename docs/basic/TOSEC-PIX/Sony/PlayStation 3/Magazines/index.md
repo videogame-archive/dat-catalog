@@ -1,0 +1,6 @@
+[Official UK Playstation Magazine](Official UK Playstation Magazine/index.html)
+[Official US Playstation Magazine](Official US Playstation Magazine/index.html)
+[Play](Play/index.html)
+[Play Gamer](Play Gamer/index.html)
+[PlayStation (RU)](PlayStation (RU)/index.html)
+[PSM3](PSM3/index.html)
