@@ -1,4 +1,7 @@
-[[FD]]([FD]/index.html)<br>
-[[K7]]([K7]/index.html)<br>
-[[M5]]([M5]/index.html)<br>
-[[WAV]]([WAV]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[FD]]([FD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[K7]]([K7]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[M5]]([M5]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[WAV]]([WAV]/index.html)</td><td>DIR</td></tr>
+</table>

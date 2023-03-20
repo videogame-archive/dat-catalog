@@ -1,7 +1,10 @@
-[[CRT]]([CRT]/index.html)<br>
-[[D64]]([D64]/index.html)<br>
-[[D71]]([D71]/index.html)<br>
-[[D81]]([D81]/index.html)<br>
-[[PRG]]([PRG]/index.html)<br>
-[[TAP]]([TAP]/index.html)<br>
-[Source](Source/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[CRT]]([CRT]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[D64]]([D64]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[D71]]([D71]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[D81]]([D81]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PRG]]([PRG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TAP]]([TAP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[Source](Source/index.html)</td><td>DIR</td></tr>
+</table>

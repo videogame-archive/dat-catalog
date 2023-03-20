@@ -1,2 +1,5 @@
-[[DSD]]([DSD]/index.html)<br>
-[[SSD]]([SSD]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[DSD]]([DSD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SSD]]([SSD]/index.html)</td><td>DIR</td></tr>
+</table>

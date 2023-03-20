@@ -1,0 +1,4 @@
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Atari 8bit - Manuals - Games (TOSEC-v2014-01-31_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/8bit/Manuals/Games/Atari 8bit - Manuals - Games/Atari 8bit - Manuals - Games (TOSEC-v2014-01-31_CM).dat)</td><td>8397</td></tr>
+</table>

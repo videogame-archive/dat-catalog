@@ -1,5 +1,8 @@
-[Applications](Applications/index.html)<br>
-[Educational](Educational/index.html)<br>
-[Firmware](Firmware/index.html)<br>
-[Games](Games/index.html)<br>
-[Multimedia](Multimedia/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Firmware](Firmware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Multimedia](Multimedia/index.html)</td><td>DIR</td></tr>
+</table>

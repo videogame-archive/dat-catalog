@@ -1,6 +1,9 @@
-[Artwork](Artwork/index.html)<br>
-[Catalogs](Catalogs/index.html)<br>
-[Commercials](Commercials/index.html)<br>
-[Magazines](Magazines/index.html)<br>
-[Manuals](Manuals/index.html)<br>
-[Overlays](Overlays/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Artwork](Artwork/index.html)</td><td>DIR</td></tr>
+<tr><td>[Catalogs](Catalogs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Commercials](Commercials/index.html)</td><td>DIR</td></tr>
+<tr><td>[Magazines](Magazines/index.html)</td><td>DIR</td></tr>
+<tr><td>[Manuals](Manuals/index.html)</td><td>DIR</td></tr>
+<tr><td>[Overlays](Overlays/index.html)</td><td>DIR</td></tr>
+</table>

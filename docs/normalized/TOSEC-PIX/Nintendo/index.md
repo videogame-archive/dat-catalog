@@ -1,18 +1,21 @@
-[3DS](3DS/index.html)<br>
-[64](64/index.html)<br>
-[64DD](64DD/index.html)<br>
-[Books](Books/index.html)<br>
-[Commercials](Commercials/index.html)<br>
-[DS](DS/index.html)<br>
-[Famicom & Entertainment System](Famicom & Entertainment System/index.html)<br>
-[Famicom Disk System](Famicom Disk System/index.html)<br>
-[Game Boy](Game Boy/index.html)<br>
-[Game Boy Advance](Game Boy Advance/index.html)<br>
-[GameCube](GameCube/index.html)<br>
-[Magazines](Magazines/index.html)<br>
-[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)<br>
-[Switch](Switch/index.html)<br>
-[Video](Video/index.html)<br>
-[Virtual Boy](Virtual Boy/index.html)<br>
-[Wii](Wii/index.html)<br>
-[Wii U](Wii U/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[3DS](3DS/index.html)</td><td>DIR</td></tr>
+<tr><td>[64](64/index.html)</td><td>DIR</td></tr>
+<tr><td>[64DD](64DD/index.html)</td><td>DIR</td></tr>
+<tr><td>[Books](Books/index.html)</td><td>DIR</td></tr>
+<tr><td>[Commercials](Commercials/index.html)</td><td>DIR</td></tr>
+<tr><td>[DS](DS/index.html)</td><td>DIR</td></tr>
+<tr><td>[Famicom & Entertainment System](Famicom & Entertainment System/index.html)</td><td>DIR</td></tr>
+<tr><td>[Famicom Disk System](Famicom Disk System/index.html)</td><td>DIR</td></tr>
+<tr><td>[Game Boy](Game Boy/index.html)</td><td>DIR</td></tr>
+<tr><td>[Game Boy Advance](Game Boy Advance/index.html)</td><td>DIR</td></tr>
+<tr><td>[GameCube](GameCube/index.html)</td><td>DIR</td></tr>
+<tr><td>[Magazines](Magazines/index.html)</td><td>DIR</td></tr>
+<tr><td>[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)</td><td>DIR</td></tr>
+<tr><td>[Switch](Switch/index.html)</td><td>DIR</td></tr>
+<tr><td>[Video](Video/index.html)</td><td>DIR</td></tr>
+<tr><td>[Virtual Boy](Virtual Boy/index.html)</td><td>DIR</td></tr>
+<tr><td>[Wii](Wii/index.html)</td><td>DIR</td></tr>
+<tr><td>[Wii U](Wii U/index.html)</td><td>DIR</td></tr>
+</table>

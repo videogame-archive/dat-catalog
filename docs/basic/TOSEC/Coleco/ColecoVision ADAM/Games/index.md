@@ -1,6 +1,9 @@
-[[BAS]]([BAS]/index.html)<br>
-[[COM]]([COM]/index.html)<br>
-[[DDP]]([DDP]/index.html)<br>
-[[DSK]]([DSK]/index.html)<br>
-[[IMG]]([IMG]/index.html)<br>
-[[LBR]]([LBR]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BAS]]([BAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[COM]]([COM]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DDP]]([DDP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DSK]]([DSK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[IMG]]([IMG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[LBR]]([LBR]/index.html)</td><td>DIR</td></tr>
+</table>

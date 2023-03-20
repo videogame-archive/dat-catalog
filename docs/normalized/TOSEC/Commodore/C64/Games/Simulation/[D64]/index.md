@@ -1,1 +1,4 @@
-[Commodore C64 - Games - Simulation - [D64]](Commodore C64 - Games - Simulation - [D64]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Commodore C64 - Games - Simulation - [D64]](Commodore C64 - Games - Simulation - [D64]/index.html)</td><td>DIR</td></tr>
+</table>

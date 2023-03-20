@@ -1,2 +1,5 @@
-[LeapPad](LeapPad/index.html)<br>
-[Leapster](Leapster/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[LeapPad](LeapPad/index.html)</td><td>DIR</td></tr>
+<tr><td>[Leapster](Leapster/index.html)</td><td>DIR</td></tr>
+</table>

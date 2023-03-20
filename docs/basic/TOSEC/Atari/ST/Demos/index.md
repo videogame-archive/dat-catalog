@@ -1,4 +1,7 @@
-[[PRG]]([PRG]/index.html)<br>
-[[ST]]([ST]/index.html)<br>
-[[STX]]([STX]/index.html)<br>
-[[TOS]]([TOS]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[PRG]]([PRG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[ST]]([ST]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[STX]]([STX]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TOS]]([TOS]/index.html)</td><td>DIR</td></tr>
+</table>

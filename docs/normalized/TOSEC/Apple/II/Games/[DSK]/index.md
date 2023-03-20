@@ -1,1 +1,4 @@
-[Apple II - Games - [DSK]](Apple II - Games - [DSK]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Apple II - Games - [DSK]](Apple II - Games - [DSK]/index.html)</td><td>DIR</td></tr>
+</table>

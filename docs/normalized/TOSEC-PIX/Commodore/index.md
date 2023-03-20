@@ -1,12 +1,15 @@
-[Amiga](Amiga/index.html)<br>
-[Amiga CD32](Amiga CD32/index.html)<br>
-[Amiga CDTV](Amiga CDTV/index.html)<br>
-[Books](Books/index.html)<br>
-[C128](C128/index.html)<br>
-[C16, C116 & Plus-4](C16, C116 & Plus-4/index.html)<br>
-[C64](C64/index.html)<br>
-[Commercials](Commercials/index.html)<br>
-[Magazines](Magazines/index.html)<br>
-[Newsletters](Newsletters/index.html)<br>
-[PET](PET/index.html)<br>
-[VIC20](VIC20/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Amiga](Amiga/index.html)</td><td>DIR</td></tr>
+<tr><td>[Amiga CD32](Amiga CD32/index.html)</td><td>DIR</td></tr>
+<tr><td>[Amiga CDTV](Amiga CDTV/index.html)</td><td>DIR</td></tr>
+<tr><td>[Books](Books/index.html)</td><td>DIR</td></tr>
+<tr><td>[C128](C128/index.html)</td><td>DIR</td></tr>
+<tr><td>[C16, C116 & Plus-4](C16, C116 & Plus-4/index.html)</td><td>DIR</td></tr>
+<tr><td>[C64](C64/index.html)</td><td>DIR</td></tr>
+<tr><td>[Commercials](Commercials/index.html)</td><td>DIR</td></tr>
+<tr><td>[Magazines](Magazines/index.html)</td><td>DIR</td></tr>
+<tr><td>[Newsletters](Newsletters/index.html)</td><td>DIR</td></tr>
+<tr><td>[PET](PET/index.html)</td><td>DIR</td></tr>
+<tr><td>[VIC20](VIC20/index.html)</td><td>DIR</td></tr>
+</table>

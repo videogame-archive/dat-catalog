@@ -1,18 +1,21 @@
-[Animations](Animations/index.html)<br>
-[Applications](Applications/index.html)<br>
-[Collections](Collections/index.html)<br>
-[Compilations](Compilations/index.html)<br>
-[Coverdisks](Coverdisks/index.html)<br>
-[Cracktros](Cracktros/index.html)<br>
-[Demos](Demos/index.html)<br>
-[Diskmags](Diskmags/index.html)<br>
-[Docs](Docs/index.html)<br>
-[Educational](Educational/index.html)<br>
-[Firmware](Firmware/index.html)<br>
-[Games](Games/index.html)<br>
-[GEOS](GEOS/index.html)<br>
-[Graphics](Graphics/index.html)<br>
-[Music](Music/index.html)<br>
-[Operating Systems](Operating Systems/index.html)<br>
-[Public Domain](Public Domain/index.html)<br>
-[Sources](Sources/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Animations](Animations/index.html)</td><td>DIR</td></tr>
+<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
+<tr><td>[Collections](Collections/index.html)</td><td>DIR</td></tr>
+<tr><td>[Compilations](Compilations/index.html)</td><td>DIR</td></tr>
+<tr><td>[Coverdisks](Coverdisks/index.html)</td><td>DIR</td></tr>
+<tr><td>[Cracktros](Cracktros/index.html)</td><td>DIR</td></tr>
+<tr><td>[Demos](Demos/index.html)</td><td>DIR</td></tr>
+<tr><td>[Diskmags](Diskmags/index.html)</td><td>DIR</td></tr>
+<tr><td>[Docs](Docs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Firmware](Firmware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[GEOS](GEOS/index.html)</td><td>DIR</td></tr>
+<tr><td>[Graphics](Graphics/index.html)</td><td>DIR</td></tr>
+<tr><td>[Music](Music/index.html)</td><td>DIR</td></tr>
+<tr><td>[Operating Systems](Operating Systems/index.html)</td><td>DIR</td></tr>
+<tr><td>[Public Domain](Public Domain/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sources](Sources/index.html)</td><td>DIR</td></tr>
+</table>

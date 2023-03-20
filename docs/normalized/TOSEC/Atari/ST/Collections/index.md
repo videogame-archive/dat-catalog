@@ -1,20 +1,23 @@
-[4U](4U/index.html)<br>
-[ACN](ACN/index.html)<br>
-[Atari Inside](Atari Inside/index.html)<br>
-[Atari Journal](Atari Journal/index.html)<br>
-[Atari Magazin](Atari Magazin/index.html)<br>
-[Bitz](Bitz/index.html)<br>
-[Budgie UK](Budgie UK/index.html)<br>
-[Cobra](Cobra/index.html)<br>
-[Delta Labs](Delta Labs/index.html)<br>
-[Diverse](Diverse/index.html)<br>
-[Falcon](Falcon/index.html)<br>
-[FaST Club](FaST Club/index.html)<br>
-[Floppyshop](Floppyshop/index.html)<br>
-[GFA Club](GFA Club/index.html)<br>
-[Heim Special Line](Heim Special Line/index.html)<br>
-[Kontrast](Kontrast/index.html)<br>
-[Poolware](Poolware/index.html)<br>
-[ST Computer](ST Computer/index.html)<br>
-[ST Vision](ST Vision/index.html)<br>
-[XEST](XEST/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[4U](4U/index.html)</td><td>DIR</td></tr>
+<tr><td>[ACN](ACN/index.html)</td><td>DIR</td></tr>
+<tr><td>[Atari Inside](Atari Inside/index.html)</td><td>DIR</td></tr>
+<tr><td>[Atari Journal](Atari Journal/index.html)</td><td>DIR</td></tr>
+<tr><td>[Atari Magazin](Atari Magazin/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bitz](Bitz/index.html)</td><td>DIR</td></tr>
+<tr><td>[Budgie UK](Budgie UK/index.html)</td><td>DIR</td></tr>
+<tr><td>[Cobra](Cobra/index.html)</td><td>DIR</td></tr>
+<tr><td>[Delta Labs](Delta Labs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Diverse](Diverse/index.html)</td><td>DIR</td></tr>
+<tr><td>[Falcon](Falcon/index.html)</td><td>DIR</td></tr>
+<tr><td>[FaST Club](FaST Club/index.html)</td><td>DIR</td></tr>
+<tr><td>[Floppyshop](Floppyshop/index.html)</td><td>DIR</td></tr>
+<tr><td>[GFA Club](GFA Club/index.html)</td><td>DIR</td></tr>
+<tr><td>[Heim Special Line](Heim Special Line/index.html)</td><td>DIR</td></tr>
+<tr><td>[Kontrast](Kontrast/index.html)</td><td>DIR</td></tr>
+<tr><td>[Poolware](Poolware/index.html)</td><td>DIR</td></tr>
+<tr><td>[ST Computer](ST Computer/index.html)</td><td>DIR</td></tr>
+<tr><td>[ST Vision](ST Vision/index.html)</td><td>DIR</td></tr>
+<tr><td>[XEST](XEST/index.html)</td><td>DIR</td></tr>
+</table>

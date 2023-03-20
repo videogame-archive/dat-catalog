@@ -1,3 +1,6 @@
-[[IPF]]([IPF]/index.html)<br>
-[[RAW]]([RAW]/index.html)<br>
-[[ST]]([ST]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[IPF]]([IPF]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[RAW]]([RAW]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[ST]]([ST]/index.html)</td><td>DIR</td></tr>
+</table>

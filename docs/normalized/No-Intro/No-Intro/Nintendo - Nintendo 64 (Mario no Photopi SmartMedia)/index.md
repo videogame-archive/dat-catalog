@@ -1,0 +1,4 @@
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Nintendo - Nintendo 64 (Mario no Photopi SmartMedia) (20210514-090046).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/Nintendo - Nintendo 64 (Mario no Photopi SmartMedia)/Nintendo - Nintendo 64 (Mario no Photopi SmartMedia) (20210514-090046).dat)</td><td>2849</td></tr>
+</table>

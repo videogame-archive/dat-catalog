@@ -1,2 +1,5 @@
-[[HEX]]([HEX]/index.html)<br>
-[[M65]]([M65]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[HEX]]([HEX]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[M65]]([M65]/index.html)</td><td>DIR</td></tr>
+</table>

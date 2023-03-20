@@ -1,2 +1,5 @@
-[[NES]]([NES]/index.html)<br>
-[[UNF]]([UNF]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[NES]]([NES]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[UNF]]([UNF]/index.html)</td><td>DIR</td></tr>
+</table>

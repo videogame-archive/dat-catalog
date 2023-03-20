@@ -1,7 +1,10 @@
-[[BAS]]([BAS]/index.html)<br>
-[[CAS]]([CAS]/index.html)<br>
-[[CPM]]([CPM]/index.html)<br>
-[[DSK]]([DSK]/index.html)<br>
-[[MAC]]([MAC]/index.html)<br>
-[[NAS]]([NAS]/index.html)<br>
-[[TAP]]([TAP]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BAS]]([BAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[CAS]]([CAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[CPM]]([CPM]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DSK]]([DSK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[MAC]]([MAC]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[NAS]]([NAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TAP]]([TAP]/index.html)</td><td>DIR</td></tr>
+</table>

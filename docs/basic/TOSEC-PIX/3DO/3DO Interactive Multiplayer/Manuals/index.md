@@ -1,7 +1,10 @@
-[Adult](Adult/index.html)<br>
-[Applications](Applications/index.html)<br>
-[Educational](Educational/index.html)<br>
-[Games](Games/index.html)<br>
-[Hardware](Hardware/index.html)<br>
-[Multimedia](Multimedia/index.html)<br>
-[Samplers](Samplers/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Adult](Adult/index.html)</td><td>DIR</td></tr>
+<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hardware](Hardware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Multimedia](Multimedia/index.html)</td><td>DIR</td></tr>
+<tr><td>[Samplers](Samplers/index.html)</td><td>DIR</td></tr>
+</table>

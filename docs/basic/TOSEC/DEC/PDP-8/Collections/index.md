@@ -1,4 +1,7 @@
-[DEC](DEC/index.html)<br>
-[DECUS](DECUS/index.html)<br>
-[Digital](Digital/index.html)<br>
-[MainDEC](MainDEC/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[DEC](DEC/index.html)</td><td>DIR</td></tr>
+<tr><td>[DECUS](DECUS/index.html)</td><td>DIR</td></tr>
+<tr><td>[Digital](Digital/index.html)</td><td>DIR</td></tr>
+<tr><td>[MainDEC](MainDEC/index.html)</td><td>DIR</td></tr>
+</table>

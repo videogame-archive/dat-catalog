@@ -1,5 +1,8 @@
-[[ADL]]([ADL]/index.html)<br>
-[[BIN]]([BIN]/index.html)<br>
-[[DSD]]([DSD]/index.html)<br>
-[[SSD]]([SSD]/index.html)<br>
-[[UEF]]([UEF]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[ADL]]([ADL]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DSD]]([DSD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SSD]]([SSD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[UEF]]([UEF]/index.html)</td><td>DIR</td></tr>
+</table>

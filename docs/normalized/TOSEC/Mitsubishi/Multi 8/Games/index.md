@@ -1,3 +1,6 @@
-[[CAS]]([CAS]/index.html)<br>
-[[CMT]]([CMT]/index.html)<br>
-[[WAV]]([WAV]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[CAS]]([CAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[CMT]]([CMT]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[WAV]]([WAV]/index.html)</td><td>DIR</td></tr>
+</table>

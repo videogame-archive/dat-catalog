@@ -1,1 +1,4 @@
-[Atari - Magazines - Winning at Videogames](Atari - Magazines - Winning at Videogames/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Atari - Magazines - Winning at Videogames](Atari - Magazines - Winning at Videogames/index.html)</td><td>DIR</td></tr>
+</table>

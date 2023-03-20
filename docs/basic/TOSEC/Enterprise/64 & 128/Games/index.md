@@ -1,7 +1,10 @@
-[[APP]]([APP]/index.html)<br>
-[[BAS]]([BAS]/index.html)<br>
-[[COM]]([COM]/index.html)<br>
-[[DTF]]([DTF]/index.html)<br>
-[[IMG]]([IMG]/index.html)<br>
-[[Multipart]]([Multipart]/index.html)<br>
-[[TAP]]([TAP]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[APP]]([APP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[BAS]]([BAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[COM]]([COM]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DTF]]([DTF]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[IMG]]([IMG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[Multipart]]([Multipart]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TAP]]([TAP]/index.html)</td><td>DIR</td></tr>
+</table>

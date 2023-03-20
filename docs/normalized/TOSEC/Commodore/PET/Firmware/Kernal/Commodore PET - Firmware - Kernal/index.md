@@ -1,0 +1,4 @@
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Commodore PET - Firmware - Kernal (TOSEC-v2019-01-20_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/PET/Firmware/Kernal/Commodore PET - Firmware - Kernal/Commodore PET - Firmware - Kernal (TOSEC-v2019-01-20_CM).dat)</td><td>56763</td></tr>
+</table>

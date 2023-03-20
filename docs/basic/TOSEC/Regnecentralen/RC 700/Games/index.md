@@ -1,2 +1,5 @@
-[[COM]]([COM]/index.html)<br>
-[[IMD]]([IMD]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[COM]]([COM]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[IMD]]([IMD]/index.html)</td><td>DIR</td></tr>
+</table>

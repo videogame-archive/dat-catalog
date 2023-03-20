@@ -1,5 +1,8 @@
-[Collections](Collections/index.html)<br>
-[Compilations](Compilations/index.html)<br>
-[System](System/index.html)<br>
-[Utilities](Utilities/index.html)<br>
-[Various](Various/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Collections](Collections/index.html)</td><td>DIR</td></tr>
+<tr><td>[Compilations](Compilations/index.html)</td><td>DIR</td></tr>
+<tr><td>[System](System/index.html)</td><td>DIR</td></tr>
+<tr><td>[Utilities](Utilities/index.html)</td><td>DIR</td></tr>
+<tr><td>[Various](Various/index.html)</td><td>DIR</td></tr>
+</table>

@@ -1,2 +1,5 @@
-[[2D]]([2D]/index.html)<br>
-[[D88]]([D88]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[2D]]([2D]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[D88]]([D88]/index.html)</td><td>DIR</td></tr>
+</table>

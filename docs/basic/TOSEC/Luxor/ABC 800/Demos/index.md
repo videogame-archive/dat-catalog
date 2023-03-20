@@ -1,2 +1,5 @@
-[[BAS]]([BAS]/index.html)<br>
-[[TD0]]([TD0]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BAS]]([BAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TD0]]([TD0]/index.html)</td><td>DIR</td></tr>
+</table>

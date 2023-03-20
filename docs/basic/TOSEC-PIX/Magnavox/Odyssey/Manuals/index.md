@@ -1,2 +1,5 @@
-[Hardware](Hardware/index.html)<br>
-[Software](Software/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Hardware](Hardware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Software](Software/index.html)</td><td>DIR</td></tr>
+</table>

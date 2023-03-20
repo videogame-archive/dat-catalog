@@ -1,2 +1,5 @@
-[[BIN]]([BIN]/index.html)<br>
-[[PTP]]([PTP]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PTP]]([PTP]/index.html)</td><td>DIR</td></tr>
+</table>

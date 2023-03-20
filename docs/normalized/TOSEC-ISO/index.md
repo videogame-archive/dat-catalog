@@ -1,26 +1,29 @@
-[3DO](3DO/index.html)<br>
-[Acorn](Acorn/index.html)<br>
-[American Laser Games](American Laser Games/index.html)<br>
-[Apple](Apple/index.html)<br>
-[Atari](Atari/index.html)<br>
-[Bandai](Bandai/index.html)<br>
-[Capcom](Capcom/index.html)<br>
-[Commodore](Commodore/index.html)<br>
-[Fujitsu](Fujitsu/index.html)<br>
-[IBM](IBM/index.html)<br>
-[Incredible Technologies](Incredible Technologies/index.html)<br>
-[Konami](Konami/index.html)<br>
-[Mattel](Mattel/index.html)<br>
-[Memorex](Memorex/index.html)<br>
-[Namco-Sega-Nintendo](Namco-Sega-Nintendo/index.html)<br>
-[NEC](NEC/index.html)<br>
-[Nintendo](Nintendo/index.html)<br>
-[Philips](Philips/index.html)<br>
-[Sega](Sega/index.html)<br>
-[Sinclair](Sinclair/index.html)<br>
-[SNK](SNK/index.html)<br>
-[Sony](Sony/index.html)<br>
-[Tomy](Tomy/index.html)<br>
-[VM Labs](VM Labs/index.html)<br>
-[VTech](VTech/index.html)<br>
-[ZAPiT Games](ZAPiT Games/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[3DO](3DO/index.html)</td><td>DIR</td></tr>
+<tr><td>[Acorn](Acorn/index.html)</td><td>DIR</td></tr>
+<tr><td>[American Laser Games](American Laser Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Apple](Apple/index.html)</td><td>DIR</td></tr>
+<tr><td>[Atari](Atari/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bandai](Bandai/index.html)</td><td>DIR</td></tr>
+<tr><td>[Capcom](Capcom/index.html)</td><td>DIR</td></tr>
+<tr><td>[Commodore](Commodore/index.html)</td><td>DIR</td></tr>
+<tr><td>[Fujitsu](Fujitsu/index.html)</td><td>DIR</td></tr>
+<tr><td>[IBM](IBM/index.html)</td><td>DIR</td></tr>
+<tr><td>[Incredible Technologies](Incredible Technologies/index.html)</td><td>DIR</td></tr>
+<tr><td>[Konami](Konami/index.html)</td><td>DIR</td></tr>
+<tr><td>[Mattel](Mattel/index.html)</td><td>DIR</td></tr>
+<tr><td>[Memorex](Memorex/index.html)</td><td>DIR</td></tr>
+<tr><td>[Namco-Sega-Nintendo](Namco-Sega-Nintendo/index.html)</td><td>DIR</td></tr>
+<tr><td>[NEC](NEC/index.html)</td><td>DIR</td></tr>
+<tr><td>[Nintendo](Nintendo/index.html)</td><td>DIR</td></tr>
+<tr><td>[Philips](Philips/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sega](Sega/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sinclair](Sinclair/index.html)</td><td>DIR</td></tr>
+<tr><td>[SNK](SNK/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sony](Sony/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tomy](Tomy/index.html)</td><td>DIR</td></tr>
+<tr><td>[VM Labs](VM Labs/index.html)</td><td>DIR</td></tr>
+<tr><td>[VTech](VTech/index.html)</td><td>DIR</td></tr>
+<tr><td>[ZAPiT Games](ZAPiT Games/index.html)</td><td>DIR</td></tr>
+</table>

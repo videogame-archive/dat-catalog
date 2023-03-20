@@ -1,3 +1,6 @@
-[[BIN]]([BIN]/index.html)<br>
-[[PRG]]([PRG]/index.html)<br>
-[[WAV]]([WAV]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PRG]]([PRG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[WAV]]([WAV]/index.html)</td><td>DIR</td></tr>
+</table>

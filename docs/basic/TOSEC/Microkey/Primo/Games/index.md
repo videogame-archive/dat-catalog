@@ -1,7 +1,10 @@
-[[Multipart]]([Multipart]/index.html)<br>
-[[PP]]([PP]/index.html)<br>
-[[PRI]]([PRI]/index.html)<br>
-[[PSS]]([PSS]/index.html)<br>
-[[PTP]]([PTP]/index.html)<br>
-[[TXT]]([TXT]/index.html)<br>
-[[WAV]]([WAV]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[Multipart]]([Multipart]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PP]]([PP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PRI]]([PRI]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PSS]]([PSS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PTP]]([PTP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TXT]]([TXT]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[WAV]]([WAV]/index.html)</td><td>DIR</td></tr>
+</table>

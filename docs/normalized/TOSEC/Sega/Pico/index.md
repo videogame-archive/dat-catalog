@@ -1,2 +1,5 @@
-[Educational](Educational/index.html)<br>
-[Samplers](Samplers/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Samplers](Samplers/index.html)</td><td>DIR</td></tr>
+</table>

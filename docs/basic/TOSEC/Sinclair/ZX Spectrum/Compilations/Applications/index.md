@@ -1,7 +1,10 @@
-[[D40]]([D40]/index.html)<br>
-[[DSK]]([DSK]/index.html)<br>
-[[FDI]]([FDI]/index.html)<br>
-[[SCL]]([SCL]/index.html)<br>
-[[TAP]]([TAP]/index.html)<br>
-[[TRD]]([TRD]/index.html)<br>
-[[TZX]]([TZX]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[D40]]([D40]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DSK]]([DSK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[FDI]]([FDI]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SCL]]([SCL]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TAP]]([TAP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TRD]]([TRD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TZX]]([TZX]/index.html)</td><td>DIR</td></tr>
+</table>

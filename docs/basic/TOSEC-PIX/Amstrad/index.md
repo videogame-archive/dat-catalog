@@ -1,6 +1,9 @@
-[Books](Books/index.html)<br>
-[CPC](CPC/index.html)<br>
-[GX4000](GX4000/index.html)<br>
-[Magazines](Magazines/index.html)<br>
-[Manuals](Manuals/index.html)<br>
-[PCW](PCW/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Books](Books/index.html)</td><td>DIR</td></tr>
+<tr><td>[CPC](CPC/index.html)</td><td>DIR</td></tr>
+<tr><td>[GX4000](GX4000/index.html)</td><td>DIR</td></tr>
+<tr><td>[Magazines](Magazines/index.html)</td><td>DIR</td></tr>
+<tr><td>[Manuals](Manuals/index.html)</td><td>DIR</td></tr>
+<tr><td>[PCW](PCW/index.html)</td><td>DIR</td></tr>
+</table>

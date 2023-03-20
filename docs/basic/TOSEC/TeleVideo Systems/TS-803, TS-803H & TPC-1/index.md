@@ -1,4 +1,7 @@
-[Fonts](Fonts/index.html)<br>
-[Sources](Sources/index.html)<br>
-[System](System/index.html)<br>
-[Utilities](Utilities/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Fonts](Fonts/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sources](Sources/index.html)</td><td>DIR</td></tr>
+<tr><td>[System](System/index.html)</td><td>DIR</td></tr>
+<tr><td>[Utilities](Utilities/index.html)</td><td>DIR</td></tr>
+</table>

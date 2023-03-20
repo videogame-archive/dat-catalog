@@ -1,5 +1,8 @@
-[[CSW]]([CSW]/index.html)<br>
-[[DSK]]([DSK]/index.html)<br>
-[[TAP]]([TAP]/index.html)<br>
-[[UEF]]([UEF]/index.html)<br>
-[[WAV]]([WAV]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[CSW]]([CSW]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DSK]]([DSK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TAP]]([TAP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[UEF]]([UEF]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[WAV]]([WAV]/index.html)</td><td>DIR</td></tr>
+</table>

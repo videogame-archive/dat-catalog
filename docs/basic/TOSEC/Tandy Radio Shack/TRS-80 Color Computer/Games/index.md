@@ -1,6 +1,9 @@
-[[BIN]]([BIN]/index.html)<br>
-[[CAS]]([CAS]/index.html)<br>
-[[CMD]]([CMD]/index.html)<br>
-[[DSK]]([DSK]/index.html)<br>
-[[ROM]]([ROM]/index.html)<br>
-[[WAV]]([WAV]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[CAS]]([CAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[CMD]]([CMD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DSK]]([DSK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[ROM]]([ROM]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[WAV]]([WAV]/index.html)</td><td>DIR</td></tr>
+</table>

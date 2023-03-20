@@ -1,186 +1,189 @@
-[8-Bit Productions](8-Bit Productions/index.html)<br>
-[Acorn](Acorn/index.html)<br>
-[ACT](ACT/index.html)<br>
-[Advanced Computer Design](Advanced Computer Design/index.html)<br>
-[AEG](AEG/index.html)<br>
-[AlphaSmart](AlphaSmart/index.html)<br>
-[Alspa Computers](Alspa Computers/index.html)<br>
-[Altos Computer Systems](Altos Computer Systems/index.html)<br>
-[AMPRO Computers](AMPRO Computers/index.html)<br>
-[Amstrad](Amstrad/index.html)<br>
-[Analogue](Analogue/index.html)<br>
-[APF](APF/index.html)<br>
-[Apple](Apple/index.html)<br>
-[Applied Technology](Applied Technology/index.html)<br>
-[Aquaplus](Aquaplus/index.html)<br>
-[AT&T](AT&T/index.html)<br>
-[Atari](Atari/index.html)<br>
-[Bally](Bally/index.html)<br>
-[Bandai](Bandai/index.html)<br>
-[Benesse](Benesse/index.html)<br>
-[Bernd Huebler](Bernd Huebler/index.html)<br>
-[Bernd Huebler & Klaus-Peter Evert](Bernd Huebler & Klaus-Peter Evert/index.html)<br>
-[BGR Computers](BGR Computers/index.html)<br>
-[Bit Corporation](Bit Corporation/index.html)<br>
-[Bondwell](Bondwell/index.html)<br>
-[Burroughs](Burroughs/index.html)<br>
-[Cambridge Computer](Cambridge Computer/index.html)<br>
-[Camputers](Camputers/index.html)<br>
-[Casio](Casio/index.html)<br>
-[CCE](CCE/index.html)<br>
-[Coleco](Coleco/index.html)<br>
-[Commodore](Commodore/index.html)<br>
-[Compugraphic](Compugraphic/index.html)<br>
-[COMX](COMX/index.html)<br>
-[Control Data Corporation](Control Data Corporation/index.html)<br>
-[Convergent Technologies](Convergent Technologies/index.html)<br>
-[Creatronic](Creatronic/index.html)<br>
-[Cybiko](Cybiko/index.html)<br>
-[Data Applications International](Data Applications International/index.html)<br>
-[DEC](DEC/index.html)<br>
-[Dick Smith](Dick Smith/index.html)<br>
-[Didact](Didact/index.html)<br>
-[Digital Electronics](Digital Electronics/index.html)<br>
-[Dragon Data](Dragon Data/index.html)<br>
-[Dynabyte](Dynabyte/index.html)<br>
-[EACA](EACA/index.html)<br>
-[Electronics Australia](Electronics Australia/index.html)<br>
-[Elektronika](Elektronika/index.html)<br>
-[Elektronska Industrija Nis](Elektronska Industrija Nis/index.html)<br>
-[Emerson](Emerson/index.html)<br>
-[Enterprise](Enterprise/index.html)<br>
-[Entex](Entex/index.html)<br>
-[Epoch](Epoch/index.html)<br>
-[Epson](Epson/index.html)<br>
-[Ericsson](Ericsson/index.html)<br>
-[ETL](ETL/index.html)<br>
-[Exelvision](Exelvision/index.html)<br>
-[Exidy](Exidy/index.html)<br>
-[Fairchild](Fairchild/index.html)<br>
-[Fairlight](Fairlight/index.html)<br>
-[Ferguson](Ferguson/index.html)<br>
-[Fidelity](Fidelity/index.html)<br>
-[Flexible Systems](Flexible Systems/index.html)<br>
-[Front Fareast](Front Fareast/index.html)<br>
-[Fuji Photo Film](Fuji Photo Film/index.html)<br>
-[Fujitsu](Fujitsu/index.html)<br>
-[Fukutake Publishing](Fukutake Publishing/index.html)<br>
-[Funtech](Funtech/index.html)<br>
-[Galaksija](Galaksija/index.html)<br>
-[Game Park](Game Park/index.html)<br>
-[GCE](GCE/index.html)<br>
-[Gould](Gould/index.html)<br>
-[Grundy](Grundy/index.html)<br>
-[Hanimex](Hanimex/index.html)<br>
-[Hartung](Hartung/index.html)<br>
-[Hawthorne Technology](Hawthorne Technology/index.html)<br>
-[Hewlett-Packard](Hewlett-Packard/index.html)<br>
-[Hitachi](Hitachi/index.html)<br>
-[HomeLab](HomeLab/index.html)<br>
-[IBM](IBM/index.html)<br>
-[IMLAC Corporation](IMLAC Corporation/index.html)<br>
-[Infocom](Infocom/index.html)<br>
-[Intec](Intec/index.html)<br>
-[Interact](Interact/index.html)<br>
-[Jupiter Cantab](Jupiter Cantab/index.html)<br>
-[Kaypro](Kaypro/index.html)<br>
-[Keio University](Keio University/index.html)<br>
-[Lambda Electronics](Lambda Electronics/index.html)<br>
-[LeapFrog](LeapFrog/index.html)<br>
-[Librascope](Librascope/index.html)<br>
-[Luxor](Luxor/index.html)<br>
-[Magnavox](Magnavox/index.html)<br>
-[Manfred Kramer](Manfred Kramer/index.html)<br>
-[Matra Hachette](Matra Hachette/index.html)<br>
-[Matsushita](Matsushita/index.html)<br>
-[Mattel](Mattel/index.html)<br>
-[MEGA](MEGA/index.html)<br>
-[Megatel](Megatel/index.html)<br>
-[Memotech](Memotech/index.html)<br>
-[MGT](MGT/index.html)<br>
-[Michael J. Bauer](Michael J. Bauer/index.html)<br>
-[Micro Craft](Micro Craft/index.html)<br>
-[Microkey](Microkey/index.html)<br>
-[MITS](MITS/index.html)<br>
-[Mitsubishi](Mitsubishi/index.html)<br>
-[Motorola](Motorola/index.html)<br>
-[Mr. Isizu](Mr. Isizu/index.html)<br>
-[MSX](MSX/index.html)<br>
-[Multi-format](Multi-format/index.html)<br>
-[Nascom](Nascom/index.html)<br>
-[NCR](NCR/index.html)<br>
-[NEC](NEC/index.html)<br>
-[Nichibutsu](Nichibutsu/index.html)<br>
-[Nintendo](Nintendo/index.html)<br>
-[NorthStar](NorthStar/index.html)<br>
-[Nuclear Data](Nuclear Data/index.html)<br>
-[OCC](OCC/index.html)<br>
-[Oh! MZ](Oh! MZ/index.html)<br>
-[Ohio Scientific](Ohio Scientific/index.html)<br>
-[Olivetti](Olivetti/index.html)<br>
-[OpenPandora](OpenPandora/index.html)<br>
-[Otrona](Otrona/index.html)<br>
-[Panic](Panic/index.html)<br>
-[Patisonic](Patisonic/index.html)<br>
-[PEL Varazdin](PEL Varazdin/index.html)<br>
-[Peters Plus](Peters Plus/index.html)<br>
-[Philips](Philips/index.html)<br>
-[Pioneer](Pioneer/index.html)<br>
-[Pravetz](Pravetz/index.html)<br>
-[PTC](PTC/index.html)<br>
-[Radica](Radica/index.html)<br>
-[Radio-86RK](Radio-86RK/index.html)<br>
-[Raytheon](Raytheon/index.html)<br>
-[RCA](RCA/index.html)<br>
-[Regnecentralen](Regnecentralen/index.html)<br>
-[Retroleum](Retroleum/index.html)<br>
-[RM](RM/index.html)<br>
-[Robotron](Robotron/index.html)<br>
-[Rockwell](Rockwell/index.html)<br>
-[Roland](Roland/index.html)<br>
-[SABA](SABA/index.html)<br>
-[Samsung](Samsung/index.html)<br>
-[Sanyo](Sanyo/index.html)<br>
-[Sega](Sega/index.html)<br>
-[Sharp](Sharp/index.html)<br>
-[Sinclair](Sinclair/index.html)<br>
-[SME Systems](SME Systems/index.html)<br>
-[SNK](SNK/index.html)<br>
-[Sony](Sony/index.html)<br>
-[Sord](Sord/index.html)<br>
-[Spectravideo](Spectravideo/index.html)<br>
-[Tandy Radio Shack](Tandy Radio Shack/index.html)<br>
-[Tangerine](Tangerine/index.html)<br>
-[Tatung](Tatung/index.html)<br>
-[Technosys](Technosys/index.html)<br>
-[Tektronix](Tektronix/index.html)<br>
-[Telcon](Telcon/index.html)<br>
-[TeleNova](TeleNova/index.html)<br>
-[TeleVideo Systems](TeleVideo Systems/index.html)<br>
-[Telmac](Telmac/index.html)<br>
-[Terak](Terak/index.html)<br>
-[Tesla](Tesla/index.html)<br>
-[Texas Instruments](Texas Instruments/index.html)<br>
-[Thomson](Thomson/index.html)<br>
-[Tiger Electronics](Tiger Electronics/index.html)<br>
-[Tiki Data](Tiki Data/index.html)<br>
-[TimeTop](TimeTop/index.html)<br>
-[Timex Sinclair](Timex Sinclair/index.html)<br>
-[Tomy](Tomy/index.html)<br>
-[Toshiba](Toshiba/index.html)<br>
-[Triumph-Adler](Triumph-Adler/index.html)<br>
-[TRQ](TRQ/index.html)<br>
-[Tsukuda Original](Tsukuda Original/index.html)<br>
-[UNIVAC](UNIVAC/index.html)<br>
-[University of Cambridge](University of Cambridge/index.html)<br>
-[University of Tokyo](University of Tokyo/index.html)<br>
-[USSR](USSR/index.html)<br>
-[VEB Mikroelektronik Erfurt](VEB Mikroelektronik Erfurt/index.html)<br>
-[Videoton](Videoton/index.html)<br>
-[Visual Technology](Visual Technology/index.html)<br>
-[VTech](VTech/index.html)<br>
-[Wang](Wang/index.html)<br>
-[Watara](Watara/index.html)<br>
-[Xerox](Xerox/index.html)<br>
-[Yamaha](Yamaha/index.html)<br>
-[Zilog](Zilog/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[8-Bit Productions](8-Bit Productions/index.html)</td><td>DIR</td></tr>
+<tr><td>[Acorn](Acorn/index.html)</td><td>DIR</td></tr>
+<tr><td>[ACT](ACT/index.html)</td><td>DIR</td></tr>
+<tr><td>[Advanced Computer Design](Advanced Computer Design/index.html)</td><td>DIR</td></tr>
+<tr><td>[AEG](AEG/index.html)</td><td>DIR</td></tr>
+<tr><td>[AlphaSmart](AlphaSmart/index.html)</td><td>DIR</td></tr>
+<tr><td>[Alspa Computers](Alspa Computers/index.html)</td><td>DIR</td></tr>
+<tr><td>[Altos Computer Systems](Altos Computer Systems/index.html)</td><td>DIR</td></tr>
+<tr><td>[AMPRO Computers](AMPRO Computers/index.html)</td><td>DIR</td></tr>
+<tr><td>[Amstrad](Amstrad/index.html)</td><td>DIR</td></tr>
+<tr><td>[Analogue](Analogue/index.html)</td><td>DIR</td></tr>
+<tr><td>[APF](APF/index.html)</td><td>DIR</td></tr>
+<tr><td>[Apple](Apple/index.html)</td><td>DIR</td></tr>
+<tr><td>[Applied Technology](Applied Technology/index.html)</td><td>DIR</td></tr>
+<tr><td>[Aquaplus](Aquaplus/index.html)</td><td>DIR</td></tr>
+<tr><td>[AT&T](AT&T/index.html)</td><td>DIR</td></tr>
+<tr><td>[Atari](Atari/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bally](Bally/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bandai](Bandai/index.html)</td><td>DIR</td></tr>
+<tr><td>[Benesse](Benesse/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bernd Huebler](Bernd Huebler/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bernd Huebler & Klaus-Peter Evert](Bernd Huebler & Klaus-Peter Evert/index.html)</td><td>DIR</td></tr>
+<tr><td>[BGR Computers](BGR Computers/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bit Corporation](Bit Corporation/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bondwell](Bondwell/index.html)</td><td>DIR</td></tr>
+<tr><td>[Burroughs](Burroughs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Cambridge Computer](Cambridge Computer/index.html)</td><td>DIR</td></tr>
+<tr><td>[Camputers](Camputers/index.html)</td><td>DIR</td></tr>
+<tr><td>[Casio](Casio/index.html)</td><td>DIR</td></tr>
+<tr><td>[CCE](CCE/index.html)</td><td>DIR</td></tr>
+<tr><td>[Coleco](Coleco/index.html)</td><td>DIR</td></tr>
+<tr><td>[Commodore](Commodore/index.html)</td><td>DIR</td></tr>
+<tr><td>[Compugraphic](Compugraphic/index.html)</td><td>DIR</td></tr>
+<tr><td>[COMX](COMX/index.html)</td><td>DIR</td></tr>
+<tr><td>[Control Data Corporation](Control Data Corporation/index.html)</td><td>DIR</td></tr>
+<tr><td>[Convergent Technologies](Convergent Technologies/index.html)</td><td>DIR</td></tr>
+<tr><td>[Creatronic](Creatronic/index.html)</td><td>DIR</td></tr>
+<tr><td>[Cybiko](Cybiko/index.html)</td><td>DIR</td></tr>
+<tr><td>[Data Applications International](Data Applications International/index.html)</td><td>DIR</td></tr>
+<tr><td>[DEC](DEC/index.html)</td><td>DIR</td></tr>
+<tr><td>[Dick Smith](Dick Smith/index.html)</td><td>DIR</td></tr>
+<tr><td>[Didact](Didact/index.html)</td><td>DIR</td></tr>
+<tr><td>[Digital Electronics](Digital Electronics/index.html)</td><td>DIR</td></tr>
+<tr><td>[Dragon Data](Dragon Data/index.html)</td><td>DIR</td></tr>
+<tr><td>[Dynabyte](Dynabyte/index.html)</td><td>DIR</td></tr>
+<tr><td>[EACA](EACA/index.html)</td><td>DIR</td></tr>
+<tr><td>[Electronics Australia](Electronics Australia/index.html)</td><td>DIR</td></tr>
+<tr><td>[Elektronika](Elektronika/index.html)</td><td>DIR</td></tr>
+<tr><td>[Elektronska Industrija Nis](Elektronska Industrija Nis/index.html)</td><td>DIR</td></tr>
+<tr><td>[Emerson](Emerson/index.html)</td><td>DIR</td></tr>
+<tr><td>[Enterprise](Enterprise/index.html)</td><td>DIR</td></tr>
+<tr><td>[Entex](Entex/index.html)</td><td>DIR</td></tr>
+<tr><td>[Epoch](Epoch/index.html)</td><td>DIR</td></tr>
+<tr><td>[Epson](Epson/index.html)</td><td>DIR</td></tr>
+<tr><td>[Ericsson](Ericsson/index.html)</td><td>DIR</td></tr>
+<tr><td>[ETL](ETL/index.html)</td><td>DIR</td></tr>
+<tr><td>[Exelvision](Exelvision/index.html)</td><td>DIR</td></tr>
+<tr><td>[Exidy](Exidy/index.html)</td><td>DIR</td></tr>
+<tr><td>[Fairchild](Fairchild/index.html)</td><td>DIR</td></tr>
+<tr><td>[Fairlight](Fairlight/index.html)</td><td>DIR</td></tr>
+<tr><td>[Ferguson](Ferguson/index.html)</td><td>DIR</td></tr>
+<tr><td>[Fidelity](Fidelity/index.html)</td><td>DIR</td></tr>
+<tr><td>[Flexible Systems](Flexible Systems/index.html)</td><td>DIR</td></tr>
+<tr><td>[Front Fareast](Front Fareast/index.html)</td><td>DIR</td></tr>
+<tr><td>[Fuji Photo Film](Fuji Photo Film/index.html)</td><td>DIR</td></tr>
+<tr><td>[Fujitsu](Fujitsu/index.html)</td><td>DIR</td></tr>
+<tr><td>[Fukutake Publishing](Fukutake Publishing/index.html)</td><td>DIR</td></tr>
+<tr><td>[Funtech](Funtech/index.html)</td><td>DIR</td></tr>
+<tr><td>[Galaksija](Galaksija/index.html)</td><td>DIR</td></tr>
+<tr><td>[Game Park](Game Park/index.html)</td><td>DIR</td></tr>
+<tr><td>[GCE](GCE/index.html)</td><td>DIR</td></tr>
+<tr><td>[Gould](Gould/index.html)</td><td>DIR</td></tr>
+<tr><td>[Grundy](Grundy/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hanimex](Hanimex/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hartung](Hartung/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hawthorne Technology](Hawthorne Technology/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hewlett-Packard](Hewlett-Packard/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hitachi](Hitachi/index.html)</td><td>DIR</td></tr>
+<tr><td>[HomeLab](HomeLab/index.html)</td><td>DIR</td></tr>
+<tr><td>[IBM](IBM/index.html)</td><td>DIR</td></tr>
+<tr><td>[IMLAC Corporation](IMLAC Corporation/index.html)</td><td>DIR</td></tr>
+<tr><td>[Infocom](Infocom/index.html)</td><td>DIR</td></tr>
+<tr><td>[Intec](Intec/index.html)</td><td>DIR</td></tr>
+<tr><td>[Interact](Interact/index.html)</td><td>DIR</td></tr>
+<tr><td>[Jupiter Cantab](Jupiter Cantab/index.html)</td><td>DIR</td></tr>
+<tr><td>[Kaypro](Kaypro/index.html)</td><td>DIR</td></tr>
+<tr><td>[Keio University](Keio University/index.html)</td><td>DIR</td></tr>
+<tr><td>[Lambda Electronics](Lambda Electronics/index.html)</td><td>DIR</td></tr>
+<tr><td>[LeapFrog](LeapFrog/index.html)</td><td>DIR</td></tr>
+<tr><td>[Librascope](Librascope/index.html)</td><td>DIR</td></tr>
+<tr><td>[Luxor](Luxor/index.html)</td><td>DIR</td></tr>
+<tr><td>[Magnavox](Magnavox/index.html)</td><td>DIR</td></tr>
+<tr><td>[Manfred Kramer](Manfred Kramer/index.html)</td><td>DIR</td></tr>
+<tr><td>[Matra Hachette](Matra Hachette/index.html)</td><td>DIR</td></tr>
+<tr><td>[Matsushita](Matsushita/index.html)</td><td>DIR</td></tr>
+<tr><td>[Mattel](Mattel/index.html)</td><td>DIR</td></tr>
+<tr><td>[MEGA](MEGA/index.html)</td><td>DIR</td></tr>
+<tr><td>[Megatel](Megatel/index.html)</td><td>DIR</td></tr>
+<tr><td>[Memotech](Memotech/index.html)</td><td>DIR</td></tr>
+<tr><td>[MGT](MGT/index.html)</td><td>DIR</td></tr>
+<tr><td>[Michael J. Bauer](Michael J. Bauer/index.html)</td><td>DIR</td></tr>
+<tr><td>[Micro Craft](Micro Craft/index.html)</td><td>DIR</td></tr>
+<tr><td>[Microkey](Microkey/index.html)</td><td>DIR</td></tr>
+<tr><td>[MITS](MITS/index.html)</td><td>DIR</td></tr>
+<tr><td>[Mitsubishi](Mitsubishi/index.html)</td><td>DIR</td></tr>
+<tr><td>[Motorola](Motorola/index.html)</td><td>DIR</td></tr>
+<tr><td>[Mr. Isizu](Mr. Isizu/index.html)</td><td>DIR</td></tr>
+<tr><td>[MSX](MSX/index.html)</td><td>DIR</td></tr>
+<tr><td>[Multi-format](Multi-format/index.html)</td><td>DIR</td></tr>
+<tr><td>[Nascom](Nascom/index.html)</td><td>DIR</td></tr>
+<tr><td>[NCR](NCR/index.html)</td><td>DIR</td></tr>
+<tr><td>[NEC](NEC/index.html)</td><td>DIR</td></tr>
+<tr><td>[Nichibutsu](Nichibutsu/index.html)</td><td>DIR</td></tr>
+<tr><td>[Nintendo](Nintendo/index.html)</td><td>DIR</td></tr>
+<tr><td>[NorthStar](NorthStar/index.html)</td><td>DIR</td></tr>
+<tr><td>[Nuclear Data](Nuclear Data/index.html)</td><td>DIR</td></tr>
+<tr><td>[OCC](OCC/index.html)</td><td>DIR</td></tr>
+<tr><td>[Oh! MZ](Oh! MZ/index.html)</td><td>DIR</td></tr>
+<tr><td>[Ohio Scientific](Ohio Scientific/index.html)</td><td>DIR</td></tr>
+<tr><td>[Olivetti](Olivetti/index.html)</td><td>DIR</td></tr>
+<tr><td>[OpenPandora](OpenPandora/index.html)</td><td>DIR</td></tr>
+<tr><td>[Otrona](Otrona/index.html)</td><td>DIR</td></tr>
+<tr><td>[Panic](Panic/index.html)</td><td>DIR</td></tr>
+<tr><td>[Patisonic](Patisonic/index.html)</td><td>DIR</td></tr>
+<tr><td>[PEL Varazdin](PEL Varazdin/index.html)</td><td>DIR</td></tr>
+<tr><td>[Peters Plus](Peters Plus/index.html)</td><td>DIR</td></tr>
+<tr><td>[Philips](Philips/index.html)</td><td>DIR</td></tr>
+<tr><td>[Pioneer](Pioneer/index.html)</td><td>DIR</td></tr>
+<tr><td>[Pravetz](Pravetz/index.html)</td><td>DIR</td></tr>
+<tr><td>[PTC](PTC/index.html)</td><td>DIR</td></tr>
+<tr><td>[Radica](Radica/index.html)</td><td>DIR</td></tr>
+<tr><td>[Radio-86RK](Radio-86RK/index.html)</td><td>DIR</td></tr>
+<tr><td>[Raytheon](Raytheon/index.html)</td><td>DIR</td></tr>
+<tr><td>[RCA](RCA/index.html)</td><td>DIR</td></tr>
+<tr><td>[Regnecentralen](Regnecentralen/index.html)</td><td>DIR</td></tr>
+<tr><td>[Retroleum](Retroleum/index.html)</td><td>DIR</td></tr>
+<tr><td>[RM](RM/index.html)</td><td>DIR</td></tr>
+<tr><td>[Robotron](Robotron/index.html)</td><td>DIR</td></tr>
+<tr><td>[Rockwell](Rockwell/index.html)</td><td>DIR</td></tr>
+<tr><td>[Roland](Roland/index.html)</td><td>DIR</td></tr>
+<tr><td>[SABA](SABA/index.html)</td><td>DIR</td></tr>
+<tr><td>[Samsung](Samsung/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sanyo](Sanyo/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sega](Sega/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sharp](Sharp/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sinclair](Sinclair/index.html)</td><td>DIR</td></tr>
+<tr><td>[SME Systems](SME Systems/index.html)</td><td>DIR</td></tr>
+<tr><td>[SNK](SNK/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sony](Sony/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sord](Sord/index.html)</td><td>DIR</td></tr>
+<tr><td>[Spectravideo](Spectravideo/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tandy Radio Shack](Tandy Radio Shack/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tangerine](Tangerine/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tatung](Tatung/index.html)</td><td>DIR</td></tr>
+<tr><td>[Technosys](Technosys/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tektronix](Tektronix/index.html)</td><td>DIR</td></tr>
+<tr><td>[Telcon](Telcon/index.html)</td><td>DIR</td></tr>
+<tr><td>[TeleNova](TeleNova/index.html)</td><td>DIR</td></tr>
+<tr><td>[TeleVideo Systems](TeleVideo Systems/index.html)</td><td>DIR</td></tr>
+<tr><td>[Telmac](Telmac/index.html)</td><td>DIR</td></tr>
+<tr><td>[Terak](Terak/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tesla](Tesla/index.html)</td><td>DIR</td></tr>
+<tr><td>[Texas Instruments](Texas Instruments/index.html)</td><td>DIR</td></tr>
+<tr><td>[Thomson](Thomson/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tiger Electronics](Tiger Electronics/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tiki Data](Tiki Data/index.html)</td><td>DIR</td></tr>
+<tr><td>[TimeTop](TimeTop/index.html)</td><td>DIR</td></tr>
+<tr><td>[Timex Sinclair](Timex Sinclair/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tomy](Tomy/index.html)</td><td>DIR</td></tr>
+<tr><td>[Toshiba](Toshiba/index.html)</td><td>DIR</td></tr>
+<tr><td>[Triumph-Adler](Triumph-Adler/index.html)</td><td>DIR</td></tr>
+<tr><td>[TRQ](TRQ/index.html)</td><td>DIR</td></tr>
+<tr><td>[Tsukuda Original](Tsukuda Original/index.html)</td><td>DIR</td></tr>
+<tr><td>[UNIVAC](UNIVAC/index.html)</td><td>DIR</td></tr>
+<tr><td>[University of Cambridge](University of Cambridge/index.html)</td><td>DIR</td></tr>
+<tr><td>[University of Tokyo](University of Tokyo/index.html)</td><td>DIR</td></tr>
+<tr><td>[USSR](USSR/index.html)</td><td>DIR</td></tr>
+<tr><td>[VEB Mikroelektronik Erfurt](VEB Mikroelektronik Erfurt/index.html)</td><td>DIR</td></tr>
+<tr><td>[Videoton](Videoton/index.html)</td><td>DIR</td></tr>
+<tr><td>[Visual Technology](Visual Technology/index.html)</td><td>DIR</td></tr>
+<tr><td>[VTech](VTech/index.html)</td><td>DIR</td></tr>
+<tr><td>[Wang](Wang/index.html)</td><td>DIR</td></tr>
+<tr><td>[Watara](Watara/index.html)</td><td>DIR</td></tr>
+<tr><td>[Xerox](Xerox/index.html)</td><td>DIR</td></tr>
+<tr><td>[Yamaha](Yamaha/index.html)</td><td>DIR</td></tr>
+<tr><td>[Zilog](Zilog/index.html)</td><td>DIR</td></tr>
+</table>

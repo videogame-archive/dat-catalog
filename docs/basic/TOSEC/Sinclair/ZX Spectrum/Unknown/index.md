@@ -1,5 +1,8 @@
-[[DSK]]([DSK]/index.html)<br>
-[[SP]]([SP]/index.html)<br>
-[[TAP]]([TAP]/index.html)<br>
-[[TZX]]([TZX]/index.html)<br>
-[[Z80]]([Z80]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[DSK]]([DSK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SP]]([SP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TAP]]([TAP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TZX]]([TZX]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[Z80]]([Z80]/index.html)</td><td>DIR</td></tr>
+</table>

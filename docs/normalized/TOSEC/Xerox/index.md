@@ -1,6 +1,9 @@
-[1108](1108/index.html)<br>
-[1186](1186/index.html)<br>
-[6085](6085/index.html)<br>
-[820](820/index.html)<br>
-[820-II](820-II/index.html)<br>
-[860](860/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[1108](1108/index.html)</td><td>DIR</td></tr>
+<tr><td>[1186](1186/index.html)</td><td>DIR</td></tr>
+<tr><td>[6085](6085/index.html)</td><td>DIR</td></tr>
+<tr><td>[820](820/index.html)</td><td>DIR</td></tr>
+<tr><td>[820-II](820-II/index.html)</td><td>DIR</td></tr>
+<tr><td>[860](860/index.html)</td><td>DIR</td></tr>
+</table>

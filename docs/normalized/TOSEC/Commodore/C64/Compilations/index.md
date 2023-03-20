@@ -1,6 +1,9 @@
-[Demos](Demos/index.html)<br>
-[Diskmags](Diskmags/index.html)<br>
-[Educational](Educational/index.html)<br>
-[Games](Games/index.html)<br>
-[Music](Music/index.html)<br>
-[Various](Various/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Demos](Demos/index.html)</td><td>DIR</td></tr>
+<tr><td>[Diskmags](Diskmags/index.html)</td><td>DIR</td></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Music](Music/index.html)</td><td>DIR</td></tr>
+<tr><td>[Various](Various/index.html)</td><td>DIR</td></tr>
+</table>

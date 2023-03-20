@@ -1,4 +1,7 @@
-[[BAS]]([BAS]/index.html)<br>
-[[IMA]]([IMA]/index.html)<br>
-[[JRC]]([JRC]/index.html)<br>
-[Files](Files/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BAS]]([BAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[IMA]]([IMA]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[JRC]]([JRC]/index.html)</td><td>DIR</td></tr>
+<tr><td>[Files](Files/index.html)</td><td>DIR</td></tr>
+</table>

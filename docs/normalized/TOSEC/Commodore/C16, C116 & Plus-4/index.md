@@ -1,7 +1,10 @@
-[Collections](Collections/index.html)<br>
-[Demos](Demos/index.html)<br>
-[Educational](Educational/index.html)<br>
-[Firmware](Firmware/index.html)<br>
-[Games](Games/index.html)<br>
-[Magazines](Magazines/index.html)<br>
-[Utilities](Utilities/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Collections](Collections/index.html)</td><td>DIR</td></tr>
+<tr><td>[Demos](Demos/index.html)</td><td>DIR</td></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Firmware](Firmware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Magazines](Magazines/index.html)</td><td>DIR</td></tr>
+<tr><td>[Utilities](Utilities/index.html)</td><td>DIR</td></tr>
+</table>

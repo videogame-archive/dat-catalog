@@ -1,2 +1,5 @@
-[[2MG]]([2MG]/index.html)<br>
-[[HDV]]([HDV]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[2MG]]([2MG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[HDV]]([HDV]/index.html)</td><td>DIR</td></tr>
+</table>

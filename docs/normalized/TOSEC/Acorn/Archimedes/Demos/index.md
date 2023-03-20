@@ -1,2 +1,5 @@
-[[ADF]]([ADF]/index.html)<br>
-[[ARC]]([ARC]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[ADF]]([ADF]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[ARC]]([ARC]/index.html)</td><td>DIR</td></tr>
+</table>

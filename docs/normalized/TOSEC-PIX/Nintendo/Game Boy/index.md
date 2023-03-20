@@ -1,3 +1,6 @@
-[Books](Books/index.html)<br>
-[Commercials](Commercials/index.html)<br>
-[Video](Video/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Books](Books/index.html)</td><td>DIR</td></tr>
+<tr><td>[Commercials](Commercials/index.html)</td><td>DIR</td></tr>
+<tr><td>[Video](Video/index.html)</td><td>DIR</td></tr>
+</table>

@@ -1,7 +1,10 @@
-[[ATR]]([ATR]/index.html)<br>
-[[ATX]]([ATX]/index.html)<br>
-[[BAS]]([BAS]/index.html)<br>
-[[BIN]]([BIN]/index.html)<br>
-[[CAS]]([CAS]/index.html)<br>
-[[XEX]]([XEX]/index.html)<br>
-[[XFD]]([XFD]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[ATR]]([ATR]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[ATX]]([ATX]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[BAS]]([BAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[CAS]]([CAS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[XEX]]([XEX]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[XFD]]([XFD]/index.html)</td><td>DIR</td></tr>
+</table>

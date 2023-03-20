@@ -1,3 +1,6 @@
-[Demos](Demos/index.html)<br>
-[Games](Games/index.html)<br>
-[Routines](Routines/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Demos](Demos/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Routines](Routines/index.html)</td><td>DIR</td></tr>
+</table>

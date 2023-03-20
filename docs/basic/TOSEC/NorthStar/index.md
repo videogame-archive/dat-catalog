@@ -1,2 +1,5 @@
-[Advantage](Advantage/index.html)<br>
-[Horizon](Horizon/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Advantage](Advantage/index.html)</td><td>DIR</td></tr>
+<tr><td>[Horizon](Horizon/index.html)</td><td>DIR</td></tr>
+</table>

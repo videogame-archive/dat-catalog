@@ -1,5 +1,8 @@
-[[BIN]]([BIN]/index.html)<br>
-[[CPM]]([CPM]/index.html)<br>
-[[DSK]]([DSK]/index.html)<br>
-[[SAD]]([SAD]/index.html)<br>
-[[SDF]]([SDF]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[CPM]]([CPM]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[DSK]]([DSK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SAD]]([SAD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SDF]]([SDF]/index.html)</td><td>DIR</td></tr>
+</table>

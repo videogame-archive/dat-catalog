@@ -1,1 +1,4 @@
-[Apple Macintosh - Magazines - MacLife (DE)](Apple Macintosh - Magazines - MacLife (DE)/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Apple Macintosh - Magazines - MacLife (DE)](Apple Macintosh - Magazines - MacLife (DE)/index.html)</td><td>DIR</td></tr>
+</table>

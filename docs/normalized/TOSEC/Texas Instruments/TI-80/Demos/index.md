@@ -1,1 +1,4 @@
-[Texas Instruments TI-80 - Demos](Texas Instruments TI-80 - Demos/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Texas Instruments TI-80 - Demos](Texas Instruments TI-80 - Demos/index.html)</td><td>DIR</td></tr>
+</table>

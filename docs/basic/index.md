@@ -1,5 +1,8 @@
-[No-Intro](No-Intro/index.html)<br>
-[Redump](Redump/index.html)<br>
-[TOSEC](TOSEC/index.html)<br>
-[TOSEC-ISO](TOSEC-ISO/index.html)<br>
-[TOSEC-PIX](TOSEC-PIX/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[No-Intro](No-Intro/index.html)</td><td>DIR</td></tr>
+<tr><td>[Redump](Redump/index.html)</td><td>DIR</td></tr>
+<tr><td>[TOSEC](TOSEC/index.html)</td><td>DIR</td></tr>
+<tr><td>[TOSEC-ISO](TOSEC-ISO/index.html)</td><td>DIR</td></tr>
+<tr><td>[TOSEC-PIX](TOSEC-PIX/index.html)</td><td>DIR</td></tr>
+</table>

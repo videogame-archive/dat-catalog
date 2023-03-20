@@ -1,10 +1,13 @@
-[Applications](Applications/index.html)<br>
-[Collections](Collections/index.html)<br>
-[Compilations](Compilations/index.html)<br>
-[Coverdisks](Coverdisks/index.html)<br>
-[Drivers](Drivers/index.html)<br>
-[Educational](Educational/index.html)<br>
-[Games](Games/index.html)<br>
-[Miscellaneous](Miscellaneous/index.html)<br>
-[Operating Systems](Operating Systems/index.html)<br>
-[Sources](Sources/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
+<tr><td>[Collections](Collections/index.html)</td><td>DIR</td></tr>
+<tr><td>[Compilations](Compilations/index.html)</td><td>DIR</td></tr>
+<tr><td>[Coverdisks](Coverdisks/index.html)</td><td>DIR</td></tr>
+<tr><td>[Drivers](Drivers/index.html)</td><td>DIR</td></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Miscellaneous](Miscellaneous/index.html)</td><td>DIR</td></tr>
+<tr><td>[Operating Systems](Operating Systems/index.html)</td><td>DIR</td></tr>
+<tr><td>[Sources](Sources/index.html)</td><td>DIR</td></tr>
+</table>

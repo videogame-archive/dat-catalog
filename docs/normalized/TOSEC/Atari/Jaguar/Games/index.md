@@ -1,7 +1,10 @@
-[[ABS]]([ABS]/index.html)<br>
-[[BIN]]([BIN]/index.html)<br>
-[[COF]]([COF]/index.html)<br>
-[[J64]]([J64]/index.html)<br>
-[[JAG]]([JAG]/index.html)<br>
-[[Multipart]]([Multipart]/index.html)<br>
-[[ROM]]([ROM]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[ABS]]([ABS]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[COF]]([COF]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[J64]]([J64]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[JAG]]([JAG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[Multipart]]([Multipart]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[ROM]]([ROM]/index.html)</td><td>DIR</td></tr>
+</table>

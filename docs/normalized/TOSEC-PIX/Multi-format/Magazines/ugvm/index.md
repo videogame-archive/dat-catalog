@@ -1,1 +1,4 @@
-[Multi-format - Magazines - ugvm](Multi-format - Magazines - ugvm/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Multi-format - Magazines - ugvm](Multi-format - Magazines - ugvm/index.html)</td><td>DIR</td></tr>
+</table>

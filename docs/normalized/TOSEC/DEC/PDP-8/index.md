@@ -1,6 +1,9 @@
-[Applications](Applications/index.html)<br>
-[Collections](Collections/index.html)<br>
-[Compilations](Compilations/index.html)<br>
-[Docs](Docs/index.html)<br>
-[Games](Games/index.html)<br>
-[Operating Systems](Operating Systems/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
+<tr><td>[Collections](Collections/index.html)</td><td>DIR</td></tr>
+<tr><td>[Compilations](Compilations/index.html)</td><td>DIR</td></tr>
+<tr><td>[Docs](Docs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Operating Systems](Operating Systems/index.html)</td><td>DIR</td></tr>
+</table>

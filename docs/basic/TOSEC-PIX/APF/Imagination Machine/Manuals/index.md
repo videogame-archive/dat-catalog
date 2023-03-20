@@ -1,6 +1,9 @@
-[Applications](Applications/index.html)<br>
-[Catalogs](Catalogs/index.html)<br>
-[Games](Games/index.html)<br>
-[Hardware](Hardware/index.html)<br>
-[Software](Software/index.html)<br>
-[Technical](Technical/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
+<tr><td>[Catalogs](Catalogs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hardware](Hardware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Software](Software/index.html)</td><td>DIR</td></tr>
+<tr><td>[Technical](Technical/index.html)</td><td>DIR</td></tr>
+</table>

@@ -1,2 +1,5 @@
-[[DMK]]([DMK]/index.html)<br>
-[[IMD]]([IMD]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[DMK]]([DMK]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[IMD]]([IMD]/index.html)</td><td>DIR</td></tr>
+</table>

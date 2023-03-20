@@ -1,5 +1,8 @@
-[[BIN]]([BIN]/index.html)<br>
-[[EXE]]([EXE]/index.html)<br>
-[[ISO]]([ISO]/index.html)<br>
-[[Multipart]]([Multipart]/index.html)<br>
-[[PSX]]([PSX]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[EXE]]([EXE]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[ISO]]([ISO]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[Multipart]]([Multipart]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PSX]]([PSX]/index.html)</td><td>DIR</td></tr>
+</table>

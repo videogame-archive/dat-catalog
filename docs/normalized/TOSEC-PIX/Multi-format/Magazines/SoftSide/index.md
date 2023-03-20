@@ -1,1 +1,4 @@
-[Multi-format - Magazines - SoftSide](Multi-format - Magazines - SoftSide/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Multi-format - Magazines - SoftSide](Multi-format - Magazines - SoftSide/index.html)</td><td>DIR</td></tr>
+</table>

@@ -1,6 +1,9 @@
-[1](1/index.html)<br>
-[II](II/index.html)<br>
-[IIGS](IIGS/index.html)<br>
-[III](III/index.html)<br>
-[Lisa](Lisa/index.html)<br>
-[Macintosh](Macintosh/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[1](1/index.html)</td><td>DIR</td></tr>
+<tr><td>[II](II/index.html)</td><td>DIR</td></tr>
+<tr><td>[IIGS](IIGS/index.html)</td><td>DIR</td></tr>
+<tr><td>[III](III/index.html)</td><td>DIR</td></tr>
+<tr><td>[Lisa](Lisa/index.html)</td><td>DIR</td></tr>
+<tr><td>[Macintosh](Macintosh/index.html)</td><td>DIR</td></tr>
+</table>

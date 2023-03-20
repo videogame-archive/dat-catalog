@@ -1,6 +1,9 @@
-[[$B]]([$B]/index.html)<br>
-[[SCL]]([SCL]/index.html)<br>
-[[TAP]]([TAP]/index.html)<br>
-[[TRD]]([TRD]/index.html)<br>
-[[TZX]]([TZX]/index.html)<br>
-[[Z80]]([Z80]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[$B]]([$B]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SCL]]([SCL]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TAP]]([TAP]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TRD]]([TRD]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[TZX]]([TZX]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[Z80]]([Z80]/index.html)</td><td>DIR</td></tr>
+</table>

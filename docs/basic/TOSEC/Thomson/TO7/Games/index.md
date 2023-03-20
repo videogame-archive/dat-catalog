@@ -1,4 +1,7 @@
-[[BIN]]([BIN]/index.html)<br>
-[[K7]]([K7]/index.html)<br>
-[[M7]]([M7]/index.html)<br>
-[[SAP]]([SAP]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[BIN]]([BIN]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[K7]]([K7]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[M7]]([M7]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[SAP]]([SAP]/index.html)</td><td>DIR</td></tr>
+</table>

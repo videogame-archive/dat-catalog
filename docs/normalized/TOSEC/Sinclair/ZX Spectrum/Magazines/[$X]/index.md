@@ -1,1 +1,4 @@
-[Sinclair ZX Spectrum - Magazines - [$X]](Sinclair ZX Spectrum - Magazines - [$X]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Sinclair ZX Spectrum - Magazines - [$X]](Sinclair ZX Spectrum - Magazines - [$X]/index.html)</td><td>DIR</td></tr>
+</table>

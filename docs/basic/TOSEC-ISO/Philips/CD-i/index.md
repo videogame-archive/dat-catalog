@@ -1,9 +1,12 @@
-[Applications](Applications/index.html)<br>
-[Bonus Discs](Bonus Discs/index.html)<br>
-[Coverdiscs](Coverdiscs/index.html)<br>
-[Educational](Educational/index.html)<br>
-[Firmware](Firmware/index.html)<br>
-[Games](Games/index.html)<br>
-[Homebrew](Homebrew/index.html)<br>
-[Multimedia](Multimedia/index.html)<br>
-[Samplers](Samplers/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
+<tr><td>[Bonus Discs](Bonus Discs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Coverdiscs](Coverdiscs/index.html)</td><td>DIR</td></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Firmware](Firmware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Homebrew](Homebrew/index.html)</td><td>DIR</td></tr>
+<tr><td>[Multimedia](Multimedia/index.html)</td><td>DIR</td></tr>
+<tr><td>[Samplers](Samplers/index.html)</td><td>DIR</td></tr>
+</table>

@@ -1,4 +1,7 @@
-[[D64]]([D64]/index.html)<br>
-[[G64]]([G64]/index.html)<br>
-[[NBZ]]([NBZ]/index.html)<br>
-[[NIB]]([NIB]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[D64]]([D64]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[G64]]([G64]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[NBZ]]([NBZ]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[NIB]]([NIB]/index.html)</td><td>DIR</td></tr>
+</table>

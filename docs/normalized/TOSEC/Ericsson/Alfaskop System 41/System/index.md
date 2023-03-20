@@ -1,2 +1,5 @@
-[[IMG]]([IMG]/index.html)<br>
-[[IMW]]([IMW]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[IMG]]([IMG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[IMW]]([IMW]/index.html)</td><td>DIR</td></tr>
+</table>

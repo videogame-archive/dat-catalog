@@ -1,4 +1,7 @@
-[Educational](Educational/index.html)<br>
-[Games](Games/index.html)<br>
-[Hardware](Hardware/index.html)<br>
-[Technical](Technical/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Educational](Educational/index.html)</td><td>DIR</td></tr>
+<tr><td>[Games](Games/index.html)</td><td>DIR</td></tr>
+<tr><td>[Hardware](Hardware/index.html)</td><td>DIR</td></tr>
+<tr><td>[Technical](Technical/index.html)</td><td>DIR</td></tr>
+</table>

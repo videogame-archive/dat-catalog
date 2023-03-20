@@ -1,0 +1,4 @@
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Sony - PlayStation Portable (PSN) (Encrypted) (20230128-092336).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/Sony - PlayStation Portable (PSN) (Encrypted)/Sony - PlayStation Portable (PSN) (Encrypted) (20230128-092336).dat)</td><td>2384579</td></tr>
+</table>

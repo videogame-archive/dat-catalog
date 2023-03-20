@@ -1,1 +1,4 @@
-[Multi-format - Magazines - Tech Life](Multi-format - Magazines - Tech Life/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Multi-format - Magazines - Tech Life](Multi-format - Magazines - Tech Life/index.html)</td><td>DIR</td></tr>
+</table>

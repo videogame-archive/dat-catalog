@@ -1,6 +1,9 @@
-[[D64]]([D64]/index.html)<br>
-[[LNX]]([LNX]/index.html)<br>
-[[P00]]([P00]/index.html)<br>
-[[PRG]]([PRG]/index.html)<br>
-[[REU]]([REU]/index.html)<br>
-[[T64]]([T64]/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[[D64]]([D64]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[LNX]]([LNX]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[P00]]([P00]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[PRG]]([PRG]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[REU]]([REU]/index.html)</td><td>DIR</td></tr>
+<tr><td>[[T64]]([T64]/index.html)</td><td>DIR</td></tr>
+</table>

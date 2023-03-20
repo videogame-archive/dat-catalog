@@ -1,4 +1,7 @@
-[COMPUTIST](COMPUTIST/index.html)<br>
-[Contact](Contact/index.html)<br>
-[Golden](Golden/index.html)<br>
-[Windfall](Windfall/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[COMPUTIST](COMPUTIST/index.html)</td><td>DIR</td></tr>
+<tr><td>[Contact](Contact/index.html)</td><td>DIR</td></tr>
+<tr><td>[Golden](Golden/index.html)</td><td>DIR</td></tr>
+<tr><td>[Windfall](Windfall/index.html)</td><td>DIR</td></tr>
+</table>

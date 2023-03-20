@@ -1,3 +1,6 @@
-[Music](Music/index.html)<br>
-[Slideshows](Slideshows/index.html)<br>
-[Various](Various/index.html)<br>
+<table>
+<tr><th>Name</th><th>Size</th></tr>
+<tr><td>[Music](Music/index.html)</td><td>DIR</td></tr>
+<tr><td>[Slideshows](Slideshows/index.html)</td><td>DIR</td></tr>
+<tr><td>[Various](Various/index.html)</td><td>DIR</td></tr>
+</table>
