@@ -40,6 +40,7 @@ public class Main {
         if (update) {
             Modified.setModified(Updater.NORMALIZED_DIR);
             Modified.setModified(Updater.BASIC_DIR);
+            Pages.update(Updater.ROOT_DIR);
         }
     }
 
