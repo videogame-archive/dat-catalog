@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IBM PC Compatibles - Magazines - Computer Living.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/Computer Living/IBM PC Compatibles - Magazines - Computer Living.dat)
-</td><td>923</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IBM PC Compatibles - Magazines - Computer Living.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/Computer Living/IBM PC Compatibles - Magazines - Computer Living.dat)|923|

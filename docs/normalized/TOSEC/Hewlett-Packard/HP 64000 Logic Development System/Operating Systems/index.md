@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[A2R]]([A2R]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[IMD]]([IMD]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[A2R]]([A2R]/index.html)|DIR|
+|[[IMD]]([IMD]/index.html)|DIR|

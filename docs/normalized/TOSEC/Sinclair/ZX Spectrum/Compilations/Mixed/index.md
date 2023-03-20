@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[TAP]]([TAP]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[TRD]]([TRD]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[TAP]]([TAP]/index.html)|DIR|
+|[[TRD]]([TRD]/index.html)|DIR|

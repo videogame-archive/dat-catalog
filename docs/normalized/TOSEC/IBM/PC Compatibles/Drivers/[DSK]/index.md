@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IBM PC Compatibles - Drivers - [DSK]](IBM PC Compatibles - Drivers - [DSK]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IBM PC Compatibles - Drivers - [DSK]](IBM PC Compatibles - Drivers - [DSK]/index.html)|DIR|

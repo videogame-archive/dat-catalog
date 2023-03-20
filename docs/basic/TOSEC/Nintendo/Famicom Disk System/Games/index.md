@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[FDS]]([FDS]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[RAW]]([RAW]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[FDS]]([FDS]/index.html)|DIR|
+|[[RAW]]([RAW]/index.html)|DIR|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Microsoft Xbox 360 - Commercials - Games](Microsoft Xbox 360 - Commercials - Games/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Microsoft Xbox 360 - Commercials - Games](Microsoft Xbox 360 - Commercials - Games/index.html)|DIR|

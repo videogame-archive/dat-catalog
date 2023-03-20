@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Exidy Sorcerer - Games - [TAPE] (TOSEC-v2021-12-11_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exidy/Sorcerer/Games/[TAPE]/Exidy Sorcerer - Games - [TAPE]/Exidy Sorcerer - Games - [TAPE] (TOSEC-v2021-12-11_CM).dat)
-</td><td>6478</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Exidy Sorcerer - Games - [TAPE] (TOSEC-v2021-12-11_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exidy/Sorcerer/Games/[TAPE]/Exidy Sorcerer - Games - [TAPE]/Exidy Sorcerer - Games - [TAPE] (TOSEC-v2021-12-11_CM).dat)|6478|

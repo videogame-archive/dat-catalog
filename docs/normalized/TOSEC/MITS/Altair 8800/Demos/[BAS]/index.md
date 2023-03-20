@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[MITS Altair 8800 - Demos - [BAS]](MITS Altair 8800 - Demos - [BAS]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[MITS Altair 8800 - Demos - [BAS]](MITS Altair 8800 - Demos - [BAS]/index.html)|DIR|

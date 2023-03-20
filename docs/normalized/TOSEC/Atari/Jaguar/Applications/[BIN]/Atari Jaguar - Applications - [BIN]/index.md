@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Atari Jaguar - Applications - [BIN] (TOSEC-v2018-07-01_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Jaguar/Applications/[BIN]/Atari Jaguar - Applications - [BIN]/Atari Jaguar - Applications - [BIN] (TOSEC-v2018-07-01_CM).dat)
-</td><td>1864</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Atari Jaguar - Applications - [BIN] (TOSEC-v2018-07-01_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Jaguar/Applications/[BIN]/Atari Jaguar - Applications - [BIN]/Atari Jaguar - Applications - [BIN] (TOSEC-v2018-07-01_CM).dat)|1864|

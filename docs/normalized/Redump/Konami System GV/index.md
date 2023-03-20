@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Arcade - Konami - System GV - Datfile (1) (2020-09-09 01-05-17).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Konami System GV/Arcade - Konami - System GV - Datfile (1) (2020-09-09 01-05-17).dat)
-</td><td>7281</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Arcade - Konami - System GV - Datfile (1) (2020-09-09 01-05-17).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Konami System GV/Arcade - Konami - System GV - Datfile (1) (2020-09-09 01-05-17).dat)|7281|

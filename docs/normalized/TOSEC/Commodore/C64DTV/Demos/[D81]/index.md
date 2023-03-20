@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore C64DTV - Demos - [D81]](Commodore C64DTV - Demos - [D81]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore C64DTV - Demos - [D81]](Commodore C64DTV - Demos - [D81]/index.html)|DIR|

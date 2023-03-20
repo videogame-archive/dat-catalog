@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Mitsubishi Multi 8 - Games - [CAS]](Mitsubishi Multi 8 - Games - [CAS]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Mitsubishi Multi 8 - Games - [CAS]](Mitsubishi Multi 8 - Games - [CAS]/index.html)|DIR|

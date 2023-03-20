@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sega Dreamcast - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Dreamcast/Manuals/Games/Sega Dreamcast - Manuals - Games.dat)
-</td><td>15048</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sega Dreamcast - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Dreamcast/Manuals/Games/Sega Dreamcast - Manuals - Games.dat)|15048|

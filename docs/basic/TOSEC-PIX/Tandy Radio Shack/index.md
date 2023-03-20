@@ -1,24 +1,9 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Books](Books/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Catalogs](Catalogs/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Comics](Comics/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Commercials](Commercials/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Magazines](Magazines/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Manuals](Manuals/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[TRS-80 Color Computer](TRS-80 Color Computer/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Books](Books/index.html)|DIR|
+|[Catalogs](Catalogs/index.html)|DIR|
+|[Comics](Comics/index.html)|DIR|
+|[Commercials](Commercials/index.html)|DIR|
+|[Magazines](Magazines/index.html)|DIR|
+|[Manuals](Manuals/index.html)|DIR|
+|[TRS-80 Color Computer](TRS-80 Color Computer/index.html)|DIR|

@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Books](Books/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Manuals](Manuals/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Video](Video/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Books](Books/index.html)|DIR|
+|[Manuals](Manuals/index.html)|DIR|
+|[Video](Video/index.html)|DIR|

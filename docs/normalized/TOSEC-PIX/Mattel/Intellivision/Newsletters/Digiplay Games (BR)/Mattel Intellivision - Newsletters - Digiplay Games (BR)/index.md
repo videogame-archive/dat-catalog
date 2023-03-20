@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Mattel Intellivision - Newsletters - Digiplay Games (BR) (TOSEC-v2012-04-14_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Mattel/Intellivision/Newsletters/Digiplay Games (BR)/Mattel Intellivision - Newsletters - Digiplay Games (BR)/Mattel Intellivision - Newsletters - Digiplay Games (BR) (TOSEC-v2012-04-14_CM).dat)
-</td><td>1299</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Mattel Intellivision - Newsletters - Digiplay Games (BR) (TOSEC-v2012-04-14_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Mattel/Intellivision/Newsletters/Digiplay Games (BR)/Mattel Intellivision - Newsletters - Digiplay Games (BR)/Mattel Intellivision - Newsletters - Digiplay Games (BR) (TOSEC-v2012-04-14_CM).dat)|1299|

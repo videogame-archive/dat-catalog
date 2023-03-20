@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Microsoft Xbox One - Commercials - Hardware (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Microsoft/Xbox One/Commercials/Hardware/Microsoft Xbox One - Commercials - Hardware/Microsoft Xbox One - Commercials - Hardware (TOSEC-v2022-12-21_CM).dat)
-</td><td>1883</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Microsoft Xbox One - Commercials - Hardware (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Microsoft/Xbox One/Commercials/Hardware/Microsoft Xbox One - Commercials - Hardware/Microsoft Xbox One - Commercials - Hardware (TOSEC-v2022-12-21_CM).dat)|1883|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[VTech Genius Leader 2000 - Games (TOSEC-v2021-07-25_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/VTech/Genius Leader 2000/Games/VTech Genius Leader 2000 - Games/VTech Genius Leader 2000 - Games (TOSEC-v2021-07-25_CM).dat)
-</td><td>881</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[VTech Genius Leader 2000 - Games (TOSEC-v2021-07-25_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/VTech/Genius Leader 2000/Games/VTech Genius Leader 2000 - Games/VTech Genius Leader 2000 - Games (TOSEC-v2021-07-25_CM).dat)|881|

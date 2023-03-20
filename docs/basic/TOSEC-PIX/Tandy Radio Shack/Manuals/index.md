@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Audio](Audio/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Hardware](Hardware/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Software](Software/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Audio](Audio/index.html)|DIR|
+|[Hardware](Hardware/index.html)|DIR|
+|[Software](Software/index.html)|DIR|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Ericsson Alfaskop System 41 - System - [IMW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Ericsson/Alfaskop System 41/System/[IMW]/Ericsson Alfaskop System 41 - System - [IMW].dat)
-</td><td>1008</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Ericsson Alfaskop System 41 - System - [IMW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Ericsson/Alfaskop System 41/System/[IMW]/Ericsson Alfaskop System 41 - System - [IMW].dat)|1008|

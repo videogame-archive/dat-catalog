@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Apple IIGS - Demos](Apple IIGS - Demos/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Apple IIGS - Demos](Apple IIGS - Demos/index.html)|DIR|

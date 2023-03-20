@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sanyo MBC-550 & 555 - Applications - [IMA]](Sanyo MBC-550 & 555 - Applications - [IMA]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sanyo MBC-550 & 555 - Applications - [IMA]](Sanyo MBC-550 & 555 - Applications - [IMA]/index.html)|DIR|

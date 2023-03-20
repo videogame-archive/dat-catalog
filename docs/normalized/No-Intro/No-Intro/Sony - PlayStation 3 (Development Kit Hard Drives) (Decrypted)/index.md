@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted) (20220831-060008).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)/Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted) (20220831-060008).dat)
-</td><td>875</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted) (20220831-060008).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)/Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted) (20220831-060008).dat)|875|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[MGT Sam Coupe - Games - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MGT/Sam Coupe/Games/[DSK]/MGT Sam Coupe - Games - [DSK].dat)
-</td><td>48870</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[MGT Sam Coupe - Games - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MGT/Sam Coupe/Games/[DSK]/MGT Sam Coupe - Games - [DSK].dat)|48870|

@@ -1,24 +1,9 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Applications](Applications/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Compilations](Compilations/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Coverdiscs](Coverdiscs/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Games](Games/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Homebrew](Homebrew/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Multimedia](Multimedia/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Operating Systems](Operating Systems/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Applications](Applications/index.html)|DIR|
+|[Compilations](Compilations/index.html)|DIR|
+|[Coverdiscs](Coverdiscs/index.html)|DIR|
+|[Games](Games/index.html)|DIR|
+|[Homebrew](Homebrew/index.html)|DIR|
+|[Multimedia](Multimedia/index.html)|DIR|
+|[Operating Systems](Operating Systems/index.html)|DIR|

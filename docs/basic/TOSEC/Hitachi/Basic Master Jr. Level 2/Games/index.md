@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[S]]([S]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[WAV]]([WAV]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[S]]([S]/index.html)|DIR|
+|[[WAV]]([WAV]/index.html)|DIR|

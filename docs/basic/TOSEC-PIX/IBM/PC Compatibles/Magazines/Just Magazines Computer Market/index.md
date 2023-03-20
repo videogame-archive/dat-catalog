@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IBM PC Compatibles - Magazines - Just Magazines Computer Market.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/Just Magazines Computer Market/IBM PC Compatibles - Magazines - Just Magazines Computer Market.dat)
-</td><td>2207</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IBM PC Compatibles - Magazines - Just Magazines Computer Market.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/Just Magazines Computer Market/IBM PC Compatibles - Magazines - Just Magazines Computer Market.dat)|2207|

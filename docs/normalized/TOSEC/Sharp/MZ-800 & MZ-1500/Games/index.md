@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[MZF]]([MZF]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[MZT]]([MZT]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[WAV]]([WAV]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[MZF]]([MZF]/index.html)|DIR|
+|[[MZT]]([MZT]/index.html)|DIR|
+|[[WAV]]([WAV]/index.html)|DIR|

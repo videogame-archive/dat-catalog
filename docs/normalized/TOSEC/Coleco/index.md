@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[ColecoVision](ColecoVision/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[ColecoVision ADAM](ColecoVision ADAM/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[ColecoVision](ColecoVision/index.html)|DIR|
+|[ColecoVision ADAM](ColecoVision ADAM/index.html)|DIR|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Radio-86RK Partner-01.01 - Various (TOSEC-v2014-04-23_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Radio-86RK/Partner-01.01/Various/Radio-86RK Partner-01.01 - Various/Radio-86RK Partner-01.01 - Various (TOSEC-v2014-04-23_CM).dat)
-</td><td>52581</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Radio-86RK Partner-01.01 - Various (TOSEC-v2014-04-23_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Radio-86RK/Partner-01.01/Various/Radio-86RK Partner-01.01 - Various/Radio-86RK Partner-01.01 - Various (TOSEC-v2014-04-23_CM).dat)|52581|

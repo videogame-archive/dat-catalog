@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IMLAC Corporation PDS-1 - Games - [TXT]](IMLAC Corporation PDS-1 - Games - [TXT]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IMLAC Corporation PDS-1 - Games - [TXT]](IMLAC Corporation PDS-1 - Games - [TXT]/index.html)|DIR|

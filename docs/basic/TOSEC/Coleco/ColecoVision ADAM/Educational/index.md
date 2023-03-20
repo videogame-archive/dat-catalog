@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[BAS]]([BAS]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[DDP]]([DDP]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[DSK]]([DSK]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[BAS]]([BAS]/index.html)|DIR|
+|[[DDP]]([DDP]/index.html)|DIR|
+|[[DSK]]([DSK]/index.html)|DIR|

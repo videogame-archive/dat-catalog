@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore C128 - Games - [LNX] (TOSEC-v2016-01-10_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C128/Games/[LNX]/Commodore C128 - Games - [LNX]/Commodore C128 - Games - [LNX] (TOSEC-v2016-01-10_CM).dat)
-</td><td>1376</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore C128 - Games - [LNX] (TOSEC-v2016-01-10_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C128/Games/[LNX]/Commodore C128 - Games - [LNX]/Commodore C128 - Games - [LNX] (TOSEC-v2016-01-10_CM).dat)|1376|

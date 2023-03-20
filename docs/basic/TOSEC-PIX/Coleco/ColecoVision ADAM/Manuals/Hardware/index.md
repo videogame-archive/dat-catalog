@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Coleco ColecoVision ADAM - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Coleco/ColecoVision ADAM/Manuals/Hardware/Coleco ColecoVision ADAM - Manuals - Hardware.dat)
-</td><td>2478</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Coleco ColecoVision ADAM - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Coleco/ColecoVision ADAM/Manuals/Hardware/Coleco ColecoVision ADAM - Manuals - Hardware.dat)|2478|

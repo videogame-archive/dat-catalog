@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sega Mega Drive & Genesis - Games - [Multipart] (TOSEC-v2019-09-01_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Mega Drive & Genesis/Games/[Multipart]/Sega Mega Drive & Genesis - Games - [Multipart]/Sega Mega Drive & Genesis - Games - [Multipart] (TOSEC-v2019-09-01_CM).dat)
-</td><td>1522</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sega Mega Drive & Genesis - Games - [Multipart] (TOSEC-v2019-09-01_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Mega Drive & Genesis/Games/[Multipart]/Sega Mega Drive & Genesis - Games - [Multipart]/Sega Mega Drive & Genesis - Games - [Multipart] (TOSEC-v2019-09-01_CM).dat)|1522|

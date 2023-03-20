@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Bally Professional Arcade & Astrocade - Manuals - Games (TOSEC-v2012-07-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Bally/Professional Arcade & Astrocade/Manuals/Games/Bally Professional Arcade & Astrocade - Manuals - Games/Bally Professional Arcade & Astrocade - Manuals - Games (TOSEC-v2012-07-21_CM).dat)
-</td><td>21439</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Bally Professional Arcade & Astrocade - Manuals - Games (TOSEC-v2012-07-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Bally/Professional Arcade & Astrocade/Manuals/Games/Bally Professional Arcade & Astrocade - Manuals - Games/Bally Professional Arcade & Astrocade - Manuals - Games (TOSEC-v2012-07-21_CM).dat)|21439|

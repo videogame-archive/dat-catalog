@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[MSX MSX2 - Games - [CAS]](MSX MSX2 - Games - [CAS]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[MSX MSX2 - Games - [CAS]](MSX MSX2 - Games - [CAS]/index.html)|DIR|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IBM PC Compatibles - Magazines - PC Player (DE)](IBM PC Compatibles - Magazines - PC Player (DE)/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IBM PC Compatibles - Magazines - PC Player (DE)](IBM PC Compatibles - Magazines - PC Player (DE)/index.html)|DIR|

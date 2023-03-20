@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sega Game 1000 - Multimedia (TOSEC-v2011-08-13_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Game 1000/Multimedia/Sega Game 1000 - Multimedia/Sega Game 1000 - Multimedia (TOSEC-v2011-08-13_CM).dat)
-</td><td>5866</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sega Game 1000 - Multimedia (TOSEC-v2011-08-13_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Game 1000/Multimedia/Sega Game 1000 - Multimedia/Sega Game 1000 - Multimedia (TOSEC-v2011-08-13_CM).dat)|5866|

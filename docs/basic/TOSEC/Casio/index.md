@@ -1,21 +1,8 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[CFX-9850](CFX-9850/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[FP-1000 & FP-1100](FP-1000 & FP-1100/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Loopy](Loopy/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[PB-1000](PB-1000/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[PV-1000](PV-1000/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[PV-2000](PV-2000/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[CFX-9850](CFX-9850/index.html)|DIR|
+|[FP-1000 & FP-1100](FP-1000 & FP-1100/index.html)|DIR|
+|[Loopy](Loopy/index.html)|DIR|
+|[PB-1000](PB-1000/index.html)|DIR|
+|[PV-1000](PV-1000/index.html)|DIR|
+|[PV-2000](PV-2000/index.html)|DIR|

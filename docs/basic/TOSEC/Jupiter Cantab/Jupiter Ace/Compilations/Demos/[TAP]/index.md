@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Jupiter Cantab Jupiter Ace - Compilations - Demos - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Jupiter Cantab/Jupiter Ace/Compilations/Demos/[TAP]/Jupiter Cantab Jupiter Ace - Compilations - Demos - [TAP].dat)
-</td><td>2713</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Jupiter Cantab Jupiter Ace - Compilations - Demos - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Jupiter Cantab/Jupiter Ace/Compilations/Demos/[TAP]/Jupiter Cantab Jupiter Ace - Compilations - Demos - [TAP].dat)|2713|

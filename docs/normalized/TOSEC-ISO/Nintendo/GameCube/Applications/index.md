@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Nintendo GameCube - Applications](Nintendo GameCube - Applications/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Nintendo GameCube - Applications](Nintendo GameCube - Applications/index.html)|DIR|

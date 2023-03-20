@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sinclair ZX Spectrum - Documentation - [$B].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Documentation/[$B]/Sinclair ZX Spectrum - Documentation - [$B].dat)
-</td><td>8991</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sinclair ZX Spectrum - Documentation - [$B].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Documentation/[$B]/Sinclair ZX Spectrum - Documentation - [$B].dat)|8991|

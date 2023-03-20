@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[CVZ]]([CVZ]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[DSK]]([DSK]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[VZ]]([VZ]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[CVZ]]([CVZ]/index.html)|DIR|
+|[[DSK]]([DSK]/index.html)|DIR|
+|[[VZ]]([VZ]/index.html)|DIR|

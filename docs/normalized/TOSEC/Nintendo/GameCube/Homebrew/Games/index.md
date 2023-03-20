@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[DOL]]([DOL]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[ELF]]([ELF]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[DOL]]([DOL]/index.html)|DIR|
+|[[ELF]]([ELF]/index.html)|DIR|

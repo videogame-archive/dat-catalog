@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Exeltel](Exeltel/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[EXL100](EXL100/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Exeltel](Exeltel/index.html)|DIR|
+|[EXL100](EXL100/index.html)|DIR|

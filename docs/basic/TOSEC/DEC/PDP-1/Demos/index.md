@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[MAC]]([MAC]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[RIM]]([RIM]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[MAC]]([MAC]/index.html)|DIR|
+|[[RIM]]([RIM]/index.html)|DIR|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Texas Instruments Speak & Spell - Manuals - Games (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Texas Instruments/Speak & Spell/Manuals/Games/Texas Instruments Speak & Spell - Manuals - Games/Texas Instruments Speak & Spell - Manuals - Games (TOSEC-v2022-12-21_CM).dat)
-</td><td>898</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Texas Instruments Speak & Spell - Manuals - Games (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Texas Instruments/Speak & Spell/Manuals/Games/Texas Instruments Speak & Spell - Manuals - Games/Texas Instruments Speak & Spell - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|898|

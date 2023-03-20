@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Applied Technology MicroBee - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Applied Technology/MicroBee/Compilations/Games/Applied Technology MicroBee - Compilations - Games.dat)
-</td><td>3713</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Applied Technology MicroBee - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Applied Technology/MicroBee/Compilations/Games/Applied Technology MicroBee - Compilations - Games.dat)|3713|

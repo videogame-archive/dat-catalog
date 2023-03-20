@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IBM - PC and Compatibles (KryoFluxWIP) (20220729-101656).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/IBM - PC and Compatibles (KryoFluxWIP)/IBM - PC and Compatibles (KryoFluxWIP) (20220729-101656).dat)
-</td><td>2696369</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IBM - PC and Compatibles (KryoFluxWIP) (20220729-101656).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/IBM - PC and Compatibles (KryoFluxWIP)/IBM - PC and Compatibles (KryoFluxWIP) (20220729-101656).dat)|2696369|

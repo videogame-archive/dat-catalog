@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Girls of Anime (US)](Girls of Anime (US)/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Girls of Gaming (US)](Girls of Gaming (US)/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Multi-format - Artbooks.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Artbooks/Multi-format - Artbooks.dat)
-</td><td>26257</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Girls of Anime (US)](Girls of Anime (US)/index.html)|DIR|
+|[Girls of Gaming (US)](Girls of Gaming (US)/index.html)|DIR|
+|[Multi-format - Artbooks.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Artbooks/Multi-format - Artbooks.dat)|26257|

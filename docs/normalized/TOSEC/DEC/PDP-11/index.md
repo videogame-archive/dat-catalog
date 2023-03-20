@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Collections](Collections/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Games](Games/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Collections](Collections/index.html)|DIR|
+|[Games](Games/index.html)|DIR|

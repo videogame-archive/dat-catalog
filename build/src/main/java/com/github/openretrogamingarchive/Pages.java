@@ -42,17 +42,17 @@ public class Pages {
 			Files.createDirectories(DOCS_DIR);
 		}
 		try (final var index = Files.newBufferedWriter(DOCS_DIR.resolve(Updater.ROOT_DIR.relativize(current)).resolve("index.md"))) {
-			index.write("<table>\n");
-			index.write("<tr><th>Name</th><th>Size</th></tr>\n");
+			index.write("|Name|Size|\n");
+			index.write("|:---|---:|\n");
 			try (final var stream = Files.list(current)) {
-					stream.filter(pathFilter).sorted(pathSorter).forEachOrdered(fileInDir -> {
+				stream.filter(pathFilter).sorted(pathSorter).forEachOrdered(fileInDir -> {
 					try {
 						if (!Files.isDirectory(fileInDir)) {
 							final var file = Updater.BASE_URL + Updater.BASE_DIR.relativize(fileInDir);
-							index.write("<tr><td>%n[%s](%s)%n</td><td>%d</td></tr>%n".formatted(fileInDir.getFileName().toString(),	file, Files.size(fileInDir)));
+							index.write("|[%s](%s)|%d|%n".formatted(fileInDir.getFileName().toString(),	file, Files.size(fileInDir)));
 						} else {
 							final var relativized = Updater.ROOT_DIR.relativize(fileInDir);
-							index.write("<tr><td>%n[%s](%s)%n</td><td>%s</td></tr>%n".formatted(fileInDir.getFileName().toString(),	fileInDir.getFileName().resolve("index.html").toString(), "DIR"));
+							index.write("|[%s](%s)|%s|%n".formatted(fileInDir.getFileName().toString(),	fileInDir.getFileName().resolve("index.html").toString(), "DIR"));
 							Files.createDirectories(DOCS_DIR.resolve(relativized));
 							update(fileInDir);
 						}
@@ -61,7 +61,6 @@ public class Pages {
 					}
 				});
 			}
-			index.write("</table>\n");
 		}
 	}
 }

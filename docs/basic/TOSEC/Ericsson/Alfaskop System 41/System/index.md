@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[IMG]]([IMG]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[IMW]]([IMW]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[IMG]]([IMG]/index.html)|DIR|
+|[[IMW]]([IMW]/index.html)|DIR|

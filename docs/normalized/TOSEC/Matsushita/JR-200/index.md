@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Demos](Demos/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Games](Games/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Various](Various/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Demos](Demos/index.html)|DIR|
+|[Games](Games/index.html)|DIR|
+|[Various](Various/index.html)|DIR|

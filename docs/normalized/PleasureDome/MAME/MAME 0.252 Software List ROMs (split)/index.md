@@ -1,1929 +1,644 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[32x.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/32x.xml)
-</td><td>67015</td></tr>
-<tr><td>
-[a2600.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a2600.xml)
-</td><td>489314</td></tr>
-<tr><td>
-[a2600_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a2600_cass.xml)
-</td><td>19718</td></tr>
-<tr><td>
-[a5200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a5200.xml)
-</td><td>28710</td></tr>
-<tr><td>
-[a7800.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a7800.xml)
-</td><td>48310</td></tr>
-<tr><td>
-[a800.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a800.xml)
-</td><td>119495</td></tr>
-<tr><td>
-[a800_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a800_cass.xml)
-</td><td>1249</td></tr>
-<tr><td>
-[a800_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a800_flop.xml)
-</td><td>22072</td></tr>
-<tr><td>
-[abc1600_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc1600_flop.xml)
-</td><td>2917</td></tr>
-<tr><td>
-[abc800.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc800.xml)
-</td><td>4938</td></tr>
-<tr><td>
-[abc806.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc806.xml)
-</td><td>1376</td></tr>
-<tr><td>
-[abc80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc80_cass.xml)
-</td><td>848</td></tr>
-<tr><td>
-[abc80_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc80_flop.xml)
-</td><td>2957</td></tr>
-<tr><td>
-[acrnsys_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/acrnsys_flop.xml)
-</td><td>1331</td></tr>
-<tr><td>
-[acrnsys_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/acrnsys_rom.xml)
-</td><td>1547</td></tr>
-<tr><td>
-[adam_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/adam_cart.xml)
-</td><td>4344</td></tr>
-<tr><td>
-[adam_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/adam_cass.xml)
-</td><td>24000</td></tr>
-<tr><td>
-[adam_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/adam_flop.xml)
-</td><td>438934</td></tr>
-<tr><td>
-[advantage.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/advantage.xml)
-</td><td>4405</td></tr>
-<tr><td>
-[advision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/advision.xml)
-</td><td>1585</td></tr>
-<tr><td>
-[aim65_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aim65_cart.xml)
-</td><td>3623</td></tr>
-<tr><td>
-[aleste.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aleste.xml)
-</td><td>1130</td></tr>
-<tr><td>
-[alice32.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alice32.xml)
-</td><td>17872</td></tr>
-<tr><td>
-[alice90.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alice90.xml)
-</td><td>2801</td></tr>
-<tr><td>
-[alphasmart_kapps.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alphasmart_kapps.xml)
-</td><td>11356</td></tr>
-<tr><td>
-[alphatro_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alphatro_cart.xml)
-</td><td>1004</td></tr>
-<tr><td>
-[alphatro_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alphatro_flop.xml)
-</td><td>1155</td></tr>
-<tr><td>
-[altos5.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/altos5.xml)
-</td><td>1104</td></tr>
-<tr><td>
-[altos8600.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/altos8600.xml)
-</td><td>853</td></tr>
-<tr><td>
-[amiga_a1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_a1000.xml)
-</td><td>2268</td></tr>
-<tr><td>
-[amiga_a3000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_a3000.xml)
-</td><td>2813</td></tr>
-<tr><td>
-[amiga_apps.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_apps.xml)
-</td><td>4224</td></tr>
-<tr><td>
-[amiga_demos.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_demos.xml)
-</td><td>1182</td></tr>
-<tr><td>
-[amiga_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_flop.xml)
-</td><td>246464</td></tr>
-<tr><td>
-[amiga_hardware.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_hardware.xml)
-</td><td>3335</td></tr>
-<tr><td>
-[amiga_workbench.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_workbench.xml)
-</td><td>9319</td></tr>
-<tr><td>
-[amigaaga_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amigaaga_flop.xml)
-</td><td>91993</td></tr>
-<tr><td>
-[amigaecs_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amigaecs_flop.xml)
-</td><td>15373</td></tr>
-<tr><td>
-[amigaocs_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amigaocs_flop.xml)
-</td><td>988790</td></tr>
-<tr><td>
-[ampro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ampro.xml)
-</td><td>1595</td></tr>
-<tr><td>
-[apc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apc.xml)
-</td><td>9767</td></tr>
-<tr><td>
-[apexc_cyl.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apexc_cyl.xml)
-</td><td>1080</td></tr>
-<tr><td>
-[apfimag_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apfimag_cass.xml)
-</td><td>28672</td></tr>
-<tr><td>
-[apfm1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apfm1000.xml)
-</td><td>5714</td></tr>
-<tr><td>
-[apogee.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apogee.xml)
-</td><td>25641</td></tr>
-<tr><td>
-[apollo_ctape.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apollo_ctape.xml)
-</td><td>1104</td></tr>
-<tr><td>
-[apple1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple1.xml)
-</td><td>10642</td></tr>
-<tr><td>
-[apple2_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_cass.xml)
-</td><td>65207</td></tr>
-<tr><td>
-[apple2_flop_clcracked.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_flop_clcracked.xml)
-</td><td>1148589</td></tr>
-<tr><td>
-[apple2_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_flop_misc.xml)
-</td><td>167132</td></tr>
-<tr><td>
-[apple2_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_flop_orig.xml)
-</td><td>462784</td></tr>
-<tr><td>
-[apple2gs_flop_clcracked.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2gs_flop_clcracked.xml)
-</td><td>47928</td></tr>
-<tr><td>
-[apple2gs_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2gs_flop_misc.xml)
-</td><td>182479</td></tr>
-<tr><td>
-[apple2gs_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2gs_flop_orig.xml)
-</td><td>73567</td></tr>
-<tr><td>
-[apple3.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple3.xml)
-</td><td>6953</td></tr>
-<tr><td>
-[applix_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/applix_flop.xml)
-</td><td>574</td></tr>
-<tr><td>
-[apricot_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apricot_flop.xml)
-</td><td>16009</td></tr>
-<tr><td>
-[apxen_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apxen_flop.xml)
-</td><td>1127</td></tr>
-<tr><td>
-[aquarius_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aquarius_cart.xml)
-</td><td>9106</td></tr>
-<tr><td>
-[aquarius_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aquarius_cass.xml)
-</td><td>16222</td></tr>
-<tr><td>
-[arb.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/arb.xml)
-</td><td>2280</td></tr>
-<tr><td>
-[arcadia.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/arcadia.xml)
-</td><td>15782</td></tr>
-<tr><td>
-[archimedes.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/archimedes.xml)
-</td><td>155981</td></tr>
-<tr><td>
-[archimedes_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/archimedes_rom.xml)
-</td><td>1687</td></tr>
-<tr><td>
-[astrocde.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/astrocde.xml)
-</td><td>34950</td></tr>
-<tr><td>
-[atom_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/atom_cass.xml)
-</td><td>12595</td></tr>
-<tr><td>
-[atom_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/atom_flop.xml)
-</td><td>4188</td></tr>
-<tr><td>
-[atom_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/atom_rom.xml)
-</td><td>10075</td></tr>
-<tr><td>
-[attache.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/attache.xml)
-</td><td>585</td></tr>
-<tr><td>
-[aussiebyte.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aussiebyte.xml)
-</td><td>577</td></tr>
-<tr><td>
-[b2m.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/b2m.xml)
-</td><td>1060</td></tr>
-<tr><td>
-[basf7100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/basf7100.xml)
-</td><td>801</td></tr>
-<tr><td>
-[bbc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_cass.xml)
-</td><td>448224</td></tr>
-<tr><td>
-[bbc_flop_32016.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_32016.xml)
-</td><td>3771</td></tr>
-<tr><td>
-[bbc_flop_6502.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_6502.xml)
-</td><td>3483</td></tr>
-<tr><td>
-[bbc_flop_68000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_68000.xml)
-</td><td>1008</td></tr>
-<tr><td>
-[bbc_flop_80186.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_80186.xml)
-</td><td>4047</td></tr>
-<tr><td>
-[bbc_flop_arm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_arm.xml)
-</td><td>1245</td></tr>
-<tr><td>
-[bbc_flop_hybrid.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_hybrid.xml)
-</td><td>23951</td></tr>
-<tr><td>
-[bbc_flop_torch.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_torch.xml)
-</td><td>8549</td></tr>
-<tr><td>
-[bbc_flop_z80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_z80.xml)
-</td><td>3743</td></tr>
-<tr><td>
-[bbc_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_rom.xml)
-</td><td>293604</td></tr>
-<tr><td>
-[bbcb_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcb_flop.xml)
-</td><td>78901</td></tr>
-<tr><td>
-[bbcb_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcb_flop_orig.xml)
-</td><td>102973</td></tr>
-<tr><td>
-[bbcb_flop_us.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcb_flop_us.xml)
-</td><td>626</td></tr>
-<tr><td>
-[bbcbc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcbc.xml)
-</td><td>3863</td></tr>
-<tr><td>
-[bbcm_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcm_cart.xml)
-</td><td>6772</td></tr>
-<tr><td>
-[bbcm_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcm_flop.xml)
-</td><td>3241</td></tr>
-<tr><td>
-[bbcmc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcmc_flop.xml)
-</td><td>11554</td></tr>
-<tr><td>
-[bdesignm_design_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bdesignm_design_cart.xml)
-</td><td>1722</td></tr>
-<tr><td>
-[bdesignm_game_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bdesignm_game_cart.xml)
-</td><td>1456</td></tr>
-<tr><td>
-[bk0010.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bk0010.xml)
-</td><td>28915</td></tr>
-<tr><td>
-[bkrankp_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bkrankp_cart.xml)
-</td><td>868</td></tr>
-<tr><td>
-[bml3_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bml3_flop.xml)
-</td><td>2479</td></tr>
-<tr><td>
-[bungo_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bungo_flop.xml)
-</td><td>1232</td></tr>
-<tr><td>
-[buzztime_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/buzztime_cart.xml)
-</td><td>1420</td></tr>
-<tr><td>
-[bw12.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bw12.xml)
-</td><td>682</td></tr>
-<tr><td>
-[bw14.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bw14.xml)
-</td><td>2258</td></tr>
-<tr><td>
-[bw2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bw2.xml)
-</td><td>1943</td></tr>
-<tr><td>
-[bx256hp_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bx256hp_flop.xml)
-</td><td>3296</td></tr>
-<tr><td>
-[c128_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c128_cart.xml)
-</td><td>4030</td></tr>
-<tr><td>
-[c128_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c128_flop.xml)
-</td><td>15833</td></tr>
-<tr><td>
-[c128_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c128_rom.xml)
-</td><td>2814</td></tr>
-<tr><td>
-[c2color_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c2color_cart.xml)
-</td><td>1775</td></tr>
-<tr><td>
-[c64_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_cart.xml)
-</td><td>135269</td></tr>
-<tr><td>
-[c64_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_cass.xml)
-</td><td>351779</td></tr>
-<tr><td>
-[c64_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_flop_misc.xml)
-</td><td>17203</td></tr>
-<tr><td>
-[c64_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_flop_orig.xml)
-</td><td>17099</td></tr>
-<tr><td>
-[c65_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c65_flop.xml)
-</td><td>553</td></tr>
-<tr><td>
-[camplynx_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/camplynx_cass.xml)
-</td><td>21759</td></tr>
-<tr><td>
-[camplynx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/camplynx_flop.xml)
-</td><td>7654</td></tr>
-<tr><td>
-[casio_rompack.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/casio_rompack.xml)
-</td><td>847</td></tr>
-<tr><td>
-[casloopy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/casloopy.xml)
-</td><td>3108</td></tr>
-<tr><td>
-[cbm2_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm2_cart.xml)
-</td><td>1852</td></tr>
-<tr><td>
-[cbm2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm2_flop.xml)
-</td><td>38248</td></tr>
-<tr><td>
-[cbm8096_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm8096_flop.xml)
-</td><td>842</td></tr>
-<tr><td>
-[cbm8296_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm8296_flop.xml)
-</td><td>1010</td></tr>
-<tr><td>
-[cc40_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cc40_cart.xml)
-</td><td>2364</td></tr>
-<tr><td>
-[cecflop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cecflop.xml)
-</td><td>5373</td></tr>
-<tr><td>
-[cgenie_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cgenie_cass.xml)
-</td><td>69437</td></tr>
-<tr><td>
-[cgenie_flop_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cgenie_flop_rom.xml)
-</td><td>865</td></tr>
-<tr><td>
-[channelf.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/channelf.xml)
-</td><td>11371</td></tr>
-<tr><td>
-[chessking_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/chessking_cart.xml)
-</td><td>604</td></tr>
-<tr><td>
-[chessmstdm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/chessmstdm.xml)
-</td><td>976</td></tr>
-<tr><td>
-[chip8_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/chip8_quik.xml)
-</td><td>17892</td></tr>
-<tr><td>
-[clickstart_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/clickstart_cart.xml)
-</td><td>5001</td></tr>
-<tr><td>
-[clipper_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/clipper_flop.xml)
-</td><td>876</td></tr>
-<tr><td>
-[coco_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/coco_cart.xml)
-</td><td>31647</td></tr>
-<tr><td>
-[coco_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/coco_flop.xml)
-</td><td>39681</td></tr>
-<tr><td>
-[coleco.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/coleco.xml)
-</td><td>85180</td></tr>
-<tr><td>
-[compclr2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/compclr2_flop.xml)
-</td><td>65193</td></tr>
-<tr><td>
-[compis.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/compis.xml)
-</td><td>9654</td></tr>
-<tr><td>
-[comx35_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/comx35_flop.xml)
-</td><td>574</td></tr>
-<tr><td>
-[conchess_plymate.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/conchess_plymate.xml)
-</td><td>696</td></tr>
-<tr><td>
-[conchess_standard.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/conchess_standard.xml)
-</td><td>590</td></tr>
-<tr><td>
-[copera.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/copera.xml)
-</td><td>2417</td></tr>
-<tr><td>
-[cpc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cpc_cass.xml)
-</td><td>1189828</td></tr>
-<tr><td>
-[cpc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cpc_flop.xml)
-</td><td>7348538</td></tr>
-<tr><td>
-[crvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/crvision.xml)
-</td><td>13368</td></tr>
-<tr><td>
-[cx3000tc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cx3000tc.xml)
-</td><td>1297</td></tr>
-<tr><td>
-[dai_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dai_cass.xml)
-</td><td>2688</td></tr>
-<tr><td>
-[database.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/database.xml)
-</td><td>4999</td></tr>
-<tr><td>
-[dgnalpha_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dgnalpha_flop.xml)
-</td><td>5311</td></tr>
-<tr><td>
-[dgnbeta_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dgnbeta_flop.xml)
-</td><td>1599</td></tr>
-<tr><td>
-[digiblast_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/digiblast_cart.xml)
-</td><td>2272</td></tr>
-<tr><td>
-[digilog320.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/digilog320.xml)
-</td><td>853</td></tr>
-<tr><td>
-[dim68k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dim68k.xml)
-</td><td>3702</td></tr>
-<tr><td>
-[dmv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dmv.xml)
-</td><td>34113</td></tr>
-<tr><td>
-[dps1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dps1.xml)
-</td><td>569</td></tr>
-<tr><td>
-[dragon_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_cart.xml)
-</td><td>12150</td></tr>
-<tr><td>
-[dragon_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_cass.xml)
-</td><td>295193</td></tr>
-<tr><td>
-[dragon_flex.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_flex.xml)
-</td><td>8516</td></tr>
-<tr><td>
-[dragon_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_flop.xml)
-</td><td>53746</td></tr>
-<tr><td>
-[dragon_os9.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_os9.xml)
-</td><td>4971</td></tr>
-<tr><td>
-[e01_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/e01_flop.xml)
-</td><td>856</td></tr>
-<tr><td>
-[easy_karaoke_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/easy_karaoke_cart.xml)
-</td><td>1124</td></tr>
-<tr><td>
-[ec1841.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ec1841.xml)
-</td><td>3235</td></tr>
-<tr><td>
-[einstein.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/einstein.xml)
-</td><td>31030</td></tr>
-<tr><td>
-[einstein_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/einstein_rom.xml)
-</td><td>582</td></tr>
-<tr><td>
-[ekara_japan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan.xml)
-</td><td>22445</td></tr>
-<tr><td>
-[ekara_japan_a.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_a.xml)
-</td><td>2558</td></tr>
-<tr><td>
-[ekara_japan_ac.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_ac.xml)
-</td><td>638</td></tr>
-<tr><td>
-[ekara_japan_bh.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_bh.xml)
-</td><td>1392</td></tr>
-<tr><td>
-[ekara_japan_d.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_d.xml)
-</td><td>1595</td></tr>
-<tr><td>
-[ekara_japan_en.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_en.xml)
-</td><td>874</td></tr>
-<tr><td>
-[ekara_japan_g.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_g.xml)
-</td><td>4963</td></tr>
-<tr><td>
-[ekara_japan_gk.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_gk.xml)
-</td><td>1166</td></tr>
-<tr><td>
-[ekara_japan_m.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_m.xml)
-</td><td>3526</td></tr>
-<tr><td>
-[ekara_japan_p.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_p.xml)
-</td><td>1797</td></tr>
-<tr><td>
-[ekara_japan_s.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_s.xml)
-</td><td>5648</td></tr>
-<tr><td>
-[ekara_japan_sp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_sp.xml)
-</td><td>1437</td></tr>
-<tr><td>
-[ekara_japan_web.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_web.xml)
-</td><td>1478</td></tr>
-<tr><td>
-[ekara_pal.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_pal.xml)
-</td><td>3056</td></tr>
-<tr><td>
-[ekara_us.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_us.xml)
-</td><td>2972</td></tr>
-<tr><td>
-[electron_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_cart.xml)
-</td><td>12859</td></tr>
-<tr><td>
-[electron_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_cass.xml)
-</td><td>183989</td></tr>
-<tr><td>
-[electron_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_flop.xml)
-</td><td>67234</td></tr>
-<tr><td>
-[electron_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_rom.xml)
-</td><td>25280</td></tr>
-<tr><td>
-[entex_sag.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/entex_sag.xml)
-</td><td>2015</td></tr>
-<tr><td>
-[ep64_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ep64_cart.xml)
-</td><td>4417</td></tr>
-<tr><td>
-[ep64_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ep64_cass.xml)
-</td><td>1089</td></tr>
-<tr><td>
-[ep64_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ep64_flop.xml)
-</td><td>53779</td></tr>
-<tr><td>
-[epson_cpm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/epson_cpm.xml)
-</td><td>3701</td></tr>
-<tr><td>
-[eti660_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/eti660_quik.xml)
-</td><td>1539</td></tr>
-<tr><td>
-[evio.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/evio.xml)
-</td><td>3748</td></tr>
-<tr><td>
-[ews286_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ews286_flop.xml)
-</td><td>1162</td></tr>
-<tr><td>
-[excalibur64.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/excalibur64.xml)
-</td><td>583</td></tr>
-<tr><td>
-[exl100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/exl100.xml)
-</td><td>4247</td></tr>
-<tr><td>
-[famibox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/famibox.xml)
-</td><td>13397</td></tr>
-<tr><td>
-[famicom_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/famicom_cass.xml)
-</td><td>10382</td></tr>
-<tr><td>
-[famicom_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/famicom_flop.xml)
-</td><td>93439</td></tr>
-<tr><td>
-[fidel_msc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fidel_msc.xml)
-</td><td>873</td></tr>
-<tr><td>
-[fidel_sc6.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fidel_sc6.xml)
-</td><td>583</td></tr>
-<tr><td>
-[fidel_scc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fidel_scc.xml)
-</td><td>956</td></tr>
-<tr><td>
-[fm77av.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm77av.xml)
-</td><td>28138</td></tr>
-<tr><td>
-[fm7_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm7_cass.xml)
-</td><td>44334</td></tr>
-<tr><td>
-[fm7_disk.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm7_disk.xml)
-</td><td>49765</td></tr>
-<tr><td>
-[fm8_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm8_cass.xml)
-</td><td>7913</td></tr>
-<tr><td>
-[fmtowns_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_cd.xml)
-</td><td>58557</td></tr>
-<tr><td>
-[fmtowns_flop_cracked.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_flop_cracked.xml)
-</td><td>1925</td></tr>
-<tr><td>
-[fmtowns_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_flop_misc.xml)
-</td><td>31494</td></tr>
-<tr><td>
-[fmtowns_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_flop_orig.xml)
-</td><td>54347</td></tr>
-<tr><td>
-[galaxy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/galaxy.xml)
-</td><td>16974</td></tr>
-<tr><td>
-[gamate.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamate.xml)
-</td><td>16273</td></tr>
-<tr><td>
-[gameboy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gameboy.xml)
-</td><td>486909</td></tr>
-<tr><td>
-[gamecom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamecom.xml)
-</td><td>6776</td></tr>
-<tr><td>
-[gamegear.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamegear.xml)
-</td><td>243622</td></tr>
-<tr><td>
-[gameking.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gameking.xml)
-</td><td>13315</td></tr>
-<tr><td>
-[gameking3.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gameking3.xml)
-</td><td>2042</td></tr>
-<tr><td>
-[gamepock.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamepock.xml)
-</td><td>1839</td></tr>
-<tr><td>
-[gba.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gba.xml)
-</td><td>917707</td></tr>
-<tr><td>
-[gba_ereader.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gba_ereader.xml)
-</td><td>218086</td></tr>
-<tr><td>
-[gbcolor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gbcolor.xml)
-</td><td>503200</td></tr>
-<tr><td>
-[gcslottv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gcslottv.xml)
-</td><td>1350</td></tr>
-<tr><td>
-[ggm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ggm.xml)
-</td><td>3654</td></tr>
-<tr><td>
-[gimix.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gimix.xml)
-</td><td>1441</td></tr>
-<tr><td>
-[gj4000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gj4000.xml)
-</td><td>581</td></tr>
-<tr><td>
-[gjmovie.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gjmovie.xml)
-</td><td>585</td></tr>
-<tr><td>
-[gjrstar.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gjrstar.xml)
-</td><td>590</td></tr>
-<tr><td>
-[gl2000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gl2000.xml)
-</td><td>1920</td></tr>
-<tr><td>
-[gl6000sl.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gl6000sl.xml)
-</td><td>875</td></tr>
-<tr><td>
-[glcolor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/glcolor.xml)
-</td><td>1402</td></tr>
-<tr><td>
-[glcx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/glcx.xml)
-</td><td>1945</td></tr>
-<tr><td>
-[gln.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gln.xml)
-</td><td>1104</td></tr>
-<tr><td>
-[gls.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gls.xml)
-</td><td>601</td></tr>
-<tr><td>
-[gmaster.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gmaster.xml)
-</td><td>4751</td></tr>
-<tr><td>
-[gp32.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gp32.xml)
-</td><td>11136</td></tr>
-<tr><td>
-[guab.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/guab.xml)
-</td><td>2879</td></tr>
-<tr><td>
-[gx4000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gx4000.xml)
-</td><td>8496</td></tr>
-<tr><td>
-[h21.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/h21.xml)
-</td><td>572</td></tr>
-<tr><td>
-[horizon.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/horizon.xml)
-</td><td>73785</td></tr>
-<tr><td>
-[hp85_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp85_rom.xml)
-</td><td>1825</td></tr>
-<tr><td>
-[hp86_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp86_rom.xml)
-</td><td>3124</td></tr>
-<tr><td>
-[hp9825_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9825_rom.xml)
-</td><td>3922</td></tr>
-<tr><td>
-[hp9831_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9831_rom.xml)
-</td><td>582</td></tr>
-<tr><td>
-[hp9835a_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9835a_rom.xml)
-</td><td>2138</td></tr>
-<tr><td>
-[hp9845a_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9845a_rom.xml)
-</td><td>3141</td></tr>
-<tr><td>
-[hp9845b_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9845b_rom.xml)
-</td><td>11443</td></tr>
-<tr><td>
-[hp9k3xx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9k3xx_flop.xml)
-</td><td>15567</td></tr>
-<tr><td>
-[hp_ipc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp_ipc.xml)
-</td><td>16016</td></tr>
-<tr><td>
-[hp_ipc_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp_ipc_rom.xml)
-</td><td>591</td></tr>
-<tr><td>
-[ht68k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ht68k.xml)
-</td><td>818</td></tr>
-<tr><td>
-[hx20_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hx20_rom.xml)
-</td><td>814</td></tr>
-<tr><td>
-[hyperscan_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hyperscan_card.xml)
-</td><td>125043</td></tr>
-<tr><td>
-[i7000_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/i7000_card.xml)
-</td><td>5700</td></tr>
-<tr><td>
-[ibm5140.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5140.xml)
-</td><td>1531</td></tr>
-<tr><td>
-[ibm5150.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5150.xml)
-</td><td>410477</td></tr>
-<tr><td>
-[ibm5150_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5150_cass.xml)
-</td><td>616</td></tr>
-<tr><td>
-[ibm5170.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5170.xml)
-</td><td>576182</td></tr>
-<tr><td>
-[ibm5170_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5170_cdrom.xml)
-</td><td>606</td></tr>
-<tr><td>
-[ibm6580.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm6580.xml)
-</td><td>3829</td></tr>
-<tr><td>
-[ibmpcjr_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibmpcjr_cart.xml)
-</td><td>4256</td></tr>
-<tr><td>
-[ibmpcjr_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibmpcjr_flop.xml)
-</td><td>3037</td></tr>
-<tr><td>
-[icanguit.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/icanguit.xml)
-</td><td>2356</td></tr>
-<tr><td>
-[icanpian.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/icanpian.xml)
-</td><td>4097</td></tr>
-<tr><td>
-[intellect02.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/intellect02.xml)
-</td><td>847</td></tr>
-<tr><td>
-[interact.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/interact.xml)
-</td><td>8332</td></tr>
-<tr><td>
-[interpro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/interpro.xml)
-</td><td>3141</td></tr>
-<tr><td>
-[intv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/intv.xml)
-</td><td>59405</td></tr>
-<tr><td>
-[intvecs.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/intvecs.xml)
-</td><td>4393</td></tr>
-<tr><td>
-[iq151_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/iq151_cart.xml)
-</td><td>1384</td></tr>
-<tr><td>
-[iq151_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/iq151_flop.xml)
-</td><td>683</td></tr>
-<tr><td>
-[ique.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ique.xml)
-</td><td>9745</td></tr>
-<tr><td>
-[iqunlim_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/iqunlim_cart.xml)
-</td><td>588</td></tr>
-<tr><td>
-[itt3030.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/itt3030.xml)
-</td><td>833</td></tr>
-<tr><td>
-[jaguar.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jaguar.xml)
-</td><td>25674</td></tr>
-<tr><td>
-[jakks_gamekey_dp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_dp.xml)
-</td><td>686</td></tr>
-<tr><td>
-[jakks_gamekey_dy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_dy.xml)
-</td><td>1339</td></tr>
-<tr><td>
-[jakks_gamekey_mv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_mv.xml)
-</td><td>641</td></tr>
-<tr><td>
-[jakks_gamekey_nk.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_nk.xml)
-</td><td>1318</td></tr>
-<tr><td>
-[jakks_gamekey_nm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_nm.xml)
-</td><td>1333</td></tr>
-<tr><td>
-[jakks_gamekey_sw.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_sw.xml)
-</td><td>1703</td></tr>
-<tr><td>
-[jb3000_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jb3000_flop.xml)
-</td><td>593</td></tr>
-<tr><td>
-[jpopira_jp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jpopira_jp.xml)
-</td><td>834</td></tr>
-<tr><td>
-[juicebox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/juicebox.xml)
-</td><td>5541</td></tr>
-<tr><td>
-[juku.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/juku.xml)
-</td><td>565</td></tr>
-<tr><td>
-[jupace_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jupace_cass.xml)
-</td><td>50105</td></tr>
-<tr><td>
-[jupace_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jupace_snap.xml)
-</td><td>1660</td></tr>
-<tr><td>
-[k28m2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/k28m2.xml)
-</td><td>1597</td></tr>
-<tr><td>
-[kaypro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kaypro.xml)
-</td><td>5412</td></tr>
-<tr><td>
-[kc_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kc_cart.xml)
-</td><td>1602</td></tr>
-<tr><td>
-[kc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kc_cass.xml)
-</td><td>44868</td></tr>
-<tr><td>
-[kc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kc_flop.xml)
-</td><td>1567</td></tr>
-<tr><td>
-[kim1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kim1_cass.xml)
-</td><td>594</td></tr>
-<tr><td>
-[korvet_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/korvet_flop.xml)
-</td><td>5695</td></tr>
-<tr><td>
-[lanteach.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lanteach.xml)
-</td><td>583</td></tr>
-<tr><td>
-[lantrans.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lantrans.xml)
-</td><td>3147</td></tr>
-<tr><td>
-[laser2001_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/laser2001_cart.xml)
-</td><td>586</td></tr>
-<tr><td>
-[laser2001_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/laser2001_flop.xml)
-</td><td>603</td></tr>
-<tr><td>
-[leapfrog_didj_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_didj_cart.xml)
-</td><td>1852</td></tr>
-<tr><td>
-[leapfrog_iquest_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_iquest_cart.xml)
-</td><td>867</td></tr>
-<tr><td>
-[leapfrog_leappad_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_leappad_cart.xml)
-</td><td>24953</td></tr>
-<tr><td>
-[leapfrog_ltleappad_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_ltleappad_cart.xml)
-</td><td>6680</td></tr>
-<tr><td>
-[leapfrog_mfleappad_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_mfleappad_cart.xml)
-</td><td>3746</td></tr>
-<tr><td>
-[leapfrog_zippity_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_zippity_cart.xml)
-</td><td>1352</td></tr>
-<tr><td>
-[leapster.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapster.xml)
-</td><td>37560</td></tr>
-<tr><td>
-[leapster_explorer_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapster_explorer_cart.xml)
-</td><td>1315</td></tr>
-<tr><td>
-[lisa.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lisa.xml)
-</td><td>21027</td></tr>
-<tr><td>
-[lisa2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lisa2.xml)
-</td><td>3192</td></tr>
-<tr><td>
-[lk3000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lk3000.xml)
-</td><td>1273</td></tr>
-<tr><td>
-[lviv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lviv.xml)
-</td><td>68819</td></tr>
-<tr><td>
-[lynx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lynx.xml)
-</td><td>33513</td></tr>
-<tr><td>
-[m20.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m20.xml)
-</td><td>9701</td></tr>
-<tr><td>
-[m24.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m24.xml)
-</td><td>588</td></tr>
-<tr><td>
-[m5_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m5_cart.xml)
-</td><td>13066</td></tr>
-<tr><td>
-[m5_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m5_cass.xml)
-</td><td>6641</td></tr>
-<tr><td>
-[m5_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m5_flop.xml)
-</td><td>595</td></tr>
-<tr><td>
-[mac_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mac_flop.xml)
-</td><td>5420</td></tr>
-<tr><td>
-[mac_hdflop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mac_hdflop.xml)
-</td><td>144149</td></tr>
-<tr><td>
-[mbc200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbc200.xml)
-</td><td>812</td></tr>
-<tr><td>
-[mbc55x.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbc55x.xml)
-</td><td>4523</td></tr>
-<tr><td>
-[mbee_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_cart.xml)
-</td><td>12395</td></tr>
-<tr><td>
-[mbee_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_cass.xml)
-</td><td>823</td></tr>
-<tr><td>
-[mbee_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_flop.xml)
-</td><td>138387</td></tr>
-<tr><td>
-[mbee_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_quik.xml)
-</td><td>44229</td></tr>
-<tr><td>
-[mc10.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mc10.xml)
-</td><td>37522</td></tr>
-<tr><td>
-[mc1000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mc1000_cass.xml)
-</td><td>18191</td></tr>
-<tr><td>
-[mc1502_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mc1502_flop.xml)
-</td><td>872</td></tr>
-<tr><td>
-[md2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/md2_flop.xml)
-</td><td>1891</td></tr>
-<tr><td>
-[megadriv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megadriv.xml)
-</td><td>744876</td></tr>
-<tr><td>
-[megaduck.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megaduck.xml)
-</td><td>6347</td></tr>
-<tr><td>
-[megapc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megapc.xml)
-</td><td>1351</td></tr>
-<tr><td>
-[megatech.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megatech.xml)
-</td><td>17979</td></tr>
-<tr><td>
-[mephisto_mm1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm1.xml)
-</td><td>588</td></tr>
-<tr><td>
-[mephisto_mm2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm2.xml)
-</td><td>589</td></tr>
-<tr><td>
-[mephisto_mm4.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm4.xml)
-</td><td>592</td></tr>
-<tr><td>
-[mephisto_mm5.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm5.xml)
-</td><td>591</td></tr>
-<tr><td>
-[mephisto_smondial2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_smondial2.xml)
-</td><td>602</td></tr>
-<tr><td>
-[microvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/microvision.xml)
-</td><td>4862</td></tr>
-<tr><td>
-[midi_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/midi_flop.xml)
-</td><td>888</td></tr>
-<tr><td>
-[mikro80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mikro80.xml)
-</td><td>1142</td></tr>
-<tr><td>
-[mikrosha_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mikrosha_cart.xml)
-</td><td>597</td></tr>
-<tr><td>
-[mikrosha_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mikrosha_cass.xml)
-</td><td>13780</td></tr>
-<tr><td>
-[mindset_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mindset_flop.xml)
-</td><td>694</td></tr>
-<tr><td>
-[misterx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/misterx.xml)
-</td><td>1124</td></tr>
-<tr><td>
-[mk14_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mk14_quik.xml)
-</td><td>1050</td></tr>
-<tr><td>
-[mm1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mm1_flop.xml)
-</td><td>1301</td></tr>
-<tr><td>
-[mo5_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_cart.xml)
-</td><td>12406</td></tr>
-<tr><td>
-[mo5_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_cass.xml)
-</td><td>447199</td></tr>
-<tr><td>
-[mo5_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_flop.xml)
-</td><td>22200</td></tr>
-<tr><td>
-[mo5_qd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_qd.xml)
-</td><td>6566</td></tr>
-<tr><td>
-[mo6_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo6_cass.xml)
-</td><td>42461</td></tr>
-<tr><td>
-[mo6_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo6_flop.xml)
-</td><td>14152</td></tr>
-<tr><td>
-[mobigo_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mobigo_cart.xml)
-</td><td>14332</td></tr>
-<tr><td>
-[monon_color.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/monon_color.xml)
-</td><td>5865</td></tr>
-<tr><td>
-[mpf1_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mpf1_rom.xml)
-</td><td>812</td></tr>
-<tr><td>
-[mpu1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mpu1000.xml)
-</td><td>576</td></tr>
-<tr><td>
-[mpz80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mpz80.xml)
-</td><td>8997</td></tr>
-<tr><td>
-[msx1_bee_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_bee_card.xml)
-</td><td>3084</td></tr>
-<tr><td>
-[msx1_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_cart.xml)
-</td><td>343139</td></tr>
-<tr><td>
-[msx1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_cass.xml)
-</td><td>398691</td></tr>
-<tr><td>
-[msx1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_flop.xml)
-</td><td>127786</td></tr>
-<tr><td>
-[msx1_flop_525.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_flop_525.xml)
-</td><td>645</td></tr>
-<tr><td>
-[msx2_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2_cart.xml)
-</td><td>59553</td></tr>
-<tr><td>
-[msx2_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2_cass.xml)
-</td><td>1398</td></tr>
-<tr><td>
-[msx2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2_flop.xml)
-</td><td>431869</td></tr>
-<tr><td>
-[msx2p_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2p_flop.xml)
-</td><td>16434</td></tr>
-<tr><td>
-[msx_softcard.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx_softcard.xml)
-</td><td>1129</td></tr>
-<tr><td>
-[msxr_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msxr_flop.xml)
-</td><td>20353</td></tr>
-<tr><td>
-[mt65_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mt65_cass.xml)
-</td><td>2256</td></tr>
-<tr><td>
-[mt65_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mt65_rom.xml)
-</td><td>4680</td></tr>
-<tr><td>
-[mt65_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mt65_snap.xml)
-</td><td>3944</td></tr>
-<tr><td>
-[mtu130_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtu130_flop.xml)
-</td><td>2158</td></tr>
-<tr><td>
-[mtx_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_cart.xml)
-</td><td>2400</td></tr>
-<tr><td>
-[mtx_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_cass.xml)
-</td><td>15723</td></tr>
-<tr><td>
-[mtx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_flop.xml)
-</td><td>2909</td></tr>
-<tr><td>
-[mtx_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_rom.xml)
-</td><td>1611</td></tr>
-<tr><td>
-[myvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/myvision.xml)
-</td><td>1974</td></tr>
-<tr><td>
-[mz2000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2000_cass.xml)
-</td><td>2447</td></tr>
-<tr><td>
-[mz2000_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2000_flop.xml)
-</td><td>3561</td></tr>
-<tr><td>
-[mz2200_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2200_cass.xml)
-</td><td>2514</td></tr>
-<tr><td>
-[mz2500.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2500.xml)
-</td><td>18648</td></tr>
-<tr><td>
-[mz700_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz700_cass.xml)
-</td><td>60933</td></tr>
-<tr><td>
-[mz800_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz800_cass.xml)
-</td><td>3883</td></tr>
-<tr><td>
-[n64.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/n64.xml)
-</td><td>286013</td></tr>
-<tr><td>
-[n64dd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/n64dd.xml)
-</td><td>4105</td></tr>
-<tr><td>
-[nascom_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nascom_flop.xml)
-</td><td>2684</td></tr>
-<tr><td>
-[nascom_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nascom_snap.xml)
-</td><td>18021</td></tr>
-<tr><td>
-[nascom_socket.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nascom_socket.xml)
-</td><td>1816</td></tr>
-<tr><td>
-[neogeo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/neogeo.xml)
-</td><td>291024</td></tr>
-<tr><td>
-[nes.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes.xml)
-</td><td>1660516</td></tr>
-<tr><td>
-[nes_ade.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_ade.xml)
-</td><td>2268</td></tr>
-<tr><td>
-[nes_datach.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_datach.xml)
-</td><td>2708</td></tr>
-<tr><td>
-[nes_kstudio.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_kstudio.xml)
-</td><td>1061</td></tr>
-<tr><td>
-[nes_ntbrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_ntbrom.xml)
-</td><td>1029</td></tr>
-<tr><td>
-[nes_vt_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_vt_cart.xml)
-</td><td>662</td></tr>
-<tr><td>
-[next.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/next.xml)
-</td><td>2388</td></tr>
-<tr><td>
-[ngp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ngp.xml)
-</td><td>3548</td></tr>
-<tr><td>
-[ngpc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ngpc.xml)
-</td><td>36698</td></tr>
-<tr><td>
-[nimbus.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nimbus.xml)
-</td><td>8977</td></tr>
-<tr><td>
-[novag_ssensor4.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/novag_ssensor4.xml)
-</td><td>583</td></tr>
-<tr><td>
-[octopus.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/octopus.xml)
-</td><td>2232</td></tr>
-<tr><td>
-[ondra.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ondra.xml)
-</td><td>2868</td></tr>
-<tr><td>
-[orao.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orao.xml)
-</td><td>14447</td></tr>
-<tr><td>
-[orion_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orion_cart.xml)
-</td><td>829</td></tr>
-<tr><td>
-[orion_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orion_cass.xml)
-</td><td>20272</td></tr>
-<tr><td>
-[orion_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orion_flop.xml)
-</td><td>30688</td></tr>
-<tr><td>
-[orionpro_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orionpro_flop.xml)
-</td><td>9033</td></tr>
-<tr><td>
-[osborne1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/osborne1.xml)
-</td><td>6255</td></tr>
-<tr><td>
-[osborne2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/osborne2.xml)
-</td><td>1495</td></tr>
-<tr><td>
-[p500_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/p500_flop.xml)
-</td><td>846</td></tr>
-<tr><td>
-[partner_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/partner_cass.xml)
-</td><td>18040</td></tr>
-<tr><td>
-[partner_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/partner_flop.xml)
-</td><td>814</td></tr>
-<tr><td>
-[pasogo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pasogo.xml)
-</td><td>1838</td></tr>
-<tr><td>
-[pasopia_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pasopia_cass.xml)
-</td><td>1872</td></tr>
-<tr><td>
-[pb2000c.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pb2000c.xml)
-</td><td>834</td></tr>
-<tr><td>
-[pc1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc1000.xml)
-</td><td>3589</td></tr>
-<tr><td>
-[pc1512_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc1512_flop.xml)
-</td><td>2809</td></tr>
-<tr><td>
-[pc1640_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc1640_flop.xml)
-</td><td>1485</td></tr>
-<tr><td>
-[pc200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc200.xml)
-</td><td>1141</td></tr>
-<tr><td>
-[pc6001_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc6001_cart.xml)
-</td><td>3308</td></tr>
-<tr><td>
-[pc8001_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8001_flop.xml)
-</td><td>70590</td></tr>
-<tr><td>
-[pc8001mk2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8001mk2_flop.xml)
-</td><td>3632</td></tr>
-<tr><td>
-[pc8001mk2sr_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8001mk2sr_flop.xml)
-</td><td>1948</td></tr>
-<tr><td>
-[pc8201.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8201.xml)
-</td><td>1358</td></tr>
-<tr><td>
-[pc8801_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8801_cass.xml)
-</td><td>28515</td></tr>
-<tr><td>
-[pc8801_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8801_flop.xml)
-</td><td>1044680</td></tr>
-<tr><td>
-[pc88va.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc88va.xml)
-</td><td>22455</td></tr>
-<tr><td>
-[pc98.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc98.xml)
-</td><td>1421531</td></tr>
-<tr><td>
-[pc98_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc98_cd.xml)
-</td><td>15510</td></tr>
-<tr><td>
-[pcd_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcd_flop.xml)
-</td><td>1530</td></tr>
-<tr><td>
-[pce.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pce.xml)
-</td><td>88990</td></tr>
-<tr><td>
-[pce_tourvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pce_tourvision.xml)
-</td><td>37442</td></tr>
-<tr><td>
-[pcw.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcw.xml)
-</td><td>42640</td></tr>
-<tr><td>
-[pcw16.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcw16.xml)
-</td><td>1713</td></tr>
-<tr><td>
-[pcx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcx_flop.xml)
-</td><td>4083</td></tr>
-<tr><td>
-[pdp1_ptp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pdp1_ptp.xml)
-</td><td>1068</td></tr>
-<tr><td>
-[pecom_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pecom_cass.xml)
-</td><td>2863</td></tr>
-<tr><td>
-[pegasus_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pegasus_cart.xml)
-</td><td>4950</td></tr>
-<tr><td>
-[pencil2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pencil2.xml)
-</td><td>1182</td></tr>
-<tr><td>
-[pentagon_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pentagon_cass.xml)
-</td><td>891</td></tr>
-<tr><td>
-[pet_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_cass.xml)
-</td><td>70173</td></tr>
-<tr><td>
-[pet_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_flop.xml)
-</td><td>16633</td></tr>
-<tr><td>
-[pet_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_quik.xml)
-</td><td>814</td></tr>
-<tr><td>
-[pet_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_rom.xml)
-</td><td>9998</td></tr>
-<tr><td>
-[phc25_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/phc25_cass.xml)
-</td><td>7101</td></tr>
-<tr><td>
-[pi_storyreader_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pi_storyreader_cart.xml)
-</td><td>15884</td></tr>
-<tr><td>
-[pi_storyreader_v2_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pi_storyreader_v2_cart.xml)
-</td><td>662</td></tr>
-<tr><td>
-[picno.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/picno.xml)
-</td><td>5398</td></tr>
-<tr><td>
-[pico.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pico.xml)
-</td><td>133911</td></tr>
-<tr><td>
-[pippin_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pippin_flop.xml)
-</td><td>577</td></tr>
-<tr><td>
-[plus4_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/plus4_cart.xml)
-</td><td>5081</td></tr>
-<tr><td>
-[plus4_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/plus4_cass.xml)
-</td><td>733</td></tr>
-<tr><td>
-[plus4_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/plus4_flop.xml)
-</td><td>1434</td></tr>
-<tr><td>
-[pmd85_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pmd85_cass.xml)
-</td><td>15400</td></tr>
-<tr><td>
-[pockchalv2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pockchalv2.xml)
-</td><td>6325</td></tr>
-<tr><td>
-[pockchalw.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pockchalw.xml)
-</td><td>12905</td></tr>
-<tr><td>
-[pofo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pofo.xml)
-</td><td>583</td></tr>
-<tr><td>
-[poisk1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/poisk1_flop.xml)
-</td><td>860</td></tr>
-<tr><td>
-[pokemini.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pokemini.xml)
-</td><td>13431</td></tr>
-<tr><td>
-[poly_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/poly_flop.xml)
-</td><td>905</td></tr>
-<tr><td>
-[princ.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/princ.xml)
-</td><td>1970</td></tr>
-<tr><td>
-[pro128_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128_cart.xml)
-</td><td>1378</td></tr>
-<tr><td>
-[pro128_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128_cass.xml)
-</td><td>54455</td></tr>
-<tr><td>
-[pro128_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128_flop.xml)
-</td><td>999</td></tr>
-<tr><td>
-[pro128s_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128s_flop.xml)
-</td><td>9307</td></tr>
-<tr><td>
-[prof180.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/prof180.xml)
-</td><td>915</td></tr>
-<tr><td>
-[prof80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/prof80.xml)
-</td><td>680</td></tr>
-<tr><td>
-[psi98.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/psi98.xml)
-</td><td>933</td></tr>
-<tr><td>
-[psion1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/psion1.xml)
-</td><td>2488</td></tr>
-<tr><td>
-[psion2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/psion2.xml)
-</td><td>32258</td></tr>
-<tr><td>
-[pt68k2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pt68k2.xml)
-</td><td>584</td></tr>
-<tr><td>
-[pv1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pv1000.xml)
-</td><td>3457</td></tr>
-<tr><td>
-[pv2000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pv2000.xml)
-</td><td>3558</td></tr>
-<tr><td>
-[px4_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/px4_cart.xml)
-</td><td>1793</td></tr>
-<tr><td>
-[px8_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/px8_cart.xml)
-</td><td>4906</td></tr>
-<tr><td>
-[pyl601.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pyl601.xml)
-</td><td>3955</td></tr>
-<tr><td>
-[ql_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ql_cart.xml)
-</td><td>1077</td></tr>
-<tr><td>
-[ql_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ql_cass.xml)
-</td><td>1508</td></tr>
-<tr><td>
-[ql_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ql_flop.xml)
-</td><td>1630</td></tr>
-<tr><td>
-[qx10_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/qx10_flop.xml)
-</td><td>2082</td></tr>
-<tr><td>
-[r8_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/r8_card.xml)
-</td><td>846</td></tr>
-<tr><td>
-[r9751.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/r9751.xml)
-</td><td>5196</td></tr>
-<tr><td>
-[radio86_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/radio86_cart.xml)
-</td><td>573</td></tr>
-<tr><td>
-[radio86_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/radio86_cass.xml)
-</td><td>25181</td></tr>
-<tr><td>
-[rainbow.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rainbow.xml)
-</td><td>5851</td></tr>
-<tr><td>
-[roland_tnsc1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/roland_tnsc1.xml)
-</td><td>1639</td></tr>
-<tr><td>
-[rwtrntcs.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rwtrntcs.xml)
-</td><td>831</td></tr>
-<tr><td>
-[rx78_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rx78_cart.xml)
-</td><td>6969</td></tr>
-<tr><td>
-[rx78_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rx78_cass.xml)
-</td><td>583</td></tr>
-<tr><td>
-[rz1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rz1_cass.xml)
-</td><td>1528</td></tr>
-<tr><td>
-[sagafox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sagafox.xml)
-</td><td>563</td></tr>
-<tr><td>
-[sage2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sage2.xml)
-</td><td>2291</td></tr>
-<tr><td>
-[saitek_egr.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/saitek_egr.xml)
-</td><td>809</td></tr>
-<tr><td>
-[saitek_kso.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/saitek_kso.xml)
-</td><td>566</td></tr>
-<tr><td>
-[saitek_schess.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/saitek_schess.xml)
-</td><td>836</td></tr>
-<tr><td>
-[samcoupe_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/samcoupe_cass.xml)
-</td><td>886</td></tr>
-<tr><td>
-[samcoupe_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/samcoupe_flop.xml)
-</td><td>5552</td></tr>
-<tr><td>
-[sat_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sat_cart.xml)
-</td><td>1407</td></tr>
-<tr><td>
-[sat_vccart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sat_vccart.xml)
-</td><td>2552</td></tr>
-<tr><td>
-[sawatte.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sawatte.xml)
-</td><td>6557</td></tr>
-<tr><td>
-[sbrain.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sbrain.xml)
-</td><td>557</td></tr>
-<tr><td>
-[sc3000_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sc3000_cart.xml)
-</td><td>8400</td></tr>
-<tr><td>
-[sc3000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sc3000_cass.xml)
-</td><td>4937</td></tr>
-<tr><td>
-[scv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/scv.xml)
-</td><td>8540</td></tr>
-<tr><td>
-[sdk85.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sdk85.xml)
-</td><td>823</td></tr>
-<tr><td>
-[sega_beena_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sega_beena_cart.xml)
-</td><td>32809</td></tr>
-<tr><td>
-[sf7000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sf7000.xml)
-</td><td>7711</td></tr>
-<tr><td>
-[sg1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sg1000.xml)
-</td><td>57337</td></tr>
-<tr><td>
-[sgx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sgx.xml)
-</td><td>1629</td></tr>
-<tr><td>
-[singingstarkaraoke_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/singingstarkaraoke_cart.xml)
-</td><td>1206</td></tr>
-<tr><td>
-[sitcom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sitcom.xml)
-</td><td>3847</td></tr>
-<tr><td>
-[smarttv_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/smarttv_cart.xml)
-</td><td>647</td></tr>
-<tr><td>
-[smc777.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/smc777.xml)
-</td><td>4433</td></tr>
-<tr><td>
-[sms.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sms.xml)
-</td><td>176703</td></tr>
-<tr><td>
-[snes.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snes.xml)
-</td><td>1098448</td></tr>
-<tr><td>
-[snes_bspack.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snes_bspack.xml)
-</td><td>126859</td></tr>
-<tr><td>
-[snes_strom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snes_strom.xml)
-</td><td>4334</td></tr>
-<tr><td>
-[snotec.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snotec.xml)
-</td><td>3066</td></tr>
-<tr><td>
-[snread.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snread.xml)
-</td><td>2389</td></tr>
-<tr><td>
-[snspell.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snspell.xml)
-</td><td>3721</td></tr>
-<tr><td>
-[socrates.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/socrates.xml)
-</td><td>2429</td></tr>
-<tr><td>
-[softbox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/softbox.xml)
-</td><td>612</td></tr>
-<tr><td>
-[sol20_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sol20_cass.xml)
-</td><td>11787</td></tr>
-<tr><td>
-[sorcerer_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sorcerer_cart.xml)
-</td><td>3116</td></tr>
-<tr><td>
-[sorcerer_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sorcerer_cass.xml)
-</td><td>31027</td></tr>
-<tr><td>
-[sorcerer_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sorcerer_flop.xml)
-</td><td>1340</td></tr>
-<tr><td>
-[spc1000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spc1000_cass.xml)
-</td><td>27654</td></tr>
-<tr><td>
-[spc1500_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spc1500_cass.xml)
-</td><td>1323</td></tr>
-<tr><td>
-[special_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/special_cass.xml)
-</td><td>39358</td></tr>
-<tr><td>
-[special_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/special_flop.xml)
-</td><td>827</td></tr>
-<tr><td>
-[specpls3_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/specpls3_flop.xml)
-</td><td>504146</td></tr>
-<tr><td>
-[spectrum_betadisc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_betadisc_flop.xml)
-</td><td>4031</td></tr>
-<tr><td>
-[spectrum_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_cart.xml)
-</td><td>5722</td></tr>
-<tr><td>
-[spectrum_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_cass.xml)
-</td><td>4206700</td></tr>
-<tr><td>
-[spectrum_flop_opus.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_flop_opus.xml)
-</td><td>22737</td></tr>
-<tr><td>
-[spectrum_mgt_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_mgt_flop.xml)
-</td><td>3204</td></tr>
-<tr><td>
-[spectrum_microdrive.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_microdrive.xml)
-</td><td>19614</td></tr>
-<tr><td>
-[spectrum_wafadrive.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_wafadrive.xml)
-</td><td>622</td></tr>
-<tr><td>
-[sprachmg.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sprachmg.xml)
-</td><td>3973</td></tr>
-<tr><td>
-[squale_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/squale_cart.xml)
-</td><td>860</td></tr>
-<tr><td>
-[ssem_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ssem_quik.xml)
-</td><td>3269</td></tr>
-<tr><td>
-[st_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/st_cart.xml)
-</td><td>2211</td></tr>
-<tr><td>
-[st_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/st_flop.xml)
-</td><td>106072</td></tr>
-<tr><td>
-[stepone_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/stepone_flop.xml)
-</td><td>2980</td></tr>
-<tr><td>
-[studio2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/studio2.xml)
-</td><td>10709</td></tr>
-<tr><td>
-[stv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/stv.xml)
-</td><td>54701</td></tr>
-<tr><td>
-[super6.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/super6.xml)
-</td><td>3153</td></tr>
-<tr><td>
-[super80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/super80_cass.xml)
-</td><td>46372</td></tr>
-<tr><td>
-[super80_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/super80_flop.xml)
-</td><td>1103</td></tr>
-<tr><td>
-[superpet_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/superpet_flop.xml)
-</td><td>7629</td></tr>
-<tr><td>
-[supracan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/supracan.xml)
-</td><td>3489</td></tr>
-<tr><td>
-[sv8000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sv8000.xml)
-</td><td>2041</td></tr>
-<tr><td>
-[svi318_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svi318_cart.xml)
-</td><td>2752</td></tr>
-<tr><td>
-[svi318_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svi318_cass.xml)
-</td><td>57633</td></tr>
-<tr><td>
-[svi318_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svi318_flop.xml)
-</td><td>1720</td></tr>
-<tr><td>
-[svision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svision.xml)
-</td><td>18263</td></tr>
-<tr><td>
-[svmu.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svmu.xml)
-</td><td>20579</td></tr>
-<tr><td>
-[t1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/t1000.xml)
-</td><td>4897</td></tr>
-<tr><td>
-[tandy200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tandy200.xml)
-</td><td>1355</td></tr>
-<tr><td>
-[tandy2k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tandy2k.xml)
-</td><td>2715</td></tr>
-<tr><td>
-[tandy6k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tandy6k.xml)
-</td><td>2743</td></tr>
-<tr><td>
-[tdv2324.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tdv2324.xml)
-</td><td>2302</td></tr>
-<tr><td>
-[tek4052_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tek4052_cart.xml)
-</td><td>2038</td></tr>
-<tr><td>
-[telestory_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/telestory_cart.xml)
-</td><td>4129</td></tr>
-<tr><td>
-[tg16.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tg16.xml)
-</td><td>25824</td></tr>
-<tr><td>
-[ti74_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ti74_cart.xml)
-</td><td>1074</td></tr>
-<tr><td>
-[ti95_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ti95_cart.xml)
-</td><td>842</td></tr>
-<tr><td>
-[ti99_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ti99_cart.xml)
-</td><td>132617</td></tr>
-<tr><td>
-[tiki100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tiki100.xml)
-</td><td>22837</td></tr>
-<tr><td>
-[timex_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/timex_cass.xml)
-</td><td>33304</td></tr>
-<tr><td>
-[timex_dock.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/timex_dock.xml)
-</td><td>8877</td></tr>
-<tr><td>
-[tntell.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tntell.xml)
-</td><td>2113</td></tr>
-<tr><td>
-[to770_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to770_cart.xml)
-</td><td>578</td></tr>
-<tr><td>
-[to770a_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to770a_cart.xml)
-</td><td>592</td></tr>
-<tr><td>
-[to7_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to7_cart.xml)
-</td><td>14968</td></tr>
-<tr><td>
-[to7_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to7_cass.xml)
-</td><td>193622</td></tr>
-<tr><td>
-[to7_qd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to7_qd.xml)
-</td><td>5769</td></tr>
-<tr><td>
-[to8_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to8_cass.xml)
-</td><td>4349</td></tr>
-<tr><td>
-[to8_qd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to8_qd.xml)
-</td><td>1401</td></tr>
-<tr><td>
-[to_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to_flop.xml)
-</td><td>343207</td></tr>
-<tr><td>
-[triton_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/triton_rom.xml)
-</td><td>569</td></tr>
-<tr><td>
-[trs80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80_cass.xml)
-</td><td>15243</td></tr>
-<tr><td>
-[trs80_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80_flop.xml)
-</td><td>1314</td></tr>
-<tr><td>
-[trs80_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80_quik.xml)
-</td><td>24482</td></tr>
-<tr><td>
-[trs80m2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80m2.xml)
-</td><td>5341</td></tr>
-<tr><td>
-[trsm100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trsm100.xml)
-</td><td>3677</td></tr>
-<tr><td>
-[tsconf_betadisc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tsconf_betadisc_flop.xml)
-</td><td>896</td></tr>
-<tr><td>
-[ttwist_brainquest_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ttwist_brainquest_cart.xml)
-</td><td>630</td></tr>
-<tr><td>
-[turboextreme_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/turboextreme_cart.xml)
-</td><td>607</td></tr>
-<tr><td>
-[tutor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tutor.xml)
-</td><td>8318</td></tr>
-<tr><td>
-[tvc_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvc_cart.xml)
-</td><td>3583</td></tr>
-<tr><td>
-[tvc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvc_cass.xml)
-</td><td>69991</td></tr>
-<tr><td>
-[tvc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvc_flop.xml)
-</td><td>214020</td></tr>
-<tr><td>
-[tvgogo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvgogo.xml)
-</td><td>2846</td></tr>
-<tr><td>
-[tx0_ptp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tx0_ptp.xml)
-</td><td>1429</td></tr>
-<tr><td>
-[u110_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/u110_card.xml)
-</td><td>5139</td></tr>
-<tr><td>
-[unichamp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/unichamp.xml)
-</td><td>1318</td></tr>
-<tr><td>
-[ut88.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ut88.xml)
-</td><td>1569</td></tr>
-<tr><td>
-[uzebox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/uzebox.xml)
-</td><td>32124</td></tr>
-<tr><td>
-[v1050_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/v1050_flop.xml)
-</td><td>2626</td></tr>
-<tr><td>
-[vbaby_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vbaby_cart.xml)
-</td><td>619</td></tr>
-<tr><td>
-[vboy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vboy.xml)
-</td><td>9049</td></tr>
-<tr><td>
-[vc4000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vc4000.xml)
-</td><td>10219</td></tr>
-<tr><td>
-[vector06_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vector06_cart.xml)
-</td><td>573</td></tr>
-<tr><td>
-[vector06_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vector06_flop.xml)
-</td><td>4577</td></tr>
-<tr><td>
-[vectrex.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vectrex.xml)
-</td><td>18994</td></tr>
-<tr><td>
-[vg5k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vg5k.xml)
-</td><td>18337</td></tr>
-<tr><td>
-[vgmplay.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vgmplay.xml)
-</td><td>8259786</td></tr>
-<tr><td>
-[vic10.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic10.xml)
-</td><td>7760</td></tr>
-<tr><td>
-[vic1001_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic1001_cart.xml)
-</td><td>87823</td></tr>
-<tr><td>
-[vic1001_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic1001_cass.xml)
-</td><td>912</td></tr>
-<tr><td>
-[vic1001_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic1001_flop.xml)
-</td><td>1935</td></tr>
-<tr><td>
-[victor9k_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/victor9k_flop.xml)
-</td><td>977</td></tr>
-<tr><td>
-[vidbrain.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vidbrain.xml)
-</td><td>5361</td></tr>
-<tr><td>
-[videopac.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/videopac.xml)
-</td><td>51698</td></tr>
-<tr><td>
-[vii.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vii.xml)
-</td><td>836</td></tr>
-<tr><td>
-[vip.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vip.xml)
-</td><td>681</td></tr>
-<tr><td>
-[visicom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/visicom.xml)
-</td><td>1535</td></tr>
-<tr><td>
-[vixen.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vixen.xml)
-</td><td>4591</td></tr>
-<tr><td>
-[vsmile_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vsmile_cart.xml)
-</td><td>93485</td></tr>
-<tr><td>
-[vsmileb_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vsmileb_cart.xml)
-</td><td>6862</td></tr>
-<tr><td>
-[vsmilem_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vsmilem_cart.xml)
-</td><td>32342</td></tr>
-<tr><td>
-[vtech2_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech2_cass.xml)
-</td><td>1578</td></tr>
-<tr><td>
-[vtech_innotab_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech_innotab_cart.xml)
-</td><td>1260</td></tr>
-<tr><td>
-[vtech_innotv_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech_innotv_cart.xml)
-</td><td>1456</td></tr>
-<tr><td>
-[vtech_storio_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech_storio_cart.xml)
-</td><td>4100</td></tr>
-<tr><td>
-[vz_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vz_cass.xml)
-</td><td>4180</td></tr>
-<tr><td>
-[vz_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vz_snap.xml)
-</td><td>42644</td></tr>
-<tr><td>
-[wangpc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wangpc.xml)
-</td><td>2042</td></tr>
-<tr><td>
-[waveterm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/waveterm.xml)
-</td><td>1615</td></tr>
-<tr><td>
-[wicat.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wicat.xml)
-</td><td>5530</td></tr>
-<tr><td>
-[wizard_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wizard_cart.xml)
-</td><td>1399</td></tr>
-<tr><td>
-[wmbullet.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wmbullet.xml)
-</td><td>1381</td></tr>
-<tr><td>
-[wscolor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wscolor.xml)
-</td><td>28378</td></tr>
-<tr><td>
-[wswan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wswan.xml)
-</td><td>34188</td></tr>
-<tr><td>
-[x07_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x07_card.xml)
-</td><td>563</td></tr>
-<tr><td>
-[x07_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x07_cass.xml)
-</td><td>26175</td></tr>
-<tr><td>
-[x1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x1_cass.xml)
-</td><td>44381</td></tr>
-<tr><td>
-[x1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x1_flop.xml)
-</td><td>130448</td></tr>
-<tr><td>
-[x37_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x37_flop.xml)
-</td><td>3143</td></tr>
-<tr><td>
-[x68k_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x68k_flop.xml)
-</td><td>785819</td></tr>
-<tr><td>
-[xegs.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/xegs.xml)
-</td><td>12242</td></tr>
-<tr><td>
-[xerox820.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/xerox820.xml)
-</td><td>3330</td></tr>
-<tr><td>
-[xerox820ii.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/xerox820ii.xml)
-</td><td>2790</td></tr>
-<tr><td>
-[z80clock.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z80clock.xml)
-</td><td>3909</td></tr>
-<tr><td>
-[z80ne_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z80ne_cass.xml)
-</td><td>24396</td></tr>
-<tr><td>
-[z80ne_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z80ne_flop.xml)
-</td><td>10342</td></tr>
-<tr><td>
-[z88_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z88_cart.xml)
-</td><td>14805</td></tr>
-<tr><td>
-[zorba.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/zorba.xml)
-</td><td>13411</td></tr>
-<tr><td>
-[zx80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/zx80_cass.xml)
-</td><td>2103</td></tr>
-<tr><td>
-[zx81_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/zx81_cass.xml)
-</td><td>185686</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[32x.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/32x.xml)|67015|
+|[a2600.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a2600.xml)|489314|
+|[a2600_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a2600_cass.xml)|19718|
+|[a5200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a5200.xml)|28710|
+|[a7800.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a7800.xml)|48310|
+|[a800.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a800.xml)|119495|
+|[a800_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a800_cass.xml)|1249|
+|[a800_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/a800_flop.xml)|22072|
+|[abc1600_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc1600_flop.xml)|2917|
+|[abc800.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc800.xml)|4938|
+|[abc806.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc806.xml)|1376|
+|[abc80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc80_cass.xml)|848|
+|[abc80_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/abc80_flop.xml)|2957|
+|[acrnsys_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/acrnsys_flop.xml)|1331|
+|[acrnsys_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/acrnsys_rom.xml)|1547|
+|[adam_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/adam_cart.xml)|4344|
+|[adam_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/adam_cass.xml)|24000|
+|[adam_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/adam_flop.xml)|438934|
+|[advantage.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/advantage.xml)|4405|
+|[advision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/advision.xml)|1585|
+|[aim65_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aim65_cart.xml)|3623|
+|[aleste.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aleste.xml)|1130|
+|[alice32.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alice32.xml)|17872|
+|[alice90.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alice90.xml)|2801|
+|[alphasmart_kapps.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alphasmart_kapps.xml)|11356|
+|[alphatro_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alphatro_cart.xml)|1004|
+|[alphatro_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/alphatro_flop.xml)|1155|
+|[altos5.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/altos5.xml)|1104|
+|[altos8600.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/altos8600.xml)|853|
+|[amiga_a1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_a1000.xml)|2268|
+|[amiga_a3000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_a3000.xml)|2813|
+|[amiga_apps.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_apps.xml)|4224|
+|[amiga_demos.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_demos.xml)|1182|
+|[amiga_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_flop.xml)|246464|
+|[amiga_hardware.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_hardware.xml)|3335|
+|[amiga_workbench.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amiga_workbench.xml)|9319|
+|[amigaaga_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amigaaga_flop.xml)|91993|
+|[amigaecs_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amigaecs_flop.xml)|15373|
+|[amigaocs_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/amigaocs_flop.xml)|988790|
+|[ampro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ampro.xml)|1595|
+|[apc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apc.xml)|9767|
+|[apexc_cyl.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apexc_cyl.xml)|1080|
+|[apfimag_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apfimag_cass.xml)|28672|
+|[apfm1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apfm1000.xml)|5714|
+|[apogee.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apogee.xml)|25641|
+|[apollo_ctape.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apollo_ctape.xml)|1104|
+|[apple1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple1.xml)|10642|
+|[apple2_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_cass.xml)|65207|
+|[apple2_flop_clcracked.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_flop_clcracked.xml)|1148589|
+|[apple2_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_flop_misc.xml)|167132|
+|[apple2_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2_flop_orig.xml)|462784|
+|[apple2gs_flop_clcracked.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2gs_flop_clcracked.xml)|47928|
+|[apple2gs_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2gs_flop_misc.xml)|182479|
+|[apple2gs_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple2gs_flop_orig.xml)|73567|
+|[apple3.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apple3.xml)|6953|
+|[applix_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/applix_flop.xml)|574|
+|[apricot_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apricot_flop.xml)|16009|
+|[apxen_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/apxen_flop.xml)|1127|
+|[aquarius_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aquarius_cart.xml)|9106|
+|[aquarius_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aquarius_cass.xml)|16222|
+|[arb.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/arb.xml)|2280|
+|[arcadia.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/arcadia.xml)|15782|
+|[archimedes.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/archimedes.xml)|155981|
+|[archimedes_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/archimedes_rom.xml)|1687|
+|[astrocde.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/astrocde.xml)|34950|
+|[atom_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/atom_cass.xml)|12595|
+|[atom_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/atom_flop.xml)|4188|
+|[atom_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/atom_rom.xml)|10075|
+|[attache.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/attache.xml)|585|
+|[aussiebyte.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/aussiebyte.xml)|577|
+|[b2m.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/b2m.xml)|1060|
+|[basf7100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/basf7100.xml)|801|
+|[bbc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_cass.xml)|448224|
+|[bbc_flop_32016.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_32016.xml)|3771|
+|[bbc_flop_6502.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_6502.xml)|3483|
+|[bbc_flop_68000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_68000.xml)|1008|
+|[bbc_flop_80186.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_80186.xml)|4047|
+|[bbc_flop_arm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_arm.xml)|1245|
+|[bbc_flop_hybrid.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_hybrid.xml)|23951|
+|[bbc_flop_torch.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_torch.xml)|8549|
+|[bbc_flop_z80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_flop_z80.xml)|3743|
+|[bbc_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbc_rom.xml)|293604|
+|[bbcb_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcb_flop.xml)|78901|
+|[bbcb_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcb_flop_orig.xml)|102973|
+|[bbcb_flop_us.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcb_flop_us.xml)|626|
+|[bbcbc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcbc.xml)|3863|
+|[bbcm_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcm_cart.xml)|6772|
+|[bbcm_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcm_flop.xml)|3241|
+|[bbcmc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bbcmc_flop.xml)|11554|
+|[bdesignm_design_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bdesignm_design_cart.xml)|1722|
+|[bdesignm_game_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bdesignm_game_cart.xml)|1456|
+|[bk0010.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bk0010.xml)|28915|
+|[bkrankp_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bkrankp_cart.xml)|868|
+|[bml3_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bml3_flop.xml)|2479|
+|[bungo_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bungo_flop.xml)|1232|
+|[buzztime_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/buzztime_cart.xml)|1420|
+|[bw12.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bw12.xml)|682|
+|[bw14.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bw14.xml)|2258|
+|[bw2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bw2.xml)|1943|
+|[bx256hp_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/bx256hp_flop.xml)|3296|
+|[c128_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c128_cart.xml)|4030|
+|[c128_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c128_flop.xml)|15833|
+|[c128_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c128_rom.xml)|2814|
+|[c2color_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c2color_cart.xml)|1775|
+|[c64_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_cart.xml)|135269|
+|[c64_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_cass.xml)|351779|
+|[c64_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_flop_misc.xml)|17203|
+|[c64_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c64_flop_orig.xml)|17099|
+|[c65_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/c65_flop.xml)|553|
+|[camplynx_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/camplynx_cass.xml)|21759|
+|[camplynx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/camplynx_flop.xml)|7654|
+|[casio_rompack.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/casio_rompack.xml)|847|
+|[casloopy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/casloopy.xml)|3108|
+|[cbm2_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm2_cart.xml)|1852|
+|[cbm2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm2_flop.xml)|38248|
+|[cbm8096_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm8096_flop.xml)|842|
+|[cbm8296_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cbm8296_flop.xml)|1010|
+|[cc40_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cc40_cart.xml)|2364|
+|[cecflop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cecflop.xml)|5373|
+|[cgenie_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cgenie_cass.xml)|69437|
+|[cgenie_flop_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cgenie_flop_rom.xml)|865|
+|[channelf.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/channelf.xml)|11371|
+|[chessking_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/chessking_cart.xml)|604|
+|[chessmstdm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/chessmstdm.xml)|976|
+|[chip8_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/chip8_quik.xml)|17892|
+|[clickstart_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/clickstart_cart.xml)|5001|
+|[clipper_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/clipper_flop.xml)|876|
+|[coco_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/coco_cart.xml)|31647|
+|[coco_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/coco_flop.xml)|39681|
+|[coleco.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/coleco.xml)|85180|
+|[compclr2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/compclr2_flop.xml)|65193|
+|[compis.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/compis.xml)|9654|
+|[comx35_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/comx35_flop.xml)|574|
+|[conchess_plymate.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/conchess_plymate.xml)|696|
+|[conchess_standard.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/conchess_standard.xml)|590|
+|[copera.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/copera.xml)|2417|
+|[cpc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cpc_cass.xml)|1189828|
+|[cpc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cpc_flop.xml)|7348538|
+|[crvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/crvision.xml)|13368|
+|[cx3000tc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/cx3000tc.xml)|1297|
+|[dai_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dai_cass.xml)|2688|
+|[database.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/database.xml)|4999|
+|[dgnalpha_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dgnalpha_flop.xml)|5311|
+|[dgnbeta_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dgnbeta_flop.xml)|1599|
+|[digiblast_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/digiblast_cart.xml)|2272|
+|[digilog320.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/digilog320.xml)|853|
+|[dim68k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dim68k.xml)|3702|
+|[dmv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dmv.xml)|34113|
+|[dps1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dps1.xml)|569|
+|[dragon_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_cart.xml)|12150|
+|[dragon_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_cass.xml)|295193|
+|[dragon_flex.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_flex.xml)|8516|
+|[dragon_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_flop.xml)|53746|
+|[dragon_os9.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/dragon_os9.xml)|4971|
+|[e01_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/e01_flop.xml)|856|
+|[easy_karaoke_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/easy_karaoke_cart.xml)|1124|
+|[ec1841.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ec1841.xml)|3235|
+|[einstein.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/einstein.xml)|31030|
+|[einstein_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/einstein_rom.xml)|582|
+|[ekara_japan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan.xml)|22445|
+|[ekara_japan_a.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_a.xml)|2558|
+|[ekara_japan_ac.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_ac.xml)|638|
+|[ekara_japan_bh.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_bh.xml)|1392|
+|[ekara_japan_d.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_d.xml)|1595|
+|[ekara_japan_en.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_en.xml)|874|
+|[ekara_japan_g.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_g.xml)|4963|
+|[ekara_japan_gk.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_gk.xml)|1166|
+|[ekara_japan_m.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_m.xml)|3526|
+|[ekara_japan_p.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_p.xml)|1797|
+|[ekara_japan_s.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_s.xml)|5648|
+|[ekara_japan_sp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_sp.xml)|1437|
+|[ekara_japan_web.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_japan_web.xml)|1478|
+|[ekara_pal.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_pal.xml)|3056|
+|[ekara_us.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ekara_us.xml)|2972|
+|[electron_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_cart.xml)|12859|
+|[electron_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_cass.xml)|183989|
+|[electron_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_flop.xml)|67234|
+|[electron_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/electron_rom.xml)|25280|
+|[entex_sag.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/entex_sag.xml)|2015|
+|[ep64_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ep64_cart.xml)|4417|
+|[ep64_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ep64_cass.xml)|1089|
+|[ep64_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ep64_flop.xml)|53779|
+|[epson_cpm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/epson_cpm.xml)|3701|
+|[eti660_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/eti660_quik.xml)|1539|
+|[evio.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/evio.xml)|3748|
+|[ews286_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ews286_flop.xml)|1162|
+|[excalibur64.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/excalibur64.xml)|583|
+|[exl100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/exl100.xml)|4247|
+|[famibox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/famibox.xml)|13397|
+|[famicom_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/famicom_cass.xml)|10382|
+|[famicom_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/famicom_flop.xml)|93439|
+|[fidel_msc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fidel_msc.xml)|873|
+|[fidel_sc6.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fidel_sc6.xml)|583|
+|[fidel_scc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fidel_scc.xml)|956|
+|[fm77av.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm77av.xml)|28138|
+|[fm7_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm7_cass.xml)|44334|
+|[fm7_disk.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm7_disk.xml)|49765|
+|[fm8_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fm8_cass.xml)|7913|
+|[fmtowns_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_cd.xml)|58557|
+|[fmtowns_flop_cracked.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_flop_cracked.xml)|1925|
+|[fmtowns_flop_misc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_flop_misc.xml)|31494|
+|[fmtowns_flop_orig.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/fmtowns_flop_orig.xml)|54347|
+|[galaxy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/galaxy.xml)|16974|
+|[gamate.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamate.xml)|16273|
+|[gameboy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gameboy.xml)|486909|
+|[gamecom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamecom.xml)|6776|
+|[gamegear.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamegear.xml)|243622|
+|[gameking.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gameking.xml)|13315|
+|[gameking3.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gameking3.xml)|2042|
+|[gamepock.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gamepock.xml)|1839|
+|[gba.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gba.xml)|917707|
+|[gba_ereader.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gba_ereader.xml)|218086|
+|[gbcolor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gbcolor.xml)|503200|
+|[gcslottv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gcslottv.xml)|1350|
+|[ggm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ggm.xml)|3654|
+|[gimix.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gimix.xml)|1441|
+|[gj4000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gj4000.xml)|581|
+|[gjmovie.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gjmovie.xml)|585|
+|[gjrstar.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gjrstar.xml)|590|
+|[gl2000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gl2000.xml)|1920|
+|[gl6000sl.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gl6000sl.xml)|875|
+|[glcolor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/glcolor.xml)|1402|
+|[glcx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/glcx.xml)|1945|
+|[gln.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gln.xml)|1104|
+|[gls.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gls.xml)|601|
+|[gmaster.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gmaster.xml)|4751|
+|[gp32.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gp32.xml)|11136|
+|[guab.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/guab.xml)|2879|
+|[gx4000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/gx4000.xml)|8496|
+|[h21.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/h21.xml)|572|
+|[horizon.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/horizon.xml)|73785|
+|[hp85_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp85_rom.xml)|1825|
+|[hp86_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp86_rom.xml)|3124|
+|[hp9825_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9825_rom.xml)|3922|
+|[hp9831_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9831_rom.xml)|582|
+|[hp9835a_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9835a_rom.xml)|2138|
+|[hp9845a_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9845a_rom.xml)|3141|
+|[hp9845b_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9845b_rom.xml)|11443|
+|[hp9k3xx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp9k3xx_flop.xml)|15567|
+|[hp_ipc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp_ipc.xml)|16016|
+|[hp_ipc_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hp_ipc_rom.xml)|591|
+|[ht68k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ht68k.xml)|818|
+|[hx20_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hx20_rom.xml)|814|
+|[hyperscan_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/hyperscan_card.xml)|125043|
+|[i7000_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/i7000_card.xml)|5700|
+|[ibm5140.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5140.xml)|1531|
+|[ibm5150.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5150.xml)|410477|
+|[ibm5150_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5150_cass.xml)|616|
+|[ibm5170.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5170.xml)|576182|
+|[ibm5170_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm5170_cdrom.xml)|606|
+|[ibm6580.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibm6580.xml)|3829|
+|[ibmpcjr_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibmpcjr_cart.xml)|4256|
+|[ibmpcjr_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ibmpcjr_flop.xml)|3037|
+|[icanguit.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/icanguit.xml)|2356|
+|[icanpian.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/icanpian.xml)|4097|
+|[intellect02.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/intellect02.xml)|847|
+|[interact.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/interact.xml)|8332|
+|[interpro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/interpro.xml)|3141|
+|[intv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/intv.xml)|59405|
+|[intvecs.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/intvecs.xml)|4393|
+|[iq151_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/iq151_cart.xml)|1384|
+|[iq151_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/iq151_flop.xml)|683|
+|[ique.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ique.xml)|9745|
+|[iqunlim_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/iqunlim_cart.xml)|588|
+|[itt3030.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/itt3030.xml)|833|
+|[jaguar.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jaguar.xml)|25674|
+|[jakks_gamekey_dp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_dp.xml)|686|
+|[jakks_gamekey_dy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_dy.xml)|1339|
+|[jakks_gamekey_mv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_mv.xml)|641|
+|[jakks_gamekey_nk.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_nk.xml)|1318|
+|[jakks_gamekey_nm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_nm.xml)|1333|
+|[jakks_gamekey_sw.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jakks_gamekey_sw.xml)|1703|
+|[jb3000_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jb3000_flop.xml)|593|
+|[jpopira_jp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jpopira_jp.xml)|834|
+|[juicebox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/juicebox.xml)|5541|
+|[juku.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/juku.xml)|565|
+|[jupace_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jupace_cass.xml)|50105|
+|[jupace_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/jupace_snap.xml)|1660|
+|[k28m2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/k28m2.xml)|1597|
+|[kaypro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kaypro.xml)|5412|
+|[kc_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kc_cart.xml)|1602|
+|[kc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kc_cass.xml)|44868|
+|[kc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kc_flop.xml)|1567|
+|[kim1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/kim1_cass.xml)|594|
+|[korvet_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/korvet_flop.xml)|5695|
+|[lanteach.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lanteach.xml)|583|
+|[lantrans.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lantrans.xml)|3147|
+|[laser2001_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/laser2001_cart.xml)|586|
+|[laser2001_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/laser2001_flop.xml)|603|
+|[leapfrog_didj_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_didj_cart.xml)|1852|
+|[leapfrog_iquest_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_iquest_cart.xml)|867|
+|[leapfrog_leappad_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_leappad_cart.xml)|24953|
+|[leapfrog_ltleappad_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_ltleappad_cart.xml)|6680|
+|[leapfrog_mfleappad_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_mfleappad_cart.xml)|3746|
+|[leapfrog_zippity_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapfrog_zippity_cart.xml)|1352|
+|[leapster.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapster.xml)|37560|
+|[leapster_explorer_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/leapster_explorer_cart.xml)|1315|
+|[lisa.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lisa.xml)|21027|
+|[lisa2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lisa2.xml)|3192|
+|[lk3000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lk3000.xml)|1273|
+|[lviv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lviv.xml)|68819|
+|[lynx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/lynx.xml)|33513|
+|[m20.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m20.xml)|9701|
+|[m24.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m24.xml)|588|
+|[m5_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m5_cart.xml)|13066|
+|[m5_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m5_cass.xml)|6641|
+|[m5_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/m5_flop.xml)|595|
+|[mac_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mac_flop.xml)|5420|
+|[mac_hdflop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mac_hdflop.xml)|144149|
+|[mbc200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbc200.xml)|812|
+|[mbc55x.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbc55x.xml)|4523|
+|[mbee_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_cart.xml)|12395|
+|[mbee_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_cass.xml)|823|
+|[mbee_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_flop.xml)|138387|
+|[mbee_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mbee_quik.xml)|44229|
+|[mc10.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mc10.xml)|37522|
+|[mc1000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mc1000_cass.xml)|18191|
+|[mc1502_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mc1502_flop.xml)|872|
+|[md2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/md2_flop.xml)|1891|
+|[megadriv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megadriv.xml)|744876|
+|[megaduck.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megaduck.xml)|6347|
+|[megapc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megapc.xml)|1351|
+|[megatech.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/megatech.xml)|17979|
+|[mephisto_mm1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm1.xml)|588|
+|[mephisto_mm2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm2.xml)|589|
+|[mephisto_mm4.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm4.xml)|592|
+|[mephisto_mm5.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_mm5.xml)|591|
+|[mephisto_smondial2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mephisto_smondial2.xml)|602|
+|[microvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/microvision.xml)|4862|
+|[midi_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/midi_flop.xml)|888|
+|[mikro80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mikro80.xml)|1142|
+|[mikrosha_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mikrosha_cart.xml)|597|
+|[mikrosha_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mikrosha_cass.xml)|13780|
+|[mindset_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mindset_flop.xml)|694|
+|[misterx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/misterx.xml)|1124|
+|[mk14_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mk14_quik.xml)|1050|
+|[mm1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mm1_flop.xml)|1301|
+|[mo5_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_cart.xml)|12406|
+|[mo5_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_cass.xml)|447199|
+|[mo5_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_flop.xml)|22200|
+|[mo5_qd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo5_qd.xml)|6566|
+|[mo6_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo6_cass.xml)|42461|
+|[mo6_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mo6_flop.xml)|14152|
+|[mobigo_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mobigo_cart.xml)|14332|
+|[monon_color.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/monon_color.xml)|5865|
+|[mpf1_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mpf1_rom.xml)|812|
+|[mpu1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mpu1000.xml)|576|
+|[mpz80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mpz80.xml)|8997|
+|[msx1_bee_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_bee_card.xml)|3084|
+|[msx1_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_cart.xml)|343139|
+|[msx1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_cass.xml)|398691|
+|[msx1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_flop.xml)|127786|
+|[msx1_flop_525.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx1_flop_525.xml)|645|
+|[msx2_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2_cart.xml)|59553|
+|[msx2_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2_cass.xml)|1398|
+|[msx2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2_flop.xml)|431869|
+|[msx2p_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx2p_flop.xml)|16434|
+|[msx_softcard.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msx_softcard.xml)|1129|
+|[msxr_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/msxr_flop.xml)|20353|
+|[mt65_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mt65_cass.xml)|2256|
+|[mt65_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mt65_rom.xml)|4680|
+|[mt65_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mt65_snap.xml)|3944|
+|[mtu130_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtu130_flop.xml)|2158|
+|[mtx_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_cart.xml)|2400|
+|[mtx_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_cass.xml)|15723|
+|[mtx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_flop.xml)|2909|
+|[mtx_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mtx_rom.xml)|1611|
+|[myvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/myvision.xml)|1974|
+|[mz2000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2000_cass.xml)|2447|
+|[mz2000_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2000_flop.xml)|3561|
+|[mz2200_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2200_cass.xml)|2514|
+|[mz2500.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz2500.xml)|18648|
+|[mz700_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz700_cass.xml)|60933|
+|[mz800_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/mz800_cass.xml)|3883|
+|[n64.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/n64.xml)|286013|
+|[n64dd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/n64dd.xml)|4105|
+|[nascom_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nascom_flop.xml)|2684|
+|[nascom_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nascom_snap.xml)|18021|
+|[nascom_socket.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nascom_socket.xml)|1816|
+|[neogeo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/neogeo.xml)|291024|
+|[nes.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes.xml)|1660516|
+|[nes_ade.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_ade.xml)|2268|
+|[nes_datach.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_datach.xml)|2708|
+|[nes_kstudio.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_kstudio.xml)|1061|
+|[nes_ntbrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_ntbrom.xml)|1029|
+|[nes_vt_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nes_vt_cart.xml)|662|
+|[next.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/next.xml)|2388|
+|[ngp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ngp.xml)|3548|
+|[ngpc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ngpc.xml)|36698|
+|[nimbus.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/nimbus.xml)|8977|
+|[novag_ssensor4.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/novag_ssensor4.xml)|583|
+|[octopus.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/octopus.xml)|2232|
+|[ondra.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ondra.xml)|2868|
+|[orao.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orao.xml)|14447|
+|[orion_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orion_cart.xml)|829|
+|[orion_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orion_cass.xml)|20272|
+|[orion_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orion_flop.xml)|30688|
+|[orionpro_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/orionpro_flop.xml)|9033|
+|[osborne1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/osborne1.xml)|6255|
+|[osborne2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/osborne2.xml)|1495|
+|[p500_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/p500_flop.xml)|846|
+|[partner_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/partner_cass.xml)|18040|
+|[partner_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/partner_flop.xml)|814|
+|[pasogo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pasogo.xml)|1838|
+|[pasopia_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pasopia_cass.xml)|1872|
+|[pb2000c.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pb2000c.xml)|834|
+|[pc1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc1000.xml)|3589|
+|[pc1512_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc1512_flop.xml)|2809|
+|[pc1640_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc1640_flop.xml)|1485|
+|[pc200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc200.xml)|1141|
+|[pc6001_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc6001_cart.xml)|3308|
+|[pc8001_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8001_flop.xml)|70590|
+|[pc8001mk2_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8001mk2_flop.xml)|3632|
+|[pc8001mk2sr_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8001mk2sr_flop.xml)|1948|
+|[pc8201.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8201.xml)|1358|
+|[pc8801_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8801_cass.xml)|28515|
+|[pc8801_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc8801_flop.xml)|1044680|
+|[pc88va.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc88va.xml)|22455|
+|[pc98.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc98.xml)|1421531|
+|[pc98_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pc98_cd.xml)|15510|
+|[pcd_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcd_flop.xml)|1530|
+|[pce.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pce.xml)|88990|
+|[pce_tourvision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pce_tourvision.xml)|37442|
+|[pcw.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcw.xml)|42640|
+|[pcw16.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcw16.xml)|1713|
+|[pcx_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pcx_flop.xml)|4083|
+|[pdp1_ptp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pdp1_ptp.xml)|1068|
+|[pecom_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pecom_cass.xml)|2863|
+|[pegasus_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pegasus_cart.xml)|4950|
+|[pencil2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pencil2.xml)|1182|
+|[pentagon_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pentagon_cass.xml)|891|
+|[pet_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_cass.xml)|70173|
+|[pet_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_flop.xml)|16633|
+|[pet_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_quik.xml)|814|
+|[pet_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pet_rom.xml)|9998|
+|[phc25_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/phc25_cass.xml)|7101|
+|[pi_storyreader_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pi_storyreader_cart.xml)|15884|
+|[pi_storyreader_v2_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pi_storyreader_v2_cart.xml)|662|
+|[picno.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/picno.xml)|5398|
+|[pico.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pico.xml)|133911|
+|[pippin_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pippin_flop.xml)|577|
+|[plus4_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/plus4_cart.xml)|5081|
+|[plus4_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/plus4_cass.xml)|733|
+|[plus4_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/plus4_flop.xml)|1434|
+|[pmd85_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pmd85_cass.xml)|15400|
+|[pockchalv2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pockchalv2.xml)|6325|
+|[pockchalw.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pockchalw.xml)|12905|
+|[pofo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pofo.xml)|583|
+|[poisk1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/poisk1_flop.xml)|860|
+|[pokemini.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pokemini.xml)|13431|
+|[poly_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/poly_flop.xml)|905|
+|[princ.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/princ.xml)|1970|
+|[pro128_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128_cart.xml)|1378|
+|[pro128_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128_cass.xml)|54455|
+|[pro128_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128_flop.xml)|999|
+|[pro128s_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pro128s_flop.xml)|9307|
+|[prof180.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/prof180.xml)|915|
+|[prof80.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/prof80.xml)|680|
+|[psi98.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/psi98.xml)|933|
+|[psion1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/psion1.xml)|2488|
+|[psion2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/psion2.xml)|32258|
+|[pt68k2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pt68k2.xml)|584|
+|[pv1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pv1000.xml)|3457|
+|[pv2000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pv2000.xml)|3558|
+|[px4_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/px4_cart.xml)|1793|
+|[px8_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/px8_cart.xml)|4906|
+|[pyl601.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/pyl601.xml)|3955|
+|[ql_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ql_cart.xml)|1077|
+|[ql_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ql_cass.xml)|1508|
+|[ql_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ql_flop.xml)|1630|
+|[qx10_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/qx10_flop.xml)|2082|
+|[r8_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/r8_card.xml)|846|
+|[r9751.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/r9751.xml)|5196|
+|[radio86_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/radio86_cart.xml)|573|
+|[radio86_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/radio86_cass.xml)|25181|
+|[rainbow.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rainbow.xml)|5851|
+|[roland_tnsc1.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/roland_tnsc1.xml)|1639|
+|[rwtrntcs.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rwtrntcs.xml)|831|
+|[rx78_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rx78_cart.xml)|6969|
+|[rx78_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rx78_cass.xml)|583|
+|[rz1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/rz1_cass.xml)|1528|
+|[sagafox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sagafox.xml)|563|
+|[sage2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sage2.xml)|2291|
+|[saitek_egr.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/saitek_egr.xml)|809|
+|[saitek_kso.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/saitek_kso.xml)|566|
+|[saitek_schess.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/saitek_schess.xml)|836|
+|[samcoupe_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/samcoupe_cass.xml)|886|
+|[samcoupe_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/samcoupe_flop.xml)|5552|
+|[sat_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sat_cart.xml)|1407|
+|[sat_vccart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sat_vccart.xml)|2552|
+|[sawatte.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sawatte.xml)|6557|
+|[sbrain.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sbrain.xml)|557|
+|[sc3000_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sc3000_cart.xml)|8400|
+|[sc3000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sc3000_cass.xml)|4937|
+|[scv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/scv.xml)|8540|
+|[sdk85.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sdk85.xml)|823|
+|[sega_beena_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sega_beena_cart.xml)|32809|
+|[sf7000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sf7000.xml)|7711|
+|[sg1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sg1000.xml)|57337|
+|[sgx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sgx.xml)|1629|
+|[singingstarkaraoke_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/singingstarkaraoke_cart.xml)|1206|
+|[sitcom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sitcom.xml)|3847|
+|[smarttv_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/smarttv_cart.xml)|647|
+|[smc777.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/smc777.xml)|4433|
+|[sms.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sms.xml)|176703|
+|[snes.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snes.xml)|1098448|
+|[snes_bspack.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snes_bspack.xml)|126859|
+|[snes_strom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snes_strom.xml)|4334|
+|[snotec.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snotec.xml)|3066|
+|[snread.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snread.xml)|2389|
+|[snspell.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/snspell.xml)|3721|
+|[socrates.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/socrates.xml)|2429|
+|[softbox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/softbox.xml)|612|
+|[sol20_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sol20_cass.xml)|11787|
+|[sorcerer_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sorcerer_cart.xml)|3116|
+|[sorcerer_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sorcerer_cass.xml)|31027|
+|[sorcerer_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sorcerer_flop.xml)|1340|
+|[spc1000_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spc1000_cass.xml)|27654|
+|[spc1500_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spc1500_cass.xml)|1323|
+|[special_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/special_cass.xml)|39358|
+|[special_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/special_flop.xml)|827|
+|[specpls3_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/specpls3_flop.xml)|504146|
+|[spectrum_betadisc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_betadisc_flop.xml)|4031|
+|[spectrum_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_cart.xml)|5722|
+|[spectrum_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_cass.xml)|4206700|
+|[spectrum_flop_opus.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_flop_opus.xml)|22737|
+|[spectrum_mgt_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_mgt_flop.xml)|3204|
+|[spectrum_microdrive.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_microdrive.xml)|19614|
+|[spectrum_wafadrive.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/spectrum_wafadrive.xml)|622|
+|[sprachmg.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sprachmg.xml)|3973|
+|[squale_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/squale_cart.xml)|860|
+|[ssem_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ssem_quik.xml)|3269|
+|[st_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/st_cart.xml)|2211|
+|[st_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/st_flop.xml)|106072|
+|[stepone_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/stepone_flop.xml)|2980|
+|[studio2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/studio2.xml)|10709|
+|[stv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/stv.xml)|54701|
+|[super6.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/super6.xml)|3153|
+|[super80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/super80_cass.xml)|46372|
+|[super80_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/super80_flop.xml)|1103|
+|[superpet_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/superpet_flop.xml)|7629|
+|[supracan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/supracan.xml)|3489|
+|[sv8000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/sv8000.xml)|2041|
+|[svi318_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svi318_cart.xml)|2752|
+|[svi318_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svi318_cass.xml)|57633|
+|[svi318_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svi318_flop.xml)|1720|
+|[svision.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svision.xml)|18263|
+|[svmu.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/svmu.xml)|20579|
+|[t1000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/t1000.xml)|4897|
+|[tandy200.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tandy200.xml)|1355|
+|[tandy2k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tandy2k.xml)|2715|
+|[tandy6k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tandy6k.xml)|2743|
+|[tdv2324.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tdv2324.xml)|2302|
+|[tek4052_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tek4052_cart.xml)|2038|
+|[telestory_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/telestory_cart.xml)|4129|
+|[tg16.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tg16.xml)|25824|
+|[ti74_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ti74_cart.xml)|1074|
+|[ti95_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ti95_cart.xml)|842|
+|[ti99_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ti99_cart.xml)|132617|
+|[tiki100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tiki100.xml)|22837|
+|[timex_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/timex_cass.xml)|33304|
+|[timex_dock.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/timex_dock.xml)|8877|
+|[tntell.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tntell.xml)|2113|
+|[to770_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to770_cart.xml)|578|
+|[to770a_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to770a_cart.xml)|592|
+|[to7_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to7_cart.xml)|14968|
+|[to7_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to7_cass.xml)|193622|
+|[to7_qd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to7_qd.xml)|5769|
+|[to8_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to8_cass.xml)|4349|
+|[to8_qd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to8_qd.xml)|1401|
+|[to_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/to_flop.xml)|343207|
+|[triton_rom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/triton_rom.xml)|569|
+|[trs80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80_cass.xml)|15243|
+|[trs80_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80_flop.xml)|1314|
+|[trs80_quik.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80_quik.xml)|24482|
+|[trs80m2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trs80m2.xml)|5341|
+|[trsm100.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/trsm100.xml)|3677|
+|[tsconf_betadisc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tsconf_betadisc_flop.xml)|896|
+|[ttwist_brainquest_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ttwist_brainquest_cart.xml)|630|
+|[turboextreme_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/turboextreme_cart.xml)|607|
+|[tutor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tutor.xml)|8318|
+|[tvc_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvc_cart.xml)|3583|
+|[tvc_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvc_cass.xml)|69991|
+|[tvc_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvc_flop.xml)|214020|
+|[tvgogo.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tvgogo.xml)|2846|
+|[tx0_ptp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/tx0_ptp.xml)|1429|
+|[u110_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/u110_card.xml)|5139|
+|[unichamp.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/unichamp.xml)|1318|
+|[ut88.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/ut88.xml)|1569|
+|[uzebox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/uzebox.xml)|32124|
+|[v1050_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/v1050_flop.xml)|2626|
+|[vbaby_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vbaby_cart.xml)|619|
+|[vboy.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vboy.xml)|9049|
+|[vc4000.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vc4000.xml)|10219|
+|[vector06_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vector06_cart.xml)|573|
+|[vector06_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vector06_flop.xml)|4577|
+|[vectrex.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vectrex.xml)|18994|
+|[vg5k.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vg5k.xml)|18337|
+|[vgmplay.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vgmplay.xml)|8259786|
+|[vic10.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic10.xml)|7760|
+|[vic1001_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic1001_cart.xml)|87823|
+|[vic1001_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic1001_cass.xml)|912|
+|[vic1001_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vic1001_flop.xml)|1935|
+|[victor9k_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/victor9k_flop.xml)|977|
+|[vidbrain.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vidbrain.xml)|5361|
+|[videopac.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/videopac.xml)|51698|
+|[vii.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vii.xml)|836|
+|[vip.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vip.xml)|681|
+|[visicom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/visicom.xml)|1535|
+|[vixen.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vixen.xml)|4591|
+|[vsmile_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vsmile_cart.xml)|93485|
+|[vsmileb_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vsmileb_cart.xml)|6862|
+|[vsmilem_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vsmilem_cart.xml)|32342|
+|[vtech2_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech2_cass.xml)|1578|
+|[vtech_innotab_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech_innotab_cart.xml)|1260|
+|[vtech_innotv_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech_innotv_cart.xml)|1456|
+|[vtech_storio_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vtech_storio_cart.xml)|4100|
+|[vz_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vz_cass.xml)|4180|
+|[vz_snap.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/vz_snap.xml)|42644|
+|[wangpc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wangpc.xml)|2042|
+|[waveterm.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/waveterm.xml)|1615|
+|[wicat.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wicat.xml)|5530|
+|[wizard_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wizard_cart.xml)|1399|
+|[wmbullet.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wmbullet.xml)|1381|
+|[wscolor.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wscolor.xml)|28378|
+|[wswan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/wswan.xml)|34188|
+|[x07_card.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x07_card.xml)|563|
+|[x07_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x07_cass.xml)|26175|
+|[x1_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x1_cass.xml)|44381|
+|[x1_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x1_flop.xml)|130448|
+|[x37_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x37_flop.xml)|3143|
+|[x68k_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/x68k_flop.xml)|785819|
+|[xegs.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/xegs.xml)|12242|
+|[xerox820.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/xerox820.xml)|3330|
+|[xerox820ii.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/xerox820ii.xml)|2790|
+|[z80clock.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z80clock.xml)|3909|
+|[z80ne_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z80ne_cass.xml)|24396|
+|[z80ne_flop.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z80ne_flop.xml)|10342|
+|[z88_cart.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/z88_cart.xml)|14805|
+|[zorba.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/zorba.xml)|13411|
+|[zx80_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/zx80_cass.xml)|2103|
+|[zx81_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (split)/zx81_cass.xml)|185686|

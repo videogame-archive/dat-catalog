@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[CAS]]([CAS]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[CGD]]([CGD]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[CMD]]([CMD]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[CAS]]([CAS]/index.html)|DIR|
+|[[CGD]]([CGD]/index.html)|DIR|
+|[[CMD]]([CMD]/index.html)|DIR|

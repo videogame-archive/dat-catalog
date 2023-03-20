@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Apple - Macintosh (BETA) (FluxDumps) (20220831-024638).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/Apple - Macintosh (BETA) (FluxDumps)/Apple - Macintosh (BETA) (FluxDumps) (20220831-024638).dat)
-</td><td>854061</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Apple - Macintosh (BETA) (FluxDumps) (20220831-024638).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/Apple - Macintosh (BETA) (FluxDumps)/Apple - Macintosh (BETA) (FluxDumps) (20220831-024638).dat)|854061|

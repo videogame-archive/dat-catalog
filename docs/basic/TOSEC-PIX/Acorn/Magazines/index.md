@@ -1,18 +1,7 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Acorn Action](Acorn Action/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Acorn Programs](Acorn Programs/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Acorn User](Acorn User/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Let's Compute](Let's Compute/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Micro User, The](Micro User, The/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Acorn Action](Acorn Action/index.html)|DIR|
+|[Acorn Programs](Acorn Programs/index.html)|DIR|
+|[Acorn User](Acorn User/index.html)|DIR|
+|[Let's Compute](Let's Compute/index.html)|DIR|
+|[Micro User, The](Micro User, The/index.html)|DIR|

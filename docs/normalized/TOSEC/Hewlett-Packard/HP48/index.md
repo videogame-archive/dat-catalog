@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Firmware](Firmware/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Various](Various/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Firmware](Firmware/index.html)|DIR|
+|[Various](Various/index.html)|DIR|

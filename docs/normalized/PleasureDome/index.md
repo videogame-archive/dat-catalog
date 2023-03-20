@@ -1,15 +1,6 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Fruit Machines](Fruit Machines/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[HBMAME](HBMAME/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[MAME](MAME/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[MAME Reference Sets](MAME Reference Sets/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Fruit Machines](Fruit Machines/index.html)|DIR|
+|[HBMAME](HBMAME/index.html)|DIR|
+|[MAME](MAME/index.html)|DIR|
+|[MAME Reference Sets](MAME Reference Sets/index.html)|DIR|

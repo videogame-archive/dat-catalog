@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sega Computer 3000 - Catalogs (TOSEC-v2012-07-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Computer 3000/Catalogs/Sega Computer 3000 - Catalogs/Sega Computer 3000 - Catalogs (TOSEC-v2012-07-21_CM).dat)
-</td><td>932</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sega Computer 3000 - Catalogs (TOSEC-v2012-07-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Computer 3000/Catalogs/Sega Computer 3000 - Catalogs/Sega Computer 3000 - Catalogs (TOSEC-v2012-07-21_CM).dat)|932|

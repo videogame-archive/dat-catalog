@@ -1,39 +1,14 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Applications](Applications/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Compilations](Compilations/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Demos](Demos/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Docs](Docs/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Educational](Educational/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Games](Games/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Graphics](Graphics/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Hard Disks](Hard Disks/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[HyperCard Stacks](HyperCard Stacks/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Operating Systems](Operating Systems/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Patches](Patches/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Sources](Sources/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Applications](Applications/index.html)|DIR|
+|[Compilations](Compilations/index.html)|DIR|
+|[Demos](Demos/index.html)|DIR|
+|[Docs](Docs/index.html)|DIR|
+|[Educational](Educational/index.html)|DIR|
+|[Games](Games/index.html)|DIR|
+|[Graphics](Graphics/index.html)|DIR|
+|[Hard Disks](Hard Disks/index.html)|DIR|
+|[HyperCard Stacks](HyperCard Stacks/index.html)|DIR|
+|[Operating Systems](Operating Systems/index.html)|DIR|
+|[Patches](Patches/index.html)|DIR|
+|[Sources](Sources/index.html)|DIR|

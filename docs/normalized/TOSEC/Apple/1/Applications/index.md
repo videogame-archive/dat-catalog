@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Apple 1 - Applications](Apple 1 - Applications/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Apple 1 - Applications](Apple 1 - Applications/index.html)|DIR|

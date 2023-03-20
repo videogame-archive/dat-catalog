@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Multi-format - Magazines - Input](Multi-format - Magazines - Input/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Multi-format - Magazines - Input](Multi-format - Magazines - Input/index.html)|DIR|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore - Magazines - Commodore Computer Club (IT) (TOSEC-v2014-02-01_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/Commodore Computer Club (IT)/Commodore - Magazines - Commodore Computer Club (IT)/Commodore - Magazines - Commodore Computer Club (IT) (TOSEC-v2014-02-01_CM).dat)
-</td><td>37873</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore - Magazines - Commodore Computer Club (IT) (TOSEC-v2014-02-01_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/Commodore Computer Club (IT)/Commodore - Magazines - Commodore Computer Club (IT)/Commodore - Magazines - Commodore Computer Club (IT) (TOSEC-v2014-02-01_CM).dat)|37873|

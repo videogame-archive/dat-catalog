@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Sources](Sources/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[System](System/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Sources](Sources/index.html)|DIR|
+|[System](System/index.html)|DIR|

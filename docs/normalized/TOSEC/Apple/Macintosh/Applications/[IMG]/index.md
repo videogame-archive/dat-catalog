@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Apple Macintosh - Applications - [IMG]](Apple Macintosh - Applications - [IMG]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Apple Macintosh - Applications - [IMG]](Apple Macintosh - Applications - [IMG]/index.html)|DIR|

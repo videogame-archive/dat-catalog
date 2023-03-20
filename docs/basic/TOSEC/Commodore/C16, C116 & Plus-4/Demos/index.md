@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[D64]]([D64]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[PRG]]([PRG]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[D64]]([D64]/index.html)|DIR|
+|[[PRG]]([PRG]/index.html)|DIR|

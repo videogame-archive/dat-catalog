@@ -1,27 +1,10 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[ADF]]([ADF]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[EXE]]([EXE]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[Unofficial IPF]]([Unofficial IPF]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Emerald Mine](Emerald Mine/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Public Domain](Public Domain/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Save Disks](Save Disks/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[SPS](SPS/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Unofficial Addons & Patches](Unofficial Addons & Patches/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[ADF]]([ADF]/index.html)|DIR|
+|[[EXE]]([EXE]/index.html)|DIR|
+|[[Unofficial IPF]]([Unofficial IPF]/index.html)|DIR|
+|[Emerald Mine](Emerald Mine/index.html)|DIR|
+|[Public Domain](Public Domain/index.html)|DIR|
+|[Save Disks](Save Disks/index.html)|DIR|
+|[SPS](SPS/index.html)|DIR|
+|[Unofficial Addons & Patches](Unofficial Addons & Patches/index.html)|DIR|

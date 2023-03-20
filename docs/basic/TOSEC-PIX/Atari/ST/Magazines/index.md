@@ -1,36 +1,13 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Atari ST Review](Atari ST Review/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Atari ST User](Atari ST User/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Atari STen (SE)](Atari STen (SE)/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Atari World](Atari World/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[COMPUTE!'s Atari ST](COMPUTE!'s Atari ST/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[One for ST Games, The](One for ST Games, The/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[ST Action](ST Action/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[ST Format](ST Format/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[ST Magazine (FR)](ST Magazine (FR)/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[ST-Log](ST-Log/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[STart](STart/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Atari ST Review](Atari ST Review/index.html)|DIR|
+|[Atari ST User](Atari ST User/index.html)|DIR|
+|[Atari STen (SE)](Atari STen (SE)/index.html)|DIR|
+|[Atari World](Atari World/index.html)|DIR|
+|[COMPUTE!'s Atari ST](COMPUTE!'s Atari ST/index.html)|DIR|
+|[One for ST Games, The](One for ST Games, The/index.html)|DIR|
+|[ST Action](ST Action/index.html)|DIR|
+|[ST Format](ST Format/index.html)|DIR|
+|[ST Magazine (FR)](ST Magazine (FR)/index.html)|DIR|
+|[ST-Log](ST-Log/index.html)|DIR|
+|[STart](STart/index.html)|DIR|

@@ -1,21 +1,8 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Applications](Applications/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Collections](Collections/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Compilations](Compilations/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Docs](Docs/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Games](Games/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Operating Systems](Operating Systems/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Applications](Applications/index.html)|DIR|
+|[Collections](Collections/index.html)|DIR|
+|[Compilations](Compilations/index.html)|DIR|
+|[Docs](Docs/index.html)|DIR|
+|[Games](Games/index.html)|DIR|
+|[Operating Systems](Operating Systems/index.html)|DIR|

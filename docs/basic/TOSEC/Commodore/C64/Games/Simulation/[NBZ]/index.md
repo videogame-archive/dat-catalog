@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore C64 - Games - Simulation - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Simulation/[NBZ]/Commodore C64 - Games - Simulation - [NBZ].dat)
-</td><td>19135</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore C64 - Games - Simulation - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Simulation/[NBZ]/Commodore C64 - Games - Simulation - [NBZ].dat)|19135|

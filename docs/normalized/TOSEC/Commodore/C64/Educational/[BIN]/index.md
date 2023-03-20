@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore C64 - Educational - [BIN]](Commodore C64 - Educational - [BIN]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore C64 - Educational - [BIN]](Commodore C64 - Educational - [BIN]/index.html)|DIR|

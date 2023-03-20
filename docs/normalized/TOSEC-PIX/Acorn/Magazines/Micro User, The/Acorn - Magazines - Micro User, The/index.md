@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Acorn - Magazines - Micro User, The (TOSEC-v2012-02-25_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/Magazines/Micro User, The/Acorn - Magazines - Micro User, The/Acorn - Magazines - Micro User, The (TOSEC-v2012-02-25_CM).dat)
-</td><td>6830</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Acorn - Magazines - Micro User, The (TOSEC-v2012-02-25_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/Magazines/Micro User, The/Acorn - Magazines - Micro User, The/Acorn - Magazines - Micro User, The (TOSEC-v2012-02-25_CM).dat)|6830|

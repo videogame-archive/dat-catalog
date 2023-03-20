@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore C128 - Games - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C128/Games/[NBZ]/Commodore C128 - Games - [NBZ].dat)
-</td><td>6555</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore C128 - Games - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C128/Games/[NBZ]/Commodore C128 - Games - [NBZ].dat)|6555|

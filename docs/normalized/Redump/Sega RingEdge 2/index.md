@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Arcade - Sega - RingEdge 2 - Datfile (7) (2020-01-21 02-01-20).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Sega RingEdge 2/Arcade - Sega - RingEdge 2 - Datfile (7) (2020-01-21 02-01-20).dat)
-</td><td>2831</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Arcade - Sega - RingEdge 2 - Datfile (7) (2020-01-21 02-01-20).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Sega RingEdge 2/Arcade - Sega - RingEdge 2 - Datfile (7) (2020-01-21 02-01-20).dat)|2831|

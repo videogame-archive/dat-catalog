@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[MEGA MEGA65 - Games (TOSEC-v2022-06-08_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MEGA/MEGA65/Games/MEGA MEGA65 - Games/MEGA MEGA65 - Games (TOSEC-v2022-06-08_CM).dat)
-</td><td>2728</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[MEGA MEGA65 - Games (TOSEC-v2022-06-08_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MEGA/MEGA65/Games/MEGA MEGA65 - Games/MEGA MEGA65 - Games (TOSEC-v2022-06-08_CM).dat)|2728|

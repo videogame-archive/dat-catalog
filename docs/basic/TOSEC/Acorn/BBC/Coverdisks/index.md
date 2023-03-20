@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[DSD]]([DSD]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[SSD]]([SSD]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[DSD]]([DSD]/index.html)|DIR|
+|[[SSD]]([SSD]/index.html)|DIR|

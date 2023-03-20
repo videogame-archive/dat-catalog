@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[BIN]]([BIN]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[D88]]([D88]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[HDM]]([HDM]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[BIN]]([BIN]/index.html)|DIR|
+|[[D88]]([D88]/index.html)|DIR|
+|[[HDM]]([HDM]/index.html)|DIR|

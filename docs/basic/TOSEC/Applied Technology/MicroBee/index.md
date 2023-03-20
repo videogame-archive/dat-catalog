@@ -1,15 +1,6 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Compilations](Compilations/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Educational](Educational/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Games](Games/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Operating Systems](Operating Systems/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Compilations](Compilations/index.html)|DIR|
+|[Educational](Educational/index.html)|DIR|
+|[Games](Games/index.html)|DIR|
+|[Operating Systems](Operating Systems/index.html)|DIR|

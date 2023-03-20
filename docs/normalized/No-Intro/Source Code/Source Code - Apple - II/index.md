@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Source Code - Apple - II (20230107-005706).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/Source Code/Source Code - Apple - II/Source Code - Apple - II (20230107-005706).dat)
-</td><td>883</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Source Code - Apple - II (20230107-005706).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/Source Code/Source Code - Apple - II/Source Code - Apple - II (20230107-005706).dat)|883|

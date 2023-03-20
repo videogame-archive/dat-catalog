@@ -1,39 +1,14 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Artbooks](Artbooks/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Books](Books/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Catalogs](Catalogs/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Comics](Comics/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Commercials](Commercials/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Game Guides](Game Guides/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Magazines](Magazines/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Manuals](Manuals/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Newsletters](Newsletters/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[TV Series](TV Series/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[TV Shows](TV Shows/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Video](Video/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Artbooks](Artbooks/index.html)|DIR|
+|[Books](Books/index.html)|DIR|
+|[Catalogs](Catalogs/index.html)|DIR|
+|[Comics](Comics/index.html)|DIR|
+|[Commercials](Commercials/index.html)|DIR|
+|[Game Guides](Game Guides/index.html)|DIR|
+|[Magazines](Magazines/index.html)|DIR|
+|[Manuals](Manuals/index.html)|DIR|
+|[Newsletters](Newsletters/index.html)|DIR|
+|[TV Series](TV Series/index.html)|DIR|
+|[TV Shows](TV Shows/index.html)|DIR|
+|[Video](Video/index.html)|DIR|

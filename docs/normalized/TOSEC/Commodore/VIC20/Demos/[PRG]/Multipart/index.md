@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore VIC20 - Demos - [PRG] - Multipart](Commodore VIC20 - Demos - [PRG] - Multipart/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore VIC20 - Demos - [PRG] - Multipart](Commodore VIC20 - Demos - [PRG] - Multipart/index.html)|DIR|

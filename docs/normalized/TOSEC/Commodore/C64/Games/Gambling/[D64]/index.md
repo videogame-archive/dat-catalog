@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore C64 - Games - Gambling - [D64]](Commodore C64 - Games - Gambling - [D64]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore C64 - Games - Gambling - [D64]](Commodore C64 - Games - Gambling - [D64]/index.html)|DIR|

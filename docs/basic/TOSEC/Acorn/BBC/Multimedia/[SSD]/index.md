@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Acorn BBC - Multimedia - [SSD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/BBC/Multimedia/[SSD]/Acorn BBC - Multimedia - [SSD].dat)
-</td><td>21443</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Acorn BBC - Multimedia - [SSD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/BBC/Multimedia/[SSD]/Acorn BBC - Multimedia - [SSD].dat)|21443|

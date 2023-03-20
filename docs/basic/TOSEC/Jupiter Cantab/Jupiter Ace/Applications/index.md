@@ -1,12 +1,5 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[[ACE]]([ACE]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[TAP]]([TAP]/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[[WAV]]([WAV]/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[[ACE]]([ACE]/index.html)|DIR|
+|[[TAP]]([TAP]/index.html)|DIR|
+|[[WAV]]([WAV]/index.html)|DIR|

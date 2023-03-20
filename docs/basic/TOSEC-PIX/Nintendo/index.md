@@ -1,57 +1,20 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[3DS](3DS/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[64](64/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[64DD](64DD/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Books](Books/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Commercials](Commercials/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[DS](DS/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Famicom & Entertainment System](Famicom & Entertainment System/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Famicom Disk System](Famicom Disk System/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Game Boy](Game Boy/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Game Boy Advance](Game Boy Advance/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[GameCube](GameCube/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Magazines](Magazines/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Switch](Switch/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Video](Video/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Virtual Boy](Virtual Boy/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Wii](Wii/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Wii U](Wii U/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[3DS](3DS/index.html)|DIR|
+|[64](64/index.html)|DIR|
+|[64DD](64DD/index.html)|DIR|
+|[Books](Books/index.html)|DIR|
+|[Commercials](Commercials/index.html)|DIR|
+|[DS](DS/index.html)|DIR|
+|[Famicom & Entertainment System](Famicom & Entertainment System/index.html)|DIR|
+|[Famicom Disk System](Famicom Disk System/index.html)|DIR|
+|[Game Boy](Game Boy/index.html)|DIR|
+|[Game Boy Advance](Game Boy Advance/index.html)|DIR|
+|[GameCube](GameCube/index.html)|DIR|
+|[Magazines](Magazines/index.html)|DIR|
+|[Super Famicom & Super Entertainment System](Super Famicom & Super Entertainment System/index.html)|DIR|
+|[Switch](Switch/index.html)|DIR|
+|[Video](Video/index.html)|DIR|
+|[Virtual Boy](Virtual Boy/index.html)|DIR|
+|[Wii](Wii/index.html)|DIR|
+|[Wii U](Wii U/index.html)|DIR|

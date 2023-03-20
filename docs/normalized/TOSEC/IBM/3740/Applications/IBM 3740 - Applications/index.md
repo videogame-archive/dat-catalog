@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IBM 3740 - Applications (TOSEC-v2021-12-11_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/3740/Applications/IBM 3740 - Applications/IBM 3740 - Applications (TOSEC-v2021-12-11_CM).dat)
-</td><td>852</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IBM 3740 - Applications (TOSEC-v2021-12-11_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/3740/Applications/IBM 3740 - Applications/IBM 3740 - Applications (TOSEC-v2021-12-11_CM).dat)|852|

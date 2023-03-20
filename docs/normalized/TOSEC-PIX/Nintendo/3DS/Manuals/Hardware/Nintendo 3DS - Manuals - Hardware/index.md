@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Nintendo 3DS - Manuals - Hardware (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/3DS/Manuals/Hardware/Nintendo 3DS - Manuals - Hardware/Nintendo 3DS - Manuals - Hardware (TOSEC-v2022-12-21_CM).dat)
-</td><td>3473</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Nintendo 3DS - Manuals - Hardware (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/3DS/Manuals/Hardware/Nintendo 3DS - Manuals - Hardware/Nintendo 3DS - Manuals - Hardware (TOSEC-v2022-12-21_CM).dat)|3473|

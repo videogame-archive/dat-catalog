@@ -1,9 +1,4 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[PC Compatibles](PC Compatibles/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[PCjr](PCjr/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[PC Compatibles](PC Compatibles/index.html)|DIR|
+|[PCjr](PCjr/index.html)|DIR|

@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Nintendo Super Famicom & Super Entertainment System - Books (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Super Famicom & Super Entertainment System/Books/Nintendo Super Famicom & Super Entertainment System - Books/Nintendo Super Famicom & Super Entertainment System - Books (TOSEC-v2022-12-21_CM).dat)
-</td><td>985</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Nintendo Super Famicom & Super Entertainment System - Books (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Super Famicom & Super Entertainment System/Books/Nintendo Super Famicom & Super Entertainment System - Books/Nintendo Super Famicom & Super Entertainment System - Books (TOSEC-v2022-12-21_CM).dat)|985|

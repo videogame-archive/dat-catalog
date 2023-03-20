@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Commodore Amiga - Magazines - Amiga Joker (DE)](Commodore Amiga - Magazines - Amiga Joker (DE)/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Commodore Amiga - Magazines - Amiga Joker (DE)](Commodore Amiga - Magazines - Amiga Joker (DE)/index.html)|DIR|

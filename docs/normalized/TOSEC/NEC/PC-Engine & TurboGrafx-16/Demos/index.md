@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[NEC PC-Engine & TurboGrafx-16 - Demos](NEC PC-Engine & TurboGrafx-16 - Demos/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[NEC PC-Engine & TurboGrafx-16 - Demos](NEC PC-Engine & TurboGrafx-16 - Demos/index.html)|DIR|

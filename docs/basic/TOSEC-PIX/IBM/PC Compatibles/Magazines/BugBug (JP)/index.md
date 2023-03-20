@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[IBM PC Compatibles - Magazines - BugBug (JP).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/BugBug (JP)/IBM PC Compatibles - Magazines - BugBug (JP).dat)
-</td><td>8542</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[IBM PC Compatibles - Magazines - BugBug (JP).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/BugBug (JP)/IBM PC Compatibles - Magazines - BugBug (JP).dat)|8542|

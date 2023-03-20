@@ -1,24 +1,9 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Apple 2000](Apple 2000/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Apple Magazine](Apple Magazine/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Applicando (IT)](Applicando (IT)/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Australian Apple Review, The](Australian Apple Review, The/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[COMPUTE!'s Apple Applications](COMPUTE!'s Apple Applications/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Hardcore](Hardcore/index.html)
-</td><td>DIR</td></tr>
-<tr><td>
-[Tap the iPhone and iPad Magazine](Tap the iPhone and iPad Magazine/index.html)
-</td><td>DIR</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Apple 2000](Apple 2000/index.html)|DIR|
+|[Apple Magazine](Apple Magazine/index.html)|DIR|
+|[Applicando (IT)](Applicando (IT)/index.html)|DIR|
+|[Australian Apple Review, The](Australian Apple Review, The/index.html)|DIR|
+|[COMPUTE!'s Apple Applications](COMPUTE!'s Apple Applications/index.html)|DIR|
+|[Hardcore](Hardcore/index.html)|DIR|
+|[Tap the iPhone and iPad Magazine](Tap the iPhone and iPad Magazine/index.html)|DIR|

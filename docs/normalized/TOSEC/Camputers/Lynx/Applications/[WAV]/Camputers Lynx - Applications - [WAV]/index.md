@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Camputers Lynx - Applications - [WAV] (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Camputers/Lynx/Applications/[WAV]/Camputers Lynx - Applications - [WAV]/Camputers Lynx - Applications - [WAV] (TOSEC-v2022-12-21_CM).dat)
-</td><td>2330</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Camputers Lynx - Applications - [WAV] (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Camputers/Lynx/Applications/[WAV]/Camputers Lynx - Applications - [WAV]/Camputers Lynx - Applications - [WAV] (TOSEC-v2022-12-21_CM).dat)|2330|

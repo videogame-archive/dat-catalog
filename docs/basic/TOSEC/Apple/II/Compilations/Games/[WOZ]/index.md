@@ -1,6 +1,3 @@
-<table>
-<tr><th>Name</th><th>Size</th></tr>
-<tr><td>
-[Apple II - Compilations - Games - [WOZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Compilations/Games/[WOZ]/Apple II - Compilations - Games - [WOZ].dat)
-</td><td>9275</td></tr>
-</table>
+|Name|Size|
+|:---|---:|
+|[Apple II - Compilations - Games - [WOZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Compilations/Games/[WOZ]/Apple II - Compilations - Games - [WOZ].dat)|9275|
