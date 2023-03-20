@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Olympia Olytext 20](Olympia Olytext 20/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[Olympia Olytext 20](Olympia Olytext 20/index.html)
+</td><td>DIR</td></tr>
 </table>

@@ -1,9 +1,21 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Apogej BK-01](Apogej BK-01/index.html)</td><td>DIR</td></tr>
-<tr><td>[Mikro-80](Mikro-80/index.html)</td><td>DIR</td></tr>
-<tr><td>[Mikrosha](Mikrosha/index.html)</td><td>DIR</td></tr>
-<tr><td>[Partner-01.01](Partner-01.01/index.html)</td><td>DIR</td></tr>
-<tr><td>[Radio-86RK](Radio-86RK/index.html)</td><td>DIR</td></tr>
-<tr><td>[YuT-88](YuT-88/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[Apogej BK-01](Apogej BK-01/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Mikro-80](Mikro-80/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Mikrosha](Mikrosha/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Partner-01.01](Partner-01.01/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Radio-86RK](Radio-86RK/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[YuT-88](YuT-88/index.html)
+</td><td>DIR</td></tr>
 </table>

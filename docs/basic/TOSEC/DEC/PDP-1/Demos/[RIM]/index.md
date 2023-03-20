@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[DEC PDP-1 - Demos - [RIM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/DEC/PDP-1/Demos/[RIM]/DEC PDP-1 - Demos - [RIM].dat)</td><td>1740</td></tr>
+<tr><td>
+[DEC PDP-1 - Demos - [RIM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/DEC/PDP-1/Demos/[RIM]/DEC PDP-1 - Demos - [RIM].dat)
+</td><td>1740</td></tr>
 </table>

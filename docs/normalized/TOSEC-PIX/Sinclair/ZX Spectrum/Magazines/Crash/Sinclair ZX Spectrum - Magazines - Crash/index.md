@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Sinclair ZX Spectrum - Magazines - Crash (TOSEC-v2010-02-06_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sinclair/ZX Spectrum/Magazines/Crash/Sinclair ZX Spectrum - Magazines - Crash/Sinclair ZX Spectrum - Magazines - Crash (TOSEC-v2010-02-06_CM).dat)</td><td>31534</td></tr>
+<tr><td>
+[Sinclair ZX Spectrum - Magazines - Crash (TOSEC-v2010-02-06_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sinclair/ZX Spectrum/Magazines/Crash/Sinclair ZX Spectrum - Magazines - Crash/Sinclair ZX Spectrum - Magazines - Crash (TOSEC-v2010-02-06_CM).dat)
+</td><td>31534</td></tr>
 </table>

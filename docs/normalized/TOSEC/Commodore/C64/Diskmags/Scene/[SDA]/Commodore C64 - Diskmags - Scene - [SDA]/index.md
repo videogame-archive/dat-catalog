@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Commodore C64 - Diskmags - Scene - [SDA] (TOSEC-v2018-03-17_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Diskmags/Scene/[SDA]/Commodore C64 - Diskmags - Scene - [SDA]/Commodore C64 - Diskmags - Scene - [SDA] (TOSEC-v2018-03-17_CM).dat)</td><td>3254</td></tr>
+<tr><td>
+[Commodore C64 - Diskmags - Scene - [SDA] (TOSEC-v2018-03-17_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Diskmags/Scene/[SDA]/Commodore C64 - Diskmags - Scene - [SDA]/Commodore C64 - Diskmags - Scene - [SDA] (TOSEC-v2018-03-17_CM).dat)
+</td><td>3254</td></tr>
 </table>

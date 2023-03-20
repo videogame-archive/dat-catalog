@@ -1,13 +1,33 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Amiga](Amiga/index.html)</td><td>DIR</td></tr>
-<tr><td>[BX256-80HP](BX256-80HP/index.html)</td><td>DIR</td></tr>
-<tr><td>[C128](C128/index.html)</td><td>DIR</td></tr>
-<tr><td>[C16, C116 & Plus-4](C16, C116 & Plus-4/index.html)</td><td>DIR</td></tr>
-<tr><td>[C64](C64/index.html)</td><td>DIR</td></tr>
-<tr><td>[C64DTV](C64DTV/index.html)</td><td>DIR</td></tr>
-<tr><td>[C65](C65/index.html)</td><td>DIR</td></tr>
-<tr><td>[MAX Machine & VIC10](MAX Machine & VIC10/index.html)</td><td>DIR</td></tr>
-<tr><td>[PET](PET/index.html)</td><td>DIR</td></tr>
-<tr><td>[VIC20](VIC20/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[Amiga](Amiga/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[BX256-80HP](BX256-80HP/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[C128](C128/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[C16, C116 & Plus-4](C16, C116 & Plus-4/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[C64](C64/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[C64DTV](C64DTV/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[C65](C65/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[MAX Machine & VIC10](MAX Machine & VIC10/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[PET](PET/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[VIC20](VIC20/index.html)
+</td><td>DIR</td></tr>
 </table>

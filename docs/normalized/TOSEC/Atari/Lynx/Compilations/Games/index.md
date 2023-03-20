@@ -1,5 +1,9 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[[LNX]]([LNX]/index.html)</td><td>DIR</td></tr>
-<tr><td>[[LYX]]([LYX]/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[[LNX]]([LNX]/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[[LYX]]([LYX]/index.html)
+</td><td>DIR</td></tr>
 </table>

@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Acorn Atom - Games - [UEF]](Acorn Atom - Games - [UEF]/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[Acorn Atom - Games - [UEF]](Acorn Atom - Games - [UEF]/index.html)
+</td><td>DIR</td></tr>
 </table>

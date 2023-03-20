@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[IBM PCjr - Applications - Files (TOSEC-v2014-04-10_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PCjr/Applications/Files/IBM PCjr - Applications - Files/IBM PCjr - Applications - Files (TOSEC-v2014-04-10_CM).dat)</td><td>8006</td></tr>
+<tr><td>
+[IBM PCjr - Applications - Files (TOSEC-v2014-04-10_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PCjr/Applications/Files/IBM PCjr - Applications - Files/IBM PCjr - Applications - Files (TOSEC-v2014-04-10_CM).dat)
+</td><td>8006</td></tr>
 </table>

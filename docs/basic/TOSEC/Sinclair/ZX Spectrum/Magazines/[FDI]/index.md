@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Sinclair ZX Spectrum - Magazines - [FDI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Magazines/[FDI]/Sinclair ZX Spectrum - Magazines - [FDI].dat)</td><td>17202</td></tr>
+<tr><td>
+[Sinclair ZX Spectrum - Magazines - [FDI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Magazines/[FDI]/Sinclair ZX Spectrum - Magazines - [FDI].dat)
+</td><td>17202</td></tr>
 </table>

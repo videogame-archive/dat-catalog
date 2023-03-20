@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Tandy Radio Shack - Magazines - Gamers Connection!, The (US)](Tandy Radio Shack - Magazines - Gamers Connection!, The (US)/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[Tandy Radio Shack - Magazines - Gamers Connection!, The (US)](Tandy Radio Shack - Magazines - Gamers Connection!, The (US)/index.html)
+</td><td>DIR</td></tr>
 </table>

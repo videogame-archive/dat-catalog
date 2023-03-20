@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[IBM PC Compatibles - Magazines - PC Player (DE).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/PC Player (DE)/IBM PC Compatibles - Magazines - PC Player (DE).dat)</td><td>37198</td></tr>
+<tr><td>
+[IBM PC Compatibles - Magazines - PC Player (DE).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/PC Player (DE)/IBM PC Compatibles - Magazines - PC Player (DE).dat)
+</td><td>37198</td></tr>
 </table>

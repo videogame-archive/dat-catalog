@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Thomson MO5 - Compilations - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/MO5/Compilations/Various/Thomson MO5 - Compilations - Various.dat)</td><td>882</td></tr>
+<tr><td>
+[Thomson MO5 - Compilations - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/MO5/Compilations/Various/Thomson MO5 - Compilations - Various.dat)
+</td><td>882</td></tr>
 </table>

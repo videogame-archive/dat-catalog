@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Commodore Amiga CDTV - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Commodore/Amiga CDTV/Games/[BIN]/Commodore Amiga CDTV - Games - [BIN].dat)</td><td>1652</td></tr>
+<tr><td>
+[Commodore Amiga CDTV - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Commodore/Amiga CDTV/Games/[BIN]/Commodore Amiga CDTV - Games - [BIN].dat)
+</td><td>1652</td></tr>
 </table>

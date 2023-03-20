@@ -1,9 +1,21 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Applications](Applications/index.html)</td><td>DIR</td></tr>
-<tr><td>[Compilations](Compilations/index.html)</td><td>DIR</td></tr>
-<tr><td>[Demos](Demos/index.html)</td><td>DIR</td></tr>
-<tr><td>[Docs](Docs/index.html)</td><td>DIR</td></tr>
-<tr><td>[Operating Systems](Operating Systems/index.html)</td><td>DIR</td></tr>
-<tr><td>[Sources](Sources/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[Applications](Applications/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Compilations](Compilations/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Demos](Demos/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Docs](Docs/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Operating Systems](Operating Systems/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[Sources](Sources/index.html)
+</td><td>DIR</td></tr>
 </table>

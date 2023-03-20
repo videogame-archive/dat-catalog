@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Sinclair ZX Spectrum - Demos - [SCL] (TOSEC-v2021-01-15_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Demos/[SCL]/Sinclair ZX Spectrum - Demos - [SCL]/Sinclair ZX Spectrum - Demos - [SCL] (TOSEC-v2021-01-15_CM).dat)</td><td>189023</td></tr>
+<tr><td>
+[Sinclair ZX Spectrum - Demos - [SCL] (TOSEC-v2021-01-15_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Demos/[SCL]/Sinclair ZX Spectrum - Demos - [SCL]/Sinclair ZX Spectrum - Demos - [SCL] (TOSEC-v2021-01-15_CM).dat)
+</td><td>189023</td></tr>
 </table>

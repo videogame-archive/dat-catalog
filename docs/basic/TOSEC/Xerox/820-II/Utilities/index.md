@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Xerox 820-II - Utilities.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Xerox/820-II/Utilities/Xerox 820-II - Utilities.dat)</td><td>14568</td></tr>
+<tr><td>
+[Xerox 820-II - Utilities.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Xerox/820-II/Utilities/Xerox 820-II - Utilities.dat)
+</td><td>14568</td></tr>
 </table>

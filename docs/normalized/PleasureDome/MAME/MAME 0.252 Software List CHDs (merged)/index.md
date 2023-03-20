@@ -1,51 +1,147 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[3do_m2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/3do_m2.xml)</td><td>984</td></tr>
-<tr><td>[abc800_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/abc800_hdd.xml)</td><td>942</td></tr>
-<tr><td>[amiga_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/amiga_hdd.xml)</td><td>1197</td></tr>
-<tr><td>[amiga_workbench.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/amiga_workbench.xml)</td><td>1047</td></tr>
-<tr><td>[archimedes_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/archimedes_hdd.xml)</td><td>579</td></tr>
-<tr><td>[bbc_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/bbc_hdd.xml)</td><td>1831</td></tr>
-<tr><td>[cd32.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/cd32.xml)</td><td>33166</td></tr>
-<tr><td>[cdi.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/cdi.xml)</td><td>163680</td></tr>
-<tr><td>[cdtv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/cdtv.xml)</td><td>37384</td></tr>
-<tr><td>[dc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/dc.xml)</td><td>136532</td></tr>
-<tr><td>[fmtowns_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/fmtowns_cd.xml)</td><td>240282</td></tr>
-<tr><td>[gtfore.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/gtfore.xml)</td><td>1739</td></tr>
-<tr><td>[hp9k3xx_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/hp9k3xx_cdrom.xml)</td><td>3919</td></tr>
-<tr><td>[hp9k3xx_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/hp9k3xx_hdd.xml)</td><td>581</td></tr>
-<tr><td>[hyperscan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/hyperscan.xml)</td><td>1869</td></tr>
-<tr><td>[ibm5150_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/ibm5150_hdd.xml)</td><td>3389</td></tr>
-<tr><td>[ibm5170_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/ibm5170_cdrom.xml)</td><td>84730</td></tr>
-<tr><td>[ibm5170_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/ibm5170_hdd.xml)</td><td>7428</td></tr>
-<tr><td>[interpro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/interpro.xml)</td><td>1118</td></tr>
-<tr><td>[jazz.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/jazz.xml)</td><td>1058</td></tr>
-<tr><td>[kpython2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/kpython2.xml)</td><td>2714</td></tr>
-<tr><td>[mac_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/mac_hdd.xml)</td><td>2280</td></tr>
-<tr><td>[megacd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/megacd.xml)</td><td>34093</td></tr>
-<tr><td>[megacdj.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/megacdj.xml)</td><td>33275</td></tr>
-<tr><td>[mtx_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/mtx_hdd.xml)</td><td>1183</td></tr>
-<tr><td>[neocd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/neocd.xml)</td><td>28931</td></tr>
-<tr><td>[next_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/next_cdrom.xml)</td><td>1816</td></tr>
-<tr><td>[next_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/next_hdd.xml)</td><td>3409</td></tr>
-<tr><td>[nuon.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/nuon.xml)</td><td>1871</td></tr>
-<tr><td>[pc1512_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc1512_hdd.xml)</td><td>542</td></tr>
-<tr><td>[pc1640_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc1640_hdd.xml)</td><td>543</td></tr>
-<tr><td>[pc8801_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc8801_cdrom.xml)</td><td>549</td></tr>
-<tr><td>[pc98_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc98_cd.xml)</td><td>75732</td></tr>
-<tr><td>[pcecd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pcecd.xml)</td><td>121784</td></tr>
-<tr><td>[pcfx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pcfx.xml)</td><td>3272</td></tr>
-<tr><td>[pet_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pet_hdd.xml)</td><td>990</td></tr>
-<tr><td>[pico.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pico.xml)</td><td>579</td></tr>
-<tr><td>[pippin.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pippin.xml)</td><td>19670</td></tr>
-<tr><td>[psx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/psx.xml)</td><td>749176</td></tr>
-<tr><td>[saturn.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/saturn.xml)</td><td>451303</td></tr>
-<tr><td>[segacd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/segacd.xml)</td><td>48256</td></tr>
-<tr><td>[sgi_mips.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/sgi_mips.xml)</td><td>103452</td></tr>
-<tr><td>[sgi_mips_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/sgi_mips_hdd.xml)</td><td>1470</td></tr>
-<tr><td>[snes_vkun.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/snes_vkun.xml)</td><td>578</td></tr>
-<tr><td>[softbox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/softbox.xml)</td><td>576</td></tr>
-<tr><td>[v1050_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/v1050_hdd.xml)</td><td>657</td></tr>
-<tr><td>[vis.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/vis.xml)</td><td>20491</td></tr>
-<tr><td>[vsmile_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/vsmile_cd.xml)</td><td>4705</td></tr>
+<tr><td>
+[3do_m2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/3do_m2.xml)
+</td><td>984</td></tr>
+<tr><td>
+[abc800_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/abc800_hdd.xml)
+</td><td>942</td></tr>
+<tr><td>
+[amiga_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/amiga_hdd.xml)
+</td><td>1197</td></tr>
+<tr><td>
+[amiga_workbench.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/amiga_workbench.xml)
+</td><td>1047</td></tr>
+<tr><td>
+[archimedes_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/archimedes_hdd.xml)
+</td><td>579</td></tr>
+<tr><td>
+[bbc_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/bbc_hdd.xml)
+</td><td>1831</td></tr>
+<tr><td>
+[cd32.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/cd32.xml)
+</td><td>33166</td></tr>
+<tr><td>
+[cdi.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/cdi.xml)
+</td><td>163680</td></tr>
+<tr><td>
+[cdtv.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/cdtv.xml)
+</td><td>37384</td></tr>
+<tr><td>
+[dc.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/dc.xml)
+</td><td>136532</td></tr>
+<tr><td>
+[fmtowns_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/fmtowns_cd.xml)
+</td><td>240282</td></tr>
+<tr><td>
+[gtfore.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/gtfore.xml)
+</td><td>1739</td></tr>
+<tr><td>
+[hp9k3xx_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/hp9k3xx_cdrom.xml)
+</td><td>3919</td></tr>
+<tr><td>
+[hp9k3xx_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/hp9k3xx_hdd.xml)
+</td><td>581</td></tr>
+<tr><td>
+[hyperscan.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/hyperscan.xml)
+</td><td>1869</td></tr>
+<tr><td>
+[ibm5150_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/ibm5150_hdd.xml)
+</td><td>3389</td></tr>
+<tr><td>
+[ibm5170_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/ibm5170_cdrom.xml)
+</td><td>84730</td></tr>
+<tr><td>
+[ibm5170_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/ibm5170_hdd.xml)
+</td><td>7428</td></tr>
+<tr><td>
+[interpro.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/interpro.xml)
+</td><td>1118</td></tr>
+<tr><td>
+[jazz.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/jazz.xml)
+</td><td>1058</td></tr>
+<tr><td>
+[kpython2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/kpython2.xml)
+</td><td>2714</td></tr>
+<tr><td>
+[mac_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/mac_hdd.xml)
+</td><td>2280</td></tr>
+<tr><td>
+[megacd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/megacd.xml)
+</td><td>34093</td></tr>
+<tr><td>
+[megacdj.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/megacdj.xml)
+</td><td>33275</td></tr>
+<tr><td>
+[mtx_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/mtx_hdd.xml)
+</td><td>1183</td></tr>
+<tr><td>
+[neocd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/neocd.xml)
+</td><td>28931</td></tr>
+<tr><td>
+[next_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/next_cdrom.xml)
+</td><td>1816</td></tr>
+<tr><td>
+[next_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/next_hdd.xml)
+</td><td>3409</td></tr>
+<tr><td>
+[nuon.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/nuon.xml)
+</td><td>1871</td></tr>
+<tr><td>
+[pc1512_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc1512_hdd.xml)
+</td><td>542</td></tr>
+<tr><td>
+[pc1640_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc1640_hdd.xml)
+</td><td>543</td></tr>
+<tr><td>
+[pc8801_cdrom.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc8801_cdrom.xml)
+</td><td>549</td></tr>
+<tr><td>
+[pc98_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pc98_cd.xml)
+</td><td>75732</td></tr>
+<tr><td>
+[pcecd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pcecd.xml)
+</td><td>121784</td></tr>
+<tr><td>
+[pcfx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pcfx.xml)
+</td><td>3272</td></tr>
+<tr><td>
+[pet_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pet_hdd.xml)
+</td><td>990</td></tr>
+<tr><td>
+[pico.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pico.xml)
+</td><td>579</td></tr>
+<tr><td>
+[pippin.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/pippin.xml)
+</td><td>19670</td></tr>
+<tr><td>
+[psx.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/psx.xml)
+</td><td>749176</td></tr>
+<tr><td>
+[saturn.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/saturn.xml)
+</td><td>451303</td></tr>
+<tr><td>
+[segacd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/segacd.xml)
+</td><td>48256</td></tr>
+<tr><td>
+[sgi_mips.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/sgi_mips.xml)
+</td><td>103452</td></tr>
+<tr><td>
+[sgi_mips_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/sgi_mips_hdd.xml)
+</td><td>1470</td></tr>
+<tr><td>
+[snes_vkun.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/snes_vkun.xml)
+</td><td>578</td></tr>
+<tr><td>
+[softbox.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/softbox.xml)
+</td><td>576</td></tr>
+<tr><td>
+[v1050_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/v1050_hdd.xml)
+</td><td>657</td></tr>
+<tr><td>
+[vis.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/vis.xml)
+</td><td>20491</td></tr>
+<tr><td>
+[vsmile_cd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/vsmile_cd.xml)
+</td><td>4705</td></tr>
 </table>

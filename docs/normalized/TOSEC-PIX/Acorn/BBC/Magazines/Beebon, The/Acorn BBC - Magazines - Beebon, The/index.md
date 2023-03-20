@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Acorn BBC - Magazines - Beebon, The (TOSEC-v2012-02-25_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/BBC/Magazines/Beebon, The/Acorn BBC - Magazines - Beebon, The/Acorn BBC - Magazines - Beebon, The (TOSEC-v2012-02-25_CM).dat)</td><td>1574</td></tr>
+<tr><td>
+[Acorn BBC - Magazines - Beebon, The (TOSEC-v2012-02-25_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/BBC/Magazines/Beebon, The/Acorn BBC - Magazines - Beebon, The/Acorn BBC - Magazines - Beebon, The (TOSEC-v2012-02-25_CM).dat)
+</td><td>1574</td></tr>
 </table>

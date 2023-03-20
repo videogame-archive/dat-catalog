@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Apple - Macintosh - Datfile (1037) (2023-03-17 20-07-36).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Apple Macintosh/Apple - Macintosh - Datfile (1037) (2023-03-17 20-07-36).dat)</td><td>758145</td></tr>
+<tr><td>
+[Apple - Macintosh - Datfile (1037) (2023-03-17 20-07-36).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Apple Macintosh/Apple - Macintosh - Datfile (1037) (2023-03-17 20-07-36).dat)
+</td><td>758145</td></tr>
 </table>

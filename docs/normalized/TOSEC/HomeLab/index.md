@@ -1,5 +1,9 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[BraiLab](BraiLab/index.html)</td><td>DIR</td></tr>
-<tr><td>[HomeLab](HomeLab/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[BraiLab](BraiLab/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[HomeLab](HomeLab/index.html)
+</td><td>DIR</td></tr>
 </table>

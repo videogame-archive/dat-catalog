@@ -1,28 +1,78 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Unofficial - Microsoft - Xbox 360 (Title Updates).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Microsoft - Xbox 360 (Title Updates).dat)</td><td>454671</td></tr>
-<tr><td>[Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted).dat)</td><td>24731</td></tr>
-<tr><td>[Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted).dat)</td><td>836645</td></tr>
-<tr><td>[Unofficial - Nintendo - Wii (Digital) (Deprecated) (WAD).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Wii (Digital) (Deprecated) (WAD).dat)</td><td>1131995</td></tr>
-<tr><td>[Unofficial - Nintendo - Wii (Digital) (Split DLC) (Deprecated) (WAD).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Wii (Digital) (Split DLC) (Deprecated) (WAD).dat)</td><td>2010223</td></tr>
-<tr><td>[Unofficial - Nintendo - Wii U (Digital) (Deprecated).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Wii U (Digital) (Deprecated).dat)</td><td>4007005</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation 3 (PSN) (Decrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation 3 (PSN) (Decrypted).dat)</td><td>168647</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation 4 (PSN).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation 4 (PSN).dat)</td><td>2638746</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Portable (PSN) (Decrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (PSN) (Decrypted).dat)</td><td>5244184</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Portable (PSX2PSP).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (PSX2PSP).dat)</td><td>151859</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Portable (UMD Music).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (UMD Music).dat)</td><td>24017</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Portable (UMD Video).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (UMD Video).dat)</td><td>363426</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Vita (BlackFinPSV).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (BlackFinPSV).dat)</td><td>25602</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Vita (NoNpDrm).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (NoNpDrm).dat)</td><td>8299121</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm).dat)</td><td>16314</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK).dat)</td><td>19798</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Vita (PSVgameSD).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (PSVgameSD).dat)</td><td>169439</td></tr>
-<tr><td>[Unofficial - Sony - PlayStation Vita (VPK).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (VPK).dat)</td><td>93015</td></tr>
-<tr><td>[Unofficial - Video Game Digital OSTs (RAW).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Digital OSTs (RAW).dat)</td><td>170753</td></tr>
-<tr><td>[Unofficial - Video Game Documents (PDF).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Documents (PDF).dat)</td><td>1102</td></tr>
-<tr><td>[Unofficial - Video Game Magazine Scans (CBZ).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Magazine Scans (CBZ).dat)</td><td>81686</td></tr>
-<tr><td>[Unofficial - Video Game Magazine Scans (PDF).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Magazine Scans (PDF).dat)</td><td>236721</td></tr>
-<tr><td>[Unofficial - Video Game Magazine Scans (RAW).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Magazine Scans (RAW).dat)</td><td>2603591</td></tr>
-<tr><td>[Unofficial - Video Game Manual Scans (JPEG).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Manual Scans (JPEG).dat)</td><td>5860</td></tr>
-<tr><td>[Unofficial - Video Game Scans (RAW).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Scans (RAW).dat)</td><td>35316</td></tr>
+<tr><td>
+[Unofficial - Microsoft - Xbox 360 (Title Updates).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Microsoft - Xbox 360 (Title Updates).dat)
+</td><td>454671</td></tr>
+<tr><td>
+[Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted).dat)
+</td><td>24731</td></tr>
+<tr><td>
+[Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted).dat)
+</td><td>836645</td></tr>
+<tr><td>
+[Unofficial - Nintendo - Wii (Digital) (Deprecated) (WAD).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Wii (Digital) (Deprecated) (WAD).dat)
+</td><td>1131995</td></tr>
+<tr><td>
+[Unofficial - Nintendo - Wii (Digital) (Split DLC) (Deprecated) (WAD).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Wii (Digital) (Split DLC) (Deprecated) (WAD).dat)
+</td><td>2010223</td></tr>
+<tr><td>
+[Unofficial - Nintendo - Wii U (Digital) (Deprecated).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Nintendo - Wii U (Digital) (Deprecated).dat)
+</td><td>4007005</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation 3 (PSN) (Decrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation 3 (PSN) (Decrypted).dat)
+</td><td>168647</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation 4 (PSN).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation 4 (PSN).dat)
+</td><td>2638746</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Portable (PSN) (Decrypted).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (PSN) (Decrypted).dat)
+</td><td>5244184</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Portable (PSX2PSP).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (PSX2PSP).dat)
+</td><td>151859</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Portable (UMD Music).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (UMD Music).dat)
+</td><td>24017</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Portable (UMD Video).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Portable (UMD Video).dat)
+</td><td>363426</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Vita (BlackFinPSV).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (BlackFinPSV).dat)
+</td><td>25602</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Vita (NoNpDrm).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (NoNpDrm).dat)
+</td><td>8299121</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm).dat)
+</td><td>16314</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK).dat)
+</td><td>19798</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Vita (PSVgameSD).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (PSVgameSD).dat)
+</td><td>169439</td></tr>
+<tr><td>
+[Unofficial - Sony - PlayStation Vita (VPK).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Sony - PlayStation Vita (VPK).dat)
+</td><td>93015</td></tr>
+<tr><td>
+[Unofficial - Video Game Digital OSTs (RAW).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Digital OSTs (RAW).dat)
+</td><td>170753</td></tr>
+<tr><td>
+[Unofficial - Video Game Documents (PDF).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Documents (PDF).dat)
+</td><td>1102</td></tr>
+<tr><td>
+[Unofficial - Video Game Magazine Scans (CBZ).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Magazine Scans (CBZ).dat)
+</td><td>81686</td></tr>
+<tr><td>
+[Unofficial - Video Game Magazine Scans (PDF).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Magazine Scans (PDF).dat)
+</td><td>236721</td></tr>
+<tr><td>
+[Unofficial - Video Game Magazine Scans (RAW).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Magazine Scans (RAW).dat)
+</td><td>2603591</td></tr>
+<tr><td>
+[Unofficial - Video Game Manual Scans (JPEG).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Manual Scans (JPEG).dat)
+</td><td>5860</td></tr>
+<tr><td>
+[Unofficial - Video Game Scans (RAW).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/No-Intro/Unofficial/Unofficial - Video Game Scans (RAW).dat)
+</td><td>35316</td></tr>
 </table>

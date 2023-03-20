@@ -1,6 +1,12 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[[D64]]([D64]/index.html)</td><td>DIR</td></tr>
-<tr><td>[[SFX]]([SFX]/index.html)</td><td>DIR</td></tr>
-<tr><td>[[Z64]]([Z64]/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[[D64]]([D64]/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[[SFX]]([SFX]/index.html)
+</td><td>DIR</td></tr>
+<tr><td>
+[[Z64]]([Z64]/index.html)
+</td><td>DIR</td></tr>
 </table>

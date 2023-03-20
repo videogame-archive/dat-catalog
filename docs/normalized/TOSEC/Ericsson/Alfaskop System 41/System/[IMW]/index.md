@@ -1,4 +1,6 @@
 <table>
 <tr><th>Name</th><th>Size</th></tr>
-<tr><td>[Ericsson Alfaskop System 41 - System - [IMW]](Ericsson Alfaskop System 41 - System - [IMW]/index.html)</td><td>DIR</td></tr>
+<tr><td>
+[Ericsson Alfaskop System 41 - System - [IMW]](Ericsson Alfaskop System 41 - System - [IMW]/index.html)
+</td><td>DIR</td></tr>
 </table>
