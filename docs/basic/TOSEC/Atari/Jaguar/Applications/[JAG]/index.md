@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Jaguar - Applications - [JAG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/Jaguar/Applications/[JAG]/Atari Jaguar - Applications - [JAG].dat)|5577|
+|[..](../index.html)|DIR|
+|[Atari Jaguar - Applications - [JAG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Jaguar/Applications/[JAG]/Atari Jaguar - Applications - [JAG]/Atari Jaguar - Applications - [JAG] (TOSEC-v2018-07-01_CM).dat)|5577|

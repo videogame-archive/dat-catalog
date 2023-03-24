@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Dragon Data Dragon - Games - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Dragon Data/Dragon/Games/[CAS]/Dragon Data Dragon - Games - [CAS].dat)|164150|
+|[..](../index.html)|DIR|
+|[Dragon Data Dragon - Games - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Dragon Data/Dragon/Games/[CAS]/Dragon Data Dragon - Games - [CAS]/Dragon Data Dragon - Games - [CAS] (TOSEC-v2021-07-25_CM).dat)|164150|

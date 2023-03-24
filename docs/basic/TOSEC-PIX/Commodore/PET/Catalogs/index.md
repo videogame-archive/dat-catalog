@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore PET - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/PET/Catalogs/Commodore PET - Catalogs.dat)|2129|
+|[..](../index.html)|DIR|
+|[Commodore PET - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/PET/Catalogs/Commodore PET - Catalogs/Commodore PET - Catalogs (TOSEC-v2012-04-13_CM).dat)|2129|

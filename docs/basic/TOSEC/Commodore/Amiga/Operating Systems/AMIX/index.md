@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Operating Systems - AMIX.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/Amiga/Operating Systems/AMIX/Commodore Amiga - Operating Systems - AMIX.dat)|14957|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Operating Systems - AMIX.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/Amiga/Operating Systems/AMIX/Commodore Amiga - Operating Systems - AMIX/Commodore Amiga - Operating Systems - AMIX (TOSEC-v2015-05-03_CM).dat)|14957|

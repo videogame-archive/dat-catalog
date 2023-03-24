@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Books/Multi-format - Books.dat)|45235|
+|[..](../index.html)|DIR|
+|[Multi-format - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Books/Multi-format - Books/Multi-format - Books (TOSEC-v2022-12-21_CM).dat)|45235|

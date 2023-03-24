@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Gould K105-D Logic Analyzer - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Gould/K105-D Logic Analyzer/Operating Systems/Gould K105-D Logic Analyzer - Operating Systems.dat)|1358|
+|[..](../index.html)|DIR|
+|[Gould K105-D Logic Analyzer - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Gould/K105-D Logic Analyzer/Operating Systems/Gould K105-D Logic Analyzer - Operating Systems/Gould K105-D Logic Analyzer - Operating Systems (TOSEC-v2017-04-05_CM).dat)|1358|

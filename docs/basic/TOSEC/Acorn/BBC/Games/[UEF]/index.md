@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn BBC - Games - [UEF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/BBC/Games/[UEF]/Acorn BBC - Games - [UEF].dat)|24896|
+|[..](../index.html)|DIR|
+|[Acorn BBC - Games - [UEF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/BBC/Games/[UEF]/Acorn BBC - Games - [UEF]/Acorn BBC - Games - [UEF] (TOSEC-v2022-06-08_CM).dat)|24896|

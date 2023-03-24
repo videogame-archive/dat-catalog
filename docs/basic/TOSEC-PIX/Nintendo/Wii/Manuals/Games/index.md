@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Wii - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Wii/Manuals/Games/Nintendo Wii - Manuals - Games.dat)|19761|
+|[..](../index.html)|DIR|
+|[Nintendo Wii - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Wii/Manuals/Games/Nintendo Wii - Manuals - Games/Nintendo Wii - Manuals - Games (TOSEC-v2014-02-02_CM).dat)|19761|

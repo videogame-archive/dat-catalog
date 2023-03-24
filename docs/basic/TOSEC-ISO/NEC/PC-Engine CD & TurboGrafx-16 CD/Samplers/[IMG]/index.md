@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/NEC/PC-Engine CD & TurboGrafx-16 CD/Samplers/[IMG]/NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG].dat)|8776|
+|[..](../index.html)|DIR|
+|[NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/NEC/PC-Engine CD & TurboGrafx-16 CD/Samplers/[IMG]/NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG]/NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG] (TOSEC-v2019-04-18_CM).dat)|8776|

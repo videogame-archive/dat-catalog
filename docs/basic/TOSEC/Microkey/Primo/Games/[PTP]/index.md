@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microkey Primo - Games - [PTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Microkey/Primo/Games/[PTP]/Microkey Primo - Games - [PTP].dat)|81601|
+|[..](../index.html)|DIR|
+|[Microkey Primo - Games - [PTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Microkey/Primo/Games/[PTP]/Microkey Primo - Games - [PTP]/Microkey Primo - Games - [PTP] (TOSEC-v2011-09-04_CM).dat)|81601|

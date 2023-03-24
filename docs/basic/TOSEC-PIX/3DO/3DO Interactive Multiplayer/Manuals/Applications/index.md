@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[3DO 3DO Interactive Multiplayer - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/3DO/3DO Interactive Multiplayer/Manuals/Applications/3DO 3DO Interactive Multiplayer - Manuals - Applications.dat)|901|
+|[..](../index.html)|DIR|
+|[3DO 3DO Interactive Multiplayer - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/3DO/3DO Interactive Multiplayer/Manuals/Applications/3DO 3DO Interactive Multiplayer - Manuals - Applications/3DO 3DO Interactive Multiplayer - Manuals - Applications (TOSEC-v2010-09-05_CM).dat)|901|

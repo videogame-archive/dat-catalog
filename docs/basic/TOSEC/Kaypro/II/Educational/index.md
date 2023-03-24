@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Kaypro II - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Kaypro/II/Educational/Kaypro II - Educational.dat)|862|
+|[..](../index.html)|DIR|
+|[Kaypro II - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Kaypro/II/Educational/Kaypro II - Educational/Kaypro II - Educational (TOSEC-v2012-02-27_CM).dat)|862|

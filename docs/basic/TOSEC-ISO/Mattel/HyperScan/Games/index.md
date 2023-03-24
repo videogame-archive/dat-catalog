@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel HyperScan - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Mattel/HyperScan/Games/Mattel HyperScan - Games.dat)|6907|
+|[..](../index.html)|DIR|
+|[Mattel HyperScan - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Mattel/HyperScan/Games/Mattel HyperScan - Games/Mattel HyperScan - Games (TOSEC-v2019-04-18_CM).dat)|6907|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Jupiter Cantab/Jupiter Ace/Compilations/Games/[TAP]/Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP].dat)|15633|
+|[..](../index.html)|DIR|
+|[Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Jupiter Cantab/Jupiter Ace/Compilations/Games/[TAP]/Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP]/Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP] (TOSEC-v2014-08-11_CM).dat)|15633|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple IIGS - Docs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/IIGS/Docs/Apple IIGS - Docs.dat)|2562|
+|[..](../index.html)|DIR|
+|[Apple IIGS - Docs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/IIGS/Docs/Apple IIGS - Docs/Apple IIGS - Docs (TOSEC-v2013-12-13_CM).dat)|2562|

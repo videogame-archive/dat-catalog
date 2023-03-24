@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo 64 - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/64/Video/Nintendo 64 - Video.dat)|3612|
+|[..](../index.html)|DIR|
+|[Nintendo 64 - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/64/Video/Nintendo 64 - Video/Nintendo 64 - Video (TOSEC-v2022-12-21_CM).dat)|3612|

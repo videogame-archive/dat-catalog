@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Memotech MTX - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Memotech/MTX/Games/[WAV]/Memotech MTX - Games - [WAV].dat)|19617|
+|[..](../index.html)|DIR|
+|[Memotech MTX - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Memotech/MTX/Games/[WAV]/Memotech MTX - Games - [WAV]/Memotech MTX - Games - [WAV] (TOSEC-v2021-07-25_CM).dat)|19617|

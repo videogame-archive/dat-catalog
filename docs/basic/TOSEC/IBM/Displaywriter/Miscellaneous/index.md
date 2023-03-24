@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM Displaywriter - Miscellaneous.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/Displaywriter/Miscellaneous/IBM Displaywriter - Miscellaneous.dat)|908|
+|[..](../index.html)|DIR|
+|[IBM Displaywriter - Miscellaneous.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/Displaywriter/Miscellaneous/IBM Displaywriter - Miscellaneous/IBM Displaywriter - Miscellaneous (TOSEC-v2021-12-11_CM).dat)|908|

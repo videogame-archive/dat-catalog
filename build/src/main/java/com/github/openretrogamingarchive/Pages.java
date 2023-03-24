@@ -2,6 +2,7 @@ package com.github.openretrogamingarchive;
 
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.LinkOption;
 import java.nio.file.Path;
 import java.util.Comparator;
 import java.util.function.Predicate;
@@ -37,22 +38,28 @@ public class Pages {
 	}
 
 	public static void update(Path current) throws IOException {
-		if (Updater.ROOT_DIR.equals(current)) {
+		final var isRoot = Updater.ROOT_DIR.equals(current);
+		if (isRoot) {
 			Util.deleteRecursive(DOCS_DIR);
 			Files.createDirectories(DOCS_DIR);
 		}
 		try (final var index = Files.newBufferedWriter(DOCS_DIR.resolve(Updater.ROOT_DIR.relativize(current)).resolve("index.md"))) {
 			index.write("|Name|Size|\n");
 			index.write("|:---|---:|\n");
+			if(!isRoot)
+				index.write("|[%s](%s)|%s|%n".formatted("..", "../index.html", "DIR"));
 			try (final var stream = Files.list(current)) {
 				stream.filter(pathFilter).sorted(pathSorter).forEachOrdered(fileInDir -> {
 					try {
+						var resolvedFileInDir = fileInDir;
+						if(Files.isSymbolicLink(fileInDir))
+							resolvedFileInDir = fileInDir.getParent().resolve(Files.readSymbolicLink(fileInDir)).normalize();
 						if (!Files.isDirectory(fileInDir)) {
-							final var file = Updater.BASE_URL + Updater.BASE_DIR.relativize(fileInDir);
-							index.write("|[%s](%s)|%d|%n".formatted(fileInDir.getFileName().toString(),	file, Files.size(fileInDir)));
+							final var file = Updater.BASE_URL + Updater.BASE_DIR.relativize(resolvedFileInDir);
+							index.write("|[%s](%s)|%d|%n".formatted(fileInDir.getFileName().toString(),	file, Files.size(resolvedFileInDir)));
 						} else {
 							final var relativized = Updater.ROOT_DIR.relativize(fileInDir);
-							index.write("|[%s](%s)|%s|%n".formatted(fileInDir.getFileName().toString(),	fileInDir.getFileName().resolve("index.html").toString(), "DIR"));
+							index.write("|[%s](%s)|%s|%n".formatted(fileInDir.getFileName().toString(),	resolvedFileInDir.getFileName().resolve("index.html").toString(), "DIR"));
 							Files.createDirectories(DOCS_DIR.resolve(relativized));
 							update(fileInDir);
 						}

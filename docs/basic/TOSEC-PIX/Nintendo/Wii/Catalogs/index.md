@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Wii - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Wii/Catalogs/Nintendo Wii - Catalogs.dat)|839|
+|[..](../index.html)|DIR|
+|[Nintendo Wii - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Wii/Catalogs/Nintendo Wii - Catalogs/Nintendo Wii - Catalogs (TOSEC-v2014-02-02_CM).dat)|839|

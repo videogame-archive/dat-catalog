@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple III - Newsletters - Dimensions.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/III/Newsletters/Dimensions/Apple III - Newsletters - Dimensions.dat)|2073|
+|[..](../index.html)|DIR|
+|[Apple III - Newsletters - Dimensions.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/III/Newsletters/Dimensions/Apple III - Newsletters - Dimensions/Apple III - Newsletters - Dimensions (TOSEC-v2012-02-26_CM).dat)|2073|

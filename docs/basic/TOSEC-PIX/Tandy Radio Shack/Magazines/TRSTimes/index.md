@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tandy Radio Shack - Magazines - TRSTimes.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Tandy Radio Shack/Magazines/TRSTimes/Tandy Radio Shack - Magazines - TRSTimes.dat)|18945|
+|[..](../index.html)|DIR|
+|[Tandy Radio Shack - Magazines - TRSTimes.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Tandy Radio Shack/Magazines/TRSTimes/Tandy Radio Shack - Magazines - TRSTimes/Tandy Radio Shack - Magazines - TRSTimes (TOSEC-v2010-01-20_CM).dat)|18945|

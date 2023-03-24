@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Compilations - Games - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Compilations/Games/[CRT]/Commodore C64 - Compilations - Games - [CRT].dat)|8107|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Compilations - Games - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Compilations/Games/[CRT]/Commodore C64 - Compilations - Games - [CRT]/Commodore C64 - Compilations - Games - [CRT] (TOSEC-v2022-11-08_CM).dat)|8107|

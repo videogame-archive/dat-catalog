@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Apogej BK-01](Apogej BK-01/index.html)|DIR|
 |[Mikro-80](Mikro-80/index.html)|DIR|
 |[Mikrosha](Mikrosha/index.html)|DIR|

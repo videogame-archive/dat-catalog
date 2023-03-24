@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Manuals/Games/IBM PC Compatibles - Manuals - Games.dat)|179837|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/IBM/PC Compatibles/Manuals/Games/IBM PC Compatibles - Manuals - Games/IBM PC Compatibles - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|179837|

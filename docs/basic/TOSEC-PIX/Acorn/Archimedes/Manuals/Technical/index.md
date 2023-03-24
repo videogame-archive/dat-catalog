@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Archimedes - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Acorn/Archimedes/Manuals/Technical/Acorn Archimedes - Manuals - Technical.dat)|5058|
+|[..](../index.html)|DIR|
+|[Acorn Archimedes - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/Archimedes/Manuals/Technical/Acorn Archimedes - Manuals - Technical/Acorn Archimedes - Manuals - Technical (TOSEC-v2012-07-21_CM).dat)|5058|

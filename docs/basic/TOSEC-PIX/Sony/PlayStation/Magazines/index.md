@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[New Zealand Station](New Zealand Station/index.html)|DIR|
 |[Official NZ PlayStation Magazine](Official NZ PlayStation Magazine/index.html)|DIR|
 |[Official PlayStation Magazine (RU)](Official PlayStation Magazine (RU)/index.html)|DIR|

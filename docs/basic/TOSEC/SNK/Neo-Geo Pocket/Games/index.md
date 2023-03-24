@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[SNK Neo-Geo Pocket - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/SNK/Neo-Geo Pocket/Games/SNK Neo-Geo Pocket - Games.dat)|10888|
+|[..](../index.html)|DIR|
+|[SNK Neo-Geo Pocket - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/SNK/Neo-Geo Pocket/Games/SNK Neo-Geo Pocket - Games/SNK Neo-Geo Pocket - Games (TOSEC-v2022-06-08_CM).dat)|10888|

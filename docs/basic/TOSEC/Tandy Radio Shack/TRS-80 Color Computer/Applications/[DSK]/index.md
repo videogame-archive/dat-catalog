@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tandy Radio Shack TRS-80 Color Computer - Applications - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tandy Radio Shack/TRS-80 Color Computer/Applications/[DSK]/Tandy Radio Shack TRS-80 Color Computer - Applications - [DSK].dat)|17141|
+|[..](../index.html)|DIR|
+|[Tandy Radio Shack TRS-80 Color Computer - Applications - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tandy Radio Shack/TRS-80 Color Computer/Applications/[DSK]/Tandy Radio Shack TRS-80 Color Computer - Applications - [DSK]/Tandy Radio Shack TRS-80 Color Computer - Applications - [DSK] (TOSEC-v2011-01-01_CM).dat)|17141|

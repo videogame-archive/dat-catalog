@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[No-Intro](No-Intro/index.html)|DIR|
 |[Non-Redump](Non-Redump/index.html)|DIR|
 |[Redump Custom](Redump Custom/index.html)|DIR|

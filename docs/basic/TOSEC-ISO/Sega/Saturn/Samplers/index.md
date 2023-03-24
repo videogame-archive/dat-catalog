@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Saturn - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Sega/Saturn/Samplers/Sega Saturn - Samplers.dat)|66412|
+|[..](../index.html)|DIR|
+|[Sega Saturn - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Sega/Saturn/Samplers/Sega Saturn - Samplers/Sega Saturn - Samplers (TOSEC-v2020-07-10_CM).dat)|66412|

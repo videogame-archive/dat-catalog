@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - SoftSide.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/SoftSide/Multi-format - Magazines - SoftSide.dat)|36886|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - SoftSide.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/SoftSide/Multi-format - Magazines - SoftSide/Multi-format - Magazines - SoftSide (TOSEC-v2014-02-02_CM).dat)|36886|

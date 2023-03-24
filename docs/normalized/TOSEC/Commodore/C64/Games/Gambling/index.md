@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[D64]]([D64]/index.html)|DIR|
 |[[DFI]]([DFI]/index.html)|DIR|
 |[[G64]]([G64]/index.html)|DIR|

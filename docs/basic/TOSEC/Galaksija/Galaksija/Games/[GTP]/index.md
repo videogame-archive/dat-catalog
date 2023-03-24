@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Galaksija Galaksija - Games - [GTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Galaksija/Galaksija/Games/[GTP]/Galaksija Galaksija - Games - [GTP].dat)|17406|
+|[..](../index.html)|DIR|
+|[Galaksija Galaksija - Games - [GTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Galaksija/Galaksija/Games/[GTP]/Galaksija Galaksija - Games - [GTP]/Galaksija Galaksija - Games - [GTP] (TOSEC-v2021-07-25_CM).dat)|17406|

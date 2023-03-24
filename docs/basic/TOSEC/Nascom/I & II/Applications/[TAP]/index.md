@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nascom I & II - Applications - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nascom/I & II/Applications/[TAP]/Nascom I & II - Applications - [TAP].dat)|1162|
+|[..](../index.html)|DIR|
+|[Nascom I & II - Applications - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nascom/I & II/Applications/[TAP]/Nascom I & II - Applications - [TAP]/Nascom I & II - Applications - [TAP] (TOSEC-v2014-04-11_CM).dat)|1162|

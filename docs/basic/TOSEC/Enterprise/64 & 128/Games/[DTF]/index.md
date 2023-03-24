@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Enterprise 64 & 128 - Games - [DTF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Enterprise/64 & 128/Games/[DTF]/Enterprise 64 & 128 - Games - [DTF].dat)|91194|
+|[..](../index.html)|DIR|
+|[Enterprise 64 & 128 - Games - [DTF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Enterprise/64 & 128/Games/[DTF]/Enterprise 64 & 128 - Games - [DTF]/Enterprise 64 & 128 - Games - [DTF] (TOSEC-v2011-10-15_CM).dat)|91194|

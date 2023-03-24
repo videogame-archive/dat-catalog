@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Demos - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Demos/[DSK]/Apple II - Demos - [DSK].dat)|51148|
+|[..](../index.html)|DIR|
+|[Apple II - Demos - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Demos/[DSK]/Apple II - Demos - [DSK]/Apple II - Demos - [DSK] (TOSEC-v2022-12-21_CM).dat)|51148|

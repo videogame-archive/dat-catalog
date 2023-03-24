@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bandai WonderSwan - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bandai/WonderSwan/Firmware/Bandai WonderSwan - Firmware.dat)|842|
+|[..](../index.html)|DIR|
+|[Bandai WonderSwan - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bandai/WonderSwan/Firmware/Bandai WonderSwan - Firmware/Bandai WonderSwan - Firmware (TOSEC-v2021-07-25_CM).dat)|842|

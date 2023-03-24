@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga CD32 - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Amiga CD32/Manuals/Games/Commodore Amiga CD32 - Manuals - Games.dat)|32553|
+|[..](../index.html)|DIR|
+|[Commodore Amiga CD32 - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Amiga CD32/Manuals/Games/Commodore Amiga CD32 - Manuals - Games/Commodore Amiga CD32 - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|32553|

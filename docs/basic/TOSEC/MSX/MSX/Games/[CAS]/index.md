@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX - Games - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX/Games/[CAS]/MSX MSX - Games - [CAS].dat)|408428|
+|[..](../index.html)|DIR|
+|[MSX MSX - Games - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX/Games/[CAS]/MSX MSX - Games - [CAS]/MSX MSX - Games - [CAS] (TOSEC-v2022-06-08_CM).dat)|408428|

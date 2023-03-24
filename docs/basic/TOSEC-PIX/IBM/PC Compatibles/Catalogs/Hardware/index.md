@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Catalogs - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Catalogs/Hardware/IBM PC Compatibles - Catalogs - Hardware.dat)|2382|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Catalogs - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/IBM/PC Compatibles/Catalogs/Hardware/IBM PC Compatibles - Catalogs - Hardware/IBM PC Compatibles - Catalogs - Hardware (TOSEC-v2022-12-21_CM).dat)|2382|

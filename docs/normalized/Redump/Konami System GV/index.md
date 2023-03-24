@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Arcade - Konami - System GV - Datfile (1) (2020-09-09 01-05-17).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Konami System GV/Arcade - Konami - System GV - Datfile (1) (2020-09-09 01-05-17).dat)|7281|

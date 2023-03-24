@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microdigital - Magazines - Microhobby (BR).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Microdigital/Magazines/Microhobby (BR)/Microdigital - Magazines - Microhobby (BR).dat)|3787|
+|[..](../index.html)|DIR|
+|[Microdigital - Magazines - Microhobby (BR).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Microdigital/Magazines/Microhobby (BR)/Microdigital - Magazines - Microhobby (BR)/Microdigital - Magazines - Microhobby (BR) (TOSEC-v2010-01-30_CM).dat)|3787|

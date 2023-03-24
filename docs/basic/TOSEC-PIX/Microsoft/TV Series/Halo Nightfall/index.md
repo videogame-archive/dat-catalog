@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microsoft - TV Series - Halo Nightfall.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Microsoft/TV Series/Halo Nightfall/Microsoft - TV Series - Halo Nightfall.dat)|846|
+|[..](../index.html)|DIR|
+|[Microsoft - TV Series - Halo Nightfall.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Microsoft/TV Series/Halo Nightfall/Microsoft - TV Series - Halo Nightfall/Microsoft - TV Series - Halo Nightfall (TOSEC-v2022-12-21_CM).dat)|846|

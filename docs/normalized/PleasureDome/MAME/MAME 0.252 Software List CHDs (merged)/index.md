@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[3do_m2.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/3do_m2.xml)|984|
 |[abc800_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/abc800_hdd.xml)|942|
 |[amiga_hdd.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List CHDs (merged)/amiga_hdd.xml)|1197|

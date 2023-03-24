@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Virtual Boy - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/Virtual Boy/Demos/Nintendo Virtual Boy - Demos.dat)|20267|
+|[..](../index.html)|DIR|
+|[Nintendo Virtual Boy - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/Virtual Boy/Demos/Nintendo Virtual Boy - Demos/Nintendo Virtual Boy - Demos (TOSEC-v2012-04-13_CM).dat)|20267|

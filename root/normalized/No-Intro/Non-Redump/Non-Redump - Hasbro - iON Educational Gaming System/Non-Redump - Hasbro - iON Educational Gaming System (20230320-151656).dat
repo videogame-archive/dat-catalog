@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>403</id>
+		<name>Non-Redump - Hasbro - iON Educational Gaming System</name>
+		<description>Non-Redump - Hasbro - iON Educational Gaming System</description>
+		<version>20230320-151656</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Batman - Shadows of Gotham City (USA) [b]" id="0001">
+		<category>Educational</category>
+		<description>Batman - Shadows of Gotham City (USA) [b]</description>
+		<rom name="Batman - Shadows of Gotham City (USA).bin" size="423399984" crc="24875362" md5="351c141d88f2e46e94e93b09a8d6822d" sha1="18982e3321c08d957fe81104d1b3ea7348d36713" status="baddump"/>
+	</game>
+	<game name="Best of Nickelodeon (USA) [b]" id="0002">
+		<category>Educational</category>
+		<description>Best of Nickelodeon (USA) [b]</description>
+		<rom name="Best of Nickelodeon (USA).bin" size="423399984" crc="f1a69ac4" md5="1a4b9948145d91e27d93e0d6ec67419e" sha1="19e464f78351ba9bb9a83229b72cdc4bd3ea9b50" status="baddump"/>
+	</game>
+	<game name="Nick Jr. Blue's Room - Birthday Party Surprise (USA)" id="0003">
+		<category>Educational</category>
+		<description>Nick Jr. Blue's Room - Birthday Party Surprise (USA)</description>
+		<rom name="Nick Jr. Blue's Room - Birthday Party Surprise (USA).cue" size="509" sha1="b6c53baffa8bb78d9a60258139685291b65e626c"/>
+		<rom name="Nick Jr. Blue's Room - Birthday Party Surprise (USA) (Track 1).bin" size="1761648" crc="79d193ee" md5="7078223757f8e59772dd0e9d9e3f9200" sha1="13952a0c4eec445feb7a28c85a2752e6409aa69c"/>
+		<rom name="Nick Jr. Blue's Room - Birthday Party Surprise (USA) (Track 2).bin" size="419876688" crc="6feb0a2c" md5="124ef2f46c6da46bccef94b4e2989bf5" sha1="ee229b225b78d77cd8c066959b8c5678563c315c"/>
+		<rom name="Nick Jr. Blue's Room - Birthday Party Surprise (USA) (Track 3).bin" size="1761648" crc="412f0877" md5="83341a69914c0f294690f0a5d4172db4" sha1="32e126d0f3010fe5198e8ebe49a4e5fbc06d687c"/>
+	</game>
+	<game name="Nick Jr. Dora the Explorer - The Great Soccer Ball Adventure (USA)" id="0004">
+		<category>Educational</category>
+		<description>Nick Jr. Dora the Explorer - The Great Soccer Ball Adventure (USA)</description>
+		<rom name="Nick Jr. Dora the Explorer - The Great Soccer Ball Adventure (USA).cue" size="600" sha1="c5fc7a235920f97ef9262e5650484fc848b76dd0"/>
+		<rom name="Nick Jr. Dora the Explorer - The Great Soccer Ball Adventure (USA) (Track 1).bin" size="1761648" crc="79d193ee" md5="7078223757f8e59772dd0e9d9e3f9200" sha1="13952a0c4eec445feb7a28c85a2752e6409aa69c"/>
+		<rom name="Nick Jr. Dora the Explorer - The Great Soccer Ball Adventure (USA) (Track 2).bin" size="420229488" crc="d1089103" md5="59c5b2cf9a34c69882e687ab9bb9659c" sha1="97220a5d7dad971143f12b41c86b85aeb8007550"/>
+		<rom name="Nick Jr. Dora the Explorer - The Great Soccer Ball Adventure (USA) (Track 3).bin" size="1761648" crc="412f0877" md5="83341a69914c0f294690f0a5d4172db4" sha1="32e126d0f3010fe5198e8ebe49a4e5fbc06d687c"/>
+	</game>
+	<game name="Nickelodeon Danny Phantom - Ghosts on the Loose (USA) [b]" id="0005">
+		<category>Educational</category>
+		<description>Nickelodeon Danny Phantom - Ghosts on the Loose (USA) [b]</description>
+		<rom name="Nickelodeon Danny Phantom - Ghosts on the Loose (USA).bin" size="423399984" crc="53debc60" md5="92d7bbad50e64b9796dcf840d9a7d4dc" sha1="4581529e0c147d8584823d485a525fcb193f52e7" status="baddump"/>
+	</game>
+</datafile>

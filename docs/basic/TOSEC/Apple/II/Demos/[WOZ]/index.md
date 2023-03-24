@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Demos - [WOZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Demos/[WOZ]/Apple II - Demos - [WOZ].dat)|2717|
+|[..](../index.html)|DIR|
+|[Apple II - Demos - [WOZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Demos/[WOZ]/Apple II - Demos - [WOZ]/Apple II - Demos - [WOZ] (TOSEC-v2022-12-21_CM).dat)|2717|

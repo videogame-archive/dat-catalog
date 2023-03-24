@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Demos - Slideshows.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/Amiga/Demos/Slideshows/Commodore Amiga - Demos - Slideshows.dat)|667810|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Demos - Slideshows.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/Amiga/Demos/Slideshows/Commodore Amiga - Demos - Slideshows/Commodore Amiga - Demos - Slideshows (TOSEC-v2022-12-22_CM).dat)|667810|

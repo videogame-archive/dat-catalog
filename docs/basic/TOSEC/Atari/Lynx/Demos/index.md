@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Lynx - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/Lynx/Demos/Atari Lynx - Demos.dat)|54694|
+|[..](../index.html)|DIR|
+|[Atari Lynx - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Lynx/Demos/Atari Lynx - Demos/Atari Lynx - Demos (TOSEC-v2022-06-08_CM).dat)|54694|

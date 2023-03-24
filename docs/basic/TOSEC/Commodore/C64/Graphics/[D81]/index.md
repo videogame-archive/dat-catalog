@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Graphics - [D81].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Graphics/[D81]/Commodore C64 - Graphics - [D81].dat)|871|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Graphics - [D81].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Graphics/[D81]/Commodore C64 - Graphics - [D81]/Commodore C64 - Graphics - [D81] (TOSEC-v2018-01-03_CM).dat)|871|

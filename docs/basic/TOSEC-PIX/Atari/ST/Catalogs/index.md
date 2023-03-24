@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari ST - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/ST/Catalogs/Atari ST - Catalogs.dat)|1752|
+|[..](../index.html)|DIR|
+|[Atari ST - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/ST/Catalogs/Atari ST - Catalogs/Atari ST - Catalogs (TOSEC-v2019-05-05_CM).dat)|1752|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Magazines - Contact.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/II/Magazines/Contact/Apple II - Magazines - Contact.dat)|4108|
+|[..](../index.html)|DIR|
+|[Apple II - Magazines - Contact.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/II/Magazines/Contact/Apple II - Magazines - Contact/Apple II - Magazines - Contact (TOSEC-v2011-03-19_CM).dat)|4108|

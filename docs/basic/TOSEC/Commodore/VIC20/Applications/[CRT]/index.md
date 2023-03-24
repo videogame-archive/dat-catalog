@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore VIC20 - Applications - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/VIC20/Applications/[CRT]/Commodore VIC20 - Applications - [CRT].dat)|19689|
+|[..](../index.html)|DIR|
+|[Commodore VIC20 - Applications - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/VIC20/Applications/[CRT]/Commodore VIC20 - Applications - [CRT]/Commodore VIC20 - Applications - [CRT] (TOSEC-v2011-11-29_CM).dat)|19689|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exidy Sorcerer - Games - [TAPE].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Exidy/Sorcerer/Games/[TAPE]/Exidy Sorcerer - Games - [TAPE].dat)|6478|
+|[..](../index.html)|DIR|
+|[Exidy Sorcerer - Games - [TAPE].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exidy/Sorcerer/Games/[TAPE]/Exidy Sorcerer - Games - [TAPE]/Exidy Sorcerer - Games - [TAPE] (TOSEC-v2021-12-11_CM).dat)|6478|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Archimedes - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Acorn/Archimedes/Manuals/Games/Acorn Archimedes - Manuals - Games.dat)|6542|
+|[..](../index.html)|DIR|
+|[Acorn Archimedes - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/Archimedes/Manuals/Games/Acorn Archimedes - Manuals - Games/Acorn Archimedes - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|6542|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Nintendo Super Famicom & Super Entertainment System - Manuals - Hardware](Nintendo Super Famicom & Super Entertainment System - Manuals - Hardware/index.html)|DIR|

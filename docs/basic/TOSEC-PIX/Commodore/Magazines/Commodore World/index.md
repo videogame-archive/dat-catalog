@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore - Magazines - Commodore World.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Magazines/Commodore World/Commodore - Magazines - Commodore World.dat)|10975|
+|[..](../index.html)|DIR|
+|[Commodore - Magazines - Commodore World.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/Commodore World/Commodore - Magazines - Commodore World/Commodore - Magazines - Commodore World (TOSEC-v2010-01-16_CM).dat)|10975|

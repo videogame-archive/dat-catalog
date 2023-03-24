@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Motorola EXORciser - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Motorola/EXORciser/Various/Motorola EXORciser - Various.dat)|1366|
+|[..](../index.html)|DIR|
+|[Motorola EXORciser - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Motorola/EXORciser/Various/Motorola EXORciser - Various/Motorola EXORciser - Various (TOSEC-v2017-04-05_CM).dat)|1366|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[RCA Studio II - Games - [ASM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/RCA/Studio II/Games/[ASM]/RCA Studio II - Games - [ASM].dat)|1386|
+|[..](../index.html)|DIR|
+|[RCA Studio II - Games - [ASM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/RCA/Studio II/Games/[ASM]/RCA Studio II - Games - [ASM]/RCA Studio II - Games - [ASM] (TOSEC-v2014-04-23_CM).dat)|1386|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Visual Memory System - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Visual Memory System/Applications/Sega Visual Memory System - Applications.dat)|1189|
+|[..](../index.html)|DIR|
+|[Sega Visual Memory System - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Visual Memory System/Applications/Sega Visual Memory System - Applications/Sega Visual Memory System - Applications (TOSEC-v2011-08-13_CM).dat)|1189|

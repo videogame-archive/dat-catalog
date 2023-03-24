@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[APP]]([APP]/index.html)|DIR|
 |[[BAS]]([BAS]/index.html)|DIR|
 |[[COM]]([COM]/index.html)|DIR|

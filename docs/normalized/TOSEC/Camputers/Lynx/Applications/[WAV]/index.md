@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Camputers Lynx - Applications - [WAV]](Camputers Lynx - Applications - [WAV]/index.html)|DIR|

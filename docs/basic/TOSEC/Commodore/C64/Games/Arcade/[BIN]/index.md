@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Arcade - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Arcade/[BIN]/Commodore C64 - Games - Arcade - [BIN].dat)|20792|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Arcade - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Arcade/[BIN]/Commodore C64 - Games - Arcade - [BIN]/Commodore C64 - Games - Arcade - [BIN] (TOSEC-v2022-12-18_CM).dat)|20792|

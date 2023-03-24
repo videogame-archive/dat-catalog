@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Interface Age.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Interface Age/Multi-format - Magazines - Interface Age.dat)|2049|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Interface Age.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Interface Age/Multi-format - Magazines - Interface Age/Multi-format - Magazines - Interface Age (TOSEC-v2012-07-21_CM).dat)|2049|

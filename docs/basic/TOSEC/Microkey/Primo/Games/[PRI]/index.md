@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microkey Primo - Games - [PRI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Microkey/Primo/Games/[PRI]/Microkey Primo - Games - [PRI].dat)|56161|
+|[..](../index.html)|DIR|
+|[Microkey Primo - Games - [PRI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Microkey/Primo/Games/[PRI]/Microkey Primo - Games - [PRI]/Microkey Primo - Games - [PRI] (TOSEC-v2011-09-04_CM).dat)|56161|

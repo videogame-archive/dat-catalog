@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Sega/Mega-CD & Sega CD/CD/Bonus Discs/[IMG]/Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG].dat)|4386|
+|[..](../index.html)|DIR|
+|[Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Sega/Mega-CD & Sega CD/CD/Bonus Discs/[IMG]/Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG]/Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG] (TOSEC-v2014-07-01_CM).dat)|4386|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bondwell 14 - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bondwell/14/Operating Systems/Bondwell 14 - Operating Systems.dat)|1424|
+|[..](../index.html)|DIR|
+|[Bondwell 14 - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bondwell/14/Operating Systems/Bondwell 14 - Operating Systems/Bondwell 14 - Operating Systems (TOSEC-v2018-03-08_CM).dat)|1424|

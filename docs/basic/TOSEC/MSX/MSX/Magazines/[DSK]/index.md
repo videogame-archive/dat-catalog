@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX - Magazines - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX/Magazines/[DSK]/MSX MSX - Magazines - [DSK].dat)|17092|
+|[..](../index.html)|DIR|
+|[MSX MSX - Magazines - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX/Magazines/[DSK]/MSX MSX - Magazines - [DSK]/MSX MSX - Magazines - [DSK] (TOSEC-v2012-04-15_CM).dat)|17092|

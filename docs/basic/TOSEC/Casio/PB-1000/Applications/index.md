@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Casio PB-1000 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Casio/PB-1000/Applications/Casio PB-1000 - Applications.dat)|8979|
+|[..](../index.html)|DIR|
+|[Casio PB-1000 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Casio/PB-1000/Applications/Casio PB-1000 - Applications/Casio PB-1000 - Applications (TOSEC-v2013-12-16_CM).dat)|8979|

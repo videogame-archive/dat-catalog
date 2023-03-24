@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Philips CD-i - Manuals - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Philips/CD-i/Manuals/Educational/Philips CD-i - Manuals - Educational.dat)|815|
+|[..](../index.html)|DIR|
+|[Philips CD-i - Manuals - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Philips/CD-i/Manuals/Educational/Philips CD-i - Manuals - Educational/Philips CD-i - Manuals - Educational (TOSEC-v2022-12-21_CM).dat)|815|

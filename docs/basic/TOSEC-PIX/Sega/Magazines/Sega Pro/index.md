@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega - Magazines - Sega Pro.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Magazines/Sega Pro/Sega - Magazines - Sega Pro.dat)|892|
+|[..](../index.html)|DIR|
+|[Sega - Magazines - Sega Pro.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Magazines/Sega Pro/Sega - Magazines - Sega Pro/Sega - Magazines - Sega Pro (TOSEC-v2014-02-02_CM).dat)|892|

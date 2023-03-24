@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Archimedes - Demos - [ARC].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/Archimedes/Demos/[ARC]/Acorn Archimedes - Demos - [ARC].dat)|933|
+|[..](../index.html)|DIR|
+|[Acorn Archimedes - Demos - [ARC].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/Archimedes/Demos/[ARC]/Acorn Archimedes - Demos - [ARC]/Acorn Archimedes - Demos - [ARC] (TOSEC-v2021-12-11_CM).dat)|933|

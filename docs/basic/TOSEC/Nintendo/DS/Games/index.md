@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo DS - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/DS/Games/Nintendo DS - Games.dat)|141539|
+|[..](../index.html)|DIR|
+|[Nintendo DS - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/DS/Games/Nintendo DS - Games/Nintendo DS - Games (TOSEC-v2022-12-21_CM).dat)|141539|

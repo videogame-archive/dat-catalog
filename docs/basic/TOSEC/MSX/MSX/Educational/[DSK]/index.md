@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX - Educational - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX/Educational/[DSK]/MSX MSX - Educational - [DSK].dat)|20475|
+|[..](../index.html)|DIR|
+|[MSX MSX - Educational - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX/Educational/[DSK]/MSX MSX - Educational - [DSK]/MSX MSX - Educational - [DSK] (TOSEC-v2012-04-15_CM).dat)|20475|

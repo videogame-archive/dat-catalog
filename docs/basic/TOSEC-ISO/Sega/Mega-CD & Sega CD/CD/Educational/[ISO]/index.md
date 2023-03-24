@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Mega-CD & Sega CD - CD - Educational - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Sega/Mega-CD & Sega CD/CD/Educational/[ISO]/Sega Mega-CD & Sega CD - CD - Educational - [ISO].dat)|3380|
+|[..](../index.html)|DIR|
+|[Sega Mega-CD & Sega CD - CD - Educational - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Sega/Mega-CD & Sega CD/CD/Educational/[ISO]/Sega Mega-CD & Sega CD - CD - Educational - [ISO]/Sega Mega-CD & Sega CD - CD - Educational - [ISO] (TOSEC-v2014-07-01_CM).dat)|3380|

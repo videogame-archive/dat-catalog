@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[SNK Neo-Geo CD - Bonus Discs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/SNK/Neo-Geo CD/Bonus Discs/SNK Neo-Geo CD - Bonus Discs.dat)|970|
+|[..](../index.html)|DIR|
+|[SNK Neo-Geo CD - Bonus Discs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/SNK/Neo-Geo CD/Bonus Discs/SNK Neo-Geo CD - Bonus Discs/SNK Neo-Geo CD - Bonus Discs (TOSEC-v2014-06-12_CM).dat)|970|

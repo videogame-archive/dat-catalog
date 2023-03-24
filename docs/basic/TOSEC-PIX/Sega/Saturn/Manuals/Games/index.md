@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Saturn - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Saturn/Manuals/Games/Sega Saturn - Manuals - Games.dat)|65392|
+|[..](../index.html)|DIR|
+|[Sega Saturn - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Saturn/Manuals/Games/Sega Saturn - Manuals - Games/Sega Saturn - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|65392|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C128 - Demos - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C128/Demos/[PRG]/Commodore C128 - Demos - [PRG].dat)|1420|
+|[..](../index.html)|DIR|
+|[Commodore C128 - Demos - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C128/Demos/[PRG]/Commodore C128 - Demos - [PRG]/Commodore C128 - Demos - [PRG] (TOSEC-v2016-01-10_CM).dat)|1420|

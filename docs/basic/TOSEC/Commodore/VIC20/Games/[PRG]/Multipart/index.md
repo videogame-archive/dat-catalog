@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore VIC20 - Games - [PRG] - Multipart.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/VIC20/Games/[PRG]/Multipart/Commodore VIC20 - Games - [PRG] - Multipart.dat)|206543|
+|[..](../index.html)|DIR|
+|[Commodore VIC20 - Games - [PRG] - Multipart.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/VIC20/Games/[PRG]/Multipart/Commodore VIC20 - Games - [PRG] - Multipart/Commodore VIC20 - Games - [PRG] - Multipart (TOSEC-v2018-03-25_CM).dat)|206543|

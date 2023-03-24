@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[32x.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (merged)/32x.xml)|39932|
 |[a2600.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (merged)/a2600.xml)|368825|
 |[a2600_cass.xml](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/MAME/MAME 0.252 Software List ROMs (merged)/a2600_cass.xml)|13869|

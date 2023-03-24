@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - HC Home Computer (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/HC Home Computer (IT)/Multi-format - Magazines - HC Home Computer (IT).dat)|5528|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - HC Home Computer (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/HC Home Computer (IT)/Multi-format - Magazines - HC Home Computer (IT)/Multi-format - Magazines - HC Home Computer (IT) (TOSEC-v2014-02-03_CM).dat)|5528|

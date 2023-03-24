@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Coleco ColecoVision - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Coleco/ColecoVision/Firmware/Coleco ColecoVision - Firmware.dat)|3028|
+|[..](../index.html)|DIR|
+|[Coleco ColecoVision - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Coleco/ColecoVision/Firmware/Coleco ColecoVision - Firmware/Coleco ColecoVision - Firmware (TOSEC-v2015-05-07_CM).dat)|3028|

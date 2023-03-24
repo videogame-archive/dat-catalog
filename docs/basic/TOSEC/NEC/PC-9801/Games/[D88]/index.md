@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-9801 - Games - [D88].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/NEC/PC-9801/Games/[D88]/NEC PC-9801 - Games - [D88].dat)|2509|
+|[..](../index.html)|DIR|
+|[NEC PC-9801 - Games - [D88].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/NEC/PC-9801/Games/[D88]/NEC PC-9801 - Games - [D88]/NEC PC-9801 - Games - [D88] (TOSEC-v2022-06-08_CM).dat)|2509|

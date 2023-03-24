@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[GCE Vectrex - Demos - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/GCE/Vectrex/Demos/Various/GCE Vectrex - Demos - Various.dat)|12423|
+|[..](../index.html)|DIR|
+|[GCE Vectrex - Demos - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/GCE/Vectrex/Demos/Various/GCE Vectrex - Demos - Various/GCE Vectrex - Demos - Various (TOSEC-v2022-06-08_CM).dat)|12423|

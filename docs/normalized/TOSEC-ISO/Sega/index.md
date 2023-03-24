@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[32X](32X/index.html)|DIR|
 |[Chihiro](Chihiro/index.html)|DIR|
 |[Dreamcast](Dreamcast/index.html)|DIR|

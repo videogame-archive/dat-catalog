@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Luxor ABC 800 - Demos - [TD0].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Luxor/ABC 800/Demos/[TD0]/Luxor ABC 800 - Demos - [TD0].dat)|860|
+|[..](../index.html)|DIR|
+|[Luxor ABC 800 - Demos - [TD0].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Luxor/ABC 800/Demos/[TD0]/Luxor ABC 800 - Demos - [TD0]/Luxor ABC 800 - Demos - [TD0] (TOSEC-v2018-03-08_CM).dat)|860|

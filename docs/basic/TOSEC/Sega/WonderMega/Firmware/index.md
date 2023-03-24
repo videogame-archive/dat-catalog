@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega WonderMega - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/WonderMega/Firmware/Sega WonderMega - Firmware.dat)|1592|
+|[..](../index.html)|DIR|
+|[Sega WonderMega - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/WonderMega/Firmware/Sega WonderMega - Firmware/Sega WonderMega - Firmware (TOSEC-v2012-09-08_CM).dat)|1592|

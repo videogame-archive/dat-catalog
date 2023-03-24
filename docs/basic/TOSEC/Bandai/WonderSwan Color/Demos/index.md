@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bandai WonderSwan Color - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bandai/WonderSwan Color/Demos/Bandai WonderSwan Color - Demos.dat)|10278|
+|[..](../index.html)|DIR|
+|[Bandai WonderSwan Color - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bandai/WonderSwan Color/Demos/Bandai WonderSwan Color - Demos/Bandai WonderSwan Color - Demos (TOSEC-v2022-06-08_CM).dat)|10278|

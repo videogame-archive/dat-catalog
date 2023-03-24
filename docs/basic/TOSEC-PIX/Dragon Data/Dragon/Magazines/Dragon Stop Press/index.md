@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Dragon Data Dragon - Magazines - Dragon Stop Press.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Dragon Data/Dragon/Magazines/Dragon Stop Press/Dragon Data Dragon - Magazines - Dragon Stop Press.dat)|2523|
+|[..](../index.html)|DIR|
+|[Dragon Data Dragon - Magazines - Dragon Stop Press.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Dragon Data/Dragon/Magazines/Dragon Stop Press/Dragon Data Dragon - Magazines - Dragon Stop Press/Dragon Data Dragon - Magazines - Dragon Stop Press (TOSEC-v2010-01-23_CM).dat)|2523|

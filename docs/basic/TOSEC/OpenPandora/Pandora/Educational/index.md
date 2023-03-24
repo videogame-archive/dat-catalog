@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[OpenPandora Pandora - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/OpenPandora/Pandora/Educational/OpenPandora Pandora - Educational.dat)|1358|
+|[..](../index.html)|DIR|
+|[OpenPandora Pandora - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/OpenPandora/Pandora/Educational/OpenPandora Pandora - Educational/OpenPandora Pandora - Educational (TOSEC-v2012-04-13_CM).dat)|1358|

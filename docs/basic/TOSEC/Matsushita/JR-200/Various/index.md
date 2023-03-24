@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Matsushita JR-200 - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Matsushita/JR-200/Various/Matsushita JR-200 - Various.dat)|21927|
+|[..](../index.html)|DIR|
+|[Matsushita JR-200 - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Matsushita/JR-200/Various/Matsushita JR-200 - Various/Matsushita JR-200 - Various (TOSEC-v2022-06-08_CM).dat)|21927|

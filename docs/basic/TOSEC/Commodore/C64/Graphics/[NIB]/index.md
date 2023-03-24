@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Graphics - [NIB].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Graphics/[NIB]/Commodore C64 - Graphics - [NIB].dat)|2271|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Graphics - [NIB].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Graphics/[NIB]/Commodore C64 - Graphics - [NIB]/Commodore C64 - Graphics - [NIB] (TOSEC-v2020-10-08_CM).dat)|2271|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Lynx - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/Lynx/Firmware/Atari Lynx - Firmware.dat)|1094|
+|[..](../index.html)|DIR|
+|[Atari Lynx - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Lynx/Firmware/Atari Lynx - Firmware/Atari Lynx - Firmware (TOSEC-v2013-12-13_CM).dat)|1094|

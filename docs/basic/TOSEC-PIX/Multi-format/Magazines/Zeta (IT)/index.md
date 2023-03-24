@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Zeta (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Zeta (IT)/Multi-format - Magazines - Zeta (IT).dat)|8814|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Zeta (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Zeta (IT)/Multi-format - Magazines - Zeta (IT)/Multi-format - Magazines - Zeta (IT) (TOSEC-v2014-02-02_CM).dat)|8814|

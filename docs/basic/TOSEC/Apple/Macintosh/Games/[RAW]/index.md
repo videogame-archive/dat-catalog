@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple Macintosh - Games - [RAW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/Macintosh/Games/[RAW]/Apple Macintosh - Games - [RAW].dat)|445684|
+|[..](../index.html)|DIR|
+|[Apple Macintosh - Games - [RAW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/Macintosh/Games/[RAW]/Apple Macintosh - Games - [RAW]/Apple Macintosh - Games - [RAW] (TOSEC-v2022-12-21_CM).dat)|445684|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM Displaywriter - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/Displaywriter/Educational/IBM Displaywriter - Educational.dat)|4454|
+|[..](../index.html)|DIR|
+|[IBM Displaywriter - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/Displaywriter/Educational/IBM Displaywriter - Educational/IBM Displaywriter - Educational (TOSEC-v2021-12-11_CM).dat)|4454|

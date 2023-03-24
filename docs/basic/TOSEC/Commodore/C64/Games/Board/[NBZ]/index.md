@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Board - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Board/[NBZ]/Commodore C64 - Games - Board - [NBZ].dat)|6554|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Board - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Board/[NBZ]/Commodore C64 - Games - Board - [NBZ]/Commodore C64 - Games - Board - [NBZ] (TOSEC-v2022-12-22_CM).dat)|6554|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari ST - Demos - [STX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/ST/Demos/[STX]/Atari ST - Demos - [STX].dat)|1463|
+|[..](../index.html)|DIR|
+|[Atari ST - Demos - [STX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/ST/Demos/[STX]/Atari ST - Demos - [STX]/Atari ST - Demos - [STX] (TOSEC-v2013-12-13_CM).dat)|1463|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Tandy Radio Shack - Magazines - 80 Micro](Tandy Radio Shack - Magazines - 80 Micro/index.html)|DIR|

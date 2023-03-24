@@ -34,6 +34,12 @@ public class NoIntro extends Updater {
 
             // if application/zip content-type then extract archive
 			if (HTTP.hasZip(resp2.headers())) {
+				if(Files.exists(NORMALIZED_DIR.resolve(NO_INTRO_DIR)))
+					Util.deleteRecursive(NORMALIZED_DIR.resolve(NO_INTRO_DIR));
+				Files.createDirectories(NORMALIZED_DIR.resolve(NO_INTRO_DIR));
+				if(Files.exists(BASIC_DIR.resolve(NO_INTRO_DIR)))
+					Util.deleteRecursive(BASIC_DIR.resolve(NO_INTRO_DIR));
+				Files.createDirectories(BASIC_DIR.resolve(NO_INTRO_DIR));
 				try (final var in = new ZipInputStream(resp2.body())) {
 					ZipEntry ze;
 					while (null != (ze = in.getNextEntry())) {

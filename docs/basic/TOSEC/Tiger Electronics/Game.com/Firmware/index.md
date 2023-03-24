@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tiger Electronics Game.com - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tiger Electronics/Game.com/Firmware/Tiger Electronics Game.com - Firmware.dat)|1591|
+|[..](../index.html)|DIR|
+|[Tiger Electronics Game.com - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tiger Electronics/Game.com/Firmware/Tiger Electronics Game.com - Firmware/Tiger Electronics Game.com - Firmware (TOSEC-v2014-06-06_CM).dat)|1591|

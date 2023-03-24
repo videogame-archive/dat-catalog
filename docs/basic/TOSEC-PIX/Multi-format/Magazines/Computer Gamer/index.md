@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Computer Gamer.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Computer Gamer/Multi-format - Magazines - Computer Gamer.dat)|10122|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Computer Gamer.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Computer Gamer/Multi-format - Magazines - Computer Gamer/Multi-format - Magazines - Computer Gamer (TOSEC-v2012-02-26_CM).dat)|10122|

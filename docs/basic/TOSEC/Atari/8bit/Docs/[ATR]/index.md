@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 8bit - Docs - [ATR].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/8bit/Docs/[ATR]/Atari 8bit - Docs - [ATR].dat)|10146|
+|[..](../index.html)|DIR|
+|[Atari 8bit - Docs - [ATR].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/8bit/Docs/[ATR]/Atari 8bit - Docs - [ATR]/Atari 8bit - Docs - [ATR] (TOSEC-v2013-12-13_CM).dat)|10146|

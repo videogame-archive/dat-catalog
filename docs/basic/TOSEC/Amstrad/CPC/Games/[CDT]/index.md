@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad CPC - Games - [CDT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Amstrad/CPC/Games/[CDT]/Amstrad CPC - Games - [CDT].dat)|16638|
+|[..](../index.html)|DIR|
+|[Amstrad CPC - Games - [CDT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Amstrad/CPC/Games/[CDT]/Amstrad CPC - Games - [CDT]/Amstrad CPC - Games - [CDT] (TOSEC-v2022-12-21_CM).dat)|16638|

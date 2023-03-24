@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C65 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C65/Demos/Commodore C65 - Demos.dat)|25121|
+|[..](../index.html)|DIR|
+|[Commodore C65 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C65/Demos/Commodore C65 - Demos/Commodore C65 - Demos (TOSEC-v2011-10-06_CM).dat)|25121|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Magazines - Amiga Insider (DE).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga Insider (DE)/Commodore Amiga - Magazines - Amiga Insider (DE).dat)|1983|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Magazines - Amiga Insider (DE).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga Insider (DE)/Commodore Amiga - Magazines - Amiga Insider (DE)/Commodore Amiga - Magazines - Amiga Insider (DE) (TOSEC-v2011-03-15_CM).dat)|1983|

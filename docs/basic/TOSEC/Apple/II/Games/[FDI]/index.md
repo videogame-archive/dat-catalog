@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Games - [FDI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Games/[FDI]/Apple II - Games - [FDI].dat)|810|
+|[..](../index.html)|DIR|
+|[Apple II - Games - [FDI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Games/[FDI]/Apple II - Games - [FDI]/Apple II - Games - [FDI] (TOSEC-v2020-10-26_CM).dat)|810|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[GCE Vectrex - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/GCE/Vectrex/Applications/GCE Vectrex - Applications.dat)|5854|
+|[..](../index.html)|DIR|
+|[GCE Vectrex - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/GCE/Vectrex/Applications/GCE Vectrex - Applications/GCE Vectrex - Applications (TOSEC-v2012-02-27_CM).dat)|5854|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[3DO 3DO Interactive Multiplayer - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/3DO/3DO Interactive Multiplayer/Samplers/3DO 3DO Interactive Multiplayer - Samplers.dat)|23259|
+|[..](../index.html)|DIR|
+|[3DO 3DO Interactive Multiplayer - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/3DO/3DO Interactive Multiplayer/Samplers/3DO 3DO Interactive Multiplayer - Samplers/3DO 3DO Interactive Multiplayer - Samplers (TOSEC-v2023-01-08_CM).dat)|23259|

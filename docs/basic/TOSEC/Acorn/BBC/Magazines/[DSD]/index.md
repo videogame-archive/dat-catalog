@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn BBC - Magazines - [DSD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/BBC/Magazines/[DSD]/Acorn BBC - Magazines - [DSD].dat)|5728|
+|[..](../index.html)|DIR|
+|[Acorn BBC - Magazines - [DSD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/BBC/Magazines/[DSD]/Acorn BBC - Magazines - [DSD]/Acorn BBC - Magazines - [DSD] (TOSEC-v2013-10-22_CM).dat)|5728|

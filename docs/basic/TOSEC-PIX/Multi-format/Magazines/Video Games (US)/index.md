@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Video Games (US).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Video Games (US)/Multi-format - Magazines - Video Games (US).dat)|8577|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Video Games (US).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Video Games (US)/Multi-format - Magazines - Video Games (US)/Multi-format - Magazines - Video Games (US) (TOSEC-v2012-04-18_CM).dat)|8577|

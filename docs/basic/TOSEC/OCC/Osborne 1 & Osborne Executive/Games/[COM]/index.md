@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[OCC Osborne 1 & Osborne Executive - Games - [COM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/OCC/Osborne 1 & Osborne Executive/Games/[COM]/OCC Osborne 1 & Osborne Executive - Games - [COM].dat)|1226|
+|[..](../index.html)|DIR|
+|[OCC Osborne 1 & Osborne Executive - Games - [COM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/OCC/Osborne 1 & Osborne Executive/Games/[COM]/OCC Osborne 1 & Osborne Executive - Games - [COM]/OCC Osborne 1 & Osborne Executive - Games - [COM] (TOSEC-v2021-07-25_CM).dat)|1226|

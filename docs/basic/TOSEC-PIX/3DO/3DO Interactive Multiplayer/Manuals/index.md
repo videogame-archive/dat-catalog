@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Adult](Adult/index.html)|DIR|
 |[Applications](Applications/index.html)|DIR|
 |[Educational](Educational/index.html)|DIR|

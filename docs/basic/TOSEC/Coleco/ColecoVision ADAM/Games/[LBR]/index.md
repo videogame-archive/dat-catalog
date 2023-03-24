@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Coleco ColecoVision ADAM - Games - [LBR].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Coleco/ColecoVision ADAM/Games/[LBR]/Coleco ColecoVision ADAM - Games - [LBR].dat)|3451|
+|[..](../index.html)|DIR|
+|[Coleco ColecoVision ADAM - Games - [LBR].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Coleco/ColecoVision ADAM/Games/[LBR]/Coleco ColecoVision ADAM - Games - [LBR]/Coleco ColecoVision ADAM - Games - [LBR] (TOSEC-v2011-08-31_CM).dat)|3451|

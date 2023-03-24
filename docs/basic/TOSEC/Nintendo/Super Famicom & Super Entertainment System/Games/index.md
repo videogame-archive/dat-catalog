@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Super Famicom & Super Entertainment System - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/Super Famicom & Super Entertainment System/Games/Nintendo Super Famicom & Super Entertainment System - Games.dat)|1331651|
+|[..](../index.html)|DIR|
+|[Nintendo Super Famicom & Super Entertainment System - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/Super Famicom & Super Entertainment System/Games/Nintendo Super Famicom & Super Entertainment System - Games/Nintendo Super Famicom & Super Entertainment System - Games (TOSEC-v2020-10-26_CM).dat)|1331651|

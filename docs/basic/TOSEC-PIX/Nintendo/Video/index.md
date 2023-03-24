@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Video/Nintendo - Video.dat)|3403|
+|[..](../index.html)|DIR|
+|[Nintendo - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Video/Nintendo - Video/Nintendo - Video (TOSEC-v2022-12-21_CM).dat)|3403|

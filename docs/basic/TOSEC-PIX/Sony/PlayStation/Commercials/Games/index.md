@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sony PlayStation - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sony/PlayStation/Commercials/Games/Sony PlayStation - Commercials - Games.dat)|1391|
+|[..](../index.html)|DIR|
+|[Sony PlayStation - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sony/PlayStation/Commercials/Games/Sony PlayStation - Commercials - Games/Sony PlayStation - Commercials - Games (TOSEC-v2022-12-21_CM).dat)|1391|

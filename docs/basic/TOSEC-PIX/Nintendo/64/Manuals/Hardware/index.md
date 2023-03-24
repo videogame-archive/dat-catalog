@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo 64 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/64/Manuals/Hardware/Nintendo 64 - Manuals - Hardware.dat)|2689|
+|[..](../index.html)|DIR|
+|[Nintendo 64 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/64/Manuals/Hardware/Nintendo 64 - Manuals - Hardware/Nintendo 64 - Manuals - Hardware (TOSEC-v2011-03-13_CM).dat)|2689|

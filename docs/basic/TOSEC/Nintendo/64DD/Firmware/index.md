@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo 64DD - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/64DD/Firmware/Nintendo 64DD - Firmware.dat)|4028|
+|[..](../index.html)|DIR|
+|[Nintendo 64DD - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/64DD/Firmware/Nintendo 64DD - Firmware/Nintendo 64DD - Firmware (TOSEC-v2021-07-25_CM).dat)|4028|

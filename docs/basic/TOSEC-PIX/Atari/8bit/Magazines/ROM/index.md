@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 8bit - Magazines - ROM.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/8bit/Magazines/ROM/Atari 8bit - Magazines - ROM.dat)|1511|
+|[..](../index.html)|DIR|
+|[Atari 8bit - Magazines - ROM.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/8bit/Magazines/ROM/Atari 8bit - Magazines - ROM/Atari 8bit - Magazines - ROM (TOSEC-v2012-04-18_CM).dat)|1511|

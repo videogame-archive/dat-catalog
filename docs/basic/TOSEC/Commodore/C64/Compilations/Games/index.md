@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[BIN]]([BIN]/index.html)|DIR|
 |[[CRT]]([CRT]/index.html)|DIR|
 |[[D64]]([D64]/index.html)|DIR|

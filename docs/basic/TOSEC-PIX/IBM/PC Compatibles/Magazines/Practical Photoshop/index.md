@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Magazines - Practical Photoshop.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/Practical Photoshop/IBM PC Compatibles - Magazines - Practical Photoshop.dat)|1746|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Magazines - Practical Photoshop.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/IBM/PC Compatibles/Magazines/Practical Photoshop/IBM PC Compatibles - Magazines - Practical Photoshop/IBM PC Compatibles - Magazines - Practical Photoshop (TOSEC-v2012-12-25_CM).dat)|1746|

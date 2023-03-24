@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Dreamcast - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Sega/Dreamcast/Firmware/Sega Dreamcast - Firmware.dat)|5533|
+|[..](../index.html)|DIR|
+|[Sega Dreamcast - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Sega/Dreamcast/Firmware/Sega Dreamcast - Firmware/Sega Dreamcast - Firmware (TOSEC-v2017-07-05_CM).dat)|5533|

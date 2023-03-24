@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C128 - Games - [NIB].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C128/Games/[NIB]/Commodore C128 - Games - [NIB].dat)|8914|
+|[..](../index.html)|DIR|
+|[Commodore C128 - Games - [NIB].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C128/Games/[NIB]/Commodore C128 - Games - [NIB]/Commodore C128 - Games - [NIB] (TOSEC-v2021-07-14_CM).dat)|8914|

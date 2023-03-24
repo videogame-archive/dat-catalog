@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Cards - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Cards/[TAP]/Commodore C64 - Games - Cards - [TAP].dat)|7658|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Cards - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Cards/[TAP]/Commodore C64 - Games - Cards - [TAP]/Commodore C64 - Games - Cards - [TAP] (TOSEC-v2022-12-06_CM).dat)|7658|

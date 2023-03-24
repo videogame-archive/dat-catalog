@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Ericsson Alfaskop System 41 - System - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Ericsson/Alfaskop System 41/System/[IMG]/Ericsson Alfaskop System 41 - System - [IMG].dat)|1008|
+|[..](../index.html)|DIR|
+|[Ericsson Alfaskop System 41 - System - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Ericsson/Alfaskop System 41/System/[IMG]/Ericsson Alfaskop System 41 - System - [IMG]/Ericsson Alfaskop System 41 - System - [IMG] (TOSEC-v2020-10-26_CM).dat)|1008|

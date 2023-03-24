@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-Engine CD & TurboGrafx-16 CD - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/NEC/PC-Engine CD & TurboGrafx-16 CD/Manuals/Games/NEC PC-Engine CD & TurboGrafx-16 CD - Manuals - Games.dat)|11030|
+|[..](../index.html)|DIR|
+|[NEC PC-Engine CD & TurboGrafx-16 CD - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/NEC/PC-Engine CD & TurboGrafx-16 CD/Manuals/Games/NEC PC-Engine CD & TurboGrafx-16 CD - Manuals - Games/NEC PC-Engine CD & TurboGrafx-16 CD - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|11030|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Mega Drive & Genesis - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Mega Drive & Genesis/Manuals/Games/Sega Mega Drive & Genesis - Manuals - Games.dat)|36729|
+|[..](../index.html)|DIR|
+|[Sega Mega Drive & Genesis - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Mega Drive & Genesis/Manuals/Games/Sega Mega Drive & Genesis - Manuals - Games/Sega Mega Drive & Genesis - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|36729|

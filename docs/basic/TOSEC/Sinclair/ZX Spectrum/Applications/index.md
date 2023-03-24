@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[$B]]([$B]/index.html)|DIR|
 |[[$C]]([$C]/index.html)|DIR|
 |[[$U]]([$U]/index.html)|DIR|

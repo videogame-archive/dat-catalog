@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - MicroKids.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/MicroKids/Multi-format - Magazines - MicroKids.dat)|1795|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - MicroKids.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/MicroKids/Multi-format - Magazines - MicroKids/Multi-format - Magazines - MicroKids (TOSEC-v2011-02-10_CM).dat)|1795|

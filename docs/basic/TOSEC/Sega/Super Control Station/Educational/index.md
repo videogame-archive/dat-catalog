@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Super Control Station - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Super Control Station/Educational/Sega Super Control Station - Educational.dat)|916|
+|[..](../index.html)|DIR|
+|[Sega Super Control Station - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Super Control Station/Educational/Sega Super Control Station - Educational/Sega Super Control Station - Educational (TOSEC-v2011-08-13_CM).dat)|916|

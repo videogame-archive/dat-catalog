@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[D13]]([D13]/index.html)|DIR|
 |[[DSK]]([DSK]/index.html)|DIR|
 |[[EDD]]([EDD]/index.html)|DIR|

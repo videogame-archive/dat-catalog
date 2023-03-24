@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel Intellivision - Compilations - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Mattel/Intellivision/Compilations/[Multipart]/Mattel Intellivision - Compilations - [Multipart].dat)|1383|
+|[..](../index.html)|DIR|
+|[Mattel Intellivision - Compilations - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Mattel/Intellivision/Compilations/[Multipart]/Mattel Intellivision - Compilations - [Multipart]/Mattel Intellivision - Compilations - [Multipart] (TOSEC-v2018-07-01_CM).dat)|1383|

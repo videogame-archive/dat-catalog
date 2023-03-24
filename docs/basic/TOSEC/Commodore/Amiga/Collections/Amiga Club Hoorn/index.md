@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Collections - Amiga Club Hoorn.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/Amiga/Collections/Amiga Club Hoorn/Commodore Amiga - Collections - Amiga Club Hoorn.dat)|13482|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Collections - Amiga Club Hoorn.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/Amiga/Collections/Amiga Club Hoorn/Commodore Amiga - Collections - Amiga Club Hoorn/Commodore Amiga - Collections - Amiga Club Hoorn (TOSEC-v2021-09-27_CM).dat)|13482|

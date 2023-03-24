@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Super Control Station - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Super Control Station/Games/Sega Super Control Station - Games.dat)|3898|
+|[..](../index.html)|DIR|
+|[Sega Super Control Station - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Super Control Station/Games/Sega Super Control Station - Games/Sega Super Control Station - Games (TOSEC-v2011-08-13_CM).dat)|3898|

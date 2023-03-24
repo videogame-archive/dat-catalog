@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[PTC Sol Terminal Computer SOL-20 - Various - [SOL].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/PTC/Sol Terminal Computer SOL-20/Various/[SOL]/PTC Sol Terminal Computer SOL-20 - Various - [SOL].dat)|4633|
+|[..](../index.html)|DIR|
+|[PTC Sol Terminal Computer SOL-20 - Various - [SOL].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/PTC/Sol Terminal Computer SOL-20/Various/[SOL]/PTC Sol Terminal Computer SOL-20 - Various - [SOL]/PTC Sol Terminal Computer SOL-20 - Various - [SOL] (TOSEC-v2011-08-31_CM).dat)|4633|

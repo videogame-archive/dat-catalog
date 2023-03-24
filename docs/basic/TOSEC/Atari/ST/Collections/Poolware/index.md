@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari ST - Collections - Poolware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/ST/Collections/Poolware/Atari ST - Collections - Poolware.dat)|163365|
+|[..](../index.html)|DIR|
+|[Atari ST - Collections - Poolware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/ST/Collections/Poolware/Atari ST - Collections - Poolware/Atari ST - Collections - Poolware (TOSEC-v2013-12-13_CM).dat)|163365|

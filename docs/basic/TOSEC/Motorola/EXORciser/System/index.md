@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Motorola EXORciser - System.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Motorola/EXORciser/System/Motorola EXORciser - System.dat)|3609|
+|[..](../index.html)|DIR|
+|[Motorola EXORciser - System.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Motorola/EXORciser/System/Motorola EXORciser - System/Motorola EXORciser - System (TOSEC-v2017-04-05_CM).dat)|3609|

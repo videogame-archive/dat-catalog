@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga CDTV - Applications - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Commodore/Amiga CDTV/Applications/[ISO]/Commodore Amiga CDTV - Applications - [ISO].dat)|1669|
+|[..](../index.html)|DIR|
+|[Commodore Amiga CDTV - Applications - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Commodore/Amiga CDTV/Applications/[ISO]/Commodore Amiga CDTV - Applications - [ISO]/Commodore Amiga CDTV - Applications - [ISO] (TOSEC-v2018-03-24_CM).dat)|1669|

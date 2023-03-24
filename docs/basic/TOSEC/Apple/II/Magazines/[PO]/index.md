@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Magazines - [PO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Magazines/[PO]/Apple II - Magazines - [PO].dat)|31823|
+|[..](../index.html)|DIR|
+|[Apple II - Magazines - [PO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Magazines/[PO]/Apple II - Magazines - [PO]/Apple II - Magazines - [PO] (TOSEC-v2013-12-12_CM).dat)|31823|

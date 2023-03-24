@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[EACA EG2000 Colour Genie - Source.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/EACA/EG2000 Colour Genie/Source/EACA EG2000 Colour Genie - Source.dat)|1030|
+|[..](../index.html)|DIR|
+|[EACA EG2000 Colour Genie - Source.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/EACA/EG2000 Colour Genie/Source/EACA EG2000 Colour Genie - Source/EACA EG2000 Colour Genie - Source (TOSEC-v2020-10-26_CM).dat)|1030|

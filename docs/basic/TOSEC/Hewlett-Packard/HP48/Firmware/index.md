@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Hewlett-Packard HP48 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Hewlett-Packard/HP48/Firmware/Hewlett-Packard HP48 - Firmware.dat)|1799|
+|[..](../index.html)|DIR|
+|[Hewlett-Packard HP48 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Hewlett-Packard/HP48/Firmware/Hewlett-Packard HP48 - Firmware/Hewlett-Packard HP48 - Firmware (TOSEC-v2014-01-24_CM).dat)|1799|

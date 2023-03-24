@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Sony PlayStation 3 - Magazines - Play](Sony PlayStation 3 - Magazines - Play/index.html)|DIR|

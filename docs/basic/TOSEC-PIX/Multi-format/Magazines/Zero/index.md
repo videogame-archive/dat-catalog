@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Zero.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Zero/Multi-format - Magazines - Zero.dat)|13221|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Zero.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Zero/Multi-format - Magazines - Zero/Multi-format - Magazines - Zero (TOSEC-v2010-01-02_CM).dat)|13221|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Game Gear - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Game Gear/Applications/Sega Game Gear - Applications.dat)|1794|
+|[..](../index.html)|DIR|
+|[Sega Game Gear - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Game Gear/Applications/Sega Game Gear - Applications/Sega Game Gear - Applications (TOSEC-v2021-07-25_CM).dat)|1794|

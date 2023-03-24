@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX Spectrum - Documentation - [$W].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Documentation/[$W]/Sinclair ZX Spectrum - Documentation - [$W].dat)|7810|
+|[..](../index.html)|DIR|
+|[Sinclair ZX Spectrum - Documentation - [$W].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Documentation/[$W]/Sinclair ZX Spectrum - Documentation - [$W]/Sinclair ZX Spectrum - Documentation - [$W] (TOSEC-v2011-09-24_CM).dat)|7810|

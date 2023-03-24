@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64DTV - Applications - [D64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64DTV/Applications/[D64]/Commodore C64DTV - Applications - [D64].dat)|847|
+|[..](../index.html)|DIR|
+|[Commodore C64DTV - Applications - [D64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64DTV/Applications/[D64]/Commodore C64DTV - Applications - [D64]/Commodore C64DTV - Applications - [D64] (TOSEC-v2013-03-05_CM).dat)|847|

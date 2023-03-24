@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Edge (AU).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Edge (AU)/Multi-format - Magazines - Edge (AU).dat)|1925|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Edge (AU).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Edge (AU)/Multi-format - Magazines - Edge (AU)/Multi-format - Magazines - Edge (AU) (TOSEC-v2013-04-07_CM).dat)|1925|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Sega Mega-CD & Sega CD - CD - Games - [IMG]](Sega Mega-CD & Sega CD - CD - Games - [IMG]/index.html)|DIR|

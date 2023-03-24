@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Boulder Dash - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Boulder Dash/[PRG]/Commodore C64 - Games - Boulder Dash - [PRG].dat)|115707|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Boulder Dash - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Boulder Dash/[PRG]/Commodore C64 - Games - Boulder Dash - [PRG]/Commodore C64 - Games - Boulder Dash - [PRG] (TOSEC-v2022-11-08_CM).dat)|115707|

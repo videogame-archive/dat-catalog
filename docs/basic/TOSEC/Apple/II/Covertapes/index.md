@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Covertapes.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Covertapes/Apple II - Covertapes.dat)|6769|
+|[..](../index.html)|DIR|
+|[Apple II - Covertapes.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Covertapes/Apple II - Covertapes/Apple II - Covertapes (TOSEC-v2022-12-21_CM).dat)|6769|

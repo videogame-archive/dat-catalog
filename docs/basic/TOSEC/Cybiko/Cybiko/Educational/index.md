@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Cybiko Cybiko - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Cybiko/Cybiko/Educational/Cybiko Cybiko - Educational.dat)|2788|
+|[..](../index.html)|DIR|
+|[Cybiko Cybiko - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Cybiko/Cybiko/Educational/Cybiko Cybiko - Educational/Cybiko Cybiko - Educational (TOSEC-v2014-01-07_CM).dat)|2788|

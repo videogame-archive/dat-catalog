@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tandy Radio Shack - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Tandy Radio Shack/Catalogs/Tandy Radio Shack - Catalogs.dat)|63083|
+|[..](../index.html)|DIR|
+|[Tandy Radio Shack - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Tandy Radio Shack/Catalogs/Tandy Radio Shack - Catalogs/Tandy Radio Shack - Catalogs (TOSEC-v2013-12-12_CM).dat)|63083|

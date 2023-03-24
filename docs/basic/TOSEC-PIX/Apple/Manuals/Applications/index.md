@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/Manuals/Applications/Apple - Manuals - Applications.dat)|913|
+|[..](../index.html)|DIR|
+|[Apple - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/Manuals/Applications/Apple - Manuals - Applications/Apple - Manuals - Applications (TOSEC-v2012-04-12_CM).dat)|913|

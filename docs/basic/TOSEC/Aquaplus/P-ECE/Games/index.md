@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Aquaplus P-ECE - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Aquaplus/P-ECE/Games/Aquaplus P-ECE - Games.dat)|2356|
+|[..](../index.html)|DIR|
+|[Aquaplus P-ECE - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Aquaplus/P-ECE/Games/Aquaplus P-ECE - Games/Aquaplus P-ECE - Games (TOSEC-v2018-03-08_CM).dat)|2356|

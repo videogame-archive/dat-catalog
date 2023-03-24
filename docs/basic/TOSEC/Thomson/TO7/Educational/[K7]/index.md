@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Thomson TO7 - Educational - [K7].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/TO7/Educational/[K7]/Thomson TO7 - Educational - [K7].dat)|3160|
+|[..](../index.html)|DIR|
+|[Thomson TO7 - Educational - [K7].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Thomson/TO7/Educational/[K7]/Thomson TO7 - Educational - [K7]/Thomson TO7 - Educational - [K7] (TOSEC-v2012-08-27_CM).dat)|3160|

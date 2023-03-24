@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair QL - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/QL/Applications/Sinclair QL - Applications.dat)|4679|
+|[..](../index.html)|DIR|
+|[Sinclair QL - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/QL/Applications/Sinclair QL - Applications/Sinclair QL - Applications (TOSEC-v2011-09-24_CM).dat)|4679|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nascom I & II - Applications - [BAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nascom/I & II/Applications/[BAS]/Nascom I & II - Applications - [BAS].dat)|1684|
+|[..](../index.html)|DIR|
+|[Nascom I & II - Applications - [BAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nascom/I & II/Applications/[BAS]/Nascom I & II - Applications - [BAS]/Nascom I & II - Applications - [BAS] (TOSEC-v2014-04-11_CM).dat)|1684|

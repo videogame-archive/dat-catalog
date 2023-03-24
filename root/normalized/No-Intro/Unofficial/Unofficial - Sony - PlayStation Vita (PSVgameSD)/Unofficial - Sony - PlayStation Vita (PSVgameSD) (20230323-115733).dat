@@ -1,0 +1,1831 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>84</id>
+		<name>Unofficial - Sony - PlayStation Vita (PSVgameSD)</name>
+		<description>Unofficial - Sony - PlayStation Vita (PSVgameSD)</description>
+		<version>20230323-115733</version>
+		<author>buckwheat, Bumpfi, Densetsu, diego-rbb, foxe, Gefflon, Hiccup, jimmsu, norkmetnoil577, SonGoku, UnlockerPT, Whovian9369, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="7'scarlet (USA)" id="z035">
+		<description>7'scarlet (USA)</description>
+		<game_id>PCSE01168</game_id>
+		<rom name="7'scarlet (USA).psv" size="3791650816" crc="48f9c7f5" md5="23f610f55a57d721894787e1963dba77" sha1="373cf01cec7005e0097798d9d7894f7547b09629" serial="PCSE-01168"/>
+	</game>
+	<game name="A.W. - Phoenix Festa (Asia) (En)" id="z077">
+		<description>A.W. - Phoenix Festa (Asia) (En)</description>
+		<game_id>PCSB00960</game_id>
+		<rom name="A.W. - Phoenix Festa (Asia) (En).psv" size="1895825408" crc="ae77e53a" md5="78c6883a7290f70588e51ad04bd3d515" sha1="671d8912454f553f142bf3bad363d48d9c79b046" serial="PCSB-00960"/>
+	</game>
+	<game name="Akiba's Trip - Undead &amp; Undressed (USA)" id="z040">
+		<description>Akiba's Trip - Undead &amp; Undressed (USA)</description>
+		<game_id>PCSE00428</game_id>
+		<rom name="Akiba's Trip - Undead &amp; Undressed (USA).psv" size="3791650816" crc="7009c733" md5="e0b0d589c6f5d27167328d0717c56bcc" sha1="c6df0c50cd0a46851643db7e315f141a49f80ac0" serial="PCSE-00428"/>
+	</game>
+	<game name="Amatsutsumi (Japan)" id="0301">
+		<description>Amatsutsumi (Japan)</description>
+		<game_id>PCSG01198</game_id>
+		<rom name="Amatsutsumi (Japan).psv" size="3791650816" crc="7e0e9b57" md5="c9ef732f3708f6017e7207fce56e5e5b" sha1="638cd223b73208a8eca6287c4535fb6c1f7098f0" sha256="4c95954432df68b11ef8d5e1ef488eeb0f5e14d900b48e929a5a3d08dd7336cf" serial="PCSG-01198"/>
+	</game>
+	<game name="Amazing Spider-Man, The (USA)" id="0164">
+		<description>Amazing Spider-Man, The (USA)</description>
+		<game_id>PCSE00333</game_id>
+		<rom name="Amazing Spider-Man, The (USA).psv" size="3791650816" crc="8414cdcd" md5="46563983f4dc64d507731b872c7f4cf1" sha1="1b0dec497004df070f1f268cf7b6e52ccac0a55b" serial="PCSE-00333"/>
+	</game>
+	<game name="Angry Birds - Star Wars (Europe) (En,Fr,De,Es,It)" id="0110">
+		<description>Angry Birds - Star Wars (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00397</game_id>
+		<rom name="Angry Birds - Star Wars (Europe) (En,Fr,De,Es,It).psv" size="1895825408" crc="c5e5079a" md5="9d528af2aa5d5a71f07828038739d95c" sha1="97070bcbb31a340d18b5f83d2b899d1ee3a5620c" sha256="db00553985f4898d943c52dcf0fdf579ca56d9e08eab2989a00a256f25fcfc81" serial="PCSB-00397"/>
+	</game>
+	<game name="Ao no kanata no Four Rythm (Japan)" id="z186">
+		<description>Ao no kanata no Four Rythm (Japan)</description>
+		<game_id>PCSG00700</game_id>
+		<rom name="Ao no kanata no Four Rythm (Japan).psv" size="3791650816" crc="fa9f1745" md5="06594ff8046bab2324e0ec44a78b3946" sha1="4ae5f72f248c94430ca5d83edb07f1d855d117d0" sha256="8af13dcb081061c8ec224722fecff9ad9f44c16a7a1373e95c65290112990a80" serial="PCSG-00700"/>
+	</game>
+	<game name="Arcana Heart 3 - Love Max!!!!! (USA)" id="z042">
+		<description>Arcana Heart 3 - Love Max!!!!! (USA)</description>
+		<game_id>PCSE00427</game_id>
+		<rom name="Arcana Heart 3 - Love Max!!!!! (USA).psv" size="3791650816" crc="cb1dae33" md5="a84047c01f00d1a7a3a4ca19894b8492" sha1="07e6f90d0f1587d4d1d87fc8808768037b606547" serial="PCSE-00427"/>
+	</game>
+	<game name="Arcana Heart 3 - LOVEMAX!!!!! (Europe)" id="0131">
+		<description>Arcana Heart 3 - LOVEMAX!!!!! (Europe)</description>
+		<game_id>PCSB00630</game_id>
+		<rom name="Arcana Heart 3 - LOVEMAX!!!!! (Europe).psv" size="3791650816" crc="208176ed" md5="85c1ea25cb4c5e5fdd3d2142771855a9" sha1="be7280f8baaeba44ea9c19e603d83e464a14453b" sha256="707bc6fac67d422d5fdd98ed332d290f9b1d9e321404416bee81314e1ec03450" serial="PCSB-00630"/>
+	</game>
+	<game name="Army Corps of Hell (Europe) (En,Fr,De,Es,It) [b]" id="0115">
+		<description>Army Corps of Hell (Europe) (En,Fr,De,Es,It) [b]</description>
+		<game_id>PCSB00050</game_id>
+		<rom name="Army Corps of Hell (Europe) (En,Fr,De,Es,It) [b].psv" size="1895825408" crc="04a3cff0" md5="483e940fb3a4947ced51a92c2247830c" sha1="1f0f6ae201bb4f28ed4bb122a1ea8c8e9c7496b7" sha256="fa2350d46551a87ea9c66570349bc8716d7f483319aa23c0079071d121a1c989" status="baddump" serial="PCSB-00050"/>
+	</game>
+	<game name="Asphalt - Injection (Japan) [b]" id="z169">
+		<description>Asphalt - Injection (Japan) [b]</description>
+		<game_id>PCSG00012</game_id>
+		<rom name="Asphalt - Injection (Japan) [b].psv" size="1895825408" crc="03786858" md5="f1441eaecd499bfe2815214a3cb1ed0b" sha1="2d2ba91e3f255e924ba54172c345278d41fb4ec6" sha256="95f01fca39e71b698a2b6ce842fff139542ceffaf64c80bd8983a504f5db20a2" status="baddump" serial="PCSG-00012"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="4c4dc6ff" md5="8d71b13a8a9df790bfdfdec4df067669" sha1="8fb70130ce2c021e00dcb70445b7e02a9ddefeb0" sha256="65c2ff1506bf5575228975e8243418fd88aad4528cb8c04c9ec625a3fa7815de" serial="PCSG-00012"/>
+	</game>
+	<game name="Assassin's Creed III - Liberation (Europe) (En,Fr,De,Es,It,Nl,Ru)" id="0086">
+		<description>Assassin's Creed III - Liberation (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+		<game_id>PCSB00074</game_id>
+		<rom name="0086 - Assassin's Creed III - Liberation (Europe) (En,Fr,De,Es,It,Nl,Ru).psv" size="3791650816" crc="b235471b" md5="5020a6fa45928ab3d8b80020e24f75d7" sha1="0823c98299ba0eccd990f291309d68c72574f7f1" status="verified" serial="PCSB-00074"/>
+	</game>
+	<game name="Assassin's Creed III - Liberation (USA) (En,Fr,Es,Pt-BR)" id="z043">
+		<description>Assassin's Creed III - Liberation (USA) (En,Fr,Es,Pt-BR)</description>
+		<game_id>PCSE00053</game_id>
+		<rom name="Assassin's Creed III - Liberation (USA) (En,Fr,Es,Pt-BR).psv" size="3791650816" crc="06fed7b3" md5="fbbcc7d6342bae09338e06bbeec829f0" sha1="2a33a3b0426ba915f0bb01da6970041bf871e163" sha256="17fe33bf3e1956e7b2025935fd37151cd15c23c1883cdc9523fb33a4986371fc" status="verified" serial="PCSE-00053"/>
+	</game>
+	<game name="Atelier Escha &amp; Logy Plus - Alchemists of the Dusk Sky (USA)" id="z055">
+		<description>Atelier Escha &amp; Logy Plus - Alchemists of the Dusk Sky (USA)</description>
+		<game_id>PCSE00826</game_id>
+		<rom name="Atelier Escha &amp; Logy Plus - Alchemists of the Dusk Sky (USA).psv" size="3791650816" crc="47e4e944" md5="a682e3e0c116d8a7591dc5572a3bd03c" sha1="cedb1e5d7622fa40fd489242b703188d0cb6220f" serial="PCSE-00826"/>
+	</game>
+	<game name="Atelier Sophie - Fushigi na Hon no Renkinjutsushi (Japan)" id="z213">
+		<description>Atelier Sophie - Fushigi na Hon no Renkinjutsushi (Japan)</description>
+		<game_id>PCSG00694</game_id>
+		<rom name="Atelier Sophie - Fushigi na Hon no Renkinjutsushi (Japan).psv" size="3791650816" crc="4828701b" md5="fdba477a093ccd739737201df99aec5e" sha1="188dbfe6dea92ae12bc699d9d5701029bc673f5a" sha256="d383128cdcbf7eb2195bde530ba72cd467884b75efacb138bf369dd0209337f0" serial="PCSG-00694"/>
+	</game>
+	<game name="BlazBlue - Continuum Shift (Europe)" id="z105">
+		<description>BlazBlue - Continuum Shift (Europe)</description>
+		<game_id>PCSB00042</game_id>
+		<rom name="BlazBlue - Continuum Shift (Europe).psv" size="3791650816" crc="aaf42773" md5="10c8f297f792c0eb6af3ecf9c762958e" sha1="9921fdc76f727e48a8f2cef93f01d4aba551ee80" sha256="94d0e0ac9acb8a72483160e3d7a3a743c3efcfc38fcaa8f83d61ff7d8884e56c" serial="PCSB-00042"/>
+	</game>
+	<game name="Blue Reflection (Japan)" id="z078">
+		<description>Blue Reflection (Japan)</description>
+		<game_id>PCSG00987</game_id>
+		<rom name="Blue Reflection (Japan).psv" size="3791650816" crc="593e9734" md5="7d80449f0972c9e4c0075ea5285f1a60" sha1="eb13e886c6778d8742318fed1fdeea215192198d" sha256="1108bee7707bb59a85604f66beb0f981567bcfba4350eff8c9c8f85c3acf78f4" serial="PCSG-00987"/>
+		<rom name="Blue Reflection (Japan).rif" size="512" crc="c7ef7a8d" md5="dd167123af1bd9d08dd7e60031345aff" sha1="f9d93d7c073289ab7952ee12048a0c3b3b373832" sha256="5d8dfa9f16ab5244333bbf2455251201482ff6b45a10d6fca8cce03709740331"/>
+	</game>
+	<game name="Borderlands 2 (Europe) (En,Fr,De)" id="0092">
+		<description>Borderlands 2 (Europe) (En,Fr,De)</description>
+		<game_id>PCSF00570</game_id>
+		<rom name="Borderlands 2 (Europe) (En,Fr,De).psv" size="3791650816" crc="f9e80636" md5="f2c29bb2653e7733949fbdab15c165db" sha1="a0c3ac20cc23db614c8c24055a01ab97b6849aa8" sha256="94286357cf4cb026a1de5007205d64af9ebd8df4fad89f5a5273cc3f597020b0" serial="PCSB-00570"/>
+	</game>
+	<game name="Borderlands 2 (USA)" id="z044">
+		<description>Borderlands 2 (USA)</description>
+		<game_id>PCSE00383</game_id>
+		<rom name="Borderlands 2 (USA).psv" size="3791650816" crc="36988f57" md5="da61d2b1bf3dba08d4f0565c57115fbc" sha1="08ff7d07213b853c4b1281a9bf7846ce38558bd9" serial="PCSE-00383"/>
+	</game>
+	<game name="Bystry jak... (Poland)" id="z053" cloneofid="0197">
+		<description>Bystry jak... (Poland)</description>
+		<game_id>PCSF00217</game_id>
+		<rom name="0379 - Bystry jak... (Poland)(Pl).psv" size="1895825408" crc="8665d163" md5="b0ce3834ce70260ac2de93ac4dd015bf" sha1="f351ecf5e6d6715e9829dcace528e478b99b4a4a" serial="PCSF-00217"/>
+	</game>
+	<game name="Chao Ku Jiepai - Yinsu (China)" id="z006">
+		<description>Chao Ku Jiepai - Yinsu (China)</description>
+		<game_id>PCSH00264</game_id>
+		<rom name="Chao Ku Jiepai - Yinsu (China).psv" size="3791650816" crc="42d130c8" md5="075bbffb86a58e71d7e047bebf13e6e0" sha1="8adde5426994b28682307fdb8940c8599b11dc51" serial="PCSH-00264"/>
+		<rom name="Chao Ku Jiepai - Yinsu (China).rif" size="512" crc="05e715d1" md5="a885ea8a9748aba257966a9a1c9784ed" sha1="793e4340d82331da213cae743507455cd6531d9f" sha256="652e1dfe56727bbe2c1d29b4a3be70ef18c9c684a6d0e15084b678e3ba5e614c"/>
+	</game>
+	<game name="Chaos Child Love Chu Chu!! (Japan)" id="z187">
+		<description>Chaos Child Love Chu Chu!! (Japan)</description>
+		<game_id>PCSG00995</game_id>
+		<rom name="Chaos Child Love Chu Chu!! (Japan).psv" size="1895825408" crc="54b545ca" md5="53337549f67e0b572eb58f68ae72cd43" sha1="64fa2c6f03da5eda4a25c9c09e367d078422e02c" sha256="6eefd497fb90d1a13822cb244dbbca6527519b9a0699ee58d8b36c9f44424b69" serial="PCSG-00995"/>
+	</game>
+	<game name="Chaos;Child (Japan)" id="z188">
+		<description>Chaos;Child (Japan)</description>
+		<game_id>PCSG00555</game_id>
+		<rom name="Chaos;Child (Japan).psv" size="3791650816" crc="91319065" md5="b8243e7ac53e529b4606a69c7597007e" sha1="fd2ef80d3532c1e66573bcd512ff635b75647236" sha256="f063cb743e9aa54e4adea3780ffaf6d9941133872d074212ef65a6db84aaa018" serial="PCSG-00555"/>
+	</game>
+	<game name="Chaos;Head Dual (Japan)" id="z189">
+		<description>Chaos;Head Dual (Japan)</description>
+		<game_id>PCSG00411</game_id>
+		<rom name="Chaos;Head Dual (Japan).psv" size="3791650816" crc="b42bf038" md5="81acc8496f2b2e994c9682040b931127" sha1="1329250d7c4190a58698213a0c9b587cbceb5405" sha256="96f3079f0b1abd768ab5b7fdd4e6dd457454409a2ada549306f8ffaf099e851b" serial="PCSG-00411"/>
+	</game>
+	<game name="Child of Light - Deluxe Edition (Asia) (En,Ja,Zh-Hant)" id="z050">
+		<description>Child of Light - Deluxe Edition (Asia) (En,Ja,Zh-Hant)</description>
+		<game_id>PCSG00408</game_id>
+		<rom name="Child of Light - Deluxe Edition (Asia) (En,Ja,Zh-Hant).psv" size="1895825408" crc="d5f84b88" md5="f8c18178e4e585c9efd8d86789fd1cf5" sha1="94e099fe5a981d5e71950d2b265d7309f4d08749" serial="PCSG-00408"/>
+	</game>
+	<game name="Chou Jigen Game Neptune Re;Birth 1 (Japan) (Genteiban)" id="z190">
+		<description>Chou Jigen Game Neptune Re;Birth 1 (Japan) (Genteiban)</description>
+		<game_id>PCSG00226</game_id>
+		<rom name="Chou Jigen Game Neptune Re;Birth 1 (Japan) (Genteiban).psv" size="3791650816" crc="eb5293dd" md5="ff4a2c756c5f6b672b6f9bdca89dc496" sha1="c31718a7605e80a72136552497c65a29670aae5f" sha256="e2eabef474d4f62f66273762faa0fe8ec29ffc3a9e8b38232b4b31085b8b07bf" serial="PCSG-00226"/>
+	</game>
+	<game name="Chou Jigen Game Neptune Re;Birth 2 Sisters Generation (Japan) (Genteiban)" id="z191">
+		<description>Chou Jigen Game Neptune Re;Birth 2 Sisters Generation (Japan) (Genteiban)</description>
+		<game_id>PCSG00335</game_id>
+		<rom name="Chou Jigen Game Neptune Re;Birth 2 Sisters Generation (Japan) (Genteiban).psv" size="3791650816" crc="7f7421cc" md5="25f0939f337d880f3ea01ee9c2dd24f6" sha1="ab4c9b8089159a2d808ad5ce5fdf0acb4ff4c6b6" sha256="81420ca6523178a5fcf7b7beb766a2e471b0e25fd2de4ed7f7420e4ca54148a1" serial="PCSG-00335"/>
+	</game>
+	<game name="Chou Jigen Taisen Neptune VS Sega Hard Girls Yume no Gattai Special (Japan) (Genteiban)" id="z192">
+		<description>Chou Jigen Taisen Neptune VS Sega Hard Girls Yume no Gattai Special (Japan) (Genteiban)</description>
+		<game_id>PCSG00644</game_id>
+		<rom name="Chou Jigen Taisen Neptune VS Sega Hard Girls Yume no Gattai Special (Japan) (Genteiban).psv" size="3791650816" crc="582102c9" md5="2810b5c03e0132aa8cb8f21dfb0d1052" sha1="46bab18eac1285453adad6130b8f31b0087d2ea9" sha256="91d00aa7faf0413583501c748e42755bcbf65721030590d5c6b8d7062490b75e" serial="PCSG-00644"/>
+	</game>
+	<game name="Code - Realize - Future Blessings (USA)" id="0267">
+		<description>Code - Realize - Future Blessings (USA)</description>
+		<game_id>PCSE01057</game_id>
+		<rom name="Code - Realize - Future Blessings (USA).psv" size="3791650816" crc="5cb65d49" md5="cbc608f0c5a859a57fd6957f5c11d159" sha1="ae46a30ca99ec3622ac4ab0f3c66b39afe9c214a" serial="PCSE-01057"/>
+	</game>
+	<game name="Collar x Malice (USA)" id="0239">
+		<description>Collar x Malice (USA)</description>
+		<game_id>PCSE01011</game_id>
+		<rom name="Collar x Malice (USA).psv" size="3791650816" crc="2d169048" md5="beb50f8d9c9740ee9fb69353825756ee" sha1="a1d130128d73d8f039c66d9557cd1b4ca4dd0042" mia="yes" serial="PCSE-01011"/>
+	</game>
+	<game name="Conception II - Children of the Seven Stars (USA)" id="0180">
+		<description>Conception II - Children of the Seven Stars (USA)</description>
+		<game_id>PCSE00376</game_id>
+		<rom name="Conception II - Children of the Seven Stars (USA).psv" size="1895825408" crc="b868f739" md5="61ce84c2490434718816252f36e9da53" sha1="d68e68157eb1ee699d5d6558c8a5ab29134dd48f" serial="PCSE-00376"/>
+	</game>
+	<game name="Corpse Party - Blood Drive (Korea)" id="z054">
+		<description>Corpse Party - Blood Drive (Korea)</description>
+		<game_id>PCSH00166</game_id>
+		<rom name="Corpse Party - Blood Drive (Korea).psv" size="1895825408" crc="58a2fee7" md5="831dd38b275fe280c0ec784f2615282e" sha1="71fc20971cd66cf7f3a6d4635ce26d5f2216645d" serial="PCSH-00166"/>
+	</game>
+	<game name="Criminal Girls - Invite Only (USA)" id="0070">
+		<description>Criminal Girls - Invite Only (USA)</description>
+		<game_id>PCSE00516</game_id>
+		<rom name="Criminal Girls - Invite Only (USA).psv" size="1895825408" crc="748e47dc" md5="adc0c28aa533556b156ac2c03bb9a7e2" sha1="53dcfc57fe08951f08877c67561309e884b836ef" serial="PCSE-00516"/>
+	</game>
+	<game name="Cursed Castilla Ex (Asia) (En,Ja,Fr,De,Es)" id="z109">
+		<description>Cursed Castilla Ex (Asia) (En,Ja,Fr,De,Es)</description>
+		<game_id>PCSH10055</game_id>
+		<rom name="Cursed Castilla Ex (Asia) (En,Ja,Fr,De,Es).psv" size="1895825408" crc="9ce2735f" md5="65f7398a9595429fadcfc3cb36cb9c3e" sha1="10d95ef3aac7e894980d80da36a5d5b43092e761" sha256="916a7e7086efcd937f2f0f1d92a3bd21ed247b1c478e37fe465eb4dd04dc9ce6" mia="yes" serial="PCSH-10055"/>
+	</game>
+	<game name="Dangan Rompa 1-2 Reload (Japan)" id="z214">
+		<description>Dangan Rompa 1-2 Reload (Japan)</description>
+		<game_id>PCSG00202</game_id>
+		<rom name="Dangan Rompa 1-2 Reload (Japan).psv" size="3791650816" crc="d7442c22" md5="bf002f651ab8f09217788ab9c1ea5e84" sha1="8c45c9069b809be3eca0db50d26d774cd4bba810" sha256="0cb74bbcd22a23d5efec85907d6537e0fd6596ca5ccea20e31622c2cc3194a0f" serial="PCSG-00202"/>
+	</game>
+	<game name="Danganronpa - Trigger Happy Havoc (USA)" id="0073">
+		<description>Danganronpa - Trigger Happy Havoc (USA)</description>
+		<game_id>PCSE00261</game_id>
+		<rom name="Danganronpa - Trigger Happy Havoc (USA).psv" size="1895825408" crc="5af621a2" md5="0b65464dd14e713a88077b7ef145b790" sha1="44a625666c9e8cad4b9ea64036d7ab0d61276795" serial="PCSE-00261"/>
+	</game>
+	<game name="Danganronpa 2 - Goodbye Despair (USA)" id="0074">
+		<description>Danganronpa 2 - Goodbye Despair (USA)</description>
+		<game_id>PCSE00399</game_id>
+		<rom name="Danganronpa 2 - Goodbye Despair (USA).psv" size="1895825408" crc="00231fae" md5="793fb3413508a02fb7df9f4f6b9ed6ac" sha1="e69a86086ed5510d69c6e4080ea109c16e64419c" serial="PCSE-00399"/>
+	</game>
+	<game name="Danganronpa Another Episode - Ultra Despair Girls (USA)" id="z008">
+		<description>Danganronpa Another Episode - Ultra Despair Girls (USA)</description>
+		<game_id>PCSE00692</game_id>
+		<rom name="Danganronpa Another Episode - Ultra Despair Girls (USA).psv" size="3791650816" crc="55c60fc7" md5="91fecabbabc5ff922d700c10d5d32238" sha1="ba056d4315bcab6df4a1cade71d3034e78058bae" serial="PCSE-00692"/>
+	</game>
+	<game name="Dead or Alive 5 Plus (USA)" id="0064">
+		<description>Dead or Alive 5 Plus (USA)</description>
+		<game_id>PCSE00235</game_id>
+		<rom name="Dead or Alive 5 Plus (USA).psv" size="3791650816" crc="b6a1c85f" md5="3216c8636ff2f18f060dce692e1ae3f0" sha1="1bd116f54ceb8d53444d193a5f656dc9308be48c" serial="PCSE-00235"/>
+	</game>
+	<game name="Dead or Alive 5+ (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)" id="z193">
+		<description>Dead or Alive 5+ (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)</description>
+		<game_id>PCSG00167</game_id>
+		<rom name="Dead or Alive 5+ (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant).psv" size="3791650816" crc="5ef8c6ad" md5="dad97145e4fdd4ed3c2c5f791d4817da" sha1="b9a1ac37d5b501cf5717975a9d554a06dea13c6e" sha256="60c2a40cb7944cd261083aec27ffb5232ec70927f28e6c09e031a65fb8414a29" serial="PCSG-00167"/>
+	</game>
+	<game name="Death Mark (USA)" id="z033">
+		<description>Death Mark (USA)</description>
+		<game_id>PCSE01279</game_id>
+		<rom name="Death Mark (USA).psv" size="1895825408" crc="b133b890" md5="cab189df2ab2ac426c5a9269c3a50683" sha1="6e8cc856cb3d1a90a4a4eabdaa02af67011aca04" serial="PCSE-01279"/>
+	</game>
+	<game name="Deka Mori Senran Kagura (Japan)" id="z215">
+		<description>Deka Mori Senran Kagura (Japan)</description>
+		<game_id>PCSG00447</game_id>
+		<rom name="Deka Mori Senran Kagura (Japan).psv" size="3791650816" crc="9fbdcf8b" md5="3880f7cd8043ff77e286947e57574afb" sha1="76503d7e67074283d0e47508302e2928cacaa5df" sha256="bcdedf87591bf4bed4614df4ca80fcc275de42d2189a2581252f9587cf533125" serial="PCSG-00447"/>
+	</game>
+	<game name="Demon Gaze (USA)" id="z047">
+		<description>Demon Gaze (USA)</description>
+		<game_id>PCSE00358</game_id>
+		<rom name="Demon Gaze (USA).psv" size="1895825408" crc="06b47da1" md5="6bf1cfc3a971b54d451adc82f107970d" sha1="1a09fbc29c78ef7f23641cbaaef9706a18c65d29" serial="PCSE-00358"/>
+	</game>
+	<game name="Demon Gaze II (USA)" id="0261">
+		<description>Demon Gaze II (USA)</description>
+		<game_id>PCSE01141</game_id>
+		<rom name="Demon Gaze II (USA).psv" size="1895825408" crc="6260a357" md5="2028fb6aafb5832accd2b4441a2740af" sha1="fe2a11805b524620e1e557a1acf2fcfe77de4803" mia="yes" serial="PCSE-01141"/>
+	</game>
+	<game name="Diabolik Lovers - Dark Fate (Japan)" id="z022">
+		<description>Diabolik Lovers - Dark Fate (Japan)</description>
+		<game_id>PCSG00530</game_id>
+		<rom name="Diabolik Lovers - Dark Fate (Japan).psv" size="3791650816" crc="7204abc8" md5="8858562aeb1907ed445ecceef7bd6262" sha1="da4c1db468c2e41cef908a36fd2e2c498a54f589" serial="PCSG-00530"/>
+	</game>
+	<game name="Diabolik Lovers - Limited V Edition (Japan)" id="z019">
+		<description>Diabolik Lovers - Limited V Edition (Japan)</description>
+		<game_id>PCSG00272</game_id>
+		<rom name="Diabolik Lovers - Limited V Edition (Japan).psv" size="3791650816" crc="3fceffe8" md5="d0d343e2163dfbd734f2883c60dfbdf5" sha1="6ceba6897e6f884f4b077fc9895c6dab4a68aaf4" serial="PCSG-00272"/>
+	</game>
+	<game name="Digimon Story Cyber Sleuth - Hacker's Memory (Asia) (En)" id="0389">
+		<description>Digimon Story Cyber Sleuth - Hacker's Memory (Asia) (En)</description>
+		<game_id>PCSB01183</game_id>
+		<rom name="Digimon Story Cyber Sleuth - Hacker's Memory (Asia) (En).psv" size="3791650816" crc="e895da65" md5="1f489a60ec85c1bf3fc421b74417131d" sha1="1157160289a10dc437e8302b16a5b73dc3982139" serial="PCSB-01183"/>
+	</game>
+	<game name="Digimon Story Cybersleuth (Japan)" id="z194">
+		<description>Digimon Story Cybersleuth (Japan)</description>
+		<game_id>PCSG00516</game_id>
+		<rom name="Digimon Story Cybersleuth (Japan).psv" size="1895825408" crc="6f7e5c11" md5="72432828f135f64b34a0a053e1004b73" sha1="d4ae8568d2dd6d3c212cf0ac15d88d9d5f84646f" sha256="b7652bd0d2923fb9e0aacd8a59c3b0c69fb48e74e27bc03e04d27f6340f037dd" serial="PCSG-00516"/>
+	</game>
+	<game name="Digimon World -next 0rder- (Japan)" id="z067">
+		<description>Digimon World -next 0rder- (Japan)</description>
+		<game_id>PCSG00792</game_id>
+		<rom name="Digimon World -next 0rder- (Japan).psv" size="1895825408" crc="4fd54637" md5="002fc3b473074d37322849db181fb2b8" sha1="4bdd1871c1e9cbc26fe4034e4c3a3a8c327f04a7" sha256="463c7004cabfbc78b6635e6237e84c11670979ac08226b25e3da54bbb92a281f" status="verified" serial="PCSG-00792"/>
+	</game>
+	<game name="Disgaea 3 - Absence of Detention (USA) (En,Ja)" id="0113">
+		<description>Disgaea 3 - Absence of Detention (USA) (En,Ja)</description>
+		<game_id>PCSE00022</game_id>
+		<rom name="Disgaea 3 - Absence of Detention (USA) (En,Ja).vpk" size="3791650816" crc="0f9c3ea1" md5="6f5566899b280d7eb78c52fbcab72878" sha1="bf4956112bb89af2c4ddc8474d5a802b080d5997" serial="PCSE-00022"/>
+	</game>
+	<game name="Disgaea 4 - A Promise Revisited (USA) (En,Ja)" id="0059">
+		<description>Disgaea 4 - A Promise Revisited (USA) (En,Ja)</description>
+		<game_id>PCSE00360</game_id>
+		<rom name="Disgaea 4 - A Promise Revisited (USA) (En,Ja).psv" size="3791650816" crc="62c5d8f1" md5="ee98e93307778e208ba80f45831dcf96" sha1="12b2db16baf1be6e95d8ed57c6630687b72926e0" mia="yes" serial="PCSE-00360"/>
+	</game>
+	<game name="Disgaea 4 - A Promise Revisited (Europe)" id="z041">
+		<description>Disgaea 4 - A Promise Revisited (Europe)</description>
+		<game_id>PCSB00455</game_id>
+		<rom name="Disgaea 4 - A Promise Revisited (Europe).psv" size="3791650816" crc="721285cb" md5="08175ee0154c8d55ae444e84c74bf538" sha1="7e9ec612f49de5cf2ffe27553051b1bb68299f78" mia="yes" serial="PCSB-00455"/>
+	</game>
+	<game name="Disney Infinity 2.0 (France)" id="z120">
+		<description>Disney Infinity 2.0 (France)</description>
+		<game_id>PCSB00699</game_id>
+		<rom name="Disney Infinity 2.0 (France).psv" size="3791650816" crc="17e4aa2b" md5="9b1a191acfb37ec38aebf934464279d8" sha1="42847ed8486f7476e8f18ea72e1ee59338f9364a" sha256="6ff7deb4d0f7ebb07ed8f3d50dac7af9effd25112e9d2fb725b357417241600c" mia="yes" serial="PCSB-00699"/>
+	</game>
+	<game name="DJMax Technika Tune (Japan) [b]" id="z018">
+		<description>DJMax Technika Tune (Japan) [b]</description>
+		<game_id>PCSG00070</game_id>
+		<rom name="DJMax Technika Tune (Japan) [b].psv" size="3791650816" crc="d14f370b" md5="9aec69dd05b56650e0ec9c5cf2b7148d" sha1="75e3bf6fd551e4a0f8e3302ad52cc478d0d9db32" status="baddump" serial="PCSG-00070"/>
+		<rom name="DJMax Technika Tune (Japan) (Alt) [b].psv" size="3791650816" crc="e4bac938" md5="cd609c4504208374179704ee009ea69f" sha1="d278ee03454002c8f160c8ef62367ab63a2d3205" sha256="b8b1a8853ba9ac3d27b317a6841415095a10fb9919df851653b1dde3593fd761" status="baddump" serial="PCSG-00070"/>
+	</game>
+	<game name="Dragon Quest Builders (Asia) (En)" id="z057">
+		<description>Dragon Quest Builders (Asia) (En)</description>
+		<game_id>PCSE00912</game_id>
+		<rom name="Dragon Quest Builders (Asia) (En).psv" size="1895825408" crc="0a63ae6e" md5="bbb684ec7c9b4881f8b9d43654b266fa" sha1="e3caa97cef9ea258523a9a122f193ac6cf0b8444" serial="PCSE-00912"/>
+	</game>
+	<game name="Dragon's Crown (USA)" id="z032">
+		<description>Dragon's Crown (USA)</description>
+		<game_id>PCSE00019</game_id>
+		<rom name="Dragon's Crown (USA).psv" size="1895825408" crc="9d7b2125" md5="148512e328af875716d005d09131e081" sha1="3a3ce16976391d52f871aaa0bfef57c56c6ca76b" serial="PCSE-00019"/>
+	</game>
+	<game name="Dungeon Hunter - Alliance (USA) [b]" id="z079">
+		<description>Dungeon Hunter - Alliance (USA) [b]</description>
+		<game_id>PCSE00008</game_id>
+		<rom name="Dungeon Hunter - Alliance (USA) [b].psv" size="1895825408" crc="2813bc46" md5="5ce140621727305866074ac9fba738cd" sha1="54cefa5431cc1b52a83ab9941d9597f8f9d69f6b" sha256="8f5e67e1b8f585e562db2c43da6ce299160861fcf72a20a785e6595416110361" status="baddump"/>
+		<rom name="Dungeon Hunter - Alliance (USA).rif" size="512" crc="1d8ba070" md5="65381df4bc8c27800e62173d937fadd1" sha1="df6d6734f1e40080ab0a20b8a4f2c1389e7120ee" sha256="21a37137cea18a6c7d398e0643dcfa081a3b96fd777fb398d4311791e78902b5"/>
+	</game>
+	<game name="Dungeon Travelers 2 - The Royal Library &amp; The Monster Seal (USA)" id="z045">
+		<description>Dungeon Travelers 2 - The Royal Library &amp; The Monster Seal (USA)</description>
+		<game_id>PCSE00693</game_id>
+		<rom name="Dungeon Travelers 2 - The Royal Library &amp; The Monster Seal (USA).psv" size="3791650816" crc="957bf208" md5="9c3339863fa28094fd06438745d16ec9" sha1="a1a5eaa5835caf0ba750b40a6c88d911f3127d3b" serial="PCSE-00693"/>
+	</game>
+	<game name="Dynasty Warriors 8 - Empires (Asia) (En)" id="z087">
+		<description>Dynasty Warriors 8 - Empires (Asia) (En)</description>
+		<game_id>PCSE00800</game_id>
+		<rom name="Dynasty Warriors 8 - Empires (Asia) (En).psv" size="3791650816" crc="873ca4a2" md5="d808bf1271b697f486e1e761fab56dd6" sha1="7426213829a46b95a0bd00884c80ecc5b96badd0" mia="yes" serial="PCSE-00800"/>
+	</game>
+	<game name="Earth Defense Force 2 - Invaders From Planet Space (Europe)" id="z095">
+		<description>Earth Defense Force 2 - Invaders From Planet Space (Europe)</description>
+		<game_id>PCSB00884</game_id>
+		<rom name="Earth Defense Force 2 - Invaders From Planet Space (Europe).psv" size="1895825408" crc="dbd23028" md5="7c0894f17bd4c068c8e71a6bcd48382d" sha1="3df79ce9a22995143cf22ce7d7f782ae50020962" sha256="a858d0188e575f2d3b23a1650c8c81e05e4cffdb7d1e9580411dedb2cb781fcc" serial="PCSB-00884"/>
+	</game>
+	<game name="Eiyuu Senki The World Conquest (Japan) (Shokai Genteiban)" id="z195">
+		<description>Eiyuu Senki The World Conquest (Japan) (Shokai Genteiban)</description>
+		<game_id>PCSG00316</game_id>
+		<rom name="Eiyuu Senki The World Conquest (Japan) (Shokai Genteiban).psv" size="3791650816" crc="105e2f3d" md5="3f1e7151225a07a632d03ff68964f357" sha1="ff9777a1bdefe85e63a62fd19deaa085fb154e91" sha256="85efad8ae5fba6e55d935ea33d245705817ae1c7340000fac5d2b77cba7d7b5a" serial="PCSG-00316"/>
+	</game>
+	<game name="Everybody's Golf (Europe) (En,Fr,De,It)" id="0004">
+		<description>Everybody's Golf (Europe) (En,Fr,De,It)</description>
+		<game_id>PCSF00006</game_id>
+		<rom name="Everybody's Golf (Europe) (En,Fr,De,It).psv" size="1895825408" crc="a20b07ae" md5="31f156f72cf5796de745e6c4d8e8ebbf" sha1="5f5a8fe8c4373cf23d8d3866143ae82db8735a5b" sha256="ec7e000ceec5f6418532ff6f40dc07390e61162738aae9dbb187d0abbe6de383" serial="PCSF-00006"/>
+	</game>
+	<game name="F1 2011 (Europe) (En,Fr,De,Es,It,Pt,Sv,Fi)" id="0077">
+		<description>F1 2011 (Europe) (En,Fr,De,Es,It,Pt,Sv,Fi)</description>
+		<game_id>PCSB00027</game_id>
+		<rom name="F1 2011 (Europe) (En,Fr,De,Es,It,Pt,Sv,Fi).psv" size="1895825408" crc="0230a4a1" md5="6da8a59b13dd18e47bc42558ca103a06" sha1="e74d5fc37011d3901b0d459a6290e0339acb4e98" sha256="82410a94931a119a8d123030365149fc122cf31df04f89c170789deb29f8cf29" serial="PCSB-00027"/>
+	</game>
+	<game name="F1 2011 (Japan) [b]" id="z173">
+		<description>F1 2011 (Japan) [b]</description>
+		<game_id>PCSG00021</game_id>
+		<rom name="F1 2011 (Japan) [b].psv" size="1895825408" crc="6be071b6" md5="b81b1cd768ed718c4ca0bb507131e40e" sha1="2761bb72465e1bfe73bc4f6f694c1c7e2634982d" sha256="10cf67232e0394a8737397957e530a66016be3789076a80655110c592b2b3cf6" status="baddump" serial="PCSG-00021"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="44ee1909" md5="b0071980e7d4f6f1339153ea0aed9490" sha1="97416e66e37ea23554d53fdc812f88e2e535e936" sha256="4f266560db9ffc26ac4957b26285e8cdb98174c6fcf054404d861f0636a2972a" serial="PCSG-00021"/>
+	</game>
+	<game name="Farming Simulator 14 (Europe) (En,Fr,De,Es,It,Pt,Ru)" id="0143">
+		<description>Farming Simulator 14 (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+		<game_id>PCSB00534</game_id>
+		<rom name="Farming Simulator 14 (Europe) (En,Fr,De,Es,It,Pt,Ru).psv" size="1895825408" crc="64152007" md5="82003ec3bf3354350fc8750117a1d7a3" sha1="dbfaa63bad3da37cc78b1571d593e7ba51451022" sha256="981c257e951cc9e10d2098ee408162d18f1730b1701d41f866b7ba0c25139055" serial="PCSB-00534"/>
+	</game>
+	<game name="Farming Simulator 18 (USA)" id="z090">
+		<description>Farming Simulator 18 (USA)</description>
+		<game_id>PCSE01035</game_id>
+		<rom name="Farming Simulator 18 (USA).psv" size="1895825408" crc="de4d6ec3" md5="8ef35f70850bee0d43af5716ba8f11ef" sha1="501068f936c6bf6a7c1c54e4b053bc4b870ca2c6" mia="yes" serial="PCSE-01035"/>
+	</game>
+	<game name="Fate Hollow Ataraxia (Japan)" id="z197">
+		<description>Fate Hollow Ataraxia (Japan)</description>
+		<game_id>PCSG00386</game_id>
+		<rom name="Fate Hollow Ataraxia (Japan).psv" size="3791650816" crc="4d37bfc2" md5="017176e3592bf16dcb69468031043502" sha1="5b5708efb70b2615f4feb630bcb38f443a272a67" sha256="70a8382a4d33e207882f13eff23141c16955aa84654e25bf7ecfc68a998426e3" serial="PCSG-00386"/>
+	</game>
+	<game name="Fate Stay Night Realta Nua (Japan)" id="z198">
+		<description>Fate Stay Night Realta Nua (Japan)</description>
+		<game_id>PCSG00122</game_id>
+		<rom name="Fate Stay Night Realta Nua (Japan).psv" size="3791650816" crc="34bf4e44" md5="5c8dcfe49f2945d7363cbf8b38b14927" sha1="bc087aadf0056aebb36bae3a4688a5fddf0827ca" sha256="6528d45118bee8a3508b375ab06a1e17b2ac67f501cd1e517b510cae2c14a969" serial="PCSG-00122"/>
+	</game>
+	<game name="Fate-EXTELLA (Japan)" id="z074">
+		<description>Fate-EXTELLA (Japan)</description>
+		<game_id>PCSG00600</game_id>
+		<rom name="Fate-EXTELLA (Japan).psv" size="1895825408" crc="8e1c7f12" md5="40ae8ea7992d6ce9d71f73a1d0914830" sha1="5c9b8af82bfc0452992df38b3000602387ebc98b" sha256="b6fdb633bd79babcab5d5b5e17965beb75ca00455266dd74457d6f1156dd6bf8" status="verified" serial="PCSG-00600"/>
+	</game>
+	<game name="Fate-Extella - Link (Japan)" id="0286">
+		<description>Fate-Extella - Link (Japan)</description>
+		<game_id>PCSG01091</game_id>
+		<rom name="Fate-Extella - Link (Japan).psv" size="1895825408" crc="295f40bb" md5="c56d264166d47ca19e236555167e02dc" sha1="907911f8c8fb3df5918da80e7516da00a301cf18" sha256="18e69031c85925478db75cf735840bedb71b8d98976eadb3bb0cbf64a0f01bda" serial="PCSG-01091"/>
+	</game>
+	<game name="Fifa 13 (Spain)" id="z002">
+		<description>Fifa 13 (Spain)</description>
+		<game_id>PCSB00174</game_id>
+		<rom name="Fifa 13 (Spain).psv" size="3791650816" crc="e5b5c772" md5="68f6ebf95a476bbf1e91f95b588ea4e0" sha1="a923b23a646a7cfcd425237b5d827aaaa4876da8" serial="PCSB-00174"/>
+	</game>
+	<game name="FIFA 13 (Germany)" id="z106">
+		<description>FIFA 13 (Germany)</description>
+		<game_id>PCSB00173</game_id>
+		<rom name="FIFA 13 (Germany).psv" size="3791650816" crc="1baae627" md5="8067c67d4157198fe95bbdee5d03dab7" sha1="328ff9e1f1da97922589cb439dd94a30b9db41e7" sha256="a175e261cfe5ea5127d03098fd20624af6642195a998b60669a8eb44e641f78c" serial="PCSB-00173"/>
+	</game>
+	<game name="FIFA 13 (Italy)" id="z116">
+		<description>FIFA 13 (Italy)</description>
+		<game_id>PCSB00172</game_id>
+		<rom name="FIFA 13 (Italy).rif" size="512" crc="e0e4606b" md5="7bccbf02c348c81121ea436e3a9cce37" sha1="19f98be73feaa0ce226dbbe27e4167f03ddc3d73" sha256="6a327dbef6fe7869c91e01675ea5ecc4aedf66fa2ba3984e26b8b6242c28205f" serial="PCSB-00172"/>
+		<rom name="FIFA 13 (Italy).psv" size="3791650816" crc="9f9015d2" md5="11e8065e18837f8e44cf0a68659be24a" sha1="f709b720660c72b14679c956257cad5f2ad78d95" sha256="903f7ddcd07b3cd15c755436800e4888e682ce580322922b578dfb85371dca66" serial="PCSB-00172"/>
+	</game>
+	<game name="Fifa 13 (Netherlands)" id="z123">
+		<description>Fifa 13 (Netherlands)</description>
+		<game_id>PCSB00175</game_id>
+		<rom name="Fifa 13 (Netherlands).rif" size="512" crc="bb35ef99" md5="b1f45153f70c6e8e01c917b9d8e9b177" sha1="e3fc4ba7e22db58cacd191b6cf44024b2b7396ee" sha256="4bebe2515c6772d599caf63691c1d4af8a4d35ca2d9c06eaca93720f256bb65b" mia="yes"/>
+		<rom name="Fifa 13 (Netherlands).psv" size="3791650816" crc="f9aa08ca" md5="cf4565a0f74e6b3b86c6fd900aa630b2" sha1="363c8c950818ac360899bf04cd4fece68d222296" sha256="1d0210d12673654970f6eb96032eae7847adc1b34d24ff6c004147c476bd6ddf" mia="yes" serial="PCSB-00175"/>
+	</game>
+	<game name="Fifa 14 (Spain)" id="z003">
+		<description>Fifa 14 (Spain)</description>
+		<game_id>PCSB00343</game_id>
+		<rom name="Fifa 14 (Spain).psv" size="3791650816" crc="8e2c591c" md5="93a3ee3b67865ff1275afc938230181e" sha1="2928c6cc09c2a34e3f9da275ab4337573c6e8e97" serial="PCSB-00343"/>
+	</game>
+	<game name="FIFA 14 (USA)" id="z080">
+		<description>FIFA 14 (USA)</description>
+		<game_id>PCSE00263</game_id>
+		<rom name="FIFA 14 (USA).psv" size="3791650816" crc="da8e9f72" md5="7317818156ed36169b5671be6bfb4279" sha1="44a69b21efc7c5e16e4b2c3eabd58c34cedafd3a" sha256="9553cd39171195cace48a658165c2dc58fc2b6d427eb0a5c0993cbe3524ef402" serial="PCSE-00263"/>
+		<rom name="FIFA 14 (USA).rif" size="512" crc="c6267ea9" md5="554cd47bf7391e6d9ad8399a845509b6" sha1="97f106b27b300fb22151b6de83c6b9d182ab86ff" sha256="187c0e58a90dd364d6c8ab24d9e1e1e4f9c134e55523a1224b22174d3262fd71"/>
+	</game>
+	<game name="FIFA 14 (Germany)" id="z107">
+		<description>FIFA 14 (Germany)</description>
+		<game_id>PCSB00341</game_id>
+		<rom name="FIFA 14 (Germany).psv" size="3791650816" crc="03782e46" md5="b6cc80789bd65aad21fffc2895973163" sha1="cffdf5a54347f7bf50e1c6fdda59b08639e8da16" sha256="79b1bbe379475a2c92a5a2914687bbe2d7577ad2dfe2361f8a433a4a9978917b" serial="PCSB-00341"/>
+	</game>
+	<game name="FIFA 14 (Canada) (Fr-CA)" id="z110" cloneofid="0203">
+		<description>FIFA 14 (Canada) (Fr-CA)</description>
+		<game_id>PCSE00264</game_id>
+		<rom name="FIFA 14 (Canada) (Fr-CA).psv" size="3791650816" crc="0ee7b855" md5="28a1000524ef29cada4170e0e7525e48" sha1="0e90da2d50db0429f7943dace5c52d30c672f2bb" sha256="54f6a689f9687f48cc0645964576ba9704c90871aeeebe2b89c9dda842cc8e3f" serial="PCSE-00264"/>
+		<rom name="FIFA 14 (Canada) (Fr-CA).rif" size="512" crc="7e046b39" md5="2fa101345aeb7ed6f55515c207c2fcfc" sha1="56af14583557e817ba1a49ceb996dba497f306c2" sha256="d91093060f7abf348c209a8e9d23e0f468438f015f2d0ec09ff0ea65a2ecc3e6"/>
+	</game>
+	<game name="FIFA 14 (Italy)" id="z115">
+		<description>FIFA 14 (Italy)</description>
+		<game_id>PCSB00342</game_id>
+		<rom name="FIFA 14 (Italy).rif" size="512" crc="eeec2b8d" md5="609e39ee7c2cd30d8daec5c854fc5b2c" sha1="510cd6f3585a3f57522802e5ed948f0a8105f94a" sha256="516d144c2755bb91b81ca976b8960f3da62f2248d439ffccccfba7431b57d662"/>
+		<rom name="FIFA 14 (Italy).psv" size="3791650816" crc="5762961b" md5="0a6316da3c3cd0ebfd6d10f0833eb692" sha1="589ec1046a620c3896b6085390ac95ab27a5925d" sha256="f178e26304d69b7f3992b1948ed5220ca712d39d71599f614229b3baabb708c2" serial="PCSB-00342"/>
+	</game>
+	<game name="Fifa 14 (Netherlands)" id="z122">
+		<description>Fifa 14 (Netherlands)</description>
+		<game_id>PCSB00347</game_id>
+		<rom name="Fifa 14 (Netherlands).rif" size="512" crc="c6f9d728" md5="d61f3607b6e80b845c7f4514519629cb" sha1="21890e6ea0fcb06a8513ea6a8eb91b494ce783af" sha256="b87955bef16193d80f663ce9fb9a7260be7113a2adac534552bd8a3f47438635" mia="yes"/>
+		<rom name="Fifa 14 (Netherlands).psv" size="3791650816" crc="7934dcbe" md5="2b4b23bc5af54e840a7b718f49833900" sha1="49bf45afdf67dfe4066d3bf2fb6ecbad7a539c92" sha256="0f2009c53fbaef0ae766ac0768e706b879d89bfe30f4521ab3fe1ade3525cdee" mia="yes" serial="PCSB-00347"/>
+	</game>
+	<game name="FIFA 14 - World Class Soccer (Japan)" id="z147">
+		<description>FIFA 14 - World Class Soccer (Japan)</description>
+		<game_id>PCSG00201</game_id>
+		<rom name="FIFA 14 - World Class Soccer (Japan).psv" size="3791650816" crc="b1fa0e76" md5="a28d90efce9eaf43d248f77307a31957" sha1="8fecab017ec52cb19357c6689d8eb42175f1a361" sha256="8261ae52e35e2fdc164dbce6939eee426a7e291abebf5a20b338fd1831bf4d42" serial="PCSG-00201"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="044652cf" md5="df4cd008d898902deb18cf03687622c3" sha1="9e95eec3dbab7f6f8d5000209986ffb64a7b1ae1" sha256="ae0ce64a6a15f78ffed85e1962a2a027a04061f9f0a7b2a859719d8e009f5b3c" serial="PCSG-00201"/>
+	</game>
+	<game name="Fifa 15 (Spain)" id="z004">
+		<description>Fifa 15 (Spain)</description>
+		<game_id>PCSB00606</game_id>
+		<rom name="Fifa 15 (Spain).psv" size="3791650816" crc="dd314beb" md5="e17cf1b3e0ba225aabe6db6c14f05558" sha1="5fbdb6706ef23bf0ab6f9744090c7990e840b143" serial="PCSB-00606"/>
+	</game>
+	<game name="Fifa 15 (Netherlands)" id="z124">
+		<description>Fifa 15 (Netherlands)</description>
+		<game_id>PCSB00608</game_id>
+		<rom name="Fifa 15 (Netherlands).rif" size="512" crc="02f3f971" md5="9dfea4cf2b997fd4636c21a10bd0d7f0" sha1="efc5c0776661ffde346df14483c64260b1966f25" sha256="5eb27c720abc60619fd1ed34d333d074107f5df5abb04b5e3a1a9a6dc6ca3f08" mia="yes"/>
+		<rom name="Fifa 15 (Netherlands).psv" size="3791650816" crc="bef0c32d" md5="6205d78a1cf089e454283c4ef5efd2af" sha1="7919cab87a737897aa484fe7b2c26fb4fd93b3f8" sha256="bbd6db39ce272a399358991f813d347d27f734474c9129682136253fd099508b" mia="yes" serial="PCSB-00608"/>
+	</game>
+	<game name="FIFA Football (Germany) [b]" id="0009">
+		<description>FIFA Football (Germany) [b]</description>
+		<game_id>PCSB00053</game_id>
+		<rom name="FIFA Football (Germany) [b].psv" size="3791650816" crc="99b3fbee" md5="3ac2a96a1b1adf71eb144482cc6b8b83" sha1="c6e10993e5dac780369ca41aebb1e6f08495f470" sha256="aaaa3f84d7092f9d7cc1b8dd60fc47c02df3581fc450db173c57b9f1a3f106a4" status="baddump" serial="PCSB-00053"/>
+		<rom name="FIFA Football (Germany).rif" size="512" crc="cdd501e9" md5="be653137cdaab1af283e515aae4dcdbd" sha1="5a5dc44d958f577d680ba4346425eb0d15e0b0cc" sha256="09018c68827ef89ae6cd4008db0aafc7b07c7a99892d580a8b220e5de08c0ba9"/>
+	</game>
+	<game name="Fifa Football (Spain) [b]" id="z001">
+		<description>Fifa Football (Spain) [b]</description>
+		<game_id>PCSB00055</game_id>
+		<rom name="Fifa Football (Spain) [b].psv" size="3791650816" crc="d61bd99c" md5="26cc2867b06d9829ba0687c17e2a054b" sha1="52b76c3e6852bc474dc4d16cc908474ce72ce1f8" status="baddump" serial="PCSB-00055"/>
+	</game>
+	<game name="Fifa Football (France) [b]" id="z112">
+		<description>Fifa Football (France) [b]</description>
+		<game_id>PCSB00052</game_id>
+		<rom name="Fifa Football (France).rif" size="512" crc="7fe3b9c0" md5="be050845834c7279aaeea67fa3e5b9ba" sha1="77205ffc956979523e2568662e9cde509513553f" sha256="8dc215f5780a3c3d8670a0079f887edcbca3e9607c29e8d0fe67b9e3f23a8d4a" serial="PCSB-00052"/>
+		<rom name="Fifa Football (France) [b].psv" size="3791650816" crc="106a3a17" md5="2693c7f8887c7a1d5ab3ea0925bae11c" sha1="86847764d4a2186765d3ad88d895f5345c6ec973" sha256="0cce803f9902eff37f896c02910a08af650b21e62aad90feab9c3c6bcef31ccc" status="baddump" serial="PCSB-00052"/>
+	</game>
+	<game name="FIFA Football (Italy) [b]" id="z117">
+		<description>FIFA Football (Italy) [b]</description>
+		<game_id>PCSB00054</game_id>
+		<rom name="FIFA Football (Italy).rif" size="512" crc="2f871b73" md5="07090f6f8a3210ff0797d1798e30b937" sha1="59b9c92bbd4c1902ca7b9f2202dcb71f6e734f4e" sha256="28021adda6172ee9de2c16e1571ebc54a2ffb8fc522f31123ca20c7b9580f366" serial="PCSB-00054"/>
+		<rom name="FIFA Football (Italy) [b].psv" size="3791650816" crc="9aeef609" md5="e321440ac81ac9123febf3ddb3be65e6" sha1="d392e94bf9956e7aff1fe48b13ebf3a1f8681553" sha256="b0c6160597bd21c0b6b0ced0d1e317fd91f1942950e42c3f21f6975199c2e46e" status="baddump" serial="PCSB-00054"/>
+	</game>
+	<game name="Fifa Football (Netherlands)" id="z121">
+		<description>Fifa Football (Netherlands)</description>
+		<game_id>PCSB00057</game_id>
+		<rom name="Fifa Football (Netherlands).psv" size="3791650816" crc="eb0bd6ca" md5="7fdff45c1fe10655ced0a0ebe3bb2dee" sha1="8b67cc854559406b8d0376b474e58e925f2d2b78" sha256="f700fbe2429f74cf3c9e7a1f2a5991527318459f9ceee3f73274756697613e05" mia="yes" serial="PCSB-00057"/>
+		<rom name="Fifa Football (Netherlands).rif" size="512" crc="9b3eaecc" md5="92c70f3c4945d9d18f0b64dfc9559e18" sha1="683c54cbdcda2e12fd19c773b6f559c2f71e06eb" sha256="9989861aa5134228f4368ea705e7bfb71dda92cd88f0493636325dd631f46e6f" mia="yes"/>
+	</game>
+	<game name="FIFA Soccer (Canada) (Fr-CA)" id="z119">
+		<description>FIFA Soccer (Canada) (Fr-CA)</description>
+		<game_id>PCSE00025</game_id>
+		<rom name="FIFA Soccer (Canada) (Fr-CA).psv" size="3791650816" crc="59d47397" md5="e0045745a7061caca1d3a3505d388cbf" sha1="bac0278e3cad9c92005c44dc9bea064f1fdd0924" sha256="81c49d740db0b2086b99c912e2560e58ad449b698d0e5ef2d4b5ac567aa72521" serial="PCSE-00025"/>
+		<rom name="FIFA Soccer (Canada) (Fr-CA).rif" size="512" crc="9025012d" md5="245c86340386aa67ce5b32eac4906c4b" sha1="3a91bdef3a04abdb0e9a6f6df7e2653ca424e0b3" sha256="d49e3262c4cc6b18bc586e88682f6f7cc18def9ab97e5b2e48b945e06cc6f0e9"/>
+	</game>
+	<game name="FIFA Soccer 13 (Canada) (Fr-CA)" id="z118">
+		<description>FIFA Soccer 13 (Canada) (Fr-CA)</description>
+		<game_id>PCSE00094</game_id>
+		<rom name="FIFA Soccer 13 (Canada) (Fr-CA).psv" size="3791650816" crc="a466e573" md5="2f043dceef5a3e224aa4d9d8035a1fe9" sha1="074a1e7924c5404c517d820ded07096be45d3e9b" sha256="c29fe990ea551959e628314656a397769fabdfbec00620b58af4e89ccafc2368" serial="PCSE-00094"/>
+		<rom name="FIFA Soccer 13 (Canada) (Fr-CA).rif" size="512" crc="84f24a23" md5="3074506f455846ce0b83090991c927c3" sha1="9ef55dbf71491f8e36a716a5ef5490bba6de7d50" sha256="8df467b46fe300a168e32e007101c269fcad58bfaf05c420a1c8a99a17c1b9d0"/>
+	</game>
+	<game name="FIFA World Class Soccer (Japan) [b]" id="z143">
+		<description>FIFA World Class Soccer (Japan) [b]</description>
+		<game_id>PCSG00039</game_id>
+		<rom name="FIFA World Class Soccer (Japan).rif" size="512" crc="45515896" md5="2fe40e43b288eda230dbc7fbf6af963b" sha1="e008f51a89093337fdd3c37638578976976e2b79" sha256="ed9f7b40c43cb1317b2591ae12a0ede3c515eaac5f8fed8b8075b061afc4c7d6" serial="PCSG-00039"/>
+		<rom name="FIFA World Class Soccer (Japan) [b].psv" size="3791650816" crc="cd66c596" md5="1f8111cfa9120e4a2c91771424715450" sha1="469640231790d88eafd024c7b1021058a1dbedcc" sha256="cfb2f9e8ae8e3d40a9f92d91a65067e9989c2e5a5af1f279d24ae268a24f50b6" status="baddump" serial="PCSG-00039"/>
+	</game>
+	<game name="Final Fantasy X X-2 HD Remaster (USA) (En,Fr,De,Es,It)" id="z046">
+		<description>Final Fantasy X X-2 HD Remaster (USA) (En,Fr,De,Es,It)</description>
+		<game_id>PCSE00408</game_id>
+		<rom name="Final Fantasy X X-2 HD Remaster (USA) (En,Fr,De,Es,It).psv" size="3791650816" crc="e52dbb77" md5="fbdce8bf4aa7e7760b63881712d6b629" sha1="36e7c3ab9357efb611c65104440d4e138e9ac6f9" serial="PCSE-00408"/>
+	</game>
+	<game name="Flowers Aki-hen (Japan)" id="z199">
+		<category>Games</category>
+		<description>Flowers Aki-hen (Japan)</description>
+		<game_id>PCSG00981</game_id>
+		<rom name="Flowers Aki-hen (Japan).psv" size="1895825408" crc="bcc9f9b5" md5="768d151b79cd0fb6a2019a77446a4409" sha1="f75ea63464264681b88c51177584fc9ea8ece872" sha256="b8126e2f2a83fe6a16f74ee93d0751c53f10310f778a8d6ea1e18101017a759d" serial="PCSG-00981"/>
+	</game>
+	<game name="Flowers Fuyu-hen (Japan)" id="z200">
+		<description>Flowers Fuyu-hen (Japan)</description>
+		<game_id>PCSG01187</game_id>
+		<rom name="Flowers Fuyu-hen (Japan).psv" size="3791650816" crc="2717ab10" md5="83d541e3112f72daa398d1bc7fcdac70" sha1="be9d9cdd1bf026aa1a43dcee42586a5aebb9c5a4" sha256="a174950f91fb8dba7556b9fdfb3d2a5b12507d976372dd9a8a219b74d3c75b4b" serial="PCSG-01187"/>
+	</game>
+	<game name="Football Manager Classic 2014 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Tr)" id="z014">
+		<description>Football Manager Classic 2014 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Tr)</description>
+		<game_id>PCSB00357</game_id>
+		<rom name="Football Manager Classic 2014 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Tr).psv" size="3791650816" crc="eb47c7af" md5="e74531e662992b9f0412a2fb67c99510" sha1="1ced9df6f752a25ba34f68c49f3213d44c3f7a09" status="verified" serial="PCSB-00357"/>
+	</game>
+	<game name="Freedom Wars (USA)" id="0050">
+		<description>Freedom Wars (USA)</description>
+		<game_id>PCSA00147</game_id>
+		<rom name="Freedom Wars (USA).psv" size="1895825408" crc="54fb552c" md5="5c52c81e4da090424935529d32e5ca20" sha1="6c0628d7b6cb6004941e4b84a08cd6bcabcfdcbe" serial="PCSA-00147"/>
+	</game>
+	<game name="Freedom Wars (Europe) (En,Fr,De,Es,It)" id="z108">
+		<description>Freedom Wars (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSF00446</game_id>
+		<rom name="Freedom Wars (Europe) (En,Fr,De,Es,It).psv" size="1895825408" crc="dc0d4eed" md5="8095255b8d6a6abcd0f53043df16bece" sha1="42c520bfa40f626cb1c81ed86091a815be9964ff" sha256="6d6dc9352c2e80273d5d2717124f57703372bed6b6125a138878568e127c4a1d" serial="PCSF-00446"/>
+	</game>
+	<game name="Fuuraiki 3 (Japan)" id="z202">
+		<description>Fuuraiki 3 (Japan)</description>
+		<game_id>PCSG00493</game_id>
+		<rom name="Fuuraiki 3 (Japan).psv" size="3791650816" crc="3a0e2d52" md5="50303baeddd83b6825ca9bec96a47039" sha1="bfe772079fe91c00402a359aaa78af7989712390" sha256="b49ff51d9b265a71132eb83084caa5f51567542ebebb4660feb12efc175d86f6" serial="PCSG-00493"/>
+	</game>
+	<game name="Genji Koi Emaki (Japan)" id="z125">
+		<description>Genji Koi Emaki (Japan)</description>
+		<game_id>PCSG00619</game_id>
+		<rom name="Genji Koi Emaki (Japan).rif" size="512" crc="68333de3" md5="66ce85bfe28a19b30d42a395f4d5c4d5" sha1="07ba1f5e2f2c004a0be73311102d91e2e9f5345f" sha256="7acfbc2153eb7a16d8608dc7f3932265f0f2959dd44a1c13aed69e5bced50b95"/>
+		<rom name="Genji Koi Emaki (Japan).psv" size="3791650816" crc="425f09df" md5="a3156ae463708e179d123ddbcd93272d" sha1="9f6abde1402c14b56117dff722ae1d72946cc67e" sha256="1d49ccc04bc8531b1a2492d9743aa642e34d8b6e617c6c7fb4177e48be5422a9" serial="PCSG-00619"/>
+	</game>
+	<game name="Genkai Tokki Seven Pirates (Japan)" id="0397">
+		<description>Genkai Tokki Seven Pirates (Japan)</description>
+		<game_id>PCSG00882</game_id>
+		<rom name="Genkai Tokki Seven Pirates (Japan).psv" size="1895825408" crc="d9d4d3df" md5="9177a646af2e0bef64e6a8f43eeaba90" sha1="7fefe7c278e40463a9ebf28677c031eadde1f970" sha256="39d2610471a4d58d8c25d217050d8c608d9ee9b1bd4f465df4242f56f2f1e6de" serial="PCSG-00882"/>
+	</game>
+	<game name="God Eater - Resurrection (Japan)" id="z064">
+		<description>God Eater - Resurrection (Japan)</description>
+		<game_id>PCSG00719</game_id>
+		<rom name="God Eater - Resurrection (Japan).psv" size="3791650816" crc="b80b09ec" md5="b7cee6dac25bc5237c2b2e48472eaf00" sha1="bf3778bf4a1cb46f25f8e91b1765e62510f46d5c" serial="PCSG-00719"/>
+	</game>
+	<game name="God Eater 2 (Japan)" id="z063">
+		<description>God Eater 2 (Japan)</description>
+		<game_id>PCSG00240</game_id>
+		<rom name="God Eater 2 (Japan).psv" size="3791650816" crc="6e69a432" md5="65b3a77ec6b353b4f78e03cbf963d47d" sha1="6c392f6e13ff49a4c8114458a1abeb619ae4b3a1" serial="PCSG-00240"/>
+	</game>
+	<game name="God Eater 2 - Rage Burst (Japan)" id="z062">
+		<description>God Eater 2 - Rage Burst (Japan)</description>
+		<game_id>PCSG00532</game_id>
+		<rom name="God Eater 2 - Rage Burst (Japan).psv" size="3791650816" crc="64aa5c82" md5="fcde427d4d9e3ca754fa9c0569325281" sha1="bfb5a2982a9afdfb5772c0d84be5a8a361463208" serial="PCSG-00532"/>
+	</game>
+	<game name="God of War Collection (USA)" id="z048">
+		<description>God of War Collection (USA)</description>
+		<game_id>PCSA00126</game_id>
+		<rom name="God of War Collection (USA).psv" size="3791650816" crc="9e70d16e" md5="b9f77a3672fa2d8af662f6c537452d48" sha1="c65a75c89d1ec845d2b6c7bb599212092876f771" serial="PCSA-00126"/>
+	</game>
+	<game name="Goes! (Japan)" id="z023">
+		<description>Goes! (Japan)</description>
+		<game_id>PCSG00367</game_id>
+		<rom name="Goes! (Japan).psv" size="3791650816" crc="84eeba63" md5="64e4d1d2f98044384ac43bc4db046ebb" sha1="25e934a9bd46bd9caef085850bfa9db52d5b7fb9" serial="PCSG-00367"/>
+	</game>
+	<game name="Gravity Rush (USA)" id="0051">
+		<description>Gravity Rush (USA)</description>
+		<game_id>PCSA00011</game_id>
+		<rom name="Gravity Rush (USA).psv" size="1895825408" crc="0bd68a3f" md5="a2a68d4b6e69b9343323ca4adc6c0f96" sha1="df2a6c135fe0159803e91e8dfa5d2e922952c6db" sha256="b0e0c762d34284a0ed2b385481512f268c17529264dcd63158245d12ed48a452" status="verified" serial="PCSA-00011"/>
+	</game>
+	<game name="Gravity Rush (Europe)" id="0088">
+		<description>Gravity Rush (Europe)</description>
+		<game_id>PCSF00024</game_id>
+		<rom name="Gravity Rush (Europe).psv" size="1895825408" crc="48a1fbb3" md5="d17043dddc3bfc334e30b594bebb8b80" sha1="85ff1f70960f0fbbdd7328b72d58ac1f7b03c3a5" status="verified" date="2019-06-12" serial="PCSF-00024"/>
+	</game>
+	<game name="Grisaia no Kajitsu Le Fruit de la Grisaia (Japan)" id="0398">
+		<description>Grisaia no Kajitsu Le Fruit de la Grisaia (Japan)</description>
+		<game_id>PCSG00206</game_id>
+		<rom name="Grisaia no Kajitsu Le Fruit de la Grisaia (Japan).psv" size="3791650816" crc="f1f23c54" md5="a440174d5fd731218087feafe8a4843f" sha1="a239b585af01abd4c00ab29e4e584bf6cb096ac3" sha256="dbf6227a56526cc2c92e52bf470d5050d17ba2b49d470713190bcb079343c790" serial="PCSG-00206"/>
+	</game>
+	<game name="Grisaia no Meikyuu Le Labyrinthe de la Grisaia (Japan)" id="z204">
+		<description>Grisaia no Meikyuu Le Labyrinthe de la Grisaia (Japan)</description>
+		<game_id>PCSG00421</game_id>
+		<rom name="Grisaia no Meikyuu Le Labyrinthe de la Grisaia (Japan).psv" size="3791650816" crc="3e0b96d2" md5="4575ddfa10fdd44df9b24a0dbdd1e0a1" sha1="5c061a94e088fc7854930b87da8975b2d4130fb9" sha256="a587954fe2ded940175e88bbbd5394d7ac9f3cc764b12dfbaac374d16fa2c47b" serial="PCSG-00421"/>
+	</game>
+	<game name="Grisaia no Rakuen Le Eden de la Grisaia (Japan)" id="z203">
+		<description>Grisaia no Rakuen Le Eden de la Grisaia (Japan)</description>
+		<game_id>PCSG00508</game_id>
+		<rom name="Grisaia no Rakuen Le Eden de la Grisaia (Japan).psv" size="3791650816" crc="a7e0d2fc" md5="0b61f703fd365bb7fb902b977254fa38" sha1="9708e82341e976a93f21591326bc20b8d2bc199f" sha256="de3c79a399cf86e7fa71c07cff64994c184b4ba380d14ff3498c29a9180c2a46" serial="PCSG-00508"/>
+	</game>
+	<game name="Grisaia Phantom Trigger 01 and 02 (Japan)" id="z206">
+		<description>Grisaia Phantom Trigger 01 and 02 (Japan)</description>
+		<game_id>PCSG01149</game_id>
+		<rom name="Grisaia Phantom Trigger 01 and 02 (Japan).psv" size="1895825408" crc="c87cfe34" md5="90b473ef3df8b7b417b68a2c2927ba64" sha1="b9cde1943e8e7444cd4ee9bde92073d9bfa3f6ed" sha256="eea6c6e32f74e930ffd8e10b4cb9b20c55db13ae84989d337de2ceaf2e2e113b" serial="PCSG-01149"/>
+	</game>
+	<game name="Grisaia Phantom Trigger 03 and 04 (Japan)" id="0356">
+		<description>Grisaia Phantom Trigger 03 and 04 (Japan)</description>
+		<game_id>PCSG01218</game_id>
+		<rom name="Grisaia Phantom Trigger 03 and 04 (Japan).psv" size="1895825408" crc="183d5638" md5="ee82cf22ff24c0501ac40e8573d2569f" sha1="4d7a9794a8b166ea27fec62e3c47f4dd96fd56fe" sha256="7ae472131fcff50f06aad2a7fa0d50088777c672dfa3b56c1834ea9cacf9a4a9" serial="PCSG-01218"/>
+	</game>
+	<game name="Gundam Breaker 3 - Break Edition (Asia) (En)" id="z060">
+		<description>Gundam Breaker 3 - Break Edition (Asia) (En)</description>
+		<game_id>PCSH10042</game_id>
+		<rom name="Gundam Breaker 3 - Break Edition (Asia) (En).psv" size="3791650816" crc="f7b87dd7" md5="3503a99fd2edcefa142c705b71334d41" sha1="1444238a1d66795a2b5fa525f2c4c46570bea400" serial="PCSH-10042"/>
+	</game>
+	<game name="Haiyou no Psychedelica (Japan)" id="z205">
+		<description>Haiyou no Psychedelica (Japan)</description>
+		<game_id>PCSG00812</game_id>
+		<rom name="Haiyou no Psychedelica (Japan).psv" size="1895825408" crc="0260e8d9" md5="cfb26ce2ab53b0fe83c943c0f0164a65" sha1="d2e1c3bbb411bf5f72cc68f5fc9f6658b3df9c6d" sha256="e3a6a67be1dcfe98630cebd94e9bdec3571cddde58c087e0eb65113ffa03e4b1" serial="PCSG-00812"/>
+	</game>
+	<game name="Hakuouki Reimeiroku - Omohasezora (Japan)" id="z021">
+		<description>Hakuouki Reimeiroku - Omohasezora (Japan)</description>
+		<game_id>PCSG00605</game_id>
+		<rom name="Hakuouki Reimeiroku - Omohasezora (Japan).psv" size="3791650816" crc="a392543f" md5="46ab9e737f69ebffe70ced0cb623785b" sha1="441cd08fe4d364617a61d88b0829b8593ed123fa" serial="PCSG-00605"/>
+	</game>
+	<game name="Hatsune Miku - Project Diva f (Japan)" id="z028">
+		<description>Hatsune Miku - Project Diva f (Japan)</description>
+		<game_id>PCSG00074</game_id>
+		<rom name="Hatsune Miku - Project Diva f (Japan).psv" size="3791650816" crc="2717a9e0" md5="6c2b06ec6e5f43c703c71e4ed8babd13" sha1="70011af8d246fd9fd33800afdb1cefe5987cee3c" sha256="5f818cc16e2c6890f5da5ee4411d9a041c07e72debe873817bfab8ee5bb68d9d" status="verified" serial="PCSG-00074"/>
+	</game>
+	<game name="Hatsune Miku - Project Diva F 2nd (USA)" id="0205">
+		<description>Hatsune Miku - Project Diva F 2nd (USA)</description>
+		<game_id>PCSE00434</game_id>
+		<rom name="Hatsune Miku - Project Diva F 2nd (USA).psv" size="3791650816" crc="69dec19b" md5="5e26f016769fe5f6965a2e61da8adad6" sha1="21d210944a16b3ba51d59a946d286a62c1001401" sha256="2858cb1318eb7a78b33b6ebd48e6e74ff367fdc0185c34f821bb3873a1eaaf03" status="verified" serial="PCSE-00434"/>
+	</game>
+	<game name="Hatsune Miku - Project Diva F 2nd (Japan)" id="z030">
+		<description>Hatsune Miku - Project Diva F 2nd (Japan)</description>
+		<game_id>PCSG00205</game_id>
+		<rom name="Hatsune Miku - Project Diva F 2nd (Japan).psv" size="3791650816" crc="111940ff" md5="9b7f34893e2b456c3aa88e160f0a78ed" sha1="ea342b705fe8945c6da90c27bb0ccfcac0a023f6" sha256="820a7b73d16dfbb213f8ee8c27c3553a88efe947437b6f3a0c46d367a952b314" status="verified" serial="PCSG-00205"/>
+	</game>
+	<game name="Hatsune Miku - Project DIVA X (USA)" id="0234">
+		<description>Hatsune Miku - Project DIVA X (USA)</description>
+		<game_id>PCSE00867</game_id>
+		<rom name="Hatsune Miku - Project DIVA X (USA).psv" size="3791650816" crc="afe05b58" md5="56558ee607fce5b5ed41043852e6cec8" sha1="4646260909d82b9d63c62671ece30212be203730" serial="PCSE-00867"/>
+	</game>
+	<game name="Hatsune Miku - Project Diva X (Japan)" id="z029">
+		<description>Hatsune Miku - Project Diva X (Japan)</description>
+		<game_id>PCSG00683</game_id>
+		<rom name="Hatsune Miku - Project Diva X (Japan).psv" size="3791650816" crc="c0386a1b" md5="270cbe6aa622182f138e41bcf44e4a20" sha1="2e1323296409884192384f85ad27bb03c737a7ce" sha256="8ce07d9b591cfc3e192696a9c743f575ecb6315c7845b0c4fb5741d3724d5fc8" status="verified" serial="PCSG-00683"/>
+	</game>
+	<game name="Hello Kitty to Issho - Block Crash V (Japan)" id="z201">
+		<category>Games</category>
+		<description>Hello Kitty to Issho - Block Crash V (Japan)</description>
+		<rom name="Hello Kitty to Issho - Block Crash V (Japan).psv" size="1895825408" crc="a26f9a38" md5="2ae468d78977e0c1cf4ba669fb6be972" sha1="cd9c55a50ba7fc22e1a8f7a231a481a7eaf88bab" sha256="9ca03073fea41cc76c74b81765c7758d64a68ae09d68d3d8b6ac301605d3ecee" mia="yes" serial="PCSG-00059"/>
+	</game>
+	<game name="Hotline Miami - Collected Edition (Japan)" id="z027">
+		<description>Hotline Miami - Collected Edition (Japan)</description>
+		<game_id>PCSG00601</game_id>
+		<rom name="Hotline Miami - Collected Edition (Japan).psv" size="1895825408" crc="2143aef6" md5="3f2390df347aae1eb302f21f7ba03b76" sha1="61dd280f80aa45235fe7ea528559c4c721ccf00e" serial="PCSG-00601"/>
+	</game>
+	<game name="Hyperdevotion Noire - Goddess Black Heart (USA)" id="0222">
+		<description>Hyperdevotion Noire - Goddess Black Heart (USA)</description>
+		<game_id>PCSE00568</game_id>
+		<rom name="Hyperdevotion Noire - Goddess Black Heart (USA).psv" size="1895825408" crc="b94db791" md5="2618b55a9c58cb07dd06d234d7fa9536" sha1="58f1d4a6a66e85aa05ad23c7c6e3982e1e806348" serial="PCSE-00568"/>
+	</game>
+	<game name="Hyperdevotion Noire Goddess Black Heart (Japan)" id="z075">
+		<description>Hyperdevotion Noire Goddess Black Heart (Japan)</description>
+		<game_id>PCSG00234</game_id>
+		<rom name="Hyperdevotion Noire Goddess Black Heart (Japan).psv" size="1895825408" crc="b5d75d97" md5="fcaf56c2360c6a78e0ccb8945a074686" sha1="f9f1963f292bd428316f16eba99d9bb1fad965cc" serial="PCSG-00234"/>
+	</game>
+	<game name="Hyperdimension Neptunia PP - Producing Perfection (USA)" id="z049">
+		<description>Hyperdimension Neptunia PP - Producing Perfection (USA)</description>
+		<game_id>PCSE00400</game_id>
+		<rom name="Hyperdimension Neptunia PP - Producing Perfection (USA).psv" size="1895825408" crc="32f6b80b" md5="7714b14f866680218993e7e4aaa5df7f" sha1="206cf4f4a7fb5d5ff61a418577d8ab20fa3a77ab" serial="PCSE-00400"/>
+	</game>
+	<game name="Hyperdimension Neptunia Re;Birth1 (USA)" id="0229">
+		<description>Hyperdimension Neptunia Re;Birth1 (USA)</description>
+		<game_id>PCSE00443</game_id>
+		<rom name="Hyperdimension Neptunia Re;Birth1 (USA).psv" size="3791650816" crc="9f44d5e4" md5="e3a918c80318d200aff538a3595e5c71" sha1="24142ddfa1b8ac330f62d072de83155650cf61e1" serial="PCSE-00443"/>
+	</game>
+	<game name="Hyperdimension Neptunia U - Action Unleashed (USA)" id="0228">
+		<description>Hyperdimension Neptunia U - Action Unleashed (USA)</description>
+		<game_id>PCSE00588</game_id>
+		<rom name="Hyperdimension Neptunia U - Action Unleashed (USA).psv" size="1895825408" crc="be176435" md5="57f218a3c4160032b7f048075b0311a7" sha1="14e997e4c6baea5ead6663ac17601df4bc0ebe4e" mia="yes" serial="PCSE-00588"/>
+	</game>
+	<game name="IA VT -Colorful- (Japan)" id="z017">
+		<description>IA VT -Colorful- (Japan)</description>
+		<game_id>PCSG00355</game_id>
+		<rom name="IA VT -Colorful- (Japan).psv" size="3791650816" crc="82771f2d" md5="4cce475609c36b727d1ddeab95db3331" sha1="8299c2cf888dfee011c6844665017789345b5d80" sha256="d334cfeb217b9b32d79389272285eb5173a17cb5b1bc9fa35c7499d0561ad6db" status="verified" serial="PCSG-00355"/>
+	</game>
+	<game name="IDOLiSH7 Twelve Fantasia! (Japan)" id="z068">
+		<description>IDOLiSH7 Twelve Fantasia! (Japan)</description>
+		<game_id>PCSG01094</game_id>
+		<rom name="IDOLiSH7 Twelve Fantasia! (Japan).psv" size="1895825408" crc="17c8aef6" md5="6e130ae7c6c8d3f20a89538419a58d3b" sha1="27804bfa862ea8806fdc44fb559d6023b26eb89a" serial="PCSG-01094"/>
+	</game>
+	<game name="Invizimals - The Alliance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="0010">
+		<description>Invizimals - The Alliance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00164</game_id>
+		<rom name="Invizimals - The Alliance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" size="1895825408" crc="a282ccea" md5="a17d43c138b095ca437d2a76bd466978" sha1="1d058a6a9ffb485bb578ef79d04e0d57c8cd2aca" sha256="5026b361bae1e7b8814f40268b38a9314e42fadd499c968610dc75842c22254a" serial="PCSF-00164"/>
+	</game>
+	<game name="Irotoridori no Sekai - World's End Re-Birth (Japan)" id="z180">
+		<description>Irotoridori no Sekai - World's End Re-Birth (Japan)</description>
+		<game_id>PCSG00462</game_id>
+		<rom name="Irotoridori no Sekai - World's End Re-Birth (Japan).psv" size="3791650816" crc="c769a62b" md5="2df2ece91e658169c4e9ed0d65a498dd" sha1="ae6732e74b8bcc71316ffdc181e0323050fb649d" sha256="2ab7072cb0d54ddf46f98c29ce1c349fa819de062ea236d906bb9db6f53062a7" serial="PCSG-00462"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="0ae7baf6" md5="24f204457af697caed41f55a16cc8420" sha1="8fbb6354ee813d190db46bd3b6406dd15d3cf9ee" sha256="f4c176ce63464d0b5b8c253c77ff275d5dbf357c0e571df5c9f8068917cead38" serial="PCSG-00462"/>
+	</game>
+	<game name="J-Stars Victory Vs (Anison Sound Edition) (Japan)" id="z127">
+		<description>J-Stars Victory Vs (Anison Sound Edition) (Japan)</description>
+		<game_id>PCSG00301</game_id>
+		<rom name="J-Stars Victory Vs (Anison Sound Edition) (Japan).rif" size="512" crc="a2f55f73" md5="c29945e68250dd52dc32ebe584a0231c" sha1="d06f662b8b73371be7d23163fef30ac2485a76bf" sha256="084b683706260ff17d22aeba271022a150a0a64387792b8055565378c79a4674"/>
+		<rom name="J-Stars Victory Vs (Anison Sound Edition) (Japan).psv" size="3791650816" crc="9a9da943" md5="ad4d1c176a27fc89b779becd589e6e1a" sha1="991e620f1b706a26c01121326cc75f38b6a217ab" sha256="4421a2a288fde3d9144bd228804dca4734a24eb8cb2a9810b1702039e771d07b" serial="PCSG-00301"/>
+	</game>
+	<game name="J-Stars Victory Vs Plus (Europe, Asia) (En)" id="0080">
+		<description>J-Stars Victory Vs Plus (Europe, Asia) (En)</description>
+		<game_id>PCSB00713</game_id>
+		<rom name="J-Stars Victory Vs Plus (Europe, Asia) (En).psv" size="3791650816" crc="8f71cffd" md5="c578cc4cbab9bbde5f1212765b3e7758" sha1="bb418e264fdb7f45d6bbb42fbd5383793074daf4" serial="PCSB-00713"/>
+	</game>
+	<game name="Jak and Daxter Trilogy, The (Europe)" id="z101">
+		<description>Jak and Daxter Trilogy, The (Europe)</description>
+		<game_id>PCSF00247</game_id>
+		<rom name="Jak and Daxter Trilogy, The (Europe).psv" size="3791650816" crc="bb6babec" md5="5862ce3d24bd2891b4780db5b38914ba" sha1="e1f4348a18e84be7e8a3ec3308144132117ab295" sha256="17aa750cf59123d79a0aadc025ebc26d09e34da67311b58a3b00bc83ef4a9724" serial="PCSF-00247"/>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 2012 (Japan)" id="z170">
+		<description>Jikkyou Powerful Pro Yakyuu 2012 (Japan)</description>
+		<game_id>PCSG00064</game_id>
+		<rom name="Jikkyou Powerful Pro Yakyuu 2012 (Japan).psv" size="3791650816" crc="065fbdd0" md5="c6c9f0e39ce00fe03246b251471f84e0" sha1="4999ef46c10b450d61ea8a0e0cd36a11bb61ce78" sha256="433cb76ebe6215f4b272ef3c7b2caf32cdd77c560b0a9f8ac6da3132f88263bd" serial="PCSG-00064"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="3c5717d4" md5="25eaff34da9bfab306e804bcb4685eee" sha1="ca23cb544b83f2f174019ec6f51fe10f84c2c9ef" sha256="327b134a02d568a7995f3d4d494e850f00c3951bc033e92ee1a1e3319c1527cc" serial="PCSG-00064"/>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 2012 Ketteiban (Japan)" id="z171">
+		<description>Jikkyou Powerful Pro Yakyuu 2012 Ketteiban (Japan)</description>
+		<game_id>PCSG00134</game_id>
+		<rom name="Jikkyou Powerful Pro Yakyuu 2012 Ketteiban (Japan).psv" size="3791650816" crc="4c4d5dd7" md5="93060f28cd7963c09398c8771839a799" sha1="07e85871bfb176ec3e52f764013a7170be1e4d2c" sha256="a112f3f264b97947cf27ab42b70a599177f65f898f66352c8b5bcf74ff05c89a" serial="PCSG-00134"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="3f5ef067" md5="288930ec28fddbe9e9577ebb8d53272a" sha1="cd0a8ffe287f4a29aa3727e9ca05af3893132a48" sha256="93bbc0a254d6d041bfe513322cf75f2a3639349124dd12a39cfa184cea77bc35" serial="PCSG-00134"/>
+	</game>
+	<game name="Jonah Lomu Rugby Challenge (France)" id="z114">
+		<description>Jonah Lomu Rugby Challenge (France)</description>
+		<game_id>PCSB00058</game_id>
+		<rom name="Jonah Lomu Rugby Challenge (France).rif" size="512" crc="9a430f31" md5="410400c1d48ecf01405bc58fb1911e06" sha1="8f19301cb890a2d727646dc066e6dd6bcc9ffaae" sha256="a493e75e6b389e012407e44dc4da4a460f59ca5c7d2cd4333ae15031c2e7fe9b" mia="yes" serial="PCSB-00058"/>
+		<rom name="Jonah Lomu Rugby Challenge (France).psv" size="1895825408" crc="accff4f8" md5="ffd907025cdd3b78355af4bfa888b7a8" sha1="3304f5872563f11a5bdba69bf5c2e6a1d428b8fb" sha256="142c3132c27134ede0cede9361e62716fc84e55a49eabfae0bcd08a4585b4a43" serial="PCSB-00058"/>
+	</game>
+	<game name="Kaleido-Eve (Japan)" id="z132">
+		<description>Kaleido-Eve (Japan)</description>
+		<game_id>PCSG00520</game_id>
+		<rom name="Kaleido-Eve (Japan).rif" size="512" crc="5af19fbd" md5="b879c30ba65896810ac904ccdd681e69" sha1="3722429df564e150c0fdf9d4b4271aa968dcaafc" sha256="605ea207abaa03ab7d5276f19560000de8d4c0214575d4a16c7a970fcef3e460"/>
+		<rom name="Kaleido-Eve (Japan).psv" size="1895825408" crc="61e8b0c4" md5="53b1ede5c059c2c585364fa9bfc15623" sha1="d74b28e57f97465cf438d15ecbae4029d65d8480" sha256="01756d214b3a32eeacf6a4ca8c5f2f0f72e503b98922dac8a56612452c06e3a9" serial="PCSG-00520"/>
+	</game>
+	<game name="Kangoku Tou Mary Skelter (Japan)" id="z207">
+		<description>Kangoku Tou Mary Skelter (Japan)</description>
+		<game_id>PCSG00898</game_id>
+		<rom name="Kangoku Tou Mary Skelter (Japan).psv" size="3791650816" crc="13bf06f6" md5="2133ee0d1c219695ef498237f6dd10e3" sha1="0fb106c9c6267c3bcf57edbbf649738a8302427f" sha256="b777318062e8b70db5f582e0f7da390d9a82e6faa23b9d5348bbab3548d15480" serial="PCSG-00898"/>
+	</game>
+	<game name="Katamari Damacy No-Vita (Japan) [b]" id="z081">
+		<description>Katamari Damacy No-Vita (Japan) [b]</description>
+		<game_id>PCSG00018</game_id>
+		<rom name="Katamari Damacy No-Vita (Japan) [b].psv" size="1895825408" crc="6be52491" md5="8c9a96bf65472b1e8c10dda36f4d655d" sha1="a7c6caad3b52bfd26b7f2b4e7d36a2e17ece88f9" sha256="23ea5febe07272afaff30984cab42579298fd66038c3ed079ec79ef3c12c3535" status="baddump" serial="PCSG-00018"/>
+	</game>
+	<game name="Killzone - Mercenary (USA)" id="0065">
+		<description>Killzone - Mercenary (USA)</description>
+		<game_id>PSCA00107</game_id>
+		<rom name="Killzone - Mercenary (USA).psv" size="3791650816" crc="e01e774b" md5="81c88595a6782f5d07a284a0f3831d47" sha1="26e9103bc57f66eeed34a4cab394c2204b5d2b14" serial="PSCA-00107"/>
+	</game>
+	<game name="KLAP!! - Kind Love And Punish (Japan)" id="z020">
+		<description>KLAP!! - Kind Love And Punish (Japan)</description>
+		<game_id>PCSG00478</game_id>
+		<rom name="KLAP!! - Kind Love And Punish (Japan).psv" size="3791650816" crc="3212d5d9" md5="a3df93a46a1deae6141815c5f00c1db3" sha1="b5c2f9f1d0dd12145f37531a1d6656f3c82246ba" serial="PCSG-00478"/>
+	</game>
+	<game name="Kurenai no Homura (Japan)" id="z209">
+		<description>Kurenai no Homura (Japan)</description>
+		<game_id>PCSG01158</game_id>
+		<rom name="Kurenai no Homura (Japan).psv" size="3791650816" crc="52844087" md5="493eb8f1cf511af487d3153643ece4dd" sha1="7851c7d8fd1cdd602203c984886291fc6987f79a" sha256="14fb73fd225c21bde365081b7840622d670028439c1202d5886dc72ddb2f1608" serial="PCSG-01158"/>
+	</game>
+	<game name="Kurogane Kaikitan - Senya Ichiya (Japan)" id="z129">
+		<description>Kurogane Kaikitan - Senya Ichiya (Japan)</description>
+		<game_id>PCSG00417</game_id>
+		<rom name="Kurogane Kaikitan - Senya Ichiya (Japan).rif" size="512" crc="f904873b" md5="44bc0b2ec21bc0a0a9a2484b278a3c18" sha1="69e179bedc4e6c0a9c1bcaba59e37e675e79efc0" sha256="4e713e677165a718a62bd2c55154d28df54300a09e94a5e3c0f47bebabd6d730"/>
+		<rom name="Kurogane Kaikitan - Senya Ichiya (Japan).psv" size="3791650816" crc="8f9f6604" md5="6a5d407ab8dbee95e2c451466c9685ca" sha1="88493ddc1105077692aec644503bf846477d0f41" sha256="f066476ecca4686147ed7d4b432148a1fa91f70e240627e914e1064025d65769" serial="PCSG-00417"/>
+	</game>
+	<game name="Kurogane Kaikitan - Senya Ichiya (Japan)" id="z216">
+		<description>Kurogane Kaikitan - Senya Ichiya (Japan)</description>
+		<game_id>PCSG00417</game_id>
+		<rom name="Kurogane Kaikitan - Senya Ichiya (Japan).psv" size="3791650816" crc="8f9f6604" md5="82cf834fefe44f6b4f54f6301f92ad9a" sha1="88493ddc1105077692aec644503bf846477d0f41" sha256="f066476ecca4686147ed7d4b432148a1fa91f70e240627e914e1064025d65769" serial="PCSG-00417"/>
+	</game>
+	<game name="Kyokugen Dasshutsu ADV Zen'nin Shibou Desu (Japan)" id="z208">
+		<description>Kyokugen Dasshutsu ADV Zen'nin Shibou Desu (Japan)</description>
+		<game_id>PCSG00020</game_id>
+		<rom name="Kyokugen Dasshutsu ADV Zen'nin Shibou Desu (Japan).psv" size="1895825408" crc="4e02cbd1" md5="b22b762ee0c93d7777c9c01185f77b12" sha1="10e634dfa13b833d6a7d5d785c3d893bb5f31673" sha256="741dd021455102ac4a91fb3f9e2358bbe51475285736aaeedaae487687cb1a0c" serial="PCSG-00020"/>
+	</game>
+	<game name="Legend of Heroes, The - Trails of Cold Steel (USA)" id="0161">
+		<description>Legend of Heroes, The - Trails of Cold Steel (USA)</description>
+		<game_id>PCSE00786</game_id>
+		<rom name="Legend of Heroes, The - Trails of Cold Steel (USA).psv" size="3791650816" crc="6b2b78d2" md5="88520470e2b32f9c1ff64a913b3b6226" sha1="11778f6d17642c503a8d9e5202f276401401c6e2" mia="yes" serial="PCSE-00786"/>
+	</game>
+	<game name="LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="0011">
+		<description>LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<game_id>PCSB00503</game_id>
+		<rom name="LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).psv" size="1895825408" crc="d0b55ddb" md5="7fd0c9f76960d0fcc9be12ce386b0e6f" sha1="726ffb2d353520f8f212f1adc159402347542477" sha256="d0753972f60927dcd07e3d8e5e63d37cfd7de75b107f77ee81d52ee2d502eae4" serial="PCSB-00503"/>
+	</game>
+	<game name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="z103">
+		<description>LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<game_id>PCSB00135</game_id>
+		<rom name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).psv" size="1895825408" crc="8395fa2a" md5="e60ecec506d265e8cbf7c3145370fd69" sha1="3f84da28166c4c03e0c2a871a40da6eae79a1b91" sha256="5e84f26908127638dd86fb584fa60d795ca55cdcd665a004afb7365720f596b5" serial="PCSB-00135"/>
+	</game>
+	<game name="LEGO Batman 2 - DC Super Heroes (France)" id="z113">
+		<description>LEGO Batman 2 - DC Super Heroes (France)</description>
+		<game_id>PCSB00134</game_id>
+		<rom name="LEGO Batman 2 - DC Super Heroes (France).rif" size="512" crc="d4308c27" md5="c7be02566fa93196cb1a02972f717cad" sha1="15c24b25b8160211bc671de93a33fdb044717318" sha256="d1e3e3271529581e41b3a02de8e45f30e1ac81443b2b704dd054efd26257fd6d" mia="yes"/>
+		<rom name="LEGO Batman 2 - DC Super Heroes (France).psv" size="1895825408" crc="5e50645b" md5="c7e28b3ac700f5dc0e46410fd40d456f" sha1="6373e8af69446941f7d10365ef4660171316e229" sha256="bb88a3d08632204513278dfb705dab58487c954db03eba36b2cfaf3b2c4b7be0" mia="yes"/>
+	</game>
+	<game name="LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="z097">
+		<description>LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<game_id>PCSB00103</game_id>
+		<rom name="LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).psv" size="1895825408" crc="71a40df7" md5="b6239edce3c94653b969784a842289ac" sha1="c9c7dcee9a939e36999f8956893f1a5ed6689806" sha256="490068c6a3cf9404512adc6cbed3d0b282fc8551c3ff0837751ad136b1b1e72c" serial="PCSB-00103"/>
+	</game>
+	<game name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da,Pl)" id="z098">
+		<description>LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da,Pl)</description>
+		<game_id>PCSB00304</game_id>
+		<rom name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da,Pl).psv" size="1895825408" crc="8c314fcc" md5="eb09d7d39d5008a50829b006d150e3e5" sha1="b9f281863ddba69f9fa650dd0ec7ad50c80003f2" sha256="5e6f7e45bbe3448281e1c67283206b20670f99803bb33ad539437510441b6be7" serial="PCSB-00304"/>
+	</game>
+	<game name="LEGO Movie Videogame, The (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="0056">
+		<description>LEGO Movie Videogame, The (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<game_id>PCSB00553</game_id>
+		<rom name="LEGO Movie Videogame, The (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).psv" size="1895825408" crc="dea3f9b2" md5="a07b6aafa345cc554a3e164a87f859f9" sha1="cec9dd733ec08dc01cb651475f27f17aa89ded1f" sha256="970c347028cec14aa27fa80e75082003e859e18853ddcd75421cfd79b6ede4dc" serial="PCSB-00553"/>
+	</game>
+	<game name="LEGO Movie Videogame, The (France)" id="z111" cloneofid="0056">
+		<description>LEGO Movie Videogame, The (France)</description>
+		<game_id>PCSB00418</game_id>
+		<rom name="LEGO Movie Videogame, The (France).psv" size="1895825408" crc="5aba217d" md5="053ab54f1ca34224445d949d71332ce3" sha1="59c5cac0a16a780c1f4821a737be4a6cf9fe0f18" sha256="3a0b8728be3f9b3266b264d5d14ff0c57e85df38363f5e94760f2e77cc902425" mia="yes" serial="PCSB-00418"/>
+		<rom name="LEGO Movie Videogame, The (France).rif" size="512" crc="32f843c8" md5="f032307325ff0a3eba10817f00d4cf23" sha1="aa248a228dbf5aebd1778d07c77a9837ce200217" sha256="936b3c94aeab20d9ab6bae915c025dd3e2113ccc709ab480a633e255fdfdd2d1" mia="yes" serial="PCSB-00418"/>
+	</game>
+	<game name="LEGO Ninjago - Nindroids (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)" id="0177">
+		<description>LEGO Ninjago - Nindroids (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<game_id>PCSB00500</game_id>
+		<rom name="LEGO Ninjago - Nindroids (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).psv" size="1895825408" crc="c0147819" md5="66d8b77b9fda34da9f4420e515dc5316" sha1="423e1301d913e196fbe98665a5c38fd1d25b65ad" sha256="87879a63e3878f4eeca65be851aa01c6eaad950534a93a4bf2969c97a69332ae" serial="PCSB-00500"/>
+	</game>
+	<game name="LEGO Ninjago - Nindroids (Japan)" id="z145">
+		<description>LEGO Ninjago - Nindroids (Japan)</description>
+		<game_id>PCSG00928</game_id>
+		<rom name="LEGO Ninjago - Nindroids (Japan).rif" size="512" crc="d432d93f" md5="a4a00b17cb2370412abad462985c99ab" sha1="676e7ddad73e5e83024d4961e0006cb081e6bace" sha256="2dce3b737bde6650df7efa9ff62266b7990a66bf3e4280c270e02aba21eae6ef"/>
+		<rom name="LEGO Ninjago - Nindroids (Japan).psv" size="1895825408" crc="d23dc95c" md5="a50d1e64c4112accece27383d3fc5806" sha1="528fe6975673053cdbd8d19dc5fd68bcb686b19b" sha256="07abc8af0e2dd5d4a1b99ea1ad691528550b606d4e7434b7efbd5834572ca8fd" serial="PCSG-00928"/>
+	</game>
+	<game name="LEGO Star Wars - The Force Awakens (Japan)" id="z144">
+		<description>LEGO Star Wars - The Force Awakens (Japan)</description>
+		<game_id>PCSG00875</game_id>
+		<rom name="LEGO Star Wars - The Force Awakens (Japan).rif" size="512" crc="2074772e" md5="8cf643024e5e38224ec22df0acf0f653" sha1="137489848ab5688f07d9c5457e5e6c048c12b145" sha256="e87176a8143c22344f44057effc36bc2fa5b7ba242ebde22078c7ecf54941391"/>
+		<rom name="LEGO Star Wars - The Force Awakens (Japan).psv" size="1895825408" crc="3490ed12" md5="b32c99dbdeddda9a70e1f8760c230708" sha1="df2481c709f480e4d2f34a1ea78da0d2a9dbf6cc" sha256="2190fe8968a2eadc816f15aaf7e129462d179d08783b20a1fd97b6d5b1b25c85" serial="PCSG-00875"/>
+	</game>
+	<game name="Little Big Planet (USA) (Demo) (Kiosk)" id="x001">
+		<description>Little Big Planet (USA) (Demo) (Kiosk)</description>
+		<game_id>PCSA00018</game_id>
+		<rom name="Little Big Planet (USA) (Demo) (Kiosk).psv" size="1895825408" crc="bd6e7699" md5="296a587087c3f8f2c274c8f1c5939af0" sha1="37c6f1c1cee039569af0d8ae3570e1d553989448" sha256="16ad04234d437b84a5fbf3fadf605c0ef5b7481213f47337b6b774e59b1a162c" mia="yes" serial="PCSA-00018"/>
+		<rom name="Little Big Planet (USA) (Demo) (Kiosk).rif" size="512" crc="ac14025c" md5="d3b787436274681b8f7f6793d97ea010" sha1="a88b5e34e13a3d7095cf65be4950c1f60ea30b24" sha256="d2ae231ef8b4b1241bf0b48e5419f445d2a2d9aae2894e392f813847c041d2c5" mia="yes"/>
+	</game>
+	<game name="Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="0006">
+		<description>Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00017</game_id>
+		<rom name="Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" size="1895825408" crc="3ba0310c" md5="a4d419b0f6c2297301082cfd0c3741ff" sha1="dd4c12f5196627f649678c129624178c1862d457" sha256="c5a4185ce77531afc2ed683231fb25cc8705bf51d9201d2bc347c588c9327c11" serial="PCSF-00017"/>
+	</game>
+	<game name="Little Deviants (USA)" id="0026">
+		<description>Little Deviants (USA)</description>
+		<game_id>PCSA00010</game_id>
+		<rom name="Little Deviants (USA).psv" size="1895825408" crc="28d821bb" md5="2026b5a0faa0b36b5e94285eb33c529b" sha1="f2f4d8bcbb0c5553b55523a85b4ee545dccacf2f" mia="yes" serial="PCSA-00010"/>
+	</game>
+	<game name="LittleBigPlanet PS Vita (USA)" id="0052">
+		<description>LittleBigPlanet PS Vita (USA)</description>
+		<game_id>PCSA00017</game_id>
+		<rom name="LittleBigPlanet PS Vita (USA).psv" size="1895825408" crc="6cc16f45" md5="c359d6d619f865410da6c227ac99e584" sha1="fd0ba994ca4fcf9510d1ddb3cf42981d6ec9ff61" serial="PCSA-00017"/>
+	</game>
+	<game name="LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru)" id="0044">
+		<description>LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00021</game_id>
+		<rom name="LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru).psv" size="1895825408" crc="e630e51f" md5="4f26c3cd6f7b08bf609a5a72c8cc3394" sha1="a284ed446ba809654ff4c05e5eef59ec093610cc" sha256="f06bc7e55e36f580dbe2521295cc11bf549038ca09915ce6caf4f9b0699b7c81" serial="PCSF-00021"/>
+	</game>
+	<game name="LittleBigPlanet PS Vita - Marvel Super Hero Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="0163">
+		<description>LittleBigPlanet PS Vita - Marvel Super Hero Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00516</game_id>
+		<rom name="LittleBigPlanet PS Vita - Marvel Super Hero Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" size="1895825408" crc="e1d61691" md5="df4be6be7522e94ef0644d506f2699b2" sha1="1a8f5e0d40b2ff38720194f949f6e52a9debb3b3" sha256="58cfd4bef37fdd85c2adbb12a53eb5d25cc2dea1b3941f1e26788d3da53dc3da" status="verified" serial="PCSF-00516"/>
+	</game>
+	<game name="Lost Dimension (Europe)" id="0201">
+		<description>Lost Dimension (Europe)</description>
+		<game_id>PCSB00814</game_id>
+		<rom name="Lost Dimension (Europe).psv" size="1895825408" crc="342fc630" md5="e68f278aa3a8d0b10883713f8a3eb766" sha1="a0de61c54e8d0884d92ab5354fa8ef6c9f5b78c2" sha256="01863aef8ea42ce4700a4bac2111fc8b86058f677df3f9d7b66a4f7458900eac" serial="PCSB-00814"/>
+	</game>
+	<game name="Lost Dimension (Japan)" id="z185">
+		<description>Lost Dimension (Japan)</description>
+		<game_id>PCSG00331</game_id>
+		<rom name="Lost Dimension (Japan).psv" size="1895825408" crc="56840420" md5="c2ab284ecade7f15348597cb0d35ed81" sha1="c8a26e1ca3e947700ac8ab5bf5277de2f3d751a4" sha256="0fd09700728d0228c8d4b7701548fa7223cd1f1be7522d72827ed03c25f45b46" serial="PCSG-00331"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="b4a628b3" md5="236c2eaba48c25c781811e8209fa62ad" sha1="5862d4d3000526fd450a89cfb15d3a721b07ed4d" sha256="3e3645f45bea06fea8bb613156fc22bfad88effebea550b113ab3236e25cc749"/>
+	</game>
+	<game name="Love Live! School Idol Paradise Vol.1 - Printemps (Japan)" id="z070">
+		<description>Love Live! School Idol Paradise Vol.1 - Printemps (Japan)</description>
+		<game_id>PCSG00422</game_id>
+		<rom name="Love Live! School Idol Paradise Vol.1 - Printemps (Japan).psv" size="1895825408" crc="f3142214" md5="676e73e5c4b7e445cc5bcc6ae22e1b07" sha1="16a09f06a648410a2a4a3f82d9fcc4ed1411eae0" serial="PCSG-00422"/>
+	</game>
+	<game name="Love Live! School Idol Paradise Vol.2 - BiBi (Japan)" id="z071">
+		<description>Love Live! School Idol Paradise Vol.2 - BiBi (Japan)</description>
+		<game_id>PCSG00423</game_id>
+		<rom name="Love Live! School Idol Paradise Vol.2 - BiBi (Japan).psv" size="1895825408" crc="3c899736" md5="d304805f8af20a62f47c581f855c7884" sha1="7bb869ee394cb02e5bb8cb5c3c4b56f9dec7dab7" serial="PCSG-00423"/>
+	</game>
+	<game name="Lumines - Electronic Symphony (Europe) (En,Fr,De,Es,It)" id="0012">
+		<description>Lumines - Electronic Symphony (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00061</game_id>
+		<rom name="Lumines - Electronic Symphony (Europe) (En,Fr,De,Es,It).psv" size="1895825408" crc="e6e3e652" md5="7589320d4199bbafbfe89af0a11e3b56" sha1="11394250204982ef373dea94822413061f4590ed" sha256="2f990061c2a2c0efa335130265ce9dee273c1f46d4d4a960c6123f2ca9430857" serial="PCSB-00061"/>
+	</game>
+	<game name="Lumines - Electronic Symphony (USA)" id="0027">
+		<description>Lumines - Electronic Symphony (USA)</description>
+		<game_id>PCSE00009</game_id>
+		<rom name="Lumines - Electronic Symphony (USA).psv" size="1895825408" crc="e6f67065" md5="b1a13a9e5691017426c453c1ebb9c021" sha1="da2c3f7608aab9655a6876e63f7e3786aafe2c5f" serial="PCSE-00009"/>
+	</game>
+	<game name="Madden NFL 13 (USA)" id="0127">
+		<description>Madden NFL 13 (USA)</description>
+		<game_id>PCSE00084</game_id>
+		<rom name="Madden NFL 13 (USA).psv" size="3791650816" crc="e6b8e3d3" md5="08b032102355906263c07809fb4dc6f5" sha1="8206a43a5596683bcb83924f2019d617a52d5b99" serial="PCSE-00084"/>
+	</game>
+	<game name="Mary Skelter - Nightmares (USA)" id="0240">
+		<description>Mary Skelter - Nightmares (USA)</description>
+		<game_id>PCSE01014</game_id>
+		<rom name="Mary Skelter - Nightmares (USA).vpk" size="3791650816" crc="2a65aab0" md5="bcde27024afd02cb91149b1a9071e0d4" sha1="a72dc04db4fcfe0aa5bbe8d77b20b083c8727ce8" serial="PCSE-01014"/>
+	</game>
+	<game name="Meikyuu Cross Blood - Infinity (Japan)" id="z131">
+		<description>Meikyuu Cross Blood - Infinity (Japan)</description>
+		<game_id>PCSG00179</game_id>
+		<rom name="Meikyuu Cross Blood - Infinity (Japan).rif" size="512" crc="d7f9f861" md5="7da93c90b49de7b002f9e17646acf69d" sha1="6fa8b9e010b329bcc42dc695f9fba8c4c4b30664" sha256="185b486dd1b7577a064fa9b8ffad6ef5c8bca7ae2a600d3d9616815290590304"/>
+		<rom name="Meikyuu Cross Blood - Infinity (Japan).psv" size="1895825408" crc="df2e5e8d" md5="f16243fdef1a7012254a6d200ba86f12" sha1="dd91bc77dca882081b7342c7c3933f51d72983e3" sha256="aab45820c10e0ff12c3a79c699b43d5c5a2e38ad9043586a5ba6bb7320eb6c3d" serial="PCSG-00179"/>
+	</game>
+	<game name="Metal Gear Solid HD Collection (USA)" id="0053">
+		<description>Metal Gear Solid HD Collection (USA)</description>
+		<game_id>PCSE00020</game_id>
+		<rom name="Metal Gear Solid HD Collection (USA).psv" size="3791650816" crc="8f5984e5" md5="b1218e212dd6eb838aa9045a4bfbd79a" sha1="379880324273c9ac46f2261f9255c4ddfc240715" serial="PCSE-00020"/>
+	</game>
+	<game name="Michael Jackson - The Experience HD (Europe) (En,Fr,De,Es,It) [b]" id="z100">
+		<description>Michael Jackson - The Experience HD (Europe) (En,Fr,De,Es,It) [b]</description>
+		<game_id>PCSF00071</game_id>
+		<rom name="Michael Jackson - The Experience HD (Europe) (En,Fr,De,Es,It) [b].psv" size="1895825408" crc="50366b76" md5="7bac7ca59a959b59ab9615d130b23440" sha1="01a0e8c1a21ae5d344f8f971d48941ab6bf3f89a" sha256="af76eee722ea64be3aa97254e73406961ebf6d3b5fa2590af21fb09a7715e536" status="baddump" serial="PCSF-00071"/>
+	</game>
+	<game name="Mind Zero (USA)" id="0148">
+		<description>Mind Zero (USA)</description>
+		<game_id>PCSE00359</game_id>
+		<rom name="Mind Zero (USA).psv" size="1895825408" crc="51958187" md5="6fab913784bb1bc95f8035f35cee82b6" sha1="c8ec5695d9d7bd7bf152f44c6c82d54f5061ebc2" serial="PCSE-00359"/>
+	</game>
+	<game name="Mind=Zero (Japan)" id="z217">
+		<description>Mind=Zero (Japan)</description>
+		<game_id>PCSG00184</game_id>
+		<rom name="Mind=Zero (Japan).psv" size="1895825408" crc="1c7984c7" md5="971dd10d4b2bd62b2778f7cd145cb1d9" sha1="0dccecaa8601698ba5210396785b91ad23a9dbab" sha256="905079f69a3a65b95dd5d3fe3fbd4be55114c5367e8c207cb745a5362dfa76ce" serial="PCSG-00184"/>
+	</game>
+	<game name="Minecraft - PlayStation Vita Edition (Europe)" id="0071">
+		<description>Minecraft - PlayStation Vita Edition (Europe)</description>
+		<game_id>PCSB00560</game_id>
+		<rom name="Minecraft - PlayStation Vita Edition (Europe).psv" size="1895825408" crc="69205db1" md5="bf7bfdf56f46f3e129da5d534e0a5abc" sha1="c7b35ba7772eebca911abe474f59f6eca490e8e8" serial="PCSB-00560"/>
+	</game>
+	<game name="Minecraft - PlayStation Vita Edition (Japan) (En,Ja)" id="z065">
+		<description>Minecraft - PlayStation Vita Edition (Japan) (En,Ja)</description>
+		<game_id>PCSG00302</game_id>
+		<rom name="Minecraft - PlayStation Vita Edition (Japan) (En,Ja).psv" size="1895825408" crc="d3375e60" md5="547a2b95cc97c8baed9b95c7ad653f67" sha1="946c99e7021b9d16257491f5b97cce0c226d31af" status="verified" serial="PCSG-00302"/>
+	</game>
+	<game name="Minna no Golf 6 (Japan)" id="z066">
+		<description>Minna no Golf 6 (Japan)</description>
+		<game_id>PCSC00001</game_id>
+		<rom name="Minna no Golf 6 (Japan).psv" size="1895825408" crc="d24f5373" md5="a1c61aeac20a034339107c5ed2e5ba29" sha1="6ed2b70fa115acd7107921f94cb8cd2f15d4e7aa" serial="PCSC-00001"/>
+	</game>
+	<game name="MLB 13 - The Show (USA) (En,Fr)" id="0029">
+		<description>MLB 13 - The Show (USA) (En,Fr)</description>
+		<game_id>PCSA00065</game_id>
+		<rom name="MLB 13 - The Show (USA) (En,Fr).psv" size="3791650816" crc="f2170932" md5="13981059625efe0644630d6498f3541d" sha1="2ff55cd10d2d5ee9f9ce459838f0563ba26a55f2" mia="yes" serial="PCSA-00065"/>
+	</game>
+	<game name="MLB 15 - The Show (Asia) (En)" id="z056">
+		<description>MLB 15 - The Show (Asia) (En)</description>
+		<game_id>PCSA00511</game_id>
+		<rom name="MLB 15 - The Show (Asia) (En).psv" size="3791650816" crc="3f7d5722" md5="defb706fd41f64a9755e768391707ac2" sha1="10f6c6131b22069ed0f354e034ce6c34db1509d0" serial="PCSA-00511"/>
+	</game>
+	<game name="Mobile Suit Gundam Extreme VS-Force (Asia) (En)" id="z037">
+		<description>Mobile Suit Gundam Extreme VS-Force (Asia) (En)</description>
+		<game_id>PCSH00195</game_id>
+		<rom name="Mobile Suit Gundam Extreme VS-Force (Asia) (En).psv" size="1895825408" crc="d4a4ec27" md5="24c60a2f95ccc8454b8dbd6be684ab27" sha1="f9159ec635254efc8158e5947ef0cfa7b1fed7cd" serial="PCSH-00195"/>
+	</game>
+	<game name="ModNation Racers - Road Trip (Europe) (En,Fr,De,Es,It,Ru)" id="0003">
+		<description>ModNation Racers - Road Trip (Europe) (En,Fr,De,Es,It,Ru)</description>
+		<game_id>PCSF00002</game_id>
+		<rom name="ModNation Racers - Road Trip (Europe) (En,Fr,De,Es,It,Ru).psv" size="1895825408" crc="c353bd5b" md5="ed13a92f810f189b446385a1be573b95" sha1="59845724462b9cb2791b79bf8753b3a763606a5d" status="verified" serial="PCSF-00002"/>
+	</game>
+	<game name="Monster Hunter Frontier G6 Premium Package (Japan)" id="z059">
+		<description>Monster Hunter Frontier G6 Premium Package (Japan)</description>
+		<game_id>PCSG00350</game_id>
+		<rom name="Monster Hunter Frontier G6 Premium Package (Japan).psv" size="3791650816" crc="9f4e41ca" md5="b39be7328ff6f07d94db70ae173bfb15" sha1="93c5be44e0be75fdd1e1eb669f1ed28c094ffbc1" serial="PCSG-00350"/>
+	</game>
+	<game name="Monster Radar (Japan)" id="z128">
+		<description>Monster Radar (Japan)</description>
+		<game_id>PCSG00024</game_id>
+		<rom name="Monster Radar (Japan).rif" size="512" crc="b088d6c8" md5="4744df9fe6899f8bd28b20c1bd377f1f" sha1="bd08c4f6c960ce0a47aa8c21a272853c78af9f36" sha256="60eb5df3076e5616293f8d4b9cbd46f15456cdda0d1f5f5709a25428364bebd9"/>
+		<rom name="Monster Radar (Japan).psv" size="3791650816" crc="0906f76d" md5="149ee3f4085ea80c3c78f3465b259df0" sha1="3ed2a85b50e80833dde88afd13ac054e6d2c4842" sha256="1812c12359938c4439fb4456aa2bc80636ff978d30d2c73cec82a9c35cf12a24" serial="PCSG-00024"/>
+	</game>
+	<game name="MUD - FIM Motocross World Championship (Europe) (En,Fr,De,Es,It)" id="0209">
+		<description>MUD - FIM Motocross World Championship (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00182</game_id>
+		<rom name="MUD - FIM Motocross World Championship (Europe) (En,Fr,De,Es,It).psv" size="1895825408" crc="ffa7e961" md5="24fb736e369d4f7af6b57ec3d55ca674" sha1="31b5b7ea505e075ed51690a20438d9262366a3cb" serial="PCSB-00182"/>
+	</game>
+	<game name="Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El)" id="0014">
+		<description>Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El)</description>
+		<game_id>PCSF00558</game_id>
+		<rom name="Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El).psv" size="1895825408" crc="1c5db2c6" md5="820bb7b9b3bf95df298bca72721d6e82" sha1="0352d19dcb1e80186cbba00dcac7484affa85787" sha256="f1f4f5579ec006717647f2051cd6a628b051c32c1b5f81f71685174046704659" serial="PCSF-00558"/>
+	</game>
+	<game name="Nade Revo! Nadeshiko Revolution! (Japan)" id="0313">
+		<description>Nade Revo! Nadeshiko Revolution! (Japan)</description>
+		<game_id>PCSG01178</game_id>
+		<rom name="Nade Revo! Nadeshiko Revolution! (Japan).psv" size="1895825408" crc="9db9092a" md5="5573cc11a47ae6b488e6f634ac62c462" sha1="270ad13188836ecd1876c2932b40a67f9b8c1c6b" sha256="2745b6e5cb427250de78b0524e49603db47ced779fdfb068e4842f2805129ed2" serial="PCSG-01178"/>
+	</game>
+	<game name="Naitei! Shuukatsu Kanzen Taisaku - ES - SPI - Mensetsu (Japan)" id="z164">
+		<description>Naitei! Shuukatsu Kanzen Taisaku - ES - SPI - Mensetsu (Japan)</description>
+		<game_id>PCSG00155</game_id>
+		<rom name="Naitei! Shuukatsu Kanzen Taisaku - ES - SPI - Mensetsu (Japan).psv" size="1895825408" crc="bc639257" md5="5fa7a2ecd0df0f4bd52622431d94a6d5" sha1="175ca31822ac90e95378eb038084579297251da1" sha256="cd35d6b98e4995a1eb14255f13a4c3218aa2be258a07b62d93d0c48e3fb3d8c0" serial="PCSG-00155"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="f4cb6e07" md5="9bb995d1902edd482594a3711c6f9281" sha1="07c4fbe1b27d787003193c90c19528a40f7e2a10" sha256="6c84d37cc591db6194f20da81b0078afd3775e01b315304e5ecd6c0effc7357b" serial="PCSG-00155"/>
+	</game>
+	<game name="Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It,Ru)" id="0089">
+		<description>Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It,Ru)</description>
+		<game_id>PCSB00183</game_id>
+		<rom name="Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It,Ru).psv" size="3791650816" crc="783205df" md5="721e7f4580aae009b0cdc784c3b67387" sha1="59f67e6a288a7f3a318bae072bea8d5d4a028c68" serial="PCSB-00183"/>
+	</game>
+	<game name="New Little King's Story (Europe) (En,Fr,De,Es,It)" id="0195">
+		<description>New Little King's Story (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00109</game_id>
+		<rom name="New Little King's Story (Europe) (En,Fr,De,Es,It).psv" size="1895825408" crc="29f3ca65" md5="d6c5a0da8ea8482579e5c9b59b8e88cf" sha1="8e37f5c607fcae11b52aa2bf2aa5e2050505f478" sha256="6a57da7199a8e4e869106d72a23d5e77f24c135f60a0f6baba1306c1ba3df993" serial="PCSB-00109"/>
+	</game>
+	<game name="NextRev - Care Manager Shiken (Japan)" id="z167">
+		<description>NextRev - Care Manager Shiken (Japan)</description>
+		<game_id>PCSG00192</game_id>
+		<rom name="NextRev - Care Manager Shiken (Japan).psv" size="1895825408" crc="4b25b44b" md5="395e52c353a990b42b5537df3e340b3c" sha1="c86cd7632b8cfe282b9cc9fe5b40647fbaa386a8" sha256="c5744c691b94344c84bee3bda4c9b8c7b1d0f80580cee8403a0044cb2c721d9b" serial="PCSG-00192"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="1a1315da" md5="02e6bdf3c3b2749d99c0ae8dbf1a3ffb" sha1="9044c1d116b15cde53942fd714c15cfa007bfbd4" sha256="c96216d986c154ba3b8b2939324a89cdf4d40601c07c62a4d57193b4c3b9c8af" serial="PCSG-00192"/>
+	</game>
+	<game name="NextRev - Chuushoukigyou Shindanshi Shiken 1 (Japan) [b]" id="z162">
+		<description>NextRev - Chuushoukigyou Shindanshi Shiken 1 (Japan) [b]</description>
+		<game_id>PCSG00143</game_id>
+		<rom name="NextRev - Chuushoukigyou Shindanshi Shiken 1 (Japan) [b].psv" size="1895825408" crc="7e1f4d7c" md5="7cd23fdf12efbbb913fcd915315f656c" sha1="8dbe7d570c38794cebd7ec49c0ff1a78f7ac7464" sha256="bc03746c8a9abd1be633a1b29ccd72428438de189c39f437e6b12b921257485a" status="baddump" serial="PCSG-00143"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="d30a2d0f" md5="da854116586f5b629980474283dc1de3" sha1="012a26b1dbb8f634e149af7aba285de4373dd024" sha256="ba095e7e92690a15136ae7f8d03d3f8849cb5ec68391ce11b43b62f27c4684bb" serial="PCSG-00143"/>
+	</game>
+	<game name="NextRev - Chuushoukigyou Shindanshi Shiken 2 (Japan)" id="z163">
+		<description>NextRev - Chuushoukigyou Shindanshi Shiken 2 (Japan)</description>
+		<game_id>PCSG00144</game_id>
+		<rom name="NextRev - Chuushoukigyou Shindanshi Shiken 2 (Japan).psv" size="1895825408" crc="ca270835" md5="5909ad3c60d5fc2755747dfee59edda7" sha1="17202ee0f752920584eac4198bf6e2549bb14d64" sha256="9127e3ff4cec9958560bf8764c88c55ffd37ef279b993f62f1e56a880418e9c4" serial="PCSG-00144"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="92ea8abb" md5="8f59d11cce03d9c8cf75b31cd97d059c" sha1="dc8b183087806e790e3c7750f6bb4e9c40a4652d" sha256="4298a3eef1fea7a973e7a29a4ba4f2a4e5f1333d0147ab186eb857318dec9d5e" serial="PCSG-00144"/>
+	</game>
+	<game name="NextRev - Eibunpou Tettei Tokkun (Japan) [b]" id="z149">
+		<description>NextRev - Eibunpou Tettei Tokkun (Japan) [b]</description>
+		<game_id>PCSG00052</game_id>
+		<rom name="NextRev - Eibunpou Tettei Tokkun (Japan) [b].psv" size="1895825408" crc="43390829" md5="867fcb27598c276e7ce23a515c99171d" sha1="d30e114fcb87e997e366c782d59a0d4c32cd27d0" sha256="16ee4fe8a00568477d0e90966aa012f0088974b00ea520684c0c48eae1598456" status="baddump" serial="PCSG-00052"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="a7012dbb" md5="39cbdfb762041e644076de33618dca4a" sha1="c1851c7fef2db51fad9f6ef757f5b23bc364e735" sha256="bf8af61924414eacff355229684060394ad49a0d903ebe033598cf95d656cc5a" serial="PCSG-00052"/>
+	</game>
+	<game name="NextRev - Eiken (Japan) [b]" id="z166">
+		<description>NextRev - Eiken (Japan) [b]</description>
+		<game_id>PCSG00174</game_id>
+		<rom name="NextRev - Eiken (Japan) [b].psv" size="3791650816" crc="b2366fee" md5="9c1165ebba6dda62c7c10778febedc62" sha1="ed98d697d10a28caf51364a0434f445f876b552b" sha256="2a078d74dfc4e004129bd34f4bd0274dbca9bc888e466840fa38cca0c70ebc65" status="baddump" serial="PCSG-00174"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="379327fd" md5="f2ac5009d9a5e8fcd527640ac34f5656" sha1="78eb089e4ecf3b4dfe432ef9f4b63e3eb9ce5f8e" sha256="b02b248fb16256dd4beaff68eee8e1062c9e3489d3937d5a6ee77a472b77296c" serial="PCSG-00174"/>
+	</game>
+	<game name="NextRev - FP Ginoukentei Shiken 2-Kyuu (Japan)" id="z182">
+		<description>NextRev - FP Ginoukentei Shiken 2-Kyuu (Japan)</description>
+		<game_id>PCSG00085</game_id>
+		<rom name="NextRev - FP Ginoukentei Shiken 2-Kyuu (Japan).psv" size="1895825408" crc="b38659a1" md5="46c466cda783c6cee55b1840940b4e2c" sha1="f8bc9c1f9abbb3467c21a964033221d2c1bb8fed" sha256="f6e8dabe2cd0abed24b21f3e9189bf5b48a8435c66a9a56c2c10607a8d06cdda" serial="PCSG-00085"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="d3979f0e" md5="016e15c2ad85b5842056ce6242abd3c5" sha1="0feb4b7119d237dc773030ae2f906b1d6088756b" sha256="947caa1352c518b174ca2c1648c4c4db609a6fd5c89d85eec1ff28a729969a49"/>
+	</game>
+	<game name="NextRev - FP Ginoukentei Shiken 3-Kyuu (Japan)" id="z154">
+		<description>NextRev - FP Ginoukentei Shiken 3-Kyuu (Japan)</description>
+		<game_id>PCSG00086</game_id>
+		<rom name="NextRev - FP Ginoukentei Shiken 3-Kyuu (Japan).psv" size="1895825408" crc="47813612" md5="6bbffd2207fc3ac1f65548c709ce86ec" sha1="539db1dc8b0cba7c7aec79cb0492ae82ebd31644" sha256="94df03730798891a63f0e89401a38ee5e961e813c78a9937132326454dcd7bb7" serial="PCSG-00086"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="e02ae110" md5="24dbf20c7f84ce002e0200bae128215d" sha1="8f62c1397f6af2e73f8839041dd1c5dbfa25b748" sha256="cdd1883696ac4c4bb9a9797d59141ddfc976a876a533d2acf392e6e33b500b80" serial="PCSG-00086"/>
+	</game>
+	<game name="NextRev - Gyouseishoshi Shiken (Japan) [b]" id="z150">
+		<description>NextRev - Gyouseishoshi Shiken (Japan) [b]</description>
+		<game_id>PCSG00056</game_id>
+		<rom name="NextRev - Gyouseishoshi Shiken (Japan) [b].psv" size="1895825408" crc="a308d8c8" md5="3c5fde63d35579e4f5b432740ff35465" sha1="785076c9067e871b3d9b8eaaff367434e9ceae34" sha256="876679ed2ae66784b463f003c67decb5f967cedceb92592e93f6a71b69455fa8" status="baddump" serial="PCSG-00056"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="ce2871d8" md5="68902ef24e8d1c730f8ddb1eb641a92f" sha1="22963553f7998b2d24d9681609fbc47d6ed3600f" sha256="7be3be3295f51c8c2a3c15e78171e742858f827ca627dfcf5ecfedfdd25f0b00" serial="PCSG-00056"/>
+	</game>
+	<game name="NextRev - Hisho Kentei Shiken (Japan)" id="z184">
+		<description>NextRev - Hisho Kentei Shiken (Japan)</description>
+		<game_id>PCSG00186</game_id>
+		<rom name="NextRev - Hisho Kentei Shiken (Japan).psv" size="1895825408" crc="9ed1b2c7" md5="b4eabc9e19460dc3888ebeae71fa1625" sha1="09d38cd5d25c298ab1a3653df9ff613cb6d154eb" sha256="61fac6ab64f48e722ef35460cc688fed4aac6733f9ace90d4a74515b75360476" serial="PCSG-00186"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="972a1998" md5="850b26a7cc817fe3f2c459034b85016a" sha1="da2fcd6f508db0a15bbe48076e10a83acbd9c308" sha256="3e60f64de5bf25a95b8686b0fd4dd194f1ad4d1159a06bcb0cdd20fd14e31b64"/>
+	</game>
+	<game name="NextRev - IT Passport Shiken (Japan) [b]" id="z153">
+		<description>NextRev - IT Passport Shiken (Japan) [b]</description>
+		<game_id>PCSG00073</game_id>
+		<rom name="NextRev - IT Passport Shiken (Japan) [b].psv" size="1895825408" crc="33ea0bff" md5="cff47865e70be22b384baa9021b1b59b" sha1="547688796746c8a950417fe46352fe0bc61412ef" sha256="370a77247279b75631df60b6838ab25e920c399834cdd424d87e396d2313e1ee" status="baddump" serial="PCSG-00073"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="94c103c9" md5="5608ea13f81e50ab2a6dfb91d8e27c1b" sha1="4434a9d0aab571ccb05d02dc532a9efe7f30d91a" sha256="2747c3437d1c814cb99cd0afb4c227f568ded4c9c157b1a57c6212d63d44d8bf" serial="PCSG-00073"/>
+	</game>
+	<game name="NextRev - Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan) [b]" id="z156">
+		<description>NextRev - Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan) [b]</description>
+		<game_id>PCSG00100</game_id>
+		<rom name="NextRev - Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan) [b].psv" size="1895825408" crc="0d4cbac5" md5="d52feccc27917f37e3cc4bcb8891c94e" sha1="7f50cc5f876c56f609dfeadab2c8d1249895c34e" sha256="253de4e89f71f38f3e1df6d818aeaf8052ae777f1a5bff2f4002e4a354c86ed5" status="baddump" serial="PCSG-00100"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="39ec59d6" md5="54186a4f3edfd431a070fbcf9e9bf8eb" sha1="b6e5a6788f6a2c4084500fe0c40287eca4e1486d" sha256="0d3019b53d7741ff01e41568f60ccab80ec5778db0e4a6976d395a5d5d523b6c" serial="PCSG-00100"/>
+	</game>
+	<game name="NextRev - Kaigo Fukushishi Shiken (Japan)" id="z161">
+		<description>NextRev - Kaigo Fukushishi Shiken (Japan)</description>
+		<game_id>PCSG00121</game_id>
+		<rom name="NextRev - Kaigo Fukushishi Shiken (Japan).psv" size="1895825408" crc="f9b988aa" md5="f0d704fbb7f44ec6752b4b08a2c4f3a4" sha1="5f154d101ab9e0fdc1bea705dcfb036a9bab976d" sha256="8f73584b5177bd187ac79e6d309aaafa4c985553262fb9b9f4f1b687a29a52da" serial="PCSG-00121"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="6b3466a0" md5="0e847f55ff20a04403b2ff1da9e72a4c" sha1="ce471f5e6e7593a06573e8ee9a17450e0bf0168f" sha256="fc9f1f7a876eed57d92c938393ba3270e6ad99dfa9d1c3f33b85fc1f7e07e893" serial="PCSG-00121"/>
+	</game>
+	<game name="NextRev - Kihon Jouhougijutsusha Shiken (Japan) [b]" id="z152">
+		<description>NextRev - Kihon Jouhougijutsusha Shiken (Japan) [b]</description>
+		<game_id>PCSG00072</game_id>
+		<rom name="NextRev - Kihon Jouhougijutsusha Shiken (Japan) [b].psv" size="1895825408" crc="7a15e3cb" md5="970a5150dcd2736f0710c212e0d25b45" sha1="b98d87023787aa1736fb6ed1357252fcf1d45c7d" sha256="62bb84f1f8441b895253ecebb63dc960932e356cee33077a27e8b61d355041ac" status="baddump" serial="PCSG-00072"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="f9c2a6fb" md5="a8903900856f1df1466f77cef16922a8" sha1="638084808cb099cdcf743da7e659130863dd514f" sha256="97b98788593a050fdd1db12aa83c75d082c2bc9b8c40de0cdcba96d83428ad87" serial="PCSG-00072"/>
+	</game>
+	<game name="NextRev - Ouyou Jouhougijutsusha Shiken (Japan) [b]" id="z151">
+		<description>NextRev - Ouyou Jouhougijutsusha Shiken (Japan) [b]</description>
+		<game_id>PCSG00071</game_id>
+		<rom name="NextRev - Ouyou Jouhougijutsusha Shiken (Japan) [b].psv" size="1895825408" crc="0d01c1da" md5="aa1707dff1188fb041c57f3cb895270d" sha1="f4049e1c26fd1340ac74121a4698179a3f7d8d68" sha256="331b613f49a6c9d7ac73875c5b5efbc18f7aeb0ffad33223e1b9750d0d762934" status="baddump" serial="PCSG-00071"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="01105529" md5="33d44df847c0ffa58aef4d49407f2d20" sha1="a51067affa2f86ecd8d9ef3b4a684497e4cf768e" sha256="d0ce23755451bbc90837ecb7cf7eca4dad30fba4a42694a76552373eab54a966" serial="PCSG-00071"/>
+	</game>
+	<game name="NextRev - Shakai Fukushishi Shiken (Japan) [b]" id="z157">
+		<description>NextRev - Shakai Fukushishi Shiken (Japan) [b]</description>
+		<game_id>PCSG00109</game_id>
+		<rom name="NextRev - Shakai Fukushishi Shiken (Japan) [b].psv" size="1895825408" crc="8ae1edf0" md5="0c8e6939d337a01bf93e1a0aae63133d" sha1="8eabf8db2cd7f24ebb92f2f8600b5fb61d198de4" sha256="77b8e029b3e2eeefdecd3ff385296159e4f72fc0ec5edfb1e63a1fa420ae6c9c" status="baddump" serial="PCSG-00109"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="f540e9d2" md5="4120e3dd11527a32b236c5f8f39276ad" sha1="bd1234dae71c60b1edbfb910869ba23f81428918" sha256="3331ae7224a13d4ab8df98484b8b386c2ebc7ea762866a425acd0869f9179db7" serial="PCSG-00109"/>
+	</game>
+	<game name="NextRev - Sharoushi Shiken (Japan) [b]" id="z165">
+		<description>NextRev - Sharoushi Shiken (Japan) [b]</description>
+		<game_id>PCSG00158</game_id>
+		<rom name="NextRev - Sharoushi Shiken (Japan) [b].psv" size="1895825408" crc="d63322ee" md5="a47febcdb43044ed130c6cac3f34bdb0" sha1="e3a3f3d5394e8db198b6194bb7185573282a56dd" sha256="5e21e36d005c95b10591d2d40d135e6265947f79f38b0fc7904edd1e93c9e390" status="baddump" serial="PCSG-00158"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="eb5fccd7" md5="8d05ddbd0edffe013a1653e1a1adc931" sha1="d7cbbe55f41853bbd7cf8cdc081bc8e94aeb6101" sha256="598160de1d4c85074a37c7c8061875d21f6196e79b5988ec5e0a329870b8514c" serial="PCSG-00158"/>
+	</game>
+	<game name="NextRev - Takken Shiken (Japan)" id="z155">
+		<description>NextRev - Takken Shiken (Japan)</description>
+		<game_id>PCSG00099</game_id>
+		<rom name="NextRev - Takken Shiken (Japan).psv" size="1895825408" crc="3870d7a0" md5="60df5c75ecc4cadcccf2611b530a109f" sha1="563fb594f240be1dfa6fc0906ef118d68fe71e3c" sha256="33a47e4be8b861cf1083aa65278e6349d2f5d5e493958ab0dacd5ff57c83cfc7" serial="PCSG-00099"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="c3decb42" md5="bb200d5a81c4f86ffb9ed8f76227cd64" sha1="a2bd46ad193508742aa1badaad43d052fa00db4c" sha256="e1629837dd172fe033c036a6f05b5bfed8ab4d5442fe86c860ae2a6100530624" serial="PCSG-00099"/>
+	</game>
+	<game name="Nihon Pro Mahjong Renmei Kounin - Motto 20-Bai! Mahjong ga Tsuyoku Naru Houhou - Shochuukyuusha Hen (Japan)" id="z178">
+		<description>Nihon Pro Mahjong Renmei Kounin - Motto 20-Bai! Mahjong ga Tsuyoku Naru Houhou - Shochuukyuusha Hen (Japan)</description>
+		<game_id>PCSG00222</game_id>
+		<rom name="Nihon Pro Mahjong Renmei Kounin - Motto 20-Bai! Mahjong ga Tsuyoku Naru Houhou - Shochuukyuusha Hen (Japan).psv" size="1895825408" crc="8ea9ff9a" md5="af998a7598dc97e7558c80cf580984f2" sha1="7614ce16c3a6f3ab54c87318e31c31447f2ed96e" sha256="539471716b654fba4c2df28c86dd2199a04757a56dadbb661d4c7215b8f634a4" serial="PCSG-00222"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="7b051b83" md5="0eaca63fd1fa90b9dfa4ff1b958764ef" sha1="4ec8ef8c16ca6a0f723faf8fbea0586eaa683f2a" sha256="60c37970bbcccd9ddb725548cad9cf855620b6b40c91df86347adcdb8d796053" serial="PCSG-00222"/>
+	</game>
+	<game name="Nihon Pro Mahjong Renmei Suisen - Tokoton Mahjong! Joryuu Pro ni Chousen! Tetsuman Megami Special (Japan)" id="z179">
+		<description>Nihon Pro Mahjong Renmei Suisen - Tokoton Mahjong! Joryuu Pro ni Chousen! Tetsuman Megami Special (Japan)</description>
+		<game_id>PCSG00223</game_id>
+		<rom name="Nihon Pro Mahjong Renmei Suisen - Tokoton Mahjong! Joryuu Pro ni Chousen! Tetsuman Megami Special (Japan).psv" size="1895825408" crc="3204e5b9" md5="793258b84819d9079ab0c0d8814b4a7c" sha1="4f68f26f00f9b9d6b7dbfd78c1f01a87dac62124" sha256="aa9b4656b516be221fcdf1bf50d19189e0f189c5c7e4ea3e002e3e78d8f6acfa" serial="PCSG-00223"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="bdf64075" md5="6bcde4ce33fe0bbe5db875b0727773d2" sha1="7becaeee10640c82b6c0884531ce806c9ef8c2b9" sha256="6bf2bf63bfe9799967f19d2f8a81c67b42101ed1a521d76a844eff3489552063" serial="PCSG-00223"/>
+	</game>
+	<game name="Ninja Gaiden Sigma 2 Plus (USA) (En,Ja,Fr,De,Es,It)" id="0157">
+		<description>Ninja Gaiden Sigma 2 Plus (USA) (En,Ja,Fr,De,Es,It)</description>
+		<game_id>PCSE00233</game_id>
+		<rom name="Ninja Gaiden Sigma 2 Plus (USA) (En,Ja,Fr,De,Es,It).psv" size="3791650816" crc="1a13002d" md5="69bbcea350ac89b692317d10f5f13560" sha1="21d8974f471c8169cdc5ca23c5e5529ea3de06be" serial="PCSE-00233"/>
+	</game>
+	<game name="Nisekoi Yomeiri (Japan)" id="z212">
+		<description>Nisekoi Yomeiri (Japan)</description>
+		<game_id>PCSG00397</game_id>
+		<rom name="Nisekoi Yomeiri (Japan).psv" size="1895825408" crc="ca62ab42" md5="ff18dfa8d06199ec3b68e0665801a954" sha1="ede0e9bfe5ba10f7aa535eefd233b5d55ee21ad9" sha256="0167506aa91291f587362a46063a9e49a07bc4e494b28476a2c80134f7877918" serial="PCSG-00397"/>
+	</game>
+	<game name="Nora to Oujo to Nora Neko Heart (Japan)" id="z211">
+		<description>Nora to Oujo to Nora Neko Heart (Japan)</description>
+		<game_id>PCSG01107</game_id>
+		<rom name="Nora to Oujo to Nora Neko Heart (Japan).psv" size="3791650816" crc="8c93794f" md5="55a8f96cb1119a672dbdc4bb989df8dc" sha1="641b5b5b880756755e07e3572bce2b508976a119" sha256="d4f39ee7c1311ba9e75cd8a462a96fd976cc8d4d0a5b52d02d3c7d78b439cb07" serial="PCSG-01107"/>
+	</game>
+	<game name="Octodad - Dadliest Catch (USA)" id="z086">
+		<description>Octodad - Dadliest Catch (USA)</description>
+		<game_id>PCSE00917</game_id>
+		<rom name="Octodad - Dadliest Catch (USA).psv" size="1895825408" crc="c0f4ce94" md5="8a27ac87e6f0ee6817eb65b1daa58213" sha1="fb2224680e3e4f829e01450e4aa33e9969285bb4" mia="yes" serial="PCSE-00917"/>
+	</game>
+	<game name="Odin Sphere - Leifthrasir (USA)" id="z072">
+		<description>Odin Sphere - Leifthrasir (USA)</description>
+		<game_id>PCSE00899</game_id>
+		<rom name="Odin Sphere - Leifthrasir (USA).psv" size="3791650816" crc="30ff22f5" md5="0dbcff8141470a58c0e0ba841442b39c" sha1="84e6e7c111ce74405672f9398cea9deb78c5412a" serial="PCSE-00899"/>
+	</game>
+	<game name="One Piece - Burning Blood (Europe) (En,Fr,De,Es,It,Pl,Ru)" id="0107">
+		<description>One Piece - Burning Blood (Europe) (En,Fr,De,Es,It,Pl,Ru)</description>
+		<game_id>PCSB00893</game_id>
+		<rom name="One Piece - Burning Blood (Europe) (En,Fr,De,Es,It,Pl,Ru).psv" size="3791650816" crc="c226fc17" md5="31bf7b398eb23bf903450a8d6f7f27c4" sha1="5b3631564a8ced3066eb1f0d45f1d3403f26ec0e" sha256="81ac5baaf0900c73c6644c9b9a81302ccff9d4287dd43a4ceb76cd1c13dd2af7" serial="PCSB-00893"/>
+	</game>
+	<game name="One Piece - Burning Blood (Anison Sound Edition) (Japan)" id="z126">
+		<description>One Piece - Burning Blood (Anison Sound Edition) (Japan)</description>
+		<game_id>PCSG00744</game_id>
+		<rom name="One Piece - Burning Blood (Anison Sound Edition) (Japan).rif" size="512" crc="d753c364" md5="5cf11e9720ffc5e5d5f71ab299db49f4" sha1="6c384dd38eaf07fcb8a354d63bf850cecbb8ccfc" sha256="173830421c2b0fcd6a0db8b8ba298dba1f67608b8bdd4ecc98295848a767a290"/>
+		<rom name="One Piece - Burning Blood (Anison Sound Edition) (Japan).psv" size="3791650816" crc="86742638" md5="6e188aba7b657f9da6a9b996aaa6d83e" sha1="89181461efb6adef05a25f13b638f10ac050daa8" sha256="d8450b41a91d9b93e5299added4258d629f21c910112e23960fd2a2366831260" serial="PCSG-00744"/>
+	</game>
+	<game name="One Piece - Pirate Warriors 3 (Europe) (En,Fr,De,Es,It)" id="z088">
+		<description>One Piece - Pirate Warriors 3 (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00717</game_id>
+		<rom name="One Piece - Pirate Warriors 3 (Europe) (En,Fr,De,Es,It).psv" size="3791650816" crc="92ef4f28" md5="5f90fbb2014e2922604f36c88bbc3453" sha1="d7ed244ed6f0106cf1556d90476ef7c8cf49d8dc" status="verified" serial="PCSB-00717"/>
+		<rom name="One Piece - Pirate Warriors 3 (Europe) (En,Fr,De,Es,It).rif" size="512" crc="c50a44c8" md5="000d8b0469cab569eef1504d0352dd84" sha1="117e75dfffea464e0d1b101ee2b7cf51b29f7a85" sha256="e9ebf66a2e3de97808e9a9b9bb42717b61a544cbcf2988cb9a95706d1b3d1680" status="verified"/>
+	</game>
+	<game name="Operation Babel - New Tokyo Legacy (USA)" id="0260">
+		<description>Operation Babel - New Tokyo Legacy (USA)</description>
+		<game_id>PCSE01047</game_id>
+		<rom name="Operation Babel - New Tokyo Legacy (USA).psv" size="1895825408" crc="f63e1f3f" md5="72f89b45090f6fce71205db28c73dede" sha1="a139a86ef23ad4284b12aa1acf5712d62190c421" serial="PCSE-01047"/>
+	</game>
+	<game name="Period - Cube - Shackles of Amadeus (USA)" id="0264">
+		<description>Period - Cube - Shackles of Amadeus (USA)</description>
+		<game_id>PCSE01012</game_id>
+		<rom name="Period - Cube - Shackles of Amadeus (USA).psv" size="3791650816" crc="ffd61ea2" md5="b5c1f476f743677439422b922370265a" sha1="27186b613a280314f4b5b467ea5077d6c7bd3ded" serial="PCSE-01012"/>
+	</game>
+	<game name="Persona 3 - Dancing Moon Night (Japan)" id="0354">
+		<description>Persona 3 - Dancing Moon Night (Japan)</description>
+		<game_id>PCSG01031</game_id>
+		<rom name="Persona 3 - Dancing Moon Night (Japan).psv" size="3791650816" crc="6ac61773" md5="9b8574c0ad7d98bc54c9cb2f66ba8416" sha1="cf866760d155f0602bba5697a8887b0349ecefc2" sha256="ad278e8239d3bc055c7b436f97c74b7de8d07ed6315e3bf5140a9463f886b77f" serial="PCSG-01031"/>
+	</game>
+	<game name="Persona 4 - Dancing All Night (USA)" id="0103">
+		<description>Persona 4 - Dancing All Night (USA)</description>
+		<game_id>PCSE00764</game_id>
+		<rom name="Persona 4 - Dancing All Night (USA).psv" size="3791650816" crc="8cd8e25f" md5="30adcc0d0390779d8c54cecf910ec37c" sha1="01d15eedfc22cf019093a0e6fd1af97870356ec7" sha256="8cfaa97f5ff1083caefe74f74f83a316035ab211bbdcbe902865246692b43eb7" serial="PCSE-00764"/>
+	</game>
+	<game name="Persona 4 - Dancing All Night (Japan)" id="z031">
+		<description>Persona 4 - Dancing All Night (Japan)</description>
+		<game_id>PCSG00364</game_id>
+		<rom name="Persona 4 - Dancing All Night (Japan).psv" size="3791650816" crc="faf14935" md5="11b10d0d8b9f0d078b28efdfc149754b" sha1="dc49a793244b4628879288cf623d49d6de5dbb31" serial="PCSG-00364"/>
+	</game>
+	<game name="Persona 4 Golden (USA)" id="0055">
+		<description>Persona 4 Golden (USA)</description>
+		<game_id>PCSE00120</game_id>
+		<rom name="Persona 4 Golden (USA).psv" size="3791650816" crc="9e247e15" md5="6ea7611d133cc40410273daf8f4871d1" sha1="3cfb01395324b75ef3c110f00934b54e4001ad78" sha256="9ec09b4c3758b1dec0cb64f3d0619baa2a9ecaf9a07aed354e9f2d2e590e3281" status="verified" serial="PCSE-00120"/>
+	</game>
+	<game name="Persona 4 The GOLDEN (Japan) [b]" id="z082">
+		<description>Persona 4 The GOLDEN (Japan) [b]</description>
+		<game_id>PCSG00004</game_id>
+		<rom name="Persona 4 The GOLDEN (Japan) [b].psv" size="3791650816" crc="ca6338ce" md5="f0909d31797aa5ac2396085acba0639b" sha1="807667d4ceb399e7e724a4604d3011d547cac993" sha256="c54463752bd21d94effdc665d446a31724547b48720dfd9bcb2f36665189fa69" status="baddump"/>
+	</game>
+	<game name="Persona 5 - Dancing Star Night (Japan)" id="0355">
+		<description>Persona 5 - Dancing Star Night (Japan)</description>
+		<game_id>PCSG01030</game_id>
+		<rom name="Persona 5 - Dancing Star Night (Japan).psv" size="3791650816" crc="bdb16b06" md5="c2ef21ee79301cdb515751c5ff99193c" sha1="ccb4c7171e8b0ca470184725fed1372f6646f6f7" sha256="a8d316d5a68dc5784c6be870fa72dd9fcddb8e80cce9b33b8e7b975c293eb75d" serial="PCSG-01030"/>
+	</game>
+	<game name="Phantasy Star Online 2 Special Package (Japan)" id="z009">
+		<description>Phantasy Star Online 2 Special Package (Japan)</description>
+		<game_id>PCSG00141</game_id>
+		<rom name="Phantasy Star Online 2 Special Package (Japan).psv" size="3791650816" crc="e0f57d41" md5="72c79f9b5669d84dc8866485f6d8ee2a" sha1="cef2bc8d23e41264f24ad40eb4e711ee258f2f51" sha256="f07c73df3487b6ac18fd0051babec4724dde98a57a136cdc502912a34a6565f5" status="verified" serial="PCSG-00141"/>
+	</game>
+	<game name="PlayStation All-Stars Battle Royale (USA) (En,Ja,Es,Pt)" id="0154">
+		<description>PlayStation All-Stars Battle Royale (USA) (En,Ja,Es,Pt)</description>
+		<game_id>PCSA00069</game_id>
+		<rom name="PlayStation All-Stars Battle Royale (USA) (En,Ja,Es,Pt).psv" size="1895825408" crc="4025dde9" md5="4520b0c414a2b83e6f5a8f8e20e6d6ec" sha1="34fbd65714e9778b0dfe64bdf911c5e820177193" serial="PCSA-00069"/>
+	</game>
+	<game name="PlayStation All-Stars Battle Royale (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="0192">
+		<description>PlayStation All-Stars Battle Royale (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00153</game_id>
+		<rom name="PlayStation All-Stars Battle Royale (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" size="1895825408" crc="c26e9f26" md5="815c0e452463f1c5774d9423fb4fe04d" sha1="b3c73118ec2482c44e6e913f61ff224e091a5f15" sha256="9fac83a83c79c8c39471d3a73fc6711006e13ab1ad9ce91b65480c704a0ce056" serial="PCSF-00153"/>
+	</game>
+	<game name="Pro Yakyuu Spirits 2012 (Japan)" id="z140">
+		<description>Pro Yakyuu Spirits 2012 (Japan)</description>
+		<game_id>PCSG00031</game_id>
+		<rom name="Pro Yakyuu Spirits 2012 (Japan).rif" size="512" crc="6337c0cf" md5="d3514ab8a7e93c9087cdac615266a7e1" sha1="3871e7fe25728818abeabbd69ff5d9abf57f9e24" sha256="90eb83787cdd583d3a708ac481f197a28e25ae8abb234ff0a2f6d5af8a4369a3"/>
+		<rom name="Pro Yakyuu Spirits 2012 (Japan).psv" size="3791650816" crc="3f73fb88" md5="276e836558c0a02b7e3ceb0d3a3cd355" sha1="a811e55fe2b60cad260d641ecffae09e2ce657e0" sha256="0b7b585cf41bfd434899e97d35472d8c0399bd8672317dc03a551b8cd23669fb" serial="PCSG-00031"/>
+	</game>
+	<game name="Pro Yakyuu Spirits 2014 (Japan)" id="z139">
+		<description>Pro Yakyuu Spirits 2014 (Japan)</description>
+		<game_id>PCSG00288</game_id>
+		<rom name="Pro Yakyuu Spirits 2014 (Japan).rif" size="512" crc="2072b96b" md5="bfc77c3b26ca00b56033d976dc96c8a0" sha1="66dbe3ed811ca3e0da8f3ee8711e3d5cdd536e77" sha256="040d9b714b1defd0b39fa5996c186fa675f974df6fbc87b27b9640d441bfa9e4"/>
+		<rom name="Pro Yakyuu Spirits 2014 (Japan).psv" size="3791650816" crc="5b3db575" md5="bb33d006bfff7a82fee8b1aaf110ad06" sha1="782c6a1c1a420377d05e716d5e69c6290e64b267" sha256="75f3da723e8212707fe79da6edb25de71e3d187861a8dbfc79506dcaaf37f9f2" serial="PCSG-00288"/>
+	</game>
+	<game name="Pro Yakyuu Spirits 2015 (Japan)" id="z138">
+		<description>Pro Yakyuu Spirits 2015 (Japan)</description>
+		<game_id>PCSG00541</game_id>
+		<rom name="Pro Yakyuu Spirits 2015 (Japan).rif" size="512" crc="ff12fb0f" md5="75172e6f923218c818351b6c5efc1074" sha1="f6ffcebdbee24bd0d46d67a33d47b32bb601c3a3" sha256="4ba24badf425a31057550ed3911150ee661535a21ed5e5cba6efc07eb7d46a2d"/>
+		<rom name="Pro Yakyuu Spirits 2015 (Japan).psv" size="3791650816" crc="c8126795" md5="1e3ec9ce9e1e037d8ca9651e7869bbaa" sha1="0a671ba79b8f3cb27967acd33d9325f5dd6301f2" sha256="ad8f936065659ea17cab681e02b6b23c42371ad432b8e48ae493a90db63baafb" serial="PCSG-00541"/>
+	</game>
+	<game name="Psychedelica of the Ashen Hawk (USA)" id="z026">
+		<description>Psychedelica of the Ashen Hawk (USA)</description>
+		<game_id>PCSE01166</game_id>
+		<rom name="Psychedelica of the Ashen Hawk (USA).psv" size="1895825408" crc="1a033189" md5="2da3fe4c336ca6b0bdac6a941115b11e" sha1="51df1b73e3e1f94dca6143812f4ded5e7ab7fc03" serial="PCSE-01166"/>
+	</game>
+	<game name="Psychedelica of the Black Butterfly (USA)" id="z034">
+		<description>Psychedelica of the Black Butterfly (USA)</description>
+		<game_id>PCSE01164</game_id>
+		<rom name="Psychedelica of the Black Butterfly (USA).psv" size="1895825408" crc="67354c52" md5="2bce2f559149316e223976de96bc8412" sha1="bf003474385aa70e8192f0aaf83eb6cbeb5c5162" serial="PCSE-01164"/>
+	</game>
+	<game name="Putty Squad (USA)" id="z083" cloneofid="0122">
+		<description>Putty Squad (USA)</description>
+		<game_id>PCSE00416</game_id>
+		<rom name="Putty Squad (USA).psv" size="1895825408" crc="4032ad76" md5="defb0669d3af142deca2525f947ff8cf" sha1="aa4c171e6532954f56fee782c94aa4cf014df691" mia="yes" serial="PCSE-00416"/>
+	</game>
+	<game name="Puyo Puyo Tetris (Japan)" id="z096">
+		<description>Puyo Puyo Tetris (Japan)</description>
+		<game_id>PCSG00224</game_id>
+		<rom name="Puyo Puyo Tetris (Japan).psv" size="1895825408" crc="9d187ee9" md5="cfdf496530eae8861f346b584893a872" sha1="8490c34c4afd0f7a04e44e0b8642fbb8729cc020" sha256="962d28b6ea073f33770d81f8c4b2b166fb1800129ff540ebc6f8f3b2c23204e5" serial="PCSG-00224"/>
+	</game>
+	<game name="Raishi - Konpeki no Shou (Japan)" id="z168">
+		<description>Raishi - Konpeki no Shou (Japan)</description>
+		<game_id>PCSG00806</game_id>
+		<rom name="Raishi - Konpeki no Shou (Japan).psv" size="1895825408" crc="59c42948" md5="c6d9222f0a6e5aae7e67d4f7d27e27f7" sha1="d8f801c7041959f32b8ed6b345d2c26f67877a2c" sha256="a6813dc22c392f59947f631366016c81a9657eb712487bd9cbb8ff5ea4c8e2d5" serial="PCSG-00806"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="c3e676d8" md5="a3bfdf776ccde39f57638d35fbfd5435" sha1="65ec4a809c42d96e04237ff54b8a1eb2fcde04f7" sha256="8c88b530e4fa40f120ac474dd220dac0e829c4028cfae5814012a6aa61406aef" serial="PCSG-00806"/>
+	</game>
+	<game name="Ratchet &amp; Clank Trilogy, The (Europe) (En,Fr,De,Es,It)" id="0121">
+		<description>Ratchet &amp; Clank Trilogy, The (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSF00482</game_id>
+		<rom name="Ratchet &amp; Clank Trilogy, The (Europe) (En,Fr,De,Es,It).psv" size="3791650816" crc="2669a752" md5="9d8c767156f9c0d4d1f97974a11f52ed" sha1="cca12573e900ddc806ec7a6431d9a20e9467a577" serial="PCSF-00482"/>
+	</game>
+	<game name="Rayman Origins (Europe) (En,Fr,De,Es,It,Nl)" id="z104">
+		<description>Rayman Origins (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<game_id>PCSB00079</game_id>
+		<rom name="Rayman Origins (Europe) (En,Fr,De,Es,It,Nl).psv" size="1895825408" crc="9614926f" md5="6c70459c881d57f24e189ab4d086a7ed" sha1="501b693d7e7528f466d7fff6ff019c45787fe1e4" sha256="b708a7bb45b63956837e03c7f52443371e50df09de272dfcf232ee69310502f5" serial="PCSB-00079"/>
+	</game>
+	<game name="Reality Fighters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="0007">
+		<description>Reality Fighters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00022</game_id>
+		<rom name="Reality Fighters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" size="1895825408" crc="1c362bdc" md5="07af03ed09bb96eb6f2819a474b62a52" sha1="28ede1422ce530463419906fc5ae033911ff2d53" sha256="1e2ddaa38f8dc8f8c6741cc20620748ae4821227ab38e96f7ef64bfb092fae9a" serial="PCSF-00022"/>
+	</game>
+	<game name="Reine des Fleurs (Japan)" id="z210">
+		<description>Reine des Fleurs (Japan)</description>
+		<game_id>PCSG00405</game_id>
+		<rom name="Reine des Fleurs (Japan).psv" size="3791650816" crc="c1d68d7e" md5="cee3b5837494ed7e6ce353376fc7adcf" sha1="1445cd7539709bba2a2a185aee3859dcb0076991" sha256="e7c25ff9d6b5e5e808b0c54a675e90aa938a5f9acb526d6ffaf1327311868317" serial="PCSG-00405"/>
+	</game>
+	<game name="Resident Evil - Revelations 2 (Asia) (En,Ja,Fr,De,Es,It,Pt-BR,Zh,Ko,Pl,Ru)" id="z089">
+		<description>Resident Evil - Revelations 2 (Asia) (En,Ja,Fr,De,Es,It,Pt-BR,Zh,Ko,Pl,Ru)</description>
+		<game_id>PCSH00187</game_id>
+		<rom name="Resident Evil - Revelations 2 (Asia) (En,Ja,Fr,De,Es,It,Pt-BR,Zh,Ko,Pl,Ru).psv" size="3791650816" crc="b418a46a" md5="19778147862988fc83a104fa14c951a1" sha1="3b6d552b728ac528dbb870694721661e7168276b" mia="yes" serial="PCSH-00187"/>
+	</game>
+	<game name="Resistance - Burning Skies (USA)" id="0035">
+		<description>Resistance - Burning Skies (USA)</description>
+		<game_id>PCSA00008</game_id>
+		<rom name="Resistance - Burning Skies (USA).psv" size="3791650816" crc="814d58ec" md5="38f495f993619ca89fd655b940b72131" sha1="aa0cf83af01592620ac0446616bf6135716cf515" serial="PCSA-00008"/>
+	</game>
+	<game name="Resistance - Burning Skies (France) (Fr,De,It)" id="0085">
+		<description>Resistance - Burning Skies (France) (Fr,De,It)</description>
+		<game_id>PCSF00003</game_id>
+		<rom name="Resistance - Burning Skies (France) (Fr,De,It).psv" size="3791650816" crc="33d44269" md5="836cdace4d759c28fcf8ef982e97d795" sha1="2672a5d2a60bae02f8704bb3f7ed9d9874cbc8cd" sha256="eb43b748262ffdcef064956b33970eca225795198f81f874cc99154578ef4281" serial="PCSF-00140"/>
+	</game>
+	<game name="Retro City Rampage DX (USA) (Second printing)" id="z010">
+		<description>Retro City Rampage DX (USA) (Second printing)</description>
+		<game_id>PCSE00630</game_id>
+		<rom name="Retro City Rampage DX (USA) (Second printing).psv" size="1895825408" crc="23945d39" md5="202bf18c8b744262156b9ca681f206e3" sha1="4a7a3f865c2b74c1a99bb4628b997cda68eb3318" serial="PCSE-00630"/>
+	</game>
+	<game name="Risk of Rain (USA)" id="z011">
+		<description>Risk of Rain (USA)</description>
+		<game_id>PCSE00850</game_id>
+		<rom name="Risk of Rain (USA).psv" size="1895825408" crc="91c875a9" md5="60053a761785e195f844b47ffb5fa918" sha1="c53edd4fe2dca005a743637bfb04f1fd6d7b1c66" serial="PCSE-00850"/>
+	</game>
+	<game name="Root Letter (USA)" id="0243">
+		<description>Root Letter (USA)</description>
+		<game_id>PCSE00963</game_id>
+		<rom name="Root Letter (USA).psv" size="1895825408" crc="b677ca6b" md5="ba15775d03b6286d7208696b607a87f9" sha1="13d21a56284af36e4205fa48223cb960aa375510" serial="PCSE-00963"/>
+	</game>
+	<game name="Saki - Zenkoku-hen (Japan)" id="z130">
+		<description>Saki - Zenkoku-hen (Japan)</description>
+		<game_id>PCSG00646</game_id>
+		<rom name="Saki - Zenkoku-hen (Japan).rif" size="512" crc="041991d3" md5="9e19d576fbf64c07a76e9ae2c74c1a9b" sha1="a069fa3ccdd71cdda245b093fd43db0901d9a652" sha256="1c3eaa188f7e43eb0821060ec3d984b755d271f2f676308710595598e2e03eaf"/>
+		<rom name="Saki - Zenkoku-hen (Japan).psv" size="1895825408" crc="d0b46277" md5="2e27f46f0e2251204ef2f9192677a1b9" sha1="2e8296efb3d5b38c200acbf7756a208782416023" sha256="d24e369d423fc79762166f66ee7815f5636bad72955cfd83cf429d2144388e5f" serial="PCSG-00646"/>
+	</game>
+	<game name="Sangokushi 12 (Japan)" id="z172">
+		<description>Sangokushi 12 (Japan)</description>
+		<game_id>PCSG00154</game_id>
+		<rom name="Sangokushi 12 (Japan).psv" size="1895825408" crc="2457eed6" md5="65f424e34e1e4ec2165219a6d2f7cd7b" sha1="42ea42d88e1c09b6c9cf1265b07f8118736224a6" sha256="d3c8c77115d0e1aaedd5d042919a9721bcb4a8a410e50109fb4c821f41d2f9d1" serial="PCSG-00154"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="1e91588c" md5="92a3aaf1a6cddcd14b3cfa155e125446" sha1="9382db4c566316469defa05c8e5258186f0f349a" sha256="c56c1a142e5a3b29d5d2b91d52b6279914fa56426c11239a6c211cc44ce44920" serial="PCSG-00154"/>
+	</game>
+	<game name="Sanzen Sekai Yuugi Re Multi Universe Myself (Japan)" id="0331">
+		<description>Sanzen Sekai Yuugi Re Multi Universe Myself (Japan)</description>
+		<game_id>PCSG01194</game_id>
+		<rom name="Sanzen Sekai Yuugi Re Multi Universe Myself (Japan).psv" size="1895825408" crc="ce80d0c6" md5="149d00ecba954c0ac6874e448e777daa" sha1="1bd920cd1a50ca19975802bea559f4206e4d1fb5" sha256="9a3ff34e3ad5a0a21b6fc77e0a901c6444f97afdbdcac17b31ab61b8a49b1b5f" serial="PCSG-01194"/>
+	</game>
+	<game name="SD Gundam G Generation Genesis (Asia) (En)" id="z039">
+		<description>SD Gundam G Generation Genesis (Asia) (En)</description>
+		<game_id>PCSH00242</game_id>
+		<rom name="SD Gundam G Generation Genesis (Asia) (En).psv" size="3791650816" crc="e73b4d22" md5="5fd7fa87afbb8bbadcfc8b4312694bbc" sha1="ce524ca9cd236485b79345641b63121b2f38feeb" serial="PCSH-00242"/>
+	</game>
+	<game name="Sen no Hatou Tsukisome no Kouki (Japan)" id="0359">
+		<description>Sen no Hatou Tsukisome no Kouki (Japan)</description>
+		<game_id>PCSG01127</game_id>
+		<rom name="Sen no Hatou Tsukisome no Kouki (Japan).psv" size="3791650816" crc="13b7d600" md5="79cc90b2362fa756121e7fa25188415d" sha1="f1b9c2d3c82b75eb6f3fab35980a282af682d990" sha256="abb96deed5d59b5aab6881788bbb5800fbf08249ff0bcbf7472cff1b2e81aa3f" serial="PCSG-01127"/>
+	</game>
+	<game name="Senjou no Waltz (Japan)" id="0272">
+		<description>Senjou no Waltz (Japan)</description>
+		<game_id>PCSG00428</game_id>
+		<rom name="Senjou no Waltz (Japan).psv" size="3791650816" crc="4c85fc97" md5="71682e3518d01eb338bf40390b083cee" sha1="c42c85625c04994f5e893e6337640a2ef51aaaba" sha256="1ad3b40a0e3dd5dd74ccd4ac0d1ce6e6dd83f926f340f06feb5843352766fdf9" serial="PCSG-00428"/>
+	</game>
+	<game name="Senran Kagura - Estival Versus (Europe)" id="0132">
+		<description>Senran Kagura - Estival Versus (Europe)</description>
+		<game_id>PCSB00882</game_id>
+		<rom name="Senran Kagura - Estival Versus (Europe).psv" size="3791650816" crc="3fc8793f" md5="9a054f531c638ad0fd800cbc58340a7f" sha1="05e76a997ac5d314dd511b108a820ff4a9e0dc63" serial="PCSB-00882"/>
+	</game>
+	<game name="Senran Kagura - Estival Versus (USA)" id="z092">
+		<description>Senran Kagura - Estival Versus (USA)</description>
+		<game_id>PCSE00787</game_id>
+		<rom name="Senran Kagura - Estival Versus (USA).psv" size="3791650816" crc="68575280" md5="6f68d07af9f0fe54ec21e16528360d19" sha1="df507b0a83de324da2ce12fcfdaeaf11bce36d45" mia="yes" serial="PCSE-00787"/>
+	</game>
+	<game name="Senran Kagura Estival Versus - Shoujo-tachi no Sentaku (Japan)" id="z218">
+		<description>Senran Kagura Estival Versus - Shoujo-tachi no Sentaku (Japan)</description>
+		<game_id>PCSG00418</game_id>
+		<rom name="Senran Kagura Estival Versus - Shoujo-tachi no Sentaku (Japan).psv" size="3791650816" crc="9005fff1" md5="3f5f07bac4b602fc959dda6751e76e09" sha1="dcabf9e7a68807ea658e08cb550fd9f7d13e1d1f" sha256="63bc64055bb8b0d0d4e8b8e5aab11ad02dd5cc7201b7db3ed702971207245db9" serial="PCSG-00418"/>
+	</game>
+	<game name="Senran Kagura Shinovi Versus (USA)" id="0219">
+		<description>Senran Kagura Shinovi Versus (USA)</description>
+		<game_id>PCSE00398</game_id>
+		<rom name="Senran Kagura Shinovi Versus (USA).psv" size="3791650816" crc="eab2c46c" md5="2866800e6ecc85019ece57a572f743ad" sha1="13a3cf7485d8f17a170f5f1c7d4686a57bea2613" serial="PCSE-00398"/>
+	</game>
+	<game name="Senran Kagura Shinovi Versus - Shoujo-tachi no Shoumei (Japan)" id="z219">
+		<description>Senran Kagura Shinovi Versus - Shoujo-tachi no Shoumei (Japan)</description>
+		<game_id>PCSG00133</game_id>
+		<rom name="Senran Kagura Shinovi Versus - Shoujo-tachi no Shoumei (Japan).psv" size="3791650816" crc="55839c1b" md5="ca1075405bf8c2e3454d653047548530" sha1="70e0d5de9b8dfccd2c6f07bd50477117580bc07d" sha256="f6b94c5a768183fd996010ace69cff97ec20bb525ce12511687a246307c3bd52" status="verified" serial="PCSG-00133"/>
+	</game>
+	<game name="Seven Days - Anata to Sugosu Nanoka-kan (Japan)" id="z220">
+		<description>Seven Days - Anata to Sugosu Nanoka-kan (Japan)</description>
+		<game_id>PCSG01210</game_id>
+		<rom name="Seven Days - Anata to Sugosu Nanoka-kan (Japan).psv" size="1895825408" crc="521fba55" md5="ac660df754758448e53ef3d93a036046" sha1="eeb829953c0a3942731658bee670932a5fd7e5d1" sha256="9e4d34fd9195a1994078eb160b9ad5a720253a439d6ac6d225ca87392fad392d" serial="PCSG-01210"/>
+	</game>
+	<game name="Shakedown Hawaii (USA)" id="z012">
+		<description>Shakedown Hawaii (USA)</description>
+		<game_id>PCSE01125</game_id>
+		<rom name="Shakedown Hawaii (USA).psv" size="1895825408" crc="99466733" md5="5686d16ce2c2c634116266aafcf373a7" sha1="ad2262477d9f30abe5dc4ae4382b76c2ca8a966a" serial="PCSE-01125"/>
+	</game>
+	<game name="Shi'in (Japan)" id="z221">
+		<description>Shi'in (Japan)</description>
+		<game_id>PCSG01005</game_id>
+		<rom name="Shi'in (Japan).psv" size="1895825408" crc="6f095b08" md5="7c7e2a6f090ed40fe89149a3eddffa82" sha1="74e2497bed79e5597e1e6a4f209aa86e31b0cb6e" sha256="f114d6be7f8c704d3d96588bcf44f821fdad5a3c921635955de326951c787367" serial="PCSG-01005"/>
+	</game>
+	<game name="Shingeki no Kyojin (Japan)" id="z069">
+		<description>Shingeki no Kyojin (Japan)</description>
+		<game_id>PCSG00762</game_id>
+		<rom name="Shingeki no Kyojin (Japan).psv" size="3791650816" crc="b4a8acb2" md5="dd6b9531f60c42513df8ca9b13ff38ae" sha1="0d2fd97f5db8f6ee35bb601740fb4d4ce3f793cc" serial="PCSG-00762"/>
+	</game>
+	<game name="Shinsouban Heart no Kuni no Alice - Wonderful Wonder World (Japan)" id="z175">
+		<description>Shinsouban Heart no Kuni no Alice - Wonderful Wonder World (Japan)</description>
+		<game_id>PCSG00614</game_id>
+		<rom name="Shinsouban Heart no Kuni no Alice - Wonderful Wonder World (Japan).psv" size="3791650816" crc="bb62933b" md5="dc3eb662e75ddb0ed23fe6a9c1b167dd" sha1="45730bbffbcc81d9bde5cd28960e7d3b909aeb9d" sha256="59d0a097d077fe8728ff9cd797baed1d912982a72677bd4cfaf0c0a9bcb29048" serial="PCSG-00614"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="367431d3" md5="f34d8f6424bfe089fe21a32dcf961f17" sha1="7cbe4326c11d6f97835ab7e5aee2a29c3fed4935" sha256="aec479e00db1816964b695c0f79493db406c4a0170536661d86c7f76d1cedb0b" serial="PCSG-00614"/>
+	</game>
+	<game name="Silent Hill - Book of Memories (USA)" id="z094">
+		<description>Silent Hill - Book of Memories (USA)</description>
+		<game_id>PCSE00011</game_id>
+		<rom name="Silent Hill - Book of Memories (USA).psv" size="1895825408" crc="6bdf1304" md5="3cb650caeb14e7d5d6153122c5e25234" sha1="026e149065d1ab8766e0f6502eace448c77e1e7e" mia="yes" serial="PCSE-00011"/>
+	</game>
+	<game name="Sly Cooper - Thieves in Time (Europe) (Pl,Ru,Tr,Cs)" id="z016">
+		<description>Sly Cooper - Thieves in Time (Europe) (Pl,Ru,Tr,Cs)</description>
+		<game_id>PCSF00207</game_id>
+		<rom name="Sly Cooper - Thieves in Time (Europe) (Pl,Ru,Tr,Cs).psv" size="3791650816" crc="3c4855ab" md5="8f81278b611e49dfb6c5a7e3578f0b82" sha1="3341fb235c6a67f5ec579d9c35f0a52a9e814deb" serial="PCSF-00207"/>
+	</game>
+	<game name="Sonic &amp; All-Stars Racing - Transformed (USA)" id="z038">
+		<description>Sonic &amp; All-Stars Racing - Transformed (USA)</description>
+		<game_id>PCSE00056</game_id>
+		<rom name="Sonic &amp; All-Stars Racing - Transformed (USA).psv" size="1895825408" crc="c8029678" md5="df54e7414abc88cb9b3930ba21d8c846" sha1="997c1b9c02d19495c357d0bb29046328c26107df" serial="PCSE-00056"/>
+	</game>
+	<game name="Soul Sacrifice (Japan)" id="z073">
+		<description>Soul Sacrifice (Japan)</description>
+		<game_id>PCSC00039</game_id>
+		<rom name="Soul Sacrifice (Japan).psv" size="3791650816" crc="30bc506b" md5="71cecb2e615bc33ac7629ad5d542df0a" sha1="6ed0ed397e118f6622524dc362de54743441ea2d" sha256="ca3da538189c761db786e090090fb45642fa00a83deb6e593417b6d03f3dd6b1" status="verified" serial="PCSC-00039"/>
+	</game>
+	<game name="Soul Sacrifice - Delta (Asia) (En)" id="z036">
+		<description>Soul Sacrifice - Delta (Asia) (En)</description>
+		<game_id>PCSF00532</game_id>
+		<rom name="Soul Sacrifice - Delta (Asia) (En).psv" size="3791650816" crc="3d5a74b7" md5="46010a5b27af4ee553c6ae2123bf37bd" sha1="d2d4fff77c23777836956d9b22ac03f67beaa4eb" serial="PCSF-00532"/>
+	</game>
+	<game name="Sound Shapes (USA) (Demo) (Kiosk)" id="x002">
+		<description>Sound Shapes (USA) (Demo) (Kiosk)</description>
+		<game_id>PCSA00003</game_id>
+		<rom name="Sound Shapes (USA) (Demo) (Kiosk).psv" size="1895825408" crc="4a6e2624" md5="3c930852c92d042bf53262864bf527a8" sha1="83408ff5f4d80a9a74f544f9d4457929b13b1fed" sha256="4082182c0d143c12d810a04dad384b69f98ba89ae02ddc6862cef7c39bea07c4" mia="yes" serial="PCSA-00003"/>
+		<rom name="Sound Shapes (USA) (Demo) (Kiosk).rif" size="512" crc="6323123c" md5="259a8f2e63e431e1cd76f60429daac34" sha1="26187802ee71b8a31cdadd10d7a63a3f6ddc542a" sha256="77aa97c36f27e11585748b0f42514c2052dc43d820816028aba8da774344f2e6" mia="yes"/>
+	</game>
+	<game name="Spy Hunter (Europe) (En,Fr,De,Es,It,Nl)" id="0141">
+		<description>Spy Hunter (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<game_id>PCSB00166</game_id>
+		<rom name="Spy Hunter (Europe) (En,Fr,De,Es,It,Nl).psv" size="1895825408" crc="dfea7103" md5="78f9e69fa0226ab3f37b1aac37d2088f" sha1="62aec7d19b27f2bac84aed0d279eb2009eb25fde" sha256="e7c5e2397f5bdaf4973895657c68124482cf2ce11d741c344d81f5920f39815a" serial="PCSB-00166"/>
+	</game>
+	<game name="Steins;Gate (USA)" id="0251">
+		<description>Steins;Gate (USA)</description>
+		<game_id>PCSE00644</game_id>
+		<rom name="Steins;Gate (USA).psv" size="1895825408" crc="66e874ac" md5="d1ff5be5520e0ac41bffceb4180f5b9b" sha1="430e915979ffb4d91181f31a0fe4780945c8eb44" status="verified" serial="PCSE-00644"/>
+		<rom name="Steins;Gate (USA).rif" size="512" crc="58762b7e" md5="6c738862eab6eca135898c13a9b13db1" sha1="894e0e05f54c3bed929be22f48e46673128eb0a1" sha256="0b1910b90fbedd68b07902514a980dfb8274b8c89689676bc2fb95e93505d668" status="verified"/>
+	</game>
+	<game name="Steins;Gate (Japan)" id="z224">
+		<description>Steins;Gate (Japan)</description>
+		<game_id>PCSG00147</game_id>
+		<rom name="Steins;Gate (Japan).psv" size="3791650816" crc="987ab2d7" md5="e7743ab18f968bff4ff15cb925417ddb" sha1="00b81d569b3f7f3bf0a722f4ab0604b8da6ce4c3" sha256="072fd53bc7c22d362dfe7ad61901bef4bb5a41548e932ad2cb4025359a197910" serial="PCSG-00147"/>
+	</game>
+	<game name="Steins;Gate - Hiyoku Renri no Darling (Japan)" id="z227">
+		<category>Games</category>
+		<description>Steins;Gate - Hiyoku Renri no Darling (Japan)</description>
+		<game_id>PCSG00146</game_id>
+		<rom name="Steins;Gate - Hiyoku Renri no Darling (Japan).psv" size="1895825408" crc="df4534ea" md5="fcda892c2764f17d9c278b20fa5fb5ba" sha1="649521542831e5382feacb91ccfec0524e8e2404" sha256="4fedb3c752620681a7679b42c17523cce3651ec3499d7da184ebb9261ea73362" serial="PCSG-00146"/>
+	</game>
+	<game name="Steins;Gate - Senkei Kousoku no Phenogram (Japan)" id="z228">
+		<description>Steins;Gate - Senkei Kousoku no Phenogram (Japan)</description>
+		<game_id>PCSG00250</game_id>
+		<rom name="Steins;Gate - Senkei Kousoku no Phenogram (Japan).psv" size="1895825408" crc="d3200789" md5="a410b581bb53191e69296032d9cfcc36" sha1="0d52dcfaa60d4514d83e3523b4b1ba2b8939b3d3" sha256="49473eed1993754cb52b7768720b97f5f6d840e3479a935e3744dca2ce57c26a" serial="PCSG-00250"/>
+	</game>
+	<game name="Steins;Gate Elite (Japan)" id="z225">
+		<description>Steins;Gate Elite (Japan)</description>
+		<game_id>PCSG01166</game_id>
+		<rom name="Steins;Gate Elite (Japan).psv" size="3791650816" crc="281be387" md5="080dab07bdc646f34a14604339ba78a7" sha1="86a53e17d4f7cf04fba4e55de945818c1408898f" sha256="d94427117c7ca55b3745d21668c31f24684cccb08f73f89f1cc57c21cfda75d9" serial="PCSG-01166"/>
+	</game>
+	<game name="Steins;Gate Zero (Japan)" id="z223">
+		<description>Steins;Gate Zero (Japan)</description>
+		<game_id>PCSG00673</game_id>
+		<rom name="Steins;Gate Zero (Japan).psv" size="3791650816" crc="0c75ab9e" md5="932833ec7fc17b58fc1316aacde9021a" sha1="c54729ff38adf47f2b69bfe61a208594f8f85348" sha256="b3a9bb1fcb096d224c36fd7cf83326f07ea04711dae1a3479398a564977d3db7" serial="PCSG-00673"/>
+	</game>
+	<game name="Stranger of Sword City (USA)" id="0156">
+		<description>Stranger of Sword City (USA)</description>
+		<game_id>PCSE00818</game_id>
+		<rom name="Stranger of Sword City (USA).psv" size="1895825408" crc="ef7b704d" md5="12d7998a1d181c9da5f0ed51f08e13e5" sha1="7d5c855d07e145456f6883ddc1db0e9669daaee1" serial="PCSE-00818"/>
+	</game>
+	<game name="Stranger of Sword City (Japan)" id="z141">
+		<description>Stranger of Sword City (Japan)</description>
+		<game_id>PCSG00445</game_id>
+		<rom name="Stranger of Sword City (Japan).rif" size="512" crc="908c601d" md5="38dde15fc44f67a7939cd9cd50165ebb" sha1="59a4017519e63c347e2cec6c088e853406cb7389" sha256="63ee941039bc3e0891278d315cf5216aca63fae70c5c59fd06c6a698be8ba80b"/>
+		<rom name="Stranger of Sword City (Japan).psv" size="1895825408" crc="07bd950e" md5="563956081682ffce63bd444fca972721" sha1="fc075579cd51553901d50a59de2a1efe60c98fd2" sha256="3cab1a90a16ba8d40bcc8ff97c02ac618034037ea82b1d9bda49f200582c6aeb" serial="PCSG-00445"/>
+	</game>
+	<game name="Super Monkey Ball - Banana Splitz (Europe) (En,Fr,De,Es,It)" id="z102">
+		<description>Super Monkey Ball - Banana Splitz (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00065</game_id>
+		<rom name="Super Monkey Ball - Banana Splitz (Europe) (En,Fr,De,Es,It).psv" size="1895825408" crc="2969482a" md5="9d7cb9832395d4c1ea8fcd7e1b85ab42" sha1="f8909699520d9d16a26fd531089cbe707a8f0e3f" sha256="1291cdcdafdf5c492923ca6277594f0cb1876503bb989676bce8c117f4cac531" serial="PCSB-00065"/>
+	</game>
+	<game name="Super Robot Wars V (Asia) (En)" id="z058">
+		<description>Super Robot Wars V (Asia) (En)</description>
+		<game_id>PCSH10001</game_id>
+		<rom name="Super Robot Wars V (Asia) (En).psv" size="3791650816" crc="2354f938" md5="ebc0001b0764d984fb61227c2f8f1e5a" sha1="2023ea1be1e4fe0a2c8e6cc4a0ebcf5cf26f1337" serial="PCSH-10001"/>
+	</game>
+	<game name="SUPERBEAT - XONIC (Japan)" id="z025">
+		<description>SUPERBEAT - XONIC (Japan)</description>
+		<game_id>PCSG00645</game_id>
+		<rom name="SUPERBEAT - XONIC (Japan).psv" size="3791650816" crc="5bf3ca5b" md5="9cfbff427e808bb163bed6699e051801" sha1="a0a873804292dd78aa1ca19f7aaf29fe7674a327" serial="PCSG-00645"/>
+	</game>
+	<game name="Superdimension Neptune VS Sega Hard Girls (USA)" id="0235">
+		<description>Superdimension Neptune VS Sega Hard Girls (USA)</description>
+		<game_id>PCSE00898</game_id>
+		<rom name="Superdimension Neptune VS Sega Hard Girls (USA).psv" size="1895825408" crc="d841cef4" md5="b8fcf758b7ac0517831fdb84aa388a3d" sha1="ac98f479c3c7f472ab0a390ed0bc8e1e70064c3b" serial="PCSE-00898"/>
+	</game>
+	<game name="Suugaku Rikiou - Chuukyuu Naka-2-Level (Japan) [b]" id="z159">
+		<description>Suugaku Rikiou - Chuukyuu Naka-2-Level (Japan) [b]</description>
+		<game_id>PCSG00119</game_id>
+		<rom name="Suugaku Rikiou - Chuukyuu Naka-2-Level (Japan).psv" size="1895825408" crc="18ada9e4" md5="bd9d7469563e3ec9df4ca0c36034a85f" sha1="ed599f50ea8d62085cf7e31f0454dd994649ab9f" sha256="fff35a74cc80191cd4f038fb8c17dc9c94edbf26430a140c133d4041eb7edbe2" serial="PCSG-00119"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="3df645ac" md5="44ee351c713218b96725f6dc9c6c0fc6" sha1="f629604785ff4e92d02782a0eded32ac7be3b028" sha256="943784f8bdfb277a22cbf501b9dc83de29136bf4bc789c5e5ada19871c83650f" status="baddump" serial="PCSG-00119"/>
+	</game>
+	<game name="Suugaku Rikiou - Joukyuu Naka-3-Level (Japan) [b]" id="z160">
+		<description>Suugaku Rikiou - Joukyuu Naka-3-Level (Japan) [b]</description>
+		<game_id>PCSG00120</game_id>
+		<rom name="Suugaku Rikiou - Joukyuu Naka-3-Level (Japan) [b].psv" size="1895825408" crc="d043677a" md5="663923b35b551d9414d51c2d6da88bf5" sha1="73ceb4de8364080b0ff0eb78ffc0be8b005361cc" sha256="d7a7d279044cf8d74923f85fc93edf2a84fc8dccdf44568a9966b64b86224f31" status="baddump" serial="PCSG-00120"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="7bb34431" md5="693277d9c3de93c8daa859e751af14e4" sha1="05d63efc8576cccfa285820e91af9367bb952de0" sha256="78c8f4bf8f68ca82d98978e2b1bbffb6cd4c3e1b2d3019b025ae1368ff827c3b" serial="PCSG-00120"/>
+	</game>
+	<game name="Suugaku Rikiou - Shokyuu Naka-1-Level (Japan) [b]" id="z158">
+		<description>Suugaku Rikiou - Shokyuu Naka-1-Level (Japan) [b]</description>
+		<game_id>PCSG00118</game_id>
+		<rom name="Suugaku Rikiou - Shokyuu Naka-1-Level (Japan) [b].psv" size="1895825408" crc="8e3bcab3" md5="ece0a6a8b79f2be5e74c5760d44ef6cb" sha1="6120bcbd423f31bf47cd442e203774da6ae617a1" sha256="ecaa3c03640cc4f6c2fa156d942934c35899a1e2dcc7334d2899c37730465b63" status="baddump" serial="PCSG-00118"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="114ff46a" md5="c8b5c4bf3264229df42c00ad726f2056" sha1="660127bdf51618526d1dc2b579a72b52f1d6fb39" sha256="8f87af47c0d02c84f958be3577b1c3418d0a03e0ec749d2f7bd4cde6b2fc76e8" serial="PCSG-00118"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Japan)" id="z013">
+		<description>Sword Art Online - Hollow Fragment (Japan)</description>
+		<game_id>PCSG00294</game_id>
+		<rom name="Sword Art Online - Hollow Fragment (Japan).psv" size="3791650816" crc="0acd04d3" md5="f446d7255977a6a0635fd7f737a2a667" sha1="41109c719b24d16d714a9260658e478111665d4b" serial="PCSG-00294"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans)" id="z084">
+		<description>Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans)</description>
+		<game_id>PCSH00070</game_id>
+		<rom name="Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans).psv" size="3791650816" crc="92714a0f" md5="4087f21d316f925cf011dafe9a567699" sha1="d26ac4c6b1848d1b1b4a8204abe847ce488ca93b" serial="PCSH-00070"/>
+	</game>
+	<game name="Sword Art Online - Hollow Realization (Europe) (En,Fr,De,Es,It)" id="0262">
+		<description>Sword Art Online - Hollow Realization (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00972</game_id>
+		<rom name="Sword Art Online - Hollow Realization (Europe) (En,Fr,De,Es,It).psv" size="3791650816" crc="293c7290" md5="5e77a0612ba6c4b7b5421b9017c1c3e5" sha1="16ffd455e024faf8a5c85b515b43b5ad2e58432e" mia="yes" serial="PCSB-00972"/>
+	</game>
+	<game name="Sword Art Online - Lost Song (USA)" id="0155">
+		<description>Sword Art Online - Lost Song (USA)</description>
+		<game_id>PCSE00740</game_id>
+		<rom name="Sword Art Online - Lost Song (USA).psv" size="3791650816" crc="a3a75e02" md5="915de0dd2939eaa24764f7de0394d763" sha1="c55a55e924ba30e6d2591e9f90d95d067445efc8" serial="PCSE-00740"/>
+	</game>
+	<game name="Sword Art Online - Lost Song (Japan)" id="0299">
+		<description>Sword Art Online - Lost Song (Japan)</description>
+		<game_id>PCSG00536</game_id>
+		<rom name="Sword Art Online - Lost Song (Japan).psv" size="3791650816" crc="fa2854ab" md5="fcdc01b9df2b04017a60319816705416" sha1="00d658d59a93d80f514d8ea511320c429e45fa10" sha256="8830d90c96454d2421260e0c0d6a44f63f05fdc467ff95c3c8ed448b13e254ec" serial="PCSG-00536"/>
+	</game>
+	<game name="Tadeo Jones (Europe) (En,Es)" id="0236">
+		<description>Tadeo Jones (Europe) (En,Es)</description>
+		<game_id>PCSB00458</game_id>
+		<rom name="Tadeo Jones (Europe) (En,Es).psv" size="1895825408" crc="69928210" md5="aef5ab07af747fcad1690bdf80cf5620" sha1="e082f371dc3ea23e733c46ae537fec26331e3644" mia="yes" serial="PCSB-00458"/>
+	</game>
+	<game name="Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It)" id="0160">
+		<description>Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It)</description>
+		<game_id>PCSE00429</game_id>
+		<rom name="Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It).psv" size="1895825408" crc="5f0e2b17" md5="b29cf98f6b8f0968f26219b9dcee5f1e" sha1="cd96074fa0561507ef9905dbbc49d8af3c7b253d" serial="PCSE-00429"/>
+	</game>
+	<game name="Tales of Hearts R (Japan)" id="z226">
+		<description>Tales of Hearts R (Japan)</description>
+		<game_id>PCSG00125</game_id>
+		<rom name="Tales of Hearts R (Japan).psv" size="1895825408" crc="dc6abc6a" md5="110d5270496deacc87e5bc9a4eec65f2" sha1="e3d25cf2b68a0d53dd56bb5ae9b9d0d91f337f7b" sha256="8ec7cfd7c8aee2673977df791be3954b9ed1bb84b52d9257749a36256d72bc09" serial="PCSG-00125"/>
+	</game>
+	<game name="Tales of Innocence R (Japan)" id="z222">
+		<description>Tales of Innocence R (Japan)</description>
+		<game_id>PCSG00009</game_id>
+		<rom name="Tales of Innocence R (Japan).psv" size="1895825408" crc="6c988ad4" md5="01f0adbc87648277286e00060c8ee681" sha1="ffdd101aed1b488b484a39ef227855dab21d0eed" sha256="527c336f9162230fcf4edef347c434eec61ab2a0006eb7f0e36895de0d31c27a" serial="PCSG-00009"/>
+	</game>
+	<game name="Tearaway (USA)" id="0075">
+		<description>Tearaway (USA)</description>
+		<game_id>PCSA00099</game_id>
+		<rom name="Tearaway (USA).psv" size="1895825408" crc="103bd960" md5="89479f885301ea648dd086b886f3a82f" sha1="da651759cf575ea2a1e0fd65d40b4821d826a6d7" sha256="8183cf1f52b546de1eae0e708ac8d54f784fee37d9c5aa083590c90e24291b61" status="verified" serial="PCSA-00099"/>
+	</game>
+	<game name="Tearaway (Japan)" id="z181">
+		<description>Tearaway (Japan)</description>
+		<game_id>PCSC00048</game_id>
+		<rom name="Tearaway (Japan).psv" size="1895825408" crc="d5526197" md5="04047281ade81e3e19e2ba73d68e157f" sha1="7306ce58eda3afaa65bf302ae64eb6b2d44a9bed" sha256="08f76d5f2b74d3f5a6a4a0049db70ded2a01ddd77e71f45b7723306206b8f71e" serial="PCSC-00048"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="db5b74d4" md5="3c35ab7d3fd0749666949d1370c11efd" sha1="95ff6b3b8cd4748143dced70963af37903a658e5" sha256="f358c537e1f6a7c500a8a9de39c000b898d4fd2d93e10c63cf90b083817e29b9" serial="PCSC-00048"/>
+	</game>
+	<game name="Terraria (USA)" id="z052">
+		<description>Terraria (USA)</description>
+		<game_id>PCSE00317</game_id>
+		<rom name="Terraria (USA).psv" size="1895825408" crc="4fa5c08e" md5="cabb9a347aa724c626eba38d2a2dce59" sha1="34b173be4e53610ad11f3ead9c3f494cbb8cec22" serial="PCSE-00317"/>
+	</game>
+	<game name="Tetris Ultimate (USA)" id="z093">
+		<description>Tetris Ultimate (USA)</description>
+		<game_id>PCSE00521</game_id>
+		<rom name="Tetris Ultimate (USA).psv" size="1895825408" crc="566506d3" md5="a34c27887ac7c91e67e7358026721307" sha1="a0e5e2f4092c3f8211c48a40cc1f936b272e7d41" mia="yes" serial="PCSE-00521"/>
+	</game>
+	<game name="TOEIC Test - Jissen Tokkun (Japan)" id="z148">
+		<description>TOEIC Test - Jissen Tokkun (Japan)</description>
+		<game_id>PCSG00047</game_id>
+		<rom name="TOEIC Test - Jissen Tokkun (Japan).psv" size="1895825408" crc="fa1f46e9" md5="c70afe70bed8cf771496876f0009e886" sha1="54aebec3044575ee6cb5ac825d42f4d6a7d653bb" sha256="96adf857f126e5bc6bdc2cc04fd3a80281a89109a366055be1e0b3b5b65ed09e" serial="PCSG-00047"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="c2503570" md5="525497c02363ad9b97490b8d95d08b47" sha1="01f43d00bc88ac008d4bf7bda3a4dad7e10bef59" sha256="1e7dec87102e48cae9eb933342360828b86a289f12c2f858ca5b725203a5a4c3" serial="PCSG-00047"/>
+	</game>
+	<game name="TOEIC Test - Jissen Tokkun 2 (Japan)" id="z183">
+		<description>TOEIC Test - Jissen Tokkun 2 (Japan)</description>
+		<game_id>PCSG00175</game_id>
+		<rom name="TOEIC Test - Jissen Tokkun 2 (Japan).psv" size="1895825408" crc="d0e28f53" md5="35e3b1b254aaea1903426eea78e015cc" sha1="26110d2c4f707609d7d883080f4ee2b4bd58bd50" sha256="d9f46e09cfe31a1fab3cabaa73e10ec00bdc6ab6124947ab3065c70759d13b48" serial="PCSG-00175"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="fa93c1b9" md5="0a29eb75353ca9bbd2855aea5068a162" sha1="2fdeec5e8c73f20d2d448fba2853f5f8bd64770b" sha256="6d06bf16c9422aab2f3b71da5375365748f4f5ab28c543568da1aee2148f321e"/>
+	</game>
+	<game name="Tokyo Shinseiroku Operation Babel (Japan)" id="z229">
+		<description>Tokyo Shinseiroku Operation Babel (Japan)</description>
+		<game_id>PCSG00514</game_id>
+		<rom name="Tokyo Shinseiroku Operation Babel (Japan).psv" size="1895825408" crc="9abe57cc" md5="8e830778e6dd1d79c8587b9cfd27f577" sha1="2634237a6c85298db8913689a44bb515bc0868c7" sha256="5226138592e24b2deb703062a6ec414849d9dfd6e17c00db6ed18d4048d3b345" serial="PCSG-00514"/>
+	</game>
+	<game name="Tokyo Twilight Ghost Hunters (Europe)" id="0112">
+		<description>Tokyo Twilight Ghost Hunters (Europe)</description>
+		<game_id>PCSB00655</game_id>
+		<rom name="Tokyo Twilight Ghost Hunters (Europe).psv" size="1895825408" crc="2892d957" md5="a9e6e3d62d3ae282a4fae252dea0d4a7" sha1="72d4ea998d66ab96c12f25093da5aa19fef5f1a7" sha256="548c3b0998a46559d8cdcc97495afbb55b840fbf2826b47d287a692d65e3eab8" serial="PCSB-00655"/>
+	</game>
+	<game name="Tokyo Twilight Ghost Hunters (USA)" id="z051">
+		<description>Tokyo Twilight Ghost Hunters (USA)</description>
+		<game_id>PCSE00509</game_id>
+		<rom name="Tokyo Twilight Ghost Hunters (USA).psv" size="1895825408" crc="daecaa62" md5="ced707334f726546c34eff830d85d601" sha1="59dcc8d3db8549fe31dee49fb1316f07850ab3d3" serial="PCSE-00509"/>
+	</game>
+	<game name="Tokyo Twilight Ghost Hunters (Japan)" id="z142">
+		<description>Tokyo Twilight Ghost Hunters (Japan)</description>
+		<game_id>PCSG00293</game_id>
+		<rom name="Tokyo Twilight Ghost Hunters (Japan).rif" size="512" crc="233e5212" md5="400ea3f0c95d87072184b80b0f473d47" sha1="170ec6da4302457ec772f2c0239ea74a660e1d04" sha256="b22570f7c67e769118c72375d4a494be7a9f4dbd643f7f4f7efd1941aaff85fe"/>
+		<rom name="Tokyo Twilight Ghost Hunters (Japan).psv" size="1895825408" crc="9ee59990" md5="c0a97997f7fdd759d67456e8b784e87a" sha1="95534f4e9aeb081b0f18d05e42e8385362ce21a8" sha256="79e337687ed0ae8987095e962d966271589d70ef3c2a160e9434f0966b579518" serial="PCSG-00293"/>
+	</game>
+	<game name="Tokyo Xanadu (Japan)" id="z005">
+		<description>Tokyo Xanadu (Japan)</description>
+		<game_id>PCSG00608</game_id>
+		<rom name="Tokyo Xanadu (Japan).psv" size="3791650816" crc="37663e05" md5="780d0ed1118cdaa05a7cbf26bcc3067b" sha1="ea749a80a7a1b5118ae4260d356705c5ca955445" sha256="5d2fc076b0e6e1072abccf0b16dfcccb761b72faac748281d500f4139eedabc0" status="verified" serial="PCSG-00608"/>
+	</game>
+	<game name="Touch My Katamari (Europe) [b]" id="z099">
+		<description>Touch My Katamari (Europe) [b]</description>
+		<game_id>PCSB00047</game_id>
+		<rom name="Touch My Katamari (Europe) [b].psv" size="1895825408" crc="bcda31b1" md5="7bacdbeb0cec430b0c8442db8e2b6915" sha1="2ac4d3de5132fa800fde050fe94b42342f36bf40" sha256="54ef52a5c0d17ab0cb3a74779c03915acf0db348781db1f124478b0bfdef03d6" status="baddump" serial="PCSB-00047"/>
+	</game>
+	<game name="Toukiden (Japan)" id="z076">
+		<description>Toukiden (Japan)</description>
+		<game_id>PCSG00193</game_id>
+		<rom name="Toukiden (Japan).psv" size="3791650816" crc="b12fd329" md5="fbec75b568da4cda3d2ac0bef14bf8a5" sha1="a971f34dd03259bae870959e5eefa189093b2a20" serial="PCSG-00193"/>
+	</game>
+	<game name="Toukiden - Kiwami (USA)" id="0067">
+		<description>Toukiden - Kiwami (USA)</description>
+		<game_id>PCSE00467</game_id>
+		<rom name="Toukiden - Kiwami (USA).psv" size="3791650816" crc="ede00e80" md5="f95dfc4260a4589a18ca916ed502ac6b" sha1="b729411b4de54e90d101db01ba790e93f2bc43b8" mia="yes" serial="PCSE-00467"/>
+	</game>
+	<game name="Toukiden - The Age of Demons (USA)" id="z091">
+		<description>Toukiden - The Age of Demons (USA)</description>
+		<game_id>PCSE00381</game_id>
+		<rom name="Toukiden - The Age of Demons (USA).psv" size="3791650816" crc="b9d26d0e" md5="efaa402d9eace0136a48a937f3b5dd48" sha1="d848e0fb48318c433167cd734f0a82e1c7d72e4e" mia="yes" serial="PCSE-00381"/>
+	</game>
+	<game name="Toukiden 2 (USA)" id="0253">
+		<description>Toukiden 2 (USA)</description>
+		<game_id>PCSE00940</game_id>
+		<rom name="Toukiden 2 (USA).psv" size="3791650816" crc="3ded7875" md5="4f56bc608dadad62709cf71f7e10566a" sha1="e3b7c92912cb572eb3a70074e4cbeb14244d2e02" mia="yes" serial="PCSE-00940"/>
+	</game>
+	<game name="Toukyou Clanpool (Japan)" id="z230">
+		<description>Toukyou Clanpool (Japan)</description>
+		<game_id>PCSG01103</game_id>
+		<rom name="Toukyou Clanpool (Japan).psv" size="3791650816" crc="6e2c6e5a" md5="2ba2edc7d4e18cf60ed0999e180a8b0c" sha1="bb43b3148d8adc0c6ce5c0fda29085263f9b9e20" sha256="1b343ba6218479febf0551af5730fb0ef5b2312a73edee72768ab21ad18abd76" serial="PCSG-01103"/>
+	</game>
+	<game name="Trillion - God of Destruction (USA) (En,Ja)" id="0179">
+		<description>Trillion - God of Destruction (USA) (En,Ja)</description>
+		<game_id>PCSE00813</game_id>
+		<rom name="Trillion - God of Destruction (USA) (En,Ja).psv" size="3791650816" crc="c1df270b" md5="108e0c22ed118558d6d924fb4c261cbf" sha1="0d3f8808a4b04963d94425f1b6ffc5a452ebfb41" serial="PCSE-00813"/>
+	</game>
+	<game name="Uncharted - Golden Abyss (USA) (En,Fr,Es)" id="0061">
+		<description>Uncharted - Golden Abyss (USA) (En,Fr,Es)</description>
+		<game_id>PCSA00029</game_id>
+		<rom name="Uncharted - Golden Abyss (USA) (En,Fr,Es).psv" size="3791650816" crc="9b80eb3b" md5="1a1548c42936e896d873447a96d6678b" sha1="16ebc3ef8dff2cca9548d8dc2ec68b5686a03917" sha256="016f005a640c7de07053c09a99873b53463d292b0c46bb911f1e48da07893161" status="verified" serial="PCSA-00029"/>
+	</game>
+	<game name="Uncharted - Golden Abyss (Europe) (En-GB,Es,Pt,Sv,No,Da,Fi,Pl,Ru)" id="0001">
+		<description>Uncharted - Golden Abyss (Europe) (En-GB,Es,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00001</game_id>
+		<rom name="Uncharted - Golden Abyss (Europe) (En-GB,Es,Pt,Sv,No,Da,Fi,Pl,Ru).psv" size="3791650816" crc="e95bdb0c" md5="7e221230d4d8f4d52ed5b16e4c054331" sha1="742de699e66e75835a1013030bf5e13dd60a7525" serial="PCSF-00001"/>
+	</game>
+	<game name="Uncharted - Golden Abyss (France) (En,Fr,De,Es,It)" id="z015">
+		<description>Uncharted - Golden Abyss (France) (En,Fr,De,Es,It)</description>
+		<game_id>PCSF00012</game_id>
+		<rom name="Uncharted - Golden Abyss (France) (En,Fr,De,Es,It).psv" size="3791650816" crc="eabd668e" md5="13771db9f49e9c6089ecb7d64818c3fa" sha1="179d727d44d2d55bb1ce4797ba063613389b5bd9" sha256="6f42e20a6390c9e9d480f932fe15fa6ff7763cbc0e903380b3f5a7a6bc40d008" status="verified" date="2019-06-12" serial="PCSF-00012"/>
+	</game>
+	<game name="Undertale (Japan)" id="z174">
+		<description>Undertale (Japan)</description>
+		<game_id>PCSG01176</game_id>
+		<rom name="Undertale (Japan).psv" size="1895825408" crc="6eb49436" md5="4d73abb34c7dd7e7baf289183b62c3a7" sha1="62b4b432e0200e7d4319b6ab816f149a45fc098e" sha256="f67b47be9328ad6eb33156ad61699a91a09e9a1736edb19ff044b93fa9d2b4d3" serial="PCSG-01176"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="cf9d6e13" md5="a0baa8624b79ba3be7dc6c0587ad4153" sha1="4e0dfe54e4d919467014190e46085fc0b21b132c" sha256="1038504c3a5a47cf2fa82e563c9fc5892e2f7e9f357b3b62093f662860744be7" serial="PCSG-01176"/>
+	</game>
+	<game name="Unit 13 (Europe) (En,Fr,De,It,Nl)" id="0098">
+		<description>Unit 13 (Europe) (En,Fr,De,It,Nl)</description>
+		<game_id>PCSF00068</game_id>
+		<rom name="Unit 13 (Europe) (En,Fr,De,It,Nl).psv" size="1895825408" crc="1a6f7703" md5="ce536ced6c7925876cfb867abfa9fbb1" sha1="7454262dbfa04d6cd058a51c56b5933f8ceb1f3d" sha256="7f4f6b4fc6f9993d272ac34f8d0d685e619521fc04ddc10b80a367c59c184695" serial="PCSF-00068"/>
+	</game>
+	<game name="Uppers (Japan)" id="z061">
+		<description>Uppers (Japan)</description>
+		<game_id>PCSG00633</game_id>
+		<rom name="Uppers (Japan).psv" size="1895825408" crc="8fd6512b" md5="831fb21611f6f5e17c11956317790359" sha1="2ff9bd37bddba8d5615dceb545082e949dd81270" serial="PCSG-00633"/>
+	</game>
+	<game name="Uta Kumi 575 (Japan)" id="z024">
+		<description>Uta Kumi 575 (Japan)</description>
+		<game_id>PCSG00199</game_id>
+		<rom name="Uta Kumi 575 (Japan).psv" size="1895825408" crc="53eddb51" md5="b76858e1c785d6bf6fe0742da5083377" sha1="6c02aefe882e697d1c9918cb7d3f036725484db9" serial="PCSG-00199"/>
+	</game>
+	<game name="Uta no Prince-Sama - Music 3 (Japan)" id="z085">
+		<description>Uta no Prince-Sama - Music 3 (Japan)</description>
+		<game_id>PCSG00651</game_id>
+		<rom name="Uta no Prince-Sama - Music 3 (Japan).psv" size="1895825408" crc="ddfc0750" md5="e6dc0d950a7203e78cd5128b6f1cb3aa" sha1="846c084e8cf74b4276d3ecf2a4033065540d7874" sha256="0a2eba6f2ae2f945da196b862d31c05bd979268da947f4c5a3d813918bc92711" status="verified" mia="yes" serial="PCSG-00651"/>
+	</game>
+	<game name="Utawarerumono - Mask of Deception (USA)" id="0244">
+		<description>Utawarerumono - Mask of Deception (USA)</description>
+		<game_id>PCSE00959</game_id>
+		<rom name="Utawarerumono - Mask of Deception (USA).psv" size="3791650816" crc="aa9459e1" md5="f4959525d10f97aa1d0a07048b48ed2f" sha1="72a0acc0d4c60988986103ee22617b07db9771a2" mia="yes" serial="PCSE-00959"/>
+	</game>
+	<game name="Valkyrie Drive - Bhikkhuni (Japan)" id="0399">
+		<description>Valkyrie Drive - Bhikkhuni (Japan)</description>
+		<game_id>PCSG00632</game_id>
+		<rom name="Valkyrie Drive - Bhikkhuni (Japan).psv" size="3791650816" crc="522f2cc1" md5="e2ce38cb970f693fbf80cb12818c4c8a" sha1="b61b4abef3522dd8c74953a2d43d9aad1b346c1d" sha256="13979fa30862e20ceb4f63837e5888fd7eeb29379aee656c9aa6fa5d698918c0" serial="PCSG-00632"/>
+	</game>
+	<game name="Virtua Tennis 4 - World Tour Edition (Europe) (En,Fr,De,Es,It)" id="0117">
+		<description>Virtua Tennis 4 - World Tour Edition (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>PCSB00031</game_id>
+		<rom name="Virtua Tennis 4 - World Tour Edition (Europe) (En,Fr,De,Es,It).psv" size="1895825408" crc="3c964b20" md5="3651ba52fb00d955cdf0fab91717ab52" sha1="1f8575806194de45167c010ec287495812974e91" sha256="c6bd81c69ce3cc4d64aaaf0ac677ac23758e356faaed6883224cabed2b880118" serial="PCSB-00031"/>
+	</game>
+	<game name="Walking Dead, The - A Telltale Games Series - The Complete First Season (USA) (En,Fr,De,Es,It)" id="0124">
+		<description>Walking Dead, The - A Telltale Games Series - The Complete First Season (USA) (En,Fr,De,Es,It)</description>
+		<game_id>PCSE00316</game_id>
+		<rom name="Walking Dead, The - A Telltale Games Series - The Complete First Season (USA) (En,Fr,De,Es,It).psv" size="3791650816" crc="be596546" md5="8ae72ce35cbe7c7ecabd36ff80a7bf09" sha1="d9d53b27224fca09cfe5abdc01c123d599536a71" serial="PCSE-00316"/>
+	</game>
+	<game name="Walking Dead, The - Season Two - A Telltale Games Series (USA)" id="0125">
+		<description>Walking Dead, The - Season Two - A Telltale Games Series (USA)</description>
+		<game_id>PCSE00556</game_id>
+		<rom name="Walking Dead, The - Season Two - A Telltale Games Series (USA).psv" size="3791650816" crc="f0b7dc99" md5="c5580dc2caef50a43bd377f33b1be931" sha1="b0e28f71bc6093f6188c2de76e103ff7188f02ab" serial="PCSE-00556"/>
+	</game>
+	<game name="Winning Post 7 2013 (Japan)" id="z137">
+		<description>Winning Post 7 2013 (Japan)</description>
+		<game_id>PCSG00194</game_id>
+		<rom name="Winning Post 7 2013 (Japan).rif" size="512" crc="c7a8fa92" md5="feb274359edb5a28d8ac464719fca86f" sha1="bec2539f5402edb9f3fb79aaf6573b94a883f4b9" sha256="2fb3b4fa239a34b300961eb7002fa7881dba8e26c899c54ecfb73a9d2abd419a"/>
+		<rom name="Winning Post 7 2013 (Japan).psv" size="3791650816" crc="7fe4a5fc" md5="bdd5b7ac97e66b6c26bfdab87db0cd41" sha1="349f2ca734fcdaeb42a911ee3a842b628567a1d4" sha256="067b979bccc442574db6e1dd20da5266f0668ceb87d5f8fa68b25daba4d0d71d" serial="PCSG-00194"/>
+	</game>
+	<game name="Winning Post 8 (Japan)" id="z136">
+		<description>Winning Post 8 (Japan)</description>
+		<game_id>PCSG00238</game_id>
+		<rom name="Winning Post 8 (Japan).rif" size="512" crc="9bdfab08" md5="4b47f6be1406a086fbb7eb006f50db90" sha1="9242355df1f8818010b0f44a217dd7f7157ddb5c" sha256="4ab9fad3d66426d76bf2e07542f66bee49c94736d7d2197df24306ac16f4c250"/>
+		<rom name="Winning Post 8 (Japan).psv" size="3791650816" crc="5d3c690f" md5="9504d212df95b46a516b1810ec1f2c95" sha1="294b78c312d67fa54800d14764cec5b8df14d2a0" sha256="bc26e4eb0da790f36f3fc69414f41604346decb341cad9e0dfe17244c56097f5" serial="PCSG-00238"/>
+	</game>
+	<game name="Winning Post 8 2015 (Japan)" id="z135">
+		<description>Winning Post 8 2015 (Japan)</description>
+		<game_id>PCSG00545</game_id>
+		<rom name="Winning Post 8 2015 (Japan).rif" size="512" crc="0304ba49" md5="a48f71c90a126fa9f846c4f296deeb5c" sha1="7ba75ec6e4d587d1ec402745003e178c6b97feb7" sha256="4019b538ce14c6e870f618d584daafd569dffa18f138ebeffa7e3da6fb516bc8"/>
+		<rom name="Winning Post 8 2015 (Japan).psv" size="3791650816" crc="29531a17" md5="114fb963b36e94f517e7e9ebbd784400" sha1="e1a6d6857793bc8cbfeb96f8dab12784b95f6d64" sha256="81a726c4a01a947af581338b008dd4e132039163ac285bb58ebf3afd80c89e75" serial="PCSG-00545"/>
+	</game>
+	<game name="Winning Post 8 2016 (Japan)" id="z134">
+		<description>Winning Post 8 2016 (Japan)</description>
+		<game_id>PCSG00804</game_id>
+		<rom name="Winning Post 8 2016 (Japan).rif" size="512" crc="d6e85878" md5="96b07a730aa4a2b33ac6ecc7f7240b8a" sha1="0d69ecae7df86041ec4e42059a09a3ea68905e97" sha256="64e10c9445abd4d68f9744f1549d0f95d4b5d2cadce85675e6b64c23cf1d3ba9"/>
+		<rom name="Winning Post 8 2016 (Japan).psv" size="3791650816" crc="b26ac82b" md5="ce509ced37d9714f81693e708b9075ec" sha1="073f560456f48110f47090d038054d59b476b9e4" sha256="8958bdfe5540ea325bbfec4697d871d74b3a9417a6161479b91ce7777ac3f7fa" serial="PCSG-00804"/>
+	</game>
+	<game name="Winning Post 8 2017 (Japan)" id="z133">
+		<description>Winning Post 8 2017 (Japan)</description>
+		<game_id>PCSG00998</game_id>
+		<rom name="Winning Post 8 2017 (Japan).rif" size="512" crc="bf6dcdae" md5="9e13ff65f50c5d7886ef594750f6aaa0" sha1="8aae0c7cbf85d824f6e629225163afaf8fa08a4b" sha256="96504f368eb7e6d2552fe65af3ac81778351a0460b1a35c9aa0e15eee79590a6"/>
+		<rom name="Winning Post 8 2017 (Japan).psv" size="3791650816" crc="352e1435" md5="51c187d4128ae17869dbfd1fd64c87c9" sha1="4d091656b87b58a85cb1371b70693ff925259694" sha256="2ab46df01eefbfe31b84fe313c47904742448b8014cdeb2c7b507fef1f29ac04" serial="PCSG-00998"/>
+	</game>
+	<game name="WipEout 2048 (USA)" id="0042">
+		<description>WipEout 2048 (USA)</description>
+		<game_id>PCSA00015</game_id>
+		<rom name="WipEout 2048 (USA).psv" size="1895825408" crc="2e8c65fe" md5="ebfa42c8873752d26b4afe7f665a1a5f" sha1="6d6bbb55e66dc982547b809439ab7aa71ec4d3da" serial="PCSA-00015"/>
+	</game>
+	<game name="WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="0046">
+		<description>WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<game_id>PCSF00007</game_id>
+		<rom name="WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" size="1895825408" crc="8f95925a" md5="3d840ed143311b792558db710f93a580" sha1="897f3ed370d42601d37b69a80c7fd4deccd2a249" sha256="1291cdcdafdf5c492923ca6277594f0cb1876503bb989676bce8c117f4cac531" status="verified" date="2019-06-12" serial="PCSF-00007"/>
+	</game>
+	<game name="Wolf Among Us, The (USA)" id="0096">
+		<description>Wolf Among Us, The (USA)</description>
+		<game_id>PCSE00352</game_id>
+		<rom name="Wolf Among Us, The (USA).psv" size="3791650816" crc="38941715" md5="5af29c674cfb6304f88ecec0b199863f" sha1="06ba0199f0dc304bbd5778b5ee030be582eafbbc" serial="PCSE-00352"/>
+	</game>
+	<game name="World of Final Fantasy (Korea)" id="z146">
+		<description>World of Final Fantasy (Korea)</description>
+		<game_id>PCSH00223</game_id>
+		<rom name="World of Final Fantasy (Korea).psv" size="3791650816" crc="f5023ed9" md5="a299ffeee3c3fab7363f47153fbd1f31" sha1="43ffc7362b9ac44199ce711e2631a7cec8a110af" sha256="6ecf2d23bd02e2f6077c79b509834e97b053d4028c529e0c32cacb29b1d70167" serial="PCSH-00223"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="2236bb1c" md5="899cacc397a59ed6d13cbecf156eea38" sha1="808e34ecdb42f211fc1b4b9eddca86d8d07b4cd8" sha256="9e6dd67b5a901d65c88cbb56f34e6b3bb3b46ea028b3790f8a3fc587c933a710" serial="PCSH-00223"/>
+	</game>
+	<game name="WRC 3 - FIA World Rally Championship (Japan)" id="z176">
+		<description>WRC 3 - FIA World Rally Championship (Japan)</description>
+		<game_id>PCSG00149</game_id>
+		<rom name="WRC 3 - FIA World Rally Championship (Japan).psv" size="1895825408" crc="5f1b30ce" md5="d71d4335935fbe03cae74c257e1b108a" sha1="5f4fcc28a25a01bac92f0e9fa5442c807908b0eb" sha256="6ccebb2e4fa26a55fe9d467fcbb30111efe74ada8c2f4ed938dfb6ff31434e1f" serial="PCSG-00149"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="e77723aa" md5="f44ab1c537b6dec7b6a04e38a961b9bd" sha1="a527ed6cca12b6bee73d216618333cd9d38e148e" sha256="bb6c7fb63894d22268985341c809ae6a8f0343c9854698505399bce7b7b5f50e" serial="PCSG-00149"/>
+	</game>
+	<game name="XBlaze - Code Embryo (USA)" id="0114">
+		<description>XBlaze - Code Embryo (USA)</description>
+		<game_id>PCSE00346</game_id>
+		<rom name="XBlaze - Code Embryo (USA).psv" size="1895825408" crc="f1adafb2" md5="6230c807acc9048ba92c388545ec4326" sha1="99e90b862481a2ab040d1df6fb59d6f46dcb499d" serial="PCSE-00346"/>
+	</game>
+	<game name="XBLAZE - Lost Memories (USA)" id="0227">
+		<description>XBLAZE - Lost Memories (USA)</description>
+		<game_id>PCSE00627</game_id>
+		<rom name="XBLAZE - Lost Memories (USA).psv" size="3791650816" crc="a6bafc34" md5="f577e857639f37941f7077911028f2a2" sha1="7fd45d9e909a5ff27188ec7731e56b64d4a4cc89" serial="PCSE-00627"/>
+	</game>
+	<game name="Yingxiong Chuanshuo - Kong Zhi Guiji Di-Yi Zhang Quanmian Jinhuaban (China)" id="z007">
+		<description>Yingxiong Chuanshuo - Kong Zhi Guiji Di-Yi Zhang Quanmian Jinhuaban (China)</description>
+		<game_id>PCSH00179</game_id>
+		<rom name="Yingxiong Chuanshuo - Kong Zhi Guiji Di-Yi Zhang Quanmian Jinhuaban (China).psv" size="3791650816" crc="01de2830" md5="e017c5ed66aabf8249dc95028e2c0408" sha1="17659ef36074a96c3fd3cbd8eae9310cac8bd60b" serial="PCSH-00179"/>
+		<rom name="Yingxiong Chuanshuo - Kong Zhi Guiji Di-Yi Zhang Quanmian Jinhuaban (China).rif" size="512" crc="d33127e1" md5="42b9d71f42376b79fb4dfcd718acee4a" sha1="a55e1f958097b70ebfca69132b69aa2081d2dc8d" sha256="6cd0960189b04e68723584c896c33127fc0323c5b71845240fe86e9b5d380da7"/>
+	</game>
+	<game name="Yomawari - Midnight Shadows (USA)" id="0245">
+		<description>Yomawari - Midnight Shadows (USA)</description>
+		<game_id>PCSE01139</game_id>
+		<rom name="Yomawari - Midnight Shadows (USA).psv" size="1895825408" crc="c739f90d" md5="baded85ab2fb6d7fe3430863b1d2b7b2" sha1="76789802c1a7dc7d1af92b6af02d8cdbb8332a10" mia="yes" serial="PCSE-01139"/>
+	</game>
+	<game name="Yomawari - Night Alone + htol-NiQ - The Firefly Diary (USA)" id="0190">
+		<description>Yomawari - Night Alone + htol-NiQ - The Firefly Diary (USA)</description>
+		<game_id>PCSE00989</game_id>
+		<rom name="Yomawari - Night Alone + htol-NiQ - The Firefly Diary (USA).psv" size="1895825408" crc="6a6dbb35" md5="8dc684a7a663aa443f742365c4610f89" sha1="037654d1357568aed2c74b7db2b55bce11364f3a" serial="PCSE-00989"/>
+	</game>
+	<game name="Yoshiwara Higanbana - Kuon no Chigiri (Japan)" id="0403">
+		<description>Yoshiwara Higanbana - Kuon no Chigiri (Japan)</description>
+		<game_id>PCSG01120</game_id>
+		<rom name="Yoshiwara Higanbana - Kuon no Chigiri (Japan).psv" size="1895825408" crc="4e68d5fd" md5="2d97999a429df4d372ffdfd65229e450" sha1="589cfd398a06281d310933301c5dc7a756cb063d" sha256="88ee06dfbcba3581e236d758dfdd0676bc8708db12fc90379f306d69047b16c1" serial="PCSG-01120"/>
+	</game>
+	<game name="Zanki Zero (Japan)" id="0402">
+		<description>Zanki Zero (Japan)</description>
+		<game_id>PCSG01113</game_id>
+		<rom name="Zanki Zero (Japan).psv" size="3791650816" crc="42eccefd" md5="2fb68882b825c2667516057aeb6e0e61" sha1="23348aa527f6672b4013fe445ac3e63aa3090bbc" sha256="be59f4e14b7fc6b1a317394caec197eb2414e368f22b5a6239fbfe3a11d57422" serial="PCSG-01113"/>
+	</game>
+	<game name="Zero Escape - Zero Time Dilemma (USA)" id="0100">
+		<description>Zero Escape - Zero Time Dilemma (USA)</description>
+		<game_id>PCSE00781</game_id>
+		<rom name="Zero Escape - Zero Time Dilemma (USA).psv" size="1895825408" crc="687d19fe" md5="425127edc3f9d6ae4cb92c0412be6bca" sha1="e621777bba0f135938dafbaddfd3d1359f112f6e" sha256="8f58525a07c46900f5d486aa62a0db6824dcffdb1e4a4caf05e36dae2fdd7142" status="verified" serial="PCSE-00781"/>
+	</game>
+	<game name="Zero Escape 9-jikan 9-nin 9 no Tobira Zen'nin Shibou Desu Double Pack (Japan)" id="0401">
+		<description>Zero Escape 9-jikan 9-nin 9 no Tobira Zen'nin Shibou Desu Double Pack (Japan)</description>
+		<game_id>PCSG00883</game_id>
+		<rom name="Zero Escape 9-jikan 9-nin 9 no Tobira Zen'nin Shibou Desu Double Pack (Japan).psv" size="3791650816" crc="2d4821e3" md5="738ec4a0cb31a3db12f42e0aa624a77a" sha1="2097730c277167a467ecc0596401d02c46744e0f" sha256="c8f495aaef2d492d546f24f9f2efd339f0ec8b153140cfbb6371f405f99c9662" serial="PCSG-00883"/>
+	</game>
+	<game name="Zero Escape Toki no Dilemna (Japan)" id="0400">
+		<description>Zero Escape Toki no Dilemna (Japan)</description>
+		<game_id>PCSG00747</game_id>
+		<rom name="Zero Escape Toki no Dilemna (Japan).psv" size="1895825408" crc="c5d55e2c" md5="2e584a9b9ee18cb906710343bd0326bb" sha1="1598f2cfd973ad5337ddcd23c75bc4d378bf4ff7" sha256="588a2f59d505ac7488ca33a5455678a3d9599a49da59953be9f29b731946e8a8" serial="PCSG-00747"/>
+	</game>
+	<game name="Zettai Zetsubou Shoujo - Danganronpa another episode (Japan)" id="z177">
+		<description>Zettai Zetsubou Shoujo - Danganronpa another episode (Japan)</description>
+		<game_id>PCSG00433</game_id>
+		<rom name="Zettai Zetsubou Shoujo - Danganronpa another episode (Japan).psv" size="3791650816" crc="02397b57" md5="6f1d5d9610afc7834afd1a37922847af" sha1="d3ae70f5257a052058085056d96e1e71d22ec7d4" sha256="63c9022ea6de7da09bde39f220fe63e7168adbf4a3accdb18858deb8fb7a968c" serial="PCSG-00433"/>
+		<rom name="6488b73b912a753a492e2714e9b38bc7.rif" size="512" crc="02e3e164" md5="8d1be3c8fb35bd1a2e35d5217904b56d" sha1="9c26b867c8aa55a55dc2d3c99c95e21b8ece8192" sha256="3eb17633001695d09b2c6dcfaef9ae0c1f576b28a58cff86bf4ba2ca79fcde66" serial="PCSG-00433"/>
+	</game>
+</datafile>

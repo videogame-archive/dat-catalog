@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64DTV - Demos - [D81].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64DTV/Demos/[D81]/Commodore C64DTV - Demos - [D81].dat)|2635|
+|[..](../index.html)|DIR|
+|[Commodore C64DTV - Demos - [D81].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64DTV/Demos/[D81]/Commodore C64DTV - Demos - [D81]/Commodore C64DTV - Demos - [D81] (TOSEC-v2013-03-05_CM).dat)|2635|

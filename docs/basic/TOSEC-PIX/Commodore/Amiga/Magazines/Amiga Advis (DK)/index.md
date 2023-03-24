@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Magazines - Amiga Advis (DK).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga Advis (DK)/Commodore Amiga - Magazines - Amiga Advis (DK).dat)|7621|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Magazines - Amiga Advis (DK).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga Advis (DK)/Commodore Amiga - Magazines - Amiga Advis (DK)/Commodore Amiga - Magazines - Amiga Advis (DK) (TOSEC-v2019-05-06_CM).dat)|7621|

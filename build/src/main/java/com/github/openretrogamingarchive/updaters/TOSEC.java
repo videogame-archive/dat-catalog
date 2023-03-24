@@ -41,6 +41,12 @@ public class TOSEC extends Updater {
     }
 
     private static void unpackTOSECModule(Map<String, byte[]> files, String moduleName) throws IOException {
+		if (Files.exists(NORMALIZED_DIR.resolve(moduleName)))
+			Util.deleteRecursive(NORMALIZED_DIR.resolve(moduleName));
+		Files.createDirectories(NORMALIZED_DIR.resolve(moduleName));
+		if (Files.exists(BASIC_DIR.resolve(moduleName)))
+			Util.deleteRecursive(BASIC_DIR.resolve(moduleName));
+		Files.createDirectories(BASIC_DIR.resolve(moduleName));
         String script_move = new String(files.get("Scripts/move/" + moduleName + "_move.bat"), StandardCharsets.UTF_8);
         for (String move : script_move.split("\r\n")) {
             // # Normalized

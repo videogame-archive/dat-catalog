@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Analogue Pocket - Compilations.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Analogue/Pocket/Compilations/Analogue Pocket - Compilations.dat)|963|
+|[..](../index.html)|DIR|
+|[Analogue Pocket - Compilations.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Analogue/Pocket/Compilations/Analogue Pocket - Compilations/Analogue Pocket - Compilations (TOSEC-v2022-12-21_CM).dat)|963|

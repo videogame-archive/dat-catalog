@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Advanced Computer Design PDQ-3 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Advanced Computer Design/PDQ-3/Compilations/Games/Advanced Computer Design PDQ-3 - Compilations - Games.dat)|864|
+|[..](../index.html)|DIR|
+|[Advanced Computer Design PDQ-3 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Advanced Computer Design/PDQ-3/Compilations/Games/Advanced Computer Design PDQ-3 - Compilations - Games/Advanced Computer Design PDQ-3 - Compilations - Games (TOSEC-v2017-07-25_CM).dat)|864|

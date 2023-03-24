@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - RAZE.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/RAZE/Multi-format - Magazines - RAZE.dat)|4755|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - RAZE.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/RAZE/Multi-format - Magazines - RAZE/Multi-format - Magazines - RAZE (TOSEC-v2010-01-02_CM).dat)|4755|

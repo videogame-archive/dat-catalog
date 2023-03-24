@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX81 - Games - [P].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX81/Games/[P]/Sinclair ZX81 - Games - [P].dat)|342681|
+|[..](../index.html)|DIR|
+|[Sinclair ZX81 - Games - [P].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX81/Games/[P]/Sinclair ZX81 - Games - [P]/Sinclair ZX81 - Games - [P] (TOSEC-v2022-12-21_CM).dat)|342681|

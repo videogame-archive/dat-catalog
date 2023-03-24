@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bit Corporation Gamate - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bit Corporation/Gamate/Compilations/Games/Bit Corporation Gamate - Compilations - Games.dat)|1010|
+|[..](../index.html)|DIR|
+|[Bit Corporation Gamate - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bit Corporation/Gamate/Compilations/Games/Bit Corporation Gamate - Compilations - Games/Bit Corporation Gamate - Compilations - Games (TOSEC-v2018-07-01_CM).dat)|1010|

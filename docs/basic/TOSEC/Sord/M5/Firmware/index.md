@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sord M5 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sord/M5/Firmware/Sord M5 - Firmware.dat)|793|
+|[..](../index.html)|DIR|
+|[Sord M5 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sord/M5/Firmware/Sord M5 - Firmware/Sord M5 - Firmware (TOSEC-v2014-10-28_CM).dat)|793|

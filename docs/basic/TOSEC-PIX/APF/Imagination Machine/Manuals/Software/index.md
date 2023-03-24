@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[APF Imagination Machine - Manuals - Software.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/APF/Imagination Machine/Manuals/Software/APF Imagination Machine - Manuals - Software.dat)|5206|
+|[..](../index.html)|DIR|
+|[APF Imagination Machine - Manuals - Software.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/APF/Imagination Machine/Manuals/Software/APF Imagination Machine - Manuals - Software/APF Imagination Machine - Manuals - Software (TOSEC-v2013-11-07_CM).dat)|5206|

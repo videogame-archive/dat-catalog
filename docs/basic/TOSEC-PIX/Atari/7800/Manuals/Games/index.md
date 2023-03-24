@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 7800 - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/7800/Manuals/Games/Atari 7800 - Manuals - Games.dat)|17449|
+|[..](../index.html)|DIR|
+|[Atari 7800 - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/7800/Manuals/Games/Atari 7800 - Manuals - Games/Atari 7800 - Manuals - Games (TOSEC-v2011-03-17_CM).dat)|17449|

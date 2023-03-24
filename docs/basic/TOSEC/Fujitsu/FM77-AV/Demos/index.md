@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Fujitsu FM77-AV - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Fujitsu/FM77-AV/Demos/Fujitsu FM77-AV - Demos.dat)|1156|
+|[..](../index.html)|DIR|
+|[Fujitsu FM77-AV - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Fujitsu/FM77-AV/Demos/Fujitsu FM77-AV - Demos/Fujitsu FM77-AV - Demos (TOSEC-v2018-07-01_CM).dat)|1156|

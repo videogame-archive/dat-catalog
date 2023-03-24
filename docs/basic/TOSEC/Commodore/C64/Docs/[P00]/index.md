@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Docs - [P00].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Docs/[P00]/Commodore C64 - Docs - [P00].dat)|4181|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Docs - [P00].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Docs/[P00]/Commodore C64 - Docs - [P00]/Commodore C64 - Docs - [P00] (TOSEC-v2022-11-11_CM).dat)|4181|

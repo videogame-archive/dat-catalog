@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Computer 3000 - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Computer 3000/Catalogs/Sega Computer 3000 - Catalogs.dat)|932|
+|[..](../index.html)|DIR|
+|[Sega Computer 3000 - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Computer 3000/Catalogs/Sega Computer 3000 - Catalogs/Sega Computer 3000 - Catalogs (TOSEC-v2012-07-21_CM).dat)|932|

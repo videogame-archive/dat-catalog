@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Apple II - Magazines - Golden](Apple II - Magazines - Golden/index.html)|DIR|

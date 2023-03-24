@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exelvision EXL100 - Compilations - [K7].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Exelvision/EXL100/Compilations/[K7]/Exelvision EXL100 - Compilations - [K7].dat)|952|
+|[..](../index.html)|DIR|
+|[Exelvision EXL100 - Compilations - [K7].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exelvision/EXL100/Compilations/[K7]/Exelvision EXL100 - Compilations - [K7]/Exelvision EXL100 - Compilations - [K7] (TOSEC-v2014-01-24_CM).dat)|952|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Jaguar - Games - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/Jaguar/Games/[Multipart]/Atari Jaguar - Games - [Multipart].dat)|1060|
+|[..](../index.html)|DIR|
+|[Atari Jaguar - Games - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Jaguar/Games/[Multipart]/Atari Jaguar - Games - [Multipart]/Atari Jaguar - Games - [Multipart] (TOSEC-v2021-07-25_CM).dat)|1060|

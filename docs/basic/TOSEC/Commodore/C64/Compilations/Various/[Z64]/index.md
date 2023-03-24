@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Compilations - Various - [Z64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Compilations/Various/[Z64]/Commodore C64 - Compilations - Various - [Z64].dat)|23004|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Compilations - Various - [Z64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Compilations/Various/[Z64]/Commodore C64 - Compilations - Various - [Z64]/Commodore C64 - Compilations - Various - [Z64] (TOSEC-v2020-08-08_CM).dat)|23004|

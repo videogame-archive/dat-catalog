@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Telmac TMC-600 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Telmac/TMC-600/Games/Telmac TMC-600 - Games.dat)|5673|
+|[..](../index.html)|DIR|
+|[Telmac TMC-600 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Telmac/TMC-600/Games/Telmac TMC-600 - Games/Telmac TMC-600 - Games (TOSEC-v2021-07-25_CM).dat)|5673|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Coverdisks - [IMZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/PC Compatibles/Coverdisks/[IMZ]/IBM PC Compatibles - Coverdisks - [IMZ].dat)|2381|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Coverdisks - [IMZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PC Compatibles/Coverdisks/[IMZ]/IBM PC Compatibles - Coverdisks - [IMZ]/IBM PC Compatibles - Coverdisks - [IMZ] (TOSEC-v2018-11-15_CM).dat)|2381|

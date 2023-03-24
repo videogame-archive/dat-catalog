@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Apple 2000](Apple 2000/index.html)|DIR|
 |[Apple Magazine](Apple Magazine/index.html)|DIR|
 |[Applicando (IT)](Applicando (IT)/index.html)|DIR|

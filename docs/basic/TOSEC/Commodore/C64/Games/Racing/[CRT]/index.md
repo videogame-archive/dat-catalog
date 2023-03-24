@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Racing - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Racing/[CRT]/Commodore C64 - Games - Racing - [CRT].dat)|9618|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Racing - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Racing/[CRT]/Commodore C64 - Games - Racing - [CRT]/Commodore C64 - Games - Racing - [CRT] (TOSEC-v2022-12-18_CM).dat)|9618|

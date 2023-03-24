@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C65 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C65/Firmware/Commodore C65 - Firmware.dat)|3527|
+|[..](../index.html)|DIR|
+|[Commodore C65 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C65/Firmware/Commodore C65 - Firmware/Commodore C65 - Firmware (TOSEC-v2019-01-20_CM).dat)|3527|

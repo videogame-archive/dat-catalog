@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Lynx - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/Lynx/Books/Atari Lynx - Books.dat)|830|
+|[..](../index.html)|DIR|
+|[Atari Lynx - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/Lynx/Books/Atari Lynx - Books/Atari Lynx - Books (TOSEC-v2022-12-21_CM).dat)|830|

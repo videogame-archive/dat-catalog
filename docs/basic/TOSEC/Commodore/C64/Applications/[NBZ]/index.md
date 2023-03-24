@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Applications - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Applications/[NBZ]/Commodore C64 - Applications - [NBZ].dat)|40481|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Applications - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Applications/[NBZ]/Commodore C64 - Applications - [NBZ]/Commodore C64 - Applications - [NBZ] (TOSEC-v2022-11-08_CM).dat)|40481|

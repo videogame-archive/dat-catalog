@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari - Magazines - Atari Explorer.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/Magazines/Atari Explorer/Atari - Magazines - Atari Explorer.dat)|4410|
+|[..](../index.html)|DIR|
+|[Atari - Magazines - Atari Explorer.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/Magazines/Atari Explorer/Atari - Magazines - Atari Explorer/Atari - Magazines - Atari Explorer (TOSEC-v2012-04-17_CM).dat)|4410|

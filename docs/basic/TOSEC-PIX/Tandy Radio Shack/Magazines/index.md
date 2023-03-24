@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[80 Micro](80 Micro/index.html)|DIR|
 |[80 Notebook, The](80 Notebook, The/index.html)|DIR|
 |[80-Northwest (US)](80-Northwest (US)/index.html)|DIR|

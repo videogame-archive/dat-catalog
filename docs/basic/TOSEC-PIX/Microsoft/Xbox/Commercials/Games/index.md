@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microsoft Xbox - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Microsoft/Xbox/Commercials/Games/Microsoft Xbox - Commercials - Games.dat)|2359|
+|[..](../index.html)|DIR|
+|[Microsoft Xbox - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Microsoft/Xbox/Commercials/Games/Microsoft Xbox - Commercials - Games/Microsoft Xbox - Commercials - Games (TOSEC-v2012-12-25_CM).dat)|2359|

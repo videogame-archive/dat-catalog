@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sony PlayStation Portable - Applications - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Sony/PlayStation Portable/Applications/[ISO]/Sony PlayStation Portable - Applications - [ISO].dat)|4003|
+|[..](../index.html)|DIR|
+|[Sony PlayStation Portable - Applications - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Sony/PlayStation Portable/Applications/[ISO]/Sony PlayStation Portable - Applications - [ISO]/Sony PlayStation Portable - Applications - [ISO] (TOSEC-v2022-12-21_CM).dat)|4003|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Magazines - Easy PC.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/Easy PC/IBM PC Compatibles - Magazines - Easy PC.dat)|4564|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Magazines - Easy PC.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/IBM/PC Compatibles/Magazines/Easy PC/IBM PC Compatibles - Magazines - Easy PC/IBM PC Compatibles - Magazines - Easy PC (TOSEC-v2014-02-01_CM).dat)|4564|

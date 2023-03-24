@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MITS Altair 8800 - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MITS/Altair 8800/Games/[BIN]/MITS Altair 8800 - Games - [BIN].dat)|2572|
+|[..](../index.html)|DIR|
+|[MITS Altair 8800 - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MITS/Altair 8800/Games/[BIN]/MITS Altair 8800 - Games - [BIN]/MITS Altair 8800 - Games - [BIN] (TOSEC-v2021-07-25_CM).dat)|2572|

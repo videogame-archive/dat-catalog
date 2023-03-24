@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[.psd Magazine](.psd Magazine/index.html)|DIR|
 |[3D World](3D World/index.html)|DIR|
 |[Atomic](Atomic/index.html)|DIR|

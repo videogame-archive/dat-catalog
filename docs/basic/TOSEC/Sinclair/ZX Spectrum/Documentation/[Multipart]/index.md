@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX Spectrum - Documentation - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Documentation/[Multipart]/Sinclair ZX Spectrum - Documentation - [Multipart].dat)|1803|
+|[..](../index.html)|DIR|
+|[Sinclair ZX Spectrum - Documentation - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Documentation/[Multipart]/Sinclair ZX Spectrum - Documentation - [Multipart]/Sinclair ZX Spectrum - Documentation - [Multipart] (TOSEC-v2011-09-24_CM).dat)|1803|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Magazines - Amiga Action.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga Action/Commodore Amiga - Magazines - Amiga Action.dat)|13767|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Magazines - Amiga Action.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga Action/Commodore Amiga - Magazines - Amiga Action/Commodore Amiga - Magazines - Amiga Action (TOSEC-v2021-07-15_CM).dat)|13767|

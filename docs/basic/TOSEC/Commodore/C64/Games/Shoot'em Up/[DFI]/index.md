@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Shoot'em Up - [DFI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Shoot'em Up/[DFI]/Commodore C64 - Games - Shoot'em Up - [DFI].dat)|10567|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Shoot'em Up - [DFI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Shoot'em Up/[DFI]/Commodore C64 - Games - Shoot'em Up - [DFI]/Commodore C64 - Games - Shoot'em Up - [DFI] (TOSEC-v2022-12-18_CM).dat)|10567|

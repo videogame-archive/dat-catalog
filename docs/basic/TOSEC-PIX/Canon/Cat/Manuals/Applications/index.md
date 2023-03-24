@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Canon Cat - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Canon/Cat/Manuals/Applications/Canon Cat - Manuals - Applications.dat)|1685|
+|[..](../index.html)|DIR|
+|[Canon Cat - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Canon/Cat/Manuals/Applications/Canon Cat - Manuals - Applications/Canon Cat - Manuals - Applications (TOSEC-v2014-02-01_CM).dat)|1685|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Emerson Arcadia 2001 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Emerson/Arcadia 2001/Demos/Emerson Arcadia 2001 - Demos.dat)|803|
+|[..](../index.html)|DIR|
+|[Emerson Arcadia 2001 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Emerson/Arcadia 2001/Demos/Emerson Arcadia 2001 - Demos/Emerson Arcadia 2001 - Demos (TOSEC-v2011-02-22_CM).dat)|803|

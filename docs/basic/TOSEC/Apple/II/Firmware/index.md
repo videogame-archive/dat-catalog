@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Firmware/Apple II - Firmware.dat)|938|
+|[..](../index.html)|DIR|
+|[Apple II - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Firmware/Apple II - Firmware/Apple II - Firmware (TOSEC-v2022-06-08_CM).dat)|938|

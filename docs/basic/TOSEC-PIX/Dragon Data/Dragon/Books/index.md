@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Dragon Data Dragon - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Dragon Data/Dragon/Books/Dragon Data Dragon - Books.dat)|907|
+|[..](../index.html)|DIR|
+|[Dragon Data Dragon - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Dragon Data/Dragon/Books/Dragon Data Dragon - Books/Dragon Data Dragon - Books (TOSEC-v2013-04-04_CM).dat)|907|

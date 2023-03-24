@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bernd Huebler & Klaus-Peter Evert/Huebler-Evert-MC/Games/Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games.dat)|1232|
+|[..](../index.html)|DIR|
+|[Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bernd Huebler & Klaus-Peter Evert/Huebler-Evert-MC/Games/Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games/Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games (TOSEC-v2021-07-25_CM).dat)|1232|

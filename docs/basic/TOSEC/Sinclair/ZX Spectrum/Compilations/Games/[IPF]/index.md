@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX Spectrum - Compilations - Games - [IPF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Compilations/Games/[IPF]/Sinclair ZX Spectrum - Compilations - Games - [IPF].dat)|2602|
+|[..](../index.html)|DIR|
+|[Sinclair ZX Spectrum - Compilations - Games - [IPF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Compilations/Games/[IPF]/Sinclair ZX Spectrum - Compilations - Games - [IPF]/Sinclair ZX Spectrum - Compilations - Games - [IPF] (TOSEC-v2021-01-15_CM).dat)|2602|

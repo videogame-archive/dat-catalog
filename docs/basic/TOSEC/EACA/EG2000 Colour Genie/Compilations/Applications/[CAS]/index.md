@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[EACA EG2000 Colour Genie - Compilations - Applications - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/EACA/EG2000 Colour Genie/Compilations/Applications/[CAS]/EACA EG2000 Colour Genie - Compilations - Applications - [CAS].dat)|1547|
+|[..](../index.html)|DIR|
+|[EACA EG2000 Colour Genie - Compilations - Applications - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/EACA/EG2000 Colour Genie/Compilations/Applications/[CAS]/EACA EG2000 Colour Genie - Compilations - Applications - [CAS]/EACA EG2000 Colour Genie - Compilations - Applications - [CAS] (TOSEC-v2020-10-26_CM).dat)|1547|

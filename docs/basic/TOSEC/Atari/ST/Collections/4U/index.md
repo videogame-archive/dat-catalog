@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari ST - Collections - 4U.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/ST/Collections/4U/Atari ST - Collections - 4U.dat)|23251|
+|[..](../index.html)|DIR|
+|[Atari ST - Collections - 4U.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/ST/Collections/4U/Atari ST - Collections - 4U/Atari ST - Collections - 4U (TOSEC-v2013-12-13_CM).dat)|23251|

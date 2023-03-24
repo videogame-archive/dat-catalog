@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Patisonic Aleste 520EX - Operating Systems](Patisonic Aleste 520EX - Operating Systems/index.html)|DIR|

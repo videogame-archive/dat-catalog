@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn BBC - Magazines - ByteBack.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Acorn/BBC/Magazines/ByteBack/Acorn BBC - Magazines - ByteBack.dat)|4131|
+|[..](../index.html)|DIR|
+|[Acorn BBC - Magazines - ByteBack.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/BBC/Magazines/ByteBack/Acorn BBC - Magazines - ByteBack/Acorn BBC - Magazines - ByteBack (TOSEC-v2012-02-25_CM).dat)|4131|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Compugraphic MCS-10 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Compugraphic/MCS-10/Applications/Compugraphic MCS-10 - Applications.dat)|1915|
+|[..](../index.html)|DIR|
+|[Compugraphic MCS-10 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Compugraphic/MCS-10/Applications/Compugraphic MCS-10 - Applications/Compugraphic MCS-10 - Applications (TOSEC-v2017-04-05_CM).dat)|1915|

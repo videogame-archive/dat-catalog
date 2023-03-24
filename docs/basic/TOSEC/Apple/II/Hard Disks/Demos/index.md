@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Hard Disks - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Hard Disks/Demos/Apple II - Hard Disks - Demos.dat)|1808|
+|[..](../index.html)|DIR|
+|[Apple II - Hard Disks - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Hard Disks/Demos/Apple II - Hard Disks - Demos/Apple II - Hard Disks - Demos (TOSEC-v2022-12-21_CM).dat)|1808|

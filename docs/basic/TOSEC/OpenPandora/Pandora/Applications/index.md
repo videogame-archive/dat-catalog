@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[OpenPandora Pandora - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/OpenPandora/Pandora/Applications/OpenPandora Pandora - Applications.dat)|62710|
+|[..](../index.html)|DIR|
+|[OpenPandora Pandora - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/OpenPandora/Pandora/Applications/OpenPandora Pandora - Applications/OpenPandora Pandora - Applications (TOSEC-v2012-04-14_CM).dat)|62710|

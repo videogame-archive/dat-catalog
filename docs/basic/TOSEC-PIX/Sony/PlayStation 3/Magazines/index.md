@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Official UK Playstation Magazine](Official UK Playstation Magazine/index.html)|DIR|
 |[Official US Playstation Magazine](Official US Playstation Magazine/index.html)|DIR|
 |[Play](Play/index.html)|DIR|

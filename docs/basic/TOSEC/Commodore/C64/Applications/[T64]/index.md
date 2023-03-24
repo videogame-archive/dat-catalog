@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Applications - [T64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Applications/[T64]/Commodore C64 - Applications - [T64].dat)|541471|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Applications - [T64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Applications/[T64]/Commodore C64 - Applications - [T64]/Commodore C64 - Applications - [T64] (TOSEC-v2022-12-03_CM).dat)|541471|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - BLIP.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/BLIP/Multi-format - Magazines - BLIP.dat)|3210|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - BLIP.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/BLIP/Multi-format - Magazines - BLIP/Multi-format - Magazines - BLIP (TOSEC-v2013-11-07_CM).dat)|3210|

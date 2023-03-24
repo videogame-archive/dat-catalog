@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Diskmags - Scene - [LNX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Diskmags/Scene/[LNX]/Commodore C64 - Diskmags - Scene - [LNX].dat)|77396|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Diskmags - Scene - [LNX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Diskmags/Scene/[LNX]/Commodore C64 - Diskmags - Scene - [LNX]/Commodore C64 - Diskmags - Scene - [LNX] (TOSEC-v2021-12-02_CM).dat)|77396|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Dreamcast - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Dreamcast/Commercials/Games/Sega Dreamcast - Commercials - Games.dat)|28409|
+|[..](../index.html)|DIR|
+|[Sega Dreamcast - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Dreamcast/Commercials/Games/Sega Dreamcast - Commercials - Games/Sega Dreamcast - Commercials - Games (TOSEC-v2022-12-21_CM).dat)|28409|

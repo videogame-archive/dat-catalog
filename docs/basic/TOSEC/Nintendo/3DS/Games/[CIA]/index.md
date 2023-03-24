@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo 3DS - Games - [CIA].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/3DS/Games/[CIA]/Nintendo 3DS - Games - [CIA].dat)|27461|
+|[..](../index.html)|DIR|
+|[Nintendo 3DS - Games - [CIA].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/3DS/Games/[CIA]/Nintendo 3DS - Games - [CIA]/Nintendo 3DS - Games - [CIA] (TOSEC-v2022-12-21_CM).dat)|27461|

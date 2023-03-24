@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-Engine CD & TurboGrafx-16 CD - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/NEC/PC-Engine CD & TurboGrafx-16 CD/Educational/NEC PC-Engine CD & TurboGrafx-16 CD - Educational.dat)|2696|
+|[..](../index.html)|DIR|
+|[NEC PC-Engine CD & TurboGrafx-16 CD - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/NEC/PC-Engine CD & TurboGrafx-16 CD/Educational/NEC PC-Engine CD & TurboGrafx-16 CD - Educational/NEC PC-Engine CD & TurboGrafx-16 CD - Educational (TOSEC-v2018-05-28_CM).dat)|2696|

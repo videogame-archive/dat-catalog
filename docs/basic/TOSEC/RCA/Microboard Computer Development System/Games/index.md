@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[RCA Microboard Computer Development System - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/RCA/Microboard Computer Development System/Games/RCA Microboard Computer Development System - Games.dat)|1532|
+|[..](../index.html)|DIR|
+|[RCA Microboard Computer Development System - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/RCA/Microboard Computer Development System/Games/RCA Microboard Computer Development System - Games/RCA Microboard Computer Development System - Games (TOSEC-v2021-07-25_CM).dat)|1532|

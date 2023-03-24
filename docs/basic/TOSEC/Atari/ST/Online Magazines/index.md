@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari ST - Online Magazines.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/ST/Online Magazines/Atari ST - Online Magazines.dat)|1776478|
+|[..](../index.html)|DIR|
+|[Atari ST - Online Magazines.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/ST/Online Magazines/Atari ST - Online Magazines/Atari ST - Online Magazines (TOSEC-v2013-12-13_CM).dat)|1776478|

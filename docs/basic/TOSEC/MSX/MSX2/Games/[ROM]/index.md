@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX2 - Games - [ROM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX2/Games/[ROM]/MSX MSX2 - Games - [ROM].dat)|103515|
+|[..](../index.html)|DIR|
+|[MSX MSX2 - Games - [ROM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX2/Games/[ROM]/MSX MSX2 - Games - [ROM]/MSX MSX2 - Games - [ROM] (TOSEC-v2012-04-15_CM).dat)|103515|

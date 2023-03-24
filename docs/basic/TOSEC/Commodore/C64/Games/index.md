@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Adventure](Adventure/index.html)|DIR|
 |[Arcade](Arcade/index.html)|DIR|
 |[Board](Board/index.html)|DIR|

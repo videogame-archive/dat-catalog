@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn BBC - Educational - [DSD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/BBC/Educational/[DSD]/Acorn BBC - Educational - [DSD].dat)|5226|
+|[..](../index.html)|DIR|
+|[Acorn BBC - Educational - [DSD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/BBC/Educational/[DSD]/Acorn BBC - Educational - [DSD]/Acorn BBC - Educational - [DSD] (TOSEC-v2013-10-22_CM).dat)|5226|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Compilations - Educational - [NIB].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Compilations/Educational/[NIB]/Apple II - Compilations - Educational - [NIB].dat)|912|
+|[..](../index.html)|DIR|
+|[Apple II - Compilations - Educational - [NIB].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Compilations/Educational/[NIB]/Apple II - Compilations - Educational - [NIB]/Apple II - Compilations - Educational - [NIB] (TOSEC-v2020-10-26_CM).dat)|912|

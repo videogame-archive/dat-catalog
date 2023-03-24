@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Visual Memory System - Multimedia.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Visual Memory System/Multimedia/Sega Visual Memory System - Multimedia.dat)|1168|
+|[..](../index.html)|DIR|
+|[Sega Visual Memory System - Multimedia.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Visual Memory System/Multimedia/Sega Visual Memory System - Multimedia/Sega Visual Memory System - Multimedia (TOSEC-v2011-08-13_CM).dat)|1168|

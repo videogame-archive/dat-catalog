@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Video Computer H-21](Video Computer H-21/index.html)|DIR|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari - Magazines - Input Output.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/Magazines/Input Output/Atari - Magazines - Input Output.dat)|2190|
+|[..](../index.html)|DIR|
+|[Atari - Magazines - Input Output.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/Magazines/Input Output/Atari - Magazines - Input Output/Atari - Magazines - Input Output (TOSEC-v2010-01-10_CM).dat)|2190|

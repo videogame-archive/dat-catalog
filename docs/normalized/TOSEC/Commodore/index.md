@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Amiga](Amiga/index.html)|DIR|
 |[BX256-80HP](BX256-80HP/index.html)|DIR|
 |[C128](C128/index.html)|DIR|

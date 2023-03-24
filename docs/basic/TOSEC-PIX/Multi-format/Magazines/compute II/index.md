@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - compute II.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/compute II/Multi-format - Magazines - compute II.dat)|1669|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - compute II.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/compute II/Multi-format - Magazines - compute II/Multi-format - Magazines - compute II (TOSEC-v2010-01-16_CM).dat)|1669|

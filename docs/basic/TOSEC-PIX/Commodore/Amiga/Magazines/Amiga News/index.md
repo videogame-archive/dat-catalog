@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Magazines - Amiga News.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga News/Commodore Amiga - Magazines - Amiga News.dat)|1736|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Magazines - Amiga News.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Amiga/Magazines/Amiga News/Commodore Amiga - Magazines - Amiga News/Commodore Amiga - Magazines - Amiga News (TOSEC-v2012-04-12_CM).dat)|1736|

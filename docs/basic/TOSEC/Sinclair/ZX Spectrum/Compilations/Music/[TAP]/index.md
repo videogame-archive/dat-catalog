@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX Spectrum - Compilations - Music - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Compilations/Music/[TAP]/Sinclair ZX Spectrum - Compilations - Music - [TAP].dat)|2923|
+|[..](../index.html)|DIR|
+|[Sinclair ZX Spectrum - Compilations - Music - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Compilations/Music/[TAP]/Sinclair ZX Spectrum - Compilations - Music - [TAP]/Sinclair ZX Spectrum - Compilations - Music - [TAP] (TOSEC-v2021-01-15_CM).dat)|2923|

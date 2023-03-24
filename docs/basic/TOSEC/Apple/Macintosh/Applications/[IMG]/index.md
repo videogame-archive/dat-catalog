@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple Macintosh - Applications - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/Macintosh/Applications/[IMG]/Apple Macintosh - Applications - [IMG].dat)|5322|
+|[..](../index.html)|DIR|
+|[Apple Macintosh - Applications - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/Macintosh/Applications/[IMG]/Apple Macintosh - Applications - [IMG]/Apple Macintosh - Applications - [IMG] (TOSEC-v2019-09-01_CM).dat)|5322|

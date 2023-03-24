@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Interact Family Computer - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Interact/Family Computer/Applications/Interact Family Computer - Applications.dat)|3269|
+|[..](../index.html)|DIR|
+|[Interact Family Computer - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Interact/Family Computer/Applications/Interact Family Computer - Applications/Interact Family Computer - Applications (TOSEC-v2014-01-18_CM).dat)|3269|

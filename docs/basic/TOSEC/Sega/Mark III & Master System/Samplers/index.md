@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Mark III & Master System - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Mark III & Master System/Samplers/Sega Mark III & Master System - Samplers.dat)|2776|
+|[..](../index.html)|DIR|
+|[Sega Mark III & Master System - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Mark III & Master System/Samplers/Sega Mark III & Master System - Samplers/Sega Mark III & Master System - Samplers (TOSEC-v2011-06-20_CM).dat)|2776|

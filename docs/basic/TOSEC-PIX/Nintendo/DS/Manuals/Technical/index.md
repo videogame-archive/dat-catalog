@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo DS - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/DS/Manuals/Technical/Nintendo DS - Manuals - Technical.dat)|1743|
+|[..](../index.html)|DIR|
+|[Nintendo DS - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/DS/Manuals/Technical/Nintendo DS - Manuals - Technical/Nintendo DS - Manuals - Technical (TOSEC-v2011-03-13_CM).dat)|1743|

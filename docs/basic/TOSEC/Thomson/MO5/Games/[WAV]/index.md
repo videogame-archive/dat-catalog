@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Thomson MO5 - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/MO5/Games/[WAV]/Thomson MO5 - Games - [WAV].dat)|7274|
+|[..](../index.html)|DIR|
+|[Thomson MO5 - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Thomson/MO5/Games/[WAV]/Thomson MO5 - Games - [WAV]/Thomson MO5 - Games - [WAV] (TOSEC-v2022-12-21_CM).dat)|7274|

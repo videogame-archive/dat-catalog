@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Music - [ARC].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Music/[ARC]/Commodore C64 - Music - [ARC].dat)|1485|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Music - [ARC].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Music/[ARC]/Commodore C64 - Music - [ARC]/Commodore C64 - Music - [ARC] (TOSEC-v2020-08-05_CM).dat)|1485|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Atom - Games - [CSW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/Atom/Games/[CSW]/Acorn Atom - Games - [CSW].dat)|4314|
+|[..](../index.html)|DIR|
+|[Acorn Atom - Games - [CSW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/Atom/Games/[CSW]/Acorn Atom - Games - [CSW]/Acorn Atom - Games - [CSW] (TOSEC-v2017-07-05_CM).dat)|4314|

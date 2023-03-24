@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[CC-40](CC-40/index.html)|DIR|
 |[TI-73](TI-73/index.html)|DIR|
 |[TI-74](TI-74/index.html)|DIR|

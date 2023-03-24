@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bondwell 2 - Operating Systems - [TD0].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bondwell/2/Operating Systems/[TD0]/Bondwell 2 - Operating Systems - [TD0].dat)|852|
+|[..](../index.html)|DIR|
+|[Bondwell 2 - Operating Systems - [TD0].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bondwell/2/Operating Systems/[TD0]/Bondwell 2 - Operating Systems - [TD0]/Bondwell 2 - Operating Systems - [TD0] (TOSEC-v2012-09-15_CM).dat)|852|

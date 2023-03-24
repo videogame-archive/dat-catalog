@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Thomson MO5 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/MO5/Compilations/Games/Thomson MO5 - Compilations - Games.dat)|4612|
+|[..](../index.html)|DIR|
+|[Thomson MO5 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Thomson/MO5/Compilations/Games/Thomson MO5 - Compilations - Games/Thomson MO5 - Compilations - Games (TOSEC-v2012-08-27_CM).dat)|4612|

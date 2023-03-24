@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo - Magazines - N-Force.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Magazines/N-Force/Nintendo - Magazines - N-Force.dat)|5290|
+|[..](../index.html)|DIR|
+|[Nintendo - Magazines - N-Force.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Magazines/N-Force/Nintendo - Magazines - N-Force/Nintendo - Magazines - N-Force (TOSEC-v2012-12-25_CM).dat)|5290|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore PET - Firmware - Drives.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/PET/Firmware/Drives/Commodore PET - Firmware - Drives.dat)|17661|
+|[..](../index.html)|DIR|
+|[Commodore PET - Firmware - Drives.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/PET/Firmware/Drives/Commodore PET - Firmware - Drives/Commodore PET - Firmware - Drives (TOSEC-v2019-04-23_CM).dat)|17661|

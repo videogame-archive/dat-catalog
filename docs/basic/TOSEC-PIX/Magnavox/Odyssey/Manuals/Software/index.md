@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Magnavox Odyssey - Manuals - Software.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Magnavox/Odyssey/Manuals/Software/Magnavox Odyssey - Manuals - Software.dat)|4030|
+|[..](../index.html)|DIR|
+|[Magnavox Odyssey - Manuals - Software.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Magnavox/Odyssey/Manuals/Software/Magnavox Odyssey - Manuals - Software/Magnavox Odyssey - Manuals - Software (TOSEC-v2013-11-07_CM).dat)|4030|

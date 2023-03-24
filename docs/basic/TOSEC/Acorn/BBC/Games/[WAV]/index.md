@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn BBC - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/BBC/Games/[WAV]/Acorn BBC - Games - [WAV].dat)|1104|
+|[..](../index.html)|DIR|
+|[Acorn BBC - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/BBC/Games/[WAV]/Acorn BBC - Games - [WAV]/Acorn BBC - Games - [WAV] (TOSEC-v2022-06-08_CM).dat)|1104|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Archimedes - Magazines - Risc User.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Acorn/Archimedes/Magazines/Risc User/Acorn Archimedes - Magazines - Risc User.dat)|6831|
+|[..](../index.html)|DIR|
+|[Acorn Archimedes - Magazines - Risc User.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/Archimedes/Magazines/Risc User/Acorn Archimedes - Magazines - Risc User/Acorn Archimedes - Magazines - Risc User (TOSEC-v2012-04-19_CM).dat)|6831|

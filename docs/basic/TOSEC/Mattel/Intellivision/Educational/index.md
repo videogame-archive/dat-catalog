@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel Intellivision - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Mattel/Intellivision/Educational/Mattel Intellivision - Educational.dat)|4962|
+|[..](../index.html)|DIR|
+|[Mattel Intellivision - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Mattel/Intellivision/Educational/Mattel Intellivision - Educational/Mattel Intellivision - Educational (TOSEC-v2021-07-25_CM).dat)|4962|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Archimedes - CD - Compilations.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Acorn/Archimedes/CD/Compilations/Acorn Archimedes - CD - Compilations.dat)|2103|
+|[..](../index.html)|DIR|
+|[Acorn Archimedes - CD - Compilations.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Acorn/Archimedes/CD/Compilations/Acorn Archimedes - CD - Compilations/Acorn Archimedes - CD - Compilations (TOSEC-v2012-07-06_CM).dat)|2103|

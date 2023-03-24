@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Coleco ColecoVision - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Coleco/ColecoVision/Manuals/Games/Coleco ColecoVision - Manuals - Games.dat)|63710|
+|[..](../index.html)|DIR|
+|[Coleco ColecoVision - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Coleco/ColecoVision/Manuals/Games/Coleco ColecoVision - Manuals - Games/Coleco ColecoVision - Manuals - Games (TOSEC-v2019-05-06_CM).dat)|63710|

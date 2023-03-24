@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 7800 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/7800/Manuals/Hardware/Atari 7800 - Manuals - Hardware.dat)|923|
+|[..](../index.html)|DIR|
+|[Atari 7800 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/7800/Manuals/Hardware/Atari 7800 - Manuals - Hardware/Atari 7800 - Manuals - Hardware (TOSEC-v2011-03-13_CM).dat)|923|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel Intellivision - Firmware - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Mattel/Intellivision/Firmware/[Multipart]/Mattel Intellivision - Firmware - [Multipart].dat)|1299|
+|[..](../index.html)|DIR|
+|[Mattel Intellivision - Firmware - [Multipart].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Mattel/Intellivision/Firmware/[Multipart]/Mattel Intellivision - Firmware - [Multipart]/Mattel Intellivision - Firmware - [Multipart] (TOSEC-v2018-07-01_CM).dat)|1299|

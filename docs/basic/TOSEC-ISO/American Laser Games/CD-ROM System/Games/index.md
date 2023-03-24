@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[American Laser Games CD-ROM System - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/American Laser Games/CD-ROM System/Games/American Laser Games CD-ROM System - Games.dat)|1689|
+|[..](../index.html)|DIR|
+|[American Laser Games CD-ROM System - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/American Laser Games/CD-ROM System/Games/American Laser Games CD-ROM System - Games/American Laser Games CD-ROM System - Games (TOSEC-v2012-07-05_CM).dat)|1689|

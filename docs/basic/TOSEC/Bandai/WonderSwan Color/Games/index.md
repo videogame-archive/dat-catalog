@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bandai WonderSwan Color - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bandai/WonderSwan Color/Games/Bandai WonderSwan Color - Games.dat)|55955|
+|[..](../index.html)|DIR|
+|[Bandai WonderSwan Color - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bandai/WonderSwan Color/Games/Bandai WonderSwan Color - Games/Bandai WonderSwan Color - Games (TOSEC-v2022-06-08_CM).dat)|55955|

@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Genius](Genius/index.html)|DIR|
 |[Genius Junior Movie](Genius Junior Movie/index.html)|DIR|
 |[Genius Leader 2000](Genius Leader 2000/index.html)|DIR|

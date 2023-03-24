@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Motorola EXORciser - Utilities.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Motorola/EXORciser/Utilities/Motorola EXORciser - Utilities.dat)|4363|
+|[..](../index.html)|DIR|
+|[Motorola EXORciser - Utilities.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Motorola/EXORciser/Utilities/Motorola EXORciser - Utilities/Motorola EXORciser - Utilities (TOSEC-v2017-04-05_CM).dat)|4363|

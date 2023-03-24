@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Game Boy - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Game Boy/Video/Nintendo Game Boy - Video.dat)|1710|
+|[..](../index.html)|DIR|
+|[Nintendo Game Boy - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Game Boy/Video/Nintendo Game Boy - Video/Nintendo Game Boy - Video (TOSEC-v2022-12-21_CM).dat)|1710|

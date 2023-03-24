@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 2600 & VCS - Manuals - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/2600 & VCS/Manuals/Educational/Atari 2600 & VCS - Manuals - Educational.dat)|2403|
+|[..](../index.html)|DIR|
+|[Atari 2600 & VCS - Manuals - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/2600 & VCS/Manuals/Educational/Atari 2600 & VCS - Manuals - Educational/Atari 2600 & VCS - Manuals - Educational (TOSEC-v2013-04-03_CM).dat)|2403|

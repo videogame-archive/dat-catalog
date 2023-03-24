@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple Macintosh - Magazines - Macworld UK.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/Macintosh/Magazines/Macworld UK/Apple Macintosh - Magazines - Macworld UK.dat)|12325|
+|[..](../index.html)|DIR|
+|[Apple Macintosh - Magazines - Macworld UK.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/Macintosh/Magazines/Macworld UK/Apple Macintosh - Magazines - Macworld UK/Apple Macintosh - Magazines - Macworld UK (TOSEC-v2012-04-12_CM).dat)|12325|

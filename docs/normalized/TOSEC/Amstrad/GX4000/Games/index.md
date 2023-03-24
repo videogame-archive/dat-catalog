@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Amstrad GX4000 - Games](Amstrad GX4000 - Games/index.html)|DIR|

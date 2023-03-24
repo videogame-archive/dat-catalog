@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Coleco ColecoVision ADAM - Compilations - [LBR].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Coleco/ColecoVision ADAM/Compilations/[LBR]/Coleco ColecoVision ADAM - Compilations - [LBR].dat)|1458|
+|[..](../index.html)|DIR|
+|[Coleco ColecoVision ADAM - Compilations - [LBR].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Coleco/ColecoVision ADAM/Compilations/[LBR]/Coleco ColecoVision ADAM - Compilations - [LBR]/Coleco ColecoVision ADAM - Compilations - [LBR] (TOSEC-v2011-08-31_CM).dat)|1458|

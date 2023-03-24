@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Kaypro II - Operating Systems - [TD0].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Kaypro/II/Operating Systems/[TD0]/Kaypro II - Operating Systems - [TD0].dat)|884|
+|[..](../index.html)|DIR|
+|[Kaypro II - Operating Systems - [TD0].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Kaypro/II/Operating Systems/[TD0]/Kaypro II - Operating Systems - [TD0]/Kaypro II - Operating Systems - [TD0] (TOSEC-v2012-02-27_CM).dat)|884|

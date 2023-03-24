@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Amiga/Catalogs/Commodore Amiga - Catalogs.dat)|1599|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Amiga/Catalogs/Commodore Amiga - Catalogs/Commodore Amiga - Catalogs (TOSEC-v2019-05-06_CM).dat)|1599|

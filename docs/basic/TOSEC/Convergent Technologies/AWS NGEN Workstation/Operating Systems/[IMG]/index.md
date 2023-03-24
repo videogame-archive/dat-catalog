@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Convergent Technologies/AWS NGEN Workstation/Operating Systems/[IMG]/Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG].dat)|4587|
+|[..](../index.html)|DIR|
+|[Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Convergent Technologies/AWS NGEN Workstation/Operating Systems/[IMG]/Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG]/Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG] (TOSEC-v2017-04-05_CM).dat)|4587|

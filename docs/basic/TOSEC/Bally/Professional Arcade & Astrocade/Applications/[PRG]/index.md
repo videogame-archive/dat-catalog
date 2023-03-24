@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bally Professional Arcade & Astrocade - Applications - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bally/Professional Arcade & Astrocade/Applications/[PRG]/Bally Professional Arcade & Astrocade - Applications - [PRG].dat)|63284|
+|[..](../index.html)|DIR|
+|[Bally Professional Arcade & Astrocade - Applications - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bally/Professional Arcade & Astrocade/Applications/[PRG]/Bally Professional Arcade & Astrocade - Applications - [PRG]/Bally Professional Arcade & Astrocade - Applications - [PRG] (TOSEC-v2017-09-03_CM).dat)|63284|

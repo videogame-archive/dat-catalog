@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Xerox 860 - Fonts.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Xerox/860/Fonts/Xerox 860 - Fonts.dat)|2090|
+|[..](../index.html)|DIR|
+|[Xerox 860 - Fonts.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Xerox/860/Fonts/Xerox 860 - Fonts/Xerox 860 - Fonts (TOSEC-v2017-04-05_CM).dat)|2090|

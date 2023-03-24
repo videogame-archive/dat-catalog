@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sony PlayStation Portable - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sony/PlayStation Portable/Manuals/Games/Sony PlayStation Portable - Manuals - Games.dat)|56916|
+|[..](../index.html)|DIR|
+|[Sony PlayStation Portable - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sony/PlayStation Portable/Manuals/Games/Sony PlayStation Portable - Manuals - Games/Sony PlayStation Portable - Manuals - Games (TOSEC-v2013-12-12_CM).dat)|56916|

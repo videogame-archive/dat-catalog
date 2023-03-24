@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Intec Interact - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Intec/Interact/Games/Intec Interact - Games.dat)|1029|
+|[..](../index.html)|DIR|
+|[Intec Interact - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Intec/Interact/Games/Intec Interact - Games/Intec Interact - Games (TOSEC-v2018-07-01_CM).dat)|1029|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Nintendo - Magazines - Nintendo Magazine System (AU)](Nintendo - Magazines - Nintendo Magazine System (AU)/index.html)|DIR|

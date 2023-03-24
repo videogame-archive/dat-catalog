@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PCjr - Applications - Files.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/PCjr/Applications/Files/IBM PCjr - Applications - Files.dat)|8006|
+|[..](../index.html)|DIR|
+|[IBM PCjr - Applications - Files.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PCjr/Applications/Files/IBM PCjr - Applications - Files/IBM PCjr - Applications - Files (TOSEC-v2014-04-10_CM).dat)|8006|

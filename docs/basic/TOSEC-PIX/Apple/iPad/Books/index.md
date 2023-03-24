@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple iPad - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/iPad/Books/Apple iPad - Books.dat)|4562|
+|[..](../index.html)|DIR|
+|[Apple iPad - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/iPad/Books/Apple iPad - Books/Apple iPad - Books (TOSEC-v2012-04-12_CM).dat)|4562|

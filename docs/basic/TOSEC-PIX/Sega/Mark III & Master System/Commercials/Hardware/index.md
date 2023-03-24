@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Mark III & Master System - Commercials - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Mark III & Master System/Commercials/Hardware/Sega Mark III & Master System - Commercials - Hardware.dat)|859|
+|[..](../index.html)|DIR|
+|[Sega Mark III & Master System - Commercials - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Mark III & Master System/Commercials/Hardware/Sega Mark III & Master System - Commercials - Hardware/Sega Mark III & Master System - Commercials - Hardware (TOSEC-v2022-12-21_CM).dat)|859|

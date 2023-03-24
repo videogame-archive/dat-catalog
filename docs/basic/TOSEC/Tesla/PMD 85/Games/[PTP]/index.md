@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tesla PMD 85 - Games - [PTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tesla/PMD 85/Games/[PTP]/Tesla PMD 85 - Games - [PTP].dat)|1155|
+|[..](../index.html)|DIR|
+|[Tesla PMD 85 - Games - [PTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tesla/PMD 85/Games/[PTP]/Tesla PMD 85 - Games - [PTP]/Tesla PMD 85 - Games - [PTP] (TOSEC-v2021-07-25_CM).dat)|1155|

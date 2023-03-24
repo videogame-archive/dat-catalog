@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sony PocketStation - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sony/PocketStation/Various/Sony PocketStation - Various.dat)|34620|
+|[..](../index.html)|DIR|
+|[Sony PocketStation - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sony/PocketStation/Various/Sony PocketStation - Various/Sony PocketStation - Various (TOSEC-v2014-05-29_CM).dat)|34620|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - CD - Applications - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Commodore/Amiga/CD/Applications/[ISO]/Commodore Amiga - CD - Applications - [ISO].dat)|39630|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - CD - Applications - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Commodore/Amiga/CD/Applications/[ISO]/Commodore Amiga - CD - Applications - [ISO]/Commodore Amiga - CD - Applications - [ISO] (TOSEC-v2019-09-07_CM).dat)|39630|

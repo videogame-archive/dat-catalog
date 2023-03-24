@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tandy Radio Shack TRS-80 Color Computer - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Tandy Radio Shack/TRS-80 Color Computer/Manuals/Games/Tandy Radio Shack TRS-80 Color Computer - Manuals - Games.dat)|83497|
+|[..](../index.html)|DIR|
+|[Tandy Radio Shack TRS-80 Color Computer - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Tandy Radio Shack/TRS-80 Color Computer/Manuals/Games/Tandy Radio Shack TRS-80 Color Computer - Manuals - Games/Tandy Radio Shack TRS-80 Color Computer - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|83497|

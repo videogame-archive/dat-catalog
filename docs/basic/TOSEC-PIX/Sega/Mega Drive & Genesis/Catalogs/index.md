@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Mega Drive & Genesis - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Mega Drive & Genesis/Catalogs/Sega Mega Drive & Genesis - Catalogs.dat)|2077|
+|[..](../index.html)|DIR|
+|[Sega Mega Drive & Genesis - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Mega Drive & Genesis/Catalogs/Sega Mega Drive & Genesis - Catalogs/Sega Mega Drive & Genesis - Catalogs (TOSEC-v2022-12-21_CM).dat)|2077|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Personal Computing Today.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Personal Computing Today/Multi-format - Magazines - Personal Computing Today.dat)|1049|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Personal Computing Today.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Personal Computing Today/Multi-format - Magazines - Personal Computing Today/Multi-format - Magazines - Personal Computing Today (TOSEC-v2012-12-25_CM).dat)|1049|

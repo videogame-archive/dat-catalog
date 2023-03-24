@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-8801 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/NEC/PC-8801/Demos/NEC PC-8801 - Demos.dat)|2553|
+|[..](../index.html)|DIR|
+|[NEC PC-8801 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/NEC/PC-8801/Demos/NEC PC-8801 - Demos/NEC PC-8801 - Demos (TOSEC-v2014-04-23_CM).dat)|2553|

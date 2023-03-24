@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore - Magazines - Commodore Computing International.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Magazines/Commodore Computing International/Commodore - Magazines - Commodore Computing International.dat)|12139|
+|[..](../index.html)|DIR|
+|[Commodore - Magazines - Commodore Computing International.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/Commodore Computing International/Commodore - Magazines - Commodore Computing International/Commodore - Magazines - Commodore Computing International (TOSEC-v2019-05-06_CM).dat)|12139|

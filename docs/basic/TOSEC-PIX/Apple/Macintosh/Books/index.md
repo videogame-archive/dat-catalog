@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple Macintosh - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/Macintosh/Books/Apple Macintosh - Books.dat)|12557|
+|[..](../index.html)|DIR|
+|[Apple Macintosh - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/Macintosh/Books/Apple Macintosh - Books/Apple Macintosh - Books (TOSEC-v2022-12-21_CM).dat)|12557|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NorthStar Horizon - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/NorthStar/Horizon/Compilations/Games/NorthStar Horizon - Compilations - Games.dat)|1092|
+|[..](../index.html)|DIR|
+|[NorthStar Horizon - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/NorthStar/Horizon/Compilations/Games/NorthStar Horizon - Compilations - Games/NorthStar Horizon - Compilations - Games (TOSEC-v2017-04-05_CM).dat)|1092|

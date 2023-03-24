@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Collections - Houston Area Apple Users Group.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Collections/Houston Area Apple Users Group/Apple II - Collections - Houston Area Apple Users Group.dat)|1624|
+|[..](../index.html)|DIR|
+|[Apple II - Collections - Houston Area Apple Users Group.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Collections/Houston Area Apple Users Group/Apple II - Collections - Houston Area Apple Users Group/Apple II - Collections - Houston Area Apple Users Group (TOSEC-v2021-12-11_CM).dat)|1624|

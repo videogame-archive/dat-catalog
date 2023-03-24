@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microkey Primo - Educational - [PTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Microkey/Primo/Educational/[PTP]/Microkey Primo - Educational - [PTP].dat)|13545|
+|[..](../index.html)|DIR|
+|[Microkey Primo - Educational - [PTP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Microkey/Primo/Educational/[PTP]/Microkey Primo - Educational - [PTP]/Microkey Primo - Educational - [PTP] (TOSEC-v2011-09-04_CM).dat)|13545|

@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[32X](32X/index.html)|DIR|
 |[Books](Books/index.html)|DIR|
 |[Computer 3000](Computer 3000/index.html)|DIR|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo GameCube - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/GameCube/Manuals/Games/Nintendo GameCube - Manuals - Games.dat)|20690|
+|[..](../index.html)|DIR|
+|[Nintendo GameCube - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/GameCube/Manuals/Games/Nintendo GameCube - Manuals - Games/Nintendo GameCube - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|20690|

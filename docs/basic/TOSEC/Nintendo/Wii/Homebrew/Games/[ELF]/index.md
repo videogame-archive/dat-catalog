@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Wii - Homebrew - Games - [ELF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/Wii/Homebrew/Games/[ELF]/Nintendo Wii - Homebrew - Games - [ELF].dat)|859|
+|[..](../index.html)|DIR|
+|[Nintendo Wii - Homebrew - Games - [ELF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/Wii/Homebrew/Games/[ELF]/Nintendo Wii - Homebrew - Games - [ELF]/Nintendo Wii - Homebrew - Games - [ELF] (TOSEC-v2022-06-08_CM).dat)|859|

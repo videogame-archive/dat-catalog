@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[3DO](3DO/index.html)|DIR|
 |[Acorn](Acorn/index.html)|DIR|
 |[American Laser Games](American Laser Games/index.html)|DIR|

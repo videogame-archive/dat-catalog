@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 5200 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/5200/Games/Atari 5200 - Games.dat)|92731|
+|[..](../index.html)|DIR|
+|[Atari 5200 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/5200/Games/Atari 5200 - Games/Atari 5200 - Games (TOSEC-v2022-12-21_CM).dat)|92731|

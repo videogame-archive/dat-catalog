@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Znews.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Znews/Multi-format - Magazines - Znews.dat)|3192|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Znews.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Znews/Multi-format - Magazines - Znews/Multi-format - Magazines - Znews (TOSEC-v2010-01-21_CM).dat)|3192|

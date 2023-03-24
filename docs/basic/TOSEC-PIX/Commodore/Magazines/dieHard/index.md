@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore - Magazines - dieHard.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Magazines/dieHard/Commodore - Magazines - dieHard.dat)|9800|
+|[..](../index.html)|DIR|
+|[Commodore - Magazines - dieHard.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/dieHard/Commodore - Magazines - dieHard/Commodore - Magazines - dieHard (TOSEC-v2010-01-16_CM).dat)|9800|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Jaguar - Demos - [COF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/Jaguar/Demos/[COF]/Atari Jaguar - Demos - [COF].dat)|1731|
+|[..](../index.html)|DIR|
+|[Atari Jaguar - Demos - [COF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Jaguar/Demos/[COF]/Atari Jaguar - Demos - [COF]/Atari Jaguar - Demos - [COF] (TOSEC-v2018-07-01_CM).dat)|1731|

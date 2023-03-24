@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Music - [SDA].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Music/[SDA]/Commodore C64 - Music - [SDA].dat)|3878|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Music - [SDA].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Music/[SDA]/Commodore C64 - Music - [SDA]/Commodore C64 - Music - [SDA] (TOSEC-v2020-08-08_CM).dat)|3878|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Texas Instruments Speak & Spell - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Texas Instruments/Speak & Spell/Manuals/Games/Texas Instruments Speak & Spell - Manuals - Games.dat)|898|
+|[..](../index.html)|DIR|
+|[Texas Instruments Speak & Spell - Manuals - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Texas Instruments/Speak & Spell/Manuals/Games/Texas Instruments Speak & Spell - Manuals - Games/Texas Instruments Speak & Spell - Manuals - Games (TOSEC-v2022-12-21_CM).dat)|898|

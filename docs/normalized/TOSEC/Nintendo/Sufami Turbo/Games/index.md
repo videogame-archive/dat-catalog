@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Nintendo Sufami Turbo - Games](Nintendo Sufami Turbo - Games/index.html)|DIR|

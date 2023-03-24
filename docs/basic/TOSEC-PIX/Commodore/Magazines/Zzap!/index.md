@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore - Magazines - Zzap!.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Magazines/Zzap!/Commodore - Magazines - Zzap!.dat)|37481|
+|[..](../index.html)|DIR|
+|[Commodore - Magazines - Zzap!.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/Zzap!/Commodore - Magazines - Zzap!/Commodore - Magazines - Zzap! (TOSEC-v2010-01-16_CM).dat)|37481|

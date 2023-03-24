@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX2 - Demos - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX2/Demos/[DSK]/MSX MSX2 - Demos - [DSK].dat)|32134|
+|[..](../index.html)|DIR|
+|[MSX MSX2 - Demos - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX2/Demos/[DSK]/MSX MSX2 - Demos - [DSK]/MSX MSX2 - Demos - [DSK] (TOSEC-v2022-06-08_CM).dat)|32134|

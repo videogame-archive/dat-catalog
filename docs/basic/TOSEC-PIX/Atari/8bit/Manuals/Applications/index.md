@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 8bit - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/8bit/Manuals/Applications/Atari 8bit - Manuals - Applications.dat)|4372|
+|[..](../index.html)|DIR|
+|[Atari 8bit - Manuals - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/8bit/Manuals/Applications/Atari 8bit - Manuals - Applications/Atari 8bit - Manuals - Applications (TOSEC-v2019-04-25_CM).dat)|4372|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Xerox 1186 - Fonts.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Xerox/1186/Fonts/Xerox 1186 - Fonts.dat)|18967|
+|[..](../index.html)|DIR|
+|[Xerox 1186 - Fonts.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Xerox/1186/Fonts/Xerox 1186 - Fonts/Xerox 1186 - Fonts (TOSEC-v2017-04-05_CM).dat)|18967|

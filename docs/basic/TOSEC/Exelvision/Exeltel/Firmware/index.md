@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exelvision Exeltel - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Exelvision/Exeltel/Firmware/Exelvision Exeltel - Firmware.dat)|1391|
+|[..](../index.html)|DIR|
+|[Exelvision Exeltel - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exelvision/Exeltel/Firmware/Exelvision Exeltel - Firmware/Exelvision Exeltel - Firmware (TOSEC-v2014-01-24_CM).dat)|1391|

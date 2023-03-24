@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Collections - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/Amiga/Collections/Various/Commodore Amiga - Collections - Various.dat)|42449|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Collections - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/Amiga/Collections/Various/Commodore Amiga - Collections - Various/Commodore Amiga - Collections - Various (TOSEC-v2021-06-02_CM).dat)|42449|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bandai WonderSwan Color - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bandai/WonderSwan Color/Firmware/Bandai WonderSwan Color - Firmware.dat)|872|
+|[..](../index.html)|DIR|
+|[Bandai WonderSwan Color - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bandai/WonderSwan Color/Firmware/Bandai WonderSwan Color - Firmware/Bandai WonderSwan Color - Firmware (TOSEC-v2021-07-25_CM).dat)|872|

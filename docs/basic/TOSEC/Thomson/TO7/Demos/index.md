@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Thomson TO7 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/TO7/Demos/Thomson TO7 - Demos.dat)|1717|
+|[..](../index.html)|DIR|
+|[Thomson TO7 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Thomson/TO7/Demos/Thomson TO7 - Demos/Thomson TO7 - Demos (TOSEC-v2012-08-27_CM).dat)|1717|

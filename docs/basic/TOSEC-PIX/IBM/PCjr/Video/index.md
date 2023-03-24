@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PCjr - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PCjr/Video/IBM PCjr - Video.dat)|815|
+|[..](../index.html)|DIR|
+|[IBM PCjr - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/IBM/PCjr/Video/IBM PCjr - Video/IBM PCjr - Video (TOSEC-v2017-08-27_CM).dat)|815|

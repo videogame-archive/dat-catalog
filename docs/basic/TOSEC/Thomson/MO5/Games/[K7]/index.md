@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Thomson MO5 - Games - [K7].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/MO5/Games/[K7]/Thomson MO5 - Games - [K7].dat)|203378|
+|[..](../index.html)|DIR|
+|[Thomson MO5 - Games - [K7].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Thomson/MO5/Games/[K7]/Thomson MO5 - Games - [K7]/Thomson MO5 - Games - [K7] (TOSEC-v2021-07-25_CM).dat)|203378|

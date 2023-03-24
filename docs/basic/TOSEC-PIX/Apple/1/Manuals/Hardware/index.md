@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple 1 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/1/Manuals/Hardware/Apple 1 - Manuals - Hardware.dat)|2207|
+|[..](../index.html)|DIR|
+|[Apple 1 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/1/Manuals/Hardware/Apple 1 - Manuals - Hardware/Apple 1 - Manuals - Hardware (TOSEC-v2012-02-26_CM).dat)|2207|

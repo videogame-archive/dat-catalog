@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[VTech Genius Junior Movie - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/VTech/Genius Junior Movie/Educational/VTech Genius Junior Movie - Educational.dat)|850|
+|[..](../index.html)|DIR|
+|[VTech Genius Junior Movie - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/VTech/Genius Junior Movie/Educational/VTech Genius Junior Movie - Educational/VTech Genius Junior Movie - Educational (TOSEC-v2018-07-01_CM).dat)|850|

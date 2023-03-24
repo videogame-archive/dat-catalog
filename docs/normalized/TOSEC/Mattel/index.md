@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Aquarius](Aquarius/index.html)|DIR|
 |[Intellivision](Intellivision/index.html)|DIR|
 |[Intellivision ECS](Intellivision ECS/index.html)|DIR|

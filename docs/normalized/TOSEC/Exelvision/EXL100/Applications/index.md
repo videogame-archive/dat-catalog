@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[FD]]([FD]/index.html)|DIR|
 |[[K7]]([K7]/index.html)|DIR|
 |[[ROM]]([ROM]/index.html)|DIR|

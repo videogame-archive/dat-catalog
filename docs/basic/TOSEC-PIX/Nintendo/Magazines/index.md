@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Club Nintendo (DE)](Club Nintendo (DE)/index.html)|DIR|
 |[Club Nintendo (GB)](Club Nintendo (GB)/index.html)|DIR|
 |[Club Nintendo (NL)](Club Nintendo (NL)/index.html)|DIR|

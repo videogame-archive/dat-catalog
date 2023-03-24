@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Games - Emerald Mine.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/Amiga/Games/Emerald Mine/Commodore Amiga - Games - Emerald Mine.dat)|198913|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Games - Emerald Mine.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/Amiga/Games/Emerald Mine/Commodore Amiga - Games - Emerald Mine/Commodore Amiga - Games - Emerald Mine (TOSEC-v2020-11-07_CM).dat)|198913|

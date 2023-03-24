@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[GCE Vectrex - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/GCE/Vectrex/Manuals/Technical/GCE Vectrex - Manuals - Technical.dat)|2074|
+|[..](../index.html)|DIR|
+|[GCE Vectrex - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/GCE/Vectrex/Manuals/Technical/GCE Vectrex - Manuals - Technical/GCE Vectrex - Manuals - Technical (TOSEC-v2022-12-21_CM).dat)|2074|

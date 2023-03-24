@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Altos Computer Systems Series 5 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Altos Computer Systems/Series 5/Firmware/Altos Computer Systems Series 5 - Firmware.dat)|1288|
+|[..](../index.html)|DIR|
+|[Altos Computer Systems Series 5 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Altos Computer Systems/Series 5/Firmware/Altos Computer Systems Series 5 - Firmware/Altos Computer Systems Series 5 - Firmware (TOSEC-v2017-04-12_CM).dat)|1288|

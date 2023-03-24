@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NCR Decision Mate V - Games - [COM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/NCR/Decision Mate V/Games/[COM]/NCR Decision Mate V - Games - [COM].dat)|1166|
+|[..](../index.html)|DIR|
+|[NCR Decision Mate V - Games - [COM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/NCR/Decision Mate V/Games/[COM]/NCR Decision Mate V - Games - [COM]/NCR Decision Mate V - Games - [COM] (TOSEC-v2021-07-25_CM).dat)|1166|

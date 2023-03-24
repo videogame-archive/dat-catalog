@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Super Famicom & Super Entertainment System - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/Super Famicom & Super Entertainment System/Educational/Nintendo Super Famicom & Super Entertainment System - Educational.dat)|2827|
+|[..](../index.html)|DIR|
+|[Nintendo Super Famicom & Super Entertainment System - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/Super Famicom & Super Entertainment System/Educational/Nintendo Super Famicom & Super Entertainment System - Educational/Nintendo Super Famicom & Super Entertainment System - Educational (TOSEC-v2011-08-13_CM).dat)|2827|

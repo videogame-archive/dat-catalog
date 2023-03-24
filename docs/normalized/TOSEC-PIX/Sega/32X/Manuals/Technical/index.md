@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Sega 32X - Manuals - Technical](Sega 32X - Manuals - Technical/index.html)|DIR|

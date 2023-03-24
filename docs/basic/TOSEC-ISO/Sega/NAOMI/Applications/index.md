@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega NAOMI - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Sega/NAOMI/Applications/Sega NAOMI - Applications.dat)|2280|
+|[..](../index.html)|DIR|
+|[Sega NAOMI - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Sega/NAOMI/Applications/Sega NAOMI - Applications/Sega NAOMI - Applications (TOSEC-v2022-12-20_CM).dat)|2280|

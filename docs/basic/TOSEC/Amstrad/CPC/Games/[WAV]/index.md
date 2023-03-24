@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad CPC - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Amstrad/CPC/Games/[WAV]/Amstrad CPC - Games - [WAV].dat)|2619|
+|[..](../index.html)|DIR|
+|[Amstrad CPC - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Amstrad/CPC/Games/[WAV]/Amstrad CPC - Games - [WAV]/Amstrad CPC - Games - [WAV] (TOSEC-v2022-12-21_CM).dat)|2619|

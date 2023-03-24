@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Misc - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Misc/[PRG]/Commodore C64 - Games - Misc - [PRG].dat)|845436|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Misc - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Misc/[PRG]/Commodore C64 - Games - Misc - [PRG]/Commodore C64 - Games - Misc - [PRG] (TOSEC-v2022-12-25_CM).dat)|845436|

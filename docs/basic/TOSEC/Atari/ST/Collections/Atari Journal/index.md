@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari ST - Collections - Atari Journal.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/ST/Collections/Atari Journal/Atari ST - Collections - Atari Journal.dat)|107529|
+|[..](../index.html)|DIR|
+|[Atari ST - Collections - Atari Journal.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/ST/Collections/Atari Journal/Atari ST - Collections - Atari Journal/Atari ST - Collections - Atari Journal (TOSEC-v2013-12-13_CM).dat)|107529|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Games - [PO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Games/[PO]/Apple II - Games - [PO].dat)|115572|
+|[..](../index.html)|DIR|
+|[Apple II - Games - [PO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Games/[PO]/Apple II - Games - [PO]/Apple II - Games - [PO] (TOSEC-v2022-12-21_CM).dat)|115572|

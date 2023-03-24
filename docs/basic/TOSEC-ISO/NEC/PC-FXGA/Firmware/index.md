@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-FXGA - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/NEC/PC-FXGA/Firmware/NEC PC-FXGA - Firmware.dat)|1118|
+|[..](../index.html)|DIR|
+|[NEC PC-FXGA - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/NEC/PC-FXGA/Firmware/NEC PC-FXGA - Firmware/NEC PC-FXGA - Firmware (TOSEC-v2012-07-13_CM).dat)|1118|

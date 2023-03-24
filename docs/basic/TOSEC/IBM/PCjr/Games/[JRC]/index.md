@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PCjr - Games - [JRC].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/PCjr/Games/[JRC]/IBM PCjr - Games - [JRC].dat)|2862|
+|[..](../index.html)|DIR|
+|[IBM PCjr - Games - [JRC].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PCjr/Games/[JRC]/IBM PCjr - Games - [JRC]/IBM PCjr - Games - [JRC] (TOSEC-v2011-01-02_CM).dat)|2862|

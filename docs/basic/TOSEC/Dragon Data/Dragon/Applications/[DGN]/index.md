@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Dragon Data Dragon - Applications - [DGN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Dragon Data/Dragon/Applications/[DGN]/Dragon Data Dragon - Applications - [DGN].dat)|1498|
+|[..](../index.html)|DIR|
+|[Dragon Data Dragon - Applications - [DGN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Dragon Data/Dragon/Applications/[DGN]/Dragon Data Dragon - Applications - [DGN]/Dragon Data Dragon - Applications - [DGN] (TOSEC-v2014-01-23_CM).dat)|1498|

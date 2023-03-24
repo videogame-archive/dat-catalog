@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tandy Radio Shack TRS-80 Color Computer - Educational - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tandy Radio Shack/TRS-80 Color Computer/Educational/[DSK]/Tandy Radio Shack TRS-80 Color Computer - Educational - [DSK].dat)|1795|
+|[..](../index.html)|DIR|
+|[Tandy Radio Shack TRS-80 Color Computer - Educational - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tandy Radio Shack/TRS-80 Color Computer/Educational/[DSK]/Tandy Radio Shack TRS-80 Color Computer - Educational - [DSK]/Tandy Radio Shack TRS-80 Color Computer - Educational - [DSK] (TOSEC-v2011-01-01_CM).dat)|1795|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Switch - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Switch/Artwork/Games/Nintendo Switch - Artwork - Games.dat)|4305|
+|[..](../index.html)|DIR|
+|[Nintendo Switch - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Switch/Artwork/Games/Nintendo Switch - Artwork - Games/Nintendo Switch - Artwork - Games (TOSEC-v2022-12-21_CM).dat)|4305|

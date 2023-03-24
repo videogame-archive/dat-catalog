@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple III - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/III/Catalogs/Apple III - Catalogs.dat)|847|
+|[..](../index.html)|DIR|
+|[Apple III - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/III/Catalogs/Apple III - Catalogs/Apple III - Catalogs (TOSEC-v2012-04-12_CM).dat)|847|

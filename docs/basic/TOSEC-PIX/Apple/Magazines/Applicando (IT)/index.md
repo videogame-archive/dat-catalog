@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple - Magazines - Applicando (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/Magazines/Applicando (IT)/Apple - Magazines - Applicando (IT).dat)|6234|
+|[..](../index.html)|DIR|
+|[Apple - Magazines - Applicando (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/Magazines/Applicando (IT)/Apple - Magazines - Applicando (IT)/Apple - Magazines - Applicando (IT) (TOSEC-v2019-04-22_CM).dat)|6234|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Magnavox Odyssey2 - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Magnavox/Odyssey2/Catalogs/Magnavox Odyssey2 - Catalogs.dat)|3150|
+|[..](../index.html)|DIR|
+|[Magnavox Odyssey2 - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Magnavox/Odyssey2/Catalogs/Magnavox Odyssey2 - Catalogs/Magnavox Odyssey2 - Catalogs (TOSEC-v2022-12-21_CM).dat)|3150|

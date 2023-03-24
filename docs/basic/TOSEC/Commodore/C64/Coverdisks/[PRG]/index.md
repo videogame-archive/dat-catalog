@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Coverdisks - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Coverdisks/[PRG]/Commodore C64 - Coverdisks - [PRG].dat)|2893|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Coverdisks - [PRG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Coverdisks/[PRG]/Commodore C64 - Coverdisks - [PRG]/Commodore C64 - Coverdisks - [PRG] (TOSEC-v2020-01-25_CM).dat)|2893|

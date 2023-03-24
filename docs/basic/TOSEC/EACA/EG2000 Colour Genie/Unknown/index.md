@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[EACA EG2000 Colour Genie - Unknown.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/EACA/EG2000 Colour Genie/Unknown/EACA EG2000 Colour Genie - Unknown.dat)|1850|
+|[..](../index.html)|DIR|
+|[EACA EG2000 Colour Genie - Unknown.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/EACA/EG2000 Colour Genie/Unknown/EACA EG2000 Colour Genie - Unknown/EACA EG2000 Colour Genie - Unknown (TOSEC-v2020-10-26_CM).dat)|1850|

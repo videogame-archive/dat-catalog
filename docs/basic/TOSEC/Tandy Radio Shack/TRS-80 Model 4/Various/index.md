@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tandy Radio Shack TRS-80 Model 4 - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tandy Radio Shack/TRS-80 Model 4/Various/Tandy Radio Shack TRS-80 Model 4 - Various.dat)|1905938|
+|[..](../index.html)|DIR|
+|[Tandy Radio Shack TRS-80 Model 4 - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tandy Radio Shack/TRS-80 Model 4/Various/Tandy Radio Shack TRS-80 Model 4 - Various/Tandy Radio Shack TRS-80 Model 4 - Various (TOSEC-v2014-06-27_CM).dat)|1905938|

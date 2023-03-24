@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Fruit Machine Layouts - Amber (20141207).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/Fruit Machines/FruitMachines-20220101/Fruit Machine Layouts - Amber (20141207).dat)|16712|
 |[Fruit Machine Layouts - BFMulator (20110808).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/Fruit Machines/FruitMachines-20220101/Fruit Machine Layouts - BFMulator (20110808).dat)|5553493|
 |[Fruit Machine Layouts - JPeMu (20080525).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/PleasureDome/Fruit Machines/FruitMachines-20220101/Fruit Machine Layouts - JPeMu (20080525).dat)|140833|

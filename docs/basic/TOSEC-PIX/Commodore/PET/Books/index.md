@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore PET - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/PET/Books/Commodore PET - Books.dat)|5861|
+|[..](../index.html)|DIR|
+|[Commodore PET - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/PET/Books/Commodore PET - Books/Commodore PET - Books (TOSEC-v2012-04-13_CM).dat)|5861|

@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Input MSX (ES)](Input MSX (ES)/index.html)|DIR|
 |[MSX Club (ES)](MSX Club (ES)/index.html)|DIR|
 |[MSX Computer Magazine (NL)](MSX Computer Magazine (NL)/index.html)|DIR|

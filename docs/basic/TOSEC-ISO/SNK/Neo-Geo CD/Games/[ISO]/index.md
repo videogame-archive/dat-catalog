@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[SNK Neo-Geo CD - Games - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/SNK/Neo-Geo CD/Games/[ISO]/SNK Neo-Geo CD - Games - [ISO].dat)|649236|
+|[..](../index.html)|DIR|
+|[SNK Neo-Geo CD - Games - [ISO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/SNK/Neo-Geo CD/Games/[ISO]/SNK Neo-Geo CD - Games - [ISO]/SNK Neo-Geo CD - Games - [ISO] (TOSEC-v2022-06-08_CM).dat)|649236|

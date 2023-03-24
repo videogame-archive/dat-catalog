@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Technosys Aamber Pegasus - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Technosys/Aamber Pegasus/Applications/Technosys Aamber Pegasus - Applications.dat)|12917|
+|[..](../index.html)|DIR|
+|[Technosys Aamber Pegasus - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Technosys/Aamber Pegasus/Applications/Technosys Aamber Pegasus - Applications/Technosys Aamber Pegasus - Applications (TOSEC-v2014-01-18_CM).dat)|12917|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Graphics - [DO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Graphics/[DO]/Apple II - Graphics - [DO].dat)|2315|
+|[..](../index.html)|DIR|
+|[Apple II - Graphics - [DO].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Graphics/[DO]/Apple II - Graphics - [DO]/Apple II - Graphics - [DO] (TOSEC-v2020-07-12_CM).dat)|2315|

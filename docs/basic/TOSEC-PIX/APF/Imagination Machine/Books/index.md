@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[APF Imagination Machine - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/APF/Imagination Machine/Books/APF Imagination Machine - Books.dat)|846|
+|[..](../index.html)|DIR|
+|[APF Imagination Machine - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/APF/Imagination Machine/Books/APF Imagination Machine - Books/APF Imagination Machine - Books (TOSEC-v2013-11-07_CM).dat)|846|

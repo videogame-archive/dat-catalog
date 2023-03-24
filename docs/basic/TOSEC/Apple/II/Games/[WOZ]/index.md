@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Games - [WOZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Games/[WOZ]/Apple II - Games - [WOZ].dat)|647406|
+|[..](../index.html)|DIR|
+|[Apple II - Games - [WOZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Games/[WOZ]/Apple II - Games - [WOZ]/Apple II - Games - [WOZ] (TOSEC-v2022-12-21_CM).dat)|647406|

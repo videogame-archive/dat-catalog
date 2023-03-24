@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exidy Sorcerer - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Exidy/Sorcerer/Catalogs/Exidy Sorcerer - Catalogs.dat)|1126|
+|[..](../index.html)|DIR|
+|[Exidy Sorcerer - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Exidy/Sorcerer/Catalogs/Exidy Sorcerer - Catalogs/Exidy Sorcerer - Catalogs (TOSEC-v2010-01-02_CM).dat)|1126|

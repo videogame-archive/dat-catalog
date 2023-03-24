@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Atari - Comics - Atari Force (TOSEC-v2011-01-09_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/Comics/Atari Force/Atari - Comics - Atari Force/Atari - Comics - Atari Force (TOSEC-v2011-01-09_CM).dat)|9392|

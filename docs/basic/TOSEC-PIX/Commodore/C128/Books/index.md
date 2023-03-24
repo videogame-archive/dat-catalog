@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C128 - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/C128/Books/Commodore C128 - Books.dat)|3508|
+|[..](../index.html)|DIR|
+|[Commodore C128 - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/C128/Books/Commodore C128 - Books/Commodore C128 - Books (TOSEC-v2022-12-21_CM).dat)|3508|

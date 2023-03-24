@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Games/[WAV]/Apple II - Games - [WAV].dat)|59894|
+|[..](../index.html)|DIR|
+|[Apple II - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Games/[WAV]/Apple II - Games - [WAV]/Apple II - Games - [WAV] (TOSEC-v2022-12-21_CM).dat)|59894|

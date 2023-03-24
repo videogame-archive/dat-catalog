@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX - Demos - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX/Demos/[CAS]/MSX MSX - Demos - [CAS].dat)|1225|
+|[..](../index.html)|DIR|
+|[MSX MSX - Demos - [CAS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX/Demos/[CAS]/MSX MSX - Demos - [CAS]/MSX MSX - Demos - [CAS] (TOSEC-v2012-04-15_CM).dat)|1225|

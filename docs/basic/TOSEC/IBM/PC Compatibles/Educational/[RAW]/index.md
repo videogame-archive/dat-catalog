@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Educational - [RAW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/PC Compatibles/Educational/[RAW]/IBM PC Compatibles - Educational - [RAW].dat)|429471|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Educational - [RAW].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PC Compatibles/Educational/[RAW]/IBM PC Compatibles - Educational - [RAW]/IBM PC Compatibles - Educational - [RAW] (TOSEC-v2022-12-21_CM).dat)|429471|

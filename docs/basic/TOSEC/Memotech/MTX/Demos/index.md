@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Memotech MTX - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Memotech/MTX/Demos/Memotech MTX - Demos.dat)|1675|
+|[..](../index.html)|DIR|
+|[Memotech MTX - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Memotech/MTX/Demos/Memotech MTX - Demos/Memotech MTX - Demos (TOSEC-v2011-08-12_CM).dat)|1675|

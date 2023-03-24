@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX Spectrum - Compilations - Demos - [$B].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Compilations/Demos/[$B]/Sinclair ZX Spectrum - Compilations - Demos - [$B].dat)|2104|
+|[..](../index.html)|DIR|
+|[Sinclair ZX Spectrum - Compilations - Demos - [$B].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Compilations/Demos/[$B]/Sinclair ZX Spectrum - Compilations - Demos - [$B]/Sinclair ZX Spectrum - Compilations - Demos - [$B] (TOSEC-v2011-09-24_CM).dat)|2104|

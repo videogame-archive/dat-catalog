@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C128 - Operating Systems - GEOS - [Z64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C128/Operating Systems/GEOS/[Z64]/Commodore C128 - Operating Systems - GEOS - [Z64].dat)|1333|
+|[..](../index.html)|DIR|
+|[Commodore C128 - Operating Systems - GEOS - [Z64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C128/Operating Systems/GEOS/[Z64]/Commodore C128 - Operating Systems - GEOS - [Z64]/Commodore C128 - Operating Systems - GEOS - [Z64] (TOSEC-v2020-07-02_CM).dat)|1333|

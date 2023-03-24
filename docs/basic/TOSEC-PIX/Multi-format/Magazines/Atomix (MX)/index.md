@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Atomix (MX).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Atomix (MX)/Multi-format - Magazines - Atomix (MX).dat)|1265|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Atomix (MX).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Atomix (MX)/Multi-format - Magazines - Atomix (MX)/Multi-format - Magazines - Atomix (MX) (TOSEC-v2010-01-23_CM).dat)|1265|

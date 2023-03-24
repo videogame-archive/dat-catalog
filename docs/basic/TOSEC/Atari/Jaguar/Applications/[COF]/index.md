@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Jaguar - Applications - [COF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/Jaguar/Applications/[COF]/Atari Jaguar - Applications - [COF].dat)|870|
+|[..](../index.html)|DIR|
+|[Atari Jaguar - Applications - [COF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Jaguar/Applications/[COF]/Atari Jaguar - Applications - [COF]/Atari Jaguar - Applications - [COF] (TOSEC-v2018-07-01_CM).dat)|870|

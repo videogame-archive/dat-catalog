@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Coleco ColecoVision ADAM - Operating Systems - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Coleco/ColecoVision ADAM/Operating Systems/[DSK]/Coleco ColecoVision ADAM - Operating Systems - [DSK].dat)|2378|
+|[..](../index.html)|DIR|
+|[Coleco ColecoVision ADAM - Operating Systems - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Coleco/ColecoVision ADAM/Operating Systems/[DSK]/Coleco ColecoVision ADAM - Operating Systems - [DSK]/Coleco ColecoVision ADAM - Operating Systems - [DSK] (TOSEC-v2011-08-31_CM).dat)|2378|

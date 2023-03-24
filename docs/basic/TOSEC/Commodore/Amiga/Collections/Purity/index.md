@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Collections - Purity.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/Amiga/Collections/Purity/Commodore Amiga - Collections - Purity.dat)|17597|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Collections - Purity.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/Amiga/Collections/Purity/Commodore Amiga - Collections - Purity/Commodore Amiga - Collections - Purity (TOSEC-v2021-09-27_CM).dat)|17597|

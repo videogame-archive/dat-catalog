@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple 1 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/1/Games/Apple 1 - Games.dat)|1681|
+|[..](../index.html)|DIR|
+|[Apple 1 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/1/Games/Apple 1 - Games/Apple 1 - Games (TOSEC-v2011-08-31_CM).dat)|1681|

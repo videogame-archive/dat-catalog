@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Galaksija Galaksija - Games - [GAL].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Galaksija/Galaksija/Games/[GAL]/Galaksija Galaksija - Games - [GAL].dat)|1805|
+|[..](../index.html)|DIR|
+|[Galaksija Galaksija - Games - [GAL].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Galaksija/Galaksija/Games/[GAL]/Galaksija Galaksija - Games - [GAL]/Galaksija Galaksija - Games - [GAL] (TOSEC-v2014-01-24_CM).dat)|1805|

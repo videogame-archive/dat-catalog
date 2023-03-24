@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[CCE MC-1000 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/CCE/MC-1000/Games/CCE MC-1000 - Games.dat)|11749|
+|[..](../index.html)|DIR|
+|[CCE MC-1000 - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/CCE/MC-1000/Games/CCE MC-1000 - Games/CCE MC-1000 - Games (TOSEC-v2021-07-25_CM).dat)|11749|

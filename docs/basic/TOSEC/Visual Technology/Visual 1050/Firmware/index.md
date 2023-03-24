@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Visual Technology Visual 1050 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Visual Technology/Visual 1050/Firmware/Visual Technology Visual 1050 - Firmware.dat)|1238|
+|[..](../index.html)|DIR|
+|[Visual Technology Visual 1050 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Visual Technology/Visual 1050/Firmware/Visual Technology Visual 1050 - Firmware/Visual Technology Visual 1050 - Firmware (TOSEC-v2014-07-30_CM).dat)|1238|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Megatel Quark - System - [IMD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Megatel/Quark/System/[IMD]/Megatel Quark - System - [IMD].dat)|987|
+|[..](../index.html)|DIR|
+|[Megatel Quark - System - [IMD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Megatel/Quark/System/[IMD]/Megatel Quark - System - [IMD]/Megatel Quark - System - [IMD] (TOSEC-v2017-04-05_CM).dat)|987|

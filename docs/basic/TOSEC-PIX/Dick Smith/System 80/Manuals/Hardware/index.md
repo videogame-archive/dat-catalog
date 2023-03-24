@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Dick Smith System 80 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Dick Smith/System 80/Manuals/Hardware/Dick Smith System 80 - Manuals - Hardware.dat)|3610|
+|[..](../index.html)|DIR|
+|[Dick Smith System 80 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Dick Smith/System 80/Manuals/Hardware/Dick Smith System 80 - Manuals - Hardware/Dick Smith System 80 - Manuals - Hardware (TOSEC-v2011-02-20_CM).dat)|3610|

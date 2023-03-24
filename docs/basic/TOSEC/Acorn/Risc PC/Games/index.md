@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Risc PC - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/Risc PC/Games/Acorn Risc PC - Games.dat)|256128|
+|[..](../index.html)|DIR|
+|[Acorn Risc PC - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/Risc PC/Games/Acorn Risc PC - Games/Acorn Risc PC - Games (TOSEC-v2022-12-21_CM).dat)|256128|

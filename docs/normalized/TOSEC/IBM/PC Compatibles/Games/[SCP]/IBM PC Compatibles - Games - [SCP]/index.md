@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[IBM PC Compatibles - Games - [SCP] (TOSEC-v2022-12-21_CM).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PC Compatibles/Games/[SCP]/IBM PC Compatibles - Games - [SCP]/IBM PC Compatibles - Games - [SCP] (TOSEC-v2022-12-21_CM).dat)|12032|

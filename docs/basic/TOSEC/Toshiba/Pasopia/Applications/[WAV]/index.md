@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Toshiba Pasopia - Applications - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Toshiba/Pasopia/Applications/[WAV]/Toshiba Pasopia - Applications - [WAV].dat)|935|
+|[..](../index.html)|DIR|
+|[Toshiba Pasopia - Applications - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Toshiba/Pasopia/Applications/[WAV]/Toshiba Pasopia - Applications - [WAV]/Toshiba Pasopia - Applications - [WAV] (TOSEC-v2019-12-18_CM).dat)|935|

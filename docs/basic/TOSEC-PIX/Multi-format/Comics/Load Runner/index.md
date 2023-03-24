@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Comics - Load Runner.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Comics/Load Runner/Multi-format - Comics - Load Runner.dat)|1710|
+|[..](../index.html)|DIR|
+|[Multi-format - Comics - Load Runner.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Comics/Load Runner/Multi-format - Comics - Load Runner/Multi-format - Comics - Load Runner (TOSEC-v2017-07-28_CM).dat)|1710|

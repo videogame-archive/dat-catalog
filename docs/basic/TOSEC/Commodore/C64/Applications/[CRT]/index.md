@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Applications - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Applications/[CRT]/Commodore C64 - Applications - [CRT].dat)|89858|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Applications - [CRT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Applications/[CRT]/Commodore C64 - Applications - [CRT]/Commodore C64 - Applications - [CRT] (TOSEC-v2021-11-03_CM).dat)|89858|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Shoot'em Up - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Shoot'em Up/[NBZ]/Commodore C64 - Games - Shoot'em Up - [NBZ].dat)|22506|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Shoot'em Up - [NBZ].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Shoot'em Up/[NBZ]/Commodore C64 - Games - Shoot'em Up - [NBZ]/Commodore C64 - Games - Shoot'em Up - [NBZ] (TOSEC-v2022-12-22_CM).dat)|22506|

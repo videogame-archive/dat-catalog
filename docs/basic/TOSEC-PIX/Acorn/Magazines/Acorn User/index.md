@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn - Magazines - Acorn User.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Acorn/Magazines/Acorn User/Acorn - Magazines - Acorn User.dat)|14277|
+|[..](../index.html)|DIR|
+|[Acorn - Magazines - Acorn User.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Acorn/Magazines/Acorn User/Acorn - Magazines - Acorn User/Acorn - Magazines - Acorn User (TOSEC-v2013-04-03_CM).dat)|14277|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[ETL Mark IV A - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/ETL/Mark IV A/Applications/ETL Mark IV A - Applications.dat)|1377|
+|[..](../index.html)|DIR|
+|[ETL Mark IV A - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/ETL/Mark IV A/Applications/ETL Mark IV A - Applications/ETL Mark IV A - Applications (TOSEC-v2014-01-24_CM).dat)|1377|

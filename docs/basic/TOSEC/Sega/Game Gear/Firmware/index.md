@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Game Gear - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Game Gear/Firmware/Sega Game Gear - Firmware.dat)|815|
+|[..](../index.html)|DIR|
+|[Sega Game Gear - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Game Gear/Firmware/Sega Game Gear - Firmware/Sega Game Gear - Firmware (TOSEC-v2011-12-19_CM).dat)|815|

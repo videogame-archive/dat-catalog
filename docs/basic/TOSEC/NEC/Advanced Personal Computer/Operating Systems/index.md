@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC Advanced Personal Computer - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/NEC/Advanced Personal Computer/Operating Systems/NEC Advanced Personal Computer - Operating Systems.dat)|6260|
+|[..](../index.html)|DIR|
+|[NEC Advanced Personal Computer - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/NEC/Advanced Personal Computer/Operating Systems/NEC Advanced Personal Computer - Operating Systems/NEC Advanced Personal Computer - Operating Systems (TOSEC-v2018-03-08_CM).dat)|6260|

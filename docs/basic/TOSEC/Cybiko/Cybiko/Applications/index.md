@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Cybiko Cybiko - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Cybiko/Cybiko/Applications/Cybiko Cybiko - Applications.dat)|20957|
+|[..](../index.html)|DIR|
+|[Cybiko Cybiko - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Cybiko/Cybiko/Applications/Cybiko Cybiko - Applications/Cybiko Cybiko - Applications (TOSEC-v2014-01-07_CM).dat)|20957|

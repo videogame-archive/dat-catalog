@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Philips CD-i - Coverdiscs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Philips/CD-i/Coverdiscs/Philips CD-i - Coverdiscs.dat)|2285|
+|[..](../index.html)|DIR|
+|[Philips CD-i - Coverdiscs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Philips/CD-i/Coverdiscs/Philips CD-i - Coverdiscs/Philips CD-i - Coverdiscs (TOSEC-v2012-07-13_CM).dat)|2285|

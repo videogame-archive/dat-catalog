@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore Amiga - Compilations - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/Amiga/Compilations/Applications/Commodore Amiga - Compilations - Applications.dat)|601432|
+|[..](../index.html)|DIR|
+|[Commodore Amiga - Compilations - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/Amiga/Compilations/Applications/Commodore Amiga - Compilations - Applications/Commodore Amiga - Compilations - Applications (TOSEC-v2021-07-31_CM).dat)|601432|

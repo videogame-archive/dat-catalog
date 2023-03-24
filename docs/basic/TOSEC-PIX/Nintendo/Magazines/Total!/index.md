@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo - Magazines - Total!.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Magazines/Total!/Nintendo - Magazines - Total!.dat)|6903|
+|[..](../index.html)|DIR|
+|[Nintendo - Magazines - Total!.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Magazines/Total!/Nintendo - Magazines - Total!/Nintendo - Magazines - Total! (TOSEC-v2014-02-02_CM).dat)|6903|

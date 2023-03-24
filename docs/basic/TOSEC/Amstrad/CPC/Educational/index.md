@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad CPC - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Amstrad/CPC/Educational/Amstrad CPC - Educational.dat)|3097|
+|[..](../index.html)|DIR|
+|[Amstrad CPC - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Amstrad/CPC/Educational/Amstrad CPC - Educational/Amstrad CPC - Educational (TOSEC-v2015-05-07_CM).dat)|3097|

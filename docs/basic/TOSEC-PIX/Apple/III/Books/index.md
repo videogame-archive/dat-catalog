@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple III - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/III/Books/Apple III - Books.dat)|901|
+|[..](../index.html)|DIR|
+|[Apple III - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/III/Books/Apple III - Books/Apple III - Books (TOSEC-v2012-04-12_CM).dat)|901|

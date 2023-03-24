@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microsoft Xbox - Magazines - Official XBOX Magazine (GB).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Microsoft/Xbox/Magazines/Official XBOX Magazine (GB)/Microsoft Xbox - Magazines - Official XBOX Magazine (GB).dat)|4984|
+|[..](../index.html)|DIR|
+|[Microsoft Xbox - Magazines - Official XBOX Magazine (GB).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Microsoft/Xbox/Magazines/Official XBOX Magazine (GB)/Microsoft Xbox - Magazines - Official XBOX Magazine (GB)/Microsoft Xbox - Magazines - Official XBOX Magazine (GB) (TOSEC-v2013-04-06_CM).dat)|4984|

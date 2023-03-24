@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Microkey Primo - Manuals - Hardware (HU).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Microkey/Primo/Manuals/Hardware (HU)/Microkey Primo - Manuals - Hardware (HU).dat)|4667|
+|[..](../index.html)|DIR|
+|[Microkey Primo - Manuals - Hardware (HU).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Microkey/Primo/Manuals/Hardware (HU)/Microkey Primo - Manuals - Hardware (HU)/Microkey Primo - Manuals - Hardware (HU) (TOSEC-v2010-01-02_CM).dat)|4667|

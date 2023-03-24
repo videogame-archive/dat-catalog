@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[2MG]]([2MG]/index.html)|DIR|
 |[[A2R]]([A2R]/index.html)|DIR|
 |[[AIF]]([AIF]/index.html)|DIR|

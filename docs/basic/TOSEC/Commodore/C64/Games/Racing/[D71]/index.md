@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Racing - [D71].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Racing/[D71]/Commodore C64 - Games - Racing - [D71].dat)|869|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Racing - [D71].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Racing/[D71]/Commodore C64 - Games - Racing - [D71]/Commodore C64 - Games - Racing - [D71] (TOSEC-v2022-01-26_CM).dat)|869|

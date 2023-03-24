@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Advanced Personal Computer](Advanced Personal Computer/index.html)|DIR|
 |[PC-6001](PC-6001/index.html)|DIR|
 |[PC-8001](PC-8001/index.html)|DIR|

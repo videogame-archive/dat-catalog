@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX Spectrum - Games - [MGT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Games/[MGT]/Sinclair ZX Spectrum - Games - [MGT].dat)|70414|
+|[..](../index.html)|DIR|
+|[Sinclair ZX Spectrum - Games - [MGT].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Games/[MGT]/Sinclair ZX Spectrum - Games - [MGT]/Sinclair ZX Spectrum - Games - [MGT] (TOSEC-v2021-01-15_CM).dat)|70414|

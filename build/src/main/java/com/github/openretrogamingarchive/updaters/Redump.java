@@ -81,17 +81,17 @@ public class Redump extends Updater {
     }
 
     private static void saveSystemDats(List<RedumpSystem> redumpSystems) throws IOException, InterruptedException, URISyntaxException {
-        // Normalized
-        Path normalizedRoot = NORMALIZED_DIR.resolve(REDUMP_DIR);
-        if (!Files.exists(normalizedRoot)) {
-            Files.createDirectories(normalizedRoot);
-        }
+		// Normalized
+		Path normalizedRoot = NORMALIZED_DIR.resolve(REDUMP_DIR);
+		if (Files.exists(normalizedRoot))
+			Util.deleteRecursive(normalizedRoot);
+		Files.createDirectories(normalizedRoot);
 
-        // Basic
-        Path basicRoot = BASIC_DIR.resolve(REDUMP_DIR);
-        if (!Files.exists(basicRoot)) {
-            Files.createDirectories(basicRoot);
-        }
+		// Basic
+		Path basicRoot = BASIC_DIR.resolve(REDUMP_DIR);
+		if (Files.exists(basicRoot))
+			Util.deleteRecursive(basicRoot);
+		Files.createDirectories(basicRoot);
 
         for (RedumpSystem redumpSystem : redumpSystems) {
             if (redumpSystem.getDatDownloadURL() != null) {

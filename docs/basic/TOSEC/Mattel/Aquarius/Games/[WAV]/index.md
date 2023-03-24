@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel Aquarius - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Mattel/Aquarius/Games/[WAV]/Mattel Aquarius - Games - [WAV].dat)|3117|
+|[..](../index.html)|DIR|
+|[Mattel Aquarius - Games - [WAV].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Mattel/Aquarius/Games/[WAV]/Mattel Aquarius - Games - [WAV]/Mattel Aquarius - Games - [WAV] (TOSEC-v2022-06-08_CM).dat)|3117|

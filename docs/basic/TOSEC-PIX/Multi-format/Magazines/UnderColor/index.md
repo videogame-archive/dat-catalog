@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - UnderColor.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/UnderColor/Multi-format - Magazines - UnderColor.dat)|4504|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - UnderColor.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/UnderColor/Multi-format - Magazines - UnderColor/Multi-format - Magazines - UnderColor (TOSEC-v2010-01-25_CM).dat)|4504|

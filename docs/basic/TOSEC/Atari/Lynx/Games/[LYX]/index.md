@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari Lynx - Games - [LYX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/Lynx/Games/[LYX]/Atari Lynx - Games - [LYX].dat)|3831|
+|[..](../index.html)|DIR|
+|[Atari Lynx - Games - [LYX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/Lynx/Games/[LYX]/Atari Lynx - Games - [LYX]/Atari Lynx - Games - [LYX] (TOSEC-v2022-06-08_CM).dat)|3831|

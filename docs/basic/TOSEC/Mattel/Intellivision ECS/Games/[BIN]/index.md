@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel Intellivision ECS - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Mattel/Intellivision ECS/Games/[BIN]/Mattel Intellivision ECS - Games - [BIN].dat)|1471|
+|[..](../index.html)|DIR|
+|[Mattel Intellivision ECS - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Mattel/Intellivision ECS/Games/[BIN]/Mattel Intellivision ECS - Games - [BIN]/Mattel Intellivision ECS - Games - [BIN] (TOSEC-v2021-07-25_CM).dat)|1471|

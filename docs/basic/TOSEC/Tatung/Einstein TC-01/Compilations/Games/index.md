@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tatung Einstein TC-01 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tatung/Einstein TC-01/Compilations/Games/Tatung Einstein TC-01 - Compilations - Games.dat)|8315|
+|[..](../index.html)|DIR|
+|[Tatung Einstein TC-01 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tatung/Einstein TC-01/Compilations/Games/Tatung Einstein TC-01 - Compilations - Games/Tatung Einstein TC-01 - Compilations - Games (TOSEC-v2011-11-15_CM).dat)|8315|

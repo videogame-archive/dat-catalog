@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Coleco ColecoVision - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Coleco/ColecoVision/Artwork/Games/Coleco ColecoVision - Artwork - Games.dat)|11600|
+|[..](../index.html)|DIR|
+|[Coleco ColecoVision - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Coleco/ColecoVision/Artwork/Games/Coleco ColecoVision - Artwork - Games/Coleco ColecoVision - Artwork - Games (TOSEC-v2011-03-19_CM).dat)|11600|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad GX4000 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Amstrad/GX4000/Demos/Amstrad GX4000 - Demos.dat)|2239|
+|[..](../index.html)|DIR|
+|[Amstrad GX4000 - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Amstrad/GX4000/Demos/Amstrad GX4000 - Demos/Amstrad GX4000 - Demos (TOSEC-v2022-06-08_CM).dat)|2239|

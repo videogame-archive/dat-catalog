@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Xerox 1108 - Sources.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Xerox/1108/Sources/Xerox 1108 - Sources.dat)|5272|
+|[..](../index.html)|DIR|
+|[Xerox 1108 - Sources.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Xerox/1108/Sources/Xerox 1108 - Sources/Xerox 1108 - Sources (TOSEC-v2017-04-05_CM).dat)|5272|

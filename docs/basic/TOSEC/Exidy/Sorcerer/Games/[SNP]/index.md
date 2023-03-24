@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exidy Sorcerer - Games - [SNP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Exidy/Sorcerer/Games/[SNP]/Exidy Sorcerer - Games - [SNP].dat)|5956|
+|[..](../index.html)|DIR|
+|[Exidy Sorcerer - Games - [SNP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exidy/Sorcerer/Games/[SNP]/Exidy Sorcerer - Games - [SNP]/Exidy Sorcerer - Games - [SNP] (TOSEC-v2021-12-11_CM).dat)|5956|

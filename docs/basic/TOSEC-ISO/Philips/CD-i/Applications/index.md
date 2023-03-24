@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Philips CD-i - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Philips/CD-i/Applications/Philips CD-i - Applications.dat)|5125|
+|[..](../index.html)|DIR|
+|[Philips CD-i - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Philips/CD-i/Applications/Philips CD-i - Applications/Philips CD-i - Applications (TOSEC-v2012-07-13_CM).dat)|5125|

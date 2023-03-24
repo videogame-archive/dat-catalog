@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 8bit - Applications - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Atari/8bit/Applications/[BIN]/Atari 8bit - Applications - [BIN].dat)|41755|
+|[..](../index.html)|DIR|
+|[Atari 8bit - Applications - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Atari/8bit/Applications/[BIN]/Atari 8bit - Applications - [BIN]/Atari 8bit - Applications - [BIN] (TOSEC-v2021-12-10_CM).dat)|41755|

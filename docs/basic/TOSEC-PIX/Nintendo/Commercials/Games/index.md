@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Commercials/Games/Nintendo - Commercials - Games.dat)|1261|
+|[..](../index.html)|DIR|
+|[Nintendo - Commercials - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Commercials/Games/Nintendo - Commercials - Games/Nintendo - Commercials - Games (TOSEC-v2014-02-02_CM).dat)|1261|

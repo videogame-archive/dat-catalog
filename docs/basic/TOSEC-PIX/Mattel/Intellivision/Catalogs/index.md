@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel Intellivision - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Mattel/Intellivision/Catalogs/Mattel Intellivision - Catalogs.dat)|6398|
+|[..](../index.html)|DIR|
+|[Mattel Intellivision - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Mattel/Intellivision/Catalogs/Mattel Intellivision - Catalogs/Mattel Intellivision - Catalogs (TOSEC-v2022-12-21_CM).dat)|6398|

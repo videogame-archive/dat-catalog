@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[TeleNova Compis - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/TeleNova/Compis/Educational/TeleNova Compis - Educational.dat)|1044739|
+|[..](../index.html)|DIR|
+|[TeleNova Compis - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/TeleNova/Compis/Educational/TeleNova Compis - Educational/TeleNova Compis - Educational (TOSEC-v2022-12-21_CM).dat)|1044739|

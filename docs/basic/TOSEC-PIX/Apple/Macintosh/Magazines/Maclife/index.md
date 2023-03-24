@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple Macintosh - Magazines - Maclife.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/Macintosh/Magazines/Maclife/Apple Macintosh - Magazines - Maclife.dat)|21678|
+|[..](../index.html)|DIR|
+|[Apple Macintosh - Magazines - Maclife.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/Macintosh/Magazines/Maclife/Apple Macintosh - Magazines - Maclife/Apple Macintosh - Magazines - Maclife (TOSEC-v2019-04-25_CM).dat)|21678|

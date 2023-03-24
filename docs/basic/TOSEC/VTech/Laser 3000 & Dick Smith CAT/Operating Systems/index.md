@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Vtech Laser 3000 & Dick Smith CAT - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/VTech/Laser 3000 & Dick Smith CAT/Operating Systems/Vtech Laser 3000 & Dick Smith CAT - Operating Systems.dat)|1291|
+|[..](../index.html)|DIR|
+|[Vtech Laser 3000 & Dick Smith CAT - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/VTech/Laser 3000 & Dick Smith CAT/Operating Systems/Vtech Laser 3000 & Dick Smith CAT - Operating Systems/Vtech Laser 3000 & Dick Smith CAT - Operating Systems (TOSEC-v2020-07-12_CM).dat)|1291|

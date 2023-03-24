@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Various/Multi-format - Magazines - Various.dat)|4856|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Various/Multi-format - Magazines - Various/Multi-format - Magazines - Various (TOSEC-v2010-01-30_CM).dat)|4856|

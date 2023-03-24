@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Toshiba Pasopia - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Toshiba/Pasopia/Games/[BIN]/Toshiba Pasopia - Games - [BIN].dat)|1206|
+|[..](../index.html)|DIR|
+|[Toshiba Pasopia - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Toshiba/Pasopia/Games/[BIN]/Toshiba Pasopia - Games - [BIN]/Toshiba Pasopia - Games - [BIN] (TOSEC-v2019-12-18_CM).dat)|1206|

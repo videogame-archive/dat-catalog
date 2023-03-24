@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-9801 - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/NEC/PC-9801/Artwork/Games/NEC PC-9801 - Artwork - Games.dat)|1392|
+|[..](../index.html)|DIR|
+|[NEC PC-9801 - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/NEC/PC-9801/Artwork/Games/NEC PC-9801 - Artwork - Games/NEC PC-9801 - Artwork - Games (TOSEC-v2022-12-21_CM).dat)|1392|

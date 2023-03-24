@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore - Magazines - Commodore Vilag (HU).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Magazines/Commodore Vilag (HU)/Commodore - Magazines - Commodore Vilag (HU).dat)|24668|
+|[..](../index.html)|DIR|
+|[Commodore - Magazines - Commodore Vilag (HU).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/Commodore Vilag (HU)/Commodore - Magazines - Commodore Vilag (HU)/Commodore - Magazines - Commodore Vilag (HU) (TOSEC-v2022-12-21_CM).dat)|24668|

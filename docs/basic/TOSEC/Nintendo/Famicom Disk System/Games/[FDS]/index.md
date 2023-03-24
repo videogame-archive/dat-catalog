@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Famicom Disk System - Games - [FDS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/Famicom Disk System/Games/[FDS]/Nintendo Famicom Disk System - Games - [FDS].dat)|193013|
+|[..](../index.html)|DIR|
+|[Nintendo Famicom Disk System - Games - [FDS].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/Famicom Disk System/Games/[FDS]/Nintendo Famicom Disk System - Games - [FDS]/Nintendo Famicom Disk System - Games - [FDS] (TOSEC-v2022-06-08_CM).dat)|193013|

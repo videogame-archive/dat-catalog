@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[EACA EG2000 Colour Genie - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/EACA/EG2000 Colour Genie/Manuals/Hardware/EACA EG2000 Colour Genie - Manuals - Hardware.dat)|1313|
+|[..](../index.html)|DIR|
+|[EACA EG2000 Colour Genie - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/EACA/EG2000 Colour Genie/Manuals/Hardware/EACA EG2000 Colour Genie - Manuals - Hardware/EACA EG2000 Colour Genie - Manuals - Hardware (TOSEC-v2011-02-20_CM).dat)|1313|

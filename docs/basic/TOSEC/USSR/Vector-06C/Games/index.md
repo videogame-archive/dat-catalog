@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[USSR Vector-06C - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/USSR/Vector-06C/Games/USSR Vector-06C - Games.dat)|1154|
+|[..](../index.html)|DIR|
+|[USSR Vector-06C - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/USSR/Vector-06C/Games/USSR Vector-06C - Games/USSR Vector-06C - Games (TOSEC-v2021-07-25_CM).dat)|1154|

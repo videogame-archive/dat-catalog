@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - World of 68' Micros, The.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/World of 68' Micros, The/Multi-format - Magazines - World of 68' Micros, The.dat)|14583|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - World of 68' Micros, The.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/World of 68' Micros, The/Multi-format - Magazines - World of 68' Micros, The/Multi-format - Magazines - World of 68' Micros, The (TOSEC-v2010-01-25_CM).dat)|14583|

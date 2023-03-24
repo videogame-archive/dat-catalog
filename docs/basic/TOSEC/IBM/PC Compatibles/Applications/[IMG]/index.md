@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Applications - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/PC Compatibles/Applications/[IMG]/IBM PC Compatibles - Applications - [IMG].dat)|271171|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Applications - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PC Compatibles/Applications/[IMG]/IBM PC Compatibles - Applications - [IMG]/IBM PC Compatibles - Applications - [IMG] (TOSEC-v2021-12-11_CM).dat)|271171|

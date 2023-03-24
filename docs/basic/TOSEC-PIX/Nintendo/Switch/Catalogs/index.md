@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Switch - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Nintendo/Switch/Catalogs/Nintendo Switch - Catalogs.dat)|880|
+|[..](../index.html)|DIR|
+|[Nintendo Switch - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Nintendo/Switch/Catalogs/Nintendo Switch - Catalogs/Nintendo Switch - Catalogs (TOSEC-v2022-12-21_CM).dat)|880|

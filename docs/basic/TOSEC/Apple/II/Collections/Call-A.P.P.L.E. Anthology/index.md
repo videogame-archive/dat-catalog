@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple II - Collections - Call-A.P.P.L.E. Anthology.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/II/Collections/Call-A.P.P.L.E. Anthology/Apple II - Collections - Call-A.P.P.L.E. Anthology.dat)|7872|
+|[..](../index.html)|DIR|
+|[Apple II - Collections - Call-A.P.P.L.E. Anthology.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/II/Collections/Call-A.P.P.L.E. Anthology/Apple II - Collections - Call-A.P.P.L.E. Anthology/Apple II - Collections - Call-A.P.P.L.E. Anthology (TOSEC-v2013-10-29_CM).dat)|7872|

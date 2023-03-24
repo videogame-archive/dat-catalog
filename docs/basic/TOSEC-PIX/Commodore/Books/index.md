@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Books/Commodore - Books.dat)|928|
+|[..](../index.html)|DIR|
+|[Commodore - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Books/Commodore - Books/Commodore - Books (TOSEC-v2022-12-21_CM).dat)|928|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Ferguson Big Board II - System.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Ferguson/Big Board II/System/Ferguson Big Board II - System.dat)|4420|
+|[..](../index.html)|DIR|
+|[Ferguson Big Board II - System.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Ferguson/Big Board II/System/Ferguson Big Board II - System/Ferguson Big Board II - System (TOSEC-v2017-07-05_CM).dat)|4420|

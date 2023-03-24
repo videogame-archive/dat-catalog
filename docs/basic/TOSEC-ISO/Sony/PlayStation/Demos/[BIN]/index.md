@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sony PlayStation - Demos - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Sony/PlayStation/Demos/[BIN]/Sony PlayStation - Demos - [BIN].dat)|11575|
+|[..](../index.html)|DIR|
+|[Sony PlayStation - Demos - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Sony/PlayStation/Demos/[BIN]/Sony PlayStation - Demos - [BIN]/Sony PlayStation - Demos - [BIN] (TOSEC-v2022-06-08_CM).dat)|11575|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Sega - Mega CD & Sega CD - Datfile (540) (2023-03-04 22-39-02).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/Redump/Sega Mega CD & Sega CD/Sega - Mega CD & Sega CD - Datfile (540) (2023-03-04 22-39-02).dat)|1591635|

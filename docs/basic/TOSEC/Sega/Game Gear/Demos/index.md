@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Game Gear - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/Game Gear/Demos/Sega Game Gear - Demos.dat)|12493|
+|[..](../index.html)|DIR|
+|[Sega Game Gear - Demos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/Game Gear/Demos/Sega Game Gear - Demos/Sega Game Gear - Demos (TOSEC-v2022-06-08_CM).dat)|12493|

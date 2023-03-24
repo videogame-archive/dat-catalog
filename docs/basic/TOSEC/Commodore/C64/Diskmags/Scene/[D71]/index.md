@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Diskmags - Scene - [D71].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Diskmags/Scene/[D71]/Commodore C64 - Diskmags - Scene - [D71].dat)|867|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Diskmags - Scene - [D71].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Diskmags/Scene/[D71]/Commodore C64 - Diskmags - Scene - [D71]/Commodore C64 - Diskmags - Scene - [D71] (TOSEC-v2012-06-24_CM).dat)|867|

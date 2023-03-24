@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple Lisa - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/Lisa/Manuals/Technical/Apple Lisa - Manuals - Technical.dat)|2908|
+|[..](../index.html)|DIR|
+|[Apple Lisa - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/Lisa/Manuals/Technical/Apple Lisa - Manuals - Technical/Apple Lisa - Manuals - Technical (TOSEC-v2012-04-12_CM).dat)|2908|

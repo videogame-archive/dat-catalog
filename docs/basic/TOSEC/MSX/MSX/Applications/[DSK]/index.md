@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX - Applications - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX/Applications/[DSK]/MSX MSX - Applications - [DSK].dat)|42171|
+|[..](../index.html)|DIR|
+|[MSX MSX - Applications - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX/Applications/[DSK]/MSX MSX - Applications - [DSK]/MSX MSX - Applications - [DSK] (TOSEC-v2012-04-15_CM).dat)|42171|

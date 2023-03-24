@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exidy Sorcerer - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Exidy/Sorcerer/Firmware/Exidy Sorcerer - Firmware.dat)|4633|
+|[..](../index.html)|DIR|
+|[Exidy Sorcerer - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exidy/Sorcerer/Firmware/Exidy Sorcerer - Firmware/Exidy Sorcerer - Firmware (TOSEC-v2021-12-11_CM).dat)|4633|

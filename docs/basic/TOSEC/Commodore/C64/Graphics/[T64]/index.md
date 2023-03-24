@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Graphics - [T64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Graphics/[T64]/Commodore C64 - Graphics - [T64].dat)|650866|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Graphics - [T64].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Graphics/[T64]/Commodore C64 - Graphics - [T64]/Commodore C64 - Graphics - [T64] (TOSEC-v2022-11-14_CM).dat)|650866|

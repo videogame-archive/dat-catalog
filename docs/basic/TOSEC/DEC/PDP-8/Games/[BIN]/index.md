@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[DEC PDP-8 - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/DEC/PDP-8/Games/[BIN]/DEC PDP-8 - Games - [BIN].dat)|771|
+|[..](../index.html)|DIR|
+|[DEC PDP-8 - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/DEC/PDP-8/Games/[BIN]/DEC PDP-8 - Games - [BIN]/DEC PDP-8 - Games - [BIN] (TOSEC-v2014-01-23_CM).dat)|771|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Kaypro II - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Kaypro/II/Applications/Kaypro II - Applications.dat)|2784|
+|[..](../index.html)|DIR|
+|[Kaypro II - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Kaypro/II/Applications/Kaypro II - Applications/Kaypro II - Applications (TOSEC-v2012-02-27_CM).dat)|2784|

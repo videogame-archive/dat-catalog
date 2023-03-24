@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[SNK Neo-Geo CD - Multimedia - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/SNK/Neo-Geo CD/Multimedia/[IMG]/SNK Neo-Geo CD - Multimedia - [IMG].dat)|20293|
+|[..](../index.html)|DIR|
+|[SNK Neo-Geo CD - Multimedia - [IMG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/SNK/Neo-Geo CD/Multimedia/[IMG]/SNK Neo-Geo CD - Multimedia - [IMG]/SNK Neo-Geo CD - Multimedia - [IMG] (TOSEC-v2014-06-12_CM).dat)|20293|

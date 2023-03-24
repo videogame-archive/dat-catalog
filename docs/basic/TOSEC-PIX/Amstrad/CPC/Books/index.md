@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad CPC - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Amstrad/CPC/Books/Amstrad CPC - Books.dat)|8035|
+|[..](../index.html)|DIR|
+|[Amstrad CPC - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Amstrad/CPC/Books/Amstrad CPC - Books/Amstrad CPC - Books (TOSEC-v2011-01-25_CM).dat)|8035|

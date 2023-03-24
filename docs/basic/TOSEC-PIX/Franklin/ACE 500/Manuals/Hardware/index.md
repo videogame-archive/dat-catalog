@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Franklin ACE 500 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Franklin/ACE 500/Manuals/Hardware/Franklin ACE 500 - Manuals - Hardware.dat)|957|
+|[..](../index.html)|DIR|
+|[Franklin ACE 500 - Manuals - Hardware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Franklin/ACE 500/Manuals/Hardware/Franklin ACE 500 - Manuals - Hardware/Franklin ACE 500 - Manuals - Hardware (TOSEC-v2012-04-15_CM).dat)|957|

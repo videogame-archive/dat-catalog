@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NEC PC-8801 - Games - [T88].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/NEC/PC-8801/Games/[T88]/NEC PC-8801 - Games - [T88].dat)|1179|
+|[..](../index.html)|DIR|
+|[NEC PC-8801 - Games - [T88].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/NEC/PC-8801/Games/[T88]/NEC PC-8801 - Games - [T88]/NEC PC-8801 - Games - [T88] (TOSEC-v2021-07-25_CM).dat)|1179|

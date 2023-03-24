@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bondwell 2 - Applications - [IMD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bondwell/2/Applications/[IMD]/Bondwell 2 - Applications - [IMD].dat)|2352|
+|[..](../index.html)|DIR|
+|[Bondwell 2 - Applications - [IMD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bondwell/2/Applications/[IMD]/Bondwell 2 - Applications - [IMD]/Bondwell 2 - Applications - [IMD] (TOSEC-v2018-03-08_CM).dat)|2352|

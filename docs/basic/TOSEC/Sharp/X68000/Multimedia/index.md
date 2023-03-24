@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sharp X68000 - Multimedia.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sharp/X68000/Multimedia/Sharp X68000 - Multimedia.dat)|69482|
+|[..](../index.html)|DIR|
+|[Sharp X68000 - Multimedia.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sharp/X68000/Multimedia/Sharp X68000 - Multimedia/Sharp X68000 - Multimedia (TOSEC-v2014-05-13_CM).dat)|69482|

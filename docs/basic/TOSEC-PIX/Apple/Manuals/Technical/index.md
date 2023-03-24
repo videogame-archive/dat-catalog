@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/Manuals/Technical/Apple - Manuals - Technical.dat)|4370|
+|[..](../index.html)|DIR|
+|[Apple - Manuals - Technical.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/Manuals/Technical/Apple - Manuals - Technical/Apple - Manuals - Technical (TOSEC-v2012-02-26_CM).dat)|4370|

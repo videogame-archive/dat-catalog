@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX MSX2 - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MSX/MSX2/Educational/MSX MSX2 - Educational.dat)|8476|
+|[..](../index.html)|DIR|
+|[MSX MSX2 - Educational.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MSX/MSX2/Educational/MSX MSX2 - Educational/MSX MSX2 - Educational (TOSEC-v2012-04-15_CM).dat)|8476|

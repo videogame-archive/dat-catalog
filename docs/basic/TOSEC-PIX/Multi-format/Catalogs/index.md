@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Catalogs/Multi-format - Catalogs.dat)|19422|
+|[..](../index.html)|DIR|
+|[Multi-format - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Catalogs/Multi-format - Catalogs/Multi-format - Catalogs (TOSEC-v2022-12-21_CM).dat)|19422|

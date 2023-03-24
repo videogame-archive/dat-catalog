@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad CPC - Applications - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Amstrad/CPC/Applications/[BIN]/Amstrad CPC - Applications - [BIN].dat)|18569|
+|[..](../index.html)|DIR|
+|[Amstrad CPC - Applications - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Amstrad/CPC/Applications/[BIN]/Amstrad CPC - Applications - [BIN]/Amstrad CPC - Applications - [BIN] (TOSEC-v2014-10-28_CM).dat)|18569|

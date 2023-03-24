@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Atari ST - Magazines - Atari ST Review](Atari ST - Magazines - Atari ST Review/index.html)|DIR|

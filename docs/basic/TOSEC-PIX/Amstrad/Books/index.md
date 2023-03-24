@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Amstrad/Books/Amstrad - Books.dat)|888|
+|[..](../index.html)|DIR|
+|[Amstrad - Books.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Amstrad/Books/Amstrad - Books/Amstrad - Books (TOSEC-v2022-12-21_CM).dat)|888|

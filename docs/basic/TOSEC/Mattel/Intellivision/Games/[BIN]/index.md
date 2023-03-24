@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Mattel Intellivision - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Mattel/Intellivision/Games/[BIN]/Mattel Intellivision - Games - [BIN].dat)|65892|
+|[..](../index.html)|DIR|
+|[Mattel Intellivision - Games - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Mattel/Intellivision/Games/[BIN]/Mattel Intellivision - Games - [BIN]/Mattel Intellivision - Games - [BIN] (TOSEC-v2022-06-08_CM).dat)|65892|

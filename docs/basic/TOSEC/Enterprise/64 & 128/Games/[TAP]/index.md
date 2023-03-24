@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Enterprise 64 & 128 - Games - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Enterprise/64 & 128/Games/[TAP]/Enterprise 64 & 128 - Games - [TAP].dat)|1438|
+|[..](../index.html)|DIR|
+|[Enterprise 64 & 128 - Games - [TAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Enterprise/64 & 128/Games/[TAP]/Enterprise 64 & 128 - Games - [TAP]/Enterprise 64 & 128 - Games - [TAP] (TOSEC-v2018-07-01_CM).dat)|1438|

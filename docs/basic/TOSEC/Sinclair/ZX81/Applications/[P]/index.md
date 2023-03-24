@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX81 - Applications - [P].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX81/Applications/[P]/Sinclair ZX81 - Applications - [P].dat)|57651|
+|[..](../index.html)|DIR|
+|[Sinclair ZX81 - Applications - [P].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX81/Applications/[P]/Sinclair ZX81 - Applications - [P]/Sinclair ZX81 - Applications - [P] (TOSEC-v2011-09-24_CM).dat)|57651|

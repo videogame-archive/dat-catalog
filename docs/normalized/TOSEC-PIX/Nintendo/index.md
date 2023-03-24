@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[3DS](3DS/index.html)|DIR|
 |[64](64/index.html)|DIR|
 |[64DD](64DD/index.html)|DIR|

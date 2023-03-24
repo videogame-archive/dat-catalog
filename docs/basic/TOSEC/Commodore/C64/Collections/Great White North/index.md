@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Collections - Great White North.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Collections/Great White North/Commodore C64 - Collections - Great White North.dat)|91272|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Collections - Great White North.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Collections/Great White North/Commodore C64 - Collections - Great White North/Commodore C64 - Collections - Great White North (TOSEC-v2021-12-07_CM).dat)|91272|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Thomson TO8, TO8D, TO9, TO9+ - Educational - [SAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Thomson/TO8, TO8D, TO9, TO9+/Educational/[SAP]/Thomson TO8, TO8D, TO9, TO9+ - Educational - [SAP].dat)|12902|
+|[..](../index.html)|DIR|
+|[Thomson TO8, TO8D, TO9, TO9+ - Educational - [SAP].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Thomson/TO8, TO8D, TO9, TO9+/Educational/[SAP]/Thomson TO8, TO8D, TO9, TO9+ - Educational - [SAP]/Thomson TO8, TO8D, TO9, TO9+ - Educational - [SAP] (TOSEC-v2012-08-27_CM).dat)|12902|

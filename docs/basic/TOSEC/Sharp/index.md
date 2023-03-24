@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[MZ-2000 & MZ-2200](MZ-2000 & MZ-2200/index.html)|DIR|
 |[MZ-2500](MZ-2500/index.html)|DIR|
 |[MZ-700](MZ-700/index.html)|DIR|

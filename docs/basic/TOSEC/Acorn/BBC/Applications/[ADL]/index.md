@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn BBC - Applications - [ADL].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/BBC/Applications/[ADL]/Acorn BBC - Applications - [ADL].dat)|4148|
+|[..](../index.html)|DIR|
+|[Acorn BBC - Applications - [ADL].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/BBC/Applications/[ADL]/Acorn BBC - Applications - [ADL]/Acorn BBC - Applications - [ADL] (TOSEC-v2013-10-16_CM).dat)|4148|

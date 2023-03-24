@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Sega - Game Gear (20230313-132425).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/No-Intro/No-Intro/Sega - Game Gear/Sega - Game Gear (20230313-132425).dat)|283815|

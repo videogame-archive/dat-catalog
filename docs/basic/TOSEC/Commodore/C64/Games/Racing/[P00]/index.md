@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Racing - [P00].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Racing/[P00]/Commodore C64 - Games - Racing - [P00].dat)|119503|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Racing - [P00].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Racing/[P00]/Commodore C64 - Games - Racing - [P00]/Commodore C64 - Games - Racing - [P00] (TOSEC-v2022-12-22_CM).dat)|119503|

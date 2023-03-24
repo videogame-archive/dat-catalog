@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore - Magazines - RUN.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Commodore/Magazines/RUN/Commodore - Magazines - RUN.dat)|36571|
+|[..](../index.html)|DIR|
+|[Commodore - Magazines - RUN.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Commodore/Magazines/RUN/Commodore - Magazines - RUN/Commodore - Magazines - RUN (TOSEC-v2010-01-16_CM).dat)|36571|

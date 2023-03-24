@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo GameCube - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-ISO/Nintendo/GameCube/Samplers/Nintendo GameCube - Samplers.dat)|14757|
+|[..](../index.html)|DIR|
+|[Nintendo GameCube - Samplers.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-ISO/Nintendo/GameCube/Samplers/Nintendo GameCube - Samplers/Nintendo GameCube - Samplers (TOSEC-v2022-12-22_CM).dat)|14757|

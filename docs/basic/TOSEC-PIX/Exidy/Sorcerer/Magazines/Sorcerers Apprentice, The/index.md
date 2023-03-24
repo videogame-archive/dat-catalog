@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exidy Sorcerer - Magazines - Sorcerers Apprentice, The.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Exidy/Sorcerer/Magazines/Sorcerers Apprentice, The/Exidy Sorcerer - Magazines - Sorcerers Apprentice, The.dat)|4003|
+|[..](../index.html)|DIR|
+|[Exidy Sorcerer - Magazines - Sorcerers Apprentice, The.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Exidy/Sorcerer/Magazines/Sorcerers Apprentice, The/Exidy Sorcerer - Magazines - Sorcerers Apprentice, The/Exidy Sorcerer - Magazines - Sorcerers Apprentice, The (TOSEC-v2010-01-23_CM).dat)|4003|

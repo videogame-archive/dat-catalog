@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tatung Einstein TC-01 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tatung/Einstein TC-01/Applications/Tatung Einstein TC-01 - Applications.dat)|8793|
+|[..](../index.html)|DIR|
+|[Tatung Einstein TC-01 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tatung/Einstein TC-01/Applications/Tatung Einstein TC-01 - Applications/Tatung Einstein TC-01 - Applications (TOSEC-v2011-11-15_CM).dat)|8793|

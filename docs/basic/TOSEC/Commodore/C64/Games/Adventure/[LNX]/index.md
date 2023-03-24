@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Adventure - [LNX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Adventure/[LNX]/Commodore C64 - Games - Adventure - [LNX].dat)|87829|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Adventure - [LNX].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Adventure/[LNX]/Commodore C64 - Games - Adventure - [LNX]/Commodore C64 - Games - Adventure - [LNX] (TOSEC-v2022-12-22_CM).dat)|87829|

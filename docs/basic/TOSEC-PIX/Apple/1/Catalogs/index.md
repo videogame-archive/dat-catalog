@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple 1 - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Apple/1/Catalogs/Apple 1 - Catalogs.dat)|815|
+|[..](../index.html)|DIR|
+|[Apple 1 - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Apple/1/Catalogs/Apple 1 - Catalogs/Apple 1 - Catalogs (TOSEC-v2012-04-12_CM).dat)|815|

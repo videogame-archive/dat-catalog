@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Multi-format - Magazines - Computer + Videogiochi (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Multi-format/Magazines/Computer + Videogiochi (IT)/Multi-format - Magazines - Computer + Videogiochi (IT).dat)|14918|
+|[..](../index.html)|DIR|
+|[Multi-format - Magazines - Computer + Videogiochi (IT).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Multi-format/Magazines/Computer + Videogiochi (IT)/Multi-format - Magazines - Computer + Videogiochi (IT)/Multi-format - Magazines - Computer + Videogiochi (IT) (TOSEC-v2014-02-02_CM).dat)|14918|

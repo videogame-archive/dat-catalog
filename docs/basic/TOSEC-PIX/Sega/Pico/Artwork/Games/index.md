@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega Pico - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Sega/Pico/Artwork/Games/Sega Pico - Artwork - Games.dat)|1203|
+|[..](../index.html)|DIR|
+|[Sega Pico - Artwork - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Sega/Pico/Artwork/Games/Sega Pico - Artwork - Games/Sega Pico - Artwork - Games (TOSEC-v2022-12-21_CM).dat)|1203|

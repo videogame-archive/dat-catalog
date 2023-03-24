@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Apple IIGS - Hard Disks - Games - [2MG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Apple/IIGS/Hard Disks/Games/[2MG]/Apple IIGS - Hard Disks - Games - [2MG].dat)|10672|
+|[..](../index.html)|DIR|
+|[Apple IIGS - Hard Disks - Games - [2MG].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Apple/IIGS/Hard Disks/Games/[2MG]/Apple IIGS - Hard Disks - Games - [2MG]/Apple IIGS - Hard Disks - Games - [2MG] (TOSEC-v2022-12-21_CM).dat)|10672|

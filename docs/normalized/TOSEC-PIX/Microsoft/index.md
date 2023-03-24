@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[Comics](Comics/index.html)|DIR|
 |[TV Series](TV Series/index.html)|DIR|
 |[Xbox](Xbox/index.html)|DIR|

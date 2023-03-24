@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sega 32X - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sega/32X/Games/Sega 32X - Games.dat)|83931|
+|[..](../index.html)|DIR|
+|[Sega 32X - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sega/32X/Games/Sega 32X - Games/Sega 32X - Games (TOSEC-v2022-06-08_CM).dat)|83931|

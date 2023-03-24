@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Hewlett-Packard HP9835A-B - Option ROMs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Hewlett-Packard/HP9835A-B/Option ROMs/Hewlett-Packard HP9835A-B - Option ROMs.dat)|2764|
+|[..](../index.html)|DIR|
+|[Hewlett-Packard HP9835A-B - Option ROMs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Hewlett-Packard/HP9835A-B/Option ROMs/Hewlett-Packard HP9835A-B - Option ROMs/Hewlett-Packard HP9835A-B - Option ROMs (TOSEC-v2018-07-01_CM).dat)|2764|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Xerox 820-II - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Xerox/820-II/Operating Systems/Xerox 820-II - Operating Systems.dat)|952|
+|[..](../index.html)|DIR|
+|[Xerox 820-II - Operating Systems.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Xerox/820-II/Operating Systems/Xerox 820-II - Operating Systems/Xerox 820-II - Operating Systems (TOSEC-v2017-04-05_CM).dat)|952|

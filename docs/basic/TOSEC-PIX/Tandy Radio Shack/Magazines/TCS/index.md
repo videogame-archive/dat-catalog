@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tandy Radio Shack - Magazines - TCS.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Tandy Radio Shack/Magazines/TCS/Tandy Radio Shack - Magazines - TCS.dat)|3930|
+|[..](../index.html)|DIR|
+|[Tandy Radio Shack - Magazines - TCS.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Tandy Radio Shack/Magazines/TCS/Tandy Radio Shack - Magazines - TCS/Tandy Radio Shack - Magazines - TCS (TOSEC-v2010-01-21_CM).dat)|3930|

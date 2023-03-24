@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Magnavox Odyssey2 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Magnavox/Odyssey2/Applications/Magnavox Odyssey2 - Applications.dat)|2334|
+|[..](../index.html)|DIR|
+|[Magnavox Odyssey2 - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Magnavox/Odyssey2/Applications/Magnavox Odyssey2 - Applications/Magnavox Odyssey2 - Applications (TOSEC-v2011-02-22_CM).dat)|2334|

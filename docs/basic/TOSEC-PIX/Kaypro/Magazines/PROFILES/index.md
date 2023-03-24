@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Kaypro - Magazines - PROFILES.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Kaypro/Magazines/PROFILES/Kaypro - Magazines - PROFILES.dat)|17612|
+|[..](../index.html)|DIR|
+|[Kaypro - Magazines - PROFILES.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Kaypro/Magazines/PROFILES/Kaypro - Magazines - PROFILES/Kaypro - Magazines - PROFILES (TOSEC-v2011-02-05_CM).dat)|17612|

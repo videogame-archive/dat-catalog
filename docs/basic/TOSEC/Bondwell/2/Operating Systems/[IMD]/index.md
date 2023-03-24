@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Bondwell 2 - Operating Systems - [IMD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Bondwell/2/Operating Systems/[IMD]/Bondwell 2 - Operating Systems - [IMD].dat)|921|
+|[..](../index.html)|DIR|
+|[Bondwell 2 - Operating Systems - [IMD].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Bondwell/2/Operating Systems/[IMD]/Bondwell 2 - Operating Systems - [IMD]/Bondwell 2 - Operating Systems - [IMD] (TOSEC-v2018-03-08_CM).dat)|921|

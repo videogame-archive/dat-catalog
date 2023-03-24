@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Atari 2600 & VCS - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Atari/2600 & VCS/Video/Atari 2600 & VCS - Video.dat)|814|
+|[..](../index.html)|DIR|
+|[Atari 2600 & VCS - Video.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Atari/2600 & VCS/Video/Atari 2600 & VCS - Video/Atari 2600 & VCS - Video (TOSEC-v2022-12-21_CM).dat)|814|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Games - [PDI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/IBM/PC Compatibles/Games/[PDI]/IBM PC Compatibles - Games - [PDI].dat)|54972|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Games - [PDI].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/IBM/PC Compatibles/Games/[PDI]/IBM PC Compatibles - Games - [PDI]/IBM PC Compatibles - Games - [PDI] (TOSEC-v2011-01-06_CM).dat)|54972|

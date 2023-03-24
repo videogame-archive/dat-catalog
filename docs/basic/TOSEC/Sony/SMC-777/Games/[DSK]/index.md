@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sony SMC-777 - Games - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sony/SMC-777/Games/[DSK]/Sony SMC-777 - Games - [DSK].dat)|880|
+|[..](../index.html)|DIR|
+|[Sony SMC-777 - Games - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sony/SMC-777/Games/[DSK]/Sony SMC-777 - Games - [DSK]/Sony SMC-777 - Games - [DSK] (TOSEC-v2021-07-25_CM).dat)|880|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PCjr - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PCjr/Catalogs/IBM PCjr - Catalogs.dat)|2259|
+|[..](../index.html)|DIR|
+|[IBM PCjr - Catalogs.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/IBM/PCjr/Catalogs/IBM PCjr - Catalogs/IBM PCjr - Catalogs (TOSEC-v2017-08-27_CM).dat)|2259|

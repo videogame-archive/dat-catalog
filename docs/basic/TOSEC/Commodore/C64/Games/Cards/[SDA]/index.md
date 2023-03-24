@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Commodore C64 - Games - Cards - [SDA].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Commodore/C64/Games/Cards/[SDA]/Commodore C64 - Games - Cards - [SDA].dat)|790|
+|[..](../index.html)|DIR|
+|[Commodore C64 - Games - Cards - [SDA].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Commodore/C64/Games/Cards/[SDA]/Commodore C64 - Games - Cards - [SDA]/Commodore C64 - Games - Cards - [SDA] (TOSEC-v2022-01-29_CM).dat)|790|

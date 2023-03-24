@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Exelvision EXL100 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Exelvision/EXL100/Firmware/Exelvision EXL100 - Firmware.dat)|1471|
+|[..](../index.html)|DIR|
+|[Exelvision EXL100 - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Exelvision/EXL100/Firmware/Exelvision EXL100 - Firmware/Exelvision EXL100 - Firmware (TOSEC-v2014-01-24_CM).dat)|1471|

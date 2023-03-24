@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Radio-86RK Apogej BK-01 - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Radio-86RK/Apogej BK-01/Various/Radio-86RK Apogej BK-01 - Various.dat)|32789|
+|[..](../index.html)|DIR|
+|[Radio-86RK Apogej BK-01 - Various.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Radio-86RK/Apogej BK-01/Various/Radio-86RK Apogej BK-01 - Various/Radio-86RK Apogej BK-01 - Various (TOSEC-v2014-04-23_CM).dat)|32789|

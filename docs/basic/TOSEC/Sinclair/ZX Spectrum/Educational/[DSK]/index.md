@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Sinclair ZX Spectrum - Educational - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Sinclair/ZX Spectrum/Educational/[DSK]/Sinclair ZX Spectrum - Educational - [DSK].dat)|11884|
+|[..](../index.html)|DIR|
+|[Sinclair ZX Spectrum - Educational - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Sinclair/ZX Spectrum/Educational/[DSK]/Sinclair ZX Spectrum - Educational - [DSK]/Sinclair ZX Spectrum - Educational - [DSK] (TOSEC-v2021-01-15_CM).dat)|11884|

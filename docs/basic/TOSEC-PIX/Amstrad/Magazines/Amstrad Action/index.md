@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Amstrad - Magazines - Amstrad Action.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/Amstrad/Magazines/Amstrad Action/Amstrad - Magazines - Amstrad Action.dat)|47449|
+|[..](../index.html)|DIR|
+|[Amstrad - Magazines - Amstrad Action.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/Amstrad/Magazines/Amstrad Action/Amstrad - Magazines - Amstrad Action/Amstrad - Magazines - Amstrad Action (TOSEC-v2019-04-22_CM).dat)|47449|

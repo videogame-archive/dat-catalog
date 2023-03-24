@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Nintendo Game Boy Advance - Videos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Nintendo/Game Boy Advance/Videos/Nintendo Game Boy Advance - Videos.dat)|42471|
+|[..](../index.html)|DIR|
+|[Nintendo Game Boy Advance - Videos.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Nintendo/Game Boy Advance/Videos/Nintendo Game Boy Advance - Videos/Nintendo Game Boy Advance - Videos (TOSEC-v2022-12-21_CM).dat)|42471|

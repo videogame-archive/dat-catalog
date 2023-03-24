@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[[D64]]([D64]/index.html)|DIR|
 |[[LNX]]([LNX]/index.html)|DIR|
 |[[P00]]([P00]/index.html)|DIR|

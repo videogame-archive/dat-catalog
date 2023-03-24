@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[HomeLab HomeLab - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/HomeLab/HomeLab/Firmware/HomeLab HomeLab - Firmware.dat)|7724|
+|[..](../index.html)|DIR|
+|[HomeLab HomeLab - Firmware.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/HomeLab/HomeLab/Firmware/HomeLab HomeLab - Firmware/HomeLab HomeLab - Firmware (TOSEC-v2011-09-04_CM).dat)|7724|

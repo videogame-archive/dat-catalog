@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[NorthStar Advantage - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/NorthStar/Advantage/Applications/NorthStar Advantage - Applications.dat)|2138|
+|[..](../index.html)|DIR|
+|[NorthStar Advantage - Applications.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/NorthStar/Advantage/Applications/NorthStar Advantage - Applications/NorthStar Advantage - Applications (TOSEC-v2018-03-08_CM).dat)|2138|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MGT Sam Coupe - Games - [SDF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MGT/Sam Coupe/Games/[SDF]/MGT Sam Coupe - Games - [SDF].dat)|1161|
+|[..](../index.html)|DIR|
+|[MGT Sam Coupe - Games - [SDF].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MGT/Sam Coupe/Games/[SDF]/MGT Sam Coupe - Games - [SDF]/MGT Sam Coupe - Games - [SDF] (TOSEC-v2014-04-11_CM).dat)|1161|

@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MITS Altair 8800 - Applications - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/MITS/Altair 8800/Applications/[BIN]/MITS Altair 8800 - Applications - [BIN].dat)|1902|
+|[..](../index.html)|DIR|
+|[MITS Altair 8800 - Applications - [BIN].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/MITS/Altair 8800/Applications/[BIN]/MITS Altair 8800 - Applications - [BIN]/MITS Altair 8800 - Applications - [BIN] (TOSEC-v2014-04-11_CM).dat)|1902|

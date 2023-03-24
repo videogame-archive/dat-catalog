@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Tiki Data Kontiki-100 & Tiki-100 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Tiki Data/Kontiki-100 & Tiki-100/Compilations/Games/Tiki Data Kontiki-100 & Tiki-100 - Compilations - Games.dat)|1155|
+|[..](../index.html)|DIR|
+|[Tiki Data Kontiki-100 & Tiki-100 - Compilations - Games.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Tiki Data/Kontiki-100 & Tiki-100/Compilations/Games/Tiki Data Kontiki-100 & Tiki-100 - Compilations - Games/Tiki Data Kontiki-100 & Tiki-100 - Compilations - Games (TOSEC-v2011-05-13_CM).dat)|1155|

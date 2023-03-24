@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[IBM PC Compatibles - Magazines - Just Magazines Computer Market.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/IBM/PC Compatibles/Magazines/Just Magazines Computer Market/IBM PC Compatibles - Magazines - Just Magazines Computer Market.dat)|2207|
+|[..](../index.html)|DIR|
+|[IBM PC Compatibles - Magazines - Just Magazines Computer Market.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/IBM/PC Compatibles/Magazines/Just Magazines Computer Market/IBM PC Compatibles - Magazines - Just Magazines Computer Market/IBM PC Compatibles - Magazines - Just Magazines Computer Market (TOSEC-v2014-02-01_CM).dat)|2207|

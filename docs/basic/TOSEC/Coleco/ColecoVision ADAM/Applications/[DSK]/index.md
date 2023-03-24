@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Coleco ColecoVision ADAM - Applications - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Coleco/ColecoVision ADAM/Applications/[DSK]/Coleco ColecoVision ADAM - Applications - [DSK].dat)|9973|
+|[..](../index.html)|DIR|
+|[Coleco ColecoVision ADAM - Applications - [DSK].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Coleco/ColecoVision ADAM/Applications/[DSK]/Coleco ColecoVision ADAM - Applications - [DSK]/Coleco ColecoVision ADAM - Applications - [DSK] (TOSEC-v2011-08-31_CM).dat)|9973|

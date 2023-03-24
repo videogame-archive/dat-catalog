@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[MSX - Magazines - MSX Club (ES).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC-PIX/MSX/Magazines/MSX Club (ES)/MSX - Magazines - MSX Club (ES).dat)|30938|
+|[..](../index.html)|DIR|
+|[MSX - Magazines - MSX Club (ES).dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC-PIX/MSX/Magazines/MSX Club (ES)/MSX - Magazines - MSX Club (ES)/MSX - Magazines - MSX Club (ES) (TOSEC-v2014-02-01_CM).dat)|30938|

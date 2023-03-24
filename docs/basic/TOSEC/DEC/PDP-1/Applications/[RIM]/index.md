@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[DEC PDP-1 - Applications - [RIM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/DEC/PDP-1/Applications/[RIM]/DEC PDP-1 - Applications - [RIM].dat)|1471|
+|[..](../index.html)|DIR|
+|[DEC PDP-1 - Applications - [RIM].dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/DEC/PDP-1/Applications/[RIM]/DEC PDP-1 - Applications - [RIM]/DEC PDP-1 - Applications - [RIM] (TOSEC-v2014-01-13_CM).dat)|1471|

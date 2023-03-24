@@ -1,5 +1,6 @@
 |Name|Size|
 |:---|---:|
+|[..](../index.html)|DIR|
 |[CFX-9850](CFX-9850/index.html)|DIR|
 |[FP-1000 & FP-1100](FP-1000 & FP-1100/index.html)|DIR|
 |[Loopy](Loopy/index.html)|DIR|

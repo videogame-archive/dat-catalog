@@ -1,3 +1,4 @@
 |Name|Size|
 |:---|---:|
-|[Acorn Electron - Covertapes.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/basic/TOSEC/Acorn/Electron/Covertapes/Acorn Electron - Covertapes.dat)|37914|
+|[..](../index.html)|DIR|
+|[Acorn Electron - Covertapes.dat](https://raw.githubusercontent.com/open-retrogaming-archive/dat-catalog/main/root/normalized/TOSEC/Acorn/Electron/Covertapes/Acorn Electron - Covertapes/Acorn Electron - Covertapes (TOSEC-v2011-02-22_CM).dat)|37914|
